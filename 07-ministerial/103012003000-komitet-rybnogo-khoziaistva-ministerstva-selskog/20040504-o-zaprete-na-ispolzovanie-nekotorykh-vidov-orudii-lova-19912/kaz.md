@@ -1,5 +1,5 @@
 ---
-version_id: AI19912_0
+version_id: AI19912_2
 act_code: '19912'
 language: kaz
 title: Кейбір аулау құралдарын пайдалануға тыйым салу туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '103012003000'
 approval_date: 2004-05-04
-version_date: 2004-05-04
+version_date: 2005-02-22
 registry_number: '19912'
-source: https://zan.gov.kz/client/#!/doc/19912/kaz/04.05.2004
+source: https://zan.gov.kz/client/#!/doc/19912/kaz/22.02.2005
 ---
 
 # Кейбір аулау құралдарын пайдалануға тыйым салу туралы
