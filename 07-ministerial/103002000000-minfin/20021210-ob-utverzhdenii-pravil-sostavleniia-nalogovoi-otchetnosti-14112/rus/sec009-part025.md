@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/14112/rus/10.12.2002
+source: https://zan.gov.kz/client/#!/doc/14112/rus/03.01.2003
 ---
 
 ## 12. Составление приложения по форме 931.10

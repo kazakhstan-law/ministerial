@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/14112/rus/10.12.2002
+source: https://zan.gov.kz/client/#!/doc/14112/rus/03.01.2003
 ---
 
 ## 3. Составление формы 120.01 - Доходы от страховой деятельности

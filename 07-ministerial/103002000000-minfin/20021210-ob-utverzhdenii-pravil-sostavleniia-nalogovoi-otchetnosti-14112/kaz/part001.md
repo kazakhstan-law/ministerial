@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/14112/kaz/10.12.2002
+source: https://zan.gov.kz/client/#!/doc/14112/kaz/03.01.2003
 ---
 
 ## Корпорациялық табыс салығы бойынша декларация жасау ережесі (100-нысан)

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/14112/kaz/10.12.2002
+source: https://zan.gov.kz/client/#!/doc/14112/kaz/03.01.2003
 ---
 
 # Салық есептеуін жасаудың ережелерін бекіту туралы
