@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/9993/rus/10.12.2002
+source: https://zan.gov.kz/client/#!/doc/9993/rus/28.01.2003
 ---
 
 ## 11. Особенности делопроизводства в подразделениях дорожной полиции
