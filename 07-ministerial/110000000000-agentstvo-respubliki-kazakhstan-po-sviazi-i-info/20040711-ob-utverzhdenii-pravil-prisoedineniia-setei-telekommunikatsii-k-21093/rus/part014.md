@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/21093/rus/11.07.2004
+source: https://zan.gov.kz/client/#!/doc/21093/rus/17.01.2005
 ---
 
 ## §2. Порядок регулирования пропуска трафика по СТОП
