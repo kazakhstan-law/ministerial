@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/15874/rus/01.12.2003
+source: https://zan.gov.kz/client/#!/doc/15874/rus/09.06.2004
 ---
 
 ## Классификатор формирования идентификационного таможенного номера
