@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/219/rus/23.06.1998
+repealed_on: 1999-02-20
+repealed_by:
+  code: '2159'
+  title: Вопросы государственной регистрации юридических лиц
+  link: https://zan.gov.kz/client/#!/doc/2159/rus
 ---
 
 # Об утверждении Правил государственной регистрации юридических лиц
