@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/17973/kaz/03.12.2003
+source: https://zan.gov.kz/client/#!/doc/17973/kaz/27.01.2004
 ---
 
 ## 19. Сақтандыру сыйақылары бойынша шығыстар - 110.17 нысанын жасау

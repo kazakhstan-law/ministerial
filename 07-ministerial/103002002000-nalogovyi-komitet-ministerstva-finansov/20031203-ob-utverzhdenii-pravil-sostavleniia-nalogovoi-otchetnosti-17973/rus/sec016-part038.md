@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/17973/rus/03.12.2003
+source: https://zan.gov.kz/client/#!/doc/17973/rus/27.01.2004
 ---
 
 ## 1. Общие положения

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/18251/rus/23.12.2003
+source: https://zan.gov.kz/client/#!/doc/18251/rus/27.01.2004
 ---
 
 # Об утверждении Правил ведения лицевых счетов

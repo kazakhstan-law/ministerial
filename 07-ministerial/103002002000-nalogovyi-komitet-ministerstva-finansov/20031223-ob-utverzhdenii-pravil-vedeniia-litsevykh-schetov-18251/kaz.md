@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/18251/kaz/23.12.2003
+source: https://zan.gov.kz/client/#!/doc/18251/kaz/27.01.2004
 ---
 
 # Дербес шоттарды жүргізу ережелерін бекіту туралы
