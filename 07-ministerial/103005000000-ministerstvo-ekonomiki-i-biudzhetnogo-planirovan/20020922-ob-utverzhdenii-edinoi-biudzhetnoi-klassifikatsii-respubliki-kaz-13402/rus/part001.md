@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/13402/rus/02.12.2003
+source: https://zan.gov.kz/client/#!/doc/13402/rus/29.12.2003
 ---
 
 ## Единая бюджетная классификация Республики Казахстан
