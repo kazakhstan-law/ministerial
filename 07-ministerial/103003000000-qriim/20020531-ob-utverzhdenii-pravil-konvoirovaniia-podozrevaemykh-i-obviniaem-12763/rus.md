@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/12763/rus/31.05.2002
+source: https://zan.gov.kz/client/#!/doc/12763/rus/04.03.2004
 ---
 
 # Об утверждении Правил конвоирования подозреваемых и обвиняемых

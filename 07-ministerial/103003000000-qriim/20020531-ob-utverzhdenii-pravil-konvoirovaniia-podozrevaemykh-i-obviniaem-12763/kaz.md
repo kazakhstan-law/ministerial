@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/12763/kaz/31.05.2002
+source: https://zan.gov.kz/client/#!/doc/12763/kaz/04.03.2004
 ---
 
 # Сезіктілер мен айыпталушыларды айдап алып жүрудің тәртібін бекіту туралы
