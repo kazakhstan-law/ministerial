@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/501/rus/03.08.1999
+source: https://zan.gov.kz/client/#!/doc/501/rus/07.12.2001
 ---
 
 # Инструкция N 40 о порядке исчисления и уплаты подоходного налога с физических лиц
