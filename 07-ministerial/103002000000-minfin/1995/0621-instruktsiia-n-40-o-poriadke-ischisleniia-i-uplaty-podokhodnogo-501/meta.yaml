@@ -11,6 +11,8 @@ approved_on: 1995-06-21
 approved_by:
 - '103002000000'
 version_date:
-  rus: 1997-09-29
+  rus: 1997-12-29
 source:
-  rus: https://zan.gov.kz/client/#!/doc/501/rus/29.09.1997
+  rus: https://zan.gov.kz/client/#!/doc/501/rus/29.12.1997
+caused_by:
+  code: V970000061_
