@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/8729/rus/13.02.2003
+source: https://zan.gov.kz/client/#!/doc/8729/rus/12.11.2004
 ---
 
 ## 10. О подготовке дипломных проектов (работ)
