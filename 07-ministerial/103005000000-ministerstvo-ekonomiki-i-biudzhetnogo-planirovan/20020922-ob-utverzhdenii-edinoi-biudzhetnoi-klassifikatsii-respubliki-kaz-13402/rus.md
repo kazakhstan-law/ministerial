@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/13402/rus/06.01.2003
+source: https://zan.gov.kz/client/#!/doc/13402/rus/21.01.2003
 ---
 
 # Об утверждении Единой бюджетной классификации Республики Казахстан
