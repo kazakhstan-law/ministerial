@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/7912/rus/24.09.2000
+source: https://zan.gov.kz/client/#!/doc/7912/rus/14.12.2004
 ---
 
 ## Параграф 2. Путевое хозяйство
