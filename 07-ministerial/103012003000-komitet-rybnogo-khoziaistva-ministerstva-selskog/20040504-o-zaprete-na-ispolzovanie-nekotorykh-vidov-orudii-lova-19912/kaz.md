@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/19912/kaz/04.05.2004
+source: https://zan.gov.kz/client/#!/doc/19912/kaz/22.02.2005
 ---
 
 # Кейбір аулау құралдарын пайдалануға тыйым салу туралы
