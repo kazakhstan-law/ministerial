@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/15281/rus/18.07.2004
+source: https://zan.gov.kz/client/#!/doc/15281/rus/14.12.2004
 ---
 
 ## Тарифная смета на услуги телекоммуникаций с использованием сети местных линий на____год*
