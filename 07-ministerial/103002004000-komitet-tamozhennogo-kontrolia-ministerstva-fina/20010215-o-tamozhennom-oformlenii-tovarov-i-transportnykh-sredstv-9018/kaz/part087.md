@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/9018/kaz/25.12.2002
+source: https://zan.gov.kz/client/#!/doc/9018/kaz/06.01.2003
 ---
 
 ## 2. Жеке қарауға қатысатын тұлғалар. Олардың құқықтары мен мiндеттерi

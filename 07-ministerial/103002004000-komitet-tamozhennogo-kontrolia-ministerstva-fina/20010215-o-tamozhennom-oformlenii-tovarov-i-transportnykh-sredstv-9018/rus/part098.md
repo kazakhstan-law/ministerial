@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/9018/rus/25.12.2002
+source: https://zan.gov.kz/client/#!/doc/9018/rus/06.01.2003
 ---
 
 ## 3. Таможенное оформление товаров
