@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/11050/kaz/26.05.2004
+source: https://zan.gov.kz/client/#!/doc/11050/kaz/07.06.2004
 ---
 
 # Түзеу мекемелерінің Ережелерін бекіту туралы

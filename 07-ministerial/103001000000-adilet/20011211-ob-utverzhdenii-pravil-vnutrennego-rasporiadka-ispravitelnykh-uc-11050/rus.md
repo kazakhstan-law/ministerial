@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/11050/rus/26.05.2004
+source: https://zan.gov.kz/client/#!/doc/11050/rus/07.06.2004
 ---
 
 # Об утверждении Правил внутреннего распорядка исправительных учреждений
