@@ -19,6 +19,11 @@ caused_by:
   title: Заңды тұлғаларды мемлекеттік тіркеу мәселелері
   link: https://zan.gov.kz/client/#!/doc/2159/kaz
 source: https://zan.gov.kz/client/#!/doc/219/kaz/15.01.1999
+repealed_on: 1999-02-20
+repealed_by:
+  code: '2159'
+  title: Заңды тұлғаларды мемлекеттік тіркеу мәселелері
+  link: https://zan.gov.kz/client/#!/doc/2159/kaz
 ---
 
 # "Заңды тұлғаларды мемлекеттiк тiркеу қағидасы" ЕРЕЖЕ<*>
