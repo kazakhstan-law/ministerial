@@ -1,6 +1,11 @@
 ---
 part_of: ../rus.md
 source: https://zan.gov.kz/client/#!/doc/14112/rus/03.12.2003
+repealed_on: 2004-01-01
+repealed_by:
+  code: '17973'
+  title: Об утверждении Правил составления налоговой отчетности
+  link: https://zan.gov.kz/client/#!/doc/17973/rus
 ---
 
 ## 2. Составление Расчета (Форма 701.00)

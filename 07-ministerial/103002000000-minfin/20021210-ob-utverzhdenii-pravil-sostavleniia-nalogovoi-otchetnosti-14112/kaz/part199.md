@@ -1,6 +1,11 @@
 ---
 part_of: ../kaz.md
 source: https://zan.gov.kz/client/#!/doc/14112/kaz/03.01.2003
+repealed_on: 2004-01-01
+repealed_by:
+  code: '17973'
+  title: Салық есептілігін жасау ережелерін бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/17973/kaz
 ---
 
 ## 12. Бас ұйым және оның құрылымдық бөлiмшелерi бойынша акциздi есептеу - 400.10 нысанын жасау
