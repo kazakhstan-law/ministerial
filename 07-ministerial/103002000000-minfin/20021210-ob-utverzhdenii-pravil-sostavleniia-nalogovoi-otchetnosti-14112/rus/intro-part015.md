@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/14112/rus/03.01.2003
+source: https://zan.gov.kz/client/#!/doc/14112/rus/03.12.2003
 ---
 
 ## 14. Составление формы 100.12 - Расходы по реализованным товарам (работам, услугам)
