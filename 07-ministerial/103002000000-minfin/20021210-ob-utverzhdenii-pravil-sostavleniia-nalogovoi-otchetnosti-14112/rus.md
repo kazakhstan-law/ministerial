@@ -1,5 +1,5 @@
 ---
-version_id: AI14112_3
+version_id: AI14112_4
 act_code: '14112'
 language: rus
 title: Об утверждении Правил составления налоговой отчетности
@@ -12,13 +12,13 @@ type_codes:
 approved_by:
 - '103002000000'
 approval_date: 2002-12-10
-version_date: 2003-01-03
+version_date: 2003-12-03
 registry_number: '14112'
 caused_by:
-  code: '14112'
+  code: '17973'
   title: Об утверждении Правил составления налоговой отчетности
-  link: https://zan.gov.kz/client/#!/doc/14112/rus
-source: https://zan.gov.kz/client/#!/doc/14112/rus/03.01.2003
+  link: https://zan.gov.kz/client/#!/doc/17973/rus
+source: https://zan.gov.kz/client/#!/doc/14112/rus/03.12.2003
 ---
 
 # Об утверждении Правил составления налоговой отчетности
