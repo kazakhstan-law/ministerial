@@ -11,6 +11,13 @@ approved_on: 1996-04-24
 approved_by:
 - '111000000000'
 version_date:
-  rus: 1996-04-24
+  rus: 1997-02-21
 source:
-  rus: https://zan.gov.kz/client/#!/doc/3422/rus/24.04.1996
+  rus: https://zan.gov.kz/client/#!/doc/3422/rus/21.02.1997
+caused_by:
+  code: '115'
+  requisite: Постановление Правительства Республики Казахстан от 14 декабря 1996 г. N 1538
+  title:
+    rus: О мерах по активизации биржевой торговли ценными бумагами
+    kaz: Бағалы қағаздармен биржалық сауда жасауды жандандыру жөнiндегi шаралар туралы
+  link: https://zan.gov.kz/client/#!/doc/115/rus
