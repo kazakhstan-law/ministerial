@@ -17,6 +17,11 @@ caused_by:
   title: Об утверждении Правил ведения бюджетного учета
   link: https://zan.gov.kz/client/#!/doc/22538/rus
 source: https://zan.gov.kz/client/#!/doc/3747/rus/14.12.2004
+repealed_on: 2005-01-01
+repealed_by:
+  code: '22538'
+  title: Об утверждении Правил ведения бюджетного учета
+  link: https://zan.gov.kz/client/#!/doc/22538/rus
 ---
 
 # Об утверждении изменений и дополнений к Инструкции по бухгалтерскому учету исполнения местных бюджетов в финансовых органах
