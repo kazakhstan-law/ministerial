@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/9018/kaz/14.11.2002
+source: https://zan.gov.kz/client/#!/doc/9018/kaz/25.12.2002
 ---
 
 ## Қазақстан Республикасының Мемлекеттiк кiрiс министрлiгi Кеден комитетiнiң күшi жойылған кейбiр бұйрықтарының ТIЗБЕСI

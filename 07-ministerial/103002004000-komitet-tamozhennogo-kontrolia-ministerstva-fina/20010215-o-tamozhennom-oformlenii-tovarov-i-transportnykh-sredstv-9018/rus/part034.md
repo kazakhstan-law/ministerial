@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/9018/rus/14.11.2002
+source: https://zan.gov.kz/client/#!/doc/9018/rus/25.12.2002
 ---
 
 ## Правила таможенного оформления товаров при срочных поставках
