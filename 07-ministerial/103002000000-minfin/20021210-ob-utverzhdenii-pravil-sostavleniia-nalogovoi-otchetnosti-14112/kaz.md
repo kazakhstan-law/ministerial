@@ -19,6 +19,11 @@ caused_by:
   title: Салық есептеуін жасаудың ережелерін бекіту туралы
   link: https://zan.gov.kz/client/#!/doc/14112/kaz
 source: https://zan.gov.kz/client/#!/doc/14112/kaz/03.01.2003
+repealed_on: 2004-01-01
+repealed_by:
+  code: '17973'
+  title: Салық есептілігін жасау ережелерін бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/17973/kaz
 ---
 
 # Салық есептеуін жасаудың ережелерін бекіту туралы
