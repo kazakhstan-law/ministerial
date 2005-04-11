@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/8729/kaz/12.11.2004
+source: https://zan.gov.kz/client/#!/doc/8729/kaz/11.04.2005
 ---
 
 ## 11. Бiлiм алушылардың кәсiптiк практикасын ұйымдастыру және өткiзу туралы
