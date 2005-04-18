@@ -10,8 +10,8 @@ approved_on: 1995-05-01
 approved_by:
 - '103013000000'
 version_date:
-  kaz: 1995-05-01
-  rus: 1995-05-01
+  rus: 2005-04-18
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/2867/kaz/01.05.1995
-  rus: https://zan.gov.kz/client/#!/doc/2867/rus/01.05.1995
+  rus: https://zan.gov.kz/client/#!/doc/2867/rus/18.04.2005
+caused_by:
+  code: A05I0001722
