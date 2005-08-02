@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/9993/rus/09.03.2005
+source: https://zan.gov.kz/client/#!/doc/9993/rus/02.08.2005
 ---
 
 ## 10. Делопроизводство по делам об административных правонарушениях
