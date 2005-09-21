@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/22452/kaz/01.12.2004
+source: https://zan.gov.kz/client/#!/doc/22452/kaz/21.09.2005
 ---
 
 ## Мемлекеттік мекемелердің есептілігін жасау мен ұсынудың ережесі

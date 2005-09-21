@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/22452/rus/01.12.2004
+source: https://zan.gov.kz/client/#!/doc/22452/rus/21.09.2005
 ---
 
 ## Правила составления и представления отчетности государственными учреждениями
