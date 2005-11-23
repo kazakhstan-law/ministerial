@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/2430/kaz/26.04.2005
+source: https://zan.gov.kz/client/#!/doc/2430/kaz/23.11.2005
 ---
 
 ## Босаған номерлі агрегатқа Куәлік
