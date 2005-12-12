@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/25142/rus/01.07.2005
+source: https://zan.gov.kz/client/#!/doc/25142/rus/12.12.2005
 ---
 
 # Об утверждении Правил предоставления услуг почтовой связи
