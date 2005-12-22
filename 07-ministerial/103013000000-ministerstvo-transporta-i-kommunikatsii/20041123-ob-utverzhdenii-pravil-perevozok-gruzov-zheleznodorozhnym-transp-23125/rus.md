@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/23125/rus/23.11.2004
+source: https://zan.gov.kz/client/#!/doc/23125/rus/22.12.2005
 ---
 
 # Об утверждении Правил перевозок грузов
