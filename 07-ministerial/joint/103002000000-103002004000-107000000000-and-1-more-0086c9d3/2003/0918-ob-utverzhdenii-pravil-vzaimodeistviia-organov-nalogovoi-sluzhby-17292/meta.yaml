@@ -14,8 +14,8 @@ approved_by:
 - '107000000000'
 - '116000000000'
 version_date:
-  kaz: 2003-09-18
-  rus: 2003-09-18
+  rus: 2006-03-15
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/17292/kaz/18.09.2003
-  rus: https://zan.gov.kz/client/#!/doc/17292/rus/18.09.2003
+  rus: https://zan.gov.kz/client/#!/doc/17292/rus/15.03.2006
+caused_by:
+  code: A06W0001756
