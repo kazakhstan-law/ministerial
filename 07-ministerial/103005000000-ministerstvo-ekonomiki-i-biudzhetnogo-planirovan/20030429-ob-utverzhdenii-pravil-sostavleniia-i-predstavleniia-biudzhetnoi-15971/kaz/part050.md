@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/15971/kaz/10.05.2005
+source: https://zan.gov.kz/client/#!/doc/15971/kaz/01.12.2006
 ---
 
 ## Есептеу және басқа да жабдықтар сатып алу жөніндегі шығындарды есептеу

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/15971/rus/10.05.2005
+source: https://zan.gov.kz/client/#!/doc/15971/rus/01.12.2006
 ---
 
 ## Расчет расходов на приобретение автомобильных транспортных средств
