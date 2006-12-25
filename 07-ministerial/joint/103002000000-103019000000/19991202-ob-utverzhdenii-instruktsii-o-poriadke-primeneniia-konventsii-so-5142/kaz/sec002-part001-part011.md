@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/5142/kaz/02.12.1999
+source: https://zan.gov.kz/client/#!/doc/5142/kaz/25.12.2006
 ---
 
 ## 16. Әртiстерге және спортшыларға салық салу
