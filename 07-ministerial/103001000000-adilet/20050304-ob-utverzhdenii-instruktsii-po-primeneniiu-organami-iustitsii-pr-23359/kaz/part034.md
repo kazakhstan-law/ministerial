@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/23359/kaz/29.12.2006
+source: https://zan.gov.kz/client/#!/doc/23359/kaz/09.02.2007
 ---
 
 ## ұлты туралы жазбаны өзгерту туралы арызын тексеру нәтижелері бойынша ҚОРЫТЫНДЫ
