@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/23125/kaz/22.12.2005
+source: https://zan.gov.kz/client/#!/doc/23125/kaz/23.05.2007
 ---
 
 # Жүк тасымалдау ережесiн бекiту туралы
