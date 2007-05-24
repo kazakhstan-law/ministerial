@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/7912/kaz/14.12.2004
+source: https://zan.gov.kz/client/#!/doc/7912/kaz/24.05.2007
 ---
 
 ## $1. Жалпы талаптар
