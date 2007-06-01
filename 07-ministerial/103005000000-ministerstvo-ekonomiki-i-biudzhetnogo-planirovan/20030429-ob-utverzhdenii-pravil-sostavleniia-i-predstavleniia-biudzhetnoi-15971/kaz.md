@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/15971/kaz/23.02.2007
+source: https://zan.gov.kz/client/#!/doc/15971/kaz/01.06.2007
 ---
 
 # Бюджеттiк бағдарламалар әкiмшілерiнiң бюджеттiк өтінімдi жасау және ұсыну ережесiн бекiту туралы

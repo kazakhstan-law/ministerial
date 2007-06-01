@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/15971/rus/23.02.2007
+source: https://zan.gov.kz/client/#!/doc/15971/rus/01.06.2007
 ---
 
 ## Правила составления и представления бюджетной заявки
