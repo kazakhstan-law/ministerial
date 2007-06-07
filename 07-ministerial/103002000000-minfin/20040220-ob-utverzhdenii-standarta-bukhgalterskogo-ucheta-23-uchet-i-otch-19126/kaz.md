@@ -1,5 +1,5 @@
 ---
-version_id: AI19126_1
+version_id: AI19126_2
 act_code: '19126'
 language: kaz
 title: 23 "Шағын кәсіпкерлік субъектілерінің есебі және есептілігі" бухгалтерлік есептің стандартын бекіту туралы
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '103002000000'
 approval_date: 2004-02-20
-version_date: 2004-03-20
+version_date: 2007-06-07
 registry_number: '19126'
-source: https://zan.gov.kz/client/#!/doc/19126/kaz/20.03.2004
+caused_by:
+  code: '34101'
+  title: N 1 ұлттық қаржылық есептілік стандартын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/34101/kaz
+source: https://zan.gov.kz/client/#!/doc/19126/kaz/07.06.2007
 ---
 
 # 23 "Шағын кәсіпкерлік субъектілерінің есебі және есептілігі" бухгалтерлік есептің стандартын бекіту туралы
