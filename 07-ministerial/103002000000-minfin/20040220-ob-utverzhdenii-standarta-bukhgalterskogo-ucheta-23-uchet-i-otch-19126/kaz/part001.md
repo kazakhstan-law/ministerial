@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/19126/kaz/20.03.2004
+source: https://zan.gov.kz/client/#!/doc/19126/kaz/07.06.2007
 ---
 
 ## 23 бухгалтерлік есеп стандарты
