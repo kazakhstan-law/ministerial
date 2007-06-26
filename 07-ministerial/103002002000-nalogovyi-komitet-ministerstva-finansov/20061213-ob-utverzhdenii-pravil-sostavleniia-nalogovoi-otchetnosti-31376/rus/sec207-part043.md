@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/31376/rus/13.12.2006
+source: https://zan.gov.kz/client/#!/doc/31376/rus/26.06.2007
 ---
 
 ## 23. Составление формы 170.21 - Штрафы, пени, неустойки, не подлежащие внесению в бюджет
