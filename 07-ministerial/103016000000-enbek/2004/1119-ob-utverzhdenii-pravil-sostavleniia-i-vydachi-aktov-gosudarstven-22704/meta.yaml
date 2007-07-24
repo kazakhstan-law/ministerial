@@ -11,8 +11,8 @@ approved_on: 2004-11-19
 approved_by:
 - '103016000000'
 version_date:
-  kaz: 2004-11-19
-  rus: 2004-11-19
+  kaz: 2007-07-24
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/22704/kaz/19.11.2004
-  rus: https://zan.gov.kz/client/#!/doc/22704/rus/19.11.2004
+  kaz: https://zan.gov.kz/client/#!/doc/22704/kaz/24.07.2007
+caused_by:
+  code: A07G0001764
