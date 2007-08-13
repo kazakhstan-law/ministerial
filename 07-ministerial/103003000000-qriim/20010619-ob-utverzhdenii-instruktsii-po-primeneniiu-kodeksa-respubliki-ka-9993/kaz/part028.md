@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/9993/kaz/12.09.2006
+source: https://zan.gov.kz/client/#!/doc/9993/kaz/13.08.2007
 ---
 
 ## АНЫҚТАДЫМ
