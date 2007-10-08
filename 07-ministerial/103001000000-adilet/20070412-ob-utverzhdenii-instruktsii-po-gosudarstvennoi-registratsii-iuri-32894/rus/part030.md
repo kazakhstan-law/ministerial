@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/32894/rus/12.04.2007
+source: https://zan.gov.kz/client/#!/doc/32894/rus/08.10.2007
 ---
 
 ## (вариант: об учетной регистрации представительства юридического лица)
