@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/23125/kaz/23.05.2007
+source: https://zan.gov.kz/client/#!/doc/23125/kaz/27.11.2007
 ---
 
 ## Ашық жылжымалы құрамда тасымалдауға жіберілетін жүктер тізімі
