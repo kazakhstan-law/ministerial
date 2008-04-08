@@ -11,8 +11,8 @@ approved_on: 2002-04-29
 approved_by:
 - '108000000000'
 version_date:
-  kaz: 2002-04-29
-  rus: 2002-04-29
+  rus: 2008-04-08
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/12336/kaz/29.04.2002
-  rus: https://zan.gov.kz/client/#!/doc/12336/rus/29.04.2002
+  rus: https://zan.gov.kz/client/#!/doc/12336/rus/08.04.2008
+caused_by:
+  code: A08KN001768
