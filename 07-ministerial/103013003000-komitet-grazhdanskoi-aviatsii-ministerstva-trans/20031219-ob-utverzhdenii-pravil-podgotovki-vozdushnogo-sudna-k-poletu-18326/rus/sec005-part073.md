@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/18326/rus/15.05.2007
+source: https://zan.gov.kz/client/#!/doc/18326/rus/20.05.2008
 ---
 
 ## Контроль качества авиа ГСМ в аэропортах и авиакомпаниях Гражданской Авиации Республики Казахстан
@@ -1603,7 +1603,9 @@ __________________________________________________________________________
 > *к Правилам подготовки*  
 > *воздушного судна к полету*
 
-## Перечень эксплуатационных документов 1. Эксплуатационные документы службы ЭРТОС
+## Перечень эксплуатационных документов
+
+## 1. Эксплуатационные документы службы ЭРТОС
 
 1\. Авиационные правила. "Радиотехническое обеспечение полетов и авиационная электросвязь. Сертификационные требования".
 
@@ -1716,3 +1718,1177 @@ __________________________________________________________________________
 53\. Выписка из табеля оснащения противопожарным инвентарем.
 
 54\. Инструкция о действиях инженерно-технического персонала при получении предупреждения об опасных явлениях.
+
+> *Приложение 55*  
+> *к Правилам подготовки*  
+> *воздушного судна к полету*
+
+> *Сноска. Правила дополнены приложением 55 в соответствии с приказом Министра транспорта и коммуникаций РК от 20.05.2008 N 227 (порядок введения в действие см. п. 3 ).*
+
+## КЛАССИФИКАТОР НАРУШЕНИЙ РЕГУЛЯРНОСТИ ПОЛЕТОВ ВС
+
+<table>
+<tr>
+<td>
+2-х
+цифровые
+коды
+Two-digit
+codes
+</td>
+<td>
+Описание причин задержки
+Reason description for delay
+</td>
+</tr>
+<tr>
+<td colspan="2">
+СТАНДАРТНЫЕ КОДЫ ПРИЧИН ЗАДЕРЖЕК
+STANDARD CODES OF REASONS FOR DELAY
+</td>
+</tr>
+<tr>
+<td colspan="2">
+ВНУТРЕННИЕ КОДЫ АВИАКОМПАНИИ
+AIRLINE INTERNAL CODES
+</td>
+</tr>
+<tr>
+<td>00-05</td>
+<td>
+Эти коды оставлены чистыми (незанятыми), потому что
+каждая авиакомпания может разрабатывать специальные
+коды в соответствии с индивидуальными требованиями
+These codes are left blank so that each airline
+may develop codes specifically to meet their own
+individual requirements
+</td>
+</tr>
+<tr>
+<td colspan="2">
+ДРУГИЕ КОДЫ ПРИЧИН
+OTHERS CODES FOR DELAY
+</td>
+</tr>
+<tr>
+<td>06</td>
+<td>
+&quot;отсутствие гейтов, мест стоянок в результате
+деятельности собственной авиакомпании&quot;
+&quot;no gate\stand availability due to own airline
+activity&quot;
+</td>
+</tr>
+<tr>
+<td>09</td>
+<td>
+&quot;время на земле по расписанию&quot; меньше времени,
+предусмотренного технологией обслуживания&quot;
+&quot;scheduled Ground Time&quot; less than &quot;Declared Minimum
+Ground Time&quot;
+</td>
+</tr>
+<tr>
+<td colspan="2">
+ОБСЛУЖИВАНИЕ ПАССАЖИРОВ И ОБРАБОТКА БАГАЖА
+PASSENGER AND BAGGAGE
+</td>
+</tr>
+<tr>
+<td>11</td>
+<td>
+&quot;поздняя регистрация&quot;, осуществленная после
+предельного срока окончания регистрации.
+&quot;late check-in&quot;, acceptance after deadline
+</td>
+</tr>
+<tr>
+<td>12</td>
+<td>
+&quot;поздняя регистрация&quot; из-за скопления пассажиров в
+зоне регистрации
+&quot;late check-in&quot;, congestion in check-in area
+</td>
+</tr>
+<tr>
+<td>13</td>
+<td>
+&quot;ошибка в регистрации&quot;, пассажиры, багаж
+&quot;Check-in error&quot;, passenger and baggage
+</td>
+</tr>
+<tr>
+<td>14</td>
+<td>
+&quot;перепродажа&quot;, ошибка в продаже авиабилетов
+&quot;oversales&quot;, booking errors
+</td>
+</tr>
+<tr>
+<td>15</td>
+<td>
+&quot;посадка пассажиров&quot; расхождение, сличение\
+уточнение списка пассажиров и неявка
+зарегистрированного пассажира
+&quot;boarding&quot;, discrepancies and paging, missing
+checked-in passenger
+</td>
+</tr>
+<tr>
+<td>16</td>
+<td>
+&quot;коммерческая публичность - готовность пассажира,
+ожидание VIP персоны, пресса, доставка забытых
+личных вещей&quot;
+&quot;commercial publicity/passenger convenience, VIP,
+press, ground meals and missing personal items&quot;
+</td>
+</tr>
+<tr>
+<td>17</td>
+<td>
+&quot;заказ бортпитания&quot;, поздний или неправильный
+заказ, переданный поставщику
+&quot;catering order&quot;, late or incorrect order given to
+supplier
+</td>
+</tr>
+<tr>
+<td>18</td>
+<td>
+&quot;обработка багажа&quot;, сортировка
+&quot;baggage processing&quot;, sorting.
+</td>
+</tr>
+<tr>
+<td>19</td>
+<td>
+Допосадка пассажиров, дозагрузка грузов
+Boarding passenger, loading cargo
+</td>
+</tr>
+<tr>
+<td colspan="2">
+ГРУЗ И ПОЧТА
+CARGO AND MAIL
+</td>
+</tr>
+<tr>
+<td>21</td>
+<td>
+&quot;документация&quot;, ошибка в составлении.
+&quot;documentation&quot;, errors.
+</td>
+</tr>
+<tr>
+<td>22</td>
+<td>
+&quot;позднее размещение груза на борту ВС&quot;
+&quot;late positioning&quot;
+</td>
+</tr>
+<tr>
+<td>23</td>
+<td>
+&quot;поздний прием груза&quot;
+&quot;late acceptance&quot;
+</td>
+</tr>
+<tr>
+<td>24</td>
+<td>
+&quot;упаковка не отвечает требованиям&quot;
+&quot;inadequate packing&quot;
+</td>
+</tr>
+<tr>
+<td>25</td>
+<td>
+&quot;перепродажа&quot;, ошибки в продаже грузовой емкости
+&quot;oversales&quot;, booking errors
+</td>
+</tr>
+<tr>
+<td>26</td>
+<td>
+&quot;поздняя подготовка груза на складе&quot;
+&quot;late preparation in warehouse&quot;
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+ПОЧТА исключительно
+MAIL only
+</td>
+</tr>
+<tr>
+<td>27</td>
+<td>
+&quot;документация, упаковка.&quot;
+&quot;documentation, packing&quot;.
+</td>
+</tr>
+<tr>
+<td>28</td>
+<td>
+&quot;позднее размещение&quot;
+&quot;late positioning&quot;
+</td>
+</tr>
+<tr>
+<td>29</td>
+<td>
+&quot;поздний прием&quot;
+&quot;late acceptance&quot;
+</td>
+</tr>
+<tr>
+<td colspan="2">
+ВОЗДУШНОЕ СУДНО И ОБСЛУЖИВАНИЕ НА ПЕРРОНЕ
+AIRCRAFR AND RAMP HANDLING
+</td>
+</tr>
+<tr>
+<td>31</td>
+<td>
+&quot;документация на ВС доставлена поздно, не верна&quot;,
+вес и центровка, генеральная декларация,
+пассажирский манифест.
+&quot;aircraft documentation late/inaccurate&quot;, weight
+and balance, general declaration, passenger
+manifest.
+</td>
+</tr>
+<tr>
+<td>32</td>
+<td>
+&quot;погрузка/разгрузка&quot; негабаритного/тяжеловесного,
+специального груза, нехватка персонала, грузчиков
+&quot;loading/unloading&quot;, bulky, special load, lack of
+loading staff
+</td>
+</tr>
+<tr>
+<td>32а</td>
+<td>
+&quot;погрузка/разгрузка&quot; груза пассажирского салона
+&quot;loading/unloading&quot; cabin load
+</td>
+</tr>
+<tr>
+<td>33</td>
+<td>
+&quot;средства погрузки&quot;, нехватка или поломка, например
+погрузчика паллетов и контейнеров, нехватка
+персонала
+&quot;loading equipment&quot;, lack of or breakdown, e.g.
+container pallet loader, lack of staff
+</td>
+</tr>
+<tr>
+<td>34</td>
+<td>
+&quot;средства обслуживания&quot;, нехватка или поломка,
+нехватка персонала, например трапы
+&quot;servicing equipment&quot;, lack of or breakdown, lack
+of staff, e/g/steps
+</td>
+</tr>
+<tr>
+<td>35</td>
+<td>
+&quot;уборка воздушного судна&quot;
+&quot;aircraft cleaning&quot;
+</td>
+</tr>
+<tr>
+<td>36</td>
+<td>
+&quot;заправка/слив&quot;, поставка авиатоплива
+&quot;fuelling/defuelling&quot;, fuel supplier
+</td>
+</tr>
+<tr>
+<td>37</td>
+<td>
+&quot;бортовое питание&quot;, поздняя доставка или погрузка
+&quot;catering&quot;, late delivery or loading
+</td>
+</tr>
+<tr>
+<td>38</td>
+<td>
+&quot;СПГ&quot; (средств погрузки грузов), нехватка или
+эксплуатационная пригодность
+&quot;ULD&quot;, lack of or serviceability
+</td>
+</tr>
+<tr>
+<td>39</td>
+<td>
+&quot;технические средства&quot;, нехватка или поломка,
+нехватка персонала, например при буксировке
+&quot;technical equipment&quot;, lack of or breakdown, lack
+of staff, e.g. push-back
+</td>
+</tr>
+<tr>
+<td colspan="2">
+ТЕХНИЧЕСКИЕ СРЕДСТВА И ОБОРУДОВАНИЕ ВС
+TECHNICAL AND AIRCRAFT EQUIPMENT
+</td>
+</tr>
+<tr>
+<td>41</td>
+<td>
+&quot;неисправности ВС&quot;
+&quot;aircraft defects&quot;
+</td>
+</tr>
+<tr>
+<td>42</td>
+<td>
+&quot;плановое техобслуживание&quot;, поздняя выдача ВС
+&quot;scheduled maintenance&quot;, late release
+</td>
+</tr>
+<tr>
+<td>43</td>
+<td>
+&quot;внеплановое техобслуживание&quot;, специальные &quot;чеки&quot;
+и/или дополнительные работы сверх нормального
+планового техобслуживания
+&quot;non-scheduled maintenance&quot;, special checks and/or
+additional works beyond normal maintenance schedule
+</td>
+</tr>
+<tr>
+<td>44</td>
+<td>
+&quot;запасные части и средства техобслуживания&quot;,
+нехватка или поломка
+&quot;spares and maintenance equipment&quot;, lack of or
+breakdown
+</td>
+</tr>
+<tr>
+<td>45</td>
+<td>
+&quot;запасные агрегаты, требуемые на ВС на земле&quot;,
+которые должны быть перевезены в другой аэропорт
+&quot;AOG spares&quot;, to be carried to another station
+</td>
+</tr>
+<tr>
+<td>46</td>
+<td>
+&quot;замена ВС&quot;, по техническим причинам
+&quot;aircraft change&quot;, for technical reasons
+</td>
+</tr>
+<tr>
+<td>47</td>
+<td>
+&quot;резервное ВС&quot;, нехватка запланированных резервных
+ВС, по техническим причинам
+&quot;standby aircraft&quot;, lack of planned standby
+aircraft for technical reasons
+</td>
+</tr>
+<tr>
+<td>48</td>
+<td>
+&quot;плановое корректирование конфигурации/версии
+пассажирского салона&quot;
+&quot;scheduled cabin configuration/version adjustments&quot;
+</td>
+</tr>
+<tr>
+<td colspan="2">
+ПОВРЕЖДЕНИЕ ВОЗДУШНОГО СУДНА
+DAMAGE TO AIRCRAFT
+</td>
+</tr>
+<tr>
+<td>51</td>
+<td>
+&quot;повреждение в процессе выполнения полета&quot;,
+столкновение с птицей и огнями ВПП, попадание в
+турбулентную среду, грубое приземление или
+приземление с перегрузками, столкновение во время
+руления
+&quot;damage during flight operations&quot;, bird or lighting
+strike, turbulence heavy or overweight landing,
+collision during taxing
+</td>
+</tr>
+<tr>
+<td>52</td>
+<td>
+&quot;повреждение во время наземного обслуживания&quot;,
+столкновение (кроме случаев во время руления),
+повреждение во время погрузки/разгрузки,
+загрязнение, буксировка, экстремальные погодные
+условия
+&quot;damage during ground operations&quot;, collisions
+(other than during taxing), loading/off-loading
+damage, contaminations, towing, extreme weather
+conditions
+</td>
+</tr>
+<tr>
+<td colspan="2">
+ЭЛЕКТРОННАЯ ОБРАБОТКА ДАННЫХ/ОТКАЗ АВТОМАТИЗИРОВАННЫХ СРЕДСТВ
+EPD/AUTOMATED EQUIPMENT FAILURE
+</td>
+</tr>
+<tr>
+<td>55</td>
+<td>
+&quot;контроль за отправками&quot;
+&quot;departure control system&quot;
+</td>
+</tr>
+<tr>
+<td>56</td>
+<td>
+&quot;подготовка грузов/документация&quot;
+&quot;cargo preparation/documentation&quot;
+</td>
+</tr>
+<tr>
+<td>57</td>
+<td>
+&quot;Флайт-планы&quot;
+&quot;flight plans&quot;
+</td>
+</tr>
+<tr>
+<td colspan="2">
+ВЫПОЛНЕНИЕ ПОЛЕТОВ И ОБЕСПЕЧЕНИЕ ЭКИПАЖАМИ
+FLIGHT OPERATIONS AND CREWING
+</td>
+</tr>
+<tr>
+<td>61</td>
+<td>
+&quot;флайт-план&quot;, позднее составление (подача) или
+изменение его, полетная документация
+&quot;flight plan&quot;, late completion or change of, flight
+documentation
+</td>
+</tr>
+<tr>
+<td>62</td>
+<td>
+&quot;условия выполнения полетов&quot;, авиатопливо,
+изменение/замена предельной загрузки
+&quot;operational requirements&quot;, fuel, load alternation
+</td>
+</tr>
+<tr>
+<td>63</td>
+<td>
+&quot;позднее прибытие экипажа на борт или позднее
+прохождение процедур отправления&quot; за исключением
+сменных или резервных (летный или полный экипаж)
+&quot;late crew boarding or departure procedures&quot;, other
+than connection and standby (flight deck or entire
+crew)
+</td>
+</tr>
+<tr>
+<td>64</td>
+<td>
+&quot;летный экипаж в неполном составе&quot;, болезнь,
+ожидание резервного, лимитированное время на рейс,
+прием пищи экипажем, просроченная виза, документы
+о здоровье экипажа и т.д.
+&quot;flight deck crew shortage&quot;, sickness, awaiting
+standby, flight time limitations, crew meals,
+valid visa, health documents, etc
+</td>
+</tr>
+<tr>
+<td>65</td>
+<td>
+&quot;особые требования летного экипажа&quot;, не входящие в
+требования выполнения полетов
+&quot;flight deck crew special request&quot;, not within
+operational requirements
+</td>
+</tr>
+<tr>
+<td>66</td>
+<td>
+&quot;позднее прибытие бортпроводников на борт или
+позднее прохождение процедур отправления&quot;, за
+исключением сменных или резервных
+&quot;late cabin crew boarding or departure procedures&quot;,
+other than connection and standby
+</td>
+</tr>
+<tr>
+<td>67</td>
+<td>
+&quot;бортпроводники в неполном составе&quot;, болезнь,
+ожидание резерва, лимитированное время на рейс,
+прием пищи, просроченная виза, документы о
+здоровье и т.д.
+&quot;cabin crew shortage&quot;, sickness, awaiting standby,
+flight time limitations, crew meals, valid visa,
+health documents, etc
+</td>
+</tr>
+<tr>
+<td>68</td>
+<td>
+&quot;ошибка бортпроводников или особые требования
+бортпроводников&quot;, не входящие в требования
+выполнения полетов
+&quot;cabin crew error or special request&quot;, not within
+operational requirements
+</td>
+</tr>
+<tr>
+<td>69</td>
+<td>
+&quot;требование КВС о проведении проверки на
+безопасность&quot;, в исключительных случаях
+&quot;captain request for security check&quot;, extraordinary
+</td>
+</tr>
+<tr>
+<td colspan="2">
+ПОГОДНЫЕ УСЛОВИЯ
+WEATHER
+</td>
+</tr>
+<tr>
+<td>71</td>
+<td>
+&quot;в пункте отправления&quot;
+&quot;departure station&quot;
+</td>
+</tr>
+<tr>
+<td>72</td>
+<td>
+&quot;в пункте назначения&quot;
+&quot;destination station&quot;
+</td>
+</tr>
+<tr>
+<td>73</td>
+<td>
+&quot;по маршруту или на запасном аэродроме&quot;
+&quot;en-route or alternate&quot;
+</td>
+</tr>
+<tr>
+<td>74</td>
+<td>
+&quot;противооблединительная обработка ВС&quot;, удаление
+льда и/или снега, предотвращение образования инея,
+исключая непригодности технических средств обработки
+&quot;de-icing of aircraft&quot;, removal of ice and/or snow,
+frost prevention excluding unserviceability of
+equipment
+</td>
+</tr>
+<tr>
+<td>75</td>
+<td>
+&quot;очистка от снега, льда, воды и песка на объектах
+аэропорта&quot;
+&quot;removal of snow, ice, water and sand from airport&quot;
+</td>
+</tr>
+<tr>
+<td>76</td>
+<td>
+&quot;наземное обслуживание задержано по неблагоприятным
+погодным условиям&quot;
+&quot;ground handling impaired by adverse weather
+conditions&quot;
+</td>
+</tr>
+<tr>
+<td colspan="2">
+ОГРАНИЧЕНИЯ СО СТОРОНЫ СЛУЖБ УВД
+AIR TRAFFIC FLOW MANAGEMENT (ATFM) RESTRICTIONS
+</td>
+</tr>
+<tr>
+<td>81</td>
+<td>
+&quot;со стороны УВД на основании официального запрета/
+перегруженности служб контроля за воздушным
+движением по маршруту&quot;, стандартные проблемы
+запрета/перегруженности
+&quot;ATFM due to ATC in rout demand/capacity&quot;,
+standard demand/capacity problems
+</td>
+</tr>
+<tr>
+<td>82</td>
+<td>
+&quot;Служба УВД из-за персонала/оборудования на
+маршруте&quot;, сокращение объемов по причине
+забастовочного движения, нехватки персонала или
+недостающего оборудования, исключительные требования
+снижения объемов в соседних зонах
+&quot;ATFM do to ATC staff/ equipment in route&quot;, reduced
+capacity by industrial action or staff shortage or
+equipment failure, extraordinary demand due to
+capacity reduction in neighboring area
+</td>
+</tr>
+<tr>
+<td>83</td>
+<td>
+&quot;со стороны УВД по причинам в аэропорту назначения&quot;
+аэропорт и/или ВПП закрыты вследствие различных
+препятствий, забастовочного движения, нехватки
+персонала, политических волнений, ограничений по
+шуму, ночного комендантского часа, специальных
+рейсов
+&quot;ATFM due to restriction at destination airport&quot;,
+airport and/or runway closed due to obstruction,
+industrial action, staff shortage, political unrest,
+noise abatement, night curfew, special flights
+</td>
+</tr>
+<tr>
+<td>84</td>
+<td>
+&quot;со стороны УВД по погодным условиям в аэропорту
+назначения&quot;
+&quot;ATFM due to weather at destination airport&quot;
+</td>
+</tr>
+<tr>
+<td colspan="2">
+АЭРОПОРТ И ГОСУДАРСТВЕННЫЕ УПОЛНОМОЧЕННЫЕ ОРГАНЫ
+AIRPORT AND GOVERMENTAL AUTHORITIES
+</td>
+</tr>
+<tr>
+<td>85</td>
+<td>
+&quot;обязательные меры безопасности&quot;
+&quot;mandatory security&quot;
+</td>
+</tr>
+<tr>
+<td>86</td>
+<td>
+&quot;иммиграция (паспортный контроль), таможня,
+санитарные карантинные службы&quot;
+&quot;immigration, customs, health&quot;
+</td>
+</tr>
+<tr>
+<td>87</td>
+<td>
+&quot;ограниченные возможности аэропорта&quot;, места стоянок
+ВС, скопление ВС на перроне, освещение, нехватка
+пунктов посадки.
+&quot;airport facilities&quot;, parking stands, ramp
+congestion, lighting, buildings, gate limitation.
+</td>
+</tr>
+<tr>
+<td>88</td>
+<td>
+&quot;ограничения в порту назначения&quot;, аэропорт и/или
+ВПП закрыты вследствие различных причин,
+забастовочного движения, нехватки персонала,
+политических волнений, ограничений по шуму, ночного
+комендантского часа, специальных рейсов
+&quot;restrictions at airport of destination&quot;, airport
+and/or runway closed due to obstruction, industrial
+action, staff shortage, political unrest, noise
+abatement, night curfew, special flights
+</td>
+</tr>
+<tr>
+<td>89</td>
+<td>
+&quot;ограничения в аэропорту отправления с/без введенных
+ограничений со стороны УВД&quot; включая услуги
+аэронавигации, запуска, буксировки, закрытия
+аэропорта и/или ВПП в следствии различных
+препятствий, погоды (только в случаях когда ввод
+ограничений регулируется со стороны УВД, в других
+случаях ссылка на код 71 (WO)), забастовочного
+движения, нехватки персонала, политических волнений,
+ограничений по шуму, ночного комендантского часа,
+специальных рейсов
+&quot;restrictions at airport departure with or without
+ATFM restrictions&quot;, including Air Traffic Services,
+start-up and pushback, airport and runway closed
+due to obstruction or weather (restriction due to
+weather in case of ATFM regulation only, else refer
+to code 71 WO)), industrial action, staff shortage,
+political unrest, noise abatement, night curfew,
+special flights&quot;
+</td>
+</tr>
+<tr>
+<td colspan="2">
+ОТРИЦАТЕЛЬНЫЕ ПОСЛЕДСТВИЯ ДРУГИХ ПРИЧИН
+REACTIONARY
+</td>
+</tr>
+<tr>
+<td>91</td>
+<td>
+&quot;стыковка загрузки&quot;, ожидание загрузки с другого
+рейса
+&quot;load connection&quot;, awaiting load from another flight
+</td>
+</tr>
+<tr>
+<td>92</td>
+<td>
+&quot;по причине ошибки в регистрации&quot;, пассажиров и
+багажа
+&quot;through check-in error&quot;, passenger and baggage
+</td>
+</tr>
+<tr>
+<td>93</td>
+<td>
+&quot;Замена ВС&quot;, позднее прибытие ВС из другого рейса
+или другого сектора рейса
+&quot;aircraft rotation&quot;, late arrival of aircraft from
+another flight or previous sector
+</td>
+</tr>
+<tr>
+<td>94</td>
+<td>
+&quot;замена бортпроводников&quot;, ожидание бортпроводников
+из другого рейса
+&quot;cabin crew rotation&quot;, awaiting cabin crew from
+another flight
+</td>
+</tr>
+<tr>
+<td>95</td>
+<td>
+&quot;замена экипажа&quot;, ожидание экипажа из другого рейса
+(летный или весь экипаж)
+&quot;crew rotation&quot;, awaiting crew from another flight
+(flight deck or entire crew)
+</td>
+</tr>
+<tr>
+<td>96</td>
+<td>
+&quot;контроль за выполнением полетов&quot;, изменение
+маршрута, отмена, объединение рейсов, замена ВС по
+причинам, не относящимся к техническим
+&quot;operations control&quot;, rerouting, diversion,
+consolidation/ aircraft change for reasons other
+than technical
+</td>
+</tr>
+<tr>
+<td colspan="2">
+РАЗНЫЕ ПРИЧИНЫ
+MISCELLANEOUS
+</td>
+</tr>
+<tr>
+<td>97</td>
+<td>
+&quot;забастовочное действие в собственной авиакомпании&quot;
+&quot;industrial action with own airline&quot;
+</td>
+</tr>
+<tr>
+<td>98</td>
+<td>
+&quot;забастовочное действие вне собственной
+авиакомпании&quot;, исключая службы УВД
+&quot;industrial action outside own airline&quot;, excluding
+A.T.C.
+</td>
+</tr>
+<tr>
+<td>99</td>
+<td>
+Этот код может быть использован только тогда, когда
+он свободен, и что причина задержки не может быть
+отнесена к выше указанным кодам.
+This code shall be used only when it is clear that
+a reason cannot be matched to a code above.
+</td>
+</tr>
+</table>
+
+> *Приложение 56*  
+> *к Правилам подготовки*  
+> *воздушного судна к полету*
+
+> *Сноска. Правила дополнены приложением 56 в соответствии с приказом Министра транспорта и коммуникаций РК от 20.05.2008 N 227 (порядок введения в действие см. п. 3 ).*
+
+## АКТ НА ЗАДЕРЖКУ ОТПРАВЛЕНИЯ ВОЗДУШНОГО СУДНА THE REPORT FOR DELAY ON DEPARTURE OF AIRCRAFT
+
+АЭРОПОРТ ДАТА
+
+AIRPORT ____________________________________ DATE____________________
+
+НОМЕР РЕЙСА НОМЕР ВС АВИАКОМПАНИЯ
+
+FLIGHT NUMBER_____________AIRCRAFT REGE________AIRLINE____________________
+
+ВРЕМЯ ОТПРАВЛЕНИЯ ПО РАСПИСАНИЮ
+
+SCHEDULED TIME OF DEPARTURE ____________________________ (UTC)
+
+ФАКТИЧЕСКОЕ ВРЕМЯ ОТПРАВЛЕНИЯ
+
+ACTUAL TIME OF DEPARTURE _______________________________ (UTC)
+
+ПРОДОЛЖИТЕЛЬНОСТЬ ЗАДЕРЖКИ КОД ПРИЧИНЫ ЗАДЕРЖКИ
+
+DURATION OF DELAY ________________________ REASONS CODE FOR DELAY_________
+
+ОПИСАНИЕ ПРИЧИНЫ ЗАДЕРЖКИ
+
+DESCRIPTION REASONS OF DELAY _____________________________________________
+
+__________________________________________________________________________
+
+__________________________________________________________________________
+
+__________________________________________________________________________
+
+СЛУЖБА, ДОПУСТИВШАЯ ЗАДЕРЖКУ
+
+DEPARTAMENT COMMITS A DELAY
+
+__________________________________________________________________________
+
+(ДОЛЖНОСТЬ, ПОДПИСЬ) (POSITION, SIGNATURE)
+
+ПРЕДСТАВИТЕЛЬ АВИАКОМПАНИИ (ЭКИПАЖА)
+
+REPRESENTATIVE OF AIRLINE (CREW)
+
+__________________________________________________________________________
+
+(ДОЛЖНОСТЬ, ПОДПИСЬ) (POSITION, SIGNATURE)
+
+ПРЕДСТАВИТЕЛЬ АЭРОПОРТА
+
+REPRESENTATIVE OF AIRPORT
+
+__________________________________________________________________________
+
+(ДОЛЖНОСТЬ, ПОДПИСЬ) (POSITION, SIGNATURE)
+
+> *Приложение 57*  
+> *к Правилам подготовки*  
+> *воздушного судна к полету*
+
+> *Сноска. Правила дополнены приложением 57 в соответствии с приказом Министра транспорта и коммуникаций РК от 20.05.2008 N 227 (порядок введения в действие см. п. 3 ).*
+
+## АНАЛИЗ регулярности движения ВС из аэропорта "__________" за (месяц, квартал, полугодие, год) ____ года.
+
+Таблица N 1 Общее количество отправлений и регулярность движения ВС
+
+<table>
+<tr>
+<td rowspan="2"></td>
+<td colspan="3">предыдущий год</td>
+<td colspan="3">текущий год</td>
+<td>+</td>
+<td>Рост</td>
+</tr>
+<tr>
+<td>факт</td>
+<td>рег.</td>
+<td>% рег</td>
+<td>факт</td>
+<td>рег</td>
+<td>% рег</td>
+<td>-</td>
+<td>
+сниже-
+ние
+</td>
+</tr>
+<tr>
+<td>
+междуна-
+родное
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>РК</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Итого:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Пояснение к таблице
+
+Таблица N 2 Задержки рейсов по РК
+
+<table>
+<tr>
+<td rowspan="2"></td>
+<td colspan="2">всего</td>
+<td colspan="2">
+по вине личного
+состава
+</td>
+</tr>
+<tr>
+<td>
+предыдущий
+год
+</td>
+<td>текущий год</td>
+<td>
+предыдущий
+год
+</td>
+<td>текущий год</td>
+</tr>
+<tr>
+<td>
+Службы
+аэропорта
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Служба
+движения
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>авиакомпании</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>прочие</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>всего</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Пояснение к таблице
+
+Таблица N 3
+
+Задержки рейсов по международному расписанию
+
+<table>
+<tr>
+<td rowspan="2"></td>
+<td>всего</td>
+<td>всего</td>
+<td colspan="2">
+по вине личного
+состава
+</td>
+</tr>
+<tr>
+<td>
+предыдущий
+год
+</td>
+<td>текущий год</td>
+<td>
+предыдущий
+год
+</td>
+<td>текущий год</td>
+</tr>
+<tr>
+<td>
+Служба
+движения
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Службы
+аэропорта
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Прочие
+в том числе:
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ОПК</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>загран а\п</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>авиакомпании</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Пояснения к таблице
+
+Таблица N 4 Задержки, не зависящие от служб
+
+<table>
+<tr>
+<td rowspan="2"></td>
+<td colspan="2">Всего</td>
+<td colspan="2">международ.</td>
+<td colspan="2">РК</td>
+</tr>
+<tr>
+<td>
+предыдущий
+год
+</td>
+<td>
+текущий
+год
+</td>
+<td>
+предыдущий
+год
+</td>
+<td>
+текущий
+год
+</td>
+<td>
+предыдущий
+год
+</td>
+<td>
+текущий
+год
+</td>
+</tr>
+<tr>
+<td>метео</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ппс</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ппс м\у</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Пояснения к таблице
+
+ВЫВОДЫ: ____
+
+ОСНОВНЫМИ ПРИЧИНАМИ ЗАДЕРЖЕК РЕЙСОВ ЯВИЛОСЬ:_____________.
