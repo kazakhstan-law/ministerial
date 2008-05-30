@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/21293/rus/17.08.2004
+source: https://zan.gov.kz/client/#!/doc/21293/rus/30.05.2008
 ---
 
 ## 4. Санитарно-эпидемиологические требования к содержанию отделения
