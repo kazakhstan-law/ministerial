@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/39361/rus/18.03.2008
+source: https://zan.gov.kz/client/#!/doc/39361/rus/18.06.2008
 ---
 
 ## 3. Организация и проведение итоговой аттестации обучающихся в высших учебных заведениях
