@@ -21,14 +21,14 @@
 | [`intro-part240`](kaz/intro-part240.md) | ТАУ-КЕН ЖҰМЫСТАРЫ КЕН ҚАЗЫП АЛУ |
 | [`intro-part245`](kaz/intro-part245.md) | ШИНА ӨНДІРІСІ |
 | [`intro-part275`](kaz/intro-part275.md) | Асбестілер: картон, қағаз, сүзгіпластиналар, сүзгі талшықтар және олардан жасалған бұйымдардың өндірісі |
-| [`intro-part318`](kaz/intro-part318.md) | Пластмассадан жасалған кеме конструкциялары өндірісі |
-| [`intro-part341`](kaz/intro-part341.md) | Шыны өңдеу |
-| [`intro-part358`](kaz/intro-part358.md) | Электр-көмір өндірісі |
-| [`intro-part372`](kaz/intro-part372.md) | Шыны өндірісі Жұмысшылар |
-| [`intro-part394`](kaz/intro-part394.md) | ТҰТҚЫР МАТЕРИАЛДАР ӨНДIРIСI |
-| [`intro-part434`](kaz/intro-part434.md) | Торф плиталарын өндiру |
-| [`intro-part463`](kaz/intro-part463.md) | Басшылар мен мамандар |
-| [`intro-part488`](kaz/intro-part488.md) | ГИДРОЛИЗ ЖӘНЕ СУЛЬФАТТЫ-СПИРТ ӨНДIРIСI |
-| [`intro-part534`](kaz/intro-part534.md) | АҒАШӨӨҢДЕУ ӨНДIРIСIНІҢ ЖАЛПЫ КӘСIПТЕРI |
+| [`intro-part316`](kaz/intro-part316.md) | Пластмассадан жасалған кеме конструкциялары өндірісі |
+| [`intro-part339`](kaz/intro-part339.md) | Шыны өңдеу |
+| [`intro-part356`](kaz/intro-part356.md) | Электр-көмір өндірісі |
+| [`intro-part370`](kaz/intro-part370.md) | Шыны өндірісі Жұмысшылар |
+| [`intro-part391`](kaz/intro-part391.md) | ТҰТҚЫР МАТЕРИАЛДАР ӨНДIРIСI |
+| [`intro-part431`](kaz/intro-part431.md) | Торф плиталарын өндiру |
+| [`intro-part460`](kaz/intro-part460.md) | Басшылар мен мамандар |
+| [`intro-part485`](kaz/intro-part485.md) | ГИДРОЛИЗ ЖӘНЕ СУЛЬФАТТЫ-СПИРТ ӨНДIРIСI |
+| [`intro-part531`](kaz/intro-part531.md) | АҒАШӨӨҢДЕУ ӨНДIРIСIНІҢ ЖАЛПЫ КӘСIПТЕРI |
 | [`ch211`](kaz/ch211.md) | 211. Тарау аппараттарын тазалаумен және қайраумен, |
 | [`ch528`](kaz/ch528.md) | 528. Тарау машинасын тазалаумен |
