@@ -21,14 +21,14 @@
 | [`intro-part230`](kaz/intro-part230.md) | ӨСIМДIКТЕРДI ХИМИЯЛЫҚ ҚОРҒАУ ҚҰРАЛДАРЫН ӨНДIРУ ИНСЕКТИЦИДТЕР |
 | [`intro-part239`](kaz/intro-part239.md) | ТАУ-КЕН ЖҰМЫСТАРЫ КЕН ҚАЗЫП АЛУ |
 | [`intro-part244`](kaz/intro-part244.md) | Медицина өнеркәсібінің жалпы мамандықтары |
-| [`intro-part311`](kaz/intro-part311.md) | Зертханалар, қызмет көрсететін өндірістер |
-| [`intro-part332`](kaz/intro-part332.md) | Тұсқағаз жұмыстары |
-| [`intro-part347`](kaz/intro-part347.md) | 19. Электротехникалық өндіріс Кабель өндірісі Жұмысшылар |
-| [`intro-part355`](kaz/intro-part355.md) | Басшылар және мамандар |
-| [`intro-part372`](kaz/intro-part372.md) | Шыны өндірісі Жұмысшылар |
-| [`intro-part394`](kaz/intro-part394.md) | ТҰТҚЫР МАТЕРИАЛДАР ӨНДIРIСI |
-| [`intro-part429`](kaz/intro-part429.md) | Басшылар және мамандар |
-| [`intro-part476`](kaz/intro-part476.md) | Отынды газбен жағу |
-| [`intro-part539`](kaz/intro-part539.md) | АҒАШ ШЫРЫШЫ |
+| [`intro-part310`](kaz/intro-part310.md) | Зертханалар, қызмет көрсететін өндірістер |
+| [`intro-part330`](kaz/intro-part330.md) | Тұсқағаз жұмыстары |
+| [`intro-part345`](kaz/intro-part345.md) | 19. Электротехникалық өндіріс Кабель өндірісі Жұмысшылар |
+| [`intro-part353`](kaz/intro-part353.md) | Басшылар және мамандар |
+| [`intro-part370`](kaz/intro-part370.md) | Шыны өндірісі Жұмысшылар |
+| [`intro-part391`](kaz/intro-part391.md) | ТҰТҚЫР МАТЕРИАЛДАР ӨНДIРIСI |
+| [`intro-part426`](kaz/intro-part426.md) | Басшылар және мамандар |
+| [`intro-part473`](kaz/intro-part473.md) | Отынды газбен жағу |
+| [`intro-part536`](kaz/intro-part536.md) | АҒАШ ШЫРЫШЫ |
 | [`ch211`](kaz/ch211.md) | 211. Тарау аппараттарын тазалаумен және қайраумен, |
 | [`ch528`](kaz/ch528.md) | 528. Тарау машинасын тазалаумен |
