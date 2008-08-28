@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/36151/kaz/12.10.2007
+source: https://zan.gov.kz/client/#!/doc/36151/kaz/28.08.2008
 ---
 
 ## Мемлекеттік қызмет көрсетудің
