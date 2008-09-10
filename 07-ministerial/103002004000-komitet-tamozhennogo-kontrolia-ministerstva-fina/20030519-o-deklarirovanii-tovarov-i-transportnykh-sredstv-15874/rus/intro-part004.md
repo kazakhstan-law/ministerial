@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/15874/rus/12.07.2007
+source: https://zan.gov.kz/client/#!/doc/15874/rus/10.09.2008
 ---
 
 ## 3. Правила заполнения ГТД при декларировании товаров, помещаемых под таможенный режим экспорта
