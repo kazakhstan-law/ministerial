@@ -14203,7 +14203,9 @@ TE22
 </td>
 </tr>
 <tr>
-<td>2790</td>
+<td>
+<strong>2790</strong>
+</td>
 <td>
 Кис-
 лота
