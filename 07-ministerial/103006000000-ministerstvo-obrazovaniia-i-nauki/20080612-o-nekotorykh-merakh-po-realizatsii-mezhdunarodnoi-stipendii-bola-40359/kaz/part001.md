@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/40359/kaz/29.07.2008
+source: https://zan.gov.kz/client/#!/doc/40359/kaz/14.01.2009
 ---
 
 ## "Болашақ" халықаралық стипендиясы аясында шетелде оқу үшін мәндес мамандықтар тізбесі
