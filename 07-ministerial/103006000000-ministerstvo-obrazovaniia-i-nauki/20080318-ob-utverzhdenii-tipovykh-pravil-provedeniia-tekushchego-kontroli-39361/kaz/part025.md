@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/39361/kaz/18.06.2008
+source: https://zan.gov.kz/client/#!/doc/39361/kaz/20.01.2009
 ---
 
 ## 3. Жоғары оқу орындарында білім алушыларды қорытынды аттестаттауды ұйымдастыру және өткізу
