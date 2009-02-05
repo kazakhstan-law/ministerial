@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/15114/kaz/26.06.2007
+source: https://zan.gov.kz/client/#!/doc/15114/kaz/05.02.2009
 ---
 
 ## 4. Тарифтердi (бағаларды, алым ставкаларын) және тарифтік сметаларды қолданысқа енгiзу тәртiбi

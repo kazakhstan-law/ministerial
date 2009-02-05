@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/15114/kaz/26.06.2007
+source: https://zan.gov.kz/client/#!/doc/15114/kaz/05.02.2009
 ---
 
 ## Жылу энергиясын өндіру жөніндегі қызметтерге арналған тарифтік смета
