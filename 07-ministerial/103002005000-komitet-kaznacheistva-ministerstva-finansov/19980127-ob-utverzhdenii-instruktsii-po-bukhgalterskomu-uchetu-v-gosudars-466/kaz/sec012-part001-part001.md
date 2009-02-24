@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/466/kaz/22.10.2008
+source: https://zan.gov.kz/client/#!/doc/466/kaz/24.02.2009
 ---
 
 ## "Активтердің тозуы" 02 есебі
