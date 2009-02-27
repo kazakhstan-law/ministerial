@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/43329/kaz/22.12.2008
+source: https://zan.gov.kz/client/#!/doc/43329/kaz/27.02.2009
 ---
 
 ## 1) Бюджет түсімдерінің сыныптамасы
@@ -804,7 +804,7 @@ source: https://zan.gov.kz/client/#!/doc/43329/kaz/22.12.2008
 <td>05</td>
 <td>3</td>
 <td>16</td>
-<td>Қоршаған ортаны эмиссия үшін төленетін төлемақы</td>
+<td>Қоршаған ортаға эмиссия үшін төленетін төлемақы</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1854,7 +1854,7 @@ source: https://zan.gov.kz/client/#!/doc/43329/kaz/22.12.2008
 <td>06</td>
 <td>1</td>
 <td>01</td>
-<td>Анықталмаған түсiмдер</td>
+<td>алынып тасталды</td>
 </tr>
 <tr>
 <td>2</td>
