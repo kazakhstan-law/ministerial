@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/43449/kaz/25.12.2008
+source: https://zan.gov.kz/client/#!/doc/43449/kaz/17.04.2009
 ---
 
 ## 16. Коммерциялық емес ұйымдарға өтеусіз берілген мүлік. Демеушілік көмек – 110.14 нысанын жасау
