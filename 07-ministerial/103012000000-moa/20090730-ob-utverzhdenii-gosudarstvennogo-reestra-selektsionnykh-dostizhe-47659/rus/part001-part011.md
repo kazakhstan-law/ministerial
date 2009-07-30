@@ -1,0 +1,1746 @@
+---
+part_of: ../rus.md
+source: https://zan.gov.kz/client/#!/doc/47659/rus/30.07.2009
+---
+
+<table>
+<tr>
+<td rowspan="2">
+Наименование
+сорта гибрида
+</td>
+<td rowspan="2">
+Год
+допуска
+</td>
+<td rowspan="2">
+Области
+допуска
+</td>
+<td rowspan="2">
+Номер
+оригина-
+тора
+</td>
+<td colspan="5">Признаки</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<th colspan="9">
+Рапс яровой на корм
+Brassica napus L. ssp. oleifera (Metzg.) Sinsk.
+</th>
+</tr>
+<tr>
+<td>ЗОЛОТОНИВСКИЙ</td>
+<td>1989</td>
+<td>
+1,2,3,5,8,
+9,10,13
+</td>
+<td>138</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ШПАТ</td>
+<td>1993</td>
+<td>13</td>
+<td>64</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Сурепица озимая
+Brassica rapa L. var. silvestris (Lam.) Briggs.
+</th>
+</tr>
+<tr>
+<td>ГОРЛИЦА 19</td>
+<td>1992</td>
+<td>3</td>
+<td>180</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Сурепица яровая
+Brassica rapa L. var. silvestris (Lam.) Briggs.
+</th>
+</tr>
+<tr>
+<td>ЯНТАРНАЯ</td>
+<td>1995</td>
+<td>3</td>
+<td>64,135</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Редька масличная
+Raphanus sativus L. var. oleifornis Pars.
+</th>
+</tr>
+<tr>
+<td>ТАМБОВЧАНКА</td>
+<td>1985</td>
+<td>1,5,8,10,13</td>
+<td>145</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Люцерна
+Medicado L.
+</th>
+</tr>
+<tr>
+<td>БЕРЕКЕ</td>
+<td>1989</td>
+<td>6</td>
+<td>202</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ДАРХАН 90</td>
+<td>1998</td>
+<td>9</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖАЙНАК 96</td>
+<td>2003</td>
+<td>6</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ЖЕЛТОГРИБНАЯ
+55
+</td>
+<td>1993</td>
+<td>5,12</td>
+<td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КАПЧАГАЙСКАЯ 80</td>
+<td>1989</td>
+<td>3</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КАРАБАЛЫКСКАЯ 18</td>
+<td>1971</td>
+<td>10</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+КАРАБАЛЫКСКАЯ
+РАДУГА
+</td>
+<td>2008</td>
+<td>12,13</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КАРАГАНДИНСКАЯ 1</td>
+<td>1938</td>
+<td>8,10</td>
+<td>43</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КОКШЕ</td>
+<td>1968</td>
+<td>
+1,2,5,8,12,
+13
+</td>
+<td>27</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+КРАСНОВОДОПАД-
+СКАЯ 8
+</td>
+<td>1962</td>
+<td>14</td>
+<td>29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+КРАСНОВОДОПАД-
+СКАЯ СКОРОСПЕЛАЯ
+</td>
+<td>1992</td>
+<td>14</td>
+<td>29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ПРОГРЕСС</td>
+<td>1993</td>
+<td>9</td>
+<td>187</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>РАЙХАН</td>
+<td>2005</td>
+<td>1,5</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+СЕМИРЕЧИНСКАЯ
+МЕСТНАЯ
+</td>
+<td>1934</td>
+<td>
+3,4,5,6,8,
+9,14
+</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТАШКЕНТСКАЯ 1</td>
+<td>1954</td>
+<td>14</td>
+<td>189</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>УРАЛЬСКАЯ СИНЯЯ</td>
+<td>1950</td>
+<td>7</td>
+<td>40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ШОРТАНДИНСКАЯ 2</td>
+<td>1952</td>
+<td>1,10</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЯРОСЛАВНА</td>
+<td>1990</td>
+<td>3,5</td>
+<td>172</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Клевер луговой
+Trifolium pratense L.
+</th>
+</tr>
+<tr>
+<td>
+ЗЫРЯНОВСКИЙ
+МЕСТНЫЙ
+</td>
+<td>1950</td>
+<td>5</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Эспарцет
+Onobrychis viciifolia Scop.
+</th>
+</tr>
+<tr>
+<td>АЛМА-АТИНСКИЙ 1</td>
+<td>1977</td>
+<td>14</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АЛМА-АТИНСКИЙ 2</td>
+<td>1980</td>
+<td>3</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ГИБРИД 110</td>
+<td>1988</td>
+<td>5</td>
+<td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ПЕСЧАНЫЙ 1251</td>
+<td>1959</td>
+<td>2,3,5,7</td>
+<td>150</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ПЕСЧАНЫЙ
+УЛУЧШЕННЫЙ
+</td>
+<td>1950</td>
+<td>
+1,5,6,8,
+10,12,13
+</td>
+<td>43</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ШОРТАНДИНСКИЙ 83</td>
+<td>1993</td>
+<td>12</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ШЫГЫС</td>
+<td>2009</td>
+<td>5</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ФЛАМИНГО</td>
+<td>2010</td>
+<td>12</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Козлятник восточный
+Galega orientalis Lam.
+</th>
+</tr>
+<tr>
+<td>
+ГОРНОАЛТАЙСКИЙ
+87
+</td>
+<td>1993</td>
+<td>13</td>
+<td>47</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="2">
+Наименование
+сорта гибрида
+</td>
+<td rowspan="2">
+Год
+допуска
+</td>
+<td rowspan="2">
+Области
+допуска
+</td>
+<td rowspan="2">
+Номер
+оригина-
+тора
+</td>
+<td colspan="5">Признаки</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<th colspan="9">
+Житняк
+Agropyron et Schult.
+</th>
+</tr>
+<tr>
+<td>
+АКТЮБИНСКИЙ
+УЗКОКОЛОСЫЙ
+МЕСТНЫЙ
+</td>
+<td>1943</td>
+<td>2</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+АКТЮБИНСКИЙ
+ШИРОКОКОЛОСЫЙ
+МЕСТНЫЙ
+</td>
+<td>1948</td>
+<td>2</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>БАТЫР</td>
+<td>1992</td>
+<td>1,13</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ДОЛИНСКИЙ 1</td>
+<td>1968</td>
+<td>8</td>
+<td>43</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+КАРАБАЛЫКСКИЙ
+202
+</td>
+<td>1949</td>
+<td>
+1,3,5,8
+9,10,12,13
+</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КРАСНОВОДОПАД- СКИЙ 414</td>
+<td>1977</td>
+<td>14</td>
+<td>29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+КРАСНОКУТСКИЙ
+УЗКОКОЛОСЫЙ 305
+</td>
+<td>1962</td>
+<td>7</td>
+<td>97</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ПРОГРЕСС 85</td>
+<td>1994</td>
+<td>3</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТАУКУМСКИЙ</td>
+<td>1984</td>
+<td>3</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ГИБРИДНЫЙ
+ТАЙПАКСКИЙ
+</td>
+<td>2006</td>
+<td>7</td>
+<td>40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТОЛАГАЙ</td>
+<td>1998</td>
+<td>12</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТАЛАПТАН</td>
+<td>2005</td>
+<td>3</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>УРАЛЬСКИЙ</td>
+<td>1994</td>
+<td>7</td>
+<td>40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+УЗКОКОЛОСЫЙ
+МЕСТНЫЕ СОРТА
+</td>
+<td>1967</td>
+<td>3</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Овсяница луговая
+Festuca pratensis Huds.
+</th>
+</tr>
+<tr>
+<td>КАРГАЛИНСКАЯ</td>
+<td>1991</td>
+<td>3</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ПЕНЗЕНСКАЯ 1</td>
+<td>1989</td>
+<td>7</td>
+<td>124</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Овсяница бороздчатая
+Festuca sulcata Hach.
+</th>
+</tr>
+<tr>
+<td>УЛАН</td>
+<td>2005</td>
+<td>3</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="2">
+Наименование
+сорта гибрида
+</td>
+<td rowspan="2">
+Год
+допуска
+</td>
+<td rowspan="2">
+Области
+допуска
+</td>
+<td rowspan="2">
+Номер
+оригина-
+тора
+</td>
+<td colspan="5">Признаки</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<th colspan="9">
+Пырей бескорневищный
+Roegneria trachycaulon Nevski.
+</th>
+</tr>
+<tr>
+<td>КАРАБАЛЫКСКИЙ 86</td>
+<td>1959</td>
+<td>1,8,10,13</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+КОЛУТОНСКИЙ
+(АРМАН)
+</td>
+<td>1994</td>
+<td>1</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Пырей сизый
+Agropyrum glacum R. et Sch.
+</th>
+</tr>
+<tr>
+<td>
+КАРАБАЛЫКСКИЙ
+СИЗЫЙ
+</td>
+<td>1998</td>
+<td>8</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ОМИЧ</td>
+<td>1989</td>
+<td>1,8,10</td>
+<td>138</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>РОСТОВСКИЙ 31</td>
+<td>1974</td>
+<td>5,10,13</td>
+<td>83</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Пырейник сибирский
+Clinelymus sibiricus Nevski
+</th>
+</tr>
+<tr>
+<td>ГУРАН</td>
+<td>1974</td>
+<td>13</td>
+<td>86</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Пырейник даурский
+Clinelymus dahuricus Nevski.
+</th>
+</tr>
+<tr>
+<td>НАРЫНКОЛЬСКИЙ</td>
+<td>1991</td>
+<td>3</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Ломкоколосник ситниковый
+Elymus yunceus Fisch.
+</th>
+</tr>
+<tr>
+<td>БОЗОЙСКИЙ</td>
+<td>1975</td>
+<td>
+1,2,3,5,6,7,
+8,10,12,13,
+14
+</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ШОРТАНДИНСКИЙ</td>
+<td>1975</td>
+<td>1,3,10,12,13</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Кострец безостый
+Bromus inermis Leyss.
+</th>
+</tr>
+<tr>
+<td>АКМОЛИНСКИЙ 91</td>
+<td>1998</td>
+<td>12,1</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ВОСТОЧНО-
+КАЗАХСТАНСКИЙ
+</td>
+<td>1972</td>
+<td>1,5,7,8</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КОКТАС</td>
+<td>2010</td>
+<td>5</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЛИМАННЫЙ</td>
+<td>1975</td>
+<td>1</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>СИБНИИСХОЗ 88</td>
+<td>1994</td>
+<td>2,13</td>
+<td>138</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>СИБНИИСХОЗ 189</td>
+<td>1957</td>
+<td>1,12,13</td>
+<td>138</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>СТЕПНОЙ</td>
+<td>1966</td>
+<td>2,5,10</td>
+<td>28</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Кострец прямой
+Bromus arvensis L.
+</th>
+</tr>
+<tr>
+<td>
+ЦЕЛИНОГРАДСКИЙ
+30
+</td>
+<td>1991</td>
+<td>3</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Ежа сборная
+Dactylis glomerata L.
+</th>
+</tr>
+<tr>
+<td>БУКТЫРМА</td>
+<td>2010</td>
+<td>5</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЗАЙЛИЙСКАЯ</td>
+<td>1993</td>
+<td>3</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КАРКАРА 90</td>
+<td>2000</td>
+<td>3</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Тимофеевка луговая
+Phleum pratense L.
+</th>
+</tr>
+<tr>
+<td>КАЗАХ ЕЛИ 90</td>
+<td>2002</td>
+<td>3</td>
+<td>256</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТОМИРИС</td>
+<td>2010</td>
+<td>5</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Амарант метельчатый
+Amaranthus L.
+</th>
+</tr>
+<tr>
+<td>АТЛАНТ</td>
+<td>1995</td>
+<td>3,5,14</td>
+<td>174</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Горец забайкальский
+Polygonum divaricatum L.
+</th>
+</tr>
+<tr>
+<td>ЧАГЛИНСКИЙ</td>
+<td>2009</td>
+<td>1</td>
+<td>286</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Камфоросма лессинга
+Camphorosma lessingii
+</th>
+</tr>
+<tr>
+<td>ОТРАР</td>
+<td>2009</td>
+<td>14</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="2">
+Наименование
+сорта гибрида
+</td>
+<td rowspan="2">
+Год
+допуска
+</td>
+<td rowspan="2">
+Области
+допуска
+</td>
+<td rowspan="2">
+Номер
+оригина-
+тора
+</td>
+<td colspan="5">Признаки</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<th colspan="9">
+Прутняк (изень, кохия стелющаяся)
+Kochia p. Schrad.
+</th>
+</tr>
+<tr>
+<td>
+АЛМА-АТИНСКИЙ
+ПЕСЧАНЫЙ 1
+</td>
+<td>1985</td>
+<td>3</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>БАКТОЛЕН</td>
+<td>1999</td>
+<td>14</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЗАДАРЬИНСКИЙ</td>
+<td>1990</td>
+<td>14</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>НУР</td>
+<td>2004</td>
+<td>14</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Кейреук (солянка корявая, жесткая)
+Salsola regida Pall.
+</th>
+</tr>
+<tr>
+<td>АЙДАРЛИНСКИЙ 1</td>
+<td>1985</td>
+<td>3</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>СЭН</td>
+<td>2000</td>
+<td>9,14</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Полынь гладкая
+Artemisia L. glabella Kar.​et.​Kir
+</th>
+</tr>
+<tr>
+<td>КАРКАРАЛИНСКАЯ</td>
+<td>2004</td>
+<td>8</td>
+<td>268</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КЕНТСКАЯ</td>
+<td>2004</td>
+<td>8</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Полынь белоземельная
+Artemisia terrae-albae Krasch.
+</th>
+</tr>
+<tr>
+<td>АКЖЕЛЕН</td>
+<td>2005</td>
+<td>3</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Ромашка аптечная
+Matricaria chamomilla
+</th>
+</tr>
+<tr>
+<td>КАРАГАНДИНСКАЯ</td>
+<td>2004</td>
+<td>8</td>
+<td>268</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Саксаул белый
+Haloxylon Н. рersicum)
+</th>
+</tr>
+<tr>
+<td>СЕЙХУН</td>
+<td>2007</td>
+<td>9,14</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="2">
+Наименование
+сорта гибрида
+</td>
+<td rowspan="2">
+Год
+допуска
+</td>
+<td rowspan="2">
+Области
+допуска
+</td>
+<td rowspan="2">
+Номер
+оригина-
+тора
+</td>
+<td colspan="5">Признаки</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<th colspan="9">
+Саксаул черный
+Haloxylon aphyllum (Minkw.)
+</th>
+</tr>
+<tr>
+<td>ЖАН-САЯ</td>
+<td>2000</td>
+<td>9,14</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Терескен
+Eurotia ceratoides (L.) C.A. Mey
+</th>
+</tr>
+<tr>
+<td>АРЫССКИЙ</td>
+<td>1990</td>
+<td>14</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КЛХ-2</td>
+<td>1990</td>
+<td>3</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КЫЗЫЛКУМ</td>
+<td>1999</td>
+<td>14</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Астрагал, А. лисовидный
+Аstragalus, A. alopecias
+</th>
+</tr>
+<tr>
+<td>ТАСПА</td>
+<td>2007</td>
+<td>9,14</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Чогон
+Salsola subaphylla C.A. Mey
+</th>
+</tr>
+<tr>
+<td>ЖАЛЫН</td>
+<td>2006</td>
+<td>9,14</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>СЫРДАРЬИНСКИЙ</td>
+<td>2000</td>
+<td>9,14</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Вайда Буассье
+Sameraria Boissieriana
+</th>
+</tr>
+<tr>
+<td>НАУРЫЗ</td>
+<td>2004</td>
+<td>14</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Жузгун безлистый
+C.​aphyllum (Pall) Gurke
+</th>
+</tr>
+<tr>
+<td>ШУГЫЛА</td>
+<td>2004</td>
+<td>14</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Жузгун Голова Медузы
+(G.​caput Medusae)
+</th>
+</tr>
+<tr>
+<td>ӘСЕМ</td>
+<td>2004</td>
+<td>14</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="2">
+Наименование
+сорта гибрида
+</td>
+<td rowspan="2">
+Год
+допуска
+</td>
+<td rowspan="2">
+Области
+допуска
+</td>
+<td rowspan="2">
+Номер
+оригина-
+тора
+</td>
+<td colspan="5">Признаки</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<th colspan="9">
+Морковь кормовая
+Daucus carota L.
+</th>
+</tr>
+<tr>
+<td>
+МИРЗОИ КРАСНАЯ
+288
+</td>
+<td>1962</td>
+<td>14</td>
+<td>195</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>РОГНЕДА</td>
+<td>1988</td>
+<td>13</td>
+<td>77</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ШАНТЕНЭ 2461</td>
+<td>1948</td>
+<td>
+1,2,3,4,5
+6,7,8,9,11
+12,13,14
+</td>
+<td>87</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Тыква кормовая
+(Cucurbita L)
+</th>
+</tr>
+<tr>
+<td>ГИБРИД 72</td>
+<td>1974</td>
+<td>5</td>
+<td>168</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>РЕКОРД</td>
+<td>1985</td>
+<td>9</td>
+<td>54</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>СТОФУНТОВАЯ</td>
+<td>1947</td>
+<td>1,3,13</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Свекла кормoвая
+Beta vulgaris L. ssp. vulgaris var. alba DC.
+</th>
+</tr>
+<tr>
+<td>КУРОС</td>
+<td>1997</td>
+<td>6</td>
+<td>231</td>
+<td></td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>МОНРО</td>
+<td>2000</td>
+<td>1,2,13</td>
+<td>240</td>
+<td></td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ОБРОШИНСКАЯ
+ЖЕЛТАЯ
+</td>
+<td>1987</td>
+<td>5,12,14</td>
+<td>164</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТАМАРА</td>
+<td>2002</td>
+<td>1,2,13</td>
+<td>230</td>
+<td></td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ТИМИРЯЗЕВСКАЯ
+ОДНОСЕМЕННАЯ
+</td>
+<td>1988</td>
+<td>10</td>
+<td>142</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ТИМИРЯЗЕВСКАЯ
+ОКРУГЛАЯ
+</td>
+<td>1991</td>
+<td>3,8</td>
+<td>142</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ТИМИРЯЗЕВСКАЯ
+56
+</td>
+<td>1974</td>
+<td>13</td>
+<td>145</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ТИМИРЯЗЕВСКАЯ
+87
+</td>
+<td>1993</td>
+<td>3</td>
+<td>145</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ЭККЕНДОРФСКАЯ
+ЖЕЛТАЯ
+</td>
+<td>1943</td>
+<td>
+2,3,4,5,6,
+7,8,9,11,
+13,14
+</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
