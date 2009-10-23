@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/26442/kaz/31.03.2008
+source: https://zan.gov.kz/client/#!/doc/26442/kaz/23.10.2009
 ---
 
 ## Ақшы шығуының жоспары
