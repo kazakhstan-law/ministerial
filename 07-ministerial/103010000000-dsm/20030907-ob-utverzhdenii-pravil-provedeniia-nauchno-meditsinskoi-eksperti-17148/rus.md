@@ -18,6 +18,11 @@ caused_by:
   title: Об утверждении Правил проведения научно-медицинской экспертизы
   link: https://zan.gov.kz/client/#!/doc/49081/rus
 source: https://zan.gov.kz/client/#!/doc/17148/rus
+repealed_on: 2013-07-10
+repealed_by:
+  code: '49081'
+  title: Об утверждении Правил проведения научно-медицинской экспертизы
+  link: https://zan.gov.kz/client/#!/doc/49081/rus
 ---
 
 # Об утверждении Правил проведения научно-медицинской экспертизы
