@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/17148/kaz/22.09.2005
+repealed_on: 2013-07-10
+repealed_by:
+  code: '49081'
+  title: Ғылыми-медициналық сараптама жүргізу ережесін бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/49081/kaz
 ---
 
 # Ғылыми-медициналық сараптама жүргізу ережесін бекіту туралы
