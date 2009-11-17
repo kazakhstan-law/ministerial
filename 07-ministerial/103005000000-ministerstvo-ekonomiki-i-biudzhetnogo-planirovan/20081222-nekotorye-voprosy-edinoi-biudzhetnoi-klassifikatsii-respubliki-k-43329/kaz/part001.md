@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/43329/kaz/23.09.2009
+source: https://zan.gov.kz/client/#!/doc/43329/kaz/17.11.2009
 ---
 
 ## 1) Бюджет түсімдерінің сыныптамасы
