@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/43329/kaz/17.11.2009
+source: https://zan.gov.kz/client/#!/doc/43329/kaz/10.12.2009
 ---
 
 ## 1) Бюджет түсімдерінің сыныптамасы
@@ -979,14 +979,14 @@ source: https://zan.gov.kz/client/#!/doc/43329/kaz/17.11.2009
 <td>05</td>
 <td>5</td>
 <td></td>
-<td>Құмар ойын бизнеске салық</td>
+<td>Ойын бизнесіне салық</td>
 </tr>
 <tr>
 <td>1</td>
 <td>05</td>
 <td>5</td>
 <td>01</td>
-<td>Құмар ойын бизнеске салық</td>
+<td>Ойын бизнесіне салық</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2260,7 +2260,7 @@ source: https://zan.gov.kz/client/#!/doc/43329/kaz/17.11.2009
 <td>04</td>
 <td>1</td>
 <td></td>
-<td>Күрделі нысаналы трансферттер</td>
+<td>Республикалық бюджетке Ұлттық қордан трансферттер</td>
 </tr>
 <tr>
 <td>4</td>
