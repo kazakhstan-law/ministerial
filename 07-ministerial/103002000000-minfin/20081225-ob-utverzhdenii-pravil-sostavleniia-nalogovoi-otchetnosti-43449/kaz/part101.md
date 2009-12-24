@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/43449/kaz/15.12.2009
+source: https://zan.gov.kz/client/#!/doc/43449/kaz/24.12.2009
 ---
 
 ## 9. Тіркелген активтер бойынша шегерімдер – 220.07-нысанын жасау

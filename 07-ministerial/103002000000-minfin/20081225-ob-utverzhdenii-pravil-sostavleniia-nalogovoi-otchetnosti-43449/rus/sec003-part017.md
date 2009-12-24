@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/43449/rus/15.12.2009
+source: https://zan.gov.kz/client/#!/doc/43449/rus/24.12.2009
 ---
 
 ## Форма 2.3 Бухгалтерский баланс тыс. тенге
