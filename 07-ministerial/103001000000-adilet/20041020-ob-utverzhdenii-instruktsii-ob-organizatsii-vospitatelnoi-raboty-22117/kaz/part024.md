@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/22117/kaz/17.09.2009
+source: https://zan.gov.kz/client/#!/doc/22117/kaz/25.02.2010
 ---
 
 ## Жеке тұлғаны зерделеу сызбасы:
