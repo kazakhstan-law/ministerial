@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/50207/kaz/24.12.2009
+source: https://zan.gov.kz/client/#!/doc/50207/kaz/26.02.2010
 ---
 
 ## 13. Тіркелген активтер бойынша шегерімдер – 110.11-нысанын жасау

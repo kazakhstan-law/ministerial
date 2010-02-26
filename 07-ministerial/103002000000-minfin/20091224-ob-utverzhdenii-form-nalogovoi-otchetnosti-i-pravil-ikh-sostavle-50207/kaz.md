@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50207/kaz/24.12.2009
+source: https://zan.gov.kz/client/#!/doc/50207/kaz/26.02.2010
 ---
 
 # Салық есептілігі нысандарын және оларды жасау Ережелерін бекіту туралы
