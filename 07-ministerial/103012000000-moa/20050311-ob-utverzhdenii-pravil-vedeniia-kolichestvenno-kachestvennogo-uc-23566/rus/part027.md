@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/23566/rus/28.05.2007
+source: https://zan.gov.kz/client/#!/doc/23566/rus/15.03.2010
 ---
 
 ## Акт зачистки от «___»_____________________ 200__ г.

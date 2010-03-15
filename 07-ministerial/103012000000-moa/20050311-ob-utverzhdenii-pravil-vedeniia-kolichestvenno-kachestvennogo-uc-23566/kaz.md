@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/23566/kaz/28.05.2007
+source: https://zan.gov.kz/client/#!/doc/23566/kaz/15.03.2010
 ---
 
 # Астықтың сандық-сапалық есебін жүргізу ережесін бекіту туралы
