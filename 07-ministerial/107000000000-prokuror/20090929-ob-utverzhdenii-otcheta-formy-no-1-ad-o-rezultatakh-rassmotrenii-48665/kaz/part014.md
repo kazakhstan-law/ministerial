@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/48665/kaz/29.09.2009
+source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 ---
 
 ## N 2 бөлім "Ішкі істер органдары бойынша"
