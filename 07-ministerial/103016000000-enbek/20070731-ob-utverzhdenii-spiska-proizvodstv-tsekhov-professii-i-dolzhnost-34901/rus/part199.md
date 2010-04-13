@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/34901/rus/27.08.2008
+source: https://zan.gov.kz/client/#!/doc/34901/rus/13.04.2010
 ---
 
 ## 11. НЕФТЯНАЯ И ГАЗОВАЯ ПРОМЫШЛЕННОСТЬ БУРЕНИЕ И ДОБЫЧА НЕФТИ И ГАЗА Рабочие

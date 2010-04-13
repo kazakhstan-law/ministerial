@@ -1,9 +1,9 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/34901/kaz/27.08.2008
+source: https://zan.gov.kz/client/#!/doc/34901/kaz/13.04.2010
 ---
 
-## Жұмысшылар
+## АҒАШӨӨҢДЕУ ӨНДIРIСIНІҢ ЖАЛПЫ КӘСIПТЕРI Жұмысшылар
 
 75\. Желiмдейтiн синтетикалық смола
 
