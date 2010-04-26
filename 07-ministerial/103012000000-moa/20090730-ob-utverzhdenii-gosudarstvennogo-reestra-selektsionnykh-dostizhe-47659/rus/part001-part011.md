@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/47659/rus/22.09.2009
+source: https://zan.gov.kz/client/#!/doc/47659/rus/26.04.2010
 ---
 
 <table>
@@ -32,7 +32,7 @@ source: https://zan.gov.kz/client/#!/doc/47659/rus/22.09.2009
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Рапс яровой на корм
 Brassica napus L. ssp. oleifera (Metzg.) Sinsk.
 </th>
@@ -63,7 +63,7 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Сурепица озимая
 Brassica rapa L. var. silvestris (Lam.) Briggs.
 </th>
@@ -80,7 +80,7 @@ Brassica rapa L. var. silvestris (Lam.) Briggs.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Сурепица яровая
 Brassica rapa L. var. silvestris (Lam.) Briggs.
 </th>
@@ -97,7 +97,7 @@ Brassica rapa L. var. silvestris (Lam.) Briggs.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Редька масличная
 Raphanus sativus L. var. oleifornis Pars.
 </th>
@@ -114,7 +114,7 @@ Raphanus sativus L. var. oleifornis Pars.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Люцерна
 Medicado L.
 </th>
@@ -191,6 +191,20 @@ Medicado L.
 <tr>
 <td>
 КАРАБАЛЫКСКАЯ
+ЖЕМЧУЖИНА
+</td>
+<td>2011</td>
+<td>3, 10, 12</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+КАРАБАЛЫКСКАЯ
 РАДУГА
 </td>
 <td>2008</td>
@@ -207,6 +221,17 @@ Medicado L.
 <td>1938</td>
 <td>8,10</td>
 <td>43</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КОКОРАЙ</td>
+<td>2011</td>
+<td>6, 9</td>
+<td>18, 137</td>
 <td></td>
 <td></td>
 <td></td>
@@ -306,6 +331,17 @@ Medicado L.
 <td></td>
 </tr>
 <tr>
+<td>ТУРКЕСТАН 15</td>
+<td>2011</td>
+<td>9</td>
+<td>31</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>УРАЛЬСКАЯ СИНЯЯ</td>
 <td>1950</td>
 <td>7</td>
@@ -339,7 +375,7 @@ Medicado L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Клевер луговой
 Trifolium pratense L.
 </th>
@@ -359,7 +395,7 @@ Trifolium pratense L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Эспарцет
 Onobrychis viciifolia Scop.
 </th>
@@ -391,6 +427,17 @@ Onobrychis viciifolia Scop.
 <td>1988</td>
 <td>5</td>
 <td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>НУРИНСКИЙ 95</td>
+<td>2011</td>
+<td>10</td>
+<td>43</td>
 <td></td>
 <td></td>
 <td></td>
@@ -450,7 +497,10 @@ Onobrychis viciifolia Scop.
 <tr>
 <td>ФЛАМИНГО</td>
 <td>2010</td>
-<td>12</td>
+<td>
+3 (*), 12,
+13 (*)
+</td>
 <td>19</td>
 <td></td>
 <td></td>
@@ -459,7 +509,7 @@ Onobrychis viciifolia Scop.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Козлятник восточный
 Galega orientalis Lam.
 </th>
@@ -509,7 +559,7 @@ Galega orientalis Lam.
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Житняк
 Agropyron et Schult.
 </th>
@@ -692,7 +742,7 @@ Agropyron et Schult.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Овсяница луговая
 Festuca pratensis Huds.
 </th>
@@ -720,7 +770,7 @@ Festuca pratensis Huds.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Овсяница бороздчатая
 Festuca sulcata Hach.
 </th>
@@ -767,7 +817,7 @@ Festuca sulcata Hach.
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Пырей бескорневищный
 Roegneria trachycaulon Nevski.
 </th>
@@ -798,7 +848,7 @@ Roegneria trachycaulon Nevski.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Пырей сизый
 Agropyrum glacum R. et Sch.
 </th>
@@ -811,6 +861,17 @@ Agropyrum glacum R. et Sch.
 <td>1998</td>
 <td>8</td>
 <td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КЫЗЫЛ ЖАР</td>
+<td>2011</td>
+<td>10, 12</td>
+<td>19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -840,7 +901,7 @@ Agropyrum glacum R. et Sch.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Пырейник сибирский
 Clinelymus sibiricus Nevski
 </th>
@@ -857,7 +918,7 @@ Clinelymus sibiricus Nevski
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Пырейник даурский
 Clinelymus dahuricus Nevski.
 </th>
@@ -874,7 +935,7 @@ Clinelymus dahuricus Nevski.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Ломкоколосник ситниковый
 Elymus yunceus Fisch.
 </th>
@@ -906,7 +967,7 @@ Elymus yunceus Fisch.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Кострец безостый
 Bromus inermis Leyss.
 </th>
@@ -930,6 +991,20 @@ Bromus inermis Leyss.
 <td>1972</td>
 <td>1,5,7,8</td>
 <td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ИШИМСКИЙ
+ЮБИЛЕЙНЫЙ
+</td>
+<td>2011</td>
+<td>10, 13</td>
+<td>19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -992,7 +1067,18 @@ Bromus inermis Leyss.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<td>ТУГАН ЖЕР</td>
+<td>2011</td>
+<td>3</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
 Кострец прямой
 Bromus arvensis L.
 </th>
@@ -1012,7 +1098,7 @@ Bromus arvensis L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Ежа сборная
 Dactylis glomerata L.
 </th>
@@ -1051,7 +1137,7 @@ Dactylis glomerata L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Тимофеевка луговая
 Phleum pratense L.
 </th>
@@ -1079,7 +1165,7 @@ Phleum pratense L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Амарант метельчатый
 Amaranthus L.
 </th>
@@ -1096,7 +1182,7 @@ Amaranthus L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Горец забайкальский
 Polygonum divaricatum L.
 </th>
@@ -1113,7 +1199,7 @@ Polygonum divaricatum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Камфоросма лессинга
 Camphorosma lessingii
 </th>
@@ -1160,7 +1246,7 @@ Camphorosma lessingii
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Прутняк (изень, кохия стелющаяся)
 Kochia p. Schrad.
 </th>
@@ -1213,7 +1299,7 @@ Kochia p. Schrad.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Кейреук (солянка корявая, жесткая)
 Salsola regida Pall.
 </th>
@@ -1241,7 +1327,7 @@ Salsola regida Pall.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Полынь гладкая
 Artemisia L. glabella Kar.​et.​Kir
 </th>
@@ -1269,7 +1355,7 @@ Artemisia L. glabella Kar.​et.​Kir
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Полынь белоземельная
 Artemisia terrae-albae Krasch.
 </th>
@@ -1286,7 +1372,7 @@ Artemisia terrae-albae Krasch.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Ромашка аптечная
 Matricaria chamomilla
 </th>
@@ -1303,7 +1389,7 @@ Matricaria chamomilla
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Саксаул белый
 Haloxylon Н. рersicum)
 </th>
@@ -1350,7 +1436,7 @@ Haloxylon Н. рersicum)
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Саксаул черный
 Haloxylon aphyllum (Minkw.)
 </th>
@@ -1367,7 +1453,7 @@ Haloxylon aphyllum (Minkw.)
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Терескен
 Eurotia ceratoides (L.) C.A. Mey
 </th>
@@ -1406,7 +1492,7 @@ Eurotia ceratoides (L.) C.A. Mey
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Астрагал, А. лисовидный
 Аstragalus, A. alopecias
 </th>
@@ -1423,7 +1509,7 @@ Eurotia ceratoides (L.) C.A. Mey
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Чогон
 Salsola subaphylla C.A. Mey
 </th>
@@ -1451,7 +1537,7 @@ Salsola subaphylla C.A. Mey
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Вайда Буассье
 Sameraria Boissieriana
 </th>
@@ -1468,7 +1554,7 @@ Sameraria Boissieriana
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Жузгун безлистый
 C.​aphyllum (Pall) Gurke
 </th>
@@ -1485,7 +1571,7 @@ C.​aphyllum (Pall) Gurke
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Жузгун Голова Медузы
 (G.​caput Medusae)
 </th>
@@ -1532,7 +1618,7 @@ C.​aphyllum (Pall) Gurke
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Морковь кормовая
 Daucus carota L.
 </th>
@@ -1578,7 +1664,7 @@ Daucus carota L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Тыква кормовая
 (Cucurbita L)
 </th>
@@ -1617,7 +1703,7 @@ Daucus carota L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Свекла кормoвая
 Beta vulgaris L. ssp. vulgaris var. alba DC.
 </th>

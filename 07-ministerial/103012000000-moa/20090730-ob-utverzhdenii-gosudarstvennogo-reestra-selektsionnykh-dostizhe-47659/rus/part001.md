@@ -1,9 +1,11 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/47659/rus/22.09.2009
+source: https://zan.gov.kz/client/#!/doc/47659/rus/26.04.2010
 ---
 
 ## Государственный реестр селекционных достижений, допущенных к использованию в Республике Казахстан
+
+> *Сноска. Гос. реестр с изменениями, внесенными приказом Министра сельского хозяйства РК от 26.04.2010 № 291 (порядок введения в действие см. п. 3).*
 
 <table>
 <tr>
@@ -22,9 +24,9 @@ source: https://zan.gov.kz/client/#!/doc/47659/rus/22.09.2009
 <td rowspan="2">
 Номер
 оригина-
-тора ***
+тора***
 </td>
-<td colspan="5">Признаки ****</td>
+<td colspan="5">Признаки****</td>
 </tr>
 <tr>
 <th>1</th>
@@ -34,7 +36,18 @@ source: https://zan.gov.kz/client/#!/doc/47659/rus/22.09.2009
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+<tr>
+<th>
 Зерновые
 Пшеница мягкая озимая
 Triticum aestivum L. emend. Fiori et Paol.
@@ -112,6 +125,17 @@ Triticum aestivum L. emend. Fiori et Paol.
 <td>14</td>
 <td>18</td>
 <td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖЕМЧУЖИНА ПОВОЛЖЬЯ</td>
+<td>2011</td>
+<td>7</td>
+<td>114</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -322,6 +346,17 @@ Triticum aestivum L. emend. Fiori et Paol.
 <td></td>
 </tr>
 <tr>
+<td>РАСАД</td>
+<td>2011</td>
+<td>3</td>
+<td>18</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>САПАЛЫ</td>
 <td>2001</td>
 <td>3</td>
@@ -399,7 +434,7 @@ Triticum aestivum L. emend. Fiori et Paol.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Пшеница твердая озимая
 Triticum durum Desf.
 </th>
@@ -416,7 +451,18 @@ Triticum durum Desf.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<td>КАЗАХСТАНСКИЙ ЯНТАРЬ</td>
+<td>2011</td>
+<td>3</td>
+<td>18</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
 Ячмень озимый
 Hordeum vulgare L. sensu lato
 </th>
@@ -491,7 +537,7 @@ Hordeum vulgare L. sensu lato
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Рожь озимая
 Secale cereale
 </th>
@@ -558,7 +604,7 @@ Secale cereale
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Тритикале озимый
 Triticosecale Wittmack
 </th>
@@ -586,7 +632,7 @@ Triticosecale Wittmack
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Пшеница мягкая яровая
 Triticum aestivum L. emend. Fiori et Paol
 </th>
@@ -618,6 +664,17 @@ Triticum aestivum L. emend. Fiori et Paol
 <td>2006</td>
 <td>3,5</td>
 <td>16,18</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АЛМАКЕН</td>
+<td>2011</td>
+<td>3</td>
+<td>18</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -969,6 +1026,17 @@ Triticum aestivum L. emend. Fiori et Paol
 <td></td>
 </tr>
 <tr>
+<td>ЛЯЗЗАТ</td>
+<td>2011</td>
+<td>5</td>
+<td>8</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>МИРАС</td>
 <td>2002</td>
 <td>6</td>
@@ -1222,6 +1290,20 @@ Triticum aestivum L. emend. Fiori et Paol
 <td></td>
 </tr>
 <tr>
+<td>СЕВЕРЯНКА</td>
+<td>2011</td>
+<td>13</td>
+<td>
+16, 275,
+30
+</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>СЕКЕ</td>
 <td>2008</td>
 <td>8,12</td>
@@ -1237,6 +1319,28 @@ Triticum aestivum L. emend. Fiori et Paol
 <td>2010</td>
 <td>2</td>
 <td>4</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>СТЕПНАЯ 50</td>
+<td>2011</td>
+<td>2</td>
+<td>4, 18</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>СТЕПНАЯ 60</td>
+<td>2011</td>
+<td>8</td>
+<td>4, 315</td>
 <td>04</td>
 <td></td>
 <td></td>
