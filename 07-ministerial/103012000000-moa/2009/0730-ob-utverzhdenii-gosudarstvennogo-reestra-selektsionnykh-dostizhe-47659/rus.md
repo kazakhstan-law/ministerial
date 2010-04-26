@@ -21,6 +21,8 @@
 
 ## Государственный реестр селекционных достижений, допущенных к использованию в Республике Казахстан
 
+> *Сноска. Гос. реестр с изменениями, внесенными приказом Министра сельского хозяйства РК от 26.04.2010 № 291 (порядок введения в действие см. п. 3).*
+
 <table>
 <tr>
 <td rowspan="2">
@@ -38,9 +40,9 @@
 <td rowspan="2">
 Номер
 оригина-
-тора ***
+тора***
 </td>
-<td colspan="5">Признаки ****</td>
+<td colspan="5">Признаки****</td>
 </tr>
 <tr>
 <th>1</th>
@@ -50,7 +52,18 @@
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+<tr>
+<th>
 Зерновые
 Пшеница мягкая озимая
 Triticum aestivum L. emend. Fiori et Paol.
@@ -128,6 +141,17 @@ Triticum aestivum L. emend. Fiori et Paol.
 <td>14</td>
 <td>18</td>
 <td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖЕМЧУЖИНА ПОВОЛЖЬЯ</td>
+<td>2011</td>
+<td>7</td>
+<td>114</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -338,6 +362,17 @@ Triticum aestivum L. emend. Fiori et Paol.
 <td></td>
 </tr>
 <tr>
+<td>РАСАД</td>
+<td>2011</td>
+<td>3</td>
+<td>18</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>САПАЛЫ</td>
 <td>2001</td>
 <td>3</td>
@@ -415,7 +450,7 @@ Triticum aestivum L. emend. Fiori et Paol.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Пшеница твердая озимая
 Triticum durum Desf.
 </th>
@@ -432,7 +467,18 @@ Triticum durum Desf.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<td>КАЗАХСТАНСКИЙ ЯНТАРЬ</td>
+<td>2011</td>
+<td>3</td>
+<td>18</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
 Ячмень озимый
 Hordeum vulgare L. sensu lato
 </th>
@@ -507,7 +553,7 @@ Hordeum vulgare L. sensu lato
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Рожь озимая
 Secale cereale
 </th>
@@ -574,7 +620,7 @@ Secale cereale
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Тритикале озимый
 Triticosecale Wittmack
 </th>
@@ -602,7 +648,7 @@ Triticosecale Wittmack
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Пшеница мягкая яровая
 Triticum aestivum L. emend. Fiori et Paol
 </th>
@@ -634,6 +680,17 @@ Triticum aestivum L. emend. Fiori et Paol
 <td>2006</td>
 <td>3,5</td>
 <td>16,18</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АЛМАКЕН</td>
+<td>2011</td>
+<td>3</td>
+<td>18</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -985,6 +1042,17 @@ Triticum aestivum L. emend. Fiori et Paol
 <td></td>
 </tr>
 <tr>
+<td>ЛЯЗЗАТ</td>
+<td>2011</td>
+<td>5</td>
+<td>8</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>МИРАС</td>
 <td>2002</td>
 <td>6</td>
@@ -1238,6 +1306,20 @@ Triticum aestivum L. emend. Fiori et Paol
 <td></td>
 </tr>
 <tr>
+<td>СЕВЕРЯНКА</td>
+<td>2011</td>
+<td>13</td>
+<td>
+16, 275,
+30
+</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>СЕКЕ</td>
 <td>2008</td>
 <td>8,12</td>
@@ -1253,6 +1335,28 @@ Triticum aestivum L. emend. Fiori et Paol
 <td>2010</td>
 <td>2</td>
 <td>4</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>СТЕПНАЯ 50</td>
+<td>2011</td>
+<td>2</td>
+<td>4, 18</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>СТЕПНАЯ 60</td>
+<td>2011</td>
+<td>8</td>
+<td>4, 315</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -1417,7 +1521,7 @@ Triticum aestivum L. emend. Fiori et Paol
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Пшеница твердая яровая
 Triticum durum Desf
 </th>
@@ -1450,7 +1554,7 @@ Triticum durum Desf
 <tr>
 <td>АЛТЫН-ДАЛА</td>
 <td>2010</td>
-<td>13</td>
+<td>10 (*), 13</td>
 <td>24</td>
 <td>04</td>
 <td></td>
@@ -1685,7 +1789,7 @@ Triticum durum Desf
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Ячмень яровой
 Hordeum vulgare L. sensu lato
 </th>
@@ -1760,10 +1864,32 @@ Hordeum vulgare L. sensu lato
 <td></td>
 </tr>
 <tr>
+<td>ВАКУЛА</td>
+<td>2011</td>
+<td>3</td>
+<td>169</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ГРАНАЛ</td>
 <td>1991</td>
 <td>10</td>
 <td>28</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ГЕТЬМАН</td>
+<td>2011</td>
+<td>10</td>
+<td>169</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -1829,6 +1955,17 @@ Hordeum vulgare L. sensu lato
 <td></td>
 </tr>
 <tr>
+<td>ИЛЕК 16</td>
+<td>2011</td>
+<td>5</td>
+<td>4</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>КАРАБАЛЫКСКИЙ 110</td>
 <td>2010</td>
 <td>5</td>
@@ -1864,7 +2001,7 @@ Hordeum vulgare L. sensu lato
 <tr>
 <td>КАРАГАНДИНСКИЙ 6</td>
 <td>2009</td>
-<td>10</td>
+<td>5 (*), 10</td>
 <td>43</td>
 <td>04</td>
 <td></td>
@@ -1889,6 +2026,17 @@ Hordeum vulgare L. sensu lato
 <td>3,5</td>
 <td>249</td>
 <td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КУРАЛАЙ</td>
+<td>2011</td>
+<td>3</td>
+<td>18</td>
+<td>02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2106,7 +2254,7 @@ Hordeum vulgare L. sensu lato
 <tr>
 <td>ЦЕЛИННЫЙ 2005</td>
 <td>2010</td>
-<td>5</td>
+<td>5, 13 (*)</td>
 <td>19</td>
 <td>04</td>
 <td></td>
@@ -2115,10 +2263,21 @@ Hordeum vulgare L. sensu lato
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Овес яровой
 Avena sativa L
 </th>
+</tr>
+<tr>
+<td>АЛАМАН</td>
+<td>2011</td>
+<td>3</td>
+<td>18</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>АРМАН</td>
@@ -2245,7 +2404,7 @@ Avena sativa L
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Кукуруза
 Zea mays L.
 </th>
@@ -2353,6 +2512,17 @@ Zea mays L.
 <td></td>
 </tr>
 <tr>
+<td>ДАЛА АРУЫ 446 П</td>
+<td>2011</td>
+<td>3</td>
+<td>18</td>
+<td>05</td>
+<td>гп</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ДК 636</td>
 <td>1997</td>
 <td>6,14</td>
@@ -2436,6 +2606,17 @@ Zea mays L.
 <td>220,270</td>
 <td>03</td>
 <td>3л</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КАЗ ЗП 509</td>
+<td>2011</td>
+<td>3</td>
+<td>220, 270</td>
+<td>02</td>
+<td>2л</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2802,6 +2983,17 @@ Zea mays L.
 <td></td>
 </tr>
 <tr>
+<td>РОБУСТ 97474</td>
+<td>2011</td>
+<td>3</td>
+<td>285</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>САРЫ-АРКА 150 АСВ</td>
 <td>1994</td>
 <td>
@@ -3006,7 +3198,7 @@ Zea mays L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Сорго зерновое
 Sorghum bicolor (L.) Moench
 </th>
@@ -3067,7 +3259,7 @@ Sorghum bicolor (L.) Moench
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Крупяные
 Просо
 Panicum miliaceum L.
@@ -3198,7 +3390,7 @@ Panicum miliaceum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Гречиха
 Fagopyrum esculentum Moench
 </th>
@@ -3299,7 +3491,7 @@ Fagopyrum esculentum Moench
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Рис
 Oryza sativa L.
 </th>
@@ -3516,7 +3708,7 @@ Oryza sativa L.
 <tr>
 <td>ТОГУСКЕН 1</td>
 <td>2009</td>
-<td>9</td>
+<td>3 (*), 9</td>
 <td>31</td>
 <td>04</td>
 <td></td>
@@ -3592,7 +3784,7 @@ Oryza sativa L.
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Зернобобовые
 Горох посевной
 Pisum sativum L. sensu lato
@@ -3710,7 +3902,7 @@ Pisum sativum L. sensu lato
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Соя
 Glycine max (L.) Merr
 </th>
@@ -3829,6 +4021,17 @@ Glycine max (L.) Merr
 <td></td>
 </tr>
 <tr>
+<td>ЛАСТОЧКА</td>
+<td>2011</td>
+<td>3</td>
+<td>18</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>МИСУЛА 1092</td>
 <td>1997</td>
 <td>3,9,14</td>
@@ -3840,12 +4043,34 @@ Glycine max (L.) Merr
 <td></td>
 </tr>
 <tr>
+<td>НЕНА</td>
+<td>2011</td>
+<td>3</td>
+<td>220</td>
+<td>06</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>РАДОСТЬ</td>
 <td>2010</td>
 <td>3,6</td>
 <td>18</td>
 <td>02</td>
 <td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>РЕНТА</td>
+<td>2011</td>
+<td>3</td>
+<td>64</td>
+<td>03</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3895,7 +4120,7 @@ Glycine max (L.) Merr
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Маш
 Phaseolus rabiatus L.
 </th>
@@ -3912,7 +4137,7 @@ Phaseolus rabiatus L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Чина
 Lathyrus sativus L
 </th>
@@ -3951,7 +4176,7 @@ Lathyrus sativus L
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Нут
 Cicer arietinum L.
 </th>
@@ -4026,7 +4251,7 @@ Cicer arietinum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Масличные
 Подсолнечник
 Helianthus annuus L.
@@ -4046,7 +4271,7 @@ Helianthus annuus L.
 <tr>
 <td>БРИО</td>
 <td>2008</td>
-<td>2,5</td>
+<td>2, 3 (*), 5</td>
 <td>233</td>
 <td>04</td>
 <td>F1</td>
@@ -4079,7 +4304,7 @@ Helianthus annuus L.
 <tr>
 <td>ГУЛЬБАГЫС</td>
 <td>2007</td>
-<td>9,10</td>
+<td>8 (*), 9, 10</td>
 <td>8</td>
 <td>02</td>
 <td></td>
@@ -4212,11 +4437,55 @@ Helianthus annuus L.
 <td></td>
 </tr>
 <tr>
+<td>КЫЙ</td>
+<td>2011</td>
+<td>7</td>
+<td>177</td>
+<td>03</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>НК ДЕЛФИ</td>
+<td>2011</td>
+<td>5</td>
+<td>233</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ОСКИЛ</td>
+<td>2011</td>
+<td>7</td>
+<td>177</td>
+<td>03</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ПР 63 А 90</td>
 <td>2009</td>
 <td>5</td>
 <td>234</td>
 <td>04</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ПР 62 А 91</td>
+<td>2011</td>
+<td>3</td>
+<td>234</td>
+<td>02</td>
 <td>F1</td>
 <td></td>
 <td></td>
@@ -4388,7 +4657,7 @@ Helianthus annuus L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Горчица cизая
 Brassica juncea (L.) Czern.et Coss.in Czern.
 </th>
@@ -4441,7 +4710,7 @@ Brassica juncea (L.) Czern.et Coss.in Czern.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Сафлор
 Carthamus tinctorius L.
 </th>
@@ -4502,7 +4771,7 @@ Carthamus tinctorius L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Кунжут
 Sesamum indicum L.
 </th>
@@ -4519,7 +4788,7 @@ Sesamum indicum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Рапс озимый
 Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 </th>
@@ -4529,6 +4798,17 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td>1991</td>
 <td>3</td>
 <td>157</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЛИВИУС</td>
+<td>2011</td>
+<td>3</td>
+<td>291</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4547,7 +4827,7 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Рапс яровой
 Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 </th>
@@ -4555,7 +4835,7 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <tr>
 <td>АБИЛИТИ</td>
 <td>2009</td>
-<td>13</td>
+<td>1 (*), 13</td>
 <td>291</td>
 <td></td>
 <td></td>
@@ -4568,6 +4848,17 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td>2008</td>
 <td>3,10</td>
 <td>292</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ГЛАДИАТОР</td>
+<td>2011</td>
+<td>10</td>
+<td>291</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4597,6 +4888,28 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td></td>
 </tr>
 <tr>
+<td>ЛИЗОРА</td>
+<td>2011</td>
+<td>8</td>
+<td>291</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>МАЙЛЫ</td>
+<td>2011</td>
+<td>3</td>
+<td>18</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>РУСИЧ</td>
 <td>2007</td>
 <td>13</td>
@@ -4611,6 +4924,17 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td>СИЕСТА</td>
 <td>2010</td>
 <td>10</td>
+<td>299</td>
+<td></td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТРАППЕР</td>
+<td>2011</td>
+<td>3</td>
 <td>299</td>
 <td></td>
 <td>F1</td>
@@ -4652,7 +4976,7 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Рыжик яровой
 Camelina sativa (L.) Crantz.
 </th>
@@ -4669,7 +4993,7 @@ Camelina sativa (L.) Crantz.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Лен масличный
 Linum usitatissimum L. var. intermedia Vav. et. EII
 </th>
@@ -4722,6 +5046,17 @@ Linum usitatissimum L. var. intermedia Vav. et. EII
 <td></td>
 </tr>
 <tr>
+<td>ЛИРИНА</td>
+<td>2011</td>
+<td>1</td>
+<td>304</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ОПАЛ</td>
 <td>1992</td>
 <td>13</td>
@@ -4744,7 +5079,7 @@ Linum usitatissimum L. var. intermedia Vav. et. EII
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Клещевина
 Ricinus communis L.
 </th>
@@ -4764,7 +5099,7 @@ Ricinus communis L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Паслен дольчатый
 Жарнақты алқа
 </th>
@@ -4781,7 +5116,7 @@ Ricinus communis L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Технические
 Cвекла cахарная
 Beta vulgaris L. ssp. vulgaris var. altissima Doell
@@ -4898,6 +5233,17 @@ Beta vulgaris L. ssp. vulgaris var. altissima Doell
 <td></td>
 </tr>
 <tr>
+<td>ИРИС</td>
+<td>2011</td>
+<td>3</td>
+<td>305</td>
+<td></td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>КАЗ МС 19</td>
 <td>1998</td>
 <td>5</td>
@@ -4935,6 +5281,17 @@ Beta vulgaris L. ssp. vulgaris var. altissima Doell
 <td>2002</td>
 <td>6</td>
 <td>230</td>
+<td></td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КРОКОДИЛ</td>
+<td>2011</td>
+<td>3</td>
+<td>305</td>
 <td></td>
 <td>F1</td>
 <td></td>
@@ -5135,10 +5492,21 @@ Beta vulgaris L. ssp. vulgaris var. altissima Doell
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Табак
 Nicotiana tabacum L
 </th>
+</tr>
+<tr>
+<td>ВИРДЖИНИЯ</td>
+<td>2011</td>
+<td>14</td>
+<td>306</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>ДЮБЕК 13</td>
@@ -5185,7 +5553,7 @@ Nicotiana tabacum L
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Прядильные
 Хлопчатник
 Gossypium L.
@@ -5197,6 +5565,17 @@ Gossypium L.
 <td>14</td>
 <td>275,276</td>
 <td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>БЕРЕКЕ-07</td>
+<td>2011</td>
+<td>14</td>
+<td>10</td>
+<td>02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5290,6 +5669,17 @@ Gossypium L.
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td>ТУРКЕСТАН</td>
+<td>2011</td>
+<td>14</td>
+<td>307</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
 
 <table>
@@ -5321,7 +5711,7 @@ Gossypium L.
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Картофель, овощные и бахчевые
 Картофель
 Solanum tuberosum L.
@@ -5386,6 +5776,17 @@ Solanum tuberosum L.
 <td>АКСОР</td>
 <td>1998</td>
 <td>2,3,9,12</td>
+<td>21</td>
+<td>04</td>
+<td></td>
+<td>ст</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АЛЬЯНС</td>
+<td>2011</td>
+<td>14</td>
 <td>21</td>
 <td>04</td>
 <td></td>
@@ -5576,8 +5977,8 @@ Solanum tuberosum L.
 </td>
 <td>1993</td>
 <td>
-1,2,4,7,
-8,13
+1, 2, 4, 7,
+13
 </td>
 <td>27,21</td>
 <td>02</td>
@@ -5614,7 +6015,10 @@ Solanum tuberosum L.
 <tr>
 <td>ЛАТОНА</td>
 <td>2003</td>
-<td>1,3,8</td>
+<td>
+1, 3, 5 (*),
+8
+</td>
 <td>244</td>
 <td>02</td>
 <td></td>
@@ -5630,6 +6034,17 @@ Solanum tuberosum L.
 <td>05</td>
 <td></td>
 <td>ун</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>МИРАС</td>
+<td>2011</td>
+<td>3</td>
+<td>21</td>
+<td>03</td>
+<td></td>
+<td>ст</td>
 <td></td>
 <td></td>
 </tr>
@@ -5736,6 +6151,17 @@ Solanum tuberosum L.
 13,14
 </td>
 <td>219</td>
+<td>02</td>
+<td></td>
+<td>ст</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>РЕД СКАРЛЕТ</td>
+<td>2011</td>
+<td>10</td>
+<td>244</td>
 <td>02</td>
 <td></td>
 <td>ст</td>
@@ -5878,6 +6304,28 @@ Solanum tuberosum L.
 <td></td>
 </tr>
 <tr>
+<td>ТУСТЕП</td>
+<td>2011</td>
+<td>8</td>
+<td>28</td>
+<td>06</td>
+<td></td>
+<td>ст</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>УДАЧА</td>
+<td>2011</td>
+<td>8, 13</td>
+<td>60</td>
+<td>03</td>
+<td></td>
+<td>ст</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>УЛАН</td>
 <td>2003</td>
 <td>3</td>
@@ -5902,7 +6350,7 @@ Solanum tuberosum L.
 <tr>
 <td>ФАБУЛА</td>
 <td>2005</td>
-<td>10</td>
+<td>3 (*), 10</td>
 <td>244</td>
 <td>04</td>
 <td></td>
@@ -5991,7 +6439,7 @@ Solanum tuberosum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Капуста белокочанная
 Вrassica oleracea convar. capitata (L.) Alef. var. capitata
 f. alba DC.
@@ -6292,6 +6740,17 @@ f. alba DC.
 <td></td>
 </tr>
 <tr>
+<td>РОЯЛ ВАНТАЖ</td>
+<td>2011</td>
+<td>14</td>
+<td>303</td>
+<td>03</td>
+<td>F1</td>
+<td>ст</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>РУСИНОВКА</td>
 <td>1985</td>
 <td>2,4,5,13</td>
@@ -6444,7 +6903,7 @@ f. alba DC.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Капуста краснокочанная
 Brassica oleracea convar. capitata (L.) Alef. var. capitata
 L. f. rubra (L.) Thell.
@@ -6476,10 +6935,21 @@ L. f. rubra (L.) Thell.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Капуста цветная
 Brassica oleracea convar. botrytis (L.) Alef. var. botritis L.
 </th>
+</tr>
+<tr>
+<td>АМСТЕРДАМ</td>
+<td>2011</td>
+<td>13</td>
+<td>294</td>
+<td>04</td>
+<td>F1</td>
+<td>ст</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>АСТЕРИКС</td>
@@ -6543,7 +7013,7 @@ Brassica oleracea convar. botrytis (L.) Alef. var. botritis L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Капуста пекинская
 Brassica pekinensis (Lour.) Rupr.
 </th>
@@ -6601,7 +7071,7 @@ Brassica pekinensis (Lour.) Rupr.
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Салат
 Lactuca sativa L.
 </th>
@@ -6633,6 +7103,36 @@ Lactuca sativa L.
 <td></td>
 </tr>
 <tr>
+<td>ОНИКС</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>264</td>
+<td></td>
+<td></td>
+<td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
+<td>РЕВОЛЮЦИЯ</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>264</td>
+<td></td>
+<td></td>
+<td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
 <td>РЕЙЧЕЛ</td>
 <td>2000</td>
 <td>8</td>
@@ -6655,7 +7155,7 @@ Lactuca sativa L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Горчица салатная
 Brassica juncea (L.) Czern. et Coss. in Czern
 </th>
@@ -6672,7 +7172,7 @@ Brassica juncea (L.) Czern. et Coss. in Czern
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Шпинат
 Spinacia oleracea L.
 </th>
@@ -6692,7 +7192,7 @@ Spinacia oleracea L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Щавель
 Rumex L.
 </th>
@@ -6726,7 +7226,7 @@ Rumex L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Укроп
 Anethum graveolens L.
 </th>
@@ -6780,7 +7280,7 @@ Anethum graveolens L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Ревень
 Rheum L.
 </th>
@@ -6808,7 +7308,7 @@ Rheum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Огурец
 Cucumis sativus L.
 открытого грунта
@@ -6951,6 +7451,17 @@ Cucumis sativus L.
 <td></td>
 </tr>
 <tr>
+<td>НАДЕЖДА</td>
+<td>2011</td>
+<td>3</td>
+<td>293</td>
+<td>03</td>
+<td>F1</td>
+<td>ун</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>НАДЕЖНЫЙ</td>
 <td>1991</td>
 <td>1,5,8, 10,13</td>
@@ -7079,6 +7590,17 @@ Cucumis sativus L.
 <td></td>
 </tr>
 <tr>
+<td>САФАА</td>
+<td>2011</td>
+<td>6</td>
+<td>293</td>
+<td>03</td>
+<td>F1</td>
+<td>ун</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>СУПЕРИНА</td>
 <td>2010</td>
 <td>14</td>
@@ -7154,7 +7676,7 @@ Cucumis sativus L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">защищенного грунта</th>
+<th>защищенного грунта</th>
 </tr>
 <tr>
 <td>АЛМА-АТИНСКИЙ 1</td>
@@ -7176,6 +7698,21 @@ Cucumis sativus L.
 <td>1980</td>
 <td>1,13</td>
 <td>118</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
+<td>АФИНА</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>264</td>
 <td>02</td>
 <td>F1</td>
 <td></td>
@@ -7249,11 +7786,41 @@ Cucumis sativus L.
 <td></td>
 </tr>
 <tr>
+<td>ДИДИМ</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>309</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
 <td>ЗОЗУЛЯ</td>
 <td>1978</td>
 <td>1</td>
 <td>118</td>
 <td>02</td>
+<td>F1</td>
+<td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
+<td>ИНФИНИТИ</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>264</td>
+<td>03</td>
 <td>F1</td>
 <td></td>
 <td>зг</td>
@@ -7321,6 +7888,21 @@ Cucumis sativus L.
 8,10,12,13
 </td>
 <td>65</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
+<td>РАПИДЕС</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>309</td>
 <td>02</td>
 <td>F1</td>
 <td></td>
@@ -7425,6 +8007,36 @@ Cucumis sativus L.
 <td></td>
 </tr>
 <tr>
+<td>ФЕНОМЕНО</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>309</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
+<td>ЦЕРЕС</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>309</td>
+<td>03</td>
+<td>F1</td>
+<td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
 <td>ЭСТАФЕТА</td>
 <td>1985</td>
 <td>3,5,6</td>
@@ -7447,7 +8059,7 @@ Cucumis sativus L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Томат
 Lycopersicon lycopersicum (L.) Karst ex Farwell
 открытого грунта
@@ -7465,6 +8077,17 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td></td>
 <td>са</td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<td>БАГИРА</td>
+<td>2011</td>
+<td>3</td>
+<td>308</td>
+<td>02</td>
+<td>F1</td>
+<td>ст</td>
+<td>зг</td>
 <td></td>
 </tr>
 <tr>
@@ -7735,7 +8358,7 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <tr>
 <td>ТРИСТАР</td>
 <td>2010</td>
-<td>6,14</td>
+<td>3 (*), 6, 14</td>
 <td>264</td>
 <td>03</td>
 <td>F1</td>
@@ -7777,7 +8400,22 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td></td>
 </tr>
 <tr>
-<th colspan="9">защищенного грунта</th>
+<th>защищенного грунта</th>
+</tr>
+<tr>
+<td>АЛЕКСИЯ</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>293</td>
+<td>03</td>
+<td>F1</td>
+<td></td>
+<td>зг</td>
+<td></td>
 </tr>
 <tr>
 <td>АСТОНА</td>
@@ -7807,6 +8445,21 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td>3,6,9,14</td>
 <td>118</td>
 <td>04</td>
+<td>F1</td>
+<td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
+<td>БИГ-БИФ</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>293</td>
+<td>03</td>
 <td>F1</td>
 <td></td>
 <td>зг</td>
@@ -7893,6 +8546,21 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td></td>
 </tr>
 <tr>
+<td>ЖЕРОНИМО</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>309</td>
+<td>03</td>
+<td>F1</td>
+<td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
 <td>ИРОК</td>
 <td>1990</td>
 <td>1</td>
@@ -7926,10 +8594,55 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td></td>
 </tr>
 <tr>
+<td>КУНЕРО</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>309</td>
+<td>03</td>
+<td>F1</td>
+<td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
 <td>ЛАСТОЧКА</td>
 <td>1985</td>
 <td>1,7,12,13</td>
 <td>65</td>
+<td>03</td>
+<td>F1</td>
+<td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
+<td>МАРФА</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>293</td>
+<td>04</td>
+<td>F1</td>
+<td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
+<td>МЕЛОДИЯ</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>293</td>
 <td>03</td>
 <td>F1</td>
 <td></td>
@@ -7959,6 +8672,21 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td>F1</td>
 <td>са</td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<td>ПИНК УНИКУМ</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>293</td>
+<td>04</td>
+<td>F1</td>
+<td></td>
+<td>зг</td>
 <td></td>
 </tr>
 <tr>
@@ -8045,6 +8773,21 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td></td>
 </tr>
 <tr>
+<td>ШАКИРА</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>293</td>
+<td>03</td>
+<td>F1</td>
+<td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
 <td>ШЕННОН</td>
 <td>2006</td>
 <td>3,14</td>
@@ -8056,7 +8799,7 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Лук репчатый
 Allium cepa L.
 </th>
@@ -8128,6 +8871,17 @@ Allium cepa L.
 <td>3</td>
 <td>221</td>
 <td>04</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЕКЗАКТА</td>
+<td>2011</td>
+<td>6</td>
+<td>293</td>
+<td>02</td>
 <td>F1</td>
 <td></td>
 <td></td>
@@ -8265,7 +9019,7 @@ Allium cepa L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Лук батун
 Allium fistulosum L.
 </th>
@@ -8293,7 +9047,7 @@ Allium fistulosum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Лук шалот
 Allium ascalonicum L.
 </th>
@@ -8324,7 +9078,7 @@ Allium ascalonicum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Лук порей
 Allium porrum L.
 </th>
@@ -8341,7 +9095,7 @@ Allium porrum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Чеснок
 Allium sativum L.
 </th>
@@ -8425,10 +9179,21 @@ Allium sativum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Морковь столовая
 Daucus carota L
 </th>
+</tr>
+<tr>
+<td>АЛАУ</td>
+<td>2011</td>
+<td>3</td>
+<td>21</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>ВИТАМИННАЯ 6</td>
@@ -8526,6 +9291,17 @@ Daucus carota L
 <td></td>
 </tr>
 <tr>
+<td>РОЯЛ ШАНСОН</td>
+<td>2011</td>
+<td>3</td>
+<td>293</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ТИП ТОП</td>
 <td>2003</td>
 <td>3</td>
@@ -8596,7 +9372,7 @@ Daucus carota L
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Свекла столовая
 Beta vulgaris L. ssp. vulgaris var. conditiva Alef.
 </th>
@@ -8672,6 +9448,17 @@ Beta vulgaris L. ssp. vulgaris var. conditiva Alef.
 <td></td>
 </tr>
 <tr>
+<td>КЫЗЫЛКОНЫР</td>
+<td>2011</td>
+<td>3, 14</td>
+<td>21</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ЛАРКА</td>
 <td>1999</td>
 <td>3</td>
@@ -8741,7 +9528,7 @@ Beta vulgaris L. ssp. vulgaris var. conditiva Alef.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Репа
 Brassica rapa L.
 </th>
@@ -8758,7 +9545,7 @@ Brassica rapa L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Брюква
 Brassica napus L
 </th>
@@ -8775,7 +9562,7 @@ Brassica napus L
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Редька
 Raphanus sativus L.
 </th>
@@ -8856,11 +9643,26 @@ Raphanus sativus L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Редис
 Raphanus sativus L. var. Sativus
 открытого грунта
 </th>
+</tr>
+<tr>
+<td>ДАБЕЛ</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>264</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td>зг</td>
+<td></td>
 </tr>
 <tr>
 <td>ДУНГАНСКИЙ 12/8</td>
@@ -8952,6 +9754,21 @@ Raphanus sativus L. var. Sativus
 <td></td>
 </tr>
 <tr>
+<td>СОРА</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>264</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
 <td>ГРИБОВСКИЙ</td>
 <td>1991</td>
 <td>8,9</td>
@@ -8985,7 +9802,7 @@ Raphanus sativus L. var. Sativus
 <td></td>
 </tr>
 <tr>
-<th colspan="9">защищенного грунта</th>
+<th>защищенного грунта</th>
 </tr>
 <tr>
 <td>АСКАНИЯ</td>
@@ -8999,7 +9816,7 @@ Raphanus sativus L. var. Sativus
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Петрушка
 Petroselinum crispum (Mill.) Nym. ex A.​W.​Hill
 </th>
@@ -9074,7 +9891,7 @@ Petroselinum crispum (Mill.) Nym. ex A.​W.​Hill
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Пастернак
 Pastinaca sativa L.
 </th>
@@ -9102,7 +9919,7 @@ Pastinaca sativa L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Сельдерей
 Apium graveolens L.
 </th>
@@ -9136,7 +9953,7 @@ Apium graveolens L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Горох сахарный
 Pisum sativum L.
 </th>
@@ -9156,7 +9973,7 @@ Pisum sativum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Горох лущильный
 Pisum sativum L.
 </th>
@@ -9223,7 +10040,7 @@ Pisum sativum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Фасоль овощная
 Phaseolus vulgaris L.
 </th>
@@ -9282,7 +10099,7 @@ Phaseolus vulgaris L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Кукуруза сахарная
 Zea mays L. convar. saccharata Korn.
 </th>
@@ -9313,7 +10130,18 @@ Zea mays L. convar. saccharata Korn.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<td>ХАНИ БАНТАМ</td>
+<td>2011</td>
+<td>3</td>
+<td>303</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
 Перец сладкий
 Capsicum annuum L. var. grossum (L.) Sendt.
 </th>
@@ -9327,6 +10155,17 @@ Capsicum annuum L. var. grossum (L.) Sendt.
 <td>F1</td>
 <td></td>
 <td>зг</td>
+<td></td>
+</tr>
+<tr>
+<td>БАЯН СУЛУ</td>
+<td>2011</td>
+<td>3</td>
+<td>21</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -9349,6 +10188,47 @@ Capsicum annuum L. var. grossum (L.) Sendt.
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<td>ДЖЕМИНИ</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>264</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
+<td>КАЗ-ТАЙ</td>
+<td>2011</td>
+<td>14</td>
+<td>21</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КЛАУДИО</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>264</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td>зг</td>
 <td></td>
 </tr>
 <tr>
@@ -9427,7 +10307,7 @@ Capsicum annuum L. var. grossum (L.) Sendt.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Перец острый
 Capsicum annuum L. var. longum (DC) Sendt.
 </th>
@@ -9448,7 +10328,18 @@ Capsicum annuum L. var. longum (DC) Sendt.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<td>ПИКАНТ</td>
+<td>2011</td>
+<td>3, 6</td>
+<td>21</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
 Баклажан
 Solanum melongena L.
 </th>
@@ -9491,7 +10382,7 @@ Solanum melongena L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Арбуз
 Citrullus lanatus (Thund. ) Matsum. et Nakai
 </th>
@@ -9638,6 +10529,17 @@ Citrullus lanatus (Thund. ) Matsum. et Nakai
 <td></td>
 </tr>
 <tr>
+<td>ПАЛАДИН</td>
+<td>2011</td>
+<td>3</td>
+<td>294</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>
 РОЗА
 ЮГО-ВОСТОКА
@@ -9647,6 +10549,17 @@ Citrullus lanatus (Thund. ) Matsum. et Nakai
 <td>57</td>
 <td>02</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>СЕМЕЙ</td>
+<td>2011</td>
+<td>3</td>
+<td>21</td>
+<td>02</td>
+<td>F1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -9710,7 +10623,7 @@ Citrullus lanatus (Thund. ) Matsum. et Nakai
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Дыня
 Cucumis melo L.
 </th>
@@ -9877,6 +10790,17 @@ Cucumis melo L.
 <td></td>
 </tr>
 <tr>
+<td>ЧЕМПИОНКА</td>
+<td>2011</td>
+<td>14</td>
+<td>21</td>
+<td>04</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ШЕКЕР</td>
 <td>2009</td>
 <td>3</td>
@@ -9888,7 +10812,18 @@ Cucumis melo L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<td>ШУГЫЛА</td>
+<td>2011</td>
+<td>3</td>
+<td>21</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
 Тыква
 Cucurbita maxima Duch.
 </th>
@@ -9972,7 +10907,7 @@ Cucurbita maxima Duch.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Кабачoк
 Cucurbita pepo L. var. giraumonas Duch.
 </th>
@@ -10000,12 +10935,34 @@ Cucurbita pepo L. var. giraumonas Duch.
 <td></td>
 </tr>
 <tr>
+<td>ГЕРАКЛ</td>
+<td>2011</td>
+<td>3</td>
+<td>21</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ГРИБОВСКИЕ 37</td>
 <td>1964</td>
 <td>3,14</td>
 <td>71</td>
 <td>02</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КАВИЛИ</td>
+<td>2011</td>
+<td>3, 6, 14</td>
+<td>264</td>
+<td>02</td>
+<td>F1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -10036,7 +10993,7 @@ Cucurbita pepo L. var. giraumonas Duch.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Патиссон
 Cucurbita pepo L. var. melopepa d.
 </th>
@@ -10064,7 +11021,7 @@ Cucurbita pepo L. var. melopepa d.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Кормовые
 Вика озимая
 Vicia villosa Roth.
@@ -10082,7 +11039,7 @@ Vicia villosa Roth.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Вика яровая
 Vicia villosa Roth.
 </th>
@@ -10154,7 +11111,7 @@ Vicia villosa Roth.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Горох на корм
 Pisum sativum L. sensu lato.
 </th>
@@ -10276,7 +11233,7 @@ Pisum sativum L. sensu lato.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Донник белый
 Melilotus alba Medik.
 </th>
@@ -10337,7 +11294,7 @@ Melilotus alba Medik.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Донник желтый
 Melilotus officinalis (L.) Desr.
 </th>
@@ -10412,7 +11369,7 @@ Melilotus officinalis (L.) Desr.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Донник зубчатый
 Melilotus dentatus Pers.
 </th>
@@ -10429,7 +11386,7 @@ Melilotus dentatus Pers.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Тритикале на корм
 Triticosecale Wittmack.
 </th>
@@ -10476,7 +11433,7 @@ Triticosecale Wittmack.
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Пшеница озимая на корм
 Triticum aestivum L. Fiori et Paol.
 </th>
@@ -10497,7 +11454,7 @@ Triticum aestivum L. Fiori et Paol.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Рожь озимая на корм
 Secale cereale L.
 </th>
@@ -10586,7 +11543,7 @@ Secale cereale L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Ячмень яровой на корм
 Hordeum vulgare L.
 </th>
@@ -10650,10 +11607,21 @@ Hordeum vulgare L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Овес на корм
 Avena sativa L.
 </th>
+</tr>
+<tr>
+<td>АЛАМАН</td>
+<td>2011</td>
+<td>3</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
@@ -10783,7 +11751,7 @@ Avena sativa L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Просо на корм
 Panicum miliaceum L.
 </th>
@@ -10888,7 +11856,7 @@ Panicum miliaceum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Суданская трава
 Sorghum sudanense (Piper.) Stapf.
 </th>
@@ -11015,7 +11983,7 @@ Sorghum sudanense (Piper.) Stapf.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Могар
 Setaria italica L., ssp. mocharium Alf.
 </th>
@@ -11115,7 +12083,7 @@ Setaria italica L., ssp. mocharium Alf.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Чумиза
 Setaria italica (L.) ssp. maxima Alf.
 </th>
@@ -11132,7 +12100,7 @@ Setaria italica (L.) ssp. maxima Alf.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Сорго на силос
 Sorghum v. (L.) Pers.
 </th>
@@ -11143,6 +12111,17 @@ Sorghum v. (L.) Pers.
 <td>6,12,14</td>
 <td>18</td>
 <td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КИЗ-7</td>
+<td>2011</td>
+<td>14</td>
+<td>18</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -11221,7 +12200,7 @@ Sorghum v. (L.) Pers.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Сорго веничное
 Sorghum technicum Roshev.
 </th>
@@ -11249,7 +12228,7 @@ Sorghum technicum Roshev.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Сорго-суданковый гибрид
 Sorghum vulgare x S. Sudanense
 </th>
@@ -11288,7 +12267,7 @@ Sorghum vulgare x S. Sudanense
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Подсолнечник на силос
 Hellianthus annuus L.
 </th>
@@ -11373,7 +12352,7 @@ Hellianthus annuus L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Топинсолнечник
 Hellianthus tuberosus x H. Annus.
 </th>
@@ -11390,7 +12369,7 @@ Hellianthus tuberosus x H. Annus.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Топинамбур
 Hellianthus tuberosus L.
 </th>
@@ -11407,7 +12386,7 @@ Hellianthus tuberosus L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Щавель кормовой
 Rumex patientia x Rumex tianschanicus Los.
 </th>
@@ -11424,7 +12403,7 @@ Rumex patientia x Rumex tianschanicus Los.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Рапс озимый на корм
 Brassica napus L. ssp. oleifera (Metzg.) Sinsk.
 </th>
@@ -11482,7 +12461,7 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk.
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Рапс яровой на корм
 Brassica napus L. ssp. oleifera (Metzg.) Sinsk.
 </th>
@@ -11513,7 +12492,7 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Сурепица озимая
 Brassica rapa L. var. silvestris (Lam.) Briggs.
 </th>
@@ -11530,7 +12509,7 @@ Brassica rapa L. var. silvestris (Lam.) Briggs.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Сурепица яровая
 Brassica rapa L. var. silvestris (Lam.) Briggs.
 </th>
@@ -11547,7 +12526,7 @@ Brassica rapa L. var. silvestris (Lam.) Briggs.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Редька масличная
 Raphanus sativus L. var. oleifornis Pars.
 </th>
@@ -11564,7 +12543,7 @@ Raphanus sativus L. var. oleifornis Pars.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Люцерна
 Medicado L.
 </th>
@@ -11641,6 +12620,20 @@ Medicado L.
 <tr>
 <td>
 КАРАБАЛЫКСКАЯ
+ЖЕМЧУЖИНА
+</td>
+<td>2011</td>
+<td>3, 10, 12</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+КАРАБАЛЫКСКАЯ
 РАДУГА
 </td>
 <td>2008</td>
@@ -11657,6 +12650,17 @@ Medicado L.
 <td>1938</td>
 <td>8,10</td>
 <td>43</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КОКОРАЙ</td>
+<td>2011</td>
+<td>6, 9</td>
+<td>18, 137</td>
 <td></td>
 <td></td>
 <td></td>
@@ -11756,6 +12760,17 @@ Medicado L.
 <td></td>
 </tr>
 <tr>
+<td>ТУРКЕСТАН 15</td>
+<td>2011</td>
+<td>9</td>
+<td>31</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>УРАЛЬСКАЯ СИНЯЯ</td>
 <td>1950</td>
 <td>7</td>
@@ -11789,7 +12804,7 @@ Medicado L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Клевер луговой
 Trifolium pratense L.
 </th>
@@ -11809,7 +12824,7 @@ Trifolium pratense L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Эспарцет
 Onobrychis viciifolia Scop.
 </th>
@@ -11841,6 +12856,17 @@ Onobrychis viciifolia Scop.
 <td>1988</td>
 <td>5</td>
 <td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>НУРИНСКИЙ 95</td>
+<td>2011</td>
+<td>10</td>
+<td>43</td>
 <td></td>
 <td></td>
 <td></td>
@@ -11900,7 +12926,10 @@ Onobrychis viciifolia Scop.
 <tr>
 <td>ФЛАМИНГО</td>
 <td>2010</td>
-<td>12</td>
+<td>
+3 (*), 12,
+13 (*)
+</td>
 <td>19</td>
 <td></td>
 <td></td>
@@ -11909,7 +12938,7 @@ Onobrychis viciifolia Scop.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Козлятник восточный
 Galega orientalis Lam.
 </th>
@@ -11959,7 +12988,7 @@ Galega orientalis Lam.
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Житняк
 Agropyron et Schult.
 </th>
@@ -12142,7 +13171,7 @@ Agropyron et Schult.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Овсяница луговая
 Festuca pratensis Huds.
 </th>
@@ -12170,7 +13199,7 @@ Festuca pratensis Huds.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Овсяница бороздчатая
 Festuca sulcata Hach.
 </th>
@@ -12217,7 +13246,7 @@ Festuca sulcata Hach.
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Пырей бескорневищный
 Roegneria trachycaulon Nevski.
 </th>
@@ -12248,7 +13277,7 @@ Roegneria trachycaulon Nevski.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Пырей сизый
 Agropyrum glacum R. et Sch.
 </th>
@@ -12261,6 +13290,17 @@ Agropyrum glacum R. et Sch.
 <td>1998</td>
 <td>8</td>
 <td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КЫЗЫЛ ЖАР</td>
+<td>2011</td>
+<td>10, 12</td>
+<td>19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -12290,7 +13330,7 @@ Agropyrum glacum R. et Sch.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Пырейник сибирский
 Clinelymus sibiricus Nevski
 </th>
@@ -12307,7 +13347,7 @@ Clinelymus sibiricus Nevski
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Пырейник даурский
 Clinelymus dahuricus Nevski.
 </th>
@@ -12324,7 +13364,7 @@ Clinelymus dahuricus Nevski.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Ломкоколосник ситниковый
 Elymus yunceus Fisch.
 </th>
@@ -12356,7 +13396,7 @@ Elymus yunceus Fisch.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Кострец безостый
 Bromus inermis Leyss.
 </th>
@@ -12380,6 +13420,20 @@ Bromus inermis Leyss.
 <td>1972</td>
 <td>1,5,7,8</td>
 <td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ИШИМСКИЙ
+ЮБИЛЕЙНЫЙ
+</td>
+<td>2011</td>
+<td>10, 13</td>
+<td>19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -12442,7 +13496,18 @@ Bromus inermis Leyss.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<td>ТУГАН ЖЕР</td>
+<td>2011</td>
+<td>3</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
 Кострец прямой
 Bromus arvensis L.
 </th>
@@ -12462,7 +13527,7 @@ Bromus arvensis L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Ежа сборная
 Dactylis glomerata L.
 </th>
@@ -12501,7 +13566,7 @@ Dactylis glomerata L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Тимофеевка луговая
 Phleum pratense L.
 </th>
@@ -12529,7 +13594,7 @@ Phleum pratense L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Амарант метельчатый
 Amaranthus L.
 </th>
@@ -12546,7 +13611,7 @@ Amaranthus L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Горец забайкальский
 Polygonum divaricatum L.
 </th>
@@ -12563,7 +13628,7 @@ Polygonum divaricatum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Камфоросма лессинга
 Camphorosma lessingii
 </th>
@@ -12610,7 +13675,7 @@ Camphorosma lessingii
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Прутняк (изень, кохия стелющаяся)
 Kochia p. Schrad.
 </th>
@@ -12663,7 +13728,7 @@ Kochia p. Schrad.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Кейреук (солянка корявая, жесткая)
 Salsola regida Pall.
 </th>
@@ -12691,7 +13756,7 @@ Salsola regida Pall.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Полынь гладкая
 Artemisia L. glabella Kar.​et.​Kir
 </th>
@@ -12719,7 +13784,7 @@ Artemisia L. glabella Kar.​et.​Kir
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Полынь белоземельная
 Artemisia terrae-albae Krasch.
 </th>
@@ -12736,7 +13801,7 @@ Artemisia terrae-albae Krasch.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Ромашка аптечная
 Matricaria chamomilla
 </th>
@@ -12753,7 +13818,7 @@ Matricaria chamomilla
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Саксаул белый
 Haloxylon Н. рersicum)
 </th>
@@ -12800,7 +13865,7 @@ Haloxylon Н. рersicum)
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Саксаул черный
 Haloxylon aphyllum (Minkw.)
 </th>
@@ -12817,7 +13882,7 @@ Haloxylon aphyllum (Minkw.)
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Терескен
 Eurotia ceratoides (L.) C.A. Mey
 </th>
@@ -12856,7 +13921,7 @@ Eurotia ceratoides (L.) C.A. Mey
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Астрагал, А. лисовидный
 Аstragalus, A. alopecias
 </th>
@@ -12873,7 +13938,7 @@ Eurotia ceratoides (L.) C.A. Mey
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Чогон
 Salsola subaphylla C.A. Mey
 </th>
@@ -12901,7 +13966,7 @@ Salsola subaphylla C.A. Mey
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Вайда Буассье
 Sameraria Boissieriana
 </th>
@@ -12918,7 +13983,7 @@ Sameraria Boissieriana
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Жузгун безлистый
 C.​aphyllum (Pall) Gurke
 </th>
@@ -12935,7 +14000,7 @@ C.​aphyllum (Pall) Gurke
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Жузгун Голова Медузы
 (G.​caput Medusae)
 </th>
@@ -12982,7 +14047,7 @@ C.​aphyllum (Pall) Gurke
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Морковь кормовая
 Daucus carota L.
 </th>
@@ -13028,7 +14093,7 @@ Daucus carota L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Тыква кормовая
 (Cucurbita L)
 </th>
@@ -13067,7 +14132,7 @@ Daucus carota L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Свекла кормoвая
 Beta vulgaris L. ssp. vulgaris var. alba DC.
 </th>
@@ -13224,7 +14289,7 @@ Beta vulgaris L. ssp. vulgaris var. alba DC.
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Брюква кормовая
 Brassica napus L. var. napobrassica (L.) Rchb.
 </th>
@@ -13241,7 +14306,7 @@ Brassica napus L. var. napobrassica (L.) Rchb.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Турнепс
 Brassica rapa L. var. rapa (L.) Thell.
 </th>
@@ -13258,7 +14323,7 @@ Brassica rapa L. var. rapa (L.) Thell.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Арбуз кормовой
 Турнепс
 Citrullus lanatus (Thunb.) Matsum. et Nakal.
@@ -13280,7 +14345,7 @@ Citrullus lanatus (Thunb.) Matsum. et Nakal.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Тутовый шелкопряд
 Boxbyx mori L.
 </th>
@@ -13355,7 +14420,7 @@ Boxbyx mori L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Шелковица
 Morus L.
 </th>
@@ -13386,7 +14451,7 @@ Morus L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Плодовые семечковые
 Яблоня
 Malus domestica Borkh.
@@ -13397,6 +14462,17 @@ Malus domestica Borkh.
 <td>1998</td>
 <td>6</td>
 <td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>зи</td>
+</tr>
+<tr>
+<td>АЙНУР</td>
+<td>2011</td>
+<td>3, 6, 14</td>
+<td>23</td>
 <td></td>
 <td></td>
 <td></td>
@@ -13501,12 +14577,37 @@ Malus domestica Borkh.
 <td>ле</td>
 </tr>
 <tr>
+<td>ВОСХОД</td>
+<td>2011</td>
+<td>3, 6, 14</td>
+<td>23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>зи</td>
+</tr>
+<tr>
+<td>ГАЛА</td>
+<td>2011</td>
+<td>3, 6, 14</td>
+<td>310</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>ро</td>
+</tr>
+<tr>
 <td>
 ГОЛДЕН
 ДЕЛИШЕС
 </td>
 <td>1965</td>
-<td>3,6,14</td>
+<td>
+3, 6, 9 (*),
+14
+</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -13524,6 +14625,17 @@ Malus domestica Borkh.
 <td></td>
 <td></td>
 <td>ле</td>
+</tr>
+<tr>
+<td>ГРЕННИ СМИТ</td>
+<td>2011</td>
+<td>3, 6, 14</td>
+<td>312</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>зи</td>
 </tr>
 <tr>
 <td>
@@ -13581,7 +14693,7 @@ Malus domestica Borkh.
 <tr>
 <td>ДЖОНАТАН</td>
 <td>1970</td>
-<td>3,14</td>
+<td>3, 9 (*), 14</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -13870,6 +14982,17 @@ Malus domestica Borkh.
 <td>ле</td>
 </tr>
 <tr>
+<td>РЕД ДЕЛИШЕС</td>
+<td>2011</td>
+<td>3, 6, 14</td>
+<td>311</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>зи</td>
+</tr>
+<tr>
 <td>РЕНЕТ БУРХАРДТА</td>
 <td>1965</td>
 <td>
@@ -14131,6 +15254,17 @@ Malus domestica Borkh.
 <td>зи</td>
 </tr>
 <tr>
+<td>ФУДЖИ</td>
+<td>2011</td>
+<td>3, 6, 14</td>
+<td>313</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>зи</td>
+</tr>
+<tr>
 <td>ЮЖНОЕ</td>
 <td>2001</td>
 <td>3</td>
@@ -14153,7 +15287,7 @@ Malus domestica Borkh.
 <td>ле</td>
 </tr>
 <tr>
-<th colspan="9">Семенные подвои яблони</th>
+<th>Семенные подвои яблони</th>
 </tr>
 <tr>
 <td>АНИС</td>
@@ -14296,7 +15430,7 @@ Malus domestica Borkh.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">Клоновые подвои яблони</th>
+<th>Клоновые подвои яблони</th>
 </tr>
 <tr>
 <td>ЖЕТЫСУ 5</td>
@@ -14376,7 +15510,7 @@ Malus domestica Borkh.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">Интеркалярные (промежуточные) вставки</th>
+<th>Интеркалярные (промежуточные) вставки</th>
 </tr>
 <tr>
 <td>М 9</td>
@@ -14401,7 +15535,7 @@ Malus domestica Borkh.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">Штамбо- и кронообразователи</th>
+<th>Штамбо- и кронообразователи</th>
 </tr>
 <tr>
 <td>А2 (АЛНАРП 2)</td>
@@ -14426,7 +15560,7 @@ Malus domestica Borkh.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">Сорта-клоны яблони</th>
+<th>Сорта-клоны яблони</th>
 </tr>
 <tr>
 <td>АСЯ</td>
@@ -14816,7 +15950,7 @@ Malus domestica Borkh.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Груша
 Pyrus communis L.
 </th>
@@ -14917,7 +16051,7 @@ Pyrus communis L.
 <td>ос</td>
 </tr>
 <tr>
-<th colspan="9">Семенные подвои груши</th>
+<th>Семенные подвои груши</th>
 </tr>
 <tr>
 <td>ЛЕСНАЯ</td>
@@ -14945,7 +16079,7 @@ Pyrus communis L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">Клоновые подвои груши</th>
+<th>Клоновые подвои груши</th>
 </tr>
 <tr>
 <td>АЙВА А (ЕМА)</td>
@@ -14959,7 +16093,7 @@ Pyrus communis L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Рябина
 Philadelphus
 </th>
@@ -15001,7 +16135,7 @@ Philadelphus
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Айва
 Cydonia Mill
 </th>
@@ -15040,7 +16174,7 @@ Cydonia Mill
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Плодовые косточковые
 Слива домашняя
 Prunus domestica L.
@@ -15102,7 +16236,7 @@ Prunus domestica L.
 <tr>
 <td>ВОЛОШКА</td>
 <td>1996</td>
-<td>3</td>
+<td>3, 6 (*)</td>
 <td>163</td>
 <td>06</td>
 <td></td>
@@ -15126,6 +16260,20 @@ Prunus domestica L.
 <td>1965</td>
 <td>3,14</td>
 <td>1</td>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+КИРГИЗСКАЯ
+ПРЕВОСХОДНАЯ
+</td>
+<td>2011</td>
+<td>6</td>
+<td>200</td>
 <td>06</td>
 <td></td>
 <td></td>
@@ -15233,7 +16381,7 @@ Prunus domestica L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">Семенные подвои сливы</th>
+<th>Семенные подвои сливы</th>
 </tr>
 <tr>
 <td>АЛЫЧА</td>
@@ -15305,7 +16453,7 @@ Prunus domestica L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Алыча
 Prunus cerasifera Ehrh.
 </th>
@@ -15347,7 +16495,7 @@ Prunus cerasifera Ehrh.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">Семенные подвои алычи</th>
+<th>Семенные подвои алычи</th>
 </tr>
 <tr>
 <td>
@@ -15364,7 +16512,7 @@ Prunus cerasifera Ehrh.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Вишня обыкновенная
 Prunus cerasus L.
 </th>
@@ -15547,7 +16695,7 @@ Prunus cerasus L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">Семенные подвои вишни</th>
+<th>Семенные подвои вишни</th>
 </tr>
 <tr>
 <td>ВЛАДИМИРСКАЯ</td>
@@ -15647,7 +16795,7 @@ Prunus cerasus L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Черешня
 Prunus avium L.
 </th>
@@ -15714,7 +16862,7 @@ Prunus avium L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">Семенные подвои черешни</th>
+<th>Семенные подвои черешни</th>
 </tr>
 <tr>
 <td>МАГАЛЕБКА</td>
@@ -15750,7 +16898,7 @@ Prunus avium L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Абрикос обыкновенный
 Prunus armeniaca L.
 </th>
@@ -15814,7 +16962,7 @@ Prunus armeniaca L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">Семенные подвои абрикоса</th>
+<th>Семенные подвои абрикоса</th>
 </tr>
 <tr>
 <td>
@@ -15832,7 +16980,7 @@ Prunus armeniaca L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">Сорта-клоны абрикоса</th>
+<th>Сорта-клоны абрикоса</th>
 </tr>
 <tr>
 <td>
@@ -16086,7 +17234,7 @@ Prunus armeniaca L.
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Персик
 Prunus persica (L.) Batsch
 </th>
@@ -16208,7 +17356,7 @@ Prunus persica (L.) Batsch
 <td></td>
 </tr>
 <tr>
-<th colspan="9">Семенные подвои персика</th>
+<th>Семенные подвои персика</th>
 </tr>
 <tr>
 <td>АЛЫЧА</td>
@@ -16249,7 +17397,7 @@ Prunus persica (L.) Batsch
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Ягодные
 Земляника
 Fragaria L.
@@ -16482,7 +17630,7 @@ Fragaria L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Смородина черная
 Ribes nigrum L.
 </th>
@@ -16776,7 +17924,7 @@ Ribes nigrum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Смородина красная
 Ribes svlvestre (Lam.) Mert. et W. Koch
 </th>
@@ -16832,7 +17980,7 @@ Ribes svlvestre (Lam.) Mert. et W. Koch
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Смородина белая
 Ribes niveum L.
 </th>
@@ -16863,7 +18011,7 @@ Ribes niveum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Малина
 Rubus L.
 </th>
@@ -17015,7 +18163,7 @@ Rubus L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">Ежевика</th>
+<th>Ежевика</th>
 </tr>
 <tr>
 <td>
@@ -17049,7 +18197,7 @@ Rubus L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Крыжовник
 Ribes uva-crispa L.
 </th>
@@ -17146,7 +18294,7 @@ Ribes uva-crispa L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Жимолость
 Lonicera L.
 </th>
@@ -17210,7 +18358,7 @@ Lonicera L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Облепиха
 Hippophae L.
 </th>
@@ -17307,7 +18455,7 @@ Hippophae L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Цитрусовые и субтропические
 Инжир
 Ficus carica L.
@@ -17328,7 +18476,7 @@ Ficus carica L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Гранат
 Punica granatum L.
 </th>
@@ -17356,7 +18504,7 @@ Punica granatum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Унаби
 Zizipfus sativa Gaerth.
 </th>
@@ -17373,7 +18521,7 @@ Zizipfus sativa Gaerth.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">Семенные подвои унаби</th>
+<th>Семенные подвои унаби</th>
 </tr>
 <tr>
 <td>
@@ -17405,7 +18553,7 @@ Zizipfus sativa Gaerth.
 
 <table>
 <tr>
-<th colspan="9">
+<th>
 Орехоплодные
 Грецкий орех
 Juglans L.
@@ -17423,7 +18571,7 @@ Juglans L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">Семенные подвои грецкого ореха</th>
+<th>Семенные подвои грецкого ореха</th>
 </tr>
 <tr>
 <td>
@@ -17441,7 +18589,7 @@ Juglans L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Виноград
 Виноград cтоловый
 Vitis L.
@@ -17674,6 +18822,20 @@ Vitis L.
 <td></td>
 </tr>
 <tr>
+<td>
+МУСКАТ
+КАЗАХСТАНСКИЙ
+</td>
+<td>2011</td>
+<td>3</td>
+<td>23</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>МОЛДОВА</td>
 <td>1997</td>
 <td>3</td>
@@ -17762,7 +18924,7 @@ Vitis L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Виноград технический
 Vitis L.
 </th>
@@ -17773,6 +18935,17 @@ Vitis L.
 <td>3,6,14</td>
 <td>1</td>
 <td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АЛМАЛЫ</td>
+<td>2011</td>
+<td>3</td>
+<td>23</td>
+<td>03</td>
 <td></td>
 <td></td>
 <td></td>
@@ -18000,7 +19173,7 @@ Vitis L.
 <th>5</th>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Цветочно-декоративные
 Роза
 Rosa L.
@@ -18192,7 +19365,7 @@ Rosa L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Гладиолус
 Gladiolus L.
 </th>
@@ -18220,7 +19393,7 @@ Gladiolus L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Фрезия
 Freesia Eckl.
 </th>
@@ -18424,7 +19597,7 @@ Freesia Eckl.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Ирис
 Iris L.
 </th>
@@ -18543,7 +19716,7 @@ Iris L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Тюльпан
 Tulipa L.
 </th>
@@ -18648,7 +19821,7 @@ Tulipa L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Нарцисс
 Narcissus L.
 </th>
@@ -18687,7 +19860,7 @@ Narcissus L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Канна
 Canna L.
 </th>
@@ -18715,7 +19888,7 @@ Canna L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Хризантема
 Chrysanthemum L.
 </th>
@@ -18801,7 +19974,7 @@ Chrysanthemum L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Гиацинт
 Hyacinthus L.
 </th>
@@ -18873,7 +20046,7 @@ Hyacinthus L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Пион
 Paeonia L.
 </th>
@@ -18929,7 +20102,7 @@ Paeonia L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Лилия
 Lilium L.
 </th>
@@ -19023,7 +20196,7 @@ Lilium L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Циния
 Zinnia L.
 </th>
@@ -19062,7 +20235,7 @@ Zinnia L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Тагетес
 Tagetes L.
 </th>
@@ -19079,7 +20252,7 @@ Tagetes L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Лилейник
 Hemerocallis L.
 </th>
@@ -19184,7 +20357,7 @@ Hemerocallis L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Клематис
 Clematis L.
 </th>
@@ -19267,7 +20440,7 @@ Clematis L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<th>
 Сирень
 Syrinqa L.
 </th>
@@ -19423,7 +20596,29 @@ Syrinqa L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<td colspan="9">
+Медоносные
+Фацелия
+Phacelia tanacetifolia Benth.
+</td>
+</tr>
+<tr>
+<td>ЛИЗЕТТЕ</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
 Газонные травы
 Мятлик луговый
 Poa pratensis L.
@@ -19441,7 +20636,82 @@ Poa pratensis L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<td>ЛИМАГИ</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЛИМЕРИК</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЛИМУЗИНЕ</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЛИНКОЛЬНШИР</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ПАРСИФАЛ</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
 Овсяница разнолистная
 Festuca L.
 </th>
@@ -19458,7 +20728,94 @@ Festuca L.
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<td colspan="9">
+Овсяница красная
+Festuca rubra L.
+</td>
+</tr>
+<tr>
+<td>ДЖЕВЕЛИН</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЛАЙТ</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЛИВИСТА</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЛУЦИНДА</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">
+Овсяница овечья
+Festuca ovina L.
+</td>
+</tr>
+<tr>
+<td>МЕНТОР</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
 Райграс гибридный
 Lolium hybridum
 </th>
@@ -19475,11 +20832,154 @@ Lolium hybridum
 <td></td>
 </tr>
 <tr>
-<th colspan="9">
+<td colspan="9">
+Райграс пастбищный
+Lolium perenne L.
+</td>
+</tr>
+<tr>
+<td>ВЕЗИВИУС</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ГАЛИУС</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЛИБРОНКО</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЛИМОНИКА</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЛИФРАНС</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ПЛЕЗИР</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>РАЙГАУБЕК</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">
+Тимофеевка луговая
+Phleum pratense L.
+</td>
+</tr>
+<tr>
+<td>ТИМОТУРФ</td>
+<td>2011</td>
+<td>
+1,2,3,4,5,6,
+7,8,9,10,11,
+12,13,14
+</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
 Лесные
 Cосна обыкновенная
 Pinus L._
 </th>
+</tr>
+<tr>
+<td>АРАКАРАГАЙСКАЯ</td>
+<td>2011</td>
+<td>1</td>
+<td>265</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>БОРОВСКАЯ 30</td>
@@ -19539,7 +21039,20 @@ Pinus L._
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td>ЧЕБАРКУЛЬСКАЯ</td>
+<td>2011</td>
+<td>1</td>
+<td>265</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
+
+Примечание: цифры со знаком (*) - сорта и гибриды растений, допущенные к использованию по области с 2011 года;
 
 * - сорта и гибриды, включенные в Список сортов сильной пшеницы и наиболее ценных сортов зерновых, крупяных и зернобобовых культур, высокомасличных сортов и гибридов подсолнечника, безэруковых и низкоглюкозинолатных сортов рапса по Республике Казахстан, указаны в приложении 1 к Государственному реестру селекционных достижений, допущенных к использованию в Республике Казахстан;
 
@@ -19555,105 +21068,115 @@ Pinus L._
 > *допущенных к использованию*  
 > *в Республике Казахстан*
 
-## СПИСОК сортов сильной пшеницы и наиболее ценных сортов зерновых, крупяных и зернобобовых культур, высокомасличных сортов и гибридов подсолнечника, безэруковых и низкоглюкозинолатных сортов рапса
+## СПИСОК сортов сильной пшеницы и наиболее ценных сортов зерновых, крупяных, зернобобовых культур, высокомасличных сортов и гибридов подсолнечника, безэруковых и низкоглюкозинолатных сортов рапса
+
+> *Сноска. Приложение 1 в редакции приказа Министра сельского хозяйства РК от 26.04.2010 № 291 (порядок введения в действие см. п. 3).*
 
 ## Сорта сильной пшеницы
 
 ## Озимая пшеница
 
-1\. Безостая 1 5. Мироновская 808
+1\. Безостая 1 5. Одесская 120
 
-2\. Богарная 56 6. Одесская 120
+2\. Богарная 56 6. Прикумская 36
 
-3\. Карасай 7. Прикумская 36
+3\. Лютесценс 72 7. Стекловидная 24
 
-4\. Лютесценс 72 8. Стекловидная 24
-
-## Яровая пшеница
-
-1\. Акмола 2 21. Омская 19
-
-2\. Альбидум 28 22. Омская 20
-
-3\. Астана 23. Омская 24
-
-4\. Волгоуральская 24. Омская 28
-
-5\. Ертіс 97 25. Омская 29
-
-6\. Казахстанская 4 26. Омская 30
-
-7\. Казахстанская раннеспелая 27. Памяти Азиева
-
-8\. Казахстанская 15 28. Павлодарская 93
-
-9\. Казахстанская 17 29. Росинка 3
-
-10\. Казахстанская 19 30. Саратовская 29
-
-11\. Казахстанская 25 31. Саратовская 42
-
-12\. Карабалыкская 90 32. Саратовская 55
-
-13\. Карабалыкская 92 33. Саратовская 58
-
-14\. Карагандинская 22 34. Светланка
-
-15\. Карагандинская 70 35. Целинная 24
-
-16\. Кутулукская 36. Целинная 26
-
-17\. Любава 37. Целинная 3 С
-
-18\. Лютесценс 32 38. Целинная юбилейная
-
-19\. Лютесценс 90 39. Эритроспермум 35
-
-20\. Омская 18
-
-## Сорта наиболее ценные по качеству
-
-## Озимая пшеница
-
-1\. Актерекская 7. Красноводопадская 210
-
-2\. Алмалы 8. Майра
-
-3\. Алия 9. Наз
-
-4\. Булава 10. Сапалы
-
-5\. Жетысу 11. Южная 12
-
-6\. Интенсивная 12. Эритроспермум 350
+4\. Мироновская 808 8. Карасай
 
 ## Яровая пшеница
 
-1\. Авангард 10. Казахстанская 10
+1\. Акмола 2 21. Лютесценс 90
 
-2\. Алем 11. Надежда
+2\. Альбидум 28 22. Омская 18
 
-3\. Альбидум 31 12. Омская 35
+3\. Астана 23. Омская 19
 
-4\. Арай 13. Омская 36
+4\. Волгоуральская 24. Омская 24
 
-5\. Актобе 39 14. Саратовская 70
+5\. Ертис 97 25. Омская 28
 
-6\. Астана 2 15. Степная 2
+6\. Казахстанская 4 26. Омская 29
 
-7\. Байтерек 16. Секе
+7\. Казахстанская раннеспелая 27. Омская 30
 
-8\. Вера 17. Ульбинка 25
+8\. Памяти Азиева 28. Омская 20
 
-9\. Интенсивная 18. Целина 50
+9\. Павлодарская 93 29. Росинка 3
+
+10\. Казахстанская 15 30. Саратовская 29
+
+11\. Казахстанская 17 31. Саратовская 42
+
+12\. Казахстанская 19 32. Саратовская 55
+
+13\. Казахстанская 25 33. Саратовская 58
+
+14\. Карабалыкская 90 34. Светланка
+
+15\. Карабалыкская 92 35. Целинная 24
+
+16\. Карагандинская 22 39. Целинная 26
+
+17\. Карагандинская 70 40. Целинная 3 С
+
+18\. Кутулукская 41. Целинная юбилейная
+
+19\. Любава 42. Эритроспермум 35
+
+20\. Лютесценс 32
+
+## Сорта наиболее ценные по качеству Озимая пшеница
+
+1\. Актерекская 8. Наз
+
+2\. Алмалы 9. Майра
+
+3\. Алия 10. Сапалы
+
+4\. Булава 11. Южная 12
+
+5\. Жетысу 12. Эритроспермум 350
+
+6\. Интенсивная 13. Расад
+
+7\. Красноводопадская 210
+
+## Яровая пшеница
+
+1\. Арай 13. Секе
+
+2\. Авангард 14. Степная 2
+
+3\. Алем 15. Саратовская 70
+
+4\. Актобе 39 16. Омская 35
+
+5\. Астана 2 17. Омская 36
+
+6\. Альбидум 31 18. Целина 50
+
+7\. Байтерек 19. Степная 50
+
+8\. Вера 20. Ляззат
+
+9\. Интенсивная 21. Северянка
+
+10\. Казахстанская 10 22. Степная 60
+
+11\. Надежда
+
+12\. Ульбинка 25
 
 ## Овес
 
-1\. Битик 4. Мирный
+1\. Битик 5. Скакун
 
-2\. Иртыш 15 5. Скакун
+2\. Иртыш 15 6. Аламан
 
 3\. Льговский 82
+
+4\. Мирный
 
 ## Просо
 
@@ -19667,9 +21190,9 @@ Pinus L._
 
 1\. Богатырь 4. Шортандинская 2
 
-2\. Крупинка 5. Шортандинская крупнозерная
+2\. Крупинка 5. Шортандинская
 
-3\. Сумчанка
+3\. Сумчанка крупнозерная
 
 ## Рис
 
@@ -19683,15 +21206,15 @@ Pinus L._
 
 ## Длинозерные сорта риса
 
-1\. Алтынай 2. Лазурный
+1\. Лазурный 2. Алтынай
 
 ## Горох
 
-1\. Усач Казахстанский 871 4. Таловец 55
+1\. Неосыпающийся 1 4. Усач Казахстанский 871
 
-2\. Неосыпающийся 1 5. Омский неосыпающийся
+2\. Таловец 50 5. Омский неосыпающийся
 
-3\. Таловец 50 6. Шал
+3\. Таловец 55 6. Шал
 
 ## Нут
 
@@ -19705,73 +21228,85 @@ Pinus L._
 
 2\. Карабалыкский 150 7. Сауле
 
-3\. Карагандинский 5 8. Целинный 30
+3\. Кедр 8. Целинный 30
 
-4\. Кедр 9. Целинный 91
+4\. Карагандинский 5 9. Целинный 91
 
-5\. Медикум 85
+5 Медикум 85 10. Целинный 2005
 
 ## Ячмень пивоваренного направления
 
-1\. Амулет 6. Олбрам
+1\. Арна 7. Олбрам
 
-2\. Арна 7. Сильфида
+2\. Асем 8. Себастьян
 
-3\. Асем 8. Малц
+3\. Амулет 9. Скарлетт
 
-4\. Компакт 9. Скарлетт
+4\. Компакт 10. Сильфида
 
-5\. Одесский 100 10. Престиж
+5\. Малц 11. Гетьман
 
-11\. Себастьян
+6\. Одесский 100
 
-Безэруковые (0-типа) и низкоглюкозинолатные (00-типа)
-
-сорта рапса
+## Безэруковые (0–типа) и низкоглюкозинолатные (00-типа) сорта рапса
 
 ## Рапс яровой Рапс озимый
 
-1\. Герос - 00 типа 1. Иванна - 00 типа,
+1\. Золотонивский – 00 типа 1. Иванна – 00 типа,
 
-2\. Золотонивский - 00 типа 2. Проминь - 0 типа
+2\. Кавиар - 00 типа 2. Проминь – 0 типа
 
-3\. Кавиар - 00 типа
+3\. Шпат - 00 типа
 
-4\. Сиеста - 00 типа
+4\. Герос - 00 типа
 
-5\. Хантер - 00 типа
+5\. Сиеста – 00 типа
 
-6\. Хидалго - 0 типа
+6\. Хантер – 00 типа
 
-7\. Шпат - 00 типа
+7\. Хидалго – 00 типа
 
-## Высокомасличные сорта и гибриды подсолнечника Сорта Гибриды
+8\. Траппер – 00 типа
 
-1\. Восход 1. Арена ПР
+9\. Лизора – 00 типа
 
-2\. Заря 2. Брио
+10\. Гладиатор – 00 типа
 
-3\. Скороспелый 87 3. Восточный
+11\. Абилити - 00 типа
 
-4\. Сибирский 91 4. Джази
+## Высокомасличные сорта и гибриды подсолнечника
 
-5\. Ислеро
+## Сорта Гибриды
 
-6\. Казахстанский 1
+1\. Восточный
 
-7\. Казахстанский 341
+1\. Восход 2. Арена ПР
 
-8\. Казахстанский 3124
+2\. Заря 3. Ислеро
 
-9\. Солнечный 20
+3\. Скороспелый 87 4. Казахстанский 1
 
-10\. Роки
+4\. Сибирский 91 5. Казахстанский 341
 
-11\. Санай
+6\. Казахстанский 3124
+
+7\. Солнечный 20
+
+8\. Брио
+
+9\. Санай
+
+10\. Джази
+
+11\. Роки
+
+12\. ПР 62А91
+
+13\. НК Делфи
 
 ## Кондитерские сорта подсолнечника
 
-1\. СПК (Кондитерский)
+СПК (Кондитерский)
 
 > *Приложение 2*  
 > *к Государственному реестру*  
@@ -19872,6 +21407,8 @@ Pinus L._
 
 ## Номер и наименование организации-оригинатора
 
+> *Сноска. Приложение 3 с изменениями, внесенными приказом Министра сельского хозяйства РК от 26.04.2010 № 291 (порядок введения в действие см. п. 3).*
+
 1\. Оригинатор не зарегистрирован
 
 2\. Казахский государственный агротехнический университет
@@ -19904,9 +21441,7 @@ Pinus L._
 
 15\. Институт ботаники и фитоинтродукции растений АН РК
 
-16\. Институт физиологии, генетики и биоинженерии растений НЦ по
-
-биотехнологии Республики Казахстан
+16\. ДГП Институт биологии и биотехнологии растений НЦБ РК КН МОН РК
 
 17\. Казахская зональная опытная станция ВИЛР
 
@@ -20510,6 +22045,32 @@ Pinus L._
 
 302\. ТОО "НЛК"
 
+303\. Саката Сид Корпорейшн (Япония)
+
+304\. Research Institute for Cereals and Industrial Crops (Румыния)
+
+305\. Компания "Сесвандерхаве" Бельгия
+
+306\. Профген до Бразилия ЛТДА (Бразилия)
+
+307\. ЧУ "НИИ экологии и экспериментальной биологии РК"
+
+308\. "Клоз" Франция
+
+309\. De Ruiter Seeds (Голландия)
+
+310\. Джон Кит (Новая Зеландия)
+
+311\. Частный питомник г. Вилсбург (США)
+
+312\. Мария Ан Смит (Австралия)
+
+313\. Научная ст. Тохоку, Мариока (Япония)
+
+314\. Евро Грасс Бридинг ГмбХ и Ко КГ (Германия)
+
+315\. Представительство "СИММИТ Казахстан"
+
 > *Приложение 4*  
 > *к Государственному реестру*  
 > *селекционных достижений,*  
@@ -20571,8 +22132,10 @@ F1 гибрид первого поколения
 
 ## ПЕРЕЧЕНЬ перспективных сортов сельскохозяйственных растений
 
-Костанайская область
+> *Сноска. Перечень с изменениями, внесенными приказом Министра сельского хозяйства РК от 26.04.2010 № 291 (порядок введения в действие см. п. 3).*
 
-Картофель - по области
+## Алматинская область
 
-сорт Ред Скарлет
+1. Яблоня - по области
+
+   сорт Максат
