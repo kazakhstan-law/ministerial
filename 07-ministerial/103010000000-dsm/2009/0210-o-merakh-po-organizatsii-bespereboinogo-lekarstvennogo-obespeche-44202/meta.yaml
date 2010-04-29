@@ -10,8 +10,10 @@ approved_on: 2009-02-10
 approved_by:
 - '103010000000'
 version_date:
-  kaz: 2009-02-10
-  rus: 2009-02-10
+  kaz: 2010-04-29
+  rus: 2010-04-29
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/44202/kaz/10.02.2009
-  rus: https://zan.gov.kz/client/#!/doc/44202/rus/10.02.2009
+  kaz: https://zan.gov.kz/client/#!/doc/44202/kaz/29.04.2010
+  rus: https://zan.gov.kz/client/#!/doc/44202/rus/29.04.2010
+caused_by:
+  code: A10R0001922
