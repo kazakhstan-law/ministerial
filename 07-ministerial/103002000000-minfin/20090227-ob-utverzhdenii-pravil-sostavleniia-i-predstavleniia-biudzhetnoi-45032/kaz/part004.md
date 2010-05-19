@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/45032/kaz/27.02.2009
+source: https://zan.gov.kz/client/#!/doc/45032/kaz/19.05.2010
 ---
 
 ## 4. Жылдық, тоқсандық бюджеттік есептілік нысандарын толтыру үшін тәртібі
