@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/50207/rus/26.02.2010
+source: https://zan.gov.kz/client/#!/doc/50207/rus/30.06.2010
 ---
 
 ## 3. Составление формы 100.01 - Доход (убыток) от прироста стоимости

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/50207/kaz/26.02.2010
+source: https://zan.gov.kz/client/#!/doc/50207/kaz/30.06.2010
 ---
 
 ## 2. Декларацияны жасау (120.00-нысан)

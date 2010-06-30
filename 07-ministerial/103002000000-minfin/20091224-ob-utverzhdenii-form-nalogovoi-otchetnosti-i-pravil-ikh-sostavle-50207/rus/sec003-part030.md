@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/50207/rus/26.02.2010
+source: https://zan.gov.kz/client/#!/doc/50207/rus/30.06.2010
 ---
 
 ## Форма 4.1 Отчет о страховой деятельности тыс. тенге
