@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/39361/rus/13.04.2010
+source: https://zan.gov.kz/client/#!/doc/39361/rus/09.07.2010
 ---
 
 ## Заседания Государственной аттестационной комиссии
