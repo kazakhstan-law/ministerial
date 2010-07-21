@@ -13,8 +13,8 @@ approved_by:
 - '103002000000'
 - '116000000000'
 version_date:
-  kaz: 2002-12-21
-  rus: 2002-12-21
+  kaz: 2010-07-21
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/14240/kaz/21.12.2002
-  rus: https://zan.gov.kz/client/#!/doc/14240/rus/21.12.2002
+  kaz: https://zan.gov.kz/client/#!/doc/14240/kaz/21.07.2010
+caused_by:
+  code: A10E0001967
