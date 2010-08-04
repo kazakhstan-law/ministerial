@@ -11,8 +11,10 @@ approved_on: 1999-10-11
 approved_by:
 - '103002000000'
 version_date:
-  kaz: 1999-10-11
-  rus: 1999-10-11
+  kaz: 2010-08-04
+  rus: 2010-08-04
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/4534/kaz/11.10.1999
-  rus: https://zan.gov.kz/client/#!/doc/4534/rus/11.10.1999
+  kaz: https://zan.gov.kz/client/#!/doc/4534/kaz/04.08.2010
+  rus: https://zan.gov.kz/client/#!/doc/4534/rus/04.08.2010
+caused_by:
+  code: A10E0001960
