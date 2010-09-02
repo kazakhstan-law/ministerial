@@ -11,8 +11,10 @@ approved_on: 2008-02-15
 approved_by:
 - '103008000000'
 version_date:
-  kaz: 2008-02-15
-  rus: 2008-02-15
+  kaz: 2010-09-02
+  rus: 2010-09-02
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/38067/kaz/15.02.2008
-  rus: https://zan.gov.kz/client/#!/doc/38067/rus/15.02.2008
+  kaz: https://zan.gov.kz/client/#!/doc/38067/kaz/02.09.2010
+  rus: https://zan.gov.kz/client/#!/doc/38067/rus/02.09.2010
+caused_by:
+  code: A10B0001969
