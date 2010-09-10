@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/26214/rus/01.02.2010
+source: https://zan.gov.kz/client/#!/doc/26214/rus/10.09.2010
 ---
 
 # Об утверждении Типовых Правил социального обслуживания
