@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/21291/rus/17.08.2004
+source: https://zan.gov.kz/client/#!/doc/21291/rus/28.09.2010
 ---
 
 ## 6. Санитарно-эпидемиологические требования к освещению на рабочих местах
