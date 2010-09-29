@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/23125/rus/23.12.2008
+source: https://zan.gov.kz/client/#!/doc/23125/rus/29.09.2010
 ---
 
 # Об утверждении Правил перевозок грузов железнодорожным транспортом
