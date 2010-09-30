@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/2048/kaz/10.08.2005
+source: https://zan.gov.kz/client/#!/doc/2048/kaz/30.09.2010
 ---
 
 ## Теңіз наразылығы туралы акт

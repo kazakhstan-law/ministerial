@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/2048/kaz/10.08.2005
+source: https://zan.gov.kz/client/#!/doc/2048/kaz/30.09.2010
 ---
 
 # Қазақстан Республикасында нотариаттық іс қағаздарын жүргізу жөніндегі Нұсқаулық
@@ -37,4 +37,4 @@ source: https://zan.gov.kz/client/#!/doc/2048/kaz/10.08.2005
 | [`part011`](kaz/part011.md) | 9-1-тарау. Нотариустардың бланкілері |
 | [`part011-part006`](kaz/part011-part006.md) | Істер номенклатурасы |
 | [`part011-part006-part001`](kaz/part011-part006-part001.md) | Тұрақты сақталатын істердің |
-| [`part011-part006-part040`](kaz/part011-part006-part040.md) | Теңіз наразылығы туралы акт |
+| [`part011-part006-part041`](kaz/part011-part006-part041.md) | Теңіз наразылығы туралы акт |

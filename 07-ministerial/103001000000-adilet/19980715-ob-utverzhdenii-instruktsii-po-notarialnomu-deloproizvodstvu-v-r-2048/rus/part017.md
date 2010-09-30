@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/2048/rus/10.08.2005
+source: https://zan.gov.kz/client/#!/doc/2048/rus/30.09.2010
 ---
 
 ## 1. Указание по заполнению нотариальных свидетельств
