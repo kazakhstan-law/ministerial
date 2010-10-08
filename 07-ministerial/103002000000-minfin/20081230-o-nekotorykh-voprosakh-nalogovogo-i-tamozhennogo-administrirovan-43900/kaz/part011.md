@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/43900/kaz/17.09.2010
+source: https://zan.gov.kz/client/#!/doc/43900/kaz/08.10.2010
 ---
 
 ## Қосылған құн салығын төлеушi ретінде тіркеу есебіне қоюдан бас тарту туралы шешім
