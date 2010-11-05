@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/51669/kaz/29.09.2010
+source: https://zan.gov.kz/client/#!/doc/51669/kaz/05.11.2010
 ---
 
 ## 3) Шығыстардың экономикалық сыныптамасы
@@ -760,9 +760,9 @@ source: https://zan.gov.kz/client/#!/doc/51669/kaz/29.09.2010
 <th>Шығындардың тiзбесi</th>
 </tr>
 <tr>
-<td>110</td>
-<td></td>
-<td>Жалақы</td>
+<th>110</th>
+<th></th>
+<th colspan="3">Жалақы</th>
 </tr>
 <tr>
 <td></td>
@@ -798,9 +798,9 @@ source: https://zan.gov.kz/client/#!/doc/51669/kaz/29.09.2010
 <td></td>
 </tr>
 <tr>
-<td>120</td>
-<td></td>
-<td>Жұмыс берушiлерлердiң жарналары</td>
+<th>120</th>
+<th></th>
+<th colspan="3">Жұмыс берушiлерлердiң жарналары</th>
 </tr>
 <tr>
 <td></td>
@@ -824,9 +824,9 @@ source: https://zan.gov.kz/client/#!/doc/51669/kaz/29.09.2010
 <td></td>
 </tr>
 <tr>
-<td>130</td>
-<td></td>
-<td>Тауарлар сатып алу</td>
+<th>130</th>
+<th></th>
+<th colspan="3">Тауарлар сатып алу</th>
 </tr>
 <tr>
 <td></td>
@@ -874,9 +874,9 @@ source: https://zan.gov.kz/client/#!/doc/51669/kaz/29.09.2010
 <td></td>
 </tr>
 <tr>
-<td>140</td>
-<td></td>
-<td>Қызметтер мен жұмыстарды сатып алу</td>
+<th>140</th>
+<th></th>
+<th colspan="3">Қызметтер мен жұмыстарды сатып алу</th>
 </tr>
 <tr>
 <td></td>
