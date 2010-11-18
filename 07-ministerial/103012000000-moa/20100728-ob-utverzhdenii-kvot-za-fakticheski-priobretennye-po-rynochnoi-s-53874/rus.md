@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
+source: https://zan.gov.kz/client/#!/doc/53874/rus/18.11.2010
 ---
 
 # Об утверждении квот за фактически приобретенные по рыночной стоимости объемы суперэлитных семян по каждому виду семян на 2010 год, квот за фактически приобретенные по рыночной стоимости объемы элитных семян по каждому виду семян на 2010 год, квот за фактически реализованные отечественным сельскохозяйственным товаропроизводителям по удешевленной стоимости объемы элитных саженцев по каждому виду саженцев для каждой области на 2010 год
@@ -31,7 +31,7 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 
 ## Квоты за фактически приобретенные по рыночной стоимости объемы суперэлитных семян по каждому виду семян на 2010 год
 
-> *Сноска. Приложение 1 с изменениями, внесенными приказом и.о. Министра сельского хозяйства РК от 24.09.2010 № 624.*
+> *Сноска. Приложение 1 с изменениями, внесенными приказами и.о. Министра сельского хозяйства РК от 24.09.2010 № 624; от 18.11.2010 № 716.*
 
 тонн
 
@@ -68,11 +68,11 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <tr>
 <td>1</td>
 <td>Акмолинская</td>
-<td>1671,00</td>
-<td>1518,00</td>
+<td>45,00</td>
+<td>45,00</td>
 <td></td>
 <td></td>
-<td>153,00</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -98,11 +98,11 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <tr>
 <td>4</td>
 <td>В-Казахстанская</td>
-<td>376,00</td>
-<td>248,00</td>
+<td>429,00</td>
+<td>305,00</td>
 <td></td>
-<td>40,00</td>
-<td>53,00</td>
+<td>20,00</td>
+<td>84,00</td>
 <td>20,00</td>
 </tr>
 <tr>
@@ -118,11 +118,11 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <tr>
 <td>6</td>
 <td>З-Казахстанская</td>
-<td>200,00</td>
-<td>138,00</td>
+<td>17,10</td>
+<td>17,10</td>
 <td></td>
 <td></td>
-<td>38,00</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -169,11 +169,11 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td>11</td>
 <td>С-Казахстанская</td>
 <td>1978,00</td>
-<td>1431,00</td>
+<td>1781,00</td>
 <td></td>
 <td></td>
 <td>197,00</td>
-<td>150,00</td>
+<td></td>
 </tr>
 <tr>
 <td>12</td>
@@ -187,12 +187,12 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 </tr>
 <tr>
 <td colspan="2">ВСЕГО ПО РЕСПУБЛИКЕ</td>
-<td>7220,67</td>
-<td>5767,47</td>
+<td>5464,77</td>
+<td>4580,57</td>
 <td>0</td>
-<td>40,00</td>
-<td>708,60</td>
-<td>295,00</td>
+<td>20,00</td>
+<td>548,60</td>
+<td>145,00</td>
 </tr>
 </table>
 
@@ -249,7 +249,7 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td></td>
 <td></td>
 <td></td>
-<td>93,51</td>
+<td>10,00</td>
 <td></td>
 </tr>
 <tr>
@@ -282,13 +282,13 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td>4</td>
 <td>В-Казахстанская</td>
 <td></td>
-<td>15,00</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>48,00</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -307,10 +307,10 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <tr>
 <td>6</td>
 <td>З-Казахстанская</td>
-<td>4,00</td>
 <td></td>
 <td></td>
-<td>20,00</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -373,8 +373,8 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td>11</td>
 <td>С-Казахстанская</td>
 <td></td>
-<td>100,00</td>
-<td>100,00</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -400,14 +400,14 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 ВСЕГО ПО
 РЕСПУБЛИКЕ
 </td>
-<td>74,00</td>
-<td>115,00</td>
-<td>130,00</td>
-<td>20,00</td>
+<td>70,00</td>
+<td>0</td>
+<td>30,00</td>
+<td>0</td>
 <td>70,60</td>
 <td>130,10</td>
 <td>18,20</td>
-<td>282,76</td>
+<td>151,25</td>
 <td>2,95</td>
 </tr>
 </table>
@@ -502,11 +502,11 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <tr>
 <td>4</td>
 <td>В-Казахстанская</td>
-<td>8,00</td>
+<td>2,70</td>
 <td></td>
-<td>10,00</td>
-<td>4,00</td>
-<td>8,00</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -594,11 +594,11 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 ВСЕГО ПО
 РЕСПУБЛИКЕ
 </td>
-<td>8,00</td>
+<td>2,70</td>
 <td>0</td>
-<td>12,00</td>
-<td>6,00</td>
-<td>8,00</td>
+<td>2,00</td>
+<td>2,00</td>
+<td>0</td>
 <td>2,50</td>
 </tr>
 </table>
@@ -610,25 +610,28 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 
 ## Квоты за фактически приобретенные по рыночной стоимости объемы элитных семян по каждому виду семян на 2010 год
 
-> *Сноска. Приложение 2 с изменениями, внесенными приказом и.о. Министра сельского хозяйства РК от 24.09.2010 № 624.*
+> *Сноска. Приложение 2 в редакции приказа и.о. Министра сельского хозяйства РК от 18.11.2010 № 716.*
 
-тонн
+ТОНН
 
 <table>
 <tr>
-<td rowspan="4">№ п/п</td>
+<td rowspan="4">
+№
+п/п
+</td>
 <td rowspan="4">
 Наименование
 областей
 </td>
-<td colspan="8">Сельскохозяйственные растения</td>
+<td colspan="6">Сельскохозяйственные растения</td>
 </tr>
 <tr>
-<td colspan="8">зерновые и зернобобовые</td>
+<td colspan="6">зерновые и зернобобовые</td>
 </tr>
 <tr>
 <td rowspan="2">всего</td>
-<td colspan="7">в том числе:</td>
+<td colspan="5">в том числе:</td>
 </tr>
 <tr>
 <td>
@@ -646,11 +649,9 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 </td>
 <td>
 ячмень
-пивова-
-ренный
+пивоварен-
+ный
 </td>
-<td>овес</td>
-<td>просо</td>
 </tr>
 <tr>
 <th>1</th>
@@ -661,20 +662,16 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <th>6</th>
 <th>7</th>
 <th>8</th>
-<th>9</th>
-<th>10</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Акмолинская</td>
-<td>21578,56</td>
-<td>20262,43</td>
-<td>800,00</td>
+<td>28152,36</td>
+<td>26709,23</td>
+<td>860,00</td>
 <td></td>
-<td>288,63</td>
+<td>341,63</td>
 <td>210,00</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>2</td>
@@ -685,56 +682,46 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td></td>
 <td>70,00</td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>3</td>
 <td>Алматинская</td>
-<td>3186,26</td>
+<td>2498,01</td>
 <td>1364,02</td>
 <td></td>
 <td></td>
 <td>432,24</td>
 <td>700,00</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>4</td>
 <td>В-Казахстанская</td>
-<td>1801,00</td>
-<td>1531,00</td>
+<td>1027,25</td>
+<td>847,18</td>
 <td></td>
-<td>65,00</td>
-<td>185,00</td>
-<td></td>
-<td>20,00</td>
+<td>160,04</td>
+<td>15,50</td>
 <td></td>
 </tr>
 <tr>
 <td>5</td>
 <td>Жамбылская</td>
-<td>1200,74</td>
-<td>900,74</td>
+<td>1300,50</td>
+<td>1000,50</td>
 <td></td>
 <td></td>
 <td>300,00</td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
 <td>6</td>
 <td>З-Казахстанская</td>
-<td>1888,21</td>
-<td>1784,21</td>
+<td>821,60</td>
+<td>641,60</td>
 <td></td>
 <td></td>
-<td>100,00</td>
+<td>180,00</td>
 <td></td>
-<td></td>
-<td>2,00</td>
 </tr>
 <tr>
 <td>7</td>
@@ -743,22 +730,18 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td>2656,75</td>
 <td></td>
 <td></td>
-<td>0</td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>8</td>
 <td>Костанайская</td>
-<td>17501,32</td>
-<td>15528,07</td>
-<td>1277,00</td>
+<td>16240,05</td>
+<td>14862,27</td>
+<td>751,78</td>
 <td></td>
 <td>30,00</td>
 <td>346,00</td>
-<td>283,25</td>
-<td></td>
 </tr>
 <tr>
 <td>9</td>
@@ -769,31 +752,25 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>10</td>
 <td>Павлодарская</td>
-<td>1539,35</td>
+<td>1653,65</td>
 <td>1325,80</td>
 <td></td>
 <td></td>
 <td>142,30</td>
 <td></td>
-<td>43,25</td>
-<td></td>
 </tr>
 <tr>
 <td>11</td>
 <td>С-Казахстанская</td>
-<td>14443,07</td>
-<td>12743,07</td>
-<td>1000,00</td>
+<td>19870,10</td>
+<td>18294,10</td>
+<td>1357,00</td>
 <td></td>
-<td>600,00</td>
-<td></td>
-<td>50,00</td>
+<td>178,00</td>
 <td></td>
 </tr>
 <tr>
@@ -805,64 +782,54 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">ВСЕГО ПО РЕСПУБЛИКЕ</td>
-<td>67557,19</td>
-<td>59788,02</td>
-<td>3077,00</td>
-<td>65,00</td>
-<td>2148,17</td>
+<td>75982,20</td>
+<td>69393,38</td>
+<td>2968,78</td>
+<td>160,04</td>
+<td>1689,67</td>
 <td>1256,00</td>
-<td>396,50</td>
-<td>2,00</td>
 </tr>
 </table>
 
 продолжение таблицы
 
-тонн
+ТОНН
 
 <table>
 <tr>
-<td rowspan="4">№ п/п</td>
-<td rowspan="4">
-Наименование
-областей
-</td>
-<td colspan="8">Сельскохозяйственные растения</td>
+<td colspan="9">Сельскохозяйственные растения</td>
 </tr>
 <tr>
-<td colspan="4">зерновые и зернобобовые</td>
+<td colspan="6">зерновые и зернобобовые</td>
 <td rowspan="3">рис</td>
 <td colspan="2">
-кукуруза, включая
-гибриды I поколения
+кукуруза, включая гибриды
+I поколения
 </td>
-<td rowspan="3">картофель</td>
 </tr>
 <tr>
-<td colspan="4">в том числе:</td>
+<td colspan="6">в том числе:</td>
 <td rowspan="2">
-поздне-
-спелые
-и
-средне-
-спелые
+позднес-
+пелые и
+среднеспелые
 </td>
 <td rowspan="2">раннеспелые</td>
 </tr>
 <tr>
+<td>овес</td>
+<td>просо</td>
 <td>гречиха</td>
 <td>горох</td>
 <td>нут</td>
 <td>соя</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
+<th>9</th>
+<th>10</th>
 <th>11</th>
 <th>12</th>
 <th>13</th>
@@ -870,23 +837,20 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <th>15</th>
 <th>16</th>
 <th>17</th>
-<th>18</th>
 </tr>
 <tr>
-<td>1</td>
-<td>Акмолинская</td>
-<td>17,50</td>
+<td></td>
+<td></td>
+<td>31,50</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td>123,30</td>
 <td></td>
-<td></td>
-<td>192,00</td>
 </tr>
 <tr>
-<td>2</td>
-<td>Актюбинская</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -897,47 +861,21 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td></td>
 </tr>
 <tr>
-<td>3</td>
-<td>Алматинская</td>
 <td></td>
 <td></td>
 <td></td>
-<td>690,00</td>
+<td></td>
+<td></td>
+<td>1,75</td>
 <td>726,55</td>
-<td>500,00</td>
-<td>1300,00</td>
-<td>904,00</td>
+<td>380,00</td>
+<td>14,04</td>
 </tr>
 <tr>
-<td>4</td>
-<td>В-Казахстанская</td>
+<td>4,53</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>130,00</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Жамбылская</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>104,10</td>
-</tr>
-<tr>
-<td>6</td>
-<td>З-Казахстанская</td>
-<td></td>
-<td></td>
-<td>2,00</td>
 <td></td>
 <td></td>
 <td></td>
@@ -945,8 +883,6 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td></td>
 </tr>
 <tr>
-<td>7</td>
-<td>Карагандинская</td>
 <td></td>
 <td></td>
 <td></td>
@@ -954,248 +890,120 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td></td>
 <td></td>
 <td></td>
+<td>50,00</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>250,00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>205,00</td>
+<td>219,15</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>943,77</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>43,25</td>
+<td></td>
+<td>142,30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18,00</td>
+<td></td>
+<td>13,00</td>
+<td>10,00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>315,78</td>
 <td>0</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Костанайская</td>
-<td></td>
-<td>37,00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>Кызылординская</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1298,70</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>Павлодарская</td>
-<td>28,00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>363,44</td>
-</tr>
-<tr>
-<td>11</td>
-<td>С-Казахстанская</td>
-<td>30,00</td>
-<td>20,00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12</td>
-<td>Ю-Казахстанская</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">ВСЕГО ПО РЕСПУБЛИКЕ</td>
-<td>75,50</td>
-<td>57,00</td>
-<td>2,00</td>
-<td>690,00</td>
-<td>2025,25</td>
-<td>500,00</td>
-<td>1300,00</td>
-<td>1693,54</td>
+<td>186,80</td>
+<td>10,00</td>
+<td>0</td>
+<td>1,75</td>
+<td>1670,32</td>
+<td>758,30</td>
+<td>233,19</td>
 </tr>
 </table>
 
 продолжение таблицы
 
-тонн
+ТОНН
 
 <table>
 <tr>
-<td rowspan="3">№ п/п</td>
-<td rowspan="3">
-Наименование
-областей
-</td>
-<td colspan="5">Сельскохозяйственные растения</td>
+<td colspan="12">Сельскохозяйственные растения</td>
 </tr>
 <tr>
+<td rowspan="2">
+карто-
+фель
+</td>
 <td rowspan="2">овощи</td>
 <td colspan="2">подсолнечник</td>
 <td rowspan="2">рапс</td>
 <td rowspan="2">
 прочие
-масличные
+маслич-
+ные
 </td>
-</tr>
-<tr>
-<td>элита</td>
-<td>
-гибриды І
-поколения
-</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>19</th>
-<th>20</th>
-<th>21</th>
-<th>22</th>
-<th>23</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Акмолинская</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Актюбинская</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Алматинская</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>5,80</td>
-</tr>
-<tr>
-<td>4</td>
-<td>В-Казахстанская</td>
-<td></td>
-<td>150,00</td>
-<td>254,83</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Жамбылская</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>0</td>
-</tr>
-<tr>
-<td>6</td>
-<td>З-Казахстанская</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Карагандинская</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Костанайская</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>15,00</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Кызылординская</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>Павлодарская</td>
-<td></td>
-<td>25,68</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>11</td>
-<td>С-Казахстанская</td>
-<td></td>
-<td>30,00</td>
-<td></td>
-<td>300,00</td>
-<td>37,00</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Ю-Казахстанская</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">ВСЕГО ПО РЕСПУБЛИКЕ</td>
-<td></td>
-<td>205,68</td>
-<td>254,83</td>
-<td>300,00</td>
-<td>57,80</td>
-</tr>
-</table>
-
-продолжение таблицы
-
-тонн
-
-<table>
-<tr>
-<td rowspan="3">№ п/п</td>
-<td rowspan="3">Наименование областей</td>
-<td colspan="6">Сельскохозяйственные растения</td>
-</tr>
-<tr>
 <td rowspan="2">
 много-
 летние
@@ -1205,38 +1013,57 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td rowspan="2">
 много-
 летние
-злако-
-вые
+злаковые
 травы
 </td>
 <td rowspan="2">
-однолет-
-ние
+одно-
+летние
 травы
 </td>
 <td rowspan="2">
-сахарная
+сахар-
+ная
 свекла
 </td>
-<td colspan="2">хлопчатник, включая I репродукцию</td>
-</tr>
-<tr>
-<td>
-при
-механическом
-методе
-оголения
-</td>
-<td>
-при
-химическом
-методе
-оголения
+<td colspan="2">
+хлопчатник,
+включая I
+репродукцию
 </td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
+<td>элита</td>
+<td>
+гибриды
+I поко-
+ления
+</td>
+<td>
+при
+механи-
+ческом
+методе
+оголе-
+ния
+</td>
+<td>
+при
+хими-
+ческом
+мето-
+де
+оголе-
+ния
+</td>
+</tr>
+<tr>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
 <th>24</th>
 <th>25</th>
 <th>26</th>
@@ -1245,8 +1072,12 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <th>29</th>
 </tr>
 <tr>
-<td>1</td>
-<td>Акмолинская</td>
+<td>192,00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>0,10</td>
 <td></td>
 <td></td>
@@ -1255,8 +1086,12 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td></td>
 </tr>
 <tr>
-<td>2</td>
-<td>Актюбинская</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1265,38 +1100,26 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td></td>
 </tr>
 <tr>
-<td>3</td>
-<td>Алматинская</td>
+<td>904,00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5,80</td>
 <td>20,00</td>
 <td></td>
 <td></td>
-<td>7,00</td>
+<td>0,67</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>4</td>
-<td>В-Казахстанская</td>
+<td>80,43</td>
+<td></td>
+<td>185,78</td>
+<td>32,83</td>
 <td></td>
 <td></td>
-<td>4,00</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Жамбылская</td>
-<td>0</td>
-<td></td>
-<td></td>
-<td>5,87</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>З-Казахстанская</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1305,8 +1128,26 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td></td>
 </tr>
 <tr>
-<td>7</td>
-<td>Карагандинская</td>
+<td>300,00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5,88</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1315,8 +1156,12 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td></td>
 </tr>
 <tr>
-<td>8</td>
-<td>Костанайская</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1325,8 +1170,12 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td></td>
 </tr>
 <tr>
-<td>9</td>
-<td>Кызылординская</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>15,00</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1335,8 +1184,12 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td></td>
 </tr>
 <tr>
-<td>10</td>
-<td>Павлодарская</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1345,8 +1198,12 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td></td>
 </tr>
 <tr>
-<td>11</td>
-<td>С-Казахстанская</td>
+<td>363,44</td>
+<td></td>
+<td>16,84</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1355,23 +1212,46 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <td></td>
 </tr>
 <tr>
-<td>12</td>
-<td>Ю-Казахстанская</td>
+<td></td>
+<td></td>
+<td>29,50</td>
+<td></td>
+<td>327,28</td>
+<td>73,00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>4,50</td>
 <td></td>
 <td></td>
-<td></td>
+<td>4,18</td>
 <td>303,50</td>
-<td>56,18</td>
+<td>88,50</td>
 </tr>
 <tr>
-<td colspan="2">ВСЕГО ПО РЕСПУБЛИКЕ</td>
+<td>1839,87</td>
+<td>0</td>
+<td>232,12</td>
+<td>32,83</td>
+<td>327,28</td>
+<td>93,80</td>
 <td>24,60</td>
 <td>0</td>
-<td>4,00</td>
-<td>12,87</td>
+<td>0</td>
+<td>10,73</td>
 <td>303,50</td>
-<td>56,18</td>
+<td>88,50</td>
 </tr>
 </table>
 
@@ -1381,6 +1261,8 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 > *от 28 июля 2010 года № 467*
 
 ## Квоты за фактически реализованные отечественным сельскохозяйственным товаропроизводителям по удешевленной стоимости объемы элитных саженцев по каждому виду саженцев для каждой области на 2010 год
+
+> *Сноска. Приложение 3 с изменениями, внесенными приказом и.о. Министра сельского хозяйства РК от 18.11.2010 № 716.*
 
 <table>
 <tr>
@@ -1467,12 +1349,12 @@ source: https://zan.gov.kz/client/#!/doc/53874/rus/24.09.2010
 <tr>
 <td>12</td>
 <td>Ю-Казахстанская</td>
-<td>175 000,0</td>
-<td>1 100 000,0</td>
+<td>188 836,0</td>
+<td>1 121 523,0</td>
 </tr>
 <tr>
 <td colspan="2">ВСЕГО ПО РЕСПУБЛИКЕ</td>
-<td>1 057 608,0</td>
-<td>1 130 000,0</td>
+<td>1 071 444,0</td>
+<td>1 151 532,0</td>
 </tr>
 </table>
