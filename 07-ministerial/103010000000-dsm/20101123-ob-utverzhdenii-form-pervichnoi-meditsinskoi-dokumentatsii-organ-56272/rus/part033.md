@@ -1,0 +1,5315 @@
+---
+part_of: ../rus.md
+source: https://zan.gov.kz/client/#!/doc/56272/rus/23.11.2010
+---
+
+## Жаңа туған нәрестенің реанимация және жіті терапия бөліміндегі науқас жағдайының негізгі көрсеткіштері мен тағайындаулары Карта основных показателей состояния больного и назначений в отделении (палате) реанимации и интенсивной терапии новорожденных
+
+Күні (Дата) ___ Науқас (Больной) _________ Жасы (Возраст) ___ Жынысы
+
+(Пол) _____ Ауру тарихы № (№ истории) __________________
+
+Қан тобы (Группа крови) _____ Резус _____ Диагнозы (Диагноз)
+
+____________ Халжағдайы (Состояние) __________ Туғандағы салмағы (Вес
+
+при рождении) _____, Бүгінгі салмағы (Вес фактический) _____,
+
+Гестациялық жасы (Гестационный возраст) ____________________
+
+<table>
+<tr>
+<td rowspan="4">
+ТСМ мл/кг/тәу
+(ФПЖ мл/кг/сут)
+</td>
+<td></td>
+<td>Жоспарланды (Запланировано)</td>
+<td colspan="2">
+Алынды
+(Фактический)
+</td>
+<td colspan="2" rowspan="4">Мұқтаждылық (Потребность)</td>
+<td colspan="2">
+Б
+Белок
+</td>
+<td></td>
+<td>г/кг/тәу(г/кг/сут)</td>
+<td colspan="5">
+Зерттеу жоспары
+(План обследования)
+</td>
+<td colspan="2" rowspan="4">Оксигенотерапия</td>
+<td colspan="3">Палатка л/мин</td>
+<td colspan="2" rowspan="4">
+Энтеральды тамақтану түрі
+(вид энтерального кормления)
+</td>
+<td></td>
+</tr>
+<tr>
+<td>Per os</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">К (Угл)</td>
+<td></td>
+<td>г/кг/тәу(г/кг/сут)</td>
+<td colspan="5" rowspan="3"></td>
+<td colspan="3">Канюла л/мин</td>
+<td></td>
+</tr>
+<tr>
+<td>к/т (в/в)</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">М (Жир)</td>
+<td></td>
+<td>
+г/кг/тәу
+(г/кг/сут)
+</td>
+<td colspan="3">Маска л/мин</td>
+<td></td>
+</tr>
+<tr>
+<td>Барлығы(Всего)</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Ккал</td>
+<td></td>
+<td>Ккал/кг</td>
+<td colspan="3">Кувез л/мин</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Тағайындаулар. Дозалары. (Назначения. Дозы)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Тамақтануы (Кормление)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Фототерапия</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Кұсық (срыгивание)*</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Үлкен дәреті (Стул)**</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Диурез</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+*Үлкен дәреті (характер стула): м - меконий, с - сілемеймен (с
+
+слизью), к - қанмен (с кровью), з - жасыл (зеленью), п – өтпелі
+
+(переходный)
+
+** Құсық (срыгивание): ж – өтпен (с желчью), м - қорытылмаған сүтпен
+
+(непереваренным молоком)
+
+Оборотная сторона
+
+### Жасанды тыныс беру хаттамасы (Протокол искусственной вентиляции легких)
+
+<table>
+<tr>
+<td></td>
+<td>Уақыты (Время)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">
+Қойылған өлшемдер 1
+(Установленные параметры 1)
+</td>
+<td>Tin</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tex</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>f – set (IMV)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>fiO2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">
+Өлшенетін өлшемдер 1
+(Измеряемые параметры 1)
+</td>
+<td>IMV peak</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>MAP</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>PEEP</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Қойылған өлшемдер 2
+(Установленные параметры 2)
+</td>
+<td>HFO frequency</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HFO amplitude</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">
+Өлшенетін өлшемдер 2
+(Измеряемые параметры 2)
+</td>
+<td>IMV im</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DCO2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Vt – im</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Vthf</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="9">
+Науқас туралы мәліметтер
+(Данные пациенты)
+</td>
+<td>pH</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>pO2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>pCO2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>BE</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Sat О2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Пульс</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АД</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЧД</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Температура</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="7">
+Режімдер
+(Режимы)
+</td>
+<td>CPAP</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>IPPV/IMV</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SIMV</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SIPPV/AC/PTV*</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>PSV*</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>VIVE*</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Емдеуші дәрігер (Лечащий врач) _____ Кезекші дәрігер (Дежурный врач)
+
+________________
+
+Кезекші медбике (Дежурная медсестра) ______ Кезекші медбике (Дежурная
+
+медсестра) ______________
+
+* режімдер *режимы выставляются имеющиеся на аппаратах ИВЛ в зависимости от производителя
+
+Ескертпе:
+
+СФМ – сұйықтыққа физиологиялық мұқтаждық
+
+Per os – ішке
+
+к/т - көк тамырға)
+
+к - көмірсу
+
+м - май
+
+д.м. – дене массасы
+
+<table>
+<tr>
+<td>Tin - время вдоха</td>
+</tr>
+<tr>
+<td>Tex – время выдоха</td>
+</tr>
+<tr>
+<td>f – set (IMV) – установленная частота аппаратного дыхания</td>
+</tr>
+<tr>
+<td>fiO2 - концентрация подаваемого кислорода</td>
+</tr>
+<tr>
+<td>IMV peak – пиковое давление</td>
+</tr>
+<tr>
+<td>MAP – среднее давление в дыхательных путях</td>
+</tr>
+<tr>
+<td>PEEP – положительное давление в конце выдоха</td>
+</tr>
+<tr>
+<td>HFO frequency – частота высоко частотной вентиляции</td>
+</tr>
+<tr>
+<td>HFO amplitude – амплитуда высокочастотной вентиляции</td>
+</tr>
+<tr>
+<td>IMV im - измеряемый на вдохе минутный объем, создаваемый принудительными вдохами во время высокочастотной вентиляции</td>
+</tr>
+<tr>
+<td>DCO2 –коэффицент вывода углекислого газа</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>Vt – im – измеряемый дыхательный объем во время вдоха, создаваемый высокочастотными импульсами</td>
+</tr>
+<tr>
+<td>Vthf – усредненный дыхательный объем при высокочастотном вентиляции</td>
+</tr>
+<tr>
+<td>pH – степень кислотности</td>
+</tr>
+<tr>
+<td>pO2 – парциальное напряжение кислорода</td>
+</tr>
+<tr>
+<td>pCO2 – парциальное напряжение углекислого газа</td>
+</tr>
+<tr>
+<td>BE – дефицит основания</td>
+</tr>
+<tr>
+<td>Sat О2 – сатурация</td>
+</tr>
+<tr>
+<td>Пульс</td>
+</tr>
+<tr>
+<td>АД – артериальное давление</td>
+</tr>
+<tr>
+<td>ЧД – частота дыхания ребенка</td>
+</tr>
+<tr>
+<td>Температура</td>
+</tr>
+<tr>
+<td>CPAP – спонтанное дыхание с постоянным положительным давлением в дыхательных путях</td>
+</tr>
+<tr>
+<td>IPPV/IMV – режим принудительной перемежающий вентиляции</td>
+</tr>
+<tr>
+<td>SIMV – синхронизированная перемежающаяся принудительная вентиляция</td>
+</tr>
+<tr>
+<td>SIPPV/AC/PTV - искусственная вентиляция легких с перемежающимся положительным давлением, синхронизируемая с самостоятельным дыханием пациентом</td>
+</tr>
+<tr>
+<td>PSV – режим вентиляции с поддержкой давления</td>
+</tr>
+<tr>
+<td>VIVE – раздельное регулирование потока на вдохе и выдохе</td>
+</tr>
+</table>
+
+Примечание:
+
+ФПЖ – физиологическая потребность в жидкости
+
+Per os – внутрь
+
+к/т - көк тамырға (в/в – внутривенно)
+
+к - көмірсу (угл - углеводы)
+
+м - май (жиры)
+
+м.т. – масса тела
+
+<table>
+<tr>
+<td>Tin - время вдоха</td>
+</tr>
+<tr>
+<td>Tex – время выдоха</td>
+</tr>
+<tr>
+<td>f – set (IMV) – установленная частота аппаратного дыхания</td>
+</tr>
+<tr>
+<td>fiO2 - концентрация подаваемого кислорода</td>
+</tr>
+<tr>
+<td>IMV peak – пиковое давление</td>
+</tr>
+<tr>
+<td>MAP – среднее давление в дыхательных путях</td>
+</tr>
+<tr>
+<td>PEEP – положительное давление в конце выдоха</td>
+</tr>
+<tr>
+<td>HFO frequency – частота высоко частотной вентиляции</td>
+</tr>
+<tr>
+<td>HFO amplitude – амплитуда высокочастотной вентиляции</td>
+</tr>
+<tr>
+<td>IMV im - измеряемый на вдохе минутный объем, создаваемый принудительными вдохами во время высокочастотной вентиляции</td>
+</tr>
+<tr>
+<td>DCO2 –коэффицент вывода углекислого газа</td>
+</tr>
+<tr>
+<td>Vt – im – измеряемый дыхательный объем во время вдоха, создаваемый высокочастотными импульсами</td>
+</tr>
+<tr>
+<td>Vthf –усредненный дыхательный объем при высокочастотном вентиляции</td>
+</tr>
+<tr>
+<td>pH – степень кислотности</td>
+</tr>
+<tr>
+<td>pO2 – парциальное напряжение кислорода</td>
+</tr>
+<tr>
+<td>pCO2 – парциальное напряжение углекислого газа</td>
+</tr>
+<tr>
+<td>BE – дефицит основания</td>
+</tr>
+<tr>
+<td>Sat О2 – сатурация</td>
+</tr>
+<tr>
+<td>Пульс</td>
+</tr>
+<tr>
+<td>АД – артериальное давление</td>
+</tr>
+<tr>
+<td>ЧД – частота дыхания ребенка</td>
+</tr>
+<tr>
+<td>Температура</td>
+</tr>
+<tr>
+<td>CPAP – спонтанное дыхание с постоянным положительным давлением в дыхательных путях</td>
+</tr>
+<tr>
+<td>IPPV/IMV – режим принудительной перемежающий вентиляции</td>
+</tr>
+<tr>
+<td>SIMV – синхронизированная перемежающаяся принудительная вентиляция</td>
+</tr>
+<tr>
+<td>SIPPV/AC/PTV - искусственная вентиляция легких с перемежающимся положительным давлением, синхронизируемая с самостоятельным дыханием пациентом</td>
+</tr>
+<tr>
+<td>PSV – режим вентиляции с поддержкой давления</td>
+</tr>
+<tr>
+<td>VIVE – раздельное регулирование потока на вдохе и выдохе</td>
+</tr>
+</table>
+
+А4 форматы
+
+Формат А4
+
+<table>
+<tr>
+<td colspan="2"></td>
+<td>
+ҚҰЖЖ бойынша ұйым коды
+Код организации по ОКПО _______________
+</td>
+</tr>
+<tr>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрлігі
+Министерство здравоохранения Республики Казахстан
+</td>
+<td rowspan="2"></td>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрінің м.а. 2010 жылғы 23 қарашадағы № 907 бұйрығымен бекітілген
+№ 012/е нысанды
+медициналық құжаттама
+</td>
+</tr>
+<tr>
+<td>
+Ұйымның атауы
+Наименование организации
+</td>
+<td>
+Медицинская документация
+Форма № 012/у утверждена приказом
+и.о. Министра здравоохранения
+Республики Казахстан
+от 23 ноября 2010 года № 907
+</td>
+</tr>
+</table>
+
+### Жүрек-қан тамырларына операция жасаудағы ОПЕРАЦИЯ КЕЗЕҢІНІҢ КАРТАСЫ КАРТА ОПЕРАЦИОННОГО ПЕРИОДА при проведении сердечно–сосудистых операций
+
+Қан тобы (Группа крови) __________________
+
+20__ жыл (год) "__" ______________
+
+Ұюы (Свертываемость) _____________
+
+Қан ағу ұзақтығы (Длительность кровотечения) _______________________
+
+ТАӘ
+
+(ФИО) ______________________________________________________________
+
+Сырқатнаманың № (История болезни №)____ Шұғыл (экстренный) ия, жоқ
+
+(да,нет) _______ Протротромб индексі(Индекс протротромб) ___________
+
+Жалпы жағдайы (Общее состояние) ________
+
+Туған күні (Дата рождения) ________ Салмағы (Вес) __________________
+
+Бойы (Рост) ______________ Тістері (Зубы) __________________________
+
+Тромбоциттер (Тромбоциты) __________________________________________
+
+Операцияға дейінгі диагнозы Болжанған операция
+
+(Диагноз до операции) (Предполагаемая операция)
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+### НАУҚАСТЫҢ ОПЕРАЦИЯ АЛДЫНДАҒЫ ЖАҒДАЙЫ СОСТОЯНИЕ БОЛЬНОГО ПЕРЕД ОПЕРАЦИЕЙ
+
+Арт.қысымы (Арт. давление) ____ Веналық қысымы (Вен. давление) ___
+
+Тамыр соғуы (Пульс) ___________
+
+Жүрек (Сердце) ___________________________________________________
+
+ЭКГ ______________________________________________________________
+
+Рентген __________________________________________________________
+
+Қан (Кровь): Гемоглобин ____ Эритроциттер (Эритроциты) ___________
+
+Лейкоциттер (Лейкоциты) ______ ЭШЖ (СОЭ) _________________________
+
+Өкпе (Легкие) ______ О2 тұтыну (Потребление О2) __________________
+
+Оң жақ өкпеқап (Плевра справа) ______ сол жақ (слева) ____________
+
+Ентігудің пайда болуы (Одышка возникает при) _____________________
+
+Негізгі заталмасу (Осн. обмен) ______ Қандағы билирубин (Билирубин
+
+крови) ________ Қандағы қант (Сахар крови) _______________________
+
+Бауыр (Печень) ________ Несеп (Мочевина) _________________________
+
+Қалдық азот (Ост. азот) ________ Белок ___________________________
+
+Бүйректер (Почки) ________ Несеп талдауы (Анализ мочи) ___________
+
+Диурез ______ Гормондық терапия (Гормональная терапия) ___________
+
+Аллергия ______ Бұрынғы наркоздар (Предыдущие наркозы) ___________
+
+Толықтыру (Дополнение) ___________________________________________
+
+Бітелуге, ЖҚ-на төзу мүмкіндігі (Возможная переносимость окклюзии,
+
+ИК) ____________________________
+
+Операция мен анестезия қаупі (Риск операции и анастезии)
+
+_______________________________
+
+__________________________________________________________________
+
+*Жасанды қан айналуы
+
+### АУЫРСЫНУДЫ БАСУ ТҮРЛЕРІНЕ АЙҒАҚТАР МЕН ҚАРСЫ АЙҒАҚТАР ПОКАЗАНИЯ И ПРОТИВОПОКАЗАНИЯ К ВИДУ ОБЕЗБОЛИВАНИЯ НАРКОЗҒА ДАЯРЛАУ ПОДГОТОВКА К НАРКОЗУ
+
+Операция қарсаңындағы кеште Операция күні таңертең
+
+Накануне вечером Утром в день операции
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+> *№ 012/е нысанға*  
+> *к форме № 012/у*
+
+(5 мин. уақыттан соң) АҚҚ мен тамыр соғуы
+
+(Время через 5 мин.) А/Д и пульс
+
+<table>
+<tr>
+<td rowspan="21">Кіріспе наркоз. Вводный наркоз</td>
+<td>210</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>200</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>190</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>180</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>170</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>160</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>150</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>140</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>130</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>120</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>110</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>100</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>90</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>80</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>70</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>60</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="3">ОВҚҚ ЦВД</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">
+Өңештегі температура
+Температура в пищеводе
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">
+Тік ішектегі
+В прямой кишке
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">
+Басқарылмалы тыныс алу
+Управляемое дыхание
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">
+Есірткі заттар л/мин О2 мен газдар
+Эфир
+Наркотические вещества и газы
+азот тотығы
+закись азота
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">
+Бұлшық ет релаксанты
+Мышечный релаксант
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Қарашық Зрачок</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">
+Негізгі есірткі Основной наркотик
+Наркоз тереңдігі (клиник.)
+Глубина наркоза (клинич.)
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">
+Қан шығыны. Кровопотеря
+Наркоз тереңдігі (ЭЭГ)
+Глубина наркоза (ЭЭГ)
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Интубация техникасы
+Техника интубации
+</td>
+<td>
+Операция этапы
+Этап операции
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Емдеу – іс-шаралары
+Лечебные мероприятия
+</td>
+<td>
+Қан құю мл.
+Переливание крови в мл.
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+> *(к форме) № 012/е нысанына*  
+> *жалғасы (продолжение)*
+
+<table>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>210</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>190</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>180</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>170</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>160</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>150</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>140</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>130</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>120</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>110</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>100</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>90</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>80</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>70</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>60</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>50</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>40</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>30</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>10</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+> *ф. № 012/е н. жалғасы*  
+> *к ф.012/у продолжение*
+
+Қорытынды диагноз (Окончательный диагноз ____________________________
+
+Жасалған операция (Произведенная операция) __________________________
+
+Ауырсынуды басу (Обезболивание) _____________________________________
+
+Анестезиологтар (т.а.ә.). Анестезиологи (ф.и.о) _____________________
+
+Хирургтар (т.а.ә.) Хирурги (ф.и.о.) _________________________________
+
+Наркоз аппаратының типі (Тип наркозного аппарата) ___________________
+
+Операция үстеліндегі орналасуы (Положение на опер. столе) ___________
+
+Операция кезінде науқастың функцияларын басқару
+
+Управление функциями больного по ходу операции
+
+Тыныс алуды басқару (Управление дыханием) ___________________________
+
+Бұлшық ет релаксанттарының шығыны (Расход мыш. релаксантов)
+
+_____________________________________________________________________
+
+Жасанды қанайналым (Искусственное кровообращение) ___________________
+
+Басқарулы гипотония: әдісі (Управляемая гипотония: метод) ___________
+
+Гипотермия __________________________________________________________
+
+Наркозбен операция кезіндегі асқынулар – емдеу іс-шаралары
+
+Осложнения по ходу наркоза и операции – лечебные мероприятия
+
+Интубацияға әрекеттену саны (Число попыток интубации)
+
+____________________________ Венесекция, катетерлеу (Венесекция, катетеризация) _____________________________________________________
+
+Бұлшық ет жыпылықтауы (Фибрилляции до) _____________________________
+
+дейін Тоқтауы (Остановка) __________________________________________
+
+АҚ төмендеуі (Снижение АД до) ________ дейін, торр. на ________ мин.
+
+Шок ________________________________________________________________
+
+Қан шығыны (Кровопотеря) _____ Қан құю (Переливание крови) _________
+
+Басқа сұйықтар бітелуге дейін, ЖҚ (Др. жидкостей до окколюзии, ИК) ____________________________________________________________________
+
+кейiн (после) ____ Қайталу (Возврат) _____ Жеңілдету (Разгрузка) ___
+
+Диурез _______
+
+Операция кезінде арнайы әдiстер көмегімен бақылау
+
+Наблюдение с помощью специальных методов по ходу операции
+
+ЭКГ ______________________________________________________________
+
+гемодинамика _____________________________________________________
+
+__________________________________________________________________
+
+Электроэнцефалограмма ____________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+Белсенді салқындату қарқыны (Темп охлаждения активного) __________
+
+селқос (пассивного) ______________________________________________
+
+ЖҚ, бітелудің ұзақтығы (Длительность окклюзии, ИК) _______________
+
+Қатар ЖҚ (Параллельного ИК) ______________________________________
+
+Қалпына келу кезеңі (Восстановит. период) ________________________
+
+Белсенді жылыту тәсілі мен қарқыны (Темп и способ активного согревания) ______________________________________________________
+
+__________________________________________________________________
+
+АНЕСТЕЗИОЛОГТЫҢ ЕСКЕРТУІ
+
+ЗАМЕЧАНИЯ АНЕСТЕЗИОЛОГА
+
+Анестезиологтың қолы (Подпись анестезиолога) _____________________
+
+Анестезист мейірбике (медсестра анестезистка) ____________________
+
+Наркотиктер (Наркотики): _________________________________________
+
+Кардиплегия: құрамы (Кардиоплегия: состав) _______________________
+
+Тәсілі (Способ) __________________________________________________
+
+А4 форматы
+
+Формат А4
+
+<table>
+<tr>
+<td colspan="2"></td>
+<td>
+ҚҰЖЖ бойынша ұйым коды
+Код организации по ОКПО _______________
+</td>
+</tr>
+<tr>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрлігі
+Министерство здравоохранения Республики Казахстан
+</td>
+<td rowspan="2"></td>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрінің м.а.
+2010 жылғы 23 қарашадағы № 907
+бұйрығымен бекітілген № 013/е нысанды
+медициналық құжаттама
+</td>
+</tr>
+<tr>
+<td>
+Ұйымның атауы
+Наименование организации
+</td>
+<td>
+Медицинская документация Форма № 013/у
+утверждена приказом
+и.о. Министра здравоохранения
+Республики Казахстан
+от 23 ноября 2010 года № 907
+</td>
+</tr>
+</table>
+
+### Патологоанатомиялық зерттеу ХАТТАМАСЫ (картасы) №_____________ ПРОТОКОЛ (карта) патологоанатомического исследования 2010 жылғы (года) "__"____________
+
+__________________________________________________________________
+
+Хаттаманы толтырған ұйымның мекенжайы (Адрес организации,
+
+составившего протокол):
+
+Республика (облыс,өлке) (Республика (область, край)) ______________
+
+Аудан (қала) (Район (город)) _____________________________________
+
+Аурухана (больница) ________ Бөлімше (отделение) _________________
+
+Науқас картасының (Карта больного) № ____________
+
+Тегі, аты, әкесінің аты (Фамилия, имя, отчество): _________________
+
+2\. Жынысы Е. Ә. (Пол М. Ж.) ____ 3. Туған күні (Дата рождения): ___
+
+4\. Тұрғылықты мекенжайы (Место жительства): _______________________
+
+5\. Кәсібі (зейнетке дейін) (Профессия ( до пенсии)):
+
+6\. Ауруханаға әкелінді (Доставлен в больницу): __________ сағаттан
+
+(күннен) кейін сырқаты басталғаннан соң (часов (дней) после начала
+
+заболевания)
+
+7\. Өткізілген (Проведено) _________ төсек-күн (койко - дней)
+
+8\. Қайтыс болған күні (Дата смерти): ____________________________
+
+жылы, айы, күні, сағаты (год, мес, число,час)
+
+9\. Мәйітті ашу күні мен уақыты (Дата и время вскрытия): _________
+
+жылы, күні, айы (год, мес., число, час)
+
+10\. Емдеуші дәрігер (Лечащий врач): _____________________________
+
+_________________________________________________________________
+
+11\. Мәйітті ашуға қатысқандар (Присутствовали на вскрытии): _____
+
+_________________________________________________________________
+
+Кодтар (Коды):
+
+12\. Жолдаған ұйымның диагнозы (Диагноз направившей организации):
+
+_________________________________________________________________
+
+13\. Түскен кездегі диагнозы (Диагноз при поступлении):___________
+
+_________________________________________________________________
+
+14\. Стационардағы клиникалық диагноздары және олардың қойылған күні (Клинические диагнозы в стационаре и даты их установления): _________________________________________________________________
+
+15\. Қорытынды клиникалық диагноз және оны қойған күні (Заключительный клинический диагноз и дата его установления)
+
+Негізгі (Основное): _____________________________________________
+
+Негізгі аурудың асқынуы (Осложнение основного заболевания) ______
+
+_________________________________________________________________
+
+Қосалқы аурулары (Сопутствующие заболевания): ___________________
+
+Қайтыс болу себебі (Причина смерти): ____________________________
+
+_________________________________________________________________
+
+> *№ 013/е н. 2 беті*  
+> *стр.2 ф.№ 013/у*
+
+16\. Клиникалық–зертханалық зерттеулер нәтижелері (Результаты
+
+клинико-лабораторных исследований): ____________________________
+
+________________________________________________________________
+
+17\. Патологоанатомиялық диагноз (негізгі ауруы, асқынуы, қосалқы
+
+аурулары) (Патологоанатомический диагноз (основное заболевание,
+
+осложнения, сопутствующие заболевания)): _______________________
+
+________________________________________________________________
+
+18\. Клиникалық диагностикалау қателері (астын сызыңыз, жазыңыз)
+
+(Ошибки клинической диагностики (подчеркнуть, вписать))
+
+Негізгі ауруы бойынша айырмашылықтар (Расхождение диагнозов по
+
+основному заболеванию) _________________________________________
+
+________________________________________________________________
+
+Кеш диагностикалау (Запоздалая диагностика)
+
+негізгі ауруының (основного заболевания) ________________________
+
+асқынулары бойынша (по осложнениям) _____________________________
+
+қайтыс болуға әкелген асқынуының (смертельного осложнения) ______
+
+қосалқы аурулары бойынша ( по сопутствующим заболеваниям) _______
+
+Диагноз айырмашылықтарының себептері
+
+Причины расхождения диагнозов
+
+<table>
+<tr>
+<td>
+Диагностикадағы объективті қиындықтар
+Объективная трудность диагностики
+</td>
+<td>Аз уақыт болуы Кратковременное пребывания</td>
+<td>
+Науқастың толық қаралмауы
+Недообслед. больного
+</td>
+<td>
+Қарау деректерін асыра бағалау
+Переоценка данных обследования
+</td>
+<td>
+Аурудың сиректігі
+Редкость заболевания
+</td>
+<td>
+Диагнозының дұрыс ресімделмеуі
+Неправильное оформление диагноза
+</td>
+</tr>
+</table>
+
+19\. Қайтыс болу себептері (Причина смерти) №_____ қайтыс болғаны
+
+туралы дәрігерлік куәлікте мынадай жазбалар жасалған (во врачебном
+
+свидетельстве о смерти № ____сделана следующая запись)
+
+Кодтар (Коды) _________________
+
+1\.
+
+а) _________________________________________________________
+
+б) _________________________________________________________
+
+в) _________________________________________________________
+
+П. _________________________________________________________
+
+_________ беттегі хаттама бөлімі қоса берілген
+
+(Протокольная часть на ___ страницах прилагается)
+
+Патологоанатомның тегі:
+
+(Фамилия патологоанатома) _________________________________
+
+қолы (подпись)
+
+Бөлім меңгерушісі:
+
+(Заведующий отделением) ___________________________________
+
+қолы (подпись)
+
+> *№ 013/е н. 3 беті*  
+> *стр.3 ф.№ 013/у*
+
+Патологоанатомиялық зерттеудің нәтижелері
+
+(Результаты патологоанатомического исследования)
+
+<table>
+<tr>
+<td rowspan="2">
+Бойы
+Рост
+</td>
+<td rowspan="2">
+Дене салмағы
+Вес тела
+</td>
+<td colspan="8">
+Дене мүшелері салмағы
+Вес органов
+</td>
+</tr>
+<tr>
+<td>
+Ми
+Головной мозг
+</td>
+<td>
+Жүрек
+Сердце
+</td>
+<td>
+Өкпе
+Легкие
+</td>
+<td>
+Бауыр
+Печень
+</td>
+<td>
+Көк
+бауыр
+Селезенка
+</td>
+<td>
+сол бүйрек
+оң бүйрек
+Почки лев - прав
+</td>
+<td>
+Айырбез
+Тимус
+</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>360</td>
+<td></td>
+<td>1600</td>
+<td>210</td>
+<td>320</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Қалып:
+Норма:
+</td>
+<td></td>
+<td></td>
+<td>320</td>
+<td></td>
+<td>1500</td>
+<td>180</td>
+<td>320</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+ҚЫСҚАША КЛИНИКАЛЫҚ ДЕРЕКТЕР:
+
+КРАТКИЕ КЛИНИЧЕСКИЕ ДАННЫЕ:
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+Патологиялық зерттеуге тілімдер алынды (Взято кусочков для
+
+патологического исследования): ____________________________________
+
+Блоктар дайындалды (Изготовлено блоков): __________________________
+
+Басқа зерттеу әдістеріне материал алынды (Взят материал для других
+
+методов исследования): ____________________________________________
+
+Бір данада толтырылады. Сызбалар мен фотосуреттер қоса беріледі
+
+(Заполняется в одном экземпляре. Схемы и фотоснимки прилагаются)
+
+___________________________________________________________________
+
+Гистологиялық зерттеу нәтижелері (Результаты гистологического
+
+исследования):
+
+Қосымша _____ парақ
+
+(Приложение на __ листах)
+
+Сызбалар,кестелер,фотосуреттер (қанша (Схемы, таблицы, фото, рис.
+
+(сколько)) ________________________
+
+Конференцияда талқылану күні (Дата обсуждения на конференции) ______
+
+Патологоанатомның тегі _______________________________
+
+(Фамилия патологоанатома) қолы (подпись)
+
+А5 форматы
+
+Формат А5
+
+<table>
+<tr>
+<td colspan="2"></td>
+<td>
+ҚҰЖЖ бойынша ұйым коды
+Код организации по ОКПО _______________
+</td>
+</tr>
+<tr>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрлігі Министерство здравоохранения Республики Казахстан
+</td>
+<td rowspan="2"></td>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрінің м.а.
+2010 жылғы 23 қарашадағы № 907
+бұйрығымен бекітілген № 014/е нысанды
+медициналық құжаттама
+</td>
+</tr>
+<tr>
+<td>
+Ұйымның атауы
+Наименование организации
+</td>
+<td>
+Медицинская документация Форма № 014/у
+утверждена приказом
+и.о. Министра здравоохранения
+Республики Казахстан
+от 23 ноября 2010 года № 907
+</td>
+</tr>
+</table>
+
+### Патологиялық–гистологиялық зерттеуге ЖОЛДАМА* (материалдың жолданған күні мен сағаттары) НАПРАВЛЕНИЕ* на патолого-гистологическое исследование (дата и часы направления материала)
+
+20__ жыл (год) "__" ______________ _______ сағат (час.)
+
+_________________________________________________________________
+
+Бөлімше (Отделение) __________________________ Науқастың стационарлық
+
+(амбулаторлық) картасының № (Карта стационарного больного
+
+(амбулаторная карта)) № _____________________
+
+1\. Науқастың тегі, аты, әкесінің аты (Фамилия, имя, отчество
+
+больного) __________________________________________________________
+
+2\. Жынысы Е/Ә (Пол М /Ж)
+
+3\. Туған күні (Дата рождения) _________________________
+
+4\. Биопсия бірінші рет, екінші рет, (керегінің астын сызыңыз).
+
+(Биопсия первичная, вторичная, (нужное подчеркнуть))
+
+5\. Қайталанғанда бірінші жолғы биопсияның № мен күнін көрсетініз (При
+
+повторной биопсии указать № и дату первичной) ______________________
+
+6\. Операцияның күні және түрі (Дата и вид операции) ________________
+
+7\. Материалды маркілеу, объектілер саны (Маркировка материала, числа
+
+объектов) ___________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+8\. Клиникалық деректер (Клинические данные) _________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+(Сырқаттың ұзақтығы, ісік болса-жүргізілген ем, - анық орналасуы, өсу
+
+жылдамдығы, өлшемдері, консистенциясы, қоршаған тiндермен байланысы,
+
+метастаздары, басқа ісік түйіндерінің бар болуы, арнаулы ем: лимфа
+
+түйіндерін зерттегенде қан талдауын, эндометрия кырындысын; сүт
+
+бездерін зерттегенде - әдеттегідей келген соңғы етеккірдің басталуы
+
+мен аяқталуын, етеккір функциясының бұзылу сипатын, қан кетуінің
+
+басталуын көрсетіңіз).
+
+(продолжительность заболевания, проведенное лечение при опухолях –
+
+точная локализация, темпы роста, размеры, консистенция, отношение к
+
+окружающим тканям, метастазы, наличие других опухолевых узлов,
+
+специальное лечение; при исследовании лимфоузлов - указать анализ
+
+крови, соскобов эндометрия, молочных желез – начало и окончание
+
+последней нормальной менструации, характер нарушения менструальной
+
+функции, дата начала кровотечения)
+
+9\. Клиникалық диагнозы (Клинический диагноз) _______________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+Емдеушi дәрiгердiң тегi (Фамилия лечащего врача) ___________________
+
+____________________________________________________________________
+
+қолы (подпись) ________________________________
+
+Патологиялық зерттеу (Патологическое исследование) № _______________
+
+Түскен күні мен сағаттары (Дата и часы поступления) ________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+Диагностикалық биопсия (Биопсия диагностическая) ___________________
+
+Жедел биопсия (Биопсия срочная) ____________________________________
+
+Операциялық материал (Операционный материал) _______________________
+
+Кесектер саны (Количество кусочков) _________ блоктар (блоков)______
+
+Бояу әдістемесі (Методика окраски) _________________________________
+
+Макро және микроскопиялық сипаттау (Макро-и микроскопическое
+
+описание): _________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+Патологогистологиялық қорытынды (диагноз) (Патологогистологическое
+
+заключение (диагноз)) ______________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+Код ________________________________________________________________
+
+Зерттеу күні (Дата исследования) 20__жылғы (года) "__" _____________
+
+Патологоанатомның тегі (Фамилия патологоанатома) ___________________
+
+қолы (подпись)
+
+Зертханашының тегі (Фамилия лаборанта) _____________________________
+
+қолы (подпись)
+
+* Көшірме қағазбен екі дана толтырылады (Заполняется под
+
+копирку в двух экземплярах)
+
+Қажеттісін жазып, астын сызыңыз (Необходимое вписать,
+
+подчеркнуть)
+
+А4 форматы
+
+Формат А4
+
+<table>
+<tr>
+<td colspan="2"></td>
+<td>
+ҚҰЖЖ бойынша ұйым коды
+Код организации по ОКПО _______________
+</td>
+</tr>
+<tr>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрлігі
+Министерство здравоохранения Республики Казахстан
+</td>
+<td rowspan="2"></td>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрінің м.а. 2010 жылғы 23 қарашадағы № 907 бұйрығымен
+бекітілген № 015/е нысанды медициналық құжаттама
+</td>
+</tr>
+<tr>
+<td>
+Ұйымның атауы
+Наименование организации
+</td>
+<td>
+Медицинская документация Форма № 015/у
+утверждена приказом
+и.о. Министра здравоохранения
+Республики Казахстан
+от 23 ноября 2010 года № 907
+</td>
+</tr>
+</table>
+
+### Мәйіттердің түсуі мен берілуін тіркеу ЖУРНАЛЫ ЖУРНАЛ регистрации поступлений и выдачи трупов за 20__ жыл (год) _______________ күнi
+
+<table>
+<tr>
+<td>
+Р/c
+№ п/п
+</td>
+<td>
+Мәйіттің түскен күні
+Дата поступления трупа
+</td>
+<td>
+Қайтыс болған адамның тегі, аты, әкесінің аты
+Фамилия, имя, отчество умершего
+</td>
+<td>
+Туған күні
+Дата рождения
+</td>
+<td>
+Жынысы (ер, әйел)
+Пол (муж.,жен.)
+</td>
+<td>
+Мәйітті кім қабылдап алды (Т.А.Ә.)
+Кем принят труп (Ф.И.О.)
+</td>
+<td>
+Мәйіт әкелінген аурухана бөлімшесінің немесе осы аурухананың аты
+Название отделения данной больницы или больницы откуда поступил труп
+</td>
+<td>
+Стационарлық науқас картасының №
+№ карты стационарного больного
+</td>
+<td>
+Қайтыс болған адам жерленетін зират атауы
+Название кладбища, где будет захоронен умерший
+</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+Мәйіттерді беруді негіздеу
+Обоснование выдачи трупов
+</td>
+<td>
+Мәйітті кім берді (Т.А.Ә.)
+Кем выдан труп (Ф.И.О.)
+</td>
+<td>
+Мәйітті беру немесе ауруханада жерлеген күн
+Дата выдачи трупа или захоронения больницей
+</td>
+<td>
+Кімнің өкімі бойынша мәйіт ашусыз берілді
+По чьему распоряжению выдан труп без вскрытия
+</td>
+<td>
+Мәйіт жерлеуге берілген туыстарының немесе басқа адамдардың қолхаты және олардың төлқұжатының №, сериясы
+Расписка родственников или лиц, кому выдан труп для захоронения и №, серия паспорта
+</td>
+<td>
+Ілесушінің тегі мен қолы
+Фамилия и роспись сопровождающего
+</td>
+</tr>
+<tr>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+А4 форматы
+
+Формат А4
+
+<table>
+<tr>
+<td colspan="2"></td>
+<td>
+ҚҰЖЖ бойынша ұйым коды
+Код организации по ОКПО _______________
+</td>
+</tr>
+<tr>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрлігі
+Министерство здравоохранения Республики Казахстан
+</td>
+<td rowspan="2"></td>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрінің м.а.
+2010 жылғы 23 қарашадағы № 907
+бұйрығымен бекітілген № 016/е нысанды
+медициналық құжаттама
+</td>
+</tr>
+<tr>
+<td>
+Ұйымның атауы
+Наименование организации
+</td>
+<td>
+Медицинская документация Форма № 016/у
+утверждена приказом
+и.о. Министра здравоохранения
+Республики Казахстан
+от 23 ноября 2010 года № 907
+</td>
+</tr>
+</table>
+
+### Стационар, бөлiмше немесе төсек бейiнi бойынша науқастар мен төсек қоры қозғалысын есепке алудың ЖИЫНТЫҚ ВЕДОМОСЫ СВОДНАЯ ВЕДОМОСТЬ учета движения больных и коечного фонда по стационару, отделению или профилю коек
+
+_________________________________________
+
+атауын жазыңыз (вписать название)
+
+(за) 20__ жыл (год) _______________________ бойынша
+
+<table>
+<tr>
+<td rowspan="4">
+Смета көлемiнде iс жүзiнде жазылған төсектер + есеп беру кезеңiнiң аяғында жөндеуге жиналған төсектер
+Число коек в пределах сметы фактически развернутых + свернутых на ремонт на конец отчетного периода
+</td>
+<td rowspan="4">
+Орташа айлық (жылдық) төсектер
+Среднемесячных (годовых) коек
+</td>
+<td rowspan="4">
+Есеп беру кезеңiнiң басындағы науқастар саны
+Состояло больных на начало отчетного периода
+</td>
+<td colspan="6">
+ЕСЕП БЕРУ КЕЗЕҢI БОЙЫНША
+ЗА ОТЧЕТНЫЙ ПЕРИОД
+</td>
+</tr>
+<tr>
+<td colspan="4">
+Түскен науқастар
+Поступило больных
+</td>
+<td colspan="2" rowspan="2">
+Аурухана iшiнде ауыстырылған науқастар
+Переведено больных внутри больницы
+</td>
+</tr>
+<tr>
+<td rowspan="2">Барлығы Всего</td>
+<td colspan="3">
+Олардың iшiнде
+из них
+</td>
+</tr>
+<tr>
+<td>
+ауыл тұрғындары
+сельских жителей
+</td>
+<td>
+14 жасқа дейiнгi балаларды қоса
+детей до 14 лет включительно
+</td>
+<td>
+15-17 жастағы балаларды қосқанда
+Дети 15-17 лет включительно
+</td>
+<td>
+басқа бөлiмшелерден
+из других отделений
+</td>
+<td>
+басқа бөлiмшелерге
+в другие отделения
+</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+</table>
+
+продолжение
+
+<table>
+<tr>
+<td colspan="3">
+ЕСЕП БЕРУ КЕЗЕҢI БОЙЫНША
+ЗА ОТЧЕТНЫЙ ПЕРИОД
+</td>
+<td rowspan="3">
+Есеп беру кезеңiнiң соңындағы науқастар саны
+Состояло больных на конец отчетного периода
+</td>
+<td rowspan="3">
+Барлық науқастардың өткiзген төсек – күндерi
+Проведено всеми больными койко – дней
+</td>
+<td rowspan="3">
+оның iшiнде ауыл тұрғындарының
+в т.ч. сельскими жителями
+</td>
+<td rowspan="3">
+Жабылу төсек – күндерiнiң саны
+Число койко – дней закрытия
+</td>
+<td rowspan="3">
+Сонымен қатар ауру балаларының қасында аналардың өткiзген төсек -* күндерi
+Кроме того, проведено койко – дней матерями при больных детях
+</td>
+</tr>
+<tr>
+<td colspan="2">
+Шығарылған науқастар
+Выписано больных
+</td>
+<td rowspan="2">қайтыс болғандар умерло</td>
+</tr>
+<tr>
+<td>Барлығы Всего</td>
+<td>
+олардың iшiнде басқа ауруханаға ауыстырылғандар
+в т.ч. переведено в другие стационары
+</td>
+</tr>
+<tr>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+</tr>
+</table>
+
+Қаңтар (Январь) Маусым (Июнь) Қазан (Октябрь)
+
+Ақпан (Февраль) Жарты жылда (За полугодие) Қараша (Ноябрь)
+
+Наурыз (Март) Шiлде (Июль) Желтоқсан (Декабрь)
+
+Сәуiр (Апрель) Тамыз (Август) Жыл бойы (За год)
+
+Мамыр (Май) Қыркүйек (Сентябрь)
+
+Қолы (Подпись) _______________
+
+1\. Жиынтық ведомость ай сайын әр бөлiмше, әр төсек бейiнi және бүкiл стационар бойынша (жеке № 016/е. нысаны бланкiлерiнде) № 007/ е.н. ай сайынғы есепке алу парағындағы айдың барлық күндерiнiң жазбасы негiзiнде толтырылады.
+
+2\. 2- бағанда айлар бойынша айлық орта төсектер саны, жыл бойынша – жылдық орта төсектер саны көрсетiледi.
+
+3\. Төсектердің орташа айлық санын анықтау үшiн (2-баған үшiн) № 007/е нысанының 3-бағанының 1 ай iшiндегi деректерi саналып, шыққан қосынды айдың күнтiзбелiк сандарына бөлiнедi; жылдық орта төсектер санын анықтау үшiн № 016/е нысанының 2-бағаны жазбаларының қосындысын 12-ге бөледi.
+
+4\. Науқастардың есеп беру кезеңдегі өткізген төсек-күндері тек № 007/ е.н. парақтарының жазбалары негізінде қойылады.
+
+5\. Науқастардың өткізген төсек-күндерінің саны № 007/ е.н. 15, 16- бағандарының деректерін, № 007/ е.н. 4-бағанның – жабылу төсек-күндер саны; № 007/ е.н. 18-бағанның – аналарының науқас балаларының қасында өткізген төсек-күндері санын санау арқылы шығарады.
+
+1\. Сводная ведомость заполняется ежемесячно по каждому отделению, по каждому профилю коек и по стационару в целом (на отдельных бланках ф. № 016/у) на основании подсчета записей за все дни месяца в листках ежемесячного учета ф. № 007/у.
+
+2\. В графе 2 по месяцам показывается среднемесячное число коек, за год – среднегодовое число коек.
+
+3\. Для определения среднемесячного числа коек (для гр. 2) подсчитываются за месяц данные графы 3 формы № 007/у и полученная сумма делится на число календарных дней месяца; для определения числа среднегодовых коек складываются записи в графе 2 ведомости № 016/у и полученная сумма делится на 12.
+
+4\. Число койко-дней, проведенных больными за отчетный период проставляется только на основании записей в листах по ф.007/у.
+
+5\. Число проведенных больными койко-дней получается путем подсчета данных графы 15 и 16 в форме № 007/у; число койко-дней закрытия –графа 4 в форме № 007/у; число койко-дней, проведенных матерями при больных детях- графа 18 в форме № 007/у
+
+<table>
+<tr>
+<td colspan="3">
+А5 форматы
+Формат А5
+КҰЖЖ бойынша ұйым коды _______________
+Код организации по ОКПО
+</td>
+<td rowspan="4"></td>
+<td colspan="2">
+А5 форматы
+Формат А5
+КҰЖЖ бойынша ұйым коды ___________________
+Код организации по ОКПО
+</td>
+</tr>
+<tr>
+<td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
+<td colspan="2" rowspan="2">
+Қазақстан Республикасы
+Денсаулық сақтау министрінің м.а.2010 жылғы 23 қарашадағы № 907 бұйрығымен бекітілген № 017/е нысанды медициналық құжаттама
+</td>
+<td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
+<td rowspan="2">Қазақстан Республикасы Денсаулық сақтау министрінің м.а. 2010 жылғы 23 қарашадағы № 907 бұйрығымен бекітілген № 018/е нысанды медициналық құжаттама</td>
+</tr>
+<tr>
+<td>Министерство здравоохранения Республики Казахстан</td>
+<td>Министерство здравоохранения Республики Казахстан</td>
+</tr>
+<tr>
+<td colspan="2">
+Ұйымның атауы
+Наименование организации
+</td>
+<td>Медицинская документация Форма № 017/у утверждена приказом и.о. Министра здравоохранения Республики Казахстан от 23 ноября 2010 года № 907</td>
+<td>
+Ұйымның атауы
+Наименование организации
+</td>
+<td>Медицинская документация Форма № 018/у утверждена приказом и.о. Министра здравоохранения Республики Казахстан от 23 ноября 2010 года № 907</td>
+</tr>
+<tr>
+<td colspan="3">
+Биологиялық өлiмдi констатациялау
+АКТIСІ
+АКТ
+констатации биологической смерти
+ТАӘ (ФИО)________________________
+Сырқатнаманың№.
+(№ истории болезни) _________________________
+Емдеу ұйымының атауы
+(Наименование лечебной организации)_____________________
+_________________________________
+_________________________________
+_________________________________
+Негізгі диагнозы (Основной диагноз) ________________________
+_________________________________
+Өлім себебі (Причина смерти)__________________________
+_________________________________
+Комиссия құрамы (Состав комиссии):
+Реанимация бөлiмшесiнiң меңгерушiсi (Заведующий реанимационным отделением) _________________________________
+_________________________________
+Дәрігер-реаниматолог (Врач-реаниматолог) _____________
+_________________________________
+Емдеуші дәрiгер (Лечащий врач) _________________________________
+Сот-медицина сарапшысы (Судебно-медицинский эксперт) _________________________________
+_________________________________
+_________________________________
+_________________________________
+Азаматтың биологиялық өлiмiн констатациялады
+(Констатировали биологическую смерть гражданина(ки) ____________в______ сағат(час)__________ мин. (дәл уақыты)
+(точное время) 20 ж. (г). «___» _______________
+Қолдары: (Подписи): _____________
+20 ж. (г). «__»__________________
+</td>
+<td></td>
+<td colspan="2">
+Транспланттау үшін донор-мәйіттен ағзалар мен тіндерді алу
+АКТІСІ
+АКТ
+об изъятии органов и тканей у донора-трупа для трансплантации
+Биологиялық өлімді констатациялау уақыты (Время констатации биологической смерти) ___________________________________________
+Негізгі диагнозы (Основной диагноз) ___________________________________________
+___________________________________________
+___________________________________________
+Өлімнің себебі (Причина смерти) ___________
+___________________________________________
+___________________________________________
+1. Донорлық ағзалар мен тiндердiң алынуы (бүйректер, жүрек, өкпелер, бауыр, т.б.)
+(Изъятие донорских органов и тканей (почки, сердце, легкие, печень,т.д.) ___________________________________________
+___________________________________________
+науқастың өлiмi (ми өлiмi) констатацияланған соң, рұқсат берген адам произведено после констатации смерти (смерти мозга) больного по разрешению) ____________________________
+___________________________________________
+(ұйымын, лауазымын, ТАӘ. көрсетiңiз)
+(указать организацию, должность, фамилию, имя, отчество)
+2. Донорлық ағзалар мен тiндердi алуды жүргiзген дәрiгер (лер)-хирург (тар) (Производил (и) изъятие донорских органов и тканей врач (и)-хирург (и)) _______________
+___________________________________________
+___________________________________________
+(ұйымын, лауазымын, ТАӘ. көрсетiңiз)
+(указать организацию, должность, фамилию, имя, отчество)
+3. Донорлық ағзаларды алу тәсiлi (құрал қолдану әрекеттерi мен операциялардың сипаттамасы)
+(Способ изъятия донорских органов (описание инструментальных вмешательств и операции)) ___________________________________________
+___________________________________________
+___________________________________________
+___________________________________________
+4. Донорлық ағзалар мен тiндердi алу кезiнде қатысқандар (При изъятии донорских органов и тканей присутствовали):
+-сот-медицина сарапшысы (судебно-медицинский эксперт) __________________________________
+-реаниматолог _____________________________
+___________________________________________
+5. Донорлық ағзалар мен тiндер қайда салынды, кімге берілді (Куда помещены и кому переданы донорские органы и ткани) ___________________________________________
+___________________________________________
+___________________________________________
+6. Алудың басталған уақыты (Время начала изъятия) __________________________________
+7. Алудың аяталған уақыты (Время окончания изъятия) __________________________________
+Қолдары:
+(Подписи):
+Реаниматолог ______________________________
+Сот-медициналық сарапшысы
+(Судебно-медицинский эксперт) _____________
+Хирург-дәрігер (лер)
+(Врач (и)-хирург (и) ______________________
+</td>
+</tr>
+</table>
+
+А4 форматы
+
+Формат А4
+
+<table>
+<tr>
+<td colspan="2"></td>
+<td>
+ҚҰЖЖ бойынша ұйым коды
+Код организации по ОКПО _______________
+</td>
+</tr>
+<tr>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрлігі
+Министерство здравоохранения Республики Казахстан
+</td>
+<td rowspan="2"></td>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрінің м.а.
+2010 жылғы 23 қарашадағы № 907
+бұйрығымен бекітілген № 019/е нысанды
+медициналық құжаттама
+</td>
+</tr>
+<tr>
+<td>
+Ұйымның атауы
+Наименование организации
+</td>
+<td>
+Медицинская документация Форма № 019/у
+утверждена приказом
+и.о. Министра здравоохранения
+Республики Казахстан
+от 23 ноября 2010 года № 907
+</td>
+</tr>
+</table>
+
+## Ми өлімі негізінде өлімді констатациялау АКТІСІ АКТ констатации смерти на основании смерти мозга
+
+ТАӘ (ФИО) _________________________________________________________
+
+Сырқатнама № (№ истории болезни) __________________________________
+
+Емдеу ұйымының атауы (Наименование лечебной организации) __________
+
+___________________________________________________________________
+
+Ми өліміне әкеп соққан ауруының диагнозы (Диагноз заболевания,
+
+приведшего к смерти мозга) ________________________________________
+
+___________________________________________________________________
+
+Комиссия құрамы (Комиссия в составе):
+
+Емдеуші анестезиолог-реаниматор дәрігер (Лечащего
+
+врача-анестезиолога-реаниматолога) ________________________________
+
+невропатолог (невропатолога)
+
+___________________________________________________________________
+
+маман-дәрігер (врача-специалиста)
+
+___________________________________________________________________
+
+азаматтың жағдайын қарап анықтады (обследовала состояние гражданина и
+
+установила):
+
+1\. Сананың жай-күйі мен сыртқы әсерлерге мақсатты серпілістері
+
+бойынша (По состоянию сознания и целенаправленных реакций на внешнее воздействие) _____________________________________________________
+
+__________________________________________________________________
+
+2\. Өз еркімен дем алуы бойынша (По состоянию самостоятельного
+
+дыхания) _________________________________________________________
+
+__________________________________________________________________
+
+2.1. Ажырату тесті кезінде (При разъединительном тесте) __________
+
+3\. Бұлшық еттер тонусы бойынша (По состоянию тонуса мышц) ________
+
+4\. Қарашықтар жағдайы бойынша (По состоянию зрачков) _____________
+
+__________________________________________________________________
+
+5\. Ми деңгейінде тұйықталатын сыртқы әсерлерге рефлекстік серпілістер
+
+бойынша (зерттелген серпілістерді көрсетіңіз, жұлын тарапынан жауап
+
+бар-жоғын көрсетіңіз) (По рефлекторным реакциям на внешние
+
+воздействия, замыкающиеся на уровне головного мозга (перечислить
+
+исследованные реакции, указать наличие спинальных ответов)) ______
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+6\. Дене температурасы (При температуре тела) _____________________
+
+7\. Артериялық қан қысымы (При артериальном давлении) _____________
+
+8\. Электроэнцефалографиялық зерттеулер деректері бойынша (По данным
+
+электроэнцефалографических исследований) _________________________
+
+__________________________________________________________________
+
+9\. Ангиография деректері бойынша (По данным ангиографии) _________
+
+__________________________________________________________________
+
+10\. Бақылау мерзімі (При сроке наблюдения в течение) _____________
+
+сағат, дүркін-дүркін неврологиялық қарау әр (часов с периодичностью
+
+неврологических осмотров через каждые) _______________ сағат сайын
+
+(часов).
+
+11\. Қосымша зерттеулердің деректерін (токсикологиялық, мидың зат
+
+алмасуын анықтау және.т.б.) ескере отырып (с учетом данных
+
+дополнительных исследований (токсикологических, определения
+
+метаболизма мозга и др.)) ________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+Ми өлімі нысанында өлімнің болуын констатациялады (Констатировала
+
+наступление смерти в форме смерти мозга)
+
+20__ жылғы (года) "__" _____ в ______ сағ.(час.) ____________ мин.
+
+Қолдары (Подписи):
+
+> *019/е нысанының артқы беті*  
+> *Оборотная сторона ф. № 019/у*
+
+> *Ескерту: қосымша зерттеулер туралы 8, 9, 11- тармақтардағы толтыру*
+
+өлім себебін констатациялау мен таңдап алынған бақылау
+
+режиміне байланысты (Нұсқауды қараңыз) жасалады.
+
+Примечания: Заполнение п.п. 8.9. и пункта 11 о дополнительных
+
+исследованиях производится в зависимости от констатации
+
+причины смерти и избранного режима наблюдения (см.
+
+Указания)
+
+### НҰСҚАУ
+
+Ми қызметінің толық, біржолата тоқтауы нәтижесінде қайтыс болуды анықтау.
+
+1\. Қайтыс болу – ми қызметінің толық, біржолата тоқтауымен сипатталатын дененің тұтастай өлу жағдайы.
+
+Қайтыс болуды анықтауда ми қызметінің тоқталуы және оның біржолата тоқтағаны дәлелденуімен қосылып шешуші анықтауыш болып табылады.
+
+2\. Қайтыс болудың келесі, болуы шартты және жеткілікті, ми қызметінің тоқтауын және оның біржолата тоқтағанын, жүрек қызметің жасанды түрде реанимациялық көмек (өкпені жасанды түрде желдету, жүрек-қан тамырларын ширату) шараларына қарамастан орын алған комплекс-белгілер негізінде анықталады.
+
+Сананың толық және орнықты түрде жоғалуы.
+
+Өкпені жасанды түрде желдету аппаратынан ажыратқанда өз еркімен тыныс алуының орнықты түрде жоғалуы.
+
+Барлық бұлшық еттердің тонусын жоғалтуы.
+
+Жұлыннан жоғары деңгейде түйісетін сыртқы әсерлерге барлық серпілістер мен барлық рефлекстердің жоғалуы.
+
+Көз қарашығының орнықты түрде кеңеюі мен серпілісінің жоғалуы; олардың ортадағы қалыпта бекітілуі.
+
+Гипотензиялық беталыс – с б.б. 80 мм және одан төмен, өздігінен дене қызуының төмендеуі.
+
+2.2. Барлық көрсетілген белгілер, егер олар 12 сағат бойы сақталса,
+
+егер осы уақыттан кейін электроэнцефалографияда мидың өзіндік
+
+және шақырылған (жасанды) электрлік белсенділігі жоғалса, онда
+
+олар қайтыс болуды анықтауға негіз болады.
+
+Электроэнцефалографияны қолдану мүмкіндігі болмаған жағдайда бақылау мерзімі 24 сағатқа дейін ұзартылады.
+
+2.3. 2.1.1.-2.1.6. -тармақтарының белгілерін қайтыс болуды белгілеу
+
+мақсатында қолдану, қайтыс болу себебін тек құжаттау арқылы
+
+анықтаған жағдайда қолданылады.
+
+2.4. 2.1.1.-2.1.6. белгілері жарамсыз:
+
+- дене қызуы 32о С және одан төмен болса
+
+- ішкі – және сыртқы улармен улану белгілері болса, оның ішінде
+
+есірткілік және седативті препараттар мен миорелаксанттар
+
+әсерінен болса.
+
+- 6 жасқа дейінгі балаларға, олар үшін сәйкес келетін
+
+диагностика әлі қалыптаспаған.
+
+2.5. Қайтыс болуды ми өлімі негізінде анықтау кезінде, бұл жағдайдың
+
+себебі бұлыңғыр болса, оның ішінде улануы туралы күдік болса,
+
+онда маңызды әдіс болып табылатын төрт магистральді артерия
+
+бойынша (екі күре тамыр мен екі омыртқа тамыры) мидағы қан
+
+айналымының тоқтауы. Бұл жағдайда ми өлімінің барлық белгілері
+
+болса (2.1.1.-2.1.6. т.т.) тамырлармен қан айналымының тоқтауы
+
+ангиографиялық әдіспен әр 30 минут сайын үш рет расталады.
+
+Электроэнцефалографиялық тіркеу міндет емес.
+
+3. Сыртқы улармен улану жағдайында, улы заттың табиғаты анықталған
+
+   соң, қайтыс болу ми өлімі негізінде анықталу мүмкіндігі:
+
+3.1. 2.1.1.-2.1.6.- тармақтарында көрсетілген клиникалық
+
+белгілердің сақталуы 3 тәуліктен кем болмаса;
+
+3.2. Жоғарыда көрсетілген (2.1.1.-2.1.6. т.т.) клиникалық
+
+белгілер қанда улы заттар жоғалғаны зертханалық зерттеулер
+
+деректерімен құжатталған соң 24 сағат бойы сақталса.
+
+3.3. Көрсетілген клиникалық белгілер (2.1.6. т.) болса және 4
+
+магистральді тамырда 30 минут бойы қан айналымының тоқтауы
+
+ангиографиялық әдіспен дәлелденсе.
+
+4\. Ішкі улармен уланған жағдайда (бауыр энцефалопатиясы,
+
+гипосмостық кома, уремияның соңғы сатысы және т.б.), ми өлімі
+
+диагнозы зат алмасуының бұзылуын түзеуге арналған барлық
+
+шаралар қолданылып біткен соң ғана қойылады. Мұндайда диагноз
+
+сыртқы улармен улану жағдайында көрсетілген ми өлімін
+
+диагностикалаудың 3.1. және 3.2. тармақтары негізінде
+
+қойылады.
+
+5\. Бақылау мерзімін санауды бастауды 2.1.1.-2.1.6. -тармақтарының
+
+белгілері мен егер тіркелсе электроэнцефалография деректері
+
+негізінде емдеуші дәрігер мен невропатолог анықтайды.
+
+6\. Бақылау мерзімі кезінде науқас тұрақты қадағалауда болады: 12
+
+және 24 сағаттық қадағалау мерзімінде неврологиялық қарау 2
+
+сағатта 1 реттен кем болмауы, 3 тәуліктік қадағалау мерзімінде
+
+– 3 сағатта 1 реттен кем болмауы тиіс.
+
+7\. Қайтыс болуы ми өлімі формасы бойынша болғаны жайлы шешімді
+
+құрамы төмендегідей дәрігерлер комиссиясы қабылдайды: емдеуші
+
+дәрігер-анестезиолог-реаниматолог және невропатолог.
+
+Реаниматологтың жұмыс тәжірибесі 5 жылдан кем болмауы керек.
+
+Арнаулы зерттеулер жүргізілгенде (электроэнцефалографиямен
+
+тіркеу, ангиография) комиссия құрамына сол зерттеулер маманы
+
+кіреді. Шешімді реанимация бөлімшесінің меңгерушісі немесе оны
+
+алмастырушы адам бекітеді. Комиссия мүшелері ми өлімі негізінде
+
+қайтыс болуды анықтау туралы акт құрастырып, оған қолдарын
+
+қояды. Комиссияға трансплантолог-дәрігер кіре алмайды.
+
+8\. Қайтыс болу кезі жоғарыда көрсетілген қадағалау мерзімінің
+
+бітуіне сәйкес дәрігерлер комиссиясының есебі бойынша
+
+саналады.
+
+9\. Қайтыс болуы анықталған соң реанимациялық шараларды тоқтату
+
+және өкпені жасанды түрде желдету аппаратынан ажыратуды
+
+науқасты емдеген дәрігер жүзеге асыра алады.
+
+## УКАЗАНИЯ По констатации смерти в результате полного необратимого прекращения функции головного мозга (к ф. № 019/у)
+
+1\. Смерть – это состояние гибели организма как целого с полным необратимым прекращением функций головного мозга. Решающим для констатации смерти является сочетание прекращения функции головного мозга с доказательствами необратимости этого прекращения.
+
+2\. Смерть констатируется на основании следующего комплекса-признаков, наличие которых необходимо и достаточно для установления как факта полного прекращения функционирования головного мозга, так и необратимости этого состояния даже при искусственно поддерживаемой с помощью реанимационных мероприятий сердечной деятельности (искусственная вентиляция легких, сердечно-сосудистые стимуляторы):
+
+Полное и устойчивое отсутствие сознания;
+
+Устойчивое отсутствие самостоятельного дыхания при отключении
+
+аппарата искусственной вентиляции легких;
+
+Атония всех мышц;
+
+Исчезновение любых реакций на внешнее раздражение и любых видов
+
+рефлексов, замыкающихся выше уровня спинного мозга;
+
+Устойчивое расширение и реактивность зрачков и их фиксация в
+
+среднем положении;
+
+Тенденция к гипотензии – 80 мм. рт.ст. и ниже, спонтанная
+
+гипотермия.
+
+2.2. Все указанные признаки дают основания для констатации смерти
+
+при условии, если сохраняются в течение не менее 12 часов и
+
+если по истечению этого времени на электроэнцефалографии
+
+зарегистрировано полное отсутствие спонтанной и вызванной
+
+электрической активности мозга. При невозможности использования
+
+электроэнцефалографии срок наблюдения продлевается до 24
+
+часов;
+
+2.3. Использование признаков в п. 2.1.1.-2.1.6. в целях установления
+
+смерти возможно только при условии документированного
+
+определения причинны смерти;
+
+2.4. Признаки 2.1.1.-2.1.6. не действительны:
+
+- при температуре тела 32оС и ниже
+
+- при наличии признаков эндо- и экзогенной интоксикации, в
+
+частности, при действии наркотических и седативных препаратов и
+
+миорелаксантов;
+
+- у детей до 6 лет, для которых соответствующая диагностика еще
+
+не разработана.
+
+2.5. Существенным способом констатации смерти на основании смерти
+
+мозга в случаях неясности причин этого состояния, в том числе и
+
+при подозрении на интоксикацию, является установление
+
+прекращения кровообращения в мозге по всем четырем
+
+магистральным артериям (двум сонным и двум позвоночным). В этом
+
+случае факт прекращения циркуляции по сосудам подтверждается
+
+ангиографически трижды с интервалом времени 30 минут при
+
+наличии всех признаков смерти мозга (пп. 2.1.1.-2.1.6.). При
+
+этом регистрация электроэнцефалографией не обязательна.
+
+3. В случаях экзогенной интоксикации после определения природы
+
+   токсического вещества смерть на основании мозга может быть
+
+   констатирована:
+
+   При сохранении указанных выше (пп. 2.1.1.-2.1.6.) клинических
+
+   признаков в течение не менее 3 суток;
+
+   При сохранении указанных выше клинических признаков (пп.
+
+   2.1.1.-2.1.6.) в течении 24 часов после исчезновения
+
+   токсических веществ в крови, что документируется данными
+
+   лабораторных исследований;
+
+   При наличии указанных клинических признаков (пп 2.1.6.) и
+
+   ангиографически доказанном прекращении кровообращения по 4-м
+
+   магистральным сосудам в течение 30 минут.
+
+4. В случае эндогенной интоксикации (печеночная энцефалопатия,
+
+   гипоосмолярная кома, терминальная уремия и др.) диагноз смерти
+
+   мозга устанавливается после принятия всех возможных мер,
+
+   направленных на коррекцию метаболических нарушений. В этом
+
+   случае такой диагноз устанавливается на основании пп. 3.1. и
+
+3.2., указанных для диагностики смерти мозга в случае
+
+экзогенной интоксикации.
+
+5. Начало отсчета срока наблюдения устанавливается лечащим врачом
+
+   и невропатологом на основании признаков 2.1.1.-2.1.6. и данных
+
+   электроэнцефалографии, если она регистрировалась.
+
+6. В течение контрольного срока больной находится под постоянным
+
+   наблюдением с периодичностью неврологического осмотра не реже,
+
+   чем 1 раз в два часа при 12 и 24 часовом сроке наблюдения и не
+
+   реже 3 часов – при 3-х суточном сроке наблюдения.
+
+7. Решение о наступлении смерти в форме смерти мозга принимается
+
+   комиссией врачей в составе: лечащего врача – анестезиолога –
+
+   реаниматолога с опытом работы по реанимации не менее 5 лет и
+
+   невропатолога. При проведении специальных исследований
+
+   (регистрация электроэнцефалографией, ангиография) в состав
+
+   комиссии включается соответствующий специалист. Решение
+
+   утверждается зав. отделением реанимации или лицом его
+
+   заменяющим. Члены комиссии составляют и подписывают акт о
+
+   констатации смерти на основании смерти мозга. В комиссию не
+
+   может входить врач-трансплантолог.
+
+8. Момент смерти отсчитывается от времени, когда по расчетам
+
+   комиссии врачей истекают указанные выше сроки наблюдения.
+
+9. После констатации смерти могут быть прекращены реанимационные
+
+мероприятия и выключен аппарат искусственной вентиляции легких,
+
+что осуществляет врач, лечащивший больного.
+
+А5 форматы
+
+Формат А5
+
+<table>
+<tr>
+<td colspan="2"></td>
+<td>
+ҚҰЖЖ бойынша ұйым коды
+Код организации по ОКПО _______________
+</td>
+</tr>
+<tr>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрлігі
+Министерство здравоохранения Республики Казахстан
+</td>
+<td rowspan="2"></td>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрінің м.а. 2010 жылғы 23 қарашадағы № 907 бұйрығымен бекітілген
+№ 021/е нысанды
+медициналық құжаттама
+</td>
+</tr>
+<tr>
+<td>
+Ұйымның атауы
+Наименование организации
+</td>
+<td>
+Медицинская документация Форма № 021/у
+утверждена приказом
+и.о. Министра здравоохранения
+Республики Казахстан
+от 23 ноября 2010 года № 907
+</td>
+</tr>
+</table>
