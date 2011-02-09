@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/51669/rus/20.01.2011
+source: https://zan.gov.kz/client/#!/doc/51669/rus/09.02.2011
 ---
 
 # Некоторые вопросы Единой бюджетной классификации Республики Казахстан
