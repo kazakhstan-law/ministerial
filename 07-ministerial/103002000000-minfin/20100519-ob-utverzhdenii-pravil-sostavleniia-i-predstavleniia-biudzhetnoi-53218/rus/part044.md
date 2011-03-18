@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/53218/rus/19.05.2010
+source: https://zan.gov.kz/client/#!/doc/53218/rus/18.03.2011
 ---
 
 ## Расчет расходов государственных органов на горюче-смазочные материалы
