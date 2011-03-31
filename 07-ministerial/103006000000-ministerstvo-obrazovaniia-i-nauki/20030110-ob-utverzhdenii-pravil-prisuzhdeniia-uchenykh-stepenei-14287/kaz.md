@@ -18,6 +18,11 @@ caused_by:
   title: Дәрежелерді беру қағидаларын бекіту туралы
   link: https://zan.gov.kz/client/#!/doc/59146/kaz
 source: https://zan.gov.kz/client/#!/doc/14287/kaz/31.03.2011
+repealed_on: 2012-07-01
+repealed_by:
+  code: '59146'
+  title: Дәрежелерді беру қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/59146/kaz
 ---
 
 # Ғылыми дәрежелер беру ережелерін бекіту туралы

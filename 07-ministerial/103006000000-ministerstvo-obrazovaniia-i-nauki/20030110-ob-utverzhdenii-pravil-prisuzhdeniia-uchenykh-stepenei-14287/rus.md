@@ -18,6 +18,11 @@ caused_by:
   title: Об утверждении Правил присуждения степеней
   link: https://zan.gov.kz/client/#!/doc/59146/rus
 source: https://zan.gov.kz/client/#!/doc/14287/rus/31.03.2011
+repealed_on: 2012-07-01
+repealed_by:
+  code: '59146'
+  title: Об утверждении Правил присуждения степеней
+  link: https://zan.gov.kz/client/#!/doc/59146/rus
 ---
 
 # Об утверждении Правил присуждения ученых степеней
