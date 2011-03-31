@@ -1,11 +1,11 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/47659/rus/26.04.2010
+source: https://zan.gov.kz/client/#!/doc/47659/rus/31.03.2011
 ---
 
 ## Государственный реестр селекционных достижений, допущенных к использованию в Республике Казахстан
 
-> *Сноска. Гос. реестр с изменениями, внесенными приказом Министра сельского хозяйства РК от 26.04.2010 № 291 (порядок введения в действие см. п. 3).*
+> *Сноска. Гос. реестр с изменениями, внесенными приказами Министра сельского хозяйства РК от 26.04.2010 № 291 (порядок введения в действие см. п. 3); от 31.03.2011 № 06-2/153 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -211,6 +211,17 @@ Triticum aestivum L. emend. Fiori et Paol.
 <td></td>
 </tr>
 <tr>
+<td>КОНДИТЕРСКАЯ</td>
+<td>2011</td>
+<td>6,14</td>
+<td>29</td>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>
 КРАСНОВОДОПАДСКАЯ
 210
@@ -263,6 +274,17 @@ Triticum aestivum L. emend. Fiori et Paol.
 <td>9</td>
 <td>18</td>
 <td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>МЕРЕКЕ 70</td>
+<td>2011</td>
+<td>3,6</td>
+<td>18</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -401,6 +423,17 @@ Triticum aestivum L. emend. Fiori et Paol.
 <td></td>
 </tr>
 <tr>
+<td>ФАРАБИ</td>
+<td>2011</td>
+<td>3</td>
+<td>18</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ЭРИТРОСПЕРМУМ 350</td>
 <td>1998</td>
 <td>3</td>
@@ -453,7 +486,7 @@ Triticum durum Desf.
 <tr>
 <td>КАЗАХСТАНСКИЙ ЯНТАРЬ</td>
 <td>2011</td>
-<td>3</td>
+<td>3,6,9</td>
 <td>18</td>
 <td>03</td>
 <td></td>
@@ -476,6 +509,17 @@ Hordeum vulgare L. sensu lato
 <td></td>
 <td></td>
 <td>дв</td>
+<td></td>
+</tr>
+<tr>
+<td>НЕКТАРИЯ</td>
+<td>2011</td>
+<td>3</td>
+<td>316</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -571,6 +615,17 @@ Secale cereale
 1,2,5,7,
 10,12,13
 </td>
+<td>114</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>САРАТОВСКАЯ 7</td>
+<td>2011</td>
+<td>7</td>
 <td>114</td>
 <td>04</td>
 <td></td>
@@ -814,6 +869,17 @@ Triticum aestivum L. emend. Fiori et Paol
 <td></td>
 </tr>
 <tr>
+<td>ЕРТIC 7</td>
+<td>2011</td>
+<td>12</td>
+<td>30</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ЕРТIC 97</td>
 <td>2003</td>
 <td>12</td>
@@ -885,7 +951,7 @@ Triticum aestivum L. emend. Fiori et Paol
 <tr>
 <td>КАЗАХСТАНСКАЯ 15</td>
 <td>1993</td>
-<td>1,12,13</td>
+<td>1,12</td>
 <td>18,30</td>
 <td>05</td>
 <td></td>
@@ -993,6 +1059,17 @@ Triticum aestivum L. emend. Fiori et Paol
 <td></td>
 </tr>
 <tr>
+<td>ЛЮБАВА 5</td>
+<td>2011</td>
+<td>10</td>
+<td>251</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ЛЮТЕСЦЕНС 32</td>
 <td>1996</td>
 <td>10,12</td>
@@ -1006,7 +1083,7 @@ Triticum aestivum L. emend. Fiori et Paol
 <tr>
 <td>ЛЮТЕСЦЕНС 90</td>
 <td>1996</td>
-<td>1,13</td>
+<td>1</td>
 <td>18,13</td>
 <td>04</td>
 <td></td>
@@ -1052,6 +1129,17 @@ Triticum aestivum L. emend. Fiori et Paol
 <td>2004</td>
 <td>9,14</td>
 <td>16,18,255</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>НАРГИЗ</td>
+<td>2011</td>
+<td>5</td>
+<td>8</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -1149,7 +1237,7 @@ Triticum aestivum L. emend. Fiori et Paol
 <tr>
 <td>ОМСКАЯ 36</td>
 <td>2009</td>
-<td>10,13</td>
+<td>1,10,13</td>
 <td>138,282</td>
 <td>03</td>
 <td></td>
@@ -1215,7 +1303,7 @@ Triticum aestivum L. emend. Fiori et Paol
 <tr>
 <td>САРАТОВСКАЯ 29</td>
 <td>1957</td>
-<td>1,2,5,8,12,13</td>
+<td>1,5,8,12</td>
 <td>114</td>
 <td>04</td>
 <td></td>

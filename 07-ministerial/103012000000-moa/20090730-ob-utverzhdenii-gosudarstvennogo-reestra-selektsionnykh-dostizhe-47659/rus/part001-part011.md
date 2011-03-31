@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/47659/rus/26.04.2010
+source: https://zan.gov.kz/client/#!/doc/47659/rus/31.03.2011
 ---
 
 <table>
@@ -194,7 +194,7 @@ Medicado L.
 ЖЕМЧУЖИНА
 </td>
 <td>2011</td>
-<td>3, 10, 12</td>
+<td>3,8,10,12</td>
 <td>24</td>
 <td></td>
 <td></td>
@@ -281,6 +281,31 @@ Medicado L.
 <td></td>
 </tr>
 <tr>
+<td>
+КРАСНОВОДОПАДСКАЯ
+ПОЛИВНАЯ
+</td>
+<td>2011</td>
+<td>14</td>
+<td>29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЛАЗУРНАЯ</td>
+<td>2011</td>
+<td>5,12,13</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ПРОГРЕСС</td>
 <td>1993</td>
 <td>9</td>
@@ -296,6 +321,17 @@ Medicado L.
 <td>2005</td>
 <td>1,5</td>
 <td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>САРҚЫРА</td>
+<td>2011</td>
+<td>3</td>
+<td>29</td>
 <td></td>
 <td></td>
 <td></td>
@@ -368,6 +404,23 @@ Medicado L.
 <td>1990</td>
 <td>3,5</td>
 <td>172</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">
+Лядвенец рогатый
+Lotus corniculatus L.
+</td>
+</tr>
+<tr>
+<td>АҚТОҒАЙ 1</td>
+<td>2011</td>
+<td>12</td>
+<td>30</td>
 <td></td>
 <td></td>
 <td></td>
@@ -497,10 +550,7 @@ Onobrychis viciifolia Scop.
 <tr>
 <td>ФЛАМИНГО</td>
 <td>2010</td>
-<td>
-3 (*), 12,
-13 (*)
-</td>
+<td>3,8,12,13</td>
 <td>19</td>
 <td></td>
 <td></td>
@@ -599,6 +649,17 @@ Agropyron et Schult.
 <td>1992</td>
 <td>1,13</td>
 <td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ДАЛАЛЫК</td>
+<td>2011</td>
+<td>12</td>
+<td>30</td>
 <td></td>
 <td></td>
 <td></td>
@@ -742,6 +803,20 @@ Agropyron et Schult.
 <td></td>
 </tr>
 <tr>
+<td>
+ШОРТАНДИНСКИЙ
+ШИРОКОКОЛОСЫЙ
+</td>
+<td>2011</td>
+<td>13</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <th>
 Овсяница луговая
 Festuca pratensis Huds.
@@ -859,7 +934,7 @@ Agropyrum glacum R. et Sch.
 СИЗЫЙ
 </td>
 <td>1998</td>
-<td>8</td>
+<td>8,13</td>
 <td>24</td>
 <td></td>
 <td></td>
@@ -1509,6 +1584,23 @@ Eurotia ceratoides (L.) C.A. Mey
 <td></td>
 </tr>
 <tr>
+<td colspan="9">
+Астрагал шарагаловый
+Astragalus globiceps Bunge
+</td>
+</tr>
+<tr>
+<td>ТАСПА 52</td>
+<td>2011</td>
+<td>9,14</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <th>
 Чогон
 Salsola subaphylla C.A. Mey
@@ -1579,6 +1671,23 @@ C.​aphyllum (Pall) Gurke
 <tr>
 <td>ӘСЕМ</td>
 <td>2004</td>
+<td>14</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">
+Жузгун мелкоплодный
+Calligonum microcarpum
+</td>
+</tr>
+<tr>
+<td>ҚЫЗЫЛҚҰМ 42</td>
+<td>2011</td>
 <td>14</td>
 <td>20</td>
 <td></td>
