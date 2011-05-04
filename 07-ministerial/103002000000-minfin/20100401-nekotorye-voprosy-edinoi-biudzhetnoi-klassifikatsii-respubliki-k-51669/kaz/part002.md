@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/51669/kaz/29.04.2011
+source: https://zan.gov.kz/client/#!/doc/51669/kaz/04.05.2011
 ---
 
 ## 2) Бюджет шығыстарының функционалдық сыныптамасы

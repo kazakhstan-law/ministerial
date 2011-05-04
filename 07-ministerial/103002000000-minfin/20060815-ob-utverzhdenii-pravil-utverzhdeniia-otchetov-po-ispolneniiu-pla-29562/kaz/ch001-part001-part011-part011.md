@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/29562/kaz/19.03.2008
+source: https://zan.gov.kz/client/#!/doc/29562/kaz/04.05.2011
 ---
 
 ## Еншілес ұйымның әкімшілік шығыстары жөніндегі есеп

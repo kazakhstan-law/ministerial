@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/43204/rus/25.02.2011
+source: https://zan.gov.kz/client/#!/doc/43204/rus/04.05.2011
 ---
 
 ## Динамика поступлений по налогам и другим обязательным платежам в бюджет за 20__ г.

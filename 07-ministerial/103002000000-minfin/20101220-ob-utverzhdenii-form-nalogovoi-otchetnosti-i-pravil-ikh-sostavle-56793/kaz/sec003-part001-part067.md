@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56793/kaz/14.04.2011
+source: https://zan.gov.kz/client/#!/doc/56793/kaz/04.05.2011
 ---
 
 ## № 4.3 Нысаны Кірістер және шығындар туралы есеп
