@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/54212/rus/22.07.2010
+source: https://zan.gov.kz/client/#!/doc/54212/rus/18.05.2011
 ---
 
 ## План выбытия денег
