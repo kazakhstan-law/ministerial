@@ -1,24 +1,49 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
+source: https://zan.gov.kz/client/#!/doc/48665/kaz/31.05.2011
 ---
 
 ## N 1 бөлім "Мамандандырылған ауданаралық әкімшілік соттар бойынша"
 
+> *Ескерту. 1-бөлім жаңа редакцияда - ҚР Бас Прокурорының 2011.05.31 № 51 (ресми жарияланған күнінен бастап қолданысқа енеді) Бұйрығымен.*
+
 <table>
 <tr>
-<td colspan="2"></td>
-<td></td>
-<td>Есепті кезең басталуына қалдық</td>
-<td>есепті кезеңде түскен істер</td>
-<td>Қаралған әкімшілік істердің барлығы</td>
-<td>соның ішінде мерзімін бұзып</td>
-<td>Қаулылары шығарылған тұлғалар саны (тұлғалар бойынша)</td>
-<td>іс жүргізуді тоқтату туралы</td>
-<td>әкімшілік жазаны қолдану туралы</td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+<td rowspan="3">Есепті кезең басталуына қалдық</td>
+<td rowspan="3">есепті кезеңде түскен істер</td>
+<td rowspan="3">Қаралған әкімшілік істердің барлығы</td>
+<td rowspan="3">сонымен қатар, ҚР ӘҚБК 647-бабында көзделген мерзімненастам</td>
+<td rowspan="3">Қаулылары шығарылған тұлғалар саны (тұлғалар бойынша)</td>
+<td rowspan="3">іс жүргізуді тоқтату туралы (істерде)</td>
+<td rowspan="3">әкімшілік жазаны қолдану туралы (істерде)</td>
+<td colspan="14">Қолданылған әкімшілік жаза</td>
 </tr>
 <tr>
-<th colspan="2">А</th>
+<td colspan="7">негізгісі</td>
+<td colspan="7">қосымшасы</td>
+</tr>
+<tr>
+<td>ескерту</td>
+<td>айыппұл</td>
+<td>қамауға алу</td>
+<td>арн.құқықтан айыру</td>
+<td>қуып шығу</td>
+<td>лицензиядан айыру</td>
+<td>қызм. тоқтата тұру, тыйым салу</td>
+<td>арн. құқықтан айыру</td>
+<td>қуып шығу</td>
+<td>лицензиядан айыру</td>
+<td>қызм. тоқтата тұру, тыйым салу</td>
+<td>алып қою</td>
+<td>тәркілеу</td>
+<td>мәжбүрлеп бұзу</td>
+</tr>
+<tr>
+<th>А</th>
+<th></th>
 <th>Б</th>
 <th>1</th>
 <th>2</th>
@@ -27,10 +52,38 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <th>5</th>
 <th>6</th>
 <th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
 </tr>
 <tr>
 <td colspan="2">Әкімшілік құқық бұзушылықтардың барлығы</td>
 <td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49,9 +102,23 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">солардың ішінен</td>
+<td rowspan="5">солардың ішінен</td>
 <td>Ұрып-соғу (79-1-бап)</td>
 <td>3</td>
 <td></td>
@@ -61,10 +128,38 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Денсаулыққа абайсызда орташа ауырлықтағы зиян келтiру (79-3-бап)</td>
+<td>Денсаулыққа зиян келтiру (79-3-бап)</td>
 <td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -83,10 +178,63 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Отбасы-тұрмыстық қатынастар саласындағы құқыққа қарсы іс-әрекеттер (79-5-бап)</td>
+<td>Отбасы-тұрмыстыққатынастар саласындағы құқыққа қарсы іс-әрекеттер (79-5-бап)</td>
 <td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Еңбекке жарамсыз жұбайын (зайыбын) асыраудан әдейi жалтару (79-6-бап)</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -97,7 +245,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Жеке адамның құқықтарына қол сұғатын әкімшілік құқық бұзушылық (10-тарау)</td>
-<td>7</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -107,9 +269,23 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td rowspan="9">солардың ішінен</td>
+<td rowspan="13">солардың ішінен</td>
 <td>Қазақстан Республикасының азаматтығын алуға кедергi келтiру (80-бап)</td>
-<td>8</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -120,7 +296,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Тiл туралы заңдарды бұзғаны үшiн жауаптылық (81-бап)</td>
-<td>9</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -131,7 +321,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Жеке тұлғалардың тiл таңдау құқықтарын шектеу (82-бап)</td>
-<td>10</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -142,7 +346,46 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Еркiн жүрiп-тұру және тұрғылықты жер таңдау құқығын шектеу (83-бап)</td>
-<td>11</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Қоғамдық бiрлестiктердiң қызметiне кедергi жасау (83-1- бап)</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -153,7 +396,46 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Жеке тұлғаға ақпарат беруден бас тарту, сол сияқты ақпараттық ресурстарға қол жеткізу құқығын заңсыз шектеу (84-бап)</td>
-<td>12</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Дәрiгерлiк құпияны жария ету (85-3-бап)</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -164,7 +446,71 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қылмыс жасады деген кінәлілік туралы мәліметтердi тарату (86-бап)</td>
-<td>13</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Қызметкерлер өкілдерінің заңды қызметіне кедергі келтіру (87-3-бап)</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Еңбекті қорғау қағидаларын бұзу (87-4-бап)</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -175,7 +521,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Мемлекеттiк қызметке қол жеткiзуге тең құқықты iске асыруға кедергi келтiру (95-бап)</td>
-<td>14</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -186,7 +546,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Жеке тұлғаның берген шағымын оған зиянды болатындай етiп бағыттау (96-бап)</td>
-<td>15</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -197,7 +571,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Ереуiлге қатысуға немесе оған қатысудан бас тартуға мәжбүрлеу (97-бап)</td>
-<td>16</td>
+<td>21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -208,7 +596,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Азаматтардың сайлау құқықтарына қол сұғатын әкімшілік құқық бұзушылық (11-тарау)</td>
-<td>17</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -220,7 +622,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <tr>
 <td rowspan="20">солардың ішінен</td>
 <td>Лауазымды адамдардың сайлау комиссиясына (референдум комиссиясына) қажеттi мәлiметтер мен материалдарды табыс етпеуi немесе комиссияның шешiмiн орындамауы (98-бап)</td>
-<td>18</td>
+<td>23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -231,7 +647,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Үгiтке тыйым салынған кезеңде оны жүргiзу (99-бап)</td>
-<td>19</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -242,7 +672,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Үгiтке тыйым салынған кезеңде оны жүргiзу (99-1-бап)</td>
-<td>20</td>
+<td>25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -253,7 +697,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Кандидаттар, саяси партиялар туралы көрiнеу жалған мәлiметтер тарату (100-бап)</td>
-<td>21</td>
+<td>26</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -264,7 +722,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Сайлау комиссиясы (референдум комиссиясы) мүшесiнiң, сенiм бiлдiрiлген адамның және байқаушының құқықтарын бұзу (101-бап)</td>
-<td>22</td>
+<td>27</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -275,7 +747,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Азаматтардың сайлаушылар тiзiмiмен танысу құқығын бұзу (102-бап)</td>
-<td>23</td>
+<td>28</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -286,7 +772,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Сайлаушылар туралы дәйектемесiз деректер, сондай-ақ сайлаушылардың дәйектемесiз тiзiмдерiн беру (102-1-бап)</td>
-<td>24</td>
+<td>29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -297,7 +797,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Тең сайлау құқығы туралы талапты бұзу (102-2-бап)</td>
-<td>25</td>
+<td>30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -308,7 +822,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Шетелдiктердiң, азаматтығы жоқ адамдардың, шетелдiк заңды тұлғалардың және халықаралық ұйымдардың кандидаттарды, партиялық тiзiмдерiн ұсынған саяси партияларды ұсынуға және сайлауға, сайлауда белгiлi бiр нәтижеге қол жеткiзуге кедергi болатын және (немесе) ықпал ететін қызметтi жүзеге асыруы (102-3-бап)</td>
-<td>26</td>
+<td>31</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -319,7 +847,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Азаматтарға басқа адамдар үшiн дауыс беруге мүмкiндiк жасау мақсатында сайлау бюллетеньдерiн (дауыс беруге арналған бюллетеньдердi) беру (103-бап)</td>
-<td>27</td>
+<td>32</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -330,7 +872,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Жұмыс берушiнiң сайлауға (республикалық референдумға) қатысу үшiн демалыс беруден бас тартуы (104-бап)</td>
-<td>28</td>
+<td>33</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -341,7 +897,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Бұқаралық ақпарат құралдары арқылы сайлау алдында үгiт жүргiзу шарттарын бұзу (105-бап)</td>
-<td>29</td>
+<td>34</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -352,7 +922,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Бүркеншiк үгiт материалдарын әзiрлеу немесе тарату (106-бап)</td>
-<td>30</td>
+<td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -363,7 +947,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Үгiт материалдарын қасақана жою, бүлдiру (107-бап)</td>
-<td>31</td>
+<td>36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -374,7 +972,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Сайлауды (республикалық референдумды) әзiрлеу мен өткiзуге қаражат жұмсау туралы есептердi бермеу немесе жарияламау (108-бап)</td>
-<td>32</td>
+<td>37</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -385,7 +997,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Сайлау қорларынан бөлек, сайлау науқанын қаржыландыру немесе оған өзге де материалдық көмек көрсету (108-1-бап)</td>
-<td>33</td>
+<td>38</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -396,7 +1022,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Сайланбалы мемлекеттiк қызметке кандидаттың не саяси партияның шет мемлекеттерден, ұйымдардан, азаматтардан және азаматтығы жоқ адамдардан қайырмалдықтар алуы (109-бап)</td>
-<td>34</td>
+<td>39</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -407,7 +1047,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Жеке және заңды тұлғалардың кандидаттарға, саяси партияларға олардың жазбаша келiсiмiнсiз қызмет көрсетуi (109-1-бап)</td>
-<td>35</td>
+<td>40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -418,7 +1072,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Дауыс беру қорытындылары туралы немесе сайлау нәтижелерi туралы мәлiметтердi табыс етпеу не жарияламау (110-бап)</td>
-<td>36</td>
+<td>41</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -429,7 +1097,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Сайлауға байланысты қоғамдық пiкiрге сұрау салу iсiн жүргiзу шарттарын бұзу (110-1-бап)</td>
-<td>37</td>
+<td>42</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -440,7 +1122,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">12-тарау. Кәмелетке толмағандардың құқығына қол сұғатын әкімшілік құқық бұзушылық</td>
-<td>38</td>
+<td>43</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -452,7 +1148,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <tr>
 <td>с.і.</td>
 <td>Кәмелетке толмағандардың түнгі уақытта ойын-сауық мекемелерінде болуына жол беру (112-1-бап)</td>
-<td>39</td>
+<td>44</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -463,7 +1173,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Меншікке қол сұғатын әкімшілік құқық бұзушылық (13-тарау)</td>
-<td>40</td>
+<td>45</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -473,9 +1197,23 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td rowspan="4">солардың ішінен</td>
+<td rowspan="6">солардың ішінен</td>
 <td>Суға мемлекеттік меншік құқығын бұзу (124-бап 1 б.)</td>
-<td>41</td>
+<td>46</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -486,7 +1224,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Энергияны немесе суды заңсыз пайдалану (127-бап)</td>
-<td>42</td>
+<td>47</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -497,7 +1249,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Авторлық және сабақтас құқықтарды бұзу (129-бап)</td>
-<td>43</td>
+<td>48</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -508,7 +1274,71 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Бөтен бiреудiң мүлкiн ұсақ-түйектеп ұрлау (136-бап)</td>
-<td>44</td>
+<td>49</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Алдау немесе сенiмге қиянат жасау жолымен мүлiктiк залал келтiру (136-1-бап)</td>
+<td>50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Бөтен біреудің мүлкiн абайсызда жою немесе бүлдiру (136-2-бап)</td>
+<td>51</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -519,7 +1349,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Кәсіпкерлік қызмет саласындағы әкімшілік құқық бұзушылық (14-тарау)</td>
-<td>45</td>
+<td>52</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -529,9 +1373,23 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td rowspan="11">солардың ішінен</td>
+<td rowspan="15">солардың ішінен</td>
 <td>Шикізатты, азық-түлік және өнеркәсіп тауарларын Қазақстан Республикасының шегінен тыс жерге әкету немесе жіберу ережелерін бұзу (140-бап 2 б.)</td>
-<td>46</td>
+<td>53</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -542,7 +1400,46 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Кәсіпкерлік қызметтің тыйым салынған түрлерімен айналысу (143-бап)</td>
-<td>47</td>
+<td>54</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Көрiнеу жалған жарнама (144-1-бап)</td>
+<td>55</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -553,7 +1450,46 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Бөтен тауар таңбасын, қызмет көрсету таңбасын, тауар шығарылған жердің атауын немесе фирмалық атауды заңсыз пайдалану (145-бап)</td>
-<td>48</td>
+<td>56</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Кредиторлық берешектi өтеуден әдейi жалтару (146-1-бап)</td>
+<td>57</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -564,7 +1500,46 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Лауазымды адамдардың кәсiпкерлiк қызметке заңсыз араласуы (151-бап)</td>
-<td>49</td>
+<td>58</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Кәсіпқой спорт жарыстарының және коммерциялық ойын-сауық конкурстарының қатысушылары мен ұйымдастырушыларын сатып алу (151-1 бап)</td>
+<td>59</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -575,7 +1550,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Тексеруді заңсыз жүргізу (153-бап)</td>
-<td>50</td>
+<td>60</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -586,7 +1575,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Жалған кәсiпкерлiк (154-бап)</td>
-<td>51</td>
+<td>61</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -597,7 +1600,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Банкроттық кезiндегi құқыққа қайшы әрекеттер (155-бап)</td>
-<td>52</td>
+<td>62</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -608,7 +1625,46 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Конкурстық, оңалтушы басқарушылардың, сырттай байқау әкімшісінің Қазақстан Республикасының банкроттық туралы заңнамасын бұзуы (155-1-бап 4 б.)</td>
-<td>53</td>
+<td>63</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Көпшiлiк сауда-саттықтар, аукциондар мен конкурстар өткiзудiң белгiленген тәртiбiн қасақана бұзу (155-2-бап)</td>
+<td>64</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -619,7 +1675,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Әдейі банкрот болу (156-бап)</td>
-<td>54</td>
+<td>65</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -630,7 +1700,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Жалған банкроттық (157-бап)</td>
-<td>55</td>
+<td>66</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -641,7 +1725,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Коммерциялық құпияны, банк құпиясын, кредиттік бюроның кредиттік тарих деректері базасынан алынған кредиттік есептердің мәліметтерін немесе ақпаратты сақтау мiндеттерiн бұзу (158-бап)</td>
-<td>56</td>
+<td>67</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -652,7 +1750,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Сауда және қаржы саласындағы әкімшілік құқық бұзушылық (15-тарау)</td>
-<td>57</td>
+<td>68</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -662,9 +1774,23 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td rowspan="23">солардың ішінен</td>
+<td rowspan="24">солардың ішінен</td>
 <td>Тұтынушыларды алдау (159-бап 2 б.)</td>
-<td>58</td>
+<td>69</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -675,7 +1801,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының сауда қызметін реттеу саласындағы заңнамасын бұзу (161-бап 4,5 б.)</td>
-<td>59</td>
+<td>70</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -686,7 +1826,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Тауарлармен немесе өзге де заттармен заңсыз сауда жасау (162-бап)</td>
-<td>60</td>
+<td>71</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -697,7 +1851,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Этил спирті немесе алкогольді өнім айналымы ережелерін бұзу, сол сияқты белгіленген стандарттарға сәйкес келмейтін этил спирті мен алкогольді өнімді өндіру (163-бап)</td>
-<td>61</td>
+<td>72</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -708,7 +1876,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасы заңнамасының темекі және темекі бұйымдарын сату жөніндегі, сондай-ақ темекі бұйымдарын имитациялайтын тауарларды өндіру, сату және тарату жөніндегі талаптарын бұзу (163-3-бап)</td>
-<td>62</td>
+<td>73</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -719,7 +1901,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасы заңнамасының алкоголь өнімін өткізу жөніндегі талаптарын бұзу (163-4-бап)</td>
-<td>63</td>
+<td>74</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -729,8 +1925,47 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td>Микрокредиттік ұйымдар туралы заңнама талаптарын бұзу (168-1-бап 1, 2 б.)</td>
-<td>64</td>
+<td>Қазақстан Республикасының кредиттік бюролар және кредиттік тарихты қалыптастыру туралы (167-1-бап 2,3)</td>
+<td>75</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Микрокредиттік ұйымдар туралы заңнама талаптарын бұзу (168-1-бап 1,2 б.)</td>
+<td>76</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -741,7 +1976,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының міндетті сақтандыру туралы заңдарын бұзу (175-бап 2 б.)</td>
-<td>65</td>
+<td>77</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -752,7 +2001,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының заңнамасын бұза отырып кредит алу не оны пайдалану (176-бап 1 б.)</td>
-<td>66</td>
+<td>78</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -763,7 +2026,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Бюджеттік есепке алуды жүргізу, есептілікті жасау мен табыс ету ережелерін бұзу (177-3-бап)</td>
-<td>67</td>
+<td>79</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -774,7 +2051,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Бюджеттік кредиттерді, мемлекеттік кепілдіктер мен мемлекет кепілгерліктерін беру шарттары мен рәсімдерін бұзу (177-4-бап)</td>
-<td>68</td>
+<td>80</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -785,7 +2076,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Шығындарды өтеу ережелерін бұзу (177-5-бап)</td>
-<td>69</td>
+<td>81</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -796,7 +2101,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Заңды тұлғаның Қазақстан Республикасының бухгалтерлік есеп пен қаржылық есептілік туралы заңнамасын бұзуы (179-бап)</td>
-<td>70</td>
+<td>82</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -807,7 +2126,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Бухгалтерлік ақпараттың құпиясын жария ету (179-1-бап)</td>
-<td>71</td>
+<td>83</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -818,7 +2151,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Аудитордың немесе өзге адамның Қазақстан Республикасының бухгалтерлік есеп пен қаржылық есептілік туралы заңнамасының бұзылу фактiсiн аудит жүргiзуге тапсырыс берушiлерден жасыруы (183-бап)</td>
-<td>72</td>
+<td>84</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -829,7 +2176,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Аудиторлық ұйымның көрінеу дұрыс емес аудиторлық есепті жасауы (184-бап)</td>
-<td>73</td>
+<td>85</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -840,7 +2201,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Валюта заңнамасын бұза отырып, валюталық операцияларды жүргізу (188-бап 2-бап)</td>
-<td>74</td>
+<td>86</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -851,7 +2226,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Инсайдерлік ақпаратты заңсыз пайдалану (190-бап)</td>
-<td>75</td>
+<td>87</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -862,7 +2251,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Бағалы қағаздар рыногындағы қызметтiң жосықсыз жарнамасы (192-бап)</td>
-<td>76</td>
+<td>88</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -873,7 +2276,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Бағалы қағаздарды ұстаушылар құқықтарының бұзылуы (194-бап)</td>
-<td>77</td>
+<td>89</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -884,7 +2301,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Бағалы қағаздар рыногындағы ақпаратты ашу жөнiндегi мiндеттi бұзу (200-бап)</td>
-<td>78</td>
+<td>90</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -895,7 +2326,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Бағалы қағаздар туралы ақпаратқа құқықтарды бұзу (202-бап)</td>
-<td>79</td>
+<td>91</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -906,7 +2351,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Төлемдер жүргiзу бойынша Қазақстан Республикасының заң актiлерiнде белгiленген шектеулердi бұзу (203-бап)</td>
-<td>80</td>
+<td>92</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -917,7 +2376,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Салық салу саласындағы әкімшілік құқық бұзушылық (16-тарау)</td>
-<td>81</td>
+<td>93</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -929,7 +2402,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <tr>
 <td rowspan="2">солардың ішінен</td>
 <td>Акцизделетін тауарларды және мұнай өнімдерін әкелу, тасымалдау, өндіру, декларациялау, сақтау мен өткізу ережелерін, сондай-ақ мұнай өнімдеріне ілеспе жүкқұжаттарын ресімдеу ережелерін бұзу (213-бап)</td>
-<td>82</td>
+<td>94</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -940,7 +2427,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Таңбалау тәртібі мен ережелерін бұзу (214-бап)</td>
-<td>83</td>
+<td>95</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -951,7 +2452,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Өнеркәсіп, жылу, электр энергиясын пайдалану саласындағы әкімшілік құқық бұзушылық (17-тарау)</td>
-<td>84</td>
+<td>96</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -963,7 +2478,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <tr>
 <td rowspan="8">солардың ішінен</td>
 <td>Ядролық және техникалық қауiпсiздiктiң белгiленген нормалары мен ережелерiн бұзу (222-бап)</td>
-<td>85</td>
+<td>97</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -974,7 +2503,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Электр және жылу пайдаланатын қондырғыларды техникалық пайдалану мен қауiпсiз қызмет көрсету ережелерiн бұзу, сондай-ақ энергия тұтынудың белгiленген режимдерiн бұзу (223-бап)</td>
-<td>86</td>
+<td>98</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -985,7 +2528,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Электр желiлерiн бүлдiру (224-бап)</td>
-<td>87</td>
+<td>99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -996,7 +2553,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Жылу желiлерiн бүлдiру (225-бап)</td>
-<td>88</td>
+<td>100</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1007,7 +2578,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Газ пайдаланудың ережелерi мен нормаларын бұзу (226-бап)</td>
-<td>89</td>
+<td>101</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1018,7 +2603,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Газ пайдалану қондырғыларын газдың жұмсалуын есепке алмай пайдалану (227-бап)</td>
-<td>90</td>
+<td>102</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1029,7 +2628,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Резервтiк отын шаруашылығының дайындығын қамтамасыз етуге шаралар қолданбау (228-бап)</td>
-<td>91</td>
+<td>103</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1040,7 +2653,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Газ құбырлары мен олардың жабдықтарын бүлдiру (229-бап)</td>
-<td>92</td>
+<td>104</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1051,7 +2678,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Сәулет-құрылыс қызметі саласындағы әкімшілік құқық бұзушылық (18-тарау)</td>
-<td>93</td>
+<td>105</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1061,9 +2702,23 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td rowspan="6">солардың ішінен</td>
+<td rowspan="7">солардың ішінен</td>
 <td>Сәулет-құрылыс қызметі саласында заңнама мен мемлекеттік нормативтердің талаптарын бұза отырып, жобалау алдындағы, іздестіру, жобалау, құрылыс-монтаж жұмыстарын орындау, құрылыс материалдарын, бөлшектері мен құрастырмаларын шығару мен қолдану (231-бап 2 б.)</td>
-<td>94</td>
+<td>106</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1074,7 +2729,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Құрылыс-монтаж және жөндеу-қалпына келтiру жұмыстарын жүргiзу кезiнде бекiтiлген құрылыс нормаларының және жобалау құжаттарының талаптарын бұзу (232-бап)</td>
-<td>95</td>
+<td>107</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1085,7 +2754,46 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Белгіленген тәртіппен бекітілген жобалау құжаттамасынсыз объектілерді тұрғызу және қайта жаңғырту кезінде құрылыс, құрылыс-монтаж, жөндеу-қалпына келтіру жұмыстарын жүргізу (233-бап)</td>
-<td>96</td>
+<td>108</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Магистралдық құбыр жолдарын салу, пайдалану немесе жөндеу кезiнде қауiпсiздiк ережелерiн бұзу (234-1-бап)</td>
+<td>109</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1096,7 +2804,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Белгіленген тәртіппен сараптамадан өткізілмеген немесе құрылыс жұмыстарын жүргізу құқығына рұқсатсыз объектілерді салу, қайта жаңғырту және күрделi жөндеу (235-бап 2 б.)</td>
-<td>97</td>
+<td>110</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1107,7 +2829,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Заңсыз құрылыс (237-бап)</td>
-<td>98</td>
+<td>111</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1118,7 +2854,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының тұрғын үй құрылысына үлестік қатысу туралы заңнамалық актісінің талаптарын бұзу (237-1-бап)</td>
-<td>99</td>
+<td>112</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1129,7 +2879,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Қоршаған ортаны қорғау, табиғи ресурстарды пайдалану саласындағы әкімшілік құқық бұзушылық (19-бап)</td>
-<td>100</td>
+<td>113</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1139,9 +2903,23 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td rowspan="11">солардың ішінен</td>
+<td rowspan="12">солардың ішінен</td>
 <td>Шығарылған қалдықтарында ластаушы заттардың болуы нормативтерден асып кететін көлік және басқа да жылжымалы құралдарды шығару (246-бап 2 б.)</td>
-<td>101</td>
+<td>114</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1151,8 +2929,22 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td>Су айдындарының жай-күйіне әсер ететін заңсыз құрылыс (278-бап 1 б.)</td>
-<td>102</td>
+<td>Табиғат пайдалану жөнiндегi заңсыз мәмiлелердi тiркеу (275-1-бап)</td>
+<td>115</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1162,8 +2954,22 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td>Ағаштар мен бұталарды заңсыз кесу және зақымдау (283-бап 1, 3 б.)</td>
-<td>103</td>
+<td>Су айдындарының жай-күйіне әсер ететін заңсыз құрылыс (278-бап 1б.)</td>
+<td>116</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1173,8 +2979,22 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td>Заңсыз аң аулау, жануарлар дүниесін пайдалану (298-бап 2, 3 б.)</td>
-<td>104</td>
+<td>Ағаштар мен бұталарды заңсыз кесу және зақымдау (283-бап 1,3 б.)</td>
+<td>117</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1184,8 +3004,47 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td>Балық аулау және балық қорларын қорғау ережелерiн бұзу (298-1-бап 2 б)</td>
-<td>105</td>
+<td>Заңсыз аң аулау, жануарлар дүниесін пайдалану (298-бап 2,3 б.)</td>
+<td>118</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Балық аулау және балық қорларын қорғау ережелерiн бұзу (298-1-бап 2б)</td>
+<td>119</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1196,7 +3055,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының континенттiк қайраңында рұқсат етiлген қызметтi реттейтiн лицензия шарттарын бұзу (302-бап 3 б.)</td>
-<td>106</td>
+<td>120</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1207,7 +3080,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының континенттiк қайраңында теңiз ғылыми зерттеулерiн жүргiзу ережелерiн бұзу (303-бап 2 б.)</td>
-<td>107</td>
+<td>121</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1218,7 +3105,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының континенттiк қайраңында қалдықтар мен басқа да материалдарды көму ережелерiн, сондай-ақ уақытша тоқтата тұру және бөлшектеу ережелерiн бұзу (304-бап 2 б.)</td>
-<td>108</td>
+<td>122</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1229,7 +3130,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының континенттiк қайраңын қорғау органдары лауазымды адамдарының заңды талаптарын орындамау (305-бап 2 б.)</td>
-<td>109</td>
+<td>123</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1239,8 +3154,22 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td>Қазақстан Республикасының континенттік қайраңындағы, аумақтық суларындағы (теңізіндегі) және ішкі суларындағы минералдық және жанды ресурстарды заңсыз беру (306-бап 2 б.)</td>
-<td>110</td>
+<td>Қазақстан Республикасының континенттік қайраңындағы, аумақтық суларындағы (теңізіндегі) және ішкі суларындағы минералдық және жанды ресурстарды заңсыз беру (306-бап 2б.)</td>
+<td>124</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1251,7 +3180,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Экологиялық аудит туралы заңнаманы бұзу (306-1-бап 3 б.)</td>
-<td>111</td>
+<td>125</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1262,7 +3205,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Карантин ережелері, астық нарығы мен астықты сақтау, мақта саласы, тұқым шаруашылығы және ветеринариялық қадағалау саласындағы әкімшілік құқық бұзушылықтар (20-тарау)</td>
-<td>112</td>
+<td>126</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1274,7 +3231,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <tr>
 <td rowspan="4">солардың ішінен</td>
 <td>Карантиндік тексеруден және тиісті өңдеуден өтпеген материалдарды әкелу және әкету (308-бап)</td>
-<td>113</td>
+<td>127</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1284,8 +3255,22 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td>Қазақстан Республикасының астық туралы заңнамасын бұзу (309-1-бап 7, 8-б)</td>
-<td>114</td>
+<td>Қазақстан Республикасының астық туралы заңнамасын бұзу (309-1-бап 7,8-б)</td>
+<td>128</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1296,7 +3281,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Тұқым шаруашылығы саласындағы кәсiпкерлiк қызметтi жүзеге асыру кезiндегi құқық бұзушылық (309-2-бап 4 б.)</td>
-<td>115</td>
+<td>129</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1307,7 +3306,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының мақта саласын дамыту туралы заңнамасын бұзу (309-4-бап 8, 9-б.)</td>
-<td>116</td>
+<td>130</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1318,7 +3331,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Білім беру саласындағы әкімшілік құқық бұзушылық (20-1-тарау)</td>
-<td>117</td>
+<td>131</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1330,7 +3357,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <tr>
 <td>соның ішінен</td>
 <td>Қазақстан Республикасының білім беру саласындағы заңнамасын бұзу (311-1-бап 7 б.)</td>
-<td>118</td>
+<td>132</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1341,7 +3382,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Қоғамдық қауіпсіздікке және халықтың денсаулығына қол сұғатын әкімшілік құқық бұзушылық (21-тарау)</td>
-<td>119</td>
+<td>133</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1351,9 +3406,23 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td rowspan="17">солардың ішінен</td>
+<td rowspan="18">солардың ішінен</td>
 <td>Су айдындарында қауіпсіздік ережелерін бұзу немесе орындамау (314-бап)</td>
-<td>120</td>
+<td>134</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1364,7 +3433,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Атом энергиясын пайдалану кезiнде радиациялық қауiпсiздiк талаптарын бұзу (315-бап)</td>
-<td>121</td>
+<td>135</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1375,7 +3458,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Ядролық қаруды таратпау режимiнiң талаптарын бұзу (316-бап)</td>
-<td>122</td>
+<td>136</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1385,8 +3482,22 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td>Техникалық реттеу және өлшем бірлігін қамтамасыз ету саласындағы заңнаманы бұзу (317-бап 2, 3 б.)</td>
-<td>123</td>
+<td>Техникалық реттеу және өлшем бірлігін қамтамасыз ету саласындағы заңнаманы бұзу (317-бап 2,3 б.)</td>
+<td>137</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1397,7 +3508,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Өнімнің жекелеген түрлерінің қауіпсіздігін қамтамасыз ету саласындағы заңнаманы бұзу (317-1-бап)</td>
-<td>124</td>
+<td>138</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1408,7 +3533,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Жабайы өскен сораны жоюға шара қолданбау (318-бап)</td>
-<td>125</td>
+<td>139</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1419,7 +3558,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Құрамында есiрткi бар өсiмдiктер өсетiн егiстiктi күзетудi қамтамасыз етуге шаралар қолданбау (319-бап)</td>
-<td>126</td>
+<td>140</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1430,7 +3583,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Есірткіні, психотроптық заттарды және прекурсорларды өткізудің және медициналық емес тұрғыдан тұтынудың жолын кесуге шаралар қолданбау (319-1-бап)</td>
-<td>127</td>
+<td>141</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1441,7 +3608,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Өткiзу мақсатынсыз есiрткi құралдарымен, психотроптық заттармен және прекурсорлармен заңсыз айналысу (320-бап 1 б.)</td>
-<td>128</td>
+<td>142</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1452,7 +3633,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Есірткі құралдарын, психотроптық заттар мен прекурсорларды насихаттау және заңсыз жарнамалау (321-бап)</td>
-<td>129</td>
+<td>143</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1462,8 +3657,22 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td>Заңсыз медициналық және (немесе) фармацевтикалық қызмет (322-бап 3, 4 б.)</td>
-<td>130</td>
+<td>Заңсыз медициналық және (немесе) фармацевтикалық қызмет (322-бап 3,4 б.)</td>
+<td>144</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1474,7 +3683,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Халықтың санитариялық-эпидемиологиялық салауаттылығы саласындағы заңнаманы, сондай-ақ гигиеналық нормативтерді бұзу (323-бап 2 б.)</td>
-<td>131</td>
+<td>145</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1484,8 +3707,47 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td>Фармацевтикалық қызмет ережелерін бұзу (324-бап 2, 3 б.)</td>
-<td>132</td>
+<td>Фармацевтикалық қызмет ережелерін бұзу (324-бап 2,3 б.)</td>
+<td>146</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Заңсыз медициналық қызмет және есiрткi құралдарын немесе психотроптық заттарды алуға құқық беретiн рецептердi немесе өзге де құжаттарды заңсыз беру не қолдан жасау (324-1 бап)</td>
+<td>147</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1496,7 +3758,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Медициналық қызмет көрсетуді дәйексіз жарнамалау (325-бап)</td>
-<td>133</td>
+<td>148</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1507,7 +3783,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қорғаныш тапшылығы вирусы инфекциясын жұқтырғандармен, ЖҚТБ-мен, соз ауруларымен, туберкулезбен ауыратындармен қатынаста болып жүрген, сондай-ақ дәрiгердiң тағайындауынсыз есiрткi құралдарын немесе психотроптық заттарды пайдаланушы адамдардың медициналық тексеруден және емделуден жалтаруы (326-бап)</td>
-<td>134</td>
+<td>149</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1518,7 +3808,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Айналасындағыларға қауiп төндiретiн аурулармен ауыратын адамдардың емделуден жалтаруы (327-бап 1 б.)</td>
-<td>135</td>
+<td>150</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1529,7 +3833,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Айналасындағыларға қауiп төндiретiн аурулармен ауыратын адамдардың жұқтыру көзiн және өздерiмен қатынаста болған адамдарды жасыруы (328-бап)</td>
-<td>136</td>
+<td>151</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1540,7 +3858,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Қоғамдық тәртіпке және имандылыққа қол сұғатын әкімшілік құқық бұзушылық (22-тарау)</td>
-<td>137</td>
+<td>152</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1552,7 +3884,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <tr>
 <td rowspan="11">солардың ішінен</td>
 <td>Ұсақ бұзақылық (330-бап)</td>
-<td>138</td>
+<td>153</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1563,7 +3909,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қоғамдық тәртіпті қамтамасыз етуге қатысатын адамның заңды талабына бағынбау (330-1-бап 2 б.)</td>
-<td>139</td>
+<td>154</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1574,7 +3934,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Елдi мекендерде атыс қаруынан ату, пиротехникалық қондырғыларды жару (332-бап 1, 2, 4 б.)</td>
-<td>140</td>
+<td>155</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1585,7 +3959,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Үйде жасалатын күштi спирт iшiмдiктерiн дайындау және сату (335-бап)</td>
-<td>141</td>
+<td>156</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1596,7 +3984,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Алкогольдік iшiмдiктерiн iшу немесе қоғамдық орындарға мас күйiнде келу (336-бап 3 б.)</td>
-<td>142</td>
+<td>157</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1607,7 +4009,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Жекелеген қоғамдық орындарда темекi шегуге тыйым салуды бұзу (336-1-бап 3 б.)</td>
-<td>143</td>
+<td>158</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1618,7 +4034,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Кәмелетке толмағандардың түнгі уақытта ойын-сауық мекемелерінде болуы (336-3-бап)</td>
-<td>144</td>
+<td>159</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1629,7 +4059,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Құмар ойындар (338-бап 1 б.)</td>
-<td>145</td>
+<td>160</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1640,7 +4084,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының ойын бизнесі туралы заңнамасын бұзу (338-1-бап)</td>
-<td>146</td>
+<td>161</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1651,7 +4109,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Эротикалық мазмұндағы өнiмдердi жарнамалау (339-бап)</td>
-<td>147</td>
+<td>162</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1662,7 +4134,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Тарих және мәдениет ескерткiштерiн қорғау мен пайдалану ережелерiн бұзу (340-бап)</td>
-<td>148</td>
+<td>163</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1673,7 +4159,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Баспасөз және ақпарат саласындағы әкімшілік құқық бұзушылық (23-тарау)</td>
-<td>149</td>
+<td>164</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1685,7 +4185,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <tr>
 <td rowspan="10">солардың ішінен</td>
 <td>Қазақстан Республикасының бұқаралық ақпарат құралдары туралы заңнамасын бұзу (342-бап)</td>
-<td>150</td>
+<td>165</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1696,7 +4210,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Бұқаралық ақпарат құралдарында ұлттық араздықты тұтандыруға бағытталған материалдарды жариялауға рұқсат беру (343-бап)</td>
-<td>151</td>
+<td>166</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1707,7 +4235,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Бұқаралық ақпарат құралдарының өнiмдерiн, сол сияқты өзге де өнiмдердi Қазақстан Республикасының аумағында даярлау, сақтау, әкелу, тасымалдау, тарату (344-бап)</td>
-<td>152</td>
+<td>167</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1718,7 +4260,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Бұқаралық ақпарат құралдарымен сотқа ықпал жасау (346-бап)</td>
-<td>153</td>
+<td>168</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1729,7 +4285,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Бұқаралық ақпарат құралдарына көрiнеу жалған мәлiметтер және материалдар беру (347-бап)</td>
-<td>154</td>
+<td>169</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1740,7 +4310,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Мерзiмдi баспа басылымдарының мiндеттi тегiн даналарын берудiң, теле- және радиохабарлар материалдарын тiркеудiң, сақтаудың тәртiбiн бұзу (348-бап)</td>
-<td>155</td>
+<td>170</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1751,7 +4335,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының жарнама туралы заңнамасын бұзу (349-бап)</td>
-<td>156</td>
+<td>171</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1762,7 +4360,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Шығарылым деректерiн жариялау тәртiбiн бұзу (350-бап)</td>
-<td>157</td>
+<td>172</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1773,7 +4385,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Авторлық құпияны және ақпарат көзiн жария ету (351-бап)</td>
-<td>158</td>
+<td>173</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1784,7 +4410,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Журналистiң заңды кәсiби қызметiне кедергi жасау (352-бап)</td>
-<td>159</td>
+<td>174</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1795,7 +4435,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Басқарудың белгіленген тәртібіне қол сұғатын әкімшілік құқық бұзушылық (24-тарау)</td>
-<td>160</td>
+<td>175</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1805,9 +4459,23 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td rowspan="34">солардың ішінен</td>
+<td rowspan="35">солардың ішінен</td>
 <td>Заңсыз нормативтiк құқықтық акт шығару және оны қолдану (353-бап)</td>
-<td>161</td>
+<td>176</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1818,7 +4486,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Нормативтiк құқықтық актiлердi мемлекеттiк тiркеудiң ережелерiн бұзу (354-бап)</td>
-<td>162</td>
+<td>177</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1829,7 +4511,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Мемлекеттiк нышандарды пайдалану тәртiбiн бұзу (354-1-бап)</td>
-<td>163</td>
+<td>178</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1840,7 +4536,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Нормативтiк құқықтық актiлердiң мәтiндерiн кейiннен ресми жариялау тәртiбiн бұзу (354-2-бап)</td>
-<td>164</td>
+<td>179</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1851,7 +4561,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Жылжымайтын мүлікке құқықтарды және онымен жасалатын мәмілелерді мемлекеттік тіркеуге құжаттарды беру мерзімін бұзу (354-3-бап)</td>
-<td>165</td>
+<td>180</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1862,7 +4586,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Прокуратура, iшкi iстер (полиция), ұлттық қауiпсiздiк органдарының, Қазақстан Республикасы Президентiнiң Күзет қызметiнiң, қаржы және әскери полициясының, кеден органының, шекара қызметiнiң, мемлекеттік өртке қарсы қызмет органдары мен өнеркәсіп қауіпсіздігі саласындағы уәкілетті орган қызметкерiнiң нұсқауларын орындамау немесе заңды өкiмiне немесе талабына қасақана бағынбау (355-бап)</td>
-<td>166</td>
+<td>181</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1873,7 +4611,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Мемлекеттiк инспекторға өзiнiң қызметтiк мiндеттерiн орындауына кедергi келтiру, қаулыларын, нұсқауларын және өзге де талаптарын орындамау (356-бап)</td>
-<td>167</td>
+<td>182</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1884,7 +4636,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Бақылау және қадағалау функцияларын заңсыз беру (356-1-бап)</td>
-<td>168</td>
+<td>183</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1895,7 +4661,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Билік өкілінің немесе мемлекеттік қызмет атқаратын лауазымды адамның атағын өз бетімен иелену (356-2-бап)</td>
-<td>169</td>
+<td>184</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1906,7 +4686,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Озбырлық (357-бап)</td>
-<td>170</td>
+<td>185</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1917,7 +4711,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Тиісті тіркеусіз немесе лицензиясыз, арнайы рұқсатсыз, біліктілік аттестатынсыз (куәлігінсіз) кәсіпкерлік немесе өзге қызметпен айналысу, сондай-ақ іс-әрекеттерді (операцияларды) жүзеге асыру (357-1-бап)</td>
-<td>171</td>
+<td>186</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1928,7 +4736,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Лицензиялау ережелері мен нормаларын бұзу (357-2-бап)</td>
-<td>172</td>
+<td>187</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1939,7 +4761,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Кәсіпкерлік қызметпен айналысуға лицензия, арнайы рұқсат, біліктілік аттестатын (куәлігін) беру тәртібі мен мерзімін бұзу (357-3-бап)</td>
-<td>173</td>
+<td>188</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1950,7 +4786,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Заңды тұлғаларды, филиалдарды, өкілдіктердi мемлекеттік тіркеу туралы заңнаманы бұзу (357-4-бап)</td>
-<td>174</td>
+<td>189</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1961,7 +4811,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының сәйкестендіру нөмірлерінің ұлттық тізілімдері туралы заңнамасын бұзу (357-6-бап)</td>
-<td>175</td>
+<td>190</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1972,7 +4836,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Салық құпиясын құрайтын мәлiметтердi жария ету (359-бап)</td>
-<td>176</td>
+<td>191</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1983,7 +4861,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Салық есебiне тұрудан бас тарту немесе салық есебiне тұру мерзiмiн бұзу (361-бап)</td>
-<td>177</td>
+<td>192</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1994,7 +4886,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Төтенше жағдай режимiн бұзу (362-бап)</td>
-<td>178</td>
+<td>193</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2005,7 +4911,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Төтенше жағдай кезiнде құқық тәртiбiн бұзуға итермелейтiн iс-әрекеттер (363-бап)</td>
-<td>179</td>
+<td>194</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2016,7 +4936,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Әкiмшiлiк қадағалау туралы заңдарды бұзу (366-бап)</td>
-<td>180</td>
+<td>195</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2027,7 +4961,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Азаматтық қаруларды сатып алу, сақтау, алып жүру, беру немесе сату тәртiбiн жеке тұлғалардың бұзуы (368-бап)</td>
-<td>181</td>
+<td>196</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2038,7 +4986,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Азаматтық пиротехникалық заттар мен олар қолданылған бұйымдарды сақтау, есепке алу, пайдалану, тасымалдау, жою, әкелу, әкету тәртібін бұзу (368-1-бап)</td>
-<td>182</td>
+<td>197</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2049,7 +5011,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Азаматтық, қызметтiк қаруды, оған арналған патрондарды сатып алу, сақтау, пайдалану немесе тасымалдау ережелерiн бұзу (369-бап 2 б.)</td>
-<td>183</td>
+<td>198</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2060,7 +5036,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Газ қаруын заңсыз қолдану (370-бап 2 б.)</td>
-<td>184</td>
+<td>199</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2071,7 +5061,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Азаматтық қаруды тiркеу (қайта тiркеу) мерзiмдерiн не оны есепке қою ережелерiн бұзу (371-бап 2 б.)</td>
-<td>185</td>
+<td>200</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2082,7 +5086,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Азаматтық қаруды, оған арналған патрондарды сату үшiн өткiзуден жалтару (372-бап)</td>
-<td>186</td>
+<td>201</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2093,7 +5111,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Бейбiт жиналыстар, митингiлер, шерулер, тосқауылдар мен демонстрациялар ұйымдастыру мен өткiзудiң тәртiбi туралы заңдарды бұзу (373-бап)</td>
-<td>187</td>
+<td>202</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2104,7 +5136,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қоғамдық бiрлестiктер туралы заңдарды бұзу (374-бап)</td>
-<td>188</td>
+<td>203</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2115,7 +5161,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Pecпубликасының заңдарында белгіленген тәртiппен тiркелмеген қоғамдық, дiни бiрлестiктердiң қызметiне басшылық жасау, қатысу, сондай-ақ олардың қызметiн қаржыландыру (374-1-бап)</td>
-<td>189</td>
+<td>204</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2126,7 +5186,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Дiни сенiм бостандығы және дiни бiрлестiктер туралы заңдарды бұзу (375-бап)</td>
-<td>190</td>
+<td>205</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2137,7 +5211,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Азаматтық хал актiлерiн жазу ережелерiн бұзу (376-бап)</td>
-<td>191</td>
+<td>206</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2148,7 +5236,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Құқықтық статистика мен арнайы есеп деректерін табыс етуден бас тарту, табыс етпеу, уақтылы табыс етпеу, жасыру, қосып жазу және басқа да бұрмалаушылықтар (381-1-бап)</td>
-<td>192</td>
+<td>207</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2159,7 +5261,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Құпиялылық режимiн қамтамасыз ету жөнiнде белгiленген талаптарды бұзу (386-бап 3 б.)</td>
-<td>193</td>
+<td>208</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2170,7 +5286,46 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Күзетiлетiн объектiлерге заңсыз ену (388-бап)</td>
-<td>194</td>
+<td>209</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Қазақстан Республикасы Қарулы Күштерінің, Қазақстан Республикасының басқа да әскерлері мен әскери құралымдарының арсеналдары, базалары мен қоймалары жанындағы тыйым салынған аймақ пен Қазақстан Республикасы Қарулы Күштерінің, Қазақстан Республикасының басқа да әскерлері мен әскери құралымдарының арсеналдары, базалары мен қоймалары жанындағы тыйым салынған аудан аумағында белгіленген шектеулерді бұзу (389-1-бап)</td>
+<td>210</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2181,7 +5336,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Қазақстан Республикасы мемлекеттік шекарасы режимінің белгіленген тәртібіне және Қазақстан Республикасының аумағында болу тәртібіне қол сұғатын әкімшілік құқық бұзушылық (25-тарау)</td>
-<td>195</td>
+<td>211</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2191,9 +5360,23 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td rowspan="6">солардың ішінен</td>
+<td rowspan="7">солардың ішінен</td>
 <td>Қазақстан Республикасының аумақтық суларының (теңізінің) және ішкі суларының режимін бұзу (390-бап 2 б.)</td>
-<td>196</td>
+<td>212</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2204,7 +5387,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының Мемлекеттiк шекарасы арқылы өткiзу бекеттерiнде режимдi бұзу (391-бап 2 б.)</td>
-<td>197</td>
+<td>213</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2214,8 +5411,22 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td>Қазақстан Республикасының Мемлекеттiк шекарасы режимiн бұзу (391-1-бап 2, 3 б.)</td>
-<td>198</td>
+<td>Қазақстан Республикасының Мемлекеттiк шекарасы режимiн бұзу (391-1-бап 2,3 б.)</td>
+<td>214</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2226,7 +5437,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының Мемлекеттiк шекарасын күзету жөнiндегi өз мiндеттерiн атқарумен байланысты әскери қызметшiнiң заңды өкiмiне немесе талабына бағынбау (393-бап)</td>
-<td>199</td>
+<td>215</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2237,7 +5462,46 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Шетелдiктiң немесе азаматтығы жоқ адамның Қазақстан Республикасында болу ережелерiн бұзуы (394-бап 2 б.)</td>
-<td>200</td>
+<td>216</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Шығарып жiберу туралы шешiмдi орындамау (394-1-бап)</td>
+<td>217</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2248,7 +5512,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасында шетелдiк жұмыс күшiн тарту мен пайдалану ережелерiн бұзу (396-бап 2 б.)</td>
-<td>201</td>
+<td>218</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2259,7 +5537,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Кеден істері саласындағы әкімшілік құқық бұзушылық (26-тарау)</td>
-<td>202</td>
+<td>219</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2271,7 +5563,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <tr>
 <td rowspan="19">солардың ішінен</td>
 <td>Тауарларды, көлiк құралдарын және олардың құжаттарын Қазақстан Республикасы кеден органының рұқсатынсыз беру, жоғалту немесе Қазақстан Республикасының кеден органына жеткiзбеу (405-бап 1 б.)</td>
-<td>203</td>
+<td>220</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2282,7 +5588,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Декларация толтырушының кедендiк ресiмдеудi жүргiзу тәртiбiн бұзуы (409-бап)</td>
-<td>204</td>
+<td>221</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2293,7 +5613,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Кедендiк ресiмдеу аяқталмаған тауарлармен және көлiк құралдарымен заңсыз операциялар жүргiзу, жай-күйiн өзгерту, пайдалану және билiк ету (410-бап)</td>
-<td>205</td>
+<td>222</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2304,7 +5638,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Декларация берушiнiң тауарларды және көлiк құралдарын декларациялау тәртiбiн бұзуы (413-бап)</td>
-<td>206</td>
+<td>223</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2315,7 +5663,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының кеден органына кеден декларациясын, құжаттар мен қосымша мәлiметтер беру мерзiмдерiн бұзу (414-бап)</td>
-<td>207</td>
+<td>224</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2326,7 +5688,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының кеден органына есеп-қисапты бермеу және есеп жүргiзу тәртiбiн сақтамау (415-бап)</td>
-<td>208</td>
+<td>225</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2337,7 +5713,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Тауарларды сақтауға орналастыру тәртiбiн, оларды сақтау және олармен операциялар жасау тәртiбiн бұзу (417-бап)</td>
-<td>209</td>
+<td>226</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2348,7 +5738,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Тауарларды қайта өңдеу тәртiбiн бұзу және қайта өңдеу өнiмдерiн ауыстыру (418-бап)</td>
-<td>210</td>
+<td>227</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2359,7 +5763,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының кеден аумағынан тысқары жерлерге тауарларды және көлiк құралдарын әкетпеу не осы аумаққа қайтармау (421-бап)</td>
-<td>211</td>
+<td>228</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2370,7 +5788,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Белгiлi бiр кедендiк режимде орналастырылған тауарлармен және көлiк құралдарымен заңсыз операциялар жасау, жай-күйiн өзгерту, пайдалану және билiк ету (423-бап)</td>
-<td>212</td>
+<td>229</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2381,7 +5813,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының кеден шекарасы арқылы тауарларды және көлiк құралдарын өткiзген кезде тарифтiк емес реттеу шараларын және басқа да шектеулердi қолдану тәртiбiн сақтамау (424-бап)</td>
-<td>213</td>
+<td>230</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2392,7 +5838,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Кеден бақылауына соқпай Қазақстан Республикасының кеден шекарасы арқылы тауарларды және көлiк құралдарын өткiзу (426-бап)</td>
-<td>214</td>
+<td>231</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2403,7 +5863,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының кеден шекарасы арқылы өткiзiлетiн тауарларды кедендiк бақылаудан жасыру (427-бап)</td>
-<td>215</td>
+<td>232</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2414,7 +5888,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Құжаттарды немесе ұқсастыру құралдарын алдап пайдаланып, Қазақстан Республикасының кеден шекарасы арқылы тауарларды және көлiк құралдарын өткiзу (428-бап)</td>
-<td>216</td>
+<td>233</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2425,7 +5913,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Тауарлар мен көлiк құралдарын декларацияламау немесе жалған декларациялау (429-бап)</td>
-<td>217</td>
+<td>234</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2436,7 +5938,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Кеден ережелерiн бұза отырып, Қазақстан Республикасының кеден аумағына әкелiнген тауарларды және көлiк құралдарын тасымалдау, сақтау, иемденiп алу, пайдалану немесе билiк ету (430-бап)</td>
-<td>218</td>
+<td>235</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2447,7 +5963,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Кедендiк төлемдер мен салықтардан заңсыз босатуға немесе оларды төмендетуге бағытталған iс-әрекеттер (432-бап)</td>
-<td>219</td>
+<td>236</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2458,7 +5988,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Төленген кедендiк төлемдер мен салықтарды тиiстi негiздерсiз қайтаруға, төлемдер мен өзге де өтемдер алуға не оларды қайтармауға бағытталған iс-әрекеттер (433-бап)</td>
-<td>220</td>
+<td>237</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2469,7 +6013,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Кедендік төлемдерді және салықтарды төлеу мерзімдерін бұзу (434-бап)</td>
-<td>221</td>
+<td>238</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2480,7 +6038,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Көлікте, жол шаруашылығында және байланыста әкімшілік құқық бұзушылық (27-тарау)</td>
-<td>222</td>
+<td>239</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2490,9 +6062,23 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td rowspan="23">солардың ішінен</td>
+<td rowspan="26">солардың ішінен</td>
 <td>Қазақстан Республикасының әуе кеңiстiгiн пайдалану тәртiбiн бұзу (442-бап)</td>
-<td>223</td>
+<td>240</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2503,7 +6089,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Адамның мас күйiнде әуе кемесiн басқаруы (445-бап)</td>
-<td>224</td>
+<td>241</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2514,7 +6114,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Әуе кемесiндегi мiнез-құлық ережесiн бұзу (446-бап 2 б.)</td>
-<td>225</td>
+<td>242</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2525,7 +6139,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Кемелердiң жүзу, жүк тиеу және жүк түсiру ережелерiн бұзуы (453-бап 2 б.)</td>
-<td>226</td>
+<td>243</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2536,7 +6164,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Кеме жүргiзушiнiң немесе өзге де адамның мас күйiнде кеменi басқаруы (454-бап 1, 2, 3 б.)</td>
-<td>227</td>
+<td>244</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2547,7 +6189,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Көлік құралдарын пайдалану ережелерiн бұзу (461-бап 3-1 б.)</td>
-<td>228</td>
+<td>245</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2558,7 +6214,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Көлiк құралдары жүргiзушiлерiнiң қозғалыстың белгiленген жылдамдығын арттырып жiберуi (462-бап)</td>
-<td>229</td>
+<td>246</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2569,7 +6239,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Көлік құралын жолдың жүру бөлігінде орналастыру, қарама-қарсы жүріп өту немесе басып озу ережелерін бұзу (463-3-бап 5 б.)</td>
-<td>230</td>
+<td>247</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2579,8 +6263,22 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td>Көлік құралына арнайы жарық және (немесе) дыбыс сигналдарын беруге арналған құрылғыларды орнату ережелерін бұзу не жедел және арнайы қызметтер автомобильдерінің арнайы түсті-графикалық схемаларын заңсыз жазу (464-1-бап 1, 2 б.)</td>
-<td>231</td>
+<td>Көлік құралына арнайы жарық және (немесе) дыбыс сигналдарын беруге арналған құрылғыларды орнату ережелерін бұзу не жедел және арнайы қызметтер автомобильдерінің арнайы түсті-графикалық схемаларын заңсыз жазу (464-1-бап 1,2 б.)</td>
+<td>248</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2591,7 +6289,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Жол жүрісіне қатысушының жол жүрісі ережелерін авариялық ахуал туғызуға әкеп соғатындай дәрежеде бұзуы (465-бап 2 б.)</td>
-<td>232</td>
+<td>249</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2601,8 +6313,22 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td>Темір жол өткелдерінен өту ережелерін бұзу (466-бап 2 б.)</td>
-<td>233</td>
+<td>Теміржол өткелдерінен өту ережелерін бұзу (466-бап 2 б.)</td>
+<td>250</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2613,7 +6339,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Жүргізушінің алкогольден, есірткіден және (немесе) уытқұмарлықтан мас күйінде көлік құралын жүргізуі, сол сияқты көлік құралын жүргізуді алкогольден, есірткіден және (немесе) уытқұмарлықтан мас күйдегі адамға беру (467-бап)</td>
-<td>234</td>
+<td>251</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2623,8 +6363,72 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td>Көлiк құралдарын жүргiзушiлердiң жол қозғалысы қауiпсiздiгiн қамтамасыз етудiң белгiленген ережелерiн адамдардың денсаулығына зиян келтiруге, көлiк құралдарының немесе өзге де мүлiктiң зақымдануына әкеп соқтыратындай дәрежеде бұзуы (468-бап 1, 2 б.)</td>
-<td>235</td>
+<td>Көлiк құралдарын жүргiзушiлердiң жол қозғалысы қауiпсiздiгiн қамтамасыз етудiң белгiленген ережелерiн адамдардың денсаулығына зиян келтiруге, көлiк құралдарының немесе өзге де мүлiктiң зақымдануына әкеп соқтыратындай дәрежеде бұзуы (468-бап 1,2 б.)</td>
+<td>252</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Көлiк құралдарын жүргiзушi адамдардың жол жүрісі және көлiк құралдарын пайдалану қағидаларын бұзуы (468-1 бап)</td>
+<td>253</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Көлiкте қолданылатын қағидаларды бұзу (468-2-бап)</td>
+<td>254</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2635,7 +6439,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Жол-көлiк оқиғасы болған жерден кетiп қалу (469-бап)</td>
-<td>236</td>
+<td>255</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2646,7 +6464,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Ішкі істер (полиция), көліктік бақылау органдары қызметкерінің Қазақстан Республикасының Мемлекеттік шекарасы арқылы автокөлік құралдарын өткізу пункттерінде және Қазақстан Республикасының аумағындағы көліктік бақылау бекеттерінде көлік құралын тоқтату туралы талаптарын орындамау, алкогольден, есірткіден және (немесе) уытқұмарлықтан мас күйін куәландырудан өтуден жалтару (471-бап 1-1, 1-2, 2 б.)</td>
-<td>237</td>
+<td>256</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2657,7 +6489,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Жаяу жүргiншiлердiң және жол қозғалысына өзге де қатысушылардың қозғалыс ережелерiн бұзуы (473-бап 3 б.)</td>
-<td>238</td>
+<td>257</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2668,7 +6514,46 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Көлiкпен қауiптi заттарды немесе бұйымдарды тасымалдау ережелерiн бұзу (477-бап 3 б.)</td>
-<td>239</td>
+<td>258</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Көлiк құралдарын сапасыз жөндеу және оларды техникалық ақауларымен пайдалануға шығару (474-1-бап)</td>
+<td>259</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2679,7 +6564,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Көлiк құралдарын жүргiзушi жеке тұлғалардың пайдалану және жол жүрiсi ережелерiн үнемi бұзуы (484-бап)</td>
-<td>240</td>
+<td>260</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2690,7 +6589,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Электр байланыс желiлерiне қосылатын құрылғыларды (жабдықтарды) заңсыз қосу (492-бап 2 б.)</td>
-<td>241</td>
+<td>261</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2701,7 +6614,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Радиоэлектрондық құралдарды немесе жоғары жиіліктi құрылғыларды тіркеу және пайдалану, сондай-ақ радиожиіліктерді пайдалану ережелерін бұзу және арнайы рұқсат алмай радиоэлектрондық құралдарды немесе жоғары жиілікті құрылғыларды шет елдерден әкелу (494-бап 2 б.)</td>
-<td>242</td>
+<td>262</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2712,7 +6639,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Қазақстан Республикасының байланыс саласындағы заңнамасын бұзу (494-1-бап 3 б.)</td>
-<td>243</td>
+<td>263</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2723,7 +6664,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Сәйкестігі міндетті растауға жататын, бірақ одан өтпеген байланыс құралдарын пайдалану (496-бап 2 б.)</td>
-<td>244</td>
+<td>264</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2734,7 +6689,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Пошта төлемінің қолдан жасалған мемлекеттік белгілерін жасау немесе өткізу (501-бап)</td>
-<td>245</td>
+<td>265</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2745,7 +6714,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td colspan="2">Мемлекеттік билік институттарына қол сұғатын әкімшілік құқық бұзушылық (29-тарау)</td>
-<td>246</td>
+<td>266</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2755,9 +6738,48 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
-<td rowspan="24">солардың ішінен</td>
+<td rowspan="25">солардың ішінен</td>
+<td>Машиналарды жүргізу немесе пайдалану қағидаларын бұзу (512-5 бап)</td>
+<td>267</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>Сотқа құрметтемеушілік білдіру (513-бап)</td>
-<td>247</td>
+<td>268</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2768,7 +6790,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Әкiмшiлiк құқық бұзушылық туралы iс бойынша iс қарауға қатысушылардың жауапкершiлiгi (514-бап)</td>
-<td>248</td>
+<td>269</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2779,7 +6815,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Алқабидің міндеттерін атқару үшін сотқа келмеу (514-1-бап)</td>
-<td>249</td>
+<td>270</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2790,7 +6840,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Алқабидің міндеттерін атқару үшін сотқа келмеу (514-2 бап)</td>
-<td>250</td>
+<td>271</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2801,7 +6865,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Азаматқа алқаби міндеттерін атқаруға кедергі келтіру (514-3-бап)</td>
-<td>251</td>
+<td>272</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2812,7 +6890,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Алқабилердің сот талқылауында істі қарауға байланысты іс-әрекеттеріндегі шектеулердi сақтамау (514-4-бап)</td>
-<td>252</td>
+<td>273</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2823,7 +6915,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Куәнiң айғақ беруден бас тартуы немесе жалтаруы (515-бап)</td>
-<td>253</td>
+<td>274</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2834,7 +6940,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Куәнің, жәбірленушінің көрінеу жалған айғақтары, сарапшының көрінеу жалған қорытындысы немесе қате аударма жасау (516-бап)</td>
-<td>254</td>
+<td>275</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2845,7 +6965,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Әкімшілік құқық бұзушылық туралы істер бойынша дәлелдемелерді бұрмалау (516-1-бап)</td>
-<td>255</td>
+<td>276</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2856,7 +6990,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Лауазымды адамның сараптама жүргiзу туралы қаулыны немесе тапсырманы не маманды шақыру туралы талапты орындаудан бас тартуы немесе жалтаруы (517-бап)</td>
-<td>256</td>
+<td>277</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2867,7 +7015,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Айыпталушының (сезiктiнiң) келетiндiгi туралы жеке кепiлгерлiктi бұзу (518-бап)</td>
-<td>257</td>
+<td>278</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2878,7 +7040,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Соттың жеке ұйғарымы, қаулысы, прокурордың, тергеушiнiң немесе анықтаушының ұсынысы бойынша шара қолданбау (520-бап)</td>
-<td>258</td>
+<td>279</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2889,7 +7065,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Прокурорға, тергеушiге және анықтау органына, сот орындаушысына, сот приставына келуден жалтару (521-бап)</td>
-<td>259</td>
+<td>280</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2900,7 +7090,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Прокурорға хабарламау немесе дер кезiнде хабарламау (521-1-бап)</td>
-<td>260</td>
+<td>281</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2911,7 +7115,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Прокурордың, тергеушiнiң, анықтаушының, сот приставының, сот орындаушысының заңды қызметiне кедергi жасау (522-бап)</td>
-<td>261</td>
+<td>282</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2922,7 +7140,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Адвокаттың заңды қызметiне кедергi жасау (523-бап)</td>
-<td>262</td>
+<td>283</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2933,7 +7165,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Сот актілерін, әкімшілік құқық бұзушылық туралы істерді қарауға уәкілетті органдардың (лауазымды адамдардың) қаулыларын орындамау (524-бап)</td>
-<td>263</td>
+<td>284</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2944,7 +7190,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Сот орындаушысының, сот приставының талабын орындамау (525-бап)</td>
-<td>264</td>
+<td>285</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2955,7 +7215,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Алимент өндiрiп алынатын адамның жұмыс орны мен тұрғылықты жерiнiң өзгергендiгi туралы сот орындаушысына хабарламау (526-бап)</td>
-<td>265</td>
+<td>286</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2966,7 +7240,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Лауазымды адамның атқару құжатын жоғалтқандығы үшiн жауапкершiлiгi (527-бап)</td>
-<td>266</td>
+<td>287</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2977,7 +7265,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Сот орындаушысына, сот приставына соттар мен басқа да органдардың қаулыларын орындауда кедергi жасау (528-бап)</td>
-<td>267</td>
+<td>288</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2988,7 +7290,21 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Лауазымды адамды қорлау, зорлық әрекеттер жасау қатерiн төндiру (529-бап)</td>
-<td>268</td>
+<td>289</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2999,7 +7315,7 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 </tr>
 <tr>
 <td>Мемлекеттiк наградаларды заңсыз тағып жүру (530-бап)</td>
-<td>269</td>
+<td>290</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3007,63 +7323,6 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>Мемлекеттік органдардың айырым белгілері және (немесе) нышандары бар нысанды әскери киімді, сондай-ақ нысанды және арнаулы киім-кешекті немесе нысанды киімді заңсыз киіп жүру (пайдалану) (531-бап)</td>
-<td>270</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-кестенің жалғасы
-
-<table>
-<tr>
-<td colspan="14">Қолданылған әкімшілік жаза</td>
-</tr>
-<tr>
-<td colspan="7">негізгісі</td>
-<td colspan="7">қосымшасы</td>
-</tr>
-<tr>
-<td>ескерту</td>
-<td>айыппұл</td>
-<td>қамауға алу</td>
-<td>арн.құқықтан айыру</td>
-<td>қуып шығу</td>
-<td>лицензиядан айыру</td>
-<td>қызм. тоқтата тұру, тыйым салу</td>
-<td>арн.құқықтан айыру</td>
-<td>қуып шығу</td>
-<td>лицензиядан айыру</td>
-<td>қызм. тоқтата тұру, тыйым салу</td>
-<td>алып қою</td>
-<td>тәркілеу</td>
-<td>мәжбүрлеп бұзу</td>
-</tr>
-<tr>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
-<th>15</th>
-<th>16</th>
-<th>17</th>
-<th>18</th>
-<th>19</th>
-<th>20</th>
-<th>21</th>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -3080,6 +7339,8 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 </tr>
 <tr>
+<td>Мемлекеттік органдардың айырым белгілері және (немесе) нышандары бар нысанды әскери киімді, сондай-ақ нысанды және арнаулы киім-кешекті немесе нысанды киімді заңсыз киіп жүру (пайдалану) (531-бап)</td>
+<td>291</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3087,31 +7348,6 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -3135,16 +7371,16 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <tr>
 <td rowspan="2">Мемлекетке келтірілген зиян сомасы</td>
 <td rowspan="2">Мемлекет пайдасына өндіріп алынғаны</td>
-<td colspan="2">Айыппұл сомасы (теңгеде)</td>
-<td rowspan="2">мәжбүрлеу тәртібімен орындалғаны (теңгеде)</td>
+<td colspan="2">Айыппұл сомасы (теңгемен)</td>
+<td rowspan="2">мәжбүрлеу тәртібінде орындалды /тұлғалармен/</td>
 <td rowspan="2">келесі сомада</td>
 <td rowspan="2">Тартылған кәмелетке толмағандар</td>
 <td rowspan="2">Мемлекеттік органдардың лауазымды тұлғалары тартылған (ҚРӘҚтК 34-бабы 3-б.)</td>
 <td rowspan="2">Тартылған заңды тұлғалар</td>
-<td rowspan="2">Есепті кезең соңына қалдық</td>
+<td rowspan="2">Есепті кезең соғына қалдық</td>
 </tr>
 <tr>
-<td>салынғаны</td>
+<td>салынған</td>
 <td>өндіріп алынғаны</td>
 </tr>
 <tr>
@@ -3183,930 +7419,6 @@ source: https://zan.gov.kz/client/#!/doc/48665/kaz/17.03.2010
 <td></td>
 <td></td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
 
 ## "Әкімшілік құқық бұзушылықтар туралы уәкілетті органдармен істерді қарау қорытындылары туралы" N 1-АД нысанды есебі
-
-## N 1а бөлімі "Кәмелетке толмағандар істерін қарау жөнінде мамандандырылған ауданаралық әкімшілік соттар бойынша"
-
-<table>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td>Есепті кезеңнің басталуына қалдық</td>
-<td>Есепті кезеңге түскен істер</td>
-<td>Барлық қаралған әкімшілік істер</td>
-<td>Соның ішінде мерзімін бұзумен</td>
-<td>Қаулылары шығарылған тұлғалар саны</td>
-</tr>
-<tr>
-<th colspan="2">А</th>
-<th>Б</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td colspan="2">БАРЛЫҒЫ</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Жеке адамға қол сұғатын және отбасы-тұрмыстық қатынастар саласындағы әкiмшiлiк құқық бұзушылықтар (9-1-тарау)</td>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>солардың ішінен</td>
-<td>Денсаулыққа абайсызда орташа ауырлықтағы зиян келтiру (79-3-бап)</td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">12-тарау. Кәмелетке толмағандардың құқығына қол сұғатын әкімшілік құқық бұзушылық</td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="9">солардың ішінен</td>
-<td>Ата-аналардың немесе басқа да заңды өкілдерінің балаларды тәрбиелеу жөнiндегi мiндеттердi орындамауы (111-бап)</td>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Кәмелетке толмаған адамды әкімшілік құқық бұзушылық жасауға тарту (111-1-бап)</td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Кәмелетке толмаған адамды мас болу күйiне дейiн жеткiзу (112-бап)</td>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Кәмелетке толмағандардың түнгі уақытта ойын-сауық мекемелерінде болуына жол беру (112-1-бап)</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Кәмелетке толмағандарға алкоголь iшiмдiктерiн сату (113-бап)</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Он сегіз жасқа толмаған адамдарға темекіні және темекі бұйымдарын сату және олардың сатуы (114-бап)</td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Кәмелетке толмағандарды эротикалық мазмұндағы өнiмдi әзiрлеуге тарту (115-бап)</td>
-<td>11</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Асырап алуға, қорғаншылыққа (қамқоршылыққа), жеке тұлғалардың отбасына тәрбиелеуге берудi қажет ететiн кәмелетке толмағандар туралы мәлiметтердi табыс ету тәртiбi мен мерзiмдерiн бұзу (116-бап)</td>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Бала асырап алу жөнiндегi заңсыз қызмет (117-бап)</td>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Меншікке қол сұғатын әкімшілік құқық бұзушылық (13 тарау)</td>
-<td>14</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>сол. іш.</td>
-<td>Бөтен бiреудiң мүлкiн ұсақ-түйектеп ұрлау (136-бап)</td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Қоғамдық қауіпсіздікке және халықтың денсаулығына қол сұғатын әкімшілік құқық бұзушылық (21-тарау)</td>
-<td>16</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">солардың ішінен</td>
-<td>Өткiзу мақсатынсыз есiрткi құралдарымен, психотроптық заттармен және прекурсорлармен заңсыз айналысу (320-бап)</td>
-<td>17</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Айналасындағыларға қауiп төндiретiн аурулармен ауыратын адамдардың емделуден жалтаруы (327-бап)</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Қоғамдық тәртіпке және имандылыққа қол сұғатын әкімшілік құқық бұзушылық (22-тарау)</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="11">солардың ішінен</td>
-<td>Қоғамдық тәртіпті қамтамасыз етуге қатысатын адамның заңды талабына бағынбау (330-1-бап)</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Кәмелетке толмағандар жасаған бұзақылық (331-бап)</td>
-<td>21</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Елдi мекендерде атыс қаруынан ату, пиротехникалық қондырғыларды жару (332-бап)</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Тыныштықты бұзу (333-бап)</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Арнайы қызметтердi көрiнеу жалған шақыру (334-бап)</td>
-<td>24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Алкогольдік iшiмдiктерiн iшу немесе қоғамдық орындарға мас күйiнде келу (336-бап)</td>
-<td>25</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Спирт iшiмдiктерiн iшу немесе қоғамдық орындарға мас күйiнде келу (336-1-бап)</td>
-<td>26</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Қоғамдық орындарда есірткі құралдарын, психотроптық заттарды және прекурсорларды медициналық тұрғыдан тыс тұтыну (336-2-бап)</td>
-<td>27</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Кәмелетке толмағандардың түнгі уақытта ойын-сауық мекемелерінде болуы (336-3-бап)</td>
-<td>28</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Құмар ойындар (338-бап)</td>
-<td>29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Тарих және мәдениет ескерткiштерiн немесе табиғи объектiнi қорлау (341-бап)</td>
-<td>30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Көлікте, жол шаруашылығында және байланыста әкімшілік құқық бұзушылық (27-тарау)</td>
-<td>31</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="4">солардың ішінен</td>
-<td>Көлік құралдарын пайдалану ережелерiн бұзу (461-бап)</td>
-<td>32</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Құжаттары жоқ және басқару құқығы жоқ адамның көлiк құралдарын басқаруы (470-бап)</td>
-<td>33</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Жаяу жүргiншiлердiң және жол қозғалысына өзге де қатысушылардың қозғалыс ережелерiн бұзуы (473-бап)</td>
-<td>34</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Телефон-автоматтарды бүлдiру (500-бап)</td>
-<td>35</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-кестенің жалғасы
-
-<table>
-<tr>
-<td colspan="5">Қолданылған әкімшілік жазалар</td>
-<td rowspan="2">Мемлекетке келтірілген зиян сомасы</td>
-<td rowspan="2">Мемлекет пайдасына өндіріп алынғаны</td>
-<td colspan="3">Айыппұл сомасы (теңгеде)</td>
-<td rowspan="2">Тәрбиелік ықпал ету шаралары қолданылған</td>
-<td rowspan="2">Есепті кезең аяғына қалдық</td>
-</tr>
-<tr>
-<td>ескерту</td>
-<td>айыппұл</td>
-<td>қамауға алу</td>
-<td>қуып шығару</td>
-<td>арнайы құқықтан айыру</td>
-<td>салынғаны</td>
-<td>өз еркімен төленген</td>
-<td>осы сомаға, мәжбүрлеп өндіріп алу туралы қаулысы бағытталған</td>
-</tr>
-<tr>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
-<th>15</th>
-<th>16</th>
-<th>17</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-## "Әкімшілік құқық бұзушылықтар туралы уәкілетті органдармен қаралған істердің қорытындылары туралы" 1-АД нысанды есебі.
-
-## N 1б бөлім "ҚР Жоғары Соты бойынша"
-
-<table>
-<tr>
-<td></td>
-<td></td>
-<td>Есепті кезең басталуына қалдық</td>
-<td>есепті кезеңге түскен істер</td>
-<td>Барлық қаралған әкімшілік істер</td>
-<td>соның ішінде мерзімін бұзып</td>
-<td>Қаулылары шығарылған тұлғалар саны (тұлғалар бойынша)</td>
-<td>іс жүргізуді тоқтату туралы (тұлғалар бойынша)</td>
-<td>әкімшілік жазаны қолдану туралы (тұлғалар бойынша)</td>
-</tr>
-<tr>
-<th>А</th>
-<th>Б</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-</tr>
-<tr>
-<td>Сотқа құрметтемеушілік білдіру (513-бап)</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-кестенің жалғасы
-
-<table>
-<tr>
-<td colspan="3">Қолданылған әкімшілік жазалар</td>
-<td rowspan="3">Мемлекетке келтірілген зиян сомасы</td>
-<td rowspan="3">Мемлекет пайдасына өндіріп алынғаны</td>
-<td colspan="2">Айыппұл сомасы (теңгеде)</td>
-<td rowspan="3">мәжбүрлеу тәртібімен орындалған (тұлғалар бойынша)</td>
-<td rowspan="3">келесі сомаға</td>
-<td rowspan="3">Мемлекеттік органдардың лауазымдық тұлғалары тартылған (ҚРӘҚтК 34-бабы 3-б.)</td>
-<td rowspan="3">Тартылған заңды тұлғалар</td>
-<td rowspan="3">Есепті кезең аяғына қалдық</td>
-</tr>
-<tr>
-<td colspan="3">негізгілері</td>
-<td rowspan="2">салынған</td>
-<td rowspan="2">өндіріп алынған</td>
-</tr>
-<tr>
-<td>ескерту</td>
-<td>айыппұл</td>
-<td>қамауға алу</td>
-</tr>
-<tr>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
-<th>15</th>
-<th>16</th>
-<th>17</th>
-<th>18</th>
-<th>19</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-## "Әкімшілік құқық бұзушылықтар туралы уәкілетті оргадармен қаралған істердің қорытындылары туралы" 1-АД нысанды есебі
-
-## 1-1 бөлім "Мамандандырылған ауданаралық әкімшілік соттар бойынша" (сыбайлас жемқорлықпен құқық бұзушылықтар)
-
-<table>
-<tr>
-<td colspan="2" rowspan="3"></td>
-<td rowspan="3"></td>
-<td rowspan="3">Есепті кезең басталуына қалдық</td>
-<td rowspan="3">есепті кезеңде түскен істер</td>
-<td rowspan="3">Қаралған әкімшілік істердің барлығы</td>
-<td rowspan="3">соның ішінде мерзімін бұзып</td>
-<td rowspan="3">Қаулылары шығарылған тұлғалар саны (тұлғалар бойынша)</td>
-<td rowspan="3">іс жүргізуді тоқтату туралы</td>
-<td rowspan="3">әкімшілік жазаны қолдану туралы</td>
-<td colspan="7">Қолданылған әкімшілік жаза</td>
-</tr>
-<tr>
-<td colspan="7">негізгісі</td>
-</tr>
-<tr>
-<td>ескерту</td>
-<td>айыппұл</td>
-<td>қамауға алу</td>
-<td>арн. құқықтан айыру</td>
-<td>қуып шығу</td>
-<td>лицензиядан айыру</td>
-<td>қызм.тоқтата тұру, тыйым салу</td>
-</tr>
-<tr>
-<th colspan="2">А</th>
-<th>Б</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
-</tr>
-<tr>
-<td rowspan="7">солардың ішінен</td>
-<td>Әкімшілік сыбайлас жемқорлық құқық бұзушылық (30-тарау)</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Қаржы бақылау шараларын бұзу (532-бап)</td>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Жеке тұлғалардың заңсыз материалдық сыйақы беруі (533-бап)</td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Мемлекеттік функцияларды атқаруға уәкілетті адамның не оған теңестірілген адамның заңсыз материалдық сыйақы алуы (533-1-бап)</td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Заңды тұлғалардың заңсыз материалдық сыйақы беруi (534-бап)</td>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Мемлекеттік органдар мен жергiлiктi өзiн-өзi басқару органдарының заңсыз кәсiпкерлiк қызметтi жүзеге асыруы және заңсыз кiрiстер алуы (535-бап)</td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Сыбайлас жемқорлыққа қарсы күрес жөніндегі мемлекеттік (537-бап)</td>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-кестенің жалғасы:
-
-<table>
-<tr>
-<td colspan="7">Қолданылған әкімшілік жаза</td>
-<td colspan="2">Айыппұл сомасы (теңгеде)</td>
-<td rowspan="3">мәжбүрлеу тәртібімен орындалғаны (теңгеде)</td>
-<td rowspan="3">келесі сомада</td>
-<td rowspan="3">Тартылған кәмелетке толмағандар</td>
-<td rowspan="3">Мемлекеттік органдардың лауазымды тұлғалары тартылған (ҚРӘҚтК 34-бабы 3-б.)</td>
-<td rowspan="3">Тартылған заңды тұлғалар</td>
-<td rowspan="3">Есепті кезең соңына қалдық</td>
-</tr>
-<tr>
-<td colspan="7">қосымшасы</td>
-<td rowspan="2">салынғаны</td>
-<td rowspan="2">өндіріп алынғаны</td>
-</tr>
-<tr>
-<td>арн.құқықтан айыру</td>
-<td>қуып шығу</td>
-<td>лицензиядан айыру</td>
-<td>қызм.тоқтата тұру, тыйым салу</td>
-<td>алып қою</td>
-<td>тәркілеу</td>
-<td>мәжбүрлеп бұзу</td>
-</tr>
-<tr>
-<th>15</th>
-<th>16</th>
-<th>17</th>
-<th>18</th>
-<th>19</th>
-<th>20</th>
-<th>21</th>
-<th>22</th>
-<th>23</th>
-<th>24</th>
-<th>25</th>
-<th>26</th>
-<th>27</th>
-<th>28</th>
-<th>29</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-## "Әкімшілік құқық бұзушылықтар туралы уәкілетті оргадармен қаралған істердің қорытындылары туралы" 1-АД нысанды есебі
