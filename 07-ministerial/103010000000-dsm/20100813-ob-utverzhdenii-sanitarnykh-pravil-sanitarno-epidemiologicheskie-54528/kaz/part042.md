@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/54528/kaz/13.08.2010
+source: https://zan.gov.kz/client/#!/doc/54528/kaz/21.06.2011
 ---
 
 ## 3. Зерттеу тәсiлдемелерi

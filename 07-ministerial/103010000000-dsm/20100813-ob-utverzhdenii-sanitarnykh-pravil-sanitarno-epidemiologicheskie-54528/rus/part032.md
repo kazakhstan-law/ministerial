@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/54528/rus/13.08.2010
+source: https://zan.gov.kz/client/#!/doc/54528/rus/21.06.2011
 ---
 
 ## 2. Отбор проб
