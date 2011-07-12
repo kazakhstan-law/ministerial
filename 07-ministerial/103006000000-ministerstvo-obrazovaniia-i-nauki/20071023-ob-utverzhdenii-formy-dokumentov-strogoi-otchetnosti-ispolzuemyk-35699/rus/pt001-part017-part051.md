@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/35699/rus/14.09.2009
+source: https://zan.gov.kz/client/#!/doc/35699/rus/12.07.2011
 ---
 
 ## Қорытынды аттестаттау Итоговая аттестация

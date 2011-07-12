@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/35699/rus/14.09.2009
+source: https://zan.gov.kz/client/#!/doc/35699/rus/12.07.2011
 ---
 
 ## Части документа
@@ -18,4 +18,4 @@ source: https://zan.gov.kz/client/#!/doc/35699/rus/14.09.2009
 | [`pt001-part017-part001`](rus/pt001-part017-part001.md) | Форма |
 | [`pt001-part017-part051`](rus/pt001-part017-part051.md) | Қорытынды аттестаттау Итоговая аттестация |
 | [`pt001-part017-part051-part022`](rus/pt001-part017-part051-part022.md) | П Л А Н Р А Б О Т Ы |
-| [`pt001-part017-part052`](rus/pt001-part017-part052.md) | Форма Серия ________ СЕРТИФИКАТ № ___________________ ТЖК/ИКТ - _________ Фамилия Имя Отчество |
+| [`pt001-part017-part052`](rus/pt001-part017-part052.md) | Форма |
