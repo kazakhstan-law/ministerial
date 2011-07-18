@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/58205/kaz/21.12.2010
+source: https://zan.gov.kz/client/#!/doc/58205/kaz/18.07.2011
 ---
 
 ## А бөлігі. Жүк тасымалдаудан түскен түсімдер
