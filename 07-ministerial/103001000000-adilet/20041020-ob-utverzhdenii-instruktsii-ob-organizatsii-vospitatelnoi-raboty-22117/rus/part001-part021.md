@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/22117/rus/22.12.2010
+source: https://zan.gov.kz/client/#!/doc/22117/rus/29.07.2011
 ---
 
 ## Схема изучения личности:
