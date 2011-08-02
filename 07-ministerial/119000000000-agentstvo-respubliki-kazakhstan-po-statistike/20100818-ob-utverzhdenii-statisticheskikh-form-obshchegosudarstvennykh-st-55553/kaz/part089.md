@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/55553/kaz/18.08.2010
+source: https://zan.gov.kz/client/#!/doc/55553/kaz/02.08.2011
 ---
 
 ## 5. Газ реттеуiш пункттер және есептейтін орнатылған приборлар саны көрсетіңіз, бірлік

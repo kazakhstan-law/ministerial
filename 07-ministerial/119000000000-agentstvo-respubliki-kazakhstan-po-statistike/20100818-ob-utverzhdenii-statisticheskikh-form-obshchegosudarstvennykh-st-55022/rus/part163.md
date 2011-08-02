@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/55022/rus/18.08.2010
+source: https://zan.gov.kz/client/#!/doc/55022/rus/02.08.2011
 ---
 
 ## 13. Үстіңгі беттерді бояу бойынша жұмыс түрлерінің бағаларын көрсетіңіз, ҚҚС-сыз теңгемен
