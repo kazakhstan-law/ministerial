@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/54919/rus/24.08.2010
+source: https://zan.gov.kz/client/#!/doc/54919/rus/02.08.2011
 ---
 
 ## 2. Қатынас бөлінісіндегі жүк тасымалдау көлемін көрсетіңіз
