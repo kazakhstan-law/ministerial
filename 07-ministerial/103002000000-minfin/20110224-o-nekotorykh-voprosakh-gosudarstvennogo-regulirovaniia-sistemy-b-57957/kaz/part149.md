@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/57957/kaz/27.04.2011
+source: https://zan.gov.kz/client/#!/doc/57957/kaz/02.08.2011
 ---
 
 ## Автобустың жолдама парағы

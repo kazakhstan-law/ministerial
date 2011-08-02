@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/57957/rus/27.04.2011
+source: https://zan.gov.kz/client/#!/doc/57957/rus/02.08.2011
 ---
 
 ## Сведения о грузе
