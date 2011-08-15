@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/54990/kaz/24.08.2010
+source: https://zan.gov.kz/client/#!/doc/54990/kaz/15.08.2011
 ---
 
 ## 2. Жұмыспен қамтылу

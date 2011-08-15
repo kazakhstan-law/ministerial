@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/54990/rus/24.08.2010
+source: https://zan.gov.kz/client/#!/doc/54990/rus/15.08.2011
 ---
 
 ## Карточка интервьюера
