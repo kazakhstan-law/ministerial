@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/43900/kaz/08.10.2010
+source: https://zan.gov.kz/client/#!/doc/43900/kaz/18.08.2011
 ---
 
 ## Салық органы есептеген салықтардың сомасы туралы хабарлама
