@@ -1,6 +1,11 @@
 ---
 part_of: ../rus.md
 source: https://zan.gov.kz/client/#!/doc/2189/rus/22.08.2011
+repealed_on: 2013-01-01
+repealed_by:
+  code: '60748'
+  title: Об утверждении Правил проведения инвентаризации в государственных учреждениях
+  link: https://zan.gov.kz/client/#!/doc/60748/rus
 ---
 
 ## 1. Общие положения
