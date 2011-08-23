@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/54805/kaz/18.08.2010
+source: https://zan.gov.kz/client/#!/doc/54805/kaz/23.08.2011
 ---
 
 ## 2.2-бөлім < 2.1-бөлім жол жиымтықтары 2-баған бойынша;

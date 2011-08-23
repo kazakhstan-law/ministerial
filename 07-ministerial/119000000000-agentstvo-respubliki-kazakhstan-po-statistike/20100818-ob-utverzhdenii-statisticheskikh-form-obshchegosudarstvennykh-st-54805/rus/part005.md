@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/54805/rus/18.08.2010
+source: https://zan.gov.kz/client/#!/doc/54805/rus/23.08.2011
 ---
 
 ## раздел 2.2 < строк по графе 2 раздела 2.1
