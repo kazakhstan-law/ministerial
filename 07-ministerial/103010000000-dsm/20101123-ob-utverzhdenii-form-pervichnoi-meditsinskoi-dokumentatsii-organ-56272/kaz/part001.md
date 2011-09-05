@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56272/kaz/23.11.2010
+source: https://zan.gov.kz/client/#!/doc/56272/kaz/05.09.2011
 ---
 
 ## 2 айға дейінгі жастағы науқас нәрестенің жазу нысаны
