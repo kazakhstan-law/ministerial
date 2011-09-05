@@ -258,1628 +258,7 @@ ____ с. ____ мин.
 
 ### Реанимация және жіті терапия бөлімшесі (палатасы) науқасының ЗЕРТХАНАЛЫҚ КӨРСЕТКІШТЕР ПАРАҒЫ ЛИСТ ЛАБОРАТОРНЫХ ПОКАЗАТЕЛЕЙ больного отделения (палаты) реанимации и интенсивной терапии
 
-Науқастың ТАӘ (Ф И О больного) ___________________________________
-
-Туған күні (Дата рождения) ___________ Сырқатнаманың №. (История
-
-болезни №) ________________
-
-Д и а г н о з: ____________________________________________________
-
-___________________________________________________________________
-
-___________________________________________________________________
-
-1\. ҚАННЫҢ ЖАЛПЫ ТАЛДАУЫ ОБЩИЙ АНАЛИЗ КРОВИ
-
-<table>
-<tr>
-<td rowspan="3">Р/с № № п/п</td>
-<td rowspan="3">
-Көрсеткіштер
-Показатели
-Күні
-Дата
-Уақыты
-Время
-</td>
-<td rowspan="3">
-Эритроциттер
-Эритроциты
-</td>
-<td rowspan="3">Гемоглобин</td>
-<td rowspan="3">Гематокрит</td>
-<td rowspan="3">
-Түсті көрсеткіш
-Цветной показатель
-</td>
-<td rowspan="3">
-Ретикулоциттер
-Ретикулоциты
-</td>
-<td rowspan="3">Тромбоциттер Тромбоциты</td>
-<td rowspan="3">
-Лейкоциттер
-Лейкоциты
-</td>
-<td colspan="8">
-Лейкоцит формуласы
-Лейкоцитная формула
-</td>
-<td rowspan="3">ЭШЖСОЭ</td>
-<td rowspan="3">Ескерпе Примечание</td>
-</tr>
-<tr>
-<td rowspan="2">Б</td>
-<td rowspan="2">Э</td>
-<td colspan="4">
-нейтрофилдер
-нейтрофилы
-</td>
-<td rowspan="2">Л</td>
-<td rowspan="2">М</td>
-</tr>
-<tr>
-<td>Ми</td>
-<td>ЖЮ</td>
-<td>П</td>
-<td>С</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-2\. ЗӘР ТАЛДАУЫ АНАЛИЗ МОЧИ
-
-<table>
-<tr>
-<td rowspan="2">Р/с №№ п/п</td>
-<td rowspan="2">
-Көрсеткіштер
-Показатели
-Күні
-Дата
-Уақыты
-Время
-</td>
-<td rowspan="2">Мөлшері Количество</td>
-<td rowspan="2">
-Түсі
-Цвет
-</td>
-<td rowspan="2">рН</td>
-<td rowspan="2">Сыбағалы салмағы Удельн. вес</td>
-<td rowspan="2">Тұнықтығы Прозрачность</td>
-<td rowspan="2">Белок</td>
-<td rowspan="2">
-Қант
-Сахар
-</td>
-<td rowspan="2">Ацетон</td>
-<td rowspan="2">
-Өт пигменті
-Желчн. пигм.
-</td>
-<td colspan="6">Микроскопия</td>
-<td rowspan="2">Алкоголь</td>
-<td rowspan="2">
-Ескерпе
-Примечание
-</td>
-</tr>
-<tr>
-<td>жалпақ эпителий плоск. эпителий</td>
-<td>
-бүйрек эпителиi
-почеч. эпителий
-</td>
-<td>цилиндрлер цилиндры</td>
-<td>
-лейкоциттер
-лейкоциты
-</td>
-<td>
-эритроциттер
-эритроцитты
-</td>
-<td>
-тұз
-соли
-</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-3\. ҚАН БИОХИМИЯСЫ БИОХИМИЯ КРОВИ
-
-<table>
-<tr>
-<td rowspan="2">Р/с № №п/п</td>
-<td rowspan="2">Көрсеткіштер Показатели Күні Дата Уақыты Время</td>
-<td rowspan="2">Жалпы белок Общий белок</td>
-<td rowspan="2">Қант Сахар</td>
-<td rowspan="2">
-Қалдық азот
-Остаточный азот
-</td>
-<td rowspan="2">
-Билирубин жалпы түзу
-Билирубин общий прямой
-</td>
-<td rowspan="2">
-Несеп нәрі
-Мочевина
-</td>
-<td rowspan="2">Холинэстераза</td>
-<td rowspan="2">АЛТ</td>
-<td rowspan="2">АСТ</td>
-<td rowspan="2">
-Тимол сынамасы
-Тимоловая проба
-</td>
-<td rowspan="2">
-Плазма гемолизi
-Гемолиз плазмы
-</td>
-<td rowspan="2">Карбоксигемоглобин</td>
-<td rowspan="2">Алкоголь</td>
-<td colspan="5">
-ЭРИТРОЦИТТЕР
-ЭЛЕКТРОЛИТЫ
-</td>
-</tr>
-<tr>
-<td>К</td>
-<td>Na</td>
-<td>Ca</td>
-<td>Ca/P</td>
-<td>Cl</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-4\. КОАГУЛОГРАММА ЖӘНЕ ҚЫШҚЫЛДЫҚ – СІЛТІЛІК ТЕПЕ – ТЕНДІК
-
-КОАГУЛОГРАММА И КИСЛОТНО-ЩЕЛОЧНОЕ РАВНОВЕСИЕ
-
-<table>
-<tr>
-<td>Р/с №№ п/п</td>
-<td>
-КөрсеткіштерПоказатели
-Күні
-Дата
-Уақыты
-Время
-</td>
-<td>
-Ли- Уайт бойынша ұю уақыты, Сухарев бойынша басталуы - аяқталуы
-Время сверт. по Ли-Уайту, по Сухареву начало - конец
-</td>
-<td>Протромбин индексi Протромбиновый индекс</td>
-<td>Фибриноген</td>
-<td>Фибриноген &quot;В&quot;</td>
-<td>
-Плазманың қайта кальцилену уақыты
-Время рекальцинации плазмы
-</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-продолжение
-
-<table>
-<tr>
-<td>Тромботест</td>
-<td>
-Этанол тестi
-Этаноловый тест
-</td>
-<td>рН</td>
-<td>НО2</td>
-<td>ВЕ</td>
-<td>АВ</td>
-<td>В</td>
-<td>СО2</td>
-<td>
-Қандағы рСО2
-рСО2 крови
-</td>
-<td>ВВ</td>
-<td>SB</td>
-<td>Қан РО2РО2 крови</td>
-</tr>
-<tr>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
-<th>15</th>
-<th>16</th>
-<th>17</th>
-<th>18</th>
-<th>19</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td></td>
-<td>МНО</td>
-<td>
-Тромбоциттер агрегациясы
-Агрегация тромбоцитов
-</td>
-<td>
-Тромбоциттер адгезиясы
-Адгезия тромбоцитов
-</td>
-<td>АКТ</td>
-<td>АПТВ</td>
-<td>
-Эуглобиндік лизис
-Эуглобиновый лизис
-</td>
-</tr>
-<tr>
-<th></th>
-<th>20</th>
-<th>21</th>
-<th>22</th>
-<th>23</th>
-<th>24</th>
-<th>25</th>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-5\. ЖҰЛЫН СҰЙЫҚТЫҒЫ (ЛИКВОРДЫҢ) ПУНКТАТЫНЫҢ ТАЛДАУЫ
-
-АНАЛИЗ ПУНКТАТА СПИННО-МОЗГОВОЙ ЖИДКОСТИ (ЛИКВОРА)
-
-<table>
-<tr>
-<td>Р/с № № п/п</td>
-<td>
-Көрсеткіштер
-Показатели
-Күні
-Дата
-Уақыты
-Время
-</td>
-<td>
-Қысымы
-Давление
-</td>
-<td>
-Түсі
-Цвет
-</td>
-<td>
-Тұнықтығы
-Прозрачность
-</td>
-<td>Цитоз</td>
-<td>Белок</td>
-<td>
-Қант
-Сахар
-</td>
-<td>
-Хлоридтер
-лориды
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-6\. КОПРОГРАММА
-
-<table>
-<tr>
-<td rowspan="3">Р/с № № п/п</td>
-<td rowspan="3">
-Көрсеткіштер
-Показатели
-Күні
-Дата
-Уақыты
-Время
-</td>
-<td rowspan="3">
-Мөлшері
-Количество
-</td>
-<td rowspan="3">
-Консистенциясы
-Консистенция
-</td>
-<td rowspan="3">
-Нысаны
-Форма
-</td>
-<td rowspan="3">
-Қанға реакциясы
-Реакция на кровь
-</td>
-<td rowspan="3">
-Бейтарап майлар
-Жиры нейтрал
-</td>
-<td rowspan="3">
-Май қышқылдары
-Жирные кислоты
-</td>
-<td colspan="7">МИКРОСКОПИЯ</td>
-</tr>
-<tr>
-<td colspan="2">Эпителий</td>
-<td rowspan="2">
-Лейкоциттер
-Лейкоциты
-</td>
-<td rowspan="2">
-Эритроциттер
-Эритроциты
-</td>
-<td rowspan="2">
-Глист жұмырқасы
-Яйца глист
-</td>
-<td rowspan="2">
-Ашытқы саңырауқұлақтар
-Дрожжевые грибки
-</td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-<td>жалпақплоский</td>
-<td>
-цилиндрлік
-цилиндрич
-</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
+> *Сноска. Форма исключена приказом Министра здравоохранения РК от 05.09.2011 № 583 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
 
 А4 форматы
 
@@ -1923,1866 +302,9 @@ ___________________________________________________________________
 </tr>
 </table>
 
-## ТЕКСЕРУ ПАРАҒЫ ЛИСТ ОБСЛЕДОВАНИЯ
+### ТЕКСЕРУ ПАРАҒЫ ЛИСТ ОБСЛЕДОВАНИЯ
 
-ТАӘ (Ф.И.О.) ________ Туған күні (Дата рождения) __________________
-
-Диагноз ___________________________________________________________
-
-<table>
-<tr>
-<td colspan="2" rowspan="2">
-ТАЛДАУЛАР
-АНАЛИЗЫ
-</td>
-<td colspan="3">
-Күнi
-Дата
-</td>
-<td colspan="3">
-Күнi
-Дата
-</td>
-<td colspan="3">
-Күнi
-Дата
-</td>
-<td colspan="3">
-Күнi
-Дата
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="4">
-Электролиттер
-Электролиты
-</td>
-<td>Na (м моль/л)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>'К (м моль/л)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Са/Р (ммоль/л)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>С1 (ммоль/л)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="12">
-Қан био-химиясы
-Биохимия крови
-</td>
-<td>
-АЛТ (ммоль/сағ.л)
-ммоль/час. л)
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-ACT (ммоль/сағ.л)
-(ммоль/час. л)
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛДГ Е/Л</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КФК Е/Л</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Миоглобин НГ/мл</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Билирубин мкмоль/л</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Қант (Сахар) ммоль/л</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Мочевина ммоль/л</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Креатинин мкмоль/л</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Жалпы белок
-Общ. белок гр/л
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="9">
-ҚСО
-КЩС
-</td>
-<td>РН</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>PCO2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>PO2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>BE</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>BB</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>SB</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АВ</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>НвО2;</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="9">
-Несеп талдауы
-Анализ мочи
-Несептiң жалпы талдауы
-Общий анализ мочи
-</td>
-<td>
-Үлестік салмағы
-(Уд. вес)
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Түсi (Цвет)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Тұнықтығы
-Прозрачность
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Лейкоциттер
-(Лейкоциты)
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Эритроциттер
-(Эритроциты)
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Белок</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Қант (Сахар)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РН:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-ҚАННЫҢ ЖАЛПЫ ТАЛДАУЫ ОБЩИЙ АНАЛИЗ КРОВИ
-
-<table>
-<tr>
-<td rowspan="2">
-Күнi
-Дата
-</td>
-<td rowspan="2">
-Уақыты
-Время
-</td>
-<td rowspan="2">ЭР</td>
-<td rowspan="2">НВ</td>
-<td rowspan="2">НТ</td>
-<td rowspan="2">Ц.П.</td>
-<td rowspan="2">ТР.</td>
-<td rowspan="2">ЛК.</td>
-<td rowspan="2">Б</td>
-<td rowspan="2">Э</td>
-<td colspan="4">Нейтрофилдер (Нейтрофилы)</td>
-<td rowspan="2">ЛФ</td>
-<td rowspan="2">МЦ</td>
-<td rowspan="2">
-ЭШЖ
-СОЭ
-</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-<td>М</td>
-<td>Ж Ю</td>
-<td>П</td>
-<td>С</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>КӨРСЕТКIШТЕР (ПОКАЗАТЕЛИ)</td>
-<td colspan="13">КҮНІ ДАТА</td>
-</tr>
-<tr>
-<td>
-Протромбин индексi
-Протромбиновый индекс
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Фибриноген &quot;А&quot;</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Фибриноген &quot;В&quot;</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Фибриназа</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АПТВ</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Этанол тестi
-Этаноловый тест
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Тромботест</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Тромбин уақыты
-Тромбиновое время
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АКТ</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td rowspan="2">
-Әдiс
-Метод
-</td>
-<td>
-Күнi
-Дата
-</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-</tr>
-<tr>
-<td>
-Уақыты
-Время
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Сухарев бойынша басталуы
-По Сухареву нач.
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-аяқталуы
-конец
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Ли-Уайт бойынша
-По Ли-Уайту
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Тағайындалымдар мен бақылау парағының (Лист назначений и наблюдений)
-
-№ _________________
-
-ауру тарихына (к истории болезни) _____________
-
-ТАӘ (ФИО) ________________________________________________
-
-Күні (Дата) _______________
-
-<table>
-<tr>
-<th>
-Тағайындалымдар
-Назначения
-</th>
-<th colspan="2">
-Уақыты
-Время
-</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
-<th>15</th>
-<th>16</th>
-<th>17</th>
-<th>18</th>
-<th>19</th>
-<th>20</th>
-<th>21</th>
-<th>23</th>
-<th>22</th>
-<th>24</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td>
-Үстелдің №
-№ стола
-</td>
-<td>t0</td>
-<td>
-АҚ/к
-п/АД
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>42</td>
-<td>230</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>220</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>41</td>
-<td>210</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>200</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>40</td>
-<td>190</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>180</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>39</td>
-<td>170</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>160</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>38</td>
-<td>150</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>140</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>37</td>
-<td>130</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>120</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>36</td>
-<td>110</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>100</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>135</td>
-<td>90</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>80</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>34</td>
-<td>70</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>60</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Iшiлдi (Выпито)</td>
-<td></td>
-<td>30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в/і салынған
-(В/в введено)
-</td>
-<td></td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Бөлiнген несеп Выделено мочи</td>
-<td></td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
+> *Сноска. Форма исключена приказом Министра здравоохранения РК от 05.09.2011 № 583 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
 
 А4 форматы
 
@@ -3818,6 +340,4841 @@ ACT (ммоль/сағ.л)
 </td>
 <td>
 Медицинская документация Форма № 011-6/у
+утверждена приказом
+и.о. Министра здравоохранения
+Республики Казахстан
+от 23 ноября 2010 года № 907
+</td>
+</tr>
+</table>
+
+### Жаңа туған нәрестенің реанимация және жіті терапия бөліміндегі науқас жағдайының негізгі көрсеткіштері мен тағайындаулары Карта основных показателей состояния больного и назначений в отделении (палате) реанимации и интенсивной терапии новорожденных
+
+Күні (Дата) ___ Науқас (Больной) _________ Жасы (Возраст) ___ Жынысы
+
+(Пол) _____ Ауру тарихы № (№ истории) __________________
+
+Қан тобы (Группа крови) _____ Резус _____ Диагнозы (Диагноз)
+
+____________ Халжағдайы (Состояние) __________ Туғандағы салмағы (Вес
+
+при рождении) _____, Бүгінгі салмағы (Вес фактический) _____,
+
+Гестациялық жасы (Гестационный возраст) ____________________
+
+<table>
+<tr>
+<td rowspan="4">
+ТСМ мл/кг/тәу
+(ФПЖ мл/кг/сут)
+</td>
+<td></td>
+<td>Жоспарланды (Запланировано)</td>
+<td colspan="2">
+Алынды
+(Фактический)
+</td>
+<td colspan="2" rowspan="4">Мұқтаждылық (Потребность)</td>
+<td colspan="2">
+Б
+Белок
+</td>
+<td></td>
+<td>г/кг/тәу(г/кг/сут)</td>
+<td colspan="5">
+Зерттеу жоспары
+(План обследования)
+</td>
+<td colspan="2" rowspan="4">Оксигенотерапия</td>
+<td colspan="3">Палатка л/мин</td>
+<td colspan="2" rowspan="4">
+Энтеральды тамақтану түрі
+(вид энтерального кормления)
+</td>
+<td></td>
+</tr>
+<tr>
+<td>Per os</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">К (Угл)</td>
+<td></td>
+<td>г/кг/тәу(г/кг/сут)</td>
+<td colspan="5" rowspan="3"></td>
+<td colspan="3">Канюла л/мин</td>
+<td></td>
+</tr>
+<tr>
+<td>к/т (в/в)</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">М (Жир)</td>
+<td></td>
+<td>
+г/кг/тәу
+(г/кг/сут)
+</td>
+<td colspan="3">Маска л/мин</td>
+<td></td>
+</tr>
+<tr>
+<td>Барлығы(Всего)</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Ккал</td>
+<td></td>
+<td>Ккал/кг</td>
+<td colspan="3">Кувез л/мин</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Тағайындаулар. Дозалары. (Назначения. Дозы)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Тамақтануы (Кормление)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Фототерапия</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Кұсық (срыгивание)*</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Үлкен дәреті (Стул)**</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Диурез</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+*Үлкен дәреті (характер стула): м - меконий, с - сілемеймен (с
+
+слизью), к - қанмен (с кровью), з - жасыл (зеленью), п – өтпелі
+
+(переходный)
+
+** Құсық (срыгивание): ж – өтпен (с желчью), м - қорытылмаған сүтпен
+
+(непереваренным молоком)
+
+Оборотная сторона
+
+### Жасанды тыныс беру хаттамасы (Протокол искусственной вентиляции легких)
+
+<table>
+<tr>
+<td></td>
+<td>Уақыты (Время)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">
+Қойылған өлшемдер 1
+(Установленные параметры 1)
+</td>
+<td>Tin</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tex</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>f – set (IMV)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>fiO2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">
+Өлшенетін өлшемдер 1
+(Измеряемые параметры 1)
+</td>
+<td>IMV peak</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>MAP</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>PEEP</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Қойылған өлшемдер 2
+(Установленные параметры 2)
+</td>
+<td>HFO frequency</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HFO amplitude</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">
+Өлшенетін өлшемдер 2
+(Измеряемые параметры 2)
+</td>
+<td>IMV im</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DCO2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Vt – im</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Vthf</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="9">
+Науқас туралы мәліметтер
+(Данные пациенты)
+</td>
+<td>pH</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>pO2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>pCO2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>BE</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Sat О2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Пульс</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АД</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЧД</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Температура</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="7">
+Режімдер
+(Режимы)
+</td>
+<td>CPAP</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>IPPV/IMV</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SIMV</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SIPPV/AC/PTV*</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>PSV*</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>VIVE*</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Емдеуші дәрігер (Лечащий врач) _____ Кезекші дәрігер (Дежурный врач)
+
+________________
+
+Кезекші медбике (Дежурная медсестра) ______ Кезекші медбике (Дежурная
+
+медсестра) ______________
+
+* режімдер *режимы выставляются имеющиеся на аппаратах ИВЛ в зависимости от производителя
+
+Ескертпе:
+
+СФМ – сұйықтыққа физиологиялық мұқтаждық
+
+Per os – ішке
+
+к/т - көк тамырға)
+
+к - көмірсу
+
+м - май
+
+д.м. – дене массасы
+
+<table>
+<tr>
+<td>Tin - время вдоха</td>
+</tr>
+<tr>
+<td>Tex – время выдоха</td>
+</tr>
+<tr>
+<td>f – set (IMV) – установленная частота аппаратного дыхания</td>
+</tr>
+<tr>
+<td>fiO2 - концентрация подаваемого кислорода</td>
+</tr>
+<tr>
+<td>IMV peak – пиковое давление</td>
+</tr>
+<tr>
+<td>MAP – среднее давление в дыхательных путях</td>
+</tr>
+<tr>
+<td>PEEP – положительное давление в конце выдоха</td>
+</tr>
+<tr>
+<td>HFO frequency – частота высоко частотной вентиляции</td>
+</tr>
+<tr>
+<td>HFO amplitude – амплитуда высокочастотной вентиляции</td>
+</tr>
+<tr>
+<td>IMV im - измеряемый на вдохе минутный объем, создаваемый принудительными вдохами во время высокочастотной вентиляции</td>
+</tr>
+<tr>
+<td>DCO2 –коэффицент вывода углекислого газа</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>Vt – im – измеряемый дыхательный объем во время вдоха, создаваемый высокочастотными импульсами</td>
+</tr>
+<tr>
+<td>Vthf – усредненный дыхательный объем при высокочастотном вентиляции</td>
+</tr>
+<tr>
+<td>pH – степень кислотности</td>
+</tr>
+<tr>
+<td>pO2 – парциальное напряжение кислорода</td>
+</tr>
+<tr>
+<td>pCO2 – парциальное напряжение углекислого газа</td>
+</tr>
+<tr>
+<td>BE – дефицит основания</td>
+</tr>
+<tr>
+<td>Sat О2 – сатурация</td>
+</tr>
+<tr>
+<td>Пульс</td>
+</tr>
+<tr>
+<td>АД – артериальное давление</td>
+</tr>
+<tr>
+<td>ЧД – частота дыхания ребенка</td>
+</tr>
+<tr>
+<td>Температура</td>
+</tr>
+<tr>
+<td>CPAP – спонтанное дыхание с постоянным положительным давлением в дыхательных путях</td>
+</tr>
+<tr>
+<td>IPPV/IMV – режим принудительной перемежающий вентиляции</td>
+</tr>
+<tr>
+<td>SIMV – синхронизированная перемежающаяся принудительная вентиляция</td>
+</tr>
+<tr>
+<td>SIPPV/AC/PTV - искусственная вентиляция легких с перемежающимся положительным давлением, синхронизируемая с самостоятельным дыханием пациентом</td>
+</tr>
+<tr>
+<td>PSV – режим вентиляции с поддержкой давления</td>
+</tr>
+<tr>
+<td>VIVE – раздельное регулирование потока на вдохе и выдохе</td>
+</tr>
+</table>
+
+Примечание:
+
+ФПЖ – физиологическая потребность в жидкости
+
+Per os – внутрь
+
+к/т - көк тамырға (в/в – внутривенно)
+
+к - көмірсу (угл - углеводы)
+
+м - май (жиры)
+
+м.т. – масса тела
+
+<table>
+<tr>
+<td>Tin - время вдоха</td>
+</tr>
+<tr>
+<td>Tex – время выдоха</td>
+</tr>
+<tr>
+<td>f – set (IMV) – установленная частота аппаратного дыхания</td>
+</tr>
+<tr>
+<td>fiO2 - концентрация подаваемого кислорода</td>
+</tr>
+<tr>
+<td>IMV peak – пиковое давление</td>
+</tr>
+<tr>
+<td>MAP – среднее давление в дыхательных путях</td>
+</tr>
+<tr>
+<td>PEEP – положительное давление в конце выдоха</td>
+</tr>
+<tr>
+<td>HFO frequency – частота высоко частотной вентиляции</td>
+</tr>
+<tr>
+<td>HFO amplitude – амплитуда высокочастотной вентиляции</td>
+</tr>
+<tr>
+<td>IMV im - измеряемый на вдохе минутный объем, создаваемый принудительными вдохами во время высокочастотной вентиляции</td>
+</tr>
+<tr>
+<td>DCO2 –коэффицент вывода углекислого газа</td>
+</tr>
+<tr>
+<td>Vt – im – измеряемый дыхательный объем во время вдоха, создаваемый высокочастотными импульсами</td>
+</tr>
+<tr>
+<td>Vthf –усредненный дыхательный объем при высокочастотном вентиляции</td>
+</tr>
+<tr>
+<td>pH – степень кислотности</td>
+</tr>
+<tr>
+<td>pO2 – парциальное напряжение кислорода</td>
+</tr>
+<tr>
+<td>pCO2 – парциальное напряжение углекислого газа</td>
+</tr>
+<tr>
+<td>BE – дефицит основания</td>
+</tr>
+<tr>
+<td>Sat О2 – сатурация</td>
+</tr>
+<tr>
+<td>Пульс</td>
+</tr>
+<tr>
+<td>АД – артериальное давление</td>
+</tr>
+<tr>
+<td>ЧД – частота дыхания ребенка</td>
+</tr>
+<tr>
+<td>Температура</td>
+</tr>
+<tr>
+<td>CPAP – спонтанное дыхание с постоянным положительным давлением в дыхательных путях</td>
+</tr>
+<tr>
+<td>IPPV/IMV – режим принудительной перемежающий вентиляции</td>
+</tr>
+<tr>
+<td>SIMV – синхронизированная перемежающаяся принудительная вентиляция</td>
+</tr>
+<tr>
+<td>SIPPV/AC/PTV - искусственная вентиляция легких с перемежающимся положительным давлением, синхронизируемая с самостоятельным дыханием пациентом</td>
+</tr>
+<tr>
+<td>PSV – режим вентиляции с поддержкой давления</td>
+</tr>
+<tr>
+<td>VIVE – раздельное регулирование потока на вдохе и выдохе</td>
+</tr>
+</table>
+
+А4 форматы
+
+Формат А4
+
+<table>
+<tr>
+<td colspan="2"></td>
+<td>
+ҚҰЖЖ бойынша ұйым коды
+Код организации по ОКПО _______________
+</td>
+</tr>
+<tr>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрлігі
+Министерство здравоохранения Республики Казахстан
+</td>
+<td rowspan="2"></td>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрінің м.а. 2010 жылғы 23 қарашадағы № 907 бұйрығымен бекітілген
+№ 012/е нысанды
+медициналық құжаттама
+</td>
+</tr>
+<tr>
+<td>
+Ұйымның атауы
+Наименование организации
+</td>
+<td>
+Медицинская документация
+Форма № 012/у утверждена приказом
+и.о. Министра здравоохранения
+Республики Казахстан
+от 23 ноября 2010 года № 907
+</td>
+</tr>
+</table>
+
+### Жүрек-қан тамырларына операция жасаудағы ОПЕРАЦИЯ КЕЗЕҢІНІҢ КАРТАСЫ КАРТА ОПЕРАЦИОННОГО ПЕРИОДА при проведении сердечно–сосудистых операций
+
+Қан тобы (Группа крови) __________________
+
+20__ жыл (год) "__" ______________
+
+Ұюы (Свертываемость) _____________
+
+Қан ағу ұзақтығы (Длительность кровотечения) _______________________
+
+ТАӘ
+
+(ФИО) ______________________________________________________________
+
+Сырқатнаманың № (История болезни №)____ Шұғыл (экстренный) ия, жоқ
+
+(да,нет) _______ Протротромб индексі(Индекс протротромб) ___________
+
+Жалпы жағдайы (Общее состояние) ________
+
+Туған күні (Дата рождения) ________ Салмағы (Вес) __________________
+
+Бойы (Рост) ______________ Тістері (Зубы) __________________________
+
+Тромбоциттер (Тромбоциты) __________________________________________
+
+Операцияға дейінгі диагнозы Болжанған операция
+
+(Диагноз до операции) (Предполагаемая операция)
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+### НАУҚАСТЫҢ ОПЕРАЦИЯ АЛДЫНДАҒЫ ЖАҒДАЙЫ СОСТОЯНИЕ БОЛЬНОГО ПЕРЕД ОПЕРАЦИЕЙ
+
+Арт.қысымы (Арт. давление) ____ Веналық қысымы (Вен. давление) ___
+
+Тамыр соғуы (Пульс) ___________
+
+Жүрек (Сердце) ___________________________________________________
+
+ЭКГ ______________________________________________________________
+
+Рентген __________________________________________________________
+
+Қан (Кровь): Гемоглобин ____ Эритроциттер (Эритроциты) ___________
+
+Лейкоциттер (Лейкоциты) ______ ЭШЖ (СОЭ) _________________________
+
+Өкпе (Легкие) ______ О2 тұтыну (Потребление О2) __________________
+
+Оң жақ өкпеқап (Плевра справа) ______ сол жақ (слева) ____________
+
+Ентігудің пайда болуы (Одышка возникает при) _____________________
+
+Негізгі заталмасу (Осн. обмен) ______ Қандағы билирубин (Билирубин
+
+крови) ________ Қандағы қант (Сахар крови) _______________________
+
+Бауыр (Печень) ________ Несеп (Мочевина) _________________________
+
+Қалдық азот (Ост. азот) ________ Белок ___________________________
+
+Бүйректер (Почки) ________ Несеп талдауы (Анализ мочи) ___________
+
+Диурез ______ Гормондық терапия (Гормональная терапия) ___________
+
+Аллергия ______ Бұрынғы наркоздар (Предыдущие наркозы) ___________
+
+Толықтыру (Дополнение) ___________________________________________
+
+Бітелуге, ЖҚ-на төзу мүмкіндігі (Возможная переносимость окклюзии,
+
+ИК) ____________________________
+
+Операция мен анестезия қаупі (Риск операции и анастезии)
+
+_______________________________
+
+__________________________________________________________________
+
+*Жасанды қан айналуы
+
+### АУЫРСЫНУДЫ БАСУ ТҮРЛЕРІНЕ АЙҒАҚТАР МЕН ҚАРСЫ АЙҒАҚТАР ПОКАЗАНИЯ И ПРОТИВОПОКАЗАНИЯ К ВИДУ ОБЕЗБОЛИВАНИЯ НАРКОЗҒА ДАЯРЛАУ ПОДГОТОВКА К НАРКОЗУ
+
+Операция қарсаңындағы кеште Операция күні таңертең
+
+Накануне вечером Утром в день операции
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+> *№ 012/е нысанға*  
+> *к форме № 012/у*
+
+(5 мин. уақыттан соң) АҚҚ мен тамыр соғуы
+
+(Время через 5 мин.) А/Д и пульс
+
+<table>
+<tr>
+<td rowspan="21">Кіріспе наркоз. Вводный наркоз</td>
+<td>210</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>200</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>190</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>180</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>170</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>160</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>150</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>140</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>130</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>120</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>110</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>100</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>90</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>80</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>70</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>60</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="3">ОВҚҚ ЦВД</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">
+Өңештегі температура
+Температура в пищеводе
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">
+Тік ішектегі
+В прямой кишке
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">
+Басқарылмалы тыныс алу
+Управляемое дыхание
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">
+Есірткі заттар л/мин О2 мен газдар
+Эфир
+Наркотические вещества и газы
+азот тотығы
+закись азота
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">
+Бұлшық ет релаксанты
+Мышечный релаксант
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Қарашық Зрачок</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">
+Негізгі есірткі Основной наркотик
+Наркоз тереңдігі (клиник.)
+Глубина наркоза (клинич.)
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">
+Қан шығыны. Кровопотеря
+Наркоз тереңдігі (ЭЭГ)
+Глубина наркоза (ЭЭГ)
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Интубация техникасы
+Техника интубации
+</td>
+<td>
+Операция этапы
+Этап операции
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Емдеу – іс-шаралары
+Лечебные мероприятия
+</td>
+<td>
+Қан құю мл.
+Переливание крови в мл.
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+> *(к форме) № 012/е нысанына*  
+> *жалғасы (продолжение)*
+
+<table>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>210</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>190</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>180</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>170</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>160</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>150</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>140</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>130</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>120</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>110</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>100</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>90</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>80</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>70</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>60</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>50</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>40</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>30</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>10</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+> *ф. № 012/е н. жалғасы*  
+> *к ф.012/у продолжение*
+
+Қорытынды диагноз (Окончательный диагноз ____________________________
+
+Жасалған операция (Произведенная операция) __________________________
+
+Ауырсынуды басу (Обезболивание) _____________________________________
+
+Анестезиологтар (т.а.ә.). Анестезиологи (ф.и.о) _____________________
+
+Хирургтар (т.а.ә.) Хирурги (ф.и.о.) _________________________________
+
+Наркоз аппаратының типі (Тип наркозного аппарата) ___________________
+
+Операция үстеліндегі орналасуы (Положение на опер. столе) ___________
+
+Операция кезінде науқастың функцияларын басқару
+
+Управление функциями больного по ходу операции
+
+Тыныс алуды басқару (Управление дыханием) ___________________________
+
+Бұлшық ет релаксанттарының шығыны (Расход мыш. релаксантов)
+
+_____________________________________________________________________
+
+Жасанды қанайналым (Искусственное кровообращение) ___________________
+
+Басқарулы гипотония: әдісі (Управляемая гипотония: метод) ___________
+
+Гипотермия __________________________________________________________
+
+Наркозбен операция кезіндегі асқынулар – емдеу іс-шаралары
+
+Осложнения по ходу наркоза и операции – лечебные мероприятия
+
+Интубацияға әрекеттену саны (Число попыток интубации)
+
+____________________________ Венесекция, катетерлеу (Венесекция, катетеризация) _____________________________________________________
+
+Бұлшық ет жыпылықтауы (Фибрилляции до) _____________________________
+
+дейін Тоқтауы (Остановка) __________________________________________
+
+АҚ төмендеуі (Снижение АД до) ________ дейін, торр. на ________ мин.
+
+Шок ________________________________________________________________
+
+Қан шығыны (Кровопотеря) _____ Қан құю (Переливание крови) _________
+
+Басқа сұйықтар бітелуге дейін, ЖҚ (Др. жидкостей до окколюзии, ИК) ____________________________________________________________________
+
+кейiн (после) ____ Қайталу (Возврат) _____ Жеңілдету (Разгрузка) ___
+
+Диурез _______
+
+Операция кезінде арнайы әдiстер көмегімен бақылау
+
+Наблюдение с помощью специальных методов по ходу операции
+
+ЭКГ ______________________________________________________________
+
+гемодинамика _____________________________________________________
+
+__________________________________________________________________
+
+Электроэнцефалограмма ____________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+Белсенді салқындату қарқыны (Темп охлаждения активного) __________
+
+селқос (пассивного) ______________________________________________
+
+ЖҚ, бітелудің ұзақтығы (Длительность окклюзии, ИК) _______________
+
+Қатар ЖҚ (Параллельного ИК) ______________________________________
+
+Қалпына келу кезеңі (Восстановит. период) ________________________
+
+Белсенді жылыту тәсілі мен қарқыны (Темп и способ активного согревания) ______________________________________________________
+
+__________________________________________________________________
+
+АНЕСТЕЗИОЛОГТЫҢ ЕСКЕРТУІ
+
+ЗАМЕЧАНИЯ АНЕСТЕЗИОЛОГА
+
+Анестезиологтың қолы (Подпись анестезиолога) _____________________
+
+Анестезист мейірбике (медсестра анестезистка) ____________________
+
+Наркотиктер (Наркотики): _________________________________________
+
+Кардиплегия: құрамы (Кардиоплегия: состав) _______________________
+
+Тәсілі (Способ) __________________________________________________
+
+А4 форматы
+
+Формат А4
+
+<table>
+<tr>
+<td colspan="2"></td>
+<td>
+ҚҰЖЖ бойынша ұйым коды
+Код организации по ОКПО _______________
+</td>
+</tr>
+<tr>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрлігі
+Министерство здравоохранения Республики Казахстан
+</td>
+<td rowspan="2"></td>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрінің м.а.
+2010 жылғы 23 қарашадағы № 907
+бұйрығымен бекітілген № 013/е нысанды
+медициналық құжаттама
+</td>
+</tr>
+<tr>
+<td>
+Ұйымның атауы
+Наименование организации
+</td>
+<td>
+Медицинская документация Форма № 013/у
+утверждена приказом
+и.о. Министра здравоохранения
+Республики Казахстан
+от 23 ноября 2010 года № 907
+</td>
+</tr>
+</table>
+
+### Патологоанатомиялық зерттеу ХАТТАМАСЫ (картасы) №_____________ ПРОТОКОЛ (карта) патологоанатомического исследования 2010 жылғы (года) "__"____________
+
+__________________________________________________________________
+
+Хаттаманы толтырған ұйымның мекенжайы (Адрес организации,
+
+составившего протокол):
+
+Республика (облыс,өлке) (Республика (область, край)) ______________
+
+Аудан (қала) (Район (город)) _____________________________________
+
+Аурухана (больница) ________ Бөлімше (отделение) _________________
+
+Науқас картасының (Карта больного) № ____________
+
+Тегі, аты, әкесінің аты (Фамилия, имя, отчество): _________________
+
+2\. Жынысы Е. Ә. (Пол М. Ж.) ____ 3. Туған күні (Дата рождения): ___
+
+4\. Тұрғылықты мекенжайы (Место жительства): _______________________
+
+5\. Кәсібі (зейнетке дейін) (Профессия ( до пенсии)):
+
+6\. Ауруханаға әкелінді (Доставлен в больницу): __________ сағаттан
+
+(күннен) кейін сырқаты басталғаннан соң (часов (дней) после начала
+
+заболевания)
+
+7\. Өткізілген (Проведено) _________ төсек-күн (койко - дней)
+
+8\. Қайтыс болған күні (Дата смерти): ____________________________
+
+жылы, айы, күні, сағаты (год, мес, число,час)
+
+9\. Мәйітті ашу күні мен уақыты (Дата и время вскрытия): _________
+
+жылы, күні, айы (год, мес., число, час)
+
+10\. Емдеуші дәрігер (Лечащий врач): _____________________________
+
+_________________________________________________________________
+
+11\. Мәйітті ашуға қатысқандар (Присутствовали на вскрытии): _____
+
+_________________________________________________________________
+
+Кодтар (Коды):
+
+12\. Жолдаған ұйымның диагнозы (Диагноз направившей организации):
+
+_________________________________________________________________
+
+13\. Түскен кездегі диагнозы (Диагноз при поступлении):___________
+
+_________________________________________________________________
+
+14\. Стационардағы клиникалық диагноздары және олардың қойылған күні (Клинические диагнозы в стационаре и даты их установления): _________________________________________________________________
+
+15\. Қорытынды клиникалық диагноз және оны қойған күні (Заключительный клинический диагноз и дата его установления)
+
+Негізгі (Основное): _____________________________________________
+
+Негізгі аурудың асқынуы (Осложнение основного заболевания) ______
+
+_________________________________________________________________
+
+Қосалқы аурулары (Сопутствующие заболевания): ___________________
+
+Қайтыс болу себебі (Причина смерти): ____________________________
+
+_________________________________________________________________
+
+> *№ 013/е н. 2 беті*  
+> *стр.2 ф.№ 013/у*
+
+16\. Клиникалық–зертханалық зерттеулер нәтижелері (Результаты
+
+клинико-лабораторных исследований): ____________________________
+
+________________________________________________________________
+
+17\. Патологоанатомиялық диагноз (негізгі ауруы, асқынуы, қосалқы
+
+аурулары) (Патологоанатомический диагноз (основное заболевание,
+
+осложнения, сопутствующие заболевания)): _______________________
+
+________________________________________________________________
+
+18\. Клиникалық диагностикалау қателері (астын сызыңыз, жазыңыз)
+
+(Ошибки клинической диагностики (подчеркнуть, вписать))
+
+Негізгі ауруы бойынша айырмашылықтар (Расхождение диагнозов по
+
+основному заболеванию) _________________________________________
+
+________________________________________________________________
+
+Кеш диагностикалау (Запоздалая диагностика)
+
+негізгі ауруының (основного заболевания) ________________________
+
+асқынулары бойынша (по осложнениям) _____________________________
+
+қайтыс болуға әкелген асқынуының (смертельного осложнения) ______
+
+қосалқы аурулары бойынша ( по сопутствующим заболеваниям) _______
+
+Диагноз айырмашылықтарының себептері
+
+Причины расхождения диагнозов
+
+<table>
+<tr>
+<td>
+Диагностикадағы объективті қиындықтар
+Объективная трудность диагностики
+</td>
+<td>Аз уақыт болуы Кратковременное пребывания</td>
+<td>
+Науқастың толық қаралмауы
+Недообслед. больного
+</td>
+<td>
+Қарау деректерін асыра бағалау
+Переоценка данных обследования
+</td>
+<td>
+Аурудың сиректігі
+Редкость заболевания
+</td>
+<td>
+Диагнозының дұрыс ресімделмеуі
+Неправильное оформление диагноза
+</td>
+</tr>
+</table>
+
+19\. Қайтыс болу себептері (Причина смерти) №_____ қайтыс болғаны
+
+туралы дәрігерлік куәлікте мынадай жазбалар жасалған (во врачебном
+
+свидетельстве о смерти № ____сделана следующая запись)
+
+Кодтар (Коды) _________________
+
+1\.
+
+а) _________________________________________________________
+
+б) _________________________________________________________
+
+в) _________________________________________________________
+
+П. _________________________________________________________
+
+_________ беттегі хаттама бөлімі қоса берілген
+
+(Протокольная часть на ___ страницах прилагается)
+
+Патологоанатомның тегі:
+
+(Фамилия патологоанатома) _________________________________
+
+қолы (подпись)
+
+Бөлім меңгерушісі:
+
+(Заведующий отделением) ___________________________________
+
+қолы (подпись)
+
+> *№ 013/е н. 3 беті*  
+> *стр.3 ф.№ 013/у*
+
+Патологоанатомиялық зерттеудің нәтижелері
+
+(Результаты патологоанатомического исследования)
+
+<table>
+<tr>
+<td rowspan="2">
+Бойы
+Рост
+</td>
+<td rowspan="2">
+Дене салмағы
+Вес тела
+</td>
+<td colspan="8">
+Дене мүшелері салмағы
+Вес органов
+</td>
+</tr>
+<tr>
+<td>
+Ми
+Головной мозг
+</td>
+<td>
+Жүрек
+Сердце
+</td>
+<td>
+Өкпе
+Легкие
+</td>
+<td>
+Бауыр
+Печень
+</td>
+<td>
+Көк
+бауыр
+Селезенка
+</td>
+<td>
+сол бүйрек
+оң бүйрек
+Почки лев - прав
+</td>
+<td>
+Айырбез
+Тимус
+</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>360</td>
+<td></td>
+<td>1600</td>
+<td>210</td>
+<td>320</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Қалып:
+Норма:
+</td>
+<td></td>
+<td></td>
+<td>320</td>
+<td></td>
+<td>1500</td>
+<td>180</td>
+<td>320</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+ҚЫСҚАША КЛИНИКАЛЫҚ ДЕРЕКТЕР:
+
+КРАТКИЕ КЛИНИЧЕСКИЕ ДАННЫЕ:
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+Патологиялық зерттеуге тілімдер алынды (Взято кусочков для
+
+патологического исследования): ____________________________________
+
+Блоктар дайындалды (Изготовлено блоков): __________________________
+
+Басқа зерттеу әдістеріне материал алынды (Взят материал для других
+
+методов исследования): ____________________________________________
+
+Бір данада толтырылады. Сызбалар мен фотосуреттер қоса беріледі
+
+(Заполняется в одном экземпляре. Схемы и фотоснимки прилагаются)
+
+___________________________________________________________________
+
+Гистологиялық зерттеу нәтижелері (Результаты гистологического
+
+исследования):
+
+Қосымша _____ парақ
+
+(Приложение на __ листах)
+
+Сызбалар,кестелер,фотосуреттер (қанша (Схемы, таблицы, фото, рис.
+
+(сколько)) ________________________
+
+Конференцияда талқылану күні (Дата обсуждения на конференции) ______
+
+Патологоанатомның тегі _______________________________
+
+(Фамилия патологоанатома) қолы (подпись)
+
+А5 форматы
+
+Формат А5
+
+<table>
+<tr>
+<td colspan="2"></td>
+<td>
+ҚҰЖЖ бойынша ұйым коды
+Код организации по ОКПО _______________
+</td>
+</tr>
+<tr>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрлігі Министерство здравоохранения Республики Казахстан
+</td>
+<td rowspan="2"></td>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрінің м.а.
+2010 жылғы 23 қарашадағы № 907
+бұйрығымен бекітілген № 014/е нысанды
+медициналық құжаттама
+</td>
+</tr>
+<tr>
+<td>
+Ұйымның атауы
+Наименование организации
+</td>
+<td>
+Медицинская документация Форма № 014/у
+утверждена приказом
+и.о. Министра здравоохранения
+Республики Казахстан
+от 23 ноября 2010 года № 907
+</td>
+</tr>
+</table>
+
+### Патологиялық–гистологиялық зерттеуге ЖОЛДАМА* (материалдың жолданған күні мен сағаттары) НАПРАВЛЕНИЕ* на патолого-гистологическое исследование (дата и часы направления материала)
+
+20__ жыл (год) "__" ______________ _______ сағат (час.)
+
+_________________________________________________________________
+
+Бөлімше (Отделение) __________________________ Науқастың стационарлық
+
+(амбулаторлық) картасының № (Карта стационарного больного
+
+(амбулаторная карта)) № _____________________
+
+1\. Науқастың тегі, аты, әкесінің аты (Фамилия, имя, отчество
+
+больного) __________________________________________________________
+
+2\. Жынысы Е/Ә (Пол М /Ж)
+
+3\. Туған күні (Дата рождения) _________________________
+
+4\. Биопсия бірінші рет, екінші рет, (керегінің астын сызыңыз).
+
+(Биопсия первичная, вторичная, (нужное подчеркнуть))
+
+5\. Қайталанғанда бірінші жолғы биопсияның № мен күнін көрсетініз (При
+
+повторной биопсии указать № и дату первичной) ______________________
+
+6\. Операцияның күні және түрі (Дата и вид операции) ________________
+
+7\. Материалды маркілеу, объектілер саны (Маркировка материала, числа
+
+объектов) ___________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+8\. Клиникалық деректер (Клинические данные) _________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+(Сырқаттың ұзақтығы, ісік болса-жүргізілген ем, - анық орналасуы, өсу
+
+жылдамдығы, өлшемдері, консистенциясы, қоршаған тiндермен байланысы,
+
+метастаздары, басқа ісік түйіндерінің бар болуы, арнаулы ем: лимфа
+
+түйіндерін зерттегенде қан талдауын, эндометрия кырындысын; сүт
+
+бездерін зерттегенде - әдеттегідей келген соңғы етеккірдің басталуы
+
+мен аяқталуын, етеккір функциясының бұзылу сипатын, қан кетуінің
+
+басталуын көрсетіңіз).
+
+(продолжительность заболевания, проведенное лечение при опухолях –
+
+точная локализация, темпы роста, размеры, консистенция, отношение к
+
+окружающим тканям, метастазы, наличие других опухолевых узлов,
+
+специальное лечение; при исследовании лимфоузлов - указать анализ
+
+крови, соскобов эндометрия, молочных желез – начало и окончание
+
+последней нормальной менструации, характер нарушения менструальной
+
+функции, дата начала кровотечения)
+
+9\. Клиникалық диагнозы (Клинический диагноз) _______________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+Емдеушi дәрiгердiң тегi (Фамилия лечащего врача) ___________________
+
+____________________________________________________________________
+
+қолы (подпись) ________________________________
+
+Патологиялық зерттеу (Патологическое исследование) № _______________
+
+Түскен күні мен сағаттары (Дата и часы поступления) ________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+Диагностикалық биопсия (Биопсия диагностическая) ___________________
+
+Жедел биопсия (Биопсия срочная) ____________________________________
+
+Операциялық материал (Операционный материал) _______________________
+
+Кесектер саны (Количество кусочков) _________ блоктар (блоков)______
+
+Бояу әдістемесі (Методика окраски) _________________________________
+
+Макро және микроскопиялық сипаттау (Макро-и микроскопическое
+
+описание): _________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+Патологогистологиялық қорытынды (диагноз) (Патологогистологическое
+
+заключение (диагноз)) ______________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+Код ________________________________________________________________
+
+Зерттеу күні (Дата исследования) 20__жылғы (года) "__" _____________
+
+Патологоанатомның тегі (Фамилия патологоанатома) ___________________
+
+қолы (подпись)
+
+Зертханашының тегі (Фамилия лаборанта) _____________________________
+
+қолы (подпись)
+
+* Көшірме қағазбен екі дана толтырылады (Заполняется под
+
+копирку в двух экземплярах)
+
+Қажеттісін жазып, астын сызыңыз (Необходимое вписать,
+
+подчеркнуть)
+
+А4 форматы
+
+Формат А4
+
+<table>
+<tr>
+<td colspan="2"></td>
+<td>
+ҚҰЖЖ бойынша ұйым коды
+Код организации по ОКПО _______________
+</td>
+</tr>
+<tr>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрлігі
+Министерство здравоохранения Республики Казахстан
+</td>
+<td rowspan="2"></td>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрінің м.а. 2010 жылғы 23 қарашадағы № 907 бұйрығымен
+бекітілген № 015/е нысанды медициналық құжаттама
+</td>
+</tr>
+<tr>
+<td>
+Ұйымның атауы
+Наименование организации
+</td>
+<td>
+Медицинская документация Форма № 015/у
+утверждена приказом
+и.о. Министра здравоохранения
+Республики Казахстан
+от 23 ноября 2010 года № 907
+</td>
+</tr>
+</table>
+
+### Мәйіттердің түсуі мен берілуін тіркеу ЖУРНАЛЫ ЖУРНАЛ регистрации поступлений и выдачи трупов за 20__ жыл (год) _______________ күнi
+
+<table>
+<tr>
+<td>
+Р/c
+№ п/п
+</td>
+<td>
+Мәйіттің түскен күні
+Дата поступления трупа
+</td>
+<td>
+Қайтыс болған адамның тегі, аты, әкесінің аты
+Фамилия, имя, отчество умершего
+</td>
+<td>
+Туған күні
+Дата рождения
+</td>
+<td>
+Жынысы (ер, әйел)
+Пол (муж.,жен.)
+</td>
+<td>
+Мәйітті кім қабылдап алды (Т.А.Ә.)
+Кем принят труп (Ф.И.О.)
+</td>
+<td>
+Мәйіт әкелінген аурухана бөлімшесінің немесе осы аурухананың аты
+Название отделения данной больницы или больницы откуда поступил труп
+</td>
+<td>
+Стационарлық науқас картасының №
+№ карты стационарного больного
+</td>
+<td>
+Қайтыс болған адам жерленетін зират атауы
+Название кладбища, где будет захоронен умерший
+</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+Мәйіттерді беруді негіздеу
+Обоснование выдачи трупов
+</td>
+<td>
+Мәйітті кім берді (Т.А.Ә.)
+Кем выдан труп (Ф.И.О.)
+</td>
+<td>
+Мәйітті беру немесе ауруханада жерлеген күн
+Дата выдачи трупа или захоронения больницей
+</td>
+<td>
+Кімнің өкімі бойынша мәйіт ашусыз берілді
+По чьему распоряжению выдан труп без вскрытия
+</td>
+<td>
+Мәйіт жерлеуге берілген туыстарының немесе басқа адамдардың қолхаты және олардың төлқұжатының №, сериясы
+Расписка родственников или лиц, кому выдан труп для захоронения и №, серия паспорта
+</td>
+<td>
+Ілесушінің тегі мен қолы
+Фамилия и роспись сопровождающего
+</td>
+</tr>
+<tr>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+А4 форматы
+
+Формат А4
+
+<table>
+<tr>
+<td colspan="2"></td>
+<td>
+ҚҰЖЖ бойынша ұйым коды
+Код организации по ОКПО _______________
+</td>
+</tr>
+<tr>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрлігі
+Министерство здравоохранения Республики Казахстан
+</td>
+<td rowspan="2"></td>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрінің м.а.
+2010 жылғы 23 қарашадағы № 907
+бұйрығымен бекітілген № 016/е нысанды
+медициналық құжаттама
+</td>
+</tr>
+<tr>
+<td>
+Ұйымның атауы
+Наименование организации
+</td>
+<td>
+Медицинская документация Форма № 016/у
+утверждена приказом
+и.о. Министра здравоохранения
+Республики Казахстан
+от 23 ноября 2010 года № 907
+</td>
+</tr>
+</table>
+
+### Стационар, бөлiмше немесе төсек бейiнi бойынша науқастар мен төсек қоры қозғалысын есепке алудың ЖИЫНТЫҚ ВЕДОМОСЫ СВОДНАЯ ВЕДОМОСТЬ учета движения больных и коечного фонда по стационару, отделению или профилю коек
+
+_________________________________________
+
+атауын жазыңыз (вписать название)
+
+(за) 20__ жыл (год) _______________________ бойынша
+
+<table>
+<tr>
+<td rowspan="4">
+Смета көлемiнде iс жүзiнде жазылған төсектер + есеп беру кезеңiнiң аяғында жөндеуге жиналған төсектер
+Число коек в пределах сметы фактически развернутых + свернутых на ремонт на конец отчетного периода
+</td>
+<td rowspan="4">
+Орташа айлық (жылдық) төсектер
+Среднемесячных (годовых) коек
+</td>
+<td rowspan="4">
+Есеп беру кезеңiнiң басындағы науқастар саны
+Состояло больных на начало отчетного периода
+</td>
+<td colspan="6">
+ЕСЕП БЕРУ КЕЗЕҢI БОЙЫНША
+ЗА ОТЧЕТНЫЙ ПЕРИОД
+</td>
+</tr>
+<tr>
+<td colspan="4">
+Түскен науқастар
+Поступило больных
+</td>
+<td colspan="2" rowspan="2">
+Аурухана iшiнде ауыстырылған науқастар
+Переведено больных внутри больницы
+</td>
+</tr>
+<tr>
+<td rowspan="2">Барлығы Всего</td>
+<td colspan="3">
+Олардың iшiнде
+из них
+</td>
+</tr>
+<tr>
+<td>
+ауыл тұрғындары
+сельских жителей
+</td>
+<td>
+14 жасқа дейiнгi балаларды қоса
+детей до 14 лет включительно
+</td>
+<td>
+15-17 жастағы балаларды қосқанда
+Дети 15-17 лет включительно
+</td>
+<td>
+басқа бөлiмшелерден
+из других отделений
+</td>
+<td>
+басқа бөлiмшелерге
+в другие отделения
+</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+</table>
+
+продолжение
+
+<table>
+<tr>
+<td colspan="3">
+ЕСЕП БЕРУ КЕЗЕҢI БОЙЫНША
+ЗА ОТЧЕТНЫЙ ПЕРИОД
+</td>
+<td rowspan="3">
+Есеп беру кезеңiнiң соңындағы науқастар саны
+Состояло больных на конец отчетного периода
+</td>
+<td rowspan="3">
+Барлық науқастардың өткiзген төсек – күндерi
+Проведено всеми больными койко – дней
+</td>
+<td rowspan="3">
+оның iшiнде ауыл тұрғындарының
+в т.ч. сельскими жителями
+</td>
+<td rowspan="3">
+Жабылу төсек – күндерiнiң саны
+Число койко – дней закрытия
+</td>
+<td rowspan="3">
+Сонымен қатар ауру балаларының қасында аналардың өткiзген төсек -* күндерi
+Кроме того, проведено койко – дней матерями при больных детях
+</td>
+</tr>
+<tr>
+<td colspan="2">
+Шығарылған науқастар
+Выписано больных
+</td>
+<td rowspan="2">қайтыс болғандар умерло</td>
+</tr>
+<tr>
+<td>Барлығы Всего</td>
+<td>
+олардың iшiнде басқа ауруханаға ауыстырылғандар
+в т.ч. переведено в другие стационары
+</td>
+</tr>
+<tr>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+</tr>
+</table>
+
+Қаңтар (Январь) Маусым (Июнь) Қазан (Октябрь)
+
+Ақпан (Февраль) Жарты жылда (За полугодие) Қараша (Ноябрь)
+
+Наурыз (Март) Шiлде (Июль) Желтоқсан (Декабрь)
+
+Сәуiр (Апрель) Тамыз (Август) Жыл бойы (За год)
+
+Мамыр (Май) Қыркүйек (Сентябрь)
+
+Қолы (Подпись) _______________
+
+1\. Жиынтық ведомость ай сайын әр бөлiмше, әр төсек бейiнi және бүкiл стационар бойынша (жеке № 016/е. нысаны бланкiлерiнде) № 007/ е.н. ай сайынғы есепке алу парағындағы айдың барлық күндерiнiң жазбасы негiзiнде толтырылады.
+
+2\. 2- бағанда айлар бойынша айлық орта төсектер саны, жыл бойынша – жылдық орта төсектер саны көрсетiледi.
+
+3\. Төсектердің орташа айлық санын анықтау үшiн (2-баған үшiн) № 007/е нысанының 3-бағанының 1 ай iшiндегi деректерi саналып, шыққан қосынды айдың күнтiзбелiк сандарына бөлiнедi; жылдық орта төсектер санын анықтау үшiн № 016/е нысанының 2-бағаны жазбаларының қосындысын 12-ге бөледi.
+
+4\. Науқастардың есеп беру кезеңдегі өткізген төсек-күндері тек № 007/ е.н. парақтарының жазбалары негізінде қойылады.
+
+5\. Науқастардың өткізген төсек-күндерінің саны № 007/ е.н. 15, 16- бағандарының деректерін, № 007/ е.н. 4-бағанның – жабылу төсек-күндер саны; № 007/ е.н. 18-бағанның – аналарының науқас балаларының қасында өткізген төсек-күндері санын санау арқылы шығарады.
+
+1\. Сводная ведомость заполняется ежемесячно по каждому отделению, по каждому профилю коек и по стационару в целом (на отдельных бланках ф. № 016/у) на основании подсчета записей за все дни месяца в листках ежемесячного учета ф. № 007/у.
+
+2\. В графе 2 по месяцам показывается среднемесячное число коек, за год – среднегодовое число коек.
+
+3\. Для определения среднемесячного числа коек (для гр. 2) подсчитываются за месяц данные графы 3 формы № 007/у и полученная сумма делится на число календарных дней месяца; для определения числа среднегодовых коек складываются записи в графе 2 ведомости № 016/у и полученная сумма делится на 12.
+
+4\. Число койко-дней, проведенных больными за отчетный период проставляется только на основании записей в листах по ф.007/у.
+
+5\. Число проведенных больными койко-дней получается путем подсчета данных графы 15 и 16 в форме № 007/у; число койко-дней закрытия –графа 4 в форме № 007/у; число койко-дней, проведенных матерями при больных детях- графа 18 в форме № 007/у
+
+<table>
+<tr>
+<td colspan="3">
+А5 форматы
+Формат А5
+КҰЖЖ бойынша ұйым коды _______________
+Код организации по ОКПО
+</td>
+<td rowspan="4"></td>
+<td colspan="2">
+А5 форматы
+Формат А5
+КҰЖЖ бойынша ұйым коды ___________________
+Код организации по ОКПО
+</td>
+</tr>
+<tr>
+<td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
+<td colspan="2" rowspan="2">
+Қазақстан Республикасы
+Денсаулық сақтау министрінің м.а.2010 жылғы 23 қарашадағы № 907 бұйрығымен бекітілген № 017/е нысанды медициналық құжаттама
+</td>
+<td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
+<td rowspan="2">Қазақстан Республикасы Денсаулық сақтау министрінің м.а. 2010 жылғы 23 қарашадағы № 907 бұйрығымен бекітілген № 018/е нысанды медициналық құжаттама</td>
+</tr>
+<tr>
+<td>Министерство здравоохранения Республики Казахстан</td>
+<td>Министерство здравоохранения Республики Казахстан</td>
+</tr>
+<tr>
+<td colspan="2">
+Ұйымның атауы
+Наименование организации
+</td>
+<td>Медицинская документация Форма № 017/у утверждена приказом и.о. Министра здравоохранения Республики Казахстан от 23 ноября 2010 года № 907</td>
+<td>
+Ұйымның атауы
+Наименование организации
+</td>
+<td>Медицинская документация Форма № 018/у утверждена приказом и.о. Министра здравоохранения Республики Казахстан от 23 ноября 2010 года № 907</td>
+</tr>
+<tr>
+<td colspan="3">
+Биологиялық өлiмдi констатациялау
+АКТIСІ
+АКТ
+констатации биологической смерти
+ТАӘ (ФИО)________________________
+Сырқатнаманың№.
+(№ истории болезни) _________________________
+Емдеу ұйымының атауы
+(Наименование лечебной организации)_____________________
+_________________________________
+_________________________________
+_________________________________
+Негізгі диагнозы (Основной диагноз) ________________________
+_________________________________
+Өлім себебі (Причина смерти)__________________________
+_________________________________
+Комиссия құрамы (Состав комиссии):
+Реанимация бөлiмшесiнiң меңгерушiсi (Заведующий реанимационным отделением) _________________________________
+_________________________________
+Дәрігер-реаниматолог (Врач-реаниматолог) _____________
+_________________________________
+Емдеуші дәрiгер (Лечащий врач) _________________________________
+Сот-медицина сарапшысы (Судебно-медицинский эксперт) _________________________________
+_________________________________
+_________________________________
+_________________________________
+Азаматтың биологиялық өлiмiн констатациялады
+(Констатировали биологическую смерть гражданина(ки) ____________в______ сағат(час)__________ мин. (дәл уақыты)
+(точное время) 20 ж. (г). «___» _______________
+Қолдары: (Подписи): _____________
+20 ж. (г). «__»__________________
+</td>
+<td></td>
+<td colspan="2">
+Транспланттау үшін донор-мәйіттен ағзалар мен тіндерді алу
+АКТІСІ
+АКТ
+об изъятии органов и тканей у донора-трупа для трансплантации
+Биологиялық өлімді констатациялау уақыты (Время констатации биологической смерти) ___________________________________________
+Негізгі диагнозы (Основной диагноз) ___________________________________________
+___________________________________________
+___________________________________________
+Өлімнің себебі (Причина смерти) ___________
+___________________________________________
+___________________________________________
+1. Донорлық ағзалар мен тiндердiң алынуы (бүйректер, жүрек, өкпелер, бауыр, т.б.)
+(Изъятие донорских органов и тканей (почки, сердце, легкие, печень,т.д.) ___________________________________________
+___________________________________________
+науқастың өлiмi (ми өлiмi) констатацияланған соң, рұқсат берген адам произведено после констатации смерти (смерти мозга) больного по разрешению) ____________________________
+___________________________________________
+(ұйымын, лауазымын, ТАӘ. көрсетiңiз)
+(указать организацию, должность, фамилию, имя, отчество)
+2. Донорлық ағзалар мен тiндердi алуды жүргiзген дәрiгер (лер)-хирург (тар) (Производил (и) изъятие донорских органов и тканей врач (и)-хирург (и)) _______________
+___________________________________________
+___________________________________________
+(ұйымын, лауазымын, ТАӘ. көрсетiңiз)
+(указать организацию, должность, фамилию, имя, отчество)
+3. Донорлық ағзаларды алу тәсiлi (құрал қолдану әрекеттерi мен операциялардың сипаттамасы)
+(Способ изъятия донорских органов (описание инструментальных вмешательств и операции)) ___________________________________________
+___________________________________________
+___________________________________________
+___________________________________________
+4. Донорлық ағзалар мен тiндердi алу кезiнде қатысқандар (При изъятии донорских органов и тканей присутствовали):
+-сот-медицина сарапшысы (судебно-медицинский эксперт) __________________________________
+-реаниматолог _____________________________
+___________________________________________
+5. Донорлық ағзалар мен тiндер қайда салынды, кімге берілді (Куда помещены и кому переданы донорские органы и ткани) ___________________________________________
+___________________________________________
+___________________________________________
+6. Алудың басталған уақыты (Время начала изъятия) __________________________________
+7. Алудың аяталған уақыты (Время окончания изъятия) __________________________________
+Қолдары:
+(Подписи):
+Реаниматолог ______________________________
+Сот-медициналық сарапшысы
+(Судебно-медицинский эксперт) _____________
+Хирург-дәрігер (лер)
+(Врач (и)-хирург (и) ______________________
+</td>
+</tr>
+</table>
+
+А4 форматы
+
+Формат А4
+
+<table>
+<tr>
+<td colspan="2"></td>
+<td>
+ҚҰЖЖ бойынша ұйым коды
+Код организации по ОКПО _______________
+</td>
+</tr>
+<tr>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрлігі
+Министерство здравоохранения Республики Казахстан
+</td>
+<td rowspan="2"></td>
+<td>
+Қазақстан Республикасы
+Денсаулық сақтау министрінің м.а.
+2010 жылғы 23 қарашадағы № 907
+бұйрығымен бекітілген № 019/е нысанды
+медициналық құжаттама
+</td>
+</tr>
+<tr>
+<td>
+Ұйымның атауы
+Наименование организации
+</td>
+<td>
+Медицинская документация Форма № 019/у
 утверждена приказом
 и.о. Министра здравоохранения
 Республики Казахстан
