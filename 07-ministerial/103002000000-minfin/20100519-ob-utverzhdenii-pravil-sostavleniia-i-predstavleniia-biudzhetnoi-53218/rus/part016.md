@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/53218/rus/18.03.2011
+source: https://zan.gov.kz/client/#!/doc/53218/rus/20.09.2011
 ---
 
 ## Расчет расходов на оплату труда работников государственных учреждений здравоохранения

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/53218/kaz/18.03.2011
+source: https://zan.gov.kz/client/#!/doc/53218/kaz/20.09.2011
 ---
 
 ## Орталық атқарушы органының жауапты хатшысы/мемлекеттік мекеме басшысы
