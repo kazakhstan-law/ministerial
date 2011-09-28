@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/54892/kaz/24.08.2010
+source: https://zan.gov.kz/client/#!/doc/54892/kaz/28.09.2011
 ---
 
 ## 2 бөлім. Байланыс қызметтерінің көлемі
