@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
+source: https://zan.gov.kz/client/#!/doc/58075/kaz/31.10.2011
 ---
 
 # 2011/2012 оқу жылына жоғары білімі бар мамандар даярлауға арналған мемлекеттік білім беру тапсырысын мамандықтар бойынша бөлу туралы
@@ -26,12 +26,16 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 
 5. Осы бұйрық алғаш рет ресми жарияланған күнінен бастап қолданысқа енгізіледі.
 
-Министр Б. Жұмағұлов
+**Министр**
+
+**Б. Жұмағұлов**
 
 > *Қазақстан Республикасы*  
 > *Білім және ғылым министрінің*  
 > *2011 жылғы 16 наурыздағы*  
 > *№ 97 бұйрығына 1-қосымша*
+
+> *Ескерту. 1-қосымша жаңа редакцияда - ҚР Білім және ғылым министрінің 2011.10.31 № 452 (ресми жарияланғаннан кейін қолданысқа енгізіледі) Бұйрығы.*
 
 ## 2011-2012 оқу жылына арналған күндізгі оқу нысанындағы мамандықтар бөлінісінде жоғары білімі бар мамандар даярлауға арналған мемлекеттік білім беру тапсырысы
 
@@ -50,7 +54,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <td>Барлығы</td>
 <td>қазақ</td>
 <td>орыс</td>
-<td>барлығы</td>
+<td>Барлығы</td>
 <td>қазақ</td>
 <td>орыс</td>
 </tr>
@@ -291,7 +295,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В012000</td>
 <td>Кәсіптік білім</td>
-<td>100</td>
+<td>1000</td>
 <td>900</td>
 <td>550</td>
 <td>350</td>
@@ -404,10 +408,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В020100</td>
 <td>Философия</td>
-<td>20</td>
-<td>20</td>
-<td>10</td>
-<td>10</td>
+<td>18</td>
+<td>18</td>
+<td>9</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -426,10 +430,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В020300</td>
 <td>Тарих</td>
-<td>60</td>
-<td>60</td>
-<td>40</td>
-<td>20</td>
+<td>56</td>
+<td>56</td>
+<td>37</td>
+<td>19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -437,10 +441,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В020400</td>
 <td>Мәдениеттану</td>
-<td>50</td>
-<td>50</td>
+<td>47</td>
+<td>47</td>
 <td>30</td>
-<td>20</td>
+<td>17</td>
 <td></td>
 <td></td>
 <td></td>
@@ -459,10 +463,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В020500</td>
 <td>Филология: орыс тілі</td>
-<td>40</td>
-<td>40</td>
+<td>39</td>
+<td>39</td>
 <td></td>
-<td>40</td>
+<td>39</td>
 <td></td>
 <td></td>
 <td></td>
@@ -470,10 +474,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В020600</td>
 <td>Дінтану</td>
-<td>60</td>
-<td>60</td>
-<td>40</td>
-<td>20</td>
+<td>57</td>
+<td>57</td>
+<td>39</td>
+<td>18</td>
 <td></td>
 <td></td>
 <td></td>
@@ -481,9 +485,9 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В020700</td>
 <td>Аударма ісі</td>
-<td>120</td>
-<td>120</td>
-<td>80</td>
+<td>117</td>
+<td>117</td>
+<td>77</td>
 <td>40</td>
 <td></td>
 <td></td>
@@ -492,10 +496,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В020800</td>
 <td>Археология және этнология</td>
-<td>40</td>
-<td>40</td>
+<td>39</td>
+<td>39</td>
 <td>25</td>
-<td>15</td>
+<td>14</td>
 <td></td>
 <td></td>
 <td></td>
@@ -558,10 +562,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В021000</td>
 <td>Шетел филологиясы: корей тілі</td>
-<td>10</td>
-<td>10</td>
 <td>5</td>
 <td>5</td>
+<td>5</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -657,9 +661,9 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В021100</td>
 <td>Теология</td>
-<td>10</td>
-<td>10</td>
-<td>5</td>
+<td>9</td>
+<td>9</td>
+<td>4</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -677,13 +681,24 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <td></td>
 </tr>
 <tr>
+<td>5В021500</td>
+<td>Исламтану</td>
+<td>100</td>
+<td>80</td>
+<td>80</td>
+<td></td>
+<td>20</td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td>Барлығы</td>
-<td>691</td>
-<td>691</td>
-<td>444</td>
-<td>247</td>
-<td></td>
+<td>773</td>
+<td>753</td>
+<td>515</td>
+<td>238</td>
+<td>20</td>
 <td></td>
 <td></td>
 </tr>
@@ -734,7 +749,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td></td>
 <td>Жиыны</td>
-<td>720</td>
+<td>802</td>
 <td></td>
 <td></td>
 <td></td>
@@ -960,10 +975,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В042000</td>
 <td>Сәулет</td>
-<td>50</td>
-<td>50</td>
+<td>53</td>
+<td>53</td>
 <td>30</td>
-<td>20</td>
+<td>23</td>
 <td></td>
 <td></td>
 <td></td>
@@ -971,10 +986,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В042100</td>
 <td>Дизайн</td>
-<td>45</td>
-<td>45</td>
+<td>49</td>
+<td>49</td>
 <td>30</td>
-<td>15</td>
+<td>19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -993,10 +1008,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td></td>
 <td>Жиыны</td>
-<td>212</td>
-<td>212</td>
+<td>219</td>
+<td>219</td>
 <td>130</td>
-<td>82</td>
+<td>89</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1048,7 +1063,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>220</td>
+<td>227</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1062,10 +1077,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В050100</td>
 <td>Әлеуметтану</td>
-<td>40</td>
-<td>40</td>
+<td>39</td>
+<td>39</td>
 <td>25</td>
-<td>15</td>
+<td>14</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1106,10 +1121,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В050500</td>
 <td>Аймақтану</td>
-<td>30</td>
-<td>30</td>
+<td>27</td>
+<td>27</td>
 <td>20</td>
-<td>10</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1139,10 +1154,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В050800</td>
 <td>Есеп және аудит</td>
-<td>60</td>
-<td>60</td>
+<td>59</td>
+<td>59</td>
 <td>40</td>
-<td>20</td>
+<td>19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1172,10 +1187,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В051100</td>
 <td>Маркетинг</td>
-<td>50</td>
-<td>50</td>
+<td>49</td>
+<td>49</td>
 <td>30</td>
-<td>20</td>
+<td>19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1238,10 +1253,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td></td>
 <td>Жиыны</td>
-<td>684</td>
-<td>684</td>
+<td>678</td>
+<td>678</td>
 <td>414</td>
-<td>270</td>
+<td>264</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1293,7 +1308,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>713</td>
+<td>707</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1307,10 +1322,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В060100</td>
 <td>Математика</td>
-<td>150</td>
-<td>150</td>
-<td>90</td>
-<td>60</td>
+<td>142</td>
+<td>142</td>
+<td>87</td>
+<td>55</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1318,10 +1333,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В060200</td>
 <td>Информатика</td>
-<td>200</td>
-<td>200</td>
+<td>199</td>
+<td>199</td>
 <td>120</td>
-<td>80</td>
+<td>79</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1329,9 +1344,9 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В060300</td>
 <td>Механика</td>
-<td>80</td>
-<td>80</td>
-<td>50</td>
+<td>79</td>
+<td>79</td>
+<td>49</td>
 <td>30</td>
 <td></td>
 <td></td>
@@ -1340,10 +1355,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В060400</td>
 <td>Физика</td>
-<td>120</td>
-<td>120</td>
-<td>70</td>
-<td>50</td>
+<td>116</td>
+<td>116</td>
+<td>68</td>
+<td>48</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1351,10 +1366,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В060500</td>
 <td>Ядролық физика</td>
-<td>110</td>
-<td>110</td>
-<td>60</td>
-<td>50</td>
+<td>104</td>
+<td>104</td>
+<td>58</td>
+<td>46</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1362,10 +1377,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В060600</td>
 <td>Химия</td>
-<td>120</td>
-<td>120</td>
+<td>119</td>
+<td>119</td>
 <td>70</td>
-<td>50</td>
+<td>49</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1373,10 +1388,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В060700</td>
 <td>Биология</td>
-<td>114</td>
-<td>114</td>
-<td>64</td>
-<td>50</td>
+<td>111</td>
+<td>111</td>
+<td>63</td>
+<td>48</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1384,9 +1399,9 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В060800</td>
 <td>Экология</td>
-<td>130</td>
-<td>130</td>
-<td>80</td>
+<td>129</td>
+<td>129</td>
+<td>79</td>
 <td>50</td>
 <td></td>
 <td></td>
@@ -1417,9 +1432,9 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В061100</td>
 <td>Астрономия</td>
-<td>70</td>
-<td>70</td>
-<td>45</td>
+<td>69</td>
+<td>69</td>
+<td>44</td>
 <td>25</td>
 <td></td>
 <td></td>
@@ -1428,10 +1443,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В061200</td>
 <td>Метеорология</td>
-<td>70</td>
-<td>70</td>
+<td>69</td>
+<td>69</td>
 <td>40</td>
-<td>30</td>
+<td>29</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1439,10 +1454,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>1297</td>
-<td>1294</td>
-<td>759</td>
-<td>535</td>
+<td>1267</td>
+<td>1267</td>
+<td>748</td>
+<td>519</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1494,7 +1509,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td></td>
 <td>Жиыны</td>
-<td>28</td>
+<td>1323</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1519,10 +1534,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В070200</td>
 <td>Автоматтандыру және басқару</td>
-<td>300</td>
-<td>300</td>
-<td>180</td>
-<td>120</td>
+<td>291</td>
+<td>291</td>
+<td>175</td>
+<td>116</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1552,10 +1567,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В070500</td>
 <td>Математикалық және компьютерлік модельдеу</td>
-<td>100</td>
-<td>100</td>
-<td>60</td>
-<td>40</td>
+<td>94</td>
+<td>94</td>
+<td>59</td>
+<td>35</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1563,9 +1578,9 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В070600</td>
 <td>Геология және пайдалы қазбалар кен орнын барлау</td>
-<td>230</td>
-<td>230</td>
-<td>135</td>
+<td>229</td>
+<td>229</td>
+<td>134</td>
 <td>95</td>
 <td></td>
 <td></td>
@@ -1573,7 +1588,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 </tr>
 <tr>
 <td>5В070700</td>
-<td>Тау- кен ісі</td>
+<td>Тау-кен ісі</td>
 <td>360</td>
 <td>360</td>
 <td>210</td>
@@ -1607,10 +1622,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В071000</td>
 <td>Материал тану және жаңа материалдар технологиясы</td>
-<td>160</td>
-<td>160</td>
+<td>159</td>
+<td>159</td>
 <td>95</td>
-<td>65</td>
+<td>64</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1673,9 +1688,9 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В071600</td>
 <td>Аспап жасау</td>
-<td>250</td>
-<td>250</td>
-<td>150</td>
+<td>249</td>
+<td>249</td>
+<td>149</td>
 <td>100</td>
 <td></td>
 <td></td>
@@ -1684,10 +1699,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В071700</td>
 <td>Жылу энергетикасы</td>
-<td>300</td>
-<td>300</td>
+<td>299</td>
+<td>299</td>
 <td>180</td>
-<td>120</td>
+<td>119</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1750,10 +1765,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В072300</td>
 <td>Техникалық физика</td>
-<td>90</td>
-<td>90</td>
+<td>89</td>
+<td>89</td>
 <td>55</td>
-<td>35</td>
+<td>34</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1793,7 +1808,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 </tr>
 <tr>
 <td>5В072700</td>
-<td>Азық – түлік өнімдерінің технологиясы</td>
+<td>Азық–түлік өнімдерінің технологиясы</td>
 <td>240</td>
 <td>240</td>
 <td>140</td>
@@ -1805,10 +1820,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В072800</td>
 <td>Қайта өңдеу өндірістерінің технологиясы (сала бойынша)</td>
-<td>250</td>
-<td>250</td>
-<td>150</td>
-<td>100</td>
+<td>245</td>
+<td>245</td>
+<td>147</td>
+<td>98</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1937,10 +1952,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>10896</td>
-<td>10896</td>
-<td>6381</td>
-<td>4515</td>
+<td>10871</td>
+<td>10871</td>
+<td>6370</td>
+<td>4501</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1992,7 +2007,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td></td>
 <td>Жиыны</td>
-<td>11352</td>
+<td>11327</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2006,10 +2021,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В080100</td>
 <td>Агрономия</td>
-<td>420</td>
-<td>420</td>
-<td>230</td>
-<td>190</td>
+<td>418</td>
+<td>418</td>
+<td>229</td>
+<td>189</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2017,10 +2032,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В080200</td>
 <td>Мал шаруашылығы өнімдерін өндіру технологиясы</td>
-<td>290</td>
-<td>290</td>
-<td>170</td>
-<td>120</td>
+<td>283</td>
+<td>283</td>
+<td>167</td>
+<td>116</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2039,10 +2054,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В080400</td>
 <td>Балық шаруашылығы және өнеркәсіптік балық аулау</td>
-<td>55</td>
-<td>55</td>
+<td>54</td>
+<td>54</td>
 <td>35</td>
-<td>20</td>
+<td>19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2050,10 +2065,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В080500</td>
 <td>Су ресурстары және суды пайдалану</td>
-<td>175</td>
-<td>175</td>
-<td>100</td>
-<td>75</td>
+<td>172</td>
+<td>172</td>
+<td>98</td>
+<td>74</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2061,10 +2076,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В080600</td>
 <td>Аграрлық техника және технология</td>
-<td>277</td>
-<td>277</td>
-<td>167</td>
-<td>110</td>
+<td>274</td>
+<td>274</td>
+<td>165</td>
+<td>109</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2072,10 +2087,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В080700</td>
 <td>Орман ресурстары және орман шаруашылығы</td>
-<td>90</td>
-<td>90</td>
-<td>60</td>
-<td>30</td>
+<td>88</td>
+<td>88</td>
+<td>59</td>
+<td>29</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2083,17 +2098,17 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В080800</td>
 <td>Топырақтану және агрохимия</td>
-<td>140</td>
-<td>140</td>
+<td>139</td>
+<td>139</td>
 <td>90</td>
-<td>50</td>
+<td>49</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>5В080900</td>
-<td>Жеміс - көкөніс шаруашылығы</td>
+<td>Жеміс-көкөніс шаруашылығы</td>
 <td>40</td>
 <td>40</td>
 <td>20</td>
@@ -2138,10 +2153,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>1857</td>
-<td>1857</td>
-<td>1107</td>
-<td>750</td>
+<td>1838</td>
+<td>1838</td>
+<td>1098</td>
+<td>740</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2193,7 +2208,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td></td>
 <td>Жиыны</td>
-<td>1930</td>
+<td>1911</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2207,10 +2222,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В090100</td>
 <td>Көлікті пайдалану және жүк қозғалысы мен тасымалдауды ұйымдастыру</td>
-<td>90</td>
-<td>90</td>
-<td>60</td>
-<td>30</td>
+<td>87</td>
+<td>87</td>
+<td>59</td>
+<td>28</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2218,10 +2233,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В090200</td>
 <td>Туризм</td>
-<td>330</td>
-<td>330</td>
+<td>329</td>
+<td>329</td>
 <td>195</td>
-<td>135</td>
+<td>134</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2317,10 +2332,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5В091200</td>
 <td>Мейрамхана ісі және мейманхана бизнесі</td>
-<td>158</td>
-<td>158</td>
+<td>157</td>
+<td>157</td>
 <td>95</td>
-<td>63</td>
+<td>62</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2328,10 +2343,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>863</td>
-<td>863</td>
-<td>515</td>
-<td>348</td>
+<td>858</td>
+<td>858</td>
+<td>514</td>
+<td>344</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2383,7 +2398,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td></td>
 <td>Жиыны</td>
-<td>1930</td>
+<td>895</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2535,10 +2550,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5B120100</td>
 <td>Ветеринарлық медицина</td>
-<td>356</td>
-<td>356</td>
+<td>352</td>
+<td>352</td>
 <td>220</td>
-<td>136</td>
+<td>132</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2546,10 +2561,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5B120200</td>
 <td>Ветеринарлық санитария</td>
-<td>250</td>
-<td>250</td>
-<td>150</td>
-<td>100</td>
+<td>247</td>
+<td>247</td>
+<td>148</td>
+<td>99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2557,10 +2572,10 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>606</td>
-<td>606</td>
-<td>370</td>
-<td>236</td>
+<td>599</td>
+<td>599</td>
+<td>368</td>
+<td>231</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2612,7 +2627,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td></td>
 <td>Жиыны</td>
-<td>1400</td>
+<td>623</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2626,7 +2641,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td>5B130100</td>
 <td>Жалпы медицина</td>
-<td>356</td>
+<td>3356</td>
 <td>3356</td>
 <td>2015</td>
 <td>1341</td>
@@ -2648,7 +2663,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>606</td>
+<td>3456</td>
 <td>3456</td>
 <td>2075</td>
 <td>1381</td>
@@ -2735,7 +2750,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 </tr>
 <tr>
 <td></td>
-<td>Монғолия азаматтарын С. Аманжолов атындағы Шығыс Қазақстан мемлекеттік университетінде оқытуға</td>
+<td>Монғолия азаматтарын С.Аманжолов атындағы Шығыс Қазақстан мемлекеттік университетінде оқытуға</td>
 <td>25</td>
 <td></td>
 <td></td>
@@ -2947,7 +2962,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 </tr>
 <tr>
 <td>5В040500</td>
-<td>Дирижерлау</td>
+<td>Дирижерлеу</td>
 <td>16</td>
 <td></td>
 <td></td>
@@ -3214,7 +3229,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 </tr>
 <tr>
 <td>5В040500</td>
-<td>Дирижерлау</td>
+<td>Дирижерлеу</td>
 <td>18</td>
 <td></td>
 <td></td>
@@ -3526,7 +3541,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <tr>
 <td></td>
 <td>Жиыны</td>
-<td>##</td>
+<td>250</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3670,7 +3685,7 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td>-</td>
 <td>Жиыны</td>
 <td>200</td>
 <td></td>
@@ -3850,10 +3865,6 @@ source: https://zan.gov.kz/client/#!/doc/58075/kaz/16.03.2011
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="8">* Ескерту: Ведомоствоаралық келісімдер бойынша келген 250 шетел азаматтарын қабылдау олардың өтініш берген мамандықтары бойынша мемлекеттік білім беру тапсырысымен бекітілген орындарға мамандықтар бөлінісінде жүзеге асырылады.</td>
 </tr>
 </table>
 
