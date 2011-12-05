@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/39361/rus/16.03.2011
+source: https://zan.gov.kz/client/#!/doc/39361/rus/05.12.2011
 ---
 
 ## Результаты _____________ экзаменационной сессии 20__ 20__ учебного года
