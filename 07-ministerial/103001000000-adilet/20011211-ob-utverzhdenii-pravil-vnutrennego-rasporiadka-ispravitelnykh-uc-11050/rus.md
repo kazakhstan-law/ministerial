@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/11050/rus/22.12.2010
+source: https://zan.gov.kz/client/#!/doc/11050/rus/01.01.2012
 ---
 
 # Об утверждении Правил внутреннего распорядка исправительных учреждений

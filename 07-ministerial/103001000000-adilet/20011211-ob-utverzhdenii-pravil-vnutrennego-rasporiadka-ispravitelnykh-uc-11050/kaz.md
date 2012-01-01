@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/11050/kaz/22.12.2010
+source: https://zan.gov.kz/client/#!/doc/11050/kaz/01.01.2012
 ---
 
 # Түзеу мекемелерінің ішкі тәртіп Ережелерін бекіту туралы
