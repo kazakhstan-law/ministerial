@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/55585/rus/18.08.2011
+source: https://zan.gov.kz/client/#!/doc/55585/rus/01.01.2012
 ---
 
 ## 1. Мектепке дейінгі ұйымның ведомстволық бағыныстылық белгісі

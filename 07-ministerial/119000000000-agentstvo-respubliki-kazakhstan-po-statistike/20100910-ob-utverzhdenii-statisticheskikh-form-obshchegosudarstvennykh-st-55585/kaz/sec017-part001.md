@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/55585/kaz/18.08.2011
+source: https://zan.gov.kz/client/#!/doc/55585/kaz/01.01.2012
 ---
 
 ## 1. Ұйымның түрін «V» белгісімен белгілеңіз
