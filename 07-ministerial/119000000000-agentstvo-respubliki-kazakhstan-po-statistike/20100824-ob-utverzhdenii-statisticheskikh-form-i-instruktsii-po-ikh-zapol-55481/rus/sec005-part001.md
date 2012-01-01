@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/55481/rus/14.09.2011
+source: https://zan.gov.kz/client/#!/doc/55481/rus/01.01.2012
 ---
 
 ## саны және жалақы мөлшері туралы ақпаратты көрсетіңіз
