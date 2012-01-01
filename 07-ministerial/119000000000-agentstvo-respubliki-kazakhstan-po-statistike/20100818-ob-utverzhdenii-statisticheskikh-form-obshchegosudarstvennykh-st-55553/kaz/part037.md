@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/55553/kaz/23.08.2011
+source: https://zan.gov.kz/client/#!/doc/55553/kaz/01.01.2012
 ---
 
 ## 7-бөлімге арналған өнеркәсіп салалары бойынша өнімдер номенклатурасы

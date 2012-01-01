@@ -1,4786 +1,7 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/55022/kaz/02.08.2011
+source: https://zan.gov.kz/client/#!/doc/55022/kaz/01.01.2012
 ---
-
-## 10. Ағаш шеберлігі және балташылық жұмысы түрлерінің бағаларын көрсетіңіз, ҚҚС-сыз теңгемен
-
-Укажите цены на виды работ столярных и плотницких, в тенге без НДС10.
-
-<table>
-<tr>
-<td rowspan="2">
-Жұмыстың атауы, коды және оның сипаттамасы
-Название, код работы и ее характеристика
-</td>
-<td rowspan="2">
-Өлшем бірлігі
-Единица измерения
-</td>
-<td colspan="2">
-I тоқсан
-I квартал
-</td>
-<td colspan="2">
-II тоқсан
-II квартал
-</td>
-<td colspan="2">
-III тоқсан
-III квартал
-</td>
-<td colspan="2">
-IV тоқсан
-IV квартал
-</td>
-</tr>
-<tr>
-<td>
-көрсетілсін және белгіленсін
-отметить и указать
-</td>
-<td>
-баға
-цена
-</td>
-<td>
-көрсетілсін және белгіленсін
-отметить и указать
-</td>
-<td>
-баға
-цена
-</td>
-<td>
-көрсетілсін және белгіленсін
-отметить и указать
-</td>
-<td>
-баға
-цена
-</td>
-<td>
-көрсетілсін және белгіленсін
-отметить и указать
-</td>
-<td>
-баға
-цена
-</td>
-</tr>
-<tr>
-<td>
-Аспаптар жиынтығын қоса көп жармалы терезе блогын орнату жұмыстары
-Работы по установке оконных блоков многостворчатых, включая комплект прибора 43.​32.​10.​112
-</td>
-<td rowspan="14">
-ш.м
-кв.м
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-терезе блоктары, ені, мм
-оконные блоки, ширина, мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-биіктігі, мм
-высота, мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-ағаштан жасалған
-деревянные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-ағаш тұқымы
-порода дерева
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-пластикалық
-пластиковые
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-қосарланған
-спаренные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-бөлінген
-раздельные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-бөлек - қосарланған
-раздельно-спаренные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-ашпалы жармамен
-с распашной створкой
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-желкөзі бар
-с форточкой
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-олифтелген
-проолифенные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-дайын, өңделген эмаль
-жабындысымен
-с готовым отделочным покрытием эмалями
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
-Сопоставимая цена предыдущего квартала при изменении характеристики работы
-</td>
-<td colspan="2">
-_________
-өткен жылғы IV тоқсан
-IV квартал предыдущего года
-</td>
-<td colspan="2">
-_________
-I тоқсан
-I квартал
-</td>
-<td colspan="2">
-_________
-II тоқсан
-II квартал
-</td>
-<td colspan="2">
-__________
-III тоқсан
-III квартал
-</td>
-</tr>
-<tr>
-<td>
-Аспаптар жиынтығын қоса жармалы терезе блогын орнату жұмыстары
-Работы по установке оконных блоков одностворчатых, включая комплект прибора
-43.32. 10.111
-</td>
-<td rowspan="14">
-ш.м
-кв.м
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Терезе блоктары, ені, мм
-оконные блоки, ширина, мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-биіктігі, мм
-высота, мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-ағаштан жасалған
-деревянные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-ағаш тұқымы
-порода дерева
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-пластикалық
-пластиковые
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-қосарланған
-спаренные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-бөлінген
-раздельные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-бөлек - қосарланған
-раздельно-спаренные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-ашпалы жармамен
-с распашной створкой
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-желкөзі бар
-с форточкой
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-олифтелген
-проолифенные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-дайын, өңдейтін эмаль жабындысымен
-с готовым отделочным покрытием эмалями
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
-Сопоставимая цена предыдущего квартала при изменении характеристики работы
-</td>
-<td colspan="2">
-_________
-өткен жылғы IV тоқсан
-IV квартал предыдущего года
-</td>
-<td colspan="2">
-_________
-I тоқсан
-I квартал
-</td>
-<td colspan="2">
-_________
-II тоқсан
-II квартал
-</td>
-<td colspan="2">
-_________
-III тоқсан
-III квартал
-</td>
-</tr>
-<tr>
-<td>
-Аспаптар жиынтығын қоса есіктердің сыртқы блогын орнату жұмыстары
-Работы по установке дверных блоков наружных, включая комплект приборов 43.​32.​10.​114
-</td>
-<td rowspan="15">
-ш.м
-кв.м
-</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>
-өлшемі, ені мм
-размер, ширина мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-биіктігі, мм
-высота, мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-жаппа қалындығы, мм
-толщина полотна, мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-бір еденді
-однопольные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-қос еденді
-двупольные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-бітеу
-глухие
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-шыныланған
-остекленные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-үстіңгі беті:
-поверхность:
-дайын эмаль жабындысымен
-готовое покрытие эмалями
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-олифтелген
-проолифенные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-қабыршақпен қапталған
-облицовка шпоном
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-басқа
-другое
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-жабуға арналған серіппелі
-механизммен
-с пружинным механизмом для закрывания
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-құлыптарды ойып орнатумен
-с установкой врезных замков
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
-Сопоставимая цена предыдущего квартала при изменении характеристики работы
-</td>
-<td colspan="2">
-_________
-өткен жылғы IV тоқсан
-IV квартал предыдущего года
-</td>
-<td colspan="2">
-_________
-I тоқсан
-I квартал
-</td>
-<td colspan="2">
-_________
-II тоқсан
-II квартал
-</td>
-<td colspan="2">
-_________III тоқсан
-III квартал
-</td>
-</tr>
-<tr>
-<td>
-Болаттан жасалған терезе блоктарын орнату жұмыстары
-Работы по установке стальных оконных блоков
-43.​32.​10.​121
-</td>
-<td rowspan="17">
-дана
-шт.
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-өлшемі, ені мм
-размер, ширина мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-биіктігі, мм
-высота, мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-бітеу
-глухие
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-ашылатын
-открываемые
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-жақтаулары бар:
-с переплетами:
-жалаң қабаттыодинарными
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-бөлектенген
-раздельными
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-фрамугасыз
-без фрамуг
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-фрамугасымен
-с фрамугой
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-тоттанудан сақтандыру:
-антикорозийная защита:
-астарлау
-огрунтовка
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-бояу
-окраска
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-1-мәрте
-за 1 раз
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-2-мәрте
-за 2 раза
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-эмаль
-эмаль
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-лак
-лак
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-ыстықтай мырыштау
-горячее цинкование
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Жұмыс сипаттама өзгергенде өткен тоқсанның салыстырмалы бағасы
-Сопоставимая цена предыдущего квартала при изменении характеристики работы
-</td>
-<td colspan="2">
-_________
-өткен жылғы IV тоқсан
-IV квартал предыдущего года
-</td>
-<td colspan="2">
-_________
-I тоқсан
-I квартал
-</td>
-<td colspan="2">
-_________
-II тоқсан
-II квартал
-</td>
-<td colspan="2">
-_________
-III тоқсан
-III квартал
-</td>
-</tr>
-<tr>
-<td>
-Алюминий қорытпасынан жасалған терезе блоктарын орнату жұмыстары
-Работы по установке оконных блоков из алюминиевых сплавов 43.​32.​10.​122
-</td>
-<td rowspan="9">
-дана
-штук
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-өлшемі, ені мм
-размер, ширина мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-биіктігі, мм
-высота, мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-жалаң қабатты (шыны пакеттерімен)
-одинарные (со стеклопакетами)
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-бөлінген (терезе шынысымен)
-раздельные (со стеклом оконным)
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>ашылмайтын неоткрываемые</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-ашылмалы жармамен
-с распашной створкой
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-ашылмалы жарма және фрамугамен
-с распашной створкой и фрамугой
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
-Сопоставимая цена предыдущего квартала при изменении характеристики работы
-</td>
-<td colspan="2">
-_________
-өткен жылғы IV тоқсан
-IV квартал предыдущего года
-</td>
-<td colspan="2">
-_________
-I тоқсан
-I квартал
-</td>
-<td colspan="2">
-_________
-II тоқсан
-II квартал
-</td>
-<td colspan="2">
-_________
-III тоқсан
-III квартал
-</td>
-</tr>
-<tr>
-<td>
-Аспаптар жиынтығын қоса отқа төзімді есік блогтарын орнату жұмыстары
-Работы по установке дверных блоков трудно-сгораемых, включая комплект приборов
-43.​32.​10.​123
-</td>
-<td rowspan="10">
-ш.м
-кв.м
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-өлшемі, ені мм
-размер, ширина мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-биіктігі, мм
-высота, мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-жаппа қалыңдығы, мм
-толщина полотна, мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-бір еденді
-однопольные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-қос еденді
-двупольные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-мырышталған болаттан
-из оцинкованной стали
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-басқалар
-другие
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-құлыптарды ойып орнатумен қоса
-с установкой врезных замков
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
-Сопоставимая цена предыдущего квартала при изменении характеристики работы
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Қақпа орнату жұмыстары
-Работы по установке ворот43.32.10.220
-</td>
-<td rowspan="9">
-ш.м
-кв.м
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-жақтауларымен:
-c коробками:болат
-стальными
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-ағаштан жасалған
-деревянными
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-жаппаларымен:
-с полотнами:
-жазылмалы раздвижными
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>айқара ашылатынраспахивающимися</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-жылыландырылған
-утепленными
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-жылыландырылмаған
-неутепленными
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-шағын қақпашалармен
-с калитками
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
-Сопоставимая цена предыдущего квартала при изменении характеристики работы
-</td>
-<td colspan="2">
-_________
-өткен жылғы IV тоқсан
-IV квартал предыдущего года
-</td>
-<td colspan="2">
-_________
-I тоқсан
-I квартал
-</td>
-<td colspan="2">
-_________
-II тоқсан
-II квартал
-</td>
-<td colspan="2">
-_________
-III тоқсан
-III квартал
-</td>
-</tr>
-<tr>
-<td>
-Терезе алды ағаш тақтасын орнату жұмыстары
-Работы по установке подоконных досок деревянных
-43.​32.​10.​113
-</td>
-<td rowspan="7">м</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>
-қалыңдығы, мм
-толщина, мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-ені, мм
-ширина, мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-дайын, өңделген эмаль жабындысымен
-с готовым отделочным покрытием эмалями
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-ДВП немесе су өткізбейтін фанермен қапталған
-облицованные ДВП или водостойкой фанерой
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-басқалар
-другие
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
-Сопоставимая цена предыдущего квартала при изменении характеристики работы
-</td>
-<td colspan="2">
-_________
-өткен жылғы IV тоқсан
-IV квартал предыдущего года
-</td>
-<td colspan="2">
-_________
-I тоқсан
-I квартал
-</td>
-<td colspan="2">
-_________
-II тоқсан
-II квартал
-</td>
-<td colspan="2">
-_________
-III тоқсан
-III квартал
-</td>
-</tr>
-<tr>
-<td>
-Ашылатын механизмі жоқ қақпа құрылымын жинақтау жұмыстары
-Работы по монтажу конструкций ворот без механизма открывания
-43.​32.​10.​222
-</td>
-<td rowspan="13">
-дана
-штук.
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-өлшемі, ені мм
-размер, ширина мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-биіктігі, мм
-высота, мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-айқара ашылатын
-распашные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-жиналмалы
-складчатые
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-басқалар
-другие
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-тоттанудан сақтандыру:
-антикорозийная защита:астарланған
-огрунтованная
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-боялған
-окрашенная
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-1-мәрте
-за 1 раз
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-2-мәрте
-за 2 раза
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>эмаль</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>лак</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
-Сопоставимая цена предыдущего квартала при изменении характеристики работы
-</td>
-<td colspan="2">
-_________
-өткен жылғы IV тоқсан
-IV квартал предыдущего года
-</td>
-<td colspan="2">
-_________
-I тоқсан
-I квартал
-</td>
-<td colspan="2">
-_________
-II тоқсан
-II квартал
-</td>
-<td colspan="2">
-_________
-III тоқсан
-III квартал
-</td>
-</tr>
-<tr>
-<td>
-Алюминий қорытпасынан жасалған әйнек құрылымдарын жинақтау жұмыстары
-Работы по монтажу конструкций витражей из алюминевых сплавов
-43.​32.​10.​230
-</td>
-<td rowspan="6">
-дана
-штук.
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-өлшемі, ені мм
-размер, ширина мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-биіктігі, мм
-высота, мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-үстіңгі беті анодталған
-с анодированной поверхностью
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-металл пластигінен
-из металлопластика
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
-Сопоставимая цена предыдущего квартала при изменении характеристики работы
-</td>
-<td colspan="2">
-_________
-өткен жылғы IV тоқсан
-IV квартал предыдущего года
-</td>
-<td colspan="2">
-_________
-I тоқсан
-I квартал
-</td>
-<td colspan="2">
-_________
-II тоқсан
-II квартал
-</td>
-<td colspan="2">
-_________
-III тоқсан
-III квартал
-</td>
-</tr>
-<tr>
-<td>
-Қабырға элементтерін қаптау жұмыстары
-Работы по обшивке элементов стен 43.​32.​10.​311
-</td>
-<td rowspan="14">
-ш.м
-кв.м
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-нақты бар қаңқа бойымен
-по существующему каркасу
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-қаңқа орнату жұмысымен
-с устройством каркаса
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-қаптау тақтайлары
-доски обшивки
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-қалыңдығы, см
-толщина, см
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ағаш- жаңқалы тақталар древесно-стружечные плиты</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-қалыңдығы, см
-толщина, см
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-басқа
-другое
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-бір жағынан
-с одной стороны
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-екі жағынан
-с двух сторон
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-жылу оқшаулағыш құрылғылармен
-с устройством теплоизоляции
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-жылуды оқшаулайтын қабат:
-теплоизолирующий:
-материал
-материал
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-қалыңдығы,мм
-толщина,мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
-Сопоставимая цена предыдущего квартала при изменении характеристики работы
-</td>
-<td colspan="2">
-_________
-өткен жылғы IV тоқсан
-IV квартал предыдущего года
-</td>
-<td colspan="2">
-_________
-I тоқсан
-I квартал
-</td>
-<td colspan="2">
-_________
-II тоқсан
-II квартал
-</td>
-<td colspan="2">
-_________
-III тоқсан
-III квартал
-</td>
-</tr>
-<tr>
-<td>
-Көтергіш тірек арқылы төбе жабужұмыстары
-Работы по подшивке потолка по несущему каркасу 43.​32.​10.​331
-</td>
-<td rowspan="6">
-ш.м
-кв.м
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-қаптау тақтайлары
-доски обшивки
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-ағаш-талшықты тақталар
-плиты древесно-волокнистые
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-қалыңдығы, мм
-толщина, мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-маркасы
-маркасы
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
-Сопоставимая цена предыдущего квартала при изменении характеристики работы
-</td>
-<td colspan="2">
-_________
-өткен жылғы IV тоқсан
-IV квартал предыдущего года
-</td>
-<td colspan="2">
-_________
-I тоқсан
-I квартал
-</td>
-<td colspan="2">
-_________
-II тоқсан
-II квартал
-</td>
-<td colspan="2">
-_________
-III тоқсан
-III квартал
-</td>
-</tr>
-<tr>
-<td>
-Қабырғаға кіріктірілген шкафтарды орнату жұмыстары
-Работы по установке встроенных шкафов
-43.​32.​10.​351
-</td>
-<td rowspan="12">
-ш.м
-кв.м
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-өлшемі, ені мм
-размер, ширина мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-биіктігі, мм
-высота, мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-қабырғалар және арақабырғалар
-стенки и перегородки
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-антресоль және шкаф есіктері
-двери шкафные и антресольные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-аспаптарды кесіп отырып орнату
-с прирезкой приборов
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-үстіңгі бетін:
-поверхность:
-дайын эмаль жабындысымен
-готовое покрытие эмалями
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-қаптау
-облицовка
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-пластикпен
-пластиком
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-қабыршақпен
-шпоном
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-басқа
-другое
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
-Сопоставимая цена предыдущего квартала при изменении характеристики работы
-</td>
-<td colspan="2">
-_________
-өткен жылғы IV тоқсан
-IV квартал предыдущего года
-</td>
-<td colspan="2">
-_________
-I тоқсан
-I квартал
-</td>
-<td colspan="2">
-_________
-II тоқсан
-II квартал
-</td>
-<td colspan="2">
-_________
-III тоқсан
-III квартал
-</td>
-</tr>
-<tr>
-<td>
-Металл элементтерімен (бұранда, болат темір) бекітілген білеуден жасалған қаңқаны орнатужұмыстары
-Работы по установке каркаса из брусьев с креплением металлическими элементами (болт, поковки)43.​32.​10.​391
-</td>
-<td rowspan="5">
-текше м.
-куб.м
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-сүрек сұрыбы
-сорт древесины
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-ағаш тұқымы
-порода дерева
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-қорғаныстық ағаш өңдеу жұмыстарымен
-с защитной деревообработкой
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
-Сопоставимая цена предыдущего квартала при изменении характеристики работы
-</td>
-<td colspan="2">
-_________
-өткен жылғы IV тоқсан
-IV квартал предыдущего года
-</td>
-<td colspan="2">
-_________
-I тоқсан
-I квартал
-</td>
-<td colspan="2">
-_________
-II тоқсан
-II квартал
-</td>
-<td colspan="2">
-_________
-III тоқсан
-III квартал
-</td>
-</tr>
-<tr>
-<td>
-Ернеуліктерді орнату жұмыстары
-Работы по установке плинтусов
-43.​32.​10.​392
-</td>
-<td rowspan="7">м</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-перхлорвинилді
-перхлорвиниловые
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-ағаштан жасалған
-деревянные
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-сүрек тұқымы
-порода древесины
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-өлшемі, ені мм
-размер, ширина мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-биіктігі, мм
-высота, мм
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
-Сопоставимая цена предыдущего квартала при изменении характеристики работы
-</td>
-<td colspan="2">
-_________
-өткен жылғы IV тоқсан
-IV квартал предыдущего года
-</td>
-<td colspan="2">
-_________
-I тоқсан
-I квартал
-</td>
-<td colspan="2">
-_________
-II тоқсан
-II квартал
-</td>
-<td colspan="2">
-_________
-III тоқсан
-III квартал
-</td>
-</tr>
-</table>
 
 ## 11. Еден төсеу және қабырғаларды қаптау жұмыстары түрлерінің бағаларын көрсетіңіз, ҚҚС-сыз теңгемен
 
@@ -10958,6 +6179,4059 @@ II квартал
 _________
 III тоқсан
 III квартал
+</td>
+</tr>
+</table>
+
+## 13. Үстіңгі беттерді бояу бойынша жұмыс түрлерінің бағаларын көрсетіңіз, ҚҚС-сыз теңгемен
+
+Укажите цены на виды работ по окраске поверхностей, в тенге без НДС
+
+<table>
+<tr>
+<td rowspan="2">
+Жұмыстың атауы, коды және оның сипаттамасы
+Название, код работы и ее характеристика
+</td>
+<td rowspan="2">
+Өлшем бірлігі
+Единица измерения
+</td>
+<td colspan="2">
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+III тоқсан
+III квартал
+</td>
+<td colspan="2">
+IV тоқсан
+IV квартал
+</td>
+</tr>
+<tr>
+<td>
+көрсетілсін және белгіленсін
+отметить и указать
+</td>
+<td>
+баға
+цена
+</td>
+<td>
+көрсетілсін және белгіленсін
+отметить и указать
+</td>
+<td>
+баға
+цена
+</td>
+<td>
+көрсетілсін және белгіленсін
+отметить и указать
+</td>
+<td>
+баға
+цена
+</td>
+<td>
+көрсетілсін және белгіленсін
+отметить и указать
+</td>
+<td>
+баға
+цена
+</td>
+</tr>
+<tr>
+<td>
+Ғимараттың ішкі үстіңгі беттерін суға езілген эмульсиялы бояулармен сырлаужұмыстары
+Работы по окраске поверхностей внутренних здания красками водоэмульсионными 43.​34.​10.​130
+</td>
+<td rowspan="9">
+ш.м
+кв.м
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+әк
+известковая
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+желімді
+клеевая
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+басқа
+другая
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+сылақ үстімен
+по штукатурке
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+құрама конструкциялар үстімен
+по сборным конструкциям
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+бояу:
+краска:
+қабаттар саны
+количество слоев
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+дайындаушы
+изготовитель
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
+Сопоставимая цена предыдущего квартала при изменении характеристики работы
+</td>
+<td colspan="2">
+_________
+өткен жылғы IV тоқсан
+IV квартал предыдущего года
+</td>
+<td colspan="2">
+_________
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+_________
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+__________
+III тоқсан
+III квартал
+</td>
+</tr>
+<tr>
+<td>
+Ғимараттардың ішінде үстіңгі беттерін поливинилацетаттар құрамымен сырлау жұмыстары
+Работы по окраске поверхностей внутренних зданий составами поливинилацетатными
+43.​34.​10.​141
+</td>
+<td rowspan="9">
+ш.м
+кв.м
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+қабырғаларды
+/стен
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+төбелерді
+/потолков
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+басқалар
+другое
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+сылақ бойымен
+по штукатурке
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+құрама құрылымдары бойымен
+по сборным конструкциям
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+бояу қабатының саны
+количество слоев краски
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+бояу дайындаушы
+изготовитель краски
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
+Сопоставимая цена предыдущего квартала при изменении характеристики работы
+</td>
+<td colspan="2">
+_________
+өткен жылғы IV тоқсан
+IV квартал предыдущего года
+</td>
+<td colspan="2">
+_________
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+_________
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+_________
+III тоқсан
+III квартал
+</td>
+</tr>
+<tr>
+<td>
+Эмальды құрамдармен бетон және сылақ жағылған үстіңгі беттерді сырлау жұмыстары
+Работы по окраске бетонных и оштукатуренных поверхностей составами эмалевыми 43.​34.​10.​142
+</td>
+<td rowspan="9">
+ш.м
+кв.м
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>
+қабырғаларды
+стен
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+төбелерді
+потолков
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+басқалар
+другие
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+сылақ бойымен
+по штукатурке
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+құрама құрылымдары бойымен
+по сборным конструкциям
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+бояу қабаттарының саны
+количество слоев краски
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+бояу дайындаушы
+изготовитель краски
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
+Сопоставимая цена предыдущего квартала при изменении характеристики работы
+</td>
+<td colspan="2">
+_________
+өткен жылғы IV тоқсан
+IV квартал предыдущего года
+</td>
+<td colspan="2">
+_________
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+_________
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+_________III тоқсан
+III квартал
+</td>
+</tr>
+<tr>
+<td>
+Эмаль құрамдарымен метал беттерін сырлау жұмыстары
+Работы по окраске металлических поверхностей составами эмалевыми 43.​34.​10.​143
+</td>
+<td rowspan="9">
+ш.м
+кв.м
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+үстіңгі бетіне төсеме жасаумен
+с огрунтовкой поверхностей
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+төсеме жасалған үстіңгі беті
+бойымен
+по огрунтованной поверхности
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+1 мәрте/
+за 1 раз
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+2 мәрте/
+за 2 раза
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+көлемді үстіңгі беттерді
+больших поверхностей
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+керегеторларды, жақтауларды, радиаторларды
+решеток, переплетов, радиаторов
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+басқалар
+другие
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+Жұмыс сипаттама өзгергенде өткен тоқсанның салыстырмалы бағасы
+Сопоставимая цена предыдущего квартала при изменении характеристики работы
+</td>
+<td colspan="2">
+_________
+өткен жылғы IV тоқсан
+IV квартал предыдущего года
+</td>
+<td colspan="2">
+_________
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+_________
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+_________III тоқсан
+III квартал
+</td>
+</tr>
+<tr>
+<td>
+Ғимараттардың қосбетін бояу жұмыстары
+Работы по окраске фасадов зданий 43.​34.​10.​220
+</td>
+<td rowspan="9">
+ш.м
+кв.м
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+әк
+известковая
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+силикатты
+силикатная
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+поливинилацетатты
+поливинилацетатная
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+сылақ жағылған үстіңгі беті бойымен
+по оштукатуренной поверхности
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+құрама конструкциялар бойымен
+по сборным конструкциям
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+бояу қабаттарының саны
+количество слоев краски
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+бояу дайындаушы
+изготовитель краски
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
+Сопоставимая цена предыдущего квартала при изменении характеристики работы
+</td>
+<td colspan="2">
+_________
+өткен жылғы IV тоқсан
+IV квартал предыдущего года
+</td>
+<td colspan="2">
+_________
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+_________
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+_________III тоқсан
+III квартал
+</td>
+</tr>
+<tr>
+<td>
+Ағаштан жасалған үстіңгі беттерін лак немесе эмаль құрамдарымен жабындау жұмыстары
+Работы по покрытию деревянных поверхностей лаком или составами эмалевыми 43.​34.​10.​144
+</td>
+<td rowspan="11">
+ш.м
+кв.м
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+лакпен
+лаком
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+эмальдармен
+эмалями
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+1 мәрте
+за 1 раз
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+2 мәрте
+за 2 раза
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+едендерді
+полов
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+қабырғаларды
+стен
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+ойықтарды толтыра отырып
+заполнением проемов
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+сырланған үстіңгі беті бойымен
+по окрашенной поверхности
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+олифтелген үстіңгі беті бойымен
+по проолифенной поверхности
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
+Сопоставимая цена предыдущего квартала при изменении характеристики работы
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+## 14. Жылыту, желдету, ауа баптау жүйелерін орнату бойынша жұмыстар түрлерінің бағаларын көрсетіңіз, ҚҚС-сыз теңгемен
+
+Укажите цены на виды работ по установке систем отопления, вентиляции, кондиционирования воздуха, в тенге без НДС
+
+<table>
+<tr>
+<td rowspan="2">
+Жұмыстың атауы, коды және оның сипаттамасы
+Название, код работы и ее характеристика
+</td>
+<td rowspan="2">
+Өлшем бірлігі
+Единица измерения
+</td>
+<td colspan="2">
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+III тоқсан
+III квартал
+</td>
+<td colspan="2">
+IV тоқсан
+IV квартал
+</td>
+</tr>
+<tr>
+<td>
+көрсетілсін және белгіленсін
+отметить и указать
+</td>
+<td>
+баға
+цена
+</td>
+<td>
+көрсетілсін және белгіленсін
+отметить и указать
+</td>
+<td>
+баға
+цена
+</td>
+<td>
+көрсетілсін және белгіленсін
+отметить и указать
+</td>
+<td>
+баға
+цена
+</td>
+<td>
+көрсетілсін және белгіленсін
+отметить и указать
+</td>
+<td>
+баға
+цена
+</td>
+</tr>
+<tr>
+<td>
+Болат құбырларынан жасалған құбыр желісін тарту жұмыстары
+Работы по прокладке трубопровода из стальных труб 43.​22.​12.​111
+</td>
+<td rowspan="9">м</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+құбырлар:
+трубы:
+су-газ құбырларыводогазопроводные
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+мырышталған
+оцинкованные
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>мырышталмағаннеоцинкованные</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>электрмен дәнекерленгенэлектросварные</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+жігі жоқ
+бесшовные
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+диаметрі, мм
+диаметр, мм
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+қабырға қалыңдығы, мм
+толщина стенки, мм
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
+Сопоставимая цена предыдущего квартала при изменении характеристики работы
+</td>
+<td colspan="2">
+_________
+өткен жылғы IV тоқсан
+IV квартал предыдущего года
+</td>
+<td colspan="2">
+_________
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+_________
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+_________
+III тоқсан
+III квартал
+</td>
+</tr>
+<tr>
+<td>
+Болат құбырларынан жасалған құбыр желісіне арналған арматураларды орнату жұмыстары
+Работы по установке арматуры для трубопровода из стальных труб 43.​22.​12.​112
+</td>
+<td rowspan="11">
+дана
+штук
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+вентилді
+вентили
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+өткізбе
+проходной
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+кері қайтпа
+обратный
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+жабылма
+запорный
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+жылжыма
+задвижки
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+басқа
+другое
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+түрі
+тип
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+қысымы, Мпа
+давление,Мпа
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+шартты өткізілім диаметрі, мм
+диаметр у.п., мм
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
+Сопоставимая цена предыдущего квартала при изменении характеристики работы
+</td>
+<td colspan="2">
+_________
+өткен жылғы IV тоқсан
+IV квартал предыдущего года
+</td>
+<td colspan="2">
+_________
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+_________
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+_________
+III тоқсан
+III квартал
+</td>
+</tr>
+<tr>
+<td>
+Электр қозғалтқышпен желдеткіштерді орнату жұмыстары
+Работы по установке вентиляторов с электродвигателем 43.​22.​12.​251
+</td>
+<td rowspan="7">
+ш.м
+кв.м
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>
+кіндікті
+осевые
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+радиальды
+радиальные
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+маркасы
+марка
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+дайындаушы
+изготовитель
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+қуаты, кВт
+мощность, кВт
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
+Сопоставимая цена предыдущего квартала при изменении характеристики работы
+</td>
+<td colspan="2">
+_________
+өткен жылғы IV тоқсан
+IV квартал предыдущего года
+</td>
+<td colspan="2">
+_________
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+_________
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+_________III тоқсан
+III квартал
+</td>
+</tr>
+<tr>
+<td>Жылыту жүйесінің су ысытатын қазандықтарын орнату жұмыстарыРаботы по установке котлов отопительных водогрейных 43.​22.​12.​121</td>
+<td rowspan="8">
+дана
+штук
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+секциялық су жылытқыш
+секционный водоподогреватель
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+секциялар, дана
+секций, штук
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+жылу өндіргіш қуаты, кВт
+теплопроизводительность, кВт
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+үстіңгі жылу қабаты, ш.м.
+поверхность нагрева, м2
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+маркасы
+марка
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+дайындаушы
+изготовитель
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Жұмыс сипаттама өзгергенде өткен тоқсанның салыстырмалы бағасы
+Сопоставимая цена предыдущего квартала при изменении характеристики работы
+</td>
+<td colspan="2">
+_________
+өткен жылғы IV тоқсан
+IV квартал предыдущего года
+</td>
+<td colspan="2">
+_________
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+_________
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+_________III тоқсан
+III квартал
+</td>
+</tr>
+<tr>
+<td>
+Шойын жылу радиаторларын орнатуға арналған кұрал-жабдықтармен қоса орнату жұмыстары
+Работы по установке радиаторов отопительных чугунных, включая принадлежности для установки 43.​22.​12.​141
+</td>
+<td rowspan="8">кВт</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+дайындаушы
+изготовитель
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+түрі
+тип
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+биіктігі, мм
+высота, мм
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ені, мм
+ширина, мм
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+секциясы, дана
+секций, шт
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ең жоғарғы жұмыс температурасы, Со
+максимальная рабочая температура, Со
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
+Сопоставимая цена предыдущего квартала при изменении характеристики работы
+</td>
+<td colspan="2">
+_________
+өткен жылғы IV тоқсан
+IV квартал предыдущего года
+</td>
+<td colspan="2">
+_________
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+_________
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+_________III тоқсан
+III квартал
+</td>
+</tr>
+<tr>
+<td>
+Жалғамалы бақылау - өлшеуіш құралдарды орнату жұмыстары
+работы по установке контрольно-измерительных приборов с присоединением 43.​22.​12.​191
+</td>
+<td rowspan="9">
+дана
+штук
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+су өлшегіш
+водомеры
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+қанатты
+крыльчатые
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+турбиналық
+турбинные
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+түрі
+тип
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+шартты өткізілім диаметрі, мм
+диаметр у.п., мм
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+жұмыстық қысым, Мпа
+рабочее давление, Мпа
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+дайындаушы
+изготовитель
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
+Сопоставимая цена предыдущего квартала при изменении характеристики работы
+</td>
+<td colspan="2">
+_________
+өткен жылғы IV тоқсан
+IV квартал предыдущего года
+</td>
+<td colspan="2">
+_________
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+_________
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+_________
+III тоқсан
+III квартал
+</td>
+</tr>
+<tr>
+<td>
+Калориферлерді орнату жұмыстары
+Работы по установке калориферов 43.​22.​12.​292
+</td>
+<td rowspan="7">
+дана
+штук.
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+шиыршықты-толтырылмалы
+спирально-набивные
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+болат тілімшелі
+пластинчатые, стальные
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+моделі
+модель
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+үстіңгі беттің жылу алмасу ауданы, ш.м
+площадь поверхности теплообмена, м2
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+дайындаушы
+изготовитель
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
+Сопоставимая цена предыдущего квартала при изменении характеристики работы
+</td>
+<td colspan="2">
+_________
+өткен жылғы IV тоқсан
+IV квартал предыдущего года
+</td>
+<td colspan="2">
+_________
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+_________
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+_________
+III тоқсан
+III квартал
+</td>
+</tr>
+<tr>
+<td>
+Болат қыздырғыш элементтермен және металл қаптамамен конвекторларды орнатужұмыстары
+Работы по установке конвекторов со стальным нагревательным элементом и металлическим кожухом43.22.12.192
+</td>
+<td rowspan="11">кВт</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+қабырғалық
+настенные
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+аралдық
+островные
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+дайындаушы
+изготовитель
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+түрі
+тип
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+биіктігі, мм
+высота, мм
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ені, мм
+ширина, мм
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ұзындығы, мм
+длина, мм
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ең жоғарғы жұмыс температурасымаксимальная рабочая температура, Со</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ең жоғарғы жұмыс температурасы
+максимальная рабочая температура, Со
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
+Сопоставимая цена предыдущего квартала при изменении характеристики работы
+</td>
+<td colspan="2">
+_________
+өткен жылғы IV тоқсан
+IV квартал предыдущего года
+</td>
+<td colspan="2">
+_________
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+_________
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+_________
+III тоқсан
+III квартал
+</td>
+</tr>
+<tr>
+<td>
+Электр жүйесіне жалғанған және электр қозғалтқыш арқылы су тартатын дербес су сорғыларын орнату жұмыстары
+Работы по установке водяных насосов для подачи воды с электродвигателем и присоединени ем к сети 43.​22.​12.​193
+</td>
+<td rowspan="7">
+дана
+штук.
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ортатепкіш
+центробежные
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+кіндіктік
+осевые
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+қуаты м3/cағ
+мощность, м3/ч
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+маркасы
+марка
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+дайындаушы
+изготовитель
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
+Сопоставимая цена предыдущего квартала при изменении характеристики работы
+</td>
+<td colspan="2">
+_________
+өткен жылғы IV тоқсан
+IV квартал предыдущего года
+</td>
+<td colspan="2">
+_________
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+_________
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+_________
+III тоқсан
+III квартал
+</td>
+</tr>
+<tr>
+<td>
+Бұрма, жалтарма, өтпе тектес фасонды тетіктермен қоса ауа арналарын төсеу жұмыстары
+Работы по прокладке воздуховодов с установкой фасонных деталей: поворотов, отводов, переходов43.22.12.211
+</td>
+<td rowspan="9">
+ш.м
+кв.м
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+болат табақшаларынан
+из листовой стали
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+басқалар
+другие
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+болат қалыңдығы
+толщина стали
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+тік бұрышты қима
+прямоугольного сечения
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+шеңберлі қима
+круглого сечения
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+диаметрі, мм
+диаметр, мм
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+периметрі, мм
+периметр, мм
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
+Сопоставимая цена предыдущего квартала при изменении характеристики работы
+</td>
+<td colspan="2">
+_________
+өткен жылғы IV тоқсан
+IV квартал предыдущего года
+</td>
+<td colspan="2">
+_________
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+_________
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+_________
+III тоқсан
+III квартал
+</td>
+</tr>
+<tr>
+<td>
+Торпердені орнату жұмыстары
+Работы по установке жалюзийных решеток 43.​22.​12.​291
+</td>
+<td rowspan="7">
+дана
+штук.
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+болат
+стальные
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+басқалар
+другие
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+қозғалмайтын
+неподвижные
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+реттелетін
+регулируемые
+</td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+ені, мм
+ширина, мм
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Жұмыс сипаттамасы өзгергенде өткен тоқсанның салыстырмалы бағасы
+Сопоставимая цена предыдущего квартала при изменении характеристики работы
+</td>
+<td colspan="2">
+_________
+өткен жылғы IV тоқсан
+IV квартал предыдущего года
+</td>
+<td colspan="2">
+_________
+I тоқсан
+I квартал
+</td>
+<td colspan="2">
+_________
+II тоқсан
+II квартал
+</td>
+<td colspan="2">
+_________
+III тоқсан III квартал
 </td>
 </tr>
 </table>
