@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/58205/rus/18.07.2011
+source: https://zan.gov.kz/client/#!/doc/58205/rus/01.01.2012
 ---
 
 ## А бөлігі. Қызмет көрсету бойынша операциялар
