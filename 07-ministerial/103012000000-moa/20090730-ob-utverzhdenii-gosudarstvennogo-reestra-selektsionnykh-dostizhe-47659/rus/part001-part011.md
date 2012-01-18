@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/47659/rus/31.03.2011
+source: https://zan.gov.kz/client/#!/doc/47659/rus/18.01.2012
 ---
 
 <table>
@@ -411,10 +411,10 @@ Medicado L.
 <td></td>
 </tr>
 <tr>
-<td colspan="9">
+<th>
 Лядвенец рогатый
 Lotus corniculatus L.
-</td>
+</th>
 </tr>
 <tr>
 <td>АҚТОҒАЙ 1</td>
@@ -434,6 +434,17 @@ Trifolium pratense L.
 </th>
 </tr>
 <tr>
+<td>АТАМЕКЕН</td>
+<td>2012</td>
+<td>5</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>
 ЗЫРЯНОВСКИЙ
 МЕСТНЫЙ
@@ -441,6 +452,17 @@ Trifolium pratense L.
 <td>1950</td>
 <td>5</td>
 <td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТАЙФУН</td>
+<td>2012</td>
+<td>5</td>
+<td>314</td>
 <td></td>
 <td></td>
 <td></td>
@@ -656,6 +678,17 @@ Agropyron et Schult.
 <td></td>
 </tr>
 <tr>
+<td>БАТЫС-3159</td>
+<td>2012</td>
+<td>3</td>
+<td>40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ДАЛАЛЫК</td>
 <td>2011</td>
 <td>12</td>
@@ -796,6 +829,17 @@ Agropyron et Schult.
 <td>1967</td>
 <td>3</td>
 <td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ШАЛҚЫМА</td>
+<td>2012</td>
+<td>8</td>
+<td>43</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1584,10 +1628,10 @@ Eurotia ceratoides (L.) C.A. Mey
 <td></td>
 </tr>
 <tr>
-<td colspan="9">
+<th>
 Астрагал шарагаловый
 Astragalus globiceps Bunge
-</td>
+</th>
 </tr>
 <tr>
 <td>ТАСПА 52</td>
@@ -1680,10 +1724,10 @@ C.​aphyllum (Pall) Gurke
 <td></td>
 </tr>
 <tr>
-<td colspan="9">
+<th>
 Жузгун мелкоплодный
 Calligonum microcarpum
-</td>
+</th>
 </tr>
 <tr>
 <td>ҚЫЗЫЛҚҰМ 42</td>

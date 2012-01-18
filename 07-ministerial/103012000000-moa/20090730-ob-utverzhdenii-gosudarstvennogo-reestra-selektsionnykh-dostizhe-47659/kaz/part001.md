@@ -1,11 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/47659/kaz/31.03.2011
+source: https://zan.gov.kz/client/#!/doc/47659/kaz/18.01.2012
 ---
 
 ## Қазақстан Республикасында пайдалануға рұқсат етілген Селекциялық жетістіктердің мемлекеттік тізілімі
 
-> *Ескерту. Тізбеге өзгеріс енгізілді - ҚР Ауыл шаруашылығы министрiнiң 2010.04.26 № 291; 2011.03.31 N 06-2/153 (қолданысқа енгізілу тәртібін 3-т. қараңыз) Бұйрықтарымен.*
+> *Ескерту. Тізбеге өзгеріс енгізілді - ҚР Ауыл шаруашылығы министрiнiң 2010.04.26 № 291; 2011.03.31 N 06-2/153 (қолданысқа енгізілу тәртібін 3-т. қараңыз), 2012.01.18 № 06-2/20 Бұйрықтарымен.*
 
 <table>
 <tr>
@@ -46,6 +46,17 @@ Triticum aestivum L.​emend. Fiori et Paol.
 <td>3, 6</td>
 <td>18, 252</td>
 <td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АЛАТАУ</td>
+<td>2012</td>
+<td>3</td>
+<td>18</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -351,7 +362,7 @@ Triticum aestivum L.​emend. Fiori et Paol.
 <tr>
 <td>РАСАД</td>
 <td>2011</td>
-<td>3</td>
+<td>3,6</td>
 <td>18</td>
 <td>03</td>
 <td></td>
@@ -406,7 +417,7 @@ Triticum aestivum L.​emend. Fiori et Paol.
 <tr>
 <td>ФАРАБИ</td>
 <td>2011</td>
-<td>3</td>
+<td>3,6</td>
 <td>18</td>
 <td>04</td>
 <td></td>
@@ -465,6 +476,17 @@ Triticum durum Desf.
 <td></td>
 </tr>
 <tr>
+<td>АРГОНАВТ</td>
+<td>2012</td>
+<td>3</td>
+<td>169</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>КАЗАХСТАНСКИЙ ЯНТАРЬ</td>
 <td>2011</td>
 <td>3, 6, 9</td>
@@ -490,6 +512,28 @@ Hordeum vulgare L. sensu lato
 <td></td>
 <td></td>
 <td>еж</td>
+<td></td>
+</tr>
+<tr>
+<td>ДОСТОЙНЫЙ</td>
+<td>2012</td>
+<td>3</td>
+<td>169</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td>еж</td>
+<td></td>
+</tr>
+<tr>
+<td>ЗЫМОВЫЙ</td>
+<td>2012</td>
+<td>3</td>
+<td>169</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -523,6 +567,17 @@ Hordeum vulgare L. sensu lato
 <td></td>
 <td></td>
 <td>еж</td>
+<td></td>
+</tr>
+<tr>
+<td>СКАРПИЯ</td>
+<td>2012</td>
+<td>3</td>
+<td>323</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -843,7 +898,7 @@ Triticum aestivum L. emend. Fiori et Paol
 <tr>
 <td>ЕРТIC 7</td>
 <td>2011</td>
-<td>12</td>
+<td>2,12</td>
 <td>30</td>
 <td>05</td>
 <td></td>
@@ -1195,7 +1250,7 @@ Triticum aestivum L. emend. Fiori et Paol
 <tr>
 <td>ОМСКАЯ 35</td>
 <td>2008</td>
-<td>10, 13</td>
+<td>1, 10, 13</td>
 <td>138, 282</td>
 <td>05</td>
 <td></td>
@@ -1264,6 +1319,17 @@ Triticum aestivum L. emend. Fiori et Paol
 <td>5</td>
 <td>8</td>
 <td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>САМГАУ</td>
+<td>2012</td>
+<td>12</td>
+<td>18</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1479,6 +1545,17 @@ Triticum aestivum L. emend. Fiori et Paol
 <td></td>
 </tr>
 <tr>
+<td>ШОРТАНДИНСКАЯ 2007</td>
+<td>2012</td>
+<td>7</td>
+<td>19</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ЭРИТРОСПЕРМУМ 35</td>
 <td>1991</td>
 <td>1, 8, 10, 13</td>
@@ -1619,7 +1696,7 @@ Triticum durum Desf
 <tr>
 <td>ЖЕМЧУЖИНА СИБИРИ</td>
 <td>2008</td>
-<td>13</td>
+<td>10, 13</td>
 <td>138</td>
 <td>04</td>
 <td></td>
@@ -1665,6 +1742,17 @@ Triticum durum Desf
 <td>2005</td>
 <td>2, 4</td>
 <td>4, 18</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КАРГАЛА 69</td>
+<td>2012</td>
+<td>7</td>
+<td>4</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -1909,6 +1997,17 @@ Hordeum vulgare L. sensu lato
 <td></td>
 </tr>
 <tr>
+<td>ДЕСПИНА</td>
+<td>2012</td>
+<td>5</td>
+<td>324</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ДОНЕЦКИЙ 8</td>
 <td>1979</td>
 <td>1, 2, 5, 7, 8, 10, 14</td>
@@ -1975,6 +2074,28 @@ Hordeum vulgare L. sensu lato
 <td></td>
 </tr>
 <tr>
+<td>КАЗСУФФЛЕ-1</td>
+<td>2012</td>
+<td>6</td>
+<td>18, 325</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КАНГУ</td>
+<td>2012</td>
+<td>3</td>
+<td>317</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>КАРАБАЛЫКСКИЙ 110</td>
 <td>2010</td>
 <td>5</td>
@@ -2032,7 +2153,7 @@ Hordeum vulgare L. sensu lato
 <tr>
 <td>КОМПАКТ</td>
 <td>2003</td>
-<td>3, 5</td>
+<td>5</td>
 <td>249</td>
 <td>05</td>
 <td></td>
@@ -2089,17 +2210,6 @@ Hordeum vulgare L. sensu lato
 <td>1985</td>
 <td>3, 5, 6, 14</td>
 <td>169</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОЛБРАМ</td>
-<td>2003</td>
-<td>3</td>
-<td>248</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -2230,7 +2340,7 @@ Hordeum vulgare L. sensu lato
 <tr>
 <td>СЫМБАТ</td>
 <td>2011</td>
-<td>10, 13</td>
+<td>6, 10, 13</td>
 <td>18</td>
 <td>04</td>
 <td></td>
@@ -2313,7 +2423,7 @@ Avena sativa L
 <tr>
 <td>АЛАМАН</td>
 <td>2011</td>
-<td>3</td>
+<td>2, 3, 13</td>
 <td>18</td>
 <td>04</td>
 <td></td>
@@ -2443,6 +2553,17 @@ Avena sativa L
 <td></td>
 </tr>
 <tr>
+<td>ПЕГАС</td>
+<td>2012</td>
+<td>5</td>
+<td>288</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>СИНЕЛЬНИКОВСКИЙ 14</td>
 <td>1973</td>
 <td>1, 10</td>
@@ -2477,6 +2598,17 @@ Zea mays L.
 <td>61, 170, 18</td>
 <td>02</td>
 <td>3л</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АГРИСТЕР</td>
+<td>2012</td>
+<td>6</td>
+<td>317</td>
+<td>05</td>
+<td>2л</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2553,7 +2685,7 @@ Zea mays L.
 <td>3</td>
 <td>298</td>
 <td>03</td>
-<td></td>
+<td>F1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2564,7 +2696,7 @@ Zea mays L.
 <td>3</td>
 <td>298</td>
 <td>02</td>
-<td></td>
+<td>F1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2573,7 +2705,7 @@ Zea mays L.
 <td>ДАЛА АРУЫ 446 П</td>
 <td>2011</td>
 <td>3</td>
-<td>18</td>
+<td>18, 67</td>
 <td>05</td>
 <td>гп</td>
 <td></td>
@@ -2619,7 +2751,7 @@ Zea mays L.
 <td>3</td>
 <td>234</td>
 <td>04</td>
-<td></td>
+<td>2л</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2628,7 +2760,7 @@ Zea mays L.
 <td>ЗПСК 704</td>
 <td>1996</td>
 <td>3, 14</td>
-<td>220</td>
+<td>220, 270</td>
 <td>06</td>
 <td>2л</td>
 <td></td>
@@ -2660,7 +2792,18 @@ Zea mays L.
 <tr>
 <td>КАЗ ЗП 200</td>
 <td>2009</td>
-<td>1, 10, 12</td>
+<td>1, 10, 12, 13</td>
+<td>220, 270</td>
+<td>03</td>
+<td>3л</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КАЗ ЗП 499</td>
+<td>2012</td>
+<td>6</td>
 <td>220, 270</td>
 <td>03</td>
 <td>3л</td>
@@ -2686,6 +2829,17 @@ Zea mays L.
 <td>18, 220</td>
 <td>05</td>
 <td>3л</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КАЗ ЗП 629</td>
+<td>2012</td>
+<td>6</td>
+<td>220, 270</td>
+<td>05</td>
+<td>2л</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2925,9 +3079,9 @@ Zea mays L.
 <td>ОМКА 130</td>
 <td>2010</td>
 <td>1</td>
-<td>229, 138</td>
+<td>138, 230</td>
 <td>01</td>
-<td></td>
+<td>3л</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2971,7 +3125,7 @@ Zea mays L.
 <td>1</td>
 <td>234</td>
 <td>01</td>
-<td></td>
+<td>2л</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2982,7 +3136,7 @@ Zea mays L.
 <td>3</td>
 <td>234</td>
 <td>04</td>
-<td></td>
+<td>2л</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2993,7 +3147,7 @@ Zea mays L.
 <td>3</td>
 <td>234</td>
 <td>04</td>
-<td></td>
+<td>2л</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3004,7 +3158,7 @@ Zea mays L.
 <td>3</td>
 <td>285</td>
 <td>02</td>
-<td></td>
+<td>F1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3015,7 +3169,7 @@ Zea mays L.
 <td>3</td>
 <td>285</td>
 <td>02</td>
-<td></td>
+<td>F1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3026,7 +3180,7 @@ Zea mays L.
 <td>3</td>
 <td>285</td>
 <td>02</td>
-<td></td>
+<td>F1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3133,7 +3287,7 @@ Zea mays L.
 <tr>
 <td>ТУЛПАР 539</td>
 <td>2007</td>
-<td>3, 6</td>
+<td>3, 6, 14</td>
 <td>270, 220</td>
 <td>05</td>
 <td>2л</td>
@@ -3153,10 +3307,10 @@ Zea mays L.
 <td></td>
 </tr>
 <tr>
-<td>ТҰРАН 150</td>
+<td>ТҰРАН 150 СВ</td>
 <td>2008</td>
 <td>7</td>
-<td>18</td>
+<td>18, 40</td>
 <td>02</td>
 <td>2л</td>
 <td></td>
@@ -3167,7 +3321,7 @@ Zea mays L.
 <td>ТҰРАН 170 СВ</td>
 <td>2009</td>
 <td>10</td>
-<td>18</td>
+<td>18, 40</td>
 <td>02</td>
 <td>2л</td>
 <td></td>
@@ -3465,7 +3619,7 @@ Panicum miliaceum L.
 <tr>
 <td>ЯРКОЕ 5</td>
 <td>2012</td>
-<td>3, 8, 10</td>
+<td>2, 3, 8, 10</td>
 <td>4</td>
 <td>04</td>
 <td></td>
@@ -3623,6 +3777,17 @@ Oryza sativa L.
 <td>3</td>
 <td>18, 266</td>
 <td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КАЗ НИИР-5</td>
+<td>2012</td>
+<td>9</td>
+<td>31</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3805,6 +3970,17 @@ Oryza sativa L.
 <td></td>
 </tr>
 <tr>
+<td>ФИШТ</td>
+<td>2012</td>
+<td>9</td>
+<td>68</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ЯНТАРЬ</td>
 <td>2009</td>
 <td>9</td>
@@ -3972,6 +4148,39 @@ Glycine max (L.) Merr
 <td></td>
 </tr>
 <tr>
+<td>АНАСТАСИЯ</td>
+<td>2012</td>
+<td>1, 3, 9, 12</td>
+<td>326</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АННУШКА</td>
+<td>2012</td>
+<td>5, 8</td>
+<td>326</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>БИЛЯВКА</td>
+<td>2012</td>
+<td>2, 6 ,10</td>
+<td>326</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>БУКУРИЯ</td>
 <td>2007</td>
 <td>3</td>
@@ -4027,11 +4236,33 @@ Glycine max (L.) Merr
 <td></td>
 </tr>
 <tr>
+<td>ДЕСНА</td>
+<td>2012</td>
+<td>5</td>
+<td>327, 328</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ЖАЛПАКСАЙ</td>
 <td>2003</td>
 <td>3, 5, 9, 14</td>
 <td>18,176</td>
 <td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖАНСАЯ</td>
+<td>2012</td>
+<td>3</td>
+<td>18</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4054,6 +4285,17 @@ Glycine max (L.) Merr
 <td>3, 6, 9</td>
 <td>18</td>
 <td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КОРСАК</td>
+<td>2012</td>
+<td>3, 5, 6</td>
+<td>327, 328</td>
+<td>05</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4148,6 +4390,50 @@ Glycine max (L.) Merr
 <td></td>
 </tr>
 <tr>
+<td>СЕЛЕКТА 302</td>
+<td>2012</td>
+<td>3</td>
+<td>329</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТАНАИС</td>
+<td>2012</td>
+<td>3</td>
+<td>327, 328</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТЕРЕК</td>
+<td>2012</td>
+<td>3, 14</td>
+<td>328, 330</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЧЕРЕМОШ</td>
+<td>2012</td>
+<td>1, 3, 6, 14</td>
+<td>327, 328</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ЭВРИКА 357</td>
 <td>1988</td>
 <td>3, 6</td>
@@ -4180,6 +4466,17 @@ Lens culinaris Medik
 Маш
 Phaseolus rabiatus L.
 </td>
+</tr>
+<tr>
+<td>ЖАСЫЛ ДЭН</td>
+<td>2012</td>
+<td>14</td>
+<td>191</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>ПОБЕДА 104</td>
@@ -4498,11 +4795,33 @@ Helianthus annuus L.
 <td></td>
 </tr>
 <tr>
+<td>КСФ 7112</td>
+<td>2012</td>
+<td>12</td>
+<td>331</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>КЫЙ</td>
 <td>2011</td>
 <td>7</td>
 <td>177</td>
 <td>03</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЛГ 5663 КЛ</td>
+<td>2012</td>
+<td>9</td>
+<td>317</td>
+<td>04</td>
 <td>F1</td>
 <td></td>
 <td></td>
@@ -4555,7 +4874,7 @@ Helianthus annuus L.
 <tr>
 <td>ПР 63 А 40</td>
 <td>2011</td>
-<td>12</td>
+<td>3, 12</td>
 <td>234</td>
 <td>02</td>
 <td>F1</td>
@@ -4569,6 +4888,17 @@ Helianthus annuus L.
 <td>1</td>
 <td>234</td>
 <td>03</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ПР 63 Ж 04</td>
+<td>2012</td>
+<td>5</td>
+<td>234</td>
+<td>04</td>
 <td>F1</td>
 <td></td>
 <td></td>
@@ -4669,6 +4999,17 @@ Helianthus annuus L.
 <td>114</td>
 <td>01</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>СК-2594</td>
+<td>2012</td>
+<td>5</td>
+<td>12</td>
+<td>02</td>
+<td>F1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4794,6 +5135,23 @@ Brassica juncea (L.) Czern.et Coss.in Czern.
 <td>1993</td>
 <td>1, 5, 7, 10, 12, 13</td>
 <td>64, 111</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Горчица сарептская
+Brassica juncea (L.) Czern.
+</th>
+</tr>
+<tr>
+<td>ЖАМИЛЯ</td>
+<td>2012</td>
+<td>3</td>
+<td>18</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4937,9 +5295,9 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <tr>
 <td>АБИЛИТИ</td>
 <td>2009</td>
-<td>1 (*), 13</td>
+<td>1, 10, 13</td>
 <td>291</td>
-<td></td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4950,17 +5308,6 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td>2008</td>
 <td>3, 10, 13</td>
 <td>292</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ГЛАДИАТОР</td>
-<td>2011</td>
-<td>10</td>
-<td>291</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4992,9 +5339,9 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <tr>
 <td>КАЛИБР</td>
 <td>2011</td>
-<td>5, 13</td>
+<td>5, 12, 13</td>
 <td>299</td>
-<td></td>
+<td>03</td>
 <td>F1</td>
 <td></td>
 <td></td>
@@ -5045,6 +5392,28 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td></td>
 </tr>
 <tr>
+<td>ОЗОРНО</td>
+<td>2012</td>
+<td>3, 5, 12</td>
+<td>299</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ПР45 Х 73</td>
+<td>2012</td>
+<td>1, 5</td>
+<td>234</td>
+<td>04</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>РУСИЧ</td>
 <td>2007</td>
 <td>13</td>
@@ -5056,11 +5425,22 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td></td>
 </tr>
 <tr>
+<td>САЛЬСА CL</td>
+<td>2011</td>
+<td>13</td>
+<td>299</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>СИЕСТА</td>
 <td>2010</td>
-<td>10</td>
+<td>5, 10</td>
 <td>299</td>
-<td></td>
+<td>06</td>
 <td>F1</td>
 <td></td>
 <td></td>
@@ -5071,7 +5451,7 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td>2011</td>
 <td>13</td>
 <td>299</td>
-<td></td>
+<td>04</td>
 <td>F1</td>
 <td></td>
 <td></td>
@@ -5080,9 +5460,9 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <tr>
 <td>ТРАППЕР</td>
 <td>2011</td>
-<td>3</td>
+<td>3, 5, 13</td>
 <td>299</td>
-<td></td>
+<td>01</td>
 <td>F1</td>
 <td></td>
 <td></td>
@@ -5141,7 +5521,7 @@ Camelina sativa (L.) Crantz.
 <tr>
 <td>Омский местный</td>
 <td>1994</td>
-<td>2,13</td>
+<td>13</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -5290,6 +5670,17 @@ Beta vulgaris L. ssp. vulgaris var. altissima Doell
 <td>6</td>
 <td>240</td>
 <td></td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АРДАН</td>
+<td>2012</td>
+<td>3</td>
+<td>240</td>
+<td>04</td>
 <td>F1</td>
 <td></td>
 <td></td>
@@ -5782,9 +6173,20 @@ Gossypium L.
 <td></td>
 </tr>
 <tr>
-<td>ТУРКЕСТАН</td>
+<td>ТУРКИСТАН</td>
 <td>2011</td>
 <td>14</td>
+<td>307</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТУРКИСТАН</td>
+<td>2012</td>
+<td>9</td>
 <td>307</td>
 <td>02</td>
 <td></td>
@@ -5859,6 +6261,17 @@ Solanum tuberosum L.
 <td>1998</td>
 <td>2, 3, 7, 9, 12</td>
 <td>21</td>
+<td>04</td>
+<td></td>
+<td>ас</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АЛЕГРИЯ</td>
+<td>2012</td>
+<td>3</td>
+<td>332</td>
 <td>04</td>
 <td></td>
 <td>ас</td>
@@ -5954,6 +6367,17 @@ Solanum tuberosum L.
 <td></td>
 </tr>
 <tr>
+<td>БИРГИТ</td>
+<td>2012</td>
+<td>12</td>
+<td>332</td>
+<td>04</td>
+<td></td>
+<td>ас</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>БИРЛИК</td>
 <td>2010</td>
 <td>9</td>
@@ -5998,6 +6422,17 @@ Solanum tuberosum L.
 <td></td>
 </tr>
 <tr>
+<td>ГАЛА</td>
+<td>2012</td>
+<td>13</td>
+<td>332</td>
+<td>02</td>
+<td></td>
+<td>ас</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ГАТЧИНСКИЙ</td>
 <td>1978</td>
 <td>6</td>
@@ -6025,6 +6460,17 @@ Solanum tuberosum L.
 <td>6, 9</td>
 <td>21</td>
 <td>04</td>
+<td></td>
+<td>ас</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖУАЛЫ</td>
+<td>2012</td>
+<td>3</td>
+<td>21</td>
+<td>03</td>
 <td></td>
 <td>ас</td>
 <td></td>
@@ -6130,6 +6576,17 @@ Solanum tuberosum L.
 <td></td>
 </tr>
 <tr>
+<td>МАКСИМ</td>
+<td>2012</td>
+<td>3</td>
+<td>21</td>
+<td>04</td>
+<td></td>
+<td>ун</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>МИРАС</td>
 <td>2011</td>
 <td>3</td>
@@ -6229,6 +6686,17 @@ Solanum tuberosum L.
 <td></td>
 </tr>
 <tr>
+<td>ПРЕВОСХОДНЫЙ</td>
+<td>2012</td>
+<td>1</td>
+<td>377</td>
+<td>03</td>
+<td></td>
+<td>ас</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ПРИЕКУЛЬСКИЙ РАННИЙ</td>
 <td>1962</td>
 <td>6, 7, 9, 11, 13, 14</td>
@@ -6242,7 +6710,7 @@ Solanum tuberosum L.
 <tr>
 <td>РЕД СКАРЛЕТ</td>
 <td>2011</td>
-<td>10</td>
+<td>8, 10</td>
 <td>244</td>
 <td>02</td>
 <td></td>
@@ -6273,9 +6741,20 @@ Solanum tuberosum L.
 <td></td>
 </tr>
 <tr>
+<td>РОДРИГА</td>
+<td>2012</td>
+<td>1</td>
+<td>333</td>
+<td>02</td>
+<td></td>
+<td>ас</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>РОЗАРА</td>
 <td>2001</td>
-<td>3</td>
+<td>3, 8</td>
 <td>230</td>
 <td>03</td>
 <td></td>
@@ -6299,6 +6778,17 @@ Solanum tuberosum L.
 <td>1997</td>
 <td>1, 5, 8, 13</td>
 <td>223</td>
+<td>03</td>
+<td></td>
+<td>ас</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>РОМАНЦЕ</td>
+<td>2012</td>
+<td>12</td>
+<td>332</td>
 <td>03</td>
 <td></td>
 <td>ас</td>
@@ -6339,6 +6829,28 @@ Solanum tuberosum L.
 <td></td>
 </tr>
 <tr>
+<td>СОЛИСТ</td>
+<td>2012</td>
+<td>1</td>
+<td>332</td>
+<td>02</td>
+<td></td>
+<td>ас</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>СОРАЯ</td>
+<td>2012</td>
+<td>1, 13</td>
+<td>332</td>
+<td>02</td>
+<td></td>
+<td>ас</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ТАМАША</td>
 <td>1996</td>
 <td>3, 8, 9</td>
@@ -6372,6 +6884,17 @@ Solanum tuberosum L.
 <td></td>
 </tr>
 <tr>
+<td>ТЕКЕС</td>
+<td>2012</td>
+<td>3</td>
+<td>21</td>
+<td>03</td>
+<td></td>
+<td>ас</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ТЕНИЗ</td>
 <td>1999</td>
 <td>3</td>
@@ -6383,9 +6906,20 @@ Solanum tuberosum L.
 <td></td>
 </tr>
 <tr>
+<td>ТОБОЛ</td>
+<td>2011</td>
+<td>9</td>
+<td>21</td>
+<td>04</td>
+<td></td>
+<td>ас</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ТОХТАР</td>
 <td>2003</td>
-<td>3, 5</td>
+<td>3, 5, 14</td>
 <td>21, 253</td>
 <td>02</td>
 <td></td>
@@ -6432,6 +6966,17 @@ Solanum tuberosum L.
 <td>3</td>
 <td>244</td>
 <td>02</td>
+<td></td>
+<td>ас</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ҮШҚОҢЫР</td>
+<td>2012</td>
+<td>3</td>
+<td>21</td>
+<td>04</td>
 <td></td>
 <td>ас</td>
 <td></td>
@@ -8834,6 +9379,17 @@ Allium cepa L.
 <td></td>
 </tr>
 <tr>
+<td>ДАР КАЙНАРА</td>
+<td>2012</td>
+<td>3</td>
+<td>21</td>
+<td>04</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ЕКЗАКТА</td>
 <td>2011</td>
 <td>6</td>
@@ -9695,503 +10251,6 @@ Raphanus sativus L. var. Sativus
 <td></td>
 <td></td>
 <td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>ГРИБОВСКИЙ</td>
-<td>1991</td>
-<td>8, 9</td>
-<td>71</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td>ж</td>
-<td></td>
-</tr>
-<tr>
-<td>ФЛАЙЕР</td>
-<td>2000</td>
-<td>3</td>
-<td>227</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td>ж</td>
-<td></td>
-</tr>
-<tr>
-<td>ХЕЛРО</td>
-<td>2000</td>
-<td>3</td>
-<td>236</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>ж</td>
-<td></td>
-</tr>
-<tr>
-<th colspan="9">қоршалған жерлерде өсіруге арналған</th>
-</tr>
-<tr>
-<td>АСКАНИЯ</td>
-<td>2010</td>
-<td>3,10</td>
-<td>290</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td>ж</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">
-Ақжелкен
-Petroselinum crispum (Mill.) Nym. ex A.​W.​Hill
-</td>
-</tr>
-<tr>
-<td>САХАРНАЯ</td>
-<td>1961</td>
-<td>1, 3, 4, 5, 7, 8, 10, 12, 13, 14</td>
-<td>71</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТКАЧИРУЛИ ПОТЛОВАНИ</td>
-<td>1990</td>
-<td>2, 4, 7, 10, 11</td>
-<td>206</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td>ж</td>
-<td></td>
-</tr>
-<tr>
-<td>УРОЖАЙНАЯ</td>
-<td>1986</td>
-<td>6</td>
-<td>180</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">
-Ботташық
-Pastinaca sativa L.
-</td>
-</tr>
-<tr>
-<td>КРУГЛЫЙ</td>
-<td>1965</td>
-<td>6, 8, 12, 14</td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛУЧШИЙ ИЗ ВСЕХ</td>
-<td>1966</td>
-<td>1, 3, 7, 10, 13</td>
-<td>71</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">
-Балдыркөк
-Apium graveolens L.
-</td>
-</tr>
-<tr>
-<td>КАРТУЛИ</td>
-<td>1987</td>
-<td>1, 2, 4, 7, 10, 11, 13</td>
-<td>206</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td>жб</td>
-<td></td>
-</tr>
-<tr>
-<td>ЯБЛОЧНЫЙ</td>
-<td>1961</td>
-<td>1, 3, 5, 6, 7, 8, 12, 14</td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">
-Қант асбұршағы
-Pisum sativum L.
-</td>
-</tr>
-<tr>
-<td>КАРАГАНДИНСКИЙ 1053</td>
-<td>1953</td>
-<td>1, 8, 10, 12, 13</td>
-<td>43</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">
-Аршылатын асбұршақ
-Pisum sativum L.
-</td>
-</tr>
-<tr>
-<td>АДАГУМСКИЙ</td>
-<td>1992</td>
-<td>1, 10</td>
-<td>101</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ВОРОНЕЖСКИЙ ЗЕЛЕНЫЙ</td>
-<td>1990</td>
-<td>3, 6, 9, 14</td>
-<td>77</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДЖОФ</td>
-<td>1997</td>
-<td>3</td>
-<td>224</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПОБЕДИТЕЛЬ Г-33</td>
-<td>1943</td>
-<td>1, 2, 4, 7, 8, 11, 12, 13</td>
-<td>71</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ФУГА</td>
-<td>1988</td>
-<td>5, 10</td>
-<td>101</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">
-Көкөніс үрме бұршағы
-Phaseolus vulgaris L.
-</td>
-</tr>
-<tr>
-<td>ГРИБОВСКАЯ 92</td>
-<td>1943</td>
-<td>2, 4, 5, 7, 8, 9, 10, 11, 12</td>
-<td>71</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>МЕРКУРЕ</td>
-<td>1996</td>
-<td>3</td>
-<td>224</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТРИУМФ САХАРНЫЙ 764</td>
-<td>1943</td>
-<td>1, 5, 7, 9, 12, 13, 14</td>
-<td>77</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЭХО</td>
-<td>1996</td>
-<td>3</td>
-<td>224</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">
-Қант жүгері
-Zea mays L. convar. saccharata Korn.
-</td>
-</tr>
-<tr>
-<td>АРОМАТНАЯ</td>
-<td>1992</td>
-<td>3, 6, 8, 9, 14</td>
-<td>170, 61</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РАННЯЯ ЗОЛОТАЯ 401</td>
-<td>1955</td>
-<td>2, 4, 7, 11, 12</td>
-<td>101</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТРОФИ</td>
-<td>2011</td>
-<td>3</td>
-<td>293</td>
-<td>02</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ХАНИ БАНТАМ</td>
-<td>2011</td>
-<td>3</td>
-<td>303</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ШЕБА</td>
-<td>2011</td>
-<td>3</td>
-<td>293</td>
-<td>01</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">
-Тәтті бұрыш
-Capsicum annuum L. var. grossum (L.) Sendt.
-</td>
-</tr>
-<tr>
-<td>АДЕЛЕ</td>
-<td>2000</td>
-<td>3, 8</td>
-<td>227</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td>ж</td>
-<td></td>
-</tr>
-<tr>
-<td>БАЯН СҰЛУ</td>
-<td>2011</td>
-<td>3</td>
-<td>21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>БЕНДИГО</td>
-<td>2000</td>
-<td>3, 8</td>
-<td>227</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td>ж</td>
-<td></td>
-</tr>
-<tr>
-<td>ДАР ТАШКЕНТА</td>
-<td>1980</td>
-<td>3, 14</td>
-<td>195</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДЖЕМИНИ</td>
-<td>2011</td>
-<td>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
-<td>264</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗ-ТАЙ</td>
-<td>2011</td>
-<td>14</td>
-<td>21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КЛАУДИО</td>
-<td>2011</td>
-<td>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
-<td>264</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>КОЛОБОК</td>
-<td>1984</td>
-<td>14</td>
-<td>212</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛАСТОЧКА</td>
-<td>1975</td>
-<td>1, 2, 3, 4, 5, 6, 11, 13</td>
-<td>212</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>НЕЖНОСТЬ</td>
-<td>1987</td>
-<td>7, 10</td>
-<td>67</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td>ж</td>
-<td></td>
-</tr>
-<tr>
-<td>ПИОНЕР</td>
-<td>1990</td>
-<td>8, 12</td>
-<td>175</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПОДАРОК МОЛДОВЫ</td>
-<td>1987</td>
-<td>1, 3, 5, 6, 8, 9, 10, 12, 13</td>
-<td>212</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td>жб</td>
-<td></td>
-</tr>
-<tr>
-<td>ТОПОЛИН</td>
-<td>1989</td>
-<td>1, 2, 4, 5, 7, 13, 14</td>
-<td>212</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">
-Ащы бұрыш
-Capsicum annuum L. var. longum (DC) Sendt.
-</td>
-</tr>
-<tr>
-<td>АСТРАХАНСКИЙ 147</td>
-<td>1943</td>
-<td>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
-<td>75</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 </table>

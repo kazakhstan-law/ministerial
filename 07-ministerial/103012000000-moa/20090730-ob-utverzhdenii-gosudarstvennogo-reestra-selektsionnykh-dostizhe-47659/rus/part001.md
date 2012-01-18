@@ -1,11 +1,11 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/47659/rus/31.03.2011
+source: https://zan.gov.kz/client/#!/doc/47659/rus/18.01.2012
 ---
 
 ## Государственный реестр селекционных достижений, допущенных к использованию в Республике Казахстан
 
-> *Сноска. Гос. реестр с изменениями, внесенными приказами Министра сельского хозяйства РК от 26.04.2010 № 291 (порядок введения в действие см. п. 3); от 31.03.2011 № 06-2/153 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
+> *Сноска. Гос. реестр с изменениями, внесенными приказами Министра сельского хозяйства РК от 26.04.2010 № 291 (порядок введения в действие см. п. 3); от 31.03.2011 № 06-2/153 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования); от 18.01.2012 № 06-2/20 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -59,6 +59,17 @@ Triticum aestivum L. emend. Fiori et Paol.
 <td>3,6</td>
 <td>18,252</td>
 <td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АЛАТАУ</td>
+<td>2012</td>
+<td>3</td>
+<td>18</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -370,7 +381,7 @@ Triticum aestivum L. emend. Fiori et Paol.
 <tr>
 <td>РАСАД</td>
 <td>2011</td>
-<td>3</td>
+<td>3,6</td>
 <td>18</td>
 <td>03</td>
 <td></td>
@@ -425,7 +436,7 @@ Triticum aestivum L. emend. Fiori et Paol.
 <tr>
 <td>ФАРАБИ</td>
 <td>2011</td>
-<td>3</td>
+<td>3,6</td>
 <td>18</td>
 <td>04</td>
 <td></td>
@@ -484,6 +495,17 @@ Triticum durum Desf.
 <td></td>
 </tr>
 <tr>
+<td>АРГОНАВТ</td>
+<td>2012</td>
+<td>3</td>
+<td>169</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>КАЗАХСТАНСКИЙ ЯНТАРЬ</td>
 <td>2011</td>
 <td>3,6,9</td>
@@ -509,6 +531,28 @@ Hordeum vulgare L. sensu lato
 <td></td>
 <td></td>
 <td>дв</td>
+<td></td>
+</tr>
+<tr>
+<td>ДОСТОЙНЫЙ</td>
+<td>2012</td>
+<td>3</td>
+<td>169</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td>дв</td>
+<td></td>
+</tr>
+<tr>
+<td>ЗЫМОВЫЙ</td>
+<td>2012</td>
+<td>3</td>
+<td>169</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -542,6 +586,17 @@ Hordeum vulgare L. sensu lato
 <td></td>
 <td></td>
 <td>дв</td>
+<td></td>
+</tr>
+<tr>
+<td>СКАРПИЯ</td>
+<td>2012</td>
+<td>3</td>
+<td>323</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -871,7 +926,7 @@ Triticum aestivum L. emend. Fiori et Paol
 <tr>
 <td>ЕРТIC 7</td>
 <td>2011</td>
-<td>12</td>
+<td>2,12</td>
 <td>30</td>
 <td>05</td>
 <td></td>
@@ -1226,7 +1281,7 @@ Triticum aestivum L. emend. Fiori et Paol
 <tr>
 <td>ОМСКАЯ 35</td>
 <td>2008</td>
-<td>10,13</td>
+<td>1,10,13</td>
 <td>138,282</td>
 <td>05</td>
 <td></td>
@@ -1295,6 +1350,17 @@ Triticum aestivum L. emend. Fiori et Paol
 <td>5</td>
 <td>8</td>
 <td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>САМГАУ</td>
+<td>2012</td>
+<td>12</td>
+<td>18</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
