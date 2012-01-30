@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/61911/rus/18.11.2011
+source: https://zan.gov.kz/client/#!/doc/61911/rus/30.01.2012
 ---
 
 ## Карточка учета заявлений, сообщений и иной информации о преступлении, происшествии
