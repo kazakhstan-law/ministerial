@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62711/kaz/13.12.2011
+source: https://zan.gov.kz/client/#!/doc/62711/kaz/23.02.2012
 ---
 
 ## 227. Синтетикалық материалдармен қаптаушы 3-разряд

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62711/rus/13.12.2011
+source: https://zan.gov.kz/client/#!/doc/62711/rus/23.02.2012
 ---
 
 ## 301. Такелажник на монтаже 4-й разряд
