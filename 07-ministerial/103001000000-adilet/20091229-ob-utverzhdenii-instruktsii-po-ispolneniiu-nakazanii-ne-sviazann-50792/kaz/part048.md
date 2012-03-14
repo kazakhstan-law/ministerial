@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/50792/kaz/22.12.2010
+source: https://zan.gov.kz/client/#!/doc/50792/kaz/14.03.2012
 ---
 
 ## Тексерумен анықталды
