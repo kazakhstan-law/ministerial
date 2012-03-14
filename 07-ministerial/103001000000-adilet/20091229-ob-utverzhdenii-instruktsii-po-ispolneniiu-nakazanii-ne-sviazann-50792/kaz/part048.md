@@ -1,6 +1,11 @@
 ---
 part_of: ../kaz.md
 source: https://zan.gov.kz/client/#!/doc/50792/kaz/14.03.2012
+repealed_on: 2012-07-01
+repealed_by:
+  code: '65506'
+  title: Сотталғанды қоғамнан оқшаулаумен байланысты емес жазаларды орындаудың кейбір мәселелері
+  link: https://zan.gov.kz/client/#!/doc/65506/kaz
 ---
 
 ## Тексерумен анықталды

@@ -1,6 +1,11 @@
 ---
 part_of: ../rus.md
 source: https://zan.gov.kz/client/#!/doc/50792/rus/14.03.2012
+repealed_on: 2012-07-01
+repealed_by:
+  code: '65506'
+  title: Некоторые вопросы исполнения наказаний, не связанных с изоляцией осужденного от общества
+  link: https://zan.gov.kz/client/#!/doc/65506/rus
 ---
 
 ## СПРАВКА
