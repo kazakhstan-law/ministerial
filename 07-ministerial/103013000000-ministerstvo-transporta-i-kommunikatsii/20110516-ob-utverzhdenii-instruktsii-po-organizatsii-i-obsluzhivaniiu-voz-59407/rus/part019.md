@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/59407/rus/16.05.2011
+source: https://zan.gov.kz/client/#!/doc/59407/rus/15.03.2012
 ---
 
 ## Параграф 5. Вылетающие воздушные суда и воздушные суда на маршруте
