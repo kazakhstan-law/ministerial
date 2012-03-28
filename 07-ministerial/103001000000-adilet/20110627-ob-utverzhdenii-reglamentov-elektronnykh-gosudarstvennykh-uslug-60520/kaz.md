@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/60520/kaz/27.06.2011
+source: https://zan.gov.kz/client/#!/doc/60520/kaz/28.03.2012
 ---
 
 # Электрондық мемлекеттік қызметтер регламенттерін бекіту туралы

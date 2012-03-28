@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/60520/rus/27.06.2011
+source: https://zan.gov.kz/client/#!/doc/60520/rus/28.03.2012
 ---
 
 # Об утверждении регламентов электронных государственных услуг
