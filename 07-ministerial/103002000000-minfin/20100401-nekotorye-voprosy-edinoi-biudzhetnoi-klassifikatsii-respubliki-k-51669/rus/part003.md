@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/51669/rus/26.03.2012
+source: https://zan.gov.kz/client/#!/doc/51669/rus/02.05.2012
 ---
 
 ## Экономическая классификация расходов
