@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/15281/rus/30.04.2010
+source: https://zan.gov.kz/client/#!/doc/15281/rus/04.06.2012
 ---
 
 ## 6. Контроль за исполнением тарифной сметы

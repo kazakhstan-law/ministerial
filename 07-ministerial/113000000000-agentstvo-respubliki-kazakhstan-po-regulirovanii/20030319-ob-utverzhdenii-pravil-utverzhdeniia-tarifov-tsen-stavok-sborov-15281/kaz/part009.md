@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/15281/kaz/30.04.2010
+source: https://zan.gov.kz/client/#!/doc/15281/kaz/04.06.2012
 ---
 
 ## Байланыс операторларына телефон трафигін босату қызметтерінің тарифтік сметасы
