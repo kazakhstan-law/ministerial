@@ -24,7 +24,7 @@
 
 ## Қазақстан Республикасында пайдалануға рұқсат етілген Селекциялық жетістіктердің мемлекеттік тізілімі
 
-> *Ескерту. Тізбеге өзгеріс енгізілді - ҚР Ауыл шаруашылығы министрiнiң 2010.04.26 № 291; 2011.03.31 N 06-2/153 (қолданысқа енгізілу тәртібін 3-т. қараңыз), 2012.01.18 № 06-2/20 Бұйрықтарымен.*
+> *Ескерту. Тізілімге өзгеріс енгізілді - ҚР Ауыл шаруашылығы министрiнiң 2010.04.26 № 291; 2011.03.31 N 06-2/153 (қолданысқа енгізілу тәртібін 3-т. қараңыз), 2012.01.18 № 06-2/20, 2012.06.06 № 4-1/301 (ресми жарияланғаннан кейін он күнтізбелік күн өткен соң қолданысқа енгізіледі) Бұйрықтарымен.*
 
 <table>
 <tr>
@@ -591,7 +591,7 @@ Hordeum vulgare L. sensu lato
 <tr>
 <td>СКАРПИЯ</td>
 <td>2012</td>
-<td>3</td>
+<td>3, 6</td>
 <td>323</td>
 <td>04</td>
 <td></td>
@@ -1985,7 +1985,7 @@ Hordeum vulgare L. sensu lato
 <tr>
 <td>ВОРСИНСКИЙ</td>
 <td>2011</td>
-<td>5, 13</td>
+<td>5, 10, 13</td>
 <td>288</td>
 <td>04</td>
 <td></td>
@@ -2373,6 +2373,17 @@ Hordeum vulgare L. sensu lato
 <td>9</td>
 <td>31, 18</td>
 <td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТУЛПАР</td>
+<td>2012</td>
+<td>5</td>
+<td>24</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3161,6 +3172,17 @@ Zea mays L.
 <td></td>
 </tr>
 <tr>
+<td>ПР 31 Г 98</td>
+<td>2012</td>
+<td>14</td>
+<td>234</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ПР 34 Н 43</td>
 <td>2010</td>
 <td>3</td>
@@ -3747,6 +3769,17 @@ Oryza sativa L.
 <td></td>
 </tr>
 <tr>
+<td>АНАИТ</td>
+<td>2012</td>
+<td>9</td>
+<td>68</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>АРАЛ 202</td>
 <td>2006</td>
 <td>3, 9</td>
@@ -4121,6 +4154,17 @@ Pisum sativum L. sensu lato
 <td>2003</td>
 <td>3, 5, 10</td>
 <td>18, 161</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЯМАЛЬСКИЙ</td>
+<td>2012</td>
+<td>10</td>
+<td>335</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -4836,6 +4880,17 @@ Helianthus annuus L.
 <td></td>
 </tr>
 <tr>
+<td>ЛГ 5635</td>
+<td>2012</td>
+<td>14</td>
+<td>317</td>
+<td>04</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ЛГ 5663 КЛ</td>
 <td>2012</td>
 <td>9</td>
@@ -4913,7 +4968,7 @@ Helianthus annuus L.
 <td></td>
 </tr>
 <tr>
-<td>ПР 63 Ж 04</td>
+<td>ПР 64 Ж 04</td>
 <td>2012</td>
 <td>5</td>
 <td>234</td>
@@ -5295,6 +5350,17 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td></td>
 </tr>
 <tr>
+<td>ХАММЕР</td>
+<td>2012</td>
+<td>14</td>
+<td>291</td>
+<td>04</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ШПАТ</td>
 <td>1993</td>
 <td>12</td>
@@ -5358,7 +5424,7 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <tr>
 <td>КАЛИБР</td>
 <td>2011</td>
-<td>5, 12, 13</td>
+<td>5, 10, 12, 13</td>
 <td>299</td>
 <td>03</td>
 <td>F1</td>
@@ -5402,9 +5468,9 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <tr>
 <td>МОБИЛЬ CL</td>
 <td>2011</td>
-<td>3, 10, 12, 13</td>
+<td>1, 3, 5, 10, 12, 13</td>
 <td>299</td>
-<td></td>
+<td>02</td>
 <td>F1</td>
 <td></td>
 <td></td>
@@ -5446,7 +5512,7 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <tr>
 <td>САЛЬСА CL</td>
 <td>2011</td>
-<td>13</td>
+<td>10, 13</td>
 <td>299</td>
 <td>02</td>
 <td>F1</td>
@@ -5466,7 +5532,7 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td></td>
 </tr>
 <tr>
-<td>СОЛЕРО CL</td>
+<td>СОЛЕР CL</td>
 <td>2011</td>
 <td>13</td>
 <td>299</td>
@@ -5479,7 +5545,7 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <tr>
 <td>ТРАППЕР</td>
 <td>2011</td>
-<td>3, 5, 13</td>
+<td>1, 3, 5, 10, 13</td>
 <td>299</td>
 <td>01</td>
 <td>F1</td>
@@ -5744,6 +5810,17 @@ Beta vulgaris L. ssp. vulgaris var. altissima Doell
 <td>3</td>
 <td>230</td>
 <td></td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ДАНУБ</td>
+<td>2012</td>
+<td>3</td>
+<td>240</td>
+<td>04</td>
 <td>F1</td>
 <td></td>
 <td></td>
@@ -6192,7 +6269,7 @@ Gossypium L.
 <td></td>
 </tr>
 <tr>
-<td>ТУРКИСТАН</td>
+<td>ТУРКЕСТАН</td>
 <td>2011</td>
 <td>14</td>
 <td>307</td>
@@ -6203,7 +6280,7 @@ Gossypium L.
 <td></td>
 </tr>
 <tr>
-<td>ТУРКИСТАН</td>
+<td>ТУРКЕСТАН-1</td>
 <td>2012</td>
 <td>9</td>
 <td>307</td>
@@ -6568,7 +6645,7 @@ Solanum tuberosum L.
 <td>244</td>
 <td>03</td>
 <td></td>
-<td>ст</td>
+<td>ас</td>
 <td></td>
 <td></td>
 </tr>
@@ -6612,7 +6689,7 @@ Solanum tuberosum L.
 <td>21</td>
 <td>03</td>
 <td></td>
-<td>ст</td>
+<td>ас</td>
 <td></td>
 <td></td>
 </tr>
@@ -6733,7 +6810,7 @@ Solanum tuberosum L.
 <td>244</td>
 <td>02</td>
 <td></td>
-<td>ст</td>
+<td>ас</td>
 <td></td>
 <td></td>
 </tr>
@@ -6755,7 +6832,7 @@ Solanum tuberosum L.
 <td>244</td>
 <td>05</td>
 <td></td>
-<td>ст</td>
+<td>ас</td>
 <td></td>
 <td></td>
 </tr>
@@ -6953,7 +7030,7 @@ Solanum tuberosum L.
 <td>28</td>
 <td>06</td>
 <td></td>
-<td>ст</td>
+<td>ас</td>
 <td></td>
 <td></td>
 </tr>
@@ -6964,7 +7041,7 @@ Solanum tuberosum L.
 <td>60</td>
 <td>03</td>
 <td></td>
-<td>ст</td>
+<td>ас</td>
 <td></td>
 <td></td>
 </tr>
@@ -7074,7 +7151,7 @@ Solanum tuberosum L.
 <td>320</td>
 <td>03</td>
 <td></td>
-<td>ст</td>
+<td>ас</td>
 <td></td>
 <td></td>
 </tr>
@@ -7103,7 +7180,7 @@ Solanum tuberosum L.
 <tr>
 <td colspan="9">
 Ақ қауданды қырыққабат
-Вrassica oleracea convar. capitata (L.) Alef. var. capitata f. alba DC.
+Вrassica oleracea convar. capitata (L.) Alef. var. capitataf. alba DC.
 </td>
 </tr>
 <tr>
@@ -7415,13 +7492,24 @@ Solanum tuberosum L.
 <td></td>
 </tr>
 <tr>
+<td>РИНДА</td>
+<td>2012</td>
+<td>3</td>
+<td>293</td>
+<td>04</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>РОЯЛ ВАНТАЖ</td>
 <td>2011</td>
 <td>14</td>
 <td>303</td>
 <td>03</td>
 <td>F1</td>
-<td>ст</td>
+<td>ас</td>
 <td></td>
 <td></td>
 </tr>
@@ -7608,6 +7696,17 @@ Brassica oleracea convar. capitata (L.) Alef. var. capitata L. f. rubra (L.) The
 <td></td>
 </tr>
 <tr>
+<td>РЭД ДИНАСТИ</td>
+<td>2012</td>
+<td>3</td>
+<td>293</td>
+<td>05</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td colspan="9">
 Түсті қырыққабат
 Brassica oleracea convar. botrytis (L.) Alef. var. botritis L.
@@ -7620,7 +7719,7 @@ Brassica oleracea convar. botrytis (L.) Alef. var. botritis L.
 <td>294</td>
 <td>04</td>
 <td>F1</td>
-<td>ст</td>
+<td>ас</td>
 <td></td>
 <td></td>
 </tr>
@@ -7680,6 +7779,17 @@ Brassica oleracea convar. botrytis (L.) Alef. var. botritis L.
 <td></td>
 </tr>
 <tr>
+<td>ФРИДОМ</td>
+<td>2012</td>
+<td>14</td>
+<td>321</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ФРИМОНТ</td>
 <td>2011</td>
 <td>3</td>
@@ -7727,6 +7837,23 @@ Brassica pekinensis (Lour.) Rupr.
 <td></td>
 <td></td>
 <td>ж</td>
+<td></td>
+</tr>
+<tr>
+<th colspan="9">
+Брокколи қырыққабаты
+Brassica oleracea var. Cymosa Duch.
+</th>
+</tr>
+<tr>
+<td>АЙРОНМЕН</td>
+<td>2012</td>
+<td>3</td>
+<td>293</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -8066,6 +8193,17 @@ Cucumis sativus L.
 <td>02</td>
 <td></td>
 <td>тұ, кн</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>МЕРЕНГА</td>
+<td>2012</td>
+<td>3</td>
+<td>293</td>
+<td>01</td>
+<td>F1</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -8625,7 +8763,7 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td>308</td>
 <td>02</td>
 <td>F1</td>
-<td>ст</td>
+<td>ас</td>
 <td>зг</td>
 <td></td>
 </tr>
@@ -10693,6 +10831,17 @@ Capsicum annuum L. var. grossum (L.) Sendt.
 <td></td>
 </tr>
 <tr>
+<td>ДЖИПСИ</td>
+<td>2012</td>
+<td>3</td>
+<td>293</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>КАЗ-ТАЙ</td>
 <td>2011</td>
 <td>14</td>
@@ -11046,6 +11195,17 @@ Citrullus lanatus (Thund.) Matsum. et Nakai
 <td>3, 4, 5, 7, 11</td>
 <td>57</td>
 <td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>РОЯЛ КРИМСОН СВИТ</td>
+<td>2012</td>
+<td>3</td>
+<td>293</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -11439,6 +11599,17 @@ Cucurbita pepo L. var. giraumonas Duch.
 <td>21</td>
 <td>02</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ИСКАНДЕР</td>
+<td>2012</td>
+<td>3</td>
+<td>2963</td>
+<td>02</td>
+<td>F1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -20714,7 +20885,7 @@ Pinus L.
 > *мемлекеттік тізілімі*  
 > *1-қосымша*
 
-> *Ескерту. 1-қосымша жаңа редакцияда - ҚР Ауыл шаруашылығы министрінің 2011.03.31 N 06-2/153 (қолданысқа енгізілу тәртібін 3-т. қараңыз), өзгеріс енгізілді - 2012.01.18 № 06-2/20 Бұйрықтарымен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - ҚР Ауыл шаруашылығы министрінің 2011.03.31 N 06-2/153 (қолданысқа енгізілу тәртібін 3-т. қараңыз), өзгеріс енгізілді - 2012.01.18 № 06-2/20, 2012.06.06 № 4-1/301 (ресми жарияланғаннан кейін он күнтізбелік күн өткен соң қолданысқа енгізіледі) Бұйрықтарымен.*
 
 ## Қазақстан Республикасы бойынша күшті бидай сорттарының және дәнді, жармалық және дәнді-бұршақты дақылдардың аса құнды сорттарының, күнбағыстың жоғары майлы сорттары мен будандарының, рапстың эруксіз және төменглюкозинолатты сорттарының тізімі
 
@@ -21062,9 +21233,13 @@ Pinus L.
 
 ## Күздік рапс
 
-1\. Иванна – 00 типа,
+> *Ескерту. "Күздік рапс" бөлімшесі жаңа редакцияда - ҚР Ауыл шаруашылығы министрінің 2012.06.06 № 4-1/301 (ресми жарияланғаннан кейін он күнтізбелік күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
-2\. Проминь – 0 типа
+1\. Иванна – 00-типті
+
+2\. Проминь – 0-типті
+
+3\. Хаммер - 00-типті
 
 ## Күнбағыстың жоғары майлы сорттары мен будандары Сорттар
 
@@ -21202,7 +21377,7 @@ Pinus L.
 > *мемлекеттік тізілімі*  
 > *3-қосымша*
 
-> *Ескерту. 3-қосымшаға өзгеріс енгізілді - ҚР Ауыл шаруашылығы министрiнiң 2010.04.26 № 291; 2011.03.31 N 06-2/153 (қолданысқа енгізілу тәртібін 3-т. қараңыз), 2012.01.18 № 06-2/20 Бұйрықтарымен.*
+> *Ескерту. 3-қосымшаға өзгеріс енгізілді - ҚР Ауыл шаруашылығы министрiнiң 2010.04.26 № 291; 2011.03.31 N 06-2/153 (қолданысқа енгізілу тәртібін 3-т. қараңыз), 2012.01.18 № 06-2/20, 2012.06.06 № 4-1/301 (ресми жарияланғаннан кейін он күнтізбелік күн өткен соң қолданысқа енгізіледі) Бұйрықтарымен.*
 
 ## Оригинатордың нөмірі мен атауы
 
@@ -21927,6 +22102,8 @@ Pinus L.
 333\. Унипланта Заатцухт КГ (Германия)
 
 334\. ЗаКа Пфланценцухт ГбР (Германия)
+
+335\. «Научно-производственная фирма Сибирская аграрная компания» ЖАҚ (Ресей)
 
 > *Қазақстан Республикасында*  
 > *пайдалануға рұқсат етілген*  
