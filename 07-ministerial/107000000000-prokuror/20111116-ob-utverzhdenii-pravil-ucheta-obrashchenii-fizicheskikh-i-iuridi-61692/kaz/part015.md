@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/61692/kaz/16.11.2011
+source: https://zan.gov.kz/client/#!/doc/61692/kaz/14.06.2012
 ---
 
 ## 3. Есептің құрылуы және оның құрылымы
