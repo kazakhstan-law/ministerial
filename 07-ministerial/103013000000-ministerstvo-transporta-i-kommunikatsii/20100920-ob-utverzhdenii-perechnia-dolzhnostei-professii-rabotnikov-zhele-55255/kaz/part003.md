@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/55255/kaz/20.09.2010
+source: https://zan.gov.kz/client/#!/doc/55255/kaz/21.06.2012
 ---
 
 ## 2–БӨЛІМ ТЕМІР ЖОЛ ҰЙЫМДАРЫНЫҢ ФИЛИАЛДАРЫ
