@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56272/kaz/05.09.2011
+source: https://zan.gov.kz/client/#!/doc/56272/kaz/28.06.2012
 ---
 
 ## А Н Ы Қ Т А М А С П Р А В К А № _________

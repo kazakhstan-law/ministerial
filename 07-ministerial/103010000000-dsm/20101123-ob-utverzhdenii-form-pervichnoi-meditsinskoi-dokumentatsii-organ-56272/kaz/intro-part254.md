@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56272/kaz/05.09.2011
+source: https://zan.gov.kz/client/#!/doc/56272/kaz/28.06.2012
 ---
 
 ## 10 және 11 ай аралығында мейірбикенің үйдегі патронажы

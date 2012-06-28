@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56272/rus/05.09.2011
+source: https://zan.gov.kz/client/#!/doc/56272/rus/28.06.2012
 ---
 
 ## Патронаж медсестры на дому ребенку в возрасте от 8 до 9 месяцев
