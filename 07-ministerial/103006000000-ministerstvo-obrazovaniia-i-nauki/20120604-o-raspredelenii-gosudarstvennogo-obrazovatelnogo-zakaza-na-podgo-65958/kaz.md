@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
+source: https://zan.gov.kz/client/#!/doc/65958/kaz/28.06.2012
 ---
 
 # 2012/2013 оқу жылына жоғары білімі бар мамандар даярлауға арналған мемлекеттік білім беру тапсырысын мамандықтар бойынша бөлу туралы
@@ -24,12 +24,16 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 
 5. Осы бұйрық ресми түрде жарияланған күнінен бастап қолданысқа енгізіледі.
 
-Министр Б. Жұмағұлов
+**Министр**
+
+**Б. Жұмағұлов**
 
 > *Қазақстан Республикасы*  
 > *Білім және ғылым министрінің*  
 > *2012 жылғы 4 маусымдағы*  
 > *№ 254 бұйрығына 1-қосымша*
+
+> *Ескерту. 1-қосымшаға өзгеріс енгізілді - ҚР Білім және ғылым министрінің м.а. 2012.06.28 № 309 (алғаш рет ресми жарияланғаннан кейін қолданысқа енгізіледі) Бұйрығымен.*
 
 ## 2012-2013 оқу жылына арналған күндізгі оқу нысанындағы мамандықтар бөлінісінде жоғары білімі бар мамандар даярлауға арналған мемлекеттік білім беру тапсырысы
 
@@ -2453,10 +2457,10 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В110100</td>
 <td>Мейірбике ісі</td>
-<td>291</td>
-<td>291</td>
-<td>175</td>
-<td>116</td>
+<td>220</td>
+<td>200</td>
+<td>124</td>
+<td>76</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2464,10 +2468,10 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В110200</td>
 <td>Қоғамдық денсаулық сақтау</td>
-<td>600</td>
-<td>600</td>
-<td>360</td>
-<td>240</td>
+<td>602</td>
+<td>602</td>
+<td>373</td>
+<td>229</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2475,10 +2479,10 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В110300</td>
 <td>Фармация</td>
-<td>200</td>
-<td>200</td>
-<td>120</td>
-<td>80</td>
+<td>240</td>
+<td>240</td>
+<td>149</td>
+<td>91</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2486,10 +2490,10 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В110400</td>
 <td>Медициналық-профилактикалық іс</td>
-<td>150</td>
-<td>150</td>
-<td>90</td>
-<td>60</td>
+<td>200</td>
+<td>200</td>
+<td>124</td>
+<td>76</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2497,10 +2501,10 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>1241</td>
-<td>1241</td>
-<td>745</td>
-<td>496</td>
+<td>1242</td>
+<td>1242</td>
+<td>770</td>
+<td>474</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2530,7 +2534,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td></td>
 <td>Жеңілдіктері мен кепілдіктері бойынша Ұлы Отан соғысының қатысушылары мен мүгедектеріне теңестірілген адамдар үшін квота (0,5%)</td>
-<td>7</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2550,15 +2554,15 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>Жиыны</td>
-<td>1300</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>Жиыны</th>
+<th>1300</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th colspan="9">12. Ветеринария</th>
@@ -2658,10 +2662,10 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5B130100</td>
 <td>Жалпы медицина</td>
-<td>3433</td>
-<td>3433</td>
-<td>2060</td>
-<td>1373</td>
+<td>3384</td>
+<td>3384</td>
+<td>2098</td>
+<td>1286</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2669,10 +2673,10 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5B130200</td>
 <td>Стоматология</td>
-<td>100</td>
-<td>100</td>
-<td>60</td>
-<td>40</td>
+<td>150</td>
+<td>150</td>
+<td>93</td>
+<td>57</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2680,10 +2684,10 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>3533</td>
-<td>3533</td>
-<td>2120</td>
-<td>1413</td>
+<td>3534</td>
+<td>3534</td>
+<td>2191</td>
+<td>1343</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2713,7 +2717,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td></td>
 <td>Жеңілдіктері мен кепілдіктері бойынша Ұлы Отан соғысының қатысушылары мен мүгедектеріне теңестірілген адамдар үшін квота (0,5%)</td>
-<td>19</td>
+<td>18</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2733,15 +2737,15 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>Жиыны</td>
-<td>3700</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>Жиыны</th>
+<th>3700</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td></td>
@@ -2914,7 +2918,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В010600</td>
 <td>Музыкалық білім</td>
-<td>7</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2925,7 +2929,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В020400</td>
 <td>Мәдениеттану</td>
-<td>4</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2947,7 +2951,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В040200</td>
 <td>Аспаптық орындау</td>
-<td>39</td>
+<td>53</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2958,7 +2962,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В040300</td>
 <td>Вокалдық өнер</td>
-<td>5</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2969,7 +2973,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В040400</td>
 <td>Дәстүрлі музыка өнері</td>
-<td>38</td>
+<td>27</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2980,7 +2984,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В040500</td>
 <td>Дирижерлау</td>
-<td>10</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2991,7 +2995,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В040600</td>
 <td>Режиссура</td>
-<td>5</td>
+<td>10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3002,7 +3006,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В040700</td>
 <td>Актерлық өнер</td>
-<td>5</td>
+<td>29</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3013,7 +3017,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В040800</td>
 <td>Эстрадалық өнер</td>
-<td>7</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3024,7 +3028,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В040900</td>
 <td>Хореография</td>
-<td>10</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3035,7 +3039,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В041000</td>
 <td>Сценография</td>
-<td>3</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3057,7 +3061,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В041300</td>
 <td>Кескіндеме</td>
-<td>6</td>
+<td>4</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3068,7 +3072,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В041500</td>
 <td>Мүсін</td>
-<td>3</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3079,7 +3083,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В041600</td>
 <td>Өнертану</td>
-<td>9</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3090,7 +3094,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В041700</td>
 <td>Сән өнері</td>
-<td>3</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3101,7 +3105,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В091000</td>
 <td>Кітапхана ісі</td>
-<td>3</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3112,7 +3116,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>162</td>
+<td>181</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3156,7 +3160,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td></td>
 <td>Қазақстан Республикасының азаматы болып табылмайтын ұлты қазақ адамдарға квота (2%)</td>
-<td>3</td>
+<td>4</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3165,15 +3169,15 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>Жиыны</td>
-<td>170</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>Жиыны</th>
+<th>190</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th colspan="9">Құрманғазы атындағы Қазақ ұлттық консерваториясы</th>
@@ -3338,7 +3342,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В040400</td>
 <td>Дәстүрлі музыка өнері</td>
-<td>6</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3349,7 +3353,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В040600</td>
 <td>Режиссура</td>
-<td>55</td>
+<td>52</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3360,7 +3364,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В040700</td>
 <td>Актерлық өнер</td>
-<td>38</td>
+<td>42</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3371,7 +3375,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В040800</td>
 <td>Эстрадалық өнер</td>
-<td>17</td>
+<td>16</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3382,7 +3386,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В040900</td>
 <td>Хореография</td>
-<td>12</td>
+<td>10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3393,7 +3397,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В041000</td>
 <td>Сценография</td>
-<td>17</td>
+<td>16</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3404,7 +3408,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В041200</td>
 <td>Операторлық өнер</td>
-<td>9</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3415,7 +3419,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В041300</td>
 <td>Кескіндеме</td>
-<td>10</td>
+<td>11</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3426,7 +3430,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В041400</td>
 <td>Графика</td>
-<td>12</td>
+<td>11</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3448,7 +3452,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В041600</td>
 <td>Өнертану</td>
-<td>24</td>
+<td>17</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3459,7 +3463,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В041700</td>
 <td>Сән өнері</td>
-<td>23</td>
+<td>14</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3470,7 +3474,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В042100</td>
 <td>Дизайн</td>
-<td>11</td>
+<td>12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3481,7 +3485,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>240</td>
+<td>220</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3534,15 +3538,15 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>Жиыны</td>
-<td>250</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>Жиыны</th>
+<th>230</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th colspan="9">Қазақстан-Британ техникалық университеті</th>
@@ -3550,7 +3554,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В050600</td>
 <td>Экономика</td>
-<td>19</td>
+<td>10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3561,7 +3565,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В050700</td>
 <td>Менеджмент</td>
-<td>18</td>
+<td>13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3583,7 +3587,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В070300</td>
 <td>Ақпараттық жүйелер</td>
-<td>49</td>
+<td>24</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3594,7 +3598,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В070400</td>
 <td>Есептеу техникасы және бағдарламалық қамтамасыз ету</td>
-<td>14</td>
+<td>47</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3603,9 +3607,20 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <td></td>
 </tr>
 <tr>
-<td>5В070800</td>
-<td>Мұнай газ ісі</td>
-<td>44</td>
+<td>5В070600</td>
+<td>Геология және пайдалы қазбалар кен орнын барлау</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5В01500</td>
+<td>Теңіз техникасы мен технологиялар</td>
+<td>24</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3616,7 +3631,7 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <tr>
 <td>5В072100</td>
 <td>Органикалық заттардың химиялық технологиясы</td>
-<td>23</td>
+<td>20</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3680,15 +3695,15 @@ source: https://zan.gov.kz/client/#!/doc/65958/kaz/04.06.2012
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>Жиыны</td>
-<td>200</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>Жиыны</th>
+<th>200</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th colspan="9">Мәскеу авиациялық институтының «Восход» филиалы</th>
