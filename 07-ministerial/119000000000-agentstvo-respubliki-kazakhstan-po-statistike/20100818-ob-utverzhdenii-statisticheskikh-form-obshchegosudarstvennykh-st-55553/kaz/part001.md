@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/55553/kaz/01.01.2012
+source: https://zan.gov.kz/client/#!/doc/55553/kaz/28.06.2012
 ---
 
 ## Дербес энергия көздерінің жұмысы туралы мәліметтер көрсетіңіз

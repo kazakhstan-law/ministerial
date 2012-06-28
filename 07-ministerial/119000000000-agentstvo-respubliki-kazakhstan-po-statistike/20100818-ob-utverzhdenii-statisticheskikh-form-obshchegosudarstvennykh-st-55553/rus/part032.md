@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/55553/rus/01.01.2012
+source: https://zan.gov.kz/client/#!/doc/55553/rus/28.06.2012
 ---
 
 ## Номенклатура продукции по отраслям промышленности для раздела 7
