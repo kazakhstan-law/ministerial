@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/53514/kaz/15.06.2010
+source: https://zan.gov.kz/client/#!/doc/53514/kaz/11.07.2012
 ---
 
 ## Мемлекеттік мекемелердегі бухгалтерлік есебінің Шоттар жоспарына өту сызбасы

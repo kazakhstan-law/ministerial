@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/53514/rus/15.06.2010
+source: https://zan.gov.kz/client/#!/doc/53514/rus/11.07.2012
 ---
 
 ## Схема перехода на План счетов бухгалтерского учета государственных учреждений
