@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/53218/kaz/01.03.2012
+source: https://zan.gov.kz/client/#!/doc/53218/kaz/20.07.2012
 ---
 
 # Бюджеттiк өтінімдi жасау және ұсыну ережесiн бекiту туралы

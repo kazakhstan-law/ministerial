@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/53218/rus/01.03.2012
+source: https://zan.gov.kz/client/#!/doc/53218/rus/20.07.2012
 ---
 
 ## Расчет расходов на оплату труда работников государственных учреждений образования
