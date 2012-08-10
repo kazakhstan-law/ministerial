@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/54890/rus/18.08.2010
+source: https://zan.gov.kz/client/#!/doc/54890/rus/10.08.2012
 ---
 
 ## Құрметті респондент! Сізді қызметті бастауыңызбен құттықтаймыз!

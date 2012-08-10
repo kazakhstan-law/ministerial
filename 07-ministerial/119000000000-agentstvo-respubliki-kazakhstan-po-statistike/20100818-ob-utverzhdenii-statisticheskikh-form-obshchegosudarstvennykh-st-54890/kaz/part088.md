@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/54890/kaz/18.08.2010
+source: https://zan.gov.kz/client/#!/doc/54890/kaz/10.08.2012
 ---
 
 ## Тұрғын үй пәтерлерінің тізбесі мен сипаттамасы
