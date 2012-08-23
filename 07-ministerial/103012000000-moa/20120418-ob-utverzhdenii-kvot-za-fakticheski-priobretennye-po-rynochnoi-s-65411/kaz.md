@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
+source: https://zan.gov.kz/client/#!/doc/65411/kaz/23.08.2012
 ---
 
 # 2012 жылға арналған тұқымның әрбір түрі бойынша нарықтық бағамен нақты сатып алынған элиталық тұқымның көлемі үшін квоталарды, 2012 жылға арналған әр облысқа отандық ауыл шаруашылығы тауар өндірушілері арзандатылған бағамен жүгерінің, күнбағыстың, күріштің, қант қызылшасының, мақтаның элиталық тұқымдары мен көшеттердің нақты сатқан көлемі үшін квоталарды бекіту туралы
@@ -25,29 +25,30 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 
 ## 2012 жылға арналған тұқымның әрбір түрі бойынша нарықтық бағамен нақты сатып алынған элиталық тұқымның көлемі үшін квоталар
 
-тонна
+> *Ескерту. 1-қосымша жаңа редакцияда - ҚР Ауыл шаруашылығы министрінің м.а. 2012.08.23 № 4-2/431 Бұйрығымен.*
 
 <table>
 <tr>
-<td rowspan="4">Реттік №</td>
+<td rowspan="4">
+Реттік
+№
+</td>
 <td rowspan="4">Облыстардың атауы</td>
-<td colspan="8">Ауыл шаруашылығы өсімдіктері</td>
+<td colspan="5">Ауыл шаруашылығы өсімдіктері</td>
 </tr>
 <tr>
-<td colspan="8">дәнді және дәнді бұршақ дақылдар</td>
+<td colspan="5">дәнді және дәнді-бұршақты дақылдар</td>
 </tr>
 <tr>
-<td rowspan="2">барлығы</td>
-<td colspan="7">оның ішінде:</td>
+<td>барлығы</td>
+<td colspan="4">оның ішінде:</td>
 </tr>
 <tr>
+<td></td>
 <td>жұмсақ бидай</td>
 <td>қатты бидай</td>
 <td>қара бидай</td>
 <td>жемдік арпа</td>
-<td>сыра қайнатуға арналған арпа</td>
-<td>сұлы</td>
-<td>тары</td>
 </tr>
 <tr>
 <th>1</th>
@@ -57,90 +58,66 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 <th>5</th>
 <th>6</th>
 <th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Ақмола</td>
-<td>14431,13</td>
-<td>12231,13</td>
-<td>800,00</td>
-<td></td>
-<td>300,00</td>
-<td>1000,00</td>
+<td>21097,56</td>
+<td>20057,00</td>
 <td></td>
 <td></td>
+<td>45,00</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Ақтөбе</td>
-<td>2078,85</td>
-<td>1558,85</td>
+<td>1695,70</td>
+<td>938,00</td>
 <td></td>
 <td></td>
-<td>450,00</td>
-<td></td>
-<td>20,00</td>
-<td>50,00</td>
+<td>735,00</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Алматы</td>
-<td>1765,59</td>
+<td>2376,17</td>
 <td>1238,59</td>
 <td></td>
 <td></td>
-<td>70,00</td>
-<td>222,00</td>
-<td></td>
-<td></td>
+<td>22,50</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Шығыс Қазақстан</td>
-<td>2533,12</td>
-<td>1463,12</td>
+<td>3589,54</td>
+<td>2681,98</td>
 <td></td>
 <td>190,00</td>
-<td>439,00</td>
-<td></td>
-<td>65,00</td>
-<td></td>
+<td>186,45</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Жамбыл</td>
-<td>1860,00</td>
+<td>2002,50</td>
 <td>1500,00</td>
 <td></td>
 <td></td>
-<td>360,00</td>
-<td></td>
-<td></td>
-<td></td>
+<td>320,00</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Батыс Қазақстан</td>
-<td>1625,93</td>
-<td>1325,93</td>
+<td>263,15</td>
+<td>176,15</td>
 <td></td>
 <td></td>
-<td>200,00</td>
-<td></td>
-<td></td>
-<td>90,00</td>
+<td>87,00</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Қарағанды</td>
-<td>2547,91</td>
 <td>2047,91</td>
-<td></td>
-<td></td>
-<td>500,00</td>
+<td>2047,91</td>
 <td></td>
 <td></td>
 <td></td>
@@ -148,21 +125,15 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 <tr>
 <td>8</td>
 <td>Қостанай</td>
-<td>16495,81</td>
-<td>14335,81</td>
-<td>740,00</td>
+<td>16896,44</td>
+<td>14547,27</td>
+<td>1197,00</td>
 <td></td>
-<td>200,00</td>
-<td>700,00</td>
-<td>500,00</td>
-<td></td>
+<td>88,90</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Қызылорда</td>
-<td>412,59</td>
-<td>412,59</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -172,49 +143,37 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 <tr>
 <td>10</td>
 <td>Павлодар</td>
-<td>2564,01</td>
+<td>2644,58</td>
 <td>2059,01</td>
 <td></td>
 <td></td>
-<td>300,00</td>
-<td></td>
-<td>100,00</td>
-<td>5,00</td>
+<td>277,00</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Солтүстік Қазақстан</td>
-<td>17046,07</td>
-<td>13759,07</td>
-<td>590,00</td>
+<td>17748,89</td>
+<td>16404,05</td>
 <td></td>
-<td>2108,00</td>
 <td></td>
-<td>235,00</td>
-<td></td>
+<td>734,00</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Оңтүстік Қазақстан</td>
+<td>1071,20</td>
 <td>1050,00</td>
-<td>1050,00</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td colspan="2">РЕСПУБЛИКА БОЙЫНША</td>
-<td>64411,01</td>
-<td>52982,01</td>
-<td>2130,00</td>
+<td>71433,64</td>
+<td>62699,96</td>
+<td>1197,00</td>
 <td>190,00</td>
-<td>4927,00</td>
-<td>1922,00</td>
-<td>920,00</td>
-<td>145,00</td>
+<td>2495,85</td>
 </tr>
 </table>
 
@@ -222,20 +181,160 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 
 <table>
 <tr>
-<td rowspan="4">Реттік №</td>
-<td colspan="11">Ауыл шаруашылығы өсімдіктері</td>
+<td colspan="7">Ауыл шаруашылығы өсімдіктері</td>
 </tr>
 <tr>
-<td colspan="11">дәнді және дәнді бұршақ дақылдар</td>
+<td colspan="7">дәнді және дәнді-бұршақты дақылдар</td>
 </tr>
 <tr>
-<td colspan="11">оның ішінде:</td>
+<td colspan="7">оның ішінде:</td>
 </tr>
 <tr>
+<td>сыра қайнатуға арналған арпа</td>
+<td>сұлы</td>
+<td>тары</td>
 <td>қарақұмық</td>
 <td>асбұршақ</td>
 <td>ноқат</td>
 <td>қытайбұршақ</td>
+</tr>
+<tr>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+</tr>
+<tr>
+<td>602,00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>20,00</td>
+<td>2,70</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>182,80</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>191,10</td>
+</tr>
+<tr>
+<td></td>
+<td>48,23</td>
+<td></td>
+<td>5,00</td>
+<td>128,20</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>567,45</td>
+<td>422,00</td>
+<td></td>
+<td></td>
+<td>65,80</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>7,00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>56,00</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1352,25</td>
+<td>490,23</td>
+<td>9,70</td>
+<td>5,00</td>
+<td>250,00</td>
+<td></td>
+<td>191,10</td>
+</tr>
+</table>
+
+кестенің жалғасы
+
+тонна
+
+<table>
+<tr>
+<td colspan="7"></td>
+</tr>
+<tr>
 <td>картоп</td>
 <td>көкөніс</td>
 <td>рапс</td>
@@ -245,11 +344,6 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 <td>біржылдық шөптер</td>
 </tr>
 <tr>
-<th>1</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
 <th>15</th>
 <th>16</th>
 <th>17</th>
@@ -259,186 +353,121 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 <th>21</th>
 </tr>
 <tr>
-<td>1</td>
-<td>100,00</td>
+<td>380,56</td>
 <td></td>
-<td></td>
-<td></td>
-<td>80,00</td>
-<td></td>
-<td>50,00</td>
-<td></td>
-<td>60,00</td>
-<td>78,30</td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>102,00</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td>235,00</td>
-<td>425,60</td>
-<td></td>
-<td></td>
-<td>42,30</td>
-<td>11,00</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>166,00</td>
-<td>210,00</td>
-<td></td>
-<td></td>
-<td>180,00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>47,30</td>
-</tr>
-<tr>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>77,67</td>
-<td></td>
-<td></td>
-<td>42,48</td>
 <td>5,00</td>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td></td>
-<td></td>
-<td>10,00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>143,80</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>132,17</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td></td>
-<td>20,00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>140,00</td>
-<td>40,00</td>
-<td>8,00</td>
-<td>40,30</td>
-<td>67,30</td>
-</tr>
-<tr>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>35,00</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>100,00</td>
-<td></td>
-<td></td>
-<td></td>
-<td>112,51</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>11</td>
-<td>11,00</td>
-<td>343,00</td>
-<td></td>
-<td></td>
-<td>213,00</td>
-<td></td>
-<td>153,00</td>
-<td>58,00</td>
-<td></td>
-<td>46,30</td>
-<td>37,30</td>
-</tr>
-<tr>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>7,96</td>
 <td>8,00</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>377,00</td>
-<td>573,00</td>
-<td>10,00</td>
-<td>235,00</td>
-<td>1220,95</td>
 <td></td>
-<td>343,00</td>
-<td>190,74</td>
-<td>372,80</td>
-<td>164,90</td>
-<td>151,90</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>733,28</td>
+<td></td>
+<td></td>
+<td>0,30</td>
+<td>7,60</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>282,50</td>
+<td></td>
+<td></td>
+<td></td>
+<td>23,13</td>
+<td>4,63</td>
+<td>39,42</td>
+</tr>
+<tr>
+<td>182,50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2,50</td>
+<td></td>
+<td>3,27</td>
+<td>2,25</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>301,57</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>26,54</td>
+<td></td>
+<td>229,00</td>
+<td>299,30</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>21,20</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1906,95</td>
+<td></td>
+<td>236,50</td>
+<td>320,80</td>
+<td>42,00</td>
+<td>6,88</td>
+<td>39,42</td>
 </tr>
 </table>
 
@@ -447,31 +476,31 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 > *2012 жылғы 18 сәуірдегі*  
 > *№ 4-2/180 бұйрығына 2-қосымша*
 
-## 2012 жылға арналған әр облысқа отандық ауыл шаруашылығы тауар өндірушілері арзандатылған бағамен жүгерінің, күнбағыстың, күріштің, қант қызылшасының, мақтаның элиталық тұқымдары мен көшеттердің нақты сатқан көлемі үшін квоталар
+## 2012 жылға арналған әр облысқа отандық ауыл шаруашылығы тауар өндірушілері арзандатылған бағамен мақтаның, жүгерінің, күнбағыстың элиталық тұқымдары мен көшеттердің нақты сатқан көлемі үшін квоталар
+
+> *Ескерту. 2-қосымша жаңа редакцияда - ҚР Ауыл шаруашылығы министрінің м.а. 2012.08.23 № 4-2/431 Бұйрығымен.*
+
+тонна/дана
 
 <table>
 <tr>
-<td rowspan="3">Реттік №</td>
+<td rowspan="3">
+Реттік
+№
+</td>
 <td rowspan="3">Облыстардың атауы</td>
-<td colspan="10">Ауыл шаруашылығы өсімдіктері</td>
+<td colspan="5">Ауыл шаруашылығы өсімдіктері</td>
 </tr>
 <tr>
-<td rowspan="2">күріш</td>
+<td rowspan="2">Күріш</td>
 <td colspan="2">жүгері, І-ұрпағының будандарын қоса алғанда</td>
 <td colspan="2">күнбағыс</td>
-<td rowspan="2">қант қызылшасы</td>
-<td colspan="2">I-көбейтуді қоса алғанда, мақта</td>
-<td colspan="2">көшеттер</td>
 </tr>
 <tr>
 <td>кеш пісетін және орташа пісетін</td>
 <td>ерте пісетін</td>
 <td>элита</td>
 <td>І-ұрпақтағы будандар</td>
-<td>механикалық әдіспен тазаланған кезде</td>
-<td>химиялық әдіспен тазаланған кезде</td>
-<td>жеміс дақылдары</td>
-<td>жүзім</td>
 </tr>
 <tr>
 <th>1</th>
@@ -481,11 +510,6 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 <th>5</th>
 <th>6</th>
 <th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
 </tr>
 <tr>
 <td>1</td>
@@ -493,22 +517,12 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 <td></td>
 <td></td>
 <td></td>
-<td>150,00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>104,80</td>
 <td></td>
 </tr>
 <tr>
 <td>2</td>
 <td>Ақтөбе</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -519,15 +533,10 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 <td>3</td>
 <td>Алматы</td>
 <td>249,50</td>
-<td>1156,00</td>
-<td>1155,45</td>
+<td>849,89</td>
+<td>1 546,51</td>
 <td></td>
 <td></td>
-<td>7,00</td>
-<td></td>
-<td></td>
-<td>240 000,00</td>
-<td>210 000,00</td>
 </tr>
 <tr>
 <td>4</td>
@@ -535,13 +544,8 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 <td></td>
 <td></td>
 <td></td>
-<td>417,05</td>
-<td>165,00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>241,88</td>
+<td>137,24</td>
 </tr>
 <tr>
 <td>5</td>
@@ -551,20 +555,10 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 <td></td>
 <td></td>
 <td></td>
-<td>3,62</td>
-<td></td>
-<td></td>
-<td>605 928,00</td>
-<td>100 000,00</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Батыс Қазақстан</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -579,11 +573,6 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>8</td>
@@ -593,21 +582,11 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>9</td>
 <td>Қызылорда</td>
-<td>1301,40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1663,33</td>
 <td></td>
 <td></td>
 <td></td>
@@ -621,11 +600,6 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>11</td>
@@ -633,12 +607,7 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 <td></td>
 <td></td>
 <td></td>
-<td>30,00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>32,50</td>
 <td></td>
 </tr>
 <tr>
@@ -649,23 +618,133 @@ source: https://zan.gov.kz/client/#!/doc/65411/kaz/18.04.2012
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>254,00</td>
-<td>220,00</td>
-<td>183 000,00</td>
-<td>1 095 000,00</td>
 </tr>
 <tr>
 <td colspan="2">РЕСПУБЛИКА БОЙЫНША</td>
-<td>1550,90</td>
-<td>1156,00</td>
-<td>1155,45</td>
-<td>597,05</td>
-<td>165,00</td>
-<td>10,62</td>
-<td>254,00</td>
-<td>220,00</td>
-<td>1 028 928,00</td>
-<td>1 405 000,00</td>
+<td>1912,83</td>
+<td>849,89</td>
+<td>1 546,51</td>
+<td>379,18</td>
+<td>137,24</td>
+</tr>
+</table>
+
+кестенің жалғасы
+
+<table>
+<tr>
+<td colspan="5">Ауыл шаруашылығы өсімдіктері</td>
+</tr>
+<tr>
+<td rowspan="2">
+Қантты
+қызылша
+</td>
+<td colspan="2">I-өсімпаздықты қоса алғанда, мақта</td>
+<td colspan="2">көшеттер</td>
+</tr>
+<tr>
+<td>механикалық әдіспен тазаланған кезде</td>
+<td>химиялық әдіспен тазаланған кезде</td>
+<td>жеміс дақылдары</td>
+<td>жүзім</td>
+</tr>
+<tr>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7,00</td>
+<td></td>
+<td></td>
+<td>327 871,00</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3,62</td>
+<td></td>
+<td></td>
+<td>663 785,00</td>
+<td>10 000,00</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>236,25</td>
+<td>218,03</td>
+<td>192 500,00</td>
+<td>1 108 026,00</td>
+</tr>
+<tr>
+<th>10,62</th>
+<th>236,25</th>
+<th>218,03</th>
+<th>1 184 156,00</th>
+<th>1 118 026,00</th>
 </tr>
 </table>
