@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/15281/rus/04.06.2012
+source: https://zan.gov.kz/client/#!/doc/15281/rus/14.09.2012
 ---
 
 ## Тарифная смета на услуги пропуска телефонного трафика для операторов связи*
