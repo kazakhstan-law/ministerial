@@ -1,5 +1,5 @@
 ---
-version_id: AI60893_1
+version_id: AI60893_3
 act_code: '60893'
 language: rus
 title: Об утверждении форм, предназначенных для сбора административных данных субъектов здравоохранения
@@ -10,12 +10,16 @@ type_codes:
 approved_by:
 - '103010000000'
 approval_date: 2011-09-12
-version_date: 2011-09-12
+version_date: 2012-09-28
 registry_number: '60893'
-source: https://zan.gov.kz/client/#!/doc/60893/rus/12.09.2011
+caused_by:
+  code: '68120'
+  title: О внесении изменений в приказ и.о. Министра здравоохранения Республики Казахстан от 12 сентября 2011 года № 616 "Об утверждении форм, предназначенных для сбора административных данных субъектов здравоохранения"
+  link: https://zan.gov.kz/client/#!/doc/68120/rus
+source: https://zan.gov.kz/client/#!/doc/60893/rus/28.09.2012
 ---
 
-# Об утверждении форм, предназначенных для сбора административных данных субьектов здравоохранения
+# Об утверждении форм, предназначенных для сбора административных данных субъектов здравоохранения
 
 В соответствии с подпунктом 5) пункта 1 статьи 7 Кодекса Республики Казахстан от 18 сентября 2009 года "О здоровье народа и системе здравоохранения" и подпунктом 2) пункта 3 статьи 16 Закона Республики Казахстан от 19 марта 2010 года "О государственной статистике" и в целях обеспечения сбора административных данных,ПРИКАЗЫВАЮ:
 
@@ -254,16 +258,14 @@ ___________ А. Смаилов
 от 0 до
 14 лет
 вклю-
-читель-
-но
+чительно
 </td>
 <td>
 от 15
 лет до
 17 лет
 вклю-
-читель-
-но
+чительно
 </td>
 <td>
 от 0 до
@@ -1739,7 +1741,7 @@ ___________ А. Смаилов
 <tr>
 <td rowspan="2">
 Наименование
-акцины и
+вакцины и
 других МИБП
 </td>
 <td rowspan="2">
@@ -2657,7 +2659,7 @@ Cделано
 <tr>
 <td></td>
 <td>
-Предтавляют:
+Представляют:
 1. Амбулаторно-поликлинические организации системы
 здравоохранения, негосударственные медицинские
 (подразделения) организации, организации
@@ -2697,8 +2699,8 @@ Cделано
 <th>Прибыло</th>
 <th>Выбыло</th>
 <th>
-Количество детей на
-конец отчетного
+Количество детей
+на конец отчетного
 месяца
 </th>
 </tr>
@@ -3683,7 +3685,7 @@ Cделано
 2. Телемедицинские центры областных больниц - в
 центр развития телемедицины 7- го числа после
 отчетного месяца
-3. Телемедицинские ценрты Республиканских клиник
+3. Телемедицинские центры Республиканских клиник
 - в центр развития телемедицины 5-го числа
 после отчетного месяца
 4. Центр развития телемедицины - в Министерство
@@ -3763,8 +3765,8 @@ Cделано
 ваний
 </td>
 <td>
-ВСЕГО, из
-них:
+ВСЕГО,
+из них:
 </td>
 <td>1.0</td>
 <td></td>
@@ -4170,8 +4172,9 @@ Cделано
 </tr>
 <tr>
 <td>
-Обще-
-клинические исследо-
+Общекли-
+нические
+исследо-
 вания
 мочи:
 </td>
@@ -4246,8 +4249,9 @@ Cделано
 <td>
 Методы
 молеку-
-лярно-био-
-логической
+лярно-
+биологи-
+ческой
 диагно-
 стики
 </td>
@@ -4439,8 +4443,8 @@ Cделано
 ваний
 </td>
 <td>
-ВСЕГО, из
-них:
+ВСЕГО,
+из них:
 </td>
 <td>1.0</td>
 <td></td>
@@ -5197,11 +5201,11 @@ Cделано
 > *Приложение 1*  
 > *Утверждено приказом и.о. Министра*  
 > *здравоохранения Республики Казахстан*  
-> *от 12 сентября 2011 г. № 616*
+> *от 12 сентября 2011 года № 616*
 
-Конфиденциальность гарантируется получателем информации
+### Конфиденциальность гарантируется получателем информации
 
-Кем представляется __________________________________________________
+Кем представляется ________________________________________________
 
 (наименование и адрес)
 
@@ -5209,6 +5213,8 @@ Cделано
 
 > *ежемесячная*  
 > *(с нарастающим итогом)*
+
+> *Сноска. Форма 21 в редакции приказа Министра здравоохранения РК от 28.09.2012 № 663 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
 
 ### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
 
@@ -5219,104 +5225,120 @@ Cделано
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
 Представляют:
-1.Организации, оказывающие
-амбулаторно-поликлиническую и стационарную помощь,
-системы здравоохранения главному врачу района
-(города) - 1 числа, следующего за отчетным периодом;
-2. Главный врач района (города) сводный отчет
-местному органу государственного управления
-здравоохранения (области,города) 3 числа, следующего
-за отчетным периодом;
-3.Организации оказывающие амбулаторно-поликлиническую
-и стационарную помощь других министерств, ведомств
-всех форм собственности -местному органу
-государственного управления здравоохранением
-(области,города) по месту нахождения и своей
-вышестоящей организации - 1 числа, следующего за
-отчетным периодом;
-4. Местные органы государственного управления
-здравоохранением сводный отчет по городу, области -
-Министерство здравоохранения Республики Казахстан -
-5 числа, следующего за отчетным периодом
-</td>
-</tr>
-</table>
 
-### Отчет Об использовании коечного фонда медицинских организаций, оказывающих стационарную и стационарозамещающую помощь за___ месяцев 20 ___ года
+1\. Организации, оказывающие амбулаторно-поликлиническую и
+
+стационарную помощь, системы здравоохранения главному врачу
+
+района ( города) - 1 числа, следующего за отчетным
+
+периодом;
+
+2\. Главный врач района (города) сводный отчет местному органу
+
+государственного управления здравоохранения (области,города)
+
+3 числа, следующего за отчетным периодом;
+
+3\. Организации оказывающие амбулаторно-поликлиническую и
+
+стационарную помощь других министерств, ведомств всех форм
+
+собственности -местному органу государственного управления
+
+здравоохранением (области,города) по месту нахождения и
+
+своей вышестоящей организации - 1 числа, следующего за
+
+отчетным периодом;
+
+4\. Местные органы государственного управления здравоохранением
+
+сводный отчет по городу, области - Министерство
+
+здравоохранения Республики Казахстан - 5 числа, следующего
+
+за отчетным периодом.
+
+## Отчет Об использовании коечного фонда медицинских организаций, оказывающих стационарную и стационарозамещающую помощь за ___ месяцев 20___
 
 <table>
 <tr>
-<td rowspan="4">Профиль коек</td>
-<td rowspan="4"></td>
+<td rowspan="3">Профиль коек</td>
+<td rowspan="3"></td>
 <td colspan="2" rowspan="2">
 Число коек,
-фактически
+факти
+чески
 развернутых и
-свернутых на
+свернутых
+на
 ремонт
 </td>
-<td colspan="4" rowspan="2">В отчетном периоде</td>
-<td colspan="2">
-Республиканский
-бюджет
+<td colspan="4" rowspan="2">
+Число
+фактически
+развернутых
+коек, на конец
+отчетного
+периода по
+уровням
+(из графы 1)
 </td>
+<td colspan="8">В отчетном периоде</td>
 </tr>
 <tr>
-<td colspan="2">выписано</td>
-</tr>
-<tr>
-<td rowspan="2">
-на
-конец
-отчет-
-ного
-периода
-</td>
-<td rowspan="2">
-средне-
-годовых
-</td>
-<td rowspan="2">
+<td colspan="4">
 поступило
+больных всего
+</td>
+<td colspan="4">
+из поступивших
 больных
-всего
-</td>
-<td colspan="3">
-в том числе
-из 3 графы)
-</td>
-<td colspan="2">
-Специализиро-
-ванная помощь
-</td>
-</tr>
-<tr>
-<td>
-сель-
-ские
+сельские
 жители
 </td>
+</tr>
+<tr>
 <td>
-0-14
-лет
-вкл.
+на конец
+отчетного
+периода
 </td>
 <td>
-15-17
-лет
-вкл.
+средне-
+годо вых
 </td>
-<td>Всего</td>
+<td>районный</td>
+<td>в т.ч. сельский</td>
 <td>
-в т. ч. в
+городской/
+областной
+</td>
+<td>
 республи-
-канских
-организациях
+канский
+</td>
+<td>районный</td>
+<td>в т.ч. сельский</td>
+<td>
+городской/
+областной
+</td>
+<td>
+республи-
+канский
+</td>
+<td>районный</td>
+<td>в т.ч. сельский</td>
+<td>
+городской/
+областной
+</td>
+<td>
+республи-
+канский
 </td>
 </tr>
 <tr>
@@ -5330,10 +5352,22 @@ Cделано
 <th>6</th>
 <th>7</th>
 <th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
 </tr>
 <tr>
 <td>Общие</td>
 <td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5354,13 +5388,26 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Кардиологические
-для взрослых
+Кардиологичес-
+кие для
+взрослых
 </td>
 <td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5381,14 +5428,26 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Гастро-
-энтерологические
-для взрослых
+Гастроэнтероло-
+гические для
+взрослых
 </td>
 <td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5409,13 +5468,25 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Аллергологические
-для взрослых
+Аллергологичес-
+кие для взрослых
 </td>
 <td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5436,14 +5507,26 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Эндо-
-кринологические
-для взрослых
+Эндокринологи-
+ческие для
+взрослых
 </td>
 <td>09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5464,13 +5547,25 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Инфекционные для
-взрослых
+Инфекционные
+для взрослых
 </td>
 <td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5491,13 +5586,26 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Гематологические
-для взрослых
+Гематологичес-
+кие для
+взрослых
 </td>
 <td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5510,6 +5618,12 @@ Cделано
 <tr>
 <td>для детей</td>
 <td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5533,6 +5647,12 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>для детей</td>
@@ -5545,13 +5665,25 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Хирургические для
-взрослых
+Хирургические
+для взрослых
 </td>
 <td>17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5572,10 +5704,17 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Хирургические для
+Хирургические
+для
 новорожденных
 </td>
 <td>19</td>
@@ -5587,13 +5726,26 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Нейрохирургические
-для взрослых
+Нейрохирурги-
+ческие для
+взрослых
 </td>
 <td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5614,10 +5766,22 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Нейрососудистые</td>
 <td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5642,6 +5806,12 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>для детей</td>
@@ -5654,14 +5824,26 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Кардио-
-хирургические для
+Кардиохирурги-
+ческие для
 взрослых
 </td>
 <td>25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5682,10 +5864,25 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Сосудистой хирургии</td>
+<td>
+Сосудистой
+хирургии
+</td>
 <td>27</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5697,10 +5894,17 @@ Cделано
 </tr>
 <tr>
 <td>
-Травматологические
-ля взрослых
+Травматологи-
+ческие для
+взрослых
 </td>
 <td>28</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5721,15 +5925,27 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 Ожоговые
-(камбустио-
-логические) для
+(камбустиоло-
+гические) для
 взрослых
 </td>
 <td>30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5750,13 +5966,25 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Ортопедические для
-взрослых
+Ортопедические
+для взрослых
 </td>
 <td>32</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5777,13 +6005,25 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Урологические для
-взрослых
+Урологические
+для взрослых
 </td>
 <td>34</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5804,15 +6044,1374 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+продолжение таблицы
+
+<table>
+<tr>
+<td colspan="16">В отчетном периоде</td>
+</tr>
+<tr>
+<td colspan="4" rowspan="2">
+из поступивших больных -
+дети 0-14 лет
+</td>
+<td colspan="4" rowspan="2">
+из поступивших больных -
+дети 15-17 лет включительно
+</td>
+<td colspan="8">выписано</td>
+</tr>
+<tr>
+<td colspan="4">
+Специализированная
+помощь
+</td>
+<td colspan="4">
+Высокоспециализированная
+медицинская
+помощь
+</td>
+</tr>
+<tr>
+<td>районный</td>
+<td>в т.ч. сельский</td>
+<td>
+городской/
+областной
+</td>
+<td>
+респу-
+бликанский
+</td>
+<td>районный</td>
+<td>в т.ч. сельский</td>
+<td>
+городской/
+областной
+</td>
+<td>
+респу-
+бликанский
+</td>
+<td>районный</td>
+<td>в т.ч. сельский</td>
+<td>
+городской/
+областной
+</td>
+<td>
+респу-
+бликанский
+</td>
+<td>районный</td>
+<td>в т.ч. сельский</td>
+<td>
+городской/
+областной
+</td>
+<td>
+респу-
+бликанский
+</td>
+</tr>
+<tr>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>24</th>
+<th>25</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
+<th>29</th>
+<th>30</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+продолжение таблицы
+
+<table>
+<tr>
+<td colspan="12">В отчетном периоде</td>
+</tr>
+<tr>
+<td colspan="8">умерло</td>
+<td colspan="4" rowspan="2">
+Проведено
+больными
+койко-дней
+</td>
+</tr>
+<tr>
+<td colspan="4">
+Специализированная
+помощь
+</td>
+<td colspan="4">
+Высокоспециа-
+лизированная
+медицинская
+помощь
+</td>
+</tr>
+<tr>
+<td>районный</td>
+<td>в т.ч. сельский</td>
+<td>городской/областной</td>
+<td>республиканский</td>
+<td>районный</td>
+<td>в т.ч. сельский</td>
+<td>городской/областной</td>
+<td>республиканский</td>
+<td>районный</td>
+<td>в т.ч. сельский</td>
+<td>городской/областной</td>
+<td>республиканский</td>
+</tr>
+<tr>
+<th>31</th>
+<th>32</th>
+<th>33</th>
+<th>34</th>
+<th>35</th>
+<th>36</th>
+<th>37</th>
+<th>38</th>
+<th>39</th>
+<th>40</th>
+<th>41</th>
+<th>42</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+продолжение таблицы
+
+<table>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>24</th>
+<th>25</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
+<th>29</th>
+<th>30</th>
+<th>31</th>
+<th>32</th>
+<th>33</th>
+<th>34</th>
+<th>35</th>
+<th>36</th>
+<th>37</th>
+<th>38</th>
+<th>39</th>
+<th>40</th>
+<th>41</th>
+<th>42</th>
 </tr>
 <tr>
 <td>
-Челюстно-лицевой
+Челюстно-
+лицевой
 хирургии
-стоматологические)
+стоматоло-
+гические)
 для взрослых
 </td>
 <td>36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5833,13 +7432,82 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Онкологические для
+Онкологичес-
+кие для
 взрослых
 </td>
 <td>38</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5860,12 +7528,46 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-из них
-маммологические
-(из стр.38)
+из них мам-
+мологические
+(из стр. 38)
 </td>
 <td>40</td>
 <td></td>
@@ -5876,15 +7578,85 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Для беременных и
-рожениц (кроме
+Для беремен-
+ных и
+рожениц
+(кроме
 патологии
 беременности)
 </td>
 <td>41</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5900,6 +7672,5609 @@ Cделано
 беременности
 </td>
 <td>42</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Гинекологи-
+ческие для
+взрослых,
+включая для
+производства
+абортов
+</td>
+<td>43</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Гинекологи-
+ческие для
+детей,
+включая для
+производства
+абортов
+</td>
+<td>44</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Туберкулез-
+ные для
+взрослых -
+всего
+</td>
+<td>45</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+для взрослых
+больных с
+внелегочным,
+включая
+костно-
+суставным
+туберкулезом
+</td>
+<td>46</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+для принуди-
+тельного
+лечения
+больных
+</td>
+<td>47</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+для больных
+с лекарст-
+венной
+устойчивой
+формой
+туберкулеза
+</td>
+<td>48</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+туберкулез-
+ные хирур-
+гические
+</td>
+<td>49</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Туберкулез-
+ные для
+детей, всего
+</td>
+<td>50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+для больных
+детей с вне-
+легочным,
+включая
+костно-
+суставным,
+туберкулезом
+</td>
+<td>51</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Неврологи-
+ческие для
+взрослых
+</td>
+<td>52</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>53</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Психиатри-
+ческие
+(психоневро-
+логические)
+для взрослых
+</td>
+<td>54</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>55</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Психотера-
+певтические
+для взрослых
+</td>
+<td>56</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>57</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Наркологи-
+ческие для
+взрослых
+</td>
+<td>58</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>59</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Наркологи-
+ческие для
+принудитель-
+ного лечения
+</td>
+<td>60</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Офтальмоло-
+гические
+для взрослых
+</td>
+<td>61</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>62</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Отоларинго-
+логические
+для взрослых
+</td>
+<td>63</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>64</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Дерматовене-
+рологические
+для взрослых
+</td>
+<td>65</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>66</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Радиологи-
+ческие
+</td>
+<td>67</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+продолжение таблицы
+
+<table>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>24</th>
+<th>25</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
+<th>29</th>
+<th>30</th>
+<th>31</th>
+<th>32</th>
+<th>33</th>
+<th>34</th>
+<th>35</th>
+<th>36</th>
+<th>37</th>
+<th>38</th>
+<th>39</th>
+<th>40</th>
+<th>41</th>
+<th>42</th>
+</tr>
+<tr>
+<td>
+Педиатри-
+ческие
+</td>
+<td>68</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Патология
+новорожден-
+ных и выха-
+живания
+недоношенных
+</td>
+<td>69</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Проктологи-
+ческие
+</td>
+<td>70</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Ревматологи-
+ческие для
+взрослых
+</td>
+<td>71</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>72</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Гнойные
+хирургичес-
+кие для
+взрослых
+</td>
+<td>73</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>74</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Пульмоноло-
+гические для
+взрослых
+</td>
+<td>75</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>76</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Токсикологи-
+ческие для
+взрослых
+</td>
+<td>77</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>78</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Трансплан-
+талогии для
+взрослых
+</td>
+<td>79</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>80</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Лепрологи-
+ческие
+</td>
+<td>81</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Реанимацион-
+ные для
+взрослых
+</td>
+<td>82</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>83</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Инсультные</td>
+<td>84</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>Итого коек</th>
+<th>85</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>
+из них для
+детей
+</th>
+<th>86</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>
+Сестринского
+ухода
+</th>
+<th>87</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>
+Паллиативной
+помощи
+</th>
+<th>88</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>
+Для ухажи-
+вания с
+питанием
+</th>
+<th>89</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>
+Для ухажи-
+вания без
+питания
+</th>
+<th>90</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</table>
+
+<table>
+<tr>
+<th colspan="44">Профили коек для восстановительного лечения и медицинской реабилитации</th>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>24</th>
+<th>25</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
+<th>29</th>
+<th>30</th>
+<th>31</th>
+<th>32</th>
+<th>33</th>
+<th>34</th>
+<th>35</th>
+<th>36</th>
+<th>37</th>
+<th>38</th>
+<th>39</th>
+<th>40</th>
+<th>41</th>
+<th>42</th>
+</tr>
+<tr>
+<th>
+Восстанови-
+тельного
+лечения и
+медицинской
+реабилита-
+ции, всего
+</th>
+<th>91</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>
+из них
+для детей
+</th>
+<th>92</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th colspan="43">а) из них ранняя реабилитация по профилям:</th>
+<th></th>
+</tr>
+<tr>
+<td>
+в том числе:
+Кардиологи-
+ческие для
+взрослых
+</td>
+<td>93</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>94</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кардиохирур-
+гические для
+взрослых
+</td>
+<td>95</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>96</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Неврологи-
+ческие
+(психоневро-
+логические)
+для взрослых
+</td>
+<td>97</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>98</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Нейрохирур-
+гические для
+взрослых
+</td>
+<td>99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>100</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Травматоло-
+гические для
+взрослых
+</td>
+<td>101</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>102</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Ортопедичес-
+кие для
+взрослых
+</td>
+<td>103</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>104</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="44">б) них поздняя реабилитация по профилям:</th>
+</tr>
+<tr>
+<td>
+в том числе:
+Кардиологи-
+ческие для
+взрослых
+</td>
+<td>105</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>106</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кардиохирур-
+гические для
+взрослых
+</td>
+<td>107</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>108</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Неврологи-
+ческие
+(психоневро-
+логические)
+для взрослых
+</td>
+<td>109</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>110</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Нейрохирур-
+гические для
+взрослых
+</td>
+<td>111</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>112</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Травматоло-
+гические для
+взрослых
+</td>
+<td>113</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>114</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Ортопедичес-
+кие для
+взрослых
+</td>
+<td>115</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>116</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
+Всего коек
+(стр.85+87+
+88+89+90+91)
+</th>
+<th>117</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>
+из них для
+детей
+(стр.86+92)
+</th>
+<th>118</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</table>
+
+<table>
+<tr>
+<th colspan="8">2000</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th>Число организаций</th>
+<th>Число мест</th>
+<th>Пролечено больных</th>
+<th>в том числе умерло</th>
+<th>
+из них направлено
+круглосу-
+точный
+стационар
+</th>
+<th>Проведено дней</th>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td>Стационары (отделения, палаты) дневного пребывания в организациях, оказывающих стационарную помощь</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Дневные стационары в организациях, оказывающих амбулаторно-поликлиническую помощь</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Стационары на дому</td>
+<td>03</td>
+<td>Х</td>
+<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th colspan="28">1001 Местный бюджет, глобальный бюджет, другие виды бюджета</th>
+</tr>
+<tr>
+<td rowspan="3">Профиль коек</td>
+<td rowspan="3"></td>
+<td colspan="2" rowspan="2">
+Число
+коек,
+факти-
+чески
+развер-
+нутых
+и свернутых
+на ремонт
+</td>
+<td colspan="3" rowspan="2">
+число
+фактически
+развернутых
+коек на
+конец
+отчетного
+периода
+по уровням
+(из графы 1)
+</td>
+<td colspan="21">В отчетном периоде</td>
+</tr>
+<tr>
+<td colspan="3">
+поступило
+больных
+всего
+</td>
+<td colspan="3">
+из пос-
+тупивших
+больных
+сельские
+жители
+</td>
+<td colspan="3">
+из пос-
+тупивших
+больных
+- дети
+0-14 лет
+</td>
+<td colspan="3">
+из пос-
+тупивших
+больных
+- дети
+15-17 лет
+включительно
+</td>
+<td colspan="3">выписано</td>
+<td colspan="3">умерло</td>
+<td colspan="3">
+Проведено
+больными
+койко-
+дней
+</td>
+</tr>
+<tr>
+<td>
+на
+ко-
+нец
+от-
+чет-
+ного
+пе-
+ри-
+ода
+</td>
+<td>
+средне-
+годо вых
+</td>
+<td>
+р
+а
+й
+о
+н
+н
+ы
+й
+</td>
+<td>
+в т.ч.
+сель-
+ский
+</td>
+<td>
+го-
+род-
+ской/
+об-
+ласт-
+ной
+</td>
+<td>
+р
+а
+й
+о
+н
+н
+ы
+й
+</td>
+<td>
+в т.ч.
+сель-
+ский
+</td>
+<td>
+го-
+род-
+ской/
+об-
+ласт-
+ной
+</td>
+<td>
+р
+а
+й
+о
+н
+н
+ы
+й
+</td>
+<td>
+в т.ч.
+сельский
+</td>
+<td>
+го-
+род-
+ской/
+об-
+ласт-
+ной
+</td>
+<td>
+р
+а
+й
+о
+н
+н
+ы
+й
+</td>
+<td>
+в т.ч.
+сель-
+ский
+</td>
+<td>
+го-
+род-
+ской/
+об-
+ласт-
+ной
+</td>
+<td>
+р
+а
+й
+о
+н
+н
+ы
+й
+</td>
+<td>
+в т.ч.
+сель-
+ский
+</td>
+<td>
+го-
+род-
+ской/
+об-
+ласт-
+ной
+</td>
+<td>
+р
+а
+й
+о
+н
+н
+ы
+й
+</td>
+<td>
+в т.ч.
+сель-
+ский
+</td>
+<td>
+го-
+род-
+ской/
+об-
+ласт-
+ной
+</td>
+<td>
+р
+а
+й
+о
+н
+н
+ы
+й
+</td>
+<td>
+в т.ч.
+сель-
+ский
+</td>
+<td>
+го-
+род-
+ской/
+об-
+ласт-
+ной
+</td>
+<td>
+р
+а
+й
+о
+н
+н
+ы
+й
+</td>
+<td>
+в т.ч.
+сель-
+ский
+</td>
+<td>
+го-
+род-
+ской/
+об-
+ласт-
+ной
+</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>24</th>
+<th>25</th>
+<th>26</th>
+</tr>
+<tr>
+<td>Общие</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Терапевтические</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кардиологические
+для взрослых
+</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Гастроэнтеро-
+логические
+для взрослых
+</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Аллергологи-
+ческие для
+взрослых
+</td>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Эндокринологи-
+ческие для
+взрослых
+</td>
+<td>09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Инфекционные
+для взрослых
+</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Гематологичес-
+кие для
+взрослых
+</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Нефрологичес-
+кие для
+взрослых
+</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Хирургические
+для взрослых
+</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Хирургические
+для
+новорожденных
+</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Нейрохирурги-
+ческие для
+взрослых
+</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Нейрососудистые</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Торакальной
+хирургии для
+взрослых
+</td>
+<td>23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кардиохирур-
+гические для
+взрослых
+</td>
+<td>25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>26</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Сосудистой
+хирургии
+</td>
+<td>27</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Травматологи-
+ческие для
+взрослых
+</td>
+<td>28</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Ожоговые
+(камбустиоло-
+гические)
+для взрослых
+</td>
+<td>30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>31</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Ортопедические
+для взрослых
+</td>
+<td>32</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>33</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Урологические
+для взрослых
+</td>
+<td>34</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>24</th>
+<th>25</th>
+<th>26</th>
+</tr>
+<tr>
+<td>
+Челюстно-
+лицевой
+хирургии
+стоматологи-
+ческие) для
+взрослых
+</td>
+<td>36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>37</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Онкологические
+для взрослых
+</td>
+<td>38</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>39</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них
+маммологические
+(из стр. 38)
+</td>
+<td>40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Для беременных
+и рожениц
+(кроме пато-
+логии
+беременности)
+</td>
+<td>41</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Патологии
+беременности
+</td>
+<td>42</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5926,12 +13301,31 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 Гинекологические
-для детей, включая
-для производства
+для детей,
+включая для
+производства
 абортов
 </td>
 <td>44</td>
@@ -5943,11 +13337,30 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Туберкулезные для
-взрослых- всего
+Туберкулезные
+для взрослых-
+всего
 </td>
 <td>45</td>
 <td></td>
@@ -5958,14 +13371,34 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-в том числе: для
-взрослых больных с
+в том числе:
+для взрослых
+больных с
 внелегочным,
 включая
-костно-суставным
+костно-
+суставным
 туберкулезом
 </td>
 <td>46</td>
@@ -5977,14 +13410,51 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-для
-принудительного
-лечения больных
+для принуди-
+тельного
+лечения
+больных
 </td>
 <td>47</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5998,10 +13468,29 @@ Cделано
 <td>
 для больных с
 лекарственной
-устойчивой формой
+устойчивой
+формой
 туберкулеза
 </td>
 <td>48</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6025,11 +13514,30 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Туберкулезные для
-детей, всего
+Туберкулезные
+для детей,
+всего
 </td>
 <td>50</td>
 <td></td>
@@ -6040,14 +13548,34 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-в том числе: для
-больных детей с
+в том числе:
+для больных
+детей с
 внелегочным,
 включая
--суставным,
+костно-
+суставным,
 туберкулезом
 </td>
 <td>51</td>
@@ -6059,13 +13587,6 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>
-Неврологические
-для взрослых
-</td>
-<td>52</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6074,10 +13595,8 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>53</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6090,11 +13609,29 @@ Cделано
 <tr>
 <td>
 Психиатрические
-(психо-
-неврологические)
+(психоневро-
+логические)
 для взрослых
 </td>
 <td>54</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6115,14 +13652,6 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>
-Психо-
-терапевтические
-для взрослых
-</td>
-<td>56</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6131,10 +13660,8 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>57</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6158,6 +13685,24 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>для детей</td>
@@ -6170,12 +13715,30 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 Наркологические
-для
-принудительного
+для принуди-
+тельного
 лечения
 </td>
 <td>60</td>
@@ -6187,13 +13750,50 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Офтальмологические
-ля взрослых
+Офтальмологи-
+ческие для
+взрослых
 </td>
 <td>61</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6214,14 +13814,50 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Отоларинго-
-логические для
+Отоларинголо-
+гические для
 взрослых
 </td>
 <td>63</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6242,14 +13878,50 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Дермато-
-венерологические
+Дерматовенеро-
+логические
 для взрослых
 </td>
 <td>65</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6270,10 +13942,46 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Радиологические</td>
 <td>67</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6294,15 +14002,51 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 Патология
-новорожденных и
-выхаживания
+новорожденных
+и выхаживания
 недоношенных
 </td>
 <td>69</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6323,13 +14067,50 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Ревматологические
-для взрослых
+Ревматологи-
+ческие для
+взрослых
 </td>
 <td>71</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6350,14 +14131,50 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 Гнойные
-хирургические для
-взрослых
+хирургические
+для взрослых
 </td>
 <td>73</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6378,13 +14195,83 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>24</th>
+<th>25</th>
+<th>26</th>
 </tr>
 <tr>
 <td>
-Пульмонологические
-ля взрослых
+Пульмонологи-
+ческие для
+взрослых
 </td>
 <td>75</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6405,13 +14292,50 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Токсикологические
-для взрослых
+Токсикологи-
+ческие для
+взрослых
 </td>
 <td>77</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6432,13 +14356,50 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Транспланталогии
-для взрослых
+Трансплантало-
+гии для
+взрослых
 </td>
 <td>79</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6459,6 +14420,24 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Лепрологические</td>
@@ -6471,13 +14450,49 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Реанимационные для
-взрослых
+Реанимационные
+для взрослых
 </td>
 <td>82</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6498,9 +14513,27 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Итого коек</td>
+<td>Инсультные</td>
 <td>84</td>
 <td></td>
 <td></td>
@@ -6510,10 +14543,6 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>из них для детей</td>
-<td>85</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6522,10 +14551,8 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>Сестринского ухода</td>
-<td>86</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6536,116 +14563,285 @@ Cделано
 <td></td>
 </tr>
 <tr>
-<td>
+<th>Итого коек</th>
+<th>85</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>
+из них для
+детей
+</th>
+<th>86</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>
+Сестринского
+ухода
+</th>
+<th>87</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>
 Паллиативной
 помощи
-</td>
-<td>87</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+</th>
+<th>88</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td>
-Для ухаживания с
+<th>
+Для ухажива-
+ния с
 питанием
-</td>
-<td>88</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+</th>
+<th>89</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td>
-Для ухаживания без
+<th>
+Для ухажива-
+ния без
 питания
-</td>
-<td>89</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+</th>
+<th>90</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td colspan="10">Профили коек для восстановительного лечения и медицинской реабилитации</td>
+<th colspan="28">Профили коек для восстановительного лечения и медицинской реабилитации</th>
 </tr>
 <tr>
-<th>А</th>
-<th>Б</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-</tr>
-<tr>
-<td>
-Восстановительного
+<th>
+Восстанови-
+тельного
 лечения и
 медицинской
 реабилитации,
 всего
-</td>
-<td>90</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+</th>
+<th>91</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td>из них для детей</td>
-<td>91</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th>
+из них для
+детей
+</th>
+<th>92</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td colspan="10">из них ранняя реабилитация попрофилям:</td>
+<th colspan="28">а) из них ранняя реабилитация по профилям:</th>
 </tr>
 <tr>
 <td>
 в том числе:
-Кардиологические
-для взрослых
+Кардиологичес-
+кие для
+взрослых
 </td>
-<td>92</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
 <td>93</td>
 <td></td>
 <td></td>
@@ -6655,14 +14851,16 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>
-Кардио-
-хирургические для
-взрослых
-</td>
-<td>94</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6674,7 +14872,89 @@ Cделано
 </tr>
 <tr>
 <td>для детей</td>
+<td>94</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кардиохирурги-
+ческие для
+взрослых
+</td>
 <td>95</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>96</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6687,22 +14967,10 @@ Cделано
 <tr>
 <td>
 Неврологические
-(психо-
-неврологические)
+(психоневро-
+логические)
 для взрослых
 </td>
-<td>96</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
 <td>97</td>
 <td></td>
 <td></td>
@@ -6712,12 +14980,27 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Нейрохирургические
-ля взрослых
-</td>
+<td>для детей</td>
 <td>98</td>
 <td></td>
 <td></td>
@@ -6727,9 +15010,31 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>для детей</td>
+<td>
+Нейрохирурги-
+ческие для
+взрослых
+</td>
 <td>99</td>
 <td></td>
 <td></td>
@@ -6739,12 +15044,27 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Травматологические
-ля взрослых
-</td>
+<td>для детей</td>
 <td>100</td>
 <td></td>
 <td></td>
@@ -6754,9 +15074,31 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>для детей</td>
+<td>
+Травматологи-
+ческие для
+взрослых
+</td>
 <td>101</td>
 <td></td>
 <td></td>
@@ -6766,13 +15108,16 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>
-Ортопедические для
-взрослых
-</td>
-<td>102</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6784,6 +15129,39 @@ Cделано
 </tr>
 <tr>
 <td>для детей</td>
+<td>102</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Ортопедические
+для взрослых
+</td>
 <td>103</td>
 <td></td>
 <td></td>
@@ -6793,13 +15171,27 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Всего коек
-(стр.84+86+87+88+
-89+90)
-</td>
+<td>для детей</td>
 <td>104</td>
 <td></td>
 <td></td>
@@ -6809,11 +15201,34 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="28">б) из них поздняя реабилитация по профилям:</th>
 </tr>
 <tr>
 <td>
-из них для детей
-(стр.85+91)
+в том числе:
+Кардиологичес-
+кие для
+взрослых
 </td>
 <td>105</td>
 <td></td>
@@ -6824,646 +15239,479 @@ Cделано
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>106</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кардиохирур-
+гические для
+взрослых
+</td>
+<td>107</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>108</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Неврологические
+(психоневро-
+логические)
+для взрослых
+</td>
+<td>109</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>110</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Нейрохирурги-
+ческие для
+взрослых
+</td>
+<td>111</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>112</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Травматологи-
+ческие для
+взрослых
+</td>
+<td>113</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>114</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Ортопедические
+для взрослых
+</td>
+<td>115</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>116</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
+Всего коек
+(стр. 85+87+
+88+89+90+91)
+</th>
+<th>117</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>
+из них для
+детей
+(стр. 86+92)
+</th>
+<th>118</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 </table>
 
-продолжение таблицы
+## 2001
 
 <table>
 <tr>
-<td colspan="4" rowspan="2">умерло</td>
-<td colspan="3" rowspan="2">
-Проведено
-больными
-койко-дней
-</td>
-<td rowspan="2">
-в том
-числе
-проведено
-койко-дней
-сельскими
-жителями
-</td>
-<td colspan="4">местный бюджет</td>
-</tr>
-<tr>
-<td>
-выпи-
-сано
-</td>
-<td>умерло</td>
-<td>
-Проведено
-больными
-койко-дней
-</td>
-<td>
-в том
-числе
-проведено
-койко-дней
-сельскими
-жителями
-</td>
-</tr>
-<tr>
-<td colspan="2">
-Высоко -
-специа -
-лизированная
-медицинская
-помощь
-</td>
-<td colspan="2">
-Специа -
-лизиро -
-ванная
-помощь
-</td>
-<td colspan="8">Высокоспециа - лизированная медицинская помощь</td>
-</tr>
-<tr>
-<td>Всего</td>
-<td>
-в т. ч. в
-респуб-
-ликанских
-органи-
-зациях
-</td>
-<td>Всего</td>
-<td>
-в т. ч. в
-респуб-
-ликанских
-органи -
-зациях
-</td>
-<td colspan="8">Всего в т. ч. в республиканских организациях</td>
-</tr>
-<tr>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
-<th>15</th>
-<th>16</th>
-<th>17</th>
-<th>18</th>
-<th>19</th>
-<th>20</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-2000
-
-<table>
-<tr>
-<td></td>
-<td></td>
-<td>
+<th></th>
+<th></th>
+<th>
+Число
+организаций
+</th>
+<th>
 Число
 мест
-</td>
-<td>
+</th>
+<th>
 Пролечено
 больных
-</td>
-<td>
+</th>
+<th>
 в том
 числе
 умерло
-</td>
-<td colspan="2">
-из них направлено
-в круглосуточный
+</th>
+<th>
+из них
+направлено
+в кругло-
+суточный
 стационар
-</td>
-<td>
+</th>
+<th>
 Проведено
 дней
-</td>
+</th>
 </tr>
 <tr>
 <th>А</th>
@@ -7472,18 +15720,11 @@ Cделано
 <th>2</th>
 <th>3</th>
 <th>4</th>
-<th></th>
 <th>5</th>
+<th>6</th>
 </tr>
 <tr>
-<td>
-Стационары (отделения,
-палаты) дневного
-пребывания в
-организациях,
-оказывающих стационарную
-помощь
-</td>
+<td>Стационары (отделения, палаты) дневного пребывания в организациях, оказывающих стационарную помощь</td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -7494,9 +15735,8 @@ Cделано
 </tr>
 <tr>
 <td>
-Дневные стационары в
-организациях,
-оказывающих амбулаторно-
+Дневные стационары в организациях, оказывающих
+амбулаторно-
 поликлиническую помощь
 </td>
 <td>02</td>
@@ -7511,7 +15751,7 @@ Cделано
 <td>Стационары на дому</td>
 <td>03</td>
 <td>Х</td>
-<td></td>
+<td>Х</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7519,17 +15759,9 @@ Cделано
 </tr>
 </table>
 
-<table>
-<tr>
-<td>Руководитель _________</td>
-<td>
-Руководитель _________
-Исполнитель ______,
-телефон _________
-</td>
-<td>Дата &quot;__&quot; ___ 20 _года</td>
-</tr>
-</table>
+Руководитель __________________
+
+Исполнитель_________________, тел. ________
 
 > *Приложение 2*  
 > *Утверждено приказом и.о. Министра*  
@@ -7542,11 +15774,11 @@ Cделано
 
 (наименование и адрес)
 
-### Форма 3
+## Форма 3
 
 ежеквартальная
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -7578,7 +15810,7 @@ Cделано
 </tr>
 </table>
 
-### Отчет об инфекциях, передающихся преимущественно половым путем 20 ___ год
+## Отчет об инфекциях, передающихся преимущественно половым путем 20 ___ год
 
 <table>
 <tr>
@@ -7695,11 +15927,11 @@ Cделано
 
 (наименование и адрес)
 
-### Форма 56
+## Форма 56
 
 ежеквартальная
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -7734,7 +15966,7 @@ Cделано
 </tr>
 </table>
 
-### Отчет о числе заболеваний, зарегистрированных с впервые в жизни установленным диагнозом за ____ квартал 20 ____ года
+## Отчет о числе заболеваний, зарегистрированных с впервые в жизни установленным диагнозом за ____ квартал 20 ____ года
 
 <table>
 <tr>
@@ -7996,11 +16228,11 @@ F 20 – F 99
 
 (наименование и адрес)
 
-### Форма 58
+## Форма 58
 
 ежеквартальная
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -8035,7 +16267,7 @@ F 20 – F 99
 </tr>
 </table>
 
-### Отчет о движении медицинских и фармацевтических кадров за ____ квартал 20 ____ года
+## Отчет о движении медицинских и фармацевтических кадров за ____ квартал 20 ____ года
 
 <table>
 <tr>
@@ -8137,11 +16369,11 @@ F 20 – F 99
 
 (наименование и адрес)
 
-### Форма 61
+## Форма 61
 
 ежеквартальная
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -8170,7 +16402,7 @@ F 20 – F 99
 </tr>
 </table>
 
-### Отчет о контингентах больных с психическими и поведенческими расстройствами за ___ квартал 20 _____ года
+## Отчет о контингентах больных с психическими и поведенческими расстройствами за ___ квартал 20 _____ года
 
 2700 Контингенты больных, находящихся под стационарным, диспансерным
 
@@ -8486,11 +16718,11 @@ F 20 – F 99
 
 (наименование, адрес)
 
-### Форма 64
+## Форма 64
 
 ежеквартальная
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -8505,12 +16737,12 @@ F 20 – F 99
 <td>
 Представляют:
 1. Наркологические больницы и диспансеры,
-психоневрологические диспан-серы, больницы,
+психоневрологические диспансеры, больницы,
 необъединенные поликлиники, в том числе
 хозрасчетные организации, имеющие наркологические
 отделения (кабинеты) в поликлинике; отделения,
 палаты, койки в стационаре; специализированные
-медицин-ские организации, не имеющие
+медицинские организации, не имеющие
 наркологических отделений (кабинетов), но
 обслуживающие наркологических больных - в
 областные (городские г.г. Астана и Алматы)
@@ -8525,7 +16757,7 @@ F 20 – F 99
 </tr>
 </table>
 
-### Отчет о контингентах больных психическими и поведенческими расстройствами, вызванными употреблением психоактивных веществ (пав) за I, II, III, IV квартал 20 ____ год
+## Отчет о контингентах больных психическими и поведенческими расстройствами, вызванными употреблением психоактивных веществ (пав) за I, II, III, IV квартал 20 ____ год
 
 2700 Контингенты больных, находящихся под стационарным, диспансерным и профилактическим наблюдением случаи
 
@@ -9169,11 +17401,11 @@ F16 и F19)
 
 наименование, адрес
 
-### Форма 23
+## Форма 23
 
 ежеквартальная
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -9203,13 +17435,13 @@ F16 и F19)
 </tr>
 </table>
 
-### ОТЧЕТ Центра временной адаптации и детоксикации за ___ квартал 20 ___ года
+## ОТЧЕТ Центра временной адаптации и детоксикации за ___ квартал 20 ___ года
 
 1000 Число центров 1 ________
 
 1100 число койко-мест в них ____________________
 
-### 1200 Штатные должности организации
+## 1200 Штатные должности организации
 
 <table>
 <tr>
@@ -9392,11 +17624,11 @@ F16 и F19)
 
 (наименование и адрес)
 
-### Форма 2
+## Форма 2
 
 годовая
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -9426,7 +17658,7 @@ F16 и F19)
 </tr>
 </table>
 
-### Отчет об отдельных инфекционных и паразитарных заболеваниях 20 _____ год
+## Отчет об отдельных инфекционных и паразитарных заболеваниях 20 _____ год
 
 <table>
 <tr>
@@ -10600,11 +18832,11 @@ b
 
 (наименование и адрес)
 
-### Форма 7
+## Форма 7
 
 годовая
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -10625,7 +18857,8 @@ b
 Алматы в Научно-исследовательский институт (НИИ)
 онкологии и радиологии к 10 января;
 3. НИИ онкологии и радиологии - в Министерство
-здравоохранения Республики Казахстанк 10 февраля;
+здравоохранения Республики Казахстан
+к 10 февраля;
 4. Министерство здравоохранения Республики
 Казахстан - в Агентство Республики Казахстан по
 статистике 1 апреля.
@@ -10633,9 +18866,9 @@ b
 </tr>
 </table>
 
-### Отчет о больных и заболеваниях злокачественными новообразованиями за 20 _____ год
+## Отчет о больных и заболеваниях злокачественными новообразованиями за 20 _____ год
 
-### 2100 КОНТИНГЕНТЫ БОЛЬНЫХ ЗЛОКАЧЕСТВЕННЫМИ НОВООБРАЗОВАНИЯМИ, СОСТОЯЩИХ НА УЧЕТЕ ОНКОЛОГИЧЕСКОГО УЧРЕЖДЕНИЯ (ОРГАНИЗАЦИИ)ЧЕЛОВЕК
+## 2100 КОНТИНГЕНТЫ БОЛЬНЫХ ЗЛОКАЧЕСТВЕННЫМИ НОВООБРАЗОВАНИЯМИ, СОСТОЯЩИХ НА УЧЕТЕ ОНКОЛОГИЧЕСКОГО УЧРЕЖДЕНИЯ (ОРГАНИЗАЦИИ)ЧЕЛОВЕК
 
 <table>
 <tr>
@@ -11600,7 +19833,7 @@ b
 
 графа 16) - сельские жители 1 _______________.
 
-### 2200 СВЕДЕНИЯ ОБ УМЕРШИХ ОТ ЗЛОКАЧЕСТВЕННЫХ НОВООБРАЗОВАНИЙ ЧЕЛОВЕК
+## 2200 СВЕДЕНИЯ ОБ УМЕРШИХ ОТ ЗЛОКАЧЕСТВЕННЫХ НОВООБРАЗОВАНИЙ ЧЕЛОВЕК
 
 <table>
 <tr>
@@ -12092,7 +20325,7 @@ b
 
 *) Исключая кожу половых органов
 
-### 2300 СВЕДЕНИЯ О ЛЕЧЕНИИ БОЛЬНЫХ ЗЛОКАЧЕСТВЕННЫМИ НОВООБРАЗОВАНИЯМИ, ПОДЛЕЖАЩИХ СПЕЦИАЛЬНОМУ ЛЕЧЕНИЮ (II КЛИН.ГРУППА) ЧЕЛОВЕК
+## 2300 СВЕДЕНИЯ О ЛЕЧЕНИИ БОЛЬНЫХ ЗЛОКАЧЕСТВЕННЫМИ НОВООБРАЗОВАНИЯМИ, ПОДЛЕЖАЩИХ СПЕЦИАЛЬНОМУ ЛЕЧЕНИЮ (II КЛИН.ГРУППА) ЧЕЛОВЕК
 
 <table>
 <tr>
@@ -12753,7 +20986,7 @@ b
 </tr>
 </table>
 
-### 2400 РАСПРЕДЕЛЕНИЕ ЗАБОЛЕВАНИЙ ЗЛОКАЧЕСТВЕННЫМИ НОВООБРАЗОВАНИЯМИ ПО ЛОКАЛИЗАЦИИ, ПОЛУ И ВОЗРАСТУ БОЛЬНЫХ
+## 2400 РАСПРЕДЕЛЕНИЕ ЗАБОЛЕВАНИЙ ЗЛОКАЧЕСТВЕННЫМИ НОВООБРАЗОВАНИЯМИ ПО ЛОКАЛИЗАЦИИ, ПОЛУ И ВОЗРАСТУ БОЛЬНЫХ
 
 <table>
 <tr>
@@ -13818,21 +22051,26 @@ b
 </table>
 
 > *Приложение 3*  
-> *Утверждено приказом и.о. Министра*  
-> *здравоохранения Республики Казахстан*  
-> *от 12 сентября 2011 г. № 616*
+> *Утверждено приказом*  
+> *и.о. Министра здравоохранения*  
+> *Республики Казахстан*  
+> *от 12 сентября 2011 года № 616*
 
-Конфиденциальность гарантируется получателем информации
+## Конфиденциальность гарантируется получателем информации
 
-Кем представляется ____________________________________________
+_____________________________________________________________________
 
-(наименование и адрес)
+Кем представляется __________________________________________________
 
-### Форма 8
+наименование и адрес
+
+## Форма 8
 
 годовая
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+> *Сноска. Форма 8 в редакции приказа Министра здравоохранения РК от 28.09.2012 № 663 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
+
+## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан «О здоровье народа и системе здравоохранения»
 
 <table>
 <tr>
@@ -13841,106 +22079,65 @@ b
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
 Представляют:
-1. Противотуберкулезные диспансеры (институты, имеющие
-диспансерные отделения: больницы, самостоятельные
-поликлиники, имеющие кабинеты - главному врачу района
-(города)) - 5 января;
-2. Главный врач района (города) сводные отчеты -
-областной противотуберкулезный диспансер - 10 января;
-3. Областной противотуберкулезный диспансер сводные
-отчеты - в НЦПТ к 20 января;
-4. НЦПТ - в Министерство здравоохранения Республики
-Казахстан к 10 февраля;
-5. Министерство здравоохранения Республики Казахстан -
-Агентство Республики Казахстан по статистике 1 апреля
-</td>
-</tr>
-</table>
 
-### Отчет о больных туберкулезом за 20 ____ год
+1\. Противотуберкулезные диспансеры
 
-### 2000 Распределение впервые выявленных больных активным туберкулезом по полу и возрасту
+(институты, имеющие диспансерные
+
+отделения: больницы, самостоятельные
+
+поликлиники, имеющие кабинеты –
+
+главному врачу района (города)) –
+
+5 января;
+
+2\. Главный врач района (города) сводные
+
+отчеты – областной
+
+противотуберкулезный диспансер –
+
+10 января;
+
+3\. Областной противотуберкулезный
+
+диспансер сводные отчеты – в НЦПТ к
+
+20 января;
+
+4\. НЦПТ – в Министерство
+
+здравоохранения Республики Казахстан
+
+к 10 февраля.
+
+## Отчет о больных туберкулезом за 20____ год
+
+## 2000 Распределение впервые выявленных больных активным туберкулезом по полу и возрасту, месту жительства
 
 <table>
 <tr>
-<td rowspan="2">
-Случаи
-тубер-
-кулеза
-</td>
-<td rowspan="2">
-Шифр
-по МКБ
-Х
-пере-
-смотра
-</td>
-<td rowspan="2">Пол</td>
-<td rowspan="2">
-(№
-стро
--ки)
-</td>
-<td colspan="12">Число больных туберкулезом в возрасте</td>
-<td rowspan="2">
-в.том
-числе
-сель-
-ские
-жители
-</td>
+<th colspan="7">2000 Распределение впервые выявленных больных активным туберкулезом по полу и возрасту</th>
 </tr>
 <tr>
-<td>
-(все
--го)
-</td>
-<td>
-0-
-4
-</td>
-<td>
-5-
-7
-</td>
-<td>
-8-
-14
-</td>
-<td>
-15-
-17
-</td>
-<td>
-18-
-24
-</td>
-<td>
-25-
-34
-</td>
-<td>
-35-
-44
-</td>
-<td>
-45-
-49
-</td>
-<td>
-50-
-54
-</td>
-<td>
-55-
-64
-</td>
-<td>&gt; 65</td>
+<th rowspan="2">Случаи туберкулеза</th>
+<th rowspan="2">
+Шифр по МКБ Х
+пересмотра
+</th>
+<th rowspan="2">Пол</th>
+<th rowspan="2">№ строки</th>
+<th colspan="3">
+Число больных туберкулезом
+в возрасте
+</th>
+</tr>
+<tr>
+<th>Всего</th>
+<th>0-4</th>
+<th>5-7</th>
 </tr>
 <tr>
 <th>А</th>
@@ -13950,6 +22147,322 @@ b
 <th>1</th>
 <th>2</th>
 <th>3</th>
+</tr>
+<tr>
+<td rowspan="2">
+Всего новых случаев
+туберкулеза (ТБ)
+</td>
+<td rowspan="2">A15 - A19</td>
+<td>М</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ж</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Туберкулез легких</td>
+<td rowspan="2">
+A15.0, A15.7,
+A16.0, A16.7,
+A19.0
+</td>
+<td>М</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ж</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+из них с
+бактериовыделением
+</td>
+<td rowspan="2">A15.0, A19.0</td>
+<td>М</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ж</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+из числа больных ТБ
+легких имели фазу
+распада
+</td>
+<td rowspan="2">A15, A16, A19</td>
+<td>М</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ж</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+фиброзно-кавернозный ТБ
+легких
+</td>
+<td rowspan="2">A15,A16.0</td>
+<td>М</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ж</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Милиарный</td>
+<td rowspan="2">
+A19.1, A19.2,
+A19.8, A19.9
+</td>
+<td>М</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ж</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">другие формы легочного ТБ</td>
+<td rowspan="2">
+A15.0, A16.0,
+A19.0
+</td>
+<td>М</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ж</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Внелегочный ТБ</td>
+<td rowspan="2">
+A16, A17.0,
+A18.0, A19.0
+</td>
+<td>М</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ж</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Плевриты</td>
+<td rowspan="2">A15.6, A16.5</td>
+<td>М</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ж</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Мозговых оболочек и
+центральной нервной
+системы (ЦНС)
+</td>
+<td rowspan="2">A17</td>
+<td>М</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ж</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Костей и суставов</td>
+<td rowspan="2">A18.0</td>
+<td>М</td>
+<td>21</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ж</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Мочеполовых органов</td>
+<td rowspan="2">A18.1</td>
+<td>М</td>
+<td>23</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ж</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Внелегочный ТБ других
+органов
+</td>
+<td rowspan="2">A18.2 - A18.8</td>
+<td>М</td>
+<td>25</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ж</td>
+<td>26</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Выявлено больных с
+рецидивом
+</td>
+<td rowspan="2">A15</td>
+<td>М</td>
+<td>27</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ж</td>
+<td>28</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Выявлено больных
+с первичным ТБ
+множественной
+лекарственной
+устойчивости (МЛУ)
+</td>
+<td rowspan="2">A15, A19</td>
+<td>М</td>
+<td>29</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ж</td>
+<td>30</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+продолжение таблицы
+
+<table>
+<tr>
+<th colspan="11">2000 Распределение впервые выявленных больных активным туберкулезом по полу и возрасту</th>
+</tr>
+<tr>
+<th colspan="9">Число больных туберкулезом в возрасте</th>
+<th></th>
+<th rowspan="2">
+в т.ч.
+сельские
+жители
+</th>
+</tr>
+<tr>
+<th>8-14</th>
+<th>15-17</th>
+<th>18-24</th>
+<th>25-29</th>
+<th>30-34</th>
+<th>35-44</th>
+<th>45-49</th>
+<th>50-54</th>
+<th>55-64</th>
+<th>
+старше 65
+лет
+</th>
+</tr>
+<tr>
 <th>4</th>
 <th>5</th>
 <th>6</th>
@@ -13960,24 +22473,9 @@ b
 <th>11</th>
 <th>12</th>
 <th>13</th>
+<th>14</th>
 </tr>
 <tr>
-<td rowspan="2">
-Всего
-новых
-случаев
-тубер-
-кулеза
-(ТБ)
-</td>
-<td rowspan="2">
-А15-
-А19
-</td>
-<td>(М)</td>
-<td>1</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13991,39 +22489,6 @@ b
 <td></td>
 </tr>
 <tr>
-<td>(Ж)</td>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">
-Тубер-
-кулез
-легких
-</td>
-<td rowspan="2">
-А15.0,
-15.7,
-А16.0,
-16.7,
-А19.0
-</td>
-<td>(М)</td>
-<td>3</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14037,37 +22502,6 @@ b
 <td></td>
 </tr>
 <tr>
-<td>(Ж)</td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">
-из них с
-бактери-
-выдел-
-ением
-</td>
-<td rowspan="2">
-А15.0,
-19.0
-</td>
-<td>(М)</td>
-<td>5</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14081,40 +22515,6 @@ b
 <td></td>
 </tr>
 <tr>
-<td>(Ж)</td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">
-из числа
-ТБ
-легких
-имели
-фазу
-распада
-</td>
-<td rowspan="2">
-А15,
-А16,
-А19
-</td>
-<td>(М)</td>
-<td>7</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14128,39 +22528,6 @@ b
 <td></td>
 </tr>
 <tr>
-<td>(Ж)</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">
-фиброзно
--кавер-
-нозный
-тубер-
-кулез
-легких
-</td>
-<td rowspan="2">
-А15.0
-А 16.0
-</td>
-<td>(М)</td>
-<td>9</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14174,35 +22541,6 @@ b
 <td></td>
 </tr>
 <tr>
-<td>(Ж)</td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">
-Милиар-
-ный
-</td>
-<td>
-А19.1,
-19.2
-</td>
-<td>(М)</td>
-<td>11</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14216,42 +22554,6 @@ b
 <td></td>
 </tr>
 <tr>
-<td>
-А19.8,
-19.9
-</td>
-<td>(Ж)</td>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">
-Другие
-формы
-легоч-
-ного ТБ
-</td>
-<td rowspan="2">
-А15.0,
-16.0,
-А19.0
-</td>
-<td>(М)</td>
-<td>13</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14265,38 +22567,6 @@ b
 <td></td>
 </tr>
 <tr>
-<td>(Ж)</td>
-<td>14</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">
-Вне-
-легочный
-ТБ
-</td>
-<td rowspan="2">
-А16,
-А17.0,
-А18.0,
-19.0
-</td>
-<td>(М)</td>
-<td>15</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14310,32 +22580,6 @@ b
 <td></td>
 </tr>
 <tr>
-<td>(Ж)</td>
-<td>16</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">Плевриты</td>
-<td rowspan="2">
-А15.6,
-16,5
-</td>
-<td>(М)</td>
-<td>17</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14349,37 +22593,6 @@ b
 <td></td>
 </tr>
 <tr>
-<td>(Ж)</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">
-Мозговых
-оболочек
-и цент-
-ральной
-нервной
-системы
-(ЦНС)
-</td>
-<td rowspan="2">А17</td>
-<td>(М)</td>
-<td>19</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14393,32 +22606,6 @@ b
 <td></td>
 </tr>
 <tr>
-<td>(Ж)</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">
-Костей и
-суставов
-</td>
-<td rowspan="2">А18.0</td>
-<td>(М)</td>
-<td>21</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14432,33 +22619,6 @@ b
 <td></td>
 </tr>
 <tr>
-<td>(Ж)</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">
-Моче-
-половых
-органов
-</td>
-<td rowspan="2">А18.1</td>
-<td>(М)</td>
-<td>23</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14472,38 +22632,6 @@ b
 <td></td>
 </tr>
 <tr>
-<td>Ж)</td>
-<td>24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">
-Вне-
-легочный
-ТБ
-других
-органов
-</td>
-<td rowspan="2">
-А18.2-
-18.8
-</td>
-<td>(М)</td>
-<td>25</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14517,34 +22645,6 @@ b
 <td></td>
 </tr>
 <tr>
-<td>(Ж)</td>
-<td>26</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">
-Выявлено
-больных
-с реци-
-дивом
-</td>
-<td rowspan="2">А15</td>
-<td>(М)</td>
-<td>27</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14558,45 +22658,6 @@ b
 <td></td>
 </tr>
 <tr>
-<td>(Ж)</td>
-<td>28</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">
-Выявлено
-больных
-с пер-
-вичным
-ТБ
-множест-
-венной
-лекарст-
-венной
-устой-
-чивости
-(МЛУ)
-</td>
-<td rowspan="2">
-А15,
-А19
-</td>
-<td>(М)</td>
-<td>29</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14610,10 +22671,188 @@ b
 <td></td>
 </tr>
 <tr>
-<td>(Ж)</td>
-<td>30</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -14628,41 +22867,82 @@ b
 </tr>
 </table>
 
-### 2100 Контингенты больных, состоящие под наблюдением данного лечебно-профилактического учреждения
+## 2100 Контингенты больных, состоящие под наблюдением данного лечебно-профилактического учреждения
 
 <table>
 <tr>
-<td rowspan="3">
-форма и
-локализация
-туберкулеза
-(ТБ)
-</td>
-<td rowspan="3">
+<th rowspan="3">
+форма и локализация
+туберкулеза (ТБ)
+</th>
+<th rowspan="3">
 №
 строки
-</td>
-<td rowspan="3">
-Шифр по
-МКБ Х
+</th>
+<th rowspan="3">
+Шифр по МКБ Х
 пересмотра
-</td>
-<td colspan="4">взято на учет больных ТБ</td>
-<td colspan="4">контингент на конец года</td>
+</th>
+<th colspan="4">
+взято на учет
+больных ТБ
+</th>
+<th colspan="4">
+контингент на конец
+года
+</th>
 </tr>
 <tr>
-<td colspan="2">Всего</td>
-<td rowspan="2">Подростоки</td>
-<td rowspan="2">Дети</td>
-<td colspan="2">Всего</td>
-<td rowspan="2">Подростки</td>
-<td rowspan="2">Дети</td>
+<th colspan="2">Всего</th>
+<th rowspan="2">
+Под-
+ростки
+</th>
+<th rowspan="2">
+Д
+е
+т
+и
+</th>
+<th colspan="2">Всего</th>
+<th rowspan="2">
+Под-
+ростки
+</th>
+<th rowspan="2">
+Д
+е
+т
+и
+</th>
 </tr>
 <tr>
-<td>Всего</td>
-<td>Село</td>
-<td>Всего</td>
-<td>Село</td>
+<th>
+В
+с
+е
+г
+о
+</th>
+<th>
+С
+е
+л
+о
+</th>
+<th>
+В
+с
+е
+г
+о
+</th>
+<th>
+С
+е
+л
+о
+</th>
 </tr>
 <tr>
 <th>А</th>
@@ -14679,16 +22959,12 @@ b
 </tr>
 <tr>
 <td>
-Всего
-легочных
-форм
-тубер-
-кулеза
+Всего легочных форм
+туберкулеза
 </td>
 <td>1</td>
 <td>
-А15.0,
-А16.0,
+А15.0, А16.0,
 А 19.0
 </td>
 <td></td>
@@ -14702,17 +22978,11 @@ b
 </tr>
 <tr>
 <td>
-В том числе
-первичный
-тубер-
-кулезный
-комплекс
+В том числе первичный
+туберкулезный комплекс
 </td>
 <td>2</td>
-<td>
-А15.7,
-А16.7
-</td>
+<td>А15.7, А16.7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -14725,10 +22995,7 @@ b
 <tr>
 <td>Очаговый</td>
 <td>3</td>
-<td>
-А15.0,
-А16.0
-</td>
+<td>А15.0, А16.0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -14739,15 +23006,9 @@ b
 <td></td>
 </tr>
 <tr>
-<td>
-Инфиль-
-тративный
-</td>
+<td>Инфильтративный</td>
 <td>4</td>
-<td>
-А15.0,
-А16.0
-</td>
+<td>А15.0, А16.0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -14758,10 +23019,7 @@ b
 <td></td>
 </tr>
 <tr>
-<td>
-Диссеми-
-нированный
-</td>
+<td>Диссеминированный</td>
 <td>5</td>
 <td>А19.0</td>
 <td></td>
@@ -14774,15 +23032,9 @@ b
 <td></td>
 </tr>
 <tr>
-<td>
-Фиброзно-
-кавернозный
-</td>
+<td>Фиброзно-кавернозный</td>
 <td>6</td>
-<td>
-А15.0,
-А16.0
-</td>
+<td>А15.0, А16.0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -14793,15 +23045,9 @@ b
 <td></td>
 </tr>
 <tr>
-<td>
-Казеозная
-пневмония
-</td>
+<td>Казеозная пневмония</td>
 <td>7</td>
-<td>
-А15.0,
-А16.0
-</td>
+<td>А15.0, А16.0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -14815,10 +23061,8 @@ b
 <td>Милиарный</td>
 <td>8</td>
 <td>
-А19.1,
-А19.2,
-А19.8,
-А19.9
+А19.1, А19.2,
+А19.8, А19.9
 </td>
 <td></td>
 <td></td>
@@ -14830,15 +23074,9 @@ b
 <td></td>
 </tr>
 <tr>
-<td>
-Другие
-леночные
-</td>
+<td>Другие леночные</td>
 <td>9</td>
-<td>
-А15.0,
-А16.0
-</td>
+<td>А15.0, А16.0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -14850,12 +23088,9 @@ b
 </tr>
 <tr>
 <td>
-Из общего
-числа
-больных ТБ
-легких
-имели фазу
-распада
+Из общего числа
+больных ТБ легких
+имели фазу распада
 </td>
 <td>10</td>
 <td></td>
@@ -14870,16 +23105,12 @@ b
 </tr>
 <tr>
 <td>
-Всего вне-
-легочных
-форм
-тубер-
-кулеза
+Всего внелегочных
+форм туберкулеза
 </td>
 <td>11</td>
 <td>
-А16,
-А17.0,
+А16, А17.0,
 А19.0
 </td>
 <td></td>
@@ -14893,17 +23124,12 @@ b
 </tr>
 <tr>
 <td>
-В том числе
-туберкулез
-вну-
-тригрудных
+В том числе туберкулез
+внутригрудных
 лимфоузлов
 </td>
 <td>12</td>
-<td>
-А15.4,
-А16.3
-</td>
+<td>А15.4, А16.3</td>
 <td></td>
 <td></td>
 <td></td>
@@ -14928,19 +23154,14 @@ b
 </tr>
 <tr>
 <td>
-Мозговых
-оболочек и
-центральной
-нервной
-системы
-(ЦНС)
+Мозговых оболочек и
+центральной нервной
+системы (ЦНС)
 </td>
 <td>14</td>
 <td>
-А17.0,
-А17.1,
-А17.8,
-А17.9
+А17.0, А17.1,
+А17.8, А17.9
 </td>
 <td></td>
 <td></td>
@@ -14952,10 +23173,7 @@ b
 <td></td>
 </tr>
 <tr>
-<td>
-Костей и
-суставов
-</td>
+<td>Костей и суставов</td>
 <td>15</td>
 <td>А18.0</td>
 <td></td>
@@ -14968,10 +23186,7 @@ b
 <td></td>
 </tr>
 <tr>
-<td>
-Мочеполовых
-органов
-</td>
+<td>Мочеполовых органов</td>
 <td>16</td>
 <td>А18.1</td>
 <td></td>
@@ -14985,8 +23200,7 @@ b
 </tr>
 <tr>
 <td>
-Пери-
-феричкских
+Периферичкских
 лимфоузлов
 </td>
 <td>17</td>
@@ -15001,10 +23215,7 @@ b
 <td></td>
 </tr>
 <tr>
-<td>
-Другие
-внелегочные
-</td>
+<td>Другие внелегочные</td>
 <td>18</td>
 <td>А18</td>
 <td></td>
@@ -15017,11 +23228,7 @@ b
 <td></td>
 </tr>
 <tr>
-<td>
-Больных
-категории
-IV
-</td>
+<td>Больных категории IV</td>
 <td>19</td>
 <td></td>
 <td></td>
@@ -15035,14 +23242,10 @@ IV
 </tr>
 <tr>
 <td>
-В том числе
-с множест-
-венной
-лекарст-
-венной
-устойчи-
-востью
-(МЛУ)
+В том числе с
+множественной
+лекарственной
+устойчивостью (МЛУ)
 </td>
 <td>20</td>
 <td></td>
@@ -15056,16 +23259,11 @@ IV
 <td></td>
 </tr>
 <tr>
-<td>
-Итого
-активных
-форм ТБ
-</td>
+<td>Итого активных форм ТБ</td>
 <td>21</td>
 <td>
 А15, А16,
-А17,А18,
-А19
+А17, А18, А19
 </td>
 <td></td>
 <td></td>
@@ -15077,10 +23275,7 @@ IV
 <td></td>
 </tr>
 <tr>
-<td>
-Неактивные
-формы ТБ
-</td>
+<td>Неактивные формы ТБ</td>
 <td>22</td>
 <td></td>
 <td></td>
@@ -15119,11 +23314,7 @@ IV
 <td></td>
 </tr>
 <tr>
-<td>
-Побочные
-реакции на
-БЦЖ
-</td>
+<td>Побочные реакции на БЦЖ</td>
 <td>25</td>
 <td></td>
 <td></td>
@@ -15137,7 +23328,7 @@ IV
 </tr>
 </table>
 
-### 2200 Движение контингента больных
+## 2200 Движение контингента больных
 
 <table>
 <tr>
@@ -15159,8 +23350,8 @@ IV
 </tr>
 <tr>
 <td>
-Состояло больных активной формой
-ТБ на начало года
+Состояло больных активной
+формой ТБ на начало года
 </td>
 <td>1</td>
 <td></td>
@@ -15179,8 +23370,8 @@ IV
 </tr>
 <tr>
 <td>
-в т.ч. туберкулез легких всего
-(БК+ и БК-)
+в т.ч. туберкулез легких
+всего (БК+ и БК-)
 </td>
 <td>3</td>
 <td></td>
@@ -15196,8 +23387,8 @@ IV
 </tr>
 <tr>
 <td>
-В т.ч. туберкулез у больных IV
-категории
+В т.ч. туберкулез у
+больных IV категории
 </td>
 <td>5</td>
 <td></td>
@@ -15206,8 +23397,9 @@ IV
 </tr>
 <tr>
 <td>
-Переведено больных активным ТБ из
-других учреждений
+Переведено больных
+активным ТБ из других
+учреждений
 </td>
 <td>6</td>
 <td></td>
@@ -15216,8 +23408,9 @@ IV
 </tr>
 <tr>
 <td>
-Переведено больных активным ТБ в
-другие учреждения
+Переведено больных
+активным ТБ в другие
+учреждения
 </td>
 <td>7</td>
 <td></td>
@@ -15226,8 +23419,9 @@ IV
 </tr>
 <tr>
 <td>
-Переведено больных из активной
-группы в неактивную
+Переведено больных из
+активной группы в
+неактивную
 </td>
 <td>8</td>
 <td></td>
@@ -15236,8 +23430,9 @@ IV
 </tr>
 <tr>
 <td>
-Выбыло в связи с изменением
-диагноза на нетуберкулезный
+Выбыло в связи с
+изменением диагноза на
+нетуберкулезный
 </td>
 <td>9</td>
 <td></td>
@@ -15246,8 +23441,8 @@ IV
 </tr>
 <tr>
 <td>
-Выбыло в связи с отрывом от
-диспансеризации
+Выбыло в связи с отрывом
+от диспансеризации
 </td>
 <td>10</td>
 <td></td>
@@ -15256,8 +23451,9 @@ IV
 </tr>
 <tr>
 <td>
-Взято на учет активных больных
-снятых ранее в связи с отрывом
+Взято на учет активных
+больных снятых ранее в
+связи с отрывом
 </td>
 <td>11</td>
 <td></td>
@@ -15266,8 +23462,8 @@ IV
 </tr>
 <tr>
 <td>
-Умерло от активных форм ТБ всего,
-в т.ч.:
+Умерло от активных форм
+ТБ всего, в т.ч.:
 </td>
 <td>12</td>
 <td></td>
@@ -15283,8 +23479,9 @@ IV
 </tr>
 <tr>
 <td>
-из общего числа умерших от ТБ (из
-строки 12) в стационаре
+из общего числа умерших
+от ТБ (из строки 12) в
+стационаре
 </td>
 <td>14</td>
 <td></td>
@@ -15293,9 +23490,10 @@ IV
 </tr>
 <tr>
 <td>
-из общего числа умерших от ТБ (из
-строки 12) умерло больных с
-новыми случаями
+из общего числа умерших
+от ТБ (из строки 12)
+умерло больных с новыми
+случаями
 </td>
 <td>15</td>
 <td></td>
@@ -15303,7 +23501,10 @@ IV
 <td></td>
 </tr>
 <tr>
-<td>Умерло больных ТБ от других причин</td>
+<td>
+Умерло больных ТБ от
+других причин
+</td>
 <td>16</td>
 <td></td>
 <td></td>
@@ -15311,8 +23512,8 @@ IV
 </tr>
 <tr>
 <td>
-Умерло больных ТБ, не состоящих
-на учете
+Умерло больных ТБ, не
+состоящих на учете
 </td>
 <td>17</td>
 <td></td>
@@ -15321,8 +23522,8 @@ IV
 </tr>
 <tr>
 <td>
-Состоит больных активной формой
-ТБ на конец года
+Состоит больных активной
+формой ТБ на конец года
 </td>
 <td>18</td>
 <td></td>
@@ -15338,7 +23539,7 @@ IV
 </tr>
 </table>
 
-2110 Выявление новых случаев туберкулеза
+## 2210 Выявление новых случаев туберкулеза
 
 <table>
 <tr>
@@ -15383,26 +23584,27 @@ IV
 </tr>
 </table>
 
-### 2220 Охват лечением
+## 2220 Охват лечением
 
 <table>
 <tr>
-<td rowspan="2">Наименование</td>
-<td rowspan="2">№ строки</td>
-<td colspan="2">
-Госпитализировано в отчетном году
-больных активным ТБ
-</td>
+<th rowspan="2">Наименование</th>
+<th rowspan="2">№ строки</th>
+<th colspan="2">
+Госпитализировано в
+отчетном году больных
+активным ТБ
+</th>
 </tr>
 <tr>
-<td>в больницы</td>
-<td>в санатории</td>
+<th>в больницы</th>
+<th>в санатории</th>
 </tr>
 <tr>
-<td>A</td>
-<td>Б</td>
-<td>1</td>
-<td>2</td>
+<th>A</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
 </tr>
 <tr>
 <td>Всего</td>
@@ -15411,7 +23613,10 @@ IV
 <td></td>
 </tr>
 <tr>
-<td>в том числе взрослые и подростки</td>
+<td>
+в том числе взрослые и
+подростки
+</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -15459,13 +23664,7 @@ IV
 </tr>
 </table>
 
-2221\. Из числа больных с установленным диагнозом новых случаев ТБ в
-
-отчетном году не было госпитализировано: всего 1 ______, в том числе
-
-детей 2 ______
-
-## 2300 Число больных туберкулезом, оперированных в отчетном году
+## 2221. Из числа больных с установленным диагнозом новых случаев ТБ в отчетном году не было госпитализировано: всего 1______, в том числе детей 2 ______ 2300 Число больных туберкулезом, оперированных в отчетном году
 
 <table>
 <tr>
@@ -15523,10 +23722,7 @@ IV
 <table>
 <tr>
 <td>Наименование</td>
-<td>
-№
-строки
-</td>
+<td>№ строки</td>
 <td>Всего</td>
 <td>
 Санаторная
@@ -15538,7 +23734,8 @@ IV
 </td>
 <td>
 Санаторная
-школаинтернат
+школа
+интернат
 </td>
 <td>
 ТБ
@@ -15612,9 +23809,8 @@ IV
 </tr>
 <tr>
 <td>
-Обнаружено бацилловыделителей
-з числа больных с: новыми
-случаями
+Обнаружено бацилловыделителей из
+числа больных с: новыми случаями
 </td>
 <td>1</td>
 <td></td>
@@ -15636,7 +23832,7 @@ IV
 <td>
 из числа больных, состоящих на
 учете с закрытой формой ТБ
-(I гр.ДУ)
+(I гр. ДУ)
 </td>
 <td>3</td>
 <td></td>
@@ -15658,10 +23854,7 @@ IV
 <td></td>
 </tr>
 <tr>
-<td>
-Переведено из других
-учреждений
-</td>
+<td>Переведено из других учреждений</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -15716,8 +23909,8 @@ IV
 </tr>
 <tr>
 <td>
-Состоит бацилловыделителей на
-конец года
+Состоит бацилловыделителей на конец
+года
 </td>
 <td>11</td>
 <td></td>
@@ -15728,8 +23921,8 @@ IV
 </tr>
 <tr>
 <td>
-Из них в течении года помещено
-в больницы
+Из них в течении года помещено в
+больницы
 </td>
 <td>12</td>
 <td></td>
@@ -15740,7 +23933,7 @@ IV
 </tr>
 </table>
 
-2600 III группа диспансерного учета
+## 2600 III группа диспансерного учета
 
 <table>
 <tr>
@@ -15755,21 +23948,43 @@ IV
 активным
 ТБ
 </td>
-<td colspan="3">
-Состоит на учете на
-конец года
-</td>
+<td colspan="3">Состоит на учете на конец года</td>
 </tr>
 <tr>
-<td>Всего</td>
-<td>Подростки</td>
-<td>Дети</td>
-<td>Всего</td>
 <td>
-Подро
--стки
+В
+с
+е
+г
+о
 </td>
-<td>Дети</td>
+<td>
+Под-
+ростки
+</td>
+<td>
+Д
+е
+т
+и
+</td>
+<td>
+В
+с
+е
+г
+о
+</td>
+<td>
+Под-
+ростки
+</td>
+<td>
+Д
+е
+т
+и
+</td>
 </tr>
 <tr>
 <th>А</th>
@@ -15805,10 +24020,7 @@ IV
 <td></td>
 </tr>
 <tr>
-<td>
-Всего контактных с
-ТБМЛУ
-</td>
+<td>Всего контактных с ТБМЛУ</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -15830,10 +24042,7 @@ IV
 <td></td>
 </tr>
 <tr>
-<td>
-из них проведена
-химиопрофилактика
-</td>
+<td>из них проведена химиопрофилактика</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -15844,10 +24053,7 @@ IV
 <td></td>
 </tr>
 <tr>
-<td>
-Лица с гиперерической
-реакцией
-</td>
+<td>Лица с гиперерической реакцией</td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -15858,10 +24064,7 @@ IV
 <td></td>
 </tr>
 <tr>
-<td>
-из них проведена
-химиопрофилактика
-</td>
+<td>из них проведена химиопрофилактика</td>
 <td>7</td>
 <td></td>
 <td></td>
@@ -15872,10 +24075,7 @@ IV
 <td></td>
 </tr>
 <tr>
-<td>
-Лица с побочными
-реакциями БЦЖ
-</td>
+<td>Лица с побочными реакциями БЦЖ</td>
 <td>8</td>
 <td></td>
 <td></td>
@@ -15886,10 +24086,7 @@ IV
 <td></td>
 </tr>
 <tr>
-<td>
-из них проведена
-химиопрофилактика
-</td>
+<td>из них проведена химиопрофилактика</td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -15916,9 +24113,9 @@ IV
 </tr>
 <tr>
 <td>
-Новые больные ТБ легких,
-диагностированные в предыдущем году,
-имели в начале лечения полость распада
+Новые больные ТБ легких, диагностированные
+в предыдущем году, имели в начале лечения
+полость распада
 </td>
 <td>1</td>
 <td></td>
@@ -15931,9 +24128,6 @@ IV
 <td>2</td>
 <td></td>
 </tr>
-<tr>
-<td colspan="3"></td>
-</tr>
 </table>
 
 Примечание:
@@ -15944,34 +24138,35 @@ IV
 
 Районные противотуберкулезные диспансеры и районные больницы, имеющие в штатах врачей-фтизиатров, заполняют все таблицы отчета.
 
-<table>
-<tr>
-<td>Руководитель _________</td>
-<td>
-Руководитель _________
-Исполнитель ______,
-телефон _________
-</td>
-<td>Дата &quot;__&quot; ___ 20 _года</td>
-</tr>
-</table>
+Руководитель ___________________________
+
+Исполнитель ____________, телефон ______ Дата "__"______ 20__ года
 
 > *Приложение 3*  
-> *Утверждено приказом и.о. Министра*  
-> *здравоохранения Республики Казахстан*  
-> *от 12 сентября 2011 г. № 616*
+> *Утверждено приказом*  
+> *и.о. Министра здравоохранения*  
+> *Республики Казахстан*  
+> *от 12 сентября 2011 года № 616*
 
-Конфиденциальность гарантируется получателем информации
+## Конфиденциальность гарантируется получателем информации
 
-Кем представляется _________________________________________________
+_____________________________________________________________________
 
-(наименование, адрес)
+Кем представляется __________________________________________________
+
+наименование, адрес
+
+## Форма, предназначенная для сбора административных данных
+
+Информация представляется в соответствии с Кодексом Республики
+
+Казахстан "О здоровье народа и системе здравоохранения"
 
 ## Форма 9
 
 годовая
 
-## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+> *Сноска. Форма 9 в редакции приказа Министра здравоохранения РК от 28.09.2012 № 663 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -15980,82 +24175,65 @@ IV
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
 Представляют:
-1. Кожно-венерологические диспансеры, больницы,
-поликлиники, имеющие кожно-венерологические отделения,
-кабинеты, женские консультации, независимо от наличия
-кабинетов главному врачу района, города - 5 января;
-2. Главные врачи района (города), поликлиники имеющие
-кожвенкабиненты кожвенслужба других министерств,
-ведомств, и всех форм собственности - областному
-кожвендиспансеру 10 января;
-3. Областной, городской кожвендиспансер -
-территориальное управление статистики 20 января и в
-НИКВИ - 25 января, следующего за отчетным годом;
-4. НИКВИ - Минздрав РК 10 февраля;
-5. Минздрав РК - в Агентство РК по статистике 1 апреля.
-</td>
-</tr>
-</table>
 
-## ОТЧЕТ ОБ ИНФЕКЦИЯХ, ПЕРЕДАЮЩИХСЯ ПРЕИМУЩЕСТВЕННО ПОЛОВЫМ ПУТЕМ И КОЖНЫХ ЗАБОЛЕВАНИЯХ 20 _____ год
+1\. Кожно-венерологические диспансеры,
 
-РАСПРЕДЕЛЕНИЕ БОЛЬНЫХ ПО ПОЛУ И ВОЗРАСТУ
+больницы, поликлиники, имеющие кожно-
 
-1000 случаи
+венерологические отделения, кабинеты,
+
+женские консультации, независимо от
+
+наличия кабинетов главному врачу района,
+
+города - 5 января;
+
+2\. Главные врачи района (города),
+
+поликлиники, имеющие кожвенкабинеты,
+
+кожвенслужба других министерств, ведомств
+
+и всех форм собственности - областному
+
+кожвендиспансеру - 10 января;
+
+3\. Областной, городской кожвендиспансер в
+
+НИКВИ - 25 января;
+
+4\. НИКВИ - Минздрав РК к 10 февраля.
+
+## Отчет об инфекциях, передающихся преимущественно половым путем и кожных заболеваниях 20 ___ год
 
 <table>
 <tr>
-<td rowspan="3">Наименование</td>
-<td rowspan="3">
-Шифр по МКБ
-Х пересмотра
-</td>
-<td rowspan="3">Пол</td>
-<td rowspan="3">
+<th colspan="10">1000 РАСПРЕДЕЛЕНИЕ БОЛЬНЫХ ПО ПОЛУ И ВОЗРАСТУ</th>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td rowspan="2">Пол</td>
+<td rowspan="2">
 №
 строки
 </td>
-<td colspan="6">
-Число больных с впервые в жизни установленным
-Диагнозом
-</td>
-</tr>
-<tr>
-<td colspan="5">в том числе в возрасте</td>
 <td rowspan="2">
-Из общего
-числа больные,
-проживающие в
-сельской
-местности
+Шифр по МКБ
+Х-пересмотра
+</td>
+<td rowspan="2">Всего</td>
+<td colspan="5">
+в том числе у больных в
+возрасте, лет
 </td>
 </tr>
 <tr>
-<td>
-Все
--го
-</td>
-<td>
-0-14
-лет
-</td>
-<td>
-15-17
-лет
-</td>
-<td>
-18-44
-лет
-</td>
-<td>
-45 лет и
-старше
-</td>
+<td>0-4</td>
+<td>5-9</td>
+<td>10-14</td>
+<td>15-17</td>
+<td>18-19</td>
 </tr>
 <tr>
 <th>А</th>
@@ -16070,13 +24248,10 @@ IV
 <th>6</th>
 </tr>
 <tr>
-<td rowspan="2">
-Сифилис, все
-формы
-</td>
-<td rowspan="2">А 50-А 53</td>
+<td rowspan="2">Сифилис, все формы</td>
 <td>м</td>
 <td>01</td>
+<td>А50-А53</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16093,15 +24268,13 @@ IV
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="2">
-в том числе:
-врожденный
-</td>
-<td rowspan="2">А 50.0-A50.9</td>
+<td>в том числе:</td>
 <td>м</td>
 <td>03</td>
+<td>А50.0-A50.9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16110,6 +24283,7 @@ IV
 <td></td>
 </tr>
 <tr>
+<td>врожденный</td>
 <td>ж</td>
 <td>04</td>
 <td></td>
@@ -16118,18 +24292,13 @@ IV
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="2">
-Ранний:
-первичный
-</td>
-<td rowspan="2">
-А 51.0 –
-A51.2
-</td>
+<td rowspan="2">Ранний: первичный</td>
 <td>м</td>
 <td>05</td>
+<td>А51.0-A51.2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16146,15 +24315,13 @@ A51.2
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td rowspan="2">вторичный</td>
-<td rowspan="2">
-А 51.3 –
-A51.4
-</td>
 <td>м</td>
 <td>07</td>
+<td>А51.3-A 51.4</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16171,12 +24338,13 @@ A51.4
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td rowspan="2">скрытый</td>
-<td rowspan="2">А 51. 5</td>
 <td>м</td>
 <td>09</td>
+<td>А51.5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16193,12 +24361,13 @@ A51.4
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td rowspan="2">неуточненный</td>
-<td rowspan="2">А 51. 9</td>
 <td>м</td>
 <td>11</td>
+<td>А51.9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16215,17 +24384,16 @@ A51.4
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td rowspan="2">
-Поздний:
-сердечно-
-сосудистой
-системы
+Поздний: сердечно-
+сосудистой системы
 </td>
-<td rowspan="2">А 52. 0</td>
 <td>м</td>
 <td>13</td>
+<td>А52.0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16242,15 +24410,13 @@ A51.4
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td rowspan="2">нейросифилис</td>
-<td rowspan="2">
-А 52.1 –
-A52.3
-</td>
 <td>м</td>
 <td>15</td>
+<td>А52.1-A52.3</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16267,17 +24433,16 @@ A52.3
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td rowspan="2">
-другие
-симптомы
-позднего
-сифилиса
+другие симптомы
+позднего сифилиса
 </td>
-<td rowspan="2">А 52. 7</td>
 <td>м</td>
 <td>17</td>
+<td>А52.7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16294,18 +24459,16 @@ A52.3
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="29">
+<td rowspan="2">
 скрытый и
 неуточненный
 </td>
-<td rowspan="29">
-А 52.8 –
-A52.9
-</td>
 <td>м</td>
 <td>19</td>
+<td>А52.8-A52.9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16322,20 +24485,17 @@ A52.9
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>В</td>
-<td>Г</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
+<td rowspan="2">
+Другие и
+неуточненные формы
+сифилиса
+</td>
 <td>м</td>
 <td>21</td>
+<td>А53</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16352,10 +24512,16 @@ A52.9
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td rowspan="2">
+Гонококковая
+инфекция
+</td>
 <td>м</td>
 <td>23</td>
+<td>A54.0-A54.2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16372,10 +24538,13 @@ A52.9
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td rowspan="2">в т.ч.хроническая</td>
 <td>м</td>
 <td>25</td>
+<td>А54.4-54.9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16392,10 +24561,16 @@ A52.9
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td rowspan="2">
+Урогенитальная
+хламидийная инфекция
+</td>
 <td>м</td>
 <td>27</td>
+<td>А56.0-A56.8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16412,10 +24587,13 @@ A52.9
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td rowspan="2">Трихомониаз</td>
 <td>м</td>
 <td>29</td>
+<td>А59.0-A59.9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16432,10 +24610,478 @@ A52.9
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+продолжение таблицы
+
+<table>
+<tr>
+<th colspan="10">1000 РАСПРЕДЕЛЕНИЕ БОЛЬНЫХ ПО ПОЛУ И ВОЗРАСТУ</th>
+</tr>
+<tr>
+<td colspan="10">в том числе у больных в возрасте, лет</td>
+</tr>
+<tr>
+<td>20-24</td>
+<td>25-29</td>
+<td>30-34</td>
+<td>35-39</td>
+<td>40-44</td>
+<td>45-49</td>
+<td>50-54</td>
+<td>55-59</td>
+<td>60 и старше</td>
+<td>
+из общего числа
+больные,
+проживающие в
+сельской
+местности
+</td>
+</tr>
+<tr>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="2"></td>
+<td rowspan="2">Пол</td>
+<td rowspan="2">№ строки</td>
+<td rowspan="2">
+Шифр по МКБ
+Х-пересмотра
+</td>
+<td rowspan="2">Всего</td>
+<td colspan="5">
+в том числе у больных в возрасте,
+лет
+</td>
+</tr>
+<tr>
+<td>0-4</td>
+<td>5-9</td>
+<td>10-14</td>
+<td>15-17</td>
+<td>18-19</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>В</th>
+<th>Г</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td rowspan="2">
+Урогенитальная уреа
+и микоплазменная
+инфекция
+</td>
 <td>м</td>
 <td>31</td>
+<td rowspan="2">А49.3</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16454,8 +25100,13 @@ A52.9
 <td></td>
 </tr>
 <tr>
+<td rowspan="2">Трихофития</td>
 <td>м</td>
 <td>33</td>
+<td rowspan="2">
+B35.0-B35.2
+B35.4-B35.9
+</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16474,8 +25125,13 @@ A52.9
 <td></td>
 </tr>
 <tr>
+<td rowspan="2">Микроспория</td>
 <td>м</td>
 <td>35</td>
+<td rowspan="2">
+B35.0-B35.2
+B35.4-B35.9
+</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16494,8 +25150,10 @@ A52.9
 <td></td>
 </tr>
 <tr>
+<td rowspan="2">Псориаз</td>
 <td>м</td>
 <td>37</td>
+<td rowspan="2">L40.0 -L40.9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16514,8 +25172,13 @@ A52.9
 <td></td>
 </tr>
 <tr>
+<td rowspan="2">
+Красный плоский
+лишай
+</td>
 <td>м</td>
 <td>39</td>
+<td rowspan="2">L43.0 -L43.9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16534,8 +25197,13 @@ A52.9
 <td></td>
 </tr>
 <tr>
+<td rowspan="2">Экзема</td>
 <td>м</td>
 <td>41</td>
+<td rowspan="2">
+L30.0,L30.2,
+L30.3,L30.9
+</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16554,8 +25222,10 @@ A52.9
 <td></td>
 </tr>
 <tr>
+<td rowspan="2">Пузырчатка</td>
 <td>м</td>
 <td>43</td>
+<td rowspan="2">L10.0 -L10.9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16574,8 +25244,13 @@ A52.9
 <td></td>
 </tr>
 <tr>
+<td rowspan="2">
+Аллергические
+васкулиты
+</td>
 <td>м</td>
 <td>45</td>
+<td rowspan="2">L95.0 -L95.9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16594,10 +25269,10 @@ A52.9
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">Лимфомы</td>
-<td rowspan="2">С84.0-C84.5, Д 76</td>
+<td rowspan="2">Лимфоны</td>
 <td>м</td>
 <td>47</td>
+<td rowspan="2">C84.0-C84.5 D76</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16617,13 +25292,15 @@ A52.9
 </tr>
 <tr>
 <td rowspan="2">Коллагенозы</td>
-<td rowspan="2">
-М32.0,M32.8,
-M32.9 М35.8,M35.9,
-L93.0-L93.2, L94.0,L94.1
-</td>
 <td>м</td>
 <td>49</td>
+<td rowspan="2">
+М32.0,М32.8
+М32.9 М35.8
+М35.9
+L93.0,L93.2
+L94.0,L94.2
+</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16643,12 +25320,12 @@ L93.0-L93.2, L94.0,L94.1
 </tr>
 <tr>
 <td rowspan="2">Ихтиозы</td>
-<td rowspan="2">
-L85.0-L85.9,
-Q80.0-Q80.9
-</td>
 <td>м</td>
 <td>51</td>
+<td rowspan="2">
+L85.0-L85.9
+Q80.0-Q80.9
+</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16666,358 +25343,656 @@ Q80.0-Q80.9
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td rowspan="2">Атопический дерматит</td>
+<td>м</td>
+<td>53</td>
+<td rowspan="2">L20.0-L20.9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>54</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Витилиго</td>
+<td>м</td>
+<td>55</td>
+<td rowspan="2">L80</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>56</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
 
-Контингенты больных данной организации
-
-2100 человек
+продолжение таблицы
 
 <table>
 <tr>
-<td rowspan="2">
-Наименование
-болезней
-</td>
-<td rowspan="2">
-Шифр по МКБ
-Х пересмотра
-</td>
-<td rowspan="2">Пол</td>
-<td rowspan="2">
-№
-строки
-</td>
-<td colspan="2">Вновь взято на учет в отчетном году</td>
+<td colspan="10">в том числе у больных в возрасте, лет</td>
 </tr>
 <tr>
+<td>20-24</td>
+<td>25-29</td>
+<td>30-34</td>
+<td>35-39</td>
+<td>40-44</td>
+<td>45-49</td>
+<td>50-54</td>
+<td>55-59</td>
+<td>60 и старше</td>
 <td>
-с впервые в жизни
-установленным
-диагнозом
+из общего числа
+больные,
+проживающие
+в сельской
+местности
 </td>
+</tr>
+<tr>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+## 2100 Контингенты больных данной организации
+
+<table>
+<tr>
+<td>Наименование болезней</td>
 <td>
-ранее состоявших
-на учете данной или
-других организаций
+Шифр по МКБ Х
+пересмотра
 </td>
+<td>Пол</td>
+<td>№ строки</td>
 </tr>
 <tr>
 <td>А</td>
 <td>Б</td>
 <td>В</td>
 <td>Г</td>
-<td>1</td>
-<td>2</td>
 </tr>
 <tr>
 <td rowspan="2">Сифилис, все формы</td>
-<td rowspan="2">А 50-А 53</td>
-<td>м</td>
+<td rowspan="2">А50-А53</td>
+<td>М</td>
 <td>01</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>Ж</td>
 <td>02</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td rowspan="2">в т ч. врожденный</td>
-<td rowspan="2">А50.0-A50.9</td>
-<td>м</td>
+<td>в том числе:</td>
+<td rowspan="2">А50.0 - 9</td>
+<td>М</td>
 <td>03</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>врожденный</td>
+<td>Ж</td>
 <td>04</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="2">Ранний: первичный</td>
-<td rowspan="2">А51.0 –A51.2</td>
-<td>м</td>
+<td rowspan="2">А51.0 - 2</td>
+<td>М</td>
 <td>05</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>Ж</td>
 <td>06</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td rowspan="2">Вторичный</td>
-<td rowspan="2">А 51.3, A51.4</td>
-<td>м</td>
+<td rowspan="2">вторичный</td>
+<td rowspan="2">А51.3,4</td>
+<td>М</td>
 <td>07</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>Ж</td>
 <td>08</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td rowspan="2">Скрытый</td>
-<td rowspan="2">А 51.5</td>
-<td>м</td>
+<td rowspan="2">скрытый</td>
+<td rowspan="2">А51.5</td>
+<td>М</td>
 <td>09</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>Ж</td>
 <td>10</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td rowspan="2">Неуточненный</td>
-<td rowspan="2">А 51. 9</td>
-<td>м</td>
+<td rowspan="2">неуточненный</td>
+<td rowspan="2">А51.9</td>
+<td>М</td>
 <td>11</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>Ж</td>
 <td>12</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="2">
-Поздний:
-сердечно-сосудистой
+Поздний: сердечно-сосудистой
 системы
 </td>
-<td rowspan="2">А 52. 0</td>
-<td>м</td>
+<td rowspan="2">А52.0</td>
+<td>М</td>
 <td>13</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>Ж</td>
 <td>14</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td rowspan="2">Нейросифилис</td>
-<td rowspan="2">А 52.1 –A51.3</td>
-<td>м</td>
+<td rowspan="2">нейросифилис</td>
+<td rowspan="2">А52.1 - 3</td>
+<td>М</td>
 <td>15</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>Ж</td>
 <td>16</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td rowspan="2">
-другие симптомы
-позднего сифилиса
-</td>
-<td rowspan="2">А 52. 7</td>
-<td>м</td>
+<td rowspan="2">другие симптомы позднего сифилиса</td>
+<td rowspan="2">А52.7</td>
+<td>М</td>
 <td>17</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>Ж</td>
 <td>18</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td rowspan="2">
-скрытый и
-неуточненный
-</td>
-<td rowspan="2">А 52.8,A52. 9</td>
-<td>м</td>
+<td rowspan="2">скрытый и неуточненный</td>
+<td rowspan="2">А52.8</td>
+<td>М</td>
 <td>19</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>Ж</td>
 <td>20</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="2">
-Другие и
-неуточненные формы
+Другие и неуточненные формы
 сифилиса
 </td>
-<td rowspan="2">А 53</td>
-<td>м</td>
+<td rowspan="2">А53</td>
+<td>М</td>
 <td>21</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>Ж</td>
 <td>22</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td rowspan="2">
-Гонококковая
-инфекция
-</td>
-<td rowspan="4">
-А 54.0-
-A54.2,
-A54.4-A54.9
-</td>
-<td>м</td>
+<td rowspan="2">Гонококковая инфекция</td>
+<td rowspan="4">А54.0-2,4-9</td>
+<td>М</td>
 <td>23</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>Ж</td>
 <td>24</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td rowspan="2">В т.ч.хронической</td>
-<td>м</td>
+<td rowspan="2">в т.ч.хронический</td>
+<td>М</td>
 <td>25</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>Ж</td>
 <td>26</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="2">
-Урогенитальная
-хламидийная
+Урогенитальная хламидийная
 инфекция
 </td>
-<td rowspan="2">А 56.0-A56.8</td>
-<td>м</td>
+<td rowspan="2">А56.0-8</td>
+<td>М</td>
 <td>27</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>Ж</td>
 <td>28</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="2">Трихомониаз</td>
-<td rowspan="2">А 59.0-A59.9</td>
-<td>м</td>
+<td rowspan="2">А59.0-9</td>
+<td>М</td>
 <td>29</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>Ж</td>
 <td>30</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="2">
-Урогенитальная уреа
-и микоплазменная
-инфекция
+Урогенитальная уреа и
+микоплазменная инфекция
 </td>
-<td rowspan="2">А 49.3</td>
-<td>м</td>
+<td rowspan="2">А49.3</td>
+<td>М</td>
 <td>31</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>Ж</td>
 <td>32</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="2">Трихофития</td>
-<td rowspan="2">
-В 35.0-B35.2,
-B35.4, B35.9
-</td>
-<td>м</td>
+<td rowspan="2">В 35.0-2,4,9</td>
+<td>М</td>
 <td>33</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>Ж</td>
 <td>34</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="2">Микроспория</td>
-<td rowspan="2">
-В 35.0-
-B35.2, B35.4,
-B35.9
-</td>
-<td>м</td>
+<td rowspan="2">В 35.0-2,4,9</td>
+<td>М</td>
 <td>35</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>ж</td>
+<td>Ж</td>
 <td>36</td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
-Продолжение таблицы
+продолжение таблицы
 
 <table>
 <tr>
+<td colspan="2">
+Вновь взято на учет в отчетном
+году
+</td>
 <td colspan="2">Пролечено</td>
 <td rowspan="2">
-Снято с учета в
-отчетном году
+Снято с учета
+в отчетном
+году
 </td>
 <td rowspan="2">
-Состоит больных на
-конец отчетного
-года
+Состоит больных
+на конец
+отчетного года
 </td>
 </tr>
 <tr>
+<td>
+с впервые в
+жизни
+установленным
+диагнозом
+</td>
+<td>
+ранее состоявших
+на учете данной
+или других
+организаций
+</td>
 <td>амбулаторно</td>
-<td>госпитализировано</td>
+<td>
+госпитали-
+зировано
+</td>
 </tr>
 <tr>
+<th>1</th>
+<th>2</th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
@@ -17028,10 +26003,6 @@ B35.9
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -17040,14 +26011,276 @@ B35.9
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17055,37 +26288,43 @@ B35.9
 </tr>
 </table>
 
-2101
+## 2101
 
-Число зарегистрированных случаев: аногенитальной герпетической вирусной инфекции А 60.0-9 (1) __________
+Число зарегистрированных случаев: аногенитальной герпетической вирусной инфекции А60.0 - 9 (1) __#1__,
 
-аногенитальных венерических бородавок А 63.0 (2) ____,
+аногенитальных венерических бородавок А63.0 (2) ___#2__,
 
-гарднереллеза А 49.9 (3)______ ___,
+гарднерелеза А49.9 (3) __#3___,
 
-остроконечных кондилом А 63.0,A63.8 (4) __
+остроконечных кондилом А63.0, 8 (4) __#4___,
 
-урогенитального кандидоза В 37.3, B37.4 (5)__ _______,
+урогенитального кандидоза В37.3, 4 (5) __#5__,
 
-микозов стоп, онихомикозов В 35.1,B35.3 (6)___ ________, чесотки В 86 (7) ______.
+микозов стоп, онихомикозов В35.1, 3, 35.3 (6) __#6__,
 
-Зарегистрировано больных гонобленореей А 54.3 (8) _______, в том числе новорожденных (9)_______, ВИЧ-инфицированных, выявленных из числа всех зарегистрированных больных ИПППП (10) ____.
+чесотки В86 (7) __#7__.
 
-Количество беременных больных сифилисом (11) _______, гонореей (12) ____, урогенитальной хламидийной инфекцией (13) _______, трихомонозом (14)_______, аногенитальной герпетической вирусной инфекцией (15) _______. урогенитальной уреа и микоплазменной инфекцией (16)_______.
+Зарегистрировано больных гонобленореей А54.3 (8) __#8__,
 
-Из числа женщин больных гонореей (стр. 13 гр. 1) выявлено акушерами-гинекологами (17)_______ _____,
+в том числе новорожденных 9___#9___,
 
-зарегистрировано больных гонобленореей А. 54.3 (18) _________,
+ВИЧ-инфицированных, выявленных из числа всех зарегистрированных больных ИПППП 10___#10___
 
-в том числе новорожденных (19) ____
+Количество беременных больных сифилисом 11___#11___, гонореей 12___#12___, урогенитальной хламидийной инфекцией 13___#13__, трихомонозом 14___#14___, аногенитальной герпетической вирусной инфекцией 15___#15___, урогенитальной уреа и микоплазменной инфекцией 16___#16___
 
-Выявлено больных из вновь взятых на учет в отчетном году, с впервые в жизни установленным диагнозом,
+Из числа женщин больных гонореей (стр. 13, гр. 1) выявлено акушерами-гинекологами 17___#17__,
 
-в кабинете анонимного обследования: сифилисом (20) __________,
+зарегистрировано больных гонобленореей А54.3 18__#18__,
 
-гонореей (21)____ _______, хламидиозом (22) ____________.
+в том числе новорожденных 19 __#19__,
 
-2200 Выявлено больных
+Выявлено больных из вновь взятых на учет больных в отчетном году, с впервые в жизни установленным диагнозом, в кабинете анонимного обследования:
+
+сифилисом 20__#20___,
+
+гонореей 21___#21__, хламидиозом 22___#22___.
+
+## 2200 Выявлено больных
 
 <table>
 <tr>
@@ -17103,8 +26342,8 @@ B35.9
 контактов
 </td>
 <td>
-выявлено из
-числа
+выявлено
+из числа
 контактов
 </td>
 <td>
@@ -17136,9 +26375,8 @@ B35.9
 </tr>
 <tr>
 <td>
-Ранний (первичный,
-вторичный, скрытый,
-неуточненный)
+Ранний (первичный, вторичный,
+скрытый, неуточненный)
 </td>
 <td>03</td>
 <td></td>
@@ -17146,7 +26384,7 @@ B35.9
 <td></td>
 </tr>
 <tr>
-<td>Поздний</td>
+<td>поздний</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -17154,8 +26392,8 @@ B35.9
 </tr>
 <tr>
 <td>
-Другие и неуточненные
-формы сифилиса
+другие и неуточненные формы
+сифилиса
 </td>
 <td>05</td>
 <td></td>
@@ -17206,16 +26444,14 @@ B35.9
 </tr>
 <tr>
 <td>
-акушер-
+акушерами-
 гинекологами
 </td>
 <td>урологами</td>
 <td>
 в стационарах
-терапев-
-тического и
-невроло-
-гического
+терапевтического и
+неврологического
 профиля
 </td>
 <td>
@@ -17228,8 +26464,8 @@ B35.9
 </td>
 <td>
 при
-периодических
-и прочих
+периодических и
+прочих
 профосмотрах
 </td>
 <td>
@@ -17269,40 +26505,97 @@ B35.9
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
 
-2201
+## 2201
 
-Из числа обследованных (гр 1.) - число лиц, которым проведено профилактическое лечение по поводу сифилиса 1 _______ гонореи 2_____
+Из числа обследованных (гр. 1) - число лиц, которым проведено профилактическое лечение по поводу сифилиса 1 __#1___, гонореи 2 __#2___
 
 Примечание: 1. В отчет включают сведения о всех больных, лечение и наблюдение за которыми проводится данным учреждением независимо от места жительства больного. Не включают в отчет сведения о больных, обратившихся за консультацией и лечением, но состоящих под наблюдением в других лечебно-профилактических учреждениях.
 
-Районные кожно-венерологические диспансеры, на которых возложены функции районных, районные больницы сельских районов включают в отчет сведения о всех больных, лечащихся по поводу ИППП в районных и участковых больницах, на фельдшерско-акушерских пунктах.
+Районные кожно-венерологические диспансеры, на которых возложены функции районных, районные больницы сельских районов включают в отчет сведения о всех больных, лечащихся по поводу ИПППП в районных и участковых больницах, на фельшерско-акушерских пунктах.
 
-2\. Для обеспечения полноты сведений о больных ИПППП в районном учреждении (диспансере, больнице) должна быть картотека больных ИППП, составленная из контрольных карт диспансерного наблюдения - ф. № 030/у, включающая карты больных, проживающих или лечащихся в районе. Участковые врачи при сдаче годового отчета должны представлять районным учреждениям контрольные карты больных, находящихся под их наблюдением, для сверки с районной картотекой и пополнения ее необходимыми сведениями о больных.
+2\. Для обеспечения полноты сведений о больных ИПППП в районном учреждении (диспансере, больнице) должна быть картотека больных ИПППП, составленная из контрольных карт диспансерного наблюдения - ф. № 030/у, включающая карты больных, проживающих или лечащихся в районе. Участковые врачи при сдаче годового отчета должны представлять районным учреждениям контрольные карты больных, находящихся под их наблюдением, для сверки с районной картотекой и пополнения ее необходимыми сведениями о больных.
 
-Руководитель ___________________________
+Руководитель ______________________________
 
-Исполнитель ____________________, телефон ___________
-
-Дата "____"_________________ 20___года
+Исполнитель ______________, тел _______ Дата "__" ________ 20__ года
 
 > *Приложение 3*  
-> *Утверждено приказом и.о. Министра*  
-> *здравоохранения Республики Казахстан*  
-> *от 12 сентября 2011 г. № 616*
+> *Утверждено приказом*  
+> *и.о. Министра здравоохранения*  
+> *Республики Казахстан*  
+> *от 12 сентября 2011 года № 616*
 
-Конфиденциальность гарантируется получателем информации
+## Конфиденциальность гарантируется получателем информации
 
-Кем представляется _________________________________________________
+## _______________________________________________________________
 
-наименование, адрес
+Кем представляется __________________________________________________
+
+(наименование, адрес)
+
+## Форма, предназначенная для сбора административных данных
+
+Информация представляется в соответствии с Кодексом
+
+Республики Казахстан
+
+"О здоровье народа и системе здравоохранения"
 
 ## Форма 10
 
 годовая
 
-## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+> *Сноска. Форма 10 в редакции приказа Министра здравоохранения РК от 28.09.2012 № 663 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -17311,355 +26604,301 @@ B35.9
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
 Представляют:
-1.Психиатрические диспансеры, диспансерные отделения
-психиатрических (психоневрологических) больниц,
-больницы (необъединенные поликлиники), имеющие
+
+1\. Психиатрические диспансеры, диспансерные
+
+отделения психиатрических
+
+(психоневрологических) больниц, больницы
+
+(необъединенные поликлиники), имеющие
+
 психиатрические (психоневрологические,
-писхотерапевтические, психосоматические) отделения
-(кабинеты) системы здравоохранения - главному врачу
-центральной районной(городской) больницы - 5 января;
-2.Главный врач центральной районной (городской)
-больницы отчет каждой подведомственной организации
-органу управления здравоохранением территории
-(области, города) - к 10 января
-3. Психиатрические (психоневрологические)
-организации (подразделения) других министерств,
-ведомств и всех форм собственности - органу
-управления здравоохранением города,области по месту
-нахождения и своей вышестоящей организации - 5
-января;
-4.Органы управления здравоохранением территории
-сводный отчет по области, городу - департамент
-статистики области,г.г. Астаны и Алматы и в
-Министерство здравоохранения Республики Казахстан к
-10 февраля;
-5. Министерство здравоохранения Республики Казахстан
-сводный отчет в разрезе территории (областей,
-городов) - Агентству Республики Казахстан по
-статистике - 1 апреля.
-</td>
-</tr>
-</table>
 
-## Отчет о заболеваниях и контингентах больных психическими и поведенческими расстройствами 20 _____ год
+психотерапевтические, психосоматические)
 
-РАСПРЕДЕЛЕНИЕ БОЛЬНЫХ ПСИХИЧЕСКИМИ И ПОВЕДЕНЧЕСКИМИ РАССТРОЙСТВАМИ
+отделения (кабинеты) системы
 
-ПО ПОЛУ И ВОЗРАСТУ
+здравоохранения - главному врачу
 
-1000 случаи
+центральной районной (городской)
+
+больницы - 5 января;
+
+2\. Главный врач центральной районной
+
+(городской) больницы отчет каждой
+
+подведомственной организации - органу
+
+управления здравоохранением территории
+
+(области, города) - 10 января;
+
+3\. Психиатрические (психоневрологические)
+
+организации (подразделения) других
+
+министерств, ведомств и всех форм
+
+собственности - органу управления
+
+здравоохранением города, области по
+
+месту нахождения и своей вышестоящей
+
+организации - 5 января;
+
+4\. Органы управления здравоохранением
+
+территории сводный отчет по области,
+
+городу в Министерство здравоохранения
+
+Республики Казахстан к 10 февраля.
+
+## Отчет о заболеваниях и контингентах больных психическими и поведенческими расстройствами 20__ год
+
+## 1000 РАСПРЕДЕЛЕНИЕ БОЛЬНЫХ С ВПЕРВЫЕ В ЖИЗНИ УСТАНОВЛЕННЫМ ДИАГНОЗОМ ПО ПОЛУ И ВОЗРАСТУ, ВСЕГО
 
 <table>
 <tr>
-<td rowspan="4">
-Наименование
-заболеваний
-</td>
-<td rowspan="4">
-№
-строки
-</td>
-<td rowspan="4">
-Шифр по
-МКБ Х
-</td>
-<td colspan="5">
-Число больных с впервые в жизни
-установленным диагнозом
-</td>
+<td></td>
+<td></td>
+<td>№ строки</td>
 <td>
-из общего числа
-больные,
-проживающие в
-сельской
-местности
+Шифр по МКБ
+Х-пересмотра
 </td>
+<td>Всего</td>
 </tr>
 <tr>
-<td rowspan="3">всего</td>
-<td colspan="4">в том числе</td>
-<td rowspan="3">всего</td>
+<td>А</td>
+<td>Б</td>
+<td>В</td>
+<td>Г</td>
+<td>1</td>
 </tr>
 <tr>
-<td rowspan="2">женщин</td>
-<td colspan="3">
-в возрасте
-(из графы 1)
+<td rowspan="2">
+Психические расстройства и
+расстройства поведения, всего
 </td>
-</tr>
-<tr>
-<td>
-0-14
-лет
-</td>
-<td>
-15-17
-лет
-</td>
-<td>
-18 лет и
-старше
-</td>
-</tr>
-<tr>
-<th>А</th>
-<th>Б</th>
-<th>В</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td>
-Психические
-расстройства и
-расстройства
-поведения, всего:
-</td>
+<td>всего</td>
 <td>01</td>
-<td>
-F00-F09
-F20-F99
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе:
-органические
-психические
-расстройства
-(включая
-симптоматические)
-</td>
-<td>02</td>
 <td>F00-F09</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>02</td>
+<td>F20-F99</td>
 <td></td>
 </tr>
 <tr>
-<td>
-Шизофрения,
-шизотипические и
-бредовые
-расстройства,
-всего
-</td>
+<td>в том числе:органические</td>
+<td>всего</td>
 <td>03</td>
-<td>F20-F29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2">F00-F09</td>
 <td></td>
 </tr>
 <tr>
-<td>из них: шизофрения</td>
+<td>
+психические расстройства (включая
+симптоматические)
+</td>
+<td>женщины</td>
 <td>04</td>
-<td>F20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-Аффективные
-расстройства
+<td rowspan="2">
+Шизофрения, шизотипические и бредовые
+расстройства,всего
 </td>
+<td>всего</td>
 <td>05</td>
-<td>F30-F39</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2">F20-F29</td>
 <td></td>
 </tr>
 <tr>
-<td>
-Невротические,
-связанные со
-стрессом и
-соматоформные
-расстройства
-</td>
+<td>женщины</td>
 <td>06</td>
-<td>F40-F49</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-Поведенческие
-синдромы,связанные
-с физиологическими
-нарушениями и
-физическими
-факторами
-</td>
+<td rowspan="2">из них: шизофрения</td>
+<td>всего</td>
 <td>07</td>
-<td>F50-F59</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2">F20</td>
 <td></td>
 </tr>
 <tr>
-<td>
-Расстройства
-личности и
-поведенческие
-расстройства у
-взрослых
-</td>
+<td>женщины</td>
 <td>08</td>
-<td>F60-F69</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-Умственная
-отсталось, всего
-</td>
+<td rowspan="2">Аффективные расстройства</td>
+<td>всего</td>
 <td>09</td>
-<td>F70-F79</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2">F30-F39</td>
 <td></td>
 </tr>
 <tr>
-<td>
-из них: легкая
-умственная
-отсталость
-</td>
+<td>женщины</td>
 <td>10</td>
-<td>F70</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-Нарушение
-психологического
-развития
+<td rowspan="2">
+Невротические, связанные со стрессом
+и соматоформные расстройства
 </td>
+<td>всего</td>
 <td>11</td>
-<td>F80-F89</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2">F40-F49</td>
 <td></td>
 </tr>
 <tr>
-<td>
-из них: детский
-аутизм
-</td>
+<td>женщины</td>
 <td>12</td>
-<td>F84,0</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
-<td>атипичный аутизм</td>
-<td>13</td>
-<td>F84,1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>синдром Аспергера</td>
-<td>14</td>
-<td>F84,5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Поведенческие и
-эмоциональные
-расстройства,
-начинающиеся в
-детском и
-подростковом
-возрасте
+<td rowspan="2">
+Поведенческие синдромы,связанные с
+физиологическими нарушениями и
+физическими факторами
 </td>
-<td>15</td>
-<td>F90-F98</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>всего</td>
+<td>13</td>
+<td rowspan="2">F50-F59</td>
 <td></td>
 </tr>
 <tr>
-<td>
-Психические
-расстройства
+<td>женщины</td>
+<td>14</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Расстройства личности и поведенческие
+расстройства у взрослых
+</td>
+<td>всего</td>
+<td>15</td>
+<td rowspan="2">F60-F69</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>16</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Умственная отсталость,всего</td>
+<td>всего</td>
+<td>17</td>
+<td rowspan="2">F70-F79</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>18</td>
+<td></td>
+</tr>
+<tr>
+<td>из них:</td>
+<td>всего</td>
+<td>19</td>
+<td rowspan="2">F70</td>
+<td></td>
+</tr>
+<tr>
+<td>легкая умственная отсталость</td>
+<td>женщины</td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Нарушение психологического развития</td>
+<td>всего</td>
+<td>21</td>
+<td rowspan="2">F80-F89</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>22</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">из них: детский аутизм</td>
+<td>всего</td>
+<td>23</td>
+<td rowspan="2">F84.0</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>24</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">атипичный аутизм</td>
+<td>всего</td>
+<td>25</td>
+<td rowspan="2">F84.1</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>26</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">синдром Аспергера</td>
+<td>всего</td>
+<td>27</td>
+<td rowspan="2">F84.5</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>28</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Поведенческие и эмоциональные
+расстройства, начинающиеся в детском
+и подростковом возрасте
+</td>
+<td>всего</td>
+<td>29</td>
+<td rowspan="2">F90-F98</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>30</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Психические расстройства
 неуточненные
 </td>
-<td>16</td>
-<td>F99</td>
+<td>всего</td>
+<td>31</td>
+<td rowspan="2">F99</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>32</td>
 <td></td>
 </tr>
 </table>
@@ -17668,329 +26907,26 @@ F20-F99
 
 <table>
 <tr>
-<td colspan="5">из общего числа больные, проживающие в сельской местности</td>
+<td colspan="12">в том числе у больных в возрасте, лет</td>
 </tr>
 <tr>
-<td rowspan="3">всего</td>
-<td colspan="4">в том числе</td>
-</tr>
-<tr>
-<td rowspan="2">женщин</td>
-<td colspan="3">в возрасте (из графы 6)</td>
-</tr>
-<tr>
-<td>0-14 лет</td>
-<td>15-17 лет</td>
-<td>18 лет и старше</td>
-</tr>
-<tr>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-## РАСПРЕДЕЛЕНИЕ БОЛЬНЫХ ПСИХИЧЕСКИМИ И ПОВЕДЕНЧЕСКИМИ РАССТРОЙСТВАМИ ПО ПОЛУ И ВОЗРАСТУ
-
-1000 случаи
-
-<table>
-<tr>
-<td rowspan="4">
-Наименование
-заболеваний
-</td>
-<td rowspan="4">№ строки</td>
-<td rowspan="4">Шифр по МКБ Х</td>
-<td colspan="5">
-Число больных с впервые в жизни
-установленным диагнозом
-</td>
-</tr>
-<tr>
-<td rowspan="3">всего</td>
-<td colspan="4">в том числе</td>
-</tr>
-<tr>
-<td rowspan="2">женщин</td>
-<td colspan="3">в возрасте (из графы 1)</td>
-</tr>
-<tr>
+<td>0-14</td>
+<td>15-17</td>
+<td>18-19</td>
+<td>20-24</td>
+<td>25-29</td>
+<td>30-34</td>
+<td>35-39</td>
+<td>40-44</td>
+<td>45-49</td>
+<td>50-54</td>
+<td>55-59</td>
 <td>
-0-14
-лет
-</td>
-<td>
-15-17
-лет
-</td>
-<td>
-18 лет и
+60+ и
 старше
 </td>
 </tr>
 <tr>
-<th>А</th>
-<th>Б</th>
-<th>В</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td>
-Психические
-расстройства и
-расстройства
-поведения, всего:
-</td>
-<td>01</td>
-<td>
-F00-F09
-F20-F99
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе:
-органические
-психические
-расстройства
-(включая
-симптоматические)
-</td>
-<td>02</td>
-<td>F00-F09</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Шизофрения,
-шизотипические и
-бредовые
-расстройства,
-всего
-</td>
-<td>03</td>
-<td>F20-F29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них: шизофрения</td>
-<td>04</td>
-<td>F20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Аффективные
-расстройства
-</td>
-<td>05</td>
-<td>F30-F39</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Невротические,связа
-- нные со стрессом
-и соматоформные
-расстройства
-</td>
-<td>06</td>
-<td>F40-F49</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Поведенческие
-синдромы,связанные
-с физиологическими
-нарушениями и
-физическими
-факторами
-</td>
-<td>07</td>
-<td>F50-F59</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Расстройства
-личности и
-поведенческие
-расстройства у
-взрослых
-</td>
-<td>08</td>
-<td>F60-F69</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Умственная
-отсталось, всего
-</td>
-<td>09</td>
-<td>F70-F79</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них: легкая
-умственная
-отсталость
-</td>
-<td>10</td>
-<td>F70</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Нарушение
-психологического
-развития
-</td>
-<td>11</td>
-<td>F80-F89</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них: детский
-аутизм
-</td>
-<td>12</td>
-<td>F84,0</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>атипичный аутизм</td>
-<td>13</td>
-<td>F84,1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>синдром Аспергера</td>
-<td>14</td>
-<td>F84,5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Поведенческие и
-эмоциональные
-расстройства,начина- ющиеся в детском
-и подростковом
-возрасте
-</td>
-<td>15</td>
-<td>F90-F98</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Психические
-расстройства
-неуточненные
-</td>
-<td>16</td>
-<td>F99</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<th>А</th>
-<th>Б</th>
-<th>В</th>
-<th>1</th>
 <th>2</th>
 <th>3</th>
 <th>4</th>
@@ -18000,19 +26936,13 @@ F20-F99
 <th>8</th>
 <th>9</th>
 <th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
 </tr>
 <tr>
-<td>
-Психические
-расстройства и
-расстройства
-поведения, всего:
-</td>
-<td>01</td>
-<td>
-F00-F09
-F20-F99
-</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18025,16 +26955,8 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>
-в том числе:
-органические
-психические
-расстройства
-(включая
-симптоматические)
-</td>
-<td>02</td>
-<td>F00-F09</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18047,14 +26969,8 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>
-Шизофрения,
-шизотипические и
-бредовые
-расстройства, всего
-</td>
-<td>03</td>
-<td>F20-F29</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18067,27 +26983,8 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>из них: шизофрения</td>
-<td>04</td>
-<td>F20</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Аффективные
-расстройства
-</td>
-<td>05</td>
-<td>F30-F39</td>
 <td></td>
 <td></td>
 <td></td>
@@ -18100,13 +26997,8 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>
-Невротические,связа- нные со стрессом
-и соматоформные
-расстройства
-</td>
-<td>06</td>
-<td>F40-F49</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18119,16 +27011,8 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>
-Поведенческие
-синдромы,связанные
-с физиологическими
-нарушениями и
-физическими
-факторами
-</td>
-<td>07</td>
-<td>F50-F59</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18141,15 +27025,8 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>
-Расстройства
-личности и
-поведенческие
-расстройства у
-взрослых
-</td>
-<td>08</td>
-<td>F60-F69</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18162,12 +27039,8 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>
-Умственная
-отсталось, всего
-</td>
-<td>09</td>
-<td>F70-F79</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18180,13 +27053,8 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>
-из них: легкая
-умственная
-отсталость
-</td>
-<td>10</td>
-<td>F70</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18199,13 +27067,8 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>
-Нарушение
-психологического
-развития
-</td>
-<td>11</td>
-<td>F80-F89</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18218,12 +27081,8 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>
-из них: детский
-аутизм
-</td>
-<td>12</td>
-<td>F84,0</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18236,24 +27095,8 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>атипичный аутизм</td>
-<td>13</td>
-<td>F84,1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>синдром Аспергера</td>
-<td>14</td>
-<td>F84,5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -18266,15 +27109,8 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>
-Поведенческие и
-эмоциональные
-расстройства,начина- ющиеся в детском
-и подростковом
-возрасте
-</td>
-<td>15</td>
-<td>F90-F98</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18287,13 +27123,260 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>
-Психические
-расстройства
-неуточненные
-</td>
-<td>16</td>
-<td>F99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18307,7 +27390,749 @@ F20-F99
 </tr>
 </table>
 
-2100 Контингенты больных, находящихся под диспансерным и консультативным наблюдением человек
+## 1001 РАСПРЕДЕЛЕНИЕ БОЛЬНЫХ С ВПЕРВЫЕ В ЖИЗНИ УСТАНОВЛЕННЫМ ДИАГНОЗОМ ПО ПОЛУ И ВОЗРАСТУ, СЕЛЬСКОЕ НАСЕЛЕНИЕ
+
+<table>
+<tr>
+<td></td>
+<td></td>
+<td>№ строки</td>
+<td>
+Шифр по МКБ
+Х-пересмотра
+</td>
+<td>
+из общего числа
+больные,
+проживающие в
+сельской
+местности-всего
+</td>
+</tr>
+<tr>
+<td>А</td>
+<td>Б</td>
+<td>В</td>
+<td>Г</td>
+<td>1</td>
+</tr>
+<tr>
+<td>
+Психические расстройства и
+расстройства поведения
+</td>
+<td>всего</td>
+<td>01</td>
+<td>F00-F09</td>
+<td></td>
+</tr>
+<tr>
+<td>всего:</td>
+<td>женщины</td>
+<td>02</td>
+<td>F20-F99</td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе:органические</td>
+<td>всего</td>
+<td>03</td>
+<td>F00-F09</td>
+<td></td>
+</tr>
+<tr>
+<td>
+психические расстройства (включая
+симптоматические)
+</td>
+<td>женщины</td>
+<td>04</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Шизофрения, шизотипические и
+бредовые расстройства,всего
+</td>
+<td>всего</td>
+<td>05</td>
+<td>F20-F29</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>06</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">из них: шизофрения</td>
+<td>всего</td>
+<td>07</td>
+<td>F20</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>08</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Аффективные расстройства</td>
+<td>всего</td>
+<td>09</td>
+<td>F30-F39</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>10</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Невротические,связанные со стрессом
+и соматоформные расстройства
+</td>
+<td>всего</td>
+<td>11</td>
+<td rowspan="2">F40-F49</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>12</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Поведенческие синдромы,связанные
+с физиологическими нарушениями и
+физическими факторами
+</td>
+<td>всего</td>
+<td>13</td>
+<td rowspan="2">F50-F59</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>14</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Расстройства личности и
+поведенческие расстройства у
+взрослых
+</td>
+<td>всего</td>
+<td>15</td>
+<td rowspan="2">F60-F69</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>16</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Умственная отсталость,всего</td>
+<td>всего</td>
+<td>17</td>
+<td rowspan="2">F70-F79</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>18</td>
+<td></td>
+</tr>
+<tr>
+<td>из них:</td>
+<td>всего</td>
+<td>19</td>
+<td rowspan="2">F70</td>
+<td></td>
+</tr>
+<tr>
+<td>легкая умственная отсталость</td>
+<td>женщины</td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Нарушение психологического развития</td>
+<td>всего</td>
+<td>21</td>
+<td rowspan="2">F80-F89</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>22</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">из них: детский аутизм</td>
+<td>всего</td>
+<td>23</td>
+<td rowspan="2">F84.0</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>24</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">атипичный аутизм</td>
+<td>всего</td>
+<td>25</td>
+<td rowspan="2">F84.1</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>26</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">синдром Аспергера</td>
+<td>всего</td>
+<td>27</td>
+<td rowspan="2">F84.5</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>28</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Поведенческие и эмоциональные
+расстройства,начинающиеся в детском
+и подростковом возрасте
+</td>
+<td>всего</td>
+<td>29</td>
+<td rowspan="2">F90-F98</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>30</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Психические расстройства
+неуточненные
+</td>
+<td>всего</td>
+<td>31</td>
+<td rowspan="2">F99</td>
+<td></td>
+</tr>
+<tr>
+<td>женщины</td>
+<td>32</td>
+<td></td>
+</tr>
+</table>
+
+продолжение таблицы
+
+<table>
+<tr>
+<td colspan="12">в том числе у больных в возрасте, лет</td>
+</tr>
+<tr>
+<td>0-14</td>
+<td>15-17</td>
+<td>18-19</td>
+<td>20-24</td>
+<td>25-29</td>
+<td>30-34</td>
+<td>35-39</td>
+<td>40-44</td>
+<td>45-49</td>
+<td>50-54</td>
+<td>55-59</td>
+<td>
+60+ и
+старше
+</td>
+</tr>
+<tr>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+## 2100 Контингенты больных, находящихся под диспансерным наблюдением человек
 
 <table>
 <tr>
@@ -18316,25 +28141,28 @@ F20-F99
 №
 строки
 </td>
-<td>Шифр по МКБ Х</td>
+<td>
+Шифр по
+МКБ Х
+пересмотра
+</td>
+<td>
+Состояло на
+начало
+отчетного
+периода
+</td>
 <td>
 Взято под
-наблюдение в
+наблюдения в
 течение года
 </td>
 <td>
-Снято с
-наблюдения
-в отчетном
-году
-</td>
-<td>
-из них снято с
-наблюдения в
-связи с
-выэдоровлением
-или стойким
-улучшением
+из них с
+впервые в
+жизни
+установленным
+диагнозом
 </td>
 </tr>
 <tr>
@@ -18347,14 +28175,12 @@ F20-F99
 </tr>
 <tr>
 <td>
-Психические
-расстройства и
-расстройства
-поведения, всего:
+Психические расстройства и
+расстройства поведения - всего
 </td>
 <td>01</td>
 <td>
-F00-F09
+F00-F09;
 F20-F99
 </td>
 <td></td>
@@ -18364,11 +28190,9 @@ F20-F99
 <tr>
 <td>
 в том числе:
-органические
-психические
-расстройства
-(включая
-симптоматические)
+Органические психические
+расстройства, включая симп-
+томатические расстройства....
 </td>
 <td>02</td>
 <td>F00-F09</td>
@@ -18378,11 +28202,8 @@ F20-F99
 </tr>
 <tr>
 <td>
-Шизофрения,
-шизотипические и
-бредовые
-расстройства,
-всего
+Шизофрения, шизотипические
+бредовые расстройства........
 </td>
 <td>03</td>
 <td>F20-F29</td>
@@ -18391,10 +28212,7 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>
-из них:
-шизофрения
-</td>
+<td>из них шизофрения............</td>
 <td>04</td>
 <td>F20</td>
 <td></td>
@@ -18402,10 +28220,7 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>
-Аффективные
-расстройства
-</td>
+<td>Аффективные расстройства.....</td>
 <td>05</td>
 <td>F30-F39</td>
 <td></td>
@@ -18414,11 +28229,9 @@ F20-F99
 </tr>
 <tr>
 <td>
-Невротические,
-связанные со
-стрессом и
-соматоформные
-расстройства
+Невротические расстройства,
+связанные со стрессом и
+соматоформные расстройства...
 </td>
 <td>06</td>
 <td>F40-F49</td>
@@ -18428,13 +28241,10 @@ F20-F99
 </tr>
 <tr>
 <td>
-Поведенческие
-синдромы,связа-
-нные с
-физиологическими
-нарушениями и
-физическими
-факторами
+Поведенческие синдромы,
+связанные с физиологическими
+нарушениями и физическими
+факторами...................
 </td>
 <td>07</td>
 <td>F50-F59</td>
@@ -18444,11 +28254,9 @@ F20-F99
 </tr>
 <tr>
 <td>
-Расстройства
-личности и
-поведенческие
-расстройства у
-взрослых
+Расстройства личности и
+поведенческие расстройства
+у взрослых..................
 </td>
 <td>08</td>
 <td>F60-F69</td>
@@ -18457,10 +28265,7 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>
-Умственная
-отсталось, всего
-</td>
+<td>Умственная отсталость.......</td>
 <td>09</td>
 <td>F70-F79</td>
 <td></td>
@@ -18469,9 +28274,9 @@ F20-F99
 </tr>
 <tr>
 <td>
-из них: легкая
-умственная
-отсталость
+из них:
+легкая умственная
+отсталость..................
 </td>
 <td>10</td>
 <td>F70</td>
@@ -18481,8 +28286,7 @@ F20-F99
 </tr>
 <tr>
 <td>
-Нарушение
-психологического
+Нарушение психологического
 развития
 </td>
 <td>11</td>
@@ -18492,12 +28296,9 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>
-из них: детский
-аутизм
-</td>
+<td>из них: детский аутизм</td>
 <td>12</td>
-<td>F84,0</td>
+<td>F84.0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -18505,7 +28306,7 @@ F20-F99
 <tr>
 <td>атипичный аутизм</td>
 <td>13</td>
-<td>F84,1</td>
+<td>F84.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -18513,20 +28314,17 @@ F20-F99
 <tr>
 <td>синдром Аспергера</td>
 <td>14</td>
-<td>F84,5</td>
+<td>F84.5</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-Поведенческие и
-эмоциональные
-расстройства,
-начинающиеся в
-детском и
-подростковом
-возрасте
+Поведенческие и эмоциональные
+расстройства, начинающиеся в
+детском и подростковом
+возрасте....................
 </td>
 <td>15</td>
 <td>F90-F98</td>
@@ -18536,9 +28334,8 @@ F20-F99
 </tr>
 <tr>
 <td>
-Психические
-расстройства
-неуточненные
+Психические расстройства
+неуточненные................
 </td>
 <td>16</td>
 <td>F99</td>
@@ -18548,10 +28345,22 @@ F20-F99
 </tr>
 </table>
 
-Продолжение таблицы
+продолжение таблицы
 
 <table>
 <tr>
+<td rowspan="3">
+Снято с
+наблюдения в
+отчетном году
+</td>
+<td rowspan="3">
+из них снято с
+наблюдения в связи
+с выздоровлением
+или стойким
+улучшением
+</td>
 <td colspan="5">Состоит под наблюдением больных на конец отчетного года</td>
 </tr>
 <tr>
@@ -18560,13 +28369,17 @@ F20-F99
 </tr>
 <tr>
 <td>женщин</td>
-<td>сельских жителей</td>
 <td>
-дети 15-17 лет
-включительно
+сельских
+жителей
 </td>
 <td>
-детей до 14 лет
+дети 15-17
+лет
+</td>
+<td>
+детей до
+14 лет
 включительно
 </td>
 </tr>
@@ -18576,22 +28389,12 @@ F20-F99
 <th>6</th>
 <th>7</th>
 <th>8</th>
+<th>9</th>
+<th>10</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -18604,22 +28407,12 @@ F20-F99
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -18632,22 +28425,12 @@ F20-F99
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -18660,11 +28443,6 @@ F20-F99
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -18674,6 +28452,17 @@ F20-F99
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -18681,8 +28470,282 @@ F20-F99
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18691,38 +28754,651 @@ F20-F99
 </tr>
 </table>
 
-2120 Из общего числа находящихся под диспансерным и консультативным
+2120 Из общего числа находящихся под диспансерным и консультативным наблюдением на конец года больных (стр. 1 гр. 6)
 
-наблюдением на конец года больных (строка 1 графа 4)
+состоит на спец учете 1..._____#1_____ находятся в интернатах Министерства труда и социальной защиты 3... ____#3_____
 
-состоит на спец учете .......... 1 __________ находятся в интернетах
+ими в течение года совершено общественно-опасных действий ..2____#2____ находятся на патронаже под опекой ....4_____#4_____
 
-Министерства труда и социальной защиты....3. ___________ ими в
+## 2101 Контингенты больных, находящихся под консультативным наблюдением наблюдением человек
 
-течение года совершено общественно - опасных действий... 2.
+<table>
+<tr>
+<td>Наименование</td>
+<td>
+№
+строки
+</td>
+<td>
+Шифр по
+МКБ Х
+пересмотра
+</td>
+<td>
+Состояло
+на начало
+отчетного
+периода
+</td>
+<td>
+Взято под
+наблюдения в
+течение года
+</td>
+<td>
+из них с
+впервые в
+жизни
+установленным
+диагнозом
+</td>
+</tr>
+<tr>
+<th>А</th>
+<th></th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
+<td>Психические расстройства и расстройства поведения - всего</td>
+<td>01</td>
+<td>
+F00-F09;
+F20-F99
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+Органические психические
+расстройства, включая симп-
+томатические расстройства....
+</td>
+<td>02</td>
+<td>F00-F09</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Шизофрения, шизотипические
+бредовые расстройства........
+</td>
+<td>03</td>
+<td>F20-F29</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них шизофрения............</td>
+<td>04</td>
+<td>F20</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Аффективные расстройства.....</td>
+<td>05</td>
+<td>F30-F39</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Невротические расстройства,
+связанные со стрессом и
+соматоформные
+расстройства................
+</td>
+<td>06</td>
+<td>F40-F49</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Поведенческие синдромы,
+связанные с физиологическими
+нарушениями и физическими
+факторами...................
+</td>
+<td>07</td>
+<td>F50-F59</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Расстройства личности и
+поведенческие расстройства у
+взрослых....................
+</td>
+<td>08</td>
+<td>F60-F69</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Умственная отсталость.......</td>
+<td>09</td>
+<td>F70-F79</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+легкая умственная
+отсталость..................
+</td>
+<td>10</td>
+<td>F70</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Нарушение психологического
+развития
+</td>
+<td>11</td>
+<td>F80-F89</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: детский аутизм</td>
+<td>12</td>
+<td>F84.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>атипичный аутизм</td>
+<td>13</td>
+<td>F84.1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>синдром Аспергера</td>
+<td>14</td>
+<td>F84.5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Поведенческие и эмоциональные
+расстройства, начинающиеся
+в детском и подростковом
+возрасте....................
+</td>
+<td>15</td>
+<td>F90-F98</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Психические расстройства
+неуточненные................
+</td>
+<td>16</td>
+<td>F99</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-находятся на потранаже под опекой.......... 4 ___________
+продолжение таблицы
 
-2130 Из общего числа взрослых и подростков, находящихся под
+<table>
+<tr>
+<td colspan="6">
+Контингенты больных, находящихся под консультативным
+наблюдением наблюдением
+</td>
+<td>человек</td>
+</tr>
+<tr>
+<td rowspan="3">
+Снято с
+наблюдения в
+отчетном году
+</td>
+<td rowspan="3">
+из них снято с
+наблюдения в связи
+с выздоровлением или
+стойким улучшением
+</td>
+<td colspan="5">Состоит под наблюдением больных на конец отчетного года</td>
+</tr>
+<tr>
+<td rowspan="2">всего</td>
+<td colspan="4">в том числе</td>
+</tr>
+<tr>
+<td>женщин</td>
+<td>
+сельских
+жителей
+</td>
+<td>
+дети 15-17
+лет
+</td>
+<td>
+детей до
+14 лет
+включительно
+</td>
+</tr>
+<tr>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-наблюдением на конец отчетного года (строка 1 графа 4)
+2130 Из общего числа взрослых и подростков, находящихся под наблюдением на конец отчетного года (стр. 1 гр. 4)
 
-мужчин в возрасте 15-62 года ............1 ________,женщин в возрасте 15-57 лет ........... 2 ____________________
+мужчин в возрасте 15-62 года... 1____#1_____, женщин в возрасте 15-57 лет... 2______#2_______
 
-2140 Число дней нетрудоспособности по листкам нетрудоспособности,
+2140 Число дней нетрудоспособности по листкам нетрудоспособности, выданным больным, находящимся на амбулаторном лечении в диспансере
 
-выданным больным, находящимся на амбулаторном лечении в диспансере
-
-(диспансерном отделении, кабинете) ........ 1 _______________.
+(диспансерном отделении, кабинете)... 1____#1_____.
 
 2110 Контингенты больных, имеющих группу инвалидности человек
 
 <table>
 <tr>
-<td rowspan="3">
-Наименование
-заболеваний
-</td>
+<td rowspan="3">Наименование заболеваний</td>
 <td rowspan="3">
 №
 строки
@@ -18730,7 +29406,8 @@ F20-F99
 <td rowspan="3">
 Шифр по
 МКБ Х
-пересмотра
+перес-
+мотра
 </td>
 <td rowspan="3">
 Число
@@ -18745,7 +29422,7 @@ F20-F99
 Число больных, имеющих группу
 инвалидности из состоящих под
 наблюдением на конец отчетного
-года (строка 1, графа 4)
+года (стр. 1, гр. 4)
 </td>
 </tr>
 <tr>
@@ -18754,14 +29431,14 @@ F20-F99
 </tr>
 <tr>
 <td>
-имеющих
-III
+имеющих III
 группу
 </td>
 <td>
 инвалидов в
-возрасте до 15
-лет включительно
+возрасте до
+15 лет
+включительно
 </td>
 </tr>
 <tr>
@@ -18774,12 +29451,9 @@ III
 <th>4</th>
 </tr>
 <tr>
-<td>Всего ...........</td>
+<td>Всего..</td>
 <td>1</td>
-<td>
-F00-F09;
-F20-F99
-</td>
+<td>F00-F09; F20-F99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -18788,10 +29462,8 @@ F20-F99
 <tr>
 <td>
 в том числе:
-органические
-психические
-расстройтсва,
-включая
+органические психические
+расстройства, включая
 симптоматические
 </td>
 <td>2</td>
@@ -18802,7 +29474,7 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>шизофрения ......</td>
+<td>шизофрения.............</td>
 <td>3</td>
 <td>F20</td>
 <td></td>
@@ -18812,9 +29484,8 @@ F20-F99
 </tr>
 <tr>
 <td>
-умственная
-отсталость(олигоф
-- рения) ........
+умственная отсталость
+(олигофрения)..........
 </td>
 <td>4</td>
 <td>F70-F79</td>
@@ -18825,17 +29496,9 @@ F20-F99
 </tr>
 </table>
 
-2111 Из общего числа первично признанных инвалидами (строка 1), графа
+2111 Из общего числа первично признанных инвалидами (стр. 1), гр. 1): инвалидов в возрасте до 15 лет 1___#1____, инвалидов III группы 2_____#2______
 
-1) : инвалидов в возрасте до 15 лет 1 _________, инвалидов III группы
-
-2 _____________________________
-
-2200 Число занятых и должностей врачей психиатров и других
-
-специалистов осуществляющих наблюдение за диспансерными и
-
-консультативными больными
+2200 Число занятых должностей психиатров, психотерапевтов, осуществляющих наблюдение за диспансерными и консультативными больными
 
 (в том числе в поликлиниках сельских административных районов)
 
@@ -18846,16 +29509,19 @@ F20-F99
 №
 строки
 </td>
-<td colspan="2">Должности на конец года</td>
-<td>
+<td colspan="2">
+Занято должностей на конец
+года
+</td>
+<td rowspan="2">
 число
-физических лиц
+физических
+лиц
 </td>
 </tr>
 <tr>
 <td>штатных</td>
 <td>занятых</td>
-<td></td>
 </tr>
 <tr>
 <th>А</th>
@@ -18865,20 +29531,14 @@ F20-F99
 <th>3</th>
 </tr>
 <tr>
-<td>
-Всего врачей
-психиатров
-</td>
+<td>Всего врачей психиатров</td>
 <td>1</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-в т.ч. психиатров
-для взрос.
-</td>
+<td>в т.ч психиатров для взрослых</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -18899,11 +29559,7 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>
-судебно -
-психиатрических
-экспертов
-</td>
+<td>судебно-психиатрических экспертов</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -18917,10 +29573,7 @@ F20-F99
 <td></td>
 </tr>
 <tr>
-<td>
-медицинских
-психологов
-</td>
+<td>медицинских психологов</td>
 <td>7</td>
 <td></td>
 <td></td>
@@ -18928,26 +29581,29 @@ F20-F99
 </tr>
 </table>
 
-2300 Состав больных в стационаре
+## 2300 Состав больных в стационаре
 
 <table>
 <tr>
-<td rowspan="3">
-Наименование
-заболеваний
-</td>
+<td rowspan="3">Наименование заболеваний</td>
 <td rowspan="3">
 №
-сутки
+строки
 </td>
 <td rowspan="3">
-Шифр по МКБ
-Х пересмотра
+Шифр по
+МКБ Х
+перес-
+мотра
 </td>
-<td colspan="4">В отчетном году</td>
+<td colspan="5">В отчетном году</td>
 </tr>
 <tr>
-<td colspan="4">поступило больных</td>
+<td colspan="4">поступило больных:</td>
+<td rowspan="2">
+поступило
+впервые
+</td>
 </tr>
 <tr>
 <td>взрослых</td>
@@ -18956,7 +29612,10 @@ F20-F99
 принуд.
 лечение
 </td>
-<td>подростков</td>
+<td>
+дети
+15-17
+</td>
 <td>
 детей до
 14 лет
@@ -18970,13 +29629,12 @@ F20-F99
 <th>2</th>
 <th>3</th>
 <th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>
-Органические
-психические
-расстройства,
-включая
+Органические психические
+расстройства, включая
 симптоматические
 расстройства
 </td>
@@ -18986,16 +29644,16 @@ F20-F99
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-шизофрения,
-шизотипические
-бредовые
-расстройства
+Шизофрения, шизотипические
+бредовые расстройства
 </td>
 <td>02</td>
 <td>F20-F29</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -19012,116 +29670,86 @@ F20-F99
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Аффективные
-расстройства
-</td>
+<td>Аффективные расстройства</td>
 <td>04</td>
 <td>F30-F39</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td>
-Невротические
-расстройства,
-связанные со
-стрессом и
-соматофорным
-расстройства
-</td>
+<td>Невротические расстройства, связанные со стрессом и соматоформные расстройства</td>
 <td>05</td>
-<td>F40-F48</td>
+<td>F40-F49</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-Поведенческие
-синдромы,
-связанные с
-физиологическими
-нарушениями и
-физическими
-факторами
-</td>
+<td>Поведенческие синдромы, связанные с физиологическими нарушениями и физическими факторами</td>
 <td>06</td>
 <td>F50-F59</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Расстройства
-личности и
-поведенческие
-расстройства у
-взрослых
-</td>
+<td>Расстройства личности и поведенческие расстройства у взрослых</td>
 <td>07</td>
 <td>F60-F69</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Умственная
-отсталость
-</td>
+<td>Умственная отсталость</td>
 <td>08</td>
 <td>F70-F79</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Нарушение
-психологического
-развития
-</td>
+<td>Нарушение психологического развития</td>
 <td>09</td>
 <td>F80-F89</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Повденческие и
-эмоциональные
-расстройства,
-начинающиеся в
-детск. и подростк.
-возрастах
-</td>
+<td>Поведенческие и эмоциональные расстройства, начинающиеся в детск.и подростк. возрастах</td>
 <td>10</td>
 <td>F90-F98</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Психические
-расстройства
-неуточненные
-</td>
+<td>Психические расстройства неуточненные</td>
 <td>11</td>
 <td>F99</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -19131,32 +29759,19 @@ F20-F99
 <td>Итого:</td>
 <td>12</td>
 <td>
-F00-F09
+F00-F09,
 F20-F99
 </td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Кроме того больные
-с психическими и
-поведенчискими
-расстройствами -
-всего: вследствии
-употребления
-психотропных
-веществ,
-признанные
-психически
-здоровыми и с
-заболеваниями, не
-вошедшими в строку
-12
-</td>
+<td>Кроме того больные с психическими и поведенческими расстройствами - всего: вследствии употребления психотропных веществ, признанные психически здоровыми и с заболеваниями, не вошедшими в стр.12</td>
 <td>13</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -19165,17 +29780,14 @@ F20-F99
 </tr>
 </table>
 
-Продолжение таблицы
+продолжение таблицы
 
 <table>
 <tr>
-<td colspan="6">В отчетном году</td>
+<td colspan="5">В отчетном году</td>
+<td colspan="4">Состоит на конец года</td>
 </tr>
 <tr>
-<td>
-поступило
-впервые
-</td>
 <td>
 из них на
 принуд.
@@ -19186,77 +29798,211 @@ F20-F99
 больных
 </td>
 <td>
+из них
+на
+принуд.
+лечение
+</td>
+<td>
+число
+проведен.
+к/дн.
+выписан.
+и умершими
+</td>
+<td>
+из них на
+принуд.
+лечение
+</td>
+<td>взрослых</td>
+<td>
 из них на
 принуд.
 лечение
 </td>
 <td>
-число провед.
-к/дн. выписка
-н.и. умершими
+дети
+15-17
 </td>
 <td>
-из них на
-принуд.
-лечение
+детей до
+14 лет
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th>5</th>
 <th>6</th>
 <th>7</th>
 <th>8</th>
 <th>9</th>
 <th>10</th>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td colspan="4">Состоит на конец года</td>
-</tr>
-<tr>
-<td>взрослых</td>
-<td>из них на принуд. лечение</td>
-<td>подростков</td>
-<td>детей до 14 лет</td>
-</tr>
-<tr>
 <th>11</th>
 <th>12</th>
 <th>13</th>
 <th>14</th>
 </tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
 
-2320 Из общего числа выбывших (строка 12, 13, графа. 5): умерло всего
+## 2320
 
-1 _____, в том числе от несчастных случаев и самоубийств 2 _______,
+Из общего числа выбывших (стр.12, 13, гр.7): умерло всего 1__#1___, в том числе от несчастных случаев и самоубийств 2 __#2__, переведено
 
-переведено в учреждения Министерства труда и социальной защиты 3 ___
+в учреждения Министерства труда и социальной защиты 3 ___#3_____.
 
-2330 Из числа проведенных койко дней (строка 12, 13, гр. 9), число
+## 2330
 
-дней внутрибольничных отпусков 1 _________
+Из числа проведенных койко дней (стр. 12, 13, гр. 9), число дней внутрибольничных отпусков 1____#1____
 
-2340 Число дней нетрудоспособности по листкам нетрудоспособности,
-
-выданным выбывшим больным (строка 12, графа 9)
-
-1_________________________
+2340 Число дней нетрудоспособности по листкам нетрудоспособности, выданным выбывшим больным (стр. 12, гр. 9) 1___#1_____
 
 2400 Лечебно - трудовые мастерские для психических больных
 
+<table>
+<tr>
+<td>
 <table>
 <tr>
 <td>Наименование</td>
@@ -19268,67 +30014,72 @@ F20-F99
 <td>1</td>
 </tr>
 <tr>
-<td>Работает на конец года - всего больных</td>
+<td>
+Работает на конец года -
+всего больных
+</td>
 <td>01</td>
 <td></td>
 </tr>
 <tr>
-<td>Число мест в мастерских на конец года</td>
+<td>
+Число мест в мастерских на
+конец года
+</td>
 <td>02</td>
 <td></td>
 </tr>
 </table>
-
-2500 Врачебно - психиатрическая экспертиза
-
-Число лиц, прошедших экспертизу, всего ............1 ________________
-
-в том числе: военную .................. 2 ___________________________
-
-судебную ...............................3 ___________________________
-
-2600 Дневные стационары для психически больных
-
-Число мест по смете 1 __________________________
-
-Выписано больных 2 _____________________________
-
-Состоит больных на конец отчетного года 3 ___________________________
-
-Число дней, проведенных в стационаре 4 ______________________________
-
-Число дней нетрудоспособности по листкам нетрудоспособности,
-
-выданным выписанным больным5 ________________________________________
-
-<table>
-<tr>
-<td>Руководитель _________</td>
-<td>
-Руководитель _________
-Исполнитель ______,
-телефон _________
 </td>
-<td>Дата &quot;__&quot; ___ 20 _года</td>
+<td>
+2500 Врачебно - психиатрическая
+экспертиза
+Число лиц, прошедших экспертизу, всего
+1__#1___
+в том числе: военную 2 ___#2___
+судебную 3 ___#3_____
+</td>
 </tr>
 </table>
 
+2600 Дневные стационары для психически больных
+
+Число мест по смете 1___#1___, выписано больных 2 __#2__
+
+Состоит больных на конец отчетного года 3___#3____, число дней, проведенных в стационаре 4__#4____
+
+Число дней нетрудоспособности по листкам нетрудоспособности, выданным выписанным больным 5__#5___
+
+Руководитель ___________ Исполнитель ____________, телефон __________
+
+> *Дата "__" _________ 201__ года*  
 > *Приложение 3*  
-> *Утверждено приказом и.о. Министра*  
-> *здравоохранения Республики Казахстан*  
-> *от 12 сентября 2011 г. № 616*
+> *Утверждено приказом*  
+> *и.о. Министра здравоохранения*  
+> *Республики Казахстан*  
+> *от 12 сентября 2011 года № 616*
 
-Конфиденциальность гарантируется получателем информации
+## Конфиденциальность гарантируется получателем информации
 
-Кем представляется _________________________________________________
+Кем представляется __________________________________________________
 
 (наименование, адрес)
 
-### Форма 11
+_____________________________________________________________________
+
+## Форма, предназначенная для сбора административных даных
+
+Информация представляется в соответствии с Кодексом
+
+Республики Казахстан
+
+"О здоровье народа и системе здравоохранения"
+
+## Форма 11
 
 годовая
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+> *Сноска. Форма 11 в редакции приказа Министра здравоохранения РК от 28.09.2012 № 663 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -19337,56 +30088,2411 @@ F20-F99
 </tr>
 </table>
 
+Представляют:
+
+1\. Главный врач района и городского диспансера -
+
+в областной наркологический диспансер 5 января;
+
+2\. Областной наркологический диспансер - в
+
+Республиканский научно практический центр
+
+медико-социальных проблем наркомании (РНПЦ) 10
+
+января;
+
+3\. РНПЦ медико-социальных проблем наркомании - в
+
+Министерство здравоохранения Республики
+
+Казахстан к 10 февраля.
+
+## Отчет о заболеваниях и контингентах больных психическими и поведенческими расстройствами, вызванными употреблением психоактивных веществ за 20__ год
+
+## 1000 РАСПРЕДЕЛЕНИЕ БОЛЬНЫХ С ВПЕРВЫЕ УСТАНОВЛЕННЫМ ДИАГНОЗОМ ПСИХИЧЕСКИХ И ПОВЕДЕНЧЕСКИХ РАССТРОЙСТВ, ВЫЗВАННЫХ УПОТРЕБЛЕНИЕМ ПСИХОАКТИВНЫХ ВЕЩЕСТВ, ПО МЕСТУ ПРОЖИВАНИЯ
+
 <table>
 <tr>
-<td></td>
+<th rowspan="2">Наименование заболевания</th>
+<th rowspan="2">
+Шифр по
+МКБ X
+пересмотра
+</th>
+<th rowspan="2">№ строки</th>
+<th rowspan="2">всего</th>
+<th colspan="2">
+из общего числа, больные
+проживающие в сельской
+местности
+</th>
+</tr>
+<tr>
+<th>всего</th>
+<th>
+из них -
+женщин
+</th>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>В</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
 <td>
-Представляют:
-1. Главный врач района и городского диспансера - в
-областной наркологический диспансер 5 января;
-2. Областной наркологический диспансер - в управление
-статистики области и Республиканский научно практический
-центр медико - социальных проблем наркомании (РНПЦ)10
-января;
-3. РНПЦ медико - социальных проблем наркомании - в
-Министерстве здравоохранения Республики Казахстан к 10
-февраля;
-4. Министерство здравоохранения Республики Казахстан
-сводные отчеты - в Агенство Республики Казахстан по
-статистике 1 апреля
+Психические и поведенческие
+расстройства, вызванные
+употреблением психоактивных
+веществ, всего
+</td>
+<td>F10-F19</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе: употреблением
+алкоголя
+</td>
+<td>F10</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>употреблением опиоидов, всего</td>
+<td rowspan="4">F11</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: - героина,</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- опиума,</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- других опиатов;</td>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>употреблением каннабиноидов;</td>
+<td>F12</td>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>употреблением седативных и снотворных средств, всего</td>
+<td rowspan="3">F13</td>
+<td>08</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: - барбитураты,</td>
+<td>09</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- бензодиазипинов;</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>употреблением кокаина;</td>
+<td>F14</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+употреблением других
+стимуляторов, включая кофеин,
+всего
+</td>
+<td></td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: - амфетаминов,</td>
+<td>F15</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- метамфетаминов,</td>
+<td></td>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- экстази;</td>
+<td></td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>употреблением галлюциногенов;</td>
+<td>F16</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>употреблением табака;</td>
+<td>F17</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+употреблением летучих
+растворителей;
+</td>
+<td>F18</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+сочетанным употреблением
+наркотиков и других психоактивных
+веществ.
+</td>
+<td>F19</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+## 1001 РАСПРЕДЕЛЕНИЕ БОЛЬНЫХ С ВПЕРВЫЕ УСТАНОВЛЕННЫМ ДИАГНОЗОМ С ПСИХИЧЕСКИХ И ПОВЕДЕНЧЕСКИХ РАССТРОЙСТВ, ВЫЗВАННЫХ УПОТРЕБЛЕНИЕМ ПСИХОАКТИВНЫХ ВЕЩЕСТВ, ПО ПОЛУ, ВОЗРАСТУ И СПОСОБУ ВВЕДЕНИЯ (из графы 1 таблицы 1000)
+
+<table>
+<tr>
+<th>Наименование заболевания</th>
+<th>пол</th>
+<th>
+Шифр по МКБ X
+пересмотра
+</th>
+<th>№ строки</th>
+<th>Всего</th>
+</tr>
+<tr>
+<td>А</td>
+<td>Б</td>
+<td>В</td>
+<td>Г</td>
+<td>1</td>
+</tr>
+<tr>
+<td rowspan="2">
+Психические и поведенческие расстройства,
+вызванные употреблением психоактивных
+веществ, всего
+</td>
+<td>м</td>
+<td rowspan="2">F10-F19</td>
+<td>01</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>02</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">в том числе: употреблением алкоголя</td>
+<td>м</td>
+<td rowspan="2">F10</td>
+<td>03</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>04</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">употреблением опиоидов, всего</td>
+<td>м</td>
+<td rowspan="8">F11</td>
+<td>05</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>06</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">из них: - героина,</td>
+<td>м</td>
+<td>07</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>08</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">- опиума,</td>
+<td>м</td>
+<td>09</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">- других опиатов;</td>
+<td>м</td>
+<td>11</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>12</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">употреблением каннабиноидов;</td>
+<td>м</td>
+<td rowspan="2">F12</td>
+<td>13</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>14</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+употреблением седативных и снотворных
+средств
+</td>
+<td>м</td>
+<td rowspan="2">F13</td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>16</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">употреблением кокаина;</td>
+<td>м</td>
+<td rowspan="2">F14</td>
+<td>17</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>18</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+употреблением других стимуляторов, включая
+кофеин
+</td>
+<td>м</td>
+<td rowspan="2">F15</td>
+<td>19</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">употреблением галлюциногенов;</td>
+<td>м</td>
+<td rowspan="2">F16</td>
+<td>21</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>22</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">употреблением табака;</td>
+<td>м</td>
+<td rowspan="2">F17</td>
+<td>23</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>24</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">употреблением летучих растворителей;</td>
+<td>м</td>
+<td rowspan="2">F18</td>
+<td>25</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>26</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+сочетанным употреблением наркотиков и
+других психоактивных веществ
+</td>
+<td>м</td>
+<td rowspan="2">F19</td>
+<td>27</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>28</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Всего инъекционных потребителей наркотиков
+(F11, F13, F14, F15, F16 и F19)
+</td>
+<td>м</td>
+<td>
+из строк 5, 15,
+19, 21, и 27
+</td>
+<td>29</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>
+из строк 6, 16,
+20, 22 и 28
+</td>
+<td>30</td>
+<td></td>
+</tr>
+</table>
+
+продолжение таблицы
+
+<table>
+<tr>
+<td colspan="12">в том числе у больных в возрасте</td>
+</tr>
+<tr>
+<th>
+0-14
+лет
+</th>
+<th>
+15-17
+лет
+</th>
+<th>
+18-19
+лет
+</th>
+<th>
+20-24
+лет
+</th>
+<th>
+25-29
+лет
+</th>
+<th>
+30-34
+лет
+</th>
+<th>
+35-39
+лет
+</th>
+<th>
+40-44
+года
+</th>
+<th>
+45-49
+лет
+</th>
+<th>
+50-54
+года
+</th>
+<th>
+55-59
+лет
+</th>
+<th>
+60 лет
+и старше
+</th>
+</tr>
+<tr>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th colspan="7">
+2100 Контингенты больных, находящихся под диспансерным наблюдением и лиц, состоящих
+на профилактическом учете
+</th>
+</tr>
+<tr>
+<th>
+Наименование
+заболевания
+</th>
+<th>
+Шифр по
+МКБ X
+пересмотра
+</th>
+<th>№ строки</th>
+<th>
+Состояло
+на начало
+отчетного
+периода
+</th>
+<th>
+Взято под
+наблюдение
+в течение
+года
+</th>
+<th>
+из них с
+впервые
+в жизни
+установ-
+ленным
+диагнозом
+</th>
+<th>
+Снято с
+наблюдения
+в отчетном
+году
+</th>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>В</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+<tr>
+<td>
+Психические и
+поведенческие
+расстройства,
+вызванные
+употреблением
+психоактивных
+веществ, всего
+</td>
+<td>F10-F19</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+употреблением
+алкоголя
+</td>
+<td>F10</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+употреблением
+опиоидов, всего
+</td>
+<td rowspan="4">F11</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: - героина,</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- опиума,</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- других опиатов;</td>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+употреблением
+каннабиноидов;
+</td>
+<td>F12</td>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+употреблением
+седативных и
+снотворных средств,
+всего
+</td>
+<td rowspan="3">F13</td>
+<td>08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+- барбитураты,
+</td>
+<td>09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- бензодиазипинов;</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+употреблением
+кокаина;
+</td>
+<td>F14</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+употреблением других
+стимуляторов,
+включая кофеин,
+всего
+</td>
+<td></td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+- амфетаминов,
+</td>
+<td>F15</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- метамфетаминов,</td>
+<td></td>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- экстази;</td>
+<td></td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+употреблением
+галлюциногенов;
+</td>
+<td>F16</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+употреблением
+табака;
+</td>
+<td>F17</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+употреблением
+летучих
+растворителей;
+</td>
+<td>F18</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+сочетанным
+употреблением
+наркотиков и других
+психоактивных
+веществ.
+</td>
+<td>F19</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+В том числе
+эпизодическое
+употребление:
+алкоголя
+</td>
+<td>F10</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+наркотических
+веществ
+</td>
+<td>F11 - F19</td>
+<td>21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+продолжение таблицы
+
+<table>
+<tr>
+<th colspan="4">
+2100 Контингенты больных, находящихся под диспансерным наблюдением и лиц,
+состоящих на профилактическом учете
+</th>
+<th></th>
+</tr>
+<tr>
+<th colspan="2">снято в связи с</th>
+<th colspan="3">
+Состоит под наблюдением больных
+на конец отчетного года
+</th>
+</tr>
+<tr>
+<th rowspan="2">длительной ремиссией</th>
+<th rowspan="2">смертью</th>
+<th rowspan="2">всего</th>
+<th colspan="2">сельских жителей</th>
+</tr>
+<tr>
+<th>всего</th>
+<th>женщин</th>
+</tr>
+<tr>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+## 2101 РАСПРЕДЕЛЕНИЕ БОЛЬНЫХ, СОСТОЯЩИХ НА НАРКОЛОГИЧЕСКОМ УЧЕТЕ, ПО ПОЛУ, ВОЗРАСТУ И СПОСОБУ ВВЕДЕНИЯ ПАВ (из графы 7 таблицы 2100)
+
+<table>
+<tr>
+<th>Наименование заболевания</th>
+<th>пол</th>
+<th>
+Шифр по МКБ X
+пересмотра
+</th>
+<th>№ строки</th>
+<th>Всего</th>
+</tr>
+<tr>
+<td>А</td>
+<td>Б</td>
+<td>В</td>
+<td>Г</td>
+<td>1</td>
+</tr>
+<tr>
+<td rowspan="2">
+Психические и поведенческие
+расстройства, вызванные употреблением
+психоактивных веществ, всего
+</td>
+<td>м</td>
+<td rowspan="2">F10-F19</td>
+<td>01</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>02</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">в том числе: употреблением алкоголя</td>
+<td>м</td>
+<td rowspan="2">F10</td>
+<td>03</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>04</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">употреблением опиоидов, всего</td>
+<td>м</td>
+<td rowspan="8">F11</td>
+<td>05</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>06</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">из них: - героина,</td>
+<td>м</td>
+<td>07</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>08</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">- опиума,</td>
+<td>м</td>
+<td>09</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">- других опиатов;</td>
+<td>м</td>
+<td>11</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>12</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">употреблением каннабиноидов;</td>
+<td>м</td>
+<td rowspan="2">F12</td>
+<td>13</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>14</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+употреблением седативных и снотворных
+средств
+</td>
+<td>м</td>
+<td rowspan="2">F13</td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>16</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">употреблением кокаина;</td>
+<td>м</td>
+<td rowspan="2">F14</td>
+<td>17</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>18</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+употреблением других стимуляторов,
+включая кофеин
+</td>
+<td>м</td>
+<td rowspan="2">F15</td>
+<td>19</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">употреблением галлюциногенов;</td>
+<td>м</td>
+<td rowspan="2">F16</td>
+<td>21</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>22</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">употреблением табака;</td>
+<td>м</td>
+<td rowspan="2">F17</td>
+<td>23</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>24</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">употреблением летучих растворителей;</td>
+<td>м</td>
+<td rowspan="2">F18</td>
+<td>25</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>26</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+сочетанным употреблением наркотиков и
+других психоактивных веществ.
+</td>
+<td>м</td>
+<td rowspan="2">F19</td>
+<td>27</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>28</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Всего инъекционных потребителей
+наркотиков
+(F11, F13, F14, F15, F16 и F19)
+</td>
+<td>м</td>
+<td>
+из строк 5, 15,
+19, 21, и 27
+</td>
+<td>29</td>
+<td></td>
+</tr>
+<tr>
+<td>ж</td>
+<td>
+из строк 6, 16,
+20, 22 и 28
+</td>
+<td>30</td>
+<td></td>
+</tr>
+</table>
+
+продолжение таблицы
+
+<table>
+<tr>
+<td colspan="12">в том числе у больных в возрасте</td>
+</tr>
+<tr>
+<th>0-14 лет</th>
+<th>15-17 лет</th>
+<th>18-19 лет</th>
+<th>20-24 лет</th>
+<th>25-29 лет</th>
+<th>30-34 лет</th>
+<th>35-39 лет</th>
+<th>40-44 года</th>
+<th>45-49 лет</th>
+<th>50-54 года</th>
+<th>55-59 лет</th>
+<th>60 лет и старше</th>
+</tr>
+<tr>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+2120 Из числа больных (F10 ) состоящих под
+наблюдением (графа 7 таблицы 2100) на конец
+года
+в ремиссии от года до 2 лет.......1______,
+в ремиссии свыше 2 лет.............2______,
+</td>
+<td>
+2140 Отравления психоактивными
+веществами: всего 1 ________,
+в том числе у женщин 2 ______, у детей до
+14 лет включительно 3 _______, у детей
+15-18 лет 4 ______
+Смертельные исходы в результате
+токсического дейсвия психоактивных
+веществ: всего 5 _______, в том числе
+женщин 6 _______,
+детей 15-18 лет 7_______, детей до 14 лет
+8 _______
+</td>
+</tr>
+<tr>
+<td colspan="2">
+Из числа больных (F11-F16,F18,F19) состоящих под наблюдением (графа 7 таб 2100)
+на конец года
+</td>
+</tr>
+<tr>
+<td>
+в ремиссии от года до 2 лет........3______,
+в ремиссии свыше 2 лет.............4______,
+</td>
+<td>
+2200 Число должностей врачей и других
+специалистов, осуществляющих наблюдение
+за наркологическими больными и
+медико-социальную реабилитацию
+наркозависимых на конец отчетного года
 </td>
 </tr>
 </table>
 
-### Отчет о заболеваниях и контингентах больных психическими расстройствами, вызванными употреблением психоактивных веществ за 20 ___ год
+<table>
+<tr>
+<td>
+Из числа больных (F10) графа 7 таб 2100
+уклоняющихся от лечения..........5______,
+Из числа больных (F11-F16,F18,F19) графа 7
+таб 2100
+уклоняющихся от лечения...........6______,
+Из числа больных (F10) перенесли в течение
+отчетного года
+психотические расстройства (F10.4-10.9)
+........7______,
+Из числа больных (F11-F16, F18, F19)
+перенесли в течение отчетного года
+психотические расстройства (F10.4-10.9)
+.............8________,
+Число лиц, лечившихся анонимно.....9_____,
+Число больных, переведенных в течение года
+с профилактического под диспансерное
+наблюдение с:
+алкоголизмом.......10 _______,
+наркоманиями.......11 _______,
+токсикоманиями.....12 _______.
+2130 Алкогольные отравления всего 1______,
+в том числе суррогатами алкоголя 2 ______,
+в том числе у женщин 3 _______, у детей 4
+_______, у подростков 5 ______
+Смертельные исходы в результате
+отравлений: всего 6 _______,
+в том числе у женщин 7_______, у детей до
+14 лет включительно 8 _______,
+у детей 15-18 лет 9 _______
+</td>
+<td>
+<table>
+<tr>
+<td rowspan="2">Наименование</td>
+<td rowspan="2">
+№
+строки
+</td>
+<td colspan="2">
+Должности на
+конец года
+</td>
+<td rowspan="2">
+Число
+физических
+лиц на
+занятых
+должностях
+</td>
+</tr>
+<tr>
+<td>штатных</td>
+<td>занятых</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
+<td>
+Всего врачей
+наркологов
+</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+в том числе:
+врачей,
+обслуживающих
+сельское
+население
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+врачей-экспертов,
+работающих в
+составе спец-
+медкомиссии по
+наркологической
+экспертизе
+</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+работающие при
+центральных
+районных
+больницах (ЦРБ)
+</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Участковых
+наркологов
+для взрослых
+</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>подростковых</td>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>детских</td>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Врачей
+психотерапевтов
+</td>
+<td>08</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Медицинских
+психологов
+</td>
+<td>09</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Психологов</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Социальных
+педагогов
+(работников)
+</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
 
-### 1000 РАСПРЕДЕЛЕНИЕ БОЛЬНЫХ С ПСИХИЧЕСКИМИ И ПОВЕДЕНЧЕСКМИ РАССТРОЙСТВАМИ, ВЫЗВАННЫМИ УПОТРЕБЛЕНИЕМ ПСИХОАКТИВНЫХ ВЕЩЕСТВ, ПО ПОЛУ, ВОЗРАСТУ, МЕСТУ ПРОЖИВАНИЯ И СПОСОБУ ВВЕДЕНИЯ
+2210 Число занятых должностей врачей
+
+наркологов, осуществляющих анонимное лечение
+
+(без занятых должностей врачей наркологов
+
+хозрасчетных учреждений) 1 _____
+
+## 2300 Состав больных в наркологическом стационаре
 
 <table>
 <tr>
-<td rowspan="4">
+<td rowspan="2">
 Наименование
-заболевания
+заболеваний
 </td>
-<td colspan="2" rowspan="4">
-Шифр по МКБ X
-пересмотра
+<td rowspan="2">
+№
+строки
 </td>
-<td colspan="6">Число больных с впервые в жизни установленным диагнозом</td>
+<td rowspan="2">
+Шифр по
+КБ Х
+пере-
+смотра
+</td>
+<td colspan="3">
+состояло на начало
+отчетного периода
+больных
+</td>
+<td colspan="3">В отчетном году</td>
 </tr>
 <tr>
-<td rowspan="3">всего</td>
-<td colspan="5">в том числе</td>
-</tr>
-<tr>
-<td rowspan="2">женщин</td>
-<td colspan="4">в возрасте (из графы 1)</td>
-</tr>
-<tr>
-<td>0-14</td>
-<td>15-17</td>
-<td>18 - 34</td>
-<td>35 -&gt;</td>
+<td>
+состояло
+на начало
+отчетного
+периода
+больных
+</td>
+<td>
+посту-
+пило
+больных
+</td>
+<td>
+из них
+впервые
+в данном
+году
+</td>
+<td>
+выбыло
+боль-
+ных
+</td>
+<td>
+число
+койко-дней,
+проведенных
+в стационаре
+выписанными
+и умершими
+</td>
+<td>
+состоит
+на конец
+отчетного
+года
+больных,
+всего:
+</td>
 </tr>
 <tr>
 <th>А</th>
@@ -19409,8 +32515,8 @@ F20-F99
 психоактивных
 веществ, всего
 </td>
+<td>01</td>
 <td>F10-F19</td>
-<td>1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -19424,1038 +32530,8 @@ F20-F99
 употреблением
 алкоголя
 </td>
-<td>F10</td>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-употреблением
-опиоидов, всего
-</td>
-<td rowspan="4">F11</td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них: -
-героина,
-</td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>- опиума,</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-- других
-опиатов;
-</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-употреблением
-каннабиноидов;
-</td>
-<td>F12</td>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-употреблением
-седативных и
-снотворных
-средств, всего
-</td>
-<td rowspan="3">F13</td>
-<td>08</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них: -
-барбитураты,
-</td>
-<td>09</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>- бензодиазипинов;</td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-употреблением
-кокаина;
-</td>
-<td>F14</td>
-<td>11</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">
-употреблением других
-стимуляторов, включая
-кофеин, всего
-</td>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них: -
-амфетаминов,
-</td>
-<td>F15</td>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>-метамфетаминов,</td>
-<td></td>
-<td>14</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>-экстази;</td>
-<td></td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-употреблением
-галлюциногенов;
-</td>
-<td>F16</td>
-<td>16</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-употреблением
-табака;
-</td>
-<td>F17</td>
-<td>17</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-употреблением
-летучих
-растворителей;
-</td>
-<td>F18</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-сочетанным
-употреблением
-наркотиков и
-других
-психоактивных
-веществ.
-</td>
-<td>F19</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">
-Всего инъекционных
-потребителей наркотиков
-из строк 3, 8, 11, 12,
-16 и 19 (F11, F13, F14,
-F15, F16 и F19)
-</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td colspan="6">из общего числа больные, проживающие в сельской местности</td>
-</tr>
-<tr>
-<td rowspan="3">всего</td>
-<td colspan="5">в том числе</td>
-</tr>
-<tr>
-<td rowspan="2">женщин</td>
-<td colspan="4">в возрасте (из графы 7)</td>
-</tr>
-<tr>
-<td>0-14</td>
-<td>15-17</td>
-<td>18 - 34</td>
-<td>35 -&gt;</td>
-</tr>
-<tr>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-2100 Контингенты больных, находящихся под диспансерным наблюдением и лиц, состоящих на профилактическом учете
-
-<table>
-<tr>
-<td>
-Наименование
-заболеваний
-</td>
-<td>Шифр по МКБ Х пересмотра</td>
-<td>№ строки</td>
-<td>
-Состояло на начало
-отчетного периода
-</td>
-<td>
-Взято под наблюдение
-в течение года
-</td>
-</tr>
-<tr>
-<td>А</td>
-<td>Б</td>
-<td>В</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td>
-расстройства,
-вызванные
-употреблением
-</td>
-<td rowspan="2">F10 - F19</td>
-<td>01</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-психоактивных
-веществ, всего:
-</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-употреблением
-алкоголя
-</td>
-<td>F10</td>
 <td>02</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-употреблением
-опиоидов, всего
-</td>
-<td rowspan="4">F11</td>
-<td>03</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них -героина</td>
-<td>04</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>-опиума</td>
-<td>05</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-- других
-опиатов
-</td>
-<td>06</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-употребления
-каннабиноидов
-</td>
-<td>F12</td>
-<td>07</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-употреблением
-седативных и
-</td>
-<td rowspan="4">F13</td>
-<td rowspan="2">08</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-снотворных
-средств, всего
-</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них -
-барбитуратов
-</td>
-<td>09</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>-бензодиазипинов</td>
-<td>10</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-употреблением
-кокаина
-</td>
-<td>F14</td>
-<td>11</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-употреблением
-других
-стимуляторов,
-</td>
-<td rowspan="5">F15</td>
-<td rowspan="2">12</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-включая кофеин,
-всего
-</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них -
-амфетаминов
-</td>
-<td>13</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>- метамфетаминов</td>
-<td>14</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>- экстази</td>
-<td>15</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-употреблением
-галлюциногенов
-</td>
-<td>F16</td>
-<td>16</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-употреблением
-табака
-</td>
-<td>F17</td>
-<td>17</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-употреблением
-летучих
-растворителей
-</td>
-<td>F18</td>
-<td>18</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-сочетанным
-употреблением
-наркотиков и др.
-психоактивных
-веществ
-</td>
-<td>F19</td>
-<td>19</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">
-В том числе эпизодическое
-употребление: алкоголя
-</td>
-<td>20</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-наркотических
-веществ
-</td>
-<td></td>
-<td>21</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Всего
-инъекционных
-потребителей
-наркотиков из
-строк 3, 8, 11,
-12, 16 и 19
-</td>
-<td>
-F11, F13-
-F16, F19
-</td>
-<td>22</td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td rowspan="2">
-из них с впервые в
-жизни установленным
-диагнозом
-</td>
-<td rowspan="2">
-Снято с наблюдения в
-отчетном году
-</td>
-<td colspan="2">снято в связи с</td>
-</tr>
-<tr>
-<td>длительной ремиссией</td>
-<td>смертью</td>
-</tr>
-<tr>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td colspan="7">Состоит под наблюдением больных на конец отчетного года</td>
-</tr>
-<tr>
-<td rowspan="3">всего</td>
-<td colspan="6">в том числе</td>
-</tr>
-<tr>
-<td rowspan="2">женщин</td>
-<td colspan="2">дети</td>
-<td colspan="2">дети</td>
-<td>
-лица в
-воз-те
-18-34 лет
-</td>
-</tr>
-<tr>
-<td>
-до 14 лет
-включительно
-</td>
-<td>
-от 15 до 17 лет
-включительно
-</td>
-<td>
-до 14 лет
-включительно
-</td>
-<td>
-от 15 до 17лет
-включительно
-</td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>8</td>
-<td>9</td>
-<td></td>
-<td>14</td>
-<td></td>
-<td>16</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>
-2120 Из числа больных (F 10) состоящих под
-наблюдением (графа 7) на конец года
-в ремиссии от года до 2 лет .....1 ______,
-в ремиссии свыше 2 лет .........2 _______,
-Из числа больных (F 11-F 16,F 18,F 19)
-состоящих под наблюдением (графа 7) на
-конец года
-в ремиссии от года до 2 лет .....3 ______,
-в ремиссии свыше 2 лет ........4 ________,
-Из числа больных (F10) графа
-уклоняющихся от лечения .........5 ______,
-Из числа больных (F 11-F 16,F 18,F 19)
-графа 7
-уклоняющихся от лечения .........6 ______,
-Из числа больных (F 10) перенесли в
-течение отчетного года
-психотические расстройства
-(F 10.4-10.9) ........ 7 ______,
-Из числа больных (F 11-F 16,F 18,F 19)
-перенесли в течение отчетного года
-психотические расстройства
-(F 10.4-10.9) ...........8 ________,
-Число лиц, лечившихся анонимно ..9 ______,
-Число больных, переведенных в течение года
-с профилактического под
-диспансерное наблюдение с:
-алкоголизмом ............10 _______,
-наркоманиями ............11 ________,
-токсикоманиями ..........12 ________
-2130 Алкогольные отравления
-всего 1 ________, в том числе
-суррогатами алкоголя 2 ______, в том числе
-у женщин 3 _______, у детей 4 _______, у
-подростков 5 ______
-Смертельные исходы в результате
-отравлений: всего 6 _______, в том числе у
-женщин 7_______, у детей до 14 лет
-включительно 8 _______, у детей
-15-18 лет 9 _______
-</td>
-<td>
-2140 Отравления психоактивными веществами: всего 1 ________,
-в том числе у женщин 2 ______, у детей до
-14 лет включительно 3 _______, у детей
-15-18 лет 4 ______
-Смертельные исходы в результате
-токсического дейсвия психоактивных
-веществ: всего 5 _______, в том числе
-женщин 6 _______, детей 15-18 лет
-7_______, детей до 14 лет 8 _______
-2200 Число должностей врачей и других
-специалистов, осуществляющих наблюдение за
-наркологическими больными и
-медико-социальную реабилитацию
-наркозависимых на конец отчетного года
-<table>
-<tr>
-<td rowspan="2">
-Наиме-
-нование
-</td>
-<td rowspan="2">
-№
-строки
-</td>
-<td colspan="2">Должности на конец года</td>
-<td rowspan="2">Число физических лиц на занятых должностях</td>
-</tr>
-<tr>
-<td>штатных</td>
-<td>занятых</td>
-</tr>
-<tr>
-<th>А</th>
-<th>Б</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-</tr>
-<tr>
-<td>
-Всего врачей нарко-
-логов
-</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе: врачей, обслужи-
-вающих в составе спец-
-мед-
-комиссии по нарко-
-логичес-
-кой экспер-
-тизе
-</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-врачей - экспер-
-тов, рабо-
-тающих в составе спец-
-мед-
-комиссии по нарко-
-логичес-
-кой экспер-
-тизе
-</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них: работаю-
-щие при цент-
-ральных
-</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Участ-
-ковых нарко-
-логов для взрослых
-</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-подрост-
-ковых
-</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>детских</td>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Врачей психо-
-терапев-
-тов
-</td>
-<td>08</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Медицин-
-ских психо-
-логов
-</td>
-<td>09</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Психо-
-логов
-</td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Социаль-
-ных педаго-
-гов (работ-
-ников)
-</td>
-<td>11</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-2210 Число занятых должностей врачей
-наркологов, осуществляющих анонимное
-лечение (без занятых должностей врачей
-наркологов хозрасчетных учреждений) 1 _____
-</td>
-</tr>
-</table>
-
-2300 Состав больных в наркологическом стационаре
-
-<table>
-<tr>
-<td rowspan="2">
-Наименование
-заболеваний
-</td>
-<td rowspan="2">
-№
-строки
-</td>
-<td rowspan="2">
-Шифр по
-МКБ Х
-пере-
-смотра
-</td>
-<td rowspan="2">
-состояло
-на
-начало
-отчетного
-периода
-больных
-</td>
-<td colspan="5">В отчетном году</td>
-</tr>
-<tr>
-<td>
-поступило
-больных
-</td>
-<td>
-из них
-впервые
-в данном
-году
-</td>
-<td>
-выбыло
-больных
-</td>
-<td>
-число
-койко-
-дней,
-проведе-
-нных в
-стацио-
-наре
-выписа-
-нными и
-умершими
-</td>
-<td>
-состоит на
-конец
-отчетного
-года
-больных,
-всего:
-</td>
-</tr>
-<tr>
-<th>А</th>
-<th>Б</th>
-<th>В</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td rowspan="2">
-Психические и
-поведенческие
-расстройства,
-вызванные
-употреблением
-психоактивных
-веществ,
-всего
-</td>
-<td rowspan="2">01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>F 10-F 19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">
-в том числе:
-употреблением
-алкоголя
-</td>
-<td rowspan="2">02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>F 10</td>
+<td>F10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -20469,7 +32545,7 @@ F16, F19
 опиоидов
 </td>
 <td>03</td>
-<td>F 11</td>
+<td>F11</td>
 <td></td>
 <td></td>
 <td></td>
@@ -20483,7 +32559,7 @@ F16, F19
 каннабиноидов
 </td>
 <td>04</td>
-<td>F 12</td>
+<td>F12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -20495,11 +32571,10 @@ F16, F19
 <td>
 употреблением
 седативных и
-снотворных
-средств
+снотворных средств
 </td>
 <td>05</td>
-<td>F 13</td>
+<td>F13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -20513,7 +32588,7 @@ F16, F19
 кокаина
 </td>
 <td>06</td>
-<td>F 14</td>
+<td>F14</td>
 <td></td>
 <td></td>
 <td></td>
@@ -20526,11 +32601,10 @@ F16, F19
 употреблением
 других
 стимуляторов,
-включая
-кофеин
+включая кофеин
 </td>
 <td>07</td>
-<td>F 15</td>
+<td>F15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -20541,11 +32615,10 @@ F16, F19
 <tr>
 <td>
 употреблением
-галлюцино-
-генов
+галлюциногенов
 </td>
 <td>08</td>
-<td>F 16</td>
+<td>F16</td>
 <td></td>
 <td></td>
 <td></td>
@@ -20559,7 +32632,7 @@ F16, F19
 табака
 </td>
 <td>09</td>
-<td>F 17</td>
+<td>F17</td>
 <td></td>
 <td></td>
 <td></td>
@@ -20574,7 +32647,7 @@ F16, F19
 растворителей
 </td>
 <td>10</td>
-<td>F 18</td>
+<td>F18</td>
 <td></td>
 <td></td>
 <td></td>
@@ -20586,25 +32659,12 @@ F16, F19
 <td>
 сочетанным
 употреблением
-наркотиков и
-др.
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
+наркотиков и др.
 психоактивных
 веществ
 </td>
 <td>11</td>
-<td>F 19</td>
+<td>F19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -20614,11 +32674,11 @@ F16, F19
 </tr>
 <tr>
 <td>
-Из общего
-числа больных
+Из общего числа
+больных
 наркоманиями
-(строки 3-10)
-- женщин
+(строки 3-10) -
+женщин
 </td>
 <td>12</td>
 <td></td>
@@ -20631,8 +32691,8 @@ F16, F19
 </tr>
 <tr>
 <td>
-Из общего
-числа больных
+Из общего числа
+больных
 алкоголизмом
 (строка 2) -
 женщин
@@ -20648,9 +32708,8 @@ F16, F19
 </tr>
 <tr>
 <td>
-Из общего
-числа больных
-(строки
+Из общего числа
+больных (строки
 3,5-8,11) -
 потребители
 инъекционных
@@ -20665,210 +32724,131 @@ F16, F19
 <td></td>
 <td></td>
 </tr>
-<tr>
-<td rowspan="2">
-Кроме того,
-признано
-психически
-здоровыми и с
-заболеваниями
-не вошедшими
-в строку 1
-</td>
-<td rowspan="2">15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
 
-<table>
-<tr>
-<td>
-2310 Из числа выбывших
-(графа 4 строки 1 и 15)
-поступило детей 15-17 лет 1
-_____ детей до 14 лет 2 ____
-</td>
-<td></td>
-<td>
-2320 Из общего числа
-выбывших (графа 4 строки 1 и
-15) умерло всего 1 _____
-</td>
-</tr>
-<tr>
-<td>
-2400 Дневные стационары для
-наркологических больных:
-состоит больных на конец
-отчетного года ..3 ______,
-</td>
-<td>
-число мест .......1 ______,
-число дней, проведенных в
-стационаре ......4 ______
-</td>
-<td>выписано больных ...2 _____,</td>
-</tr>
-</table>
+2310 Из числа выбывших (графа 4 строки 1) 2320 Из общего числа выбывших (графа 4 поступило детей 15-17 лет 1______ детей строки 1) умерло всего 1___.
+
+до 14 лет 2 _______
+
+2400 Дневные стационары для наркологических больных: число мест.............1 ______,
+
+выписано больных........2 ______, состоит больных на конец отчетного года.....3______,
+
+число дней, проведенных в стационаре......4 ______
 
 2500 Врачебно-наркологическая экспертиза, освидетельствование
 
 <table>
 <tr>
-<td>Наименование заболеваний</td>
-<td>№ стр</td>
-<td>
-Шифр по МБК
-X пересмотра
+<td rowspan="4">
+Наименование
+заболеваний
 </td>
-<td>
+<td rowspan="4">
+№
+стр
+</td>
+<td rowspan="4">
+Шифр по
+МБК X
+перес-
+мотра
+</td>
+<td rowspan="4">
 Число лиц
-освидетельствованных
-для установления
-состояния опьянения
-</td>
-</tr>
-<tr>
-<td>А</td>
-<td>Б</td>
-<td>В</td>
-<td>1</td>
-</tr>
-<tr>
-<td>
-Всего прошли эеспертизу или
-освидетельствование
-</td>
-<td>1</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Из всех прошедших всего выставлены
-диагнозы психических и поведенческих
-расстройств, вызванных употреблением
-психоактивных веществ или состояние
+освиде-
+тельство-
+ванных для
+установ-
+ления
+состояния
 опьянения
 </td>
-<td>02</td>
-<td>F 10-F 19</td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе, вызванные употреблением
-алкоголя
-</td>
-<td>03</td>
-<td>F 10</td>
-<td></td>
-</tr>
-<tr>
-<td>вызванные употреблением наркотиков</td>
-<td>04</td>
-<td>F 11-F 19</td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-у женщин, вызванные употреблением
-алкоголя
-</td>
-<td>05</td>
-<td>F 10</td>
-<td></td>
-</tr>
-<tr>
-<td>
-у женщин, вызванные употреблением
-наркотиков
-</td>
-<td>06</td>
-<td>F 11-19</td>
-<td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
 <td colspan="6">Судебно-наркологическая экспертиза</td>
 </tr>
 <tr>
 <td colspan="2">
-Число лиц, прошедших
+Число лиц,
+прошедших
 экспертизу, для
 направления на
 принудлечение
 </td>
 <td colspan="2">
-Экспертиза подследственных
+Экспертиза
+подследственных
 и подсудимых
 </td>
-<td colspan="2">Экспертиза по гражданским делам</td>
+<td colspan="2">
+Экспертиза по
+гражданским делам
+</td>
 </tr>
 <tr>
 <td colspan="2">
-На основании Указа от
-07.04.1995 г. № 2184
+На основании
+Указа от
+07.04.1995 г.
+№ 2184
 </td>
 <td colspan="2">
-В соответсвии со статьей 88
-УК Республики Казахстан
+В соответствии
+со статьей 88
+УК Республики
+Казахстан
 </td>
 <td colspan="2">
 В соответствии со
-статьями.255-257
-ГПК Республики Казахстан
+статьями 255-257
+ГПК Республики
+Казахстан
 </td>
 </tr>
 <tr>
 <td>
 прошли
-экспертизу
+экспер-
+тизу
 </td>
 <td>
-рекомендовано
-принудительноелечение
-</td>
-<td>
-прошли
-экспертизу
-</td>
-<td>
-рекомендовано
-принудительное
+рекомен-
+довано
+принуди-
+тельное
 лечение
 </td>
 <td>
 прошли
-экспертизу
+экс-
+пертизу
 </td>
 <td>
-рекомендовано
-принудиетльное
+реко-
+мендо-
+вано
+прину-
+дитель-
+ное
+лечение
+</td>
+<td>
+прошли
+экспер-
+тизу
+</td>
+<td>
+рекомен-
+довано
+принуди-
+тельное
 лечение
 </td>
 </tr>
 <tr>
+<th>А</th>
+<th>Б</th>
+<th>В</th>
+<th>1</th>
 <th>2</th>
 <th>3</th>
 <th>4</th>
@@ -20877,6 +32857,110 @@ X пересмотра
 <th>7</th>
 </tr>
 <tr>
+<td>
+Всего прошли
+эеспертизу или
+освидетельст-
+вование
+</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Из всех
+прошедших
+всего
+выставлены
+диагнозы
+психических и
+поведенческих
+расстройств,
+вызванных
+употреблением
+психоактивных
+веществ или
+состояние
+опьянения
+</td>
+<td>02</td>
+<td>F10-F19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе,
+вызванные
+употреблением
+алкоголя
+</td>
+<td>03</td>
+<td>F10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+вызванные
+употреблением
+наркотиков
+</td>
+<td>04</td>
+<td>F11-F19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+у женщин,
+вызванные
+употреблением
+алкоголя
+</td>
+<td>05</td>
+<td>F10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+у женщин,
+вызванные
+употреблением
+наркотиков
+</td>
+<td>06</td>
+<td>F11-19</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -20886,30 +32970,69 @@ X пересмотра
 </tr>
 </table>
 
-2600 Состав больных в стационаре специализированной лечебно-профилактической организации (отделения) (из таблицы 2300)
+## 2600 Состав больных в стационаре наркологической организации (отделения) для принудительного лечения (из таблицы 2300)
 
 <table>
 <tr>
-<td>Наименование заболеваний</td>
-<td>№ строки</td>
-<td>Шифр по МКБ Х пересмотра</td>
-<td>Состояло на начало отчетного периода</td>
-</tr>
-<tr>
-<td>А</td>
-<td>Б</td>
-<td>В</td>
-<td>1</td>
+<td rowspan="2">
+Наименование
+заболеваний
+</td>
+<td rowspan="2">
+№
+строки
+</td>
+<td rowspan="2">
+Шифр по
+МКБ Х
+пересмотра
+</td>
+<td rowspan="2">
+Состояло
+на начало
+отчетного
+периода
+</td>
+<td colspan="3">В отчетном году</td>
 </tr>
 <tr>
 <td>
-Психические и поведенческие
-расстройства, вызванные
-употреблением психоактивных веществ
-- всего:
+Поступило
+больных
+</td>
+<td>
+в том числе
+впервые в жизни
+</td>
+<td>
+выбыло
+больных
+</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>В</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+<tr>
+<td>
+Психические и
+поведенческие
+расстройства,
+вызванные
+употреблением психо-
+активных веществ -
+всего:
 </td>
 <td>01</td>
-<td>F 10-F 19</td>
+<td>F10-F19</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -20918,142 +33041,182 @@ X пересмотра
 употреблением алкоголя
 </td>
 <td>02</td>
-<td>F 10</td>
+<td>F10</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>употреблением опиоидов</td>
 <td>03</td>
-<td>F 11</td>
+<td>F11</td>
 <td></td>
-</tr>
-<tr>
-<td>употреблением каннабибиноидов</td>
-<td>04</td>
-<td>F 12</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-употреблением седативных
-и снотворных веществ
+употреблением
+каннабибиноидов
+</td>
+<td>04</td>
+<td>F12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+употреблением
+седативных и
+снотворных веществ
 </td>
 <td>05</td>
-<td>F 13</td>
+<td>F13</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>употреблением кокаина</td>
 <td>06</td>
-<td>F 14</td>
+<td>F14</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-употребленнием других стимуляторов,
-включая кофеин
+употребленнием других
+стимуляторов, включая
+кофеин
 </td>
 <td>07</td>
-<td>F 15</td>
+<td>F15</td>
 <td></td>
-</tr>
-<tr>
-<td>употреблением галлюциногенов</td>
-<td>08</td>
-<td>F 16</td>
 <td></td>
-</tr>
-<tr>
-<td>употреблением летучих растворителей</td>
-<td>09</td>
-<td>F 18</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-сочетанным употреблением наркотиков
-и др.психоактивных веществ
+употреблением
+галлюциногенов
+</td>
+<td>08</td>
+<td>F16</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+употреблением летучих
+растворителей
+</td>
+<td>09</td>
+<td>F18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+сочетанным
+употреблением
+наркотиков и
+др. психоактивных
+веществ
 </td>
 <td>10</td>
-<td>F 19</td>
+<td>F19</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-Из общего числа лиц с психическими
-и поведенческими расстройствами,
-вызванными употреблением
-алкоголя(строка 2) - женщин
+Из общего числа лиц
+с психическими и
+поведенческими
+расстройствами,
+вызванными
+употреблением
+алкоголя (строка 2) -
+женщин
 </td>
 <td>11</td>
-<td>F 10</td>
+<td>F10</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-Из общего числа лиц с психическими
-и поведенческими расстройствами,
-вызванными употреблением наркотиков
-(строка 2) - женщин
+Из общего числа лиц
+с психическими и
+поведенческими
+расстройствами,
+вызванными
+употреблением
+наркотиков (строка 2)
+- женщин
 </td>
 <td>12</td>
-<td>F 11-F 12</td>
+<td>F11-F12</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </table>
 
-Продолжение таблицы
+продолжение таблицы
 
 <table>
 <tr>
-<td colspan="7">В отчетном году</td>
-<td rowspan="3">
-Число койко
-дней
+<td colspan="4">В отчетном году</td>
+<td rowspan="4">
+Число койко дней
 проведенных
 в стационаре
 выписанными
 и умершими
 </td>
-<td rowspan="3">
-Состоит
-на конец
+<td rowspan="4">
+Состоит на конец
 отчетного
 года всего
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-Поступило
-больных
-</td>
-<td rowspan="2">
-в том
-числе
-впервые
-в жизни
-</td>
-<td rowspan="2">
-выбыло
-больных
-</td>
 <td colspan="4">в том числе</td>
 </tr>
 <tr>
-<td>
-по
-истечению
+<td rowspan="2">
+по истечению
 срока
 </td>
-<td>
+<td rowspan="2">
 после
 продления
 срока
 </td>
+<td colspan="2">досрочно</td>
+</tr>
+<tr>
 <td>
-досрочно
-в связи
-с успешным
+в связи с
+успешным
 лечением
 </td>
 <td>
@@ -21062,9 +33225,6 @@ X пересмотра
 </td>
 </tr>
 <tr>
-<th>2</th>
-<th>3</th>
-<th>4</th>
 <th>5</th>
 <th>6</th>
 <th>7</th>
@@ -21079,56 +33239,145 @@ X пересмотра
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 </table>
 
-2602 Число лиц (из графа 3 строка таблицы 2600), допустивших
+2601 Число лиц (из графа 3 строка таблицы 2600), допустивших употребление ПАВ в стационаре для принудительного лечения, всего 1 _____
 
-употребление ПАВ в стационаре для принудительного лечения, всего
-
-1 _____ в том числе: алкоголя 2 ______, наркотических веществ
-
-3 ______, из них через 3 месяца нахождения в стационаре 4 ________,
+в том числе: алкоголя 2 ______, наркотических веществ 3 ______, из них через 3 месяца нахождения в стационаре 4 ______,
 
 через 6 месяцев 5 ______, через 12 месяцев 6 ______
 
-2603 Число смертельных исходов при лечении в принудительных
+2602 Число смертельных исходов при лечении в принудительных отделениях, всего 1 ______, в том числе: суицидов 2 ______, число чрезвычайных проишествий, всего 3 _____, в том числе: нападений больных на персонал 4 ______, нападений больных на больных 5 ______, побегов 6 _______
 
-отделениях, всего 1 ________, в том числе: суицидов 2 ______, число
+2603 Работает на конец отчетного года пациетов из принудительных отделений, всего 1 ______, в пределах учреждения 2 _____, на хоздоговорных объектах 3 ______
 
-чрезвычайных проишествий, всего 3 _____, в том числе: нападений
+Руководитель _________________
 
-больных на персонал 4 ______, нападений больных на больных 5 ______,
+Исполнитель ____________________, телефон ___________
 
-побегов 6 _______
-
-2604 Работает на конец отчетного года пациетов из принудительных отделений, всего 1 ______, в пределах учреждения
-
-2 _____, на хоздоговорных объектах 3 ______
-
-Руководитель ___________________
-
-Исполнитель ______, телефон ______ Дата "___" _____ 20 __ года
-
+> *Дата "__" _________ 20__ года*  
 > *Приложение 3*  
-> *Утверждено приказом и.о. Министра*  
-> *здравоохранения Республики Казахстан*  
-> *от 12 сентября 2011 г. № 616*
+> *Утверждено приказом*  
+> *и.о. Министра здравоохранения*  
+> *Республики Казахстан*  
+> *от 12 сентября 2011 года № 616*
 
-Конфиденциальность гарантируется получателем информации
+## Конфиденциальность гарантируется получателем информации
 
-Кем представляется _________________________________________________
+Кем представляется __________________________________________________
 
-наименование, адрес
+(наименование, адрес)
 
-### Форма 12
+## Форма, предназначенная для сбора административных данных
+
+Информация представляется в соответствии с Кодексом
+
+Республики Казахстан
+
+"О здоровье народа и системе здравоохранения"
+
+## Форма 12
 
 годовая
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+> *Сноска. Форма 12 в редакции приказа Министра здравоохранения РК от 28.09.2012 № 663 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -21137,92 +33386,96 @@ X пересмотра
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
 Представляют:
-1. Организации, оказывающие амбулаторно
--поликлиническую помощь, системы здравоохранения -
-главному врачу района (города) - 5 января;
-2. Главный врач района (города) сводный отчет
-местному органу управления здравоохранением - 10
-января;
-3. Организации, оказывающие амбулаторно -
-поликлиническую помощь других министерств, ведомств
-и всех форм собственности - местному органу
-управления здравоохранением (области, города) по
-месту нахождения организации и своей вышестоящей
-организации - 5 января;
-4. Местные органы управления здравоохранением
-сводный отчет по городу, области - областные
-департаменты статистики, гг. Астаны и Алматы и в
-Министерство здравоохранения Республики Казахстан -
-к 10 февраля;
-5. Министерство здравоохранения Республики Казахстан
-Сводные отчеты - Агентству Республики Казахстан по
-статистике 1 апреля.
-</td>
-</tr>
-</table>
 
-### Отчет о числе заболеваний, зарегистрированных у больных, проживающих в районе обслуживания медицинской организации и контингентах больных, состоящих под диспансерным наблюдением 20 ____ год
+1\. Организации, оказывающие амбулаторно-
 
-1000 ДЕТИ ( ДО 14 ЛЕТ ВКЛЮЧИТЕЛЬНО)
+поликлиническую помощь,системы здравоохранения
+
+- главному врачу района (города) - 5 января;
+
+2\. Главный врач района (города) сводный отчет
+
+местному органу управления здравоохранением -
+
+10 января;
+
+3\. Организации, оказывающие амбулаторно-
+
+поликлиническую помощь других министерств,
+
+ведомств и всех форм собственности- местному
+
+органу управления здравоохранением (области,
+
+города) по месту нахождения организации и
+
+своей вышестоящей организации - 5 января;
+
+4\. Местные органы управления здравоохранением
+
+сводный отчет по городу, в Министерство
+
+здравоохранения Республики Казахстан -
+
+к 10 февраля.
+
+## Отчет о числе заболеваний, зарегистрированнных у больных, проживающих в районе обслуживания медицинской организации и контингентах больных, состоящих под диспансерным наблюдением 20__ год 1000 ДЕТИ (ДО 14 ЛЕТ ВКЛЮЧИТЕЛЬНО)
 
 <table>
 <tr>
-<td rowspan="3">
+<th rowspan="3">
 Наименование классов
 и отдельных болезней
-</td>
-<td rowspan="3">
+</th>
+<th rowspan="3">
 №
 строки
-</td>
-<td rowspan="3">
+</th>
+<th rowspan="3">
 Шифр по
 МКБ Х
-пересмотра
-</td>
-<td colspan="4">
+перес-
+мотра
+</th>
+<th colspan="4">
 Зарегистрировано заболеваний
 в отчетном году
-</td>
-<td colspan="2">
+</th>
+<th colspan="2">
 Состоит под
 диспансерным
 наблюдением на
 конец отчетного
 года
-</td>
+</th>
 </tr>
 <tr>
-<td rowspan="2">всего</td>
-<td rowspan="2">
+<th rowspan="2">всего</th>
+<th rowspan="2">
 в том
 числе
 девочек
-</td>
-<td colspan="2">
+</th>
+<th colspan="2">
 из них с
-диагнозом, установленным
-впервые
-в жизни
-</td>
-<td rowspan="2">всего</td>
-<td rowspan="2">
+диагнозом,
+установленным
+впервые в жизни
+</th>
+<th rowspan="2">всего</th>
+<th rowspan="2">
 в том числе
 девочек
-</td>
+</th>
 </tr>
 <tr>
-<td>всего</td>
-<td>
+<th>всего</th>
+<th>
 в том
 числе
 девочек
-</td>
+</th>
 </tr>
 <tr>
 <th>А</th>
@@ -21238,7 +33491,7 @@ X пересмотра
 <tr>
 <td>Всего</td>
 <td>1.0</td>
-<td>А 00-Т 98</td>
+<td>А00-Т98</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21253,7 +33506,22 @@ X пересмотра
 паразитарные болезни
 </td>
 <td>2.0</td>
-<td>А 00-В 99</td>
+<td>А00-В99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: гепатит В и С</td>
+<td>2.1</td>
+<td>
+В16.0-В16.9,
+В17.0-В17.1,
+В18.0-В18.2
+</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21264,7 +33532,7 @@ X пересмотра
 <tr>
 <td>новообразования</td>
 <td>3.0</td>
-<td>С 00-D 48</td>
+<td>С00-D48</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21279,7 +33547,7 @@ X пересмотра
 новообразования
 </td>
 <td>3.1</td>
-<td>D 10-D 36</td>
+<td>D10-D36</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21293,7 +33561,7 @@ X пересмотра
 лейомиома матки
 </td>
 <td>3.1.1</td>
-<td>D 25</td>
+<td>D25</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21309,7 +33577,7 @@ X пересмотра
 матки
 </td>
 <td>3.1.2</td>
-<td>D 26</td>
+<td>D26</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21324,7 +33592,7 @@ X пересмотра
 яичника
 </td>
 <td>3.1.3</td>
-<td>D 27</td>
+<td>D27</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21337,13 +33605,13 @@ X пересмотра
 Болезни крови,
 кроветворных органов
 и отдельные
-нарушения
-с вовлечением
+нарушения с
+вовлечением
 иммунного механизма,
 всего
 </td>
 <td>4.0</td>
-<td>D 50-D 89</td>
+<td>D50-D89</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21355,8 +33623,8 @@ X пересмотра
 <td>из них: анемии</td>
 <td>4.1</td>
 <td>
-D 50-D 53,
-D 55-D 64
+D50-D53,
+D55-D64
 </td>
 <td></td>
 <td></td>
@@ -21372,7 +33640,7 @@ D 55-D 64
 анемия
 </td>
 <td>4.2</td>
-<td>D 50</td>
+<td>D50</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21399,7 +33667,7 @@ D 55-D 64
 всего
 </td>
 <td>5.0</td>
-<td>Е 00-Е 90</td>
+<td>Е00-Е90</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21410,7 +33678,7 @@ D 55-D 64
 <tr>
 <td>из них: гипотиреоз</td>
 <td>5.1</td>
-<td>Е 03</td>
+<td>Е03</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21424,7 +33692,7 @@ D 55-D 64
 зобом или без него
 </td>
 <td>5.2</td>
-<td>Е 05</td>
+<td>Е05</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21438,7 +33706,7 @@ D 55-D 64
 инсулинозависимый
 </td>
 <td>5.3</td>
-<td>Е 10</td>
+<td>Е10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21452,7 +33720,7 @@ D 55-D 64
 инсулинонезависимый
 </td>
 <td>5.4</td>
-<td>Е 11</td>
+<td>Е11</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21466,7 +33734,18 @@ D 55-D 64
 сахарного диабета
 </td>
 <td>5.5</td>
-<td>Е 12-Е 14</td>
+<td>Е12-Е14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>гипопаратиреоз</td>
+<td>5.6</td>
+<td>E20</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21476,8 +33755,8 @@ D 55-D 64
 </tr>
 <tr>
 <td>гипофизарный нанизм</td>
-<td>5.6</td>
-<td>Е 23.0</td>
+<td>5.7</td>
+<td>Е23.0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21487,7 +33766,7 @@ D 55-D 64
 </tr>
 <tr>
 <td>несахарный диабет</td>
-<td>5.7</td>
+<td>5.8</td>
 <td>Е 23.2</td>
 <td></td>
 <td></td>
@@ -21501,7 +33780,7 @@ D 55-D 64
 преждевременное
 половое созревание
 </td>
-<td>5.8</td>
+<td>5.9</td>
 <td>Е 30.1</td>
 <td></td>
 <td></td>
@@ -21512,7 +33791,7 @@ D 55-D 64
 </tr>
 <tr>
 <td>рахит</td>
-<td>5.9</td>
+<td>5.10</td>
 <td>Е 55.0</td>
 <td></td>
 <td></td>
@@ -21523,7 +33802,7 @@ D 55-D 64
 </tr>
 <tr>
 <td>ожирение</td>
-<td>5.10</td>
+<td>5.11</td>
 <td>Е 66</td>
 <td></td>
 <td></td>
@@ -21534,8 +33813,33 @@ D 55-D 64
 </tr>
 <tr>
 <td>фенилкетонурия</td>
-<td>5.11</td>
+<td>5.12</td>
 <td>Е 70.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>болезнь Гоше</td>
+<td>5.13</td>
+<td>E75,2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+кистозный фиброз
+(Муковисцидоз)
+</td>
+<td>5.14</td>
+<td>E84</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21552,8 +33856,8 @@ D 55-D 64
 </td>
 <td>6.0</td>
 <td>
-F 00-F 09;
-F 20-F 99
+F00-F09;
+F20-F99
 </td>
 <td></td>
 <td></td>
@@ -21573,7 +33877,7 @@ F 20-F 99
 веществ
 </td>
 <td>7.0</td>
-<td>F 10-F 19</td>
+<td>F10-F19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21592,7 +33896,7 @@ F 20-F 99
 алкоголя
 </td>
 <td>7.1</td>
-<td>F 10</td>
+<td>F10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21606,7 +33910,7 @@ F 20-F 99
 системы, всего
 </td>
 <td>8.0</td>
-<td>G 00-G 99</td>
+<td>G00-G99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21621,7 +33925,7 @@ F 20-F 99
 слабоумия
 </td>
 <td>8.1</td>
-<td>G 40, G 41</td>
+<td>G40, G41</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21631,15 +33935,12 @@ F 20-F 99
 </tr>
 <tr>
 <td>
-болезни
-нервов,нервных
-корешков и сплетений
+болезни нервов,
+нервных корешков и
+сплетений
 </td>
 <td>8.2</td>
-<td>
-G 50-G 64,
-G 70-G 73
-</td>
+<td>G50-G64, G70-G73</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21647,13 +33948,27 @@ G 70-G 73
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td>из них: миастения</td>
+<td>8.3</td>
+<td>G70</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
 <tr>
 <td>
 детский церебральный
 паралич
 </td>
-<td>8.3</td>
-<td>G 80</td>
+<td>8.4</td>
+<td>G80</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21668,7 +33983,7 @@ G 70-G 73
 аппарата, всего
 </td>
 <td>9.0</td>
-<td>Н 00-Н 59</td>
+<td>Н00-Н59</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21683,7 +33998,7 @@ G 70-G 73
 дерматоз век
 </td>
 <td>9.1</td>
-<td>Н 01.1</td>
+<td>Н01.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21697,7 +34012,7 @@ G 70-G 73
 конъюнктивит
 </td>
 <td>9.2</td>
-<td>Н 10.1</td>
+<td>Н10.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21708,7 +34023,7 @@ G 70-G 73
 <tr>
 <td>миопия</td>
 <td>9.3</td>
-<td>Н 52.1</td>
+<td>Н52.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21723,7 +34038,7 @@ G 70-G 73
 отростка, всего
 </td>
 <td>10.0</td>
-<td>Н 60-Н 95</td>
+<td>Н60-Н95</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21738,8 +34053,8 @@ G 70-G 73
 </td>
 <td>10.1</td>
 <td>
-Н 65.2-4.9
-Н 66.1-4,9
+Н65.2-4.9
+Н66.1-4,9
 </td>
 <td></td>
 <td></td>
@@ -21753,10 +34068,10 @@ G 70-G 73
 кондуктивная,
 нейросенсорная и
 другие потерия слуха
-1,2,3,4- степени
+1,2,3,4 - степени
 </td>
 <td>10.2</td>
-<td>H 90-H 91</td>
+<td>H90-H91</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21771,7 +34086,7 @@ G 70-G 73
 всего
 </td>
 <td>11.0</td>
-<td>I 00-I 99</td>
+<td>I00-I99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21786,7 +34101,7 @@ G 70-G 73
 лихорадка
 </td>
 <td>11.1</td>
-<td>I 00-I 02</td>
+<td>I00-I02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21801,7 +34116,7 @@ G 70-G 73
 болезни сердца
 </td>
 <td>11.2</td>
-<td>I 05-I 09</td>
+<td>I05-I09</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21817,7 +34132,7 @@ G 70-G 73
 давлением
 </td>
 <td>11.3</td>
-<td>I 10-I 13</td>
+<td>I10-I13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21831,7 +34146,7 @@ G 70-G 73
 дыхания, всего
 </td>
 <td>12.0</td>
-<td>J 00-J 99</td>
+<td>J00-J99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21842,10 +34157,7 @@ G 70-G 73
 <tr>
 <td>из них: пневмония</td>
 <td>12.1</td>
-<td>
-J 12-
-J 16,18
-</td>
+<td>J12-J16,18</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21859,7 +34171,7 @@ J 16,18
 аллергический ринит
 </td>
 <td>12.2</td>
-<td>J 30</td>
+<td>J30</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21874,7 +34186,7 @@ J 16,18
 назофарингит
 </td>
 <td>12.3</td>
-<td>J 31.0,1,2</td>
+<td>J31.0,1,2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21885,10 +34197,7 @@ J 16,18
 <tr>
 <td>хронический синусит</td>
 <td>12.4</td>
-<td>
-J 32.0-
-J 32.9
-</td>
+<td>J32.0-J32.9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21903,8 +34212,8 @@ J 32.9
 </td>
 <td>12.5</td>
 <td>
-J 35.0-
-J 35.9
+J35.0-
+J35.9
 </td>
 <td></td>
 <td></td>
@@ -21920,7 +34229,7 @@ J 35.9
 эмфизема
 </td>
 <td>12.6</td>
-<td>J 40-J 43</td>
+<td>J40-J43</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21931,10 +34240,7 @@ J 35.9
 <tr>
 <td>бронхиальная астма</td>
 <td>12.7</td>
-<td>
-J 45.0,
-1,8,9
-</td>
+<td>J45.0,1,8,9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21949,10 +34255,7 @@ J 45.0,
 легочная болезнь
 </td>
 <td>12.8</td>
-<td>
-J 44.0,
-1,8,9
-</td>
+<td>J44.0,1,8,9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21966,7 +34269,7 @@ J 44.0,
 пищеварения, всего
 </td>
 <td>13.0</td>
-<td>К 00-К 93</td>
+<td>К00-К93</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21981,7 +34284,7 @@ J 44.0,
 рефлюкс
 </td>
 <td>13.1</td>
-<td>K 21</td>
+<td>K21</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21996,7 +34299,7 @@ J 44.0,
 кишки
 </td>
 <td>13.2</td>
-<td>K 25-K 27</td>
+<td>K25-K27</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22007,7 +34310,7 @@ J 44.0,
 <tr>
 <td>гастрит и дуоденит</td>
 <td>13.3</td>
-<td>К 29</td>
+<td>К29</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22021,11 +34324,48 @@ J 44.0,
 расстройства желудка
 </td>
 <td>13.4</td>
+<td>К30,К31.0,3, К31.8,9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>болезнь Крона</td>
+<td>13.5</td>
+<td>К50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>
-К 30,
-К 31.0,3,
-К 31.8,9
+неспецефический
+язвенный колит
 </td>
+<td>13.6</td>
+<td>К51</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+другие
+неинфекционные
+гастроэнтериты и
+колиты
+</td>
+<td>13.7</td>
+<td>К52</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22038,8 +34378,8 @@ J 44.0,
 желчнокаменная
 болезнь
 </td>
-<td>13.5</td>
-<td>К 80</td>
+<td>13.8</td>
+<td>К80</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22049,11 +34389,8 @@ J 44.0,
 </tr>
 <tr>
 <td>холецистит, холангит</td>
-<td>13.6</td>
-<td>
-К 81,
-К 83.0
-</td>
+<td>13.9</td>
+<td>К81, К83.0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22066,8 +34403,8 @@ J 44.0,
 болезни
 поджелудочной железы
 </td>
-<td>13.7</td>
-<td>К 85,К 86</td>
+<td>13.10</td>
+<td>К85,К86</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22082,7 +34419,7 @@ J 44.0,
 всего
 </td>
 <td>14.0</td>
-<td>L 00-L 99</td>
+<td>L00-L99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22096,7 +34433,7 @@ J 44.0,
 дерматит
 </td>
 <td>14.1</td>
-<td>L 20</td>
+<td>L20</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22110,7 +34447,7 @@ J 44.0,
 контактный дерматит
 </td>
 <td>14.2</td>
-<td>L 23</td>
+<td>L23</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22125,7 +34462,7 @@ J 44.0,
 этиологии
 </td>
 <td>14.3</td>
-<td>L 27.0,1</td>
+<td>L27.0,1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22139,7 +34476,7 @@ J 44.0,
 съеденной пищей
 </td>
 <td>14.4</td>
-<td>L 27.2</td>
+<td>L27.2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22174,14 +34511,13 @@ J 44.0,
 </tr>
 <tr>
 <td>
-Болезни
-костно-мышечной
-системы и
+Болезни костно-
+мышечной системы и
 соединительной
 ткани, всего
 </td>
 <td>15.0</td>
-<td>М 00-М 99</td>
+<td>М00-М99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22191,11 +34527,1575 @@ J 44.0,
 </tr>
 <tr>
 <td>
-из них: ревматоидные
+из них ювенильный
+артрит
+</td>
+<td>15.1</td>
+<td>М08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ревматоидные артриты</td>
+<td>15.2</td>
+<td>М05-М06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>артрозы</td>
+<td>15.3</td>
+<td>M15-M19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+коксартроз
+</td>
+<td>15.4</td>
+<td>М16</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>гонартроз</td>
+<td>15.5</td>
+<td>М17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+системные поражения
+соединительной ткани
+</td>
+<td>15.6</td>
+<td>М30-М36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+системная красная
+волчанка
+</td>
+<td>15.7</td>
+<td>М 32</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>дерматополимиозит</td>
+<td>15.8</td>
+<td>М 33</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>склеродермия</td>
+<td>15.9</td>
+<td>М 34</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Болезнь Бехтерева</td>
+<td>15.10</td>
+<td>М45</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cколиоз</td>
+<td>15.11</td>
+<td>М41</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни мочеполовой
+системы, всего
+</td>
+<td>16.0</td>
+<td>N00-N99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+гломерулярные
+болезни
+</td>
+<td>16.1</td>
+<td>N00-N08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+почечная
+недостаточность
+</td>
+<td>16.2</td>
+<td>N17-N19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+почечные тубуло-
+интерстициальные
+болезни
+</td>
+<td>16.3</td>
+<td>
+N10-N12,
+N15
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+камни почки и
+мочеточника
+</td>
+<td>16.4</td>
+<td>N20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+нарушение
+менструально-
+овариального цикла
+</td>
+<td>16.5</td>
+<td>
+N91,
+N92, N94
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Осложнения
+беременности, родов
+и послеродового
+периода
+</td>
+<td>17.0</td>
+<td>
+О00-О75,
+О81-О83,
+О84.1-9,
+О85-О99
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Отдельные состояния,
+возникающие в
+перинатальном
+периоде
+</td>
+<td>18.0</td>
+<td>Р00-Р96</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Врожденные аномалии
+(пороки развития),
+деформации и
+хромосомные
+нарушения, всего
+</td>
+<td>19.0</td>
+<td>Q00-Q99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: врожденные
+аномалии (пороки
+развития) нервной
+системы
+</td>
+<td>19.1</td>
+<td>Q00-Q07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: врожденные
+аномалии (пороки
+развития) системы
+кровообращения
+</td>
+<td>19.2</td>
+<td>Q20-Q28</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: пороки
+сердца
+</td>
+<td>19.3</td>
+<td>Q20.0-Q24.9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>впалая грудь</td>
+<td>19.4</td>
+<td>Q67.6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Врожденный ихтиоз</td>
+<td>19.5</td>
+<td>Q80.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Синдром Дауна</td>
+<td>19.6</td>
+<td>Q 90</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Симптомы, признаки и
+отклонения от нормы
+</td>
+<td>20.0</td>
+<td>R00-R99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Травмы и отравления,
+всего
+</td>
+<td>21.0</td>
+<td>S00-Т88</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Последствия травм,
+отравлений и других
+воздействий внешних
+причин
+</td>
+<td>22.0</td>
+<td>Т90-Т98</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+## 2000 ДЕТИ (15-17 ЛЕТ ВКЛЮЧИТЕЛЬНО)
+
+<table>
+<tr>
+<th rowspan="3">
+Наименование классов
+и отдельных болезней
+</th>
+<th rowspan="3">
+№
+строки
+</th>
+<th rowspan="3">
+Шифр по
+МКБ Х
+пересмотра
+</th>
+<th colspan="4">
+Зарегистрировано
+заболеваний в отчетном
+году
+</th>
+<th colspan="2">
+Состоит под
+диспансерным
+наблюдением на
+конец отчетного
+года
+</th>
+</tr>
+<tr>
+<th rowspan="2">всего</th>
+<th rowspan="2">
+в том
+числе
+юноши
+</th>
+<th colspan="2">
+из них с
+диагнозом,
+установленным
+впервые в
+жизни
+</th>
+<th rowspan="2">всего</th>
+<th rowspan="2">
+в том числе
+юноши
+</th>
+</tr>
+<tr>
+<th>всего</th>
+<th>
+в том
+числе
+юноши
+</th>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>В</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td>Всего</td>
+<td>1.0</td>
+<td>А00-Т98</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе:</td>
+<td>2.0</td>
+<td>А00-В99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Инфекционные и
+паразитарные болезни
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: гепатит В и С</td>
+<td>2.1</td>
+<td>
+В16.0-В16.9,
+В17.0-В17.1,
+В18.0-В18.2
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Новообразования</td>
+<td>3.0</td>
+<td>С00-D48</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+доброкачественные
+новообразования
+</td>
+<td>3.1</td>
+<td>D10-D36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+лейомиома матки
+</td>
+<td>3.1.1</td>
+<td>D25</td>
+<td></td>
+<td>Х</td>
+<td></td>
+<td>Х</td>
+<td></td>
+<td>Х</td>
+</tr>
+<tr>
+<td>
+другие
+доброкачественные
+новообразования
+матки
+</td>
+<td>3.1.2</td>
+<td>D26</td>
+<td></td>
+<td>Х</td>
+<td></td>
+<td>Х</td>
+<td></td>
+<td>Х</td>
+</tr>
+<tr>
+<td>
+доброкачественные
+новообразования
+яичника
+</td>
+<td>3.1.3</td>
+<td>D27</td>
+<td></td>
+<td>Х</td>
+<td></td>
+<td>Х</td>
+<td></td>
+<td>Х</td>
+</tr>
+<tr>
+<td>
+Болезни крови,
+кроветворных органов
+и отдельные
+нарушения с
+вовлечением
+иммунного механизма,
+всего
+</td>
+<td>4.0</td>
+<td>D50-D89</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них анемии</td>
+<td>4.1</td>
+<td>
+D50-D53,
+D55-D64
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе
+железодефицитная
+анемия
+</td>
+<td>4.2</td>
+<td>D50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>гемофилия</td>
+<td>4.3</td>
+<td>D66</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Эндокринные болезни,
+расстройства питания
+и обмена веществ,
+всего
+</td>
+<td>5.0</td>
+<td>Е00-Е90</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: гипотиреоз</td>
+<td>5.1</td>
+<td>Е03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+тиреотоксикоз с
+зобом или без него
+</td>
+<td>5.2</td>
+<td>Е05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+сахарный диабет
+инсулинозависимый
+</td>
+<td>5.3</td>
+<td>Е10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+сахарный диабет
+инсулинонезависимый
+</td>
+<td>5.4</td>
+<td>Е11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+другие формы
+сахарного диабета
+</td>
+<td>5.5</td>
+<td>Е12-Е14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>гипопаратиреоз</td>
+<td>5.6</td>
+<td>E20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>гипофизарный нанизм</td>
+<td>5.7</td>
+<td>Е23.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>несахарный диабет</td>
+<td>5.8</td>
+<td>Е23.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>болезнь Аддисона</td>
+<td>5.9</td>
+<td>Е27.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ожирение</td>
+<td>5.10</td>
+<td>Е66</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>фенилкетонурия</td>
+<td>5.11</td>
+<td>Е70.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Болезнь Гоше</td>
+<td>5.12</td>
+<td>E75,2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+острая
+перемежающаяся
+порфирия
+</td>
+<td>5.13</td>
+<td>Е80. 2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+болезнь Вильсона-
+Коновалова
+</td>
+<td>5.14</td>
+<td>Е83.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кистозный фиброз
+(Муковисцидоз)
+</td>
+<td>5.15</td>
+<td>E84</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Психические
+расстройства и
+расстройства
+поведения
+</td>
+<td>6.0</td>
+<td>
+F00-F09;
+F20-F99
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Психические
+расстройства и
+расстройства
+поведения, связанные
+с употреблением
+психоактивных
+веществ
+</td>
+<td>7.0</td>
+<td>F10-F19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе
+психические и
+поведенческие
+расстройства,
+вызванные
+употреблением
+алкоголя
+</td>
+<td>7.1</td>
+<td>F10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни нервной
+системы, всего
+</td>
+<td>8.0</td>
+<td>G00-G99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: эпилепсия
+без психоза и
+слабоумия
+</td>
+<td>8.1</td>
+<td>G40, G41</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+болезни нервов,
+нервных корешков и
+сплетений
+</td>
+<td>8.2</td>
+<td>
+G50-G64,
+G70-G73
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: миастения</td>
+<td>8.3</td>
+<td>G70</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+детский церебральный
+паралич
+</td>
+<td>8.4</td>
+<td>G80</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни глаза и его
+придаточного
+аппарата, всего
+</td>
+<td>9.0</td>
+<td>Н00-Н59</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+аллергический
+дерматоз век
+</td>
+<td>9.1</td>
+<td>Н01.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+острый аллергический
+конъюнктивит
+</td>
+<td>9.2</td>
+<td>Н10.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>миопия</td>
+<td>9.3</td>
+<td>Н52.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни уха и
+сосцевидного
+отростка, всего
+</td>
+<td>10.0</td>
+<td>Н60-Н95</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: отит
+хронический
+</td>
+<td>10.1</td>
+<td>
+Н65.2,4,9,
+Н66.1,4,9
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни системы
+кровообращения,
+всего
+</td>
+<td>11.0</td>
+<td>I00-I99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: острая
+ревматическая
+лихорадка
+</td>
+<td>11.1</td>
+<td>I00-I02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+хронические
+ревматические
+болезни сердца
+</td>
+<td>11.2</td>
+<td>I05-I09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни,
+характеризующиеся
+повышенным кровяным
+давлением
+</td>
+<td>11.3</td>
+<td>I10-I13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+варикозное
+расширение вен
+нижних конечностей
+</td>
+<td>11.4</td>
+<td>I 83</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни органов
+дыхания, всего
+</td>
+<td>12.0</td>
+<td>J00-J99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: пневмония</td>
+<td>12.1</td>
+<td>
+J12-J16,
+J18
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+вазамоторный и
+аллергический ринит
+</td>
+<td>12.2</td>
+<td>J30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+хронический ринит,
+фарингит,
+назофарингит
+</td>
+<td>12.3</td>
+<td>J31.0,1,2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>хронический синусит</td>
+<td>12.4</td>
+<td>J32.0-J32.9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+хронические болезни
+миндалин и аденоидов
+</td>
+<td>12.5</td>
+<td>J35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+бронхит хронический
+и неуточненный,
+эмфизема
+</td>
+<td>12.6</td>
+<td>J40-J43</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>бронхиальная астма</td>
+<td>12.7</td>
+<td>J45.0,1,8,9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+другая хроническая
+обструктивная
+легочная болезнь
+</td>
+<td>12.8</td>
+<td>J44.0,1,8,9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни органов
+пищеварения, всего
+</td>
+<td>13.0</td>
+<td>К00-К93</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+гастроэзофагеальный
+рефлюкс
+</td>
+<td>13.1</td>
+<td>К21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+язва желудка и
+двенадцатиперстной
+кишки
+</td>
+<td>13.2</td>
+<td>K25-K27</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>гастрит и дуоденит</td>
+<td>13.3</td>
+<td>К29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+функциональные
+расстройства желудка
+</td>
+<td>13.4</td>
+<td>
+К30,
+К31.0,3,
+К31.8,9
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>болезнь Крона</td>
+<td>13.5</td>
+<td>К50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+неспецефический
+язвенный колит
+</td>
+<td>13.6</td>
+<td>К51</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+другие
+неинфекционные
+гастроэнтериты и
+колиты
+</td>
+<td>13.7</td>
+<td>К52</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+желчнокаменная
+болезнь
+</td>
+<td>13.8</td>
+<td>К80</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>холецистит, холангит</td>
+<td>13.9</td>
+<td>К81, К83.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+болезни
+поджелудочной железы
+</td>
+<td>13.10</td>
+<td>К85,К86</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни кожи и
+подкожной клетчатки,
+всего
+</td>
+<td>14.0</td>
+<td>L00-L99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+атопический дерматит
+</td>
+<td>14.1</td>
+<td>L20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+аллергический
+контактный
+дерматит
+</td>
+<td>14.2</td>
+<td>L23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+дерматит
+лекарственной
+этиологии
+</td>
+<td>14.3</td>
+<td>L27.0,1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+дерматит, вызванный
+съеденной пищей
+</td>
+<td>14.4</td>
+<td>L27.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+аллергическая
+крапивница
+</td>
+<td>14.5</td>
+<td>L 50.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+эритема
+многоформная
+</td>
+<td>14.6</td>
+<td>L 51</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни костно-
+мышечной системы и
+соединительной
+ткани, всего
+</td>
+<td>15.0</td>
+<td>М00-М99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них ревматоидные
 артриты
 </td>
 <td>15.1</td>
-<td>М 05-М 06</td>
+<td>М05-М06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ювенильный артрит</td>
+<td>15.1</td>
+<td>М08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22206,7 +36106,7 @@ J 44.0,
 <tr>
 <td>артрозы</td>
 <td>15.2</td>
-<td>M 15-M 19</td>
+<td>M15-M19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22220,7 +36120,7 @@ J 44.0,
 коксартроз
 </td>
 <td>15.3</td>
-<td>М 16</td>
+<td>М16</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22231,7 +36131,7 @@ J 44.0,
 <tr>
 <td>гонартроз</td>
 <td>15.4</td>
-<td>М 17</td>
+<td>М17</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22242,10 +36142,11 @@ J 44.0,
 <tr>
 <td>
 системные поражения
-соединительной ткани
+соединительной
+ткани
 </td>
-<td>15.5</td>
-<td>М 30-М 36</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -22293,7 +36194,7 @@ J 44.0,
 <tr>
 <td>Болезнь Бехтерева</td>
 <td>15.9</td>
-<td>М 45</td>
+<td>М45</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22302,9 +36203,9 @@ J 44.0,
 <td></td>
 </tr>
 <tr>
-<td>Cколиоз</td>
+<td>сколиоз</td>
 <td>15.10</td>
-<td>М 41</td>
+<td>М41</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22318,7 +36219,7 @@ J 44.0,
 системы, всего
 </td>
 <td>16.0</td>
-<td>N 00-N 99</td>
+<td>N00-N99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22333,10 +36234,7 @@ J 44.0,
 болезни
 </td>
 <td>16.1</td>
-<td>
-N 00-N 08,
-N 17-N 19
-</td>
+<td>N00-N08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22346,14 +36244,28 @@ N 17-N 19
 </tr>
 <tr>
 <td>
-почечные
-тубулоинтерстициаль-
-ные болезни
+почечная
+недостаточность
 </td>
 <td>16.2</td>
+<td>N17-N19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>
-N 10-N 12,
-N 15
+почечные тубу-
+лоинтерстициальные
+болезни
+</td>
+<td>16.3</td>
+<td>
+N10-N12,
+N15
 </td>
 <td></td>
 <td></td>
@@ -22367,8 +36279,1792 @@ N 15
 камни почки и
 мочеточника
 </td>
+<td>16.4</td>
+<td>N20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>сальпингит, оофорит</td>
+<td>16.5</td>
+<td>N70</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>
+нарушение
+менструально-
+овариального цикла
+</td>
+<td>16.6</td>
+<td>
+N91, N92,
+N94
+</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>
+Осложнения
+беременности, родов
+и послеродового
+периода
+</td>
+<td>17.0</td>
+<td>
+О00-О75,
+О81-О83,
+О84.1-9,
+О85-О99
+</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>
+Врожденные аномалии
+(пороки развития),
+деформации и
+хромосомные
+нарушения, всего
+</td>
+<td>19.0</td>
+<td>Q00-Q99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+врожденные аномалии (пороки развития) нервной системы
+</td>
+<td>19.1</td>
+<td>Q00-Q07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>врожденные аномалии (пороки развития) системы кровообращения</td>
+<td>19.2</td>
+<td>Q20-Q28</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: пороки сердца</td>
+<td>19.3</td>
+<td>Q20.0-Q24.9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>впалая грудь</td>
+<td>19.4</td>
+<td>Q67.6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Врожденный ихтиоз</td>
+<td>19.5</td>
+<td>Q80.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Синдром Дауна</td>
+<td>19.6</td>
+<td>Q 90</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Симптомы, признаки и отклонения от нормы</td>
+<td>20.0</td>
+<td>R00-R99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Травмы и отравления, всего</td>
+<td>21.0</td>
+<td>S00-Т88</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Последствия травм, отравлений и других воздействий внешних причин</td>
+<td>22.0</td>
+<td>Т90-Т98</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+## 3000 ВЗРОСЛЫЕ (18 ЛЕТ И СТАРШЕ)
+
+<table>
+<tr>
+<th rowspan="3">Наименование классов и отдельных болезней</th>
+<th rowspan="3">
+№
+строки
+</th>
+<th rowspan="3">
+Шифр по
+МКБ Х
+пересмотра
+</th>
+<th colspan="4">
+Зарегистрировано заболеваний в
+отчетном году
+</th>
+<th colspan="2">
+Состоит под
+диспансерным
+наблюдением на
+конец отчетного
+года
+</th>
+</tr>
+<tr>
+<th rowspan="2">всего</th>
+<th rowspan="2">
+в том
+числе
+женщины
+</th>
+<th colspan="2">из них с диагнозом, установленным впервые в жизни</th>
+<th rowspan="2">всего</th>
+<th rowspan="2">
+в том
+числе
+женщины
+</th>
+</tr>
+<tr>
+<th>всего</th>
+<th>
+в том
+числе
+женщины
+</th>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>В</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td>Всего</td>
+<td>1.0</td>
+<td>А00-Т98</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+Инфекционные и
+паразитарные
+болезни
+</td>
+<td>2.0</td>
+<td>А00-В99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: гепатит В и С</td>
+<td>2.1</td>
+<td>
+В16.0-В16.9,
+В17.0-В17.1,
+В18.0-В18.2
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Новообразования</td>
+<td>3.0</td>
+<td>С00-D48</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+доброкачественные
+новообразования
+</td>
+<td>3.1</td>
+<td>D10-D36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+лейомиома матки
+</td>
+<td>3.1.1</td>
+<td>D25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+другие
+доброкачественные
+новообразования
+матки
+</td>
+<td>3.1.2</td>
+<td>D26</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+доброкачественные
+новообразования
+яичника
+</td>
+<td>3.1.3</td>
+<td>D27</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни крови,
+кроветворных органов
+и отдельные
+нарушения с
+вовлечением
+иммунного механизма,
+всего
+</td>
+<td>4.0</td>
+<td>D50-D89</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+анемии
+</td>
+<td>4.1</td>
+<td>
+D50-D53,
+D55-D64
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе
+железодефицитная
+анемия
+</td>
+<td>4.2</td>
+<td>D50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Эндокринные болезни,
+расстройства питания
+и обмена веществ,
+всего
+</td>
+<td>5.0</td>
+<td>Е00-Е90</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: гипотиреоз</td>
+<td>5.1</td>
+<td>Е03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+тиреотоксикоз с
+зобом или без него
+</td>
+<td>5.2</td>
+<td>Е05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+сахарный диабет
+инсулинозависимый
+</td>
+<td>5.3</td>
+<td>Е10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+сахарный диабет
+инсулинонезависимый
+</td>
+<td>5.4</td>
+<td>Е11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+другие формы
+сахарного диабета
+</td>
+<td>5.5</td>
+<td>Е12-Е14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>гипопаратиреоз</td>
+<td>5.6</td>
+<td>E20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>несахарный диабет</td>
+<td>5.7</td>
+<td>Е23.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>болезнь Аддисона</td>
+<td>5.8</td>
+<td>Е27.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ожирение</td>
+<td>5.9</td>
+<td>Е66</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>фенилкетонурия</td>
+<td>5.10</td>
+<td>Е70.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Болезнь Гоше</td>
+<td>5.11</td>
+<td>E75,2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+острая
+перемежающаяся
+порфирия
+</td>
+<td>5.12</td>
+<td>Е80. 2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+болезнь Вильсона-
+Коновалова
+</td>
+<td>5.13</td>
+<td>Е83.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кистозный фиброз
+(Муковисцидоз)
+</td>
+<td>5.14</td>
+<td>E84</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Психические
+расстройства и
+расстройства
+поведения
+</td>
+<td>6.0</td>
+<td>
+F00-F09;
+F20-F99
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Психические
+расстройства и
+расстройства
+поведения, связанные
+с употреблением
+психоактивных
+веществ
+</td>
+<td>7.0</td>
+<td>F10-F19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе
+психические и
+поведенческие
+расстройства,
+вызванные
+употреблением
+алкоголя
+</td>
+<td>7.1</td>
+<td>F10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни нервной
+системы, всего
+</td>
+<td>8.0</td>
+<td>G00-G99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: Болезнь
+Паркинсона
+</td>
+<td>8.1</td>
+<td>G20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+эпилепсия без
+психоза и слабоумия
+</td>
+<td>8.2</td>
+<td>G40, G41</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+болезни нервов,
+нервных корешков и
+сплетений
+</td>
+<td>8.3</td>
+<td>
+G50-G64,
+G70-G73
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: миастения</td>
+<td>8.4</td>
+<td>G70</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни глаза и его
+придаточного
+аппарата, всего
+</td>
+<td>9.0</td>
+<td>Н00-Н59</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+аллергический
+дерматоз век
+</td>
+<td>9.1</td>
+<td>Н01.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+острый
+аллергический
+конъюнктивит
+</td>
+<td>9.2</td>
+<td>Н10.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>катаракта</td>
+<td>9.3</td>
+<td>H25-H26</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>глаукома</td>
+<td>9.4</td>
+<td>H40-H42</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>миопия</td>
+<td>9.5</td>
+<td>H52.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни уха и
+сосцевидного
+отростка, всего
+</td>
+<td>10.0</td>
+<td>Н60-Н95</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: отит
+хронический
+</td>
+<td>10.1</td>
+<td>
+H65,2-4,9,
+H66,1-4,9
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни системы
+кровообращения,
+всего
+</td>
+<td>11.0</td>
+<td>I00-I99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: острая
+ревматическая
+лихорадка
+</td>
+<td>11.1</td>
+<td>I00-I02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+хронические
+ревматические
+болезни сердца
+</td>
+<td>11.2</td>
+<td>I05-I09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+болезни,
+характеризующиеся
+повышенным кровяным
+давлением
+</td>
+<td>11.3</td>
+<td>I10-I13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ишемическая болезнь
+сердца
+</td>
+<td>11.4</td>
+<td>I20-I25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из общего числа
+больных ишемической
+болезнью-больные:
+стенокардией
+</td>
+<td>11.5</td>
+<td>I20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+острым инфарктом
+миокарда
+</td>
+<td>11.6</td>
+<td>I21-I22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+другими формами
+острой ишемической
+болезни сердца
+</td>
+<td>11.7</td>
+<td>I23-I24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>кардиомиопатия</td>
+<td>11.8</td>
+<td>I42</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+пароксизмальная
+тахикардия
+</td>
+<td>11.9</td>
+<td>I47</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+другие нарушения
+проводимости
+</td>
+<td>11.10</td>
+<td>I45</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+другие нарушения
+сердечного ритма
+</td>
+<td>11.11</td>
+<td>I49</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+сердечная
+недостаточность
+</td>
+<td>11.12</td>
+<td>I50.0-I50.9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+цереброваскулярные
+болезни
+</td>
+<td>11.13</td>
+<td>I60-I69</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+геморрагический
+инсульт
+</td>
+<td>11.14</td>
+<td>I60, I61, I62</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+инфаркт мозга,
+закупорка мозговых
+артерий
+</td>
+<td>11.15</td>
+<td>I63, I65, I66</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+неуточненный
+инсульт
+</td>
+<td>11.16</td>
+<td>I64</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+эндартериит,
+тромбангиит
+облитерирующий
+</td>
+<td>11.17</td>
+<td>I70.2, I73.0,1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+аневризма и
+расслоение грудной
+аорты
+</td>
+<td>11.18</td>
+<td>I71.0-I71.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+варикозное
+расширение вен
+нижних конечностей
+</td>
+<td>11.19</td>
+<td>I 83</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни органов
+дыхания, всего
+</td>
+<td>12.0</td>
+<td>J00-J99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: пневмония</td>
+<td>12.1</td>
+<td>J12-J16, J18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+вазамоторный и
+аллергический ринит
+</td>
+<td>12.2</td>
+<td>J30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+хронический ринит,
+фарингит,
+назофарингит
+</td>
+<td>12.3</td>
+<td>J31.0,1,2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>хронический синусит</td>
+<td>12.4</td>
+<td>J32.0-J32.9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+хронические болезни
+миндалин и
+аденоидов
+</td>
+<td>12.5</td>
+<td>J35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+бронхит хронический
+и неуточненный,
+эмфизема
+</td>
+<td>12.6</td>
+<td>J40-J43</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>бронхиальная астма</td>
+<td>12.7</td>
+<td>J45.0,1,8,9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+другая хроническая
+обструктивная
+легочная болезнь
+</td>
+<td>12.8</td>
+<td>J44.0,1,8,9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни органов
+пищеварения, всего
+</td>
+<td>13.0</td>
+<td>К00-К93</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+гастроэзофагеальный
+рефлюкс
+</td>
+<td>13.1</td>
+<td>К21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>язва желудка и двенадцатиперстной кишки</td>
+<td>13.2</td>
+<td>K25-K27</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>гастрит и дуоденит</td>
+<td>13.3</td>
+<td>К29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>болезнь Крона</td>
+<td>13.4</td>
+<td>К50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>неспецефический язвенный колит</td>
+<td>13.5</td>
+<td>К51</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>другие неинфекционные гастроэнтериты и колиты</td>
+<td>13.6</td>
+<td>К52</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>желчнокаменная болезнь</td>
+<td>13.7</td>
+<td>К80</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>холецистит,холангит</td>
+<td>13.8</td>
+<td>К81, К83.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>болезни поджелудочной железы</td>
+<td>13.9</td>
+<td>К85,К86</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Болезни кожи и подкожной клетчатки,всего</td>
+<td>14.0</td>
+<td>L00-L99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: атопический дерматит</td>
+<td>14.1</td>
+<td>L20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>аллергический контактный дерматит</td>
+<td>14.2</td>
+<td>L23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+дерматит
+лекарственной
+этиологии
+</td>
+<td>14.3</td>
+<td>L27.0,1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+дерматит, вызванный
+съеденной пищей
+</td>
+<td>14.4</td>
+<td>L27.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+аллергическая
+крапивница
+</td>
+<td>14.5</td>
+<td>L 50.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+эритема
+многоформная
+</td>
+<td>14.6</td>
+<td>L 51</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни костно-
+мышечной системы и
+соединительной
+ткани, всего
+</td>
+<td>15.0</td>
+<td>М00-М99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+ревматоидные
+артриты
+</td>
+<td>15.1</td>
+<td>М05-М06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>подагра</td>
+<td>15.2</td>
+<td>М10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>артрозы</td>
+<td>15.3</td>
+<td>M15-M19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+коксартроз
+</td>
+<td>15.4</td>
+<td>М16</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>гонартроз</td>
+<td>15.5</td>
+<td>М17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+системные поражения
+соединительной
+ткани
+</td>
+<td>15.6</td>
+<td>М30-М36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+системная красная
+волчанка
+</td>
+<td>15.7</td>
+<td>М 32</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>дерматополимиозит</td>
+<td>15.8</td>
+<td>М 33</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>склеродермия</td>
+<td>15.9</td>
+<td>М 34</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Болезнь Бехчета</td>
+<td>15.10</td>
+<td>М 35.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Болезнь Бехтерева</td>
+<td>15.11</td>
+<td>М45</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>сколиоз</td>
+<td>15.12</td>
+<td>М41</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>остеопароз</td>
+<td>15.13</td>
+<td>M80-M82</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>псевдоартроз</td>
+<td>15.14</td>
+<td>М84.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни мочеполовой
+системы, всего
+</td>
+<td>16.0</td>
+<td>N00-N99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+гломерулярные
+болезни
+</td>
+<td>16.1</td>
+<td>N00-N08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+почечная
+недостаточность
+</td>
+<td>16.2</td>
+<td>N17-N19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+почечные тубу-
+лоинтерстициальные
+болезни
+</td>
 <td>16.3</td>
-<td>N 20</td>
+<td>N10-N12, N15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+камни почки и
+мочеточника
+</td>
+<td>16.4</td>
+<td>N20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+болезни
+предстательной
+железы
+</td>
+<td>16.5</td>
+<td>N40-N42</td>
+<td></td>
+<td>Х</td>
+<td></td>
+<td>Х</td>
+<td></td>
+<td>Х</td>
+</tr>
+<tr>
+<td>
+в том числе:
+гиперплазия
+предстательной
+железы
+</td>
+<td>16.6</td>
+<td>N40</td>
+<td></td>
+<td>Х</td>
+<td></td>
+<td>Х</td>
+<td></td>
+<td>Х</td>
+</tr>
+<tr>
+<td>мужское бесплодие</td>
+<td>16.7</td>
+<td>N46</td>
+<td></td>
+<td>Х</td>
+<td></td>
+<td>Х</td>
+<td></td>
+<td>Х</td>
+</tr>
+<tr>
+<td>сальпингит, оофорит</td>
+<td>16.8</td>
+<td>N70</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>эндометриоз</td>
+<td>16.9</td>
+<td>N80</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+эрозия и эктропион
+шейки матки
+</td>
+<td>16.10</td>
+<td>N86</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22382,11 +38078,33 @@ N 15
 менструально-
 овариального цикла
 </td>
-<td>16.4</td>
+<td>16.11</td>
 <td>
-N 91,N 92,
-N 94
+N91, N92,
+N94
 </td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>нарушения менопаузы и после менопаузы</td>
+<td>16.12</td>
+<td>N95</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>женское бесплодие</td>
+<td>16.13</td>
+<td>N97</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22403,10 +38121,10 @@ N 94
 </td>
 <td>17.0</td>
 <td>
-О 00-О 75,
-О 81-О 83
-,О 84.1-9,
-О 85-О 99
+О00-О75,
+О81-О83,
+О84.1-9,
+О85-О99
 </td>
 <td></td>
 <td></td>
@@ -22416,31 +38134,9 @@ N 94
 <td></td>
 </tr>
 <tr>
-<td>
-Отдельные состояния,
-возникающие в
-перинатальном
-периоде
-</td>
-<td>18.0</td>
-<td>Р 00-Р 96</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Врожденные аномалии
-(пороки развития),
-деформации и
-хромосомные
-нарушения, всего
-</td>
+<td>Врожденные аномалии (пороки развития), деформации и хромосомные нарушения, всего</td>
 <td>19.0</td>
-<td>Q 00-Q 99</td>
+<td>Q00-Q99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22450,13 +38146,13 @@ N 94
 </tr>
 <tr>
 <td>
-из них: врожденные
-аномалии (пороки
-развития) нервной
-системы
+из них:
+врожденные аномалии
+(пороки развития)
+нервной системы
 </td>
 <td>19.1</td>
-<td>Q 00-Q 07</td>
+<td>Q00-Q07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22466,13 +38162,13 @@ N 94
 </tr>
 <tr>
 <td>
-из них: врожденные
-аномалии (пороки
-развития) системы
+врожденные аномалии
+(пороки развития)
+системы
 кровообращения
 </td>
 <td>19.2</td>
-<td>Q 20-Q 28</td>
+<td>Q20-Q28</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22486,10 +38182,7 @@ N 94
 сердца
 </td>
 <td>19.3</td>
-<td>
-Q 20.0-
-Q 24.9
-</td>
+<td>Q20.0-Q24.9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22500,29 +38193,7 @@ Q 24.9
 <tr>
 <td>впалая грудь</td>
 <td>19.4</td>
-<td>Q 67.6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Врожденный ихтиоз</td>
-<td>19.5</td>
-<td>Q 80.0</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Синдром Дауна</td>
-<td>19.6</td>
-<td>Q 90</td>
+<td>Q67.6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22532,11 +38203,12 @@ Q 24.9
 </tr>
 <tr>
 <td>
-Симптомы, признаки и
-отклонения от нормы
+Симптомы, признаки
+и отклонения от
+нормы
 </td>
 <td>20.0</td>
-<td>R 00-R 99</td>
+<td>R00-R99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22550,7 +38222,7 @@ Q 24.9
 всего
 </td>
 <td>21.0</td>
-<td>S 00-Т 88</td>
+<td>S00-Т88</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22566,7 +38238,7 @@ Q 24.9
 причин
 </td>
 <td>22.0</td>
-<td>Т 90-Т 98</td>
+<td>Т90-Т98</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22576,61 +38248,63 @@ Q 24.9
 </tr>
 </table>
 
-### 2000 ДЕТИ (15-17 ЛЕТ ВКЛЮЧИТЕЛЬНО)
+## 4000 ВЗРОСЛЫЕ (60 ЛЕТ И СТАРШЕ)
 
 <table>
 <tr>
-<td rowspan="3">
+<th rowspan="3">
 Наименование
-классов и
-отдельных
+классов и отдельных
 болезней
-</td>
-<td rowspan="3">
+</th>
+<th rowspan="3">
 №
 строки
-</td>
-<td rowspan="3">
-Шифр по МКБ
-Х пересмотра
-</td>
-<td colspan="4">
-Зарегистрировано заболеваний в
-отчетном году
-</td>
-<td colspan="2">
+</th>
+<th rowspan="3">
+Шифр по
+МКБ Х
+пересмотра
+</th>
+<th colspan="4">
+Зарегистрировано заболеваний
+в отчетном году
+</th>
+<th colspan="2">
 Состоит под
 диспансерным
 наблюдением на
-конец
-отчетного года
-</td>
+конец отчетного
+года
+</th>
 </tr>
 <tr>
-<td rowspan="2">всего</td>
-<td rowspan="2">
+<th rowspan="2">всего</th>
+<th rowspan="2">
 в том
 числе
-юноши
-</td>
-<td colspan="2">
-из них с диагнозом,
-установленным впервые
-в жизни
-</td>
-<td rowspan="2">всего</td>
-<td rowspan="2">
+женщины
+</th>
+<th colspan="2">
+из них с
+диагнозом,
+установленным
+впервые в жизни
+</th>
+<th rowspan="2">всего</th>
+<th rowspan="2">
 в том
 числе
-юноши
-</td>
+женщины
+</th>
 </tr>
 <tr>
-<td>всего</td>
-<td>
-в том числе
-юноши
-</td>
+<th>всего</th>
+<th>
+в том
+числе
+женщины
+</th>
 </tr>
 <tr>
 <th>А</th>
@@ -22646,7 +38320,7 @@ Q 24.9
 <tr>
 <td>Всего</td>
 <td>1.0</td>
-<td>А 00-Т 98</td>
+<td>А00-Т98</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22662,7 +38336,7 @@ Q 24.9
 болезни
 </td>
 <td>2.0</td>
-<td>А 00-В 99</td>
+<td>А00-В99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22671,12 +38345,24 @@ Q 24.9
 <td></td>
 </tr>
 <tr>
+<td>из них: гепатит В и С</td>
+<td>2.1</td>
 <td>
-Ново-
-образования
+В16.0-В16.9,
+В17.0-В17.1,
+В18.0-В18.2
 </td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Новообразования</td>
 <td>3.0</td>
-<td>С 00-D 48</td>
+<td>С00-D48</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22687,13 +38373,11 @@ Q 24.9
 <tr>
 <td>
 из них:
-добро-
-качественные
-ново-
-образования
+доброкачественные
+новообразования
 </td>
 <td>3.1</td>
-<td>D 10-D 36</td>
+<td>D10-D36</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22704,67 +38388,60 @@ Q 24.9
 <tr>
 <td>
 в том числе:
-лейомиома
-матки
+лейомиома матки
 </td>
 <td>3.1.1</td>
-<td>D 25</td>
+<td>D25</td>
 <td></td>
-<td>Х</td>
 <td></td>
-<td>Х</td>
 <td></td>
-<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 другие
-добро-
-качественные
-ново-
-образования
+доброкачественные
+новообразования
 матки
 </td>
 <td>3.1.2</td>
-<td>D 26</td>
+<td>D26</td>
 <td></td>
-<td>Х</td>
 <td></td>
-<td>Х</td>
 <td></td>
-<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-добро-
-качественные
-ново-
-образования
+доброкачественные
+новообразования
 яичника
 </td>
 <td>3.1.3</td>
-<td>D 27</td>
+<td>D27</td>
 <td></td>
-<td>Х</td>
 <td></td>
-<td>Х</td>
 <td></td>
-<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 Болезни крови,
 кроветворных
-органов и
-отдельные
+органов и отдельные
 нарушения с
 вовлечением
 иммунного
-механизма,
-всего
+механизма, всего
 </td>
 <td>4.0</td>
-<td>D 50-D 89</td>
+<td>D50-D89</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22773,11 +38450,14 @@ Q 24.9
 <td></td>
 </tr>
 <tr>
-<td>из них анемии</td>
+<td>
+из них:
+анемии
+</td>
 <td>4.1</td>
 <td>
-D 50 - D 53,
-D 55-D 64
+D50-D53,
+D55-D64
 </td>
 <td></td>
 <td></td>
@@ -22789,23 +38469,11 @@ D 55-D 64
 <tr>
 <td>
 в том числе
-железо-
-дефицитная
+железодефицитная
 анемия
 </td>
 <td>4.2</td>
-<td>D 50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>гемофилия</td>
-<td>4.3</td>
-<td>D 66</td>
+<td>D50</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22818,12 +38486,11 @@ D 55-D 64
 Эндокринные
 болезни,
 расстройства
-питания и
-обмена
+питания и обмена
 веществ, всего
 </td>
 <td>5.0</td>
-<td>Е 00-Е 90</td>
+<td>Е00-Е90</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22832,12 +38499,9 @@ D 55-D 64
 <td></td>
 </tr>
 <tr>
-<td>
-из них:
-гипотиреоз
-</td>
+<td>из них: гипотиреоз</td>
 <td>5.1</td>
-<td>Е 03</td>
+<td>Е03</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22847,12 +38511,11 @@ D 55-D 64
 </tr>
 <tr>
 <td>
-тиреотоксикоз
-с зобом или
-без него
+тиреотоксикоз с
+зобом или без него
 </td>
-<td>5.2</td>
-<td>Е 05</td>
+<td>5,2</td>
+<td>Е05</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22862,13 +38525,11 @@ D 55-D 64
 </tr>
 <tr>
 <td>
-сахарный
-диабет
-инсулино-
-зависимый
+сахарный диабет
+инсулинозависимый
 </td>
 <td>5.3</td>
-<td>Е 10</td>
+<td>Е10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22878,13 +38539,11 @@ D 55-D 64
 </tr>
 <tr>
 <td>
-сахарный
-диабет
-инсулино-
-независимый
+сахарный диабет
+инсулинонезависимый
 </td>
 <td>5.4</td>
-<td>Е 11</td>
+<td>Е11</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22895,11 +38554,10 @@ D 55-D 64
 <tr>
 <td>
 другие формы
-сахарного
-диабета
+сахарного диабета
 </td>
 <td>5.5</td>
-<td>Е 12-Е 14</td>
+<td>Е12-Е14</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22908,12 +38566,9 @@ D 55-D 64
 <td></td>
 </tr>
 <tr>
-<td>
-гипофизарный
-нанизм
-</td>
+<td>гипопаратиреоз</td>
 <td>5.6</td>
-<td>Е 23.0</td>
+<td>E20</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22922,12 +38577,9 @@ D 55-D 64
 <td></td>
 </tr>
 <tr>
-<td>
-несахарный
-диабет
-</td>
+<td>несахарный диабет</td>
 <td>5.7</td>
-<td>Е 23.2</td>
+<td>Е23.2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22936,12 +38588,9 @@ D 55-D 64
 <td></td>
 </tr>
 <tr>
-<td>
-болезнь
-Аддисона
-</td>
+<td>болезнь Аддисона</td>
 <td>5.8</td>
-<td>Е 27.1</td>
+<td>Е27.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22952,7 +38601,7 @@ D 55-D 64
 <tr>
 <td>ожирение</td>
 <td>5.9</td>
-<td>Е 66</td>
+<td>Е66</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22963,7 +38612,18 @@ D 55-D 64
 <tr>
 <td>фенилкетонурия</td>
 <td>5.10</td>
-<td>Е 70.0</td>
+<td>Е70.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Болезнь Гоше</td>
+<td>5.11</td>
+<td>E75,2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22977,8 +38637,8 @@ D 55-D 64
 перемежающаяся
 порфирия
 </td>
-<td>5.11</td>
-<td>Е 80. 2</td>
+<td>5.12</td>
+<td>Е80. 2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -22988,12 +38648,25 @@ D 55-D 64
 </tr>
 <tr>
 <td>
-болезнь
-Вильсона-
+болезнь Вильсона-
 Коновалова
 </td>
-<td>5.12</td>
-<td>Е 83.0</td>
+<td>5.13</td>
+<td>Е83.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кистозный фиброз
+(Муковисцидоз)
+</td>
+<td>5.14</td>
+<td>E84</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23010,8 +38683,8 @@ D 55-D 64
 </td>
 <td>6.0</td>
 <td>
-F 00-F 09;
-F 20-F 99
+F00-F09;
+F20-F99
 </td>
 <td></td>
 <td></td>
@@ -23032,7 +38705,7 @@ F 20-F 99
 веществ
 </td>
 <td>7.0</td>
-<td>F 10-F 19</td>
+<td>F10-F19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23051,7 +38724,7 @@ F 20-F 99
 алкоголя
 </td>
 <td>7.1</td>
-<td>F 10</td>
+<td>F10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23061,12 +38734,11 @@ F 20-F 99
 </tr>
 <tr>
 <td>
-Болезни
-нервной
+Болезни нервной
 системы, всего
 </td>
 <td>8.0</td>
-<td>G 00-G 99</td>
+<td>G00-G99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23076,13 +38748,11 @@ F 20-F 99
 </tr>
 <tr>
 <td>
-из них:
-эпилепсия без
-психоза и
-слабоумия
+из них: Болезнь
+Паркинсона
 </td>
 <td>8.1</td>
-<td>G 40, G 41</td>
+<td>G20</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23092,16 +38762,11 @@ F 20-F 99
 </tr>
 <tr>
 <td>
-болезни
-нервов,нервных
-корешков и
-сплетений
+эпилепсия без
+психоза и слабоумия
 </td>
 <td>8.2</td>
-<td>
-G 50-G 64,
-G 70-G 73
-</td>
+<td>G40, G41</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23111,12 +38776,26 @@ G 70-G 73
 </tr>
 <tr>
 <td>
-детский
-церебральный
-паралич
+болезни нервов,
+нервных корешков и
+сплетений
 </td>
 <td>8.3</td>
-<td>G 80</td>
+<td>
+G50-G64,
+G70-G73
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: миастения</td>
+<td>8.4</td>
+<td>G70</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23126,17 +38805,12 @@ G 70-G 73
 </tr>
 <tr>
 <td>
-Болезни глаза
-и его
+Болезни глаза и его
 придаточного
-аппарата,
-всего
+аппарата, всего
 </td>
 <td>9.0</td>
-<td>
-Н 00-
-Н 59
-</td>
+<td>Н00-Н59</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23151,7 +38825,25 @@ G 70-G 73
 дерматоз век
 </td>
 <td>9.1</td>
-<td>Н 01.1</td>
+<td>Н01.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+острый
+аллергический
+конъюнктивит
+</td>
+<td>9.2</td>
+<td>Н10.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23160,13 +38852,20 @@ G 70-G 73
 <td></td>
 </tr>
 <tr>
-<td>
-острый
-аллергический
-конъюнктивит
-</td>
-<td>9.2</td>
-<td>Н 10.1</td>
+<td>катаракта</td>
+<td>9.3</td>
+<td>H25-H26</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>глаукома</td>
+<td>9.4</td>
+<td>H40-H42</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23176,8 +38875,8 @@ G 70-G 73
 </tr>
 <tr>
 <td>миопия</td>
-<td>9.3.</td>
-<td>Н 52.1</td>
+<td>9.5</td>
+<td>H52.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23189,14 +38888,10 @@ G 70-G 73
 <td>
 Болезни уха и
 сосцевидного
-отростка,
-всего
+отростка, всего
 </td>
 <td>10.0</td>
-<td>
-Н 60-
-Н 95
-</td>
+<td>Н60-Н95</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23207,13 +38902,12 @@ G 70-G 73
 <tr>
 <td>
 из них:
-отит
-хронический
+отит хронический
 </td>
 <td>10.1</td>
 <td>
-Н 65.2,4,9,
-Н 66.1,4,9
+H65,2-4,9,
+H66,1-4,9
 </td>
 <td></td>
 <td></td>
@@ -23224,16 +38918,12 @@ G 70-G 73
 </tr>
 <tr>
 <td>
-Болезни
-системы
+Болезни системы
 кровообращения,
 всего
 </td>
 <td>11.0</td>
-<td>
-I 00-
-I 99
-</td>
+<td>I00-I99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23243,16 +38933,12 @@ I 99
 </tr>
 <tr>
 <td>
-из них:
-острая
+из них: острая
 ревматическая
 лихорадка
 </td>
 <td>11.1</td>
-<td>
-I 00-
-I 02
-</td>
+<td>I00-I02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23267,9 +38953,221 @@ I 02
 болезни сердца
 </td>
 <td>11.2</td>
+<td>I05-I09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>
-I 05-
-I 09
+болезни,
+характеризующиеся
+повышенным кровяным
+давлением
+</td>
+<td>11.3</td>
+<td>I10-I13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ишемическая болезнь
+сердца
+</td>
+<td>11.4</td>
+<td>I20-I25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+из общего числа
+больных ишемической
+болезнью-больные:
+стенокардией острым
+инфарктом миокарда
+</td>
+<td>11.5</td>
+<td>I20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11.6</td>
+<td>I21-I22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+другими формами
+острой ишемической
+болезни сердца
+</td>
+<td>11.7</td>
+<td>I23-I24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>кардиомиопатия</td>
+<td>11.8</td>
+<td>I42</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+пароксизмальная
+тахикардия
+</td>
+<td>11.9</td>
+<td>I47</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+другие нарушения
+проводимости
+</td>
+<td>11.10</td>
+<td>I45</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+другие нарушения
+сердечного ритма
+</td>
+<td>11.11</td>
+<td>I49</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+сердечная
+недостаточность
+</td>
+<td>11.12</td>
+<td>I50.0-I50.9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+цереброваскулярные
+болезни
+</td>
+<td>11.13</td>
+<td>I60-I69</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+геморрагический
+инсульт
+</td>
+<td>11.14</td>
+<td>I60, I61, I62</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+инфаркт мозга,
+закупорка мозговых
+артерий
+</td>
+<td>11.15</td>
+<td>I63, I65, I66</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+неуточненный
+инсульт
+</td>
+<td>11.16</td>
+<td>I64</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+эндартериит,
+тромбангиит
+облитерирующий
+</td>
+<td>11.17</td>
+<td>
+I70.2,
+I73.0,1
 </td>
 <td></td>
 <td></td>
@@ -23280,18 +39178,12 @@ I 09
 </tr>
 <tr>
 <td>
-Болезни,
-характеризую-
-щиеся
-повышенным
-кровяным
-давлением
+аневризма и
+расслоение грудной
+аорты
 </td>
-<td>11.3</td>
-<td>
-I 10-
-I 13
-</td>
+<td>11.18</td>
+<td>I71.0-I71.2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23303,10 +39195,9 @@ I 13
 <td>
 варикозное
 расширение вен
-нижних
-конечностей
+нижних конечностей
 </td>
-<td>11.4</td>
+<td>11.19</td>
 <td>I 83</td>
 <td></td>
 <td></td>
@@ -23321,10 +39212,7 @@ I 13
 дыхания, всего
 </td>
 <td>12.0</td>
-<td>
-J 00-
-J 99
-</td>
+<td>J00-J99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23333,15 +39221,9 @@ J 99
 <td></td>
 </tr>
 <tr>
-<td>
-из них:
-пневмония
-</td>
+<td>из них: пневмония</td>
 <td>12.1</td>
-<td>
-J 12-J 16,
-J 18
-</td>
+<td>J12-J16, J18</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23352,11 +39234,10 @@ J 18
 <tr>
 <td>
 вазамоторный и
-аллергический
-ринит
+аллергический ринит
 </td>
 <td>12.2</td>
-<td>J 30</td>
+<td>J30</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23366,13 +39247,12 @@ J 18
 </tr>
 <tr>
 <td>
-хронический
-ринит,
+хронический ринит,
 фарингит,
 назофарингит
 </td>
 <td>12.3</td>
-<td>J 31.0,1,2</td>
+<td>J31.0,1,2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23381,15 +39261,9 @@ J 18
 <td></td>
 </tr>
 <tr>
-<td>
-хронический
-синусит
-</td>
+<td>хронический синусит</td>
 <td>12.4</td>
-<td>
-J 32.0-
-J 32.9
-</td>
+<td>J32.0-J32.9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23400,12 +39274,11 @@ J 32.9
 <tr>
 <td>
 хронические
-болезни
-миндалин и
+болезни миндалин и
 аденоидов
 </td>
 <td>12.5</td>
-<td>J 35</td>
+<td>J35</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23415,16 +39288,12 @@ J 32.9
 </tr>
 <tr>
 <td>
-бронхит
-хронический и
-неуточненный,
+бронхит хронический
+и неуточненный,
 эмфизема
 </td>
 <td>12.6</td>
-<td>
-J 40-
-J 43
-</td>
+<td>J40-J43</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23433,15 +39302,9 @@ J 43
 <td></td>
 </tr>
 <tr>
-<td>
-бронхиальная
-астма
-</td>
+<td>бронхиальная астма</td>
 <td>12.7</td>
-<td>
-J 45.0,1,
-8,9
-</td>
+<td>J45.0,1,8,9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23451,14 +39314,12 @@ J 45.0,1,
 </tr>
 <tr>
 <td>
-другая
-хроническая
+другая хроническая
 обструктивная
-легочная
-болезнь
+легочная болезнь
 </td>
 <td>12.8</td>
-<td>J 44.0,1,8,9</td>
+<td>J44.0,1,8,9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23469,11 +39330,10 @@ J 45.0,1,
 <tr>
 <td>
 Болезни органов
-пищеварения,
-всего
+пищеварения, всего
 </td>
 <td>13.0</td>
-<td>К 00-К 93</td>
+<td>К00-К93</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23484,12 +39344,11 @@ J 45.0,1,
 <tr>
 <td>
 из них:
-гастро-
-эзофагеальный
+гастроэзофагеальный
 рефлюкс
 </td>
 <td>13.1</td>
-<td>К 21</td>
+<td>К21</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23500,14 +39359,11 @@ J 45.0,1,
 <tr>
 <td>
 язва желудка и
-двенадцати-
-перстной кишки
+двенадцатиперстной
+кишки
 </td>
 <td>13.2</td>
-<td>
-K 25-
-K 27
-</td>
+<td>K25-K27</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23516,12 +39372,20 @@ K 27
 <td></td>
 </tr>
 <tr>
-<td>
-гастрит и
-дуоденит
-</td>
+<td>гастрит и дуоденит</td>
 <td>13.3</td>
-<td>К 29</td>
+<td>К29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>болезнь Крона</td>
+<td>13.4</td>
+<td>К50</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23531,12 +39395,27 @@ K 27
 </tr>
 <tr>
 <td>
-функциональные
-расстройства
-желудка
+неспецефический
+язвенный колит
 </td>
-<td>13.4</td>
-<td>К 30, К 31.0,3, К 31.8,9</td>
+<td>13.5</td>
+<td>К51</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+другие
+неинфекционные
+гастроэнтериты и
+колиты
+</td>
+<td>13.6</td>
+<td>К52</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23549,8 +39428,8 @@ K 27
 желчнокаменная
 болезнь
 </td>
-<td>13.5</td>
-<td>К 80</td>
+<td>13.7</td>
+<td>К80</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23559,15 +39438,9 @@ K 27
 <td></td>
 </tr>
 <tr>
-<td>
-холецистит,
-холангит
-</td>
-<td>13.6</td>
-<td>
-К 81,
-К 83.0
-</td>
+<td>холецистит, холангит</td>
+<td>13.8</td>
+<td>К81, К83.0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23581,11 +39454,8 @@ K 27
 поджелудочной
 железы
 </td>
-<td>13.7</td>
-<td>
-К 85,
-К 86
-</td>
+<td>13.9</td>
+<td>К85,К86</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23597,14 +39467,10 @@ K 27
 <td>
 Болезни кожи и
 подкожной
-клетчатки,
-всего
+клетчатки, всего
 </td>
 <td>14.0</td>
-<td>
-L 00-
-L 99
-</td>
+<td>L00-L99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23614,12 +39480,11 @@ L 99
 </tr>
 <tr>
 <td>
-из них:
-атопический
+из них: атопический
 дерматит
 </td>
 <td>14.1</td>
-<td>L 20</td>
+<td>L20</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23634,7 +39499,7 @@ L 99
 дерматит
 </td>
 <td>14.2</td>
-<td>L 23</td>
+<td>L23</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23642,6 +39507,9 @@ L 99
 <td></td>
 <td></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td>
 дерматит
@@ -23649,7 +39517,7 @@ L 99
 этиологии
 </td>
 <td>14.3</td>
-<td>L 27.0,1</td>
+<td>L27.0,1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23659,12 +39527,11 @@ L 99
 </tr>
 <tr>
 <td>
-дерматит,
-вызванный
+дерматит, вызванный
 съеденной пищей
 </td>
 <td>14.4</td>
-<td>L 27.2</td>
+<td>L27.2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23702,17 +39569,13 @@ L 99
 </tr>
 <tr>
 <td>
-Болезни
-костно-мышечной
-системы и
+Болезни костно-
+мышечной системы и
 соединительной
 ткани, всего
 </td>
 <td>15.0</td>
-<td>
-М 00-
-М 99
-</td>
+<td>М00-М99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23722,15 +39585,22 @@ L 99
 </tr>
 <tr>
 <td>
-из них
-ревматоидные
+из них ревматоидные
 артриты
 </td>
 <td>15.1</td>
-<td>
-М 05-
-М 06
-</td>
+<td>М05-М06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>подагра</td>
+<td>15.2</td>
+<td>М10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23740,11 +39610,8 @@ L 99
 </tr>
 <tr>
 <td>артрозы</td>
-<td>15.2</td>
-<td>
-M 15-
-M 19
-</td>
+<td>15.3</td>
+<td>M15-M19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23757,8 +39624,8 @@ M 19
 в том числе:
 коксартроз
 </td>
-<td>15.3</td>
-<td>М 16</td>
+<td>15.4</td>
+<td>М16</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23768,8 +39635,8 @@ M 19
 </tr>
 <tr>
 <td>гонартроз</td>
-<td>15.4</td>
-<td>М 17</td>
+<td>15.5</td>
+<td>М17</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23779,12 +39646,11 @@ M 19
 </tr>
 <tr>
 <td>
-системные
-поражения
+системные поражения
 соединительной
 ткани
 </td>
-<td>15.5</td>
+<td>15.6</td>
 <td>М30-М36</td>
 <td></td>
 <td></td>
@@ -23796,11 +39662,10 @@ M 19
 <tr>
 <td>
 в том числе:
-системная
-красная
+системная красная
 волчанка
 </td>
-<td>15.6</td>
+<td>15.7</td>
 <td>М 32</td>
 <td></td>
 <td></td>
@@ -23810,11 +39675,8 @@ M 19
 <td></td>
 </tr>
 <tr>
-<td>
-дермато-
-полимиозит
-</td>
-<td>15.7</td>
+<td>дерматополимиозит</td>
+<td>15.8</td>
 <td>М 33</td>
 <td></td>
 <td></td>
@@ -23825,1659 +39687,12 @@ M 19
 </tr>
 <tr>
 <td>склеродермия</td>
-<td>15.8</td>
-<td>М 34</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезнь
-Бехтерева
-</td>
-<td>15.9</td>
-<td>М 45</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>сколиоз</td>
-<td>15.10</td>
-<td>М 41</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни
-мочеполовой
-системы, всего
-</td>
-<td>16.0</td>
-<td>
-N 00-
-N 99
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-гломерулярные
-болезни
-</td>
-<td>16.1</td>
-<td>
-N 00-N 08,
-N 17-N 19
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-почечные
-тубуло-
-интерстициаль-
-ные болезни
-</td>
-<td>16.2</td>
-<td>
-N 10-
-N 12,
-N 15
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-камни почки и
-мочеточника
-</td>
-<td>16.3</td>
-<td>N 20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-сальпингит,
-оофорит
-</td>
-<td>16.4</td>
-<td>N 70</td>
-<td></td>
-<td>X</td>
-<td></td>
-<td>X</td>
-<td></td>
-<td>X</td>
-</tr>
-<tr>
-<td>
-нарушение
-менструально-
-овариального
-цикла
-</td>
-<td>16.5</td>
-<td>N 91, N 92, N 94</td>
-<td></td>
-<td>X</td>
-<td></td>
-<td>X</td>
-<td></td>
-<td>X</td>
-</tr>
-<tr>
-<td>
-Осложнения
-беременности,
-родов и
-послеродового
-периода
-</td>
-<td>17.0</td>
-<td>О00-О75,О81-О83,О84.1-9,О85-О99</td>
-<td></td>
-<td>X</td>
-<td></td>
-<td>X</td>
-<td></td>
-<td>X</td>
-</tr>
-<tr>
-<td>
-Врожденные
-аномалии
-(пороки
-развития),
-деформации и
-хромосомные
-нарушения,
-всего
-</td>
-<td>19.0</td>
-<td>
-Q 00-
-Q 99
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-врожденные
-аномалии
-(пороки
-развития)
-нервной
-системы
-</td>
-<td>19.1</td>
-<td>
-Q 00-
-Q 07
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-врожденные
-аномалии
-(пороки
-развития)
-системы
-кровообращения
-</td>
-<td>19.2</td>
-<td>
-Q 20-
-Q 28
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них: пороки
-сердца
-</td>
-<td>19.3</td>
-<td>
-Q 20.0-
-Q 24.9
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>впалая грудь</td>
-<td>19.4</td>
-<td>Q 67.6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Врожденный
-ихтиоз
-</td>
-<td>19.5</td>
-<td>Q 80.0</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Синдром Дауна</td>
-<td>19.6</td>
-<td>Q 90</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Симптомы,
-признаки и
-отклонения от
-нормы
-</td>
-<td>20.0</td>
-<td>
-R 00-
-R 99
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Травмы и
-отравления,
-всего
-</td>
-<td>21.0</td>
-<td>
-S 00-
-Т 88
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Последствия
-травм,
-отравлений и
-других
-воздействий
-внешних причин
-</td>
-<td>22.0</td>
-<td>
-Т 90-
-Т 98
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-### 3000 Взрослые (18 лет и старше)
-
-<table>
-<tr>
-<td rowspan="3">
-Наименование
-классов и
-отдельных
-болезней
-</td>
-<td rowspan="3">
-№
-строки
-</td>
-<td rowspan="3">
-Шифр по МКБ
-Х пересмотра
-</td>
-<td colspan="4">
-Зарегистрировано
-заболеваний в отчетном
-году
-</td>
-<td></td>
-<td colspan="2">
-Состоит под
-диспансерным
-наблюдением на конец отчетного
-года
-</td>
-</tr>
-<tr>
-<td rowspan="2">всего</td>
-<td rowspan="2">
-в том
-числе
-женщины
-</td>
-<td colspan="3">
-из них с
-диагнозом,
-установленным
-впервые в жизни
-</td>
-<td rowspan="2">всего</td>
-<td rowspan="2">
-в том
-числе
-женщины
-</td>
-</tr>
-<tr>
-<td>всего</td>
-<td colspan="2">
-в том числе
-женщины
-</td>
-</tr>
-<tr>
-<th>А</th>
-<th>Б</th>
-<th>В</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td>Всего</td>
-<td>1.0</td>
-<td>А 00-Т 98</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе:
-Инфекционные и
-паразитарные
-болезни
-</td>
-<td>2.0</td>
-<td>А 00-В 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Новообразования</td>
-<td>3.0</td>
-<td>С 00-D 48</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них: добро-
-качественные
-новообразования
-</td>
-<td>3.1</td>
-<td>D 10-D 36</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе:
-лейомиома матки
-</td>
-<td>3.1.1</td>
-<td>D 25</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-другие добро-
-качественные
-новообразования
-матки
-</td>
-<td>3.1.2</td>
-<td>D 26</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-добро-
-качественные
-новообразования
-яичника
-</td>
-<td>3.1.3</td>
-<td>D 27</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни крови,
-кроветворных
-органов и
-отдельные
-нарушения с
-вовлечением
-иммунного
-механизма, всего
-</td>
-<td>4.0</td>
-<td>D 50-D 89</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-анемии
-</td>
-<td>4.1</td>
-<td>
-D 50 -D 53,
-D 55-D 64
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе
-железо-
-дефицитная
-анемия
-</td>
-<td>4.2</td>
-<td>D 50</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Эндокринные
-болезни,
-расстройства
-питания и
-обмена
-веществ, всего
-</td>
-<td>5.0</td>
-<td>Е 00-Е 90</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-гипотиреоз
-</td>
-<td>5.1</td>
-<td>Е 03</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-тиреотоксикоз с
-зобом или без
-него
-</td>
-<td>5,2</td>
-<td>Е 05</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-сахарный диабет
-инсулино-
-зависимый
-</td>
-<td>5.3</td>
-<td>Е 10</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-сахарный диабет
-инсулино-
-независимый
-</td>
-<td>5.4</td>
-<td>Е 11</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-другие формы
-сахарного
-диабета
-</td>
-<td>5.5</td>
-<td>Е 12-Е 14</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-несахарный
-диабет
-</td>
-<td>5.6</td>
-<td>Е 23.2</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-болезнь
-Аддисона
-</td>
-<td>5.7</td>
-<td>Е 27.1</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ожирение</td>
-<td>5.8</td>
-<td>Е 66</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>фенилкетонурия</td>
-<td>5.9</td>
-<td>Е 70.0</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-острая
-перемежающаяся
-порфирия
-</td>
-<td>5.10</td>
-<td>Е 80. 2</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-болезнь
-Вильсона-
-Коновалова
-</td>
-<td>5.11</td>
-<td>Е 83.0</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Психические
-расстройства и
-расстройства
-поведения
-</td>
-<td>6.0</td>
-<td>
-F 00-F 09;
-F 20-F 99
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Психические
-расстройства и
-расстройства
-поведения,
-связанные с
-употреблением
-психоактивных
-веществ
-</td>
-<td>7.0</td>
-<td>F 10-F 19</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе
-психические и
-поведенческие
-расстройства,
-вызванные
-употреблением
-алкоголя
-</td>
-<td>7.1</td>
-<td>F 10</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни нервной
-системы, всего
-</td>
-<td>8.0</td>
-<td>G 00-G 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-эпилепсия без
-психоза и
-слабоумия
-</td>
-<td>8.1</td>
-<td>G 40, G 41</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-болезни
-нервов,нервных
-корешков и
-сплетений
-</td>
-<td>8.2</td>
-<td>
-G 50-G 64,
-G 70-G 73
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни глаза и
-его
-придаточного
-аппарата, всего
-</td>
-<td>9.0</td>
-<td>Н 00-Н 59</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-аллергический
-дерматоз век
-</td>
-<td>9.1</td>
-<td>Н 01.1</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-острый
-аллергический
-конъюнктивит
-</td>
-<td>9.2</td>
-<td>Н 10.1</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>катаракта</td>
-<td>9.3</td>
-<td>H 25-H 26</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>глаукома</td>
-<td>9.4</td>
-<td>H 40-H 42</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>миопия</td>
-<td>9.5</td>
-<td>H 52.1</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни уха и
-сосцевидного
-отростка, всего
-</td>
-<td>10.0</td>
-<td>Н 60-Н 95</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них: отит
-хронический
-</td>
-<td>10.1</td>
-<td>
-H 65,2-4,9,
-H 66,1-4,9
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни системы
-кровообращения,
-всего
-</td>
-<td>11.0</td>
-<td>I 00-I 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них: острая
-ревматическая
-лихорадка
-</td>
-<td>11.1</td>
-<td>I 00-I 02</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-хронические
-ревматические
-болезни сердца
-</td>
-<td>11.2</td>
-<td>I 05-I 09</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-болезни,
-характеризую-
-щиеся
-повышенным
-кровяным
-давлением
-</td>
-<td>11.3</td>
-<td>I 10-I 13</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-ишемическая
-болезнь сердца
-</td>
-<td>11.4</td>
-<td>I 20-I 25</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из общего числа
-больных
-ишемической
-болезнью-
-больные:
-стенокардией
-</td>
-<td>11.5</td>
-<td>I 20</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-острым
-инфарктом
-миокарда
-</td>
-<td>11.6</td>
-<td>I 21-I 22</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-другими формами
-острой
-ишемической
-болезни сердца
-</td>
-<td>11.7</td>
-<td>I 23-I 24</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-пароксизмальная
-тахикардия
-</td>
-<td>11.8</td>
-<td>I 47</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-другие
-нарушения
-проводимости
-</td>
-<td>11.9</td>
-<td>I 45</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-другие
-нарушения
-сердечного
-ритма
-</td>
-<td>11.10</td>
-<td>I 49</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-сердечная
-недостаточность
-</td>
-<td>11.11</td>
-<td>I 50.0-I 50.9</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-церебровас-
-кулярные
-болезни
-</td>
-<td>11.12</td>
-<td>I 60-I 69</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-эндартериит,
-тромбангиит
-облитерирующий
-</td>
-<td>11.13</td>
-<td>
-I 70.2,
-I 73.0,1
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-варикозное
-расширение вен
-нижних
-конечностей
-</td>
-<td>11.14</td>
-<td>I 83</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни органов
-дыхания, всего
-</td>
-<td>12.0</td>
-<td>J 00-J 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-пневмония
-</td>
-<td>12.1</td>
-<td>
-J 12-J 16,
-J 18
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-вазамоторный и
-аллергический
-ринит
-</td>
-<td>12.2</td>
-<td>J 30</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-хронический
-ринит,
-фарингит,
-назофарингит
-</td>
-<td>12.3</td>
-<td>J 31.0,1,2</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-хронический
-синусит
-</td>
-<td>12.4</td>
-<td>J 32.0-J 32.9</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-хронические
-болезни
-миндалин и
-аденоидов
-</td>
-<td>12.5</td>
-<td>J 35</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-бронхит
-хронический и
-неуточненный,
-эмфизема
-</td>
-<td>12.6</td>
-<td>J 40-J 43</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-бронхиальная
-астма
-</td>
-<td>12.7</td>
-<td>J 45.0,1,8,9</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-другая
-хроническая
-обструктивная
-легочная
-болезнь
-</td>
-<td>12.8</td>
-<td>J 44.0,1,8,9</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни органов
-пищеварения,
-всего
-</td>
-<td>13.0</td>
-<td>К 00-К 93</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-гастроэ-
-зофагеальный
-рефлюкс
-</td>
-<td>13.1</td>
-<td>К 21</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-язва желудка и
-двенадцати-
-перстной кишки
-</td>
-<td>13.2</td>
-<td>K 25-K 27</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-гастрит и
-дуоденит
-</td>
-<td>13.3</td>
-<td>К 29</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-желчнокаменная
-болезнь
-</td>
-<td>13.4</td>
-<td>К 80</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-холецистит,
-холангит
-</td>
-<td>13.5</td>
-<td>К 81, К 83.0</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-болезни
-поджелудочной
-железы
-</td>
-<td>13.6</td>
-<td>К 85,К 86</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни кожи и
-подкожной
-клетчатки,всего
-</td>
-<td>14.0</td>
-<td>L 00-L 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-атопический
-дерматит
-</td>
-<td>14.1</td>
-<td>L 20</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-аллергический
-контактный
-дерматит
-</td>
-<td>14.2</td>
-<td>L 23</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-дерматит
-лекарственной
-этиологии
-</td>
-<td>14.3</td>
-<td>L 27.0,1</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-дерматит,
-вызванный
-съеденной пищей
-</td>
-<td>14.4</td>
-<td>L 27.2</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-аллергическая
-крапивница
-</td>
-<td>14.5</td>
-<td>L 50.0</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-эритема
-многоформная
-</td>
-<td>14.6</td>
-<td>L 51</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни
-костно-мышечной
-системы и
-соединительной
-ткани, всего
-</td>
-<td>15.0</td>
-<td>М 00-М 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-ревматоидные
-артриты
-</td>
-<td>15.1</td>
-<td>М 05-М 06</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>подагра</td>
-<td>15.2</td>
-<td>М 10</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>артрозы</td>
-<td>15.3</td>
-<td>M 15-M 19</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе:
-коксартроз
-</td>
-<td>15.4</td>
-<td>М 16</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>гонартроз</td>
-<td>15.5</td>
-<td>М 17</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-системные
-поражения
-соединительной
-ткани
-</td>
-<td>15.6</td>
-<td>М 30 - М 36</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе:
-системная
-красная
-волчанка
-</td>
-<td>15.7</td>
-<td>М 32</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-дермато-
-полимиозит
-</td>
-<td>15.8</td>
-<td>М 33</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>склеродермия</td>
 <td>15.9</td>
 <td>М 34</td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -25488,69 +39703,65 @@ J 18
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-Болезнь
-Бехтерева
-</td>
+<td>Болезнь Бехтерева</td>
 <td>15.11</td>
-<td>М 45</td>
+<td>М45</td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>сколиоз</td>
 <td>15.12</td>
-<td>М 41</td>
+<td>М41</td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>остеопароз</td>
 <td>15.13</td>
-<td>M 80-M 82</td>
+<td>M80-M82</td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>псевдоартроз</td>
 <td>15.14</td>
-<td>М 84.1</td>
+<td>М84.1</td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-Болезни
-мочеполовой
+Болезни мочеполовой
 системы, всего
 </td>
 <td>16.0</td>
-<td>N 00-N 99</td>
+<td>N00-N99</td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -25561,404 +39772,7 @@ J 18
 болезни
 </td>
 <td>16.1</td>
-<td>
-N 00-N 08,
-N 17-N 19
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-почечные
-тубуло-
-интерстициаль-
-ные болезни
-</td>
-<td>16.2</td>
-<td>N 10-N 12,N 15</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-камни почки и
-мочеточника
-</td>
-<td>16.3</td>
-<td>N 20</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-болезни
-предстательной
-железы
-</td>
-<td>16.4</td>
-<td>N 40-N 42</td>
-<td></td>
-<td>Х</td>
-<td></td>
-<td colspan="2">Х</td>
-<td></td>
-<td>Х</td>
-</tr>
-<tr>
-<td>
-в том числе:
-гиперплазия предстательной железы
-</td>
-<td>16.5</td>
-<td>N 40</td>
-<td></td>
-<td>Х</td>
-<td></td>
-<td colspan="2">Х</td>
-<td></td>
-<td>Х</td>
-</tr>
-<tr>
-<td>
-мужское
-бесплодие
-</td>
-<td>16.6</td>
-<td>N 46</td>
-<td></td>
-<td>Х</td>
-<td></td>
-<td colspan="2">Х</td>
-<td></td>
-<td>Х</td>
-</tr>
-<tr>
-<td>
-сальпингит,
-оофорит
-</td>
-<td>16.7</td>
-<td>N 70</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>эндометриоз</td>
-<td>16.8</td>
-<td>N 80</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-эрозия и
-эктропион шейки
-матки
-</td>
-<td>16.9</td>
-<td>N 86</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-нарушение
-менструально-
-овариального
-цикла
-</td>
-<td>16.10</td>
-<td>N 91, N 92, N 94</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-нарушения
-менопаузы и
-после менопаузы
-</td>
-<td>16.11</td>
-<td>N 95</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-женское
-беплодие
-</td>
-<td>16.12</td>
-<td>N 97</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Осложнения
-беременности,
-родов и
-послеродового
-периода
-</td>
-<td>17.0</td>
-<td>
-О 00-О 75,
-О 81-О 83,
-О 84.1-9,
-О 85-О 99
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Врожденные
-аномалии
-(пороки
-развития),
-деформации и
-хромосомные
-нарушения,
-всего
-</td>
-<td>19.0</td>
-<td>Q 00-Q 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-врожденные
-аномалии
-(пороки
-развития)
-нервной системы
-</td>
-<td>19.1</td>
-<td>Q 00-Q 07</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-врожденные
-аномалии
-(пороки
-развития)
-системы
-кровообращения
-</td>
-<td>19.2</td>
-<td>Q 20-Q 28</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них: пороки
-сердца
-</td>
-<td>19.3</td>
-<td>Q 20.0-Q 24.9</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>впалая грудь</td>
-<td>19.4</td>
-<td>Q 67.6</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Симптомы,
-признаки и
-отклонения от
-нормы
-</td>
-<td>20.0</td>
-<td>R 00-R 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Травмы и
-отравления,
-всего
-</td>
-<td>21.0</td>
-<td>S 00-Т 88</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Последствия
-травм,
-отравлений и
-других
-воздействий
-внешних причин
-</td>
-<td>22.0</td>
-<td>Т 90-Т 98</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-### 4000 ВЗРОСЛЫЕ ( 60 ЛЕТ И СТАРШЕ)
-
-<table>
-<tr>
-<td rowspan="3">
-Наименование
-классов и
-отдельных
-болезней
-</td>
-<td rowspan="3">
-№
-строки
-</td>
-<td colspan="2" rowspan="3">
-Шифр по МКБ
-Х пересмотра
-</td>
-<td colspan="3">
-Зарегистрировано
-заболеваний в отчетном
-году
-</td>
-<td></td>
-<td colspan="2">
-Состоит под
-диспансерным
-наблюдением на
-конец
-отчетного года
-</td>
-</tr>
-<tr>
-<td rowspan="2">всего</td>
-<td rowspan="2">
-в том
-числе
-женщины
-</td>
-<td colspan="2">
-из них с
-диагнозом,
-установленным
-впервые в жизни
-</td>
-<td rowspan="2">всего</td>
-<td rowspan="2">
-в том
-числе
-женщины
-</td>
-</tr>
-<tr>
-<td>всего</td>
-<td>
-в том
-числе
-женщины
-</td>
-</tr>
-<tr>
-<th>А</th>
-<th>Б</th>
-<th colspan="2">В</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td>Всего</td>
-<td>1.0</td>
-<td colspan="2">А 00-Т 98</td>
+<td>N00-N08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -25968,1345 +39782,26 @@ N 17-N 19
 </tr>
 <tr>
 <td>
-в том числе:
-Инфекционные и
-паразитарные
-болезни
-</td>
-<td>2.0</td>
-<td colspan="2">А 00-В 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Новообразования</td>
-<td>3.0</td>
-<td colspan="2">С 00-D 48</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-добро-
-качественные
-новообразования
-</td>
-<td>3.1</td>
-<td colspan="2">D 10-D 36</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе:
-лейомиома матки
-</td>
-<td>3.1.1</td>
-<td colspan="2">D 25</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-другие
-добро-
-качественные
-новообразования
-матки
-</td>
-<td>3.1.2</td>
-<td colspan="2">D 26</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-добро-
-качественные
-новообразования
-яичника
-</td>
-<td>3.1.3</td>
-<td colspan="2">D 27</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни крови,
-кроветворных
-органов и
-отдельные
-нарушения с
-вовлечением
-иммунного
-механизма,
-всего
-</td>
-<td>4.0</td>
-<td colspan="2">D 50-D 89</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-анемии
-</td>
-<td>4.1</td>
-<td colspan="2">
-D 50 -D 53,
-D 55-D 64
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе
-железо-
-дефицитная
-анемия
-</td>
-<td>4.2</td>
-<td colspan="2">D 50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Эндокринные
-болезни,
-расстройства
-питания и
-обмена веществ,
-всего
-</td>
-<td>5.0</td>
-<td colspan="2">Е 00-Е 90</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-гипотиреоз
-</td>
-<td>5.1</td>
-<td colspan="2">Е 03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-тиреотоксикоз с
-зобом или без
-него
-</td>
-<td>5,2</td>
-<td colspan="2">Е 05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-сахарный диабет
-инсулино-
-зависимый
-</td>
-<td>5.3</td>
-<td colspan="2">Е 10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-сахарный диабет
-инсулино-
-независимый
-</td>
-<td>5.4</td>
-<td colspan="2">Е 11</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-другие формы
-сахарного
-диабета
-</td>
-<td>5.5</td>
-<td colspan="2">Е 12-Е 14</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-несахарный
-диабет
-</td>
-<td>5.6</td>
-<td colspan="2">Е 23.2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-болезнь
-Аддисона
-</td>
-<td>5.7</td>
-<td colspan="2">Е 27.1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ожирение</td>
-<td>5.8</td>
-<td colspan="2">Е 66</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>фенилкетонурия</td>
-<td>5.9</td>
-<td colspan="2">Е 70.0</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-острая
-перемежающаяся
-порфирия
-</td>
-<td>5.10</td>
-<td colspan="2">Е 80. 2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-болезнь
-Вильсона-
-Коновалова
-</td>
-<td>5.11</td>
-<td colspan="2">Е 83.0</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Психические
-расстройства и
-расстройства
-поведения
-</td>
-<td>6.0</td>
-<td colspan="2">F 00-F 09; F 20-F 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Психические
-расстройства и
-расстройства
-поведения,
-связанные с
-употреблением
-психоактивных
-веществ
-</td>
-<td>7.0</td>
-<td colspan="2">F 10-F 19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе
-психические и
-поведенческие
-расстройства,
-вызванные
-употреблением
-алкоголя
-</td>
-<td>7.1</td>
-<td colspan="2">F 10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни нервной
-системы, всего
-</td>
-<td>8.0</td>
-<td colspan="2">G 00-G 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-эпилепсия без психоза и слабоумия
-</td>
-<td>8.1</td>
-<td colspan="2">G 40, G 41</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-болезни
-нервов,нервных
-корешков и
-сплетений
-</td>
-<td>8.2</td>
-<td>
-G 50-G 64,
-G 70-G 73
-</td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни глаза и
-его
-придаточного
-аппарата, всего
-</td>
-<td>9.0</td>
-<td colspan="2">Н 00-Н 59</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-аллергический
-дерматоз век
-</td>
-<td>9.1</td>
-<td colspan="2">Н 01.1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-острый
-аллергический
-конъюнктивит
-</td>
-<td>9.2</td>
-<td colspan="2">Н 10.1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>катаракта</td>
-<td>9.3</td>
-<td colspan="2">H 25-H 26</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>глаукома</td>
-<td>9.4</td>
-<td colspan="2">H 40-H 42</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>миопия</td>
-<td>9.5</td>
-<td colspan="2">H 52.1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни уха и
-сосцевидного
-отростка, всего
-</td>
-<td>10.0</td>
-<td colspan="2">Н 60-Н 95</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-отит
-хронический
-</td>
-<td>10.1</td>
-<td colspan="2">
-H 65,2-4,9,
-H 66,1-4,9
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни системы
-кровообращения,
-всего
-</td>
-<td>11.0</td>
-<td colspan="2">I 00-I 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них:</td>
-<td>11.1</td>
-<td colspan="2">I 00-I 02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-острая
-ревматическая
-лихорадка
-</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-хронические
-ревматические
-болезни сердца
-</td>
-<td>11.2</td>
-<td colspan="2">I 05-I 09</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-болезни,
-характеризую-
-щиеся
-повышенным
-кровяным
-давлением
-</td>
-<td>11.3</td>
-<td colspan="2">I 10-I 13</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-ишемическая
-болезнь сердца
-</td>
-<td>11.4</td>
-<td colspan="2">I 20-I 25</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из общего числа
-больных
-ишемической
-болезнью-
-больные:
-стенокардией
-</td>
-<td>11.5</td>
-<td colspan="2">I 20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-острым
-инфарктом
-миокарда
-</td>
-<td>11.6</td>
-<td colspan="2">I 21-I 22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-другими формами
-острой
-ишемической
-болезни сердца
-</td>
-<td>11.7</td>
-<td colspan="2">I 23-I 24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-пароксизмальная
-тахикардия
-</td>
-<td>11.8</td>
-<td colspan="2">I 47</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-другие
-нарушения
-проводимости
-</td>
-<td>11.9</td>
-<td colspan="2">I 45</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-другие
-нарушения
-сердечного
-ритма
-</td>
-<td>11.10</td>
-<td colspan="2">I 49</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-сердечная
+почечная
 недостаточность
 </td>
-<td>11.11</td>
-<td colspan="2">I 50.0-I 50.9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-церебровас-
-кулярные
-болезни
-</td>
-<td>11.12</td>
-<td colspan="2">I 60-I 69</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-эндартериит,
-тромбангиит
-облитерирующий
-</td>
-<td>11.13</td>
-<td colspan="2">I 70.2, I 73.0,1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-варикозное
-расширение вен
-нижних
-конечностей
-</td>
-<td>11.14</td>
-<td colspan="2">I 83</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни органов
-дыхания, всего
-</td>
-<td>12.0</td>
-<td colspan="2">J 00-J 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-пневмония
-</td>
-<td>12.1</td>
-<td colspan="2">
-J 12-J 16,
-J 18
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-вазамоторный и
-аллергический
-ринит
-</td>
-<td>12.2</td>
-<td colspan="2">J 30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-хронический
-ринит,
-фарингит,
-назофарингит
-</td>
-<td>12.3</td>
-<td colspan="2">J 31.0,1,2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-хронический
-синусит
-</td>
-<td>12.4</td>
-<td colspan="2">J 32.0-J 32.9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-хронические
-болезни
-миндалин и
-аденоидов
-</td>
-<td>12.5</td>
-<td colspan="2">J 35</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-бронхит
-хронический и
-неуточненный,
-эмфизема
-</td>
-<td>12.6</td>
-<td colspan="2">J 40-J 43</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-бронхиальная
-астма
-</td>
-<td>12.7</td>
-<td colspan="2">J 45.0,1,8,9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-другая
-хроническая
-обструктивная
-легочная
-болезнь
-</td>
-<td>12.8</td>
-<td colspan="2">J 44.0,1,8,9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни органов
-пищеварения,
-всего
-</td>
-<td>13.0</td>
-<td colspan="2">К 00-К 93</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-гастроэ-
-зофагеальный
-рефлюкс
-</td>
-<td>13.1</td>
-<td colspan="2">К 21</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-язва желудка и
-двенадцати-
-перстной кишки
-</td>
-<td>13.2</td>
-<td colspan="2">K 25-K 27</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-гастрит и
-дуоденит
-</td>
-<td>13.3</td>
-<td colspan="2">К 29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-желчнокаменная
-болезнь
-</td>
-<td>13.4</td>
-<td colspan="2">К 80</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-холецистит,
-холангит
-</td>
-<td>13.5</td>
-<td colspan="2">К 81, К 83.0</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-болезни
-поджелудочной
-железы
-</td>
-<td>13.6</td>
-<td colspan="2">К 85,К 86</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни кожи и
-подкожной
-клетчатки,всего
-</td>
-<td>14.0</td>
-<td colspan="2">L 00-L 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-атопический дерматит
-</td>
-<td>14.1</td>
-<td colspan="2">L 20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-аллергический
-контактный
-дерматит
-</td>
-<td>14.2</td>
-<td colspan="2">L 23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-дерматит
-лекарственной
-этиологии
-</td>
-<td>14.3</td>
-<td colspan="2">L 27.0,1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-дерматит,
-вызванный
-съеденной пищей
-</td>
-<td>14.4</td>
-<td colspan="2">L 27.2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-аллергическая
-крапивница
-</td>
-<td>14.5</td>
-<td colspan="2">L 50.0</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-эритема
-многоформная
-</td>
-<td>14.6</td>
-<td colspan="2">L 51</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни
-костно-мышечной
-системы и
-соединительной
-ткани, всего
-</td>
-<td>15.0</td>
-<td colspan="2">М 00-М 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них
-ревматоидные
-артриты
-</td>
-<td>15.1</td>
-<td colspan="2">М 05-М 06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>подагра</td>
-<td>15.2</td>
-<td colspan="2">М 10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>артрозы</td>
-<td>15.3</td>
-<td colspan="2">M 15-M 19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе:
-коксартроз
-</td>
-<td>15.4</td>
-<td colspan="2">М 16</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-гонартроз
-системные
-поражения
-соединительной
-ткани
-</td>
-<td>15.5</td>
-<td colspan="2">М 17</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе:
-системная
-красная
-волчанка
-</td>
-<td>15.7</td>
-<td colspan="2">М 32</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-дермато-
-полимиозит
-</td>
-<td>15.8</td>
-<td colspan="2">М 33</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>склеродермия</td>
-<td>15.9</td>
-<td colspan="2">М 34</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Болезнь Бехчета</td>
-<td>15.10</td>
-<td colspan="2">М 35.2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезнь
-Бехтерева
-</td>
-<td>15.11</td>
-<td colspan="2">М 45</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>сколиоз</td>
-<td>15.12</td>
-<td colspan="2">М 41</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>остеопароз</td>
-<td>15.13</td>
-<td colspan="2">M 80-M 82</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>псевдоартроз</td>
-<td>15.14</td>
-<td colspan="2">М 84.1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни
-мочеполовой
-системы, всего
-</td>
-<td>16.0</td>
-<td colspan="2">N 00-N 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-гломерулярные болезни
-</td>
-<td>16.1</td>
-<td colspan="2">N 00-N 08, N 17-N 19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-почечные
-тубуло-
-интерстициаль-
-ные болезни
-</td>
 <td>16.2</td>
-<td colspan="2">
-N 10-N 12,
-N 15
+<td>N17-N19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+почечные тубу-
+лоинтерстициальные
+болезни
 </td>
+<td>16.3</td>
+<td>N10-N12, N15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -27319,8 +39814,8 @@ N 15
 камни почки и
 мочеточника
 </td>
-<td>16.3</td>
-<td colspan="2">N 20</td>
+<td>16.4</td>
+<td>N20</td>
 <td></td>
 <td></td>
 <td></td>
@@ -27334,8 +39829,8 @@ N 15
 предстательной
 железы
 </td>
-<td>16.4</td>
-<td colspan="2">N 40-N 42</td>
+<td>16.5</td>
+<td>N40-N42</td>
 <td></td>
 <td>Х</td>
 <td></td>
@@ -27350,8 +39845,8 @@ N 15
 предстательной
 железы
 </td>
-<td>16.5</td>
-<td colspan="2">N 40</td>
+<td>16.6</td>
+<td>N40</td>
 <td></td>
 <td>Х</td>
 <td></td>
@@ -27360,12 +39855,9 @@ N 15
 <td>Х</td>
 </tr>
 <tr>
-<td>
-сальпингит,
-оофорит
-</td>
-<td>16.6</td>
-<td colspan="2">N 70</td>
+<td>сальпингит, оофорит</td>
+<td>16.7</td>
+<td>N70</td>
 <td></td>
 <td></td>
 <td></td>
@@ -27375,23 +39867,8 @@ N 15
 </tr>
 <tr>
 <td>эндометриоз</td>
-<td>16.7</td>
-<td colspan="2">N 80</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-эрозия и
-эктропион шейки
-матки
-</td>
 <td>16.8</td>
-<td colspan="2">N 86</td>
+<td>N80</td>
 <td></td>
 <td></td>
 <td></td>
@@ -27401,13 +39878,26 @@ N 15
 </tr>
 <tr>
 <td>
-Симптомы,
-признаки и
-отклонения от
+эрозия и эктропион
+шейки матки
+</td>
+<td>16.9</td>
+<td>N86</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Симптомы, признаки
+и отклонения от
 нормы
 </td>
 <td>20.0</td>
-<td colspan="2">R 00-R 99</td>
+<td>R00-R99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -27418,11 +39908,10 @@ N 15
 <tr>
 <td>
 Травмы и
-отравления,
-всего
+отравления, всего
 </td>
 <td>21.0</td>
-<td colspan="2">S 00-Т 88</td>
+<td>S00-Т88</td>
 <td></td>
 <td></td>
 <td></td>
@@ -27432,15 +39921,13 @@ N 15
 </tr>
 <tr>
 <td>
-Последствия
-травм,
-отравлений и
-других
-воздействий
-внешних причин
+Последствия травм,
+отравлений и других
+воздействий внешних
+причин
 </td>
 <td>22.0</td>
-<td colspan="2">Т 90-Т 98</td>
+<td>Т90-Т98</td>
 <td></td>
 <td></td>
 <td></td>
@@ -27450,15 +39937,9 @@ N 15
 </tr>
 </table>
 
-<table>
-<tr>
-<td>
-Руководитель ___________________________
-Исполнитель _________ ,телефон _________
-</td>
-<td>Дата &quot;__&quot; _____ 20 ___ года</td>
-</tr>
-</table>
+Руководитель ____________
+
+Исполнитель ___________, телефон ________ Дата "__" _____ 20___ года
 
 > *Приложение 3*  
 > *Утверждено приказом и.о. Министра*  
@@ -27471,11 +39952,11 @@ N 15
 
 наименование, адрес
 
-### Форма 13
+## Форма 13
 
 годовая
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -27509,7 +39990,7 @@ N 15
 </tr>
 </table>
 
-### Отчет об абортах 20 ___ год
+## Отчет об абортах 20 ___ год
 
 1000
 
@@ -27933,75 +40414,89 @@ Z 30.3
 </table>
 
 > *Приложение 3*  
-> *Утверждено приказом и.о. Министра*  
-> *здравоохранения Республики Казахстан*  
-> *от 12 сентября 2011 г. № 616*
+> *Утверждено приказом*  
+> *и.о. Министра здравоохранения*  
+> *Республики Казахстан*  
+> *от 12 сентября 2011 года № 616*
 
-Конфиденциальность гарантируется получателем информации
+_____________________________________________________________________
 
-Кем представляется _________________________________________________
+## Конфиденциальность гарантируется получателем информации
+
+Кем представляется __________________________________________________
 
 наименование, адрес
 
-### Форма 14
+## Форма, предназначенная для сбора административных данных
+
+Информация представляется в соответствии с Кодексом
+
+Республики Казахстан
+
+"О здоровье народа и системе здравоохранения"
+
+## Форма 14
 
 годовая
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+> *Сноска. Форма 14 в редакции приказа Министра здравоохранения РК от 28.09.2012 № 663 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
 
+<table>
+<tr>
+<td>
 <table>
 <tr>
 <td>КОД ОКПО</td>
 <td></td>
 </tr>
 </table>
-
-<table>
-<tr>
-<td></td>
+</td>
 <td>
 Представляют:
-1. Организации, оказывающие стационарную помощь,
-системы здравоохранения - главного района (города) и
-городскому департаменту здравоохранения - 5 января;
-2. Главный врач района (города) сводный отчет -
-местному органу управления здравоохранением - к 10
-января;
-3. Местный орган управления здравоохранением
-свободные отчеты - в областные департаменты
-статистики, гг. Астаны и Алматы и в Минздрав РК 10
-февраля;
-4. Минздрав РК сводные отчеты - в Агентство РК по
-статистики 1 апреля.
+1. Организации, оказывающие
+стационарную помощь, системы
+здравоохранения - главному врачу
+района (города) и городскому
+департаменту здравоохранения -
+5 января;
+2. Главный врач района (города)
+сводный отчет - местному органу
+управления здравоохранением -
+к 10 января;
+3. Местный орган управления
+здравоохранением сводные отчеты -
+в Министертво здравоохранения РК
+10 февраля.
 </td>
 </tr>
 </table>
 
-### Отчет о контингентах больных, выбывших из стационара 20 ____ год
+## Отчет о контингентах больных, выбывших из стационара 20___год
 
-1000 Число сметных коек на конец отчетного года 1 ___ # 1 ___, кроме того хозрасчетных коек 2 ___ # 2 _____
+1000 Число сметных коек на конец отчетного года 1 ___#1___, кроме того хозрасчетных коек 2___#2_____
 
 2000 Состав больных в стационаре, сроки и исходы лечения
 
 <table>
 <tr>
 <td rowspan="2">Наименование болезней</td>
+<td rowspan="2">№ строки</td>
 <td rowspan="2">
-№
-строки
-</td>
-<td rowspan="2">
-Шифр по МБК
-Хпересмотра
+Шифр по
+МБК Х
+пересмотра
 </td>
 <td colspan="3">А. Взрослые</td>
 </tr>
 <tr>
-<td>выписано больных</td>
 <td>
-Проведено
+выписано
+больных
+</td>
+<td>
+проведено
 выписанными
-койко - дней
+койко-дней
 </td>
 <td>умерло</td>
 </tr>
@@ -28016,10 +40511,7 @@ Z 30.3
 <tr>
 <td>Всего</td>
 <td>1.0</td>
-<td>
-А 00-Т 98
-Z 30.2 Z 30.3
-</td>
+<td>А00-Т98 Z30.2 Z30.3</td>
 <td></td>
 <td></td>
 <td></td>
@@ -28030,30 +40522,32 @@ Z 30.2 Z 30.3
 паразитарные болезни
 </td>
 <td>2.0</td>
-<td>А 00-В 99</td>
+<td>А00-В99</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них:</td>
+<td rowspan="2">2.1</td>
+<td rowspan="2">А00-А09</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-из них:
 кишечные инфекционные
 болезни
 </td>
-<td>2.1</td>
-<td>А 00-А 09</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-туберкулез органов
-дыхания
-</td>
+<td>туберкулез органов дыхания</td>
 <td>2.2</td>
-<td>А 15-А 16</td>
+<td>А15-А16</td>
 <td></td>
 <td></td>
 <td></td>
@@ -28061,7 +40555,7 @@ Z 30.2 Z 30.3
 <tr>
 <td>сепсис</td>
 <td>2.3</td>
-<td>А 40-А 41</td>
+<td>А40-А41</td>
 <td></td>
 <td></td>
 <td></td>
@@ -28069,7 +40563,7 @@ Z 30.2 Z 30.3
 <tr>
 <td>инфекционный гепатит</td>
 <td>2.4</td>
-<td>В 15-В 19</td>
+<td>В15-В19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -28077,24 +40571,27 @@ Z 30.2 Z 30.3
 <tr>
 <td>Новообразования</td>
 <td>3.0</td>
-<td>C OO-D 48</td>
+<td>COO-D48</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них:</td>
+<td rowspan="2">3.1</td>
+<td rowspan="2">СОО-С97</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-из них:
 злокачественные
-новообразования
-(включая
-новообразования
-лимфоидной,
-кроветворной и
-родственных тканей)
+новообразования (включая
+новообразования лимфоидной,
+кроветворной и родственных
+тканей)
 </td>
-<td>3.1</td>
-<td>С ОО-С 97</td>
 <td></td>
 <td></td>
 <td></td>
@@ -28102,19 +40599,18 @@ Z 30.2 Z 30.3
 <tr>
 <td>лейомиома матки</td>
 <td>3.2</td>
-<td>D 25</td>
+<td>D25</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-другие
-доброкачественные
+другие доброкачественные
 новообразования матки
 </td>
 <td>3.3</td>
-<td>D 26</td>
+<td>D26</td>
 <td></td>
 <td></td>
 <td></td>
@@ -28125,14 +40621,244 @@ Z 30.2 Z 30.3
 новообразования яичника
 </td>
 <td>3.4</td>
-<td>D 27</td>
+<td>D27</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 </table>
 
-Продолжение таблицы
+<table>
+<tr>
+<td>
+Болезни крови, кроветворных
+органов и отдельные
+нарушения, вовлекающие
+иммунный механизм
+</td>
+<td>4.0</td>
+<td>D50-D89</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+железодефицитная анемия
+</td>
+<td>4.1</td>
+<td>D50</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни эндокринной системы,
+расстройства питания и
+нарушения обмена веществ
+</td>
+<td>5.0</td>
+<td>ЕОО-Е90</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+тиреотоксикоз с зобом или
+без него
+</td>
+<td>5.1</td>
+<td>Е05</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>сахарный диабет</td>
+<td>5.2</td>
+<td>Е10-Е14</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ожирение</td>
+<td>5.3</td>
+<td>Е66</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Психические расстройства и
+расстройства поведения
+</td>
+<td>6.0</td>
+<td>
+FOO-F09,
+F20-F99
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Психические расстройства и
+расстройства поведения,
+связанные с употреблением
+психоактивных веществ
+</td>
+<td>7.0</td>
+<td>F10-F19</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Болезни нервной системы</td>
+<td>8.0</td>
+<td>GOO-G99</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+болезни нервов, нервных
+корешков и сплетений
+</td>
+<td>8.1</td>
+<td>
+G50-G64,
+G70-G73
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>детский церебральный паралич</td>
+<td>8.2</td>
+<td>G80</td>
+<td></td>
+<td></td>
+<td>Х</td>
+</tr>
+<tr>
+<td>
+Болезни глаза и придаточного
+аппарата
+</td>
+<td>9.0</td>
+<td>НОО-Н59</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+неудаленное инородное тело
+(давно попавшее в глаз)
+</td>
+<td>9.1</td>
+<td>H05.5,H44.6-H44.7</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+катаракта
+</td>
+<td>9.2</td>
+<td>Н25, Н26</td>
+<td></td>
+<td></td>
+<td>Х</td>
+</tr>
+<tr>
+<td>глаукома</td>
+<td>9.3</td>
+<td>Н40-Н42</td>
+<td></td>
+<td></td>
+<td>Х</td>
+</tr>
+<tr>
+<td>
+Болезни уха и сосцевидного
+отростка
+</td>
+<td>10.0</td>
+<td>Н60-Н95</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни системы
+кровообращения
+</td>
+<td>11.0</td>
+<td>100-199</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+острая ревматическая
+лихорадка
+</td>
+<td>11.1</td>
+<td>100-102</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+другие нарушения
+проводимости
+</td>
+<td>11.2</td>
+<td>145</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>пароксизмальная тахикардия</td>
+<td>11.3</td>
+<td>147</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+другие нарушения сердечного
+ритма
+</td>
+<td>11.4</td>
+<td>149</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+продолжение таблицы
 
 <table>
 <tr>
@@ -28156,8 +40882,8 @@ Z 30.2 Z 30.3
 </td>
 <td>
 в том числе в
-возрастедо
-1 года
+возрасте
+до 1 года
 </td>
 <td>
 проведено
@@ -28166,9 +40892,9 @@ Z 30.2 Z 30.3
 </td>
 <td>умерло</td>
 <td>
-в том числе в
-возрасте до
-1 года
+в том числе
+в возрасте
+до 1 года
 </td>
 </tr>
 <tr>
@@ -28221,321 +40947,9 @@ Z 30.2 Z 30.3
 <td></td>
 <td></td>
 </tr>
-</table>
-
-Продолжение таблицы
-
-<table>
 <tr>
-<td>
-Болезни крови,
-кроветворных
-органов и отдельные
-нарушения,
-вовлекающие
-иммунный механизм
-</td>
-<td>4.0</td>
-<td>D 50-D 89</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-железодефицитная
-анемия
-</td>
-<td>4.1</td>
-<td>D 50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни эндокринной
-системы,
-расстройства
-питания и нарушения
-обмена веществ
-</td>
-<td>5.0</td>
-<td>Е ОО-Е 90</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-тиреотоксикоз с
-зобом или без него
-</td>
-<td>5.1</td>
-<td>Е 05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>сахарный диабет</td>
-<td>5.2</td>
-<td>Е 10-Е 14</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ожирение</td>
-<td>5.3</td>
-<td>Е 66</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Психические
-расстройства и
-расстройства
-поведения
-</td>
-<td>6.0</td>
-<td>
-F OO-
-F 09,
-F 20-F 99
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Психические
-расстройства и
-расстройства
-поведения,
-связанные с
-употреблением
-психоактивных
-веществ
-</td>
-<td>7.0</td>
-<td>F 10-F 19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни нервной
-системы
-</td>
-<td>8.0</td>
-<td>G OO-G 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-болезни нервов,
-нервных корешков и
-сплетений
-</td>
-<td>8.1</td>
-<td>
-G 50-
-G 64,
-G 70-G 73
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-детский
-церебральный
-паралич
-</td>
-<td>8.2</td>
-<td>G 80</td>
-<td></td>
-<td></td>
-<td>Х</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни глаза и
-придаточного
-аппарата
-</td>
-<td>9.0</td>
-<td>Н ОО-Н 59</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-неудаленное
-инородное тело
-(давно попавшее в
-глаз)
-</td>
-<td>9.1</td>
-<td>
-H 05.5,
-H 44.6-
-H 44.7
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них:катаракта</td>
-<td>9.2</td>
-<td>
-Н 25,
-Н 26
-</td>
-<td></td>
-<td></td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-</tr>
-<tr>
-<td>глаукома</td>
-<td>9.3</td>
-<td>Н 40-Н 42</td>
-<td></td>
-<td></td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-</tr>
-<tr>
-<td>
-Болезни уха и
-сосцевидного
-отростка
-</td>
-<td>10.0</td>
-<td>
-Н 60-
-Н 95
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни системы
-кровообращения
-</td>
-<td>11.0</td>
-<td>100-199</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них: острая
-ревматическая
-лихорадка
-</td>
-<td>11.1</td>
-<td>100-102</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Х</td>
-</tr>
-<tr>
-<td>
-другие нарушения
-проводимости
-</td>
-<td>11.2</td>
-<td>145</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-пароксизмальная
-тахикардия
-</td>
-<td>11.3</td>
-<td>147</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-другие нарушения
-сердечного ритма
-</td>
-<td>11.4</td>
-<td>149</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -28550,24 +40964,12 @@ H 44.7
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -28582,24 +40984,12 @@ H 44.7
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -28614,40 +41004,12 @@ H 44.7
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -28662,80 +41024,12 @@ H 44.7
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Х</td>
-<td>Х</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Х</td>
-<td>Х</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td>Х</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -28747,17 +41041,238 @@ H 44.7
 
 <table>
 <tr>
-<td rowspan="2">
-Наименование
-болезней
-</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Х</td>
+<td>Х</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Х</td>
+<td>Х</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="2">Наименование болезней</td>
 <td rowspan="2">
 №
 строки
 </td>
 <td rowspan="2">
-Шифр по МБК
-Х пересмотра
+Шифр по
+МБК Х
+пересмотра
 </td>
 <td colspan="3">А. Взрослые</td>
 </tr>
@@ -28783,8 +41298,7 @@ H 44.7
 </tr>
 <tr>
 <td>
-хронические
-ревматические
+хронические ревматические
 болезни сердца
 </td>
 <td>11.5</td>
@@ -28794,35 +41308,28 @@ H 44.7
 <td></td>
 </tr>
 <tr>
-<td>
-артериальная
-гипертензия
-</td>
+<td>артериальная гипертензия</td>
 <td>11.6</td>
-<td>I 10-I 13</td>
+<td>I10-I13</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-острый инфаркт
-миокарда
-</td>
+<td>острый инфаркт миокарда</td>
 <td>11.7</td>
-<td>I 21 ,I 22</td>
+<td>I21,I22</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-другие формы острой
-ишемической болезни
-сердца
+другие формы острой ишемической
+болезни сердца
 </td>
 <td>11.8</td>
-<td>I 23,I 24</td>
+<td>I23,I24</td>
 <td></td>
 <td></td>
 <td></td>
@@ -28830,30 +41337,26 @@ H 44.7
 <tr>
 <td>стенокардия</td>
 <td>11.9</td>
-<td>I 20</td>
+<td>I20</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-хроническая
-ишемическая болезнь
+хроническая ишемическая болезнь
 сердца
 </td>
 <td>11.10</td>
-<td>I 25</td>
+<td>I25</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-цереброваскулярные
-болезни
-</td>
+<td>цереброваскулярные болезни</td>
 <td>11.11</td>
-<td>I 60-I 69</td>
+<td>I60-I69</td>
 <td></td>
 <td></td>
 <td></td>
@@ -28861,76 +41364,63 @@ H 44.7
 <tr>
 <td>
 в том числе:
-субарахноидальное
-кровоизлияние
+субарахноидальное кровоизлияние
 </td>
 <td>11.12</td>
-<td>I 60</td>
+<td>I60</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-внутримозговые и
-другие
-нетравматические
-внутричерепные
+внутримозговые и другие
+нетравматические внутричерепные
 кровоизлияния
 </td>
 <td>11.13</td>
-<td>I 61-I 62</td>
+<td>I61-I62</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-закупорка мозговых
-артерий, инфаркт
-мозга
+закупорка мозговых артерий,
+инфаркт мозга
 </td>
 <td>11.14</td>
-<td>
-I 63, I 65,
-I 66
-</td>
+<td>I63, I65, I66</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-инсульт,
-неуточненный как
-кровоизлияние или
-инфаркт
+инсульт, неуточненный как
+кровоизлияние или инфаркт
 </td>
 <td>11.15</td>
-<td>I 64</td>
+<td>I64</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-другие
-цереброваскулярные
+другие цереброваскулярные
 болезни
 </td>
 <td>11.16</td>
-<td>I 67</td>
+<td>I67</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-Болезни органов
-дыхания
-</td>
+<td>Болезни органов дыхания</td>
 <td>12.0</td>
-<td>J 00-J 99</td>
+<td>J00-J99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -28938,16 +41428,14 @@ I 66
 <tr>
 <td>
 из них:
-острые
-респираторные
-инфекции верхних и
-нижних дыхательных
+острые респираторные инфекции
+верхних и нижних дыхательных
 путей
 </td>
 <td>12.1</td>
 <td>
-J 00-J 06
-J 20-J 22
+J00-J06
+J20-J22
 </td>
 <td></td>
 <td></td>
@@ -28956,10 +41444,7 @@ J 20-J 22
 <tr>
 <td>пневмонии</td>
 <td>12.2</td>
-<td>
-J 12-J 16,
-J 18
-</td>
+<td>J12-J16, J18</td>
 <td></td>
 <td></td>
 <td></td>
@@ -28967,19 +41452,18 @@ J 18
 <tr>
 <td>аллергический ринит</td>
 <td>12.3</td>
-<td>J 30</td>
+<td>J30</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-бронхит хронический
-и неуточненный,
-эмфизема
+бронхит хронический и
+неуточненный, эмфизема
 </td>
 <td>12.4</td>
-<td>J 40-J 43</td>
+<td>J40-J43</td>
 <td></td>
 <td></td>
 <td></td>
@@ -28987,7 +41471,7 @@ J 18
 <tr>
 <td>бронхиальная астма</td>
 <td>12.5</td>
-<td>J 45</td>
+<td>J45</td>
 <td></td>
 <td></td>
 <td></td>
@@ -28995,30 +41479,26 @@ J 18
 <tr>
 <td>асматический статус</td>
 <td>12.6</td>
-<td>J 46</td>
+<td>J46</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-другие хронические
-обструктивные
+другие хронические обструктивные
 болезни легких
 </td>
 <td>12.7</td>
-<td>J 44</td>
+<td>J44</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-Болезни органов
-пищеварения
-</td>
+<td>Болезни органов пищеварения</td>
 <td>13.0</td>
-<td>K 00-K 93</td>
+<td>K00-K93</td>
 <td></td>
 <td></td>
 <td></td>
@@ -29027,11 +41507,10 @@ J 18
 <td>
 из них:
 язва желудка и
-двенадцатиперстной
-кишки
+двенадцатиперстной кишки
 </td>
 <td>13.1</td>
-<td>K 25-K 27</td>
+<td>K25-K27</td>
 <td></td>
 <td></td>
 <td></td>
@@ -29039,111 +41518,60 @@ J 18
 <tr>
 <td>гастрит и дуоденит</td>
 <td>13.2</td>
-<td>K 29</td>
+<td>K29</td>
 <td></td>
 <td></td>
 <td>Х</td>
 </tr>
 <tr>
 <td>
-желчнокаменная
-болезнь холецистит,
-холангит
+желчнокаменная болезнь
+холецистит, холангит
 </td>
 <td>13.3</td>
-<td>
-K 80,K 81,
-K 83.0
-</td>
+<td>K80,K81, K83.0</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-Болезни кожи и
-подкожной клетчатки
+Болезни кожи и подкожной
+клетчатки
 </td>
 <td>14.0</td>
-<td>L 00-L 99</td>
+<td>L00-L99</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-аллергический
-контактный дерматит
+аллергический контактный
+дерматит
 </td>
 <td>14.1</td>
-<td>L 23</td>
+<td>L23</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-коктактный дерматит
-неуточненный
-</td>
+<td>контактный дерматит неуточненный</td>
 <td>14.2</td>
-<td>L 25</td>
+<td>L25</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-Болезни
-костно-мышечной
-системы и
-соединительной
+Болезни костно-мышечной
+системы и соединительной
 ткани
 </td>
 <td>15.0</td>
-<td>M 00-M 99</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них:артрозы</td>
-<td>15.1</td>
-<td>M 15-M 19</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-системные поражения
-соединительной
-ткани
-</td>
-<td>15.2</td>
-<td>М 30-М 36</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-анкилозирующий
-спондилит
-</td>
-<td>15.3</td>
-<td>M 45</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни мочеполовой
-системы
-</td>
-<td>16.0</td>
-<td>N 00-N 99</td>
+<td>M00-M99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -29151,13 +41579,50 @@ K 83.0
 <tr>
 <td>
 из них:
-гломерулярные
-болезни
+артрозы
+</td>
+<td>15.1</td>
+<td>M15-M19</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+системные поражения
+соединительной ткани
+</td>
+<td>15.2</td>
+<td>М30-М36</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>анкилозирующий спондилит</td>
+<td>15.3</td>
+<td>M45</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Болезни мочеполовой системы</td>
+<td>16.0</td>
+<td>N00-N99</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+гломерулярные болезни
 </td>
 <td>16.1</td>
 <td>
-N 00-N 08,
-N 17-N 19
+N00-N08,
+N17-N19
 </td>
 <td></td>
 <td></td>
@@ -29165,15 +41630,11 @@ N 17-N 19
 </tr>
 <tr>
 <td>
-тубуло-
-интерстициальные
-болезни почек
+тубулоинтерстициальные болезни
+почек
 </td>
 <td>16.2</td>
-<td>
-N 10-N 12,
-N 15
-</td>
+<td>N10-N12, N15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -29181,94 +41642,75 @@ N 15
 <tr>
 <td>
 из них хронический
-тубуло-
-интерстициальный
-нефрит
+тубулоинтерстициальный нефрит
 </td>
 <td>16.3</td>
-<td>N 11</td>
+<td>N11</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-камни почки и
-мочеточника
-</td>
+<td>камни почки и мочеточника</td>
 <td>16.4</td>
-<td>N 20</td>
+<td>N20</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-болезни
-предстательной
-железы
-</td>
+<td>болезни предстательной железы</td>
 <td>16.5</td>
-<td>N 40-N 42</td>
+<td>N40-N42</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-в том числе:
-гиперплазия
-предстательной
-железы
+в том числе: гиперплазия
+предстательной железы
 </td>
 <td>16.6</td>
-<td>N 40</td>
+<td>N40</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-хронический
-простатит
-</td>
+<td>хронический простатит</td>
 <td>16.7</td>
-<td>N 41.1</td>
+<td>N41.1</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-киста почки
-приобретенная
-</td>
+<td>киста почки приобретенная</td>
 <td>16.8</td>
-<td>N 28.1</td>
+<td>N28.1</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-воспалительные
-болезни женских
+воспалительные болезни женских
 половых органов
 </td>
 <td>16.9</td>
-<td>N 70-N 77</td>
+<td>N70-N77</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-невоспалительные
-болезни женских
+невоспалительные болезни женских
 половых органов
 </td>
 <td>16.10</td>
-<td>N 80-N 90</td>
+<td>N80-N90</td>
 <td></td>
 <td></td>
 <td></td>
@@ -29279,25 +41721,355 @@ N 15
 эндометриоз
 </td>
 <td>16.11</td>
-<td>N 80</td>
+<td>N80</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-эрозия и эктропион
-шейки матки
-</td>
+<td>эрозия и эктропион шейки матки</td>
 <td>16.12</td>
-<td>N 86</td>
+<td>N86</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 </table>
 
-Продолжение таблицы
+<table>
+<tr>
+<td>
+нарушения менструально-
+овариального цикла
+</td>
+<td>16.13</td>
+<td>N91, N92, N94</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>нарушения менопаузы</td>
+<td>16.14</td>
+<td>N95</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>женское бесплодие</td>
+<td>16.15</td>
+<td>N97</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Беременность, роды и
+послеродовой период
+</td>
+<td>17.0</td>
+<td>
+O00-O99,
+Z30.2 Z30.3
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Отдельные состояния, возникающие
+в перинатальном периоде
+</td>
+<td>18.0</td>
+<td>P00-P96</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+</tr>
+<tr>
+<td>
+Врожденные аномалии (пороки
+развития), деформации и
+хромосомные нарушения
+</td>
+<td>19.0</td>
+<td>Q00-Q99</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+врожденные аномалии системы
+кровообращения
+</td>
+<td>19.1</td>
+<td>Q20-Q28</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+врожденные аномалии (пороки
+развития) и деформации
+костно-мышечной системы
+</td>
+<td>19.2</td>
+<td>Q65-Q79</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Симптомы, признаки, отклонения
+от нормы
+</td>
+<td>20.0</td>
+<td>R00-R99</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Травмы, отравления и некоторые
+другие последствия воздействия
+внешних причин
+</td>
+<td>21.0</td>
+<td>S00-Т98</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+травмы головы
+</td>
+<td>21.1</td>
+<td>S00-S09</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+перелом черепа и лицевых костей
+</td>
+<td>21.2</td>
+<td>S02</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>внутричерепные травмы</td>
+<td>21.3</td>
+<td>S06</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>травмы шеи</td>
+<td>21.4</td>
+<td>S10-S19</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+перелом шейного отдела
+позвоночника
+</td>
+<td>21.5</td>
+<td>S12</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>травмы грудной клетки</td>
+<td>21.6</td>
+<td>S20-S29</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+перелом ребра (ребер) грудины и
+грудинного отдела позвоночника
+</td>
+<td>21.7</td>
+<td>S22</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+травмы живота, поясницы,
+поясничного отдела позвоночника
+и таза
+</td>
+<td>21.8</td>
+<td>S30-S39</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+перелом пояснично-крестцевого
+отдела позвоночника и костей
+таза
+</td>
+<td>21.9</td>
+<td>S32</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>травмы верхних конечностей</td>
+<td>21.10</td>
+<td>S40-S69</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+перелом на уровне плечевого
+пояса
+</td>
+<td>21.11</td>
+<td>S42</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>перелом костей предплечья</td>
+<td>21.12</td>
+<td>S52</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>травмы нижних конечностей</td>
+<td>21.13</td>
+<td>S70-S99</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+переломы бедренной кости, костей
+голени, включая голеностопный
+сустав, стопы
+</td>
+<td>21.14</td>
+<td>S72, S82, S92</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>травмы множественной локализации</td>
+<td>21.15</td>
+<td>T00-T07</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>термические и химические ожоги</td>
+<td>21.16</td>
+<td>T20-T32</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+отравления лекарственными
+средствами и биологическими
+веществами, токсические действия
+веществ, преимущественно
+немедицинского назначения,
+другие и неуточненные
+воздействия внешних причин
+</td>
+<td>21.17</td>
+<td>
+T36-T78
+T88.2
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+токсическое действие алкоголя
+</td>
+<td>21.18</td>
+<td>T51</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кроме того: Факторы влияющие на
+состояние здоровья населения и
+обращения в учреждения
+(организации) здравоохранения
+</td>
+<td>22.0</td>
+<td>
+Z00-Z30.1
+Z30.4-Z99
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кроме того: на хозрасчетных
+койках
+</td>
+<td>23.0</td>
+<td>
+А00-Т98
+Z30.2 Z30.3
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+продолжение таблицы
 
 <table>
 <tr>
@@ -29320,8 +42092,8 @@ N 15
 больных
 </td>
 <td>
-в том числе
-в возрасте
+в том числе в
+возрасте
 до 1 года
 </td>
 <td>
@@ -29331,8 +42103,9 @@ N 15
 </td>
 <td>умерло</td>
 <td>
-в том числе
-в возрасте
+в том
+числе в
+возрасте
 до 1 года
 </td>
 </tr>
@@ -29354,17 +42127,7 @@ N 15
 <td>Х</td>
 <td></td>
 <td></td>
-<td>Х</td>
-</tr>
-<tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td>Х</td>
 </tr>
 <tr>
 <td>Х</td>
@@ -29407,24 +42170,14 @@ N 15
 <td>Х</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
 </tr>
 <tr>
 <td></td>
@@ -29591,16 +42344,6 @@ N 15
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Х</td>
-<td></td>
 <td>Х</td>
 <td></td>
 <td>Х</td>
@@ -29691,16 +42434,6 @@ N 15
 <td></td>
 <td></td>
 <td></td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td>Х</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -29747,23 +42480,23 @@ N 15
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
+<td></td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
 <td>Х</td>
 </tr>
 <tr>
@@ -29771,20 +42504,10 @@ N 15
 <td></td>
 <td></td>
 <td></td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td>Х</td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td>Х</td>
 </tr>
 <tr>
 <td></td>
@@ -29831,425 +42554,10 @@ N 15
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>Х</td>
 <td></td>
 <td></td>
 <td>Х</td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td>
-нарушения
-менструально-
-овариального цикла
-</td>
-<td>16.13</td>
-<td>
-N 91, N 92,
-N 94
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>нарушения менопаузы</td>
-<td>16.14</td>
-<td>N 95</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>женское бесплодие</td>
-<td>16.15</td>
-<td>N 97</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Беременность, роды и
-послеродовой период
-</td>
-<td>17.0</td>
-<td>
-O 00-O 99,
-Z 30.2 Z 30.3
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Отдельные состояния,
-возникающие в
-перинатальном периоде
-</td>
-<td>18.0</td>
-<td>P 00-P 96</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-</tr>
-<tr>
-<td>
-Врожденные аномалии
-(пороки развития),
-деформации и
-хромосомные нарушения
-</td>
-<td>19.0</td>
-<td>Q 00-Q 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-врожденные аномалии
-системы
-кровообращения
-</td>
-<td>19.1</td>
-<td>Q 20-Q 28</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-врожденные аномалии
-(пороки развития) и
-деформации
-костно-мышечной
-системы
-</td>
-<td>19.2</td>
-<td>Q 65-Q 79</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Симптомы, признаки,
-отклонения от нормы
-</td>
-<td>20.0</td>
-<td>R 00-R 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Травмы, отравления и
-некоторые другие
-последствия
-воздействия внешних
-причин
-</td>
-<td>21.0</td>
-<td>S 00-Т 98</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-травмы головы
-</td>
-<td>21.1</td>
-<td>S 00-S 09</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе:
-перелом черепа и
-лицевых костей
-</td>
-<td>21.2</td>
-<td>S 02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>внутричерепные травмы</td>
-<td>21.3</td>
-<td>S 06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>травмы шеи</td>
-<td>21.4</td>
-<td>S 10-S 19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе:
-перелом шейного
-отдела позвоночника
-</td>
-<td>21.5</td>
-<td>S 12</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>травмы грудной клетки</td>
-<td>21.6</td>
-<td>S 20-S 29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе:
-перелом ребра (ребер)
-грудины и грудинного
-отдела позвоночника
-</td>
-<td>21.7</td>
-<td>S 22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-травмы живота,
-поясницы, поясничного
-отдела позвоночника и
-таза
-</td>
-<td>21.8</td>
-<td>S 30-S 39</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе:
-перелом
-пояснично-крестцевого
-отдела позвоночника и
-костей таза
-</td>
-<td>21.9</td>
-<td>S 32</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-травмы верхних
-конечностей
-</td>
-<td>21.10</td>
-<td>S 40-S 69</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе:</td>
-<td>21.11</td>
-<td>S 42</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-перелом костей
-предплечья
-</td>
-<td>21.12</td>
-<td>S 52</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-травмы нижних
-конечностей
-</td>
-<td>21.13</td>
-<td>S 70-S 99</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе:
-переломы бедренной
-кости, костей голени,
-включая голеностопный
-сустав, стопы
-</td>
-<td>21.14</td>
-<td>
-S 72, S 82,
-S 92
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-травмы множественной
-локализации
-</td>
-<td>21.15</td>
-<td>T 00-T 07</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-термические и
-химические ожоги
-</td>
-<td>21.16</td>
-<td>T 20-T 32</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-отравления
-лекарственными
-средствами и
-биологическими
-веществами,
-токсические действия
-веществ,
-преимущественно
-немедицинского
-назначения, другие и
-неуточненные
-воздействия внешних
-причин
-</td>
-<td>21.17</td>
-<td>
-T 36-T 78
-T 88.2
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе:
-токсическое действие
-алкоголя
-</td>
-<td>21.18</td>
-<td>T 51</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Кроме того: Факторы
-влияющие на состояние
-здоровья населения и
-обращения в
-учреждения
-(организации)
-здравоохранения
-</td>
-<td>22.0</td>
-<td>
-Z 00-Z 30.1
-Z 30.4-Z 99
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Кроме того: на
-хозрасчетных койках
-</td>
-<td>23.0</td>
-<td>
-А 00-Т 98
-Z 30.2 Z 30.3
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -30257,12 +42565,6 @@ Z 30.2 Z 30.3
 <tr>
 <td></td>
 <td></td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td>Х</td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td>Х</td>
@@ -30273,12 +42575,6 @@ Z 30.2 Z 30.3
 <tr>
 <td></td>
 <td></td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td>Х</td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td>Х</td>
@@ -30287,7 +42583,279 @@ Z 30.2 Z 30.3
 <td>Х</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Х</td>
+<td></td>
+<td></td>
+<td>Х</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Х</td>
+<td></td>
+<td></td>
+<td>Х</td>
+</tr>
+<tr>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -30296,25 +42864,25 @@ Z 30.2 Z 30.3
 </tr>
 </table>
 
-2100 Кроме того, больные переведеные в другие стационары 1 __ # 1 ___, в том числе новорожденные 2 __ # 2 ___, лица госпитализированные для обследования и оказавшиеся здоровыми 3 __ # 3 ___
+2100 Кроме того, больные переведеные в другие стационары 1 ____#1___, в том числе новорожденные 2 _____#2_____
 
-2200 Из общего числа умерших (стр 1) умерло новорожденных в возрасте 0-6 суток 1 __ # 1 __, Умерло в первые 24 часа после поступления в стационар:
+2200 Из общего числа умерших (стр1) умерло новорожденных в возрасте 0-6 суток 1 __#1________, Умерло в первые 24 часа после поступления в стационар:
 
-детей в возрасте 0-24 часа после рождения 2 __ # 2 __ , до 1 года (без умерших в первые 24 часа после рождения) 3 __ # 3 ___,в том числе от пневмонии 4 ___ # 4 ___,
+детей в возрасте 0-24 часа после рождения 2 __#2__, до 1 года (без умерших в первые 24 часа после рождения) 3 __#3___, в том числе от пневмонии 4 ___#4___,
 
-Всего умерло до 1 года в стационарах (без умерших в родильных отделениях) 5 ___ # 5 ___; Мертворожденные всего 6 ___ # 6 ___, в том числе антенатально 7 ___ # 7 ___, интранатально 8 ___ # 8 ___
+Всего умерло до 1 года в стационарах (без умерших в родильных отделениях) 5 ___#5___;
 
-2300 Поступило больных с инфарктом миокарда в первые сутки от начала заболевания 1 __ # 1 ___ из общего числа
+Мертворожденные всего 6___#6___, в том числе антенатально 7___#7___, интранатально 8___#8___
 
-умерших (стр. 1) умерло больных инфарктом миокарда в первые 24 часа после поступления в стационар 2 ___ # 2 ___
+2300 Поступило больных с инфарктом миокарда в первые сутки от начала заболевания 1 __#1___. из общего числа умерших (стр. 1) умерло больных инфарктом миокарда в первые 24 часа после поступления в стационар 2 ___#2___
 
-2400 Умерло беременных, рожениц и родильниц 1 __ # 1 ____
+2400 Умерло беременных, рожениц и родильниц 1 __#1____
 
-2500 Родилось больными и заболело новорожденных всего (в родильных домах и отделениях из формы № 32)1 __ # 1 ___, умерло 2 __ # 2 ___
+2500 Родилось больными и заболело новорожденных всего (в родильных домах и отделениях из формы №32)1__#1___, из них умерло 2__#2___
 
-3000 СОСТАВ ПРОЛЕЧЕННЫХ ДЕТЕЙ В ВОЗРАСТЕ
+2600 Из общего число пролеченных (из таблицы 2000, графы 8 и 11) новорожденные, выбывшие из родильных отделений, не имеющих коек для выхаживания новорожденных 1 __#1___, из них умерло (из таблицы 2000, графы11) 2___#2___
 
-ДО 1 ГОДА И ИСХОДЫ ИХ ЛЕЧЕНИЯ
+## 3000 СОСТАВ ПРОЛЕЧЕННЫХ ДЕТЕЙ В ВОЗРАСТЕ ДО 1 ГОДА И ИСХОДЫ ИХ ЛЕЧЕНИЯ
 
 <table>
 <tr>
@@ -30327,8 +42895,8 @@ Z 30.2 Z 30.3
 строки
 </td>
 <td rowspan="3">
-Шифр по МКБ
-Х пере-смотра
+Шифр по МКБ Х
+пересмотра
 </td>
 <td colspan="6">в первые 0-6 суток после рождения</td>
 </tr>
@@ -30336,29 +42904,20 @@ Z 30.2 Z 30.3
 <td rowspan="2">
 выбыло
 (выписано+
-мерло)
+умерло)
 больных
 </td>
-<td colspan="5">
-из них умерло с весом при
-рождении (гр)
-</td>
+<td colspan="5">из них умерло с весом при рождении (гр)</td>
 </tr>
 <tr>
 <td>Всего</td>
+<td>500-999</td>
+<td>1000-1499</td>
+<td>1500-2499</td>
 <td>
-500-
-999
+2500 и
+более
 </td>
-<td>
-1000-
-1499
-</td>
-<td>
-1500-
-2499
-</td>
-<td>2500 и более</td>
 </tr>
 <tr>
 <th>А</th>
@@ -30375,17 +42934,16 @@ Z 30.2 Z 30.3
 <td>Всего детей</td>
 <td>1.0</td>
 <td>
-A 00-B 99,
-J 00-06,
-J 10-16,
-J 18, J 20-
-J 22, J 30,
-J 40-J 46,
-L 00-L 08,
-N 00-N 99,
-P 00-P 96,
-Q 00-Q 99,
-S 00-Т 98
+A00-B99,
+J00-06,
+J10-16, J18,
+J20-J22, J30,
+J40-J46,
+L00-L08,
+N00-N99,
+P00-P96,
+Q00-Q99,
+S00-Т98
 </td>
 <td></td>
 <td></td>
@@ -30396,6 +42954,8 @@ S 00-Т 98
 </tr>
 </table>
 
+продолжение таблицы
+
 <table>
 <tr>
 <td colspan="6">в период 7-27 суток после рождения</td>
@@ -30404,8 +42964,8 @@ S 00-Т 98
 <tr>
 <td rowspan="2">
 выбыло
-(выписано
-+ умерло)
+(выписано+
+умерло)
 больных
 </td>
 <td colspan="5">
@@ -30414,45 +42974,38 @@ S 00-Т 98
 </td>
 <td rowspan="2">
 выбыло
-(выписано
-+умерло)
+(выписано+
+умерло)
 больных
 </td>
-<td colspan="5">
-из них умерло с весом при
-рождении (гр)
-</td>
+<td colspan="5">из них умерло с весом при рождении (гр)</td>
 </tr>
 <tr>
-<td>Всего</td>
 <td>
-500-
-999
+В
+с
+е
+г
+о
 </td>
-<td>
-1000-
-1499
-</td>
-<td>
-1500-
-2499
-</td>
+<td>500-999</td>
+<td>1000-1499</td>
+<td>1500-2499</td>
 <td>
 2500 и
 более
 </td>
-<td>Всего</td>
+<td>
+В
+с
+е
+г
+о
+</td>
 <td>500-999</td>
 <td>1000-1499</td>
-<td>
-1500-
-2499
-</td>
-<td>
-2500
-и
-более
-</td>
+<td>1500-2499</td>
+<td>2500 и более</td>
 </tr>
 <tr>
 <th>7</th>
@@ -30468,64 +43021,68 @@ S 00-Т 98
 <th>17</th>
 <th>18</th>
 </tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
 
-4000 ХИРУРГИЧЕСКАЯ РАБОТА ОРГАНИЗАЦИЙ
+## 4000 ХИРУРГИЧЕСКАЯ РАБОТА ОРГАНИЗАЦИЙ
 
 <table>
 <tr>
 <td rowspan="2">
-Название
-операций
+Название операций и
+манипуляций
 </td>
 <td rowspan="2">
 №
 строки
 </td>
 <td rowspan="2">
-Код
-операции
-</td>
-<td rowspan="2">
 Число
 операций,
-проведе-
-нных
-в стацио-
-наре
+проведенных
+в стационаре
 </td>
 <td colspan="3">из них</td>
 <td rowspan="2">
 Умерло
-опери-
-рованных в
-стацио-
-наре
+оперированных
+в стационаре
 </td>
 </tr>
 <tr>
 <td>
-детям до 14
-лет включи-
+детям до
+14 лет
+включи-
 тельно
 </td>
 <td>
 детям от
 15-17 лет
-включи-
-тельно
+включительно
 </td>
 <td>
-после-
-операцио-
-нные
+послеопе-
+рационные
 осложнения
 </td>
 </tr>
 <tr>
 <th>А</th>
 <th>Б</th>
-<th>В</th>
 <th>1</th>
 <th>2</th>
 <th>3</th>
@@ -30533,311 +43090,21 @@ S 00-Т 98
 <th>5</th>
 </tr>
 <tr>
-<td>
-ВСЕГО
-ОПЕРАЦИЙ
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th>ВСЕГО ОПЕРАЦИЙ</th>
+<th>1.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td>
 в том числе:
-Операции на
-нервной
-системе
+Операции
+на нервной системе
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-на головном
-мозге
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-на
-перифе-
-рической
-нервной
-системе
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-на спинном
-мозге
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Операции на
-эндокринной
-системе
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-тиреоэктомии
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Операции на
-органах
-зрения
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из числа
-операций на
-органах
-зрения -
-микро-
-хирургические
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-операции по
-поводу:
-глаукомы
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>энуклеации</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>катаракты</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Операции на
-органах уха
-горла носа
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них на ухе</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в т.ч
-кохлеарная
-имплантация
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-на миндалинах
-и аденоидах
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Операции на
-органах
-дыхания
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них:
-с
-использо-
-ванием
-эндоско-
-пической
-аппаратуры
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-пульмо-
-нэктомия
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-резекция доли
-легкого
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-резекция
-сегмента
-легкого
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Операции на
-сердце
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Операции на
-сосудах
-</td>
-<td></td>
-<td></td>
+<td>2.0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -30846,7 +43113,15 @@ S 00-Т 98
 </tr>
 <tr>
 <td>из них:</td>
+<td>2.1</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>на головном мозге</td>
 <td></td>
 <td></td>
 <td></td>
@@ -30856,11 +43131,68 @@ S 00-Т 98
 </tr>
 <tr>
 <td>
-рентгеноэндов
-скулярные
+на периферической
+нервной системе
 </td>
+<td>2.2</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>на спинном мозге</td>
+<td>2.3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
+Операции на
+эндокринной системе
+</th>
+<th>3.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>
+из них:
+тиреоэктомии
+</td>
+<td>3.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
+Операции на органах
+зрения
+</th>
+<th>4.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>
+из числа операций на
+органах зрения -
+микрохирургические
+</td>
+<td>4.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -30869,11 +43201,49 @@ S 00-Т 98
 </tr>
 <tr>
 <td>
-операции на
-артериях
+операции по поводу:
+глаукомы
 </td>
+<td>4.2</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>энуклеации</td>
+<td>4.3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>катаракты</td>
+<td>4.4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
+Операции на органах
+уха горла носа
+</th>
+<th>5.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>из них на ухе</td>
+<td>5.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -30882,11 +43252,162 @@ S 00-Т 98
 </tr>
 <tr>
 <td>
-операции на
-венах
+в т.ч кохлеарная
+имплантация
 </td>
+<td>5.2</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+на миндалинах и
+аденоидах
+</td>
+<td>5.3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
+Операции на органах
+дыхания
+</th>
+<th>6.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>
+из них:
+с использованием
+эндоскопической
+аппаратуры
+</td>
+<td>6.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>пульмонэктомия</td>
+<td>6.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>резекция доли легкого</td>
+<td>6.3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+резекция сегмента
+легкого
+</td>
+<td>6.4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
+Операции на сердце
+(сумма 7.1+7.2)
+</th>
+<th>7.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>
+Операции на открытом
+сердце (стр 2.0
+табл 4003)
+</td>
+<td>7.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Интервенционные
+вмешательства на
+сердце (стр 3.2
+табл 4003)
+</td>
+<td>7.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
+Операции на сосудах
+(кроме сосудов сердца)
+</th>
+<th>8.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>
+из них:
+операции на артериях
+</td>
+<td>8.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>операции на венах</td>
+<td>8.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+рентгено-
+эндоваскулярные
+</td>
+<td>8.3</td>
 <td></td>
 <td></td>
 <td></td>
@@ -30895,21 +43416,7 @@ S 00-Т 98
 </tr>
 <tr>
 <td>стентирование</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Операции на
-пищеводе
-</td>
-<td></td>
-<td></td>
+<td>8.4</td>
 <td></td>
 <td></td>
 <td></td>
@@ -30917,32 +43424,34 @@ S 00-Т 98
 <td></td>
 </tr>
 <tr>
-<td>
-Операции на
-органах
-брюшной
-полости
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th>Операции на пищеводе</th>
+<th>9.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>
+Операции на органах
+брюшной полости
+</th>
+<th>10.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td>
 из них:
-с
-использо-
-ванием
-эндоско-
-пической
+с использованием
+эндоскопической
 аппаратуры
 </td>
-<td></td>
-<td></td>
+<td>10.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -30951,13 +43460,10 @@ S 00-Т 98
 </tr>
 <tr>
 <td>
-на желудке по
-поводу
-язвенной
-болезни
+на желудке по поводу
+язвенной болезни
 </td>
-<td></td>
-<td></td>
+<td>10.2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -30966,13 +43472,11 @@ S 00-Т 98
 </tr>
 <tr>
 <td>
-аппендэктомии
-при
+аппендэктомии при
 хроническом
 аппендиците
 </td>
-<td></td>
-<td></td>
+<td>10.3</td>
 <td></td>
 <td></td>
 <td></td>
@@ -30981,13 +43485,10 @@ S 00-Т 98
 </tr>
 <tr>
 <td>
-грыжесечения
-при
-неущемленных
-грыжах
+грыжесечения при
+неущемленных грыжах
 </td>
-<td></td>
-<td></td>
+<td>10.4</td>
 <td></td>
 <td></td>
 <td></td>
@@ -30996,13 +43497,11 @@ S 00-Т 98
 </tr>
 <tr>
 <td>
-холецистэкоми
-при
+холецистэкомии при
 хронических
 холециститах
 </td>
-<td></td>
-<td></td>
+<td>10.5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31011,11 +43510,10 @@ S 00-Т 98
 </tr>
 <tr>
 <td>
-формирование
-кишечных стом
+формирование кишечных
+стом
 </td>
-<td></td>
-<td></td>
+<td>10.6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31025,11 +43523,9 @@ S 00-Т 98
 <tr>
 <td>
 лапаротомии
-диагнос-
-тические
+диагностические
 </td>
-<td></td>
-<td></td>
+<td>10.7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31037,13 +43533,8 @@ S 00-Т 98
 <td></td>
 </tr>
 <tr>
-<td>
-лапороскопии
-диагнос-
-тические
-</td>
-<td></td>
-<td></td>
+<td>лапороскопии</td>
+<td>10.8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31051,44 +43542,37 @@ S 00-Т 98
 <td></td>
 </tr>
 <tr>
-<td>
+<th>
+Операции на прямой
+кишке
+</th>
+<th>11.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>
 Операции на
-прямой кишке
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+мочевыводящей системе
+</th>
+<th>12.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td>
-Операции на
-мочевыводящей
-системе
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них :
-с
-использо-
-ванием
-эндос-
-копической
+из них:
+с использованием
+эндоскопической
 аппаратуры
 </td>
-<td></td>
-<td></td>
+<td>12.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31100,23 +43584,7 @@ S 00-Т 98
 на почках и
 мочеточниках
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Операции на
-мужских
-половых
-органах
-</td>
-<td></td>
-<td></td>
+<td>12.2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31124,14 +43592,24 @@ S 00-Т 98
 <td></td>
 </tr>
 <tr>
+<th>
+Операции на мужских
+половых органах
+</th>
+<th>13.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
 <td>
-в том числе
-иссечение
+в том числе иссечение
 крайней плоти
 (обрезание)
 </td>
-<td></td>
-<td></td>
+<td>13.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31141,12 +43619,9 @@ S 00-Т 98
 <tr>
 <td>
 операции на
-предста-
-тельной
-железе
+предстательной железе
 </td>
-<td></td>
-<td></td>
+<td>13.2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31154,31 +43629,25 @@ S 00-Т 98
 <td></td>
 </tr>
 <tr>
-<td>
-Операции на
-женских
-половых
-органах
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th>
+Операции на женских
+половых органах
+</th>
+<th>14.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td>
 из них:
-с
-использо-
-ванием эндоско-
-пической
+с использованием
+эндоскопической
 аппаратуры
 </td>
-<td></td>
-<td></td>
+<td>14.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31187,12 +43656,10 @@ S 00-Т 98
 </tr>
 <tr>
 <td>
-выскабливание
-матки (кроме
-аборта)
+выскабливание матки
+(кроме аборта)
 </td>
-<td></td>
-<td></td>
+<td>14.2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31202,11 +43669,9 @@ S 00-Т 98
 <tr>
 <td>
 по поводу
-стерилизаций
-женщин
+стерилизаций женщин
 </td>
-<td></td>
-<td></td>
+<td>14.3</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31214,27 +43679,39 @@ S 00-Т 98
 <td></td>
 </tr>
 <tr>
-<td>
-Акушерские
-операции
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th>Акушерские операции</th>
+<th>15.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td>
 из них:
-по поводу
-внематочной
+по поводу внематочной
 беременности
 </td>
+<td>15.1</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>наложение щипцов</td>
+<td>15.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>вакуум-экстракции</td>
+<td>15.3</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31243,52 +43720,11 @@ S 00-Т 98
 </tr>
 <tr>
 <td>
-наложение
-щипцов
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-вакуум-
-экстракции
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-кесарево
-сечение
+кесарево сечение
 (кроме малых
 влагалищных)
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-плодо-
-разрушающие
-</td>
-<td></td>
-<td></td>
+<td>15.4</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31296,12 +43732,17 @@ S 00-Т 98
 <td></td>
 </tr>
 <tr>
-<td>
-по поводу
-аборта
-</td>
+<td>плодоразрушающие</td>
+<td>15.5</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>по поводу аборта</td>
+<td>15.6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31313,43 +43754,32 @@ S 00-Т 98
 в том числе
 мини-аборты
 </td>
+<td>15.7</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+</tr>
+<tr>
+<th>
+Операции на
+костно-мышечной
+системе
+</th>
+<th>16.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td>
-Операции на
-костно-
-мышечной
-системе
+из них:
+на костях
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>на костях</td>
-<td></td>
-<td></td>
+<td>16.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31358,8 +43788,7 @@ S 00-Т 98
 </tr>
 <tr>
 <td>на суставах</td>
-<td></td>
-<td></td>
+<td>16.2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31367,86 +43796,78 @@ S 00-Т 98
 <td></td>
 </tr>
 <tr>
-<td>
-Операции на
-молочной
+<th>
+Операции на молочной
 железе
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+</th>
+<th>17.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td>
-Операции на
-коже и
-подкожной
-клетчатке
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th>
+Операции на коже и
+подкожной клетчатке
+</th>
+<th>18.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td>Прочие</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th>Прочие</th>
+<th>19.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>
+Кроме того на
+хозрасчетных койках
+</th>
+<th>20.0</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 </table>
 
-4001 Оперировано больных 1 ____ # 1 _____ чел., из них детей до 14
+4001 Оперировано больных 1____#1_____ чел.,
 
-лет включительно 2 ____ # 2 ____, детям 15-17 лет 3 ___ # 3 ____ Из
+Из общего числа операций (стр. 1, гр. 1) проведено операций с использованием лазерной 4 ____#4_____ криогенной 5__#5___ аппаратуры.
 
-общего числа операций (стр.1, гр.1) проведено операций с
+Число общих анестезий оперированным 6___#6____; умерло в результате общей анестезии 7 ____#7______
 
-использованием лазерной 4 ____ # 4 _____ криогенной 5 __ # 5 ___
+4002 Из общего числа операций на ухе (стр.5.1) - слухоулучшающие 1__#1__, на желудке по поводу язвенной болезни (стр. 10.2) - органосохраняющие 2 __#2____, по поводу трансплантации органов и тканей (стр 1, гр. 1) 3___#3_____
 
-аппаратуры. Число общих анестезий оперированным 6 ___ # 6 ____;
-
-умерло в результате общей анестезии 7 ____ # 7 ______
-
-4002 Из общего числа операций на ухе (стр.5.1) - слухоулучшающие 1
-
-___ # 1 ____, на желудке по поводу язвенной болезни (стр. 10.2) -
-
-органосохраняющие 2 __ # 2 ____ , по поводу трансплантации органов и
-
-тканей (стр 1, гр.1) 3 ___ # 3 _____
-
-4003 КАРДИОХИРУРГИЧЕСКАЯ РАБОТА ОРГАНИЗАЦИЙ
+## 4003 КАРДИОХИРУРГИЧЕСКАЯ РАБОТА ОРГАНИЗАЦИЙ
 
 <table>
 <tr>
-<td>
-Название
-операций и
-манипуляций
-</td>
-<td>
+<td rowspan="2">Название операций и манипуляций</td>
+<td rowspan="2">
 №
 строки
 </td>
-<td>
-Число операций,
-проведенных в
+<td rowspan="2">
+Число
+операций,
+проведен-
+ных в
 стационаре
 </td>
 <td colspan="4">из них</td>
-<td>
+<td rowspan="2">
 Умерло
 опериро-
 ванных в
@@ -31454,37 +43875,32 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>
-детям от
-15-17лет
-включи-
-тельно
+детям
+от 15-
+17 лет
+вкл.
 </td>
 <td>
-детям до
-14 лет
-включи-
-тельно
+детям
+до 14
+лет
+вкл.
 </td>
 <td>
 из них
-до 1 года
+до 1
+года
 </td>
 <td>
-после-
-операцио-
-нные
-осложне-
-ния
+послеопе-
+рационные
+осложнения
 </td>
-<td></td>
 </tr>
 <tr>
 <th>А</th>
-<th>Б</th>
+<th>Г</th>
 <th>1</th>
 <th>2</th>
 <th>3</th>
@@ -31493,7 +43909,13 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 <th>6</th>
 </tr>
 <tr>
-<td>ВСЕГО ОПЕРАЦИЙ</td>
+<td>
+ВСЕГО ОПЕРАЦИЙ
+(на открытом сердце+
+эндоваскулярные
+оперативные
+вмешательства):
+</td>
 <td>1.0</td>
 <td></td>
 <td></td>
@@ -31504,8 +43926,7 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-в том числе:
-Операции на
+в том числе: Операции на
 открытом сердце
 </td>
 <td>2.0</td>
@@ -31519,8 +43940,7 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 <tr>
 <td>
 из них:
-на сосудах
-сердца (АКШ)
+на сосудах сердца (АКШ)
 </td>
 <td>2.1</td>
 <td></td>
@@ -31532,9 +43952,86 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-операции при
-приобретенных
-пороках сердца
+а) обходной анастомоз
+в целях реваскулизации
+сердца (АКШ,
+маммарнокоронарное
+шунтирование,
+бимаммарнокоронарное
+шунтирование, др.
+обходной анастомоз)
+</td>
+<td>2.11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в т.ч. Аортокоронарное
+шунтирование
+</td>
+<td>2.111</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в т.ч. Аортокоронарное
+шунтирование с
+использованием
+интраоперационной
+радиочастотной аблации
+</td>
+<td>2.112</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в т.ч. Сочетание
+аортокоронарного
+шунтирования и
+стентирования артерий
+</td>
+<td>2.113</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+б) другие виды устранения
+обструкции коронарной
+артерии
+</td>
+<td>2.12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: операции при
+приобретенных пороках
+сердца
 </td>
 <td>2.2</td>
 <td></td>
@@ -31546,8 +44043,7 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-операции при
-врожденных
+операции при врожденных
 пороках сердца
 </td>
 <td>2.3</td>
@@ -31560,8 +44056,8 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-другие операции
-на сердце
+из них: другие операции на
+сердце
 </td>
 <td>2.4</td>
 <td></td>
@@ -31586,9 +44082,8 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-из них:
-коронарография
-(КАГ) всего
+из них: Интервенционные
+исследования
 </td>
 <td>3.1</td>
 <td></td>
@@ -31600,11 +44095,33 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-в т.ч.
-коронарография
+из них: коронарография
+(КАГ) всего
+</td>
+<td>3.11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в т.ч. коронарография
 (КАГ) плановая
 </td>
-<td>3.1.1</td>
+<td>3.111</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в т.ч. КАГ экстренная</td>
+<td>3.112</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31614,10 +44131,10 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-в т.ч. КАГ
-экстренная
+из них: зондирование
+полостей сердца
 </td>
-<td>3.1.2</td>
+<td>3.12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31627,9 +44144,22 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-из них:
-стентирование
-всего
+из них: внутрисердечное
+электрофизиологическое
+исследование
+</td>
+<td>3.13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: Интервенционные
+оперативные вмешательства
 </td>
 <td>3.2</td>
 <td></td>
@@ -31641,11 +44171,10 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-стентирование
-коронарных
-артерий плановая
+стентирование сосудов
+сердца
 </td>
-<td>3.2.1</td>
+<td>3.21</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31655,12 +44184,35 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-стентирование
-коронарных
-артерий
+в т.ч стентирование
+коронарных артерий
+плановая
+</td>
+<td>3.211</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в т.ч. стентирование
+коронарных артерий
 экстренная
 </td>
-<td>3.2.2</td>
+<td>3.212</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>аритмология, всего</td>
+<td>3.22</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31670,11 +44222,20 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-из них:
-аритмология
-всего
+трансвенозная катеторная
+радиочастотная аблация
 </td>
-<td>3.3</td>
+<td>3.221</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>имплантация ЭКС всего</td>
+<td>3.222</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31684,12 +44245,10 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-внутрисердечное
-электро-
-физиологическое
-исследование
+в т.ч имплантация ЭКС
+однокамерным аппаратом
 </td>
-<td>3.3.1</td>
+<td>3.2221</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31699,12 +44258,10 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-трансвенозная
-катеторная
-радиочастотная
-аблация
+в т.ч имплантация ЭКС
+двухкамерным аппаратом
 </td>
-<td>3.3.2</td>
+<td>3.2222</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31714,10 +44271,12 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-имплантация ЭКС
-всего
+в т.ч введение постоянного
+электрокардиостимулятора,
+первичное или его замена,
+тип аппарата не уточнен
 </td>
-<td>3.3.3</td>
+<td>3.2223</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31727,41 +44286,10 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-в т.ч
-имплантация ЭКС
-однокамерным
-аппаратом
-</td>
-<td>3.3.4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в т.ч
-имплантация ЭКС
-двухкамерным
-аппаратом
-</td>
-<td>3.3.5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-имплантация
-кардивертера /
+имплантация кардивертера/
 дефибриллятора
 </td>
-<td>3.3.6</td>
+<td>3.2224</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31772,13 +44300,11 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 <tr>
 <td>
 имплантация
-бивентри-
-кулярного ЭКС с
-ресинхро-
-низирующей
+бивентрикулярного ЭКС с
+ресинхронизирующей
 функцией
 </td>
-<td>3.3.7</td>
+<td>3.2225</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31788,10 +44314,12 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-зондирование
-полостей сердце
+имплантация
+кардиоресинхронизирующего
+дефибриллятора, общая
+система
 </td>
-<td>3.4</td>
+<td>3.2226</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31801,11 +44329,11 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-эндоваскулярные
-вмешательства,
+из них: эндоваскулярные
+оперативные вмешательства,
 всего
 </td>
-<td>3.5</td>
+<td>3.23</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31815,10 +44343,50 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 <tr>
 <td>
-установка
+в т.ч.: эндоваскулярные
+вмешательства при ППС
+</td>
+<td>3.231</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в т.ч.: эндоваскулярные
+вмешательства при ВПС
+</td>
+<td>3.232</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: установка
 окклюдеров
 </td>
-<td>3.5.1</td>
+<td>3.2321</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в т.ч.: эндоваскулярные
+оперативные вмешательства
+на сосудах
+</td>
+<td>3.233</td>
 <td></td>
 <td></td>
 <td></td>
@@ -31828,17 +44396,11 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 </table>
 
-Примечание: Код операции подробно представлены в инструкции по
+4004 Количество больных, которым выполнено стентирование 1___#1____, количество имплантированных стентов 2__#2__
 
-заполнению таблицы
+ЭКСТРЕННАЯ ХИРУРГИЧЕСКАЯ ПОМОЩЬ
 
-4004 Количество больных, которым выполнено стентирование 1 ___ #
-
-1 ____, количество имплантированных стентов 2 __ # 2 __
-
-4300 ЭКСТРЕННАЯ ХИРУРГИЧЕСКАЯ ПОМОЩЬ
-
-(заполняют на больных, выбывших из стационара в течение года)
+4300 (заполняют на больных, выбывших из стационара в течение года)
 
 <table>
 <tr>
@@ -31850,7 +44412,10 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 от начала
 заболевания
 </td>
-<td rowspan="2">№ строки</td>
+<td rowspan="2">
+№
+строки
+</td>
 <td colspan="4">Доставлено больных в стационар</td>
 </tr>
 <tr>
@@ -32060,15 +44625,9 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 </table>
 
-<table>
-<tr>
-<td>
-Руководитель ___________________________
-Исполнитель _________ ,телефон _________
-</td>
-<td>Дата &quot;__&quot; _____ 20 ___ года</td>
-</tr>
-</table>
+Руководитель ___________
+
+Исполнитель ____________, телефон _______ Дата "__" _______ 20__ года
 
 > *Приложение 3*  
 > *Утверждено приказом и.о. Министра*  
@@ -32081,11 +44640,11 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 
 (наименование, адрес)
 
-### Форма 15
+## Форма 15
 
 годовая
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -32117,7 +44676,7 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 </table>
 
-### Отчет о медицинском обслуживаниеучастников, инвалидов Великой Отечественной войны и лиц приравненных к ним 20 ____ год
+## Отчет о медицинском обслуживаниеучастников, инвалидов Великой Отечественной войны и лиц приравненных к ним 20 ____ год
 
 1000
 
@@ -32460,21 +45019,32 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </table>
 
 > *Приложение 3*  
-> *Утверждено приказом и.о. Министра*  
-> *здравоохранения Республики Казахстан*  
-> *от 12 сентября 2011 г. № 616*
+> *Утверждено приказом*  
+> *и.о. Министра здравоохранения*  
+> *Республики Казахстан*  
+> *от 12 сентября 2011 года № 616*
 
-Конфиденциальность гарантируется получателем информации
+## Конфиденциальность гарантируется получателем информации
 
-Кем представляется _________________________________________________
+_____________________________________________________________________
 
-(наименование, адрес)
+Кем представляется __________________________________________________
 
-### Форма 17
+наименование, адрес
+
+## Форма, предназначенная для сбора административных данных
+
+Информация представляется в соответствии с Кодексом
+
+Республики Казахстан
+
+"О здоровье народа и системе здравоохранения"
+
+## Форма 17
 
 годовая
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+> *Сноска. Форма 17 в редакции приказа Министра здравоохранения РК от 28.09.2012 № 663 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -32483,54 +45053,78 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
 Представляют:
-1. Субъекты здравоохранения не зависимо от форм
-собственности и ведомственной принадлежности - главному
-врачу района (города) до 5 января;
-2. Главный врач района (города), СЭС и других
-организаций областного подчинения системы
-здравоохранения - местному органу государственного
-управления здравоохранения 5 января;
-3. Организации здравоохранения других министерств,
-ведомств независимо от форм собственности и
-ведомственной принадлежности - местному органу
-государственного управления здравоохранения области,
-города по месту нахождения 5 января;
-4. Местные органы государственного управления
-здравоохранения (сводный отчет по городу, области) -
-областные департаменты статистики, г.г. Астаны, Алматы и
-в Министерство здравоохранения Республики Казахстан к 10
-февраля;
-5. Министерство Здравоохранения Республики Казахстан
-(сводный отчет по республике) Агенство Республики
-Казахстан по статистике к 1 апреля
-</td>
-</tr>
-</table>
 
-### Отчет о медицинских и фармацевтических кадрах 20 _____ год
+1\. Субъекты здравоохранения не зависимо от
 
-МЕДИЦИНСКИЕ И ФАРМАЦЕВТИЧЕСКИЕ КАДРЫ ОРГАНИЗАЦИЙ
+форм собственности и ведомственной
+
+принадлежности главному врачу района
+
+(города) - до 5 января;
+
+2\. Главный врач района (города), СЭС и
+
+других организаций областного подчинения
+
+системы здравоохранения - местному органу
+
+государственного управления
+
+здравоохранением - 5 января;
+
+3\. Организации здравоохранения других
+
+министерств, ведомств независимо от форм
+
+собственности и ведомственной
+
+принадлежности - местному органу
+
+государственного управления
+
+здравоохранения области, города по месту
+
+нахождения 5 января;
+
+4\. Местные органы государственного
+
+управления здравоохранения в Министерство
+
+здравоохранения Республики Казахстан к 10
+
+февраля.
+
+## Отчет о медицинских и фармацевтических кадрах 20__ год
+
+## МЕДИЦИНСКИЕ И ФАРМАЦЕВТИЧЕСКИЕ КАДРЫ ОРГАНИЗАЦИЙ
+
+## 1000 Специальности работников с высшим медицинским и фармацевтическим образованием
 
 <table>
 <tr>
-<td colspan="7">1000 Специальности работников с высшим медицинским и фармацевтическим образованием</td>
-</tr>
-<tr>
-<td rowspan="2">Наименование</td>
-<td rowspan="2">
+<td rowspan="3">Наименование</td>
+<td rowspan="3">
 №
 строки
 </td>
-<td rowspan="2">Всего</td>
+<td rowspan="3">
+В
+с
+е
+г
+о
+</td>
 <td colspan="4">из них: (из графы 1)</td>
+<td colspan="6">
+Из общего числа
+врачей (гр. 1) -
+имеют квалифика-
+ционные категории
+</td>
 </tr>
 <tr>
-<td>
+<td rowspan="2">
 на основной
 работе в
 организациях
@@ -32541,31 +45135,87 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 органов
 управления
 </td>
-<td>
+<td rowspan="2">
 количество
 врачей,
-занимающихся
-непосредственно
+занимаю-
+щихся
+непос-
+редственно
 лечением
 больных и
-диагностическим
+диагности-
+ческим
 процессом
 </td>
-<td>
-количество
-специалистов
-в сельской
+<td rowspan="2">
+коли-
+чество
+специа-
+листов в
+сельской
 местности
 </td>
-<td>
-получили
-сертификат по
-специальности
-основной
+<td rowspan="2">
+полу-
+чили
+серти-
+фикат
+по
+спе-
+циаль-
+ности
+основ-
+ной
 работы
-впервые в
-отчетном
+впервые
+в от-
+четном
 году
+</td>
+<td colspan="2">высшую</td>
+<td colspan="2">I</td>
+<td colspan="2">II</td>
+</tr>
+<tr>
+<td>
+г
+о
+р
+о
+д
+</td>
+<td>
+с
+е
+л
+о
+</td>
+<td>
+г
+о
+р
+о
+д
+</td>
+<td>
+с
+е
+л
+о
+</td>
+<td>
+г
+о
+р
+о
+д
+</td>
+<td>
+с
+е
+л
+о
 </td>
 </tr>
 <tr>
@@ -32576,14 +45226,19 @@ ___ # 1 ____, на желудке по поводу язвенной болез�
 <th>3</th>
 <th>4</th>
 <th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
 </tr>
 <tr>
 <td>
-I. Врачи
+1. Врачи
 Число врачей на
 конец отчетного
-года, физических
-лиц
+года, физических лиц
 </td>
 <td>01</td>
 <td></td>
@@ -32591,33 +45246,47 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-в том числе
-женщин Из общего
-числа врачей,
-физических лиц:
-</td>
+<td>в том числе женщин</td>
 <td>02</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
+Из общего числа
+врачей, физических
+лиц:
 Терапия (включая
 терапию
-подростковую,
-скорую и
-неотложную
-медицинская
-помощь,
+подростковую, скорую
+и неотложную
+медицинскую помощь,
 диетологию)
 </td>
 <td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -32627,11 +45296,16 @@ I. Врачи
 <tr>
 <td>
 Общая врачебная
-практика
-(семейная
+практика (семейная
 медицина)
 </td>
 <td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -32641,11 +45315,17 @@ I. Врачи
 <tr>
 <td>
 Кардиология
-(взрослая,
-десткая), включая
+(взрослая, детская),
+включая
 интервенционную
 </td>
 <td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -32655,10 +45335,15 @@ I. Врачи
 <tr>
 <td>
 Ревматология
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -32669,10 +45354,15 @@ I. Врачи
 <td>
 Аллергология и
 иммунология
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -32682,10 +45372,15 @@ I. Врачи
 <tr>
 <td>
 Гастроэнтерология
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -32695,10 +45390,15 @@ I. Врачи
 <tr>
 <td>
 Гематология
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -32708,10 +45408,15 @@ I. Врачи
 <tr>
 <td>
 Пульмонология
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -32721,10 +45426,15 @@ I. Врачи
 <tr>
 <td>
 Эндокринология
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -32734,10 +45444,15 @@ I. Врачи
 <tr>
 <td>
 Нефрология
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -32747,10 +45462,15 @@ I. Врачи
 <tr>
 <td>
 Фтизиатрия
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -32760,8 +45480,8 @@ I. Врачи
 <tr>
 <td>
 Профессиональная
-патология
-(медицина труда)
+патология (медицина
+труда)
 </td>
 <td>14</td>
 <td></td>
@@ -32769,13 +45489,17 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Инфекционные
-болезни
-(взрослые,
-детские)
+Инфекционные болезни
+(взрослые, детские)
 </td>
 <td>15</td>
 <td></td>
@@ -32783,19 +45507,28 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Дермато-
-венерология
+Дерматовенерология
 (венерология,
 дерматология,
-дермато-
-косметология)
-(взрослая,
-детская)
+дерматокосметология)
+(взрослая, детская)
 </td>
 <td>16</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -32805,10 +45538,15 @@ I. Врачи
 <tr>
 <td>
 Невропатология
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -32822,11 +45560,9 @@ I. Врачи
 психотерапия,
 сексопатология,
 медицинская
-психология,
-судебно-
+психология, судебно-
 психиатрическая
-экспертиза,
-судебно-
+экспертиза, судебно-
 наркологическая
 экспертиза)
 (взрослая)
@@ -32837,23 +45573,95 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: психиатрия</td>
+<td>18.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>наркология</td>
+<td>18.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Детская
-психиатрия
+Детская психиатрия
 (наркология,
 психотерапия,
 медицинская
-психология,
-судебно-
+психология, судебно-
 психиатрическая
-экспертиза,
-судебно-
+экспертиза, судебно-
 наркологическая
 экспертиза)
 </td>
 <td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: детская
+психиатрия
+</td>
+<td>19.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>детская наркология</td>
+<td>19.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -32870,10 +45678,15 @@ I. Врачи
 лечебная
 физкультура,
 курортология)
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -32891,15 +45704,19 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Лучевая
-диагностика
+Лучевая диагностика
 (рентгенология,
 компьютерная и
-магнитно-
-резонансная
+магнитно-резонансная
 томография,
 ультразвуковая
 диагностика,
@@ -32912,6 +45729,12 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
@@ -32919,6 +45742,12 @@ I. Врачи
 диагностика
 </td>
 <td>23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -32937,13 +45766,22 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Спортивная
-медицина
-</td>
+<td>Спортивная медицина</td>
 <td>25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -32958,6 +45796,12 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
@@ -32967,17 +45811,21 @@ I. Врачи
 <td>27</td>
 <td></td>
 <td></td>
-<td>Х</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-Традиционная
-терапия
+Традиционная терапия
 (рефлексотерапия,
-мануальная
-терапия,
+мануальная терапия,
 су-джок-терапия,
 гомеопатия,
 гирудотерапия,
@@ -32989,17 +45837,28 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 Авиационная и
-космическая
-медицина
+космическая медицина
 </td>
 <td>29</td>
 <td></td>
 <td></td>
-<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -33007,10 +45866,15 @@ I. Врачи
 <td>
 Медицина
 чрезвычайных
-ситуаций и
-катастроф
+ситуаций и катастроф
 </td>
 <td>30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33021,10 +45885,15 @@ I. Врачи
 <td>
 Анестезиология и
 реаниматология
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>31</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33038,10 +45907,15 @@ I. Врачи
 абдоминальная,
 трансплантология,
 колопроктология),
-включая
-эндоскопию
+включая эндоскопию
 </td>
 <td>32</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33060,14 +45934,25 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 Кардиохирургия
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>34</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33077,13 +45962,18 @@ I. Врачи
 <tr>
 <td>
 Ангиохирургия
-(рентгенохирургия
+(рентгенохирургия,
 интервенционная
-хирургия)
-(взрослая,
+хирургия) (взрослая,
 детская)
 </td>
 <td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33093,10 +45983,15 @@ I. Врачи
 <tr>
 <td>
 Нейрохирургия
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33106,11 +46001,16 @@ I. Врачи
 <tr>
 <td>
 Челюстно-лицевая
-хирургия
-(взрослая,
+хирургия (взрослая,
 детская)
 </td>
 <td>37</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33128,17 +46028,27 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Онкология
-(включая
+Онкология (включая
 химиотерапию,
 маммологию)
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>39</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33148,13 +46058,17 @@ I. Врачи
 <tr>
 <td>
 Травматология-
-ортопедия
-(включая
+ортопедия (включая
 камбустиологию)
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33165,10 +46079,15 @@ I. Врачи
 <td>
 Урология и
 андрология
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>41</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33178,10 +46097,15 @@ I. Врачи
 <tr>
 <td>
 Офтальмология
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>42</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33190,14 +46114,17 @@ I. Врачи
 </tr>
 <tr>
 <td>
-Оторино-
-ларингология
-(включая
-сурдологию)
-(взрослая,
-детская)
+Оториноларингология
+(включая сурдологию)
+(взрослая, детская)
 </td>
 <td>43</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33207,11 +46134,16 @@ I. Врачи
 <tr>
 <td>
 Патологическая
-анатомия
-(взрослая,
+анатомия (взрослая,
 детская)
 </td>
 <td>44</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33220,11 +46152,16 @@ I. Врачи
 </tr>
 <tr>
 <td>
-Судебно-
-медицинская
+Судебно-медицинская
 экспертиза
 </td>
 <td>45</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33243,6 +46180,12 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Перфузиология</td>
@@ -33252,10 +46195,7 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>Токсикология (взрослая, детская)</td>
-<td>48</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33264,13 +46204,35 @@ I. Врачи
 </tr>
 <tr>
 <td>
-Педиатрия
-(включая скорую и
-неотложную
-медицинская
-помощь)
+Токсикология
+(взрослая, детская)
+</td>
+<td>48</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Педиатрия (включая
+скорую и неотложную
+медицинскую помощь)
 </td>
 <td>49</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33285,12 +46247,17 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 Акушерство и
-гинекология
-(детская
+гинекология (детская
 гинекология)
 </td>
 <td>51</td>
@@ -33299,13 +46266,22 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Медицинская
-генетика
-</td>
+<td>Медицинская генетика</td>
 <td>52</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33315,10 +46291,15 @@ I. Врачи
 <tr>
 <td>
 Стоматология
-(взрослая,
-детская)
+(взрослая, детская)
 </td>
 <td>53</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33328,11 +46309,10 @@ I. Врачи
 <tr>
 <td>
 Гигиена и
-эпидемиология
-(общая гигиена,
-гигиена труда,
-гигиена детей и
-подростков,
+эпидемиология (общая
+гигиена, гигиена
+труда, гигиена детей
+и подростков,
 гигиена питания,
 коммунальная
 гигиена,
@@ -33348,7 +46328,13 @@ I. Врачи
 <td>54</td>
 <td></td>
 <td></td>
-<td>Х</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -33360,7 +46346,13 @@ I. Врачи
 <td>55</td>
 <td></td>
 <td></td>
-<td>Х</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -33368,28 +46360,31 @@ I. Врачи
 <td>
 Общественное
 здравоохранение/
-Социальная
-гигиена и
-организация
+Социальная гигиена
+и организация
 здравоохранения
-(включая
-валеологию,
+(включая валеологию,
 статистику,
 методологию)
 </td>
 <td>56</td>
 <td></td>
 <td></td>
-<td>Х</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
 Из общего числа
-врачей
-(физических лиц)
-работают на
+врачей (физических
+лиц) работают на
 основной работе:
 в организациях
 республиканского
@@ -33401,16 +46396,27 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 в организациях
-областных,
-городских и
-других органах
+областных, городских
+и других органах
 здравоохранения
 </td>
 <td>58</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33428,6 +46434,12 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
@@ -33440,27 +46452,42 @@ I. Врачи
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>
+<th>
 II. Специалисты
 сестринского дела
 с высшим
 образованием
-</td>
-<td>61</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+</th>
+<th>61</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td>
-в том числе
-женщин
-</td>
+<td>в том числе женщин</td>
 <td>62</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33476,63 +46503,62 @@ III. Всего
 образованием
 (общая
 фармацевтическая
-практика;
-управление и
-экономика
-фармации
+практика; управление
+и экономика фармации
 (фармацевт
 (провизор),
 фармацевт-
 организатор
 (провизор-
 организатор),
-менеджер,
-инспектор,
+менеджер, инспектор,
 информатор,
 маркетолог/
 товаровед;
-технология
-лекарств
+технология лекарств
 (фармацевт
 (провизор),
-фармацевт-
-технолог
-(провизор-
-технолог);
-контроль качества
-и сертификация
+фармацевт-технолог
+(провизор-технолог);
+контроль качества и
+сертификация
 лекарственных
-средств
-(фармацевт
+средств (фармацевт
 (провизор),
-фармацевт-
-аналитик
-(провизор-
-аналитик);
+фармацевт-аналитик
+(провизор-аналитик);
 аналитическая
 диагностика и
-судебно-
-химическая
-экспертиза (химик
-– токсиколог)),
+судебно-химическая
+экспертиза (химик –
+токсиколог)),
 физических лиц
 </td>
 <td>63</td>
 <td></td>
 <td></td>
-<td>Х</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-в том числе
-женщин
-</td>
+<td>в том числе женщин</td>
 <td>64</td>
 <td></td>
 <td></td>
-<td>Х</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -33544,31 +46570,42 @@ III. Всего
 фармацевтическим
 образованием,
 физические лица
-работают на
-основной работе:
-в организациях
+работают на основной
+работе: в
+организациях
 республиканского
 подчинения
 </td>
 <td>65</td>
 <td></td>
 <td></td>
-<td>Х</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
 в организациях
-областных,
-городских и
-других органах
+областных, городских
+и других органах
 здравоохранения
 </td>
 <td>66</td>
 <td></td>
 <td></td>
-<td>Х</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -33580,7 +46617,13 @@ III. Всего
 <td>67</td>
 <td></td>
 <td></td>
-<td>Х</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -33592,207 +46635,152 @@ III. Всего
 <td>68</td>
 <td></td>
 <td></td>
-<td>Х</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 </table>
 
-Продолжение таблицы
-
 <table>
 <tr>
-<td colspan="6">Из общего числа специалистов (гр. 1) имеют квалификационные категории</td>
+<th colspan="12">1001 Специальности работников со средним медицинским и фармацевтическим образованием</th>
 </tr>
 <tr>
-<td colspan="2">высшую</td>
+<td rowspan="3">Наименование</td>
+<td rowspan="3">
+№
+строки
+</td>
+<td rowspan="3">
+В
+с
+е
+г
+о
+</td>
+<td rowspan="3">
+количество
+средних
+медработ-
+ников,
+занятых
+непосредст-
+венно
+лечением
+больных и
+диагности-
+ческим
+процессом
+</td>
+<td rowspan="3">
+количество
+специа-
+листов в
+сельской
+местности
+</td>
+<td rowspan="3">
+получили
+сертифи-
+кат по
+специаль-
+ности
+основной
+работы
+впервые в
+отчетном
+году
+</td>
+<td colspan="6">
+Из общего числа
+специалистов имеют
+квалификационные
+категории
+</td>
+</tr>
+<tr>
+<td colspan="2">Высшую</td>
 <td colspan="2">I</td>
 <td colspan="2">II</td>
 </tr>
 <tr>
-<td>город</td>
-<td>село</td>
-<td>город</td>
-<td>село</td>
-<td>город</td>
-<td>село</td>
-</tr>
-<tr>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-### 1001 Специальности работников со средним медицинским и фармацевтическим образованием
-
-<table>
-<tr>
-<td>Наименование</td>
 <td>
-№
-строки
-</td>
-<td>Всего</td>
-<td>
-количество
-средних
-медработников,
-занятых
-непосредственно
-лечением
-больных и
-диагностическим
-процессом
+г
+о
+р
+о
+д
 </td>
 <td>
-количество
-специалистов
-в сельской
-местности
+с
+е
+л
+о
 </td>
 <td>
-получили
-сертификат по
-специальности
-основной работы
-впервые в отчетном
-году
+г
+о
+р
+о
+д
+</td>
+<td>
+с
+е
+л
+о
+</td>
+<td>
+г
+о
+р
+о
+д
+</td>
+<td>
+с
+е
+л
+о
 </td>
 </tr>
 <tr>
 <th>А</th>
 <th>Б</th>
 <th>1</th>
-<th></th>
 <th>2</th>
 <th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
 </tr>
 <tr>
 <td>
-I. Средний медперсонал.
-Число средних
-медицинских работников
-на конец отчетного
-года, всего физических
+I. Средний
+медперсонал. Число
+средних медицинских
+работников на конец
+отчетного года,
+всего физических
 лиц,
 </td>
 <td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33805,14 +46793,27 @@ I. Средний медперсонал.
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 Из общего числа
-среднего медицинского
-персонала, физических
-лиц:
+среднего
+медицинского
+персонала,
+физических лиц:
 </td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33822,13 +46823,19 @@ I. Средний медперсонал.
 <tr>
 <td>
 Лабораторная
-диагностика (лаборант,
-помощник
+диагностика
+(лаборант, помощник
 врача-лаборанта)
 </td>
 <td>03</td>
 <td></td>
-<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -33843,42 +46850,68 @@ I. Средний медперсонал.
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 Акушерское дело
-(акушер, акушер общей
-практики)
+(акушер, акушер
+общей практики)
 </td>
 <td>05</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Гигиена и эпидемиология
-(санитарный фельдшер,
-помощник санитарного
-врача, лаборант,
-помощник врача
-эпидемиолога,
+Гигиена и
+эпидемиология
+(санитарный
+фельдшер, помощник
+санитарного врача,
+лаборант, помощник
+врача эпидемиолога,
 энтомолог)
 </td>
 <td>06</td>
 <td></td>
-<td>Х</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-Стоматология (зубной
-врач, дантист,
-ассистент стоматолога)
+Стоматология
+(зубной врач,
+дантист, ассистент
+стоматолога)
 </td>
 <td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33887,10 +46920,16 @@ I. Средний медперсонал.
 <tr>
 <td>
 Стоматологическая
-ортопедия
-(зубной техник)
+ортопедия (зубной
+техник)
 </td>
 <td>08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33901,19 +46940,26 @@ I. Средний медперсонал.
 Сестринское дело
 (медицинская(ий)
 сестра/брат,
-специализированная(ый)
-медицинская(ий)
+специализированная
+(ый) медицинская(ий)
 сестра/брат,
 медицинская(ий)
 сестра/брат общей
 практики,
 медицинская(ий)
 сестра/брат по
-формированию здорового
-образа жизни,
-медицинский статистик)
+формированию
+здорового образа
+жизни, медицинский
+статистик)
 </td>
 <td>09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33921,11 +46967,13 @@ I. Средний медперсонал.
 </tr>
 <tr>
 <td>
-Из общего числа
-среднего медицинского
-персонала (физических
-лиц) работают на
-основной работе: в
+Из общего
+числа среднего
+медицинского
+персонала
+(физических лиц)
+работают на основной
+работе: в
 организациях
 республиканского
 подчинения
@@ -33935,15 +46983,27 @@ I. Средний медперсонал.
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 в организациях
-областных, городских и
-других органах
+областных, городских
+и других органах
 здравоохранения
 </td>
 <td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -33956,6 +47016,12 @@ I. Средний медперсонал.
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>в частных структурах</td>
@@ -33964,19 +47030,33 @@ I. Средний медперсонал.
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-II. Специалисты со
-средним
+II. Специалисты
+со средним
 фармацевтическим
-образованием (ассистент
-фармацевта, фармацевт),
-всего физических лиц
+образованием
+(ассистент
+фармацевта,
+фармацевт), всего
+физических лиц
 </td>
 <td>14</td>
 <td></td>
-<td>Х</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -33984,37 +47064,57 @@ II. Специалисты со
 <td>в том числе женщин</td>
 <td>15</td>
 <td></td>
-<td>Х</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
 Из общего числа
-ассистентов фармацевта,
-фармацевтов, физические
-лица работают на
-основной работе: в
+ассистентов
+фармацевта,
+фармацевтов,
+физические лица
+работают на основной
+работе: в
 организациях
 республиканского
 подчинения
 </td>
 <td>16</td>
 <td></td>
-<td>Х</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
 в организациях
-областных, городских и
-других органах
+областных, городских
+и других органах
 здравоохранения
 </td>
 <td>17</td>
 <td></td>
-<td>Х</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -34022,48 +47122,9 @@ II. Специалисты со
 <td>в других ведомствах</td>
 <td>18</td>
 <td></td>
-<td>Х</td>
+<td>X</td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>в частных структурах</td>
-<td>19</td>
-<td></td>
-<td>Х</td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td colspan="6">Из общего числа специалистов имеют квалификационные категории</td>
-</tr>
-<tr>
-<td colspan="2">Высшую</td>
-<td colspan="2">I</td>
-<td colspan="2">II</td>
-</tr>
-<tr>
-<td>город</td>
-<td>село</td>
-<td>город</td>
-<td>село</td>
-<td>город</td>
-<td>село</td>
-</tr>
-<tr>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -34072,30 +47133,12 @@ II. Специалисты со
 <td></td>
 </tr>
 <tr>
+<td>в частных структурах</td>
+<td>19</td>
+<td></td>
+<td>X</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -34105,19 +47148,11 @@ II. Специалисты со
 </tr>
 </table>
 
-1002 Из общего числа физических лиц среднего медицинского персонала (стр.1 гр.1) работают на основной работе в организациях образования, научных организациях и аппаратах органов управления (не включая средний медицинский персонал клиник ВУЗов и стационаров НИИ) 1 ____.
+1002 Из общего числа физических лиц среднего медицинского персонала (стр. 1 гр. 1) работают на основной работе в организациях образования, научных организациях и аппаратах органов управления (не включая средний медицинский персонал клиник ВУЗов и стационаров НИИ) 1__#1_____.
 
-1003 Специальности работников с начальным профессиональным образованием. Из общего числа работников с начальным профессиональным образованием на конец отчетного года (сестринское дело), физических лиц: 1. медицинская (ий) сестра/брат по уходу ______, 2. помощник медицинской (ого) сестры/брата ______, массажист (для инвалидов по зрению) ____.
+1003 Специальности работников с начальным профессиональным образованием. Из общего числа работников с начальным профессиональным образованием на конец отчетного года(сестринское дело), физических лиц: 1 медицинская (ий) сестра по уходу - ___#1____, 2 помощники медицинской (ого) сестры/брата - ___#2___, 3 массажист (для инвалидов по зрению) - ____#3____.
 
-<table>
-<tr>
-<td>
-Руководитель ___________________________
-Исполнитель _________ ,телефон _________
-</td>
-<td>Дата &quot;__&quot; _____ 20 ___ года</td>
-</tr>
-</table>
+Руководитель ________ Исполнитель ________, тел _______ Дата "__" _________ 20__ года
 
 > *Приложение 3*  
 > *Утверждено приказом и.о. Министра*  
@@ -34130,11 +47165,11 @@ II. Специалисты со
 
 наименование, адрес
 
-### Форма 18
+## Форма 18
 
 годовая
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -34190,7 +47225,7 @@ II. Специалисты со
 </tr>
 </table>
 
-### Отчет о деятельности санитарно - эпидемиологической службы Республики Казахстан за 20 _____ год
+## Отчет о деятельности санитарно - эпидемиологической службы Республики Казахстан за 20 _____ год
 
 ## 1. Государственный санитарно - эпидемиологический надзор за объектами водоснабжения и качеством питьевой воды
 
@@ -37122,8 +50157,8 @@ I-II класса
 </td>
 <td>
 из них не
-соответс-
-твуют
+соответ-
+ствуют
 нормативам,
 единиц
 </td>
@@ -37144,7 +50179,7 @@ I-II класса
 </td>
 <td>
 проведено
-рамеров
+размеров
 ЭМП,
 единиц
 </td>
@@ -37460,7 +50495,7 @@ I-II класса
 </tr>
 </table>
 
-## 9.Государственный санитарно-эпидемиологический надзор за объектами, производящими и реализующими продукты питания
+## 9. Государственный санитарно-эпидемиологический надзор за объектами, производящими и реализующими продукты питания
 
 <table>
 <tr>
@@ -55204,19 +68239,23 @@ Z30.3
 > *Приложение 3*  
 > *Утверждено приказом и.о. Министра*  
 > *здравоохранения Республики Казахстан*  
-> *от 12 сентября 2011 г. № 616*
+> *от 12 сентября 2011 года № 616*
 
-Конфиденциальность гарантируется получателем информации
+## Конфиденциальность гарантируется получателем информации
 
-Кем представляется _________________________________________________
+Кем представляется _________________________________
 
-(наименование и адрес)
+(наименование, адрес)
 
 ## Форма 30
 
 годовая
 
-## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+> *Сноска. Форма 30 в редакции приказа Министра здравоохранения РК от 28.09.2012 № 663 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
+
+## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом
+
+Республики Казахстан "О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -55225,27 +68264,25 @@ Z30.3
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
 Представляют:
-1. Медицинские организации района (города) - главному
-врачу района (города) - 5 января;
-2. Главные врачи района (города), областные медицинские
-организации - местному органу государственного
-управления здравоохранением - 10 января;
-3. Местные органы государственного управления
-здравоохранением - департаменту статистики области, гг.
-Астаны и Алматы и в Министерство здравоохранения
-Республики Казахстан - 10 февраля;
-4. Министерство здравоохранения Республики Казахстан -
-Агентство Республики Казахстан по статистике 1 апреля;
-</td>
-</tr>
-</table>
 
-## ОТЧЕТ МЕДИЦИНСКОЙ ОРГАНИЗАЦИИ 20 ___ год
+1. Медицинские организации района (города) - главному врачу
+
+   района (города) - 5 января;
+
+2. Главные врачи района (города), областные медицинские
+
+   организации - местному органу государственного управления
+
+   здравоохранением - 10 января;
+
+3. Местные органы государственного управления здравоохранением
+
+- в Министерство здравоохранения Республики Казахстан -
+
+10 февраля.
+
+## Отчет медицинской организации 20____ год
 
 1001 Отделения (кабинеты)
 
@@ -55290,11 +68327,7 @@ Z30.3
 <td>Подростковое</td>
 <td>01</td>
 <td></td>
-<td>
-Антиалкогольной
-пропаганды и
-профилактической помощи
-</td>
+<td>Антиалкогольной пропаганды и профилактической помощи</td>
 <td>39</td>
 <td></td>
 </tr>
@@ -55334,10 +68367,7 @@ Z30.3
 <td>Эндокринологическое</td>
 <td>06</td>
 <td></td>
-<td>
-Лечебной физкультуры
-для взрослых
-</td>
+<td>Лечебной физкультуры для взрослых</td>
 <td>44</td>
 <td></td>
 </tr>
@@ -55345,10 +68375,7 @@ Z30.3
 <td>Аллергологическое</td>
 <td>07</td>
 <td></td>
-<td>
-Лечебной физкультуры
-для детей
-</td>
+<td>Лечебной физкультуры для детей</td>
 <td>45</td>
 <td></td>
 </tr>
@@ -55364,19 +68391,12 @@ Z30.3
 <td>Инфекционное для детей</td>
 <td>09</td>
 <td></td>
-<td>
-Восстановительного
-лечения
-</td>
+<td>Восстановительного лечения</td>
 <td>47</td>
 <td></td>
 </tr>
 <tr>
-<td>
-Врачебного контроля за
-занимающимися
-физкультурой и спортом
-</td>
+<td>Врачебного контроля за занимающимися физкультурой и спортом</td>
 <td>10</td>
 <td></td>
 <td>Рентгенологическое</td>
@@ -55392,10 +68412,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>
-Травматологическое
-(ортопедическое)
-</td>
+<td>Травматологическое (ортопедическое)</td>
 <td>12</td>
 <td></td>
 <td>Флюорографическое</td>
@@ -55406,11 +68423,7 @@ Z30.3
 <td>Урологическое</td>
 <td>13</td>
 <td></td>
-<td>
-Электрокардиографии и
-функциональной
-диагностики
-</td>
+<td>Электрокардиографии и функциональной диагностики</td>
 <td>51</td>
 <td></td>
 </tr>
@@ -55418,18 +68431,12 @@ Z30.3
 <td>Онкологическое</td>
 <td>14</td>
 <td></td>
-<td>
-Дистанционно-
-диагностический
-</td>
+<td>Дистанционно-диагностический</td>
 <td>52</td>
 <td></td>
 </tr>
 <tr>
-<td>
-Радиологическое (лучевой
-терапии)
-</td>
+<td>Радиологическое (лучевой терапии)</td>
 <td>15</td>
 <td></td>
 <td>Эндоскопии</td>
@@ -55437,16 +68444,10 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>
-Стоматологическое
-(зубоврачебное)
-</td>
+<td>Стоматологическое (зубоврачебное)</td>
 <td>16</td>
 <td></td>
-<td>
-Ультразвуковой
-диагностики
-</td>
+<td>Ультразвуковой диагностики</td>
 <td>54</td>
 <td></td>
 </tr>
@@ -55462,18 +68463,12 @@ Z30.3
 <td>Ортодонтическое</td>
 <td>18</td>
 <td></td>
-<td>
-Гипербарической
-оксингенации
-</td>
+<td>Гипербарической оксингенации</td>
 <td>56</td>
 <td></td>
 </tr>
 <tr>
-<td>
-Акушерско-
-гинекологическое
-</td>
+<td>Акушерско-гинекологическое</td>
 <td>19</td>
 <td></td>
 <td>Гемодиализа</td>
@@ -55489,10 +68484,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>
-Консультация &quot;Брак и
-семья&quot;
-</td>
+<td>Консультация &quot;Брак и семья&quot;</td>
 <td>21</td>
 <td></td>
 <td>Патологоанатомическое</td>
@@ -55503,7 +68495,7 @@ Z30.3
 <td>По медицинской генетике</td>
 <td>22</td>
 <td></td>
-<td>Лаборатории:</td>
+<td>Лаборатории :</td>
 <td>60</td>
 <td>Х</td>
 </tr>
@@ -55511,11 +68503,13 @@ Z30.3
 <td>Педиатрическое</td>
 <td>23</td>
 <td></td>
-<td>
-радиоизотопной
-диагностики
-</td>
-<td>60.1</td>
+<td rowspan="2">радиоизотопной диагностики</td>
+<td rowspan="2">60.1</td>
+<td rowspan="2"></td>
+</tr>
+<tr>
+<td>Кабинет здорового ребенка</td>
+<td>23.1.</td>
 <td></td>
 </tr>
 <tr>
@@ -55527,7 +68521,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Прививочный</td>
+<td>Врач общей практики</td>
 <td>25</td>
 <td></td>
 <td>бактериологическая</td>
@@ -55535,7 +68529,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Офтальмологическое</td>
+<td>Прививочный</td>
 <td>26</td>
 <td></td>
 <td>серологическая</td>
@@ -55543,7 +68537,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Отоларингологическое</td>
+<td>Офтальмологическое</td>
 <td>27</td>
 <td></td>
 <td>биохимическая</td>
@@ -55551,7 +68545,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Сурдологическое</td>
+<td>Отоларингологическое</td>
 <td>28</td>
 <td></td>
 <td>цитологическая</td>
@@ -55559,7 +68553,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Фтизиатрическое</td>
+<td>Сурдологический</td>
 <td>29</td>
 <td></td>
 <td>Статистики</td>
@@ -55567,13 +68561,10 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Искусственного пневмоторакса</td>
+<td>Фтизиатрическое</td>
 <td>30</td>
 <td></td>
-<td>
-Отдел статистики в
-составе оргметодотдела
-</td>
+<td>Отдел статистики в составе оргметодотдела</td>
 <td>62</td>
 <td></td>
 </tr>
@@ -55594,16 +68585,10 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>
-Судебно-психиатрической
-экспертизы
-</td>
+<td>Судебно-психиатрической экспертизы</td>
 <td>33</td>
 <td></td>
-<td>
-Магнитно-резонансной
-томографии
-</td>
+<td>Магнитно-резонансной томографии</td>
 <td>65</td>
 <td></td>
 </tr>
@@ -55619,18 +68604,12 @@ Z30.3
 <td>Наркологическое</td>
 <td>35</td>
 <td></td>
-<td>
-Число врачебных
-участков
-</td>
+<td>Число врачебных участков</td>
 <td>67</td>
 <td>Х</td>
 </tr>
 <tr>
-<td>
-Детско-подростковые
-наркологические
-</td>
+<td>Детско-подростковые наркологические</td>
 <td>36</td>
 <td></td>
 <td>терапевтических</td>
@@ -55638,10 +68617,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>
-Анонимного лечения
-наркологических больных
-</td>
+<td>Анонимного лечения наркологических больных</td>
 <td>37</td>
 <td></td>
 <td>педиатрических</td>
@@ -55649,10 +68625,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>
-Экспертизы алкогольного
-опьянения
-</td>
+<td>Экспертизы алкогольного опьянения</td>
 <td>38</td>
 <td></td>
 <td>ВОП</td>
@@ -55661,9 +68634,9 @@ Z30.3
 </tr>
 </table>
 
-Примечание: строки 1-41и 46, 66, 67.1, 67.2, 67.3 заполняют только амбулаторно-поликлинические организации.
+Примечание: строки 1-41 и 46, 66, 67.1, 67.2, 67.3 заполняют только амбулаторно-поликлинические организации.
 
-1003 III. ПЕРЕДВИЖНЫЕ УСТАНОВКИ
+1003 III ПЕРЕДВИЖНЫЕ УСТАНОВКИ
 
 <table>
 <tr>
@@ -55677,7 +68650,7 @@ Z30.3
 <td>1</td>
 </tr>
 <tr>
-<td>Амбулатории</td>
+<td>Передвижные медицинские комплексы</td>
 <td>01</td>
 <td></td>
 </tr>
@@ -55692,7 +68665,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Клинико - диагностические лаборатории</td>
+<td>Клинико-диагностические лаборатории</td>
 <td>04</td>
 <td></td>
 </tr>
@@ -55703,10 +68676,7 @@ Z30.3
 <table>
 <tr>
 <td>Наименование</td>
-<td>
-№
-строки
-</td>
+<td>№ строки</td>
 <td>Всего</td>
 </tr>
 <tr>
@@ -55725,84 +68695,75 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Пункт сбора грудного молока</td>
+<td>Лечебно-трудовые мастерские</td>
 <td>03</td>
 <td></td>
 </tr>
 <tr>
-<td>Лечебно-трудовые мастерские</td>
-<td>04</td>
-<td></td>
-</tr>
-<tr>
 <td>для психических больных</td>
-<td>4.1</td>
+<td>3.1</td>
 <td></td>
 </tr>
 <tr>
 <td>для наркологических больных</td>
-<td>4.2</td>
-<td></td>
-</tr>
-<tr>
-<td>для больных туберкулезом</td>
-<td>4.3</td>
+<td>3.2</td>
 <td></td>
 </tr>
 <tr>
 <td>Наркологические фельдшерские пункты</td>
-<td>05</td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе при предприятиях
-промышленности сельского хозяйства,
-строительства
-</td>
-<td>5.1</td>
+<td>04</td>
 <td></td>
 </tr>
 </table>
 
-1006
+## 1006
 
-Число посещений травматологических пунктов всего 1 ____ # 1 ____, в
+Число травмпунктов 1 ________#1____
 
-том числе детьми до 14 лет включительно 2 ____ # 2 ______
+Число посещений травматологических пунктов
+
+всего 2____#2____, в том числе детьми до 14 лет включительно
+
+3____#3______
+
+Число посещений в ПМК, всего 1 ________#5_____,
+
+в том числе детей до 14 лет вкл.2____#6____
 
 1010 VII. МОЩНОСТЬ (число посещений в смену)
 
-Поликлиники (поликлинического отделения 1 ____ # 1 _____;
+Поликлиники (поликлинического отделения 1 ____#1_____; Детской
 
-Детской поликлиники 2 ____ # 2 ___; Женской консультации 3 ___ # 3 ____; Диспансерного отделения (больницы, диспансера) 4 ___ # 4 ____.
+поликлиники 2 ____#2___; Женской консультации 3 ___#3____;
 
-1100 I. ШТАТНЫЕ ДОЛЖНОСТИ ОРГАНИЗАЦИИ НА КОНЕЦ ОТЧЕТНОГО ГОДА
+Диспансерного отделения (больницы, диспансера) 4 ___#4____.
+
+## 1100 I. ШТАТНЫЕ ДОЛЖНОСТИ ОРГАНИЗАЦИИ НА КОНЕЦ ОТЧЕТНОГО ГОДА
 
 <table>
 <tr>
-<td rowspan="2">Наименование должности</td>
 <td rowspan="2">
-№
-строки
+Наименование
+должности
 </td>
+<td rowspan="2">№ строки</td>
 <td colspan="2">
 Число
-должностей в
-целом по
+должностей
+в целом по
 организации
 </td>
 <td colspan="2">
-в том числе в
-поликлинике
+в том числе
+в поликлинике
 (амбулатории),
 диспансере,
 консультации
 </td>
 <td colspan="2">
 Число физических лиц
-основных работников на
-занятых должностях
+основных работников
+на занятых должностях
 </td>
 </tr>
 <tr>
@@ -55811,8 +68772,9 @@ Z30.3
 <td>штатные</td>
 <td>занятые</td>
 <td>
-в целом по
-организации
+в целом
+по орга-
+низации
 </td>
 <td>
 из них в
@@ -55895,8 +68857,8 @@ Z30.3
 </tr>
 <tr>
 <td>
-из них: участковые
-терапевты
+из них:
+участковые терапевты
 </td>
 <td>5.1</td>
 <td></td>
@@ -55907,7 +68869,10 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>врачи цеховых участков</td>
+<td>
+врачи цеховых
+участков
+</td>
 <td>5.2</td>
 <td></td>
 <td></td>
@@ -55917,7 +68882,10 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>терапевты подростковые</td>
+<td>
+терапевты
+подростковые
+</td>
 <td>5.3</td>
 <td></td>
 <td></td>
@@ -56119,7 +69087,10 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>инфекционисты взрослые</td>
+<td>
+инфекционисты
+взрослые
+</td>
 <td>22</td>
 <td></td>
 <td></td>
@@ -56150,7 +69121,7 @@ Z30.3
 </tr>
 <tr>
 <td>
-Врачи реабилитологи,
+врачи реабилитологи,
 восстановительного
 лечения
 </td>
@@ -56177,7 +69148,10 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>физиотерапевты детские</td>
+<td>
+физиотерапевты
+детские
+</td>
 <td>24.2</td>
 <td></td>
 <td></td>
@@ -56210,7 +69184,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Спортивная медицина</td>
+<td>спортивная медицина</td>
 <td>25</td>
 <td></td>
 <td></td>
@@ -56220,7 +69194,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Профпатологи</td>
+<td>профпатологи</td>
 <td>26</td>
 <td></td>
 <td></td>
@@ -56231,7 +69205,7 @@ Z30.3
 </tr>
 <tr>
 <td>
-Врачи функциональной
+врачи функциональной
 диагностики
 </td>
 <td>27</td>
@@ -56243,7 +69217,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Токсикологи взрослые</td>
+<td>токсикологи взрослые</td>
 <td>28</td>
 <td></td>
 <td></td>
@@ -56253,7 +69227,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Токсикологи детские</td>
+<td>токсикологи детские</td>
 <td>29</td>
 <td></td>
 <td></td>
@@ -56263,7 +69237,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Хирурги, всего</td>
+<td>хирурги, всего</td>
 <td>30</td>
 <td></td>
 <td></td>
@@ -56316,7 +69290,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Хирурги детские</td>
+<td>хирурги детские</td>
 <td>31</td>
 <td></td>
 <td></td>
@@ -56326,7 +69300,10 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Кардиохирурги взрослые</td>
+<td>
+кардиохирурги
+взрослые
+</td>
 <td>32</td>
 <td></td>
 <td></td>
@@ -56336,7 +69313,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Кардиохирурги детские</td>
+<td>кардиохирурги детские</td>
 <td>33</td>
 <td></td>
 <td></td>
@@ -56346,7 +69323,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Ангиохирурги взрослые</td>
+<td>ангиохирурги взрослые</td>
 <td>34</td>
 <td></td>
 <td></td>
@@ -56356,7 +69333,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Ангиохирурги детские</td>
+<td>ангиохирурги детские</td>
 <td>35</td>
 <td></td>
 <td></td>
@@ -56367,7 +69344,7 @@ Z30.3
 </tr>
 <tr>
 <td>
-Травматологи-ортопеды
+травматологи-ортопеды
 взрослые
 </td>
 <td>36</td>
@@ -56393,7 +69370,7 @@ Z30.3
 </tr>
 <tr>
 <td>
-Травматологи-ортопеды
+травматологи-ортопеды
 детские
 </td>
 <td>37</td>
@@ -56418,7 +69395,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Урологи взрослые</td>
+<td>урологи взрослые</td>
 <td>38</td>
 <td></td>
 <td></td>
@@ -56438,7 +69415,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Урологи детские</td>
+<td>урологи детские</td>
 <td>39</td>
 <td></td>
 <td></td>
@@ -56448,7 +69425,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Нейрохирурги взрослые</td>
+<td>нейрохирурги взрослые</td>
 <td>40</td>
 <td></td>
 <td></td>
@@ -56458,7 +69435,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Нейрохирурги детские</td>
+<td>нейрохирурги детские</td>
 <td>41</td>
 <td></td>
 <td></td>
@@ -56469,8 +69446,8 @@ Z30.3
 </tr>
 <tr>
 <td>
-Анестезиологи-
-реаниматологи взрослые
+анестезиологи-реани-
+матологи взрослые
 </td>
 <td>42</td>
 <td></td>
@@ -56482,8 +69459,8 @@ Z30.3
 </tr>
 <tr>
 <td>
-Анестезиологи-
-реаниматологи детские
+анестезиологи-реани-
+матологи детские
 </td>
 <td>43</td>
 <td></td>
@@ -56494,7 +69471,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Пластические хирурги</td>
+<td>пластические хирурги</td>
 <td>44</td>
 <td></td>
 <td></td>
@@ -56504,7 +69481,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Эндоскописты взрослые</td>
+<td>эндоскописты взрослые</td>
 <td>45</td>
 <td></td>
 <td></td>
@@ -56514,7 +69491,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Эндоскописты детские</td>
+<td>эндоскописты детские</td>
 <td>46</td>
 <td></td>
 <td></td>
@@ -56524,7 +69501,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Онкологи взрослые</td>
+<td>онкологи взрослые</td>
 <td>47</td>
 <td></td>
 <td></td>
@@ -56544,7 +69521,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Онкологи детские</td>
+<td>онкологи детские</td>
 <td>48</td>
 <td></td>
 <td></td>
@@ -56555,8 +69532,8 @@ Z30.3
 </tr>
 <tr>
 <td>
-Радиологи (лучевая
-терапия)
+радиологи
+(лучевая терапия)
 </td>
 <td>49</td>
 <td></td>
@@ -56567,7 +69544,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Стоматологи взрослые</td>
+<td>стоматологи взрослые</td>
 <td>50</td>
 <td></td>
 <td></td>
@@ -56577,7 +69554,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Стоматологи детские</td>
+<td>стоматологи детские</td>
 <td>51</td>
 <td></td>
 <td></td>
@@ -56588,7 +69565,7 @@ Z30.3
 </tr>
 <tr>
 <td>
-Челюстно-лицевые
+челюстно-лицевые
 хирурги взрослые
 </td>
 <td>52</td>
@@ -56601,7 +69578,7 @@ Z30.3
 </tr>
 <tr>
 <td>
-Челюстно-лицевые
+челюстно-лицевые
 хирурги детские
 </td>
 <td>53</td>
@@ -56613,7 +69590,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Трансфузиологи</td>
+<td>трансфузиологи</td>
 <td>54</td>
 <td></td>
 <td></td>
@@ -56623,7 +69600,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Перфузиологи</td>
+<td>перфузиологи</td>
 <td>55</td>
 <td></td>
 <td></td>
@@ -56633,7 +69610,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Акушеры-гинекологи</td>
+<td>акушеры-гинекологи</td>
 <td>56</td>
 <td></td>
 <td></td>
@@ -56657,7 +69634,7 @@ Z30.3
 </tr>
 <tr>
 <td>
-Педиатры (в.т.ч.
+педиатры (в.т.ч.
 скорая и неотложная
 мед. помощь)
 </td>
@@ -56683,7 +69660,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Неонатологи</td>
+<td>неонатологи</td>
 <td>58</td>
 <td></td>
 <td></td>
@@ -56693,7 +69670,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Офтальмологи взрослые</td>
+<td>офтальмологи взрослые</td>
 <td>59</td>
 <td></td>
 <td></td>
@@ -56703,11 +69680,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">
-Офтальмологи детские
-Отоларингологи
-взрослые
-</td>
+<td>офтальмологи детские</td>
 <td>60</td>
 <td></td>
 <td></td>
@@ -56717,6 +69690,10 @@ Z30.3
 <td></td>
 </tr>
 <tr>
+<td>
+отоларингологи
+взрослые
+</td>
 <td>61</td>
 <td></td>
 <td></td>
@@ -56726,7 +69703,10 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Отоларингологи детские</td>
+<td>
+отоларингологи
+детские
+</td>
 <td>62</td>
 <td></td>
 <td></td>
@@ -56736,7 +69716,17 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Фтизиатры взрослые</td>
+<td>из них: сурдологи</td>
+<td>62.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>фтизиатры взрослые</td>
 <td>63</td>
 <td></td>
 <td></td>
@@ -56746,7 +69736,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Фтизиатры детские</td>
+<td>фтизиатры детские</td>
 <td>64</td>
 <td></td>
 <td></td>
@@ -56756,7 +69746,10 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Невропатологи взрослые</td>
+<td>
+невропатологи
+взрослые
+</td>
 <td>65</td>
 <td></td>
 <td></td>
@@ -56766,7 +69759,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Невропатологи детские</td>
+<td>невропатологи детские</td>
 <td>66</td>
 <td></td>
 <td></td>
@@ -56777,7 +69770,8 @@ Z30.3
 </tr>
 <tr>
 <td>
-Врачи психиатрического
+врачи
+психиатрического
 профиля, взрослые
 </td>
 <td>67</td>
@@ -56830,9 +69824,8 @@ Z30.3
 </tr>
 <tr>
 <td>
-судебно-
-психиатрические
-эксперты
+судебно-психиатричес-
+кие эксперты
 </td>
 <td>67.5</td>
 <td></td>
@@ -56844,9 +69837,8 @@ Z30.3
 </tr>
 <tr>
 <td>
-судебно-
-наркологические
-эксперты
+судебно-наркологичес-
+кие эксперты
 </td>
 <td>67.6</td>
 <td></td>
@@ -56868,7 +69860,8 @@ Z30.3
 </tr>
 <tr>
 <td>
-Врачи психиатрического
+врачи
+психиатрического
 профиля, детские
 </td>
 <td>68</td>
@@ -56881,7 +69874,8 @@ Z30.3
 </tr>
 <tr>
 <td>
-из них: психотерапевты
+из них:
+психотерапевты
 детские
 </td>
 <td>68.1</td>
@@ -56955,7 +69949,7 @@ Z30.3
 </tr>
 <tr>
 <td>
-Дерматовенерологи
+дерматовенерологи
 взрослые
 </td>
 <td>69</td>
@@ -56968,7 +69962,7 @@ Z30.3
 </tr>
 <tr>
 <td>
-Дерматовенерологи
+дерматовенерологи
 детские
 </td>
 <td>70</td>
@@ -56980,7 +69974,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Дерматокосметологи</td>
+<td>дерматокосметологи</td>
 <td>71</td>
 <td></td>
 <td></td>
@@ -56991,7 +69985,7 @@ Z30.3
 </tr>
 <tr>
 <td>
-Патологоанатомы
+патологоанатомы
 взрослые
 </td>
 <td>72</td>
@@ -57004,7 +69998,7 @@ Z30.3
 </tr>
 <tr>
 <td>
-Патологоанатомы
+патологоанатомы
 детские
 </td>
 <td>73</td>
@@ -57017,8 +70011,8 @@ Z30.3
 </tr>
 <tr>
 <td>
-Врачи эпидемиологи и
-гигиенисты
+врачи эпидемиологи
+и гигиенисты
 </td>
 <td>74</td>
 <td></td>
@@ -57069,7 +70063,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Врачи-лаборанты</td>
+<td>врачи-лаборанты</td>
 <td>75</td>
 <td></td>
 <td></td>
@@ -57092,7 +70086,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Генетики</td>
+<td>генетики</td>
 <td>76</td>
 <td></td>
 <td></td>
@@ -57103,7 +70097,7 @@ Z30.3
 </tr>
 <tr>
 <td>
-Врачи общественного
+врачи общественного
 здравоохранения
 </td>
 <td>77</td>
@@ -57155,7 +70149,7 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>Геронтологи</td>
+<td>геронтологи</td>
 <td>78</td>
 <td></td>
 <td></td>
@@ -57166,7 +70160,7 @@ Z30.3
 </tr>
 <tr>
 <td>
-Врачи лучевой
+врачи лучевой
 диагностики
 </td>
 <td>79</td>
@@ -57179,7 +70173,8 @@ Z30.3
 </tr>
 <tr>
 <td>
-из них: ультразвуковой
+из них:
+ультразвуковой
 диагностики
 </td>
 <td>79.1</td>
@@ -57229,7 +70224,7 @@ Z30.3
 </tr>
 <tr>
 <td>
-Врачи общей практики /
+врачи общей практики/
 семейные врачи
 </td>
 <td>80</td>
@@ -57242,7 +70237,7 @@ Z30.3
 </tr>
 <tr>
 <td>
-Врачи традиционной
+врачи традиционной
 терапии
 </td>
 <td>81</td>
@@ -57255,7 +70250,7 @@ Z30.3
 </tr>
 <tr>
 <td>
-Врачи - клинические
+врачи - клинические
 фармацевты
 </td>
 <td>82</td>
@@ -57282,8 +70277,31 @@ Z30.3
 </tr>
 <tr>
 <td>
-Средний медперсонал,
-всего
+из них: социальные
+работники
+</td>
+<td>83.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>психологи</td>
+<td>83.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Средний
+медперсонал, всего
 </td>
 <td>84</td>
 <td></td>
@@ -57309,22 +70327,9 @@ Z30.3
 <tr>
 <td>
 медицинские сестры
-специализированные
-</td>
-<td>86</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-медицинские сестры
 участковые
 </td>
-<td>87</td>
+<td>86</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57338,7 +70343,7 @@ Z30.3
 терапевтических
 участков
 </td>
-<td>87.1</td>
+<td>86.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57351,7 +70356,7 @@ Z30.3
 педиатрических
 участков
 </td>
-<td>87.2</td>
+<td>86.2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57364,7 +70369,7 @@ Z30.3
 медицинские сестры
 общей практики
 </td>
-<td>88</td>
+<td>87</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57377,6 +70382,19 @@ Z30.3
 медицинские сестры по
 ЗОЖ
 </td>
+<td>88</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+медицинские
+статистики
+</td>
 <td>89</td>
 <td></td>
 <td></td>
@@ -57386,18 +70404,8 @@ Z30.3
 <td></td>
 </tr>
 <tr>
-<td>медицинские статистики</td>
-<td>90</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>акушерки</td>
-<td>91</td>
+<td>90</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57410,7 +70418,7 @@ Z30.3
 акушерки общей
 практики
 </td>
-<td>92</td>
+<td>91</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57420,7 +70428,7 @@ Z30.3
 </tr>
 <tr>
 <td>фельдшера</td>
-<td>93</td>
+<td>92</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57433,7 +70441,7 @@ Z30.3
 фельдшера общей
 практики
 </td>
-<td>94</td>
+<td>93</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57443,7 +70451,7 @@ Z30.3
 </tr>
 <tr>
 <td>рентгенлаборанты</td>
-<td>95</td>
+<td>94</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57453,7 +70461,7 @@ Z30.3
 </tr>
 <tr>
 <td>зубные врачи</td>
-<td>96</td>
+<td>95</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57463,7 +70471,7 @@ Z30.3
 </tr>
 <tr>
 <td>зубные техники</td>
-<td>97</td>
+<td>96</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57476,7 +70484,7 @@ Z30.3
 лаборанты клинических
 лабораторий
 </td>
-<td>98</td>
+<td>97</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57486,7 +70494,7 @@ Z30.3
 </tr>
 <tr>
 <td>лаборанты-гистологи</td>
-<td>99</td>
+<td>98</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57496,7 +70504,7 @@ Z30.3
 </tr>
 <tr>
 <td>прочий медперсонал</td>
-<td>100</td>
+<td>99</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57506,7 +70514,7 @@ Z30.3
 </tr>
 <tr>
 <td>Провизоры</td>
-<td>101</td>
+<td>100</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57516,7 +70524,7 @@ Z30.3
 </tr>
 <tr>
 <td>Фармацевты</td>
-<td>102</td>
+<td>101</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57526,7 +70534,7 @@ Z30.3
 </tr>
 <tr>
 <td>Младший медперсонал</td>
-<td>103</td>
+<td>102</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57539,7 +70547,20 @@ Z30.3
 Прочий немедицинский
 персонал
 </td>
-<td>104</td>
+<td>103</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: социальные
+работники
+</td>
+<td>103.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57549,7 +70570,7 @@ Z30.3
 </tr>
 <tr>
 <td>Всего должностей</td>
-<td>105</td>
+<td>104</td>
 <td></td>
 <td></td>
 <td></td>
@@ -57563,11 +70584,82 @@ Z30.3
 
 образованием - основных работников, занимающих должности врачей -
 
-лаборантов 1 ____ # 1 ____, врачей - статистиков 2 ____ # 2 ____, по
+лаборантов 1____#1____, врачей - статистиков 2____#2____, по лечебной
 
-лечебной физкультуре 3 ___ # 3 ____, психологи 4 ___ # 4 ____,
+физкультуре 3___#3____, психологи 4___#4____
 
-социальные работники 5 ___ # 5 _____
+## 1104 Штатные должности организаций на хозрасчете
+
+<table>
+<tr>
+<td rowspan="2">Наименование должности</td>
+<td rowspan="2">
+№
+строки
+</td>
+<td colspan="2">Число должностей в целом по организации</td>
+<td rowspan="2">Число физических лиц на занятых должностях</td>
+</tr>
+<tr>
+<td>штатные</td>
+<td>занятые</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
+<td>Врачи</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Специалисты с высшим
+немедицинским образованием
+</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Провизоры</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Фармацевты</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Средние медицинские
+работники
+</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Прочие</td>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 ## 2100 Раздел II. ДЕЯТЕЛЬНОСТЬ ПОЛИКЛИНИКИ (АМБУЛАТОРИЙ), ДИСПАНСЕРА, КОНСУЛЬТАЦИИ
 
@@ -57576,42 +70668,41 @@ Z30.3
 <table>
 <tr>
 <td rowspan="3">Наименование</td>
-<td rowspan="3">
-№
-строки
-</td>
-<td colspan="2" rowspan="2">
+<td rowspan="3">№ строки</td>
+<td rowspan="2">
 число
 посещений
 врачей,
 включая
-профилакти-
-ческие
+профилактические
 </td>
 <td colspan="2" rowspan="2">
-Из общего числа
+Из общего
+числа
 посещений
-сделано по
-поводу
+сделано
+по поводу
 заболеваний
 пациентами в
 возрасте от
 </td>
-<td colspan="3">Число посещений врачами на дому</td>
+<td colspan="3">
+Число посещений
+врачами на дому
+</td>
 </tr>
 <tr>
 <td rowspan="2">всего</td>
 <td colspan="2">
-в том числе детьми до
-14 лет включительно
+в том числе
+детьми до 14 лет
+включительно
 </td>
 </tr>
 <tr>
-<td>всего</td>
 <td>
 в том
-числе
-детей
+числе детей
 </td>
 <td>
 15 лет
@@ -57619,20 +70710,20 @@ Z30.3
 старше
 </td>
 <td>
-0-14 лет
+0-14
+лет
 включит.
 </td>
 <td>всего</td>
 <td>
-из них по
-поводу
+из них
+по поводу
 заболеваний
 </td>
 </tr>
 <tr>
 <th>А</th>
 <th>Б</th>
-<th>1</th>
 <th>2</th>
 <th>3</th>
 <th>4</th>
@@ -57643,7 +70734,6 @@ Z30.3
 <tr>
 <td>Всего</td>
 <td>01</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57663,12 +70753,10 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>терапевты</td>
 <td>03</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57688,7 +70776,6 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>
@@ -57696,7 +70783,6 @@ Z30.3
 подростковые
 </td>
 <td>05</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57713,12 +70799,10 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>кардиологи</td>
 <td>07</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57735,12 +70819,10 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>гастроэнтерологи</td>
 <td>09</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57757,12 +70839,10 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>эндокринологи</td>
 <td>11</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57782,12 +70862,10 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>гематологи</td>
 <td>13</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57809,12 +70887,10 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>профпатологи</td>
 <td>15</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57831,7 +70907,6 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>ангиохирурги</td>
@@ -57842,12 +70917,10 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>проктологи</td>
 <td>18</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57867,12 +70940,10 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>урологи</td>
 <td>20</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57889,12 +70960,10 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>онкологи</td>
 <td>22</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57911,12 +70980,10 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>радиологи</td>
 <td>24</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57933,12 +71000,13 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td>стоматологи</td>
+<td>
+челюстно-лицевой
+хирург
+</td>
 <td>26</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57955,7 +71023,6 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>педиатры</td>
@@ -57966,15 +71033,13 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>
-из них:участковые
+из них: участковые
 педиатры
 </td>
 <td>29</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57991,12 +71056,20 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>отоларингологи</td>
 <td>31</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: сурдологи</td>
+<td>31.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -58013,12 +71086,10 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>невропатологи</td>
 <td>33</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -58035,7 +71106,6 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>психотерапевты</td>
@@ -58046,12 +71116,10 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>наркологи</td>
 <td>36</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -58071,12 +71139,10 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>дерматовенерологи</td>
 <td>38</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -58093,7 +71159,6 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>инфекционисты</td>
@@ -58104,16 +71169,14 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>
 врачи общей
-практики /
-семейные врачи
+практики/семейные
+врачи
 </td>
 <td>41</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -58127,7 +71190,6 @@ Z30.3
 диагностики
 </td>
 <td>42</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -58148,7 +71210,6 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>
@@ -58156,7 +71217,6 @@ Z30.3
 терапии
 </td>
 <td>44</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -58173,11 +71233,10 @@ Z30.3
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 </table>
 
-2102 Число посещений врачей иногородними 1 ______ # 1 _________, иностранцами 2 ____ # 2 ____
+2104 Число посещений в хозрасчетных отделениях 1______# 1________
 
 2103 ВЫДАНО ДАННОЙ ОРГАНИЗАЦИЕЙ ПО ПОВОДУ СМЕРТИ НА ДОМУ
 
@@ -58193,19 +71252,16 @@ Z30.3
 <td colspan="8">Выдано врачебных свидетельств о смерти</td>
 </tr>
 <tr>
-<td rowspan="2">Всего</td>
 <td rowspan="2">
-Детям в
-возрасте
-до 1
-года
+В
+с
+е
+г
+о
 </td>
+<td rowspan="2">Детям в возрасте до 1 года</td>
 <td colspan="3">из них:</td>
-<td rowspan="2">
-Беременным,
-роженицам и
-родильницам
-</td>
+<td rowspan="2">Беременным, роженицам и родильницам</td>
 <td colspan="2">из них:</td>
 </tr>
 <tr>
@@ -58219,16 +71275,17 @@ Z30.3
 </td>
 <td>
 от 28
-дней до
-1 года
+дней
+до 1
+года
 </td>
 <td>
-до 42
+До
+42
 дней
 </td>
 <td>
-с 43
-до 365
+с 43 до 365
 дней
 </td>
 </tr>
@@ -58273,54 +71330,6 @@ Z30.3
 <td>Х</td>
 <td>Х</td>
 </tr>
-<tr>
-<td>500- 999 г</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1000-1499 г</td>
-<td>03</td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-</tr>
-<tr>
-<td>1500-2499 г</td>
-<td>04</td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-</tr>
-<tr>
-<td>2500 г. и более</td>
-<td>05</td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-</tr>
 </table>
 
 2400 РОДОВСПОЖЕНИЕ НА ДОМУ
@@ -58340,7 +71349,10 @@ Z30.3
 всего
 </td>
 <td colspan="3">из них умерло в возрасте</td>
-<td colspan="2">Родилось мертвыми</td>
+<td colspan="2">
+Родилось
+мертвыми
+</td>
 </tr>
 <tr>
 <td>
@@ -58352,8 +71364,9 @@ Z30.3
 суток
 </td>
 <td>
-от 28 дней
-до 1 год
+от 28
+дней до
+1 год
 </td>
 <td>антенат.</td>
 <td>интранат.</td>
@@ -58378,99 +71391,21 @@ Z30.3
 <td></td>
 <td></td>
 </tr>
-<tr>
-<td>
-из них с весом
-при рождении
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>500-999 г</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1000-1499 г</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1500-2499 г</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2500 г. и более</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из общего числа
-родившихся -
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>недоношенными</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
 
-2401 Число родов на дому, всего 1 __ # 1 ____, из них без последующей
+2401 Число родов на дому, всего 1 __#1____, из них без последующей
 
-госпитализации родильниц 2 ___ # 2 ___;
+госпитализации родильниц 2___#2___;
 
 из общего числа родившихся без последующей госпитализации родильниц:
 
-родилось-живыми 3 __ # 3 __,в том числе недоношенными 4 ___ # 4 ____,
+родилось - живыми 3__#3__, в том числе недоношенными 4___#4____,
 
-из них умерло в возрасте 0-6 суток 5__#5__;родилось мертвыми 6 __ #
+из них умерло в возрасте 0-6 суток 5__#5__;родилось мертвыми
 
-6 __;в т.ч.недоношенными 7 __ # 7 __,вакцинировано против туберкулеза
+6__#6__; в т.ч. недоношенными 7 __#7__, вакцинировано против туберкулеза 8__#8_;
 
-8 __ # 8 _;
-
-2510 ПРОФИЛАКТИЧЕСКИЕ ОСМОТРЫ, ПРОВЕДЕННЫЕ ДАННОЙ ОРГАНИЗАЦИЕЙ
+2510 СКРИНИНГОВЫЕ ОСМОТРЫ, ПРОВЕДЕННЫЕ ДАННОЙ ОРГАНИЗАЦИЕЙ
 
 <table>
 <tr>
@@ -58479,7 +71414,10 @@ Z30.3
 №
 строки
 </td>
-<td>Подлежало осмотрам</td>
+<td>
+Подлежало
+осмотрам
+</td>
 <td>Осмотрено</td>
 <td>
 Выявлено
@@ -58495,8 +71433,8 @@ Z30.3
 </tr>
 <tr>
 <td>
-Всего детей от 0 -17 лет
-включительно
+Всего детей от 0 -17
+лет включительно
 </td>
 <td>01</td>
 <td></td>
@@ -58505,8 +71443,9 @@ Z30.3
 </tr>
 <tr>
 <td>
-из них детей в возрасте
-15-17 лет включительно
+из них детей в
+возрасте 15-17 лет
+включительно
 </td>
 <td>1.1</td>
 <td></td>
@@ -58515,9 +71454,10 @@ Z30.3
 </tr>
 <tr>
 <td>
-Профилактические осмотры:
-на выявление болезней
-системы кровообращения
+Профилактические
+осмотры: на выявление
+болезней системы
+кровообращения
 </td>
 <td>02</td>
 <td></td>
@@ -58527,8 +71467,9 @@ Z30.3
 <tr>
 <td>
 на выявление
-предопухолевых состояний
-и рака шейки матки
+предопухолевых
+состояний и рака шейки
+матки
 </td>
 <td>03</td>
 <td></td>
@@ -58538,8 +71479,9 @@ Z30.3
 <tr>
 <td>
 на выявление
-предопухолевых состояний
-и рака молочной железы
+предопухолевых
+состояний и рака
+молочной железы
 </td>
 <td>04</td>
 <td></td>
@@ -58575,19 +71517,29 @@ Z30.3
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td>
+на выявление рака
+простаты
+</td>
+<td>08</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
 
-2512 Осмотрено с целью выявления больных туберкулезом: всего 1 __ # 1
+2512 Осмотрено с целью выявления больных туберкулезом:
 
-___, из них детям до 14 лет вкл. Манту 2 ___ # 2 ___ 2513 Обследовано
+всего 1__#1___, из них детям до 14 лет вкл. Манту 2___#2___
 
-с целью выявления больных сифилисом - всего 1 ___ # 1 ___, в том
+2513 Обследовано с целью выявления больных сифилисом - всего
 
-числе с использованием микрореакции преципитации 2 ___ # 2 ___, с
+1___#1___, в том числе с использованием микрореакции преципитации
 
-использованием комплекса серологических реакций РСК (реакция
+2___#2___, с использованием комплекса серологических реакций РСК
 
-Вассермана) 3 ___ # 3 ___
+(реакция Вассермана) 3___#3___
 
 2610 ПРИМЕНЕНИЕ КОНТРАЦЕПЦИИ
 
@@ -58598,53 +71550,32 @@ ___, из них детям до 14 лет вкл. Манту 2 ___ # 2 ___ 2513
 №
 строки
 </td>
-<td colspan="4">
-Число женщин, использующих
-контрацепцию
-</td>
-<td rowspan="3">
-инъек-
-ционные
-</td>
-<td rowspan="3">
-Спер-
-мициды
-</td>
-<td rowspan="3">
-Барьер-
-ные
-всего
-</td>
-<td rowspan="3">
-в том
-числе
-презер-вативы
-</td>
+<td colspan="8">Число женщин, использующих контрацепцию</td>
 </tr>
 <tr>
-<td>Всего</td>
-<td>
-Внутри-
-маточные
+<td rowspan="2">Всего</td>
+<td rowspan="2">
+Внутриматочные
 средства
 </td>
-<td>
-Гормо-
-нальные
+<td rowspan="2">
+Гормональные
 средства
 </td>
-<td>
+<td colspan="2">
 в том
 числе:
 </td>
+<td rowspan="2">Спермициды</td>
+<td colspan="2">Барьерные</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td>оральные</td>
+<td>инъекционные</td>
+<td>всего</td>
 <td>
-ора-
-льные
+в том числе
+презервативы
 </td>
 </tr>
 <tr>
@@ -58661,12 +71592,10 @@ ___, из них детям до 14 лет вкл. Манту 2 ___ # 2 ___ 2513
 </tr>
 <tr>
 <td>
-Охвачено
-контрацепцией в
-отчетном году (в
-амбулаторных
-условиях и в
-стационаре)
+Охвачено контрацепцией
+в отчетном году
+(в амбулаторных
+условиях и в стационаре).......
 </td>
 <td>01</td>
 <td></td>
@@ -58680,8 +71609,7 @@ ___, из них детям до 14 лет вкл. Манту 2 ___ # 2 ___ 2513
 </tr>
 <tr>
 <td>
-в том числе
-охвачено
+в том числе охвачено
 контрацепцией после
 аборта
 </td>
@@ -58710,8 +71638,8 @@ ___, из них детям до 14 лет вкл. Манту 2 ___ # 2 ___ 2513
 <tr>
 <td>
 Состоит под
-наблюдением
-на конец года
+наблюдением на конец
+года.......
 </td>
 <td>02</td>
 <td></td>
@@ -58724,7 +71652,7 @@ ___, из них детям до 14 лет вкл. Манту 2 ___ # 2 ___ 2513
 <td></td>
 </tr>
 <tr>
-<td>Осложнения- всего</td>
+<td>Осложнения- всего....</td>
 <td>03</td>
 <td></td>
 <td></td>
@@ -58737,10 +71665,9 @@ ___, из них детям до 14 лет вкл. Манту 2 ___ # 2 ___ 2513
 </tr>
 <tr>
 <td>
-из них:
-воспалительные
+из них: воспалительные
 болезни женских
-половых органов
+половых органов......
 </td>
 <td>3.1.</td>
 <td></td>
@@ -58754,9 +71681,9 @@ ___, из них детям до 14 лет вкл. Манту 2 ___ # 2 ___ 2513
 </tr>
 <tr>
 <td>
-невоспалительные
+Невоспалительные
 болезни женских
-половых органов
+половых органов.....
 </td>
 <td>3.2.</td>
 <td></td>
@@ -58769,7 +71696,7 @@ ___, из них детям до 14 лет вкл. Манту 2 ___ # 2 ___ 2513
 <td></td>
 </tr>
 <tr>
-<td>прочие</td>
+<td>прочие.......</td>
 <td>3.3.</td>
 <td></td>
 <td></td>
@@ -58787,100 +71714,42 @@ ___, из них детям до 14 лет вкл. Манту 2 ___ # 2 ___ 2513
 <table>
 <tr>
 <td rowspan="2">Наименование</td>
-<td rowspan="2">№ строки</td>
-<td colspan="2">Число посещений стоматологов и зубных врачей</td>
-<td rowspan="2">Всего санировано в порядке плановой санации и по обращению</td>
-<td colspan="3">Профилактическая работа</td>
-</tr>
-<tr>
-<td>всего</td>
-<td>в том числе первичных*)</td>
-<td>осмотрено в порядке плановой санации</td>
-<td>Из числа осмотренных нуждалось в санации</td>
-<td>Санировано из числа выявленных при плановой санации</td>
-</tr>
-<tr>
-<th>А</th>
-<th>Б</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td>Всего</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе: дети до 14 лет включительно</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>сельские жители</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них дети до 14 лет включительно</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-2700 РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОВРАЧЕБНОГО КАБИНЕТА)
-
-<table>
-<tr>
-<td rowspan="2">Наименование</td>
 <td rowspan="2">
 №
-строки
+стро-
+ки
 </td>
 <td colspan="2">
-Число посещений
-стоматологов и
-зубных врачей
+Число
+посещений
+стоматологов
+и зубных
+врачей
 </td>
 <td rowspan="2">
 Всего
 санировано
 в порядке
 плановой
-санации и
-по
+санации
+и по
 обращению
 </td>
 <td colspan="3">Профилактическая работа</td>
 </tr>
 <tr>
-<td>всего</td>
 <td>
-в том числе
-первичных *)
+в
+с
+е
+г
+о
+</td>
+<td>
+в том
+числе
+перви-
+чных *)
 </td>
 <td>
 осмотрено
@@ -58890,15 +71759,19 @@ ___, из них детям до 14 лет вкл. Манту 2 ___ # 2 ___ 2513
 </td>
 <td>
 Из числа
-осмотренных
-нуждалось в
+осмо-
+тренных
+нужда-
+лось в
 санации
 </td>
 <td>
-Санировано из
+Саниро-
+вано из
 числа
-выявленных
-при плановой
+выявлен-
+ных при
+плановой
 санации
 </td>
 </tr>
@@ -58913,7 +71786,7 @@ ___, из них детям до 14 лет вкл. Манту 2 ___ # 2 ___ 2513
 <th>6</th>
 </tr>
 <tr>
-<td>Всего</td>
+<td>Всего.......</td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -58926,7 +71799,7 @@ ___, из них детям до 14 лет вкл. Манту 2 ___ # 2 ___ 2513
 <td>
 в том числе:
 дети до 14 лет
-включительно..
+включительно.
 </td>
 <td>02</td>
 <td></td>
@@ -58948,8 +71821,7 @@ ___, из них детям до 14 лет вкл. Манту 2 ___ # 2 ___ 2513
 </tr>
 <tr>
 <td>
-из них дети до
-14 лет
+из них дети до 14 лет
 включительно
 </td>
 <td>04</td>
@@ -58966,28 +71838,31 @@ ___, из них детям до 14 лет вкл. Манту 2 ___ # 2 ___ 2513
 
 в отчетном году независимо от характера обращения
 
-2701 Число лиц, получивших зубные протезы - всего 1 ____ # 1 _____,
+2701 Число лиц, получивших зубные протезы - всего 1 ____#1_____,
 
-из них сельских жителей 2 ___ # 2 ____ Изготовлено одиночных коронок
+из них сельских жителей 2___#2____
 
-3 ___ # 3 ____, мостовидных протезов 4 ___ # 4 _____, в них коронок 5
+Изготовлено одиночных коронок 3___#3____, мостовидных протезов
 
-____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
+4___#4_____, в них коронок 5____#5____,
 
-металлокерамики и фарфора 7 ___ # 7 ____.
+съемных протезов 6___#6____, единиц металлокерамики и фарфора
 
-2702 Число лиц, получивших ортодонтическое лечение - всего 1 ___ # 1 ____, из них детей 2 ___ # 2 ____
+7___#7____.
 
-2800 ХИРУРГИЧЕСКАЯ РАБОТА АМБУЛАТОРНО-ПОЛИКЛИНИЧЕСКИХ
+2702 Число лиц, получивших ортодонтическое лечение - всего
 
-ОРГАНИЗАЦИЙ (ПОДРАЗДЕЛЕНИЯ)
+1___#1____, из них детей 2___#2____
+
+2800 ХИРУРГИЧЕСКАЯ РАБОТА АМБУЛАТОРНО-ПОЛИКЛИНИЧЕСКИХ ОРГАНИЗАЦИЙ (ПОДРАЗДЕЛЕНИЯ)
 
 <table>
 <tr>
-<td>Н а з в а н и е о п е р а ц и й</td>
+<td>Название операций</td>
 <td>№</td>
 <td>
-Число проведенных операций в
+Число проведенных
+операций в
 амбулаторно-поликлинической
 организации (подразделении)
 </td>
@@ -59003,7 +71878,7 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td></td>
 </tr>
 <tr>
-<td>в том числе : операции на органе зрения</td>
+<td>в том числе: операции на органе зрения</td>
 <td>02</td>
 <td></td>
 </tr>
@@ -59033,7 +71908,10 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td></td>
 </tr>
 <tr>
-<td>из них грыжесечение при неущемленной грыже</td>
+<td>
+из них грыжесечение при неущемленной
+грыже
+</td>
 <td>5.1.</td>
 <td></td>
 </tr>
@@ -59077,1459 +71955,69 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 </tr>
 </table>
 
-2801 Оперировано больных 1 ___ # 1 ____ из них детей до 14 лет
+2801 Оперировано больных 1___#1____ из них детей до 14 лет
 
-включительно 2 _____ # 2 _____.
-
-## 3100 Раздел III. ДЕЯТЕЛЬНОСТЬ СТАЦИОНАРА КОЕЧНЫЙ ФОНД И ЕГО ИСПОЛЬЗОВАНИЕ
-
-<table>
-<tr>
-<td rowspan="3"></td>
-<td rowspan="3">
-№
-строки
-</td>
-<td colspan="2">Число коек</td>
-<td colspan="3">
-Поступило
-больных
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-на конец
-года
-</td>
-<td rowspan="2">среднегодовых</td>
-<td rowspan="2">всего</td>
-<td colspan="2">в том числе</td>
-</tr>
-<tr>
-<td>
-из сельской
-местности
-</td>
-<td>детей</td>
-</tr>
-<tr>
-<th>А</th>
-<th>Б</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td>Общие</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Терапевтические</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Кардио-
-логические для
-взрослых
-</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Гастро-
-энтеро-
-логические для
-взрослых
-</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Аллерго-
-логические для
-взрослых
-</td>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>08</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Эндо-
-кринологические
-для взрослых
-</td>
-<td>09</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Инфекционные
-для взрослых
-</td>
-<td>11</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Гемато-
-логические для
-взрослых
-</td>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>14</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Нефрологические
-для взрослых
-</td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>16</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Хирургические
-для взрослых
-</td>
-<td>17</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Хирургические
-для
-новорожденных
-</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Нейро-
-хирургические
-для взрослых
-</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>21</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Нейрососудистые</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Торакальной
-хирургии для
-взрослых
-</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Кардио-
-хирургические
-для взрослых
-</td>
-<td>25</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>26</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Сосудистой
-хирургии
-</td>
-<td>27</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Травмато-
-логические
-</td>
-<td>28</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для взрослых</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Ожоговые для
-взрослых
-</td>
-<td>30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>31</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Ортопедические
-для взрослых
-</td>
-<td>32</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>33</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Урологические
-для взрослых
-</td>
-<td>34</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>35</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Челюстно-
-лицевой
-хирургии для
-взрослых
-</td>
-<td>36</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>37</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Онкологические
-для взрослых
-</td>
-<td>38</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>39</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них
-маммологические
-(из стр. 38)
-</td>
-<td>40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Для беременных
-и рожениц
-(кроме
-патологии
-беременности)
-</td>
-<td>41</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Паталогии
-беременности
-</td>
-<td>42</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Гинеко-
-логические для
-взрослых,
-включая для
-производства
-абортов
-</td>
-<td>43</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Гинеко-
-логические для
-детей, включая
-для
-производства
-абортов
-</td>
-<td>44</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Туберкулезные
-для взрослых-
-всего
-</td>
-<td>45</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в т.ч: для
-взрослых
-больных с
-внелегочным,
-включая костно-
-суставным
-туберкулезом
-</td>
-<td>46</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-для
-принудительного
-лечения
-больных
-</td>
-<td>47</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-для больных с
-лекарственной
-устойчивой
-формой
-туберкулеза
-</td>
-<td>48</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-туберкулезные
-хирургические
-</td>
-<td>49</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Туберкулезные
-для детей,
-всего
-</td>
-<td>50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в т.ч: для
-больных детей с
-внелегочным,
-включая костно-
-суставным
-туберкулезом
-</td>
-<td>51</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Неврологические
-для взрослых
-</td>
-<td>52</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>53</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Психиатрические
-(психо-
-неврологиеские)
-для взрослых
-</td>
-<td>54</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>55</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Психо-
-терапевтические
-для взрослых
-</td>
-<td>56</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>57</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Наркологические
-для взрослых
-</td>
-<td>58</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>59</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Наркологические
-для
-принудительного
-лечения
-</td>
-<td>60</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Офтальмо-
-логические для
-взрослых
-</td>
-<td>61</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>62</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Отоларин-
-гологические
-для взрослых
-</td>
-<td>63</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>64</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Дермато-
-венерологи-
-ческие для
-взрослых
-</td>
-<td>65</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>66</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Радиологические</td>
-<td>67</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Педиатрические</td>
-<td>68</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Патология
-новорожденных и
-выхаживания
-недоношенных
-</td>
-<td>69</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Прокто-
-логические
-</td>
-<td>70</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Ревма-
-тологические
-для взрослых
-</td>
-<td>71</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>72</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Гнойные
-хирургические
-для взрослых
-</td>
-<td>73</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>74</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Пульмоно-
-логические для
-взрослых
-</td>
-<td>75</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>76</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Токсико-
-логические для
-взрослых
-</td>
-<td>77</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>78</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Трансплан-
-талогии для
-взрослых
-</td>
-<td>79</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>80</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Лепрологические</td>
-<td>81</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Реанимационные
-для взрослых
-</td>
-<td>82</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>83</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Итого коек</td>
-<td>84</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них для
-детей
-</td>
-<td>85</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td>Выписано больных</td>
-<td>Умерло</td>
-<td>
-Проведено всеми
-больными койко-
-дней
-</td>
-<td>
-в том числе из сельской
-местности
-</td>
-</tr>
-<tr>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-3100
-
-<table>
-<tr>
-<td rowspan="3"></td>
-<td rowspan="3">
-№
-строки
-</td>
-<td colspan="2">Число коек</td>
-<td colspan="3">Поступило больных</td>
-</tr>
-<tr>
-<td rowspan="2">на конец года</td>
-<td rowspan="2">средне-годовых</td>
-<td rowspan="2">всего</td>
-<td colspan="2">в том числе</td>
-</tr>
-<tr>
-<td>
-из сельской
-местности
-</td>
-<td>детей</td>
-</tr>
-<tr>
-<th>А</th>
-<th>Б</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td>
-Сестринского
-ухода
-</td>
-<td>86</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Паллиативной
-помощи
-</td>
-<td>87</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Для ухаживания с
-питанием
-</td>
-<td>88</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Для ухаживания
-без питания
-</td>
-<td>89</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Профили коек для восстановительного лечения и медицинской
-
-реабилитации
-
-<table>
-<tr>
-<td>
-Восстано-
-вительного
-лечения и
-медицинской
-реабилитации,
-всего
-</td>
-<td>90</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них для детей</td>
-<td>91</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-из них ранняя реабилитация по профилям:
-
-<table>
-<tr>
-<td>в том числе:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Кардиологические
-для взрослых
-</td>
-<td>92</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>93</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Кардио-
-хирургические для
-взрослых
-</td>
-<td>94</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>95</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Неврологические
-(психо-
-неврологические)
-для взрослых
-</td>
-<td>96</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>97</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Нейро-
-хирургические для
-взрослых
-</td>
-<td>98</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>99</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Травмато-
-логические для
-взрослых
-</td>
-<td>100</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>101</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Ортопедические
-для взрослых
-</td>
-<td>102</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>для детей</td>
-<td>103</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Всего коек
-(стр84+86+87+88+8
-+90)
-</td>
-<td>104</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них для детей
-(стр 85+91)
-</td>
-<td>105</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из строки 104
-пролечено
-иногородних
-</td>
-<td>106</td>
-<td>X</td>
-<td>X</td>
-<td></td>
-<td>X</td>
-<td></td>
-</tr>
-<tr>
-<td>
-из строки 104
-пролечено
-иностранцев
-</td>
-<td>107</td>
-<td>X</td>
-<td>X</td>
-<td></td>
-<td>X</td>
-<td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td>Выписано больных</td>
-<td>Умерло</td>
-<td>
-Проведено всеми больными
-койко-дней
-</td>
-<td>
-в том числе из
-сельской местности
-</td>
-</tr>
-<tr>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>X</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>X</td>
-</tr>
-</table>
-
-3101 Из числа выписанных (гр 6) переведено в другие стационары
-
-1 ___ # 1 ____, в том числе переведено новорожденных 2 ____ # 2 ____
-
-3102 Кроме того хозрасчетные койки в бюджетных организациях
-
-1 ____ # 1 _____
+включительно 2_____#2_____.
 
 3103 ОТДЕЛЕНИЯ В БОЛЬНИЧНЫХ ОРГАНИЗАЦИЯХ
 
 <table>
 <tr>
 <td rowspan="2">№</td>
-<td rowspan="2">Наименование отделений</td>
-<td colspan="2">Число отделений</td>
-<td>Число коек</td>
+<td rowspan="2">
+Наименование
+отделений
+</td>
+<td colspan="2">
+Число
+отделений
+</td>
+<td>
+Число
+коек
+</td>
+<td>№</td>
+<td>
+Наименование
+отделений
+</td>
+<td colspan="2">
+Число
+отделений
+</td>
+<td>
+Число
+коек
+</td>
 </tr>
 <tr>
 <td>всего</td>
 <td>
-в т.ч. для
-детей до 14 лет
+в т.ч.
+для
+детей
+до 14
+лет
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>всего</td>
+<td>
+в т.ч.
+для
+детей
+до 14
+лет
 </td>
 <td></td>
 </tr>
 <tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
 <th>А</th>
 <th>Б</th>
 <th>1</th>
@@ -60542,10 +72030,20 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td></td>
 <td></td>
 <td></td>
+<td>25</td>
+<td>педиатрическое</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>02</td>
 <td>терапевтическое</td>
+<td></td>
+<td></td>
+<td></td>
+<td>26</td>
+<td>офтальмологическое</td>
 <td></td>
 <td></td>
 <td></td>
@@ -60556,10 +72054,23 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td></td>
 <td></td>
 <td></td>
+<td>27</td>
+<td>отоларингологическое</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>04</td>
 <td>кардиологическое</td>
+<td></td>
+<td></td>
+<td></td>
+<td>28</td>
+<td>
+для больных
+туберкулезом
+</td>
 <td></td>
 <td></td>
 <td></td>
@@ -60570,10 +72081,20 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td></td>
 <td></td>
 <td></td>
+<td>29</td>
+<td>неврологическое</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>06</td>
 <td>гастроэнтерологическое</td>
+<td></td>
+<td></td>
+<td></td>
+<td>30</td>
+<td>психиатрическое</td>
 <td></td>
 <td></td>
 <td></td>
@@ -60584,10 +72105,23 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td></td>
 <td></td>
 <td></td>
+<td>31</td>
+<td>наркологическое</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>08</td>
 <td>эндокринологическое</td>
+<td></td>
+<td></td>
+<td></td>
+<td>32</td>
+<td>
+дермато-
+венерологическое
+</td>
 <td></td>
 <td></td>
 <td></td>
@@ -60598,6 +72132,11 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td></td>
 <td></td>
 <td></td>
+<td>33</td>
+<td>инфекционное</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>10</td>
@@ -60605,10 +72144,20 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td></td>
 <td></td>
 <td></td>
+<td>34</td>
+<td>токсикологическое</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>11</td>
-<td>реанимации</td>
+<td>реанимации (сметные койки)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>35</td>
+<td>диагностическое</td>
 <td></td>
 <td></td>
 <td></td>
@@ -60619,10 +72168,23 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td></td>
 <td></td>
 <td></td>
+<td>36</td>
+<td>
+челюстно-лицевое
+(стоматол)
+</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>13</td>
 <td>торакально-хирургическое</td>
+<td></td>
+<td></td>
+<td></td>
+<td>37</td>
+<td>кардиохирургическое</td>
 <td></td>
 <td></td>
 <td></td>
@@ -60633,10 +72195,24 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td></td>
 <td></td>
 <td></td>
+<td>38</td>
+<td>гематологическое</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>15</td>
 <td>травматологическое</td>
+<td></td>
+<td></td>
+<td></td>
+<td rowspan="2">39</td>
+<td rowspan="2">
+восстановительное
+лечение и мед.
+реабилитация
+</td>
 <td></td>
 <td></td>
 <td></td>
@@ -60647,10 +72223,21 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>17</td>
 <td>ожоговое</td>
+<td></td>
+<td></td>
+<td></td>
+<td>40</td>
+<td>
+патология
+беременных
+</td>
 <td></td>
 <td></td>
 <td></td>
@@ -60661,10 +72248,23 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td></td>
 <td></td>
 <td></td>
+<td>41</td>
+<td>
+патология
+новорожденных
+</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>19</td>
 <td>урологическое</td>
+<td></td>
+<td></td>
+<td></td>
+<td>42</td>
+<td>общее комплексное</td>
 <td></td>
 <td></td>
 <td></td>
@@ -60675,10 +72275,23 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td></td>
 <td></td>
 <td></td>
+<td>43</td>
+<td>
+паллиативной
+помощи
+</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>21</td>
 <td>онкологическое</td>
+<td></td>
+<td></td>
+<td></td>
+<td>44</td>
+<td>инсультное</td>
 <td></td>
 <td></td>
 <td></td>
@@ -60689,6 +72302,11 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td></td>
 <td></td>
 <td></td>
+<td>45</td>
+<td>прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>23</td>
@@ -60696,185 +72314,19 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td></td>
 <td></td>
 <td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td rowspan="2">№</td>
-<td rowspan="2">Наименование отделений</td>
-<td colspan="2">Число отделений</td>
-<td rowspan="2">Число коек</td>
-</tr>
-<tr>
-<td>всего</td>
-<td>
-в т.ч. для детей
-до 14 лет
+<td rowspan="2">46</td>
+<td rowspan="2">
+Кроме того,
+реанимационные
+койки сверх сметные
 </td>
-</tr>
-<tr>
-<th>А</th>
-<th>Б</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
 </tr>
 <tr>
 <td>24</td>
 <td>гинекологическое</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>25</td>
-<td>педиатрическое</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>26</td>
-<td>офтальмологическое</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>27</td>
-<td>отоларингологическое</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>28</td>
-<td>для больных туберкулезом</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>29</td>
-<td>неврологическое</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>30</td>
-<td>психиатрическое</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>31</td>
-<td>наркологическое</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>32</td>
-<td>дермато-венерологическое</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>33</td>
-<td>инфекционное</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>34</td>
-<td>токсикологическое</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>35</td>
-<td>диагностическое</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>36</td>
-<td>челюстно-лицевое(стоматол)</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>37</td>
-<td>кардиохирургическое</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>38</td>
-<td>гематологическое</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>39</td>
-<td>
-восстановительное лечение и мед.
-реабилитация
-</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>40</td>
-<td>патология беременных</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>41</td>
-<td>патология новорожденных</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>42</td>
-<td>общее комплексное</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>43</td>
-<td>паллиативной помощи</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>44</td>
-<td>инсультное</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>45</td>
-<td>прочие</td>
 <td></td>
 <td></td>
 <td></td>
@@ -60887,16 +72339,44 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <tr>
 <td>№</td>
 <td>
-Переливание крови, компонентов,
+Переливание крови,
+компонентов,
 препаратов
 </td>
 <td>
-кол-во
-переливаний
+кол-
+во
+пе-
+ре-
+ли-
+ва-
+ний
 </td>
 <td>перелито в литрах</td>
+<td>№</td>
+<td>
+Переливание
+кровезаменителей
+</td>
+<td>
+кол-
+во
+пе-
+ре-
+ли-
+ва-
+ний
+</td>
+<td>
+перелито
+в литрах
+</td>
 </tr>
 <tr>
+<td>А</td>
+<td>Б</td>
+<td>1</td>
+<td>2</td>
 <td>А</td>
 <td>Б</td>
 <td>1</td>
@@ -60904,13 +72384,23 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 </tr>
 <tr>
 <td>1</td>
-<td>кровь донорская консервир.</td>
+<td>
+кровь донорская
+консервир.
+</td>
 <td></td>
 <td></td>
+<td rowspan="2">7</td>
+<td rowspan="2">гемодинамические</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
 </tr>
 <tr>
 <td>2</td>
-<td>эритросодерж.компоненты</td>
+<td>
+эритросодерж.
+компоненты
+</td>
 <td></td>
 <td></td>
 </tr>
@@ -60919,16 +72409,34 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td>плазма всех видов</td>
 <td></td>
 <td></td>
+<td>8</td>
+<td>дезинтоксикационные</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>4</td>
-<td>концентрат тромбоцитов</td>
+<td>
+концентрат
+тромбоцитов
+</td>
 <td></td>
 <td></td>
+<td rowspan="2">9</td>
+<td rowspan="2">
+для
+парентерального
+питания
+</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
 </tr>
 <tr>
 <td>5</td>
-<td>альбумин в пересч.на 10 %р.</td>
+<td>
+альбумин в
+пересч. на 10 % р.
+</td>
 <td></td>
 <td></td>
 </tr>
@@ -60937,52 +72445,6 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td>Всего</td>
 <td></td>
 <td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td>№</td>
-<td>
-Переливание
-кровезаменителей
-</td>
-<td>
-кол-во
-переливаний
-</td>
-<td>перелито в литрах</td>
-</tr>
-<tr>
-<td>А</td>
-<td>Б</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td>7</td>
-<td>гемодинамические</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>дезинтоксикационные</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>
-для парентерального
-питания
-</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>10</td>
 <td>Всего</td>
 <td></td>
@@ -60996,10 +72458,7 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <tr>
 <td>№</td>
 <td></td>
-<td>
-число
-больных
-</td>
+<td>число больных</td>
 <td>№</td>
 <td></td>
 <td>число больных</td>
@@ -61025,7 +72484,8 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 <td>3</td>
 <td>
 Число больных,
-получивших переливание
+получивших
+переливание
 кровезаменителей
 </td>
 <td></td>
@@ -61048,168 +72508,2417 @@ ____ # 5 ____, съемных протезов 6 ___ # 6 ____, единиц
 </tr>
 </table>
 
-## Раздел IV. РАБОТА ЛЕЧЕБНО-ВСПОМОГАТЕЛЬНЫХ ОТДЕЛЕНИЙ (КАБИНЕТОВ)
+## 3100 Раздел III. ДЕЯТЕЛЬНОСТЬ СТАЦИОНАРА
 
 <table>
 <tr>
-<td>4201</td>
-<td>
-ДЕЯТЕЛЬНОСТЬ РАДИОЛОГИЧЕСКОГО ОТДЕЛЕНИЯ (КАБИНЕТА ЛУЧЕВОЙ
-ТЕРАПИИ)
+<td></td>
+<td colspan="9">КОЕЧНЫЙ ФОНД И ЕГО ИСПОЛЬЗОВАНИЕ</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td rowspan="3">
+№
+с
+т
+р
+о
+к
+и
+</td>
+<td colspan="2">Число коек</td>
+<td colspan="3">
+Поступило
+больных
+</td>
+<td rowspan="3">
+Выпи-
+сано
+боль-
+ных
+</td>
+<td rowspan="3">
+У
+м
+е
+р
+л
+о
+</td>
+<td rowspan="3">
+Прове-
+дено
+всеми
+боль-
+ными
+койко-
+дней
+</td>
+<td rowspan="3">
+в том
+числе
+из сель-
+ской
+мест-
+ности
 </td>
 </tr>
-</table>
-
-Число больных, закончивших лучевую терапию 1 ___ # 1 ____, в том
-
-числе короткофокусную 2 ____ # 2 _______, дистанционную гамматерапию
-
-3 __ # 3 ____, лечение радиоактивными препаратами: закрытыми 4 ___ #
-
-4 ____, из общего числа больных, закончивших лечение, лечение больных
-
-с неопухолевыми заболеваниями 5 ____ # 5 ____.
-
-<table>
 <tr>
-<td>4202</td>
-<td>ДЕЯТЕЛЬНОСТЬ КАБИНЕТА ЛАЗЕРНОЙ ТЕРАПИИ</td>
+<td rowspan="2">
+на
+конец
+года
+</td>
+<td rowspan="2">
+средне-
+годовых
+</td>
+<td rowspan="2">
+в
+с
+е
+г
+о
+</td>
+<td colspan="2">в том числе</td>
+</tr>
+<tr>
+<td>
+из сель-
+ской
+мест-
+ности
+</td>
+<td>
+д
+е
+т
+е
+й
+</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+<tr>
+<td>Общие</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Терапевтические</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кардиологические
+для взрослых
+</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Гастроэнтероло-
+гические для
+взрослых
+</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Аллергологические
+для взрослых
+</td>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Эндокринологичес-
+кие для взрослых
+</td>
+<td>09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Инфекционные
+для взрослых
+</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Гематологические
+для взрослых
+</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Нефрологические
+для взрослых
+</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Хирургические
+для взрослых
+</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Хирургические для
+новорожденных
+</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Нейрохирургические
+для взрослых
+</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Нейрососудистые</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Торакальной
+хирургии для
+взрослых
+</td>
+<td>23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кардиохирургические
+для взрослых
+</td>
+<td>25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>26</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>3100</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td rowspan="3">
+№
+с
+т
+р
+о
+к
+и
+</td>
+<td colspan="2">Число коек</td>
+<td colspan="3">Поступило больных</td>
+<td rowspan="3">
+Выпи-
+сано
+боль-
+ных
+</td>
+<td rowspan="3">
+У
+м
+е
+р
+л
+о
+</td>
+<td rowspan="3">
+Прове-
+дено
+всеми
+боль-
+ными
+койко-
+дней
+</td>
+<td rowspan="3">
+в том
+числе
+из сель-
+ской
+мест-
+ности
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+на
+конец
+года
+</td>
+<td rowspan="2">
+средне-
+годовых
+</td>
+<td rowspan="2">
+в
+с
+е
+г
+о
+</td>
+<td colspan="2">в том числе</td>
+</tr>
+<tr>
+<td>
+из сель-
+ской
+мест-
+ности
+</td>
+<td>
+д
+е
+т
+е
+й
+</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+<tr>
+<td>
+Сосудистой
+хирургии
+</td>
+<td>27</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Травматологические</td>
+<td rowspan="2">28</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+</tr>
+<tr>
+<td>для взрослых</td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Ожоговые для
+взрослых
+</td>
+<td>30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>31</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Ортопедические
+для взрослых
+</td>
+<td>32</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>33</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Урологические
+для взрослых
+</td>
+<td>34</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Челюстно-лицевой
+хирургии для
+взрослых
+</td>
+<td>36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>37</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Онкологические
+для взрослых
+</td>
+<td>38</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>39</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них
+маммологические
+(из стр. 38)
+</td>
+<td>40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Для беременных и
+рожениц (кроме
+патологии
+беременности)
+</td>
+<td>41</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Паталогии
+беременности
+</td>
+<td>42</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Гинекологические
+для взрослых,
+включая для
+производства
+абортов
+</td>
+<td>43</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Гинекологические
+для детей,
+включая для
+производства
+абортов
+</td>
+<td>44</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Туберкулезные для
+взрослых - всего
+</td>
+<td>45</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в т.ч: для
+взрослых больных
+с внелегочным,
+включая
+костно-суставным
+туберкулезом
+</td>
+<td>46</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+для
+принудительного
+лечения больных
+</td>
+<td>47</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+для больных с
+лекарственной
+устойчивой формой
+туберкулеза
+</td>
+<td>48</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+туберкулезные
+хирургические
+</td>
+<td>49</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Туберкулезные
+для детей, всего
+</td>
+<td>50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в т.ч: для
+больных детей с
+внелегочным,
+включая
+костно-суставным
+туберкулезом
+</td>
+<td>51</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Неврологические
+для взрослых
+</td>
+<td>52</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>53</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
-Число больных, закончивших лечение:
-
-Всего 1 ____ # 1 ___, в том числе желудочно-кишечного тракта 2 __ # 2
-
-___, сердечно-сосудистой системы 3 __ # 3 ____, дыхательной системы
-
-4 ___ # 4 ___, опорно-двигательного аппарата 5 ___ # 5 ___,
-
-гинекологических 6 ___ # 6 ____, центральной нервной системы
-
-7 ___ # 7 ___, эндокринной системы 8 ___ # 8 _____, мочеполовой
-
-системы (кроме гинекологических) 9 ____ # 9 _____, прочих 10 ____ #
-
-10 ____
-
 <table>
 <tr>
-<td>4601</td>
-<td>ДЕЯТЕЛЬНОСТЬ ФИЗИОТЕРАПЕВТИЧЕСКОГО ОТДЕЛЕНИЯ (КАБИНЕТА)</td>
+<th>3100</th>
+<th colspan="10"></th>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td rowspan="3">
+№
+с
+т
+р
+о
+к
+и
+</td>
+<td colspan="2">Число коек</td>
+<td colspan="3">
+Поступило
+больных
+</td>
+<td rowspan="3">
+Выписано
+больных
+</td>
+<td rowspan="3">
+У
+м
+е
+р
+л
+о
+</td>
+<td rowspan="3">
+Проведено
+всеми
+больными
+койко-
+дней
+</td>
+<td rowspan="3">
+в том
+числе
+из сель-
+ской
+мест-
+ности
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+на
+конец
+года
+</td>
+<td rowspan="2">
+средне-
+годовых
+</td>
+<td rowspan="2">
+в
+с
+е
+г
+о
+</td>
+<td colspan="2">
+в том
+числе
+</td>
+</tr>
+<tr>
+<td>
+из сель-
+ской
+мест-
+ности
+</td>
+<td>
+д
+е
+т
+е
+й
+</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+<tr>
+<td>
+Психиатрические
+(психоневрологические)
+для взрослых
+</td>
+<td>54</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>55</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Психотерапевтические
+для взрослых
+</td>
+<td>56</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>57</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Наркологические
+для взрослых
+</td>
+<td>58</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>59</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Наркологические
+для принудительного
+лечения
+</td>
+<td>60</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Офтальмологические
+для взрослых
+</td>
+<td>61</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>62</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Отоларингологические
+для взрослых
+</td>
+<td>63</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>64</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Дерматовенерологи-
+ческие для взрослых
+</td>
+<td>65</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>66</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Радиологические</td>
+<td>67</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Педиатрические</td>
+<td>68</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Патология новорож-
+денных и выхажи-
+вания недоношенных
+</td>
+<td>69</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Проктологические</td>
+<td>70</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Ревматологические
+для взрослых
+</td>
+<td>71</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>72</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Гнойные
+хирургические
+для взрослых
+</td>
+<td>73</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>74</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Пульмонологические
+для взрослых
+</td>
+<td>75</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>76</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Токсикологические
+для взрослых
+</td>
+<td>77</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>78</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Транспланталогии
+для взрослых
+</td>
+<td>79</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>80</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Лепрологические</td>
+<td>81</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Реанимационные
+для взрослых
+</td>
+<td>82</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>83</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Инсультные</td>
+<td>84</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Итого коек</td>
+<td>85</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них для детей</td>
+<td>86</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
-Число лиц, закончивших лечение 1 ___ # 1 ___, в том числе в
-
-поликлинике и на дому 2 ___ # 2 ___; Число отпущенных процедур, всего
-
-3 ____ # 3 ___, в том числе амбулаторным больным: в поликлинике 4 ___
-
-# 4 ___, на дому 5 ____ # 5 _____, кроме того, число лиц получивших
-
-массаж 6 ___ # 6 ______
-
 <table>
 <tr>
-<td>4701</td>
-<td>ДЕЯТЕЛЬНОСТЬ КАБИНЕТА ЛФК</td>
+<th>3100</th>
+<th colspan="10"></th>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td rowspan="3">
+№
+с
+т
+р
+о
+к
+и
+</td>
+<td colspan="2">Число коек</td>
+<td colspan="3">
+Поступило
+больных
+</td>
+<td rowspan="3">
+Выписано
+больных
+</td>
+<td rowspan="3">
+У
+м
+е
+р
+л
+о
+</td>
+<td rowspan="3">
+Прове-
+дено
+всеми
+боль-
+ными
+койко-
+дней
+</td>
+<td rowspan="3">
+в том
+числе
+из
+сель-
+ской
+мест-
+ности
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+на
+конец
+года
+</td>
+<td rowspan="2">
+средне-
+годовых
+</td>
+<td rowspan="2">
+в
+с
+е
+г
+о
+</td>
+<td colspan="2">
+в том
+числе
+</td>
+</tr>
+<tr>
+<td>
+из
+сель-
+ской
+мест-
+ности
+</td>
+<td>
+д
+е
+т
+е
+й
+</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+<tr>
+<td>Сестринского ухода</td>
+<td>87</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Паллиативной помощи</td>
+<td>88</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Для ухаживания
+с питанием
+</td>
+<td>89</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Для ухаживания
+без питания
+</td>
+<td>90</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">Профили коек для восстановительного лечения и медицинской реабилитации</td>
+<td></td>
+</tr>
+<tr>
+<td>
+Восстановительного
+лечения и медицинской
+реабилитации, всего
+</td>
+<td>91</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них для детей</td>
+<td>92</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="7">из них ранняя реабилитация по профилям:</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>в том числе:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кардиологические
+для взрослых
+</td>
+<td>93</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>94</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кардиохирургические
+для взрослых
+</td>
+<td>95</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>96</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Неврологические
+(психоневрологические)
+для взрослых
+</td>
+<td>97</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>98</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Нейрохирургические
+для взрослых
+</td>
+<td>99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>100</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Травматологические
+для взрослых
+</td>
+<td>101</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>102</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Ортопедические
+для взрослых
+</td>
+<td>103</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>104</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="7">из них поздняя реабилитация по профилям:</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кардиологические
+для взрослых
+</td>
+<td>105</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>106</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кардиохирургические
+для взрослых
+</td>
+<td>107</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>108</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Неврологические
+(психоневрологические)
+для взрослых
+</td>
+<td>109</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>110</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Нейрохирургические
+для взрослых
+</td>
+<td>111</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>112</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Травматологические
+для взрослых
+</td>
+<td>113</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>114</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Ортопедические
+для взрослых
+</td>
+<td>115</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>для детей</td>
+<td>116</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Всего коек
+(стр.
+85+87+88+89+90+91)
+</td>
+<td>117</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них для детей (стр.86+92)</td>
+<td>118</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из строки 117
+пролечено иногородних
+</td>
+<td>119</td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>
+из строки 117
+пролечено иностранцев
+</td>
+<td>120</td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
 </tr>
 </table>
 
-Число лиц, закончивших лечение 1 ___ # 1 ____, в том числе в
+3101 Из числа выписанных (гр 6) переведено в другие стационары
 
-поликлинике и на дому 2 __ # 2 ___; Число отпущенных процедур, всего 3 __ # 3 __, в том числе амбулаторным больным: в поликлинике
+1___#1____, в том числе переведено новорожденных 2____#2____
 
-4 ___ # 4 ______, на дому 5 ___ # 5 ___.
-
-<table>
-<tr>
-<td>4801</td>
-<td>ДЕЯТЕЛЬНОСТЬ КАБИНЕТА РЕФЛЕКСОТЕРАПИИ</td>
-</tr>
-</table>
-
-Число лиц, закончивших лечение 1 __ # 1 ____, в т.ч. в поликлинике 2
-
-___ # 2 ___ число отпущенных процедур 3 ___ # 3 ___, в т.ч. в
-
-поликлинике 4 ___ # 4 ____
+3102 Кроме того хозрасчетные койки в бюджетных организациях
 
 <table>
 <tr>
-<td>4802</td>
-<td>ДЕЯТЕЛЬНОСТЬ ОТДЕЛЕНИЙ ГЕМОДИАЛИЗА</td>
+<td rowspan="2"></td>
+<td colspan="2">Число коек</td>
+<td rowspan="2">
+Поступило
+больных
+всего
+</td>
+<td rowspan="2">
+Выписано
+больных
+</td>
+<td rowspan="2">Умерло</td>
+<td colspan="2" rowspan="2">
+Проведено
+всеми
+больными
+койко-
+ней
+</td>
 </tr>
-</table>
-
-Число диализных мест 1 ___ # 1 ____, Число проведенных гемодиализов 2
-
-___ # 2 ___.в т.ч. в поликлинике 3 __ # 3 ______
-
-<table>
 <tr>
-<td>4803</td>
-<td>ДЕЯТЕЛЬНОСТЬ ОТДЕЛЕНИЙ ГЕМОСОРБЦИИ</td>
+<td>
+на
+конец
+года
+</td>
+<td>
+средне-
+годовых
+</td>
 </tr>
-</table>
-
-Число мест в отделении 1 __ # 1 ___. Число проведенных процедур 2 __
-
-# 2 ___ в т.ч. в поликлинике 3 ___ # 3 ____
-
-<table>
 <tr>
-<td>4804</td>
-<td>ДЕЯТЕЛЬНОСТЬ ОТДЕЛЕНИЙ ГИПЕРБАРИЧЕСКОЙ ОКСИГЕНАЦИИ</td>
+<th>А</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th></th>
 </tr>
-</table>
-
-Число барокамер, всего 1 __ # 1 __, в том числе действующих 2 __ # 2
-
-__.Число проведенных сеансов 3 ___ # 3 ____ в том числе поликлинике 4
-
-____ # 4 ____
-
-<table>
 <tr>
-<td>4805</td>
-<td>ЛОГОПЕДИЧЕСКАЯ ПОМОЩЬ</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
-Число больных, закончивших занятия с логопедами 1 __ # 1 ___, в том
+## Раздел IV. РАБОТА ЛЕЧЕБНО-ВСПОМОГАТЕЛЬНЫХ ОТДЕЛЕНИЙ (КАБИНЕТОВ)
 
-числе детей до 14 лет включительно 2 __ # 2 __ в том числе в
+4201 ДЕЯТЕЛЬНОСТЬ РАДИОЛОГИЧЕСКОГО ОТДЕЛЕНИЯ
 
-поликлинике 3 ___ # 3 ____
+(КАБИНЕТА ЛУЧЕВОЙ ТЕРАПИИ)
 
-<table>
-<tr>
-<td>4806</td>
-<td>СОЦИАЛЬНО-ПСИХОЛОГИЧЕСКАЯ ПОМОЩЬ</td>
-</tr>
-</table>
+Число больных, закончивших лучевую терапию 1___#1____, в том числе
 
-Число лиц, всего 1 _____ # 1 _____, в том числе детей до 14 лет
+короткофокусную 2____#2_______, дистанционную гамматерапию 3__#3____,
 
-включительно 2 _____ # 2 ______
+лечение радиоактивными препаратами: закрытыми 4___#4____, из общего
+
+числа больных, закончивших лечение, лечение больных с неопухолевыми
+
+заболеваниями 5____#5____.
+
+4202 ДЕЯТЕЛЬНОСТЬ КАБИНЕТА ЛАЗЕРНОЙ ТЕРАПИИ
+
+Число больных, закончивших лечение: Всего 1____#1___, в том числе
+
+желудочно-кишечного тракта 2__#2___, сердечно-сосудистой
+
+системы 3__#3____, дыхательной системы 4___#4___,
+
+опорно-двигательного аппарата 5___#5___, гинекологических 6___#6____,
+
+центральной нервной системы 7___#7___, эндокринной системы
+
+8___#8_____, мочеполовой системы (кроме гинекологических)
+
+9____#9_____, прочих 10____#10____
+
+4601 ДЕЯТЕЛЬНОСТЬ ФИЗИОТЕРАПЕВТИЧЕСКОГО ОТДЕЛЕНИЯ (КАБИНЕТА)
+
+Число лиц, закончивших лечение 1___#1___, в том числе в поликлинике и
+
+на дому 2___#2___; Число отпущенных процедур, всего 3____#3___, в том
+
+числе амбулаторным больным: в поликлинике 4___#4___, на дому
+
+5____#5_____, кроме того, число лиц получивших массаж 6___#6______
+
+4701 ДЕЯТЕЛЬНОСТЬ КАБИНЕТА ЛФК
+
+Число лиц, закончивших лечение 1___#1____, в том числе в поликлинике
+
+и на дому 2__#2___; Число отпущенных процедур, всего 3__#3__, в том
+
+числе амбулаторным больным: в поликлинике 4___#4______, на дому
+
+5___#5___.
+
+4801 ДЕЯТЕЛЬНОСТЬ КАБИНЕТА РЕФЛЕКСОТЕРАПИИ
+
+Число лиц, закончивших лечение 1__#1____, в т.ч. в поликлинике
+
+2___#2___ число отпущенных процедур 3___#3___, в т.ч. в поликлинике
+
+4___#4____
+
+4802 ДЕЯТЕЛЬНОСТЬ ОТДЕЛЕНИЙ ГЕМОДИАЛИЗА
+
+Число диализных мест 1___#1____, Число проведенных гемодиализов
+
+2___#2___.в т.ч. в поликлинике 3__#3______
+
+4803 ДЕЯТЕЛЬНОСТЬ ОТДЕЛЕНИЙ ГЕМОСОРБЦИИ
+
+Число мест в отделении 1__#1___. Число проведенных процедур 2__#2___в
+
+т.ч. в поликлинике 3___#3____
+
+4804 ДЕЯТЕЛЬНОСТЬ ОТДЕЛЕНИЙ ГИПЕРБАРИЧЕСКОЙ ОКСИГЕНАЦИИ
+
+Число барокамер, всего 1__#1__, в том числе действующих 2__#2__.
+
+Число проведенных сеансов 3___#3____ в том числе поликлинике
+
+4____#4____
+
+4805 ЛОГОПЕДИЧЕСКАЯ ПОМОЩЬ
+
+Число больных, закончивших занятия с логопедами 1__#1___, в том числе
+
+детей до 14 лет включительно 2__#2__ в том числе в поликлинике
+
+3___#3____
+
+4806 СОЦИАЛЬНО-ПСИХОЛОГИЧЕСКАЯ ПОМОЩЬ
+
+Число обращений пациентов к социальному работнику 1_____#1_____,
+
+в том числе детей до 14 лет включительно 2_____#2______ из них:
+
+медико-социальные консультации 3 ______ тренинги 4 ____
+
+медико-социальные услуги, проведенные на дому 5_____ в амбулаторно-
+
+поликлинических условиях 6____, в стационаре 7___.
 
 ## Раздел V. РАБОТА ДИАГНОСТИЧЕСКИХ ОТДЕЛЕНИЙ
 
-<table>
-<tr>
-<td>4110</td>
-<td>
-РЕНТГЕНОДИАГНОСТИЧЕСКАЯ РАБОТА (ВКЛЮЧАЯ ПРОФИЛАКТИЧЕСКИЕ
-ОСМОТРЫ)
-</td>
-</tr>
-</table>
+4110 РЕНТГЕНОДИАГНОСТИЧЕСКАЯ РАБОТА
+
+(ВКЛЮЧАЯ ПРОФИЛАКТИЧЕСКИЕ ОСМОТРЫ)
 
 <table>
 <tr>
-<td rowspan="2">Наименование</td>
+<td rowspan="2"></td>
 <td rowspan="2">
 №
 строки
@@ -61225,15 +74934,17 @@ ____ # 4 ____
 </td>
 <td>
 органов
-пищеварения
+пище-
+варения
 </td>
 <td>
 костно-
-уставной
+суставной
 системы
 </td>
 <td>
-мочеполовой
+моче-
+половой
 системы
 </td>
 <td>прочие</td>
@@ -61251,7 +74962,7 @@ ____ # 4 ____
 <tr>
 <td>
 Рентгенологические
-исследования...
+исследования......
 </td>
 <td>01</td>
 <td></td>
@@ -61262,10 +74973,7 @@ ____ # 4 ____
 <td></td>
 </tr>
 <tr>
-<td>
-из них сделано:
-просвечиваний...........
-</td>
+<td>из них сделано:</td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -61275,7 +74983,17 @@ ____ # 4 ____
 <td></td>
 </tr>
 <tr>
-<td>рентгенограмм...........</td>
+<td>просвечиваний.......</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>рентгенограмм.......</td>
 <td>03</td>
 <td></td>
 <td></td>
@@ -61297,7 +75015,7 @@ ____ # 4 ____
 <tr>
 <td>
 диагностических
-флюорограмм....
+флюорограмм.........
 </td>
 <td>05</td>
 <td></td>
@@ -61308,7 +75026,7 @@ ____ # 4 ____
 <td></td>
 </tr>
 <tr>
-<td>маммограмм</td>
+<td>маммограмм.........</td>
 <td>06</td>
 <td></td>
 <td>Х</td>
@@ -61342,34 +75060,25 @@ ____ # 4 ____
 </tr>
 </table>
 
-4112 Из общего числа исследований выполнено амбулаторным больным
+4112 Из общего числа исследований выполнено амбулаторным больным 1___#1__.
 
-1 ___ # 1 __.
+4114 РЕНТГЕНОЛОГИЧЕСКИЕ ПРОФИЛАКТИЧЕСКИЕ ИССЛЕДОВАНИЯ
 
-<table>
-<tr>
-<td>4114</td>
-<td>РЕНТГЕНОЛОГИЧЕСКИЕ ПРОФИЛАКТИЧЕСКИЕ ИССЛЕДОВАНИЯ</td>
-</tr>
-</table>
+Число флюорографий грудной клетки, всего 1___#1___, из них
 
-Число флюорографий грудной клетки, всего 1 ___ # 1 ___, из них детям до 14 лет
+детям до 14 лет включительно 2___#2____
 
-включительно 2 ___ # 2 ____
-
-<table>
-<tr>
-<td>4115</td>
-<td>УЛЬТРАЗВУКОВЫЕ ИССЛЕДОВАНИЯ ( УЗИ )</td>
-</tr>
-</table>
+4115 УЛЬТРАЗВУКОВЫЕ ИССЛЕДОВАНИЯ (УЗИ)
 
 <table>
 <tr>
 <td>Число исследований</td>
 <td>№</td>
 <td>Всего</td>
-<td>из них детям</td>
+<td>
+из них
+детям
+</td>
 </tr>
 <tr>
 <td>А</td>
@@ -61385,7 +75094,8 @@ ____ # 4 ____
 </tr>
 <tr>
 <td>
-в т.ч. сердечно-сосудистой
+в т.ч.
+сердечно-сосудистой
 системы
 </td>
 <td>02</td>
@@ -61454,8 +75164,8 @@ ____ # 4 ____
 </tr>
 <tr>
 <td>
-интраоперационные УЗ
-исследования
+интраоперационные
+УЗ исследования
 </td>
 <td>12</td>
 <td></td>
@@ -61475,26 +75185,40 @@ ____ # 4 ____
 </tr>
 </table>
 
-<table>
-<tr>
-<td>4116</td>
-<td>
-ДЕЯТЕЛЬНОСТЬ КАБИНЕТА КОМПЬЮТЕРНОЙ И МАГНИТНО-РЕЗОНАНСНОЙ
-ТОМОГРАФИИ
-</td>
-</tr>
-</table>
+4116 ДЕЯТЕЛЬНОСТЬ КАБИНЕТА КОМПЬЮТЕРНОЙ И МАГНИТНО-РЕЗОНАНСНОЙ ТОМОГРАФИИ
 
 <table>
 <tr>
 <td rowspan="2">Область исследования</td>
-<td rowspan="2">№ строки</td>
-<td colspan="2">Всего исследований</td>
+<td rowspan="2">
+№
+с
+т
+р
+о
+к
+и
+</td>
+<td colspan="2">
+Всего
+исследований
+</td>
+<td colspan="2">Инвазивные процедуры</td>
 </tr>
 <tr>
 <td>компьютерной томографии</td>
 <td>
-магнитно-резонансной
+магнитно-
+резонансной
+томографии
+</td>
+<td>
+компьютерной
+томографии
+</td>
+<td>
+магнитно-
+резонансной
 томографии
 </td>
 </tr>
@@ -61503,25 +75227,33 @@ ____ # 4 ____
 <td>Б</td>
 <td>1</td>
 <td>2</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>Всего исследований:</td>
 <td>01</td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>
-из них:
-Головной мозг.............
-</td>
-<td>02</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Органы грудной клетки......</td>
+<td>из них:</td>
+<td rowspan="2">02</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+</tr>
+<tr>
+<td>Головной мозг........</td>
+</tr>
+<tr>
+<td>Органы грудной клетки.....</td>
 <td>03</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -61533,141 +75265,106 @@ ____ # 4 ____
 <td>04</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Органы таза...............</td>
+<td>Органы таза............</td>
 <td>05</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Костно-суставная система...</td>
+<td>
+Костно-суставная
+система................
+</td>
 <td>06</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Прочие.....................</td>
+<td>Прочие.................</td>
 <td>07</td>
 <td></td>
 <td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td colspan="2">Контрастное усиление</td>
-<td colspan="2">Инвазивные процедуры</td>
-</tr>
-<tr>
-<td>
-компьютерной
-томографии
-</td>
-<td>
-магнитно-резонансной
-томографии
-</td>
-<td>
-компьютерной
-томографии
-</td>
-<td>
-магнитно-резонансной
-томографии
-</td>
-</tr>
-<tr>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td>4200</td>
-<td>ДЕЯТЕЛЬНОСТЬ ДИСТАНЦИОННО-ДИАГНОСТИЧЕСКИХ КАБИНЕТОВ</td>
-</tr>
-</table>
+4200 ДЕЯТЕЛЬНОСТЬ ДИСТАНЦИОННО-ДИАГНОСТИЧЕСКИХ КАБИНЕТОВ
 
-Число дистанционно-диагностических кабинетов, всего 1 ___ # 1 ____.
+Число дистанционно-диагностических кабинетов, всего 1___#1____.
 
-Число проведенных ЭКГ - исследований 2 _____ # 2 ______.
+Число проведенных ЭКГ - исследований 2_____#2______.
 
-<table>
-<tr>
-<td>4203</td>
-<td>ДЕЯТЕЛЬНОСТЬ ЛАБОРАТОРИЙ РАДИОИЗОТОПНОЙ ДИАГНОСТИКИ</td>
-</tr>
-</table>
+4203 ДЕЯТЕЛЬНОСТЬ ЛАБОРАТОРИЙ РАДИОИЗОТОПНОЙ ДИАГНОСТИКИ
 
-Сделано радиодиагностических исследований 1 ___ # 1 ___, в том числе
+Сделано радиодиагностических исследований 1___#1___, в том числе
 
-сканирований 2 ___ # 2 ____, функциональных исследований
+сканирований 2___#2____, функциональных исследований 3___#3_____.
 
-3 ___ # 3 _____.
-
-<table>
-<tr>
-<td>4204</td>
-<td>ДЕЯТЕЛЬНОСТЬ ЭНДОСКОПИЧЕСКИХ ОТДЕЛЕНИЙ (КАБИНЕТОВ)</td>
-</tr>
-</table>
+4204 ДЕЯТЕЛЬНОСТЬ ЭНДОСКОПИЧЕСКИХ ОТДЕЛЕНИЙ (КАБИНЕТОВ)
 
 <table>
 <tr>
 <td rowspan="2">Наименование</td>
 <td rowspan="2">
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
-<td rowspan="2">Всего</td>
+<td rowspan="2">
+В
+с
+е
+г
+о
+</td>
 <td colspan="4">в том числе</td>
 </tr>
 <tr>
 <td>
-эзофагогаст-
-родуодено-скопии
+эзофагогас-
+тродуодено-
+скопии
 </td>
 <td>
 колоно-
 скопии
 </td>
 <td>
-бронхо-
-скопии
+фиброла-
+рингоскопия
 </td>
-<td>прочие</td>
+<td>
+ретр.
+панкрехолан-
+гиография
+</td>
 </tr>
 <tr>
-<th>А</th>
-<th>Б</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>А</td>
+<td>Б</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>6</td>
+<td>7</td>
 </tr>
 <tr>
 <td>
 Эндоскопические
-исследования, всего.....
+исследования
 </td>
 <td>01</td>
 <td></td>
@@ -61678,9 +75375,8 @@ ____ # 4 ____
 </tr>
 <tr>
 <td>
-в том числе с
-проведением лечебных
-процедур................
+в т.ч.с проведением
+лечебных процедур
 </td>
 <td>02</td>
 <td></td>
@@ -61691,11 +75387,10 @@ ____ # 4 ____
 </tr>
 <tr>
 <td>
-Из общего числа
-исследований (стр.1) с
-взятием материала на
+с взятием
+материала на
 цитоморфологическое
-исследование............
+исследование
 </td>
 <td>03</td>
 <td></td>
@@ -61706,61 +75401,47 @@ ____ # 4 ____
 </tr>
 </table>
 
-<table>
-<tr>
-<td>4300</td>
-<td>ДЕЯТЕЛЬНОСТЬ ЛАБОРАТОРИЙ</td>
-</tr>
-</table>
+4300 ДЕЯТЕЛЬНОСТЬ ЛАБОРАТОРИЙ
 
 <table>
 <tr>
 <td rowspan="3">Наименование</td>
 <td rowspan="3">
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
-<td colspan="8">Число проведенных анализов</td>
+<td colspan="6">Число проведенных анализов</td>
 </tr>
 <tr>
-<td rowspan="2">Всего</td>
-<td colspan="7">в том числе</td>
+<td rowspan="2">
+В
+с
+е
+г
+о
+</td>
+<td colspan="5">в том числе</td>
 </tr>
 <tr>
 <td>
 гематологи-
 ческие
 </td>
-<td>
-цитоло-
-гичес-
-кие
-</td>
-<td>
-биохими-
-ческие
-</td>
-<td>
-микробио-
-логи-
-ческие
-</td>
-<td>
-иммуно-
-логичес
--кие
-</td>
+<td>цитоло- гические</td>
+<td>иммуно-логичес-кие</td>
 <td>
 медико-
-гене-
-тичес-
-кие
+генети-
+ческие
 </td>
 <td>
-обще-
-кли-
-ниче-
-ские
+общеклини-
+ческие
 </td>
 </tr>
 <tr>
@@ -61769,17 +75450,13 @@ ____ # 4 ____
 <th>1</th>
 <th>2</th>
 <th>3</th>
-<th>4</th>
-<th>5</th>
 <th>6</th>
 <th>7</th>
 <th>8</th>
 </tr>
 <tr>
-<td>Всего........</td>
+<td>Всего.............</td>
 <td>01</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -61790,8 +75467,7 @@ ____ # 4 ____
 <tr>
 <td>
 в том числе
-амбулаторным
-больным
+амбулаторным больным
 </td>
 <td rowspan="2">02</td>
 <td rowspan="2"></td>
@@ -61800,74 +75476,396 @@ ____ # 4 ____
 <td rowspan="2"></td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
 </tr>
 <tr>
 <td>
-(включая
-больных на
-дому)........
+(включая больных на
+дому).............
 </td>
 </tr>
 </table>
 
 4302 Из числа анализов - биохимические (из гр.4) анализы: на гормоны
 
-1 __ # 1 __, онкомаркеры 2 __ # 2 __, на ферменты 3 __ # 3 __,
+1__#1__, онкомаркеры 2__#2__, на ферменты 3__#3__, показатели
 
-показатели свертывающей и противосвертывающей системы 4 ___ # 4 ___,
+свертывающей и противосвертывающей системы 4___#4___, водосолевого
 
-водосолевого обмена 5 ___ # 5 ____, газо и кислотно-основного обмена
+обмена 5___#5____, газо и кислотно-основного обмена крови
 
-крови 6 _____ # 6 _____ Бактериологические исследования материала на
+6_____#6_____ Бактериологические исследования материала на
 
-бацилловыделение туберкулеза (из гр.5): бактериоскопия 7 __ # 7 ___,
+бацилловыделение туберкулеза (из гр.5): бактериоскопия 7 __#7___,
 
-посевы 8 ___ # 8 ____, серологические (из гр.6): комплекс
+посевы 8___#8____, серологические (из гр.6): комплекс серологических
 
-серологических реакций (включая микрореакции) 9 ___ # 9 _____,
+реакций (включая микрореакции) 9___#9_____, специфические реакции для
 
-специфические реакции для серо- и ликвородиагностики сифилиса 10 __ #
+серо- и ликвородиагностики сифилиса 10__#10___, идентификация
 
-10 ___, идентификация лимфоцитов (из гр.6) 11 ____ # 11 ___,
+лимфоцитов (из гр.6) 11____#11___, показатели противоопухолевого
 
-показатели противоопухолевого иммунитета (из гр.6) 12 ____ # 12 ____
+иммунитета (из гр.6) 12_____#12______
+
+4401 ДЕЯТЕЛЬНОСТЬ КАБИНЕТА ФУНКЦИОНАЛЬНОЙ ДИАГНОСТИКИ
+
+Число обследованных лиц, всего 1___#1____, в том числе в поликлинике
+
+и на дому 2___#2____; из общего числа обследованных- детей до 14 лет
+
+включительно 3 __#3___, в том числе в поликлинике и на дому
+
+4____#4_____. Всего сделано исследований 5___#5___, в том числе
+
+амбулаторным больным: в поликлинике 6___#6____, на дому
+
+7_____#7_______.
+
+4500 ДЕЯТЕЛЬНОСТЬ ПАТОЛОГОАНАТОМИЧЕСКОГО ОТДЕЛЕНИЯ
 
 <table>
 <tr>
-<td>4401</td>
-<td>ДЕЯТЕЛЬНОСТЬ КАБИНЕТА ФУНКЦИОНАЛЬНОЙ ДИАГНОСТИКИ</td>
+<td>Наименование</td>
+<td>
+№
+с
+т
+р
+о
+к
+и
+</td>
+<td>
+В
+с
+е
+г
+о
+</td>
+<td>
+в том
+числе,
+умерших в
+стационаре
+</td>
+<td>
+число
+расхождений
+клинического и
+патологанатоми-
+ческого диагнозов
+(из гр. 2)
+</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
+<td>
+Число патологоанатомических исследований
+умерших................................
+</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе- детей
+(0-14 лет включительно)................
+из них:
+</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+новорожденных, умерших в возрасте
+0-6 суток.......................
+</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+детей, умерших в возрасте 7 дней-11 месяцев
+29 дней.........................
+</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Число вскрытий мертворожденных............</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Вскрыто новорожденных, родившихся
+при сроке беременности 22-27 недель......
+</td>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
-Число обследованных лиц, всего 1 ___ # 1 ____, в том числе в
+4501 Число обслуживаемых организаций 1 ___#1___, в том числе
 
-поликлинике и на дому 2 ___ # 2 ____; из общего числа обследованных-
+самостоятельных поликлиник (амбулаторий) 2 ___#2____ число
 
-детей до 14 лет включительно 3 __ # 3 ___, в том числе в поликлинике
+патологогистологических исследований секционного материала
 
-и на дому 4 ____ # 4 _____. Всего сделано исследований 5 ___ # 5
+3 ___#3______,
 
-___, в том числе амбулаторным больным: в поликлинике 6 ___ # 6 ____,
+Число патологогистологических исследований операционного и
 
-на дому 7 _____ # 7 _______.
+биопсийного материала у больных, всего 4 ___#4_____,
+
+в том числе из поликлиники 5 ____#5______.
+
+## Раздел IV-1. РАБОТА ЛЕЧЕБНО-ВСПОМОГАТЕЛЬНЫХ (ПЛАТНЫХ) ХОЗРАСЧЕТНЫХ ОТДЕЛЕНИЙ (КАБИНЕТОВ)
+
+5000 ДЕЯТЕЛЬНОСТЬ КАБИНЕТА ЛАЗЕРНОЙ ТЕРАПИИ
+
+Число больных, закончивших лечение: Всего 1____#1____, в том числе
+
+желудочно-кишечного тракта 2____#2______, сердечно-сосудистой системы
+
+3___#3___, дыхательной системы 4____#4______, опорно-двигательного
+
+аппарата 5_____#5____, гинекологических 6____#6________, центральной
+
+нервной системы 7__#7____, эндокринной системы 8___#8_____,
+
+мочеполовой системы (кроме гинекологических) 9_____#9_______, прочих
+
+10___#10_____
+
+5100 ДЕЯТЕЛЬНОСТЬ ФИЗИОТЕРАПЕВТИЧЕСКОГО ОТДЕЛЕНИЯ (КАБИНЕТА)
+
+Число лиц, закончивших лечение 1___#1_____, в том числе в поликлинике
+
+и на дому 2____#2________; Число отпущенных процедур, всего
+
+3____#3____, в том числе амбулаторным больным: в поликлинике
+
+4____#4______, на дому 5___#5____, кроме того, число лиц получивших
+
+массаж 6__#6____
+
+5101 ДЕЯТЕЛЬНОСТЬ КАБИНЕТА ЛФК
+
+Число лиц, закончивших лечение 1___#1___, в том числе в поликлинике и
+
+на дому 2___#2___; Число отпущенных процедур, всего 3__#3___, в том
+
+числе амбулаторным больным: в поликлинике 4___#4___, на дому
+
+5___#5_____.
+
+5102 ДЕЯТЕЛЬНОСТЬ КАБИНЕТА РЕФЛЕКСОТЕРАПИИ
+
+Число лиц, закончивших лечение 1__#1___, в т.ч. в поликлинике
+
+2__#2____ число отпущенных процедур 3___#3____, в т.ч. в поликлинике
+
+4___#4_____
+
+5103 ДЕЯТЕЛЬНОСТЬ ОТДЕЛЕНИЙ ГЕМОДИАЛИЗА
+
+Число диализных мест 1___#1__, Число проведенных гемодиализов
+
+2___#2___.в т.ч. в поликлинике 3___#3____
+
+5104 ДЕЯТЕЛЬНОСТЬ ОТДЕЛЕНИЙ ГЕМОСОРБЦИИ
+
+Число мест в отделении 1__#1___. Число проведенных процедур
+
+2____#2____в т.ч. в поликлинике 3___#3___
+
+5105 ДЕЯТЕЛЬНОСТЬ ОТДЕЛЕНИЙ ГИПЕРБАРИЧЕСКОЙ ОКСИГЕНАЦИИ
+
+Число барокамер, всего 1___#1___, в том числе действующих
+
+2__#2____.Число проведенных сеансов 3___#3____в т.ч. в поликлинике
+
+4___#4____ 5106 ЛОГОПЕДИЧЕСКАЯ ПОМОЩЬ Число больных, закончивших
+
+занятия с логопедами 1___#1__, в том числе детей до 14 лет
+
+включительно 2__#2___в т.ч. в поликлинике 3__#3____
+
+## Раздел V-1. РАБОТА ДИАГНОСТИЧЕСКИХ (ПЛАТНЫХ) ХОЗРАСЧЕТНЫХ ОТДЕЛЕНИЙ
+
+5107 РЕНТГЕНОДИАГНОСТИЧЕСКАЯ РАБОТА
+
+(ВКЛЮЧАЯ ПРОФИЛАКТИЧЕСКИЕ ОСМОТРЫ)
 
 <table>
 <tr>
-<td>4500</td>
-<td>ДЕЯТЕЛЬНОСТЬ ПАТОЛОГОАНАТОМИЧЕСКОГО ОТДЕЛЕНИЯ</td>
+<td rowspan="2">Наименование</td>
+<td rowspan="2">
+№
+с
+т
+р
+о
+к
+и
+</td>
+<td rowspan="2">
+В
+с
+е
+г
+о
+</td>
+<td colspan="5">в том числе</td>
+</tr>
+<tr>
+<td>органов грудной клетки</td>
+<td>органов пищеварения</td>
+<td>костно-суставной системы</td>
+<td>моче-половой системы</td>
+<td>прочие</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td>
+Рентгенологические
+исследования.........
+</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них сделано:
+просвечиваний...........
+</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>рентгенограмм..........</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>электрорентгенограмм.....</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+диагностических
+флюорограмм.............
+</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>маммограмм</td>
+<td>06</td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>
+специальных исследований
+всего:
+</td>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них ангиографии</td>
+<td>08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
+5108 Из общего числа исследований выполнено амбулаторным больным 1__#1___.
+
+5109 РЕНТГЕНОЛОГИЧЕСКИЕ ПРОФИЛАКТИЧЕСКИЕ ИССЛЕДОВАНИЯ
+
+Число флюорографий грудной клетки, всего 1___#1___, из них детям
+
+до 14 лет включительно 2___#2____
+
+5110 УЛЬТРАЗВУКОВЫЕ ИССЛЕДОВАНИЯ (УЗИ)
+
 <table>
 <tr>
-<td>Н а и м е н о в а н и е</td>
-<td>№ строки</td>
+<td>Число исследований</td>
+<td>№</td>
 <td>Всего</td>
 <td>
-в том числе умерших в
-стационаре
+из них
+детям
 </td>
 </tr>
 <tr>
@@ -61877,89 +75875,429 @@ ___, в том числе амбулаторным больным: в полик
 <td>2</td>
 </tr>
 <tr>
-<td>
-Число патологоанатомических исследований
-умерших.....................
-</td>
+<td>Всего исследований</td>
 <td>01</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-в том числе- детей (0-14 лет
-включительно).........................
-из них:
+в т.ч. сердечно-
+сосудистой системы
 </td>
 <td>02</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-новорожденных, умерших в возрасте 0-6
-суток.................
-</td>
+<td>органов брюшной полости</td>
 <td>03</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-детей, умерших в возрасте 7 дней-11
-месяцев 29 дней...........
-</td>
+<td>молочной железы</td>
 <td>04</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Число вскрытий мертворожденных............</td>
+<td>щитовидной железы</td>
 <td>05</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-Вскрыто новорожденных, родившихся при
-сроке беременности 22-27 недель..
-</td>
+<td>мочеполовой системы</td>
 <td>06</td>
 <td></td>
 <td></td>
 </tr>
-</table>
-
-4501 Число обслуживаемых организаций 1 ___ # 1 ___, в том числе
-
-самостоятельных поликлиник (амбулаторий) 2 ___ # 2 ____ число
-
-патологогистологических исследований секционного материала 3 ___ # 3
-
-______, Число патологогистологических исследований операционного и
-
-биопсийного материала у больных, всего 4 ___ # 4 _____, в том числе
-
-из поликлиники 5 ____ # 5 ______.
-
-<table>
+<tr>
+<td>костно-суставной системы</td>
+<td>07</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>женских половых органов</td>
+<td>08</td>
+<td></td>
+<td></td>
+</tr>
 <tr>
 <td>
-Руководитель ___________________________
-Исполнитель _________ ,телефон _________
+доплеровские исследования
+периферических сосудов
 </td>
-<td>Дата &quot;__&quot; _____ 20 ___ года</td>
+<td>09</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>эхо мозга</td>
+<td>10</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+пункционная биопсия и
+дренирование по УЗ лучу
+</td>
+<td>11</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+интраоперационные
+УЗ исследования
+</td>
+<td>12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>дети до года</td>
+<td>13</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>прочие</td>
+<td>14</td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
+5111 ДЕЯТЕЛЬНОСТЬ КАБИНЕТА КОМПЬЮТЕРНОЙ И МАГНИТНО-РЕЗОНАНСНОЙ ТОМОГРАФИИ
+
+<table>
+<tr>
+<td rowspan="2">Область исследования</td>
+<td rowspan="2">
+№
+с
+т
+р
+о
+к
+и
+</td>
+<td colspan="2">
+Всего
+исследований
+</td>
+<td colspan="2">Инвазивные процедуры</td>
+</tr>
+<tr>
+<td>
+компьютерной
+томографии
+</td>
+<td>
+магнитно-
+резонансной
+томографии
+</td>
+<td>
+компьютерной
+томографии
+</td>
+<td>
+магнитно-
+резонансной
+томографии
+</td>
+</tr>
+<tr>
+<td>А</td>
+<td>Б</td>
+<td>1</td>
+<td>2</td>
+<td>5</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Всего исследований:</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: Головной мозг......</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Органы грудной клетки......</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Органы брюшной полости и
+забрюшинного пространства
+</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Органы таза..............</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Костно-суставная система...</td>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Прочие.................</td>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+5112 ДЕЯТЕЛЬНОСТЬ ЛАБОРАТОРИЙ РАДИОИЗОТОПНОЙ ДИАГНОСТИКИ
+
+Сделано радиодиагностических исследований 1___#1___, в том числе
+
+сканирований 2___#2____, функциональных исследований 3___#3_____.
+
+5113 ДЕЯТЕЛЬНОСТЬ ЭНДОСКОПИЧЕСКИХ ОТДЕЛЕНИЙ (КАБИНЕТОВ)
+
+<table>
+<tr>
+<td rowspan="2">Наименование</td>
+<td rowspan="2">
+№
+с
+т
+р
+о
+к
+и
+</td>
+<td rowspan="2">
+В
+с
+е
+г
+о
+</td>
+<td colspan="4">в том числе</td>
+</tr>
+<tr>
+<td>
+эзофаго-
+гастро-
+дуодено-
+скопии
+</td>
+<td>
+колоно-
+скопии
+</td>
+<td>
+бронхо-
+скопии
+</td>
+<td>
+п
+р
+о
+ч
+и
+е
+</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<td>Эндоскопические исследования, всего........</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе с проведением лечебных
+процедур..........................
+</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Из общего числа исследований (стр.1)
+с взятием материала на
+цитоморфологическое исследование
+</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+5114 ДЕЯТЕЛЬНОСТЬ ЛАБОРАТОРИЙ
+
+<table>
+<tr>
+<td rowspan="3">Наименование</td>
+<td rowspan="3">
+№
+с
+т
+р
+о
+к
+и
+</td>
+<td colspan="5">Число проведенных анализов</td>
+</tr>
+<tr>
+<td rowspan="2">Всего</td>
+<td colspan="4">в том числе</td>
+</tr>
+<tr>
+<td>
+гематологи-
+ческие
+</td>
+<td>
+цитоло-
+гические
+</td>
+<td>
+иммуноло-
+гические
+</td>
+<td>
+медико-
+генетические
+</td>
+</tr>
+<tr>
+<td>А</td>
+<td>Б</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>6</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Всего.........</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в т.ч амбулаторным
+больным
+(включая больных
+на дому)........
+</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+5115 Из числа анализов - биохимические (из гр.4) анализы: на гормоны
+
+1__#1__, онкомаркеры 2__#2__, на ферменты 3__#3__, показатели
+
+свертывающей и противосвертывающей системы 4___#4___, водосолевого
+
+обмена 5___#5____, газо и кислотно-основного обмена крови
+
+6_____#6_____ Бактериологические исследования материала на
+
+бацилловыделение туберкулеза (из гр.5): бактериоскопия 7 __#7___,
+
+посевы 8___#8____, серологические (из гр.6): комплекс серологических
+
+реакций (включая микрореакции) 9___#9_____, специфические реакции для
+
+серо- и ликвородиагностики сифилиса 10__#10___, идентификация
+
+лимфоцитов (из гр.6) 11____#11___, показатели противоопухолевого
+
+иммунитета (из гр.6) 12_____#12______
+
+5116 ДЕЯТЕЛЬНОСТЬ КАБИНЕТА ФУНКЦИОНАЛЬНОЙ ДИАГНОСТИКИ
+
+Число обследованных лиц, всего 1___#1____, в том числе в поликлинике
+
+и на дому 2___#2____; из общего числа обследованных- детей до 14 лет
+
+включительно 3 __#3___, в том числе в поликлинике и на дому4__#4___
+
+Всего сделано исследований 5___#5___, в том числе амбулаторным
+
+больным: в поликлинике 6___#6____,на дому7__#7___
+
+Руководитель _____________________
+
+Испольнитель________________, телефон_________
+
 > *Приложение 3*  
-> *Утверждено приказом и.о. Министра*  
-> *здравоохранения Республики Казахстан*  
-> *от 12 сентября 2011 г. № 616*
+> *Утверждено приказом*  
+> *и.о. Министра здравоохранения*  
+> *Республики Казахстан*  
+> *от 12 сентября 2011 года № 616*
 
-Конфиденциальность гарантируется получателем информации
+## Конфиденциальность гарантируется получателем информации
 
-Кем представляется _________________________________________________
+Кем представляется _________________________________
 
 (наименование, адрес)
 
@@ -61967,7 +76305,11 @@ ______, Число патологогистологических исследо
 
 годовая
 
-## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+> *Сноска. Форма 31 в редакции приказа Министра здравоохранения РК от 28.09.2012 № 663 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
+
+## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан
+
+"О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -61976,42 +76318,41 @@ ______, Число патологогистологических исследо
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
 Представляют:
-1. Детские больницы (поликлиники, амбулатории), детские
-отделения больниц и необъединенные поликлиники в городах
-и поселках городского типа, сельские участковые и
-районные больницы (амбулатории) независимо от наличия
-детских отделений, независимо от формы собственности
-(последние - при отсутствии в районном центре детской
-поликлиники рай (гор) управлению здравоохранением
-(главному врачу района) - 5 января.
-2. Местные органы государственного управления
-здравоохранением сводный отчет по городу, области -
-Министерство здравоохранения Республики Казахстан - 10
-февраля
-</td>
-</tr>
-</table>
 
-## Отчет о медицинской помощи детям 20 ____ год
+1\. Детские больницы (поликлиники, амбулатории), детские
 
-2100 Число детей, состоявших на учете
+отделения больниц и необъединенные поликлиники в городах и
 
-(не включают данные о детях, находящихся в домах ребенка, детских
+поселках городского типа, сельские участковые и районные
 
-домах, школах-интернатах)
+больницы (амбулатории) независимо от наличия детских
+
+отделений, независимо от формы собственности (последние -
+
+при отсутствии в районном центре детской поликлиники
+
+рай(горуправлению здравоохранением (главному врачу района) -
+
+5 января.
+
+2\. Местные органы государственного управления здравоохранением
+
+сводный отчет по городу, области - Министерство
+
+здравоохранения Республики Казахстан - к 10 февраля.
+
+### Отчет о медицинской помощи детям 20____ год
+
+### 2100
+
+Число детей, состоявших на учете
+
+(не включают данные о детях, находящихся в домах ребенка, детских домах, школах-интернатах)
 
 <table>
 <tr>
-<td rowspan="4">
-А
-Всего (в возрасте до 14 лет
-включительно) ...
-</td>
+<td rowspan="2"></td>
 <td rowspan="2">
 №
 строки
@@ -62030,7 +76371,8 @@ ______, Число патологогистологических исследо
 <td>
 поступило
 под
-наблюдение
+наблю-
+дение
 </td>
 <td>
 выбыло
@@ -62050,6 +76392,7 @@ ______, Число патологогистологических исследо
 </td>
 </tr>
 <tr>
+<th>А</th>
 <th>Б</th>
 <th>1</th>
 <th>2</th>
@@ -62058,6 +76401,10 @@ ______, Число патологогистологических исследо
 <th>5</th>
 </tr>
 <tr>
+<td>
+Всего (в возрасте до
+14 лет включительно)...
+</td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -62067,8 +76414,8 @@ ______, Число патологогистологических исследо
 </tr>
 <tr>
 <td>
-в том числе: в возрасте до 1
-года
+в том числе: в
+возрасте до 1 года
 </td>
 <td>02</td>
 <td></td>
@@ -62079,8 +76426,8 @@ ______, Число патологогистологических исследо
 </tr>
 <tr>
 <td>
-от 1 года до 2-х лет (1 год
-11 мес.29 дней)
+от 1 года до 2-х лет
+(1 год 11 мес. 29 дней)
 </td>
 <td>03</td>
 <td></td>
@@ -62091,8 +76438,8 @@ ______, Число патологогистологических исследо
 </tr>
 <tr>
 <td>
-от 2-х до 5 лет (4г. 11
-месяце 29 дней)
+от 2-х до 5 лет
+(4 г. 11 месяце 29 дней)
 </td>
 <td>04</td>
 <td></td>
@@ -62103,30 +76450,92 @@ ______, Число патологогистологических исследо
 </tr>
 </table>
 
-2201 Число новорожденных, поступивших под наблюдение данной
+2201 Число новорожденных, поступивших под наблюдение данной организации 1 ____
 
-организации 1 ____________
+2202 Число новорожденных, подлежащих неонатальному аудиологическому
 
-2300 Число заболеваний детей 0-5лет, в том числе от 0-1 года
+скринингу 1 _____, из них осмотрено 2 _____, в результате
+
+скрининга выявлено новорожденных с нарушением слуха 3 _____
+
+### 2300 Число заболеваний детей 0-5 лет, в том числе от 0-1 года
 
 <table>
 <tr>
-<td rowspan="2">Наименование болезней</td>
 <td rowspan="2">
-Код по МКБ
-X пересмотра
+Наименование
+болезней
 </td>
-<td rowspan="2">№ строки</td>
+<td rowspan="2">
+Код по
+МКБ
+X
+пере-
+смотра
+</td>
+<td rowspan="2">
+№
+с
+т
+р
+о
+к
+и
+</td>
 <td colspan="2">
-Зарегистрировано заболеваний
+Зарегис-
+трировано
+заболеваний
+детей
+</td>
+<td rowspan="2">
+Наименование
+болезней
+</td>
+<td rowspan="2">
+Код по
+МКБ
+Х
+пере-
+смотра
+</td>
+<td rowspan="2">
+№
+с
+т
+р
+о
+к
+и
+</td>
+<td colspan="2">
+Зарегистри-
+ровано
+заболеваний
 детей
 </td>
 </tr>
 <tr>
-<td>0-5 лет</td>
 <td>
-в том числе от
-0 до 1 года
+0-5
+лет
+</td>
+<td>
+в том
+числе
+от 0
+до 1
+года
+</td>
+<td>
+0-5
+лет
+</td>
+<td>
+в том
+числе
+от 0 до
+1 года
 </td>
 </tr>
 <tr>
@@ -62135,322 +76544,533 @@ X пересмотра
 <td>В</td>
 <td>1</td>
 <td>2</td>
+<td>А</td>
+<td>Б</td>
+<td>В</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td>Всего заболеваний</td>
-<td>А 00-Т 98</td>
-<td>01</td>
+<td>
+Всего
+заболеваний
+</td>
+<td>А00-Т98</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>
+Болезни
+системы
+крово-
+обращения
+</td>
+<td>
+I00-
+I99
+</td>
+<td>9</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-из них: Инфекционные и
-паразитарные болезни…
+из них:
+Инфекционные и
+паразитарные
+болезни…
 </td>
-<td>А 00-В 99</td>
-<td>02</td>
+<td>А00-В99</td>
+<td>2</td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>в том числе: кишечные инфекции</td>
-<td>А 00-А 09</td>
-<td>03</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>сепсис</td>
-<td>А 40-А 41</td>
-<td>04</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Энтеробиоз</td>
-<td>В 80</td>
-<td>05</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>
-Болезни крови, кроветворных
-органов ….
+Болезни
+органов
+дыхания
 </td>
-<td>D 50-D 89</td>
-<td>06</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе - анемия</td>
 <td>
-D 50-D 53,
-D 55-D 64
+J00-
+J99
 </td>
-<td>07</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Эндокринные болезни,
-расстройства питания и обмена
-веществ
-</td>
-<td>Е 00-Е 90</td>
-<td>08</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе - гипотрофия</td>
-<td>Е 40-Е 46</td>
-<td>09</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Болезни нервной системы</td>
-<td>G 00-G 99</td>
 <td>10</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-в том числе: детский церебальный
-паралич
+в том числе:
+кишечные
+инфекции
 </td>
-<td>G 80</td>
-<td>11</td>
+<td>А00-А09</td>
+<td>2.1</td>
+<td></td>
+<td></td>
+<td>
+в том числе:
+острые
+инфекции
+верхних
+дыхательных
+путей, и
+грипп
+</td>
+<td>
+J00-
+J06
+J10,
+J11
+</td>
+<td>10.1</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Болезни органов чувств</td>
-<td>H 00-H 95</td>
+<td>сепсис</td>
+<td>А40-А41</td>
+<td>2.2</td>
+<td></td>
+<td></td>
+<td>пневмонии</td>
+<td>
+J12-
+J16,
+J18
+</td>
+<td>10.2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Энтеробиоз</td>
+<td>В80</td>
+<td>2.3</td>
+<td></td>
+<td></td>
+<td>
+Обструктивный
+бронхит
+</td>
+<td>J44</td>
+<td>10.3</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Новообразования</td>
+<td>С00-D48</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+Острый
+бронхит
+</td>
+<td>
+J20,
+J20.0
+-J20.9
+</td>
+<td>10.4</td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+гемангиома и
+лимфангиома
+любой
+локализации
+</td>
+<td>D18</td>
+<td>3.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+Острый
+фарин-
+гит,
+тонзи-
+ллит
+</td>
+<td>
+J02,
+J02.0
+-J02.9.
+J03,
+J03.0-
+J03.9
+</td>
+<td>10.5</td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни крови,
+кроветворных
+органов ….
+</td>
+<td>D50-D89</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td>
+Болезни
+органов
+пищеварения
+</td>
+<td></td>
+<td></td>
+<td>
+K00-
+K93
+</td>
+<td>11</td>
+</tr>
+<tr>
+<td>
+в том числе -
+анемия
+</td>
+<td>
+D50-D53,
+D55-D64
+</td>
+<td>4.1</td>
+<td></td>
+<td></td>
+<td>
+в том числе:
+cтоматит
+</td>
+<td>
+K12,
+K12.0-
+К12.1
+</td>
+<td>11.1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Эндокринные
+болезни,
+расстройства
+питания и
+обмена веществ
+</td>
+<td>Е00-Е90</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td>
+Болезни кожи
+и подкожной
+клетчатки
+</td>
+<td>
+L00-
+L99
+</td>
 <td>12</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Острый наружный отит</td>
-<td>Н 60.5</td>
-<td>13</td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-продолжение таблицы
-
-<table>
-<tr>
-<td rowspan="2">Наименование болезней</td>
-<td rowspan="2">
-Код по МКБ
-Х пересмотра
-</td>
-<td rowspan="2">
-№
-строки
-</td>
-<td colspan="2">
-Зарегистрировано
-заболеваний детей
-</td>
-</tr>
-<tr>
-<td>0-5 лет</td>
 <td>
-в том числе
-от 0 до 1 года
+в том числе -
+гипотрофия
 </td>
+<td>Е40-Е46</td>
+<td>5.1</td>
+<td></td>
+<td></td>
+<td rowspan="2">
+Болезни
+костно-
+мышечной
+системы и
+соединитель-
+ной ткани
+</td>
+<td rowspan="2">
+М00-
+М99
+</td>
+<td rowspan="2">13</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
 </tr>
 <tr>
-<td>А</td>
-<td>Б</td>
-<td>В</td>
-<td>1</td>
-<td>2</td>
+<td>
+Психические
+растройства и
+растройства
+поведения
+</td>
+<td>F00-F99</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Болезни органов дыхания</td>
-<td>J 00-J 99</td>
+<td>
+Болезни
+нервной
+системы
+</td>
+<td>G00-G99</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td>
+Болезни
+мочеполовой
+системы
+</td>
+<td></td>
+<td></td>
+<td>
+N00-
+N99
+</td>
 <td>14</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>
-в том числе: острые инфекции
-верхних дыхательных путей, и
-грипп
+в том числе:
+детский
+церебальный
+паралич
+</td>
+<td>G80</td>
+<td>6.1</td>
+<td></td>
+<td></td>
+<td>
+Отдельные
+состояния,
+возникающие
+в перина-
+тальном
+периоде
 </td>
 <td>
-J 00-J 06
-J 10, J 11
+P00-
+P96
 </td>
 <td>15</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>пневмонии</td>
 <td>
-J 12-J 16,
-J 18
+Болезни глаза
+и его
+придаточного
+аппарата
+</td>
+<td>Н00-Н59</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td>
+Врожденные
+аномалии
+</td>
+<td>
+Q00-
+Q99
 </td>
 <td>16</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Обсртуктивный бронхит</td>
-<td>J 40</td>
+<td>
+Болезни уха и
+сосцевидного
+отростка
+</td>
+<td>Н60-Н95</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+в том
+числе
+врож-
+денные
+анома-
+лии
+сердца
+и сис-
+темы
+крово-
+обра-
+щения
+</td>
+<td>
+Q20-
+Q28
+</td>
+<td>16.1</td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+острый
+наружный отит
+</td>
+<td>Н60.5</td>
+<td>8.1</td>
+<td></td>
+<td></td>
+<td>
+Симптомы,
+признаки и
+отклонения
+от нормы
+</td>
+<td>
+R00-
+R99
+</td>
 <td>17</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Острый бронхит</td>
 <td>
-J 20,J 20.0-
-J 20.9
+двухсторонняя
+потеря слуха,
+тугоухость IV
+степени,
+глухота
+</td>
+<td>
+Н90,
+Н91
+</td>
+<td>8.2</td>
+<td></td>
+<td></td>
+<td>
+Травмы и
+отравления
+</td>
+<td>
+S00-
+T98
 </td>
 <td>18</td>
 <td></td>
 <td></td>
 </tr>
-<tr>
-<td>Острый фарингит, тонзиллит</td>
-<td>
-J 02,J 02.0-
-J 02.9. J 03,
-J 03.0-J 03.9
-</td>
-<td>19</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Болезни органов пищеварения</td>
-<td>K 00-K 93</td>
-<td>20</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Стоматит</td>
-<td>
-K 12, K 12.0-
-К 12.1
-</td>
-<td>21</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Болезни мочеполовой системы</td>
-<td>N 00-N 99</td>
-<td>22</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Врожденные аномалии</td>
-<td>Q 00-Q 99</td>
-<td>23</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-в том числе врожденные аномалии
-сердца и системы
-кровообращения
-</td>
-<td>Q 20-Q 28</td>
-<td>24</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Отдельные состояния,
-возникающие в перинатальном
-периоде
-</td>
-<td>P 00-P 96</td>
-<td>25</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Травмы и отравления</td>
-<td>S 00-T 88</td>
-<td>26</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Прочие болезни</td>
-<td></td>
-<td>27</td>
-<td></td>
-<td></td>
-</tr>
 </table>
 
-<table>
-<tr>
-<th>2400</th>
-<th colspan="4">Работа с детьми, достигшими 1 года и проживающими в районе обслуживания данной организации</th>
-</tr>
-<tr>
-<th colspan="3">Число детей, достигших в отчетном году возраста: 5 лет 1</th>
-<th colspan="2">2 лет 2 _______________</th>
-</tr>
-<tr>
-<th colspan="5">1 года 3 _______________, из них: исключительно на грудном вскармливании до 3 месяцев 4 __________________</th>
-</tr>
-<tr>
-<th colspan="2">до 6 месяцев 5 __</th>
-<th colspan="2">на грудном вскармливании до 12 месяцев 6 _____</th>
-<th>кроме того, на грудном вскармливании до 18 месяцев 7 _______</th>
-</tr>
-</table>
+### 2400 Работа с детьми, достигшими 1 года и проживающими в районе обслуживания данной организации Число детей, достигших в отчетном году возраста: 5 лет 1 ____________ 2 лет 2 __________________ 1 года 3 _______________, из них: исключительно на грудном вскармливании до 3 месяцев 4 __________________ до 6 месяцев 5 __________ на грудном вскармливании до 12 месяцев 6 ___________ кроме того, на грудном вскармливании до 18 месяцев 7 ___________
 
 2500 Профилактические осмотры детей и их результаты
 
 <table>
 <tr>
-<td>Н а и м е н о в а н и е</td>
-<td>
+<td rowspan="3">Наименование</td>
+<td rowspan="3">
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
-<td>
-Подлежало
+<td rowspan="3">
+Подле-
+жало
 осмотру
 </td>
-<td>Осмотрено</td>
+<td rowspan="3">
+Осмо-
+трено
+</td>
+<td colspan="6">Выявлено при осмотрах</td>
 </tr>
 <tr>
-<td>А</td>
-<td>Б</td>
-<td>1</td>
-<td>2</td>
+<td colspan="2">
+с
+понижением
+остроты
+</td>
+<td rowspan="2">
+с
+де-
+фек-
+тами
+речи
+</td>
+<td rowspan="2">
+со
+ско-
+лио-
+зом
+</td>
+<td rowspan="2">
+с
+наруше-
+ниями
+осанки
+</td>
+<td rowspan="2">
+с
+нервно-
+психичес-
+кими
+откло-
+нениями
+</td>
 </tr>
 <tr>
 <td>
-Всего детей (в возрасте до 14 лет
+слу-
+ха
+</td>
+<td>
+зре-
+ния
+</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+</tr>
+<tr>
+<td>
+Всего детей (в
+возрасте до 14 лет
 включительно)
 </td>
 <td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -62462,86 +77082,72 @@ K 12, K 12.0-
 <td>02</td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>школьники (0-9 классов)</td>
-<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-прошедшие скрининговых обследование до 3
-лет, из них
+школьники
+(0-9 классов)
+</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+прошедшие
+скрининговых
+обследование
+до 3 лет, из них
 </td>
 <td>04</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-направленны на психо- медико педогогическую
+направленны на
+психо-медико
+педогогическую
 коррекцию
 </td>
 <td>05</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-кроме того, дети переданные под наблюдение
-в подрос.каб
+кроме того, дети
+переданные под
+наблюдение в
+подрос. каб
 </td>
-<td>04</td>
+<td>06</td>
 <td></td>
 <td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td colspan="6">Выявлено при осмотрах</td>
-</tr>
-<tr>
-<td colspan="2">
-с понижением
-остроты
-</td>
-<td>с дефектами</td>
-<td rowspan="2">со сколиозом</td>
-<td rowspan="2">
-с нарушениями
-осанки
-</td>
-<td rowspan="2">
-с нервно-психическими
-отклонениями
-</td>
-</tr>
-<tr>
-<td>слуха</td>
-<td>зрения</td>
-<td>речи</td>
-</tr>
-<tr>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -62551,36 +77157,37 @@ K 12, K 12.0-
 </tr>
 </table>
 
-Примечание:
+Примечание: В отчет включают данные о детях в возрасте ло 14 лет
 
-В отчет включают данные о детях в возрасте ло 14 лет включительно, состоявших под наблюдением лечебно-профилактической организации и проживающих в районе его обслуживания.
+включительно, состоявших под наблюдением лечебно-профилактической
 
-<table>
-<tr>
-<td>
-Руководитель ___________________________
-Исполнитель _________ ,телефон _________
-</td>
-<td>Дата &quot;__&quot; _____ 20 ___ года</td>
-</tr>
-</table>
+организации и проживающих в районе его обслуживания.
+
+Руководитель _______________________
+
+Исполнитель _______, телефон ______ Дата "___" ______ 20___ года
 
 > *Приложение 3*  
-> *Утверждено приказом и.о. Министра*  
-> *здравоохранения Республики Казахстан*  
-> *от 12 сентября 2011 г. № 616*
+> *Утверждено приказом*  
+> *и.о. Министра здравоохранения*  
+> *Республики Казахстан*  
+> *от 12 сентября 2011 года № 616*
 
-Конфиденциальность гарантируется получателем информации
+### Конфиденциальность гарантируется получателем информации
 
-Кем представляется _________________________________________________
+Кем представляется _________________________________
 
 (наименование, адрес)
 
-## Форма 32
+### Форма 32
 
 годовая
 
-## Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+> *Сноска. Форма 32 в редакции приказа Министра здравоохранения РК от 28.09.2012 № 663 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
+
+### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан
+
+"О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -62589,119 +77196,169 @@ K 12, K 12.0-
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
-Представляют:
-1. Родильные дома, все медицинские организации всех форм
-собственности, имеющие женские консультации, акушерско -
-гинекологические кабинеты в составе поликлиник,
-родильные отделения (палаты, койки) в стационаре - рай
-(гор) здравотделу (главному врачу района, города) - 5
-января.
-2. Местные органы государственного управления
-здравоохранением сводный отчет по области, городу - в
-областные департаменты статистики, г.г. Астаны и Алматы
-и в Министерство здравоохранения ,Республики Казахстан к
-10 февраля.
-</td>
-</tr>
-</table>
+Представляют: 1. Родильные дома, все медицинские организации
 
-## Отчет о медицинской помощи беременным, роженицам и родильницам 20 _____ год
+всех форм собственности, имеющие женские
 
-2110 КОНТИНГЕНТЫ БЕРЕМЕННЫХ, ПРОЖИВАЮЩИХ В РАЙОНЕ ОБСЛУЖИВАНИЯ
+консультации, акушерско-гинекологические кабинеты
 
-ОРГАНИЗАЦИИ
+в составе поликлиник, родильные отделения
+
+(палаты, койки) в стационаре -
+
+рай(гор)здравотделу (главному врачу района,
+
+города) - 5 января;
+
+2\. Местные органы государственного управления
+
+здравоохранением сводный отчет по области, городу
+
+- в Министерство здравоохранения Республики
+
+Казахстан к 10 февраля.
+
+### Отчет о медицинской помощи беременным, роженицам и родильницам 20______ год
+
+2110 КОНТИНГЕНТЫ БЕРЕМЕННЫХ, ПРОЖИВАЮЩИХ В РАЙОНЕ ОБСЛУЖИВАНИЯ ОРГАНИЗАЦИИ
 
 человек
 
 <table>
 <tr>
-<td rowspan="3">№ строки</td>
-<td rowspan="3">
-Количество беременных на
-начало года
+<td rowspan="5">Наименование</td>
+<td rowspan="5">
+№
+с
+т
+р
+о
+к
+и
 </td>
-<td colspan="3">В отчетном году</td>
+<td rowspan="5">
+Коли-
+чество
+бере-
+менных
+на
+начало
+года
+</td>
+<td colspan="9">В отчетном году</td>
 </tr>
 <tr>
 <td colspan="2">
-Поступили под наблюдение
+Поступили
+под
+наблюдение
 консультации
 </td>
-<td rowspan="2">
-Кроме того,
-поступили из числа
-наблюдавшихся
+<td rowspan="4">
+Кроме
+того,
+посту-
+пили из
+числа
+наблю-
+давшихся
 другими
-организациями
+органи-
+зациями
+</td>
+<td colspan="3">
+Закончили
+беременность
+(из числа
+состоявших под
+наблюдением
+</td>
+<td rowspan="4">
+абор-
+тами*)
+</td>
+<td rowspan="4">
+Выбыло
+из под
+наблю-
+дения
+</td>
+<td rowspan="4">
+Коли-
+чес-
+тво
+бе-
+ре-
+мен-
+ных
+из
+числа
+на-
+блю-
+дав-
+шихся
+на
+конец
+года
 </td>
 </tr>
 <tr>
-<td>Всего</td>
-<td>
-в том числе со
+<td rowspan="3">
+В
+с
+е
+г
+о
+</td>
+<td rowspan="3">
+в том
+числе со
 сроком
-беременности до 12
+беремен-
+ности до
+12
 недель
 </td>
-</tr>
-<tr>
-<th>А</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td colspan="6">В отчетном году</td>
-</tr>
-<tr>
 <td colspan="3">
-Закончили беременность (из числа
-состоявших под наблюдением
-</td>
-<td rowspan="4">абортами*)</td>
-<td rowspan="4">
-Выбыло из
-под
-наблюдения
-</td>
-<td rowspan="4">
-Количество беременных
-из числа наблюдавшихся
-на конец года
-</td>
-</tr>
-<tr>
-<td colspan="3">
-на начало года и поступивших под
-наблюдение в отчетном году
+на начало года
+и поступивших
+под наблюдение
+в отчетном
+году
 </td>
 </tr>
 <tr>
 <td colspan="3">родами</td>
 </tr>
 <tr>
-<td>в срок</td>
-<td>преждевременными</td>
-<td>запоздалыми</td>
+<td>
+в
+с
+р
+о
+к
+</td>
+<td>
+пре-
+жде-
+вре-
+мен-
+ными
+</td>
+<td>
+за-
+поз-
+да-
+лыми
+</td>
 </tr>
 <tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
 <th>5</th>
 <th>6</th>
 <th>7</th>
@@ -62710,6 +77367,12 @@ K 12, K 12.0-
 <th>10</th>
 </tr>
 <tr>
+<td>Всего</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -62717,196 +77380,289 @@ K 12, K 12.0-
 <td></td>
 <td></td>
 </tr>
-</table>
-
-*) не включаются данные о женщинах, обратившихся за направлением на
-
-медицинский аборт до 12 недель
-
-<table>
 <tr>
 <td>
-2120 Из числа закончивших
-беременность (графы 5+6+7+8)
-таблицы 2210 1) были осмотрены
-терапевтом 1 ___________
+в том числе
+после
+Эктракорпо-
+рального
+оплодотворе-
+ния (ЭКО)
 </td>
-<td>
-в т.ч. до 12 недель беременности
-2 ________
-</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
-2130 ОТДЕЛЬНЫЕ ЗАБОЛЕВАНИЯ, ПРЕДШЕСТВОВАВШИЕ ИЛИ ВОЗНИКШИЕ ВО ВРЕМЯ
+*) не включаются данные о женщинах, обратившихся за направлением
 
-БЕРЕМЕННОСТИ, ОСЛОЖНЯЮЩИЕ БЕРЕМЕННОСТЬ.
+на медицинский аборт до 12 недель
+
+### 2120
+
+Из числа закончивших беременность (гр. 5+6+7+8) табл. 2210 1)
+
+были осмотрены терапевтом 1 __#1___ в т.ч. до 12 недель беременности 2 ___#2____
+
+2130 ОТДЕЛЬНЫЕ ЗАБОЛЕВАНИЯ, ПРЕДШЕСТВОВАВШИЕ ИЛИ ВОЗНИКШИЕ
+
+ВО ВРЕМЯ БЕРЕМЕННОСТИ, ОСЛОЖНЯЮЩИЕ БЕРЕМЕННОСТЬ.
 
 <table>
 <tr>
 <td>Наименование</td>
-<td>№ строки</td>
 <td>
-Шифр по МКБ
-Х пересмотра
+№
+строки
 </td>
+<td>
+Шифр по
+МКБ Х
+пересмотра
+</td>
+<td></td>
+<td>Наименование</td>
+<td>
+№
+строки
+</td>
+<td>
+Шифр по
+МКБ Х
+пересмора
+</td>
+<td></td>
 </tr>
 <tr>
 <td>А</td>
 <td>Б</td>
 <td>В</td>
+<td>1</td>
+<td>А</td>
+<td>Б</td>
+<td>В</td>
+<td>1</td>
 </tr>
 <tr>
-<td>Отеки, протеинурия и гипертензивные состояния</td>
+<td>
+Отеки,
+протеинурия и
+гипертензивные
+состояния
+</td>
 <td>01</td>
-<td>О 10-О 15</td>
+<td>О10-О15</td>
+<td></td>
+<td>
+Болезни органов
+пищеварения
+</td>
+<td>9</td>
+<td>О99.6</td>
+<td></td>
 </tr>
 <tr>
-<td>в том числе: преэклампсия, эклампсия</td>
+<td>
+в том числе:
+преэклампсия,
+эклампсия
+</td>
 <td>02</td>
-<td>О 14,О 15</td>
+<td>О14,О15</td>
+<td></td>
+<td>Вирусный гепатит</td>
+<td>10</td>
+<td>О98.4</td>
+<td></td>
 </tr>
 <tr>
-<td>Кровотечения в дородовом периоде</td>
+<td>
+Кровотечения в
+дородовом периоде
+</td>
 <td>03</td>
-<td>О 44, О 45-О 46</td>
+<td>
+О44,
+О45-О46
+</td>
+<td></td>
+<td>
+Болезни нервной
+системы
+</td>
+<td>11</td>
+<td>О99.3</td>
+<td></td>
 </tr>
 <tr>
-<td>в том числе: преждевременная отслойка плаценты</td>
-<td>04</td>
-<td>О 45</td>
+<td rowspan="2">
+в том числе:
+преждевременная
+отслойка плаценты
+</td>
+<td rowspan="2">04</td>
+<td rowspan="2">О45</td>
+<td rowspan="2"></td>
+<td>
+Болезни системы
+кровообращения
+</td>
+<td>12</td>
+<td>
+О16, О22,
+О99.4
+</td>
+<td></td>
 </tr>
 <tr>
-<td>Внозные осложнения во время беременности</td>
+<td>
+Болезни
+эндокринной
+системы
+</td>
+<td>13</td>
+<td>O 99.2</td>
+<td></td>
+</tr>
+<tr>
+<td>
+Сахарный диабет
+во время
+беременности
+</td>
 <td>05</td>
-<td>О 22</td>
-</tr>
-<tr>
-<td>Сахарный диабет во время беременности</td>
-<td>06</td>
-<td>О 24</td>
+<td>О24</td>
+<td></td>
+<td>
+Болезни
+мочеполовой
+системы во время
+беременности
+</td>
+<td>14</td>
+<td>О23</td>
+<td></td>
 </tr>
 <tr>
 <td>Анемии</td>
-<td>07</td>
-<td>О 99.О</td>
-</tr>
-<tr>
-<td>Болезни органов дыхания</td>
-<td>08</td>
-<td>О 99.5</td>
-</tr>
-<tr>
-<td>Туберкулез органов дыхания</td>
-<td>09</td>
-<td>О 98.0</td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td>Наименование</td>
-<td>№ строки</td>
+<td>06</td>
+<td>О99.О</td>
+<td></td>
 <td>
-Шифр по МКБ
-Х пересмора
-</td>
-</tr>
-<tr>
-<td>А</td>
-<td>Б</td>
-<td>В</td>
-</tr>
-<tr>
-<td>Болезни органов пищеварения</td>
-<td>10</td>
-<td>О 99.6</td>
-</tr>
-<tr>
-<td>Вирусный гепатит</td>
-<td>11</td>
-<td>О 98.4</td>
-</tr>
-<tr>
-<td>Болезни нервной системы</td>
-<td>12</td>
-<td>О 99.3</td>
-</tr>
-<tr>
-<td>Болезни системы кровообращения</td>
-<td>13</td>
-<td>О 16, О 99.4</td>
-</tr>
-<tr>
-<td>Болезни эндокринной системы</td>
-<td>14</td>
-<td>O 99.2</td>
-</tr>
-<tr>
-<td>
-Болезни мочеполовой системы во время
-беременности..
+Переношенная
+беременность
 </td>
 <td>15</td>
-<td>О 23</td>
+<td>О48</td>
+<td></td>
 </tr>
 <tr>
-<td>Переношенная беременность</td>
+<td>
+Болезни органов
+дыхания
+</td>
+<td>07</td>
+<td>О99.5</td>
+<td></td>
+<td>
+Прочие
+акушерские
+осложнения
+</td>
 <td>16</td>
-<td>О 48</td>
+<td>
+О21;О25;
+О26;О28-
+О36;О42;
+О43;О47
+</td>
+<td></td>
 </tr>
 <tr>
-<td>Прочие акушерские осложнения</td>
+<td>
+Туберкулез
+органов дыхания
+</td>
+<td>08</td>
+<td>О98.0</td>
+<td></td>
+<td>
+Прочие
+экстрагенитальные
+заболевания
+</td>
 <td>17</td>
 <td>
-О 21;О 25; О 26;
-О 28-О 36;О 42;
-О 43;О 47
+O98.1-
+O98.3,
+O98.5-
+O98.9,
+O99.1,
+O99.7-
+O99.8,
 </td>
-</tr>
-<tr>
-<td>Прочие экстрагенитальные заболевания</td>
-<td>18</td>
-<td>
-O 98.1-O 98.3,
-O 98.5-O 98.9,
-O 99.1, O 99.7-
-O 99.8,
-</td>
+<td></td>
 </tr>
 </table>
 
 РОДОВСПОМОЖЕНИЕ В СТАЦИОНАРЕ
 
-2210 Принято родов всего 1 _____________, из них у девочек-подростков
+2210 Принято родов всего 1 __#1__, из них у девочек-подростков (15-18
 
-(15-18 лет) 2 ___________.Кроме того, поступило родившихся вне
+лет) 2 __#2__. Кроме того, поступило родившихся вне родильного
 
-родильного отделения 3 ___________ Из числа родов: физиологические 4
+отделения 3 ___#3____
 
-__________________, многоплодные 5____________, из них: двойня 6
+Из числа родов: физиологические 4 ___#4____, многоплодные
 
-________, тройня 7 _______. Количество женщин, абсолютно здоровых, из
+5__#5___, из них: двойня 6 ___#6___, тройня 7 __#7__. Количество
 
-числа закончивших беременность родами 8 ________, количество женщин,
+женщин, абсолютно здоровых,
 
-из числа родивших, не посещавших женскую консультацию (женский
+из числа закончивших беременность родами 8 __#8___, количество
 
-кабинет) 9______.
+женщин, из числа родивших, не посещавших женскую консультацию
 
-2211 ЗАБОЛЕВАНИЯ. ОСЛОЖНИВШИЕ РОДЫ (ОСЛОЖНЕНИЯ РОДОВ И ПОСЛЕРОДОВОГО
+(женский кабинет) 9__#9___
 
-ПЕРИОДА)
+партнерские роды 10 ___#10__, активное ведение 3-го периода 11
+
+__#11___, литотомическая позиция (на спине) во 2-м периоде 12
+
+__#12__, наложение шва Б-Линча 13 __#13__, расширение объема до
+
+ампутации (экстирпации) ПВПА 14 __#14__
+
+2211 ЗАБОЛЕВАНИЯ, ОСЛОЖНИВШИЕ РОДЫ (ОСЛОЖНЕНИЯ РОДОВ И ПОСЛЕРОДОВОГО ПЕРИОДА)
 
 <table>
 <tr>
 <td>Наименование</td>
 <td>№ строки</td>
 <td>
-Шифр по МКБ
-Х пересмотра
+Шифр по
+МКБ Х
+пересмотра
+</td>
+<td></td>
+<td>Наименование</td>
+<td>
+№
+строки
+</td>
+<td>
+Шифр по
+МКБ Х
+пересмотра
 </td>
 <td></td>
 </tr>
@@ -62915,184 +77671,188 @@ ________, тройня 7 _______. Количество женщин, абсол�
 <td>Б</td>
 <td>В</td>
 <td>1</td>
+<td>А</td>
+<td>Б</td>
+<td>В</td>
+<td>1</td>
 </tr>
 <tr>
 <td>
-Нарушения родовой деятельности,
+Нарушения
+родовой
+деятельности,
 затяжные роды
 </td>
 <td>01</td>
-<td>О 62,О 63</td>
-<td></td>
-</tr>
-<tr>
 <td>
-Затрудненные роды вследствие
-неправильного положения или
-предлежания плода
+О62,
+О63,
+О65
 </td>
-<td>02</td>
-<td>О 64</td>
 <td></td>
-</tr>
-<tr>
 <td>
-Затрудненные роды вследствие
-аномалии костного таза
-</td>
-<td>03</td>
-<td>О 65</td>
-<td></td>
-</tr>
-<tr>
-<td>Другие виды затрудненных родов</td>
-<td>04</td>
-<td>О 66</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Родовая деятельность и
-родоразрешение, осложнившиеся
-кровотечением
-</td>
-<td>05</td>
-<td>О 44-О 45, О 67</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Родовая деятельность и
-родоразрешение, осложнившиеся
-стрессом плода (дистресс)
-</td>
-<td>06</td>
-<td>О 68</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Патологические состояния
-пуповины
-</td>
-<td>07</td>
-<td>О 69</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Аномалии плодовых оболочек
-(маловодие, многоводие)
+Разрыв и
+выворот матки
 </td>
 <td>08</td>
-<td>О 40-О 41</td>
-<td></td>
-</tr>
-<tr>
-<td>Разрыв промежности, всего</td>
-<td>09</td>
-<td>О 70</td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе III степени</td>
-<td>10</td>
-<td>О 70.2</td>
-<td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td>Наименование</td>
-<td>№ строки</td>
 <td>
-Шифр по МКБ
-Х пересмотра
+О71.0-
+О71.2
 </td>
 <td></td>
 </tr>
 <tr>
-<td>А</td>
-<td>Б</td>
-<td>В</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Разрыв матки</td>
-<td>11</td>
-<td>О 71.1</td>
-<td></td>
-</tr>
-<tr>
-<td>Послеродовое кровотечение</td>
-<td>12</td>
-<td>О 72</td>
-<td></td>
-</tr>
-<tr>
-<td>Роды с наложением щипцов</td>
-<td>13</td>
-<td>О 81.0-О 81.3</td>
+<td rowspan="2">
+Затрудненные
+роды вследствие
+неправильного
+положения или
+предлежания
+плода
+</td>
+<td rowspan="2">02</td>
+<td rowspan="2">О64</td>
+<td rowspan="2"></td>
+<td>
+Послеродовое
+кровотечение
+</td>
+<td>09</td>
+<td>О72</td>
 <td></td>
 </tr>
 <tr>
 <td>
-Роды с применением
-вакуум-экстрактора
+Роды с
+наложением
+щипцов
+</td>
+<td>10</td>
+<td>
+О81.0-
+О81.3
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+Другие виды
+затрудненных
+родов
+</td>
+<td>03</td>
+<td>О66</td>
+<td></td>
+<td>
+Роды с
+применением
+вакуум-
+экстрактора
+</td>
+<td>11</td>
+<td>О81.4</td>
+<td></td>
+</tr>
+<tr>
+<td>
+Родовая
+деятельность и
+родоразрешение,
+осложнившиеся
+кровотечением
+</td>
+<td>04</td>
+<td>
+О44-
+О45, О67
+</td>
+<td></td>
+<td>
+Родоразрешение
+посредством
+кесарева
+сечения
+</td>
+<td>12</td>
+<td>О82</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">
+Патологические
+состояния
+пуповины
+</td>
+<td rowspan="2">05</td>
+<td rowspan="2">О69</td>
+<td rowspan="2"></td>
+<td>
+Послеродовой
+сепсис
+</td>
+<td>13</td>
+<td>О85</td>
+<td></td>
+</tr>
+<tr>
+<td>
+Другие
+послеродовые
+инфекции
 </td>
 <td>14</td>
-<td>О 81.4</td>
+<td>О86</td>
 <td></td>
 </tr>
 <tr>
+<td rowspan="2">
+Разрыв
+промежности,
+всего
+</td>
+<td rowspan="2">06</td>
+<td rowspan="2">О70</td>
+<td rowspan="2"></td>
 <td>
-Родоразрешение посредством
-кесарева сечения
+Венозные
+осложнения в
+послеродовом
+периоде
 </td>
 <td>15</td>
-<td>О 82</td>
-<td></td>
-</tr>
-<tr>
-<td>Послеродовой сепсис</td>
-<td>16</td>
-<td>О 85</td>
-<td></td>
-</tr>
-<tr>
-<td>Другие послеродовые инфекции</td>
-<td>17</td>
-<td>О 86</td>
+<td>О87</td>
 <td></td>
 </tr>
 <tr>
 <td>
-Венозные осложнения в
-послеродовом периоде
+Акушерская
+эмболия
 </td>
-<td>18</td>
-<td>О 87</td>
+<td>16</td>
+<td>О88</td>
 <td></td>
 </tr>
 <tr>
-<td>Акушерская эмболия</td>
-<td>19</td>
-<td>О 88</td>
-<td></td>
-</tr>
-<tr>
-<td>Инфекции молочной железы</td>
-<td>20</td>
-<td>О 91</td>
+<td rowspan="2">
+в том числе
+III степени
+</td>
+<td rowspan="2">07</td>
+<td rowspan="2">О70.2</td>
+<td rowspan="2"></td>
+<td>
+Инфекции
+молочной
+железы
+</td>
+<td>17</td>
+<td>О91</td>
 <td></td>
 </tr>
 <tr>
 <td>Гипогалактия</td>
-<td>21</td>
-<td>О 92.4</td>
+<td>18</td>
+<td>О92.4</td>
 <td></td>
 </tr>
 </table>
@@ -63101,342 +77861,383 @@ ________, тройня 7 _______. Количество женщин, абсол�
 
 <table>
 <tr>
-<td>Причины смерти</td>
-<td>№ строки</td>
-<td>Шифр по МКБ Х пересмотра</td>
+<td rowspan="2">
+Причины
+смерти
+</td>
+<td rowspan="2">
+№
+строки
+</td>
+<td rowspan="2">
+Шифр по
+МКБ Х
+пересмотра
+</td>
+<td colspan="3">
+Беременные
+со сроком
+беременности
+</td>
+<td rowspan="2">
+Роже-
+ницы и
+родиль-
+ницы
+</td>
+<td rowspan="2">
+Умерли в
+послеродо-
+вом и
+послеаборт-
+ном
+периодах
+(до 42
+дней)
+</td>
+<td rowspan="2">
+Умерли в
+послеродовом
+и после абортном периодах
+(с 43 до
+365 дней)
+</td>
 </tr>
 <tr>
-<td>А</td>
-<td>Б</td>
-<td>В</td>
+<td>до 12 недель</td>
+<td>13-21 недель</td>
+<td>22 недели и более</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>В</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>
-I. Связанные с беременностью, родами и
-послеродовым периодом:
+I. Связанные с
+беременностью,
+родами и
+послеродовым
+периодом:
 </td>
 <td>1</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Акушерские кровотечения</td>
+<td>
+Акушерские
+кровотечения
+</td>
 <td>02</td>
 <td>
-О 20;О 44; О 45;О 46;
-О 67; О 72
+О20;О44;
+О45;О46;
+О67; О72
 </td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Преэклампсия, эклампсия</td>
+<td>
+Преэклампсия,
+эклампсия
+</td>
 <td>03</td>
-<td>О 14-О 15</td>
+<td>О14-О15</td>
+<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Разрыв матки</td>
 <td>04</td>
-<td>О 71.0-О 71.1</td>
+<td>
+О71.0-
+О71.1
+</td>
+<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Сепсис</td>
 <td>05</td>
-<td>О 75.3; О 85-О 86;</td>
-</tr>
-<tr>
-<td>в том числе перитонит</td>
-<td>06</td>
-<td>О 85</td>
-</tr>
-<tr>
-<td>Акушерская эмболия</td>
-<td>07</td>
-<td>О 88</td>
-</tr>
-<tr>
 <td>
-Прочие причины (тромбоэмболия легочной
-артерии, наркозные осложнения,
-анафил.шок, ранение сосудов во время
-операции и другие)
+О75.3;
+О85-О86;
 </td>
-<td>08</td>
-<td>
-О 29;О 74;О 75.0;О 75.1;
-О 87;О 89;О 90
-</td>
-</tr>
-<tr>
-<td>
-II. Не связанные с беременностью и
-родами:
-</td>
-<td>09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td>Болезни крови, кроветворных органов</td>
+<td>
+в том числе
+перитонит
+</td>
+<td>06</td>
+<td>О85</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Акушерская
+эмболия
+</td>
+<td>07</td>
+<td>О88</td>
+<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Прочие причины
+(тромбоэмболия
+легочной
+артерии,
+наркозные
+осложнения,
+анафил.шок,
+ранение
+сосудов во
+время операции
+и др.)
+</td>
+<td>08</td>
+<td>
+О29;О74;
+О75.0;
+О75.1;
+О87;О89;
+О90
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+II. Не
+связанные с
+беременностью
+и родами:
+</td>
+<td>09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни крови,
+кроветворных
+органов
+</td>
 <td>10</td>
-<td>О 99.0, О 99.1</td>
+<td>
+О99.0,
+О99.1
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Эндокринные болезни</td>
+<td>
+Эндокринные
+болезни
+</td>
 <td>11</td>
-<td>О 99.2</td>
+<td>О99.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Болезни системы кровообращения</td>
+<td>
+Болезни
+системы
+кровообращения
+</td>
 <td>12</td>
-<td>О 99.4</td>
+<td>О99.4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Болезни органов дыхания</td>
+<td>
+Болезни
+органов
+дыхания
+</td>
 <td>13</td>
-<td>О 99.5</td>
+<td>О99.5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Болезни органов пищеварения</td>
+<td>
+Болезни
+органов
+пищеварения
+</td>
 <td>14</td>
-<td>О 98.4;О 99.6</td>
+<td>
+О 98.4;
+О99.6
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Болезни мочеполовой системы</td>
+<td>
+Болезни
+мочеполовой
+системы
+</td>
 <td>15</td>
-<td>О 23</td>
+<td>О23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Другие заболевания</td>
+<td>
+Другие
+заболевания
+</td>
 <td>16</td>
-<td>О 98;O 99.3; O 99.7; O 99.8</td>
+<td>
+О98;
+O 99.3;
+O99.7;
+O99.8
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>III. Аборты</td>
 <td>17</td>
-<td>О 03-О 08.9</td>
+<td>
+О03-
+О08.9
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>IV. Внематочная беременность</td>
+<td>
+IV. Внематочная
+беременность
+</td>
 <td>18</td>
-<td>О 00</td>
+<td>О00</td>
+<td></td>
+<td>Х</td>
+<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Всего (строки 1, 9,17,18)</td>
+<td>
+Всего (строки
+1+09+17+18)
+</td>
 <td>19</td>
 <td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td colspan="3">
-Беременные со сроком
-беременности
-</td>
-<td rowspan="2">
-Роженицы и
-родильницы
-</td>
-<td rowspan="2">
-Умерли в послеродовом
-и послеабортном
-периодах (до 42 дней)
-</td>
-<td rowspan="2">
-Умерли в послеродовом
-и послеабортном
-периодах
-(с 43 до 365 дней)
-</td>
-</tr>
-<tr>
-<td>
-до 12
-недель
-</td>
-<td>
-13-21
-недель
-</td>
-<td>
-22 недели
-и более
-</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
 <td></td>
-<td>5</td>
-<td>6</td>
-</tr>
-<tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Х</td>
-<td>Х</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td>
-2213 Из числа умерших умерло в:
-акушерских стационарах 1 _________
-</td>
-<td>в частных клиниках 4 ___________</td>
-</tr>
-<tr>
-<td>гинекологических 2_________</td>
-<td>на дому 5 _________________</td>
-</tr>
-<tr>
-<td>других стационарах 3 _______</td>
-<td>прочих местах 6 _____________</td>
-</tr>
-</table>
+2213 Из числа умерших умерло в: акушерских стационарах 1__#1__
+
+в частных клиниках 4__#4__
+
+на дому 5__#5__
+
+прочих местах 6__#6__
 
 СВЕДЕНИЯ О НОВОРОЖДЕННЫХ
 
-2245 Распределение родившихся и умерших по массе тела при рождении
+#### 2245 Распределение родившихся и умерших по массе тела при рождении
 
 <table>
 <tr>
@@ -63453,8 +78254,8 @@ II. Не связанные с беременностью и
 <td rowspan="2">1000-1499</td>
 <td rowspan="2">1500-2499</td>
 <td rowspan="2">
-2500 и
-более
+2500
+и более
 </td>
 <td>
 в том
@@ -63463,8 +78264,8 @@ II. Не связанные с беременностью и
 </tr>
 <tr>
 <td>
-4000 и
-более
+4000
+и более
 </td>
 </tr>
 <tr>
@@ -63488,7 +78289,10 @@ II. Не связанные с беременностью и
 <td></td>
 </tr>
 <tr>
-<td>из них умерло, всего</td>
+<td>
+из них умерло,
+всего
+</td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -63499,8 +78303,9 @@ II. Не связанные с беременностью и
 </tr>
 <tr>
 <td>
-в том числе в первые
-0-6 суток
+в том числе
+в первые 0-6
+суток
 </td>
 <td>03</td>
 <td></td>
@@ -63531,7 +78336,10 @@ II. Не связанные с беременностью и
 <td></td>
 </tr>
 <tr>
-<td>Родились мертвыми</td>
+<td>
+Родились
+мертвыми
+</td>
 <td>06</td>
 <td></td>
 <td></td>
@@ -63542,7 +78350,8 @@ II. Не связанные с беременностью и
 </tr>
 <tr>
 <td>
-из них: в антенатальный
+из них:
+в антенатальный
 период
 </td>
 <td>07</td>
@@ -63554,7 +78363,10 @@ II. Не связанные с беременностью и
 <td></td>
 </tr>
 <tr>
-<td>в интранатальный период</td>
+<td>
+в интранатальный
+период
+</td>
 <td>08</td>
 <td></td>
 <td></td>
@@ -63565,512 +78377,67 @@ II. Не связанные с беременностью и
 </tr>
 </table>
 
-2246 Родились живыми (включая поступивших после рождения вне
+2246 Родились живыми (включая поступивших после рождения
 
-родильной организации) всего 1 ________________________, из них
+вне родильной организации) всего 1 __#1___,
 
-родились ранее срока 2 ____________________________, Родились
+из них родились ранее срока 2 ___#2____,
 
-мертвыми - всего 3 _____________________, из них родились ранее срока
+Родились мертвыми - всего 3 ___#3____,
 
-4_________________, из числа родившихся мертвыми, смерть наступила до
+из них родились ранее срока 4___#4_____, из числа родившихся
 
-начала родовой деятельности 5 ______________
+мертвыми, смерть наступила до начала родовой деятельности 5 __#5____
 
-2247 Переведено новорожденных (плодов) в другие стационары (отделения
+2247 Переведено новорожденных (плодов) в другие стационары
 
-для недоношенных и грудных детей) 1 __________ Сделано
+(отделения для недоношенных и грудных детей) 1 __#1___
 
-противотуберкулезных прививок 2 ______Сделано прививок против
+Сделано противотуберкулезных прививок 2 __#2____
 
-гепатита В 3 _________
+Сделано прививок против гепатита В3_#3__
 
-2250 ЗАБОЛЕВАНИЯ И ПРИЧИНЫ СМЕРТИ НОВОРОЖДЕННЫХ (ПЛОДОВ), РОДИВШИХСЯ
-
-С МАССОЙ ТЕЛА 500-999 ГРАММ
+2250 ЗАБОЛЕВАНИЯ И ПРИЧИНЫ СМЕРТИ НОВОРОЖДЕННЫХ (ПЛОДОВ), РОДИВШИХСЯ С МАССОЙ ТЕЛА 500-999 ГРАММ
 
 <table>
 <tr>
-<td>Наименование</td>
-<td>№ строки</td>
-<td>Шифр по МКБ Х пересмотра</td>
-</tr>
-<tr>
-<td>А</td>
-<td>Б</td>
-<td>В</td>
-</tr>
-<tr>
-<td>Всего детей</td>
-<td>01</td>
-<td></td>
-</tr>
-<tr>
-<td>число заболеваний: у них</td>
-<td>01.1</td>
-<td>
-A 50, J 00-06, J 20-J 22,
-J 12-18, L 00-L 08,Q 00-Q 99,
-P 00-P 96, T 20-T 50,T 70-
-Т 74,T 80, T 81.2
-</td>
-</tr>
-<tr>
-<td>Острые респираторные инфекции</td>
-<td>02</td>
-<td>J 00-06, J 20-J 22</td>
-</tr>
-<tr>
-<td>Пневмония</td>
-<td>03</td>
-<td>J 12-J 18</td>
-</tr>
-<tr>
-<td>Инфекции кожи и подкожной клетчатки</td>
-<td>04</td>
-<td>L 00-L 08</td>
-</tr>
-<tr>
-<td>Врожденные аномалии</td>
-<td>05</td>
-<td>Q 00-Q 99</td>
-</tr>
-<tr>
-<td>
-Отдельные состояния, возникающие в
-перинатальном периоде
-</td>
-<td>06</td>
-<td>P 00-P 96</td>
-</tr>
-<tr>
-<td>
-из них: замедленный рост и недостаточность
-питания плода
-</td>
-<td>07</td>
-<td>P 05</td>
-</tr>
-<tr>
-<td>Родовые травмы из них:</td>
-<td>08</td>
-<td>P 10-Р 15</td>
-</tr>
-<tr>
-<td>внутричерепная родовая травма</td>
-<td>08.1</td>
-<td>P 10</td>
-</tr>
-<tr>
-<td>
-Внутриутробная гипоксия и асфиксия при
-рождении
-</td>
-<td>09</td>
-<td>P 20, P 21</td>
-</tr>
-<tr>
-<td>Синдром дыхательных расстройств</td>
-<td>10</td>
-<td>P 22</td>
-</tr>
-<tr>
-<td>Врожденные пневмонии</td>
-<td>11</td>
-<td>P 23</td>
-</tr>
-<tr>
-<td>Неонатальные синдромы аспирации</td>
-<td>12</td>
-<td>P 24</td>
-</tr>
-<tr>
-<td>
-Другие респираторные нарушения, возникающие
-в перинатальном периоде
-</td>
-<td>13</td>
-<td>Р 25-P 29</td>
-</tr>
-<tr>
-<td>
-Инфекции, специфичные для перинатального
-периода
-</td>
-<td>14</td>
-<td>Р 35, Р 37-Р 39</td>
-</tr>
-<tr>
-<td>бактериальная инфекция новорожденных</td>
-<td>15</td>
-<td>Р 36</td>
-</tr>
-<tr>
-<td>
-Геморрагические и гематологические
-нарушения у плода и новорожденного, из них:
-</td>
-<td>16</td>
-<td>P 50-Р 61</td>
-</tr>
-<tr>
-<td>Внутрижелудочковое кровоизлияние</td>
-<td>16.1</td>
-<td>P 52</td>
-</tr>
-<tr>
-<td>
-Геморрагическая болезнь плода и
-новорожденного
-</td>
-<td>16.2</td>
-<td>P 53</td>
-</tr>
-<tr>
-<td>
-Гемолитическая болезнь плода и
-новорожденного
-</td>
-<td>16.3</td>
-<td>P 55</td>
-</tr>
-<tr>
-<td>Желтухи новорожденного</td>
-<td>16.4</td>
-<td>P 58-P 59</td>
-</tr>
-<tr>
-<td>
-Расстройства системы пищеварения у плода и
-новорожденного
-</td>
-<td>17</td>
-<td>Р 75-Р 78</td>
-</tr>
-<tr>
-<td>
-Состояния, вовлекающие наружные покровы и
-терморегуляцию плода и новорожденного
-</td>
-<td>18</td>
-<td>Р 80-Р 83</td>
-</tr>
-<tr>
-<td>
-Другие нарушения, возникающие в
-перинатальном периоде
-</td>
-<td>19</td>
-<td>Р 90-Р 96</td>
-</tr>
-<tr>
-<td>
-Прочие болезни новорожденного
-(расшифровать)
-</td>
-<td>20</td>
-<td>А 50, T 20-T 50, T 70-Т 74</td>
-</tr>
-<tr>
-<td>в том числе сифилис</td>
-<td>20.1</td>
-<td>А 50</td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
+<td rowspan="2">Наименование</td>
 <td rowspan="2">
-Родились
-больными и
-заболело
-</td>
-<td colspan="4">из них умерли</td>
-<td colspan="2">Родились мертвыми</td>
-</tr>
-<tr>
-<td>Всего</td>
-<td>
-0-6
-суток
-</td>
-<td>7-27 суток</td>
-<td>
-28 суток и
-более
-</td>
-<td>Всего</td>
-<td>
-в т.ч.
-антенатально
-</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-2260 ЗАБОЛЕВАНИЯ И ПРИЧИНЫ СМЕРТИ НОВОРОЖДЕННЫХ, РОДИВШИХСЯ С МАССОЙ
-
-ТЕЛА 1000 - 1499 ГРАММ
-
-случае
-
-<table>
-<tr>
-<td>Наименование</td>
-<td>
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
-<td>
-Шифр по МКБ
-Х пересмотра
-</td>
-</tr>
-<tr>
-<td>А</td>
-<td>Б</td>
-<td>В</td>
-</tr>
-<tr>
-<td>Всего детей</td>
-<td>01</td>
-<td></td>
-</tr>
-<tr>
-<td>число заболеваний: у них</td>
-<td>01.1</td>
-<td>
-A 50, J 00-06,
-J 20-J 22,
-J 12-18, L 00-
-L 08,Q 00-Q 99,
-P 00-P 96, T 20-
-T 50,T 70-Т 74,
-T 80, T 81.2
-</td>
-</tr>
-<tr>
-<td>Острые респираторные инфекции</td>
-<td>02</td>
-<td>J 00-06, J 20-J 22</td>
-</tr>
-<tr>
-<td>Пневмония</td>
-<td>03</td>
-<td>J 12-J 18</td>
-</tr>
-<tr>
-<td>Инфекции кожи и подкожной клетчатки</td>
-<td>04</td>
-<td>L 00-L 08</td>
-</tr>
-<tr>
-<td>Врожденные аномалии</td>
-<td>05</td>
-<td>Q 00-Q 99</td>
-</tr>
-<tr>
-<td>
-Отдельные состояния, возникающие в перинатальном
-периоде
-</td>
-<td>06</td>
-<td>P 00-P 96</td>
-</tr>
-<tr>
-<td>
-из них:
-замедленный рост и недостаточность питания плода
-</td>
-<td>07</td>
-<td>P 05</td>
-</tr>
-<tr>
-<td>Родовые травмы</td>
-<td>08</td>
-<td>P 10-P 15</td>
-</tr>
-<tr>
-<td>
-из них:
-разрыв и внутричерепное кровоизлияние, вызванные
-родовой травмой
-</td>
-<td>08.1</td>
-<td>P 10</td>
-</tr>
-<tr>
-<td>повреждения волосистой части головы</td>
-<td>08.2</td>
-<td>P 12</td>
-</tr>
-<tr>
-<td>родовая травма скелета</td>
-<td>08.3</td>
-<td>P 13</td>
-</tr>
-<tr>
-<td>родовая травма периферической нервной системы</td>
-<td>08.4</td>
-<td>P 14</td>
-</tr>
-<tr>
-<td>
-Расстройства дыхательной и сердечно-сосудистой
-системы
-</td>
-<td>09</td>
-<td>P 20-P 29</td>
-</tr>
-<tr>
-<td>
-из них: внутриутробная гипоксия и асфиксия при
-рождении
-</td>
-<td>09.1</td>
-<td>P 20-P 21</td>
-</tr>
-<tr>
-<td>синдром дыхательных расстройств</td>
-<td>09.2</td>
-<td>Р 22</td>
-</tr>
-<tr>
-<td>врожденная пневмония</td>
-<td>09.3</td>
-<td>Р 23</td>
-</tr>
-<tr>
-<td>неонатальный синдром аспирации</td>
-<td>09.4</td>
-<td>P 24</td>
-</tr>
-<tr>
-<td>Инфекции, специфичные для перинатального периода</td>
-<td>10</td>
-<td>Р 35-Р 39</td>
-</tr>
-<tr>
-<td>из них: врожденные вирусные инфекции</td>
-<td>10.1</td>
-<td>P 35-Р 35.9</td>
-</tr>
-<tr>
-<td>бактериальная инфекция новорожденного</td>
-<td>10.2</td>
-<td>P 36</td>
-</tr>
-<tr>
-<td>омфалит новорожденного</td>
-<td>10.3</td>
-<td>P 38</td>
-</tr>
-<tr>
-<td>
-Геморрагические и гематологические нарушения у плода
-и новорожденного
-</td>
-<td>11</td>
-<td>P 50-Р 61</td>
-</tr>
-<tr>
-<td>из них: внутрижелудочковое кровоизлияние</td>
-<td>11.1</td>
-<td>P 52</td>
-</tr>
-<tr>
-<td>геморрагическая болезнь плода и новорожденного</td>
-<td>11.2</td>
-<td>P 53</td>
-</tr>
-<tr>
-<td>гемолитическая болезнь плода и новорожденного</td>
-<td>11.3</td>
-<td>P 55</td>
-</tr>
-<tr>
-<td>желтухи новорожденных</td>
-<td>11.4</td>
-<td>P 58-Р 59</td>
-</tr>
-<tr>
-<td>
-Расстройства системы пищеварения у плода и
-новорожденного
-</td>
-<td>12</td>
-<td>Р 75-Р 78</td>
-</tr>
-<tr>
-<td>
-Состояния, вовлекающие наружные покровы и
-терморегуляцию плода и новорожденного
-</td>
-<td>13</td>
-<td>Р 80-Р 83</td>
-</tr>
-<tr>
-<td>Другие нарушения, возникающие в перинатальном периоде</td>
-<td>14</td>
-<td>Р 90-Р 96</td>
-</tr>
-<tr>
-<td>Прочие болезни новорожденного (расшифровать)</td>
-<td>15</td>
-<td>
-А 50, T 20-T 50,
-T 70-Т 74
-</td>
-</tr>
-<tr>
-<td>в том числе врожденный сифилис</td>
-<td>15.1</td>
-<td>А 50</td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
 <td rowspan="2">
-Родились
-больными и
-заболело
+Шифр по
+МКБ Х
+пересмотра
+</td>
+<td rowspan="2">
+Роди-
+лись
+боль-
+ными и
+забо-
+лело
 </td>
 <td colspan="4">из них умерли</td>
-<td colspan="2">Родились мертвыми</td>
+<td colspan="2">
+Родились
+мертвыми
+</td>
 </tr>
 <tr>
-<td>Всего</td>
+<td>
+В
+с
+е
+г
+о
+</td>
 <td>
 0-6
 суток
@@ -64081,574 +78448,498 @@ T 70-Т 74
 </td>
 <td>
 28
-суток и
+суток
+и
 более
 </td>
-<td>всего</td>
-<td>в т.ч. антенатально</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td></td>
-</tr>
-</table>
-
-2270 ЗАБОЛЕВАНИЯ И ПРИЧИНЫ СМЕРТИ НОВОРОЖДЕННЫХ, РОДИВШИХСЯ С МАССОЙ
-
-ТЕЛА 1500-2499 ГРАММ
-
-случаи
-
-<table>
-<tr>
-<td>Наименование</td>
-<td>№ строки</td>
-<td>Шифр по МКБ Х пересмотра</td>
-</tr>
-<tr>
-<td>А</td>
-<td>Б</td>
-<td>В</td>
-</tr>
-<tr>
-<td>Всего детей</td>
-<td>01</td>
-<td></td>
-</tr>
-<tr>
-<td>число заболеваний: у них</td>
-<td>01.1</td>
 <td>
-A 50, J 00-06, J 20-J 22,
-J 12-18, L 00-L 08,Q 00-Q 99,
-P 00-P 96, T 20-T 50,T 70-
-Т 74,T 80, T 81.2
+В
+с
+е
+г
+о
 </td>
-</tr>
-<tr>
-<td>Острые респираторные инфекции</td>
-<td>02</td>
-<td>J 00-06, J 20-J 22</td>
-</tr>
-<tr>
-<td>Пневмония</td>
-<td>03</td>
-<td>J 12-J 18</td>
-</tr>
-<tr>
-<td>Инфекции кожи и подкожной клетчатки</td>
-<td>04</td>
-<td>L 00-L 08</td>
-</tr>
-<tr>
-<td>Врожденные аномалии</td>
-<td>05</td>
-<td>Q 00-Q 99</td>
-</tr>
-<tr>
-<td>
-Отдельные состояния, возникающие в
-перинатальном периоде
-</td>
-<td>06</td>
-<td>P 00-P 96</td>
-</tr>
-<tr>
-<td>
-из них:
-замедленный рост и недостаточность питания
-плода
-</td>
-<td>07</td>
-<td>P 05</td>
-</tr>
-<tr>
-<td>Родовые травмы</td>
-<td>08</td>
-<td>P 10-P 15</td>
-</tr>
-<tr>
-<td>
-из них:
-разрыв и внутричерепное кровоизлияние,
-вызванные родовой травмой
-</td>
-<td>08.1</td>
-<td>P 10</td>
-</tr>
-<tr>
-<td>повреждения волосистой части головы</td>
-<td>08.2</td>
-<td>P 12</td>
-</tr>
-<tr>
-<td>родовая травма скелета</td>
-<td>08.3</td>
-<td>P 13</td>
-</tr>
-<tr>
-<td>
-родовая травма периферической нервной
-системы
-</td>
-<td>08.4</td>
-<td>P 14</td>
-</tr>
-<tr>
-<td>
-Расстройства дыхательной и
-сердечно-сосудистой системы
-</td>
-<td>09</td>
-<td>P 20-P 29</td>
-</tr>
-<tr>
-<td>
-из них: внутриутробная гипоксия и асфиксия
-при рождении
-</td>
-<td>09.1</td>
-<td>P 20-P 21</td>
-</tr>
-<tr>
-<td>синдром дыхательных расстройств</td>
-<td>09.2</td>
-<td>Р 22</td>
-</tr>
-<tr>
-<td>врожденная пневмония</td>
-<td>09.3</td>
-<td>Р 23</td>
-</tr>
-<tr>
-<td>неонатальный синдром аспирации</td>
-<td>09.4</td>
-<td>P 24</td>
-</tr>
-<tr>
-<td>
-Инфекции, специфичные для перинатального
-периода
-</td>
-<td>10</td>
-<td>Р 35-Р 39</td>
-</tr>
-<tr>
-<td>из них: врожденные вирусные инфекции</td>
-<td>10.1</td>
-<td>P 35-Р 35.9</td>
-</tr>
-<tr>
-<td>бактериальная инфекция новорожденного</td>
-<td>10.2</td>
-<td>P 36</td>
-</tr>
-<tr>
-<td>омфалит новорожденного</td>
-<td>10.3</td>
-<td>P 38</td>
-</tr>
-<tr>
-<td>
-Геморрагические и гематологические
-нарушения у плода и новорожденного
-</td>
-<td>11</td>
-<td>P 50-Р 61</td>
-</tr>
-<tr>
-<td>из них: внутрижелудочковое кровоизлияние</td>
-<td>11.1</td>
-<td>P 52</td>
-</tr>
-<tr>
-<td>геморрагическая болезнь плода и новорожденного</td>
-<td>11.2</td>
-<td>P 53</td>
-</tr>
-<tr>
-<td>
-гемолитическая болезнь плода и
-новорожденного
-</td>
-<td>11.3</td>
-<td>P 55</td>
-</tr>
-<tr>
-<td>желтухи новорожденных</td>
-<td>11.4</td>
-<td>P 58-Р 59</td>
-</tr>
-<tr>
-<td>
-Расстройства системы пищеварения у плода и
-новорожденного
-</td>
-<td>12</td>
-<td>Р 75-Р 78</td>
-</tr>
-<tr>
-<td>
-Состояния, вовлекающие наружные покровы и
-терморегуляцию плода и новорожденного
-</td>
-<td>13</td>
-<td>Р 80-Р 83</td>
-</tr>
-<tr>
-<td>
-Другие нарушения, возникающие в
-перинатальном периоде
-</td>
-<td>14</td>
-<td>Р 90-Р 96</td>
-</tr>
-<tr>
-<td>
-Прочие болезни новорожденного
-(расшифровать)
-</td>
-<td>15</td>
-<td>А 50, T 20-T 50, T 70-Т 74</td>
-</tr>
-<tr>
-<td>в том числе врожденный сифилис</td>
-<td>15.1</td>
-<td>А 50</td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td rowspan="2">
-Родились
-больными и
-заболело
-</td>
-<td colspan="4">Из них умерли</td>
-<td colspan="2">Родились мертвыми</td>
-</tr>
-<tr>
-<td>Всего</td>
-<td>0-6 суток</td>
-<td>7-27 суток</td>
-<td>
-28 суток и
-более
-</td>
-<td>всего</td>
-<td>в т.ч. антенатально</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-2280 ЗАБОЛЕВАНИЯ И ПРИЧИНЫ СМЕРТИ НОВОРОЖДЕННЫХ, РОДИВШИХСЯ С МАССОЙ
-
-ТЕЛА 2500 ГРАММ И БОЛЕЕ
-
-случаи
-
-<table>
-<tr>
-<td>Наименование</td>
-<td>№ строки</td>
-<td>Шифр по МКБ Х пересмотра</td>
-</tr>
-<tr>
-<td>А</td>
-<td>Б</td>
-<td>В</td>
-</tr>
-<tr>
-<td>Всего детей</td>
-<td>01</td>
-<td></td>
-</tr>
-<tr>
-<td>число заболеваний: у них</td>
-<td>01.1</td>
-<td>
-A 50, J 00-06, J 20-J 22,
-J 12-18, L 00-L 08, Q 00-
-Q 99,P 00-P 96, T 20-T 50,
-T 70-T 74, T 80, T 81.2
-</td>
-</tr>
-<tr>
-<td>Острые респираторные инфекции</td>
-<td>02</td>
-<td>J 00-06, J 20-J 22</td>
-</tr>
-<tr>
-<td>Пневмония</td>
-<td>03</td>
-<td>J 12-J 18</td>
-</tr>
-<tr>
-<td>Инфекции кожи и подкожной клетчатки</td>
-<td>04</td>
-<td>L 00-L 08</td>
-</tr>
-<tr>
-<td>Врожденные аномалии</td>
-<td>05</td>
-<td>Q 00-Q 99</td>
-</tr>
-<tr>
-<td>
-Отдельные состояния, возникающие в
-перинатальном периоде
-</td>
-<td>06</td>
-<td>P 00-P 96</td>
-</tr>
-<tr>
-<td>
-из них:
-замедленный рост и недостаточность питания
-плода
-</td>
-<td>07</td>
-<td>P 05</td>
-</tr>
-<tr>
-<td>Родовые травмы</td>
-<td>08</td>
-<td>P 10-P 15</td>
-</tr>
-<tr>
-<td>
-из них:
-разрыв и внутричерепное кровоизлияние,
-вызванные родовой травмой
-</td>
-<td>08.1</td>
-<td>P 10</td>
-</tr>
-<tr>
-<td>повреждения волосистой части головы</td>
-<td>08.2</td>
-<td>P 12</td>
-</tr>
-<tr>
-<td>родовая травма скелета</td>
-<td>08.3</td>
-<td>P 13</td>
-</tr>
-<tr>
-<td>родовая травма периферической нервной системы</td>
-<td>08.4</td>
-<td>P 14</td>
-</tr>
-<tr>
-<td>
-Расстройства дыхательной и
-сердечно-сосудистой системы
-</td>
-<td>09</td>
-<td>P 20-P 29</td>
-</tr>
-<tr>
-<td>
-из них: внутриутробная гипоксия и асфиксия
-при рождении
-</td>
-<td>09.1</td>
-<td>P 20-P 21</td>
-</tr>
-<tr>
-<td>синдром дыхательных расстройств</td>
-<td>09.2</td>
-<td>Р 22</td>
-</tr>
-<tr>
-<td>врожденная пневмония</td>
-<td>09.3</td>
-<td>Р 23</td>
-</tr>
-<tr>
-<td>неонатальный синдром аспирации</td>
-<td>09.4</td>
-<td>P 24</td>
-</tr>
-<tr>
-<td>
-Инфекции, специфичные для перинатального
-периода
-</td>
-<td>10</td>
-<td>Р 35-Р 39</td>
-</tr>
-<tr>
-<td>из них: врожденные вирусные инфекции</td>
-<td>10.1</td>
-<td>P 35-Р 35.9</td>
-</tr>
-<tr>
-<td>бактериальная инфекция новорожденного</td>
-<td>10.2</td>
-<td>P 36</td>
-</tr>
-<tr>
-<td>омфалит новорожденного</td>
-<td>10.3</td>
-<td>P 38</td>
-</tr>
-<tr>
-<td>
-Геморрагические и гематологические нарушения
-у плода и новорожденного
-</td>
-<td>11</td>
-<td>P 50-Р 61</td>
-</tr>
-<tr>
-<td>из них: внутрижелудочковое кровоизлияние</td>
-<td>11.1</td>
-<td>P 52</td>
-</tr>
-<tr>
-<td>
-геморрагическая болезнь плода и
-новорожденного
-</td>
-<td>11.2</td>
-<td>P 53</td>
-</tr>
-<tr>
-<td>гемолитическая болезнь плода и новорожденного</td>
-<td>11.3</td>
-<td>P 55</td>
-</tr>
-<tr>
-<td>желтухи новорожденных</td>
-<td>11.4</td>
-<td>P 58-Р 59</td>
-</tr>
-<tr>
-<td>
-Расстройства системы пищеварения у плода и
-новорожденного
-</td>
-<td>12</td>
-<td>Р 75-Р 78</td>
-</tr>
-<tr>
-<td>
-Состояния, вовлекающие наружные покровы и
-терморегуляцию плода и новорожденного
-</td>
-<td>13</td>
-<td>Р 80-Р 83</td>
-</tr>
-<tr>
-<td>
-Другие нарушения, возникающие в перинатальном
-периоде
-</td>
-<td>14</td>
-<td>Р 90-Р 96</td>
-</tr>
-<tr>
-<td>Прочие болезни новорожденного (расшифровать)</td>
-<td>15</td>
-<td>А 50, T 20-T 50, T 70-Т 74</td>
-</tr>
-<tr>
-<td>в том числе врожденный сифилис</td>
-<td>15.1</td>
-<td>А 50</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="2">
-Родились больными и
-заболело
-</td>
-<td colspan="5">из них умерли</td>
-<td colspan="2">Родились мертвыми</td>
-</tr>
-<tr>
-<td>Всего</td>
-<td>
-в том числе
-недоношенных
-</td>
-<td>Всего</td>
 <td>
 в т.ч.
-недоношенных
+антена-
+тально
+</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>В</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+</tr>
+<tr>
+<td>Всего детей</td>
+<td>1.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>число заболеваний: у них</td>
+<td>1.1</td>
+<td>
+A50,
+J00-06,
+J20-J22,
+J12-18,
+L00-L08,
+Q00-Q99,
+P00-P96,
+T20-T50,
+T70-Т74,
+T80,
+T81.2
+</td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>
+Острые респираторные
+инфекции
+</td>
+<td>2.0</td>
+<td>
+J00-06,
+J20-J22
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Пневмония</td>
+<td>3.0</td>
+<td>J12-J18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Инфекции кожи и
+подкожной клетчатки
+</td>
+<td>4.0</td>
+<td>L00-L08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Врожденные аномалии</td>
+<td>5.0</td>
+<td>Q00-Q99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: ВПС</td>
+<td>5.1</td>
+<td>
+Q20.0-
+Q24.9
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Отдельные состояния,
+возникающие в
+перинатальном периоде
+</td>
+<td>6.0</td>
+<td>P00-P96</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: замедленный рост
+и недостаточность
+питания плода
+</td>
+<td>7.0</td>
+<td>P05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Родовые травмы из них:</td>
+<td>8.0</td>
+<td>P10-Р15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+внутричерепная родовая
+травма
+</td>
+<td>8.1</td>
+<td>P10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Внутриутробная гипоксия
+и асфиксия при рождении
+</td>
+<td>9.0</td>
+<td>P20, P21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Синдром дыхательных
+расстройств
+</td>
+<td>10.0</td>
+<td>P22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Врожденные пневмонии</td>
+<td>11.0</td>
+<td>P23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Неонатальные синдромы
+аспирации
+</td>
+<td>12.0</td>
+<td>P24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Другие респираторные
+нарушения, возникающие в
+перинатальном периоде
+</td>
+<td>13.0</td>
+<td>Р25-P29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Инфекции, специфичные
+для перинатального
+периода
+</td>
+<td>14.0</td>
+<td>
+Р35,
+Р37-Р39
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+бактериальная инфекция
+новорожденных
+</td>
+<td>15.0</td>
+<td>Р36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Геморрагические и
+гематологические
+нарушения у плода и
+новорожденного, из них:
+</td>
+<td>16.0</td>
+<td>P50-Р61</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Внутрижелудочковое
+кровоизлияние
+</td>
+<td>16.1</td>
+<td>P52</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Геморрагическая болезнь
+плода и новорожденного
+</td>
+<td>16.2</td>
+<td>P53</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Гемолитическая болезнь
+плода и новорожденного
+</td>
+<td>16.3</td>
+<td>P55</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Желтухи новорожденного</td>
+<td>16.4</td>
+<td>P58-P59</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Расстройства системы
+пищеварения у плода и
+новорожденного
+</td>
+<td>17.0</td>
+<td>Р75-Р78</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Состояния, вовлекающие
+наружные покровы и
+терморегуляцию плода и
+новорожденного
+</td>
+<td>18.0</td>
+<td>Р80-Р83</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Другие нарушения,
+возникающие в
+перинатальном периоде
+</td>
+<td>19.0</td>
+<td>Р90-Р96</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Прочие болезни
+новорожденного
+(расшифровать)
+</td>
+<td>20.0</td>
+<td>
+А50,
+T20-T50,
+T70-Т74
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе сифилис</td>
+<td>20.1</td>
+<td>А50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+2260 ЗАБОЛЕВАНИЯ И ПРИЧИНЫ СМЕРТИ НОВОРОЖДЕННЫХ, РОДИВШИХСЯ С МАССОЙ ТЕЛА 1000-1499 ГРАММ
+
+случаи
+
+<table>
+<tr>
+<td rowspan="2">Наименование</td>
+<td rowspan="2">
+№
+строки
+</td>
+<td rowspan="2">
+Шифр по
+МКБ Х
+пересмотра
+</td>
+<td rowspan="2">
+Роди-
+лись
+больными
+и заболело
+</td>
+<td colspan="4">из них умерли</td>
+<td colspan="2">Родились мертвыми</td>
+</tr>
+<tr>
+<td>
+В
+с
+е
+г
+о
 </td>
 <td>
 0-6
@@ -64659,16 +78950,1234 @@ T 70-T 74, T 80, T 81.2
 суток
 </td>
 <td>
-28 суток и
-более
+28
+суток
+и более
 </td>
-<td>всего</td>
 <td>
-в том числе
-антенатально
+в
+с
+е
+г
+о
+</td>
+<td>
+в т.ч.
+антена-
+тально
 </td>
 </tr>
 <tr>
+<th>А</th>
+<th>Б</th>
+<th>В</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+</tr>
+<tr>
+<td>Всего детей</td>
+<td>1.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+число заболеваний:
+у них
+</td>
+<td>1.1</td>
+<td>
+A50,
+J00-06,
+J20-J22,
+J12-18,
+L00-L08,
+Q00-Q99,
+P00-P96,
+T20-T50,
+T70-Т74,
+T80,
+T81.2
+</td>
+<td></td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>X</td>
+</tr>
+<tr>
+<td>
+Острые респираторные
+инфекции
+</td>
+<td>2.0</td>
+<td>
+J00-06,
+J20-J22
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Пневмония</td>
+<td>3.0</td>
+<td>J12-J18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Инфекции кожи и
+подкожной клетчатки
+</td>
+<td>4.0</td>
+<td>L00-L08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Врожденные аномалии</td>
+<td>5.0</td>
+<td>Q00-Q99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: ВПС</td>
+<td>5.1</td>
+<td>
+Q20.0-
+Q24.9
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Отдельные состояния,
+возникающие в
+перинатальном периоде
+</td>
+<td>6.0</td>
+<td>P00-P96</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них:</td>
+<td rowspan="2">7.0</td>
+<td rowspan="2">P05</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+</tr>
+<tr>
+<td>
+замедленный рост и
+недостаточность питания
+плода
+</td>
+</tr>
+<tr>
+<td>Родовые травмы</td>
+<td>8.0</td>
+<td>P10-P15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: разрыв и
+внутричерепное
+кровоизлияние,
+вызванные родовой
+травмой
+</td>
+<td>8.1</td>
+<td>P10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+повреждения волосистой
+части головы
+</td>
+<td>8.2</td>
+<td>P12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>родовая травма скелета</td>
+<td>8.3</td>
+<td>P13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+родовая травма
+периферической нервной
+системы
+</td>
+<td>8.4</td>
+<td>P14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Расстройства
+дыхательной и
+сердечно-сосудистой
+системы
+</td>
+<td>9.0</td>
+<td>P20-P29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: внутриутробная
+гипоксия и асфиксия при
+рождении
+</td>
+<td>9.1</td>
+<td>P20-P21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+синдром дыхательных
+расстройств
+</td>
+<td>9.2</td>
+<td>Р22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>врожденная пневмония</td>
+<td>9.3</td>
+<td>Р23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+неонатальный синдром
+аспирации
+</td>
+<td>9.4</td>
+<td>P24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Инфекции, специфичные
+для перинатального
+периода
+</td>
+<td>10.0</td>
+<td>Р35-Р39</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: врожденные
+вирусные инфекции
+</td>
+<td>10.1</td>
+<td>P35-Р35.9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+бактериальная инфекция
+новорожденного
+</td>
+<td>10.2</td>
+<td>P36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>омфалит новорожденного</td>
+<td>10.3</td>
+<td>P38</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Геморрагические и
+гематологические
+нарушения у плода и
+новорожденного
+</td>
+<td>11.0</td>
+<td>P50-Р61</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+внутрижелудочковое
+кровоизлияние
+</td>
+<td>11.1</td>
+<td>P52</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+геморрагическая болезнь
+плода и новорожденного
+</td>
+<td>11.2</td>
+<td>P53</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+гемолитическая болезнь
+плода и новорожденного
+</td>
+<td>11.3</td>
+<td>P55</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>желтухи новорожденных</td>
+<td>11.4</td>
+<td>P58-Р59</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Расстройства системы
+пищеварения у плода и
+новорожденного
+</td>
+<td>12.0</td>
+<td>Р75-Р78</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Состояния, вовлекающие
+наружные покровы и
+терморегуляцию плода и
+новорожденного
+</td>
+<td>13.0</td>
+<td>Р80-Р83</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Другие нарушения,
+возникающие в
+перинатальном периоде
+</td>
+<td>14.0</td>
+<td>Р90-Р96</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Прочие болезни
+новорожденного
+(расшифровать)
+</td>
+<td>15.0</td>
+<td>
+А50,
+T20-T50,
+T70-Т74
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе врожденный
+сифилис
+</td>
+<td>15.1</td>
+<td>А50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+2270 ЗАБОЛЕВАНИЯ И ПРИЧИНЫ СМЕРТИ НОВОРОЖДЕННЫХ, РОДИВШИХСЯ С МАССОЙ ТЕЛА 1500-2499 ГРАММ
+
+случаи
+
+<table>
+<tr>
+<td rowspan="2">Наименование</td>
+<td rowspan="2">
+№
+строки
+</td>
+<td rowspan="2">
+Шифр по
+МКБ Х
+пересмотра
+</td>
+<td rowspan="2">
+Роди-
+лись
+боль-
+ными и
+забо-
+лело
+</td>
+<td colspan="4">из них умерли</td>
+<td colspan="2">
+Родились
+мертвыми
+</td>
+</tr>
+<tr>
+<td>
+В
+с
+е
+г
+о
+</td>
+<td>
+0-6
+суток
+</td>
+<td>
+7-27
+суток
+</td>
+<td>
+28
+суток
+и бо-
+лее
+</td>
+<td>
+в
+с
+е
+г
+о
+</td>
+<td>
+в т.ч.
+антена-
+тально
+</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>В</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+</tr>
+<tr>
+<td>Всего детей</td>
+<td>1.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>число заболеваний: у них</td>
+<td>1.1</td>
+<td>
+A50,
+J00-06,
+J20-J22,
+J12-18,
+L00-L08,
+Q00-Q99,
+P00-P96,
+T20-T50,
+T70-Т74,
+T80,
+T81.2
+</td>
+<td></td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>X</td>
+</tr>
+<tr>
+<td>
+Острые респираторные
+инфекции
+</td>
+<td>2.0</td>
+<td>
+J00-06,
+J20-J22
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Пневмония</td>
+<td>3.0</td>
+<td>J12-J18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Инфекции кожи и
+подкожной клетчатки
+</td>
+<td>4.0</td>
+<td>L00-L08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Врожденные аномалии</td>
+<td>5.0</td>
+<td>Q00-Q99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: ВПС</td>
+<td>5.1</td>
+<td>
+Q20.0-
+Q24.9
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Отдельные состояния,
+возникающие в
+перинатальном периоде
+</td>
+<td>6.0</td>
+<td>P00-P96</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них:</td>
+<td rowspan="2">7.0</td>
+<td rowspan="2">P05</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+</tr>
+<tr>
+<td>
+замедленный рост и
+недостаточность питания
+плода
+</td>
+</tr>
+<tr>
+<td>Родовые травмы</td>
+<td>8.0</td>
+<td>P10-P15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них:</td>
+<td rowspan="2">8.1</td>
+<td rowspan="2">P10</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+</tr>
+<tr>
+<td>
+разрыв и внутричерепное
+кровоизлияние, вызванные
+родовой травмой
+</td>
+</tr>
+<tr>
+<td>
+повреждения волосистой
+части головы
+</td>
+<td>8.2</td>
+<td>P12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>родовая травма скелета</td>
+<td>8.3</td>
+<td>P13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+родовая травма
+периферической нервной
+системы
+</td>
+<td>8.4</td>
+<td>P14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Расстройства дыхательной
+и сердечно-сосудистой
+системы
+</td>
+<td>9.0</td>
+<td>P20-P29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: внутриутробная
+гипоксия и асфиксия при
+рождении
+</td>
+<td>9.1</td>
+<td>P20-P21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+синдром дыхательных
+расстройств
+</td>
+<td>9.2</td>
+<td>Р22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>врожденная пневмония</td>
+<td>9.3</td>
+<td>Р23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+неонатальный синдром
+аспирации
+</td>
+<td>9.4</td>
+<td>P24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Инфекции, специфичные
+для перинатального
+периода
+</td>
+<td>10.0</td>
+<td>Р35-Р39</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: врожденные
+вирусные инфекции
+</td>
+<td>10.1</td>
+<td>
+P35-
+Р35.9
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+бактериальная инфекция
+новорожденного
+</td>
+<td>10.2</td>
+<td>P36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>омфалит новорожденного</td>
+<td>10.3</td>
+<td>P38</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Геморрагические и
+гематологические
+нарушения у плода и
+новорожденного
+</td>
+<td>11.0</td>
+<td>P50-Р61</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+внутрижелудочковое
+кровоизлияние
+</td>
+<td>11.1</td>
+<td>P52</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+геморрагическая болезнь
+плода и новорожденного
+</td>
+<td>11.2</td>
+<td>P53</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+гемолитическая болезнь
+плода и новорожденного
+</td>
+<td>11.3</td>
+<td>P55</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>желтухи новорожденных</td>
+<td>11.4</td>
+<td>P58-Р59</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Расстройства системы
+пищеварения у плода и
+новорожденного
+</td>
+<td>12.0</td>
+<td>Р75-Р78</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Состояния, вовлекающие
+наружные покровы и
+терморегуляцию плода и
+новорожденного
+</td>
+<td>13.0</td>
+<td>Р80-Р83</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Другие нарушения,
+возникающие в
+перинатальном периоде
+</td>
+<td>14.0</td>
+<td>Р90-Р96</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Прочие болезни
+новорожденного
+(расшифровать)
+</td>
+<td>15.0</td>
+<td>
+А50,
+T20-T50,
+T70-Т74
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе врожденный
+сифилис
+</td>
+<td>15.1</td>
+<td>А50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+2280 ЗАБОЛЕВАНИЯ И ПРИЧИНЫ СМЕРТИ НОВОРОЖДЕННЫХ, РОДИВШИХСЯ С МАССОЙ ТЕЛА 2500 ГРАММ И БОЛЕЕ
+
+случаи
+
+<table>
+<tr>
+<td rowspan="2">Наименование</td>
+<td rowspan="2">
+№
+с
+т
+р
+о
+к
+и
+</td>
+<td rowspan="2">
+Шифр по
+МКБ Х
+пересмотра
+</td>
+<td colspan="2">
+Родились
+больными
+и
+заболело
+</td>
+<td colspan="5">из них умерли</td>
+<td colspan="2">
+Родились
+мертвыми
+</td>
+</tr>
+<tr>
+<td>
+В
+с
+е
+г
+о
+</td>
+<td>
+в т.ч
+недо-
+ношен-
+ных
+</td>
+<td>
+В
+с
+е
+г
+о
+</td>
+<td>
+в т.ч
+недо-
+ношен-
+ных
+</td>
+<td>
+0-6
+су-
+ток
+</td>
+<td>
+7-27
+су-
+ток
+</td>
+<td>
+28
+су-
+ток
+и
+бо-
+лее
+</td>
+<td>
+в
+с
+е
+г
+о
+</td>
+<td>
+в т.ч.
+анте-
+на-
+тально
+</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>В</th>
 <th>1</th>
 <th>2</th>
 <th>3</th>
@@ -64680,28 +80189,9 @@ T 70-T 74, T 80, T 81.2
 <th>9</th>
 </tr>
 <tr>
+<td>Всего детей</td>
+<td>1.0</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -64713,6 +80203,565 @@ T 70-T 74, T 80, T 81.2
 <td></td>
 </tr>
 <tr>
+<td>
+число заболеваний:
+у них
+</td>
+<td>1.1</td>
+<td>
+A50,
+J00-06,
+J20-J22,
+J12-18,
+L00-L08,
+Q00-Q99,
+P00-P96,
+T20-T50,
+T70-T74,
+T80, T81.2
+</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+</tr>
+<tr>
+<td>
+Острые респираторные
+инфекции
+</td>
+<td>2.0</td>
+<td>J00-06, J20-J22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Пневмония</td>
+<td>3.0</td>
+<td>J12-J18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Инфекции кожи и
+подкожной клетчатки
+</td>
+<td>4.0</td>
+<td>L00-L08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Врожденные аномалии</td>
+<td>5.0</td>
+<td>Q00-Q99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: ВПС</td>
+<td>5.1</td>
+<td>
+Q20.0-
+Q24.9
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Отдельные состояния,
+возникающие в
+перинатальном
+периоде
+</td>
+<td>6.0</td>
+<td>P00-P96</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: замедленный
+рост и
+недостаточность
+питания плода
+</td>
+<td>7.0</td>
+<td>P05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Родовые травмы</td>
+<td>8.0</td>
+<td>P10-P15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: разрыв и
+внутричерепное
+кровоизлияние,
+вызванные родовой
+травмой
+</td>
+<td>8.1</td>
+<td>P10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+повреждения
+волосистой части
+головы
+</td>
+<td>8.2</td>
+<td>P12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+родовая травма
+скелета
+</td>
+<td>8.3</td>
+<td>P13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+родовая травма
+периферической
+нервной системы
+</td>
+<td>8.4</td>
+<td>P14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Расстройства
+дыхательной и
+сердечно-сосудистой
+системы
+</td>
+<td>9.0</td>
+<td>P20-P29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+внутриутробная
+гипоксия и асфиксия
+при рождении
+</td>
+<td>9.1</td>
+<td>P20-P21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+синдром дыхательных
+расстройств
+</td>
+<td>9.2</td>
+<td>Р22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>врожденная пневмония</td>
+<td>9.3</td>
+<td>Р23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+неонатальный синдром
+аспирации
+</td>
+<td>9.4</td>
+<td>P24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Инфекции, специфичные
+для перинатального
+периода
+</td>
+<td>10.0</td>
+<td>Р35-Р39</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: врожденные
+вирусные инфекции
+</td>
+<td>10.1</td>
+<td>P35-Р35.9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+бактериальная
+инфекция
+новорожденного
+</td>
+<td>10.2</td>
+<td>P36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+омфалит
+новорожденного
+</td>
+<td>10.3</td>
+<td>P38</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Геморрагические и
+гематологические
+нарушения у плода и
+новорожденного
+</td>
+<td>11.0</td>
+<td>P50-Р61</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+внутрижелудочковое
+кровоизлияние
+</td>
+<td>11.1</td>
+<td>P52</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+геморрагическая
+болезнь плода и
+новорожденного
+</td>
+<td>11.2</td>
+<td>P53</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+гемолитическая
+болезнь плода и
+новорожденного
+</td>
+<td>11.3</td>
+<td>P55</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>желтухи новорожденных</td>
+<td>11.4</td>
+<td>P58-Р59</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Расстройства системы
+пищеварения у плода и
+новорожденного
+</td>
+<td>12.0</td>
+<td>Р75-Р78</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Состояния,
+вовлекающие наружные
+покровы и
+терморегуляцию плода
+и новорожденного
+</td>
+<td>13.0</td>
+<td>Р80-Р83</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Другие нарушения,
+возникающие в
+перинатальном периоде
+</td>
+<td>14.0</td>
+<td>Р90-Р96</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Прочие болезни
+новорожденного
+(расшифровать)
+</td>
+<td>15.0</td>
+<td>
+А50,
+T20-T50,
+T70-Т74
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе
+врожденный сифилис
+</td>
+<td>15.1</td>
+<td>А50</td>
 <td></td>
 <td></td>
 <td></td>
@@ -64725,15 +80774,9 @@ T 70-T 74, T 80, T 81.2
 </tr>
 </table>
 
-<table>
-<tr>
-<td>
-Руководитель ___________________________
-Исполнитель _________ ,телефон _________
-</td>
-<td>Дата &quot;__&quot; _____ 20 ___ года</td>
-</tr>
-</table>
+Руководитель _______________________
+
+Исполнитель _______, телефон ______ Дата "___" ______ 20___ года
 
 > *Приложение 3*  
 > *Утверждено приказом и.о. Министра*  
@@ -64746,11 +80789,11 @@ T 70-T 74, T 80, T 81.2
 
 наименование, адрес
 
-### Форма 38
+#### Форма 38
 
 годовая
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+#### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -64779,13 +80822,13 @@ T 70-T 74, T 80, T 81.2
 </tr>
 </table>
 
-### Отчет о работе судебно - психиатрической комиссии 20 _____ год
+#### Отчет о работе судебно - психиатрической комиссии 20 _____ год
 
 Стационарная экспертиза проводится (подчеркнуть):
 
-1. В отделении судебно-психиатрической экспертиз
+1\. В отделении судебно-психиатрической экспертиз
 
-2. В общем психиатрическом отделении
+2\. В общем психиатрическом отделении
 
 1000 Движение испытуемых и использование коечного фонда отделений
 
@@ -67511,13 +83554,14 @@ Rh0(D)жидкий,
 </table>
 
 > *Приложение 3*  
-> *Утверждено приказом и.о. Министра*  
-> *здравоохранения Республики Казахстан*  
-> *от 12 сентября 2011 г. № 616*
+> *Утверждено приказом*  
+> *и.о. Министра здравоохранения*  
+> *Республики Казахстан*  
+> *от 12 сентября 2011 года № 616*
 
-Конфиденциальность гарантируется получателем информации
+### Конфиденциальность гарантируется получателем информации
 
-Кем представляется _________________________________________________
+Кем представляется _________________________________
 
 (наименование, адрес)
 
@@ -67525,7 +83569,11 @@ Rh0(D)жидкий,
 
 годовая
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+> *Сноска. Форма 41 в редакции приказа Министра здравоохранения РК от 28.09.2012 № 663 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
+
+### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан
+
+"О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -67534,56 +83582,93 @@ Rh0(D)жидкий,
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
 Представляют:
-1. Дома ребенка главному врачу района (города) - 5
-января;
-2. Главный врач района (города) - территориальному
-органу управления здравоохранением области (города) 10
-января;
-3. Территориальный орган управления здравоохранением -
-сводные отчеты в областные департаменты статистики, г.г.
-Астаны и Алматы и в Министерство здравоохранения
-Республики Казахстан к 10 февраля;
-4. Министерство здравоохранения Республики Казахстан
-сводные отчеты - в Агенство Республики Казахстан по
-статистике 1 апереля
-</td>
-</tr>
-</table>
 
-### Отчет дома ребенка 20 _______ год
+1. Дома ребенка главному врачу района (города) - 5 января;
+
+2. Главный врач района (города) - территориальному органу
+
+   управления здравоохранением области (города) 10 января;
+
+3. Территориальный орган управления здравоохранением -
+
+сводные отчеты в Министерство здравоохранения
+
+Республики Казахстан к 10 февраля.
+
+### Отчет дома ребенка 20 ___ год
 
 2000 Число организаций 1 ___, организация имеет (подчеркнуть):
 
-веранды крытые, аэросолярий, физиотерапевтический кабинет, лечебной
+веранды крытые, аэросолярий, физиотерапевтический кабинет,
 
-физкультуры, бассейн, изолятор, число коек в нем 2__________,
+лечебной физкультуры, бассейн, изолятор, число коек в нем
 
-карантинное отделение, число коек в нем 3_____
+2 __________, карантинное отделение,
 
-(недостающее вписать) _____________________________________________
+число коек в нем 3 _____
 
-Спецгруппы: есть, нет (подчеркнуть), в них детей 4 ________________
+(недостающее вписать) ___________________________________
+
+Спецгруппы: есть, нет (подчеркнуть),
+
+в них детей 4 ___________________________________________
 
 2100 ШТАТНЫЕ ДОЛЖНОСТИ
 
 <table>
 <tr>
 <td rowspan="2">Должности</td>
-<td rowspan="2">№ строки</td>
-<td rowspan="2">Всего на конец отчетного года</td>
-<td colspan="5">в том числе:</td>
+<td rowspan="2">
+№
+строки
+</td>
+<td rowspan="2">
+Всего
+на
+конец
+отчет-
+ного
+года
+</td>
+<td colspan="7">в том числе:</td>
 </tr>
 <tr>
 <td>врачи</td>
-<td>средний медперсонал</td>
-<td>младший медперсонал</td>
-<td>прочий персонал</td>
-<td>из них педагогический</td>
+<td>
+сред-
+ний
+мед-
+персо-
+нал
+</td>
+<td>
+млад-
+ший
+мед-
+персо-
+нал
+</td>
+<td>
+прочий
+персо-
+нал
+</td>
+<td>
+из них
+педагоги-
+ческий
+</td>
+<td>
+психо-
+логов
+</td>
+<td>
+социаль-
+ных
+работ-
+ников
+</td>
 </tr>
 <tr>
 <th>А</th>
@@ -67594,44 +83679,55 @@ Rh0(D)жидкий,
 <th>4</th>
 <th>5</th>
 <th>6</th>
+<th>7</th>
+<th>8</th>
 </tr>
 <tr>
-<td rowspan="4">
-Штатные........
-Занятые
-Физические лица
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Штатные………….</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Занятые………….</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Физические
+лица
 (основные
-работники)......
+работники)…….
 </td>
-<td rowspan="4">
-01
-02
-03
-</td>
+<td>03</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -67641,46 +83737,72 @@ Rh0(D)жидкий,
 </tr>
 </table>
 
-2110 Количество мест 1 _______________________, проведено дней всеми
-
-детьми 2____________________.
+2110 Количество мест 1 _____, проведено дней всеми детьми 2 _____
 
 2120 КОНТИНГЕНТЫ ДОМА РЕБЕНКА
 
 <table>
 <tr>
-<td>
-Наименование
+<td rowspan="3">
+Наимено-
+вание
 показателя
 </td>
-<td>№ строки</td>
-<td>
-Состояло на
-начало года
+<td rowspan="3">
+№
+строки
 </td>
-<td colspan="4">За отчетный год</td>
+<td rowspan="3">
+Состояло
+на
+начало
+года
+</td>
+<td colspan="6">За отчетный год</td>
+<td colspan="2" rowspan="2">
+Состоит
+на конец
+отчетного
+года
+</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>поступило</td>
-<td>выбыло</td>
-<td colspan="2">
+<td rowspan="2">
+пос-
+ту-
+пило
+</td>
+<td rowspan="2">
+вы-
+было
+</td>
+<td colspan="4">
 умерло из числа
-выбывших(гр.3)
+выбывших (гр. 3)
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>всего</td>
 <td>
-из них в стационаре
+из них в
+стацио-
+наре
 (из гр. 4)
+</td>
+<td>
+в возрасте
+до 1 года
+(из гр.4)
+</td>
+<td>
+из них в
+стационаре
+(из гр.6)
+</td>
+<td>всего</td>
+<td>
+из них
+девочек
 </td>
 </tr>
 <tr>
@@ -67691,55 +83813,28 @@ Rh0(D)жидкий,
 <th>3</th>
 <th>4</th>
 <th>5</th>
-</tr>
-<tr>
-<td>Дети всего</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td colspan="2">За отчетный год</td>
-<td colspan="2">Состоит на конец отчетного года</td>
-</tr>
-<tr>
-<td colspan="2">умерло из числа выбывших(гр.3)</td>
-<td rowspan="2">всего</td>
-<td rowspan="2">из них девочек</td>
-</tr>
-<tr>
-<td>
-в возрасте до 1 года
-(из гр.4)
-</td>
-<td>
-из них в стационаре
-(из гр.6)
-</td>
-</tr>
-<tr>
 <th>6</th>
 <th>7</th>
 <th>8</th>
 <th>9</th>
 </tr>
 <tr>
+<td>
+Дети
+всего
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 </table>
-
-Продолжение таблицы
 
 <table>
 <tr>
@@ -67748,7 +83843,7 @@ Rh0(D)жидкий,
 <tr>
 <td>
 0-12 месяцев
-(11 мес.29 д.)
+(11 мес. 29 д.)
 </td>
 <td>
 из них
@@ -67756,15 +83851,15 @@ Rh0(D)жидкий,
 </td>
 <td>
 1-3 года
-(2г.11м.29д)
+(2 г. 11 м. 29 д)
 </td>
 <td>
 из них
 девочек
 </td>
 <td>
-3 года и
-старше
+3 года
+и старше
 </td>
 <td>
 из них
@@ -67789,35 +83884,48 @@ Rh0(D)жидкий,
 </tr>
 </table>
 
-### 2130 Из числа поступивших детей (таблица 2120 строка 1 графа 2): сироты и оставшиеся без попечения родителей 1_______; от родителей 2____________; 2140 Из числа выбывших детей(таблица 2120 строка 1 графа 3): взято родителями 1_______; взято для усыновления 2________ переведено по достижении предельного возраста в учреждения народного образования 3_________; в учреждения Собеса 4______________, умерло 5 __________. 2145 РЕЗУЛЬТАТЫ ПРОФИЛАКТИЧЕСКИХ ОСМОТРОВ ДЕТЕЙ, СОСТОЯЩИХ НА КОНЕЦ ГОДА
+2130 Из числа поступивших детей (таблица 2120 строка 1 графа 2):
+
+сироты и оставшиеся без попечения родителей 1 _______;
+
+от родителей 2 ____________; детей инвалидов 3 ____________.
+
+2140 Из числа выбывших детей(таблица 2120 строка 1 графа 3):
+
+взято родителями 1 ______; из них детей - инвалидов 2 _______;
+
+взято для усыновления (удочерения) 3________; из них детей -
+
+инвалидов 4________;
+
+переведено по достижении предельного возраста в образовательные
+
+и медико-социальные организации 5_________;
+
+из них детей - инвалидов 6_________; умерло 7 __________;
+
+из них детей - инвалидов 8 _________.
+
+2145 РЕЗУЛЬТАТЫ ПРОФИЛАКТИЧЕСКИХ ОСМОТРОВ ДЕТЕЙ, СОСТОЯЩИХ НА КОНЕЦ ГОДА
 
 человек
 
 <table>
 <tr>
 <td rowspan="3">В возрасте</td>
-<td rowspan="3">
-№
-строки
-</td>
-<td colspan="5">При осмотрах выявлено детей</td>
+<td rowspan="3">№ строки</td>
+<td colspan="7">При осмотрах выявлено детей</td>
 </tr>
 <tr>
-<td rowspan="2">
-с
-расстройствам
+<td colspan="2" rowspan="2">
+с расстройствами
 питания
 </td>
 <td rowspan="2">
-с
-рахитом
-II-III
-стадии
+с рахитом
+II-III стадии
 </td>
-<td rowspan="2">
-с
-анемией
-</td>
+<td colspan="2" rowspan="2">с анемией</td>
 <td colspan="2">отстающих в развитии</td>
 </tr>
 <tr>
@@ -67828,32 +83936,40 @@ II-III
 <th>А</th>
 <th>Б</th>
 <th>1</th>
+<th></th>
 <th>2</th>
 <th>3</th>
+<th></th>
 <th>4</th>
 <th>5</th>
 </tr>
 <tr>
-<td>0-12 месяцев..........</td>
+<td>0-12 месяцев……………</td>
 <td>01</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>1-3 года..............</td>
+<td>1-3 года……………….</td>
 <td>02</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>3 года и старше.......</td>
+<td>3 года и старше……</td>
 <td>03</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -67862,11 +83978,9 @@ II-III
 </tr>
 </table>
 
-2146 Число детей, взятых под диспансерное наблюдение в течение года
+2146 Число детей, взятых под диспансерное наблюдение в течение года 1 ____________________
 
-1 ____________________
-
-Число детей, направленных на санаторное лечение 2 __________________
+Число детей, направленных на санаторное лечение 2 ____________________________________
 
 2150 ЗАБОЛЕВАНИЯ ДЕТЕЙ
 
@@ -67880,20 +83994,23 @@ II-III
 строки
 </td>
 <td rowspan="2">
-Шифр по МКБ Х
+Шифр по
+МКБ Х
 пересмотра
 </td>
 <td colspan="2">За отчетный год</td>
 </tr>
 <tr>
 <td>
-зарегистрировано
+зарегис-
+трировано
 заболеваний
 </td>
 <td>
-в том числе у
-детей в возрасте
-до 1 года*)
+в том числе
+у детей в
+возрасте
+до 1 года*
 </td>
 </tr>
 <tr>
@@ -67904,45 +84021,222 @@ II-III
 <td>2</td>
 </tr>
 <tr>
-<td>Всего</td>
-<td>01</td>
-<td>А 00-Т 98</td>
+<td>Всего заболеваний</td>
+<td>1</td>
+<td>А00-Т98</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>из них</td>
-<td rowspan="2">02</td>
-<td rowspan="2">А 00-А 09</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
+<td>Инфекционные заболевания</td>
+<td>2</td>
+<td>А00-В99</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>кишечные инфекциии</td>
-</tr>
-<tr>
-<td>острые инфекции верхних</td>
-<td rowspan="3">03</td>
-<td rowspan="3">
-J 06, J 10,
-J 11
-</td>
-<td rowspan="3"></td>
-<td rowspan="3"></td>
-</tr>
-<tr>
-<td>дыхательных путей множественной</td>
+<td>в.т.ч. ОКИ</td>
+<td>3</td>
+<td>А00-А09</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-и неуточненной локализации,
-грипп…
+Болезни крови и
+роветворных органов
 </td>
+<td>4</td>
+<td>D50-D89</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>пневмония</td>
-<td>04</td>
-<td>J 12-J 1 8</td>
+<td>в.т.ч. ЖДА</td>
+<td>5</td>
+<td>
+D50-D53,
+D55-D64
+</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни эндокринной системы,
+расстройства питания
+</td>
+<td>6</td>
+<td>Е00-Е90</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Психические растройства и
+растройства поведения
+</td>
+<td>7</td>
+<td>F00-F99</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Болезни нервной системы</td>
+<td>8</td>
+<td>G00-G99</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>В.т.ч. ДЦП</td>
+<td>9</td>
+<td>G80</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни глаза и его
+придаточного аппарата
+</td>
+<td>10</td>
+<td>Н00-Н59</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Болезни уха</td>
+<td>11</td>
+<td>Н60-Н95</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Заболевания органов дыхания</td>
+<td>12</td>
+<td>J00-J99</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>В том числе ОРВИ</td>
+<td>13</td>
+<td>
+J00-J06
+J10, J11
+</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Пневмония</td>
+<td>14</td>
+<td>J12-J16, J18</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Болезни органов пищеварения</td>
+<td>15</td>
+<td>K00-K93</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни кожи и подкожной
+клетчатки
+</td>
+<td>16</td>
+<td>L00-L99</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>В.т.ч атопический дерматит</td>
+<td>17</td>
+<td>L20.8</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни костно-мышечной
+системы и соединительной ткани
+</td>
+<td>18</td>
+<td>М00-М99</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Болезни мочеполовой системы</td>
+<td>19</td>
+<td>N00-N99</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Отдельные состояние
+возникающие в перинатальный
+период
+</td>
+<td>20</td>
+<td>P00-P96</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Врожденные пороки развития</td>
+<td>21</td>
+<td>Q00-Q99</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в т.ч. нервной системы</td>
+<td>22</td>
+<td>Q00-Q07.9</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в т.ч. системы кровообращения</td>
+<td>23</td>
+<td>Q20-Q-28.9</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в т.ч. хромосомные аномалии</td>
+<td>24</td>
+<td>Q90-Q-90.9</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Состояния и признаки
+отклонение от нормы
+</td>
+<td>25</td>
+<td>R00-R99</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Травмы и отравления</td>
+<td>26</td>
+<td>S00-T98</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Прочие</td>
+<td>27</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -67950,15 +84244,9 @@ J 11
 
 Примечание: * До 11 месяцев 29 дней.
 
-<table>
-<tr>
-<td>
-Руководитель ___________________________
-Исполнитель _________ ,телефон _________
-</td>
-<td>Дата &quot;__&quot; _____ 20 ___ года</td>
-</tr>
-</table>
+Руководитель ______________________________
+
+Исполнитель ___________, телефон. _________ Дата "____"___________ 20____ года
 
 > *Приложение 3*  
 > *Утверждено приказом и.о. Министра*  
@@ -72636,13 +88924,14 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </table>
 
 > *Приложение 3*  
-> *Утверждено приказом и.о. Министра*  
-> *здравоохранения Республики Казахстан*  
-> *от 12 сентября 2011 г. № 616*
+> *Утверждено приказом*  
+> *и.о. Министра здравоохранения*  
+> *Республики Казахстан*  
+> *от 12 сентября 2011 года № 616*
 
-Конфиденциальность гарантируется получателем информации
+### Конфиденциальность гарантируется получателем информации
 
-Кем представляется _________________________________________________
+Кем представляется _________________________________
 
 (наименование, адрес)
 
@@ -72650,7 +88939,11 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 
 годовая
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+> *Сноска. Форма 47 в редакции приказа Министра здравоохранения РК от 28.09.2012 № 663 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
+
+### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан
+
+"О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -72659,23 +88952,13 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
 Представляют:
-1. Местные органы государственного управления
-здравоохранением - в территориальные управления
-статистики и Министерство здравоохранения Республики
-Казахстан к 10 февраля;
-2. Министерство здравоохранения Республики Казахстан
-сводные отчеты в Агенство Республики Казахстан по
-статистике 1 апреля
-</td>
-</tr>
-</table>
 
-### ОТЧЕТ за 20 ___ год О СЕТИ И ДЕЯТЕЛЬНОСТИ ОРГАНИЗАЦИЙ ЗДРАВООХРАНЕНИЯ __________________ области (города)
+1\. Местные органы государственного управления здравоохранением
+
+- в Министерство здравоохранения Республики Казахстан к 10 февраля.
+
+### Отчет за 201___ год О сети и деятельности организаций здравоохранения ________________________________________ области (города)
 
 0100 ОРГАНИЗАЦИИ ЗДРАВООХРАНЕНИЯ, ОКАЗЫВАЮЩИЕ СТАЦИОНАРНУЮ ПОМОЩЬ
 
@@ -72684,10 +88967,7 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <table>
 <tr>
 <td></td>
-<td>
-№
-строки
-</td>
+<td>№ строки</td>
 <td>
 Число
 организаций
@@ -72696,9 +88976,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 Число коек
 (фактически
 развернутых +
-свернутых на
-ремонт) на конец
-года
+свернутых
+на ремонт)
+на конец года
 </td>
 <td>
 Среднегодовые
@@ -72748,8 +89028,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Перинатальные центры (центры
-репродукции человека)
+Перинатальные центры
+(центры репродукции человека)
 </td>
 <td>05</td>
 <td></td>
@@ -72778,39 +89058,32 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 </tr>
 <tr>
-<td>Наркологические больницы</td>
+<td>
+Специализированные
+наркологические больницы
+</td>
 <td>09</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-Специализированные
-наркологические больницы
-</td>
+<td>Психиатрические больницы</td>
 <td>10</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Психиатрические больницы</td>
+<td>Городские больницы</td>
 <td>11</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Городские больницы</td>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>Городские детские больницы</td>
-<td>13</td>
+<td>12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -72820,7 +89093,7 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 Больницы скорой медицинской
 помощи
 </td>
-<td>14</td>
+<td>13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -72830,63 +89103,64 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 Центральные районные больницы
 (ЦРБ)
 </td>
-<td>15</td>
+<td>14</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>Районные больницы</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Сельские и сельские участковые
+больницы в составе ЦРБ и РБ
+</td>
 <td>16</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-Сельские и сельские
-участковые больницы в составе
-ЦРБ и РБ
-</td>
+<td>Межрайонные больницы</td>
 <td>17</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Межрайонные больницы</td>
+<td>
+Сельские и сельские участковые
+больницы самостоятельные
+</td>
 <td>18</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-Сельские и сельские
-участковые больницы
-самостоятельные
-</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>Итого</td>
-<td>20</td>
+<td>19</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 </table>
 
-Продолжение таблицы
-
 <table>
 <tr>
 <td rowspan="3">
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
 <td rowspan="3">
 Поступило
@@ -72900,32 +89174,33 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </td>
 <td colspan="2">
 Проведено больными
-койко-дней, тыс.
+койко-дней
 </td>
 <td colspan="3">
-Число посещений у врачей, включая
-профилактические (без посещений к
-стоматологам и зубным врачам), тыс.
+Число посещений у врачей,
+включая профилактические
+(без посещений к стоматологам и
+зубным врачам)
 </td>
 </tr>
 <tr>
 <td rowspan="2">всего</td>
 <td rowspan="2">
-в том числе из
-сельской
+в том числе
+из сельской
 местности
 </td>
 <td colspan="2">к врачам в поликлинике</td>
 <td rowspan="2">
-врачами на
-дому
+врачами
+на дому
 </td>
 </tr>
 <tr>
 <td>всего</td>
 <td>
-в том числе из
-сельской
+в том числе
+из сельской
 местности
 </td>
 </tr>
@@ -73129,19 +89404,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 </tr>
-<tr>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
 
-0100
+### 0100
 
 <table>
 <tr>
@@ -73150,7 +89415,7 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 №
 строки
 </td>
-<td colspan="4">Число должностей врачей ( без зубных )</td>
+<td colspan="4">Число должностей врачей (без зубных)</td>
 </tr>
 <tr>
 <td colspan="2">
@@ -73195,8 +89460,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Инфекционные больницы для
-взрослых
+Инфекционные больницы
+для взрослых
 </td>
 <td>03</td>
 <td></td>
@@ -73205,7 +89470,10 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 </tr>
 <tr>
-<td>Инфекционные больницы для детей</td>
+<td>
+Инфекционные больницы
+для детей
+</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -73214,8 +89482,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Перинатальные центры (центры
-репродукции человека)
+Перинатальные центры
+(центры репродукции
+человека)
 </td>
 <td>05</td>
 <td></td>
@@ -73240,16 +89509,11 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 </tr>
 <tr>
-<td>Противотуберкулезные больницы</td>
+<td>
+Противотуберкулезные
+больницы
+</td>
 <td>08</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Наркологические больницы</td>
-<td>09</td>
 <td></td>
 <td></td>
 <td></td>
@@ -73260,7 +89524,7 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 Специализированные
 наркологические больницы
 </td>
-<td>10</td>
+<td>09</td>
 <td></td>
 <td></td>
 <td></td>
@@ -73268,7 +89532,7 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>Психиатрические больницы</td>
-<td>11</td>
+<td>10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -73276,7 +89540,7 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>Городские больницы</td>
-<td>12</td>
+<td>11</td>
 <td></td>
 <td></td>
 <td></td>
@@ -73284,7 +89548,7 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>Городские детские больницы</td>
-<td>13</td>
+<td>12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -73295,6 +89559,17 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 Больницы скорой медицинской
 помощи
 </td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Центральные районные
+больницы (ЦРБ)
+</td>
 <td>14</td>
 <td></td>
 <td></td>
@@ -73302,10 +89577,7 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 </tr>
 <tr>
-<td>
-Центральные районные больницы
-(ЦРБ)
-</td>
+<td>Районные больницы</td>
 <td>15</td>
 <td></td>
 <td></td>
@@ -73313,7 +89585,11 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 </tr>
 <tr>
-<td>Районные больницы</td>
+<td>
+Сельские и сельские
+участковые больницы в
+составе ЦРБ и РБ
+</td>
 <td>16</td>
 <td></td>
 <td></td>
@@ -73321,10 +89597,7 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 </tr>
 <tr>
-<td>
-Сельские и сельские участковые
-больницы в составе ЦРБ и РБ
-</td>
+<td>Межрайонные больницы</td>
 <td>17</td>
 <td></td>
 <td></td>
@@ -73332,7 +89605,11 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 </tr>
 <tr>
-<td>Межрайонные больницы</td>
+<td>
+Сельские и сельские
+участковые больницы
+самостоятельные
+</td>
 <td>18</td>
 <td></td>
 <td></td>
@@ -73340,19 +89617,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 </tr>
 <tr>
-<td>
-Сельские и сельские участковые
-больницы самостоятельные
-</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>Итого</td>
-<td>20</td>
+<td>19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -73364,36 +89630,42 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <tr>
 <td rowspan="3">
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
 <td colspan="2" rowspan="2">
 Число физических
 лиц, врачей
 основных
-работников на
-занятых
+работников
+на занятых
 должностях
 </td>
 <td colspan="4">
-Число должностей среднего
-медперсонала
+Число должностей
+среднего медперсонала
 </td>
 <td colspan="2" rowspan="2">
 Число физических
-лиц, СМР основных
-работников на
-занятых должностях
+лиц, СМР
+основных работников
+на занятых
+должностях
 </td>
 <td rowspan="3">
 Число
 поликлиник
-(амбулаторий)
+(амбулаторий),
 детских
 поликлиник,
 женских
 консультаций,
-входящих в
-состав
+входящих
+в состав
 больничных
 организаций
 </td>
@@ -73404,8 +89676,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 организации
 </td>
 <td colspan="2">
-в том числе в
-поликлинике
+в том числе
+в поликлинике
 (амбулатории),
 диспансере,
 консультации
@@ -73419,9 +89691,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 зации
 </td>
 <td>
-из них в
-полик-
-линике,
+из них
+в поликли-
+нике,
 диспан-
 сере,
 консуль-
@@ -73433,15 +89705,17 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td>занятых</td>
 <td>
 в целом
-по
-органи-
-зации
+по орга-
+низации
 </td>
 <td>
 из них в
-поликлинике,
-диспансере,
-консультации
+поликли-
+нике,
+диспан-
+сере,
+консуль-
+тации
 </td>
 </tr>
 <tr>
@@ -73674,18 +89948,6 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20</td>
 <td></td>
 <td></td>
 <td></td>
@@ -73717,9 +89979,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 Число коек
 (фактически
 развернутых +
-свернутых на
-ремонт) на конец
-года
+свернутых
+на ремонт)
+на конец года
 </td>
 <td>
 Среднегодовые
@@ -73735,10 +89997,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Республиканский
-научно-практический центр
-психиатрии, психотерапии и
-наркологии
+Республиканский научно-
+практический центр психиатрии,
+психотерапии и наркологии
 </td>
 <td>01</td>
 <td></td>
@@ -73747,10 +90008,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Казахский ордена &quot;Знак
-Почета&quot;
-научно-исследовательский
-институт глазных болезней
+Казахский ордена &quot;Знак Почета&quot;
+научно-исследовательский институт
+глазных болезней
 </td>
 <td>02</td>
 <td></td>
@@ -73759,9 +90019,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Научно-исследовательский
-институт кардиологии и
-внутренних болезней
+Научно-исследовательский институт
+кардиологии и внутренних болезней
 </td>
 <td>03</td>
 <td></td>
@@ -73780,8 +90039,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Научный центр педиатрии и
-детской хирургии
+Научный центр педиатрии и детской
+хирургии
 </td>
 <td>05</td>
 <td></td>
@@ -73800,10 +90059,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Казахский
-научно-исследовательский
-институт онкологии и
-радиологии
+Казахский научно-исследовательский
+институт онкологии и радиологии
 </td>
 <td>07</td>
 <td></td>
@@ -73863,10 +90120,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Республиканская
-психиатрическая больница
-спец. типа с интенсивным
-наблюдением
+Республиканская психиатрическая
+больница спец. типа
+с интенсивным наблюдением
 </td>
 <td>13</td>
 <td></td>
@@ -73875,9 +90131,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Научно-исследовательский
-институт травматологии и
-ортопедии
+Научно-исследовательский институт
+травматологии и ортопедии
 </td>
 <td>14</td>
 <td></td>
@@ -73896,7 +90151,7 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Национальный научно-мед.центр
+Национальный научно-мед. центр
 г. Астана
 </td>
 <td>16</td>
@@ -73906,10 +90161,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Республиканский
-научно-практический центр
-медико-соц. проблем
-наркомании г. Павлодар
+Республиканский научно-
+практический центр медико-соц.
+проблем наркомании г. Павлодар
 </td>
 <td>17</td>
 <td></td>
@@ -73918,11 +90172,10 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Центр клинической медицины
-Западно-Казахстанской
-государственной медицинской
-академии (ЗКГМА) им.Марата
-Оспанова
+Центр клинической медицины Западно
+-Казахстанской государственной
+медицинской академии (ЗКГМА)
+им. Марата Оспанова
 </td>
 <td>18</td>
 <td></td>
@@ -73931,9 +90184,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Национальный центр гигиены
-труда и профессональных
-заболеваний г.Караганда
+Национальный центр гигиены труда и
+профессональных заболеваний
+г. Караганда
 </td>
 <td>19</td>
 <td></td>
@@ -73943,10 +90196,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <tr>
 <td>
 Западно-Казахстанский филиал
-&quot;Национальный центр гигиены
-труда и профессиональных
-заболеваний&quot; Актюбинская
-область
+&quot;Национальный центр гигиены труда
+и профессиональных заболеваний&quot;
+Актюбинская область
 </td>
 <td>20</td>
 <td></td>
@@ -73956,8 +90208,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <tr>
 <td>
 Восточно-Казахстанский филиал
-&quot;Научный центр гигиены, труда
-и профессиональных
+&quot;Научный центр гигиены,
+труда и профессиональных
 заболеваний&quot;
 </td>
 <td>21</td>
@@ -73967,10 +90219,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Южно-Казахстанский
-филиал&quot;Научный центр гигиены,
-труда и профессиональных
-заболеваний&quot;
+Южно-Казахстанский филиал&quot;Научный
+центр гигиены, труда и
+профессиональных заболеваний&quot;
 </td>
 <td>22</td>
 <td></td>
@@ -73979,9 +90230,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Научно-исследовательский
-институт радиационной
-медицины и экологии г.Семей
+Научно-исследовательский институт
+традиационной медицины и экологии
+г. Семей
 </td>
 <td>23</td>
 <td></td>
@@ -74021,8 +90272,7 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-АО &quot;Республиканский научный
-центр неотложной медицинской
+АО &quot;Республиканский научный центр неотложной медицинской
 помощи&quot;
 </td>
 <td>27</td>
@@ -74032,9 +90282,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Научно-исследовательский
-кожно-венерологический
-институт
+Научно-исследовательский кожно-
+венерологический институт
 </td>
 <td>28</td>
 <td></td>
@@ -74061,7 +90310,12 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <tr>
 <td rowspan="3">
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
 <td rowspan="3">
 Поступило
@@ -74075,22 +90329,32 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </td>
 <td colspan="2">
 Проведено больными
-койко-дней, тыс.
+койко-дней
 </td>
 <td colspan="3">
 Число посещений у врачей, включая
-профилактические (без посещений к
-стоматологам и зубным врачам), тыс.
+профилактические (без посещений
+к стоматологам и зубным врачам)
 </td>
 </tr>
 <tr>
-<td rowspan="2">всего</td>
 <td rowspan="2">
-в том числе
-из сельской
+в
+с
+е
+г
+о
+</td>
+<td rowspan="2">
+в том
+числе из
+сельской
 местности
 </td>
-<td colspan="2">к врачам в поликлинике</td>
+<td colspan="2">
+к врачам
+в поликлинике
+</td>
 <td rowspan="2">
 врачами
 на дому
@@ -74100,8 +90364,7 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td>всего</td>
 <td>
 в том числе из
-сельской
-местности
+сельской местности
 </td>
 </tr>
 <tr>
@@ -74416,7 +90679,7 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 </table>
 
-0200
+### 0200
 
 <table>
 <tr>
@@ -74425,13 +90688,16 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 №
 строки
 </td>
-<td colspan="4">Число должностей врачей ( без зубных )</td>
+<td colspan="4">Число должностей врачей (без зубных)</td>
 </tr>
 <tr>
-<td colspan="2">в целом по организации</td>
 <td colspan="2">
-в том числе в
-поликлинике
+в целом по
+организации
+</td>
+<td colspan="2">
+в том числе
+в поликлинике
 (амбулатории),
 диспансере,
 консультации
@@ -74453,9 +90719,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Республиканский
-научно-практический центр
-психиатрии, психотерапии и
+Республиканский научно-практический
+центр психиатрии, психотерапии и
 наркологии
 </td>
 <td>01</td>
@@ -74467,8 +90732,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <tr>
 <td>
 Казахский ордена &quot;Знак Почета&quot;
-научно-исследовательский
-институт глазных болезней
+научно-исследовательский институт
+глазных болезней
 </td>
 <td>02</td>
 <td></td>
@@ -74478,9 +90743,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Научно-исследовательский
-институт кардиологии и
-внутренних болезней
+Научно-исследовательский институт
+кардиологии и внутренних болезней
 </td>
 <td>03</td>
 <td></td>
@@ -74501,8 +90765,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Научный центр педиатрии и
-детской хирургии
+Научный центр педиатрии и детской
+хирургии
 </td>
 <td>05</td>
 <td></td>
@@ -74513,7 +90777,7 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <tr>
 <td>
 Научный центр урологии имени
-академика Б.У.Джарбусынова
+академика Б.У. Джарбусынова
 </td>
 <td>06</td>
 <td></td>
@@ -74523,10 +90787,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Казахский
-научно-исследовательский
-институт онкологии и
-радиологии
+Казахский научно-исследовательский
+институт онкологии и радиологии
 </td>
 <td>07</td>
 <td></td>
@@ -74536,8 +90798,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Национальный научный центр
-хирургии имени А.Н.Сызганова
+Национальный научный центр хирургии
+имени А.Н. Сызганова
 </td>
 <td>08</td>
 <td></td>
@@ -74547,8 +90809,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Научный центр акушерства,
-гинекологии и перинатологии
+Научный центр акушерства, гинекологии
+и перинатологии
 </td>
 <td>09</td>
 <td></td>
@@ -74569,9 +90831,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Центральный клинический
-госпиталь для инвалидов
-Отечественной войны
+Центральный клинический госпиталь для
+инвалидов Отечественной войны
 </td>
 <td>11</td>
 <td></td>
@@ -74581,8 +90842,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Республиканская детская
-клиническая больница &quot;Аксай&quot;
+Республиканская детская клиническая
+больница &quot;Аксай&quot;
 </td>
 <td>12</td>
 <td></td>
@@ -74592,9 +90853,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Республиканская
-психиатрическая больница спец.
-типа с интенсивным наблюдением
+Республиканская психиатрическая
+больница спец. типа с интенсивным
+наблюдением
 </td>
 <td>13</td>
 <td></td>
@@ -74604,9 +90865,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Научно-исследовательский
-институт травматологии и
-ортопедии
+Научно-исследовательский институт
+травматологии и ортопедии
 </td>
 <td>14</td>
 <td></td>
@@ -74615,10 +90875,7 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 </tr>
 <tr>
-<td>
-Казахский республиканский
-лепрозорий
-</td>
+<td>Казахский республиканский лепрозорий</td>
 <td>15</td>
 <td></td>
 <td></td>
@@ -74627,9 +90884,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Национальный
-научно-медицинский центр г.
-Астана
+Национальный научно-медицинский
+центр г. Астана
 </td>
 <td>16</td>
 <td></td>
@@ -74639,9 +90895,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Республиканский
-научно-практический центр
-медико-соц. проблем наркомании
+Республиканский научно-практический
+центр медико-соц. проблем наркомании
 г. Павлодар
 </td>
 <td>17</td>
@@ -74652,11 +90907,10 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Центр клинической медицины
-Западно-Казахстанской
-государственной медицинской
-академии (ЗКГМА) им.Марата
-Оспанова
+Центр клинической медицины Западно-
+Казахстанской государственной
+медицинской академии (ЗКГМА)
+им. Марата Оспанова
 </td>
 <td>18</td>
 <td></td>
@@ -74666,9 +90920,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Национальный центр гигиены
-труда и профессональных
-заболеваний г.Караганда
+Национальный центр гигиены труда
+и профессональных заболеваний
+г. Караганда
 </td>
 <td>19</td>
 <td></td>
@@ -74679,10 +90933,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <tr>
 <td>
 Западно-Казахстанский филиал
-&quot;Национальный центр гигиены
-труда и профессиональных
-заболеваний&quot; Актюбинская
-область
+&quot;Национальный центр гигиены труда
+и профессиональных заболеваний&quot;
+Актюбинская область
 </td>
 <td>20</td>
 <td></td>
@@ -74693,9 +90946,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <tr>
 <td>
 Восточно-Казахстанский филиал
-&quot;Научный центр гигиены, труда
-и профессиональных
-заболеваний&quot;
+&quot;Научный центр гигиены, труда и
+профессиональных заболеваний&quot;
 </td>
 <td>21</td>
 <td></td>
@@ -74705,10 +90957,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Южно-Казахстанский
-филиал&quot;Научный центр гигиены,
-труда и профессиональных
-заболеваний&quot;
+Южно-Казахстанский филиал &quot;Научный
+центр гигиены, труда и
+профессиональных заболеваний&quot;
 </td>
 <td>22</td>
 <td></td>
@@ -74718,9 +90969,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Научно-исследовательский
-институт радиационной медицины
-и экологии г. Семей
+Научно-исследовательский институт
+радиационной медицины и экологии
+г. Семей
 </td>
 <td>23</td>
 <td></td>
@@ -74730,9 +90981,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Мед.центр Семипалатинской
-государственной медицинской
-академии (СГМА)
+Мед. центр Семипалатинской
+государственной медицинской академии
+(СГМА)
 </td>
 <td>24</td>
 <td></td>
@@ -74764,9 +91015,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-АО &quot;Республиканский научный
-центр неотложной медицинской
-помощи&quot;
+АО &quot;Республиканский научный центр
+неотложной медицинской помощи&quot;
 </td>
 <td>27</td>
 <td></td>
@@ -74776,9 +91026,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-Научно-исследовательский
-кожно-венерологический
-институт
+Научно-исследовательский кожно-
+венерологический институт
 </td>
 <td>28</td>
 <td></td>
@@ -74808,15 +91057,43 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <tr>
 <td rowspan="3">
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
 <td colspan="2" rowspan="2">
-Число физических лиц,
-врачей основных
-работников на занятых
+Число физических
+лиц, врачей
+основных работников
+на занятых
 должностях
 </td>
-<td colspan="4">Число должностей среднего медперсонала</td>
+<td colspan="4">
+Число должностей
+среднего медперсонала
+</td>
+<td colspan="2" rowspan="2">
+Число физических
+лиц, СМР основных
+работников на
+занятых должностях
+</td>
+<td rowspan="3">
+Число
+поликлиник
+(амбулаторий),
+детских
+поликлиник,
+женских
+консультаций,
+входящих
+в состав
+больничных
+организаций
+</td>
 </tr>
 <tr>
 <td colspan="2">
@@ -74824,26 +91101,47 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 организации
 </td>
 <td colspan="2">
-в том числе в поликлинике
-(амбулатории), диспансере,
-консультации
-</td>
-</tr>
-<tr>
-<td>
-в целом по
-организации
-</td>
-<td>
-из них в
-поликлинике,
+в том числе
+в поликлинике
+(амбулатории),
 диспансере,
 консультации
 </td>
+</tr>
+<tr>
+<td>
+в целом
+по
+органи-
+зации
+</td>
+<td>
+из них в
+поликли-
+нике,
+диспан-
+сере,
+консуль-
+тации
+</td>
 <td>штатных</td>
 <td>занятых</td>
 <td>штатных</td>
 <td>занятых</td>
+<td>
+в целом
+по орга-
+низации
+</td>
+<td>
+из них в
+поликли-
+нике,
+диспан-
+сере,
+консуль-
+тации
+</td>
 </tr>
 <tr>
 <th>Б</th>
@@ -74853,9 +91151,15 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <th>18</th>
 <th>19</th>
 <th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
 </tr>
 <tr>
 <td>01</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -74871,9 +91175,15 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>03</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -74889,9 +91199,15 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>05</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -74907,9 +91223,15 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>07</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -74925,9 +91247,15 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>09</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -74943,9 +91271,15 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>11</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -74961,9 +91295,15 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>13</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -74979,9 +91319,15 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>15</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -74997,9 +91343,15 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>17</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -75015,9 +91367,15 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>19</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -75033,9 +91391,15 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>21</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -75051,9 +91415,15 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>23</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -75069,9 +91439,15 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>25</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -75087,9 +91463,15 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>27</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -75105,9 +91487,15 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>29</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -75123,76 +91511,93 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
-Продолжение таблицы
+0300 ОРГАНИЗАЦИИ ВОССТАНОВИТЕЛЬНОГО ЛЕЧЕНИЯ И МЕДИЦИНСКОЙ РЕАБИЛИТАЦИИ
 
 <table>
 <tr>
-<td colspan="2">
-Число физических лиц, СМР основных
-работников на занятых должностях
+<td rowspan="2"></td>
+<td rowspan="2">
+№
+с
+т
+р
+о
+к
+и
 </td>
 <td rowspan="2">
-Число поликлиник (амбулаторий), детских
-поликлиник, женских консультаций,
-входящих в состав больничных
-организаций
-</td>
-</tr>
-<tr>
-<td>
-в целом по
-организации
-</td>
-<td>
-из них в поликлинике,
-диспансере, консультации
-</td>
-</tr>
-<tr>
-<th>21</th>
-<th>22</th>
-<th>23</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-0300 ОРГАНИЗАЦИИ ВОССТАНОВИТЕЛЬНОГО ЛЕЧЕНИЯ И МЕДИЦИНСКОЙ
-
-РЕАБИЛИТАЦИИ
-
-<table>
-<tr>
-<td></td>
-<td>
-№
-строки
-</td>
-<td>
 Число
-организаций,
+органи-
+заций,
 всего
 </td>
-<td>
+<td rowspan="2">
 из них
 имеющие
-стационары
+стацио-
+нары
+</td>
+<td rowspan="2">
+Число
+коек
+(факти-
+чески
+развер-
+нутых +
+свер-
+нутых
+на
+ремонт)
+на 31.12.
+200 г.
+</td>
+<td rowspan="2">
+Средне
+годовые
+койки
+</td>
+<td rowspan="2">
+Посту-
+пило
+боль-
+ных
+</td>
+<td rowspan="2">
+в том
+числе
+из
+сель-
+ской
+мест-
+ности
+</td>
+<td colspan="2">
+Проведено
+больными
+койко-дней
+</td>
+</tr>
+<tr>
+<td>
+в
+с
+е
+г
+о
 </td>
 <td>
-Число коек (фактически
-развернутых + свернутых на
-ремонт) на 31.12.200 г.
+в том
+числе
+из сель-
+ской
+мест-
+ности
 </td>
 </tr>
 <tr>
@@ -75201,27 +91606,40 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <th>1</th>
 <th>2</th>
 <th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
 </tr>
 <tr>
 <td>
 Республиканский
-детский
-реабилитационный центр
-&quot;Балбулак&quot;
+детский реабилитацион-
+ный центр &quot;Балбулак&quot;
 </td>
 <td>01</td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 Республиканский
-детский
-реабилитационный центр
-г.Астана
+детский реабилитацион-
+ный центр г. Астана
 </td>
 <td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -75235,6 +91653,11 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 взрослых
 </td>
 <td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -75250,6 +91673,11 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Итого</td>
@@ -75257,74 +91685,6 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td rowspan="2">
-Средне годовые
-койки
-</td>
-<td rowspan="2">
-Поступило
-больных
-</td>
-<td rowspan="2">
-в том числе из
-сельской местности
-</td>
-<td colspan="2">
-Проведено больными койко-дней,
-тыс.
-</td>
-</tr>
-<tr>
-<td>всего</td>
-<td>
-в том числе из
-сельской
-местности
-</td>
-</tr>
-<tr>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -75338,47 +91698,217 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td rowspan="3"></td>
 <td rowspan="3">
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
 <td colspan="3">
-Число посещений у
-врачей, включая
-профилактические (без
-посещений к
-стоматологам и зубным
-врачам), тыс.
+Число
+посещений
+у врачей,
+включая
+профилак-
+тические
+(без посе-
+щений к
+стомато-
+логам и
+зубным
+врачам)
 </td>
 <td colspan="4">
-Число должностей врачей (без
-зубных)
+Число должностей
+врачей (без зубных)
+</td>
+<td colspan="2">
+Число
+физичес-
+ких лиц,
+врачей
+основных
+работни-
+ков на
+занятых
+долж-
+ностях
+</td>
+<td colspan="4">
+Число
+должностей
+среднего
+медпер-
+сонала
+</td>
+<td colspan="2">
+Число
+физических
+лиц, СМР
+основных
+работников
+на занятых
+должностях
 </td>
 </tr>
 <tr>
-<td rowspan="2">всего</td>
 <td rowspan="2">
-в том числе
-из сельской
-местности
+в
+с
+е
+г
+о
 </td>
 <td rowspan="2">
-на
-дому
+в том
+числе
+из
+сель-
+ской
+мест-
+ности
+</td>
+<td rowspan="2">
+н
+а
+д
+о
+м
+у
 </td>
 <td colspan="2">
-в целом по
-организации
+в целом
+по орга-
+низации
 </td>
 <td colspan="2">
-в том числе в
-диспансерном
+в том
+числе в
+диспансер-
+ном
 отделении
 </td>
+<td rowspan="2">
+в
+це-
+лом
+по
+ор-
+га-
+ни-
+за-
+ции
+</td>
+<td rowspan="2">
+из
+них
+в
+дис-
+пан-
+сер-
+ном
+от-
+де-
+ле-
+нии
+</td>
+<td colspan="2">
+в
+це-
+лом
+по
+ор
+га-
+ни-
+за-
+ции
+</td>
+<td colspan="2">
+в
+том
+чис-
+ле
+в
+дис-
+пан-
+сер-
+ном
+отде-
+лении
+</td>
+<td rowspan="2">
+в
+целом
+по ор-
+гани-
+зации
+</td>
+<td rowspan="2">
+из
+них
+в
+дис-
+пан-
+сер-
+ном
+отде-
+лении
+</td>
 </tr>
 <tr>
-<td>штатных</td>
-<td>занятых</td>
-<td>штатных</td>
-<td>занятых</td>
+<td>
+штат-
+ных
+</td>
+<td>
+заня-
+тых
+</td>
+<td>
+штат-
+ных
+</td>
+<td>
+заня-
+тых
+</td>
+<td>
+ш
+т
+а
+т
+н
+ы
+х
+</td>
+<td>
+з
+а
+н
+я
+т
+ы
+х
+</td>
+<td>
+ш
+т
+а
+т
+н
+ы
+х
+</td>
+<td>
+з
+а
+н
+я
+т
+ы
+х
+</td>
 </tr>
 <tr>
 <th>А</th>
@@ -75390,13 +91920,22 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <th>13</th>
 <th>14</th>
 <th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
 </tr>
 <tr>
 <td>
 Республиканский
-детский
-реабилитационный
-центр &quot;Балбулак&quot;
+детский реаби-
+литационный
+центр
+&quot;Балбулак&quot;
 </td>
 <td>01</td>
 <td></td>
@@ -75406,13 +91945,20 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>
 Республиканский
-детский
-реабилитационный
-центр г.Астана
+детский реаби-
+литационный
+центр г. Астана
 </td>
 <td>02</td>
 <td></td>
@@ -75422,6 +91968,13 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>
@@ -75429,8 +91982,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 восстановитель-
 ного лечения и
 медицинской
-реабилитации для
-взрослых
+реабилитации
+для взрослых
 </td>
 <td>03</td>
 <td></td>
@@ -75440,6 +91993,13 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>
@@ -75447,8 +92007,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 восстановитель-
 ного лечения и
 медицинской
-реабилитации для
-детей
+реабилитации
+для детей
 </td>
 <td>04</td>
 <td></td>
@@ -75457,6 +92017,13 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -75469,92 +92036,12 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td colspan="2">
-Число физических лиц,
-врачей основных
-работников на занятых
-должностях
-</td>
-<td colspan="4">
-Число должностей среднего
-медперсонала
-</td>
-<td colspan="2">
-Число физических лиц, СМР
-основных работников на
-занятых должностях
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-в целом по
-организации
-</td>
-<td rowspan="2">
-из них в
-диспансерном
-отделении
-</td>
-<td colspan="2">
-в целом по
-организации
-</td>
-<td colspan="2">
-в том числе в
-диспансерном
-отделении
-</td>
-<td rowspan="2">
-в целом по
-организации
-</td>
-<td rowspan="2">
-из них в
-диспансерном
-отделении
-</td>
-</tr>
-<tr>
-<td>штатных</td>
-<td>занятых</td>
-<td>штатных</td>
-<td>занятых</td>
-</tr>
-<tr>
-<th>16</th>
-<th>17</th>
-<th>18</th>
-<th>19</th>
-<th>20</th>
-<th>21</th>
-<th>22</th>
-<th>23</th>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 </table>
@@ -75563,37 +92050,132 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 
 <table>
 <tr>
-<td></td>
-<td>
+<td rowspan="2"></td>
+<td rowspan="2">
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
-<td>
+<td rowspan="2">
 Число
-организации
-на конец
+органи-
+зации
+на
+конец
 года
 </td>
-<td>
-Число коек
-(фактически
-развернутых +
-свернутых на
+<td rowspan="2">
+Число
+коек
+(факти-
+чески
+развер-
+нутых +
+свер-
+нутых
+на
 ремонт)
 </td>
-<td>
-Среднего-
+<td rowspan="2">
+Сред-
+него-
 довые
 койки
 </td>
+<td rowspan="2">
+Посту-
+пило
+боль-
+ных
+</td>
+<td rowspan="2">
+из
+них
+из
+сель-
+ской
+мест-
+ности
+</td>
+<td colspan="2">
+Проведено
+больными
+койко-дней
+</td>
+<td colspan="2">
+Число
+должностей
+врачей
+</td>
+<td rowspan="2">
+Число
+физи-
+ческих
+лиц
+врачей
+основ-
+ных
+работ-
+ников
+на за-
+нятых
+долж-
+ностях
+</td>
+<td colspan="2">
+Число
+должностей
+среднего
+медпер-
+сонала
+</td>
+<td rowspan="2">
+Число
+физичес-
+ких лиц
+СМР осно-
+вных ра-
+ботников
+на заня-
+тых
+должностях
+</td>
+</tr>
+<tr>
 <td>
-Поступило
-больных
+в
+с
+е
+г
+о
 </td>
 <td>
-из них из
+из
+них из
 сельской
-местности
+мест-
+ности
+</td>
+<td>
+штат-
+ных
+</td>
+<td>
+за-
+ня-
+тых
+</td>
+<td>
+штат-
+ных
+</td>
+<td>
+заня-
+тых
 </td>
 </tr>
 <tr>
@@ -75604,6 +92186,14 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <th>3</th>
 <th>4</th>
 <th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
 </tr>
 <tr>
 <td>Хоспис</td>
@@ -75613,13 +92203,30 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 Больницы
-сестринского ухода
+сестринского
+ухода
 </td>
 <td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -75634,70 +92241,7 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="2">
-Проведено больными
-койко-дней, тыс.
-</td>
-<td colspan="2">
-Число должностей
-врачей
-</td>
-<td rowspan="2">
-Число физических лиц
-врачей основных
-работников на занятых
-должностях
-</td>
-<td colspan="2">
-Число должностей
-среднего
-медперсонала
-</td>
-</tr>
-<tr>
-<td>всего</td>
-<td>
-из них из сельской
-местности
-</td>
-<td>штатных</td>
-<td>занятых</td>
-<td>штатных</td>
-<td>занятых</td>
-</tr>
-<tr>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-</tr>
-<tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -75715,42 +92259,130 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td rowspan="3"></td>
 <td rowspan="3">
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
-<td colspan="5">Организации круглогодового функционирования</td>
+<td colspan="5">
+Организации круглогодового
+функционирования
+</td>
+<td colspan="9">
+Распределение лечившихся
+в санаториях по полу и возрасту
+</td>
 </tr>
 <tr>
 <td rowspan="2">
-число организа-
-ций на конец
+число
+орга-
+низа-
+ций
+на
+конец
 года
 </td>
 <td colspan="2">
-число фактически
-развернутых коек
+число
+факти-
+чески
+развер-
+нутых
+коек
 </td>
 <td rowspan="2">
-поступило
-больных за
+посту-
+пило
+боль-
+ных
+за
 год
 </td>
 <td rowspan="2">
-проведено
-койко-дней
-за год, тыс.
+про-
+ведено
+койко-
+дней
+за
+год
 </td>
+<td rowspan="2">
+Чис-
+лен-
+ность
+лечи-
+вших-
+ся за
+год,
+чел.
+</td>
+<td rowspan="2">
+из
+них
+жен-
+щин
+</td>
+<td colspan="7">из общего числа в возрасте</td>
 </tr>
 <tr>
 <td>
-кругло-
-годовых
+кру-
+гло-
+го-
+до-
+вых
 </td>
 <td>
-в месяц
-максималь-
+в
+месяц
+мак-
+си-
+маль-
 ного
-разверты-
-вания
+раз-
+вер-
+тыва-
+ния
+</td>
+<td>
+до
+30
+лет
+</td>
+<td>
+30-
+49
+лет
+</td>
+<td>
+50-
+54
+года
+</td>
+<td>
+55-
+59
+лет
+</td>
+<td>
+60-
+64
+года
+</td>
+<td>
+65-
+69
+лет
+</td>
+<td>
+70
+лет
+и
+стар-
+ше
 </td>
 </tr>
 <tr>
@@ -75761,202 +92393,6 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <th>3</th>
 <th>4</th>
 <th>5</th>
-</tr>
-<tr>
-<td>
-Всего (строка
-02+строка 05)
-</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-а) санатории
-длявзрослых
-</td>
-<td rowspan="2">02</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-<td>Всего</td>
-</tr>
-<tr>
-<td>
-в том числе для
-больных туберкулезом
-</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них костным
-туберкулезом
-</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-б) санатории для
-детей
-</td>
-<td rowspan="2">05</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-<td>Всего</td>
-</tr>
-<tr>
-<td>
-в том числе для
-больных туберкулезом
-</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-из них костным
-туберкулезом
-</td>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-с заболеваниями
-органов дыхания
-</td>
-<td>08</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-с заболеваниями
-органов пищеварения
-</td>
-<td>09</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-с заболеваниями
-опорно-двигательной
-системы
-</td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-с заболеваниями
-нервной системы и
-ДЦП
-</td>
-<td>11</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-с заболеваниями
-мочеполовых органов
-</td>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="9">Распределение лечившихся в санаториях по полу и возрасту</td>
-</tr>
-<tr>
-<td rowspan="2">
-Численность
-лечившихся за
-год, чел.
-</td>
-<td rowspan="2">
-из них
-женщин
-</td>
-<td colspan="7">из общего числа в возрасте</td>
-</tr>
-<tr>
-<td>
-до 30
-лет
-</td>
-<td>
-30-49
-лет
-</td>
-<td>
-50-54
-года
-</td>
-<td>
-55-59
-лет
-</td>
-<td>60-64 года</td>
-<td>65-69 лет</td>
-<td>
-70 лет и
-старше
-</td>
-</tr>
-<tr>
 <th>6</th>
 <th>7</th>
 <th>8</th>
@@ -75968,6 +92404,18 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <th>14</th>
 </tr>
 <tr>
+<td>
+Всего
+(строка
+02+
+строка 05)
+</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -75979,6 +92427,17 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 </tr>
 <tr>
+<td>
+а) сана-
+тории для
+взрослых
+</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -75990,6 +92449,266 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 </tr>
 <tr>
+<td>Всего</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том
+числе для
+больных
+туберку-
+лезом
+</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них
+костным
+туберку-
+лезом
+</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+б) сана-
+тории для
+детей
+</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том
+числе для
+больных
+туберку-
+лезом
+</td>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них
+костным
+туберку-
+лезом
+</td>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+с заболе-
+ваниями
+органов
+дыхания
+</td>
+<td>08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+с заболе-
+ваниями
+органов
+пищева-
+рения
+</td>
+<td>09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+с заболе-
+ваниями
+опорно-
+двигатель-
+ной
+системы
+</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+с заболе-
+ваниями
+нервной
+системы и
+ДЦП
+</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+с заболе-
+ваниями
+мочеполовых
+органов
+</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -76002,10 +92721,6 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 </table>
 
-321 Кроме того хозрасчетные койки в бюджетных организациях
-
-1 ____ # 1 _____
-
 0401 САНИТАРНАЯ АВИАЦИЯ
 
 (отделение экстренной и планово-консультативной помощи)
@@ -76015,8 +92730,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td>№ строки</td>
 <td>Число отделений</td>
 <td>
-Число обслуженных
-ими лиц
+Число
+обслуженных ими лиц
 </td>
 </tr>
 <tr>
@@ -76036,17 +92751,19 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <table>
 <tr>
 <td rowspan="2"></td>
-<td rowspan="2">
-№
-строки
-</td>
+<td rowspan="2">№ строки</td>
 <td colspan="2">Всего</td>
 </tr>
 <tr>
-<td>самостоятельные</td>
 <td>
-входящие в состав
-других организаций
+самостоя-
+тельные
+</td>
+<td>
+входящие
+в состав
+других
+организаций
 </td>
 </tr>
 <tr>
@@ -76056,28 +92773,19 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td>2</td>
 </tr>
 <tr>
-<td>
-Число центров, отделений и
-пунктов крови
-</td>
+<td>Число центров, отделений и пунктов крови</td>
 <td>01</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-из них станций, имеющих
-стационары
-</td>
+<td>из них станций , имеющих стационары</td>
 <td>02</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-Число врачебных должностей:
-штатных
-</td>
+<td>Число врачебных должностей: штатных</td>
 <td>03</td>
 <td></td>
 <td></td>
@@ -76106,15 +92814,20 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 строки
 </td>
 <td colspan="2">
-Станции (отделения) скорой медицинской
-помощи
+Станции (отделения)
+скорой медицинской помощи
 </td>
 </tr>
 <tr>
-<td>самостоятельные</td>
 <td>
-входящие в состав
-других организаций
+самостоя-
+тельные
+</td>
+<td>
+входящие
+в состав
+других
+организаций
 </td>
 </tr>
 <tr>
@@ -76124,64 +92837,48 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td>2</td>
 </tr>
 <tr>
-<td>
-Число станций (отделений) скорой
-медицинской помощи
-</td>
+<td>Число станций (отделений) скорой медицинской помощи</td>
 <td>01</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-в том числе: в центральной
-районной больнице (районной
-больнице)
+в том числе: в центральной районной больнице
+(районной больнице)
 </td>
 <td>02</td>
 <td>х</td>
 <td></td>
 </tr>
 <tr>
-<td>
-в Городской (районной)
-поликлинике
-</td>
+<td>в Городской (районной) поликлинике</td>
 <td>03</td>
 <td>х</td>
 <td></td>
 </tr>
 <tr>
-<td>
-в психоневрологическом
-диспансере (больнице)
-</td>
+<td>в психоневрологическом диспансере (больнице)</td>
 <td>04</td>
 <td>х</td>
 <td></td>
 </tr>
 <tr>
-<td>
-Число выполненных вызовов,
-всего.
-</td>
+<td>Число выполненных вызовов, всего.</td>
 <td>05</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>
-в том числе, в связи с
-перевозкой больных
-</td>
+<td>в том числе, в связи с перевозкой больных</td>
 <td>06</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-Число лиц, которым оказана
-помощь амбулаторно и при выездах
+Число лиц, которым оказана помощь амбулаторно
+и при выездах
 </td>
 <td>07</td>
 <td></td>
@@ -76196,44 +92893,209 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td rowspan="3"></td>
 <td rowspan="3">
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
 <td colspan="7">
-Дневные стационары при организациях здравоохранения,
-оказывающих амбулаторно-поликлиническую помощь
-(самостоятельных и вх. в состав)
+Дневные стационары
+при организациях
+здравоохранения, оказывающих
+амбулаторно-поликлиническую
+помощь (самостоятельных и
+вх. в состав)
 </td>
+<td colspan="7">
+Стационары (отделения,
+палаты) дневного
+пребывания в организациях
+здравоохранения,
+оказывающих стационарную
+помощь
+</td>
+<td colspan="5">Стационары на дому</td>
 </tr>
 <tr>
 <td rowspan="2">
-число
-организаций
-имеющих
-стационары
+чис-
+ло
+орга-
+низа-
+ций
+имею-
+щих
+ста-
+цио-
+нары
 </td>
-<td colspan="2">число мест</td>
 <td colspan="2">
-лечилось
+число
+мест
+</td>
+<td colspan="2">
+лечи-
+лось
 больных
 </td>
-<td colspan="2">проведено дней</td>
+<td colspan="2">
+прове-
+дено
+дней
+</td>
+<td rowspan="2">
+чис-
+ло
+ор-
+га-
+ни-
+за-
+ций
+име-
+ющих
+ста-
+цио-
+нары
+</td>
+<td colspan="2">
+число
+мест
+</td>
+<td colspan="2">
+лечи-
+лось
+больных
+</td>
+<td colspan="2">
+прове-
+дено
+дней
+</td>
+<td rowspan="2">
+чис-
+ло
+ор-
+га-
+ни-
+за-
+ций
+име-
+ющих
+ста-
+цио-
+нары
+</td>
+<td colspan="2">
+лечи-
+лось
+больных
+</td>
+<td colspan="2">
+прове-
+дено
+дней
+</td>
 </tr>
 <tr>
-<td>всего</td>
 <td>
-из них
-для
-детей
+в
+с
+е
+г
+о
 </td>
-<td>всего</td>
 <td>
-из них
+из
+них
+для
+де-
+тей
+</td>
+<td>
+в
+с
+е
+г
+о
+</td>
+<td>
+из
+них
 дети
 </td>
-<td>всего</td>
 <td>
-из них
-детьми
+в
+с
+е
+г
+о
+</td>
+<td>
+из
+них
+де-
+тьми
+</td>
+<td>
+в
+с
+е
+г
+о
+</td>
+<td>из них для детей</td>
+<td>
+в
+с
+е
+г
+о
+</td>
+<td>
+из
+них
+дети
+</td>
+<td>
+в
+с
+е
+г
+о
+</td>
+<td>
+из
+них
+де-
+тьми
+</td>
+<td>
+в
+с
+е
+г
+о
+</td>
+<td>
+из
+них
+де-
+ти
+</td>
+<td>
+в
+с
+е
+г
+о
+</td>
+<td>
+из
+них
+деть-
+ми
 </td>
 </tr>
 <tr>
@@ -76246,10 +93108,34 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <th>5</th>
 <th>6</th>
 <th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
 </tr>
 <tr>
 <td>Областные больницы</td>
 <td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -76271,6 +93157,18 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Перинатальные центры</td>
@@ -76282,10 +93180,34 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Родильные дома</td>
 <td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -76307,6 +93229,18 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
@@ -76314,6 +93248,18 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 больницы
 </td>
 <td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -76335,6 +93281,18 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
@@ -76342,6 +93300,18 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 диспансеры
 </td>
 <td>08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -76363,14 +93333,37 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Кожно-
-венерологические
+Кожно-венерологические
 диспансеры
 </td>
 <td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -76392,6 +93385,18 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
@@ -76399,6 +93404,18 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 диспансеры
 </td>
 <td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -76420,6 +93437,18 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
@@ -76434,10 +93463,34 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Городские больницы</td>
 <td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -76459,12 +93512,21 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Центральные районные
-больницы
-</td>
+<td>Центральные районные больницы</td>
 <td>17</td>
 <td></td>
 <td></td>
@@ -76473,10 +93535,34 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Районнные больницы</td>
+<td>Районные больницы</td>
 <td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -76488,6 +93574,18 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <tr>
 <td>Межрайонная больница</td>
 <td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -76509,6 +93607,18 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
@@ -76518,6 +93628,18 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td>21</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
 <td></td>
 <td></td>
 <td></td>
@@ -76534,12 +93656,36 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Сельские поликлиники</td>
 <td>23</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
 <td></td>
 <td></td>
 <td></td>
@@ -76556,12 +93702,36 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Врачебные амбулатории</td>
 <td>25</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
 <td></td>
 <td></td>
 <td></td>
@@ -76581,16 +93751,39 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 Консультативно-
-диагностический
-центры
+диагностический центры
 </td>
 <td>27</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
 <td></td>
 <td></td>
 <td></td>
@@ -76607,12 +93800,36 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Детские поликлиник</td>
 <td>29</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
 <td></td>
 <td></td>
 <td></td>
@@ -76634,6 +93851,18 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
@@ -76648,9 +93877,24 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Итого</td>
+<td>
+Республиканские
+организации
+</td>
 <td>32</td>
 <td></td>
 <td></td>
@@ -76659,93 +93903,6 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td colspan="7">
-Стационары (отделения, палаты) дневного
-пребывания в организациях здравоохранения,
-оказывающих стационарную помощь
-</td>
-<td colspan="5">Стационары на дому</td>
-</tr>
-<tr>
-<td rowspan="2">
-число
-организаций
-имеющих
-стационары
-</td>
-<td colspan="2">число мест</td>
-<td colspan="2">
-лечилось
-больных
-</td>
-<td colspan="2">
-проведено
-дней
-</td>
-<td rowspan="2">
-число
-органи-
-заций
-имеющих
-стацио-
-нары
-</td>
-<td colspan="2">
-лечилось
-больных
-</td>
-<td colspan="2">проведено дней</td>
-</tr>
-<tr>
-<td>всего</td>
-<td>
-из них
-для
-детей
-</td>
-<td>всего</td>
-<td>
-из них
-дети
-</td>
-<td>всего</td>
-<td>
-из них
-детьми
-</td>
-<td>всего</td>
-<td>
-из них
-дети
-</td>
-<td>всего</td>
-<td>
-из них
-детьми
-</td>
-</tr>
-<tr>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
-<th>15</th>
-<th>16</th>
-<th>17</th>
-<th>18</th>
-<th>19</th>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -76760,6 +93917,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 </tr>
 <tr>
+<td>Итого</td>
+<td>33</td>
 <td></td>
 <td></td>
 <td></td>
@@ -76767,419 +93926,6 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td>Х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -77199,26 +93945,81 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 
 <table>
 <tr>
-<td></td>
-<td>
+<td rowspan="2"></td>
+<td rowspan="2">
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
-<td>
+<td rowspan="2">
 Число
-организаций,
+органи-
+заций,
 всего
 </td>
-<td>
+<td rowspan="2">
 из них
 имеющие
-стационары
+стацио-
+нары
+</td>
+<td rowspan="2">
+Число коек
+(фактически
+развернутых +
+свернутых
+на ремонт) на
+31.12.200 г
+</td>
+<td rowspan="2">
+Средне-
+годовые
+койки
+</td>
+<td rowspan="2">
+Посту-
+пило
+боль-
+ных
+</td>
+<td rowspan="2">
+в том
+числе
+из
+сель-
+ской
+мест-
+ности
+</td>
+<td colspan="2">
+Прове-
+дено
+всеми
+больными
+койко-
+дней
+</td>
+</tr>
+<tr>
+<td>
+в
+с
+е
+г
+о
 </td>
 <td>
-Число коек (фактически
-развернутых +
-свернутых на ремонт)
-на 31.12.200 г
+в том
+числе
+из
+сель-
+ской
+мест-
+ности
 </td>
 </tr>
 <tr>
@@ -77227,99 +94028,6 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <th>1</th>
 <th>2</th>
 <th>3</th>
-</tr>
-<tr>
-<td>Противотуберкулезные....</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Онкологические..........</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Кожно-венерологические..</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Психоневрологические....</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Врачебно-физкультурные..</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Эндокринологические.....</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Наркологические.........</td>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Кардиологические........</td>
-<td>08</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Итого...................</td>
-<td>09</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td rowspan="2">
-Среднегодовые
-койки
-</td>
-<td rowspan="2">
-Поступило
-больных
-</td>
-<td rowspan="2">
-в том числе из
-сельской
-местности
-</td>
-<td colspan="2">Проведено всеми больными койко-дней</td>
-</tr>
-<tr>
-<td>всего</td>
-<td>
-в том числе из
-сельской местности
-</td>
-</tr>
-<tr>
 <th>4</th>
 <th>5</th>
 <th>6</th>
@@ -77327,88 +94035,9 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <th>8</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-0720 ДИСПАНСЕРЫ
-
-<table>
-<tr>
-<td rowspan="3"></td>
-<td rowspan="3">
-№
-строки
-</td>
-<td colspan="3">
-Число посещений у
-врачей, включая
-профилактические (без
-посещений к
-стоматологам и зубным
-врачам), тыс.
-</td>
-<td colspan="4">
-Число должностей врачей
-(без зубных)
-</td>
-</tr>
-<tr>
-<td rowspan="2">всего</td>
-<td rowspan="2">
-в том
-числе из
-сельской
-местности
-</td>
-<td rowspan="2">
-на
-дому
-</td>
-<td colspan="2">
-в целом по
-организации
-</td>
-<td colspan="2">
-в том числе в
-диспансерном
-отделении
-</td>
-</tr>
-<tr>
-<td>штатных</td>
-<td>занятых</td>
-<td>штатных</td>
-<td>занятых</td>
-</tr>
-<tr>
-<th>А</th>
-<th>Б</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-</tr>
-<tr>
-<td>
-Противо-
-туберкулезные....
-</td>
+<td>Противотуберкулезные...</td>
 <td>01</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -77427,11 +94056,12 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 Кожно-
-венерологические.
+венерологические...
 </td>
 <td>03</td>
 <td></td>
@@ -77441,13 +94071,336 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<td>Психоневрологические...</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Психо-
-неврологические..
+Врачебно-
+физкультурные...
 </td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Эндокринологические...</td>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Наркологические...</td>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Кардиологические...</td>
+<td>08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Итого....</td>
+<td>09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+0720 ДИСПАНСЕРЫ
+
+<table>
+<tr>
+<td rowspan="3"></td>
+<td rowspan="3">
+№
+с
+т
+р
+о
+к
+и
+</td>
+<td colspan="3">
+Число
+посещений
+у врачей,
+включая профи-
+лактические
+(без посещений
+к стоматологам
+и зубным
+врачам)
+</td>
+<td colspan="4">
+Число должностей
+врачей (без зубных)
+</td>
+<td colspan="2">
+Число
+физических
+лиц, врачей
+основных
+работников
+на занятых
+должностях
+</td>
+<td colspan="4">
+Число должностей
+среднего
+медперсонала
+</td>
+<td colspan="2">
+Число
+физических лиц,
+СМР, основных
+работников
+на занятых
+должностях
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+в
+с
+е
+г
+о
+</td>
+<td rowspan="2">
+в
+том
+числе
+из
+сель-
+ской
+мест-
+ности
+</td>
+<td rowspan="2">
+на
+дому
+</td>
+<td colspan="2">
+в целом
+по органи-
+зации
+</td>
+<td colspan="2">
+в том
+числе в
+диспан-
+серном
+отделении
+</td>
+<td rowspan="2">
+в це-
+лом по
+орга-
+низа-
+ции
+</td>
+<td rowspan="2">
+из них
+в дис-
+пан-
+серном
+отде-
+лении
+</td>
+<td colspan="2">
+в целом
+по орга-
+низации
+</td>
+<td colspan="2">
+в том
+числе
+в диспан-
+серном
+отде-
+лении
+</td>
+<td rowspan="2">
+в целом
+по орга-
+низации
+</td>
+<td rowspan="2">
+из них в
+диспан-
+серном
+отде-
+лении
+</td>
+</tr>
+<tr>
+<td>
+штат-
+ных
+</td>
+<td>
+заня-
+тых
+</td>
+<td>
+штат-
+ных
+</td>
+<td>
+заня-
+тых
+</td>
+<td>
+шта-
+тных
+</td>
+<td>
+заня-
+тых
+</td>
+<td>
+шта-
+тных
+</td>
+<td>
+заня-
+тых
+</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+</tr>
+<tr>
+<td>Противотуберкулезные...</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Онкологические....</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Кожно-
+венерологические....
+</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Психоневрологические....</td>
 <td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -77469,12 +94422,17 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Эндо-
-кринологические..
-</td>
+<td>Эндокринологические...</td>
 <td>06</td>
 <td></td>
 <td></td>
@@ -77483,9 +94441,17 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Наркологические..</td>
+<td>Наркологические....</td>
 <td>07</td>
 <td></td>
 <td></td>
@@ -77494,9 +94460,17 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Кардиологические.</td>
+<td>Кардиологические...</td>
 <td>08</td>
 <td></td>
 <td></td>
@@ -77505,9 +94479,17 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Итого............</td>
+<td>Итого......</td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -77516,64 +94498,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td colspan="2">
-Число физических лиц, врачей основных
-работников на занятых должностях
-</td>
-<td colspan="4">
-Число должностей среднего
-медперсонала
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-в целом по
-организации
-</td>
-<td rowspan="2">
-из них в диспансерном
-отделении
-</td>
-<td colspan="2">
-в целом по
-организации
-</td>
-<td colspan="2">
-в том числе в
-диспансерном
-отделении
-</td>
-</tr>
-<tr>
-<td>штатных</td>
-<td>занятых</td>
-<td>штатных</td>
-<td>занятых</td>
-</tr>
-<tr>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-</tr>
-<tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -77583,40 +94509,134 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 </table>
 
-0900 САМОСТОЯТЕЛЬНЫЕ ОРГАНИЗАЦИИ ЗДРАВООХРАНЕНИЯ, ОКАЗЫВАЮЩИЕ
-
-АМБУЛАТОРНО-ПОЛИКЛИНИЧЕСКУЮ ПОМОЩЬ
+0900 САМОСТОЯТЕЛЬНЫЕ ОРГАНИЗАЦИИ ЗДРАВООХРАНЕНИЯ, ОКАЗЫВАЮЩИЕ АМБУЛАТОРНО-ПОЛИКЛИНИЧЕСКУЮ ПОМОЩЬ
 
 <table>
 <tr>
 <td rowspan="2"></td>
 <td rowspan="2">
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
 <td rowspan="2">
 Число
-организаций на
-конец года
+органи-
+заций
+на конец
+года
 </td>
 <td colspan="3">
-Число посещений у врачей,
-включая профилактические (без
-посещений к стоматологам и
-зубным врачам), тыс.
+Число посещений
+у врачей, включая
+профилактические (без посещений
+к стоматологам
+и зубным врачам)
+</td>
+<td colspan="2">
+Число
+долж-
+ностей
+врачей
+(без
+зуб-
+ных)
+</td>
+<td rowspan="2">
+Число
+физи-
+ческих
+лиц
+врачей
+на
+заня-
+тых
+долж-
+ностях,
+всего
+</td>
+<td colspan="2">
+Число
+долж-
+ностей
+среднего-
+медпер-
+сонала
+</td>
+<td rowspan="2">
+Число
+физичес-
+ких лиц
+среднего
+медпер-
+сонала на
+занятых
+должнос-
+тях,
+всего
 </td>
 </tr>
 <tr>
 <td>
-в
-поликлинике
+в поли-
+кли-
+нике
 </td>
 <td>
 из них
-сельскими
-жителями
+сель-
+скими
+жите-
+лями
 </td>
-<td>на дому</td>
+<td>
+н
+а
+д
+о
+м
+у
+</td>
+<td>
+ш
+т
+а
+т
+н
+ы
+х
+</td>
+<td>
+з
+а
+н
+я
+т
+ы
+х
+</td>
+<td>
+ш
+т
+а
+т
+н
+ы
+х
+</td>
+<td>
+з
+а
+н
+я
+т
+ы
+х
+</td>
 </tr>
 <tr>
 <th>А</th>
@@ -77625,14 +94645,26 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <th>2</th>
 <th>3</th>
 <th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
 </tr>
 <tr>
 <td>
 Консультативно-
-диагностические центры и
-поликлиники
+диагностические
+центры и поликлиники
 </td>
 <td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -77641,6 +94673,12 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <tr>
 <td>Городские поликлиники</td>
 <td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -77656,10 +94694,22 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Районные поликлиники</td>
 <td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -77672,10 +94722,22 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Женские консультации</td>
 <td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -77688,10 +94750,22 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Центры ПМСП</td>
 <td>08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -77704,26 +94778,45 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Центры по профилактике и
-борьбе со СПИД
+Центры по профилактике
+и борьбе со СПИД
 </td>
 <td>10</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Кабинеты (физические лица
-занимаю-щиеся частной
-медицинской практикой)
+Кабинеты (физические
+лица занимающиеся
+частной медицинской
+практикой)
 </td>
 <td>11</td>
-<td>x</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -77731,6 +94824,12 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <tr>
 <td>Прочие</td>
 <td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -77743,59 +94842,6 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td colspan="2">
-Число должностей
-врачей
-( без зубных)
-</td>
-<td rowspan="2">
-Число физических
-лиц врачей на
-занятых
-должностях, всего
-</td>
-<td colspan="2">
-Число должностей
-среднего
-медперсонала
-</td>
-<td rowspan="2">
-Число физических лиц
-среднего медперсонала на
-занятых должностях,
-всего
-</td>
-</tr>
-<tr>
-<td>штатных</td>
-<td>занятых</td>
-<td>штатных</td>
-<td>занятых</td>
-</tr>
-<tr>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -77816,32 +94862,130 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td rowspan="2"></td>
 <td rowspan="2">
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
 <td rowspan="2">
 Число
-организаций
-на конец
+органи-
+заций
+на
+конец
 года
 </td>
 <td colspan="3">
-Число посещений у врачей, включая
-профилактические (без посещений к
-стоматологам и зубным врачам),
-тыс.
+Число посещений
+у врачей,
+включая
+профилактические
+(без посещений
+к стоматологам
+и зубным врачам)
+</td>
+<td colspan="2">
+Число
+долж-
+ностей
+врачей
+(без
+зубных)
+</td>
+<td rowspan="2">
+Число
+физи-
+ческих
+лиц
+врачей
+на заня-
+тых
+долж-
+ностях,
+всего
+</td>
+<td colspan="2">
+Число
+долж-
+ностей
+сред-
+него
+медпер-
+сонала
+</td>
+<td rowspan="2">
+Число
+физи-
+ческих
+лиц
+среднего
+медпер-
+сонала
+на заня-
+тых
+долж-
+ностях,
+всего
 </td>
 </tr>
 <tr>
 <td>
 в
-поликлинике
+поли-
+кли-
+нике
 </td>
 <td>
-из них
-сельскими
-жителями
+из
+них
+сель-
+скими
+жите-
+лями
 </td>
-<td>на дому</td>
+<td>
+на
+до-
+му
+</td>
+<td>
+ш
+т
+а
+т
+н
+ы
+х
+</td>
+<td>
+з
+а
+н
+я
+т
+ы
+х
+</td>
+<td>
+ш
+т
+а
+т
+н
+ы
+х
+</td>
+<td>
+з
+а
+н
+я
+т
+ы
+х
+</td>
 </tr>
 <tr>
 <th>А</th>
@@ -77850,13 +94994,25 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <th>2</th>
 <th>3</th>
 <th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
 </tr>
 <tr>
-<td colspan="6">А.ВХОДЯЩИЕ В СОСТАВ БОЛЬНИЧНЫХ ОРГАНИЗАЦИИ</td>
+<td colspan="12">А. ВХОДЯЩИЕ В СОСТАВ БОЛЬНИЧНЫХ ОРГАНИЗАЦИИ</td>
 </tr>
 <tr>
 <td>Врачебные амбулатории</td>
 <td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -77869,20 +95025,32 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Итого
-(строка 01+строка 02)
+Итого (строка 01+
+строка 02)
 </td>
 <td>03</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="6">Б.ВХОДЯЩИЕ В СОСТАВ АМБУЛАТОРНО-ПОЛИКЛИНИЧЕСКИХ ОРГАНИЗАЦИИ</td>
+<td colspan="12">Б. ВХОДЯЩИЕ В СОСТАВ АМБУЛАТОРНО-ПОЛИКЛИНИЧЕСКИХ ОРГАНИЗАЦИИ</td>
 </tr>
 <tr>
 <td>Врачебные амбулатории</td>
@@ -77891,10 +95059,22 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Центры ПМСП</td>
 <td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -77910,6 +95090,12 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
@@ -77921,60 +95107,6 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td colspan="2">
-Число должностей
-врачей ( без зубных)
-</td>
-<td rowspan="2">
-Число физических
-лиц врачей на
-занятых
-должностях, всего
-</td>
-<td colspan="2">
-Число
-должностей
-среднего
-медперсонала
-</td>
-<td rowspan="2">
-Число физических
-лиц среднего
-медперсонала на
-занятых должностях,
-всего
-</td>
-</tr>
-<tr>
-<td>штатных</td>
-<td>занятых</td>
-<td>штатных</td>
-<td>занятых</td>
-</tr>
-<tr>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -77984,54 +95116,198 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 </table>
 
-0920 ОРГАНИЗАЦИИ ЗДРАВООХРАНЕНИЯ, ОКАЗЫВАЮЩИЕ ПЕРВИЧНУЮ
-
-МЕДИКО-САНИТАРНУЮ ПОМОЩЬ
+0920 ОРГАНИЗАЦИИ ЗДРАВООХРАНЕНИЯ, ОКАЗЫВАЮЩИЕ ПЕРВИЧНУЮ МЕДИКО-САНИТАРНУЮ ПОМОЩЬ
 
 <table>
 <tr>
 <td rowspan="2"></td>
 <td rowspan="2">
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
 <td rowspan="2">
 Число
-организаций
-на конец
+орга-
+низа-
+ций
+на
+конец
 года
 </td>
 <td colspan="3">
-Число посещений у
-врачей, включая
-профилактические (без
-посещений к
-стоматологам и зубным
-врачам), тыс.
+Число посещений
+у врачей,
+включая
+профилактические
+(без посещений
+к стоматологам
+и зубным
+врачам)
 </td>
 <td colspan="2">
 Число
-должностей
-врачей ( без
+долж-
+ностей
+врачей
+(без
 зубных)
+</td>
+<td colspan="2">
+из
+них,
+уча-
+стко-
+вые
+тера-
+пев-
+ты,
+педи-
+атры,
+ВОП
+</td>
+<td colspan="2">
+Число физи-
+ческих лиц
+врачей на
+занятых
+должностях
+</td>
+<td colspan="2">
+Число
+долж-
+ностей
+сред-
+него
+медпер-
+сонала
+</td>
+<td colspan="2">
+Число
+физических
+лиц сред-
+него мед-
+персонала
+на
+занятых
+должностях
 </td>
 </tr>
 <tr>
 <td>
-в поли-
-клинике
+в по-
+ли-
+кли-
+нике
 </td>
 <td>
-из них
-сельскими
-жителями
+из
+них
+сель-
+скими
+жите-
+лями
 </td>
 <td>
 на
-дому
+до-
+му
 </td>
-<td>штатных</td>
-<td>занятых</td>
+<td>
+ш
+т
+а
+т
+н
+ы
+х
+</td>
+<td>
+з
+а
+н
+я
+т
+ы
+х
+</td>
+<td>
+ш
+т
+а
+т
+н
+ы
+х
+</td>
+<td>
+з
+а
+н
+я
+т
+ы
+х
+</td>
+<td>
+все-
+го по
+орга-
+низа-
+ции
+</td>
+<td>
+из
+них,
+участ-
+ковые
+тера-
+пев-
+ты,
+педи-
+атры,
+ВОП
+</td>
+<td>
+ш
+т
+а
+т
+н
+ы
+х
+</td>
+<td>
+з
+а
+н
+я
+т
+ы
+х
+</td>
+<td>
+все-
+го
+по
+орга-
+ни-
+за-
+ции
+</td>
+<td>
+из
+них,
+мед-
+сестры
+участ-
+ковой
+службы
+</td>
 </tr>
 <tr>
 <th>А</th>
@@ -78042,17 +95318,20 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <th>4</th>
 <th>5</th>
 <th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
 </tr>
 <tr>
-<td colspan="8">АМБУЛАТОРНО-ПОЛИКЛИНИЧЕСКИЕ ОТДЕЛЕНИЯ (из табл.0900)</td>
+<td colspan="16">АМБУЛАТОРНО-ПОЛИКЛИНИЧЕСКИЕ ОТДЕЛЕНИЯ (из табл. 0900)</td>
 </tr>
 <tr>
-<td>
-Консультативно-
-диагностические
-центры и
-поликлиники
-</td>
+<td>Консультативно-диагностические центры и поликлиники</td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -78060,12 +95339,17 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Городские
-поликлиники
-</td>
+<td>Городские поликлиники</td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -78073,11 +95357,18 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Центральные
-районные
+Центральные районные
 поликлиники
 </td>
 <td>03</td>
@@ -78087,12 +95378,17 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Районные
-поликлиники
-</td>
+<td>Районные поликлиники</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -78100,13 +95396,26 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Сельские
-поликлиники
-</td>
+<td>Сельские поликлиники</td>
 <td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -78123,6 +95432,14 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
@@ -78136,12 +95453,19 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Центры ПМСП,
-входящие в состав
-амбулаторно-
+Центры ПМСП, входящие
+в состав амбулаторно-
 поликлинической
 организации (АПО)
 </td>
@@ -78152,11 +95476,18 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Врачебные
-амбулатории,
+Врачебные амбулатории,
 самостоятельные
 </td>
 <td>09</td>
@@ -78166,15 +95497,29 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Врачебные
-амбулатории,
-входящие в состав
-АПО
+Врачебные амбулатории,
+входящие в состав АПО
 </td>
 <td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -78191,236 +95536,6 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">
-из них,
-участковые
-терапевты,
-педиатры, ВОП
-</td>
-<td colspan="2">
-Число физических
-лиц врачей на
-занятых должностях
-</td>
-<td colspan="2">
-Число
-должностей
-среднего
-медперсонала
-</td>
-<td colspan="2">
-Число физических
-лиц среднего
-медперсонала на
-занятых должностях
-</td>
-</tr>
-<tr>
-<td>штатных</td>
-<td>занятых</td>
-<td>
-всего по
-организа
-- ции
-</td>
-<td>
-из них,
-участковые
-терапевты,
-педиатры,
-ВОП
-</td>
-<td>штатных</td>
-<td>занятых</td>
-<td>
-всего по
-органи-
-зации
-</td>
-<td>
-из них,
-медсестры
-участко-
-вой службы
-</td>
-</tr>
-<tr>
-<th>А</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
-</tr>
-<tr>
-<td colspan="9">АМБУЛАТОРНО-ПОЛИКЛИНИЧЕСКИЕ ОТДЕЛЕНИЯ (из табл.0900)</td>
-</tr>
-<tr>
-<td>
-Консультативно
-диагностичес-
-кие центры и
-поликлиники
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Городские
-поликлиники
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Центральные
-районные
-поликлиники
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Районные
-поликлиники
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Сельские
-поликлиники
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Детские
-поликлиники
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Центры ПМСП,
-самостоятель-
-ные
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Центры ПМСП,
-входящие в
-состав
-амбулаторно-
-поликлиничес-
-кой органи-
-зации (АПО)
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Врачебные
-амбулатории,
-самостоятель-
-ные
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Врачебные
-амбулатории,
-входящие в
-состав АПО
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Итого</td>
 <td></td>
 <td></td>
 <td></td>
@@ -78439,10 +95554,18 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <table>
 <tr>
 <td>
-Поликлинические отделения
+Поликлинические
+отделения
 входящие в состав:
 </td>
 <td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -78461,10 +95584,24 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>центральной районной больницы</td>
 <td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -78483,11 +95620,18 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-сельской и сельской участковой
-больницы
+сельской и сельской
+участковой больницы
 </td>
 <td>05</td>
 <td></td>
@@ -78497,13 +95641,27 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Центры ПМСП входящие в
-состав:
+Центры ПМСП
+входящие в состав:
 </td>
 <td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -78522,10 +95680,27 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>центральной районной больницы</td>
+<td>
+центральной районной
+больницы
+</td>
 <td>08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -78544,13 +95719,28 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Врачебные амбулатории
+Врачебные
+амбулатории
 входящие в состав:
 </td>
 <td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -78569,10 +95759,27 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>центральной районной больницы</td>
+<td>
+центральной районной
+больницы
+</td>
 <td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -78591,13 +95798,28 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Итого (строка 01+строка
-06+строка 10)
+Итого (строка
+01 + строка
+06 + строка 10)
 </td>
 <td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -78608,35 +95830,58 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 </table>
 
-1500 ОБЩЕЕ ЧИСЛО ВРАЧЕБНЫХ ПОСЕЩЕНИЙ,
+1500 ОБЩЕЕ ЧИСЛО ВРАЧЕБНЫХ ПОСЕЩЕНИЙ, ВКЛЮЧАЯ ПРОФИЛАКТИЧЕСКИЕ И
 
-ВКЛЮЧАЯ ПРОФИЛАКТИЧЕСКИЕ И ПОСЕЩЕНИЯ К ЗУБНЫМ ВРАЧАМ, ТЫС.
+ПОСЕЩЕНИЯ К ЗУБНЫМ ВРАЧАМ
 
 <table>
 <tr>
 <td rowspan="3"></td>
-<td rowspan="3">№ строки</td>
-<td colspan="3">Общее число посещений у врача</td>
+<td rowspan="3">
+№
+с
+т
+р
+о
+к
+и
+</td>
+<td colspan="5">Общее число посещений у врача</td>
 </tr>
 <tr>
-<td colspan="2">на амбулаторно-поликлиническом приеме</td>
-<td>на дому</td>
+<td colspan="2">
+на амбулаторно-
+поликлиническом приеме
+</td>
+<td colspan="3" rowspan="2">на дому</td>
 </tr>
 <tr>
 <td>всего</td>
-<td>из них в сельской местности</td>
-<td></td>
+<td>
+из них в сельской
+местности
+</td>
 </tr>
 <tr>
 <th>А</th>
 <th>Б</th>
 <th>1</th>
 <th>2</th>
-<th>3</th>
+<th colspan="3">3</th>
 </tr>
 <tr>
 <td>Всего</td>
 <td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -78650,13 +95895,15 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td>
 №
-строки
+стро-
+ки
 </td>
 <td>ФАП</td>
-<td>ФП</td>
+<td colspan="2">ФП</td>
 <td>МП</td>
-<td>
-МР (без содержания
+<td colspan="2">
+МР
+(без содержания
 отдельного
 помещения)
 </td>
@@ -78665,9 +95912,11 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <th>А</th>
 <th>Б</th>
 <th>1</th>
+<th></th>
 <th>2</th>
 <th>3</th>
 <th>4</th>
+<th></th>
 </tr>
 <tr>
 <td>Число организаций</td>
@@ -78676,13 +95925,17 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Число посещений, тыс.
+Число посещений
 (включая на дому)
 </td>
 <td>02</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -78694,18 +95947,15 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 
 <table>
 <tr>
-<td></td>
+<td rowspan="2">А</td>
 <td>№ строки</td>
-<td>Число организаций</td>
-<td>
-Число
-посещений, тыс
-</td>
+<td colspan="2">Число организаций</td>
+<td>Число посещений</td>
 </tr>
 <tr>
-<td>А</td>
 <td>Б</td>
 <td>1</td>
+<td></td>
 <td>2</td>
 </tr>
 <tr>
@@ -78716,42 +95966,37 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td>01</td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Детские стоматологические
-поликлиники
-</td>
+<td>Детские стоматологические поликлиники</td>
 <td>02</td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Стоматологические поликлиники
-ВУЗов и НИИ
-</td>
+<td>Стоматологические поликлиники ВУЗов и НИИ</td>
 <td>03</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
 Организации здравоохранения, имеющие
-стоматологические отделения
-(кабинеты)
+стоматологические отделения (кабинеты)
 </td>
 <td>04</td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Самостоятельные стоматологические
-кабинеты
-</td>
+<td>Самостоятельные стоматологические кабинеты</td>
 <td>05</td>
 <td>x</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -78759,40 +96004,50 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <td>06</td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>
 из общего числа посещений сделано
-сельскими жителями (из стр.6)
+сельскими жителями (из стр. 6)
 </td>
 <td>07</td>
 <td>х</td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Зубопротезирование
-Хозрасчетные (бюджетные)
-зубопротезные отделения и отделения
-(кабинеты) в составе организаций
-здравоохранения
-</td>
-<td>08</td>
+<td>Зубопротезирование</td>
+<td></td>
+<td></td>
 <td></td>
 <td>х</td>
 </tr>
 <tr>
 <td>
-Число лиц, получивших зубные
-протезы, всего
+Хозрасчетные (бюджетные) зубопротезные
+отделения и отделения (кабинеты) в составе
+организаций здравоохранения
+</td>
+<td>08</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Число лиц, получивших зубные протезы,
+всего
 </td>
 <td>09</td>
+<td></td>
 <td></td>
 <td>х</td>
 </tr>
 <tr>
 <td>из них сельские жители</td>
 <td>10</td>
+<td></td>
 <td></td>
 <td>х</td>
 </tr>
@@ -78804,50 +96059,58 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 <tr>
 <td></td>
 <td>№ строки</td>
-<td>Число организаций</td>
+<td colspan="3">Число организаций</td>
 </tr>
 <tr>
 <td>А</td>
 <td>Б</td>
 <td>1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Центры ФЗОЖ</td>
 <td>01</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Центры (бюро) судебной медицины</td>
 <td>02</td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Патологоанатомические бюро</td>
 <td>03</td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Областное (городское) бюро
-медстатистики
-</td>
+<td>Областное (городское) бюро медстатистики</td>
 <td>04</td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Республиканский центр развития
-здравоохранения
-</td>
+<td>Республиканский центр развития здравоохранения</td>
 <td>05</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>
-Филиалы Республиканского центра
-развития здравоохранения
+Филиалы Республиканского центра развития
+здравоохранения
 </td>
 <td>06</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </table>
@@ -78862,7 +96125,8 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </td>
 <td rowspan="2">
 Число
-организаций
+органи-
+заций
 </td>
 <td rowspan="2">
 Число
@@ -78876,25 +96140,26 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 года
 </td>
 <td rowspan="2">
-из них
-девочек
+из
+них
+дево-
+чек
 </td>
 <td colspan="3">
 Из общего числа
 детей в возрасте
 </td>
-<td>
+<td rowspan="2">
 Число детей
 поступивших
-в течение
-года
+в течение года
 </td>
-<td>
+<td rowspan="2">
 Из числа
 поступивших,
 сироты и
 оставшиеся
-без
+без-
 попечения
 </td>
 </tr>
@@ -78911,8 +96176,6 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 3 года и
 старше
 </td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <th>Б</th>
@@ -78940,13 +96203,11 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 </table>
 
-МП Подпись директора ДГСЭН и ЦСЭЭ
-
-2700 САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКИЕ ОРГАНИЗАЦИИ
+2700 ОРГАНЫ И ОРГАНИЗАЦИИ ГОСУДАРСТВЕННОЙ САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКОЙ СЛУЖБЫ
 
 <table>
 <tr>
-<td>Наименование ( тип ) организации</td>
+<td>Наименование (тип) организации</td>
 <td>
 №
 строки
@@ -78960,138 +96221,100 @@ V. РАБОТА СТОМАТОЛОГИЧЕСКОГО (ЗУБОПРОТЕЗНОГ
 </tr>
 <tr>
 <td>
-A. Департаменты и управления
-госсанэпиднадзора (ГСЭН) - всего
+Департаменты Комитета государственного
+санитарно-эпидемиологического надзора
+МЗ РК по гг. Астана и Алматы
 </td>
 <td>01</td>
 <td></td>
 </tr>
 <tr>
-<td>
-Департамент госсанэпид.респ. значения,
-столичный
-</td>
+<td>Областные департаменты КГСЭН</td>
 <td>02</td>
 <td></td>
 </tr>
 <tr>
-<td>Областные управления (департаменты) ГСЭН</td>
+<td>Городские управления ГСЭН</td>
 <td>03</td>
 <td></td>
 </tr>
 <tr>
-<td>Городские управления ГСЭН</td>
-<td>04</td>
-<td></td>
-</tr>
-<tr>
 <td>Районные управления ГСЭН</td>
-<td>05</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Б. Департаменты и управления ГСЭН на
-транспорте
-</td>
-<td>06</td>
+<td>04</td>
 <td></td>
 </tr>
 <tr>
 <td>
 Центральный и межрегиональные департаменты
-ГСЭН на железнодорожном транспорте
+ГСЭН на транспорте
 </td>
+<td>05</td>
+<td></td>
+</tr>
+<tr>
+<td>Отделенческие УСЭН на железнодорожном транспорте</td>
+<td>06</td>
+<td></td>
+</tr>
+<tr>
+<td>Департаменты ГСЭН на воздушном транспорте</td>
 <td>07</td>
 <td></td>
 </tr>
 <tr>
-<td>
-Отделенческие УСЭН на железнодорожном
-транспорте
-</td>
+<td>Центры СЭЭ по гг. Астаны и Алматы</td>
 <td>08</td>
 <td></td>
 </tr>
 <tr>
-<td>Департаменты на воздушном транспорте</td>
+<td>Областные центры СЭЭ</td>
 <td>09</td>
 <td></td>
 </tr>
 <tr>
-<td>
-В. Центры санитарно-эпид. экспертизы (СЭЭ)
-- всего
-</td>
+<td>Городские центры СЭЭ</td>
 <td>10</td>
 <td></td>
 </tr>
 <tr>
-<td>Областные центры (СЭЭ)</td>
+<td>Районные центры СЭЭ (филиалы)</td>
 <td>11</td>
 <td></td>
 </tr>
 <tr>
-<td>Городские центры (СЭЭ)</td>
+<td>
+РГКП &quot;Научно-практический центр
+санитарно-эпидемиологической экспертизы и мониторинга&quot;
+</td>
 <td>12</td>
 <td></td>
 </tr>
 <tr>
-<td>Районные центры (СЭЭ)</td>
+<td>Дезинфекционные станции</td>
 <td>13</td>
 <td></td>
 </tr>
 <tr>
-<td>Г. Центры ( СЭЭ ) на транспорте</td>
+<td>Противочумные станции</td>
 <td>14</td>
 <td></td>
 </tr>
 <tr>
-<td>
-Региональные центры СЭЭ на железнодорожном
-транспорте
-</td>
+<td>Научный центр гигиены и эпидемиологии им. Х.Жуматова</td>
 <td>15</td>
 <td></td>
 </tr>
 <tr>
 <td>
-Отделенческие центры СЭЭ на
-железнодорожном транспорте
+Казахский научный центр карантинных и зоонозных
+инфекций им. М.Айкимбаева
 </td>
 <td>16</td>
 <td></td>
 </tr>
-<tr>
-<td>Центры СЭЭ на воздушном транспорте</td>
-<td>17</td>
-<td></td>
-</tr>
-<tr>
-<td>Д. Казахская Республиканская СЭС</td>
-<td>18</td>
-<td></td>
-</tr>
-<tr>
-<td>Е. Научные центры</td>
-<td>19</td>
-<td></td>
-</tr>
-<tr>
-<td>Ж. Дезинфекционные станции</td>
-<td>20</td>
-<td></td>
-</tr>
-<tr>
-<td>З. Противочумные станции</td>
-<td>21</td>
-<td></td>
-</tr>
 </table>
 
-2900 ШТАТНЫЕ И ЗАНЯТЫЕ ДОЛЖНОСТИ В САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКИХ
-
-ОРГАНИЗАЦИЙ
+2900 ШТАТНЫЕ И ЗАНЯТЫЕ ДОЛЖНОСТИ САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКОЙ СЛУЖБЫ
 
 <table>
 <tr>
@@ -79101,167 +96324,23 @@ A. Департаменты и управления
 строки
 </td>
 <td>
-Организации
-санэпиднадзора
+Органы
+ГСЭН
 </td>
 <td>
-Организации
-санитарно-
-эпидемиологической
-экспертизы
+Центры
+СЭЭ
 </td>
 <td>
-Казахская
-Республиканская
-санитарно-
-эпидемио-
-логическая
-станция
-</td>
-</tr>
-<tr>
-<th>А</th>
-<th>Б</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-</tr>
-<tr>
-<td>
-А. Врачей, всего
-штатные
-</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>занятые</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Б.Специалисты с высшим
-немедицинским
-образованием всего
-штатные
-</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>занятые</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-В.Средний медицинский
-персонал всего штатные
-</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>занятые</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Г. Специалисты со
-средним немедицинским
-образов. всего штатные
-</td>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>занятые</td>
-<td>08</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Д. Прочие всего штатные</td>
-<td>09</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>занятые</td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Всего должностей
-штатные
-</td>
-<td>11</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>занятые</td>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-3300 ШТАТНЫЕ И ЗАНЯТЫЕ ДОЛЖНОСТИ ПО ТИПАМ ОРГАНИЗАЦИЙ ЗДРАВООХРАНЕНИЯ
-
-<table>
-<tr>
-<td></td>
-<td>
-№
-строки
-</td>
-<td colspan="2">Всего должностей</td>
-<td colspan="2">
-Должностей врачей
-(без зубных)
+РГКП
+&quot;НПЦСЭЭиМ&quot;
 </td>
 <td>
-Число физических
-лиц, врачей
-основных
-работников на
-занятых должностях
-в целом по
-организации
+Противо
+чумные
+станции
 </td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>штатных</td>
-<td>занятых</td>
-<td>штатных</td>
-<td>занятых</td>
-<td></td>
+<td>Дезостанции</td>
 </tr>
 <tr>
 <th>А</th>
@@ -79274,13 +96353,238 @@ A. Департаменты и управления
 </tr>
 <tr>
 <td>
-Организации
-здравоохранения,
-оказывающие
-стационарную помощь
-(кроме психиатрических
-и наркологических
-больниц)
+А. Всего должностных единиц
+штатные
+</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>занятые</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Б. Руководители
+штатные
+</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>занятые</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+В. Главные специалисты с
+высшим медицинским
+образованием
+штатные
+</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>занятые</td>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Г. Ведущие специалисты
+с высшим медицинским
+образованием
+штатные
+</td>
+<td>07</td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>занятые</td>
+<td>08</td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>
+Д. Специалисты с высшим
+немедицинским образованием
+штатные
+</td>
+<td>09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>занятые</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Е. Специалисты со средним
+медицинским образованием
+штатные
+</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>занятые</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Ж. Специалисты со средним
+немедицинским образованием
+штатные
+</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>занятые</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+З. Прочий обслуживающий
+персонал
+штатные
+</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>занятые</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+МП Подпись директора ДГСЭН и ЦСЭЭ
+
+3300 ШТАТНЫЕ И ЗАНЯТЫЕ ДОЛЖНОСТИ ПО ТИПАМ ОРГАНИЗАЦИЙ ЗДРАВООХРАНЕНИЯ
+
+<table>
+<tr>
+<td rowspan="2"></td>
+<td rowspan="2">
+№
+с
+т
+р
+о
+к
+и
+</td>
+<td colspan="2">
+Всего
+должностей
+</td>
+<td colspan="2">
+Должностей
+врачей
+(без зубных)
+</td>
+<td rowspan="2">
+Число физичес-
+ких лиц, врачей
+основных работ-
+ников на занятых
+должностях в
+целом по
+организации
+</td>
+</tr>
+<tr>
+<td>штатных</td>
+<td>занятых</td>
+<td>штатных</td>
+<td>занятых</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<td>
+Организации здравоохранения,
+оказывающие стационарную
+помощь (кроме психиатрических
+и наркологических больниц)
 </td>
 <td>01</td>
 <td></td>
@@ -79292,8 +96596,7 @@ A. Департаменты и управления
 <tr>
 <td>
 Психиатрические,
-наркологические
-больницы
+наркологические больницы
 </td>
 <td>02</td>
 <td></td>
@@ -79322,8 +96625,7 @@ A. Департаменты и управления
 </tr>
 <tr>
 <td>
-Организации
-восстановительного
+Организации восстановительного
 лечения и медицинской
 реабилитации
 </td>
@@ -79336,8 +96638,7 @@ A. Департаменты и управления
 </tr>
 <tr>
 <td>
-Организации
-оказывающие
+Организации оказывающие
 паллиативную помощь и
 сестринский уход
 </td>
@@ -79350,9 +96651,8 @@ A. Департаменты и управления
 </tr>
 <tr>
 <td>
-Организации скорой
-медицинской помощи,
-самостоятельные
+Организации скорой медицинской
+помощи, самостоятельные
 </td>
 <td>07</td>
 <td></td>
@@ -79363,9 +96663,8 @@ A. Департаменты и управления
 </tr>
 <tr>
 <td>
-Организации скорой
-медицинской помощи,
-входящие в состав
+Организации скорой медицинской
+помощи, входящие в состав
 других организаций
 </td>
 <td>08</td>
@@ -79386,11 +96685,9 @@ A. Департаменты и управления
 </tr>
 <tr>
 <td>
-Отделения переливания
-и пункты заготовки
-крови входящие в
-состав других
-организации
+Отделения переливания и пункты
+заготовки крови входящие в
+состав других организации
 </td>
 <td>10</td>
 <td></td>
@@ -79401,12 +96698,9 @@ A. Департаменты и управления
 </tr>
 <tr>
 <td>
-Организации
-здравоохранения,
-оказывающие
-амбулаторно-
-поликлиническую
-помощь,
+Организации здравоохранения,
+оказывающие амбулаторно-
+поликлиническую помощь,
 самостоятельные
 </td>
 <td>11</td>
@@ -79419,12 +96713,9 @@ A. Департаменты и управления
 <tr>
 <td>
 Врачебные амбулатории,
-входящие в состав
-организаций
-здравоохранения,
-оказывающих
-стационарную и
-амбулаторно-
+входящие в состав организаций
+здравоохранения, оказывающих
+стационарную и амбулаторно-
 поликлиническую помощь
 </td>
 <td>12</td>
@@ -79435,10 +96726,7 @@ A. Департаменты и управления
 <td></td>
 </tr>
 <tr>
-<td>
-Стоматологические
-поликлиники
-</td>
+<td>Стоматологические поликлиники</td>
 <td>13</td>
 <td></td>
 <td></td>
@@ -79448,8 +96736,7 @@ A. Департаменты и управления
 </tr>
 <tr>
 <td>
-Санитарно-
-эпидемиологические
+Санитарно-эпидемиологические
 организации
 </td>
 <td>14</td>
@@ -79461,12 +96748,10 @@ A. Департаменты и управления
 </tr>
 <tr>
 <td>
-Прочие санитарно-
-эпидемиологические
-организации
+Прочие санитарно-эпидемиологи-
+ческие организации
 (противочумные,
-дезинфекционные
-станции)
+дезинфекционные станции)
 </td>
 <td>15</td>
 <td></td>
@@ -79497,10 +96782,7 @@ A. Департаменты и управления
 <td></td>
 </tr>
 <tr>
-<td>
-Патологоанатомические
-бюро
-</td>
+<td>Патологоанатомические бюро</td>
 <td>18</td>
 <td></td>
 <td></td>
@@ -79509,10 +96791,7 @@ A. Департаменты и управления
 <td></td>
 </tr>
 <tr>
-<td>
-Бюро медицинской
-статистики
-</td>
+<td>Бюро медицинской статистики</td>
 <td>19</td>
 <td></td>
 <td></td>
@@ -79522,10 +96801,8 @@ A. Департаменты и управления
 </tr>
 <tr>
 <td>
-Республиканский центр
-развития
-здравоохранения и
-филиалы
+Республиканский центр развития
+здравоохранения и филиалы
 </td>
 <td>20</td>
 <td></td>
@@ -79545,11 +96822,9 @@ A. Департаменты и управления
 </tr>
 <tr>
 <td>
-Фельдшерско-
-акушерские,
-фельдшерские и
-медицинские пункты, МР
-без содержания
+Фельдшерско-акушерские,
+фельдшерские и медицинские
+пункты, МР без содержания
 отдельно помещения
 </td>
 <td>22</td>
@@ -79561,8 +96836,7 @@ A. Департаменты и управления
 </tr>
 <tr>
 <td>
-Отделения экстренной и
-планово-
+Отделения экстренной и планово-
 консультативной помощи
 </td>
 <td>23</td>
@@ -79583,10 +96857,9 @@ A. Департаменты и управления
 </tr>
 <tr>
 <td>
-Kpoмe того, число
-должностей в бюджетных
-организациях - на
-хозрасчете
+Kpoмe того, число должностей
+в бюджетных организациях -
+на хозрасчете
 </td>
 <td>25</td>
 <td></td>
@@ -79597,8 +96870,8 @@ Kpoмe того, число
 </tr>
 <tr>
 <td>
-из них: в санитарно-
-эпидемиологических
+из них:
+в санитарно-эпидемиологических
 станциях
 </td>
 <td>26</td>
@@ -79610,9 +96883,8 @@ Kpoмe того, число
 </tr>
 <tr>
 <td>
-в прочих санитарно-
-эпидемиологических
-организациях
+в прочих санитарно-эпидемиоло-
+гических организациях
 </td>
 <td>27</td>
 <td></td>
@@ -79635,26 +96907,28 @@ Kpoмe того, число
 </tr>
 </table>
 
-3300
-
 <table>
 <tr>
 <td rowspan="2">
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
 <td colspan="2">
 Должностей
 специалистов с
-высшим
-немедицинским
+высшим немеди-
+цинским
 образованием
 </td>
 <td colspan="2">
 Должностей
 среднего
-мед-
-персонала
+медперсонала
 </td>
 <td rowspan="2">
 Число
@@ -79663,9 +96937,10 @@ Kpoмe того, число
 основных
 работников
 на занятых
-должностях в
-целом по
-организации
+должностях
+в целом
+по орга-
+низации
 </td>
 <td colspan="2">
 Должностей
@@ -79686,35 +96961,14 @@ Kpoмe того, число
 <tr>
 <td>штатных</td>
 <td>занятых</td>
-<td>
-штат-
-ных
-</td>
-<td>
-заня-
-тых
-</td>
-<td>
-штат-
-ных
-</td>
+<td>штатных</td>
 <td>занятых</td>
-<td>
-штат-
-ных
-</td>
-<td>
-заня-
-тых
-</td>
-<td>
-штат-
-ных
-</td>
-<td>
-заня-
-тых
-</td>
+<td>штатных</td>
+<td>занятых</td>
+<td>штатных</td>
+<td>занятых</td>
+<td>штатных</td>
+<td>занятых</td>
 </tr>
 <tr>
 <th>Б</th>
@@ -80108,23 +97362,9 @@ Kpoмe того, число
 <td></td>
 <td></td>
 </tr>
-<tr>
-<td>28</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
 
-3402
+### 3402
 
 <table>
 <tr>
@@ -80136,22 +97376,25 @@ Kpoмe того, число
 <tr>
 <td>
 №
-строки
+с
+т
+р
+о
+к
+и
 </td>
 <td>
 в аппарате
 Министерства
-здраво-
-охранения
+здравоохранения
 </td>
 <td>
-в
-аппаратах
+в аппаратах
 управлений
 здраво-
 охранением
 областей,
-гг.Астаны,
+гг. Астаны,
 Алматы
 </td>
 <td>
@@ -80162,44 +97405,39 @@ Kpoмe того, число
 холдинг&quot;
 </td>
 <td>
-в терри-
-ториальных
+в террито-
+риальных
 комитетах
 оплаты
-медицинс-
-ких услуг,
+медицинских
+услуг,
 контроля
-медицинс-
-кой и
-фармацев-
+медицинской
+и фармацев-
 тической
-деятель-
-ности
+деятельности
 </td>
 <td>
 в ВУЗах,
-институ-
-тах
-усовер-
-шенст-
-вования
+институтах
+усовершен-
+ствования
 врачей
 </td>
 <td>
-в
-медицинс-
-ких
+в меди-
+цинских
 фармацев-
 тических
 колледжах
 (училищах)
 </td>
 <td>
-в
-институтах,
+в инсти-
+тутах,
 научных
-организа-
-циях
+органи-
+зациях
 </td>
 </tr>
 <tr>
@@ -80224,14 +97462,14 @@ Kpoмe того, число
 </tr>
 </table>
 
-3403
+### 3403
 
 <table>
 <tr>
 <td>№ строки</td>
 <td colspan="4">
-Всего должностей, занятых врачами во всех
-организациях здравоохранения
+Всего должностей, занятых врачами
+во всех организациях здравоохранения
 </td>
 </tr>
 <tr>
@@ -80252,49 +97490,33 @@ Kpoмe того, число
 
 3650 Плановая мощность амбулаторно-поликлинических организаций
 
-(самостоятельных и входящих), диспансерных отделений, женских
+(самостоятельных и входящих), диспансерных отделений, женских консультаций, всего 1 __#1___ .
 
-консультаций, всего 1 __ # 1 ___.
+Министр здравоохранения
 
-<table>
-<tr>
-<td>
-Министр здравоохранения Республики
-Казахстан
-</td>
-<td>_____________________________</td>
-</tr>
-<tr>
-<td>
+Республики Казахстан ___________________________
+
 Начальник управления медицинской
-статистики и анализа Министерства
-здравоохранения РК
-</td>
-<td>_____________________________</td>
-</tr>
-<tr>
-<td>
+
+статистики и анализа
+
+Министерства здравоохранения РК ____________________________
+
 Начальник областного (городского)
-управления здравоохранения
-</td>
-<td>_____________________________</td>
-</tr>
-<tr>
-<td>
+
+управления здравоохранения ____________________________
+
 Начальник планово-экономического
-отдела управления здравоохранения
-</td>
-<td>_____________________________</td>
-</tr>
-<tr>
-<td>
+
+отдела управления здравоохранения ____________________________
+
 Директор филиала РГП ПХВ
-Республиканского центра развития
-здравоохранения
-</td>
-<td>_____________________________</td>
-</tr>
-</table>
+
+Республиканского центра
+
+развития здравоохранения ____________________________
+
+"______" _________________ 201__ г.
 
 > *Приложение 3*  
 > *Утверждено приказом и.о. Министра*  
@@ -85475,19 +102697,23 @@ _______________________________________________________
 > *Приложение 3*  
 > *Утверждено приказом и.о. Министра*  
 > *здравоохранения Республики Казахстан*  
-> *от 12 сентября 2011 г. № 616*
+> *от 12 сентября 2011 года № 616*
 
-Конфиденциальность гарантируется получателем информации
+### Конфиденциальность гарантируется получателем информации
 
-Кем представляется _________________________________________________
+Кем представляется _________________________
 
-(наименование и адрес)
+наименование, адрес
 
 ### Форма 52
 
 годовая
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+> *Сноска. Форма 52 в редакции приказа Министра здравоохранения РК от 28.09.2012 № 663 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
+
+### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом
+
+Республики Казахстан "О здоровье народа и системе здравоохранения"
 
 <table>
 <tr>
@@ -85496,50 +102722,71 @@ _______________________________________________________
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
 Представляют:
-1. Детские больницы (поликлиники, амбулатории),
-детские отделения больниц и необъединенные
-поликлиники в городах и поселках городского
-типа, подростковые кабинеты, сельские участковые
-и районные больницы (амбулатории) независимо от
-наличия детских отделений (последние - при
+
+1\. Детские больницы (поликлиники,
+
+амбулатории), детские отделения больниц и
+
+необъединенные поликлиники в городах и
+
+поселках городского типа, подростковые
+
+кабинеты, сельские участковые и районные
+
+больницы (амбулатории) независимо от наличия
+
+детских отделений (последние - при
+
 отсутствии в районном центре детской
-поликлиники) - главному врачу района (города) -
-5 января.
-2. Главный врач района (города) - местному
+
+поликлиники) - главному врачу района
+
+(города) - 5 января.
+
+2\. Главный врач района (города) - местному
+
 органу государственного управления
+
 здравоохранением 10 января;
-3. Местный орган государственного управления
-здравоохранением - управление статистики в
-Министерство здравоохранения Республики
-Казахстан к 10 февраля
-4. Министерство здравоохранения Республики
-Казахстан в Агентство Республики Казахстан по
-статистике 1 апреля
-</td>
-</tr>
-</table>
 
-### Отчет по детской инвалидности 20 ________ год
+3\. Местный орган государственного
 
-1000 Отчет по детской инвалидности
+управления здравоохранением -
+
+Министерство здравоохранения
+
+Республики Казахстан к 10 февраля.
+
+### Отчет по детской инвалидности 20_____ год
+
+### 1000 Отчет по детской инвалидности
 
 <table>
 <tr>
-<td rowspan="2">Наименование болезней</td>
 <td rowspan="2">
-Шифр по МКБ
-Х пересмотра
+Наименование
+болезней
 </td>
-<td rowspan="2">№ строки</td>
+<td rowspan="2">
+Шифр по
+МКБ Х
+пересмотра
+</td>
+<td rowspan="2">
+№
+строки
+</td>
 <td colspan="2">
-Состояло на учете по
-инвалидности на начало
-отчетного года
+Состояло на учете
+по инвалидности на
+начало отчетного
+года
+</td>
+<td colspan="2">
+Взято на учет по
+инвалидности в
+отчетном году
 </td>
 </tr>
 <tr>
@@ -85551,154 +102798,28 @@ _______________________________________________________
 в т.ч. до
 3-х лет
 </td>
+<td>
+всего до
+16 лет
+</td>
+<td>
+в т.ч. до
+3-х лет
+</td>
 </tr>
 <tr>
-<td>А</td>
-<td>Б</td>
-<td>В</td>
+<th>А</th>
+<th>Б</th>
+<th>В</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+<tr>
+<td>Всего заболеваний</td>
+<td>А00-Т98</td>
 <td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td>
-Психические расстройства и
-расстройства поведения
-</td>
-<td>F00-F99</td>
-<td>01</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе:</td>
-<td>F20</td>
-<td>02</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>шизофрения</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>умственная отсталость</td>
-<td>F70-F79</td>
-<td>03</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Болезни нервной системы</td>
-<td>G00-G99</td>
-<td>04</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них</td>
-<td>G80-G83</td>
-<td>05</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-детский церебральный
-паралич (ДЦП)
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>эпилепсия</td>
-<td>G40,G41</td>
-<td>06</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-болезни нервно- мышечного
-синапса и мышц
-</td>
-<td>G70,G73</td>
-<td>07</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни глаза и его
-придатков
-</td>
-<td>Н00-Н59</td>
-<td>08</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни уха и сосцевидного
-отростка
-</td>
-<td>Н60-Н95</td>
-<td>09</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе:</td>
-<td>Н90.3,Н90.5</td>
-<td>10</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-двухсторонняя потерия
-слуха,
-</td>
-<td>Н90.8,Н91.0</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-тугоухость IV степени,
-глухота
-</td>
-<td>Н91.2,Н91.3. Н91.8, Н91.9</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Врожденные аномалии
-(пороки развития),
-деформации и хромосомные
-нарушения
-</td>
-<td>Q00-Q99</td>
-<td>11</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них</td>
-<td>Q90</td>
-<td>12</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>синдром Дауна</td>
 <td></td>
 <td></td>
 <td></td>
@@ -85706,43 +102827,22 @@ _______________________________________________________
 </tr>
 <tr>
 <td>
-врожденные аномалия
-развития нервной системы
-</td>
-<td>Q00-07</td>
-<td>13</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Врожденные аномалии
-системы кровообращения
-</td>
-<td>Q20-28</td>
-<td>14</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
+из них:
 Инфекционные и
-паразитарные болезни
+паразитарные
+болезни
 </td>
 <td>А00-В99</td>
-<td>15</td>
+<td>2</td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>из них</td>
-<td>А15-А19</td>
-<td>16</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>туберкулез</td>
+<td>А15-А19</td>
+<td>2.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -85751,22 +102851,29 @@ _______________________________________________________
 <tr>
 <td>ВИЧ</td>
 <td>В20-В24</td>
-<td>17</td>
+<td>2.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Новообразования</td>
+<td>С00-D48</td>
+<td>3</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
+из них:
 Злокачественные
 новообразования
 </td>
 <td>C00-C97</td>
-<td>18</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них</td>
+<td>3.1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -85774,64 +102881,524 @@ _______________________________________________________
 </tr>
 <tr>
 <td>
-головного мозга и других
-отделов ЦНС
+головного мозга и
+других отделов ЦНС
 </td>
 <td>C70-C72</td>
-<td>19</td>
+<td>3.2</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>лейкозы</td>
 <td>C91, C91.1, C92.1</td>
-<td>20</td>
+<td>3.3</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>лимфогрануломатоз</td>
 <td>C81</td>
-<td>21</td>
+<td>3.4</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>миелоидная саркома</td>
 <td>C92.3</td>
-<td>22</td>
+<td>3.5</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>
 Болезни крови,
-кроветворных органов и
-отдельные нарушения, с
-вовлечением иммунного
-механизма
+кроветворных
+органов и отдельные
+нарушения, с
+вовлечением
+иммунного механизма
 </td>
 <td>D50-D89</td>
-<td>23</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: гемофилия</td>
+<td>D66</td>
+<td>4.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+апластическая
+анемия
+</td>
+<td>D60-D64</td>
+<td>4.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>тромбоцитопатия</td>
+<td>D69.1</td>
+<td>4.3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+хроническая
+тромбоцитопеническая
+пурпура
+</td>
+<td>D69.3-D69.5</td>
+<td>4.4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+геморагический
+васкулит
+</td>
+<td>D69.9</td>
+<td>4.5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни эндокринной
+системы,
+расстройства
+питания и нарушения
+обмена веществ
+</td>
+<td>Е00-Е90</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: сахарный
+диабет
+</td>
+<td>Е10</td>
+<td>5.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>гипотериоз</td>
+<td>Е00-Е03</td>
+<td>5.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+классическая
+фенилкетонурия
+</td>
+<td>Е70.0</td>
+<td>5.3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Психические
+расстройства и
+расстройства
+поведения
+</td>
+<td>F00-F99</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+шизофрения
+</td>
+<td>F20</td>
+<td>6.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+умственная
+отсталость
+</td>
+<td>F70-F79</td>
+<td>6.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни нервной
+системы
+</td>
+<td>G00-G99</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: детский
+церебральный
+паралич (ДЦП)
+</td>
+<td>G80-G83</td>
+<td>7.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>эпилепсия</td>
+<td>G40,G41</td>
+<td>7.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+болезни нервно-
+мышечного синапса и
+мышц
+</td>
+<td>G70,G73</td>
+<td>7.3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни глаза и
+его придатков
+</td>
+<td>Н00-Н59</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни уха и
+сосцевидного
+отростка
+</td>
+<td>Н60-Н95</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе:</td>
+<td>Н90.3,Н90.5</td>
+<td>9.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+двухсторонняя
+потерия слуха
+</td>
+<td>Н90.8,Н91.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни системы
+кровообращения
+</td>
+<td>I00-I99</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни органов
+дыхания
+</td>
+<td>J00-J99</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них:
+бронхиальная астма
+</td>
+<td>J45,J46</td>
+<td>11.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни органов
+пищеварения
+</td>
+<td>К00-К93</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них: целиакия</td>
+<td>К90.0</td>
+<td>12.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+хронический
+агрессивный гепатит
+</td>
+<td>К73.2</td>
+<td>12.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>цирроз печени</td>
+<td>К74</td>
+<td>12.3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни кожи и
+подкожной клетчатки
+</td>
+<td>L00-L99</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни костно-
+мышечной системы
+и соединительной
+ткани
+</td>
+<td>М00-99</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+воспалительные
+полиартропатии
+</td>
+<td>М05-14</td>
+<td>14.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Болезни мочеполовой
+системы
+</td>
+<td>N00-N99</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+в том числе:
+гломерулонефрит
+</td>
+<td>N00-N08</td>
+<td>15.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+хроническая
+почечная
+недостаточность
+</td>
+<td>N18</td>
+<td>15.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Врожденные аномалии
+(пороки развития),
+деформации и
+хромосомные
+нарушения
+</td>
+<td>Q00-Q99</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+из них: врожденные
+аномалия развития
+нервной системы
+</td>
+<td>Q00-07</td>
+<td>16.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Врожденные
+аномалии системы
+кровообращения
+</td>
+<td>Q20-28</td>
+<td>16.2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>синдром Дауна</td>
+<td>Q90</td>
+<td>16.3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Травмы и
+отравления
+</td>
+<td>S00-T98</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Прочие</td>
+<td></td>
+<td>18</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 </table>
 
-Продолжение таблицы
+продолжение таблицы
 
 <table>
 <tr>
-<td colspan="2" rowspan="2">
-Взято на учет
-по
-инвалидности в
-отчетном году
-</td>
-<td colspan="4">
-Снято с учета по инвалидности в
-течение года
-</td>
+<td colspan="4">Снято с учета по инвалидности в течение года</td>
 <td colspan="2" rowspan="2">
 Состоит на учете по
 инвалидности на конец
@@ -85844,26 +103411,6 @@ _______________________________________________________
 </tr>
 <tr>
 <td>
-всего
-до 16
-лет
-</td>
-<td>
-в т.ч.
-до 3-х
-лет
-</td>
-<td>
-всего
-до 16
-лет
-</td>
-<td>
-в т.ч.
-до 3-х
-лет
-</td>
-<td>
 всего до
 16 лет
 </td>
@@ -85879,10 +103426,16 @@ _______________________________________________________
 в т.ч. до
 3-х лет
 </td>
+<td>
+всего
+до 16 лет
+</td>
+<td>
+в т.ч.
+до 3-х лет
+</td>
 </tr>
 <tr>
-<th>3</th>
-<th>4</th>
 <th>5</th>
 <th>6</th>
 <th>7</th>
@@ -85897,12 +103450,392 @@ _______________________________________________________
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -85912,289 +103845,11 @@ _______________________________________________________
 </tr>
 </table>
 
-<table>
-<tr>
-<th>А</th>
-<th>Б</th>
-<th>В</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-</tr>
-<tr>
-<td>из них: гемофилия</td>
-<td>D66</td>
-<td>24</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>апластическая анемия</td>
-<td>D60-D64</td>
-<td>25</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>тромбоцитопатия</td>
-<td>D69.1</td>
-<td>26</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>хроническая тромбоцитопеническая пурпура</td>
-<td>D69.3-D69.5</td>
-<td>27</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>геморагический васкулит</td>
-<td>D69.9</td>
-<td>28</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Болезни эндокринной системы, расстройства
-питания и нарушения обмена веществ
-</td>
-<td>Е00-Е90</td>
-<td>29</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>сахарный диабет</td>
-<td>Е10</td>
-<td>30</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>гипотериоз</td>
-<td>Е00-Е03</td>
-<td>31</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>классическая фенилкетонурия</td>
-<td>Е70.0</td>
-<td>32</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Болезни органов дыхания</td>
-<td>J00-J99</td>
-<td>33</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>бронхиальная астма</td>
-<td>J45,J46</td>
-<td>34</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Болезни мочеполовой системы</td>
-<td>N00-N99</td>
-<td>35</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>гломерулонефрит</td>
-<td>N00-N08</td>
-<td>36</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>хроническая почечная недостаточность</td>
-<td>N18</td>
-<td>37</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Болезни органов пищеварения</td>
-<td>К00-К93</td>
-<td>38</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>целиакия</td>
-<td>К90.0</td>
-<td>39</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>хронический агрессивный гепатит</td>
-<td>К73.2</td>
-<td>40</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>цирроз печени</td>
-<td>К74</td>
-<td>41</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Прочие инвалидизирующие причины (включать
-все случаи инвалидности, неучтенные в
-вышеназванных строках)
-</td>
-<td></td>
-<td>42</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-болезни костно- мышечной системы и
-соединительной ткани
-</td>
-<td>М00-99</td>
-<td>43</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>воспалительные полиартропатии</td>
-<td>М05-14</td>
-<td>44</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ВСЕГО</td>
-<td></td>
-<td>45</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
+1001 Число выбывших по достижении 16 лет (1) _______ и выехавшие (2) __________ из них до 3-х лет
 
-Продолжение таблицы
+Руководитель ___________________
 
-<table>
-<tr>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-1001 Число выбывших по достижении 16 лет (1)_____ и выехавшие
-
-(2) ____ из них до 3-х лет
-
-<table>
-<tr>
-<td>
-Руководитель ___________________________
-Исполнитель _________ ,телефон _________
-</td>
-<td>Дата &quot;__&quot; _____ 20 ___ года</td>
-</tr>
-</table>
+Исполнитель ____________, телефон ________ Дата "__"_______ 20__ года
 
 > *Приложение 3*  
 > *Утверждено приказом и.о. Министра*  
@@ -86503,66 +104158,65 @@ _______________________________________________________
 </table>
 
 > *Приложение 3*  
-> *Утверждено приказом и.о. Министра*  
-> *здравоохранения Республики Казахстан*  
-> *от 12 сентября 2011 г. № 616*
+> *Утверждено приказом*  
+> *и.о. Министра здравоохранения*  
+> *Республики Казахстан*  
+> *от 12 сентября 2011 года № 616*
 
-Конфиденциальность гарантируется получателем информации
+### Конфиденциальность гарантируется получателем информации
 
-Кем представляется _________________________________________________
+Кем представляется _________________________
 
-(наименование и адрес)
+наименование, адрес
+
+### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом
+
+Республики Казахстан "О здоровье народа и системе здравоохранения"
 
 ### Форма 55
 
 годовая
 
-### Форма, предназначенная для сбора административных данных Информация представляется в соответствии с Кодексом Республики Казахстан "О здоровье народа и системе здравоохранения"
+> *Сноска. Форма 55 в редакции приказа Министра здравоохранения РК от 28.09.2012 № 663 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
 
 <table>
 <tr>
 <td>КОД ОКПО</td>
 <td></td>
-<td></td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
-Представляют:
-1. Паталогоанатомические бюро главному врачу
-района (города) - 5 января;
-2. Главный врач района (города) - местному
+Представляет:
+
+1\. Паталогоанатомическое бюро главному
+
+врачу района (города) - 5 января;
+
+2\. Главный врач района (города) - местному
+
 органу государственного управления
-здравоохранением к 10 января;
-3. Местный орган государственного управления
-здравоохранением области сводные отчеты в
-областные департаменты статистики, г.г. Астана и
-Алматы и в Министерство здравоохранения
-Республики Казахстан в к 10 февраля;
-4. Министерство здравоохранения Республики
-Казахстан сводные отчеты в Агенство Республики
-Казахстан по статистике - 1 апреля.
-</td>
-</tr>
-</table>
 
-### Отчет организации, осуществляющей деятельность в сфере патологической анатомии 20____год
+здравоохранением 10 января;
 
-1100 1. Штатные должности организации на конец отчетного года
+3\. Местный орган государственного
+
+управления здравоохранением области
+
+в Министерство здравоохранения РК к 10
+
+февраля.
+
+### Отчет организации, осуществляющей деятельность в сфере патологической анатомии 20__ год
+
+### 1100 1. Штатные должности организации на конец отчетного года
 
 <table>
 <tr>
 <td rowspan="2">Наименование должности</td>
-<td rowspan="2">
-№
-строки
-</td>
+<td rowspan="2">№ строки</td>
 <td colspan="2">
-Число должностей
-по организации
+Число должностей по
+организации
 </td>
 <td rowspan="2">
 Число физических лиц
@@ -86582,7 +104236,7 @@ _______________________________________________________
 <th>3</th>
 </tr>
 <tr>
-<td>Врачи всего.................</td>
+<td>Врачи всего.............</td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -86591,8 +104245,8 @@ _______________________________________________________
 <tr>
 <td>
 Специалисты с высшим
-немедицинским образованием -
-всего.......................
+немедицинским
+образованием - всего....
 </td>
 <td>02</td>
 <td></td>
@@ -86600,7 +104254,10 @@ _______________________________________________________
 <td></td>
 </tr>
 <tr>
-<td>Средний медперсонал - всего</td>
+<td>
+Средний медперсонал -
+всего
+</td>
 <td>03</td>
 <td></td>
 <td></td>
@@ -86609,8 +104266,8 @@ _______________________________________________________
 <tr>
 <td>
 Специалисты со средним
-немедицинским образованием -
-всего
+немедицинским
+образованием - всего.....
 </td>
 <td>04</td>
 <td></td>
@@ -86618,21 +104275,21 @@ _______________________________________________________
 <td></td>
 </tr>
 <tr>
-<td>Младший персонал............</td>
+<td>Младший персонал.........</td>
 <td>05</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Прочий персонал.............</td>
+<td>Прочий персонал..........</td>
 <td>06</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Всего должностей............</td>
+<td>Всего должностей.........</td>
 <td>07</td>
 <td></td>
 <td></td>
@@ -86640,107 +104297,114 @@ _______________________________________________________
 </tr>
 </table>
 
-1200 ДЕЯТЕЛЬНОСТЬ ПАТОЛОГОАНАТОМИЧЕСКОГО БЮРО
+### 1200 ДЕЯТЕЛЬНОСТЬ ПАТОЛОГОАНАТОМИЧЕСКОГО БЮРО
 
 <table>
 <tr>
-<td>Н а и м е н о в а н и е</td>
-<td>
-№
-строки
-</td>
+<td>Наименование</td>
+<td>№ строки</td>
 <td>Всего</td>
 <td>
-в том числе умерших в
+в том
+числе
+умерших в
 стационаре
+</td>
+<td>
+из гр 2 число
+расхождений
+клинических и
+патологоана-
+томических
+диагнозов
 </td>
 </tr>
 <tr>
-<td>А</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td>
-Число патологоанатомических
-исследований умерших
+Число патологоанатомических исследований
+умерших
 </td>
 <td>01</td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-в том числе- детей (0-17 лет
-включительно) из них:
+в том числе- детей (0-14 лет
+включительно)
 </td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них:</td>
 <td>02</td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-новорожденных, умерших в
-возрасте 0-6 суток
+новорожденных, умерших в возрасте 0-6
+суток
 </td>
 <td>03</td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-детей, умерших в возрасте 7
-дней-11месяцев 29 дней
+детей, умерших в возрасте 7 дней -
+11 месяцев 29 дней
 </td>
 <td>04</td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Число вскрытий
-мертворожденных
-</td>
+<td>Число вскрытий мертворожденных</td>
 <td>05</td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>
-Вскрыто новорожденных,
-родившихся при сроке
-беременности 22-27 недель..
+Вскрыто новорожденных, родившихся при
+сроке беременности 22-27 недель...
 </td>
 <td>06</td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 </table>
 
-1201 Число обслуживаемых организаций 1 ______, в том числе
+### 1201
 
-самостоятельных поликлиник (амбулаторий) 2 _______
+Число обслуживаемых организаций 1 ___#1___, в том числе самостоятельных поликлиник (амбулаторий) 2 ___#2____ число патолого-гистологических исследований секционного материала 3 ___#3________,
 
-число патолого-гистологических исследований секционного материала
+Число патолого-гистологических исследований операционного и биопсийного материала у больных, всего 4 ___#4_____, в том числе из поликлиники 5 _____#5___________.
 
-3 ____________,
+Фамилия и № телефона исполнителя ____________________________
 
-Число патолого-гистологических исследований операционного и
+Руководитель ______________________
 
-биопсийного материала у больных, всего 4 ________,
+Дата "____"_______________20___ года
 
-в том числе из поликлиники 5 ________________.
-
-<table>
-<tr>
-<td>
-Руководитель ___________________________
-Исполнитель _________ ,телефон _________
-</td>
-<td>Дата &quot;__&quot; _____ 20 ___ года</td>
-</tr>
-</table>
+Исполнитель ______________, тел ____________
 
 > *Приложение 3*  
 > *Утверждено приказом и.о. Министра*  
@@ -86797,7 +104461,7 @@ _______________________________________________________
 
 ### ОТЧЕТ О ТРАВМАХ, ОТРАВЛЕНИЯХ И НЕКОТОРЫХ ДРУГИХ ПОСЛЕДСТВИЯХ ВОЗДЕЙСТВИЯ ВНЕШНИХ ПРИЧИН за ________ 20 _____ год
 
-1. ДЕТИ (до 14 лет включительно)
+1\. ДЕТИ (до 14 лет включительно)
 
 1000
 
@@ -87074,7 +104738,7 @@ _______________________________________________________
 </tr>
 </table>
 
-2. ДЕТИ (от 15 до 17 лет)
+2\. ДЕТИ (от 15 до 17 лет)
 
 2000 Случаи
 
@@ -87398,7 +105062,7 @@ _______________________________________________________
 </tr>
 </table>
 
-3. ВЗРОСЛЫЕ (от 18 лет и старше)
+3\. ВЗРОСЛЫЕ (от 18 лет и старше)
 
 3000 Случаи
 
@@ -87705,7 +105369,7 @@ _______________________________________________________
 </tr>
 </table>
 
-4. ВЗРОСЛЫЕ (от 60 лет и старше)
+4\. ВЗРОСЛЫЕ (от 60 лет и старше)
 
 4000 Случаи
 
