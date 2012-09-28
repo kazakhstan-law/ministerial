@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/60893/rus/12.09.2011
+source: https://zan.gov.kz/client/#!/doc/60893/rus/28.09.2012
 ---
 
 ## I.Переподготовка и повышение квалификации врачей и провизоров

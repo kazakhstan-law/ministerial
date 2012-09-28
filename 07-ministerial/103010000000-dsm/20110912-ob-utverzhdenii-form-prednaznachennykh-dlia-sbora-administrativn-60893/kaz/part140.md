@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
+source: https://zan.gov.kz/client/#!/doc/60893/kaz/28.09.2012
 ---
 
 ## 1. БАЛАЛАР (14 жасқа дейінгілерді қоса алғанда)

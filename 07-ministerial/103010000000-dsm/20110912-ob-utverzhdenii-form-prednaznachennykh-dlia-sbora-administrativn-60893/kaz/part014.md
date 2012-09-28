@@ -1,42 +1,1313 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
+source: https://zan.gov.kz/client/#!/doc/60893/kaz/28.09.2012
 ---
 
-## Стационарлық және стационарды алмастыратын көмек көрсететін медициналық ұйымдардың төсек корын пайдалану туралы есеп
+## Стационарлық және стационарды алмастыратын көмек көрсететін медициналық ұйымдардың төсек қорын пайдалану туралы есеп 20__ жылғы ___
 
-20__жылғы ____________айға
+1000 Республикалық бюджет
 
 <table>
 <tr>
-<td rowspan="4"></td>
-<td rowspan="4"></td>
-<td colspan="2">нақты ашылған және жабылған төсектердің саны</td>
-<td colspan="4">Есеп беру кезеңінде</td>
-<td colspan="4">Республикалық бюджет</td>
+<td rowspan="2">Төсектердің бейіні</td>
+<td rowspan="2"></td>
+<td colspan="2">Нақты ашылған және жөндеуге жабылған төсектердің саны</td>
+<td colspan="4">Деңгейлер бойынша есеп беру кезеңінің соңында нақты ашылған төсектердің саны (1-бағаннан)</td>
 </tr>
 <tr>
-<td rowspan="3">есеп беру кезеңінің соңына</td>
-<td rowspan="3">орта жылдық</td>
-<td rowspan="3">Барлық түскен науқастар</td>
-<td colspan="3">соның ішінде (3-ші бағаннан)</td>
-<td colspan="4">ауруханадан шығарылған күні</td>
+<td>есеп беру кезеңінің соңында</td>
+<td>орташа жылдық</td>
+<td>аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
+<td>республикалық</td>
 </tr>
 <tr>
-<td rowspan="2">ауыл тұрғындары</td>
-<td rowspan="2">0-14 жастағыларды қоса алғанда</td>
-<td rowspan="2">15-17 жастағыларды қоса алғанда</td>
-<td colspan="2">Мамандандырылған көмек</td>
-<td colspan="2">Жоғары мамандандырылған медициналық көмек</td>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
-<td>Барлығы</td>
-<td>о..і. республикалық мекемелерде</td>
-<td>Барлығы</td>
-<td>о..і. республикалық мекемелерде</td>
+<td>Жалпы</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Төсек бейіні</td>
+<td>Терапиялық</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған кардиологиялық</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған гастроэнтерологиялық</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған аллергологиялық</td>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған эндокринологиялық</td>
+<td>09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған инфекциялық</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ересектерге арналған гемотологиялық</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған нефрологиялық</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған хирургиялық</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Нәрестелерге арналған хирургиялық</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған нейрохирургиялық</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Нейротамырлы</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған торакальды хирургия</td>
+<td>23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған кардиохирургиялық</td>
+<td>25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>26</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Тамыр хирургиясы</td>
+<td>27</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған травматологиялық</td>
+<td>28</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған (камбустиологиялық) күйіктік</td>
+<td>30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>31</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған ортопедиялық</td>
+<td>32</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>33</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған урологиялық</td>
+<td>34</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ересектерге арналған жақ-бет хирургиясы (стоматологиялық)</td>
+<td>36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>37</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған онкологиялық</td>
+<td>38</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>39</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>оның ішінде маммологиялық (38 жолдан)</td>
+<td>40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Жүкті және босанатын (жүктілік патологиясынан басқа) әйелдерге арналған</td>
+<td>41</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Жүктілік патологиясы</td>
+<td>42</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған гинекологиялық, түсік түсіруді қоса алғанда</td>
+<td>43</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Балаларға арналған гинекологиялық, абортты қоса алғанда</td>
+<td>44</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған туберкулездік, барлығы</td>
+<td>45</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>оның ішінде: өкпеден тыс, сүйек-буындары туберкулезін қоса, ересек науқастар үшін</td>
+<td>46</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>науқастарды мәжбүрлеп емдеу үшін</td>
+<td>47</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>туберкулездің дәріге тұрақты нысанымен сырқаттанған науқастар үшін</td>
+<td>48</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>туберкулездік хирургия</td>
+<td>49</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Балаларға арналған туберкулездік, барлығы</td>
+<td>50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>соның ішінде: өкпеден тыс, сүйек-буындары туберкулезін қоса, науқас балалар үшін</td>
+<td>51</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған неврологиялық</td>
+<td>52</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>53</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған психиатриялық (психоневрологиялық)</td>
+<td>54</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>55</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған психотерапиялық</td>
+<td>56</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>57</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған наркологиялық</td>
+<td>58</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>59</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Мәжбүрлеп емдеу үшін наркологиялық</td>
+<td>60</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған офтальмологиялық</td>
+<td>61</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>62</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған отоларингологиялық</td>
+<td>63</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>64</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған дерматовенерологиялық</td>
+<td>65</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>66</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Радиологиялық</td>
+<td>67</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Педиатриялық</td>
+<td>68</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Нәрестелердің патологиясы және шала туған нәрестелерді күтіп-бағу</td>
+<td>69</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Проктологиялық</td>
+<td>70</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған ревматологиялық</td>
+<td>71</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>72</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған іріңді хирургиялық</td>
+<td>73</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>74</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған пульмонологиялық</td>
+<td>75</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>76</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған токсикологиялық</td>
+<td>77</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>78</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған трансплантология</td>
+<td>79</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>80</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Лепрологиялық</td>
+<td>81</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған реанимациялық</td>
+<td>82</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>83</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Инсульттік</td>
+<td>84</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Төсектердің жиыны</td>
+<td>85</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>оның ішінде балаларға арналған</td>
+<td>86</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Мейіргерлік күтім</td>
+<td>87</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Паллиативті көмек</td>
+<td>88</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Тамақтанумен күтім үшін</td>
+<td>89</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Тамақтанусыз күтім үшін</td>
+<td>90</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="8">Қалпына келтіру еміне және медициналық оңалтуға арналған төсектердің бейіндері</td>
+</tr>
+<tr>
+<td>Қалпына келтіріп емдеу және медициналық оңалту, барлығы</td>
+<td>91</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>оның ішінде балаларға арналған</td>
+<td>92</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="8">а) оның ішінде бейіндер бойынша ерте оңалту:</td>
+</tr>
+<tr>
+<td>
+Соның ішінде:
+Ересектерге арналған кардиологиялық
+</td>
+<td>93</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>94</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған кардиохирургиялық</td>
+<td>95</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>96</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған неврологиялық (психоневрологиялық)</td>
+<td>97</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>98</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған нейрохирургиялық</td>
+<td>99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>100</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған травматологиялық</td>
+<td>101</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>102</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған ортопедиялық</td>
+<td>103</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>104</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="8">б) оның ішінде бейіндер бойынша кеш оңалту:</td>
+</tr>
+<tr>
+<td>
+Соның ішінде:
+Ересектерге арналған кардиологиялық
+</td>
+<td>105</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>106</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған кардиохирургиялық</td>
+<td>107</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>108</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған неврологиялық (психоневрологиялық)</td>
+<td>109</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>110</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған нейрохирургиялық</td>
+<td>111</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>112</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған травматологиялық</td>
+<td>113</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>114</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған ортопедиялық</td>
+<td>115</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>116</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Төсектердің барлығы (85+87+88+89+90+91 жолдар)</td>
+<td>117</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>оның ішінде балаларға арналған (86+92 жолдар)</td>
+<td>118</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+кестенің жалғасы
+
+<table>
+<tr>
+<td colspan="16">Есепті кезеңде</td>
+</tr>
+<tr>
+<td colspan="4">
+түскен науқастардың
+барлығы
+</td>
+<td colspan="4">
+түскен науқастардың
+ішінен ауыл
+тұрғындары
+</td>
+<td colspan="4">
+түскен науқастардан -
+0-14 жастағы
+балалар
+</td>
+<td colspan="4">
+түскен науқастардан -
+15-17 жасты қоса
+алғандағы балалар
+</td>
+</tr>
+<tr>
+<td>аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
+<td>республикалық</td>
+<td>аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
+<td>республикалық</td>
+<td>аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
+<td>республикалық</td>
+<td>аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
+<td>республикалық</td>
+</tr>
+<tr>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -48,6 +1319,1175 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+кестенің жалғасы
+
+<table>
+<tr>
+<td colspan="20">Есепті кезеңде</td>
+</tr>
+<tr>
+<td colspan="8">шығарылды</td>
+<td colspan="8">қайтыс болды</td>
+<td colspan="4" rowspan="2">
+Науқастар
+төсек-күн
+өткізді
+</td>
+</tr>
+<tr>
+<td colspan="4">
+Мамандандырылған
+көмек
+</td>
+<td colspan="4">
+Жоғары мамандандырылған
+медициналық көмек
+</td>
+<td colspan="4">Мамандандырылған көмек</td>
+<td colspan="4">
+Жоғары мамандандырылған
+медициналық көмек
+</td>
+</tr>
+<tr>
+<td>аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
+<td>республикалық</td>
+<td>аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
+<td>республикалық</td>
+<td>аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
+<td>республикалық</td>
+<td>аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
+<td>республикалық</td>
+<td>аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
+<td>республикалық</td>
+</tr>
+<tr>
+<th>23</th>
+<th>24</th>
+<th>25</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
+<th>29</th>
+<th>30</th>
+<th>31</th>
+<th>32</th>
+<th>33</th>
+<th>34</th>
+<th>35</th>
+<th>36</th>
+<th>37</th>
+<th>38</th>
+<th>39</th>
+<th>40</th>
+<th>41</th>
+<th>42</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+2000
+
+<table>
+<tr>
+<td></td>
+<td></td>
+<td>Ұйымдардың саны</td>
+<td>Орындар саны</td>
+<td>Науқастар емделді</td>
+<td>оның ішінде қайтыс болды</td>
+<td>оның ішінде тәуліктік стационарға жолданды</td>
+<td>Күн өткізілді</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td>Стационарлық көмек көрсететін ұйымдардағы күндізгі стационарлар (бөлімшелер, палаталар)</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Амбулаториялық-емханалық көмек көрсететін ұйымдардағы күндізгі стационарлар</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Үйдегі стационарлар</td>
+<td>03</td>
+<td>Х</td>
+<td>Х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+1001 Жергілікті бюджет, жаһандық бюджет, бюджеттің басқа түрлері
+
+<table>
+<tr>
+<td rowspan="3">Төсектердің бейіні</td>
+<td rowspan="3"></td>
+<td colspan="2" rowspan="2">Нақты ашылған және жөндеуге жабылған төсектердің саны</td>
+<td colspan="3" rowspan="2">Деңгейлер бойынша есепті кезеңнің соңында нақты ашылған төсектердің саны (1-бағаннан)</td>
+<td colspan="6">Есепті кезеңде</td>
+</tr>
+<tr>
+<td colspan="3">түскен науқастардың барлығы</td>
+<td colspan="3">түскен науқастардың ішінен ауыл тұрғындары</td>
+</tr>
+<tr>
+<td>есеп беру кезеңінің соңында</td>
+<td>орташа жылдық</td>
+<td>аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
+<td>аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
+<td>аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
 </tr>
 <tr>
 <th>А</th>
@@ -62,10 +2502,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <th>8</th>
 <th>9</th>
 <th>10</th>
+<th>11</th>
 </tr>
 <tr>
-<td>Барлығы</td>
+<td>Жалпы</td>
 <td>01</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -90,6 +2532,7 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Ересектерге арналған кардиологиялық</td>
@@ -104,10 +2547,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>04</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -132,10 +2577,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>06</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -160,10 +2607,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>08</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -188,10 +2637,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>10</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -216,9 +2667,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>12</td>
 <td></td>
 <td></td>
@@ -230,9 +2682,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>ересектерге арналған гемотологиялық</td>
+<td>ересектерге арналған гематологиялық</td>
 <td>13</td>
 <td></td>
 <td></td>
@@ -244,10 +2697,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>14</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -272,10 +2727,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>16</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -300,9 +2757,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>18</td>
 <td></td>
 <td></td>
@@ -314,10 +2772,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>Жаңа туған балаларға арналған хирургиялық</td>
+<td>Нәрестелерге арналған хирургиялық</td>
 <td>19</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -342,9 +2802,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>21</td>
 <td></td>
 <td></td>
@@ -356,9 +2817,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>Нейротамырлар</td>
+<td>Нейротамырлы</td>
 <td>22</td>
 <td></td>
 <td></td>
@@ -370,9 +2832,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>Ересектерге арналған торакальды хирургиялық</td>
+<td>Ересектерге арналған торакальды хирургия</td>
 <td>23</td>
 <td></td>
 <td></td>
@@ -384,10 +2847,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>24</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -412,9 +2877,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>26</td>
 <td></td>
 <td></td>
@@ -426,9 +2892,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>Қан тамырлар хирургиясы</td>
+<td>Тамыр хирургиясы</td>
 <td>27</td>
 <td></td>
 <td></td>
@@ -440,9 +2907,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>Ересектерге арналған травмотологиялық</td>
+<td>Ересектерге арналған травматологиялық</td>
 <td>28</td>
 <td></td>
 <td></td>
@@ -454,9 +2922,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>29</td>
 <td></td>
 <td></td>
@@ -468,9 +2937,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>Ересектерге арналған (камбустиологиялық) күйіктер</td>
+<td>Ересектерге арналған (камбустиологиялық) күйіктік</td>
 <td>30</td>
 <td></td>
 <td></td>
@@ -482,10 +2952,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>31</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -510,10 +2982,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>33</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -538,10 +3012,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>35</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -566,10 +3042,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>37</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -594,9 +3072,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>39</td>
 <td></td>
 <td></td>
@@ -608,9 +3087,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>о.і. маммологиялық (38 жолдан)</td>
+<td>оның ішінде маммологиялық (38 жолдан)</td>
 <td>40</td>
 <td></td>
 <td></td>
@@ -622,10 +3102,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>Жүкті және босанатындарға (жүктілік патологиясынан басқа) арналған</td>
+<td>Жүкті және босанатын (жүктілік патологиясынан басқа) әйелдерге арналған</td>
 <td>41</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -650,9 +3132,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>Ересектерге арналған гинекологиялық, түсік түсіруді қоса алғанда</td>
+<td>Ересектерге арналған гинекологиялық, абортты қоса алғанда</td>
 <td>43</td>
 <td></td>
 <td></td>
@@ -664,10 +3147,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>Балаларға арналған гинекологиялық</td>
+<td>Балаларға арналған гинекологиялық, түсік түсіруді қоса алғанда</td>
 <td>44</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -692,10 +3177,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>о.і.: өкпеден тыс, сүйек-буындары туберкулезін қоса, ересек науқастар үшін</td>
+<td>оның ішінде: өкпеден тыс, сүйек-буындары туберкулезін қоса, ересек науқастар үшін</td>
 <td>46</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -720,10 +3207,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>туберкулездің дәріге тұрақты нысанымен сырқаттанған науқастар үшін</td>
 <td>48</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -748,10 +3237,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Балаларға арналған туберкулездік, барлығы</td>
 <td>50</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -776,33 +3267,6 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>Ересектерге арналған неврологиялық</td>
-<td>52</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>балаларға</td>
-<td>53</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -818,9 +3282,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>55</td>
 <td></td>
 <td></td>
@@ -832,37 +3297,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>Ересектерге арналған психотерапиялық</td>
-<td>56</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
-<td>балаларға</td>
-<td>57</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Ересектиерге арналған наркологиялық</td>
+<td>Ересектерге арналған наркологиялық</td>
 <td>58</td>
 <td></td>
 <td></td>
@@ -874,10 +3312,27 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>59</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Мәжбүрлеп емдеу үшін наркологиялық</td>
+<td>60</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -891,20 +3346,6 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 </tr>
 <tr>
 <td>Ересектерге арналған офтальмологиялық</td>
-<td>60</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>балаларға</td>
 <td>61</td>
 <td></td>
 <td></td>
@@ -916,10 +3357,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>Наркологиялық мәжбүрлеп емдеу үшін</td>
+<td>балаларға арналған</td>
 <td>62</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -944,10 +3387,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>64</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -972,10 +3417,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>66</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1000,9 +3447,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>Педиатриялық (соматикалық) - барлығы</td>
+<td>Педиатриялық</td>
 <td>68</td>
 <td></td>
 <td></td>
@@ -1014,10 +3462,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>Шала туған және жаңа туған науқас балалар үшін</td>
+<td>Нәрестелердің патологиясы және шала туғандарды күту</td>
 <td>69</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1042,6 +3492,7 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Ересектерге арналған ревматологиялық</td>
@@ -1056,10 +3507,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>72</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1084,10 +3537,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>74</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1112,10 +3567,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>76</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1140,10 +3597,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>78</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1168,10 +3627,12 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>80</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1196,9 +3657,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>Ересектерге арналған реанимация</td>
+<td>Ересектерге арналған реанимациялық</td>
 <td>82</td>
 <td></td>
 <td></td>
@@ -1210,9 +3672,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td>балаларға арналған</td>
 <td>83</td>
 <td></td>
 <td></td>
@@ -1224,9 +3687,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>Барлық төсек саны</td>
+<td>Инсульттік</td>
 <td>84</td>
 <td></td>
 <td></td>
@@ -1238,9 +3702,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>оның ішінде балалар үшін</td>
+<td>Төсектердің жиыны</td>
 <td>85</td>
 <td></td>
 <td></td>
@@ -1252,10 +3717,27 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>Медбикелік күтім</td>
+<td>оның ішінде балаларға арналған</td>
 <td>86</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Мейіргерлік күтім</td>
+<td>87</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1269,20 +3751,6 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 </tr>
 <tr>
 <td>Паллиативті көмек</td>
-<td>87</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Тамақпен күтім үшін</td>
 <td>88</td>
 <td></td>
 <td></td>
@@ -1294,9 +3762,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>Тамақсыз күтім үшін</td>
+<td>Тамақтанумен күтім үшін</td>
 <td>89</td>
 <td></td>
 <td></td>
@@ -1308,12 +3777,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="12">Қалпына келтіріп емдеу және медициналық оңалтуға арналған бейінді төсектер</td>
-</tr>
-<tr>
-<td>Қалпына келтіріп емдеу және медициналық емдеу, барлығы</td>
+<td>Тамақтанусыз күтім үшін</td>
 <td>90</td>
 <td></td>
 <td></td>
@@ -1325,9 +3792,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>- оның ішінде балалар үшін</td>
+<td colspan="13">Қалпына келтіру еміне және медициналық оңалтуға арналған төсектердің бейіндері</td>
+</tr>
+<tr>
+<td>Қалпына келтіріп емдеу және медициналық оңалту, барлығы</td>
 <td>91</td>
 <td></td>
 <td></td>
@@ -1339,12 +3810,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="12">Оның ішінде бейіндер бойынша ерте оңалту</td>
-</tr>
-<tr>
-<td>Соның ішінде Ересектерге арналған кардиологиялық</td>
+<td>оның ішінде балаларға арналған</td>
 <td>92</td>
 <td></td>
 <td></td>
@@ -1356,10 +3825,33 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>балаларға</td>
+<td colspan="13">а) оның ішінде бейіндер бойынша ерте оңалту:</td>
+</tr>
+<tr>
+<td>
+Соның ішінде:
+Ересектерге арналған кардиологиялық
+</td>
 <td>93</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>94</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1373,7 +3865,8 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 </tr>
 <tr>
 <td>Ересектерге арналған кардиохирургиялық</td>
-<td>94</td>
+<td>95</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1386,8 +3879,9 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
-<td>балалар үшін</td>
-<td>95</td>
+<td>балаларға арналған</td>
+<td>96</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1401,7 +3895,8 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 </tr>
 <tr>
 <td>Ересектерге арналған неврологиялық (психоневрологиялық)</td>
-<td>96</td>
+<td>97</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1414,8 +3909,9 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
-<td>балалар үшін</td>
-<td>97</td>
+<td>балаларға арналған</td>
+<td>98</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1429,7 +3925,8 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 </tr>
 <tr>
 <td>Ересектерге арналған нейрохирургиялық</td>
-<td>98</td>
+<td>99</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1442,8 +3939,9 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
-<td>балалар үшін</td>
-<td>99</td>
+<td>балаларға арналған</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1457,7 +3955,8 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 </tr>
 <tr>
 <td>Ересектерге арналған травматологиялық</td>
-<td>100</td>
+<td>101</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1470,8 +3969,9 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
-<td>балалар үшін</td>
-<td>101</td>
+<td>балаларға арналған</td>
+<td>102</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1485,20 +3985,6 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 </tr>
 <tr>
 <td>Ересектерге арналған ортопедиялық</td>
-<td>102</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>балалар үшін</td>
 <td>103</td>
 <td></td>
 <td></td>
@@ -1510,9 +3996,10 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>Барлық төсек (84+86+87+88+89+90 жол)</td>
+<td>балаларға арналған</td>
 <td>104</td>
 <td></td>
 <td></td>
@@ -1524,9 +4011,16 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>оның ішінде балалар үшін (885+91 жол)</td>
+<td colspan="13">б) оның ішінде бейіндер бойынша кеш оңалту:</td>
+</tr>
+<tr>
+<td>
+Соның ішінде:
+Ересектерге арналған кардиологиялық
+</td>
 <td>105</td>
 <td></td>
 <td></td>
@@ -1537,6 +4031,267 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>106</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған кардиохирургиялық</td>
+<td>107</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>108</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған неврологиялық (психоневрологиялық)</td>
+<td>109</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>110</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған нейрохирургиялық</td>
+<td>111</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>112</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған травматологиялық</td>
+<td>113</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>114</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған ортопедиялық</td>
+<td>115</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td>116</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Төсектердің барлығы (85+87+88+89+90+91 жолдар)</td>
+<td>117</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>оның ішінде балаларға арналған (86+92 жолдар)</td>
+<td>118</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2001</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Ұйымдар саны</td>
+<td>Орындар саны</td>
+<td>Науқастар емделді</td>
+<td colspan="2">оның ішінде қайтыс болды</td>
+<td colspan="4">оның ішінде тәуліктік стационарға жолданды</td>
+<td>Күн өткізілді</td>
+</tr>
+<tr>
+<th>А</th>
+<th>Б</th>
+<th colspan="2">1</th>
+<th>2</th>
+<th>3</th>
+<th colspan="2">4</th>
+<th colspan="4">5</th>
+<th>6</th>
+</tr>
+<tr>
+<td>Стационарлық көмек көрсететін ұйымдардағы күндізгі стационарлар (бөлімшелер, палаталар)</td>
+<td>01</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr>
+<td>Амбулаториялық-емханалық көмек көрсететін ұйымдардағы күндізгі стационарлар</td>
+<td>02</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr>
+<td>Үйдегі стационарлар</td>
+<td>03</td>
+<td colspan="2">Х</td>
+<td></td>
+<td>Х</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
 <td></td>
 </tr>
 </table>
@@ -1545,33 +4300,64 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 
 <table>
 <tr>
-<td rowspan="4"></td>
-<td colspan="4">Республикалық бюджет</td>
-<td rowspan="4">Науқастардың ауруханада жатып емделген күні</td>
-<td rowspan="4">соның ішінде ауыл тұрғындары ның ауруханада жатып емделген күні</td>
-<td colspan="4">жергілікті бюджет</td>
+<td colspan="18">Есепті кезеңде</td>
 </tr>
 <tr>
-<td colspan="4">қайтыс болғаны</td>
-<td rowspan="3">ауруханадан шығарылған күні</td>
-<td rowspan="3">қайтыс болғандар</td>
-<td rowspan="3">Науқастардың ауруханада жатып емделген күні</td>
-<td rowspan="3">соның ішінде ауыл тұрғындарының ауруханада жатып емделген күні</td>
+<td rowspan="2">Төсектердің бейіні</td>
+<td rowspan="2"></td>
+<td colspan="4">
+түскен науқастардан
+- 0-14 жастағы
+балалар
+</td>
+<td colspan="3">
+түскен науқастардан
+- 15-17 жасты қоса
+алғандағы балалар
+</td>
+<td colspan="3">шығарылды</td>
+<td colspan="3">қайтыс болды</td>
+<td colspan="3">
+Науқастар
+төсек-күн өткізді
+</td>
 </tr>
 <tr>
-<td colspan="2">Мамандандырылган көмек</td>
-<td colspan="2">Жоғары мамандандырылған медициналық көмек</td>
+<td colspan="2">аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
+<td>аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
+<td>аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
+<td>аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
+<td>аудандық</td>
+<td>оның ішінде ауылдық</td>
+<td>
+қалалық/
+облыстық
+</td>
 </tr>
 <tr>
-<td>Барлығы</td>
-<td>о..і. республикалық мекемелерде</td>
-<td>Барлығы</td>
-<td>о.і республикалық мекемелер</td>
-</tr>
-<tr>
+<th>А</th>
 <th>Б</th>
-<th>11</th>
-<th>12</th>
+<th colspan="2">12</th>
 <th>13</th>
 <th>14</th>
 <th>15</th>
@@ -1580,9 +4366,21 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <th>18</th>
 <th>19</th>
 <th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>24</th>
+<th>25</th>
+<th>26</th>
 </tr>
 <tr>
+<td>Жалпы</td>
 <td>01</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1595,7 +4393,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Терапиялық</td>
 <td>02</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1608,7 +4412,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған кардиологиялық</td>
 <td>03</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1621,7 +4431,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>04</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1634,7 +4450,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған гастроэнтерологиялық</td>
 <td>05</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1647,7 +4469,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>06</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1660,7 +4488,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған аллергологиялық</td>
 <td>07</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1673,7 +4507,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>08</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1686,7 +4526,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған эндокринологиялық</td>
 <td>09</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1699,7 +4545,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>10</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1712,7 +4564,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған инфекциялық</td>
 <td>11</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1725,7 +4583,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>12</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1738,7 +4602,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>ересектерге арналған гематологиялық</td>
 <td>13</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1751,7 +4621,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>14</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1764,7 +4640,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған нефрологиялық</td>
 <td>15</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1777,7 +4659,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>16</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1790,7 +4678,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған хирургиялық</td>
 <td>17</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1803,7 +4697,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>18</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1816,7 +4716,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Нәрестелерге арналған хирургиялық</td>
 <td>19</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1829,7 +4735,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған нейрохирургиялық</td>
 <td>20</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1842,7 +4754,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>21</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1855,7 +4773,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Нейротамырлы</td>
 <td>22</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1868,7 +4792,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған торакальды хирургия</td>
 <td>23</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1881,7 +4811,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>24</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1894,7 +4830,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған кардиохирургиялық</td>
 <td>25</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1907,7 +4849,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>26</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1920,7 +4868,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Тамыр хирургиясы</td>
 <td>27</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1933,7 +4887,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған травматологиялық</td>
 <td>28</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1946,7 +4906,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>29</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1959,7 +4925,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған (камбустиологиялық) күйіктік</td>
 <td>30</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1972,7 +4944,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>31</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1985,7 +4963,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған ортопедиялық</td>
 <td>32</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1998,7 +4982,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>33</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2011,7 +5001,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған урологиялық</td>
 <td>34</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2024,7 +5020,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>35</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2037,7 +5039,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>ересектерге арналған жақ-бет хирургиясы (стоматологиялық)</td>
 <td>36</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2050,7 +5058,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>37</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2063,7 +5077,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған онкологиялық</td>
 <td>38</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2076,7 +5096,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>39</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2089,7 +5115,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>оның ішінде маммологиялық (38 жолдан)</td>
 <td>40</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2102,7 +5134,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Жүкті және босанатын (жүктілік патологиясынан басқа) әйелдерге арналған</td>
 <td>41</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2115,7 +5153,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Жүктілік патологиясы</td>
 <td>42</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2128,7 +5172,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған гинекологиялық, абортты қоса алғанда</td>
 <td>43</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2141,7 +5191,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Балаларға арналған гинекологиялық, түсік түсіруді қоса алғанда</td>
 <td>44</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2154,7 +5210,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған туберкулездік, барлығы</td>
 <td>45</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2167,7 +5229,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>оның ішінде: өкпеден тыс, сүйек-буындары туберкулезін қоса, ересек науқастар үшін</td>
 <td>46</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2180,7 +5248,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>науқастарды мәжбүрлеп емдеу үшін</td>
 <td>47</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2193,7 +5267,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>туберкулездің дәріге тұрақты нысанымен сырқаттанған науқастар үшін</td>
 <td>48</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2206,7 +5286,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>туберкулездік хирургия</td>
 <td>49</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2219,7 +5305,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Балаларға арналған туберкулездік, барлығы</td>
 <td>50</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2232,20 +5324,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>соның ішінде: өкпеден тыс, сүйек-буындары туберкулезін қоса, науқас балалар үшін</td>
 <td>51</td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>52</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2258,20 +5343,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
-<td>53</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
+<td>Ересектерге арналған психиатриялық (психоневрологиялық)</td>
 <td>54</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2284,20 +5362,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>55</td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>56</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2310,20 +5381,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
-<td>57</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
+<td>Ересектерге арналған наркологиялық</td>
 <td>58</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2336,7 +5400,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>59</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2349,7 +5419,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Мәжбүрлеп емдеу үшін наркологиялық</td>
 <td>60</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2362,7 +5438,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған офтальмологиялық</td>
 <td>61</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2375,7 +5457,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>62</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2388,7 +5476,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған отоларингологиялық</td>
 <td>63</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2401,7 +5495,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>64</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2414,7 +5514,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған дерматовенерологиялық</td>
 <td>65</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2427,7 +5533,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>66</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2440,7 +5552,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Радиологиялық</td>
 <td>67</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2453,7 +5571,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Педиатриялық</td>
 <td>68</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2466,7 +5590,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Нәрестелердің патологиясы және шала туғандарды күту</td>
 <td>69</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2479,7 +5609,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Проктологиялық</td>
 <td>70</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2492,7 +5628,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған ревматологиялық</td>
 <td>71</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2505,7 +5647,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>72</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2518,7 +5666,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған іріңді хирургиялық</td>
 <td>73</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2531,7 +5685,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>74</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2544,7 +5704,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған пульмонологиялық</td>
 <td>75</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2557,7 +5723,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>76</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2570,7 +5742,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған токсикологиялық</td>
 <td>77</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2583,7 +5761,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>78</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2596,7 +5780,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған транспланталогия</td>
 <td>79</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2609,7 +5799,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>80</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2622,7 +5818,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Лепрологиялық</td>
 <td>81</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2635,7 +5837,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған реанимациялық</td>
 <td>82</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2648,7 +5856,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>83</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2661,7 +5875,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Инсульттік</td>
 <td>84</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2674,7 +5894,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Төсектердің жиыны</td>
 <td>85</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2687,7 +5913,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>оның ішінде балаларға арналған</td>
 <td>86</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2700,7 +5932,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Мейіргерлік күтім</td>
 <td>87</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2713,7 +5951,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Паллиативті көмек</td>
 <td>88</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2726,7 +5970,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Тамақтанумен күтім үшін</td>
 <td>89</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2739,7 +5989,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Тамақтанусыз күтім үшін</td>
 <td>90</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2752,7 +6008,16 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td colspan="18">Қалпына келтіру еміне және медициналық оңалтуға арналған төсектердің бейіндері</td>
+</tr>
+<tr>
+<td>Қалпына келтіріп емдеу және медициналық оңалту, барлығы</td>
 <td>91</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2765,7 +6030,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>оның ішінде балаларға арналған</td>
 <td>92</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2778,7 +6049,19 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td colspan="18">а) оның ішінде бейіндер бойынша ерте оңалту:</td>
+</tr>
+<tr>
+<td>
+Соның ішінде:
+Ересектерге арналған кардиологиялық
+</td>
 <td>93</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2791,7 +6074,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>94</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2804,7 +6093,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған кардиохирургиялық</td>
 <td>95</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2817,7 +6112,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>96</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2830,7 +6131,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған неврологиялық (психоневрологиялық)</td>
 <td>97</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2843,7 +6150,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>98</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2856,7 +6169,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған нейрохирургиялық</td>
 <td>99</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2869,7 +6188,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>100</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2882,7 +6207,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған травматологиялық</td>
 <td>101</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2895,7 +6226,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>102</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2908,7 +6245,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>Ересектерге арналған ортопедиялық</td>
 <td>103</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2921,7 +6264,13 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
+<td>балаларға арналған</td>
 <td>104</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2934,7 +6283,380 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 <td></td>
 </tr>
 <tr>
-<td>105</td>
+<td colspan="18">б) оның ішінде бейіндер бойынша кеш оңалту:</td>
+</tr>
+<tr>
+<td>
+Соның ішінде:
+Ересектерге арналған кардиологиялық
+</td>
+<td colspan="2">105</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td colspan="2">106</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған кардиохирургиялық</td>
+<td colspan="2">107</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td colspan="2">108</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған неврологиялық (психоневрологиялық)</td>
+<td colspan="2">109</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td colspan="2">110</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған нейрохирургиялық</td>
+<td colspan="2">111</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td colspan="2">112</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған травматологиялық</td>
+<td colspan="2">113</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td colspan="2">114</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ересектерге арналған ортопедиялық</td>
+<td colspan="2">115</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>балаларға арналған</td>
+<td colspan="2">116</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Төсектердің барлығы (85+87+88+89+90+91 жолдар)</td>
+<td colspan="2">117</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>оның ішінде балаларға арналған (86+92 жолдар)</td>
+<td colspan="2">118</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2001</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>Күн өткізілді</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>А</td>
+<td colspan="2">Б</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Стационарлық көмек көрсететін ұйымдардағы күндізгі стационарлар (бөлімшелер, палаталар)</td>
+<td colspan="2">01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Амбулаториялық-емханалық көмек көрсететін ұйымдардағы күндізгі стационарлар</td>
+<td colspan="2">02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Үйдегі стационарлар</td>
+<td colspan="2">03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2948,52 +6670,9 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td></td>
-<td>орын саны</td>
-<td>емделген науқастар</td>
-<td>соның ішінде қайтыс болғандар</td>
-<td>оның ішінде тәуліктік стационарға жолдама алғандары</td>
-<td></td>
-<td>Емделген күні</td>
-</tr>
-<tr>
-<td>стационарлық көмек көрсететін мекемедегі күндізгі стационарлар (бөлімдер, палаталар)</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>амбулаториялық-емханалық көмек көрсететін мекемелердегі күндізгі стационарлар</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>амбулаториялық-емханалық көмек көрсететін мекемелердегі күндізгі стационарлар</td>
-<td>03</td>
-<td>х</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
+Басшы __________________________________
 
-## Басшы______________________________
-
-Орындаушы_____________,телефон № ____ Күні 20 ____ жылғы «___» _____
+Орындаушы ______________________________, тел. ______________________
 
 > *Қазақстан Республикасы*  
 > *Денсаулық сақтау министрінің*  
@@ -4694,805 +8373,3 @@ source: https://zan.gov.kz/client/#!/doc/60893/kaz/12.09.2011
 5\. РСЭС- Қазақстан Республикасы Денсаулық
 
 сақтау министрлігіне – 15 қаңтарда ұсынады.
-
-## Жеке инфекциялық және паразиттік аурулар туралы есеп 20_____ жыл
-
-<table>
-<tr>
-<td rowspan="3">Аурулардың атауы</td>
-<td rowspan="3">Жолдың №</td>
-<td rowspan="3">Х қайта қараудың Халықаралықаурулар жүйесі бойынша шифры</td>
-<td colspan="3">Тіркелген аурулар</td>
-<td colspan="3">Оның ішінде ауылдық жерлерде</td>
-</tr>
-<tr>
-<td rowspan="2">Барлығы</td>
-<td colspan="2">Оның ішінде балалар</td>
-<td rowspan="2">Барлығы</td>
-<td colspan="2">Оның ішінде балалар</td>
-</tr>
-<tr>
-<td>0-14 жасты қосқанда</td>
-<td>15-17 жасты қосқанда</td>
-<td>0-14 жасты қосқанда</td>
-<td>15-17 жасты қосқанда</td>
-</tr>
-<tr>
-<th>А</th>
-<th>Б</th>
-<th>В</th>
-<th>1</th>
-<th colspan="2">2</th>
-<th>3</th>
-<th colspan="2">4</th>
-</tr>
-<tr>
-<td>Тырысқақ</td>
-<td>01</td>
-<td>А00</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Іш сүзегі</td>
-<td>02</td>
-<td>А01.0</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Паратиф А.В.С</td>
-<td>03</td>
-<td>А01.1-А01.4</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Іш сүзегі қоздырғыштарының пайда болуы</td>
-<td>04</td>
-<td>Z22.0</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Басқа да сальмонеллез жұқпалары</td>
-<td>05</td>
-<td>А02</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Бактериалық дизентерия барлығы, оның ішінде</td>
-<td>06</td>
-<td>А03</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Расталған бактериялық шигеллез</td>
-<td>07</td>
-<td>А03.1-А03.8</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Дизентерия қоздырғыштарының пайда болуы</td>
-<td>08</td>
-<td>Z22.1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Басқа да бактериялық ішек жұқпалары</td>
-<td>09</td>
-<td>А04-А04.8</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Нақтыланбаған бактериялық ішек жұқпалары</td>
-<td>10</td>
-<td>А04.9</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Ротавирустық энтерит</td>
-<td>11</td>
-<td>А08.0</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Энтероколитік иерсиниеден туындаған энтериттер</td>
-<td>12</td>
-<td>А04.6</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Функционалдық диарея</td>
-<td>13</td>
-<td>К15.1-15.9</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Басқа да бактериялық тағамнан уланулар</td>
-<td>14</td>
-<td>А05</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>оның ішінде ботулизм</td>
-<td>15</td>
-<td>А05.1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Оба</td>
-<td>16</td>
-<td>А20</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Туляремия</td>
-<td>17</td>
-<td>А21</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Күйдіргі</td>
-<td>18</td>
-<td>А22</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Бруцеллез, алғаш анықталған</td>
-<td>19</td>
-<td>А23</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Пастереллез</td>
-<td>20</td>
-<td>А28</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Лептоспироз</td>
-<td>21</td>
-<td>А27</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Листериоз</td>
-<td>22</td>
-<td>А32</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Легионерлер ауруы</td>
-<td>23</td>
-<td>А48</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Күл ауруы</td>
-<td>24</td>
-<td>А36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Күл ауруы қоздырғыштарының пайда болуы</td>
-<td>25</td>
-<td>Z22.2</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Көкжөтел</td>
-<td>26</td>
-<td>А37</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Скарлатина</td>
-<td>27</td>
-<td>А38</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Менингокок жұқпасы</td>
-<td>28</td>
-<td>А39</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Іріңді менингит</td>
-<td>29</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>B типті гемофилдік жұқпа</td>
-<td>30</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Жаңа туған нәрестенің сіреспесі</td>
-<td>31</td>
-<td>А33</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Сіреспенің басқа да нысандары</td>
-<td>32</td>
-<td>А35</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>АИТВ тудырған ауру</td>
-<td>33</td>
-<td>В20-В24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Адамдағы иммунотапшылық вирусы таратушылар (АИТВ)</td>
-<td>34</td>
-<td>Z21</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Жіті полиомиелит</td>
-<td>35</td>
-<td>А80</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Желшешек</td>
-<td>36</td>
-<td>В01</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Қызылша</td>
-<td>37</td>
-<td>В05</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Қызамық</td>
-<td>38</td>
-<td>В06</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Туа біткен қызамық белгісі</td>
-<td>39</td>
-<td>Р35.0</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Вирусты кене энцефалиті</td>
-<td>40</td>
-<td>А84</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Геморрагиялық қызба</td>
-<td>41</td>
-<td>А90-А99</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Барлық жіті вирусты гепатиттер</td>
-<td>42</td>
-<td>В15-В17.В19</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>оның ішінде Гепатит А</td>
-<td>43</td>
-<td>В15</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Гепатит В</td>
-<td>44</td>
-<td>В16</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Гепатит D</td>
-<td>45</td>
-<td>В17.0</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Гепатит С</td>
-<td>46</td>
-<td>В17.1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Гепатит Е</td>
-<td>47</td>
-<td>В17.2</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Созылмалы вирусты гепатиттер, алғаш анықталғандардың барлығы</td>
-<td>48</td>
-<td>В18.0-В18.9</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>оның ішінде дельтасы бар созылмалы вирусты гепатит В</td>
-<td>49</td>
-<td>В18.0</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>дельтасы жоқ созылмалы вирусты гепатит В</td>
-<td>50</td>
-<td>В18.1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>созылмалы вирусты гепатит С</td>
-<td>51</td>
-<td>В18.2</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Орнитоздар</td>
-<td>52</td>
-<td>А70</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Құтыру</td>
-<td>53</td>
-<td>А82</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Эпидемиологиялық паротит</td>
-<td>54</td>
-<td>В26</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Барлық риккетсиоздар:</td>
-<td>55</td>
-<td>А75-А79</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>оның ішінде індеттік бөртпе сүзегі</td>
-<td>56</td>
-<td>А75</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>кене бөртпе сүзегі</td>
-<td>57</td>
-<td>А75.3</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>КУ қызбасы</td>
-<td>58</td>
-<td>А78</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Алғаш анықталған безгек</td>
-<td>59</td>
-<td>В50-В54</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Безгек паразиттың пайда болуы</td>
-<td>60</td>
-<td>Z22.8</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Висцералды лейшманиоз</td>
-<td>61</td>
-<td>В55.0</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Тері лейшманиозы</td>
-<td>62</td>
-<td>В55.1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Эхинококкоз</td>
-<td>63</td>
-<td>В67</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Трихинеллез</td>
-<td>64</td>
-<td>В75</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Аскаридоз</td>
-<td>65</td>
-<td>В77</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Гименолепидоз</td>
-<td>66</td>
-<td>В71.1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Энтеробиоз</td>
-<td>67</td>
-<td>В80</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Басқа да трематодоздар</td>
-<td>68</td>
-<td>В66</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>оның ішінде описторхоз</td>
-<td>69</td>
-<td>В66.0</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Жоғарғы тыныс жолдарының анықталмаған жіті жұқпасы</td>
-<td>70</td>
-<td>J06.9</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Тұмау</td>
-<td>71</td>
-<td>J10-J11</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Тыныс алу мүшелері туберкулезі</td>
-<td>72</td>
-<td>А15,А16</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Мерез</td>
-<td>73</td>
-<td>А50-А53</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Қышыма</td>
-<td>74</td>
-<td>В86</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Биттегендік</td>
-<td>75</td>
-<td>В85</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Перинаталдық кезең үшін ерекшеленетін жұқпалы аурулар</td>
-<td>76</td>
-<td>Р36, 37, 39, 39.0, 39.1, 39.4, 39.8, 39.9.</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Босанғаннан кейінгі кезеңмен басым байланысты асқынулар</td>
-<td>77</td>
-<td>О85,86,86.0, 86.1, 86.8, 91.0-91.2</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Хирургиялық және терапиялық әрекеттерден болатын асқынулар</td>
-<td>78</td>
-<td>
-Т80.2,
-Т.81.4
-</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-</table>
-
-Жіті және созылмалы (алғаш анықталған) гепатиттердің ұштастырылған нысандары кезінде шифрларға сәйкес бөлек диагноздарды тіркеуді жүргізу керек.
-
-Басшы ______________________________________________________________
-
-Орындаушы ____________телефон №______ Күні 20 ___ жылғы «____»______
-
-Ақпарат алушы жарияламауға кепілдік береді
-
-Кім береді______________________________________
-
-ұйымның атауы және мекенжайы
-
-> *Қазақстан Республикасының*  
-> *Денсаулық сақтау министрінің*  
-> *2011 жылғы міндетін атқарушының*  
-> *12 қыркүйектегі № 616 бұйрығымен*  
-> *бекітілген 3-қосымша*  
-> *№ 7-нысан*  
-> *жылдық*
-
-## Әкімшілік деректерді жинауға арналған нысан «Халық денсаулығы және денсаулық сақтау жүйесі туралы» Қазақстан Республикасының кодексіне сәйкес ақпарат ұсынылады
-
-<table>
-<tr>
-<td>ТКЖК коды</td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>ҚҰЖК коды</td>
-<td></td>
-</tr>
-</table>
-
-Ұсынады:
-
-1\. Ауданның бас дәрігері және қалалық
-
-департамент - КҰЖК коды облыстық онкологиялық
-
-диспансерге - 5 каңтарда
-
-2\. Облыстық онкологиялық диспансер -
-
-облыстардың және Астана, Алматы қалаларының
-
-статистикалық департаменттері және Қазақ
-
-онкология және радиология ҒЗИ - 10 каңтарда
-
-3\. Қазақ онкология және радиология ҒЗИ -
-
-Қазақстан Респуликасы Денсаулық сақтау
-
-министрлігіне 10 ақпанда
-
-4\. Қазақстан Республикасы Денсаулық сақтау
-
-министрлігі - Қазақстан Республикасы
-
-Статистика Агенттігіне 1 сәуірде
