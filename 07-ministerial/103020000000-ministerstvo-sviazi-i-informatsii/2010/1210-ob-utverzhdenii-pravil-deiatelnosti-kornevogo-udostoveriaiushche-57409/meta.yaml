@@ -11,8 +11,10 @@ approved_on: 2010-12-10
 approved_by:
 - '103020000000'
 version_date:
-  kaz: 2010-12-10
-  rus: 2010-12-10
+  kaz: 2012-09-29
+  rus: 2012-09-29
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/57409/kaz/10.12.2010
-  rus: https://zan.gov.kz/client/#!/doc/57409/rus/10.12.2010
+  kaz: https://zan.gov.kz/client/#!/doc/57409/kaz/29.09.2012
+  rus: https://zan.gov.kz/client/#!/doc/57409/rus/29.09.2012
+caused_by:
+  code: A12I0003052
