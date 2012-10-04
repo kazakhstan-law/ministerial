@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/59407/rus/15.03.2012
+source: https://zan.gov.kz/client/#!/doc/59407/rus/04.10.2012
 ---
 
 ## Параграф 1. Порядок действий в аварийной обстановке
