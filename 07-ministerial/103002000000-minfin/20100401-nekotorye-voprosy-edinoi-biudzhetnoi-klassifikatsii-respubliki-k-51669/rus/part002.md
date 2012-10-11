@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/51669/rus/21.09.2012
+source: https://zan.gov.kz/client/#!/doc/51669/rus/11.10.2012
 ---
 
 ## Функциональная классификация расходов бюджета
