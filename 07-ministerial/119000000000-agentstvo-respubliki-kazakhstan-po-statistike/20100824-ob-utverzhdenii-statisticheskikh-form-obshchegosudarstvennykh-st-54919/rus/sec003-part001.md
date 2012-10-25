@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/54919/rus/01.01.2012
+source: https://zan.gov.kz/client/#!/doc/54919/rus/25.10.2012
 ---
 
 ## 1. Қатынас түрлері бойынша жолаушылар тасымалдау қызметтерінің көлемін көрсетіңіз
