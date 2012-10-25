@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/54805/kaz/01.01.2012
+source: https://zan.gov.kz/client/#!/doc/54805/kaz/25.10.2012
 ---
 
 ## 7. Қызметкерлер саны туралы мәліметтерді көрсетіңіз, адам
