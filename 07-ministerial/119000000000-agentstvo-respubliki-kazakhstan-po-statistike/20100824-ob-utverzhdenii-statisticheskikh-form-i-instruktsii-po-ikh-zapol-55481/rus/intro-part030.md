@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/55481/rus/01.01.2012
+source: https://zan.gov.kz/client/#!/doc/55481/rus/01.11.2012
 ---
 
 ## 6. Фонд заработной платы
