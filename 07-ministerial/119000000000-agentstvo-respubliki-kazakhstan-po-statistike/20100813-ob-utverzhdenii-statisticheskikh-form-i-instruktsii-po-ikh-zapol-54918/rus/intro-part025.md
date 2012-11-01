@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/54918/rus/13.08.2010
+source: https://zan.gov.kz/client/#!/doc/54918/rus/01.11.2012
 ---
 
 ## 2. Қызметтің негізгі және қайталама түрлері бөлінісіндегі, кәсіпорын шығыстары, мың теңге
