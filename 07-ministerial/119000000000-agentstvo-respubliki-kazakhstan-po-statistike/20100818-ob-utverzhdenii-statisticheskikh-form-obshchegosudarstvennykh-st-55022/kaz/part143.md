@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/55022/kaz/01.01.2012
+source: https://zan.gov.kz/client/#!/doc/55022/kaz/05.11.2012
 ---
 
 ## 3. Бетон жұмыстары түрлерінің бағасын көрсетіңіз, ҚҚС-сыз теңгемен
