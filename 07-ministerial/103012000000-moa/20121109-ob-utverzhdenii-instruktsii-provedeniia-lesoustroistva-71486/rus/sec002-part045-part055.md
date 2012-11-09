@@ -1,0 +1,4445 @@
+---
+part_of: ../rus.md
+source: https://zan.gov.kz/client/#!/doc/71486/rus/09.11.2012
+---
+
+## Древесные и кустарниковые породы, их полное название и индексы
+
+<table>
+<tr>
+<td>№</td>
+<td>
+Полное название древесных и кустарниковых
+пород
+</td>
+<td>
+Индекс
+рода древесных и кустарниковых пород
+</td>
+<td>Индекс основных видов древесных и кустарниковых пород</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+<tr>
+<th colspan="4">Основные лесообразующие породы</th>
+</tr>
+<tr>
+<th colspan="4">1. Хвойные</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Сосна (Pinus L.)</td>
+<td>С</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) С.обыкновенная (P.​silvestrisL.)</td>
+<td>-</td>
+<td>Со</td>
+</tr>
+<tr>
+<td></td>
+<td>2) С. Кедровая сибирская (кедр сибирский) (P.​Sibirica)</td>
+<td>К</td>
+<td>Кс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Ель (Picea)</td>
+<td>Е</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Е.обыкновенная (европейская) (P.​excelsa)</td>
+<td>-</td>
+<td>Ео</td>
+</tr>
+<tr>
+<td></td>
+<td>2) Е. Шренка (тянь-шаньская) (P.​schrenkiana)</td>
+<td>-</td>
+<td>ЕШ</td>
+</tr>
+<tr>
+<td></td>
+<td>3) Е. сибирская (P. abovata)</td>
+<td>-</td>
+<td>Ес</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Пихта (Abies)</td>
+<td>П</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) П. сибирская (A.​sibirica)</td>
+<td>-</td>
+<td>Пс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Лиственница (Larix)</td>
+<td>Л</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Л.сибирская (L. sibirica)</td>
+<td>-</td>
+<td>Лс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Арша (можжевельник) (Juniperus)</td>
+<td>Ар</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Ар. (туркестанская) (J.​turkestanica)</td>
+<td>-</td>
+<td>Арт</td>
+</tr>
+<tr>
+<td></td>
+<td>2) Ар. (зеравшанская) (J. seravschanica)</td>
+<td>-</td>
+<td>Арз</td>
+</tr>
+<tr>
+<td></td>
+<td>3) Ар. (полушаровидная) (J.​semiglobosa)</td>
+<td>-</td>
+<td>Арп</td>
+</tr>
+<tr>
+<th colspan="4">2. Твердолиственные</th>
+</tr>
+<tr>
+<td>6</td>
+<td>Дуб (QuercusL.)</td>
+<td>Д</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Д. черешчатый (Q. robur)</td>
+<td>-</td>
+<td>Дч</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Ясень(Fraxinus L.)</td>
+<td>Я</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Я.обыкновенный (высокий) (F. excelsior)</td>
+<td>-</td>
+<td>Яо</td>
+</tr>
+<tr>
+<td></td>
+<td>2) Я. чарынский (согдианский) (F. sogdiana)</td>
+<td>-</td>
+<td>Яч</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Клен (Acer)</td>
+<td>Кл</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) К.остролистый (платановидный)( A. platanoides)</td>
+<td>-</td>
+<td>Кло</td>
+</tr>
+<tr>
+<td></td>
+<td>2) К.ясенелистый(американский) (A. negundoL.)</td>
+<td>-</td>
+<td>Кля</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Вяз (Ильм) (Ulmus)</td>
+<td>Вз</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Вз. шершавый (U. scabra)</td>
+<td>-</td>
+<td>Взш</td>
+</tr>
+<tr>
+<td></td>
+<td>2) Вз. гладкий ( U. laevis)</td>
+<td>-</td>
+<td>Взг</td>
+</tr>
+<tr>
+<td></td>
+<td>3) Вз. Перисто-ветвистый (U. pinnato-ramosa)</td>
+<td>-</td>
+<td>Взп</td>
+</tr>
+<tr>
+<th colspan="4">3. Мягколиственные</th>
+</tr>
+<tr>
+<td>10</td>
+<td>Береза (Betula)</td>
+<td>Б</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Б.бородавчатая (повислая) (B. pendula)</td>
+<td>-</td>
+<td>Бб</td>
+</tr>
+<tr>
+<td></td>
+<td>2) Б. тянь-шаньская (B. tianschanica)</td>
+<td>-</td>
+<td>Бт</td>
+</tr>
+<tr>
+<td></td>
+<td>3) Б.мелколистая (B. microphylla)</td>
+<td>-</td>
+<td>Бм</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>Липа (Tilia)</td>
+<td>Лп</td>
+<td>Лп</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Л. мелколистная (T. cordata)</td>
+<td></td>
+<td>Лпм</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Осина (Tremula)</td>
+<td>Ос</td>
+<td>Осо</td>
+</tr>
+<tr>
+<td></td>
+<td>1) О.обыкновенная (P.​tremula)</td>
+<td>-</td>
+<td>Осо</td>
+</tr>
+<tr>
+<td></td>
+<td>2) О. ложная (P.​pseudotremula)</td>
+<td>-</td>
+<td>Осл</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>Тополь (Populus)</td>
+<td>Т</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Т.сизолистный (P. pruinosa)</td>
+<td>-</td>
+<td>Тс</td>
+</tr>
+<tr>
+<td></td>
+<td>2) Т.черный (осокорь) (P. nigra)</td>
+<td>-</td>
+<td>Тч</td>
+</tr>
+<tr>
+<td></td>
+<td>3) Т. пирамидальный (P. piramidalis)</td>
+<td>-</td>
+<td>Тп</td>
+</tr>
+<tr>
+<td></td>
+<td>4) Т.лавролистый ( P. laurifolia)</td>
+<td>-</td>
+<td>Тл</td>
+</tr>
+<tr>
+<td></td>
+<td>5) Т.густолиственный (P. densa)</td>
+<td>-</td>
+<td>Тг</td>
+</tr>
+<tr>
+<td></td>
+<td>6) Т. белый, серебристый (P. alba)</td>
+<td></td>
+<td>Тб</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Ива (Salix)</td>
+<td>Ив</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) И.козья (бредина) (S. caprea)</td>
+<td>-</td>
+<td>Ивкз</td>
+</tr>
+<tr>
+<td></td>
+<td>2) И.дрожащая (S.​micans)</td>
+<td>-</td>
+<td>Ивд</td>
+</tr>
+<tr>
+<td></td>
+<td>3) И. ломкая (S. fragilis)</td>
+<td>-</td>
+<td>Ивл</td>
+</tr>
+<tr>
+<td></td>
+<td>4) И.джунгарская (S.​Songarica)</td>
+<td>-</td>
+<td>Ивдж</td>
+</tr>
+<tr>
+<td></td>
+<td>5) И.пятитычинковая (S. pentandra)</td>
+<td>-</td>
+<td>Ивп</td>
+</tr>
+<tr>
+<td></td>
+<td>6) И.южная (S. australior )</td>
+<td>-</td>
+<td>Ивю</td>
+</tr>
+<tr>
+<td></td>
+<td>7) И. белая (ветла) (Salixalba)</td>
+<td>-</td>
+<td>Ивб</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>Ольха (Alnus)</td>
+<td>Ол</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) О.серая (белая) (A.​incana)</td>
+<td>-</td>
+<td>Олс</td>
+</tr>
+<tr>
+<td></td>
+<td>2) О. черная (клейкая) (A. glutinosa)</td>
+<td>-</td>
+<td>Олч</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="4">4. Саксаульники</th>
+</tr>
+<tr>
+<td>16</td>
+<td>Саксаул (Haloxylon)</td>
+<td>Ск</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) С.белый (H.​persicum)</td>
+<td>-</td>
+<td>Скб</td>
+</tr>
+<tr>
+<td></td>
+<td>2) С.черный (H.​aphyllum)</td>
+<td>-</td>
+<td>Скч</td>
+</tr>
+<tr>
+<td></td>
+<td>3) С.зайсанский (H.​ammodendron)</td>
+<td>-</td>
+<td>Скз</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="4">5. Прочие древесные породы</th>
+</tr>
+<tr>
+<td>17</td>
+<td>Абрикос обыкновенный (Armeniaca vulgaris)</td>
+<td>Абр</td>
+<td>Абро</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>Акация белая (Робиния лжеакация)(Robinia pseudoacacia)</td>
+<td>Аб</td>
+<td>Аб</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td>Боярышник (Crataegus)</td>
+<td>Боя</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>1) Б. алтайский (C. altaica)</td>
+<td>-</td>
+<td>Бояа</td>
+</tr>
+<tr>
+<td></td>
+<td>2) Б. алма-aтинский (C. almaatensis)</td>
+<td>-</td>
+<td>Бояат</td>
+</tr>
+<tr>
+<td></td>
+<td>3) Б. сонгарский (C. songarica)</td>
+<td>-</td>
+<td>Бояс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td>Вишня (Cerasus)</td>
+<td>Вш</td>
+<td>Вш</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td>Гледичия обыкновенная (Gleditschia triacanthos)</td>
+<td>Гл</td>
+<td>Гло</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td>Груша Регеля (Pyrus Regelii)</td>
+<td>Гш</td>
+<td>ГшР</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td>Иргаканадская (Amelanchier canadensis)</td>
+<td>Ирк</td>
+<td>Ирк</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td>Каркаскавказский (Celtis caucasica)</td>
+<td>Крк</td>
+<td>Кркк</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td>КленСеменова (Acer Semenovii)</td>
+<td>Кл</td>
+<td>КлС</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td>Клен татарский (черноклен) (A. tataricum)</td>
+<td>Кл</td>
+<td>Клт</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>27</td>
+<td>Лох (Elaeagnus)</td>
+<td>Лх</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Л. остроплодный (E.​oxycarpa)</td>
+<td>-</td>
+<td>Лхо</td>
+</tr>
+<tr>
+<td></td>
+<td>2) Л. серебристый (E.​argentea)</td>
+<td>-</td>
+<td>Лхс</td>
+</tr>
+<tr>
+<td></td>
+<td>3) Л. илийский (E.​iliensis )</td>
+<td>-</td>
+<td>Лхи</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>28</td>
+<td>Миндаль обыкновенный (Amygdalus communis )</td>
+<td>Мн</td>
+<td>Мно</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>29</td>
+<td>Орехгрецкий (Juglans regia)</td>
+<td>Ор</td>
+<td>Орг</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>30</td>
+<td>Персик (Persica)</td>
+<td>Пер</td>
+<td>Пер</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>31</td>
+<td>Рябина (Sorbus)</td>
+<td>Р</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Р. сибирская (S. sibirica)</td>
+<td>-</td>
+<td>Рс</td>
+</tr>
+<tr>
+<td></td>
+<td>2) Р. тянь-шаньская (S.​tianschanica)</td>
+<td>-</td>
+<td>Рт</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>32</td>
+<td>Слива (Prunus)</td>
+<td>Сл</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>1) Слива согдийская (P.​sogdiana)</td>
+<td>-</td>
+<td>Слс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>33</td>
+<td>Туранга (тополь разнолистный) (P.​diversifolia)</td>
+<td>Тр</td>
+<td>Тр</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>34</td>
+<td>Черемуха обыкновенная (Padus racemosa)</td>
+<td>Чр</td>
+<td>Чро</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Фисташка настоящая (Pistacia. vera)</td>
+<td>Фс</td>
+<td>Фсн</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Шелковица (Morus)</td>
+<td>Ш</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Ш.белая (M. alba)</td>
+<td>-</td>
+<td>Шб</td>
+</tr>
+<tr>
+<td></td>
+<td>2) Ш.черная (M. nigra)</td>
+<td>-</td>
+<td>Шч</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Яблоня (Malus)</td>
+<td>Яб</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Я.киргизов (M. kirghisorum)</td>
+<td>-</td>
+<td>Ябк</td>
+</tr>
+<tr>
+<td></td>
+<td>2) Я. Сиверса (M. Sieversii)</td>
+<td>-</td>
+<td>ЯбС</td>
+</tr>
+<tr>
+<td></td>
+<td>3) Я. Недзвецкого (M. Niedzwetzkyana)</td>
+<td>-</td>
+<td>ЯбН</td>
+</tr>
+<tr>
+<th colspan="4">6. Кустарники</th>
+</tr>
+<tr>
+<td>38</td>
+<td>Абелия щитковидная (Abelia corymbosa)</td>
+<td>Абщ</td>
+<td>Абщ</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Астрагал (Astragalus)</td>
+<td>Аст</td>
+<td>Аст</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>40</td>
+<td>Акация (Acacia)</td>
+<td>Ак</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1)А.желтая (карагана древовидная)(Caraganaarborescens)</td>
+<td>-</td>
+<td>Аж</td>
+</tr>
+<tr>
+<td></td>
+<td>2) А.песчаная (аммодендрон)(Ammodendron)</td>
+<td>-</td>
+<td>Ап</td>
+</tr>
+<tr>
+<td>41</td>
+<td>Барбарис (Berberis)</td>
+<td>Бар</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Б.сибирский (sibirica)</td>
+<td>-</td>
+<td>Барс</td>
+</tr>
+<tr>
+<td></td>
+<td>2) Б. обыкновенный (B. vulgaris)</td>
+<td>-</td>
+<td>Баро</td>
+</tr>
+<tr>
+<td></td>
+<td>3) Б. илийский (B.​iliensis)</td>
+<td>-</td>
+<td>Бари</td>
+</tr>
+<tr>
+<td></td>
+<td>4) Б. разноножковый (B. heteropoda)</td>
+<td>-</td>
+<td>Барр</td>
+</tr>
+<tr>
+<td>42</td>
+<td>Бересклет (Euonymus)</td>
+<td>Бр</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Б. Семенова (E.​Semenovii)</td>
+<td>-</td>
+<td>БрС</td>
+</tr>
+<tr>
+<td></td>
+<td>2) Б.Коопмана (E.​Koopmanii)</td>
+<td>-</td>
+<td>БрК</td>
+</tr>
+<tr>
+<td>43</td>
+<td>Береза кустарниковая (Betula)</td>
+<td>Брк</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Б.низкая (B. humilis)</td>
+<td>-</td>
+<td>Бркн</td>
+</tr>
+<tr>
+<td></td>
+<td>2) Б.круглолистая (B.​rotundifolia)</td>
+<td>-</td>
+<td>Бркк</td>
+</tr>
+<tr>
+<td>44</td>
+<td>Боярышник кроваво-красный (Crataegussanguinea)</td>
+<td>Бояк</td>
+<td>Бояк</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>45</td>
+<td>Бузина кистистая (обыкновенная) (Sambucusracemosa)</td>
+<td>Бз</td>
+<td>Бзк</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>46</td>
+<td>Вишня (Cerasus)</td>
+<td>Вшк</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>1) В.кустарниковая (C. fruticosa)</td>
+<td>-</td>
+<td>Вшнк</td>
+</tr>
+<tr>
+<td></td>
+<td>2) В.войлочная (C. tomentosa)</td>
+<td>-</td>
+<td>Вшнв</td>
+</tr>
+<tr>
+<td></td>
+<td>3) В.красноплодная (C. eruthrocarpa)</td>
+<td>-</td>
+<td>Вшнкр</td>
+</tr>
+<tr>
+<td></td>
+<td>4) В. тянь-шаньская (C. tianschanica)</td>
+<td>-</td>
+<td>Вшнт</td>
+</tr>
+<tr>
+<td>47</td>
+<td>Гребенщик (тамарикс) (Tamarix)</td>
+<td>Гр</td>
+<td>Гр</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>48</td>
+<td>Жестер слабительный (Rhamnus cathartica)</td>
+<td>Жес</td>
+<td>Жес</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>49</td>
+<td>Жимолость (Lonicera)</td>
+<td>Ж</td>
+<td>Ж</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>50</td>
+<td>Жузгун (Calligonum)</td>
+<td>Жз</td>
+<td>Жз</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>51</td>
+<td>Ива кустарниковая (Salix)</td>
+<td>Ивк</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1)И.сухолюбивая (S. xerophila)</td>
+<td>-</td>
+<td>Ивксх</td>
+</tr>
+<tr>
+<td></td>
+<td>2) И.илийская (S. iliensis)</td>
+<td>-</td>
+<td>Ивки</td>
+</tr>
+<tr>
+<td></td>
+<td>3) И.крупноножковая (S. macropoda)</td>
+<td>-</td>
+<td>Ивккн</td>
+</tr>
+<tr>
+<td></td>
+<td>4) И.прутовидная (корзиночная) ( S. viminalis)</td>
+<td>-</td>
+<td>Ивкпв</td>
+</tr>
+<tr>
+<td></td>
+<td>5) И.серебристобелая (S. argyracea)</td>
+<td>-</td>
+<td>Ивксб</td>
+</tr>
+<tr>
+<td></td>
+<td>6) И.пурпурная (желтолозник) (S. purpurea)</td>
+<td>-</td>
+<td>Ивкпр</td>
+</tr>
+<tr>
+<td></td>
+<td>7) И.Вильгельмса (S. Wilhelmsiana)</td>
+<td>-</td>
+<td>ИвкВ</td>
+</tr>
+<tr>
+<td></td>
+<td>8) И.остролистая (шелюга,краснотал, верба красная) (S. acutifoliawilld)</td>
+<td>-</td>
+<td>Ивкол</td>
+</tr>
+<tr>
+<td></td>
+<td>9) И.трехтычинковая (белотал) (S. triandra)</td>
+<td>-</td>
+<td>Ивктч</td>
+</tr>
+<tr>
+<td></td>
+<td>10) И.пятитычинковая (чернотал) (S. pentandra)</td>
+<td>-</td>
+<td>Ивкпт</td>
+</tr>
+<tr>
+<td></td>
+<td>11) И. козья, бредина (S. caprea)</td>
+<td></td>
+<td>Иквк</td>
+</tr>
+<tr>
+<td>52</td>
+<td>Ирга колосистая (Amelanchier spicata)</td>
+<td>Ир</td>
+<td>Ирк</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>53</td>
+<td>Калина обыкновенная (Viburnum opulus)</td>
+<td>Клн</td>
+<td>Клон</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>54</td>
+<td>Карагана (Caragana)</td>
+<td>Крг</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) К.чилига (дереза) (C. frutex)</td>
+<td>-</td>
+<td>Кргч</td>
+</tr>
+<tr>
+<td></td>
+<td>2) К.Камилла Шнейдера (C. CamilliSchneideri)</td>
+<td>-</td>
+<td>КргК</td>
+</tr>
+<tr>
+<td></td>
+<td>3) К.красивая (C. laeta)</td>
+<td>-</td>
+<td>Кргк</td>
+</tr>
+<tr>
+<td></td>
+<td>4) К.крупноцветковая (C. grandiflora)</td>
+<td>-</td>
+<td>Кргкр</td>
+</tr>
+<tr>
+<td></td>
+<td>5) К.балхашская (C. balchaschensis)</td>
+<td>-</td>
+<td>Кргб</td>
+</tr>
+<tr>
+<td></td>
+<td>6) К.низкорослая (C.​pumila)</td>
+<td>-</td>
+<td>Кргн</td>
+</tr>
+<tr>
+<td></td>
+<td>7) К.белокорая (C. leucophloea)</td>
+<td>-</td>
+<td>Кргбк</td>
+</tr>
+<tr>
+<td>55</td>
+<td>Кедровый стланик</td>
+<td>Кст</td>
+<td>Кст</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>56</td>
+<td>Кизильник (Cotoneaster medic)</td>
+<td>Кз</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) К. черноплодный (C. melonocarpa)</td>
+<td>-</td>
+<td>Кзч</td>
+</tr>
+<tr>
+<td></td>
+<td>2) К.одноцветковый (C. uniflora)</td>
+<td>-</td>
+<td>Кзо</td>
+</tr>
+<tr>
+<td></td>
+<td>3) К.малоцветковый (C. oligantha)</td>
+<td>-</td>
+<td>Кзм</td>
+</tr>
+<tr>
+<td></td>
+<td>4) К.многоцветковый (C. multiflora)</td>
+<td>-</td>
+<td>Кзмц</td>
+</tr>
+<tr>
+<td>57</td>
+<td>Крушина ольховидная (ломкая) (Frangula alnus Mill.)</td>
+<td>Кр</td>
+<td>Кро</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>58</td>
+<td>Крыжовник игольчатый (Grossularia acicularis)</td>
+<td>Крж</td>
+<td>Кржи</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>59</td>
+<td>Курчавка (Atraphaxis)</td>
+<td>Кур</td>
+<td>Кур</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>60</td>
+<td>Курильский чай (Dasiphora Raf.)</td>
+<td>Кч</td>
+<td>Кч</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>61</td>
+<td>Можжевельник (кустарник) (Juniperus)</td>
+<td>Мж</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Можжевельник казацкий (J. sabina)</td>
+<td>-</td>
+<td>Мжк</td>
+</tr>
+<tr>
+<td></td>
+<td>2) Можжевельник сибирский (J. sibirica)</td>
+<td>-</td>
+<td>Мжс</td>
+</tr>
+<tr>
+<td>62</td>
+<td>Малина обыкновенная (Rubus idaeus)</td>
+<td>Мл</td>
+<td>Мло</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>63</td>
+<td>Миндаль (Amygdalus)</td>
+<td>Мнд</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) М.низкий (степной,бобовник) (A. nana)</td>
+<td>-</td>
+<td>Мндн</td>
+</tr>
+<tr>
+<td></td>
+<td>2) М.Ледебура (A. Ledebouriana)</td>
+<td>-</td>
+<td>МндЛ</td>
+</tr>
+<tr>
+<td></td>
+<td>3) М.колючейший (бадам) (A. spinosissima)</td>
+<td>-</td>
+<td>Мндк</td>
+</tr>
+<tr>
+<td>64</td>
+<td>Облепиха крушиновая (Hippophae rhamnoides)</td>
+<td>Об</td>
+<td>Обк</td>
+</tr>
+<tr>
+<td>65</td>
+<td>Персик (Persica)</td>
+<td>Прс</td>
+<td>Прс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>66</td>
+<td>Сарсазан шишковатый (Halocnemum strobilaceum)</td>
+<td>Срс</td>
+<td>Срсш</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>67</td>
+<td>Селитрянка (Nitraria)</td>
+<td>Слт</td>
+<td>Слт</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>68</td>
+<td>Смородина (Ribes)</td>
+<td>См</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) С. щетинистая (кислица) (R. hispidulum)</td>
+<td>-</td>
+<td>Смк</td>
+</tr>
+<tr>
+<td></td>
+<td>2) С. Мейера (R. Meyeri)</td>
+<td>-</td>
+<td>СмМ</td>
+</tr>
+<tr>
+<td></td>
+<td>3) С. темно-пурпуровая (R. atropurpureum)</td>
+<td>-</td>
+<td>Смтп</td>
+</tr>
+<tr>
+<td></td>
+<td>4) С. золотая (R. aureum)</td>
+<td>-</td>
+<td>Смз</td>
+</tr>
+<tr>
+<td></td>
+<td>5) С. черная (R. nigrum)</td>
+<td>-</td>
+<td>Смч</td>
+</tr>
+<tr>
+<td></td>
+<td>6) С. скальная (каменная) (R. saxatile)</td>
+<td>-</td>
+<td>Смс</td>
+</tr>
+<tr>
+<td>69</td>
+<td>Сирень (Suringa)</td>
+<td>Сир</td>
+<td>Сир</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>70</td>
+<td>Солянкадревовидная (Salsola dendroides)</td>
+<td>Слн</td>
+<td>Слнд</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>71</td>
+<td>Солянка Рихтера (черкез) (S. Richteri)</td>
+<td>Ч</td>
+<td>Ч</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>72</td>
+<td>Соляноколосник Белянже (Карабарак) (Halostachys Belangeriana)</td>
+<td>Крб</td>
+<td>Крб</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>73</td>
+<td>Таволга (Spireae)</td>
+<td>Тв</td>
+<td>Тв</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>74</td>
+<td>Терескен (Eurotia)</td>
+<td>Трс</td>
+<td>Трс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>75</td>
+<td>Терн (слива колючая) (Prunusspinosa)</td>
+<td>Трн</td>
+<td>Трн</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>76</td>
+<td>Эфедра (хвойник) (Ephedra)</td>
+<td>Эф</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Э.средняя (E. intermedia)</td>
+<td>-</td>
+<td>Эфс</td>
+</tr>
+<tr>
+<td></td>
+<td>2) Э.двухколосrовая ( E. distachya)</td>
+<td>-</td>
+<td>Эфд</td>
+</tr>
+<tr>
+<td></td>
+<td>3) Э. хвощевая ( E. eduisetina)</td>
+<td>-</td>
+<td>Эфх</td>
+</tr>
+<tr>
+<td>77</td>
+<td>Чингильсеребристый (Halimodendron. halodendron)</td>
+<td>Чн</td>
+<td>Чнс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>78</td>
+<td>Шиповник (роза) (Roza)</td>
+<td>Шп</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>1) Ш.Беггера (R.​Beggeriana)</td>
+<td>-</td>
+<td>ШпБ</td>
+</tr>
+<tr>
+<td></td>
+<td>2) Ш. илийский (R.​iliensis)</td>
+<td>-</td>
+<td>Шпи</td>
+</tr>
+<tr>
+<td></td>
+<td>3) Ш.Альберта (R. Alberti)</td>
+<td>-</td>
+<td>ШпА</td>
+</tr>
+<tr>
+<td></td>
+<td>4) Ш.рыхлый (R. laxaRetz.)</td>
+<td>-</td>
+<td>Шпр</td>
+</tr>
+<tr>
+<td></td>
+<td>5) Ш.щитконосный (R. corymbifera)</td>
+<td>-</td>
+<td>Шпщ</td>
+</tr>
+<tr>
+<td></td>
+<td>6) Ш.коричный (R. Cinnamomea)</td>
+<td>-</td>
+<td>Шпк</td>
+</tr>
+<tr>
+<td></td>
+<td>7) Ш.гололистый (R. glabrifolia)</td>
+<td>-</td>
+<td>Шпг</td>
+</tr>
+<tr>
+<td></td>
+<td>8) Ш.Павлова (R. Pavlovii)</td>
+<td>-</td>
+<td>ШпП</td>
+</tr>
+<tr>
+<td></td>
+<td>9) Ш.иглистый (R. acicularis)</td>
+<td>-</td>
+<td>Шпиг</td>
+</tr>
+<tr>
+<td></td>
+<td>10) Ш.колючейший (R. spinosissima)</td>
+<td>-</td>
+<td>Шпкл</td>
+</tr>
+<tr>
+<td></td>
+<td>11) Ш. широкошипый (R. platyacantha)</td>
+<td>-</td>
+<td>Шпш</td>
+</tr>
+</table>
+
+Названия основных видов древесных и кустарниковых пород заимствованы из книги доктора биологических наук, профессора
+
+А. М. Мушегяна «Деревья и кустарники Казахстана», том I, Казахское государственное издательство сельскохозяйственной литературы, 1962, том II, Кайнар, 1966.
+
+> *Приложение 15*  
+> *к Инструкции проведения*  
+> *лесоустройства*
+
+форма
+
+Область_____________________________________________
+
+Лесное учреждение___________________________________
+
+Лесничество_________________________________________
+
+## Ведомость полевого учета и согласования лесных культур при таксации
+
+## Лесоустройство 20_________года
+
+Составил: специалист________________________________________________
+
+Проверил: начальник лесоустроительной партии _______________________
+
+(Ф.И.О., подпись )
+
+Согласовано: лесничий_______________________________________________
+
+(Ф.И.О., подпись )
+
+Утверждаю: директор (заместитель директора)
+
+лесного учреждения __________________________
+
+(Ф.И.О., подпись )
+
+Дата подписания____________________________20____год
+
+<table>
+<tr>
+<td>Причины гибели культур</td>
+<td>(Шифр)</td>
+</tr>
+<tr>
+<td>Засуха</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Засоление</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Заморозки</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Ливни</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Оползни</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Вымокание</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Несоблюдение агротехники</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Неудовлетворительное качество работ</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Некачественный посадочный материал</td>
+<td>9</td>
+</tr>
+<tr>
+<td>Повреждение механизмами</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Потравы дикими животными</td>
+<td>11</td>
+</tr>
+<tr>
+<td>Потравы домашним скотом</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Повреждения грызунами</td>
+<td>13</td>
+</tr>
+<tr>
+<td>Повреждения энтомовредителями</td>
+<td>14</td>
+</tr>
+<tr>
+<td>Повреждения грибными заболеваниями</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Повреждения пожарами</td>
+<td>16</td>
+</tr>
+<tr>
+<td>Несоответствие условий местопроизрастания</td>
+<td>17</td>
+</tr>
+<tr>
+<td>Отсутствие уходов</td>
+<td>18</td>
+</tr>
+<tr>
+<td>Нерайонированный посадочный материал</td>
+<td>19</td>
+</tr>
+</table>
+
+> *Оборотная сторона приложения 15*  
+> *к Инструкции проведения лесоустройства*
+
+<table>
+<tr>
+<td rowspan="3">
+№
+квартала
+</td>
+<td rowspan="3">
+№
+выдела
+</td>
+<td colspan="8">Создано лесных культур по данным лесного учреждения</td>
+<td rowspan="3">Причины гибели лесных культур (шифр)</td>
+</tr>
+<tr>
+<td rowspan="2">главная порода</td>
+<td rowspan="2">год производства</td>
+<td colspan="6">площадь,гектар</td>
+</tr>
+<tr>
+<td>всего</td>
+<td>переведено в покрытые лесом угодья полнота</td>
+<td>осталось не сомкнувшимися приживаемость, %</td>
+<td>под пологом леса приживаемость, %</td>
+<td>списано по актам</td>
+<td>создано за границей лесного учреждения</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="3">
+№
+квартала
+</td>
+<td rowspan="3">
+№
+выдела
+</td>
+<td colspan="7">Учтено лесных культур лесоустройством</td>
+<td rowspan="3">Причины гибели лесных культур (шифр)</td>
+<td rowspan="3">Примечание</td>
+</tr>
+<tr>
+<td rowspan="2">главная порода</td>
+<td rowspan="2">год производства</td>
+<td colspan="5">площадь, гектар</td>
+</tr>
+<tr>
+<td>всего</td>
+<td>переведено в покрытые лесом угодья полнота</td>
+<td>
+осталось не сомкнувшимися приживаемость,
+%
+</td>
+<td>под пологом леса приживаемость, %</td>
+<td>не списанные лесным учреждением приживаемость, 25% и ниже</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+> *Приложение 16*  
+> *к Инструкции проведения*  
+> *лесоустройства*
+
+форма
+
+> *Приложение 17*  
+> *к Инструкции проведения*  
+> *лесоустройства*
+
+форма
+
+## КАРТОЧКА ОБСЛЕДОВАНИЯ ЕСТЕСТВЕННОГО ВОЗОБНОВЛЕНИЯЛЕСА
+
+______________________область___________________ лесное учреждение
+
+______________________________________________________лесничество
+
+Квартал №_________ Выдел №___________ Площадь, га____________________
+
+Характеристикавыдела
+
+1\. Состав насаждения __________________ 2. Возраст, лет______________
+
+3\. Класс бонитета__________________ 4. Полнота_______________________
+
+5\. Группа типов леса, тип условий местопроизрастания_________________
+
+6.Рельеф_____________________________________________________________
+
+7.Экспозиция, крутизна________________ 8. Почвы______________________
+
+9\. Степень задернения_____________ 10.Захламленность, м3/га__________
+
+11\. Подрост.: состав __________, тыс.штук/га _________ высота, м_____
+
+возраст, лет________12.Подлесок: состав _________, тыс. штук/га______
+
+высота, м__________
+
+Характеристика хозяйственной деятельности
+
+13\. Способ рубки_________________14. Ширина лесосеки, м______________
+
+15\. Срок примыкания, лет________ 16. Способ трелевки_________________
+
+17.Способ очистки лесосеки___________18.Наличие хозяйственно-ценных деревьев на обсл. участке (шт/га по породам),________________________
+
+из них семенников __________________, недорубов _____________________
+
+19.Размещение имеющихся деревьев (равномерное, куртинное)____________
+
+20\. Выполненные мероприятия, их давность (лет), эффективность
+
+____________________________________________________________________
+
+Характеристика и результаты учетных работ
+
+21.Количество учетных площадок на участке, штук _________на 1 га_____
+
+22.Размер учетной площадки, м2_____ 23.Обследовано, м2______%________
+
+24.Характеристика обследованного возобновления (подроста):
+
+состав__________ средний возраст, лет_______ средняя высота, м_______
+
+тыс. штук/га________ полнота ______ размещение и состояние___________
+
+25.Сохранность хозяйственно-ценного подроста при рубке, %____________
+
+26\. Выводы и оценка:_________________________________________________
+
+27\. Хозяйственное распоряжение_______________________________________
+
+Схематический чертеж обследуемого участка и расположения на нем учетных площадок
+
+Особенности участка и краткий анализ результатов обследования
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+Специалист ____________________________________________________
+
+(Ф.И.О., подпись)
+
+Дата «_____»_______________20___год_____________________________
+
+Проверил_______________________________________________________
+
+(Ф.И.О., подпись)
+
+## Перечетная ведомость возобновления древесных и кустарниковых пород на учетных площадках
+
+<table>
+<tr>
+<td rowspan="5">№ учетных площадок</td>
+<td colspan="9">Семенное возобновление</td>
+<td colspan="3">Возобновление от пня</td>
+</tr>
+<tr>
+<td colspan="3">порода_______</td>
+<td colspan="3">порода_______</td>
+<td colspan="3">порода_______</td>
+<td colspan="3">порода_______</td>
+</tr>
+<tr>
+<td colspan="3">возраст_______</td>
+<td colspan="3">возраст_______</td>
+<td colspan="3">возраст_______</td>
+<td colspan="3">возраст_______</td>
+</tr>
+<tr>
+<td colspan="3">высота, м</td>
+<td colspan="3">высота, м</td>
+<td colspan="3">высота, м</td>
+<td colspan="3">высота, м</td>
+</tr>
+<tr>
+<td>
+до
+0,5
+</td>
+<td>0,6-1,5</td>
+<td>
+более
+1,5
+</td>
+<td>
+до
+0,5
+</td>
+<td>0,6-1,5</td>
+<td>
+более
+1,5
+</td>
+<td>
+до
+0,5
+</td>
+<td>0,6-1,5</td>
+<td>
+более
+1,5
+</td>
+<td>
+до
+0,5
+</td>
+<td>0,6-1,5</td>
+<td>
+более
+1,5
+</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Количество экземпляров, штук
+
+<table>
+<tr>
+<td colspan="3">Возобновление от пня</td>
+<td colspan="6">Корневые отпрыски</td>
+<td colspan="4">Подлесочные породы</td>
+</tr>
+<tr>
+<td colspan="3">порода_______</td>
+<td colspan="3">порода_______</td>
+<td colspan="3">порода_______</td>
+<td rowspan="4">порода</td>
+<td rowspan="4">штук</td>
+<td rowspan="4">порода</td>
+<td rowspan="4">штук</td>
+</tr>
+<tr>
+<td colspan="3">возраст_______</td>
+<td colspan="3">возраст_______</td>
+<td colspan="3">возраст_______</td>
+</tr>
+<tr>
+<td colspan="3">высота, м</td>
+<td colspan="3">высота, м</td>
+<td colspan="3">высота, м</td>
+</tr>
+<tr>
+<td>
+до
+0,5
+</td>
+<td>0,6-1,5</td>
+<td>
+более
+1,5
+</td>
+<td>
+до
+0,5
+</td>
+<td>0,6-1,5</td>
+<td>
+более
+1,5
+</td>
+<td>
+до
+0,5
+</td>
+<td>0,6-1,5</td>
+<td>
+более
+1,5
+</td>
+</tr>
+<tr>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>24</th>
+<th>25</th>
+<th>26</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+> *Приложение 18*  
+> *к Инструкции проведения*  
+> *лесоустройства*
+
+форма
+
+## Карточка обследования лесных культур
+
+________________область_________________ лесное учреждение
+
+_____________________________________________________лесничество Квартал №________ Выдел №__________ Площадь лесных культур по данным лесного учреждения, га______________________________________________
+
+Характеристикавидовугодийилесорастительныхусловий
+
+1.Вид угодий до производства лесных культур_________________________
+
+____________________________________________________________________
+
+2.Рельеф______ 3. Экспозиция, крутизна______ 4.Группы типов леса____
+
+5.Тип вырубки (гари)_______________ 6. Почвы________________________
+
+7.Степень задернения____________8. Бонитет___________9.Характеристика насаждения (состав, возраст, полнота)_______________________________
+
+10.Наличие захламленности, м3/га____ 11. Подлесок (состав, густота)
+
+____________________________________
+
+Способы и технология производства культур
+
+12.Способ подготовки почвы___________ 13. Способ производства_______
+
+14.Год и сезон произволдства____________ 15. Главная порода_________
+
+16.Схема смешения _______ 17. Расстояние в ряду ____________________
+
+18\. Расстояние между рядами__________________________________________
+
+19.Посадочных мест на 1 га___________ в том числе главной породы_____
+
+20.Возраст посадочного материала ___ 21. Высеяно семян на 1 га, кг __
+
+22.Число дополнений, порода и количествово высаженных сеянцев (саженцев)___________________________________________________________
+
+Характеристика и результаты учетных работ
+
+23.Количество пробных площадок, штук_____ 24. Заложено на 1 га,м2_______________________________________________________________
+
+25.Процент обследования, % _________________________________________
+
+26.Количество экземпляров на 1 га, всего ___________________________,
+
+в том числе главной породы ________. 27.Приживаемость, % (полнота)__
+
+28.Примесьестественного возобновления (состав, штук/га)
+
+____________________________________________________________________
+
+29.Общий состав (культуры + естественная примесь) __________________
+
+30.Полнота (с учетом естественной примеси) _________________________
+
+31.Средняя высота культур: главной породы _________________________, сопутствующих пород _________________, примеси ______________ м.
+
+32\. Причины отпада (гибели) ______________________________________
+
+33.Оценка успешности лесных культур (хорошие, удовлетворительные, неудовлетворительные)______________________________________________
+
+34\. Хозяйственное распоряжение ____________________________________
+
+Схематический чертеж обследуемого участка и расположения на нем пробных площадей
+
+Краткий анализ результатов обследования:
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+Специалист ______________________ Дата «____» ___________20___ год
+
+(Ф.И.О., подпись)
+
+Проверил _______________________________________________
+
+(Ф.И.О., подпись)
+
+> *Оборотная сторона приложения 18*  
+> *к Инструкции по проведению лесоустройства*
+
+## ПЕРЕЧЕТНАЯ ВЕДОМОСТЬ
+
+<table>
+<tr>
+<td>
+№
+пробной площади
+</td>
+<td>Площадь, м2</td>
+<td colspan="5">Порода</td>
+<td>Порода</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">поврежденных</td>
+<td rowspan="2">погибших</td>
+<td rowspan="2">естественного происхождения</td>
+<td rowspan="2">здоровых</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>здоровых</td>
+<td>энтомо- или фитовредителями</td>
+<td>скотом или дикими животными</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Количество экземпляров, штук
+
+<table>
+<tr>
+<td colspan="4">Порода</td>
+<td colspan="5">Всего на площадке</td>
+</tr>
+<tr>
+<td colspan="2">поврежденных</td>
+<td rowspan="2">погибших</td>
+<td rowspan="2">естественного происхождения</td>
+<td rowspan="2">здоровых</td>
+<td colspan="2">поврежденных</td>
+<td rowspan="2">погибших</td>
+<td rowspan="2">естественного происхождения</td>
+</tr>
+<tr>
+<td>энтомо- или фитовредителями</td>
+<td>скотом или дикими животными</td>
+<td>энтомо- или фитовредителями</td>
+<td>скотом или дикими животными</td>
+</tr>
+<tr>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+> *Приложение 19*  
+> *к Инструкции проведения лесоустройства*
+
+## 1. Переведенные в покрытые лесом угодья лесные культуры ревизионного периода
+
+1. Лесные культуры, переведенные в покрытые лесом угодья, образующие вместе с примесью естественного возобновления насаждения с полнотой 0,4 и более (если доля естественного возобновления составляет 70 процентов и более), таксируются молодняками естественного происхождения, а при их общей полноте менее 0,4 относятся к категориям угодий, на которых они ранее были созданы (прогалины, гари, вырубки).
+
+2. Все участки лесных культур заносятся в ведомость учета с заполнением всех граф и с указанием причин имеющихся расхождений как по площади, так и по состоянию, а для погибших – с анализом причин их гибели. При этом все участки лесных культур, определенные лесоустройством погибшими с приживаемостью 20-25 процентов, в обязательном порядке совместно с представителем лесовладельца проверяются в натуре.
+
+   Другие расхождения по площади участков, типам лесныхкультур, годам их создания уточняются представителем лесоустройства с лесничим в процессе производства полевых лесоустроительных работ в данном лесничестве.
+
+3. Выявленные в процессе проведения полевых лесоустроительных работ участки лесных культур, достигшие нормативов по высоте и количеству растений на 1 га (кроме возраста), позволяющие перевести их в покрытые лесом угодья, несмотря на недостаточный возраст, таксируются насаждениями, а лесовладельцы их перевод оформляют документально в установленном порядке.
+
+4. Для лесных культур, переведенных в покрытые лесом угодья, независимо от способов их создания (сплошные,полосами, бороздами, площадками), но на момент проведения полевых лесоустроительных работ имеющих полноту 0,3, они при хорошем состояниитаксируются покрытыми лесом угодьями с проставлением для них условнополноты 0,4.
+
+   ## Лесные культуры старших возрастов и порядок их учета и оформления
+
+5. За основу учета берутся данные предыдущего лесоустройства, которые выписываются из таксационных описаний и в натуре уточняется их таксационная характеристика. Данные заносятся в карточки таксации.
+
+6. Все участки (выделы) погибшихлесных культур старших возрастов, а также на участки лесных культур, ранее протаксированных погибшими, но восстановившихся или ошибочно протаксированных естественными насаждениями, таксируются по фактическому состоянию, в пояснительной записке освещаются причины расхождений.
+
+7. Акт составляется в двух экземплярах и подписывается представителем лесоустройства и лесничим. Ведомость полевого учета лесных культур старших возрастов не составляется. Сводный акт расхождений подписывается представителем лесовладельца и начальником лесоустроительной партии.
+
+## 3. Двухприемные (полосные) лесные культуры
+
+8. Лесные культуры, создаваемые двумя приемами (полосами) при лесоустройстве учитываются:
+
+   1) если на момент проведения лесоустройства полосы, оставленные для второго приема незакультированными, описание первого приема созданных лесных культур производится в зависимости от их состояния;
+
+   2) при наличии лесных культур на оставленных для второго приема полосах, их описание производится раздельно – по ярусам:
+
+      старшие по возрасту (переведенные в покрытые лесом угодья) – 1-й ярус, младшие – 2-ой ярус;
+
+   3) при наличии лесных культур на обеих полосах и все они переведены в покрытые лесом угодья, они таксируются:
+
+      по поколениям, если их разница в возрасте 10 лет и более, а высота 4 метра и более;
+
+      если показатели, указанные выше, меньше, таксация производится единым ярусом с указанием возраста по старшему поколению, а все другие показатели – усредненные.
+
+9. Площадь лесных культур первого приема при лесоустройстве учитывается полностью, то есть с включением межполосных пространств. В отчетной документации лесовладельца должна учитываться фактически закультивированная площадь каждого приема.
+
+   При невозможности посадки лесных культур второго приема (упущены возрастные сроки), полнота проставляется в расчете на общую площадь, то есть с включением межполосных пространств, по которой и оценивается качество лесных культур. Дополнительно (в особенностях), с целью назначения мероприятий по рубкам ухода, указывается фактическая полнота в полосах.
+
+## 4. Лесные культуры, созданные под пологом леса
+
+10. Выделы, в которых лесные культуры древесных пород не достигли высоты 4 метра и полноты 0,4, описываются по основному (старшему) насаждению, а их характеристика приводится отдельно, как несомкнувшихся.
+
+11. Лесные культуры под пологом леса, достигшие 4 (четырех) метров и полноты 0,4 и выше, описываются как ярус, независимо от запаса, с указанием их происхождения и года создания.
+
+    После вырубки старшего поколения оценка их качества производится в установленном порядке.
+
+12. В ведомости полевого учета и в пояснительной записке к лесоустроительному проекту лесные культуры под пологом леса учитываются отдельно, как несомкнувшиеся (согласно пункта 10), или как сомкнувшиеся (согласно пункта 11).
+
+## 5. Лесные культуры саксаула, созданные посевом или посадкой
+
+13. Результаты посева саксаула черного определяются путем сплошного перечета всходов на пробных площадях, закладываемых равномерно по диагоналям участка в наиболее характерных по лесорастительным условиям местах.
+
+14. За 100 (сто) процентов приживаемости принимается не менее1800 сеянцев в пересчете на 1 гектаре площади. Оценка успешности лесных культур производится в соответствии с действующими нормативами.
+
+    Сроки перевода в покрытые лесом угодья лесных культур саксаула, созданных посадкой, уменьшаются на 1-2 года.
+
+## 6. Общие вопросы
+
+15. В целях исключения разногласий по учету лесных культур, имеющих полноту (по данным лесоустройства) ниже 0,4, они должны осматриваться в натуре совместно представителем лесоустройства и лесовладельца. Для таких участков должны намечаться мероприятия по улучшению их состояния (проведение работ по дополнению, уходу или назначению дополнительного срока для их доращивания) с целью перевода их в покрытые лесом угодья.
+
+16. Для лесных культур, созданных древесными породами, не указанными в наставлении по лесовосстановлению, нормативы (по количеству растений и высоте) для их перевода в покрытые лесом угодья принимаются на 1 лесоустроительном совещании в зависимости от биологических свойств этих пород.
+
+17. Ведомости полевого учета лесных культур составляются в двух экземплярах, подписываются специалистом лесоустройства. Один экземпляр ведомости полевого учета лесных культур оставляется у специалиста лесоустройства, второй передается лесничеству.
+
+18. На основании данных ведомостей полевого учета лесных культур по таксаторским участкам или лесничествам начальником лесоустроительной партии составляется в 2-х экземплярах сводная ведомость лесных культур в целом по лесовладельцу (в разрезе лесничеств) и подписывается начальником лесоустроительной партии и директором (заместителем директора) лесовладельца. Один экземпляр сводной ведомости хранится у начальника лесоустроительной партии, второй передается лесовладельцу.
+
+> *Приложение 20*  
+> *к Инструкции проведения лесоустройства*  
+> *ФОРМА*
+
+## Карточка обследования санитарного состояния насаждения
+
+Лесное учреждение _________________ Лесничество _____________________
+
+Квартал ________________ Выдел _______________ Площадь ______________
+
+<table>
+<tr>
+<td rowspan="3">№ пробной реласкопической площадки</td>
+<td rowspan="3">Порода</td>
+<td rowspan="3">Класс возраста</td>
+<td rowspan="3">Высота яруса, м</td>
+<td colspan="6">Суммы площадей сечений, м2 на 1 га (числитель); запасы древесины, м3 на 1 га (знаменатель)</td>
+<td rowspan="3">Причины, степень, характер и давность ослабления древостоя</td>
+</tr>
+<tr>
+<td colspan="3">группы категорий состояния</td>
+<td rowspan="2">итого</td>
+<td colspan="2">ветровал и бурелом</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>ликвид</th>
+<th>неликвид</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+</tr>
+</table>
+
+## Глазомерные данные таксации выдела
+
+<table>
+<tr>
+<td rowspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+## Данные перечета на пробных площадках
+
+<table>
+<tr>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+> *Оборотная сторона приложения 20*  
+> *к Инструкции по проведению лесоустройства*
+
+<table>
+<tr>
+<td rowspan="3">№ пробной реласкопической площад-ки</td>
+<td rowspan="3">Порода</td>
+<td rowspan="3">Класс возраста</td>
+<td rowspan="3">Высота яруса, м</td>
+<td colspan="6">Суммы площадей сечений, м2 на 1 га (числитель); запасы древесины, м3 на 1 га (знаменатель)</td>
+<td rowspan="3">Причины, степень, характер и давность ослабления древостоя</td>
+</tr>
+<tr>
+<td colspan="3">группы категорий состояния</td>
+<td rowspan="2">итого</td>
+<td colspan="2">ветровал и бурелом</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>ликвид</th>
+<th>неликвид</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4" rowspan="4">Средний запас на 1 га, м3 в % по группам состояния в том числе по породам в м3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Дата «____»________________г.
+
+Специалист _______________________________
+
+Ф.И.О., подпись
+
+> *Приложение 21*  
+> *к Инструкции проведения лесоустройства*  
+> *ФОРМА*
+
+Лесное учреждение ____________________________________________
+
+## СИГНАЛЬНЫЙ ЛИСТОК О ВЫЯВЛЕННЫХ ВРЕДИТЕЛЯХ И БОЛЕЗНЯХ ЛЕСА
+
+На территории ____________ лесничества, в квартале №___________
+
+выделе №___________ на площади ______________га в насаждении,
+
+__________________________________________________________ обнаружено
+
+_____________________________________________________________________
+
+(вид вредителя или болезни, стадия развития, признаки и степень повреждения)
+
+_____________________________________________________________________
+
+(краткая характеристика поврежденного насаждения:
+
+состав, класс возраста, полнота и другие)
+
+Дата «____»________ 20_____ год Специалист _________________
+
+Ф.И.О., подпись
+
+> *Приложение 22*  
+> *к Инструкции проведения лесоустройства*
+
+## Технические указания по отнесению земель лесного фонда к горным
+
+## 1. Общие положения
+
+1. Отнесение земель лесного фонда к горным, являющихся не только источником получения древесины, но и имеющих особо важное водоохранное, водорегулирующее, почвозащитное, климатоулучшающее, санитарно-гигиеническое значение, производится с целью организации и ведения в них хозяйства с режимом, обеспечивающим сохранение и усиление полезных свойств лесов, повышения богатств растительного и животного мира, а также рационального и наиболее полного использования в них ресурсов.
+
+2. К горным относятся земли лесного фонда, расположенные в пределах горных систем и отдельных массивов, с колебаниями относительно высот местности более 100 метров и средним уклоном поверхности от подножья до вершины горных хребтов или до границы безлесных пространств более 5 градусов (независимо от того, что отдельные участки склона имеют крутизну менее 5 градусов), а также на горных плато и плоскогорьях, независимо от величины уклона местности.
+
+## 2. Выделение горных лесов
+
+3. Отнесение земель лесного фонда к горным производится по материалам прошлого лесоустройства. При отсутствии таких материалов они впредь, до проведения очередного лесоустройства, выделяются по данным картографических материалов и натурного обследования. Во всех случаях к подготовке материалов по их выделению привлекаются научно-исследовательские, лесоустроительные, проектные учреждения, соответствующие научные работники и другие специалисты.
+
+4. Отнесение земель лесного фонда к горным производится целыми учетными единицами – кварталами, урочищами (дачами) или бассейнами.
+
+   Учет лесного фонда по горным лесам ведется отдельно, как в том числе.
+
+## 3. Порядок оформления выделения горных лесов
+
+5\. Предложения по отнесению земель лесного фонда к горным подготавливаются лесовладельцами и направляются в территориальный орган с приложением:
+
+1) обоснование (пояснительная записка) лесовладельца по их выделению;
+
+2) решение районного акимата об их выделении;
+
+3) схематическая карта лесного учреждения с нанесенной территорией, подлежащей к отнесению ее к горной;
+
+4) поквартальная ведомость на участки, намечаемые к отнесению к горным.
+
+6\. Территориальный орган рассматривает указанные предложения и представляет материалы в областной акимат, который принимает окончательное решение.
+
+> *Приложение 23*  
+> *к Инструкции проведения лесоустройства*
+
+## Пояснительная записка к лесоустроительному проекту
+
+## Том 1
+
+## Введение
+
+1\. Приводятся данные об общей площади лесного учреждения, его местонахождении (почтовый адрес, связь с областным и районным центрами и расстояние до них). Юридическое обоснование проведения лесоустроительных работ (договор, заказ). Освещается технология проведения полевых лесоустроительных работ со ссылкой на соответствующие документы (полное лесоустройство, частичное).
+
+2\. Данные используемые в лесоустроительном проекты указаны в таблицах согласно приложения 23 к Инструкции проведения лесоустройства.
+
+3\. Применение Основных положений ведения лесного хозяйства области (далее – Основные положения) при условии, что они были разработаны для области, в которой находится территория устраиваемого лесного учреждения. Помещается схематическая карта области (формата не более АЗ), на которой выделяется и закрашивается территория лесного учреждения.
+
+## 2. Природно-климатические условия
+
+4. Лесорастительное районирование и рельеф (горный с указанием документа о их выделении, равнинный). Климатические показатели согласно таблица 1 к приложению 23 к Инструкции проведения лесоустройства..
+
+   Выводы о влиянии на лесную растительность природно-климатических условий.
+
+## 3. Роль лесов в охране окружающей среды
+
+4. Влияние сосредоточенных врайоне отраслей народного хозяйства на состояние и сохранение лесов. Роль лесов в развитии сельскохозяйственного производства, организации зон лечения, отдыха и туризма, в охране окружающей среды.
+
+## 4. Выполнение основных положений лесоустроительного проекта
+
+5. Действовавшие категории ГЛФ и установленные возрасты рубок согласно таблице 2 к приложению 23 к Инструкции проведения лесоустройства. Имевшие место отступления от лесоустроительного проекта и их причины. Качество внесения текущих изменений в материалы лесоустройства с оценкой согласно таблице 3 к приложению 23 к Инструкции проведения лесоустройства..
+
+## 5. Выполнение объемов лесохозяйственных мероприятий за прошедший ревизионный период
+
+6. Приводятся объемные показатели лесохозяйственных мероприятий, запроектированных прошлым лесоустройством и их фактическое выполнение в целом за ревизионный период и в год, предшествующий настоящему лесоустройству, по рубкам главного пользования, рубкам промежуточного пользования, прочим рубкам, лесозащитным мероприятиям и мероприятиям по воспроизводству лесов согласно таблице 4 к приложению 23 к Инструкции проведения лесоустройства..
+
+   с анализом причин отступления от лесоустроительного проекта и их качества с объязательным подкреплением своих выводов конкретными примерами (лесничество, квартал, выдел, замечания). Все данные приводятся в целом по лесному учреждению, в разрезе преобладающих пород.
+
+## 6. Динамика очагов вредителей и болезней леса
+
+7. Приводится динамика очагов вредителей и болезней леса согласно таблице 5 к приложению 23 к Инструкции проведения лесоустройства..
+
+   с анализом очагов вредителей и болезней леса, мерах борьбы с ними.
+
+## 7. Семена и лесные питомники
+
+8. Сведения об ассортименте посадочного материала, наличии плюсовых насаждений и деревьев, объемах заготовки лесных семян и обеспеченности потребностей лесного учреждения собственными семенами и посадочным материалом проводится согласно таблице 6 к приложению 23 к Инструкции проведения лесоустройства.
+
+## 8. Охрана леса
+
+9. Приводятся сведения о лесных пожарах согласно таблице 7 к приложению 23 к Инструкции проведения лесоустройства с соответствующими выводами и анализом. Выполнение объемов противопожарных мероприятий, запроектированных лесоустройством согласно таблице 8, с анализом причин их не выполнения, если такие имели место.
+
+## 9. Заключение о качестве ведения лесного хозяйства в прошедшем ревизионном периоде
+
+10. Приводится общее заключение с отражением положительных и отрицательных показателей качества ведения лесного хозяйства и использования лесоустроительных материалов с общей оценкой лесохозяйственной деятельности лесного учреждения за прошедший ревизионный период (сокрашенно переносятся данные оценки, приведенной в пункте 18 протокола второго лесоустроительного совещания, без помещения таблицы).
+
+## 2. Характеристика лесного фонда
