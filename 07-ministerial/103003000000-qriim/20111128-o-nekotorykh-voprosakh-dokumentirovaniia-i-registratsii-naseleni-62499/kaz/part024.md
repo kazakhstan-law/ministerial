@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62499/kaz/28.11.2011
+source: https://zan.gov.kz/client/#!/doc/62499/kaz/20.11.2012
 ---
 
 ## ОБЛЫСТАР АУДАНДАРЫНЫҢ АНЫҚТАМАЛЫҒЫ
