@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/51669/kaz/31.10.2012
+source: https://zan.gov.kz/client/#!/doc/51669/kaz/20.11.2012
 ---
 
 ## 3) Шығыстардың экономикалық сыныптамасы
