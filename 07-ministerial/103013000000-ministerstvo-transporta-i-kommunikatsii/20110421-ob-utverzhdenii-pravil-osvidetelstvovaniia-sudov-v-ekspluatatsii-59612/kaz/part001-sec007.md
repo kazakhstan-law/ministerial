@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/59612/kaz/21.04.2011
+source: https://zan.gov.kz/client/#!/doc/59612/kaz/26.11.2012
 ---
 
 ## 7-бөлім. Жүйелерді куәландыру

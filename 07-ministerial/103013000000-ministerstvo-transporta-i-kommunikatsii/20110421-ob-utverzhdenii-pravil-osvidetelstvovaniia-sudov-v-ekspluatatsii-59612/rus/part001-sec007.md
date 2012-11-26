@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/59612/rus/21.04.2011
+source: https://zan.gov.kz/client/#!/doc/59612/rus/26.11.2012
 ---
 
 ## Раздел 7. Освидетельствование систем
