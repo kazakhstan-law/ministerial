@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/58205/rus/01.01.2012
+source: https://zan.gov.kz/client/#!/doc/58205/rus/28.11.2012
 ---
 
 ## 1. Қазақстан Республикасында эмиссияланған бағалы қағаздар
