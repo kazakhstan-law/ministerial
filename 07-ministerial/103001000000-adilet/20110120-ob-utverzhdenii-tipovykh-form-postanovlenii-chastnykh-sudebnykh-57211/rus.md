@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/57211/rus/20.01.2011
+source: https://zan.gov.kz/client/#!/doc/57211/rus/12.12.2012
 ---
 
 # Об утверждении Типовых форм постановлений частных судебных исполнителей
