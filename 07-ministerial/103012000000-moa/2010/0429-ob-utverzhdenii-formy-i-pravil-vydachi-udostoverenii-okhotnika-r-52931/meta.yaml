@@ -12,11 +12,11 @@ approved_on: 2010-04-29
 approved_by:
 - '103012000000'
 version_date:
-  kaz: 2012-10-24
-  rus: 2012-10-24
+  kaz: 2013-01-01
+  rus: 2013-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/52931/kaz/24.10.2012
-  rus: https://zan.gov.kz/client/#!/doc/52931/rus/24.10.2012
+  kaz: https://zan.gov.kz/client/#!/doc/52931/kaz/01.01.2013
+  rus: https://zan.gov.kz/client/#!/doc/52931/rus/01.01.2013
 caused_by:
   code: '68891'
   requisite: Приказ Министра сельского хозяйства Республики Казахстан от 24 октября 2012 года № 17-03/541. Зарегистрирован в Министерстве юстиции Республики Казахстан 23 декабря 2012 года № 8108
