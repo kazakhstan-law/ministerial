@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/52089/kaz/15.10.2012
+source: https://zan.gov.kz/client/#!/doc/52089/kaz/01.01.2013
 ---
 
 ## Параклиникалық бөлімшелерінің мамандарының жүктеме нормативін анықтау әдістемесі
