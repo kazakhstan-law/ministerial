@@ -1,5 +1,5 @@
 ---
-version_id: AI54990_6
+version_id: AI54990_8
 act_code: '54990'
 language: kaz
 title: Тұрмыс деңгейі және үй шаруашылықтарын зерттеу статистикасы бойынша жалпымемлекеттік статистикалық байқаулардың статистикалық нысандары мен оларды толтыру жөніндегі нұсқаулықтарды бекіту туралы
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '119000000000'
 approval_date: 2010-08-24
-version_date: 2012-07-04
+version_date: 2013-01-01
 registry_number: '54990'
 caused_by:
-  code: '67543'
-  title: '"Тұрмыс деңгейі және үй шаруашылықтарын зерттеу статистикасы бойынша жалпымемлекеттік статистикалық байқаулардың статистикалық нысандары мен оларды толтыру жөніндегі нұсқаулықтарды бекіту туралы" Қазақстан Республикасы Статистика агенттігі төрағасының міндетін атқарушының 2010 жылғы 24 тамыздағы № 228 бұйрығына өзгерістер енгізу туралы'
-  link: https://zan.gov.kz/client/#!/doc/67543/kaz
-source: https://zan.gov.kz/client/#!/doc/54990/kaz/04.07.2012
+  code: '60531'
+  title: Қазақстан Республикасы Статистика агенттігі Төрағасының міндетін атқарушының 2010 жылғы 24 тамыздағы № 228 "Тұрмыс деңгейі және үй шаруашылықтарын зерттеу статистикасы бойынша жалпымемлекеттік статистикалық байқаулардың статистикалық нысандары мен оларды толтыру жөніндегі нұсқаулықтарды бекіту туралы" бұйрығына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/60531/kaz
+source: https://zan.gov.kz/client/#!/doc/54990/kaz/01.01.2013
 ---
 
 # Тұрмыс деңгейі және үй шаруашылықтарын зерттеу статистикасы бойынша жалпымемлекеттік статистикалық байқаулардың статистикалық нысандары мен оларды толтыру жөніндегі нұсқаулықтарды бекіту туралы
@@ -16404,27 +16404,25 @@ DVD дискілерін жалға алу
 
 Зерттеудің аяқталуымен интервьюер қажеттілігіне қарай қандай да бір жазбаларды нақтылап, журналды алып кетеді.
 
-РҚАО-ның ескертпесі!
-
-7-қосымша жаңа редакцияда көзделген - ҚР Статистика агенттігі Төрағасының 2012.07.04 № 178 (2013.01.01 бастап қолданысқа енгізіледі) Бұйрығымен.
-
 > *Қазақстан Республикасы Статистика*  
 > *агенттігі төрағасы міндетін*  
 > *атқарушының 2010 жылғы 24 тамыздағы*  
 > *№ 228 бұйрығына 7-қосымша*
+
+> *Ескерту. 7-қосымша жаңа редакцияда - ҚР Статистика агенттігі Төрағасының 2012.07.04 № 178 (2013.01.01 бастап қолданысқа енгізіледі) Бұйрығымен.*
 
 <table>
 <tr>
 <td rowspan="2">
 <em>[Image]</em>
 </td>
-<td>Мемлекеттік статистика органдары құпиялылығына кепілдік береді</td>
+<td colspan="2">Мемлекеттік статистика органдары құпиялылығына кепілдік береді</td>
 </tr>
 <tr>
-<td>Жалпымемлекеттік статистикалық байқау бойынша статистикалық нысан</td>
+<td colspan="2">Жалпымемлекеттік статистикалық байқау бойынша статистикалық нысан</td>
 </tr>
 <tr>
-<td>Статистикалық нысанды www.​stat.​gov.​kz сайтынан алуға болады.</td>
+<td colspan="2">Статистикалық нысанды www.​stat.​gov.​kz сайтынан алуға болады</td>
 <td rowspan="2">
 <table>
 <tr>
@@ -16442,37 +16440,42 @@ DVD дискілерін жалға алу
 </td>
 </tr>
 <tr>
-<td>
-Статистикалық нысан коды 1265104
+<td colspan="2">Статистикалық нысан коды 1265104</td>
+</tr>
+<tr>
+<td colspan="2">
 D 006
-Тоқсандық
+Жылдық
 </td>
+<td></td>
 </tr>
 </table>
 
-## Негізгі сұхбатқа арналған сұрақнама _ _ _ _ Есепті кезең |_|_|_|_| Жыл
+## Негізгі сұхбатқа арналған сұрақнама _ _ _ _ Есепті кезең |_|_|_|_| жыл
 
-1\. АУМАҚТЫҢ (ЕЛДІ МЕКЕННІҢ) АТАУЫ _______________________________
+1\. АУМАҚТЫҢ (ЕЛДІ МЕКЕННІҢ) АТАУЫ ___________________________________
 
-_ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _
 
-2\. АӘОЖ БОЙЫНША ЕЛДІ МЕКЕННІҢ КОДЫ*………………………………………|_|_|_|_|_|_|_|_|
+2\. АӘОЖ БОЙЫНША ЕЛДІ МЕКЕННІҢ КОДЫ*................|_|_|_|_|_|_|_|_|_|
 
 _
 
-3\. ЕЛДІ МЕКЕН ТИПІНІҢ КОДЫ (қала - 1, ауыл –2)………………………………… |_|
+3\. ЕЛДІ МЕКЕН ТИПІНІҢ КОДЫ (қала - 1, ауыл – 2)...................|_|
 
-4\. ҮЙ ШАРУАШЫЛЫҒЫНЫҢ КОДЫ …………………………………………… _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _
 
-|_|_|_|_|_|_|_|_|
+4\. ҮЙ ШАРУАШЫЛЫҒЫНЫҢ КОДЫ ......................|_|_|_|_|_|_|_|_|_|_|
 
-5\. ПІКІРТЕРІМДІ ЖҮРГІЗУГЕ УӘКІЛЕТТІГІ БАР
+5\. ПІКІРТЕРІМДІ ЖҮРГІЗУГЕ УӘКІЛЕТТІ _ _ _ _ _ _ _ _ _
 
-ТҰЛҒАНЫҢ КОДЫ (БҰДАН ӘРІ-ИНТЕРВЬЮЕР)………………………………………………………………
+ТҰЛҒАНЫҢ КОДЫ (БҰДАН ӘРІ - ИНТЕРВЬЮЕР)............|_|_|_|_|_|_|_|_|_|
 
-6\. Сұхбат жүргізу күні _ _ ай _ _ жыл _ _ _ _
+_ _ _ _ _ _ _ _
 
-|_|_| |_|_| |_|_|_|_|
+6\. СҰХБАТ ЖҮРГІЗУ КҮНІ күні |_|_| ай |_|_| жыл |_|_||_|_|
+
+## _________________
 
 * Әкімшілік-аумақтық объектілер жіктеуіші ҚР МК 11-2009
 
@@ -16486,1153 +16489,1252 @@ _
 
 <table>
 <tr>
-<td colspan="22">1. Сіз тұрған үй қандай үлгідегі тұрғын үй (жалдайсыз ба)?</td>
-<td colspan="4" rowspan="55"></td>
-<td colspan="8" rowspan="2"></td>
-<td colspan="8" rowspan="2">
-Иә-1-&gt;
-Жоқ–2
-</td>
-<td colspan="11" rowspan="2">
-Жиі–1
-Өте жиі–2
-Сирек-3
-</td>
-</tr>
-<tr>
-<td colspan="19">Бөлек пәтер.………………………………</td>
-<td colspan="3">1</td>
-</tr>
-<tr>
-<td colspan="19">Пәтердегі бөлме……………………….</td>
-<td colspan="3">2</td>
-<td colspan="8">5. Газбен жабдықтау</td>
-<td colspan="8"></td>
-<td colspan="11"></td>
-</tr>
-<tr>
-<td colspan="19">Жеке үй ……………………………………</td>
-<td colspan="3">3</td>
-<td colspan="8">6. Лифттік қызмет көрсету</td>
-<td colspan="8"></td>
-<td colspan="11"></td>
-</tr>
-<tr>
-<td colspan="19">Үйдің бір бөлігі…………………</td>
-<td colspan="3">4</td>
-<td colspan="8" rowspan="2">7. Толық көлемде телерадиохабар бағдарламасын қабылдау</td>
-<td colspan="8" rowspan="2"></td>
-<td colspan="11" rowspan="2"></td>
-</tr>
-<tr>
-<th colspan="22">2. Сіз тұрған үйіңіз кімге тиесілі?</th>
-</tr>
-<tr>
-<td colspan="19" rowspan="2">Сіздің үй шаруашылығыңызға (жекешелендіріл-ген, сатып алынған немесе сыйға алынған)........</td>
-<td colspan="3" rowspan="2">1</td>
-<td colspan="9">8. Қоқыс шығару</td>
-<td colspan="7"></td>
-<td colspan="11"></td>
-</tr>
-<tr>
-<td colspan="9">9. Кәріз</td>
-<td colspan="7"></td>
-<td colspan="11"></td>
-</tr>
-<tr>
-<td colspan="19">Жеке тұлғаға…………………………………</td>
-<td colspan="3">2</td>
-<td colspan="27" rowspan="3">9. Ұсынылған тұрғын үй қызметінің сапасын Сіз қалай бағалайсыз?</td>
-</tr>
-<tr>
-<td colspan="19">Әкімдікке (яғни, үй жекешелендірілмеген)…….</td>
-<td colspan="3">3</td>
-</tr>
-<tr>
-<td colspan="19">Басқа заңды тұлғаға……………………</td>
-<td colspan="3">4</td>
-</tr>
-<tr>
-<td colspan="22">3. Сіздің тұрғын үйіңіздің ауданы қанша?</td>
-<td colspan="11" rowspan="3"></td>
-<td colspan="16" rowspan="3">
-Жақсы – 1
-Қанағаттанарлық – 2
-Нашар – 3
-</td>
-</tr>
-<tr>
-<td colspan="12">Жалпы ауданы, шаршы метр</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-</tr>
-<tr>
-<td colspan="12">Тұрғын алаңы, шаршы метр</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-</tr>
-<tr>
-<td colspan="22" rowspan="3">4. Сіздің отбасыңыз қанша бөлмеге ие (асүйден, ваннадан, дәретханадан, дәлізден, қоймадан басқа)?</td>
-<td colspan="11">1. Суық судың қысымы</td>
-<td colspan="16"></td>
-</tr>
-<tr>
-<td colspan="11">2. Ыстық судың қысымы</td>
-<td colspan="16"></td>
-</tr>
-<tr>
-<td colspan="11" rowspan="2">3. Ыстық судың температурасы</td>
-<td colspan="16" rowspan="2"></td>
-</tr>
-<tr>
-<td colspan="14">Бөлме………………………………………</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-</tr>
-<tr>
-<td colspan="22" rowspan="2">5. Сіз бұл пәтерде (үйде) қанша уақыттан бері тұрасыз?</td>
-<td colspan="11">4. Жылудың температурасы</td>
-<td colspan="16"></td>
-</tr>
-<tr>
-<td colspan="11">5. Электр желісінің кернеуі</td>
-<td colspan="16"></td>
-</tr>
-<tr>
-<td colspan="14">Толық жылы …………………</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="11">6. Газ беру</td>
-<td colspan="16"></td>
-</tr>
-<tr>
-<td colspan="22">6. Сіздің тұрғын үйіңіз қашан салынған?</td>
-<td colspan="11">7. Ауыз судың сапасы</td>
-<td colspan="16"></td>
-</tr>
-<tr>
-<td colspan="10">Салынғын жылы...........</td>
-<td colspan="3"></td>
+<td colspan="7" rowspan="2">1. Сіз тұрған үй қандай үлгідегі тұрғын үй (жалдайсыз ба)?</td>
+<td rowspan="2"></td>
+<td colspan="2">1. Орталықтан жылыту</td>
 <td></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="11">8. Лифттік қызмет көрсету</td>
-<td colspan="16"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="22">7. Сіздің үйде мыналардың қайсысы бар:</td>
-<td colspan="11" rowspan="2">9. Телерадиохабар бағдарламасын қабылдау</td>
-<td colspan="16" rowspan="2"></td>
+<td colspan="2">2. Электрмен жабдықтау</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="13" rowspan="2"></td>
-<td colspan="9" rowspan="2">Иә-1 Жоқ-2</td>
-</tr>
-<tr>
-<td colspan="11">10. Қоқыс шығару</td>
-<td colspan="16"></td>
-</tr>
-<tr>
-<td colspan="13">1. Орталықтан жылыту</td>
-<td colspan="9"></td>
-<td colspan="11">11. Кәріз</td>
-<td colspan="16"></td>
-</tr>
-<tr>
-<td colspan="13">2. Жеке қондырғыдан жылыту</td>
-<td colspan="9"></td>
-<td colspan="27" rowspan="2">Интервьюер! Үйінде су құбыры жоқтарға келесі екі сұрақты қойыңыз, қарсы жағдайда F 11 сұраққа көшіңіз</td>
-</tr>
-<tr>
-<td colspan="13" rowspan="2">3. Жеке сужылытқыштан ыстық сумен жабдықтау</td>
-<td colspan="9" rowspan="2"></td>
-</tr>
-<tr>
-<th colspan="27" rowspan="2">10. Сіздің үй шаруашылығыңыз ішетін және ас әзірлейтін суды қайдан алады?</th>
-</tr>
-<tr>
-<td colspan="13">4. Орталықтан ыстық сумен жабдықтау</td>
-<td colspan="9"></td>
-</tr>
-<tr>
-<td colspan="13">5. Су құбыры</td>
-<td colspan="9"></td>
-<td colspan="26">Өз ауласындағы құдықтан, колонкадан…………….</td>
+<td colspan="6">Бөлек пәтер .....................</td>
 <td>1</td>
+<td rowspan="4"></td>
+<td colspan="2">3. Ыстық су</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="13">6. Кәріз</td>
-<td colspan="9"></td>
-<td colspan="26">Қоғамдық су колонкасынан …………………………</td>
+<td colspan="6">Пәтердегі бөлме .................</td>
 <td>2</td>
+<td colspan="2">4. Суық су</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="13">7. Ванна немесе себезгі</td>
-<td colspan="9"></td>
-<td colspan="26">Қоғамдық құдықтан………………………</td>
+<td colspan="6">Жеке үй .........................</td>
 <td>3</td>
+<td colspan="2">5. Газбен жабдықтау</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="13">8. Желілік газ</td>
-<td colspan="9"></td>
-<td colspan="26">Бұлақтан, өзеннен, көлден, тоғаннан………………</td>
+<td colspan="6">Үйдің бір бөлігі ................</td>
 <td>4</td>
+<td colspan="2">6. Лифттік қызмет көрсету</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="13">9. Сұйытылғын газ (баллондардағы)</td>
-<td colspan="9"></td>
-<td colspan="26">Су тасығыш жеткізіп береді……………………...</td>
-<td>5</td>
+<td colspan="7">2. Сіз тұрған үйіңіз кімге тиесілі?</td>
+<td></td>
+<td colspan="2">7. Толық көлемде теле- радиохабар бағдарламасын қабылдау</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="13">10. Электр</td>
-<td colspan="9"></td>
-<td colspan="27" rowspan="2">
-10.1.Сумен жабдықтау көзі Сіздің үйіңізден қанша
-жерде?
+<td colspan="6">Жеке тұлғаға .....................</td>
+<td>2</td>
+<td rowspan="4"></td>
+<td colspan="2">8. Қоқыс шығару</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="6">Әкімдікке (яғни, үй жекешелендірілмеген) .............</td>
+<td>3</td>
+<td colspan="2">9. Кәріз</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="6">Басқа заңды тұлғаға .............</td>
+<td>4</td>
+<td colspan="5" rowspan="2">9. Ұсынылған тұрғын үй қызметінің сапасын Сіз қалай бағалайсыз?</td>
+</tr>
+<tr>
+<th colspan="6">3. Сіздің тұрғын үйіңіздің ауданы қанша?</th>
+<th></th>
+</tr>
+<tr>
+<td colspan="3">Жалпы ауданы, шаршы метр</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td rowspan="10"></td>
+<td colspan="3" rowspan="3"></td>
+<td colspan="2" rowspan="3">
+Жақсы-1
+Қанағаттанарлық-2
+Нашар-3
 </td>
 </tr>
 <tr>
-<td colspan="13">11. Электр плиткасы</td>
-<td colspan="9"></td>
+<td colspan="3">Тұрғын алаңы, шаршы метр</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="13">12. Стационарлық телефон</td>
-<td colspan="9"></td>
-<td colspan="26">100 м-ден аз…………………………</td>
-<td>1</td>
+<th colspan="7" rowspan="3">4. Сіздің үй шаруашылығыңыз қанша бөлмеге ие (ас үйден, ваннадан, дәретханадан, дәлізден, қоймадан басқа)?</th>
 </tr>
 <tr>
-<td colspan="13">13. Қоқыс құбыры</td>
-<td colspan="9"></td>
-<td colspan="26">100-200 м………………………………………….</td>
-<td>2</td>
+<td colspan="3">1. Суық судың қысымы</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="13">14. Гараж немесе паркинг</td>
-<td colspan="9"></td>
-<td colspan="26">200-500 м…………………………………………….</td>
-<td>3</td>
+<td colspan="3">2. Ыстық судың қысымы</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="13">15. Лифт</td>
-<td colspan="9"></td>
-<td colspan="26">500-1000 м…………………………………………</td>
-<td>4</td>
+<td colspan="4">Бөлмелер ....................</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3" rowspan="2">3. Ыстық судың температурасы</td>
+<td colspan="2" rowspan="2"></td>
 </tr>
 <tr>
-<td colspan="13">16. Домофон</td>
-<td colspan="9"></td>
-<td colspan="26">1000 м-ден көп………………………</td>
-<td>5</td>
+<th colspan="7" rowspan="2">5. Сіз бұл пәтерде (үйде) қанша уақыттан бері тұрасыз?</th>
 </tr>
 <tr>
-<td colspan="13" rowspan="2">17. Теле-радиохабар бағдарламаларын қабылдау құралдары (үй және спутникті антенна, радиоқабылдағыштар)</td>
-<td colspan="9" rowspan="2"></td>
-<td colspan="27">11. Сіздің үй шаруашылығыңыздың мүшелері қайда жуынады?</td>
+<td colspan="3">4. Жылудың температурасы</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="26">Себезгісі бар ваннада …………</td>
-<td>1</td>
+<td colspan="4">Толық жылы ...................</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">5. Электр желісінің кернеуі</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="22" rowspan="4">8. Сіздің үйде соңғы 30 күн ішінде келесі қызмет көрсетудің негізгі түрлерімен жабдықтауда іркілістер (тоқтатып тастау жағдайлары) болды ма?</td>
-<td colspan="26">Себезгіде …………………………………………</td>
-<td>2</td>
+<td colspan="7">6. Сіздің тұрғын үйіңіз қашан салынған?</td>
+<td colspan="3">6. Газ беру</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="26">Жеке моншада, саунада …………</td>
-<td>3</td>
+<td colspan="4">Салынған жылы ........</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">7. Ауыз судың сапасы</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="26">Қоғамдық моншада, саунада</td>
-<td>4</td>
+<td colspan="7">7. Сіздің үйде мыналардың қайсысы бар:</td>
+<td rowspan="25"></td>
+<td colspan="3">8. Лифттік қызмет көрсету</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="26">Басқа …………………………………………………</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="6" rowspan="2"></td>
-<td colspan="5" rowspan="2">
+<td colspan="4"></td>
+<td colspan="3">
 Иә-1
-Жоқ–2
+Жоқ-2
 </td>
-<td colspan="11" rowspan="2">
+<td colspan="3">9. Теле-радиохабар бағдарламасын қабылдау</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4">1. Орталықтан жылыту</td>
+<td colspan="3"></td>
+<td colspan="3">10. Қоқыс шығару</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4">2. Жеке қондырғыдан жылыту</td>
+<td colspan="3"></td>
+<td colspan="3">11. Кәріз</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4">3. Жеке сужылытқыштан ыстық сумен жабдықтау</td>
+<td colspan="3"></td>
+<td colspan="5">Интервьюер! Үйінде су құбыры жоқтарға келесі екі сұрақты қойыңыз, кері жағдайда 11 сұраққа көшіңіз</td>
+</tr>
+<tr>
+<td colspan="4">4. Орталықтан ыстық сумен жабдықтау</td>
+<td colspan="3"></td>
+<td colspan="5" rowspan="2">10. Сіздің үй шаруашылығыңыз ішетін және ас әзірлейтін суды қайдан алады?</td>
+</tr>
+<tr>
+<td colspan="4">5. Су құбыры</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="4">6. Кәріз</td>
+<td colspan="3"></td>
+<td colspan="4">Өз ауласындағы құдықтан, колонкадан .......................</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="4">7. Ванна немесе себезгі</td>
+<td colspan="3"></td>
+<td colspan="4">Қоғамдық су колонкасынан .........</td>
+<td>2</td>
+</tr>
+<tr>
+<td colspan="4">8. Желілік газ</td>
+<td colspan="3"></td>
+<td colspan="4">Қоғамдық құдықтан ................</td>
+<td>3</td>
+</tr>
+<tr>
+<td colspan="4">9. Сұйытылған газ (баллондардағы)</td>
+<td colspan="3"></td>
+<td colspan="4">Бұлақтан, өзеннен, көлден, тоғаннан .........................</td>
+<td>4</td>
+</tr>
+<tr>
+<td colspan="4">10. Электр</td>
+<td colspan="3"></td>
+<td colspan="4">Су тасығыш жеткізіп береді .......</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="4">11. Электр плиткасы</td>
+<td colspan="3"></td>
+<td colspan="5" rowspan="2">10.1. Сумен жабдықтау көзі Сіздің үйіңізден қанша жерде?</td>
+</tr>
+<tr>
+<td colspan="4">12. Стационарлық телефон</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="4">13. Қоқыс құбыры</td>
+<td colspan="3"></td>
+<td colspan="4">100 м-ден аз .....................</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="4">14. Гараж немесе паркинг</td>
+<td colspan="3"></td>
+<td colspan="4">100-200 м ........................</td>
+<td>2</td>
+</tr>
+<tr>
+<td colspan="4">15. Лифт</td>
+<td colspan="3"></td>
+<td colspan="4">200-500 м ........................</td>
+<td>3</td>
+</tr>
+<tr>
+<td colspan="4">16. Домофон</td>
+<td colspan="3"></td>
+<td colspan="4">500-1000 м .......................</td>
+<td>4</td>
+</tr>
+<tr>
+<td colspan="4" rowspan="2">17. Теле-радиохабар бағдарламаларын қабылдау құралдары (үй және спутникті антенна, радиоқабылдағыштар)</td>
+<td colspan="3" rowspan="2"></td>
+<td colspan="4">1000 м-ден көп ...................</td>
+<td>5</td>
+</tr>
+<tr>
+<th colspan="5">11. Сіздің үй шаруашылығыңыздың мүшелері қайда жуынады?</th>
+</tr>
+<tr>
+<td colspan="7" rowspan="4">8. Сіздің үйде соңғы 30 күн ішінде келесі қызмет көрсетудің негізгі түрлерімен жабдықтауда іркілістер (тоқтатып тастау жағдайлары) болды ма?</td>
+<td colspan="4">Себезгісі бар ваннада ............</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="4">Себезгіде ........................</td>
+<td>2</td>
+</tr>
+<tr>
+<td colspan="4">Жеке моншада, саунада ............</td>
+<td>3</td>
+</tr>
+<tr>
+<td colspan="4">Қоғамдық моншада, саунада ........</td>
+<td>4</td>
+</tr>
+<tr>
+<td></td>
+<td>
+Иә-1
+Жоқ-2
+</td>
+<td colspan="5">
 Жиі-1
 Өте жиі-2
 Сирек-3
 </td>
-<td colspan="27">12. Үй шаруашылығында дәретхананың қандай түрі қолданылады?</td>
-</tr>
-<tr>
-<td colspan="26">Кәрізі орталық жүйеден тартылған дәретхана.…….</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="6">1. Орталықтан жылыту</td>
-<td colspan="5"></td>
-<td colspan="11"></td>
-<td colspan="26" rowspan="2">Қоғамдық/жеке ұңғыма немесе шұңқырға тартылған дәретхана.................</td>
-<td rowspan="2">2</td>
-</tr>
-<tr>
-<td colspan="6">2. Электрмен жабдықтау</td>
-<td colspan="5"></td>
-<td colspan="11"></td>
-</tr>
-<tr>
-<td colspan="6">3. Ыстық су</td>
-<td colspan="5"></td>
-<td colspan="11"></td>
-<td colspan="26">Шұңқыр қазылған дәретхана …</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="6">4. Суық су</td>
-<td colspan="5"></td>
-<td colspan="11"></td>
-<td colspan="26">Басқа ………………………………………………</td>
-<td>4</td>
-</tr>
-<tr>
-<th colspan="17">12.1 Дәретхана қай жерде орналасқан?</th>
-<th colspan="4"></th>
-<th colspan="3" rowspan="4"></th>
-<th colspan="29">12.2. Бұл дәретхананы тек Сіздің үй шаруашылығыңыз ғана пайдалана ма немесе басқа үй шаруашылықтары да ма?</th>
-</tr>
-<tr>
-<td colspan="17" rowspan="3">
-Үйде (пәтерде).........
-Аулада.................
-Көшеде.................
-</td>
-<td colspan="4">1</td>
-<td colspan="26">Тек бір үй шаруашылығы ғана</td>
-<td colspan="3">1</td>
-</tr>
-<tr>
-<td colspan="4">2</td>
-<td colspan="26" rowspan="2">Басқа үй шаруашылықтарымен бірге .....................</td>
-<td colspan="3" rowspan="2">2</td>
-</tr>
-<tr>
-<td colspan="4">3</td>
-</tr>
-<tr>
-<td colspan="53">Интервьюер! Келесі сұрақ әлеуметтік инфрақұрылым объектілері жаяу жүріп жете алатын адамдарға қойылады, қарсы жағдайда &lt; 13.1 сұраққа көшіңіз</td>
-</tr>
-<tr>
-<th colspan="53">13. Сіздің тұрғын жайыңыздан жаяу жүріп жете алатын келесі әлеуметтік инфрақұрылым объектілері бар ма, егер болса, онда жақын объектіге жету үшін Сізге қанша уақыт қажет?</th>
-</tr>
-<tr>
-<td colspan="4"></td>
-<td colspan="5">Қоғамдық көлік аялдамасы</td>
-<td colspan="15">Дүкен немесе базар</td>
-<td colspan="5">Медициналық мекеме</td>
-<td colspan="14">Жалпы білім беру мекемесі (мектеп, гимназия, лицей)</td>
-<td colspan="10">Мектепке дейінгі білім беру мекемесі</td>
-</tr>
-<tr>
-<th colspan="4">1</th>
-<th colspan="5">2</th>
-<th colspan="15">3</th>
-<th colspan="5">4</th>
-<th colspan="14">5</th>
-<th colspan="10">6</th>
-</tr>
-<tr>
-<td colspan="4">1.10 мин.аз.</td>
-<td colspan="5"></td>
-<td colspan="15"></td>
-<td colspan="5"></td>
-<td colspan="14"></td>
-<td colspan="10"></td>
-</tr>
-<tr>
-<td colspan="4">2.10-20 мин.</td>
-<td colspan="5"></td>
-<td colspan="15"></td>
-<td colspan="5"></td>
-<td colspan="14"></td>
-<td colspan="10"></td>
-</tr>
-<tr>
-<td colspan="4">3.20-30 мин.</td>
-<td colspan="5"></td>
-<td colspan="15"></td>
-<td colspan="5"></td>
-<td colspan="14"></td>
-<td colspan="10"></td>
-</tr>
-<tr>
-<td colspan="4">4.30-60 мин.</td>
-<td colspan="5"></td>
-<td colspan="15"></td>
-<td colspan="5"></td>
-<td colspan="14"></td>
-<td colspan="10"></td>
-</tr>
-<tr>
-<td colspan="4">5.1 сағ. көп</td>
-<td colspan="5"></td>
-<td colspan="15"></td>
-<td colspan="5"></td>
-<td colspan="14"></td>
-<td colspan="10"></td>
-</tr>
-<tr>
-<th colspan="53">13.1. Егер жаяу жүріп жету мүмкін болмаса, онда қоғамдық көлікте, бағыттық таксиде, автомобильде немесе көліктің басқа түрімен жету үшін Сізге қанша уақыт қажет етіледі?</th>
-</tr>
-<tr>
-<td colspan="9"></td>
-<td colspan="15">Дүкен немесе базар</td>
-<td colspan="5">Медициналық мекеме</td>
-<td colspan="14">Жалпы білім беру мекемесі (мектеп, гимназия, лицей)</td>
-<td colspan="10">Мектепке дейінгі білім беру мекемесі</td>
-</tr>
-<tr>
-<th colspan="9">1</th>
-<th colspan="15">2</th>
-<th colspan="5">3</th>
-<th colspan="14">4</th>
-<th colspan="10">5</th>
-</tr>
-<tr>
-<td colspan="9">1.10 мин.аз.</td>
-<td colspan="15"></td>
-<td colspan="5"></td>
-<td colspan="14"></td>
-<td colspan="10"></td>
-</tr>
-<tr>
-<td colspan="9">2.10-20 мин.</td>
-<td colspan="15"></td>
-<td colspan="5"></td>
-<td colspan="14"></td>
-<td colspan="10"></td>
-</tr>
-<tr>
-<td colspan="9">3.20-30 мин.</td>
-<td colspan="15"></td>
-<td colspan="5"></td>
-<td colspan="14"></td>
-<td colspan="10"></td>
-</tr>
-<tr>
-<td colspan="9">4.30-60 мин.</td>
-<td colspan="15"></td>
-<td colspan="5"></td>
-<td colspan="14"></td>
-<td colspan="10"></td>
-</tr>
-<tr>
-<td colspan="9">5.1 сағ. көп</td>
-<td colspan="15"></td>
-<td colspan="5"></td>
-<td colspan="14"></td>
-<td colspan="10"></td>
-</tr>
-<tr>
-<th colspan="20">14. Сізде тағы қандай да бір тұрғын үй (негізгіден басқа) бар ма?</th>
-<th colspan="3" rowspan="11"></th>
-<th colspan="30">14.2. Сіз оны қалай пайдаланасыз?</th>
-</tr>
-<tr>
-<td colspan="8" rowspan="2">
-Иә............
-Жоқ...........
-</td>
-<td colspan="12">1 -&gt; 14.1.</td>
-<td colspan="27">Онда жазда және бос уақытта тұрамын ........</td>
-<td colspan="3">1</td>
-</tr>
-<tr>
-<td colspan="12">2 -&gt; 15</td>
-<td colspan="27">Жалға беремін…………………………………………</td>
-<td colspan="3">2</td>
-</tr>
-<tr>
-<td colspan="20" rowspan="2">14.1 Ол қандай тұрғын үй? Тұрғын үйдің (негізгіден басқа) типін көрсетуіңізді сұраймын.</td>
-<td colspan="27">Пайдаланбаймын………………………………</td>
-<td colspan="3">3</td>
-</tr>
-<tr>
-<td colspan="27">Өзге (көрсетіңіз)…………………….</td>
-<td colspan="3">4</td>
-</tr>
-<tr>
-<td colspan="15">Жеке пәтер............</td>
-<td colspan="5">1</td>
-<td colspan="30" rowspan="2">14.3. Егер де осы үйді жалға алған болсаңыз, оған айына Сіз қанша төлеген болар едіңіз? Бағалап көріңізші?</td>
-</tr>
-<tr>
-<td colspan="15">Ауылдық жердегі үй немесе үйдің жартысы..............</td>
-<td colspan="5">2</td>
-</tr>
-<tr>
-<td colspan="15">Қалалық жердегі үй немесе үйдің жартысы..............</td>
-<td colspan="5">3</td>
-<td colspan="13">теңге</td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="4"></td>
-</tr>
-<tr>
-<td colspan="15">үй....................</td>
-<td colspan="5">4</td>
-<td colspan="30" rowspan="2">14.4. Сіз өзіңіздің үйіңізді қандай сомаға сата алар едіңіз? Бағалап көріңізші</td>
-</tr>
-<tr>
-<td colspan="15" rowspan="2">Басқа құрылыс.........</td>
-<td colspan="5" rowspan="2">5</td>
-</tr>
-<tr>
-<td colspan="8">теңге</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="4"></td>
-</tr>
-<tr>
-<th colspan="53">15. Келесі сұрақ ұзақ пайдаланатын тауарлардың қолда бары туралы:</th>
-</tr>
-<tr>
-<td colspan="21"></td>
-<td colspan="7">Саны, бірлік</td>
-<td colspan="10">Пайдалану мерзімі, жыл</td>
-<td colspan="15">Тауардың бағаланған ағымдағы құны, орташа бір бірлікке, теңге*</td>
-</tr>
-<tr>
-<th colspan="21">1</th>
-<th colspan="7">2</th>
-<th colspan="10">3</th>
-<th colspan="15">4</th>
-</tr>
-<tr>
-<td colspan="21">Аудио-телетехника немесе фотоаппаратура</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">1. Теледидар</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">2. Үй кинотеатры</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">3. Бейне магнитофон, бейнеплеер</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">4. Бейнекамера</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">5. DVD-плеер</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">6. Радиоқабылдағыш</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">7. Музыкалық орталық, караоке</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">8. Магнитофон, аудиоплеер, CD-плеер</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">9. Спутникті антенналар</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">10. Фотоаппарат</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<th colspan="21">Тұрмыстық техника</th>
-<th colspan="7"></th>
-<th colspan="10"></th>
-<th colspan="15"></th>
-</tr>
-<tr>
-<td colspan="21">11. Тоңазытқыш, мұздатқыш камера</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">12. Кір жуатын машина</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">13. Қысқа толқынды пеш</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">14. Ыдыс жуғыш машина</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">15. Тігін машинасы,тоқыма машинасы</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">16. Шаңсорғыш</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">17. Газ және электр плитасы</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">18. Ауа баптағыш</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<th colspan="21">Ұйымдастыру техникасы</th>
-<th colspan="7"></th>
-<th colspan="10"></th>
-<th colspan="15"></th>
-</tr>
-<tr>
-<td colspan="21">19. Дербес компьютер және принтер</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">20. Ноутбук, қалта компьютері (лап-топ)</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">21. Факсимильді және көшірме аппараты</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">22. Стационарлық телефон</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">23. Ұтқыр телефон</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<th colspan="21">Жиһаз</th>
-<th colspan="7"></th>
-<th colspan="10"></th>
-<th colspan="15"></th>
-</tr>
-<tr>
-<td colspan="21">24. Тұрғын үй жиһаздарының жиынтығы, қабырғалық, шағын қабырғалық жиһаздар</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">25. Жұмсақ жиһаз жиынтығы</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">26. Жатын бөлме жиһаз жиынтығы</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">27. Ас бөлмеге арналған жиһаздардың жиынтығы, бұрышқа қойылатын жұмсақ жиһазды қосқанда</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">28. Кіре беріс бөлмеге арналған жиһаз жиынтығы</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<th colspan="21">Көлік құралдары</th>
-<th colspan="7"></th>
-<th colspan="10"></th>
-<th colspan="15"></th>
-</tr>
-<tr>
-<td colspan="21">29. Жеңіл автомобиль</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">30. Мотоцикл, мотороллер, мопед</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">31. Велосипед (балаларға арналғаннан басқа)</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<th colspan="21">Музыкалық аспаптар</th>
-<th colspan="7"></th>
-<th colspan="10"></th>
-<th colspan="15"></th>
-</tr>
-<tr>
-<td colspan="21">32. Клавишті музыкалық аспаптар</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="21">33. Пернелі музыкалық астаптар</td>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="15"></td>
-</tr>
-<tr>
-<td colspan="53">* егер қолда екі және одан да көп тауарлар болған жағдайда, сол жаңа тауарлардың құны қойылады (соңғы модификациядағы)</td>
-</tr>
-<tr>
-<th colspan="53">2. Жердің, малдың және техниканың қолда бары</th>
-</tr>
-<tr>
-<th colspan="25">16. Айтыңызшы? Сіздің жерді пайдалануға мүмкіндігіңіз бар ма?</th>
-<th colspan="2" rowspan="4"></th>
-<th colspan="26">17. Сіздің қарамағыңызда барлығы қанша жер учаскесі бар?</th>
-</tr>
-<tr>
-<td colspan="16" rowspan="3">
-Иә...................
-Жоқ..................
-</td>
-<td colspan="9">1 -&gt; 17</td>
-<td colspan="24">Бір……………………………………………….</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="9" rowspan="2">2 -&gt; 21</td>
-<td colspan="24">Екі…………………………………………………</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="24">Үш немесе одан көп……………………………</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<th colspan="53">18. Енді Сіздің/Сіздердің жер учаскелеріңіз туралы толығырақ сөйлесейік. Мына учаске/учаскелер Сіздің...</th>
-</tr>
-<tr>
-<td colspan="53"></td>
-</tr>
-<tr>
-<td colspan="24"></td>
-<td colspan="6">1- учаске</td>
-<td colspan="11">2- учаске</td>
-<td colspan="12">3- учаске</td>
-</tr>
-<tr>
-<th colspan="24">1</th>
-<th colspan="6">2</th>
-<th colspan="11">3</th>
-<th colspan="12">4</th>
-</tr>
-<tr>
-<td colspan="24">1. Жеке меншігіңізде</td>
-<td colspan="6"></td>
-<td colspan="11"></td>
-<td colspan="12"></td>
-</tr>
-<tr>
-<td colspan="24">2. Мемлекеттен жалға алдыңыз ба (жерді уақытша (қысқа, ұзақ мерзімді) пайдалануға құқығыңыз бар)</td>
-<td colspan="6"></td>
-<td colspan="11"></td>
-<td colspan="12"></td>
-</tr>
-<tr>
-<td colspan="24">3. Жеке тұлғадан жалға алдыңыз</td>
-<td colspan="6"></td>
-<td colspan="11"></td>
-<td colspan="12"></td>
-</tr>
-<tr>
-<td colspan="24">4. Өзге де</td>
-<td colspan="6"></td>
-<td colspan="11"></td>
-<td colspan="12"></td>
-</tr>
-<tr>
-<th colspan="53">19. Жер телімінің мақсатты тағайындалуын көрсетіңіз</th>
-</tr>
-<tr>
-<td colspan="24"></td>
-<td colspan="6">1- учаске</td>
-<td colspan="11">2- учаске</td>
-<td colspan="12">3- учаске</td>
-</tr>
-<tr>
-<th colspan="24">1</th>
-<th colspan="6">2</th>
-<th colspan="11">3</th>
-<th colspan="12">4</th>
-</tr>
-<tr>
-<td colspan="24">1. Шаруа (фермер) қожалығын жүргізу үшін</td>
-<td colspan="6"></td>
-<td colspan="11"></td>
-<td colspan="12"></td>
-</tr>
-<tr>
-<td colspan="24">2. Жеке қосалқы шаруашылық үшін</td>
-<td colspan="6"></td>
-<td colspan="11"></td>
-<td colspan="12"></td>
-</tr>
-<tr>
-<td colspan="24">3. Бақ өсіру, бақша өсіру, саяжай құрылысы үшін</td>
-<td colspan="6"></td>
-<td colspan="11"></td>
-<td colspan="12"></td>
-</tr>
-<tr>
-<td colspan="24">4. Мал жаю және шөп дайындау үшін</td>
-<td colspan="6"></td>
-<td colspan="11"></td>
-<td colspan="12"></td>
-</tr>
-<tr>
-<td colspan="24">5. Тек қана демалу үшін</td>
-<td colspan="6"></td>
-<td colspan="11"></td>
-<td colspan="12"></td>
-</tr>
-<tr>
-<td colspan="24">6. Өзге де</td>
-<td colspan="6"></td>
-<td colspan="11"></td>
-<td colspan="12"></td>
-</tr>
-<tr>
-<th colspan="21">20. Сіздің үй шаруашылығыңызға берілген барлық жер учаскелерінің жалпы ауданын айтыңыз.</th>
-<th colspan="5" rowspan="20"></th>
-<th colspan="27">21. Сіз (Сіздің отбасыңыз) құс, мал немесе бал арасын ұстайсыз ба?</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="14">сотық</td>
-<td colspan="21">Иә……………………………………………</td>
-<td colspan="6">1 -&gt; 22</td>
-</tr>
-<tr>
-<td colspan="21"></td>
-<td colspan="21">Жоқ……………………………………………</td>
-<td colspan="6">2 -&gt; 23</td>
-</tr>
-<tr>
-<th colspan="21">22.Нақты нені қолда ұстайсыздар?</th>
-<th colspan="27">23. Енді ауыл шаруашылығы техникаларының, машиналар мен жұмыс малдарының қолда бары туралы сөйлесейік.</th>
-</tr>
-<tr>
-<td colspan="9">Егер төмендегілердің аттары аталатын болса, онда сұраңыз -&gt;</td>
-<td colspan="12">Қанша?</td>
-<td colspan="6" rowspan="2"></td>
-<td colspan="13">1.Төменде аттары аталғандар Сізде бар ма</td>
-<td colspan="8" rowspan="2">4. Қанша бірлік?</td>
-</tr>
-<tr>
-<td colspan="9">1. Сиырлар</td>
-<td colspan="12"></td>
-<td colspan="13">
-Иә-1 -&gt;
-Жоқ–2
-</td>
-</tr>
-<tr>
-<td colspan="9" rowspan="2">2. Басқа да ірі қара мал (жұмысқа жегілетіндерінсіз) жас төлдерді қосқанда</td>
-<td colspan="12" rowspan="2"></td>
-<td colspan="6">1. Жылқылар (жұмысқа жегілетін)</td>
-<td colspan="13"></td>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="6">2. Есектер, қашыр</td>
-<td colspan="13"></td>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="9">3. Шошқалар, торайлар</td>
-<td colspan="12"></td>
-<td colspan="6">3. Арбалар (шаналар)</td>
-<td colspan="13"></td>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="9">4. Қойлар және ешкілер</td>
-<td colspan="12"></td>
-<td colspan="6">4. Су сорғы</td>
-<td colspan="13"></td>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="9">5. Жылқылар (жұмысқа жегілетіндерінсіз)</td>
-<td colspan="12"></td>
-<td colspan="6" rowspan="2">5. Күштік қондырғы</td>
-<td colspan="13" rowspan="2"></td>
-<td colspan="8" rowspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">6. Түйелер</td>
-<td colspan="12"></td>
-</tr>
-<tr>
-<td colspan="9">7. Қояндар</td>
-<td colspan="12"></td>
-<td colspan="6">6. Трактор</td>
-<td colspan="13"></td>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="9">8. Құстар</td>
-<td colspan="12"></td>
-<td colspan="6">7. Мотоблок</td>
-<td colspan="13"></td>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="9">9. Бал аралары (ұялысы)</td>
-<td colspan="12"></td>
-<td colspan="6">8. Кіші трактор</td>
-<td colspan="13"></td>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="21" rowspan="5"></td>
-<td colspan="6">9. Жүк машинасы</td>
-<td colspan="13"></td>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="6">10. Пішен шапқыш</td>
-<td colspan="13"></td>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="6">11. Комбайн</td>
-<td colspan="13"></td>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="6">12. Дәнсепкіш</td>
-<td colspan="13"></td>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="6">13. Өзгелері</td>
-<td colspan="13"></td>
-<td colspan="8"></td>
+<td colspan="4">Басқа ............................</td>
+<td>9</td>
 </tr>
 </table>
 
-РҚАО-ның ескертпесі!
+<table>
+<tr>
+<th colspan="2">12. Үй шаруашылығында дәретхананың қандай түрі қолданылады?</th>
+<th colspan="2">12.1. Дәретхана қай жерде орналасқан?</th>
+</tr>
+<tr>
+<td rowspan="2">Кәрізі орталық жүйеден тартылған дәретхана ....</td>
+<td rowspan="2">1</td>
+<td>Үйде ...............................</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Аулада .............................</td>
+<td>2</td>
+</tr>
+<tr>
+<td rowspan="2">Қоғамдық/жеке ұңғыма немесе шұңқырға тартылған дәретхана ....</td>
+<td rowspan="2">2</td>
+<td>Көшеде .............................</td>
+<td>3</td>
+</tr>
+<tr>
+<th colspan="2" rowspan="3">12.2. Бұл дәретхананы тек Сіздің үй шаруашылығыңыз ғана пайдалана ма немесе басқа үй шаруашылықтары да ма?</th>
+</tr>
+<tr>
+<td>Шұңқыр дәретхана .......</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Басқа ..................</td>
+<td>9</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2"></td>
+<td>Бір үй шаруашылығымен ................</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Басқа үй шаруашылықтарымен бірге ....</td>
+<td>2</td>
+</tr>
+</table>
 
-8-қосымша жаңа редакцияда көзделген - ҚР Статистика агенттігі Төрағасының 2012.07.04 № 178 (2013.01.01 бастап қолданысқа енгізіледі) Бұйрығымен.
+<table>
+<tr>
+<td>Интервьюер! Жаяу жүріп жете алатын қолжетімділік шегінде әлеуметтік инфрақұрылым объектілері барларға келесі сұрақты қойыңыз, кері жағдайда 13.1 сұраққа көшіңіз</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th colspan="7">13. Сіздің тұрғын үйіңізден жаяу жүріп жете алатын қолжетімділік шегінде келесі әлеуметтік инфрақұрылым объектілері бар ма, егер болса, онда жақын объектіге жету үшін Сізге қанша уақыт қажет?</th>
+</tr>
+<tr>
+<td></td>
+<td>Қоғамдық көлік аялдамасы</td>
+<td>Дүкен немесе базар</td>
+<td colspan="2">Медициналық мекеме</td>
+<td>Жалпы білім беру мекемесі (мектеп, гимназия, лицей)</td>
+<td>Мектепке дейінгі білім беру мекемесі</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td>1. 10 минуттан аз</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2. 10-20 минут</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3. 20-30 минут</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4. 30-60 минут</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5. 1 сағаттан көп</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="7">13.1. Егер жаяу жүріп жету мүмкін болмаса, онда қоғамдық көлікте, бағыттық таксиде, автомобильде немесе көліктің басқа түрімен жету үшін Сізге қанша уақыт қажет етіледі?</th>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">Дүкен немесе базар</td>
+<td>Медициналық мекеме</td>
+<td>Жалпы білім беру мекемесі (мектеп, гимназия, лицей)</td>
+<td>Мектепке дейінгі білім беру мекемесі</td>
+</tr>
+<tr>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<td colspan="2">1. 10 минуттан аз</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">2. 10-20 минут</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">3. 20-30 минут</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">4. 30-60 минут</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">5. 1 сағаттан көп</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th colspan="3">14. Сізде тағы қандай да бір тұрғын үй (негізгіден басқа) бар ма?</th>
+<th colspan="9">14.2. Сіз оны қалай пайдаланасыз?</th>
+</tr>
+<tr>
+<td>Иә ..........</td>
+<td colspan="2">114.1.</td>
+<td colspan="6">Онда жазда және бос уақытта тұрамын .......</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>Жоқ .........</td>
+<td colspan="2">214.3.</td>
+<td colspan="6">Жалға беремін .............................</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="2">14.1. Ол қандай тұрғын үй? Тұрғын үйдің (негізгіден басқа) типін көрсетіңізші.</td>
+<td colspan="6">Пайдаланбаймын ............................</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td colspan="6">Өзге (көрсетіңіз) .........................</td>
+<td colspan="3">9</td>
+</tr>
+<tr>
+<td colspan="2">Жеке пәтер .........</td>
+<td>1</td>
+<td colspan="9" rowspan="3">14.3. Егер де негізгі үйді жалға алған болсаңыз, оған айына Сіз қанша төлеген болар едіңіз? Бағалап көріңізші?</td>
+</tr>
+<tr>
+<td colspan="2">Ауылдық жердегі үй немесе үйдің жартысы ................</td>
+<td>2</td>
+</tr>
+<tr>
+<td colspan="2">Қалалық жердегі үй немесе үйдің жартысы ................</td>
+<td>3</td>
+</tr>
+<tr>
+<td colspan="2">Саяжай немесе маусымдық тұруға арналған үй ........</td>
+<td>4</td>
+<td>теңге</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Басқа құрылыс ......</td>
+<td>9</td>
+<td colspan="9">14.4. Сіз өзіңіздің үйіңізді қандай сомаға сата алар едіңіз? Бағалап көріңізші</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th colspan="18">15. Келесі сұрақ ұзақ пайдаланатын тауарлардың қолда бары туралы:</th>
+</tr>
+<tr>
+<td colspan="6"></td>
+<td colspan="6">Саны, бірлік</td>
+<td colspan="2">Пайдалану мерзімі, жыл</td>
+<td colspan="4">Тауардың бағаланған ағымдағы құны, орташа бір бірлікке, теңге*</td>
+</tr>
+<tr>
+<th colspan="6">1</th>
+<th colspan="6">2</th>
+<th colspan="2">3</th>
+<th colspan="4">4</th>
+</tr>
+<tr>
+<th colspan="6">Аудио-телетехника немесе фотоаппаратура</th>
+<th colspan="6"></th>
+<th colspan="2"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="6">1. Түрлі-түсті теледидар</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">2. Ақ-қара түсті теледидар</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">3. Үй кинотеатры</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">4. Бейне магнитофон, бейнеплеер</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">5. Бейнекамера</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">6. DVD-плеер</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">7. Радиоқабылдағыш</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">8. Музыкалық орталық</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">9. Караоке</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">10. Магнитофон</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">11. Аудиоплеер</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">12. CD-плеер</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">13. Спутникті антенналар</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">14. Фотоаппарат</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">15. Ойын қондырғылары</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<th colspan="6">Тұрмыстық техника</th>
+<th colspan="6"></th>
+<th colspan="2"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="6">16. Тоңазытқыш</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">17. Мұздатқыш камера</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">18. Кір жуғыш машина</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">19. Қысқа толқынды пеш</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">20. Ыдыс жуғыш машина</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">21. Тігін машинасы</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">22. Тоқыма машинасы</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">23. Шаңсорғыш</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">24. Газ плитасы</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">25. Электр плитасы</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">26. Ауа баптағыш</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<th colspan="6">Ұйымдастыру техникасы</th>
+<th colspan="6"></th>
+<th colspan="2"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="6">27. Дербес компьютер</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">28. Принтер</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">29. Ноутбук</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">30. Қалта компьютері (палмтоп)</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">31. Факсимильді аппарат</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">32. Көшірме аппараты</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">33. Стационарлық телефон</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">34. Ұтқыр телефон</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<th colspan="6">Жиһаз</th>
+<th colspan="6"></th>
+<th colspan="2"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="6">35. Тұрғын үй жиһаздарының жиынтығы, қабырғалық, шағын қабырғалық жиһаздар</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">36. Жұмсақ жиһаз жиынтығы</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">37. Жатын бөлме жиһаз жиынтығы</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">38. Ас бөлмеге арналған жиһаздардың жиынтығы, бұрышқа қойылатын жұмсақ жиһазды қосқанда</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">39. Кіре беріс бөлмеге арналған жиһаз жиынтығы</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<th colspan="6">Көлік құралдары</th>
+<th colspan="6"></th>
+<th colspan="2"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="6">40. Жеңіл автомобиль</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">41. Мотоцикл, мотороллер, мопед</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">42. Велосипед (балаларға арналғаннан басқа)</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">43. Жүк автомобилі</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">44. Моторлы қайық, катер, скутер</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<th colspan="6">Музыкалық аспаптар</th>
+<th colspan="6"></th>
+<th colspan="2"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="6">45. Клавишті музыкалық аспаптар</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="6">46. Пернелі музыкалық аспаптар</td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="18">*егер қолда екі және одан да көп тауарлар болған жағдайда, сол жаңа тауарлардың құны қойылады (соңғы модификациядағы)</td>
+</tr>
+<tr>
+<th colspan="18">II. Жердің, малдың және техниканың қолда бары</th>
+</tr>
+<tr>
+<td colspan="8">
+16. Айтыңызшы, Сіздің жерді
+пайдалануға мүмкіндігіңіз
+бар ма?
+</td>
+<td colspan="3"></td>
+<td colspan="7">
+17. Сіздің қарамағыңызда барлығы
+қанша жер учаскесі бар?
+</td>
+</tr>
+<tr>
+<td colspan="7">Иә .........................</td>
+<td>117</td>
+<td colspan="3"></td>
+<td colspan="6">Бір .........................</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="7" rowspan="2">Жоқ ........................</td>
+<td rowspan="2">221</td>
+<td colspan="3"></td>
+<td colspan="6">Екі .........................</td>
+<td>2</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="6">Үш немесе одан көп ..........</td>
+<td>3</td>
+</tr>
+<tr>
+<td colspan="18">
+18. Енді Сіздің/Сіздердің жер учаскелеріңіз туралы толығырақ сөйлесейік.
+Мына учаске/учаскелер Сіздің:
+</td>
+</tr>
+<tr>
+<td colspan="9"></td>
+<td colspan="4">1-учаске</td>
+<td colspan="2">2-учаске</td>
+<td colspan="3">3-учаске</td>
+</tr>
+<tr>
+<th colspan="9">1</th>
+<th colspan="4">2</th>
+<th colspan="2">3</th>
+<th colspan="3">4</th>
+</tr>
+<tr>
+<td colspan="9">1. Жеке меншігіңізде</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="9">2. Мемлекеттен жалға алдыңыз (жерді уақытша (қысқа, ұзақ мерзімді) пайдалануға құқығыңыз бар)</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="9">3. Жеке тұлғадан жалға алдыңыз</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="9">4. Өзге де</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<th colspan="18">19. Жер телімінің мақсатты тағайындалуын көрсетіңіз</th>
+</tr>
+<tr>
+<td colspan="9"></td>
+<td colspan="4">1-учаске</td>
+<td colspan="2">2-учаске</td>
+<td colspan="3">3-учаске</td>
+</tr>
+<tr>
+<th colspan="9">1</th>
+<th colspan="4">2</th>
+<th colspan="2">3</th>
+<th colspan="3">4</th>
+</tr>
+<tr>
+<td colspan="9">1. Шаруа (фермер) қожалығын жүргізу үшін</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="9">2. Жеке қосалқы шаруашылық жүргізу үшін</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="9">3. Бақ өсіру, бақша өсіру, саяжай құрылысы үшін</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="9">4. Мал жаю және шөп дайындау үшін</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="9">5. Жалға беру үшін</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="9">6. Тек қана демалу үшін</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="9">7. Өзге де</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<th colspan="10" rowspan="2">20. Сіздің үй шаруашылығыңызға берілген барлық жер учаскелерінің жалпы ауданын айтыңыз</th>
+<th colspan="8">21. Сіз (Сіздің үй шаруашылығыңыз) құс, мал немесе бал арасын ұстайсыз ба?</th>
+</tr>
+<tr>
+<td colspan="6">Иә .....................</td>
+<td colspan="2">122</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="5">соттық</td>
+<td colspan="6">Жоқ ....................</td>
+<td colspan="2">223</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th colspan="6">22. Нақты нені қолда ұстайсыздар?</th>
+</tr>
+<tr>
+<td>Егер төмендегілердің аттары аталатын болса, онда сұраңыз</td>
+<td colspan="2">Қанша?</td>
+<td colspan="2">Егер төмендегілердің аттары аталатын болса, онда сұраңыз</td>
+<td>Қанша?</td>
+</tr>
+<tr>
+<td>1. Сиырлар</td>
+<td colspan="2"></td>
+<td colspan="2">5. Жылқылар (жұмысқа жегілетіндерінсіз)</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">2. Басқа да ірі қара мал (жұмысқа жегіле-тіндерінсіз) жас төлдерді қосқанда</td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2">6. Түйелер</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">7. Қояндар</td>
+<td></td>
+</tr>
+<tr>
+<td>3. Шошқалар, торайлар</td>
+<td colspan="2"></td>
+<td colspan="2">8. Құстар</td>
+<td></td>
+</tr>
+<tr>
+<td>4. Қойлар және ешкілер</td>
+<td colspan="2"></td>
+<td colspan="2">9. Бал аралары (ұялысы)</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">
+23. Енді ауыл шаруашылығы техникаларының, машиналар мен жұмыс малдарының
+қолда бары туралы сөйлесейік
+</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2">1. Төменде аталғандардың ішінде Сізде бар ма?</td>
+<td colspan="2" rowspan="2">2. Қанша бірлік?</td>
+</tr>
+<tr>
+<td colspan="2">
+Иә-1
+Жоқ-2
+</td>
+</tr>
+<tr>
+<td colspan="2">1. Жылқылар (жұмысқа жегілетін)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">2. Есектер, қашыр</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">3. Арбалар (шаналар)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">4. Су сорғы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">5. Күштік қондырғы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">6. Трактор</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">7. Мотоблок</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">8. Кіші трактор</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">9. Жүк машинасы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">10. Пішен шапқыш</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">11. Комбайн</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">12. Дәнсепкіш</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">13. Өзгелері</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+</table>
 
 > *Қазақстан Республикасы Статистика*  
 > *агенттігі төрағасы міндетін*  
 > *атқарушының 2010 жылғы 24 тамыздағы*  
 > *№ 228 бұйрығына 8-қосымша*
 
+> *Ескерту. 8-қосымша жаңа редакцияда - ҚР Статистика агенттігі Төрағасының 2012.07.04 № 178 (2013.01.01 бастап қолданысқа енгізіледі) Бұйрығымен.*
+
 ## «Негізгі сұхбатқа арналған сұрақнама» жалпымемлекеттік статистикалық байқаудың статистикалық нысанын толтыру бойынша нұсқаулық (коды 1265104, индексі D-006, кезеңділігі жылдық)
 
-1\. Осы нұсқаулық «Мемлекеттік статистика туралы» Қазақстан Республикасы Заңының 12-бабы 7) тармақшасына сәйкес әзірленген және «Негізгі сұхбатқа арналған сұрақнама» (коды 1265104, индексі D-006, кезеңділігі жылдық) жалпымемлекеттік статистикалық байқаудың статистикалық нысанын толтыру тәртібін нақтылайды.
+1\. Осы Нұсқаулық «Мемлекеттік статистика туралы» Қазақстан Республикасы Заңының 12-бабы 7) тармақшасына сәйкес әзірленген және «Негізгі сұхбатқа арналған сұрақнама» (коды 1265104, индексі D-006, кезеңділігі жылдық) жалпымемлекеттік статистикалық байқаудың статистикалық нысанын толтыруын нақтылайды.
 
-2\. Осы статистикалық байқау үй шаруашылықтарының тұрғын үй жағдайы туралы, ұзақ тұтынылатын заттармен қамтамасыз етілуі туралы, қолда бар жер, мал және техника туралы деректер алуға арналған.
+2\. Осы статистикалық байқау үй шаруашылықтарының тұрғын үй жағдайы туралы, ұзақ тұтынылатын заттармен қамтамасыз етілуі туралы, қолда бар жер, мал және техника туралы деректерді алуға арналған.
 
 Байқауға тұрмыс деңгейі бойынша үй шаруашылықтарын іріктеп зерттеуге қатысатын барлық үй шаруашылықтары жатады. Негізгі сұхбатқа арналған сұрақнаманы жылдың басында (қаңтарда) пікіртерім жүргізуге уәкілеттігі бар тұлға (бұдан әрі - интервьюер) жүргізеді.
 
-Сауалнаманың респонденті үй шаруашылығының иесі болады. Үй шаруашылығының иесі ретінде еңбекке қабілетті жастағы жұмыспен қамтылған (әйелдер үшін 18-58 жас, ерлер үшін 18-63 жас) үй шаруашылығының мүшесі болуы мүмкін.
+Статистикалық нысанның респонденті үй шаруашылығының иесі болады. Үй шаруашылығының иесі ретінде еңбекке қабілетті жастағы жұмыспен қамтылған (әйелдер үшін 18-58 жастағы, ерлер үшін 18-63 жастағы) үй шаруашылығының мүшесі болады. Үй шаруашылығында еңбекке қабілетті жастағы жұмысы бар тұлғалар жоқ болған жағдайда (зейнеткерлердің немесе құрамында зейнеткерлер, мүгедектер, студенттер және тағы басқа бар үй шаруашылықтары) үй шаруашылығының иесін қандай да бір табыс түрін иеленетін үй шаруашылығының мүшелері өз бетімен анықтайды.
 
-Үй шаруашылығында еңбекке қабілетті жастағы жұмыспен қамтылған тұлғалар жоқ болған жағдайда (зейнеткерлердің немесе құрамында зейнеткерлер, мүгедектер, студенттер және тағы басқа мүшелері бар үй шаруашылықтары) үй шаруашылығының басшысын үй шаруашылығының мүшелері өздері анықтайды, бірақ ол қандай да бір табыс түрін иеленуі керек.
-
-3\. Титулдық парақта «Аумақтың атауы» тармағында облыстың (қаланың), ауданның (қаланың) және ауылдық елді мекеннің атауы жазылуы керек. 2-тармақтан бастап 5-тармаққа дейін супервайзерлер интервьюерлерге ұсынған зерттелетін үй шаруашылықтарының тізімдерінде көрсетілген деректемелерге сәйкес толтырылады.
+3\. Титулдық парақта «Аумақтың атауы» тармағында облыстың (қаланың), ауданның (қаланың) және ауылдық елді мекеннің атауы көрсетіледі. 2-тармақтан бастап 5-тармаққа дейін супервайзерлер (интервьюер жұмысына бақылауды қамтамасыз ететін статистика департаментінің қызметкері) интервьюерлерге ұсынған зерттелетін үй шаруашылықтарының тізімдерінде көрсетілген деректемеге сәйкес толтырылады.
 
 4\. 1-бөлімде үй шаруашылықтарының негізгі тұрғын үйінде тұрмыс жағдайларын сипаттайтын сұрақтар көрсетілген.
 
-1-сұрақта жауаптың зерттелетін үй шаруашылығы тұрып жатқан тұрғын үйдің түріне сәйкес нұсқасы таңдалып белгіленеді. Тұрғын үй түрін жеке үй, сондай-ақ жалдамалы үй бойынша көрсету қажет, тіпті пәтердің бір бөлмесін ғана немесе бөлек үйдің бір бөлігін жалдап отырған жағдайдың өзінде белгілеу керек.
+1-сұрақта жауаптың зерттелетін үй шаруашылығы тұрып жатқан тұрғын үйдің түріне сәйкес нұсқасы таңдалып белгіленеді. Тұрғын үй түрін жеке өз үйі, сондай-ақ жалдамалы үй бойынша, тіпті пәтердің бір бөлмесін ғана немесе бөлек үйдің бір бөлігін жалдап отырған жағдайдың өзінде белгіленеді.
 
-2-сұрақта жауаптың бір нұсқасы таңдалып белгіленеді. Жекешелендірілген тұрғын үйге үй шаруашылығының жеке меншігіндегі тұрғын үй жатады. Жатақханада жекешелендірілген бөлме жекешелендірілген пәтерге жатады. Сыйға, мұрагерлікке және сатып алынған тұрғын үй жеке меншікке жатады.
+2-сұрақта жауаптың бір нұсқасы таңдалып белгіленеді. Жекешелендірілген тұрғын үйге үй шаруашылығының жеке меншігіндегі тұрғын үй жатады. Жатақханадағы жекешелендірілген бөлме жекешелендірілген пәтерге жатады. Сыйға алынған, мұрагерлікке және сатып алынған тұрғын үй жеке меншікке жатады.
 
-3-сұрақта тұрғын үйдің жалпы және тұрғын алаңы көрсетіледі. Тұрғын алаңы деп тұрғын бөлмелердің тұруға арналған және пайдаланылған аумағы саналады. Оған пәтердегі немесе үйдегі тұрғын бөлмелер алаңдарының жиынтығы кіреді. Тұрғын алаңға пәтер және үйдегі ас-үй, дәліз, ванна, дәретхана, қойма және басқа қосымша жайлардың алаңы кірмейді. Тұрғын бөлме де, сондай-ақ ас бөлме болып табылатын бір бөлмеден тұратын тұрғын жайлар бойынша тұрғын алаңы қойылады. Жалпы (пайдалы) алаңға тұрғын алаңы, сонымен қатар асүй, дәліз, ванна, дәретхана, қойма және басқа қосымша жайлардың алаңы кіреді. Алаң көлемі бүтін сандармен шаршы метрде жазылады.
+3-сұрақта тұрғын үйдің жалпы және тұрғын алаңы көрсетіледі. Тұрғын алаңы деп тұрғын бөлмелердің тұруға арналған және пайдаланылатын аумағы саналады. Оған пәтердегі немесе үйдегі тұрғын бөлмелер алаңдарының сомасы кіреді. Тұрғын алаңға пәтер немесе үйдегі ас-үй, дәліз, ванна, дәретхана, қойма және басқа қосымша орын-жайлардың алаңы кірмейді. Тұрғын бөлме де, сондай-ақ ас бөлме болып табылатын бір бөлмеден тұратын тұрғын жайлар бойынша тұрғын алаңы қойылады. Жалпы (пайдалы) алаңға тұрғын алаңы сияқты сонымен қатар асүй, дәліз, ванна, дәретхана, қойма және басқа қосымша орын-жайлардың алаңы кіреді. Алаң көлемі бүтін сандармен шаршы метрде жазылады.
 
 4-сұрақта тұрғын бөлменің саны қойылады.
 
-5-сұрақта пәтерде (үйде) тұрып жатқан толық жыл саны қойылады. Мысалы, егер үй шаруашылығы онда 5 жыл және 11 ай тұрып жатса, онда 5, егер 1 жылдан аз болса - 1 қою керек.
+5-сұрақта пәтерде (үйде) тұрып жатқан толық жыл саны қойылады. Егер үй шаруашылығы онда 5 жыл және 11 ай тұрып жатса, онда 5, егер 1 жылдан аз болса - 1 қойылады.
 
 6-сұрақта тұрғын үйдің салынған жылы көрсетіледі.
 
-7-сұрақтың 2-бағанында кестенің барлық жолдары бойынша интервьюер тиісті кодты қояды. Егер бірнеше қожайын ортақ санузел, себізгі және асүйі бар бұрынғы жатақханадағы жекешелендірілген бөлмеде тұрып жатқан үй шаруашылығы зерттеліп жатса, онда осы үй шаруашылығында осы жабдықтардың барлығы бар деп саналады және тиісті бағанда 1-коды қойылады. Егер үй шаруашылығында қандай да бір себеппен (мысалы, төлем бойынша қарыздар болған жағдайда) абаттандырудың белгілі бір түрлері уақытша жұмыс істемесе, олардың бары міндетті түрде көрсетілуі керек. Орталықтан жылыту жылуэлектростанциясы немесе қазандықтардың көмегімен жүзеге асады. Егер орталықтан жылу ұзақ кезеңде жұмыс істемей тұрса, онда абаттандырудың бұл түрі есептен шығару актісі рәсімделгенше көрсетілуі тиіс. Егер жылыту ғимарат немесе тұрғын үйдің ішінде қарастырылған құрылғының көмегімен немесе энергия көздеріне қарамастан жылыту мақсатына арналған болса, онда ол жеке орнатылған жылытуға жатады. Оларға бөлек үйлерде немесе тұрғын үй кешендерінде орналастырылған автономды жылыту жүйесі және көмір және отынмен жылытатын пештер жатады. Жылытқыштар мен ауа баптағыштар (сплит-жүйе) мұнда қосылмайды. Бағдарламаларды қабылдау теле-радиохабарлардың құралдарына үй және спутникті антенна, радиоқабылдағыштар және қабылдау-беру құралдары жатады.
+7-сұрақта кестенің барлық жолдары бойынша интервьюер тиісті кодты қояды. Егер бірнеше қожайын ортақ санузел, себізгі және асүйі бар бұрынғы жатақханадағы жекешелендірілген бөлмеде тұрып жатқан үй шаруашылығы зерттеліп жатса, онда осы үй шаруашылығында осы жабдықтардың барлығы бар деп саналады және жауап үшін тиісті бағанда 1-коды қойылады. Егер үй шаруашылығында қандай да бір себеппен (төлем бойынша қарыздар және тағы басқалары) абаттандырудың белгілі бір түрлері уақытша жұмыс істемесе, олардың бары міндетті түрде көрсетіледі. Орталықтан жылыту жылуэлектростанциясы немесе қазандықтардың көмегімен жүзеге асады. Егер орталықтан жылу ұзақ кезеңде жұмыс істемей тұрса, онда абаттандырудың бұл түрі есептен шығару актісі рәсімделгенше көрсетіледі. Егер жылыту ғимарат немесе тұрғын үйдің ішінде қарастырылған құрылғының көмегімен немесе энергия көздеріне қарамастан жылыту мақсатына арналған болса, онда ол жеке орнатылған жылытуға жатады. Оларға бөлек үйлерде немесе тұрғын үй кешендерінде орналастырылған автономды жылыту жүйесі және көмір және отынмен жылытатын пештер жатады. Жылытқыштар мен ауа баптағыштар (сплит-жүйе) мұнда қосылмайды. Бағдарламаларды қабылдау теле-радиохабарлардың құралдарына үй және спутникті антенна, радиоқабылдағыштар және қабылдау-беру құралдары жатады.
 
-8-сұрақта жабдықтаудың соңғы іркілістері байқалған 30 күн ішінде (негізгі интервью жүргізу күнінің алдындағы) негізгі қызмет түрлерінің тізімі келтірілген. Егер тәулік ішінде әр кезде орын алған бірнеше сағатқа созылған тоқтаулар болса, (мысалы, желіде апат немесе жоспарлы алдын алуға байланысты), онда іркіліс болды деп есептелмейді. Егер сөндірулер тәулікте бірнеше сағат ішінде ауық-ауық мерзімді немесе тұрақты жүргізілсе, онда іркілістер тіркеледі. 5-тармақ бойынша «Газбен жабдықтау» 7-сұрақтың 8-тармағын «Желілі газды» белгілеген үй шаруашылықтары жауап береді.
+8-сұрақта жабдықтаудың соңғы іркілістері байқалған 30 күн ішінде (негізгі интервью жүргізу күнінің алдындағы) негізгі қызмет түрлерінің тізімі келтірілген. Егер тәулік ішінде әр кезде орын алған бірнеше сағатқа созылған тоқтаулар болса (желіде апат немесе жоспарлы алдын алуға байланысты), онда іркіліс болды деп есептелмейді. Егер сөндірулер тәулікте бірнеше сағат ішінде ауық-ауық мерзімді немесе тұрақты жүргізілсе, онда іркілістер тіркеледі. «Газбен жабдықтау» 5-тармақ бойынша 7-сұрақтың «Желілік газды» 8-тармағын белгілеген үй шаруашылықтары жауап береді.
 
-9-сұрақта көрсетілген тұрғын үй қызметтерінің сапасына қатысты үй шаруашылығының субъективті бағалауы көрсетіледі. 6-тармақ «Газ беру» бойынша 7-сұрақтың 8-тармағын «Желілі газды» белгілеген үй шаруашылықтары жауап береді.
+9-сұрақта көрсетілген тұрғын үй қызметтерінің сапасына қатысты үй шаруашылығының субъективті бағалауы көрсетіледі. «Газ беру» 6-тармақ бойынша 7-сұрақтың «Желілік газды» 8-тармағын белгілеген үй шаруашылықтары жауап береді.
 
 10 және 10.1-сұрақтарға пәтерінде (үйінде) су құбыры жоқ үй шаруашылықтары ғана жауап береді. Тиісті жолдарда сумен жабдықтау көзін және оның орналасқан ара қашықтығы көрсетіледі. Егер үй шаруашылығына ауыз суды су тасығыш жеткізіп беретін болса, 10.1-сұрақ қойылмайды.
 
-11-сұраққа жауаптың екі нұсқасын көрсетуге болады, үй шаруашылығы үйінде, сондай-ақ қоғамдық моншалар мен сауналарда жуынуы мүмкін. Үй шаруашылығында бұл абаттандырудың әртүрлі түрлері болуы мүмкін. 5-кодқа «Басқа» 1-4 жауаптардың тізімінде келтірілмеген барлық жағдайлар жатады.
+11-сұрақта жауаптың екі нұсқасын көрсетуге болады, өйткені үй шаруашылығы үйінде де, сондай-ақ қоғамдық моншалар мен сауналарда да жуынуы мүмкін. Сондай-ақ, үй шаруашылығының өз үйінде сияқты бұл жайландырудың әртүрлі түрлері болады. «Басқа» 5-кодқа 1-4 жауаптардың тізімінде келтірілмеген барлық жағдайлар жатады.
 
-12-сұрақта жауаптың бір нұсқасы көрсетіледі. Егер үй шаруашылығында қоғамдық пайдаланудың бірнеше орындарын қолданған жағдайда, жауап ретінде неғұрлым абаттандырылған түрі туралы мәліметті көрсетеді. Алдыңғы сұраққа ұқсас, 4 - «басқа» кодымен жауап 1-3 жауаптар тізіміне кірмеген жағдайларға қарастырылған.
+12-сұрақта жауаптың бір нұсқасы көрсетіледі. Егер үй шаруашылығында қоғамдық пайдаланудың бірнеше орындарын қолданған жағдайда, жауап ретінде неғұрлым абаттандырылған түрі туралы мәліметті көрсетеді. «Басқа» 4-кодындағы жауап 1-3 жауаптар тізімде жіктелмеген жағдайларға қарастырылған.
 
 12.1 және 12.2-сұрақтарда жауаптың бір нұсқасы таңдалып, белгіленеді.
 
-13-сұрақта жауаптың бірнеше нұсқасы болуы мүмкін. Егер жаяу жүретін жерде дүкен де және базар да бар болса, онда ең жақынын көрсету керек. Егер бір үй шаруашылығында балалар бірнеше мектепке баратын болса, онда ең жақыны көрсетіледі.
+13-сұрақта жауаптың бірнеше нұсқасы таңдалады. Егер жаяу жүріп жететін қолжетімділікте дүкен де және базар да бар болса, онда ең жақынын көрсетеді. Егер бір үй шаруашылығында балалар бірнеше мектепке баратын болса, онда ең жақыны көрсетіледі.
 
-13.1-сұрақта жауап нұсқалары бірнешеу болуы мүмкін. Егер респондент базарға бару үшін ең алдымен поез немесе электр поезының аялдамасына дейін автобуспен жетіп алып, содан соң сол екі көліктің бірімен жетсе, солардың барлығына кеткен жалпы уақыт көрсетіледі.
+13.1-сұрақта жауаптың бірнеше нұсқасы таңдалады. Егер респондент базарға бару үшін ең алдымен поез немесе электр поезының аялдамасына дейін автобуспен жетіп алып, содан соң сол екі көліктің бірімен жетсе, солардың барлығына кеткен жалпы уақыт көрсетіледі.
 
 14-сұрақта «иә» деп жауап берген жағдайда, 14.1 және 14.2-сұрақтар қойылады. «Жоқ» деп жауап берген жағдайда 14.3-сұрақ қойылады.
 
-14.3-сұрақ жеке (жекешелендірілген) тұрғын үйі бар және осы бөлімнің 2-сұрағының 1-кодын таңдаған үй шаруашылықтарына қойылады. Мұнда ол жеке үйін жалға алған жағдайда бір айда төлей алатын ақшалай сомасына субъективті бағалау беріледі. Бұл сұраққа 2-сұрақтың 1-нұсқасын белгілеген үй шаруашылықтары жауап береді. Алынған ақпарат үй шаруашылығының әл-ауқатын талдау үшін пайдаланылады.
+14.3-сұрақ жеке (жекешелендірілген) тұрғын үйі бар және осы бөлімнің 2-сұрағының «1»-кодын таңдаған үй шаруашылықтарына қойылады. Мұнда ол жеке үйін жалға алған жағдайда бір айда төлей алатын ақшалай сомасына үй шаруашылығының субъективті бағалауы беріледі.
 
 14.4-сұрақта үй шаруашылығының өз тұрғын үйін сата алатын сомасы көрсетіледі. Бұл сұраққа осы бөлімнің 2-сұрағының 1-кодын белгілеген үй шаруашылықтары тұрмыс-жағдайын талдау мақсатында жауап береді.
 
-15-сұрақта үй шаруашылығында бар, сатып алынғанына, үй шаруашылығы мүшелермен жасалынғанына, сыйға, тегін немесе несиеге алынғанына, сондай-ақ үй шаруашылығына тиесілі басқа пәтерде немесе саяжай үйлерінде болғанына қарамастан барлық ұзақ пайдаланылатын заттар көрсетіледі. Жарамды немесе уақытша жарамсыз (жөндеуде жатқан немесе жөндеу қажет ететін) екендігіне қарамастан барлық ұзақ тұтынылатын заттар көрсетіледі. Үй шаруашылығы жөндеуге ниет танытпайтын тауарлар есепке алынбайды. Егер ұзақ тұтынылатын тауар туыстарына немесе таныстарының біреуіне уақытша тұтынуға, жалға берілсе, онда олардың бар екендігі міндетті түрде есепке алынады.
+15-сұрақта үй шаруашылығында бар, сатып алынғанына, үй шаруашылығы мүшелермен жасалынғанына, сыйға (тегін) немесе несиеге алынғанына, сондай-ақ үй шаруашылығына тиесілі басқа пәтерде немесе саяжай үйлерінде болғанына қарамастан барлық ұзақ пайдаланылатын заттар көрсетіледі. Жарамды немесе уақытша жарамсыз (жөндеуде жатқан немесе жөндеу қажет ететін) екендігіне қарамастан барлық ұзақ тұтынылатын заттар көрсетіледі. Үй шаруашылығы жөндеуге ниет танытпайтын тауарлар есепке алынбайды. Егер ұзақ тұтынылатын тауар туыстарына немесе таныстарының біреуіне уақытша тұтынуға, жалға берілсе, онда олардың бар екендігі міндетті түрде есепке алынады.
 
-Егер үй шаруашылығында шағын автобус болса, онда олар 11-жол бойынша «жеңіл автомобильге» көрсетіледі. Жиһаздар жинағына жиһаздық гарнитуралар, сондай-ақ жұмсақ бұрыштама жиһаздар, жатын, ас-үй бөлмелерінің тұрғын үй жиһаздары (қабырға, төбе) жинағы.
+15-жол бойынша ойын қондырғылары (портативтіні қоспағанда) дегеніміз видео ойындар үшін арнайы жасап шығарылғын электронды құрылғы. Ең жиі қолданылатын көрсету құрылғысы ретінде теледидар, өте сирек компьютер мониторы болып табылады, оларды жеке көрініс құрылғыларына орнатылуы себепті қондырғылар деп атайды.
 
-5\. Заттарды пайдалану мерзімі жылдың соңындағы жағдайына байланысты анықталады. Егер үй шаруашылығы бұрын пайдаланылған затты сатып алса, онда олардың қызмет көрсету мерзімі оның бірінші сатып алған немесе оның өндірілген жылынан бастап есепке алынады.
+30-жол бойынша қалта компьютері (палмтоп) деп электронды органайзер ретінде пайдалануға арналған портативті электронды есептеу құралын айтамыз. Қалта компьютерінен телефон қоңырауларын шалу мүмкін емес, себебі ол ұтқыр телефон емес.
+
+34-жолда «ұтқыр телефон» бойынша қалта компьютерлерінің түрлерін көрсететін, бірақ ұтқыр телефонның қызметтері бар смартфондар мен коммуникаторларды қоса есептегенде телефондардың барлық түрлері саналады.
+
+Жиһаздар жинағына жиһаздық гарнитуралар, сондай-ақ жұмсақ бұрыштама жиһаздар, жатын, ас-үй бөлмелерінің тұрғын үй жиһаздары (қабырға, төбе) жинағы. Егер үй шаруашылығында шағын автобус болса, онда олар 40-жол бойынша «жеңіл автомобильге» көрсетіледі.
+
+Заттарды пайдалану мерзімі жылдың соңындағы жағдайына байланысты анықталады. Егер үй шаруашылығы бұрын пайдаланылған затты сатып алса, онда олардың қызмет көрсету мерзімі оның бірінші сатып алған немесе оның өндірілген жылынан бастап есепке алынады.
 
 Егер бірнеше ұзақ тұтынылатын заттар бар болған жағдайда, олардың ең жаңаларының ағымдағы бағалау құны ұсынылады.
 
-2-бөлімде жер, мал және техникалар туралы ақпарат көрсетіледі.
+5.2-бөлімде нақты бар жер, мал және техникалар туралы ақпарат көрсетіледі.
 
 Үй шаруашылығының жерге қол жетімділігі туралы 16-сұрақ зерттелетін үй шаруашылықтарының барлығына қойылады. Егер үй шаруашылығының жеке жер телімі жоқ, бірақ оны жалға алатын болса, онда олардың жерге қол жетімділігі бар деп саналады. Жерге қол жетімділігі жоқ үй шаруашылықтарына 21-сұрақ қойылады.
 
-17-сұраққа 16-сұраққа оң жауап берген үй шаруашылықтары жауап береді. Мұнда жер телімінің тиісті саны көрсетіледі.
+16, 17-сұрақтарға оң жауап берген үй шаруашылықтары жауап береді. Мұнда жер телімінің тиісті саны көрсетіледі.
 
 18-және 19-сұрақтарда егер үй шаруашылығында бірнеше жер учаскелері болса, онда олардың әрбірі жөніндегі ақпараттың тізбектілігін үй шаруашылығының өзі анықтайды. 2-бағанда үй шаруашылығының пікірі бойынша алғашқы учаске бойынша, 3-бағанда – екіншісі бойынша, 4-бағанда қалғаны бойынша деректер енгізіледі.
 
-20-сұрақта барлық қолда бар учаскелердің жалпы ауданы сотықта және бүтін сандармен ұсынылады.
+20-сұрақта барлық қолда бар учаскелердің жалпы ауданы соттықта және бүтін сандармен ұсынылады.
 
 21-сұрақта жауаптың бір нұсқасы таңдалып алынады және белгіленеді.
 
-22-сұраққа 21-сұрақтың жауаптарының 1-нұсқасын белгілеген үй шаруашылықтары жауап береді. Жауаптар бірнешеу болуы мүмкін. Мұнда үй шаруашылығына тиісті мал басының саны бойынша деректер көрсетіледі. Шеттен өсіруге немесе бағуға алынған мал есепке алынбайды. Егер малды бірлесіп иеленген жағдайда, одан зерттелетін үй шаруашылығына тиесілі бөлігіне (үлесіне) қатысты деректер көрсетіледі. Мұнда жұмысқа жегілетін мал есепке алынбайды.
+22-сұраққа осы бөлімнің 21-сұрақтың «1»-кодын белгілеген үй шаруашылықтары жауап береді. Жауаптың бірнеше нұсқасы белгіленеді. Мұнда үй шаруашылығына тиісті мал басының саны бойынша деректер көрсетіледі. Шеттен өсіруге немесе бағуға алынған мал есепке алынбайды. Егер малды бірлесіп иеленген жағдайда, одан зерттелетін үй шаруашылығына тиесілі бөлігіне (үлесіне) қатысты деректер көрсетіледі. Мұнда жұмысқа жегілетін мал есепке алынбайды.
 
-23-сұрақта үй шаруашылығына тиесілі немесе басқа үй шаруашылығымен берлескен иеліктегі және жалға алынған қолда бар ауыл шаруашылығы техникалары, машиналары және жұмысқа жегілетін малдар көрсетіледі. Жауаптар бірнешеу болуы мүмкін.
+23-сұрақта үй шаруашылығына тиесілі немесе басқа үй шаруашылығымен берлескен иеліктегі және жалға алынған қолда бар ауыл шаруашылығы техникалары, машиналары және жұмысқа жегілетін малдар көрсетіледі. Жауаптың бірнеше нұсқасы белгіленеді.
 
-6\. Пікіртерімді бітірген соң, интервьюер қандай да бір сұрақтар қалып кетпегендігіне көз жеткізу үшін сауалнаманы тағы да бір рет қарап шығуы қажет және респонденттерге ынтымақтастығы және көмектескендері үшін міндетті түрде алғыс білдіруі керек.
+6\. Пікіртерімді бітірген соң интервьюер қандай да бір сұрақтар қалып кетпегендігіне көз жеткізу үшін сауалнаманы тағы да бір рет қарап шығады және респонденттерге ынтымақтастығы және көмектескендері үшін міндетті түрде алғыс айтады. Интервьюер үй шаруашылығынан тыс жерде нысанды қайта қарап шығады және егер қандай да бір сәйкессіздік тапса, онда қайта үй шаруашылығына барып (жеке немесе телефонмен), жеткіліксіз ақпаратты анықтайды.
 
-Интервьюер үй шаруашылығынан тыс жерде сауалнаманы қайта қарап шығуы керек және егер қандай да бір сәйкессіздік тапса, онда қайта үй шаруашылығына барып (жеке немесе телефонмен) және жеткіліксіз ақпаратты анықтауы керек.
+Бұдан басқа, интервьюер осы Нұсқаулыққа қосымшаға сәйкес нысан бойынша «Интервьюер карточкасын» толтырады:
 
-Бұдан басқа, интервьюер толтырылуы тиіс осы Нұсқаулыққа қосымшаға сәйкес нысан бойынша «Интервьюер карточкасын» толтырады:
+респонденттермен өзара іс-қимыл деңгейін және деректердің сапасын бағалайды;
 
-респондентпен өзара іс-қимыл деңгейін және деректердің сапасын бағалау керек;
-
-өз аты-жөнін көрсетіп және респонденттермен пікіртерімнің нысанды толтыру бойынша нұсқаулыққа сәйкес жүргізілгендігін өзінің қолымен растауы керек.
-
-«Cтатистикалық нысанды тексеру бойынша ескертулер» тармағы супервайзердің интервьюер толтырған сауалнаманы көзбен шолу арқылы тексеру нәтижелері бойынша толтыруына арналған.
+респонденттерге сауалнама толтыру нысанының нұсқаулығына сәйкес жүргізілгендігін, өз аты-жөнін көрсетіп және өзінің қолымен расталады. «Cтатистикалық нысанды толтыру бойынша ескертулер» тармағы супервайзердің интервьюер толтырған нысанды көзбен шолу арқылы бақылауды жүргізу нәтижелері бойынша толтыруына арналған.
 
 > *«Негізгі сұхбатқа арналған сұрақнама»*  
 > *жалпымемлекеттік статистикалық*  
-> *байқаудың статистикалық нысанын*  
-> *толтыру бойынша нұсқаулыққа*  
-> *(коды 1265104, индексі D-006,*  
-> *кезеңділігі жылдық) қосымша*
+> *байқаудың статистикалық нысанын толтыру*  
+> *бойынша нұсқаулыққа*  
+> *(коды 1265104, индексі D-006, кезеңділігі*
 
-## Нысан
+жылдық) __-қосымша
 
-## ИНТЕРВЬЮЕРДІҢ КАРТОЧКАСЫ
+Нысан
+
+### ИНТЕРВЬЮЕРДІҢ КАРТОЧКАСЫ
 
 <table>
 <tr>
-<td colspan="2">1. Респонденттің интервьюерге қатынасы</td>
+<td colspan="2">1. Респонденттің сұхбатқа қатынасы</td>
 <td colspan="2">2. Респондент пікіртерім парағының сұрақтарын калай қабылдады</td>
-<td colspan="2">3. Респонденттің интервью кезіндегі байланыстылығы (ашықтылық, шынайылығы)</td>
+<td colspan="2">3. Респонденттің сұхбат кезіндегі байланыстылығы (ашықтылық, шынайылығы)</td>
 <td colspan="2">4. Алынған ақпараттың сенімділігі</td>
 </tr>
 <tr>
 <td>достық, мүдделі</td>
 <td>1</td>
-<td>жақсы, жылдам, парапар</td>
+<td>жақсы, жылдам, адекватты</td>
 <td>1</td>
-<td>
-айтарлықтай ашық,
-шынайы
-</td>
+<td>айтарлықтай ашық, шынайы</td>
 <td>1</td>
 <td>әбден сенімді</td>
 <td>1</td>
 </tr>
 <tr>
-<td>аса мүдделі емес, неғұрлым селқос</td>
+<td>аса мүдделіден гөрі селқос</td>
 <td>2</td>
-<td>онша жақсы емес, қайталауға тура келді, түсініктеме беру</td>
+<td>онша жақсы емес, қайталауға түсініктеме беруге тура келді</td>
 <td>2</td>
 <td>ашық, шынайы</td>
 <td>2</td>
@@ -17642,7 +17744,7 @@ _
 <tr>
 <td>шыдамсыз, тынымсыз</td>
 <td>3</td>
-<td>нашар, түсіндіру қиын болды</td>
+<td>нашар, қиын түсіндіруге тура келді</td>
 <td>3</td>
 <td>ұяң, шынайы емес</td>
 <td>3</td>
@@ -17654,10 +17756,7 @@ _
 <td>4</td>
 <td></td>
 <td></td>
-<td>
-өте ұяң,
-шынайы емес
-</td>
+<td>өте ұяң, шынайы емес</td>
 <td>4</td>
 <td>тіпті сенімсіз</td>
 <td>4</td>
@@ -17666,14 +17765,14 @@ _
 
 <table>
 <tr>
-<td rowspan="2">№ стр.</td>
+<td rowspan="2">жол №</td>
 <td rowspan="2">статистикалық сауалнама бөлімінің №</td>
-<td colspan="15">Статистикалық сауалнама бөлімдері бойынша сұрақтар нөмірлерін көрсетіңіз:</td>
+<td colspan="15">Статистикалық сауалнама бөлімдері бойынша сұрақтардың нөмірлерін көрсетіңіз:</td>
 </tr>
 <tr>
-<td colspan="5">1. респондентке түсінуге қиын болған</td>
-<td colspan="5">2. респонденттің теріс сезімдер тудырған</td>
-<td colspan="5">3. жауап беруге құлықсыз болған (жауап беруден бас тарту)</td>
+<td colspan="5">1. респонденттің түсінуіне қиын болған</td>
+<td colspan="5">2. респонденттің теріс сезімдерін тудырған</td>
+<td colspan="5">3. жауап беруге құлықсыздығын тудырған (жауап беруден бас тарту)</td>
 </tr>
 <tr>
 <td></td>
@@ -17829,28 +17928,32 @@ _
 </tr>
 </table>
 
-## Пікіртерім жеке сұхбат әдісінің нұсқаулығына сәйкес жүргізілгенін мен куәландырамын.
+Пікіртерім Жеке сұхбат әдісінің нұсқаулығына сәйкес
 
-## Интервьюердің толық аты-жөні _______________________________
+жүргізілгенін мен куәландырамын.
 
-## Интервьюердің қолы _________________________
+Интервьюердің толық аты-жөні __________________________________
 
-## Супервайзердің толық аты-жөні ______________________________
+Интервьюердің қолы __________________________________________________
 
-## Супервайзердің қолы _________________________
+Супервайзердің толық аты-жөні _______________________________________
+
+Супервайзердің қолы _________________________________________________
 
 ## СТАТИСТИКАЛЫҚ НЫСАНДЫ ТЕКСЕРУ БОЙЫНША ЕСКЕРТУЛЕР
 
-_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________
 
-РҚАО-ның ескертпесі!
+_____________________________________________________________________
 
-9-қосымша жаңа редакцияда көзделген - ҚР Статистика агенттігі Төрағасының 2012.07.04 № 178 (2013.01.01 бастап қолданысқа енгізіледі) Бұйрығымен.
+_____________________________________________________________________
 
 > *Қазақстан Республикасы Статистика*  
 > *агенттігі төрағасы міндетін*  
 > *атқарушының 2010 жылғы 24 тамыздағы*  
 > *№ 228 бұйрығына 9-қосымша*
+
+> *Ескерту. 9-қосымша жаңа редакцияда - ҚР Статистика агенттігі Төрағасының 2012.07.04 № 178 (2013.01.01 бастап қолданысқа енгізіледі) Бұйрығымен.*
 
 <table>
 <tr>
@@ -17863,11 +17966,11 @@ ________________________________________________________________________________
 <td>Жалпымемлекеттік статистикалық байқау бойынша статистикалық нысан</td>
 </tr>
 <tr>
-<td>Статистикалық нысанды www.​stat.​gov.​kz сайтынан алуға болады.</td>
+<td>Статистикалық нысанды www.​stat.​gov.​kz сайтынан алуға болады</td>
 <td rowspan="2">
 <table>
 <tr>
-<td colspan="6">Статистикалық нысанды толтыруға жұмсалған уақыт, сағат (қажеттісін қоршаңыз)</td>
+<td colspan="6">Статистикалық нысанды толтыруға жұмсалған уақыт, сағат (қажетін қоршау керек)</td>
 </tr>
 <tr>
 <td>1 сағатқа дейін</td>
@@ -17883,49 +17986,48 @@ ________________________________________________________________________________
 <tr>
 <td>
 Статистикалық нысан коды 1276104
-D 008
-Тоқсандық
+D 008 (тоқсан сайынғы нақтыланумен)
 </td>
 </tr>
 </table>
 
-## Үй шаруашылығы құрамының бақылау карточкасы _ _ _ _ Есепті кезең |_|_|_|_| Жыл
+## Үй шаруашылығы құрамының бақылау карточкасы _ _ _ _ Есепті кезең |_|_|_|_| жыл
 
-1\. АУМАҚТЫҢ (ЕЛДІ МЕКЕННІҢ) АТАУЫ _______________________________
+1\. АУМАҚТЫҢ (ЕЛДІ МЕКЕННІҢ) АТАУЫ ___________________________________
 
-_ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _
 
-2\. АӘОЖ БОЙЫНША ЕЛДІ МЕКЕННІҢ КОДЫ*………………………………………|_|_|_|_|_|_|_|_|
+2\. АӘОЖ БОЙЫНША ЕЛДІ МЕКЕННІҢ КОДЫ*................|_|_|_|_|_|_|_|_|_|
 
 _
 
-3\. ЕЛДІ МЕКЕН ТИПІНІҢ КОДЫ (қала - 1, ауыл –2)………………………………… |_|
+3\. ЕЛДІ МЕКЕН ТИПІНІҢ КОДЫ (қала - 1, ауыл – 2)...................|_|
 
-4\. ҮЙ ШАРУАШЫЛЫҒЫНЫҢ КОДЫ …………………………………………… _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _
 
-|_|_|_|_|_|_|_|_|
+4\. ҮЙ ШАРУАШЫЛЫҒЫНЫҢ КОДЫ .....................|_|_|_|_|_|_|_|_|_|_|
 
-5\. СҰХБАТ ЖҮРГІЗУГЕ УӘКІЛЕТТІГІ БАР
+5\. СҰХБАТ ЖҮРГІЗУГЕ УӘКІЛЕТТІ _ _ _ _ _ _ _ _ _
 
-ТҰЛҒАНЫҢ КОДЫ (БҰДАН ӘРІ-ИНТЕРВЬЮЕР)………… _ _ _ _ _ _ _ _
+ТҰЛҒАНЫҢ КОДЫ (БҰДАН ӘРІ-ИНТЕРВЬЮЕР)...........|_|_|_|_|_|_|_|_|_|
 
-|_|_|_|_|_|_|_|_|
+_ _ _ _
 
-6\. БІРІНШІ АРАЛАУ КҮНІ күні _ _ ай _ _
+6\. БІРІНШІ АРАЛАУ КҮНІ күні|_|_| ай|_|_|
 
-|_|_| |_|_|
+_ _ _ _
 
-7\. ЕКІНШІ АРАЛАУ КҮНІ күні _ _ ай _ _
+7\. ЕКІНШІ АРАЛАУ КҮНІ күні|_|_| ай|_|_|
 
-|_|_| |_|_|
+_ _ _ _
 
-8\. ҮШІНШІ АРАЛАУ КҮНІ күні _ _ ай _ _
+8\. ҮШІНШІ АРАЛАУ КҮНІ күні|_|_| ай|_|_|
 
-|_|_| |_|_|
+_ _ _ _
 
-9\. ТӨРТІНШІ АРАЛАУ КҮНІ күні _ _ ай _ _
+9\. ТӨРТІНШІ АРАЛАУ КҮНІ күні|_|_| ай|_|_|
 
-|_|_| |_|_|
+___________________
 
 * Әкімшілік-аумақтық объектілер жіктеуіші ҚР МК 11-2009
 
@@ -17934,20 +18036,15 @@ _
 <table>
 <tr>
 <td rowspan="2">№</td>
-<td rowspan="2">Аты,</td>
+<td rowspan="2">Аты</td>
 <td colspan="2">Үй шаруашылығы басшысына қатынасы</td>
 <td colspan="2">Туған күні</td>
-<td rowspan="2">
-Жынысы
-1-ер, 2-әйел
-</td>
+<td rowspan="2">Жынысы 1-ер, 2-әйел</td>
+<td rowspan="2">Бойы (см)</td>
 <td rowspan="2">Отбасылық жағдайы</td>
 <td rowspan="2">Ұлты</td>
-<td rowspan="2">
-Аттестат немесе дипломмен растайтын қол жеткізген білімінің ең жоғары деңгейі,
-1 қаңтардағы жағдай бойынша
-</td>
-<td rowspan="2">Уақытша болмаған (болған), 1 қаңтардағы жағдай бойынша</td>
+<td rowspan="2">Аттестат немесе дипломмен растайтын қол жеткізген білімінің ең жоғары деңгейі, 1 қаңтардағы жағдай бойынша</td>
+<td rowspan="2">Уақытша болмаған (болған) 1 қаңтардағы жағдай бойынша</td>
 <td colspan="4">Тоқсандық сұхбат жүргізген кездегі үй шаруашылығы құрамындағы өзгерістерді атап көрсетуіңізді өтінеміз:</td>
 </tr>
 <tr>
@@ -17976,6 +18073,7 @@ _
 <th>13</th>
 <th>14</th>
 <th>15</th>
+<th>16</th>
 </tr>
 <tr>
 <td>1</td>
@@ -17993,9 +18091,11 @@ _
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>2</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18027,6 +18127,7 @@ _
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>4</td>
@@ -18044,9 +18145,11 @@ _
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>5</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18078,9 +18181,11 @@ _
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>7</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18112,9 +18217,11 @@ _
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>9</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18146,9 +18253,11 @@ _
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>11</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18180,9 +18289,11 @@ _
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>13</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18214,9 +18325,11 @@ _
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>15</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18248,76 +18361,11 @@ _
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>17</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 </table>
+
+_______________________
 
 * Көрсеткіштерді кодтау төменде келтірілген Кестеге сәйкес жүзеге асырылады
 
@@ -18329,33 +18377,32 @@ _
 </tr>
 <tr>
 <td>
-02 - Күйеуі/Әйелі
-03 - Ұлы/Қызы
-04 - Анасы/Әкесі
-05 - Ағасы/Әпкесі
-06 - Қайын ене/Қайын ата
-07 - Келіні/Күйеу баласы
-08 - Әжесі/Атасы
-09 - Немерелері
-10 - Туыстық/ағайындық қарым-қатынас
-11 - туыс емес
+1 - үй шаруашылығының басшысы
+2 - күйеуі, әйелі
+3 – ұлы, қызы
+4 - әкесі, анасы
+5 - ағасы, әпкесі
+6 - атасы, әжесі
+7 - немересі
+8 - басқа деңгейдегі туыстық
+9 - туыс емес (туыстық жоқ)
 </td>
 <td>
-001 - қазақ
-002 - орыс
-003 - украин
-004 - өзбек
-049 - татар
-178 - ұйғыр
-171 - неміс
-199 - өзге ұлттар
+001 – орыстар
+002 – украиндер
+004 – өзбектер
+005 – қазақтар
+049 – татарлар
+171 – немістер
+178 - ұйғырлар
+199 – басқа ұлттар
 </td>
 <td>
 0 - ешқандай білімге қол жеткізбеген;
 1 - мектепке дейінгі тәрбие мен оқыту;
 2 - бастауыш білім;
 3 - негізгі орта білім;
-4 - орта білім (жалпы орта білім, техникалық және кәсіптік білім );
+4 - орта білім (жалпы орта білім, техникалық және кәсіптік білім);
 5 - жоғары білім;
 6 - жоғары оқу орнынан кейінгі білім;
 7 - ғылыми атақ.
@@ -18369,10 +18416,10 @@ _
 <tr>
 <td>
 1 - некеде тұрады
-2 - ешқашан некеде тұрмаған
-3 - тұл ер/жесір әйел
-4 - ажырасқан
-9 -көрсетілмеген
+2 - ажырасқан
+3 - тұл ер, жесір әйел
+4 - ешқашан некеде тұрмаған
+9 - көрсетілмеген
 </td>
 <td>
 1 - тұрақты кетті
@@ -18381,63 +18428,63 @@ _
 4 - уақытша келді
 </td>
 <td>
-1 - туу 5 - ажырасу
-2 - өлім 6 - оқу
-3 - жұмыс 7 - әскердегі
-4 - неке қызмет
-9 - өзге
-(ауруханаларда,
-түрмеде отыру,
-басқа тұрғылықты
-жерге көшу
-тұрақты жай және
-т.б.)
+1 – туу
+2 – өлім
+3 – жұмыс (Қазақстан Республикасы аумағында)
+4 – жұмыс (Қазақстан Республикасы аумағы шегінен)
+5 – неке
+6 – ажырасу
+7 – оқу
+8 – әскердегі қызмет
+9 – басқа (ауруханада, бас бостандығынан айыру орындарында, басқа орынға көшіп кету және т.б.)
 </td>
 </tr>
 </table>
-
-РҚАО-ның ескертпесі!
-
-10-қосымша жаңа редакцияда көзделген - ҚР Статистика агенттігі Төрағасының 2012.07.04 № 178 (2013.01.01 бастап қолданысқа енгізіледі) Бұйрығымен.
 
 > *Қазақстан Республикасы Статистика*  
 > *агенттігі төрағасы міндетін*  
 > *атқарушының 2010 жылғы 24 тамыздағы*  
 > *№ 228 бұйрығына 10-қосымша*
 
+> *Ескерту. 10-қосымша жаңа редакцияда - ҚР Статистика агенттігі Төрағасының 2012.07.04 № 178 (2013.01.01 бастап қолданысқа енгізіледі) Бұйрығымен.*
+
 ## «Үй шаруашылықтары құрамын бақылау карточкасы» жалпымемлекеттік статистикалық байқаудың статистикалық нысанын (коды 1276104, индексі D-008, кезеңділігі жылдық, тоқсан сайынғы нақтыланумен) толтыру бойынша нұсқаулық
 
-1\. Осы Нұсқаулық «Мемлекеттік статистика туралы» Қазақстан Республикасы Заңының 12-бабы 7) тармақшасына сәйкес әзірленген және «Үй шаруашылықтары құрамын бақылау карточкасы» (коды 1276104, индексі D-008, кезеңділігі жылдық, тоқсан сайынғы нақтыланумен) жалпымемлекеттік статистикалық байқаудың статистикалық нысанын толтыру тәртібін нақтылайды.
+1\. Осы Нұсқаулық «Мемлекеттік статистика туралы» Қазақстан Республикасы Заңының 12-бабы 7) тармақшасына сәйкес әзірленген және «Үй шаруашылықтары құрамын бақылау карточкасы» (коды 1276104, индексі D-008, кезеңділігі жылдық, тоқсан сайынғы нақтыланумен) жалпымемлекеттік статистикалық байқаудың статистикалық нысанын толтыруын нақтылайды.
 
 2\. Осы статистикалық байқау үй шаруашылығының барлық мүшелерінің тізімін құру және олардың әрбірінен демографиялық сипаттама алуға арналған.
 
 Байқауға халықтың тұрмыс деңгейі бойынша үй шаруашылықтарын іріктеп зерттеуге қатысатын барлық үй шаруашылықтары жатады. «Үй шаруашылықтары құрамын бақылау карточкасы» пікіртерімін жүргізуге уәкілеттігі бар тұлға толтырады (бұдан әрі - интервьюер). Үй шаруашылықтары құрамын бақылау карточкасы жылдың басында (қаңтарда) толтырылады, содан кейін тиісті өзгерістер енгізумен тоқсан сайын (сәуірде, шілдеде, қазанда, қаңтарда) нақтылау жүргізіледі.
 
-Сауалнаманың респонденті үй шаруашылығының иесі болады.
+Статистикалық нысанның респонденті үй шаруашылығының иесі болады.
 
-Үй шаруашылығының иесі ретінде еңбекке қабілетті жастағы жұмысы бар (әйелдер үшін 18-58 жас, ерлер үшін 18-63 жас) үй шаруашылығының мүшесі болуы мүмкін. Үй шаруашылығында еңбекке қабілетті жастағы жұмысы бар тұлғалар жоқ болған жағдайда (зейнеткерлердің немесе құрамында зейнеткерлер, мүгедектер, студенттер және тағы басқа бар үй шаруашылықтары) үй шаруашылығының мүшелері өз бетімен анықтайды, бірақ ол қандай да бір табыс түрін иеленуі керек.
+Үй шаруашылығының иесі ретінде еңбекке қабілетті жастағы жұмысы бар (әйелдер үшін 18-58 жас, ерлер үшін 18-63 жас) үй шаруашылығының мүшесі болуы мүмкін. Үй шаруашылығында еңбекке қабілетті жастағы жұмысы бар тұлғалар жоқ болған жағдайда (зейнеткерлердің немесе құрамында зейнеткерлер, мүгедектер, студенттер және тағы басқа бар үй шаруашылықтары) үй шаруашылығының иесін қандай да бір табыс түрін иеленетін үй шаруашылығының мүшелері өз бетімен анықтайды.
 
 3\. Титулдық парақта «Аумақтың атауы» тармағында облыстың (қаланың), ауданның (аудан) және ауылдың (елді мекеннің) атауы жазылуы керек. 2-тармақтан бастап 5 дейін супервайзерлер интервьюерлерге ұсынған зерттелетін үй шаруашылықтарының тізімдерінде көрсетілген деректемеге сәйкес толтырылады.
 
-4\. Бақылау карточкасын толтыру кезінде келесі сұрақтар қойылуы және жауаптары жазылып алынуы тиіс:
+4\. Бақылау карточкасын толтыру кезінде келесі сұрақтар қойылады және жауаптары жазылып алынады:
 
-Әдетте, осы пәтерде тұратын адамдарды атаңыз және Сізге туыстық қатысына қарамастан немесе қандай да бір себептермен жоқ адамдарды атаңыз.
+Әдетте, осы пәтерде (осы үйде) тұратын адамдарды атаңыз және Сізге туыстық қатысына қарамастан немесе қандай да бір себептермен қазіргі уақытта жоқ адамдарды атаңыз.
 
-2-бағанның 1-жолында үй шаруашылығы басшысының аты, әкесінің аты жазылады.
+2-бағанның 1-жолында үй шаруашылығы басшысының аты жазылады.
 
-2-бағанның 2-20 жолдарында үй шаруашылығының өзге мүшелерінің аты, әкесінің аты жазылады.
+2-бағанның 2-16 жолдарында үй шаруашылығының өзге мүшелерінің аты жазылады.
 
-1-жол бойынша 3-және 4-бағандары белгіленген. Қалған бағандар бойынша 3 бағанда үй шаруашылығы басшысына байланыстылығын сөзбен жазады, ал 4 бағанда үй шаруашылығы басшысына қатыстылығы екі мәнді кодпен белгіленеді.
+1-жол бойынша 3-және 4-бағандары белгіленген. Қалған жолдар бойынша 3 бағанда үй шаруашылығы басшысына байланыстылығын сөзбен жазады, ал 4 бағанда үй шаруашылығы басшысына қатыстылығы екі мәнді кодпен белгіленеді.
 
 5 және 6-бағандарда сәйкесінше үй шаруашылығының әр мүшесінің туылған жылы (төрт таңбалы) және айы (екі таңбалы) жазылады. Мысалы, 1972 05 немесе 1956 12.
 
 7-бағанда жынысы жазылады: ер – 1, әйел – 2.
 
-8-бағанда отбасылық жағдайының кодтарына сәйкес отбасылық жағдайы көрсетіледі. Осы бағанды толтыру кезінде «Неке және отбасы туралы» ҚР Заңына (2-бөлімнің «Неке» 3-тарауы «Некеге тұрудың шарттары мен тәртібі», 10-бабы «Неке жасы») сәйкес неке жасы ерлер мен әйелдер үшін – 18 жас екенін ескеру керек. Сонымен қатар дәлелді себептер болған жағдайда мемлекеттік тіркеу орны бойынша азаматтық хал актілерін жазу органдары неке жасын екі жылдан аспайтын мерзімге төмендетуі мүмкін.
+8-бағанда респонденттің бойы көрсетіледі (жылдың басына). Бойын дұрыс өлшеу үшін респондент қабырғаға желкесімен, жауырындарымен, бөкселерімен, балтырларымен және өкшелерімен тақалып, қатты жерге жалаң аяқ түзу тұрады. Басты күш салмай түзу ұстайды. Содан кейін қабырғада басқа қатысты ең жоғары нүкте белгіленеді, тек содан соң ғана еденнен белгіге дейінгі арақашықтық өлшенеді. 2 жасқа дейінгі балалардың бойы жатқызылып өлшенеді.
 
-9-бағанда ұлтының кодтарына сәйкес үй шаруашылығы мүшелерінің ұлты көрсетіледі.
+Кешке таман ауыр салмақтың, физикалық жүктердің әсерінен ол біршама қысқарып, өлшеудің дәлдігіне әсер етуі мүмкін болғандықтан, өлшеуді таңертең, түске дейін жүргізген дұрыс.
 
-10-баған қаңтардағы пікіртерім кезінде толтырылады. Онда табельмен, аттестатпен немесе оқу орнын бітіргені туралы дипломмен құжаттық расталатын қол жеткізген білімінің ең жоғарғы деңгейі жазылады. Егер тыңдалған білім курсы туралы анықтамасы бар болған жағдайда, баған толтырылмайды.
+9-бағанда отбасылық жағдайының кодтарына сәйкес отбасылық жағдайы көрсетіледі. Осы бағанды толтыру кезінде «Неке және отбасы туралы» ҚР Заңында (2-бөлімнің «Неке» 3-тарауы «Некеге тұрудың шарттары мен тәртібі», 10-бабы «Неке жасы») белгіленген неке жасы ерлер мен әйелдер үшін – 18 жас екендігі ескеріледі. Сонымен қатар, дәлелді себептер болған жағдайда мемлекеттік тіркеу орны бойынша азаматтық хал актілерін жазу органдары неке жасын екі жылдан аспайтын мерзімге төмендетеді.
+
+10-бағанда ұлтының кодтарына сәйкес үй шаруашылығы мүшелерінің ұлты көрсетіледі.
+
+11-баған қаңтардағы пікіртерім кезінде толтырылады. Онда табельмен, аттестатпен немесе оқу орнын бітіргені туралы дипломмен құжаттық расталатын қол жеткізген білімінің ең жоғарғы деңгейі жазылады. Егер тыңдалған білім курсы туралы анықтамасы бар болған жағдайда, баған толтырылмайды.
 
 Аяқталғаннан кейін сертификат немесе куәлік берілетін бухгалтерлік, хатшы-референт, компьютерлік курстарда білім алу мен оқу есептелмейді.
 
@@ -18449,37 +18496,39 @@ _
 
 Егер үй шаруашылығының мүшесі магистратураны (аспирантураны, докторантураны) аяқтағаннан кейін диссертация қорғаса, ол ғылыми атақ алғандар болып саналады. Егер олай болмаса – онда жоғары оқу орнынан кейінгі білім болып қала береді.
 
-11-баған қаңтардағы пікіртерім кезінде толтырылады және келесі кодтары болуы мүмкін:
+12-баған қаңтардағы пікіртерім кезінде толтырылады және келесі кодтары болады:
 
-Уақытша болмау кезінде – 33, 36, 37, 38;
+Уақытша болмау кезінде – 33, 34, 37, 38, 39;
 
-Уақытша болу кезінде - 43, 46, 47, 48.
+Уақытша болу кезінде – 43, 44, 47, 48, 49.
 
-Егер зерттеу мерзімі кезеңінде (кейінгі тоқсандарда) үй шаруашылығы құрамы өзгерген жағдайда 12-15 бағандарда тиісті таңбаларды жасау керек.
+Егер зерттеу мерзімі кезеңінде (кейінгі тоқсандарда) үй шаруашылығы құрамы өзгерген жағдайда 13-16 бағандарда тиісті таңбалар жасалады.
 
-Егер үй шаруашылығында бірге тұратын мүшелері болса, алайда, уақытша болмаса, мәселен, әскердегі қызметте, ауруханада немесе студент, бұл жағдайда 12-15 бағандарда тиісті екі таңбалы кодтар (мәртебе+себеп) қойылады.
+Егер үй шаруашылығында бірге тұратын мүшелері болса, алайда, уақытша болмаса, мәселен, әскердегі қызметте, ауруханада немесе студент, бұл жағдайда 13-16 бағандарда тиісті екі таңбалы кодтар (мәртебе+себеп) қойылады.
 
-Тұрақты болмау кезінде – 12, 13, 14, 15, 16, 17, 18;
+Егер үй шаруашылығында жаңа мүше (туылған немесе уақытша келген) пайда болса, 13-16 бағандарда тиісті кодтар қойылады. 13-16 бағандарда келесі кодтары болады:
 
-Тұрақты болу кезінде – 21, 23, 24, 25, 26;
+Тұрақты болмау кезінде – 12, 13, 14, 15, 16, 17, 18, 19;
 
-Уақытша болмау кезінде – 33, 36, 37, 38;
+Тұрақты болу кезінде – 21, 23, 25, 26, 27;
 
-Уақытша болу кезінде - 43, 46, 47, 48.
+Уақытша болмау кезінде – 33, 34, 37, 38, 39;
 
-Зерттеу тоқсанында уақытша кету (келу) және болу (болмау) 2 ай және одан көп мерзімде ұйғарылатынын назарға алу тиіс.
+Уақытша болу кезінде – 43, 47, 48, 49.
+
+Зерттеу тоқсанында уақытша кету (келу) және болу (болмау) 2 ай және одан көп мерзімді ұйғарады.
 
 Туу әрқашан 21 коды, өлім – 12 кодымен белгіленеді.
 
-Үй шаруашылықтары құрамын бақылау карточкасын интервьюер екі данада толтырады. Бір данасы супервайзерге беріледі, екінші – интервьюерде қалады. Онда тоқсандық сұхбаттарды жүргізу кезінде үй шаруашылығының құрамында болған барлық өзгерістерді (егер олар болған жағдайда) енгізу керек.
+Үй шаруашылықтары құрамын бақылау карточкасын интервьюер екі данада толтырады. Бір данасы супервайзерге беріледі, екінші – интервьюерде қалады. Оған тоқсандық сұхбаттарды жүргізу кезінде үй шаруашылығының құрамында болған барлық өзгерістері (егер олар болған жағдайда) енгізіледі.
 
-5\. Пікіртерімді бітірген соң, қандай болса да бір бөлімдер немесе сұрақтар қалып кетпегендігіне көз жеткізу үшін сауалнаманы тағы да бір рет қарап шығу қажет және респонденттерге ынтымақтастығы және көмектескендері үшін міндетті түрде алғыс айту керек. Интервьюер үй шаруашылығынан тыс жерде Сауалнаманы қайта қарап шығуы керек және егер қандайда бір сәйкессіздік тапса, онда қайта үй шаруашылығына баруы керек (жеке немесе телефонмен) және жеткіліксіз ақпаратты анықтау керек.
+5\. Пікіртерімді бітірген соң интервьюер қандай болса да бір бөлімдер немесе сұрақтар қалып кетпегендігіне көз жеткізу үшін сауалнаманы тағы да бір рет қарап шығады және респонденттерге ынтымақтастығы және көмектескендері үшін міндетті түрде алғыс айтады. Интервьюер үй шаруашылығынан тыс жерде Сауалнаманы қайта қарап шығады және егер, қандайда бір сәйкессіздік тапса, онда қайта үй шаруашылығына барып, (жеке немесе телефонмен) жеткіліксіз ақпаратты анықтайды.
 
-Бұдан басқа, интервьюер толтырылуы тиіс осы Нұсқаулыққа қосымшаға сәйкес нысан бойынша «Интервьюер карточкасын» толтырады:
+Бұдан басқа, интервьюер осы Нұсқаулыққа қосымшаға сәйкес нысан бойынша «Интервьюер карточкасын» толтырады:
 
-респондентпен өзара іс-қимыл деңгейін және деректердің сапасын бағалау керек;
+респонденттермен өзара іс-қимыл деңгейін және деректердің сапасын бағалайды;
 
-ресонденттерге сауалнама толтыру нысанының нұсқаулығына сәйкес жүргізілгендігін, өзінің аты-жөнін көрсетіп және өзінің қолымен растау керек. «Сауалнаманы толтыру бойынша ескертулер» тармағы супервайзердің интервьюер толтырған сауалнаманы көзбен шалу арқылы бақылауды жүргізу нәтижелері бойынша толтыруына арналған.
+респонденттерге пікіртерім нысаны бойынша толтыру нұсқаулығына сәйкес жүргізілгендігін, өзінің аты-жөнін көрсетіп және өзінің қолымен расталады. «Статистикалық нысанды тексеру бойынша ескертулер» тармағы супервайзердің толтырылған нысанды көзбен шалу арқылы бақылауды жүргізу нәтижелері бойынша толтыруына арналған.
 
 > *«Үй шаруашылықтары құрамын бақылау*  
 > *карточкасы» жалпымемлекеттік*  
@@ -18491,7 +18540,7 @@ _
 
 нұсқаулыққа қосымша
 
-### Нысан
+Нысан
 
 ### Интервьюердің карточкасы
 
@@ -18546,7 +18595,7 @@ _
 
 <table>
 <tr>
-<td rowspan="2">бет №</td>
+<td rowspan="2">жол №</td>
 <td rowspan="2">статистикалық нысан бөлімінің №</td>
 <td colspan="15">Статистикалық нысанның бөлімдері бойынша сұрақтар нөмірлерін көрсетіңіз:</td>
 </tr>
@@ -18709,19 +18758,25 @@ _
 </tr>
 </table>
 
-## Пікіртерім жеке сұхбат әдісінің нұсқаулығына сәйкес жүргізілгенін мен куәландырамын.
+Пікіртерім жеке сұхбат әдісінің нұсқаулығына сәйкес
 
-## Интервьюердің толық аты-жөні________________________________
+жүргізілгенін мен куәландырамын.
 
-## Интервьюердің қолы_________________________
+Интервьюердің толық аты-жөні ________________________________________
 
-## Супервайзердің толық аты-жөні________________________________
+Интервьюердің қолы __________________________________________________
 
-## Супервайзердің қолы _________________________
+Супервайзердің толық аты-жөні _______________________________________
+
+Супервайзердің қолы _________________________________________________
 
 ## СТАТИСТИКАЛЫҚ НЫСАНДЫ ТЕКСЕРУ БОЙЫНША ЕСКЕРТУЛЕР
 
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
 
 > *Қазақстан Республикасы Статистика*  
 > *агенттігі төрағасы міндетін*  
