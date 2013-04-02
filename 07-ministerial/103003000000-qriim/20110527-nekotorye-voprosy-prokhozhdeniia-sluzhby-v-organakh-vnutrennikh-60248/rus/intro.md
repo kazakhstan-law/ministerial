@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/60248/rus/27.05.2011
+source: https://zan.gov.kz/client/#!/doc/60248/rus/02.04.2013
 ---
 
 # Некоторые вопросы прохождения службы в органах внутренних дел Республики Казахстан
