@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/61911/rus/30.01.2012
+source: https://zan.gov.kz/client/#!/doc/61911/rus/10.04.2013
 ---
 
 ## Карточка на лицо подозреваемое, обвиняемое, задержанное либо арестованное
