@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/47659/rus/06.06.2012
+source: https://zan.gov.kz/client/#!/doc/47659/rus/11.04.2013
 ---
 
 <table>
@@ -45,17 +45,6 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk.
 9,10,13
 </td>
 <td>138</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ШПАТ</td>
-<td>1993</td>
-<td>13</td>
-<td>64</td>
 <td></td>
 <td></td>
 <td></td>
@@ -693,17 +682,6 @@ Agropyron et Schult.
 <td>2011</td>
 <td>12</td>
 <td>30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДОЛИНСКИЙ 1</td>
-<td>1968</td>
-<td>8</td>
-<td>43</td>
 <td></td>
 <td></td>
 <td></td>
