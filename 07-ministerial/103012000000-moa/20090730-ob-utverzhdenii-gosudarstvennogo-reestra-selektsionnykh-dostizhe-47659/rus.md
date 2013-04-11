@@ -1,5 +1,5 @@
 ---
-version_id: AI47659_11
+version_id: AI47659_13
 act_code: '47659'
 language: rus
 title: Об утверждении Государственного реестра селекционных достижений, рекомендуемых к использованию в Республике Казахстан, и Перечня перспективных сортов сельскохозяйственных растений
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103012000000'
 approval_date: 2009-07-30
-version_date: 2012-06-06
+version_date: 2013-04-11
 registry_number: '47659'
 caused_by:
-  code: '66235'
+  code: '72533'
   title: О внесении изменений и дополнений в приказ Министра сельского хозяйства Республики Казахстан от 30 июля 2009 года № 434 "Об утверждении Государственного реестра селекционных достижений, допущенных к использованию в Республике Казахстан, и Перечня перспективных сортов сельскохозяйственных растений"
-  link: https://zan.gov.kz/client/#!/doc/66235/rus
-source: https://zan.gov.kz/client/#!/doc/47659/rus/06.06.2012
+  link: https://zan.gov.kz/client/#!/doc/72533/rus
+source: https://zan.gov.kz/client/#!/doc/47659/rus/11.04.2013
 ---
 
 # Об утверждении Государственного реестра селекционных достижений, допущенных к использованию в Республике Казахстан, и Перечня перспективных сортов сельскохозяйственных растений
@@ -43,7 +43,7 @@ source: https://zan.gov.kz/client/#!/doc/47659/rus/06.06.2012
 
 ## Государственный реестр селекционных достижений, допущенных к использованию в Республике Казахстан
 
-> *Сноска. Гос. реестр с изменениями, внесенными приказами Министра сельского хозяйства РК от 26.04.2010 № 291 (порядок введения в действие см. п. 3); от 31.03.2011 № 06-2/153 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования); от 18.01.2012 № 06-2/20 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования); от 06.06.2012 № 4-1/301 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
+> *Сноска. Гос. реестр с изменениями, внесенными приказами Министра сельского хозяйства РК от 26.04.2010 № 291 (порядок введения в действие см. п. 3); от 31.03.2011 № 06-2/153 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования); от 18.01.2012 № 06-2/20 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования); от 06.06.2012 № 4-1/301 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования); от 11.04.2013 № 4-2/164 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -290,17 +290,6 @@ Triticum aestivum L. emend. Fiori et Paol.
 <td>7</td>
 <td>129,96</td>
 <td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛЮТЕСЦЕНС 230</td>
-<td>1962</td>
-<td>2</td>
-<td>114</td>
-<td>03</td>
 <td></td>
 <td></td>
 <td></td>
@@ -561,6 +550,17 @@ Hordeum vulgare L. sensu lato
 </th>
 </tr>
 <tr>
+<td>АЙДЫН</td>
+<td>2013</td>
+<td>3</td>
+<td>18</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>БЕРЕКЕ 54</td>
 <td>1994</td>
 <td>3,6,14</td>
@@ -649,17 +649,6 @@ Hordeum vulgare L. sensu lato
 <td></td>
 </tr>
 <tr>
-<td>ЦИКЛОН</td>
-<td>1988</td>
-<td>14</td>
-<td>96</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>
 ЮЖНО-
 КАЗАХСТАНСКИЙ 43
@@ -691,17 +680,6 @@ Secale cereale
 <td></td>
 </tr>
 <tr>
-<td>САРАТОВСКАЯ 4</td>
-<td>1976</td>
-<td>2,5,7</td>
-<td>114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>САРАТОВСКАЯ 5</td>
 <td>1986</td>
 <td>
@@ -718,20 +696,6 @@ Secale cereale
 <tr>
 <td>САРАТОВСКАЯ 7</td>
 <td>2011</td>
-<td>7</td>
-<td>114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-САРАТОВСКАЯ
-КРУПНОЗЕРНАЯ
-</td>
-<td>1956</td>
 <td>7</td>
 <td>114</td>
 <td>04</td>
@@ -845,17 +809,6 @@ Triticum aestivum L. emend. Fiori et Paol
 <td>2006</td>
 <td>5</td>
 <td>46</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АЛЬБИДУМ 28</td>
-<td>1988</td>
-<td>7</td>
-<td>97</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -1339,6 +1292,17 @@ Triticum aestivum L. emend. Fiori et Paol
 <td></td>
 </tr>
 <tr>
+<td>ОМСКАЯ 38</td>
+<td>2013</td>
+<td>1, 13</td>
+<td>138, 282</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ПАВЛОДАРСКАЯ 93</td>
 <td>1999</td>
 <td>2,12</td>
@@ -1430,28 +1394,6 @@ Triticum aestivum L. emend. Fiori et Paol
 <td>САРАТОВСКАЯ 55</td>
 <td>1990</td>
 <td>2</td>
-<td>114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>САРАТОВСКАЯ 58</td>
-<td>1993</td>
-<td>5</td>
-<td>114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>САРАТОВСКАЯ 60</td>
-<td>2007</td>
-<td>7</td>
 <td>114</td>
 <td>04</td>
 <td></td>
@@ -1675,28 +1617,6 @@ Triticum aestivum L. emend. Fiori et Paol
 <td></td>
 </tr>
 <tr>
-<td>ЭРИТРОСПЕРМУМ 841</td>
-<td>1942</td>
-<td>6</td>
-<td>97</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЭРИТРОСПЕРМУМ 786</td>
-<td>1993</td>
-<td>3</td>
-<td>85</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>ЮГО-ВОСТОЧНАЯ 2</td>
 <td>2007</td>
 <td>2</td>
@@ -1712,6 +1632,17 @@ Triticum aestivum L. emend. Fiori et Paol
 Пшеница твердая яровая
 Triticum durum Desf
 </th>
+</tr>
+<tr>
+<td>АЛЕЙСКАЯ</td>
+<td>2013</td>
+<td>10</td>
+<td>288</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>АЛТАЙКА</td>
@@ -1865,7 +1796,7 @@ Triticum durum Desf
 <tr>
 <td>КАРГАЛА 69</td>
 <td>2012</td>
-<td>7</td>
+<td>2,7</td>
 <td>4</td>
 <td>04</td>
 <td></td>
@@ -1907,17 +1838,6 @@ Triticum durum Desf
 <td></td>
 </tr>
 <tr>
-<td>НИК</td>
-<td>2006</td>
-<td>7</td>
-<td>114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>ОМСКИЙ РУБИН</td>
 <td>1991</td>
 <td>1</td>
@@ -1931,7 +1851,7 @@ Triticum durum Desf
 <tr>
 <td>ОРЕНБУРГСКАЯ 2</td>
 <td>1983</td>
-<td>5,8</td>
+<td>8</td>
 <td>121</td>
 <td>04</td>
 <td></td>
@@ -2116,7 +2036,7 @@ Hordeum vulgare L. sensu lato
 <tr>
 <td>ДЕСПИНА</td>
 <td>2012</td>
-<td>5</td>
+<td>5,14</td>
 <td>324</td>
 <td>02</td>
 <td></td>
@@ -3408,31 +3328,9 @@ Zea mays L.
 <td></td>
 </tr>
 <tr>
-<td>СИБИРЯЧКА</td>
-<td>1994</td>
-<td>5</td>
-<td>90</td>
-<td>02</td>
-<td>с</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СКАНДИЯ</td>
-<td>2001</td>
-<td>10</td>
-<td>234</td>
-<td>03</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>СКИФ 619</td>
 <td>2006</td>
-<td>3</td>
+<td>3,9</td>
 <td>270,220</td>
 <td>06</td>
 <td>2л</td>
@@ -3540,17 +3438,6 @@ Zea mays L.
 <td></td>
 </tr>
 <tr>
-<td>ФРАССИНО</td>
-<td>2003</td>
-<td>3</td>
-<td>233</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>ХУАНИТА</td>
 <td>2011</td>
 <td>14</td>
@@ -3582,17 +3469,6 @@ Zea mays L.
 <td>234</td>
 <td>06</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЭСЛИЯ</td>
-<td>2002</td>
-<td>10</td>
-<td>234</td>
-<td>02</td>
-<td>3л</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3670,6 +3546,17 @@ Panicum miliaceum L.
 <td>2007</td>
 <td>1,5</td>
 <td>8</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>БАРНАУЛЬСКОЕ 98</td>
+<td>2013</td>
+<td>5,10</td>
+<td>288</td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -3996,17 +3883,6 @@ Oryza sativa L.
 <td></td>
 </tr>
 <tr>
-<td>ЗЛАТЫЙ</td>
-<td>1996</td>
-<td>3</td>
-<td>83</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>ЗАРЯ</td>
 <td>2008</td>
 <td>3</td>
@@ -4279,20 +4155,6 @@ Pisum sativum L. sensu lato
 <td></td>
 </tr>
 <tr>
-<td>
-ЗЕРНОГРАДСКИЙ
-НЕОСЫПАЮЩИЙСЯ
-</td>
-<td>1989</td>
-<td>3</td>
-<td>83</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>НЕОСЫПАЮЩИЙСЯ 1</td>
 <td>1979</td>
 <td>
@@ -4325,17 +4187,6 @@ Pisum sativum L. sensu lato
 <td>1962</td>
 <td>2,6,7,8,10</td>
 <td>70</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТАЛОВЕЦ 50</td>
-<td>1992</td>
-<td>1,13</td>
-<td>113</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -4383,345 +4234,6 @@ Pisum sativum L. sensu lato
 <td>2012</td>
 <td>10</td>
 <td>335</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th>
-Соя
-Glycine max (L.) Merr
-</th>
-</tr>
-<tr>
-<td>АВРОРА</td>
-<td>1983</td>
-<td>5</td>
-<td>74</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АЛМАТЫ</td>
-<td>2006</td>
-<td>3,14,9</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АНА</td>
-<td>2009</td>
-<td>3</td>
-<td>289</td>
-<td>05</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АНАСТАСИЯ</td>
-<td>2012</td>
-<td>1,3,9,12</td>
-<td>326</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АННУШКА</td>
-<td>2012</td>
-<td>5,8</td>
-<td>326</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>БИЛЯВКА</td>
-<td>2012</td>
-<td>2,6,10</td>
-<td>326</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>БУКУРИЯ</td>
-<td>2007</td>
-<td>3</td>
-<td>211</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ВИЛАНА</td>
-<td>2011</td>
-<td>3</td>
-<td>64</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ВОЕВОДЖАНКА</td>
-<td>2009</td>
-<td>3</td>
-<td>289</td>
-<td>06</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ВОЛГОГРАДКА 1</td>
-<td>1991</td>
-<td>7</td>
-<td>111</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ВИТА</td>
-<td>2008</td>
-<td>14</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДЕСНА</td>
-<td>2012</td>
-<td>5</td>
-<td>327,328</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЖАЛПАКСАЙ</td>
-<td>2003</td>
-<td>3,5,9,14</td>
-<td>18,176</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЖАНСАЯ</td>
-<td>2012</td>
-<td>3</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЗЕН</td>
-<td>2010</td>
-<td>3</td>
-<td>247</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-КАЗАХСТАНСКАЯ
-2309
-</td>
-<td>1992</td>
-<td>3,6,9</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КОРСАК</td>
-<td>2012</td>
-<td>3,5,6</td>
-<td>327,328</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛАСТОЧКА</td>
-<td>2011</td>
-<td>3,6,14</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>МИСУЛА 1092</td>
-<td>1997</td>
-<td>3,9,14</td>
-<td>18,37,38</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>НЕНА</td>
-<td>2011</td>
-<td>3</td>
-<td>220</td>
-<td>06</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РАДОСТЬ</td>
-<td>2010</td>
-<td>3,6</td>
-<td>18</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РЕНТА</td>
-<td>2011</td>
-<td>3</td>
-<td>64</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РУЖИЦА</td>
-<td>2010</td>
-<td>3</td>
-<td>298</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СИБНИИК 315</td>
-<td>1993</td>
-<td>1,8,10,13</td>
-<td>136</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>САВА</td>
-<td>2008</td>
-<td>3</td>
-<td>289</td>
-<td>05</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СЕЛЕКТА 302</td>
-<td>2012</td>
-<td>3</td>
-<td>329</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТАНАИС</td>
-<td>2012</td>
-<td>3</td>
-<td>327,328</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТЕРЕК</td>
-<td>2012</td>
-<td>3,14</td>
-<td>328,330</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЧЕРЕМОШ</td>
-<td>2012</td>
-<td>1,3,6,14</td>
-<td>327,328</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЭВРИКА 357</td>
-<td>1988</td>
-<td>3,6</td>
-<td>18,37,38</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -4785,28 +4297,6 @@ Lathyrus sativus L
 <td>3</td>
 <td>18</td>
 <td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КИНЕЛЬСКАЯ 7</td>
-<td>1950</td>
-<td>5</td>
-<td>125</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СТЕПНАЯ 287</td>
-<td>1956</td>
-<td>2</td>
-<td>113</td>
-<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5151,6 +4641,17 @@ Helianthus annuus L.
 <td></td>
 </tr>
 <tr>
+<td>П 63 ЛЛ 40</td>
+<td>2013</td>
+<td>3</td>
+<td>234</td>
+<td>04</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ПР 63 А 90</td>
 <td>2009</td>
 <td>5</td>
@@ -5200,17 +4701,6 @@ Helianthus annuus L.
 <td>5</td>
 <td>234</td>
 <td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПИКСЕЛЬ (С 230)</td>
-<td>2002</td>
-<td>5,12</td>
-<td>233</td>
-<td>03</td>
 <td>F1</td>
 <td></td>
 <td></td>
@@ -5355,17 +4845,6 @@ Helianthus annuus L.
 <td>12</td>
 <td>02</td>
 <td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТОРЕРО</td>
-<td>2003</td>
-<td>5,12</td>
-<td>262</td>
-<td>03</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5534,6 +5013,359 @@ Carthamus tinctorius L.
 <td></td>
 <td></td>
 </tr>
+</table>
+
+<table>
+<tr>
+<th>Соя Glycine max (L.) Merr</th>
+</tr>
+<tr>
+<td>АВРОРА</td>
+<td>1983</td>
+<td>5</td>
+<td>74</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АЛМАТЫ</td>
+<td>2006</td>
+<td>3, 14, 9</td>
+<td>18</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АНА</td>
+<td>2009</td>
+<td>3</td>
+<td>289</td>
+<td>05</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АНАСТАСИЯ</td>
+<td>2012</td>
+<td>1, 3, 9, 12</td>
+<td>326</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АННУШКА</td>
+<td>2012</td>
+<td>5, 8</td>
+<td>326</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>БИЛЯВКА</td>
+<td>2012</td>
+<td>2, 6, 10</td>
+<td>326</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>БУКУРИЯ</td>
+<td>2007</td>
+<td>3</td>
+<td>211</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ВИЛАНА</td>
+<td>2011</td>
+<td>3</td>
+<td>64</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ВОЕВОДЖАНКА</td>
+<td>2009</td>
+<td>3</td>
+<td>289</td>
+<td>06</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ВОЛГОГРАДКА 1</td>
+<td>1991</td>
+<td>7</td>
+<td>111</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ВИТА</td>
+<td>2008</td>
+<td>14</td>
+<td>18</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ДЕСНА</td>
+<td>2012</td>
+<td>5</td>
+<td>327, 328</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖАЛПАКСАЙ</td>
+<td>2003</td>
+<td>3, 5, 9, 14</td>
+<td>18, 176</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖАНСАЯ</td>
+<td>2012</td>
+<td>3</td>
+<td>18</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЗЕН</td>
+<td>2010</td>
+<td>3</td>
+<td>247</td>
+<td>03</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+КАЗАХСТАНСКАЯ
+2309
+</td>
+<td>1992</td>
+<td>3, 6, 9</td>
+<td>18</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КОРСАК</td>
+<td>2012</td>
+<td>3, 5, 6</td>
+<td>327, 328</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЛАСТОЧКА</td>
+<td>2011</td>
+<td>3, 6, 14</td>
+<td>18</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>МИСУЛА 1092</td>
+<td>1997</td>
+<td>3, 9, 14</td>
+<td>18, 37, 38</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>НЕНА</td>
+<td>2011</td>
+<td>3</td>
+<td>220</td>
+<td>06</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ПЕРИЗАТ</td>
+<td>2013</td>
+<td>3</td>
+<td>18</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>РАДОСТЬ</td>
+<td>2010</td>
+<td>3, 6</td>
+<td>18</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>РЕНТА</td>
+<td>2011</td>
+<td>3</td>
+<td>64</td>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>РУЖИЦА</td>
+<td>2010</td>
+<td>3</td>
+<td>298</td>
+<td>03</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>СИБНИИК 315</td>
+<td>1993</td>
+<td>1, 8, 10, 13</td>
+<td>136</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>САВА</td>
+<td>2008</td>
+<td>3</td>
+<td>289</td>
+<td>05</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>СЕЛЕКТА 302</td>
+<td>2012</td>
+<td>3</td>
+<td>329</td>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТАНАИС</td>
+<td>2012</td>
+<td>3</td>
+<td>327, 328</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТЕРЕК</td>
+<td>2012</td>
+<td>3, 14</td>
+<td>328, 330</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЧЕРЕМОШ</td>
+<td>2012</td>
+<td>1, 3, 6, 14</td>
+<td>327, 328</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЭВРИКА 357</td>
+<td>1988</td>
+<td>3, 6</td>
+<td>18, 37, 38</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
 <tr>
 <th>
 Кунжут
@@ -5569,34 +5401,12 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td></td>
 </tr>
 <tr>
-<td>ЛИВИУС</td>
-<td>2011</td>
-<td>3</td>
-<td>291</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>ХАММЕР</td>
 <td>2012</td>
 <td>14</td>
 <td>291</td>
 <td>04</td>
 <td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ШПАТ</td>
-<td>1993</td>
-<td>12</td>
-<td>64</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5654,7 +5464,7 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <tr>
 <td>КАЛИБР</td>
 <td>2011</td>
-<td>5,10,12,13</td>
+<td>1,5,10,12,13</td>
 <td>299</td>
 <td>03</td>
 <td>F1</td>
@@ -5712,7 +5522,7 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <tr>
 <td>ОЗОРНО</td>
 <td>2012</td>
-<td>3,5,12</td>
+<td>1,3,5,10,12</td>
 <td>299</td>
 <td>02</td>
 <td>F1</td>
@@ -5754,17 +5564,6 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td></td>
 </tr>
 <tr>
-<td>СИЕСТА</td>
-<td>2010</td>
-<td>5,10</td>
-<td>299</td>
-<td>06</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>СОЛАР CL</td>
 <td>2011</td>
 <td>13</td>
@@ -5793,17 +5592,6 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td>292</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ХИДАЛГО</td>
-<td>2010</td>
-<td>13</td>
-<td>299</td>
-<td></td>
-<td>F1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5854,17 +5642,6 @@ Linum usitatissimum L. var. intermedia Vav. et. EII
 </th>
 </tr>
 <tr>
-<td>ИСИЛЬКУЛЬСКИЙ</td>
-<td>1985</td>
-<td>13</td>
-<td>135</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>КАЗАР</td>
 <td>2005</td>
 <td>10</td>
@@ -5905,17 +5682,6 @@ Linum usitatissimum L. var. intermedia Vav. et. EII
 <td>2011</td>
 <td>1</td>
 <td>304</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОПАЛ</td>
-<td>1992</td>
-<td>13</td>
-<td>135</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6011,17 +5777,6 @@ Beta vulgaris L. ssp. vulgaris var. altissima Doell
 <td></td>
 </tr>
 <tr>
-<td>АТАИР</td>
-<td>1999</td>
-<td>6</td>
-<td>241</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>ВЕНЕРА</td>
 <td>2004</td>
 <td>3,6</td>
@@ -6066,32 +5821,10 @@ Beta vulgaris L. ssp. vulgaris var. altissima Doell
 <td></td>
 </tr>
 <tr>
-<td>ДИК 9706</td>
-<td>2002</td>
-<td>6</td>
-<td>241</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>ДОРА</td>
 <td>1998</td>
 <td>3</td>
 <td>230</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДОРОТЕЯ</td>
-<td>2000</td>
-<td>3,6</td>
-<td>232</td>
 <td></td>
 <td>F1</td>
 <td></td>
@@ -6305,17 +6038,6 @@ Beta vulgaris L. ssp. vulgaris var. altissima Doell
 <td></td>
 </tr>
 <tr>
-<td>СТРАТОС</td>
-<td>1998</td>
-<td>3,6</td>
-<td>241</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>ЦКАЗ МС 44</td>
 <td>1995</td>
 <td>
@@ -6323,6 +6045,17 @@ Beta vulgaris L. ssp. vulgaris var. altissima Doell
 13,14
 </td>
 <td>18,179</td>
+<td></td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ШАННОН</td>
+<td>2013</td>
+<td>3</td>
+<td>338</td>
 <td></td>
 <td>F1</td>
 <td></td>
@@ -6716,6 +6449,17 @@ Solanum tuberosum L.
 <td></td>
 </tr>
 <tr>
+<td>АРИЗОНА</td>
+<td>2013</td>
+<td>5,12,13</td>
+<td>223</td>
+<td>03</td>
+<td></td>
+<td>ст</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>АРТЕМИС</td>
 <td>2009</td>
 <td>8</td>
@@ -6789,6 +6533,17 @@ Solanum tuberosum L.
 <td>04</td>
 <td></td>
 <td>ст</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>БОРА ВАЛЛЕЙ</td>
+<td>2013</td>
+<td>3</td>
+<td>336</td>
+<td>04</td>
+<td></td>
+<td>ун</td>
 <td></td>
 <td></td>
 </tr>
@@ -6870,9 +6625,20 @@ Solanum tuberosum L.
 <td></td>
 </tr>
 <tr>
+<td>ЖОЛБАРЫС</td>
+<td>2013</td>
+<td>9</td>
+<td>21</td>
+<td>04</td>
+<td></td>
+<td>ст</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ЖУАЛЫ</td>
 <td>2012</td>
-<td>3</td>
+<td>3,14</td>
 <td>21</td>
 <td>03</td>
 <td></td>
@@ -7025,6 +6791,17 @@ Solanum tuberosum L.
 <td></td>
 </tr>
 <tr>
+<td>НАРТАУ</td>
+<td>2013</td>
+<td>3</td>
+<td>21</td>
+<td>04</td>
+<td></td>
+<td>ун</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>НЕВСКИЙ</td>
 <td>1987</td>
 <td>
@@ -7045,6 +6822,17 @@ Solanum tuberosum L.
 <td>3,10</td>
 <td>223</td>
 <td>03</td>
+<td></td>
+<td>ун</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>НУР-АЛЕМ</td>
+<td>2013</td>
+<td>3</td>
+<td>21</td>
+<td>04</td>
 <td></td>
 <td>ун</td>
 <td></td>
@@ -7153,6 +6941,17 @@ Solanum tuberosum L.
 120
 </td>
 <td>04</td>
+<td></td>
+<td>ст</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>РИВЬЕРА</td>
+<td>2013</td>
+<td>10, 14</td>
+<td>223</td>
+<td>02</td>
 <td></td>
 <td>ст</td>
 <td></td>
@@ -7280,6 +7079,17 @@ Solanum tuberosum L.
 <td></td>
 </tr>
 <tr>
+<td>СОФИЯ</td>
+<td>2013</td>
+<td>3</td>
+<td>21</td>
+<td>02</td>
+<td></td>
+<td>ун</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ТАМАША</td>
 <td>1996</td>
 <td>3,8,9</td>
@@ -7375,6 +7185,17 @@ Solanum tuberosum L.
 <td>03</td>
 <td></td>
 <td>ст</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>УДОВИЦКИЙ</td>
+<td>2013</td>
+<td>3</td>
+<td>21,28</td>
+<td>04</td>
+<td></td>
+<td>ун</td>
 <td></td>
 <td></td>
 </tr>
@@ -7519,17 +7340,6 @@ Solanum tuberosum L.
 Вrassica oleracea convar. capitata (L.) Alef. var. capitata
 f. alba DC.
 </th>
-</tr>
-<tr>
-<td>АЛАБАМА</td>
-<td>1998</td>
-<td>3</td>
-<td>236</td>
-<td>05</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>АЛЛАДИН</td>
@@ -7700,6 +7510,17 @@ f. alba DC.
 <td></td>
 </tr>
 <tr>
+<td>КОЛЯ</td>
+<td>2013</td>
+<td>3</td>
+<td>321</td>
+<td>05</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>КУИСТО</td>
 <td>2002</td>
 <td>13</td>
@@ -7741,6 +7562,17 @@ f. alba DC.
 </td>
 <td>87</td>
 <td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>НАДЮША</td>
+<td>2013</td>
+<td>3</td>
+<td>21</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7821,28 +7653,6 @@ f. alba DC.
 <td>71</td>
 <td>05</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПИТОН</td>
-<td>2006</td>
-<td>10</td>
-<td>245</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РЕЗИСТОР</td>
-<td>2003</td>
-<td>3,13</td>
-<td>245</td>
-<td>02</td>
-<td>F1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -8093,17 +7903,6 @@ Brassica oleracea convar. botrytis (L.) Alef. var. botritis L.
 <td></td>
 </tr>
 <tr>
-<td>АСТЕРИКС</td>
-<td>2001</td>
-<td>3</td>
-<td>236</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>БАЛДО</td>
 <td>2011</td>
 <td>3</td>
@@ -8170,17 +7969,6 @@ Brassica oleracea convar. botrytis (L.) Alef. var. botritis L.
 <td>3</td>
 <td>293</td>
 <td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЦЕЛЕСТА</td>
-<td>1998</td>
-<td>3</td>
-<td>236</td>
-<td>02</td>
 <td>F1</td>
 <td></td>
 <td></td>
@@ -8642,6 +8430,17 @@ Cucumis sativus L.
 <td></td>
 </tr>
 <tr>
+<td>МЕЙРАМ 20</td>
+<td>2013</td>
+<td>3</td>
+<td>21</td>
+<td>04</td>
+<td></td>
+<td>ун</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>МЕРЕНГА</td>
 <td>2012</td>
 <td>3</td>
@@ -9051,6 +8850,17 @@ Cucumis sativus L.
 <td></td>
 </tr>
 <tr>
+<td>МАГДАЛЕНА</td>
+<td>2013</td>
+<td>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
+<td>321</td>
+<td>03</td>
+<td>F1</td>
+<td>са</td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
 <td>МАНУЛ</td>
 <td>1977</td>
 <td>
@@ -9133,6 +8943,17 @@ Cucumis sativus L.
 <td>03</td>
 <td>F1</td>
 <td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
+<td>СТИНГЕР</td>
+<td>2013</td>
+<td>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
+<td>321</td>
+<td>01</td>
+<td>F1</td>
+<td>са</td>
 <td>зг</td>
 <td></td>
 </tr>
@@ -9282,6 +9103,17 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td></td>
 </tr>
 <tr>
+<td>БАГИО</td>
+<td>2013</td>
+<td>3</td>
+<td>337</td>
+<td>05</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>БАГИРА</td>
 <td>2011</td>
 <td>3</td>
@@ -9290,17 +9122,6 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td>F1</td>
 <td>ст</td>
 <td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>БРИКСИ</td>
-<td>2004</td>
-<td>3</td>
-<td>245</td>
-<td>03</td>
-<td>f1</td>
-<td>кн</td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -9409,6 +9230,17 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td></td>
 </tr>
 <tr>
+<td>МЕТЕОР</td>
+<td>2013</td>
+<td>3, 14</td>
+<td>337</td>
+<td>01</td>
+<td>F1</td>
+<td>ун</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>НАРТТАЙ</td>
 <td>2001</td>
 <td>3,14</td>
@@ -9427,6 +9259,17 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td>03</td>
 <td></td>
 <td>цк</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ОЛИВИЯ</td>
+<td>2013</td>
+<td>3</td>
+<td>337</td>
+<td>02</td>
+<td>F1</td>
+<td>ун</td>
 <td></td>
 <td></td>
 </tr>
@@ -9474,6 +9317,17 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td>04</td>
 <td></td>
 <td>цк</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ПУЛЬРЕКС</td>
+<td>2013</td>
+<td>3</td>
+<td>321</td>
+<td>03</td>
+<td>F1</td>
+<td>тп</td>
 <td></td>
 <td></td>
 </tr>
@@ -9591,17 +9445,6 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td></td>
 </tr>
 <tr>
-<td>ТРИСТАР</td>
-<td>2010</td>
-<td>3 (*), 6, 14</td>
-<td>264</td>
-<td>03</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>ТИТАН</td>
 <td>1988</td>
 <td>3,6,9,11,14</td>
@@ -9609,6 +9452,17 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td>05</td>
 <td></td>
 <td>тп</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>УМИТ</td>
+<td>2013</td>
+<td>6</td>
+<td>21</td>
+<td>05</td>
+<td></td>
+<td>са</td>
 <td></td>
 <td></td>
 </tr>
@@ -9647,6 +9501,17 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 </tr>
 <tr>
 <th>защищенного грунта</th>
+</tr>
+<tr>
+<td>АДМИРО</td>
+<td>2013</td>
+<td>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
+<td>321</td>
+<td>04</td>
+<td>F1</td>
+<td>са</td>
+<td>зг</td>
+<td></td>
 </tr>
 <tr>
 <td>АЛЕКСИЯ</td>
@@ -9770,6 +9635,17 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td></td>
 </tr>
 <tr>
+<td>ДӘМДІ</td>
+<td>2013</td>
+<td>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
+<td>21</td>
+<td>04</td>
+<td></td>
+<td>са</td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
 <td>ДИАС</td>
 <td>2006</td>
 <td>3</td>
@@ -9807,6 +9683,17 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td></td>
 </tr>
 <tr>
+<td>ЗОЛОТАЯ БУСИНКА</td>
+<td>2013</td>
+<td>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
+<td>21</td>
+<td>04</td>
+<td></td>
+<td>са</td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
 <td>ИРОК</td>
 <td>1990</td>
 <td>1</td>
@@ -9825,6 +9712,17 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td>02</td>
 <td>F1</td>
 <td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
+<td>КОМИТТ</td>
+<td>2013</td>
+<td>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
+<td>321</td>
+<td>03</td>
+<td>F1</td>
+<td>са</td>
 <td>зг</td>
 <td></td>
 </tr>
@@ -9866,6 +9764,17 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td></td>
 </tr>
 <tr>
+<td>МАРТЕЗ</td>
+<td>2013</td>
+<td>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
+<td>309</td>
+<td>04</td>
+<td>F1</td>
+<td>ун</td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
 <td>МАРФА</td>
 <td>2011</td>
 <td>
@@ -9877,6 +9786,17 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td>04</td>
 <td>F1</td>
 <td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
+<td>МАТИАС</td>
+<td>2013</td>
+<td>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
+<td>321</td>
+<td>02</td>
+<td>F1</td>
+<td>са</td>
 <td>зг</td>
 <td></td>
 </tr>
@@ -9943,6 +9863,28 @@ Lycopersicon lycopersicum (L.) Karst ex Farwell
 <td>02</td>
 <td>F1</td>
 <td></td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
+<td>СӘНДІ</td>
+<td>2013</td>
+<td>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
+<td>21</td>
+<td>04</td>
+<td></td>
+<td>са</td>
+<td>зг</td>
+<td></td>
+</tr>
+<tr>
+<td>СОЛНЕЧНАЯ ЖЕМЧУЖИНА</td>
+<td>2013</td>
+<td>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
+<td>21</td>
+<td>04</td>
+<td></td>
+<td>са</td>
 <td>зг</td>
 <td></td>
 </tr>
@@ -10056,6 +9998,17 @@ Allium cepa L.
 <td>3,13</td>
 <td>21</td>
 <td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АҚНИЕТ</td>
+<td>2013</td>
+<td>3</td>
+<td>21</td>
+<td>03</td>
 <td></td>
 <td></td>
 <td></td>
@@ -10215,17 +10168,6 @@ Allium cepa L.
 <td></td>
 </tr>
 <tr>
-<td>ОКТЯБРЬСКИЙ</td>
-<td>1977</td>
-<td>1,3,5,11,13,</td>
-<td>21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>СОКОЛ</td>
 <td>2009</td>
 <td>14</td>
@@ -10304,6 +10246,17 @@ Allium cepa L.
 <td>264</td>
 <td>04</td>
 <td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ШЕНГИЛЬДИНСКИЙ</td>
+<td>2013</td>
+<td>3, 6</td>
+<td>21</td>
+<td>05</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10512,6 +10465,17 @@ Daucus carota L
 <td>1989</td>
 <td>1,10,12,13</td>
 <td>65</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ДЕРБЕС</td>
+<td>2013</td>
+<td>3</td>
+<td>21</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -10760,9 +10724,9 @@ Beta vulgaris L. ssp. vulgaris var. conditiva Alef.
 <td></td>
 </tr>
 <tr>
-<td>КЫЗЫЛКОНЫР</td>
+<td>ҚЫЗЫЛҚОҢЫР</td>
 <td>2011</td>
-<td>3, 14</td>
+<td>3, 6, 14</td>
 <td>21</td>
 <td>04</td>
 <td></td>
@@ -11674,6 +11638,17 @@ Capsicum annuum L. var. grossum (L.) Sendt.
 <td></td>
 <td></td>
 <td>cз</td>
+<td></td>
+</tr>
+<tr>
+<td>РЭД НАЙТ</td>
+<td>2013</td>
+<td>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
+<td>321</td>
+<td>02</td>
+<td>F1</td>
+<td>ун</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -13455,7 +13430,7 @@ Sorghum sudanense (Piper.) Stapf.
 <tr>
 <td>ТУГАЙ</td>
 <td>1986</td>
-<td>5,10,13</td>
+<td>10</td>
 <td>52</td>
 <td>02</td>
 <td></td>
@@ -13531,20 +13506,6 @@ Setaria italica L., ssp. mocharium Alf.
 </td>
 <td>1953</td>
 <td>1,8,10</td>
-<td>43</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-КАРАГАНДИНСКИЙ
-1196
-</td>
-<td>1947</td>
-<td>2,5</td>
 <td>43</td>
 <td></td>
 <td></td>
@@ -13642,17 +13603,6 @@ Sorghum v. (L.) Pers.
 <td></td>
 </tr>
 <tr>
-<td>КИНЕЛЬСКОЕ 3</td>
-<td>1978</td>
-<td>7,12</td>
-<td>125</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>
 КРАСНОВОДОПАД-
 СКОЕ 246
@@ -13675,17 +13625,6 @@ Sorghum v. (L.) Pers.
 <td>2,7</td>
 <td>61</td>
 <td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СИЛОСНЫЙ 72</td>
-<td>1982</td>
-<td>6</td>
-<td>139</td>
-<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -13977,17 +13916,6 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk.
 9,10,13
 </td>
 <td>138</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ШПАТ</td>
-<td>1993</td>
-<td>13</td>
-<td>64</td>
 <td></td>
 <td></td>
 <td></td>
@@ -14625,17 +14553,6 @@ Agropyron et Schult.
 <td>2011</td>
 <td>12</td>
 <td>30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДОЛИНСКИЙ 1</td>
-<td>1968</td>
-<td>8</td>
-<td>43</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16392,8 +16309,8 @@ Malus domestica Borkh.
 </tr>
 <tr>
 <td>ЗАИЛИЙСКОЕ</td>
-<td>1974</td>
-<td>3</td>
+<td>1965</td>
+<td>3, 6, 9, 14</td>
 <td>23</td>
 <td></td>
 <td></td>
@@ -22517,6 +22434,17 @@ Festuca rubra L.
 </th>
 </tr>
 <tr>
+<td>ДЖАСПЕРИНА</td>
+<td>2013</td>
+<td>2, 3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ДЖЕВЕЛИН</td>
 <td>2011</td>
 <td>
@@ -22524,6 +22452,17 @@ Festuca rubra L.
 7,8,9,10,11,
 12,13,14
 </td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЕКСЕЛЕНЦ</td>
+<td>2013</td>
+<td>13</td>
 <td>314</td>
 <td></td>
 <td></td>
@@ -22547,6 +22486,17 @@ Festuca rubra L.
 <td></td>
 </tr>
 <tr>
+<td>ЛИВИЗИОН</td>
+<td>2013</td>
+<td>2, 3, 12, 13</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ЛИВИСТА</td>
 <td>2011</td>
 <td>
@@ -22554,6 +22504,17 @@ Festuca rubra L.
 7,8,9,10,11,
 12,13,14
 </td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЛИТАНГО</td>
+<td>2013</td>
+<td>2, 12, 13</td>
 <td>314</td>
 <td></td>
 <td></td>
@@ -22577,10 +22538,65 @@ Festuca rubra L.
 <td></td>
 </tr>
 <tr>
+<td>ОЛИВИЯ</td>
+<td>2013</td>
+<td>13</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>РАИСА</td>
+<td>2013</td>
+<td>13</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>РАЙДЕР</td>
+<td>2013</td>
+<td>3, 12, 13</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЦЕЛИЯ</td>
+<td>2013</td>
+<td>13</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <th>
 Овсяница овечья
 Festuca ovina L.
 </th>
+</tr>
+<tr>
+<td>БОРНИТО</td>
+<td>2013</td>
+<td>2, 12, 13</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>МЕНТОР</td>
@@ -22590,6 +22606,51 @@ Festuca ovina L.
 7,8,9,10,11,
 12,13,14
 </td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
+Овсяница тростниковая
+Festuca arundinacea
+</th>
+</tr>
+<tr>
+<td>МЕАНДРЕ</td>
+<td>2013</td>
+<td>5, 13</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>МИРАКУЛИКС</td>
+<td>2013</td>
+<td>3, 5, 12</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
+Луговик дернистый
+Deschampsia caespitosa
+</th>
+</tr>
+<tr>
+<td>ТРАКАЙ</td>
+<td>2013</td>
+<td>12</td>
 <td>314</td>
 <td></td>
 <td></td>
@@ -22696,21 +22757,6 @@ Lolium perenne L.
 <td></td>
 </tr>
 <tr>
-<td>ПЛЕЗИР</td>
-<td>2011</td>
-<td>
-1,2,3,4,5,6,
-7,8,9,10,11,
-12,13,14
-</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>РАЙГАУБЕК</td>
 <td>2011</td>
 <td>
@@ -22719,6 +22765,17 @@ Lolium perenne L.
 12,13,14
 </td>
 <td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТУРФГОЛЬД</td>
+<td>2013</td>
+<td>5, 12</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -22853,300 +22910,402 @@ Pinus L._
 
 ## СПИСОК сортов сильной пшеницы и наиболее ценных сортов зерновых, крупяных, зернобобовых культур, высокомасличных сортов и гибридов подсолнечника, безэруковых и низкоглюкозинолатных сортов рапса
 
-> *Сноска. Заголовок в редакции приказа Министра сельского хозяйства РК от 18.01.2012 № 06-2/20 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
-
-> *Сноска. Приложение 1 в редакции приказа Министра сельского хозяйства РК от 31.03.2011 № 06-2/153 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования); с изменениями, внесенными приказами Министра сельского хозяйства РК от 18.01.2012 № 06-2/20 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования); от 06.06.2012 № 4-1/301 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
+> *Сноска. Приложение 1 в редакции приказа Министра сельского хозяйства РК от 11.04.2013 № 4-2/164 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
 
 ## Сорта сильной пшеницы Озимая пшеница
-
-1\. Безостая 1 5. Одесская 120
-
-2\. Богарная 56 6. Прикумская 36
-
-3\. Лютесценс 72 7. Стекловидная 24
-
-4\. Мироновская 808 8. Карасай
-
-## Яровая пшеница
-
-1\. Акмола 2 21. Лютесценс 90
-
-2\. Альбидум 28 22. Омская 18
-
-3\. Астана 23. Омская 19
-
-4\. Волгоуральская 24. Омская 24
-
-5\. Ертис 97 25. Омская 28
-
-6\. Казахстанская 4 26. Омская 29
-
-7\. Казахстанская раннеспелая 27. Омская 30
-
-8\. Памяти Азиева 28. Омская 20
-
-9\. Павлодарская 93 29. Росинка 3
-
-10\. Казахстанская 15 30. Саратовская 29
-
-11\. Казахстанская 17 31. Саратовская 42
-
-12\. Казахстанская 19 32. Саратовская 55
-
-13\. Казахстанская 25 33. Саратовская 58
-
-14\. Карабалыкская 90 34. Светланка
-
-15\. Карабалыкская 92 35. Целинная 24
-
-16\. Карагандинская 22 36. Целинная 26
-
-17\. Карагандинская 70 37. Целинная 3 С
-
-18\. Кутулукская 38. Целинная юбилейная
-
-19\. Любава 39. Эритроспермум 35
-
-20\. Лютесценс 32
-
-## Сорта наиболее ценные по качеству Озимая пшеница
-
-1\. Актерекская 8. Наз
-
-2\. Алмалы 9. Майра
-
-3\. Алия 10. Сапалы
-
-4\. Булава 11. Южная 12
-
-5\. Жетысу 12. Эритроспермум 350
-
-6\. Интенсивная 13. Расад
-
-7\. Красноводопадская 210 14. Фараби
-
-15\. Мереке 70
-
-## Яровая пшеница
-
-1\. Арай 13. Секе
-
-2\. Авангард 14. Степная 2
-
-3\. Алем 15. Саратовская 70
-
-4\. Актобе 39 16. Омская 35
-
-5\. Астана 2 17. Омская 36
-
-6\. Альбидум 31 18. Целина 50
-
-7\. Байтерек 19. Степная 50
-
-8\. Вера 20. Ляззат
-
-9\. Интенсивная 21. Северянка
-
-10\. Казахстанская 10 22. Степная 60
-
-11\. Надежда
-
-12\. Ульбинка 25
-
-## Овес
-
-1\. Битик 5. Скакун
-
-2\. Иртыш 15 6. Аламан
-
-3\. Льговский 82
-
-4\. Мирный
-
-## Просо
-
-1\. Саратовское 3 4. Уральское 109
-
-2\. Саратовское 6 5. Шортандинское 7
-
-3\. Старт 6. Саратовское 10
-
-## Гречиха
-
-1\. Богатырь 4. Шортандинская 2
-
-2\. Крупинка 5. Шортандинская крупнозерная
-
-3\. Сумчанка
-
-## Рис
-
-1\. Авангард 5. Маржан
-
-2\. Златый 6. Солнечный
-
-3\. Каракалпакстан 7. Узрос 7-13
-
-4\. Кубань 3
-
-## Длинозерные сорта риса
-
-1\. Лазурный 2. Алтынай
-
-## Горох
-
-1\. Неосыпающийся 1 4. Усач Казахстанский 871
-
-2\. Таловец 50 5. Омский неосыпающийся
-
-3\. Таловец 55 6. Шал
-
-## Нут
-
-1\. Волгоградский 10 3. Юбилейный
-
-2\. Камила 1255
-
-## Ячмень крупяного направления
-
-1\. Донецкий 9 6. Омский 87
-
-2\. Карабалыкский 150 7. Сауле
-
-3\. Кедр 8. Целинный 30
-
-4\. Карагандинский 5 9. Целинный 91
-
-5 Медикум 85 10. Целинный 2005
-
-## Ячмень пивоваренного направления
-
-1\. Арна 10. Гетьман
-
-2\. Асем 11. Нектария
-
-3\. Амулет 12. Ворсинский
-
-4\. Компакт 13. Беатрикс
-
-5\. Малц 14. Ксанаду
-
-6\. Одесский 100 15. КазСуффле-1
-
-7\. Себастьян 16. Кангу
-
-8\. Скарлетт 17. Скарпия
-
-9\. Сильфида
-
-## Безэруковые (0 – типа) и низкоглюкозинолатные (00-типа) сорта рапса
-
-## Рапс яровой Рапс озимый
-
-1\. Золотонивский – 00 типа 1. Иванна – 00 типа
-
-2\. Кавиар - 00 типа 2. Проминь – 0 типа
-
-3\. Шпат - 00 типа 3. Хаммер - 00 типа
-
-4\. Герос - 00 типа
-
-5\. Сиеста – 00 типа
-
-6\. Хантер – 00 типа
-
-7\. Хидалго – 00 типа
-
-8\. Траппер – 00 типа
-
-9\. Лизора – 00 типа
-
-10\. Абилити - 00 типа
-
-11\. Калибр – 00 типа
-
-12\. Мобиль CL – 00 типа
-
-13\. Солар CL – 00 типа
-
-14\. Озорно - 00 типа
-
-15\. ПР 45 Х 73- 00 типа
-
-16\. Сальса CL – 00 типа
-
-## Высокомасличные сорта и гибриды подсолнечника
 
 <table>
 <tr>
 <td>
-<strong>Сорта</strong>
+1. Безостая 1
+2. Богарная 56
+3. Лютесценс 72
+4. Мироновская 808
 </td>
 <td>
-<strong>Гибриды</strong>
+5. Одесская 120
+6. Прикумская 36
+7. Стекловидная 24
+8. Карасай
 </td>
 </tr>
+</table>
+
+## Яровая пшеница
+
+<table>
 <tr>
-<td></td>
-<td>1. Восточный</td>
+<td>1. Акмола 2</td>
+<td>20. Лютесценс 90</td>
 </tr>
 <tr>
-<td>1. Восход</td>
-<td>2. Арена ПР</td>
+<td>2. Астана</td>
+<td>21. Омская 18</td>
 </tr>
 <tr>
-<td>2. Заря</td>
-<td>3. Ислеро</td>
+<td>3. Волгоуральская</td>
+<td>22. Омская 19</td>
 </tr>
 <tr>
-<td>3. Скороспелый 87</td>
-<td>4. Казахстанский 1</td>
+<td>4. Ертис 97</td>
+<td>23. Омская 24</td>
 </tr>
 <tr>
-<td>4. Сибирский 91</td>
-<td>5. Казахстанский 341</td>
+<td>5. Казахстанская 4</td>
+<td>24. Омская 28</td>
 </tr>
 <tr>
-<td></td>
-<td>6. Казахстанский 3124</td>
+<td>6. Казахстанская раннеспелая</td>
+<td>25. Омская 29</td>
 </tr>
 <tr>
-<td></td>
-<td>7. Солнечный 20</td>
+<td>7. Памяти Азиева</td>
+<td>26. Омская 30</td>
 </tr>
 <tr>
-<td></td>
-<td>8. Брио</td>
+<td>8. Павлодарская 93</td>
+<td>27. Омская 20</td>
 </tr>
 <tr>
-<td></td>
-<td>9. Санай</td>
+<td>9. Казахстанская 15</td>
+<td>28. Росинка 3</td>
 </tr>
 <tr>
-<td></td>
-<td>10. Джази</td>
+<td>10. Казахстанская 17</td>
+<td>29. Саратовская 29</td>
 </tr>
 <tr>
-<td></td>
-<td>11.Роки</td>
+<td>11. Казахстанская 19</td>
+<td>30. Саратовская 42</td>
 </tr>
 <tr>
-<td></td>
-<td>12. ПР 62А91</td>
+<td>12. Казахстанская 25</td>
+<td>31. Саратовская 55</td>
 </tr>
 <tr>
-<td></td>
-<td>13. НК Дельфи</td>
+<td>13. Карабалыкская 90</td>
+<td>32. Светланка</td>
 </tr>
 <tr>
-<td></td>
-<td>14. PR63A62</td>
+<td>14. Карабалыкская 92</td>
+<td>33. Целинная 24</td>
+</tr>
+<tr>
+<td>15. Карагандинская 22</td>
+<td>34. Целинная 26</td>
+</tr>
+<tr>
+<td>16. Карагандинская 70</td>
+<td>35. Целинная 3 С</td>
+</tr>
+<tr>
+<td>17. Кутулукская</td>
+<td>36. Целинная юбилейная</td>
+</tr>
+<tr>
+<td>18. Любава</td>
+<td>37. Эритроспермум 35</td>
+</tr>
+<tr>
+<td>19. Лютесценс 32</td>
+<td>38. Омская 38;</td>
+</tr>
+</table>
+
+## Сорта наиболее ценные по качеству Озимая пшеница
+
+<table>
+<tr>
+<td>
+1. Актерекская
+2. Алмалы
+3. Алия
+4. Булава
+5. Жетысу
+6. Интенсивная
+7. Красноводопадская 210
+8. Наз
+</td>
+<td>
+9. Майра
+10. Сапалы
+11. Южная 12
+12. Эритроспермум 350
+13. Расад
+14. Фараби
+15. Мереке 70
+</td>
+</tr>
+</table>
+
+## Яровая пшеница
+
+<table>
+<tr>
+<td>
+1. Арай
+2. Авангард
+3. Алем
+4. Актобе 39
+5. Астана 2
+6. Альбидум 31
+7. Байтерек
+8. Вера
+9. Интенсивная
+10. Казахстанская 10
+11. Надежда
+</td>
+<td>
+12. Ульбинка 25
+13. Секе
+14. Степная 2
+15. Саратовская 70
+16. Омская 35
+17. Омская 36
+18. Целина 50
+19. Степная 50
+20. Ляззат
+21. Северянка
+22. Степная 60
+</td>
+</tr>
+</table>
+
+## Овес
+
+<table>
+<tr>
+<td>
+1. Битик
+2. Иртыш 15
+3. Льговский 82
+</td>
+<td>
+4. Мирный
+5. Скакун
+6. Аламан
+</td>
+</tr>
+</table>
+
+## Просо
+
+<table>
+<tr>
+<td>
+1. Саратовское 3
+2. Саратовское 6
+3. Старт
+</td>
+<td>
+4. Уральское 109
+5. Шортандинское 7
+6. Саратовское 10
+</td>
+</tr>
+</table>
+
+## Гречиха
+
+<table>
+<tr>
+<td>
+1. Богатырь
+2. Крупинка
+3. Сумчанка
+</td>
+<td>
+4. Шортандинская 2
+5. Шортандинская крупнозерная
+</td>
+</tr>
+</table>
+
+## Рис
+
+<table>
+<tr>
+<td>
+1. Авангард
+2. Каракалпакстан
+3. Кубань 3
+</td>
+<td>
+4. Маржан
+5. Солнечный
+6. Узрос 7-13
+</td>
+</tr>
+</table>
+
+## Длинозерные сорта риса
+
+<table>
+<tr>
+<td>
+1. Лазурный
+2. Алтынай
+</td>
+</tr>
+</table>
+
+## Горох
+
+<table>
+<tr>
+<td>
+1. Неосыпающийся 1
+2. Таловец 55
+3. Усач Казахстанский 871
+</td>
+<td>
+4. Омский неосыпающийся
+5. Шал
+</td>
+</tr>
+</table>
+
+## Нут
+
+<table>
+<tr>
+<td>
+1. Волгоградский 10
+2. Камила 1255
+3. Юбилейный
+</td>
+</tr>
+</table>
+
+## Ячмень крупяного направления
+
+<table>
+<tr>
+<td>
+1. Донецкий 9
+2. Карабалыкский 150
+3. Кедр
+4. Карагандинский 5
+5. Медикум 85
+</td>
+<td>
+6. Омский 87
+7. Сауле
+8. Целинный 30
+9. Целинный 91
+10. Целинный 2005
+</td>
+</tr>
+</table>
+
+## Ячмень пивоваренного направления
+
+<table>
+<tr>
+<td>
+1. Арна
+2. Асем
+3. Амулет
+4. Компакт
+5. Малц
+6. Одесский 100
+7. Себастьян
+8. Скарлетт
+9. Сильфида
+</td>
+<td>
+10. Гетьман
+11. Нектария
+12. Ворсинский
+13. Беатрикс
+14. Ксанаду
+15. КазСуффле-1
+16. Кангу
+17. Скарпия
+</td>
+</tr>
+</table>
+
+## Безэруковые (0 – типа) и низкоглюкозинолатные (00-типа) сорта рапса Рапс яровой
+
+<table>
+<tr>
+<td>
+1. Золотонивский – 00 типа
+2. Кавиар - 00 типа
+3. Герос - 00 типа
+4. Хантер – 00 типа
+5. Траппер – 00 типа
+6. Лизора – 00 типа
+7. Абилити - 00 типа
+</td>
+<td>
+8. Калибр – 00 типа
+9. Мобиль CL – 00 типа
+10. Солар CL – 00 типа
+11. Озорно - 00 типа
+12. ПР 45 Х 73- 00 типа
+13. Сальса CL – 00 типа
+</td>
+</tr>
+</table>
+
+## Рапс озимый
+
+<table>
+<tr>
+<td>
+1. Иванна – 00 типа
+2. Проминь – 0 типа
+3. Хаммер - 00 типа
+</td>
+</tr>
+</table>
+
+## Высокомасличные сорта и гибриды подсолнечника Сорта
+
+<table>
+<tr>
+<td>
+1. Восход
+2. Заря
+3. Скороспелый 87
+</td>
+</tr>
+</table>
+
+## Гибрид
+
+<table>
+<tr>
+<td>
+1. Восточный
+2. Арена ПР
+3. Ислеро
+4. Казахстанский 1
+5. Казахстанский 341
+6. Казахстанский 3124
+7. Солнечный 20
+</td>
+<td>
+8. Брио
+9. Санай
+10. Джази
+11. Роки
+12. ПР 62А91
+13. НК Дельфи
+14. PR63A62
+</td>
 </tr>
 </table>
 
 ## Кондитерские сорта подсолнечника
 
-СПК (Кондитерский)
+<table>
+<tr>
+<td>1.СПК (Кондитерский)</td>
+</tr>
+</table>
 
 > *Приложение 2*  
 > *к Государственному реестру*  
@@ -23249,7 +23408,7 @@ Pinus L._
 
 > *Сноска. Заголовок в редакции приказа Министра сельского хозяйства РК от 18.01.2012 № 06-2/20 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
 
-> *Сноска. Приложение 3 с изменениями, внесенными приказами Министра сельского хозяйства РК от 26.04.2010 № 291 (порядок введения в действие см. п. 3); от 31.03.2011 № 06-2/153 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования); от 18.01.2012 № 06-2/20 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования); от 06.06.2012 № 4-1/301 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
+> *Сноска. Приложение 3 с изменениями, внесенными приказами Министра сельского хозяйства РК от 26.04.2010 № 291 (порядок введения в действие см. п. 3); от 31.03.2011 № 06-2/153 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования); от 18.01.2012 № 06-2/20 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования); от 06.06.2012 № 4-1/301 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования); от 11.04.2013 № 4-2/164 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
 
 1\. Оригинатор не зарегистрирован
 
@@ -23933,6 +24092,12 @@ Pinus L._
 
 335\. ЗАО «Научно-производственная фирма Сибирская аграрная компания (Россия)
 
+336\. ТОО «Потейтоу Велли Ко» (Южная Корея)
+
+337\. Агро-ТИП Гмбх (Германия)
+
+338\. «Лайон Сидс» (LION SEEDS) (Великобритания)
+
 > *Приложение 4*  
 > *к Государственному реестру*  
 > *селекционных достижений,*  
@@ -23994,10 +24159,30 @@ F1 гибрид первого поколения
 
 ## ПЕРЕЧЕНЬ перспективных сортов сельскохозяйственных растений
 
-> *Сноска. Перечень в редакции приказа Министра сельского хозяйства РК от 18.01.2012 № 06-2/20 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
+> *Сноска. Перечень в редакции приказа Министра сельского хозяйства РК от 11.04.2013 № 4-2/164 (вводится в действие по истечении десяти календарных дней со дня его первого официального опубликования).*
 
-## 1. Алматинская область
+1. Акмолинская область
 
-Соя – по области
+   Пшеница твердая яровая
 
-Сорт Селекта 201
+   Сорт Нурлы
+
+2. Алматинская область
+
+   Соя – по области
+
+   Сорт Селекта 201
+
+   Сорт Хорол
+
+3. Восточно-Казахстанская область
+
+   Соя – по области
+
+   Сорт Хорол
+
+4. Костанайская область
+
+   Пшеница твердая яровая
+
+   Сорт Нурлы
