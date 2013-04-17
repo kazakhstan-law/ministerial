@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/66545/rus/21.05.2012
+source: https://zan.gov.kz/client/#!/doc/66545/rus/17.04.2013
 ---
 
 ## 149. Консультант по налогам и сборам
