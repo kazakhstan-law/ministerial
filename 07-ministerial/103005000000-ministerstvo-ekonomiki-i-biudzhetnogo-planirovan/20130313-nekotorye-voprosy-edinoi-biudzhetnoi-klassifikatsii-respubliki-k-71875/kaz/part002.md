@@ -1,17 +1,23 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/71875/kaz/13.03.2013
+source: https://zan.gov.kz/client/#!/doc/71875/kaz/24.04.2013
 ---
 
 ## Бюджет шығыстарының функционалдық сыныптамасы
 
+> *Ескерту. Сыныптамаға өзгерістер енгізілді - ҚР Экономика және бюджеттік жоспарлау министрінің 24.04.2013 № 117 бұйрығымен.*
+
 <table>
 <tr>
-<td colspan="6">Функционалдық топ</td>
+<td colspan="4">Функционалдық топ</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Кіші функция</td>
+<td colspan="3">Кіші функция</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -22,7 +28,8 @@ source: https://zan.gov.kz/client/#!/doc/71875/kaz/13.03.2013
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">Бағдарлама</td>
+<td colspan="2">Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>

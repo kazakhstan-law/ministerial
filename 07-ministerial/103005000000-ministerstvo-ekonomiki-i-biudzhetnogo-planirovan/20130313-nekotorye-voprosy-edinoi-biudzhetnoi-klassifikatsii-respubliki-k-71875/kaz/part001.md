@@ -1,17 +1,22 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/71875/kaz/13.03.2013
+source: https://zan.gov.kz/client/#!/doc/71875/kaz/24.04.2013
 ---
 
 ## Бюджет түсімдерінің сыныптамасы
 
 <table>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
