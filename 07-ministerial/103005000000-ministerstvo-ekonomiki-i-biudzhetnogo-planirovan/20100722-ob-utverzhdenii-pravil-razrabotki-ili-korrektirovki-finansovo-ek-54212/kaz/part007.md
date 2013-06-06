@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/54212/kaz/21.01.2013
+source: https://zan.gov.kz/client/#!/doc/54212/kaz/06.06.2013
 ---
 
 ## 2-параграф. Инвестицияларды iрiктеу
