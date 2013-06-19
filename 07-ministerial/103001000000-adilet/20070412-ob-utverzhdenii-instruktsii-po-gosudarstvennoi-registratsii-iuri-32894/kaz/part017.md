@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/32894/kaz/27.02.2013
+source: https://zan.gov.kz/client/#!/doc/32894/kaz/19.06.2013
 ---
 
 ## 1. Заңды тұлғаларды тіркеуге ұсынылатын құжаттардың тiзiмi
