@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/64724/rus/07.03.2012
+source: https://zan.gov.kz/client/#!/doc/64724/rus/09.07.2013
 ---
 
 ## АНА ТІЛІ ДЛЯ ШКОЛ С КАЗАХСКИМ ЯЗЫКОМ ОБУЧЕНИЯ (2-4 КЛАСС)

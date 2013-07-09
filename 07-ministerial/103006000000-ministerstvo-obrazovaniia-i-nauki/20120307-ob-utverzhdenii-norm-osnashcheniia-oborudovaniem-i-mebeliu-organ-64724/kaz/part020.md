@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/64724/kaz/07.03.2012
+source: https://zan.gov.kz/client/#!/doc/64724/kaz/09.07.2013
 ---
 
 ## ПЕДАГОГИКАЛЫҚ ПРОЦЕСТІ ЖАБДЫҚТАУҒА АРНАЛҒАН ҚҰРАЛ-ЖАБДЫҚТАР ТІЗІМІ
