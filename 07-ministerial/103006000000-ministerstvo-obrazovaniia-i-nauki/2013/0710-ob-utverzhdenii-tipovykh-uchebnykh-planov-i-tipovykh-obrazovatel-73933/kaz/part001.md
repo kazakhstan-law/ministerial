@@ -1,0 +1,2656 @@
+↑ [Редакцияның толық мәтіні](../kaz.md)
+
+## Кәсіптік практиканың жиынтық мәліметтері
+
+<table>
+<tr>
+<td>ӨО 00</td>
+<td>Өндірістік оқыту</td>
+<td>306</td>
+</tr>
+<tr>
+<td>ӨО 01</td>
+<td>Оқыту-өндірістік шеберханалардағы практика</td>
+<td>126</td>
+</tr>
+<tr>
+<td>ӨО 02</td>
+<td>Кәсіби дағдыны қалыптастыру практикасы</td>
+<td>180</td>
+</tr>
+<tr>
+<td colspan="2">Барлығы</td>
+<td>306</td>
+</tr>
+<tr>
+<td>Е</td>
+<td>Емтихандар:</td>
+<td>168</td>
+</tr>
+<tr>
+<td>АА</td>
+<td>аралық аттестаттау</td>
+<td>132</td>
+</tr>
+<tr>
+<td>ҚА</td>
+<td>қорытынды аттестаттау</td>
+<td>31</td>
+</tr>
+<tr>
+<td>КДДБ</td>
+<td>кәсіби дайындығының деңгейін бағалау және біліктілікті иемдену ********</td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td>Міндеттік оқытуға қорытынды сағаттар</td>
+<td>2880</td>
+</tr>
+<tr>
+<td>К 00</td>
+<td>Оқу жылы бойынша оқу тобына берілетін 100 сағаттан артық емес консультациялар</td>
+<td>200</td>
+</tr>
+<tr>
+<td>Ф 00</td>
+<td>Аптасына 4 сағаттан артық емес факультативтік сабақтар</td>
+<td>232</td>
+</tr>
+<tr>
+<td colspan="2">Барлығы</td>
+<td>432</td>
+</tr>
+<tr>
+<td colspan="2">Қорытынды</td>
+<td>3312</td>
+</tr>
+</table>
+
+> *Ескерту: ЖБП – Жалпы білім беретін пәндер; ЖГП – Жалпы гуманитарлық пәндер; ӘЭП - Әлеуметтік-экономикалық пәндер; ЖКП – Жалпы кәсіптік пәндер; АП – арнайы пәндер; БҰАП – жұмыс берушілердің талаптары бойынша білім беру ұйымдары анықтайтын пәндер; ӨО – өндірістік оқыту; КП – кәсіптік практика; АА – аралық аттестаттау; ҚА – қорытынды аттестаттау; КДДБ – кәсіптік даярлық деңгейін бағалау және біліктілік беру; К – консультация; Ф – факультативтік сабақтар.*
+
+*Семестр бойынша бөлу оқыту формасына, мамандықтың өзгешелігіне, аймақтық ерекшеліктеріне және тағы басқаларға байланысты өзгертіледі.
+
+> *Қазақстан Республикасы*  
+> *Білім және ғылым министрінің*  
+> *2013 жылғы 10 шілдедегі*  
+> *№ 268 бұйрығына 56-қосымша*
+
+Үлгілік оқу жоспары
+
+техникалық және кәсіптік білім
+
+Білім коды мен бейіні: 0700000 - Геология, тау кен өндірісі және пайдалы қазбаларды өндіру
+
+Мамандығы: 0712000 - Жер асты құрылымдарының құрылысы
+
+Біліктілігі:
+
+белгіленген деңгей:
+
+071203 2 - Шпур бұрғылаушы
+
+071206 2 - Жер асты тау-кен жұмысшысы
+
+071207 2 - Бұрғылау қондырғыларының машинисі
+
+071211 2 - Кен жабдықтары монтажшысы
+
+071212 2 - Топырақты қатыруға арналған тоңазытқыш қондырғылардың машинисі
+
+071213 2 - Үстіңгі жұмыстардағы үңгілеуші
+
+жоғары деңгей:
+
+071201 2 - Өту жолы кешенінің машинисі
+
+071202 2 - Үңгілеуші
+
+071203 2 - Шпур бұрғылаушы
+
+071204 2 - Тау-кен қазып суыратын машина машинисі
+
+071205 2 - Тиейтін машина машинисі
+
+071207 2 - Толық қимамен шахта оқпандарын бұрғылауға арналған құрылғылардың машинисі
+
+071211 2 - Кен жабдықтары монтажшысы
+
+071212 2 - Топырақты қатыруға арналған тоңазытқыш қондырғылардың машинисі
+
+071213 2 - Үстіңгі жұмыстардағы үңгілеуші
+
+> *Оқыту түрі: күндізгі*  
+> *Нормативтік оқу мерзімі: 2 жыл 10 ай*  
+> *негізгі орта білім базасында*
+
+<table>
+<tr>
+<th>Оқу процесінің жоспары</th>
+</tr>
+<tr>
+<th>Индекс</th>
+<th>Оқу пәндерінің атауы</th>
+<th>Семестр бойынша бөлу</th>
+<th>Бақылау жұмысының ең кем саны</th>
+<th>Сағаттар саны</th>
+<th>Курстар және семестрлер бойынша бөлу*</th>
+</tr>
+<tr>
+<th>барлығы</th>
+<th>олардың ішінде</th>
+<th>I курс</th>
+<th>II курс</th>
+<th>III курс</th>
+</tr>
+<tr>
+<th>емтихандар</th>
+<th>курстық жобалар</th>
+<th>теориялық сабақтар</th>
+<th>зертханалық-практ. жұмыстар</th>
+<th>курстық жобалау</th>
+<th>1 сем 19 ап.</th>
+<th>аптадағы сағат саны</th>
+<th>2 сем 19 ап.</th>
+<th>аптадағы сағат саны</th>
+<th>3 сем 13 ап.</th>
+<th>аптадағы сағат саны</th>
+<th>4 сем 15 ап.</th>
+<th>аптадағы сағат саны</th>
+<th>5 сем 12 ап.</th>
+<th>аптадағы сағат саны</th>
+<th>6 сем 12 ап.</th>
+<th>аптадағы сағат саны</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th colspan="2"></th>
+<th>11</th>
+<th colspan="2"></th>
+<th>12</th>
+<th colspan="2"></th>
+<th>13</th>
+<th></th>
+<th>14</th>
+<th></th>
+<th>15</th>
+<th></th>
+</tr>
+<tr>
+<td>ЖБП 00</td>
+<td>Жалпы білім беретін пәндер*</td>
+<td>4**</td>
+<td></td>
+<td>9</td>
+<td>1437</td>
+<td>1116</td>
+<td>321</td>
+<td>0</td>
+<td>684</td>
+<td>36</td>
+<td>684</td>
+<td>36</td>
+<td>39</td>
+<td>3</td>
+<td>30</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 01</td>
+<td>Қазақ (орыс) тілі</td>
+<td>2</td>
+<td></td>
+<td>2</td>
+<td>171</td>
+<td>141</td>
+<td colspan="2">30</td>
+<td colspan="2"></td>
+<td colspan="3">76</td>
+<td colspan="2">4</td>
+<td colspan="2">95</td>
+<td colspan="2">5</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 02</td>
+<td>Қазақ және орыс әдебиеті***</td>
+<td>2</td>
+<td></td>
+<td>1</td>
+<td>171</td>
+<td>151</td>
+<td colspan="2">20</td>
+<td colspan="2"></td>
+<td colspan="3">95</td>
+<td colspan="2">5</td>
+<td colspan="2">76</td>
+<td colspan="2">4</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 03</td>
+<td>Шетел тілі</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>76</td>
+<td>64</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td colspan="3">38</td>
+<td colspan="2">2</td>
+<td colspan="2">38</td>
+<td colspan="2">2</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 04</td>
+<td>Дүниежүзілік тарихы</td>
+<td></td>
+<td></td>
+<td></td>
+<td>38</td>
+<td>38</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="3">38</td>
+<td colspan="2">2</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 05</td>
+<td>Қазақстан тарихы</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>76</td>
+<td>76</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="3">38</td>
+<td colspan="2">2</td>
+<td colspan="2">38</td>
+<td colspan="2">2</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 06</td>
+<td>Қоғамтану</td>
+<td></td>
+<td></td>
+<td></td>
+<td>38</td>
+<td>38</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="3">38</td>
+<td colspan="2">2</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 07</td>
+<td>География</td>
+<td></td>
+<td></td>
+<td></td>
+<td>38</td>
+<td>38</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">38</td>
+<td colspan="2">2</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 08</td>
+<td>Математика</td>
+<td>2</td>
+<td></td>
+<td>2</td>
+<td>171</td>
+<td>171</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="3">95</td>
+<td colspan="2">5</td>
+<td colspan="2">76</td>
+<td colspan="2">4</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 09</td>
+<td>Информатика</td>
+<td></td>
+<td></td>
+<td></td>
+<td>76</td>
+<td>46</td>
+<td colspan="2">30</td>
+<td colspan="2"></td>
+<td colspan="3">38</td>
+<td colspan="2">2</td>
+<td colspan="2">38</td>
+<td colspan="2">2</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 10</td>
+<td>Физика және астрономия</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>152</td>
+<td>117</td>
+<td colspan="2">35</td>
+<td colspan="2"></td>
+<td colspan="3">76</td>
+<td colspan="2">4</td>
+<td colspan="2">76</td>
+<td colspan="2">4</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 11</td>
+<td>Химия</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>95</td>
+<td>77</td>
+<td colspan="2">18</td>
+<td colspan="2"></td>
+<td colspan="3">38</td>
+<td colspan="2">2</td>
+<td colspan="2">57</td>
+<td colspan="2">3</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 12</td>
+<td>Биология</td>
+<td></td>
+<td></td>
+<td></td>
+<td>38</td>
+<td>38</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">38</td>
+<td colspan="2">2</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 13</td>
+<td>Алғашқы әскери дайындық****</td>
+<td></td>
+<td></td>
+<td></td>
+<td>145</td>
+<td>85</td>
+<td colspan="2">60</td>
+<td colspan="2"></td>
+<td colspan="3">38</td>
+<td colspan="2">2</td>
+<td colspan="2">38</td>
+<td colspan="2">2</td>
+<td colspan="2">39</td>
+<td colspan="2">3</td>
+<td>30</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 14</td>
+<td>Дене тәрбиесі*****</td>
+<td></td>
+<td></td>
+<td></td>
+<td>152</td>
+<td>36</td>
+<td colspan="2">116</td>
+<td colspan="2"></td>
+<td colspan="3">76</td>
+<td colspan="2">4</td>
+<td colspan="2">76</td>
+<td colspan="2">4</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖГП 00</td>
+<td>Жалпы гуманитарлық пәндер</td>
+<td>2</td>
+<td></td>
+<td>2</td>
+<td>357</td>
+<td>33</td>
+<td>324</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>117</td>
+<td>9</td>
+<td>120</td>
+<td>8</td>
+<td>72</td>
+<td>6</td>
+<td>48</td>
+<td>4</td>
+</tr>
+<tr>
+<td>ЖГП 01</td>
+<td>Кәсіби қазақ (орыс) тілі ******</td>
+<td>4</td>
+<td></td>
+<td>1</td>
+<td>80</td>
+<td>21</td>
+<td colspan="2">59</td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">26</td>
+<td colspan="2">2</td>
+<td>30</td>
+<td>2</td>
+<td>24</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ЖГП 02</td>
+<td>Кәсіби шетел тілі</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>69</td>
+<td>6</td>
+<td colspan="2">63</td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">39</td>
+<td colspan="2">3</td>
+<td>30</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ЖГП 03</td>
+<td>Дене тәрбиесі*****</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td>208</td>
+<td>6</td>
+<td colspan="2">202</td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">52</td>
+<td colspan="2">4</td>
+<td>60</td>
+<td>4</td>
+<td>48</td>
+<td>4</td>
+<td>48</td>
+<td>4</td>
+</tr>
+<tr>
+<td>ӘЭП 00</td>
+<td>Әлеуметтік-экономикалық пәндер</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td>176</td>
+<td>176</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>65</td>
+<td>5</td>
+<td>75</td>
+<td>5</td>
+<td>36</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>ӘЭП 01</td>
+<td>Мәдениеттану</td>
+<td></td>
+<td></td>
+<td></td>
+<td>39</td>
+<td>39</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">39</td>
+<td colspan="2">3</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ӘЭП 02</td>
+<td>Философия негіздері</td>
+<td></td>
+<td></td>
+<td></td>
+<td>26</td>
+<td>26</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">26</td>
+<td colspan="2">2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ӘЭП 03</td>
+<td>Саясаттану және әлеуметтану негіздері</td>
+<td></td>
+<td></td>
+<td></td>
+<td>30</td>
+<td>30</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>30</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ӘЭП 04</td>
+<td>Экономика негіздері</td>
+<td></td>
+<td></td>
+<td></td>
+<td>45</td>
+<td>45</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>45</td>
+<td>3</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ӘЭП 05</td>
+<td>Құқық негіздері</td>
+<td></td>
+<td></td>
+<td></td>
+<td>36</td>
+<td>36</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td>36</td>
+<td>3</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ЖКП00</td>
+<td>Жалпы кәсіптік пәндер</td>
+<td>2</td>
+<td></td>
+<td>7</td>
+<td>541</td>
+<td>335</td>
+<td>206</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>247</td>
+<td>19</td>
+<td>210</td>
+<td>14</td>
+<td>48</td>
+<td>4</td>
+<td>36</td>
+<td>3</td>
+</tr>
+<tr>
+<td>ЖКП 01</td>
+<td>Сызу</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>82</td>
+<td>6</td>
+<td colspan="2">76</td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">52</td>
+<td colspan="2">4</td>
+<td>30</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ЖКП 02</td>
+<td>Техникалық механика негіздері</td>
+<td>4</td>
+<td></td>
+<td>2</td>
+<td>82</td>
+<td>62</td>
+<td colspan="2">20</td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">52</td>
+<td colspan="2">4</td>
+<td>30</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ЖКП 03</td>
+<td>Жалпы электр-техника электроника негіздерімен</td>
+<td>4</td>
+<td></td>
+<td>2</td>
+<td>97</td>
+<td>63</td>
+<td colspan="2">34</td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">52</td>
+<td colspan="2">4</td>
+<td>45</td>
+<td>3</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ЖКП 04</td>
+<td>Өндірісті ақпараттандыру және автоматтан тандыру негіздері</td>
+<td></td>
+<td></td>
+<td></td>
+<td>69</td>
+<td>49</td>
+<td colspan="2">20</td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">39</td>
+<td colspan="2">3</td>
+<td>30</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ЖКП 05</td>
+<td>Геология негіздері</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>97</td>
+<td>73</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">52</td>
+<td colspan="2">4</td>
+<td>45</td>
+<td>3</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ЖКП 06</td>
+<td>Геодезия және маркшейдер ісі негіздері</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>84</td>
+<td>52</td>
+<td colspan="2">32</td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>48</td>
+<td>4</td>
+<td>36</td>
+<td>3</td>
+</tr>
+<tr>
+<td>ЖКП 07</td>
+<td>Еңбекті қорғау</td>
+<td></td>
+<td></td>
+<td></td>
+<td>30</td>
+<td>30</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>30</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>АП 00</td>
+<td>Арнайы пәндер</td>
+<td>2+3г</td>
+<td>3</td>
+<td>12</td>
+<td>711</td>
+<td>431</td>
+<td>220</td>
+<td>60</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>135</td>
+<td>9</td>
+<td>276</td>
+<td>23</td>
+<td>300</td>
+<td>25</td>
+</tr>
+<tr>
+<td>АП 01</td>
+<td>Кен ісі</td>
+<td>6</td>
+<td>6</td>
+<td>2</td>
+<td>165</td>
+<td>91</td>
+<td colspan="2">44</td>
+<td colspan="2">30</td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>45</td>
+<td>3</td>
+<td>60</td>
+<td>5</td>
+<td>60</td>
+<td>5</td>
+</tr>
+<tr>
+<td>АП 02</td>
+<td>Жарылыс жұмыстарының технологиясы мен қауіпсіздігі *******</td>
+<td>6г</td>
+<td></td>
+<td>1</td>
+<td>78</td>
+<td>54</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>30</td>
+<td>2</td>
+<td>24</td>
+<td>2</td>
+<td>24</td>
+<td>2</td>
+</tr>
+<tr>
+<td>АП 03</td>
+<td>Шахта оқпандарын үңгілеу және тереңдету</td>
+<td>6г</td>
+<td>6</td>
+<td>1</td>
+<td>60</td>
+<td>10</td>
+<td colspan="2">20</td>
+<td colspan="2">30</td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td>36</td>
+<td>3</td>
+<td>24</td>
+<td>2</td>
+</tr>
+<tr>
+<td>АП 04</td>
+<td>Кен үңгілеу және құрылыс машиналары</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>102</td>
+<td>68</td>
+<td colspan="2">34</td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>30</td>
+<td>2</td>
+<td>48</td>
+<td>4</td>
+<td>24</td>
+<td>2</td>
+</tr>
+<tr>
+<td>АП 05</td>
+<td>Кен кәсіпорындарындағы электр жабдықтары мен электр қуатын жеткізу</td>
+<td>6</td>
+<td></td>
+<td>1</td>
+<td>96</td>
+<td>66</td>
+<td colspan="2">30</td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td>60</td>
+<td>5</td>
+<td>36</td>
+<td>3</td>
+</tr>
+<tr>
+<td>АП 06</td>
+<td>Кен механикасы</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>126</td>
+<td>82</td>
+<td colspan="2">44</td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>30</td>
+<td>2</td>
+<td>48</td>
+<td>4</td>
+<td>48</td>
+<td>4</td>
+</tr>
+<tr>
+<td>АП 07</td>
+<td>Құрылыс ісі</td>
+<td></td>
+<td></td>
+<td></td>
+<td>36</td>
+<td>12</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>36</td>
+<td>3</td>
+</tr>
+<tr>
+<td>АП 08</td>
+<td>Қауіпсіздік техникасы, қоршаған ортаны қорғау және табиғатты тиімді пайдалану</td>
+<td>6 г</td>
+<td></td>
+<td></td>
+<td>24</td>
+<td>24</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>24</td>
+<td>2</td>
+</tr>
+<tr>
+<td>АП 09</td>
+<td>Сала экономикасы</td>
+<td></td>
+<td></td>
+<td></td>
+<td>24</td>
+<td>24</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>24</td>
+<td>2</td>
+</tr>
+<tr>
+<td>БҰАП</td>
+<td>Білім беру ұйымымен анықтайтын пәндер********</td>
+<td></td>
+<td></td>
+<td></td>
+<td>48</td>
+<td>48</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>48</td>
+<td>4</td>
+</tr>
+<tr>
+<td colspan="2">Барлығы</td>
+<td>10+3г</td>
+<td>2</td>
+<td>30</td>
+<td>3270</td>
+<td>2139</td>
+<td>1071</td>
+<td>60</td>
+<td>684</td>
+<td>36</td>
+<td>684</td>
+<td>36</td>
+<td>468</td>
+<td>36</td>
+<td>570</td>
+<td>38</td>
+<td>432</td>
+<td>36</td>
+<td>432</td>
+<td>36</td>
+</tr>
+<tr>
+<td colspan="5">Оқу пәндерінің саны:</td>
+<td>38+БҰАП</td>
+<td></td>
+<td></td>
+<td></td>
+<td>12</td>
+<td></td>
+<td>12</td>
+<td></td>
+<td>11</td>
+<td></td>
+<td>16</td>
+<td></td>
+<td>10</td>
+<td></td>
+<td>11</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">Емтихандар саны:</td>
+<td>10+3г</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3+3г</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">Курстық жобалардың саны:</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+</table>
+
+## Кәсіптік практиканың жиынтық мәліметтері
+
+<table>
+<tr>
+<td>ӨО 00</td>
+<td>Өндірістік оқыту</td>
+<td>342</td>
+</tr>
+<tr>
+<td>ӨО 01</td>
+<td>Оқыту-өндірістік шеберханалардағы практика</td>
+<td>126</td>
+</tr>
+<tr>
+<td>ӨО 02</td>
+<td>Кәсіптік дағдыны қалыптастыру практикасы</td>
+<td>216</td>
+</tr>
+<tr>
+<td>КП 00</td>
+<td>Кәсіптік практика</td>
+<td>504</td>
+</tr>
+<tr>
+<td>КП 00</td>
+<td>Кәсіби дағдыны бекіту және қалыптастыру практикасы</td>
+<td>504</td>
+</tr>
+<tr>
+<td colspan="2">Барлығы</td>
+<td>846</td>
+</tr>
+<tr>
+<td>Е</td>
+<td>Емтихандар:</td>
+<td>204</td>
+</tr>
+<tr>
+<td>АА</td>
+<td>аралық аттестаттау</td>
+<td>168</td>
+</tr>
+<tr>
+<td>ҚА</td>
+<td>қорытынды аттестаттау</td>
+<td>31</td>
+</tr>
+<tr>
+<td>КДДБ</td>
+<td>кәсіби дайындығының деңгейін бағалау және біліктілікті иемдену *********</td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td>Міндеттік оқытуға қорытынды сағаттар</td>
+<td>4320</td>
+</tr>
+<tr>
+<td>К 00</td>
+<td>Оқу жылы бойынша оқу тобына берілетін 100 сағаттан артық емес консультациялар</td>
+<td>300</td>
+</tr>
+<tr>
+<td>Ф 00</td>
+<td>Аптасына 4 сағаттан артық емес факультативтік сабақтар</td>
+<td>340</td>
+</tr>
+<tr>
+<td colspan="2">Барлығы</td>
+<td>640</td>
+</tr>
+<tr>
+<td colspan="2">Қорытынды</td>
+<td>4960</td>
+</tr>
+</table>
+
+> *Ескерту: ЖБП – Жалпы білім беретін пәндер; ЖГП – Жалпы гуманитарлық пәндер; ӘЭП - Әлеуметтік-экономикалық пәндер; ЖКП – Жалпы кәсіптік пәндер; АП – арнайы пәндер; БҰАП – жұмыс берушілердің талаптары бойынша білім беру ұйымдары анықтайтын пәндер; ӨО – өндірістік оқыту; КП – кәсіптік практика; АА – аралық аттестаттау; ҚА – қорытынды аттестаттау; КДДБ – кәсіптік даярлық деңгейін бағалау және біліктілік беру; К – консультация; Ф – факультативтік сабақтар.*
+
+*Семестр бойынша бөлу оқыту формасына, мамандықтың өзгешелігіне, аймақтық ерекшеліктеріне және тағы басқаларға байланысты өзгертіледі.
+
+> *Қазақстан Республикасы*  
+> *Білім және ғылым министрінің*  
+> *2013 жылғы 10 шілдедегі*  
+> *№ 268 бұйрығына 57-қосымша*
+
+Үлгілік оқу жоспары
+
+техникалық және кәсіптік білім
+
+Білім коды мен бейіні: 0700000 - Геология, тау кен өндірісі және пайдалы қазбаларды өндіру
+
+Мамандығы: 0712000 - Жер асты құрылымдарының құрылысы
+
+Біліктілігі: 071209 3 - Техник-құрылысшы
+
+> *Оқу нысаны: күндізгі*  
+> *Нормативтік оқу мерзімі: 3 жыл 10 ай*  
+> *негізгі орта білім базасында*
+
+<table>
+<tr>
+<th>Оқу процесінің жоспары</th>
+</tr>
+<tr>
+<th>Индекс</th>
+<th>Оқу пәндерінің атауы</th>
+<th>Семестр бойынша бөлу</th>
+<th>Бақылау жұмысының ең кем саны</th>
+<th>Сағаттар саны</th>
+<th>Курстар және семестрлер бойынша бөлу*</th>
+</tr>
+<tr>
+<th>барлығы</th>
+<th>олардың ішінде</th>
+<th>I курс</th>
+<th>II курс</th>
+<th>III курс</th>
+<th>IV курс</th>
+</tr>
+<tr>
+<th>емтихандар</th>
+<th>курстық жобалар</th>
+<th>теориялық сабақтар</th>
+<th>зертханалық-практ. жұмыстар</th>
+<th>курстық жобалау</th>
+<th>1 сем 19 ап.</th>
+<th>аптадағы сағат саны</th>
+<th>2 сем 19 ап.</th>
+<th>аптадағы сағат саны</th>
+<th>3 сем 13 ап.</th>
+<th>аптадағы сағат саны</th>
+<th>4 сем 15 ап.</th>
+<th>аптадағы сағат саны</th>
+<th>5 сем 12 ап.</th>
+<th>аптадағы сағат саны</th>
+<th>6 сем 12 ап.</th>
+<th>аптадағы сағат саны</th>
+<th>7 сем13 ап.</th>
+<th>аптадағы сағат саны</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th></th>
+<th>11</th>
+<th></th>
+<th>12</th>
+<th></th>
+<th>13</th>
+<th></th>
+<th>14</th>
+<th></th>
+<th>15</th>
+<th></th>
+<th>16</th>
+<th></th>
+</tr>
+<tr>
+<td>ЖБП 00</td>
+<td>Жалпы білім беретін пәндер*</td>
+<td>4**</td>
+<td></td>
+<td>9</td>
+<td>1437</td>
+<td>1116</td>
+<td>321</td>
+<td>0</td>
+<td>684</td>
+<td>36</td>
+<td>684</td>
+<td>36</td>
+<td>39</td>
+<td>3</td>
+<td>30</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 01</td>
+<td>Қазақ (орыс) тілі</td>
+<td>2</td>
+<td></td>
+<td>2</td>
+<td>171</td>
+<td>141</td>
+<td>30</td>
+<td></td>
+<td>76</td>
+<td>4</td>
+<td>95</td>
+<td>5</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 02</td>
+<td>Қазақ және орыс әдебиеті***</td>
+<td>2</td>
+<td></td>
+<td>1</td>
+<td>171</td>
+<td>151</td>
+<td>20</td>
+<td></td>
+<td>95</td>
+<td>5</td>
+<td>76</td>
+<td>4</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 03</td>
+<td>Шетел тілі</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>76</td>
+<td>64</td>
+<td>12</td>
+<td></td>
+<td>38</td>
+<td>2</td>
+<td>38</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 04</td>
+<td>Дүниежүзілік тарихы</td>
+<td></td>
+<td></td>
+<td></td>
+<td>38</td>
+<td>38</td>
+<td>0</td>
+<td></td>
+<td>38</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 05</td>
+<td>Қазақстан тарихы</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>76</td>
+<td>76</td>
+<td>0</td>
+<td></td>
+<td>38</td>
+<td>2</td>
+<td>38</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 06</td>
+<td>Қоғам тану</td>
+<td></td>
+<td></td>
+<td></td>
+<td>38</td>
+<td>38</td>
+<td>0</td>
+<td></td>
+<td>38</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 07</td>
+<td>География</td>
+<td></td>
+<td></td>
+<td></td>
+<td>38</td>
+<td>38</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>38</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 08</td>
+<td>Математика</td>
+<td>2</td>
+<td></td>
+<td>2</td>
+<td>171</td>
+<td>171</td>
+<td>0</td>
+<td></td>
+<td>95</td>
+<td>5</td>
+<td>76</td>
+<td>4</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 09</td>
+<td>Информатика</td>
+<td></td>
+<td></td>
+<td></td>
+<td>76</td>
+<td>46</td>
+<td>30</td>
+<td></td>
+<td>38</td>
+<td>2</td>
+<td>38</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 10</td>
+<td>Физика және астрономия</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>152</td>
+<td>117</td>
+<td>35</td>
+<td></td>
+<td>76</td>
+<td>4</td>
+<td>76</td>
+<td>4</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 11</td>
+<td>Химия</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>95</td>
+<td>77</td>
+<td>18</td>
+<td></td>
+<td>38</td>
+<td>2</td>
+<td>57</td>
+<td>3</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 12</td>
+<td>Биология</td>
+<td></td>
+<td></td>
+<td></td>
+<td>38</td>
+<td>38</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>38</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 13</td>
+<td>Алғашқы әскери дайындық ****</td>
+<td></td>
+<td></td>
+<td></td>
+<td>145</td>
+<td>85</td>
+<td>60</td>
+<td></td>
+<td>38</td>
+<td>2</td>
+<td>38</td>
+<td>2</td>
+<td>39</td>
+<td>3</td>
+<td>30</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖБП 14</td>
+<td>Дене тәрбиесі*****</td>
+<td></td>
+<td></td>
+<td></td>
+<td>152</td>
+<td>36</td>
+<td>116</td>
+<td></td>
+<td>76</td>
+<td>4</td>
+<td>76</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖГП 00</td>
+<td>Жалпы гуманитарлық пәндер</td>
+<td>2</td>
+<td></td>
+<td>2</td>
+<td>409</td>
+<td>33</td>
+<td>376</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>117</td>
+<td>9</td>
+<td>120</td>
+<td>8</td>
+<td>72</td>
+<td>6</td>
+<td>48</td>
+<td>4</td>
+<td>52</td>
+<td>4</td>
+</tr>
+<tr>
+<td>ЖГП 01</td>
+<td>Кәсіби қазақ (орыс) тілі******</td>
+<td>4</td>
+<td></td>
+<td>1</td>
+<td>80</td>
+<td>21</td>
+<td>59</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>26</td>
+<td>2</td>
+<td>30</td>
+<td>2</td>
+<td>24</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ЖГП 02</td>
+<td>Кәсіби шетел тілі</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>69</td>
+<td>6</td>
+<td>63</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>39</td>
+<td>3</td>
+<td>30</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ЖГП 03</td>
+<td>Дене тәрбиесі*****</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td>260</td>
+<td>6</td>
+<td>254</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>52</td>
+<td>4</td>
+<td>60</td>
+<td>4</td>
+<td>48</td>
+<td>4</td>
+<td>48</td>
+<td>4</td>
+<td>52</td>
+<td>4</td>
+</tr>
+<tr>
+<td>ӘЭП 00</td>
+<td>Әлеуметтік-экономикалық пәндер</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td>176</td>
+<td>176</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>65</td>
+<td>5</td>
+<td>75</td>
+<td>5</td>
+<td>36</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>ӘЭП 01</td>
+<td>Мәдениеттану</td>
+<td></td>
+<td></td>
+<td></td>
+<td>39</td>
+<td>39</td>
+<td></td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>39</td>
+<td>3</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ӘЭП 02</td>
+<td>Философия негіздері</td>
+<td></td>
+<td></td>
+<td></td>
+<td>26</td>
+<td>26</td>
+<td></td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>26</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ӘЭП 03</td>
+<td>Саясаттану және әлеуметтану негіздері</td>
+<td></td>
+<td></td>
+<td></td>
+<td>30</td>
+<td>30</td>
+<td></td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>30</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ӘЭП 04</td>
+<td>Экономика негіздері</td>
+<td></td>
+<td></td>
+<td></td>
+<td>45</td>
+<td>45</td>
+<td></td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>45</td>
+<td>3</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ӘЭП 05</td>
+<td>Құқық негіздері</td>
+<td></td>
+<td></td>
+<td></td>
+<td>36</td>
+<td>36</td>
+<td></td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>36</td>
+<td>3</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ЖКП 00</td>
+<td>Жалпы кәсіптік пәндер</td>
+<td>2</td>
+<td></td>
+<td>7</td>
+<td>541</td>
+<td>335</td>
+<td>206</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>247</td>
+<td>19</td>
+<td>210</td>
+<td>14</td>
+<td>48</td>
+<td>4</td>
+<td>36</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>ЖКП 01</td>
+<td>Сызу</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>82</td>
+<td>6</td>
+<td>76</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>52</td>
+<td>4</td>
+<td>30</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ЖКП 02</td>
+<td>Техникалық механика негіздері</td>
+<td>4</td>
+<td></td>
+<td>2</td>
+<td>82</td>
+<td>62</td>
+<td>20</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>52</td>
+<td>4</td>
+<td>30</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ЖКП 03</td>
+<td>Жалпы электртехника электроника негіздерімен</td>
+<td>4</td>
+<td></td>
+<td>2</td>
+<td>97</td>
+<td>63</td>
+<td>34</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>52</td>
+<td>4</td>
+<td>45</td>
+<td>3</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ЖКП 04</td>
+<td>Өндірісті ақпараттандыру және автоматтандыру негіздері</td>
+<td></td>
+<td></td>
+<td></td>
+<td>69</td>
+<td>49</td>
+<td>20</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>39</td>
+<td>3</td>
+<td>30</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ЖКП 05</td>
+<td>Геология негіздері</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>97</td>
+<td>73</td>
+<td>24</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>52</td>
+<td>4</td>
+<td>45</td>
+<td>3</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ЖКП 06</td>
+<td>Геодезия және маркшейдер ісі негіздері</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>84</td>
+<td>52</td>
+<td>32</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>48</td>
+<td>4</td>
+<td>36</td>
+<td>3</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ЖКП 07</td>
+<td>Еңбекті қорғау</td>
+<td></td>
+<td></td>
+<td></td>
+<td>30</td>
+<td>30</td>
+<td></td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>30</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>АП 00</td>
+<td>Арнайы пәндер</td>
+<td>3+3г</td>
+<td>3</td>
+<td>7</td>
+<td>1127</td>
+<td>761</td>
+<td>284</td>
+<td>82</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>135</td>
+<td>9</td>
+<td>276</td>
+<td>23</td>
+<td>300</td>
+<td>25</td>
+<td>416</td>
+<td>32</td>
+</tr>
+<tr>
+<td>АП 01</td>
+<td>Кен ісі</td>
+<td>6</td>
+<td>6</td>
+<td>2</td>
+<td>165</td>
+<td>91</td>
+<td>44</td>
+<td>30</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>45</td>
+<td>3</td>
+<td>60</td>
+<td>5</td>
+<td>60</td>
+<td>5</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>АП 02</td>
+<td>Жарылыс жұмыстарының технологиясы мен қауіпсіздігі *******</td>
+<td>7г</td>
+<td></td>
+<td>1</td>
+<td>130</td>
+<td>106</td>
+<td>24</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>30</td>
+<td>2</td>
+<td>24</td>
+<td>2</td>
+<td>24</td>
+<td>2</td>
+<td>52</td>
+<td>4</td>
+</tr>
+<tr>
+<td>АП 03</td>
+<td>Шахта оқпандарын үңгілеу және тереңдету</td>
+<td>7г</td>
+<td>7</td>
+<td>1</td>
+<td>125</td>
+<td>75</td>
+<td>20</td>
+<td>30</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>36</td>
+<td>3</td>
+<td>24</td>
+<td>2</td>
+<td>65</td>
+<td>5</td>
+</tr>
+<tr>
+<td>АП 04</td>
+<td>Кен үңгілеу және құрылыс машиналары</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>102</td>
+<td>68</td>
+<td>34</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>30</td>
+<td>2</td>
+<td>48</td>
+<td>4</td>
+<td>24</td>
+<td>2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АП 05</td>
+<td>Кен кәсіпорындарындағы электр жабдықтары мен электр қуатын жеткізу</td>
+<td>6</td>
+<td></td>
+<td>1</td>
+<td>96</td>
+<td>66</td>
+<td>30</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>60</td>
+<td>5</td>
+<td>36</td>
+<td>3</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>АП 06</td>
+<td>Кен механикасы</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>126</td>
+<td>82</td>
+<td>44</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>30</td>
+<td>2</td>
+<td>48</td>
+<td>4</td>
+<td>48</td>
+<td>4</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>АП 07</td>
+<td>Құрылыс ісі</td>
+<td></td>
+<td></td>
+<td></td>
+<td>88</td>
+<td>64</td>
+<td>24</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>36</td>
+<td>3</td>
+<td>52</td>
+<td>4</td>
+</tr>
+<tr>
+<td>АП 08</td>
+<td>Өндіріс процестерін автоматтандыру</td>
+<td></td>
+<td></td>
+<td></td>
+<td>91</td>
+<td>69</td>
+<td>22</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>91</td>
+<td>7</td>
+</tr>
+<tr>
+<td>АП 09</td>
+<td>Қауіпсіздік техникасы, қоршаған ортаны қорғау және табиғатты тиімді пайдалану</td>
+<td>7 г</td>
+<td></td>
+<td></td>
+<td>102</td>
+<td>80</td>
+<td>22</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>24</td>
+<td>2</td>
+<td>78</td>
+<td>6</td>
+</tr>
+<tr>
+<td>АП 10</td>
+<td>Сала экономикасы</td>
+<td>7</td>
+<td>7</td>
+<td></td>
+<td>102</td>
+<td>60</td>
+<td>20</td>
+<td>22</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>24</td>
+<td>2</td>
+<td>78</td>
+<td>6</td>
+</tr>
+<tr>
+<td>БҰАП</td>
+<td>Білім беру ұйымы анықтайтын пәндер********</td>
+<td></td>
+<td></td>
+<td></td>
+<td>48</td>
+<td>48</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td>48</td>
+<td>4</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Барлығы</td>
+<td>11+3г</td>
+<td>3</td>
+<td>25</td>
+<td>3738</td>
+<td>2469</td>
+<td>1187</td>
+<td>82</td>
+<td>684</td>
+<td>36</td>
+<td>684</td>
+<td>36</td>
+<td>468</td>
+<td>36</td>
+<td>570</td>
+<td>38</td>
+<td>432</td>
+<td>36</td>
+<td>432</td>
+<td>36</td>
+<td>468</td>
+<td>36</td>
+</tr>
+<tr>
+<td colspan="5">Оқу пәндерінің саны:</td>
+<td>39+БҰАП</td>
+<td></td>
+<td></td>
+<td></td>
+<td>12</td>
+<td></td>
+<td>12</td>
+<td></td>
+<td>11</td>
+<td></td>
+<td>16</td>
+<td></td>
+<td>10</td>
+<td></td>
+<td>11</td>
+<td></td>
+<td>7</td>
+</tr>
+<tr>
+<td colspan="5">Емтихандар саны:</td>
+<td>11+3г</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>2+3г</td>
+</tr>
+<tr>
+<td colspan="5">Курстық жобалардың саны:</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+</tr>
+</table>
