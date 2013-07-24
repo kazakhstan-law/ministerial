@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69067/rus/25.10.2012
+source: https://zan.gov.kz/client/#!/doc/69067/rus/24.07.2013
 ---
 
 ## 3. Жөнелту және әкелу бойынша жүктерді тасымалдау көлемін көрсетіңіз, мың тонна
