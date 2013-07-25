@@ -1,5 +1,5 @@
 ---
-version_id: AI69469_1
+version_id: AI69469_3
 act_code: '69469'
 language: rus
 title: Об утверждении типовых учебных планов начального, основного среднего, общего среднего образования Республики Казахстан
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103006000000'
 approval_date: 2012-11-08
-version_date: 2012-11-08
+version_date: 2013-07-25
 registry_number: '69469'
-source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
+caused_by:
+  code: '74194'
+  title: О внесении изменений в приказ Министра образования и науки Республики Казахстан от 8 ноября 2012 года № 500 "Об утверждении типовых учебных планов начального, основного среднего, общего среднего образования Республики Казахстан"
+  link: https://zan.gov.kz/client/#!/doc/74194/rus
+source: https://zan.gov.kz/client/#!/doc/69469/rus/25.07.2013
 ---
 
 # Об утверждении типовых учебных планов начального, основного среднего, общего среднего образования Республики Казахстан
@@ -65,6 +69,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план начального образования с казахским языком обучения
+
+> *Сноска. Приложение 1 в редакции приказа Министра образования и науки РК от 25.07.2013 № 296 (вводится в действие с 01.09.2013).*
 
 <table>
 <tr>
@@ -205,14 +211,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>135</td>
 </tr>
 <tr>
-<td>V</td>
-<td>Искусство</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>8</td>
-<td>270</td>
+<th>V</th>
+<th>Искусство</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th>8</th>
+<th>270</th>
 </tr>
 <tr>
 <td>9</td>
@@ -226,10 +232,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td>10</td>
-<td>
-Изобразительное
-искусство
-</td>
+<td>Изобразительное искусство</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -260,31 +263,31 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <tr>
 <th>VII</th>
 <th>Физическая культура</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>8</th>
-<th>270</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>12</th>
+<th>405</th>
 </tr>
 <tr>
 <td>12</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>8</td>
-<td>270</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>12</td>
+<td>405</td>
 </tr>
 <tr>
 <th colspan="2">Инвариантная учебная нагрузка</th>
-<th>20</th>
 <th>21</th>
-<th>24</th>
-<th>24</th>
-<th>89</th>
-<th>3006</th>
+<th>22</th>
+<th>25</th>
+<th>25</th>
+<th>93</th>
+<th>3141</th>
 </tr>
 <tr>
 <th colspan="8">Вариативный компонент</th>
@@ -306,36 +309,38 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td colspan="2">Индивидуальные и групповые консультации, занятия развивающего характера</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>8</td>
-<td>270</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
-<th colspan="2">Вариативная учебная нагрузка</th>
-<th>4</th>
-<th>4</th>
-<th>5</th>
-<th>5</th>
-<th>18</th>
-<th>608</th>
+<td colspan="2">Вариативная учебная нагрузка</td>
+<td>3</td>
+<td>3</td>
+<td>4</td>
+<td>4</td>
+<td>14</td>
+<td>473</td>
 </tr>
 <tr>
-<th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>24</th>
-<th>25</th>
-<th>29</th>
-<th>29</th>
-<th>107</th>
-<th>3614</th>
+<td colspan="2">Объем максимальной учебной нагрузки</td>
+<td>24</td>
+<td>25</td>
+<td>29</td>
+<td>29</td>
+<td>107</td>
+<td>3614</td>
 </tr>
 </table>
 
-## Примечание:
+Примечание:
 
-* - Иностранный язык в 1 классе вводится в 2013-2014 учебном году, во 2 классе – в 2014-2015 учебном году, в 3 классе – в 2015-2016 учебном году, в 4 классе – в 2016-2017 учебном году. До введения предмета «Иностранный язык» выделенная ему учебная нагрузка отводится изучению предмета «Познание мира».
+* Иностранный язык в 1 классе вводится в 2013-2014 учебном году, во 2 классе - в 2014-2015 учебном году, в 3 классе - в 2015-2016 учебном году, в 4 классе - в 2016-2017 учебном году.
+
+До введения предмета «Иностранный язык» выделенная ему учебная нагрузка отводится изучению предмета «Познание мира».
 
 > *Приложение 2*  
 > *к приказу Министра образования*  
@@ -343,6 +348,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план начального образования с русским языком обучения
+
+> *Сноска. Приложение 2 в редакции приказа Министра образования и науки РК от 25.07.2013 № 296 (вводится в действие с 01.09.2013).*
 
 <table>
 <tr>
@@ -483,14 +490,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>135</td>
 </tr>
 <tr>
-<td>V</td>
-<td>Искусство</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>8</td>
-<td>270</td>
+<th>V</th>
+<th>Искусство</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th>8</th>
+<th>270</th>
 </tr>
 <tr>
 <td>9</td>
@@ -535,31 +542,31 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <tr>
 <th>VIІ</th>
 <th>Физическая культура</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>8</th>
-<th>270</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>12</th>
+<th>405</th>
 </tr>
 <tr>
 <td>12</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>8</td>
-<td>270</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>12</td>
+<td>405</td>
 </tr>
 <tr>
 <th colspan="2">Инвариантная учебная нагрузка</th>
-<th>22</th>
 <th>23</th>
-<th>25</th>
-<th>25</th>
-<th>95</th>
-<th>3208</th>
+<th>24</th>
+<th>26</th>
+<th>26</th>
+<th>99</th>
+<th>3343</th>
 </tr>
 <tr>
 <th colspan="8">Вариативный компонент</th>
@@ -581,21 +588,21 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td colspan="2">Индивидуальные и групповые консультации, занятия развивающего характера</td>
+<td>-</td>
+<td>-</td>
 <td>1</td>
 <td>1</td>
 <td>2</td>
-<td>2</td>
-<td>6</td>
-<td>203</td>
+<td>68</td>
 </tr>
 <tr>
 <th colspan="2">Вариативная учебная нагрузка</th>
-<th>2</th>
-<th>2</th>
-<th>4</th>
-<th>4</th>
-<th>12</th>
-<th>406</th>
+<th>1</th>
+<th>1</th>
+<th>3</th>
+<th>3</th>
+<th>8</th>
+<th>271</th>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
@@ -608,9 +615,11 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 </table>
 
-## Примечание:
+Примечание:
 
-* - Иностранный язык в 1 классе вводится в 2013-2014 учебном году, во 2 классе – в 2014-2015 учебном году, в 3 классе – в 2015-2016 учебном году, в 4 классе – в 2016-2017 учебном году. До введения предмета «Иностранный язык» выделенная ему учебная нагрузка отводится изучению предмета «Познание мира».
+* - Иностранный язык в 1 классе вводится в 2013-2014 учебном году, во 2 классе - в 2014-2015 учебном году, в 3 классе - в 2015-2016 учебном году, в 4 классе - в 2016-2017 учебном году.
+
+До введения предмета «Иностранный язык» выделенная ему учебная нагрузка отводится изучению предмета «Познание мира».
 
 > *Приложение 3*  
 > *к приказу Министра образования*  
@@ -619,15 +628,17 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 
 ## Типовой учебный план начального образования с уйгурским, узбекским, таджикским языками обучения
 
+> *Сноска. Приложение 3 в редакции приказа Министра образования и науки РК от 25.07.2013 № 296 (вводится в действие с 01.09.2013).*
+
 <table>
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="5">Недельное количество часов по классам</th>
+<th colspan="4">Недельное количество часов по классам</th>
 <th colspan="2">Нагрузка, часы</th>
 </tr>
 <tr>
-<th colspan="2">1</th>
+<th>1</th>
 <th>2</th>
 <th>3</th>
 <th>4</th>
@@ -635,11 +646,11 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <th>Годовая</th>
 </tr>
 <tr>
-<th colspan="9">Инвариантный компонент</th>
+<th colspan="8">Инвариантный компонент</th>
 </tr>
 <tr>
 <th>I</th>
-<th colspan="2">Язык и литература</th>
+<th>Язык и литература</th>
 <th>10</th>
 <th>11</th>
 <th>13</th>
@@ -649,7 +660,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td>1</td>
-<td colspan="2">Грамота (чтение, письмо)</td>
+<td>Грамота (чтение, письмо)</td>
 <td>7</td>
 <td>-</td>
 <td>-</td>
@@ -659,7 +670,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td>2</td>
-<td colspan="2">Родной язык</td>
+<td>Родной язык</td>
 <td>-</td>
 <td>4</td>
 <td>4</td>
@@ -669,7 +680,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td>3</td>
-<td colspan="2">Литературное чтение</td>
+<td>Литературное чтение</td>
 <td>-</td>
 <td>4</td>
 <td>4</td>
@@ -679,7 +690,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td>4</td>
-<td colspan="2">Казахский язык</td>
+<td>Казахский язык</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
@@ -689,7 +700,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td>5</td>
-<td colspan="2">Русский язык</td>
+<td>Русский язык</td>
 <td>-</td>
 <td>-</td>
 <td>2</td>
@@ -699,7 +710,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td>6</td>
-<td colspan="2">Иностранный язык *</td>
+<td>Иностранный язык *</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -709,7 +720,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <th>II</th>
-<th colspan="2">Математика</th>
+<th>Математика</th>
 <th>4</th>
 <th>4</th>
 <th>5</th>
@@ -719,7 +730,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td>7</td>
-<td colspan="2">Математика</td>
+<td>Математика</td>
 <td>4</td>
 <td>4</td>
 <td>5</td>
@@ -729,7 +740,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <th>III</th>
-<th colspan="2">Естествознание</th>
+<th>Естествознание</th>
 <th>1</th>
 <th>1</th>
 <th>1</th>
@@ -739,7 +750,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td>8</td>
-<td colspan="2">Познание мира</td>
+<td>Познание мира</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -749,7 +760,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <th>IV</th>
-<th colspan="2">Человек и общество</th>
+<th>Человек и общество</th>
 <th>1</th>
 <th>1</th>
 <th>1</th>
@@ -759,7 +770,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td>9</td>
-<td colspan="2">Самопознание</td>
+<td>Самопознание</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -768,18 +779,18 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>135</td>
 </tr>
 <tr>
-<td>V</td>
-<td colspan="2">Искусство</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>8</td>
-<td>270</td>
+<th>V</th>
+<th>Искусство</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th>8</th>
+<th>270</th>
 </tr>
 <tr>
 <td>10</td>
-<td colspan="2">Музыка</td>
+<td>Музыка</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -789,7 +800,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td>11</td>
-<td colspan="2">Изобразительное искусство</td>
+<td>Изобразительное искусство</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -799,7 +810,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <th>VI</th>
-<th colspan="2">Технология</th>
+<th>Технология</th>
 <th>2</th>
 <th>2</th>
 <th>2</th>
@@ -809,7 +820,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td>12</td>
-<td colspan="2">Трудовое обучение</td>
+<td>Трудовое обучение</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
@@ -819,42 +830,42 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <th>VIІ</th>
-<th colspan="2">Физическая культура</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>8</th>
-<th>270</th>
+<th>Физическая культура</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>9</th>
+<th>405</th>
 </tr>
 <tr>
 <td>13</td>
-<td colspan="2">Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>8</td>
-<td>270</td>
+<td>Физическая культура</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>9</td>
+<td>405</td>
 </tr>
 <tr>
-<th colspan="3">Инвариантная учебная нагрузка</th>
-<th>22</th>
+<th colspan="2">Инвариантная учебная нагрузка</th>
 <th>23</th>
-<th>26</th>
-<th>26</th>
-<th>97</th>
-<th>3276</th>
+<th>24</th>
+<th>27</th>
+<th>27</th>
+<th>101</th>
+<th>3411</th>
 </tr>
 <tr>
-<th colspan="9">Вариативный компонент</th>
+<th colspan="8">Вариативный компонент</th>
 </tr>
 <tr>
-<td colspan="9">Школьный компонент</td>
+<td colspan="8">Школьный компонент</td>
 </tr>
 <tr>
 <td colspan="2">Занятия по выбору</td>
-<td colspan="2">1</td>
+<td>1</td>
 <td>1</td>
 <td>2</td>
 <td>2</td>
@@ -862,29 +873,29 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>203</td>
 </tr>
 <tr>
-<td colspan="9">Ученический компонент</td>
+<td colspan="8">Ученический компонент</td>
 </tr>
 <tr>
 <td colspan="2">Индивидуальные и групповые консультации, занятия развивающего характера</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>4</td>
-<td>135</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <th colspan="2">Вариативная учебная нагрузка</th>
-<th colspan="2">2</th>
+<th>1</th>
+<th>1</th>
 <th>2</th>
-<th>3</th>
-<th>3</th>
-<th>10</th>
-<th>338</th>
+<th>2</th>
+<th>6</th>
+<th>203</th>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
-<th colspan="2">24</th>
+<th>24</th>
 <th>25</th>
 <th>29</th>
 <th>29</th>
@@ -893,9 +904,11 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 </table>
 
-## Примечание:
+Примечание:
 
-* - Иностранный язык в 1 классе вводится в 2013-2014 учебном году, во 2 классе – в 2014-2015 учебном году, в 3 классе – в 2015-2016 учебном году, в 4 классе – в 2016-2017 учебном году. До введения предмета «Иностранный язык» выделенная ему учебная нагрузка отводится изучению предмета «Познание мира».
+* - Иностранный язык в 1 классе вводится в 2013-2014 учебном году, во 2 классе - в 2014-2015 учебном году, в 3 классе - в 2015-2016 учебном году, в 4 классе - в 2016-2017 учебном году.
+
+До введения предмета «Иностранный язык» выделенная ему учебная нагрузка отводится изучению предмета «Познание мира».
 
 > *Приложение 4*  
 > *к приказу Министра образования*  
@@ -903,6 +916,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план основного среднего образования с казахским языком обучения
+
+> *Сноска. Приложение 4 в редакции приказа Министра образования и науки РК от 25.07.2013 № 296 (вводится в действие с 01.09.2013).*
 
 <table>
 <tr>
@@ -1234,34 +1249,34 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <tr>
 <th>VIІ</th>
 <th>Физическая культура</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>10</th>
-<th>340</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>15</th>
+<th>510</th>
 </tr>
 <tr>
 <td>23</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>10</td>
-<td>340</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>15</td>
+<td>510</td>
 </tr>
 <tr>
-<th colspan="2">Инвариантная учебная нагрузка</th>
-<th>26</th>
-<th>30</th>
-<th>29</th>
-<th>31</th>
-<th>33</th>
-<th>149</th>
-<th>5066</th>
+<td colspan="2">Инвариантная учебная нагрузка</td>
+<td>27</td>
+<td>31</td>
+<td>30</td>
+<td>32</td>
+<td>34</td>
+<td>154</td>
+<td>5236</td>
 </tr>
 <tr>
 <th colspan="9">Вариативный компонент</th>
@@ -1284,23 +1299,23 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td colspan="2">Индивидуальные и групповые консультации, занятия развивающего характера</td>
-<td>2</td>
 <td>1</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>9</td>
-<td>306</td>
+<td>-</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>136</td>
 </tr>
 <tr>
 <th colspan="2">Вариативная учебная нагрузка</th>
-<th>6</th>
-<th>3</th>
 <th>5</th>
-<th>5</th>
-<th>5</th>
-<th>24</th>
-<th>816</th>
+<th>2</th>
+<th>4</th>
+<th>4</th>
+<th>4</th>
+<th>19</th>
+<th>646</th>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
@@ -1321,12 +1336,20 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 
 ## Типовой учебный план основного среднего образования с русским языком обучения
 
+> *Сноска. Приложение 5 в редакции приказа Министра образования и науки РК от 25.07.2013 № 296 (вводится в действие с 01.09.2013).*
+
 <table>
 <tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="6">Недельное количество часов по классам</th>
-<th colspan="3">Нагрузка, часы</th>
+<td rowspan="2">№</td>
+<td rowspan="2">
+Образовательные области
+и учебные предметы
+</td>
+<td colspan="6">
+Недельное количество
+часов по классам
+</td>
+<td colspan="2">Нагрузка, часы</td>
 </tr>
 <tr>
 <th>5</th>
@@ -1334,11 +1357,11 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <th colspan="2">7</th>
 <th>8</th>
 <th>9</th>
-<th colspan="2">Недельная</th>
+<th>Недельная</th>
 <th>Годовая</th>
 </tr>
 <tr>
-<th colspan="11">Инвариантный компонент</th>
+<th colspan="10">Инвариантный компонент</th>
 </tr>
 <tr>
 <th>I</th>
@@ -1348,7 +1371,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <th colspan="2">11</th>
 <th>11</th>
 <th>11</th>
-<th colspan="2">55</th>
+<th>55</th>
 <th>1870</th>
 </tr>
 <tr>
@@ -1359,7 +1382,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">3</td>
 <td>3</td>
 <td>2</td>
-<td colspan="2">14</td>
+<td>14</td>
 <td>476</td>
 </tr>
 <tr>
@@ -1370,7 +1393,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">2</td>
 <td>2</td>
 <td>2</td>
-<td colspan="2">10</td>
+<td>10</td>
 <td>340</td>
 </tr>
 <tr>
@@ -1381,7 +1404,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">3</td>
 <td>3</td>
 <td>3</td>
-<td colspan="2">15</td>
+<td>15</td>
 <td>510</td>
 </tr>
 <tr>
@@ -1392,7 +1415,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">1</td>
 <td>1</td>
 <td>2</td>
-<td colspan="2">6</td>
+<td>6</td>
 <td>204</td>
 </tr>
 <tr>
@@ -1403,7 +1426,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">2</td>
 <td>2</td>
 <td>2</td>
-<td colspan="2">10</td>
+<td>10</td>
 <td>340</td>
 </tr>
 <tr>
@@ -1414,7 +1437,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <th colspan="2">6</th>
 <th>6</th>
 <th>6</th>
-<th colspan="2">32</th>
+<th>32</th>
 <th>1088</th>
 </tr>
 <tr>
@@ -1425,7 +1448,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">12</td>
+<td>12</td>
 <td>408</td>
 </tr>
 <tr>
@@ -1436,7 +1459,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">3</td>
 <td>3</td>
 <td>3</td>
-<td colspan="2">9</td>
+<td>9</td>
 <td>306</td>
 </tr>
 <tr>
@@ -1447,7 +1470,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">2</td>
 <td>2</td>
 <td>2</td>
-<td colspan="2">6</td>
+<td>6</td>
 <td>204</td>
 </tr>
 <tr>
@@ -1458,7 +1481,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
-<td colspan="2">5</td>
+<td>5</td>
 <td>170</td>
 </tr>
 <tr>
@@ -1469,7 +1492,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <th colspan="2">6</th>
 <th>8</th>
 <th>8</th>
-<th colspan="2">27</th>
+<th>27</th>
 <th>918</th>
 </tr>
 <tr>
@@ -1480,7 +1503,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">1</td>
+<td>1</td>
 <td>34</td>
 </tr>
 <tr>
@@ -1491,7 +1514,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">2</td>
 <td>2</td>
 <td>2</td>
-<td colspan="2">8</td>
+<td>8</td>
 <td>272</td>
 </tr>
 <tr>
@@ -1502,7 +1525,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">2</td>
 <td>2</td>
 <td>2</td>
-<td colspan="2">8</td>
+<td>8</td>
 <td>272</td>
 </tr>
 <tr>
@@ -1513,7 +1536,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">2</td>
 <td>2</td>
 <td>2</td>
-<td colspan="2">6</td>
+<td>6</td>
 <td>204</td>
 </tr>
 <tr>
@@ -1524,7 +1547,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">-</td>
 <td>2</td>
 <td>2</td>
-<td colspan="2">4</td>
+<td>4</td>
 <td>136</td>
 </tr>
 <tr>
@@ -1535,7 +1558,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <th colspan="2">4</th>
 <th>4</th>
 <th>5</th>
-<th colspan="2">19</th>
+<th>19</th>
 <th>646</th>
 </tr>
 <tr>
@@ -1546,7 +1569,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">2</td>
 <td>2</td>
 <td>2</td>
-<td colspan="2">9</td>
+<td>9</td>
 <td>306</td>
 </tr>
 <tr>
@@ -1557,7 +1580,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
-<td colspan="2">4</td>
+<td>4</td>
 <td>136</td>
 </tr>
 <tr>
@@ -1568,7 +1591,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">-</td>
 <td>-</td>
 <td>1</td>
-<td colspan="2">1</td>
+<td>1</td>
 <td>34</td>
 </tr>
 <tr>
@@ -1579,7 +1602,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
-<td colspan="2">5</td>
+<td>5</td>
 <td>170</td>
 </tr>
 <tr>
@@ -1590,7 +1613,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <th colspan="2">-</th>
 <th>-</th>
 <th>-</th>
-<th colspan="2">4</th>
+<th>4</th>
 <th>136</th>
 </tr>
 <tr>
@@ -1601,7 +1624,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">2</td>
+<td>2</td>
 <td>68</td>
 </tr>
 <tr>
@@ -1612,19 +1635,19 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">2</td>
+<td>2</td>
 <td>68</td>
 </tr>
 <tr>
-<th>VІ</th>
-<th>Технология</th>
-<th>1</th>
-<th>1</th>
-<th colspan="2">1</th>
-<th>1</th>
-<th>3</th>
-<th colspan="2">7</th>
-<th>238</th>
+<td>VІ</td>
+<td>Технология</td>
+<td>1</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>3</td>
+<td>7</td>
+<td>238</td>
 </tr>
 <tr>
 <td>21</td>
@@ -1634,7 +1657,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
-<td colspan="2">5</td>
+<td>5</td>
 <td>170</td>
 </tr>
 <tr>
@@ -1645,59 +1668,59 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">-</td>
 <td>-</td>
 <td>2</td>
-<td colspan="2">2</td>
+<td>2</td>
 <td>68</td>
 </tr>
 <tr>
 <th>VIІ</th>
 <th>Физическая культура</th>
-<th>2</th>
-<th>2</th>
-<th colspan="2">2</th>
-<th>2</th>
-<th>2</th>
-<th colspan="2">10</th>
-<th>340</th>
+<th>3</th>
+<th>3</th>
+<th colspan="2">3</th>
+<th>3</th>
+<th>3</th>
+<th>15</th>
+<th>510</th>
 </tr>
 <tr>
 <td>23</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td>2</td>
-<td colspan="2">10</td>
-<td>340</td>
+<td>3</td>
+<td>3</td>
+<td colspan="2">3</td>
+<td>3</td>
+<td>3</td>
+<td>15</td>
+<td>510</td>
 </tr>
 <tr>
-<th colspan="2">Инвариантная учебная нагрузка</th>
-<th>26</th>
-<th>31</th>
-<th colspan="2">30</th>
-<th>32</th>
-<th>35</th>
-<th colspan="2">154</th>
-<th>5236</th>
+<td colspan="2">Инвариантная учебная нагрузка</td>
+<td>27</td>
+<td>32</td>
+<td colspan="2">31</td>
+<td>33</td>
+<td>36</td>
+<td>159</td>
+<td>5406</td>
 </tr>
 <tr>
-<th colspan="11">Вариативный компонент</th>
+<th colspan="10">Вариативный компонент</th>
 </tr>
 <tr>
-<td colspan="11">Школьный компонент</td>
+<td colspan="10">Школьный компонент</td>
 </tr>
 <tr>
 <td colspan="2">Факультативы, курсы по выбору</td>
-<td>4</td>
-<td>2</td>
 <td>3</td>
-<td colspan="2">3</td>
+<td>1</td>
 <td>2</td>
-<td>14</td>
-<td colspan="2">476</td>
+<td colspan="2">2</td>
+<td>1</td>
+<td>9</td>
+<td>306</td>
 </tr>
 <tr>
-<td colspan="11">Ученический компонент</td>
+<td colspan="10">Ученический компонент</td>
 </tr>
 <tr>
 <td colspan="2">Индивидуальные и групповые консультации, занятия развивающего характера</td>
@@ -1707,17 +1730,17 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td colspan="2">1</td>
 <td>1</td>
 <td>5</td>
-<td colspan="2">170</td>
+<td>170</td>
 </tr>
 <tr>
 <th colspan="2">Вариативная учебная нагрузка</th>
-<th>6</th>
-<th>2</th>
-<th>4</th>
-<th colspan="2">4</th>
+<th>5</th>
+<th>1</th>
 <th>3</th>
-<th>19</th>
-<th colspan="2">646</th>
+<th colspan="2">3</th>
+<th>2</th>
+<th>14</th>
+<th>476</th>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
@@ -1727,7 +1750,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <th colspan="2">36</th>
 <th>38</th>
 <th>173</th>
-<th colspan="2">5882</th>
+<th>5882</th>
 </tr>
 </table>
 
@@ -1737,6 +1760,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план основного среднего образования с уйгурским, узбекским, таджикским языками обучения
+
+> *Сноска. Приложение 6 в редакции приказа Министра образования и науки РК от 25.07.2013 № 296 (вводится в действие с 01.09.2013).*
 
 <table>
 <tr>
@@ -1761,23 +1786,23 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <th>I</th>
 <th>Язык и литература</th>
 <th>13</th>
+<th>12</th>
 <th>13</th>
 <th>13</th>
-<th>13</th>
-<th>13</th>
-<th>65</th>
-<th>2210</th>
+<th>12</th>
+<th>63</th>
+<th>2142</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Родной язык</td>
 <td>3</td>
+<td>2</td>
 <td>3</td>
 <td>3</td>
-<td>3</td>
-<td>3</td>
-<td>15</td>
-<td>510</td>
+<td>2</td>
+<td>13</td>
+<td>442</td>
 </tr>
 <tr>
 <td>2</td>
@@ -2090,34 +2115,34 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <tr>
 <th>VIІ</th>
 <th>Физическая культура</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>10</th>
-<th>340</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>15</th>
+<th>510</th>
 </tr>
 <tr>
 <td>25</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>10</td>
-<td>340</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>15</td>
+<td>510</td>
 </tr>
 <tr>
-<th colspan="2">Инвариантная учебная нагрузка</th>
-<th>28</th>
-<th>33</th>
-<th>32</th>
-<th>34</th>
-<th>37</th>
-<th>164</th>
-<th>5576</th>
+<td colspan="2">Инвариантная учебная нагрузка</td>
+<td>29</td>
+<td>33</td>
+<td>33</td>
+<td>35</td>
+<td>37</td>
+<td>167</td>
+<td>5678</td>
 </tr>
 <tr>
 <th colspan="9">Вариативный компонент</th>
@@ -2127,13 +2152,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td colspan="2">Факультативы, курсы по выбору</td>
-<td>2</td>
-<td>-</td>
-<td>2</td>
-<td>2</td>
 <td>1</td>
-<td>7</td>
-<td>238</td>
+<td>-</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>136</td>
 </tr>
 <tr>
 <td colspan="9">Ученический компонент</td>
@@ -2150,13 +2175,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <th colspan="2">Вариативная учебная нагрузка</th>
-<th>4</th>
+<th>3</th>
 <th>-</th>
-<th>2</th>
-<th>2</th>
 <th>1</th>
-<th>9</th>
-<th>306</th>
+<th>1</th>
+<th>1</th>
+<th>6</th>
+<th>204</th>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
@@ -2176,6 +2201,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план общего среднего образования общественно-гуманитарного направления с казахским языком обучения
+
+> *Сноска. Приложение 7 в редакции приказа Министра образования и науки РК от 25.07.2013 № 296 (вводится в действие с 01.09.2013).*
 
 <table>
 <tr>
@@ -2379,18 +2406,18 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <tr>
 <th>VІ</th>
 <th>Физическая культура</th>
-<th>3</th>
-<th>3</th>
-<th>6</th>
-<th>204</th>
+<th>4</th>
+<th>4</th>
+<th>8</th>
+<th>272</th>
 </tr>
 <tr>
 <td>18</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
 </tr>
 <tr>
 <td>19</td>
@@ -2401,11 +2428,11 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>68</td>
 </tr>
 <tr>
-<th colspan="2">Инвариантная учебная нагрузка</th>
-<th>31</th>
-<th>31</th>
-<th>62</th>
-<th>2108</th>
+<td colspan="2">Инвариантная учебная нагрузка</td>
+<td>32</td>
+<td>32</td>
+<td>64</td>
+<td>2176</td>
 </tr>
 <tr>
 <th colspan="6">Вариативный компонент</th>
@@ -2425,17 +2452,17 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td colspan="2">Курсы по выбору</td>
+<td>1</td>
+<td>1</td>
 <td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
 <th colspan="2">Вариативная учебная нагрузка</th>
-<th>8</th>
-<th>8</th>
-<th>16</th>
-<th>544</th>
+<th>7</th>
+<th>7</th>
+<th>14</th>
+<th>476</th>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
@@ -2453,12 +2480,17 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 
 ## Типовой учебный план общего среднего образования естественно-математического направления с казахским языком обучения
 
+> *Сноска. Приложение 8 в редакции приказа Министра образования и науки РК от 25.07.2013 № 296 (вводится в действие с 01.09.2013).*
+
 <table>
 <tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="2">Недельное количество часов по классам</th>
-<th colspan="2">Нагрузка, часы</th>
+<td rowspan="2">№</td>
+<td rowspan="2">
+Образовательные области
+и учебные предметы
+</td>
+<td colspan="2">Недельное количество часов по классам</td>
+<td colspan="2">Нагрузка, часы</td>
 </tr>
 <tr>
 <th>10</th>
@@ -2636,12 +2668,12 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>68</td>
 </tr>
 <tr>
-<th>V</th>
-<th>Технология</th>
-<th>1</th>
-<th>1</th>
-<th>2</th>
-<th>68</th>
+<td>V</td>
+<td>Технология</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
 <td>17</td>
@@ -2654,18 +2686,18 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <tr>
 <th>VІ</th>
 <th>Физическая культура</th>
-<th>3</th>
-<th>3</th>
-<th>6</th>
-<th>204</th>
+<th>4</th>
+<th>4</th>
+<th>8</th>
+<th>272</th>
 </tr>
 <tr>
 <td>18</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
 </tr>
 <tr>
 <td>19</td>
@@ -2676,11 +2708,11 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>68</td>
 </tr>
 <tr>
-<th colspan="2">Инвариантная учебная нагрузка</th>
-<th>31</th>
-<th>31</th>
-<th>62</th>
-<th>2108</th>
+<td colspan="2">Инвариантная учебная нагрузка</td>
+<td>32</td>
+<td>32</td>
+<td>64</td>
+<td>2176</td>
 </tr>
 <tr>
 <th colspan="6">Вариативный компонент</th>
@@ -2700,17 +2732,17 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td colspan="2">Курсы по выбору</td>
+<td>1</td>
+<td>1</td>
 <td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
 <th colspan="2">Вариативная учебная нагрузка</th>
-<th>8</th>
-<th>8</th>
-<th>16</th>
-<th>544</th>
+<th>7</th>
+<th>7</th>
+<th>14</th>
+<th>476</th>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
@@ -2727,6 +2759,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план общего среднего образования общественно-гуманитарного направления с русским языком обучения
+
+> *Сноска. Приложение 9 в редакции приказа Министра образования и науки РК от 25.07.2013 № 296 (вводится в действие с 01.09.2013).*
 
 <table>
 <tr>
@@ -2929,18 +2963,18 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <tr>
 <th>VІ</th>
 <th>Физическая культура</th>
-<th>3</th>
-<th>3</th>
-<th>6</th>
-<th>204</th>
+<th>4</th>
+<th>4</th>
+<th>8</th>
+<th>272</th>
 </tr>
 <tr>
 <td>18</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
 </tr>
 <tr>
 <td>19</td>
@@ -2951,11 +2985,11 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>68</td>
 </tr>
 <tr>
-<th colspan="2">Инвариантная учебная нагрузка</th>
-<th>31</th>
-<th>32</th>
-<th>63</th>
-<th>2142</th>
+<td colspan="2">Инвариантная учебная нагрузка</td>
+<td>32</td>
+<td>33</td>
+<td>65</td>
+<td>2210</td>
 </tr>
 <tr>
 <th colspan="6">Вариативный компонент</th>
@@ -2975,17 +3009,17 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 </tr>
 <tr>
 <td colspan="2">Курсы по выбору</td>
+<td>1</td>
+<td>1</td>
 <td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
 <th colspan="2">Вариативная учебная нагрузка</th>
-<th>8</th>
 <th>7</th>
-<th>15</th>
-<th>510</th>
+<th>6</th>
+<th>13</th>
+<th>442</th>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
@@ -3003,31 +3037,33 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 
 ## Типовой учебный план общего среднего образования естественно-математического направления с русским языком обучения
 
+> *Сноска. Приложение 10 в редакции приказа Министра образования и науки РК от 25.07.2013 № 296 (вводится в действие с 01.09.2013).*
+
 <table>
 <tr>
 <th rowspan="2">№</th>
 <th colspan="2" rowspan="2">Образовательные области и учебные предметы</th>
 <th colspan="2">Недельное количество часов по классам</th>
-<th colspan="3">Нагрузка, часы</th>
+<th colspan="2">Нагрузка, часы</th>
 </tr>
 <tr>
 <th>10</th>
 <th>11</th>
 <th>Недельная</th>
-<th colspan="2">Годовая</th>
+<th>Годовая</th>
 </tr>
 <tr>
-<th colspan="8">Инвариантный компонент</th>
+<th colspan="7">Инвариантный компонент</th>
 </tr>
 <tr>
-<td colspan="8">Профильные предметы</td>
+<td colspan="7">Профильные предметы</td>
 </tr>
 <tr>
 <th colspan="2">І</th>
 <th>Математика и информатика</th>
 <th>6</th>
 <th>6</th>
-<th colspan="2">12</th>
+<th>12</th>
 <th>408</th>
 </tr>
 <tr>
@@ -3035,7 +3071,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>Алгебра и начала анализа</td>
 <td>3</td>
 <td>3</td>
-<td colspan="2">6</td>
+<td>6</td>
 <td>204</td>
 </tr>
 <tr>
@@ -3043,7 +3079,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>Геометрия</td>
 <td>2</td>
 <td>2</td>
-<td colspan="2">4</td>
+<td>4</td>
 <td>136</td>
 </tr>
 <tr>
@@ -3051,7 +3087,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>Информатика</td>
 <td>1</td>
 <td>1</td>
-<td colspan="2">2</td>
+<td>2</td>
 <td>68</td>
 </tr>
 <tr>
@@ -3059,7 +3095,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <th>Естествознание</th>
 <th>9</th>
 <th>9</th>
-<th colspan="2">18</th>
+<th>18</th>
 <th>612</th>
 </tr>
 <tr>
@@ -3067,7 +3103,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>Биология</td>
 <td>2</td>
 <td>2</td>
-<td colspan="2">4</td>
+<td>4</td>
 <td>136</td>
 </tr>
 <tr>
@@ -3075,7 +3111,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>География</td>
 <td>2</td>
 <td>2</td>
-<td colspan="2">4</td>
+<td>4</td>
 <td>136</td>
 </tr>
 <tr>
@@ -3083,7 +3119,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>Физика</td>
 <td>3</td>
 <td>3</td>
-<td colspan="2">6</td>
+<td>6</td>
 <td>204</td>
 </tr>
 <tr>
@@ -3091,18 +3127,18 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>Химия</td>
 <td>2</td>
 <td>2</td>
-<td colspan="2">4</td>
+<td>4</td>
 <td>136</td>
 </tr>
 <tr>
-<td colspan="8">Непрофильные предметы</td>
+<td colspan="7">Непрофильные предметы</td>
 </tr>
 <tr>
 <th colspan="2">ІІІ</th>
 <th>Язык и литература</th>
 <th>8</th>
 <th>8</th>
-<th colspan="2">16</th>
+<th>16</th>
 <th>544</th>
 </tr>
 <tr>
@@ -3110,7 +3146,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>Русский язык</td>
 <td>1</td>
 <td>1</td>
-<td colspan="2">2</td>
+<td>2</td>
 <td>68</td>
 </tr>
 <tr>
@@ -3118,7 +3154,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>Русская литература</td>
 <td>2</td>
 <td>2</td>
-<td colspan="2">4</td>
+<td>4</td>
 <td>136</td>
 </tr>
 <tr>
@@ -3126,7 +3162,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>Казахский язык</td>
 <td>2</td>
 <td>2</td>
-<td colspan="2">4</td>
+<td>4</td>
 <td>136</td>
 </tr>
 <tr>
@@ -3134,7 +3170,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>Казахская литература</td>
 <td>1</td>
 <td>1</td>
-<td colspan="2">2</td>
+<td>2</td>
 <td>68</td>
 </tr>
 <tr>
@@ -3142,7 +3178,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>Иностранный язык</td>
 <td>2</td>
 <td>2</td>
-<td colspan="2">4</td>
+<td>4</td>
 <td>136</td>
 </tr>
 <tr>
@@ -3150,7 +3186,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <th>Человек и общество</th>
 <th>5</th>
 <th>5</th>
-<th colspan="2">10</th>
+<th>10</th>
 <th>340</th>
 </tr>
 <tr>
@@ -3158,7 +3194,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>История Казахстана</td>
 <td>2</td>
 <td>2</td>
-<td colspan="2">4</td>
+<td>4</td>
 <td>136</td>
 </tr>
 <tr>
@@ -3166,7 +3202,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>Всемирная история</td>
 <td>1</td>
 <td>1</td>
-<td colspan="2">2</td>
+<td>2</td>
 <td>68</td>
 </tr>
 <tr>
@@ -3174,7 +3210,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>Человек. Общество. Право</td>
 <td>1</td>
 <td>1</td>
-<td colspan="2">2</td>
+<td>2</td>
 <td>68</td>
 </tr>
 <tr>
@@ -3182,7 +3218,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>Самопознание</td>
 <td>1</td>
 <td>1</td>
-<td colspan="2">2</td>
+<td>2</td>
 <td>68</td>
 </tr>
 <tr>
@@ -3190,7 +3226,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <th>Технология</th>
 <th>1</th>
 <th>1</th>
-<th colspan="2">2</th>
+<th>2</th>
 <th>68</th>
 </tr>
 <tr>
@@ -3198,75 +3234,75 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <td>Технология</td>
 <td>1</td>
 <td>1</td>
-<td colspan="2">2</td>
+<td>2</td>
 <td>68</td>
 </tr>
 <tr>
 <th colspan="2">VІ</th>
 <th>Физическая культура</th>
-<th>3</th>
-<th>3</th>
-<th colspan="2">6</th>
-<th>204</th>
+<th>4</th>
+<th>4</th>
+<th>8</th>
+<th>272</th>
 </tr>
 <tr>
 <td colspan="2">18</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td colspan="2">4</td>
-<td>136</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
 </tr>
 <tr>
 <td colspan="2">19</td>
 <td>Начальная военная подготовка</td>
 <td>1</td>
 <td>1</td>
-<td colspan="2">2</td>
+<td>2</td>
 <td>68</td>
 </tr>
 <tr>
-<th colspan="3">Инвариантная учебная нагрузка</th>
-<th>32</th>
-<th>32</th>
-<th colspan="2">64</th>
-<th>2176</th>
+<td colspan="3">Инвариантная учебная нагрузка</td>
+<td>33</td>
+<td>33</td>
+<td>66</td>
+<td>2244</td>
 </tr>
 <tr>
-<th colspan="8">Вариативный компонент</th>
+<th colspan="7">Вариативный компонент</th>
 </tr>
 <tr>
-<td colspan="8">Школьный компонент</td>
+<td colspan="7">Школьный компонент</td>
 </tr>
 <tr>
 <td colspan="3">Прикладные курсы</td>
 <td>5</td>
 <td>5</td>
-<td colspan="2">10</td>
+<td>10</td>
 <td>340</td>
 </tr>
 <tr>
-<td colspan="8">Ученический компонент</td>
+<td colspan="7">Ученический компонент</td>
 </tr>
 <tr>
 <td colspan="3">Курсы по выбору</td>
+<td>1</td>
+<td>1</td>
 <td>2</td>
-<td>2</td>
-<td colspan="2">4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
 <th colspan="3">Вариативная учебная нагрузка</th>
-<th>7</th>
-<th>7</th>
-<th colspan="2">14</th>
-<th>476</th>
+<th>6</th>
+<th>6</th>
+<th>12</th>
+<th>408</th>
 </tr>
 <tr>
 <th colspan="3">Объем максимальной учебной нагрузки</th>
 <th>39</th>
 <th>39</th>
-<th colspan="2">78</th>
+<th>78</th>
 <th>2652</th>
 </tr>
 </table>
@@ -3277,6 +3313,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план общего среднего образования общественно-гуманитарного направления с уйгурским, узбекским, таджикским языками обучения
+
+> *Сноска. Приложение 11 в редакции приказа Министра образования и науки РК от 25.07.2013 № 296 (вводится в действие с 01.09.2013).*
 
 <table>
 <tr>
@@ -3495,312 +3533,18 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <tr>
 <th>VІ</th>
 <th>Физическая культура</th>
-<th>3</th>
-<th>3</th>
-<th>6</th>
-<th>204</th>
+<th>4</th>
+<th>4</th>
+<th>8</th>
+<th>272</th>
 </tr>
 <tr>
 <td>20</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>21</td>
-<td>Начальная военная подготовка</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<th colspan="2">Инвариантная учебная нагрузка</th>
-<th>33</th>
-<th>33</th>
-<th>66</th>
-<th>2244</th>
-</tr>
-<tr>
-<th colspan="6">Вариативный компонент</th>
-</tr>
-<tr>
-<td colspan="6">Школьный компонент</td>
-</tr>
-<tr>
-<td colspan="2">Прикладные курсы</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<td colspan="6">Ученический компонент</td>
-</tr>
-<tr>
-<td colspan="2">Курсы по выбору</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td colspan="2">Вариативная учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>12</td>
-<td>408</td>
-</tr>
-<tr>
-<td colspan="2">Объем максимальной учебной нагрузки</td>
-<td>39</td>
-<td>39</td>
-<td>78</td>
-<td>2652</td>
-</tr>
-</table>
-
-> *Приложение 12*  
-> *к приказу Министра образования*  
-> *и науки Республики Казахстан*  
-> *от 8 ноября 2012 года № 500*
-
-## Типовой учебный план общего среднего образования естественно-математического направления с уйгурским, узбекским, таджикскими языками обучения
-
-<table>
-<tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="2">Недельное количество часов по классам</th>
-<th colspan="2">Нагрузка, часы</th>
-</tr>
-<tr>
-<th>10</th>
-<th>11</th>
-<th>Недельная</th>
-<th>Годовая</th>
-</tr>
-<tr>
-<th colspan="6">Инвариантный компонент</th>
-</tr>
-<tr>
-<td colspan="6">Профильные предметы</td>
-</tr>
-<tr>
-<th>І</th>
-<th>Математика и информатика</th>
-<th>6</th>
-<th>6</th>
-<th>12</th>
-<th>408</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Алгебра и начала анализа</td>
 <td>3</td>
 <td>3</td>
 <td>6</td>
 <td>204</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Геометрия</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Информатика</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<th>ІІ</th>
-<th>Естествознание</th>
-<th>9</th>
-<th>9</th>
-<th>18</th>
-<th>612</th>
-</tr>
-<tr>
-<td>4</td>
-<td>Биология</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>5</td>
-<td>География</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Физика</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Химия</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td colspan="6">Непрофильные предметы</td>
-</tr>
-<tr>
-<th>ІІІ</th>
-<th>Язык и литература</th>
-<th>10</th>
-<th>10</th>
-<th>20</th>
-<th>680</th>
-</tr>
-<tr>
-<td>8</td>
-<td>Родной язык</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>9</td>
-<td>
-Уйгурская/узбекская/
-таджикская литература
-</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Казахский язык</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Казахская литература</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Русский язык</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Русская литература</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Иностранный язык</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<th>ІV</th>
-<th>Человек и общество</th>
-<th>5</th>
-<th>5</th>
-<th>10</th>
-<th>340</th>
-</tr>
-<tr>
-<td>15</td>
-<td>История Казахстана</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Всемирная история</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Человек. Общество. Право</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>18</td>
-<td>Самопознание</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<th>V</th>
-<th>Технология</th>
-<th>1</th>
-<th>1</th>
-<th>2</th>
-<th>68</th>
-</tr>
-<tr>
-<td>19</td>
-<td>Технология</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<th>VІ</th>
-<th>Физическая культура</th>
-<th>3</th>
-<th>3</th>
-<th>6</th>
-<th>204</th>
-</tr>
-<tr>
-<td>20</td>
-<td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
 </tr>
 <tr>
 <td>21</td>
@@ -3851,6 +3595,302 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/08.11.2012
 <th colspan="2">Объем максимальной учебной нагрузки</th>
 <th>39</th>
 <th>39</th>
+<th>78</th>
+<th>2652</th>
+</tr>
+</table>
+
+> *Приложение 12*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
+> *от 8 ноября 2012 года № 500*
+
+## Типовой учебный план общего среднего образования естественно-математического направления с уйгурским, узбекским, таджикскими языками обучения
+
+> *Сноска. Приложение 12 в редакции приказа Министра образования и науки РК от 25.07.2013 № 296 (вводится в действие с 01.09.2013).*
+
+<table>
+<tr>
+<th rowspan="2">№</th>
+<th rowspan="2">Образовательные области и учебные предметы</th>
+<th colspan="3">Недельное количество часов по классам</th>
+<th colspan="2">Нагрузка, часы</th>
+</tr>
+<tr>
+<th colspan="2">10</th>
+<th>11</th>
+<th>Недельная</th>
+<th>Годовая</th>
+</tr>
+<tr>
+<th colspan="7">Инвариантный компонент</th>
+</tr>
+<tr>
+<td colspan="7">Профильные предметы</td>
+</tr>
+<tr>
+<th>І</th>
+<th>Математика и информатика</th>
+<th colspan="2">6</th>
+<th>6</th>
+<th>12</th>
+<th>408</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Алгебра и начала анализа</td>
+<td colspan="2">3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Геометрия</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Информатика</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<th>ІІ</th>
+<th>Естествознание</th>
+<th colspan="2">9</th>
+<th>9</th>
+<th>18</th>
+<th>612</th>
+</tr>
+<tr>
+<td>4</td>
+<td>Биология</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>5</td>
+<td>География</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Физика</td>
+<td colspan="2">3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Химия</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td colspan="7">Непрофильные предметы</td>
+</tr>
+<tr>
+<th>ІІІ</th>
+<th>Язык и литература</th>
+<th>10</th>
+<th colspan="2">10</th>
+<th>20</th>
+<th>680</th>
+</tr>
+<tr>
+<td>8</td>
+<td>Родной язык</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+Уйгурская/узбекская/
+таджикская литература
+</td>
+<td>2</td>
+<td colspan="2">2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Казахский язык</td>
+<td>2</td>
+<td colspan="2">2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Казахская литература</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Русский язык</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Русская литература</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Иностранный язык</td>
+<td>2</td>
+<td colspan="2">2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<th>ІV</th>
+<th>Человек и общество</th>
+<th>5</th>
+<th colspan="2">5</th>
+<th>10</th>
+<th>340</th>
+</tr>
+<tr>
+<td>15</td>
+<td>История Казахстана</td>
+<td>2</td>
+<td colspan="2">2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Всемирная история</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Человек. Общество. Право</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Самопознание</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<th>V</th>
+<th>Технология</th>
+<th>1</th>
+<th colspan="2">1</th>
+<th>2</th>
+<th>68</th>
+</tr>
+<tr>
+<td>19</td>
+<td>Технология</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>VІ</td>
+<td>Физическая культура</td>
+<td>4</td>
+<td colspan="2">4</td>
+<td>8</td>
+<td>272</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Физическая культура</td>
+<td>3</td>
+<td colspan="2">3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Начальная военная подготовка</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>35</th>
+<th colspan="2">35</th>
+<th>70</th>
+<th>2380</th>
+</tr>
+<tr>
+<th colspan="7">Вариативный компонент</th>
+</tr>
+<tr>
+<td colspan="7">Школьный компонент</td>
+</tr>
+<tr>
+<td colspan="2">Прикладные курсы</td>
+<td>4</td>
+<td colspan="2">4</td>
+<td>8</td>
+<td>272</td>
+</tr>
+<tr>
+<td colspan="7">Ученический компонент</td>
+</tr>
+<tr>
+<td colspan="2">Курсы по выбору</td>
+<td>-</td>
+<td colspan="2">-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<th colspan="2">Вариативная учебная нагрузка</th>
+<th>4</th>
+<th colspan="2">4</th>
+<th>8</th>
+<th>272</th>
+</tr>
+<tr>
+<th colspan="2">Объем максимальной учебной нагрузки</th>
+<th>39</th>
+<th colspan="2">39</th>
 <th>78</th>
 <th>2652</th>
 </tr>
