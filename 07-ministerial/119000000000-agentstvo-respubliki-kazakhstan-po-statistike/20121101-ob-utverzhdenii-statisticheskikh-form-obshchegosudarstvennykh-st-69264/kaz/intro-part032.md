@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69264/kaz/01.11.2012
+source: https://zan.gov.kz/client/#!/doc/69264/kaz/30.07.2013
 ---
 
 ## 7. Жалақы қорында есептелмейтін жұмыс күшіне жұмсалған шығындар
