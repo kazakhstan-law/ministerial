@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/55553/kaz/01.01.2013
+source: https://zan.gov.kz/client/#!/doc/55553/kaz/07.08.2013
 ---
 
 ## 7-бөлім кәсіпорынның балансында тұратын жабдықтар бойынша толтырылады.

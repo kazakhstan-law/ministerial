@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/55553/rus/01.01.2013
+source: https://zan.gov.kz/client/#!/doc/55553/rus/07.08.2013
 ---
 
 ## Басшы (Аты-жөні, тегі, қолы)
