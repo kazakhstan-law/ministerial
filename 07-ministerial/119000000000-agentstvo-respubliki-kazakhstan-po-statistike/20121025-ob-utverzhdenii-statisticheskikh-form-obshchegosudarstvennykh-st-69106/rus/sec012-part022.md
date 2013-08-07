@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69106/rus/25.10.2012
+source: https://zan.gov.kz/client/#!/doc/69106/rus/07.08.2013
 ---
 
 ## 2. Маусымдық дақылдардың түсімін жинау туралы ақпаратты көрсетіңіз
