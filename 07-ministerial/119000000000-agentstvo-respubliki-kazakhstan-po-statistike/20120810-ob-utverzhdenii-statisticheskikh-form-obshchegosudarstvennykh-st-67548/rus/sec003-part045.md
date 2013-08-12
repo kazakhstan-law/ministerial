@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/67548/rus/10.08.2012
+source: https://zan.gov.kz/client/#!/doc/67548/rus/12.08.2013
 ---
 
 ## 3.1. Интернет желісін пайдалану мақсаттарын көрсетіңіз
