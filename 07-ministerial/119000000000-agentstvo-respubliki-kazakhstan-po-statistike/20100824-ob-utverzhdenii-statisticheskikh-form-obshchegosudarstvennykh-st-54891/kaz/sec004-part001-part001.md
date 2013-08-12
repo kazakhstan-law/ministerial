@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/54891/kaz/01.01.2012
+source: https://zan.gov.kz/client/#!/doc/54891/kaz/12.08.2013
 ---
 
 ## 1. Құрылыс жұмыстарының орындалған аумағын көрсетіңіз (облыс, қала, аудан)

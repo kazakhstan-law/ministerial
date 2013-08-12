@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/54891/rus/01.01.2012
+source: https://zan.gov.kz/client/#!/doc/54891/rus/12.08.2013
 ---
 
 ## 1. Инвестиция игерілген аумақты көрсетіңіз (облыс, қала, аудан)
