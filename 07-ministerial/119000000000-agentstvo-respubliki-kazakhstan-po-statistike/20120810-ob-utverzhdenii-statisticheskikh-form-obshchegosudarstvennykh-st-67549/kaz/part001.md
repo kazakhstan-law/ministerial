@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/67549/kaz/10.08.2012
+source: https://zan.gov.kz/client/#!/doc/67549/kaz/12.08.2013
 ---
 
 ## 1. Негізгі қызмет түрін көрсетіңіз («v» белгісімен белгіленеді)
