@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/59407/rus/04.10.2012
+source: https://zan.gov.kz/client/#!/doc/59407/rus/20.09.2013
 ---
 
 ## Параграф 1. Выдача диспетчерских разрешений

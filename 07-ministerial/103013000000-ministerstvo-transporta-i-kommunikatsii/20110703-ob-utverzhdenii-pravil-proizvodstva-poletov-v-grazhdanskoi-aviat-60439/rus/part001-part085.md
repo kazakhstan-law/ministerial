@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/60439/rus/15.03.2012
+source: https://zan.gov.kz/client/#!/doc/60439/rus/20.09.2013
 ---
 
 ## Параграф 84. Особенности принятия решения на вылет и прилет по ППП
