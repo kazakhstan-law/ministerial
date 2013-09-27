@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/55585/rus/01.01.2013
+source: https://zan.gov.kz/client/#!/doc/55585/rus/27.09.2013
 ---
 
 ## 2. Мектепке дейінгі ұйымдағы балалар саны
