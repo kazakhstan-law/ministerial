@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/60202/rus/02.08.2011
+source: https://zan.gov.kz/client/#!/doc/60202/rus/12.10.2013
 ---
 
 ## Расчет результатов списания ___________ (автомобиля, прицепа, полуприцепа)
