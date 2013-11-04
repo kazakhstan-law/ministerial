@@ -1,7 +1,312 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/39361/kaz/29.08.2013
+source: https://zan.gov.kz/client/#!/doc/39361/kaz/04.11.2013
 ---
+
+## 20___20___ оқу жылының _________________емтихандық сессия (қысқы, жазғы) қорытындысы _____________________________________________________________ (ЖОО атауы)
+
+Күндізгі (немесе сырттай) оқу түріi
+
+<table>
+<tr>
+<td>Шифр</td>
+<td>Мамандықтар тобы және мамандықтар</td>
+<td>Курс</td>
+<td>Бөлімі (қаз., орыс, шетел)</td>
+<td>Оқу негізі: грант/ақылы</td>
+<td>Сессия басындағы барлық студенттер</td>
+<td>Соның ішінде академиялық демалыста</td>
+<td>Емтихан тапсыруға міндетті</td>
+<td>Емтиханға жіберілгендер</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+<tr>
+<td colspan="9">1. Білім</td>
+</tr>
+<tr>
+<td rowspan="12"></td>
+<td rowspan="12"></td>
+<td rowspan="3">1</td>
+<td rowspan="3"></td>
+<td>барлығы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>соның ішінде грант</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ақылы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">2</td>
+<td rowspan="3"></td>
+<td>барлығы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>соның ішінде грант</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ақылы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">3</td>
+<td rowspan="3"></td>
+<td>барлығы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>соның ішінде грант</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ақылы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">4</td>
+<td rowspan="3"></td>
+<td>барлығы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>соның ішінде грант</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ақылы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+кестенің жалғасы
+
+<table>
+<tr>
+<td colspan="2">Келген жоқ</td>
+<td colspan="6">Тапсырғандар</td>
+</tr>
+<tr>
+<td rowspan="2">Дәлелді себеппен</td>
+<td rowspan="2">Дәлілсіз себеппен</td>
+<td rowspan="2">Оқу жоспарының барлық пәндері бойынша</td>
+<td colspan="5">Соның ішінде</td>
+</tr>
+<tr>
+<td>Тек қана A, A-</td>
+<td>Тек қана A, A-, B+, B, B-</td>
+<td>A, A-, B+, B, B-, C+, C, C-, D+, D</td>
+<td>Тек қана C+, C, C-, D+, D</td>
+<td>F алғандар</td>
+</tr>
+<tr>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+</tr>
+<tr>
+<td colspan="8"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+кестенің жалғасы
+
+<table>
+<tr>
+<td>GPA</td>
+<td>Абсолюттік үлгерім</td>
+<td>Келесі оқу курсына көшірілгендер</td>
+<td>Қайта оқу жылына қалдырылды</td>
+<td>Оқудан шығарылғандар</td>
+</tr>
+<tr>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+</tr>
+<tr>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+> *Білім алушылардың үлгерімін*  
+> *ағымдық бақылау, аралық және*  
+> *қорытынды мемлекеттік аттестаттау*  
+> *жүргізудің үлгі ережесіне*  
+> *3-қосымша*
 
 ## «Қазақстан тарихы» пәні бойынша Мемлекеттік емтихан комиссиясы отырысының №___ХАТТАМАСЫ (әрбір студентке толтырылады)
 
