@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/59407/kaz/20.09.2013
+source: https://zan.gov.kz/client/#!/doc/59407/kaz/12.11.2013
 ---
 
 ## Параграф 3. Аралық қондырулары бар ұшу
