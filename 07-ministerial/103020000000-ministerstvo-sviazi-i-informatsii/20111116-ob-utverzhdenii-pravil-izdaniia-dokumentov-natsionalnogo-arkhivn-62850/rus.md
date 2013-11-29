@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62850/rus/16.11.2011
+source: https://zan.gov.kz/client/#!/doc/62850/rus/29.11.2013
 ---
 
 # Об утверждении Правил издания документов Национального архивного фонда
