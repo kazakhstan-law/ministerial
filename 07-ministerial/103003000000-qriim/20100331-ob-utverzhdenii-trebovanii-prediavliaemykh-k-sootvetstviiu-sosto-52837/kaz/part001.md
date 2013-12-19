@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/52837/kaz/15.11.2011
+source: https://zan.gov.kz/client/#!/doc/52837/kaz/19.12.2013
 ---
 
 ## дене массасы (кг)
