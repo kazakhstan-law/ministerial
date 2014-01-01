@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/54990/kaz/30.07.2013
+source: https://zan.gov.kz/client/#!/doc/54990/kaz/01.01.2014
 ---
 
 ## ИНТЕРВЬЮЕРДІҢ КАРТОЧКАСЫ
