@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/72946/rus/02.05.2013
+source: https://zan.gov.kz/client/#!/doc/72946/rus/05.02.2014
 ---
 
 ## 3. Содержание тем
