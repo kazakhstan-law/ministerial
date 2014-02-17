@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/47659/rus/11.04.2013
+source: https://zan.gov.kz/client/#!/doc/47659/rus/17.02.2014
 ---
 
 <table>
@@ -286,7 +286,7 @@ Medicado L.
 <tr>
 <td>ЛАЗУРНАЯ</td>
 <td>2011</td>
-<td>5,12,13</td>
+<td>1,5,12,13</td>
 <td>19</td>
 <td></td>
 <td></td>
@@ -450,7 +450,7 @@ Trifolium pratense L.
 <tr>
 <td>ТАЙФУН</td>
 <td>2012</td>
-<td>5</td>
+<td>3,5</td>
 <td>314</td>
 <td></td>
 <td></td>
@@ -491,6 +491,17 @@ Onobrychis viciifolia Scop.
 <td>1988</td>
 <td>5</td>
 <td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КАРАБАЛЫКСКИЙ РУБИНОВЫЙ</td>
+<td>2014</td>
+<td>1</td>
+<td>24</td>
 <td></td>
 <td></td>
 <td></td>
@@ -816,7 +827,7 @@ Agropyron et Schult.
 <tr>
 <td>ШАЛҚЫМА</td>
 <td>2012</td>
-<td>8</td>
+<td>1,8</td>
 <td>43</td>
 <td></td>
 <td></td>
@@ -1033,6 +1044,23 @@ Clinelymus dahuricus Nevski.
 </tr>
 <tr>
 <th>
+Райграс однолетний
+Lolium multiflorum var. Westerwoldicum
+</th>
+</tr>
+<tr>
+<td>ПОЛЛАНУМ</td>
+<td>2014</td>
+<td>3</td>
+<td>314</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>
 Ломкоколосник ситниковый
 Elymus yunceus Fisch.
 </th>
@@ -1187,6 +1215,17 @@ Bromus arvensis L.
 </td>
 <td>1991</td>
 <td>3</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЦЕЛИНОГРАДСКИЙ ЮБИЛЕЙНЫЙ</td>
+<td>2014</td>
+<td>1</td>
 <td>19</td>
 <td></td>
 <td></td>

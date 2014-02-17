@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/47659/rus/11.04.2013
+source: https://zan.gov.kz/client/#!/doc/47659/rus/17.02.2014
 ---
 
 <table>
@@ -322,7 +322,18 @@ source: https://zan.gov.kz/client/#!/doc/47659/rus/11.04.2013
 <td>ТЕРЕК</td>
 <td>2012</td>
 <td>3, 14</td>
-<td>328, 330</td>
+<td>330</td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ХОРОЛ</td>
+<td>2014</td>
+<td>3,5</td>
+<td>327, 328</td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -519,9 +530,9 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td></td>
 </tr>
 <tr>
-<td>ПР 45 Х 73</td>
+<td>ПР 45Х73</td>
 <td>2012</td>
-<td>1,5</td>
+<td>1,5,10,13</td>
 <td>234</td>
 <td>04</td>
 <td>F1</td>
@@ -607,6 +618,17 @@ Camelina sativa (L.) Crantz.
 <td>10,13</td>
 <td>272</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЛИГЕНА</td>
+<td>2014</td>
+<td>1,5,10,12,13</td>
+<td>291</td>
+<td>02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -743,6 +765,17 @@ Beta vulgaris L. ssp. vulgaris var. altissima Doell
 <td></td>
 </tr>
 <tr>
+<td>АКСУ</td>
+<td>2014</td>
+<td>3</td>
+<td>39</td>
+<td></td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>АМЕЛИ</td>
 <td>1999</td>
 <td>6</td>
@@ -798,33 +831,22 @@ Beta vulgaris L. ssp. vulgaris var. altissima Doell
 <td></td>
 </tr>
 <tr>
+<td>ГРИММ</td>
+<td>2014</td>
+<td>3</td>
+<td>241</td>
+<td></td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>ДАНУБ</td>
 <td>2012</td>
 <td>3</td>
 <td>240</td>
 <td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДОРА</td>
-<td>1998</td>
-<td>3</td>
-<td>230</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЕЛИЗА</td>
-<td>1999</td>
-<td>3,6,14</td>
-<td>230</td>
-<td></td>
 <td>F1</td>
 <td></td>
 <td></td>
@@ -864,28 +886,6 @@ Beta vulgaris L. ssp. vulgaris var. altissima Doell
 <td></td>
 </tr>
 <tr>
-<td>КИВА</td>
-<td>2000</td>
-<td>6</td>
-<td>230</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КОРИНА</td>
-<td>2002</td>
-<td>6</td>
-<td>230</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>КРОКОДИЛ</td>
 <td>2011</td>
 <td>3</td>
@@ -912,6 +912,17 @@ Beta vulgaris L. ssp. vulgaris var. altissima Doell
 <td>2002</td>
 <td>3</td>
 <td>246</td>
+<td></td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ПОРТЛАНД</td>
+<td>2014</td>
+<td>3</td>
+<td>338</td>
 <td></td>
 <td>F1</td>
 <td></td>
@@ -1008,17 +1019,6 @@ Beta vulgaris L. ssp. vulgaris var. altissima Doell
 <td>2000</td>
 <td>6</td>
 <td>222</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СОНЯ</td>
-<td>1998</td>
-<td>6</td>
-<td>230</td>
 <td></td>
 <td>F1</td>
 <td></td>
@@ -1146,6 +1146,39 @@ Nicotiana tabacum L
 <td>36</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТАЛГАРСКИЙ 28-Ф2</td>
+<td>2014</td>
+<td>3,14</td>
+<td>339</td>
+<td></td>
+<td>ли</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТАЛГАРСКИЙ 28-Ф4</td>
+<td>2014</td>
+<td>3,14</td>
+<td>339</td>
+<td></td>
+<td>ли</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ТАЛГАРСКИЙ 28-Ф20</td>
+<td>2014</td>
+<td>3,14</td>
+<td>339</td>
+<td></td>
+<td>ли</td>
 <td></td>
 <td></td>
 <td></td>
