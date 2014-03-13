@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/73361/rus/18.06.2013
+source: https://zan.gov.kz/client/#!/doc/73361/rus/13.03.2014
 ---
 
 ## Типовые правила деятельности детских домов

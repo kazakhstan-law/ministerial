@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/73361/kaz/18.06.2013
+source: https://zan.gov.kz/client/#!/doc/73361/kaz/13.03.2014
 ---
 
 ## Балалар үйлері қызметінің үлгілік қағидалары
