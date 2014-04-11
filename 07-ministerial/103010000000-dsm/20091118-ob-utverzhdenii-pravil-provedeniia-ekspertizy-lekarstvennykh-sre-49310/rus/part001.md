@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49310/rus/28.09.2012
+source: https://zan.gov.kz/client/#!/doc/49310/rus/11.04.2014
 ---
 
 ## Правила проведения экспертизы лекарственных средств
