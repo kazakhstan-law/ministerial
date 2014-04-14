@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/71877/rus/31.01.2014
+source: https://zan.gov.kz/client/#!/doc/71877/rus/14.04.2014
 ---
 
 ## Расчет затрат на дополнительные денежные выплаты
