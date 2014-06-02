@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/59321/rus/20.04.2011
+source: https://zan.gov.kz/client/#!/doc/59321/rus/02.06.2014
 ---
 
 # Об утверждении Правил организации учебного процесса по кредитной технологии обучения
@@ -42,4 +42,4 @@ source: https://zan.gov.kz/client/#!/doc/59321/rus/20.04.2011
 | Часть | Название |
 |---|---|
 | [`part001`](rus/part001.md) | Правила организации учебного процесса по кредитной технологии обучения |
-| [`part035`](rus/part035.md) | ECTS - EUROPEAN CREDIT TRANSFER SYSTEM ТРАНСКРИПТ ОБ ОБУЧЕНИИ |
+| [`part025`](rus/part025.md) | WORK EXPERIENCE RELATED TO CURRENT STUDY (if relevant) |
