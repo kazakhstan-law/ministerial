@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/58603/rus/27.06.2014
+repealed_on: 2014-10-20
+repealed_by:
+  code: '83064'
+  title: Об утверждении Правил определения региона деятельности
+  link: https://zan.gov.kz/client/#!/doc/83064/rus
 ---
 
 # Об утверждении Правил определения региона деятельности

@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/58603/kaz/27.06.2014
+repealed_on: 2014-10-20
+repealed_by:
+  code: '83064'
+  title: Қызмет өңірін айқындау қағидасын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/83064/kaz
 ---
 
 # Қызмет өңірін айқындау қағидасын бекіту туралы
