@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/60248/kaz/27.08.2013
+source: https://zan.gov.kz/client/#!/doc/60248/kaz/03.07.2014
 ---
 
 # Қазақстан Республикасы ішкі істер органдарында қызмет өткерудің кейбір мәселелері туралы
