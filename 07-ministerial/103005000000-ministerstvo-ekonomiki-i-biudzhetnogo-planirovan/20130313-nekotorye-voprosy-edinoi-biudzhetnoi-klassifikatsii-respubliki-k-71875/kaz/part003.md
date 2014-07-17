@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/71875/kaz/02.06.2014
+source: https://zan.gov.kz/client/#!/doc/71875/kaz/17.07.2014
 ---
 
 ## Бюджет шығыстарының экономикалық сыныптамасы
