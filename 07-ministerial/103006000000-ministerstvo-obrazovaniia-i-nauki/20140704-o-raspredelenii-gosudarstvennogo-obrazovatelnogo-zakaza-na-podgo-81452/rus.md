@@ -1,5 +1,5 @@
 ---
-version_id: AI81452_1
+version_id: AI81452_3
 act_code: '81452'
 language: rus
 title: О распределении государственного образовательного заказа на подготовку специалистов с высшим образованием по специальностям на 2014-2015 учебный год
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103006000000'
 approval_date: 2014-07-04
-version_date: 2014-07-04
+version_date: 2014-07-29
 registry_number: '81452'
-source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
+caused_by:
+  code: '81844'
+  title: О внесении изменений в приказ Министра образования и науки Республики Казахстан от 4 июля 2014 года № 261 "О распределении государственного образовательного заказа на подготовку специалистов с высшим образованием по специальностям на 2014-2015 учебный год"
+  link: https://zan.gov.kz/client/#!/doc/81844/rus
+source: https://zan.gov.kz/client/#!/doc/81452/rus
 ---
 
 # О распределении государственного образовательного заказа на подготовку специалистов с высшим образованием по специальностям на 2014-2015 учебный год
@@ -35,7 +39,9 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 
 4. Настоящий приказ вводится в действие со дня его первого официального опубликования.
 
-Министр А. Саринжипов
+**Министр**
+
+**А. Саринжипов**
 
 > *Приложение 1*  
 > *к приказу Министра образования*  
@@ -43,6 +49,8 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 > *от 4 июля 2014 года № 261*
 
 ## Государственный образовательный заказ на подготовку специалистов с высшим образованием на 2014-2015 учебный год в разрезе специальностей по очной форме обучения
+
+> *Сноска. Приложение 1 в редакции приказа Министра образования и науки РК от 29.07.2014 № 315 (вводится в действие со дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -68,7 +76,10 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 </tr>
 <tr>
 <td>5В010100</td>
-<td>Дошкольное обучение и воспитание</td>
+<td>
+Дошкольное обучение и
+воспитание
+</td>
 <td>250</td>
 <td>200</td>
 <td>130</td>
@@ -146,10 +157,10 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <tr>
 <td>5В010800</td>
 <td>Физическая культура и спорт</td>
-<td>300</td>
-<td>200</td>
-<td>130</td>
-<td>70</td>
+<td>517</td>
+<td>417</td>
+<td>270</td>
+<td>147</td>
 <td>100</td>
 <td>65</td>
 <td>35</td>
@@ -157,10 +168,10 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <tr>
 <td>5В010900</td>
 <td>Математика</td>
-<td>410</td>
-<td>390</td>
-<td>254</td>
-<td>136</td>
+<td>370</td>
+<td>350</td>
+<td>234</td>
+<td>116</td>
 <td>20</td>
 <td>13</td>
 <td>7</td>
@@ -179,10 +190,10 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <tr>
 <td>5В011100</td>
 <td>Информатика</td>
-<td>400</td>
-<td>360</td>
-<td>234</td>
-<td>126</td>
+<td>369</td>
+<td>329</td>
+<td>217</td>
+<td>112</td>
 <td>40</td>
 <td>26</td>
 <td>14</td>
@@ -245,9 +256,9 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <tr>
 <td>5В011700</td>
 <td>Казахский язык и литература</td>
-<td>425</td>
-<td>410</td>
-<td>410</td>
+<td>385</td>
+<td>370</td>
+<td>370</td>
 <td></td>
 <td>15</td>
 <td>15</td>
@@ -267,10 +278,10 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <tr>
 <td>5В011900</td>
 <td>Иностранный язык: два иностранных языка (английский язык)</td>
-<td>720</td>
-<td>513</td>
-<td>333</td>
-<td>180</td>
+<td>640</td>
+<td>433</td>
+<td>293</td>
+<td>140</td>
 <td>207</td>
 <td>135</td>
 <td>72</td>
@@ -289,9 +300,9 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <tr>
 <td>5В011900</td>
 <td>Иностранный язык: два иностранных языка (французский язык)</td>
-<td>15</td>
-<td>15</td>
 <td>10</td>
+<td>10</td>
+<td>5</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -333,24 +344,24 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <tr>
 <td>5В012300</td>
 <td>Социальная педагогика и самопознание</td>
-<td>321</td>
-<td>310</td>
-<td>202</td>
-<td>108</td>
+<td>300</td>
+<td>289</td>
+<td>191</td>
+<td>98</td>
 <td>11</td>
 <td>7</td>
 <td>4</td>
 </tr>
 <tr>
-<td></td>
-<td>ВСЕГО</td>
-<td>5134</td>
-<td>4326</td>
-<td>2920</td>
-<td>1406</td>
-<td>808</td>
-<td>520</td>
-<td>288</td>
+<th></th>
+<th>ВСЕГО</th>
+<th>5134</th>
+<th>4326</th>
+<th>2927</th>
+<th>1399</th>
+<th>808</th>
+<th>520</th>
+<th>288</th>
 </tr>
 <tr>
 <td></td>
@@ -376,7 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 </tr>
 <tr>
 <td></td>
-<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
+<td>Квота для лиц, приравненных по льготам и гарантиям к частникам и инвалидам Великой Отечественной войны (0,5%)</td>
 <td>26</td>
 <td></td>
 <td></td>
@@ -397,19 +408,16 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>5364</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>5364</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">2. Гуманитарные науки</th>
 </tr>
@@ -525,7 +533,10 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 </tr>
 <tr>
 <td>5В021000</td>
-<td>Иностранная филология: английский язык</td>
+<td>
+Иностранная филология:
+английский язык
+</td>
 <td>25</td>
 <td>25</td>
 <td>16</td>
@@ -536,7 +547,10 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 </tr>
 <tr>
 <td>5В021000</td>
-<td>Иностранная филология: немецкий язык</td>
+<td>
+Иностранная филология:
+немецкий язык
+</td>
 <td>5</td>
 <td>5</td>
 <td>3</td>
@@ -547,7 +561,10 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 </tr>
 <tr>
 <td>5В021000</td>
-<td>Иностранная филология: арабский язык</td>
+<td>
+Иностранная филология:
+арабский язык
+</td>
 <td>5</td>
 <td>5</td>
 <td>3</td>
@@ -558,7 +575,10 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 </tr>
 <tr>
 <td>5В021000</td>
-<td>Иностранная филология: турецкий язык</td>
+<td>
+Иностранная филология:
+турецкий язык
+</td>
 <td>4</td>
 <td>4</td>
 <td>3</td>
@@ -569,7 +589,10 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 </tr>
 <tr>
 <td>5В021000</td>
-<td>Иностранная филология: корейский язык</td>
+<td>
+Иностранная филология:
+корейский язык
+</td>
 <td>5</td>
 <td>5</td>
 <td>3</td>
@@ -580,7 +603,10 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 </tr>
 <tr>
 <td>5В021000</td>
-<td>Иностранная филология: китайский язык</td>
+<td>
+Иностранная филология:
+китайский язык
+</td>
 <td>8</td>
 <td>8</td>
 <td>5</td>
@@ -591,7 +617,10 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 </tr>
 <tr>
 <td>5В021000</td>
-<td>Иностранная филология: японский язык</td>
+<td>
+Иностранная филология:
+японский язык
+</td>
 <td>5</td>
 <td>5</td>
 <td>3</td>
@@ -602,7 +631,10 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 </tr>
 <tr>
 <td>5В021000</td>
-<td>Иностранная филология: узбекский язык</td>
+<td>
+Иностранная филология:
+узбекский язык
+</td>
 <td>5</td>
 <td>5</td>
 <td>3</td>
@@ -613,7 +645,10 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 </tr>
 <tr>
 <td>5В021000</td>
-<td>Иностранная филология: уйгурский язык</td>
+<td>
+Иностранная филология:
+уйгурский язык
+</td>
 <td>5</td>
 <td>5</td>
 <td>3</td>
@@ -624,7 +659,10 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 </tr>
 <tr>
 <td>5В021000</td>
-<td>Иностранная филология: французский язык</td>
+<td>
+Иностранная филология:
+французский язык
+</td>
 <td>5</td>
 <td>5</td>
 <td>3</td>
@@ -667,15 +705,15 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ВСЕГО</td>
-<td>754</td>
-<td>724</td>
-<td>517</td>
-<td>207</td>
-<td>30</td>
-<td>30</td>
-<td></td>
+<th></th>
+<th>ВСЕГО</th>
+<th>754</th>
+<th>724</th>
+<th>517</th>
+<th>207</th>
+<th>30</th>
+<th>30</th>
+<th></th>
 </tr>
 <tr>
 <td></td>
@@ -722,19 +760,16 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>790</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>790</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">3. Право</th>
 </tr>
@@ -783,15 +818,15 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ВСЕГО</td>
-<td>135</td>
-<td>135</td>
-<td>89</td>
-<td>46</td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ВСЕГО</th>
+<th>135</th>
+<th>135</th>
+<th>89</th>
+<th>46</th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td></td>
@@ -806,7 +841,11 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 </tr>
 <tr>
 <td></td>
-<td>Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1 %)</td>
+<td>
+Квота для инвалидов I, II
+групп, инвалидов с детства,
+детей-инвалидов (1 %)
+</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -838,19 +877,16 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>140</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>140</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">4. Искусство</th>
 </tr>
@@ -987,15 +1023,15 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ВСЕГО</td>
-<td>246</td>
-<td>246</td>
-<td>162</td>
-<td>84</td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ВСЕГО</th>
+<th>246</th>
+<th>246</th>
+<th>162</th>
+<th>84</th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td></td>
@@ -1042,19 +1078,16 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>255</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>255</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">5. Социальные науки, экономика и бизнес</th>
 </tr>
@@ -1235,15 +1268,15 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ВСЕГО</td>
-<td>723</td>
-<td>723</td>
-<td>471</td>
-<td>252</td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ВСЕГО</th>
+<th>723</th>
+<th>723</th>
+<th>471</th>
+<th>252</th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td></td>
@@ -1290,19 +1323,16 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>754</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>754</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">6. Естественные науки</th>
 </tr>
@@ -1494,19 +1524,16 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>1450</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>1450</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">7. Технические науки и технологии</th>
 </tr>
@@ -2017,19 +2044,16 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>12060</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>12060</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">8. Сельскохозяйственные науки</th>
 </tr>
@@ -2166,15 +2190,15 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td>3</td>
 </tr>
 <tr>
-<td></td>
-<td>ВСЕГО</td>
-<td>1930</td>
-<td>1555</td>
-<td>1012</td>
-<td>543</td>
-<td>375</td>
-<td>248</td>
-<td>127</td>
+<th></th>
+<th>ВСЕГО</th>
+<th>1930</th>
+<th>1555</th>
+<th>1012</th>
+<th>543</th>
+<th>375</th>
+<th>248</th>
+<th>127</th>
 </tr>
 <tr>
 <td></td>
@@ -2221,19 +2245,16 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>2020</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>2020</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">9. Услуги</th>
 </tr>
@@ -2359,15 +2380,15 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td>10</td>
 </tr>
 <tr>
-<td></td>
-<td>ВСЕГО</td>
-<td>910</td>
-<td>780</td>
-<td>509</td>
-<td>271</td>
-<td>130</td>
-<td>85</td>
-<td>45</td>
+<th></th>
+<th>ВСЕГО</th>
+<th>910</th>
+<th>780</th>
+<th>509</th>
+<th>271</th>
+<th>130</th>
+<th>85</th>
+<th>45</th>
 </tr>
 <tr>
 <td></td>
@@ -2414,19 +2435,16 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>950</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>950</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">10. Военное дело и безопасность</th>
 </tr>
@@ -2442,19 +2460,16 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>60</td>
-<td>60</td>
-<td>39</td>
-<td>21</td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>60</th>
+<th>60</th>
+<th>39</th>
+<th>21</th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">11. Здравоохранение и социальное обеспечение (медицина)</th>
 </tr>
@@ -2503,15 +2518,15 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ВСЕГО</td>
-<td>286</td>
-<td>286</td>
-<td>186</td>
-<td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ВСЕГО</th>
+<th>286</th>
+<th>286</th>
+<th>186</th>
+<th>100</th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td></td>
@@ -2558,19 +2573,16 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>300</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>300</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">12. Ветеринария</th>
 </tr>
@@ -2597,15 +2609,15 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ВСЕГО</td>
-<td>623</td>
-<td>623</td>
-<td>405</td>
-<td>218</td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ВСЕГО</th>
+<th>623</th>
+<th>623</th>
+<th>405</th>
+<th>218</th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td></td>
@@ -2652,22 +2664,20 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>650</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>650</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th></th>
-<th colspan="8">13. Здравоохранение и социальное обеспечение (медицина)</th>
+<th colspan="7">13. Здравоохранение и социальное обеспечение (медицина)</th>
+<th></th>
 </tr>
 <tr>
 <td>5B130100</td>
@@ -2692,15 +2702,15 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ВСЕГО</td>
-<td>3538</td>
-<td>3538</td>
-<td>2300</td>
-<td>1238</td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ВСЕГО</th>
+<th>3538</th>
+<th>3538</th>
+<th>2300</th>
+<th>1238</th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td></td>
@@ -2747,15 +2757,15 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>3700</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>3700</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td></td>
@@ -2814,7 +2824,7 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 </tr>
 <tr>
 <td></td>
-<td>На обучение студентов в Казахстанском филиале Московского государственного университета имени М.В.Ломоносова</td>
+<td>На обучение студентов в Казахстанском филиале Московского государственного университета имени М.В. Ломоносова</td>
 <td>125</td>
 <td></td>
 <td></td>
@@ -2911,9 +2921,6 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 <td></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">Казахский национальный университет искусств</th>
 </tr>
@@ -3127,15 +3134,15 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ВСЕГО</td>
-<td>286</td>
-<td>286</td>
-<td>186</td>
-<td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ВСЕГО</th>
+<th>286</th>
+<th>286</th>
+<th>186</th>
+<th>100</th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td></td>
@@ -3182,19 +3189,16 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>300</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>300</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">Казахская национальная консерватория имени Курмангазы</th>
 </tr>
@@ -3298,15 +3302,15 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ВСЕГО</td>
-<td>221</td>
-<td>221</td>
-<td>127</td>
-<td>94</td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ВСЕГО</th>
+<th>221</th>
+<th>221</th>
+<th>127</th>
+<th>94</th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td></td>
@@ -3353,19 +3357,16 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>230</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>230</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">Казахская национальная академия искусств имени Т. Жургенова</th>
 </tr>
@@ -3524,15 +3525,15 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ВСЕГО</td>
-<td>231</td>
-<td>231</td>
-<td>165</td>
-<td>66</td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ВСЕГО</th>
+<th>231</th>
+<th>231</th>
+<th>165</th>
+<th>66</th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td></td>
@@ -3579,19 +3580,16 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>240</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>240</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">Казахстанско-Британский технический университет</th>
 </tr>
@@ -3706,15 +3704,15 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ВСЕГО</td>
-<td>191</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ВСЕГО</th>
+<th>191</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td></td>
@@ -3761,24 +3759,21 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>200</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>200</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">Филиал &quot;Восход&quot; Московского авиационного института</th>
 </tr>
 <tr>
-<td>162110</td>
+<td>24.05.03</td>
 <td>Испытание летательных аппаратов</td>
 <td>25</td>
 <td></td>
@@ -3789,7 +3784,7 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td>230100</td>
+<td>09.03.01</td>
 <td>Информатика и вычислительная техника</td>
 <td>12</td>
 <td></td>
@@ -3800,7 +3795,7 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td>231300</td>
+<td>01.03.04</td>
 <td>Прикладная математика</td>
 <td>4</td>
 <td></td>
@@ -3811,7 +3806,7 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td>080200</td>
+<td>38.03.02</td>
 <td>Менеджмент</td>
 <td>4</td>
 <td></td>
@@ -3822,19 +3817,16 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ВСЕГО</td>
-<td>45</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ВСЕГО</th>
+<th>45</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">Международный университет информационных технологий</th>
 </tr>
@@ -3894,15 +3886,15 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ВСЕГО</td>
-<td>382</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ВСЕГО</th>
+<th>382</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td></td>
@@ -3949,19 +3941,16 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>400</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>400</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
-</table>
-
-<table>
 <tr>
 <th colspan="9">Финансовая академия</th>
 </tr>
@@ -4010,15 +3999,15 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ВСЕГО</td>
-<td>45</td>
-<td>45</td>
-<td>29</td>
-<td>16</td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ВСЕГО</th>
+<th>45</th>
+<th>45</th>
+<th>29</th>
+<th>16</th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td></td>
@@ -4044,7 +4033,7 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 </tr>
 <tr>
 <td></td>
-<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5 %)</td>
+<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -4065,15 +4054,15 @@ source: https://zan.gov.kz/client/#!/doc/81452/rus/04.07.2014
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>ИТОГО</td>
-<td>50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th></th>
+<th>ИТОГО</th>
+<th>50</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 </table>
 
