@@ -1,0 +1,1167 @@
+↑ [Вся редакция](../rus.md)
+
+## Примечание:
+
+ООД – общеобразовательные дисциплины; ОГД – общегуманитарные дисциплины; СЭД социально-экономические дисциплины; ОПД – общепрофессиональные дисциплины; СД – специальные дисциплины; ДОО – дисциплины, определяемые организацией образования с учетом требований работодателей;ПО – производственное обучение; ПП – профессиональная практика; ПА – промежуточная аттестация; ИА – итоговая аттестация; ОУППК – оценка уровня профессиональной подготовленности и присвоение квалификации; К – консультации; Ф – факультативные занятия.
+
+* В соответствии с ГОСО ТиПО обязательным для исполнения в типовом учебном плане является перечень дисциплин. Формы контроля (количество курсовых работ, контрольных работ, экзаменов), порядок изучения дисциплин (распределение по курсам ) являются примерными и могут изменяться в зависимости от форм обучения, специфики специальностей, местных и других условий (обстоятельств), в т.ч. в соответствии с потребностями работодателей.
+
+** Объем часов на дисциплины, определяемой организацией образования, может быть увеличен за счет сокращения объема часов (до 25%) циклов общепрофессиональных и специальных дисциплин.
+
+*** Рекомендуемые формы итоговой аттестации: выполнение и защита дипломной работы
+
+Примерный перечень учебно-производственных оборудований и технических средств обучения определяются исходя из содержания образовательных программ по дисциплинам соответствующей специальности.
+
+Перечень учебно-производственных оборудований и технических средств обучения для оснащения конкретного учебного заведения определяется учебным заведением совместно с предприятием-партнером, для которого готовятся кадры с учетом рабочих учебных программ. При этом необходимо учесть IT-технологии, 3D-технологии, ИКТ, дистанционное, модульное, дуальное, кредитное обучение с учетом перспективы развития отрасли.
+
+> *Приложение 237*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
+> *от 29 июля 2014 г.*  
+> *№ 312*
+
+## Типовой учебный план
+
+техническое и профессиональное образование
+
+Код и профиль образования: 1108000 – Транспорт (по отраслям)
+
+Специальность: 1108000 – Эксплуатация, ремонт и техническое обслуживание подвижного состава железных дорог(по видам)
+
+Специализация: 1108000.01 - Эксплуатация, ремонт и техническое обслуживание тягового подвижного состава железных дорог
+
+Квалификация: 110804 2 – Водитель дрезины*
+
+110817 2 – Машинист автомотрисы *
+
+> *Форма обучения: очная*  
+> *Нормативный срок обучения: 10 месяцев*  
+> *на базе общего среднего образования*
+
+<table>
+<tr>
+<td rowspan="3">Индекс циклов и дисциплин</td>
+<td rowspan="3">Наименование циклов и дисциплин</td>
+<td colspan="5" rowspan="2">Форма контроля</td>
+<td colspan="9">Объем учебного времени (час)</td>
+<td colspan="2" rowspan="3">Распределение по курсам*</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">Всего</td>
+<td colspan="7">из них</td>
+</tr>
+<tr>
+<td>экзамен</td>
+<td>зачет</td>
+<td>количество контрольных работ</td>
+<td colspan="2">курсовой проект (работа)</td>
+<td colspan="2">Теоретические занятия</td>
+<td colspan="2">практические (лабораторно-практические) занятия</td>
+<td colspan="3">курсовой проект (работа)</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th colspan="2">6</th>
+<th colspan="2">7</th>
+<th colspan="2">8</th>
+<th colspan="2">9</th>
+<th colspan="3">10</th>
+<th colspan="2">11</th>
+</tr>
+<tr>
+<td>ОГД 00</td>
+<td>Общегуманитарные дисциплины (профессиональный казахский (русский) язык, профессиональный иностранный язык, история Казахстана, физическая культура)</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">164</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+</tr>
+<tr>
+<th>ОПД 00</th>
+<th>Общепрофессиональные дисциплины</th>
+<th></th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2">288</th>
+<th colspan="2">184</th>
+<th colspan="2">104</th>
+<th colspan="3"></th>
+<th colspan="2">1</th>
+</tr>
+<tr>
+<td>ОПД 01</td>
+<td>Черчение</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">18</td>
+<td colspan="2"></td>
+<td colspan="2">18</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ОПД 02</td>
+<td>Теоретические основы электротехники</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">36</td>
+<td colspan="2">30</td>
+<td colspan="2">6</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ОПД 03</td>
+<td>Охрана труда</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">36</td>
+<td colspan="2">30</td>
+<td colspan="2">6</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ОПД 04</td>
+<td>Энергетические установки тягового подвижного состава</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">36</td>
+<td colspan="2">32</td>
+<td colspan="2">4</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ОПД 05</td>
+<td>Основы стандартизации и меторологии</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">18</td>
+<td colspan="2">18</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ОПД 06</td>
+<td>Информационные технологии в профессиональной деятельности</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td colspan="2">36</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ОПД 07</td>
+<td>Материаловедение</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">18</td>
+<td colspan="2">14</td>
+<td colspan="2">4</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ОПД 08</td>
+<td>Электрические машины тягового подвижного состава</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">36</td>
+<td colspan="2">32</td>
+<td colspan="2">4</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ОПД 09</td>
+<td>Делопроизводство на государственном языке</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">18</td>
+<td colspan="2">0</td>
+<td colspan="2">18</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ОПД 10</td>
+<td>Основы электроники и микроэлектроники</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">18</td>
+<td colspan="2">14</td>
+<td colspan="2">4</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ОПД 11</td>
+<td>Основы права и транспортного законодательства</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">18</td>
+<td colspan="2">14</td>
+<td colspan="2">4</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th></th>
+<th colspan="17">Квалификация: 110804 2 – Водитель дрезины*</th>
+</tr>
+<tr>
+<th>СД 00</th>
+<th>Специальные дисциплины</th>
+<th></th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2">288</th>
+<th colspan="2">238</th>
+<th colspan="3">50</th>
+<th colspan="2"></th>
+<th colspan="2">1</th>
+</tr>
+<tr>
+<td>СД 01</td>
+<td>Устройство и ремонт дрезины</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">68</td>
+<td colspan="2">58</td>
+<td colspan="3">10</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>СД 02</td>
+<td>Управление и обслуживание дрезины</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">76</td>
+<td colspan="2">56</td>
+<td colspan="3">20</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>СД 03</td>
+<td>Техническая эксплуатация и безопасность движения</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">68</td>
+<td colspan="2">58</td>
+<td colspan="3">10</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>СД 04</td>
+<td>Автоматические тормоза дрезины</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">58</td>
+<td colspan="2">48</td>
+<td colspan="3">10</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>СД 05</td>
+<td>Экономика транспорта и управление производством</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">18</td>
+<td colspan="2">18</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th></th>
+<th colspan="17">Квалификация: 110817 2 – Машинист автомотрисы *</th>
+</tr>
+<tr>
+<th>СД 00</th>
+<th>Специальные дисциплины</th>
+<th></th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2">288</th>
+<th colspan="2">238</th>
+<th colspan="3">50</th>
+<th colspan="2"></th>
+<th colspan="2">1</th>
+</tr>
+<tr>
+<td>СД 01</td>
+<td>Устройство и ремонт автомотрисы</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">68</td>
+<td colspan="2">58</td>
+<td colspan="3">10</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>СД 02</td>
+<td>Управление и обслуживание автомотрисы</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">76</td>
+<td colspan="2">56</td>
+<td colspan="3">20</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>СД 03</td>
+<td>Техническая эксплуатация и безопасность движения</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">68</td>
+<td colspan="2">58</td>
+<td colspan="3">10</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>СД 04</td>
+<td>Автоматические тормоза автомотрисы</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">58</td>
+<td colspan="2">48</td>
+<td colspan="3">10</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>СД 05</td>
+<td>Экономика транспорта и управление производствомм</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">18</td>
+<td colspan="2">18</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>ДОО 00</th>
+<th>Дисциплины, определяемые организацией образования**</th>
+<th></th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2">40 – 184**</th>
+<th colspan="2"></th>
+<th colspan="3"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<th>ПО и ПП 00</th>
+<th>Производственное обучение и профессиональная практика</th>
+<th></th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2">588</th>
+<th colspan="2"></th>
+<th colspan="3"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<th>ПА 00</th>
+<th>Промежуточная аттестация</th>
+<th></th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2">36</th>
+<th colspan="2"></th>
+<th colspan="3"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<th>ИА 00</th>
+<th>Итоговая аттестация</th>
+<th></th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2">36</th>
+<th colspan="2"></th>
+<th colspan="3"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td>ИА 01</td>
+<td>Итоговая аттестация***</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ИА 02 (ОУППК)</td>
+<td>Оценка уровня профессиональной подготовленности и присвоение квалификации</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th></th>
+<th>Итого на обязательное обучение</th>
+<th></th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2">1440</th>
+<th colspan="2"></th>
+<th colspan="3"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td>К</td>
+<td>Консультации</td>
+<td colspan="14">Не более 100 часов на учебный год</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Ф</td>
+<td>Факультативные занятия</td>
+<td colspan="16">Не более 4-х часов в неделю в период теоретического обучения</td>
+</tr>
+<tr>
+<th></th>
+<th>Всего</th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2">1656</th>
+<th colspan="2"></th>
+<th colspan="3"></th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+</table>
+
+## Примечание:
+
+ООД – общеобразовательные дисциплины; ОГД – общегуманитарные дисциплины; СЭД социально-экономические дисциплины; ОПД – общепрофессиональные дисциплины; СД – специальные дисциплины; ДОО – дисциплины, определяемые организацией образования с учетом требований работодателей;ПО – производственное обучение; ПП – профессиональная практика; ПА – промежуточная аттестация; ИА – итоговая аттестация; ОУППК – оценка уровня профессиональной подготовленности и присвоение квалификации; К – консультации; Ф – факультативные занятия
+
+* В соответствии с ГОСО ТиПО обязательным для исполнения в типовом учебном плане является перечень дисциплин. Формы контроля (количество курсовых работ, контрольных работ, экзаменов), порядок изучения дисциплин (распределение по курсам ) являются примерными и могут изменяться в зависимости от форм обучения, специфики специальностей, местных и других условий (обстоятельств), в т.ч. в соответствии с потребностями работодателей.
+
+** Объем часов на дисциплины, определяемой организацией образования, может быть увеличен за счет сокращения объема часов (до 25%) циклов общепрофессиональных и специальных дисциплин.
+
+*** Рекомендуемые формы итоговой аттестации: выполнение и защита дипломной работы.
+
+Примерный перечень учебно-производственных оборудований и технических средств обучения определяются исходя из содержания образовательных программ по дисциплинам соответствующей специальности.
+
+Перечень учебно-производственных оборудований и технических средств обучения для оснащения конкретного учебного заведения определяется учебным заведением совместно с предприятием-партнером, для которого готовятся кадры с учетом рабочих учебных программ. При этом необходимо учесть IT-технологии, 3D-технологии, ИКТ, дистанционное, модульное, дуальное, кредитное обучение с учетом перспективы развития отрасли.
+
+> *Приложение 238*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
+> *от 29 июля 2014 г.*  
+> *№ 312*
+
+## Типовой учебный план
+
+техническое и профессиональное образование
+
+Код и профиль образования: 1108000 – Транспорт (по отраслям)
+
+Специальность: 1108000 – Эксплуатация, ремонт и техническое обслуживание подвижного состава железных дорог(по видам)
+
+Специализация: 1108000.01 - Эксплуатация, ремонт и техническое обслуживание тягового подвижного состава железных дорог
+
+Квалификация: 110818 3 - Техник-электромеханик
+
+> *Форма обучения: очная*  
+> *Нормативный срок обучения: 3 года 10 месяцев*  
+> *на базе основного среднего образования*
+
+<table>
+<tr>
+<td rowspan="3">Индекс циклов и дисциплин</td>
+<td rowspan="3">Наименование циклов и дисциплин</td>
+<td colspan="6" rowspan="2">Формы контроля</td>
+<td colspan="8">Объем учебного времени (час)</td>
+<td rowspan="3">Распределение по курсам *</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">Всего</td>
+<td colspan="6">Из них</td>
+</tr>
+<tr>
+<td colspan="2">Экзамен</td>
+<td>Зачет</td>
+<td>
+Количество
+контрольных работ
+</td>
+<td colspan="2">курсовой проект работа)</td>
+<td colspan="2">Теоретические занятия</td>
+<td colspan="2">практические (лабораторно практические) занятия</td>
+<td colspan="2">курсовой проект работа)</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th colspan="2">3</th>
+<th>4</th>
+<th>5</th>
+<th colspan="2">6</th>
+<th colspan="2">7</th>
+<th colspan="2">8</th>
+<th colspan="2">9</th>
+<th colspan="2">10</th>
+<th>11</th>
+</tr>
+<tr>
+<th>ООД 00</th>
+<th>Общеобразовательные дисциплины</th>
+<th colspan="2"></th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2">1448</th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th>1-2</th>
+</tr>
+<tr>
+<td>СЭД 00</td>
+<td>Социально-экономические дисциплины (культурология, основы философии, основа экономики, основы социологии и политологии, основы права)</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">180</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>1-3</td>
+</tr>
+<tr>
+<td>ОГД 00</td>
+<td>Общегуманитарные дисциплины (профессиональный казахский (русский) язык, профессиональный иностранный язык, физическая культура)</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">292</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>2-3</td>
+</tr>
+<tr>
+<th>ОПД 00</th>
+<th>Общепрофессиональные дисциплины</th>
+<th colspan="2"></th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2">1097</th>
+<th colspan="2">581</th>
+<th colspan="2">516</th>
+<th colspan="2"></th>
+<th>1-3</th>
+</tr>
+<tr>
+<td>ОПД 01</td>
+<td>Черчение</td>
+<td colspan="2"></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">144</td>
+<td colspan="2"></td>
+<td colspan="2">144</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ОПД 02</td>
+<td>Теоретические основы электротехники</td>
+<td colspan="2">+</td>
+<td></td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">160</td>
+<td colspan="2">100</td>
+<td colspan="2">60</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ОПД 03</td>
+<td>Охрана труда</td>
+<td colspan="2">+</td>
+<td></td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">64</td>
+<td colspan="2">50</td>
+<td colspan="2">14</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ОПД 04</td>
+<td>Информационные технологии в профессиональной деятельности</td>
+<td colspan="2"></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">45</td>
+<td colspan="2"></td>
+<td colspan="2">45</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ОПД 05</td>
+<td>Основы стандартизации и метрологии</td>
+<td colspan="2"></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">38</td>
+<td colspan="2">30</td>
+<td colspan="2">8</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ОПД 06</td>
+<td>Делопроизводство на государственном языке</td>
+<td colspan="2"></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">45</td>
+<td colspan="2"></td>
+<td colspan="2">45</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ОПД 07</td>
+<td>Материаловедение</td>
+<td colspan="2"></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">80</td>
+<td colspan="2">50</td>
+<td colspan="2">30</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ОПД 08</td>
+<td>Электрические машины подвижного состава</td>
+<td colspan="2">+</td>
+<td></td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">155</td>
+<td colspan="2">107</td>
+<td colspan="2">48</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ОПД. 09</td>
+<td>Основы технической механики</td>
+<td colspan="2">+</td>
+<td></td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">96</td>
+<td colspan="2">66</td>
+<td colspan="2">30</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ОПД 10</td>
+<td>Энергетические установки подвижного состава</td>
+<td colspan="2">+</td>
+<td></td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">108</td>
+<td colspan="2">76</td>
+<td colspan="2">32</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ОПД 11</td>
+<td>Электроника, микроэлектроника и микропроцессорная техника</td>
+<td colspan="2">+</td>
+<td></td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">124</td>
+<td colspan="2">64</td>
+<td colspan="2">60</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ОПД 12</td>
+<td>Общий курс железных дорог</td>
+<td colspan="2"></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">38</td>
+<td colspan="2">38</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<th>СД 00</th>
+<th>Специальные дисциплины</th>
+<th colspan="2"></th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2">1025</th>
+<th colspan="2">737</th>
+<th colspan="2">238</th>
+<th colspan="2">50</th>
+<th>3-4</th>
+</tr>
+<tr>
+<td>СД 01</td>
+<td>Механизация и автоматизация производственного процесса</td>
+<td colspan="2"></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">44</td>
+<td colspan="2">36</td>
+<td colspan="2">8</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>СД 02</td>
+<td>Конструкция тягового подвижного состава</td>
+<td colspan="2">+</td>
+<td></td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">201</td>
+<td colspan="2">177</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>СД 03</td>
+<td>Технология ремонта тягового подвижного состава</td>
+<td colspan="2">+</td>
+<td></td>
+<td>+</td>
+<td colspan="2">+</td>
+<td colspan="2">205</td>
+<td colspan="2">155</td>
+<td colspan="2">20</td>
+<td colspan="2">30</td>
+<td></td>
+</tr>
+<tr>
+<td>СД 04</td>
+<td>Техническая эксплуатация и безопасность движением</td>
+<td colspan="2">+</td>
+<td></td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">137</td>
+<td colspan="2">117</td>
+<td colspan="2">20</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>СД 05</td>
+<td>Экономика транспорта и управление производством</td>
+<td colspan="2">+</td>
+<td></td>
+<td>+</td>
+<td colspan="2">+</td>
+<td colspan="2">88</td>
+<td colspan="2">48</td>
+<td colspan="2">20</td>
+<td colspan="2">20</td>
+<td></td>
+</tr>
+<tr>
+<td>СД 06</td>
+<td>Автоматические тормоза подвижного состава</td>
+<td colspan="2">+</td>
+<td></td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">149</td>
+<td colspan="2">109</td>
+<td colspan="2">40</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>СД 07</td>
+<td>Основы электрической и тепловозной тяги</td>
+<td colspan="2">+</td>
+<td></td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">93</td>
+<td colspan="2">23</td>
+<td colspan="2">70</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>СД 08</td>
+<td>Электрические аппараты и цепи тягового подвижного состава</td>
+<td colspan="2"></td>
+<td>+</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">108</td>
+<td colspan="2">72</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<th>ДОО 00</th>
+<th>Дисциплины, определяемые организацией образования**</th>
+<th colspan="2"></th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2">20 – 550**</th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<th>ПО и ПП 00</th>
+<th>Производственное обучение и профессиональная практика</th>
+<th colspan="2"></th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2">1458</th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<td>ПО 01</td>
+<td>Учебная слесарная практика</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">72</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ПО 02</td>
+<td>Учебная сварочная практика</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">72</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ПО 03</td>
+<td>Учебная слесарно-механическая практика</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">72</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ПО 04</td>
+<td>Учебная комплексно-слесарная практика</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">72</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ПО 05</td>
+<td>Учебная электромонтажная практика</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ПП 01</td>
+<td>Ознакомительная практика</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">54</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ПП 02</td>
+<td>Учебная практика на получение рабочей профессии</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">108</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ПП 03</td>
+<td>Производственно-технологическая практика</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">576</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ПП 04</td>
+<td>Преддипломная практика</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">180</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ДП 01</td>
+<td>Дипломное проектирование</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">216</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<th>ПА 00</th>
+<th>Промежуточная аттестация</th>
+<th colspan="2"></th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2">168</th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<th>ИА 00</th>
+<th>Итоговая аттестация</th>
+<th colspan="2"></th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2">72</th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<td>ИА 01</td>
+<td>Итоговая аттестация***</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">60</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ИА 02 (ОУППК)</td>
+<td>Оценка уровня профессиональной подготовленности и присвоение квалификации</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<th></th>
+<th>Итого на обязательное обучение</th>
+<th colspan="2"></th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2">5760</th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<td>К</td>
+<td>Консультации</td>
+<td colspan="15">Не более 100 часов на учебный год</td>
+</tr>
+<tr>
+<td>Ф</td>
+<td>Факультативные занятия</td>
+<td colspan="15">Не более 4-х часов в неделю в период теоретического обучения</td>
+</tr>
+<tr>
+<th></th>
+<th>Всего</th>
+<th></th>
+<th colspan="2"></th>
+<th></th>
+<th></th>
+<th colspan="2">6588</th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+</tr>
+</table>
