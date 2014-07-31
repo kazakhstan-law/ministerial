@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/77085/kaz/06.12.2013
+source: https://zan.gov.kz/client/#!/doc/77085/kaz/31.07.2014
 ---
 
 ## 5. Қоршаған ортаға эмиссия үшін төлемақы – 920.03-нысанын жасау

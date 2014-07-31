@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/77085/kaz/06.12.2013
+source: https://zan.gov.kz/client/#!/doc/77085/kaz/31.07.2014
 ---
 
 ## 7. Тіркелген активтер бойынша шегерімдер – 150.05-нысанын жасау
