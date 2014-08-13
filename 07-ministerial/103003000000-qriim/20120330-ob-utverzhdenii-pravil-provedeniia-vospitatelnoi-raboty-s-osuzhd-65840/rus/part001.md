@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/65840/rus/30.03.2012
+source: https://zan.gov.kz/client/#!/doc/65840/rus/13.08.2014
 ---
 
 ## Правила проведения воспитательной работы с осужденными к лишению свободы

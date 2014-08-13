@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/65840/kaz/30.03.2012
+source: https://zan.gov.kz/client/#!/doc/65840/kaz/13.08.2014
 ---
 
 ## Сотталғанға психологиялық тексерiс жүргізуге ӨТIНIМ
