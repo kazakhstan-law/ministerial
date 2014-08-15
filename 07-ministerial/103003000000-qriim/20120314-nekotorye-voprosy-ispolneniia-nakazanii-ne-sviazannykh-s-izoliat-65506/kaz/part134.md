@@ -1,6 +1,11 @@
 ---
 part_of: ../kaz.md
 source: https://zan.gov.kz/client/#!/doc/65506/kaz/15.08.2014
+repealed_on: 2015-01-01
+repealed_by:
+  code: '83954'
+  title: Пробация қызметінің жұмысын ұйымдастыру қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/83954/kaz
 ---
 
 ## М.О.
