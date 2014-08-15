@@ -11,8 +11,15 @@ approved_on: 2012-03-14
 approved_by:
 - '103003000000'
 version_date:
-  kaz: 2012-03-14
-  rus: 2012-03-14
+  kaz: 2014-08-15
+  rus: 2014-08-15
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/65506/kaz/14.03.2012
-  rus: https://zan.gov.kz/client/#!/doc/65506/rus/14.03.2012
+  kaz: https://zan.gov.kz/client/#!/doc/65506/kaz/15.08.2014
+  rus: https://zan.gov.kz/client/#!/doc/65506/rus/15.08.2014
+caused_by:
+  code: '83954'
+  requisite: Приказ Министра внутренних дел Республики Казахстан от 15 августа 2014 года № 511. Зарегистрирован в Министерстве юстиции Республики Казахстан 17 сентября 2014 года № 9738
+  title:
+    rus: Об утверждении Правил организации деятельности службы пробации
+    kaz: Пробация қызметінің жұмысын ұйымдастыру қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/83954/rus
