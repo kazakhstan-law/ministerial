@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/75267/rus/28.04.2014
+source: https://zan.gov.kz/client/#!/doc/75267/rus/10.09.2014
 ---
 
 ## Перечень учебной литературы, разрешенной к использованию в организациях дошкольного воспитания и обучения
@@ -1992,7 +1992,7 @@ Peter Lewis-Jones
 
 ## Перечень пособий и дополнительной литературы, разрешенных к использованию в организациях образования
 
-> *Сноска. Приказ дополнен Приложением 13 в соответствии с приказом Министра образования и науки РК от 28.04.2014 № 127 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен Приложением 13 в соответствии с приказом Министра образования и науки РК от 28.04.2014 № 127 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); и изменением, внесенным приказом Министра образования и науки РК от 10.09.2014 № 377 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 ## Казахский язык обучения
 
@@ -3865,6 +3865,497 @@ Series editor: Penny Ur
 <td>2014</td>
 <td>Дәуір-кітап</td>
 </tr>
+<tr>
+<td>172</td>
+<td>
+Ride High 1 Учебник
+Рабочая тетрадь,
+Книга для учителя 1 класс
+</td>
+<td>Кадырханова Г., Шокобаева Н.</td>
+<td>2014</td>
+<td>International Book Publisher</td>
+</tr>
+<tr>
+<td>173</td>
+<td>
+Ride High 2 Учебник,
+Рабочая тетрадь,
+Книга для учителя
+2 класс
+</td>
+<td>Кадырханова Г., Шокобаева Н.</td>
+<td>2014</td>
+<td>International Book Publisher</td>
+</tr>
+<tr>
+<td colspan="5">4 класс</td>
+</tr>
+<tr>
+<td rowspan="8">174</td>
+<td>
+Our Discovery Island 3 for Kazakhstan
+Student’s Book plus pin code
+</td>
+<td>Tessa Lochowski, Jeanne Perrett, translation by Mariya Batyrbekova</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Our Discovery Island 3 Activity Book and CD ROM (Pupil) Pack</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Our Discovery Island 3 Teacher`s book plus pin code</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>
+Our Discovery Island 3
+Audio CD
+</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Our Discovery Island 3 DVD</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>
+Our Discovery Island 3
+Active Teach
+</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Our Discovery Island 3 Flashcards</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Our Discovery Island 3 Storycards</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">5 класс</td>
+</tr>
+<tr>
+<td rowspan="5">175</td>
+<td>Discover English 1 for Kazakhstan Student’s Book</td>
+<td>Izabella Hearn, Jayne Wilman, translation by Mariya Batyrbekova Mulrooney</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>
+Discover English 1
+Work book
+</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Discover English 1 Active Teach</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>
+Discover English 1
+Class CDs 1-2
+</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Discover English 1 Teacher’s book</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">6 класс</td>
+</tr>
+<tr>
+<td rowspan="5">176</td>
+<td>Discover English 2 for Kazakhstan Student’s Book</td>
+<td>Izabella Hearn, Jayne Wilman, translation by AsselAkisheva</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>
+Discover English 2
+Work book
+</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Discover English 2 Active Teach</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>
+Discover English 2
+Class CDs 1-2
+</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Discover English 2 Teacher’s book</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">7 класс</td>
+</tr>
+<tr>
+<td rowspan="5">177</td>
+<td>Discover English 3 for Kazakhstan Student’s Book</td>
+<td>Izabella Hearn, Jayne Wilman, translation by AsselAkisheva</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Discover English 3 Work book</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Discover English 3 Active Teach</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>
+Discover English 3
+Class CDs 1-2
+</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Discover English 3 Teacher’s book</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">8 класс</td>
+</tr>
+<tr>
+<td rowspan="4">178</td>
+<td>Discover English 4 for Kazakhstan Student’s Book</td>
+<td>Izabella Hearn, Jayne Wilman, translation by AsselAkisheva</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>
+Discover English 4
+Activity book
+</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>
+Discover English 4
+Class CDs 1-2
+</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Discover English 4 Teacher’s book</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">5 класс</td>
+</tr>
+<tr>
+<td rowspan="6">179</td>
+<td>Upbeat Starter Student’s Book Kazakhstan</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage Translations by Mariya Batyrbekova Mulrooney</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Starter Language Builder</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Starter Teacher`s Book</td>
+<td>Ingrid Freebairn, JonatanBygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Starter Audio CD</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Starter Test Book</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Starter Motivator</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">6 класс</td>
+</tr>
+<tr>
+<td rowspan="6">180</td>
+<td>Upbeat Elementary Student’s Book Kazakhstan</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey, Translation by Mariya Batyrbekova Mulrooney, Symbat Berikova</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Elementary Language Builder</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Elementary Teacher`s Book</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Elementary Audio CD</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Elementary Test Book</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Elementary Motivator</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">7 класс</td>
+</tr>
+<tr>
+<td rowspan="6">181</td>
+<td>Upbeat Pre-Intermediate Student’s Book Kazakhstan</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage Translations by Mariya Batyrbekova Mulrooney</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Pre-Intermediate Language BuilderKazakhstan</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Pre-Intermediate Teacher`s Book</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Pre-Intermediate Audio CD</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Pre-Intermediate Test Book</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Pre-Intermediate Motivator</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">8 класс</td>
+</tr>
+<tr>
+<td rowspan="6">182</td>
+<td>Upbeat Intermediate Student’s Book Kazakhstan</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage Translations by Mariya Batyrbekova Mulrooney</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Intermediate Language Builder</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Intermediate Teacher`s Book</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Intermediate Audio CD</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Intermediate Test Book</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Upbeat Intermediate Motivator</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">9 класс</td>
+</tr>
+<tr>
+<td rowspan="4">183</td>
+<td>Choices Pre-Intermediate for Kazakhstan Students’ Book</td>
+<td>Michael Harris, Anna Sikorzynska, Translations by Mariya Batyrbekova Mulrooney</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Choices Pre-Intermediate Workbook &amp; Audio CD Pack</td>
+<td>Michael Harris, Anna Sikorzynska</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Choices Pre-Intermediate Teacher’s Book &amp; Multi-ROM Pack</td>
+<td>Michael Harris, Anna Sikorzynska</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Choices Pre-Intermediat Class CDs 1-6</td>
+<td>Michael Harris, Anna Sikorzynska</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">11 класс</td>
+</tr>
+<tr>
+<td rowspan="5">184</td>
+<td>Choices Upper-Intermediate for Kazakhstan Students’ Book</td>
+<td>Michael Harris, Anna Sikorzynska, Translations by Mariya Batyrbekova Mulrooney</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Choices Upper-Intermediate Workbook</td>
+<td>Michael Harris, Anna Sikorzynska</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Choices Upper-Intermediate or Kazakhstan Teacher’s Book &amp; Multi-ROM Pack</td>
+<td>Michael Harris, Anna Sikorzynska</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Choices Upper-Intermediate Class CDs 1-6</td>
+<td>Michael Harris, Anna Sikorzynska</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>Choices Upper-IntermediatActive Teach</td>
+<td>Michael Harris, Anna Sikorzynska</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td rowspan="5">185</td>
+<td>New Success Upper Intermediate for Kazakhstan Students book Pack</td>
+<td>Bob Hastings, Stuart McKinlay, Peter Moran, Liz Foody, Lindsay White, translation by Assel Akisheva</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>New Success Upper Intermediate Workbook and CD Pack</td>
+<td>Bob Hastings, Stuart McKinlay, Peter Moran, Liz Foody, Lindsay White</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>
+New Success Upper Intermediate Teachers Book
+Pack
+</td>
+<td>Bob Hastings, Stuart McKinlay, Peter Moran, Liz Foody, Lindsay White</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>New Success Upper Intermediate Class CD</td>
+<td>Bob Hastings, Stuart McKinlay, Peter Moran, Liz Foody, Lindsay White</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>New Success Upper Intermediate Active Teach</td>
+<td>Bob Hastings, Stuart McKinlay, Peter Moran, Liz Foody, Lindsay White</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
 </table>
 
 > *Приложение 14*  
@@ -4608,597 +5099,5 @@ Series editor: Penny Ur
 <td></td>
 <td>2014</td>
 <td>Қазақстан телехабар таратушылар орталығы</td>
-</tr>
-</table>
-
-## Русский язык обучения
-
-<table>
-<tr>
-<th>№</th>
-<th>Наименование</th>
-<th>Автор (ы)</th>
-<th>Год издания</th>
-<th>Разработчики</th>
-</tr>
-<tr>
-<th colspan="5">Для дошкольного воспитания и обучения и начального образования</th>
-</tr>
-<tr>
-<td>61.</td>
-<td>Изучение правила дорожного движения детьми дошкольного и младшего школьного возраста посредством анимации</td>
-<td>
-С.Алейников,
-З.Богданова,
-Ю.Ефремова,
-В.Зиновьев
-</td>
-<td>2014</td>
-<td>Formula ТV</td>
-</tr>
-<tr>
-<td>62.</td>
-<td>
-Букварь.
-Мультимедийная обучающая программа
-1 класс
-</td>
-<td>
-Т.Оболонина,
-Т.Левченко и др.
-</td>
-<td>2014</td>
-<td>Центр педагогических технологий информатизации образования</td>
-</tr>
-<tr>
-<td>63.</td>
-<td>
-Букварь.
-Электронное учебное пособие.
-1 класс
-</td>
-<td>М.Грушина и др.</td>
-<td>2014</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>64.</td>
-<td>
-English.
-Обучающая программа.
-1 класс
-</td>
-<td>К.Бобровская и др.</td>
-<td>2014</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>65.</td>
-<td>
-Қазақ тілі.
-Электронное учебное пособие.
-3 класс
-</td>
-<td>А.Кайырбекова и др.</td>
-<td>2014</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>66.</td>
-<td>
-Русский язык.
-Электронное учебное пособие.
-3 класс
-</td>
-<td>
-С.Никитина,
-Л. Якунина и др.
-</td>
-<td>2014</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>67.</td>
-<td>
-Литературное чтение.
-Электронное учебное
-пособие.
-3 класс
-</td>
-<td>В.Павленко, Ж.Баянбаева и др.</td>
-<td>2014</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>68.</td>
-<td>
-Математика.
-Электронное учебное пособие. 3 класс
-</td>
-<td>Т.Оспанов, А.Козленко, Ж.Астамбаева и др.</td>
-<td>2014</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>69.</td>
-<td>
-Познание мира.
-Мультимедийная обучающая программа.
-1 класс
-</td>
-<td>С.Семенихина, Е.Чимирис, Н.Фаненштиль и др.</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>70.</td>
-<td>
-Познание мира.
-Электронный учебник.
-2 класс
-</td>
-<td>С.Семенихина, Е.Чимирис, Т.Левченко и др</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>71.</td>
-<td>
-Познание мира. Электронный учебник.
-3 класс
-</td>
-<td>
-Е.Чимирис,
-Т.Левченко и др
-</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>72.</td>
-<td>
-Музыка.
-Мультимедийная обучающая программа.
-1 класс
-</td>
-<td>Ш.Кульманова, Е.Писаченко, Б.Утемуратова и др.</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>73.</td>
-<td>
-Музыка.
-Мультимедийная обучающая программа.
-2 класс
-</td>
-<td>Т.Левченко, Е.Писаченко, Б.Утемуратова и др.</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>74.</td>
-<td>
-Музыка.
-Мультимедийная обучающая программа.
-3 класс
-</td>
-<td>Ш.Кульманова, Е.Писаченко, Б.Утемуратова и др.</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>75.</td>
-<td>
-Изобразительное искусство. Электронное учебное пособие.
-3 класс
-</td>
-<td>Н.Раупова и др.</td>
-<td>2014</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>76.</td>
-<td>
-Трудовое обучение.
-Электронный учебник.
-1 класс
-</td>
-<td>С.Ефимик, Т.Левченко и др</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>77.</td>
-<td>
-Трудовое обучение.
-Мультимедийная обучающая программа.
-2 класс
-</td>
-<td>Э.Исабаева, Т.Левченко и др.</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>78.</td>
-<td>
-Трудовое обучение.
-Электронный учебник.
-3 класс
-</td>
-<td>
-Э. Исабаева,
-Т. Левченко и др
-</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>79.</td>
-<td>
-Трудовое обучение. Электронное учебное пособие.
-3 класс
-</td>
-<td>Н. Волкова и др.</td>
-<td>2014</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>80.</td>
-<td>
-Русский язык.
-Электронный учебник.
-7 класс
-</td>
-<td>
-И. Андрианова,
-Г. Демегенова, Н.Мусабаева и др.
-</td>
-<td>2014</td>
-<td>Центр педагогических технологий информатизации образования</td>
-</tr>
-<tr>
-<td>81.</td>
-<td>
-Русский язык.
-Электронный учебник.
-8 класс
-</td>
-<td>М.Константинова, Г.Демегенова и др.</td>
-<td>2014</td>
-<td>Центр педагогических технологий информатизации образования</td>
-</tr>
-<tr>
-<td>82.</td>
-<td>
-Русский язык.
-Электронный учебник.
-10 класс
-</td>
-<td>Н.Самойленко, Г.Кожамкулова и др.</td>
-<td>2014</td>
-<td>Центр педагогических технологий информатизации образования</td>
-</tr>
-<tr>
-<td>83.</td>
-<td>
-Русский язык.
-Электронное учебное пособие.
-10 класс
-</td>
-<td>Ф.Брулева, С.Бегалиева, В.Казабеева и др.</td>
-<td>2014</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>84.</td>
-<td>
-Қазақ тілі.
-Электронное учебное пособие.
-10 класс
-</td>
-<td>А.Бектаева Т.Артыкова, и др.</td>
-<td>2014</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>85.</td>
-<td>
-Қазақ әдебиеті (ҚГБ)
-Электронный учебник.
-10 сынып
-</td>
-<td>
-С.Тұрсынғалиева,
-Ә. Берекенова и др.
-</td>
-<td>2014</td>
-<td>Арман-ПВ</td>
-</tr>
-<tr>
-<td>86.</td>
-<td>
-Қазақ әдебиеті (ЖМБ)
-Электронный учебник.
-10 сынып
-</td>
-<td>
-С.Тұрсынғалиева,
-Ә. Берекенова и др.
-</td>
-<td>2014</td>
-<td>Арман-ПВ</td>
-</tr>
-<tr>
-<td>87.</td>
-<td>
-Математика.
-Электронное учебное пособие.
-5 класс
-</td>
-<td>Т.Алдамуратова, Е.Байшоланов и др.</td>
-<td>2014</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>88.</td>
-<td>
-Тренажер по математике. Электронное учебное пособие.
-5 класс
-</td>
-<td>Т.Алдамуратова, М.Кольцов, Т.Кольцова и др.</td>
-<td>2014</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>89.</td>
-<td>
-Информатика.
-Электронный учебник.
-5 класс
-</td>
-<td>Н.Ермеков, Б.Шарипов, Н.Стифутина и др.</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>90.</td>
-<td>
-Информатика. Мультимедийная обучающая программа.
-6 класс
-</td>
-<td>Н.Ермеков Б.Шарипов, Н.Стифутина, и др.</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>91.</td>
-<td>
-Информатика. Электронный учебник.
-9 класс
-</td>
-<td>Л.Пак, Б.Шарипов, Г.Мадьяроваи др.</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>92.</td>
-<td>
-География.
-Электронный учебник.
-6 класс
-</td>
-<td>А.Аблеева, О.Мазбаев, Б.Асубаев и др.</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>93.</td>
-<td>
-География.
-Электронный учебник.
-7 класс
-</td>
-<td>Т.Казановская, О.Мазбаев и др.</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>94.</td>
-<td>
-География.
-Электронный учебник.
-8 класс
-</td>
-<td>О.Мазбаев, Б.Асубаев, А.Аблеева и др.</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>95.</td>
-<td>
-География.
-Электронный учебник.
-9 класс
-</td>
-<td>Б.Асубаев, О.Мазбаев, А.Аблеева и др.</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>96.</td>
-<td>
-География.
-Электронный учебник.
-10 класс
-</td>
-<td>О.Мазбаев, Б.Асубаев, А.Аблеева и др.</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>97.</td>
-<td>
-География.
-Электронный учебник.
-11 класс
-</td>
-<td>Т.Увалиев, А.Аблеева и др.</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>98.</td>
-<td>
-Физика.
-Электронный учебник.
-7 класс
-</td>
-<td>Т.Испаев, М.Мухамбетов, А.Есжанов и др.</td>
-<td>2014</td>
-<td>Центр педагогических технологий информатизации образования</td>
-</tr>
-<tr>
-<td>99.</td>
-<td>
-Физика.
-Электронный учебник.
-8 класс
-</td>
-<td>Т.Испаев, М.Мухамбетов, А.Есжанов и др.</td>
-<td>2014</td>
-<td>Центр педагогических технологий информатизации образования</td>
-</tr>
-<tr>
-<td>100.</td>
-<td>
-Физика.
-Электронныйучебник.
-9 класс
-</td>
-<td>Т.Испаев, М.Мухамбетов, А.Есжанов и др.</td>
-<td>2014</td>
-<td>Центр педагогических технологий информатизации образования</td>
-</tr>
-<tr>
-<td>101.</td>
-<td>
-Физика.
-Электронный учебник.
-10 класс
-</td>
-<td>А.Медетбекова, А.Сураншиева, М.Мухамбетов и др.</td>
-<td>2014</td>
-<td>Центр педагогических технологий информатизации образования</td>
-</tr>
-<tr>
-<td>102.</td>
-<td>
-Физика.
-Электронный учебник.
-11 класс
-</td>
-<td>
-А.Медетбекова, А.Сураншиева,
-Л. Отрадных и др.
-</td>
-<td>2014</td>
-<td>
-Центр педагогических технологий информатизации
-образования
-</td>
-</tr>
-<tr>
-<td>103.</td>
-<td>Физика и астрономия Виртуальные модельные эксперименты. Электронное учебное пособие. 7-11 классы</td>
-<td>Л.Фаизова и др.</td>
-<td>2014</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>104.</td>
-<td>
-Химия.
-Интерактивное обучающее пособие.
-9 класс
-</td>
-<td>
-К. Сакарьянова,
-М.Усманова и др.
-</td>
-<td>2014</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>105.</td>
-<td>
-Химия.
-Электронный учебник.
-10 класс
-</td>
-<td>Ж.Шуленбаева, Э.Торгаева, Н.Бакирбаева и др.</td>
-<td>2014</td>
-<td>Центр педагогических технологий информатизации образования</td>
-</tr>
-<tr>
-<td>106.</td>
-<td>
-История Казахстана. Электронный учебник.
-5 класс
-</td>
-<td>А.Жексембина, Н.Милованова и др.</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>107.</td>
-<td>
-История Казахстана. Электроный учебник.
-6 класс
-</td>
-<td>Н.Милованова и др.</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>108.</td>
-<td>История Казахстана. Электронное учебное пособие. 8 класс</td>
-<td>В.Ткаченко и др.</td>
-<td>2014</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>109.</td>
-<td>
-История Казахстана. Электронный учебник.
-9 класс
-</td>
-<td>
-Н.Милованова
-и др.
-</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>110.</td>
-<td>
-История Казахстана. Электронный учебник.
-10 класс
-</td>
-<td>Н.Милованова и др.</td>
-<td>2014</td>
-<td>Национальный центр информатизации</td>
-</tr>
-<tr>
-<td>111.</td>
-<td>
-Технология.
-Электронное учебное пособие.
-5 класс
-</td>
-<td>Б.Калназаров и др.</td>
-<td>2014</td>
-<td>Атамұра</td>
 </tr>
 </table>

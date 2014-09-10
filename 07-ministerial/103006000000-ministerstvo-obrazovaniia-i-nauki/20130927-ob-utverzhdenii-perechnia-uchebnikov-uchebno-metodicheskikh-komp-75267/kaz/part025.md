@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/75267/kaz/28.04.2014
+source: https://zan.gov.kz/client/#!/doc/75267/kaz/10.09.2014
 ---
 
 ## Мектепке дейінгі тәрбие мен оқыту ұйымдарында пайдалануға рұқсат етілген оқу әдебиеттерінің тізбесі
@@ -1793,9 +1793,9 @@ Peter Lewis-Jones
 > *2013 жылғы 27 қыркүйектегі*  
 > *№ 400 бұйрығының 13-қосымшасы*
 
-## Білім беру ұйымдарында пайдалануға рұксат етілген құралдар және қосымша әдебиеттер тізбесі
+## Білім беру ұйымдарында пайдалануға рұқсат етілген құралдар және қосымша әдебиеттер тізбесі
 
-> *Ескерту. Бұйрық 13-қосымшамен толықтырылды - ҚР Білім және ғылым министрінің 28.04.2014 № 127 бұйрығымен (алғашқы ресми жарияланған күнінен бастап күнтізбелік он күн өткен соң қолданысқа енгізіледі).*
+> *Ескерту. Бұйрық 13-қосымшамен толықтырылды - ҚР Білім және ғылым министрінің 28.04.2014 № 127 (алғашқы ресми жарияланған күнінен бастап күнтізбелік он күн өткен соң қолданысқа енгізіледі), өзгеріс енгізілді - ҚР Білім және ғылым министрінің 2014.09.10 № 377 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.*
 
 ## Казахский язык обучения
 
@@ -3564,6 +3564,532 @@ Series editor: Penny Ur
 <td>2014</td>
 <td>Дәуір-кітап</td>
 </tr>
+<tr>
+<td>172</td>
+<td>
+Ride High 1 Учебник
+Рабочая тетрадь,
+Книга для учителя 1 класс
+</td>
+<td>Кадырханова Г., Шокобаева Н.</td>
+<td>2014</td>
+<td>International Book Publisher</td>
+</tr>
+<tr>
+<td>173</td>
+<td>
+Ride High 2 Учебник,
+Рабочая тетрадь,
+Книга для учителя
+2 класс
+</td>
+<td>Кадырханова Г., Шокобаева Н.</td>
+<td>2014</td>
+<td>International Book Publisher</td>
+</tr>
+<tr>
+<td colspan="5">4 класс</td>
+</tr>
+<tr>
+<td>174</td>
+<td>
+Our Discovery Island 3 for Kazakhstan
+Student’s Book plus pin code
+</td>
+<td>Tessa Lochowski, Jeanne Perrett, translation by Mariya Batyrbekova</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Our Discovery Island 3 Activity Book and CD ROM (Pupil) Pack</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Our Discovery Island 3 Teacher`s book plus pin code</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>
+Our Discovery Island 3
+Audio CD
+</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Our Discovery Island 3 DVD</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>
+Our Discovery Island 3
+Active Teach
+</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Our Discovery Island 3 Flashcards</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Our Discovery Island 3 Storycards</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">5 класс</td>
+</tr>
+<tr>
+<td>175</td>
+<td>Discover English 1 for Kazakhstan Student’s Book</td>
+<td>Izabella Hearn, Jayne Wilman, translation by Mariya Batyrbekova Mulrooney</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Discover English 1 Work book</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Discover English 1 Active Teach</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Discover English 1 Class CDs 1-2</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Discover English 1 Teacher’s book</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">6 класс</td>
+</tr>
+<tr>
+<td>176</td>
+<td>Discover English 2 for Kazakhstan Student’s Book</td>
+<td>Izabella Hearn, Jayne Wilman, translation by AsselAkisheva</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>
+Discover English 2
+Work book
+</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Discover English 2 Active Teach</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>
+Discover English 2
+Class CDs 1-2
+</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Discover English 2 Teacher’s book</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">7 класс</td>
+</tr>
+<tr>
+<td>177</td>
+<td>Discover English 3 for Kazakhstan Student’s Book</td>
+<td>Izabella Hearn, Jayne Wilman, translation by AsselAkisheva</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Discover English 3 Work book</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Discover English 3 Active Teach</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Discover English 3 Class CDs 1-2</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Discover English 3 Teacher’s book</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">8 класс</td>
+</tr>
+<tr>
+<td>178</td>
+<td>Discover English 4 for Kazakhstan Student’s Book</td>
+<td>Izabella Hearn, Jayne Wilman, translation by AsselAkisheva</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Discover English 4 Activity book</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td></td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Discover English 4 Class CDs 1-2</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Discover English 4 Teacher’s book</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">5 класс</td>
+</tr>
+<tr>
+<td>179</td>
+<td>Upbeat Starter Student’s Book Kazakhstan</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage Translations by Mariya Batyrbekova Mulrooney</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Starter Language Builder</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Starter Teacher`s Book</td>
+<td>Ingrid Freebairn, JonatanBygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Starter Audio CD</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Starter Test Book</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Starter Motivator</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">6 класс</td>
+</tr>
+<tr>
+<td>180</td>
+<td>Upbeat Elementary Student’s Book Kazakhstan</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey, Translation by Mariya Batyrbekova Mulrooney, Symbat Berikova</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Elementary Language Builder</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Elementary Teacher`s Book</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Elementary Audio CD</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Elementary Test Book</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Elementary Motivator</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">7 класс</td>
+</tr>
+<tr>
+<td>181</td>
+<td>Upbeat Pre-Intermediate Student’s Book Kazakhstan</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage Translations by Mariya Batyrbekova Mulrooney</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Pre-Intermediate Language BuilderKazakhstan</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Pre-Intermediate Teacher`s Book</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Pre-Intermediate Audio CD</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Pre-Intermediate Test Book</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Pre-Intermediate Motivator</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">8 класс</td>
+</tr>
+<tr>
+<td>182</td>
+<td>Upbeat Intermediate Student’s Book Kazakhstan</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage Translations by Mariya Batyrbekova Mulrooney</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Intermediate Language Builder</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Intermediate Teacher`s Book</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Intermediate Audio CD</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Intermediate Test Book</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Upbeat Intermediate Motivator</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">9 класс</td>
+</tr>
+<tr>
+<td>183</td>
+<td>Choices Pre-Intermediate for Kazakhstan Students’ Book</td>
+<td>Michael Harris, Anna Sikorzynska, Translations by Mariya Batyrbekova Mulrooney</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Choices Pre-Intermediate Workbook &amp; Audio CD Pack</td>
+<td>Michael Harris, Anna Sikorzynska</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Choices Pre-Intermediate Teacher’s Book &amp; Multi-ROM Pack</td>
+<td>Michael Harris, Anna Sikorzynska</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Choices Pre-Intermediat Class CDs 1-6</td>
+<td>Michael Harris, Anna Sikorzynska</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td colspan="5">11 класс</td>
+</tr>
+<tr>
+<td>184</td>
+<td>Choices Upper-Intermediate for Kazakhstan Students’ Book</td>
+<td>Michael Harris, Anna Sikorzynska, Translations by Mariya Batyrbekova Mulrooney</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Choices Upper-Intermediate Workbook</td>
+<td>Michael Harris, Anna Sikorzynska</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Choices Upper-Intermediate or Kazakhstan Teacher’s Book &amp; Multi-ROM Pack</td>
+<td>Michael Harris, Anna Sikorzynska</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Choices Upper-Intermediate Class CDs 1-6</td>
+<td>Michael Harris, Anna Sikorzynska</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>Choices Upper-IntermediatActive Teach</td>
+<td>Michael Harris, Anna Sikorzynska</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td>185</td>
+<td>New Success Upper Intermediate for Kazakhstan Students book Pack</td>
+<td>Bob Hastings, Stuart McKinlay, Peter Moran, Liz Foody, Lindsay White, translation by Assel Akisheva</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>New Success Upper Intermediate Workbook and CD Pack</td>
+<td>Bob Hastings, Stuart McKinlay, Peter Moran, Liz Foody, Lindsay White</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>New Success Upper Intermediate Teachers Book Pack</td>
+<td>Bob Hastings, Stuart McKinlay, Peter Moran, Liz Foody, Lindsay White</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>New Success Upper Intermediate Class CD</td>
+<td>Bob Hastings, Stuart McKinlay, Peter Moran, Liz Foody, Lindsay White</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
+<tr>
+<td></td>
+<td>New Success Upper Intermediate Active Teach</td>
+<td>Bob Hastings, Stuart McKinlay, Peter Moran, Liz Foody, Lindsay White</td>
+<td>2014</td>
+<td>English language press</td>
+</tr>
 </table>
 
 > *Қазақстан Республикасы*  
@@ -4873,3 +5399,10 @@ English.
 <td>Атамұра</td>
 </tr>
 </table>
+
+> *Қазақстан Республикасы*  
+> *Білім және ғылым министрінің*  
+> *міндетін атқарушының*  
+> *2013 жылғы 27 қыркүйектегі*  
+> *№ 400 бұйрығына*  
+> *15-қосымша*

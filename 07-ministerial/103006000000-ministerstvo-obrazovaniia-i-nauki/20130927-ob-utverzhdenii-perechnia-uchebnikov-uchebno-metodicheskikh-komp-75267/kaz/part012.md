@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/75267/kaz/28.04.2014
+source: https://zan.gov.kz/client/#!/doc/75267/kaz/10.09.2014
 ---
 
 ## Қазақ тілінде
