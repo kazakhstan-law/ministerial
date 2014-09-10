@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/71877/kaz/14.04.2014
+source: https://zan.gov.kz/client/#!/doc/71877/kaz/10.09.2014
 ---
 
 # Бюджеттiк өтiнiмдi жасау және ұсыну қағидаларын бекiту туралы

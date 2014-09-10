@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/71877/rus/14.04.2014
+source: https://zan.gov.kz/client/#!/doc/71877/rus/10.09.2014
 ---
 
 ## Расчет расходов на оплату труда административных государственных служащих

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/71877/rus/14.04.2014
+source: https://zan.gov.kz/client/#!/doc/71877/rus/10.09.2014
 ---
 
 # Об утверждении Правил составления и представления бюджетной заявки

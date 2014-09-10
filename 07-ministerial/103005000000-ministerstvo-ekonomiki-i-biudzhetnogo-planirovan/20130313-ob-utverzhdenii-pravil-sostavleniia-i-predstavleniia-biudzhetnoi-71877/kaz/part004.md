@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/71877/kaz/14.04.2014
+source: https://zan.gov.kz/client/#!/doc/71877/kaz/10.09.2014
 ---
 
 ## Әкiмшiлiк мемлекеттiк қызметшiлердiң еңбекақыларына арналған шығыcтарды есептеу
