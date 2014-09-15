@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/43900/rus/05.02.2014
+source: https://zan.gov.kz/client/#!/doc/43900/rus/15.09.2014
 ---
 
 # О некоторых вопросах налогового администрирования
