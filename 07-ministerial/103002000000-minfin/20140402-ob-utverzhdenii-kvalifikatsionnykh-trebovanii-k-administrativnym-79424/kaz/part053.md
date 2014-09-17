@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/79424/kaz/02.04.2014
+source: https://zan.gov.kz/client/#!/doc/79424/kaz/17.09.2014
 ---
 
 ## 52. Халықаралық қаржылық қатынастар департаментінің директоры С-1 санаты, 1 бірлік, № ХҚҚД-01
