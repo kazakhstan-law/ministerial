@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/83437/kaz/07.08.2014
+source: https://zan.gov.kz/client/#!/doc/83437/kaz/19.09.2014
 ---
 
 ## Қылмыс жасаған адамға арналған карточка
