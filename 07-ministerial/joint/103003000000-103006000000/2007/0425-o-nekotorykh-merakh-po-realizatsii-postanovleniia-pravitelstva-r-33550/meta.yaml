@@ -11,10 +11,13 @@ approved_by:
 - '103003000000'
 - '103006000000'
 version_date:
+  kaz: 2007-04-25
   rus: 2014-10-24
 source:
+  kaz: https://zan.gov.kz/client/#!/doc/33550/kaz/25.04.2007
   rus: https://zan.gov.kz/client/#!/doc/33550/rus/24.10.2014
-caused_by:
+repealed_on: 2014-10-27
+repealed_by:
   code: '90854'
   requisite: Совместный приказ Министра внутренних дел Республики Казахстан от 24 октября 2014 года № 730 и Министра образования и науки Республики Казахстан от 27 октября 2014 года № 444
   title:
