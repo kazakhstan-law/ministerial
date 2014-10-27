@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/70283/kaz/19.08.2013
+source: https://zan.gov.kz/client/#!/doc/70283/kaz/27.10.2014
 ---
 
 ## АВАНСТЫҚ ЕСЕП

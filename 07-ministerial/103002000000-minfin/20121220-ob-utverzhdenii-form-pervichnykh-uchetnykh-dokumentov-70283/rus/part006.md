@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/70283/rus/19.08.2013
+source: https://zan.gov.kz/client/#!/doc/70283/rus/27.10.2014
 ---
 
 ## АКТ ПРИЕМКИ - ПЕРЕДАЧИ АКТИВА В МОНТАЖ

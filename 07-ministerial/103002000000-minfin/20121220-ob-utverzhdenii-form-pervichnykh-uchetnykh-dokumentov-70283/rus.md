@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/70283/rus/19.08.2013
+source: https://zan.gov.kz/client/#!/doc/70283/rus/27.10.2014
 ---
 
 # Об утверждении форм первичных учетных документов
