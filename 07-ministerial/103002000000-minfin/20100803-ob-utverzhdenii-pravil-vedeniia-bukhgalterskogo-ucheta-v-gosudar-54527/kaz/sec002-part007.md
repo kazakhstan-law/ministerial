@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/54527/kaz/12.10.2013
+source: https://zan.gov.kz/client/#!/doc/54527/kaz/30.10.2014
 ---
 
 ## 11. Биологиялық активтерді есепке алу тәртібі
