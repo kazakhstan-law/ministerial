@@ -1,5 +1,5 @@
 ---
-version_id: AI85677_0
+version_id: AI85677_1
 act_code: '85677'
 language: kaz
 title: Мемлекеттік көрсетілетін қызметтердің сапасын бағалау әдістемесін бекіту туралы
@@ -12,9 +12,9 @@ approved_by:
 - '133000000000'
 - '103035000000'
 approval_date: 2014-11-27
-version_date: 2014-11-25
+version_date: 2014-11-27
 registry_number: '85677'
-source: https://zan.gov.kz/client/#!/doc/85677/kaz/25.11.2014
+source: https://zan.gov.kz/client/#!/doc/85677/kaz/27.11.2014
 ---
 
 # Мемлекеттік көрсетілетін қызметтердің сапасын бағалау әдістемесін бекіту туралы
