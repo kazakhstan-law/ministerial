@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69105/rus/15.10.2012
+source: https://zan.gov.kz/client/#!/doc/69105/rus/09.12.2014
 ---
 
 ## Заемдар және олар бойынша сыйақы ставкалары туралы есеп, мың теңгемен
