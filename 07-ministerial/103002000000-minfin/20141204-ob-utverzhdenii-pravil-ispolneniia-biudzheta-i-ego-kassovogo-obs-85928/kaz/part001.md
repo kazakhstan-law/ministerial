@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85928/kaz/04.12.2014
+source: https://zan.gov.kz/client/#!/doc/85928/kaz/12.12.2014
 ---
 
 ## Бюджеттің атқарылуы және оған кассалық қызмет көрсету ережесін бекіту туралы 1. Жалпы ережелер
