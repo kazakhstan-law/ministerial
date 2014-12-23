@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/83632/rus/19.09.2014
+source: https://zan.gov.kz/client/#!/doc/83632/rus/23.12.2014
 ---
 
 ## о совершенном или готовящемся уголовном правонарушении
