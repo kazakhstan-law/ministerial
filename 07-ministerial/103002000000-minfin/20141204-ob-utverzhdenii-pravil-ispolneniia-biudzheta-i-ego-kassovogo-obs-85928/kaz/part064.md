@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85928/kaz/12.12.2014
+source: https://zan.gov.kz/client/#!/doc/85928/kaz/24.12.2014
 ---
 
 ## 9-параграф. Концессия объектісінің қолжетімділігі үшін төлемақы төлеу тәртібі
