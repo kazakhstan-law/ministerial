@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/59407/kaz/17.03.2014
+source: https://zan.gov.kz/client/#!/doc/59407/kaz/20.01.2015
 ---
 
 ## Параграф 11. Әуе қозғалысы кезіндегі болған оқыс оқиға туралы есеп

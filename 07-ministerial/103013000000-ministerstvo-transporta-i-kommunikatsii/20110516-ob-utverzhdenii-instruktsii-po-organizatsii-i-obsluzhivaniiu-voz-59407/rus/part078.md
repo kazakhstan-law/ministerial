@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/59407/rus/17.03.2014
+source: https://zan.gov.kz/client/#!/doc/59407/rus/20.01.2015
 ---
 
 ## Параграф 11. Отчет об инциденте при воздушном движении
