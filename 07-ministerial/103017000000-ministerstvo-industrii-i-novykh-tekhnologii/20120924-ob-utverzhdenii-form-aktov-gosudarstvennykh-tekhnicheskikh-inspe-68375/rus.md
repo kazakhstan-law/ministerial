@@ -17,6 +17,11 @@ caused_by:
   title: Об утверждении форм актов государственных технических инспекторов
   link: https://zan.gov.kz/client/#!/doc/87695/rus
 source: https://zan.gov.kz/client/#!/doc/68375/rus/02.02.2015
+repealed_on: 2015-04-26
+repealed_by:
+  code: '87695'
+  title: Об утверждении форм актов государственных технических инспекторов
+  link: https://zan.gov.kz/client/#!/doc/87695/rus
 ---
 
 # Об утверждении форм актов государственных технических инспекторов
