@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/47659/rus/17.02.2014
+source: https://zan.gov.kz/client/#!/doc/47659/rus/13.02.2015
 ---
 
 <table>
@@ -105,7 +105,7 @@ Raphanus sativus L. var. oleifornis Pars.
 <tr>
 <th>
 Люцерна
-Medicado L.
+Medicago L.
 </th>
 </tr>
 <tr>
@@ -498,6 +498,17 @@ Onobrychis viciifolia Scop.
 <td></td>
 </tr>
 <tr>
+<td>КАРАБАЛЫКСКИЙ ГРАНАТОВЫЙ</td>
+<td>2015</td>
+<td>1,10,13</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>КАРАБАЛЫКСКИЙ РУБИНОВЫЙ</td>
 <td>2014</td>
 <td>1</td>
@@ -682,6 +693,17 @@ Agropyron et Schult.
 <td>2012</td>
 <td>3</td>
 <td>40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>БУРАБАЙ</td>
+<td>2015</td>
+<td>1,13</td>
+<td>19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1225,7 +1247,7 @@ Bromus arvensis L.
 <tr>
 <td>ЦЕЛИНОГРАДСКИЙ ЮБИЛЕЙНЫЙ</td>
 <td>2014</td>
-<td>1</td>
+<td>1,13</td>
 <td>19</td>
 <td></td>
 <td></td>

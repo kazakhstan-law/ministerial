@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/47659/rus/17.02.2014
+source: https://zan.gov.kz/client/#!/doc/47659/rus/13.02.2015
 ---
 
 <table>
@@ -192,6 +192,17 @@ source: https://zan.gov.kz/client/#!/doc/47659/rus/17.02.2014
 <td>3, 5, 6</td>
 <td>327, 328</td>
 <td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КУБАНЬ</td>
+<td>2015</td>
+<td>3</td>
+<td>330</td>
+<td>02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -505,6 +516,39 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td></td>
 </tr>
 <tr>
+<td>МАЙҚҰДЫҚ</td>
+<td>2015</td>
+<td>1, 10</td>
+<td>19</td>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>МАКРО</td>
+<td>2015</td>
+<td>10</td>
+<td>299</td>
+<td>03</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>МИРАКЕЛ</td>
+<td>2015</td>
+<td>13</td>
+<td>299</td>
+<td>02</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>МОБИЛЬ CL</td>
 <td>2011</td>
 <td>
@@ -563,6 +607,17 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td></td>
 </tr>
 <tr>
+<td>СМИЛЛА</td>
+<td>2015</td>
+<td>10</td>
+<td>299</td>
+<td>01</td>
+<td>F1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>СОЛАР CL</td>
 <td>2011</td>
 <td>13</td>
@@ -587,9 +642,9 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <tr>
 <td>ХАНТЕР</td>
 <td>2010</td>
-<td>10</td>
+<td>1,10,13</td>
 <td>292</td>
-<td></td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -602,6 +657,17 @@ Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 <td>64</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>RG 40301</td>
+<td>2015</td>
+<td>1</td>
+<td>342</td>
+<td>04</td>
+<td>F1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -682,6 +748,17 @@ Linum usitatissimum L. var. intermedia Vav. et. EII
 <td>1,8,10,13</td>
 <td>28</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЛИБРА</td>
+<td>2015</td>
+<td>5</td>
+<td>317</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1262,6 +1339,17 @@ Gossypium L.
 <td>14</td>
 <td>10</td>
 <td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>МЫРЗАШӨЛ - 80</td>
+<td>2015</td>
+<td>14</td>
+<td>10</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
