@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/78807/kaz/19.02.2014
+source: https://zan.gov.kz/client/#!/doc/78807/kaz/18.02.2015
 ---
 
 ## Ақпараттық технологияларды қолдану тиiмдiлiгiн бағалау әдістемесі

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/78807/rus/19.02.2014
+source: https://zan.gov.kz/client/#!/doc/78807/rus/18.02.2015
 ---
 
 ## Параграф 3. Оценка по подкритерию «Использование Интранет-портала государственных органов»
