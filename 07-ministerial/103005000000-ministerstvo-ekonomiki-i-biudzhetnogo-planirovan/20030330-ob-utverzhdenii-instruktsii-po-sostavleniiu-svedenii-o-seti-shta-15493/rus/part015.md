@@ -1,6 +1,11 @@
 ---
 part_of: ../rus.md
 source: https://zan.gov.kz/client/#!/doc/15493/rus/20.02.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '87859'
+  title: Инструкция по составлению сведений о сети, штатах, контингентах
+  link: https://zan.gov.kz/client/#!/doc/87859/rus
 ---
 
 ## Сведения о сети, штатах, контингентах организации по состоянию на 1-ое января 200_г.

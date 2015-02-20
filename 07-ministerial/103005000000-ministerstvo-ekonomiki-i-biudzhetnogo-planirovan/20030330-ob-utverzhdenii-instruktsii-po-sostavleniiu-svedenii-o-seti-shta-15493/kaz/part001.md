@@ -1,6 +1,11 @@
 ---
 part_of: ../kaz.md
 source: https://zan.gov.kz/client/#!/doc/15493/kaz/20.02.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '87859'
+  title: Желi, штаттар, контингенттер туралы мәлiметтердi жасау жөнiндегi нұсқаулық
+  link: https://zan.gov.kz/client/#!/doc/87859/kaz
 ---
 
 ## Желiлер, штаттар, контингенттер туралы мәлiметтердi түзу жөнiндегi нұсқаулық 1. Жалпы ережелер
