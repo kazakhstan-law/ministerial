@@ -11,8 +11,15 @@ approved_on: 2003-03-30
 approved_by:
 - '103005000000'
 version_date:
-  kaz: 2003-03-30
-  rus: 2003-03-30
+  kaz: 2015-02-20
+  rus: 2015-02-20
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/15493/kaz/30.03.2003
-  rus: https://zan.gov.kz/client/#!/doc/15493/rus/30.03.2003
+  kaz: https://zan.gov.kz/client/#!/doc/15493/kaz/20.02.2015
+  rus: https://zan.gov.kz/client/#!/doc/15493/rus/20.02.2015
+caused_by:
+  code: '87859'
+  requisite: Приказ Министра финансов Республики Казахстан от 20 февраля 2015 года № 108. Зарегистрирован в Министерстве юстиции Республики Казахстан 18 марта 2015 года № 10498
+  title:
+    rus: Инструкция по составлению сведений о сети, штатах, контингентах
+    kaz: Желi, штаттар, контингенттер туралы мәлiметтердi жасау жөнiндегi нұсқаулық
+  link: https://zan.gov.kz/client/#!/doc/87859/rus
