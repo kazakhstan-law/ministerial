@@ -18,6 +18,11 @@ caused_by:
   title: Инструкция по составлению сведений о сети, штатах, контингентах
   link: https://zan.gov.kz/client/#!/doc/87859/rus
 source: https://zan.gov.kz/client/#!/doc/15493/rus/20.02.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '87859'
+  title: Инструкция по составлению сведений о сети, штатах, контингентах
+  link: https://zan.gov.kz/client/#!/doc/87859/rus
 ---
 
 # Об утверждении Инструкции по составлению сведений о сети, штатах, контингентах

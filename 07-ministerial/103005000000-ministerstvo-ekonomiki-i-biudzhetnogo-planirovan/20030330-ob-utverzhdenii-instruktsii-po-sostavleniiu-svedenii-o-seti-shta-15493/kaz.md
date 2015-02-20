@@ -18,6 +18,11 @@ caused_by:
   title: Желi, штаттар, контингенттер туралы мәлiметтердi жасау жөнiндегi нұсқаулық
   link: https://zan.gov.kz/client/#!/doc/87859/kaz
 source: https://zan.gov.kz/client/#!/doc/15493/kaz/20.02.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '87859'
+  title: Желi, штаттар, контингенттер туралы мәлiметтердi жасау жөнiндегi нұсқаулық
+  link: https://zan.gov.kz/client/#!/doc/87859/kaz
 ---
 
 # Желілер, штаттар, контингенттер туралы Мәліметтерді түзу жөніндегі нұсқаулықты бекіту туралы
