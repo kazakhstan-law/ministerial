@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/15493/kaz/30.03.2003
+source: https://zan.gov.kz/client/#!/doc/15493/kaz/20.02.2015
 ---
 
 ## Желiлер, штаттар, контингенттер туралы мәлiметтердi түзу жөнiндегi нұсқаулық 1. Жалпы ережелер

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/15493/rus/30.03.2003
+source: https://zan.gov.kz/client/#!/doc/15493/rus/20.02.2015
 ---
 
 ## Сведения о сети, штатах, контингентах организации по состоянию на 1-ое января 200_г.
