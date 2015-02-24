@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/15297/kaz/27.10.2011
+source: https://zan.gov.kz/client/#!/doc/15297/kaz/24.02.2015
 ---
 
 ## Iшкi iстер органдарының лицензиялау және рұқсат беру қызметін ұйымдастыру туралы нұсқаулық
