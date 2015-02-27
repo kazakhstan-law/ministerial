@@ -13,6 +13,11 @@ approval_date: 2015-02-27
 version_date: 2015-02-27
 registry_number: '88385'
 source: https://zan.gov.kz/client/#!/doc/88385/kaz/27.02.2015
+repealed_on: 2019-01-01
+repealed_by:
+  code: '88385'
+  title: Энергия өндіруші ұйымдар тобы үшін электр энергиясына шекті тарифтерді бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/88385/kaz
 ---
 
 # Энергия өндіруші ұйымдар тобы үшін электр энергиясына шекті тарифтерді бекіту туралы
