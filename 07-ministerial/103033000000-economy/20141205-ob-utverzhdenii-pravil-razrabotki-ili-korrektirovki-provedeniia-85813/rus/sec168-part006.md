@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85813/rus/05.12.2014
+source: https://zan.gov.kz/client/#!/doc/85813/rus/13.03.2015
 ---
 
 ## Параграф 5. Порядок проведения оценки реализации

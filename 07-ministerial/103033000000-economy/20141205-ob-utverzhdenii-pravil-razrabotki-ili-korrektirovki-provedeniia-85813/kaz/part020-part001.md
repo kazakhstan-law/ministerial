@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85813/kaz/05.12.2014
+source: https://zan.gov.kz/client/#!/doc/85813/kaz/13.03.2015
 ---
 
 ## «Инвестициялық ұсыныстың ақпараттық парағы» нысаны
