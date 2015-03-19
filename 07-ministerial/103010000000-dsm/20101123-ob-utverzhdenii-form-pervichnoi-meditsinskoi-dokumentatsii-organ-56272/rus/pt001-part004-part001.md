@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56272/rus/06.03.2013
+source: https://zan.gov.kz/client/#!/doc/56272/rus/19.03.2015
 ---
 
 ## Дәрігердің баланы 1 айында тексеріп-қарауы (осмотр ребенка 1 месяца жизни врачом)

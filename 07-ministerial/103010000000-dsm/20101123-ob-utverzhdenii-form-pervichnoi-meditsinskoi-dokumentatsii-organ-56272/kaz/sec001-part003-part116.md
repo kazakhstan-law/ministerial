@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56272/kaz/06.03.2013
+source: https://zan.gov.kz/client/#!/doc/56272/kaz/19.03.2015
 ---
 
 ## Мейірбикенің үйдегі патронажы (21-күн)
