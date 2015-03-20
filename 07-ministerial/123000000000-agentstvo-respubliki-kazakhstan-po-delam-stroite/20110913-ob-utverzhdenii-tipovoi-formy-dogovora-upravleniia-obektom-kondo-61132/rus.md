@@ -17,6 +17,11 @@ caused_by:
   title: Об утверждении Типовой формы договора управления объектом кондоминиума
   link: https://zan.gov.kz/client/#!/doc/89119/rus
 source: https://zan.gov.kz/client/#!/doc/61132/rus/20.03.2015
+repealed_on: 2015-06-14
+repealed_by:
+  code: '89119'
+  title: Об утверждении Типовой формы договора управления объектом кондоминиума
+  link: https://zan.gov.kz/client/#!/doc/89119/rus
 ---
 
 # Об утверждении Типовой формы договора управления объектом кондоминиума

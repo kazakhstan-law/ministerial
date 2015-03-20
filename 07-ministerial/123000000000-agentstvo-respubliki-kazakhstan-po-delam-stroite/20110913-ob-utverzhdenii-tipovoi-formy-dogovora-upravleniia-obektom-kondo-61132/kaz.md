@@ -17,6 +17,11 @@ caused_by:
   title: Кондоминиум объектісін басқару шартының үлгі нысанын бекіту туралы
   link: https://zan.gov.kz/client/#!/doc/89119/kaz
 source: https://zan.gov.kz/client/#!/doc/61132/kaz/20.03.2015
+repealed_on: 2015-06-14
+repealed_by:
+  code: '89119'
+  title: Кондоминиум объектісін басқару шартының үлгі нысанын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/89119/kaz
 ---
 
 # Кондоминиум объектісін басқару шартының үлгілік нысанын бекіту туралы
