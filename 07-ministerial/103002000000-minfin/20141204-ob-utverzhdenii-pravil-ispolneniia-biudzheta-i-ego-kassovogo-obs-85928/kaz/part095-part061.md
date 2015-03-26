@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85928/kaz/24.12.2014
+source: https://zan.gov.kz/client/#!/doc/85928/kaz/26.03.2015
 ---
 
 ## Бірлесіп қаржыландыру қаражатын алуға өтінім
