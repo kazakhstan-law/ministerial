@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85801/rus/24.11.2014
+source: https://zan.gov.kz/client/#!/doc/85801/rus/06.04.2015
 ---
 
 ## Расчет расходов на компенсационные выплаты

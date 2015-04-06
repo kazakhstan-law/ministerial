@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85801/kaz/24.11.2014
+source: https://zan.gov.kz/client/#!/doc/85801/kaz/06.04.2015
 ---
 
 # Бюджеттік өтінімді жасау және ұсыну қағидаларын бекіту туралы
