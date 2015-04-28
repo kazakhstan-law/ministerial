@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/86279/kaz/25.12.2014
+source: https://zan.gov.kz/client/#!/doc/86279/kaz/28.04.2015
 ---
 
 ## 2.4-нысан Табыстар және шығыстар туралы есеп мың теңге

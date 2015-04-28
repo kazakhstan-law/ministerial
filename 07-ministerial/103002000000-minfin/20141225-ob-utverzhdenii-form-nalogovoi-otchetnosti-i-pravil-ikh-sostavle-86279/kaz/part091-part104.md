@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/86279/kaz/25.12.2014
+source: https://zan.gov.kz/client/#!/doc/86279/kaz/28.04.2015
 ---
 
 ## 2. Есепті жасау (851.00-нысаны)
