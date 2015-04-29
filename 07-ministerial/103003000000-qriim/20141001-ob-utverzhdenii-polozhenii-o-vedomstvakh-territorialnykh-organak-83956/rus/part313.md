@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/83956/rus/01.10.2014
+source: https://zan.gov.kz/client/#!/doc/83956/rus/29.04.2015
 ---
 
 ## 2. Основные задачи, функции, права и обязанности Департамента
