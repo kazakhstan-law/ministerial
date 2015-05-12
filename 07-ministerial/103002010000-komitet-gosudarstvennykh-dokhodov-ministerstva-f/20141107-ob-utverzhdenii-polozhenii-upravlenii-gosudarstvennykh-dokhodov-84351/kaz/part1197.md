@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/84351/kaz/27.01.2015
+source: https://zan.gov.kz/client/#!/doc/84351/kaz/12.05.2015
 ---
 
 ## 2. Басқарманың міндеттері, функциялары, құқықтары мен міндеттері
