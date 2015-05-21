@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85928/rus/26.03.2015
+source: https://zan.gov.kz/client/#!/doc/85928/rus/21.05.2015
 ---
 
 ## Правила исполнения бюджета и его кассового обслуживания

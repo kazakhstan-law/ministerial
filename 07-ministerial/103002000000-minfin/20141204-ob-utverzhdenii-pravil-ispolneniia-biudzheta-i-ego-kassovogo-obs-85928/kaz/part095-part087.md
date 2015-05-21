@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85928/kaz/26.03.2015
+source: https://zan.gov.kz/client/#!/doc/85928/kaz/21.05.2015
 ---
 
 ## ____ ж. «___» ______________ шетелдік валютаны айырбастауға № өтінім
