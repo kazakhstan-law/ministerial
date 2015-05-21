@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/70283/kaz/27.10.2014
+source: https://zan.gov.kz/client/#!/doc/70283/kaz/21.05.2015
 ---
 
 ## № ___ СЕНІМХАТ Берілген күні 20___ жылғы «___» ______________________
