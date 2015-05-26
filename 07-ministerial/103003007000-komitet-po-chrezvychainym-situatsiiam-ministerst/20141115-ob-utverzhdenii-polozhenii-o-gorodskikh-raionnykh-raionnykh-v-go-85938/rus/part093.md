@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85938/rus/15.11.2014
+source: https://zan.gov.kz/client/#!/doc/85938/rus/26.05.2015
 ---
 
 ## 2. Основные задачи, функции, права и обязанности Управления
