@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/64051/rus/22.08.2014
+source: https://zan.gov.kz/client/#!/doc/64051/rus/04.06.2015
 ---
 
 # Об утверждении Правил совершения нотариальных действий нотариусами
