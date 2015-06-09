@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/83956/rus/29.04.2015
+source: https://zan.gov.kz/client/#!/doc/83956/rus/09.06.2015
 ---
 
 ## 3. Организация деятельности Департамента
