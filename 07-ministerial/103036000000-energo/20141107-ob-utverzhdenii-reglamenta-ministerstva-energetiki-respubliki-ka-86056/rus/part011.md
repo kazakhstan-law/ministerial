@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/86056/rus/07.11.2014
+source: https://zan.gov.kz/client/#!/doc/86056/rus/12.06.2015
 ---
 
 ## 9. Контроль исполнения
