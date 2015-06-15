@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/75267/kaz/10.12.2014
+source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 ---
 
 ## Арнайы (түзету) мектептерде пайдалануға рұқсат етілген оқу әдебиеттерінің тізбесі
