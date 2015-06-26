@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49310/rus/14.01.2015
+source: https://zan.gov.kz/client/#!/doc/49310/rus/26.06.2015
 ---
 
 6\. Детальное описание системы фармаконадзора и управления рисками
