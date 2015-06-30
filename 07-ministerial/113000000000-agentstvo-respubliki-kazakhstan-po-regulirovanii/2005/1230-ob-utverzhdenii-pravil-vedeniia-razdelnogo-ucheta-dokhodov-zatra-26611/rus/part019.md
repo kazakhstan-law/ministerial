@@ -1,0 +1,1070 @@
+↑ [Вся редакция](../rus.md)
+
+> *Приложение 18*  
+> *к Правилам ведения раздельного*  
+> *учета доходов, затрат и задействованных*  
+> *активов Субъектами естественной*  
+> *монополии, оказывающими услуги*  
+> *магистральной железнодорожной сети*
+
+## Отчет о задействованных нематериальных активах по услугам магистральной железнодорожной сети тыс. тенге
+
+<table>
+<tr>
+<td rowspan="2">
+К
+о
+д
+о
+п
+е
+р
+а
+ц
+и
+и
+</td>
+<td rowspan="2">
+Код
+груп-
+пы
+НМА
+</td>
+<td colspan="3" rowspan="2">Описание</td>
+<td rowspan="2">
+N
+c
+т
+р
+о
+к
+и
+</td>
+<td colspan="3">На начало года</td>
+<td rowspan="2">Всего</td>
+</tr>
+<tr>
+<td>
+перво-
+нача-
+льная
+стои-
+мость
+</td>
+<td>
+на-
+коп-
+лен-
+ный
+из-
+нос
+</td>
+<td>
+Ос-
+та-
+точ-
+ная
+сто-
+имо-
+сть
+</td>
+</tr>
+<tr>
+<th colspan="6">А</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>
+гр.4 =
+Е* гр.5: гр.8
+</th>
+</tr>
+<tr>
+<th colspan="5">
+Задействованные немате-
+риальные активы 1 категории, всего
+</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>01</td>
+<td colspan="4">Предоставление магистрального пути</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td></td>
+<td colspan="3"></td>
+<td>1.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td>1.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>02</td>
+<td colspan="4">
+Предоставление
+систем электро-
+снабжения
+</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td></td>
+<td colspan="3"></td>
+<td>2.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td>2.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>03</td>
+<td colspan="4">Предоставление систем сигнализации и связи</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td></td>
+<td colspan="3"></td>
+<td>3.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td>3.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>04</td>
+<td colspan="4">
+Предоставление в пользование программно-
+аппаратного комплекса информационных систем
+</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td>4.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>4.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>05</td>
+<td colspan="4">Пожарные и восстановительные поезда</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td>5.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>5.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>06</td>
+<td colspan="4">Передача (подача и уборка) вагонов (составов) между путевыми парками, соединительными и специальными путями</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td>6.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>6.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="4">Переработка вагонов (составов)</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td>7.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>7.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>08</td>
+<td colspan="4">Прием и отправление поездов</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td>8.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>8.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>09</td>
+<td colspan="4">Перестановка вагонов с одной колеи на другую</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>9.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>9.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="4">Техническое обслуживание грузовых вагонов</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>10.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>10.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="4">Коммерческое обслуживание</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>11.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>11.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="4">Предоставление площадок для погрузки, выгрузки грузов</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>12.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>12.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="4">
+Техническое обслужи-
+вание пассажирских и багажных вагонов
+</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>13.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>13.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="4">Предоставление платформ для перевозчиков пассажиров, багажа и грузобагажа</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>14.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>14.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="4">Предоставление вокзалов для осуществления пассажирских перевозок</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>15.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>15.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="4">Предоставление устройств по информационному обслуживанию пассажиров</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td>16.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>16.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="4">Электроснабжение на тягу поездов</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td>17.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>17.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="4">
+Охрана груженных вагонов, отцеплен-
+ных по неисправности
+</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td>18.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>18.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="4">Замена колесных пар</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td>19.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>19.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="4">
+Ремонт неисправ-
+ностей вагонов
+</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td>20.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>20.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="4">
+Стоянка вагонов вне операций перевозоч-
+ного процесса
+</td>
+<td>21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td>21.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>21.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="4">Абсорбированные производственные активы</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td>22.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>22.N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+продолжение таблицы
+
+<table>
+<tr>
+<td colspan="4">Поступило</td>
+<td rowspan="2">Всего</td>
+<td colspan="4">
+Выбыло (по остаточной
+стоимости)
+</td>
+</tr>
+<tr>
+<td>
+введено
+новых
+объек-
+тов
+</td>
+<td>
+модер-
+низа-
+ция,
+увели-
+чиваю-
+щая
+стои-
+мость
+</td>
+<td>
+пере-
+оцен-
+ка
+</td>
+<td>
+П
+р
+о
+ч
+е
+е
+</td>
+<td>
+спи-
+сано
+</td>
+<td>
+реали-
+зовано
+</td>
+<td>
+реин-
+декса-
+ция
+</td>
+<td>
+Про-
+чее
+</td>
+</tr>
+<tr>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>
+гр.9 =
+Е*
+гр.10:
+гр.13
+</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+продолжение таблицы
+
+<table>
+<tr>
+<td colspan="3">на конец года</td>
+<td>
+За отчетный
+период
+</td>
+</tr>
+<tr>
+<td>
+Перво-
+начальная
+стоимость
+</td>
+<td>
+Накопле-
+нный износ
+</td>
+<td>
+Остаточ-
+ная
+стоимость
+</td>
+<td>
+Начисленный
+износ
+</td>
+</tr>
+<tr>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
