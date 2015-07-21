@@ -11,8 +11,15 @@ approved_on: 2015-03-18
 approved_by:
 - '103033000000'
 version_date:
-  kaz: 2015-03-18
-  rus: 2015-03-18
+  kaz: 2015-07-21
+  rus: 2015-07-21
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/90261/kaz/18.03.2015
-  rus: https://zan.gov.kz/client/#!/doc/90261/rus/18.03.2015
+  kaz: https://zan.gov.kz/client/#!/doc/90261/kaz/21.07.2015
+  rus: https://zan.gov.kz/client/#!/doc/90261/rus/21.07.2015
+caused_by:
+  code: '91905'
+  requisite: Приказ от 21.07.2015 №548,  Министерства национальной экономики Республики Казахстан
+  title:
+    rus: О признании утратившими силу некоторых приказов Министра национальной экономики Республики Казахстан
+    kaz: Қазақстан Республикасы Ұлттық экономика министрінің кейбір бұйрықтарының күшін жою туралы
+  link: https://zan.gov.kz/client/#!/doc/91905/rus
