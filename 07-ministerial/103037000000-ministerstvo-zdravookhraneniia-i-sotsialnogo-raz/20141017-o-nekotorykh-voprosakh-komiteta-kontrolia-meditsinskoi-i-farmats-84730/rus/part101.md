@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/84730/rus/17.10.2014
+source: https://zan.gov.kz/client/#!/doc/84730/rus/29.07.2015
 ---
 
 ## 4. Имущество Департамента
