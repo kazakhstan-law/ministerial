@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85321/rus/20.08.2014
+source: https://zan.gov.kz/client/#!/doc/85321/rus/30.07.2015
 ---
 
 ## Параграф 5. Развод смены, прием и сдача дежурства
