@@ -1398,6 +1398,8 @@ ___________________________________________
 
 # Перечень показателей Плана развития
 
+> *Сноска. Приложение 2 с изменением, внесенным приказом Министра национальной экономики РК от 06.08.2015 № 597 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 1. Общие сведения о национальном управляющем холдинге (национальном холдинге, национальной компании с участием государства в уставном капитале) (далее – Компания):
 
 1.1. информация о создании Компании:
@@ -1569,20 +1571,183 @@ ___________________________________________
 </tr>
 </table>
 
-1.2. корпоративная структура управления Компании (участие Компании в юридических лицах, акции (доли участия) которых ей принадлежат с указанием размера пакета акций (доли участия):
+«1.2 корпоративная структура группы Компании с указанием всех организаций, входящих в его группу, в том числе являющимися нерезидентами Республики Казахстан по состоянию на ________:
 
 > *форма 2*
 
 <table>
 <tr>
-<td>№ п/п</td>
-<td>Наименование юридического лица, акции (доли участия) которых принадлежат Компании</td>
-<td>Размер пакета акций (доли участия), %</td>
+<td colspan="6">Компания</td>
+<td colspan="5">Организации первого уровня</td>
+<td colspan="5">Организации второго уровня</td>
+<td colspan="6">Организации n уровня</td>
+</tr>
+<tr>
+<td>ОПФ</td>
+<td colspan="2">
+Б
+ИН
+</td>
+<td>наименование</td>
+<td colspan="2">% акций (долей участия)</td>
+<td>ОПФ</td>
+<td>БИН</td>
+<td colspan="2">наименование</td>
+<td>% акций (долей участия)</td>
+<td>ОПФ</td>
+<td colspan="2">
+Б
+ИН
+</td>
+<td>наименование</td>
+<td>% акций (долей участия)</td>
+<td colspan="2">
+О
+ПФ
+</td>
+<td>БИН</td>
+<td colspan="2">наименование</td>
+<td>% акций (долей участия)</td>
+</tr>
+<tr>
+<td rowspan="5"></td>
+<td colspan="2" rowspan="5"></td>
+<td rowspan="5"></td>
+<td colspan="2" rowspan="5"></td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+<td colspan="2" rowspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+</table>
+
+Сводная информация о количестве субъектов квазигосударственного сектора
+
+<table>
+<tr>
+<td colspan="2">ОПФ</td>
+<td colspan="3">Дочерние организации</td>
+<td colspan="4">Организации первого уровня</td>
+<td colspan="4">Организации второго уровня</td>
+<td colspan="4">Организации третьего уровня</td>
+<td colspan="3">Организации n уровня</td>
+<td colspan="2">Итого</td>
+</tr>
+<tr>
+<td colspan="2">АО</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">ТОО</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Иная ОПФ</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Итого</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 </table>
 

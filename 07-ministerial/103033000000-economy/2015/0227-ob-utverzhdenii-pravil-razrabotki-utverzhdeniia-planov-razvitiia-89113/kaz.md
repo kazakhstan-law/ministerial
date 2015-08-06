@@ -1377,6 +1377,8 @@ n-міндет
 
 # Даму жоспарының көрсеткіштер тізбесі
 
+> *Ескерту. 2-қосымшаға өзгеріс енгізілді - ҚР Ұлттық экономика министрінің 06.08.2015 № 597 (алғаш ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+
 1. Ұлттық басқарушы холдинг (жарғылық капиталына мемлекет қатысатын ұлттық холдинг, ұлттық компания) (бұдан әрі – Компания) туралы жалпы мәліметтер:
 
 1.1. Компанияның құрылуы туралы ақпарат:
@@ -1548,20 +1550,174 @@ n-міндет
 </tr>
 </table>
 
-1.2. Компанияны корпоративтік басқару құрылымы (акциялар пакетінің (қатысу үлесінің) мөлшерін көрсете отырып, Компанияның акциялары (қатысу үлестері) өзіне тиесілі заңды тұлғаларға қатысуы:
+1.2. _________ жағдай бойынша Компания тобының, оның тобына кіретін барлық, оның ішінде Қазақстан Республикасының резиденттері болып табылмайтын ұйымдарды көрсете отырып, корпоративтік құрылымы:
 
 > *2-нысан*
 
 <table>
 <tr>
-<td>№ р/с</td>
-<td>Акциялары (қатысу үлестері) Компанияға тиесілі заңды тұлғаның атауы</td>
-<td>Акциялар пакетінің (қатысу үлестерінің) мөлшері %</td>
+<td colspan="5">Компания</td>
+<td colspan="5">Бірінші деңгейдегі ұйымдар</td>
+<td colspan="6">Екінші деңгейдегі ұйымдар</td>
+<td colspan="5">n деңгейдегі ұйымдар</td>
+</tr>
+<tr>
+<td>ҰҚН</td>
+<td>БСН</td>
+<td colspan="2">атауы</td>
+<td>акциялардың % (қатысу үлестері)</td>
+<td colspan="2">ҰҚН</td>
+<td>БСН</td>
+<td>атауы</td>
+<td>акциялардың % (қатысу үлестері)</td>
+<td>ҰҚН</td>
+<td colspan="2">БСН</td>
+<td>атауы</td>
+<td colspan="2">акциялардың % (қатысу үлестері)</td>
+<td>ҰҚН</td>
+<td>БСН</td>
+<td colspan="2">атауы</td>
+<td>акциялардың % (қатысу үлестері)</td>
+</tr>
+<tr>
+<td rowspan="5"></td>
+<td rowspan="5"></td>
+<td colspan="2" rowspan="5"></td>
+<td rowspan="5"></td>
+<td colspan="2" rowspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+</table>
+
+Квазимемлекеттік сектор субъектілерінің саны туралы жиынтық ақпарат
+
+<table>
+<tr>
+<td colspan="3">ҰҚН</td>
+<td colspan="3">Еншілес ұйымдар</td>
+<td colspan="3">Бірінші деңгейдегі ұйымдар</td>
+<td colspan="3">Екінші деңгейдегі ұйымдар</td>
+<td colspan="3">Үшінші деңгейдегі ұйымдар</td>
+<td colspan="4">n деңгейдегі ұйымдар</td>
+<td colspan="2">Жиыны</td>
+</tr>
+<tr>
+<td colspan="3">АҚ</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">ЖШС</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Өзге де ҰҚН</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Жиыны</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 </tr>
 </table>
 
