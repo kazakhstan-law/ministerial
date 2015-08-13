@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/83148/kaz/17.07.2014
+source: https://zan.gov.kz/client/#!/doc/83148/kaz/13.08.2015
 ---
 
 ## 1. ІІД ЖБО және қалалардың ІІБ үй-жайлары:
