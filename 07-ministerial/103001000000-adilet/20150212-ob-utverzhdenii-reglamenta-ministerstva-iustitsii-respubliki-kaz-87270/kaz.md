@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/87270/kaz/30.06.2015
+source: https://zan.gov.kz/client/#!/doc/87270/kaz/24.08.2015
 ---
 
 # Қазақстан Республикасы Әділет министрлігінің регламентін бекіту туралы

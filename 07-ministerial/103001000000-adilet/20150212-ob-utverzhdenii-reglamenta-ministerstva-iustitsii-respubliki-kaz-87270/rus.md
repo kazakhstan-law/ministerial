@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/87270/rus/30.06.2015
+source: https://zan.gov.kz/client/#!/doc/87270/rus/24.08.2015
 ---
 
 # Об утверждении Регламента Министерства юстиции Республики Казахстан
