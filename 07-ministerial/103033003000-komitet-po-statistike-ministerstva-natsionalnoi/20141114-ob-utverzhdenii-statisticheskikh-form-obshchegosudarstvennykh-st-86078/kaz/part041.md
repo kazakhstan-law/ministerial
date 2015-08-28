@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/86078/kaz/14.11.2014
+source: https://zan.gov.kz/client/#!/doc/86078/kaz/28.08.2015
 ---
 
 ## 3-бөлім. «Санаториялық-курорттық ұйымның медициналық персоналының сипаттамасы»:
