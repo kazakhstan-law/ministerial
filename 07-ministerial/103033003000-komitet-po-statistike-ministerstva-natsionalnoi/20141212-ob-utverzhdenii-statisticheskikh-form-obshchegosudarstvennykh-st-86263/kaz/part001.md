@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/86263/kaz/12.12.2014
+source: https://zan.gov.kz/client/#!/doc/86263/kaz/02.09.2015
 ---
 
 ## 1. Орналастыру орындары туралы жалпы мәліметтер

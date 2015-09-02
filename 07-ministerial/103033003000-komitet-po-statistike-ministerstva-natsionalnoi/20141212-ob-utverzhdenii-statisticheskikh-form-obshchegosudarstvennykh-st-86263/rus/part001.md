@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/86263/rus/12.12.2014
+source: https://zan.gov.kz/client/#!/doc/86263/rus/02.09.2015
 ---
 
 ## 1. Орналастыру орыны туралы жалпы мәліметтер
