@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/43900/kaz/28.07.2015
+source: https://zan.gov.kz/client/#!/doc/43900/kaz/07.09.2015
 ---
 
 # Салықтық әкімшілендірудің кейбір мәселелері туралы
