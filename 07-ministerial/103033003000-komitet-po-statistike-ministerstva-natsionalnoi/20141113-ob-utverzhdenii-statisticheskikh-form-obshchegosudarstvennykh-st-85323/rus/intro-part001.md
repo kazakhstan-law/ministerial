@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85323/rus/13.11.2014
+source: https://zan.gov.kz/client/#!/doc/85323/rus/08.09.2015
 ---
 
 ## Айдың 20-күніне бағытын және тарифін қосылған құн салығын есепке алусыз, теңгемен көрсетіңіз
