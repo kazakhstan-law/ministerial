@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/75279/rus/28.08.2013
+source: https://zan.gov.kz/client/#!/doc/75279/rus/15.09.2015
 ---
 
 ## 7. Болезни уха, горла, носа, полости рта и челюстей
