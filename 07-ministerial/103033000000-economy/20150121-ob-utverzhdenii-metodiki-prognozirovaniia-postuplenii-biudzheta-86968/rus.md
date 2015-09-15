@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/86968/rus/21.01.2015
+source: https://zan.gov.kz/client/#!/doc/86968/rus/15.09.2015
 ---
 
 # Об утверждении Методики прогнозирования поступлений бюджета
