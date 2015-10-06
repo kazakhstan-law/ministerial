@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85877/kaz/09.12.2014
+source: https://zan.gov.kz/client/#!/doc/85877/kaz/06.10.2015
 ---
 
 ## Құрметті респондент! Сізді қызметті бастауыңызбен құттықтаймыз!
