@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/90696/kaz/30.01.2015
+source: https://zan.gov.kz/client/#!/doc/90696/kaz/06.10.2015
 ---
 
 ## 2-бөлім «Өндірілген өнім бойынша мамандандырылған қуаттарды пайдалану туралы деректер»:

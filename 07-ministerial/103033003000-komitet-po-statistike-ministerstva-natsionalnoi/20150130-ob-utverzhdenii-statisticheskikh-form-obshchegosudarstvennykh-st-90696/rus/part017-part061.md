@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/90696/rus/30.01.2015
+source: https://zan.gov.kz/client/#!/doc/90696/rus/06.10.2015
 ---
 
 ## Қажет болған жағдайда қосымша беттерде жалғастырыңыз
