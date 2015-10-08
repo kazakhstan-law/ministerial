@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85076/rus/10.11.2014
+source: https://zan.gov.kz/client/#!/doc/85076/rus/08.10.2015
 ---
 
 ## 9. Представление Национальным Банком неполной и некачественной информации
