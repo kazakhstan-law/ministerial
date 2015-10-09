@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/49189/kaz/08.10.2013
+source: https://zan.gov.kz/client/#!/doc/49189/kaz/09.10.2015
 ---
 
 # Бюджеттік есепке алуды жүргізу ережесін бекіту туралы

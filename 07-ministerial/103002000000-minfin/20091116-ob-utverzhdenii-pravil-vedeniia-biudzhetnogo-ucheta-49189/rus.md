@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/49189/rus/08.10.2013
+source: https://zan.gov.kz/client/#!/doc/49189/rus/09.10.2015
 ---
 
 # Об утверждении Правил ведения бюджетного учета

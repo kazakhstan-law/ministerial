@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49189/rus/08.10.2013
+source: https://zan.gov.kz/client/#!/doc/49189/rus/09.10.2015
 ---
 
 ## Баланс исполнения местного бюджета на «__» _______ 20 ___ г.

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49189/kaz/08.10.2013
+source: https://zan.gov.kz/client/#!/doc/49189/kaz/09.10.2015
 ---
 
 ## Қазынашылық комитетінің балансы 20___ жылғы «__» __________
