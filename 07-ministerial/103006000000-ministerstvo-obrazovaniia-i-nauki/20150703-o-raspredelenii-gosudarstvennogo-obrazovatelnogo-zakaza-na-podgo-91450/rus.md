@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
+source: https://zan.gov.kz/client/#!/doc/91450/rus/19.10.2015
 ---
 
 # О распределении государственного образовательного заказа на подготовку специалистов с высшим и послевузовским образованием по специальностям на 2015-2016 учебный год
@@ -4203,13 +4203,14 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 </tr>
 </table>
 
-> *Приложение 3*  
-> *к приказу Министра*  
-> *образования и науки*  
+> *Приложение 3 к приказу*  
+> *Министра образования и науки*  
 > *Республики Казахстан*  
 > *от 3 июля 2015 года № 437*
 
 # Государственный образовательный заказ на подготовку магистров на 2015-2016 учебный год
+
+> *Сноска. Приложение 3 в редакции приказа и.о. Министра образования и науки РК от 19.10.2015 № 603 (вводится в действие после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -4222,15 +4223,15 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td>профильное направление</td>
 </tr>
 <tr>
-<th></th>
-<th>1. Образование</th>
-<th>1164</th>
-<th>0</th>
+<td></td>
+<td>1. Образование</td>
+<td>1172</td>
+<td>0</td>
 </tr>
 <tr>
 <td>6M010100</td>
 <td>Дошкольное обучение и воспитание</td>
-<td>18</td>
+<td>19</td>
 <td></td>
 </tr>
 <tr>
@@ -4242,7 +4243,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M010300</td>
 <td>Педагогика и психология</td>
-<td>101</td>
+<td>102</td>
 <td></td>
 </tr>
 <tr>
@@ -4254,7 +4255,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M010500</td>
 <td>Дефектология</td>
-<td>16</td>
+<td>17</td>
 <td></td>
 </tr>
 <tr>
@@ -4266,19 +4267,19 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M010700</td>
 <td>Изобразительное искусство и черчение</td>
-<td>11</td>
+<td>10</td>
 <td></td>
 </tr>
 <tr>
 <td>6M010800</td>
 <td>Физическая культура и спорт</td>
-<td>23</td>
+<td>25</td>
 <td></td>
 </tr>
 <tr>
 <td>6M010900</td>
 <td>Математика</td>
-<td>94</td>
+<td>95</td>
 <td></td>
 </tr>
 <tr>
@@ -4290,7 +4291,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M011100</td>
 <td>Информатика</td>
-<td>100</td>
+<td>102</td>
 <td></td>
 </tr>
 <tr>
@@ -4302,7 +4303,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M011300</td>
 <td>Биология</td>
-<td>95</td>
+<td>94</td>
 <td></td>
 </tr>
 <tr>
@@ -4338,13 +4339,13 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M011900</td>
 <td>Иностранный язык: два иностранных языка</td>
-<td>108</td>
+<td>109</td>
 <td></td>
 </tr>
 <tr>
 <td>6M012000</td>
 <td>Профессиональное обучение</td>
-<td>38</td>
+<td>39</td>
 <td></td>
 </tr>
 <tr>
@@ -4366,15 +4367,15 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>2. Гуманитарные науки</th>
-<th>508</th>
-<th>0</th>
+<td></td>
+<td>2. Гуманитарные науки</td>
+<td>511</td>
+<td>0</td>
 </tr>
 <tr>
 <td>6M020100</td>
 <td>Философия</td>
-<td>26</td>
+<td>27</td>
 <td></td>
 </tr>
 <tr>
@@ -4386,13 +4387,13 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M020300</td>
 <td>История</td>
-<td>80</td>
+<td>79</td>
 <td></td>
 </tr>
 <tr>
 <td>6M020400</td>
 <td>Культурология</td>
-<td>32</td>
+<td>34</td>
 <td></td>
 </tr>
 <tr>
@@ -4410,7 +4411,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M020700</td>
 <td>Переводческое дело</td>
-<td>100</td>
+<td>99</td>
 <td></td>
 </tr>
 <tr>
@@ -4434,7 +4435,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M021200</td>
 <td>Тюркология</td>
-<td>8</td>
+<td>10</td>
 <td></td>
 </tr>
 <tr>
@@ -4458,19 +4459,19 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td></td>
 <td>3. Право</td>
-<td>98</td>
+<td>101</td>
 <td>0</td>
 </tr>
 <tr>
 <td>6M030100</td>
 <td>Юриспруденция</td>
-<td>74</td>
+<td>75</td>
 <td></td>
 </tr>
 <tr>
 <td>6M030200</td>
 <td>Международное право</td>
-<td>20</td>
+<td>22</td>
 <td></td>
 </tr>
 <tr>
@@ -4480,10 +4481,28 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>4. Искусство</th>
-<th>36</th>
-<th>0</th>
+<td></td>
+<td>4. Искусство</td>
+<td>41</td>
+<td>0</td>
+</tr>
+<tr>
+<td>6М040400</td>
+<td>Традиционное музыкальное искусство</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>6М040800</td>
+<td>Искусство эстрады</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>6М041100</td>
+<td>Композиция</td>
+<td>1</td>
+<td></td>
 </tr>
 <tr>
 <td>6M041300</td>
@@ -4495,6 +4514,12 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td>6M041400</td>
 <td>Графика</td>
 <td>4</td>
+<td></td>
+</tr>
+<tr>
+<td>6М041600</td>
+<td>Искусствоведение</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
@@ -4522,10 +4547,10 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>5. Социальные науки, экономика и бизнес</th>
-<th>404</th>
-<th>0</th>
+<td></td>
+<td>5. Социальные науки, экономика и бизнес</td>
+<td>409</td>
+<td>0</td>
 </tr>
 <tr>
 <td>6M050100</td>
@@ -4536,13 +4561,13 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M050200</td>
 <td>Политология</td>
-<td>12</td>
+<td>13</td>
 <td></td>
 </tr>
 <tr>
 <td>6M050300</td>
 <td>Психология</td>
-<td>20</td>
+<td>21</td>
 <td></td>
 </tr>
 <tr>
@@ -4578,7 +4603,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M050900</td>
 <td>Финансы</td>
-<td>46</td>
+<td>47</td>
 <td></td>
 </tr>
 <tr>
@@ -4596,7 +4621,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M051300</td>
 <td>Мировая экономика</td>
-<td>8</td>
+<td>10</td>
 <td></td>
 </tr>
 <tr>
@@ -4636,10 +4661,10 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>6. Естественные науки</th>
-<th>724</th>
-<th>0</th>
+<td></td>
+<td>6. Естественные науки</td>
+<td>720</td>
+<td>0</td>
 </tr>
 <tr>
 <td>6M060100</td>
@@ -4662,7 +4687,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M060400</td>
 <td>Физика</td>
-<td>82</td>
+<td>83</td>
 <td></td>
 </tr>
 <tr>
@@ -4680,7 +4705,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M060700</td>
 <td>Биология</td>
-<td>102</td>
+<td>97</td>
 <td></td>
 </tr>
 <tr>
@@ -4720,15 +4745,15 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>7. Технические науки и технологии</th>
-<th>1402</th>
-<th>1788</th>
+<td></td>
+<td>7. Технические науки и технологии</td>
+<td>1383</td>
+<td>1799</td>
 </tr>
 <tr>
 <td>6M070100</td>
 <td>Биотехнология</td>
-<td>92</td>
+<td>91</td>
 <td></td>
 </tr>
 <tr>
@@ -4740,7 +4765,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M070300</td>
 <td>Информационные системы</td>
-<td>92</td>
+<td>82</td>
 <td>150</td>
 </tr>
 <tr>
@@ -4752,7 +4777,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M070500</td>
 <td>Математическое и компьютерное моделирование</td>
-<td>22</td>
+<td>23</td>
 <td></td>
 </tr>
 <tr>
@@ -4770,7 +4795,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M070800</td>
 <td>Нефтегазовое дело</td>
-<td>68</td>
+<td>58</td>
 <td></td>
 </tr>
 <tr>
@@ -4788,7 +4813,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M071100</td>
 <td>Геодезия</td>
-<td>30</td>
+<td>29</td>
 <td></td>
 </tr>
 <tr>
@@ -4812,7 +4837,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M071700</td>
 <td>Теплоэнергетика</td>
-<td>46</td>
+<td>47</td>
 <td></td>
 </tr>
 <tr>
@@ -4824,7 +4849,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M071900</td>
 <td>Радиотехника, электроника и телекоммуникации</td>
-<td>50</td>
+<td>51</td>
 <td></td>
 </tr>
 <tr>
@@ -4836,7 +4861,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M072100</td>
 <td>Химическая технология органических веществ</td>
-<td>8</td>
+<td>7</td>
 <td>112</td>
 </tr>
 <tr>
@@ -4855,7 +4880,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td>6M072400</td>
 <td>Технологические машины и оборудование (по отраслям)</td>
 <td>12</td>
-<td>124</td>
+<td>135</td>
 </tr>
 <tr>
 <td>6M072600</td>
@@ -4890,7 +4915,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M073100</td>
 <td>Безопасность жизнедеятельности и защита окружающей среды</td>
-<td>35</td>
+<td>36</td>
 <td></td>
 </tr>
 <tr>
@@ -4914,7 +4939,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M073500</td>
 <td>Пищевая безопасность</td>
-<td>20</td>
+<td>21</td>
 <td>140</td>
 </tr>
 <tr>
@@ -5008,10 +5033,10 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>8. Сельскохозяйственные науки</th>
-<th>230</th>
-<th>112</th>
+<td></td>
+<td>8. Сельскохозяйственные науки</td>
+<td>230</td>
+<td>101</td>
 </tr>
 <tr>
 <td>6M080100</td>
@@ -5023,7 +5048,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td>6M080200</td>
 <td>Технология производства продуктов животноводства</td>
 <td>48</td>
-<td>62</td>
+<td>51</td>
 </tr>
 <tr>
 <td>6M080300</td>
@@ -5080,21 +5105,21 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>9. Услуги</th>
-<th>102</th>
-<th>0</th>
+<td></td>
+<td>9. Услуги</td>
+<td>105</td>
+<td>0</td>
 </tr>
 <tr>
 <td>6M090100</td>
 <td>Организация перевозок, движения и эксплуатация транспорта</td>
-<td>12</td>
+<td>14</td>
 <td></td>
 </tr>
 <tr>
 <td>6M090200</td>
 <td>Туризм</td>
-<td>26</td>
+<td>27</td>
 <td></td>
 </tr>
 <tr>
@@ -5112,7 +5137,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M090500</td>
 <td>Социальная работа</td>
-<td>8</td>
+<td>9</td>
 <td></td>
 </tr>
 <tr>
@@ -5124,7 +5149,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6M090800</td>
 <td>Оценка</td>
-<td>8</td>
+<td>7</td>
 <td></td>
 </tr>
 <tr>
@@ -5152,10 +5177,10 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>10. Военное дело и безопасность</th>
-<th>4</th>
-<th>0</th>
+<td></td>
+<td>10. Военное дело и безопасность</td>
+<td>4</td>
+<td>0</td>
 </tr>
 <tr>
 <td>6M100200</td>
@@ -5164,10 +5189,10 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>12. Ветеринария</th>
-<th>110</th>
-<th>0</th>
+<td></td>
+<td>11. Ветеринария</td>
+<td>110</td>
+<td>0</td>
 </tr>
 <tr>
 <td>6M120100</td>
@@ -5182,31 +5207,32 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>ИТОГО</th>
-<th>4782</th>
-<th>1900</th>
+<td></td>
+<td>ИТОГО</td>
+<td>4786</td>
+<td>1900</td>
 </tr>
 </table>
 
-> *Приложение 4*  
-> *к приказу Министра*  
-> *образования и науки*  
+> *Приложение 4 к приказу*  
+> *Министра образования и науки*  
 > *Республики Казахстан*  
 > *от 3 июля 2015 года № 437*
 
 # Государственный образовательный заказ на подготовку докторов PhD на 2015-2016 учебный год
 
+> *Сноска. Приложение 4 в редакции приказа и.о. Министра образования и науки РК от 19.10.2015 № 603 (вводится в действие после дня его первого официального опубликования).*
+
 <table>
 <tr>
 <td>Код</td>
 <td>Наименование специальности</td>
-<td>кол-во мест</td>
+<td>количество мест</td>
 </tr>
 <tr>
-<th></th>
-<th>1. Образование</th>
-<th>70</th>
+<td></td>
+<td>1. Образование</td>
+<td>70</td>
 </tr>
 <tr>
 <td>6D010100</td>
@@ -5221,12 +5247,12 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D010300</td>
 <td>Педагогика и психология</td>
-<td>14</td>
+<td>15</td>
 </tr>
 <tr>
 <td>6D010500</td>
 <td>Дефектология</td>
-<td>2</td>
+<td>1</td>
 </tr>
 <tr>
 <td>6D010700</td>
@@ -5261,7 +5287,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D011300</td>
 <td>Биология</td>
-<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6D011400</td>
@@ -5281,7 +5307,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D011800</td>
 <td>Русский язык и литература</td>
-<td>4</td>
+<td>3</td>
 </tr>
 <tr>
 <td>6D011900</td>
@@ -5299,9 +5325,9 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td>4</td>
 </tr>
 <tr>
-<th></th>
-<th>2. Гуманитарные науки</th>
-<th>74</th>
+<td></td>
+<td>2. Гуманитарные науки</td>
+<td>75</td>
 </tr>
 <tr>
 <td>6D020100</td>
@@ -5311,7 +5337,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D020200</td>
 <td>Международные отношения</td>
-<td>3</td>
+<td>4</td>
 </tr>
 <tr>
 <td>6D020300</td>
@@ -5326,12 +5352,12 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D020500</td>
 <td>Филология</td>
-<td>7</td>
+<td>8</td>
 </tr>
 <tr>
 <td>6D020600</td>
 <td>Религиоведение</td>
-<td>7</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6D020700</td>
@@ -5341,7 +5367,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D020800</td>
 <td>Археология и этнология</td>
-<td>7</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6D020900</td>
@@ -5361,7 +5387,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D021300</td>
 <td>Лингвистика</td>
-<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6D021400</td>
@@ -5374,14 +5400,14 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td>2</td>
 </tr>
 <tr>
-<th></th>
-<th>3. Право</th>
-<th>14</th>
+<td></td>
+<td>3. Право</td>
+<td>15</td>
 </tr>
 <tr>
 <td>6D030100</td>
 <td>Юриспруденция</td>
-<td>10</td>
+<td>11</td>
 </tr>
 <tr>
 <td>6D030200</td>
@@ -5389,9 +5415,24 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td>4</td>
 </tr>
 <tr>
-<th></th>
-<th>4. Искусство</th>
-<th>1</th>
+<td></td>
+<td>4. Искусство</td>
+<td>4</td>
+</tr>
+<tr>
+<td>6D040100</td>
+<td>Музыковедение</td>
+<td>1</td>
+</tr>
+<tr>
+<td>6D040600</td>
+<td>Режиссура</td>
+<td>1</td>
+</tr>
+<tr>
+<td>6D041600</td>
+<td>Искусствоведение</td>
+<td>1</td>
 </tr>
 <tr>
 <td>6D042000</td>
@@ -5399,9 +5440,9 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td>1</td>
 </tr>
 <tr>
-<th></th>
-<th>5. Социальные науки, экономика и бизнес</th>
-<th>66</th>
+<td></td>
+<td>5. Социальные науки, экономика и бизнес</td>
+<td>69</td>
 </tr>
 <tr>
 <td>6D050100</td>
@@ -5411,17 +5452,17 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D050200</td>
 <td>Политология</td>
-<td>3</td>
+<td>4</td>
 </tr>
 <tr>
 <td>6D050300</td>
 <td>Психология</td>
-<td>4</td>
+<td>3</td>
 </tr>
 <tr>
 <td>6D050400</td>
 <td>Журналистика</td>
-<td>6</td>
+<td>7</td>
 </tr>
 <tr>
 <td>6D050500</td>
@@ -5431,7 +5472,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D050600</td>
 <td>Экономика</td>
-<td>13</td>
+<td>14</td>
 </tr>
 <tr>
 <td>6D050700</td>
@@ -5466,7 +5507,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D051700</td>
 <td>Инновационный менеджмент</td>
-<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6D051800</td>
@@ -5479,19 +5520,19 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td>3</td>
 </tr>
 <tr>
-<th></th>
-<th>6. Естественные науки</th>
-<th>76</th>
+<td></td>
+<td>6. Естественные науки</td>
+<td>75</td>
 </tr>
 <tr>
 <td>6D060100</td>
 <td>Математика</td>
-<td>12</td>
+<td>13</td>
 </tr>
 <tr>
 <td>6D060200</td>
 <td>Информатика</td>
-<td>5</td>
+<td>4</td>
 </tr>
 <tr>
 <td>6D060300</td>
@@ -5501,12 +5542,12 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D060400</td>
 <td>Физика</td>
-<td>6</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6D060500</td>
 <td>Ядерная физика</td>
-<td>6</td>
+<td>7</td>
 </tr>
 <tr>
 <td>6D060600</td>
@@ -5526,7 +5567,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D060900</td>
 <td>География</td>
-<td>4</td>
+<td>3</td>
 </tr>
 <tr>
 <td>6D061000</td>
@@ -5544,9 +5585,9 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td>1</td>
 </tr>
 <tr>
-<th></th>
-<th>7. Технические науки и технологии</th>
-<th>222</th>
+<td></td>
+<td>7. Технические науки и технологии</td>
+<td>215</td>
 </tr>
 <tr>
 <td>6D070100</td>
@@ -5556,7 +5597,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D070200</td>
 <td>Автоматизация и управление</td>
-<td>9</td>
+<td>8</td>
 </tr>
 <tr>
 <td>6D070300</td>
@@ -5566,12 +5607,12 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D070400</td>
 <td>Вычислительная техника и программное обеспечение</td>
-<td>12</td>
+<td>11</td>
 </tr>
 <tr>
 <td>6D070500</td>
 <td>Математическое и компьютерное моделирование</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>6D070600</td>
@@ -5581,7 +5622,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D070700</td>
 <td>Горное дело</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>6D070800</td>
@@ -5616,7 +5657,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D071600</td>
 <td>Приборостроение</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>6D071700</td>
@@ -5636,7 +5677,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D072000</td>
 <td>Химическая технология неорганических веществ</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>6D072100</td>
@@ -5646,7 +5687,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D072300</td>
 <td>Техническая физика</td>
-<td>9</td>
+<td>8</td>
 </tr>
 <tr>
 <td>6D072400</td>
@@ -5661,7 +5702,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D072700</td>
 <td>Технология продовольственных продуктов (по областям применения)</td>
-<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>6D072800</td>
@@ -5671,7 +5712,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D072900</td>
 <td>Строительство</td>
-<td>4</td>
+<td>3</td>
 </tr>
 <tr>
 <td>6D073000</td>
@@ -5695,16 +5736,13 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 </tr>
 <tr>
 <td>6D073400</td>
-<td>
-Химическая технология взрывчатых веществ и пиротехнических
-средств
-</td>
+<td>Химическая технология взрывчатых веществ и пиротехнических средств</td>
 <td>3</td>
 </tr>
 <tr>
 <td>6D073500</td>
 <td>Пищевая безопасность</td>
-<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>6D073900</td>
@@ -5727,12 +5765,12 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td>2</td>
 </tr>
 <tr>
-<td>6D 074800</td>
+<td>6D074800</td>
 <td>Технология фармацевтического производства</td>
 <td>6</td>
 </tr>
 <tr>
-<td>6D 075100</td>
+<td>6D075100</td>
 <td>Информатика, вычислительная техника и управление</td>
 <td>2</td>
 </tr>
@@ -5742,9 +5780,9 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td>5</td>
 </tr>
 <tr>
-<th></th>
-<th>8. Сельскохозяйственные науки</th>
-<th>37</th>
+<td></td>
+<td>8. Сельскохозяйственные науки</td>
+<td>36</td>
 </tr>
 <tr>
 <td>6D080100</td>
@@ -5754,7 +5792,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D080200</td>
 <td>Технология производства продуктов животноводства</td>
-<td>6</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6D080500</td>
@@ -5797,9 +5835,9 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td>2</td>
 </tr>
 <tr>
-<th></th>
-<th>9. Услуги</th>
-<th>10</th>
+<td></td>
+<td>9. Услуги</td>
+<td>11</td>
 </tr>
 <tr>
 <td>6D090100</td>
@@ -5809,7 +5847,7 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <tr>
 <td>6D090200</td>
 <td>Туризм</td>
-<td>3</td>
+<td>4</td>
 </tr>
 <tr>
 <td>6D090300</td>
@@ -5832,9 +5870,9 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td>1</td>
 </tr>
 <tr>
-<th></th>
-<th>10. Военное дело и безопасность</th>
-<th>2</th>
+<td></td>
+<td>10. Военное дело и безопасность</td>
+<td>2</td>
 </tr>
 <tr>
 <td>6D100200</td>
@@ -5842,9 +5880,9 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td>2</td>
 </tr>
 <tr>
-<th></th>
-<th>12. Ветеринария</th>
-<th>13</th>
+<td></td>
+<td>11. Ветеринария</td>
+<td>13</td>
 </tr>
 <tr>
 <td>6D120100</td>
@@ -5857,8 +5895,8 @@ source: https://zan.gov.kz/client/#!/doc/91450/rus/03.07.2015
 <td>7</td>
 </tr>
 <tr>
-<th></th>
-<th>ВСЕГО</th>
-<th>585</th>
+<td></td>
+<td>ВСЕГО</td>
+<td>585</td>
 </tr>
 </table>
