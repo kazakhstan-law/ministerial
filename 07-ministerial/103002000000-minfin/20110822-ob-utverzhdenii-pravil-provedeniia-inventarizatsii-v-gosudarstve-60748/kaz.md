@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/60748/kaz/22.08.2011
+source: https://zan.gov.kz/client/#!/doc/60748/kaz/20.10.2015
 ---
 
 # Мемлекеттік мекемелерде түгендеу жүргізу қағидасын бекіту туралы
