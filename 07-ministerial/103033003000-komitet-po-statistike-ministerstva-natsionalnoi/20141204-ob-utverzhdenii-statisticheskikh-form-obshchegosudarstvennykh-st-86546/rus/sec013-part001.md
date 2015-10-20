@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/86546/rus/04.12.2014
+source: https://zan.gov.kz/client/#!/doc/86546/rus/20.10.2015
 ---
 
 ## 2. Мал мен құс бастарының қозғалысы туралы ақпаратты көрсетіңіз, бас
