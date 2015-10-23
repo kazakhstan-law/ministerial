@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85504/kaz/30.10.2014
+source: https://zan.gov.kz/client/#!/doc/85504/kaz/23.10.2015
 ---
 
 ## 1. Кітапханалардың негізгі типтерін көрсетіңіз, бірлік

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85504/rus/30.10.2014
+source: https://zan.gov.kz/client/#!/doc/85504/rus/23.10.2015
 ---
 
 ## 4. Бос уақыт объектілерінің және оларға келушілердің санын көрсетіңіз

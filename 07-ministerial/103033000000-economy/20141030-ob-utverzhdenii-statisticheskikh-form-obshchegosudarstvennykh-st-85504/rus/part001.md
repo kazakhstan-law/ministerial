@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85504/rus/30.10.2014
+source: https://zan.gov.kz/client/#!/doc/85504/rus/23.10.2015
 ---
 
 ## «СОГЛАСОВАН» Министр культуры и спорта Республики Казахстан А. Мухамедиулы 30 ноября 2014 года
