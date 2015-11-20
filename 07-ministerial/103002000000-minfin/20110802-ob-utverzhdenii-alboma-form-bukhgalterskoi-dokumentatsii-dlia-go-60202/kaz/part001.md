@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/60202/kaz/12.10.2013
+source: https://zan.gov.kz/client/#!/doc/60202/kaz/20.11.2015
 ---
 
 ## Арнайы киімді және басқа да жеке пайдаланатын заттарды беруді (қайтаруды) есепке алу ведомості
