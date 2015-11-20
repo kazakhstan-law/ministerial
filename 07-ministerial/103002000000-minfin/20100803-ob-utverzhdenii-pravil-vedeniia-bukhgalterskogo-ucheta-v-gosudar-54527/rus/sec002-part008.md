@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/54527/rus/30.10.2014
+source: https://zan.gov.kz/client/#!/doc/54527/rus/20.11.2015
 ---
 
 ## 11. Порядок учета биологических активов
