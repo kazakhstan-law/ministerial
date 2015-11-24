@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85928/rus/09.10.2015
+source: https://zan.gov.kz/client/#!/doc/85928/rus/24.11.2015
 ---
 
 ## Параграф 2. Мониторинг государственных концессионных обязательств
