@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/74196/rus/16.08.2013
+source: https://zan.gov.kz/client/#!/doc/74196/rus/24.11.2015
 ---
 
 ## ТИПОВОЙ УЧЕБНЫЙ ПЛАН по специальности высшего образования 5В040800 – Искусство эстрады

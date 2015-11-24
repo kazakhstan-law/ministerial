@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/74196/kaz/16.08.2013
+source: https://zan.gov.kz/client/#!/doc/74196/kaz/24.11.2015
 ---
 
 ## ҮЛГІЛІК ОҚУ ЖОСПАРЫ 5В041900 – Мұражай ісі және ескерткіштерді қорғау мамандығы
