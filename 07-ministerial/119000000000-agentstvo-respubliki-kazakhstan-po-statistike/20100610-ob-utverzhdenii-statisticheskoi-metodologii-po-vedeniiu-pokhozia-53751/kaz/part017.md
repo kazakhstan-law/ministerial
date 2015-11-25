@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/53751/kaz/24.07.2015
+source: https://zan.gov.kz/client/#!/doc/53751/kaz/25.11.2015
 ---
 
 ## Әр шаруашылық бойынша есепке алу кітабында жазбаларды жүргізу
