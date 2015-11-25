@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85813/rus/12.10.2015
+source: https://zan.gov.kz/client/#!/doc/85813/rus/25.11.2015
 ---
 
 ## Форма «Отчет о ходе реализации бюджетных инвестиционных проектов за отчетный период»
@@ -1281,1328 +1281,1225 @@ __________________________________ М.П. ________________
 руководителя государственного органа
 
 > *Приложение 38*  
-> *к Правилам*  
-> *разработки или корректировки,*  
+> *к Правилам разработки или корректировки,*  
 > *проведения необходимых экспертиз*  
-> *инвестиционного предложения*  
-> *государственного инвестиционного*  
-> *проекта, а также планирования,*  
-> *рассмотрения, отбора, мониторинга и*  
-> *оценки реализации бюджетных*  
-> *инвестиций*
+> *инвестиционного предложения государственного*  
+> *инвестиционного проекта, а также планирования,*  
+> *рассмотрения, отбора, мониторинга и оценки*  
+> *реализации бюджетных инвестиций*
 
-### Форма «Отчет субъекта квазигосударственного сектора по мониторингу реализации мероприятий, реализуемых за счет бюджетных инвестиций посредством участия государства в уставном капитале юридических лиц _____________________________________________________» (наименование субъекта квазигосударственного сектора)
+### Форма «Отчет субъекта квазигосударственного сектора по мониторингу реализации мероприятий, реализуемых за счет бюджетных инвестиций посредством участия государства в уставном капитале юридических лиц ______________________________________________» (наименование субъекта квазигосударственного сектора)
+
+> *Сноска. Приложение 38 в редакции приказа и.о. Министра национальной экономики РК от 25.11.2015 № 721.*
 
 <table>
 <tr>
-<td rowspan="10">Раздел 1. Бюджетная программа</td>
+<td rowspan="9">Раздел 1. Бюджетная программа (подпрограмма)</td>
 <td colspan="3">Код</td>
-<td colspan="35"></td>
+<td colspan="13"></td>
 </tr>
 <tr>
 <td colspan="3">Наименование</td>
-<td colspan="35"></td>
+<td colspan="13"></td>
 </tr>
 <tr>
 <td colspan="3">Описание</td>
-<td colspan="35"></td>
+<td colspan="13"></td>
 </tr>
 <tr>
 <td colspan="3" rowspan="2">Стратегическое направление</td>
 <td colspan="2">номер</td>
-<td colspan="33"></td>
+<td colspan="11"></td>
 </tr>
 <tr>
 <td colspan="2">наименование</td>
-<td colspan="33"></td>
+<td colspan="11"></td>
 </tr>
 <tr>
 <td colspan="3" rowspan="2">Цель</td>
 <td colspan="2">номер</td>
-<td colspan="33"></td>
+<td colspan="11"></td>
 </tr>
 <tr>
 <td colspan="2">наименование</td>
-<td colspan="33"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="2">Задача</td>
-<td colspan="2">номер</td>
-<td colspan="33"></td>
-</tr>
-<tr>
-<td colspan="2">наименование</td>
-<td colspan="33"></td>
+<td colspan="11"></td>
 </tr>
 <tr>
 <td colspan="3">Сумма, тыс. тенге</td>
-<td colspan="35"></td>
+<td colspan="13"></td>
 </tr>
 <tr>
-<td></td>
 <td colspan="3">Период реализации</td>
 <td colspan="2">с</td>
-<td colspan="4"></td>
-<td colspan="11">по</td>
-<td colspan="18"></td>
+<td colspan="3"></td>
+<td colspan="3">по</td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td rowspan="2">Раздел 2. Мероприятия</td>
-<td rowspan="2">№ п/п</td>
-<td colspan="2" rowspan="2">Акционерные общества</td>
-<td colspan="35">Приобретение акций</td>
+<td rowspan="19">Раздел 2. Мероприятия</td>
+<td colspan="2" rowspan="3">№ п/п</td>
+<td rowspan="3">Акционерные общества</td>
+<td colspan="13">Приобретение акций</td>
 </tr>
 <tr>
-<td colspan="6">Количество размещенных акций за счет реализации бюджетных инвестиций, шт.</td>
-<td colspan="29">Стоимость размещенных акций за счет реализации бюджетных инвестиций, тыс. тенге</td>
+<td colspan="5">Количество размещенных акций за счет реализации бюджетных инвестиций, шт.</td>
+<td colspan="8">Стоимость размещенных акций за счет реализации бюджетных инвестиций, тыс. тенге</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td colspan="2">до реализации бюджетных инвестиций</td>
+<td colspan="3">После реализации бюджетных инвестиций</td>
+<td colspan="3">на этапе</td>
+<td colspan="5">всего</td>
+</tr>
+<tr>
+<td colspan="2">1 этап</td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2">до реализации бюджетных инвестиций</td>
-<td colspan="4">После реализации бюджетных инвестиций</td>
-<td colspan="11">на этапе</td>
-<td colspan="18">Всего</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td>1 этап</td>
+<td colspan="2">…</td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="11"></td>
-<td colspan="18"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td>…</td>
+<td colspan="2">n этап</td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="11"></td>
-<td colspan="18"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td>n этап</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="11"></td>
-<td colspan="18"></td>
-</tr>
-<tr>
-<td rowspan="13"></td>
 <td colspan="3">Сведения государственной регистрации выпуска акций (ценных бумаг)</td>
-<td colspan="35"></td>
+<td colspan="13"></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">№ п/п</td>
-<td rowspan="3">Товарищества</td>
+<td rowspan="3">№ п/п</td>
+<td colspan="2" rowspan="3">Товарищества</td>
 <td colspan="2">Увеличение уставного капитала, тыс. тенге</td>
-<td colspan="5">Итого размер уставного капитала тыс. тенге</td>
-<td colspan="28">Приобретение долей участия у участников</td>
+<td colspan="4">Итого размер уставного капитала тыс. тенге</td>
+<td colspan="7">Приобретение долей участия у участников</td>
 </tr>
 <tr>
 <td rowspan="2">План</td>
 <td rowspan="2">факт</td>
-<td colspan="3" rowspan="2">план</td>
+<td colspan="2" rowspan="2">план</td>
 <td colspan="2" rowspan="2">факт</td>
-<td colspan="12">%</td>
-<td colspan="5">стоимость, тыс. тенге</td>
-<td colspan="11">Долей участия в государственной собственности, %</td>
+<td colspan="3">%</td>
+<td colspan="2">стоимость, тыс. тенге</td>
+<td colspan="2">Долей участия в государственной собственности, %</td>
 </tr>
 <tr>
-<td colspan="4">план</td>
-<td colspan="8">факт</td>
 <td>план</td>
-<td colspan="4">факт</td>
-<td colspan="3">план</td>
-<td colspan="8">факт</td>
+<td colspan="2">факт</td>
+<td>план</td>
+<td>факт</td>
+<td>план</td>
+<td>факт</td>
 </tr>
 <tr>
-<td colspan="2">1 этап</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
+<td>1 этап</td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="8"></td>
-<td></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="2">…</td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="8"></td>
-<td></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="2">n этап</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="8"></td>
-<td></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="2">№ п/п</td>
-<td colspan="3">Государственные предприятия</td>
-<td colspan="17">Увеличение уставного капитала, тыс. тенге</td>
-<td colspan="16">Итого размер уставного капитала, тыс. тенге</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="5">План</td>
-<td colspan="12">факт</td>
-<td colspan="5">план</td>
-<td colspan="11">Факт</td>
-</tr>
-<tr>
-<td colspan="2">1 этап</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="8"></td>
-<td></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="2">…</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="8"></td>
-<td></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="2">n этап</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="8"></td>
-<td></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="5">Сведения государственной перерегистрации юридического лица</td>
-<td colspan="33"></td>
-</tr>
-<tr>
-<td rowspan="5">Раздел 3. График реализации, план/факт в тыс. тенге</td>
-<td colspan="2" rowspan="2">№ п/п</td>
-<td colspan="3" rowspan="2">Мероприятия</td>
-<td colspan="33">Год реализации мероприятий</td>
-</tr>
-<tr>
-<td colspan="3">Январь</td>
-<td colspan="3">Февраль</td>
-<td>Март</td>
-<td colspan="3">Апрель</td>
-<td colspan="4">Май</td>
-<td colspan="2">Июнь</td>
-<td colspan="2">Июль</td>
-<td colspan="2">Август</td>
-<td colspan="4">Сентябрь</td>
-<td colspan="5">Октябрь</td>
-<td colspan="3">Ноябрь</td>
-<td>Декабрь</td>
-</tr>
-<tr>
-<td colspan="2">1 этап</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="5"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">…</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>…</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="5"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">n этап</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>n этап</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="5"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td rowspan="5">Раздел 4. Документы Системы государственного планирования, в реализацию которых осуществлялись бюджетные инвестиции</td>
-<td colspan="2" rowspan="2">№ п/п</td>
-<td colspan="16" rowspan="2">Наименование документа</td>
-<td colspan="20">Нормативный правовой акт, которым утвержден документ Системы государственного планирования</td>
-</tr>
-<tr>
-<td colspan="8">Вид</td>
-<td colspan="9">Дата принятия</td>
-<td colspan="3">Номер</td>
-</tr>
-<tr>
-<td colspan="2">1.</td>
-<td colspan="16"></td>
-<td colspan="8"></td>
-<td colspan="9"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2">…</td>
-<td colspan="16"></td>
-<td colspan="8"></td>
-<td colspan="9"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2">n</td>
-<td colspan="16"></td>
-<td colspan="8"></td>
-<td colspan="9"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td rowspan="15">Раздел 5. Схема финансирования (отчетное полугодие)</td>
-<td colspan="38">перечислено со счета Администратора бюджетных программ</td>
-</tr>
-<tr>
-<td colspan="6" rowspan="3">Получатель</td>
-<td colspan="14">по плану финансирования Администратора бюджетных программ</td>
-<td colspan="18">Перечислено фактически</td>
-</tr>
-<tr>
-<td colspan="6" rowspan="2">Дата перечисления (месяц, год)</td>
-<td colspan="8" rowspan="2">сумма, тыс. тенге</td>
-<td colspan="6" rowspan="2">Дата перечисления (день, месяц, год)</td>
-<td colspan="10">документ</td>
-<td colspan="2" rowspan="2">сумма, тыс. тенге</td>
-</tr>
-<tr>
-<td colspan="5">наименование</td>
-<td colspan="5">№</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>№ п/п</td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="8"></td>
-<td colspan="6"></td>
-<td colspan="5"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
+<td colspan="4">Государственные предприятия</td>
+<td colspan="7">Увеличение уставного капитала, тыс. тенге</td>
+<td colspan="4">Итого размер уставного капитала, тыс. тенге</td>
 </tr>
 <tr>
-<td>1.</td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="8"></td>
-<td colspan="6"></td>
-<td colspan="5"></td>
-<td colspan="5"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="4">План</td>
+<td colspan="3">факт</td>
+<td colspan="2">план</td>
+<td colspan="2">Факт</td>
+</tr>
+<tr>
+<td>1 этап</td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
 <td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>…</td>
-<td colspan="5"></td>
-<td colspan="6"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>n этап</td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">Сведения государственной перерегистрации юридического лица</td>
+<td colspan="11"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="5">Раздел 3. График реализации, план/факт в тыс. тенге</td>
+<td rowspan="2">№ п/п</td>
+<td rowspan="2">Мероприятия</td>
+<td colspan="12">Год реализации мероприятий</td>
+</tr>
+<tr>
+<td>Январь</td>
+<td>Февраль</td>
+<td>Март</td>
+<td>Апрель</td>
+<td>Май</td>
+<td>Июнь</td>
+<td>Июль</td>
+<td>Август</td>
+<td>Сентябрь</td>
+<td>Октябрь</td>
+<td>Ноябрь</td>
+<td>Декабрь</td>
+</tr>
+<tr>
+<td>1 этап</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>…</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>n этап</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="5">Раздел 4. Документы Системы государственного планирования, в реализацию которых осуществлялись бюджетные инвестиции</td>
+<td colspan="2" rowspan="2">№ п/п</td>
+<td colspan="8" rowspan="2">Наименование документа</td>
+<td colspan="10">Нормативный правовой акт, которым утвержден документ Системы государственного планирования</td>
+</tr>
+<tr>
+<td colspan="3">Вид</td>
+<td colspan="5">Дата принятия</td>
+<td colspan="2">Номер</td>
+</tr>
+<tr>
+<td colspan="2">1.</td>
 <td colspan="8"></td>
-<td colspan="6"></td>
-<td colspan="5"></td>
+<td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">…</td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">n</td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td rowspan="15">
+Раздел 5. Схема финансирования
+(отчетное полугодие)
+</td>
+<td colspan="20">перечислено со счета Администратора бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="4" rowspan="3">Получатель</td>
+<td colspan="7">по плану финансирования Администратора бюджетных программ</td>
+<td colspan="9">Перечислено фактически</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">Дата перечисления (месяц, год)</td>
+<td colspan="5" rowspan="2">сумма, тыс. тенге</td>
+<td colspan="2" rowspan="2">Дата перечисления день, месяц, год)</td>
+<td colspan="6">документ</td>
+<td rowspan="2">сумма, тыс. тенге</td>
+</tr>
+<tr>
+<td colspan="2">наименование</td>
+<td colspan="4">№</td>
+</tr>
+<tr>
+<td>№ п/п</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr>
+<td>1.</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr>
+<td>…</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
 </tr>
 <tr>
 <td>n</td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="8"></td>
-<td colspan="6"></td>
-<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="5"></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="38">перечислено с банковского счета Получателя</td>
+<td colspan="20">перечислено с банковского счета Получателя</td>
 </tr>
 <tr>
 <td rowspan="3">№ п/п</td>
-<td colspan="5" rowspan="3">Получатель</td>
-<td colspan="14">по плану финансирования</td>
-<td colspan="18">перечислено фактически</td>
+<td colspan="3" rowspan="3">Получатель</td>
+<td colspan="7">по плану финансирования</td>
+<td colspan="9">перечислено фактически</td>
 </tr>
 <tr>
-<td colspan="7" rowspan="2">Дата перечисления (месяц, год)</td>
-<td colspan="7" rowspan="2">сумма, тыс. тенге</td>
-<td colspan="6" rowspan="2">Дата перечисления (день, месяц, год)</td>
-<td colspan="10">документ</td>
-<td colspan="2">сумма, тыс. тенге</td>
+<td colspan="3" rowspan="2">Дата перечисления (месяц, год)</td>
+<td colspan="4" rowspan="2">сумма, тыс. тенге</td>
+<td colspan="2" rowspan="2">Дата перечисления (день, месяц, год)</td>
+<td colspan="6">документ</td>
+<td>сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="7">наименование</td>
-<td colspan="3">№</td>
-<td colspan="2"></td>
+<td colspan="4">наименование</td>
+<td colspan="2">№</td>
+<td></td>
 </tr>
 <tr>
 <td>1.</td>
-<td colspan="5"></td>
-<td colspan="7"></td>
-<td colspan="7"></td>
-<td colspan="6"></td>
-<td colspan="7"></td>
 <td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>…</td>
-<td colspan="5"></td>
-<td colspan="7"></td>
-<td colspan="7"></td>
-<td colspan="6"></td>
-<td colspan="7"></td>
 <td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>n</td>
-<td colspan="5"></td>
-<td colspan="7"></td>
-<td colspan="7"></td>
-<td colspan="6"></td>
-<td colspan="7"></td>
 <td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td rowspan="3">Раздел 6. Результат</td>
 <td rowspan="3">№ п/п</td>
 <td colspan="2" rowspan="3">Целевой индикатор</td>
-<td colspan="3" rowspan="3">ед. изм.</td>
-<td colspan="7">за два года, предшествующих отчетному полугодию</td>
-<td colspan="7">за год, предшествующий отчетному полугодию</td>
-<td colspan="18">в отчетном полугодии</td>
+<td rowspan="3">ед. изм.</td>
+<td colspan="3">за два года, предшествующих отчетному полугодию</td>
+<td colspan="4">за год, предшествующий отчетному полугодию</td>
+<td colspan="9">в отчетном полугодии</td>
 </tr>
 <tr>
-<td colspan="7">факт</td>
-<td colspan="7">Факт</td>
-<td colspan="8">план за полугодие</td>
-<td colspan="10">факт</td>
+<td colspan="3">факт</td>
+<td colspan="4">Факт</td>
+<td colspan="3">план за полугодие</td>
+<td colspan="6">факт</td>
 </tr>
 <tr>
-<td colspan="3">за год</td>
+<td>за год</td>
+<td colspan="2">нарастающим итогом</td>
+<td>за год</td>
+<td colspan="3">нарастающим итогом</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">за полугодие</td>
 <td colspan="4">нарастающим итогом</td>
-<td colspan="3">за год</td>
-<td colspan="4">нарастающим итогом</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4">за полугодие</td>
-<td colspan="6">нарастающим итогом</td>
 </tr>
 <tr>
-<td rowspan="3">Прямой результат (показатели количества)</td>
+<td rowspan="3">Прямой результат</td>
 <td>1.</td>
 <td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
 </tr>
 <tr>
 <td>…</td>
 <td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
 </tr>
 <tr>
 <td>n</td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td rowspan="3">Показатели качества</td>
-<td>1.</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td>…</td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td>n</td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
 </tr>
 <tr>
-<td rowspan="3">Показатели эффективности</td>
-<td>1.</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td>…</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td>n</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td>Конечный результат (показатели результата)</td>
-<td colspan="6">Влияние прямого результата на достижение цели бюджетной программы и отрасли (сферы, региона), курируемой Администратором</td>
-<td colspan="32"></td>
+<td>Конечный результат</td>
+<td colspan="4">Влияние прямого результата на достижение цели бюджетной программы (подпрограммы) и отрасли (сферы, региона), курируемой Администратором</td>
+<td colspan="16"></td>
 </tr>
 <tr>
 <td rowspan="9">Раздел 7. Ответственный исполнитель</td>
-<td colspan="17">Фамилия</td>
-<td colspan="21"></td>
+<td colspan="9">Фамилия</td>
+<td colspan="11"></td>
 </tr>
 <tr>
-<td colspan="17">Имя</td>
-<td colspan="21"></td>
+<td colspan="9">Имя</td>
+<td colspan="11"></td>
 </tr>
 <tr>
-<td colspan="17">Отчество (при наличии)</td>
-<td colspan="21"></td>
+<td colspan="9">Отчество (при наличии)</td>
+<td colspan="11"></td>
 </tr>
 <tr>
-<td colspan="17">Наименование юридического лица</td>
-<td colspan="21"></td>
+<td colspan="9">Наименование юридического лица</td>
+<td colspan="11"></td>
 </tr>
 <tr>
-<td colspan="17">Должность</td>
-<td colspan="21"></td>
+<td colspan="9">Должность</td>
+<td colspan="11"></td>
 </tr>
 <tr>
-<td colspan="17">Адрес</td>
-<td colspan="21"></td>
+<td colspan="9">Адрес</td>
+<td colspan="11"></td>
 </tr>
 <tr>
-<td colspan="17">Контактные телефоны</td>
-<td colspan="21"></td>
+<td colspan="9">Контактные телефоны</td>
+<td colspan="11"></td>
 </tr>
 <tr>
-<td colspan="17">Факс</td>
-<td colspan="21"></td>
+<td colspan="9">Факс</td>
+<td colspan="11"></td>
 </tr>
 <tr>
-<td colspan="17">Электронная почта</td>
-<td colspan="21"></td>
+<td colspan="9">Электронная почта</td>
+<td colspan="11"></td>
 </tr>
 </table>
 
-Руководитель ____________ ______________ « »_______ 20__ г.
+Руководитель ___________ ______________ « »____ 20__ г.
 
 подпись (Ф.И.О) (дата)
 
 > *Приложение 39*  
-> *к Правилам*  
-> *разработки или корректировки,*  
+> *к Правилам разработки или корректировки,*  
 > *проведения необходимых экспертиз*  
-> *инвестиционного предложения*  
-> *государственного инвестиционного*  
-> *проекта, а также планирования,*  
-> *рассмотрения, отбора, мониторинга и*  
-> *оценки реализации бюджетных*  
-> *инвестиций*
+> *инвестиционного предложения государственного*  
+> *инвестиционного проекта, а также планирования,*  
+> *рассмотрения, отбора, мониторинга и оценки*  
+> *реализации бюджетных инвестиций*
 
-### Форма «Отчет администратора бюджетных программ по мониторингу реализации мероприятий, реализуемых за счет бюджетных инвестиций посредством участия государства в уставном капитале юридических лиц ____________________________________________________» (наименование администратора бюджетных программ)
+### Форма «Отчет администратора бюджетных программ по мониторингу реализации мероприятий, реализуемых за счет бюджетных инвестиций посредством участия государства в уставном капитале юридических лиц ________________________________________________» (наименование администратора бюджетных программ)
+
+> *Сноска. Приложение 39 в редакции приказа и.о. Министра национальной экономики РК от 25.11.2015 № 721.*
 
 <table>
 <tr>
-<td rowspan="11">Раздел 1. Бюджетная программа</td>
-<td colspan="6">Код</td>
-<td colspan="48"></td>
+<td rowspan="9">
+Раздел 1.
+Бюджетная программа (подпрограмма)
+</td>
+<td colspan="3">Код</td>
+<td colspan="22"></td>
 </tr>
 <tr>
-<td colspan="6">Наименование</td>
-<td colspan="48"></td>
+<td colspan="3">Наименование</td>
+<td colspan="22"></td>
 </tr>
 <tr>
-<td colspan="6">Описание</td>
-<td colspan="48"></td>
+<td colspan="3">Описание</td>
+<td colspan="22"></td>
 </tr>
 <tr>
-<td colspan="6" rowspan="2">Стратегическое направление</td>
-<td colspan="6">номер</td>
-<td colspan="42"></td>
+<td colspan="3" rowspan="2">Стратегическое направление</td>
+<td colspan="5">номер</td>
+<td colspan="17"></td>
 </tr>
 <tr>
-<td colspan="6">наименование</td>
-<td colspan="42"></td>
+<td colspan="5">наименование</td>
+<td colspan="17"></td>
 </tr>
 <tr>
-<td colspan="6" rowspan="2">Цель</td>
-<td colspan="6">номер</td>
-<td colspan="42"></td>
+<td colspan="3" rowspan="2">Цель</td>
+<td colspan="5">номер</td>
+<td colspan="17"></td>
 </tr>
 <tr>
-<td colspan="6">наименование</td>
-<td colspan="42"></td>
+<td colspan="5">наименование</td>
+<td colspan="17"></td>
 </tr>
 <tr>
-<td colspan="6" rowspan="2">Задача</td>
-<td colspan="6">номер</td>
-<td colspan="42"></td>
+<td colspan="3">Сумма, тыс. тенге</td>
+<td colspan="22"></td>
 </tr>
 <tr>
-<td colspan="6">наименование</td>
-<td colspan="42"></td>
-</tr>
-<tr>
-<td colspan="6">Сумма, тыс. тенге</td>
-<td colspan="48"></td>
-</tr>
-<tr>
-<td colspan="6">Период реализации</td>
+<td colspan="3">Период реализации</td>
 <td>с</td>
-<td colspan="11"></td>
-<td colspan="11">по</td>
-<td colspan="25"></td>
+<td colspan="7"></td>
+<td colspan="5">по</td>
+<td colspan="9"></td>
 </tr>
 <tr>
 <td rowspan="6">Раздел 2. Мероприятия</td>
-<td colspan="4" rowspan="3">№ п/п</td>
-<td colspan="2" rowspan="3">Акционерные общества</td>
-<td colspan="48">Приобретение акций</td>
+<td colspan="2" rowspan="3">№ п/п</td>
+<td rowspan="3">Акционерные общества</td>
+<td colspan="22">Приобретение акций</td>
 </tr>
 <tr>
-<td colspan="12">Количество размещенных акций за счет реализации бюджетных инвестиций, шт.</td>
-<td colspan="36">Стоимость размещенных акций за счет реализации бюджетных инвестиций, тыс. тенге</td>
+<td colspan="8">Количество размещенных акций за счет реализации бюджетных инвестиций, шт.</td>
+<td colspan="14">Стоимость размещенных акций за счет реализации бюджетных инвестиций, тыс. тенге</td>
 </tr>
 <tr>
 <td colspan="3">до реализации бюджетных инвестиций</td>
-<td colspan="9">после реализации бюджетных инвестиций</td>
-<td colspan="11">на этапе</td>
-<td colspan="25">всего</td>
+<td colspan="5">после реализации бюджетных инвестиций</td>
+<td colspan="5">на этапе</td>
+<td colspan="9">всего</td>
 </tr>
 <tr>
-<td colspan="4">1 этап</td>
-<td colspan="2"></td>
+<td colspan="2">1 этап</td>
+<td></td>
 <td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
 <td colspan="9"></td>
-<td colspan="11"></td>
-<td colspan="25"></td>
 </tr>
 <tr>
-<td colspan="4">…</td>
-<td colspan="2"></td>
+<td colspan="2">…</td>
+<td></td>
 <td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
 <td colspan="9"></td>
-<td colspan="11"></td>
-<td colspan="25"></td>
 </tr>
 <tr>
-<td colspan="4">n этап</td>
-<td colspan="2"></td>
+<td colspan="2">n этап</td>
+<td></td>
 <td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
 <td colspan="9"></td>
-<td colspan="11"></td>
-<td colspan="25"></td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="6">Сведения государственной регистрации выпуска акций (ценных бумаг)</td>
-<td colspan="48"></td>
+<td rowspan="13"></td>
+<td colspan="3">Сведения государственной регистрации выпуска акций (ценных бумаг)</td>
+<td colspan="22"></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">№ п/п</td>
-<td colspan="3" rowspan="2">Товарищества</td>
+<td rowspan="3">№ п/п</td>
+<td colspan="2" rowspan="3">Товарищества</td>
 <td colspan="4" rowspan="2">Увеличение уставного капитала, тыс. тенге</td>
-<td colspan="12" rowspan="2">Итого размер уставного капитала, тыс. тенге</td>
-<td colspan="32">Приобретение долей участия у участников</td>
+<td colspan="6" rowspan="2">Итого размер уставного капитала, тыс. тенге</td>
+<td colspan="12">Приобретение долей участия у участников</td>
 </tr>
 <tr>
-<td colspan="11">%</td>
-<td colspan="10">стоимость, тыс. тенге</td>
-<td colspan="11">Долей участия в государственной собственности, %</td>
+<td colspan="5">%</td>
+<td colspan="4">стоимость, тыс. тенге</td>
+<td colspan="3">Долей участия в государственной собственности, %</td>
 </tr>
 <tr>
-<td rowspan="10"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td>план</td>
 <td colspan="3">факт</td>
-<td colspan="6">план</td>
-<td colspan="6">факт</td>
-<td colspan="4">план</td>
-<td colspan="6">факт</td>
-<td colspan="4">план</td>
-<td colspan="6">факт</td>
-<td colspan="7">план</td>
-<td colspan="5">факт</td>
+<td colspan="3">план</td>
+<td colspan="3">факт</td>
+<td colspan="2">план</td>
+<td colspan="2">факт</td>
+<td colspan="3">план</td>
+<td colspan="2">факт</td>
+<td colspan="2">план</td>
+<td>факт</td>
 </tr>
 <tr>
-<td colspan="3">1 этап</td>
-<td colspan="3"></td>
+<td>1 этап</td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="3"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
-<td colspan="7"></td>
-<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">…</td>
-<td colspan="3"></td>
+<td>…</td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="3"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
-<td colspan="7"></td>
-<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">n этап</td>
-<td colspan="3"></td>
+<td>n этап</td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">№ п/п</td>
+<td colspan="6" rowspan="2">Государственные предприятия</td>
+<td colspan="12">Увеличение уставного капитала, тыс. тенге</td>
+<td colspan="6">Итого размер уставного капитала, тыс. тенге</td>
+</tr>
+<tr>
+<td colspan="5">План</td>
+<td colspan="7">факт</td>
+<td colspan="3">план</td>
+<td colspan="3">Факт</td>
+</tr>
+<tr>
+<td>1 этап</td>
 <td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
-<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="5"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">№ п/п</td>
-<td colspan="7" rowspan="2">Государственные предприятия</td>
-<td colspan="24">Увеличение уставного капитала, тыс. тенге</td>
-<td colspan="20">Итого размер уставного капитала, тыс. тенге</td>
-</tr>
-<tr>
-<td colspan="10">План</td>
-<td colspan="14">факт</td>
-<td colspan="10">план</td>
-<td colspan="10">Факт</td>
-</tr>
-<tr>
-<td colspan="3">1 этап</td>
-<td colspan="7"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="4"></td>
-<td colspan="10"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="4"></td>
+<td>…</td>
 <td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">…</td>
-<td colspan="7"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="4"></td>
-<td colspan="10"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="4"></td>
+<td>n этап</td>
 <td colspan="6"></td>
-</tr>
-<tr>
-<td colspan="3">n этап</td>
-<td colspan="7"></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="4"></td>
-<td colspan="10"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="8">Сведения государственной перерегистрации юридического лица</td>
-<td colspan="46"></td>
+<td colspan="5">Сведения государственной перерегистрации юридического лица</td>
+<td colspan="20"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Раздел 3. График реализации, план/факт в тыс. тенге</td>
+<td>№ п/п</td>
+<td>Мероприятия</td>
+<td colspan="16">Год реализации мероприятий</td>
 </tr>
 <tr>
-<td rowspan="5">Раздел 3. График реализации, план/факт в тыс. тенге</td>
-<td colspan="4" rowspan="2">№ п/п</td>
-<td colspan="4" rowspan="2">Мероприятия</td>
-<td colspan="46">Год реализации мероприятий</td>
-</tr>
-<tr>
-<td colspan="3">Январь</td>
-<td colspan="4">Февраль</td>
-<td colspan="4">Март</td>
-<td colspan="4">Апрель</td>
-<td colspan="2">Май</td>
-<td colspan="4">Июнь</td>
-<td colspan="6">Июль</td>
-<td colspan="3">Август</td>
-<td colspan="6">Сентябрь</td>
-<td colspan="2">Октябрь</td>
-<td colspan="7">Ноябрь</td>
+<td rowspan="4"></td>
+<td></td>
+<td></td>
+<td>Январь</td>
+<td colspan="2">Февраль</td>
+<td>Март</td>
+<td>Апрель</td>
+<td>Май</td>
+<td colspan="2">Июнь</td>
+<td colspan="2">Июль</td>
+<td>Август</td>
+<td colspan="2">Сентябрь</td>
+<td>Октябрь</td>
+<td>Ноябрь</td>
 <td>Декабрь</td>
 </tr>
 <tr>
-<td colspan="4">1 этап</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td>1 этап</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="7"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">…</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td>…</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="7"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">n этап</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td>n этап</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="7"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td rowspan="5">Раздел 4. Документы Системы государственного планирования, в реализацию которых осуществлялись бюджетные инвестиции</td>
-<td colspan="4" rowspan="2">№ п/п</td>
-<td colspan="15" rowspan="2">Наименование документа</td>
-<td colspan="35">Нормативный правовой акт, которым утвержден документ Системы государственного планирования</td>
+<td rowspan="5">
+Раздел 4. Документы Системы государствен
+ного планирования, в реализацию которых осуществля
+лись бюджетные инвестиции
+</td>
+<td rowspan="2">№ п/п</td>
+<td colspan="5" rowspan="2">Наименование документа</td>
+<td colspan="12">Нормативный правовой акт, которым утвержден документ Системы государственного планирования</td>
 </tr>
 <tr>
-<td colspan="11">Вид</td>
-<td colspan="11">Дата принятия</td>
-<td colspan="13">Номер</td>
+<td colspan="5">Вид</td>
+<td colspan="3">Дата принятия</td>
+<td colspan="4">Номер</td>
 </tr>
 <tr>
-<td colspan="4">1.</td>
-<td colspan="15"></td>
-<td colspan="11"></td>
-<td colspan="11"></td>
-<td colspan="13"></td>
+<td>1.</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="4">…</td>
-<td colspan="15"></td>
-<td colspan="11"></td>
-<td colspan="11"></td>
-<td colspan="13"></td>
+<td>…</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="4">n</td>
-<td colspan="15"></td>
-<td colspan="11"></td>
-<td colspan="11"></td>
-<td colspan="13"></td>
+<td>n</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td rowspan="11">
 Раздел 5.
 Бюджетные деньги, тыс. тенге
 </td>
-<td colspan="8" rowspan="4">Выделено</td>
-<td colspan="33">Всего</td>
-<td colspan="13"></td>
-</tr>
-<tr>
-<td colspan="6" rowspan="3">из них</td>
-<td colspan="27">за два года, предшествующих отчетному полугодию</td>
-<td colspan="13"></td>
-</tr>
-<tr>
-<td colspan="27">за год, предшествующий отчетному полугодию</td>
-<td colspan="13"></td>
-</tr>
-<tr>
-<td colspan="27">в отчетном полугодии</td>
-<td colspan="13"></td>
-</tr>
-<tr>
-<td colspan="8" rowspan="7">поступление – поступило с единого казначейского счета на счет Администратора бюджетных программ</td>
-<td colspan="33">Всего</td>
-<td colspan="13"></td>
-</tr>
-<tr>
-<td colspan="6" rowspan="6">из них</td>
-<td colspan="27">за два года, предшествующих отчетному полугодию</td>
-<td colspan="13"></td>
-</tr>
-<tr>
-<td colspan="27">за год, предшествующий отчетному полугодию</td>
-<td colspan="13"></td>
-</tr>
-<tr>
-<td colspan="27">в отчетном полугодии</td>
-<td colspan="13"></td>
-</tr>
-<tr>
-<td colspan="13" rowspan="3">в том числе</td>
-<td colspan="14">Наименование документа</td>
-<td colspan="13"></td>
-</tr>
-<tr>
-<td colspan="14">Дата перечисления</td>
-<td colspan="13"></td>
-</tr>
-<tr>
-<td colspan="14">№ документа</td>
-<td colspan="13"></td>
-</tr>
-<tr>
-<td rowspan="9">Раздел 6. Схема финансирования (отчетное полугодие)</td>
-<td colspan="54">перечислено со счета Администратора бюджетных программ</td>
-</tr>
-<tr>
-<td rowspan="4">№ п/п</td>
-<td colspan="7" rowspan="4">Получатель</td>
-<td colspan="20">по плану финансирования Администратора бюджетных программ</td>
-<td colspan="26">Перечислено фактически</td>
-</tr>
-<tr>
-<td colspan="11" rowspan="2">дата перечисления (месяц, год)</td>
-<td colspan="9" rowspan="2">сумма, тыс. тенге</td>
-<td colspan="11" rowspan="2">Дата перечисле ния (день, месяц, год)</td>
-<td colspan="11">документ</td>
-<td colspan="4">сумма, тыс. тенге</td>
-</tr>
-<tr>
-<td colspan="6">наименование</td>
-<td colspan="5">№</td>
+<td colspan="2" rowspan="4">Выделено</td>
+<td colspan="12">Всего</td>
 <td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="11"></td>
-<td colspan="9"></td>
-<td colspan="11"></td>
-<td colspan="6"></td>
-<td colspan="5"></td>
+<td colspan="2" rowspan="3">из них</td>
+<td colspan="10">за два года, предшествующих отчетному полугодию</td>
 <td colspan="4"></td>
 </tr>
 <tr>
-<td>1.</td>
-<td colspan="7"></td>
-<td colspan="11"></td>
-<td colspan="9"></td>
-<td colspan="11"></td>
-<td colspan="6"></td>
-<td colspan="5"></td>
+<td colspan="10">за год, предшествующий отчетному полугодию</td>
 <td colspan="4"></td>
 </tr>
 <tr>
-<td>…</td>
-<td colspan="7"></td>
-<td colspan="11"></td>
-<td colspan="9"></td>
-<td colspan="11"></td>
-<td colspan="6"></td>
-<td colspan="5"></td>
+<td colspan="10">в отчетном полугодии</td>
 <td colspan="4"></td>
 </tr>
 <tr>
-<td>n</td>
-<td colspan="7"></td>
-<td colspan="11"></td>
-<td colspan="9"></td>
-<td colspan="11"></td>
-<td colspan="6"></td>
-<td colspan="5"></td>
+<td colspan="2" rowspan="7">поступление – поступило с единого казначейского счета на счет Администратора бюджетных программ</td>
+<td colspan="12">Всего</td>
 <td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="54">перечислено с банковского счета Получателя</td>
+<td colspan="2" rowspan="6">из них</td>
+<td colspan="10">за два года, предшествующих отчетному полугодию</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10">за год, предшествующий отчетному полугодию</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10">в отчетном полугодии</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="5" rowspan="3">в том числе</td>
+<td colspan="5">Наименование документа</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="5">Дата перечисления</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="5">№ документа</td>
+<td colspan="4"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="2">Раздел 6. Схема финансирования (отчетное полугодие)</td>
+<td colspan="11">перечислено со счета Администратора бюджетных программ</td>
+</tr>
+<tr>
+<td>№ п/п</td>
+<td colspan="2">Получатель</td>
+<td colspan="4">по плану финансирования Администратора бюджетных программ</td>
+<td colspan="4">Перечислено фактически</td>
 </tr>
 <tr>
 <td rowspan="6"></td>
-<td colspan="2" rowspan="3">№ п/п</td>
-<td colspan="9" rowspan="3">Получатели</td>
-<td colspan="20">по плану финансирования</td>
-<td colspan="23">Перечислено фактически</td>
-</tr>
-<tr>
-<td colspan="10" rowspan="2">Дата перечисления (месяц, год)</td>
-<td colspan="10" rowspan="2">сумма, тыс. тенге</td>
-<td colspan="8" rowspan="2">дата перечисления (день, месяц, год)</td>
-<td colspan="13">документ</td>
+<td rowspan="3"></td>
+<td colspan="2" rowspan="3"></td>
+<td colspan="2" rowspan="2">дата перечисления (месяц, год)</td>
 <td colspan="2" rowspan="2">сумма, тыс. тенге</td>
+<td rowspan="2">Дата перечисления (день, месяц, год)</td>
+<td colspan="2">Документ</td>
+<td>сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="8">наименование</td>
-<td colspan="5">№</td>
+<td>наименование</td>
+<td>№</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="9"></td>
-<td colspan="10"></td>
-<td colspan="10"></td>
-<td colspan="8"></td>
-<td colspan="8"></td>
-<td colspan="5"></td>
 <td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">…</td>
-<td colspan="9"></td>
-<td colspan="10"></td>
-<td colspan="10"></td>
-<td colspan="8"></td>
-<td colspan="8"></td>
-<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">n</td>
-<td colspan="9"></td>
-<td colspan="10"></td>
-<td colspan="10"></td>
-<td colspan="8"></td>
-<td colspan="8"></td>
-<td colspan="5"></td>
+<td>1.</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="3">Раздел 7. Результат</td>
-<td colspan="2" rowspan="3">№ п/п</td>
-<td colspan="3" rowspan="3">Целевой индикатор</td>
-<td colspan="6" rowspan="3">ед. изм.</td>
-<td colspan="10">за два года, предшествующих отчетному полугодию</td>
-<td colspan="10">за год, предшествующий отчетному полугодию</td>
-<td colspan="23">в отчетном полугодии</td>
+<td>…</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="10">факт</td>
-<td colspan="10">факт</td>
-<td colspan="14">план за полугодие</td>
-<td colspan="9">факт</td>
+<td>n</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="6">за год</td>
-<td colspan="4">нарастающим итогом</td>
-<td colspan="3">за год</td>
-<td colspan="7">нарастающим итогом</td>
-<td colspan="9"></td>
-<td colspan="5"></td>
-<td colspan="6">за полугодие</td>
-<td colspan="3">нарастающим итогом</td>
+<td></td>
+<td colspan="11">перечислено с банковского счета Получателя</td>
 </tr>
 <tr>
-<td rowspan="3">Прямой результат (показатели количества)</td>
-<td colspan="2">1.</td>
-<td colspan="3"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
+<td></td>
+<td>№ п/п</td>
+<td colspan="2">Получатели</td>
+<td colspan="4">по плану финансирования</td>
+<td colspan="4">Перечислено фактически</td>
+</tr>
+<tr>
+<td rowspan="5"></td>
+<td rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2">Дата перечисления (месяц, год)</td>
+<td colspan="2" rowspan="2">сумма, тыс. тенге</td>
+<td rowspan="2">дата перечисления (день, месяц, год)</td>
+<td colspan="2">документ</td>
+<td>сумма, тыс. тенге</td>
+</tr>
+<tr>
+<td>наименование</td>
+<td>№</td>
+<td></td>
+</tr>
+<tr>
+<td>1.</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>…</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>n</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Раздел 7. Результат</td>
+<td rowspan="2">№ п/п</td>
+<td rowspan="2">Целевой индикатор</td>
+<td rowspan="2">ед. изм.</td>
+<td colspan="2">за два года, предшествующих отчетному полугодию</td>
+<td colspan="2">за год, предшествующий отчетному полугодию</td>
+<td colspan="4">в отчетном полугодии</td>
+</tr>
+<tr>
+<td colspan="2">факт</td>
+<td colspan="2">факт</td>
+<td colspan="2">план за полугодие</td>
+<td colspan="2">факт</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>за год</td>
+<td>нарастающим итогом</td>
+<td>за год</td>
+<td>нарастающим итогом</td>
+<td></td>
+<td></td>
+<td>за полугодие</td>
+<td>нарастающим итогом</td>
+</tr>
+<tr>
+<td rowspan="3">Прямой результат</td>
+<td>1.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>…</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>n</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">Конечный результат Раздел 8. Ответственный исполнитель</td>
+<td>Влияние достигнутого прямого результата на достижение цели бюджетной программы (подпрограммы) и отрасли (сферы, региона), курируемой Администратором бюджетных программ</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Фамилия</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Имя</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">Конечный результат Раздел 8. Ответственный исполнитель</td>
+<td>Должность</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Адрес</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Контактные телефоны</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Конечный результат</td>
+<td colspan="4">Факс</td>
 <td colspan="7"></td>
-<td colspan="9"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="2">…</td>
-<td colspan="3"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
+<td rowspan="2">Раздел 8. Ответственный исполнитель</td>
+<td colspan="4">Электронная почта</td>
 <td colspan="7"></td>
-<td colspan="9"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="2">n</td>
-<td colspan="3"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3"></td>
 <td colspan="7"></td>
-<td colspan="9"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td rowspan="3">Показатели качества</td>
-<td colspan="2">1.</td>
-<td colspan="3"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="9"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2">…</td>
-<td colspan="3"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="9"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2">N</td>
-<td colspan="3"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="9"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td rowspan="3">Показатели эффективности</td>
-<td colspan="2">1.</td>
-<td colspan="3"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="9"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2">…</td>
-<td colspan="3"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="9"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2">n</td>
-<td colspan="3"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="9"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>Конечный результат (показатели результата)</td>
-<td colspan="17">Влияние достигнутого прямого результата на достижение цели бюджетной программы и отрасли (сферы, региона), курируемой Администратором бюджетных программ</td>
-<td colspan="37"></td>
-</tr>
-<tr>
-<td rowspan="10">Раздел 8. Ответственный исполнитель</td>
-<td colspan="17">Фамилия</td>
-<td colspan="37"></td>
-</tr>
-<tr>
-<td colspan="17">Имя</td>
-<td colspan="37"></td>
-</tr>
-<tr>
-<td colspan="17">Отчество (при наличии)</td>
-<td colspan="37"></td>
-</tr>
-<tr>
-<td colspan="17">Наименование государственного органа</td>
-<td colspan="37"></td>
-</tr>
-<tr>
-<td colspan="17">Наименование структурного подразделения государственного органа</td>
-<td colspan="37"></td>
-</tr>
-<tr>
-<td colspan="17">Должность</td>
-<td colspan="37"></td>
-</tr>
-<tr>
-<td colspan="17">Адрес</td>
-<td colspan="37"></td>
-</tr>
-<tr>
-<td colspan="17">Контактные телефоны</td>
-<td colspan="37"></td>
-</tr>
-<tr>
-<td colspan="17">Факс</td>
-<td colspan="37"></td>
-</tr>
-<tr>
-<td colspan="17">Электронная почта</td>
-<td colspan="37"></td>
 </tr>
 </table>
 
@@ -2611,17 +2508,16 @@ __________________________________ М.П. ________________
 подпись (Ф.И.О)
 
 > *Приложение 40*  
-> *к Правилам*  
-> *разработки или корректировки,*  
+> *к Правилам разработки или корректировки,*  
 > *проведения необходимых экспертиз*  
-> *инвестиционного предложения*  
-> *государственного инвестиционного*  
-> *проекта, а также планирования,*  
-> *рассмотрения, отбора, мониторинга и*  
-> *оценки реализации бюджетных*  
-> *инвестиций*
+> *инвестиционного предложения государственного*  
+> *инвестиционного проекта, а также планирования,*  
+> *рассмотрения, отбора, мониторинга и оценки*  
+> *реализации бюджетных инвестиций*
 
-### Форма «Бюджетная программа»
+### Форма «Бюджетная программа (подпрограмма)»
+
+> *Сноска. Приложение 40 в редакции приказа и.о. Министра национальной экономики РК от 25.11.2015 № 721.*
 
 <table>
 <tr>
@@ -2638,7 +2534,7 @@ __________________________________ М.П. ________________
 <td colspan="2"></td>
 </tr>
 <tr>
-<td rowspan="9">Бюджетная программа</td>
+<td rowspan="7">Бюджетная программа (подпрограмма)</td>
 <td>Код</td>
 <td colspan="2"></td>
 </tr>
@@ -2669,15 +2565,6 @@ __________________________________ М.П. ________________
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">Задача</td>
-<td>Код</td>
-<td></td>
-</tr>
-<tr>
-<td>название</td>
-<td></td>
-</tr>
-<tr>
 <td rowspan="2">Получатель*</td>
 <td colspan="2">организационно-правовая форма</td>
 <td></td>
@@ -2696,7 +2583,7 @@ __________________________________ М.П. ________________
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">Участник...</td>
+<td rowspan="2">Участник ...</td>
 <td colspan="2">организационно-правовая форма</td>
 <td></td>
 </tr>
@@ -2730,17 +2617,16 @@ __________________________________ М.П. ________________
 подпись Ф.И.О. дата
 
 > *Приложение 41*  
-> *к Правилам*  
-> *разработки или корректировки,*  
+> *к Правилам разработки или корректировки,*  
 > *проведения необходимых экспертиз*  
-> *инвестиционного предложения*  
-> *государственного инвестиционного*  
-> *проекта, а также планирования,*  
-> *рассмотрения, отбора, мониторинга и*  
-> *оценки реализации бюджетных*  
-> *инвестиций*
+> *инвестиционного предложения государственного*  
+> *инвестиционного проекта, а также планирования,*  
+> *рассмотрения, отбора, мониторинга и оценки*  
+> *реализации бюджетных инвестиций*
 
 ### Форма «Приобретение финансовых активов, увеличение уставного капитала»
+
+> *Сноска. Приложение 41 в редакции приказа и.о. Министра национальной экономики РК от 25.11.2015 № 721.*
 
 <table>
 <tr>
@@ -2748,11 +2634,7 @@ __________________________________ М.П. ________________
 <td colspan="2"></td>
 </tr>
 <tr>
-<td rowspan="2">
-Финансово-
-экономическое
-обоснование
-</td>
+<td rowspan="2">Финансово-экономическоеобоснование</td>
 <td colspan="2">Наименование</td>
 <td></td>
 </tr>
@@ -2761,7 +2643,7 @@ __________________________________ М.П. ________________
 <td></td>
 </tr>
 <tr>
-<td rowspan="5">Бюджетная программа</td>
+<td rowspan="3">Бюджетная программа (подпрограмма)</td>
 <td>Код</td>
 <td colspan="2"></td>
 </tr>
@@ -2772,15 +2654,6 @@ __________________________________ М.П. ________________
 <tr>
 <td>Описание</td>
 <td colspan="2"></td>
-</tr>
-<tr>
-<td rowspan="2">Задача</td>
-<td>номер</td>
-<td></td>
-</tr>
-<tr>
-<td>название</td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="2">Получатель</td>
@@ -2811,10 +2684,7 @@ __________________________________ М.П. ________________
 <tr>
 <td colspan="2">количество, штук</td>
 <td colspan="2">цена, тыс. тенге</td>
-<td colspan="2">
-стоимость,
-тыс. тенге
-</td>
+<td colspan="2">стоимость, тыс. тенге</td>
 <td colspan="2">дата оприходования финансовых активов</td>
 <td colspan="2">Всего</td>
 <td colspan="2">в том числе в государственной собственности</td>
@@ -3077,75 +2947,65 @@ __________________________________ М.П. ________________
 </tr>
 </table>
 
-Руководитель ____________ __________ ____________
+Руководитель ____________ ____________ ____________________
 
 подпись Ф.И.О. дата
 
 > *Приложение 42*  
-> *к Правилам*  
-> *разработки или корректировки,*  
+> *к Правилам разработки или корректировки,*  
 > *проведения необходимых экспертиз*  
-> *инвестиционного предложения*  
-> *государственного инвестиционного*  
-> *проекта, а также планирования,*  
-> *рассмотрения, отбора, мониторинга и*  
-> *оценки реализации бюджетных*  
-> *инвестиций*
+> *инвестиционного предложения государственного*  
+> *инвестиционного проекта, а также планирования,*  
+> *рассмотрения, отбора, мониторинга и оценки*  
+> *реализации бюджетных инвестиций*
 
 ### Форма «Стоимость и характеристики приобретенных активов»*
+
+> *Сноска. Приложение 42 в редакции приказа и.о. Министра национальной экономики РК от 25.11.2015 № 721.*
 
 <table>
 <tr>
 <td>Администратор бюджетной программы</td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td rowspan="2">Финансово-экономическое обоснование</td>
-<td colspan="2">Наименование</td>
+<td>Наименование</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">Сумма бюджетных инвестиций, тыс.тенге</td>
+<td>Сумма бюджетных инвестиций, тыс.тенге</td>
 <td></td>
 </tr>
 <tr>
-<td rowspan="5">Бюджетная программа</td>
+<td rowspan="3">Бюджетная программа (подпрограмма)</td>
 <td>Код</td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>Название</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Описание</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td rowspan="2">Задача</td>
-<td>номер</td>
 <td></td>
 </tr>
 <tr>
-<td>название</td>
+<td>Описание</td>
 <td></td>
 </tr>
 <tr>
 <td rowspan="2">Получатель</td>
-<td colspan="2">организационно-правовая форма</td>
+<td>организационно-правовая форма</td>
 <td></td>
 </tr>
 <tr>
 <td>название</td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>Отчетный период</td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>Ответственный исполнитель</td>
-<td colspan="3">ФИО, контактные телефоны</td>
+<td colspan="2">ФИО, контактные телефоны</td>
 </tr>
 </table>
 
@@ -3159,15 +3019,12 @@ __________________________________ М.П. ________________
 </td>
 <td rowspan="3">Наименование приобретенных активов</td>
 <td colspan="4" rowspan="3">Показатели</td>
-<td colspan="6">
-Характеристики***
-приобретенного (созданного) актива
-</td>
+<td colspan="6">Характеристики*** приобретенного (созданного) актива</td>
 <td colspan="2" rowspan="2">Дата (ММ. ГГГГ) приобретения (создания) актива</td>
 </tr>
 <tr>
 <td colspan="2">характеристика 1</td>
-<td colspan="2">характеристика...</td>
+<td colspan="2">характеристика ...</td>
 <td colspan="2">характеристика N</td>
 </tr>
 <tr>
@@ -3322,17 +3179,16 @@ __________________________________ М.П. ________________
 подпись Ф.И.О. дата
 
 > *Приложение 43*  
-> *к Правилам*  
-> *разработки или корректировки,*  
+> *к Правилам разработки или корректировки,*  
 > *проведения необходимых экспертиз*  
-> *инвестиционного предложения*  
-> *государственного инвестиционного*  
-> *проекта, а также планирования,*  
-> *рассмотрения, отбора, мониторинга и*  
-> *оценки реализации бюджетных*  
-> *инвестиций*
+> *инвестиционного предложения государственного*  
+> *инвестиционного проекта, а также планирования,*  
+> *рассмотрения, отбора, мониторинга и оценки*  
+> *реализации бюджетных инвестиций*
 
 ### Форма «Результат»
+
+> *Сноска. Приложение 43 в редакции приказа и.о. Министра национальной экономики РК от 25.11.2015 № 721.*
 
 <table>
 <tr>
@@ -3349,7 +3205,7 @@ __________________________________ М.П. ________________
 <td></td>
 </tr>
 <tr>
-<td rowspan="5">Бюджетная программа</td>
+<td rowspan="3">Бюджетная программа (подпрограмма)</td>
 <td>Код</td>
 <td></td>
 </tr>
@@ -3360,13 +3216,6 @@ __________________________________ М.П. ________________
 <tr>
 <td>Описание</td>
 <td></td>
-</tr>
-<tr>
-<td rowspan="2">Задача</td>
-<td>номер</td>
-</tr>
-<tr>
-<td>название</td>
 </tr>
 <tr>
 <td rowspan="2">Получатель</td>
@@ -3385,7 +3234,7 @@ __________________________________ М.П. ________________
 </tr>
 </table>
 
-«Прямой результат (показатели количества)»
+«Прямой результат»
 
 <table>
 <tr>
@@ -3397,7 +3246,7 @@ __________________________________ М.П. ________________
 <td colspan="4">Целевой индикатор</td>
 </tr>
 <tr>
-<td rowspan="2">ед.измерения</td>
+<td rowspan="2">ед.из-мерения</td>
 <td rowspan="2">за аналогичный период года, предшествующего отчетному периоду</td>
 <td colspan="2">в отчетном периоде</td>
 </tr>
@@ -3443,19 +3292,16 @@ __________________________________ М.П. ________________
 </tr>
 </table>
 
-«Конечный результат (показатели результата)»
+«Конечный результат»
 
 <table>
 <tr>
-<td rowspan="3">
-№
-п/п
-</td>
+<td rowspan="3">№ п/п</td>
 <td rowspan="3">Наименование</td>
 <td colspan="4">Целевой индикатор</td>
 </tr>
 <tr>
-<td rowspan="2">ед.измерения</td>
+<td rowspan="2">ед.из-мерения</td>
 <td rowspan="2">за аналогичный период года, предшествующего отчетному периоду</td>
 <td colspan="2">в отчетном периоде</td>
 </tr>
@@ -3498,133 +3344,6 @@ __________________________________ М.П. ________________
 <tr>
 <td>N</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-«Показатели качества»
-
-<table>
-<tr>
-<td rowspan="3">
-№
-п/п
-</td>
-<td rowspan="3">Наименование</td>
-<td colspan="4">Целевой индикатор</td>
-</tr>
-<tr>
-<td rowspan="2">ед.измерения</td>
-<td rowspan="2">
-за аналогичный
-период года,
-предшествующего
-отчетному периоду
-</td>
-<td colspan="2">в отчетном периоде</td>
-</tr>
-<tr>
-<td>план</td>
-<td>факт</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td>1.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>…</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>N</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Текстовая информация</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-«Показатели эффективности»
-
-<table>
-<tr>
-<td rowspan="3">
-№
-п/п
-</td>
-<td rowspan="3">Наименование</td>
-<td colspan="4">Целевой индикатор</td>
-</tr>
-<tr>
-<td rowspan="2">ед.измерения</td>
-<td rowspan="2">за аналогичный период года, предшествующего отчетному периоду</td>
-<td colspan="2">в отчетном периоде</td>
-</tr>
-<tr>
-<td>план</td>
-<td>факт</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td>1.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>…</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>N</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Текстовая информация</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4525,8 +4244,6 @@ TA – среднегодовая сумма активов.
 
 7\. Коэффициент рентабельности собственного капитала (return on equity, ROE ) показывает сколько компания имеет чистой прибыли с единицы собственного капитала. Рассчитывается по формуле:
 
-*100%
-
 где:
 
 NI – чистая прибыль;
@@ -4628,16 +4345,158 @@ AP – среднегодовая стоимость кредиторской з
 Рекомендуемое значение: высокое значение показателя. Низкое значение показателя может свидетельствовать с одной стороны, о проблемах с оплатой с кредиторами, с другой стороны, об эффективно налаженных отношениях с кредиторами. В целях исключения варианта с первой причиной, значение коэффициента необходимо анализировать в динамике.
 
 > *Приложение 49*  
-> *к Правилам разработки или*  
-> *корректировки, проведения*  
-> *необходимых экспертиз*  
-> *инвестиционного предложения*  
-> *государственного инвестиционного*  
-> *проекта, а также*  
-> *планирования, рассмотрения,*  
-> *отбора, мониторинга и оценки*  
-> *реализации бюджетных*  
-> *инвестиций, планирования*  
-> *бюджетного кредитования на реализацию*  
-> *государственной инвестиционной*  
-> *политики финансовыми агентствами*
+> *к Правилам разработки или корректировки,*  
+> *проведения необходимых экспертиз*  
+> *инвестиционного предложения государственного*  
+> *инвестиционного проекта, а также планирования,*  
+> *рассмотрения, отбора, мониторинга и оценки*  
+> *реализации бюджетных инвестиций*
+
+## Форма «Экономическое заключение по ФЭО бюджетного кредита»
+
+> *Сноска. Правила дополнены Приложением 49 в соответствии с приказом Министра национальной экономики РК от 12.10.2015 № 663; в редакции приказа и.о. Министра национальной экономики РК от 25.11.2015 № 721.*
+
+<table>
+<tr>
+<td>1.</td>
+<td colspan="3">Раздел «Общие сведения»</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Наименование проекта</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Наименование администратора бюджетной программы</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="2" rowspan="3">Наименования участников финансовой схемы</td>
+<td>участник 1</td>
+<td></td>
+</tr>
+<tr>
+<td>участник 2</td>
+<td></td>
+</tr>
+<tr>
+<td>участник n</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Цель предоставления кредита</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="2" rowspan="3">Общая стоимость проекта с разбивкой финансирования по годам</td>
+<td>год 1</td>
+<td></td>
+</tr>
+<tr>
+<td>год 2</td>
+<td></td>
+</tr>
+<tr>
+<td>год n</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Источники и форма финансирования проекта</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="8"></td>
+<td rowspan="8">Условия предоставления бюджетного кредита</td>
+<td colspan="2">размер бюджетного кредита (тысяч тенге)</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">принципы бюджетного кредитования, в соответствии с которыми предоставляется кредит</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">срок предоставления кредита</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">период освоения кредита заемщиком</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">льготный период</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">ставка вознаграждения</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">периодичность выплаты начисленного вознаграждения по кредиту</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">метод погашения кредита</td>
+<td></td>
+</tr>
+<tr>
+<td>2.</td>
+<td colspan="3">Раздел «Соответствие мероприятий ФЭО бюджетного кредита критериям бюджетного кредитования»</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Соответствие мероприятий ФЭО бюджетного кредита критерию «экономическая и социальная эффективность реализации мероприятий посредством бюджетного кредитования»</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Соответствие мероприятий ФЭО бюджетного кредита критерию «окупаемость мероприятий, реализуемых за счет бюджетного кредита»</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Соответствие мероприятий ФЭО бюджетного кредита критерию «кредитоспособность заемщика в соответствии с критериями, определяемыми уполномоченным органом по исполнению бюджета по согласованию с уполномоченным органом по государственному планированию»</td>
+<td></td>
+</tr>
+<tr>
+<td>3.</td>
+<td colspan="3">Раздел 4 «Риски»</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Основные риски по проекту и меры по их снижению</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Распределение критических рисков между участниками финансовой схемы проекта</td>
+<td></td>
+</tr>
+<tr>
+<td>4.</td>
+<td colspan="3">Раздел «Результаты»</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Прямой результат</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Конечный результат</td>
+<td></td>
+</tr>
+<tr>
+<td>5.</td>
+<td colspan="3">Раздел «Выводы»</td>
+<td></td>
+</tr>
+</table>

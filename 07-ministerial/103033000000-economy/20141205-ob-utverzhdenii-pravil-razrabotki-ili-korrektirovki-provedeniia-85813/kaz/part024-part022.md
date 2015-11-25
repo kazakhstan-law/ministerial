@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85813/kaz/12.10.2015
+source: https://zan.gov.kz/client/#!/doc/85813/kaz/25.11.2015
 ---
 
 ## «Бюджеттік инвестициялық жобалардың есепті кезең ішіндегі іске асырылу барысы туралы есеп» нысаны
@@ -1374,15 +1374,13 @@ ________________________________________________ М.О. ______________
 <tr>
 <td></td>
 <td>
-Мемлекеттік инвестициялық
-жобаның инвестициялық
-ұсынысын әзірлеу немесе
-түзету, қажетті сараптамаларды
-жүргізу, сондай-ақ бюджеттік
-инвестицияларды жоспарлау,
-қарау, іріктеу, мониторингілеу
-және іске асырылуын бағалау
-қағидаларына
+Мемлекеттік инвестициялық жобаның
+инвестициялық ұсынысын әзірлеу
+немесе түзету, қажетті
+сараптамаларды жүргізу, сондай-ақ
+бюджеттік инвестицияларды жоспарлау,
+қарау, іріктеу, мониторингілеу және
+іске асырылуын бағалау қағидаларына
 38-қосымша
 </td>
 </tr>
@@ -1390,626 +1388,569 @@ ________________________________________________ М.О. ______________
 
 ### «__________________________________________________________ (квазимемлекеттік сектор субъектісінің атауы) заңды тұлғалардың жарғылық капиталына мемлекеттің қатысуы арқылы бюджеттік инвестициялар есебінен іске асырылатын іс-шаралардың іске асырылуын мониторингілеу жөніндегі квазимемлекеттік сектор субъектісінің есебі» нысаны
 
+> *Ескерту. 38-қосымша жаңа редакцияда - ҚР Ұлттық экономика министрінің м.а. 25.11.2015 № 721 бұйрығымен.*
+
 <table>
 <tr>
-<td rowspan="11">1-бөлім. Бюджеттік бағдарлама</td>
-<td colspan="5">Коды</td>
-<td colspan="36"></td>
+<td rowspan="9">1-бөлім. Бюджеттік бағдарлама</td>
+<td colspan="2">Коды</td>
+<td colspan="13"></td>
 </tr>
 <tr>
-<td colspan="5">Атауы</td>
-<td colspan="36"></td>
+<td colspan="2">Атауы</td>
+<td colspan="13"></td>
 </tr>
 <tr>
-<td colspan="5">Сипаттамасы</td>
-<td colspan="36"></td>
+<td colspan="2">Сипаттамасы</td>
+<td colspan="13"></td>
 </tr>
 <tr>
-<td colspan="5" rowspan="2">Стратегиялық бағыты</td>
-<td colspan="4">нөмірі</td>
-<td colspan="32"></td>
+<td colspan="2" rowspan="2">Стратегиялық бағыты</td>
+<td>нөмірі</td>
+<td colspan="12"></td>
 </tr>
 <tr>
-<td colspan="4">атауы</td>
-<td colspan="32"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="5" rowspan="2">Мақсаты</td>
-<td colspan="4">нөмірі</td>
-<td colspan="32"></td>
+<td colspan="2" rowspan="2">Мақсаты</td>
+<td>нөмірі</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="4">атауы</td>
-<td colspan="32"></td>
+<td>атауы</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="5" rowspan="2">Міндеті</td>
-<td colspan="4">нөмірі</td>
-<td colspan="32"></td>
+<td colspan="2">Сомасы, мың теңге</td>
+<td colspan="13"></td>
 </tr>
 <tr>
-<td colspan="4">атауы</td>
-<td colspan="32"></td>
-</tr>
-<tr>
-<td colspan="5">Сомасы, мың теңге</td>
-<td colspan="36"></td>
-</tr>
-<tr>
-<td colspan="5">Іске асыру кезеңі</td>
-<td colspan="4">бастап</td>
-<td colspan="9"></td>
-<td colspan="8">дейін</td>
-<td colspan="15"></td>
+<td colspan="2">Іске асыру кезеңі</td>
+<td>бастап</td>
+<td></td>
+<td colspan="3">дейін</td>
+<td colspan="8"></td>
 </tr>
 <tr>
 <td rowspan="19">2-бөлім. Іс-шаралар</td>
-<td colspan="2" rowspan="3">Р/с №</td>
-<td colspan="3" rowspan="3">Акционерлік қоғамдар</td>
-<td colspan="36">Акцияларды сатып алу</td>
+<td rowspan="3">Р/с №</td>
+<td rowspan="3">Акционерлік қоғамдар</td>
+<td colspan="13">Акцияларды сатып алу</td>
 </tr>
 <tr>
-<td colspan="16">Бюджеттiк инвестицияларды іске асыру есебінен орналастырылған акциялардың саны, дана</td>
-<td colspan="20">Бюджеттiк инвестицияларды іске асыру есебінен орналастырылған акциялардың құны, мың теңге</td>
+<td colspan="2">Бюджеттiк инвестицияларды іске асыру есебінен орналастырылған акциялардың саны, дана</td>
+<td colspan="11">Бюджеттiк инвестицияларды іске асыру есебінен орналастырылған акциялардың құны, мың теңге</td>
 </tr>
 <tr>
-<td colspan="9">Бюджеттiк инвестицияларды іске асырғанға дейін</td>
-<td colspan="7">Бюджеттiк инвестицияларды іске асырғаннан кейін</td>
-<td colspan="5">кезеңінде</td>
-<td colspan="15">барлығы</td>
+<td>Бюджеттiк инвестицияларды іске асырғанға дейін</td>
+<td>Бюджеттiк инвестицияларды іске асырғаннан кейін</td>
+<td colspan="4">кезеңінде</td>
+<td colspan="7">барлығы</td>
 </tr>
 <tr>
-<td colspan="2">1 кезең</td>
-<td colspan="3"></td>
-<td colspan="9"></td>
+<td>1 кезең</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 <td colspan="7"></td>
-<td colspan="5"></td>
-<td colspan="15"></td>
 </tr>
 <tr>
-<td colspan="2">…</td>
-<td colspan="3"></td>
-<td colspan="9"></td>
+<td>…</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 <td colspan="7"></td>
-<td colspan="5"></td>
-<td colspan="15"></td>
 </tr>
 <tr>
-<td colspan="2">n кезең</td>
-<td colspan="3"></td>
-<td colspan="9"></td>
+<td>n кезең</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 <td colspan="7"></td>
-<td colspan="5"></td>
-<td colspan="15"></td>
 </tr>
 <tr>
-<td colspan="41">Акцияларды (бағалы қағаздарды) шығаруды мемлекеттік тіркеу мәліметтері</td>
+<td colspan="2">Акцияларды (бағалы қағаздарды) шығаруды мемлекеттік тіркеу мәліметтері</td>
+<td colspan="13"></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">Р/с №</td>
-<td colspan="3" rowspan="3">Серіктестіктер</td>
-<td colspan="6">Жарғылық капиталды ұлғайту, мың теңге</td>
-<td colspan="7">Жарғылық капитал мөлшерінің жиыны, мың теңге</td>
-<td colspan="23">Қатысушылардан қатысу үлестерін сатып алу</td>
+<td rowspan="3">Р/с №</td>
+<td rowspan="3">Серіктестіктер</td>
+<td colspan="2">Жарғылық капиталды ұлғайту, мың теңге</td>
+<td colspan="3">Жарғылық капитал мөлшерінің жиыны, мың теңге</td>
+<td colspan="8">Қатысушылардан қатысу үлестерін сатып алу</td>
 </tr>
 <tr>
-<td colspan="4" rowspan="2">жоспар</td>
+<td rowspan="2">жоспар</td>
+<td rowspan="2">нақты</td>
+<td rowspan="2">жоспар</td>
 <td colspan="2" rowspan="2">нақты</td>
-<td colspan="3" rowspan="2">жоспар</td>
-<td colspan="4" rowspan="2">нақты</td>
-<td colspan="8">%</td>
-<td colspan="7">құны, мың теңге</td>
-<td colspan="8">мемлекеттік меншіктегі қатысу үлестері, %</td>
+<td colspan="2">%</td>
+<td colspan="2">құны, мың теңге</td>
+<td colspan="4">мемлекеттік меншіктегі қатысу үлестері, %</td>
 </tr>
 <tr>
-<td colspan="3">жоспар</td>
-<td colspan="5">нақты</td>
+<td>жоспар</td>
+<td>нақты</td>
+<td>жоспар</td>
+<td>нақты</td>
 <td colspan="2">жоспар</td>
-<td colspan="5">нақты</td>
-<td colspan="5">жоспар</td>
-<td colspan="3">нақты</td>
+<td colspan="2">нақты</td>
 </tr>
 <tr>
-<td colspan="2">1 кезең</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td>1 кезең</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2">…</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
+</tr>
+<tr>
+<td>…</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2">n кезең</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="5"></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="9">Мемлекеттік кәсіпорындар</td>
-<td colspan="15">Жарғылық капиталын ұлғайту, мың теңге</td>
-<td colspan="15">Жарғылық капитал мөлшерінің жиыны, мың теңге</td>
-</tr>
-<tr>
+<td>n кезең</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="9"></td>
-<td colspan="7">жоспар</td>
-<td colspan="8">нақты</td>
-<td colspan="7">жоспар</td>
-<td colspan="8">нақты</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">1 кезең</td>
-<td colspan="9"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="3"></td>
+<td>Р/с №</td>
+<td colspan="3">Мемлекеттік кәсіпорындар</td>
+<td colspan="5">Жарғылық капиталын ұлғайту, мың теңге</td>
+<td colspan="6">Жарғылық капитал мөлшерінің жиыны, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2">…</td>
-<td colspan="9"></td>
+<td></td>
 <td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="3"></td>
+<td colspan="3">жоспар</td>
+<td colspan="2">нақты</td>
+<td colspan="2">жоспар</td>
+<td colspan="4">нақты</td>
 </tr>
 <tr>
-<td colspan="2">n кезең</td>
-<td colspan="9"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="3"></td>
+<td>1 кезең</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="11">Заңды тұлғаны мемлекеттік қайта тіркеу мәліметтері</td>
-<td colspan="30"></td>
+<td>…</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>n кезең</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4">Заңды тұлғаны мемлекеттік қайта тіркеу мәліметтері</td>
+<td colspan="11"></td>
 </tr>
 <tr>
 <td rowspan="5">
 3-бөлім.
 Іске асыру кестесі, жоспар/ нақты мың теңге
 </td>
-<td colspan="3" rowspan="2">Р/с №</td>
-<td colspan="3" rowspan="2">Іс-шаралар</td>
-<td colspan="35">Іс-шаралардың іске асырылған жылы</td>
+<td rowspan="2">Р/с №</td>
+<td colspan="2" rowspan="2">Іс-шаралар</td>
+<td colspan="12">Іс-шаралардың іске асырылған жылы</td>
 </tr>
 <tr>
-<td colspan="3">Қаңтар</td>
-<td colspan="2">Ақпан</td>
-<td colspan="2">Наурыз</td>
-<td colspan="3">Сәуір</td>
-<td colspan="3">Мамыр</td>
-<td colspan="3">Маусым</td>
-<td colspan="3">Шілде</td>
-<td colspan="2">Тамыз</td>
-<td colspan="5">Қыркүйек</td>
-<td colspan="4">Қазан</td>
-<td colspan="4">Қараша</td>
+<td>Қаңтар</td>
+<td>Ақпан</td>
+<td>Наурыз</td>
+<td>Сәуір</td>
+<td>Мамыр</td>
+<td>Маусым</td>
+<td>Шілде</td>
+<td>Тамыз</td>
+<td>Қыркүйек</td>
+<td>Қазан</td>
+<td>Қараша</td>
 <td>Желтоқсан</td>
 </tr>
 <tr>
-<td colspan="3">1 кезең</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>1 кезең</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="3">…</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>…</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="3">n кезең</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>n кезең</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td rowspan="5">4-бөлім. Оларды іске асыру үшін бюджеттік инвестициялар жүзеге асырылған мемлекеттік жоспарлау жүйелері</td>
-<td colspan="3" rowspan="2">Р/с №</td>
-<td colspan="13" rowspan="2">Құжаттың атауы</td>
-<td colspan="25">Мемлекеттік жоспарлау жүйесінің құжаты бекітілген нормативтік құқықтық акт</td>
+<td rowspan="2">Р/с №</td>
+<td colspan="4" rowspan="2">Құжаттың атауы</td>
+<td colspan="10">Мемлекеттік жоспарлау жүйесінің құжаты бекітілген нормативтік құқықтық акт</td>
 </tr>
 <tr>
-<td colspan="9">Түрі</td>
-<td colspan="7">Қабылданған күні</td>
-<td colspan="9">Нөмірі</td>
+<td colspan="3">Түрі</td>
+<td colspan="5">Қабылданған күні</td>
+<td colspan="2">Нөмірі</td>
 </tr>
 <tr>
-<td colspan="3">1.</td>
-<td colspan="13"></td>
-<td colspan="9"></td>
-<td colspan="7"></td>
-<td colspan="9"></td>
-</tr>
-<tr>
-<td colspan="3">…</td>
-<td colspan="13"></td>
-<td colspan="9"></td>
-<td colspan="7"></td>
-<td colspan="9"></td>
-</tr>
-<tr>
-<td colspan="3">n</td>
-<td colspan="13"></td>
-<td colspan="9"></td>
-<td colspan="7"></td>
-<td colspan="9"></td>
-</tr>
-<tr>
+<td>1</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
-<td colspan="40">Бюджеттік бағдарламалар әкімшісінің шотынан аударылды</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="14">5-бөлім. Қаржыландыру сызбасы (есепті жарты жылдық)</td>
-<td colspan="6" rowspan="3">Алушы</td>
-<td colspan="16">Бюджеттік бағдарламалар әкімшісін қаржыландыру жоспары бойынша</td>
-<td colspan="18">іс жүзінде аударылды</td>
+<td>…</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="10" rowspan="2">Аударылған күні (айы, жылы)</td>
-<td colspan="6" rowspan="2">сомасы, мың теңге</td>
-<td colspan="6" rowspan="2">Аударылған күні (күні, айы, жылы)</td>
-<td colspan="8">құжат</td>
-<td colspan="4">сомасы, мың теңге</td>
+<td>n</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="6">атауы</td>
+<td rowspan="15">5-бөлім. Қаржыландыру сызбасы (есепті жарты жылдық</td>
+<td colspan="15">Бюджеттік бағдарламалар әкімшісінің шотынан аударылды</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="3">Алушы</td>
+<td colspan="5">Бюджеттік бағдарламалар әкімшісін қаржыландыру жоспары бойынша</td>
+<td colspan="7">іс жүзінде аударылды</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">Аударылған күні (айы, жылы)</td>
+<td colspan="3" rowspan="2">сомасы, мың теңге</td>
+<td colspan="2" rowspan="2">Аударылған күні (айы, жылы</td>
+<td colspan="3">құжат</td>
+<td colspan="2" rowspan="2">сомасы, мың теңге</td>
+</tr>
+<tr>
+<td>атауы</td>
 <td colspan="2">№</td>
-<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">Р/с №</td>
-<td colspan="3"></td>
-<td colspan="10"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
+<td>Р/с №</td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-</tr>
-<tr>
-<td colspan="3">1.</td>
-<td colspan="3"></td>
-<td colspan="10"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-</tr>
-<tr>
-<td colspan="3">…</td>
 <td colspan="3"></td>
-<td colspan="10"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">n</td>
+<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="10"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="40">Алушының банктік шотынан аударылды</td>
+<td>…</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="3">Р/с №</td>
-<td colspan="6" rowspan="3">Алушы</td>
-<td colspan="13">қаржыландыру жоспары бойынша</td>
-<td colspan="18">іс жүзінде аударылды</td>
+<td>n</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="7" rowspan="2">аударылған күні (айы, жылы)</td>
-<td colspan="6" rowspan="2">сомасы, мың теңге</td>
-<td colspan="6" rowspan="2">аударылған күні (күні, айы, жылы)</td>
-<td colspan="8">құжат</td>
-<td colspan="4">сомасы, мың теңге</td>
+<td colspan="15">Алушының банктік шотынан аударылды</td>
 </tr>
 <tr>
-<td colspan="6">атауы</td>
+<td rowspan="3">Р/с №</td>
+<td colspan="2" rowspan="3">Алушы</td>
+<td colspan="5">қаржыландыру жоспары бойынша</td>
+<td colspan="7">іс жүзінде аударылды</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">аударылған күні (айы, жылы)</td>
+<td colspan="3" rowspan="2">сомасы, мың теңге</td>
+<td colspan="2" rowspan="2">аударылған күні (айы, жылы)</td>
+<td colspan="3">құжат</td>
+<td colspan="2" rowspan="2">сомасы, мың теңге</td>
+</tr>
+<tr>
+<td>атауы</td>
 <td colspan="2">№</td>
-<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">1.</td>
-<td colspan="6"></td>
-<td colspan="7"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
+<td>1.</td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-</tr>
-<tr>
-<td colspan="3">…</td>
-<td colspan="6"></td>
-<td colspan="7"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-</tr>
-<tr>
-<td colspan="3">n</td>
-<td colspan="6"></td>
-<td colspan="7"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">6-бөлім. Нәтиже</td>
-<td colspan="3" rowspan="3">Р/с №</td>
-<td colspan="4" rowspan="3">Нысаналы индикатор</td>
-<td colspan="4" rowspan="3">өлш. бірлігі</td>
-<td colspan="8">есепті жарты жылдықтың алдындағыдан екі жыл бұрын</td>
-<td colspan="7">есепті жарты жылдықтың алдындағыдан бір жыл бұрын</td>
-<td colspan="14">есепті жарты жылдықта</td>
+<td>…</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="8">нақты</td>
-<td colspan="7">нақты</td>
-<td colspan="7">жарты жылдықтағы жоспар</td>
-<td colspan="7">нақты</td>
+<td>n</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">жылда</td>
-<td colspan="5">үдемелі жиыны</td>
-<td colspan="4">жылда</td>
-<td colspan="3">үдемелі жиыны</td>
-<td colspan="7"></td>
-<td colspan="5">жарты жылдықта</td>
+<td rowspan="3">6-бөлім. Нәтиже</td>
+<td rowspan="3">Р/с №</td>
+<td rowspan="3">Нысаналы индикатор</td>
+<td rowspan="3">Өлщем бірлігі</td>
+<td colspan="2">есепті жарты жылдықтың алдындағыдан екі жыл бұрын</td>
+<td colspan="3">есепті жарты жылдықтың алдындағыдан бір жыл бұрын</td>
+<td colspan="7">есепті жарты жылдықта</td>
+</tr>
+<tr>
+<td colspan="2">нақты</td>
+<td colspan="3">нақты</td>
+<td colspan="3">жарты жылдықтағы жоспар</td>
+<td colspan="4">нақты</td>
+</tr>
+<tr>
+<td>жылда</td>
+<td>үдемелі жиыны</td>
+<td colspan="2">жылда</td>
+<td>үдемелі жиыны</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">жылда</td>
 <td colspan="2">үдемелі жиыны</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">Тікелей нәтиже (сандық көрсеткіштері)</td>
-<td colspan="3">1.</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
+<td rowspan="3">Тікелей нәтиже</td>
+<td>1.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">…</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
+<td>…</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">n</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
+<td>n</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">Сапалық көрсеткіштері</td>
-<td colspan="3">1.</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
+<td>Түпкілікті нәтиже</td>
+<td colspan="5">Тікелей нәтиженің Бюджеттік бағдарламалар әкімшісі жетекшілік ететін бюджеттік бағдарлама мен саланың (жүйенің, өңірдің) мақсаттарына қол жеткізуіне әсер етуі</td>
+<td colspan="10"></td>
 </tr>
 <tr>
-<td colspan="3">…</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
+<td rowspan="9">7-бөлім. Жауапты тұлға</td>
+<td colspan="7">Тегі</td>
+<td colspan="8"></td>
 </tr>
 <tr>
-<td colspan="3">n</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
+<td colspan="7">Аты</td>
+<td colspan="8"></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">Тиімділік көрсеткіштері</td>
-<td colspan="3">1.</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
+<td colspan="7">Әкесінің аты (бар болса)</td>
+<td colspan="8"></td>
 </tr>
 <tr>
-<td colspan="3">…</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
+<td colspan="7">Заңды тұлғаның атауы</td>
+<td colspan="8"></td>
 </tr>
 <tr>
-<td colspan="3">n</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
+<td colspan="7">Лауазым</td>
+<td colspan="8"></td>
 </tr>
 <tr>
-<td colspan="2">Түпкілікті нәтиже (нәтиже көрсеткіштері)</td>
-<td colspan="11">Тікелей нәтиженің Бюджеттік бағдарламалар әкімшісі жетекшілік ететін бюджеттік бағдарлама мен саланың (жүйенің, өңірдің) мақсаттарына қол жеткізуіне әсер етуі</td>
-<td colspan="29"></td>
+<td colspan="7">Мекен-жай</td>
+<td colspan="8"></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="9">7-бөлім. Жауапты тұлға</td>
-<td colspan="23">Тегі</td>
-<td colspan="17"></td>
+<td colspan="7">Байланыс телефоны</td>
+<td colspan="8"></td>
 </tr>
 <tr>
-<td colspan="23">Аты</td>
-<td colspan="17"></td>
+<td colspan="7">Факс</td>
+<td colspan="8"></td>
 </tr>
 <tr>
-<td colspan="23">Әкесінің аты (бар болса)</td>
-<td colspan="17"></td>
-</tr>
-<tr>
-<td colspan="23">Заңды тұлғаның атауы</td>
-<td colspan="17"></td>
-</tr>
-<tr>
-<td colspan="23">Лауазымы</td>
-<td colspan="17"></td>
-</tr>
-<tr>
-<td colspan="23">Мекенжайы</td>
-<td colspan="17"></td>
-</tr>
-<tr>
-<td colspan="23">Байланыс телефондары</td>
-<td colspan="17"></td>
-</tr>
-<tr>
-<td colspan="23">Факс</td>
-<td colspan="17"></td>
-</tr>
-<tr>
-<td colspan="23">Электрондық почтасы</td>
-<td colspan="17"></td>
+<td colspan="7">Электрондық пошта</td>
+<td colspan="8"></td>
 </tr>
 </table>
 
-Басшы ________ ___________ 20_ж. « __» _______________
+Басшы ________ __________________________ 20 _ж. «__» _____________
 
 (қолы) (Т.А.Ә.) (күні)
 
@@ -2017,15 +1958,13 @@ ________________________________________________ М.О. ______________
 <tr>
 <td></td>
 <td>
-Мемлекеттік инвестициялық
-жобаның инвестициялық
-ұсынысын әзірлеу немесе
-түзету, қажетті сараптамаларды
-жүргізу, сондай-ақ бюджеттік
-инвестицияларды жоспарлау,
-қарау, іріктеу, мониторингілеу
-және іске асырылуын бағалау
-қағидаларына
+Мемлекеттік инвестициялық жобаның
+инвестициялық ұсынысын әзірлеу
+немесе түзету, қажетті
+сараптамаларды жүргізу, сондай-ақ
+бюджеттік инвестицияларды жоспарлау,
+қарау, іріктеу, мониторингілеу және
+іске асырылуын бағалау қағидаларына
 39-қосымша
 </td>
 </tr>
@@ -2033,696 +1972,672 @@ ________________________________________________ М.О. ______________
 
 ### «Заңды тұлғалардың жарғылық капиталына мемлекеттiң қатысуы арқылы бюджеттiк инвестициялар есебінен іске асырылатын іс-шаралардың іске асырылуын мониторингілеу бойынша бюджеттік бағдарламалар әкімшісінің есебі ______________________________________________________________» нысаны (бюджеттік бағдарламалар әкімшісінің атауы)
 
+> *Ескерту. 39-қосымша жаңа редакцияда - ҚР Ұлттық экономика министрінің м.а. 25.11.2015 № 721 бұйрығымен.*
+
 <table>
 <tr>
-<td colspan="2" rowspan="11">
-1-бөлім.
-Бюджеттік бағдарлама
-</td>
-<td colspan="6">Коды</td>
-<td colspan="25"></td>
+<td rowspan="9">1-бөлім. Бюджеттік бағдарлама (кіші бағдарлама)</td>
+<td colspan="2">Коды</td>
+<td colspan="13"></td>
 </tr>
 <tr>
-<td colspan="6">Атауы</td>
-<td colspan="25"></td>
+<td colspan="2">Атауы</td>
+<td colspan="13"></td>
 </tr>
 <tr>
-<td colspan="6">Сипаттамасы</td>
-<td colspan="25"></td>
+<td colspan="2">Сипаттамасы</td>
+<td colspan="13"></td>
 </tr>
 <tr>
-<td colspan="6" rowspan="2">Стратегиялық бағыты</td>
-<td colspan="6">нөмірі</td>
-<td colspan="19"></td>
+<td colspan="2" rowspan="2">Стратегиялық бағыты</td>
+<td>нөмірі</td>
+<td colspan="12"></td>
 </tr>
 <tr>
-<td colspan="6">атауы</td>
-<td colspan="19"></td>
-</tr>
-<tr>
-<td colspan="6" rowspan="2">Мақсаты</td>
-<td colspan="6">нөмірі</td>
-<td colspan="19"></td>
-</tr>
-<tr>
-<td colspan="6">атауы</td>
-<td colspan="19"></td>
-</tr>
-<tr>
-<td colspan="6" rowspan="2">Міндеті</td>
-<td colspan="6">нөмірі</td>
-<td colspan="19"></td>
-</tr>
-<tr>
-<td colspan="6">атауы</td>
-<td colspan="19"></td>
-</tr>
-<tr>
-<td colspan="6">Сомасы, мың теңге</td>
-<td colspan="25"></td>
-</tr>
-<tr>
-<td colspan="6">Іске асыру кезеңі</td>
-<td colspan="6"></td>
-<td colspan="6">бастап</td>
+<td>атауы</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="9">дейін</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="19">
-2-бөлім.
-Іс-шаралар
-</td>
-<td colspan="2" rowspan="3">
-Р/с
-№
-</td>
-<td colspan="4" rowspan="3">Акционерлік қоғамдар</td>
-<td colspan="25">Акцияларды сатып алу</td>
-</tr>
-<tr>
-<td colspan="12">Бюджеттiк инвестицияларды іске асыру есебінен орналастырылған акциялардың саны, дана</td>
-<td colspan="13">Бюджеттiк инвестицияларды іске асыру есебінен орналастырылған акциялардың құны, мың теңге</td>
-</tr>
-<tr>
-<td colspan="6">бюджеттiк инвестицияларды іске асырғанға дейін</td>
-<td colspan="6">бюджеттiк инвестицияларды іске асырғаннан кейін</td>
-<td colspan="4">кезеңде</td>
-<td colspan="9">барлығы</td>
-</tr>
-<tr>
-<td colspan="2">1- кезең</td>
+<td colspan="2" rowspan="2">Мақсаты</td>
+<td>нөмірі</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
+</tr>
+<tr>
+<td>атауы</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="9"></td>
 </tr>
 <tr>
-<td colspan="2">…</td>
+<td colspan="2">Сомасы, мың теңге</td>
+<td colspan="13"></td>
+</tr>
+<tr>
+<td colspan="2">Іске асыру кезеңі</td>
+<td>бастап</td>
+<td></td>
+<td colspan="3">дейін</td>
+<td colspan="8"></td>
+</tr>
+<tr>
+<td rowspan="19">2-бөлім. Іс-шаралар</td>
+<td rowspan="3">Р/с №</td>
+<td rowspan="3">Акционерлік қоғамдар</td>
+<td colspan="13">Акцияларды сатып алу</td>
+</tr>
+<tr>
+<td colspan="2">Бюджеттiк инвестицияларды іске асыру есебінен орналастырылған акциялардың саны, дана</td>
+<td colspan="11">Бюджеттiк инвестицияларды іске асыру есебінен орналастырылған акциялардың құны, мың теңге</td>
+</tr>
+<tr>
+<td>Бюджеттiк инвестицияларды іске асырғанға дейін</td>
+<td>Бюджеттiк инвестицияларды іске асырғаннан кейін</td>
+<td colspan="4">кезеңінде</td>
+<td colspan="7">барлығы</td>
+</tr>
+<tr>
+<td>1 кезең</td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
+<td colspan="7"></td>
+</tr>
+<tr>
+<td>…</td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="9"></td>
+<td colspan="7"></td>
 </tr>
 <tr>
-<td colspan="2">n -кезең</td>
+<td>n кезең</td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="9"></td>
+<td colspan="7"></td>
 </tr>
 <tr>
-<td colspan="6">Акцияларды (бағалы қағаздарды) шығаруды мемлекеттік тіркеу мәліметтері</td>
-<td colspan="25"></td>
+<td colspan="2">Акцияларды (бағалы қағаздарды) шығаруды мемлекеттік тіркеу мәліметтері</td>
+<td colspan="13"></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">Р/с №</td>
-<td colspan="4" rowspan="3">Серіктестіктер</td>
-<td colspan="6" rowspan="2">Жарғылық капиталды ұлғайту, мың теңге</td>
-<td colspan="6" rowspan="2">Жарғылық капитал мөлшерінің жиыны, мың теңге</td>
-<td colspan="13">Қатысушылардан қатысу үлестерін сатып алу</td>
+<td rowspan="3">Р/с №</td>
+<td rowspan="3">Серіктестіктер</td>
+<td colspan="2">Жарғылық капиталды ұлғайту, мың теңге</td>
+<td colspan="3">Жарғылық капитал мөлшерінің жиыны, мың теңге</td>
+<td colspan="8">Қатысушылардан қатысу үлестерін сатып алу</td>
 </tr>
 <tr>
-<td colspan="4">%</td>
-<td colspan="6">құны, мың теңге</td>
-<td colspan="3">мемлекеттік меншіктегі қатысу үлесімен, %</td>
+<td rowspan="2">жоспар</td>
+<td rowspan="2">нақты</td>
+<td rowspan="2">жоспар</td>
+<td colspan="2" rowspan="2">нақты</td>
+<td colspan="2">%</td>
+<td colspan="2">құны, мың теңге</td>
+<td colspan="4">мемлекеттік меншіктегі қатысу үлестері, %</td>
 </tr>
 <tr>
-<td colspan="3">жоспар</td>
-<td colspan="3">нақты</td>
-<td colspan="4">жоспар</td>
-<td colspan="2">нақты</td>
-<td colspan="2">жоспар</td>
-<td colspan="2">нақты</td>
-<td colspan="3">жоспар</td>
-<td colspan="3">нақты</td>
-<td colspan="2">жоспар</td>
+<td>жоспар</td>
 <td>нақты</td>
+<td>жоспар</td>
+<td>нақты</td>
+<td colspan="2">жоспар</td>
+<td colspan="2">нақты</td>
 </tr>
 <tr>
-<td colspan="2">1 -кезең</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>1 кезең</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">…</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>…</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">n -кезең</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>n кезең</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">Р/с №</td>
-<td colspan="10" rowspan="2">Мемлекеттік кәсіпорындар</td>
-<td colspan="10">Жарғылық капиталды ұлғайту, мың теңге</td>
-<td colspan="9">Жарғылық капитал мөлшерінің жиыны, мың теңге</td>
+<td>Р/с №</td>
+<td colspan="3">Мемлкеттік кәсіпорындар</td>
+<td colspan="5">Жарғылық капиталын ұлғайту, мың теңге</td>
+<td colspan="6">Жарғылық капитал мөлшерінің жиыны, мың теңг</td>
 </tr>
 <tr>
-<td colspan="6">жоспар</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">жоспар</td>
+<td colspan="2">нақты</td>
+<td colspan="2">жоспар</td>
 <td colspan="4">нақты</td>
-<td colspan="6">жоспар</td>
-<td colspan="3">нақты</td>
 </tr>
 <tr>
-<td colspan="2">1 -кезең</td>
-<td colspan="10"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>1 кезең</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">…</td>
-<td colspan="10"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>…</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">n -кезең</td>
-<td colspan="10"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>n кезең</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="12">Заңды тұлғаны мемлекеттік қайта тіркеу мәліметтері</td>
-<td colspan="19"></td>
+<td colspan="4">Заңды тұлғаны мемлекеттік қайта тіркеу мәліметтері</td>
+<td colspan="11"></td>
 </tr>
 <tr>
 <td rowspan="5">
 3-бөлім.
-Іске асыру кестесі, жоспар/нақты мың теңге
+Іске асыру кестесі, жоспар/ нақты мың теңге
 </td>
-<td colspan="2" rowspan="2">Р/с №</td>
-<td colspan="3" rowspan="2">Іс-шаралар</td>
-<td colspan="27">Іс-шаралар іске асырылған жыл</td>
+<td rowspan="2">Р/с №</td>
+<td colspan="2" rowspan="2">Іс-шаралар</td>
+<td colspan="12">Іс-шаралардың іске асырылған жылы</td>
 </tr>
 <tr>
 <td>Қаңтар</td>
-<td colspan="3">Ақпан</td>
-<td colspan="2">Наурыз</td>
-<td colspan="3">Сәуір</td>
-<td colspan="2">Мамыр</td>
-<td colspan="2">Маусым</td>
-<td colspan="2">Шілде</td>
-<td colspan="2">Тамыз</td>
-<td colspan="3">Қыркүйек</td>
-<td colspan="3">Қазан</td>
-<td colspan="3">Қараша</td>
+<td>Ақпан</td>
+<td>Наурыз</td>
+<td>Сәуір</td>
+<td>Мамыр</td>
+<td>Маусым</td>
+<td>Шілде</td>
+<td>Тамыз</td>
+<td>Қыркуйек</td>
+<td>Қазан</td>
+<td>Қараша</td>
 <td>Желтоқсан</td>
 </tr>
 <tr>
-<td colspan="2">1- кезең</td>
-<td colspan="3"></td>
+<td>1 кезең</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td colspan="2">…</td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">n- кезең</td>
-<td colspan="3"></td>
+<td>…</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td rowspan="5">
-4-бөлім.
-Іске
-асыру үшін бюджеттік инвестициялар жүзеге асырылған Мемлекеттік жоспарлау жүйесінің құжаттары
-</td>
-<td colspan="2" rowspan="2">Р/с №</td>
-<td colspan="9" rowspan="2">Құжаттың атауы</td>
-<td colspan="21">Мемлекеттік жоспарлау жүйесінің құжаты бекітілген нормативтік құқықтық акті</td>
+<td>n кезең</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="7">Түрі</td>
-<td colspan="4">Қабылданған күні</td>
-<td colspan="10">Нөмірі</td>
+<td rowspan="5">4-бөлім. Іске асыру үшін бюджеттік инвестициялар жүзеге асырылған Мемлекеттік жоспарлау жүйесінің құжаттары</td>
+<td rowspan="2">Р/с №</td>
+<td colspan="4" rowspan="2">Құжаттың атауы</td>
+<td colspan="10">Мемлекеттік жоспарлау жүйесінің құжаты бекітілген нормативтік құқықтық акт</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="9"></td>
-<td colspan="7"></td>
+<td colspan="3">Түрі</td>
+<td colspan="5">Қабылданған күні</td>
+<td colspan="2">Нөмірі</td>
+</tr>
+<tr>
+<td>1</td>
 <td colspan="4"></td>
-<td colspan="10"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">…</td>
-<td colspan="9"></td>
-<td colspan="7"></td>
+<td>…</td>
 <td colspan="4"></td>
-<td colspan="10"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">n</td>
-<td colspan="9"></td>
-<td colspan="7"></td>
+<td>n</td>
 <td colspan="4"></td>
-<td colspan="10"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td rowspan="11">
 5-бөлім.
 Бюджеттік ақша, мың теңге
 </td>
-<td colspan="5" rowspan="4">Бөлінгені</td>
-<td colspan="17">Барлығы</td>
-<td colspan="10"></td>
+<td colspan="3" rowspan="4">Бөлінді</td>
+<td colspan="12">Барлығы</td>
 </tr>
 <tr>
-<td rowspan="3">олардың</td>
-<td colspan="16">есепті жартыжылдықтың алдындағы екі жыл бұрын</td>
-<td colspan="10"></td>
+<td colspan="2" rowspan="3">олардың</td>
+<td colspan="10">есепті жартыжылдықтың алдындағы екі жыл бұрын</td>
 </tr>
 <tr>
-<td colspan="16">есепті жартыжылдықтың алдындағы бір жыл бұрын</td>
-<td colspan="10"></td>
+<td colspan="10">есепті жартыжылдықтың алдындағы бір жыл бұрын</td>
 </tr>
 <tr>
-<td colspan="16">есепті жартыжылдықта</td>
-<td colspan="10"></td>
+<td colspan="10">есепті жартыжылдықта</td>
 </tr>
 <tr>
-<td colspan="5" rowspan="7">түсім - бірыңғай қазынашылық шоттан Бюджеттік бағдарламалар әкімшісінің шотына түскені</td>
-<td colspan="17">Барлығы</td>
-<td colspan="10"></td>
+<td colspan="3" rowspan="7">түсім - бірыңғай қазынашылық шоттан Бюджеттік бағдарламалар әкімшісінің шотына түскені</td>
+<td colspan="12">Барлығы</td>
 </tr>
 <tr>
-<td rowspan="6">олардың</td>
-<td colspan="16">есепті жартыжылдықтың алдындағы екі жыл бұрын</td>
-<td colspan="10"></td>
+<td colspan="2" rowspan="6">олардың</td>
+<td colspan="10">есепті жартыжылдықтың алдындағы екі жыл бұрын</td>
 </tr>
 <tr>
-<td colspan="16">есепті жартыжылдықтың алдындағы бір жыл бұрын</td>
-<td colspan="10"></td>
+<td colspan="10">есепті жартыжылдықтың алдындағы бір жыл бұрын</td>
 </tr>
 <tr>
-<td colspan="16">есепті жартыжылдықта</td>
-<td colspan="10"></td>
+<td colspan="10">есепті жартыжылдықта</td>
 </tr>
 <tr>
-<td colspan="12" rowspan="3">оның ішінде</td>
-<td colspan="4">Құжаттың атауы</td>
-<td colspan="10"></td>
-</tr>
-<tr>
-<td colspan="4">Аударылған күн</td>
-<td colspan="10"></td>
-</tr>
-<tr>
-<td colspan="4">Құжаттың №</td>
-<td colspan="10"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="9">6-бөлім. Қаржыландыру сызбасы (есепті жартыжылдық)</td>
-<td colspan="30">Бюджеттік бағдарламалар әкімшісінің шотынан аударылғаны</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="4">Р/с №</td>
-<td colspan="4" rowspan="4">Алушы</td>
-<td colspan="13">Бюджеттік бағдарламалар әкімшісінің қаржыландыру жоспары бойынша</td>
-<td colspan="11">Іс жүзінде аударылғаны</td>
-</tr>
-<tr>
-<td colspan="9" rowspan="2">аударылған күні (айы, жылы)</td>
-<td colspan="4" rowspan="2">сомасы, мың теңге</td>
-<td colspan="3" rowspan="2">Аударылған күні (айы, жылы)</td>
-<td colspan="6">құжат</td>
-<td colspan="2">сомасы, мың теңге</td>
-</tr>
-<tr>
-<td colspan="3">атауы</td>
-<td colspan="3">№</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9"></td>
+<td colspan="3" rowspan="3">Оның ішінде</td>
+<td colspan="3">Құжаттың атауы</td>
 <td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
+<td colspan="3">Аударылған күн</td>
 <td colspan="4"></td>
-<td colspan="9"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">…</td>
+<td colspan="3">Құжаттың №</td>
 <td colspan="4"></td>
-<td colspan="9"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">n</td>
-<td colspan="4"></td>
-<td colspan="9"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td rowspan="14">6-бөлім. Қаржыландыру сызбасы (есепті жарты жылдық</td>
+<td colspan="15">Бюджеттік бағдарламалар әкімшісінің шотынан аударылды</td>
 </tr>
 <tr>
-<td colspan="30">Алушының банктік шотынан аударылғаны</td>
+<td rowspan="3">Р/с №</td>
+<td colspan="2" rowspan="3">Алушы</td>
+<td colspan="5">Бюджеттік бағдарламалар әкімшісін қаржыландыру жоспары бойынша</td>
+<td colspan="7">іс жүзінде аударылғаны</td>
 </tr>
 <tr>
-<td colspan="3" rowspan="6"></td>
-<td colspan="2" rowspan="3">Р/с №</td>
-<td colspan="8" rowspan="3">Алушылар</td>
-<td colspan="9">қаржыландыру жоспары бойынша</td>
-<td colspan="11">Іс жүзінде аударылғаны</td>
-</tr>
-<tr>
-<td colspan="5" rowspan="2">аударылған күні (айы, жылы)</td>
-<td colspan="4" rowspan="2">сомасы, мың теңге</td>
-<td colspan="3" rowspan="2">аударылған күні (айы, жылы)</td>
-<td colspan="6">құжат</td>
+<td colspan="2" rowspan="2">аударылған күні (айы, жылы)</td>
+<td colspan="3" rowspan="2">сомасы, мың теңге</td>
+<td colspan="2" rowspan="2">Аударылған күні (айы, жылы</td>
+<td colspan="3">құжат</td>
 <td colspan="2" rowspan="2">сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="3">атауы</td>
-<td colspan="3">№</td>
+<td>атауы</td>
+<td colspan="2">№</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">…</td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td>…</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">n</td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td>n</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="3">
-7-бөлім.
-Нәтиже
-</td>
-<td colspan="2" rowspan="3">Р/с №</td>
-<td colspan="4" rowspan="3">Мақсатты индикатор</td>
-<td colspan="4" rowspan="3">өлш. бірлігі</td>
-<td colspan="5">есепті жартыжылдықтың алдындағы екі жыл бұрын</td>
-<td colspan="4">есепті жартыжылдықтың алдындағы бір жыл бұрын</td>
-<td colspan="11">есепті жартыжылдықта</td>
+<td colspan="15">Алушының банктік шотынан аударылды</td>
 </tr>
 <tr>
-<td colspan="5">нақты</td>
+<td rowspan="3">Р/с №</td>
+<td colspan="2" rowspan="3">Алушы</td>
+<td colspan="5">қаржыландыру жоспары бойынша</td>
+<td colspan="7">іс жүзінде аударылды</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">аударылған күні (айы, жылы)</td>
+<td colspan="3" rowspan="2">сомасы, мың теңге</td>
+<td colspan="2" rowspan="2">аударылған күні (айы, жылы)</td>
+<td colspan="3">құжат</td>
+<td colspan="2" rowspan="2">сомасы, мың теңге</td>
+</tr>
+<tr>
+<td>атауы</td>
+<td colspan="2">№</td>
+</tr>
+<tr>
+<td>1.</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>…</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>n</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td rowspan="3">7-бөлім. Нәтиже</td>
+<td rowspan="3">Р/с №</td>
+<td rowspan="3">Нысаналы индикатор</td>
+<td rowspan="3">Өлщем бірлігі</td>
+<td colspan="2">есепті жарты жылдықтың алдындағыдан екі жыл бұрын</td>
+<td colspan="3">есепті жарты жылдықтың алдындағыдан бір жыл бұрын</td>
+<td colspan="7">есепті жарты жылдықта</td>
+</tr>
+<tr>
+<td colspan="2">нақты</td>
+<td colspan="3">нақты</td>
+<td colspan="3">жарты жылдықтағы жоспар</td>
 <td colspan="4">нақты</td>
-<td colspan="6">жартыжылдықтағы жоспар</td>
-<td colspan="5">нақты</td>
 </tr>
 <tr>
-<td colspan="3">1 жылда</td>
-<td colspan="2">өспелі жиыны</td>
-<td colspan="3">1 жылда</td>
-<td>өспелі жиыны</td>
-<td colspan="6">жарты жылдықтағы жоспар</td>
-<td colspan="3">жарты жылдықта</td>
-<td colspan="2">өспелі жиыны</td>
-</tr>
-<tr>
-<td colspan="3" rowspan="3">Тікелей нәтиже(сандық көрсеткіштер)</td>
-<td colspan="2">1.</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
+<td>1 жылда</td>
+<td>Өспелі жиыны</td>
+<td colspan="2">1 жылда</td>
+<td>Өспелі жиыны</td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td colspan="2">Жарты жылда</td>
+<td colspan="2">Өспелі жиыны</td>
 </tr>
 <tr>
-<td colspan="2">…</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td rowspan="3">Тікелей нәтиже</td>
+<td>1.</td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">n</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="3">Сапалық көрсеткіштер</td>
-<td colspan="2">1.</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">…</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">n</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="3">Тиімділік көрсеткіштері</td>
-<td colspan="2">1.</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">…</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td>…</td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">n</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Түпкілікті нәтиже (нәтиже көрсеткіштері)</td>
-<td colspan="10">Қол жеткізілген тікелей нәтиженің Бюджеттік бағдарламалар әкімшісі жетекшілік ететін бюджеттік бағдарлама мен саланың (аяның, өңірдің) мақсаттарына қол жеткізуіне әсер етуі</td>
-<td colspan="20"></td>
+<td>n</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="10">8-бөлім. Жауапты орындаушы</td>
-<td colspan="10">Тегі</td>
-<td colspan="20"></td>
+<td>Түпкілікті нәтиже</td>
+<td colspan="3">Қол жеткізілген тікелей нәтиженің Бюджеттік бағдарламалар әкімшісі жетекшілік ететін бюджеттік бағдарлама мен саланың (аяның, өңірдің) мақсаттарына қол жеткізуіне әсер етуі</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="10">Аты</td>
-<td colspan="20"></td>
+<td rowspan="9">7-бөлім. Жауапты тұлға</td>
+<td colspan="4">Тегі</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="10">Әкесінің аты (бар болса)</td>
-<td colspan="20"></td>
+<td colspan="4">Аты</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="10">Мемлекеттік органның атауы</td>
-<td colspan="20"></td>
+<td colspan="4">Әкесінің аты (бар болса)</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="10">Мемлекеттік органның құрылымдық бөлімшесінің атауы</td>
-<td colspan="20"></td>
+<td colspan="4">Заңды тұлғаның атауы</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="10">Лауазымы</td>
-<td colspan="20"></td>
+<td colspan="4">Лауазым</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="10">Мекенжайы</td>
-<td colspan="20"></td>
+<td colspan="4">Мекен-жай</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="10">Байланыс телефондары</td>
-<td colspan="20"></td>
+<td colspan="4">Байланыс телефоны</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="10">Факс</td>
-<td colspan="20"></td>
+<td colspan="4">Факс</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="10">Электрондық почтасы</td>
-<td colspan="20"></td>
+<td colspan="4">Электрондық пошта</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 </table>
 
-Басшы ________ ____________________
+Басшы ________ ________________________________
 
 (қолы) (Т.А.Ә.)
 
@@ -2730,21 +2645,21 @@ ________________________________________________ М.О. ______________
 <tr>
 <td></td>
 <td>
-Мемлекеттік инвестициялық
-жобаның инвестициялық
-ұсынысын әзірлеу немесе
-түзету, қажетті сараптамаларды
-жүргізу, сондай-ақ бюджеттік
-инвестицияларды жоспарлау,
-қарау, іріктеу, мониторингілеу
-және іске асырылуын бағалау
-қағидаларына
+Мемлекеттік инвестициялық жобаның
+инвестициялық ұсынысын әзірлеу
+немесе түзету, қажетті
+сараптамаларды жүргізу, сондай-ақ
+бюджеттік инвестицияларды жоспарлау,
+қарау, іріктеу, мониторингілеу және
+іске асырылуын бағалау қағидаларына
 40-қосымша
 </td>
 </tr>
 </table>
 
-### «Бюджеттiк бағдарлама» нысаны
+### «Бюджеттiк бағдарлама (ішкі бағдарлама)» нысаны
+
+> *Ескерту. 40-қосымша жаңа редакцияда - ҚР Ұлттық экономика министрінің м.а. 25.11.2015 № 721 бұйрығымен.*
 
 <table>
 <tr>
@@ -2761,7 +2676,7 @@ ________________________________________________ М.О. ______________
 <td colspan="2"></td>
 </tr>
 <tr>
-<td rowspan="9">Бюджеттік бағдарлама</td>
+<td rowspan="7">Бюджетная программа (подпрограмма)</td>
 <td>Коды</td>
 <td colspan="2"></td>
 </tr>
@@ -2770,11 +2685,11 @@ ________________________________________________ М.О. ______________
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>Сипаттамасы</td>
+<td>Сипаттама</td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td rowspan="2">Стратегиялық бағыты</td>
+<td rowspan="2">Стратегиялық бағыт</td>
 <td>Коды</td>
 <td></td>
 </tr>
@@ -2783,7 +2698,7 @@ ________________________________________________ М.О. ______________
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">Мақсаты</td>
+<td rowspan="2">Мақстаы</td>
 <td>Коды</td>
 <td></td>
 </tr>
@@ -2792,16 +2707,7 @@ ________________________________________________ М.О. ______________
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">Мiндетi</td>
-<td>Коды</td>
-<td></td>
-</tr>
-<tr>
-<td>атауы</td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">Алушы*</td>
+<td rowspan="2">Қатысушы*</td>
 <td colspan="2">ұйымдастырушылық-құқықтық нысаны</td>
 <td></td>
 </tr>
@@ -2810,7 +2716,7 @@ ________________________________________________ М.О. ______________
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">1-ші қатысушы</td>
+<td rowspan="2">Қатысушы1</td>
 <td colspan="2">ұйымдастырушылық-құқықтық нысаны</td>
 <td></td>
 </tr>
@@ -2819,8 +2725,8 @@ ________________________________________________ М.О. ______________
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">Қатысушы ...</td>
-<td colspan="2">ұйымдық-құқықтық нысаны</td>
+<td rowspan="2">Қатысушы...</td>
+<td colspan="2">ұйымдастырушылық-құқықтық нысаны</td>
 <td></td>
 </tr>
 <tr>
@@ -2828,8 +2734,8 @@ ________________________________________________ М.О. ______________
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">N қатысушы</td>
-<td colspan="2">ұйымдық-құқықтық нысаны</td>
+<td rowspan="2">Қатысушы N</td>
+<td colspan="2">ұйымдастырушылық-құқықтық нысаны</td>
 <td></td>
 </tr>
 <tr>
@@ -2848,7 +2754,7 @@ ________________________________________________ М.О. ______________
 
 * - әрбір алушы жеке көрсетіледі
 
-Басшы ________ ___________ 20 ж. « » _________
+Басшы ________ _______________________________ 20 ж. «__» _________
 
 (қолы) (Т.А.Ә.) (күні)
 
@@ -2856,15 +2762,13 @@ ________________________________________________ М.О. ______________
 <tr>
 <td></td>
 <td>
-Мемлекеттік инвестициялық
-жобаның инвестициялық
-ұсынысын әзірлеу немесе
-түзету, қажетті сараптамаларды
-жүргізу, сондай-ақ бюджеттік
-инвестицияларды жоспарлау,
-қарау, іріктеу, мониторингілеу
-және іске асырылуын бағалау
-қағидаларына
+Мемлекеттік инвестициялық жобаның
+инвестициялық ұсынысын әзірлеу
+немесе түзету, қажетті
+сараптамаларды жүргізу, сондай-ақ
+бюджеттік инвестицияларды жоспарлау,
+қарау, іріктеу, мониторингілеу және
+іске асырылуын бағалау қағидаларына
 41-қосымша
 </td>
 </tr>
@@ -2872,95 +2776,80 @@ ________________________________________________ М.О. ______________
 
 ### «Қаржылық активтерді сатып алу, жарғылық капиталды ұлғайту» нысаны
 
-<table>
-<tr>
-<td colspan="2">Бюджеттік бағдарлама әкімшісі</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td rowspan="2">Қаржы-экономикалық негіздеме</td>
-<td colspan="2">Атауы</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">
-Бюджеттiк инвестициялардың
-сомасы, мың теңге
-</td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="5">Бюджеттік бағдарлама</td>
-<td>Коды</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Атауы</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Сипаттамасы</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td rowspan="2">Міндеті</td>
-<td>нөмірі</td>
-<td></td>
-</tr>
-<tr>
-<td>атауы</td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">Алушы</td>
-<td colspan="2">
-ұйымдық-құқықтық
-нысаны
-</td>
-<td></td>
-</tr>
-<tr>
-<td>атауы</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Есепті кезең</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>Жауапты орындаушы</td>
-<td colspan="3">Т.А.Ә., байланыс телефондары</td>
-</tr>
-</table>
+> *Ескерту. 41-қосымша жаңа редакцияда - ҚР Ұлттық экономика министрінің м.а. 25.11.2015 № 721 бұйрығымен.*
 
 <table>
 <tr>
-<td rowspan="3">
-Р/с
-№
+<td colspan="7">Бюджеттік бағдарлама әкімшісі</td>
+<td colspan="10"></td>
+</tr>
+<tr>
+<td colspan="4" rowspan="2">Қаржы-экономикалықт негіздеме</td>
+<td colspan="6">Атауы</td>
+<td colspan="7"></td>
+</tr>
+<tr>
+<td colspan="6">Сумма бюджетных инвестиций, тыс.тенге</td>
+<td colspan="7"></td>
+</tr>
+<tr>
+<td colspan="4" rowspan="3">Бюджетнтік бағдарлама (ішкі бағдарлама)</td>
+<td colspan="3">Коды</td>
+<td colspan="10"></td>
+</tr>
+<tr>
+<td colspan="3">Атауы</td>
+<td colspan="10"></td>
+</tr>
+<tr>
+<td colspan="3">Сипаттама</td>
+<td colspan="10"></td>
+</tr>
+<tr>
+<td colspan="4" rowspan="2">Алушы</td>
+<td colspan="6">
+ұйымдық-құқықтық
+нысаны
 </td>
+<td colspan="7"></td>
+</tr>
+<tr>
+<td colspan="3">Атауы</td>
+<td colspan="10"></td>
+</tr>
+<tr>
+<td colspan="4">Есепті кезең</td>
+<td colspan="13"></td>
+</tr>
+<tr>
+<td colspan="4">Жауапты орындаушы</td>
+<td colspan="13">Т.А.Ә., байланыс телефондары</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="13"></td>
+</tr>
+<tr>
+<td rowspan="3">Р/с №</td>
 <td rowspan="3">Акционерлік қоғам</td>
-<td colspan="8">Сатып алынған акциялар</td>
+<td colspan="11">Сатып алынған акциялар</td>
 <td colspan="4">Акциялар саны</td>
 </tr>
 <tr>
-<td>саны, дана</td>
+<td colspan="3">саны, дана</td>
 <td colspan="3">бағасы, мың теңге</td>
-<td colspan="2">
-құны,
-мың теңге
-</td>
+<td colspan="3">құны, мың теңге</td>
 <td colspan="2">қаржылық активтерді кірістеу күні</td>
-<td colspan="2">барлығы</td>
+<td colspan="2">Барлығы</td>
 <td colspan="2">оның ішінде, мемлекеттік меншіктегісі</td>
 </tr>
 <tr>
 <td>жоспар</td>
-<td>нақты</td>
+<td colspan="2">нақты</td>
 <td>жоспар</td>
-<td>нақты</td>
+<td colspan="2">нақты</td>
 <td>жоспар</td>
-<td>нақты</td>
+<td colspan="2">нақты</td>
 <td>жоспар</td>
 <td>нақты</td>
 <td>жоспар</td>
@@ -2972,11 +2861,11 @@ ________________________________________________ М.О. ______________
 <th>1</th>
 <th>2</th>
 <th>3</th>
-<th>4</th>
+<th colspan="2">4</th>
 <th>5</th>
-<th>6</th>
+<th colspan="2">6</th>
 <th>7</th>
-<th>8</th>
+<th colspan="2">8</th>
 <th>9</th>
 <th>10</th>
 <th>11</th>
@@ -2988,11 +2877,27 @@ ________________________________________________ М.О. ______________
 <td>1.</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3004,11 +2909,11 @@ ________________________________________________ М.О. ______________
 <td>…</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3020,11 +2925,11 @@ ________________________________________________ М.О. ______________
 <td>N</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3035,11 +2940,11 @@ ________________________________________________ М.О. ______________
 <tr>
 <td colspan="2">Мәтіндік ақпарат</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3051,24 +2956,11 @@ ________________________________________________ М.О. ______________
 
 <table>
 <tr>
-<td rowspan="2">
-Р/с
-№
-</td>
+<td rowspan="2">Р/с №</td>
 <td rowspan="2">Әріптестер</td>
-<td colspan="2">
-Қатысу үлесімен төленгені,
-мың теңге
-</td>
-<td colspan="2">
-Жарғылық капитал
-мөлшерінің жиыны,
-мың теңге
-</td>
-<td colspan="2">
-Қаржылық активтерді
-кірістеу күні
-</td>
+<td colspan="2">Қатысу үлесімен төленгені, мың теңге</td>
+<td colspan="2">Жарғылық капитал мөлшерінің жиыны, мың теңге</td>
+<td colspan="2">Қаржылық активтерді кірістеу күні</td>
 <td colspan="2">Мемлекеттік меншіктегі қатысу үлесі, %</td>
 </tr>
 <tr>
@@ -3144,10 +3036,7 @@ ________________________________________________ М.О. ______________
 
 <table>
 <tr>
-<td rowspan="2">
-Р/с
-№
-</td>
+<td rowspan="2">Р/с №</td>
 <td rowspan="2">Мемлекеттік кәсіпорын</td>
 <td colspan="2">Жарғылық капиталды ұлғайту, мың тенге</td>
 <td colspan="2">Қаржылық активтерді кірістеу күні</td>
@@ -3215,7 +3104,7 @@ ________________________________________________ М.О. ______________
 </tr>
 </table>
 
-Басшы ______________ ___________ __________
+Басшы __________ __________________________________ _____________
 
 қолы Т.А.Ә. күні
 
@@ -3223,15 +3112,13 @@ ________________________________________________ М.О. ______________
 <tr>
 <td></td>
 <td>
-Мемлекеттік инвестициялық
-жобаның инвестициялық
-ұсынысын әзірлеу немесе
-түзету, қажетті сараптамаларды
-жүргізу, сондай-ақ бюджеттік
-инвестицияларды жоспарлау,
-қарау, іріктеу, мониторингілеу
-және іске асырылуын бағалау
-қағидаларына
+Мемлекеттік инвестициялық жобаның
+инвестициялық ұсынысын әзірлеу
+немесе түзету, қажетті
+сараптамаларды жүргізу, сондай-ақ
+бюджеттік инвестицияларды жоспарлау,
+қарау, іріктеу, мониторингілеу және
+іске асырылуын бағалау қағидаларына
 42-қосымша
 </td>
 </tr>
@@ -3239,81 +3126,63 @@ ________________________________________________ М.О. ______________
 
 ### «Сатып алынған активтердің құны және сипаттамалары» нысаны*
 
+> *Ескерту. 42-қосымша жаңа редакцияда - ҚР Ұлттық экономика министрінің м.а. 25.11.2015 № 721 бұйрығымен.*
+
 <table>
 <tr>
 <td>Бюджеттік бағдарлама әкімшісі</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td rowspan="2">Қаржы-экономикалық негіздеме</td>
-<td colspan="2">Атауы</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">
-Бюджеттік инвестициялар сомасы,
-мың теңге
-</td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="5">Бюджеттік бағдарлама</td>
-<td>Коды</td>
 <td colspan="2"></td>
+</tr>
+<tr>
+<td rowspan="2">Қаржы-экономикалықт негіздеме</td>
+<td>Наименование</td>
+<td></td>
+</tr>
+<tr>
+<td>Сумма бюджетных инвестиций, тыс.тенге</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">Бюджетнтік бағдарлама (ішкі бағдарлама)</td>
+<td>Коды</td>
+<td></td>
 </tr>
 <tr>
 <td>Атауы</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Сипаттамасы</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td rowspan="2">Міндеті</td>
-<td>нөмірі</td>
 <td></td>
 </tr>
 <tr>
-<td>атауы</td>
+<td>Сипаттамасы</td>
 <td></td>
 </tr>
 <tr>
 <td rowspan="2">Алушы</td>
-<td colspan="2">ұйымдық-құқықтық нысаны</td>
+<td>ұйымдық-құқықтық нысаны</td>
 <td></td>
 </tr>
 <tr>
-<td>атауы</td>
-<td colspan="2"></td>
+<td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>Есепті кезең</td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>Жауапты орындаушы</td>
-<td colspan="3">Т.А.Ә., байланыс телефондары</td>
+<td colspan="2">Т.А.Ә., байланыс телефондары</td>
 </tr>
 </table>
 
-«Іс-шара … **»тарауы
+«Іс-шара … **» тарауы
 
 <table>
 <tr>
-<td rowspan="3">
-Р/с
-№
-</td>
+<td rowspan="3">Р/с №</td>
 <td rowspan="3">Сатып алынған активтердің атауы</td>
 <td colspan="4" rowspan="3">Көрсеткіштер</td>
 <td colspan="6">Сатып алынған (құрылған) активтің сипаттамалары***</td>
-<td colspan="2" rowspan="2">
-Активті сатып
-алған (құрған)
-(АА. ЖЖЖЖ)
-күн
-</td>
+<td colspan="2" rowspan="2">Активті сатып алған (құрған) (АА. ЖЖЖЖ) күн</td>
 </tr>
 <tr>
 <td colspan="2">1-сипаттама</td>
@@ -3334,17 +3203,17 @@ ________________________________________________ М.О. ______________
 <td rowspan="6">1</td>
 <td rowspan="6"></td>
 <td rowspan="2">саны</td>
-<td>өлшем бірлігі</td>
+<td>Өлшем бірлігі</td>
 <td>жоспар</td>
 <td></td>
-<td rowspan="6"></td>
-<td rowspan="6"></td>
-<td rowspan="6"></td>
-<td rowspan="6"></td>
-<td rowspan="6"></td>
-<td rowspan="6"></td>
-<td rowspan="6"></td>
-<td rowspan="6"></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
 </tr>
 <tr>
 <td></td>
@@ -3359,6 +3228,14 @@ ________________________________________________ М.О. ______________
 <tr>
 <td>нақты</td>
 <td></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
 </tr>
 <tr>
 <td colspan="2" rowspan="2">сомасы, мың теңге</td>
@@ -3366,14 +3243,14 @@ ________________________________________________ М.О. ______________
 <td></td>
 </tr>
 <tr>
-<td>Нақты</td>
+<td>нақты</td>
 <td></td>
 </tr>
 <tr>
 <td rowspan="6">…</td>
 <td rowspan="6"></td>
 <td rowspan="2">саны</td>
-<td>өлшем бірлігі</td>
+<td>Өлшем бірлігі</td>
 <td>жоспар</td>
 <td></td>
 <td rowspan="6"></td>
@@ -3412,7 +3289,7 @@ ________________________________________________ М.О. ______________
 <td rowspan="6">N</td>
 <td rowspan="6"></td>
 <td rowspan="2">саны</td>
-<td>өлшем бірлігі</td>
+<td>Өлшем бірлігі</td>
 <td>жоспар</td>
 <td></td>
 <td rowspan="6"></td>
@@ -3459,7 +3336,7 @@ ________________________________________________ М.О. ______________
 
 *** - сатып алынған активтің негізгі техникалық сипаттамалары көрсетіледі, мысалы: қозғалтқыш көлемі, қуаты, жүк көтергіштігі, ұзындығы, өнімділігі, ауданы және т.б. Сатып алынған активтің жетіден артық емес негізгі техникалық сипаттамалары көрсетіледі.
 
-Басшы ______________ ___________ _________
+Басшы ______________ ____________________________ ___________
 
 қолы Т.А.Ә. күні
 
@@ -3467,15 +3344,13 @@ ________________________________________________ М.О. ______________
 <tr>
 <td></td>
 <td>
-Мемлекеттік инвестициялық
-жобаның инвестициялық
-ұсынысын әзірлеу немесе
-түзету, қажетті сараптамаларды
-жүргізу, сондай-ақ бюджеттік
-инвестицияларды жоспарлау,
-қарау, іріктеу, мониторингілеу
-және іске асырылуын бағалау
-қағидаларына
+Мемлекеттік инвестициялық жобаның
+инвестициялық ұсынысын әзірлеу
+немесе түзету, қажетті
+сараптамаларды жүргізу, сондай-ақ
+бюджеттік инвестицияларды жоспарлау,
+қарау, іріктеу, мониторингілеу және
+іске асырылуын бағалау қағидаларына
 43-қосымша
 </td>
 </tr>
@@ -3483,13 +3358,15 @@ ________________________________________________ М.О. ______________
 
 ### «Нәтиже» нысаны
 
+> *Ескерту. 43-қосымша жаңа редакцияда - ҚР Ұлттық экономика министрінің м.а. 25.11.2015 № 721 бұйрығымен.*
+
 <table>
 <tr>
 <td colspan="2">Бюджеттік бағдарлама әкімшісі</td>
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">Қаржы-экономикалық түсіндірме</td>
+<td rowspan="2">Қаржы-экономикалық негіздеме</td>
 <td>Атауы</td>
 <td></td>
 </tr>
@@ -3498,7 +3375,7 @@ ________________________________________________ М.О. ______________
 <td></td>
 </tr>
 <tr>
-<td rowspan="5">Бюджеттік бағдарлама</td>
+<td rowspan="3">Бюджеттік бағдарлама (ішкі бағдарлама)</td>
 <td>Коды</td>
 <td></td>
 </tr>
@@ -3507,15 +3384,8 @@ ________________________________________________ М.О. ______________
 <td></td>
 </tr>
 <tr>
-<td>Сипаттамасы</td>
+<td>Сипаттама</td>
 <td></td>
-</tr>
-<tr>
-<td rowspan="2">Міндеті</td>
-<td>нөмірі</td>
-</tr>
-<tr>
-<td>атауы</td>
 </tr>
 <tr>
 <td rowspan="2">Алушы</td>
@@ -3534,25 +3404,22 @@ ________________________________________________ М.О. ______________
 </tr>
 </table>
 
-«Тікелей нәтиже (сандық көрсеткіштер)»
+«Тікелей нәтиже»
 
 <table>
 <tr>
-<td rowspan="3">
-Р/с
-№
-</td>
+<td rowspan="3">Р/с №</td>
 <td rowspan="3">Атауы</td>
 <td colspan="4">Нысаналы индикатор</td>
 </tr>
 <tr>
-<td rowspan="2">өлшем бірлігі</td>
+<td rowspan="2">Есепті кезеңде</td>
 <td rowspan="2">есепті кезеңнің алдындағы жылдың осындай кезеңі үшін</td>
 <td colspan="2">Есепті кезеңде</td>
 </tr>
 <tr>
 <td>жоспар</td>
-<td>нақты</td>
+<td>накты</td>
 </tr>
 <tr>
 <th>1</th>
@@ -3592,19 +3459,16 @@ ________________________________________________ М.О. ______________
 </tr>
 </table>
 
-«Түпкілікті нәтиже (нәтиже көрсеткіштері)»
+«Түпкілікті нәтиже»
 
 <table>
 <tr>
-<td rowspan="3">
-Р/с
-№
-</td>
+<td rowspan="3">№ п/п</td>
 <td rowspan="3">Атауы</td>
 <td colspan="4">Нысаналы индикатор</td>
 </tr>
 <tr>
-<td rowspan="2">өлшем бірлігі</td>
+<td rowspan="2">Өлшем бірлігі</td>
 <td rowspan="2">есепті кезеңнің алдындағы жылдың осындай кезеңі үшін</td>
 <td colspan="2">Есепті кезеңде</td>
 </tr>
@@ -3629,53 +3493,7 @@ ________________________________________________ М.О. ______________
 <td></td>
 </tr>
 <tr>
-<td>…</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>N</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-«Сапа көрсеткіштері»
-
-<table>
-<tr>
-<td rowspan="3">
-Р/с
-№
-</td>
-<td rowspan="3">атауы</td>
-<td colspan="4">Нысаналы индикатор</td>
-</tr>
-<tr>
-<td rowspan="2">Өлшем бірлігі</td>
-<td rowspan="2">есепті кезеңнің алдындағы жылдың осындай кезеңі үшін</td>
-<td colspan="2">есепті кезеңде</td>
-</tr>
-<tr>
-<td>жоспар</td>
-<td>нақты</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td>1.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3698,77 +3516,9 @@ ________________________________________________ М.О. ______________
 <td></td>
 <td></td>
 </tr>
-<tr>
-<td colspan="2">Мәтіндік ақпарат</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
 
-«Тиімділік көрсеткіштері»
-
-<table>
-<tr>
-<td rowspan="3">
-Р/с
-№
-</td>
-<td rowspan="3">Атауы</td>
-<td colspan="4">Нысаналы индикатор</td>
-</tr>
-<tr>
-<td rowspan="2">өлшем бірлігі</td>
-<td rowspan="2">есепті кезеңнің алдындағы жылдың осындай кезеңі үшін</td>
-<td colspan="2">есепті кезең</td>
-</tr>
-<tr>
-<td>жоспар</td>
-<td>нақты</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td>1.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>…</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>N</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Мәтіндік ақпарат</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Басшы _________________ ________________ _________________
+Басшы _________________________________ __________ _______________
 
 (Т.А.Ә.) (қолы) (күні)
 
@@ -4559,67 +4309,67 @@ _______________________________ МО. ___________
 
 > *Ескерту. 47-қосымшамен толықтырылды - ҚР Ұлттық экономика министрінің 12.10.2015 № 663 бұйрығымен.*
 
-1. Қарапайым өзін-өзі ақтау мерзімі (payback period, PBP) – инвестициялық шығындар жабылатын жобаны жүзеге асырудың басынан бастап ең аз уақыт интервалы (инвестициялық сатының басталуы). Мына формула бойынша есептеледі:
+1\. Қарапайым өзін-өзі ақтау мерзімі (payback period, PBP) – инвестициялық шығындар жабылатын жобаны жүзеге асырудың басынан бастап ең аз уақыт интервалы (инвестициялық сатының басталуы). Мына формула бойынша есептеледі:
 
-   мұндағы:
+мұндағы:
 
-   Іо – нөлдік кезеңдегі инвестициялық шығындардың шамасы;
+Іо – нөлдік кезеңдегі инвестициялық шығындардың шамасы;
 
-   n – кезеңдер саны;
+n – кезеңдер саны;
 
-   CFt – t кезеңіндегі таза ақша ағымы.
+CFt – t кезеңіндегі таза ақша ағымы.
 
-   РВР ұсынылатын мәні: егер РВР мәні жобаның ұзақтығынан аз болса жоба тиімді болып саналады.
+РВР ұсынылатын мәні: егер РВР мәні жобаның ұзақтығынан аз болса жоба тиімді болып саналады.
 
-2. Дисконтталған өзін-өзі ақтау кезеңі (discounted payback period, DPP) – ол өткеннен кейін ағымдағы таза дисконтталған табыс теріс емес болатын және одан әрі солай болып қалатын ең аз кезең ұзақтығы. Мына формула бойынша есептеледі:
+2\. Дисконтталған өзін-өзі ақтау кезеңі (discounted payback period, DPP) – ол өткеннен кейін ағымдағы таза дисконтталған табыс теріс емес болатын және одан әрі солай болып қалатын ең аз кезең ұзақтығы. Мына формула бойынша есептеледі:
 
-   мұндағы:
+мұндағы:
 
-   Іо – нөлдік кезеңдегі инвестициялық шығындардың шамасы;
+Іо – нөлдік кезеңдегі инвестициялық шығындардың шамасы;
 
-   n – кезеңдер саны;
+n – кезеңдер саны;
 
-   CFt – t кезеңіндегі таза ақша ағымы.
+CFt – t кезеңіндегі таза ақша ағымы.
 
-   r – дисконттау мөлшерлемесі.
+r – дисконттау мөлшерлемесі.
 
-   Дисконттау мөлшерлемесі мына формула бойынша есептеледі:
+Дисконттау мөлшерлемесі мына формула бойынша есептеледі:
 
-   мұндағы:
+мұндағы:
 
-   Е – есептеудің барлық сатысы үшін бірыңғай болып табылатын дисконт нормасы;
+Е – есептеудің барлық сатысы үшін бірыңғай болып табылатын дисконт нормасы;
 
-   (n-1) – бағалау кезеңі мен келтіру кезі арасындағы аралық (жылдардағы).
+(n-1) – бағалау кезеңі мен келтіру кезі арасындағы аралық (жылдардағы).
 
-   Ұсынылатын DPP мәні: DPP мәні аз болған кезде жоба қолайлы деп саналады.
+Ұсынылатын DPP мәні: DPP мәні аз болған кезде жоба қолайлы деп саналады.
 
-3. Таза дисконтталған табыс (net present value, NPV) – болжамдау кезеңіндегі инвестицияны іске асыру процесінде жүргізілген кірістер мен шығыстардың дисконтталған ақша ағымының айырмашылығы. Мына формула бойынша есептеледі:
+3\. Таза дисконтталған табыс (net present value, NPV) – болжамдау кезеңіндегі инвестицияны іске асыру процесінде жүргізілген кірістер мен шығыстардың дисконтталған ақша ағымының айырмашылығы. Мына формула бойынша есептеледі:
 
-   мұндағы:
+мұндағы:
 
-   n – кезеңдер саны;
+n – кезеңдер саны;
 
-   CFt – t кезеңіндегі таза ақша ағымы.
+CFt – t кезеңіндегі таза ақша ағымы.
 
-   r – дисконттау мөлшерлемесі.
+r – дисконттау мөлшерлемесі.
 
-   Іо – нөлдік кезеңдегі инвестициялық шығындардың шамасы.
+Іо – нөлдік кезеңдегі инвестициялық шығындардың шамасы.
 
-   Ұсынылатын NPV мәні: NPV оң мәнінде жоба тиімді деп саналады, NPV мәні теріс болған кезде – жоба қабылданбайды, NPV = 0 – жоба пайда да шығын да әкелмейді.
+Ұсынылатын NPV мәні: NPV оң мәнінде жоба тиімді деп саналады, NPV мәні теріс болған кезде – жоба қабылданбайды, NPV = 0 – жоба пайда да шығын да әкелмейді.
 
-4. Ішкі кірістілік нормасы (internal rate of return, IRR) – таза келтірілген табыстың оң (немесе, ең болмағанда, нөлдік) мәнін алуды қамтамасыз ететін дисконттаудың пайыздық ставкасы. Мынадай арақатынастан айқындалады:
+4\. Ішкі кірістілік нормасы (internal rate of return, IRR) – таза келтірілген табыстың оң (немесе, ең болмағанда, нөлдік) мәнін алуды қамтамасыз ететін дисконттаудың пайыздық ставкасы. Мынадай арақатынастан айқындалады:
 
-   мұндағы:
+мұндағы:
 
-   n – кезеңдер саны;
+n – кезеңдер саны;
 
-   CFt – t кезеңіндегі таза ақша ағымы.
+CFt – t кезеңіндегі таза ақша ағымы.
 
-   Іо – нөлдік кезеңдегі инвестициялық шығындардың шамасы.
+Іо – нөлдік кезеңдегі инвестициялық шығындардың шамасы.
 
-   Ұсынылатын IRR мәні: компанияның инвестициялық саясатымен айқындалатын талап етілетін рентабельділік нормасынан IRR есептелген мәні төмен болмаса жоба қолайлы деп саналады; дисконт ставкасына тең IRR кезінде, NPV нөлге тең; IRR капиталды тәуекелсіз жұмсаған жағдайдағыдан артық болуы тиіс инвестор талап етіп отырған капиталға арналған табыс нормасымен салыстырылады.
+Ұсынылатын IRR мәні: компанияның инвестициялық саясатымен айқындалатын талап етілетін рентабельділік нормасынан IRR есептелген мәні төмен болмаса жоба қолайлы деп саналады; дисконт ставкасына тең IRR кезінде, NPV нөлге тең; IRR капиталды тәуекелсіз жұмсаған жағдайдағыдан артық болуы тиіс инвестор талап етіп отырған капиталға арналған табыс нормасымен салыстырылады.
 
-5. Табыстылық индексі (profitability index, PI) – инвестицияланған қаражаттың бірлігіне арналған табыс сомасын айқындайтын оған жұмсалған қаражатқа жобаның шамамен алғандағы қайтарымдылығы. Мына формула бойынша есептеледі:
+5\. Табыстылық индексі (profitability index, PI) – инвестицияланған қаражаттың бірлігіне арналған табыс сомасын айқындайтын оған жұмсалған қаражатқа жобаның шамамен алғандағы қайтарымдылығы. Мына формула бойынша есептеледі:
 
 мұндағы:
 
@@ -4641,3 +4391,315 @@ r – дисконттау мөлшерлемесі;
 > *бағалау, қаржы агенттіктерінің мемлекеттік инвестициялық*  
 > *саясатты іске асыруға бюджеттік кредиттеуді жоспарлау*  
 > *қағидаларына 48-қосымша*
+
+## «Қарыз алушыны талдау» нысаны
+
+> *Ескерту. 48-қосымшамен толықтырылды - ҚР Ұлттық экономика министрінің 12.10.2015 № 663 бұйрығымен.*
+
+1\. Қаржылық есептілікті деңгейлес және сатылас талдаудың мақсаты бухгалтерлік баланстың, кірістер мен шығыстар туралы есептің, ақша қаражатының қозғалысы туралы есептің негізгі баптарында болған өзгерістерді ұсынуды білдіреді.
+
+Деңгейлес (уақытаралық) талдау ұйымның деректерін шамамен және абсолюттік түрдегі соңғы екі есепті кезеңдегі деректерін салыстыруды және есептіліктің немесе олардың топтарының жекелеген баптарындағы өзгерістерінің үрдістерін анықтауды білдіреді. Деңгейлес талдау Қазақстан Республикасы Қаржы министрінің 2010 жылғы 20 тамыздағы № 422 бұйрығымен бекітілген (Нормативтік құқықтық келісімдерді мемлекеттік тіркеудің тізілімінде № 6452) (бұдан әрі - Қаржы министрінің бұйрығы) қаржылық есептіліктің: «Бухгалтерлік баланс», «Табыстар мен шығындар туралы есеп» және «Ақша қаражатының қозғалысы туралы есеп» нысандары бойынша жүргізіледі.
+
+Сатылас (құрылымдық талдау) талдау жалпы қорытынды көрсеткіштегі есептіліктің жекелеген баптарының үлестік салмағын айқындауды және алынған нәтижені алдыңғы кезеңдегі деректермен салыстыруды білдіреді. Сатылас талдау Қаржы министрінің бұйрығымен бекітілген қаржылық есептіліктің мынадай: «Бухгалтерлік баланс», «Табыстар мен шығындар туралы есеп» нысандары бойынша жүргізіледі.
+
+2\. Коэффициенттік талдау компанияның қаржылық есептілігін осындай коэффициенттің нормативтік мәндеріне сәйкестігі (ауытқуы) тұрғысынан қаржылық көрсеткіштерді (коэффициенттерді) жинақтаудың көмегімен зерделеу және олардың серпінінің өзгеруі дегенді білдіреді.
+
+Коэффициенттік талдау жүргізу үшін компанияның қаржылық есептілігінің барлық нысандарынан алынатын деректер қабылданады.
+
+3\. Өтімділік коэффициенттері – компанияның қолда бар ағымдағы (айналымдағы) активтерінің есебінен ағымдағы берешектерін өтеу қабілеттілігін айқындау үшін есептелетін қаржылық көрсеткіштер. Бұл ретте компанияның ағымдағы берешектерінің және осы берешектерді өтеуді қамтамасыз етуі тиіс оның айналымдағы қаражатының шамасын салыстыру дегенді білдіреді.
+
+Ағымдағы өтімділік коэффициенті (current ratio, CR) компанияның қолда бар айналымдағы қаражаты есебінен қысқа мерзімді міндеттемелерін ағымдағы орындау қабілеттілігін сипаттайды. Мынадай формула бойынша есептеледі
+
+мұндағы:
+
+CA – ағымдағы активтер;
+
+CL – ағымдағы міндеттемелер.
+
+Ұсынылатын CR мәні: 1 – 2. <1 мәні төлем қабілеттілігін жоғалтуы мүмкін екендігін, >4 мәні – қарыз қаражатын пайдаланудың белсенділігінің жеткіліксіздігі және салдары ретінде, меншік капиталының рентабельділігінің аз екені туралы куәландырады.
+
+4\. Меншікті қаражатпен қамтамасыз етілуі коэффициенті (Own Funds Ratio, OFR) оның қаржылық тұрақтылығын қамтамасыз ету үшін қажет компанияның меншікті айналымдағы қаражатының бар екенін сипаттайды. Мынадай формула бойынша есептеледі:
+
+мұндағы:
+
+ЕС – меншікті капитал;
+
+FА – айналымнан тыс активтер;
+
+СА – ағымдағы активтер.
+
+Ұсынылатын OFR мәні: >0,1. Егер есепті кезеңнің аяғындағы коэффициенттің мәні <0,1 болса компания балансының құрылымы қанағаттанарлықсыз, ал компания төлем қабілеті жоқ болып табылады.
+
+5\. Рентабельділік коэффициенті – компанияға жұмсалған қаражаттың жалпы тиімділігін бағалауға арналған және шығындардан қайтарымдылық деңгейі мен қаражатты пайдалану дәрежесін сипаттайды.
+
+6\. Активтердің рентабельділік коэффициенті (return on assets, ROA) компанияның активтеріне жұмсалған әрбір теңгеге қанша таза пайда келгенін айғақтайды. Мынадай формула бойынша есептеледі:
+
+мұндағы:
+
+NI – таза пайда;
+
+TA – активтердің орта жылдық сомасы.
+
+Ұсынылатын ROA мәні: көрсеткіштің өсіп келе жатқан мәні (серпінде) компания активтерінің пайда туындату қабілеттігі туралы куәландырады.
+
+7\. Меншікті капиталдың рентабельділік коэффициенті (return on equity, ROE) компанияның меншікті капиталының бірлігінен алатын таза пайдасын көрсетеді. Мынадай формула бойынша есептеледі:
+
+мұндағы:
+
+NI – таза пайда;
+
+EC – меншікті капиталдың орташа жылдық сомасы.
+
+Ұсынылатын ROE мәні: саласына қарай әртүрлі, сонымен қатар, коэффициент мәнінің жоғарылығы оң бағаланады, өйткені капиталға авансталған әрбір теңгеге келетін таза пайда туралы куәландырады.
+
+8\. Қарыз капиталының рентабельділік коэффициенті (degree of financial leverage, DFL) қарыз капиталын пайдалану тиімділігін сипаттайды. Мынадай формула бойынша есептеледі:
+
+мұндағы:
+
+ROAEBIT – EBIT бойынша активтердің рентабельділігі;
+
+WACLP – қарыз капиталының орташа өлшемді бағасы (кредит үшін пайыздар ставкасының орташа мөлшері);
+
+TRP – пайдаға салынатын салық мөлшерлемесі;
+
+LC – қарыз капиталының орташа сомасы;
+
+EC – меншікті капиталдың орташа сомасы.
+
+Ұсынылатын DFL мәні: DFL мәні артық болған сайын, қарыз капиталына келетін пайда да арта береді деп пайымдалады.
+
+9\. Бюджеттік кредит рентабельділігі коэффициенті (return on investment, ROI) жобаға жұмсалған ақша қаражатының сомасына қайтарымдылықты көрсетеді. Мынадай формула бойынша есептеледі:
+
+мұндағы:
+
+NI – таза пайда;
+
+IC - инвестияланған капитал;
+
+EC – меншікті капиталдың орташа жылдық сомасы;
+
+LTL – ұзақ мерзімді міндеттемелер.
+
+Ұсынылатын ROI мәні: коэффициенттің мәні жоғары болған сайын, инвестициялар тиімді пайдаланылады.
+
+10\. Төлемге қабілеттілік (ұзақ мерзімді перспективадағы қаржылық тұрақтылық) коэффициенттері компанияның қаржы ресурстарының жағдайын және олардың жол берілетін тәуекел деңгейі жағдайында төлем қабілеттігі сақталған кездегі оның іскерлік белсенділігінің өсуін қамтамасыз ету қабілеттігін сипаттайды.
+
+11\. Қаржылық тәуелсіздік қабілеті (equity to total assets, EtTA) авансталған қаржаттың жалпы сомасындағы меншікті капиталдың үлесін сипаттайды. Коэффициенттің мәні артық болған сайын қаржылық жағынан неғұрлым тұрақты және сыртқы кредиторлардан тәуелсіз кәсіпорын. Мынадай формула бойынша есептеледі:
+
+мұндағы:
+
+EC – меншікті капитал;
+
+TA – активтер сомасы.
+
+Ұсынылатын EtTA мәні: бұл көрсеткіш үшін нормативтік мән 0,6 тең.
+
+12\. Қаржылық левередж коэффициенті (debt ratio, DR) кәсіпорынның қаржылық тәуекеліне тікелей теңбе тең және кәсіпорынның активтерін қаржыландыру көздеріндегі қарыз қаражатының үлесін көрсетеді.
+
+Мынадай формула бойынша есептеледі:
+
+мұндағы:
+
+LC – қарыз капиталы;
+
+EC – меншікті капитал.
+
+Ұсынылатын DR мәні: 0,5 - 0,8 диапазонында.
+
+13\. Кредиттердің пайдамен қамтамасыз етілу коэффициенті (percentage of loans profit, PLP) кәсіпорынның кредиттер бойынша борыштарын өтеу мүмкіндіктерін бағалау үшін қолданылады. Мынадай формула бойынша есептеледі:
+
+мұндағы:
+
+EBIT – салықтар мен пайыздарды төлегенге дейінгі пайда;
+
+A – амортизация;
+
+CL – қысқа мерзімді міндеттемелер;
+
+LTL – ұзақ мерзімді міндеттемелер.
+
+Ұсынылатын PLP мәні: көрсеткіш мәнінің өсуі (динамикасында) кредиттеу қабілеттігі жағдайының жақсаруын айғақтайды.
+
+14\. Пайыздарды жабу коэффициенті (times interest earned, TIE) ол пайыздар төлеміне қызмет көрсете алатын кәсіпорынның операциялық пайдасын төмендетудің ықтимал дәрежесін көрсетеді. Мынадай формула бойынша есептеледі:
+
+EBIT – салықтар мен пайыздарды төлегенге дейінгі пайда;
+
+PP – төленетін пайыздар.
+
+Ұсынылатын мәні: >1.
+
+15\. Қайтарымдылық коэффициенттері тартылған ресурстарды пайдалану қарқындылығын көрсетеді.
+
+16\. Дебиторлық берешектің қайтарымдылық коэффициенті (receivables turnover, RT) бір кезеңнің ішінде орташа есеппен дебиторлық берешектің ақша қаражатына неше рет айналғандығын көрсетеді. Мынадай формула бойынша есептеледі:
+
+NS – өнімді сатудан түскен пайда;
+
+AR – дебиторлық берешектің орташа жылдық құны.
+
+Ұсынылатын мәні: көрсеткіш мәнінің жоғарылығы. Коэффициенттің төмен мәні дебиторлардан қаражатты өндіріп алудың күрделі екенін айғақтайды, тиісінше компанияға айналым капиталы талап етілуінің артуы туралы куәландырады. Бұл көрсеткіштің мәндерін трендте көрсету маңызды.
+
+17\. Кредиторлық берешектің қайтарымдылығы коэффициенті (payables turnover, PT)
+
+NS – өнімді сатудан түскен пайда;
+
+AP – кредиторлық берешектің орташа жылдық құны.
+
+Ұсынылатын мәні: көрсеткіш мәнінің жоғарылығы. Көрсеткіш мәнінің төмендігі бір жағынан кредиторларға төлеу проблемаларын, екінші жағынан кредиторлармен тиімді қатынастар орналасқандығы туралы айғақтауы мүмкін. Бірінші себептегі нұсқаны болдырмау мақсатында коэффициенттің мәнін серпінінде талдау қажет.
+
+> *Мемлекеттік инвестициялық жобаның*  
+> *инвестициялық ұсынысын әзірлеу*  
+> *немесе түзету, қажетті*  
+> *сараптамаларды жүргізу, сондай-ақ*  
+> *бюджеттік инвестицияларды жоспарлау,*  
+> *қарау, іріктеу, мониторингілеу және*  
+> *іске асырылуын бағалау қағидаларына*  
+> *49-қосымша*
+
+## «Бюджеттік кредиттің ҚЭН бойынша экономикалық қорытынды» нысаны
+
+> *Ескерту. 49-қосымшамен толықтырылды - ҚР Ұлттық экономика министрінің 12.10.2015 № 663; жаңа редакцияда - ҚР Ұлттық экономика министрінің м.а. 25.11.2015 № 721 бұйрықтарымен.*
+
+<table>
+<tr>
+<td>1.</td>
+<td colspan="3">«Жалпы мәлiметтер» бөлiмi</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Жоба атауы</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Бюджеттік бағдарлама әкімшісінің атауы</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="2" rowspan="3">Қаржылық схема қатысушыларының атаулары</td>
+<td>1-қатысушы</td>
+<td></td>
+</tr>
+<tr>
+<td>2-қатысушы</td>
+<td></td>
+</tr>
+<tr>
+<td>3-қатысушы</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Кредитті беру мақсаты</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="2" rowspan="3">Жылдар бойынша қаржыландыруды бөліп жобаның жалпы құны</td>
+<td>1-жыл</td>
+<td></td>
+</tr>
+<tr>
+<td>2-жыл</td>
+<td></td>
+</tr>
+<tr>
+<td>n-жыл</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Жоба бойынша қаржыландыру көздері мен түрлері</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="8"></td>
+<td rowspan="8">Несие шарттары</td>
+<td colspan="2">бюджеттік кредиттің мөлшері (мың теңге)</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">бюджеттік кредиттеу принциптеріне сәйкес берілетін кредиттің принциптер тізбесі</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">бюджеттік кредитті беру мерзімі</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">қарыз алушының кредитті игеру кезеңі</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">жеңілдік кезеңі</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">сыйақы ставкасы</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">кредит бойынша есептелген сыйақыны төлеу кезеңділігі</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">кредитті өтеу тәсілі</td>
+<td></td>
+</tr>
+<tr>
+<td>2.</td>
+<td colspan="3">«Бюджеттік кредит ҚЭН-нің iс-шаралары бюджеттік кредиттеу өлшемдеріне сәйкестігі» бөлiмi</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Бюджеттік кредит ҚЭН-нің iс-шаралары «іс-шараларды бюджеттік кредиттеу арқылы іске асырудың экономикалық және әлеуметтік тиімділігі» өлшеміне сәйкестігі</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Бюджеттік кредит ҚЭН-нің iс-шаралары «бюджеттік кредит есебінен іске асырылатын іс-шаралардың өзін-өзі ақтауы» өлшеміне сәйкестігі</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Бюджеттік кредит ҚЭН-нің iс-шаралары «мемлекеттік жоспарлау жөнiндегi уәкiлеттi органмен келісу бойынша бюджетті атқару жөніндегі уәкiлеттi орган айқындайтын критерийлерге сәйкес қарыз алушының кредиттік қабілеттілігі» өлшеміне сәйкестігі</td>
+<td></td>
+</tr>
+<tr>
+<td>3.</td>
+<td colspan="3">«Тәуекелдер» бөлімі</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Жоба бойынша негізгі тәуекелдер және оларды азайту жөніндегі шаралар</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Ауыспалы тәуекелдерді жобаның қаржылық схема қатысушылары арасында бөлу</td>
+<td></td>
+</tr>
+<tr>
+<td>4.</td>
+<td colspan="3">«Нәтижелер» бөлімі</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Тікелей нәтиже</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Түпкілікті нәтиже</td>
+<td></td>
+</tr>
+<tr>
+<td>5.</td>
+<td colspan="3">«Тұжырымдар» бөлімі</td>
+<td></td>
+</tr>
+</table>
