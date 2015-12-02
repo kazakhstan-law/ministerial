@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/83956/rus/02.10.2015
+source: https://zan.gov.kz/client/#!/doc/83956/rus/02.12.2015
 ---
 
 ## ПОЛОЖЕНИЕ о Главном командовании Национальной гвардии Республики Казахстан

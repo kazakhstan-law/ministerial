@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/83954/kaz/15.08.2014
+source: https://zan.gov.kz/client/#!/doc/83954/kaz/02.12.2015
 ---
 
 # Пробация қызметінің жұмысын ұйымдастыру қағидасын бекіту туралы
