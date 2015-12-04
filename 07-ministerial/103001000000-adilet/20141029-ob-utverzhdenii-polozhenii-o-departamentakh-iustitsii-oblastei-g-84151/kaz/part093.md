@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/84151/kaz/29.10.2014
+source: https://zan.gov.kz/client/#!/doc/84151/kaz/04.12.2015
 ---
 
 ## 2. Департаменттің негізгі міндеттері, функциялары, құқықтары мен міндеттері
