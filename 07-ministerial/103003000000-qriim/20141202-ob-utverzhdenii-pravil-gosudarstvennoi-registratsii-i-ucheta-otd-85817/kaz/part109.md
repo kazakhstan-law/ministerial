@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85817/kaz/02.12.2014
+source: https://zan.gov.kz/client/#!/doc/85817/kaz/07.12.2015
 ---
 
 ## «BE», «CE», «С1Е» «DE», «D1E» санаттарына практикалық емтихан тапсыру кезінде есептелетін айыппұл баллдары

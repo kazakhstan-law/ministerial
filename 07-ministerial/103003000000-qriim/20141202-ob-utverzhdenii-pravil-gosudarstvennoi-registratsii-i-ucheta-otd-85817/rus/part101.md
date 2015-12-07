@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85817/rus/02.12.2014
+source: https://zan.gov.kz/client/#!/doc/85817/rus/07.12.2015
 ---
 
 ## 2. Прием экзаменов
