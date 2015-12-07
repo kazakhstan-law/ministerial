@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/58205/rus/09.12.2014
+source: https://zan.gov.kz/client/#!/doc/58205/rus/07.12.2015
 ---
 
 ## Часть 10.3. Привилегированные акции Вашей организации у нерезидентов
