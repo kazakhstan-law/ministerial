@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85801/kaz/17.11.2015
+source: https://zan.gov.kz/client/#!/doc/85801/kaz/08.12.2015
 ---
 
 ## Өтемақы төлемдерiне арналған шығыстарды есептеу Кодтары
