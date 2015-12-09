@@ -1,6 +1,11 @@
 ---
 part_of: ../kaz.md
 source: https://zan.gov.kz/client/#!/doc/83147/kaz/09.04.2014
+repealed_on: 2015-12-30
+repealed_by:
+  code: '96524'
+  title: Кейбір нормативтік құқықтық актілердің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/96524/kaz
 ---
 
 ## 2-параграф. Техник-механик

@@ -1,6 +1,11 @@
 ---
 part_of: ../rus.md
 source: https://zan.gov.kz/client/#!/doc/83147/rus/09.12.2015
+repealed_on: 2015-12-30
+repealed_by:
+  code: '96524'
+  title: О признании утратившими силу некоторых нормативных правовых актов
+  link: https://zan.gov.kz/client/#!/doc/96524/rus
 ---
 
 ## Параграф 3. Техник
