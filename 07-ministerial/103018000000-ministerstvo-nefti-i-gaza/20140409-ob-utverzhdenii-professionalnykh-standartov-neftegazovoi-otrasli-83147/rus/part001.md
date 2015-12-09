@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/83147/rus/09.04.2014
+source: https://zan.gov.kz/client/#!/doc/83147/rus/09.12.2015
 ---
 
 ## Профессиональный стандарт «Резинотехническое производство»
