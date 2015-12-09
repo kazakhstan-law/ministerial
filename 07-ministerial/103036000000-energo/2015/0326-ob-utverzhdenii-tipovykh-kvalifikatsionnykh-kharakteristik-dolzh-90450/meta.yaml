@@ -10,8 +10,13 @@ approved_on: 2015-03-26
 approved_by:
 - '103036000000'
 version_date:
-  kaz: 2015-03-26
-  rus: 2015-03-26
+  rus: 2015-12-09
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/90450/kaz/26.03.2015
-  rus: https://zan.gov.kz/client/#!/doc/90450/rus/26.03.2015
+  rus: https://zan.gov.kz/client/#!/doc/90450/rus/09.12.2015
+caused_by:
+  code: '96524'
+  requisite: Приказ от 09.12.2015 № 704, Министерство энергетики Республики Казахстан
+  title:
+    rus: О признании утратившими силу некоторых нормативных правовых актов
+    kaz: Кейбір нормативтік құқықтық актілердің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/96524/rus
