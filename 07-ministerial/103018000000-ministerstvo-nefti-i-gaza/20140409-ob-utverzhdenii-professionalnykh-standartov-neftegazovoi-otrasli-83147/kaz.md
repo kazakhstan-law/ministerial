@@ -13,6 +13,11 @@ approval_date: 2014-04-09
 version_date: 2014-04-09
 registry_number: '83147'
 source: https://zan.gov.kz/client/#!/doc/83147/kaz/09.04.2014
+repealed_on: 2015-12-30
+repealed_by:
+  code: '96524'
+  title: Кейбір нормативтік құқықтық актілердің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/96524/kaz
 ---
 
 # Мұнай және газ саласының техникалық және кәсіптік білім мамандықтары бойынша кәсіптік стандарттарды бекіту туралы

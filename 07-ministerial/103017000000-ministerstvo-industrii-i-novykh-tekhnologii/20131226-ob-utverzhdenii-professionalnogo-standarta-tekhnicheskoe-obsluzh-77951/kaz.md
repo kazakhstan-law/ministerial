@@ -14,6 +14,11 @@ approval_date: 2013-12-26
 version_date: 2013-12-26
 registry_number: '77951'
 source: https://zan.gov.kz/client/#!/doc/77951/kaz/26.12.2013
+repealed_on: 2015-12-30
+repealed_by:
+  code: '96524'
+  title: Кейбір нормативтік құқықтық актілердің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/96524/kaz
 ---
 
 # "Қазандық жабдықтарға техникалық қызмет көрсету және жөндеу" кәсіби стандартты бекіту туралы

@@ -14,6 +14,11 @@ approval_date: 2014-03-17
 version_date: 2014-03-17
 registry_number: '81446'
 source: https://zan.gov.kz/client/#!/doc/81446/kaz/17.03.2014
+repealed_on: 2015-12-30
+repealed_by:
+  code: '96524'
+  title: Кейбір нормативтік құқықтық актілердің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/96524/kaz
 ---
 
 # "Электр және электр механикалық жабдығы (түрлері бойынша)" кәсіби стандартты бекіту туралы

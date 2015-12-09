@@ -14,6 +14,11 @@ approval_date: 2013-12-26
 version_date: 2013-12-26
 registry_number: '78077'
 source: https://zan.gov.kz/client/#!/doc/78077/kaz/26.12.2013
+repealed_on: 2015-12-30
+repealed_by:
+  code: '96524'
+  title: Кейбір нормативтік құқықтық актілердің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/96524/kaz
 ---
 
 # "Байланыстың кабельді және әуе желілеріне техникалық қызмет көрсету және жөндеу" кәсіби стандартты бекіту туралы

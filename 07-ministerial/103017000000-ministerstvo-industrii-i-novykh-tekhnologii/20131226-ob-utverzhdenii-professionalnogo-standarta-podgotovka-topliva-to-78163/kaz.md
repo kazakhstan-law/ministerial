@@ -14,6 +14,11 @@ approval_date: 2013-12-26
 version_date: 2013-12-26
 registry_number: '78163'
 source: https://zan.gov.kz/client/#!/doc/78163/kaz/26.12.2013
+repealed_on: 2015-12-30
+repealed_by:
+  code: '96524'
+  title: Кейбір нормативтік құқықтық актілердің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/96524/kaz
 ---
 
 # "Отынды дайындау, отынды беру" кәсіби стандартты бекіту туралы
