@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/87050/kaz/30.12.2014
+source: https://zan.gov.kz/client/#!/doc/87050/kaz/23.12.2015
 ---
 
 ## 16. Құбыр өндірісінде өнеркәсіптік қауіпсіздігін қамтамасыз ету тәртібі

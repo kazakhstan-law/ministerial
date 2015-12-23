@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/86492/kaz/26.12.2014
+source: https://zan.gov.kz/client/#!/doc/86492/kaz/23.12.2015
 ---
 
 ## 2-параграф. Сынамалық жұмыстар
