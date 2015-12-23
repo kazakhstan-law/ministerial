@@ -1,0 +1,17 @@
+act_code: '97376'
+requisite: Приказ Министра по инвестициям и развитию Республики Казахстан от 23 декабря 2015 года № 1220
+title:
+  rus: О признании утратившим силу приказа
+  kaz: Бұйрықтың күшін жою туралы
+form: ПРИК
+type_codes:
+- ПРИК
+approved_on: 2015-12-23
+approved_by:
+- '103035000000'
+version_date:
+  kaz: 2015-12-23
+  rus: 2015-12-23
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/97376/kaz/23.12.2015
+  rus: https://zan.gov.kz/client/#!/doc/97376/rus/23.12.2015
