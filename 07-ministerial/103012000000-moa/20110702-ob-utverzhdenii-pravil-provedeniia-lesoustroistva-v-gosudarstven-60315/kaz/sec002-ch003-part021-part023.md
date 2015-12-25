@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/60315/kaz/02.07.2011
+source: https://zan.gov.kz/client/#!/doc/60315/kaz/25.12.2015
 ---
 
 ## Қайта есептеу ведомосы
