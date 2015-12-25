@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/84634/kaz/10.10.2014
+source: https://zan.gov.kz/client/#!/doc/84634/kaz/25.12.2015
 ---
 
 ## Сүттілі және сүтті-еттілі бағыттағы ірі қара малды бағалау бойынша нұсқаулық
