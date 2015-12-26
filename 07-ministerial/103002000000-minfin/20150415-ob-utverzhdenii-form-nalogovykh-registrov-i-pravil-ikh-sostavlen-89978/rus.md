@@ -1,5 +1,5 @@
 ---
-version_id: '89978_103633'
+version_id: '89978_103650'
 act_code: '89978'
 language: rus
 title: Об утверждении форм налоговых регистров и правил их составления
@@ -11,18 +11,20 @@ type_codes:
 approved_by:
 - '103002000000'
 approval_date: 2015-04-15
-version_date: 2015-11-16
+version_date: 2015-12-26
 registry_number: '89978'
 caused_by:
-  code: '97352'
-  title: О внесении изменения и дополнений в приказ исполняющего обязанности Министра финансов Республики Казахстан от 15 апреля 2015 года № 271 "Об утверждении форм налоговых регистров и правил их составления"
-  link: https://zan.gov.kz/client/#!/doc/97352/rus
-source: https://zan.gov.kz/client/#!/doc/89978/rus/16.11.2015
+  code: '97339'
+  title: О внесении изменений и дополнений в приказ исполняющего обязанности Министра финансов Республики Казахстан от 15 апреля 2015 года № 271 «Об утверждении форм налоговых регистров и правил их составления»
+  link: https://zan.gov.kz/client/#!/doc/97339/rus
+source: https://zan.gov.kz/client/#!/doc/89978/rus/26.12.2015
 ---
 
 # Об утверждении форм налоговых регистров и правил их составления
 
-В соответствии с подпунктом 2) пункта 2 статьи 77 Кодекса Республики Казахстан от 10 декабря 2008 года «О налогах и других обязательных платежах в бюджет» (Налоговый кодекс) ПРИКАЗЫВАЮ:
+В соответствии с подпунктом 2) пункта 2, пунктом 4-2 статьи 77 и статьей 624 Кодекса Республики Казахстан от 10 декабря 2008 года «О налогах и других обязательных платежах в бюджет» (Налоговый кодекс) ПРИКАЗЫВАЮ:
+
+> *Сноска. Преамбула в редакции приказа Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 1. Утвердить:
 
@@ -48,11 +50,43 @@ source: https://zan.gov.kz/client/#!/doc/89978/rus/16.11.2015
 
    11) форму налогового регистра по учету налоговых обязательств по плате за эмиссии в окружающую среду и плате за пользование водными ресурсами поверхностных источников согласно приложению 11 к настоящему приказу;
 
-   11-1) форму налогового регистра по учету закупа у лица, занимающегося личным подсобным хозяйством, сельскохозяйственной продукции заготовительной организацией в сфере агропромышленного комплекса и ее реализации согласно приложению 11-1 к настоящему приказу;
+   12) правила составления форм налоговых регистров согласно приложению 12 к настоящему приказу;
 
-   12) правила составления форм налоговых регистров согласно приложению 12 к настоящему приказу.
+   13) форму налогового регистра 1.1 «Бухгалтерский баланс» (по корпоративному подоходному налогу) согласно приложению 13 к настоящему приказу;
 
-> *Сноска. Пункт 1 в редакции приказа Министра финансов РК от 16.11.2015 № 561 (вводится в действие после дня его первого официального опубликования).*
+   14) форму налогового регистра 1.2 «Отчет о результатах финансово-хозяйственной деятельности» (по налогу на сверхприбыль) согласно приложению 14 к настоящему приказу;
+
+   15) форму налогового регистра 1.3 «Отчет о движении произведенных и приобретенных товаров, выполненных работ, оказанных услуг» (по налогу на добавленную стоимость) согласно приложению 15 к настоящему приказу;
+
+   16) форму налогового регистра 1.4 «Себестоимость произведенной продукции, выполненных работ, оказанных услуг» (по налогу на добычу полезных ископаемых) согласно приложению 16 к настоящему приказу;
+
+   17) форму налогового регистра 1.5 «Расшифровка дебиторской и кредиторской задолженности» (по корпоративному подоходному налогу) согласно приложению 17 к настоящему приказу;
+
+   18) форму налогового регистра 2.1 «Бухгалтерский баланс» (по корпоративному подоходному налогу) согласно приложению 18 к настоящему приказу;
+
+   19) форму налогового регистра 2.2 «Отчет о доходах и расходах» (по корпоративному подоходному налогу) согласно приложению 19 к настоящему приказу;
+
+   20) форму налогового регистра 2.3 «Расшифровка дебиторской и кредиторской задолженности» (по корпоративному подоходному налогу) согласно приложению 20 к настоящему приказу;
+
+   21) форму налогового регистра 3.1 «Отчет по пенсионным активам» (по корпоративному подоходному налогу) согласно приложению 21 к настоящему приказу;
+
+   22) форму налогового регистра 3.2 «Отчет по управлению пенсионными активами» (по корпоративному подоходному налогу) согласно приложению 22 к настоящему приказу;
+
+   23) форму налогового регистра 3.3 «Бухгалтерский баланс» (по корпоративному подоходному налогу) согласно приложению 23 к настоящему приказу;
+
+   24) форму налогового регистра 3.4 «Отчет о доходах и расходах» (по корпоративному подоходному налогу) согласно приложению 24 к настоящему приказу;
+
+   25) форму налогового регистра 4.1 «Отчет о страховой деятельности» (по корпоративному подоходному налогу) согласно приложению 25 к настоящему приказу;
+
+   26) форму налогового регистра 4.2 «Бухгалтерский баланс» (по корпоративному подоходному налогу) согласно приложению 26 к настоящему приказу;
+
+   27) форму налогового регистра 4.3 «Отчет о доходах и расходах» (по корпоративному подоходному налогу) согласно приложению 27 к настоящему приказу;
+
+   28) форму налогового регистра 5 «О планируемых показателях финансово-хозяйственной деятельности на предстоящий (текущий) календарный год» согласно приложению 28 к настоящему приказу;
+
+   29) правила составления отчетности по мониторингу, предоставляемой крупными налогоплательщиками, подлежащими мониторингу, в виде налоговых регистров (формы 1.1-1.5, 2.1-2.3, 3.1-3.4, 4.1-4.3, 5) согласно приложению 29 к настоящему приказу.
+
+> *Сноска. Пункт 1 в редакции приказа Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 2. Комитету государственных доходов Министерства финансов Республики Казахстан (Ергожин Д.Е.) в установленном законодательством порядке обеспечить:
 
@@ -1688,291 +1722,9 @@ ___________________________________
 
 > *форма*
 
-> *Сноска. Приказ дополнен Приложением 11-1 в соответствии с приказом Министра финансов РК от 16.11.2015 № 561 (вводится в действие после дня его первого официального опубликования).*
-
 # Налоговый регистр по учету закупа у лица, занимающегося личным подсобным хозяйством, сельскохозяйственной продукции заготовительной организацией в сфере агропромышленного комплекса и ее реализации
 
-1. БИН заготовительной организации _______________
-
-2. Наименование налогоплательщика _______________________________________________
-
-3. месяц:_________________ год: __________
-
-<table>
-<tr>
-<td colspan="15">Раздел 1. По приобретенной сельскохозяйственной продукции</td>
-</tr>
-<tr>
-<td>№ п/п</td>
-<td>ИИН физического лица</td>
-<td>Ф.И.О. (при его наличии) физического лица, реализующего сельскохозяйственную продукцию</td>
-<td>Адрес места нахождения личного подсобного хозяйства</td>
-<td>Наименование сельскохозяйственной продукции (указываются коды)</td>
-<td>Дата приобретения</td>
-<td>Количество (объем) (кг/л)</td>
-<td>Цена, тенге</td>
-<td>Общая стоимость, тенге</td>
-<td>Итоговая сумма дохода, не подлежащего налогообложению (не более 24 МЗП) на начало месяца, тенге</td>
-<td>Сумма дохода, не подлежащего налогообложению (не более 24 МЗП), тенге</td>
-<td>Сумма дохода, с которого удержан ИПН, тенге</td>
-<td>Сумма ИПН, тенге</td>
-<td>№ документа (счета-фактуры)</td>
-<td>дата документа (счета-фактуры)</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-<td>9</td>
-<td>10</td>
-<td>11</td>
-<td>12</td>
-<td>13</td>
-<td>14</td>
-<td>15</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Итого</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td></td>
-<td>х</td>
-<td>х</td>
-<td></td>
-<td></td>
-<td>х</td>
-<td>х</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="13">Раздел 2. По реализованной сельскохозяйственной продукции</td>
-</tr>
-<tr>
-<td rowspan="2">№ п/п</td>
-<td rowspan="2">БИН/ИИН</td>
-<td rowspan="2">Наименование лица</td>
-<td rowspan="2">Наименование сельскохозяйственной продукции (указываются коды)</td>
-<td rowspan="2">Дата реализации</td>
-<td rowspan="2">Количество (объем) (кг/л)</td>
-<td rowspan="2">Цена, тенге</td>
-<td rowspan="2">Стоимость без НДС, тенге</td>
-<td colspan="2">НДС</td>
-<td rowspan="2">Стоимость с учетом НДС, тенге</td>
-<td rowspan="2">№ документа (счета-фактуры)</td>
-<td rowspan="2">дата документа (счета-фактуры)</td>
-</tr>
-<tr>
-<td>ставка, %</td>
-<td>сумма, тенге</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-<td>9</td>
-<td>10</td>
-<td>11</td>
-<td>12</td>
-<td>13</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Итого</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td></td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="10">Раздел 3. По остаткам сельскохозяйственной продукции</td>
-</tr>
-<tr>
-<td rowspan="3">№п/п</td>
-<td rowspan="3">Наименование сельскохозяйственной продукции (указываются коды)</td>
-<td colspan="2">Остатки сельскохозяйственной продукции на начало отчетного периода</td>
-<td colspan="2">Приобретение сельскохозяйственной продукции</td>
-<td colspan="2">Реализация сельскохозяйственной продукции</td>
-<td colspan="2">Остатки сельскохозяйственной продукции на конец отчетного периода</td>
-</tr>
-<tr>
-<td>количество (объем) (кг/л)</td>
-<td>общая стоимость, тенге</td>
-<td>количество (объем) (кг/л)</td>
-<td>общая стоимость, тенге</td>
-<td>количество (объем) (кг/л)</td>
-<td>общая стоимость, тенге</td>
-<td>количество (объем) (кг/л)</td>
-<td>общая стоимость, тенге</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-<td>9</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Итого</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-</tr>
-</table>
-
-справочно:
-
-налоговый регистр заполняется ежедневно и ведется по каждому физическому лицу и отдельно по с/х продукции данный налоговый регистр заполняется в хронологическом порядке
-
-* коды наименования сельскохозяйственной продукции:
-
-1-крупный рогатый молочного стада живой; 2- лошади и животные семейства лошадиных прочие, живые; 3-верблюды и верблюдовые живые; 4-овцы и козы живые; 5 - свиньи живые; 6-домашняя птица живая; 7-яйца куриные в скорлупе свежие; 8-мясо скота крупного рогатого, свиней, овец, коз, лошадей и животных семейства лошадиных свежее или охлажденное; 9-молоко сырое скота крупного рогатого молочного стада; 10-мясо птицы домашней свежее или охлажденное; 11-картофель; 12 - морковь; 13-капуста; 14-баклажаны; 15-помидоры; 16-огурцы; 17-чеснок; 18-лук; 19-свекла сахарная; 20-яблоки; 21-груши; 22-айва; 23-абрикосы; 24-вишня; 25-персики; 26-сливы; 27-шерсть щипаная, шкуры, кожи сырые скота крупного рогатого, животных семейства лошадиных, овец, коз.
-
-```
-_____________________________________________________________________________________
-               Ф.И.О., подпись руководителя (налогоплательщика), печать
-_____________________________________________________________________________________
-                         (Ф.И.О., подпись главного бухгалтера
-_____________________________________________________________________________________
-       (Ф.И.О., подпись лица, ответственного за составление налогового регистра)
-_____________________________________________________________________________________
-                         (дата составления налогового регистра)
-```
+*Сноска. Приложение 11-1 исключено в соответствии с пунктом 1 приказа Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 > *Приложение 12*  
 > *к приказу исполняющего обязанности*  
@@ -2967,3 +2719,14995 @@ ________________________________________________________________________________
     26 – сливы;
 
     27 – шерсть щипаная, шкуры, кожи сырые скота крупного рогатого, животных семейства лошадиных, овец, коз.
+
+> *Приложение 13*  
+> *к приказу исполняющего обязанности*  
+> *Министра финансов*  
+> *Республики Казахстан*  
+> *от 15 апреля 2015 года № 271*
+
+> *Сноска. Приказ дополнен Приложением 13 в соответствии с приказом Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Форма*
+
+Вид формы:
+
+О Первоначальная
+
+О Очередная
+
+О Дополнительная
+
+О По уведомлению
+
+О Ликвидационная
+
+Дата и номер уведомления А номер ОООООО В дата ОООООООООО
+
+БИН
+
+Наименование налогоплательщика
+
+Налоговый период квартал год
+
+## Форма 1.1
+
+## Бухгалтерский баланс
+
+## (по корпоративному подоходному налогу)
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td rowspan="3">номер строки</td>
+<td rowspan="3">код счета</td>
+<td colspan="6" rowspan="3">Наименование счета</td>
+<td colspan="3">Начало отчетного периода</td>
+<td colspan="7" rowspan="2">Обороты</td>
+<td colspan="4">Конец отчетного периода</td>
+</tr>
+<tr>
+<td colspan="3">сальдо</td>
+<td colspan="4">сальдо</td>
+</tr>
+<tr>
+<td colspan="2">Д-т</td>
+<td>К-т</td>
+<td colspan="3">Д-т</td>
+<td colspan="4">К-т</td>
+<td colspan="2">Д-т</td>
+<td colspan="2">К-т</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td colspan="6">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td colspan="3">6</td>
+<td colspan="4">7</td>
+<td colspan="2">8</td>
+<td colspan="2">9</td>
+</tr>
+<tr>
+<td>1</td>
+<td>РАЗДЕЛ 1.</td>
+<td colspan="6">КРАТКОСРОЧНЫЕ АКТИВЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>1000</td>
+<td colspan="6">ДЕНЕЖНЫЕ СРЕДСТВА</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>3</td>
+<td>1100</td>
+<td colspan="6">КРАТКОСРОЧНЫЕ ФИНАНСОВЫЕ ИНВЕСТИЦИИ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>4</td>
+<td>1110</td>
+<td colspan="6">Краткосрочные предоставленные займы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5</td>
+<td>1120</td>
+<td colspan="6">Краткосрочные финансовые активы, предназначенные для торговли</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>6</td>
+<td>1130</td>
+<td colspan="6">Краткосрочные инвестиции, удерживаемые до погашения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>7</td>
+<td>1140</td>
+<td colspan="6">Краткосрочные финансовые инвестиции, имеющиеся в наличие для продажи</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>8</td>
+<td>1150</td>
+<td colspan="6">Прочие краткосрочные финансовые инвестиции</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>9</td>
+<td>1200</td>
+<td colspan="6">КРАТКОСРОЧНАЯ ДЕБИТОРСКАЯ ЗАДОЛЖЕННОСТЬ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>10</td>
+<td>1210</td>
+<td colspan="6">Краткосрочная дебиторская задолженность покупателей и заказчиков</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>11</td>
+<td>1220</td>
+<td colspan="6">Краткосрочная дебиторская задолженность дочерних организаций</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>12</td>
+<td>1230</td>
+<td colspan="6">Краткосрочная дебиторская задолженность ассоциированных и совместных организаций</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>13</td>
+<td>1240</td>
+<td colspan="6">Краткосрочная дебиторская задолженность филиалов и структурных подразделений</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>14</td>
+<td>1250</td>
+<td colspan="6">Краткосрочная дебиторская задолженность работников</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>15</td>
+<td>1260</td>
+<td colspan="6">Краткосрочная дебиторская задолженность по аренде</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>16</td>
+<td>1270</td>
+<td colspan="6">Краткосрочные вознаграждения к получению</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>17</td>
+<td>1280</td>
+<td colspan="6">Прочая краткосрочная дебиторская задолженность</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>18</td>
+<td>1290</td>
+<td colspan="6">Резерв по сомнительным требованиям</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>19</td>
+<td>1300</td>
+<td colspan="6">ЗАПАСЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>20</td>
+<td>1310</td>
+<td colspan="6">Сырье и материалы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>21</td>
+<td>1320</td>
+<td colspan="6">Готовая продукция</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>22</td>
+<td>1330</td>
+<td colspan="6">Товары</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>23</td>
+<td>1340</td>
+<td colspan="6">Незавершенное производство</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>24</td>
+<td>1350</td>
+<td colspan="6">Прочие запасы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>25</td>
+<td>1360</td>
+<td colspan="6">Резерв по списанию запасов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>26</td>
+<td>1400</td>
+<td colspan="6">ТЕКУЩИЕ НАЛОГОВЫЕ АКТИВЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>27</td>
+<td>1410</td>
+<td colspan="6">Корпоративный подоходный налог</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>28</td>
+<td>1420</td>
+<td colspan="6">Налог на добавленную стоимость</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>29</td>
+<td>1430</td>
+<td colspan="6">Прочие налоги и другие обязательные платежи в бюджет</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>30</td>
+<td>1500</td>
+<td colspan="6">ДОЛГОСРОЧНЫЕ АКТИВЫ, ПРЕДНАЗНАЧЕННЫЕ ДЛЯ ПРОДАЖИ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>31</td>
+<td>1600</td>
+<td colspan="6">ПРОЧИЕ КРАТКОСРОЧНЫЕ АКТИВЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>32</td>
+<td>РАЗДЕЛ 2.</td>
+<td colspan="6">ДОЛГОСРОЧНЫЕ АКТИВЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>33</td>
+<td>2000</td>
+<td colspan="6">ДОЛГОСРОЧНЫЕ ФИНАНСОВЫЕ ИНВЕСТИЦИИ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>34</td>
+<td>2010</td>
+<td colspan="6">Долгосрочные предоставленные займы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>35</td>
+<td>2020</td>
+<td colspan="6">Долгосрочные инвестиции, удерживаемые до погашения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>36</td>
+<td>2030</td>
+<td colspan="6">Долгосрочные финансовые инвестиции, имеющиеся в наличие для продажи</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>37</td>
+<td>2040</td>
+<td colspan="6">Прочие долгосрочные финансовые инвестиции</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>38</td>
+<td>2100</td>
+<td colspan="6">ДОЛГОСРОЧНАЯ ДЕБИТОРСКАЯ ЗАДОЛЖЕННОСТЬ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>39</td>
+<td>2110</td>
+<td colspan="6">Долгосрочная задолженность покупателей и заказчиков</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>40</td>
+<td>2120</td>
+<td colspan="6">Долгосрочная дебиторская задолженность дочерних организаций</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>41</td>
+<td>2130</td>
+<td colspan="6">Долгосрочная дебиторская задолженность ассоциированных и совместных организаций</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>42</td>
+<td>2140</td>
+<td colspan="6">Долгосрочная дебиторская задолженность филиалов и структурных подразделений</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>43</td>
+<td>2150</td>
+<td colspan="6">Долгосрочная дебиторская задолженность работников</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>44</td>
+<td>2160</td>
+<td colspan="6">Долгосрочная дебиторская задолженность по аренде</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>45</td>
+<td>2170</td>
+<td colspan="6">Долгосрочные вознаграждения к получению</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>46</td>
+<td>2180</td>
+<td colspan="6">Прочая долгосрочная дебиторская задолженность</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>47</td>
+<td>2200</td>
+<td colspan="6">ИНВЕСТИЦИИ, УЧИТЫВАЕМЫЕ МЕТОДОМ ДОЛЕВОГО УЧАСТИЯ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>48</td>
+<td>2210</td>
+<td colspan="6">Инвестиции, учитываемые методом долевого участия</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>49</td>
+<td>2300</td>
+<td colspan="6">ИНВЕСТИЦИИ В НЕДВИЖИМОСТЬ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>50</td>
+<td>2310</td>
+<td colspan="6">Инвестиции в недвижимость</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>51</td>
+<td>2320</td>
+<td colspan="6">Амортизация и обесценение инвестиций в недвижимость</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>52</td>
+<td></td>
+<td colspan="6">Амортизация инвестиций в недвижимость</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>53</td>
+<td>2400</td>
+<td colspan="6">ОСНОВНЫЕ СРЕДСТВА</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>54</td>
+<td>2410</td>
+<td colspan="6">Основные средства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>55</td>
+<td></td>
+<td colspan="6">Земля</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>56</td>
+<td></td>
+<td colspan="6">Здания</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>57</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Здания полученные по договору финансовой аренды</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>58</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Здания полученные по договору лизинга</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>59</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие здания</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>60</td>
+<td></td>
+<td colspan="6">Сооружения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>61</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Сооружения полученные по договору финансовой аренды</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>62</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Сооружения полученные по договору лизинга</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>63</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие сооружения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>64</td>
+<td></td>
+<td colspan="6">Машины</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>65</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Машины полученные по договору финансовой аренды</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>66</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Машины полученные по договору лизинга</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>67</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие машины</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>68</td>
+<td></td>
+<td colspan="6">Оборудование</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>69</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Оборудование полученное по договору финансовой аренды</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>70</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Оборудование полученное по договору лизинга</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>71</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Прочее оборудование</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>72</td>
+<td></td>
+<td colspan="6">Передаточные устройства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>73</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Передаточные устройства полученные по договору финансовой аренды</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>74</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Передаточные устройства полученные по договору лизинга</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>75</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие передаточные устройства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>76</td>
+<td></td>
+<td colspan="6">Транспортные средства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>77</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Транспортные средства, полученные по договору финансовой аренды</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>78</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Транспортные средства, полученные по договору лизинга</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>79</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие транспортные средства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>80</td>
+<td></td>
+<td colspan="6">Компьютерные, периферийные устройства и оборудование по обработке данных</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>81</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Компьютерные, периферийные устройства и оборудование по обработке данных полученные по договору финансовой аренды</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>82</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Компьютерные, периферийные устройства и оборудование по обработке данных полученные по договору лизинга</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>83</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие компьютерные, периферийные устройства и оборудование по обработке данных</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>84</td>
+<td></td>
+<td colspan="6">Офисная мебель</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>85</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Офисная мебель полученная по договору финансовой аренды</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>86</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Офисная мебель полученная по договору лизинга</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>87</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Прочая офисная мебель</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>88</td>
+<td></td>
+<td colspan="6">Прочие основные средства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>89</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие основные средства, полученные по договору финансовой аренды</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>90</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие основные средства, полученные по договору лизинга</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>91</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие основные средства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>92</td>
+<td>2420</td>
+<td colspan="6">Амортизация и обесценение основных средств</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>93</td>
+<td></td>
+<td colspan="6">Обесценение основных средств</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>94</td>
+<td>2500</td>
+<td colspan="6">БИОЛОГИЧЕСКИЕ АКТИВЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>95</td>
+<td>2600</td>
+<td colspan="6">РАЗВЕДОЧНЫЕ И ОЦЕНОЧНЫЕ АКТИВЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>96</td>
+<td>2610</td>
+<td colspan="6">Разведочные и оценочные активы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>97</td>
+<td>2620</td>
+<td colspan="6">Амортизация и обесценение разведочных и оценочных активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>98</td>
+<td></td>
+<td colspan="6">Амортизация разведочных и оценочных активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>99</td>
+<td></td>
+<td colspan="6">Обесценение разведочных и оценочных активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>100</td>
+<td>2700</td>
+<td colspan="6">НЕМАТЕРИАЛЬНЫЕ АКТИВЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>101</td>
+<td>2800</td>
+<td colspan="6">ОТЛОЖЕННЫЕ НАЛОГОВЫЕ АКТИВЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>102</td>
+<td>2900</td>
+<td colspan="6">ПРОЧИЕ ДОЛГОСРОЧНЫЕ АКТИВЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>103</td>
+<td>2910</td>
+<td colspan="6">Долгосрочные авансы выданные</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>104</td>
+<td>2920</td>
+<td colspan="6">Расходы будущих периодов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>105</td>
+<td>2930</td>
+<td colspan="6">Незавершенное строительство</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>106</td>
+<td>РАЗДЕЛ 3.</td>
+<td colspan="6">КРАТКОСРОЧНЫЕ ОБЯЗАТЕЛЬСТВА</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>107</td>
+<td>3000</td>
+<td colspan="6">КРАТКОСРОЧНЫЕ ФИНАНСОВЫЕ ОБЯЗАТЕЛЬСТВА</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>108</td>
+<td>3100</td>
+<td colspan="6">ОБЯЗАТЕЛЬСТВА ПО НАЛОГАМ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>109</td>
+<td>3110</td>
+<td colspan="6">Корпоративный подоходный налог, подлежащий уплате</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>110</td>
+<td>3120</td>
+<td colspan="6">Индивидуальный подоходный налог</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>111</td>
+<td>3130</td>
+<td colspan="6">Налог на добавленную стоимость</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>112</td>
+<td>3140</td>
+<td colspan="6">Акцизы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>113</td>
+<td>3150</td>
+<td colspan="6">Социальный налог</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>114</td>
+<td>3160</td>
+<td colspan="6">Земельный налог</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>115</td>
+<td>3170</td>
+<td colspan="6">Налог на транспортные средства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>116</td>
+<td>3180</td>
+<td colspan="6">Налог на имущество</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>117</td>
+<td>3190</td>
+<td colspan="6">Прочие налоги</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>118</td>
+<td>3200</td>
+<td colspan="6">ОБЯЗАТЕЛЬСТВА ПО ДРУГИМ ОБЯЗАТЕЛЬНЫМ И ДОБРОВОЛЬНЫМ ПЛАТЕЖАМ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>119</td>
+<td>3300</td>
+<td colspan="6">КРАТКОСРОЧНАЯ КРЕДИТОРСКАЯ ЗАДОЛЖЕННОСТЬ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>120</td>
+<td>3400</td>
+<td colspan="6">КРАТКОСРОЧНЫЕ ОЦЕНОЧНЫЕ ОБЯЗАТЕЛЬСТВА</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>121</td>
+<td>3410</td>
+<td colspan="6">Краткосрочные гарантийные обязательства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>122</td>
+<td></td>
+<td colspan="6">Резервы на гарантийное обслуживание</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>123</td>
+<td></td>
+<td colspan="6">Резервы по гарантиям выданным</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>124</td>
+<td></td>
+<td colspan="6">Прочие краткосрочные гарантийные обязательства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>125</td>
+<td>3420</td>
+<td colspan="6">Краткосрочные обязательства по юридическим претензиям</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>126</td>
+<td></td>
+<td colspan="6">Резервы по судебным искам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>127</td>
+<td></td>
+<td colspan="6">Прочие краткосрочные обязательства по юридическим претензиям</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>128</td>
+<td>3430</td>
+<td colspan="6">Краткосрочные оценочные обязательства по вознаграждениям работникам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>129</td>
+<td></td>
+<td colspan="6">Резервы на оплачиваемые отпуска работников</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>130</td>
+<td></td>
+<td colspan="6">Резервы на выплату премий по итогам года</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>131</td>
+<td></td>
+<td colspan="6">Прочие краткосрочные оценочные обязательства по вознаграждениям работникам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>132</td>
+<td>3440</td>
+<td colspan="6">Прочие краткосрочные оценочные обязательства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>133</td>
+<td>3500</td>
+<td colspan="6">ПРОЧИЕ КРАТКОСРОЧНЫЕ ОБЯЗАТЕЛЬСТВА</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>134</td>
+<td>3510</td>
+<td colspan="6">Краткосрочные авансы полученные</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>135</td>
+<td></td>
+<td colspan="6">Авансы, полученные под поставку запасов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>136</td>
+<td></td>
+<td colspan="6">Авансы, полученные под выполнение работ и оказание услуг</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>137</td>
+<td></td>
+<td colspan="6">Прочие авансы полученные</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>138</td>
+<td>3520</td>
+<td colspan="6">Доходы будущих периодов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>139</td>
+<td></td>
+<td colspan="6">Отрицательный гудвилл</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>140</td>
+<td></td>
+<td colspan="6">Государственные субсидии</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>141</td>
+<td></td>
+<td colspan="6">Прочие доходы будущих периодов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>142</td>
+<td>3530</td>
+<td colspan="6">Обязательства группы на выбытие, предназначенной для продажи</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>143</td>
+<td>3540</td>
+<td colspan="6">Прочие краткосрочные обязательства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>144</td>
+<td>РАЗДЕЛ 4.</td>
+<td colspan="6">ДОЛГОСРОЧНЫЕ ОБЯЗАТЕЛЬСТВА</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>145</td>
+<td>4000</td>
+<td colspan="6">ДОЛГОСРОЧНЫЕ ФИНАНСОВЫЕ ОБЯЗАТЕЛЬСТВА</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>146</td>
+<td>4010</td>
+<td colspan="6">Долгосрочные банковские займы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>147</td>
+<td></td>
+<td colspan="6">Долгосрочные банковские займы в тенге</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>148</td>
+<td></td>
+<td colspan="6">Долгосрочные банковские займы в валюте</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>149</td>
+<td>4020</td>
+<td colspan="6">Долгосрочные полученные займы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>150</td>
+<td></td>
+<td colspan="6">Долгосрочные займы в тенге, полученные от организаций, не являющихся банками</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>151</td>
+<td></td>
+<td colspan="6">Долгосрочные займы в валюте, полученные от организаций, не являющихся банками</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>152</td>
+<td>4030</td>
+<td colspan="6">Прочие долгосрочные финансовые обязательства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>153</td>
+<td></td>
+<td colspan="6">Долгосрочные облигации к погашению</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>154</td>
+<td></td>
+<td colspan="6">Прочие долгосрочные финансовые обязательства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>155</td>
+<td>4100</td>
+<td colspan="6">ДОЛГОСРОЧНАЯ КРЕДИТОРСКАЯ ЗАДОЛЖЕННОСТЬ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>156</td>
+<td>4110</td>
+<td colspan="6">Долгосрочная задолженность поставщикам и подрядчикам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>157</td>
+<td></td>
+<td colspan="6">Счета к оплате</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>158</td>
+<td></td>
+<td colspan="6">Векселя к оплате</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>159</td>
+<td></td>
+<td colspan="6">Прочая долгосрочная задолженность поставщикам и подрядчикам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>160</td>
+<td>4120</td>
+<td colspan="6">Долгосрочная кредиторская задолженность дочерним организациям</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>161</td>
+<td>4130</td>
+<td colspan="6">Долгосрочная кредиторская задолженность ассоциированным и совместным организациям</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>162</td>
+<td>4140</td>
+<td colspan="6">Долгосрочная кредиторская задолженность филиалам и структурным подразделениям</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>163</td>
+<td>4150</td>
+<td colspan="6">Долгосрочная задолженность по аренде</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>164</td>
+<td></td>
+<td colspan="6">Долгосрочная задолженность по операционной аренде</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>165</td>
+<td></td>
+<td colspan="6">Долгосрочная задолженность по финансовой аренде</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>166</td>
+<td>4160</td>
+<td colspan="6">Долгосрочные вознаграждения к выплате</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>167</td>
+<td></td>
+<td colspan="6">Долгосрочные вознаграждения к выплате по полученным займам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>168</td>
+<td></td>
+<td colspan="6">Долгосрочные вознаграждения к выплате по ценным бумагам, выпущенным в обращение</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>169</td>
+<td></td>
+<td colspan="6">Долгосрочные вознаграждения к выплате по финансовой аренде</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>170</td>
+<td></td>
+<td colspan="6">Долгосрочные вознаграждения к выплате по лизингу</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>171</td>
+<td></td>
+<td colspan="6">Прочие долгосрочные вознаграждения к выплате</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>172</td>
+<td>4170</td>
+<td colspan="6">Прочая долгосрочная кредиторская задолженность</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>173</td>
+<td></td>
+<td colspan="6">Долгосрочная задолженность по лизингу</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>174</td>
+<td></td>
+<td colspan="6">Долгосрочные вознаграждения к выплате по доверительному управлению</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>175</td>
+<td></td>
+<td colspan="6">Прочая долгосрочная кредиторская задолженность</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>176</td>
+<td>4200</td>
+<td colspan="6">ДОЛГОСРОЧНЫЕ ОЦЕНОЧНЫЕ ОБЯЗАТЕЛЬСТВА</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>177</td>
+<td>4210</td>
+<td colspan="6">Долгосрочные гарантийные обязательства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>178</td>
+<td></td>
+<td colspan="6">Резервы на гарантийное обслуживание</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>179</td>
+<td></td>
+<td colspan="6">Прочие долгосрочные гарантийные обязательства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>180</td>
+<td>4220</td>
+<td colspan="6">Долгосрочные оценочные обязательства по юридическим претензиям</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>181</td>
+<td></td>
+<td colspan="6">Резервы по судебным искам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>182</td>
+<td></td>
+<td colspan="6">Прочие долгосрочные обязательства по юридическим претензиям</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>183</td>
+<td>4230</td>
+<td colspan="6">Долгосрочные оценочные обязательства по вознаграждениям работникам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>184</td>
+<td>4240</td>
+<td colspan="6">Прочие долгосрочные оценочные обязательства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>185</td>
+<td>4300</td>
+<td colspan="6">ОТЛОЖЕННЫЕ НАЛОГОВЫЕ ОБЯЗАТЕЛЬСТВА</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>186</td>
+<td>4310</td>
+<td colspan="6">Отложенные налоговые обязательства по корпоративному подоходному налогу</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>187</td>
+<td>4400</td>
+<td colspan="6">ПРОЧИЕ ДОЛГОСРОЧНЫЕ ОБЯЗАТЕЛЬСТВА</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>188</td>
+<td>4410</td>
+<td colspan="6">Долгосрочные авансы полученные</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>189</td>
+<td></td>
+<td colspan="6">Авансы, полученные под поставку запасов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>190</td>
+<td></td>
+<td colspan="6">Авансы, полученные под выполнение работ и оказание услуг</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>191</td>
+<td></td>
+<td colspan="6">Прочие авансы полученные</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>192</td>
+<td>4420</td>
+<td colspan="6">Доходы будущих периодов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>193</td>
+<td></td>
+<td colspan="6">Отрицательный гудвилл</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>194</td>
+<td></td>
+<td colspan="6">Государственные субсидии</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>195</td>
+<td></td>
+<td colspan="6">Прочие доходы будущих периодов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>196</td>
+<td>4430</td>
+<td colspan="6">Прочие долгосрочные обязательства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>197</td>
+<td>РАЗДЕЛ 5.</td>
+<td colspan="6">КАПИТАЛ И РЕЗЕРВЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>198</td>
+<td>5000</td>
+<td colspan="6">ВЫПУЩЕННЫЙ КАПИТАЛ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>199</td>
+<td>5010</td>
+<td colspan="6">Объявленный капитал</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>200</td>
+<td></td>
+<td colspan="6">Простые акции</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>201</td>
+<td></td>
+<td colspan="6">Привилегированные акции</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>202</td>
+<td></td>
+<td colspan="6">Вклады (имущественные взносы)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>203</td>
+<td>5020</td>
+<td colspan="6">Неоплаченный капитал</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>204</td>
+<td></td>
+<td colspan="6">Неоплаченные акции</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>205</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Простые акции</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>206</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Привилегированные акции</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>207</td>
+<td></td>
+<td colspan="6">Неоплаченные вклады (имущественные взносы)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>208</td>
+<td>5100</td>
+<td colspan="6">ЭМИССИОННЫЙ ДОХОД</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>209</td>
+<td>5110</td>
+<td colspan="6">Эмиссионный доход</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>210</td>
+<td>5200</td>
+<td colspan="6">ВЫКУПЛЕННЫЕ СОБСТВЕННЫЕ ДОЛЕВЫЕ ИНСТРУМЕНТЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>211</td>
+<td>5210</td>
+<td colspan="6">Выкупленные собственные долевые инструменты</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>212</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Простые акции</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>213</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Привилегированные акции</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>214</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Доли участия</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>215</td>
+<td>5300</td>
+<td colspan="6">РЕЗЕРВЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>216</td>
+<td>5310</td>
+<td colspan="6">Резервный капитал, установленный учредительными документами</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>217</td>
+<td>5320</td>
+<td colspan="6">Резерв на переоценку</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>218</td>
+<td></td>
+<td colspan="6">Резерв на переоценку финансовых инструментов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>219</td>
+<td></td>
+<td colspan="6">Резерв на переоценку основных средств</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>220</td>
+<td></td>
+<td colspan="6">Резерв на переоценку нематериальных активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>221</td>
+<td></td>
+<td colspan="6">Резерв на переоценку прочих активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>222</td>
+<td>5330</td>
+<td colspan="6">Резерв на пересчет иностранной валюты по зарубежной деятельности</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>223</td>
+<td>5340</td>
+<td colspan="6">Прочие резервы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>224</td>
+<td>5400</td>
+<td colspan="6">НЕРАСПРЕДЕЛЕННЫЙ ДОХОД (НЕПОКРЫТЫЙ УБЫТОК)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>225</td>
+<td>5410</td>
+<td colspan="6">Прибыль (убыток) отчетного года</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>226</td>
+<td>5420</td>
+<td colspan="6">Корректировка прибыли (убытка) в результате изменения учетной политики</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>227</td>
+<td>5430</td>
+<td colspan="6">Прибыль (убыток) предыдущих лет</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>228</td>
+<td></td>
+<td colspan="6">ВАЛЮТА БАЛАНСА</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>229</td>
+<td>РАЗДЕЛ 6.</td>
+<td colspan="6">ДОХОДЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>230</td>
+<td>6000</td>
+<td colspan="6">ДОХОД ОТ РЕАЛИЗАЦИИ ПРОДУКЦИИ И ОКАЗАНИЯ УСЛУГ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>231</td>
+<td>6010</td>
+<td colspan="6">Доход от реализации продукции</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>232</td>
+<td>6020</td>
+<td colspan="6">Возврат проданной продукции</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>233</td>
+<td></td>
+<td colspan="6">Возврат реализованной продукции, оплаченной покупателями и заказчиками</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>234</td>
+<td></td>
+<td colspan="6">Возврат реализованной продукции, неоплаченной покупателями и заказчиками</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>235</td>
+<td>6030</td>
+<td colspan="6">Скидки с цены и продаж</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>236</td>
+<td></td>
+<td colspan="6">Скидки с цены</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>237</td>
+<td></td>
+<td colspan="6">Скидки с продаж</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>238</td>
+<td>6100</td>
+<td colspan="6">ДОХОДЫ ОТ ФИНАНСИРОВАНИЯ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>239</td>
+<td>6110</td>
+<td colspan="6">Доходы по вознаграждениям</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>240</td>
+<td></td>
+<td colspan="6">Доходы по вознаграждениям по предоставленным займам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>241</td>
+<td></td>
+<td colspan="6">Доходы по вознаграждениям по размещенным вкладам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>242</td>
+<td></td>
+<td colspan="6">Доходы по вознаграждениям по эмитированным долговым ценным бумагам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>243</td>
+<td></td>
+<td colspan="6">Доходы по вознаграждениям по договорам доверительного управления</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>244</td>
+<td></td>
+<td colspan="6">Доходы по вознаграждениям по договорам лизинга</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>245</td>
+<td></td>
+<td colspan="6">Доходы по вознаграждениям по текущим банковским счетам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>246</td>
+<td></td>
+<td colspan="6">Доходы по прочим вознаграждениям</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>247</td>
+<td>6120</td>
+<td colspan="6">Доходы по дивидендам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>248</td>
+<td></td>
+<td colspan="6">Дивиденды по простым акциям</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>249</td>
+<td></td>
+<td colspan="6">Дивиденды по привилегированным акциям</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>250</td>
+<td></td>
+<td colspan="6">Дивиденды по долям участия</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>251</td>
+<td>6130</td>
+<td colspan="6">Доходы от финансовой аренды</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>252</td>
+<td>6140</td>
+<td colspan="6">Доходы от операций с инвестициями в недвижимость</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>253</td>
+<td></td>
+<td colspan="6">Доходы от операций с инвестициями в недвижимость - земля</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>254</td>
+<td></td>
+<td colspan="6">Доходы от операций с инвестициями в недвижимость - здания</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>255</td>
+<td></td>
+<td colspan="6">Доходы от операций с инвестициями в недвижимость - иное имущество, прочно связанное с землей</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>256</td>
+<td>6150</td>
+<td colspan="6">Доходы от изменения справедливой стоимости финансовых инструментов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>257</td>
+<td>6160</td>
+<td colspan="6">Прочие доходы от финансирования</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>258</td>
+<td>6200</td>
+<td colspan="6">ПРОЧИЕ ДОХОДЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>259</td>
+<td>6210</td>
+<td colspan="6">Доходы от выбытия активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>260</td>
+<td></td>
+<td colspan="6">Доходы от выбытия финансовых инструментов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>261</td>
+<td></td>
+<td colspan="6">Доходы от выбытия основных средств</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>262</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Земля</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>263</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Здания</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>264</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Сооружения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>265</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Машины</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>266</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Оборудование</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>267</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Передаточные устройства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>268</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Транспортные средства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>269</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Компьютерные, периферийные устройства и оборудование по обработке данных</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>270</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Офисная мебель</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>271</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие основные средства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>272</td>
+<td></td>
+<td colspan="6">Доходы от выбытия биологических активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>273</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Растения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>274</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Животные</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>275</td>
+<td></td>
+<td colspan="6">Доходы от выбытия инвестиционной недвижимости</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>276</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Инвестиции в недвижимость - земля</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>277</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Инвестиции в недвижимость - здания</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>278</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Инвестиции в недвижимость - иное имущество, прочно связанное с землей</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>279</td>
+<td></td>
+<td colspan="6">Доходы от выбытия разведочных и оценочных активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>280</td>
+<td></td>
+<td colspan="6">Доходы от выбытия нематериальных активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>281</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Лицензионные соглашения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>282</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Программное обеспечение</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>283</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Патенты</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>284</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие нематерильные активы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>285</td>
+<td></td>
+<td colspan="6">Доходы от выбытия прочих активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>286</td>
+<td>6220</td>
+<td colspan="6">Доходы от безвозмездно полученных активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>287</td>
+<td></td>
+<td colspan="6">Доходы от безвозмездно полученных финансовых инструментов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>288</td>
+<td></td>
+<td colspan="6">Доходы от безвозмездно полученных основных средств</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>289</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Земля</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>290</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Здания</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>291</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Сооружения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>292</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Машины</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>293</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Оборудование</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>294</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Передаточные устройства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>295</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Транспортные средства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>296</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Компьютерные, периферийные устройства и оборудование по обработке данных</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>297</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Офисная мебель</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>298</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие основные средства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>299</td>
+<td></td>
+<td colspan="6">Доходы от безвозмездно полученных биологических активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>300</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Растения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>301</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Животные</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>302</td>
+<td></td>
+<td colspan="6">Доходы от безвозмездно полученных разведочных и оценочных активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>303</td>
+<td></td>
+<td colspan="6">Доходы от безвозмездно полученных нематериальных активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>304</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Лицензионные соглашения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>305</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Программное обеспечение</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>306</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Патенты</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>307</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие нематерильные активы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>308</td>
+<td></td>
+<td colspan="6">Доходы от безвозмездно полученных прочих активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>309</td>
+<td>6230</td>
+<td colspan="6">Доходы от государственных субсидий</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>310</td>
+<td></td>
+<td colspan="6">Государственные субсидии, полученные деньгами</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>311</td>
+<td></td>
+<td colspan="6">Неденежные государственные субсидии</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>312</td>
+<td>6240</td>
+<td colspan="6">Доходы от восстановления убытка от обесценения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>313</td>
+<td></td>
+<td colspan="6">Доходы от восстановления убытка от обесценения основных средств</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>314</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Здания</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>315</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Сооружения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>316</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Машины</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>317</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Оборудование</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>318</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Передаточные устройства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>319</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Транспортные средства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>320</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Компьютерные, периферийные устройства и оборудование по обработке данных</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>321</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Офисная мебель</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>322</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие основные средства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>323</td>
+<td></td>
+<td colspan="6">Доходы от восстановления убытка от обесценения разведочных и оценочных активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>324</td>
+<td></td>
+<td colspan="6">Доходы от восстановления убытка от обесценения нематериальных активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>325</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Гудвилл</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>326</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Лицензионные соглашения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>327</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Программное обеспечение</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>328</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Патенты</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>329</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие нематерильные активы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>330</td>
+<td></td>
+<td colspan="6">Доходы от восстановления убытка от обесценения прочих активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>331</td>
+<td>6250</td>
+<td colspan="6">Доходы от курсовой разницы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>332</td>
+<td>6260</td>
+<td colspan="6">Доходы от операционной аренды</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>333</td>
+<td>6270</td>
+<td colspan="6">Доходы от изменения справедливой стоимости биологических активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>334</td>
+<td></td>
+<td colspan="6">Доходы от изменения справедливой стоимости растений</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>335</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4">Растения (потребляемые биологические активы)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>336</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4">Растения (плодоносящие биологические активы)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>337</td>
+<td></td>
+<td colspan="6">Доходы от изменения справедливой стоимости животных</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>338</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4">Животные (потребляемые биологические активы)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>339</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4">Животные (плодоносящие биологические активы)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>340</td>
+<td>6280</td>
+<td colspan="6">Прочие доходы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>341</td>
+<td>6300</td>
+<td colspan="6">ДОХОДЫ, СВЯЗАННЫЕ С ПРЕКРАЩАЕМОЙ ДЕЯТЕЛЬНОСТЬЮ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>342</td>
+<td>6310</td>
+<td colspan="6">Доходы, связанные с прекращаемой деятельностью</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>343</td>
+<td>6400</td>
+<td colspan="6">ДОЛЯ ПРИБЫЛИ ОРГАНИЗАЦИЙ, УЧИТЫВАЕМЫХ ПО МЕТОДУ ДОЛЕВОГО УЧАСТИЯ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>344</td>
+<td>6410</td>
+<td colspan="6">Доля прибыли ассоциированных организаций</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>345</td>
+<td>6420</td>
+<td colspan="6">Доля прибыли совместных организаций</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>346</td>
+<td>РАЗДЕЛ 7.</td>
+<td colspan="6">РАСХОДЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>347</td>
+<td>7000</td>
+<td colspan="6">СЕБЕСТОИМОСТЬ РЕАЛИЗОВАННОЙ ПРОДУКЦИИ И ОКАЗННЫХ УСЛУГ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>348</td>
+<td>7010</td>
+<td colspan="6">Себестоимость реализованной продукции и оказанных услуг</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>349</td>
+<td>7100</td>
+<td colspan="6">РАСХОДЫ ПО РЕАЛИЗАЦИИ ПРОДУКЦИИ И ОКАЗАНИЮ УСЛУГ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>350</td>
+<td>7110</td>
+<td colspan="6">Расходы по реализации продукции и оказанию услуг</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>351</td>
+<td>7200</td>
+<td colspan="6">АДМИНИСТРАТИВНЫЕ РАСХОДЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>352</td>
+<td>7210</td>
+<td colspan="6">Административные расходы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>353</td>
+<td>7300</td>
+<td colspan="6">РАСХОДЫ НА ФИНАНСИРОВАНИЕ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>354</td>
+<td>7310</td>
+<td colspan="6">Расходы по вознаграждениям</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>355</td>
+<td></td>
+<td colspan="6">Расходы по вознаграждениям по полученным займам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>356</td>
+<td></td>
+<td colspan="6">Расходы по вознаграждениям по эмитированным долговым ценным бумагам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>357</td>
+<td></td>
+<td colspan="6">Расходы по вознаграждениям по договорам лизинга</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>358</td>
+<td></td>
+<td colspan="6">Расходы по прочим вознаграждениям</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>359</td>
+<td>7320</td>
+<td colspan="6">Расходы на выплату процентов по финансовой аренде</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>360</td>
+<td>7330</td>
+<td colspan="6">Расходы от изменения справедливой стоимости финансовых инструментов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>361</td>
+<td>7340</td>
+<td colspan="6">Прочие расходы на финансирование</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>362</td>
+<td>7400</td>
+<td colspan="6">ПРОЧИЕ РАСХОДЫ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>363</td>
+<td>7410</td>
+<td colspan="6">Расходы по выбытию активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>364</td>
+<td></td>
+<td colspan="6">Расходы по выбытию финансовых инструментов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>365</td>
+<td></td>
+<td colspan="6">Расходы по выбытию основных средств</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>366</td>
+<td></td>
+<td></td>
+<td colspan="5">Земля</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>367</td>
+<td></td>
+<td></td>
+<td colspan="5">Здания</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>368</td>
+<td></td>
+<td></td>
+<td colspan="5">Сооружения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>369</td>
+<td></td>
+<td></td>
+<td colspan="5">Машины</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>370</td>
+<td></td>
+<td></td>
+<td colspan="5">Оборудование</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>371</td>
+<td></td>
+<td></td>
+<td colspan="5">Передаточные устройства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>372</td>
+<td></td>
+<td></td>
+<td colspan="5">Транспортные средства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>373</td>
+<td></td>
+<td></td>
+<td colspan="5">Компьютерные, периферийные устройства и оборудование по обработке данных</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>374</td>
+<td></td>
+<td></td>
+<td colspan="5">Офисная мебель</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>375</td>
+<td></td>
+<td></td>
+<td colspan="5">Прочие основные средства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>376</td>
+<td></td>
+<td colspan="6">Расходы по выбытию биологических активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>377</td>
+<td></td>
+<td></td>
+<td colspan="5">Растения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>378</td>
+<td></td>
+<td></td>
+<td colspan="5">Животные</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>379</td>
+<td></td>
+<td colspan="6">Расходы по выбытию инвестиционной недвижимости</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>380</td>
+<td></td>
+<td></td>
+<td colspan="5">Инвестиции в недвижимость - земля</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>381</td>
+<td></td>
+<td></td>
+<td colspan="5">Инвестиции в недвижимость - здания</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>382</td>
+<td></td>
+<td></td>
+<td colspan="5">Инвестиции в недвижимость - иное имущество, прочно связанное с землей</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>383</td>
+<td></td>
+<td colspan="6">Расходы по выбытию разведочных и оценочных активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>384</td>
+<td></td>
+<td colspan="6">Расходы по выбытию нематериальных активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>385</td>
+<td></td>
+<td></td>
+<td colspan="5">Лицензионные соглашения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>386</td>
+<td></td>
+<td></td>
+<td colspan="5">Программное обеспечение</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>387</td>
+<td></td>
+<td></td>
+<td colspan="5">Патенты</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>388</td>
+<td></td>
+<td></td>
+<td colspan="5">Прочие нематерильные активы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>389</td>
+<td></td>
+<td colspan="6">Расходы по выбытию прочих активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>390</td>
+<td>7420</td>
+<td colspan="6">Расходы от обесценения активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>391</td>
+<td></td>
+<td colspan="6">Расходы от обесценения основных средств</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>392</td>
+<td></td>
+<td></td>
+<td colspan="5">Здания</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>393</td>
+<td></td>
+<td></td>
+<td colspan="5">Сооружения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>394</td>
+<td></td>
+<td></td>
+<td colspan="5">Машины</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>395</td>
+<td></td>
+<td></td>
+<td colspan="5">Оборудование</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>396</td>
+<td></td>
+<td></td>
+<td colspan="5">Передаточные устройства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>397</td>
+<td></td>
+<td></td>
+<td colspan="5">Транспортные средства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>398</td>
+<td></td>
+<td></td>
+<td colspan="5">Компьютерные, периферийные устройства и оборудование по обработке данных</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>399</td>
+<td></td>
+<td></td>
+<td colspan="5">Офисная мебель</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>400</td>
+<td></td>
+<td></td>
+<td colspan="5">Прочие основные средства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>401</td>
+<td></td>
+<td colspan="6">Расходы от обесценения разведочных и оценочных активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>402</td>
+<td></td>
+<td colspan="6">Расходы от обесценения нематериальных активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>403</td>
+<td></td>
+<td></td>
+<td colspan="5">Гудвилл</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>404</td>
+<td></td>
+<td></td>
+<td colspan="5">Лицензионные соглашения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>405</td>
+<td></td>
+<td></td>
+<td colspan="5">Программное обеспечение</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>406</td>
+<td></td>
+<td></td>
+<td colspan="5">Патенты</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>407</td>
+<td></td>
+<td></td>
+<td colspan="5">Прочие нематериальные активы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>408</td>
+<td></td>
+<td colspan="6">Расходы от обесценения прочих активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>409</td>
+<td>7430</td>
+<td colspan="6">Расходы по курсовой разнице</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>410</td>
+<td>7440</td>
+<td colspan="6">Расходы по созданию резерва и списанию безнадежных требований</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>411</td>
+<td></td>
+<td colspan="6">Резерв по сомнительным требованиям покупателей и заказчиков</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>412</td>
+<td></td>
+<td colspan="6">Резерв по сомнительным требованиям дочерних организаций</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>413</td>
+<td></td>
+<td colspan="6">Резерв по сомнительным требованиям ассоциированных и совместных организаций</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>414</td>
+<td></td>
+<td colspan="6">Резерв по сомнительным требованиям по размещенным вкладам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>415</td>
+<td></td>
+<td colspan="6">Резерв по сомнительным требованиям по предоставленным займам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>416</td>
+<td></td>
+<td colspan="6">Резерв по сомнительным требованиям по предоставленной финансовой аренде</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>417</td>
+<td></td>
+<td colspan="6">Резервы по прочим сомнительным требованиям</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>418</td>
+<td>7450</td>
+<td colspan="6">Расходы по операционной аренде</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>419</td>
+<td>7460</td>
+<td colspan="6">Расходы от изменения справедливой стоимости биологических активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>420</td>
+<td></td>
+<td colspan="6">Расходы от изменения справедливой стоимости растений</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>421</td>
+<td></td>
+<td></td>
+<td colspan="5">Растения (потребляемые биологические активы)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>422</td>
+<td></td>
+<td></td>
+<td colspan="5">Растения (плодоносящие биологические активы)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>423</td>
+<td></td>
+<td colspan="6">Расходы от изменения справедливой стоимости животных</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>424</td>
+<td></td>
+<td></td>
+<td colspan="5">Животные (потребляемые биологические активы)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>425</td>
+<td></td>
+<td></td>
+<td colspan="5">Животные (плодоносящие биологические активы)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>426</td>
+<td>7470</td>
+<td colspan="6">Прочие расходы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>427</td>
+<td>7500</td>
+<td colspan="6">РАСХОДЫ, СВЯЗАННЫЕ С ПРЕКРАЩАЕМОЙ ДЕЯТЕЛЬНОСТЬЮ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>428</td>
+<td>7510</td>
+<td colspan="6">Расходы, связанные с прекращаемой деятельностью</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>429</td>
+<td>7600</td>
+<td colspan="6">ДОЛЯ В УБЫТКЕ ОРГАНИЗАЦИЙ, УЧИТЫВАЕМЫХ МЕТОДОМ ДОЛЕВОГО УЧАСТИЯ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>430</td>
+<td>7610</td>
+<td colspan="6">Доля в убытке ассоциированных организаций</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>431</td>
+<td>7620</td>
+<td colspan="6">Доля в убытке совместных организаций</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>432</td>
+<td>7700</td>
+<td colspan="6">РАСХОДЫ ПО КОРПОРАТИВНОМУ ПОДОХОДНОМУ НАЛОГУ</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>433</td>
+<td>7710</td>
+<td colspan="6">Расходы по корпоративному подоходному налогу</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>434</td>
+<td>РАЗДЕЛ 8.</td>
+<td colspan="6">СЧЕТА ПРОИЗВОДСТВЕННОГО УЧЕТА</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>435</td>
+<td>8000</td>
+<td colspan="6">СЧЕТА ПРОИЗВОДСТВЕННОГО УЧЕТА</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>436</td>
+<td>8010</td>
+<td colspan="6">Основное производство</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>437</td>
+<td></td>
+<td colspan="6">Запасы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>438</td>
+<td></td>
+<td colspan="6">Оплата труда</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>439</td>
+<td></td>
+<td colspan="6">Отчисления от оплаты труда</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>440</td>
+<td></td>
+<td colspan="6">Накладные расходы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>441</td>
+<td>8020</td>
+<td colspan="6">Полуфабрикаты собственного производства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>442</td>
+<td></td>
+<td colspan="6">Запасы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>443</td>
+<td></td>
+<td colspan="6">Оплата труда</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>444</td>
+<td></td>
+<td colspan="6">Отчисления от оплаты труда</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>445</td>
+<td></td>
+<td colspan="6">Накладные расходы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>446</td>
+<td>8030</td>
+<td colspan="6">Вспомогательные производства</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>447</td>
+<td></td>
+<td colspan="6">Запасы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>448</td>
+<td></td>
+<td colspan="6">Оплата труда</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>449</td>
+<td></td>
+<td colspan="6">Отчисления от оплаты труда</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>450</td>
+<td></td>
+<td colspan="6">Накладные расходы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>451</td>
+<td>8040</td>
+<td colspan="6">Накладные расходы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>452</td>
+<td></td>
+<td colspan="6">Запасы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>453</td>
+<td></td>
+<td colspan="6">Оплата труда</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>454</td>
+<td></td>
+<td colspan="6">Отчисления от оплаты труда</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>455</td>
+<td></td>
+<td colspan="6">Амортизация основных средств</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>456</td>
+<td></td>
+<td></td>
+<td colspan="5">Амортизация зданий</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>457</td>
+<td></td>
+<td></td>
+<td colspan="5">Амортизация сооружений</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>458</td>
+<td></td>
+<td></td>
+<td colspan="5">Амортизация машин</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>459</td>
+<td></td>
+<td></td>
+<td colspan="5">Амортизация оборудования</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>460</td>
+<td></td>
+<td></td>
+<td colspan="5">Амортизация передаточных устройств</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>461</td>
+<td></td>
+<td></td>
+<td colspan="5">Амортизация транспортных средств</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>462</td>
+<td></td>
+<td></td>
+<td colspan="5">Амортизация компьютерных, периферийных устройств и оборудования по обработке данных</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>463</td>
+<td></td>
+<td></td>
+<td colspan="5">Амортизация офисной мебели</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>464</td>
+<td></td>
+<td></td>
+<td colspan="5">Аморизация прочих основных средств</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>465</td>
+<td></td>
+<td colspan="6">Амортизация нематериальных активов</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>466</td>
+<td></td>
+<td></td>
+<td colspan="5">Лицензионные соглашения</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>467</td>
+<td></td>
+<td></td>
+<td colspan="5">Программное обеспечение</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>468</td>
+<td></td>
+<td></td>
+<td colspan="5">Патенты</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>469</td>
+<td></td>
+<td></td>
+<td colspan="5">Прочие нематериальные активы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>470</td>
+<td></td>
+<td colspan="6">Коммунальные услуги</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>471</td>
+<td></td>
+<td colspan="6">Прочие накладные расходы</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>472</td>
+<td></td>
+<td colspan="6">ЗАБАЛАНСОВЫЕ СЧЕТА</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+Мы несем ответственность в соответствии с законами Республики Казахстан за достоверность и полноту сведений, приведенных в данной отчетности.
+
+Ф.И.О. (при его наличии) Руководителя
+
+Ф.И.О. (при его наличии) Главного бухгалтера
+
+Настоящая форма заверена электронной цифровой подписью в соответствии с Соглашением об использовании и признании электронной цифровой подписи при обмене электронными документами от ___________ № ___
+
+Входящий номер регистрации документа ДДММГГГ
+
+Код органа государственных доходов
+
+> *Приложение 14*  
+> *к приказу исполняющего обязанности*  
+> *Министра финансов*  
+> *Республики Казахстан*  
+> *от 15 апреля 2015 года № 271*
+
+> *Сноска. Приказ дополнен Приложением 14 в соответствии с приказом Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Форма*
+
+Вид формы:
+
+О Первоначальная
+
+О Очередная
+
+О Дополнительная
+
+О По уведомлению
+
+О Ликвидационная
+
+Дата и номер уведомления А номер ОООООО В дата ОООООООООО
+
+БИН
+
+Наименование налогоплательщика
+
+Налоговый период квартал год
+
+## Форма 1.2
+
+## Отчет о результатах финансово-хозяйственной деятельности
+
+## (по налогу на сверхприбыль)
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td>Наименование показателей</td>
+<td>Код стр.</td>
+<td>За отчетный период</td>
+<td>За предыдущий период</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Доход от реализации продукции и оказания услуг</td>
+<td>10</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Себестоимость реализованной продукции и оказанных услуг</td>
+<td>20</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Валовая прибыль (стр. 010 - стр. 020)</td>
+<td>30</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Доходы от финансирования</td>
+<td>40</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Прочие доходы</td>
+<td>50</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Расходы на реализацию продукции и оказание услуг</td>
+<td>60</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Административные расходы</td>
+<td>70</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Расходы на финансирование</td>
+<td>80</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Прочие расходы</td>
+<td>90</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Доля прибыли/убытка организаций, учитываемых по методу долевого участия</td>
+<td>100</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Прибыль (убыток) за период от продолжаемой деятельности (стр.030 + стр.040 + стр.050 – стр.060 – стр.070 – стр.080 – стр.090 +/- стр.100)</td>
+<td>110</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Прибыль (убыток) от прекращенной деятельности</td>
+<td>120</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Прибыль (убыток) до налогообложения (стр. 110 +/- стр. 120)</td>
+<td>130</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Расходы по корпоративному подоходному налогу</td>
+<td>140</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Чистая прибыль (убыток) за период (стр. 130 – стр. 140) до вычета доли меньшинства</td>
+<td>150</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Доля меньшинства</td>
+<td>160</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Итоговая прибыль (итоговый убыток) за период (стр. 150 – стр. 160)</td>
+<td>170</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Прибыль на акцию</td>
+<td>180</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Мы несем ответственность в соответствии с законами Республики Казахстан за достоверность и полноту сведений, приведенных в данной отчетности
+
+Ф.И.О. (при его наличии) Руководителя
+
+Ф.И.О. (при его наличии) Главного бухгалтера
+
+Ф.И.О. (при его наличии) должностного лица, заполнившего форму налоговой отчетности
+
+Настоящая форма заверена электронной цифровой подписью в соответствии с Соглашением об использовании и признании электронной цифровой подписи при обмене электронными документами от __________ № ___
+
+Входящий номер регистрации документа
+
+ДДММГГГГ
+
+Код органа государственных доходов
+
+> *Приложение 15*  
+> *к приказу исполняющего обязанности*  
+> *Министра финансов*  
+> *Республики Казахстан*  
+> *от 15 апреля 2015 года № 271*
+
+> *Сноска. Приказ дополнен Приложением 15 в соответствии с приказом Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Форма*
+
+Вид формы:
+
+О Первоначальная
+
+О Очередная
+
+О Дополнительная
+
+О По уведомлению
+
+О Ликвидационная
+
+Дата и номер уведомления А номер ОООООО В дата ОООООООООО
+
+БИН
+
+Наименование налогоплательщика
+
+Налоговый период квартал год
+
+## Форма 1.3
+
+## Отчет о движении произведенных и приобретенных товаров, выполненных работ, оказанных услуг
+
+## (по налогу на добавленную стоимость)
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td rowspan="2">№ п/п</td>
+<td rowspan="2">Код ТН ВЭД</td>
+<td rowspan="2">Наименование товара (работ, ус-луг)</td>
+<td colspan="2" rowspan="2">Единица измерения</td>
+<td rowspan="2">Ос-таток на начало налогового периода, количество</td>
+<td colspan="2" rowspan="2">Ос-таток на начало налогового периода, сумма</td>
+<td colspan="3" rowspan="2">Ко-ли-че-ст-во пр-ои-зв-ед-ен-ных то-ва-ров (ра-бот, ус-луг)</td>
+<td colspan="2" rowspan="2">Се-бе-сто-имо-сть про-из-ве-ден-ных то-ва-ров (ра-бот, ус-луг)</td>
+<td colspan="2" rowspan="2">Прочее поступление товара, количество</td>
+<td colspan="2" rowspan="2">Прочее поступление товара, сумма</td>
+<td colspan="2" rowspan="2">Количество реализованного товара</td>
+<td colspan="2" rowspan="2">Се-бе-сто-имо-сть ре-ал-из-ов-ан-но-го то-ва-ра</td>
+<td colspan="2" rowspan="2">Прочее выбытие товара, количество</td>
+<td colspan="2" rowspan="2">Прочее выбытие товара, сумма</td>
+<td colspan="2" rowspan="2">Ос-таток на конец налогового периода, количество</td>
+<td colspan="2" rowspan="2">Ос-таток на конец налогового периода, сумма</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td colspan="2">6</td>
+<td colspan="3">7</td>
+<td colspan="2">8</td>
+<td colspan="2">9</td>
+<td colspan="2">10</td>
+<td colspan="2">11</td>
+<td colspan="2">12</td>
+<td colspan="2">13</td>
+<td colspan="2">14</td>
+<td colspan="2">15</td>
+<td colspan="2">16</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Ито-го</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+Мы несем ответственность в соответствии с законами Республики Казахстан за достоверность и полноту сведений, приведенных в данной отчетности.
+
+Ф.И.О. (при его наличии) Руководителя
+
+Ф.И.О. (при его наличии) Главного бухгалтера
+
+Ф.И.О. (при его наличии) должностного лица, заполнившего форму налоговой отчетности
+
+Настоящая форма заверена электронной цифровой подписью в соответствии с Соглашением об использовании и признании электронной цифровой подписи при обмене электронными документами от __________ № ___
+
+Входящий номер регистрации документа ДДММГГГГ
+
+Код органа государственных доходов
+
+> *Приложение 16*  
+> *к приказу исполняющего обязанности*  
+> *Министра финансов*  
+> *Республики Казахстан*  
+> *от 15 апреля 2015 года № 271*
+
+> *Сноска. Приказ дополнен Приложением 16 в соответствии с приказом Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Форма*
+
+Вид формы:
+
+О Первоначальная
+
+О Очередная
+
+О Дополнительная
+
+О По уведомлению
+
+О Ликвидационная
+
+Дата и номер уведомления А номер ОООООО В дата ОООООООООО
+
+БИН
+
+Наименование налогоплательщика
+
+Налоговый период квартал год
+
+## Форма 1.4
+
+## Себестоимость произведенной продукции, выполненных работ, оказанных услуг
+
+## (по налогу на добычу полезных ископаемых)
+
+> *тыс.тенге*
+
+<table>
+<tr>
+<td rowspan="2">№</td>
+<td rowspan="2">Наименование расходов</td>
+<td>Т1</td>
+<td>Т2</td>
+<td>Т3</td>
+<td>Т4</td>
+<td>Т5</td>
+<td rowspan="2">Прочие товары (работы, услуги)</td>
+<td colspan="2" rowspan="2">Сумма итого:</td>
+</tr>
+<tr>
+<td>Код ТН ВЭД</td>
+<td>Код ТН ВЭД</td>
+<td>Код ТН ВЭД</td>
+<td>Код ТН ВЭД</td>
+<td>Код ТН ВЭД</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td colspan="2">9</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Материалы:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>Приобретаемые сырье и материалы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>Покупные материалы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>Природное сырье</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>Покупные изделия, полуфабрикаты</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>Работы и услуги производственного характера, выполнение сторонними организациями</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>Услуги стороннего транспорта, по доставке запасов, материалов</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>Вспомогательные материалы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>Топливо и теплоэнергия</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>Все виды покупной энергии</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1.10</td>
+<td>Другие расходы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Стоимость возвратных отходов</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Оплата труда основного производственного персонала</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Отчисления на страхование</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Накладные расходы:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5.1</td>
+<td>Затраты по обеспечению производства сыръем, материалами, топливом, энергией, инструментами, другими средствами и предметами труда</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5.2</td>
+<td>Затраты по поддержанию основных производственных фондов в рабочем состоянии</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5.3</td>
+<td>Оплата труда вспомогательного производственного персонала</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5.4</td>
+<td>Отчисления по установленным нормам на социальное, медицинское страхование</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5.5</td>
+<td>Затраты по обеспечению выполнения санитарно-гигиенических норм</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5.6</td>
+<td>Затраты по обеспечению нормальных условий труда и техники безопасности</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5.7</td>
+<td>Плата за аренду производственных фондов</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5.8</td>
+<td>Командировочные расходы, связанные с производственной деятельностью</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5.9</td>
+<td>Потери от простоев</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5.10</td>
+<td>Расходы на подготовку и освоение производства</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5.11</td>
+<td>Расходы на содержание и эксплуатацию оборудования</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5.12</td>
+<td>Затраты на гарантированное обслуживание и ремонт товаров</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5.13</td>
+<td>Другие расходы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td>Всего:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+Мы несем ответственность в соответствии с законами Республики Казахстан за достоверность и полноту сведений, приведенных в данной отчетности.
+
+Ф.И.О. (при его наличии) Руководителя
+
+Ф.И.О. (при его наличии) Главного бухгалтера
+
+Ф.И.О. (при его наличии) должностного лица, заполнившего форму налоговой отчетности
+
+Настоящая форма заверена электронной цифровой подписью в соответствии с Соглашением об использовании и признании электронной цифровой подписи при обмене электронными документами от _________ № ___
+
+Входящий номер регистрации документа ДДММГГГ
+
+Код органа государственных доходов
+
+> *Приложение 17*  
+> *к приказу исполняющего обязанности*  
+> *Министра финансов*  
+> *Республики Казахстан*  
+> *от 15 апреля 2015 года № 271*
+
+> *Сноска. Приказ дополнен Приложением 17 в соответствии с приказом Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Форма*
+
+Вид формы:
+
+О Первоначальная
+
+О Очередная
+
+О Дополнительная
+
+О По уведомлению
+
+О Ликвидационная
+
+Дата и номер уведомления А номер ОООООО В дата ОООООООООО
+
+БИН
+
+Наименование налогоплательщика
+
+Налоговый период квартал год
+
+## Форма 1.5
+
+## Расшифровка дебиторской и кредиторской задолженности
+
+## (по корпоративному подоходному налогу)
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td>
+№
+п/п
+</td>
+<td>Наименование дебитора</td>
+<td>
+Резидент
+(нерезидент)
+</td>
+<td>
+ИИН
+(БИН)
+</td>
+<td colspan="2">Код страны резинденства</td>
+<td colspan="2">Сумма</td>
+<td colspan="2">Срок образования задолженности</td>
+<td>Причины образования</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td colspan="2">5</td>
+<td colspan="2">6</td>
+<td colspan="2">7</td>
+<td>8</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+</table>
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td>
+№
+п/п
+</td>
+<td>Наименование кредитора</td>
+<td>
+Резидент
+(нерезидент)
+</td>
+<td>
+ИИН
+(БИН)
+</td>
+<td colspan="2">Код страны резинденства</td>
+<td colspan="2">Сумма</td>
+<td colspan="2">Срок образования задолженности</td>
+<td>Причины образования</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td colspan="2">5</td>
+<td colspan="2">6</td>
+<td colspan="2">7</td>
+<td>8</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+</table>
+
+Мы несем ответственность в соответствии с законами Республики Казахстан за достоверность и полноту сведений, приведенных в данной отчетности.
+
+Ф.И.О. (при его наличии) Руководителя
+
+Ф.И.О. (при его наличии) Главного бухгалтера
+
+Ф.И.О. (при его наличии) должностного лица, заполнившего форму налоговой отчетности
+
+Настоящая форма заверена электронной цифровой подписью в соответствии с Соглашением об использовании и признании электронной цифровой подписи при обмене электронными документами от ___________ № ___
+
+Входящий номер регистрации документа ДДММГГГ
+
+Код органа государственных доходов
+
+> *Приложение 18*  
+> *к приказу исполняющего обязанности*  
+> *Министра финансов*  
+> *Республики Казахстан*  
+> *от 15 апреля 2015 года № 271*
+
+> *Сноска. Приказ дополнен Приложением 18 в соответствии с приказом Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Форма*
+
+Вид формы:
+
+О Первоначальная
+
+О Очередная
+
+О Дополнительная
+
+О По уведомлению
+
+О Ликвидационная
+
+Дата и номер уведомления А номер ОООООО В дата ОООООООООО
+
+БИН
+
+Наименование налогоплательщика
+
+Налоговый период: квартал год
+
+## Форма 2.1
+
+## Бухгалтерский баланс
+
+## (по корпоративному подоходному налогу)
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td>
+№
+п/п
+</td>
+<td colspan="2">Наименование</td>
+<td>На начало отчетного периода</td>
+<td>На конец отчетного периода</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">2</td>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">Активы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="2">Деньги</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td>Наличность в кассе</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td>Банкноты и монеты в пути</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td></td>
+<td>Наличность в обменных пунктах</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td></td>
+<td>Наличность в банкоматах</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td></td>
+<td>Монеты, изготовленные из драгоценных металлов, в кассе</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td>Деньги в дорожных чеках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="2">Аффинированные драгоценные металлы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td></td>
+<td>Аффинированные драгоценные металлы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td></td>
+<td>Аффинированные драгоценные металлы в пути</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td></td>
+<td>Аффинированные драгоценные металлы, размещенные на металлических счетах</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="2">Корреспондентские счета</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td></td>
+<td>Корреспондентский счет в Национальном Банке Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td></td>
+<td>Корреспондентские счета в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="2">Требования к Национальному Банку Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td></td>
+<td>Вклады в Национальном Банке Республики Казахстан (на одну ночь)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td></td>
+<td>Вклады до востребования в Национальном Банке Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td></td>
+<td>Срочные вклады в Национальном Банке Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td></td>
+<td>Обязательные резервы в Национальном Банке Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="2">Ценные бумаги</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td></td>
+<td>Ценные бумаги, предназначенные для торговли</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td></td>
+<td>Просроченная задолженность по приобретенным ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td></td>
+<td>Специальные резервы (провизии) на покрытие убытков по ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td></td>
+<td>Дисконт по приобретенным ценным бумагам, предназначенным для торговли</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td></td>
+<td>Премия по приобретенным ценным бумагам, предназначенным для торговли</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>27</td>
+<td></td>
+<td>Вознаграждение, начисленное предыдущими держателями по ценным бумагам, предназначенным для торговли</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>28</td>
+<td></td>
+<td>Счет положительной корректировки справедливой стоимости ценных бумаг, предназначенных для торговли</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>29</td>
+<td></td>
+<td>Счет отрицательной корректировки справедливой стоимости ценных бумаг, предназначенных для торговли</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>30</td>
+<td colspan="2">Вклады, размещенные в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>31</td>
+<td></td>
+<td>Вклады, размещенные в других банках (на одну ночь)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>32</td>
+<td></td>
+<td>Вклады до востребования, размещенные в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>33</td>
+<td></td>
+<td>Краткосрочные вклады, размещенные в других банках (до одного месяца)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>34</td>
+<td></td>
+<td>Краткосрочные вклады, размещенные в других банках (до одного года)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>35</td>
+<td></td>
+<td>Долгосрочные вклады, размещенные в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>36</td>
+<td></td>
+<td>Условные вклады, размещенные в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>37</td>
+<td></td>
+<td>Просроченная задолженность других банков по вкладам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>38</td>
+<td></td>
+<td>Специальные резервы (провизии) по вкладам, размещенным в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>39</td>
+<td></td>
+<td>Счет положительной корректировки стоимости срочного вклада, размещенного в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>40</td>
+<td></td>
+<td>Счет отрицательной корректировки стоимости срочного вклада, размещенного в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>41</td>
+<td></td>
+<td>Счет положительной корректировки стоимости условного вклада, размещенного в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>42</td>
+<td></td>
+<td>Счет отрицательной корректировки стоимости условного вклада, размещенного в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>43</td>
+<td></td>
+<td>Вклад, являющийся обеспечением (заклад, гарантия, задаток) обязательств банка, кредитного товарищества и ипотечной компании</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>44</td>
+<td colspan="2">Займы, предоставленные другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>45</td>
+<td></td>
+<td>Займы овердрафт по корреспондентским счетам других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>46</td>
+<td></td>
+<td>Краткосрочные займы, предоставленные другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>47</td>
+<td></td>
+<td>Займы овернайт, предоставленные другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>48</td>
+<td></td>
+<td>Долгосрочные займы, предоставленные другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>49</td>
+<td></td>
+<td>Финансовый лизинг другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>50</td>
+<td></td>
+<td>Просроченная задолженность других банков по займам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>51</td>
+<td></td>
+<td>Просроченная задолженность других банков по финансовому лизингу</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>52</td>
+<td></td>
+<td>Счет положительной корректировки стоимости займа, предоставленного другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>53</td>
+<td></td>
+<td>Счет отрицательной корректировки стоимости займа, предоставленного другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>54</td>
+<td></td>
+<td>Специальные резервы (провизии) по займам и финансовому лизингу, предоставленным другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>55</td>
+<td colspan="2">Займы и финансовый лизинг, предоставленные организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>56</td>
+<td></td>
+<td>Займы овердрафт, предоставленные организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>57</td>
+<td></td>
+<td>Краткосрочные займы, предоставленные организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>58</td>
+<td></td>
+<td>Долгосрочные займы, предоставленные организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>59</td>
+<td></td>
+<td>Счет положительной корректировки стоимости займа, предоставленного организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>60</td>
+<td></td>
+<td>Счет отрицательной корректировки стоимости займа, предоставленного организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>61</td>
+<td></td>
+<td>Финансовый лизинг организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>62</td>
+<td></td>
+<td>Просроченная задолженность по займам, предоставленным организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>63</td>
+<td></td>
+<td>Просроченная задолженность по финансовому лизингу предоставленному организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>64</td>
+<td></td>
+<td>Специальные резервы (провизии) по займам и финансовому лизингу, предоставленным организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>65</td>
+<td colspan="2">Расчеты с филиалами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>66</td>
+<td></td>
+<td>Расчеты с головным офисом</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>67</td>
+<td></td>
+<td>Расчеты с местными филиалами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>68</td>
+<td></td>
+<td>Расчеты с зарубежными филиалами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>69</td>
+<td colspan="2">Требования к клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>70</td>
+<td></td>
+<td>Займы овердрафт, предоставленные клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>71</td>
+<td></td>
+<td>Счета по кредитным карточкам клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>72</td>
+<td></td>
+<td>Учтенные векселя клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>73</td>
+<td></td>
+<td>Факторинг клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>74</td>
+<td></td>
+<td>Просроченная задолженность клиентов по факторингу</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>75</td>
+<td></td>
+<td>Краткосрочные займы, предоставленные клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>76</td>
+<td></td>
+<td>Долгосрочные займы, предоставленные клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>77</td>
+<td></td>
+<td>Финансовый лизинг клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>78</td>
+<td></td>
+<td>Просроченная задолженность клиентов по финансовому лизингу</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>79</td>
+<td></td>
+<td>Форфейтинг клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>80</td>
+<td></td>
+<td>Просроченная задолженность клиентов по форфейтингу</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>81</td>
+<td></td>
+<td>Просроченная задолженность клиентов по займам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>82</td>
+<td></td>
+<td>Опротестованные векселя клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>83</td>
+<td></td>
+<td>Специальные резервы (провизии) по займам и финансовому лизингу, предоставленным клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>84</td>
+<td></td>
+<td>Прочие займы, предоставленные клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>85</td>
+<td></td>
+<td>Счет положительной корректировки стоимости займа, предоставленного клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>86</td>
+<td></td>
+<td>Счет отрицательной корректировки стоимости займа, предоставленного клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>87</td>
+<td></td>
+<td>Дисконт по учтенным векселям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>88</td>
+<td></td>
+<td>Премия по учтенным векселям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>89</td>
+<td></td>
+<td>Финансовые активы, переданные в доверительное (трастовое) управление</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>90</td>
+<td colspan="2">Прочие ценные бумаги</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>91</td>
+<td></td>
+<td>Ценные бумаги, удерживаемые до погашения</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>92</td>
+<td></td>
+<td>Ценные бумаги, имеющиеся в наличии для продажи</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>93</td>
+<td></td>
+<td>Дисконт по приобретенным прочим ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>94</td>
+<td></td>
+<td>Премия по приобретенным прочим ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>95</td>
+<td></td>
+<td>Вознаграждение, начисленное предыдущими держателями по прочим ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>96</td>
+<td></td>
+<td>Счет положительной корректировки справедливой стоимости прочих ценных бумаг</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>97</td>
+<td></td>
+<td>Счет отрицательной корректировки справедливой стоимости прочих ценных бумаг</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>98</td>
+<td colspan="2">Операции &quot;обратное РЕПО&quot; с ценными бумагами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>99</td>
+<td colspan="2">Общие резервы (провизии)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>100</td>
+<td></td>
+<td>Общие резервы (провизии) на покрытие убытков по дебиторской задолженности, связанной с банковской деятельностью</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>101</td>
+<td colspan="2">Общие резервы (провизии) на покрытие убытков по дебиторской задолженности, связанной с небанковской деятельностью</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>102</td>
+<td></td>
+<td>Общие резервы (провизии) на покрытие убытков по ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>103</td>
+<td></td>
+<td>Общие резервы (провизии) на покрытие убытков от кредитной деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>104</td>
+<td></td>
+<td>Общие резервы (провизии) на покрытие убытков по вкладам, размещенным в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>105</td>
+<td></td>
+<td>Общие резервы (провизии) на покрытие убытков от прочей банковской деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>106</td>
+<td colspan="2">Инвестиции в капитал и субординированный долг</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>107</td>
+<td></td>
+<td>Инвестиции в дочерние организации</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>108</td>
+<td></td>
+<td>Инвестиции в зависимые организации</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>109</td>
+<td></td>
+<td>Инвестиции в субординированный долг</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>110</td>
+<td></td>
+<td>Прочие инвестиции</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>111</td>
+<td colspan="2">Расчеты по платежам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>112</td>
+<td></td>
+<td>Расчеты с другими банками</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>113</td>
+<td></td>
+<td>Расчеты с клиентами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>114</td>
+<td colspan="2">Товарно-материальные запасы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>115</td>
+<td></td>
+<td>Неаффинированные драгоценные металлы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>116</td>
+<td></td>
+<td>Прочие товарно-материальные запасы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>117</td>
+<td></td>
+<td>Монеты, изготовленные из драгоценных металлов, на складе</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>118</td>
+<td colspan="2">Основные средства и нематериальные активы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>119</td>
+<td></td>
+<td>Строящиеся (устанавливаемые) основные средства</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>120</td>
+<td></td>
+<td>Земля, здания и сооружения</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>121</td>
+<td></td>
+<td>Компьютерное оборудование</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>122</td>
+<td></td>
+<td>Прочие основные средства</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>123</td>
+<td></td>
+<td>Основные средства, принятые в финансовый лизинг</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>124</td>
+<td></td>
+<td>Основные средства, предназначенные для сдачи в аренду</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>125</td>
+<td></td>
+<td>Капитальные затраты по арендованным зданиям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>126</td>
+<td></td>
+<td>Транспортные средства</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>127</td>
+<td></td>
+<td>Нематериальные активы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>128</td>
+<td></td>
+<td>Нематериальные активы, создаваемые (разрабатываемые) собственными силами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>129</td>
+<td></td>
+<td>Начисленная амортизация по зданиям и сооружениям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>130</td>
+<td></td>
+<td>Начисленная амортизация по компьютерному оборудованию</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>131</td>
+<td></td>
+<td>Начисленная амортизация по прочим основным средствам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>132</td>
+<td></td>
+<td>Начисленная амортизация по основным средствам, полученным по финансовому лизингу</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>133</td>
+<td></td>
+<td>Начисленная амортизация по основным средствам, предназначенным для сдачи в аренду</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>134</td>
+<td></td>
+<td>Начисленная амортизация по капитальным затратам по арендованным зданиям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>135</td>
+<td></td>
+<td>Начисленная амортизация по транспортным средствам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>136</td>
+<td></td>
+<td>Начисленная амортизация по нематериальным активам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>137</td>
+<td colspan="2">Начисленные доходы, связанные с получением вознаграждения</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>138</td>
+<td></td>
+<td>Начисленные доходы по корреспондентским счетам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>139</td>
+<td></td>
+<td>Начисленные доходы по вкладам, размещенным в Национальном Банке Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>140</td>
+<td></td>
+<td>Начисленные доходы по вкладам, размещенным в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>141</td>
+<td></td>
+<td>Просроченное вознаграждение по вкладам, размещенным в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>142</td>
+<td></td>
+<td>Начисленные доходы по аффинированным драгоценным металлам, размещенным на металлических счетах</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>143</td>
+<td></td>
+<td>Начисленные доходы по вкладу, являющемуся обеспечением (заклад, гарантия, задаток) обязательств банка, кредитного товарищества и ипотечной компании</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>144</td>
+<td></td>
+<td>Начисленные доходы по займам и финансовому лизингу, предоставленным другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>145</td>
+<td></td>
+<td>Просроченное вознаграждение по займам и финансовому лизингу, предоставленным другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>146</td>
+<td></td>
+<td>Начисленные доходы по займам и финансовому лизингу, предоставленным организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>147</td>
+<td></td>
+<td>Просроченное вознаграждение по займам и финансовому лизингу, предоставленным организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>148</td>
+<td></td>
+<td>Начисленные доходы по расчетам между головным офисом и его филиалами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>149</td>
+<td></td>
+<td>Начисленные доходы по займам и финансовому лизингу, предоставленным клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>150</td>
+<td></td>
+<td>Просроченное вознаграждение по займам и финансовому лизингу, предоставленным клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>151</td>
+<td></td>
+<td>Начисленные доходы по ценным бумагам, предназначенным для торговли</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>152</td>
+<td></td>
+<td>Начисленные доходы по ценным бумагам, удерживаемым до погашения</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>153</td>
+<td></td>
+<td>Начисленные доходы по ценным бумагам, имеющимся в наличии для продажи</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>154</td>
+<td></td>
+<td>Начисленные доходы по инвестициям в капитал и субординированный долг</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>155</td>
+<td></td>
+<td>Начисленные доходы по операциям &quot;обратное РЕПО&quot; с ценными бумагами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>156</td>
+<td></td>
+<td>Прочее просроченное вознаграждение</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>157</td>
+<td></td>
+<td>Начисленные доходы по учтенным векселям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>158</td>
+<td></td>
+<td>Начисленные доходы по финансовым активам, переданным в доверительное (трастовое) управление</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>159</td>
+<td colspan="2">Предоплата вознаграждения и расходов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>160</td>
+<td></td>
+<td>Предоплата вознаграждения по полученным займам и вкладам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>161</td>
+<td></td>
+<td>Прочие предоплаты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>162</td>
+<td colspan="2">Начисленные комиссионные доходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>163</td>
+<td></td>
+<td>Начисленные комиссионные доходы за услуги по переводным операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>164</td>
+<td></td>
+<td>Начисленные комиссионные доходы за услуги по реализации страховых полисов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>165</td>
+<td></td>
+<td>Начисленные комиссионные доходы за услуги по купле-продаже ценных бумаг</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>166</td>
+<td></td>
+<td>Начисленные комиссионные доходы за услуги по купле-продаже иностранной валюты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>167</td>
+<td></td>
+<td>Начисленные комиссионные доходы за услуги по доверительным (трастовым) операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>168</td>
+<td></td>
+<td>Начисленные комиссионные доходы за услуги по выданным гарантиям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>169</td>
+<td></td>
+<td>Начисленные комиссионные доходы за услуги по приему вкладов, открытию и ведению банковских счетов клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>170</td>
+<td></td>
+<td>Начисленные прочие комиссионные доходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>171</td>
+<td></td>
+<td>Начисленные комиссионные доходы по кастодиальной деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>172</td>
+<td></td>
+<td>Начисленные комиссионные доходы за акцепт платежных документов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>173</td>
+<td></td>
+<td>Начисленные комиссионные доходы за услуги по кассовым операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>174</td>
+<td></td>
+<td>Начисленные комиссионные доходы по документарным расчетам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>175</td>
+<td></td>
+<td>Начисленные комиссионные доходы за услуги по форфейтинговым операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>176</td>
+<td></td>
+<td>Начисленные комиссионные доходы за услуги по факторинговым операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>177</td>
+<td colspan="2">Просроченные комиссионные доходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>178</td>
+<td></td>
+<td>Просроченные комиссионные доходы за услуги по переводным операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>179</td>
+<td></td>
+<td>Просроченные комиссионные доходы за услуги по реализации страховых полисов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>180</td>
+<td></td>
+<td>Просроченные комиссионные доходы за услуги по купле-продаже ценных бумаг</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>181</td>
+<td></td>
+<td>Просроченные комиссионные доходы за услуги по купле-продаже иностранной валюты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>182</td>
+<td></td>
+<td>Просроченные комиссионные доходы за услуги по доверительным (трастовым) операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>183</td>
+<td></td>
+<td>Просроченные комиссионные доходы за услуги по выданным гарантиям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>184</td>
+<td></td>
+<td>Просроченные комиссионные доходы за услуги по приему вкладов, открытию и ведению банковских счетов клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>185</td>
+<td></td>
+<td>Просроченные прочие комиссионные доходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>186</td>
+<td></td>
+<td>Просроченные комиссионные доходы по кастодиальной деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>187</td>
+<td></td>
+<td>Просроченные комиссионные доходы за акцепт платежных документов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>188</td>
+<td></td>
+<td>Просроченные комиссионные доходы за услуги по кассовым операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>189</td>
+<td></td>
+<td>Просроченные комиссионные доходы по документарным расчетам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>190</td>
+<td></td>
+<td>Просроченные комиссионные доходы за услуги по форфейтинговым операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>191</td>
+<td></td>
+<td>Просроченные комиссионные доходы за услуги по факторинговым операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>192</td>
+<td colspan="2">Прочие дебиторы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>193</td>
+<td></td>
+<td>Расчеты по налогам и другим обязательным платежам в бюджет</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>194</td>
+<td></td>
+<td>Расчеты с брокерами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>195</td>
+<td></td>
+<td>Расчеты с акционерами (по дивидендам)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>196</td>
+<td></td>
+<td>Расчеты с работниками</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>197</td>
+<td></td>
+<td>Дебиторы по документарным расчетам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>198</td>
+<td></td>
+<td>Дебиторы по капитальным вложениям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>199</td>
+<td></td>
+<td>Досрочный подоходный налог</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>200</td>
+<td></td>
+<td>Короткая валютная позиция по иностранной валюте</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>201</td>
+<td></td>
+<td>Контрстоимость иностранной валюты в тенге (длинной валютной позиции)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>202</td>
+<td></td>
+<td>Прочие дебиторы по банковской деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>203</td>
+<td></td>
+<td>Дебиторы по гарантиям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>204</td>
+<td></td>
+<td>Требования к клиенту за акцептованные векселя</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>205</td>
+<td></td>
+<td>Прочие дебиторы по небанковской деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>206</td>
+<td></td>
+<td>Прочие транзитные счета</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>207</td>
+<td></td>
+<td>Короткая позиция по аффинированным драгоценным металлам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>208</td>
+<td></td>
+<td>Контрстоимость аффинированных драгоценных металлов в тенге (длинной позиции по аффинированным драгоценным металлам)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>209</td>
+<td></td>
+<td>Специальные резервы (провизии) на покрытие убытков от прочей банковской деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>210</td>
+<td></td>
+<td>Специальные резервы (провизии) на покрытие убытков по дебиторской задолженности, связанной с банковской деятельностью</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>211</td>
+<td></td>
+<td>Специальные резервы (провизии) на покрытие убытков по дебиторской задолженности, связанной с небанковской деятельностью</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>212</td>
+<td colspan="2">Требования по операциям с производными финансовыми инструментами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>213</td>
+<td></td>
+<td>Требования по операциям фьючерс</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>214</td>
+<td></td>
+<td>Требования по операциям форвард</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>215</td>
+<td></td>
+<td>Требования по опционным операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>216</td>
+<td></td>
+<td>Требования по операциям спот</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>217</td>
+<td></td>
+<td>Требования по операциям своп</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>218</td>
+<td></td>
+<td>Требования по премии за проданный опцион</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>219</td>
+<td></td>
+<td>Требования по прочим операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>220</td>
+<td colspan="2">Прочие активы по вновь включенным балансовым счетам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>221</td>
+<td colspan="2">ИТОГО:</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>222</td>
+<td colspan="2">Обязательства</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>223</td>
+<td colspan="2">Корреспондентские счета</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>224</td>
+<td></td>
+<td>Корреспондентские счета Национального Банка Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>225</td>
+<td></td>
+<td>Корреспондентские счета иностранных центральных банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>226</td>
+<td></td>
+<td>Корреспондентские счета других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>227</td>
+<td></td>
+<td>Корреспондентские счета организаций, осуществляющих отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>228</td>
+<td></td>
+<td>Металлические счета в аффинированном драгоценном металле</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>229</td>
+<td colspan="2">Вклады до востребования других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>230</td>
+<td></td>
+<td>Вклады до востребования Национального Банка Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>231</td>
+<td></td>
+<td>Вклады до востребования иностранных центральных банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>232</td>
+<td></td>
+<td>Вклады до востребования других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>233</td>
+<td></td>
+<td>Просроченная задолженность по вкладам до востребования других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>234</td>
+<td colspan="2">Займы, полученные от Правительства Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>235</td>
+<td></td>
+<td>Краткосрочные займы, полученные от Правительства Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>236</td>
+<td></td>
+<td>Счет положительной корректировки стоимости займа, полученного от Правительства Республики Казахстан и местных органов власти Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>237</td>
+<td></td>
+<td>Долгосрочные займы, полученные от Правительства Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>238</td>
+<td></td>
+<td>Счет отрицательной корректировки стоимости займа, полученного от Правительства Республики Казахстан и местных органов власти Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>239</td>
+<td></td>
+<td>Просроченная задолженность по займам, полученным от Правительства Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>240</td>
+<td colspan="2">Займы, полученные от международных финансовых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>241</td>
+<td></td>
+<td>Краткосрочные займы, полученные от международных финансовых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>242</td>
+<td></td>
+<td>Счет положительной корректировки стоимости займа, полученного от международных финансовых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>243</td>
+<td></td>
+<td>Долгосрочные займы, полученные от международных финансовых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>244</td>
+<td></td>
+<td>Счет отрицательной корректировки стоимости займа, полученного от международных финансовых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>245</td>
+<td></td>
+<td>Просроченная задолженность по займам, полученным от международных финансовых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>246</td>
+<td colspan="2">Займы, полученные от других банков и организаций, осуществляющих отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>247</td>
+<td></td>
+<td>Займы, полученные от Национального Банка Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>248</td>
+<td></td>
+<td>Займы, полученные от иностранных центральных банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>249</td>
+<td></td>
+<td>Краткосрочные займы, полученные от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>250</td>
+<td></td>
+<td>Счет положительной корректировки стоимости займа, полученного от других банков и организаций, осуществляющих отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>251</td>
+<td></td>
+<td>Долгосрочные займы, полученные от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>252</td>
+<td></td>
+<td>Финансовый лизинг, полученный от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>253</td>
+<td></td>
+<td>Просроченная задолженность по займам и финансовому лизингу, полученным от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>254</td>
+<td></td>
+<td>Просроченная задолженность по займам и финансовому лизингу, полученным от Национального Банка Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>255</td>
+<td></td>
+<td>Краткосрочные займы, полученные от организаций, осуществляющих отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>256</td>
+<td></td>
+<td>Счет отрицательной корректировки стоимости займа, полученного от других банков и организаций, осуществляющих отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>257</td>
+<td></td>
+<td>Долгосрочные займы, полученные от организаций, осуществляющих отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>258</td>
+<td></td>
+<td>Финансовый лизинг, полученный от организаций, осуществляющих отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>259</td>
+<td></td>
+<td>Просроченная задолженность по займам и финансовому лизингу, полученным от организаций, осуществляющих отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>260</td>
+<td colspan="2">Займы овернайт</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>261</td>
+<td></td>
+<td>Займы овернайт, полученные от Национального Банка Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>262</td>
+<td></td>
+<td>Займы овернайт, полученные от иностранных центральных банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>263</td>
+<td></td>
+<td>Займы овернайт, полученные от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>264</td>
+<td colspan="2">Срочные вклады</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>265</td>
+<td></td>
+<td>Срочные вклады Национального Банка Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>266</td>
+<td></td>
+<td>Срочные вклады иностранных центральных банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>267</td>
+<td></td>
+<td>Краткосрочные вклады других банков (до одного месяца)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>268</td>
+<td></td>
+<td>Краткосрочные вклады других банков (до одного года)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>269</td>
+<td></td>
+<td>Вклады, привлеченные от других банков на одну ночь</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>270</td>
+<td></td>
+<td>Долгосрочные вклады других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>271</td>
+<td></td>
+<td>Счет положительной корректировки стоимости срочного вклада, привлеченного от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>272</td>
+<td></td>
+<td>Счет отрицательной корректировки стоимости срочного вклада, привлеченного от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>273</td>
+<td></td>
+<td>Вклад, являющийся обеспечением (заклад, гарантия, задаток) обязательств других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>274</td>
+<td></td>
+<td>Условные вклады других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>275</td>
+<td></td>
+<td>Просроченная задолженность по срочным вкладам других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>276</td>
+<td></td>
+<td>Счет положительной корректировки стоимости условного вклада, привлеченного от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>277</td>
+<td></td>
+<td>Счет отрицательной корректировки стоимости условного вклада, привлеченного от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>278</td>
+<td></td>
+<td>Просроченная задолженность по условным вкладам других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>279</td>
+<td colspan="2">Расчеты с филиалами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>280</td>
+<td></td>
+<td>Расчеты с головным офисом</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>281</td>
+<td></td>
+<td>Расчеты с местными филиалами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>282</td>
+<td></td>
+<td>Расчеты с зарубежными филиалами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>283</td>
+<td colspan="2">Обязательства перед клиентами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>284</td>
+<td></td>
+<td>Деньги республиканского бюджета</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>285</td>
+<td></td>
+<td>Деньги местного бюджета</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>286</td>
+<td></td>
+<td>Текущие счета клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>287</td>
+<td></td>
+<td>Текущие счета физических лиц, являющиеся объектом обязательного коллективного гарантирования (страхования) вкладов (депозитов)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>288</td>
+<td></td>
+<td>Вклады до востребования физических лиц, являющиеся объектом обязательного коллективного гарантирования (страхования) вкладов (депозитов)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>289</td>
+<td></td>
+<td>Краткосрочные вклады физических лиц, являющиеся объектом обязательного коллективного гарантирования (страхования) вкладов (депозитов)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>290</td>
+<td></td>
+<td>Долгосрочные вклады физических лиц, являющиеся объектом обязательного коллективного гарантирования (страхования) вкладов (депозитов)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>291</td>
+<td></td>
+<td>Условные вклады физических лиц, являющиеся объектом обязательного коллективного гарантирования (страхования) вкладов (депозитов)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>292</td>
+<td></td>
+<td>Карт-счета физических лиц, являющиеся объектом обязательного коллективного гарантирования (страхования) вкладов (депозитов)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>293</td>
+<td></td>
+<td>Финансовые активы, принятые в доверительное (трастовое) управление</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>294</td>
+<td></td>
+<td>Вклады до востребования клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>295</td>
+<td></td>
+<td>Краткосрочные вклады клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>296</td>
+<td></td>
+<td>Долгосрочные вклады клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>297</td>
+<td></td>
+<td>Условные вклады клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>298</td>
+<td></td>
+<td>Карт- счета клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>299</td>
+<td></td>
+<td>Вклады дочерних организаций специального назначения</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>300</td>
+<td></td>
+<td>Вклад, являющийся обеспечением (заклад, гарантия, задаток) обязательств клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>301</td>
+<td></td>
+<td>Просроченная задолженность по вкладам до востребования клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>302</td>
+<td></td>
+<td>Просроченная задолженность по прочим операциям с клиентами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>303</td>
+<td></td>
+<td>Просроченная задолженность по срочным вкладам клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>304</td>
+<td></td>
+<td>Полученный финансовый лизинг</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>305</td>
+<td></td>
+<td>Указания, не исполненные в срок</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>306</td>
+<td></td>
+<td>Просроченная задолженность по полученному финансовому лизингу</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>307</td>
+<td></td>
+<td>Просроченная задолженность по условным вкладам клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>308</td>
+<td></td>
+<td>Счет положительной корректировки стоимости срочного вклада клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>309</td>
+<td></td>
+<td>Счет отрицательной корректировки стоимости срочного вклада клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>310</td>
+<td></td>
+<td>Счет положительной корректировки стоимости условного вклада клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>311</td>
+<td></td>
+<td>Счет отрицательной корректировки стоимости условного вклада клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>312</td>
+<td></td>
+<td>Счет хранения указаний отправителя в соответствии с валютным законодательством Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>313</td>
+<td colspan="2">Операции &quot;РЕПО&quot; с ценными бумагами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>314</td>
+<td colspan="2">Выпущенные в обращение ценные бумаги</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>315</td>
+<td></td>
+<td>Выпущенные в обращение облигации</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>316</td>
+<td></td>
+<td>Выпущенные в обращение прочие ценные бумаги</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>317</td>
+<td></td>
+<td>Премия по выпущенным в обращение ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>318</td>
+<td></td>
+<td>Дисконт по выпущенным в обращение ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>319</td>
+<td colspan="2">Субординированные долги</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>320</td>
+<td></td>
+<td>Субординированный долг со сроком погашения менее пяти лет</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>321</td>
+<td></td>
+<td>Субординированный долг со сроком погашения более пяти лет</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>322</td>
+<td colspan="2">Расчеты по платежам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>323</td>
+<td></td>
+<td>Расчеты с другими банками</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>324</td>
+<td></td>
+<td>Расчеты с клиентами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>325</td>
+<td colspan="2">Начисленные расходы, связанные с выплатой вознаграждения</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>326</td>
+<td></td>
+<td>Начисленные расходы по вкладам до востребования других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>327</td>
+<td></td>
+<td>Начисленные расходы по займам, полученным от Правительства Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>328</td>
+<td></td>
+<td>Начисленные расходы по займам, полученным от международных финансовых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>329</td>
+<td></td>
+<td>Начисленные расходы по займам и финансовому лизингу, полученным от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>330</td>
+<td></td>
+<td>Начисленные расходы по займам и финансовому лизингу, полученным от организаций, осуществляющих отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>331</td>
+<td></td>
+<td>Начисленные расходы по металлическим счетам в аффинированных драгоценных металлах</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>332</td>
+<td></td>
+<td>Hачисленные расходы по займам овернайт других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>333</td>
+<td></td>
+<td>Начисленные расходы по срочным вкладам других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>334</td>
+<td></td>
+<td>Начисленные расходы по вкладу, являющемуся обеспечением (заклад, гарантия, задаток) обязательств других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>335</td>
+<td></td>
+<td>Начисленные расходы по условным вкладам других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>336</td>
+<td></td>
+<td>Начисленные расходы по расчетам между головным офисом и его филиалами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>337</td>
+<td></td>
+<td>Начисленные расходы по аудиту и консультационным услугам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>338</td>
+<td></td>
+<td>Начисленные расходы по текущим счетам клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>339</td>
+<td></td>
+<td>Начисленные расходы по условным вкладам клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>340</td>
+<td></td>
+<td>Начисленные расходы по вкладам до востребования клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>341</td>
+<td></td>
+<td>Начисленные расходы по срочным вкладам клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>342</td>
+<td></td>
+<td>Начисленные расходы по вкладам дочерних организаций специального назначения</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>343</td>
+<td></td>
+<td>Начисленные расходы по вкладу, являющемуся обеспечением (заклад, гарантия, задаток) обязательств клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>344</td>
+<td></td>
+<td>Начисленные расходы по операциям &quot;РЕПО&quot; с ценными бумагами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>345</td>
+<td></td>
+<td>Начисленные расходы по карт- счетам клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>346</td>
+<td></td>
+<td>Начисленные расходы по выпущенным в обращение прочим ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>347</td>
+<td></td>
+<td>Начисленные расходы по субординированному долгу</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>348</td>
+<td></td>
+<td>Просроченное вознаграждение по полученным займам и финансовому лизингу</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>349</td>
+<td></td>
+<td>Просроченное вознаграждение по вкладам до востребования</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>350</td>
+<td></td>
+<td>Просроченное вознаграждение по срочным вкладам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>351</td>
+<td></td>
+<td>Просроченное вознаграждение по выпущенным в обращение ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>352</td>
+<td></td>
+<td>Начисленные расходы по полученному финансовому лизингу</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>353</td>
+<td></td>
+<td>Просроченное вознаграждение по условным вкладам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>354</td>
+<td></td>
+<td>Просроченное вознаграждение по вкладу, являющемуся обеспечением (заклад, гарантия, задаток) обязательств других банков и клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>355</td>
+<td></td>
+<td>Просроченное вознаграждение по текущим счетам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>356</td>
+<td></td>
+<td>Прочее просроченное вознаграждение</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>357</td>
+<td></td>
+<td>Начисленные расходы по финансовым активам, принятым в доверительное (трастовое) управление</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>358</td>
+<td colspan="2">Предоплата вознаграждения и доходов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>359</td>
+<td></td>
+<td>Предоплата вознаграждения по предоставленным займам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>360</td>
+<td></td>
+<td>Предоплата вознаграждения по размещенным вкладам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>361</td>
+<td></td>
+<td>Прочие предоплаты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>362</td>
+<td colspan="2">Начисленные комиссионные расходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>363</td>
+<td></td>
+<td>Начисленные комиссионные расходы по услугам по переводным операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>364</td>
+<td></td>
+<td>Начисленные комиссионные расходы по услугам по реализации страховых полисов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>365</td>
+<td></td>
+<td>Начисленные комиссионные расходы по услугам по купле-продаже ценных бумаг</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>366</td>
+<td></td>
+<td>Начисленные комиссионные расходы по услугам по купле-продаже иностранной валюты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>367</td>
+<td></td>
+<td>Начисленные комиссионные расходы по услугам по доверительным (трастовым) операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>368</td>
+<td></td>
+<td>Начисленные комиссионные расходы по услугам по полученным гарантиям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>369</td>
+<td></td>
+<td>Начисленные комиссионные расходы по услугам по карт-счетам клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>370</td>
+<td></td>
+<td>Начисленные прочие комиссионные расходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>371</td>
+<td></td>
+<td>Начисленные комиссионные расходы по услугам по кастодиальной деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>372</td>
+<td colspan="2">Просроченные комиссионные расходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>373</td>
+<td></td>
+<td>Просроченные комиссионные расходы по услугам по переводным операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>374</td>
+<td></td>
+<td>Просроченные комиссионные расходы по услугам по реализации страховых полисов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>375</td>
+<td></td>
+<td>Просроченные комиссионные расходы по услугам по купле-продаже ценных бумаг</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>376</td>
+<td></td>
+<td>Просроченные комиссионные расходы по услугам по купле-продаже иностранной валюты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>377</td>
+<td></td>
+<td>Просроченные комиссионные расходы по услугам по доверительным (трастовым) операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>378</td>
+<td></td>
+<td>Просроченные комиссионные расходы по услугам по полученным гарантиям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>379</td>
+<td></td>
+<td>Просроченные прочие комиссионные расходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>380</td>
+<td></td>
+<td>Просроченные комиссионные расходы по услугам по кастодиальной деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>381</td>
+<td colspan="2">Прочие кредиторы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>382</td>
+<td></td>
+<td>Расчеты по налогам и другим обязательным платежам в бюджет</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>383</td>
+<td></td>
+<td>Расчеты с брокерами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>384</td>
+<td></td>
+<td>Расчеты с акционерами (по дивидендам)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>385</td>
+<td></td>
+<td>Расчеты с работниками</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>386</td>
+<td></td>
+<td>Кредиторы по документарным расчетам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>387</td>
+<td></td>
+<td>Кредиторы по капитальным вложениям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>388</td>
+<td></td>
+<td>Отсроченный подоходный налог</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>389</td>
+<td></td>
+<td>Длинная валютная позиция по иностранной валюте</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>390</td>
+<td></td>
+<td>Контрстоимость иностранной валюты в тенге (короткой валютной позиции)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>391</td>
+<td></td>
+<td>Прочие кредиторы по банковской деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>392</td>
+<td></td>
+<td>Обязательства, связанные с кастодиальной деятельностью</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>393</td>
+<td></td>
+<td>Обязательства по акцептам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>394</td>
+<td></td>
+<td>Прочие кредиторы по небанковской деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>395</td>
+<td></td>
+<td>Прочие транзитные счета</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>396</td>
+<td></td>
+<td>Длинная позиция по аффинированным драгоценным металлам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>397</td>
+<td></td>
+<td>Контрстоимость аффинированных драгоценных металлов в тенге (короткой позиции по аффинированным драгоценным металлам)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">2</td>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<td>398</td>
+<td></td>
+<td>Общие резервы (провизии) на покрытие убытков по условным обязательствам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>399</td>
+<td></td>
+<td>Специальные резервы (провизии) на покрытие убытков по условным обязательствам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>400</td>
+<td colspan="2">Обязательства по операциям с производными финансовыми инструментами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>401</td>
+<td></td>
+<td>Обязательства по операциям фьючерс</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>402</td>
+<td></td>
+<td>Обязательства по операциям форвард</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>403</td>
+<td></td>
+<td>Обязательства по опционным операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>404</td>
+<td></td>
+<td>Обязательства по операциям спот</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>405</td>
+<td></td>
+<td>Обязательства по операциям своп</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>406</td>
+<td></td>
+<td>Обязательства по премии за приобретаемый опцион</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>407</td>
+<td></td>
+<td>Обязательства по прочим операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>408</td>
+<td colspan="2">Прочие обязательства по вновь включенным балансовым счетам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>409</td>
+<td colspan="2">ИТОГО:</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>410</td>
+<td colspan="2">Собственный капитал</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>411</td>
+<td colspan="2">Уставный капитал</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>412</td>
+<td></td>
+<td>Объявленный уставный капитал – простые акции</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>413</td>
+<td></td>
+<td>Неоплаченный уставный капитал – простые акции</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>414</td>
+<td></td>
+<td>Выкупленные простые акции</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>415</td>
+<td></td>
+<td>Объявленный уставный капитал – привилегированные акции</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>416</td>
+<td></td>
+<td>Неоплаченный уставный капитал - привилегированные акции</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>417</td>
+<td></td>
+<td>Выкупленные привилегированные акции</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>418</td>
+<td></td>
+<td>Объявленный уставный капитал – вклады и паи</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>419</td>
+<td></td>
+<td>Неоплаченный уставный капитал – вклады и паи</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>420</td>
+<td></td>
+<td>Выкупленные вклады и паи</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>421</td>
+<td colspan="2">Дополнительный капитал</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>422</td>
+<td></td>
+<td>Дополнительный оплаченный капитал</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>423</td>
+<td colspan="2">Резервный капитал и резервы переоценки</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>424</td>
+<td></td>
+<td>Резервный капитал</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>425</td>
+<td></td>
+<td>Резервы переоценки основных средств</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>426</td>
+<td></td>
+<td>Резервы переоценки стоимости ценных бумаг, имеющихся в наличии для продажи</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>427</td>
+<td></td>
+<td>Нераспределенный чистый доход (непокрытый убыток) прошлых лет</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>428</td>
+<td></td>
+<td>Резервы переоценки прошлых лет иностранной валюты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>429</td>
+<td></td>
+<td>Резервы переоценки прошлых лет аффинированных драгоценных металлов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>430</td>
+<td></td>
+<td>Резервы переоценки прошлых лет займов в тенге с фиксацией валютного эквивалента займов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>431</td>
+<td></td>
+<td>Резервы переоценки прошлых лет вкладов в тенге с фиксацией валютного эквивалента вкладов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>432</td>
+<td></td>
+<td>Резервы по прочей переоценке</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>433</td>
+<td></td>
+<td>Нераспределенный чистый доход (непокрытый убыток)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>434</td>
+<td colspan="2">Прочие данные по вновь включенным балансовым счетам собственного капитала</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>435</td>
+<td colspan="2">ИТОГО:</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Мы несем ответственность в соответствии с законами Республики Казахстан за достоверность и полноту сведений, приведенных в данной отчетности.
+
+Ф.И.О. (при его наличии) Руководителя
+
+Ф.И.О. (при его наличии) Главного бухгалтера
+
+Ф.И.О. (при его наличии) должностного лица, заполнившего форму налоговой отчетности
+
+Настоящая форма заверена электронной цифровой подписью в соответствии с Соглашением об использовании и признании электронной цифровой подписи при обмене электронными документами от _________ № ___
+
+Входящий номер регистрации документа ДДММГГГГ
+
+Код органа государственных доходов
+
+> *Приложение 19*  
+> *к приказу исполняющего обязанности*  
+> *Министра финансов*  
+> *Республики Казахстан*  
+> *от 15 апреля 2015 года № 271*
+
+> *Сноска. Приказ дополнен Приложением 19 в соответствии с приказом Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Форма*
+
+Вид формы:
+
+Первоначальная
+
+Очередная
+
+Дополнительная
+
+По уведомлению
+
+Ликвидационная
+
+Дата и номер уведомления А номер ОООООО В дата ОООООООООО
+
+БИН
+
+Налоговый период: квартал год
+
+## Форма 2.2
+
+## Отчет о доходах и расходах
+
+## (по корпоративному подоходному налогу)
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td colspan="2">Наименование</td>
+<td>На начало отчетного периода</td>
+<td>На конец отчетного периода</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td colspan="2">Доходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Доходы, связанные с получением вознаграждения по корреспондентским счетам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по корреспондентскому счету в Национальном Банке Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по корреспондентским счетам в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Доходы, связанные с получением вознаграждения по вкладам, размещенным в Национальном Банке Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по вкладам, размещенным в Национальном Банке Республики Казахстан (на одну ночь)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по вкладам до востребования, размещенным в Национальном Банке Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по срочным вкладам, размещенным в Национальном Банке Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по обязательным резервам в Национальном Банке Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Доходы, связанные с получением вознаграждения по ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по ценным бумагам, предназначенным для торговли</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы по амортизации дисконта по приобретенным ценным бумагам, предназначенным для торговли</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Доходы, связанные с получением вознаграждения по вкладам, размещенным в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по вкладам, размещенным в других банках (на одну ночь)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по вкладам до востребования, размещенным в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по краткосрочным вкладам, размещенным в других банках (до одного месяца)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по краткосрочным вкладам, размещенным в других банках (до одного года)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по долгосрочным вкладам, размещенным в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по условным вкладам, размещенным в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по просроченной задолженности других банков по вкладам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по аффинированным драгоценным металлам, размещенным на металлических счетах</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы в виде положительной корректировки стоимости срочного вклада, размещенного в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы в виде положительной корректировки стоимости условного вклада, размещенного в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы в виде отрицательной корректировки стоимости срочного вклада, привлеченного от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы в виде отрицательной корректировки стоимости условного вклада, привлеченного от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по вкладу, являющемуся обеспечением (заклад, гарантия, задаток) обязательств банка, кредитного товарищества и ипотечной компании</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Доходы, связанные с получением вознаграждения по займам, предоставленным другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по займам овердрафт, предоставленным другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по краткосрочным займам, предоставленным другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по займам овернайт, предоставленным другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по долгосрочным займам, предоставленным другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по финансовому лизингу, предоставленному другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по просроченной задолженности других банков по займам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионное вознаграждение по займам, предоставленным другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы в виде положительной корректировки стоимости займа, предоставленного другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы в виде отрицательной корректировки стоимости займа, полученного от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Доходы, связанные с получением вознаграждения по займам и финансовому лизингу, предоставленным организациям, осуществляющим отдельные виды банковских операций или полученным от организаций, осуществляющих отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по займам овердрафт, предоставленным организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по краткосрочным займам, предоставленным организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по долгосрочным займам, предоставленным организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы в виде положительной корректировки стоимости займа, предоставленного организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы в виде отрицательной корректировки стоимости займа, полученного от организаций, осуществляющих отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по финансовому лизингу, предоставленному организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Доходы по расчетам с филиалами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы по расчетам с головным офисом</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы по расчетам с местными филиалами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы по расчетам с зарубежными филиалами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Доходы, связанные с получением вознаграждения по требования банка к клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по займам овердрафт, предоставленным клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по кредитным карточкам клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по учтенным векселям клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по факторингу клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по краткосрочным займам, предоставленным клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по долгосрочным займам, предоставленным клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по финансовому лизингу, предоставленному клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по форфейтингу клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по просроченной задолженности клиентов по займам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по прочим займам, предоставленным клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионное вознаграждение по займам, предоставленным клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы в виде положительной корректировки стоимости займа, предоставленного клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы в виде отрицательной корректировки стоимости займа, полученного от Правительства Республики Казахстан, местных органов власти Республики Казахстан и международных финансовых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы в виде отрицательной корректировки стоимости срочного вклада, привлеченного от клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы в виде отрицательной корректировки стоимости условного вклада, привлеченного от клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по финансовым активам, переданным в доверительное (трастовое) управление</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Доходы, связанные с получением вознаграждения по прочим ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по ценным бумагам, удерживаемым до погашения</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по ценным бумагам, имеющимся в наличии для продажи</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы по амортизации дисконта по приобретенным прочим ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы по амортизации премии по выпущенным в обращение ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Доходы, связанные с получением вознаграждения по операциям &quot;обратное РЕПО&quot; с ценными бумагами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Доходы, связанные с получением вознаграждения по инвестициям в капитал и субординированный долг</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Дивиденды, полученные по акциям дочерних организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Дивиденды, полученные по акциям зависимых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по инвестициям в субординированный долг</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с получением вознаграждения по прочим инвестициям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Доходы по дилинговым операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы по купле-продаже ценных бумаг</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы по купле-продаже иностранной валюты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы по купле-продаже драгоценных металлов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Нереализованный доход от переоценки форвардных операций по ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Нереализованный доход от переоценки форвардных операций по иностранной валюте</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Нереализованный доход от переоценки форвардных операций по аффинированным драгоценным металлам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Нереализованный доход от переоценки финансовых фьючерсов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Нереализованный доход от переоценки опционных операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Нереализованный доход от переоценки операций спот</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Нереализованный доход от переоценки операций своп</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Нереализованный доход от переоценки прочих операций с производными инструментами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Комиссионные доходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные доходы за услуги по переводным операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные доходы за услуги по реализации страховых полисов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные доходы за услуги по купле-продаже ценных бумаг</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные доходы за услуги по купле-продаже иностранной валюты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные доходы за услуги по доверительным (трастовым) операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные доходы за услуги по выдаче гарантий</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные доходы за услуги по приему вкладов, открытию и ведению банковских счетов клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Прочие комиссионные доходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные доходы по кастодиальной деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные доходы, полученные за акцепт платежных документов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные доходы за услуги по кассовым операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные доходы по документарным расчетам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные доходы за услуги по форфейтинговым операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные доходы за услуги по факторинговым операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Доходы от переоценки</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доход от переоценки иностранной валюты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доход от переоценки аффинированных драгоценных металлов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доход от переоценки займов в тенге с фиксацией валютного эквивалента займов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доход от переоценки вкладов в тенге с фиксацией валютного эквивалента вкладов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доход от изменения стоимости ценных бумаг, предназначенных для торговли и имеющихся в наличии для продажи</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доход от прочей переоценки</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Реализованные доходы от переоценки</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Реализованные доходы от переоценки иностранной валюты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Реализованные доходы от переоценки аффинированных драгоценных металлов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Реализованные доходы от изменения стоимости ценных бумаг, предназначенных для торговли и имеющихся в наличии для продажи</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Реализованные доходы от прочей переоценки</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Доходы от продажи</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы от продажи акций дочерних и зависимых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы от реализации основных средств и нематериальных активов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы от реализации товарно-материальных запасов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы от реализации прочих инвестиций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Доходы, связанные с изменением доли участия в уставном капитале юридических лиц</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с изменением доли участия в уставном капитале дочерних организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы, связанные с изменением доли участия в уставном капитале зависимых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Доходы по операциям с производными финансовыми инструментами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы по операциям фьючерс</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы по операциям форвард</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы по опционным операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы по операциям спот</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы по операциям своп</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы по прочим операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Неустойка (штраф, пеня)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Прочие доходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Прочие доходы от банковской деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Прочие доходы от небанковской деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Чрезвычайные доходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Чрезвычайные доходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы прошлых периодов, связанные с банковской деятельностью, выявленные в отчетном периоде</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Доходы прошлых периодов, связанные с небанковской деятельностью, выявленные в отчетном периоде</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Доход до налогов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Прочие доходы по вновь включенным балансовым счетам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">ИТОГО:</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Расходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Расходы, связанные с выплатой вознаграждения по корреспондентским счетам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по корреспондентским счетам Национального Банка Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по корреспондентским счетам иностранных центральных банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по корреспондентским счетам других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по корреспондентским счетам организации, осуществляющей отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по металлическим счетам в аффинированном драгоценном металле</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Расходы, связанные с выплатой вознаграждения по займам, полученным от Правительства и местных органов власти Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по краткосрочным займам, полученным от Правительства и местных органов власти Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по долгосрочным займам, полученным от Правительства и местных органов власти Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы в виде положительной корректировки стоимости займа, полученного от Правительства Республики Казахстан и местных органов власти Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по просроченной задолженности по займам, полученным от Правительства и местных органов власти Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Расходы, связанные с выплатой вознаграждения по займам, полученным от международных финансовых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по краткосрочным займам, полученным от международных финансовых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по долгосрочным займам, полученным от международных финансовых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы в виде положительной корректировки стоимости займа, полученного от международных финансовых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по просроченной задолженности по займам, полученным от международных финансовых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Расходы, связанные с выплатой вознаграждения по займам, полученным от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по займам, полученным от Национального Банка Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по займам, полученным от иностранных центральных банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по краткосрочным займам, полученным от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы в виде положительной корректировки стоимости займа, полученного от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по долгосрочным займам, полученным от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы в виде отрицательной корректировки стоимости займа, предоставленного другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по просроченной задолженности по займам, полученным от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по просроченной задолженности по займам, полученным от Национального Банка Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Расходы, связанные с выплатой вознаграждения по займам, полученным от организаций, осуществляющих отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по краткосрочным займам, полученным от организаций, осуществляющих отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы в виде положительной корректировки стоимости займа, полученного от организаций, осуществляющих отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по долгосрочным займам, полученным от организаций, осуществляющих отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы в виде отрицательной корректировки стоимости займа, предоставленного организациям, осуществляющим отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по просроченной задолженности по займам, полученным от организаций, осуществляющих отдельные виды банковских операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Другие расходы, связанные с выплатой вознаграждения</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Другие расходы, связанные с выплатой вознаграждения по операциям с другими банками</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионное вознаграждение по займам, полученным от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Расходы, связанные с выплатой вознаграждения по займам овернайт</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по займам овернайт Национального Банка Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по займам овернайт иностранных центральных банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по займам овернайт других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Расходы, связанные с выплатой вознаграждения по вкладам других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по вкладам до востребования Национального Банка Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по срочным вкладам Национального Банка Республики Казахстан</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по вкладам до востребования иностранных центральных банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по срочным вкладам иностранных центральных банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по вкладам до востребования других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по краткосрочным вкладам других банков, (до одного месяца)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по краткосрочным вкладам других банков (до одного года)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по долгосрочным вкладам других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по вкладу, являющемуся обеспечением (заклад, гарантия, задаток) обязательств других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по условным вкладам других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы в виде отрицательной корректировки стоимости срочного вклада, размещенного в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы в виде отрицательной корректировки стоимости условного вклада, размещенного в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы в виде положительной корректировки стоимости срочного вклада, привлеченного от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы в виде положительной корректировки стоимости условного вклада, привлеченного от других банков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Расходы по расчетам с филиалами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по расчетам с головным офисом</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по расчетам с местными филиалами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по расчетам с зарубежными филиалами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Расходы, связанные с выплатой вознаграждения по требованиям клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по деньгам республиканского бюджета</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по деньгам местного бюджета</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по текущим счетам клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по финансовым активам, принятым в доверительное (трастовое) управление</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по вкладам до востребования клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по краткосрочным вкладам клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по долгосрочным вкладам клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по условным вкладам клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по карт-счетам клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по счетам дочерних организаций специального назначения</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения вкладу, являющемуся обеспечением (заклад, гарантия, задаток) обязательств клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по просроченной задолженности по вкладам до востребования клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по просроченной задолженности по прочим операциям с клиентами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по просроченной задолженности по срочным вкладам клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по полученному финансовому лизингу</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по указаниям, неисполненным в срок</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по прочим вкладам клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионное вознаграждение по принятым вкладам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы в виде отрицательной корректировки стоимости займа, предоставленного клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы в виде положительной корректировки стоимости срочного вклада, привлеченного от клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы в виде положительной корректировки стоимости условного вклада, привлеченного от клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по амортизации премии по учтенным векселям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по операциям &quot;РЕПО&quot; с ценными бумагами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по выпущенным в обращение облигациям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по выпущенным в обращение прочим ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по амортизации премии по приобретенным ценным бумагам, предназначенным для торговли</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по амортизации премии по приобретенным прочим ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по амортизации дисконта по выпущенным в обращение ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Расходы, связанные с выплатой вознаграждения по субординированному долгу</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по субординированному долгу со сроком погашения менее пяти лет</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с выплатой вознаграждения по субординированному долгу со сроком погашения более пяти лет</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Ассигнования на обеспечение</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Ассигнования на специальные резервы (провизии) по вкладам, размещенным в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Ассигнования на специальные резервы (провизии) по займам и финансовому лизингу, предоставленным другим банкам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Ассигнования на специальные резервы (провизии) по дебиторской задолженности, связанной с банковской деятельностью</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Ассигнования на общие резервы (провизии) по вкладам, размещенным в других банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Ассигнования на специальные резервы (провизии) по займам и финансовому лизингу, предоставленным клиентам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Ассигнования на общие резервы (провизии) на покрытие убытков от кредитной деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Ассигнования на специальные резервы (провизии) на покрытие убытков от прочей банковской деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Ассигнования на общие резервы (провизии) на покрытие убытков от прочей банковской деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Ассигнования на специальные резервы (провизии) по дебиторской задолженности, связанной с небанковской деятельностью</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Ассигнования на общие резервы (провизии) по дебиторской задолженности, связанной с банковской деятельностью</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Ассигнования на общие резервы (провизии) по дебиторской задолженности, связанной с небанковской деятельностью</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Ассигнования на общие резервы (провизии) по условным обязательствам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Ассигнования на общие резервы (провизии) по ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Ассигнования на специальные резервы (провизии) по ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Ассигнования на специальные резервы (провизии) по условным обязательствам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Расходы по дилинговым операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по купле-продаже ценных бумаг</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по купле-продаже иностранной валюты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по купле-продаже драгоценных металлов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Нереализованный расход от переоценки форвардных операций по ценным бумагам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Нереализованный расход от переоценки форвардных операций по иностранной валюте</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Нереализованный расход от переоценки форвардных операций по аффинированным драгоценным металлам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Нереализованный расход от переоценки финансовых фьючерсов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Нереализованный расход от переоценки опционных операций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Нереализованный расход от переоценки операций спот</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Нереализованный расход от переоценки операций своп</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Нереализованный расход от переоценки прочих операций с производными инструментами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Комиссионные расходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные расходы по полученным услугам по переводным операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные расходы по полученным услугам по реализации страховых полисов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные расходы по полученным услугам по купле-продаже ценных бумаг</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные расходы по полученным услугам по купле-продаже иностранной валюты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные расходы по полученным услугам по доверительным (трастовым) операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные расходы по полученным услугам по гарантиям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные расходы по полученным услугам по карт-счетам клиентов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Прочие комиссионные расходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Комиссионные расходы по кастодиальной деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Расходы от переоценки</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расход от переоценки иностранной валюты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расход от переоценки аффинированных драгоценных металлов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расход от переоценки займов в тенге с фиксацией валютного эквивалента займов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расход от переоценки вкладов в тенге с фиксацией валютного эквивалента вкладов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расход от изменения стоимости ценных бумаг, предназначенных для торговли и имеющихся в наличии для продажи</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расход от прочей переоценки</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Расходы по оплате труда и обязательным отчислениям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по оплате труда</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Прочие выплаты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Реализованные расходы от переоценки</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Реализованные расходы от переоценки иностранной валюты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Реализованные расходы от переоценки аффинированных драгоценных металлов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Реализованные расходы от изменения стоимости ценных бумаг, предназначенных для торговли и имеющихся в наличии для продажи</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Реализованные расходы от прочей переоценки</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Общехозяйственные расходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Транспортные расходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Административные расходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы на инкассацию</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы на ремонт</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы на рекламу</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы на охрану и сигнализацию</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Представительские расходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Прочие общехозяйственные расходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы на служебные командировки</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по аудиту и консультационным услугам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по страхованию</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по услугам связи</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Налоги, сборы и другие обязательные платежи в бюджет, кроме подоходного налога</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Налог на добавленную стоимость</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Социальный налог</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Земельный налог</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Налог на имущество юридических лиц</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Налог на транспортные средства</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Сбор с аукционов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Прочие налоги, сборы и обязательные платежи в бюджет</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Амортизационные отчисления</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Амортизационные отчисления по зданиям и сооружениям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Амортизационные отчисления по компьютерному оборудованию</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Амортизационные отчисления по прочим основным средствам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Амортизационные отчисления по основным средствам, полученным по финансовому лизингу</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Амортизационные отчисления по основным средствам, предназначенным для сдачи в аренду</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Амортизационные отчисления по капитальным затратам по арендованным зданиям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Амортизационные отчисления по транспортным средствам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Амортизационные отчисления по нематериальным активам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Расходы от продажи</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы от продажи акций дочерних и зависимых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы от реализации основных средств и нематериальных активов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы от безвозмездной передачи основных средств и нематериальных активов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы от реализации прочих инвестиций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Расходы, связанные с изменением доли участия в уставном капитале юридических лиц</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с изменением доли участия в уставном капитале дочерних организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы, связанные с изменением доли участия в уставном капитале зависимых организаций</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Расходы по операциям с производными финансовыми инструментами</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по операциям фьючерс</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по операциям форвард</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по опционным операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по операциям спот</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по операциям своп</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по прочим операциям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Неустойка (штраф, пеня)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Прочие расходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Прочие расходы от банковской деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Прочие расходы от небанковской деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по аренде</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы от акцептов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Расходы по полученным банком гарантиям</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Чрезвычайные расходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Чрезвычайные расходы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Убытки прошлых периодов, связанные с банковской деятельностью, выявленные в отчетном периоде</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Убытки прошлых периодов, связанные с небанковской деятельностью, выявленные в отчетном периоде</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Подоходный налог</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Прочие расходы по вновь включенным балансовым счетам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ИТОГО:</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Мы несем ответственность в соответствии с законами Республики Казахстан за достоверность и полноту сведений, приведенных в данной отчетности.
+
+Ф.И.О. (при его наличии) Руководителя
+
+Ф.И.О. (при его наличии) Главного бухгалтера
+
+Ф.И.О. (при его наличии) должностного лица, заполнившего форму налоговой отчетности
+
+Настоящая форма заверена электронной цифровой подписью в соответствии с Соглашением об использовании и признании электронной цифровой подписи при обмене электронными документами от ________ № ___
+
+Входящий номер регистрации документа ДДММГГГГ
+
+Код органа государственных доходов
+
+> *Приложение 20*  
+> *к приказу исполняющего обязанности*  
+> *Министра финансов*  
+> *Республики Казахстан*  
+> *от 15 апреля 2015 года № 271*
+
+> *Сноска. Приказ дополнен Приложением 20 в соответствии с приказом Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Форма*
+
+Вид формы:
+
+О Первоначальная
+
+О Очередная
+
+О Дополнительная
+
+О По уведомлению
+
+О Ликвидационная
+
+Дата и номер уведомления А номер ОООООО В дата ОООООООООО
+
+БИН
+
+Наименование налогоплательщика
+
+Налоговый период: квартал год
+
+## Форма 2.3
+
+## Расшифровка дебиторской и кредиторской задолженности
+
+## (по корпоративному подоходному налогу)
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td>
+№
+п/п
+</td>
+<td>Наименование дебитора</td>
+<td>
+Резидент
+(нерезидент)
+</td>
+<td>
+ИИН
+(БИН)
+</td>
+<td colspan="2">Код страны резинденства</td>
+<td colspan="2">Сумма</td>
+<td colspan="2">Срок образования задолженности</td>
+<td>Причины образования</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td colspan="2">5</td>
+<td colspan="2">6</td>
+<td colspan="2">7</td>
+<td>8</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+</table>
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td>
+№
+п/п
+</td>
+<td>Наименование кредитора</td>
+<td>
+Резидент
+(нерезидент)
+</td>
+<td>
+ИИН
+(БИН)
+</td>
+<td colspan="2">Код страны резинденства</td>
+<td colspan="2">Сумма</td>
+<td colspan="2">Срок образования задолженности</td>
+<td>Причины образования</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td colspan="2">5</td>
+<td colspan="2">6</td>
+<td colspan="2">7</td>
+<td>8</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+</table>
+
+Мы несем ответственность в соответствии с законами Республики Казахстан за достоверность и полноту сведений, приведенных в данной отчетности.
+
+Ф.И.О. (при его наличии) Руководителя
+
+Ф.И.О. (при его наличии) Главного бухгалтера
+
+Ф.И.О. (при его наличии) должностного лица, заполнившего форму налоговой отчетности
+
+Настоящая форма заверена электронной цифровой подписью в соответствии с Соглашением об использовании и признании электронной цифровой подписи при обмене электронными документами от ________ № ___
+
+Входящий номер регистрации документа ДДММГГГ
+
+Код органа государственных доходов
+
+> *Приложение 21*  
+> *к приказу исполняющего обязанности*  
+> *Министра финансов*  
+> *Республики Казахстан*  
+> *от 15 апреля 2015 года № 271*
+
+> *Сноска. Приказ дополнен Приложением 21 в соответствии с приказом Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Форма*
+
+Вид формы:
+
+О Первоначальная
+
+О Очередная
+
+О Дополнительная
+
+О По уведомлению
+
+О Ликвидационная
+
+Дата и номер уведомления А номер ОООООО В дата ОООООООООО
+
+БИН
+
+Наименование налогоплательщика
+
+Налоговый период: месяц года
+
+## Форма 3.1
+
+## Отчет по пенсионным активам
+
+## (по корпоративному подоходному налогу)
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td colspan="3" rowspan="2">Наименование</td>
+<td rowspan="2">На начало отчетного периода</td>
+<td rowspan="2">На конец отчетного периода</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td colspan="3">Активы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Деньги на счетах в банках</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Аффинированные драгоценные металлы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Вклады в Национальном Банке Республики Казахстан и банках второго уровня</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Ценные бумаги, имеющиеся в наличии для продажи</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Ценные бумаги, предназначенные для торговли</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Требования по операциям &quot;обратное РЕПО&quot;</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Производные финансовые инструменты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Дебиторская задолженность</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Ценные бумаги, удерживаемые до погашения</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Прочие финансовые активы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Итого активы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="2">Обязательства</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td colspan="3">Требования получателей по пенсионным выплатам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Кредиторская задолженность по комиссионным вознаграждениям, в том числе:</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">от пенсионных активов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">от инвестиционного дохода</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Кредиторская задолженность по подоходному налогу от пенсионных выплат</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Производные финансовые инструменты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td colspan="3">Прочие обязательства</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Итого обязательства</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Итого чистые активы</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Мы несем ответственность в соответствии с законами Республики Казахстан за достоверность и полноту сведений, приведенных в данной отчетности.
+
+Ф.И.О. (при его наличии) Руководителя
+
+Ф.И.О. (при его наличии) Главного бухгалтера
+
+Ф.И.О. (при его наличии) должностного лица, заполнившего форму налоговой отчетности
+
+Настоящая форма заверена электронной цифровой подписью в соответствии с Соглашением об использовании и признании электронной цифровой подписи при обмене электронными документами от ___________ № ___
+
+Входящий номер регистрации документа ДДММГГГГ
+
+Код органа государственных доходов
+
+> *Приложение 22*  
+> *к приказу исполняющего обязанности*  
+> *Министра финансов*  
+> *Республики Казахстан*  
+> *от 15 апреля 2015 года № 271*
+
+> *Сноска. Приказ дополнен Приложением 22 в соответствии с приказом Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Форма*
+
+Вид формы:
+
+О Первоначальная
+
+О Очередная
+
+О Дополнительная
+
+О По уведомлению
+
+О Ликвидационная
+
+Дата и номер уведомления
+
+А номер ОООООО
+
+В дата ОООООООООО
+
+БИН
+
+Наименование налогоплательщика
+
+Налоговый период квартал год
+
+## Форма 3.2
+
+## Отчет по управлению пенсионными активами
+
+## (по корпоративному подоходному налогу)
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td rowspan="3">№ п/п</td>
+<td colspan="2" rowspan="3">Сумма пенсионных активов на конец налогового периода</td>
+<td colspan="3" rowspan="3">Инвестировано, всего</td>
+<td colspan="18">в том числе:</td>
+<td colspan="2" rowspan="2">Начислено инвестиционного дохода</td>
+<td colspan="3" rowspan="2">Комиссионное вознаграждение</td>
+</tr>
+<tr>
+<td colspan="4">банковские вклады</td>
+<td colspan="14">приобретение ценных бумаг</td>
+</tr>
+<tr>
+<td colspan="2">Национальный Банк РК</td>
+<td colspan="2">банки второго уровня</td>
+<td colspan="3">ценные бумаги МФ РК и НБ РК</td>
+<td colspan="2">ценные бумаги местных исполнительных органов</td>
+<td colspan="2">негос. ценные бумаги иностранных эмитентов</td>
+<td>ценные бумаги иностранных государств</td>
+<td>ценные бумаги международных финансовых организаций</td>
+<td colspan="2">негос.ценные бумаги</td>
+<td colspan="2">прочие</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="3">3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+<td colspan="3">6</td>
+<td colspan="2">7</td>
+<td colspan="2">8</td>
+<td>9</td>
+<td>10</td>
+<td colspan="2">11</td>
+<td colspan="2">12</td>
+<td colspan="4">13</td>
+<td colspan="2">14</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">ИТОГО:</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+Мы несем ответственность в соответствии с законами Республики Казахстан за достоверность и полноту сведений, приведенных в данной отчетности.
+
+Ф.И.О. (при его наличии) Руководителя
+
+Ф.И.О. (при его наличии) Главного бухгалтера
+
+Ф.И.О. (при его наличии) должностного лица, заполнившего форму налоговой отчетности
+
+Настоящая форма заверена электронной цифровой подписью в соответствии с Соглашением об использовании и признании электронной цифровой подписи при обмене электронными документами от __________ № ___
+
+Входящий номер регистрации документа ДДММГГГГ
+
+Код органа государственных доходов
+
+> *Приложение 23*  
+> *к приказу исполняющего обязанности*  
+> *Министра финансов*  
+> *Республики Казахстан*  
+> *от 15 апреля 2015 года № 271*
+
+> *Сноска. Приказ дополнен Приложением 23 в соответствии с приказом Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Форма*
+
+Вид формы:
+
+О Первоначальная
+
+О Очередная
+
+О Дополнительная
+
+О По уведомлению
+
+О Ликвидационная
+
+Дата и номер уведомления А номер ОООООО В дата ОООООООООО
+
+БИН
+
+Наименование налогоплательщика
+
+Налоговый период: квартал года
+
+## Форма 3.3
+
+## Бухгалтерский баланс
+
+## (по корпоративному подоходному налогу)
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td colspan="2">Наименование статей</td>
+<td colspan="2">На начало отчетного периода</td>
+<td colspan="2">На конец отчетного периода</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td colspan="2">Активы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Основные средства (за вычетом амортизации и убытков от обесценения)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Нематериальные активы (за вычетом амортизации и убытков от обесценения)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Долгосрочные активы, предназначенные для продажи</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Инвестиционная недвижимость</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Инвестиции в капитал других юридических лиц</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Долгосрочная дебиторская задолженность (за вычетом резервов на возможные потери)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Ценные бумаги, удерживаемые до погашения (за вычетом резервов на возможные потери)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Ценные бумаги, имеющиеся в наличии для продажи (за вычетом резервов на возможные потери)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Отсроченное налоговое требование</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Авансы выданные</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Прочие активы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Запасы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Требования к бюджету по налогам и другим обязательным платежам в бюджет</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Расходы будущих периодов</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Прочая дебиторская задолженность (за вычетом резервов на возможные потери)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Комиссионные вознаграждения</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">в том числе:</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">от пенсионных активов</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">от инвестиционного дохода (убытка) по пенсионным активам</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Операция «Обратное РЕПО»</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Производные финансовые инструменты</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Торговые ценные бумаги (за вычетом резервов на возможные потери)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Вклады размещенные (за вычетом резервов на возможные потери)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Деньги и денежные эквиваленты</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">в том числе:</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">наличные деньги в кассе</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">деньги на счетах в банках</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Итого активы:</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Капитал</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Уставный капитал</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Премии (дополнительный оплаченный капитал)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Изъятый капитал</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Резервный капитал</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Прочие резервы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Нераспределенная прибыль (непокрытый убыток):</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">в том числе:</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">предыдущих лет</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">отчетного периода</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Доля меньшинства</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Итого капитал:</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Обязательства</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Долгосрочные полученные займы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">в том числе:</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">финансовая аренда</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Долгосрочная кредиторская задолженность</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Долгосрочные оценочные обязательства</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Отсроченное налоговое обязательство</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Доходы будущих периодов</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Авансы полученные</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Начисленные расходы по расчетам с акционерами по акциям</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Начисленные расходы по расчетам с персоналом</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Обязательство перед бюджетом по налогам и другим обязательным платежам</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Краткосрочная кредиторская задолженность</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Краткосрочные оценочные обязательства</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Краткосрочные полученные займы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Операция &quot;РЕПО&quot;</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Производные финансовые инструменты</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Прочие обязательства</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Итого обязательства:</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Итого капитал и обязательства</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+Мы несем ответственность в соответствии с законами Республики Казахстан за достоверность и полноту сведений, приведенных в данной отчетности.
+
+Ф.И.О. (при его наличии) Руководителя
+
+Ф.И.О. (при его наличии) Главного бухгалтера
+
+Ф.И.О. (при его наличии) должностного лица, заполнившего форму налоговой отчетности
+
+Настоящая форма заверена электронной цифровой подписью в соответствии с Соглашением об использовании и признании электронной цифровой подписи при обмене электронными документами от _________ № ___
+
+Входящий номер регистрации документа ДДММГГГГ
+
+Код органа государственных доходов
+
+> *Приложение 24*  
+> *к приказу исполняющего обязанности*  
+> *Министра финансов*  
+> *Республики Казахстан*  
+> *от 15 апреля 2015 года № 271*
+
+> *Сноска. Приказ дополнен Приложением 24 в соответствии с приказом Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Форма*
+
+Вид формы:
+
+О Первоначальная
+
+О Очередная
+
+О Дополнительная
+
+О По уведомлению
+
+О Ликвидационная
+
+Дата и номер уведомления А номер ОООООО В дата ОООООООООО
+
+БИН
+
+Наименование налогоплательщика
+
+Налоговый период: квартал года
+
+## Форма 3.4
+
+## Отчет о доходах и расходах
+
+## (по корпоративному подоходному налогу)
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td>Наименование статей</td>
+<td>За отчетный период</td>
+<td>
+За период с начала текущего года
+(с нарастающим итогом)
+</td>
+<td colspan="2">За аналогичный период предыдущего периода</td>
+<td colspan="3">
+За аналогичный период с начала предыдущего года
+(с нарастающим итогом)
+</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td colspan="3">5</td>
+</tr>
+<tr>
+<td>Комиссионные вознаграждения</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>в том числе:</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>от пенсионных активов</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>от инвестиционного дохода (убытка)по пенсионным активам</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Доходы в виде вознаграждения по текущим счетам и размещенным вкладам</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Доходы в виде вознаграждения (купона и (или) дисконта) по приобретенным ценным бумагам</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Доходы (убытки) от купли-продажи ценных бумаг (нетто)</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Доходы (убытки) от изменения стоимости торговых ценных бумаг (нетто)</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Доходы по операциям &quot;Обратное РЕПО&quot;</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Доходы (убытки) от переоценки иностранной валюты (нетто)</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Доходы от реализации нефинансовых активов и получения активов</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Прочие доходы</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Итого доходов</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Комиссионные расходы</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>в том числе:</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>вознаграждения организациям, осуществляющим инвестиционное управление пенсионными активами</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>вознаграждения банкам-кастодианам</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Расходы в виде вознаграждения (премии) по приобретенным ценным бумагам</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Расходы по операциям &quot;РЕПО&quot;</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Расходы в виде вознаграждения по полученным займам и финансовой аренде</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Общие и административные расходы</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>в том числе:</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>расходы на оплату труда и командировочные</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>амортизационные отчисления и ремонт</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>расходы по текущей аренде</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>расходы по выплате налогов и других обязательных платежей в бюджет (кроме корпоративного подоходного налога)</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>расходы от реализации нефинансовых активов и передачи активов</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Прочие расходы</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Итого расходов</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Прибыль (убыток) до отчисления в резервы (провизии)</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Резервы (восстановление резервов) на возможные потери по операциям</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Доход от участия в капитале других юридических лиц</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Прибыль (убыток) за период</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Прибыль (убыток) от прекращенной деятельности</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Прибыль (убыток) до налогообложения</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Корпоративный подоходный налог</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Чистая прибыль (убыток) после налогообложения</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Доля меньшинства</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Чистая прибыль (убыток) за период</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+</table>
+
+Мы несем ответственность в соответствии с законами Республики Казахстан за достоверность и полноту сведений, приведенных в данной отчетности.
+
+Ф.И.О. (при его наличии) Руководителя
+
+Ф.И.О. (при его наличии) Главного бухгалтера
+
+Ф.И.О. (при его наличии) должностного лица, заполнившего форму налоговой отчетности
+
+Настоящая форма заверена электронной цифровой подписью в соответствии с Соглашением об использовании и признании электронной цифровой подписи при обмене электронными документами от _________ № ___
+
+Входящий номер регистрации документа ДДММГГГГ
+
+Код органа государственных доходов
+
+> *Приложение 25*  
+> *к приказу исполняющего обязанности*  
+> *Министра финансов*  
+> *Республики Казахстан*  
+> *от 15 апреля 2015 года № 271*
+
+> *Сноска. Приказ дополнен Приложением 25 в соответствии с приказом Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Форма*
+
+Вид формы:
+
+О Первоначальная
+
+О Очередная
+
+О Дополнительная
+
+О По уведомлению
+
+О Ликвидационная
+
+Дата и номер уведомления А номер ОООООО В дата ОООООООООО
+
+БИН
+
+Наименование налогоплательщика
+
+Налоговый период: квартал год
+
+## Форма 4.1
+
+## Отчет о страховой деятельности
+
+## (по корпоративному подоходному налогу)
+
+> *тенге*
+
+<table>
+<tr>
+<td rowspan="3">№ п/п</td>
+<td rowspan="3">Классы страхования</td>
+<td rowspan="3">Принято на страхование (перестрахование) количество договоров</td>
+<td rowspan="3">Резидент (нерезидент)</td>
+<td rowspan="3">Принято на страхование и перестрахование страховых премий</td>
+<td rowspan="3">Передано на перестрахование страховых премий</td>
+<td rowspan="3">Страховая сумма</td>
+<td rowspan="3">Налогооблагаемая сумма премии</td>
+<td rowspan="3">Ставка налога</td>
+<td rowspan="3">Сумма налога к уплате</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Физические лица</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Мы несем ответственность в соответствии с законами Республики Казахстан за достоверность и полноту сведений, приведенных в данной отчетности.
+
+Ф.И.О. (при его наличии) Руководителя
+
+Ф.И.О. (при его наличии) Главного бухгалтера
+
+Ф.И.О. (при его наличии) должностного лица, заполнившего форму налоговой отчетности
+
+Настоящая форма заверена электронной цифровой подписью в соответствии с Соглашением об использовании и признании электронной цифровой подписи при обмене электронными документами от _________ № ___
+
+Входящий номер регистрации документа ДДММГГГГ
+
+Код органа государственных доходов
+
+> *Приложение 26*  
+> *к приказу исполняющего обязанности*  
+> *Министра финансов*  
+> *Республики Казахстан*  
+> *от 15 апреля 2015 года № 271*
+
+> *Сноска. Приказ дополнен Приложением 26 в соответствии с приказом Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Форма*
+
+Вид формы:
+
+О Первоначальная
+
+О Очередная
+
+О Дополнительная
+
+О По уведомлению
+
+О Ликвидационная
+
+Дата и номер уведомления А номер ОООООО В дата ООООООООО
+
+БИН
+
+Наименование налогоплательщика
+
+Налоговый период: квартал год
+
+## Форма 4.2
+
+## Бухгалтерский баланс
+
+## (по корпоративному подоходному налогу)
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td>
+№
+п/п
+</td>
+<td colspan="2">Наименование статьи</td>
+<td>на начало года</td>
+<td>на конец отчетного периода</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">2</td>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">Активы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="2">Деньги</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="2">Вклады размещенные (за вычетом резервов по сомнительным долгам)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="2">Ценные бумаги, предназначенные для торговли (за вычетом резервов по сомнительным долгам)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="2">Ценные бумаги, имеющиеся в наличии для продажи (за вычетом резервов по сомнительным долгам)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2">Операция &quot;обратное РЕПО&quot;</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="2">Суммы к получению от перестраховщиков (за вычетом резервов по сомнительным долгам)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="2">Страховые премии к получению от страхователей (перестрахователей) и посредников (за вычетом резервов по сомнительным долгам)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="2">Прочая дебиторская задолженность (за вычетом резервов по сомнительным долгам)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="2">Займы, предоставленные страхователям (за вычетом резервов по сомнительным долгам)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="2">Расходы будущих периодов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="2">Налоговое требование</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="2">Отсроченное налоговое требование</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="2">Прочие активы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="2">Ценные бумаги, удерживаемые до погашения (за вычетом резервов по сомнительным долгам)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="2">Инвестиции в капитал других юридических лиц</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="2">Основные средства (нетто)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="2">Нематериальные активы (нетто)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="2">Обязательства</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="2">Резерв незаработанной премии, общая сумма</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="2">Доля перестраховщика в резерве незаработанной премии</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="2">Чистая сумма резерва незаработанной премии</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="2">Резерв не произошедших убытков по договорам страхования (перестрахования) жизни, общая сумма</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="2">Доля перестраховщика в резерве не произошедших убытков по договорам страхования (перестрахования) жизни</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="2">Чистая сумма резерва не произошедших убытков по договорам страхования (перестрахования) жизни</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td colspan="2">Резерв не произошедших убытков по договорам аннуитета, общая сумма</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>27</td>
+<td colspan="2">Доля перестраховщика в резерве не произошедших убытков по договорам аннуитета</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>28</td>
+<td colspan="2">Чистая сумма резерва не произошедших убытков по договорам аннуитета</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>29</td>
+<td colspan="2">Резерв произошедших, но незаявленных убытков, общая сумма</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>30</td>
+<td colspan="2">Доля перестраховщика в резерве произошедших, но незаявленных убытков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>31</td>
+<td colspan="2">Чистая сумма резерва произошедших, но незаявленных убытков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>32</td>
+<td colspan="2">Резерв заявленных, но неурегулированных убытков, общая сумма</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>33</td>
+<td colspan="2">Доля перестраховщика в резерве заявленных, но неурегулированных убытков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>34</td>
+<td colspan="2">Чистая сумма резерва заявленных, но неурегулированных убытков</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>35</td>
+<td colspan="2">Дополнительные резервы, общая сумма</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>36</td>
+<td colspan="2">Доля перестраховщика в дополнительных резервах</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>37</td>
+<td colspan="2">Чистая сумма дополнительных резервов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>38</td>
+<td colspan="2">Займы полученные</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>39</td>
+<td colspan="2">Расчеты с перестраховщиками</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>40</td>
+<td colspan="2">Расчеты с посредниками по страховой (перестраховочной) деятельности</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>41</td>
+<td colspan="2">Расчеты с акционерами по дивидендам</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>42</td>
+<td colspan="2">Счета к уплате по договорам страхования (перестрахования)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>43</td>
+<td colspan="2">Прочая кредиторская задолженность</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>44</td>
+<td colspan="2">Операция &quot;РЕПО&quot;</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>45</td>
+<td colspan="2">Доходы будущих периодов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>46</td>
+<td colspan="2">Налоговое обязательство</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>47</td>
+<td colspan="2">Отсроченное налоговое обязательство</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>48</td>
+<td colspan="2">Прочие обязательства</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>49</td>
+<td colspan="2">Собственный капитал</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>50</td>
+<td colspan="2">Уставный капитал</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>51</td>
+<td colspan="2">Изъятый капитал</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>52</td>
+<td colspan="2">Резервный капитал</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>53</td>
+<td colspan="2">Резерв предупредительных мероприятий</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>54</td>
+<td colspan="2">Результаты переоценки</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>55</td>
+<td colspan="2">Нераспределенный доход (непокрытый убыток):</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>56</td>
+<td colspan="2">нераспределенный доход (непокрытый убыток) предыдущих лет</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>57</td>
+<td colspan="2">нераспределенный доход (непокрытый убыток) отчетного периода</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>58</td>
+<td colspan="2">Итого собственный капитал и обязательства</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Мы несем ответственность в соответствии с законами Республики Казахстан за достоверность и полноту сведений, приведенных в данной отчетности.
+
+Ф.И.О. (при его наличии) Руководителя
+
+Ф.И.О. (при его наличии) Главного бухгалтера
+
+Ф.И.О. (при его наличии) должностного лица, заполнившего форму налоговой отчетности
+
+Настоящая форма заверена электронной цифровой подписью в соответствии с Соглашением об использовании и признании электронной цифровой подписи при обмене электронными документами от ________ № ___
+
+Входящий номер регистрации документа ДДММГГГГ
+
+Код органа государственных доходов
+
+> *Приложение 27*  
+> *к приказу исполняющего обязанности*  
+> *Министра финансов*  
+> *Республики Казахстан*  
+> *от 15 апреля 2015 года № 271*
+
+> *Сноска. Приказ дополнен Приложением 27 в соответствии с приказом Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Форма*
+
+Вид формы:
+
+О Первоначальная
+
+О Очередная
+
+О Дополнительная
+
+О По уведомлению
+
+О Ликвидационная
+
+Дата и номер уведомления А номер ОООООО В дата ОООООООООО
+
+БИН
+
+Наименование налогоплательщика
+
+Налоговый период: квартал год
+
+## Форма 4.3
+
+## Отчет о доходах и расходах
+
+## (по корпоративному подоходному налогу)
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td colspan="2">
+№
+п/п
+</td>
+<td>Наименование статьи</td>
+<td>за отчетный период</td>
+<td colspan="2">за период с начала текущего года (с нарастающим итогом)</td>
+<td colspan="2">за аналогичный отчетный период предыдущего года</td>
+<td>за аналогичный период с начала предыдущего года (с нарастающим итогом)</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+<td>6</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td>Доходы</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">2</td>
+<td>Доходы от страховой деятельности</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">3</td>
+<td>Страховые премии, общая сумма</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">4</td>
+<td>Страховые премии, переданные на перестрахование</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">5</td>
+<td>Чистая сумма страховых премий</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">6</td>
+<td>Изменение резерва незаработанной премии, общая сумма</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">7</td>
+<td>Изменение доли перестраховщика в резерве незаработанной премии</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">8</td>
+<td>Чистая сумма резерва незаработанной премии</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">9</td>
+<td>Чистая сумма заработанных страховых премий</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">10</td>
+<td>Доходы в виде комиссионного вознаграждения по страховой деятельности</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">11</td>
+<td>Доходы от инвестиционной деятельности</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">12</td>
+<td>Доходы, связанные с получением вознаграждения</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">13</td>
+<td>в том числе:</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">14</td>
+<td>доходы в виде вознаграждения (купона/дисконта) по ценным бумагам</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">15</td>
+<td>доходы в виде вознаграждения по размещенным вкладам</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">16</td>
+<td>Доходы (убытки) по операциям с финансовыми активами (нетто):</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">17</td>
+<td>в том числе:</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">18</td>
+<td>доходы (убытки) от купли (продажи) ценных бумаг (нетто)</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">19</td>
+<td>доходы (убытки) от операции &quot;РЕПО&quot; (нетто)</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">20</td>
+<td>Доходы (убытки) от переоценки (нетто):</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">21</td>
+<td>в том числе:</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">22</td>
+<td>доходы (убытки) от изменения стоимости ценных бумаг, предназначенных для торговли и имеющихся в наличии для продажи (нетто)</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">23</td>
+<td>доходы (убытки) от переоценки иностранной валюты (нетто)</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">24</td>
+<td>Доходы от участия в капитале других юридических лиц</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">25</td>
+<td>Прочие доходы от инвестиционной деятельности</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">26</td>
+<td>Доходы от иной деятельности</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">27</td>
+<td>Доходы (убытки) от реализации активов и получения (передачи) активов</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">28</td>
+<td>Доход (убыток) от чрезвычайных обстоятельств</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">29</td>
+<td>Прочие доходы от иной деятельности</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">30</td>
+<td>Итого доходов</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">31</td>
+<td>Расходы</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">32</td>
+<td>Расходы по осуществлению страховых выплат, общая сумма</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">33</td>
+<td>Возмещение расходов по рискам, переданным на перестрахование</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">34</td>
+<td>Возмещение по регрессному требованию (нетто)</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">35</td>
+<td>Чистые расходы по осуществлению страховых выплат</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">36</td>
+<td>Расходы по урегулированию страховых убытков</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">37</td>
+<td>Изменение резерва не произошедших убытков по договорам страхования (перестрахования) жизни, общая сумма</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">38</td>
+<td>Изменение доли перестраховщика в резерве не произошедших убытков по договорам страхования (перестрахования) жизни</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">39</td>
+<td>Чистая сумма изменений резерва не произошедших убытков по договорам страхования (перестрахования) жизни</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">40</td>
+<td>Изменение резерва не произошедших убытков по договорам аннуитета, общая сумма</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">41</td>
+<td>Изменение доли перестраховщика в резерве не произошедших убытков по договорам аннуитета</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">42</td>
+<td>Чистая сумма изменений резерва не произошедших убытков по договорам аннуитета</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">43</td>
+<td>Изменение резерва произошедших, но незаявленных убытков, общая сумма</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">44</td>
+<td>Изменение доли перестраховщика в резерве произошедших, но незаявленных убытков</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">45</td>
+<td>Чистая сумма изменений резерва произошедших, но незаявленных убытков</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">46</td>
+<td>Изменение резерва заявленных, но неурегулированных убытков, общая сумма</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">47</td>
+<td>Изменение доли перестраховщика в резерве заявленных, но неурегулированных убытков</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">48</td>
+<td>Чистая сумма изменений резерва заявленных, но неурегулированных убытков</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">49</td>
+<td>Изменение дополнительных резервов, общая сумма</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">50</td>
+<td>Изменение доли перестраховщика в дополнительных резервах</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">51</td>
+<td>Чистая сумма изменений дополнительных резервов</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">52</td>
+<td>Расходы по выплате комиссионного вознаграждения по страховой деятельности</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">53</td>
+<td>Расходы, связанные с выплатой вознаграждения</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">54</td>
+<td>в том числе:</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">55</td>
+<td>расходы в виде премии по ценным бумагам</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">56</td>
+<td>Расходы на резервы по сомнительным долгам</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">57</td>
+<td>Восстановление резервов по сомнительным долгам</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">58</td>
+<td>Чистые расходы на резервы по сомнительным долгам</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">59</td>
+<td>Общие и административные расходы</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">60</td>
+<td>в том числе:</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">61</td>
+<td>расходы на оплату труда и командировочные</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">62</td>
+<td>текущие налоги и другие обязательные платежи в бюджет (кроме корпоративного подоходного налога)</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">63</td>
+<td>расходы по текущей аренде</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">64</td>
+<td>амортизационные отчисления и износ</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">65</td>
+<td>Прочие расходы</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">66</td>
+<td>Итого расходов</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">67</td>
+<td>Итого чистый доход (убыток) до уплаты корпоративного подоходного налога</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">68</td>
+<td>Корпоративный подоходный налог, в том числе:</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">69</td>
+<td>Корпоративный подоходный налог от основной деятельности</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">70</td>
+<td>Корпоративный подоходный налог от иной деятельности</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">71</td>
+<td>Чистый доход (убыток) после уплаты налогов</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+</table>
+
+Мы несем ответственность в соответствии с законами Республики Казахстан за достоверность и полноту сведений, приведенных в данной отчетности.
+
+Ф.И.О. (при его наличии) Руководителя
+
+Ф.И.О. (при его наличии) Главного бухгалтера
+
+Ф.И.О. (при его наличии) должностного лица, заполнившего форму налоговой отчетности
+
+Настоящая форма заверена электронной цифровой подписью в соответствии с Соглашением об использовании и признании электронной цифровой подписи при обмене электронными документами от _________ № ___
+
+Входящий номер регистрации документа ДДММГГГГ
+
+Код органа государственных доходов
+
+> *Приложение 28*  
+> *к приказу исполняющего обязанности*  
+> *Министра финансов*  
+> *Республики Казахстан*  
+> *от 15 апреля 2015 года № 271*
+
+> *Сноска. Приказ дополнен Приложением 28 в соответствии с приказом Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Форма*
+
+Вид формы:
+
+Первоначальная
+
+Очередная
+
+Дополнительная
+
+По уведомлению
+
+Ликвидационная
+
+Дата и номер уведомления А номер ОООООО В дата ОООООООООО
+
+Наименование налогоплательщика
+
+БИН
+
+Налоговый период квартал год
+
+## Форма 5
+
+## О планируемых показателях финансово-хозяйственной деятельности на предстоящий (текущий) календарный год
+
+<table>
+<tr>
+<td></td>
+<td>Наименование</td>
+<td colspan="3">единица измерения</td>
+<td colspan="2">Факт предыдущего года</td>
+<td colspan="4">Планируемые показатели финансово-хозяйственной деятельности на предстоящий календарный год*</td>
+<td colspan="2">Планируемые показатели финансово-хозяйственной деятельности на текущий календарный год**</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Объем произведенной продукции, в том числе основные виды:***</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Объем реализации (товаров, работ и услуг), всего в том числе:</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>на экспорт</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>на внутренний рынок</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>3</td>
+<td>цена реализации (тариф) на экспорт, в разрезе основных видов продукции (товаров, работ и услуг)</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>4</td>
+<td>цена реализации (тариф) на внутренний рынок, в разрезе основных видов продукции (товаров, работ и услуг)</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Доходы от реализации</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Прочие доходы</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Стоимость активов (по бух учету)</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>8</td>
+<td>Расходы всего, в т.ч.</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>8.1</td>
+<td>Расходы по реализации</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>8.2</td>
+<td>Себестоимость</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>8.2.1</td>
+<td>Амортизация</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>8.2.2</td>
+<td>ФОТ</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>8.3</td>
+<td>Прочие</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>9</td>
+<td>Расходы относимые на вычеты при расчете КПН</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>10</td>
+<td>Прогнозирумое начисление налогов</td>
+<td colspan="3"></td>
+<td colspan="2">х</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>10.1</td>
+<td>КПН</td>
+<td colspan="3"></td>
+<td colspan="2">х</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>10.2</td>
+<td>НДС</td>
+<td colspan="3"></td>
+<td colspan="2">х</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>10.3</td>
+<td>НДПИ</td>
+<td colspan="3"></td>
+<td colspan="2">х</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>10.4</td>
+<td>НСП</td>
+<td colspan="3"></td>
+<td colspan="2">х</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>10.5</td>
+<td>Рентный налог</td>
+<td colspan="3"></td>
+<td colspan="2">х</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>10.6</td>
+<td>Экспортно-таможенная пошлина</td>
+<td colspan="3"></td>
+<td colspan="2">х</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>11</td>
+<td>Прогнозируемая уплата налогов</td>
+<td colspan="3"></td>
+<td colspan="2">х</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>11.1</td>
+<td>КПН</td>
+<td colspan="3"></td>
+<td colspan="2">х</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>11.2</td>
+<td>НДС</td>
+<td colspan="3"></td>
+<td colspan="2">х</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>11.3</td>
+<td>НДПИ</td>
+<td colspan="3"></td>
+<td colspan="2">х</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>11.4</td>
+<td>НСП</td>
+<td colspan="3"></td>
+<td colspan="2">х</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>11.5</td>
+<td>Рентный налог</td>
+<td colspan="3"></td>
+<td colspan="2">х</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>11.6</td>
+<td>Экспортно-таможенная пошлина</td>
+<td colspan="3"></td>
+<td colspan="2">х</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>12</td>
+<td>Прогнозируемая сумма НДС к возврату всего</td>
+<td colspan="3"></td>
+<td colspan="2">х</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>12.1</td>
+<td>в т.ч. из бюджета</td>
+<td colspan="3"></td>
+<td colspan="2">х</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>12.2</td>
+<td>в т.ч. в счет уплаты налогов и других обязательных платежей в бюджет</td>
+<td colspan="3"></td>
+<td colspan="2">х</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4">* Данные предоставляются до 1 декабря текущего календарного года</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="15">**Данные предоставляются, не позднее 15 апреля, 15 июля и 15 октября такого текущего календарного года</td>
+</tr>
+<tr>
+<td colspan="4">*** в случае оказания услуг, данная строка не заполняется</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="15">Примечание: данные по планируемым показателям, являются предварительными плановыми показателями.</td>
+</tr>
+</table>
+
+> *Приложение 29*  
+> *к приказу исполняющего обязанности*  
+> *Министра финансов*  
+> *Республики Казахстан*  
+> *от 15 апреля 2015 года № 271*
+
+> *Сноска. Приказ дополнен Приложением 29 в соответствии с приказом Министра финансов РК от 26.12.2015 № 690 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+# Правила составления отчетности по мониторингу, предоставляемой крупными налогоплательщиками, подлежащими мониторингу, в виде налоговых регистров
+
+## (формы 1.1–1.5, 2.1-2.3, 3.1-3.4, 4.1-4.3, 5)
+
+### 1. Общие положения
+
+1. Настоящие Правила составления отчетности по мониторингу, предоставляемой крупными налогоплательщиками, подлежащими мониторингу, в виде налоговых регистров (формы 1.1–1.5, 2.1-2.3, 3.1-3.4, 4.1-4.3, 5) (далее – Правила) разработаны в соответствии с Кодексом Республики Казахстан от 10 декабря 2008 года «О налогах и других обязательных платежах в бюджет» (Налоговый кодекс) и предусматривают порядок составления и представления форм налоговых регистров, в виде которых предоставляется отчетность по мониторингу (далее – Налоговая отчетность по мониторингу).
+
+2. Крупные налогоплательщики, подлежащие мониторингу, за исключением страховых, перестраховочных организаций, юридических лиц осуществляющих банковскую деятельность, отдельные виды банковских операций на основании лицензии, деятельность по привлечению пенсионных взносов и пенсионным выплатам, а также деятельность по инвестиционному управлению пенсионными активами, составляют и представляют следующие налоговые регистры:
+
+   1) форма 1.1 «Бухгалтерский баланс» (по корпоративному подоходному налогу);
+
+   2) форма 1.2 «Отчет о результатах финансово-хозяйственной деятельности» (по налогу на сверхприбыль);
+
+   3) форма 1.3 «Отчет о движении произведенных и приобретенных товаров, выполненных работ, оказанных услуг» (по налогу на добавленную стоимость);
+
+   4) форма 1.4 «Себестоимость произведенной продукции, выполненных работ, оказанных услуг» (по налогу на добычу полезных ископаемых);
+
+   5) форма 1.5 «Расшифровка дебиторской и кредиторской задолженности» (по корпоративному подоходному налогу).
+
+3. Крупные налогоплательщики, подлежащие мониторингу, осуществляющие банковскую деятельность, а также отдельные виды банковских операций на основании лицензии уполномоченного государственного органа по регулированию и надзору финансового рынка и финансовых организаций и (или) Национального Банка Республики Казахстан, составляют и представляют следующие налоговые регистры:
+
+   1) форма 2.1 «Бухгалтерский баланс» (по корпоративному подоходному налогу);
+
+   2) форма 2.2 «Отчет о доходах и расходах» (по корпоративному подоходному налогу);
+
+   3) форма 2.3 «Расшифровка дебиторской и кредиторской задолженности» (по корпоративному подоходному налогу).
+
+4. Крупные налогоплательщики, подлежащие мониторингу, осуществляющие деятельность по привлечению обязательных пенсионных взносов, обязательных профессиональных пенсионных взносов и пенсионным выплатам, а также деятельность по инвестиционному управлению пенсионными активами, составляют и представляют следующие налоговые регистры:
+
+   1) форма 3.1 «Отчет по пенсионным активам» (по корпоративному подоходному налогу);
+
+   2) форма 3.2. «Отчет по управлению пенсионными активами» (по корпоративному подоходному налогу);
+
+   3) форма 3.3 «Бухгалтерский баланс» (по корпоративному подоходному налогу);
+
+   4) форма 3.4 «Отчет о доходах и расходах» являющаяся налоговым регистром по корпоративному подоходному налогу.
+
+5. Крупные налогоплательщики, подлежащие мониторингу, осуществляющие деятельность по страхованию, перестрахованию, составляют и представляют следующие налоговые регистры:
+
+   1) форма 4.1 «Отчет о страховой деятельности» (по корпоративному подоходному налогу);
+
+   2) форма 4.2 «Бухгалтерский баланс» (по корпоративному подоходному налогу);
+
+   3) форма 4.3 «Отчет о доходах и расходах» (по корпоративному подоходному налогу).
+
+6. Крупные налогоплательщики, подлежащие мониторингу, представляют и составляют налоговый регистр «О планируемых показателях финансово-хозяйственной деятельности на предстоящий (текущий) календарный год» по форме 5.
+
+7. Мониторинг налогоплательщиков осуществляется путем анализа их финансово-хозяйственной деятельности с целью определения реальной налогооблагаемой базы, контроля соблюдения налогового законодательства Республики Казахстан и применяемых рыночных цен в целях осуществления контроля при трансфертном ценообразовании.
+
+8. Мониторинг осуществляется путем сбора от налогоплательщиков информации по основным финансово-экономическим и налоговым показателям через электронную систему передачи данных в базу данных на центральном сервере уполномоченного органа, осуществляющего руководство в сфере обеспечения поступлений налогов и других обязательных платежей в бюджет (далее – уполномоченный орган).
+
+   Мониторинг осуществляется уполномоченным органом.
+
+   Налоговая отчетность по мониторингу представляется сводно.
+
+9. База данных по мониторингу формируется на основе налоговой отчетности, составляемой по формам согласно главам 2-6 настоящих Правил, содержащей информацию, указанную в пункте 8 настоящих Правил, предоставляемой налогоплательщиками в электронном формате (файлах) программного обеспечения в порядке, установленном настоящими Правилами.
+
+10. Программное обеспечение по заполнению форм налоговой отчетности по мониторингу выполняет функцию приведения всех отчетов (заполненных форм налоговой отчетности) налогоплательщиков в однотипные файлы, записанные в едином стандарте.
+
+11. Электронная система передачи данных представляет собой способы доставки заполненных форм налоговой отчетности в виде файлов установленного стандарта до базы данных.
+
+12. Формы налоговой отчетности по мониторингу и программное обеспечение по их заполнению размещаются на сайте уполномоченного органа.
+
+13. Заполненные формы налоговой отчетности по мониторингу представляются в уполномоченный орган налогоплательщиками через систему передачи данных.
+
+14. Вид формы налоговой отчетности по мониторингу.
+
+    Данные ячейки отмечаются в соответствии со статьей 63 Налогового кодекса. В зависимости от вида налоговой отчетности отмечается соответствующая ячейка.
+
+15. При заполнении каждой формы налоговой отчетности по мониторингу налогоплательщик указывает следующие данные:
+
+    1) БИН – бизнес-идентификационный номер;
+
+    2) наименование налогоплательщика в соответствии с учредительными документами;
+
+    3) налоговый период, за который представляется Налоговая отчетность по мониторингу;
+
+    4) код органа государственных доходов по месту регистрации налогоплательщика.
+
+    При отсутствии в отчетном периоде показателей финансово-хозяйственной деятельности Налоговая отчетность по мониторингу предоставляется без заполнения соответствующих граф.
+
+16. При необходимости уполномоченный орган запрашивает расшифровку по представленным формам налоговой отчетности по мониторингу.
+
+### 2. Порядок составления Налоговой отчетности по мониторингу крупными налогоплательщиками, подлежащими мониторингу, за исключением страховых, перестраховочных организаций, юридических лиц осуществляющих банковскую деятельность, отдельные виды банковских операций на основании лицензии, деятельность по привлечению пенсионных взносов и пенсионным выплатам, а также деятельность по инвестиционному управлению пенсионными активами
+
+### (формы 1.1 – 1.5)
+
+17. Форма 1.1 «Бухгалтерский баланс» заполняется с нарастающим итогом. Единицей измерения является тысяча тенге.
+
+18. Форма 1.2 «Отчет о результатах финансово-хозяйственной деятельности» заполняется с нарастающим итогом. Единицей измерения является тысяча тенге.
+
+19. В форме 1.3 «Отчет о движении произведенных и приобретенных товаров, выполненных работ, оказанных услуг» отражается количество произведенных и приобретенных за налоговый период товаров (работ, услуг). В случае если налогоплательщиком производится выпуск и приобретение различных видов товаров, отражается вся выпущенная продукция по видам. Единицей измерения является тысяча тенге.
+
+    В графе 1 «№ п/п» указывается номер по порядку. Дальнейшая информация не должна прерывать нумерацию по порядку.
+
+    В графе 2 «Код ТН ВЭД» указывается соответствующий код ТН ВЭД указанного товара (работ, услуг).
+
+    В графе 3 «Наименование товара (работ, услуг)» указывается наименование произведенных и приобретенных товаров (работ, услуг).
+
+    В графе 4 «Единица измерения» указываются единицы измерения произведенных и приобретенных товаров (работ, услуг), используемых на предприятии (штуки, килограммы, тонны, метры, кубометры, литры, кВт и другие единицы измерения, применяемые в Республике Казахстан), работ и услуг (тенге).
+
+    В графе 5 «Остаток на начало налогового периода, количество» указывается количество товара, находящегося в остатке на начало налогового периода.
+
+    В графе 6 «Остаток на начало налогового периода, сумма» указывается себестоимость (балансовая стоимость) товара, находящегося в остатке на начало налогового периода.
+
+    В графе 7 «Количество произведенного товара» указывается количество произведенного и приобретенного товара (работ, услуг) за налоговый период.
+
+    В графе 8 «Себестоимость произведенного товара» указывается себестоимость произведенного или стоимость приобретенного товара (работ, услуг) за налоговый период.
+
+    В графе 9 «Прочее поступление товара, количество» указывается количество поступившего товара, не связанного с производством и его приобретением за налоговый период.
+
+    В графе 10 «Прочее поступление товара, сумма» указывается себестоимость поступившего товара, не связанного с производством и его приобретением.
+
+    В графе 11 «Количество реализованного товара» указывается количество отгруженного товара (работ, услуг) за налоговый период.
+
+    В графе 12 «Себестоимость реализованного товара» указывается себестоимость отгруженного товара (работ, услуг) за налоговый период.
+
+    В графе 13 «Прочее выбытие товара, количество» указывается количество выбывшего товара (работ, услуг), не связанного с реализацией за налоговый период.
+
+    В графе 14 «Прочее выбытие товара, сумма» указывается себестоимость выбывшего товара (работ, услуг), не связанного с реализацией в налоговом периоде.
+
+    В графе 15 «Остаток на конец налогового периода, количество» указывается количество товара, находящегося в остатке на конец налогового периода.
+
+    В графе 16 «Остаток на конец налогового периода, сумма» указывается себестоимость товара, находящегося в остатке на конец налогового периода.
+
+20. В форме 1.4 «Себестоимость произведенной продукции, выполненных работ, оказанных услуг» отражаются расходы налогоплательщика, понесенные за отчетный период на производство товаров (работ, услуг). Т1, Т2, Т3, Т4, Т5 – означают наименования товаров (работ, услуг), занимающие наибольшие (основные виды) удельные значения, которые самостоятельно определяются налогоплательщиком.
+
+    Форма заполняется с нарастающим итогом, единицей измерения является тысяча тенге.
+
+    В строке 1 «Материалы» указывается стоимость:
+
+    1) приобретаемого сырья, основных материалов с учетом транспортно-заготовительных расходов, которые входят в состав производимой продукции, образуя ее основу или являются необходимым компонентом при изготовлении продукции (выполнении работ, оказании услуг);
+
+    2) покупных материалов, используемых в процессе производства продукции для обеспечения нормального технологического процесса и для упаковки продукции или расходуемых на другие производственные и хозяйственные нужды (проведение испытаний, контроля, содержание, ремонт и эксплуатация оборудования и других средств труда, не относимых к основным фондам);
+
+    3) природного сырья (попенная плата, плата за воду, забираемую субъектами из водохозяйственных систем, и другие платежи, возмещающие затраты специализированных организаций на поиск, разведку, охрану, организацию использования и возобновление ресурсов природного сырья), на рекультивацию земель, оплату работ по рекультивации земель, осуществляемых специализированными организациями;
+
+    4) покупных изделий, полуфабрикатов, подвергающихся дополнительной обработке на данном субъекте, монтажу;
+
+    5) работ и услуг производственного характера, выполняемых сторонними организациями выполнение отдельных операций по изготовлению продукции, обработке сырья и материалов и контролю за соблюдением установленных технологических процессов;
+
+    6) услуг стороннего транспорта по доставке запасов, материалов. Расходы, связанные с доставкой (включая погрузочно-разгрузочные) сырья, материалов, покупных изделий и полуфабрикатов (вспомогательных материалов и топлива) транспортом самого субъекта и его персоналом, включаются в соответствующие элементы затрат на производство;
+
+    7) вспомогательных материалов, используемых в процессе изготовления продукции для обеспечения нормального технологического процесса (вспомогательные материалы на технологические цели). Если их отнесение непосредственно на себестоимость отдельных видов продукции затруднено, стоимость включается в себестоимость в следующем порядке:
+
+       определяются нормы расхода вспомогательных материалов для технологических целей на каждый вид продукции и в соответствии с этими нормами расхода и плановой себестоимостью материалов устанавливается сметная ставка на единицу продукции. Указанные ставки пересматриваются по мере изменения норм расхода материалов или цен. Фактические затраты на вспомогательные материалы включаются в себестоимость отдельных видов продукции, и незавершенного производства пропорционально сметным ставкам;
+
+    8) топлива на технологические цели, как полученного со стороны, так и выработанного самим субъектом: для плавильных агрегатов, домен, мартеновских печей, для нагрева металла в прокатных, кузнечно-штамповочных, прессовых и других цехах, для проведения установленных технологическим процессом испытаний изделий;
+
+    9) всех видов покупной энергии, расходуемой на технологические, энергетические, двигательные и другие промышленно-производственные нужды субъекта. Затраты на производство электрической и других видов энергии, вырабатываемых самим субъектом, а также на трансформацию и передачу покупной энергии до мест ее потребления включаются в соответствующие элементы затрат.
+
+    В строке 2 «Стоимость возвратных отходов» из затрат на материалы, включаемых в себестоимость продукции, исключается стоимость возвратных отходов. Под возвратными отходами производства понимаются остатки сырья, материалов или полуфабрикатов, образовавшиеся в процессе превращения исходного материала в готовую продукцию, утратившие полностью или частично потребительные качества исходного материала (химические или физические свойства, в том числе полномерность, конфигурацию и прочие) или вовсе не используемые по прямому назначению.
+
+    Не относятся к отходам остатки материалов, которые в соответствии с установленной технологией передаются в другие цеха субъекта в качестве полномерного материала для изготовления других деталей или изделий основного производства. Не относятся к отходам также попутная (сопряженная) продукция (шкуры, кишечное сырье, жир-сырец, субпродукты) в мясожировом производстве, глицерин и другие виды попутной продукции, перечень которой устанавливается учетной политикой субъекта.
+
+    Отходы подразделяются на возвратные (используемые и не используемые в производстве) и безвозвратные. Возвратными, используемыми в производстве, считаются отходы, которые потребляются самим субъектом для изготовления основного или вспомогательного производства. Возвратными, не используемыми в производстве, считаются отходы, которые потребляются самим субъектом лишь в качестве материалов, топлива, на другие хозяйственные нужды, или реализованы на сторону. Безвозвратными считаются отходы, которые не используются при данном состоянии техники, и технологические потери.
+
+    Возвратные отходы оцениваются в следующем порядке:
+
+    1) по пониженной цене исходного сырья и материалов (по цене возможного использования), если отходы используются для основного производства, но с повышенными затратами (пониженным выходом готовой продукции) или используются для нужд вспомогательного производства или изготовления предметов широкого потребления (продукции культурно-бытового назначения и хозяйственного обихода);
+
+    2) по установленным ценам на отходы за вычетом расходов на их сбор и обработку, когда отходы, обрезки, стружка и другое идут в переработку внутри субъекта или сдаются на сторону;
+
+    3) по полной цене исходного сырья или материалов, если отходы реализуются на сторону для использования в качестве кондиционного сырья или полномерного (полноценного) материала.
+
+    Безвозвратные отходы оценке не подлежат.
+
+    В строке 3 «Оплата труда основного производственного персонала» отражаются затраты на оплату труда основного производственного персонала субъекта, включая премии рабочим, служащим за производственные результаты, стимулирующие и компенсирующие выплаты, в том числе компенсации по оплате труда в связи с повышением цен и индексацией доходов, компенсации, выплачиваемые в установленных законодательством размерах женщинам, находящимся в частично оплачиваемом отпуске по уходу за ребенком, а также затраты на оплату труда не состоящих в штате организации занятых в основной деятельности работников.
+
+    В строке 4 «Отчисления на страхование» отражаются отчисления на медицинское страхование от затрат на оплату труда работников, включаемых в себестоимость продукции (кроме тех видов оплаты, на которые страховые взносы не начисляются).
+
+    В строке 5 «Накладные расходы» отражаются расходы, связанные с управлением и обслуживанием производства, которые имеют ряд общих характеристик и включают в себя:
+
+    1) затраты по обеспечению производства сырьем, материалами, топливом, энергией, инструментами, другими средствами и предметами труда;
+
+    2) затраты по поддержанию основных производственных фондов в рабочем состоянии (расходы на технический осмотр и уход, на проведение среднего, текущего и капитального ремонтов);
+
+    3) оплата труда вспомогательного производственного персонала, премии рабочим за производственные результаты, стимулирующие и компенсирующие выплаты;
+
+    4) отчисления по установленным нормам на социальное, медицинское страхование в Государственный фонд содействия занятости от затрат на оплату труда работников, занятых в производстве;
+
+    5) затраты по обеспечению выполнения санитарно-гигиенических норм, включая затраты на содержание помещений и инвентаря, предоставляемых субъектами медицинским учреждениям для организации медпунктов непосредственно на территории субъекта, на поддержание чистоты и порядка на производстве, обеспечение противопожарной и сторожевой охраны и других специальных требований, предусмотренных правилами технической эксплуатации субъекта, надзора и контроля за их деятельностью;
+
+    6) затраты по обеспечению нормальных условий труда и техники безопасности, связанные с особенностями производства и предусмотренные трудовым законодательством Республики Казахстан;
+
+    7) плата за аренду производственных фондов;
+
+    8) командировочные расходы, связанные с производственной деятельностью;
+
+    9) потери от простоев;
+
+    10) расходы на подготовку и освоение производства;
+
+    11) расходы на содержание и эксплуатацию оборудования;
+
+    12) затраты на гарантированное обслуживание и ремонт товаров;
+
+    13) другие производительные расходы и потери.
+
+    В строке «Всего» указывается суммарное значение по строкам и столбцам.
+
+21. В форме 1.5. «Расшифровка дебиторской и кредиторской задолженности» указываются суммы дебиторской (кредиторской) задолженности, образовавшейся свыше одного года с момента последней операции по данной задолженности.
+
+    Задолженность по физическим лицам отражается одной строкой и заполняется только графа 7 «Сумма».
+
+    При этом в графе 2 «Наименование дебитора (кредитора)» указывается «физические лица».
+
+    Единицей измерения является тысяча тенге.
+
+    В графе 1 «№» указывается номер по порядку. Последующая информация не должна прерывать нумерации.
+
+    В графе 2 «Наименование дебитора (кредитора)» указывается наименование юридического лица.
+
+    В графе 3 «Резидент (нерезидент)», указывается код, обозначающий резидентство поставщика:
+
+    0 – резидент Республики Казахстан;
+
+    1 – нерезидент Республики Казахстан.
+
+    В графе 4 «ИИН (БИН)» указывается идентификационный номер дебитора (кредитора) при его наличии.
+
+    В графе 5 «Код страны резиденства» при заполнении кода страны резидентства налогоплательщика-нерезидента необходимо использовать цифровую кодировку стран.
+
+    В графе 6 «Сумма» указывается сумма образованной дебиторской (кредиторской) задолженности.
+
+    В графе 7 «Срок образования задолженности» указывается период образования дебиторской (кредиторской) задолженности.
+
+    В графе 8 «Причины образования» указываются причины образования дебиторской (кредиторской) задолженности.
+
+### 3. Порядок составления Налоговой отчетности по мониторингу крупными налогоплательщиками, подлежащими мониторингу, осуществляющими банковскую деятельность, а также отдельные виды банковских операций на основании лицензии уполномоченного государственного органа по регулированию и надзору финансового рынка и финансовых организаций и (или) Национального Банка Республики Казахстан
+
+### (формы 2.1 - 2.3)
+
+22. Формы 2.1 «Бухгалтерский баланс» и 2.2 «Отчет о доходах и расходах» являются финансовым отчетом налогоплательщика, подготовленным за отчетный налоговый период в соответствии с законодательством Республики Казахстан по бухгалтерскому учету и финансовой отчетности. Формы заполняются с нарастающим итогом, единицей измерения является тысяча тенге.
+
+23. В форме 2.3 «Расшифровка дебиторской и кредиторской задолженности» указываются суммы дебиторской (кредиторской) задолженности, образовавшейся свыше одного года с момента последней операции по данной задолженности.
+
+    Задолженность по физическим лицам отражается одной строкой и заполняется только графа 7 «Сумма».
+
+    При этом в графе 2 «Наименование дебитора (кредитора)» указывается «физические лица».
+
+    Единицей измерения является тысяча тенге.
+
+    В графе 1 «№» указывается номер по порядку. Последующая информация не должна прерывать нумерации.
+
+    В графе 2 «Наименование дебитора (кредитора)» указывается наименование юридического лица.
+
+    В графе 3 «Резидент (нерезидент)», указывается код, обозначающий резидентство поставщика:
+
+    0 – резидент Республики Казахстан;
+
+    1– нерезидент Республики Казахстан.
+
+    В графе 4 «ИИН (БИН)» указывается идентификационный номер дебитора (кредитора).
+
+    В графе 5 «Код страны резиденства» при заполнении кода страны резидентства налогоплательщика-нерезидента необходимо использовать цифровую кодировку стран.
+
+    В графе 6 «Сумма» указывается сумма образованной дебиторской (кредиторской) задолженности.
+
+    В графе 7 «Срок образования задолженности» указывается период образования дебиторской (кредиторской) задолженности.
+
+    В графе 8 «Причины образования» указываются причины образования дебиторской (кредиторской) задолженности.
+
+### 4. Порядок составления Налоговой отчетности по мониторингу крупными налогоплательщиками, подлежащими мониторингу, осуществляющими деятельность по привлечению обязательных пенсионных взносов, обязательных профессиональных пенсионных взносов и пенсионным выплатам, а также деятельность по инвестиционному управлению пенсионными активами
+
+### (формы 3.1-3.4)
+
+24. Формы 3.1 «Отчет по пенсионным активам», 3.3 «Бухгалтерский баланс», 3.4 «Отчет о доходах и расходах» являются финансовой отчетностью налогоплательщика, подготовленной за отчетный налоговый период, и заполняются в соответствии с законодательством Республики Казахстан по бухгалтерскому учету и финансовой отчетности. Формы заполняются с нарастающим итогом. Единицей измерения является тысяча тенге.
+
+25. Форма 3.2. «Отчет по управлению пенсионными активами».
+
+    В графе 1 «№» указывается номер по порядку. Последующая информация не должна прерывать нумерацию по порядку.
+
+    В графе 2 «Сумма пенсионных активов на конец налогового периода» указывается сумма пенсионных активов, принятых в управление юридическим лицом, осуществляющим инвестиционное управление пенсионными активами, по состоянию на конец налогового периода.
+
+    В графе 3 «Инвестировано, всего» указывается сумма пенсионных активов каждого единого накопительного пенсионного фонда, размещенных в финансовые инструменты на конец налогового периода. Данная графа отражает сумму граф 4–12 настоящего отчета.
+
+    В графе 4 «Национальный Банк РК» указывается сумма пенсионных активов, размещенных во вклады Национального Банка Республики Казахстан.
+
+    В графе 5 «Банки второго уровня» указывается сумма пенсионных активов, размещенных во вклады банков второго уровня.
+
+    В графе 6 «Ценные бумаги МФ РК и НБ РК» указывается сумма пенсионных активов, размещенных в государственные ценные бумаги Республики Казахстан, выпущенных Министерством финансов Республики Казахстан и Национальным Банком Республики Казахстан, за исключением ценных бумаг, выпущенных местными исполнительными органами Республики Казахстан.
+
+    В графе 7 «Ценные бумаги местных исполнительных органов» указывается сумма пенсионных активов, размещенных в государственные ценные бумаги, выпущенные местными исполнительными органами.
+
+    В графе 8 «Негосударственные ценные бумаги иностранных эмитентов» указывается сумма пенсионных активов, размещенных в негосударственные ценные бумаги иностранных эмитентов.
+
+    В графе 9 «Ценные бумаги иностранных государств» указывается сумма пенсионных активов, размещенных в ценные бумаги иностранных государств.
+
+    В графе 10 «Ценные бумаги международных финансовых организаций» указывается сумма пенсионных активов, размещенных в ценные бумаги международных финансовых организаций.
+
+    В графе 11 «Негосударственные ценные бумаги» указывается сумма пенсионных активов, размещенных: в ипотечные облигации организаций Республики Казахстан, включенных в официальный список организатора торгов; во включенные в официальный список организатора торгов по категории «А» иные, помимо ипотечных облигаций, негосударственные эмиссионные ценные бумаги организаций Республики Казахстан, выпущенные в соответствии с законодательством Республики Казахстан и других государств; в облигации АО «Банк Развития Казахстана» и в прочие негосударственные ценные бумаги.
+
+    В графе 12 «Прочие» указывается сумма пенсионных активов, размещенных в прочие финансовые инструменты, не указанные в графах 5–12 настоящего отчета.
+
+    В графе 13 «Начислено инвестиционного дохода» указывается сумма инвестиционного дохода, начисленного единому накопительному пенсионному фонду в отчетном периоде.
+
+    В графе 14 «Комиссионное вознаграждение» указывается сумма комиссионного вознаграждения юридического лица, осуществляющего инвестиционное управление пенсионными активами, полученного в отчетном налоговом периоде от единого накопительного пенсионного фонда.
+
+    Форма заполняется с нарастающим итогом, единицей измерения является тысяча тенге.
+
+### 5. Порядок составления Налоговой отчетности по мониторингу крупными налогоплательщики, подлежащими мониторингу, осуществляющими деятельность по страхованию, перестрахованию
+
+### (формы 4.1-4.3)
+
+26. В форме 4.1. «Отчет о страховой деятельности» отражаются операции по страховым услугам.
+
+    Услуги по страхованию (перестрахованию), оказываемые физическим лицам отражаются одной строкой с указанием общей суммы. При этом не заполняются графы классы страхования, резидент (нерезидент), ставка налога.
+
+    В графе 1 «№» указывается номер по порядку. Последующая информация не должна прерывать нумерацию по порядку.
+
+    В графе 2 «Классы страхования» указывается полное наименование класса оказываемой страховой услуги, в соответствии с законодательным актом Республики Казахстан, регулирующим страховую деятельность.
+
+    В графе 3 «Принято на страхование (перестрахование) количество договоров» указывается количество принятых договоров на страхование (перестрахование).
+
+    В графе 4 «Резидент (нерезидент)», указывается код, обозначающий резидентство покупателя:
+
+    0 – резидент Республики Казахстан;
+
+    1 – нерезидент Республики Казахстан.
+
+    В графе 5 «Принято на страхование и перестрахование страховых премий» указывается сумма страховых премий по данному договору.
+
+    В графе 6 «Передано на перестрахование страховых премий» указывается сумма страховых премий, переданных на перестрахование по соответствующему договору в отчетном периоде.
+
+    В случае если в отчетном периоде производится перестрахование договоров страхования отраженных в ранее предоставленных отчетах, то графа 5 «Принято на страхование и перестрахование страховых премий» не заполняется, а в графе 10 «Сумма налога к уплате» указывается сумма корпоративного подоходного налога, подлежащая к уменьшению (с отрицательным знаком).
+
+    В графе 7 «Страховая сумма» указывается сумма денег, на которую застрахован объект страхования и которая представляет собой предельный объем ответственности страховщика при наступлении страхового случая.
+
+    В графе 8 «Налогооблагаемая сумма премии» указывается налогооблагаемая сумма премии.
+
+    В графе 9 «Ставка налога» указывается применяемая ставка налога.
+
+    В графе 10 «Сумма налога к уплате» указывается сумма налога к уплате.
+
+27. Формы 4.2 «Бухгалтерский баланс», 4.3 «Отчет о доходах и расходах» являются финансовой отчетностью налогоплательщика, подготовленной за отчетный налоговый период в соответствии с законодательством Республики Казахстан по бухгалтерскому учету и финансовой отчетности. Формы заполняются с нарастающим итогом. Единицей измерения является тысяча тенге.
+
+### 6. Порядок составления крупными налогоплательщиками, подлежащими мониторингу, налогового регистра о планируемых показателях финансово-хозяйственной деятельности на предстоящий (текущий) календарный год
+
+### (форма 5)
+
+28. Форма налогового регистра о планируемых показателях финансово-хозяйственной деятельности крупного налогоплательщика на текущий и предстоящий календарные годы (форма 5) содержит годовые данные. Отчетным периодом, является предстоящий (текущий) календарный год.
+
+    Налоговый регистр о планируемых показателях финансово-хозяйственной деятельности на предстоящий календарный год предоставляется до 1 декабря текущего календарного года.
+
+    Налоговый регистр о планируемых показателях финансово-хозяйственной деятельности на текущий календарный год, с учетом изменений таких планируемых показателей, представляется не позднее 15 апреля, 15 июля и 15 октября такого текущего календарного года.
+
+    Крупный налогоплательщик, вновь включенный в перечень крупных налогоплательщиков, подлежащих мониторингу, первоначальную отчетность по мониторингу о планируемых показателях финансово-хозяйственной деятельности на текущий календарный год представляет не позднее 30 календарных дней с даты введения в действие такого перечня. Последующая отчетность по мониторингу о планируемых показателях финансово-хозяйственной деятельности на текущий и предстоящий календарные годы представляется в соответствии с положениями статьи 624 Налогового кодекса.
+
+    В форме налогового регистра о планируемых показателях финансово-хозяйственной деятельности на предстоящий (текущий) календарный год указываются:
+
+    1) в графе «единица измерения» – единица измерения, которая применима к соответствующим строкам;
+
+    2) в графе «Факт предыдущего года» – фактические данные предыдущего года;
+
+    3) в графе «Планируемые показатели финансово-хозяйственной деятельности на предстоящий календарный год» - плановые показатели. Данная графа заполняется при предоставлении до 1 декабря текущего календарного года;
+
+    4) в графе «Планируемые показатели финансово-хозяйственной деятельности на текущий календарный год» – плановые показатели. Данная графа заполняется при предоставлении не позднее 15 апреля, 15 июля и 15 октября такого текущего календарного года;
+
+    5) в строке 1 «Объем произведенной продукции, в том числе основные виды» – общий объем произведенной продукции. В случае если производится несколько видов продукции, в подстроках строки 1 необходимо указать объем и наименование основных видов продукции. В случае если налогоплательщик оказывает услуги, данная строка не подлежит заполнению;
+
+    6) в строке 2 «Объем реализации (товаров, работ и услуг), всего в том числе: » – общий объем реализации (товаров, сырья, материалов, работ и услуг) за налоговый период;
+
+    7) в подстроке 2.1. «на экспорт» – объем реализации (товаров, работ и услуг) направленный на экспорт;
+
+    8) в подстроке 2.2. «на внутренний рынок» – объем реализации (товаров, работ и услуг) направленный на внутренний рынок;
+
+    9) в строке 3 «Цена реализации (тариф) на экспорт, в разрезе основных видов продукции (товаров, работ и услуг)» – планируемая цена реализации (тариф) на экспорт. В случае наличия реализации нескольких видов товаров, работ и услуг, то в подстроках строки 3 указывается, цена реализации (тариф) на экспорт, в разрезе основных видов продукции (товаров, работ и услуг);
+
+    10) в строке 4 «Цена реализации (тариф) на внутренний рынок, в разрезе основных видов продукции (товаров, работ и услуг)» – планируемая цена реализации (тариф) на внутренний рынок. В случае наличия реализации нескольких видов товаров, работ и услуг, в подстроках строки 4 указывается цена реализации (тариф) на внутренний рынок (в разрезе основных видов продукции товаров, работ и услуг);
+
+    11) в строке 5 «Доходы от реализации» – доходы от реализации;
+
+    12) в строке 6 «Прочие доходы» – прочие доходы, которые являются объектом обложения корпоративного подоходного налога;
+
+    13) в строке 7 «Стоимость активов» – балансовая стоимость активов (основные средства, нематериальные и биологические активы, инвестиции в недвижимость) (по состоянию на дату предоставления отчетности);
+
+    14) в строке 8 «Расходы всего в т. ч. » – расходы;
+
+    15) в строке 8.1. «Расходы по реализации» – расходы по реализации;
+
+    16) в строке 8.2. «Себестоимость» – планируемая себестоимость продукции (товаров, сырья, материалов, работ и услуг);
+
+    17) в строке 8.2.1. «Амортизация» – планируемая амортизация;
+
+    18) в строке 8.2.2. «ФОТ» – планируемый фонд оплаты труда;
+
+    19) в строке 8.3. «Прочие» – прочие расходы, не отраженные в строках 8.1 и 8.2.данной таблицы;
+
+    20) в строке 9 «Расходы, относимые на вычеты при расчете КПН» – расходы, относимые на вычеты при расчете корпоративного подоходного налога за отчетный налоговый период;
+
+    21) в строке 10 «Прогнозируемое начисление налогов» – сумма налогов, которую прогнозируется исчислить за отчетный налоговый период. При заполнении графы «Факт предыдущего года», данная строка не подлежит заполнению;
+
+    22) в строке 10.1 «КПН» – сумма корпоративного подоходного налога, которую прогнозируется исчислить за отчетный налоговый период. При заполнении графы «Факт предыдущего года», данная строка не подлежит заполнению;
+
+    23) в строке 10.2 «НДС» – сумма налога на добавленную стоимость, которую прогнозируется исчислить за отчетный налоговый период. При заполнении графы «Факт предыдущего года», данная строка не подлежит заполнению;
+
+    24) в строке 10.3 «НДПИ» – сумма НДПИ, которую прогнозируется исчислить за отчетный налоговый период. При заполнении графы «Факт предыдущего года», данная строка не подлежит заполнению;
+
+    25) в строке 10.4 «НСП» – сумма налога на сверхприбыль, которую прогнозируется исчислить за отчетный налоговый период. При заполнении графы «Факт предыдущего года», данная строка не подлежит заполнению;
+
+    26) в строке 10.5 «Рентный налог» – сумма рентного налога, которую прогнозируется исчислить за отчетный налоговый период. При заполнении графы «Факт предыдущего года», данная строка не подлежит заполнению;
+
+    27) в строке 10.6 «Экспортная таможенная пошлина» – сумма экспортной таможенной пошлины, которую прогнозируется исчислить за отчетный налоговый период. При заполнении графы «Факт предыдущего года», данная строка не подлежит заполнению;
+
+    28) в строке 11 «Прогнозируемая уплата налогов» – общая сумма налогов и других обязательных платежей, подлежащих уплате за отчетный налоговый период. При заполнении графы «Факт предыдущего года», данная строка не подлежит заполнению;
+
+    29) в строке 11.1 «КПН» – сумма корпоративного подоходного налога, которую прогнозируется оплатить за отчетный налоговый период. При заполнении графы «Факт предыдущего года», данная строка не подлежит заполнению;
+
+    30) в строке 11.2 «НДС» – сумма налога на добавленную стоимость, которую прогнозируется оплатить за отчетный налоговый период. При заполнении графы «Факт предыдущего года», данная строка не подлежит заполнению;
+
+    31) в строке 11.3 «НДПИ» – сумма НДПИ, которую прогнозируется оплатить за отчетный налоговый период. При заполнении графы «Факт предыдущего года», данная строка не подлежит заполнению;
+
+    32) в строке 11.4 «НСП» – уплата налога на сверхприбыль, которую прогнозируется оплатить за отчетный налоговый период. При заполнении графы «Факт предыдущего года», данная строка не подлежит заполнению;
+
+    33) в строке 11.5 «Рентный налог» – сумма рентного налога, которую прогнозируется оплатить за отчетный налоговый период. При заполнении графы «Факт предыдущего года», данная строка не подлежит заполнению;
+
+    34) в строке 11.6 «Экспортная таможенная пошлина» – сумма экспортной таможенной пошлины, которую прогнозируется оплатить за отчетный налоговый период. При заполнении графы «Факт предыдущего года», данная строка не подлежит заполнению;
+
+    35) в строке 12 «Прогнозируемая сумма НДС к возврату» – общая сумма налога на добавленную стоимость, подлежащую возврату в отчетном налоговом периоде. При заполнении графы «Факт предыдущего года», данная строка не подлежит заполнению;
+
+    36) в строке 12.1 «Прогнозируемая сумма НДС к возврату из бюджета» – сумма налога на добавленную стоимость, подлежащую возврату из бюджета в отчетном налоговом периоде. При заполнении графы «Факт предыдущего года», данная строка не подлежит заполнению;
+
+    37) в строке 12.2 «Прогнозируемая сумма НДС к возврату в счет уплаты налогов и других обязательных платежей в бюджет» – сумма налога на добавленную стоимость, подлежащую возврату в счет уплаты налогов и других обязательных платежей в бюджет в отчетном налоговом периоде. При заполнении графы «Факт предыдущего года», данная строка не подлежит заполнению.
