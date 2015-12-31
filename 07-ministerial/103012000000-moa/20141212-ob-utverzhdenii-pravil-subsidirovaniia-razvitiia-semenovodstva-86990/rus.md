@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/86990/rus/26.10.2015
+source: https://zan.gov.kz/client/#!/doc/86990/rus/31.12.2015
 ---
 
 # Об утверждении Правил субсидирования развития семеноводства
