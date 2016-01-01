@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85801/rus/08.12.2015
+source: https://zan.gov.kz/client/#!/doc/85801/rus/01.01.2016
 ---
 
 ## Расчет выплаты вознаграждений присяжных заседателям
