@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/86276/kaz/21.08.2015
+source: https://zan.gov.kz/client/#!/doc/86276/kaz/01.01.2016
 ---
 
 ## 2. Қызметкерлер саны және жалақы қоры туралы деректерді көрсетіңіз
