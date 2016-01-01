@@ -1,5 +1,5 @@
 ---
-version_id: AI86276_3
+version_id: AI86276_5
 act_code: '86276'
 language: rus
 title: Об утверждении статистических форм общегосударственных статистических наблюдений по статистике труда и занятости населения и инструкций по их заполнению
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103033003000'
 approval_date: 2014-12-08
-version_date: 2015-08-21
+version_date: 2016-01-01
 registry_number: '86276'
 caused_by:
   code: '94122'
   title: О внесении изменений в приказ Председателя Комитета по статистике Министерства национальной экономики Республики Казахстан от 8 декабря 2014 года № 71 «Об утверждении статистических форм общегосударственных статистических наблюдений по статистике труда и занятости населения и инструкций по их заполнению»
   link: https://zan.gov.kz/client/#!/doc/94122/rus
-source: https://zan.gov.kz/client/#!/doc/86276/rus/21.08.2015
+source: https://zan.gov.kz/client/#!/doc/86276/rus/01.01.2016
 ---
 
 # Об утверждении статистических форм общегосударственных статистических наблюдений по статистике труда и занятости населения и инструкций по их заполнению
@@ -54,21 +54,15 @@ source: https://zan.gov.kz/client/#!/doc/86276/rus/21.08.2015
 
    12) инструкцию по заполнению статистической формы общегосударственного статистического наблюдения «Отчет по труду» (код 1191104, индекс 1-Т, периодичность годовая), согласно приложению 12 к настоящему приказу;
 
-       Примечание РЦПИ!
+   13) статистическую форму общегосударственного статистического наблюдения «Анкета выборочного обследования занятости населения» (код 1232102, индекс Т-001, периодичность месячная) согласно приложению 13 к настоящему приказу;
 
-       Подпункт 13) предусмотрен в редакции приказа Председателя Комитета по статистике Министра национальной эконоики РК от 21.08.2015 № 127 (вводится в действие с 01.01.2016).
-
-   13) статистическую форму общегосударственного статистического наблюдения «Анкета выборочного обследования занятости населения» (код 1232102, индекс Т-001, периодичность месячная один раз в квартал) согласно приложению 13 к настоящему приказу;
-
-       Примечание РЦПИ!
-
-       Подпункт 14) предусмотрен в редакции приказа Председателя Комитета по статистике Министра национальной эконоики РК от 21.08.2015 № 127 (вводится в действие с 01.01.2016).
-
-   14) инструкцию по заполнению статистической формы общегосударственного статистического наблюдения «Анкета выборочного обследования занятости населения» (код 1232102, индекс Т-001, периодичность месячная один раз в квартал) согласно приложению 14 к настоящему приказу;
+   14) инструкцию по заполнению статистической формы общегосударственного статистического наблюдения «Анкета выборочного обследования занятости населения» (код 1232102, индекс Т-001, периодичность месячная) согласно приложению 14 к настоящему приказу;
 
    15) статистическую форму общегосударственного статистического наблюдения «Достойный труд» (код 1872104, индекс Т-004, периодичность годовая) согласно приложению 15 к настоящему приказу;
 
    16) инструкцию по заполнению статистической формы общегосударственного статистического наблюдения «Достойный труд» (код 1872104, индекс Т-004, периодичность годовая) согласно приложению 16 к настоящему приказу.
+
+       > *Сноска. Пункт 1 с изменениями, внесенными приказом Председателя Комитета по статистике Министра национальной эконоики РК от 21.08.2015 № 127 (вводится в действие с 01.01.2016).*
 
 2. Признать утратившими силу приказы Агентства Республики Казахстан по статистике согласно приложению 17 к настоящему приказу.
 
@@ -7964,16 +7958,7 @@ _____________________________________ ______________________
 
 строка 3 графы 1 раздела 4 строке 1 графы 1 раздела 2.
 
-Примечание РЦПИ!
-
-Приложение 13 предусмотрено в редакции приказа Председателя Комитета по статистике Министра национальной эконоики РК от 21.08.2015 № 127 (вводится в действие с 01.01.2016).
-
-> *Приложение 13*  
-> *к приказу Председателя*  
-> *Комитета по статистике*  
-> *Министерства национальной экономики*  
-> *Республики Казахстан*  
-> *от 8 декабря 2014 года № 71*
+> *Сноска. Приложение 13 в редакции приказа Председателя Комитета по статистике Министра национальной эконоики РК от 21.08.2015 № 127 (вводится в действие с 01.01.2016).*
 
 <table>
 <tr>
@@ -7981,7 +7966,13 @@ _____________________________________ ______________________
 <em>[Image]</em>
 </td>
 <td colspan="3">Конфиденциальность гарантируется органами государственной статистики</td>
-<td colspan="5" rowspan="2"></td>
+<td colspan="5" rowspan="2">
+Приложение 13 к приказу
+Председателя Комитета по статистике
+Министерства национальной экономики
+Республики Казахстан
+от 8 декабря 2014 года № 71
+</td>
 </tr>
 <tr>
 <td colspan="3">Статистическая форма общегосударственного статистического наблюдения</td>
@@ -8015,50 +8006,14 @@ _____________________________________ ______________________
 <td colspan="2">Индекс Т-001</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">
-Периодичность: месячная,
-один раз в квартал
-</td>
+<td colspan="2">Периодичность: месячная</td>
 <td>Отчетный период</td>
 <td colspan="2">
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
+<em>[Image]</em>
 </td>
 <td colspan="2">месяц</td>
 <td>
-<table>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-</td>
-<td>год</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td colspan="2">квартал год</td>
-<td>
-<table>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
+<em>[Image]</em>
 </td>
 <td>год</td>
 </tr>
@@ -8066,13 +8021,13 @@ _____________________________________ ______________________
 <td colspan="9">Опрашиваются члены домашних хозяйств в возрасте 15 лет и старше</td>
 </tr>
 <tr>
-<td colspan="9">Срок представления – согласно Приложению 1 к настоящей статистической форме</td>
+<td colspan="9">Срок представления – согласно приложению к настоящей статистической форме</td>
 </tr>
 <tr>
-<td colspan="9">1. Наименование территории (населенного пункта) ________________________________________</td>
+<td colspan="9">1. Наименование территории (населенного пункта) _______________________________________</td>
 </tr>
 <tr>
-<td colspan="6">2. Код населенного пункта по КАТО №……………………………………….</td>
+<td colspan="6">2. Код населенного пункта по КАТО1 ..........................</td>
 <td colspan="3">
 <table>
 <tr>
@@ -8090,7 +8045,7 @@ _____________________________________ ______________________
 </td>
 </tr>
 <tr>
-<td colspan="6">3. Код типа населенного пункта (1 - город, 2 - село)</td>
+<td colspan="6">3. Код типа населенного пункта (1 - город, 2 - село) ........</td>
 <td colspan="3">
 <table>
 <tr>
@@ -8103,7 +8058,7 @@ _____________________________________ ______________________
 <td colspan="9">4. Проспект, улица, площадь, переулок ________________________________________________</td>
 </tr>
 <tr>
-<td colspan="6">5. № дома……………………………………………………………………………………………………………………………….</td>
+<td colspan="6">5. № дома....................................................</td>
 <td colspan="3">
 <table>
 <tr>
@@ -8116,7 +8071,7 @@ _____________________________________ ______________________
 </td>
 </tr>
 <tr>
-<td colspan="6">6. № квартиры………………………………………………….………………………………..</td>
+<td colspan="6">6. № квартиры................................................</td>
 <td colspan="3">
 <table>
 <tr>
@@ -8129,7 +8084,7 @@ _____________________________________ ______________________
 </td>
 </tr>
 <tr>
-<td colspan="6">7. № домашнего хозяйства…………………………………………………………………….</td>
+<td colspan="6">7. № домашнего хозяйства ....................................</td>
 <td colspan="3">
 <table>
 <tr>
@@ -8142,23 +8097,7 @@ _____________________________________ ______________________
 </td>
 </tr>
 <tr>
-<td rowspan="2">8. Код выборки………………</td>
-<td colspan="5">периодичность: один раз в квартал</td>
-<td colspan="3">
-<table>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td colspan="5">периодичность: месячная</td>
+<td colspan="6">8. Код выборки...............................................</td>
 <td colspan="3">
 <table>
 <tr>
@@ -8176,7 +8115,7 @@ _____________________________________ ______________________
 </td>
 </tr>
 <tr>
-<td colspan="6">9. Код интервьюера………………………………………………………………………………………………………</td>
+<td colspan="6">9. Код интервьюера...........................................</td>
 <td colspan="3">
 <table>
 <tr>
@@ -8220,6 +8159,8 @@ _____________________________________ ______________________
 <tr>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 </td>
@@ -8229,5941 +8170,4863 @@ _____________________________________ ______________________
 </tr>
 <tr>
 <td colspan="9">
-……………………………………………………………………………………………………………………… ………………………
-(фамилия респондента, участвовавшего в опросе) (подпись)
+Примечание:
+1 Классификатор административно-территориальных объектов НК РК 11-2009
 </td>
 </tr>
 </table>
 
-1Классификатор административно-территориальных объектов НК РК 11-2009
-
-### Сведения о домашнем хозяйстве и его членах
-
 <table>
 <tr>
-<td colspan="7">
+<th>Сведения о домашнем хозяйстве и его членах</th>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td>Переход к вопросу</td>
+</tr>
+<tr>
+<td colspan="27">
 1. Сколько человек проживает в Вашем домашнем хозяйстве?
 (вопрос задается только респонденту, опрошенному первым)
 </td>
 </tr>
 <tr>
-<td colspan="7">
+<td colspan="27">
 Всего _________ человек
-00592
+из них в возрасте:
 </td>
 </tr>
 <tr>
-<td colspan="7">из них в возрасте:</td>
+<td colspan="27">1. 0-5 лет _____ человек, в том числе мужчины _____ человек, женщины _____ человек</td>
 </tr>
 <tr>
-<td colspan="7">1. 0-5 лет ______ человек, в том числе мужчины _____ человек, женщины _____ человек</td>
+<td colspan="27">2. 6-9 лет ______ человек, в том числе мужчины _____ человек, женщины ____ человек</td>
 </tr>
 <tr>
-<td colspan="7">2. 6-9 лет ______ человек, в том числе мужчины _____ человек, женщины _____ человек</td>
+<td colspan="27">3. 10-14 лет _____ человек, в том числе мужчины _____ человек, женщины ____ человек</td>
 </tr>
 <tr>
-<td colspan="7">3. 10-14 лет ______ человек, в том числе мужчины _____ человек, женщины _____ человек</td>
+<td colspan="27">4. 15 лет ______ человек</td>
 </tr>
 <tr>
-<td colspan="7">4. 15 лет ______ человек</td>
+<td colspan="27">5. 16-72 лет ______ человек</td>
 </tr>
 <tr>
-<td colspan="7">5. 16-72 лет ______ человек</td>
+<td colspan="27">6. 73 года и старше ______ человек .....2</td>
 </tr>
 <tr>
-<td colspan="7">6. 73 года и старше ______ человек</td>
+<td colspan="27">Внимание: Интервьюер, уточните у главы домашнего хозяйства, произошли ли изменения в составе домашнего хозяйства на момент опроса. В случае отсутствия изменений вопрос 2 не заполняете, переходите к вопросу 3.</td>
 </tr>
+<tr>
+<td colspan="5">2. Если на момент опроса в составе домашнего хозяйства произошли изменения, то проставьте код причины прибытия (выбытия) респондента1</td>
+<td colspan="5">
+<table>
 <tr>
 <td></td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>Переход к вопросу</td>
+<td></td>
 </tr>
-<tr>
-<td colspan="7">
-Внимание: Интервьюер, уточните у главы домашнего хозяйства, произошли ли изменения в составе домашнего хозяйства на момент опроса.
-В случае отсутствия изменений вопрос 2 не заполняете, переходите к вопросу 3.
+</table>
 </td>
+<td colspan="4">
+<table>
+<tr>
+<td></td>
+<td></td>
 </tr>
+</table>
+</td>
+<td colspan="3">
+<table>
 <tr>
-<td>
-2. Если на момент опроса в составе домашнего хозяйства произошли изменения, то проставьте код причины прибытия (выбытия) респондента3
-0060
+<td></td>
+<td></td>
+</tr>
+</table>
 </td>
-<td>
-<em>[Image]</em>
+<td colspan="4">
+<table>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
 </td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
+<td colspan="5">
+<table>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
 </td>
 <td>3</td>
 </tr>
 <tr>
-<td colspan="7">Внимание: На вопросы 3-89 отвечают респонденты в возрасте 15 лет и старше.</td>
+<td colspan="27">Внимание: Далее на вопросы отвечают респонденты в возрасте 15 лет и старше.</td>
 </tr>
 <tr>
-<th>3. Пол</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<th colspan="5">3. Пол</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
 <th></th>
 </tr>
 <tr>
-<td>1. Мужской</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td colspan="5">1. Мужской</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
 <td>4</td>
 </tr>
 <tr>
-<td>
-2. Женский
-0361
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
+<td colspan="5">2. Женский</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
 <td>4</td>
 </tr>
 <tr>
-<th>4. Ваше родственное отношение к главе домашнего хозяйства (родственные связи)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Глава домохозяйства (лицо, опрошенное первым)</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<td>2. Муж, жена</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>5</td>
-</tr>
-<tr>
-<td>3. Сын, дочь</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>5</td>
-</tr>
-<tr>
-<td>4. Отец, мать</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>5</td>
-</tr>
-<tr>
-<td>5. Брат, сестра</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-</tr>
-<tr>
-<td>6. Дедушка, бабушка</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>5</td>
-</tr>
-<tr>
-<td>7. Внук, внучка</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>5</td>
-</tr>
-<tr>
-<td>8. Другая степень родства</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>5</td>
-</tr>
-<tr>
-<td>
-9. Не родственник (нет родства)
-0061
-</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>5</td>
-</tr>
-<tr>
-<th>5. Дата рождения</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<th colspan="5">4. Ваше родственное отношение к главе домашнего хозяйства (родственные связи)</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
 <th></th>
 </tr>
 <tr>
-<td>Год</td>
-<td>
+<td colspan="5">1. Глава домашнего хозяйства (лицо, опрошенное первым)</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="5">2. Муж, жена</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="5">3. Сын, дочь</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="5">4. Отец, мать</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="4">4</td>
+<td colspan="5">4</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="5">5. Брат, сестра</td>
+<td colspan="5">5</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="4">5</td>
+<td colspan="5">5</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="5">6. Дедушка, бабушка</td>
+<td colspan="5">6</td>
+<td colspan="4">6</td>
+<td colspan="3">6</td>
+<td colspan="4">6</td>
+<td colspan="5">6</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="5">7. Внук, внучка</td>
+<td colspan="5">7</td>
+<td colspan="4">7</td>
+<td colspan="3">7</td>
+<td colspan="4">7</td>
+<td colspan="5">7</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="5">8. Другая степень родства</td>
+<td colspan="5">8</td>
+<td colspan="4">8</td>
+<td colspan="3">8</td>
+<td colspan="4">8</td>
+<td colspan="5">8</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="5">9. Не родственник (нет родства)</td>
+<td colspan="5">9</td>
+<td colspan="4">9</td>
+<td colspan="3">9</td>
+<td colspan="4">9</td>
+<td colspan="5">9</td>
+<td>5</td>
+</tr>
+<tr>
+<th colspan="5">5. Дата рождения</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th></th>
+</tr>
+<tr>
+<td colspan="5">Год</td>
+<td colspan="5">
 <em>[Image]</em>
 </td>
-<td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+<td colspan="3">
 <em>[Image]</em>
 </td>
-<td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+<td colspan="5">
 <em>[Image]</em>
 </td>
 <td></td>
 </tr>
 <tr>
-<td>Месяц</td>
-<td>
+<td colspan="5">Месяц</td>
+<td colspan="5">
 <em>[Image]</em>
 </td>
-<td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+<td colspan="3">
 <em>[Image]</em>
 </td>
-<td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
-<em>[Image]</em>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-День (число)
-0062
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>6</td>
-</tr>
-<tr>
-<th>6. Ваше состояние в браке</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Состоит в браке</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>7</td>
-</tr>
-<tr>
-<td>2. Разведен (-а)</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>7</td>
-</tr>
-<tr>
-<td>3. Вдовец, вдова</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>7</td>
-</tr>
-<tr>
-<td>
-4. Никогда не состоял (-а) в браке
-0063
-</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>7</td>
-</tr>
-<tr>
-<th>7. Какое образование Вы имеете?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Нет начального</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>8</td>
-</tr>
-<tr>
-<td>2. Начальное</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>8</td>
-</tr>
-<tr>
-<td>3. Основное среднее</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>8</td>
-</tr>
-<tr>
-<td>4. Общее среднее</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-</tr>
-<tr>
-<td>5. Начальное профессиональное</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>8</td>
-</tr>
-<tr>
-<td>6. Среднее профессиональное (специальное)</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>8</td>
-</tr>
-<tr>
-<td>7. Незаконченное высшее</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>8</td>
-</tr>
-<tr>
-<td>8. Высшее</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-</tr>
-<tr>
-<td>
-9. Послевузовское
-0064
-</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>8</td>
-</tr>
-<tr>
-<th>8. Являетесь ли Вы гражданином:</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Казахстан</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>9</td>
-</tr>
-<tr>
-<td>2. Страны СНГ4</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>9</td>
-</tr>
-<tr>
-<td>
-3. Страны вне СНГ
-0065
-</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>9</td>
-</tr>
-<tr>
-<th>9. Проживаете ли Вы с рождения в данном населенном пункте?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>13</td>
-</tr>
-<tr>
-<td>
-2. Нет
-0066
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>10</td>
-</tr>
-<tr>
-<th>10. Дата прибытия на место текущего проживания (когда приехали жить сюда?)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>Год</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
+<td colspan="5">
 <em>[Image]</em>
 </td>
 <td></td>
 </tr>
 <tr>
-<td>
-Месяц
-0067
-</td>
-<td>
+<td colspan="5">День (число)</td>
+<td colspan="5">
 <em>[Image]</em>
 </td>
-<td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+<td colspan="3">
 <em>[Image]</em>
 </td>
-<td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+<td colspan="5">
 <em>[Image]</em>
 </td>
-<td>11</td>
+<td>6</td>
 </tr>
 <tr>
-<th>11. Уроженцем какого государства Вы являетесь?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<th colspan="5">6. Ваше семейное положение</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
 <th></th>
 </tr>
 <tr>
-<td>1. Казахстан</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>12</td>
+<td colspan="5">1. Никогда не состоял (а) в браке</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td>7</td>
 </tr>
 <tr>
-<td>2. Страны СНГ</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>12</td>
+<td colspan="5">2. Состоит в браке</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td>7</td>
 </tr>
 <tr>
-<td>
-3. Страны вне СНГ
-0068
+<td colspan="5">3. Вдовец, вдова</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td>7</td>
+</tr>
+<tr>
+<td colspan="5">4. Разведен (а)</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="4">4</td>
+<td colspan="5">4</td>
+<td>7</td>
+</tr>
+<tr>
+<th colspan="5">7. Какое образование Вы имеете?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th></th>
+</tr>
+<tr>
+<td colspan="5">1. Нет начального образования</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td>8</td>
+</tr>
+<tr>
+<td colspan="5">2. Начальное образование</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td>8</td>
+</tr>
+<tr>
+<td colspan="5">3. Основное среднее образование</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td>8</td>
+</tr>
+<tr>
+<td colspan="27">
+Примечание:
+1 Кодирование показателей осуществляется в соответствии с Приложением 1 к Инструкции по заполнению статистической формы общегосударственного статистического наблюдения «Анкета выборочного обследования занятости населения».
 </td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>12</td>
 </tr>
 <tr>
-<th>12. В течение последних 10 лет Вы (укажите, что относится к Вам):</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Постоянно проживал в указанном месте</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>13</td>
-</tr>
-<tr>
-<td>2. Переехал из города в сельскую местность в пределах одной области</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>13</td>
-</tr>
-<tr>
-<td>3. Переехал из сельской местности в город в пределах одной области</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>13</td>
-</tr>
-<tr>
-<td>4. Переехал из города в город в пределах области</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>13</td>
-</tr>
-<tr>
-<td>5. Переехал из села в село в пределах области</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>13</td>
-</tr>
-<tr>
-<td>6. Переехал из города в сельскую местность из другой области</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>13</td>
-</tr>
-<tr>
-<td>7. Переехал из сельской местности в город из другой области</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>13</td>
-</tr>
-<tr>
-<td>8. Переехал из города в город в пределах Республики Казахстан</td>
+<td colspan="5">4. Общее среднее образование</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="4">4</td>
+<td colspan="5">4</td>
 <td>8</td>
+</tr>
+<tr>
+<td colspan="5">5. Начальное профессиональное образование</td>
+<td colspan="5">5</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="4">5</td>
+<td colspan="5">5</td>
 <td>8</td>
+</tr>
+<tr>
+<td colspan="5">6. Среднее профессиональное (специальное) образование</td>
+<td colspan="5">6</td>
+<td colspan="4">6</td>
+<td colspan="3">6</td>
+<td colspan="4">6</td>
+<td colspan="5">6</td>
 <td>8</td>
+</tr>
+<tr>
+<td colspan="5">7. Незаконченное высшее образование</td>
+<td colspan="5">7</td>
+<td colspan="4">7</td>
+<td colspan="3">7</td>
+<td colspan="4">7</td>
+<td colspan="5">7</td>
 <td>8</td>
+</tr>
+<tr>
+<td colspan="5">8. Высшее образование</td>
+<td colspan="5">8</td>
+<td colspan="4">8</td>
+<td colspan="3">8</td>
+<td colspan="4">8</td>
+<td colspan="5">8</td>
 <td>8</td>
-<td>13</td>
 </tr>
 <tr>
-<td>9. Переехал из села в село в пределах Республики Казахстан</td>
+<td colspan="5">9. Послевузовское образование</td>
+<td colspan="5">9</td>
+<td colspan="4">9</td>
+<td colspan="3">9</td>
+<td colspan="4">9</td>
+<td colspan="5">9</td>
+<td>8</td>
+</tr>
+<tr>
+<th colspan="5">8. Имеете ли вы детей в возрасте от 0 до 3 лет?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th></th>
+</tr>
+<tr>
+<td colspan="5">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
 <td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>13</td>
 </tr>
 <tr>
-<td>10. Переехал из другой страны по квоте иммиграции оралманов</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>13</td>
+<td colspan="5">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td>1 Анкета. Основной вопросник</td>
 </tr>
 <tr>
-<td>11. Переехал из другой страны в качестве беженца</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>13</td>
-</tr>
-<tr>
-<td>12. Переехал из другой страны в качестве трудового мигранта</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>13</td>
-</tr>
-<tr>
-<td>13. Переехал из другой страны для воссоединения семьи</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-</tr>
-<tr>
-<td>
-14. Другое _______________
-0069
+<td colspan="5">9. Проживают ли эти дети в возрасте от 0 до 3 лет совместно с вами в настоящее время?</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td rowspan="3">
+Анкета. Основной вопросник
+1
 </td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>13</td>
 </tr>
 <tr>
-<td colspan="7">
-I. Экономическая активность
+<td colspan="5">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+</tr>
+<tr>
+<td colspan="5">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+</tr>
+<tr>
+<th>Анкета. Основной вопросник</th>
+</tr>
+<tr>
+<th colspan="3">1. Являетесь ли Вы гражданином:</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Казахстан</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">2</td>
+</tr>
+<tr>
+<td colspan="3">2. Страны СНГ2</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">2</td>
+</tr>
+<tr>
+<td colspan="3">3. Cтраны вне СНГ</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">2</td>
+</tr>
+<tr>
+<th colspan="3">2. Проживаете ли Вы с рождения в данном населенном пункте?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<td colspan="3">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<th colspan="3">3. Дата прибытия на место текущего проживания (когда приехали жить сюда?)</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">Год</td>
+<td colspan="5">
+<em>[Image]</em>
+</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+<td colspan="5">
+<em>[Image]</em>
+</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Месяц</td>
+<td colspan="5">
+<em>[Image]</em>
+</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+<td colspan="5">
+<em>[Image]</em>
+</td>
+<td colspan="2">4</td>
+</tr>
+<tr>
+<th colspan="3">4. Уроженцем какого государства Вы являетесь?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Казахстан</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
+<td colspan="3">2. Страны СНГ2</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
+<td colspan="3">3. Cтраны вне СНГ</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
+<th colspan="3">5. В течение последних 10 лет Вы (укажите, что относится к Вам):</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Постоянно проживал в указанном месте</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<td colspan="3">2. Переехал из города в сельскую местность в пределах одной области</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<td colspan="3">3. Переехал из сельской местности в город в пределах одной области</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<td colspan="3">4. Переехал из города в город в пределах области</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="5">4</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<td colspan="3">5. Переехал из села в село в пределах области</td>
+<td colspan="5">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="5">5</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<td colspan="3">6. Переехал из города в сельскую местность из другой области</td>
+<td colspan="5">6</td>
+<td colspan="4">6</td>
+<td colspan="4">6</td>
+<td colspan="4">6</td>
+<td colspan="5">6</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<td colspan="3">7. Переехал из сельской местности в город из другой области</td>
+<td colspan="5">7</td>
+<td colspan="4">7</td>
+<td colspan="4">7</td>
+<td colspan="4">7</td>
+<td colspan="5">7</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<td colspan="27">
+Примечание:
+2 Здесь и далее СНГ – Содружество Независимых Государств.
+</td>
+</tr>
+<tr>
+<td colspan="3">8. Переехал из города в город в пределах Республики Казахстан</td>
+<td colspan="5">8</td>
+<td colspan="4">8</td>
+<td colspan="4">8</td>
+<td colspan="4">8</td>
+<td colspan="5">8</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<td colspan="3">9. Переехал из села в село в пределах Республики Казахстан</td>
+<td colspan="5">9</td>
+<td colspan="4">9</td>
+<td colspan="4">9</td>
+<td colspan="4">9</td>
+<td colspan="5">9</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<td colspan="3">10. Переехал из другой страны по квоте иммиграции оралманов</td>
+<td colspan="5">10</td>
+<td colspan="4">10</td>
+<td colspan="4">10</td>
+<td colspan="4">10</td>
+<td colspan="5">10</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<td colspan="3">11. Переехал из другой страны в качестве беженца</td>
+<td colspan="5">11</td>
+<td colspan="4">11</td>
+<td colspan="4">11</td>
+<td colspan="4">11</td>
+<td colspan="5">11</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<td colspan="3">12. Переехал из другой страны в качестве трудового мигранта</td>
+<td colspan="5">12</td>
+<td colspan="4">12</td>
+<td colspan="4">12</td>
+<td colspan="4">12</td>
+<td colspan="5">12</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<td colspan="3">13. Переехал из другой страны для воссоединения семьи</td>
+<td colspan="5">13</td>
+<td colspan="4">13</td>
+<td colspan="4">13</td>
+<td colspan="4">13</td>
+<td colspan="5">13</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<td colspan="3">14. Другое</td>
+<td colspan="5">99</td>
+<td colspan="4">99</td>
+<td colspan="4">99</td>
+<td colspan="4">99</td>
+<td colspan="5">99</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<th>
+1. Экономическая активность
 (все вопросы в данном разделе касаются прошлой недели)
+</th>
+</tr>
+<tr>
+<th colspan="3">6. Выполняли ли Вы хотя бы один час на прошлой неделе какую-нибудь работу за вознаграждение или имели какое-либо занятие для получения натурального или денежного дохода (включая оказание различного рода услуг)?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">7</td>
+</tr>
+<tr>
+<td colspan="3">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">7</td>
+</tr>
+<tr>
+<th colspan="3">7. Осуществляли ли Вы какую-либо работу дома для получения денежного или натурального дохода, хотя бы 1 час на прошлой неделе (исключая работу на личном подворье)?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">8</td>
+</tr>
+<tr>
+<td colspan="3">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">8</td>
+</tr>
+<tr>
+<th colspan="3">8. Осуществляли ли Вы какую-нибудь оплачиваемую работу, связанную с производством/реализацией товаров или оказанием услуг (транспортные, образовательные, медицинские, прочие), хотя бы 1 час на прошлой неделе?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">9</td>
+</tr>
+<tr>
+<td colspan="3">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">9</td>
+</tr>
+<tr>
+<th colspan="3">9. Имели ли Вы случайные или временные заработки на прошлой неделе (включая работу через органы занятости населения)?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">10</td>
+</tr>
+<tr>
+<td colspan="3">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">10</td>
+</tr>
+<tr>
+<th colspan="3">10. Выполняли ли Вы какую-либо работу на личном подворье (приусадебном, дачном участке), связанную с производством сельскохозяйственной продукции, хотя бы 1 час на прошлой неделе?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">11</td>
+</tr>
+<tr>
+<td colspan="3">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">13</td>
+</tr>
+<tr>
+<th colspan="3">11. Использовалась ли продукция, полученная на личном подворье (приусадебном, дачном участке), непосредственно или путем переработки?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Только для собственного потребления</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">12</td>
+</tr>
+<tr>
+<td colspan="3">2. Частично для потребления, обмена (продажи)</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">13</td>
+</tr>
+<tr>
+<td colspan="3">3. Только для обмена (продажи)</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">13</td>
+</tr>
+<tr>
+<th colspan="3">12. Сколько времени Вы были заняты на личном подворье (приусадебном, дачном участке)?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Количество дней в неделю</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">2. Количество часов в неделю</td>
+<td colspan="5">
+<em>[Image]</em>
+</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+<td colspan="5">
+<em>[Image]</em>
+</td>
+<td colspan="2">13</td>
+</tr>
+<tr>
+<td colspan="27">Внимание: Отработанное на личном подворье (приусадебном, дачном участке) время должно включаться в общую сумму всех часов в вопросе 14.</td>
+</tr>
+<tr>
+<th colspan="3">13. Выполняли ли Вы, хотя бы 1 час на прошлой неделе, какую-либо работу на личном подворье вашего родственника или знакомого, с целью получения натурального или денежного дохода?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">14</td>
+</tr>
+<tr>
+<td colspan="3">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">14</td>
+</tr>
+<tr>
+<td colspan="27">
+Внимание: Если ответили «Нет» на все вопросы 6-13, то следует переходить к вопросу 15.
+Если ответили «Да» хотя бы на один из вопросов 6-13, то следует задать вопрос 14.
 </td>
 </tr>
 <tr>
-<th>13. Выполняли ли Вы хотя бы один час на прошлой неделе какую-нибудь работу или имели какое-либо занятие для получения натурального или денежного дохода (включая оказание различного рода услуг)?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td colspan="5">14. Сколько времени на прошлой неделе Вы выполняли указанную Вами работу? (показать общую сумму)</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="5">1. Количество дней в неделю</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="5">2. Количество часов в неделю</td>
+<td colspan="3">
+<em>[Image]</em>
+</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+<td colspan="5">
+<em>[Image]</em>
+</td>
+<td colspan="2">16 если 0 (ноль) часов 15</td>
+</tr>
+<tr>
+<th colspan="5">15. Была ли у Вас на прошлой неделе работа (за исключением работы на личном подворье), на которой Вы временно отсутствовали по причине отпуска, болезни, сезонных работ, временной приостановки предпринимательской деятельности, неблагоприятных погодных условий и прочие?</th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="5">1. Да</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">16</td>
+</tr>
+<tr>
+<td colspan="5">2. Нет</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">58</td>
+</tr>
+<tr>
+<th>2. Основная работа (деятельность) в течение прошлой недели</th>
+</tr>
+<tr>
+<th colspan="3">16. Какая из следующих категорий лучше описывает статус Вашей основной деятельности (работы)?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Работа по найму в организации</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">17</td>
+</tr>
+<tr>
+<td colspan="3">2. Работа по найму у отдельных физических лиц</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">17</td>
+</tr>
+<tr>
+<td colspan="3">3. Работа по найму в крестьянском или фермерском хозяйстве</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">17</td>
+</tr>
+<tr>
+<td colspan="3">4. Работа по договору гражданско-правового характера на оказание услуг</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="5">4</td>
+<td colspan="2">17</td>
+</tr>
+<tr>
+<td colspan="3">5. Самостоятельно занятые</td>
+<td colspan="5">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="5">5</td>
+<td colspan="2">24</td>
+</tr>
+<tr>
+<td colspan="3">6. Работодатель</td>
+<td colspan="5">6</td>
+<td colspan="4">6</td>
+<td colspan="4">6</td>
+<td colspan="4">6</td>
+<td colspan="5">6</td>
+<td colspan="2">24</td>
+</tr>
+<tr>
+<td colspan="3">7. Помогающие (неоплачиваемые) работники семейных предприятий, крестьянских или фермерских хозяйств</td>
+<td colspan="5">7</td>
+<td colspan="4">7</td>
+<td colspan="4">7</td>
+<td colspan="4">7</td>
+<td colspan="5">7</td>
+<td colspan="2">25</td>
+</tr>
+<tr>
+<td colspan="3">8. Члены кооператива</td>
+<td colspan="5">8</td>
+<td colspan="4">8</td>
+<td colspan="4">8</td>
+<td colspan="4">8</td>
+<td colspan="5">8</td>
+<td colspan="2">25</td>
+</tr>
+<tr>
+<td colspan="3">9. В личном подсобном хозяйстве</td>
+<td colspan="5">9</td>
+<td colspan="4">9</td>
+<td colspan="4">9</td>
+<td colspan="4">9</td>
+<td colspan="5">9</td>
+<td colspan="2">25</td>
+</tr>
+<tr>
+<th colspan="3">17. Были ли Вы приняты на работу по договору или по устной договоренности?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. По письменному договору</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">18</td>
+</tr>
+<tr>
+<td colspan="3">2. По устной договоренности</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">18</td>
+</tr>
+<tr>
+<td colspan="3">3. По электронному договору с использованием электронно-цифровой подписи</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">18</td>
+</tr>
+<tr>
+<th colspan="3">18. Перечисляет ли Ваш работодатель или вы сами отчисления в пенсионный фонд, фонд социального страхования?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">19</td>
+</tr>
+<tr>
+<td colspan="3">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">19</td>
+</tr>
+<tr>
+<td colspan="3">3. Не знаю</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">19</td>
+</tr>
+<tr>
+<th colspan="3">19. Предоставляет ли Вам работодатель оплачиваемый годовой отпуск или компенсацию за неиспользованный отпуск?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">20</td>
+</tr>
+<tr>
+<td colspan="3">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">20</td>
+</tr>
+<tr>
+<td colspan="3">3. Не знаю</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">20</td>
+</tr>
+<tr>
+<th colspan="3">20. Как Вы считаете, в случае болезни или травмы выплатит ли Вам работодатель социальное пособие по временной нетрудоспособности (на основании больничного листа)?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">21</td>
+</tr>
+<tr>
+<td colspan="3">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">21</td>
+</tr>
+<tr>
+<td colspan="3">3. Не знаю</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">21</td>
+</tr>
+<tr>
+<th colspan="3">21. Назовите форму собственности организации/индивидуального предпринимателя, где Вы работаете</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Государственная собственность</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">22</td>
+</tr>
+<tr>
+<td colspan="3">2. Частная собственность</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">22</td>
+</tr>
+<tr>
+<td colspan="3">3. Иностранная собственность</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">22</td>
+</tr>
+<tr>
+<th colspan="3">22. Ваша основная работа была:</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. По договору на неопределенный срок (постоянная)</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">25</td>
+</tr>
+<tr>
+<td colspan="3">2. По договору на определенный срок (временная)</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">23</td>
+</tr>
+<tr>
+<td colspan="3">3. По договору на определенный объем работ</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">23</td>
+</tr>
+<tr>
+<td colspan="3">4. Случайная</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="5">4</td>
+<td colspan="2">23</td>
+</tr>
+<tr>
+<td colspan="3">5. Сезонная</td>
+<td colspan="5">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="5">5</td>
+<td colspan="2">23</td>
+</tr>
+<tr>
+<th colspan="3">23. Почему Ваша работа временная?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Практика, стажировка, испытательный срок</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">25</td>
+</tr>
+<tr>
+<td colspan="3">2. Невозможно найти постоянную работу</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">25</td>
+</tr>
+<tr>
+<td colspan="3">3. Нет желания иметь постоянную работу</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">25</td>
+</tr>
+<tr>
+<td colspan="3">4. Другое</td>
+<td colspan="5">99</td>
+<td colspan="4">99</td>
+<td colspan="4">99</td>
+<td colspan="4">99</td>
+<td colspan="5">99</td>
+<td colspan="2">25</td>
+</tr>
+<tr>
+<td colspan="27">Внимание: на вопрос 24 отвечают респонденты, отметившие в вопросе 16 коды 5-6.</td>
+</tr>
+<tr>
+<th colspan="3">24. Осуществляли ли Вы свою трудовую деятельность или занимались предпринимательской деятельностью:</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. С оплачиваемыми наемными работниками, привлекаемыми на постоянной основе</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">25</td>
+</tr>
+<tr>
+<td colspan="3">2. С оплачиваемыми наемными работниками, привлекаемыми от случая к случаю</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">25</td>
+</tr>
+<tr>
+<td colspan="3">3. Без оплачиваемых наемных работников</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">25</td>
+</tr>
+<tr>
+<th colspan="3">25. Сколько времени Вы работаете на своей настоящей работе (занятии)?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Менее 6 месяцев</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">26</td>
+</tr>
+<tr>
+<td colspan="3">2. От 6 до 12 месяцев</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">26</td>
+</tr>
+<tr>
+<td colspan="3">3. От года до 3 лет</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">26</td>
+</tr>
+<tr>
+<td colspan="3">4. От 3 до 5 лет</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="5">4</td>
+<td colspan="2">26</td>
+</tr>
+<tr>
+<td colspan="3">5. Более 5 лет</td>
+<td colspan="5">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="5">5</td>
+<td colspan="2">26</td>
+</tr>
+<tr>
+<th colspan="3">26. Ваше рабочее место на основной работе:</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Собственный дом</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">27</td>
+</tr>
+<tr>
+<td colspan="3">2. Дом клиента или работодателя</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">29</td>
+</tr>
+<tr>
+<td colspan="3">3. Организация, предприятие, завод, фабрика, магазин, бюро, ателье и другие (отдельно от дома)</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">29</td>
+</tr>
+<tr>
+<td colspan="3">4. Ферма или земельный участок</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="5">4</td>
+<td colspan="2">29</td>
+</tr>
+<tr>
+<td colspan="3">5. Строительная площадка</td>
+<td colspan="5">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="5">5</td>
+<td colspan="2">29</td>
+</tr>
+<tr>
+<td colspan="3">6. Открытый рынок или уличный лоток</td>
+<td colspan="5">6</td>
+<td colspan="4">6</td>
+<td colspan="4">6</td>
+<td colspan="4">6</td>
+<td colspan="5">6</td>
+<td colspan="2">29</td>
+</tr>
+<tr>
+<td colspan="3">7. Подсобное хозяйство (личное подворье)</td>
+<td colspan="5">7</td>
+<td colspan="4">7</td>
+<td colspan="4">7</td>
+<td colspan="4">7</td>
+<td colspan="5">7</td>
+<td colspan="2">29</td>
+</tr>
+<tr>
+<td colspan="3">8. Собственное автотранспортное средство</td>
+<td colspan="5">8</td>
+<td colspan="4">8</td>
+<td colspan="4">8</td>
+<td colspan="4">8</td>
+<td colspan="5">8</td>
+<td colspan="2">29</td>
+</tr>
+<tr>
+<td colspan="3">9. Нет постоянного места</td>
+<td colspan="5">9</td>
+<td colspan="4">9</td>
+<td colspan="4">9</td>
+<td colspan="4">9</td>
+<td colspan="5">9</td>
+<td colspan="2">27</td>
+</tr>
+<tr>
+<td colspan="3">10. Другое</td>
+<td colspan="5">99</td>
+<td colspan="4">99</td>
+<td colspan="4">99</td>
+<td colspan="4">99</td>
+<td colspan="5">99</td>
+<td colspan="2">27</td>
+</tr>
+<tr>
+<th colspan="3">27. Является ли Ваша основная работа дистанционной занятостью (работой, осуществляемой вне офиса работодателя с применением в процессе работы информационных и коммуникационных технологий)?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">28</td>
+</tr>
+<tr>
+<td colspan="3">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">29</td>
+</tr>
+<tr>
+<th colspan="3">28. Используемые в процессе работы средства коммуникации (средства связи) являются:</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Собственными</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">29</td>
+</tr>
+<tr>
+<td colspan="3">2. Предоставленными работодателем</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">29</td>
+</tr>
+<tr>
+<th colspan="3">29. Основную работу Вы выполняли:</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. В организации, на предприятии (юридическое лицо)</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">30</td>
+</tr>
+<tr>
+<td colspan="3">2. На основе индивидуального предпринимательства (с наймом работников)</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">30</td>
+</tr>
+<tr>
+<td colspan="3">3. В крестьянском или фермерском хозяйстве</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">30</td>
+</tr>
+<tr>
+<td colspan="3">4. На основе индивидуального предпринимательства (без найма работников)</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="5">4</td>
+<td colspan="2">30</td>
+</tr>
+<tr>
+<td colspan="3">5. По найму в домашнем хозяйстве у частных лиц</td>
+<td colspan="5">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="5">5</td>
+<td colspan="2">31</td>
+</tr>
+<tr>
+<td colspan="3">6. В личном подсобном хозяйстве</td>
+<td colspan="5">6</td>
+<td colspan="4">6</td>
+<td colspan="4">6</td>
+<td colspan="4">6</td>
+<td colspan="5">6</td>
+<td colspan="2">31</td>
+</tr>
+<tr>
+<th colspan="3">30. Зарегистрирована ли в налоговых органах организация, предпринимательская деятельность, где Вы работаете на основной работе?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">31</td>
+</tr>
+<tr>
+<td colspan="3">2. В стадии оформления регистрации</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">31</td>
+</tr>
+<tr>
+<td colspan="3">3. Не знаю</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">31</td>
+</tr>
+<tr>
+<td colspan="3">4. Нет</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="5">4</td>
+<td colspan="2">31</td>
+</tr>
+<tr>
+<td colspan="3">31. Сколько человек, включая Вас, работало на производственной единице (организации, предприятии, на личном подворье, приусадебном (дачном участке)) в котором Вы работали?</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">1. Не более 5 человек</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">32</td>
+</tr>
+<tr>
+<td colspan="3">2. От 6 до 10 человек</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">32</td>
+</tr>
+<tr>
+<td colspan="3">3. От 11 до 20 человек</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">32</td>
+</tr>
+<tr>
+<td colspan="3">4. От 21 до 50 человек</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="5">4</td>
+<td colspan="2">32</td>
+</tr>
+<tr>
+<td colspan="3">5. От 51 до 100 человек</td>
+<td colspan="5">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="5">5</td>
+<td colspan="2">32</td>
+</tr>
+<tr>
+<td colspan="3">6. От 101 до 250 человек</td>
+<td colspan="5">6</td>
+<td colspan="4">6</td>
+<td colspan="4">6</td>
+<td colspan="4">6</td>
+<td colspan="5">6</td>
+<td colspan="2">32</td>
+</tr>
+<tr>
+<td colspan="3">7. От 251 до 500 человек</td>
+<td colspan="5">7</td>
+<td colspan="4">7</td>
+<td colspan="4">7</td>
+<td colspan="4">7</td>
+<td colspan="5">7</td>
+<td colspan="2">32</td>
+</tr>
+<tr>
+<td colspan="3">8. От 501 человек и выше</td>
+<td colspan="5">8</td>
+<td colspan="4">8</td>
+<td colspan="4">8</td>
+<td colspan="4">8</td>
+<td colspan="5">8</td>
+<td colspan="2">32</td>
+</tr>
+<tr>
+<td colspan="27">
+32. Назовите, пожалуйста, преобладающий вид деятельности организации, индивидуального предпринимательства, вашей основной работы, где Вы работали на прошлой неделе.
+(Интервьюер, приведите подробное словесное описание и проставьте код вида экономической деятельности)3.
+</td>
+</tr>
+<tr>
+<td colspan="23">1 респондент</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+</tr>
+<tr>
+<td colspan="23">2 респондент</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+</tr>
+<tr>
+<td colspan="23">3 респондент</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+</tr>
+<tr>
+<td colspan="23">4 респондент</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+</tr>
+<tr>
+<td colspan="23">5 респондент</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+</tr>
+<tr>
+<td colspan="23"></td>
+<td colspan="4">33</td>
+</tr>
+<tr>
+<td colspan="27">
+33. Какую должность Вы занимали или по какой профессии работали на прошлой неделе (в чем состояла Ваша деятельность) на вашей основной работе?
+(Интервьюер, приведите подробное словесное описание и проставьте код по Классификатору занятий)4.
+</td>
+</tr>
+<tr>
+<td colspan="23">1 респондент</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+</tr>
+<tr>
+<td colspan="23">2 респондент</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+</tr>
+<tr>
+<td colspan="23">3 респондент</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+</tr>
+<tr>
+<td colspan="23">4 респондент</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+</tr>
+<tr>
+<td colspan="23">5 респондент</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+</tr>
+<tr>
+<td colspan="23"></td>
+<td colspan="4">34</td>
+</tr>
+<tr>
+<th colspan="3">34. Ваша работа находится на территории:</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Места проживания</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">35</td>
+</tr>
+<tr>
+<td colspan="3">2. Областного центра</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">35</td>
+</tr>
+<tr>
+<td colspan="3">3. На территории этой же области</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">35</td>
+</tr>
+<tr>
+<td colspan="3">4. Другой области</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="5">4</td>
+<td colspan="2">35</td>
+</tr>
+<tr>
+<td colspan="3">5. Другого государства</td>
+<td colspan="5">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="5">5</td>
+<td colspan="2">35</td>
+</tr>
+<tr>
+<td colspan="27">
+Примечание:
+3Здесь и далее кодирование показателей осуществляется в соответствии с Приложением 2 к Инструкции по заполнению статистической формы общегосударственного статистического наблюдения «Анкета выборочного обследования занятости населения».
+4 Здесь и далее код профессии заполняется в соответствии с Классификатором занятий, расположенным на сайте http://​www.​mzsr.​gov.​kz/​node/​243262.
+</td>
+</tr>
+<tr>
+<th colspan="3">35. Работаете ли Вы по специальности, полученной в результате обучения?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">36</td>
+</tr>
+<tr>
+<td colspan="3">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">36</td>
+</tr>
+<tr>
+<td colspan="3">3. Не обучался</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">36</td>
+</tr>
+<tr>
+<th colspan="3">36. Соответствует ли выполняемая Вами работа Вашей квалификации?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">37</td>
+</tr>
+<tr>
+<td colspan="3">2. Нет, она ниже моей квалификации</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">37</td>
+</tr>
+<tr>
+<td colspan="3">3. Нет, она выше моей квалификации</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">37</td>
+</tr>
+<tr>
+<td colspan="3">4. Нет, квалификация такая же, но в другой области</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="5">4</td>
+<td colspan="2">37</td>
+</tr>
+<tr>
+<td colspan="3">
+37. Сколько часов фактически Вы отработали на вашей основной работе на прошлой неделе?
+(если не работал, укажите «0»):
+</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">1. Количество дней в неделю</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">2. Общее количество часов, отработанное за прошлую неделю</td>
+<td colspan="5">
+<em>[Image]</em>
+</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+<td colspan="4">
+<em>[Image]</em>
+</td>
+<td colspan="5">
+<em>[Image]</em>
+</td>
+<td colspan="2">38</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2">если 0 (ноль) часов 39</td>
+</tr>
+<tr>
+<td colspan="27">Внимание: На вопрос 38 отвечают респонденты, отметившие что общее количество отработанных часов за прошлую неделю (вопрос 37) было менее 40 часов.</td>
+</tr>
+<tr>
+<th colspan="3">38. Назовите основную причину, по которой Вы работали на основной работе менее 40 часов на прошлой неделе:</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="3">1. Законодательно установленная продолжительность рабочего времени</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="3">2. По инициативе администрации, работодателя</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">3. Нет достаточного объема работы</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="3">4. Уход за ребенком, больным человеком</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="5">4</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="3">5. По состоянию здоровья</td>
+<td colspan="5">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="5">5</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="3">6. Имею другую (вторую) работу</td>
+<td colspan="5">6</td>
+<td colspan="4">6</td>
+<td colspan="4">6</td>
+<td colspan="4">6</td>
+<td colspan="5">6</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="3">7. Имею достаточный доход</td>
+<td colspan="5">7</td>
+<td colspan="4">7</td>
+<td colspan="4">7</td>
+<td colspan="4">7</td>
+<td colspan="5">7</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="3">8. Прохожу обучение (в институте, на курсах)</td>
+<td colspan="5">8</td>
+<td colspan="4">8</td>
+<td colspan="4">8</td>
+<td colspan="4">8</td>
+<td colspan="5">8</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="3">9. Учебный отпуск, профессиональная подготовка</td>
+<td colspan="5">9</td>
+<td colspan="4">9</td>
+<td colspan="4">9</td>
+<td colspan="4">9</td>
+<td colspan="5">9</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="3">10. Ежегодный трудовой отпуск, праздничные дни</td>
+<td colspan="5">10</td>
+<td colspan="4">10</td>
+<td colspan="4">10</td>
+<td colspan="4">10</td>
+<td colspan="5">10</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="3">11. Неблагоприятные погодные условия</td>
+<td colspan="5">11</td>
+<td colspan="4">11</td>
+<td colspan="4">11</td>
+<td colspan="4">11</td>
+<td colspan="5">11</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="3">12. Гибкий (скользящий) график</td>
+<td colspan="5">12</td>
+<td colspan="4">12</td>
+<td colspan="4">12</td>
+<td colspan="4">12</td>
+<td colspan="5">12</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="3">13. По семейным (личным) обстоятельствам</td>
+<td colspan="5">13</td>
+<td colspan="4">13</td>
+<td colspan="4">13</td>
+<td colspan="4">13</td>
+<td colspan="5">13</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="3">14. Другое</td>
+<td colspan="5">99</td>
+<td colspan="4">99</td>
+<td colspan="4">99</td>
+<td colspan="4">99</td>
+<td colspan="5">99</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<th colspan="5">39. Почему Вы временно отсутствовали на работе (занятии) на прошлой неделе?</th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="5">1. Ежегодный трудовой отпуск, праздничные дни</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="5">2. По инициативе администрации, работодателя</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">40</td>
+</tr>
+<tr>
+<td colspan="5">3. Отпуск по беременности и родам</td>
+<td colspan="3">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="5">3</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="5">4. Отпуск по уходу за ребенком</td>
+<td colspan="3">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="5">4</td>
+<td colspan="2">41</td>
+</tr>
+<tr>
+<td colspan="5">5. Учебный отпуск, профессиональная подготовка</td>
+<td colspan="3">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="5">5</td>
+<td colspan="2">40</td>
+</tr>
+<tr>
+<td colspan="5">6. По семейным (личным) обстоятельствам</td>
+<td colspan="3">6</td>
+<td colspan="4">6</td>
+<td colspan="4">6</td>
+<td colspan="4">6</td>
+<td colspan="5">6</td>
+<td colspan="2">40</td>
+</tr>
+<tr>
+<td colspan="5">7. По состоянию здоровья</td>
+<td colspan="3">7</td>
+<td colspan="4">7</td>
+<td colspan="4">7</td>
+<td colspan="4">7</td>
+<td colspan="5">7</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="5">8. Работа носит сезонный характер (не сезон)</td>
+<td colspan="3">8</td>
+<td colspan="4">8</td>
+<td colspan="4">8</td>
+<td colspan="4">8</td>
+<td colspan="5">8</td>
+<td colspan="2">40</td>
+</tr>
+<tr>
+<td colspan="5">9. Временная приостановка деятельности (непогода, авария, поломка и другие причины)</td>
+<td colspan="3">9</td>
+<td colspan="4">9</td>
+<td colspan="4">9</td>
+<td colspan="4">9</td>
+<td colspan="5">9</td>
+<td colspan="2">40</td>
+</tr>
+<tr>
+<td colspan="5">10. Вахтовый метод работы, свободный график</td>
+<td colspan="3">10</td>
+<td colspan="4">10</td>
+<td colspan="4">10</td>
+<td colspan="4">10</td>
+<td colspan="5">10</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="5">11. Другое</td>
+<td colspan="3">99</td>
+<td colspan="4">99</td>
+<td colspan="4">99</td>
+<td colspan="4">99</td>
+<td colspan="5">99</td>
+<td colspan="2">40</td>
+</tr>
+<tr>
+<th colspan="5">40. Какова общая продолжительность Вашего отсутствия на рабочем месте на конец прошлой недели?</th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="5">1. Менее 3х месяцев</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="5">2. 3 месяца или более</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">41</td>
+</tr>
+<tr>
+<th colspan="5">41. Получаете ли вы хотя бы 40% вашей зарплаты во время отсутствия на работе?</th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="5">1. Да</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="5">1</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<td colspan="5">2. Нет</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="5">2</td>
+<td colspan="2">42</td>
+</tr>
+<tr>
+<th>3. Дополнительная работа (занятие) в течение прошлой недели</th>
+</tr>
+<tr>
+<th>42. Имели ли Вы, кроме основной работы, другую дополнительную работу, работу в выходные дни, ночное время с целью получения денежного или натурального дохода, хотя бы 1 час на прошлой неделе?</th>
+<th colspan="6"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="5"></th>
 </tr>
 <tr>
 <td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>14</td>
-</tr>
-<tr>
-<td>
-2. Нет
-0070
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>14</td>
-</tr>
-<tr>
-<th>14. Осуществляли ли Вы какую-либо работу дома для получения денежного или натурального дохода, хотя бы 1 час на прошлой неделе (исключая работу на личном подворье)?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>15</td>
-</tr>
-<tr>
-<td>
-2. Нет
-0071
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>15</td>
-</tr>
-<tr>
-<th>15. Выполняли ли Вы какую-либо работу на личном подворье (приусадебном, дачном участке), связанную с производством сельскохозяйственной продукции, хотя бы 1 час на прошлой неделе?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>16</td>
-</tr>
-<tr>
-<td>
-2. Нет
-0072
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>19</td>
-</tr>
-<tr>
-<th>16. Сколько времени Вы были заняты на личном подворье (приусадебном, дачном участке)?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>
-1. Количество дней в неделю
-0073
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>17</td>
-</tr>
-<tr>
-<td>
-2. Количество часов в неделю
-0074
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-</td>
-<td>17</td>
-</tr>
-<tr>
-<td>
-3. 0 (ноль) часов
-0075
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>19</td>
-</tr>
-<tr>
-<td colspan="7">Внимание: Отработанное на личном подворье (приусадебном, дачном участке) время должно включаться в общую сумму всех часов в вопросе 22.</td>
-</tr>
-<tr>
-<th>17. Использовалась ли продукция, полученная на личном подворье (приусадебном, дачном участке), непосредственно или путем переработки?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Только для собственного потребления</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>18</td>
-</tr>
-<tr>
-<td>
-2. Частично для потребления, а также обмена (продажи)
-0076
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>18</td>
-</tr>
-<tr>
-<th>18. Оцените полученные с личного подворья (приусадебного, дачного участка) натуральные продукты, включая обмен и продажу, при их использовании в Вашем потреблении?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Полностью</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>19</td>
-</tr>
-<tr>
-<td>2. Более 50%</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>19</td>
-</tr>
-<tr>
-<td>
-3. Менее 50%
-0077
-</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>19</td>
-</tr>
-<tr>
-<th>19. Выполняли ли Вы, хотя бы 1 час на прошлой неделе, какую-либо работу на личном подворье вашего родственника или знакомого, с целью получения натурального или денежного дохода?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>20</td>
-</tr>
-<tr>
-<td>
-2. Нет
-0078
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>20</td>
-</tr>
-<tr>
-<th>20. Осуществляли ли Вы какую-нибудь работу, связанную с реализацией товаров или оказанием услуг (транспортные, образовательные, медицинские, прочие), хотя бы 1 час на прошлой неделе?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>21</td>
-</tr>
-<tr>
-<td>
-2. Нет
-0079
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>21</td>
-</tr>
-<tr>
-<th>21. Имели ли Вы случайные или временные заработки на прошлой неделе (включая работу через органы занятости населения)?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>22</td>
-</tr>
-<tr>
-<td>
-2. Нет
-0080
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>22</td>
-</tr>
-<tr>
-<td colspan="7">
-Внимание: Если ответили «Нет» на все вопросы 13-21, то следует переходить к вопросу 23.
-Если ответили «Да» хотя бы на один из вопросов 13-21, то следует задать вопрос 22.
-</td>
-</tr>
-<tr>
-<th>22. Сколько времени на прошлой неделе Вы выполняли указанную Вами работу? (показать общую сумму)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>
-1. Количество дней в неделю
-0081
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-2. Количество часов в неделю
-0082
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-</td>
-<td>25</td>
-</tr>
-<tr>
-<td>
-3. 0 (ноль) часов
-0083
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>23</td>
-</tr>
-<tr>
-<td>23. Была ли у Вас на прошлой неделе работа, на которой Вы временно отсутствовали по причине отпуска, болезни, сезонных работ, временной приостановки предпринимательской деятельности, неблагоприятных погодных условий и прочие?</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>24</td>
-</tr>
-<tr>
-<td>
-2. Нет
-0084
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>64</td>
-</tr>
-<tr>
-<td>24. Почему Вы временно отсутствовали на работе (занятии) на прошлой неделе?</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1. Ежегодный трудовой отпуск</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>25</td>
-</tr>
-<tr>
-<td>2. Отпуск без сохранения заработной платы (по инициативе администрации, работодателя)</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>25</td>
-</tr>
-<tr>
-<td>3. Отпуск по беременности и родам; по уходу за ребенком</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>25</td>
-</tr>
-<tr>
-<td>4. Учебный отпуск, профессиональная подготовка</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>25</td>
-</tr>
-<tr>
-<td>5. По семейным (личным) обстоятельствам</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>25</td>
-</tr>
-<tr>
-<td>6. По состоянию здоровья</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>25</td>
-</tr>
-<tr>
-<td>7. Работа носит сезонный характер (не сезон)</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>25</td>
-</tr>
-<tr>
-<td>8. Неблагоприятные погодные условия</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>25</td>
-</tr>
-<tr>
-<td>
-9. Временная приостановка предпринимательской деятельности
-0085
-</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>25</td>
-</tr>
-<tr>
-<th colspan="7">II. Основная деятельность, то есть работа, которая была для Вас основной в течение прошлой недели</th>
-</tr>
-<tr>
-<th>25. Какая из следующих категорий лучше описывает статус Вашей основной деятельности (работы)?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Работа по найму в организации, предприятии</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>26</td>
-</tr>
-<tr>
-<td>2. Работа по найму у отдельных физических лиц</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>26</td>
-</tr>
-<tr>
-<td>3. Работа по найму в крестьянском или фермерском хозяйстве</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>26</td>
-</tr>
-<tr>
-<td>4. Работодатель</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>33</td>
-</tr>
-<tr>
-<td>5. Самостоятельные работники (работающие за свой счет)</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>33</td>
-</tr>
-<tr>
-<td>6. Помогающие (неоплачиваемые) работники семейных предприятий</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>34</td>
-</tr>
-<tr>
-<td>7. Члены кооператива</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>34</td>
-</tr>
-<tr>
-<td>
-8. В личном подсобном хозяйстве
-0086
-</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>34</td>
-</tr>
-<tr>
-<th>26. Были ли Вы приняты на работу по трудовому договору или по договоренности?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. По трудовому договору (письменно)</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>27</td>
-</tr>
-<tr>
-<td>2. По договору гражданско-правового характера (письменно)</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>27</td>
-</tr>
-<tr>
-<td>
-3. По договоренности (устно)
-0087
-</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>27</td>
-</tr>
-<tr>
-<th>27. Перечисляет ли Ваш работодатель отчисления в пенсионный фонд, фонд социального страхования?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>28</td>
+<td colspan="6">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="5">43</td>
 </tr>
 <tr>
 <td>2. Нет</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>28</td>
+<td colspan="6">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="5">59</td>
 </tr>
 <tr>
-<td>3. Не знаю</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>28</td>
+<th colspan="2">43. Сколько часов фактически Вы отработали на вашей дополнительной работе на прошлой неделе?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="4"></th>
 </tr>
 <tr>
-<td>
-4. Возможно
-0088
-</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>28</td>
+<td colspan="2">1. Количество дней в неделю</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<th>28. Предоставляет ли Вам работодатель оплачиваемый годовой отпуск или компенсацию за неиспользованный отпуск?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>29</td>
-</tr>
-<tr>
-<td>2. Нет</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>29</td>
-</tr>
-<tr>
-<td>
-3. Не знаю
-0089
-</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>29</td>
-</tr>
-<tr>
-<th>29. Как Вы считаете, в случае болезни или травмы выплатит ли Вам работодатель социальное пособие по временной нетрудоспособности (на основании больничного листа)?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>30</td>
-</tr>
-<tr>
-<td>2. Нет</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>30</td>
-</tr>
-<tr>
-<td>
-3. Не знаю
-0090
-</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>30</td>
-</tr>
-<tr>
-<th>30. Назовите форму собственности организации, предприятия, где Вы работаете?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Государственная собственность</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>31</td>
-</tr>
-<tr>
-<td>2. Частная собственность</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>31</td>
-</tr>
-<tr>
-<td>
-3. Иностранная собственность
-0091
-</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>31</td>
-</tr>
-<tr>
-<th>31. Ваша основная работа была:</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. По договору на неопределенный срок (постоянная)</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>34</td>
-</tr>
-<tr>
-<td>2. По договору на определенный срок (временная)</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>32</td>
-</tr>
-<tr>
-<td>3. По договору на определенный объем работ</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>32</td>
-</tr>
-<tr>
-<td>4. Случайная</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>32</td>
-</tr>
-<tr>
-<td>
-5. Сезонная
-0092
-</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>32</td>
-</tr>
-<tr>
-<th>32. Почему Ваша работа временная?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Продолжительность работы определена условиями трудового договора</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>34</td>
-</tr>
-<tr>
-<td>2. Продолжительность работы определена устной договоренностью с работодателем (заказчиком работы)</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>34</td>
-</tr>
-<tr>
-<td>3. Продолжительность определена условиями договора на объем работы</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>34</td>
-</tr>
-<tr>
-<td>4. Работа во время практики (учебы, стажировки и тому подобное)</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>34</td>
-</tr>
-<tr>
-<td>5. Нет возможности иметь постоянную работу</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>34</td>
-</tr>
-<tr>
-<td>6. Нет желания иметь постоянную работу</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>34</td>
-</tr>
-<tr>
-<td>7. Устраивает временная работа</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>34</td>
-</tr>
-<tr>
-<td>
-8. Другое ________________
-(указать)
-0093
-</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>34</td>
-</tr>
-<tr>
-<td colspan="7">Внимание: на вопрос 33 отвечают респонденты, отметившие в вопросе 25 коды 4-5</td>
-</tr>
-<tr>
-<th>33. Осуществляли ли Вы свою трудовую деятельность или занимались предпринимательской деятельностью:</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. С наемными работниками, привлекаемыми на постоянной основе</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>34</td>
-</tr>
-<tr>
-<td>2. С наемными работниками, привлекаемыми от случая к случаю</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>34</td>
-</tr>
-<tr>
-<td>
-3. Без наемных работников
-0094
-</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>34</td>
-</tr>
-<tr>
-<th>34. Сколько времени Вы работаете на своей настоящей работе (занятии)?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Менее 6 месяцев</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>35</td>
-</tr>
-<tr>
-<td>2. От 6 до 12 месяцев</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>35</td>
-</tr>
-<tr>
-<td>3. От года до 3 лет</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>35</td>
-</tr>
-<tr>
-<td>4. От 3 до 5 лет</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>35</td>
-</tr>
-<tr>
-<td>
-5. Более 5 лет
-0095
-</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>35</td>
-</tr>
-<tr>
-<th>35. Фактическая продолжительность Вашей рабочей недели на основной работе (если не работал, укажите «0»):</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>
-1. Количество дней в неделю
-0096
-</td>
-<td>
+<td colspan="2">2. Общее количество часов, отработанное за прошлую неделю</td>
+<td colspan="5">
 <em>[Image]</em>
 </td>
-<td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+<td colspan="3">
 <em>[Image]</em>
 </td>
-<td>
+<td colspan="5">
 <em>[Image]</em>
 </td>
-<td></td>
+<td colspan="4">44</td>
 </tr>
 <tr>
-<td>
-2. Количество часов в неделю
-0097
+<th colspan="2">44. Скажите, Ваша дополнительная работа (занятие) была:</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="2">1. Работа по найму в организации, предприятии</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="4">45</td>
+</tr>
+<tr>
+<td colspan="2">2. Работа по найму у отдельных физических лиц</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="4">45</td>
+</tr>
+<tr>
+<td colspan="2">3. Работа по найму в крестьянском или фермерском хозяйстве</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="4">45</td>
+</tr>
+<tr>
+<td colspan="2">4. Работа по договору гражданско-правового характера на оказание услуг</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="5">4</td>
+<td colspan="4">45</td>
+</tr>
+<tr>
+<td colspan="2">5. Самостоятельно занятые</td>
+<td colspan="5">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="5">5</td>
+<td colspan="4">51</td>
+</tr>
+<tr>
+<td colspan="2">6. Работодатель</td>
+<td colspan="5">6</td>
+<td colspan="4">6</td>
+<td colspan="4">6</td>
+<td colspan="3">6</td>
+<td colspan="5">6</td>
+<td colspan="4">51</td>
+</tr>
+<tr>
+<td colspan="2">7. Помогающие (неоплачиваемые) работники семейных предприятий, крестьянских или фермерских хозяйств</td>
+<td colspan="5">7</td>
+<td colspan="4">7</td>
+<td colspan="4">7</td>
+<td colspan="3">7</td>
+<td colspan="5">7</td>
+<td colspan="4">51</td>
+</tr>
+<tr>
+<td colspan="2">8. Члены кооператива</td>
+<td colspan="5">8</td>
+<td colspan="4">8</td>
+<td colspan="4">8</td>
+<td colspan="3">8</td>
+<td colspan="5">8</td>
+<td colspan="4">51</td>
+</tr>
+<tr>
+<td colspan="2">9. В личном подсобном хозяйстве</td>
+<td colspan="5">9</td>
+<td colspan="4">9</td>
+<td colspan="4">9</td>
+<td colspan="3">9</td>
+<td colspan="5">9</td>
+<td colspan="4">51</td>
+</tr>
+<tr>
+<th colspan="2">45. Были ли Вы приняты на дополнительную работу по договору или по договоренности?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="2">1. По письменному договору</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="4">46</td>
+</tr>
+<tr>
+<td colspan="2">2. По устной договоренности</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="4">46</td>
+</tr>
+<tr>
+<td colspan="2">3. По электронному договору с использованием электронно-цифровой подписи.</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="4">46</td>
+</tr>
+<tr>
+<th colspan="2">46. Перечисляет ли Ваш работодатель или вы сами, в дополнительной деятельности, отчисления в пенсионный фонд, фонд социального страхования?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="2">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="4">47</td>
+</tr>
+<tr>
+<td colspan="2">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="4">47</td>
+</tr>
+<tr>
+<td colspan="2">3. Не знаю</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="4">47</td>
+</tr>
+<tr>
+<th colspan="2">47. Предоставляет ли Вам работодатель, в дополнительной деятельности, оплачиваемый годовой отпуск или компенсацию за неиспользованный отпуск?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="2">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="4">48</td>
+</tr>
+<tr>
+<td colspan="2">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="4">48</td>
+</tr>
+<tr>
+<td colspan="2">3. Не знаю</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="4">48</td>
+</tr>
+<tr>
+<th colspan="2">48. Как Вы считаете, в дополнительной деятельности, в случае болезни или травмы выплатит ли Вам работодатель социальное пособие по временной нетрудоспособности (на основании больничного листа)?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="2">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="4">49</td>
+</tr>
+<tr>
+<td colspan="2">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="4">49</td>
+</tr>
+<tr>
+<td colspan="2">3. Не знаю</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="4">49</td>
+</tr>
+<tr>
+<th colspan="2">49. Назовите форму собственности организации, в которой Вы работали дополнительно?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="2">1. Государственная собственность</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="4">50</td>
+</tr>
+<tr>
+<td colspan="2">2. Частная собственность</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="4">50</td>
+</tr>
+<tr>
+<td colspan="2">3. Иностранная собственность</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="4">50</td>
+</tr>
+<tr>
+<th colspan="2">50. Ваша дополнительная работа была:</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="2">1. По договору на неопределенный срок (постоянная)</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="4">51</td>
+</tr>
+<tr>
+<td colspan="2">2. По договору на определенный срок (временная)</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="4">51</td>
+</tr>
+<tr>
+<td colspan="2">3. По договору на определенный объем работ</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="4">51</td>
+</tr>
+<tr>
+<td colspan="2">4. Случайная</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="5">4</td>
+<td colspan="4">51</td>
+</tr>
+<tr>
+<td colspan="2">5. Сезонная</td>
+<td colspan="5">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="5">5</td>
+<td colspan="4">51</td>
+</tr>
+<tr>
+<th colspan="2">51. Ваше рабочее место в дополнительной деятельности:</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="2">1. Собственный дом</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="4">52</td>
+</tr>
+<tr>
+<td colspan="2">2. Дом клиента или работодателя</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="4">54</td>
+</tr>
+<tr>
+<td colspan="2">3. Организация, предприятие, завод, фабрика, магазин, бюро, ателье и другие (отдельно от дома)</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="4">54</td>
+</tr>
+<tr>
+<td colspan="2">4. Ферма или земельный участок</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="5">4</td>
+<td colspan="4">54</td>
+</tr>
+<tr>
+<td colspan="2">5. Строительная площадка</td>
+<td colspan="5">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="5">5</td>
+<td colspan="4">54</td>
+</tr>
+<tr>
+<td colspan="2">6. Открытый рынок или уличный лоток</td>
+<td colspan="5">6</td>
+<td colspan="4">6</td>
+<td colspan="4">6</td>
+<td colspan="3">6</td>
+<td colspan="5">6</td>
+<td colspan="4">54</td>
+</tr>
+<tr>
+<td colspan="2">7. Подсобное хозяйство (личное подворье)</td>
+<td colspan="5">7</td>
+<td colspan="4">7</td>
+<td colspan="4">7</td>
+<td colspan="3">7</td>
+<td colspan="5">7</td>
+<td colspan="4">54</td>
+</tr>
+<tr>
+<td colspan="2">8. Собственное автотранспортное средство</td>
+<td colspan="5">8</td>
+<td colspan="4">8</td>
+<td colspan="4">8</td>
+<td colspan="3">8</td>
+<td colspan="5">8</td>
+<td colspan="4">54</td>
+</tr>
+<tr>
+<td colspan="2">9. Нет постоянного места</td>
+<td colspan="5">9</td>
+<td colspan="4">9</td>
+<td colspan="4">9</td>
+<td colspan="3">9</td>
+<td colspan="5">9</td>
+<td colspan="4">52</td>
+</tr>
+<tr>
+<td colspan="2">10. Другое</td>
+<td colspan="5">99</td>
+<td colspan="4">99</td>
+<td colspan="4">99</td>
+<td colspan="3">99</td>
+<td colspan="5">99</td>
+<td colspan="4">52</td>
+</tr>
+<tr>
+<th colspan="2">52. Является ли Ваша дополнительная работа дистанционной занятостью (работой, осуществляемой вне офиса работодателя с применением в процессе работы информационных и коммуникационных технологий)?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="2">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="4">53</td>
+</tr>
+<tr>
+<td colspan="2">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="4">54</td>
+</tr>
+<tr>
+<th colspan="2">53. Используемые в процессе работы средства коммуникации (средства связи) являются:</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="2">1. Собственными</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="4">54</td>
+</tr>
+<tr>
+<td colspan="2">2. Предоставленными работодателем</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="4">54</td>
+</tr>
+<tr>
+<th colspan="2">54. Дополнительную работу Вы выполняли:</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="2">1. В организации, на предприятии (юридическое лицо)</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="4">55</td>
+</tr>
+<tr>
+<td colspan="2">2. На основе индивидуальной трудовой деятельности (с наймом работников)</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="4">55</td>
+</tr>
+<tr>
+<td colspan="2">3. В крестьянском или фермерском хозяйстве</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="4">55</td>
+</tr>
+<tr>
+<td colspan="2">4. На основе индивидуальной трудовой деятельности (без найма работников)</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="5">4</td>
+<td colspan="4">55</td>
+</tr>
+<tr>
+<td colspan="2">5. По найму в домашнем хозяйстве у частных лиц</td>
+<td colspan="5">5</td>
+<td colspan="4">5</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="5">5</td>
+<td colspan="4">55</td>
+</tr>
+<tr>
+<td colspan="2">6. В личном подсобном хозяйстве</td>
+<td colspan="5">6</td>
+<td colspan="4">6</td>
+<td colspan="4">6</td>
+<td colspan="3">6</td>
+<td colspan="5">6</td>
+<td colspan="4">56</td>
+</tr>
+<tr>
+<th colspan="2">55. Зарегистрирована ли в налоговых органах организация, предпринимательская деятельность, где Вы работали дополнительно?</th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<td colspan="2">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="4">56</td>
+</tr>
+<tr>
+<td colspan="2">2. В стадии оформления регистрации</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="4">56</td>
+</tr>
+<tr>
+<td colspan="2">3. Не знаю</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="4">56</td>
+</tr>
+<tr>
+<td colspan="2">4. Нет</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="5">4</td>
+<td colspan="4">56</td>
+</tr>
+<tr>
+<td colspan="27">
+56. Назовите, пожалуйста, преобладающий вид деятельности организации, индивидуального предпринимательства, в котором Вы работали дополнительно на прошлой неделе?
+(Интервьюер, приведите подробное словесное описание и проставьте код вида экономической деятельности).
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">1 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">2 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">3 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">4 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">5 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>36</td>
 </tr>
 <tr>
-<td>
-3. 0 (ноль) часов
-0098
+<td colspan="23"></td>
+<td colspan="4">57</td>
+</tr>
+<tr>
+<td colspan="27">
+57. Какую должность Вы занимали или по какой профессии работали на вашей дополнительной работе (в чем состояла Ваша дополнительная деятельность)?
+(Интервьюер, приведите подробное словесное описание и проставьте код по Классификатору занятий).
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">1 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">2 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">3 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">4 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">5 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>37</td>
 </tr>
 <tr>
-<td colspan="7">Внимание: на вопрос 36 отвечают респонденты, отметившие в вопросе 35, что на основной работе работали менее 40 часов в неделю. Остальные минуют этот вопрос и переходят к вопросу 38.</td>
+<td colspan="23"></td>
+<td colspan="4">67</td>
 </tr>
 <tr>
-<th>36. Назовите основную причину, по которой Вы работали на основной работе менее 40 часов в неделю:</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<th colspan="27">4. Незанятость. Поиски работы (занятости) в течение 4-х последних недель, экономическая неактивность</th>
 </tr>
 <tr>
-<td>1. Законодательно установленная продолжительность рабочего времени</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>38</td>
+<th colspan="4">58. По какой причине Вы не были заняты на какой либо работе или в какой-либо экономической деятельности на прошедшей неделе?</th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
 </tr>
 <tr>
-<td>2. Не могу найти подходящую работу на полный рабочий день</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>38</td>
+<td colspan="4">1. Увольнение в связи с ликвидацией (банкротством) организации, предприятия</td>
+<td colspan="5">1</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">59</td>
 </tr>
 <tr>
-<td>3. Нет достаточного объема работ</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>38</td>
+<td colspan="4">2. Увольнение в связи с сокращением штата</td>
+<td colspan="5">2</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">59</td>
 </tr>
 <tr>
-<td>4. Уход за ребенком, больным человеком</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>38</td>
+<td colspan="4">3. Увольнение по собственному желанию</td>
+<td colspan="5">3</td>
+<td colspan="3">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="3">59</td>
 </tr>
 <tr>
-<td>5. По состоянию здоровья</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>38</td>
+<td colspan="4">4. Увольнение в связи с окончанием срока договора (соглашения, контракта)</td>
+<td colspan="5">4</td>
+<td colspan="3">4</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="5">4</td>
+<td colspan="3">59</td>
 </tr>
 <tr>
-<td>6. По инициативе администрации, работодателя</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>38</td>
+<td colspan="4">5. Завершение предпринимательской деятельности</td>
+<td colspan="5">5</td>
+<td colspan="3">5</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="5">5</td>
+<td colspan="3">59</td>
 </tr>
 <tr>
-<td>7. Работа неполное время подходит мне</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>38</td>
+<td colspan="4">6. Ведение домашнего хозяйства</td>
+<td colspan="5">6</td>
+<td colspan="3">6</td>
+<td colspan="4">6</td>
+<td colspan="3">6</td>
+<td colspan="5">6</td>
+<td colspan="3">59</td>
 </tr>
 <tr>
-<td>8. Имею другую (вторую) работу</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>38</td>
+<td colspan="4">7. Выход на пенсию</td>
+<td colspan="5">7</td>
+<td colspan="3">7</td>
+<td colspan="4">7</td>
+<td colspan="3">7</td>
+<td colspan="5">7</td>
+<td colspan="3">59</td>
 </tr>
 <tr>
-<td>9. Имею достаточный доход</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>38</td>
+<td colspan="4">8. Отсутствие работы после окончания учебного заведения</td>
+<td colspan="5">8</td>
+<td colspan="3">8</td>
+<td colspan="4">8</td>
+<td colspan="3">8</td>
+<td colspan="5">8</td>
+<td colspan="3">59</td>
 </tr>
 <tr>
-<td>10. Прохожу обучение (в институте, на курсах)</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>38</td>
+<td colspan="4">9. Учеба (очная дневная форма)</td>
+<td colspan="5">9</td>
+<td colspan="3">9</td>
+<td colspan="4">9</td>
+<td colspan="3">9</td>
+<td colspan="5">9</td>
+<td colspan="3">59</td>
 </tr>
 <tr>
-<td>11. Неблагоприятные погодные условия</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>38</td>
+<td colspan="4">10. Нет возможности найти работу</td>
+<td colspan="5">10</td>
+<td colspan="3">10</td>
+<td colspan="4">10</td>
+<td colspan="3">10</td>
+<td colspan="5">10</td>
+<td colspan="3">59</td>
 </tr>
 <tr>
-<td>12. Гибкий (скользящий) график</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>38</td>
+<td colspan="4">11. Нет необходимости работать</td>
+<td colspan="5">11</td>
+<td colspan="3">11</td>
+<td colspan="4">11</td>
+<td colspan="3">11</td>
+<td colspan="5">11</td>
+<td colspan="3">59</td>
 </tr>
 <tr>
-<td>13. Учебный отпуск, профессиональная подготовка</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>38</td>
+<td colspan="4">12. По состоянию здоровья</td>
+<td colspan="5">12</td>
+<td colspan="3">12</td>
+<td colspan="4">12</td>
+<td colspan="3">12</td>
+<td colspan="5">12</td>
+<td colspan="3">59</td>
 </tr>
 <tr>
-<td>14. По семейным (личным) обстоятельствам</td>
-<td>14</td>
-<td>14</td>
-<td>14</td>
-<td>14</td>
-<td>14</td>
-<td>38</td>
+<td colspan="4">13. Работа носит сезонный характер (не сезон)</td>
+<td colspan="5">13</td>
+<td colspan="3">13</td>
+<td colspan="4">13</td>
+<td colspan="3">13</td>
+<td colspan="5">13</td>
+<td colspan="3">59</td>
 </tr>
 <tr>
-<td>
-15. Другое _____________
-(указать)
-0099
+<td colspan="4">14. По семейным (личным) обстоятельствам</td>
+<td colspan="5">14</td>
+<td colspan="3">14</td>
+<td colspan="4">14</td>
+<td colspan="3">14</td>
+<td colspan="5">14</td>
+<td colspan="3">59</td>
+</tr>
+<tr>
+<td colspan="4">15. Отпуск по уходу за ребенком</td>
+<td colspan="5">15</td>
+<td colspan="3">15</td>
+<td colspan="4">15</td>
+<td colspan="3">15</td>
+<td colspan="5">15</td>
+<td colspan="3">59</td>
+</tr>
+<tr>
+<td colspan="4">16. Отпуск без сохранения заработной платы (по инициативе администрации, работодателя)</td>
+<td colspan="5">16</td>
+<td colspan="3">16</td>
+<td colspan="4">16</td>
+<td colspan="3">16</td>
+<td colspan="5">16</td>
+<td colspan="3">59</td>
+</tr>
+<tr>
+<th colspan="4">59. Искали ли Вы работу в течение 4-х последних недель?</th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+</tr>
+<tr>
+<td colspan="4">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">60</td>
+</tr>
+<tr>
+<td colspan="4">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">61</td>
+</tr>
+<tr>
+<td colspan="4">60. Каким образом Вы искали работу (занятие)? (можно указать несколько вариантов)</td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="4">1. Обращался в государственные органы занятости населения</td>
+<td colspan="5">1</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">62</td>
+</tr>
+<tr>
+<td colspan="4">2. Обращался в частные агентства занятости</td>
+<td colspan="5">2</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">62</td>
+</tr>
+<tr>
+<td colspan="4">3. Размещал объявления в печати, Интернете</td>
+<td colspan="5">3</td>
+<td colspan="3">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="3">62</td>
+</tr>
+<tr>
+<td colspan="4">4. Искал через объявления в печати, Интернете</td>
+<td colspan="5">4</td>
+<td colspan="3">4</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="5">4</td>
+<td colspan="3">62</td>
+</tr>
+<tr>
+<td colspan="4">5. Размещал или обновлял Резюме в профессиональных и социальных сетях он-лайн</td>
+<td colspan="5">5</td>
+<td colspan="3">5</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="5">5</td>
+<td colspan="3">62</td>
+</tr>
+<tr>
+<td colspan="4">6. Обращался к друзьям, знакомым, родственникам</td>
+<td colspan="5">6</td>
+<td colspan="3">6</td>
+<td colspan="4">6</td>
+<td colspan="3">6</td>
+<td colspan="5">6</td>
+<td colspan="3">62</td>
+</tr>
+<tr>
+<td colspan="4">7. Контактировал непосредственно с работодателем</td>
+<td colspan="5">7</td>
+<td colspan="3">7</td>
+<td colspan="4">7</td>
+<td colspan="3">7</td>
+<td colspan="5">7</td>
+<td colspan="3">62</td>
+</tr>
+<tr>
+<td colspan="4">8.Искал земельный участок, помещение, оборудование, материалы, сельскохозяйственные инвестиции для открытия собственного бизнеса или фермы</td>
+<td colspan="5">8</td>
+<td colspan="3">8</td>
+<td colspan="4">8</td>
+<td colspan="3">8</td>
+<td colspan="5">8</td>
+<td colspan="3">62</td>
+</tr>
+<tr>
+<td colspan="4">9. Обращался за кредитованием, разрешениями, лицензией для открытия своего дела или фермы</td>
+<td colspan="5">9</td>
+<td colspan="3">9</td>
+<td colspan="4">9</td>
+<td colspan="3">9</td>
+<td colspan="5">9</td>
+<td colspan="3">62</td>
+</tr>
+<tr>
+<td colspan="4">10. Ничего не делал</td>
+<td colspan="5">10</td>
+<td colspan="3">10</td>
+<td colspan="4">10</td>
+<td colspan="3">10</td>
+<td colspan="5">10</td>
+<td colspan="3">62</td>
+</tr>
+<tr>
+<td colspan="4">11. Другое</td>
+<td colspan="5">99</td>
+<td colspan="3">99</td>
+<td colspan="4">99</td>
+<td colspan="3">99</td>
+<td colspan="5">99</td>
+<td colspan="3">62</td>
+</tr>
+<tr>
+<th colspan="4">61. Почему Вы не искали работу в течение последних 4-х недель?</th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+</tr>
+<tr>
+<td colspan="4">1. Получил работу или бизнес и имел договоренность о ее начале в течение 3-х месяцев</td>
+<td colspan="5">1</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">67</td>
+</tr>
+<tr>
+<td colspan="4">2. Я подал резюме и ожидаю ответа</td>
+<td colspan="5">2</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">67</td>
+</tr>
+<tr>
+<td colspan="4">3. Предпринял меры для открытия собственного дела и жду ответа</td>
+<td colspan="5">3</td>
+<td colspan="3">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="3">67</td>
+</tr>
+<tr>
+<td colspan="4">4. Ожидаю начала сезона</td>
+<td colspan="5">4</td>
+<td colspan="3">4</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="5">4</td>
+<td colspan="3">67</td>
+</tr>
+<tr>
+<td colspan="4">5. По состоянию здоровья</td>
+<td colspan="5">5</td>
+<td colspan="3">5</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="5">5</td>
+<td colspan="3">67</td>
+</tr>
+<tr>
+<td colspan="4">6. Не знаю, как и где искать работу</td>
+<td colspan="5">6</td>
+<td colspan="3">6</td>
+<td colspan="4">6</td>
+<td colspan="3">6</td>
+<td colspan="5">6</td>
+<td colspan="3">67</td>
+</tr>
+<tr>
+<td colspan="4">7. Нет работы, соответствующей моей квалификации</td>
+<td colspan="5">7</td>
+<td colspan="3">7</td>
+<td colspan="4">7</td>
+<td colspan="3">7</td>
+<td colspan="5">7</td>
+<td colspan="3">67</td>
+</tr>
+<tr>
+<td colspan="4">8. Отчаялся найти работу после длительных поисков</td>
+<td colspan="5">8</td>
+<td colspan="3">8</td>
+<td colspan="4">8</td>
+<td colspan="3">8</td>
+<td colspan="5">8</td>
+<td colspan="3">67</td>
+</tr>
+<tr>
+<td colspan="4">9. Надо закончить обучение, подготовку или профессиональную переподготовку</td>
+<td colspan="5">9</td>
+<td colspan="3">9</td>
+<td colspan="4">9</td>
+<td colspan="3">9</td>
+<td colspan="5">9</td>
+<td colspan="3">67</td>
+</tr>
+<tr>
+<td colspan="4">10. По семейным (личным) обстоятельствам</td>
+<td colspan="5">10</td>
+<td colspan="3">10</td>
+<td colspan="4">10</td>
+<td colspan="3">10</td>
+<td colspan="5">10</td>
+<td colspan="3">67</td>
+</tr>
+<tr>
+<td colspan="4">11. Выход на пенсию</td>
+<td colspan="5">11</td>
+<td colspan="3">11</td>
+<td colspan="4">11</td>
+<td colspan="3">11</td>
+<td colspan="5">11</td>
+<td colspan="3">67</td>
+</tr>
+<tr>
+<td colspan="4">12. Ведение домашнего хозяйства</td>
+<td colspan="5">12</td>
+<td colspan="3">12</td>
+<td colspan="4">12</td>
+<td colspan="3">12</td>
+<td colspan="5">12</td>
+<td colspan="3">67</td>
+</tr>
+<tr>
+<td colspan="4">13. Имею устраивающую меня работу (вариант ответа только для занятых)</td>
+<td colspan="5">13</td>
+<td colspan="3">13</td>
+<td colspan="4">13</td>
+<td colspan="3">13</td>
+<td colspan="5">13</td>
+<td colspan="3">78</td>
+</tr>
+<tr>
+<th colspan="4">62. Сколько времени Вы искали работу?</th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+</tr>
+<tr>
+<td colspan="4">1. Менее 1 месяца</td>
+<td colspan="5">1</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">63</td>
+</tr>
+<tr>
+<td colspan="4">2. От 1 до 3 месяцев</td>
+<td colspan="5">2</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">63</td>
+</tr>
+<tr>
+<td colspan="4">3. От 3 до 6 месяцев</td>
+<td colspan="5">3</td>
+<td colspan="3">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="3">63</td>
+</tr>
+<tr>
+<td colspan="4">4. От 6 до 12 месяцев</td>
+<td colspan="5">4</td>
+<td colspan="3">4</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="5">4</td>
+<td colspan="3">63</td>
+</tr>
+<tr>
+<td colspan="4">5. От года до 3 лет</td>
+<td colspan="5">5</td>
+<td colspan="3">5</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="5">5</td>
+<td colspan="3">63</td>
+</tr>
+<tr>
+<td colspan="4">6. 3 года или более</td>
+<td colspan="5">6</td>
+<td colspan="3">6</td>
+<td colspan="4">6</td>
+<td colspan="3">6</td>
+<td colspan="5">6</td>
+<td colspan="3">63</td>
+</tr>
+<tr>
+<th colspan="4">63. Работа (доходное занятие), которую Вы искали или нашли, это:</th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+</tr>
+<tr>
+<td colspan="4">1. Работа по найму в организации</td>
+<td colspan="5">1</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">64</td>
+</tr>
+<tr>
+<td colspan="4">2. Работа по найму у отдельных физических лиц</td>
+<td colspan="5">2</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">64</td>
+</tr>
+<tr>
+<td colspan="4">3. Работа по найму в крестьянском или фермерском хозяйстве</td>
+<td colspan="5">3</td>
+<td colspan="3">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="3">64</td>
+</tr>
+<tr>
+<td colspan="4">4. Работа по договору гражданско-правового характера на оказание услуг</td>
+<td colspan="5">4</td>
+<td colspan="3">4</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="5">4</td>
+<td colspan="3">64</td>
+</tr>
+<tr>
+<td colspan="4">5. Самостоятельно занятые</td>
+<td colspan="5">5</td>
+<td colspan="3">5</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="5">5</td>
+<td colspan="3">64</td>
+</tr>
+<tr>
+<td colspan="4">6. Работодатель</td>
+<td colspan="5">6</td>
+<td colspan="3">6</td>
+<td colspan="4">6</td>
+<td colspan="3">6</td>
+<td colspan="5">6</td>
+<td colspan="3">64</td>
+</tr>
+<tr>
+<td colspan="4">7. Помогающие (неоплачиваемые) работники семейных предприятий, крестьянских или фермерских хозяйств</td>
+<td colspan="5">7</td>
+<td colspan="3">7</td>
+<td colspan="4">7</td>
+<td colspan="3">7</td>
+<td colspan="5">7</td>
+<td colspan="3">64</td>
+</tr>
+<tr>
+<td colspan="4">8. Члены кооператива</td>
+<td colspan="5">8</td>
+<td colspan="3">8</td>
+<td colspan="4">8</td>
+<td colspan="3">8</td>
+<td colspan="5">8</td>
+<td colspan="3">64</td>
+</tr>
+<tr>
+<td colspan="4">9. В личном подсобном хозяйстве</td>
+<td colspan="5">9</td>
+<td colspan="3">9</td>
+<td colspan="4">9</td>
+<td colspan="3">9</td>
+<td colspan="5">9</td>
+<td colspan="3">64</td>
+</tr>
+<tr>
+<td colspan="4">10. Любая работа</td>
+<td colspan="5">10</td>
+<td colspan="3">10</td>
+<td colspan="4">10</td>
+<td colspan="3">10</td>
+<td colspan="5">10</td>
+<td colspan="3">64</td>
+</tr>
+<tr>
+<th colspan="4">64. Какой режим работы Вас устраивает?</th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+</tr>
+<tr>
+<td colspan="4">1. Полный</td>
+<td colspan="5">1</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">65</td>
+</tr>
+<tr>
+<td colspan="4">2. Частичный</td>
+<td colspan="5">2</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">65</td>
+</tr>
+<tr>
+<td colspan="4">3. Любой</td>
+<td colspan="5">3</td>
+<td colspan="3">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="3">65</td>
+</tr>
+<tr>
+<th colspan="4">65. Если бы Вам предложили работу сейчас, то смогли бы Вы приступить к ней в течение ближайших 2-х недель?</th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+</tr>
+<tr>
+<td colspan="4">1. Да</td>
+<td colspan="5">1</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">67</td>
+</tr>
+<tr>
+<td colspan="4">2. Нет</td>
+<td colspan="5">2</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">66</td>
+</tr>
+<tr>
+<th colspan="4">66. Почему Вы не могли приступить к работе в течение прошедшей недели или в течение 2-х следующих недель?</th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+</tr>
+<tr>
+<td colspan="4">1. Болезнь или травма, уход за больным</td>
+<td colspan="5">1</td>
+<td colspan="3">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">67</td>
+</tr>
+<tr>
+<td colspan="4">2. Надо закончить обучение, подготовку или профессиональную переподготовку</td>
+<td colspan="5">2</td>
+<td colspan="3">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">67</td>
+</tr>
+<tr>
+<td colspan="4">3. По семейным (личным) обстоятельствам</td>
+<td colspan="5">3</td>
+<td colspan="3">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="3">67</td>
+</tr>
+<tr>
+<td colspan="4">4. Другое</td>
+<td colspan="5">99</td>
+<td colspan="3">99</td>
+<td colspan="4">99</td>
+<td colspan="3">99</td>
+<td colspan="5">99</td>
+<td colspan="3">67</td>
+</tr>
+<tr>
+<th>5. Прошлая деятельность</th>
+</tr>
+<tr>
+<td colspan="27">Внимание: На вопросы раздела V отвечают респонденты, отметившие в вопросе 6 код 2.</td>
+</tr>
+<tr>
+<th colspan="6">67. Работали ли Вы когда-нибудь (имели доходное занятие) до настоящего времени?</th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+</tr>
+<tr>
+<td colspan="6">1. Да</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">68</td>
+</tr>
+<tr>
+<td colspan="6">2. Нет</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">73</td>
+</tr>
+<tr>
+<th colspan="6">68. Сколько времени Вы были без работы (не заняты)?</th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+</tr>
+<tr>
+<td colspan="6">1. Менее 1 месяца</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">69</td>
+</tr>
+<tr>
+<td colspan="6">2. От 1 до 3 месяцев</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">69</td>
+</tr>
+<tr>
+<td colspan="6">3. От 3 до 6 месяцев</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="3">69</td>
+</tr>
+<tr>
+<td colspan="6">4. От 6 до 12 месяцев</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="5">4</td>
+<td colspan="3">69</td>
+</tr>
+<tr>
+<td colspan="6">5. От года до 3 лет</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="5">5</td>
+<td colspan="3">69</td>
+</tr>
+<tr>
+<td colspan="6">6. 3 года или более</td>
+<td colspan="4">6</td>
+<td colspan="3">6</td>
+<td colspan="3">6</td>
+<td colspan="3">6</td>
+<td colspan="5">6</td>
+<td colspan="3">69</td>
+</tr>
+<tr>
+<td colspan="6">7. Никогда не работал</td>
+<td colspan="4">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="5">7</td>
+<td colspan="3">73</td>
+</tr>
+<tr>
+<th colspan="6">69. Почему Вы перестали работать?</th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+</tr>
+<tr>
+<td colspan="6">1. Увольнение в связи с ликвидацией (банкротством) организации, сокращением штата</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">70</td>
+</tr>
+<tr>
+<td colspan="6">2. Увольнение по собственному желанию</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">70</td>
+</tr>
+<tr>
+<td colspan="6">3. Увольнение в связи с окончанием срока договора (соглашения, контракта)</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="3">70</td>
+</tr>
+<tr>
+<td colspan="6">4. Увольнение по другой причине</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="5">4</td>
+<td colspan="3">70</td>
+</tr>
+<tr>
+<td colspan="6">5. Завершение предпринимательской деятельности</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="5">5</td>
+<td colspan="3">70</td>
+</tr>
+<tr>
+<td colspan="6">6. Выход на пенсию</td>
+<td colspan="4">6</td>
+<td colspan="3">6</td>
+<td colspan="3">6</td>
+<td colspan="3">6</td>
+<td colspan="5">6</td>
+<td colspan="3">70</td>
+</tr>
+<tr>
+<td colspan="6">7. По семейным (личным) обстоятельствам</td>
+<td colspan="4">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="5">7</td>
+<td colspan="3">70</td>
+</tr>
+<tr>
+<td colspan="6">8. По состоянию здоровья</td>
+<td colspan="4">8</td>
+<td colspan="3">8</td>
+<td colspan="3">8</td>
+<td colspan="3">8</td>
+<td colspan="5">8</td>
+<td colspan="3">70</td>
+</tr>
+<tr>
+<td colspan="6">9. Работа носит сезонный характер (не сезон)</td>
+<td colspan="4">9</td>
+<td colspan="3">9</td>
+<td colspan="3">9</td>
+<td colspan="3">9</td>
+<td colspan="5">9</td>
+<td colspan="3">70</td>
+</tr>
+<tr>
+<td colspan="6">10. Другое</td>
+<td colspan="4">99</td>
+<td colspan="3">99</td>
+<td colspan="3">99</td>
+<td colspan="3">99</td>
+<td colspan="5">99</td>
+<td colspan="3">70</td>
+</tr>
+<tr>
+<th colspan="6">70. Каким был Ваш статус занятости на последнем рабочем месте?</th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+</tr>
+<tr>
+<td colspan="6">1. Работа по найму в организации</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">71</td>
+</tr>
+<tr>
+<td colspan="6">2. Работа по найму у отдельных физических лиц</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">71</td>
+</tr>
+<tr>
+<td colspan="6">3. Работа по найму в крестьянском или фермерском хозяйстве</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="3">71</td>
+</tr>
+<tr>
+<td colspan="6" rowspan="2">
+4. Работа по договору гражданско-правового характера на оказание услуг
+5. Самостоятельно занятые
 </td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>38</td>
-</tr>
-<tr>
-<th>37. Укажите причину, по которой Вы не работали или не были заняты на основной работе в течение прошлой недели:</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Ежегодный трудовой отпуск</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>38</td>
-</tr>
-<tr>
-<td>2. Отпуск без сохранения заработной платы (по инициативе администрации, работодателя)</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>38</td>
-</tr>
-<tr>
-<td>3. Отпуск по беременности и родам, по уходу за ребенком</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>38</td>
-</tr>
-<tr>
-<td>4. Учебный отпуск, профессиональная подготовка</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>38</td>
-</tr>
-<tr>
-<td>5. По семейным (личным) обстоятельствам</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>38</td>
-</tr>
-<tr>
-<td>6. По состоянию здоровья</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>38</td>
-</tr>
-<tr>
-<td>7. Работа носит сезонный характер (не сезон)</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>38</td>
-</tr>
-<tr>
-<td>
-8. Другое ______________
-(указать)
-0100
+<td colspan="4" rowspan="2">
+4
+5
 </td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>38</td>
-</tr>
-<tr>
-<th>38. Ваше рабочее место:</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Собственный дом</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>39</td>
-</tr>
-<tr>
-<td>2. Дом клиента или работодателя</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>39</td>
-</tr>
-<tr>
-<td>3. Организация, предприятие (отдельно от дома; завод, фабрика, магазин, бюро, ателье и другие)</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>39</td>
-</tr>
-<tr>
-<td>4. Ферма или земельный участок</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>39</td>
-</tr>
-<tr>
-<td>5. Строительная площадка</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>39</td>
-</tr>
-<tr>
-<td>6. Открытый рынок или уличный лоток</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>39</td>
-</tr>
-<tr>
-<td>7. Подсобное хозяйство (личное подворье)</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>39</td>
-</tr>
-<tr>
-<td>8. Собственное автотранспортное средство</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>39</td>
-</tr>
-<tr>
-<td>9. Нет постоянного места</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>39</td>
-</tr>
-<tr>
-<td>
-10. Другое ______________
-(указать)
-0101
+<td colspan="3" rowspan="2">
+4
+5
 </td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>39</td>
-</tr>
-<tr>
-<th>39. Основную работу Вы выполняли:</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. В организации, на предприятии (с правом юридического лица)</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>40</td>
-</tr>
-<tr>
-<td>2. В индивидуальном предприятии (без права юридического лица)</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>40</td>
-</tr>
-<tr>
-<td>3. В крестьянском или фермерском хозяйстве</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>40</td>
-</tr>
-<tr>
-<td>4. На основе индивидуальной трудовой деятельности</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>40</td>
-</tr>
-<tr>
-<td>5. По найму в домашнем хозяйстве у частных лиц (вид экономической деятельности – 97)</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>41</td>
-</tr>
-<tr>
-<td>
-6. В личном подсобном хозяйстве
-0102
+<td colspan="3" rowspan="2">
+4
+5
 </td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>41</td>
-</tr>
-<tr>
-<th>40. Зарегистрирована ли организация (предприятие), в которой Вы работали?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>41</td>
-</tr>
-<tr>
-<td>2. В стадии оформления регистрации</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>41</td>
-</tr>
-<tr>
-<td>3. Не знаю</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>41</td>
-</tr>
-<tr>
-<td>
-4. Нет
-0103
+<td colspan="3" rowspan="2">
+4
+5
 </td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>41</td>
-</tr>
-<tr>
-<th>41. Сколько человек работало на производственной единице (организации, предприятии, на личном подворье, приусадебном (дачном участке)) в котором Вы работали, включая Вас?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Не более 5 человек</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>42</td>
-</tr>
-<tr>
-<td>2. От 6 до 10 человек</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>42</td>
-</tr>
-<tr>
-<td>3. От 11 до 20 человек</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>42</td>
-</tr>
-<tr>
-<td>4. От 21 до 50 человек</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>42</td>
-</tr>
-<tr>
-<td>5. От 51 до 250 человек</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>42</td>
-</tr>
-<tr>
-<td>6. От 251 до 500 человек</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>42</td>
-</tr>
-<tr>
-<td>
-7. От 501 человек и выше
-0104
+<td colspan="5" rowspan="2">
+4
+5
 </td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>42</td>
+<td colspan="3">71</td>
 </tr>
 <tr>
-<td colspan="7">
-42. Назовите, пожалуйста, преобладающий вид деятельности организации, предприятия, в котором Вы работали на прошлой неделе.
-(Приведите подробное словесное описание)
+<td colspan="3">71</td>
+</tr>
+<tr>
+<td colspan="6">6. Работодатель</td>
+<td colspan="4">6</td>
+<td colspan="3">6</td>
+<td colspan="3">6</td>
+<td colspan="3">6</td>
+<td colspan="5">6</td>
+<td colspan="3">71</td>
+</tr>
+<tr>
+<td colspan="6">7. Помогающие (неоплачиваемые) работники семейных предприятий, крестьянских или фермерских хозяйств</td>
+<td colspan="4">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="5">7</td>
+<td colspan="3">71</td>
+</tr>
+<tr>
+<td colspan="6">8. Члены кооператива</td>
+<td colspan="4">8</td>
+<td colspan="3">8</td>
+<td colspan="3">8</td>
+<td colspan="3">8</td>
+<td colspan="5">8</td>
+<td colspan="3">71</td>
+</tr>
+<tr>
+<td colspan="6">9. В личном подсобном хозяйстве</td>
+<td colspan="4">9</td>
+<td colspan="3">9</td>
+<td colspan="3">9</td>
+<td colspan="3">9</td>
+<td colspan="5">9</td>
+<td colspan="3">71</td>
+</tr>
+<tr>
+<td colspan="27">
+71. Назовите, пожалуйста, преобладающий вид деятельности организации, предприятия, в котором Вы работали на последнем рабочем месте?
+(Интервьюер, приведите подробное словесное описание и проставьте код вида экономической деятельности).
 </td>
 </tr>
 <tr>
-<td colspan="7">1 респондент</td>
-</tr>
-<tr>
-<td colspan="7">2 респондент</td>
-</tr>
-<tr>
-<td colspan="7">3 респондент</td>
-</tr>
-<tr>
-<td colspan="7">4 респондент</td>
-</tr>
-<tr>
-<td colspan="7">5 респондент</td>
-</tr>
-<tr>
-<td>1. Сельское, лесное и рыбное хозяйство</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>43</td>
-</tr>
-<tr>
-<td>2. Горнодобывающая промышленность и разработка карьеров</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>43</td>
-</tr>
-<tr>
-<td>3. Обрабатывающая промышленность</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>43</td>
-</tr>
-<tr>
-<td>4. Электроснабжение, подача газа, пара и воздушное кондиционирование</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>43</td>
-</tr>
-<tr>
-<td>5. Водоснабжение; канализационная система, контроль над сбором и распределением отходов</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>43</td>
-</tr>
-<tr>
-<td>6. Строительство</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>43</td>
-</tr>
-<tr>
-<td>7. Оптовая и розничная торговля; ремонт автомобилей и мотоциклов</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>43</td>
-</tr>
-<tr>
-<td>8. Транспорт и складирование</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>43</td>
-</tr>
-<tr>
-<td>9. Услуги по проживанию и питанию</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>43</td>
-</tr>
-<tr>
-<td>10. Информация и связь</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>43</td>
-</tr>
-<tr>
-<td>11. Финансовая и страховая деятельность</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>43</td>
-</tr>
-<tr>
-<td>12. Операции с недвижимым имуществом</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>43</td>
-</tr>
-<tr>
-<td>13. Профессиональная, научная и техническая деятельность</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>43</td>
-</tr>
-<tr>
-<td>14. Деятельность в области административного и вспомогательного обслуживания</td>
-<td>14</td>
-<td>14</td>
-<td>14</td>
-<td>14</td>
-<td>14</td>
-<td>43</td>
-</tr>
-<tr>
-<td>15. Государственное управление и оборона; обязательное социальное обеспечение</td>
-<td>15</td>
-<td>15</td>
-<td>15</td>
-<td>15</td>
-<td>15</td>
-<td>43</td>
-</tr>
-<tr>
-<td>16. Образование</td>
-<td>16</td>
-<td>16</td>
-<td>16</td>
-<td>16</td>
-<td>16</td>
-<td>43</td>
-</tr>
-<tr>
-<td>17. Здравоохранение и социальные услуги</td>
-<td>17</td>
-<td>17</td>
-<td>17</td>
-<td>17</td>
-<td>17</td>
-<td>43</td>
-</tr>
-<tr>
-<td>18. Искусство, развлечения и отдых</td>
-<td>18</td>
-<td>18</td>
-<td>18</td>
-<td>18</td>
-<td>18</td>
-<td>43</td>
-</tr>
-<tr>
-<td>19. Предоставление прочих видов услуг</td>
-<td>19</td>
-<td>19</td>
-<td>19</td>
-<td>19</td>
-<td>19</td>
-<td>43</td>
-</tr>
-<tr>
-<td>20. Деятельность домашних хозяйств, нанимающих домашнюю прислугу и производящих товары и услуги для собственного потребления</td>
-<td>20</td>
-<td>20</td>
-<td>20</td>
-<td>20</td>
-<td>20</td>
-<td>43</td>
-</tr>
-<tr>
-<td>21. Деятельность экстерриториальных организаций и органов</td>
-<td>21</td>
-<td>21</td>
-<td>21</td>
-<td>21</td>
-<td>21</td>
-<td>43</td>
-</tr>
-<tr>
-<td>
-Интервьюер, проставьте код вида экономической деятельности5
-0105
-</td>
-<td>
+<td colspan="23">1 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">2 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">3 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">4 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">5 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>43</td>
 </tr>
 <tr>
-<td colspan="7">
-43. Какую должность Вы занимали или по какой профессии работали на прошлой неделе (в чем состояла Ваша деятельность)?
-(Приведите подробное словесное описание)
+<td colspan="24"></td>
+<td colspan="3">72</td>
+</tr>
+<tr>
+<td colspan="27">
+72. По какой профессии Вы работали или какую должность занимали на последнем месте работы?
+(Интервьюер, приведите подробное словесное описание и проставьте код по Классификатору занятий).
 </td>
 </tr>
 <tr>
-<td colspan="7">1 респондент</td>
-</tr>
-<tr>
-<td colspan="7">2 респондент</td>
-</tr>
-<tr>
-<td colspan="7">3 респондент</td>
-</tr>
-<tr>
-<td colspan="7">4 респондент</td>
-</tr>
-<tr>
-<td colspan="7">5 респондент</td>
-</tr>
-<tr>
-<td>
-Интервьюер, проставьте код по Классификатору занятий6
-0106
-</td>
-<td>
+<td colspan="23">1 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">2 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">3 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">4 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>
+</tr>
+<tr>
+<td colspan="23">5 респондент</td>
+<td colspan="4">
 <em>[Image]</em>
 </td>
-<td>44</td>
 </tr>
 <tr>
-<th>44. Ваша работа находится на территории:</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td colspan="24"></td>
+<td colspan="3">73</td>
 </tr>
 <tr>
-<td>1. Места проживания</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>45</td>
+<th>6. Регистрация в органе занятости населения</th>
 </tr>
 <tr>
-<td>2. Областного центра</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>45</td>
+<td colspan="27">Внимание: На вопросы раздела VI отвечают респонденты в трудоспособном возрасте: от 16 до 58 лет (женщины), от 16 до 63 лет (мужчины).</td>
 </tr>
 <tr>
-<td>3. На территории этой же области</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>45</td>
+<th colspan="6">73. Состояли ли Вы на учете в органе занятости населения в качестве безработного на прошлой неделе?</th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
 </tr>
 <tr>
-<td>4. Другой области</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>45</td>
+<td colspan="6">1. Да</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">74</td>
 </tr>
 <tr>
-<td>
-5. Другого государства
-0107
+<td colspan="6">2. Нет</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">75</td>
+</tr>
+<tr>
+<th colspan="6">74. Почему Вы были зарегистрированы в качестве безработного?</th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+</tr>
+<tr>
+<td colspan="6">1. Поиск места работы</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">76</td>
+</tr>
+<tr>
+<td colspan="6">2. Желание получить профессиональную подготовку</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">76</td>
+</tr>
+<tr>
+<td colspan="6">3. Другое</td>
+<td colspan="4">99</td>
+<td colspan="3">99</td>
+<td colspan="3">99</td>
+<td colspan="3">99</td>
+<td colspan="5">99</td>
+<td colspan="3">76</td>
+</tr>
+<tr>
+<th colspan="6">75. Почему Вы не состоите на учете в органе занятости населения в качестве безработного?</th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+</tr>
+<tr>
+<td colspan="6">1. Имею работу и мне не нужна другая работа</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">76</td>
+</tr>
+<tr>
+<td colspan="6">2. Не знал о существовании службы занятости</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">76</td>
+</tr>
+<tr>
+<td colspan="6">3. Не уверен, что помогут с трудоустройством</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="3">76</td>
+</tr>
+<tr>
+<td colspan="6">4. Слишком сложная процедура оформления</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="5">4</td>
+<td colspan="3">76</td>
+</tr>
+<tr>
+<td colspan="6">5. Отсутствие средств на транспортные расходы (далеко ехать)</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="5">5</td>
+<td colspan="3">76</td>
+</tr>
+<tr>
+<td colspan="6">6. Имею иной источник средств существования</td>
+<td colspan="4">6</td>
+<td colspan="3">6</td>
+<td colspan="3">6</td>
+<td colspan="3">6</td>
+<td colspan="5">6</td>
+<td colspan="3">76</td>
+</tr>
+<tr>
+<td colspan="6">7. Не могу работать по семейным/личным причинам или по состоянию здоровья</td>
+<td colspan="4">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="5">7</td>
+<td colspan="3">76</td>
+</tr>
+<tr>
+<td colspan="6">8. Другое</td>
+<td colspan="4">99</td>
+<td colspan="3">99</td>
+<td colspan="3">99</td>
+<td colspan="3">99</td>
+<td colspan="5">99</td>
+<td colspan="3">76</td>
+</tr>
+<tr>
+<th colspan="6">76. Имеете ли Вы профессию или специальность?</th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+</tr>
+<tr>
+<td colspan="6">1. Да</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">77</td>
+</tr>
+<tr>
+<td colspan="6">2. Нет</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">77</td>
+</tr>
+<tr>
+<th colspan="6">77. Хотели бы Вы пройти обучение или получить другую специальность (профессию), включая обучение через органы занятости населения?</th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+</tr>
+<tr>
+<td colspan="6">1. Да</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">78</td>
+</tr>
+<tr>
+<td colspan="6">2. Нет</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">78</td>
+</tr>
+<tr>
+<th>7. Источники средств существования</th>
+</tr>
+<tr>
+<td colspan="6">78. Какой источник средств существования (дохода) Вы имели в прошлом месяце? (можно указать несколько вариантов)</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="6">1. Работа по найму (заработная плата)</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">81</td>
+</tr>
+<tr>
+<td colspan="6">2. Самостоятельно занятые</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">79</td>
+</tr>
+<tr>
+<td colspan="6">3. Пенсия</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="3">79</td>
+</tr>
+<tr>
+<td colspan="6">4. Стипендия</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="5">4</td>
+<td colspan="3">79</td>
+</tr>
+<tr>
+<td colspan="6">5. Социальная помощь (пособия)</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="5">5</td>
+<td colspan="3">79</td>
+</tr>
+<tr>
+<td colspan="6">6. Продукты с личного подворья (приусадебного, дачного участка)</td>
+<td colspan="4">6</td>
+<td colspan="3">6</td>
+<td colspan="3">6</td>
+<td colspan="3">6</td>
+<td colspan="5">6</td>
+<td colspan="3">79</td>
+</tr>
+<tr>
+<td colspan="6">7. Доход от собственности (сдача жилья и другой недвижимости в наем, ценные бумаги, дивиденды, проценты и другое)</td>
+<td colspan="4">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="5">7</td>
+<td colspan="3">79</td>
+</tr>
+<tr>
+<td colspan="6">8. Денежные переводы от членов семьи, живущих или работающих за рубежом</td>
+<td colspan="4">8</td>
+<td colspan="3">8</td>
+<td colspan="3">8</td>
+<td colspan="3">8</td>
+<td colspan="5">8</td>
+<td colspan="3">79</td>
+</tr>
+<tr>
+<td colspan="6">9. Другая материальная помощь от родных или близких (на иждивении)</td>
+<td colspan="4">9</td>
+<td colspan="3">9</td>
+<td colspan="3">9</td>
+<td colspan="3">9</td>
+<td colspan="5">9</td>
+<td colspan="3">79</td>
+</tr>
+<tr>
+<td colspan="6">10. Другое</td>
+<td colspan="4">99</td>
+<td colspan="3">99</td>
+<td colspan="3">99</td>
+<td colspan="3">99</td>
+<td colspan="5">99</td>
+<td colspan="3">79</td>
+</tr>
+<tr>
+<td colspan="27">Внимание: На вопрос 79 отвечают респонденты, отметившие в вопросе 16 коды с 5 по 9.</td>
+</tr>
+<tr>
+<td colspan="6">79. Укажите сумму совокупного дохода (в денежной или натуральной форме), полученного Вами за последний месяц:</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="6">1. 0 (отсутствие дохода)</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">81</td>
+</tr>
+<tr>
+<td colspan="6">2. от 1 тенге до 1 ВПМ5</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">80</td>
+</tr>
+<tr>
+<td colspan="6">3. от 1 ВПМ до 2 ВПМ</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="3">80</td>
+</tr>
+<tr>
+<td colspan="6">4. от 2 ВПМ до 60 000 тенге</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="5">4</td>
+<td colspan="3">80</td>
+</tr>
+<tr>
+<td colspan="6">5. от 60 001 до 80 000 тенге</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="5">5</td>
+<td colspan="3">80</td>
+</tr>
+<tr>
+<td colspan="6">6. от 80 001 до 100 000 тенге</td>
+<td colspan="4">6</td>
+<td colspan="3">6</td>
+<td colspan="3">6</td>
+<td colspan="3">6</td>
+<td colspan="5">6</td>
+<td colspan="3">80</td>
+</tr>
+<tr>
+<td colspan="6">7. от 100 001 до 150 000 тенге</td>
+<td colspan="4">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="5">7</td>
+<td colspan="3">80</td>
+</tr>
+<tr>
+<td colspan="6">8. от 150 001 до 200 000 тенге</td>
+<td colspan="4">8</td>
+<td colspan="3">8</td>
+<td colspan="3">8</td>
+<td colspan="3">8</td>
+<td colspan="5">8</td>
+<td colspan="3">80</td>
+</tr>
+<tr>
+<td colspan="6">9. от 200 001 до 250 000 тенге</td>
+<td colspan="4">9</td>
+<td colspan="3">9</td>
+<td colspan="3">9</td>
+<td colspan="3">9</td>
+<td colspan="5">9</td>
+<td colspan="3">80</td>
+</tr>
+<tr>
+<td colspan="6">10. от 250 001 до 300 000 тенге</td>
+<td colspan="4">10</td>
+<td colspan="3">10</td>
+<td colspan="3">10</td>
+<td colspan="3">10</td>
+<td colspan="5">10</td>
+<td colspan="3">80</td>
+</tr>
+<tr>
+<td colspan="6">11. от 300 001 до 400 000 тенге</td>
+<td colspan="4">11</td>
+<td colspan="3">11</td>
+<td colspan="3">11</td>
+<td colspan="3">11</td>
+<td colspan="5">11</td>
+<td colspan="3">80</td>
+</tr>
+<tr>
+<td colspan="6">12. от 400 001 до 500 000 тенге</td>
+<td colspan="4">12</td>
+<td colspan="3">12</td>
+<td colspan="3">12</td>
+<td colspan="3">12</td>
+<td colspan="5">12</td>
+<td colspan="3">80</td>
+</tr>
+<tr>
+<td colspan="6">13. свыше 500 000 тенге</td>
+<td colspan="4">13</td>
+<td colspan="3">13</td>
+<td colspan="3">13</td>
+<td colspan="3">13</td>
+<td colspan="5">13</td>
+<td colspan="3">80</td>
+</tr>
+<tr>
+<td colspan="27">Внимание: На вопрос 80 отвечают респонденты, отметившие в вопросе 78 код 2 «Самостоятельная занятость (предпринимательский доход)». Остальные минуют этот вопрос и переходят к вопросу 81.</td>
+</tr>
+<tr>
+<th colspan="6">80. Оцените долю дохода от самостоятельной занятости в совокупном доходе (в денежной или натуральной форме), полученном Вами за последний месяц:</th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
+</tr>
+<tr>
+<td colspan="6">1. не более 25%</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">81</td>
+</tr>
+<tr>
+<td colspan="6">2. от 26% до 50%</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">81</td>
+</tr>
+<tr>
+<td colspan="27">
+Примечание:
+5Здесь и далее ВПМ – величина прожиточного минимума.
 </td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>45</td>
 </tr>
 <tr>
-<th>45. Работаете ли Вы по специальности, полученной в результате обучения?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td colspan="6">50%</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="3">81</td>
 </tr>
 <tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>46</td>
+<td colspan="6">от 51% до 75%</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="5">4</td>
+<td colspan="3">81</td>
 </tr>
 <tr>
-<td>
-2 .Нет
-3. Не обучался
-0108
-</td>
-<td>
-2
-3
-</td>
-<td>
-2
-3
-</td>
-<td>
-2
-3
-</td>
-<td>
-2
-3
-</td>
-<td>
-2
-3
-</td>
-<td>
-46
-46
-</td>
+<td colspan="6">от 76% до 100%</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="5">5</td>
+<td colspan="3">81</td>
 </tr>
 <tr>
-<th>46. Соответствует ли выполняемая Вами работа Вашей квалификации?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td colspan="27">Внимание: Вопрос 81 заполняется Интервьюером.</td>
 </tr>
 <tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>47</td>
+<th colspan="6">81. Кто отвечал на вопросы?</th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
 </tr>
 <tr>
-<td>2. Нет, она ниже моей квалификации</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>47</td>
+<td colspan="6">1. Респондент сам (сама)</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">82</td>
 </tr>
 <tr>
-<td>
-3. Нет, она выше моей квалификации
-0109
-</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>47</td>
+<td colspan="6">2. Другой член домашнего хозяйства</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">82</td>
 </tr>
 <tr>
-<th colspan="7">III. Дополнительная работа (занятие) в течение прошлой недели</th>
+<td colspan="27">Внимание: На вопрос 82 отвечаю все респонденты.</td>
 </tr>
 <tr>
-<th>47. Имели ли Вы, кроме основной работы, другую дополнительную работу или занятие с целью получения денежного или натурального дохода, хотя бы 1 час на прошлой неделе?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<th colspan="6">82. Какой у Вас уровень компьютерной грамотности?</th>
+<th colspan="4"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="3"></th>
+<th colspan="5"></th>
+<th colspan="3"></th>
 </tr>
 <tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>48</td>
+<td colspan="6">1. Нет навыков</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">конец</td>
 </tr>
 <tr>
-<td>
-2. Нет
-0110
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>62</td>
+<td colspan="6">2. Начинающий пользователь</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="5">2</td>
+<td colspan="3">опроса</td>
 </tr>
 <tr>
-<th>48. Какова была продолжительность Вашей дополнительной работы (занятия)?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td colspan="6">3. Обычный пользователь</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="5">3</td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>
-1. Количество дней в неделю
-0111
-</td>
-<td>
-<table>
-<tr>
-<td></td>
+<td colspan="6">4. Опытный пользователь</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="5">4</td>
+<td colspan="3"></td>
 </tr>
 </table>
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td>
-<table>
-<tr>
-<td></td>
-</tr>
-</table>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-2. Количество часов в неделю
-0112
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>49</td>
-</tr>
-<tr>
-<th>49. Скажите, Ваша дополнительная работа (занятие) была:</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Работа по найму в организации, предприятии</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>50</td>
-</tr>
-<tr>
-<td>2. Работа по найму у отдельных физических лиц</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>50</td>
-</tr>
-<tr>
-<td>3. Работа по найму в крестьянском или фермерском хозяйстве</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>50</td>
-</tr>
-<tr>
-<td>4. Работодатель</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>56</td>
-</tr>
-<tr>
-<td>5. Самостоятельные работники (работающие за свой счет)</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>56</td>
-</tr>
-<tr>
-<td>6. Помогающие (неоплачиваемые) работники семейных предприятий</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>56</td>
-</tr>
-<tr>
-<td>7. Члены кооператива</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>56</td>
-</tr>
-<tr>
-<td>
-8. В личном подсобном хозяйстве
-0113
-</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>56</td>
-</tr>
-<tr>
-<th>50. Были ли Вы приняты на дополнительную работу по трудовому договору или по договоренности?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. По трудовому договору (письменно)</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>51</td>
-</tr>
-<tr>
-<td>2. По договору гражданско-правового характера (письменно)</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>51</td>
-</tr>
-<tr>
-<td>
-3. По договоренности (устно)
-0114
-</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>51</td>
-</tr>
-<tr>
-<th>51. Перечисляет ли Ваш работодатель, в дополнительной деятельности, отчисления в пенсионный фонд, фонд социального страхования?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>52</td>
-</tr>
-<tr>
-<td>2. Нет</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>52</td>
-</tr>
-<tr>
-<td>3. Не знаю</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>52</td>
-</tr>
-<tr>
-<td>
-4. Возможно
-0115
-</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>52</td>
-</tr>
-<tr>
-<th>52. Предоставляет ли Вам работодатель, в дополнительной деятельности, оплачиваемый годовой отпуск или компенсацию за неиспользованный отпуск?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>53</td>
-</tr>
-<tr>
-<td>2. Нет</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>53</td>
-</tr>
-<tr>
-<td>
-3. Не знаю
-0116
-</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>53</td>
-</tr>
-<tr>
-<th>53. Как Вы считаете, в дополнительной деятельности, в случае болезни или травмы выплатит ли Вам работодатель социальное пособие по временной нетрудоспособности (на основании больничного листа)?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>54</td>
-</tr>
-<tr>
-<td>2. Нет</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>54</td>
-</tr>
-<tr>
-<td>
-3. Не знаю
-0117
-</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>54</td>
-</tr>
-<tr>
-<th>54. Назовите форму собственности организации, предприятия, в котором Вы работали дополнительно?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Государственная собственность</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>55</td>
-</tr>
-<tr>
-<td>2. Частная собственность</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>55</td>
-</tr>
-<tr>
-<td>3. Иностранная собственность</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>55</td>
-</tr>
-<tr>
-<th>0118</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th>55. Ваша дополнительная работа была:</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. По договору на неопределенный срок (постоянная)</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>56</td>
-</tr>
-<tr>
-<td>2. По договору на определенный срок (временная)</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>56</td>
-</tr>
-<tr>
-<td>3. По договору на определенный объем работ</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>56</td>
-</tr>
-<tr>
-<td>4. Случайная</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>56</td>
-</tr>
-<tr>
-<td>
-5. Сезонная
-0119
-</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>56</td>
-</tr>
-<tr>
-<th>56. Ваше рабочее место в дополнительной деятельности:</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Собственный дом</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>57</td>
-</tr>
-<tr>
-<td>2. Дом клиента или работодателя</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>57</td>
-</tr>
-<tr>
-<td>3. Организация, предприятие (отдельно от дома; завод, фабрика, магазин, бюро, ателье и другие)</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>57</td>
-</tr>
-<tr>
-<td>4. Ферма или земельный участок</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>57</td>
-</tr>
-<tr>
-<td>5. Строительная площадка</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>57</td>
-</tr>
-<tr>
-<td>6. Открытый рынок или уличный лоток</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>57</td>
-</tr>
-<tr>
-<td>7. Подсобное хозяйство (личное подворье)</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>57</td>
-</tr>
-<tr>
-<td>8. Собственное автотранспортное средство</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>57</td>
-</tr>
-<tr>
-<td>9. Нет постоянного места</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>57</td>
-</tr>
-<tr>
-<td>
-10. Другое ______________
-(указать)
-0120
-</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>57</td>
-</tr>
-<tr>
-<th>57. Дополнительную работу Вы выполняли:</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. В организации, на предприятии (с правом юридического лица)</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>58</td>
-</tr>
-<tr>
-<td>2. В индивидуальном предприятии (без права юридического лица)</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>58</td>
-</tr>
-<tr>
-<td>3. В крестьянском или фермерском хозяйстве</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>58</td>
-</tr>
-<tr>
-<td>4. На основе индивидуальной трудовой деятельности</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>58</td>
-</tr>
-<tr>
-<td>5. По найму в домашнем хозяйстве у частных лиц (вид экономической деятельности – 97)</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>59</td>
-</tr>
-<tr>
-<td>
-6. В личном подсобном хозяйстве
-0121
-</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>59</td>
-</tr>
-<tr>
-<th>58. Зарегистрирована ли организация (предприятие), в которой Вы работали дополнительно?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>59</td>
-</tr>
-<tr>
-<td>2. В стадии оформления регистрации</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>59</td>
-</tr>
-<tr>
-<td>3. Не знаю</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>59</td>
-</tr>
-<tr>
-<td>
-4. Нет
-0122
-</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>59</td>
-</tr>
-<tr>
-<td colspan="7">
-59. Назовите, пожалуйста, преобладающий вид деятельности организации, предприятия, в котором Вы работали дополнительно?
-(Приведите подробное словесное описание)
-</td>
-</tr>
-<tr>
-<td colspan="7">1 респондент</td>
-</tr>
-<tr>
-<td colspan="7">2 респондент</td>
-</tr>
-<tr>
-<td colspan="7">3 респондент</td>
-</tr>
-<tr>
-<td colspan="7">4 респондент</td>
-</tr>
-<tr>
-<td colspan="7">5 респондент</td>
-</tr>
-<tr>
-<td>1. Сельское, лесное и рыбное хозяйство</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>60</td>
-</tr>
-<tr>
-<td>2. Горнодобывающая промышленность и разработка карьеров</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>60</td>
-</tr>
-<tr>
-<td>3. Обрабатывающая промышленность</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>60</td>
-</tr>
-<tr>
-<td>4. Электроснабжение, подача газа, пара и воздушное кондиционирование</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>60</td>
-</tr>
-<tr>
-<td>5. Водоснабжение; канализационная система, контроль над сбором и распределением отходов</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>60</td>
-</tr>
-<tr>
-<td>6. Строительство</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>60</td>
-</tr>
-<tr>
-<td>7. Оптовая и розничная торговля; ремонт автомобилей и мотоциклов</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>60</td>
-</tr>
-<tr>
-<td>8. Транспорт и складирование</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>60</td>
-</tr>
-<tr>
-<td>9. Услуги по проживанию и питанию</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>60</td>
-</tr>
-<tr>
-<td>10. Информация и связь</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>60</td>
-</tr>
-<tr>
-<td>11. Финансовая и страховая деятельность</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>60</td>
-</tr>
-<tr>
-<td>12. Операции с недвижимым имуществом</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>60</td>
-</tr>
-<tr>
-<td>13. Профессиональная, научная и техническая деятельность</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>60</td>
-</tr>
-<tr>
-<td>14. Деятельность в области административного и вспомогательного обслуживания</td>
-<td>14</td>
-<td>14</td>
-<td>14</td>
-<td>14</td>
-<td>14</td>
-<td>60</td>
-</tr>
-<tr>
-<td>15. Государственное управление и оборона; обязательное социальное обеспечение</td>
-<td>15</td>
-<td>15</td>
-<td>15</td>
-<td>15</td>
-<td>15</td>
-<td>60</td>
-</tr>
-<tr>
-<td>16. Образование</td>
-<td>16</td>
-<td>16</td>
-<td>16</td>
-<td>16</td>
-<td>16</td>
-<td>60</td>
-</tr>
-<tr>
-<td>17. Здравоохранение и социальные услуги</td>
-<td>17</td>
-<td>17</td>
-<td>17</td>
-<td>17</td>
-<td>17</td>
-<td>60</td>
-</tr>
-<tr>
-<td>18. Искусство, развлечения и отдых</td>
-<td>18</td>
-<td>18</td>
-<td>18</td>
-<td>18</td>
-<td>18</td>
-<td>60</td>
-</tr>
-<tr>
-<td>19. Предоставление прочих видов услуг</td>
-<td>19</td>
-<td>19</td>
-<td>19</td>
-<td>19</td>
-<td>19</td>
-<td>60</td>
-</tr>
-<tr>
-<td>20. Деятельность домашних хозяйств, нанимающих домашнюю прислугу и производящих товары и услуги для собственного потребления</td>
-<td>20</td>
-<td>20</td>
-<td>20</td>
-<td>20</td>
-<td>20</td>
-<td>60</td>
-</tr>
-<tr>
-<td>21. Деятельность экстерриториальных организаций и органов</td>
-<td>21</td>
-<td>21</td>
-<td>21</td>
-<td>21</td>
-<td>21</td>
-<td>60</td>
-</tr>
-<tr>
-<td>
-Интервьюер, проставьте код вида экономической деятельности
-0123
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>60</td>
-</tr>
-<tr>
-<td colspan="7">
-60. Какую должность Вы занимали или по какой профессии работали дополнительно (в чем состояла Ваша дополнительная деятельность)?
-(Приведите подробное словесное описание)
-</td>
-</tr>
-<tr>
-<td colspan="7">1 респондент</td>
-</tr>
-<tr>
-<td colspan="7">2 респондент</td>
-</tr>
-<tr>
-<td colspan="7">3 респондент</td>
-</tr>
-<tr>
-<td colspan="7">4 респондент</td>
-</tr>
-<tr>
-<td colspan="7">5 респондент</td>
-</tr>
-<tr>
-<td>
-Интервьюер, проставьте код по Классификатору занятий
-0124
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>61</td>
-</tr>
-<tr>
-<td>61. Сколько человек работало на производственной единице (организации, предприятии, на личном подворье, приусадебном, дачном участке) в котором Вы работали дополнительно, включая Вас?</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1. Не более 5 человек</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>62</td>
-</tr>
-<tr>
-<td>2. От 6 до 10 человек</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>62</td>
-</tr>
-<tr>
-<td>3. От 11 до 20 человек</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>62</td>
-</tr>
-<tr>
-<td>4. От 21 до 50 человек</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>62</td>
-</tr>
-<tr>
-<td>5. От 51 до 250 человек</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>62</td>
-</tr>
-<tr>
-<td>6. От 251 до 500 человек</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>62</td>
-</tr>
-<tr>
-<td>
-7. От 501 человек и выше
-0125
-</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>62</td>
-</tr>
-<tr>
-<th>62. Выполняли ли Вы какую-либо работу в выходные дни (субботу, воскресенье) или в ночное время, с целью получения дополнительных заработков, хотя бы 1 час?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>63</td>
-</tr>
-<tr>
-<td>
-2. Нет
-0126
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>65</td>
-</tr>
-<tr>
-<th>63. Какова была продолжительность работы в выходные дни или ночное время?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>
-1. Количество дней в неделю
-0127
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-2. Количество часов в неделю
-0128
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>65</td>
-</tr>
-<tr>
-<th colspan="7">IV. Незанятость. Поиски работы (занятости) в течение 4-х последних недель, экономическая неактивность</th>
-</tr>
-<tr>
-<th>64. По какой причине Вы не были заняты в обследуемую неделю?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Увольнение в связи с ликвидацией (банкротством) организации, предприятия</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>65</td>
-</tr>
-<tr>
-<td>2. Увольнение в связи с сокращением штата</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>65</td>
-</tr>
-<tr>
-<td>3. Увольнение по собственному желанию</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>65</td>
-</tr>
-<tr>
-<td>4. Увольнение в связи с окончанием срока договора (соглашения, контракта)</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>65</td>
-</tr>
-<tr>
-<td>5. Завершение предпринимательской деятельности</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>65</td>
-</tr>
-<tr>
-<td>6. Ведение домашнего хозяйства</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>65</td>
-</tr>
-<tr>
-<td>7. Выход на пенсию</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>65</td>
-</tr>
-<tr>
-<td>8. Отсутствие работы после окончания учебного заведения</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>65</td>
-</tr>
-<tr>
-<td>9. Учеба (дневная форма)</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>65</td>
-</tr>
-<tr>
-<td>10. Нет возможности найти работу</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>65</td>
-</tr>
-<tr>
-<td>11. Нет необходимости работать</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>65</td>
-</tr>
-<tr>
-<td>12. По состоянию здоровья</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>65</td>
-</tr>
-<tr>
-<td>13. Работа носит сезонный характер (не сезон)</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>65</td>
-</tr>
-<tr>
-<td>
-14. По семейным (личным) обстоятельствам
-0129
-</td>
-<td>14</td>
-<td>14</td>
-<td>14</td>
-<td>14</td>
-<td>14</td>
-<td>65</td>
-</tr>
-<tr>
-<th>65. Искали ли Вы работу в течение 4-х последних недель?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>66</td>
-</tr>
-<tr>
-<td>
-2. Нет
-0130
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>69</td>
-</tr>
-<tr>
-<th>66. Сколько времени Вы искали работу?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Менее 1 месяца</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>67</td>
-</tr>
-<tr>
-<td>2. От 1 до 3 месяцев</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>67</td>
-</tr>
-<tr>
-<td>3. От 3 до 6 месяцев</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>67</td>
-</tr>
-<tr>
-<td>4. От 6 до 12 месяцев</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>67</td>
-</tr>
-<tr>
-<td>5. От года до 3 лет</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>67</td>
-</tr>
-<tr>
-<td>
-6. Более 3 лет
-0131
-</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>67</td>
-</tr>
-<tr>
-<th>67. Если Вы ищете работу, то укажите наиболее приемлемую причину</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Ее отсутствие (без работы)</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>68</td>
-</tr>
-<tr>
-<td>2. Не устраивает настоящее место работы (занятие)</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>3. Увеличить доход</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>68</td>
-</tr>
-<tr>
-<td>4. Настоящая работа не соответствует моей квалификации</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>68</td>
-</tr>
-<tr>
-<td>5. Работа, которую я имел (-а) на обследуемой неделе, является временной (разовой)</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>68</td>
-</tr>
-<tr>
-<td>
-6. Иметь более гибкие условия труда
-7. Неуверенность в стабильности имеющейся работы
-0132
-</td>
-<td>
-6
-7
-</td>
-<td>
-6
-7
-</td>
-<td>
-6
-7
-</td>
-<td>
-6
-7
-</td>
-<td>
-6
-7
-</td>
-<td>
-68
-68
-</td>
-</tr>
-<tr>
-<td>68. Каким образом Вы искали работу (занятие)? (можно указать несколько вариантов)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1. Обращался в государственные органы занятости населения</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>70</td>
-</tr>
-<tr>
-<td>2. Обращался в частные агентства занятости</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>70</td>
-</tr>
-<tr>
-<td>3. Размещал объявления в печати, Интернете</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>70</td>
-</tr>
-<tr>
-<td>4. Искал через объявления в печати, Интернете</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>70</td>
-</tr>
-<tr>
-<td>5. Обращался к друзьям, знакомым, родственникам</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>70</td>
-</tr>
-<tr>
-<td>6. Контактировал непосредственно с работодателем</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>70</td>
-</tr>
-<tr>
-<td>7. Пытался открыть собственное дело</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>70</td>
-</tr>
-<tr>
-<td>
-8. Другое _____________
-0133
-</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>70</td>
-</tr>
-<tr>
-<th>69. Почему Вы не искали работу в последнее время?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Получил работу и имел договоренность о ее начале в течение 2х недель после обследуемой недели</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>74</td>
-</tr>
-<tr>
-<td>2. Нашел работу, ожидаю ответа</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>74</td>
-</tr>
-<tr>
-<td>3. Предпринял меры для открытия собственного дела и жду ответа</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>74</td>
-</tr>
-<tr>
-<td>4. Ожидаю начала сезона</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>74</td>
-</tr>
-<tr>
-<td>5. По состоянию здоровья</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>74</td>
-</tr>
-<tr>
-<td>6. Не знаю, как и где искать работу</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>74</td>
-</tr>
-<tr>
-<td>7. Нет работы, соответствующей моей квалификации</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>74</td>
-</tr>
-<tr>
-<td>8. Отчаялся найти работу после длительных поисков</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>74</td>
-</tr>
-<tr>
-<td>9. Надо закончить обучение или профессиональную переподготовку</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>74</td>
-</tr>
-<tr>
-<td>10. По семейным (личным) обстоятельствам</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>74</td>
-</tr>
-<tr>
-<td>11. Нет необходимости работать</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>74</td>
-</tr>
-<tr>
-<td>12. Выход на пенсию</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>74</td>
-</tr>
-<tr>
-<td>
-13. Имею устраивающую меня работу (вариант ответа только для занятых)
-0134
-</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>85</td>
-</tr>
-<tr>
-<th>70. Если бы Вы получили работу сейчас, то смогли бы Вы приступить к ней в течение ближайших 2-х недель?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>72</td>
-</tr>
-<tr>
-<td>
-2. Нет
-0135
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>71</td>
-</tr>
-<tr>
-<th>71. Почему Вы не можете приступить к работе в ближайшие 2 недели?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Нашел работу, но ожидаю ответа от работодателя, или работа начнется позже</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>72</td>
-</tr>
-<tr>
-<td>2. Болезнь или травма, уход за больным</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>72</td>
-</tr>
-<tr>
-<td>3. Надо закончить обучение или профессиональную переподготовку</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>72</td>
-</tr>
-<tr>
-<td>4. Ожидаю начала сезона</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>72</td>
-</tr>
-<tr>
-<td>5. По семейным (личным) обстоятельствам</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>72</td>
-</tr>
-<tr>
-<td>
-6. Имею работу, необходимо время для оформления увольнения (включая время отработки)
-0136
-</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>72</td>
-</tr>
-<tr>
-<th>72. Работа (доходное занятие), которую Вы искали или хотели бы получить, это:</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Работа по найму в организации, предприятии</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>73</td>
-</tr>
-<tr>
-<td>2. Работа по найму у отдельных физических лиц</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>73</td>
-</tr>
-<tr>
-<td>3. Работа по найму в крестьянском или фермерском хозяйстве</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>73</td>
-</tr>
-<tr>
-<td>4. Работодатель</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>73</td>
-</tr>
-<tr>
-<td>5. Самостоятельные работники (работающие за свой счет)</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>73</td>
-</tr>
-<tr>
-<td>6. Помогающие (неоплачиваемые) работники семейных предприятий</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>73</td>
-</tr>
-<tr>
-<td>7. Члены кооператива</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>73</td>
-</tr>
-<tr>
-<td>8. В личном подсобном хозяйстве</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>73</td>
-</tr>
-<tr>
-<td>
-9. Любая работа
-0137
-</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>73</td>
-</tr>
-<tr>
-<th>73. Какой режим работы Вас устраивает?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Полный</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>74</td>
-</tr>
-<tr>
-<td>2. Частичный</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>74</td>
-</tr>
-<tr>
-<td>
-3. Любой
-0138
-</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>74</td>
-</tr>
-<tr>
-<th colspan="7">V. Прошлая деятельность</th>
-</tr>
-<tr>
-<td colspan="7">Внимание: На вопросы раздела V отвечают респонденты, отметившие в вопросе 13 код 2.</td>
-</tr>
-<tr>
-<th>74. Работали ли Вы когда-нибудь (имели доходное занятие)?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>75</td>
-</tr>
-<tr>
-<td>
-2. Нет
-0139
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>79</td>
-</tr>
-<tr>
-<th>75. По какой причине Вы перестали работать?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Увольнение в связи с ликвидацией (банкротством) организации, предприятия, сокращением штата</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>76</td>
-</tr>
-<tr>
-<td>2. Увольнение по собственному желанию</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>76</td>
-</tr>
-<tr>
-<td>3. Увольнение в связи с окончанием срока договора (соглашения, контракта)</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>76</td>
-</tr>
-<tr>
-<td>4. Завершение предпринимательской деятельности</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>76</td>
-</tr>
-<tr>
-<td>5. Выход на пенсию</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>76</td>
-</tr>
-<tr>
-<td>6. По семейным (личным) обстоятельствам</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>76</td>
-</tr>
-<tr>
-<td>7. Учеба (дневная форма)</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>76</td>
-</tr>
-<tr>
-<td>8. По состоянию здоровья</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>76</td>
-</tr>
-<tr>
-<td>9. Работа носит сезонный характер (не сезон)</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>76</td>
-</tr>
-<tr>
-<td>
-10. Другое ______________
-(указать)
-0140
-</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>76</td>
-</tr>
-<tr>
-<th>76. Каким был Ваш статус занятости на последнем рабочем месте?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Работа по найму в организации, предприятии</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>77</td>
-</tr>
-<tr>
-<td>2. Работа по найму у отдельных физических лиц</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>77</td>
-</tr>
-<tr>
-<td>3. Работа по найму в крестьянском или фермерском хозяйстве</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>77</td>
-</tr>
-<tr>
-<td>4. Работодатель</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>77</td>
-</tr>
-<tr>
-<td>5. Самостоятельные работники (работающие за свой счет)</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>77</td>
-</tr>
-<tr>
-<td>6. Помогающие (неоплачиваемые) работники семейных предприятий</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>77</td>
-</tr>
-<tr>
-<td>
-7. Члены кооператива
-8. В личном подсобном хозяйстве
-0141
-</td>
-<td>
-7
-8
-</td>
-<td>
-7
-8
-</td>
-<td>
-7
-8
-</td>
-<td>
-7
-8
-</td>
-<td>
-7
-8
-</td>
-<td>
-77
-77
-</td>
-</tr>
-<tr>
-<td colspan="7">
-77. Назовите, пожалуйста, преобладающий вид деятельности организации, предприятия, в котором Вы работали на последнем рабочем месте?
-(Приведите подробное словесное описание)
-</td>
-</tr>
-<tr>
-<td colspan="7">1 респондент</td>
-</tr>
-<tr>
-<td colspan="7">2 респондент</td>
-</tr>
-<tr>
-<td colspan="7">3 респондент</td>
-</tr>
-<tr>
-<td colspan="7">4 респондент</td>
-</tr>
-<tr>
-<td colspan="7">5 респондент</td>
-</tr>
-<tr>
-<td>1. Сельское, лесное и рыбное хозяйство</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>78</td>
-</tr>
-<tr>
-<td>2. Горнодобывающая промышленность и разработка карьеров</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>78</td>
-</tr>
-<tr>
-<td>3. Обрабатывающая промышленность</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>78</td>
-</tr>
-<tr>
-<td>4. Электроснабжение, подача газа, пара и воздушное кондиционирование</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>78</td>
-</tr>
-<tr>
-<td>5. Водоснабжение; канализационная система, контроль над сбором и распределением отходов</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>78</td>
-</tr>
-<tr>
-<td>6. Строительство</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>78</td>
-</tr>
-<tr>
-<td>7. Оптовая и розничная торговля; ремонт автомобилей и мотоциклов</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>78</td>
-</tr>
-<tr>
-<td>8. Транспорт и складирование</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>78</td>
-</tr>
-<tr>
-<td>9. Услуги по проживанию и питанию</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>78</td>
-</tr>
-<tr>
-<td>10. Информация и связь</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>78</td>
-</tr>
-<tr>
-<td>11. Финансовая и страховая деятельность</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>78</td>
-</tr>
-<tr>
-<td>12. Операции с недвижимым имуществом</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>78</td>
-</tr>
-<tr>
-<td>13. Профессиональная, научная и техническая деятельность</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>78</td>
-</tr>
-<tr>
-<td>14. Деятельность в области административного и вспомогательного обслуживания</td>
-<td>14</td>
-<td>14</td>
-<td>14</td>
-<td>14</td>
-<td>14</td>
-<td>78</td>
-</tr>
-<tr>
-<td>15. Государственное управление и оборона; обязательное социальное обеспечение</td>
-<td>15</td>
-<td>15</td>
-<td>15</td>
-<td>15</td>
-<td>15</td>
-<td>78</td>
-</tr>
-<tr>
-<td>16. Образование</td>
-<td>16</td>
-<td>16</td>
-<td>16</td>
-<td>16</td>
-<td>16</td>
-<td>78</td>
-</tr>
-<tr>
-<td>17. Здравоохранение и социальные услуги</td>
-<td>17</td>
-<td>17</td>
-<td>17</td>
-<td>17</td>
-<td>17</td>
-<td>78</td>
-</tr>
-<tr>
-<td>18. Искусство, развлечения и отдых</td>
-<td>18</td>
-<td>18</td>
-<td>18</td>
-<td>18</td>
-<td>18</td>
-<td>78</td>
-</tr>
-<tr>
-<td>19. Предоставление прочих видов услуг</td>
-<td>19</td>
-<td>19</td>
-<td>19</td>
-<td>19</td>
-<td>19</td>
-<td>78</td>
-</tr>
-<tr>
-<td>20. Деятельность домашних хозяйств, нанимающих домашнюю прислугу и производящих товары и услуги для собственного потребления</td>
-<td>20</td>
-<td>20</td>
-<td>20</td>
-<td>20</td>
-<td>20</td>
-<td>78</td>
-</tr>
-<tr>
-<td>21. Деятельность экстерриториальных организаций и органов</td>
-<td>21</td>
-<td>21</td>
-<td>21</td>
-<td>21</td>
-<td>21</td>
-<td>78</td>
-</tr>
-<tr>
-<td>
-Интервьюер, проставьте код вида экономической деятельности
-0142
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>78</td>
-</tr>
-<tr>
-<th colspan="7">78. По какой профессии Вы работали или какую должность занимали на последнем месте работы? (Приведите подробное словесное описание)</th>
-</tr>
-<tr>
-<td colspan="7">1 респондент</td>
-</tr>
-<tr>
-<td colspan="7">2 респондент</td>
-</tr>
-<tr>
-<td colspan="7">3 респондент</td>
-</tr>
-<tr>
-<td colspan="7">4 респондент</td>
-</tr>
-<tr>
-<td colspan="7">5 респондент</td>
-</tr>
-<tr>
-<td>
-Интервьюер, проставьте код по Классификатору занятий
-0143
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>
-<em>[Image]</em>
-</td>
-<td>79</td>
-</tr>
-<tr>
-<th>79. Сколько времени Вы не работаете (не заняты)?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Менее 1 месяца</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>80</td>
-</tr>
-<tr>
-<td>2. От 1 до 3 месяцев</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>80</td>
-</tr>
-<tr>
-<td>3. От 3 до 6 месяцев</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>80</td>
-</tr>
-<tr>
-<td>4. От 6 до 12 месяцев</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>80</td>
-</tr>
-<tr>
-<td>5. От года до 3 лет</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>80</td>
-</tr>
-<tr>
-<td>6. Более 3 лет</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>80</td>
-</tr>
-<tr>
-<td>
-7. Никогда не работал
-0144
-</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>80</td>
-</tr>
-<tr>
-<th colspan="7">VI. Регистрация в органе занятости населения</th>
-</tr>
-<tr>
-<td colspan="7">
-Внимание: На вопросы раздела VI отвечают респонденты в трудоспособном возрасте:
-от 16 до 58 лет (женщины), от 16 до 63 лет (мужчины).
-</td>
-</tr>
-<tr>
-<th>80. Состоите ли Вы на учете в органе занятости населения в качестве безработного?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>81</td>
-</tr>
-<tr>
-<td>
-2. Нет
-0145
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>82</td>
-</tr>
-<tr>
-<th>81. Какова причина регистрации в качестве безработного?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Поиск места работы</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>83</td>
-</tr>
-<tr>
-<td>2. Желание получить профессиональную подготовку</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>83</td>
-</tr>
-<tr>
-<td>
-3. Другое _________________
-0146
-</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>83</td>
-</tr>
-<tr>
-<th>82. Почему Вы не состоите на учете в органе занятости населения в качестве безработного?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Не знал о существовании службы занятости</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>83</td>
-</tr>
-<tr>
-<td>2. Не уверен, что помогут с трудоустройством</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>83</td>
-</tr>
-<tr>
-<td>3. Слишком сложная процедура оформления</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>83</td>
-</tr>
-<tr>
-<td>4. Отсутствие средств на транспортные расходы (далеко ехать)</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>83</td>
-</tr>
-<tr>
-<td>5. Имею иной источник средств существования</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>83</td>
-</tr>
-<tr>
-<td>
-6. Другое _________________
-0147
-</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>83</td>
-</tr>
-<tr>
-<td>83. Имеете ли Вы профессию или специальность?</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>84</td>
-</tr>
-<tr>
-<td>
-2. Нет
-0148
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>84</td>
-</tr>
-<tr>
-<th>84. Хотели бы Вы пройти обучение или получить другую специальность (профессию), включая обучение через органы занятости населения?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Да</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>85</td>
-</tr>
-<tr>
-<td>
-2. Нет
-0149
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>85</td>
-</tr>
-<tr>
-<th colspan="7">VII. Источники средств существования</th>
-</tr>
-<tr>
-<th>85. Какой источник средств существования (дохода) Вы имели в обследуемом месяце? (можно указать несколько вариантов)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Работа по найму (заработная плата)</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>86</td>
-</tr>
-<tr>
-<td>2. Самостоятельная занятость (доход)</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>86</td>
-</tr>
-<tr>
-<td>3. Пенсия</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>86</td>
-</tr>
-<tr>
-<td>4. Стипендия</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>86</td>
-</tr>
-<tr>
-<td>5. Социальная помощь (пособия)</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>86</td>
-</tr>
-<tr>
-<td>6. Продукты с личного подворья (приусадебного, дачного участка)</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>86</td>
-</tr>
-<tr>
-<td>7. Доход от собственности (сдача жилья и другой недвижимости в наем, ценные бумаги и другое)</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>86</td>
-</tr>
-<tr>
-<td>8. Материальная помощь от родных или близких (на иждивении)</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>86</td>
-</tr>
-<tr>
-<td>
-9. Другое
-0150
-</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>86</td>
-</tr>
-<tr>
-<td>86. Укажите сумму совокупного дохода (в денежной или натуральной форме), полученного Вами за последний месяц:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1. 0 (отсутствие дохода)</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>88</td>
-</tr>
-<tr>
-<td>2. от 1 тенге до 1 ВПМ7</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>87</td>
-</tr>
-<tr>
-<td>3. от 1 ВПМ до 2 ВПМ</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>87</td>
-</tr>
-<tr>
-<td>4. от 2 ВПМ до 60 000 тенге</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>87</td>
-</tr>
-<tr>
-<td>5. от 60 001 до 80 000 тенге</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>87</td>
-</tr>
-<tr>
-<td>6. от 80 001 до 100 000 тенге</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>87</td>
-</tr>
-<tr>
-<td>7. от 100 001 до 150 000 тенге</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>87</td>
-</tr>
-<tr>
-<td>8. от 150 001 до 200 000 тенге</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>87</td>
-</tr>
-<tr>
-<td>9. от 200 001 до 250 000 тенге</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>87</td>
-</tr>
-<tr>
-<td>10. от 250 001 до 300 000 тенге</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>87</td>
-</tr>
-<tr>
-<td>11. от 300 001 до 400 000 тенге</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>87</td>
-</tr>
-<tr>
-<td>12. от 400 001 до 500 000 тенге</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>87</td>
-</tr>
-<tr>
-<td>
-13. свыше 500 000 тенге
-0151
-</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>13</td>
-<td>87</td>
-</tr>
-<tr>
-<td colspan="7">
-Внимание: На вопрос 87 отвечают респонденты, отметившие в вопросе 85 код 2
-«Самостоятельная занятость (доход)». Остальные минуют этот вопрос и переходят к вопросу 88.
-</td>
-</tr>
-<tr>
-<th>87. Оцените долю дохода от самостоятельной занятости в совокупном доходе (в денежной или натуральной форме), полученном Вами за последний месяц:</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. не более 25%</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>88</td>
-</tr>
-<tr>
-<td>2. от 26% до 50%</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>88</td>
-</tr>
-<tr>
-<td>3. 50%</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>88</td>
-</tr>
-<tr>
-<td>4. от 51% до 75%</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>88</td>
-</tr>
-<tr>
-<td>
-5. от 76% до 100%
-0152
-</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>88</td>
-</tr>
-<tr>
-<td colspan="7">Внимание: Вопрос 88 заполняется Интервьюером</td>
-</tr>
-<tr>
-<td>88. Кто отвечал на вопросы?</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1. Респондент сам (сама)</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>89</td>
-</tr>
-<tr>
-<td>
-2. Другой член домашнего хозяйства
-0153
-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>89</td>
-</tr>
-<tr>
-<td colspan="7">
-Внимание: На вопрос 89 отвечаю все респонденты.
-Данный вопрос заполняется только для анкеты квартальной периодичности.
-</td>
-</tr>
-<tr>
-<th>89. Какой у Вас уровень компьютерной грамотности?</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Нет навыков</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>конец</td>
-</tr>
-<tr>
-<td>2. Начинающий пользователь</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>опроса</td>
-</tr>
-<tr>
-<td>3. Обычный пользователь</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td></td>
-</tr>
-<tr>
-<td>
-4. Опытный пользователь
-0154
-</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td></td>
-</tr>
-</table>
-
-_________________
-
-2Здесь и далее код вопроса.
-
-3 Кодирование показателей осуществляется в соответствии с Приложением 1 к Инструкции по заполнению статистической формы общегосударственного статистического наблюдения «Анкета выборочного обследования занятости населения».
-
-4 Здесь и далее СНГ – Содружество Независимых Государств.
-
-5 Здесь и далее кодирование показателей осуществляется в соответствии с Приложением 2 к Инструкции по заполнению статистической формы общегосударственного статистического наблюдения «Анкета выборочного обследования занятости населения».
-
-6 Здесь и далее код профессии заполняется в соответствии с Классификатором занятий, расположенным на сайте http://www.enbek.gov.kz/node/243262.
-
-7 Здесь и далее ВПМ – величина прожиточного минимума.
 
 ### Благодарим Вас за понимание и сотрудничество!
 
-> *Приложение 1*  
+> *Приложение*  
 > *к статистической форме «Анкета*  
 > *выборочного обследования занятости*  
-> *населения»*  
-> *(код 1232102, индекс Т-001, периодичность*  
-> *месячная, один раз в квартал)*
+> *населения» (код 1232102, индекс*  
+> *Т-001, периодичность месячная)*
 
-### График представления статистической формы «Анкета выборочного обследования занятости населения» на 2015 год (код1232102, индекс Т-001, периодичность месячная)
+### График представления статистической формы «Анкета выборочного обследования занятости населения» на 2016 год (код 1232102, индекс Т-001, периодичность месячная)
 
 <table>
 <tr>
 <td rowspan="2">Этапы работы</td>
-<td colspan="12">2015 год</td>
+<td colspan="12">2016 год</td>
 </tr>
 <tr>
 <td>Январь</td>
@@ -14181,206 +13044,50 @@ _________________
 </tr>
 <tr>
 <td>Обследуемая неделя</td>
-<td>5-11</td>
-<td>2-8</td>
+<td>4-10</td>
+<td>1-7</td>
+<td>7-13</td>
+<td>4-10</td>
 <td>2-8</td>
 <td>6-12</td>
 <td>4-10</td>
 <td>1-7</td>
-<td>6-12</td>
+<td>5-11</td>
 <td>3-9</td>
 <td>7-13</td>
 <td>5-11</td>
-<td>2-8</td>
-<td>7-13</td>
 </tr>
 <tr>
 <td>Проведение анкетного опроса домашних хозяйств</td>
-<td>12-18</td>
-<td>9-15</td>
+<td>12-17</td>
+<td>8-14</td>
+<td>14-20</td>
+<td>11-17</td>
 <td>9-15</td>
 <td>13-19</td>
 <td>11-17</td>
 <td>8-14</td>
-<td>13-19</td>
+<td>12-18</td>
 <td>10-16</td>
 <td>14-20</td>
 <td>12-18</td>
-<td>9-15</td>
-<td>14-20</td>
 </tr>
 <tr>
-<td>Сдача заполненных Анкет интервьюером в областной департамент статистики</td>
-<td>19</td>
-<td>16</td>
+<td>Сдача заполненных Анкет интервьюером в органы статистики</td>
+<td>18</td>
+<td>15</td>
+<td>21</td>
+<td>18</td>
 <td>16</td>
 <td>20</td>
 <td>18</td>
 <td>15</td>
-<td>20</td>
+<td>19</td>
 <td>17</td>
 <td>21</td>
 <td>19</td>
-<td>16</td>
-<td>21</td>
 </tr>
 </table>
-
-### График представления статистической формы «Анкета выборочного обследования занятости населения» на 2015 год (код 1232102, индекс Т-001, периодичность один раз в квартал)
-
-<table>
-<tr>
-<td rowspan="2">Этапы работы</td>
-<td colspan="12">2015 год</td>
-</tr>
-<tr>
-<td>Январь</td>
-<td>Февраль</td>
-<td>Март</td>
-<td>Апрель</td>
-<td>Май</td>
-<td>Июнь</td>
-<td>Июль</td>
-<td>Август</td>
-<td>Сентябрь</td>
-<td>Октябрь</td>
-<td>Ноябрь</td>
-<td>Декабрь</td>
-</tr>
-<tr>
-<td>Обследуемая неделя</td>
-<td></td>
-<td>9-15</td>
-<td></td>
-<td></td>
-<td>11-17</td>
-<td></td>
-<td></td>
-<td>10-16</td>
-<td></td>
-<td></td>
-<td>9-15</td>
-<td></td>
-</tr>
-<tr>
-<td>Проведение анкетного опроса домашних хозяйств</td>
-<td></td>
-<td>16-24</td>
-<td></td>
-<td></td>
-<td>18-26</td>
-<td></td>
-<td></td>
-<td>17-25</td>
-<td></td>
-<td></td>
-<td>16-24</td>
-<td></td>
-</tr>
-<tr>
-<td>Сдача заполненных Анкет интервьюером в областной департамент статистики</td>
-<td></td>
-<td>25</td>
-<td></td>
-<td></td>
-<td>27</td>
-<td></td>
-<td></td>
-<td>26</td>
-<td></td>
-<td></td>
-<td>25</td>
-<td></td>
-</tr>
-</table>
-
-> *Приложение 2*  
-> *к статистической форме «Анкета*  
-> *выборочного обследования занятости*  
-> *населения»*  
-> *(код 1232102, индекс Т-001, периодичность*  
-> *месячная, один раз в квартал)*
-
-### ДЛЯ ЗАМЕТОК
-
-<table>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-<tr>
-<td>_____________________________________________________________</td>
-</tr>
-</table>
-
-Примечание РЦПИ!
-
-Приложение 14 предусмотрено в редакции приказа Председателя Комитета по статистике Министра национальной эконоики РК от 21.08.2015 № 127 (вводится в действие с 01.01.2016).
 
 > *Приложение 14*  
 > *к приказу Председателя*  
@@ -14389,27 +13096,23 @@ _________________
 > *Республики Казахстан*  
 > *от 8 декабря 2014 года № 71*
 
-### Инструкция по заполнению статистической формы общегосударственного статистического наблюдения «Анкета выборочного обследования занятости населения» (код 1232102, индекс Т-001, периодичность месячная, один раз в квартал )
+### Инструкция по заполнению статистической формы общегосударственного статистического наблюдения «Анкета выборочного обследования занятости населения» (код 1232102, индекс Т-001, периодичность месячная)
 
-1\. Настоящая инструкция по заполнению статистической формы общегосударственного статистического наблюдения «Анкета выборочного обследования занятости населения» (код 1232102, индекс Т-001,
+> *Сноска. Приложение 14 в редакции приказа Председателя Комитета по статистике Министра национальной эконоики РК от 21.08.2015 № 127 (вводится в действие с 01.01.2016).*
 
-периодичность месячная, один раз в квартал) (далее – Инструкция) разработана в соответствии с подпунктом 8) статьи 12 Закона Республики Казахстан «О государственной статистике» и детализирует заполнение статистической формы общегосударственного статистического наблюдения «Анкета выборочного обследования занятости населения» (код 1232102, индекс Т-001, периодичность месячная, один раз в квартал).
+1\. Настоящая Инструкция по заполнению статистической формы общегосударственного статистического наблюдения «Анкета выборочного обследования занятости населения» (код 1232102, индекс Т-001, периодичность месячная) (далее – статистическая форма) разработана в соответствии с подпунктом 8) статьи 12 Закона Республики Казахстан «О государственной статистике» и детализирует заполнение статистической формы.
 
 2\. Следующие определения применяются в целях заполнения данной статистической формы:
 
-1) респондент - физическое или юридическое лицо и его структурные и обособленные подразделения, представляющие данные по объекту статистического наблюдения в соответствии со статистической методологией;
+1) респондент – физическое или юридическое лицо и его структурные и обособленные подразделения, представляющие данные по объекту статистического наблюдения в соответствии со статистической методологией;
 
 2) домашнее хозяйство - экономический субъект, состоящий из одного или более физических лиц, проживающих совместно, объединяющих полностью или частично свои доходы и имущество и совместно потребляющих товары и услуги.
 
-3\. Статистическая форма заполняется и предоставляется ежемесячно и один раз в квартал.
+3\. Статистическая форма заполняется и предоставляется ежемесячно.
 
-Критической (обследуемой) неделей месячного обследования является вторая неделя отчетного месяца.
+Критическая (обследуемая) неделя определяется согласно приложению 1 к статистической форме.
 
-Периодом квартального обследования является серединный месяц каждого квартала, то есть февраль, май, август и ноябрь, а критической (обследуемой) неделей устанавливается третья неделя отчетного месяца.
-
-4\. Статистическая форма заполняется на каждое отдельно взятое домохозяйство (семью), попавшее в выборку. Члены домохозяйства, в отличие от семьи, могут не состоять в отношениях родства. Не допускается объединение в одном бланке статистической формы записи информации по респондентам, относящимся к разным домашним хозяйствам, даже если они проживают в пределах одного помещения. Если по одному и тому же адресу проживают две или три разные семьи (родственные или неродственные) или же появилась «вновь созданная» молодая семья, то на них заполняются разные (отдельные) бланки статистической формы.
-
-Статистическая форма не заполняется на лиц, отсутствующих продолжительное время, независимо от того, что они считают этот адрес своим основным местом жительства:
+4\. Статистическая форма заполняется на каждое отдельно взятое домохозяйство (семью), попавшее в выборку, или на членов домашнего хозяйства (далее – Респондентов), которые не состоят в отношениях родства. Не допускается объединение в одном бланке статистической формы записи информации по респондентам, относящимся к разным домашним хозяйствам, даже если они проживают в пределах одного помещения. Если по одному адресу проживают две или три разные семьи (родственные или неродственные) или же появилась «вновь созданная» молодая семья, то случайным методом выбирается одно из них. Статистическая форма не заполняется на лиц, отсутствующих продолжительное время, независимо от того, что они считают этот адрес своим основным местом жительства:
 
 1) студентов и учащихся всех учебных заведений, проживающих по месту учебы;
 
@@ -14429,19 +13132,19 @@ _________________
 
 В пункте 9 проставляется код интервьюера, первые четыре цифры которого соответствуют первым четырем цифрам кода населенного пункта по КАТО (пункт 2), следующие три цифры содержат порядковый номер интервьюера, присвоенный соответствующим областным департаментом статистики.
 
-6\. Статистическая форма заполняется на всех членов семьи в возрасте 15 лет и старше. Каждому из них лицо, уполномоченное на проведение опроса (далее – интервьюер), присваивает порядковый номер. Если число опрашиваемых в домохозяйстве превышает 5 человек, то на данное домохозяйство заполняются два и более бланков статистической формы, на титульном листе которых делается пометка «Продолжение». Респондентам в этих статистических формах номера присваиваются в последовательном порядке. То есть, на втором бланке статистической формы вместо Респондент 1 вписывается Респондент 6, вместо Респондент 2 – Респондент 7 и так далее.
+6\. Статистическая форма заполняется на всех членов семьи в возрасте 15 лет и старше. Каждому из них лицо, уполномоченное на проведение опроса (далее – интервьюер), присваивает порядковый номер. Если число респондентов в домашнем хозяйстве превышает 5 человек, то на данное домохозяйство заполняются два и более бланков статистической формы, на титульном листе которых делается пометка «Продолжение». Респондентам в этих статистических формах номера присваиваются в последовательном порядке. То есть, на втором бланке статистической формы вместо Респондент 1 вписывается Респондент 6, вместо Респондент 2 – Респондент 7 и так далее.
 
 7\. При интервью зачитываются вопросы и делаются соответствующие отметки в перечисленных вариантах ответов или они записываются в статистическую форму. Код варианта ответа респондента обводится кружком.
 
-Все ответы записываются со слов опрашиваемых, представление подтверждающих документов не требуется. Ответы на поставленные вопросы статистической формы получаются как непосредственно от самих респондентов, так и от совместно проживающих взрослых членов семьи, если последние могут дать исчерпывающие ответы на все вопросы статистической формы.
+Все ответы записываются со слов респондентов, представление подтверждающих документов не требуется. Ответы на поставленные вопросы статистической формы получаются как непосредственно от самих респондентов, так и от совместно проживающих взрослых членов семьи.
 
 При проведении интервью интервьюер зачитывает респондентам вопросы так, как они приведены в вопроснике, и не отклоняется от приведенной формулировки вопроса.
 
 Особое внимание при проведении опроса интервьюер обращает на подсказы в графе «Переход к вопросу», где указан номер вопроса, к которому обращается после того или иного выбранного варианта ответа.
 
-8\. Вопросы 1-12 касаются социально-демографических характеристик членов домохозяйства.
+8\. Вопросы раздела «Сведения о домашнем хозяйстве и его членах» касаются социально-демографических характеристик членов домохозяйства.
 
-В случае изменения состава домашнего хозяйства в течение обследуемого периода (в последующих кварталах), интервьюер делает соответствующие пометки в вопросе 2, указав двухзначные коды: статус изменения состава и причины выбытия (прибытия), приведенные в Приложении 1 к настоящей Инструкции.
+В случае изменения состава домашнего хозяйства в течение обследуемого периода (в последующих кварталах), интервьюер делает соответствующие пометки в вопросе 2 раздела, указав двухзначные коды: статус изменения состава и причины выбытия (прибытия), приведенные в приложении 1 к настоящей Инструкции.
 
 Вопрос 2 может иметь следующие коды:
 
@@ -14459,125 +13162,122 @@ _________________
 
 В случае отсутствия изменений в составе домашнего хозяйства, вопрос 2 не заполняется, интервьюер переходит к вопросу 3.
 
-На вопросы 3-88 отвечают только респонденты, достигшие 15 лет и старше. Если респондент постоянно выбыл из состава домашнего хозяйства (коды 12, 13, 14, 15, 16, 17, 18, 19), то вопросы 3-88 по данному респонденту не заполняются.
+На вопросы «Анкета. Основной вопросник» отвечают только респонденты, достигшие 15 лет и старше. Если респондент постоянно выбыл из состава домашнего хозяйства (коды 12, 13, 14, 15, 16, 17, 18, 19), то вопросы 1-82 по данному респонденту не заполняются.
 
-9\. В разделе I учитывается следующее:
+9\. В разделе 1 «Экономическая активность» учитывается следующее:
 
-1) при заполнении вопросов 13, 14, 15, 19, 20, 21 выясняется, выполнял ли респондент в период обследуемой недели какую-нибудь работу или имел какое-либо занятие для получения натурального или денежного дохода. Это может быть постоянная, временная, случайная и другая работа, работа через органы занятости населения, индивидуальная трудовая деятельность, оказание различного рода услуг, работа на личном подворье, приусадебном участке, если на нее затрачен хотя бы один час в неделю;
+1) при заполнении вопросов 6, 7, 8, 9, 10, 13 выясняется, выполнял ли респондент в период обследуемой недели любую работу или имел любое занятие для получения натурального или денежного дохода. Имеется в виду любая постоянная, временная, случайная и другая работа, работа через органы занятости населения, индивидуальная трудовая деятельность, оказание различного рода услуг, работа на личном подворье, приусадебном участке, если на нее затрачен хотя бы один час в неделю;
 
-2) вопрос 13 является агрегирующим (сводным) критерием определения экономической активности респондента в обследуемую неделю и методически увязан с ответами на вопросы 14, 15, 19, 20, 21. Если респондент ответил «Да» в этих вопросах, то и в вопросе 13 указывается «Да».
+2) вопрос 6 является агрегирующим (сводным) критерием определения экономической активности респондента в обследуемую неделю и методически увязан с ответами на вопросы 7, 8, 9, 10, 13. Если респондент ответил «Да» в этих вопросах, то и в вопросе 6 указывается «Да»;
 
-   Для респондента, ответившего, что в обследуемую неделю он находится в трудовом отпуске или отпуске без содержания, беременности или по уходу за ребенком и другое, проставляется ответ «Да», так как он имеет фактическое прикрепление к работе и является занятым, но временно отсутствующим, и дать ответы в разделе II, а также указать причину временного отсутствия в вопросе 37;
+3) при заполнении вопроса 7 учитывается, что к «работе дома» относится любой вид деятельности с целью получения денежного или натурального вознаграждения, исключая работу на личном подворье (приусадебном, дачном участке);
 
-3) при заполнении вопроса 14 учитывать, что к «работе дома» относится любой вид деятельности с целью получения денежного или натурального вознаграждения, исключая работу на личном подворье (приусадебном, дачном участке);
+4) в вопросе 9 учитывается, что в случайные и временные заработки также включаются работы, полученные через органы занятости населения. Лицо, зарегистрированное в органах занятости в качестве безработного, но выполнявшее в обследуемую неделю какую-нибудь работу, в том числе общественную, будет относится на текущий момент к временно занятому;
 
-4) вопросы 17 и 18 задаются при ответе «Да» на вопрос 15. Ответы на эти вопросы характеризуют использование и потребление продукции, полученной на личном подворье (приусадебном, дачном участке);
+5) вопрос 11 задается при ответе «Да» на вопрос 10. Ответ на этот вопрос характеризует использование и потребление продукции, полученной на личном подворье (приусадебном, дачном участке);
 
-5) в вопросе 21 учитывается, что в случайные и временные заработки также включаются работы, полученные через органы занятости населения. Лицо, зарегистрированное в органах занятости в качестве безработного, но выполнявшее в обследуемую неделю какую-нибудь работу, в том числе общественную, относится на текущий момент к временно занятому;
+6) вопрос 14 заполняется при наличии ответа «Да» хотя бы на один из вопросов 6, 7, 8, 9, 10, 12, 13 данного раздела.
 
-6) вопрос 22 заполняется при наличии ответа «Да» хотя бы на один из вопросов 13, 14, 15, 19, 20, 21 данного раздела.
+   Отработанное количество часов в неделю проставляется суммарно за все отмеченные работы, равно (или больше) сумме всех фактически отработанных часов, которые отражены в вопросах 12, 37, 43.
 
-   Отработанное количество дней и часов в неделю проставляется суммарно за все отмеченные работы, равно (или больше) сумме всех фактически отработанных часов, которые отражены в вопросах 16, 35, 48, 63.
+   При записи ответа о количестве отработанных часов в вопросе 14 заполняются все клетки в блоке (например, 4 часа - 04, 13 часов – 13), и показатели округляются до целого числа.
 
-   При записи ответа о количестве отработанных часов в вопросе 22 заполняются все клетки в блоке (4 часа - 04, 13 часов – 13), и показатели округляются до целого числа.
+10\. При заполнении раздела 2 «Основная работа (деятельность) в течение прошлой недели» учитывается:
 
-10\. При заполнении раздела II учитывается:
+1) вопросы этого раздела касаются основной работы (доходного занятия), которую респондент считает для себя основной (первостепенной). Для лиц, имеющих работу, но временно не работающих, однако не потерявших связь с ней и имеющих заверения в возможности вернуться к ней после окончания периода действия непредвиденных обстоятельств или наличия даты возвращения на работу – эта работа остается основной. Если респондент, не имеющий постоянной работы, выполнял на обследуемой неделе различного рода случайные работы, в качестве основной - указывается одна из них. В спорных случаях основная работа - это деятельность с наибольшим числом обычно отрабатываемых часов;
 
-1) вопросы этого раздела касаются основной работы (доходного занятия), которую респондент считает для себя основной (первостепенной). Для лиц, имеющих работу, но временно не работающих, однако не потерявших связь с ней и имеющих заверения в возможности вернуться к ней после окончания периода действия непредвиденных обстоятельств или наличия даты возвращения на работу – эта работа остается основной. Если респондент, не имеющий постоянной работы, выполнял на обследуемой неделе различного рода случайные работы, в качестве основной указывается на одну из них. В спорных случаях основная работа - это деятельность с наибольшим числом обычно отрабатываемых часов;
+2) При заполнении вопроса 16 используются следующие определения:
 
-2) При заполнении вопроса 25 используются следующие определения:
+   наемные работники – физические лица, работающие по трудовому договору (договору найма), предусматривающему оплату (вознаграждение) в виде оклада, премии, надбавок и тому подобное либо в натуральной форме;
 
-   - наемные (оплачиваемые) работники – физические лица, работающие по трудовому договору (договору найма), предусматривающему оплату (вознаграждение) в виде оклада, премии, надбавок и тому подобное либо в натуральной форме;
+   работодатели - лица, управляющие своим собственным предприятием или занимающиеся независимой предпринимательской деятельностью в каком-либо виде экономической деятельности и имеющие одного или нескольких наемных работников;
 
-   - работодатели - лица, управляющие своим собственным предприятием или занимающиеся независимой предпринимательской деятельностью в каком-либо виде экономической деятельности и имеющие одного или нескольких наемных работников;
+   члены кооператива – физические лица, являющиеся членами трудового кооператива, занимающегося предпринимательской деятельностью;
 
-   - члены кооператива – физические лица, являющиеся членами трудового кооператива, занимающегося предпринимательской деятельностью;
+   помогающие (неоплачиваемые) работники семейных предприятий, крестьянских или фермерских хозяйств – физические лица, работающие без вознаграждения на предприятии (в хозяйстве), управляемом родственным лицом;
 
-   - неоплачиваемые работники семейных предприятий – физические лица, работающие без вознаграждения на предприятии (в хозяйстве), управляемом родственным лицом;
+   самостоятельная занятость - занятость, при которой размер вознаграждения напрямую зависит от дохода, получаемого от производства (реализации) товаров и услуг (где собственное потребление рассматривается как часть дохода);
 
-   - самостоятельная занятость - занятость, при которой размер вознаграждения напрямую зависит от дохода, получаемого от производства (реализации) товаров и услуг (где собственное потребление рассматривается как часть дохода);
+3) при заполнении вопроса 32 интервьюер уточняет у респондента, где он трудился в период опрашиваемой недели, и определяет вид деятельности, к которой относится организация (предприятие) или характер собственного дела (занятия). При этом следует руководствоваться «Пояснениями по видам экономической деятельности», приведенными в приложении 2 к настоящей Инструкции.
 
-   - самостоятельные работники – физические лица, которые, работая самостоятельно или с одним или несколькими партнерами, занимаются деятельностью на основе самостоятельной занятости и не нанимают на постоянной основе работников;
+   При наличии трудностей по отнесению организации (предприятия), где работал опрашиваемый, к определенному виду экономической деятельности, записывается место работы респондента подробно без сокращений в соответствующей графе. Затем с помощью супервайзера - сотрудника территориального департамента статистики, осуществляющего контроль работы интервьюеров, определяется вид деятельности и отмечается соответствующий код (к примеру, записывается не Фабрика «Рахат», а кондитерская фабрика «Рахат» или магазин (столовая, медпункт и другое) при кондитерской фабрике «Рахат»).
 
-3) при заполнении вопроса 35 записывается примерное фактически отработанное респондентом на обследуемой неделе количество дней и часов только по его основной работе, не включая время, отработанное по совместительству как внутри одного предприятия, так и на других.
+   Самостоятельно занятым (работодателям, помогающим (неоплачиваемым) работникам семейных предприятий, крестьянских или фермерских хозяйств, занятым в кооперативах, а также на личном подворье) проставляется вид деятельности в соответствии с характером (спецификой, направленностью) выполняемой ими работы или занятия;
 
-   При затруднении сразу получить ответ на вопрос 35, интервьюер помогает респонденту восстановить его работу (деятельность) по каждому дню обследуемой недели.
+4) при заполнении вопроса 33 учитывается должность или профессия респондента, непосредственно занимаемая или исполняемая на рабочем месте основной работы, а не специальность (квалификацию), полученная в результате обучения.
 
-   Код 1 вопроса 36 отмечается лицами, которым законодательно установлена сокращенная продолжительность рабочего времени (занятые на тяжелых работах, работах с вредными или опасными условиями труда; работники, не достигшие 18-летнего возраста; инвалиды 1 и 2 групп), а также если продолжительность рабочего времени предусмотрена трудовым (коллективным) договором.
-
-   Если респондент на обследуемой неделе временно отсутствовал на основной работе, то в данном вопросе отмечается ответ «0» (ноль) часов и делается переход к вопросу 37, где уточняется причина его временной незанятости;
-
-4) при заполнении вопроса 42 интервьюер уточняет у респондента, где он трудился в период опрашиваемой недели, и определяет вид деятельности, к которой относится организация (предприятие) или характер собственного дела (занятия). При этом следует руководствоваться «Пояснениями по видам экономической деятельности», приведенными в Приложении 2 к настоящей Инструкции.
-
-   При наличии трудностей по отнесению организации (предприятия), где работал опрашиваемый, к определенному виду экономической деятельности, то записывается место работы респондента подробно без сокращений в соответствующей графе. Затем с помощью супервайзера, сотрудника территориального департамента статистики, осуществляющего контроль работы интервьюеров, определяется вид деятельности и отмечается соответствующий код (записывается не Фабрика «Рахат», а кондитерская фабрика «Рахат» или магазин (столовая, медпункт и другое) при кондитерской фабрике «Рахат»).
-
-   Самозанятым работникам (работодателям, помогающим (неоплачиваемым) работникам семейного предприятия, занятым в кооперативах, а также на личном подворье) проставляется вид деятельности в соответствии с характером (спецификой, направленностью) выполняемой ими работы или занятия;
-
-5) при заполнении вопроса 43 учитывается должность или профессия респондента, непосредственно занимаемая или исполняемая на рабочем месте основной работы, а не специальность (квалификацию), полученная в результате обучения.
-
-   Должность или профессия записывается согласно Приложению 3 к настоящей Инструкции подробно без сокращений, поскольку многие из профессий и должностей, имея одинаковое наименование, относятся к разным сферам деятельности.
+   Должность или профессия записывается согласно приложению 3 к настоящей Инструкции подробно без сокращений, поскольку многие из профессий и должностей, имея одинаковое наименование, относятся к разным сферам деятельности.
 
    Если респондент занят на разных неквалифицированных работах, то выясняется характер выполняемой работы и записывается профессия («грузчик»). Лицам, выполняющим неквалифицированную работу в сельском хозяйстве, исходя из специализации работы, записывается «рабочий растениеводства» или «рабочий животноводства». Для лиц, работающих на индивидуальной основе, указывается характер ремесла (занятия) - «пошив одежды», «сапожник», «продавец рынка», «уличный торговец», «изготовление мебели», «ремонт квартир». Для служителей культа и других лиц, занятых в религиозных организациях, записывают выполняемые функции;
 
-6) при заполнении вопроса 45 специальность (квалификация) учитывается по самому высокому уровню учебного заведения из числа законченных респондентом. Для лиц, которым в вопросе 7 раздела «Сведения о домашнем хозяйстве и его членах» отмечены коды 1-4 (то есть окончившим только школу или не имеющим специального образования), данный вопрос не задается.
+5) при заполнении вопроса 36 специальность (квалификация) учитывается по самому высокому уровню учебного заведения из числа законченных респондентом. Для лиц, которым в вопросе 7 раздела «Сведения о домашнем хозяйстве и его членах» отмечены коды 1-5 (то есть окончившим только школу или не имеющим специального образования), данный вопрос не задается;
 
-11\. В разделе III учитывается:
+6) при заполнении вопроса 37 записывается фактически отработанное респондентом на обследуемой неделе количество дней и часов только по его основной работе, не включая время, отработанное по совместительству как внутри одного предприятия, так и на других.
 
-1) вопросы этого раздела касаются другой дополнительной работы (занятия), которую респондент имел в течение обследуемой недели, в целях получения заработка или дохода. Это - совместительство, выполняемое на постоянной, временной, сезонной основе, другая работа по контракту, случайные или разовые подработки, работа на индивидуальной основе, предпринимательская деятельность без образования юридического лица, работа по найму у отдельных граждан;
+   При затруднении сразу получить ответ на вопрос 37, интервьюер помогает респонденту восстановить его работу (деятельность) по каждому дню обследуемой недели.
 
-2) при заполнении вопроса 62 уточняется наличие у респондента подработки с целью получения дополнительных заработков, осуществляемых в выходные дни или в ночное время.
+   Если респондент на обследуемой неделе временно отсутствовал на основной работе, то в данном вопросе отмечается ответ «0» (ноль) часов;
 
-   При положительном ответе перейти к вопросу 63, где отражается время, затраченное на выполнение этой работы. При отрицательном - осуществить переход к вопросу 65.
+7) При заполнении вопроса 38 код 1 отмечается лицами, с законодательно установленной сокращенной продолжительностью рабочего времени (занятые на тяжелых работах, работах с вредными (особо вредными) и (или) опасными условиями труда; работники, не достигшие 18-летнего возраста; инвалиды 1 и 2 групп), а также если продолжительность рабочего времени предусмотрена трудовым (коллективным) договором.
 
-12\. В разделе IV уточняется, ищет ли респондент работу (основную или дополнительную), готов ли в ближайшие 2 недели приступить к ней, причины поиска и возможные условия будущей работы.
+11\. В разделе 3 «Дополнительная работа (занятие) в течение прошлой недели» учитывается:
 
-13\. В разделе V уточняется, работал ли респондент когда-нибудь, причины окончания работы, вид деятельности прежней работы. На вопросы раздела V не отвечают респонденты, отметившие в вопросе 13 код 1. Все остальные респонденты отвечают на вопросы данного раздела, включая пенсионеров.
+Вопросы этого раздела касаются другой дополнительной работы (занятия), которую респондент имел в течение обследуемой недели, в целях получения заработка или дохода. Это - совместительство, выполняемое на постоянной, временной, сезонной основе, другая работа по контракту, случайные или разовые подработки, работа на индивидуальной основе, предпринимательская деятельность без образования юридического лица, работа по найму у отдельных граждан.
 
-14\. В разделе VI уточняется характер взаимодействия респондента с органами занятости населения. На вопросы данного раздела отвечают только респонденты трудоспособного возраста (16-58 лет – женщины, 16-63 года – мужчины).
+12\. В разделе 4 «Незанятость. Поиски работы в течение 4-х последних недель, экономическая неактивность» уточняется, ищет ли респондент работу (основную или дополнительную), готов ли в ближайшие 2 недели приступить к ней, причины поиска и возможные условия будущей работы.
 
-15\. Вопрос 85 раздела VII позволяет выяснить источники средств существования каждого респондента в обследуемом месяце.
+13\. В разделе 5 «Прошлая деятельность» уточняется, работал ли респондент когда-нибудь, причины окончания работы, вид деятельности прежней работы. На вопросы раздела 5 отвечают респонденты, отметившие в вопросе 6 код 2.
 
-В вопросе 86 указывается общая сумма совокупного дохода (сумма денежных средств, полученных членами домашнего хозяйства в виде оплаты труда, дохода от самостоятельной занятости (в том числе предпринимательской деятельности), социальных выплат (пенсий, стипендий, пособий и других выплат), процентов, дивидендов и других доходов от собственности, прочих денежных поступлений, а также оценочной стоимости товаров и услуг, произведенных и потребленных в домохозяйстве), полученного респондентом за последний месяц. В случае отсутствия дохода отмечается код 1.
+14\. В разделе 6 «Регистрация в органе занятости населения» уточняется характер взаимодействия респондента с органами занятости населения. На вопросы данного раздела отвечают только респонденты трудоспособного возраста (16-58 лет – женщины, 16-63 года – мужчины).
 
-На вопрос 87 отвечают только те респонденты, которые отметили в вопросе 85 код 2 «Самостоятельная занятость (доход)», остальные, минуя этот вопрос, переходят к вопросу 88.
+15\. Вопрос 78 раздела 7 «Источники средств существования» позволяет выяснить источники средств существования каждого респондента в обследуемом месяце.
 
-В вопросе 87 респондент указывает удельный вес дохода от самостоятельной занятости (включая оценочную стоимость товаров и услуг, произведенных и потребленных в домохозяйстве, а также продукцию, полученную с личного подворья, приусадебного, дачного участка) в сумме совокупного дохода, полученного респондентом за последний месяц.
+В вопросе 79 указывается общая сумма совокупного дохода (сумма денежных средств, полученных членами домашнего хозяйства в виде оплаты труда, дохода от самостоятельной занятости (в том числе предпринимательской деятельности), социальных выплат (пенсий, стипендий, пособий и других выплат), процентов, дивидендов и других доходов от собственности, прочих денежных поступлений, а также оценочной стоимости товаров и услуг, произведенных и потребленных в домохозяйстве), полученного респондентом за последний месяц. В случае отсутствия дохода отмечается код 1.
 
-Вопрос 88 заполняется интервьюером после проведения опроса.
+На вопрос 80 отвечают только те респонденты, которые отметили в вопросе 78 код 2 «Самостоятельная занятость (предпринимательский доход)», остальные, минуя этот вопрос, переходят к вопросу 81.
 
-Вопрос 89 заполняется на всех членов домохозяйства и позволяет установить уровень компьютерной грамотности. Код 1 вопроса 89 отмечается лицами, которые не имеют минимального опыта работы на компьютере, код 2 вопроса 89 отмечается лицами, владеющими минимальными навыками работы на компьютере, которые способны копировать файлы, работать с дисковыми устройствами, с компьютерными играми, код 3 вопроса 89 – лицами, владеющими базовыми навыками работы на офисных программных продуктах, код 4 вопроса 89 отмечается лицами, обладающими богатым опытом работы с широко распространенными программами и специальным программным обеспечением.
+В вопросе 80 респондент указывает удельный вес дохода от самостоятельной занятости (включая оценочную стоимость товаров и услуг, произведенных и потребленных в домохозяйстве, а также продукцию, полученную с личного подворья, приусадебного, дачного участка) в сумме совокупного дохода, полученного респондентом за последний месяц.
 
-16\. По завершении опроса интервьюер проверяет статистическую форму, не пропущены ли какие-либо вопросы, и, в обязательном порядке, благодарит респондентов за их помощь и сотрудничество. За пределами домохозяйства интервьюер повторно просматривает статистическую форму и, если все-таки обнаруживает какие-либо несоответствия, то вновь обращается в домохозяйство (лично или по телефону) и выясняет недостающую информацию.
+Вопрос 81 заполняется интервьюером после проведения опроса.
 
-> *Приложение 1 к Инструкции*  
-> *по заполнению статистической формы*  
+Вопрос 82 заполняется на всех членов домохозяйства и позволяет установить уровень компьютерной грамотности. Код 1 вопроса 82 отмечается лицами, которые не имеют минимального опыта работы на компьютере, код 2 вопроса 82 отмечается лицами, владеющими минимальными навыками работы на компьютере, которые способны копировать файлы, работать с дисковыми устройствами, с компьютерными играми, код 3 вопроса 82 – лицами, владеющими базовыми навыками работы на офисных программных продуктах, код 4 вопроса 82 отмечается лицами, обладающими богатым опытом работы с широко распространенными программами и специальным программным обеспечением.
+
+16\. По завершении опроса интервьюер проверяет статистическую форму, не пропущены ли вопросы, и, в обязательном порядке, благодарит респондентов за их помощь и сотрудничество. За пределами домохозяйства интервьюер повторно просматривает статистическую форму, если обнаруживает какие-либо несоответствия, то вновь обращается в домохозяйство (лично или по телефону) и выясняет недостающую информацию.
+
+> *Приложение 1*  
+> *к Инструкции по заполнению*  
+> *статистической формы*  
 > *общегосударственного статистического*  
 > *наблюдения «Анкета выборочного*  
 > *обследования занятости населения»*  
 > *(код 1232102, индекс Т-001,*  
-> *периодичность месячная, один раз в*
+> *периодичность месячная)*
 
-квартал)
-
-#### Таблица кодирования изменений в составе домашнего хозяйства для заполнения вопроса 2 «Анкеты выборочного обследования занятости населения» (код 1232102, индекс Т-001, периодичность месячная, один раз в квартал)
+### Таблица кодирования изменений в составе домашнего хозяйства для заполнения вопроса 2 «Анкеты выборочного обследования занятости населения» (код 1232102, индекс Т-001, периодичность месячная)
 
 <table>
 <tr>
-<td>Коды статуса изменения состава</td>
-<td>Коды причины выбытия (прибытия)</td>
+<th>Коды статуса изменения состава</th>
+<th>Коды причины выбытия (прибытия)</th>
 </tr>
 <tr>
-<td>
-1 – постоянно выбыл
-2 – постоянно прибыл
-3 – временно выбыл
-4 – временно прибыл
-</td>
+<td>1 – постоянно выбыл</td>
 <td>
 1 – рождение
 2 – смерть
-3 – работа (в пределах Республики Казахстан)
-4 – работа (за пределами Республики Казахстан)
+</td>
+</tr>
+<tr>
+<td>2 – постоянно прибыл</td>
+<td>3 – работа (в пределах Республики Казахстан)</td>
+</tr>
+<tr>
+<td>3 – временно выбыл</td>
+<td>4 – работа (за пределами Республики Казахстан)</td>
+</tr>
+<tr>
+<td>4 – временно прибыл</td>
+<td>
 5 – брак
 6 – развод
 7 – учеба
@@ -14590,727 +13290,1142 @@ _________________
 </tr>
 </table>
 
-> *Приложение 2 к Инструкции*  
-> *по заполнению статистической формы*  
+> *Приложение 2 к Инструкции по*  
+> *заполнению статистической формы*  
 > *общегосударственного статистического*  
 > *наблюдения «Анкета выборочного*  
 > *обследования занятости населения»*  
 > *(код 1232102, индекс Т-001,*  
-> *периодичность месячная, один раз в*
+> *периодичность месячная)*
 
-квартал)
-
-#### Пояснения по видам экономической деятельности для заполнения вопроса 42 «Анкеты выборочного обследования занятости населения» (код 1232102, индекс Т-001, периодичность месячная, один раз в квартал)
+### Пояснения по видам экономической деятельности для заполнения вопроса 32 «Анкеты выборочного обследования занятости населения» (код 1232102, индекс Т-001, периодичность месячная)
 
 <table>
 <tr>
 <td>Наименование основного вида экономической деятельности</td>
 <td>Код</td>
-<td>
-Виды деятельности и услуги,
-входящие в их состав
-</td>
+<td>Виды деятельности и услуги, входящие в их состав</td>
 </tr>
 <tr>
-<td>Сельское, лесное и рыбное хозяйство</td>
-<td>
-01.1
-01.2
-01.3
-01.4
-01.5
-01.6
-01.7
-02.1
-02.2
-02.3
-02.4
-03.1
-03.2
-</td>
-<td>
-Выращивание сезонных культур
-Выращивание многолетних культур
-Производство продукции питомников
-Животноводство
-Смешанное сельское хозяйство
-Вспомогательные виды деятельности в области выращивания сельскохозяйственных культур и разведения животных
-Охота и отлов, включая предоставление услуг в этих областях
-Лесоводство и прочая лесохозяйственная деятельность
-Лесозаготовки
-Сбор не древесной продукции лесного хозяйства
-Предоставление услуг в области лесного хозяйства (лесоводства и лесозаготовок)
-Рыболовство
-Аквакультура
-</td>
+<td rowspan="13">Сельское, лесное и рыбное хозяйство</td>
+<td>011</td>
+<td>Выращивание сезонных культур</td>
 </tr>
 <tr>
-<td>Горнодобывающая промышленность и разработка карьеров</td>
-<td>
-05.1
-05.2
-06.1
-06.2
-07.1
-07.2
-08.1
-08.9
-09.1
-09.9
-</td>
-<td>
-Добыча каменного угля
-Добыча лигнита
-Добыча сырой нефти
-Добыча природного газа
-Добыча железной руды
-Добыча руд цветных металлов
-Разработка каменных, глиняных и песчаных карьеров
-Отрасли горнодобывающей промышленности и разработки карьеров, не включенные в другие группировки
-Технические услуги в области добычи нефти и природного газа
-Техническая поддержка для прочих областей горнодобывающей промышленности и подземной разработки
-</td>
+<td>012</td>
+<td>Выращивание многолетних культур</td>
 </tr>
 <tr>
-<td>Обрабатывающая промышленность</td>
-<td>
-10.1
-10.2
-10.3
-10.4
-10.5
-10.6
-10.7
-10.8
-10.9
-11.0
-12.0
-13.1
-13.2
-13.3
-13.9
-14.1
-14.2
-14.3
-15.1
-15.2
-16.1
-16.2
-17.1
-17.2
-18.1
-18.2
-19.1
-19.2
-20.1
-20.2
-20.3
-20.4
-20.5
-20.6
-21.1
-21.2
-22.1
-22.2
-23.1
-23.2
-23.3
-23.4
-23.5
-23.6
-23.7
-23.9
-24.1
-24.2
-24.3
-24.4
-24.5
-25.1
-25.2
-25.3
-25.4
-25.5
-25.6
-25.7
-25.9
-26.1
-26.2
-26.3
-26.4
-26.5
-26.6
-26.7
-26.8
-27.1
-27.2
-27.3
-27.4
-27.5
-27.9
-28.1
-28.2
-28.3
-28.4
-28.9
-29.1
-29.2
-29.3
-30.1
-30.2
-30.3
-30.4
-30.9
-31.0
-32.1
-32.2
-32.3
-32.4
-32.5
-32.9
-33.1
-33.2
-</td>
-<td>
-Переработка и консервирование мяса и производство мясных изделий
-Переработка и консервирование рыбы, ракообразных и моллюсков
-Переработка и консервирование фруктов и овощей
-Производство растительных и животных масел и жиров
-Производство молочных продуктов
-Производство продуктов мукомольной промышленности, крахмалов и крахмальных продуктов
-Производство хлебобулочных и мучных изделий
-Производство прочих продуктов питания
-Производство готовых кормов для животных
-Производство напитков
-Производство табачных изделий
-Прядильное, ткацкое и отделочное производство
-Производство текстильных изделий
-Производство готовых текстильных изделий
-Производство прочих текстильных изделий
-Производство одежды, кроме одежды из меха
-Производство меховых изделий
-Производство вязаных и трикотажных изделий и одежды
-Дубление и выделка кожи; производство чемоданов, сумок, шорно-седельных изделий; выделка и крашение меха
-Производство обуви
-Лесопильное и строгальное производство
-Производство продукции из древесины, пробки, соломки и материалов для плетения
-Производство древесной массы и целлюлозы, бумаги и картона
-Производство изделий из бумаги и картона
-Издательское дело и услуги, связанные с издательским делом
-Воспроизведение записей с носителя
-Производство продукции коксовых печей
-Производство продуктов нефтепереработки
-Производство основных химикатов, удобрений и азотных соединений, пластмасс и синтетического каучука в первичных формах
-Производство пестицидов и прочей агрохимической продукции
-Производство красок, лаков и аналогичных красящих веществ, типографской краски и мастики
-Производство мыла и моющих средств, чистящих и полирующих препаратов, парфюмерной продукции и косметических средств
-Производство прочих химических продуктов
-Производство искусственных волокон
-Производство основных фармацевтических продуктов
-Производство фармацевтических препаратов
-Производство резиновых изделий
-Производство пластмассовых изделий
-Производство стекла и изделий из стекла
-Производство огнеупорных изделий
-Производство строительных материалов из глины
-Производство прочих фарфоровых и керамических изделий
-Производство цемента, извести и штукатурки
-Производство изделий из бетона, цемента и гипса для строительных целей
-Резка, обработка и отделка камня
-Производство абразивных изделий и прочей неметаллической минеральной продукции
-Производство чугуна, стали и ферросплавов
-Производство труб, трубопроводов, профилей, фитингов из стали
-Производство прочих стальных изделий путем первичной обработки
-Производство основных благородных и цветных металлов
-Литье металлов
-Производство строительных металлических конструкций и изделий
-Производство металлических цистерн, резервуаров и контейнеров
-Производство паровых котлов, кроме котлов центрального отопления
-Производство оружия и боеприпасов
-Ковка, прессование, штамповка, профилирование листового металла роликами, и профилировка листового металла на роликовой листогибочной машине; порошковая металлургия
-Обработка металлов и нанесение покрытий на металлы; основные технологические процессы машиностроения
-Производство столовых приборов, ручных металлических инструментов и металлических изделий общего назначения
-Производство прочих готовых металлических изделий
-Производство электронных деталей
-Производство компьютеров и периферийного оборудования
-Производство оборудования связи
-Производство приборов бытовой электроники
-Производство инструментов и приборов для измерения, тестирования и навигации; наручных часов и прочих видов часов
-Производство облучающего, электромедицинского и электротерапевтического оборудования
-Производство оптических приборов и фотографического оборудования
-Производство магнитных и оптических средств передачи информации
-Производство электромоторов, генераторов, трансформаторов и электрораспределительной и контрольной аппаратуры
-Производство батарей и аккумуляторов
-Производство электропроводки и электропроводных приборов
-Производство электроосветительного оборудования
-Производство бытовых приборов
-Производство прочего электрического оборудования
-Производство машин общего назначения
-Производство прочей техники общего назначения
-Производство сельскохозяйственной и лесохозяйственной техники
-Производство оборудования для обработки металлов давлением и механических станков
-Производство прочих видов техники специального назначения
-Производство автотранспортных средств
-Производство кузовов для автотранспортных средств; производство трейлеров и полуприцепов
-Производство частей и принадлежностей автотранспортных средств и их двигателей
-Производство морских судов и лодок
-Производство железнодорожных локомотивов и подвижного состава
-Производство воздушных и космических летательных аппаратов
-Производство военных боевых автотранспортных средств
-Производство транспортного оборудования, не включенного в другие группировки
-Производство мебели
-Производство ювелирных изделий, бижутерии и аналогичных изделий
-Производство музыкальных инструментов
-Производство спортивных товаров
-Производство игр и игрушек
-Производство медицинских и стоматологических инструментов и принадлежностей
-Производство прочих готовых изделий, не включенных в другие группировки
-Ремонт готовых металлических изделий, машин и оборудования
-Монтаж промышленной техники и оборудования
-</td>
+<td>013</td>
+<td>Производство продукции питомников</td>
 </tr>
 <tr>
-<td>Электроснабжение, подача газа, пара и воздушное кондиционирование</td>
-<td>
-35.1
-35.2
-35.3
-</td>
-<td>
-Производство, передача и распределение электроэнергии
-Производство и распределение газообразного топлива
-Системы подачи пара и кондиционирования воздуха
-</td>
+<td>014</td>
+<td>Животноводство</td>
 </tr>
 <tr>
-<td>Водоснабжение, канализационная система, контроль над сбором и распределением отходов</td>
-<td>
-36.0
-37.0
-38.1
-38.2
-38.3
-39.0
-</td>
-<td>
-Сбор, обработка и распределение воды
-Канализационная система
-Сбор отходов
-Обработка и удаление отходов
-Утилизация отходов
-Рекультивация и прочие услуги в области удаления отходов
-</td>
+<td>015</td>
+<td>Смешанное сельское хозяйство</td>
 </tr>
 <tr>
-<td>Строительство</td>
-<td>
-41.1
-41.2
-42.1
-42.2
-42.9
-43.1
-43.2
-43.3
-43.9
-</td>
-<td>
-Разработка строительных проектов
-Строительство жилых и нежилых зданий
-Строительство автомобильных и железных дорог
-Строительство инженерных сооружений
-Строительство прочих инженерных сооружений
-Снос существующих сооружений и подготовка площадки для строительства
-Электротехнические, слесарные и прочие строительно-монтажные работы
-Отделочные работы
-Прочие специализированные строительные работы
-</td>
+<td>016</td>
+<td>Вспомогательные виды деятельности в области выращивания сельскохозяйственных культур и разведения животных</td>
 </tr>
 <tr>
-<td>Оптовая и розничная торговля, ремонт автомобилей и мотоциклов</td>
-<td>
-45.1
-45.2
-45.3
-45.4
-46.1
-46.2
-46.3
-46.4
-46.5
-46.6
-46.7
-46.9
-47.1
-47.2
-47.3
-47.4
-47.5
-47.6
-47.7
-47.8
-47.9
-</td>
-<td>
-Продажа автомобилей
-Техобслуживание и ремонт транспортных средств
-Торговля автомобильными деталями, узлами и принадлежностями
-Торговля мотоциклами, их деталями, узлами и принадлежностями; техническое обслуживание и ремонт мотоциклов
-Оптовая торговля за вознаграждение или на договорной основе
-Оптовая торговля сельскохозяйственным сырьем и живыми животными
-Оптовая торговля продуктами питания, напитками и табачными изделиями
-Оптовая торговля непродовольственными товарами потребительского назначения
-Оптовая торговля информационным и коммуникационным оборудованием
-Оптовая торговля прочей техникой, оборудованием и запасными частями
-Прочие услуги оптовой торговли
-Неспециализированная оптовая торговля
-Розничная торговля в неспециализированных магазинах
-Розничная торговля продуктами питания, включая напитки, и табачными изделиями в специализированных магазинах
-Розничная торговля топливом в специализированных магазинах
-Розничная торговля информационным и коммуникационным оборудованием в специализированных магазинах
-Розничная торговля прочим бытовым оборудованием в специализированных магазинах
-Розничная торговля товарами культурно-развлекательного характера в специализированных магазинах
-Розничная торговля прочими товарами в специализированных магазинах
-Розничная торговля через палатки и рынки
-Розничная торговля не через магазины и рынки
-</td>
+<td>017</td>
+<td>Охота и отлов, включая предоставление услуг в этих областях</td>
 </tr>
 <tr>
-<td>Транспорт и складирование</td>
-<td>
-49.1
-49.2
-49.3
-49.4
-49.5
-50.1
-50.2
-50.3
-50.4
-51.1
-51.2
-52.1
-52.2
-53.1
-53.2
-</td>
-<td>
-Пассажирский железнодорожный транспорт, междугородний
-Грузовой железнодорожный транспорт
-Прочий пассажирский сухопутный транспорт
-Грузовые перевозки автомобильным транспортом и услуги по перевозкам
-Транспортирование по трубопроводу
-Морской и прибрежный пассажирский транспорт
-Морской и прибрежный грузовой транспорт
-Речной пассажирский транспорт
-Речной грузовой транспорт
-Воздушный пассажирский транспорт
-Воздушный грузовой транспорт и транспортная космическая система
-Складирование и хранение груза
-Вспомогательные виды деятельности при транспортировке
-Почтовые услуги в соответствии с обязательствами по предоставлению услуг в зоне всеобщего охвата
-Прочая почтовая и курьерская деятельность
-</td>
+<td>021</td>
+<td>Лесоводство и прочая лесохозяйственная деятельность</td>
 </tr>
 <tr>
-<td>Услуги по проживанию и питанию</td>
-<td>
-55.1
-55.2
-55.3
-55.9
-56.1
-56.2
-56.3
-</td>
-<td>
-Предоставление услуг гостиницами
-Предоставление жилья на выходные и прочие периоды краткосрочного проживания
-Площадки для кемпинга, рекреационные автопарки и трейлерные парки
-Другие виды жилья
-Рестораны и услуги по доставке продуктов питания
-Доставка пищи на заказ и другие услуги по доставке продуктов питания
-Подача напитков
-</td>
+<td>022</td>
+<td>Лесозаготовки</td>
 </tr>
 <tr>
-<td>Информация и связь</td>
-<td>
-58.1
-58.2
-59.1
-59.2
-60.1
-60.2
-61.1
-61.2
-61.3
-61.9
-62.0
-63.1
-63.9
-</td>
-<td>
-Издание книг, периодических публикаций и другие виды издательской деятельности
-Выпуск программного обеспечения
-Деятельность по производству кино-, видеофильмов и телевизионных программ
-Деятельность по изданию фонограмм и музыкальных записей
-Радиовещание
-Деятельность по созданию и трансляции телевизионных программ
-Кабельная телекоммуникационная связь
-Беспроводная телекоммуникационная связь
-Спутниковая система телекоммуникаций
-Другие виды телекоммуникационных услуг
-Компьютерное программирование, консультации и другие сопутствующие услуги
-Услуги по размещению и переработке данных, веб-порталы
-Деятельность прочих информационных служб
-</td>
+<td>023</td>
+<td>Сбор не древесной продукции лесного хозяйства</td>
 </tr>
 <tr>
-<td>Финансовая и страховая деятельность</td>
-<td>
-64.1
-64.2
-64.3
-64.9
-65.1
-65.2
-65.3
-66.1
-66.2
-66.3
-</td>
-<td>
-Денежно-кредитное посредничество
-Деятельность холдинговых компаний
-Тресты, фонды и другие подобные финансовые объекты
-Другие виды финансовых услуг, за исключением услуг страховых и пенсионных фондов
-Страхование
-Перестрахование
-Деятельность пенсионных фондов
-Вспомогательная деятельность по предоставлению финансовых услуг, кроме страхования и пенсионного обеспечения
-Вспомогательная деятельность по страхованию и пенсионному обеспечению
-Деятельность по управлению фондами
-</td>
+<td>024</td>
+<td>Предоставление услуг в области лесного хозяйства (лесоводства и лесозаготовок)</td>
 </tr>
 <tr>
-<td>Операции с недвижимым имуществом</td>
-<td>
-68.1
-68.2
-68.3
-</td>
-<td>
-Купля и продажа недвижимости
-Аренда и управление собственной или арендуемой недвижимостью
-Операции с недвижимым имуществом за вознаграждение или на договорной основе
-</td>
+<td>031</td>
+<td>Рыболовство</td>
 </tr>
 <tr>
-<td>Профессиональная, научная и техническая деятельность</td>
-<td>
-69.1
-69.2
-70.1
-70.2
-71.1
-71.2
-72.1
-72.2
-73.1
-73.2
-74.1
-74.2
-74.3
-74.9
-75.0
-</td>
-<td>
-Деятельность в области права
-Деятельность в области бухгалтерского учета и аудита; консультации по налогообложению
-Деятельность головных компаний
-Деятельность по консультированию по вопросам управления
-Деятельность в области архитектуры, инженерных изысканий и предоставление технических консультаций в этих областях
-Технические испытания и анализы
-Научные исследования и экспериментальные разработки в области естественных наук и инженерии
-Исследования и экспериментальные разработки в области общественных и гуманитарных наук
-Реклама
-Исследование конъюнктуры рынка и изучение общественного мнения
-Специализированные работы по дизайну
-Деятельность в области фотографии
-Переводческое (устное и письменное) дело
-Прочая профессиональная, научная и техническая деятельность, не включенная в другие категории
-Ветеринарная деятельность
-</td>
+<td>032</td>
+<td>Аквакультура</td>
 </tr>
 <tr>
+<td rowspan="10">Горнодобывающая промышленность и разработка карьеров</td>
+<td>051</td>
+<td>Добыча каменного угля</td>
+</tr>
+<tr>
+<td>052</td>
+<td>Добыча лигнита</td>
+</tr>
+<tr>
+<td>061</td>
+<td>Добыча сырой нефти</td>
+</tr>
+<tr>
+<td>062</td>
+<td>Добыча природного газа</td>
+</tr>
+<tr>
+<td>071</td>
+<td>Добыча железной руды</td>
+</tr>
+<tr>
+<td>072</td>
+<td>Добыча руд цветных металлов</td>
+</tr>
+<tr>
+<td>081</td>
+<td>Разработка каменных, глиняных и песчаных карьеров</td>
+</tr>
+<tr>
+<td>089</td>
+<td>Отрасли горнодобывающей промышленности и разработки карьеров, не включенные в другие группировки</td>
+</tr>
+<tr>
+<td>091</td>
+<td>Технические услуги в области добычи нефти и природного газа</td>
+</tr>
+<tr>
+<td>099</td>
+<td>Техническая поддержка для прочих областей горнодобывающей промышленности и подземной разработки</td>
+</tr>
+<tr>
+<td rowspan="95">Обрабатывающая промышленность</td>
+<td>101</td>
+<td>Переработка и консервирование мяса и производство мясных изделий</td>
+</tr>
+<tr>
+<td>102</td>
+<td>Переработка и консервирование рыбы, ракообразных и моллюсков</td>
+</tr>
+<tr>
+<td>103</td>
+<td>Переработка и консервирование фруктов и овощей</td>
+</tr>
+<tr>
+<td>104</td>
+<td>Производство растительных и животных масел и жиров</td>
+</tr>
+<tr>
+<td>105</td>
+<td>Производство молочных продуктов</td>
+</tr>
+<tr>
+<td>106</td>
+<td>Производство продуктов мукомольной промышленности, крахмалов и крахмальных продуктов</td>
+</tr>
+<tr>
+<td>107</td>
+<td>Производство хлебобулочных и мучных изделий</td>
+</tr>
+<tr>
+<td>108</td>
+<td>Производство прочих продуктов питания</td>
+</tr>
+<tr>
+<td>109</td>
+<td>Производство готовых кормов для животных</td>
+</tr>
+<tr>
+<td>110</td>
+<td>Производство напитков</td>
+</tr>
+<tr>
+<td>120</td>
+<td>Производство табачных изделий</td>
+</tr>
+<tr>
+<td>131</td>
+<td>Прядильное, ткацкое и отделочное производство</td>
+</tr>
+<tr>
+<td>132</td>
+<td>Производство текстильных изделий</td>
+</tr>
+<tr>
+<td>133</td>
+<td>Производство готовых текстильных изделий</td>
+</tr>
+<tr>
+<td>139</td>
+<td>Производство прочих текстильных изделий</td>
+</tr>
+<tr>
+<td>141</td>
+<td>Производство одежды, кроме одежды из меха</td>
+</tr>
+<tr>
+<td>142</td>
+<td>Производство меховых изделий</td>
+</tr>
+<tr>
+<td>143</td>
+<td>Производство вязаных и трикотажных изделий и одежды</td>
+</tr>
+<tr>
+<td>151</td>
+<td>Дубление и выделка кожи; производство чемоданов, сумок, шорно-седельных изделий; выделка и крашение меха</td>
+</tr>
+<tr>
+<td>152</td>
+<td>Производство обуви</td>
+</tr>
+<tr>
+<td>161</td>
+<td>Лесопильное и строгальное производство</td>
+</tr>
+<tr>
+<td>162</td>
+<td>Производство продукции из древесины, пробки, соломки и материалов для плетения</td>
+</tr>
+<tr>
+<td>171</td>
+<td>Производство древесной массы и целлюлозы, бумаги и картона</td>
+</tr>
+<tr>
+<td>172</td>
+<td>Производство изделий из бумаги и картона</td>
+</tr>
+<tr>
+<td>181</td>
+<td>Печатное дело и услуги, связанные с издательским делом</td>
+</tr>
+<tr>
+<td>182</td>
+<td>Воспроизведение записей с носителя</td>
+</tr>
+<tr>
+<td>191</td>
+<td>Производство продукции коксовых печей</td>
+</tr>
+<tr>
+<td>192</td>
+<td>Производство продуктов нефтепереработки</td>
+</tr>
+<tr>
+<td>201</td>
+<td>Производство основных химикатов, удобрений и азотных соединений, пластмасс и синтетического каучука в первичных формах</td>
+</tr>
+<tr>
+<td>202</td>
+<td>Производство пестицидов и прочей агрохимической продукции</td>
+</tr>
+<tr>
+<td>203</td>
+<td>Производство красок, лаков и аналогичных красящих веществ, типографской краски и мастики</td>
+</tr>
+<tr>
+<td>204</td>
+<td>Производство мыла и моющих средств, чистящих и полирующих препаратов, парфюмерной продукции и косметических средств</td>
+</tr>
+<tr>
+<td>205</td>
+<td>Производство прочих химических продуктов</td>
+</tr>
+<tr>
+<td>206</td>
+<td>Производство искусственных волокон</td>
+</tr>
+<tr>
+<td>211</td>
+<td>Производство основных фармацевтических продуктов</td>
+</tr>
+<tr>
+<td>212</td>
+<td>Производство фармацевтических препаратов</td>
+</tr>
+<tr>
+<td>221</td>
+<td>Производство резиновых изделий</td>
+</tr>
+<tr>
+<td>222</td>
+<td>Производство пластмассовых изделий</td>
+</tr>
+<tr>
+<td>231</td>
+<td>Производство стекла и изделий из стекла</td>
+</tr>
+<tr>
+<td>232</td>
+<td>Производство огнеупорных изделий</td>
+</tr>
+<tr>
+<td>233</td>
+<td>Производство строительных материалов из глины</td>
+</tr>
+<tr>
+<td>234</td>
+<td>Производство прочих фарфоровых и керамических изделий</td>
+</tr>
+<tr>
+<td>235</td>
+<td>Производство цемента, извести и штукатурки</td>
+</tr>
+<tr>
+<td>236</td>
+<td>Производство изделий из бетона, цемента и гипса для строительных целей</td>
+</tr>
+<tr>
+<td>237</td>
+<td>Резка, обработка и отделка камня</td>
+</tr>
+<tr>
+<td>239</td>
+<td>Производство абразивных изделий и прочей неметаллической минеральной продукции</td>
+</tr>
+<tr>
+<td>241</td>
+<td>Производство чугуна, стали и ферросплавов</td>
+</tr>
+<tr>
+<td>242</td>
+<td>Производство труб, трубопроводов, профилей, фитингов из стали</td>
+</tr>
+<tr>
+<td>243</td>
+<td>Производство прочих стальных изделий путем первичной обработки</td>
+</tr>
+<tr>
+<td>244</td>
+<td>Производство основных благородных и цветных металлов</td>
+</tr>
+<tr>
+<td>245</td>
+<td>Литье металлов</td>
+</tr>
+<tr>
+<td>251</td>
+<td>Производство строительных металлических конструкций и изделий</td>
+</tr>
+<tr>
+<td>252</td>
+<td>Производство металлических цистерн, резервуаров и контейнеров</td>
+</tr>
+<tr>
+<td>253</td>
+<td>Производство паровых котлов, кроме котлов центрального отопления</td>
+</tr>
+<tr>
+<td>254</td>
+<td>Производство оружия и боеприпасов</td>
+</tr>
+<tr>
+<td>255</td>
+<td>Ковка, прессование, штамповка, профилирование листового металла роликами, и профилировка листового металла на роликовой листогибочной машине; порошковая металлургия</td>
+</tr>
+<tr>
+<td>256</td>
+<td>Обработка металлов и нанесение покрытий на металлы; основные технологические процессы машиностроения</td>
+</tr>
+<tr>
+<td>257</td>
+<td>Производство столовых приборов, ручных металлических инструментов и металлических изделий общего назначения</td>
+</tr>
+<tr>
+<td>259</td>
+<td>Производство прочих готовых металлических изделий</td>
+</tr>
+<tr>
+<td>261</td>
+<td>Производство электронных деталей</td>
+</tr>
+<tr>
+<td>262</td>
+<td>Производство компьютеров и периферийного оборудования</td>
+</tr>
+<tr>
+<td>263</td>
+<td>Производство оборудования связи</td>
+</tr>
+<tr>
+<td>264</td>
+<td>Производство приборов бытовой электроники</td>
+</tr>
+<tr>
+<td>265</td>
+<td>Производство инструментов и приборов для измерения, тестирования и навигации; наручных часов и прочих видов часов</td>
+</tr>
+<tr>
+<td>266</td>
+<td>Производство облучающего, электромедицинского и электротерапевтического оборудования</td>
+</tr>
+<tr>
+<td>267</td>
+<td>Производство оптических приборов и фотографического оборудования</td>
+</tr>
+<tr>
+<td>268</td>
+<td>Производство магнитных и оптических средств передачи информации</td>
+</tr>
+<tr>
+<td>271</td>
+<td>Производство электромоторов, генераторов, трансформаторов и электрораспределительной и контрольной аппаратуры</td>
+</tr>
+<tr>
+<td>272</td>
+<td>Производство батарей и аккумуляторов</td>
+</tr>
+<tr>
+<td>273</td>
+<td>Производство электропроводки и электропроводных приборов</td>
+</tr>
+<tr>
+<td>274</td>
+<td>Производство электроосветительного оборудования</td>
+</tr>
+<tr>
+<td>275</td>
+<td>Производство бытовых приборов</td>
+</tr>
+<tr>
+<td>279</td>
+<td>Производство прочего электрического оборудования</td>
+</tr>
+<tr>
+<td>281</td>
+<td>Производство машин общего назначения</td>
+</tr>
+<tr>
+<td>282</td>
+<td>Производство прочей техники общего назначения</td>
+</tr>
+<tr>
+<td>283</td>
+<td>Производство сельскохозяйственной и лесохозяйственной техники</td>
+</tr>
+<tr>
+<td>284</td>
+<td>Производство оборудования для обработки металлов давлением и механических станков</td>
+</tr>
+<tr>
+<td>289</td>
+<td>Производство прочих видов техники специального назначения</td>
+</tr>
+<tr>
+<td>291</td>
+<td>Производство автотранспортных средств</td>
+</tr>
+<tr>
+<td>292</td>
+<td>Производство кузовов для автотранспортных средств; производство трейлеров и полуприцепов</td>
+</tr>
+<tr>
+<td>293</td>
+<td>Производство частей и принадлежностей автотранспортных средств и их двигателей</td>
+</tr>
+<tr>
+<td>301</td>
+<td>Производство морских судов и лодок</td>
+</tr>
+<tr>
+<td>302</td>
+<td>Производство железнодорожных локомотивов и подвижного состава</td>
+</tr>
+<tr>
+<td>303</td>
+<td>Производство воздушных и космических летательных аппаратов</td>
+</tr>
+<tr>
+<td>304</td>
+<td>Производство военных боевых автотранспортных средств</td>
+</tr>
+<tr>
+<td>309</td>
+<td>Производство транспортного оборудования, не включенного в другие группировки</td>
+</tr>
+<tr>
+<td>310</td>
+<td>Производство мебели</td>
+</tr>
+<tr>
+<td>321</td>
+<td>Производство ювелирных изделий, бижутерии и аналогичных изделий</td>
+</tr>
+<tr>
+<td>322</td>
+<td>Производство музыкальных инструментов</td>
+</tr>
+<tr>
+<td>323</td>
+<td>Производство спортивных товаров</td>
+</tr>
+<tr>
+<td>324</td>
+<td>Производство игр и игрушек</td>
+</tr>
+<tr>
+<td>325</td>
+<td>Производство медицинских и стоматологических инструментов и принадлежностей</td>
+</tr>
+<tr>
+<td>329</td>
+<td>Производство прочих готовых изделий, не включенных в другие группировки</td>
+</tr>
+<tr>
+<td>331</td>
+<td>Ремонт готовых металлических изделий, машин и оборудования</td>
+</tr>
+<tr>
+<td>332</td>
+<td>Монтаж промышленной техники и оборудования</td>
+</tr>
+<tr>
+<td rowspan="3">Электроснабжение, подача газа, пара и воздушное кондиционирование</td>
+<td>351</td>
+<td>Производство, передача и распределение электроэнергии</td>
+</tr>
+<tr>
+<td>352</td>
+<td>Производство и распределение газообразного топлива</td>
+</tr>
+<tr>
+<td>353</td>
+<td>Системы подачи пара и кондиционирования воздуха</td>
+</tr>
+<tr>
+<td rowspan="6">Водоснабжение, канализационная система, контроль над сбором и распределением отходов</td>
+<td>360</td>
+<td>Сбор, обработка и распределение воды</td>
+</tr>
+<tr>
+<td>370</td>
+<td>Канализационная система</td>
+</tr>
+<tr>
+<td>381</td>
+<td>Сбор отходов</td>
+</tr>
+<tr>
+<td>382</td>
+<td>Обработка и удаление отходов</td>
+</tr>
+<tr>
+<td>383</td>
+<td>Утилизация отходов</td>
+</tr>
+<tr>
+<td>390</td>
+<td>Рекультивация и прочие услуги в области удаления отходов</td>
+</tr>
+<tr>
+<td rowspan="9">Строительство</td>
+<td>411</td>
+<td>Разработка строительных проектов</td>
+</tr>
+<tr>
+<td>412</td>
+<td>Строительство жилых и нежилых зданий</td>
+</tr>
+<tr>
+<td>421</td>
+<td>Строительство автомобильных и железных дорог</td>
+</tr>
+<tr>
+<td>422</td>
+<td>Строительство инженерных сооружений</td>
+</tr>
+<tr>
+<td>429</td>
+<td>Строительство прочих инженерных сооружений</td>
+</tr>
+<tr>
+<td>431</td>
+<td>Снос существующих сооружений и подготовка площадки для строительства</td>
+</tr>
+<tr>
+<td>432</td>
+<td>Электротехнические, слесарные и прочие строительно-монтажные работы</td>
+</tr>
+<tr>
+<td>433</td>
+<td>Отделочные работы</td>
+</tr>
+<tr>
+<td>439</td>
+<td>Прочие специализированные строительные работы</td>
+</tr>
+<tr>
+<td rowspan="21">Оптовая и розничная торговля, ремонт автомобилей и мотоциклов</td>
+<td>451</td>
+<td>Продажа автомобилей</td>
+</tr>
+<tr>
+<td>452</td>
+<td>Техобслуживание и ремонт транспортных средств</td>
+</tr>
+<tr>
+<td>453</td>
+<td>Торговля автомобильными деталями, узлами и принадлежностями</td>
+</tr>
+<tr>
+<td>454</td>
+<td>Торговля мотоциклами, их деталями, узлами и принадлежностями; техническое обслуживание и ремонт мотоциклов</td>
+</tr>
+<tr>
+<td>461</td>
+<td>Оптовая торговля за вознаграждение или на договорной основе</td>
+</tr>
+<tr>
+<td>462</td>
+<td>Оптовая торговля сельскохозяйственным сырьем и живыми животными</td>
+</tr>
+<tr>
+<td>463</td>
+<td>Оптовая торговля продуктами питания, напитками и табачными изделиями</td>
+</tr>
+<tr>
+<td>464</td>
+<td>Оптовая торговля непродовольственными товарами потребительского назначения</td>
+</tr>
+<tr>
+<td>465</td>
+<td>Оптовая торговля информационным и коммуникационным оборудованием</td>
+</tr>
+<tr>
+<td>466</td>
+<td>Оптовая торговля прочей техникой, оборудованием и запасными частями</td>
+</tr>
+<tr>
+<td>467</td>
+<td>Прочие услуги оптовой торговли</td>
+</tr>
+<tr>
+<td>469</td>
+<td>Неспециализированная оптовая торговля</td>
+</tr>
+<tr>
+<td>471</td>
+<td>Розничная торговля в неспециализированных магазинах</td>
+</tr>
+<tr>
+<td>472</td>
+<td>Розничная торговля продуктами питания, включая напитки, и табачными изделиями в специализированных магазинах</td>
+</tr>
+<tr>
+<td>473</td>
+<td>Розничная торговля топливом в специализированных магазинах</td>
+</tr>
+<tr>
+<td>474</td>
+<td>Розничная торговля информационным и коммуникационным оборудованием в специализированных магазинах</td>
+</tr>
+<tr>
+<td>475</td>
+<td>Розничная торговля прочим бытовым оборудованием в специализированных магазинах</td>
+</tr>
+<tr>
+<td>476</td>
+<td>Розничная торговля товарами культурно-развлекательного характера в специализированных магазинах</td>
+</tr>
+<tr>
+<td>477</td>
+<td>Розничная торговля прочими товарами в специализированных магазинах</td>
+</tr>
+<tr>
+<td>478</td>
+<td>Розничная торговля через палатки и рынки</td>
+</tr>
+<tr>
+<td>479</td>
+<td>Розничная торговля не через магазины и рынки</td>
+</tr>
+<tr>
+<td rowspan="15">Транспорт и складирование</td>
+<td>491</td>
+<td>Пассажирский железнодорожный транспорт, междугородний</td>
+</tr>
+<tr>
+<td>492</td>
+<td>Грузовой железнодорожный транспорт</td>
+</tr>
+<tr>
+<td>493</td>
+<td>Прочий пассажирский сухопутный транспорт</td>
+</tr>
+<tr>
+<td>494</td>
+<td>Грузовые перевозки автомобильным транспортом и услуги по перевозкам</td>
+</tr>
+<tr>
+<td>495</td>
+<td>Транспортирование по трубопроводу</td>
+</tr>
+<tr>
+<td>501</td>
+<td>Морской и прибрежный пассажирский транспорт</td>
+</tr>
+<tr>
+<td>502</td>
+<td>Морской и прибрежный грузовой транспорт</td>
+</tr>
+<tr>
+<td>503</td>
+<td>Речной пассажирский транспорт</td>
+</tr>
+<tr>
+<td>504</td>
+<td>Речной грузовой транспорт</td>
+</tr>
+<tr>
+<td>511</td>
+<td>Воздушный пассажирский транспорт</td>
+</tr>
+<tr>
+<td>512</td>
+<td>Воздушный грузовой транспорт и транспортная космическая система</td>
+</tr>
+<tr>
+<td>521</td>
+<td>Складирование и хранение груза</td>
+</tr>
+<tr>
+<td>522</td>
+<td>Вспомогательные виды деятельности при транспортировке</td>
+</tr>
+<tr>
+<td>531</td>
+<td>Почтовые услуги в соответствии с обязательствами по предоставлению услуг в зоне всеобщего охвата</td>
+</tr>
+<tr>
+<td>532</td>
+<td>Прочая почтовая и курьерская деятельность</td>
+</tr>
+<tr>
+<td rowspan="7">Услуги по проживанию и питанию</td>
+<td>551</td>
+<td>Предоставление услуг гостиницами</td>
+</tr>
+<tr>
+<td>552</td>
+<td>Предоставление жилья на выходные и прочие периоды краткосрочного проживания</td>
+</tr>
+<tr>
+<td>553</td>
+<td>Площадки для кемпинга, рекреационные автопарки и трейлерные парки</td>
+</tr>
+<tr>
+<td>559</td>
+<td>Другие виды жилья</td>
+</tr>
+<tr>
+<td>561</td>
+<td>Рестораны и услуги по доставке продуктов питания</td>
+</tr>
+<tr>
+<td>562</td>
+<td>Доставка пищи на заказ и другие услуги по доставке продуктов питания</td>
+</tr>
+<tr>
+<td>563</td>
+<td>Подача напитков</td>
+</tr>
+<tr>
+<td rowspan="13">Информация и связь</td>
+<td>581</td>
+<td>Издание книг, периодических публикаций и другие виды издательской деятельности</td>
+</tr>
+<tr>
+<td>582</td>
+<td>Выпуск программного обеспечения</td>
+</tr>
+<tr>
+<td>591</td>
+<td>Деятельность по производству кино-, видеофильмов и телевизионных программ</td>
+</tr>
+<tr>
+<td>592</td>
+<td>Деятельность по изданию фонограмм и музыкальных записей</td>
+</tr>
+<tr>
+<td>601</td>
+<td>Радиовещание</td>
+</tr>
+<tr>
+<td>602</td>
+<td>Деятельность по созданию и трансляции телевизионных программ</td>
+</tr>
+<tr>
+<td>611</td>
+<td>Проводная телекоммуникационная связь</td>
+</tr>
+<tr>
+<td>612</td>
+<td>Беспроводная телекоммуникационная связь</td>
+</tr>
+<tr>
+<td>613</td>
+<td>Спутниковая система телекоммуникаций</td>
+</tr>
+<tr>
+<td>619</td>
+<td>Другие виды телекоммуникационных услуг</td>
+</tr>
+<tr>
+<td>620</td>
+<td>Компьютерное программирование, консультации и другие сопутствующие услуги</td>
+</tr>
+<tr>
+<td>631</td>
+<td>Услуги по размещению и переработке данных, веб-порталы</td>
+</tr>
+<tr>
+<td>639</td>
+<td>Деятельность прочих информационных служб</td>
+</tr>
+<tr>
+<td rowspan="10">Финансовая и страховая деятельность</td>
+<td>641</td>
+<td>Денежно-кредитное посредничество</td>
+</tr>
+<tr>
+<td>642</td>
+<td>Деятельность холдинговых компаний</td>
+</tr>
+<tr>
+<td>643</td>
+<td>Тресты, фонды и другие подобные финансовые объекты</td>
+</tr>
+<tr>
+<td>649</td>
+<td>Другие виды финансовых услуг, за исключением услуг страховых и пенсионных фондов</td>
+</tr>
+<tr>
+<td>651</td>
+<td>Страхование</td>
+</tr>
+<tr>
+<td>652</td>
+<td>Перестрахование</td>
+</tr>
+<tr>
+<td>653</td>
+<td>Деятельность пенсионных фондов</td>
+</tr>
+<tr>
+<td>661</td>
+<td>Вспомогательная деятельность по предоставлению финансовых услуг, кроме страхования и пенсионного обеспечения</td>
+</tr>
+<tr>
+<td>662</td>
+<td>Вспомогательная деятельность по страхованию и пенсионному обеспечению</td>
+</tr>
+<tr>
+<td>663</td>
+<td>Деятельность по управлению фондами</td>
+</tr>
+<tr>
+<td rowspan="3">Операции с недвижимым имуществом</td>
+<td>681</td>
+<td>Купля и продажа недвижимости</td>
+</tr>
+<tr>
+<td>682</td>
+<td>Аренда и управление собственной или арендуемой недвижимостью</td>
+</tr>
+<tr>
+<td>683</td>
+<td>Операции с недвижимым имуществом за вознаграждение или на договорной основе</td>
+</tr>
+<tr>
+<td rowspan="15">Профессиональная, научная и техническая деятельность</td>
+<td>691</td>
+<td>Деятельность в области права</td>
+</tr>
+<tr>
+<td>692</td>
+<td>Деятельность в области бухгалтерского учета и аудита; консультации по налогообложению</td>
+</tr>
+<tr>
+<td>701</td>
+<td>Деятельность головных компаний</td>
+</tr>
+<tr>
+<td>702</td>
+<td>Деятельность по консультированию по вопросам управления</td>
+</tr>
+<tr>
+<td>711</td>
+<td>Деятельность в области архитектуры, инженерных изысканий и предоставление технических консультаций в этих областях</td>
+</tr>
+<tr>
+<td>712</td>
+<td>Технические испытания и анализы</td>
+</tr>
+<tr>
+<td>721</td>
+<td>Научные исследования и экспериментальные разработки в области естественных наук и инженерии</td>
+</tr>
+<tr>
+<td>722</td>
+<td>Исследования и экспериментальные разработки в области общественных и гуманитарных наук</td>
+</tr>
+<tr>
+<td>731</td>
+<td>Реклама</td>
+</tr>
+<tr>
+<td>732</td>
+<td>Исследование конъюнктуры рынка и изучение общественного мнения</td>
+</tr>
+<tr>
+<td>741</td>
+<td>Специализированные работы по дизайну</td>
+</tr>
+<tr>
+<td>742</td>
+<td>Деятельность в области фотографии</td>
+</tr>
+<tr>
+<td>743</td>
+<td>Переводческое (устное и письменное) дело</td>
+</tr>
+<tr>
+<td>749</td>
+<td>Прочая профессиональная, научная и техническая деятельность, не включенная в другие категории</td>
+</tr>
+<tr>
+<td>750</td>
+<td>Ветеринарная деятельность</td>
+</tr>
+<tr>
+<td rowspan="19">Деятельность в области административного и вспомогательного обслуживания</td>
+<td>771</td>
+<td>Аренда и сдача в аренду автотранспорта</td>
+</tr>
+<tr>
+<td>772</td>
+<td>Прокат и аренда предметов личного потребления и бытовых товаров</td>
+</tr>
+<tr>
+<td>773</td>
+<td>Прокат и аренда прочих машин, оборудования и материальных средств</td>
+</tr>
+<tr>
+<td>774</td>
+<td>Аренда интеллектуальной собственности и подобной продукции, за исключением работ с защищенными авторскими правами</td>
+</tr>
+<tr>
+<td>781</td>
+<td>Деятельность агентств по трудоустройству</td>
+</tr>
+<tr>
+<td>782</td>
+<td>Деятельность агентств по временному трудоустройству</td>
+</tr>
+<tr>
+<td>783</td>
+<td>Деятельность прочих организаций по работе с персоналом</td>
+</tr>
+<tr>
+<td>791</td>
+<td>Деятельность туристских агентств и операторов</td>
+</tr>
+<tr>
+<td>799</td>
+<td>Прочие виды услуг по бронированию и сопутствующие им услуги</td>
+</tr>
+<tr>
+<td>801</td>
+<td>Деятельность частных охранных служб</td>
+</tr>
+<tr>
+<td>802</td>
+<td>Деятельность в области систем охраны</td>
+</tr>
+<tr>
+<td>803</td>
+<td>Деятельность по расследованию</td>
+</tr>
+<tr>
+<td>811</td>
+<td>Комплексное обслуживание объектов</td>
+</tr>
+<tr>
+<td>812</td>
+<td>Деятельность по уборке</td>
+</tr>
+<tr>
+<td>813</td>
+<td>Деятельность по благоустройству; пейзажное планирование</td>
+</tr>
+<tr>
+<td>821</td>
 <td>Деятельность в области административного и вспомогательного обслуживания</td>
-<td>
-77.1
-77.2
-77.3
-77.4
-78.1
-78.2
-78.3
-79.1
-79.9
-80.1
-80.2
-80.3
-81.1
-81.2
-81.3
-82.1
-82.2
-82.3
-82.9
-</td>
-<td>
-Аренда и сдача в аренду автотранспорта
-Прокат и аренда предметов личного потребления и бытовых товаров
-Прокат и аренда прочих машин, оборудования и материальных средств
-Аренда интеллектуальной собственности и подобной продукции, за исключением работ с защищенными авторскими правами
-Деятельность агентств по трудоустройству
-Деятельность агентств по временному трудоустройству
-Деятельность прочих организаций по работе с персоналом
-Деятельность туристских агентств и операторов
-Прочие виды услуг по бронированию и сопутствующие им услуги
-Деятельность частных охранных служб
-Деятельность в области систем охраны
-Деятельность по расследованию
-Комплексное обслуживание объектов
-Деятельность по уборке
-Деятельность по благоустройству; пейзажное планирование
-Деятельность в области административного и вспомогательного обслуживания
-Деятельность информационно-справочных служб
-Организация конференций и торговых выставок
-Вспомогательное обслуживание хозяйственной деятельности, не включенное в другие категории
-</td>
 </tr>
 <tr>
-<td>Государственное управление и оборона; обязательное социальное обеспечение</td>
-<td>
-84.1
-84.2
-84.3
-</td>
-<td>
-Государственное управление общего характера, социально-экономическое управление
-Предоставление государством услуг обществу в целом
-Деятельность в области обязательного социального страхования
-</td>
+<td>822</td>
+<td>Деятельность информационно-справочных служб</td>
 </tr>
 <tr>
-<td>Образование</td>
-<td>
-85.1
-85.2
-85.3
-85.4
-85.5
-85.6
-</td>
-<td>
-Дошкольное (доначальное) образование
-Начальное образование (первая ступень)
-Среднее образование (вторая и третья ступени)
-Высшее образование
-Прочие виды образования
-Вспомогательные образовательные услуги
-</td>
+<td>823</td>
+<td>Организация конференций и торговых выставок</td>
 </tr>
 <tr>
-<td>Здравоохранение и социальные услуги</td>
-<td>
-86.1
-86.2
-86.9
-87.1
-87.2
-87.3
-87.9
-88.1
-88.9
-</td>
-<td>
-Деятельность больничных учреждений
-Врачебная и стоматологическая практика
-Прочая деятельность по охране здоровья
-Учреждения по уходу за больными с обеспечением проживания
-Деятельность, связанная с проживанием для лиц с умственными и физическими недостатками, психиатрическими заболеваниями и наркологическими расстройствами
-Деятельность по уходу за престарелыми и инвалидами с обеспечением проживания
-Прочие виды деятельности по уходу, не включенные в другие категории
-Предоставление социальных услуг без обеспечения проживания для престарелых и инвалидов
-Прочие социальные услуги без обеспечения проживания, не включенные в другие категории
-</td>
+<td>829</td>
+<td>Вспомогательное обслуживание хозяйственной деятельности, не включенное в другие категории</td>
 </tr>
 <tr>
-<td>Искусство, развлечения и отдых</td>
-<td>
-90.0
-91.0
-92.0
-93.1
-93.2
-</td>
-<td>
-Деятельность в области творчества, искусства и развлечений
-Деятельность библиотек, архивов, музеев и других учреждений культурного обслуживания
-Деятельность по организации азартных игр и заключения пари
-Деятельность в области спорта
-Деятельность по организации отдыха и развлечений
-</td>
+<td rowspan="3">Государственное управление и оборона; обязательное социальное обеспечение</td>
+<td>841</td>
+<td>Государственное управление общего характера, социально-экономическое управление</td>
 </tr>
 <tr>
-<td>Предоставление прочих видов услуг</td>
-<td>
-94.1
-94.2
-94.9
-95.1
-95.2
-96.0
-</td>
-<td>
-Деятельность коммерческих, предпринимательских и профессиональных членских организаций
-Деятельность профсоюзов
-Деятельность прочих общественных объединений
-Ремонт компьютеров и оборудования связи
-Ремонт предметов личного потребления и бытовых товаров
-Предоставление прочих индивидуальных услуг
-</td>
+<td>842</td>
+<td>Предоставление государством услуг обществу в целом</td>
 </tr>
 <tr>
-<td>Деятельность домашних хозяйств, нанимающих домашнюю прислугу и производящих товары и услуги для собственного потребления</td>
-<td>
-97.0
-98.1
-98.2
-</td>
-<td>
-Деятельность домашних хозяйств, нанимающих домашнюю прислугу
-Деятельность домашних хозяйств по производству товаров для собственного потребления
-Деятельность домашних хозяйств по производству услуг для собственного потребления
-</td>
+<td>843</td>
+<td>Деятельность в области обязательного социального страхования</td>
+</tr>
+<tr>
+<td rowspan="6">Образование</td>
+<td>851</td>
+<td>Дошкольное (доначальное) образование</td>
+</tr>
+<tr>
+<td>852</td>
+<td>Начальное образование (первая ступень)</td>
+</tr>
+<tr>
+<td>853</td>
+<td>Среднее образование (вторая и третья ступени)</td>
+</tr>
+<tr>
+<td>854</td>
+<td>Высшее образование</td>
+</tr>
+<tr>
+<td>855</td>
+<td>Прочие виды образования</td>
+</tr>
+<tr>
+<td>856</td>
+<td>Вспомогательные образовательные услуги</td>
+</tr>
+<tr>
+<td rowspan="9">Здравоохранение и социальные услуги</td>
+<td>861</td>
+<td>Деятельность больничных учреждений</td>
+</tr>
+<tr>
+<td>862</td>
+<td>Врачебная и стоматологическая практика</td>
+</tr>
+<tr>
+<td>869</td>
+<td>Прочая деятельность по охране здоровья</td>
+</tr>
+<tr>
+<td>871</td>
+<td>Учреждения по уходу за больными с обеспечением проживания</td>
+</tr>
+<tr>
+<td>872</td>
+<td>Деятельность, связанная с проживанием для лиц с умственными и физическими недостатками, психиатрическими заболеваниями и наркологическими расстройствами</td>
+</tr>
+<tr>
+<td>873</td>
+<td>Деятельность по уходу за престарелыми и инвалидами с обеспечением проживания</td>
+</tr>
+<tr>
+<td>879</td>
+<td>Прочие виды деятельности по уходу, не включенные в другие категории</td>
+</tr>
+<tr>
+<td>881</td>
+<td>Предоставление социальных услуг без обеспечения проживания для престарелых и инвалидов</td>
+</tr>
+<tr>
+<td>889</td>
+<td>Прочие социальные услуги без обеспечения проживания, не включенные в другие категории</td>
+</tr>
+<tr>
+<td rowspan="5">Искусство, развлечения и отдых</td>
+<td>900</td>
+<td>Деятельность в области творчества, искусства и развлечений</td>
+</tr>
+<tr>
+<td>910</td>
+<td>Деятельность библиотек, архивов, музеев и других учреждений культурного обслуживания</td>
+</tr>
+<tr>
+<td>920</td>
+<td>Деятельность по организации азартных игр и заключения пари</td>
+</tr>
+<tr>
+<td>931</td>
+<td>Деятельность в области спорта</td>
+</tr>
+<tr>
+<td>932</td>
+<td>Деятельность по организации отдыха и развлечений</td>
+</tr>
+<tr>
+<td rowspan="6">Предоставление прочих видов услуг</td>
+<td>941</td>
+<td>Деятельность коммерческих, предпринимательских и профессиональных членских организаций</td>
+</tr>
+<tr>
+<td>942</td>
+<td>Деятельность профсоюзов</td>
+</tr>
+<tr>
+<td>949</td>
+<td>Деятельность прочих общественных объединений</td>
+</tr>
+<tr>
+<td>951</td>
+<td>Ремонт компьютеров и оборудования связи</td>
+</tr>
+<tr>
+<td>952</td>
+<td>Ремонт предметов личного потребления и бытовых товаров</td>
+</tr>
+<tr>
+<td>960</td>
+<td>Предоставление прочих индивидуальных услуг</td>
+</tr>
+<tr>
+<td rowspan="3">Деятельность домашних хозяйств, нанимающих домашнюю прислугу и производящих товары и услуги для собственного потребления</td>
+<td>970</td>
+<td>Деятельность домашних хозяйств, нанимающих домашнюю прислугу</td>
+</tr>
+<tr>
+<td>981</td>
+<td>Деятельность домашних хозяйств по производству товаров для собственного потребления</td>
+</tr>
+<tr>
+<td>982</td>
+<td>Деятельность домашних хозяйств по производству услуг для собственного потребления</td>
 </tr>
 <tr>
 <td>Деятельность экстерриториальных организаций и органов</td>
-<td>99.0</td>
+<td>990</td>
 <td>Деятельность экстерриториальных организаций</td>
 </tr>
 </table>
 
-> *Приложение 3 к Инструкции*  
-> *по заполнению статистической формы*  
+> *Приложение 3 к Инструкции по*  
+> *заполнению статистической формы*  
 > *общегосударственного статистического*  
 > *наблюдения «Анкета выборочного*  
 > *обследования занятости населения»*  
 > *(код 1232102, индекс Т-001,*  
-> *периодичность месячная, один раз в*
+> *периодичность месячная)*
 
-квартал)
-
-#### Пример заполнения вопроса 43 «Анкеты выборочного обследования занятости населения» (код 1232102, индекс Т-001, периодичность месячная, один раз в квартал)
+### Пример заполнения вопроса 33 «Анкеты выборочного обследования занятости населения» (код 1232102, индекс Т-001, периодичность месячная)
 
 <table>
 <tr>
@@ -15326,10 +14441,7 @@ _________________
 <td>агент по продажам недвижимости, агент страховой</td>
 </tr>
 <tr>
-<td>
-руководитель
-отдела
-</td>
+<td>руководитель отдела</td>
 <td>руководитель отдела в аппаратах акимов области или района, руководитель отдела на промышленном предприятии</td>
 </tr>
 <tr>
@@ -15346,10 +14458,7 @@ _________________
 </tr>
 <tr>
 <td>работодатель</td>
-<td>
-директор предприятия по изготовлению мебели «Турмыс»
-руководитель АО по производству напитков «Сайрам»
-</td>
+<td>директор предприятия по изготовлению мебели «Турмыс» руководитель АО по производству напитков «Сайрам»</td>
 </tr>
 </table>
 
