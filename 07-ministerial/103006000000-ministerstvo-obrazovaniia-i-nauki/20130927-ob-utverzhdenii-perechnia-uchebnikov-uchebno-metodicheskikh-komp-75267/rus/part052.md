@@ -1,21 +1,426 @@
 ---
-part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
+part_of: ../rus.md
+source: https://zan.gov.kz/client/#!/doc/75267/rus/08.01.2016
 ---
 
-## Білім беру ұйымдарында пайдалануға рұқсат етілген қосымша әдебиеттер мен сыныптан тыс оқуға және жалпы білім беру ұйымдарының кітапханалар қорын толықтыруға арналған көркем әдебиеттер тізбесі
+## Предметы на английском языке
 
-> *Ескерту. 7-қосымша жаңа редакцияда - ҚР Білім және ғылым министрінің 10.12.2014 № 515 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); өзгеріс енгізілді - ҚР Білім және ғылым министрінің 15.06.2015 № 379 (алғашқы ресми жарияланғанынан кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.*
+<table>
+<tr>
+<td>125.</td>
+<td>
+Natural and Social Science 1
+Pupil`s Book+CD, Teacher`s Book
+</td>
+<td>Joanne Ramsden</td>
+<td>2015</td>
+<td>Macmillan Publishers</td>
+</tr>
+<tr>
+<td>126.</td>
+<td>Macmillan Mathematics Level 5 Pupil`s book A, Pupil`s book B, Teachers book</td>
+<td>Paul Broadbent</td>
+<td>2015</td>
+<td>Macmillan Publishers</td>
+</tr>
+<tr>
+<td>127.</td>
+<td>
+Longman Biology
+(биология 6-9 кл.)
+</td>
+<td>
+Aaron Bridges,
+Mark Levesley,
+Janet Williams,
+Chris Workman
+</td>
+<td>2015</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>128.</td>
+<td>
+Longman Chemistry
+(химия 8-9 кл.)
+</td>
+<td>
+Iain Brand,
+Richard Grime
+</td>
+<td>2015</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>129.</td>
+<td>
+Longman Physics
+(физика 7-9 кл.)
+</td>
+<td>
+Jennifer Clifford,
+Miles Hudson,
+Penny Johnson,
+Gary Philpott
+</td>
+<td>2015</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>130.</td>
+<td>
+ICT 4 Life
+(информатика 5 кл.)
+</td>
+<td>
+John Giles,
+Steve Beard,
+Sue Street
+</td>
+<td>2015</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>131.</td>
+<td>
+ICT 4 Life
+(информатика 6 кл.)
+</td>
+<td>
+Terry Freedman,
+John Wasteney,
+Jared Wilson
+</td>
+<td>2015</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>132.</td>
+<td>
+ICT 4 Life
+(информатика 7 кл.)
+</td>
+<td>
+Sue Jennings,
+Susan Nutt,
+Jared Wilson
+</td>
+<td>2015</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>133.</td>
+<td>Cambridge Checkpoint Science 7Coursebook Workbook</td>
+<td>
+Mary Jones,
+Diane Fellowes-Freeman and
+David Sang
+</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>134.</td>
+<td>Cambridge Checkpoint Science 8 Coursebook, Workbook, Teacher’s Resource</td>
+<td>
+Mary Jones,
+Diane Fellowes-Freeman and
+David Sang
+</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>135.</td>
+<td>Cambridge Checkpoint Mathematics: 9 Coursebook, Practice Book, Teacher’s Resource</td>
+<td>
+Greg Byrd,
+Lynn Byrd and Chris Pearce
+</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>136.</td>
+<td>Cambridge Checkpoint Science 9 Coursebook, Workbook, Teacher’s Resource</td>
+<td>
+Mary Jones,
+Diane Fellowes-Freeman and
+David Sang
+</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>137.</td>
+<td>Cambridge IGCSE Biology Coursebook, Workbook, Teacher’s Resource CD-ROM</td>
+<td>Mary Jones and Geoff Jones</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>138.</td>
+<td>Cambridge IGCSE Chemistry Coursebook, Workbook, Teacher's Resource CD-ROM</td>
+<td>Richard Harwood and Ian Lodge</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>139.</td>
+<td>Cambridge IGCSE Physics Coursebook, Workbook, Teacher’s Resource CD-ROM</td>
+<td>David Sang</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>140.</td>
+<td>Cambridge IGCSE Mathematics Core and Extended Coursebook, Extended Practice Book, Core Practice Book, Teacher’s Resource CD-ROM</td>
+<td>Karen Morrison and Nick Hamshaw</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>141.</td>
+<td>Cambridge IGCSE ICT: Coursebook</td>
+<td>Chris Leadbetter and Stewart Wainwright</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>142.</td>
+<td>Maths.Glossary</td>
+<td>
+М. Балгабекова,
+М. Бекбатырова,
+Е.Михайличенко,
+Б. Есболов,
+Б. Умаров,
+С. Цой
+</td>
+<td>2015</td>
+<td>Альраминь</td>
+</tr>
+<tr>
+<td>143.</td>
+<td>Science. Glossary</td>
+<td>
+Г. Кушенова,
+М. Сейдалиева,
+Е. Дякина,
+С. Цой,
+Т. Белоусова,
+М. Воробьева
+</td>
+<td>2015</td>
+<td>Альраминь</td>
+</tr>
+</table>
+
+## Пособия для учителей
+
+<table>
+<tr>
+<td>144.</td>
+<td>Cambridge Business English Activities</td>
+<td>Jane Cordell</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>145.</td>
+<td>Testing Spoken Language</td>
+<td>Nic Underhill</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>146.</td>
+<td>Teaching English Spelling</td>
+<td>Ruth Shemesh and Sheila Waller</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>147.</td>
+<td>Task-Based Language Teaching</td>
+<td>David Nunan</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>148.</td>
+<td>Pronunciation Practice Activities+ CD</td>
+<td>Martin Hewings</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>149.</td>
+<td>Language Test Construction and Evaluation</td>
+<td>J. Charles Alderson, Caroline Clapham and Dianne Wall</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>150.</td>
+<td>Grammar Practice Activities+ CD</td>
+<td>Penny Ur and Michael Swan</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>151.</td>
+<td>FiveMinute Activities for Young Learners</td>
+<td>Penny McKay and Jenni Guse</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>152.</td>
+<td>Planning Lessons and Courses</td>
+<td>Tessa Woodward</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>153.</td>
+<td>Pairwork and Groupwork</td>
+<td>Meredith Levy and Nicholas Murgatroyd</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>154.</td>
+<td>Quizzes, Questionnaires, and Puzzles</td>
+<td>Miles Craven</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>155.</td>
+<td>Exploring British Culture</td>
+<td>Jo Smith</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>156.</td>
+<td>CLIL Activities+ CD</td>
+<td>Liz Dale and Rosie Tanner</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>157.</td>
+<td>Games for Grammar Practice</td>
+<td>Maria Lucia Zaorob and Elizabeth Chin</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>158.</td>
+<td>Games for Vocabulary Practice</td>
+<td>Felicity O'Dell and Katie Head</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>159.</td>
+<td>Imaginative Projects</td>
+<td>Matt Wicks</td>
+<td>2015</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>160.</td>
+<td>How to Teach Business English</td>
+<td>Evan Frendo</td>
+<td>2015</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>161.</td>
+<td>How to Teach English</td>
+<td>Jeremy Harmer</td>
+<td>2015</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>162.</td>
+<td>How to teach English with Technology</td>
+<td>
+Gavin Dudeney,
+Nicky Hockly
+</td>
+<td>2015</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>163.</td>
+<td>How to teach Grammar</td>
+<td>Jeremy Harmer</td>
+<td>2015</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>164.</td>
+<td>How to Teach Listening</td>
+<td>
+JJ Wilson,
+J Wilson
+</td>
+<td>2015</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>165.</td>
+<td>How to Teach Speaking</td>
+<td>Scott Thornbury</td>
+<td>2015</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>166.</td>
+<td>How to Teach Vocabulary</td>
+<td>Scott Thornbury</td>
+<td>2015</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>167.</td>
+<td>How to Teach Writing</td>
+<td>Jeremy Harmer</td>
+<td>2015</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>168.</td>
+<td>The primary English teachers guide</td>
+<td>
+Jean Brewster,
+Gail Ellis,
+Denis Girard
+</td>
+<td>2015</td>
+<td>Pearson Education Limited</td>
+</tr>
+</table>
+
+> *Приложение 7*  
+> *к приказу и.о. Министра образования*  
+> *и науки Республики Казахстан*  
+> *от 27 сентября 2013 г. № 400*
+
+## Перечень дополнительной учебной литературы и художественной литературы для внеклассного чтения и пополнения фонда библиотек организаций образования
+
+> *Сноска. Приложение 7 в редакции приказа и.о. Министра образования и науки РК от 08.01.2016 № 13 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <th>№</th>
-<th>Басылымның атауы/ Наименование издания</th>
-<th>
-Автор (лар)/
-Автор (-ы)
-</th>
-<th>Баспа/ Издательство</th>
+<th>Наименование издания</th>
+<th>Автор (-ы)</th>
+<th>Издательство</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -26,7 +431,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 <tr>
 <td>2.</td>
 <td>Айтыс-шешендік өнер</td>
-<td>Ж.Елшібаева</td>
+<td>Ж. Елшібаева</td>
 <td>Арман-ПВ</td>
 </tr>
 <tr>
@@ -53,7 +458,10 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 <tr>
 <td>6.</td>
 <td>История Казахстана. Энциклопедическое издание</td>
-<td>Артыкбаев Ж., Прманов А.</td>
+<td>
+Артыкбаев Ж.,
+Прманов А.
+</td>
 <td>Атамұра</td>
 </tr>
 <tr>
@@ -61,8 +469,8 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 <td>Энциклопедия «Негеш»</td>
 <td>
 Құрастырғандар:
-А. Дитрих.,
-Г. Юрмин.,
+А. Дитрих,
+Г. Юрмин,
 Р. Кошурникова
 </td>
 <td>Атамұра</td>
@@ -80,8 +488,9 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 <td>9.</td>
 <td>Жалпы білім беретін мектептерде дене тәрбиесі сабағын жүргізу әдістемесі. Әдістемелік ұсыныстар</td>
 <td>
-М.Адамбеков, М.Тұяқбаева,
-Е.Уанбаев
+М. Адамбеков,
+М. Тұяқбаева,
+Е. Уанбаев
 </td>
 <td>Дене тәрбиесі Ұлттық ғылыми-практикалық орталығы</td>
 </tr>
@@ -98,8 +507,8 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 <td>11.</td>
 <td>Құстар.Мектеп энциклопедия</td>
 <td>
-А.Ковшарь,
-В.Ковшарь
+А. Ковшарь,
+В. Ковшарь
 </td>
 <td>Атамұра</td>
 </tr>
@@ -168,7 +577,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 <td>Даналық әліппесі: Билер сөзі. Интеллектуалдық электронды оқу-тәрбие құралы</td>
 <td>
 Н. Құдайбергенұлы,
-Б.Қ. Игенбаева
+Б. Игенбаева
 </td>
 <td>Астана: «Interaktiv Kazakhstan»</td>
 </tr>
@@ -184,7 +593,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 <tr>
 <td>18.</td>
 <td>Профилактика телефонного терроризма среди несовершеннолетних</td>
-<td>Абильмажинов .К</td>
+<td>Абильмажинов К.</td>
 <td>HAS</td>
 </tr>
 <tr>
@@ -214,7 +623,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 А. Бекенов,
 Ю. Грачев,
 Б. Қасабеков,
-Р Қошқаров,
+Р. Қошқаров,
 В. Ковшарь,
 Р. Шаймарданов
 </td>
@@ -249,22 +658,21 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 </tr>
 <tr>
 <td>27.</td>
-<td>Сиқырлы жұлдызша/Волшебная звездочка</td>
+<td>Сиқырлы жұлдызша / Волшебная звездочка</td>
 <td>О. Гумирова</td>
 <td>Шикула и К</td>
 </tr>
 <tr>
 <td>28.</td>
 <td>Волшебное путешествие в организм человека</td>
-<td>Хамчиев К</td>
+<td>Хамчиев К.</td>
 <td>Шикула и К</td>
 </tr>
 <tr>
 <td>29.</td>
 <td>
-Қылқобызға арналған хрестоматия.
-Оқу құралы.
-Бірінші жинақ.
+Қылқобызға арналған хрестоматия. Бірінші жинақ.
+Оқу құралы
 </td>
 <td>
 Құраст.:
@@ -275,9 +683,8 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 <tr>
 <td>30.</td>
 <td>
-Қылқобызға арналған хрестоматия.
-Оқу құралы.
-Екінші жинақ.
+Қылқобызға арналған хрестоматия. Екінші жинақ.
+Оқу құралы
 </td>
 <td>
 Құраст.:
@@ -288,9 +695,8 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 <tr>
 <td>31.</td>
 <td>
-Қылқобызға арналған хрестоматия.
-Оқу құралы.
-Үшінші жинақ.
+Қылқобызға арналған хрестоматия. Үшінші жинақ.
+Оқу құралы
 </td>
 <td>
 Құраст.:
@@ -301,7 +707,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 <tr>
 <td>32.</td>
 <td>Алаш қозғалысы</td>
-<td>М.К. Қойгелдиев</td>
+<td>М. Қойгелдиев</td>
 <td>Мектеп</td>
 </tr>
 <tr>
@@ -330,19 +736,19 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 </tr>
 <tr>
 <td>37.</td>
-<td>Абай жолы. 1,2,3,4-том</td>
+<td>Абай жолы. 1, 2, 3, 4-том</td>
 <td>М. Әуезов</td>
 <td>Жазушы</td>
 </tr>
 <tr>
 <td>38.</td>
-<td>Екі томдық шығармалар жинағы. 1,2-том</td>
+<td>Екі томдық шығармалар жинағы. 1, 2-том</td>
 <td>Абай</td>
 <td>Жазушы</td>
 </tr>
 <tr>
 <td>39.</td>
-<td>Путь Абая. 1,2-том</td>
+<td>Путь Абая. 1, 2-том</td>
 <td>М. Ауезов</td>
 <td>Жазушы</td>
 </tr>
@@ -390,7 +796,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 </tr>
 <tr>
 <td>46.</td>
-<td>Атау-кере. Роман. (аудио кітап)</td>
+<td>Атау-кере. Роман (аудио кітап)</td>
 <td>О. Бөкеев</td>
 <td>Жазушы</td>
 </tr>
@@ -493,61 +899,61 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 <tr>
 <td>59.</td>
 <td>Сындарлы он жыл</td>
-<td>Н.Ә. Назарбаев</td>
+<td>Н. Назарбаев</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>60.</td>
 <td>Тарих толқынында</td>
-<td>Н.Ә. Назарбаев</td>
+<td>Н. Назарбаев</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>61.</td>
 <td>Бейбітшілік кіндігі</td>
-<td>Н.Ә. Назарбаев</td>
+<td>Н. Назарбаев</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>62.</td>
 <td>Тәуелсіздік белестері</td>
-<td>Н.Ә. Назарбаев</td>
+<td>Н. Назарбаев</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>63.</td>
 <td>Ғасырлар тоғысында</td>
-<td>Н.Ә. Назарбаев</td>
+<td>Н. Назарбаев</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>64.</td>
 <td>Критическое десятилетие</td>
-<td>Н.Ә. Назарбаев</td>
+<td>Н. Назарбаев</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>65.</td>
 <td>На пороге ХХІ века</td>
-<td>Н.Ә. Назарбаев</td>
+<td>Н. Назарбаев</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>66.</td>
 <td>Эпицентр мира</td>
-<td>Н.Ә. Назарбаев</td>
+<td>Н. Назарбаев</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>67.</td>
 <td>Стратегия независимости</td>
-<td>Н.Ә. Назарбаев</td>
+<td>Н. Назарбаев</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>68.</td>
 <td>В потоке истории</td>
-<td>Н.Ә. Назарбаев</td>
+<td>Н. Назарбаев</td>
 <td>Атамұра</td>
 </tr>
 <tr>
@@ -804,13 +1210,13 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 </tr>
 <tr>
 <td>111.</td>
-<td>Қазақтың тәлімдік ойлар антологиясы 4 том (Билер мен ақын-жыраулар тағылымы)</td>
+<td>Қазақтың тәлімдік ойлар антологиясы. 4 том (Билер мен ақын-жыраулар тағылымы)</td>
 <td>С. Қалиев және т.б.</td>
 <td>Сөздік-словарь</td>
 </tr>
 <tr>
 <td>112.</td>
-<td>Қазақтың тәлімдік ойлар антологиясы 6 том (Ұлттық тәлім-тәрбиелік ғылымдарының дамып, қалыптасу тарихынан)</td>
+<td>Қазақтың тәлімдік ойлар антологиясы. 6 том (Ұлттық тәлім-тәрбиелік ғылымдарының дамып, қалыптасу тарихынан)</td>
 <td>С. Қалиев және т.б.</td>
 <td>Сөздік-словарь</td>
 </tr>
@@ -822,7 +1228,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 </tr>
 <tr>
 <td>114.</td>
-<td>Қазақ әдебиеті. Хрестоматия. 1,2,3 кітап</td>
+<td>Қазақ әдебиеті. Хрестоматия. 1, 2, 3 кітап</td>
 <td>
 Құрастырушылар:
 С. Набиева,
@@ -892,8 +1298,8 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Қобыз үні
 </td>
 <td>
-Н.Құдайбергенұлы
-Б.Игенбаева
+Н. Құдайбергенұлы,
+Б. Игенбаева
 </td>
 <td>Interaktiv Kazakhstan</td>
 </tr>
@@ -904,8 +1310,8 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Домбыра күйі
 </td>
 <td>
-Н.Құдайбергенұлы
-Б.Игенбаева
+Н. Құдайбергенұлы,
+Б. Игенбаева
 </td>
 <td>Interaktiv Kazakhstan</td>
 </tr>
@@ -916,8 +1322,8 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Бесік жыры
 </td>
 <td>
-Н.Құдайбергенұлы
-Б.Игенбаева
+Н. Құдайбергенұлы,
+Б. Игенбаева
 </td>
 <td>Interaktiv Kazakhstan</td>
 </tr>
@@ -928,8 +1334,8 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Халық әні
 </td>
 <td>
-Н.Құдайбергенұлы
-Б.Игенбаева
+Н. Құдайбергенұлы,
+Б. Игенбаева
 </td>
 <td>Interaktiv Kazakhstan</td>
 </tr>
@@ -940,8 +1346,8 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Халық аңызы
 </td>
 <td>
-Н.Құдайбергенұлы
-Б.Игенбаева
+Н. Құдайбергенұлы,
+Б. Игенбаева
 </td>
 <td>Interaktiv Kazakhstan</td>
 </tr>
@@ -952,8 +1358,8 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Халық ертегісі
 </td>
 <td>
-Н.Құдайбергенұлы
-Б.Игенбаева
+Н. Құдайбергенұлы,
+Б. Игенбаева
 </td>
 <td>Interaktiv Kazakhstan</td>
 </tr>
@@ -964,8 +1370,8 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Халық тағылымы
 </td>
 <td>
-Н.Құдайбергенұлы
-Б.Игенбаева
+Н. Құдайбергенұлы,
+Б. Игенбаева
 </td>
 <td>Interaktiv Kazakhstan</td>
 </tr>
@@ -976,8 +1382,8 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Халық жыры
 </td>
 <td>
-Н.Құдайбергенұлы
-Б.Игенбаева
+Н. Құдайбергенұлы
+Б. Игенбаева
 </td>
 <td>Interaktiv Kazakhstan</td>
 </tr>
@@ -988,8 +1394,8 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Нақыл сөз
 </td>
 <td>
-Н.Құдайбергенұлы
-Б.Игенбаева
+Н. Құдайбергенұлы,
+Б. Игенбаева
 </td>
 <td>Interaktiv Kazakhstan</td>
 </tr>
@@ -1000,8 +1406,8 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Билер сөзі
 </td>
 <td>
-Н.Құдайбергенұлы
-Б.Игенбаева
+Н. Құдайбергенұлы,
+Б. Игенбаева
 </td>
 <td>Interaktiv Kazakhstan</td>
 </tr>
@@ -1012,8 +1418,8 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Аталар сөзі
 </td>
 <td>
-Н.Құдайбергенұлы
-Б.Игенбаева
+Н. Құдайбергенұлы,
+Б. Игенбаева
 </td>
 <td>Interaktiv Kazakhstan</td>
 </tr>
@@ -1024,8 +1430,8 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Бабалар батасы
 </td>
 <td>
-Н.Құдайбергенұлы
-Б.Игенбаева
+Н. Құдайбергенұлы,
+Б. Игенбаева
 </td>
 <td>Interaktiv Kazakhstan</td>
 </tr>
@@ -1049,14 +1455,14 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Балықтар, қосмекенділер, жорғалаушылар
 </td>
 <td>
-З.Брушко,
-М.Жұмалиев,
-Т.Дүйсебаева,
-Н.Мамилов,
-В.Митрофанов,
-С.Темірханов,
-В.Хромов,
-М.Чирикова
+З. Брушко,
+М. Жұмалиев,
+Т. Дүйсебаева,
+Н. Мамилов,
+В. Митрофанов,
+С. Темірханов,
+В. Хромов,
+М. Чирикова
 </td>
 <td>Атамұра</td>
 </tr>
@@ -1067,9 +1473,9 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Жақсы құрбы-құрдас
 </td>
 <td>
-М.Мырзахметұлы
-Ш.Әбуева,
-Н.Керімбаев
+М. Мырзахметұлы,
+Ш. Әбуева,
+Н. Керімбаев
 </td>
 <td>Interaktiv Kazakhstan</td>
 </tr>
@@ -1080,9 +1486,9 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Жақсы ұстаз
 </td>
 <td>
-М.Мырзахметұлы
-Ш.Әбуева,
-Н.Керімбаев
+М. Мырзахметұлы,
+Ш. Әбуева,
+Н. Керімбаев
 </td>
 <td>Interaktiv Kazakhstan</td>
 </tr>
@@ -1093,9 +1499,9 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Жақсы ата-ана
 </td>
 <td>
-М.Мырзахметұлы
-Ш.Әбуева,
-Н.Керімбаев
+М. Мырзахметұлы,
+Ш. Әбуева,
+Н. Керімбаев
 </td>
 <td>Interaktiv Kazakhstan</td>
 </tr>
@@ -1106,9 +1512,9 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Жақсы бала
 </td>
 <td>
-М.Мырзахметұлы
-Ш.Әбуева,
-Н.Керімбаев
+М. Мырзахметұлы,
+Ш. Әбуева,
+Н. Керімбаев
 </td>
 <td>Interaktiv Kazakhstan</td>
 </tr>
@@ -1116,9 +1522,9 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 <td>140.</td>
 <td>Абайтану әліппесі СД</td>
 <td>
-М.Мырзахметұлы
-Ш.Әбуева,
-Н.Керімбаев
+М. Мырзахметұлы,
+Ш. Әбуева,
+Н. Керімбаев
 </td>
 <td>Interaktiv Kazakhstan</td>
 </tr>
@@ -1129,7 +1535,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 «TravelersandEXPLORERS».
 Иллюстрациялық материал
 </td>
-<td>Ұ.Есназарова</td>
+<td>Ұ. Есназарова</td>
 <td>Географиядан Республикалық атаулы мектеп</td>
 </tr>
 <tr>
@@ -1144,7 +1550,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 Қазақтың киіз өнері/ Кошмовойлочное искусство казахов./ Felt art of Kazakhs)
 (қаз.русс. англ.)
 </td>
-<td>Ш.Тоқтабаева</td>
+<td>Ш. Тоқтабаева</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
@@ -1162,7 +1568,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 <tr>
 <td>146.</td>
 <td>Тәңірі</td>
-<td>Ш.Уәлиханов</td>
+<td>Ш. Уәлиханов</td>
 <td>Халықаралық Абай клубы</td>
 </tr>
 <tr>
@@ -1212,7 +1618,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 </tr>
 <tr>
 <td>154.</td>
-<td>Қазақ халқының тұрмысы мен мәдениеті. Быт и культура казахского народа.Life and culture of the Kazakh people.</td>
+<td>Қазақ халқының тұрмысы мен мәдениеті. Быт и культура казахского народа.Life and culture of the Kazakh people</td>
 <td>С. Кенжеахметұлы</td>
 <td>Алматыкітап</td>
 </tr>
@@ -1249,31 +1655,185 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>159</td>
+<td>159.</td>
 <td>
 Менің Отаным – Қазақстан
 Моя Родина – Казахстан
 </td>
 <td>
-Айманова И.Б.,
+Айманова И.,
 Герасимова Н.В.
 </td>
-<td>2015</td>
+<td>КОК ЖИЕК ГОРИЗОНТ</td>
+</tr>
+<tr>
+<td>160.</td>
+<td>Президент және перзент</td>
+<td>Дәулетұлы Б.</td>
+<td>ARNA-B</td>
+</tr>
+<tr>
+<td>161.</td>
+<td>
+Менің Отаным- Қазақстан
+Моя Родина – Казахстан
+</td>
+<td>
+Айманова И.,
+Герасимова Н.
+Новосельцева Н.
+</td>
+<td>Көкжиек-Горизонт</td>
+</tr>
+<tr>
+<td>162.</td>
+<td>
+Менің Отаным – Қазақстан,
+Моя Родина – Казахстан
+Kazakhstan, my native land
+</td>
+<td>
+Сужикова А.,
+Жанузакова М.
+</td>
+<td>Алматыкітап</td>
+</tr>
+<tr>
+<td>163.</td>
+<td>Суретті өнер тарихы</td>
+<td>Дорлинг Киндерсли</td>
+<td>Алматыкітап</td>
+</tr>
+<tr>
+<td>164.</td>
+<td>Иллюстрированная история искусства</td>
+<td>Дорлинг Киндерсли</td>
+<td>Алматыкітап</td>
+</tr>
+<tr>
+<td>165.</td>
+<td>Динозаврлар. Жалықтырмайтын энциклопедия</td>
+<td>Карамель (Бельгия)</td>
+<td>Алматыкітап</td>
+</tr>
+<tr>
+<td>166.</td>
+<td>Помогите детям познать науку. Уникальный пошаговый наглядный гид</td>
+<td>Кэрол Вордерман (перевод с английского языка Р. Боброва)</td>
+<td>Алматыкітап</td>
+</tr>
+<tr>
+<td>167.</td>
+<td>Отбасылық әдебиет</td>
+<td>
+Елікпаев С.,
+Қапасова Б.
+</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>168.</td>
+<td>Саяхатшылар мен Зерттеушілер. Путешественники и Исследователи. Travels and Explores.</td>
+<td>Есназарова У.</td>
+<td>Географиядан Республикалық атаулы мектеп</td>
+</tr>
+<tr>
+<td>169.</td>
+<td>Қазақстанның табиғаты - Природа Казахстана. Наглядные пособия</td>
+<td>Есназарова У.</td>
+<td>Географиядан Республикалық атаулы мектеп</td>
+</tr>
+<tr>
+<td>170.</td>
+<td>Қазақ оюлары. Казахские орнаменты. Kazakh ornaments</td>
+<td>Ерлан Қожабаев</td>
+<td>Мектеп</td>
+</tr>
+<tr>
+<td>171.</td>
+<td>
+Географиядан мың бір
+Сұрақ-жауап
+</td>
+<td>
+Есназарова Ұ.,
+Темірбеков А.
+</td>
+<td>Географиядан Республикалық атаулы мектеп</td>
+</tr>
+<tr>
+<td>172.</td>
+<td>&quot;Қазақстан елімен сиқырлы саяхат&quot; әр түрлі жастағы балаларға арналады &quot;Волшебное путешествие по стране Казахстан&quot; для детей разных возрастов</td>
+<td>Гумирова О.</td>
+<td>Шикула и К</td>
+</tr>
+<tr>
+<td>173.</td>
+<td>&quot;Шеберлердің сиқырлы қаласы&quot;+ қосымша. Әр түрлі жастағы балаларға арналады. &quot;Волшебный город мастеров&quot; + приложение. Для детей разных возрастов</td>
+<td>Гумирова О.</td>
+<td>Шикула и К</td>
+</tr>
+<tr>
+<td>174.</td>
+<td>&quot;Сенiң өмiрiң сиқырлы әлем&quot; Әр түрлі жастағы балаларға арналады. &quot;Твоя жизнь Волшебный мир&quot; Для детей разных возрастов</td>
+<td>
+Абаева М.,
+Кирилинская Л.
+</td>
+<td>Шикула и К</td>
+</tr>
+<tr>
+<td>175.</td>
+<td>&quot;Сиқырлы пішіндер мен сандар әлемінде&quot; әртүрлі жастағы балаларға арналады. &quot;В мире волшебных фигур и цифр&quot; для детей разных возрастов + Қосымша</td>
+<td>Мадалиева С., Кирилинская Л.</td>
+<td>Шикула и К</td>
+</tr>
+<tr>
+<td>176.</td>
+<td>&quot;Сиқырлы кітап&quot; &quot;Волшебная книга&quot;</td>
+<td>
+Абаева М.,
+Мадалиева С.
+</td>
+<td>Шикула и К</td>
+</tr>
+<tr>
+<td>177.</td>
+<td>&quot;Арманиттердің мұзды әлемін сиқырлықпен құткару&quot; Әр түрлі жастағы балаларға арналады. &quot;Волшебное спасение ледяного мира арманитов&quot; для детей разных возрастов</td>
+<td>Аладьина Т.</td>
+<td>Шикула и К</td>
+</tr>
+<tr>
+<td>178.</td>
+<td>&quot;Бұлт сырты әлеміндегі сиқырлы бастан кешулер&quot; Әр түрлі жастағы балаларға арналады. &quot;Волшебное путешествие в заоблачный мир&quot; для детей разных возрастов</td>
+<td>Аладьина Т.</td>
+<td>Шикула и К</td>
+</tr>
+<tr>
+<td>179.</td>
+<td>&quot;Аспэль еліндегі таңғажайып оқиғалар&quot; Әр түрлі жастағы балаларға арналады. &quot;Волшебное приключение в стране Аспель&quot; для детей разных возрастов.</td>
+<td>Аладьина Т.</td>
+<td>Шикула и К</td>
+</tr>
+<tr>
+<td>180.</td>
+<td>&quot;Сиқырлы қазғыш-таяқша&quot; балаларға арналған ежелгі қазақстан тарихының көңілді оқулық. &quot;Волшебная палочка-копалочка&quot; веселый учебник истории древнего казахстана для детей.</td>
+<td>Аладьина Т.</td>
+<td>Шикула и К</td>
+</tr>
+<tr>
+<td>181.</td>
+<td>&quot;Атамекен&quot; сиқырлы елінің аңыздары&quot; Әр түрлі жастағы балаларға арналады. &quot;Легенды волшебной страны Атамекен&quot; для детей разных возрастов.</td>
+<td>Гумирова О.</td>
+<td>Шикула и К</td>
 </tr>
 </table>
 
-## Перечень литературы для внеклассного чтения художественной литературы для пополнения онда библиотек организаций образования Республики Казахстан
+## Для школ с казахским языком обучения ПРЕДШКОЛЬНАЯ ПОДГОТОВКА
+
+## Казахские народные сказки:
 
 <table>
-<tr>
-<th>Для школ с казахским языком обучения</th>
-</tr>
-<tr>
-<th>МЕКТЕПКЕ ДЕЙІНГІ ДАЯРЛЫҚ</th>
-</tr>
-<tr>
-<th>Қазақ халық ертегілері:</th>
-</tr>
 <tr>
 <td>1.</td>
 <td>Мақта қыз бен мысық</td>
@@ -1339,100 +1899,100 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 <td>Қаңбақ шал</td>
 </tr>
 <tr>
-<th>Орыс халық ертегілері:</th>
+<th colspan="2">Русские народные сказки:</th>
 </tr>
 <tr>
-<td></td>
+<td>17.</td>
 <td>Шалқан, Кірпі</td>
 </tr>
 <tr>
-<td></td>
+<td>18.</td>
 <td>Алтын жұмыртқа</td>
 </tr>
 <tr>
-<td></td>
+<td>19.</td>
 <td>Бауырсақ</td>
 </tr>
 <tr>
-<td></td>
+<td>20.</td>
 <td>Түлкі мен шаян</td>
 </tr>
 <tr>
-<td></td>
+<td>21.</td>
 <td>Мысық, әтеш және түлкі</td>
 </tr>
 <tr>
-<td></td>
+<td>22.</td>
 <td>Ақымақ қасқыр</td>
 </tr>
 <tr>
-<td></td>
+<td>23.</td>
 <td>Қорыққанға қос көрінер</td>
 </tr>
 <tr>
-<td></td>
+<td>24.</td>
 <td>Маша мен маймақ</td>
 </tr>
 <tr>
-<td></td>
+<td>25.</td>
 <td>Аяз</td>
 </tr>
 <tr>
-<td></td>
+<td>26.</td>
 <td>Түлкі мен тырна</td>
 </tr>
 <tr>
-<td></td>
+<td>27.</td>
 <td>Аққу-қаздар</td>
 </tr>
 <tr>
-<td></td>
+<td>28.</td>
 <td>Хаврошка</td>
 </tr>
 <tr>
-<td></td>
+<td>29.</td>
 <td>Қарша қыз</td>
 </tr>
 <tr>
-<td></td>
+<td>30.</td>
 <td>Түлкі мен қоян</td>
 </tr>
 <tr>
-<td></td>
-<td>Шаруа пен аю</td>
+<td>31.</td>
+<td>Шаруа мен аю</td>
 </tr>
 <tr>
-<td></td>
+<td>32.</td>
 <td>Шортанның бұйрығымен</td>
 </tr>
 <tr>
-<th>Әлем халық ертегілері:</th>
+<th colspan="2">Сказки народов мира:</th>
 </tr>
 <tr>
-<td></td>
+<td>33.</td>
 <td>Үш торай (ағылшын халық ертегісі)</td>
 </tr>
 <tr>
-<td></td>
+<td>34.</td>
 <td>Ағайынды үш қыз (татар халық ертегісі)</td>
 </tr>
 <tr>
-<td></td>
+<td>35.</td>
 <td>Күшіңе емес, ақылыңа сен (белорусь халық ертегісі)</td>
 </tr>
 <tr>
-<td></td>
+<td>36.</td>
 <td>Көкек (немец халық ертегісі)</td>
 </tr>
 <tr>
-<td></td>
+<td>37.</td>
 <td>Күнге қонаққа барғанда (словак) халық ертегісі</td>
 </tr>
 <tr>
-<th>Қазақстан және ТМД елдері жазушыларының шығармалары</th>
+<th colspan="2">Произведения писателей народов Казахстана и СНГ</th>
 </tr>
 <tr>
-<td></td>
+<td>38.</td>
 <td>
 Ыбырай Алтынсарин
 Аурудан - аяған күштірек
@@ -1441,21 +2001,21 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 </td>
 </tr>
 <tr>
-<td></td>
+<td>39.</td>
 <td>
 Сәбит Дөнентаев
 Шығармалар жинағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>40.</td>
 <td>
 Өтебай Тұрманжанов
 Ақ бота
 </td>
 </tr>
 <tr>
-<td></td>
+<td>41.</td>
 <td>
 Эдуард Шим
 Тас
@@ -1465,21 +2025,21 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 </td>
 </tr>
 <tr>
-<td></td>
+<td>42.</td>
 <td>
 Евгений Чарушин
 Бөлтірік
 </td>
 </tr>
 <tr>
-<td></td>
+<td>43.</td>
 <td>
 Евгений Чарушин
 Біздің аулада
 </td>
 </tr>
 <tr>
-<td></td>
+<td>44.</td>
 <td>
 Лев Толстой
 Екі жолдас
@@ -1490,7 +2050,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 </td>
 </tr>
 <tr>
-<td></td>
+<td>45.</td>
 <td>
 Константин Ушинский
 Дәрі-дәрмек
@@ -1499,56 +2059,56 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 </td>
 </tr>
 <tr>
-<td></td>
+<td>46.</td>
 <td>
 Валентина Осеева
 Жаман, Жақсырақ
 </td>
 </tr>
 <tr>
-<td></td>
+<td>47.</td>
 <td>
 Наталья Калинина
 Қар кесегі
 </td>
 </tr>
 <tr>
-<td></td>
+<td>48.</td>
 <td>
 Евгений Пермяк
 Қол не үшін керек?
 </td>
 </tr>
 <tr>
-<td></td>
+<td>49.</td>
 <td>
 Виталий Бианки
 Түлкі мен тышқан
 </td>
 </tr>
 <tr>
-<td></td>
+<td>50.</td>
 <td>
 Сапарғали Бегалин
 Шығармалар жинағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>51.</td>
 <td>
 Жақан Смақов
 Шығармалар жинағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>52.</td>
 <td>
 Тұманбай Молдағалиев
 Шығармалар жинағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>53.</td>
 <td>
 Мұзафар Әлімбаев
 Менің ойыншықтарым
@@ -1557,167 +2117,168 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 </td>
 </tr>
 <tr>
-<td></td>
+<td>54.</td>
 <td>
 Оразақын Асқаров
 Біздің ит
 </td>
 </tr>
 <tr>
-<td></td>
+<td>55.</td>
 <td>
 Қабдыкәрім Ыдырысов
 Жайлауда
 </td>
 </tr>
 <tr>
-<td></td>
+<td>56.</td>
 <td>
 Қадыр Мырзалиев
 Өзім
 </td>
 </tr>
 <tr>
-<td></td>
+<td>57.</td>
 <td>
 Әнуарбек Дүйсенбиев
 Жоғалған зат
 </td>
 </tr>
 <tr>
-<td></td>
+<td>58.</td>
 <td>
 Жаркен Бөдешев
 Алма
 </td>
 </tr>
 <tr>
-<td></td>
+<td>59.</td>
 <td>
 Қосжан Мүсірепов
 Қырсық мысық
 </td>
 </tr>
 <tr>
-<td></td>
+<td>60.</td>
 <td>
 Сергей Есенин
 Ақ қайың
 </td>
 </tr>
 <tr>
-<td></td>
+<td>61.</td>
 <td>
 Расул Гамзатов
 Менің атам
 </td>
 </tr>
 <tr>
-<td></td>
+<td>62.</td>
 <td>
 Корней Чуковский
 Айболит пен торғай
 </td>
 </tr>
 <tr>
-<th>БАСТАУЫШ БІЛІМ БЕРУ</th>
+<td colspan="2">
+НАЧАЛЬНОЕ ОБРАЗОВАНИЕ
+Произведения на казахском языке
+</td>
 </tr>
 <tr>
-<th>Қазақ тіліндегі шығармалар</th>
-</tr>
-<tr>
-<td></td>
+<td>63.</td>
 <td>Қиял-ғажайып ертегілері жинағы (қазақ ертегілері)</td>
 </tr>
 <tr>
-<td></td>
+<td>64.</td>
 <td>Жануарлар туралы ертегілер жинағы (қазақ ертегілері)</td>
 </tr>
 <tr>
-<td></td>
+<td>65.</td>
 <td>Батырлар туралы ертегілер жинағы (қазақ ертегілері)</td>
 </tr>
 <tr>
-<td></td>
+<td>66.</td>
 <td>Әжемнің ертегілері жинағы (қазақ ертегілері)</td>
 </tr>
 <tr>
-<td></td>
+<td>67.</td>
 <td>Өнегелі ертегілер жинағы (қазақ ертегілері)</td>
 </tr>
 <tr>
-<td></td>
+<td>68.</td>
 <td>Ерлік ертегілері жинағы (қазақ ертегілері)</td>
 </tr>
 <tr>
-<td></td>
-<td>Қазақ және әлем халықтары ертегілерінің Алтын жинағы</td>
+<td>69.</td>
+<td>Қазақ және әлем халықтары ертегілерінің алтын жинағы</td>
 </tr>
 <tr>
-<td></td>
+<td>70.</td>
 <td>Алдар Көсе хикаялары жинағы (қазақ ертегілері)</td>
 </tr>
 <tr>
-<td></td>
+<td>71.</td>
 <td>
-Б.Майтанов
+Б. Майтанов
 Абай
 </td>
 </tr>
 <tr>
-<td></td>
+<td>72.</td>
 <td>
-Б.Көмеков, С.Өтениязов
+Б. Көмеков,
+С. Өтениязов
 Шоқан Уәлиханов
 </td>
 </tr>
 <tr>
-<td></td>
+<td>73.</td>
 <td>
-Ж.Қасымбаев
+Ж. Қасымбаев
 Абылай хан
 Кенесары Қасымов
 </td>
 </tr>
 <tr>
-<td></td>
+<td>74.</td>
 <td>
-А.Галиев
+А. Галиев
 Керей мен Жәнібек
 </td>
 </tr>
 <tr>
-<td></td>
+<td>75.</td>
 <td>
 Б.Көмеков, Қ.Сәки
 Бейбарыс сұлтан
 </td>
 </tr>
 <tr>
-<td></td>
+<td>76.</td>
 <td>
-Б.Көмеков, Б.Кәрібаев
+Б. Көмеков, Б. Кәрібаев
 Мұхаммед Хайдар Дулати
 </td>
 </tr>
 <tr>
-<td></td>
+<td>77.</td>
 <td>
-А.Галиев
+А. Галиев
 Томирис
 </td>
 </tr>
 <tr>
-<td></td>
+<td>78.</td>
 <td>
-А.Галиев, Б.Көмеков
+А. Галиев, Б. Көмеков
 Шыңғыс хан
 </td>
 </tr>
 <tr>
-<td></td>
+<td>79.</td>
 <td>
-Ш.Күмісбайұлы
+Ш. Күмісбайұлы
 Қанжығалы Бөгенбай
 Шақшақұлы Жәнібек
 Райымбек батыр
@@ -1725,242 +2286,242 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/15.06.2015
 </td>
 </tr>
 <tr>
-<td></td>
+<td>80.</td>
 <td>
-А.Уразбаева
-С.Сейфуллин
+А. Уразбаева
+С. Сейфуллин
 </td>
 </tr>
 <tr>
-<td></td>
+<td>81.</td>
 <td>
-К.Матыжанов
+К. Матыжанов
 Асыл сөз аталары
 </td>
 </tr>
 <tr>
-<td></td>
+<td>82.</td>
 <td>
-Р.Тұрысбек
+Р. Тұрысбек
 Қазақтың билері
 </td>
 </tr>
 <tr>
-<td></td>
+<td>83.</td>
 <td>
-Ә.Файзуллаұлы
+Ә. Файзуллаұлы
 Ақ көбелек
 Мінез-құлық әліппесі (Азбука характеров)
 Кел, достасайық, қоян
 </td>
 </tr>
 <tr>
-<td></td>
+<td>84.</td>
 <td>
-Қ.Баянбай
+Қ. Баянбай
 Араша
 Достар
 Түс
 </td>
 </tr>
 <tr>
-<td></td>
+<td>85.</td>
 <td>
-О.Нұрғали
+О. Нұрғали
 Бауырлар
 Қарауыл
 </td>
 </tr>
 <tr>
-<td></td>
+<td>86.</td>
 <td>
-К.Оразбекұлы
+К. Оразбекұлы
 Бояуды қайдан алады
 Қиялшылдар
 Наурызкөже
 </td>
 </tr>
 <tr>
-<td></td>
+<td>87.</td>
 <td>
-О.Нұрғали
+О. Нұрғали
 Қулық
 </td>
 </tr>
 <tr>
-<td></td>
+<td>88.</td>
 <td>
-С.Қалиұлы
+С. Қалиұлы
 Бақыт құсы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>89.</td>
 <td>
-Е.Шайхыұлы
+Е. Шайхыұлы
 Шылдыр шумек
 </td>
 </tr>
 <tr>
-<td></td>
+<td>90.</td>
 <td>
-Т.Әбдірайым
+Т. Әбдірайым
 Алабұға ауланған күн
 Үпілмәлік
 </td>
 </tr>
 <tr>
-<th>Орыс тіліндегі шығармалар</th>
-</tr>
-<tr>
-<th>Орыс ертегілері:</th>
-</tr>
-<tr>
-<td></td>
-<td>Волк и семеро козлят</td>
-</tr>
-<tr>
-<td></td>
-<td>Волк и лиса</td>
-</tr>
-<tr>
-<td></td>
-<td>Гуси-лебеди</td>
-</tr>
-<tr>
-<td></td>
-<td>Елена Премудрая</td>
-</tr>
-<tr>
-<td></td>
-<td>Морозко</td>
-</tr>
-<tr>
-<td></td>
-<td>Сестрица Аленушка и братец Иванушка</td>
-</tr>
-<tr>
-<td></td>
-<td>Сивка-Бурка</td>
-</tr>
-<tr>
-<td></td>
-<td>Теремок</td>
-</tr>
-<tr>
-<th>Үш тілдегі шығармалар</th>
-</tr>
-<tr>
-<td></td>
-<td>
-Аламан мен Жоламан
-Аламан и Жоламан / Alaman and Zholaman. Қазақ ертегісі.
+<td colspan="2">
+Произведения на русском языке
+Русские сказки:
 </td>
 </tr>
 <tr>
-<td></td>
-<td>Жақсылық мен жамандық.Добрый и злой. Thecoodman and the badmen. Қазақ ертегісі.</td>
+<td>91.</td>
+<td>Волк и семеро козлят</td>
 </tr>
 <tr>
-<td></td>
+<td>92.</td>
+<td>Волк и лиса</td>
+</tr>
+<tr>
+<td>93.</td>
+<td>Гуси-лебеди</td>
+</tr>
+<tr>
+<td>94.</td>
+<td>Елена Премудрая</td>
+</tr>
+<tr>
+<td>95.</td>
+<td>Морозко</td>
+</tr>
+<tr>
+<td>96.</td>
+<td>Сестрица Аленушка и братец Иванушка</td>
+</tr>
+<tr>
+<td>97.</td>
+<td>Сивка-Бурка</td>
+</tr>
+<tr>
+<td>98.</td>
+<td>Теремок</td>
+</tr>
+<tr>
+<th colspan="2">Произведения на трех языках</th>
+</tr>
+<tr>
+<td>99.</td>
+<td>
+Аламан мен Жоламан
+Аламан и Жоламан / Alamanand Zholaman. Қазақ ертегісі
+</td>
+</tr>
+<tr>
+<td>100.</td>
+<td>Жақсылық пен жамандық.Добрый и злой. The coodman and the badmen. Қазақ ертегісі.</td>
+</tr>
+<tr>
+<td>101.</td>
 <td>
 Фелиция Брукс
 Мал дәрігері Викки. Ветеринар Викки. VickytneVet.
 </td>
 </tr>
 <tr>
-<td></td>
+<td>102.</td>
 <td>
 Г.Х. Андерсен
 Снежная королева
 </td>
 </tr>
 <tr>
-<td></td>
+<td>103.</td>
 <td>
 Ш. Перро
 Золушка
 </td>
 </tr>
 <tr>
-<td></td>
+<td>104.</td>
 <td>
 Г.Х. Андерсен
 Дюймовочка
 </td>
 </tr>
 <tr>
-<td></td>
+<td>105.</td>
 <td>
 Г.Х. Андерсен
 Огниво
 </td>
 </tr>
 <tr>
-<td></td>
+<td>106.</td>
 <td>
 Братья Гримм
 Король-дроздобород
 </td>
 </tr>
 <tr>
-<td></td>
+<td>107.</td>
 <td>
 Братья Гримм
 Белоснежка и семь гномов. Snow White and 7 Dwarfs. The Brothers Grimm (retold by Jenny Dooley and Chris Bates)
 </td>
 </tr>
 <tr>
-<td></td>
+<td>108.</td>
 <td>
-Ш.Перро
+Ш. Перро
 Спящая красавица. Sleeping Beauty. The Brothers Grimm(retold by Jenny Dooley and Vanessa Page)
 </td>
 </tr>
 <tr>
-<td></td>
+<td>109.</td>
 <td>
 Г.Х. Андерсен
 Принцесса на горошине
 </td>
 </tr>
 <tr>
-<td></td>
+<td>110.</td>
 <td>
 Г.Х. Андерсен
 Русалочка. The Little Mermaid. Hans Christian Andersen (retold by Jenny Dooley and Antony Kerr)
 </td>
 </tr>
 <tr>
-<td></td>
+<td>111.</td>
 <td>
 a Folk tale (retold by Jenny Dooley and Charles Lloyd)
 Aladdin and the Magic Lamp
 </td>
 </tr>
 <tr>
-<td></td>
+<td>112.</td>
 <td>
 a Folk tale (retold by Jenny Dooley
 The Cracow Dragon
 </td>
 </tr>
 <tr>
-<th>НЕГІЗГІ ОРТА БІЛІМ БЕРУ</th>
+<td colspan="2">
+ОСНОВНОЕ СРЕДНЕЕ ОБРАЗОВАНИЕ
+Произведения на казахском языке
+</td>
 </tr>
 <tr>
-<th>Қазақ тіліндегі шығармалар</th>
-</tr>
-<tr>
-<td></td>
+<td>113.</td>
 <td>Едіге батыр жыры</td>
 </tr>
 <tr>
-<td></td>
+<td>114.</td>
 <td>Жоямерген жыры</td>
 </tr>
 <tr>
-<td></td>
+<td>115.</td>
 <td>
 Ұр, тоқпақ
 Бозінген
@@ -1968,53 +2529,53 @@ The Cracow Dragon
 </td>
 </tr>
 <tr>
-<td></td>
+<td>116.</td>
 <td>Жеті ғасыр жырлайды.</td>
 </tr>
 <tr>
-<td></td>
+<td>117.</td>
 <td>
 М. Өтемісұлы
 Баймағамбет Сұлтанға айтқаны
 </td>
 </tr>
 <tr>
-<td></td>
+<td>118.</td>
 <td>
 Д.Бабатайұлы
 Ата қоныс Арқадан
 </td>
 </tr>
 <tr>
-<td></td>
+<td>119.</td>
 <td>
 Ы. Алтынсарин
 Лұқпан хәкім
 </td>
 </tr>
 <tr>
-<td></td>
+<td>120.</td>
 <td>
 А. Құнанбаев
 Шығармалар жинағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>121.</td>
 <td>
-М.Жұмабаев
+М. Жұмабаев
 Жүсіп хан
 </td>
 </tr>
 <tr>
-<td></td>
+<td>122.</td>
 <td>
 С. Торайғыров
 Шығармалар жинағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>123.</td>
 <td>
 Ж. Аймауытов
 Боранды болжайтын әулие
@@ -2022,30 +2583,30 @@ The Cracow Dragon
 </td>
 </tr>
 <tr>
-<td></td>
+<td>124.</td>
 <td>
-С.Сейфуллин
+С. Сейфуллин
 Айшаның ерлігі
 </td>
 </tr>
 <tr>
-<td></td>
+<td>125.</td>
 <td>
-М.Әуезов
+М. Әуезов
 Кешкі дөң басында
 Балалық шақ (Абай жолы романынан үзінді)
 </td>
 </tr>
 <tr>
-<td></td>
+<td>126.</td>
 <td>
-С.Мұқанов
+С. Мұқанов
 Аққан жұлдыз романы (үзінді)
 Каронмен күрес (Балуан Шолақ повесінен үзінді
 </td>
 </tr>
 <tr>
-<td></td>
+<td>127.</td>
 <td>
 Ғ. Мүсірепов
 Қазақ солдаты романы (үзінді)
@@ -2054,79 +2615,79 @@ The Cracow Dragon
 </td>
 </tr>
 <tr>
-<td></td>
+<td>128.</td>
 <td>
-Қ.Аманжолов
+Қ. Аманжолов
 Алатау
 </td>
 </tr>
 <tr>
-<td></td>
+<td>129.</td>
 <td>
-С.Дөнентаев
+С. Дөнентаев
 Көк төбетке
 У жеген қасқырға
 Екі теке
 </td>
 </tr>
 <tr>
-<td></td>
+<td>130.</td>
 <td>
 Б. Момышұлы
 Ұшқан ұя
 </td>
 </tr>
 <tr>
-<td></td>
+<td>131.</td>
 <td>
-Б.Соқпақбаев
+Б. Соқпақбаев
 Балалық шаққа саяхат
 </td>
 </tr>
 <tr>
-<td></td>
+<td>132.</td>
 <td>
 С. Бегалин
 Шығармалар жинағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>133.</td>
 <td>
 Ж. Молдағалиев
 Мен қазақпын
 </td>
 </tr>
 <tr>
-<td></td>
+<td>134.</td>
 <td>
-Қ.Мырза Әлі
+Қ. Мырза Әлі
 Шығармалар жинағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>135.</td>
 <td>
 Т. Молдағалиев
 Мамандықты талдау
 </td>
 </tr>
 <tr>
-<td></td>
+<td>136.</td>
 <td>
-Ш.Мұртаза
+Ш. Мұртаза
 Интернат наны
 </td>
 </tr>
 <tr>
-<td></td>
+<td>137.</td>
 <td>
 М. Әлімбаев
 Шығармалар жинағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>138.</td>
 <td>
 Жазушы баспасы
 Қазақтың 100 поэмасы
@@ -2134,14 +2695,14 @@ The Cracow Dragon
 </td>
 </tr>
 <tr>
-<td></td>
+<td>139.</td>
 <td>
-С.Сарғасқаев
-Тәмпіш қара повесінен үзінді.
+С. Сарғасқаев
+Тәмпішқараповесіненүзінді.
 </td>
 </tr>
 <tr>
-<td></td>
+<td>140.</td>
 <td>
 Ж. Смақов
 Не болады?
@@ -2150,16 +2711,16 @@ The Cracow Dragon
 </td>
 </tr>
 <tr>
-<td></td>
+<td>141.</td>
 <td>
-С.Жүнісов
+С. Жүнісов
 Аманай мен Заманай повесі (үзінді)
 </td>
 </tr>
 <tr>
-<td></td>
+<td>142.</td>
 <td>
-Ө.Тұрманжанов
+Ө. Тұрманжанов
 Бөдене мен түлкі
 Төрт өгіз туралы ертегі
 Мысық пен жолбарыс ертегілері
@@ -2169,21 +2730,21 @@ The Cracow Dragon
 </td>
 </tr>
 <tr>
-<td></td>
+<td>143.</td>
 <td>
 Оразақын Асқар
 Тәлім
 </td>
 </tr>
 <tr>
-<td></td>
+<td>144.</td>
 <td>
-С.Сарғасқаев
+С. Сарғасқаев
 Біз төртеу едік
 </td>
 </tr>
 <tr>
-<td></td>
+<td>145.</td>
 <td>
 Б. Соқпақбаев
 Жекпе-жек хикаяты
@@ -2191,28 +2752,28 @@ The Cracow Dragon
 </td>
 </tr>
 <tr>
-<td></td>
+<td>146.</td>
 <td>
-Ә.Марқабаев
+Ә. Марқабаев
 Күнге тағы дақ түсті
 </td>
 </tr>
 <tr>
-<td></td>
+<td>147.</td>
 <td>
-М.Гумеров
+М. Гумеров
 Жұмбақ сәуле
 </td>
 </tr>
 <tr>
-<td></td>
+<td>148.</td>
 <td>
-С.Бақбергенов
+С. Бақбергенов
 Қасиет
 </td>
 </tr>
 <tr>
-<td></td>
+<td>149.</td>
 <td>
 Қағида өлеңдер
 Бес жетім
@@ -2221,150 +2782,150 @@ The Cracow Dragon
 </td>
 </tr>
 <tr>
-<td></td>
+<td>150.</td>
 <td>
-С.Шәймерденов
+С. Шәймерденов
 Битабар балуан
 </td>
 </tr>
 <tr>
-<td></td>
+<td>151.</td>
 <td>
-И.Байзақов
+И. Байзақов
 Ақбөпе поэмасы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>152.</td>
 <td>
-Ә.Дүйсенбиев
+Ә. Дүйсенбиев
 Ардақты ана
 </td>
 </tr>
 <tr>
-<td></td>
+<td>153.</td>
 <td>
-Ә.Кекілбаев
+Ә. Кекілбаев
 Аңыздың ақыры
 </td>
 </tr>
 <tr>
-<td></td>
+<td>154.</td>
 <td>
-Т.Әбдіков
+Т. Әбдіков
 Әке (үзінді)
 </td>
 </tr>
 <tr>
-<td></td>
+<td>155.</td>
 <td>
-Қ.Баянбаев
+Қ. Баянбаев
 Есектің күші
 </td>
 </tr>
 <tr>
-<td></td>
+<td>156.</td>
 <td>
-Х.Ерғалиев
+Х. Ерғалиев
 Құрманғазы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>157.</td>
 <td>
-С.Елубаев
+С. Елубаев
 Ақбоз үй
 </td>
 </tr>
 <tr>
-<td></td>
+<td>158.</td>
 <td>
-Т.Айбергенов
+Т. Айбергенов
 Сағыныш
 Сен менің өзімді көрсең
 </td>
 </tr>
 <tr>
-<td></td>
+<td>159.</td>
 <td>
-Д.Исабеков
+Д. Исабеков
 Қарғын романы (үзінді)
 </td>
 </tr>
 <tr>
-<td></td>
+<td>160.</td>
 <td>
-С.Қалиев
+С. Қалиев
 Қазақтың ой-тәлімдік антологиясы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>161.</td>
 <td>
-Ө.Ақыпбеков
+Ө. Ақыпбеков
 Адалдық туралы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>162.</td>
 <td>
-Н.Айтов
+Н. Айтов
 Қабанбай батыр
 Бәйтерек
 </td>
 </tr>
 <tr>
-<td></td>
+<td>163.</td>
 <td>
-Р.Нұрғалиев
+Р. Нұрғалиев
 Алаш ұранды әдебиет
 </td>
 </tr>
 <tr>
-<td></td>
+<td>164.</td>
 <td>
-Т.Жұртбай
+Т. Жұртбай
 Бесігіңді түзе
 </td>
 </tr>
 <tr>
-<td></td>
+<td>165.</td>
 <td>
-Қ.Баянбаев
+Қ. Баянбаев
 Менің ағам
 </td>
 </tr>
 <tr>
-<td></td>
+<td>166.</td>
 <td>
-Ш.Руставелли
+Ш. Руставелли
 Жолбарыс тонды жиһанкез жыры
 </td>
 </tr>
 <tr>
-<td></td>
+<td>167.</td>
 <td>
-Р.Ғамзатов
+Р. Ғамзатов
 Тілім менің
 Тырналар
 </td>
 </tr>
 <tr>
-<td></td>
+<td>168.</td>
 <td>
 М. Қаназов
 Қияндағы күн нұры (Арғы ауыл мен бергі ауылдың балалары)
 </td>
 </tr>
 <tr>
-<th>Орыс тіліндегі шығармалар</th>
+<th colspan="2">Произведения на русском языке</th>
 </tr>
 <tr>
-<td></td>
+<td>169.</td>
 <td>Сказки народов Казахстана</td>
 </tr>
 <tr>
-<td></td>
+<td>170.</td>
 <td>
 А.С. Пушкин.
 Сказка о рыбаке и рыбке
@@ -2374,358 +2935,358 @@ The Cracow Dragon
 </td>
 </tr>
 <tr>
-<td></td>
+<td>171.</td>
 <td>
-В.Драгунский
+В. Драгунский
 Денискины рассказы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>172.</td>
 <td>
-А.Волков
+А. Волков
 Волшебник Изумрудного города
 </td>
 </tr>
 <tr>
-<td></td>
+<td>173.</td>
 <td>
-М.Зощенко
+М. Зощенко
 Золотые слова
 </td>
 </tr>
 <tr>
-<td></td>
+<td>174.</td>
 <td>
-Н.Носов
+Н. Носов
 Как я решал задачу
 Марафонский бег
 </td>
 </tr>
 <tr>
-<td></td>
+<td>175.</td>
 <td>
-А.Чайковский
+А. Чайковский
 Как родились олимпийские игры
 </td>
 </tr>
 <tr>
-<td></td>
+<td>176.</td>
 <td>
-К.Паустовский
+К. Паустовский
 Телеграмма
 Золотая роза
 </td>
 </tr>
 <tr>
-<td></td>
+<td>177.</td>
 <td>
-М.Пришвин
+М. Пришвин
 Времена года
 </td>
 </tr>
 <tr>
-<td></td>
+<td>178.</td>
 <td>
-В.Распутин
+В. Распутин
 Уроки французского
 </td>
 </tr>
 <tr>
-<td></td>
+<td>179.</td>
 <td>
-А.Грин
+А. Грин
 Алые паруса
 </td>
 </tr>
 <tr>
-<td></td>
+<td>180.</td>
 <td>
-К.Булычев
+К. Булычев
 Джин в коробке
 Девочка с Земли
 </td>
 </tr>
 <tr>
-<td></td>
+<td>181.</td>
 <td>
-А.Куприн
+А. Куприн
 Белый пудель
 </td>
 </tr>
 <tr>
-<td></td>
+<td>182.</td>
 <td>
-П.Бажов
+П. Бажов
 Малахитовая шкатулка
 </td>
 </tr>
 <tr>
-<td></td>
+<td>183.</td>
 <td>
-В.Гаршин
+В. Гаршин
 Сказка о жабе и розе
 </td>
 </tr>
 <tr>
-<td></td>
+<td>184.</td>
 <td>
-Ч.Айтматов
+Ч. Айтматов
 Первый учитель
 Верблюжий глаз
 </td>
 </tr>
 <tr>
-<td></td>
+<td>185.</td>
 <td>
-И.Тургенев
+И. Тургенев
 Лето
 Ася
 </td>
 </tr>
 <tr>
-<td></td>
+<td>186.</td>
 <td>
-В.Каверин
+В. Каверин
 Два капитана
 </td>
 </tr>
 <tr>
-<td></td>
+<td>187.</td>
 <td>
-А.Приставкин
+А. Приставкин
 Ночевала тучка золотая
 </td>
 </tr>
 <tr>
-<td></td>
+<td>188.</td>
 <td>
-М.Симашко
+М. Симашко
 Емшан
 </td>
 </tr>
 <tr>
-<td></td>
+<td>189.</td>
 <td>
-В.Крапивин
+В. Крапивин
 Мальчик со шпагой
 </td>
 </tr>
 <tr>
-<td></td>
+<td>190.</td>
 <td>
-Г.Троепольский
+Г. Троепольский
 Белый Бим Черное ухо
 </td>
 </tr>
 <tr>
-<th>Произведения зарубежной литературы</th>
+<th colspan="2">Произведения зарубежной литературы</th>
 </tr>
 <tr>
-<td></td>
+<td>191.</td>
 <td>
 Г.Х. Андерсен
 Дикие лебеди
 </td>
 </tr>
 <tr>
-<td></td>
+<td>192.</td>
 <td>
 Э. Гофман
 Щелкунчик, или Мышиный король
 </td>
 </tr>
 <tr>
-<td></td>
+<td>193.</td>
 <td>
 О. Уайльд
 Счастливый принц
 </td>
 </tr>
 <tr>
-<td></td>
+<td>194.</td>
 <td>
 Д.Ролинг
 Гарри Поттер (по выбору)
 </td>
 </tr>
 <tr>
-<td></td>
+<td>195.</td>
 <td>
-Д.Толкиен
+Д. Толкиен
 Хоббит, или Туда и обратно
 Властелин колец
 </td>
 </tr>
 <tr>
-<td></td>
+<td>196.</td>
 <td>
-М.Твен
+М. Твен
 Приключения Тома Сойера
 </td>
 </tr>
 <tr>
-<td></td>
+<td>197.</td>
 <td>
-А.Дюма
+А. Дюма
 Три мушкетера
 </td>
 </tr>
 <tr>
-<td></td>
+<td>198.</td>
 <td>
 У.Шекспир
 Ромео и Джульетта
 </td>
 </tr>
 <tr>
-<td></td>
+<td>199.</td>
 <td>
 А.КонанДойль
 Приключения Шерлока Холмса
 </td>
 </tr>
 <tr>
-<td></td>
+<td>200.</td>
 <td>
 Lewis Carroll (retold by Virginia Evans, Jenny Dooley)
 Alice’s Adventures in Wonderland»
 </td>
 </tr>
 <tr>
-<td></td>
+<td>201.</td>
 <td>
 Jenny Dooley
 Beauty and Beast
 </td>
 </tr>
 <tr>
-<td></td>
+<td>202.</td>
 <td>
 Jules Verne (retold by Elizabeth Gray)
 Journey to the Centre of the Earth
 </td>
 </tr>
 <tr>
-<td></td>
+<td>203.</td>
 <td>
 Daniel Defoe (retold by Elizabeth Gray)
 Robinson Crusoe
 </td>
 </tr>
 <tr>
-<td></td>
+<td>204.</td>
 <td>
 James Fenimore Cooper (retold by Elizabeth Gray)
 The Last of the Mohicans
 </td>
 </tr>
 <tr>
-<td></td>
+<td>205.</td>
 <td>
 Jules Verne (retold by Elizabeth Gray)
 20,000 Leagues under the Sea
 </td>
 </tr>
 <tr>
-<td></td>
+<td>206.</td>
 <td>
 Mary Shelley (retold by Elizabeth Gray)
 Frankenstein
 </td>
 </tr>
 <tr>
-<td></td>
+<td>207.</td>
 <td>
 Charles Dickens (retold by Jenny Dooley)
 Oliver Twist
 </td>
 </tr>
 <tr>
-<td></td>
+<td>208.</td>
 <td>
 Robert Louis Stevenson (retold by Virginia Evans, Jenny Dooley)
 Treasure Island
 </td>
 </tr>
 <tr>
-<th>ЖАЛПЫ ОРТА БІЛІМ БЕРУ</th>
+<td colspan="2">
+ОБЩЕЕ СРЕДНЕЕ ОБРАЗОВАНИЕ
+Произведения на казахском языке
+</td>
 </tr>
 <tr>
-<th>Қазақ тіліндегі шығармалар</th>
-</tr>
-<tr>
-<td></td>
+<td>209.</td>
 <td>
 Қ. Мәшһүр Жүсіпов
 Көркем сөздің құдіреті
 </td>
 </tr>
 <tr>
-<td></td>
+<td>210.</td>
 <td>
-М.Құл-Мұхаммед
+М. Құл-Мұхаммед
 Мөңке би
 </td>
 </tr>
 <tr>
-<td></td>
+<td>211.</td>
 <td>
 Т. Васильченко
 Әмір Темір
 </td>
 </tr>
 <tr>
-<td></td>
+<td>212.</td>
 <td>
 Ә. Марғұлан
 Шоқан және Манас
 </td>
 </tr>
 <tr>
-<td></td>
+<td>213.</td>
 <td>
 А. Құнанбаев
 Шығармалар жинағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>214.</td>
 <td>
 А. Байтұрсынұлы
 Шығармалар жинағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>215.</td>
 <td>
 Ш. Сәтбаева
 Шәкәрім Құдайбердиев
 </td>
 </tr>
 <tr>
-<td></td>
+<td>216.</td>
 <td>
 М. Жұмабаев
 Шолпанның күнәсі
 </td>
 </tr>
 <tr>
-<td></td>
+<td>217.</td>
 <td>
 С. Сейфуллин
 Тар жол, тайғақ кешу
 </td>
 </tr>
 <tr>
-<td></td>
+<td>218.</td>
 <td>
-М.Әуезов
+М. Әуезов
 Абай жолы романы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>219.</td>
 <td>
 С. Мұқанов
 Өмір мектебі
@@ -2733,128 +3294,128 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>220.</td>
 <td>
-А.Жұбанов
+А. Жұбанов
 Замана бұлбұлдары
 </td>
 </tr>
 <tr>
-<td></td>
+<td>221.</td>
 <td>
 Ғ. Мүсірепов
 Қазақ солдаты
 </td>
 </tr>
 <tr>
-<td></td>
+<td>222.</td>
 <td>
-Қ.Қайсенов
+Қ. Қайсенов
 Жау тылында
 </td>
 </tr>
 <tr>
-<td></td>
+<td>223.</td>
 <td>
 Ә. Нұрпейісов
 Қан мен тер
 </td>
 </tr>
 <tr>
-<td></td>
+<td>224.</td>
 <td>
-Ғ.Мұстафин
+Ғ. Мұстафин
 Қарағанды
 </td>
 </tr>
 <tr>
-<td></td>
+<td>225.</td>
 <td>
-М.Мағауин
+М. Мағауин
 Тазының өлімі
 </td>
 </tr>
 <tr>
-<td></td>
+<td>226.</td>
 <td>
-О.Бөкей
+О. Бөкей
 Жылымық
 </td>
 </tr>
 <tr>
-<td></td>
+<td>227.</td>
 <td>
-І.Есенберлин
+І. Есенберлин
 Қаһар
 Алтын Орда
 Көшпенділер
 </td>
 </tr>
 <tr>
-<td></td>
+<td>228.</td>
 <td>
 Р. Мұқанова
 Мәңгілік бала бейнесі
 </td>
 </tr>
 <tr>
-<td></td>
+<td>229.</td>
 <td>
 Д. Исабеков
 Біз соғысты көрген жоқпыз
 </td>
 </tr>
 <tr>
-<td></td>
+<td>230.</td>
 <td>
-М.Мағауин
+М. Мағауин
 Аласапыран
 </td>
 </tr>
 <tr>
-<td></td>
+<td>231.</td>
 <td>
-Ә.Нұршайықов
+Ә. Нұршайықов
 Ақиқат пен аңыз
 </td>
 </tr>
 <tr>
-<td></td>
+<td>232.</td>
 <td>
-М.Ыбраев
+М. Ыбраев
 Кентавр
 </td>
 </tr>
 <tr>
-<td></td>
+<td>233.</td>
 <td>
-К.Жұмағұлов
+К. Жұмағұлов
 Қыран қазасы қияда
 </td>
 </tr>
 <tr>
-<td></td>
+<td>234.</td>
 <td>
-Ә.Әлімжанов
+Ә. Әлімжанов
 Махамбеттің жебесі
 </td>
 </tr>
 <tr>
-<td></td>
+<td>235.</td>
 <td>
-К.Тоқаев
+К. Тоқаев
 Таудағы жаңғырық
 </td>
 </tr>
 <tr>
-<td></td>
+<td>236.</td>
 <td>
-Ә.Әлімжанов
+Ә. Әлімжанов
 Махамбеттің жебесі
 </td>
 </tr>
 <tr>
-<td></td>
+<td>237.</td>
 <td>
 С. Сматаев
 Елім-ай
@@ -2862,98 +3423,98 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>238.</td>
 <td>
-Б. Көмеков, А.Ғалиева
+Б. Көмеков, А. Ғалиева
 Мөде қаған
 </td>
 </tr>
 <tr>
-<td></td>
+<td>239.</td>
 <td>
-М.Әуезов
+М. Әуезов
 Қилы заман
 </td>
 </tr>
 <tr>
-<td></td>
+<td>240.</td>
 <td>
-Ә.Кекілбаев
+Ә. Кекілбаев
 Күйші
 </td>
 </tr>
 <tr>
-<td></td>
+<td>241.</td>
 <td>
 Қ. Жұмаділов
 Соңғы көш
 </td>
 </tr>
 <tr>
-<td></td>
+<td>242.</td>
 <td>
 М. Шаханов
 Желтоқсан жаңғырығы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>243.</td>
 <td>
-М.Мақатаев
+М. Мақатаев
 Аманат
 </td>
 </tr>
 <tr>
-<td></td>
+<td>244.</td>
 <td>
-Ф.Оңғарсынова
+Ф. Оңғарсынова
 Шығармалар жинағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>245.</td>
 <td>
-М.Әлімбаев
+М. Әлімбаев
 Менің Қазақстаным
 </td>
 </tr>
 <tr>
-<td></td>
+<td>246.</td>
 <td>
-О.Әубәкіров
+О. Әубәкіров
 Шығармалар жинағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>247.</td>
 <td>
 Ә.Шәріпов
-«Партизан қызы».
+«Партизан қызы»
 </td>
 </tr>
 <tr>
-<td></td>
+<td>248.</td>
 <td>
 З. Шашкин
 Доктор Дарханов
 </td>
 </tr>
 <tr>
-<td></td>
+<td>249.</td>
 <td>
 Қ. Мұхамеджанов
 Бөлтірік бөрік астында
 </td>
 </tr>
 <tr>
-<td></td>
+<td>250.</td>
 <td>
 А. Сүлейменов
 Адасқақ
 </td>
 </tr>
 <tr>
-<td></td>
+<td>251.</td>
 <td>
 Қ. Жұмаділов
 Соңғы көш
@@ -2961,65 +3522,65 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>252.</td>
 <td>
 Ә. Кекілбаев
 Шыңырау
 </td>
 </tr>
 <tr>
-<td></td>
+<td>253.</td>
 <td>
 О. Бөкей
 Атау кере
 </td>
 </tr>
 <tr>
-<td></td>
+<td>254.</td>
 <td>
-С.Елубаев
+С. Елубаев
 Ақ боз үй
 </td>
 </tr>
 <tr>
-<td></td>
+<td>255.</td>
 <td>
-Д.Досжанов
+Д. Досжанов
 Алыптың азабы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>255.</td>
 <td>
 Р. Тоқтаров
 Абайдың жұмбағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>256.</td>
 <td>
-М.Шаханов
+М. Шаханов
 Өркениеттің адасуы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>257.</td>
 <td>
 А. Асылбек
 Қуандық пен Жуантық
 </td>
 </tr>
 <tr>
-<td></td>
+<td>258.</td>
 <td>
 А. Кемелбаева
 Жетінші құрлыққа саяхат
 </td>
 </tr>
 <tr>
-<td></td>
+<td>259.</td>
 <td>
-Ш.Айтматов
+Ш. Айтматов
 Жанпида романы (үзінді)
 Қош бол, Гүлсары
 Боранды бекет
@@ -3027,111 +3588,111 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>260.</td>
 <td>
 Шығыс әдебиетінен Кәлилә мен Димнә (Панчатантра)
 Аударған Сейділ Талжанов
 </td>
 </tr>
 <tr>
-<td></td>
+<td>261.</td>
 <td>
 Т. Әбдірайым
 Алабұға ауланған күн
 </td>
 </tr>
 <tr>
-<td></td>
+<td>262.</td>
 <td>
 А. Кемелбаева
 Қоңырқаз
 </td>
 </tr>
 <tr>
-<th>Орыс тіліндегі шығармалар</th>
+<th colspan="2">Произведения на русском языке</th>
 </tr>
 <tr>
-<td></td>
+<td>263.</td>
 <td>
-А.Пушкин
+А. Пушкин
 Станционный смотритель
 </td>
 </tr>
 <tr>
-<td></td>
+<td>264.</td>
 <td>
-И.Тургенев
+И. Тургенев
 Рудин
 </td>
 </tr>
 <tr>
-<td></td>
+<td>265.</td>
 <td>
-Л.Толстой
+Л. Толстой
 Севастополь в декабре месяце (из цикла Севастопольские рассказы)
 </td>
 </tr>
 <tr>
-<td></td>
+<td>266.</td>
 <td>
-А.Чехов
+А. Чехов
 Попрыгунья
 Учитель словесности
 Дом с мезонином
 </td>
 </tr>
 <tr>
-<td></td>
+<td>267.</td>
 <td>
-А.Толстой
+А. Толстой
 Аэлита
 </td>
 </tr>
 <tr>
-<td></td>
+<td>268.</td>
 <td>
-А.Куприн
+А. Куприн
 Олеся
 Гранатовый браслет
 </td>
 </tr>
 <tr>
-<td></td>
+<td>269.</td>
 <td>
-И.Бунин
+И. Бунин
 Господин из Сан-Франциско
 </td>
 </tr>
 <tr>
-<td></td>
+<td>270.</td>
 <td>
-М.Булгаков
+М. Булгаков
 Мастер и Маргарита
 </td>
 </tr>
 <tr>
-<td></td>
+<td>271.</td>
 <td>
-А.Бек
+А. Бек
 Волоколамское шоссе
 </td>
 </tr>
 <tr>
-<td></td>
+<td>272.</td>
 <td>
-Б.Пастернак
+Б. Пастернак
 Доктор Живаго
 </td>
 </tr>
 <tr>
-<td></td>
+<td>273.</td>
 <td>
-Ю.Домбровский
+Ю. Домбровский
 Хранитель древностей
 </td>
 </tr>
 <tr>
-<td></td>
+<td>274.</td>
 <td>
 Ю. Бондарев
 Батальоны просят огня
@@ -3139,100 +3700,100 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>275.</td>
 <td>
-А.Вознесенский
+А. Вознесенский
 Параболическая баллада
 Первый лед
 </td>
 </tr>
 <tr>
-<td></td>
+<td>276.</td>
 <td>
-Б.Окуджава
+Б. Окуджава
 Я пишу исторический роман
 Союз друзей
 </td>
 </tr>
 <tr>
-<td></td>
+<td>277.</td>
 <td>
-В.Высоцкий
+В. Высоцкий
 Песня о друге
 Я не люблю
 Песня о земле
 </td>
 </tr>
 <tr>
-<td></td>
+<td>278.</td>
 <td>
-И.Бродский
+И. Бродский
 Отрывок
 </td>
 </tr>
 <tr>
-<td></td>
+<td>279.</td>
 <td>
-О.Сулейменов
+О. Сулейменов
 Красный гонец и черный гонец
 </td>
 </tr>
 <tr>
-<td></td>
+<td>280.</td>
 <td>
 Ч. Айтматов
 И дольше века длится день
 </td>
 </tr>
 <tr>
-<td></td>
+<td>281.</td>
 <td>
-В.Ян
+В. Ян
 Чингиз-хан
 Батый
 </td>
 </tr>
 <tr>
-<td></td>
+<td>282.</td>
 <td>
-И.Ильф, Е.Петров
+И. Ильф, Е. Петров
 Двенадцать стульев
 Золотой теленок
 </td>
 </tr>
 <tr>
-<td></td>
+<td>283.</td>
 <td>
-С.Елюбаев
+С. Елюбаев
 Одинокая юрта
 </td>
 </tr>
 <tr>
-<td></td>
+<td>284.</td>
 <td>
-Б.Джандарбеков
+Б. Джандарбеков
 Саки
 </td>
 </tr>
 <tr>
-<th>Произведения зарубежной литературы</th>
+<th colspan="2">Произведения зарубежной литературы</th>
 </tr>
 <tr>
-<td></td>
+<td>285.</td>
 <td>
 Ги де Мопассан
 Ожерелье
 </td>
 </tr>
 <tr>
-<td></td>
+<td>286.</td>
 <td>
 М. Рид
 Всадник без головы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>287.</td>
 <td>
 Б. Шоу
 Дом, где разбиваются сердца
@@ -3240,43 +3801,43 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>288.</td>
 <td>
-Д.Остин
+Д. Остин
 Гордость и предубеждение
 </td>
 </tr>
 <tr>
-<td></td>
+<td>289.</td>
 <td>
 Т. Уильямс
 Стеклянный зверинец
 </td>
 </tr>
 <tr>
-<td></td>
+<td>290.</td>
 <td>
-Э.Хемингуэй
+Э. Хемингуэй
 Прощай, оружие
 Праздник, который всегда с тобой
 </td>
 </tr>
 <tr>
-<td></td>
+<td>291.</td>
 <td>
-А.Азимов
-Я, Робот
+А. Азимов
+Я Робот
 </td>
 </tr>
 <tr>
-<td></td>
+<td>292.</td>
 <td>
-Э.Ремарк
+Э. Ремарк
 Три товарища
 </td>
 </tr>
 <tr>
-<td></td>
+<td>293.</td>
 <td>
 Лондон
 Сердца трех
@@ -3284,157 +3845,152 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>294.</td>
 <td>
-Э.Хемингуэй
+Э. Хемингуэй
 Старик и море
 </td>
 </tr>
 <tr>
-<td></td>
+<td>295.</td>
 <td>
 Oscar Wilde (retold by Elizabeth Gray)
 The Portrait of Dorian Gray
 </td>
 </tr>
 <tr>
-<td></td>
+<td>296.</td>
 <td>
 Charles Dickens (retold by Virginia Evans)
 David Copperfield
 </td>
 </tr>
 <tr>
-<td></td>
+<td>297.</td>
 <td>
 Charlotte Bronte (retold by Jenny Dooley )
 Jane Eyre
 </td>
 </tr>
 <tr>
-<td></td>
+<td>298.</td>
 <td>
 Jane Austen
 Pride and Prejudice
 </td>
 </tr>
 <tr>
-<td></td>
+<td>299.</td>
 <td>
 Charles Dickens (retold by Jenny Dooley)
 A Tale of Two Cities
 </td>
 </tr>
 <tr>
-<td></td>
+<td>300.</td>
 <td>
 Alexandre Dumas (retold by Elizabeth Gray and Ian Robertson)
 The Man in the Iron Mask
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
-<th>Для школ с русским языком обучения</th>
+<td colspan="2">
+Для школ с русским языком обучения
+ДОШКОЛЬНОЕ ВОСПИТАНИЕ И ОБУЧЕНИЕ
+Устное народное творчество:
+</td>
 </tr>
 <tr>
-<th>ДОШКОЛЬНОЕ ВОСПИТАНИЕ И ОБУЧЕНИЕ</th>
+<th></th>
+<th>Казахские, русские пословицы, поговорки и загадки</th>
 </tr>
 <tr>
-<th>Устное народное творчество:</th>
+<th colspan="2">Русские народные сказки:</th>
 </tr>
 <tr>
 <td>1.</td>
-<td>Казахские, русские пословицы, поговорки и загадки</td>
-</tr>
-<tr>
-<th>Русские народные сказки:</th>
-</tr>
-<tr>
-<td></td>
 <td>Кот, петух и лиса</td>
 </tr>
 <tr>
-<td></td>
+<td>2.</td>
 <td>Глупый волк</td>
 </tr>
 <tr>
-<td></td>
+<td>3.</td>
 <td>У страха глаза велики</td>
 </tr>
 <tr>
-<td></td>
+<td>4.</td>
 <td>Маша и медведь</td>
 </tr>
 <tr>
-<td></td>
+<td>5.</td>
 <td>Морозко</td>
 </tr>
 <tr>
-<td></td>
+<td>6.</td>
 <td>Лиса и журавль</td>
 </tr>
 <tr>
-<td></td>
+<td>7.</td>
 <td>Гуси-лебеди</td>
 </tr>
 <tr>
-<td></td>
+<td>8.</td>
 <td>Хаврошечка</td>
 </tr>
 <tr>
-<td></td>
+<td>9.</td>
 <td>Снегурочка</td>
 </tr>
 <tr>
-<td></td>
+<td>10.</td>
 <td>Лисичка-сестричка и серый волк</td>
 </tr>
 <tr>
-<td></td>
+<td>11.</td>
 <td>Лиса и заяц</td>
 </tr>
 <tr>
-<td></td>
+<td>12.</td>
 <td>Мужик и медведь</td>
 </tr>
 <tr>
-<td></td>
+<td>13.</td>
 <td>По щучьему велению</td>
 </tr>
 <tr>
-<th>Сказки народов мира:</th>
+<th colspan="2">Сказки народов мира:</th>
 </tr>
 <tr>
-<td></td>
+<td>14.</td>
 <td>Три поросенка (английская народная сказка)</td>
 </tr>
 <tr>
-<td></td>
+<td>15.</td>
 <td>Три сестры (татарская народная сказка)</td>
 </tr>
 <tr>
-<td></td>
+<td>16.</td>
 <td>Не силой, а умом (белорусская народная сказка)</td>
 </tr>
 <tr>
-<td></td>
+<td>17.</td>
 <td>Кукушка (ненецкая народная сказка)</td>
 </tr>
 <tr>
-<td></td>
+<td>18.</td>
 <td>У солнышка в гостях (словацкая народная сказка)</td>
 </tr>
 <tr>
-<td></td>
+<td>19.</td>
 <td>Поспешишь – людей насмешишь (польская народная сказка)</td>
 </tr>
 <tr>
-<th>Рассказы писателей Казахстана, России и других стран СНГ</th>
+<th colspan="2">Рассказы писателей Казахстана, России и других стран СНГ</th>
 </tr>
 <tr>
-<td></td>
+<td>20.</td>
 <td>
 Ыбырай Алтынсарин
 Чувство жалости сильнее боли
@@ -3443,14 +3999,14 @@ The Man in the Iron Mask
 </td>
 </tr>
 <tr>
-<td></td>
+<td>21.</td>
 <td>
 Отебай Турманжанов
 Белый верблюжонок
 </td>
 </tr>
 <tr>
-<td></td>
+<td>22.</td>
 <td>
 Лев Толстой
 Птичка
@@ -3462,7 +4018,7 @@ The Man in the Iron Mask
 </td>
 </tr>
 <tr>
-<td></td>
+<td>23.</td>
 <td>
 Эдуард Шим
 Камень
@@ -3472,28 +4028,28 @@ The Man in the Iron Mask
 </td>
 </tr>
 <tr>
-<td></td>
+<td>24.</td>
 <td>
 Евгений Чарушин
 Волчишко
 </td>
 </tr>
 <tr>
-<td></td>
+<td>25.</td>
 <td>
 Виталий Бианки
 Хвосты
 </td>
 </tr>
 <tr>
-<td></td>
+<td>26.</td>
 <td>
 Евгений Чарушин
 На нашем дворе
 </td>
 </tr>
 <tr>
-<td></td>
+<td>27.</td>
 <td>
 Константин Ушинский
 Лекарство
@@ -3504,7 +4060,7 @@ The Man in the Iron Mask
 </td>
 </tr>
 <tr>
-<td></td>
+<td>28.</td>
 <td>
 Валентина Осеева
 Плохо
@@ -3513,23 +4069,23 @@ The Man in the Iron Mask
 </td>
 </tr>
 <tr>
-<td></td>
+<td>29.</td>
 <td>
 Евгений Пермяк
 Для чего руки нужны
 </td>
 </tr>
 <tr>
-<td></td>
+<td>30.</td>
 <td>
 Виталий Бианки
 Лис и мышонок
 </td>
 </tr>
 <tr>
-<td></td>
+<td>31.</td>
 <td>
-Музафар Алимбаева
+Музафар Алимбаев
 Приметы осени
 Не знает ли щенок об этом?
 Ослик пляшет
@@ -3540,35 +4096,35 @@ The Man in the Iron Mask
 </td>
 </tr>
 <tr>
-<td></td>
+<td>32.</td>
 <td>
 Кабдыкарим Ыдырысов
 Мой край
 </td>
 </tr>
 <tr>
-<td></td>
+<td>33.</td>
 <td>
 Абубакир Кайранов
 Бабушка
 </td>
 </tr>
 <tr>
-<td></td>
+<td>34.</td>
 <td>
 Самуил Маршак
 Песня о елке
 </td>
 </tr>
 <tr>
-<td></td>
+<td>35.</td>
 <td>
 Иван Суриков
 Первый снег
 </td>
 </tr>
 <tr>
-<td></td>
+<td>36.</td>
 <td>
 Евгения Трутнева
 С Новым годом!
@@ -3576,14 +4132,14 @@ The Man in the Iron Mask
 </td>
 </tr>
 <tr>
-<td></td>
+<td>37.</td>
 <td>
 Ольга Высотская
 Разговор с весной
 </td>
 </tr>
 <tr>
-<td></td>
+<td>38.</td>
 <td>
 Сергей Есенин
 Черемуха
@@ -3591,87 +4147,87 @@ The Man in the Iron Mask
 </td>
 </tr>
 <tr>
-<td></td>
+<td>39.</td>
 <td>
 Расул Гамзатов
 Мой дедушка
 </td>
 </tr>
 <tr>
-<td></td>
+<td>40.</td>
 <td>
 Корней Чуковский
 Айболит и воробей
 </td>
 </tr>
 <tr>
-<th>НАЧАЛЬНОЕ ОБРАЗОВАНИЕ</th>
+<td colspan="2">
+НАЧАЛЬНОЕ ОБРАЗОВАНИЕ
+Произведения на русском языке
+</td>
 </tr>
 <tr>
-<th>Произведения на русском языке</th>
-</tr>
-<tr>
-<td></td>
+<td>41.</td>
 <td>
-Б.Майтанов
+Б. Майтанов
 Абай
 </td>
 </tr>
 <tr>
-<td></td>
+<td>42.</td>
 <td>
 М. Кул-Мухаммед
 Аль-Фараби
 </td>
 </tr>
 <tr>
-<td></td>
+<td>43.</td>
 <td>
-Б.Комеков, С.Утениязов
+Б. Комеков, С. Утениязов
 Шокан Уалиханов
 </td>
 </tr>
 <tr>
-<td></td>
+<td>44.</td>
 <td>
-Ж.Касымбаев
+Ж. Касымбаев
 Абылай хан
 Кенесары Касымов
 </td>
 </tr>
 <tr>
-<td></td>
+<td>45.</td>
 <td>
-А.Галиев
+А. Галиев
 Керей мен Жанибек
 Томирис
 </td>
 </tr>
 <tr>
-<td></td>
+<td>46.</td>
 <td>
-Б.Комеков, К.Саки
+Б. Комеков, К. Саки
 Бейбарыс султан
 </td>
 </tr>
 <tr>
-<td></td>
+<td>47.</td>
 <td>
-Б.Комеков, Б.Карибаев
+Б. Комеков, Б. Карибаев
 Мухаммед Хайдар Дулат
 </td>
 </tr>
 <tr>
-<td></td>
+<td>48.</td>
 <td>
-А.Галиев, Б.Комеков
+А. Галиев, Б. Комеков
 Чингис хан
 </td>
 </tr>
 <tr>
-<td></td>
+<td>49.</td>
 <td>
-Ш.Кумисбайулы
+Ш. Кумисбайулы
 Канжыгалы Богенбай
 Шакшакулы Жанибек
 Райымбек батыр
@@ -3679,23 +4235,23 @@ The Man in the Iron Mask
 </td>
 </tr>
 <tr>
-<td></td>
+<td>50.</td>
 <td>
-Б.Сокпакбаев
+Б. Сокпакбаев
 Компас
 </td>
 </tr>
 <tr>
-<td></td>
+<td>51.</td>
 <td>
-И.Токмакова
+И. Токмакова
 Весна
 Осенние листья
 Десять птичек – стайка
 </td>
 </tr>
 <tr>
-<td></td>
+<td>52.</td>
 <td>
 К.Ушинский
 Четыре желания
@@ -3703,7 +4259,7 @@ The Man in the Iron Mask
 </td>
 </tr>
 <tr>
-<td></td>
+<td>53.</td>
 <td>
 В. Тимошенко
 Кто сделал скворечник?
@@ -3712,14 +4268,14 @@ The Man in the Iron Mask
 </td>
 </tr>
 <tr>
-<td></td>
+<td>54.</td>
 <td>
-А.Плещеев
+А. Плещеев
 Миновало лето
 </td>
 </tr>
 <tr>
-<td></td>
+<td>55.</td>
 <td>
 Е.Елубаев
 Милосердие
@@ -3727,76 +4283,76 @@ The Man in the Iron Mask
 </td>
 </tr>
 <tr>
-<td></td>
+<td>56.</td>
 <td>
-Н.Сералиев
+Н. Сералиев
 Пуговицы
 Ласточка
 Победа Бейсена
 </td>
 </tr>
 <tr>
-<td></td>
+<td>57.</td>
 <td>
-Ы.Алтынсарин
-Чистый родник
+Ы. Алтынсарин
+Чистыйродник
 </td>
 </tr>
 <tr>
-<td></td>
+<td>58.</td>
 <td>
-Ж.Жабаев
+Ж. Жабаев
 Весна
 </td>
 </tr>
 <tr>
-<td></td>
+<td>59.</td>
 <td>
-С.Сейфуллин
+С. Сейфуллин
 Озеро
 </td>
 </tr>
 <tr>
-<td></td>
+<td>60.</td>
 <td>
-Г.Скребицкий
+Г. Скребицкий
 Лесное эхо
 Митины друзья
 Носатик
 </td>
 </tr>
 <tr>
-<td></td>
+<td>61.</td>
 <td>
-Е.Круглова
+Е. Круглова
 Мамин подарок
 </td>
 </tr>
 <tr>
-<td></td>
+<td>62.</td>
 <td>
-Д.Джумагильдинова
+Д. Джумагильдинова
 История сайгочонка
 Как я стал героем
 </td>
 </tr>
 <tr>
-<td></td>
+<td>63.</td>
 <td>
-А.Токмаганбетов
+А. Токмаганбетов
 Ворона и соловей
 Басня
 </td>
 </tr>
 <tr>
-<td></td>
+<td>64.</td>
 <td>
-В.Алексин
+В. Алексин
 Веселые повести
 </td>
 </tr>
 <tr>
-<td></td>
+<td>65.</td>
 <td>
 Керрол Льюис
 Алиса в Зазеркалье
@@ -3804,15 +4360,15 @@ The Man in the Iron Mask
 </td>
 </tr>
 <tr>
-<td></td>
+<td>66.</td>
 <td>
-В.Катаев
+В. Катаев
 Цветик-семицветик
 Сказка
 </td>
 </tr>
 <tr>
-<td></td>
+<td>67.</td>
 <td>
 Казахские народные сказки.
 Добрый и злой
@@ -3823,7 +4379,7 @@ The Man in the Iron Mask
 </td>
 </tr>
 <tr>
-<td></td>
+<td>68.</td>
 <td>
 Сказки о батырах
 Акжан-батыр
@@ -3834,16 +4390,16 @@ The Man in the Iron Mask
 </td>
 </tr>
 <tr>
-<td></td>
+<td>69.</td>
 <td>
-Қ.Мырза
+Қ. Мырза Али
 По мотивам народной сказки
 </td>
 </tr>
 <tr>
-<td></td>
+<td>70.</td>
 <td>
-Г.Андерсен
+Г. Андерсен
 Принцесса на горошине
 Русалочка
 Дюймовочка
@@ -3851,63 +4407,66 @@ The Man in the Iron Mask
 </td>
 </tr>
 <tr>
-<td></td>
+<td>71.</td>
 <td>
-Е.Круглова
+Е. Круглова
 Почемучкины сказки
 Шесть сказок для любимых глазок
 </td>
 </tr>
 <tr>
-<td></td>
+<td>72.</td>
 <td>
-А.Файзуллаев, Е.Круглова
+А. Файзуллаев, Е. Круглова
 Сказки-обучалки
 </td>
 </tr>
 <tr>
-<td></td>
+<td>73.</td>
 <td>
 В. Сутеев
 Сказки
 </td>
 </tr>
 <tr>
-<td></td>
+<td>74.</td>
 <td>Сказки о батырах (сборник казахских народных сказок)</td>
 </tr>
 <tr>
-<td></td>
+<td>75.</td>
 <td>Бабушкины сказки (сборник казахских народных сказок)</td>
 </tr>
 <tr>
-<td></td>
+<td>76.</td>
 <td>Волшебные сказки (сборник казахских народных сказок)</td>
 </tr>
 <tr>
-<td></td>
+<td>77.</td>
 <td>Сказки о животных (сборник казахских народных сказок)</td>
 </tr>
 <tr>
-<td></td>
+<td>78.</td>
 <td>Жить поживать - добра наживать (сборник казахских народных сказок)</td>
 </tr>
 <tr>
-<td></td>
+<td>79.</td>
 <td>Батыры-богатыри (сборник казахских народных сказок)</td>
 </tr>
+</table>
+
+<table>
 <tr>
-<th>Произведения на казахском языке</th>
+<th colspan="2">Произведения на казахском языке</th>
 </tr>
 <tr>
-<td></td>
+<td>80.</td>
 <td>
-Б.Сокпакбаев
+Б. Соқпақбаев
 Менің атым Қожа
 </td>
 </tr>
 <tr>
-<td></td>
+<td>81.</td>
 <td>
 Қазақ ертегілері
 Қадырдың бақыты
@@ -3918,122 +4477,122 @@ The Man in the Iron Mask
 </td>
 </tr>
 <tr>
-<td></td>
+<td>82.</td>
 <td>
-Қ.Мырза Али
+Қ. Мырза Али
 Халық ертегісінің ізімен
 </td>
 </tr>
 <tr>
-<td></td>
+<td>83.</td>
 <td>
 Орыс ертегісі
 Қасқыр мен жеті лақ
 </td>
 </tr>
 <tr>
-<td></td>
+<td>84.</td>
 <td>Ағайынды Гримм ертегілері (ертегілер жинағы)</td>
 </tr>
 <tr>
-<td></td>
+<td>85.</td>
 <td>Андерсен ертегілері (ертегілер жинағы)</td>
 </tr>
 <tr>
-<td></td>
+<td>86.</td>
 <td>Әлем ертегілер жинағы (ертегілер жинағы)</td>
 </tr>
 <tr>
-<td></td>
+<td>87.</td>
 <td>Алдар косе хикаялары (жинақ)</td>
 </tr>
 <tr>
-<th>Произведения на английском языке</th>
+<th colspan="2">Произведения на английском языке</th>
 </tr>
 <tr>
-<td></td>
+<td>88.</td>
 <td>Фелиция Брукс ВиккиVicky tne Vet</td>
 </tr>
 <tr>
-<td></td>
+<td>89.</td>
 <td>Казахская народная сказка Thecoodman and the badmen</td>
 </tr>
 <tr>
-<td></td>
+<td>90.</td>
 <td>
 The Brothers Grimm (retold by Jenny Dooley and Chris Bates)
 Snow White and 7 Dwarfs
 </td>
 </tr>
 <tr>
-<td></td>
+<td>91.</td>
 <td>
 The Brothers Grimm(retold by Jenny Dooley and Vanessa Page)
 Sleeping Beauty
 </td>
 </tr>
 <tr>
-<td></td>
+<td>92.</td>
 <td>
 a Folk tale (retold by Jenny Dooley and Charles Lloyd)
 Aladdin and the Magic Lamp
 </td>
 </tr>
 <tr>
-<td></td>
+<td>93.</td>
 <td>
 a Folk tale (retold by Jenny Dooley)
 The Cracow Dragon
 </td>
 </tr>
 <tr>
-<td></td>
+<td>94.</td>
 <td>
 Hans Christian Andersen (retold by Jenny Dooley and Antony Kerr)
 The Little Mermaid
 </td>
 </tr>
 <tr>
-<th>ОСНОВНОЕ СРЕДНЕЕ ОБРАЗОВАНИЕ</th>
+<td colspan="2">
+ОСНОВНОЕ СРЕДНЕЕ ОБРАЗОВАНИЕ
+Произведения на казахском языке
+</td>
 </tr>
 <tr>
-<th>Произведения на казахском языке</th>
-</tr>
-<tr>
-<td></td>
+<td>95.</td>
 <td>Жиренше шешен мен Қарашаш сұлу</td>
 </tr>
 <tr>
-<td></td>
+<td>96.</td>
 <td>Алпамыс батыр жыры</td>
 </tr>
 <tr>
-<td></td>
+<td>97.</td>
 <td>Айман-Шолпан жыры</td>
 </tr>
 <tr>
-<td></td>
+<td>98.</td>
 <td>
 Алдардың шық бермес Шығайбайға қонақ болуы
 Түйе, арыстан, қасқыр және түлкі
 </td>
 </tr>
 <tr>
-<td></td>
+<td>99.</td>
 <td>
 Дүниеде не өлмейді
 Шешендік сөздер
 </td>
 </tr>
 <tr>
-<td></td>
+<td>100.</td>
 <td>
 Әл-Фараби
 Тіршілікте құрыштай бол төзімді өлеңі
 </td>
 </tr>
 <tr>
-<td></td>
+<td>101.</td>
 <td>
 Асан қайғы
 Таза мінсіз асыл тас
@@ -4041,37 +4600,37 @@ The Little Mermaid
 </td>
 </tr>
 <tr>
-<td></td>
+<td>102.</td>
 <td>
 Дулат Бабатайұлы
 Аягөз, қайда барасың?
 </td>
 </tr>
 <tr>
-<td></td>
+<td>103.</td>
 <td>
-М.Өтемісұлы
+М. Өтемісұлы
 Мен едім
 </td>
 </tr>
 <tr>
-<td></td>
+<td>104.</td>
 <td>
 Ы. Алтынсарин
 Балаларға арналған әңгімелер
 </td>
 </tr>
 <tr>
-<td></td>
+<td>105.</td>
 <td>
 А. Құнанбаев
 Өлеңдер жинағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>106.</td>
 <td>
-А.Байтұрсынұлы
+А. Байтұрсынұлы
 Бұлбұл мен есек
 Балаларды оқуға шақыру өлеңі
 Қасқыр мен қозы
@@ -4079,7 +4638,7 @@ The Little Mermaid
 </td>
 </tr>
 <tr>
-<td></td>
+<td>107.</td>
 <td>
 С. Торайғыров
 Қымыз
@@ -4087,58 +4646,58 @@ The Little Mermaid
 </td>
 </tr>
 <tr>
-<td></td>
+<td>108.</td>
 <td>
-Ш.Құдайбердиев
+Ш. Құдайбердиев
 Өмір
 </td>
 </tr>
 <tr>
-<td></td>
+<td>109.</td>
 <td>
-М.Жұмабаев
+М. Жұмабаев
 Қазақ тілі
 </td>
 </tr>
 <tr>
-<td></td>
+<td>110.</td>
 <td>
 С. Сейфуллин
 Өлеңдер жинағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>111.</td>
 <td>
-Ж.Жабаев
+Ж. Жабаев
 Абайдың суретіне
 </td>
 </tr>
 <tr>
-<td></td>
+<td>112.</td>
 <td>
-Қ.Қайсенов
+Қ. Қайсенов
 Туған жер
 </td>
 </tr>
 <tr>
-<td></td>
+<td>113.</td>
 <td>
-М.Әуезов
+М. Әуезов
 Жетім
 </td>
 </tr>
 <tr>
-<td></td>
+<td>114.</td>
 <td>
-Ғ.Мүсірепов
+Ғ. Мүсірепов
 Жаңа достар (Қазақ солдаты романынан үзінді)
 Талпақ танау
 Ананың анасы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>115.</td>
 <td>
 Ғ. Қайырбеков
 Ауылым-алтын бесігім
@@ -4146,30 +4705,30 @@ The Little Mermaid
 </td>
 </tr>
 <tr>
-<td></td>
+<td>116.</td>
 <td>
 О. Бөкей
 Алтай
 </td>
 </tr>
 <tr>
-<td></td>
+<td>117.</td>
 <td>
-Қ.Мырзалиев
+Қ. Мырзалиев
 Қызыл кітап
 Мектеп
 </td>
 </tr>
 <tr>
-<td></td>
+<td>118.</td>
 <td>
-М.Мақатаев
+М. Мақатаев
 Қазақ жері
 Саржайлауым
 </td>
 </tr>
 <tr>
-<td></td>
+<td>119.</td>
 <td>
 Сырбай Мәуленов
 Наурыз
@@ -4177,51 +4736,51 @@ The Little Mermaid
 </td>
 </tr>
 <tr>
-<td></td>
+<td>120.</td>
 <td>
-М.Мақатаев
+М. Мақатаев
 Қара өлең
 Саржайлауым
 Мен сендерді іздеймін
 </td>
 </tr>
 <tr>
-<td></td>
+<td>121.</td>
 <td>
 М. Шаханов
 Төрт ана
 </td>
 </tr>
 <tr>
-<td></td>
+<td>122.</td>
 <td>
-Ф.Оңғарсынова
+Ф. Оңғарсынова
 Қазақтың дәстүрлері
 </td>
 </tr>
 <tr>
-<td></td>
+<td>123.</td>
 <td>
-Н.Оразалин
+Н. Оразалин
 Шығармалар жинағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>124.</td>
 <td>
 С. Қалиев
 Қазақтың ой-тәлімдік антологиясы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>125.</td>
 <td>
 Г. Қажыбаева
 Қазақ балалар поэмасының антологиясы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>126.</td>
 <td>
 Қағида өлеңдер
 Бес жетім
@@ -4230,35 +4789,35 @@ The Little Mermaid
 </td>
 </tr>
 <tr>
-<td></td>
+<td>127.</td>
 <td>
-Н.Аитов
+Н. Аитов
 Қабанбай батыр поэмасы (үзінді)
 </td>
 </tr>
 <tr>
-<td></td>
+<td>128.</td>
 <td>
 Жапон аңыздары. Түпнұсқадан аударған Шарафат Жылқыбаева
 Күншығыс аңыздары
 </td>
 </tr>
 <tr>
-<td></td>
+<td>129.</td>
 <td>
-Ш.Руставелли
+Ш. Руставелли
 Жолбарыс тонды жиһанкез жыры
 </td>
 </tr>
 <tr>
-<td></td>
+<td>130.</td>
 <td>
 Н. Қазыбеков
 Дала өрнектері
 </td>
 </tr>
 <tr>
-<td></td>
+<td>131.</td>
 <td>
 С. Оспанов
 Су перісі
@@ -4267,14 +4826,10 @@ The Little Mermaid
 </td>
 </tr>
 <tr>
-<th>Произведения на русском языке</th>
+<th colspan="2">Произведения на русском языке</th>
 </tr>
 <tr>
-<td></td>
-<td>Сказки народов Казахстана</td>
-</tr>
-<tr>
-<td></td>
+<td>132.</td>
 <td>
 Н. Шаймерденова
 Принцесса цветов
@@ -4283,7 +4838,7 @@ Delfi: сказки о Счастье и Любви
 </td>
 </tr>
 <tr>
-<td></td>
+<td>133.</td>
 <td>
 Е. Зейферт
 Волшебное Подземное Царство Караганда
@@ -4292,16 +4847,16 @@ Delfi: сказки о Счастье и Любви
 </td>
 </tr>
 <tr>
-<td></td>
+<td>134.</td>
 <td>
 И. Крылов
 Басни
 </td>
 </tr>
 <tr>
-<td></td>
+<td>135.</td>
 <td>
-А.Пушкин
+А. Пушкин
 Сказки
 Руслан и Людмила
 Кавказский пленник
@@ -4309,31 +4864,31 @@ Delfi: сказки о Счастье и Любви
 </td>
 </tr>
 <tr>
-<td></td>
+<td>136.</td>
 <td>
-М.Лермонтов
+М. Лермонтов
 Кавказский пленник
 Беглец
 </td>
 </tr>
 <tr>
-<td></td>
+<td>137.</td>
 <td>
 А. Погорельский
 Черная курица, или Подземные жители
 </td>
 </tr>
 <tr>
-<td></td>
+<td>138.</td>
 <td>
 Л. Толстой
 Рассказы для детей
 </td>
 </tr>
 <tr>
-<td></td>
+<td>139.</td>
 <td>
-И.Тургенев
+И. Тургенев
 Свидание
 Ася
 Дворянское гнездо
@@ -4341,88 +4896,88 @@ Delfi: сказки о Счастье и Любви
 </td>
 </tr>
 <tr>
-<td></td>
+<td>140.</td>
 <td>
 С. Есенин
 Стихотворения
 </td>
 </tr>
 <tr>
-<td></td>
+<td>141.</td>
 <td>
 П. Бажов
 Малахитовая шкатулка
 </td>
 </tr>
 <tr>
-<td></td>
+<td>142.</td>
 <td>
-В.Короленко
+В. Короленко
 Сон Макара
 Без языка
 Парадокс
 </td>
 </tr>
 <tr>
-<td></td>
+<td>143.</td>
 <td>
-В.Гаршин
+В. Гаршин
 Сказка о жабе и розе
 </td>
 </tr>
 <tr>
-<td></td>
+<td>144.</td>
 <td>
-В.Каверин
+В. Каверин
 Два капитана
 </td>
 </tr>
 <tr>
-<td></td>
+<td>145.</td>
 <td>
-М.Пришвин
+М. Пришвин
 Времена года
 </td>
 </tr>
 <tr>
-<td></td>
+<td>146.</td>
 <td>
 К. Паустовский
 Золотая роза
 </td>
 </tr>
 <tr>
-<td></td>
+<td>147.</td>
 <td>
 В. Драгунский
 Денискины рассказы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>148.</td>
 <td>
-К.Булычев
+К. Булычев
 Заповедник сказок
 Девочка с Земли
 Путешествия Алисы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>149.</td>
 <td>
-А.Приставкин
+А. Приставкин
 Ночевала тучка золотая
 </td>
 </tr>
 <tr>
-<td></td>
+<td>150.</td>
 <td>
 Л. Петрушевская
 Пьесы-сказки для детей
 </td>
 </tr>
 <tr>
-<td></td>
+<td>151.</td>
 <td>
 Н. Заболоцкий
 Некрасивая девочка
@@ -4430,259 +4985,259 @@ Delfi: сказки о Счастье и Любви
 </td>
 </tr>
 <tr>
-<td></td>
+<td>152.</td>
 <td>
-М.Симашко
+М. Симашко
 Емшан
 </td>
 </tr>
 <tr>
-<td></td>
+<td>153.</td>
 <td>
 А. Грин
 Алые паруса
 </td>
 </tr>
 <tr>
-<td></td>
+<td>154.</td>
 <td>
-В.Крапивин
+В. Крапивин
 Мальчик со шпагой
 </td>
 </tr>
 <tr>
-<td></td>
+<td>155.</td>
 <td>
-В.Железников
+В. Железников
 Чучело
 </td>
 </tr>
 <tr>
-<td></td>
+<td>156.</td>
 <td>
-А.Беляев
+А. Беляев
 Человек-амфибия
 </td>
 </tr>
 <tr>
-<td></td>
+<td>157.</td>
 <td>
-Г.Троепольский
+Г. Троепольский
 Белый Бим Черное ухо
 </td>
 </tr>
 <tr>
-<td></td>
+<td>158.</td>
 <td>
-Р.Фрайерман
+Р. Фрайерман
 Дикая собака Динго
 </td>
 </tr>
 <tr>
-<td></td>
+<td>159.</td>
 <td>
-В.Ян
+В. Ян
 Чингиз-хан
 Батый
 </td>
 </tr>
 <tr>
-<td></td>
+<td>160.</td>
 <td>
-В.Закруткин
+В. Закруткин
 Матерь человеческая
 </td>
 </tr>
 <tr>
-<td></td>
+<td>161.</td>
 <td>
 Г. Бельгер
 Перед далью
 </td>
 </tr>
 <tr>
-<td></td>
+<td>162.</td>
 <td>
-Ч.Айтматов
+Ч. Айтматов
 Первый учитель
 Тополек мой в красной косынке
 </td>
 </tr>
 <tr>
-<th>Произведения зарубежной литературы</th>
+<th colspan="2">Произведения зарубежной литературы</th>
 </tr>
 <tr>
-<td></td>
+<td>163.</td>
 <td>
 Г. Андерсен
 Дикие лебеди
 </td>
 </tr>
 <tr>
-<td></td>
+<td>164.</td>
 <td>
 Э. Гофман
 Щелкунчик, или Мышиный король
 </td>
 </tr>
 <tr>
-<td></td>
+<td>165.</td>
 <td>
 О. Уайльд
 Счастливый принц
 </td>
 </tr>
 <tr>
-<td></td>
+<td>166.</td>
 <td>
 Алан А. Милн
 Винни Пух и все-все-все
 </td>
 </tr>
 <tr>
-<td></td>
+<td>167.</td>
 <td>
-Д.Лондон
+Д. Лондон
 Сердца трех
 Любовь к жизни
 Белое безмолвие
 </td>
 </tr>
 <tr>
-<td></td>
+<td>168.</td>
 <td>
-Д.Ролинг
+Д. Ролинг
 Гарри Поттер
 </td>
 </tr>
 <tr>
-<td></td>
+<td>169.</td>
 <td>
-Д.Толкиен
+Д. Толкиен
 Хоббит, или Туда и обратно
 Властелин колец
 </td>
 </tr>
 <tr>
-<td></td>
+<td>170.</td>
 <td>
-Э.Хемингуэй
+Э. Хемингуэй
 Старик и море
 </td>
 </tr>
 <tr>
-<td></td>
+<td>171.</td>
 <td>
-М.Твен
+М. Твен
 Приключения Тома Сойера
 </td>
 </tr>
 <tr>
-<td></td>
+<td>172.</td>
 <td>
-У.Шекспир
+У. Шекспир
 Ромео и Джульетта
 </td>
 </tr>
 <tr>
-<td></td>
+<td>173.</td>
 <td>
-А.Дюма
+А. Дюма
 Три мушкетера
 </td>
 </tr>
 <tr>
-<td></td>
+<td>174.</td>
 <td>
-В.Скотт
+В. Скотт
 Айвенго
 </td>
 </tr>
 <tr>
-<td></td>
+<td>175.</td>
 <td>
-Г.Уэллс
+Г. Уэллс
 Машина времени
 </td>
 </tr>
 <tr>
-<td></td>
+<td>176.</td>
 <td>
 А.КонанДойль
 Приключения Шерлока Холмса
 </td>
 </tr>
 <tr>
-<td></td>
+<td>177.</td>
 <td>
 Lewis Carroll (retold by Virginia Evans, Jenny Dooley)
 Alice’s Adventures in Wonderland
 </td>
 </tr>
 <tr>
-<td></td>
+<td>178.</td>
 <td>
 Jenny Dooley
 Beauty and Beast
 </td>
 </tr>
 <tr>
-<td></td>
+<td>179.</td>
 <td>
 Jules Verne (retold by Elizabeth Gray)
 Journey to the Centre of the Earth
 </td>
 </tr>
 <tr>
-<td></td>
+<td>180.</td>
 <td>
 Daniel Defoe (retold by Elizabeth Gray)
 Robinson Crusoe
 </td>
 </tr>
 <tr>
-<td></td>
+<td>181.</td>
 <td>
 James Fenimore Cooper (retold by Elizabeth Gray)
 The Last of the Mohicans
 </td>
 </tr>
 <tr>
-<td></td>
+<td>182.</td>
 <td>
 Jules Verne (retold by Elizabeth Gray)
 20,000 Leagues under the Sea
 </td>
 </tr>
 <tr>
-<td></td>
+<td>183.</td>
 <td>
 Mary Shelley (retold by Elizabeth Gray)
 Frankenstein
 </td>
 </tr>
 <tr>
-<td></td>
+<td>184.</td>
 <td>
 Charles Dickens (retold by Jenny Dooley)
 Oliver Twist
 </td>
 </tr>
 <tr>
-<td></td>
+<td>185.</td>
 <td>
 Robert Louis Stevenson (retold by Virginia Evans, Jenny Dooley )
 Treasure Island
 </td>
 </tr>
 <tr>
-<th>ОБЩЕЕ СРЕДНЕЕ ОБРАЗОВАНИЕ</th>
+<th colspan="2">ОБЩЕЕ СРЕДНЕЕ ОБРАЗОВАНИЕ</th>
 </tr>
 <tr>
-<th>Произведения на казахском языке</th>
+<th colspan="2">Произведения на казахском языке</th>
 </tr>
 <tr>
-<td></td>
+<td>186.</td>
 <td>
 Жаяу Мұса
 Ақ сиса
@@ -4690,7 +5245,7 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>187.</td>
 <td>
 Балуан Шолақ
 Ғалия
@@ -4699,184 +5254,184 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>188.</td>
 <td>
 С. Аронұлы
 Бала Жамбылға батасы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>189.</td>
 <td>
 Ә. Марғұлан
 Шоқан және Манас
 </td>
 </tr>
 <tr>
-<td></td>
+<td>190.</td>
 <td>
-А.Құнанбайұлы
+А. Құнанбайұлы
 Шығармалар жинағы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>191.</td>
 <td>
-Ш.Қ.Сәтбаева
+Ш.Қ. Сәтбаева
 Шәкәрім Құдайбердиев
 </td>
 </tr>
 <tr>
-<td></td>
+<td>192.</td>
 <td>
-С.Жүнісов
+С. Жүнісов
 Ақан сері романы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>193.</td>
 <td>
-Ж.Аймауытов
+Ж. Аймауытов
 Мағжанның ақындығы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>194.</td>
 <td>
 М. Жұмабаев
 Шолпанның күнәсі
 </td>
 </tr>
 <tr>
-<td></td>
+<td>195.</td>
 <td>
 С. Сейфуллин
 Тар жол, тайғақ кешу өмірбаяндық романы (үзінді)
 </td>
 </tr>
 <tr>
-<td></td>
+<td>196.</td>
 <td>
-Б.Майлин
+Б. Майлин
 Шұға пьесасы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>197.</td>
 <td>
-І.Жансүгіров
+І. Жансүгіров
 Күйші поэмасы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>198.</td>
 <td>
-Б.Момышұлы
+Б. Момышұлы
 Ана аманаты
 </td>
 </tr>
 <tr>
-<td></td>
+<td>199.</td>
 <td>
 С. Мұқанов
 Өмір мектебі
 </td>
 </tr>
 <tr>
-<td></td>
+<td>200.</td>
 <td>
-Ғ.Мүсірепов
+Ғ. Мүсірепов
 Қазақ солдаты
 Ұлпан романдарынан (үзінді)
 </td>
 </tr>
 <tr>
-<td></td>
+<td>201.</td>
 <td>
-Қ.Аманжолов
+Қ. Аманжолов
 Дариға, сол қыз
 Ақын өлімі туралы аңыз
 </td>
 </tr>
 <tr>
-<td></td>
+<td>202.</td>
 <td>
-М.Әлімбаев
+М. Әлімбаев
 Менің Қазақстаным
 </td>
 </tr>
 <tr>
-<td></td>
+<td>203.</td>
 <td>
 С. Қалиұлы
 Солдат хаты
 </td>
 </tr>
 <tr>
-<td></td>
+<td>204.</td>
 <td>
 Қ. Мұхамеджанов
 Бөлтірік бөрік астында
 </td>
 </tr>
 <tr>
-<td></td>
+<td>205.</td>
 <td>
 Ж. Молдағалиев
 Мен қазақ әйеліне қайран қалам
 </td>
 </tr>
 <tr>
-<td></td>
+<td>206.</td>
 <td>
-Т.Айбергенов
+Т. Айбергенов
 Аруана бауыр дүние...
 </td>
 </tr>
 <tr>
-<td></td>
+<td>207.</td>
 <td>
 Қ. Жұмаділов
 Қаздар қайтып барады
 </td>
 </tr>
 <tr>
-<td></td>
+<td>208.</td>
 <td>
-К.Ахметова
+К. Ахметова
 Қазақтың қайсар рухы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>209.</td>
 <td>
 Е. Өтетілеуов
 Бәрінен қымбатты
 </td>
 </tr>
 <tr>
-<td></td>
+<td>210.</td>
 <td>
 З. Шашкин
 Доктор Дарханов романы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>211.</td>
 <td>
 О. Сүлейменов
 Адамға табын жер, енді
 </td>
 </tr>
 <tr>
-<td></td>
+<td>212.</td>
 <td>
 А. Асылбек
 Тілін ұмытқан тауық
 </td>
 </tr>
 <tr>
-<td></td>
+<td>213.</td>
 <td>
 Ш. Айтматов
 Қызыл алма
@@ -4884,46 +5439,46 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>214.</td>
 <td>
-К.Тоқаев
+К. Тоқаев
 Таудағы жаңғырық
 </td>
 </tr>
 <tr>
-<td></td>
+<td>215.</td>
 <td>
-Р.Ғамзатов
+Р. Ғамзатов
 Тілім менің
 Тырналар
 </td>
 </tr>
 <tr>
-<td></td>
+<td>216.</td>
 <td>
 С. Омаров
 Қайырлы жаз
 </td>
 </tr>
 <tr>
-<th>Произведения на русском языке</th>
+<th colspan="2">Произведения на русском языке</th>
 </tr>
 <tr>
-<td></td>
+<td>217.</td>
 <td>
 Л. Толстой
 Анна Каренина
 </td>
 </tr>
 <tr>
-<td></td>
+<td>218.</td>
 <td>
-Ф.Достоевский
+Ф. Достоевский
 Идиот
 </td>
 </tr>
 <tr>
-<td></td>
+<td>219.</td>
 <td>
 А. Чехов
 Попрыгунья
@@ -4934,22 +5489,22 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>220.</td>
 <td>
-А.Куприн
+А. Куприн
 Олеся
 Гранатовый браслет
 </td>
 </tr>
 <tr>
-<td></td>
+<td>221.</td>
 <td>
 И. Бунин
 Темные аллеи
 </td>
 </tr>
 <tr>
-<td></td>
+<td>222.</td>
 <td>
 М. Горький
 Фома Гордеев
@@ -4957,28 +5512,28 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>223.</td>
 <td>
-В.Маяковский
+В. Маяковский
 Про это
 </td>
 </tr>
 <tr>
-<td></td>
+<td>224.</td>
 <td>
 А. Ахматова
 Лирика
 </td>
 </tr>
 <tr>
-<td></td>
+<td>225.</td>
 <td>
-М.Цветаева
+М. Цветаева
 Лирика
 </td>
 </tr>
 <tr>
-<td></td>
+<td>226.</td>
 <td>
 Б. Пастернак
 Охранная грамота
@@ -4986,7 +5541,7 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>227.</td>
 <td>
 Е. Замятин
 Островитяне
@@ -4996,14 +5551,14 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>228.</td>
 <td>
 М.Булгаков
 Белая гвардия
 </td>
 </tr>
 <tr>
-<td></td>
+<td>229.</td>
 <td>
 С. Есенин
 Поэма Черный человек
@@ -5011,9 +5566,9 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>230.</td>
 <td>
-А.Толстой
+А. Толстой
 День Петра
 Наваждение
 Аэлита
@@ -5021,14 +5576,14 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>231.</td>
 <td>
 О. Мандельштам
 Четвертая проза
 </td>
 </tr>
 <tr>
-<td></td>
+<td>232.</td>
 <td>
 М. Зощенко
 Сентиментальные повести (Коза, Аполлон и Тамара)
@@ -5036,14 +5591,14 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>233.</td>
 <td>
 М. Шолохов
 Они сражались за родину (главы)
 </td>
 </tr>
 <tr>
-<td></td>
+<td>234.</td>
 <td>
 А. Твардовский
 Теркин на том свете
@@ -5051,14 +5606,14 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>235.</td>
 <td>
 А. Бек
 Волоколамское шоссе
 </td>
 </tr>
 <tr>
-<td></td>
+<td>236.</td>
 <td>
 Ю. Бондарев
 Батальоны просят огня
@@ -5066,14 +5621,14 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>237.</td>
 <td>
 В. Быков
 Сотников
 </td>
 </tr>
 <tr>
-<td></td>
+<td>238.</td>
 <td>
 В. Распутин
 Последний срок
@@ -5081,58 +5636,58 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>239.</td>
 <td>
-Н.Некрасов
+Н. Некрасов
 В окопах Сталинграда
 </td>
 </tr>
 <tr>
-<td></td>
+<td>240.</td>
 <td>
-В.Гроссман
+В. Гроссман
 Жизнь и судьба
 </td>
 </tr>
 <tr>
-<td></td>
+<td>241.</td>
 <td>
 А. Рыбаков
 Дети Арбата
 </td>
 </tr>
 <tr>
-<td></td>
+<td>242.</td>
 <td>
-В.Дудинцев
+В. Дудинцев
 Белые одежды
 </td>
 </tr>
 <tr>
-<td></td>
+<td>243.</td>
 <td>
-И.Ильф, Е.Петров
+И. Ильф, Е. Петров
 Двенадцать стульев
 Золотой теленок
 </td>
 </tr>
 <tr>
-<td></td>
+<td>244.</td>
 <td>
-С.Довлатов
+С. Довлатов
 Чемодан
 Заповедник
 </td>
 </tr>
 <tr>
-<td></td>
+<td>245.</td>
 <td>
 Ф. Искандер
 Сандро из Чегема
 </td>
 </tr>
 <tr>
-<td></td>
+<td>246.</td>
 <td>
 Ч. Айтматов
 И дольше века длится день
@@ -5140,161 +5695,161 @@ Treasure Island
 </td>
 </tr>
 <tr>
-<td></td>
+<td>247.</td>
 <td>
-О.Сулейменов
+О. Сулейменов
 Земля, поклонись Человеку!
 Аз и Я
 </td>
 </tr>
 <tr>
-<td></td>
+<td>248.</td>
 <td>
 А. Ким
 Белка
 </td>
 </tr>
 <tr>
-<td></td>
+<td>249.</td>
 <td>
 А. Солженицын
 Бодался теленок с дубом
 </td>
 </tr>
 <tr>
-<td></td>
+<td>250.</td>
 <td>
-В.Высоцкий
+В. Высоцкий
 Баллада о времени
 </td>
 </tr>
 <tr>
-<td></td>
+<td>251.</td>
 <td>
 Т. Толстая
 Кысь
 </td>
 </tr>
 <tr>
-<td></td>
+<td>252.</td>
 <td>
-В.Пикуль
+В. Пикуль
 Миниатюры
 </td>
 </tr>
 <tr>
-<td></td>
+<td>253.</td>
 <td>
-Б.иА.Стругацкие
+Б. и А. Стругацкие
 Трудно быть богом
 Сталкер
 Остров
 </td>
 </tr>
 <tr>
-<td></td>
+<td>254.</td>
 <td>
-В.Пелевин
+В. Пелевин
 Generation “П”
 </td>
 </tr>
 <tr>
-<td></td>
+<td>255.</td>
 <td>
-Б.Акунин
+Б. Акунин
 Азазель
 Турецкий гамбит
 </td>
 </tr>
 <tr>
-<td></td>
+<td>256.</td>
 <td>
-С.Елюбаев
+С. Елюбаев
 Одинокая юрта
 </td>
 </tr>
 <tr>
-<td></td>
+<td>257.</td>
 <td>
-Б.Джандарбеков
+Б. Джандарбеков
 Саки
 </td>
 </tr>
 <tr>
-<td></td>
+<td>258.</td>
 <td>
 А.Алимжанов
 Стрела Махамбета
 </td>
 </tr>
 <tr>
-<th>Произведения зарубежной литературы</th>
+<th colspan="2">Произведения зарубежной литературы</th>
 </tr>
 <tr>
-<td></td>
+<td>259.</td>
 <td>
 Стендаль
 Красное и черное
 </td>
 </tr>
 <tr>
-<td></td>
+<td>260.</td>
 <td>
 В. Гюго
 Собор Парижской Богоматери
 </td>
 </tr>
 <tr>
-<td></td>
+<td>261.</td>
 <td>
 О. Бальзак
 Евгения Гранде
 </td>
 </tr>
 <tr>
-<td></td>
+<td>262.</td>
 <td>
 Ги де Мопассан
 Ожерелье
 </td>
 </tr>
 <tr>
-<td></td>
+<td>263.</td>
 <td>
 М. Рид
 Всадник без головы
 </td>
 </tr>
 <tr>
-<td></td>
+<td>264.</td>
 <td>
 Ч. Диккенс
 Дэвид Копперфильд
 </td>
 </tr>
 <tr>
-<td></td>
+<td>265.</td>
 <td>
 М. Метерлинк
 Синяя птица
 </td>
 </tr>
 <tr>
-<td></td>
+<td>266.</td>
 <td>
-Я.Гашек
+Я. Гашек
 Похождения бравого солдата Швейка
 </td>
 </tr>
 <tr>
-<td></td>
+<td>267.</td>
 <td>
 С. Цвейг
 Шахматная новелла
 </td>
 </tr>
 <tr>
-<td></td>
+<td>268.</td>
 <td>
 Б. Шоу
 Дом, где разбиваются сердца
@@ -5302,114 +5857,114 @@ Generation “П”
 </td>
 </tr>
 <tr>
-<td></td>
+<td>269.</td>
 <td>
-Д.Остин
+Д. Остин
 Гордость и предубеждение
 </td>
 </tr>
 <tr>
-<td></td>
+<td>270.</td>
 <td>
 Т. Драйзер
 Американская трагедия
 </td>
 </tr>
 <tr>
-<td></td>
+<td>271.</td>
 <td>
-Г.Гессе
+Г. Гессе
 Степной волк
 </td>
 </tr>
 <tr>
-<td></td>
+<td>272.</td>
 <td>
-Э.Хемингуэй
+Э. Хемингуэй
 Прощай, оружие
 Праздник, который всегда с тобой
 </td>
 </tr>
 <tr>
-<td></td>
+<td>273.</td>
 <td>
-Г.Маркес
+Г. Маркес
 Сто лет одиночества
 </td>
 </tr>
 <tr>
-<td></td>
+<td>274.</td>
 <td>
-И.Шоу
+И. Шоу
 Богач, бедняк
 </td>
 </tr>
 <tr>
-<td></td>
+<td>275.</td>
 <td>
-А.Азимов
+А. Азимов
 Двухсотлетний человек
-Я, Робот
+Я. Робот
 </td>
 </tr>
 <tr>
-<td></td>
+<td>276.</td>
 <td>
-Р.Брэдбери
+Р. Брэдбери
 Вино из одуванчиков
 </td>
 </tr>
 <tr>
-<td></td>
+<td>277.</td>
 <td>
-Д.Селинджер
+Д. Селинджер
 Над пропастью во ржи
 </td>
 </tr>
 <tr>
-<td></td>
+<td>278.</td>
 <td>
-Э.Ремарк
+Э. Ремарк
 Три товарища
 </td>
 </tr>
 <tr>
-<td></td>
+<td>279.</td>
 <td>
 Oscar Wilde (retold by Elizabeth Gray)
 The Portrait of Dorian Gray
 </td>
 </tr>
 <tr>
-<td></td>
+<td>280.</td>
 <td>
 Charles Dickens (retold by Virginia Evans)
 David Copperfield
 </td>
 </tr>
 <tr>
-<td></td>
+<td>281.</td>
 <td>
 Charlotte Bronte (retold by Jenny Dooley )
 Jane Eyre
 </td>
 </tr>
 <tr>
-<td></td>
+<td>282.</td>
 <td>
 Jane Austen
 Pride and Prejudice
 </td>
 </tr>
 <tr>
-<td></td>
+<td>283.</td>
 <td>
 Charles Dickens (retold by Jenny Dooley )
 A Tale of Two Cities
 </td>
 </tr>
 <tr>
-<td></td>
+<td>284.</td>
 <td>
 Alexandre Dumas (retold by Elizabeth Gray and Ian Robertson
 The Man in the Iron Mask
@@ -5417,25 +5972,24 @@ The Man in the Iron Mask
 </tr>
 </table>
 
-> *Қазақстан Республикасы Білім*  
-> *және ғылым министрі міндетін*  
-> *атқарушының 2013 жылғы*  
-> *27 қыркүйектегі № 400*  
-> *бұйрығының 8-қосымшасы*
+> *Приложение 8*  
+> *к приказу и.о. Министра образования*  
+> *и науки Республики Казахстан*  
+> *от 27 сентября 2013 г. № 400*
 
-## Білім беру ұйымдарында пайдалануға рұқсат етілген мұғалімдерге арналған оқу-әдістемелік құралдар және әдебиеттер тізбесі
+## Перечень учебно-методических пособий и литературы для учителей
 
-> *Ескерту. 8-қосымша жаңа редакцияда - ҚР Білім және ғылым министрінің 10.12.2014 № 515 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Сноска. Приложение 8 в редакции приказа и.о. Министра образования и науки РК от 08.01.2016 № 13 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
-## Қазақ тілде оқыту
+## Казахский язык обучения
 
 <table>
 <tr>
 <th>№</th>
-<th>Басылымның атауы</th>
-<th>Автор (лар)</th>
-<th>Шыққан жылы</th>
-<th>Баспа</th>
+<th>Наименование издания</th>
+<th>Автор (ы)</th>
+<th>Год издания</th>
+<th>Издательство</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5464,7 +6018,7 @@ The Man in the Iron Mask
 </tr>
 <tr>
 <td>4.</td>
-<td>Мектепке «Бейнелеу өнері пәнін оқыту жүйесі» Оқу-әдістемелік құрал</td>
+<td>Мектепке «Бейнелеу өнері пәнін оқыту жүйесі». Оқу-әдістемелік құрал</td>
 <td>Ә. Қамақ</td>
 <td>2013</td>
 <td>Арман-ПВ</td>
@@ -5517,7 +6071,7 @@ The Man in the Iron Mask
 </tr>
 <tr>
 <td>11.</td>
-<td>Әдебиеттік оқу. Ақын-жазушылардың портреттері 2-4 сыныптар</td>
+<td>Әдебиеттік оқу. Ақын-жазушылардың портреттері. 2-4 сыныптар</td>
 <td>Б. Шакиева</td>
 <td>2013</td>
 <td>Алматыкітап</td>
@@ -5526,7 +6080,8 @@ The Man in the Iron Mask
 <td>12.</td>
 <td>
 Абайтану.
-Оқу әдістемелік құрал. 8,9 сыныптар
+Оқу әдістемелік құрал.
+8, 9 сыныптар
 </td>
 <td>
 Ж. Әубәкір,
@@ -5539,7 +6094,8 @@ The Man in the Iron Mask
 <td>13.</td>
 <td>
 Русский язык.
-Методическое пособие 7 класс
+Методическое пособие.
+7 класс
 </td>
 <td>
 И. Серикпаева,
@@ -5552,7 +6108,7 @@ The Man in the Iron Mask
 <tr>
 <td>14.</td>
 <td>Орта мектептің бастауыш сыныптарына ағылшын тілінен сыныптан тыс (Ойын түрлері, жұмбақтар, көріністер, өлеңдер). әдістемелік құрал</td>
-<td>Sh. A.Оmarova</td>
+<td>Sh. A. Оmarova</td>
 <td>2013</td>
 <td>Жазушы</td>
 </tr>
@@ -5568,14 +6124,20 @@ The Man in the Iron Mask
 </tr>
 <tr>
 <td>16.</td>
-<td>Математикадан тақырыптық үлгі -жоспар және бақылау жұмыстарының жинағы 6 сынып</td>
+<td>
+Математикадан тақырыптық үлгі -жоспар және бақылау жұмыстарының жинағы.
+6 сынып
+</td>
 <td>Т. Алдамұратова</td>
 <td>2013</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>17.</td>
-<td>Теңсіздіктер. 8-11 сыныптар Оқу-әдістемелік құрал</td>
+<td>
+Теңсіздіктер. 8-11 сыныптар.
+Оқу-әдістемелік құрал
+</td>
 <td>Қ. Түсіпжан</td>
 <td>2013</td>
 <td>ӘлНаир</td>
@@ -5583,7 +6145,7 @@ The Man in the Iron Mask
 <tr>
 <td>18.</td>
 <td>
-Биология пәні бойынша тесттік тапсырмалар. Әдістемелік нұсқау
+Биология пәні бойынша тесттік тапсырмалар. Әдістемелік нұсқау.
 6-9 сыныптар
 </td>
 <td>
@@ -5596,7 +6158,10 @@ The Man in the Iron Mask
 </tr>
 <tr>
 <td>19.</td>
-<td>География пәні бойынша сарамандық жұмыстар 7,8,9 сыныптар үшін</td>
+<td>
+География пәні бойынша сарамандық жұмыстар.
+7, 8, 9 сыныптар үшін
+</td>
 <td>Ұ. Есназарова</td>
 <td>2013</td>
 <td>Географиядан республикалық атаулы мектеп</td>
@@ -5614,14 +6179,14 @@ The Man in the Iron Mask
 </tr>
 <tr>
 <td>21.</td>
-<td>Физика Механика: динамикадан есептер шығару үлгісі</td>
+<td>Физика. Механика: динамикадан есептер шығару үлгісі</td>
 <td>Г. Мұқанова</td>
 <td>2013</td>
 <td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>22.</td>
-<td>«Бізді қоршаған әлем: табиғат, нәбатат, мақлұқат» «Мир вокруг нас: природа, флора, фауна» Мұғалімдерге арналған көмекші құрал</td>
+<td>«Бізді қоршаған әлем: табиғат, нәбатат, мақлұқат» «Мир вокруг нас: природа, флора, фауна». Мұғалімдерге арналған көмекші құрал</td>
 <td>И. Краус</td>
 <td>2013</td>
 <td>HAS</td>
@@ -5642,7 +6207,7 @@ The Man in the Iron Mask
 </tr>
 <tr>
 <td>25.</td>
-<td>Технология (қызбалаларғаарналған) 9-сынып. Әдістемелік нұсқау</td>
+<td>Технология (қыз балаларға арналған) 9-сынып. Әдістемелік нұсқау</td>
 <td>
 Т. Оралбекова
 Н. Рахметова
@@ -5671,9 +6236,9 @@ The Man in the Iron Mask
 Әдістемелік құрал
 </td>
 <td>
-Ж.Балтабаева,
-М.Солтангазина,
-Ф.Лекерова
+Ж. Балтабаева,
+М. Солтангазина,
+Ф. Лекерова
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
@@ -5682,8 +6247,8 @@ The Man in the Iron Mask
 <td>28.</td>
 <td>
 Дене шынықтыру.
-2- сынып
 Әдiстемелiк құрал
+2- сынып
 </td>
 <td>
 Абишев А.,
@@ -5702,7 +6267,7 @@ The Man in the Iron Mask
 <tr>
 <td>30.</td>
 <td>6-9 сыныптардағы қазақ әдебиетін модульдік технология негізінде оқытуға арналған әдістемелік құрал</td>
-<td>Б.Тауықбаева</td>
+<td>Б. Тауықбаева</td>
 <td>2014</td>
 <td>Алматыкітап</td>
 </tr>
@@ -5713,8 +6278,8 @@ The Man in the Iron Mask
 Оқу-әдістемелік кешен
 </td>
 <td>
-Ж.Мақатова,
-А.Дүйсенбаев
+Ж. Мақатова,
+А. Дүйсенбаев
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
@@ -5722,7 +6287,7 @@ The Man in the Iron Mask
 <tr>
 <td>32.</td>
 <td>Әдеп әліппесі</td>
-<td>Ә.Табылды</td>
+<td>Ә. Табылды</td>
 <td>2014</td>
 <td>Білім</td>
 </tr>
@@ -5733,8 +6298,8 @@ The Man in the Iron Mask
 Әдістемелік құрал
 </td>
 <td>
-Ә.Ақпаева,
-Л.Лебедева
+Ә. Ақпаева,
+Л. Лебедева
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
@@ -5749,7 +6314,10 @@ The Man in the Iron Mask
 <tr>
 <td>35.</td>
 <td>Химия. Сандық есептер шығару әдістемесі (8-11)</td>
-<td>М.Усманова, Қ.Сақариянова</td>
+<td>
+М. Усманова,
+Қ. Сақариянова
+</td>
 <td>2014</td>
 <td>Атамұра</td>
 </tr>
@@ -5807,7 +6375,7 @@ The Man in the Iron Mask
 </tr>
 <tr>
 <td>41.</td>
-<td>Мектеп психологінің жұмыс кітабы 1, 2-бөлім Бастауыш мектеп</td>
+<td>Мектеп психологінің жұмыс кітабы. 1, 2-бөлім Бастауыш мектеп</td>
 <td>
 Б. Әмірова,
 С. Жантикеев,
@@ -5840,7 +6408,10 @@ The Man in the Iron Mask
 </tr>
 <tr>
 <td>44.</td>
-<td>Қазақ тілі. Диктанттар мен мазмұндамалар жинағы. 5-сынып</td>
+<td>
+Қазақ тілі. Диктанттар мен мазмұндамалар жинағы.
+5-сынып
+</td>
 <td>
 А. Қасымбек.,
 Г. Байғазиева
@@ -5850,7 +6421,10 @@ The Man in the Iron Mask
 </tr>
 <tr>
 <td>45.</td>
-<td>Русский язык. Сборник диктантов и изложений 5-сынып</td>
+<td>
+Русский язык. Сборник диктантов и изложений.
+5-сынып
+</td>
 <td>
 АшимбетоваР.,
 СахимзадинаМ.
@@ -5860,10 +6434,7 @@ The Man in the Iron Mask
 </tr>
 <tr>
 <td>46.</td>
-<td>
-Русский язык.
-Книга для учителя 5-сынып
-</td>
+<td>Русский язык. Книга для учителя. 5-сынып</td>
 <td>
 Ашимбетова Р.,
 Сахимзадина М.
@@ -5891,7 +6462,7 @@ The Man in the Iron Mask
 </tr>
 <tr>
 <td>48.</td>
-<td>Математика. І , ІІ жартыжылдық мұғалімнің жұмыс дәптері. 6-сынып</td>
+<td>Математика. І, ІІ жартыжылдық мұғалімнің жұмыс дәптері. 6-сынып</td>
 <td>
 К. Тердікбай
 Қ. Утегенова
@@ -5928,466 +6499,200 @@ The Man in the Iron Mask
 <td>2015</td>
 <td>Самғай біл</td>
 </tr>
-</table>
-
-## Орыс тілде оқыту
-
-<table>
 <tr>
-<th>№</th>
-<th>Наименование издания</th>
-<th>Автор (-ы)</th>
-<th>Год издания</th>
-<th>Издательство</th>
-</tr>
-<tr>
-<td>1.</td>
-<td>Русский речевой этикет и правила хорошего тона</td>
-<td>Прманов К.А.</td>
-<td>2013</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Методические рекомендации по проведению организованной учебной деятельности с детьми 4-5 лет. Образовательные области: «Коммуникация», «Социум», «Познание».</td>
-<td>Мадалиева С.</td>
-<td>2013</td>
-<td>Шикула и К</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Критическое мышление на уроках истории Казахстана</td>
-<td>Зарифова М., Тарасенко Е.</td>
-<td>2013</td>
-<td>ӘлНаир</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Интерактивное задание по обучению грамоте. Электронное приложение к Добукварику и Букварю.</td>
-<td>
-Клыпа Г.,
-Павленко В.,
-Мельникова Н.
-</td>
-<td>2013</td>
-<td>Алматыкітап</td>
-</tr>
-<tr>
-<td>5.</td>
-<td>История средневекового Казахстана. Поурочные методические рекомендации</td>
-<td>Турмашева Б.</td>
-<td>2013</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>6.</td>
-<td>Методика работы с интерактивной доской</td>
-<td>Киябаева З.</td>
-<td>2013</td>
+<td>51.</td>
+<td>Қазіргі білім берудегі техникалар мен технологиялар.</td>
+<td>Қ.Қараев</td>
+<td>2016</td>
 <td>Арман-ПВ</td>
 </tr>
 <tr>
-<td>7.</td>
-<td>«JA – больше чем деньги» Методическое руководство для учителей и консультантов. Рабочая тетрадь. Игра «Сообщество». Игра «Бизнес». Карточки к играм. Диплом ученика.</td>
+<td>52.</td>
+<td>Бақылау диктантына арналған мәтіндер</td>
+<td>Ж.Нұрсейітова</td>
+<td>2015</td>
+<td>Дәуір-кітап</td>
+</tr>
+<tr>
+<td>53.</td>
 <td>
-Энтина И.,
-Тришечкина Л.,
-Жандалинова К.,
-Ибраева С.,
-Касмаганбет Р.
+Дүниетану. Мұғалімнің жұмыс дәптері + СD.
+2 сынып
 </td>
-<td>2013</td>
-<td>Общественный фонд «Джуниор Эчивмент Казахстан»</td>
-</tr>
-<tr>
-<td>8.</td>
-<td>Семейное воспитание дошкольников. Книга 3. Методическое пособие для психологов педагогов, воспитателей детских дошкольных учреждений.</td>
 <td>
-Евдокимова С.
-Цветкова Н.
+Б.Шаушекова,
+А.Бейсенбаева,
+Г.Бапанова
 </td>
-<td>2013</td>
-<td>Гласир</td>
+<td>2015</td>
+<td>Самғай біл</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>Семейное воспитание дошкольников: как правильно растить и воспитывать ребенка от 3 до 6 лет. Книга 4</td>
-<td>Евдокимова С. Цветкова Н.</td>
-<td>2013</td>
-<td>Гласир</td>
-</tr>
-<tr>
-<th>5-11 классы</th>
-</tr>
-<tr>
-<td></td>
-<td>Қазақ тілі. Оқыту әдістемесі. Жалпы білім беретін орыс мектебінің 5-сынып мұғалімдеріне арналған</td>
-<td>Қ. Ибрагимов</td>
-<td>2013</td>
-<td>Шың</td>
-</tr>
-<tr>
-<td></td>
-<td>Қазақ тілі. Оқыту әдістемесі. Жалпы білім беретін орыс мектебінің 7-сынып мұғалімдеріне арналған</td>
-<td>Қ. Ибрагимов</td>
-<td>2013</td>
-<td>Шың</td>
-</tr>
-<tr>
-<td></td>
-<td>Қазақша-орысша-ағылшынша-түрікше экологиялық түсіндірме сөздік. Қазахско-русско-англо-турецкий толковый экологический словарь</td>
+<td>54.</td>
 <td>
-Ә. Бейсенова,
-А. Қирабаев
+Қазақ әдебиеті.
+І ІІ, жартыжылдық. Мұғалімге арналған көмекші құрал+ СD.
+5-сынып
 </td>
-<td>2013</td>
-<td>Мектеп</td>
+<td>
+К. Баяхметбаева
+Т. Ганиев
+Р. Сапарбаева
+Ж. Бекенова
+Ш. Әбдікәрімова
+</td>
+<td>2015</td>
+<td>Самғай біл</td>
 </tr>
 <tr>
-<td></td>
-<td>Спорт терминдерінің түсіндірме сөздігі (казақша-орысша орысша-қазақша)</td>
+<td>55.</td>
 <td>
-Ө. Жолымбетов,
-А. Құлназаров
+Қазақ әдебиеті. Мұғалімге арналған көмекші құрал + СD.
+10-сынып
 </td>
-<td>2009</td>
-<td>Сөздік-Словарь</td>
+<td>
+К. Баяхметбаева
+А. Тасболатов,
+Т. Ганиев
+Р. Оразова
+</td>
+<td>2015</td>
+<td>Самғай біл</td>
 </tr>
 <tr>
-<td></td>
-<td>Қазақша-орысша, орысша-қазақша қоғамдық ғылымдар терминдерінің сөздігі</td>
+<td>56.</td>
 <td>
-Құрастырушылар:
-Ө. Айтбайұлы,
-Қ. Айдарбек,
-Н. Әшімбаева,
-Б. Жөнкешов,
-Ш. Нұрмышева
+Қазақ әдебиеті.
+І, ІІ жартыжылдық Мұғалімге арналған көмекші құрал +СD.
+11-сынып
 </td>
-<td>2010</td>
 <td>
-«Фирма «орнак»
-ЖШС
+К. Баяхметбаева
+А. Тасболатов,
+Т. Ганиев
+Р. Оразова
+</td>
+<td>2015</td>
+<td>Самғай біл</td>
+</tr>
+<tr>
+<td>57.</td>
+<td>Балалар қозғалысының педагогикасы: тәрбие жұмысының теориясы мен практикасы</td>
+<td>
+А. Тесленко,
+Е. Дмитриенко
+</td>
+<td>2015</td>
+<td>
+Ювенологиялық зерттеу орталығы
+Көкшетау
 </td>
 </tr>
 <tr>
-<td></td>
-<td>Қазақша-французша французша-қазақша тілдескіш</td>
+<td>58.</td>
+<td>Орта мектепте шетел тілдерін оқыту әдістемесі</td>
+<td>С. Әбдіғали</td>
+<td>2015</td>
+<td>Дәуір-кітап</td>
+</tr>
+<tr>
+<td>59.</td>
+<td>Негізгі орта мектеп курсының математикадан жазбаша емтихан өткізуге арналған тапсырмалар жинағы</td>
 <td>
-А. Бақытов,
-Р. Жұманова
+С. Данилюк, В. Грибиниченко,
+Е. Лукьянова, Б. Хамзина
 </td>
-<td>2010</td>
-<td>Ануар-kz</td>
-</tr>
-<tr>
-<td></td>
-<td>Русский язык. Карточки-опросники. 5 класс</td>
-<td>Серикпаева И.</td>
-<td>2013</td>
-<td>Арман-ПВ</td>
-</tr>
-<tr>
-<td></td>
-<td>Русский язык. Карточки-опросники 7 класс</td>
-<td>Серикпаева И.</td>
-<td>2013</td>
-<td>Арман-ПВ</td>
-</tr>
-<tr>
-<td></td>
-<td>Русский язык. Карточки-опросники 8 класс</td>
-<td>Серикпаева И.</td>
-<td>2013</td>
-<td>Арман-ПВ</td>
-</tr>
-<tr>
-<td></td>
-<td>Русский язык. Карточки-опросники 9 класс</td>
-<td>Серикпаева И.</td>
-<td>2013</td>
-<td>Арман-ПВ</td>
-</tr>
-<tr>
-<td></td>
-<td>Русский язык. Карточки-опросники. 10 класс</td>
-<td>Серикпаева И.</td>
-<td>2013</td>
-<td>Арман-ПВ</td>
-</tr>
-<tr>
-<td></td>
-<td>Русский язык. Методическое руководство 10 класс (ОГН)</td>
-<td>
-Брулева Ф.,
-Булгакова Г.,
-Бегалиева С.
-</td>
-<td>2013</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td></td>
-<td>Русский язык. Сборник диктантов 10-11 класс</td>
-<td>
-Брулева Ф.,
-Омарова Г.
-</td>
-<td>2013</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td></td>
-<td>Русский язык. Дидактический материал 11 класс</td>
-<td>Брулева Ф., Булгакова Г., Омарова Г.</td>
-<td>2013</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td></td>
-<td>
-Английский язык. Справочное пособие &quot;Страноведение (история, география, культура, традиции)&quot;.
-9-11 классы
-</td>
-<td>Новокрещенов А.</td>
-<td>2013</td>
+<td>2016</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td></td>
-<td>
-Ағылшын тілі. Елтану. Анықтамалық құрал
-9-сынып
-</td>
-<td>А. Новокрещенов</td>
-<td>2013</td>
+<td>60.</td>
+<td>Математика пәнін тереңдете оқытатын сыныптарда негізгі орта мектеп курсы бойынша жазбаша емтихан өткізуге арналған тапсырмалар жинағы.</td>
+<td>Н. Егоркина</td>
+<td>2016</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td></td>
-<td>Дидактические материалы по физической географии Казахстана 8 класс</td>
-<td>Есназарова У.</td>
-<td>2013</td>
-<td>Географиядан республикалық атаулы мектеп</td>
-</tr>
-<tr>
-<td></td>
-<td>Растворимость солей, кислот и оснований в воде</td>
-<td>-</td>
-<td>2013</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td></td>
-<td>Электрохимический ряд напряжений металлов</td>
-<td>-</td>
-<td>2013</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td></td>
-<td>Физическая культура. Методическое пособие 9 класс</td>
-<td>Куптилеуова С., Копкина Е., Девяткина Л.</td>
-<td>2013</td>
+<td>61.</td>
+<td>Жалпы білім беретін орта мектеп курсы бойынша математика пәнінен жазбаша емтихан өткізуге арналған тапсырмалар жинағы (ҚГБ)</td>
+<td>Н. Егоркина</td>
+<td>2016</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td></td>
-<td>
-Физическая культура.
-2 класс.
-Методическое пособие
-</td>
-<td>Абишев А., Аубакиров С.</td>
-<td>2014</td>
-<td>Алматыкітап</td>
-</tr>
-<tr>
-<td></td>
-<td>География. Компетентностно-ориентированные задания в преподавании географии</td>
-<td>
-Анварова Е.,
-Байманов Р.,
-Барвих С.
-Воронова И.,
-Жапаргазинова А.
-Мукарова Э.,
-Огородникова Е.,
-Петрова Е.,
-Терейковская Л.
-</td>
-<td>2014</td>
-<td>Арман -ПВ</td>
-</tr>
-<tr>
-<td></td>
-<td>
-Химия.
-Контрольные измерительные материалы по химии.
-10 класс. ЕМН
-</td>
-<td>
-Айдина И.,
-Викулова Г.,
-Меркушева Н.
-Осипова Т.,
-Радченко Г.,
-Хомутова С.
-</td>
-<td>2014</td>
-<td>Арман -ПВ</td>
-</tr>
-<tr>
-<td></td>
-<td>
-Химия.
-Контрольные измерители по технологии полного усвоения на уроках химии. Учебно-методическое пособие.
-8 класс
-</td>
-<td>
-Айдина И.,
-Викулова Г.,
-Ласковая О.
-Меркушева Н.,
-Осипова Т.,
-Радченко Г.
-</td>
-<td>2014</td>
-<td>Арман -ПВ</td>
-</tr>
-<tr>
-<td></td>
-<td>
-Химия. Разноуровневые контрольные работы по курсу неорганической химии Учебно-методические пособие.
-10 класс ЕМН
-</td>
-<td>
-Айдина И.,
-Викулова Г.
-</td>
-<td>2014</td>
-<td>Арман -ПВ</td>
-</tr>
-<tr>
-<td></td>
-<td>Химия. Разноуровневые контрольные работы по курсу органической химии Учебно-методические пособие. 11 класс ЕМН</td>
-<td>Айдина И.</td>
-<td>2014</td>
-<td>Арман -ПВ</td>
-</tr>
-<tr>
-<td></td>
-<td>
-Русский язык. Сборник диктантов для
-Старших классов
-</td>
-<td>Хусаинова Д.</td>
-<td>2014</td>
+<td>62.</td>
+<td>Бүлдіршіндермен қызықты әңгімелер</td>
+<td>Г. Гринцевич</td>
+<td>2016</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td></td>
-<td>Организация научно-исследовательской работы в школе</td>
-<td>Утилова А., Сатынская А.</td>
-<td>2015</td>
-<td>ӘлНаир</td>
-</tr>
-<tr>
-<td></td>
-<td>Активные формы и приемы организации устного счета на уроках математики в 5 классе</td>
-<td>Иринякова Т.</td>
-<td>2015</td>
-<td>ӘлНаир</td>
-</tr>
-<tr>
-<td></td>
-<td>Формирование функциональной грамотности на уроках математики 5-6, 9-11 классов. Методическое пособие</td>
+<td>63.</td>
+<td>Бастауыш сыныптарда оқу жылдамдығын тексеруге арналған мәтіндер жинағы. 1-4 сыныптар</td>
 <td>
-Матюшкина Е.,
-Коновалова Ю.
+А. Аргумбаева,
+Ш. Утильбекова.
 </td>
-<td>2015</td>
-<td>ӘлНаир</td>
+<td>2016</td>
+<td>Келешек-2030</td>
 </tr>
 <tr>
-<td></td>
-<td>Развите логического мышления школьников через решение текстовых задач 9-11 классов</td>
+<td>64.</td>
+<td>Дене шыныктыру. Жалпы білім беретін мектептің 1-4 сыныптар мұғалімдеріне арналған әдістемелік құрал</td>
 <td>
-Грицук Л.,
-Иринякова Т.
+Г. Маковецкая,
+Т. Васильченко,
+О. Меркель
 </td>
+<td>2016</td>
+<td>Келешек-2030</td>
+</tr>
+<tr>
+<td>65.</td>
+<td>
+Алгебра. Мұғалім кітабы.
+7 сынып
+</td>
+<td>
+Ж. Кобдикова,
+Ш.Нұрманбетова,
+З. Искакова
+</td>
+<td>2016</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>66.</td>
+<td>
+Алгебра. Мұғалім кітабы.
+8 сынып
+</td>
+<td>
+Ж. Кобдикова,
+Ш.Нұрманбетова,
+З. Искакова
+</td>
+<td>2016</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>67.</td>
+<td>
+Бірінші ондық сандары. Математикадан қатқыл қағаздағы плакаттар жиынтығы.
+(20 плакат)/ Числа первого десятка. Набор плакатов по математике на картоне (20 плакатов)
+</td>
+<td>В. Засухина</td>
+<td>2016</td>
+<td>8&amp;8</td>
+</tr>
+<tr>
+<td>68.</td>
+<td>
+«Сабалақ» поэмасы.
+5 -сынып
+</td>
+<td>Қ.Шаңғытбаев</td>
 <td>2015</td>
-<td>ӘлНаир</td>
+<td>«ЖАН»</td>
 </tr>
 </table>
-
-________________________________
-
-* Согласно пункту 36 Правил организации работы по подготовке, экспертизе, апробации и проведению мониторинга, изданию учебников, учебно-методических комплексов и учебно-методических пособий, данный перечень действителен в течение четырех последующих учебных лет.
-
-*При подготовке издания необходимо указать авторов, количество тиража, формат, гарнитуру и издательство.
-
-> *Қазақстан Республикасы*  
-> *Білім және ғылым министрінің м.а.*  
-> *2013 жылғы 27 қыркүйектегі*  
-> *№ 400 бұйрығының 9-қосымшасы*
-
-## Білім беру ұйымдарында пайдалануға рұқсат етілген оқулықтар мен оқу-әдістемелік кешендер тізбесі
-
-> *Ескерту. 9-қосымша 1-тармаққа сәйкес алып тасталды - ҚР Білім және ғылым министрінің 10.12.2014 № 515 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
-
-> *Қазақстан Республикасы*  
-> *Білім және ғылым министрінің м.а.*  
-> *2013 жылғы 27 қыркүйектегі*  
-> *№ 400 бұйрығының 10-қосымшасы*
-
-## Мектепке дейінгі тәрбие мен оқыту ұйымдарында пайдалануға рұқсат етілген оқу әдебиеттерінің тізбесі
-
-> *Ескерту. 10-қосымша 1-тармаққа сәйкес алып тасталды - ҚР Білім және ғылым министрінің 10.12.2014 № 515 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
-
-> *Қазақстан Республикасы*  
-> *Білім және ғылым министрінің м.а.*  
-> *2013 жылғы 27 қыркүйектегі*  
-> *№ 400 бұйрығының 11-қосымшасы*
-
-## Арнайы (түзету) мектептерде пайдалануға рұқсат етілген оқу әдебиеттерінің тізбесі
-
-> *Ескерту. 11-қосымша 1-тармаққа сәйкес алып тасталды - ҚР Білім және ғылым министрінің 10.12.2014 № 515 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
-
-> *Қазақстан Республикасы*  
-> *Білім және ғылым министрінің м.а.*  
-> *2013 жылғы 27 қыркүйектегі*  
-> *№ 400 бұйрығының 12-қосымшасы*
-
-## Білім беру ұйымдарында қолдануға рұқсат етілген мұғалімдерге арналған оқу әдебиеттер тізбесі
-
-> *Ескерту. 12-қосымша 1-тармаққа сәйкес алып тасталды - ҚР Білім және ғылым министрінің 10.12.2014 № 515 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
-
-> *Қазақстан Республикасы*  
-> *Білім және ғылым министрінің м.а.*  
-> *2013 жылғы 27 қыркүйектегі*  
-> *№ 400 бұйрығының 13-қосымшасы*
-
-## Білім беру ұйымдарында пайдалануға рұқсат етілген құралдар және қосымша әдебиеттер тізбесі
-
-> *Ескерту. 13-қосымша 1-тармаққа сәйкес алып тасталды - ҚР Білім және ғылым министрінің 10.12.2014 № 515 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
-
-> *Қазақстан Республикасы*  
-> *Білім және ғылым министрінің м.а.*  
-> *2013 жылғы 27 қыркүйектегі*  
-> *№ 400 бұйрығының 14-қосымшасы*
-
-## Білім беру ұйымдарына пайдалануға рұқсат берілген электронды жеткізгіштердегі оқу әдебиеттерінің тізбесі
-
-> *Ескерту. 14-қосымша 1-тармаққа сәйкес алып тасталды - ҚР Білім және ғылым министрінің 10.12.2014 № 515 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
-
-> *Қазақстан Республикасы*  
-> *Білім және ғылым министрінің*  
-> *міндетін атқарушының*  
-> *2013 жылғы 27 қыркүйектегі*  
-> *№ 400 бұйрығына*  
-> *15-қосымша*
-
-## Қазақстан Республикасы білім беру ұйымдарының кітапханалар қорын толықтыру үшін сыныптан тыс оқуға арналған көркем әдебиеттер тізбесі
-
-> *Ескерту. 15-қосымша 1-тармаққа сәйкес алып тасталды - ҚР Білім және ғылым министрінің 10.12.2014 № 515 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
