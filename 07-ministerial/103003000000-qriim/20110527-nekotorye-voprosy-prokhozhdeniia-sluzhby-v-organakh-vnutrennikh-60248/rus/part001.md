@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/60248/rus/02.12.2015
+source: https://zan.gov.kz/client/#!/doc/60248/rus/13.01.2016
 ---
 
 ## Инструкция по отбору и изучению кандидатов на службу в органы внутренних дел

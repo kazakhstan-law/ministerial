@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/60248/kaz/02.12.2015
+source: https://zan.gov.kz/client/#!/doc/60248/kaz/13.01.2016
 ---
 
 ## 2. Ішкі істер органдары қызметкерлерінің жеке істерін ресімдеу және жүргізуі
