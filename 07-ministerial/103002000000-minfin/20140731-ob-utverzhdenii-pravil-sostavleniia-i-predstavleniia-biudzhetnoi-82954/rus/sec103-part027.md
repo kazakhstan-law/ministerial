@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/82954/rus/17.11.2015
+source: https://zan.gov.kz/client/#!/doc/82954/rus/19.01.2016
 ---
 
 ## Акт сверки отчетных данных на_________20____ года
