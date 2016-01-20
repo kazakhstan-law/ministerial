@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/60748/rus/01.01.2016
+source: https://zan.gov.kz/client/#!/doc/60748/rus/20.01.2016
 ---
 
 ## Расписка (оформляется до начала инвентаризации)

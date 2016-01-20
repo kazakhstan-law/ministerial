@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/60748/kaz/01.01.2016
+source: https://zan.gov.kz/client/#!/doc/60748/kaz/20.01.2016
 ---
 
 ## Қолхат (түгендеу басталғанға дейін толтырылады)
