@@ -4,23 +4,614 @@
 
 технического и профессионального образования
 
-Код и профиль образования: 0700000 - Геология, горнодобывающая промышленность и добыча полезных ископаемых
+Код и профиль специальности: 0700000 – Геология, горно-добывающая промышленность и добыча полезных ископымаех
 
-Специальность: 0705000 - Подземная разработка месторождений полезных ископаемых
+Специальность: 0713000 – Геодезия и картография
 
-Квалификация: 070512 1 - Ламповщик
-
-070513 1 - Водитель погрузчика
-
-070514 1 – Проходчик
-
-070515 1 - Машинист скреперной лебедки
-
-070516 1 -Горнорабочий по предупреждению и тушению пожаров
+Квалификация: 071303 3 – Техник-аэрофотогеодезист
 
 Форма обучения: очная
 
-Нормативный срок обучения: 10 месяцев на базе общего среднего образования
+Нормативный срок обучения: 3 года 10 месяцев На базе основного среднего образования
+
+<table>
+<tr>
+<th rowspan="3">Индекс циклов и дисциплин</th>
+<th rowspan="3">Наименование циклов и дисциплин</th>
+<th colspan="4">Форма контроля</th>
+<th colspan="5">Объем учебного времени (час)</th>
+<th rowspan="3">Распре-деление по курсам</th>
+</tr>
+<tr>
+<th rowspan="2">экзамен</th>
+<th rowspan="2">зачет</th>
+<th rowspan="2">контрольная работа</th>
+<th rowspan="2">курсовая работа (проект)</th>
+<th rowspan="2">Всего</th>
+<th colspan="4">из них:</th>
+</tr>
+<tr>
+<th>теоретические занятия</th>
+<th>практические (лабораторно-практические) занятия</th>
+<th colspan="2">курсовая работа (проект)</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th colspan="2">10</th>
+<th>11</th>
+</tr>
+<tr>
+<th>ООД. 00</th>
+<th>Общеобразовательные дисциплины</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>1448</th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th>1</th>
+</tr>
+<tr>
+<td>СЭД. 00</td>
+<td>
+Социально-экономические дисциплины
+(культурология, основы философии, основы экономики, основы политологии и социологии, основы права)
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>180</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>2-4</td>
+</tr>
+<tr>
+<td>ОГД. 00</td>
+<td>
+Общегуманитарные дисциплины
+(профессиональный казахский (русский) язык, профессиональный иностранный язык, физическая культура)
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>432</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>2-4</td>
+</tr>
+<tr>
+<th>ОПД 00</th>
+<th>Общепрофессиональные дисциплины</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>1090</th>
+<th>588</th>
+<th>482</th>
+<th colspan="2">20</th>
+<th>2-4</th>
+</tr>
+<tr>
+<td>ОПД 01</td>
+<td>Делопроизводство на государственном языке</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>42</td>
+<td>42</td>
+<td></td>
+<td colspan="2"></td>
+<td>4</td>
+</tr>
+<tr>
+<td>ОПД 02</td>
+<td>Физическая география</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td>78</td>
+<td>58</td>
+<td>20</td>
+<td colspan="2"></td>
+<td>2</td>
+</tr>
+<tr>
+<td>ОПД 03</td>
+<td>Геодезия</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td>334</td>
+<td>170</td>
+<td>164</td>
+<td colspan="2"></td>
+<td>2-4</td>
+</tr>
+<tr>
+<td>ОПД 04</td>
+<td>Геоинформационные системы</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>60</td>
+<td>20</td>
+<td>40</td>
+<td colspan="2"></td>
+<td>3</td>
+</tr>
+<tr>
+<td>ОПД 05</td>
+<td>Картографическое черчение</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td>100</td>
+<td></td>
+<td>100</td>
+<td colspan="2"></td>
+<td>2-3</td>
+</tr>
+<tr>
+<td>ОПД 06</td>
+<td>Картография</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>52</td>
+<td>30</td>
+<td>22</td>
+<td colspan="2"></td>
+<td>4</td>
+</tr>
+<tr>
+<td>ОПД 07</td>
+<td>Электротехника и электроника</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>64</td>
+<td>50</td>
+<td>14</td>
+<td colspan="2"></td>
+<td>2</td>
+</tr>
+<tr>
+<td>ОПД 08</td>
+<td>Электронные геодезические средства измерений</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>90</td>
+<td>50</td>
+<td>40</td>
+<td colspan="2"></td>
+<td>3-4</td>
+</tr>
+<tr>
+<td>ОПД 09</td>
+<td>Метрология, стандартизация и сертификация</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>34</td>
+<td>18</td>
+<td>16</td>
+<td colspan="2"></td>
+<td>4</td>
+</tr>
+<tr>
+<td>ОПД 10</td>
+<td>Правовое обеспечение профессиональной деятельности</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>44</td>
+<td>36</td>
+<td>8</td>
+<td colspan="2"></td>
+<td>4</td>
+</tr>
+<tr>
+<td>ОПД 11</td>
+<td>Организация и управление производством</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>94</td>
+<td>48</td>
+<td>26</td>
+<td colspan="2">20</td>
+<td>4</td>
+</tr>
+<tr>
+<td>ОПД 12</td>
+<td>Безопасность жизнедеятельности</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>56</td>
+<td>36</td>
+<td>20</td>
+<td colspan="2"></td>
+<td>2-3</td>
+</tr>
+<tr>
+<td>ОПД 13</td>
+<td>Охрана труда</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>42</td>
+<td>30</td>
+<td>12</td>
+<td colspan="2"></td>
+<td>3</td>
+</tr>
+<tr>
+<th>СД. 00</th>
+<th>Специальные дисциплины</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>874</th>
+<th>450</th>
+<th>404</th>
+<th colspan="2">20</th>
+<th>2-4</th>
+</tr>
+<tr>
+<td>СД 01</td>
+<td>Высшая геодезия</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>200</td>
+<td>92</td>
+<td>88</td>
+<td colspan="2">20</td>
+<td>2-4</td>
+</tr>
+<tr>
+<td>СД 02</td>
+<td>Основы уравнительных вычислений</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td>66</td>
+<td>34</td>
+<td>32</td>
+<td colspan="2"></td>
+<td>3-4</td>
+</tr>
+<tr>
+<td>СД 03</td>
+<td>Основы аэрофотосъемки</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>72</td>
+<td>40</td>
+<td>32</td>
+<td colspan="2"></td>
+<td>2-3</td>
+</tr>
+<tr>
+<td>СД 04</td>
+<td>Основы аэрофотографии</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>48</td>
+<td>28</td>
+<td>20</td>
+<td colspan="2"></td>
+<td>2-3</td>
+</tr>
+<tr>
+<td>СД 05</td>
+<td>Фотограмметрия</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td>212</td>
+<td>112</td>
+<td>100</td>
+<td colspan="2"></td>
+<td>2-4</td>
+</tr>
+<tr>
+<td>СД 06</td>
+<td>Дешифрирование аэрофотоснимков</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>60</td>
+<td>30</td>
+<td>30</td>
+<td colspan="2"></td>
+<td>2-3</td>
+</tr>
+<tr>
+<td>СД 07</td>
+<td>Обновление топографических карт</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>52</td>
+<td>38</td>
+<td>14</td>
+<td colspan="2"></td>
+<td>4</td>
+</tr>
+<tr>
+<td>СД 08</td>
+<td>Спутниковые навигационные системы</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>70</td>
+<td>48</td>
+<td>22</td>
+<td colspan="2"></td>
+<td>4</td>
+</tr>
+<tr>
+<td>СД 09</td>
+<td>Информационные технологии в профессиональной деятельности</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td>94</td>
+<td>28</td>
+<td>66</td>
+<td colspan="2"></td>
+<td>2</td>
+</tr>
+<tr>
+<th>ДОО. 00</th>
+<th>Дисциплины, определяемые организацией образования*</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>116-607*</th>
+<th>70-315*</th>
+<th>46-281*</th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<th>ПОиПП.00</th>
+<th>Производственное обучение и профессиональная практика</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>1332</th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<td>ПП. 01</td>
+<td>Учебная практика</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>648</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ПП. 02</td>
+<td>Производственная технологическая практика</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>432</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ПП. 03</td>
+<td>Камеральная практика по профилю специальности</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>144</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ПП. 04</td>
+<td>Освоение геоинформационных технологий</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>108</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<th>ПА</th>
+<th>Промежуточная аттестация</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>216</th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<th>ИА 00</th>
+<th>Итоговая аттестация</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>72</th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<td>ИА 01</td>
+<td>Итоговая аттестация**</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>60</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ОУППК</td>
+<td>Оценка уровня профессиональной подготовленности и присвоение квалификации</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>12</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<th></th>
+<th>Итого на обязательное обучение</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>5760</th>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<td>К</td>
+<td>Консультации</td>
+<td colspan="9">не более 100 часов на учебный год</td>
+<td></td>
+</tr>
+<tr>
+<td>Ф</td>
+<td>Факультативные занятия</td>
+<td colspan="9">не более 4-х часов в неделю</td>
+<td></td>
+</tr>
+<tr>
+<th></th>
+<th>Всего:</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>6588</th>
+<th></th>
+<th colspan="2"></th>
+<th></th>
+<th></th>
+</tr>
+</table>
+
+Примечание: ООД – общеобразовательные дисциплины; ОГД – общегуманитарные дисциплины; СЭД социально-экономические дисциплины; ОПД – общепрофессиональные дисциплины; СД – специальные дисциплины; ДОО – дисциплины, определяемые организацией образования с учетом требований работодателей; ПО – производственное обучение; ПП – профессиональная практика; ПА – промежуточная аттестация; ИА – итоговая аттестация; ОУППК – оценка уровня профессиональной подготовленности и присвоение квалификации; К – консультации; Ф – факультативные занятия.
+
+В соответствии с ГОСО ТиПО обязательным для исполнения в типовом учебном плане является перечень дисциплин. Формы контроля (курсовая работа (проект), контрольная работа, экзамен, зачет), порядок изучения дисциплин (распределение по курсам ) являются примерными и могут изменяться в зависимости от форм обучения, специфики специальностей, местных и других условий (обстоятельств), в т.ч. в соответствии с потребностями работодателей.
+
+* Объем часов на дисциплины, определяемые организацией образования, может быть увеличен за счет сокращения объема часов (до 25%) циклов общепрофессиональных и специальных дисциплин.
+
+** Рекомендуемые формы итоговой аттестации: экзамены пообщепрофессиональным и специальным дисциплинам (ОПД 03, СД 05).
+
+Примерный перечень учебно-производственного оборудования и технических средств обучения определяются исходя из содержания образовательных программ по дисциплинам соответствующей квалификации.
+
+Перечень учебно-производственного оборудования и технических средств обучения для оснащения конкретного учебного заведения определяется учебным заведением совместно с предприятием-партнером, для которого готовятся кадры с учетом рабочих учебных программ. При этом рекомендуется учесть IT-технологии, 3D-технологии, ИКТ, дистанционное, модульное, дуальное, кредитное обучение с учетом перспективы развития отрасли.
+
+<table>
+<tr>
+<td></td>
+<td>
+Приложение 130
+к приказу Министра образования
+и науки Республики Казахстан
+от 15 июня 2015 года № 384
+</td>
+</tr>
+</table>
+
+## Типовой учебный план
+
+технического и профессионального образования
+
+Код и профиль специальности: 0700000 – Геология, горно-добывающая промышленность и добыча полезных ископымаех
+
+Специальность: 0713000 – Геодезия и картография
+
+Квалификация: 071303 3 – Техник-аэрофотогеодезист
+
+Форма обучения: очная
+
+Нормативный срок обучения: 2 года 10 месяцев на базе общего среднего образования
 
 <table>
 <tr>
@@ -34,14 +625,600 @@
 <th rowspan="2">экзамен</th>
 <th colspan="2" rowspan="2">зачет</th>
 <th colspan="2" rowspan="2">контрольная работа</th>
-<th colspan="2" rowspan="2">курсовой проект (работа)</th>
+<th colspan="2" rowspan="2">курсовая работа (проект)</th>
 <th colspan="2" rowspan="2">Всего</th>
 <th colspan="5">из них:</th>
 </tr>
 <tr>
 <th colspan="2">теоретические занятия</th>
+<th>практические (лабораторно-практические) занятия</th>
+<th colspan="2">курсовая работа (проект)</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
+<th colspan="2">6</th>
+<th colspan="2">7</th>
+<th colspan="2">8</th>
+<th>9</th>
+<th colspan="2">10</th>
+<th>11</th>
+</tr>
+<tr>
+<td>СЭД. 00</td>
+<td>
+Социально-экономические дисциплины
+(культурология, основы философии, основы экономики, основы политологии и социологии, основы права)
+</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">180</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td>2-4</td>
+</tr>
+<tr>
+<td>ОГД. 00</td>
+<td>
+Общегуманитарные дисциплины
+(профессиональный казахский (русский) язык, профессиональный иностранный язык, физическая культура)
+</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">480</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td>2-4</td>
+</tr>
+<tr>
+<th>ОПД 00</th>
+<th>Общепрофессиональные дисциплины</th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2">1090</th>
+<th colspan="2">588</th>
+<th>482</th>
+<th colspan="2">20</th>
+<th>2-4</th>
+</tr>
+<tr>
+<td>ОПД 01</td>
+<td>Делопроизводство на государственном языке</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">42</td>
+<td colspan="2">42</td>
+<td></td>
+<td colspan="2"></td>
+<td>4</td>
+</tr>
+<tr>
+<td>ОПД 02</td>
+<td>Физическая география</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2">78</td>
+<td colspan="2">58</td>
+<td>20</td>
+<td colspan="2"></td>
+<td>2</td>
+</tr>
+<tr>
+<td>ОПД 03</td>
+<td>Геодезия</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2">334</td>
+<td colspan="2">170</td>
+<td>164</td>
+<td colspan="2"></td>
+<td>2-4</td>
+</tr>
+<tr>
+<td>ОПД 04</td>
+<td>Геоинформационные системы</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">60</td>
+<td colspan="2">20</td>
+<td>40</td>
+<td colspan="2"></td>
+<td>3</td>
+</tr>
+<tr>
+<td>ОПД 05</td>
+<td>Картографическое черчение</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td>100</td>
+<td colspan="2"></td>
+<td>2-3</td>
+</tr>
+<tr>
+<td>ОПД 06</td>
+<td>Картография</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">52</td>
+<td colspan="2">30</td>
+<td>22</td>
+<td colspan="2"></td>
+<td>4</td>
+</tr>
+<tr>
+<td>ОПД 07</td>
+<td>Электротехника и электроника</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">64</td>
+<td colspan="2">50</td>
+<td>14</td>
+<td colspan="2"></td>
+<td>2</td>
+</tr>
+<tr>
+<td>ОПД 08</td>
+<td>Электронные геодезические средства измерений</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">90</td>
+<td colspan="2">50</td>
+<td>40</td>
+<td colspan="2"></td>
+<td>3-4</td>
+</tr>
+<tr>
+<td>ОПД 09</td>
+<td>Метрология, стандартизация и сертификация</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">34</td>
+<td colspan="2">18</td>
+<td>16</td>
+<td colspan="2"></td>
+<td>4</td>
+</tr>
+<tr>
+<td>ОПД 10</td>
+<td>Правовое обеспечение профессиональной деятельности</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">44</td>
+<td colspan="2">36</td>
+<td>8</td>
+<td colspan="2"></td>
+<td>4</td>
+</tr>
+<tr>
+<td>ОПД 11</td>
+<td>Организация и управление производством</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">+</td>
+<td colspan="2">+</td>
+<td colspan="2">94</td>
+<td colspan="2">48</td>
+<td>26</td>
+<td colspan="2">20</td>
+<td>4</td>
+</tr>
+<tr>
+<td>ОПД 12</td>
+<td>Безопасность жизнедеятельности</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">56</td>
+<td colspan="2">36</td>
+<td>20</td>
+<td colspan="2"></td>
+<td>2-3</td>
+</tr>
+<tr>
+<td>ОПД 13</td>
+<td>Охрана труда</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">42</td>
+<td colspan="2">30</td>
+<td>12</td>
+<td colspan="2"></td>
+<td>3</td>
+</tr>
+<tr>
+<th>СД. 00</th>
+<th>Специальные дисциплины</th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2">878</th>
+<th colspan="2">456</th>
+<th>402</th>
+<th colspan="2">20</th>
+<th>2-4</th>
+</tr>
+<tr>
+<td>СД 01</td>
+<td>Высшая геодезия</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">+</td>
+<td colspan="2">+</td>
+<td colspan="2">200</td>
+<td colspan="2">92</td>
+<td>88</td>
+<td colspan="2">20</td>
+<td>2-4</td>
+</tr>
+<tr>
+<td>СД 02</td>
+<td>Основы уравнительных вычислений</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2">66</td>
+<td colspan="2">34</td>
+<td>32</td>
+<td colspan="2"></td>
+<td>3-4</td>
+</tr>
+<tr>
+<td>СД 03</td>
+<td>Основы аэрофотосъемки</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">72</td>
+<td colspan="2">40</td>
+<td>32</td>
+<td colspan="2"></td>
+<td>2-3</td>
+</tr>
+<tr>
+<td>СД 04</td>
+<td>Основы аэрофотографии</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">48</td>
+<td colspan="2">28</td>
+<td>20</td>
+<td colspan="2"></td>
+<td>2-3</td>
+</tr>
+<tr>
+<td>СД 05</td>
+<td>Фотограмметрия</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2">216</td>
+<td colspan="2">118</td>
+<td>98</td>
+<td colspan="2"></td>
+<td>2-4</td>
+</tr>
+<tr>
+<td>СД 06</td>
+<td>Дешифрирование аэрофотоснимков</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">60</td>
+<td colspan="2">30</td>
+<td>30</td>
+<td colspan="2"></td>
+<td>2-3</td>
+</tr>
+<tr>
+<td>СД 07</td>
+<td>Обновление топографических карт</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">52</td>
+<td colspan="2">38</td>
+<td>14</td>
+<td colspan="2"></td>
+<td>4</td>
+</tr>
+<tr>
+<td>СД 08</td>
+<td>Спутниковые навигационные системы</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">70</td>
+<td colspan="2">48</td>
+<td>22</td>
+<td colspan="2"></td>
+<td>4</td>
+</tr>
+<tr>
+<td>СД 09</td>
+<td>Информационные технологии в профессиональной деятельности</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2">94</td>
+<td colspan="2">28</td>
+<td>66</td>
+<td colspan="2"></td>
+<td>2</td>
+</tr>
+<tr>
+<th>ДОО. 00</th>
+<th>Дисциплины, определяемые организацией образования*</th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2">144-636*</th>
+<th colspan="2">86-319*</th>
+<th>58-306*</th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<th>ПОиПП.00</th>
+<th>Производственное обучение и профессиональная практика</th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2">1332</th>
+<th colspan="2"></th>
+<th></th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<td>ПП. 01</td>
+<td>Учебная практика</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">648</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ПП. 02</td>
+<td>Производственная технологическая практика</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">432</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ПП. 03</td>
+<td>Камеральная практика профилю специальности</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">144</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ПП. 04</td>
+<td>Освоение геоинформационных технологий</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">108</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<th>ПА</th>
+<th>Промежуточная аттестация</th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2">144</th>
+<th colspan="2"></th>
+<th></th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<th>ИА 00</th>
+<th>Итоговая аттестация</th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2">72</th>
+<th colspan="2"></th>
+<th></th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<td>ИА 01</td>
+<td>Итоговая аттестация**</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">60</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>ОУППК</td>
+<td>Оценка уровня профессиональной подготовленности и присвоение квалификации</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<th></th>
+<th>Итого на обязательное обучение</th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2">4320</th>
+<th colspan="2"></th>
+<th></th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<td>К</td>
+<td>Консультации</td>
+<td colspan="14">не более 100 часов на учебный год</td>
+<td></td>
+</tr>
+<tr>
+<td>Ф</td>
+<td>Факультативные занятия</td>
+<td colspan="14">не более 4-х часов в неделю</td>
+<td></td>
+</tr>
+<tr>
+<th></th>
+<th>Всего:</th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2">4960</th>
+<th></th>
+<th colspan="2"></th>
+<th></th>
+<th></th>
+</tr>
+</table>
+
+Примечание: ООД – общеобразовательные дисциплины; ОГД – общегуманитарные дисциплины; СЭД социально-экономические дисциплины; ОПД – общепрофессиональные дисциплины; СД – специальные дисциплины; ДОО – дисциплины, определяемые организацией образования с учетом требований работодателей; ПО – производственное обучение; ПП – профессиональная практика; ПА – промежуточная аттестация; ИА – итоговая аттестация; ОУППК – оценка уровня профессиональной подготовленности и присвоение квалификации; К – консультации; Ф – факультативные занятия.
+
+В соответствии с ГОСО ТиПО обязательным для исполнения в типовом учебном плане является перечень дисциплин. Формы контроля (курсовая работа (проект), контрольная работа, экзамен, зачет), порядок изучения дисциплин (распределение по курсам ) являются примерными и могут изменяться в зависимости от форм обучения, специфики специальностей, местных и других условий (обстоятельств), в т.ч. в соответствии с потребностями работодателей.
+
+* Объем часов на дисциплины, определяемые организацией образования, может быть увеличен за счет сокращения объема часов (до 25%) циклов общепрофессиональных и специальных дисциплин.
+
+** Рекомендуемые формы итоговой аттестации: экзамены пообщепрофессиональным и специальным дисциплинам (ОПД 03, СД 05).
+
+Примерный перечень учебно-производственного оборудования и технических средств обучения определяются исходя из содержания образовательных программ по дисциплинам соответствующей квалификации.
+
+Перечень учебно-производственного оборудования и технических средств обучения для оснащения конкретного учебного заведения определяется учебным заведением совместно с предприятием-партнером, для которого готовятся кадры с учетом рабочих учебных программ. При этом рекомендуется учесть IT-технологии, 3D-технологии, ИКТ, дистанционное, модульное, дуальное, кредитное обучение с учетом перспективы развития отрасли.
+
+<table>
+<tr>
+<td></td>
+<td>
+Приложение 131
+к приказу Министра образования
+и науки Республики Казахстан
+от 15 июня 2015 года № 384
+</td>
+</tr>
+</table>
+
+## Типовой учебный план
+
+технического и профессионального образования
+
+Код и профиль специальности: 0700000 – Геология, горно-добывающая промышленность и добыча полезных ископымаех
+
+Специальность: 0713000 – Геодезия и картография
+
+Квалификация: 071304 3 – Техник-картограф
+
+Форма обучения: очная
+
+Нормативный срок обучения: 3 года 10 месяцев на базе основного среднего образования
+
+<table>
+<tr>
+<th rowspan="3">Индекс циклов и дисциплин</th>
+<th rowspan="3">Наименование циклов и дисциплин</th>
+<th colspan="7">Форма контроля</th>
+<th colspan="8">Объем учебного времени (час)</th>
+<th rowspan="3">Распределение по курсам</th>
+</tr>
+<tr>
+<th rowspan="2">экзамен</th>
+<th colspan="2" rowspan="2">зачет</th>
+<th colspan="2" rowspan="2">контрольная работа</th>
+<th colspan="2" rowspan="2">курсовая работа (проект)</th>
+<th colspan="2" rowspan="2">Всего</th>
+<th colspan="6">из них:</th>
+</tr>
+<tr>
+<th colspan="2">теоретические занятия</th>
 <th colspan="2">практические (лабораторно-практические) занятия</th>
-<th>курсовой проект (работа)</th>
+<th colspan="2">курсовая работа (проект)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -53,21 +1230,53 @@
 <th colspan="2">7</th>
 <th colspan="2">8</th>
 <th colspan="2">9</th>
-<th>10</th>
+<th colspan="2">10</th>
 <th>11</th>
 </tr>
 <tr>
-<td>ОГД 00</td>
-<td>Общегуманитарные дисциплины (профессиональный казахский (русский) язык, профессиональный иностранный язык, история Казахстана, физическая культура)</td>
+<th>ООД. 00</th>
+<th>Общеобразовательные дисциплины</th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2">1448</th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th>1</th>
+</tr>
+<tr>
+<td>СЭД. 00</td>
+<td>
+Социально-экономические дисциплины
+(культурология, основы философии, основы экономики, основы политологии и социологии, основы права)
+</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">220</td>
+<td colspan="2">180</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td>2-4</td>
+</tr>
+<tr>
+<td>ОГД. 00</td>
+<td>
+Общегуманитарные дисциплины
+(профессиональный казахский (русский) язык, профессиональный иностранный язык, физическая культура)
+</td>
 <td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">432</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>2-4</td>
 </tr>
 <tr>
 <th>ОПД 00</th>
@@ -76,303 +1285,430 @@
 <th colspan="2"></th>
 <th colspan="2"></th>
 <th colspan="2"></th>
-<th colspan="2">196</th>
-<th colspan="2">98</th>
-<th colspan="2">98</th>
-<th></th>
-<th>1</th>
+<th colspan="2">1088</th>
+<th colspan="2">594</th>
+<th colspan="2">474</th>
+<th colspan="2">20</th>
+<th>2-4</th>
 </tr>
 <tr>
 <td>ОПД 01</td>
-<td>Черчение</td>
+<td>Делопроизводство на государственном языке</td>
 <td></td>
-<td colspan="2">+</td>
 <td colspan="2">+</td>
 <td colspan="2"></td>
-<td colspan="2">26</td>
-<td colspan="2">6</td>
-<td colspan="2">20</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">42</td>
+<td colspan="2">42</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>4</td>
 </tr>
 <tr>
 <td>ОПД 02</td>
-<td>Основы технической механики</td>
-<td></td>
-<td colspan="2">+</td>
+<td>Физическая и экономическая география</td>
+<td>+</td>
+<td colspan="2"></td>
 <td colspan="2">+</td>
 <td colspan="2"></td>
-<td colspan="2">26</td>
-<td colspan="2">6</td>
+<td colspan="2">120</td>
+<td colspan="2">100</td>
 <td colspan="2">20</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>2</td>
 </tr>
 <tr>
 <td>ОПД 03</td>
-<td>Электротехника c основами электроники</td>
-<td></td>
-<td colspan="2">+</td>
-<td colspan="2">+</td>
+<td>Геодезия</td>
+<td>+</td>
 <td colspan="2"></td>
-<td colspan="2">26</td>
-<td colspan="2">14</td>
-<td colspan="2">12</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">180</td>
+<td colspan="2">98</td>
+<td colspan="2">82</td>
+<td colspan="2"></td>
+<td>2</td>
 </tr>
 <tr>
 <td>ОПД 04</td>
-<td>Основы информатизации и автоматизации производства</td>
+<td>Геоинформационные системы</td>
 <td></td>
 <td colspan="2">+</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">27</td>
-<td colspan="2">7</td>
+<td colspan="2">60</td>
 <td colspan="2">20</td>
-<td></td>
-<td></td>
+<td colspan="2">40</td>
+<td colspan="2"></td>
+<td>3</td>
 </tr>
 <tr>
 <td>ОПД 05</td>
-<td>Основы геологии</td>
+<td>Картографическое черчение</td>
 <td></td>
 <td colspan="2">+</td>
 <td colspan="2">+</td>
 <td colspan="2"></td>
-<td colspan="2">26</td>
-<td colspan="2">14</td>
-<td colspan="2">12</td>
-<td></td>
-<td></td>
+<td colspan="2">148</td>
+<td colspan="2"></td>
+<td colspan="2">148</td>
+<td colspan="2"></td>
+<td>2-3</td>
 </tr>
 <tr>
 <td>ОПД 06</td>
-<td>Основы геодезии и маркшейдерского дела</td>
+<td>Фотограмметрия</td>
 <td></td>
-<td colspan="2">+</td>
 <td colspan="2">+</td>
 <td colspan="2"></td>
-<td colspan="2">26</td>
-<td colspan="2">12</td>
-<td colspan="2">14</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">120</td>
+<td colspan="2">72</td>
+<td colspan="2">48</td>
+<td colspan="2"></td>
+<td>3</td>
 </tr>
 <tr>
 <td>ОПД 07</td>
+<td>Электротехника и электроника</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">64</td>
+<td colspan="2">50</td>
+<td colspan="2">14</td>
+<td colspan="2"></td>
+<td>2</td>
+</tr>
+<tr>
+<td>ОПД 08</td>
+<td>Электронные геодезические средства измерений</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">90</td>
+<td colspan="2">50</td>
+<td colspan="2">40</td>
+<td colspan="2"></td>
+<td>3-4</td>
+</tr>
+<tr>
+<td>ОПД 09</td>
+<td>Метрология, стандартизация и сертификация</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">42</td>
+<td colspan="2">26</td>
+<td colspan="2">16</td>
+<td colspan="2"></td>
+<td>4</td>
+</tr>
+<tr>
+<td>ОПД 10</td>
+<td>Правовое обеспечение профессиональной деятельности</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">40</td>
+<td colspan="2">32</td>
+<td colspan="2">8</td>
+<td colspan="2"></td>
+<td>3</td>
+</tr>
+<tr>
+<td>ОПД 11</td>
+<td>Организация и управление производством</td>
+<td>+</td>
+<td colspan="2"></td>
+<td colspan="2">+</td>
+<td colspan="2">+</td>
+<td colspan="2">94</td>
+<td colspan="2">48</td>
+<td colspan="2">26</td>
+<td colspan="2">20</td>
+<td>4</td>
+</tr>
+<tr>
+<td>ОПД 12</td>
+<td>Безопасность жизнедеятельности</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">46</td>
+<td colspan="2">26</td>
+<td colspan="2">20</td>
+<td colspan="2"></td>
+<td>2</td>
+</tr>
+<tr>
+<td>ОПД 13</td>
 <td>Охрана труда</td>
 <td></td>
 <td colspan="2">+</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">39</td>
-<td colspan="2">39</td>
+<td colspan="2">42</td>
+<td colspan="2">30</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
+<td>4</td>
 </tr>
 <tr>
-<th>СД 00</th>
+<th>СД. 00</th>
 <th>Специальные дисциплины</th>
 <th></th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 <th colspan="2"></th>
-<th colspan="2">331</th>
-<th colspan="2">219</th>
-<th colspan="2">112</th>
-<th></th>
-<th>1</th>
+<th colspan="2">876</th>
+<th colspan="2">388</th>
+<th colspan="2">468</th>
+<th colspan="2">20</th>
+<th>2-4</th>
 </tr>
 <tr>
 <td>СД 01</td>
-<td>Горное дело</td>
+<td>Картография</td>
 <td>+</td>
-<td colspan="2">+</td>
+<td colspan="2"></td>
 <td colspan="2">+</td>
 <td colspan="2"></td>
-<td colspan="2">62</td>
+<td colspan="2">86</td>
 <td colspan="2">50</td>
-<td colspan="2">12</td>
-<td></td>
-<td></td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td>2-4</td>
 </tr>
 <tr>
 <td>СД 02</td>
-<td>Горные машины и комплексы</td>
+<td>Математическая картография</td>
 <td>+</td>
 <td colspan="2"></td>
 <td colspan="2">+</td>
 <td colspan="2"></td>
-<td colspan="2">39</td>
-<td colspan="2">17</td>
-<td colspan="2">22</td>
-<td></td>
-<td></td>
+<td colspan="2">48</td>
+<td colspan="2">24</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td>3</td>
 </tr>
 <tr>
 <td>СД 03</td>
-<td>Электрооборудование и электроснабжение горных предприятий</td>
+<td>Составление общегеографических карт</td>
 <td>+</td>
 <td colspan="2"></td>
 <td colspan="2">+</td>
-<td colspan="2"></td>
-<td colspan="2">39</td>
-<td colspan="2">19</td>
+<td colspan="2">+</td>
+<td colspan="2">150</td>
+<td colspan="2">60</td>
+<td colspan="2">70</td>
 <td colspan="2">20</td>
-<td></td>
-<td></td>
+<td>2-4</td>
 </tr>
 <tr>
 <td>СД 04</td>
-<td>Рудничный транспорт</td>
+<td>Составление тематических карт</td>
 <td>+</td>
-<td colspan="2">+</td>
+<td colspan="2"></td>
 <td colspan="2">+</td>
 <td colspan="2"></td>
-<td colspan="2">62</td>
-<td colspan="2">36</td>
-<td colspan="2">26</td>
-<td></td>
-<td></td>
+<td colspan="2">116</td>
+<td colspan="2">56</td>
+<td colspan="2">60</td>
+<td colspan="2"></td>
+<td>3-4</td>
 </tr>
 <tr>
 <td>СД 05</td>
-<td>Автоматизация производственных процессов</td>
-<td></td>
-<td colspan="2">+</td>
-<td colspan="2">+</td>
-<td colspan="2"></td>
-<td colspan="2">36</td>
-<td colspan="2">24</td>
-<td colspan="2">12</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СД 06</td>
-<td>Техника безопасности, охрана окружающей среды и рациональное природопользование</td>
+<td>Цифровая картография</td>
 <td>+</td>
 <td colspan="2"></td>
 <td colspan="2">+</td>
 <td colspan="2"></td>
-<td colspan="2">54</td>
-<td colspan="2">34</td>
-<td colspan="2">20</td>
+<td colspan="2">152</td>
+<td colspan="2">22</td>
+<td colspan="2">130</td>
+<td colspan="2"></td>
+<td>3-4</td>
+</tr>
+<tr>
+<td>СД 06</td>
+<td>Подготовка карт к изданию</td>
 <td></td>
-<td></td>
+<td colspan="2">+</td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2">82</td>
+<td colspan="2">40</td>
+<td colspan="2">42</td>
+<td colspan="2"></td>
+<td>4</td>
 </tr>
 <tr>
 <td>СД 07</td>
-<td>Основы рыночной экономики в горнодобывающей отрасли</td>
+<td>Картографический дизайн</td>
 <td></td>
 <td colspan="2">+</td>
+<td colspan="2">+</td>
 <td colspan="2"></td>
+<td colspan="2">82</td>
+<td colspan="2">62</td>
+<td colspan="2">20</td>
 <td colspan="2"></td>
-<td colspan="2">39</td>
-<td colspan="2">39</td>
-<td colspan="2"></td>
+<td>4</td>
+</tr>
+<tr>
+<td>СД 08</td>
+<td>Издание карт и атласов</td>
 <td></td>
+<td colspan="2">+</td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2">66</td>
+<td colspan="2">46</td>
+<td colspan="2">20</td>
+<td colspan="2"></td>
+<td>4</td>
+</tr>
+<tr>
+<td>СД 09</td>
+<td>Информационные технологии в профессиональной деятельности</td>
+<td></td>
+<td colspan="2">+</td>
+<td colspan="2">+</td>
+<td colspan="2"></td>
+<td colspan="2">94</td>
+<td colspan="2">28</td>
+<td colspan="2">66</td>
+<td colspan="2"></td>
+<td>2</td>
+</tr>
+<tr>
+<th>ДОО. 00</th>
+<th>Дисциплины, определяемые организацией образования*</th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2">116-607*</th>
+<th colspan="2">70-315*</th>
+<th colspan="2">46-281*</th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<th>ПОиПП.00</th>
+<th>Производственное обучение и профессиональная практика</th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2">1332</th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<td>ПП. 01</td>
+<td>Учебная практика</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">648</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>ДОО 00</th>
-<th>Дисциплины, определяемые организацией образования *</th>
-<th></th>
-<th colspan="2"></th>
-<th colspan="2"></th>
-<th colspan="2"></th>
-<th colspan="2">45-177*</th>
-<th colspan="2"></th>
-<th colspan="2"></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th>ПО 00</th>
-<th>Производственное обучение</th>
-<th></th>
-<th colspan="2"></th>
-<th colspan="2"></th>
-<th colspan="2"></th>
-<th colspan="2">576</th>
-<th colspan="2"></th>
-<th colspan="2"></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>ПО 01</td>
-<td>Практика в учебно-производственных мастерских</td>
+<td>ПП. 02</td>
+<td>Производственная технологическая практика</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">126</td>
+<td colspan="2">432</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>ПО 02</td>
-<td>Практика по приобретению профессиональных навыков</td>
+<td>ПП. 03</td>
+<td>Камеральная практика по профилю специальности</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">450</td>
+<td colspan="2">144</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>ПА 00</th>
+<td>ПП. 04</td>
+<td>Освоение геоинформационных технологий</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">108</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<th>ПА</th>
 <th>Промежуточная аттестация</th>
 <th></th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 <th colspan="2"></th>
-<th colspan="2">36</th>
+<th colspan="2">216</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
-<th></th>
+<th colspan="2"></th>
 <th></th>
 </tr>
 <tr>
 <th>ИА 00</th>
-<th>Итоговая аттестация</th>
+<th>Итоговая аттестация**</th>
 <th></th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 <th colspan="2"></th>
-<th colspan="2">36</th>
+<th colspan="2">72</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
-<th></th>
+<th colspan="2"></th>
 <th></th>
 </tr>
 <tr>
 <td>ИА 01</td>
-<td>Итоговая аттестация**</td>
+<td>Итоговая аттестация</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">24</td>
+<td colspan="2">60</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>
-ИА 02
-(ОУППК)
-</td>
+<td>ОУППК</td>
 <td>Оценка уровня профессиональной подготовленности и присвоение квалификации</td>
 <td></td>
 <td colspan="2"></td>
@@ -381,7 +1717,7 @@
 <td colspan="2">12</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -391,23 +1727,23 @@
 <th colspan="2"></th>
 <th colspan="2"></th>
 <th colspan="2"></th>
-<th colspan="2">1440</th>
+<th colspan="2">5760</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
-<th></th>
+<th colspan="2"></th>
 <th></th>
 </tr>
 <tr>
-<th>К</th>
-<th>Консультации</th>
-<th colspan="14">не более 100 часов на учебный год</th>
-<th></th>
+<td>К</td>
+<td>Консультации</td>
+<td colspan="15">не более 100 часов на учебный год</td>
+<td></td>
 </tr>
 <tr>
-<th>Ф</th>
-<th>Факультативные занятия</th>
-<th colspan="14">не более 4-х часов в неделю</th>
-<th></th>
+<td>Ф</td>
+<td>Факультативные занятия</td>
+<td colspan="15">не более 4-х часов в неделю</td>
+<td></td>
 </tr>
 <tr>
 <th></th>
@@ -416,583 +1752,34 @@
 <th colspan="2"></th>
 <th colspan="2"></th>
 <th colspan="2"></th>
-<th colspan="2">1656</th>
+<th colspan="2">6588</th>
 <th colspan="2"></th>
-<th></th>
+<th colspan="2"></th>
 <th></th>
 <th></th>
 </tr>
 </table>
 
-Примечание: ООД – общеобразовательные дисциплины; ОГД – общегуманитарные дисциплины; СЭД социально-экономические дисциплины; ОПД – общепрофессиональные дисциплины; СД – специальные дисциплины; ДОО – дисциплины, определяемые организацией образования с учетом требований работодателей; ПО – производственное обучение; ПП – профессиональная практика; ПА – промежуточная аттестация; ИА – итоговая аттестация; ОУППК – оценка уровня профессиональной подготовленности и присвоение квалификации; К – консультации; Ф – факультативные занятия. В соответствии с ГОСО ТиПО обязательным для исполнения в типовом учебном плане является перечень дисциплин. Формы контроля (курсовые работы, контрольные работы, экзамены), порядок изучения дисциплин (распределение по курсам ) являются примерными и могут изменяться в зависимости от форм обучения, специфики специальностей, местных и других условий (обстоятельств), в т.ч. в соответствии с потребностями работодателей.
+Примечание: ООД – общеобразовательные дисциплины; ОГД – общегуманитарные дисциплины; СЭД социально-экономические дисциплины; ОПД – общепрофессиональные дисциплины; СД – специальные дисциплины; ДОО – дисциплины, определяемые организацией образования с учетом требований работодателей; ПО – производственное обучение; ПП – профессиональная практика; ПА – промежуточная аттестация; ИА – итоговая аттестация; ОУППК – оценка уровня профессиональной подготовленности и присвоение квалификации; К – консультации; Ф – факультативные занятия.
+
+В соответствии с ГОСО ТиПО обязательным для исполнения в типовом учебном плане является перечень дисциплин. Формы контроля (курсовая работа (проект), контрольная работа, экзамен, зачет), порядок изучения дисциплин (распределение по курсам ) являются примерными и могут изменяться в зависимости от форм обучения, специфики специальностей, местных и других условий (обстоятельств), в т.ч. в соответствии с потребностями работодателей.
 
 * Объем часов на дисциплины, определяемые организацией образования, может быть увеличен за счет сокращения объема часов (до 25%) циклов общепрофессиональных и специальных дисциплин.
 
-** Рекомендуемая форма итоговой аттестации: сдача комплексного экзамена по специальным дисциплинам (01, 04, 06).
+** Рекомендуемые формы итоговой аттестации: экзамен по общепрофессиональной дисциплина (ОПД 03) и комплексный экзамен по специальным дисциплинам (СД 03, 04).
 
-Примерный перечень учебно-производственного оборудования и технических средств обучения определяется исходя из содержания образовательных программ по дисциплинам соответствующей квалификации.
+Примерный перечень учебно-производственного оборудования и технических средств обучения определяются исходя из содержания образовательных программ по дисциплинам соответствующей квалификации.
 
 Перечень учебно-производственного оборудования и технических средств обучения для оснащения конкретного учебного заведения определяется учебным заведением совместно с предприятием-партнером, для которого готовятся кадры с учетом рабочих учебных программ. При этом рекомендуется учесть IT-технологии, 3D-технологии, ИКТ, дистанционное, модульное, дуальное, кредитное обучение с учетом перспективы развития отрасли.
 
-Приложение 89
-
-к приказу Министра образования
-
-и науки Республики Казахстан
-
-от 15 июня 2015 года № 384
-
-## Типовые образовательные учебные программы технического и профессионального образования по специальности: 0705000–«Подземная разработка месторождений полезных ископаемых»
-
-## Содержание образовательной учебной программы по циклам дисциплин и профессиональной практике (установленный уровень)
-
 <table>
 <tr>
-<th>Индекс цикла (дисциплин)</th>
-<th>Наименование и основные разделы дисциплины, практики</th>
-<th>Формируемые знания, умения и навыки</th>
-<th>Код формируемой компетенции</th>
-</tr>
-<tr>
-<th>ООД 00</th>
-<th colspan="3">Общеобразовательные дисциплины</th>
-</tr>
-<tr>
-<th>ОГД 00</th>
-<th colspan="3">Общегуманитарные дисциплины</th>
-</tr>
-<tr>
-<td>ОГД 01</td>
+<td></td>
 <td>
-Профессиональный казахский (русский) язык.
-Синтаксис казахского (русского) языка.
-Терминология по специальности.
-Техника перевода (со словарем) профессионально ориентированных текстов.
-Профессиональное общение.
-Развитие речи.
-</td>
-<td>
-Знания:
--основ делового казахского (русского) языка;
-- профессиональной лексики;
-- грамматического материала по специальности.
-Умения:
-- читать и переводить (со словарем) тексты профессиональной направленности;
-- анализировать прочитанный текст;
-- вести монологическую и диалогическую речь.
-</td>
-<td>БК 1 - БК 4</td>
-</tr>
-<tr>
-<td>ОГД 02</td>
-<td>
-Профессиональный иностранный язык.
-Лексико-грамматический материал по специальности, необходимый для профессионального общения. Различные виды речевой деятельности и формы речи (устной, письменной, монологической, диалогической). Техника перевода профессиональноориентированных текстов.
-</td>
-<td>
-Знания:
-- лексико-грамматического материала по специальности, необходимого для профессионального общения.
-Умения:
-- читать и переводить (со словарем) профессионально ориентированные тексты.
-</td>
-<td>БК 1 - БК 4</td>
-</tr>
-<tr>
-<td>ОГД 03</td>
-<td>
-Физическая культура.
-Роль физической культуры в подготовке специалиста. Социально-биологические и психофизиологические основы физической культуры. Основы физического и спортивного самосовершенствования.
-</td>
-<td>
-Знания:
-- социально-биологических и психофизиологических основ физической культуры;
-- содержания и формы организации физического воспитания;
-- принципов правильного питания.
-Умения:
--выполнять различные физические упражнения и сдавать нормативы по отдельным видам спорта.
-</td>
-<td>
-БК 1,
-БК 8
-</td>
-</tr>
-<tr>
-<th>ОПД00</th>
-<th colspan="3">Общепрофессиональные дисциплины</th>
-</tr>
-<tr>
-<td>ОПД 01</td>
-<td>
-Черчение.
-Правила оформления чертежей. Геометрические построения на чертежах. Проекционные изображения на чертежах. Чертеж и изометрическая проекция детали. Развертки геометрических фигур. Расположение изображений на чертежах. Сечения и разрезы. Выполнение чертежей деталей с применением необходимого и достаточного количества видов, сечений и разрезов в прямоугольных и аксонометрических осях. Машиностроительное черчение. Чтение простейших машиностроительных чертежей. Разъемные соединения. Неразъемные соединения. Сборочный чертеж, рабочий чертеж, эскиз детали, технический рисунок детали, деталирование по сборочному чертежу.
-</td>
-<td>
-Знания:
--правил оформления чертежей;
-- расположения изображений на чертежах;
-- проекционных изображений на чертежах;
-- сечений и разрезов;
-- разъемных и неразъемных соединений.
-Умения:
-- читать простейшие чертежи для выполнения работ по техническому обслуживанию и ремонту электромеханического оборудования;
-- выполнять эскизы и технические рисунки с целью изготовления деталей и запасных частей для машин и механизмов.
-</td>
-<td>
-БК 1 - БК 8,
-ПК 1.12.4,
-ПК 1.13.5,
-ПК 1.14.3,
-ПК 1.14.4,
-ПК 1.15.2,
-ПК 1.15.6,
-ПК 1.16.2
-</td>
-</tr>
-<tr>
-<td>ОПД 02</td>
-<td>
-Основы технической механики.
-Классификация механизмов и машин. Звенья механизмов. Кинематика механизмов (механизм и машина, киҒнематические пары и цепи, типы кинематических пар). Детали и сборочные единицы. Классификация, назначение и требования к ним. Виды соединения деталей (разъемные и неразъемные соединения). Механизмы передачи вращательного движения. Виды передач вращательного движения (механические, ременные, фрикционные, зубчатые, цепочные, червячҒные). Назначение, характеристика, устройство, обозначение и кинематическая схема. Передаточное число. Абсолютно твердое тело. Основные виды деформации и распределение напряжения при них. Внешние силы и их виды. Внутренние силы упругости и напряҒжения. Действительные, предельно опасные и предельно допустимые напряжеҒния.
-</td>
-<td>
-Знания:
-- классификации машин и механизмов;
-- видов соединений деталей;
-- видов передач вращательного движения;
-- основных видов деформаций;
-- действительных, предельно опасных и предельно допустимых напряжений.
-Умения:
--различать детали и сборочные единицы;
-- определять передаточное число;
-- различать внешние и внутренние силы упругости и напряжения.
-</td>
-<td>
-БК 1 - БК 8
-ПК 1.13.1,
-ПК 1.13.2,
-ПК 1.13.5,
-ПК 1.14.2,
-ПК 1.14.4,
-ПК 1.15.6,
-ПК 1.16.2,
-ПК 1.16.4,
-</td>
-</tr>
-<tr>
-<td>ОПД 03</td>
-<td>
-Электротехника с основами электроники.
-Электрические и магнитные цепи. Электрические цепи переменного тока. Электрические устройства. Электроизмерительные приборы. Электронные приборы и устройства. Трансформаторы. Электрические машины и аппараты. Производство, распределение, использование электроэнергии. Электрические станции, сети и электроснабжение. Основы электропривода.
-</td>
-<td>
-Знания:
--электрических и магнитных цепей;
-- электрических цепей переменного тока;
-- электрических устройств;
-- производства, распределения и использования электроэнергии;
-- электропривода и электроавтоматики.
-Умения:
--читать электросхемы для ремонта электрооборудования и средств автоматики;
-- пользоваться электроизмерительными приборами при обслуживании и ремонте электрооборудования и средств автоматики.
-</td>
-<td>
-БК 1 - БК 8
-ПК 1.12.4,
-ПК 1.12.7,
-ПК 1.13.1,
-ПК 1.13.5,
-ПК 1.14.1,
-ПК 1.15.2,
-ПК 1.16.4
-</td>
-</tr>
-<tr>
-<td>ОПД 04</td>
-<td>
-Основы информатизации и автоматизации производства.
-Кодирование информации. Системы счисления. Перевод из одной системы в другую. Двоичная арифметика. Формальная, математическая логика. Понятие модели. Типы моделей. Понятие алгоритма. Типы алгоритмов. Язык программирования. Программа, ее структуризация. Автоматическое регулирование. Регулируемый параметр. Объект регулирования, его свойства, схемы. Автоматические регуляторы их классификация, назначение, устройство, принцип действия, функциональные и структурные схемы, органы настройки. Вспомогательные средства автоматических систем управления. Порядок перевода с автоматического управления процесса на ручное и обратно.
-</td>
-<td>
-Знания:
--видов ОС WINDOWS; текстовогоредактораWORD;
-- электронных таблиц EXCEL;
-- векторного редактораCorelDRAW;
-- защиты от вирусов;
-- архиватораWinZip;
-- ОС DOS;
-- программы-оболочки Norton Commander;
-- языков программирования;
-- основ автоматического регулирования;
-- принципов действия, функциональных и структурных схем автоматических регуляторов.
-Умения:
--пользоваться персональным компьютером в работе и повседневной жизни;
-- осуществлять перевод автоматических систем на ручное управление и обратно на автоматическое.
-</td>
-<td>
-БК 1 - БК 8
-ПК 1.12.4,
-ПК 1.13.2,
-ПК 1.14.2,
-ПК 1.15.3,
-ПК 1.16.3
-</td>
-</tr>
-<tr>
-<td>ОПД 05</td>
-<td>
-Основы геологии.
-Земля и космос. Экзогенные и эндогенные геологические процессы.Минералогия, петрография и кристаллография.Основные свойства минералов. Месторождения полезных ископаемых.Генезис, методика поиска и разведки месторождений. Геологоразведочные работы, гидрогеология.
-</td>
-<td>
-Знания:
-- строения Земли и Солнечной системы;
-- процессов образования минералов и горных пород и их свойств;
-- способов геологоразведочных работ.
-Умения:
-- различать полезные ископаемые от пустых горных пород.
-</td>
-<td>
-БК 1 - БК 8
-ПК 1.12.1,
-ПК 1.13.1,
-ПК 1.14.2,
-ПК 1.14.3,
-ПК 1.15.4,
-ПК 1.15.5,
-ПК 1.16.5
-</td>
-</tr>
-<tr>
-<td>ОПД 06</td>
-<td>
-Основы геодезии и маркшейдерского дела.
-Геодезия.
-Системы координат. Измерение углов, расстояний и превышений, геодезические приборы. Геодезические сети. Топографические съемки.
-Маркшейдерское дело. Подземная теодолитная съемка. Съемочные работы в нарезных и очистных выра-ботках. Вертикальные съемки. Маркшейдерская документация. Маркшейдерский контроль за безопасным ведением горных работ.
-</td>
-<td>
-Знания:
-- систем координат;
-- порядка измерения углов, расстояний и превышений;
-- геодезических и маркшейдерских приборов;
-- видов маркшейдерских съемок.
-Умения:
--читать маркшейдерские схемы и планы горных работ;
-- применять маркшейдерские средства контроля за правильным и безопасным ведением работ.
-</td>
-<td>
-БК 1 - БК 8
-ПК 1.12.1,
-ПК 1.13.2,
-ПК 1.14.3,
-ПК 1.15.3,
-ПК 1.16.5
-</td>
-</tr>
-<tr>
-<td>ОПД 07</td>
-<td>
-Охрана труда.
-Меры безопасности при ведении горных работ. Промышленная санитария. Производственные опасности и вредности. Основы пожарной профилактики и горноспасательного дела.
-</td>
-<td>
-Знания:
--правил поведения в подземных горных выработках;
-- запасных выходов;
-- газового режима в горных выработках.
-Умения:
--соблюдать правила охраны труда;
-- пользоваться средствами самоспасения и пожаротушения;
-- различать опасные и вредные факторы.
-</td>
-<td>
-БК 1 - БК 8
-ПК 1.12.8,
-ПК 1.13.6,
-ПК 1.14.6,
-ПК 1.15.7,
-ПК 1.16.7
-</td>
-</tr>
-<tr>
-<th>СД 00</th>
-<th colspan="3">Специальные дисциплины</th>
-</tr>
-<tr>
-<td>СД 01</td>
-<td>
-Горное дело.
-Основные технологические процессы горного производства. Вертикальные, наклонные и горизонтальные горные выработки. Очистные и подготовительные забои. Технология ведения очистных и подготовительных работ. Паспорт крепления и управления кровлей очистного забоя. Паспорт проведения и крепления подготовительной выработки. Проветривание шахты, очистных и подготовительных забоев. Пылегазовый режим шахты, очистных и подготовительных забоев. Подготовленность шахты и еҰ объектов к ликвидации аварии.
-</td>
-<td>
-Знания:
-- технологии основных и вспомогательных работ;
-- видов горных выработок, очистных и подготовительных забоев;
-- расположения средств пожаротушения и самоспасения.
-Умения:
-- выполнять самостоятельно вспомогательные работы;
-- помогать в проведении и креплении подготовительных выработок.
-</td>
-<td>
-БК 1 - БК 4
-БК 6,
-ПК 1.12.7,
-ПК 1.13.1,
-ПК 1.14.1,
-ПК 1.14.3,
-ПК 1.14.5,
-ПК 1.15.1,
-ПК 1.16.1,
-ПК 1.16.5,
-ПК 1.16.6
-</td>
-</tr>
-<tr>
-<td>СД 02</td>
-<td>
-Горные машины и комплексы.
-Основы гидро- и пневмопривода. Отбойные молотки и бурильные машины. Оборудование и комплексы для подготовительных и очистных работ, устройство и технические характеристики. Буровые станки, принцип работы и область применения. Выемочные, погрузочные и транспортные машины, комплексы. Вспомогательное оборудование для горных работ, устройство, назначение и области применения. Особенности конструкций машин и механизмов, применяемых в горной промышленности.
-</td>
-<td>
-Знания:
--устройства, назначения отбойных молотков, бурового инструмента и бурильных машин;
-- принципа действия, области применения очистных и подготовительных комбайнов, механизированных комплексов;
-- правил безопасной эксплуатации горных машин и механизмов;
-- назначения и устройства вспомогательного оборудования для горных работ.
-Умения:
--правильно и безопасно эксплуатировать горную технику;
-- помогать при техническом обслуживании и ремонте горных машин и механизмов.
-</td>
-<td>
-БК 5,
-БК 6,
-БК 7,
-ПК 1.13.1,
-ПК 1.13.2,
-ПК 1.13.3,
-ПК 1.13.4,
-ПК 1.13.5,
-ПК 1.14.1,
-ПК 1.14.5,
-ПК 1.14.6,
-ПК 1.15.4,
-ПК 1.15.5,
-ПК 1.16.2,
-ПК 1.16.3,
-ПК 1.16.4,
-ПК 1.16.5
-</td>
-</tr>
-<tr>
-<td>СД 03</td>
-<td>
-Электрооборудование и электроснабжение горных предприятий.
-Особенности эксплуатации и конструктивного исполнения горного электрооборудования. Электрическая аппаратура управления и защиты напряжением до и свыше 1140В. Электроснабжение горных предприятий. Электрические сети горных предприятий. Защита электроустановок. Освещение горных выработок. Рудничная сигнализация и связь. Защита от поражения электрическим током.
-</td>
-<td>
-Знания:
-- конструкций и принципа действия электромеханического оборудования;
-- способов управления приводами электродвигателей с помощью контакторов и реле;
-- правил безопасной эксплуатации электроустановок;
-- устройства, назначение защитного заземления.
-Умения:
-- производить запуск электродвигателей с помощью магнитных и тиристорных пускателей;
-- определять требования к устройству заземляющей сети;
-- эксплуатировать электрооборудование.
-</td>
-<td>
-БК 5 - БК 7,
-ПК 1.12.1 -
-ПК 1.12.7,
-ПК 1.13.5,
-ПК 1.14.5,
-ПК 1.15.2,
-ПК 1.15.6,
-ПК 1.16.2,
-ПК 1.16.4
-</td>
-</tr>
-<tr>
-<td>СД 04</td>
-<td>
-Рудничный транспорт.
-Основы теории транспортных машин. Виды рудничного транспорта. Шахтный рельсовый путь. Вибрационные, пластинчатые, скребковые, ленточные и специальные конвейеры. Шахтные вагонетки, локомотивная откатка. Монорельсовые подвесные и напочвенные доставочные средства. Технологический комплекс поверхности. Организация работы шахтного транспорта. Скреперный транспорт
-</td>
-<td>
-Знания:
-- видов рудничного транспорта;
-- строения шахтного рельсового пути;
-- устройства концевой рельсовой откатки и конвейерного транспорта, технологического комплекса поверхности;
-- правил безопасной эксплуатации рудничного транспорта.
-Умения:
-- выполнять работы по обслуживанию и эксплуатации конвейерного транспорта;
-- выполнять работы по ремонту рельсового пути, на плитах концевой откатки, опрокидах.
-</td>
-<td>
-БК 5 - БК 7,
-ПК 1.13.3,
-ПК 1.14.2,
-ПК 1.14.4,
-ПК 1.14.6,
-ПК 1.15.1,
-ПК 1.15.2,
-ПК 1.15.3,
-ПК 1.15.4,
-ПК 1.15.6
-</td>
-</tr>
-<tr>
-<td>СД 05</td>
-<td>
-Автоматизация производственных процессов.
-Основные понятия автоматики и телемеханики. Элементы цифровой техники. Технические средства автоматизации. Автоматизация горных машин, шахтного транспорта и стационарных установок. Автоматизация технологических процессов. Перспективные направления развития автоматизации горного оборудования и технологических процессов.
-</td>
-<td>
-Знания:
-- основ автоматики и телемеханики горного производства.
-Умения:
-- обращаться с аппаратурой автоматизации.
-</td>
-<td>
-БК5 - БК 7,
-ПК 1.12.4,
-ПК 1.13.2,
-ПК 1.14.2,
-ПК 1.15.3,
-ПК 1.16.3
-</td>
-</tr>
-<tr>
-<td>СД 06</td>
-<td>
-Техника безопасности, охрана окружающей среды и рациональное природопользование.
-Травматизм и профессиональные заболевания. Классификация несчастных случаев по степени тяжести и по количеству пострадавших. Создание здоровых и безопасных условий труда на производстве. Система управления охраной труда на предприятии. Порядок расследования несчастных случаев на производстве и в быту. Меры безопасности при ведении горных работ. Производственные опасности и вредности. Оказание первой медицинской помощи. Защита окружающей среды и рациональное природопользование.
-</td>
-<td>
-Знания:
--основ трудового законодательства, охраны окружающей среды, противопожарной профилактики и горноспасательного дела;
-- техники безопасности при ведении горных работ;
-- производственных опасностей и вредностей;
-- классификации травматизма и профессиональных заболеваний.
-Умения:
--соблюдать требования Правил безопасности;
-- производить замеры вредных и ядовитых газов;
-- сохранять в неприкосновенности место несчастного случая для расследования;
-- оказывать первую помощь травмированному человеку.
-</td>
-<td>
-БК 5 - БК 8,
-ПК 1.12.8,
-ПК 1.13.6,
-ПК 1.14.6,
-ПК 1.15.7,
-ПК 1.16.7
-</td>
-</tr>
-<tr>
-<td>СД 07</td>
-<td>
-Основы рыночной экономики в горнодобывающей отрасли.
-Введение в рыночную экономику. Основные принципы рыночной экономики, мониторинг, спрос и предложение. Рыночная система, монополия и конкуренция. Развитие предпринимательства и субъекты рыночных отношений. Экономические затраты и результаты деятельности предприятий. Маркетинг и реклама. Цена и ценообразование. Эффективность производства – хозяйственной деятельности. Налоги и налогообложение.
-</td>
-<td>
-Знания:
--наименования и характеристик продукта товара;
-- понятия конкуренции,ее сущности и функции;
-- определения функции банков;
-- основных понятий по затратам, субъекта рынка;
-- понятия и сущности маркетинга, его целей и задач;
-- рекламы, видов рекламы;
-- определения цены;
-- видов налогов.
-Умения:
-- рассчитывать доходы, расходы;
-- определять цену себестоимости товара, цену производства, оптовую цену, розничную цену (методом примера).
-</td>
-<td>
-БК 1,
-БК 3,
-БК 4,
-БК 6,
-ПК 1.12.7,
-ПК 1.13.4,
-ПК 1.14.5,
-ПК 1.15.1,
-ПК 1.16.1
-</td>
-</tr>
-<tr>
-<th>ДОО 00</th>
-<th colspan="3">Дисциплины, определяемые организацией образования</th>
-</tr>
-<tr>
-<th>ПО 00</th>
-<th colspan="3">Производственное обучение</th>
-</tr>
-<tr>
-<td>ПО 01</td>
-<td>
-Практика в учебно-производственных мастерских.
-Ознакомление с основными процессами слесарной и механической обработки металлов и применяемым оборудованием, инструментами и приспособлениями. Организация рабочего места слесаря и станочника, основы нормирования труда. Приобретение необходимых умений и навыков практической деятельности по обработкеметаллов.
-</td>
-<td>
-Умения:
-- читатьмашиностроительные чертежи;
--работать с нормативно-технической документацией.
-Навыки:
-- распознавания металлов и материалов;
-- пользования измерительными инструментами;
-- составления карты технологического процесса обработки деталей.
-</td>
-<td>
-БК 5 - БК 8,
-ПК 1.12.1,
-ПК 1.13.1,
-ПК 1.14.1,
-ПК 1.15.1,
-ПК 1.16.1
-</td>
-</tr>
-<tr>
-<td>ПО 02</td>
-<td>
-Практика по приобретению профессиональных навыков.
-Закрепление теоретических знаний в условиях учебного горного полигона или горнорудного предприятия.
-Общее знакомство с горнорудным предприятием по добыче полезного ископаемого. Знакомство с технологией проведения горных выработок, комплексом технологических процессов при ведении очистных работ. Знакомство с работой горно-шахтного стационарного оборудовании. Изучение опыта организации работы ремонтных бригад.
-Овладение обучающимися комплексом работ, указанных в Государственном общеобязательном стандарте образования для рабочей профессии соответствующего разряда повышенного уровня.
-</td>
-<td>
-Умения:
-- проверять действие горного оборудования;
-- определять соответствие технического состояния горного оборудования требованиям нормативных документов;
-- выполнять монтажные и демонтажные работы;
-- руководствоваться планом ликвидации аварий применительно к рабочему месту, с запасными выходами;
--применять правила пользования защитной и пусковой аппаратурой, правила проверки оборудования на взрыво- и искробезопасность.
-- читать схемы распределения электрической энергии на предприятии и оборудованиях распределительных пунктов.
-Навыки:
-- обслуживания горных машин и механизмов;
-- заземления установок;
-- безопасного выполнения операций по установке крепи, настилке рельсового пути, бурению шпуров;
-- выполнения монтажных и демонтажных работ;
-- пользования защитной и пусковой аппаратурой;
--работы на стационарном оборудовании горнорудных предприятий, рудничном транспорте, малой механизации.
-</td>
-<td>
-БК 5 - БК 8,
-ПК 1.12.3,
-ПК 1.12.7,
-ПК 1.13.2,
-ПК 1.13.3,
-ПК 1.13.4,
-ПК 1.14.2,
-ПК 1.14.6,
-ПК 1.14.8,
-ПК 1.15.4,
-ПК 1.15.3,
-ПК 1.15.6,
-ПК 1.16.3,
-ПК 1.16.5,
-ПК 1.16.6
+Приложение 132
+к приказу Министра образования
+и науки Республики Казахстан
+от 15 июня 2015 года № 384
 </td>
 </tr>
 </table>
