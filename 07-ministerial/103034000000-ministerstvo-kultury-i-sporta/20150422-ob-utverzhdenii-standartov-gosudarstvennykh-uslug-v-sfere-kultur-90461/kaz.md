@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/90461/kaz/22.04.2015
+source: https://zan.gov.kz/client/#!/doc/90461/kaz/25.01.2016
 ---
 
 # Мәдениет саласындағы мемлекеттiк көрсетiлетiн қызмет стандарттарын бекіту туралы
