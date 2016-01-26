@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85813/rus/25.11.2015
+source: https://zan.gov.kz/client/#!/doc/85813/rus/26.01.2016
 ---
 
 ## Форма «Перечень отобранных инвестиционных предложений»
@@ -89,10 +89,6 @@ source: https://zan.gov.kz/client/#!/doc/85813/rus/25.11.2015
 </tr>
 </table>
 
-_______________________________________________ М.П. ________________
-
-Ф.И.О. руководителя государственного органа роспись
-
 > *Приложение 27*  
 > *к Правилам*  
 > *разработки или корректировки,*  
@@ -103,38 +99,37 @@ _______________________________________________ М.П. ________________
 > *рассмотрения, отбора, мониторинга и*  
 > *инвестиций*
 
+> *Сноска. Приложение 27 в редакции приказа Министра национальной экономики РК от 26.01.2016 № 28 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 ## Форма «План-график подготовки и реализации бюджетных инвестиционных проектов»
 
 Администратор республиканских бюджетных программ (далее – АРБП) или
 
 Местный исполнительный орган (далее – МИО):
 
-________________
+_____________________
 
 Отчетный период: _______ 20___ года
 
 <table>
 <tr>
-<td rowspan="3">
-№
-п/п
-</td>
+<td rowspan="3">№ п/п</td>
 <td rowspan="3">Наименование проекта</td>
 <td rowspan="3">Стоимость проекта по ТЭО, тыс. тенге</td>
 <td rowspan="3">Стоимость проекта по ПСД, тыс. тенге</td>
 <td rowspan="3">Общая стоимость проекта по ПСД</td>
-<td colspan="3" rowspan="3">Сроки завершения объекта</td>
-<td colspan="2" rowspan="3">Мощность проекта</td>
-<td colspan="3" rowspan="3">Период реализации проекта</td>
+<td rowspan="3">Сроки завершения объекта</td>
+<td rowspan="3">Мощность проекта</td>
+<td rowspan="3">Период реализации проекта</td>
 <td>Объем запланированных работ в натуральном выражении (компоненты)</td>
-<td colspan="4">График выполнения работ согласно ТЭО/ПСД</td>
+<td colspan="3">График выполнения работ согласно ТЭО/ПСД</td>
 </tr>
 <tr>
 <td rowspan="2">Наименование компонента</td>
-<td colspan="4">в том числе</td>
+<td colspan="3">в том числе</td>
 </tr>
 <tr>
-<td colspan="2">первое полугодие</td>
+<td>первое полугодие</td>
 <td colspan="2">по итогам года</td>
 </tr>
 <tr>
@@ -143,15 +138,16 @@ ________________
 <th>3</th>
 <th>4</th>
 <th>5</th>
-<th colspan="3">6</th>
-<th colspan="2">7</th>
-<th colspan="3">8</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
 <th>9</th>
-<th colspan="2">10</th>
+<th>10</th>
 <th colspan="2">11</th>
 </tr>
 <tr>
-<td colspan="18">Государственные услуги общего характера</td>
+<td colspan="11">Государственные услуги общего характера</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -159,11 +155,11 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td>компонент 1</td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -172,11 +168,11 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td>компонент 2</td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -185,11 +181,11 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td>компонент n</td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -198,40 +194,28 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="18">Оборона</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th colspan="2">11</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">компонент 1</td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">компонент 2</td>
-<td colspan="2"></td>
+<td colspan="11">Оборона</td>
 <td></td>
 </tr>
 <tr>
@@ -240,205 +224,11 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">компонент n</td>
-<td colspan="2"></td>
 <td></td>
-</tr>
-<tr>
-<td>Итого по отрасли:</td>
 <td></td>
 <td></td>
+<td>компонент 1</td>
 <td></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="18">Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">компонент 1</td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">компонент 2</td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">компонент n</td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>Итого по отрасли:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="18">Образование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">компонент 1</td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">компонент 2</td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">компонент n</td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>Итого по отрасли:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="18">Здравоохранение</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент 1</td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент 2</td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент n</td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>Итого по отрасли:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="18">Социальная помощь и социальное обеспечение</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">компонент 1</td>
-<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -447,11 +237,11 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">компонент 2</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент 2</td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -460,11 +250,11 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">компонент n</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент n</td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -473,28 +263,16 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="18">Жилищно-коммунальное хозяйство</td>
-</tr>
-<tr>
+<td colspan="11">Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">компонент 1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -502,11 +280,11 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">компонент 2</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент 1</td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -515,40 +293,11 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">компонент n</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Итого по отрасли:</td>
 <td></td>
 <td></td>
 <td></td>
+<td>компонент 2</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="18">Культура, спорт, туризм и информационное пространство</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">компонент 1</td>
-<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -557,24 +306,11 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">компонент 2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
+<td>компонент n</td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">компонент n</td>
-<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -583,27 +319,15 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="18">Топливно-энергетический комплекс и недропользование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент 1</td>
-<td colspan="2"></td>
+<td colspan="11">Образование</td>
 <td></td>
 </tr>
 <tr>
@@ -612,12 +336,12 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент 2</td>
-<td colspan="2"></td>
 <td></td>
+<td></td>
+<td></td>
+<td>компонент 1</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -625,12 +349,25 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент n</td>
-<td colspan="2"></td>
 <td></td>
+<td></td>
+<td></td>
+<td>компонент 2</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент n</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>Итого по отрасли:</td>
@@ -638,27 +375,15 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="18">Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент 1</td>
-<td colspan="2"></td>
+<td colspan="11">Здравоохранение</td>
 <td></td>
 </tr>
 <tr>
@@ -668,10 +393,53 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент 2</td>
+<td></td>
+<td></td>
+<td>компонент 1</td>
+<td></td>
 <td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент 2</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент n</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Итого по отрасли:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="11">Социальная помощь и социальное обеспечение</td>
 <td></td>
 </tr>
 <tr>
@@ -681,10 +449,39 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент n</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>компонент 1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент 2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент n</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -694,40 +491,30 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="18">Промышленность, архитектурная, градостроительная и строительная деятельность</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент 1</td>
-<td colspan="2"></td>
+<td colspan="11">Жилищно-коммунальное хозяйство</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент 2</td>
-<td colspan="2"></td>
-<td></td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th></th>
 </tr>
 <tr>
 <td></td>
@@ -736,39 +523,11 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент n</td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>Итого по отрасли:</td>
 <td></td>
 <td></td>
+<td>компонент 1</td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="18">Транспорт и коммуникации</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент 1</td>
-<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -778,10 +537,11 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент 2</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>компонент 2</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -791,10 +551,11 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент n</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>компонент n</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -804,26 +565,15 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="18">Прочие</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент 1</td>
-<td colspan="2"></td>
+<td colspan="11">Культура, спорт, туризм и информационное пространство</td>
 <td></td>
 </tr>
 <tr>
@@ -833,10 +583,11 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент 2</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>компонент 1</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -846,10 +597,25 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">компонент n</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>компонент 2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент n</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -859,32 +625,349 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="11">Топливно-энергетический комплекс и недропользование</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент 1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент 2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент n</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Итого по отрасли:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="11">Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент 1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент 2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент n</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Итого по отрасли:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="11">Промышленность, архитектурная, градостроительная и строительная деятельность</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент 1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент 2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент n</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Итого по отрасли:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th></th>
+</tr>
+<tr>
+<td colspan="11">Транспорт и коммуникации</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент 1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент 2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент n</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Итого по отрасли:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="11">Прочие</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент 1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент 2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>компонент n</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Итого по отрасли:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </table>
 
+продолжение таблицы
+
 <table>
 <tr>
-<td colspan="8">Реализация проекта</td>
+<td colspan="7">Реализация проекта</td>
 <td rowspan="5">Примечание</td>
 </tr>
 <tr>
-<td colspan="8">в том числе (тыс. тенге)</td>
+<td colspan="7">в том числе (тыс. тенге)</td>
 </tr>
 <tr>
 <td colspan="2">до начала отчетного года (с первого года реализации)</td>
 <td colspan="2">на текущий год</td>
-<td colspan="4">прогноз на последующие годы</td>
+<td colspan="3">прогноз на последующие годы</td>
 </tr>
 <tr>
 <td rowspan="2">выделено из бюджета</td>
 <td rowspan="2">фактическое исполнение</td>
 <td colspan="2">в том числе</td>
-<td colspan="2" rowspan="2">1 год следующий за отчетным</td>
+<td rowspan="2">1 год следующий за отчетным</td>
 <td rowspan="2">2 год следующий за отчетным</td>
 <td rowspan="2">3 год следующий за отчетным</td>
 </tr>
@@ -897,40 +980,40 @@ ________________
 <th>13</th>
 <th>14</th>
 <th>15</th>
-<th colspan="2">16</th>
+<th>16</th>
 <th>17</th>
 <th>18</th>
 <th>19</th>
 </tr>
 <tr>
-<td colspan="9">Государственные услуги общего характера</td>
+<td colspan="8">Государственные услуги общего характера</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -940,20 +1023,20 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="9">Оборона</td>
+<td colspan="8">Оборона</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -963,17 +1046,17 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -983,30 +1066,40 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
 </tr>
 <tr>
-<td colspan="9">Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</td>
+<td colspan="8">Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1016,50 +1109,50 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="9">Образование</td>
+<td colspan="8">Образование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1069,20 +1162,20 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="9">Здравоохранение</td>
+<td colspan="8">Здравоохранение</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1092,17 +1185,17 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1112,30 +1205,30 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="9">Социальная помощь и социальное обеспечение</td>
+<td colspan="8">Социальная помощь и социальное обеспечение</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1145,40 +1238,40 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="9">Жилищно-коммунальное хозяйство</td>
+<td colspan="8">Жилищно-коммунальное хозяйство</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1188,30 +1281,30 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="9">Культура, спорт, туризм и информационное пространство</td>
+<td colspan="8">Культура, спорт, туризм и информационное пространство</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1221,17 +1314,17 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1241,20 +1334,20 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="9">Топливно-энергетический комплекс и недропользование</td>
+<td colspan="8">Топливно-энергетический комплекс и недропользование</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1264,50 +1357,60 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="9">Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
+<td colspan="8">Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1317,30 +1420,30 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="9">Промышленность, архитектурная, градостроительная и строительная деятельность</td>
+<td colspan="8">Промышленность, архитектурная, градостроительная и строительная деятельность</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1350,17 +1453,17 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1370,19 +1473,19 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="9">Транспорт и коммуникации</td>
+<td colspan="8">Транспорт и коммуникации</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1392,17 +1495,17 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1412,20 +1515,20 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="9">Прочие</td>
+<td colspan="8">Прочие</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1435,17 +1538,17 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1455,27 +1558,23 @@ ________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 </table>
-
-________________________________________________ МП. ________________
-
-Ф.И.О. руководителя государственного органа роспись
 
 > *Приложение 28*  
 > *к Правилам разработки или корректировки,*  
@@ -1485,9 +1584,9 @@ ________________________________________________ МП. ________________
 > *рассмотрения, отбора, мониторинга и оценки*  
 > *реализации бюджетных инвестиций*
 
-## Форма «Отчет по мониторингу реализации республиканских бюджетных инвестиционных проектов и проектов, реализуемых за счет целевых трансфертов на развитие и кредитов из республиканского бюджета»
+> *Сноска. Приложение 28 в редакции приказа Министра национальной экономики РК от 26.01.2016 № 28 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
-> *Сноска. Приложение 28 в редакции приказа и.о. Министра национальной экономики РК от 25.11.2015 № 721.*
+## Форма «Отчет по мониторингу реализации республиканских бюджетных инвестиционных проектов и проектов, реализуемых за счет целевых трансфертов на развитие и кредитов из республиканского бюджета»
 
 АРБП
 
@@ -1619,6 +1718,8 @@ ________________________________________________ МП. ________________
 </tr>
 </table>
 
+продолжение таблицы
+
 <table>
 <tr>
 <td colspan="4">Объем выполненных работ в натуральном выражении согласно ТЭО/ПСД</td>
@@ -1660,6 +1761,8 @@ ________________________________________________ МП. ________________
 <td></td>
 </tr>
 </table>
+
+продолжение таблицы
 
 <table>
 <tr>
@@ -1776,6 +1879,8 @@ ________________________________________________ МП. ________________
 </tr>
 </table>
 
+продолжение таблицы
+
 <table>
 <tr>
 <td rowspan="2">Причины уклонения</td>
@@ -1808,9 +1913,10 @@ ________________________________________________ МП. ________________
 <td rowspan="7">
 1.**ТЭО:
 2. *** ПСД:
-3.**** Приказ:
+3. **** Приказ:
 4. ***** ЭКСПЕРТИЗЫ
-1) Заключение отраслевой экспертизы;
+1) Заключение
+отраслевой экспертизы;
 2) Комплексная вневедомственная экспертиза;
 3) Экономическая экспертиза.
 </td>
@@ -1864,10 +1970,6 @@ ________________________________________________ МП. ________________
 <td></td>
 </tr>
 </table>
-
-__________________________________________ МП. __________________
-
-Ф.И.О. руководителя государственного органа подпись
 
 Примечания:
 
