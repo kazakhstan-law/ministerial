@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/90919/rus/28.04.2015
+source: https://zan.gov.kz/client/#!/doc/90919/rus/26.01.2016
 ---
 
 # Об утверждении стандартов государственных услуг в области информации
