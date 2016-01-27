@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/91260/kaz/08.12.2015
+source: https://zan.gov.kz/client/#!/doc/91260/kaz/27.01.2016
 ---
 
 ## Құқық белгiлейтiн құжаттың телнұсқасын немесе меншік құқығы туралы куәлікті беру туралы № _____ өтініш
