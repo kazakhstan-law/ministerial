@@ -11,8 +11,15 @@ approved_on: 2015-03-31
 approved_by:
 - '103001000000'
 version_date:
-  kaz: 2015-03-31
-  rus: 2015-03-31
+  kaz: 2016-01-28
+  rus: 2016-01-28
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/90201/kaz/31.03.2015
-  rus: https://zan.gov.kz/client/#!/doc/90201/rus/31.03.2015
+  kaz: https://zan.gov.kz/client/#!/doc/90201/kaz/28.01.2016
+  rus: https://zan.gov.kz/client/#!/doc/90201/rus/28.01.2016
+caused_by:
+  code: '98897'
+  requisite: Приказ Министра юстиции Республики Казахстан от 28 января 2016 года № 45
+  title:
+    rus: О признании утратившими силу некоторых приказов Министра юстиции Республики Казахстан
+    kaz: Қазақстан Республикасы Әділет министрінің кейбір бұйрықтарының күшін жою туралы
+  link: https://zan.gov.kz/client/#!/doc/98897/rus
