@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/53732/rus/27.11.2015
+source: https://zan.gov.kz/client/#!/doc/53732/rus/29.01.2016
 ---
 
 ## 3. Правила составления форм финансовой отчетности
