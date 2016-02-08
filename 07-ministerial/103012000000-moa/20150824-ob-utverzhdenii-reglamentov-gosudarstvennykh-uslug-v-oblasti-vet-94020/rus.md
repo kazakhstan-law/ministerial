@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/94020/rus/18.12.2015
+source: https://zan.gov.kz/client/#!/doc/94020/rus/08.02.2016
 ---
 
 # Об утверждении регламентов государственных услуг в области ветеринарии
