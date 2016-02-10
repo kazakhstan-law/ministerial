@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/54527/kaz/28.12.2015
+source: https://zan.gov.kz/client/#!/doc/54527/kaz/10.02.2016
 ---
 
 ## 7. Қызметкерлермен есеп айырысуды есепке алу тәртібі
