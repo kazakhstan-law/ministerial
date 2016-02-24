@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/86758/kaz/15.09.2015
+source: https://zan.gov.kz/client/#!/doc/86758/kaz/24.02.2016
 ---
 
 ## Концессиялық жобаларды ұсыну, қарау және іріктеу қағидалары
