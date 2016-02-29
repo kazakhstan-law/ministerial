@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/74196/kaz/24.11.2015
+source: https://zan.gov.kz/client/#!/doc/74196/kaz/29.02.2016
 ---
 
 ## ҮЛГІЛІК ОҚУ ЖОСПАРЫ 6М041000 – Сценография мамандығы (ғылыми және педагогикалық бағыт)

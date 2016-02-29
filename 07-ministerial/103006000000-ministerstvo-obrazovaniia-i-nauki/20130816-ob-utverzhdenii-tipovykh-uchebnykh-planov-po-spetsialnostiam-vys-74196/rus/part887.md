@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/74196/rus/24.11.2015
+source: https://zan.gov.kz/client/#!/doc/74196/rus/29.02.2016
 ---
 
 ## ТИПОВОЙ УЧЕБНЫЙ ПЛАН по специальности послевузовского образования 6D074200 - «Судовождение»
