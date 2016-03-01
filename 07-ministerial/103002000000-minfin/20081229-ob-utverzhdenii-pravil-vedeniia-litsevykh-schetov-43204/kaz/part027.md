@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/43204/kaz/09.12.2015
+source: https://zan.gov.kz/client/#!/doc/43204/kaz/01.03.2016
 ---
 
 ## 24-бап. Қайтыс болған жеке тұлғаның салық берешегі мен артық төлеулерін есепке алу
