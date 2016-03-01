@@ -11,11 +11,9 @@ approved_on: 2015-04-20
 approved_by:
 - '103001000000'
 version_date:
-  kaz: 2016-01-28
-  rus: 2016-01-28
+  rus: 2016-03-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/89570/kaz/28.01.2016
-  rus: https://zan.gov.kz/client/#!/doc/89570/rus/28.01.2016
+  rus: https://zan.gov.kz/client/#!/doc/89570/rus/01.03.2016
 caused_by:
   code: '98917'
   requisite: Приказ Министра юстиции Республики Казахстан от 28 января 2016 года № 51. Зарегистрирован в Министерстве юстиции Республики Казахстан 12 февраля 2016 года № 13059
