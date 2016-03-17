@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/90218/kaz/26.03.2015
+source: https://zan.gov.kz/client/#!/doc/90218/kaz/17.03.2016
 ---
 
 > *Халықты әлеуметтік қорғау*  
