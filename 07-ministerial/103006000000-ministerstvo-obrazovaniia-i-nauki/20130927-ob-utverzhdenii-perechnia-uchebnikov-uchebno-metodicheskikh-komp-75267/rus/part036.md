@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/75267/rus/08.01.2016
+source: https://zan.gov.kz/client/#!/doc/75267/rus/06.04.2016
 ---
 
 ## Перечень учебной литературы для специальных (коррекционных) школ

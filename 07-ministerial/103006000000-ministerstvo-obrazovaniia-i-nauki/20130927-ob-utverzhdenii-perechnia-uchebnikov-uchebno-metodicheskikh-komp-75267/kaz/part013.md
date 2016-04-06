@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/75267/kaz/08.01.2016
+source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 ---
 
 ## 8-сынып оқыту қазақ және орыс тілдеріндегі мектептер үшін
