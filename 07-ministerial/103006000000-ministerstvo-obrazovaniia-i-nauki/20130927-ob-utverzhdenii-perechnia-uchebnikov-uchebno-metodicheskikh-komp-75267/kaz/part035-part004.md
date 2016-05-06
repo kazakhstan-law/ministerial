@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
+source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.05.2016
 ---
 
 <table>
@@ -26,7 +26,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>684.</td>
@@ -37,7 +36,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>685.</td>
@@ -51,7 +49,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>686.</td>
@@ -65,7 +62,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>687.</td>
@@ -76,7 +72,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>688.</td>
@@ -84,7 +79,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Амирова А.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>689.</td>
@@ -92,7 +86,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Амирова А.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>690.</td>
@@ -100,7 +93,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Амирова А.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>691.</td>
@@ -111,7 +103,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>692.</td>
@@ -122,7 +113,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>693.</td>
@@ -130,7 +120,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Амирова А.С.,</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>694.</td>
@@ -138,7 +127,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Амирова А., Байтулеева Н.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>695.</td>
@@ -146,7 +134,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Манкеш А., Киялбекова Г.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>696.</td>
@@ -154,7 +141,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Манкеш А., Киялбекова Г.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>697.</td>
@@ -162,7 +148,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Манкеш А., Киялбекова Г.,</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>698.</td>
@@ -170,7 +155,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Манкеш А., Киялбекова Г.,</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>699.</td>
@@ -178,7 +162,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Нусупбекова М., Сейлгазинова С.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>700.</td>
@@ -186,7 +169,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Нусупбекова М., Сейлгазинова С.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>701.</td>
@@ -194,7 +176,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Батибаева С., Толендиева Р.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>702.</td>
@@ -202,7 +183,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Қураштурғучи, Батибаева С.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>703.</td>
@@ -210,7 +190,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Батибаева С., Қоңыратбай Ф.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>704.</td>
@@ -218,7 +197,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Жумабекова Ф., Ойшыбаева А.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>705.</td>
@@ -226,7 +204,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Жумабекова Ф., Ойшыбаева А.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>706.</td>
@@ -234,7 +211,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Жумабекова Ф., Ойшыбаева А.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>707.</td>
@@ -242,7 +218,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Жумабекова Ф., Ойшыбаева А.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>708.</td>
@@ -250,7 +225,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Шапкина С., Королькова Н.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>709.</td>
@@ -258,7 +232,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Шапкина С., Королькова Н.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>710.</td>
@@ -266,7 +239,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Шапкина С., Королькова Н.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>711.</td>
@@ -274,7 +246,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Шапкина С., Королькова Н.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>712.</td>
@@ -282,7 +253,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Королькова Н., Оналбаева А.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>713.</td>
@@ -290,7 +260,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td colspan="2">Батибаева С.</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 </table>
 

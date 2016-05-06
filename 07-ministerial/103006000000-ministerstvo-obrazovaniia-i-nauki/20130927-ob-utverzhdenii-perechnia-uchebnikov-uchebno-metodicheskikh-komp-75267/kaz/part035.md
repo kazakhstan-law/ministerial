@@ -1,11 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
+source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.05.2016
 ---
 
 ## Мектепке дейінгі тәрбие мен оқыту ұйымдарына арналған оқу әдебиеттерінің тізбесі
 
-> *Ескерту. 4-қосымша жаңа редакцияда - ҚР Білім және ғылым министрінің м.а. 08.01.2016 № 13 бұйрығымен (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі).*
+> *Ескерту. 4-қосымша жаңа редакцияда - ҚР Білім және ғылым министрінің м.а. 08.01.2016 № 13 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); өзгеріс енгізілді - ҚР Білім және ғылым министрінің 06.05.2016 № 309 (ресми жарияланған күнінен бастап қолданысқа енгізіледі) бұйрықтарымен.*
 
 <table>
 <tr>
@@ -14,11 +14,9 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Автор (лар)</td>
 <td>Шыққан жылы</td>
 <td>Баспа</td>
-<td></td>
 </tr>
 <tr>
-<td>&quot;Алғашқы қадам&quot; бағдарламасы бойынша бірінші сәбилер тобы (2+)</td>
-<td></td>
+<th>&quot;Алғашқы қадам&quot; бағдарламасы бойынша бірінші сәбилер тобы (2+)</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -30,7 +28,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>2.</td>
@@ -42,7 +39,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>3.</td>
@@ -53,7 +49,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>4.</td>
@@ -64,19 +59,17 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>5.</td>
 <td colspan="2">Музыка. Нота хрестоматиясы</td>
 <td>
 Ф. Қоңыратбай,
-Г.Абдрахманова,
+Г. Абдрахманова,
 Т. Сарыбаева
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>6.</td>
@@ -88,7 +81,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>7.</td>
@@ -100,7 +92,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>8.</td>
@@ -112,7 +103,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>9.</td>
@@ -124,7 +114,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>10.</td>
@@ -135,7 +124,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>11.</td>
@@ -146,7 +134,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>У. Смаилова</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>12.</td>
@@ -157,7 +144,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>13.</td>
@@ -169,7 +155,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>14.</td>
@@ -177,7 +162,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Ұ.Смаилова</td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>15.</td>
@@ -192,7 +176,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>16.</td>
@@ -207,7 +190,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>17.</td>
@@ -222,7 +204,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>18.</td>
@@ -236,7 +217,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>19.</td>
@@ -251,7 +231,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>20.</td>
@@ -264,7 +243,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2015</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>21.</td>
@@ -280,7 +258,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2015</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>22.</td>
@@ -292,18 +269,13 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>23.</td>
-<td colspan="2">
-Волшебная лужайка. День рождения. Набор для творчества.
-1-я ступень. Дидактический материал
-</td>
+<td colspan="2">Волшебная лужайка. День рождения. Набор для творчества. 1-я ступень. Дидактический материал</td>
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>24.</td>
@@ -314,14 +286,12 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="6">
 Балапанның дәптері
 2-3 жас
 </td>
-<td></td>
 </tr>
 <tr>
 <td>25.</td>
@@ -329,7 +299,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>26.</td>
@@ -337,7 +306,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>27.</td>
@@ -345,7 +313,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>28.</td>
@@ -353,7 +320,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>29.</td>
@@ -361,7 +327,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>30.</td>
@@ -369,7 +334,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>31.</td>
@@ -377,7 +341,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>32.</td>
@@ -385,7 +348,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>33.</td>
@@ -393,7 +355,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>34.</td>
@@ -401,7 +362,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>35.</td>
@@ -409,7 +369,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>36.</td>
@@ -417,7 +376,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>37.</td>
@@ -425,11 +383,9 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова Л.Сараева</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="6">2-5 жас</td>
-<td></td>
 </tr>
 <tr>
 <td>38.</td>
@@ -445,14 +401,9 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
-<td colspan="6">
-&quot;Зерек бала&quot; бағдарламасы бойынша
-екінші сәбилер тобы (3+)
-</td>
-<td></td>
+<td colspan="6">&quot;Зерек бала&quot; бағдарламасы бойынша екінші сәбилер тобы (3+)</td>
 </tr>
 <tr>
 <td>39.</td>
@@ -463,7 +414,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>40.</td>
@@ -474,7 +424,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>41.</td>
@@ -486,7 +435,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>42.</td>
@@ -497,7 +445,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>43.</td>
@@ -509,7 +456,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>44.</td>
@@ -520,7 +466,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>45.</td>
@@ -531,7 +476,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>46.</td>
@@ -542,7 +486,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>47.</td>
@@ -553,7 +496,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>48.</td>
@@ -564,7 +506,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>49.</td>
@@ -575,7 +516,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>50.</td>
@@ -586,7 +526,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>51.</td>
@@ -594,7 +533,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Б. Сейтқожина</td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>52.</td>
@@ -602,7 +540,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>О. Яковлева</td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>53.</td>
@@ -616,7 +553,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>54.</td>
@@ -630,7 +566,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>55.</td>
@@ -644,7 +579,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>56.</td>
@@ -655,7 +589,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>57.</td>
@@ -666,7 +599,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>К.Койбагарова</td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>58.</td>
@@ -680,7 +612,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>59.</td>
@@ -694,7 +625,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>60.</td>
@@ -708,7 +638,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>61.</td>
@@ -722,7 +651,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>62.</td>
@@ -733,28 +661,20 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>63.</td>
-<td colspan="2">
-Әлеуметтік орта. Әдістемелік құрал.
-3-4 жас
-</td>
+<td colspan="2">Әлеуметтік орта. Әдістемелік құрал. 3-4 жас</td>
 <td>
 Г. Жақанова,
 Ә.Нұралина
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>64.</td>
-<td colspan="2">
-Құрастыру. Әдістемелік құрал.
-3-4 жас
-</td>
+<td colspan="2">Құрастыру. Әдістемелік құрал. 3-4 жас</td>
 <td>
 Ж. Саятова,
 А. Қазыбаева,
@@ -762,21 +682,16 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>65.</td>
-<td colspan="2">
-Сурет салу. Әдістемелік құрал.
-3-4 жас
-</td>
+<td colspan="2">Сурет салу. Әдістемелік құрал. 3-4 жас</td>
 <td>
 Г. Жақанова,
-Қ.Еңсебаева
+Қ. Еңсебаева
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>66.</td>
@@ -787,7 +702,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>67.</td>
@@ -798,7 +712,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>68.</td>
@@ -810,14 +723,10 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>69.</td>
-<td colspan="2">
-Қарапайым математикалық түсініктерді қалыптастыру. Әдістемелік құрал.
-3-4 жас
-</td>
+<td colspan="2">Қарапайым математикалық түсініктерді қалыптастыру. Әдістемелік құрал. 3-4 жас</td>
 <td>
 Ж. Рахымбаева,
 Ж.Саятова,
@@ -825,7 +734,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>70.</td>
@@ -837,7 +745,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>71.</td>
@@ -851,7 +758,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>72.</td>
@@ -859,19 +765,16 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Батибаева С.</td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>73.</td>
 <td colspan="2">
-Қазақ тілі.
-Әдістемелік құрал.
+Қазақ тілі. Әдістемелік құрал.
 3-4 жас
 </td>
 <td>С.Шақабаева</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>74.</td>
@@ -882,7 +785,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Г.Абдрахимова</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>75.</td>
@@ -899,7 +801,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>76.</td>
@@ -910,7 +811,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Г. Абдрахимова</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>77.</td>
@@ -921,7 +821,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>78.</td>
@@ -935,7 +834,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>79.</td>
@@ -950,7 +848,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>80.</td>
@@ -965,7 +862,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>81.</td>
@@ -980,7 +876,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>82.</td>
@@ -991,7 +886,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Г.Абдрахимова</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>83.</td>
@@ -1003,7 +897,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Г. Абдрахимова</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>84.</td>
@@ -1018,7 +911,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>85.</td>
@@ -1026,7 +918,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>86.</td>
@@ -1037,7 +928,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>87.</td>
@@ -1045,11 +935,9 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С. Трофимова, Н.Мухамадиева</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="6">3-10 жас</td>
-<td></td>
 </tr>
 <tr>
 <td>88.</td>
@@ -1057,7 +945,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Е. Ибраев</td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>89.</td>
@@ -1065,7 +952,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Ф. Қоңыратбай</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>90.</td>
@@ -1077,7 +963,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>91.</td>
@@ -1085,7 +970,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Б. Төлегенова</td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>92.</td>
@@ -1097,7 +981,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Б. Төлегенова</td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>93.</td>
@@ -1108,7 +991,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Б. Төлегенова</td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>94.</td>
@@ -1119,7 +1001,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Б. Төлегенова</td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>95.</td>
@@ -1132,7 +1013,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>96.</td>
@@ -1145,7 +1025,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>97.</td>
@@ -1157,7 +1036,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>98.</td>
@@ -1169,7 +1047,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>99.</td>
@@ -1181,11 +1058,9 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="6">&quot;Зерек бала&quot; бағдарламасы бойынша ортаңғы топ (4+)</td>
-<td></td>
 </tr>
 <tr>
 <td>100.</td>
@@ -1199,7 +1074,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>101.</td>
@@ -1213,7 +1087,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>102.</td>
@@ -1224,7 +1097,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>103.</td>
@@ -1235,7 +1107,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>104.</td>
@@ -1246,7 +1117,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>105.</td>
@@ -1257,7 +1127,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>106.</td>
@@ -1268,7 +1137,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>107.</td>
@@ -1280,7 +1148,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>108.</td>
@@ -1292,7 +1159,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>109.</td>
@@ -1306,7 +1172,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>110.</td>
@@ -1317,7 +1182,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>111.</td>
@@ -1329,7 +1193,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>112.</td>
@@ -1341,7 +1204,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>113.</td>
@@ -1353,7 +1215,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>114.</td>
@@ -1368,7 +1229,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>115.</td>
@@ -1379,7 +1239,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>116.</td>
@@ -1390,7 +1249,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Б. Сейтқожина</td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>117.</td>
@@ -1402,7 +1260,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С. Мадалиева</td>
 <td>2013</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>118.</td>
@@ -1414,7 +1271,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>О. Яковлева</td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>119.</td>
@@ -1425,7 +1281,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>120.</td>
@@ -1436,7 +1291,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>121.</td>
@@ -1448,14 +1302,10 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>122.</td>
-<td colspan="2">
-Қарапайым математикалық түсініктерді қалыптастыру. Әдістемелік құрал.
-4-5 жас
-</td>
+<td colspan="2">Қарапайым математикалық түсініктерді қалыптастыру. Әдістемелік құрал. 4-5 жас</td>
 <td>
 Ж. Рахымбаева,
 Ж. Саятова,
@@ -1463,14 +1313,10 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>123.</td>
-<td colspan="2">
-Экология негіздері. Әдістемелік құрал.
-4-5 жас
-</td>
+<td colspan="2">Экология негіздері. Әдістемелік құрал. 4-5 жас</td>
 <td>
 Ж. Рахымбаева,
 Ж.Саятова,
@@ -1478,14 +1324,10 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>124.</td>
-<td colspan="2">
-Құрастыру. Әдістемелік құрал.
-4-5 жас
-</td>
+<td colspan="2">Құрастыру. Әдістемелік құрал. 4-5 жас</td>
 <td>
 Ж. Саятова,
 А. Қазыбаева,
@@ -1493,7 +1335,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>125.</td>
@@ -1504,7 +1345,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>126.</td>
@@ -1515,7 +1355,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>127.</td>
@@ -1529,7 +1368,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>128.</td>
@@ -1543,7 +1381,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>129.</td>
@@ -1554,21 +1391,16 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>130.</td>
-<td colspan="2">
-Әлеуметтік орта. Әдістемелік құрал
-4-5 жас
-</td>
+<td colspan="2">Әлеуметтік орта. Әдістемелік құрал 4-5 жас</td>
 <td>
 Г. Жақанова,
 Ә. Нұралина
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>131.</td>
@@ -1579,7 +1411,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>132.</td>
@@ -1590,7 +1421,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>133.</td>
@@ -1601,7 +1431,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>134.</td>
@@ -1615,7 +1444,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>135.</td>
@@ -1626,7 +1454,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>136.</td>
@@ -1634,7 +1461,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>137.</td>
@@ -1642,7 +1468,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>138.</td>
@@ -1650,7 +1475,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>139.</td>
@@ -1658,7 +1482,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>140.</td>
@@ -1666,7 +1489,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>141.</td>
@@ -1674,7 +1496,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>142.</td>
@@ -1682,7 +1503,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>143.</td>
@@ -1690,7 +1510,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>144.</td>
@@ -1698,7 +1517,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>145.</td>
@@ -1706,7 +1524,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>146.</td>
@@ -1714,7 +1531,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>147.</td>
@@ -1725,7 +1541,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>8 &amp; 8</td>
-<td></td>
 </tr>
 <tr>
 <td>148.</td>
@@ -1733,7 +1548,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Е. Өміртаева</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>149.</td>
@@ -1741,7 +1555,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Г. Абдрахимова</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>150.</td>
@@ -1749,7 +1562,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Г.Абдрахимова</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>151.</td>
@@ -1757,7 +1569,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Г.Абдрахимова</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>152.</td>
@@ -1768,7 +1579,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>153.</td>
@@ -1780,7 +1590,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>154.</td>
@@ -1794,7 +1603,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>155.</td>
@@ -1809,7 +1617,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>156.</td>
@@ -1820,7 +1627,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>157.</td>
@@ -1835,7 +1641,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>158.</td>
@@ -1846,7 +1651,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Е.Өміртаева</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>159.</td>
@@ -1857,18 +1661,16 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2016</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>160.</td>
-<td colspan="2">Тіл дамыту.Жұмыс дәптері</td>
+<td colspan="2">Тіл дамыту. Жұмыс дәптері</td>
 <td>
 К.Беркінғалиева,
 Г.Абдрахимова
 </td>
 <td>2016</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>161.</td>
@@ -1879,7 +1681,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2016</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>162.</td>
@@ -1890,7 +1691,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2016</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>163.</td>
@@ -1902,7 +1702,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>164.</td>
@@ -1910,7 +1709,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>165.</td>
@@ -1922,14 +1720,12 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="6">
 &quot;Біз мектепке барамыз&quot;
 бағдарламасы бойынша ересектер тобы (5+)
 </td>
-<td></td>
 </tr>
 <tr>
 <td>166.</td>
@@ -1943,7 +1739,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>167.</td>
@@ -1957,7 +1752,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>168.</td>
@@ -1972,7 +1766,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>169.</td>
@@ -1983,7 +1776,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Г. Абдрахимова</td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>170.</td>
@@ -2003,7 +1795,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>171.</td>
@@ -2017,7 +1808,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>172.</td>
@@ -2031,7 +1821,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>173.</td>
@@ -2045,7 +1834,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>174.</td>
@@ -2055,11 +1843,10 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>
 Г. Абдрахимова,
-К.Беркінғалиева
+К. Беркінғалиева
 </td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>175.</td>
@@ -2070,7 +1857,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>176.</td>
@@ -2084,7 +1870,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>177.</td>
@@ -2098,7 +1883,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>178.</td>
@@ -2109,7 +1893,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>179.</td>
@@ -2120,7 +1903,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>180.</td>
@@ -2131,7 +1913,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>181.</td>
@@ -2142,7 +1923,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Г.Корчевская</td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>182.</td>
@@ -2153,7 +1933,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Т. Дрыгина</td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>183.</td>
@@ -2164,7 +1943,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С. Шелипова</td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>184.</td>
@@ -2172,7 +1950,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С. Шелипова</td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>185.</td>
@@ -2183,7 +1960,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Т. Дрыгина</td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>186.</td>
@@ -2194,7 +1970,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Т. Дрыгина</td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>187.</td>
@@ -2202,7 +1977,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Н. Борисова</td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>188.</td>
@@ -2213,7 +1987,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Н. Борисова</td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>189.</td>
@@ -2224,7 +1997,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>190.</td>
@@ -2238,7 +2010,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>191.</td>
@@ -2249,7 +2020,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>192.</td>
@@ -2260,7 +2030,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>193.</td>
@@ -2274,7 +2043,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>194.</td>
@@ -2288,7 +2056,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>195.</td>
@@ -2299,7 +2066,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>196.</td>
@@ -2311,7 +2077,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>197.</td>
@@ -2323,7 +2088,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>198.</td>
@@ -2338,7 +2102,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>199.</td>
@@ -2350,7 +2113,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>200.</td>
@@ -2365,7 +2127,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>201.</td>
@@ -2379,7 +2140,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>202.</td>
@@ -2390,7 +2150,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>203.</td>
@@ -2401,7 +2160,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>204.</td>
@@ -2412,7 +2170,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>205.</td>
@@ -2423,7 +2180,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>206.</td>
@@ -2434,7 +2190,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>207.</td>
@@ -2446,7 +2201,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>ӘлНаир</td>
-<td></td>
 </tr>
 <tr>
 <td>208.</td>
@@ -2454,7 +2208,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С. Шақабаева</td>
 <td>2013</td>
 <td>ӘлНаир</td>
-<td></td>
 </tr>
 <tr>
 <td>209.</td>
@@ -2467,7 +2220,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С. Мадалиева</td>
 <td>2013</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>210.</td>
@@ -2479,7 +2231,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С. Мадалиева</td>
 <td>2013</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>211.</td>
@@ -2490,7 +2241,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>С. Мадалиева</td>
 <td>2013</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>212.</td>
@@ -2501,7 +2251,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>213.</td>
@@ -2515,7 +2264,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>214.</td>
@@ -2526,7 +2274,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>215.</td>
@@ -2534,7 +2281,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 <td>Ф. Қоңыратбай</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>216.</td>
@@ -2545,7 +2291,6 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.04.2016
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>217.</td>
@@ -2559,7 +2304,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>218.</td>
@@ -2573,7 +2317,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>219.</td>
@@ -2587,7 +2330,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>220.</td>
@@ -2601,7 +2343,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>221.</td>
@@ -2612,7 +2353,6 @@ English.
 <td>С.Сағиева</td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>222.</td>
@@ -2624,7 +2364,6 @@ English.
 </td>
 <td>2014</td>
 <td>Арман –ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>223.</td>
@@ -2638,7 +2377,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>224.</td>
@@ -2649,7 +2387,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>225.</td>
@@ -2660,7 +2397,6 @@ English.
 </td>
 <td>2014</td>
 <td>Арман –ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>226.</td>
@@ -2668,7 +2404,6 @@ English.
 <td>Т.Дрыгина</td>
 <td>2014</td>
 <td>Арман –ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>227.</td>
@@ -2680,7 +2415,6 @@ English.
 </td>
 <td>2014</td>
 <td>Арман –ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>228.</td>
@@ -2688,7 +2422,6 @@ English.
 <td>Н.Амирова</td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>229.</td>
@@ -2702,7 +2435,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>230.</td>
@@ -2716,7 +2448,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>231.</td>
@@ -2727,7 +2458,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>232.</td>
@@ -2738,7 +2468,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>233.</td>
@@ -2751,7 +2480,6 @@ English.
 </td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>234.</td>
@@ -2764,7 +2492,6 @@ English.
 </td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>235.</td>
@@ -2772,7 +2499,6 @@ English.
 <td>С. Сағиева</td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>236.</td>
@@ -2786,7 +2512,6 @@ English.
 </td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>237.</td>
@@ -2794,7 +2519,6 @@ English.
 <td>С. Сағиева</td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>238.</td>
@@ -2806,7 +2530,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>239.</td>
@@ -2818,7 +2541,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>240.</td>
@@ -2829,7 +2551,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>241.</td>
@@ -2840,7 +2561,6 @@ English.
 </td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>242.</td>
@@ -2848,18 +2568,13 @@ English.
 <td>Э. Қыдырова, С. Мадалиева</td>
 <td>2016</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>243.</td>
-<td colspan="2">
-&quot;Сиқырлы қолдар&quot; 5-тен 6 (7) жасқа дейінгі балаларға арналған қол еңбегі және құрастырулар. &quot;Волшебные ручки &quot; Ручной труд и конструирование
-для детей от 5 до 6 (7) лет
-</td>
+<td colspan="2">&quot;Сиқырлы қолдар&quot; 5-тен 6 (7) жасқа дейінгі балаларға арналған қол еңбегі және құрастырулар. &quot;Волшебные ручки &quot; Ручной труд и конструирование для детей от 5 до 6 (7) лет</td>
 <td>С.Мадалиева</td>
 <td>2016</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>244.</td>
@@ -2867,7 +2582,6 @@ English.
 <td>С.Мадалиева</td>
 <td>2016</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>245.</td>
@@ -2875,7 +2589,6 @@ English.
 <td>С.Мадалиева</td>
 <td>2016</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>246.</td>
@@ -2883,7 +2596,6 @@ English.
 <td>С.Мадалиева</td>
 <td>2016</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>247.</td>
@@ -2891,7 +2603,6 @@ English.
 <td>С.Мадалиева</td>
 <td>2016</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>248.</td>
@@ -2899,7 +2610,6 @@ English.
 <td>С.Мадалиева</td>
 <td>2016</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>249.</td>
@@ -2907,7 +2617,6 @@ English.
 <td>С.Мадалиева</td>
 <td>2016</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>250.</td>
@@ -2915,7 +2624,6 @@ English.
 <td>С.Мадалиева</td>
 <td>2016</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>251.</td>
@@ -2926,7 +2634,6 @@ English.
 </td>
 <td>2016</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>252.</td>
@@ -2934,11 +2641,9 @@ English.
 <td>Е. Ибраев</td>
 <td>2016</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="6">Балапанның дәптері. &quot;Жақында мектепке барамын&quot; 5+</td>
-<td></td>
 </tr>
 <tr>
 <td>253.</td>
@@ -2946,7 +2651,6 @@ English.
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>254.</td>
@@ -2954,7 +2658,6 @@ English.
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>255.</td>
@@ -2962,7 +2665,6 @@ English.
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>256.</td>
@@ -2970,7 +2672,6 @@ English.
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>257.</td>
@@ -2978,7 +2679,6 @@ English.
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>258.</td>
@@ -2989,7 +2689,6 @@ English.
 </td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>259.</td>
@@ -2997,7 +2696,6 @@ English.
 <td>С. Трофимова.</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>260.</td>
@@ -3005,7 +2703,6 @@ English.
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>261.</td>
@@ -3013,7 +2710,6 @@ English.
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>262.</td>
@@ -3021,11 +2717,9 @@ English.
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="6">Мектеп алды даярлық топтар мен сыныптарға арналған басылымдар</td>
-<td></td>
 </tr>
 <tr>
 <td>263.</td>
@@ -3039,7 +2733,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>264.</td>
@@ -3050,7 +2743,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>265.</td>
@@ -3061,7 +2753,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>266.</td>
@@ -3072,7 +2763,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>267.</td>
@@ -3083,7 +2773,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>268.</td>
@@ -3097,7 +2786,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>269.</td>
@@ -3108,7 +2796,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>270.</td>
@@ -3119,7 +2806,6 @@ English.
 <td>С. Бәтібаева,</td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>271.</td>
@@ -3133,21 +2819,16 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>272.</td>
-<td colspan="2">
-Жапсыру.
-Әліппе-альбом
-</td>
+<td colspan="2">Жапсыру. Әліппе-альбом</td>
 <td>
 С. Шапкина,
 Н. Королькова
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>273.</td>
@@ -3155,7 +2836,6 @@ English.
 <td>А. Манкеш, Г.Қиялбекова</td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>274.</td>
@@ -3166,18 +2846,16 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>275.</td>
 <td colspan="2">Қоршаған ортамен таныстыру, экология негіздері.Әдістемелік нұсқау</td>
 <td>
 А. Манкеш,
-Г.Қиялбекова
+Г. Қиялбекова
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>276.</td>
@@ -3191,18 +2869,13 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>277.</td>
-<td colspan="2">
-Дене шынықтыру.
-Әдістемелік құрал
-</td>
+<td colspan="2">Дене шынықтыру. Әдістемелік құрал</td>
 <td>С. Бәтібаева</td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>278.</td>
@@ -3213,21 +2886,16 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>279.</td>
-<td colspan="2">
-Мүсіндеу.
-Әліппе-альбом
-</td>
+<td colspan="2">Мүсіндеу. Әліппе-альбом</td>
 <td>
 С. Шапкина,
 Н. Королькова
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>280.</td>
@@ -3238,32 +2906,23 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>281.</td>
-<td colspan="2">
-Жапсыру.
-Әдістемелік құрал
-</td>
+<td colspan="2">Жапсыру. Әдістемелік құрал</td>
 <td>
 А.Оналбаева,
-Н.Королькова
+Н. Королькова
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>282.</td>
-<td colspan="2">
-Сауат ашу және жазу негіздері.
-№ 1,№2 әліппе-дәптерлер
-</td>
+<td colspan="2">Сауат ашу және жазу негіздері. № 1, №2 әліппе-дәптерлер</td>
 <td>Ә. Әмірова</td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>283.</td>
@@ -3271,21 +2930,16 @@ English.
 <td>Ә. Әмірова</td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>284.</td>
-<td colspan="2">
-Тіл дамыту.
-Әліппе-дәптер
-</td>
+<td colspan="2">Тіл дамыту. Әліппе-дәптер</td>
 <td>
 Ә. Әмірова,
 К.Анартаева
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>285.</td>
@@ -3294,12 +2948,11 @@ English.
 Әдістемелік құрал
 </td>
 <td>
-Ә.Әмірова,
+Ә. Әмірова,
 К. Анартаева
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>286.</td>
@@ -3310,7 +2963,6 @@ English.
 <td>Ә. Әмірова</td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>287.</td>
@@ -3321,18 +2973,16 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>288.</td>
 <td colspan="2">Балапанның дәптері. Математикалық жазу – 5-7 жасқа дейінгі балаларға. Жұмыс дәптері</td>
 <td>
 С.Трофимова (аударған
-С.Иманқұлова)
+С. Иманқұлова)
 </td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>289.</td>
@@ -3343,27 +2993,20 @@ English.
 </td>
 <td>2016</td>
 <td>8&amp;</td>
-<td></td>
 </tr>
 <tr>
 <td>290.</td>
-<td colspan="2">Математика. Сандар. Белгілер. Геометриялық фигуралар / Цифры. Знаки. Геометрические фигуры. Набор карточек (34 карточки).Дидактический материал</td>
+<td colspan="2">Математика. Сандар. Белгілер. Геометриялық фигуралар / Цифры. Знаки. Геометрические фигуры. Набор карточек (34 карточки). Дидактический материал</td>
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>291.</td>
 <td colspan="2">Кел, ойнайық. Математикадан тілінбелі дидактикалық материал/Поиграй-ка. Разрезной дидактический материал по математике</td>
-<td>
-С. Трофимова
-(аударған
-Б.Дәулетбаева)
-</td>
+<td>С. Трофимова (аударған Б. Дәулетбаева)</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>292.</td>
@@ -3371,60 +3014,55 @@ English.
 <td>С. Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>293.</td>
 <td colspan="2">Тіл дамыту</td>
 <td>
-Ғ.Оспанова,
-С.Аскатова,
-Ж.Омарова
+Ғ. Оспанова,
+С. Аскатова,
+Ж. Омарова
 </td>
 <td>2016</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>294.</td>
 <td colspan="2">Сауат ашу және жазу негіздері. Әдістемелік құрал</td>
-<td>Г.Бектурганова, Ғ.Оспанова, С.Джамбулатова</td>
+<td>
+Г. Бектурганова,
+Ғ. Оспанова,
+С. Джамбулатова
+</td>
 <td>2016</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>295.</td>
 <td colspan="2">Сауат ашу және жазу негіздері. Жұмыс дәптері</td>
 <td>
-Ә.Сапарғалиева,
-Н.Нам
+Ә. Сапарғалиева,
+Н. Нам
 </td>
 <td>2016</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>296.</td>
 <td colspan="2">Сауат ашу және жазу негіздері. Дидактикалық материалдар</td>
 <td>
 Ә.Сапарғалиева,
-Н.Нам
+Н. Нам
 </td>
 <td>2016</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>297.</td>
-<td colspan="2">
-Валеология.
-Әдістемелік құрал
-</td>
+<td colspan="2">Валеология. Әдістемелік құрал</td>
 <td>С.Шелипова</td>
 <td>2016</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>298.</td>
@@ -3432,7 +3070,6 @@ English.
 <td>С.Шелипова</td>
 <td>2016</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>299.</td>
@@ -3440,7 +3077,6 @@ English.
 <td>Л. Мельникова</td>
 <td>2015</td>
 <td>SanSam</td>
-<td></td>
 </tr>
 <tr>
 <td>300.</td>
@@ -3452,7 +3088,6 @@ English.
 </td>
 <td>2015</td>
 <td>Дәуір-кітап</td>
-<td></td>
 </tr>
 <tr>
 <td>301.</td>
@@ -3463,7 +3098,6 @@ English.
 </td>
 <td>2015</td>
 <td>Дәуір-кітап</td>
-<td></td>
 </tr>
 <tr>
 <td>302.</td>
@@ -3474,11 +3108,9 @@ English.
 </td>
 <td>2015</td>
 <td>Дәуір-кітап</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="6">Балапанның дәптері &quot;Жақында мектепке барамын&quot; 6+</td>
-<td></td>
 </tr>
 <tr>
 <td>303.</td>
@@ -3486,7 +3118,6 @@ English.
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>304.</td>
@@ -3494,7 +3125,6 @@ English.
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>305.</td>
@@ -3502,7 +3132,6 @@ English.
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>306.</td>
@@ -3510,7 +3139,6 @@ English.
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>307.</td>
@@ -3518,7 +3146,6 @@ English.
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>308.</td>
@@ -3526,7 +3153,6 @@ English.
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>309.</td>
@@ -3537,7 +3163,6 @@ English.
 </td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>310.</td>
@@ -3545,7 +3170,6 @@ English.
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>311.</td>
@@ -3553,7 +3177,6 @@ English.
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td>312.</td>
@@ -3561,15 +3184,12 @@ English.
 <td>С.Трофимова</td>
 <td>2016</td>
 <td>8&amp;8</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="6">
 Оқыту орыс тілде
-&quot;Алғашқы қадам&quot; бағдарламасы бойынша бірінші сәбилер тобы (2+)
-2-3 жас
+&quot;Алғашқы қадам&quot; бағдарламасы бойынша бірінші сәбилер тобы (2+) 2-3 жас
 </td>
-<td></td>
 </tr>
 <tr>
 <td>313.</td>
@@ -3581,7 +3201,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>314.</td>
@@ -3593,7 +3212,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>315.</td>
@@ -3605,7 +3223,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>316.</td>
@@ -3616,7 +3233,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>317.</td>
@@ -3627,7 +3243,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>318.</td>
@@ -3638,7 +3253,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>319.</td>
@@ -3649,7 +3263,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>320.</td>
@@ -3657,7 +3270,6 @@ English.
 <td>Юркова Е.</td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>321.</td>
@@ -3665,7 +3277,6 @@ English.
 <td>Жумабекова Ф., Ойшыбаева А.</td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>322.</td>
@@ -3676,7 +3287,6 @@ English.
 <td>Шумаева Т., Омарбекова Ф.</td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>323.</td>
@@ -3687,7 +3297,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>324.</td>
@@ -3699,7 +3308,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>325.</td>
@@ -3710,7 +3318,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>326.</td>
@@ -3721,7 +3328,6 @@ English.
 </td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>327.</td>
@@ -3734,7 +3340,6 @@ English.
 </td>
 <td>2015</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>328.</td>
@@ -3747,7 +3352,6 @@ English.
 </td>
 <td>2015</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>329.</td>
@@ -3763,7 +3367,6 @@ English.
 </td>
 <td>2015</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>330.</td>
@@ -3779,7 +3382,6 @@ English.
 </td>
 <td>2015</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>331.</td>
@@ -3795,7 +3397,6 @@ English.
 </td>
 <td>2015</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>332.</td>
@@ -3811,7 +3412,6 @@ English.
 </td>
 <td>2015</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>333.</td>
@@ -3827,7 +3427,6 @@ English.
 </td>
 <td>2015</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>334.</td>
@@ -3843,7 +3442,6 @@ English.
 </td>
 <td>2015</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>335.</td>
@@ -3856,7 +3454,6 @@ English.
 </td>
 <td>2015</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>336.</td>
@@ -3872,7 +3469,6 @@ English.
 </td>
 <td>2015</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>337.</td>
@@ -3887,7 +3483,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>338.</td>
@@ -3901,7 +3496,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>339.</td>
@@ -3913,7 +3507,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="6">
@@ -3921,7 +3514,6 @@ English.
 екінші сәбилер тобы (3+)
 3-4 жас
 </td>
-<td></td>
 </tr>
 <tr>
 <td>340.</td>
@@ -3937,7 +3529,6 @@ English.
 </td>
 <td>2013</td>
 <td>ӘлНаир</td>
-<td></td>
 </tr>
 <tr>
 <td>341.</td>
@@ -3948,7 +3539,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>342.</td>
@@ -3959,7 +3549,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>343.</td>
@@ -3970,7 +3559,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>344.</td>
@@ -3981,7 +3569,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>345.</td>
@@ -3992,7 +3579,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>346.</td>
@@ -4003,7 +3589,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>347.</td>
@@ -4014,7 +3599,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>348.</td>
@@ -4025,7 +3609,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>349.</td>
@@ -4036,7 +3619,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>350.</td>
@@ -4044,7 +3626,6 @@ English.
 <td>Г. Жүргенбаева,</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>351.</td>
@@ -4055,7 +3636,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>352.</td>
@@ -4063,7 +3643,6 @@ English.
 <td>Г. Жүргенбаева</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>353.</td>
@@ -4077,7 +3656,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>354.</td>
@@ -4088,7 +3666,6 @@ English.
 </td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>355.</td>
@@ -4103,7 +3680,6 @@ English.
 </td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>356.</td>
@@ -4118,7 +3694,6 @@ English.
 </td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>357.</td>
@@ -4129,7 +3704,6 @@ English.
 <td>Омар Б.</td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>358.</td>
@@ -4141,7 +3715,6 @@ English.
 </td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>359.</td>
@@ -4152,7 +3725,6 @@ English.
 </td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>360.</td>
@@ -4163,7 +3735,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>361.</td>
@@ -4174,7 +3745,6 @@ English.
 <td>Муханова У., Прмагамбетова А.</td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>362.</td>
@@ -4185,7 +3755,6 @@ English.
 <td>Муханова У., Прмагамбетова А.</td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>363.</td>
@@ -4196,7 +3765,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>364.</td>
@@ -4204,7 +3772,6 @@ English.
 <td>Терехова Е.</td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>365.</td>
@@ -4212,7 +3779,6 @@ English.
 <td>Терехова Е.</td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>366.</td>
@@ -4220,7 +3786,6 @@ English.
 <td>Терехова Е.</td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>367.</td>
@@ -4234,7 +3799,6 @@ English.
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>368.</td>
@@ -4248,7 +3812,6 @@ English.
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>369.</td>
@@ -4263,7 +3826,6 @@ English.
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>370.</td>
@@ -4278,7 +3840,6 @@ English.
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>371.</td>
@@ -4290,7 +3851,6 @@ English.
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>372.</td>
@@ -4302,7 +3862,6 @@ English.
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>373.</td>
@@ -4316,7 +3875,6 @@ English.
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>374.</td>
@@ -4331,7 +3889,6 @@ English.
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>375.</td>
@@ -4346,7 +3903,6 @@ English.
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>376.</td>
@@ -4357,7 +3913,6 @@ English.
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>377.</td>
@@ -4368,7 +3923,6 @@ English.
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>378.</td>
@@ -4379,7 +3933,6 @@ English.
 <td>Корчевская Г.</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>379.</td>
@@ -4391,7 +3944,6 @@ English.
 <td>Корчевская Г.</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>380.</td>
@@ -4399,7 +3951,6 @@ English.
 <td>Жакешова А., Баубекова Ж., Каугабаева Б., Супергиева Н.</td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>381.</td>
@@ -4407,7 +3958,6 @@ English.
 <td>Жакешова А., Баубекова Ж., Каугабаева Б., Супергиева Н.</td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>382.</td>
@@ -4415,7 +3965,6 @@ English.
 <td>Жакешова А., Баубекова Ж., Каугабаева Б., Супергиева Н.</td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>383.</td>
@@ -4426,7 +3975,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>384.</td>
@@ -4437,7 +3985,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>385.</td>
@@ -4448,7 +3995,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>386.</td>
@@ -4459,7 +4005,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>387.</td>
@@ -4470,7 +4015,6 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>388.</td>
@@ -4481,14 +4025,12 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="6">
 &quot;Зерек бала&quot; бағдарламасы бойынша ортаңғы топ (4+)
 3-10 жас
 </td>
-<td></td>
 </tr>
 <tr>
 <td>389.</td>
@@ -4499,7 +4041,6 @@ English.
 <td>С. Каирденов</td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>390.</td>
@@ -4511,7 +4052,6 @@ English.
 </td>
 <td>2013</td>
 <td>Шикула и К</td>
-<td></td>
 </tr>
 <tr>
 <td>391.</td>
@@ -4522,11 +4062,9 @@ English.
 </td>
 <td>2016</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="6">4-5 жас</td>
-<td></td>
 </tr>
 <tr>
 <td>392.</td>
@@ -4542,7 +4080,6 @@ English.
 </td>
 <td>2013</td>
 <td>ӘлНаир</td>
-<td></td>
 </tr>
 <tr>
 <td>393.</td>
@@ -4553,7 +4090,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>394.</td>
@@ -4567,7 +4103,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>395.</td>
@@ -4581,7 +4116,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>396.</td>
@@ -4592,7 +4126,6 @@ English.
 <td>К. Кумарова</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>397.</td>
@@ -4603,7 +4136,6 @@ English.
 <td>К. Кумарова</td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>398.</td>
@@ -4614,7 +4146,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>399.</td>
@@ -4629,7 +4160,6 @@ English.
 </td>
 <td>2013</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>400.</td>
@@ -4640,7 +4170,6 @@ English.
 </td>
 <td>2013</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>401.</td>
@@ -4651,7 +4180,6 @@ English.
 <td>Жумабекова Ф., Ойшыбаева А.</td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>402.</td>
@@ -4662,7 +4190,6 @@ English.
 <td>Жумабекова Ф., Ойшыбаева А.</td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>403.</td>
@@ -4676,7 +4203,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>404.</td>
@@ -4690,7 +4216,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>405.</td>
@@ -4698,7 +4223,6 @@ English.
 <td>Юркова Е.</td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>406.</td>
@@ -4709,7 +4233,6 @@ English.
 <td>Терехова Е.</td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>407.</td>
@@ -4723,7 +4246,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>408.</td>
@@ -4734,7 +4256,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>409.</td>
@@ -4748,7 +4269,6 @@ English.
 </td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>410.</td>
@@ -4756,7 +4276,6 @@ English.
 <td>Ильяшева К.</td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>411.</td>
@@ -4764,7 +4283,6 @@ English.
 <td>Ильяшева К.</td>
 <td>2014</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>412.</td>
@@ -4772,7 +4290,6 @@ English.
 <td>Новогренко Г.</td>
 <td>2014</td>
 <td>Келешек-2030</td>
-<td></td>
 </tr>
 <tr>
 <td>413.</td>
@@ -4786,7 +4303,6 @@ English.
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>414.</td>
@@ -4794,7 +4310,6 @@ English.
 <td>Дрыгина Т.</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>415.</td>
@@ -4808,7 +4323,6 @@ English.
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>416.</td>
@@ -4819,7 +4333,6 @@ English.
 <td>Дрыгина Т.</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>417.</td>
@@ -4834,7 +4347,6 @@ English.
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>418.</td>
@@ -4845,7 +4357,6 @@ English.
 <td>Жанаева Ж.</td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>419.</td>
@@ -4856,7 +4367,6 @@ English.
 </td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>420.</td>
@@ -4867,7 +4377,6 @@ English.
 </td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>421.</td>
@@ -4880,7 +4389,6 @@ English.
 </td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>422.</td>
@@ -4893,7 +4401,6 @@ English.
 </td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>423.</td>
@@ -4905,7 +4412,6 @@ English.
 </td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>424.</td>
@@ -4916,7 +4422,6 @@ English.
 </td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>425.</td>
@@ -4924,7 +4429,6 @@ English.
 <td>Ильяшева К.</td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>426.</td>
@@ -4932,7 +4436,6 @@ English.
 <td>Радзиевская Л.</td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>427.</td>
@@ -4943,7 +4446,6 @@ English.
 </td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>428.</td>
@@ -4951,7 +4453,6 @@ English.
 <td>Радзиевская Л.</td>
 <td>2015</td>
 <td>Алматыкітап</td>
-<td></td>
 </tr>
 <tr>
 <td>429.</td>
@@ -4959,7 +4460,6 @@ English.
 <td>Абдрахимова Г.</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>430.</td>
@@ -4967,7 +4467,6 @@ English.
 <td>Корчевская Г.</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>431.</td>
@@ -4979,7 +4478,6 @@ English.
 <td>Корчевская Г.</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>432.</td>
@@ -4990,7 +4488,6 @@ English.
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>433.</td>
@@ -5001,7 +4498,6 @@ English.
 <td>Королева Н.</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>434.</td>
@@ -5012,7 +4508,6 @@ English.
 <td>Королева Н.</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>435.</td>
@@ -5023,7 +4518,6 @@ English.
 <td>Королева Н.</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>436.</td>
@@ -5034,7 +4528,6 @@ English.
 <td>Королева Н.</td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
 </tr>
 <tr>
 <td>437.</td>
@@ -5046,6 +4539,174 @@ English.
 </td>
 <td>2015</td>
 <td>Арман-ПВ</td>
-<td></td>
+</tr>
+<tr>
+<td>438.</td>
+<td colspan="2">Основы экологии. Методическое пособие. 4-5 лет</td>
+<td>Дрыгина Т.</td>
+<td>2015</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>439.</td>
+<td colspan="2">
+Основы экологии. Рабочая тетрадь.
+4-5 лет
+</td>
+<td>Дрыгина Т.</td>
+<td>2015</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>440.</td>
+<td colspan="2">Рисование. Методическое пособие. 4-5 лет</td>
+<td>
+Жаканова Г.,
+Енсебаева К.
+</td>
+<td>2015</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>441.</td>
+<td colspan="2">Аппликация. Методическое пособие. 4-5 лет</td>
+<td>
+Жаканова Г.,
+Енсебаева К.
+</td>
+<td>2015</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>442.</td>
+<td colspan="2">Конструирование. Методическое пособие. 4-5 лет</td>
+<td>
+Саятова Ж.,
+Казыбаева А.,
+Рахымбаева Ж.
+</td>
+<td>2015</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>443.</td>
+<td colspan="2">
+Конструирование.
+Дидактические материалы(каз,рус).
+4-5 лет
+</td>
+<td>
+Саятова Ж.,
+Қазыбаева А.,
+Рахымбаева Ж.
+</td>
+<td>2015</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>444.</td>
+<td colspan="2">
+Лепка.
+Методическое пособие. 4-5 лет
+</td>
+<td>
+Жаканова Г.,
+Енсебаева К.
+</td>
+<td>2015</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td colspan="6">
+&quot;Біз мектепке барамыз&quot;
+бағдарламасы бойынша ересектер тобы (5+)
+5-6 жас
+</td>
+</tr>
+<tr>
+<td>445.</td>
+<td colspan="2">1. Музыкально-дидактические игры. Дидактические материалы. 5-6 лет</td>
+<td>
+Корчевская Г.,
+Гончарова Т.
+</td>
+<td>2013</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>446.</td>
+<td colspan="2">2. Развитие речи. Методическое пособие. 5-6 лет</td>
+<td>Дрыгина Т.</td>
+<td>2013</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>447.</td>
+<td colspan="2">3. Основы грамоты и письма. Рабочая тетрадь</td>
+<td>Дрыгина Т.</td>
+<td>2013</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>448.</td>
+<td colspan="2">4. Ознакомление с окружающим миром. Рабочая тетрадь</td>
+<td>Дрыгина Т.</td>
+<td>2013</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>449.</td>
+<td colspan="2">5. Валеология. Методическое пособие. 5-6 лет</td>
+<td>Шелипова С.</td>
+<td>2013</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>450.</td>
+<td colspan="2">6. Валеология. Рабочая тетрадь. 5-6 лет</td>
+<td>Шелипова С.</td>
+<td>2013</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>451.</td>
+<td colspan="2">7. Экология. Рабочая тетрадь</td>
+<td>Дрыгина Т.</td>
+<td>2013</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>452.</td>
+<td colspan="2">8. Музыка. Дидактические материалы</td>
+<td>Корчевская Г.</td>
+<td>2013</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>453.</td>
+<td colspan="2">9. Конструирование. Методическое пособие</td>
+<td>
+Аубакирова Р.
+Абремская И.
+</td>
+<td>2013</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>454.</td>
+<td colspan="2">10. Конструирование. Рабочая тетрадь</td>
+<td>
+Аубакирова Р.
+Абремская И.
+</td>
+<td>2013</td>
+<td>Арман-ПВ</td>
+</tr>
+<tr>
+<td>455.</td>
+<td colspan="2">11. Социум. Методическое пособие</td>
+<td>Борисова Н.</td>
+<td>2013</td>
+<td>Арман-ПВ</td>
 </tr>
 </table>
