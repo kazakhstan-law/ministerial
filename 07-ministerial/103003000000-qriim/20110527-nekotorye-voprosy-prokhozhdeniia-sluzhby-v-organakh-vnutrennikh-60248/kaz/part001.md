@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/60248/kaz/21.04.2016
+source: https://zan.gov.kz/client/#!/doc/60248/kaz/13.05.2016
 ---
 
 ## Ішкі істер органдарына қызметке үміткерлерді іріктеу және зерделеу жөніндегі нұсқаулық
