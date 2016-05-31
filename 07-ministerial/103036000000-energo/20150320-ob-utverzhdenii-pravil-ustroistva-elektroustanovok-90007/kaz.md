@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/90007/kaz/20.03.2015
+source: https://zan.gov.kz/client/#!/doc/90007/kaz/31.05.2016
 ---
 
 # Электр қондырғыларын орнату қағидаларын бекіту туралы

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/90007/rus/20.03.2015
+source: https://zan.gov.kz/client/#!/doc/90007/rus/31.05.2016
 ---
 
 # Об утверждении Правил устройства электроустановок
