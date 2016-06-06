@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/93502/kaz/29.02.2016
+source: https://zan.gov.kz/client/#!/doc/93502/kaz/06.06.2016
 ---
 
 ## Медициналық мақсаттағы бұйымдардың тізімі

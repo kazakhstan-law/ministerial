@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/93502/rus/29.02.2016
+source: https://zan.gov.kz/client/#!/doc/93502/rus/06.06.2016
 ---
 
 ## Список изделий медицинского назначения
