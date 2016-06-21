@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/86279/kaz/28.04.2015
+source: https://zan.gov.kz/client/#!/doc/86279/kaz/21.06.2016
 ---
 
 ## 10. Табыстардың, валюталардың, халықаралық келісімдер түрлерінің кодтары
