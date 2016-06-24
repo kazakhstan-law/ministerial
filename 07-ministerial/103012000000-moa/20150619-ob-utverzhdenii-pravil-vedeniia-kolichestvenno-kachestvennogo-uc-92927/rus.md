@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/92927/rus/19.06.2015
+source: https://zan.gov.kz/client/#!/doc/92927/rus/24.06.2016
 ---
 
 
@@ -41,4 +41,4 @@ source: https://zan.gov.kz/client/#!/doc/92927/rus/19.06.2015
 | Часть | Название |
 |---|---|
 | [`an000`](rus/an000.md) | Правила ведения количественно-качественного учета зерна |
-| [`an010`](rus/an010.md) | an010 |
+| [`an009`](rus/an009.md) | an009 |
