@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69469/rus/30.03.2016
+source: https://zan.gov.kz/client/#!/doc/69469/rus/07.07.2016
 ---
 
 ## Типовой учебный план начального образования с казахским языком обучения

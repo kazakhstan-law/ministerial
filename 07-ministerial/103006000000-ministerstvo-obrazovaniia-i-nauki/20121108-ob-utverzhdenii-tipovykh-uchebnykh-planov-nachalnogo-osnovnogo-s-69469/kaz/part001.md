@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69469/kaz/30.03.2016
+source: https://zan.gov.kz/client/#!/doc/69469/kaz/07.07.2016
 ---
 
 ## Оқыту қазақ тілінде жүргізілетін бастауыш білім берудің үлгілік оқу жоспары
