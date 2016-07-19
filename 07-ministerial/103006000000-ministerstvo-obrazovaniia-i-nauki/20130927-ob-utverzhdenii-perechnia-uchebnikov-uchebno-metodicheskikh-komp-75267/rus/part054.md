@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/75267/rus/06.05.2016
+source: https://zan.gov.kz/client/#!/doc/75267/rus/19.07.2016
 ---
 
 ## Предметы на английском языке
@@ -6709,10 +6709,7 @@ The Man in the Iron Mask
 </tr>
 <tr>
 <td>69.</td>
-<td>
-Дене шынықтыру.
-Әдістемелік құрал. 1,2 бөлім
-</td>
+<td>Дене шынықтыру. Әдістемелік құрал. 1,2 бөлім</td>
 <td>
 К. Жахин,
 Е. Юркова

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/75267/kaz/06.05.2016
+source: https://zan.gov.kz/client/#!/doc/75267/kaz/19.07.2016
 ---
 
 ## Ұйғыр тілінде оқыту
