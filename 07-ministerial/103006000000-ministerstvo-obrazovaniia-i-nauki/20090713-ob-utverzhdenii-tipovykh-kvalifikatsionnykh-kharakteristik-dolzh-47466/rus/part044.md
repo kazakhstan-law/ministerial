@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/47466/rus/27.12.2013
+source: https://zan.gov.kz/client/#!/doc/47466/rus/20.07.2016
 ---
 
 ## Педагог-психолог организации дошкольного воспитания и обучения

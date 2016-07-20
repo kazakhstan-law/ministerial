@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/47466/kaz/27.12.2013
+source: https://zan.gov.kz/client/#!/doc/47466/kaz/20.07.2016
 ---
 
 ## Әлеуметтік педагог
