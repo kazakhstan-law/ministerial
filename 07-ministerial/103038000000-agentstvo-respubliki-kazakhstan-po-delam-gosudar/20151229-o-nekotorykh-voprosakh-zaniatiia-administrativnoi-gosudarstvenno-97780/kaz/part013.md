@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97780/kaz/19.05.2016
+source: https://zan.gov.kz/client/#!/doc/97780/kaz/22.07.2016
 ---
 
 > *Мемлекеттік әкімшілік қызметшілерді,*  
