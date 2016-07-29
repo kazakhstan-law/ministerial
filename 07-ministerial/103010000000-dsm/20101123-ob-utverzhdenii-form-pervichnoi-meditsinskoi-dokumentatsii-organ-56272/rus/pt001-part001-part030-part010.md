@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56272/rus/19.03.2015
+source: https://zan.gov.kz/client/#!/doc/56272/rus/29.07.2016
 ---
 
 ## Дәрігердің 5 айлық баланы тексеріп-қарауы Осмотр ребенка в возрасте 5 месяцев врачом

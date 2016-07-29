@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56272/rus/19.03.2015
+source: https://zan.gov.kz/client/#!/doc/56272/rus/29.07.2016
 ---
 
 ## Жолдама алуға АНЫҚТАМА СПРАВКА для получения путевки
