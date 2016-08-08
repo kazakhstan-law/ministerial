@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/86279/rus/21.06.2016
+source: https://zan.gov.kz/client/#!/doc/86279/rus/08.08.2016
 ---
 
 ## 7. Коды видов доходов, валют, стран, международных соглашений
