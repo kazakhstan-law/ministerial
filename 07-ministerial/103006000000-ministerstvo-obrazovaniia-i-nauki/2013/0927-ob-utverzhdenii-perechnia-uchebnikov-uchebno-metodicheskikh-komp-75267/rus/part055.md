@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<th colspan="5">5-11 классы</th>
+<td colspan="5">5-11 классы</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -572,7 +572,7 @@ English Vocabulary in Use elementary
 <td>Cambridge University Press</td>
 </tr>
 <tr>
-<th colspan="5">9-11 класс</th>
+<td colspan="5">9-11 класс</td>
 </tr>
 <tr>
 <td>56.</td>
