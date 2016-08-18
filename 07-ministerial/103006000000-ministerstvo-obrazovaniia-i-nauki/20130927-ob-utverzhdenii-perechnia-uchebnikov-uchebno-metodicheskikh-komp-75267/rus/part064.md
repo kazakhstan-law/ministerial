@@ -1,17 +1,17 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/75267/rus/19.07.2016
+source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 ---
 
 ## Русский язык обучения
 
 <table>
 <tr>
-<th>№</th>
-<th>Наименование издания</th>
-<th>Автор (-ы)</th>
-<th>Год издания</th>
-<th>Издательство</th>
+<td>№</td>
+<td>Наименование издания</td>
+<td>Автор (-ы)</td>
+<td>Год издания</td>
+<td>Издательство</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -180,7 +180,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/19.07.2016
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<th colspan="5">5-11 классы</th>
+<td colspan="5">5-11 классы</td>
 </tr>
 <tr>
 <td>1.</td>

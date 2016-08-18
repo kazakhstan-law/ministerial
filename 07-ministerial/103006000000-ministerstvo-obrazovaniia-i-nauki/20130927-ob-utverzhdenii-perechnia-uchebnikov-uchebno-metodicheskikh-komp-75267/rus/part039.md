@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/75267/rus/19.07.2016
+source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 ---
 
 ## Перечень учебной литературы для дошкольного воспитания и обучения
@@ -9,14 +9,14 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/19.07.2016
 
 <table>
 <tr>
-<th>№</th>
-<th>Наименование издания</th>
-<th>Автор (ы)</th>
-<th>Год издания</th>
-<th>Издательство</th>
+<td>№</td>
+<td>Наименование издания</td>
+<td>Автор (ы)</td>
+<td>Год издания</td>
+<td>Издательство</td>
 </tr>
 <tr>
-<th colspan="5">Первая младшая группа по программе &quot;Алғашқы қадам&quot; (2+)</th>
+<td colspan="5">Первая младшая группа по программе &quot;Алғашқы қадам&quot; (2+)</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -391,7 +391,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/19.07.2016
 <td>8 &amp; 8</td>
 </tr>
 <tr>
-<th colspan="5">2-5 лет</th>
+<td colspan="5">2-5 лет</td>
 </tr>
 <tr>
 <td>38.</td>
@@ -409,7 +409,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/19.07.2016
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<th colspan="5">Вторая младшая группа по программе &quot;Зерек бала&quot; (3+)</th>
+<td colspan="5">Вторая младшая группа по программе &quot;Зерек бала&quot; (3+)</td>
 </tr>
 <tr>
 <td>39.</td>
@@ -956,7 +956,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/19.07.2016
 <td>8&amp;8</td>
 </tr>
 <tr>
-<th colspan="5">3-10 лет</th>
+<td colspan="5">3-10 лет</td>
 </tr>
 <tr>
 <td>88.</td>
@@ -1079,7 +1079,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/19.07.2016
 <td>8&amp;8</td>
 </tr>
 <tr>
-<th colspan="5">Средняя группа по программе &quot;Зерек бала&quot; (4+)</th>
+<td colspan="5">Средняя группа по программе &quot;Зерек бала&quot; (4+)</td>
 </tr>
 <tr>
 <td>100.</td>
@@ -1753,7 +1753,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/19.07.2016
 <td>8&amp;8</td>
 </tr>
 <tr>
-<th colspan="5">Старшая группа по программе &quot;Біз мектепке барамыз&quot; (5+)</th>
+<td colspan="5">Старшая группа по программе &quot;Біз мектепке барамыз&quot; (5+)</td>
 </tr>
 <tr>
 <td>166.</td>
@@ -2674,7 +2674,7 @@ English.
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="5">Балапанның дәптері. &quot;Жақында мектепке барамын&quot; 5+</th>
+<td colspan="5">Балапанның дәптері. &quot;Жақында мектепке барамын&quot; 5+</td>
 </tr>
 <tr>
 <td>253.</td>
@@ -2750,7 +2750,7 @@ English.
 <td>8&amp;8</td>
 </tr>
 <tr>
-<th colspan="5">Мектеп алды даярлық топтар мен сыныптарға арналған басылымдар</th>
+<td colspan="5">Мектеп алды даярлық топтар мен сыныптарға арналған басылымдар</td>
 </tr>
 <tr>
 <td>263.</td>
@@ -3166,7 +3166,7 @@ English.
 <td>Дәуір-кітап</td>
 </tr>
 <tr>
-<th colspan="5">Балапанның дәптері &quot;Жақында мектепке барамын&quot; 6+</th>
+<td colspan="5">Балапанның дәптері &quot;Жақында мектепке барамын&quot; 6+</td>
 </tr>
 <tr>
 <td>303.</td>
@@ -4120,7 +4120,7 @@ English.
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<th colspan="5">4-5 лет</th>
+<td colspan="5">4-5 лет</td>
 </tr>
 <tr>
 <td>392.</td>
