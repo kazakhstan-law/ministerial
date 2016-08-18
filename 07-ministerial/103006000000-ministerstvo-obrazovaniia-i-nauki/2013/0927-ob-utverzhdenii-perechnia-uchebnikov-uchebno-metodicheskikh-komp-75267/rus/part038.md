@@ -4,14 +4,14 @@
 
 <table>
 <tr>
-<th>№</th>
-<th>Наименование издания</th>
-<th>Автор(ы)</th>
-<th>Год издания</th>
-<th>Издательство</th>
+<td>№</td>
+<td>Наименование издания</td>
+<td>Автор(ы)</td>
+<td>Год издания</td>
+<td>Издательство</td>
 </tr>
 <tr>
-<th colspan="5">Для дошкольного обучения и воспитания и начального образования</th>
+<td colspan="5">Для дошкольного обучения и воспитания и начального образования</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -956,7 +956,7 @@ www.​bil​imla​nd.​kz
 </td>
 </tr>
 <tr>
-<th colspan="5">Русский язык</th>
+<td colspan="5">Русский язык</td>
 </tr>
 <tr>
 <td>79.</td>
@@ -1137,7 +1137,7 @@ www.​bil​imla​nd.​kz
 <td>ТОО &quot;Арман-ПВ&quot;</td>
 </tr>
 <tr>
-<th colspan="5">Русская литература</th>
+<td colspan="5">Русская литература</td>
 </tr>
 <tr>
 <td>93.</td>
@@ -1210,7 +1210,7 @@ www.​bil​imla​nd.​kz
 <td>Центр педагогических технологий и информатизации образования</td>
 </tr>
 <tr>
-<th colspan="5">Казахский язык</th>
+<td colspan="5">Казахский язык</td>
 </tr>
 <tr>
 <td>98.</td>
@@ -1249,7 +1249,7 @@ www.​bil​imla​nd.​kz
 <td>Атамұра</td>
 </tr>
 <tr>
-<th colspan="5">Казахская литература</th>
+<td colspan="5">Казахская литература</td>
 </tr>
 <tr>
 <td>101.</td>
@@ -1318,7 +1318,7 @@ www.​bil​imla​nd.​kz
 <td>Арман-ПВ</td>
 </tr>
 <tr>
-<th colspan="5">Математика</th>
+<td colspan="5">Математика</td>
 </tr>
 <tr>
 <td>106.</td>
@@ -1518,7 +1518,7 @@ www.​bil​imla​nd.​kz
 <td>Bilim Media Group</td>
 </tr>
 <tr>
-<th colspan="5">Алгебра</th>
+<td colspan="5">Алгебра</td>
 </tr>
 <tr>
 <td>121.</td>
@@ -1719,7 +1719,7 @@ www.​bil​imla​nd.​kz
 <td>Bilim Media Group</td>
 </tr>
 <tr>
-<th colspan="5">Геометрия</th>
+<td colspan="5">Геометрия</td>
 </tr>
 <tr>
 <td>136.</td>
@@ -1758,7 +1758,7 @@ www.​bil​imla​nd.​kz
 <td>Bilim Media Group</td>
 </tr>
 <tr>
-<th colspan="5">Информатика</th>
+<td colspan="5">Информатика</td>
 </tr>
 <tr>
 <td>139.</td>
@@ -1858,7 +1858,7 @@ www.​bil​imla​nd.​kz
 <td>Национальный центр информатизации</td>
 </tr>
 <tr>
-<th colspan="5">Естествознание</th>
+<td colspan="5">Естествознание</td>
 </tr>
 <tr>
 <td>146.</td>
@@ -1885,7 +1885,7 @@ www.​bil​imla​nd.​kz
 <td>Арман-ПВ</td>
 </tr>
 <tr>
-<th colspan="5">География</th>
+<td colspan="5">География</td>
 </tr>
 <tr>
 <td>148.</td>
@@ -2002,7 +2002,7 @@ www.​bil​imla​nd.​kz
 <td>Национальный центр информатизации</td>
 </tr>
 <tr>
-<th colspan="5">Биология</th>
+<td colspan="5">Биология</td>
 </tr>
 <tr>
 <td>156.</td>
@@ -2086,7 +2086,7 @@ www.​bil​imla​nd.​kz
 <td>Национальный центр информатизации</td>
 </tr>
 <tr>
-<th colspan="5">Физика</th>
+<td colspan="5">Физика</td>
 </tr>
 <tr>
 <td>163.</td>
@@ -2183,7 +2183,7 @@ www.​bil​imla​nd.​kz
 <td>Атамұра</td>
 </tr>
 <tr>
-<th colspan="5">Химия</th>
+<td colspan="5">Химия</td>
 </tr>
 <tr>
 <td>170.</td>
@@ -2504,7 +2504,7 @@ www.​bil​imla​nd.​kz
 <td>UPartners</td>
 </tr>
 <tr>
-<th colspan="5">История</th>
+<td colspan="5">История</td>
 </tr>
 <tr>
 <td>196.</td>
@@ -2653,7 +2653,7 @@ www.​bil​imla​nd.​kz
 <td>Национальный центр информатизации</td>
 </tr>
 <tr>
-<th colspan="5">Самопознание</th>
+<td colspan="5">Самопознание</td>
 </tr>
 <tr>
 <td>209.</td>
@@ -2745,7 +2745,7 @@ www.​bil​imla​nd.​kz
 <td>Национальный научно-практический, образовательный и оздоровительный центр &quot;Бобек&quot;</td>
 </tr>
 <tr>
-<th colspan="5">Технология</th>
+<td colspan="5">Технология</td>
 </tr>
 <tr>
 <td>215.</td>
@@ -2769,7 +2769,7 @@ www.​bil​imla​nd.​kz
 <td>Национальный центр информатизации</td>
 </tr>
 <tr>
-<th colspan="5">Черчение</th>
+<td colspan="5">Черчение</td>
 </tr>
 <tr>
 <td>217.</td>
@@ -2789,7 +2789,7 @@ www.​bil​imla​nd.​kz
 <td>Национальный центр информатизации</td>
 </tr>
 <tr>
-<th colspan="5">Начальная военная подготовка</th>
+<td colspan="5">Начальная военная подготовка</td>
 </tr>
 <tr>
 <td>218.</td>
