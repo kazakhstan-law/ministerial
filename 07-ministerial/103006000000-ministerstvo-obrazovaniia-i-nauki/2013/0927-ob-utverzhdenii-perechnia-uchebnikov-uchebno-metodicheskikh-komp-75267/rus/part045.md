@@ -4,11 +4,11 @@
 
 <table>
 <tr>
-<th>№</th>
-<th>Наименование издания</th>
-<th>Автор (ы)</th>
-<th>Год издания</th>
-<th>Издательство</th>
+<td>№</td>
+<td>Наименование издания</td>
+<td>Автор (ы)</td>
+<td>Год издания</td>
+<td>Издательство</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -154,11 +154,11 @@
 
 <table>
 <tr>
-<th>№</th>
-<th>Наименование издания</th>
-<th>Автор (ы)</th>
-<th>Год издания</th>
-<th>Издательство</th>
+<td>№</td>
+<td>Наименование издания</td>
+<td>Автор (ы)</td>
+<td>Год издания</td>
+<td>Издательство</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -310,11 +310,11 @@
 
 <table>
 <tr>
-<th>№</th>
-<th>Наименование издания</th>
-<th>Автор (ы)</th>
-<th>Год издания</th>
-<th>Издательство</th>
+<td>№</td>
+<td>Наименование издания</td>
+<td>Автор (ы)</td>
+<td>Год издания</td>
+<td>Издательство</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -490,11 +490,11 @@
 
 <table>
 <tr>
-<th>№</th>
-<th>Наименование издания</th>
-<th>Автор (ы)</th>
-<th>Год издания</th>
-<th>Издательство</th>
+<td>№</td>
+<td>Наименование издания</td>
+<td>Автор (ы)</td>
+<td>Год издания</td>
+<td>Издательство</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -658,11 +658,11 @@
 
 <table>
 <tr>
-<th>№</th>
-<th>Наименование издания</th>
-<th>Автор (ы)</th>
-<th>Год издания</th>
-<th>Издательство</th>
+<td>№</td>
+<td>Наименование издания</td>
+<td>Автор (ы)</td>
+<td>Год издания</td>
+<td>Издательство</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -843,11 +843,11 @@
 
 <table>
 <tr>
-<th>№</th>
-<th>Наименование издания</th>
-<th>Автор (ы)</th>
-<th>Год издания</th>
-<th>Издательство</th>
+<td>№</td>
+<td>Наименование издания</td>
+<td>Автор (ы)</td>
+<td>Год издания</td>
+<td>Издательство</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -1017,11 +1017,11 @@
 
 <table>
 <tr>
-<th>№</th>
-<th>Наименование издания</th>
-<th>Автор (ы)</th>
-<th>Год издания</th>
-<th>Издательство</th>
+<td>№</td>
+<td>Наименование издания</td>
+<td>Автор (ы)</td>
+<td>Год издания</td>
+<td>Издательство</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -1184,11 +1184,11 @@
 
 <table>
 <tr>
-<th>№</th>
-<th>Наименование издания</th>
-<th>Автор (ы)</th>
-<th>Год издания</th>
-<th>Издательство</th>
+<td>№</td>
+<td>Наименование издания</td>
+<td>Автор (ы)</td>
+<td>Год издания</td>
+<td>Издательство</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -1377,14 +1377,14 @@
 
 <table>
 <tr>
-<th>№</th>
-<th>Наименование издания</th>
-<th>Автор (ы)</th>
-<th>Год издания</th>
-<th>Издательство</th>
+<td>№</td>
+<td>Наименование издания</td>
+<td>Автор (ы)</td>
+<td>Год издания</td>
+<td>Издательство</td>
 </tr>
 <tr>
-<th colspan="5">Дошкольное образование</th>
+<td colspan="5">Дошкольное образование</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -1507,7 +1507,7 @@ Greg Cossu
 <td>Pearson Education Limited</td>
 </tr>
 <tr>
-<th colspan="5">4-5 лет</th>
+<td colspan="5">4-5 лет</td>
 </tr>
 <tr>
 <td>14.</td>
@@ -1590,7 +1590,7 @@ Teacher’s Notes
 <td>Macmillan Publishers</td>
 </tr>
 <tr>
-<th colspan="5">5-7 лет</th>
+<td colspan="5">5-7 лет</td>
 </tr>
 <tr>
 <td>25.</td>
@@ -1645,7 +1645,7 @@ Teacher’s Notes
 <td>Клешек-2030</td>
 </tr>
 <tr>
-<th colspan="5">1 класс</th>
+<td colspan="5">1 класс</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -1715,7 +1715,7 @@ RideHigh 1 Учебник
 <td>Edu Stream</td>
 </tr>
 <tr>
-<th colspan="5">2 класс</th>
+<td colspan="5">2 класс</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -1794,7 +1794,7 @@ RideHigh 2 Учебник,
 <td>International Book Publisher</td>
 </tr>
 <tr>
-<th colspan="5">1-4 классы</th>
+<td colspan="5">1-4 классы</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -1950,7 +1950,7 @@ for Kazakhstan
 <td>Альраминь</td>
 </tr>
 <tr>
-<th colspan="5">4 класс</th>
+<td colspan="5">4 класс</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -2038,7 +2038,7 @@ Dave Tucker
 <td>Macmillan Publishers</td>
 </tr>
 <tr>
-<th colspan="5">5-9 классы</th>
+<td colspan="5">5-9 классы</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -2217,7 +2217,7 @@ Teacher’s book
 <td>Macmillan Publishers</td>
 </tr>
 <tr>
-<th colspan="5">5 класс</th>
+<td colspan="5">5 класс</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -2303,7 +2303,7 @@ Class CDs 1-2
 <td>English language press</td>
 </tr>
 <tr>
-<th colspan="5">6 класс</th>
+<td colspan="5">6 класс</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -2389,7 +2389,7 @@ Class CDs 1-2
 <td>English language press</td>
 </tr>
 <tr>
-<th colspan="5">7 класс</th>
+<td colspan="5">7 класс</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -2711,7 +2711,7 @@ Lindsay White
 <td>Альраминь Pearson Longman</td>
 </tr>
 <tr>
-<th colspan="5">8 класс</th>
+<td colspan="5">8 класс</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -2825,7 +2825,7 @@ Y. Palzhanov,
 <td>Астана-Кітап</td>
 </tr>
 <tr>
-<th colspan="5">9 класс</th>
+<td colspan="5">9 класс</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -2859,7 +2859,7 @@ Choices Pre-Intermediate Teacher’s Book &amp; Multi-
 <td>English language press</td>
 </tr>
 <tr>
-<th colspan="5">11 класс</th>
+<td colspan="5">11 класс</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -2935,7 +2935,7 @@ Pack
 <td>English language press</td>
 </tr>
 <tr>
-<th colspan="5">1-4 класс</th>
+<td colspan="5">1-4 класс</td>
 </tr>
 <tr>
 <td>1.</td>
