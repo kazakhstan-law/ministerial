@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/87412/rus/22.01.2015
+source: https://zan.gov.kz/client/#!/doc/87412/rus/21.09.2016
 ---
 
 # Об утверждении Правил эксплуатации магистральных газопроводов
