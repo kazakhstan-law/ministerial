@@ -37,18 +37,16 @@
 > *от 19 июля 2016 года*  
 > *№ 210*
 
-## Государственный образовательный заказ на подготовку специалистов с высшим образованием в учебных заведениях в сферы культуры и искусства, финансируемых из республиканского бюджета, на 2016-2017 учебный год
+## Государственный образовательный заказ на подготовку специалистов с высшим образованием в учебных заведениях сферы культуры и искусства, финансируемых из республиканского бюджета, на 2016-2017 учебный год
+
+> *Сноска. Приложение 1 в редакции приказа Министра культуры и спорта РК от 28.09.2016 № 262 (вводится в действие со дня его первого официального опубликования).*
 
 <table>
 <tr>
 <td colspan="2">№</td>
 <td colspan="3">Шифр</td>
 <td colspan="2">Наименование специальности</td>
-<td colspan="2">
-Количество
-мест в казахской
-группе
-</td>
+<td colspan="2">Количество мест в казахской группе</td>
 <td colspan="2">Количество мест в русской группе</td>
 <td colspan="2">Всего</td>
 </tr>
@@ -59,96 +57,96 @@
 <td colspan="2">1</td>
 <td colspan="3">5В010600</td>
 <td colspan="2">Музыкальное образование</td>
-<td colspan="2">4</td>
-<td colspan="2">4</td>
+<td colspan="2">5</td>
+<td colspan="2">3</td>
 <td colspan="2">8</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td colspan="3">5В020400</td>
 <td colspan="2">Культурология</td>
-<td colspan="2">1</td>
-<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">0</td>
 <td colspan="2">2</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
 <td colspan="3">5В040100</td>
 <td colspan="2">Музыковедение</td>
-<td colspan="2">3</td>
-<td colspan="2">3</td>
-<td colspan="2">6</td>
+<td colspan="2">1</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td colspan="3">5В040200</td>
 <td colspan="2">Инструментальное исполнительство</td>
-<td colspan="2">31</td>
-<td colspan="2">28</td>
-<td colspan="2">59</td>
+<td colspan="2">26</td>
+<td colspan="2">35</td>
+<td colspan="2">61</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
 <td colspan="3">5В040300</td>
 <td colspan="2">Вокальное искусство</td>
-<td colspan="2">7</td>
-<td colspan="2">8</td>
+<td colspan="2">12</td>
+<td colspan="2">3</td>
 <td colspan="2">15</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
 <td colspan="3">5В040400</td>
 <td colspan="2">Традиционное музыкальное искусство</td>
-<td colspan="2">53</td>
-<td colspan="2">4</td>
-<td colspan="2">57</td>
+<td colspan="2">46</td>
+<td colspan="2">8</td>
+<td colspan="2">54</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
 <td colspan="3">5В040500</td>
 <td colspan="2">Дирижирование</td>
-<td colspan="2">9</td>
-<td colspan="2">7</td>
+<td colspan="2">11</td>
+<td colspan="2">5</td>
 <td colspan="2">16</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
 <td colspan="3">5В040600</td>
 <td colspan="2">Режиссура</td>
-<td colspan="2">10</td>
-<td colspan="2">10</td>
-<td colspan="2">20</td>
+<td colspan="2">7</td>
+<td colspan="2">11</td>
+<td colspan="2">18</td>
 </tr>
 <tr>
 <td colspan="2">9</td>
 <td colspan="3">5В040700</td>
 <td colspan="2">Актерское искусство</td>
-<td colspan="2">18</td>
+<td colspan="2">19</td>
 <td colspan="2">5</td>
-<td colspan="2">23</td>
+<td colspan="2">24</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
 <td colspan="3">5В040800</td>
 <td colspan="2">Искусство эстрады</td>
 <td colspan="2">9</td>
-<td colspan="2">9</td>
-<td colspan="2">18</td>
+<td colspan="2">7</td>
+<td colspan="2">16</td>
 </tr>
 <tr>
 <td colspan="2">11</td>
 <td colspan="3">5В041000</td>
 <td colspan="2">Сценография</td>
+<td colspan="2">16</td>
 <td colspan="2">12</td>
-<td colspan="2">9</td>
-<td colspan="2">21</td>
+<td colspan="2">28</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
 <td colspan="3">5В041100</td>
 <td colspan="2">Композиция</td>
-<td colspan="2">1</td>
-<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">0</td>
 <td colspan="2">2</td>
 </tr>
 <tr>
@@ -163,9 +161,9 @@
 <td colspan="2">14</td>
 <td colspan="3">5В041300</td>
 <td colspan="2">Живопись</td>
+<td colspan="2">4</td>
 <td colspan="2">5</td>
-<td colspan="2">2</td>
-<td colspan="2">7</td>
+<td colspan="2">9</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
@@ -179,32 +177,32 @@
 <td colspan="2">16</td>
 <td colspan="3">5В041600</td>
 <td colspan="2">Искусствоведение</td>
-<td colspan="2">4</td>
-<td colspan="2">4</td>
-<td colspan="2">8</td>
+<td colspan="2">6</td>
+<td colspan="2">1</td>
+<td colspan="2">7</td>
 </tr>
 <tr>
 <td colspan="2">17</td>
 <td colspan="3">5В041700</td>
 <td colspan="2">Декоративное искусство</td>
-<td colspan="2">6</td>
-<td colspan="2">5</td>
+<td colspan="2">8</td>
+<td colspan="2">3</td>
 <td colspan="2">11</td>
 </tr>
 <tr>
 <td colspan="2">18</td>
 <td colspan="3">5В042300</td>
 <td colspan="2">Арт-менеджмент</td>
-<td colspan="2">3</td>
-<td colspan="2">3</td>
+<td colspan="2">4</td>
 <td colspan="2">6</td>
+<td colspan="2">10</td>
 </tr>
 <tr>
 <td colspan="2">19</td>
 <td colspan="5">Всего</td>
-<td colspan="2">180</td>
-<td colspan="2">106</td>
-<td colspan="2">286</td>
+<td colspan="2">182</td>
+<td colspan="2">111</td>
+<td colspan="2">293</td>
 </tr>
 <tr>
 <td colspan="13">1.1 Квоты</td>
@@ -213,46 +211,46 @@
 <td colspan="2">20</td>
 <td colspan="3"></td>
 <td colspan="2">Квота для детей сирот и оставшихся без попечения родителей</td>
+<td colspan="2">1</td>
 <td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">3</td>
+<td colspan="2">1</td>
 </tr>
 <tr>
 <td colspan="2">21</td>
 <td colspan="3"></td>
 <td colspan="2">Квота для инвалидов I, II групп, инвалидов детства, детей инвалидов (1%)</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">3</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
 </tr>
 <tr>
 <td colspan="2">22</td>
 <td colspan="3"></td>
 <td colspan="2">Квота лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
 <td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">2</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 </tr>
 <tr>
 <td colspan="2">23</td>
 <td colspan="3"></td>
 <td colspan="2">Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
+<td colspan="2">3</td>
 <td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">6</td>
+<td colspan="2">3</td>
 </tr>
 <tr>
 <td colspan="2">24</td>
 <td colspan="5">Всего квот</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">14</td>
+<td colspan="2">5</td>
+<td colspan="2">2</td>
+<td colspan="2">7</td>
 </tr>
 <tr>
 <td colspan="2">25</td>
 <td colspan="5">Всего по разделу</td>
-<td colspan="2">180</td>
-<td colspan="2">106</td>
+<td colspan="2">187</td>
+<td colspan="2">113</td>
 <td colspan="2">300</td>
 </tr>
 <tr>
@@ -278,9 +276,9 @@
 <td colspan="2">28</td>
 <td colspan="3">5В040700</td>
 <td colspan="2">Актерское искусство</td>
-<td colspan="2">42</td>
+<td colspan="2">47</td>
 <td colspan="2">0</td>
-<td colspan="2">42</td>
+<td colspan="2">47</td>
 </tr>
 <tr>
 <td colspan="2">29</td>
@@ -302,8 +300,8 @@
 <td colspan="2">31</td>
 <td colspan="3">5В041000</td>
 <td colspan="2">Сценография</td>
-<td colspan="2">11</td>
-<td colspan="2">6</td>
+<td colspan="2">14</td>
+<td colspan="2">3</td>
 <td colspan="2">17</td>
 </tr>
 <tr>
@@ -373,9 +371,9 @@
 <tr>
 <td colspan="2">40</td>
 <td colspan="5">Всего</td>
-<td colspan="2">180</td>
-<td colspan="2">51</td>
-<td colspan="2">231</td>
+<td colspan="2">188</td>
+<td colspan="2">48</td>
+<td colspan="2">236</td>
 </tr>
 <tr>
 <td colspan="13">2.1 Квоты</td>
@@ -384,17 +382,17 @@
 <td colspan="2">41</td>
 <td colspan="3"></td>
 <td colspan="2">Квота для детей сирот и оставшихся без попечения родителей (1%)</td>
+<td colspan="2">1</td>
 <td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">2</td>
+<td colspan="2">1</td>
 </tr>
 <tr>
 <td colspan="2">42</td>
 <td colspan="3"></td>
 <td colspan="2">Квота для инвалидов I, II групп, инвалидов детства, детей инвалидов (1%)</td>
+<td colspan="2">1</td>
 <td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">2</td>
+<td colspan="2">1</td>
 </tr>
 <tr>
 <td colspan="2">43</td>
@@ -402,28 +400,28 @@
 <td colspan="2">Квота лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
 <td colspan="2">0</td>
 <td colspan="2">0</td>
-<td colspan="2">1</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="2">44</td>
 <td colspan="3"></td>
 <td colspan="2">Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
+<td colspan="2">2</td>
 <td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">4</td>
+<td colspan="2">2</td>
 </tr>
 <tr>
 <td colspan="2">45</td>
 <td colspan="5">Всего квот</td>
+<td colspan="2">4</td>
 <td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">9</td>
+<td colspan="2">4</td>
 </tr>
 <tr>
 <td colspan="2">46</td>
 <td colspan="5">Всего по разделу</td>
-<td colspan="2">180</td>
-<td colspan="2">51</td>
+<td colspan="2">192</td>
+<td colspan="2">48</td>
 <td colspan="2">240</td>
 </tr>
 <tr>
@@ -434,79 +432,79 @@
 <td colspan="3">5В040100</td>
 <td colspan="2">Музыковедение</td>
 <td colspan="2">6</td>
-<td colspan="2">4</td>
-<td colspan="2">10</td>
+<td colspan="2">2</td>
+<td colspan="2">8</td>
 </tr>
 <tr>
 <td colspan="2">48</td>
 <td colspan="3">5В040200</td>
 <td colspan="2">Инструментальное исполнительство</td>
-<td colspan="2">40</td>
-<td colspan="2">20</td>
-<td colspan="2">60</td>
+<td colspan="2">37</td>
+<td colspan="2">17</td>
+<td colspan="2">54</td>
 </tr>
 <tr>
 <td colspan="2">49</td>
 <td colspan="3">5В040300</td>
 <td colspan="2">Вокальное искусство</td>
-<td colspan="2">10</td>
-<td colspan="2">10</td>
+<td colspan="2">16</td>
+<td colspan="2">4</td>
 <td colspan="2">20</td>
 </tr>
 <tr>
 <td colspan="2">50</td>
 <td colspan="3">5В040400</td>
 <td colspan="2">Традиционное музыкальное искусство</td>
-<td colspan="2">60</td>
-<td colspan="2">10</td>
-<td colspan="2">70</td>
+<td colspan="2">79</td>
+<td colspan="2">3</td>
+<td colspan="2">82</td>
 </tr>
 <tr>
 <td colspan="2">51</td>
 <td colspan="3">5В040500</td>
 <td colspan="2">Дирижирование</td>
-<td colspan="2">10</td>
-<td colspan="2">10</td>
-<td colspan="2">20</td>
+<td colspan="2">18</td>
+<td colspan="2">4</td>
+<td colspan="2">22</td>
 </tr>
 <tr>
 <td colspan="2">52</td>
 <td colspan="3">5В041100</td>
 <td colspan="2">Композиция</td>
 <td colspan="2">2</td>
-<td colspan="2">2</td>
-<td colspan="2">4</td>
+<td colspan="2">3</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td colspan="2">53</td>
 <td colspan="3">5В042300</td>
 <td colspan="2">Арт-менеджмент</td>
-<td colspan="2">10</td>
+<td colspan="2">8</td>
 <td colspan="2">5</td>
-<td colspan="2">15</td>
+<td colspan="2">13</td>
 </tr>
 <tr>
 <td colspan="2">54</td>
 <td colspan="3">5В010600</td>
 <td colspan="2">Музыкальное образование</td>
-<td colspan="2">10</td>
-<td colspan="2">5</td>
 <td colspan="2">15</td>
+<td colspan="2">2</td>
+<td colspan="2">17</td>
 </tr>
 <tr>
 <td colspan="2">55</td>
 <td colspan="3">5В010300</td>
 <td colspan="2">Педагогика и психология</td>
-<td colspan="2">4</td>
-<td colspan="2">4</td>
+<td colspan="2">6</td>
+<td colspan="2">2</td>
 <td colspan="2">8</td>
 </tr>
 <tr>
 <td colspan="2">56</td>
 <td colspan="5">Всего</td>
-<td colspan="2">152</td>
-<td colspan="2">70</td>
-<td colspan="2">222</td>
+<td colspan="2">187</td>
+<td colspan="2">42</td>
+<td colspan="2">229</td>
 </tr>
 <tr>
 <td colspan="13">3.1 Квоты</td>
@@ -517,7 +515,7 @@
 <td colspan="2">Квота для инвалидов I, II групп, инвалидов детства, детей инвалидов (0,5%)</td>
 <td colspan="2">0</td>
 <td colspan="2">0</td>
-<td colspan="2">1</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="3">58</td>
@@ -525,15 +523,15 @@
 <td colspan="2">Квота лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
 <td colspan="2">0</td>
 <td colspan="2">0</td>
-<td colspan="2">1</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="3">59</td>
 <td colspan="2"></td>
 <td colspan="2">Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
+<td colspan="2">1</td>
 <td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">4</td>
+<td colspan="2">1</td>
 </tr>
 <tr>
 <td colspan="3">60</td>
@@ -541,20 +539,20 @@
 <td colspan="2">Квота для детей сирот (1%)</td>
 <td colspan="2">0</td>
 <td colspan="2">0</td>
-<td colspan="2">2</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="3">61</td>
 <td colspan="4">Всего квот</td>
+<td colspan="2">1</td>
 <td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">8</td>
+<td colspan="2">1</td>
 </tr>
 <tr>
 <td colspan="3">62</td>
 <td colspan="4">Всего по разделу</td>
-<td colspan="2">152</td>
-<td colspan="2">70</td>
+<td colspan="2">188</td>
+<td colspan="2">42</td>
 <td colspan="2">230</td>
 </tr>
 <tr>
@@ -607,20 +605,20 @@
 <td>67</td>
 <td colspan="3">5В042300</td>
 <td colspan="2">Арт-менеджмент</td>
-<td colspan="2">32</td>
+<td colspan="2">33</td>
 <td>0</td>
 <td>0</td>
 <td colspan="2">0</td>
-<td>32</td>
+<td>33</td>
 </tr>
 <tr>
 <td>68</td>
 <td colspan="5">Всего по разделу:</td>
-<td colspan="2">68</td>
+<td colspan="2">69</td>
 <td>17</td>
 <td>20</td>
 <td colspan="2">12</td>
-<td>117</td>
+<td>118</td>
 </tr>
 <tr>
 <td colspan="13">4.1 Квоты</td>
@@ -636,14 +634,14 @@
 <td>70</td>
 <td colspan="3"></td>
 <td colspan="2">Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
-<td colspan="6">1</td>
-<td>1</td>
+<td colspan="6">0</td>
+<td>0</td>
 </tr>
 <tr>
 <td>71</td>
 <td colspan="5">Всего квот</td>
-<td colspan="6">1</td>
-<td>1</td>
+<td colspan="6">0</td>
+<td>0</td>
 </tr>
 <tr>
 <td>72</td>
@@ -662,6 +660,8 @@
 
 ## Государственный образовательный заказ на подготовку специалистов с послевузовским образованием в учебных заведениях сферы культуры и искусства, финансируемых из республиканского бюджета, на 2016-2017 учебный год
 
+> *Сноска. Приложение 2 в редакции приказа Министра культуры и спорта РК от 28.09.2016 № 262 (вводится в действие со дня его первого официального опубликования).*
+
 <table>
 <tr>
 <td colspan="2">№</td>
@@ -670,7 +670,7 @@
 <td>Количество мест по государственному заказу</td>
 </tr>
 <tr>
-<td colspan="9">1.Магистратура</td>
+<td colspan="9">1. Магистратура</td>
 </tr>
 <tr>
 <td colspan="9">1.1 Республиканское государственное учреждение «Казахский национальный университет искусств» Министерства культуры и спорта Республики Казахстан</td>
@@ -679,7 +679,7 @@
 <td colspan="2">1</td>
 <td colspan="2">6М010600</td>
 <td colspan="4">Музыкальное образование</td>
-<td>2</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
@@ -691,7 +691,7 @@
 <td colspan="2">3</td>
 <td colspan="2">6М040100</td>
 <td colspan="4">Музыковедение</td>
-<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
@@ -703,7 +703,7 @@
 <td colspan="2">5</td>
 <td colspan="2">6М040300</td>
 <td colspan="4">Вокальное искусство</td>
-<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
@@ -765,19 +765,19 @@
 <td colspan="2">15</td>
 <td colspan="2">6М040400</td>
 <td colspan="4">Традиционное музыкальное искусство</td>
-<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
 <td colspan="2">6М040600</td>
 <td colspan="4">Режиссура</td>
-<td>15</td>
+<td>17</td>
 </tr>
 <tr>
 <td colspan="2">17</td>
 <td colspan="2">6М040700</td>
 <td colspan="4">Актерское искусство</td>
-<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td colspan="2">18</td>
@@ -789,7 +789,7 @@
 <td colspan="2">19</td>
 <td colspan="2">6М040900</td>
 <td colspan="4">Хореография</td>
-<td>2</td>
+<td>5</td>
 </tr>
 <tr>
 <td colspan="2">20</td>
@@ -801,19 +801,19 @@
 <td colspan="2">21</td>
 <td colspan="2">6М041200</td>
 <td colspan="4">Операторское искусство</td>
-<td>3</td>
+<td>1</td>
 </tr>
 <tr>
 <td colspan="2">22</td>
 <td colspan="2">6М041300</td>
 <td colspan="4">Живопись</td>
-<td>3</td>
+<td>4</td>
 </tr>
 <tr>
 <td colspan="2">23</td>
 <td colspan="2">6М041400</td>
 <td colspan="4">Графика</td>
-<td>3</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2">24</td>
@@ -825,19 +825,19 @@
 <td colspan="2">25</td>
 <td colspan="2">6М041600</td>
 <td colspan="4">Искусствоведение</td>
-<td>10</td>
+<td>9</td>
 </tr>
 <tr>
 <td colspan="2">26</td>
 <td colspan="2">6М041700</td>
 <td colspan="4">Декоративное искусство</td>
-<td>2</td>
+<td>1</td>
 </tr>
 <tr>
 <td colspan="2">27</td>
 <td colspan="2">6М042100</td>
 <td colspan="4">Дизайн</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td colspan="2">28</td>
@@ -857,34 +857,34 @@
 <td colspan="2">30</td>
 <td colspan="2">6М040200</td>
 <td colspan="4">Инструментальное исполнительство</td>
-<td>10</td>
+<td>11</td>
 </tr>
 <tr>
 <td colspan="2">31</td>
 <td colspan="2">6М040300</td>
 <td colspan="4">Вокальное искусство</td>
-<td>2</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">32</td>
 <td colspan="2">6М040400</td>
 <td colspan="4">Традиционное музыкальное искусство</td>
-<td>11</td>
+<td>4</td>
 </tr>
 <tr>
 <td colspan="2">33</td>
 <td colspan="2">6М040500</td>
 <td colspan="4">Дирижирование</td>
-<td>3</td>
+<td>4</td>
 </tr>
 <tr>
 <td colspan="2">34</td>
 <td colspan="2">6М041100</td>
 <td colspan="4">Композиция</td>
-<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td colspan="2">36</td>
+<td colspan="2">35</td>
 <td colspan="6">Всего по подразделу</td>
 <td>30</td>
 </tr>
@@ -892,7 +892,7 @@
 <td colspan="9">1.4 Некоммерческое акционерное общество «Казахская национальная академия хореографии»</td>
 </tr>
 <tr>
-<td rowspan="2">37</td>
+<td rowspan="2">36</td>
 <td colspan="2" rowspan="2">Шифр</td>
 <td colspan="2" rowspan="2">Наименование специальностей</td>
 <td colspan="3">Курсы обучения</td>
@@ -903,7 +903,7 @@
 <td colspan="2">2</td>
 </tr>
 <tr>
-<td>38</td>
+<td>37</td>
 <td colspan="2">6М040600</td>
 <td colspan="2">Режиссура</td>
 <td>2</td>
@@ -911,15 +911,15 @@
 <td>2</td>
 </tr>
 <tr>
-<td>39</td>
+<td>38</td>
 <td colspan="2">6М040900</td>
-<td colspan="2">Хореогрфия</td>
+<td colspan="2">Хореография</td>
 <td>2</td>
 <td colspan="2">1</td>
 <td>3</td>
 </tr>
 <tr>
-<td>40</td>
+<td>39</td>
 <td colspan="2">6М041600</td>
 <td colspan="2">Искусствоведение</td>
 <td>2</td>
@@ -927,14 +927,14 @@
 <td>2</td>
 </tr>
 <tr>
-<td>41</td>
+<td>40</td>
 <td colspan="4">Всего по подразделу</td>
 <td>6</td>
 <td colspan="2">1</td>
 <td>7</td>
 </tr>
 <tr>
-<td>42</td>
+<td>41</td>
 <td colspan="7">Всего по разделу</td>
 <td>131</td>
 </tr>
@@ -945,25 +945,25 @@
 <td colspan="9">2.1 Республиканское государственное учреждение «Казахский национальный университет искусств» Министерства культуры и спорта Республики Казахстан</td>
 </tr>
 <tr>
-<td colspan="2">43</td>
+<td colspan="2">42</td>
 <td colspan="2">6D010600</td>
 <td colspan="4">Музыкальное образование</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">44</td>
+<td colspan="2">43</td>
 <td colspan="2">6D040100</td>
 <td colspan="4">Музыковедение</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">45</td>
+<td colspan="2">44</td>
 <td colspan="2">6D040200</td>
 <td colspan="4">Инструментальное исполнительство</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">46</td>
+<td colspan="2">45</td>
 <td colspan="6">Всего по подразделу</td>
 <td>3</td>
 </tr>
@@ -971,25 +971,25 @@
 <td colspan="9">2.2 Республиканское государственное учреждение «Казахская национальная академия искусств имени Т.К. Жургенова» Министерства культуры и спорта Республики Казахстан</td>
 </tr>
 <tr>
-<td colspan="2">47</td>
+<td colspan="2">46</td>
 <td colspan="2">6D040600</td>
 <td colspan="4">Режиссура</td>
-<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2">47</td>
+<td colspan="2">6D041600</td>
+<td colspan="4">Искусствоведение</td>
+<td>4</td>
 </tr>
 <tr>
 <td colspan="2">48</td>
-<td colspan="2">6D041600</td>
-<td colspan="4">Искусствоведение</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">49</td>
 <td colspan="2">6D041700</td>
 <td colspan="4">Декоративное искусство</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">50</td>
+<td colspan="2">49</td>
 <td colspan="6">Всего по подразделу</td>
 <td>5</td>
 </tr>
@@ -997,15 +997,21 @@
 <td colspan="9">2.3 Республиканское государственное учреждение «Казахская национальная консерватория имени Курмангазы» Министерства культуры и спорта Республики Казахстан</td>
 </tr>
 <tr>
-<td colspan="2">51</td>
+<td colspan="2">50</td>
 <td colspan="2">6D040400</td>
 <td colspan="3">Традиционное музыкальное искусство</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td colspan="2">51</td>
+<td colspan="2">6D040200</td>
+<td colspan="3">Инструментальное исполнительство</td>
 <td colspan="2">1</td>
 </tr>
 <tr>
 <td colspan="2">52</td>
-<td colspan="2">6D040200</td>
-<td colspan="3">Инструментальное исполнительство</td>
+<td colspan="2">6D040500</td>
+<td colspan="3">Дирижирование</td>
 <td colspan="2">1</td>
 </tr>
 <tr>
