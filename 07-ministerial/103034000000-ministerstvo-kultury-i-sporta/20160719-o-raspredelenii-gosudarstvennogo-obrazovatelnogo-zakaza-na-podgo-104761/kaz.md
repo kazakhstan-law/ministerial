@@ -1,5 +1,5 @@
 ---
-version_id: '104761_100757'
+version_id: '104761_120981'
 act_code: '104761'
 language: kaz
 title: Республикалық бюджеттен қаржыландырылатын жоғары және жоғары оқу орнынан кейінгі, сондай-ақ техникалық және кәсіптік, орта білімнен кейінгі білімі бар мамандар даярлауға 2016-2017 оқу жылына арналған мемлекеттік білім беру тапсырысын мәдениет, өнер және спорт саласындағы білім беру ұйымдарында бөлу туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103034000000'
 approval_date: 2016-07-19
-version_date: 2016-07-19
+version_date: 2016-09-28
 registry_number: '104761'
-source: https://zan.gov.kz/client/#!/doc/104761/kaz/19.07.2016
+caused_by:
+  code: '107284'
+  title: '"Республикалық бюджеттен қаржыландырылатын жоғары және жоғары оқу орнынан кейінгі, сондай-ақ техникалық және кәсіптік, орта білімнен кейінгі білімі бар мамандар даярлауға 2016 – 2017 оқу жылына арналған мемлекеттік білім беру тапсырысын мәдениет және өнер саласындағы білім беру ұйымдарында бөлу туралы" Қазақстан Республикасы Мәдениет және спорт министрінің 2016 жылғы 19 шілдедегі № 210 бұйрығына өзгерістер енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/107284/kaz
+source: https://zan.gov.kz/client/#!/doc/104761/kaz/28.09.2016
 ---
 
 # Республикалық бюджеттен қаржыландырылатын жоғары және жоғары оқу орнынан кейінгі, сондай-ақ техникалық және кәсіптік, орта білімнен кейінгі білімі бар мамандар даярлауға 2016 – 2017 оқу жылына арналған мемлекеттік білім беру тапсырысын мәдениет және өнер саласындағы білім беру ұйымдарында бөлу туралы
@@ -47,633 +51,635 @@ source: https://zan.gov.kz/client/#!/doc/104761/kaz/19.07.2016
 
 > *Қазақстан Республикасы*  
 > *Мәдениет және спорт Министрі*  
-> *2016 жылғы 19 шілде*  
+> *2016 жылғы 19 шілдедегі*  
 > *№ 210 бұйрығының*  
 > *1- қосымшасы*
 
 ## Республикалық бюджеттен қаржыландырылатын мәдениет және өнер саласындағы оқу орындарында жоғары білімі бар мамандар даярлауға 2016 – 2017 оқу жылына арналған мемлекеттік білім беру тапсырысы
+
+> *Ескерту. 1-қосымша жаңа редакцияда - ҚР Мәдениет және спорт министрінің 28.09.2016 № 262 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
 <td colspan="2">№</td>
 <td>Шифр</td>
 <td colspan="3">Мамандықтар атауы</td>
-<td colspan="2">
-Орын саны
-қазақ тобы
-</td>
+<td colspan="3">Орын саны қазақ тобы</td>
 <td colspan="5">Орын саны орыс тобы</td>
-<td colspan="2">Барлығы</td>
+<td colspan="3">Барлығы</td>
 </tr>
 <tr>
-<td colspan="15">1. Қазақстан Республикасы Мәдениет және спорт министрлігінің «Қазақ ұлттық өнер университеті» республикалық мемлекеттік мекемесі</td>
+<td colspan="17">1. Қазақстан Республикасы Мәдениет және спорт министрлігінің «Қазақ ұлттық өнер университеті» республикалық мемлекеттік мекемесі</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td>5В010600</td>
-<td colspan="3">Музыкалық білім</td>
-<td colspan="2">4</td>
-<td colspan="5">4</td>
-<td colspan="2">8</td>
+<td colspan="4">Музыкалық білім</td>
+<td colspan="2">5</td>
+<td colspan="5">3</td>
+<td colspan="3">8</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td>5В020400</td>
-<td colspan="3">Мәдениеттану</td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
+<td colspan="4">Мәдениеттану</td>
 <td colspan="2">2</td>
+<td colspan="5">0</td>
+<td colspan="3">2</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
 <td>5В040100</td>
-<td colspan="3">Музыкатану</td>
-<td colspan="2">3</td>
-<td colspan="5">3</td>
-<td colspan="2">6</td>
+<td colspan="4">Музыкатану</td>
+<td colspan="2">1</td>
+<td colspan="5">4</td>
+<td colspan="3">5</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td>5В040200</td>
-<td colspan="3">Аспапта орындаушылық</td>
-<td colspan="2">31</td>
-<td colspan="5">28</td>
-<td colspan="2">59</td>
+<td colspan="4">Аспаптық орындаушылық</td>
+<td colspan="2">26</td>
+<td colspan="5">35</td>
+<td colspan="3">61</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
 <td>5В040300</td>
-<td colspan="3">Вокалдық өнер</td>
-<td colspan="2">8</td>
-<td colspan="5">7</td>
-<td colspan="2">15</td>
+<td colspan="4">Вокалдық өнер</td>
+<td colspan="2">12</td>
+<td colspan="5">3</td>
+<td colspan="3">15</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
 <td>5В040400</td>
-<td colspan="3">Дәстүрлі музыкалық өнер</td>
-<td colspan="2">53</td>
-<td colspan="5">4</td>
-<td colspan="2">57</td>
+<td colspan="4">Дәстүрлі музыкалық өнер</td>
+<td colspan="2">46</td>
+<td colspan="5">8</td>
+<td colspan="3">54</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
 <td>5В040500</td>
-<td colspan="3">Дирижирлеу</td>
-<td colspan="2">9</td>
-<td colspan="5">7</td>
-<td colspan="2">16</td>
+<td colspan="4">Дирижирлеу</td>
+<td colspan="2">11</td>
+<td colspan="5">5</td>
+<td colspan="3">16</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
 <td>5В040600</td>
-<td colspan="3">Режиссура</td>
-<td colspan="2">10</td>
-<td colspan="5">10</td>
-<td colspan="2">20</td>
+<td colspan="4">Режиссура</td>
+<td colspan="2">7</td>
+<td colspan="5">11</td>
+<td colspan="3">18</td>
 </tr>
 <tr>
 <td colspan="2">9</td>
 <td>5В040700</td>
-<td colspan="3">Актерлық өнер</td>
-<td colspan="2">18</td>
+<td colspan="4">Актерлық өнер</td>
+<td colspan="2">19</td>
 <td colspan="5">5</td>
-<td colspan="2">23</td>
+<td colspan="3">24</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
 <td>5В040800</td>
-<td colspan="3">Эстрада өнері</td>
+<td colspan="4">Эстрада өнері</td>
 <td colspan="2">9</td>
-<td colspan="5">9</td>
-<td colspan="2">18</td>
+<td colspan="5">7</td>
+<td colspan="3">16</td>
 </tr>
 <tr>
 <td colspan="2">11</td>
 <td>5В041000</td>
-<td colspan="3">Сценография</td>
-<td colspan="2">12</td>
-<td colspan="5">9</td>
-<td colspan="2">21</td>
+<td colspan="4">Сценография</td>
+<td colspan="2">16</td>
+<td colspan="5">12</td>
+<td colspan="3">28</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
 <td>5В041100</td>
-<td colspan="3">Композиция</td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
+<td colspan="4">Композиция</td>
 <td colspan="2">2</td>
+<td colspan="5">0</td>
+<td colspan="3">2</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
 <td>5В041200</td>
-<td colspan="3">Операторлық өнер</td>
+<td colspan="4">Операторлық өнер</td>
 <td colspan="2">3</td>
 <td colspan="5">2</td>
-<td colspan="2">5</td>
+<td colspan="3">5</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
 <td>5В041300</td>
-<td colspan="3">Кескіндеме</td>
-<td colspan="2">5</td>
-<td colspan="5">2</td>
-<td colspan="2">7</td>
+<td colspan="4">Кескіндеме</td>
+<td colspan="2">4</td>
+<td colspan="5">5</td>
+<td colspan="3">9</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
 <td>5В041500</td>
-<td colspan="3">Мүсін</td>
+<td colspan="4">Мүсін</td>
 <td colspan="2">1</td>
 <td colspan="5">1</td>
-<td colspan="2">2</td>
+<td colspan="3">2</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
 <td>5В041600</td>
-<td colspan="3">Өнертану</td>
-<td colspan="2">4</td>
-<td colspan="5">4</td>
-<td colspan="2">8</td>
+<td colspan="4">Өнертану</td>
+<td colspan="2">6</td>
+<td colspan="5">1</td>
+<td colspan="3">7</td>
 </tr>
 <tr>
 <td colspan="2">17</td>
 <td>5В041700</td>
-<td colspan="3">Сәндік өнер</td>
-<td colspan="2">6</td>
-<td colspan="5">5</td>
-<td colspan="2">11</td>
+<td colspan="4">Сәндік өнер</td>
+<td colspan="2">8</td>
+<td colspan="5">3</td>
+<td colspan="3">11</td>
 </tr>
 <tr>
 <td colspan="2">18</td>
 <td>5В042300</td>
-<td colspan="3">Арт-менеджмент</td>
-<td colspan="2">3</td>
-<td colspan="5">3</td>
-<td colspan="2">6</td>
+<td colspan="4">Арт-менеджмент</td>
+<td colspan="2">4</td>
+<td colspan="5">6</td>
+<td colspan="3">10</td>
 </tr>
 <tr>
 <td colspan="2">19</td>
 <td></td>
-<td colspan="3">Барлығы</td>
-<td colspan="2">180</td>
-<td colspan="5">106</td>
-<td colspan="2">286</td>
+<td colspan="4">Барлығы</td>
+<td colspan="2">182</td>
+<td colspan="5">111</td>
+<td colspan="3">293</td>
 </tr>
 <tr>
-<td colspan="15">1.1. Квоталар</td>
+<td colspan="17">1.1. Квоталар</td>
 </tr>
 <tr>
 <td colspan="2">20</td>
 <td></td>
 <td colspan="3">Жетім балалар және ата-анасының қамқорлығынсыз қалған балалар үшін квота</td>
-<td colspan="2">0</td>
+<td colspan="3">1</td>
 <td colspan="5">0</td>
-<td colspan="2">3</td>
+<td colspan="3">1</td>
 </tr>
 <tr>
 <td colspan="2">21</td>
 <td></td>
 <td colspan="3">I, II топтағы мүгедектер, бала кезінен мүгедектер, мүгедек балалар арасынан шыққан азаматтар үшін квота (1%)</td>
-<td colspan="2">0</td>
-<td colspan="5">0</td>
-<td colspan="2">3</td>
+<td colspan="3">1</td>
+<td colspan="5">1</td>
+<td colspan="3">2</td>
 </tr>
 <tr>
 <td colspan="2">22</td>
 <td></td>
 <td colspan="3">Жеңілдіктері мен кепілдіктері бойынша Ұлы Отан соғысының қатысушылары мен мүгедектеріне теңестірілген адамдар үшін квота (0,5%)</td>
-<td colspan="2">0</td>
-<td colspan="5">0</td>
-<td colspan="2">2</td>
+<td colspan="3">0</td>
+<td colspan="5">1</td>
+<td colspan="3">1</td>
 </tr>
 <tr>
 <td colspan="2">23</td>
 <td></td>
 <td colspan="3">Қазақстан Республикасының азаматы болып табылмайтын ұлты қазақ адамдарға квота (2%)</td>
-<td colspan="2">0</td>
+<td colspan="3">3</td>
 <td colspan="5">0</td>
-<td colspan="2">6</td>
+<td colspan="3">3</td>
 </tr>
 <tr>
 <td colspan="2">24</td>
 <td colspan="4">Барлық квота</td>
-<td colspan="2">0</td>
-<td colspan="5">0</td>
-<td colspan="2">14</td>
+<td colspan="3">5</td>
+<td colspan="5">2</td>
+<td colspan="3">7</td>
 </tr>
 <tr>
 <td colspan="2">25</td>
 <td colspan="4">Барлығы бөлім бойынша</td>
-<td colspan="2">180</td>
-<td colspan="5">106</td>
-<td colspan="2">300</td>
+<td colspan="3">187</td>
+<td colspan="5">113</td>
+<td colspan="3">300</td>
 </tr>
 <tr>
-<td colspan="15">2. Қазақстан Республикасы Мәдениет және спорт министрлігінің «Т.К. Жүргенов атындағы Қазақ ұлттық өнер академиясы» республикалық мемлекеттік мекемесі</td>
+<td colspan="17">2. Қазақстан Республикасы Мәдениет және спорт министрлігінің «Т.К. Жүргенов атындағы Қазақ ұлттық өнер академиясы» республикалық мемлекеттік мекемесі</td>
 </tr>
 <tr>
 <td>26</td>
 <td colspan="2">5В040400</td>
 <td colspan="3">Дәстүрлі музыкалық өнер</td>
-<td colspan="3">9</td>
+<td colspan="4">9</td>
 <td colspan="4">0</td>
-<td colspan="2">9</td>
+<td colspan="3">9</td>
 </tr>
 <tr>
 <td>27</td>
 <td colspan="2">5В040600</td>
 <td colspan="3">Режиссура</td>
-<td colspan="3">34</td>
+<td colspan="4">34</td>
 <td colspan="4">17</td>
-<td colspan="2">51</td>
+<td colspan="3">51</td>
 </tr>
 <tr>
 <td>28</td>
 <td colspan="2">5В040700</td>
 <td colspan="3">Актерлық өнер</td>
-<td colspan="3">42</td>
+<td colspan="4">47</td>
 <td colspan="4">0</td>
-<td colspan="2">42</td>
+<td colspan="3">47</td>
 </tr>
 <tr>
 <td>29</td>
 <td colspan="2">5В040800</td>
 <td colspan="3">Эстрадалық өнер</td>
-<td colspan="3">10</td>
+<td colspan="4">10</td>
 <td colspan="4">5</td>
-<td colspan="2">15</td>
+<td colspan="3">15</td>
 </tr>
 <tr>
 <td>30</td>
 <td colspan="2">5В040900</td>
 <td colspan="3">Хореография</td>
-<td colspan="3">2</td>
+<td colspan="4">2</td>
 <td colspan="4">8</td>
-<td colspan="2">10</td>
+<td colspan="3">10</td>
 </tr>
 <tr>
 <td>31</td>
 <td colspan="2">5В041000</td>
 <td colspan="3">Сценография</td>
-<td colspan="3">11</td>
-<td colspan="4">6</td>
-<td colspan="2">17</td>
+<td colspan="4">14</td>
+<td colspan="4">3</td>
+<td colspan="3">17</td>
 </tr>
 <tr>
 <td>32</td>
 <td colspan="2">5В041200</td>
 <td colspan="3">Операторлық өнер</td>
-<td colspan="3">6</td>
+<td colspan="4">6</td>
 <td colspan="4">5</td>
-<td colspan="2">11</td>
+<td colspan="3">11</td>
 </tr>
 <tr>
 <td>33</td>
-<td colspan="2">5В041400</td>
-<td colspan="3">Графика</td>
-<td colspan="3">5</td>
-<td colspan="4">3</td>
-<td colspan="2">8</td>
+<td colspan="2">5В041300</td>
+<td colspan="3">Кескіндеме</td>
+<td colspan="4">7</td>
+<td colspan="4">2</td>
+<td colspan="3">9</td>
 </tr>
 <tr>
 <td>34</td>
-<td colspan="2">5В041300</td>
-<td colspan="3">Кескіндеме</td>
-<td colspan="3">7</td>
-<td colspan="4">2</td>
-<td colspan="2">9</td>
+<td colspan="2">5В041400</td>
+<td colspan="3">Графика</td>
+<td colspan="4">5</td>
+<td colspan="4">3</td>
+</tr>
+<tr>
 </tr>
 <tr>
 <td>35</td>
 <td colspan="2">5В041500</td>
 <td colspan="3">Мүсін</td>
-<td colspan="3">3</td>
+<td colspan="4">3</td>
 <td colspan="4">0</td>
-<td colspan="2">3</td>
+<td colspan="3">3</td>
 </tr>
 <tr>
 <td>36</td>
 <td colspan="2">5В041600</td>
 <td colspan="3">Өнертану</td>
-<td colspan="3">24</td>
+<td colspan="4">24</td>
 <td colspan="4">0</td>
-<td colspan="2">24</td>
+<td colspan="3">24</td>
 </tr>
 <tr>
 <td>37</td>
 <td colspan="2">5В041700</td>
 <td colspan="3">Сән өнері</td>
-<td colspan="3">14</td>
+<td colspan="4">14</td>
 <td colspan="4">2</td>
-<td colspan="2">16</td>
+<td colspan="3">16</td>
 </tr>
 <tr>
 <td>38</td>
 <td colspan="2">5В042100</td>
 <td colspan="3">Дизайн</td>
-<td colspan="3">9</td>
+<td colspan="4">9</td>
 <td colspan="4">2</td>
-<td colspan="2">11</td>
+<td colspan="3">11</td>
 </tr>
 <tr>
 <td>39</td>
 <td colspan="2">5В042300</td>
 <td colspan="3">Арт-менеджмент</td>
-<td colspan="3">4</td>
+<td colspan="4">4</td>
 <td colspan="4">1</td>
-<td colspan="2">5</td>
+<td colspan="3">5</td>
 </tr>
 <tr>
 <td>40</td>
 <td colspan="5">Барлығы</td>
-<td colspan="3">180</td>
-<td colspan="4">51</td>
-<td colspan="2">231</td>
+<td colspan="4">188</td>
+<td colspan="4">48</td>
+<td colspan="3">236</td>
 </tr>
 <tr>
-<td colspan="15">2.1. Квоталар</td>
+<td colspan="17">2.1. Квоталар</td>
 </tr>
 <tr>
 <td>41</td>
 <td colspan="2"></td>
-<td colspan="3">Жетім балалар және ата-анасының қамқорлығынсыз қалған балалар үшін квота</td>
-<td colspan="3">0</td>
+<td colspan="4">Жетім балалар және ата-анасының қамқорлығынсыз қалған балалар үшін квота</td>
+<td colspan="3">1</td>
 <td colspan="4">0</td>
-<td colspan="2">2</td>
+<td colspan="3">1</td>
 </tr>
 <tr>
 <td>42</td>
 <td colspan="2"></td>
-<td colspan="3">I, II топтағы мүгедектер, бала кезінен мүгедектер, мүгедек балалар арасынан шыққан азаматтар үшін квота (1%)</td>
-<td colspan="3">0</td>
+<td colspan="4">I, II топтағы мүгедектер, бала кезінен мүгедектер, мүгедек балалар арасынан шыққан азаматтар үшін квота (1%)</td>
+<td colspan="3">1</td>
 <td colspan="4">0</td>
-<td colspan="2">2</td>
+<td colspan="3">1</td>
 </tr>
 <tr>
 <td>43</td>
 <td colspan="2"></td>
-<td colspan="3">Жеңілдіктері мен кепілдіктері бойынша Ұлы Отан соғысының қатысушылары мен мүгедектеріне теңестірілген адамдар үшін квота (0,5%)</td>
+<td colspan="4">Жеңілдіктері мен кепілдіктері бойынша Ұлы Отан соғысының қатысушылары мен мүгедектеріне теңестірілген адамдар үшін квота (0,5%)</td>
 <td colspan="3">0</td>
 <td colspan="4">0</td>
-<td colspan="2">1</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td>44</td>
 <td colspan="2"></td>
-<td colspan="3">Қазақстан Республикасының азаматы болып табылмайтын ұлты қазақ адамдарға квота (2%)</td>
-<td colspan="3">0</td>
+<td colspan="4">Қазақстан Республикасының азаматы болып табылмайтын ұлты қазақ адамдарға квота (2%)</td>
+<td colspan="3">2</td>
 <td colspan="4">0</td>
-<td colspan="2">4</td>
+<td colspan="3">2</td>
 </tr>
 <tr>
 <td>45</td>
-<td colspan="5">Барлық квота</td>
-<td colspan="3">0</td>
+<td colspan="6">Барлық квота</td>
+<td colspan="3">4</td>
 <td colspan="4">0</td>
-<td colspan="2">9</td>
+<td colspan="3">4</td>
 </tr>
 <tr>
 <td>46</td>
-<td colspan="5">Барлығы бөлім бойынша</td>
-<td colspan="3">180</td>
-<td colspan="4">51</td>
-<td colspan="2">240</td>
+<td colspan="6">Барлығы бөлім бойынша</td>
+<td colspan="3">192</td>
+<td colspan="4">48</td>
+<td colspan="3">240</td>
 </tr>
 <tr>
-<td colspan="15">3. Қазақстан Республикасы Мәдениет және спорт министрлігінің «Құрманғазы атындағы Қазақ ұлттық консерваториясы» республикалық мемлекеттік мекемесі</td>
+<td colspan="17">3. Қазақстан Республикасы Мәдениет және спорт министрлігінің «Құрманғазы атындағы Қазақ ұлттық консерваториясы» республикалық мемлекеттік мекемесі</td>
 </tr>
 <tr>
 <td>47</td>
 <td colspan="2">5В040100</td>
-<td colspan="3">Музыкатану</td>
+<td colspan="4">Музыкатану</td>
 <td colspan="3">6</td>
-<td colspan="3">4</td>
-<td colspan="3">10</td>
+<td colspan="3">2</td>
+<td colspan="4">8</td>
 </tr>
 <tr>
 <td>48</td>
 <td colspan="2">5В040200</td>
-<td colspan="3">Аспаптық орындау</td>
-<td colspan="3">40</td>
-<td colspan="3">20</td>
-<td colspan="3">60</td>
+<td colspan="4">Аспаптық орындаушылық</td>
+<td colspan="3">37</td>
+<td colspan="3">17</td>
+<td colspan="4">54</td>
 </tr>
 <tr>
 <td>49</td>
 <td colspan="2">5В040300</td>
-<td colspan="3">Вокалдық өнер</td>
-<td colspan="3">10</td>
-<td colspan="3">10</td>
-<td colspan="3">20</td>
+<td colspan="4">Вокалдық өнер</td>
+<td colspan="3">16</td>
+<td colspan="3">4</td>
+<td colspan="4">20</td>
 </tr>
 <tr>
 <td>50</td>
 <td colspan="2">5В040400</td>
-<td colspan="3">Дәстүрлі музыкалық өнер</td>
-<td colspan="3">60</td>
-<td colspan="3">10</td>
-<td colspan="3">70</td>
+<td colspan="4">Дәстүрлі музыкалық өнер</td>
+<td colspan="3">79</td>
+<td colspan="3">3</td>
+<td colspan="4">82</td>
 </tr>
 <tr>
 <td>51</td>
 <td colspan="2">5В040500</td>
-<td colspan="3">Дирижирлеу</td>
-<td colspan="3">10</td>
-<td colspan="3">10</td>
-<td colspan="3">20</td>
+<td colspan="4">Дирижирлеу</td>
+<td colspan="3">18</td>
+<td colspan="3">4</td>
+<td colspan="4">22</td>
 </tr>
 <tr>
 <td>52</td>
 <td colspan="2">5В041100</td>
-<td colspan="3">Композиция</td>
+<td colspan="4">Композиция</td>
 <td colspan="3">2</td>
-<td colspan="3">2</td>
-<td colspan="3">4</td>
+<td colspan="3">3</td>
+<td colspan="4">5</td>
 </tr>
 <tr>
 <td>53</td>
 <td colspan="2">5В042300</td>
-<td colspan="3">Арт-менеджмент</td>
-<td colspan="3">10</td>
+<td colspan="4">Арт-менеджмент</td>
+<td colspan="3">8</td>
 <td colspan="3">5</td>
-<td colspan="3">15</td>
+<td colspan="4">13</td>
 </tr>
 <tr>
 <td>54</td>
 <td colspan="2">5В010600</td>
-<td colspan="3">Музыкалық білім</td>
-<td colspan="3">10</td>
-<td colspan="3">5</td>
+<td colspan="4">Музыкалық білім</td>
 <td colspan="3">15</td>
+<td colspan="3">2</td>
+<td colspan="4">17</td>
 </tr>
 <tr>
 <td>55</td>
 <td colspan="2">5В010300</td>
-<td colspan="3">Педагокика және психология</td>
-<td colspan="3">4</td>
-<td colspan="3">4</td>
-<td colspan="3">8</td>
+<td colspan="4">Педагокика және психология</td>
+<td colspan="3">6</td>
+<td colspan="3">2</td>
+<td colspan="4">8</td>
 </tr>
 <tr>
 <td>56</td>
-<td colspan="5">Барлығы</td>
-<td colspan="3">152</td>
-<td colspan="3">70</td>
-<td colspan="3">222</td>
+<td colspan="6">Барлығы</td>
+<td colspan="3">187</td>
+<td colspan="3">42</td>
+<td colspan="4">229</td>
 </tr>
 <tr>
-<td colspan="15">3.1. Квоталар</td>
+<td colspan="17">3.1. Квоталар</td>
 </tr>
 <tr>
 <td>57</td>
 <td colspan="2"></td>
 <td colspan="3">I, II топтағы мүгедектер, бала кезінен мүгедектер, мүгедек балалар арасынан шыққан азаматтар үшін квота (1%)</td>
+<td colspan="4">0</td>
 <td colspan="3">0</td>
-<td colspan="3">0</td>
-<td colspan="3">1</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td>58</td>
 <td colspan="2"></td>
 <td colspan="3">Жеңілдіктері мен кепілдіктері бойынша Ұлы Отан соғысының қатысушылары мен мүгедектеріне теңестірілген адамдар үшін квота (0,5%)</td>
+<td colspan="4">0</td>
 <td colspan="3">0</td>
-<td colspan="3">0</td>
-<td colspan="3">1</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td>59</td>
 <td colspan="2"></td>
 <td colspan="3">Қазақстан Республикасының азаматы болып табылмайтын ұлты қазақ адамдарға квота (2%)</td>
+<td colspan="4">1</td>
 <td colspan="3">0</td>
-<td colspan="3">0</td>
-<td colspan="3">4</td>
+<td colspan="4">1</td>
 </tr>
 <tr>
 <td>60</td>
 <td colspan="2"></td>
 <td colspan="3">Жетім балалар және ата-анасының қамқорлығынсыз қалған балалар үшін квота (1%)</td>
+<td colspan="4">0</td>
 <td colspan="3">0</td>
-<td colspan="3">0</td>
-<td colspan="3">2</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td>61</td>
 <td colspan="5">Барлық квота</td>
+<td colspan="4">1</td>
 <td colspan="3">0</td>
-<td colspan="3">0</td>
-<td colspan="3">8</td>
+<td colspan="4">1</td>
 </tr>
 <tr>
 <td>62</td>
 <td colspan="5">Барлығы бөлім бойынша</td>
-<td colspan="3">152</td>
-<td colspan="3">70</td>
-<td colspan="3">230</td>
+<td colspan="4">188</td>
+<td colspan="3">42</td>
+<td colspan="4">230</td>
 </tr>
 <tr>
-<td colspan="15">4. «Қазақ ұлттық хореография академиясы» коммерциялық емес акционерлік қоғамы</td>
+<td colspan="17">4. «Қазақ ұлттық хореография академиясы» коммерциялық емес акционерлік қоғамы</td>
 </tr>
 <tr>
 <td rowspan="2">63</td>
 <td colspan="3" rowspan="2">Шифр</td>
 <td rowspan="2">Мамандықтар атауы</td>
-<td colspan="9">Оқыту курстары</td>
+<td colspan="11">Оқыту курстары</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td colspan="3">1</td>
 <td colspan="3">2</td>
 <td>3</td>
-<td colspan="3">4</td>
+<td colspan="4">4</td>
 <td></td>
 </tr>
 <tr>
 <td>64</td>
 <td colspan="3">5В040600</td>
 <td>Режиссура</td>
-<td colspan="2">8</td>
+<td colspan="3">8</td>
 <td colspan="3">2</td>
 <td>2</td>
-<td colspan="3"></td>
+<td colspan="4"></td>
 <td>12</td>
 </tr>
 <tr>
-<td>66</td>
+<td>65</td>
 <td colspan="3">5В040900</td>
 <td>Хореография</td>
-<td colspan="2">15</td>
+<td colspan="3">15</td>
 <td colspan="3">15</td>
 <td>18</td>
-<td colspan="3">12</td>
+<td colspan="4">12</td>
 <td>60</td>
 </tr>
 <tr>
-<td>67</td>
+<td>66</td>
 <td colspan="3">5В041600</td>
 <td>Өнертану</td>
-<td colspan="2">13</td>
+<td colspan="3">13</td>
 <td colspan="3">0</td>
 <td>0</td>
-<td colspan="3">0</td>
+<td colspan="4">0</td>
 <td>13</td>
 </tr>
 <tr>
-<td>68</td>
+<td>67</td>
 <td colspan="3">5В042300</td>
 <td>Арт-Менеджмент</td>
-<td colspan="2">32</td>
+<td colspan="3">33</td>
 <td colspan="3">0</td>
 <td>0</td>
-<td colspan="3">0</td>
-<td>32</td>
+<td colspan="4">0</td>
+<td>33</td>
+</tr>
+<tr>
+<td>68</td>
+<td colspan="4">Барлығы бөлім бойынша:</td>
+<td colspan="3">69</td>
+<td colspan="3">17</td>
+<td>20</td>
+<td colspan="4">12</td>
+<td>118</td>
+</tr>
+<tr>
+<td colspan="17">4.1. Квоталар</td>
 </tr>
 <tr>
 <td>69</td>
-<td colspan="4">Барлығы бөлім бойынша:</td>
-<td colspan="2">68</td>
-<td colspan="3">17</td>
-<td>20</td>
-<td colspan="3">12</td>
-<td>117</td>
-</tr>
-<tr>
-<td colspan="15">4.1. Квоталар</td>
+<td colspan="3">Шифр</td>
+<td>Мамандықтар атауы</td>
+<td colspan="10">Орын саны</td>
+<td colspan="2">Барлығы</td>
 </tr>
 <tr>
 <td>70</td>
-<td colspan="3">Шифр</td>
-<td>Мамандықтар атауы</td>
-<td colspan="9">Орын саны</td>
-<td>Барлығы</td>
+<td colspan="4">Қазақстан Республикасының азаматы болып табылмайтын ұлты қазақ адамдарға квота (2%)</td>
+<td colspan="10">0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>71</td>
-<td colspan="4">Қазақстан Республикасының азаматы болып табылмайтын ұлты қазақ адамдарға квота (2%)</td>
-<td colspan="9">1</td>
-<td>1</td>
+<td colspan="4">Барлық квота</td>
+<td colspan="10">0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>72</td>
-<td colspan="4">Барлық квота</td>
-<td colspan="9">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>73</td>
 <td colspan="4">Барлығы бөлім бойынша</td>
-<td colspan="9">69</td>
-<td>118</td>
+<td colspan="10">69</td>
+<td colspan="2">118</td>
 </tr>
 </table>
 
 > *Қазақстан Республикасы*  
 > *Мәдениет және спорт Министрі*  
-> *2016 жылғы 19 шілде*  
+> *2016 жылғы 19 шілдедегі*  
 > *№ 210 бұйрығының*  
 > *2- қосымшасы*
 
 ## Республикалық бюджеттен қаржыландырылатын мәдениет және өнер саласындағы оқу орындарында жоғары оқу орнынан кейінгі білімі бар мамандар даярлауға 2016 – 2017 оқу жылына арналған мемлекеттік білім беру тапсырысы
+
+> *Ескерту. 2-қосымша жаңа редакцияда - ҚР Мәдениет және спорт министрінің 28.09.2016 № 262 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
@@ -692,7 +698,7 @@ source: https://zan.gov.kz/client/#!/doc/104761/kaz/19.07.2016
 <td>1</td>
 <td colspan="2">6М010600</td>
 <td colspan="3">Музыкалық білім</td>
-<td colspan="2">2</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>2</td>
@@ -704,7 +710,7 @@ source: https://zan.gov.kz/client/#!/doc/104761/kaz/19.07.2016
 <td>3</td>
 <td colspan="2">6М040100</td>
 <td colspan="3">Музыкатану</td>
-<td colspan="2">2</td>
+<td colspan="2">3</td>
 </tr>
 <tr>
 <td>4</td>
@@ -716,7 +722,7 @@ source: https://zan.gov.kz/client/#!/doc/104761/kaz/19.07.2016
 <td>5</td>
 <td colspan="2">6М040300</td>
 <td colspan="3">Вокалдық өнер</td>
-<td colspan="2">2</td>
+<td colspan="2">3</td>
 </tr>
 <tr>
 <td>6</td>
@@ -778,19 +784,19 @@ source: https://zan.gov.kz/client/#!/doc/104761/kaz/19.07.2016
 <td>15</td>
 <td colspan="2">6М040400</td>
 <td colspan="3">Дәстүрлі музыкалық өнер</td>
-<td colspan="2">2</td>
+<td colspan="2">3</td>
 </tr>
 <tr>
 <td>16</td>
 <td colspan="2">6М040600</td>
 <td colspan="3">Режиссура</td>
-<td colspan="2">15</td>
+<td colspan="2">17</td>
 </tr>
 <tr>
 <td>17</td>
 <td colspan="2">6М040700</td>
 <td colspan="3">Актерлық өнер</td>
-<td colspan="2">4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td>18</td>
@@ -802,7 +808,7 @@ source: https://zan.gov.kz/client/#!/doc/104761/kaz/19.07.2016
 <td>19</td>
 <td colspan="2">6М040900</td>
 <td colspan="3">Хореография</td>
-<td colspan="2">2</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td>20</td>
@@ -814,19 +820,19 @@ source: https://zan.gov.kz/client/#!/doc/104761/kaz/19.07.2016
 <td>21</td>
 <td colspan="2">6М041200</td>
 <td colspan="3">Операторлық өнер</td>
-<td colspan="2">3</td>
+<td colspan="2">1</td>
 </tr>
 <tr>
 <td>22</td>
 <td colspan="2">6М041300</td>
 <td colspan="3">Кескіндеме</td>
-<td colspan="2">3</td>
+<td colspan="2">4</td>
 </tr>
 <tr>
 <td>23</td>
 <td colspan="2">6М041400</td>
 <td colspan="3">Графика</td>
-<td colspan="2">3</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>24</td>
@@ -838,19 +844,19 @@ source: https://zan.gov.kz/client/#!/doc/104761/kaz/19.07.2016
 <td>25</td>
 <td colspan="2">6М041600</td>
 <td colspan="3">Өнертану</td>
-<td colspan="2">10</td>
+<td colspan="2">9</td>
 </tr>
 <tr>
 <td>26</td>
 <td colspan="2">6М041700</td>
 <td colspan="3">Сәндік өнер</td>
-<td colspan="2">2</td>
+<td colspan="2">1</td>
 </tr>
 <tr>
 <td>27</td>
 <td colspan="2">6М042100</td>
 <td colspan="3">Дизайн</td>
-<td colspan="2">3</td>
+<td colspan="2">2</td>
 </tr>
 <tr>
 <td>28</td>
@@ -870,31 +876,31 @@ source: https://zan.gov.kz/client/#!/doc/104761/kaz/19.07.2016
 <td>30</td>
 <td colspan="2">6М040200</td>
 <td colspan="3">Аспаптық орындаушылық</td>
-<td colspan="2">10</td>
+<td colspan="2">11</td>
 </tr>
 <tr>
 <td>31</td>
 <td colspan="2">6М040300</td>
 <td colspan="3">Вокалдық өнер</td>
-<td colspan="2">2</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
 <td>32</td>
 <td colspan="2">6М040400</td>
 <td colspan="3">Дәстүрлі музыкалық өнер</td>
-<td colspan="2">11</td>
+<td colspan="2">4</td>
 </tr>
 <tr>
 <td>33</td>
 <td colspan="2">6М040500</td>
 <td colspan="3">Дирижирлеу</td>
-<td colspan="2">3</td>
+<td colspan="2">4</td>
 </tr>
 <tr>
 <td>34</td>
 <td colspan="2">6М041100</td>
 <td colspan="3">Композиция</td>
-<td colspan="2">1</td>
+<td colspan="2">2</td>
 </tr>
 <tr>
 <td>35</td>
@@ -948,31 +954,36 @@ source: https://zan.gov.kz/client/#!/doc/104761/kaz/19.07.2016
 <td>7</td>
 </tr>
 <tr>
+<td>41</td>
+<td colspan="6">Барлығы бөлім бойынша</td>
+<td>131</td>
+</tr>
+<tr>
 <td colspan="8">2. Докторантура PhD</td>
 </tr>
 <tr>
 <td colspan="8">2.1. Қазақстан Республикасы Мәдениет және спорт министрлігінің «Қазақ ұлттық өнер университеті» республикалық мемлекеттік мекемесі</td>
 </tr>
 <tr>
-<td>41</td>
+<td>42</td>
 <td colspan="2">6D010600</td>
 <td colspan="3">Музыкалық білім</td>
 <td colspan="2">1</td>
 </tr>
 <tr>
-<td>42</td>
+<td>43</td>
 <td colspan="2">6D040100</td>
 <td colspan="3">Музыкатану</td>
 <td colspan="2">1</td>
 </tr>
 <tr>
-<td>43</td>
+<td>44</td>
 <td colspan="2">6D040200</td>
 <td colspan="3">Аспаптық орындаушылық</td>
 <td colspan="2">1</td>
 </tr>
 <tr>
-<td>44</td>
+<td>45</td>
 <td colspan="5">Барлығы бөлімше бойынша</td>
 <td colspan="2">3</td>
 </tr>
@@ -980,25 +991,25 @@ source: https://zan.gov.kz/client/#!/doc/104761/kaz/19.07.2016
 <td colspan="8">2.2. Қазақстан Республикасы Мәдениет және спорт министрлігінің «Т.К. Жүргенов атындағы Қазақ ұлттық өнер академиясы» республикалық мемлекеттік мекемесі</td>
 </tr>
 <tr>
-<td>45</td>
+<td>46</td>
 <td colspan="2">6D040600</td>
 <td colspan="3">Режиссура</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>46</td>
-<td colspan="2">6D041600</td>
-<td colspan="3">Өнертану</td>
-<td colspan="2">3</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>47</td>
+<td colspan="2">6D041600</td>
+<td colspan="3">Өнертану</td>
+<td colspan="2">4</td>
+</tr>
+<tr>
+<td>48</td>
 <td colspan="2">6D041700</td>
 <td colspan="3">Сәндік өнер</td>
 <td colspan="2">1</td>
 </tr>
 <tr>
-<td>48</td>
+<td>49</td>
 <td colspan="5">Барлығы бөлімше бойынша</td>
 <td colspan="2">5</td>
 </tr>
@@ -1006,24 +1017,30 @@ source: https://zan.gov.kz/client/#!/doc/104761/kaz/19.07.2016
 <td colspan="8">2.3. Қазақстан Республикасы Мәдениет және спорт министрлігінің «Құрманғазы атындағы Қазақ ұлттық консерваториясы» республикалық мемлекеттік мекемесі</td>
 </tr>
 <tr>
-<td>49</td>
+<td>50</td>
 <td colspan="2">6D040400</td>
 <td colspan="3">Дәстүрлі музыкалық өнер</td>
-<td colspan="2">1</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
-<td>50</td>
+<td>51</td>
 <td colspan="2">6D040200</td>
 <td colspan="3">Аспаптық орындаушылық</td>
 <td colspan="2">1</td>
 </tr>
 <tr>
-<td>51</td>
+<td>52</td>
+<td colspan="2">6D040500</td>
+<td colspan="3">Дирижирлеу</td>
+<td colspan="2">1</td>
+</tr>
+<tr>
+<td>53</td>
 <td colspan="5">Барлығы бөлімше бойынша</td>
 <td colspan="2">2</td>
 </tr>
 <tr>
-<td>52</td>
+<td>54</td>
 <td colspan="5">Барлығы бөлім бойынша</td>
 <td colspan="2">10</td>
 </tr>
