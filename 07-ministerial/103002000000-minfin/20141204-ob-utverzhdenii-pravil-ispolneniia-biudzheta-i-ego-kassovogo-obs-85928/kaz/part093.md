@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85928/kaz/06.06.2016
+source: https://zan.gov.kz/client/#!/doc/85928/kaz/11.11.2016
 ---
 
 ## 20-параграф. Қазақстан Республикасының мемлекет кепілгерлігін беру рәсімі
