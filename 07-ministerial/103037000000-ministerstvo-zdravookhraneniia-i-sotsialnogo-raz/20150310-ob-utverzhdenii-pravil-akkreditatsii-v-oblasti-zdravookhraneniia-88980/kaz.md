@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/88980/kaz/29.06.2015
+source: https://zan.gov.kz/client/#!/doc/88980/kaz/29.11.2016
 ---
 
 # Денсаулық сақтау саласындағы аккредиттеу қағидаларын бекіту туралы
