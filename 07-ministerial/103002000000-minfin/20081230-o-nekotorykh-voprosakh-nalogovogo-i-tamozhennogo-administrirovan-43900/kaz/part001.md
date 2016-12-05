@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/43900/kaz/01.04.2016
+source: https://zan.gov.kz/client/#!/doc/43900/kaz/05.12.2016
 ---
 
 ## Мемлекеттік кірістер органы есептеген салықтардың сомасы туралы хабарлама

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/43900/rus/01.04.2016
+source: https://zan.gov.kz/client/#!/doc/43900/rus/05.12.2016
 ---
 
 ## Уведомление о сумме налогов, исчисленных органом государственных доходов
