@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/75781/rus/09.02.2016
+source: https://zan.gov.kz/client/#!/doc/75781/rus/06.12.2016
 ---
 
 ## 2. Этапы консолидации финансовой отчетности
