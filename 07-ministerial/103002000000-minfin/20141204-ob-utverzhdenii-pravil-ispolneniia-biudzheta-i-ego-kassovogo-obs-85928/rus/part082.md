@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85928/rus/11.11.2016
+source: https://zan.gov.kz/client/#!/doc/85928/rus/12.12.2016
 ---
 
 ## Параграф 9. Процедура предоставления государственных гарантий по негосударственным займам
