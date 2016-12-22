@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/83148/rus/13.08.2015
+source: https://zan.gov.kz/client/#!/doc/83148/rus/22.12.2016
 ---
 
 ## Параграф 16. Применение оружия сотрудником полиции
