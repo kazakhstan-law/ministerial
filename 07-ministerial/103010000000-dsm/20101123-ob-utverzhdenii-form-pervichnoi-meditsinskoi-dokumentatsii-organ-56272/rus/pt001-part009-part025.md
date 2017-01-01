@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56272/rus/29.07.2016
+source: https://zan.gov.kz/client/#!/doc/56272/rus/01.01.2017
 ---
 
 ## HLA-жүйесі бойынша типтеуге жолдама Направление на типирование по HLA-системе Типтеу әдісі (Метод типирования):

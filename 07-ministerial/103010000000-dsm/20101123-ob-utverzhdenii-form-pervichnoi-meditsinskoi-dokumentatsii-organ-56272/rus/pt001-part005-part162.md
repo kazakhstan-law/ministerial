@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56272/rus/29.07.2016
+source: https://zan.gov.kz/client/#!/doc/56272/rus/01.01.2017
 ---
 
 ## ИМТ к возрасту ДЕВОЧКИ от рождения от 2 лет до 5 лет (Z-индексы)
