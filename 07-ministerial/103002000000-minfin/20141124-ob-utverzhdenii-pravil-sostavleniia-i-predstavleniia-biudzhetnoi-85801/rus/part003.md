@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85801/rus/20.05.2016
+source: https://zan.gov.kz/client/#!/doc/85801/rus/01.01.2017
 ---
 
 ## 2. Порядок представления бюджетной заявки
