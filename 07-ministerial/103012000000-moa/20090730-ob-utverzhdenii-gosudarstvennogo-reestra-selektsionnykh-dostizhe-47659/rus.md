@@ -1,5 +1,5 @@
 ---
-version_id: AI47659_23
+version_id: AI47659_25
 act_code: '47659'
 language: rus
 title: Об утверждении Государственного реестра селекционных достижений, рекомендуемых к использованию в Республике Казахстан, и Перечня перспективных сортов сельскохозяйственных растений
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103012000000'
 approval_date: 2009-07-30
-version_date: 2016-06-02
+version_date: 2017-01-20
 registry_number: '47659'
 caused_by:
-  code: '99968'
-  title: О внесении изменений в некоторые приказы Министра сельского хозяйства Республики Казахстан
-  link: https://zan.gov.kz/client/#!/doc/99968/rus
-source: https://zan.gov.kz/client/#!/doc/47659/rus/02.06.2016
+  code: '109974'
+  title: О внесении изменений и дополнений в приказ Министра сельского хозяйства Республики Казахстан от 30 июля 2009 года № 434 «Об утверждении Государственного реестра селекционных достижений, рекомендуемых к использованию в Республике Казахстан, и Перечня перспективных сортов сельскохозяйственных растений»
+  link: https://zan.gov.kz/client/#!/doc/109974/rus
+source: https://zan.gov.kz/client/#!/doc/47659/rus/20.01.2017
 ---
 
 # Об утверждении Государственного реестра селекционных достижений, рекомендуемых к использованию в Республике Казахстан, и Перечня перспективных сортов сельскохозяйственных растений
@@ -26,26111 +26,29103 @@ source: https://zan.gov.kz/client/#!/doc/47659/rus/02.06.2016
 
 В целях реализации подпункта 21) пункта 1 статьи 6 Закона Республики Казахстан от 8 февраля 2003 года "О семеноводстве" ПРИКАЗЫВАЮ:
 
-1\. Утвердить прилагаемые:
+1. Утвердить прилагаемые:
 
-1) Государственный реестр селекционных достижений, рекомендуемых к использованию в Республике Казахстан;
+   1) Государственный реестр селекционных достижений, рекомендуемых к использованию в Республике Казахстан;
 
-2) Перечень перспективных сортов сельскохозяйственных растений.
+   2) Перечень перспективных сортов сельскохозяйственных растений.
 
-   > *Сноска. Пункт 1 с изменением, внесенным приказом Министра сельского хозяйства РК от 31.12.2015 № 4-6/1154 (порядок введения в действие см. п. 3).*
+> *Сноска. Пункт 1 с изменением, внесенным приказом Министра сельского хозяйства РК от 31.12.2015 № 4-6/1154 (порядок введения в действие см. п. 3).*
 
-2\. Департаменту земледелия и фитосанитарной безопасности в установленном законодательством Республики Казахстан порядке обеспечить государственную регистрацию настоящего приказа в Министерстве юстиции Республики Казахстан.
+2. Департаменту земледелия и фитосанитарной безопасности в установленном законодательством Республики Казахстан порядке обеспечить государственную регистрацию настоящего приказа в Министерстве юстиции Республики Казахстан.
 
-3\. Настоящий приказ вводится в действие по истечении десяти календарных дней после первого официального опубликования.
+3. Настоящий приказ вводится в действие по истечении десяти календарных дней после первого официального опубликования.
 
-Министр А. Куришбаев
+**Министр**
 
-> *Утвержден приказом*  
+**А. Куришбаев**
+
+> *Утверждены приказом*  
 > *Министра сельского хозяйства*  
 > *Республики Казахстан*  
 > *от 30 июля 2009 года № 434*
 
 ## Государственный реестр селекционных достижений, рекомендуемых к использованию в Республике Казахстан
 
-> *Сноска. Заголовок Государственного реестра в редакции приказа Министра сельского хозяйства РК от 31.12.2015 № 4-6/1154 (порядок введения в действие см. п. 3).*
-
-> *Сноска. Государственный реестр в редакции приказа Министра сельского хозяйства РК от 19.01.2016 № 16 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); с изменениями, внесенным приказом Министра сельского хозяйства РК от 31.12.2015 № 4-6/1154 (порядок введения в действие см. п. 3).*
+> *Сноска. Государственный реестр в редакции приказа Заместителя Премьер-Министра Республики Казахстан - Министра сельского хозяйства РК от 20.01.2017 № 22 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td rowspan="2">
-Наименование
-сорта, гибрида*
-</td>
-<td rowspan="2">Год</td>
-<td rowspan="2">
-Области
-**
-</td>
-<td rowspan="2">
-Номер
-оригинатора***
-</td>
-<td colspan="5">Признаки****</td>
+<th rowspan="2">Порядковый номер</th>
+<th colspan="4" rowspan="2">Наименование сорта, гибрида*</th>
+<th colspan="8" rowspan="2">Год</th>
+<th colspan="11" rowspan="2">Области**</th>
+<th colspan="6" rowspan="2">Номер оригинатора***</th>
+<th colspan="26">Признаки****</th>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<th colspan="6">1</th>
+<th colspan="8">2</th>
+<th colspan="4">3</th>
+<th colspan="5">4</th>
+<th colspan="3">5</th>
 </tr>
 <tr>
-<td colspan="9">
-Зерновые
-Пшеница мягкая озимая
+<td colspan="56">
+Глава 1. Зерновые
+Параграф 1.1. Пшеница мягкая озимая
 Triticum aestivum L. emend. Fiori et Paol.
 </td>
 </tr>
 <tr>
-<td>АКТЕРЕКСКАЯ</td>
-<td>2002</td>
-<td>3,6</td>
-<td>18,252</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1.</td>
+<td colspan="4">АКТЕРЕКСКАЯ</td>
+<td colspan="8">2002</td>
+<td colspan="11">3,6</td>
+<td colspan="6">18,252</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>АЛАТАУ</td>
-<td>2012</td>
-<td>3</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2.</td>
+<td colspan="4">АЛАТАУ</td>
+<td colspan="8">2012</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>АЛМАЛЫ</td>
-<td>2003</td>
-<td>3,6,9,14</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>3.</td>
+<td colspan="4">АЛМАЛЫ</td>
+<td colspan="8">2003</td>
+<td colspan="11">3,6,9,14</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>АЛИЯ</td>
-<td>2007</td>
-<td>3</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>4.</td>
+<td colspan="4">АЛИЯ®</td>
+<td colspan="8">2007</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>АРАП УЛУЧШЕННЫЙ</td>
-<td>2015</td>
-<td>3</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>5.</td>
+<td colspan="4">АРАП УЛУЧШЕННЫЙ</td>
+<td colspan="8">2015</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>БЕЗОСТАЯ 1</td>
-<td>1960</td>
-<td>3,6,14</td>
-<td>96</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>6.</td>
+<td colspan="4">БЕЗОСТАЯ 1</td>
+<td colspan="8">1960</td>
+<td colspan="11">3,6,14</td>
+<td colspan="6">96</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>БОГАРНАЯ 56</td>
-<td>1981</td>
-<td>3,6,9</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>7.</td>
+<td colspan="4">БОГАРНАЯ 56</td>
+<td colspan="8">1981</td>
+<td colspan="11">3,6,9</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>БУЛАВА</td>
-<td>1996</td>
-<td>5</td>
-<td>89,41</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>8.</td>
+<td colspan="4">БУЛАВА</td>
+<td colspan="8">1996</td>
+<td colspan="11">5</td>
+<td colspan="6">89,41</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ВИКТОРИЯ ОДЕССКАЯ</td>
-<td>2015</td>
-<td>3, 5</td>
-<td>139,169</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>9.</td>
+<td colspan="4">ВИКТОРИЯ ОДЕССКАЯ</td>
+<td colspan="8">2015</td>
+<td colspan="11">2, 3, 5</td>
+<td colspan="6">139,169</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ВОСТОЧНО-КАЗАХСТАНСКАЯ</td>
-<td>2015</td>
-<td>5</td>
-<td>8</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>10.</td>
+<td colspan="4">ВОСТОЧНО-КАЗАХСТАНСКАЯ</td>
+<td colspan="8">2015</td>
+<td colspan="11">5</td>
+<td colspan="6">8</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ДАУЛЕТ</td>
-<td>2015</td>
-<td>3,6,14</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>11.</td>
+<td colspan="4">ДАУЛЕТ</td>
+<td colspan="8">2015</td>
+<td colspan="11">3,6,14</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЕГЕМЕН</td>
-<td>2007</td>
-<td>14</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>12.</td>
+<td colspan="4">ДОН 107</td>
+<td colspan="8">2017</td>
+<td colspan="11">5</td>
+<td colspan="6">344</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЕГЕМЕН - 20</td>
-<td>2016</td>
-<td>3, 14</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>13.</td>
+<td colspan="4">ЕГЕМЕН</td>
+<td colspan="8">2007</td>
+<td colspan="11">14</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЖЕМЧУЖИНА ПОВОЛЖЬЯ</td>
-<td>2011</td>
-<td>7</td>
-<td>114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>14.</td>
+<td colspan="4">ЕГЕМЕН - 20</td>
+<td colspan="8">2016</td>
+<td colspan="11">3, 14</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЖЕТЫСУ</td>
-<td>1993</td>
-<td>3,6,14</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>15.</td>
+<td colspan="4">ЖЕМЧУЖИНА ПОВОЛЖЬЯ</td>
+<td colspan="8">2011</td>
+<td colspan="11">7</td>
+<td colspan="6">114</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ИНТЕНСИВНАЯ</td>
-<td>1987</td>
-<td>14</td>
-<td>201</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>16.</td>
+<td colspan="4">ЖЕТЫСУ</td>
+<td colspan="8">1993</td>
+<td colspan="11">3,6,14</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>
-КАРАБАЛЫКСКАЯ
-ОЗИМАЯ
-</td>
-<td>2010</td>
-<td>5</td>
-<td>24</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>17.</td>
+<td colspan="4">ИНТЕНСИВНАЯ</td>
+<td colspan="8">1987</td>
+<td colspan="11">14</td>
+<td colspan="6">201</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КАРАБАЛЫКСКАЯ 101</td>
-<td>2016</td>
-<td>13</td>
-<td>24</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>18.</td>
+<td colspan="4">КАРАБАЛЫКСКАЯ ОЗИМАЯ</td>
+<td colspan="8">2010</td>
+<td colspan="11">5</td>
+<td colspan="6">24</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КАЗАХСТАНСКАЯ 10</td>
-<td>1996</td>
-<td>3</td>
-<td>18,35</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>19.</td>
+<td colspan="4">КАРАБАЛЫКСКАЯ 101</td>
+<td colspan="8">2016</td>
+<td colspan="11">13</td>
+<td colspan="6">24</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КАРЛЫГАШ</td>
-<td>1986</td>
-<td>9</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>20.</td>
+<td colspan="4">КАЗАХСТАНСКАЯ 10</td>
+<td colspan="8">1996</td>
+<td colspan="11">3</td>
+<td colspan="6">18,35</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КАРАСАЙ</td>
-<td>2009</td>
-<td>3</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>21.</td>
+<td colspan="4">КАРЛЫГАШ</td>
+<td colspan="8">1986</td>
+<td colspan="11">9</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КОНДИТЕРСКАЯ</td>
-<td>2011</td>
-<td>6,14</td>
-<td>29</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>22.</td>
+<td colspan="4">КАРАСАЙ</td>
+<td colspan="8">2009</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КРАСНОВОДОПАДСКАЯ 210</td>
-<td>1976</td>
-<td>14</td>
-<td>29</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>23.</td>
+<td colspan="4">КОНДИТЕРСКАЯ</td>
+<td colspan="8">2011</td>
+<td colspan="11">6,14</td>
+<td colspan="6">29</td>
+<td colspan="6">06</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КУЙБЫШЕВКА</td>
-<td>1992</td>
-<td>7</td>
-<td>129,96</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>24.</td>
+<td colspan="4">КРАСНОВОДОПАДСКАЯ 210</td>
+<td colspan="8">1976</td>
+<td colspan="11">14</td>
+<td colspan="6">29</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЛЮТЕСЦЕНС 72</td>
-<td>1990</td>
-<td>7</td>
-<td>131</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>25.</td>
+<td colspan="4">КУЙБЫШЕВКА</td>
+<td colspan="8">1992</td>
+<td colspan="11">7</td>
+<td colspan="6">129,96</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>МАЙРА</td>
-<td>2009</td>
-<td>9</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>26.</td>
+<td colspan="4">ЛЮТЕСЦЕНС 72</td>
+<td colspan="8">1990</td>
+<td colspan="11">7</td>
+<td colspan="6">131</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>МЕРЕКЕ 70</td>
-<td>2011</td>
-<td>3,6</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>27.</td>
+<td colspan="4">МАЙРА®</td>
+<td colspan="8">2009</td>
+<td colspan="11">9</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>МИРОНОВСКАЯ 808</td>
-<td>1965</td>
-<td>1,5,7,10,13</td>
-<td>162</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>28.</td>
+<td colspan="4">МЕРЕКЕ 70</td>
+<td colspan="8">2011</td>
+<td colspan="11">3,6</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>НАЗ</td>
-<td>2001</td>
-<td>3,6,9</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>29.</td>
+<td colspan="4">МИРОНОВСКАЯ 808</td>
+<td colspan="8">1965</td>
+<td colspan="11">1,5,7,10,13</td>
+<td colspan="6">162</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>НУРЕКЕ</td>
-<td>2008</td>
-<td>3,6</td>
-<td>16,18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td>дв</td>
-<td></td>
+<td>30.</td>
+<td colspan="4">МАТАЙ</td>
+<td colspan="8">2017</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ОДЕССКАЯ 120</td>
-<td>1993</td>
-<td>3</td>
-<td>169</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>31.</td>
+<td colspan="4">НАЗ</td>
+<td colspan="8">2001</td>
+<td colspan="11">3,6,9</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ОДЕССКАЯ 200</td>
-<td>2016</td>
-<td>5</td>
-<td>169, 139</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>32.</td>
+<td colspan="4">НУРЕКЕ®</td>
+<td colspan="8">2008</td>
+<td colspan="11">3,6</td>
+<td colspan="6">16,18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5">дв</td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ОКТЯБРИНА 70</td>
-<td>1993</td>
-<td>14</td>
-<td>29</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>33.</td>
+<td colspan="4">ОДЕССКАЯ 120</td>
+<td colspan="8">1993</td>
+<td colspan="11">3</td>
+<td colspan="6">169</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ПИСАНКА</td>
-<td>2016</td>
-<td>3</td>
-<td>139</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>34.</td>
+<td colspan="4">ОДЕССКАЯ 200</td>
+<td colspan="8">2016</td>
+<td colspan="11">5</td>
+<td colspan="6">169, 139</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ПРИКУМСКАЯ 36</td>
-<td>1980</td>
-<td>5</td>
-<td>127</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>35.</td>
+<td colspan="4">ОКТЯБРИНА 70</td>
+<td colspan="8">1993</td>
+<td colspan="11">14</td>
+<td colspan="6">29</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>РАМИН</td>
-<td>2008</td>
-<td>3</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>36.</td>
+<td colspan="4">ПИСАНКА</td>
+<td colspan="8">2016</td>
+<td colspan="11">3, 5</td>
+<td colspan="6">139, 169</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>РАСАД</td>
-<td>2011</td>
-<td>3,6</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>37.</td>
+<td colspan="4">ПРИКУМСКАЯ 36</td>
+<td colspan="8">1980</td>
+<td colspan="11">5</td>
+<td colspan="6">127</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>САПАЛЫ</td>
-<td>2001</td>
-<td>3</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>38.</td>
+<td colspan="4">РАМИН</td>
+<td colspan="8">2008</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>САРАТОВСКАЯ 90</td>
-<td>2007</td>
-<td>7</td>
-<td>114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>39.</td>
+<td colspan="4">РАСАД</td>
+<td colspan="8">2011</td>
+<td colspan="11">3,6</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>СЕЛЯНКА ОДЕССКАЯ</td>
-<td>2016</td>
-<td>5</td>
-<td>169</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>40.</td>
+<td colspan="4">САПАЛЫ®</td>
+<td colspan="8">2001</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>СИБИНКА</td>
-<td>1994</td>
-<td>5</td>
-<td>90,79</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>41.</td>
+<td colspan="4">САРАТОВСКАЯ 90</td>
+<td colspan="8">2007</td>
+<td colspan="11">7</td>
+<td colspan="6">114</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>СТЕКЛОВИДНАЯ 24</td>
-<td>1995</td>
-<td>3,6,14</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>42.</td>
+<td colspan="4">СЕЛЯНКА ОДЕССКАЯ</td>
+<td colspan="8">2016</td>
+<td colspan="11">2, 5, 7</td>
+<td colspan="6">139, 169</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ФАРАБИ</td>
-<td>2011</td>
-<td>3,6</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>43.</td>
+<td colspan="4">СИБИНКА</td>
+<td colspan="8">1994</td>
+<td colspan="11">5</td>
+<td colspan="6">90,79</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЭРИТРОСПЕРМУМ 350</td>
-<td>1998</td>
-<td>3</td>
-<td>15,18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>44.</td>
+<td colspan="4">СТЕКЛОВИДНАЯ 24®</td>
+<td colspan="8">1995</td>
+<td colspan="11">3,6,14</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЮБИЛЕЙНАЯ 60</td>
-<td>2001</td>
-<td>9</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>45.</td>
+<td colspan="4">СКАРБНИЦА</td>
+<td colspan="8">2017</td>
+<td colspan="11">5</td>
+<td colspan="6">139, 169</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЮЖНАЯ 12</td>
-<td>1992</td>
-<td>6,14</td>
-<td>29</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>46.</td>
+<td colspan="4">ФАРАБИ</td>
+<td colspan="8">2011</td>
+<td colspan="11">3,6</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="9">
-Пшеница твердая озимая
+<td>47.</td>
+<td colspan="4">ЭРИТРОСПЕРМУМ 350</td>
+<td colspan="8">1998</td>
+<td colspan="11">3</td>
+<td colspan="6">15,18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>48.</td>
+<td colspan="4">ЮБИЛЕЙНАЯ 60</td>
+<td colspan="8">2001</td>
+<td colspan="11">9</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>49.</td>
+<td colspan="4">ЮЖНАЯ 12</td>
+<td colspan="8">1992</td>
+<td colspan="11">6,14</td>
+<td colspan="6">29</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 1.2. Пшеница твердая озимая
 Triticum durum Desf.
 </td>
 </tr>
 <tr>
-<td>АЙСБЕРГ ОДЕССКИЙ</td>
-<td>1992</td>
-<td>6,14</td>
-<td>169</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>50.</td>
+<td colspan="4">АЙСБЕРГ ОДЕССКИЙ</td>
+<td colspan="8">1992</td>
+<td colspan="11">6,14</td>
+<td colspan="6">169</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>АРГОНАВТ</td>
-<td>2012</td>
-<td>3</td>
-<td>169</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>51.</td>
+<td colspan="4">АРГОНАВТ</td>
+<td colspan="8">2012</td>
+<td colspan="11">3</td>
+<td colspan="6">169</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КАЗАХСТАНСКИЙ ЯНТАРЬ</td>
-<td>2011</td>
-<td>3,6,9</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>52.</td>
+<td colspan="4">КАЗАХСТАНСКИЙ ЯНТАРЬ</td>
+<td colspan="8">2011</td>
+<td colspan="11">3,6,9</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="9">
-Ячмень озимый
+<td colspan="56">
+Параграф 1.3. Ячмень озимый
 Hordeum vulgare L. sensu lato
 </td>
 </tr>
 <tr>
-<td>АЙДЫН</td>
-<td>2013</td>
-<td>3</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>53.</td>
+<td colspan="4">АЙДЫН®</td>
+<td colspan="8">2013</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>БЕРЕКЕ 54</td>
-<td>1994</td>
-<td>3,6,14</td>
-<td>29</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td>дв</td>
-<td></td>
+<td>54.</td>
+<td colspan="4">БЕРЕКЕ 54</td>
+<td colspan="8">1994</td>
+<td colspan="11">3,6,14</td>
+<td colspan="6">29</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5">дв</td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ДОСТОЙНЫЙ</td>
-<td>2012</td>
-<td>3</td>
-<td>169</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td>дв</td>
-<td></td>
+<td>55.</td>
+<td colspan="4">ДОСТОЙНЫЙ</td>
+<td colspan="8">2012</td>
+<td colspan="11">3</td>
+<td colspan="6">169</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5">дв</td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЗЫМОВЫЙ</td>
-<td>2012</td>
-<td>3</td>
-<td>169</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>56.</td>
+<td colspan="4">ЗЫМОВЫЙ</td>
+<td colspan="8">2012</td>
+<td colspan="11">3</td>
+<td colspan="6">169</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>НЕКТАРИЯ</td>
-<td>2011</td>
-<td>3</td>
-<td>316</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>57.</td>
+<td colspan="4">НЕКТАРИЯ</td>
+<td colspan="8">2011</td>
+<td colspan="11">3</td>
+<td colspan="6">316</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>РОМАН</td>
-<td>1987</td>
-<td>6</td>
-<td>169</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>58.</td>
+<td colspan="4">РОМАН</td>
+<td colspan="8">1987</td>
+<td colspan="11">6</td>
+<td colspan="6">169</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>РОСАВА</td>
-<td>1994</td>
-<td>3,9</td>
-<td>169</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td>дв</td>
-<td></td>
+<td>59.</td>
+<td colspan="4">РОСАВА</td>
+<td colspan="8">1994</td>
+<td colspan="11">3,9</td>
+<td colspan="6">169</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5">дв</td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>СКАРПИЯ</td>
-<td>2012</td>
-<td>3,6</td>
-<td>323</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>60.</td>
+<td colspan="4">СКАРПИЯ</td>
+<td colspan="8">2012</td>
+<td colspan="11">3,6</td>
+<td colspan="6">323</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ТЛЕК</td>
-<td>2010</td>
-<td>14</td>
-<td>29,302</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>61.</td>
+<td colspan="4">ТЛЕК</td>
+<td colspan="8">2010</td>
+<td colspan="11">14</td>
+<td colspan="6">29,302</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЮЖНО-КАЗАХСТАНСКИЙ 43</td>
-<td>1982</td>
-<td>14</td>
-<td>29</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>62.</td>
+<td colspan="4">ЮЖНО-КАЗАХСТАНСКИЙ 43</td>
+<td colspan="8">1982</td>
+<td colspan="11">14</td>
+<td colspan="6">29</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="9">
-Рожь озимая
+<td colspan="56">
+Параграф 1.4. Рожь озимая
 Secale cereale
 </td>
 </tr>
 <tr>
-<td>ЗАЩИТА</td>
-<td>1991</td>
-<td>5</td>
-<td>90,8</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>63.</td>
+<td colspan="4">ЗАЩИТА</td>
+<td colspan="8">1991</td>
+<td colspan="11">5</td>
+<td colspan="6">90,8</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>САРАТОВСКАЯ 5</td>
-<td>1986</td>
-<td>1,2,5,7,10, 12,13</td>
-<td>114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>64.</td>
+<td colspan="4">САРАТОВСКАЯ 5</td>
+<td colspan="8">1986</td>
+<td colspan="11">1,2,5,7,10, 12,13</td>
+<td colspan="6">114</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>САРАТОВСКАЯ 7</td>
-<td>2011</td>
-<td>7</td>
-<td>114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>65.</td>
+<td colspan="4">САРАТОВСКАЯ 7</td>
+<td colspan="8">2011</td>
+<td colspan="11">7</td>
+<td colspan="6">114</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЧУЛПАН</td>
-<td>1991</td>
-<td>12,13</td>
-<td>51</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>66.</td>
+<td colspan="4">ЧУЛПАН</td>
+<td colspan="8">1991</td>
+<td colspan="11">12,13</td>
+<td colspan="6">51</td>
+<td colspan="6">06</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="9">
-Тритикале озимая
+<td colspan="56">
+Параграф 1.5. Тритикале озимая
 Triticosecale Wittmack
 </td>
 </tr>
 <tr>
-<td>ОРДА</td>
-<td>2010</td>
-<td>3,14</td>
-<td>29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>67.</td>
+<td colspan="4">ОРДА</td>
+<td colspan="8">2010</td>
+<td colspan="11">3,14</td>
+<td colspan="6">29</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ТАЗА</td>
-<td>2002</td>
-<td>3,6,14</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>68.</td>
+<td colspan="4">ТАЗА</td>
+<td colspan="8">2002</td>
+<td colspan="11">3,6,14</td>
+<td colspan="6">18</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="9">
-Пшеница мягкая яровая
+<td colspan="56">
+Параграф 1.6. Пшеница мягкая яровая
 Triticum aestivum L. emend. Fiori et Paol
 </td>
 </tr>
 <tr>
-<td>АКМОЛА 2</td>
-<td>1998</td>
-<td>1,13</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АКТОБЕ 39</td>
-<td>2008</td>
-<td>2</td>
-<td>4</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АЛЕМ</td>
-<td>2006</td>
-<td>3,5</td>
-<td>16,18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АЛМАКЕН</td>
-<td>2011</td>
-<td>3</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АЛТАЙ</td>
-<td>2006</td>
-<td>5</td>
-<td>8</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АЛТАЙСКАЯ 325</td>
-<td>2006</td>
-<td>5</td>
-<td>46</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АЛТАЙСКАЯ ЖНИЦА</td>
-<td>2016</td>
-<td>1, 10, 13</td>
-<td>288</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АЛЬБИДУМ 31</td>
-<td>2010</td>
-<td>7</td>
-<td>97</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АЛЬБИДУМ 32</td>
-<td>2015</td>
-<td>7</td>
-<td>97</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АРАЙ</td>
-<td>1999</td>
-<td>3</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АСТАНА</td>
-<td>2004</td>
-<td>1,13</td>
-<td>19</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АСТАНА 2</td>
-<td>2008</td>
-<td>5,13</td>
-<td>19</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АСЫЛ САПА</td>
-<td>2015</td>
-<td>1,13</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АВАНГАРД</td>
-<td>2005</td>
-<td>5</td>
-<td>11</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>БАЙТЕРЕК</td>
-<td>2008</td>
-<td>5</td>
-<td>2,19,281</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ВЕРА</td>
-<td>1985</td>
-<td>5</td>
-<td>148,104</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ВОЛГОУРАЛЬСКАЯ</td>
-<td>2003</td>
-<td>7</td>
-<td>40,129,114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ГВАДАЛУП</td>
-<td>2008</td>
-<td>3</td>
-<td>240</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ГЛУБОЧАНКА</td>
-<td>2015</td>
-<td>5</td>
-<td>8</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДИВА</td>
-<td>2016</td>
-<td>10</td>
-<td>350</td>
-<td>04</td>
-<td>ли</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЕРТIC 7</td>
-<td>2011</td>
-<td>2,12</td>
-<td>30</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЕРТIC 97</td>
-<td>2003</td>
-<td>12</td>
-<td>30</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЖЕНИС</td>
-<td>2006</td>
-<td>3,6,14</td>
-<td>18,16</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ИНТЕНСИВНАЯ</td>
-<td>1987</td>
-<td>14</td>
-<td>201</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td>дв</td>
-<td></td>
-</tr>
-<tr>
-<td>
-КАЗАХСТАНСКАЯ
-РАННЕСПЕЛАЯ
-</td>
-<td>1991</td>
-<td>1,10,13</td>
-<td>18,24</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗАХСТАНСКАЯ 4</td>
-<td>1980</td>
-<td>3</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗАХСТАНСКАЯ 10</td>
-<td>1992</td>
-<td>3, 9</td>
-<td>18,35</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗАХСТАНСКАЯ 15</td>
-<td>1993</td>
-<td>1,12</td>
-<td>18,30</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗАХСТАНСКАЯ 17</td>
-<td>1994</td>
-<td>5,7</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗАХСТАНСКАЯ 19</td>
-<td>1994</td>
-<td>10,12</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗАХСТАНСКАЯ 25</td>
-<td>1997</td>
-<td>10</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАРАБАЛЫКСКАЯ 20</td>
-<td>2015</td>
-<td>1,10,13</td>
-<td>24</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАРАБАЛЫКСКАЯ 90</td>
-<td>1995</td>
-<td>1,8,10,12,13</td>
-<td>28</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАРАБАЛЫКСКАЯ 92</td>
-<td>1997</td>
-<td>5</td>
-<td>24,28</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАРАГАНДИНСКАЯ 70</td>
-<td>1992</td>
-<td>8,12</td>
-<td>43</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАРАГАНДИНСКАЯ 22</td>
-<td>2004</td>
-<td>8,10,12</td>
-<td>43</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАРАГАНДИНСКАЯ 30</td>
-<td>2015</td>
-<td>3,5,8,10,12</td>
-<td>43</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАРАГАНДИНСКАЯ 31</td>
-<td>2016</td>
-<td>1,8,10,13</td>
-<td>43</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КОНДИТЕРСКАЯ ЯРОВАЯ</td>
-<td>2015</td>
-<td>1,8,10,12,13</td>
-<td>30</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КУТУЛУКСКАЯ</td>
-<td>1982</td>
-<td>5</td>
-<td>125</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛЮБАВА</td>
-<td>2003</td>
-<td>10,13</td>
-<td>251</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛЮБАВА 5</td>
-<td>2011</td>
-<td>10</td>
-<td>251</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛЮТЕСЦЕНС 32</td>
-<td>1996</td>
-<td>10,12</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛЮТЕСЦЕНС 90</td>
-<td>1996</td>
-<td>1</td>
-<td>18,13</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛЮТЕСЦЕНС 521</td>
-<td>1993</td>
-<td>5</td>
-<td>56</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛЯЗЗАТ</td>
-<td>2011</td>
-<td>5</td>
-<td>8</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>МЕЛОДИЯ</td>
-<td>2016</td>
-<td>1,10,13</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>МИРАС</td>
-<td>2002</td>
-<td>6</td>
-<td>16,18,255</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>НАДЕЖДА</td>
-<td>2004</td>
-<td>9,14</td>
-<td>16,18,255</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>НАРГИЗ</td>
-<td>2011</td>
-<td>5</td>
-<td>8</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОМСКАЯ КРАСА</td>
-<td>2016</td>
-<td>1</td>
-<td>138</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОМСКАЯ 18</td>
-<td>1991</td>
-<td>1,5,10,12,1,3</td>
-<td>138</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОМСКАЯ 19</td>
-<td>1989</td>
-<td>1,13</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОМСКАЯ 20</td>
-<td>1996</td>
-<td>10</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОМСКАЯ 24</td>
-<td>2004</td>
-<td>10</td>
-<td>138</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОМСКАЯ 28</td>
-<td>2004</td>
-<td>1,13</td>
-<td>138</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОМСКАЯ 29</td>
-<td>2002</td>
-<td>10</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОМСКАЯ 30</td>
-<td>2002</td>
-<td>10</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОМСКАЯ 35</td>
-<td>2008</td>
-<td>1,10,13</td>
-<td>138,282</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОМСКАЯ 36</td>
-<td>2009</td>
-<td>1,10,13</td>
-<td>138,282</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОМСКАЯ 37</td>
-<td>2016</td>
-<td>5</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОМСКАЯ 38</td>
-<td>2013</td>
-<td>1,13</td>
-<td>138,282</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОМСКАЯ 41</td>
-<td>2016</td>
-<td>10</td>
-<td>138</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОРАЛ</td>
-<td>2016</td>
-<td>7</td>
-<td>19, 40</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПАВЛОДАРСКАЯ ЮБИЛЕЙНАЯ</td>
-<td>2016</td>
-<td>12</td>
-<td>30</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПАВЛОДАРСКАЯ 93</td>
-<td>1999</td>
-<td>2,12</td>
-<td>30</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПАМЯТЬ 47</td>
-<td>1995</td>
-<td>14</td>
-<td>29</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td>дв</td>
-<td></td>
-</tr>
-<tr>
-<td>ПАМЯТИ АЗИЕВА</td>
-<td>2004</td>
-<td>10,12,13</td>
-<td>138</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РОСИНКА 3</td>
-<td>2004</td>
-<td>1</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>САМАЛ</td>
-<td>2007</td>
-<td>5</td>
-<td>8</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>САМГАУ</td>
-<td>2012</td>
-<td>12</td>
-<td>18,30</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>САРАТОВСКАЯ 29</td>
-<td>1957</td>
-<td>1,5,8,12</td>
-<td>114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>САРАТОВСКАЯ 42</td>
-<td>1974</td>
-<td>2,7,8</td>
-<td>114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>САРАТОВСКАЯ 55</td>
-<td>1990</td>
-<td>2</td>
-<td>114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>САРАТОВСКАЯ 70</td>
-<td>2010</td>
-<td>2</td>
-<td>114</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СВЕТЛАНКА</td>
-<td>2006</td>
-<td>1,10,12,13</td>
-<td>138</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СЕВЕРЯНКА</td>
-<td>2011</td>
-<td>12,13</td>
-<td>16, 275, 30</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СЕКЕ</td>
-<td>2008</td>
-<td>8,12</td>
-<td>30</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СТЕПНАЯ ВОЛНА</td>
-<td>2016</td>
-<td>10</td>
-<td>288</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СТЕПНАЯ 2</td>
-<td>2010</td>
-<td>2</td>
-<td>4</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СТЕПНАЯ 50</td>
-<td>2011</td>
-<td>2</td>
-<td>4,18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СТЕПНАЯ 60</td>
-<td>2011</td>
-<td>8</td>
-<td>4,315</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТӘУЕЛСІЗДІК 20</td>
-<td>2016</td>
-<td>1,10,13</td>
-<td>19</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>УЛЬБИНКА 25</td>
-<td>1989</td>
-<td>5</td>
-<td>8</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>УМАЙ</td>
-<td>2016</td>
-<td>3,10</td>
-<td>350</td>
-<td>04</td>
-<td>ли</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>УРАЛОСИБИРСКАЯ</td>
-<td>2016</td>
-<td>5</td>
-<td>138,282</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ФАНТАЗИЯ</td>
-<td>2016</td>
-<td>10</td>
-<td>24</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЦЕЛИНА 50</td>
-<td>2010</td>
-<td>1,8</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЦЕЛИННАЯ 24</td>
-<td>1993</td>
-<td>1</td>
-<td>19</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЦЕЛИННАЯ 26</td>
-<td>1986</td>
-<td>5</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЦЕЛИННАЯ 3С</td>
-<td>1996</td>
-<td>1,10,13</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-ЦЕЛИННАЯ
-ЮБИЛЕЙНАЯ
-</td>
-<td>1988</td>
-<td>1,10</td>
-<td>19</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-ШОРТАНДИНСКАЯ 95
-УЛУЧШЕННАЯ
-</td>
-<td>2006</td>
-<td>1,13</td>
-<td>19</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ШОРТАНДИНСКАЯ 2007</td>
-<td>2012</td>
-<td>7</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ШОРТАНДИНСКАЯ 2012</td>
-<td>2015</td>
-<td>1,10,12,13</td>
-<td>19</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЭРИТРОСПЕРМУМ 35</td>
-<td>1991</td>
-<td>1,8,10,13</td>
-<td>28,19</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЮГО-ВОСТОЧНАЯ 2</td>
-<td>2007</td>
-<td>2</td>
-<td>85,114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">
-Пшеница твердая яровая
+<td>69.</td>
+<td colspan="4">АКМОЛА 2®</td>
+<td colspan="8">1998</td>
+<td colspan="11">1,13</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>70.</td>
+<td colspan="4">АКТОБЕ 39®</td>
+<td colspan="8">2008</td>
+<td colspan="11">2</td>
+<td colspan="6">4</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>71.</td>
+<td colspan="4">АЛЕМ®</td>
+<td colspan="8">2006</td>
+<td colspan="11">3,5</td>
+<td colspan="6">16,18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>72.</td>
+<td colspan="4">АЛМАКЕН</td>
+<td colspan="8">2011</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>73.</td>
+<td colspan="4">АЛТАЙ</td>
+<td colspan="8">2006</td>
+<td colspan="11">5</td>
+<td colspan="6">8</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>74.</td>
+<td colspan="4">АЛТАЙСКАЯ 325</td>
+<td colspan="8">2006</td>
+<td colspan="11">5</td>
+<td colspan="6">46</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>75.</td>
+<td colspan="4">АЛТАЙСКАЯ ЖНИЦА</td>
+<td colspan="8">2016</td>
+<td colspan="11">1, 10, 13</td>
+<td colspan="6">288</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>76.</td>
+<td colspan="4">АЛЬБИДУМ 31</td>
+<td colspan="8">2010</td>
+<td colspan="11">7</td>
+<td colspan="6">97</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>77.</td>
+<td colspan="4">АЛЬБИДУМ 32</td>
+<td colspan="8">2015</td>
+<td colspan="11">7</td>
+<td colspan="6">97</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>78.</td>
+<td colspan="4">АРАЙ</td>
+<td colspan="8">1999</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>79.</td>
+<td colspan="4">АСТАНА®</td>
+<td colspan="8">2004</td>
+<td colspan="11">1,13</td>
+<td colspan="6">19</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>80.</td>
+<td colspan="4">АСТАНА 2®</td>
+<td colspan="8">2008</td>
+<td colspan="11">5,13</td>
+<td colspan="6">19</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>81.</td>
+<td colspan="4">АСЫЛ САПА®</td>
+<td colspan="8">2015</td>
+<td colspan="11">1,13</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>82.</td>
+<td colspan="4">АВАНГАРД</td>
+<td colspan="8">2005</td>
+<td colspan="11">5</td>
+<td colspan="6">11</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>83.</td>
+<td colspan="4">АВГУСТИНА</td>
+<td colspan="8">2017</td>
+<td colspan="11">10</td>
+<td colspan="6">24</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>84.</td>
+<td colspan="4">БАЙТЕРЕК</td>
+<td colspan="8">2008</td>
+<td colspan="11">5</td>
+<td colspan="6">2,19,281</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>85.</td>
+<td colspan="4">ВЕРА</td>
+<td colspan="8">1985</td>
+<td colspan="11">5</td>
+<td colspan="6">148,104</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>86.</td>
+<td colspan="4">ВОЛГОУРАЛЬСКАЯ®</td>
+<td colspan="8">2003</td>
+<td colspan="11">7</td>
+<td colspan="6">40,129,114</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>87.</td>
+<td colspan="4">ГВАДАЛУП</td>
+<td colspan="8">2008</td>
+<td colspan="11">3</td>
+<td colspan="6">240</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>88.</td>
+<td colspan="4">ГЛУБОЧАНКА®</td>
+<td colspan="8">2015</td>
+<td colspan="11">5</td>
+<td colspan="6">8</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>89.</td>
+<td colspan="4">ДАРЬЯ</td>
+<td colspan="8">2017</td>
+<td colspan="11">5</td>
+<td colspan="6">362</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>90.</td>
+<td colspan="4">ДИВА</td>
+<td colspan="8">2016</td>
+<td colspan="11">10</td>
+<td colspan="6">350</td>
+<td colspan="6">04</td>
+<td colspan="8">ли</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>91.</td>
+<td colspan="4">ЕРТIC 7</td>
+<td colspan="8">2011</td>
+<td colspan="11">2,12</td>
+<td colspan="6">30</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>92.</td>
+<td colspan="4">ЕРТIC 97</td>
+<td colspan="8">2003</td>
+<td colspan="11">12</td>
+<td colspan="6">30</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>93.</td>
+<td colspan="4">ЖЕНИС</td>
+<td colspan="8">2006</td>
+<td colspan="11">3,6,14</td>
+<td colspan="6">18,16</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>94.</td>
+<td colspan="4">ИНТЕНСИВНАЯ</td>
+<td colspan="8">1987</td>
+<td colspan="11">14</td>
+<td colspan="6">201</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5">дв</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>95.</td>
+<td colspan="4">КАЗАХСТАНСКАЯ РАННЕСПЕЛАЯ</td>
+<td colspan="8">1991</td>
+<td colspan="11">1,10,13</td>
+<td colspan="6">18,24</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>96.</td>
+<td colspan="4">КАЗАХСТАНСКАЯ 4</td>
+<td colspan="8">1980</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>97.</td>
+<td colspan="4">КАЗАХСТАНСКАЯ 10®</td>
+<td colspan="8">1992</td>
+<td colspan="11">3, 9</td>
+<td colspan="6">18,35</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>98.</td>
+<td colspan="4">КАЗАХСТАНСКАЯ 15</td>
+<td colspan="8">1993</td>
+<td colspan="11">1,12</td>
+<td colspan="6">18,30</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>99.</td>
+<td colspan="4">КАЗАХСТАНСКАЯ 17</td>
+<td colspan="8">1994</td>
+<td colspan="11">5,7</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>100.</td>
+<td colspan="4">КАЗАХСТАНСКАЯ 19®</td>
+<td colspan="8">1994</td>
+<td colspan="11">10,12</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>101.</td>
+<td colspan="4">КАЗАХСТАНСКАЯ 25</td>
+<td colspan="8">1997</td>
+<td colspan="11">10</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>102.</td>
+<td colspan="4">КАРАБАЛЫКСКАЯ 20®</td>
+<td colspan="8">2015</td>
+<td colspan="11">1,10,13</td>
+<td colspan="6">24</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>103.</td>
+<td colspan="4">КАРАБАЛЫКСКАЯ 90</td>
+<td colspan="8">1995</td>
+<td colspan="11">1,8,10,12,13</td>
+<td colspan="6">28</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>104.</td>
+<td colspan="4">КАРАБАЛЫКСКАЯ 92</td>
+<td colspan="8">1997</td>
+<td colspan="11">5</td>
+<td colspan="6">24,28</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>105.</td>
+<td colspan="4">КАРАГАНДИНСКАЯ 60</td>
+<td colspan="8">2017</td>
+<td colspan="11">1, 5, 8, 10, 13</td>
+<td colspan="6">43</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>106.</td>
+<td colspan="4">КАРАГАНДИНСКАЯ 70</td>
+<td colspan="8">1992</td>
+<td colspan="11">8, 12</td>
+<td colspan="6">43</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>107.</td>
+<td colspan="4">КАРАГАНДИНСКАЯ 22</td>
+<td colspan="8">2004</td>
+<td colspan="11">8, 10, 12</td>
+<td colspan="6">43</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>108.</td>
+<td colspan="4">КАРАГАНДИНСКАЯ 30</td>
+<td colspan="8">2015</td>
+<td colspan="11">3, 5, 8, 10, 12</td>
+<td colspan="6">43</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>109.</td>
+<td colspan="4">КАРАГАНДИНСКАЯ 31</td>
+<td colspan="8">2016</td>
+<td colspan="11">1, 8, 10, 13</td>
+<td colspan="6">43</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>110.</td>
+<td colspan="4">КОНДИТЕРСКАЯ ЯРОВАЯ</td>
+<td colspan="8">2015</td>
+<td colspan="11">1, 8, 10, 12, 13</td>
+<td colspan="6">30</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>111.</td>
+<td colspan="4">КУТУЛУКСКАЯ</td>
+<td colspan="8">1982</td>
+<td colspan="11">5</td>
+<td colspan="6">125</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>112.</td>
+<td colspan="4">ЛЮБАВА</td>
+<td colspan="8">2003</td>
+<td colspan="11">10, 13</td>
+<td colspan="6">251</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>113.</td>
+<td colspan="4">ЛЮБАВА 5</td>
+<td colspan="8">2011</td>
+<td colspan="11">10</td>
+<td colspan="6">251</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>114.</td>
+<td colspan="4">ЛЮТЕСЦЕНС 32®</td>
+<td colspan="8">1996</td>
+<td colspan="11">10, 12</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>115.</td>
+<td colspan="4">ЛЮТЕСЦЕНС 90</td>
+<td colspan="8">1996</td>
+<td colspan="11">1</td>
+<td colspan="6">18,13</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>116.</td>
+<td colspan="4">ЛЮТЕСЦЕНС 521</td>
+<td colspan="8">1993</td>
+<td colspan="11">5</td>
+<td colspan="6">56</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>117.</td>
+<td colspan="4">ЛЯЗЗАТ</td>
+<td colspan="8">2011</td>
+<td colspan="11">5</td>
+<td colspan="6">8</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>118.</td>
+<td colspan="4">МЕЛОДИЯ</td>
+<td colspan="8">2016</td>
+<td colspan="11">1, 10, 13</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>119.</td>
+<td colspan="4">МИРАС</td>
+<td colspan="8">2002</td>
+<td colspan="11">6</td>
+<td colspan="6">16,18,255</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>120.</td>
+<td colspan="4">НАДЕЖДА</td>
+<td colspan="8">2004</td>
+<td colspan="11">9, 14</td>
+<td colspan="6">16,18,255</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>121.</td>
+<td colspan="4">НАРГИЗ®</td>
+<td colspan="8">2011</td>
+<td colspan="11">5</td>
+<td colspan="6">8</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>122.</td>
+<td colspan="4">ОМСКАЯ КРАСА</td>
+<td colspan="8">2016</td>
+<td colspan="11">1</td>
+<td colspan="6">138</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>123.</td>
+<td colspan="4">ОМСКАЯ 18</td>
+<td colspan="8">1991</td>
+<td colspan="11">1, 5, 10, 12, 1, 3</td>
+<td colspan="6">138</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>124.</td>
+<td colspan="4">ОМСКАЯ 19</td>
+<td colspan="8">1989</td>
+<td colspan="11">1, 13</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>125.</td>
+<td colspan="4">ОМСКАЯ 20</td>
+<td colspan="8">1996</td>
+<td colspan="11">10</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>126.</td>
+<td colspan="4">ОМСКАЯ 24</td>
+<td colspan="8">2004</td>
+<td colspan="11">10</td>
+<td colspan="6">138</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>127.</td>
+<td colspan="4">ОМСКАЯ 28</td>
+<td colspan="8">2004</td>
+<td colspan="11">1, 13</td>
+<td colspan="6">138</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>128.</td>
+<td colspan="4">ОМСКАЯ 29</td>
+<td colspan="8">2002</td>
+<td colspan="11">10</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>129.</td>
+<td colspan="4">ОМСКАЯ 30</td>
+<td colspan="8">2002</td>
+<td colspan="11">10</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>130.</td>
+<td colspan="4">ОМСКАЯ 35</td>
+<td colspan="8">2008</td>
+<td colspan="11">1, 10, 13</td>
+<td colspan="6">138,282</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>131.</td>
+<td colspan="4">ОМСКАЯ 36</td>
+<td colspan="8">2009</td>
+<td colspan="11">1, 10, 13</td>
+<td colspan="6">138,282</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>132.</td>
+<td colspan="4">ОМСКАЯ 37</td>
+<td colspan="8">2016</td>
+<td colspan="11">5</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>133.</td>
+<td colspan="4">ОМСКАЯ 38</td>
+<td colspan="8">2013</td>
+<td colspan="11">1, 5, 13</td>
+<td colspan="6">138,282</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>134.</td>
+<td colspan="4">ОМСКАЯ 41</td>
+<td colspan="8">2016</td>
+<td colspan="11">10</td>
+<td colspan="6">138</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>135.</td>
+<td colspan="4">ОРАЛ®</td>
+<td colspan="8">2016</td>
+<td colspan="11">7</td>
+<td colspan="6">19, 40</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>136.</td>
+<td colspan="4">ОСКЕМЕН</td>
+<td colspan="8">2017</td>
+<td colspan="11">5, 10</td>
+<td colspan="6">12, 18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>137.</td>
+<td colspan="4">ПАВЛОДАРСКАЯ ЮБИЛЕЙНАЯ</td>
+<td colspan="8">2016</td>
+<td colspan="11">12</td>
+<td colspan="6">30</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>138.</td>
+<td colspan="4">ПАВЛОДАРСКАЯ 93</td>
+<td colspan="8">1999</td>
+<td colspan="11">2, 12</td>
+<td colspan="6">30</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>139.</td>
+<td colspan="4">ПАМЯТЬ 47</td>
+<td colspan="8">1995</td>
+<td colspan="11">14</td>
+<td colspan="6">29</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5">дв</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>140.</td>
+<td colspan="4">ПАМЯТИ АЗИЕВА</td>
+<td colspan="8">2004</td>
+<td colspan="11">10, 12, 13</td>
+<td colspan="6">138</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>141.</td>
+<td colspan="4">РОСИНКА 3</td>
+<td colspan="8">2004</td>
+<td colspan="11">1</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>142.</td>
+<td colspan="4">САМАЛ</td>
+<td colspan="8">2007</td>
+<td colspan="11">5</td>
+<td colspan="6">8</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>143.</td>
+<td colspan="4">САМГАУ</td>
+<td colspan="8">2012</td>
+<td colspan="11">12</td>
+<td colspan="6">18,30</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>144.</td>
+<td colspan="4">САРАТОВСКАЯ 29</td>
+<td colspan="8">1957</td>
+<td colspan="11">1, 5, 8, 12</td>
+<td colspan="6">114</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>145.</td>
+<td colspan="4">САРАТОВСКАЯ 42</td>
+<td colspan="8">1974</td>
+<td colspan="11">2, 7, 8</td>
+<td colspan="6">114</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>146.</td>
+<td colspan="4">САРАТОВСКАЯ 55</td>
+<td colspan="8">1990</td>
+<td colspan="11">2</td>
+<td colspan="6">114</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>147.</td>
+<td colspan="4">САРАТОВСКАЯ 70</td>
+<td colspan="8">2010</td>
+<td colspan="11">2</td>
+<td colspan="6">114</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>148.</td>
+<td colspan="4">СВЕТЛАНКА</td>
+<td colspan="8">2006</td>
+<td colspan="11">1, 10, 12, 13</td>
+<td colspan="6">138</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>149.</td>
+<td colspan="4">СЕВЕРЯНКА®</td>
+<td colspan="8">2011</td>
+<td colspan="11">12, 13</td>
+<td colspan="6">16, 275, 30</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>150.</td>
+<td colspan="4">СЕКЕ</td>
+<td colspan="8">2008</td>
+<td colspan="11">8, 12</td>
+<td colspan="6">30</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>151.</td>
+<td colspan="4">СТЕПНАЯ ВОЛНА</td>
+<td colspan="8">2016</td>
+<td colspan="11">10</td>
+<td colspan="6">288</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>152.</td>
+<td colspan="4">СТЕПНАЯ 2®</td>
+<td colspan="8">2010</td>
+<td colspan="11">2</td>
+<td colspan="6">4</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>153.</td>
+<td colspan="4">СТЕПНАЯ 50®</td>
+<td colspan="8">2011</td>
+<td colspan="11">2</td>
+<td colspan="6">4,18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>154.</td>
+<td colspan="4">СТЕПНАЯ 60®</td>
+<td colspan="8">2011</td>
+<td colspan="11">8</td>
+<td colspan="6">4,315</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>155.</td>
+<td colspan="4">ТӘУЕЛСІЗДІК 20</td>
+<td colspan="8">2016</td>
+<td colspan="11">1, 10, 13</td>
+<td colspan="6">19</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>156.</td>
+<td colspan="4">УЛЬБИНКА 25</td>
+<td colspan="8">1989</td>
+<td colspan="11">5</td>
+<td colspan="6">8</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>157.</td>
+<td colspan="4">УМАЙ</td>
+<td colspan="8">2016</td>
+<td colspan="11">3, 10</td>
+<td colspan="6">350</td>
+<td colspan="6">04</td>
+<td colspan="8">ли</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>158.</td>
+<td colspan="4">УРАЛОСИБИРСКАЯ</td>
+<td colspan="8">2016</td>
+<td colspan="11">5</td>
+<td colspan="6">138,282</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>159.</td>
+<td colspan="4">ФАНТАЗИЯ</td>
+<td colspan="8">2016</td>
+<td colspan="11">10, 13</td>
+<td colspan="6">24</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>160.</td>
+<td colspan="4">ЦЕЛИНА 50®</td>
+<td colspan="8">2010</td>
+<td colspan="11">1, 8</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>161.</td>
+<td colspan="4">ЦЕЛИННАЯ 24</td>
+<td colspan="8">1993</td>
+<td colspan="11">1</td>
+<td colspan="6">19</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>162.</td>
+<td colspan="4">ЦЕЛИННАЯ 26</td>
+<td colspan="8">1986</td>
+<td colspan="11">5</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>163.</td>
+<td colspan="4">ЦЕЛИННАЯ 3С®</td>
+<td colspan="8">1996</td>
+<td colspan="11">1, 10, 13</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>164.</td>
+<td colspan="4">ЦЕЛИННАЯ ЮБИЛЕЙНАЯ®</td>
+<td colspan="8">1988</td>
+<td colspan="11">1, 10</td>
+<td colspan="6">19</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>165.</td>
+<td colspan="4">ШОРТАНДИНСКАЯ 95 УЛУЧШЕННАЯ®</td>
+<td colspan="8">2006</td>
+<td colspan="11">1, 13</td>
+<td colspan="6">19</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>166.</td>
+<td colspan="4">ШОРТАНДИНСКАЯ 2007®</td>
+<td colspan="8">2012</td>
+<td colspan="11">7</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>167.</td>
+<td colspan="4">ШОРТАНДИНСКАЯ 2012®</td>
+<td colspan="8">2015</td>
+<td colspan="11">1, 10, 12, 13</td>
+<td colspan="6">19</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>168.</td>
+<td colspan="4">ШОРТАНДИНСКАЯ 2014</td>
+<td colspan="8">2017</td>
+<td colspan="11">1, 10, 13</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>169.</td>
+<td colspan="4">ЭРИТРОСПЕРМУМ 35</td>
+<td colspan="8">1991</td>
+<td colspan="11">1, 8, 10, 13</td>
+<td colspan="6">28,19</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>170.</td>
+<td colspan="4">ЮГО-ВОСТОЧНАЯ 2</td>
+<td colspan="8">2007</td>
+<td colspan="11">2</td>
+<td colspan="6">85,114</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 1.7 Пшеница твердая яровая
 Triticum durum Desf
 </td>
 </tr>
 <tr>
-<td>АЛЕЙСКАЯ</td>
-<td>2013</td>
-<td>10</td>
-<td>288</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>171.</td>
+<td colspan="4">АЛЕЙСКАЯ</td>
+<td colspan="8">2013</td>
+<td colspan="11">10</td>
+<td colspan="6">288</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>АЛТАЙКА</td>
-<td>1981</td>
-<td>13</td>
-<td>47</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>172.</td>
+<td colspan="4">АЛТАЙКА</td>
+<td colspan="8">1981</td>
+<td colspan="11">13</td>
+<td colspan="6">47</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>
-АЛТАЙСКИЙ
-ЯНТАРЬ
-</td>
-<td>2006</td>
-<td>5</td>
-<td>47</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>173.</td>
+<td colspan="4">АЛТАЙСКИЙ ЯНТАРЬ</td>
+<td colspan="8">2006</td>
+<td colspan="11">5</td>
+<td colspan="6">47</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>АЛТЫН-ДАЛА</td>
-<td>2010</td>
-<td>10 (*), 13</td>
-<td>24</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>174.</td>
+<td colspan="4">АЛТЫН-ДАЛА</td>
+<td colspan="8">2010</td>
+<td colspan="11">10 (*), 13</td>
+<td colspan="6">24</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>АСАНГАЛИ 20</td>
-<td>2015</td>
-<td>5,10</td>
-<td>24</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>175.</td>
+<td colspan="4">АСАНГАЛИ 20®</td>
+<td colspan="8">2015</td>
+<td colspan="11">5, 10</td>
+<td colspan="6">24</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ACHILLE</td>
-<td>2016</td>
-<td>10</td>
-<td>351</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>176.</td>
+<td colspan="4">ACHILLE</td>
+<td colspan="8">2016</td>
+<td colspan="11">10</td>
+<td colspan="6">351</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>БЕЗЕНЧУКСКАЯ 139</td>
-<td>1982</td>
-<td>1,10</td>
-<td>129</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>177.</td>
+<td colspan="4">БЕЗЕНЧУКСКАЯ 139</td>
+<td colspan="8">1982</td>
+<td colspan="11">1, 10</td>
+<td colspan="6">129</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>БЕЗЕНЧУКСКАЯ 182</td>
-<td>2004</td>
-<td>10</td>
-<td>129</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>178.</td>
+<td colspan="4">БЕЗЕНЧУКСКАЯ 182</td>
+<td colspan="8">2004</td>
+<td colspan="11">10</td>
+<td colspan="6">129</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ГОРДЕИФОРМЕ 254</td>
-<td>2003</td>
-<td>3</td>
-<td>18,261</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>179.</td>
+<td colspan="4">ГОРДЕИФОРМЕ 254</td>
+<td colspan="8">2003</td>
+<td colspan="11">3</td>
+<td colspan="6">18,261</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ДАМСИНСКАЯ 90</td>
-<td>1995</td>
-<td>1,5,12,13</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>180.</td>
+<td colspan="4">ДАМСИНСКАЯ 90</td>
+<td colspan="8">1995</td>
+<td colspan="11">1, 5, 12, 13</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>
-ДАМСИНСКАЯ
-ЯНТАРНАЯ
-</td>
-<td>2008</td>
-<td>13</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>181.</td>
+<td colspan="4">ДАМСИНСКАЯ ЯНТАРНАЯ®</td>
+<td colspan="8">2008</td>
+<td colspan="11">13</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЖЕМЧУЖИНА СИБИРИ</td>
-<td>2008</td>
-<td>10,13</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>182.</td>
+<td colspan="4">ДАМСИНСКАЯ ЮБИЛЕЙНАЯ</td>
+<td colspan="8">2017</td>
+<td colspan="11">1, 13</td>
+<td colspan="6">19</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КОСТАНАЙСКАЯ 52</td>
-<td>2000</td>
-<td>10</td>
-<td>24</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>183.</td>
+<td colspan="4">ЖЕМЧУЖИНА СИБИРИ</td>
+<td colspan="8">2008</td>
+<td colspan="11">10, 13</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КОСТАНАЙСКАЯ 12</td>
-<td>2004</td>
-<td>10</td>
-<td>24</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>184.</td>
+<td colspan="4">КОСТАНАЙСКАЯ 52</td>
+<td colspan="8">2000</td>
+<td colspan="11">10</td>
+<td colspan="6">24</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КОРОНА</td>
-<td>2010</td>
-<td>1,8</td>
-<td>19</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>185.</td>
+<td colspan="4">КОСТАНАЙСКАЯ 12</td>
+<td colspan="8">2004</td>
+<td colspan="11">10</td>
+<td colspan="6">24</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КАРГАЛА 9</td>
-<td>2005</td>
-<td>2,4</td>
-<td>4,18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>186.</td>
+<td colspan="4">КОРОНА®</td>
+<td colspan="8">2010</td>
+<td colspan="11">1, 8</td>
+<td colspan="6">19</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КАРГАЛА 69</td>
-<td>2012</td>
-<td>2,7</td>
-<td>4</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>187.</td>
+<td colspan="4">КАРГАЛА 9®</td>
+<td colspan="8">2005</td>
+<td colspan="11">2, 4</td>
+<td colspan="6">4,18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЛАВИНА</td>
-<td>2015</td>
-<td>1</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>188.</td>
+<td colspan="4">КАРГАЛА 69®</td>
+<td colspan="8">2012</td>
+<td colspan="11">2, 7</td>
+<td colspan="6">4</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЛАН</td>
-<td>2010</td>
-<td>5</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>189.</td>
+<td colspan="4">ЛАВИНА®</td>
+<td colspan="8">2015</td>
+<td colspan="11">1</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>МИЛАНА</td>
-<td>2016</td>
-<td>5</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>190.</td>
+<td colspan="4">ЛАН®</td>
+<td colspan="8">2010</td>
+<td colspan="11">5</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>НАУРЫЗ 2</td>
-<td>1998</td>
-<td>6,9,14</td>
-<td>18,33</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>191.</td>
+<td colspan="4">МИЛАНА®</td>
+<td colspan="8">2016</td>
+<td colspan="11">5</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>НАУРЫЗ 6</td>
-<td>2006</td>
-<td>3</td>
-<td>18,4</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>192.</td>
+<td colspan="4">НАУРЫЗ 2®</td>
+<td colspan="8">1998</td>
+<td colspan="11">6, 9, 14</td>
+<td colspan="6">18,33</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ОМСКИЙ РУБИН</td>
-<td>1991</td>
-<td>1</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>193.</td>
+<td colspan="4">НАУРЫЗ 6</td>
+<td colspan="8">2006</td>
+<td colspan="11">3</td>
+<td colspan="6">18,4</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ОРЕНБУРГСКАЯ 2</td>
-<td>1983</td>
-<td>8</td>
-<td>121</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>194.</td>
+<td colspan="4">ОМСКИЙ РУБИН</td>
+<td colspan="8">1991</td>
+<td colspan="11">1</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ОРЕНБУРГСКАЯ 10</td>
-<td>1990</td>
-<td>2,12</td>
-<td>121</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>195.</td>
+<td colspan="4">ОРЕНБУРГСКАЯ 2</td>
+<td colspan="8">1983</td>
+<td colspan="11">8</td>
+<td colspan="6">121</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ОМСКИЙ ИЗУМРУД</td>
-<td>2016</td>
-<td>13</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>196.</td>
+<td colspan="4">ОРЕНБУРГСКАЯ 10</td>
+<td colspan="8">1990</td>
+<td colspan="11">2, 12</td>
+<td colspan="6">121</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ОМСКАЯ СТЕПНАЯ</td>
-<td>2016</td>
-<td>12</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>197.</td>
+<td colspan="4">ОМСКИЙ ИЗУМРУД</td>
+<td colspan="8">2016</td>
+<td colspan="11">13</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ОМСКАЯ ЯНТАРНАЯ</td>
-<td>2005</td>
-<td>13</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>198.</td>
+<td colspan="4">ОМСКАЯ СТЕПНАЯ</td>
+<td colspan="8">2016</td>
+<td colspan="11">12, 13</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>СВЕТЛАНА</td>
-<td>1988</td>
-<td>7</td>
-<td>113</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>199.</td>
+<td colspan="4">ОМСКАЯ ЯНТАРНАЯ</td>
+<td colspan="8">2005</td>
+<td colspan="11">13</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>СИД 88</td>
-<td>1993</td>
-<td>1,8,10,13</td>
-<td>28,19</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>200.</td>
+<td colspan="4">СВЕТЛАНА</td>
+<td colspan="8">1988</td>
+<td colspan="11">7</td>
+<td colspan="6">113</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>СОЛНЕЧНАЯ 573</td>
-<td>2016</td>
-<td>10,13</td>
-<td>288</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>201.</td>
+<td colspan="4">СЕРКЕ</td>
+<td colspan="8">2017</td>
+<td colspan="11">5</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="9">
-Пшеница тургидум
+<td>202.</td>
+<td colspan="4">СИД 88</td>
+<td colspan="8">1993</td>
+<td colspan="11">1, 8, 10, 13</td>
+<td colspan="6">28,19</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>203.</td>
+<td colspan="4">СОЛНЕЧНАЯ 573</td>
+<td colspan="8">2016</td>
+<td colspan="11">10, 13</td>
+<td colspan="6">288</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 1.8. Пшеница тургидум
 Triticum turgidum turanicum
 </td>
 </tr>
 <tr>
-<td>ХОРАСАН</td>
-<td>2016</td>
-<td>1,10,13</td>
-<td>352</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>204.</td>
+<td colspan="4">ХОРАСАН</td>
+<td colspan="8">2016</td>
+<td colspan="11">1, 8, 10, 13</td>
+<td colspan="6">352</td>
+<td colspan="6">06</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="9">
-Ячмень яровой
+<td colspan="56">
+Параграф 1.9. Ячмень яровой
 Hordeum vulgare L. sensu lato
 </td>
 </tr>
 <tr>
-<td>АКЖОЛ</td>
-<td>2006</td>
-<td>3</td>
-<td>16,18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>205.</td>
+<td colspan="4">АКЖОЛ</td>
+<td colspan="8">2006</td>
+<td colspan="11">3</td>
+<td colspan="6">16,18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>АРНА</td>
-<td>1997</td>
-<td>1,3,5,6,10, 13,14</td>
-<td>18</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>206.</td>
+<td colspan="4">АРНА</td>
+<td colspan="8">1997</td>
+<td colspan="11">1,3,5,6,10, 13,14</td>
+<td colspan="6">18</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>АСЕМ</td>
-<td>2000</td>
-<td>3</td>
-<td>18</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>207.</td>
+<td colspan="4">АСЕМ</td>
+<td colspan="8">2000</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>АСТАНА 2000</td>
-<td>2005</td>
-<td>1,5,10,13</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>208.</td>
+<td colspan="4">АСТАНА 2000®</td>
+<td colspan="8">2005</td>
+<td colspan="11">1,5,10,13</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>АМУЛЕТ</td>
-<td>2005</td>
-<td>5</td>
-<td>249</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>209.</td>
+<td colspan="4">АМУЛЕТ</td>
+<td colspan="8">2005</td>
+<td colspan="11">5</td>
+<td colspan="6">249</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>БАЙШЕШЕК</td>
-<td>1985</td>
-<td>3,6,9,14</td>
-<td>29</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>210.</td>
+<td colspan="4">БАЙШЕШЕК</td>
+<td colspan="8">1985</td>
+<td colspan="11">3,6,9,14</td>
+<td colspan="6">29</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>БЕАТРИКС</td>
-<td>2011</td>
-<td>3</td>
-<td>292</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>211.</td>
+<td colspan="4">БЕАТРИКС</td>
+<td colspan="8">2011</td>
+<td colspan="11">3</td>
+<td colspan="6">292</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ВАКУЛА</td>
-<td>2011</td>
-<td>3</td>
-<td>169</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>212.</td>
+<td colspan="4">ВАКУЛА</td>
+<td colspan="8">2011</td>
+<td colspan="11">3</td>
+<td colspan="6">169</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ВЕЛИКАН</td>
-<td>2015</td>
-<td>3,10</td>
-<td>24</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>213.</td>
+<td colspan="4">ВЕЛИКАН</td>
+<td colspan="8">2015</td>
+<td colspan="11">3,10</td>
+<td colspan="6">24</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ВОРСИНСКИЙ</td>
-<td>2011</td>
-<td>5,10,13</td>
-<td>288</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>214.</td>
+<td colspan="4">ВОРСИНСКИЙ</td>
+<td colspan="8">2011</td>
+<td colspan="11">5,10,13</td>
+<td colspan="6">288</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ГРАНАЛ</td>
-<td>1991</td>
-<td>10</td>
-<td>28</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>215.</td>
+<td colspan="4">ГРАНАЛ</td>
+<td colspan="8">1991</td>
+<td colspan="11">10</td>
+<td colspan="6">28</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ГЕТЬМАН</td>
-<td>2011</td>
-<td>10</td>
-<td>169</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>216.</td>
+<td colspan="4">ГЕТЬМАН</td>
+<td colspan="8">2011</td>
+<td colspan="11">10</td>
+<td colspan="6">169</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ДОНЕЦКИЙ 8</td>
-<td>1979</td>
-<td>1,2,5,7,8,10,14</td>
-<td>154</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>217.</td>
+<td colspan="4">ДОНЕЦКИЙ 8</td>
+<td colspan="8">1979</td>
+<td colspan="11">1,2,5,7,8,10,14</td>
+<td colspan="6">154</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ДОНЕЦКИЙ 9</td>
-<td>1986</td>
-<td>5, 8</td>
-<td>154</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>218.</td>
+<td colspan="4">ДОНЕЦКИЙ 9</td>
+<td colspan="8">1986</td>
+<td colspan="11">5, 8</td>
+<td colspan="6">154</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЖУЛДЫЗ</td>
-<td>1993</td>
-<td>3, 9</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>219.</td>
+<td colspan="4">ЖУЛДЫЗ</td>
+<td colspan="8">1993</td>
+<td colspan="11">3, 9</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЖАН</td>
-<td>2009</td>
-<td>3</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>220.</td>
+<td colspan="4">ЖАН</td>
+<td colspan="8">2009</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ИЛЕК 9</td>
-<td>2007</td>
-<td>2,7</td>
-<td>4,18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>221.</td>
+<td colspan="4">ЗАЛОМЕ</td>
+<td colspan="8">2017</td>
+<td colspan="11">13</td>
+<td colspan="6">324</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ИЛЕК 16</td>
-<td>2011</td>
-<td>5</td>
-<td>4</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>222.</td>
+<td colspan="4">ИЛЕК 9®</td>
+<td colspan="8">2007</td>
+<td colspan="11">2,7</td>
+<td colspan="6">4,18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ИЛЕК 36</td>
-<td>2016</td>
-<td>5</td>
-<td>4,18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>223.</td>
+<td colspan="4">ИЛЕК 16®</td>
+<td colspan="8">2011</td>
+<td colspan="11">5</td>
+<td colspan="6">4</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КАЗСУФФЛЕ-1</td>
-<td>2012</td>
-<td>6</td>
-<td>18,325</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>224.</td>
+<td colspan="4">ИЛЕК 36</td>
+<td colspan="8">2016</td>
+<td colspan="11">2, 5</td>
+<td colspan="6">4,18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КАНГУ</td>
-<td>2012</td>
-<td>3</td>
-<td>317</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>225.</td>
+<td colspan="4">КАЗСУФФЛЕ-1®</td>
+<td colspan="8">2012</td>
+<td colspan="11">6</td>
+<td colspan="6">18,325</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КАРАБАЛЫКСКИЙ 110</td>
-<td>2010</td>
-<td>5</td>
-<td>24</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>226.</td>
+<td colspan="4">КАНГУ</td>
+<td colspan="8">2012</td>
+<td colspan="11">3</td>
+<td colspan="6">317</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КАРАБАЛЫКСКИЙ 150</td>
-<td>1996</td>
-<td>2,8,10</td>
-<td>24</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>227.</td>
+<td colspan="4">КАРАБАЛЫКСКИЙ 110</td>
+<td colspan="8">2010</td>
+<td colspan="11">5</td>
+<td colspan="6">24</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КАРАГАНДИНСКИЙ 5</td>
-<td>2000</td>
-<td>8</td>
-<td>43</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>228.</td>
+<td colspan="4">КАРАБАЛЫКСКИЙ 150</td>
+<td colspan="8">1996</td>
+<td colspan="11">2,8,10</td>
+<td colspan="6">24</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КАРАГАНДИНСКИЙ 6</td>
-<td>2009</td>
-<td>5 (*), 10</td>
-<td>43</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>229.</td>
+<td colspan="4">КАРАГАНДИНСКИЙ 5</td>
+<td colspan="8">2000</td>
+<td colspan="11">8</td>
+<td colspan="6">43</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КВЕНЧ</td>
-<td>2016</td>
-<td>3</td>
-<td>245</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>230.</td>
+<td colspan="4">КАРАГАНДИНСКИЙ 6®</td>
+<td colspan="8">2009</td>
+<td colspan="11">5 (*), 10</td>
+<td colspan="6">43</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КЕДР</td>
-<td>1988</td>
-<td>1,13</td>
-<td>99</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>231.</td>
+<td colspan="4">КВЕНЧ</td>
+<td colspan="8">2016</td>
+<td colspan="11">3</td>
+<td colspan="6">245</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КОМПАКТ</td>
-<td>2003</td>
-<td>5</td>
-<td>249</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>232.</td>
+<td colspan="4">КЕДР</td>
+<td colspan="8">1988</td>
+<td colspan="11">1,13</td>
+<td colspan="6">99</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КСАНАДУ</td>
-<td>2011</td>
-<td>3</td>
-<td>292</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>233.</td>
+<td colspan="4">КОМПАКТ</td>
+<td colspan="8">2003</td>
+<td colspan="11">5</td>
+<td colspan="6">249</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КУРАЛАЙ</td>
-<td>2011</td>
-<td>3,6</td>
-<td>18</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>234.</td>
+<td colspan="4">КСАНАДУ</td>
+<td colspan="8">2011</td>
+<td colspan="11">3</td>
+<td colspan="6">292</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>МАЛЦ</td>
-<td>2007</td>
-<td>3</td>
-<td>274</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>235.</td>
+<td colspan="4">КУРАЛАЙ</td>
+<td colspan="8">2011</td>
+<td colspan="11">3,6</td>
+<td colspan="6">18</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>МЕДИКУМ 85</td>
-<td>1989</td>
-<td>1,10,12,13</td>
-<td>28,67</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>236.</td>
+<td colspan="4">МАЛЦ</td>
+<td colspan="8">2007</td>
+<td colspan="11">3</td>
+<td colspan="6">274</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ОВЕРТЮР</td>
-<td>2014</td>
-<td>3</td>
-<td>317</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>237.</td>
+<td colspan="4">МЕДИКУМ 85</td>
+<td colspan="8">1989</td>
+<td colspan="11">1,10,12,13</td>
+<td colspan="6">28,67</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ОДЕССКИЙ 100</td>
-<td>1985</td>
-<td>3,5,6,14</td>
-<td>169</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>238.</td>
+<td colspan="4">ОВЕРТЮР</td>
+<td colspan="8">2014</td>
+<td colspan="11">3, 13</td>
+<td colspan="6">317</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ОДИССЕЙ</td>
-<td>2015</td>
-<td>3,5</td>
-<td>317</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>239.</td>
+<td colspan="4">ОДЕССКИЙ 100</td>
+<td colspan="8">1985</td>
+<td colspan="11">3,5,6,14</td>
+<td colspan="6">169</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ОМСКИЙ 87</td>
-<td>1993</td>
-<td>1,5,13</td>
-<td>138</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>240.</td>
+<td colspan="4">ОДИССЕЙ</td>
+<td colspan="8">2015</td>
+<td colspan="11">3,5</td>
+<td colspan="6">317</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ОМСКИЙ 95</td>
-<td>2008</td>
-<td>10</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>241.</td>
+<td colspan="4">ОМСКИЙ 87</td>
+<td colspan="8">1993</td>
+<td colspan="11">1,5,13</td>
+<td colspan="6">138</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ПРЕСТИЖ</td>
-<td>2009</td>
-<td>3</td>
-<td>284</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>242.</td>
+<td colspan="4">ОМСКИЙ 95</td>
+<td colspan="8">2008</td>
+<td colspan="11">10</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>РИКОТЕНЗЕ 2006</td>
-<td>2010</td>
-<td>5</td>
-<td>24</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>243.</td>
+<td colspan="4">ПРЕСТИЖ</td>
+<td colspan="8">2009</td>
+<td colspan="11">3</td>
+<td colspan="6">284</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>САБИР</td>
-<td>2016</td>
-<td>5,13</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>244.</td>
+<td colspan="4">РИКОТЕНЗЕ 2006®</td>
+<td colspan="8">2010</td>
+<td colspan="11">5</td>
+<td colspan="6">24</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>САНШАЙН</td>
-<td>2015</td>
-<td>3</td>
-<td>340</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>245.</td>
+<td colspan="4">САБИР®</td>
+<td colspan="8">2016</td>
+<td colspan="11">2,5,13</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>САУЛЕ</td>
-<td>1991</td>
-<td>3,9,14</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>246.</td>
+<td colspan="4">САНШАЙН</td>
+<td colspan="8">2015</td>
+<td colspan="11">3</td>
+<td colspan="6">340</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>САША</td>
-<td>2016</td>
-<td>13</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>247.</td>
+<td colspan="4">САУЛЕ</td>
+<td colspan="8">1991</td>
+<td colspan="11">3,9,14</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>СЕВЕР 1</td>
-<td>2001</td>
-<td>3</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>248.</td>
+<td colspan="4">САША</td>
+<td colspan="8">2016</td>
+<td colspan="11">13</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>СЕБАСТЬЯН</td>
-<td>2010</td>
-<td>3</td>
-<td>301</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>249.</td>
+<td colspan="4">СЕВЕР 1</td>
+<td colspan="8">2001</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>СИГНАЛ</td>
-<td>2007</td>
-<td>5</td>
-<td>47</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>250.</td>
+<td colspan="4">СЕБАСТЬЯН</td>
+<td colspan="8">2010</td>
+<td colspan="11">3</td>
+<td colspan="6">301</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>СИЛЬФИДА</td>
-<td>2006</td>
-<td>3</td>
-<td>240</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>251.</td>
+<td colspan="4">СИБИРСКИЙ АВАНГАРД</td>
+<td colspan="8">2017</td>
+<td colspan="11">10</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>СКАРЛЕТТ</td>
-<td>2008</td>
-<td>3</td>
-<td>283</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>252.</td>
+<td colspan="4">СИГНАЛ</td>
+<td colspan="8">2007</td>
+<td colspan="11">5</td>
+<td colspan="6">47</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>СУСЫН</td>
-<td>2009</td>
-<td>3</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>253.</td>
+<td colspan="4">СИЛЬФИДА</td>
+<td colspan="8">2006</td>
+<td colspan="11">3</td>
+<td colspan="6">240</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>СЫМБАТ</td>
-<td>2011</td>
-<td>6,10,13</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>254.</td>
+<td colspan="4">СКАРЛЕТТ</td>
+<td colspan="8">2008</td>
+<td colspan="11">3</td>
+<td colspan="6">283</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>СЫР АРУЫ</td>
-<td>2011</td>
-<td>9</td>
-<td>31,18</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>255.</td>
+<td colspan="4">СУСЫН</td>
+<td colspan="8">2009</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ТРАВЕЛЕР</td>
-<td>2015</td>
-<td>3</td>
-<td>316</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>256.</td>
+<td colspan="4">СЫМБАТ</td>
+<td colspan="8">2011</td>
+<td colspan="11">6,10,13</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ТУЛПАР</td>
-<td>2012</td>
-<td>5</td>
-<td>24</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>257.</td>
+<td colspan="4">СЫР АРУЫ</td>
+<td colspan="8">2011</td>
+<td colspan="11">9</td>
+<td colspan="6">31,18</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ТУРАН-2</td>
-<td>2005</td>
-<td>3</td>
-<td>18</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>258.</td>
+<td colspan="4">ТРАВЕЛЕР</td>
+<td colspan="8">2015</td>
+<td colspan="11">3</td>
+<td colspan="6">316</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>УБАГАН</td>
-<td>2003</td>
-<td>10</td>
-<td>24</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>259.</td>
+<td colspan="4">ТУЛПАР®</td>
+<td colspan="8">2012</td>
+<td colspan="11">5</td>
+<td colspan="6">24</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>УЛАР</td>
-<td>2015</td>
-<td>3</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>260.</td>
+<td colspan="4">ТУРАН-2</td>
+<td colspan="8">2005</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЦЕЛИННЫЙ 30</td>
-<td>1991</td>
-<td>1</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>261.</td>
+<td colspan="4">УБАГАН</td>
+<td colspan="8">2003</td>
+<td colspan="11">10</td>
+<td colspan="6">24</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЦЕЛИННЫЙ 91</td>
-<td>1996</td>
-<td>1,5,12</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>262.</td>
+<td colspan="4">УЛАР®</td>
+<td colspan="8">2015</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЦЕЛИННЫЙ 2005</td>
-<td>2010</td>
-<td>5, 13 (*)</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>263.</td>
+<td colspan="4">ЦЕЛИННЫЙ 30</td>
+<td colspan="8">1991</td>
+<td colspan="11">1</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="9">
-Овес яровой
+<td>264.</td>
+<td colspan="4">ЦЕЛИННЫЙ 60</td>
+<td colspan="8">2017</td>
+<td colspan="11">1, 10</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>265.</td>
+<td colspan="4">ЦЕЛИННЫЙ 91®</td>
+<td colspan="8">1996</td>
+<td colspan="11">1,5,12</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>266.</td>
+<td colspan="4">ЦЕЛИННЫЙ 2005®</td>
+<td colspan="8">2010</td>
+<td colspan="11">5, 13 (*)</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>267.</td>
+<td colspan="4">ЦЕЛИННЫЙ ГОЛОЗЕРНЫЙ</td>
+<td colspan="8">2017</td>
+<td colspan="11">1, 2, 7, 10, 12, 13</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>268.</td>
+<td colspan="4">ШАХРИСТАН</td>
+<td colspan="8">2017</td>
+<td colspan="11">9</td>
+<td colspan="6">31</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>269.</td>
+<td colspan="4">ЩЕДРЫЙ</td>
+<td colspan="8">2017</td>
+<td colspan="11">1, 5</td>
+<td colspan="6">344</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 1.10 Овес яровой
 Avena sativa L
 </td>
 </tr>
 <tr>
-<td>АЛАМАН</td>
-<td>2011</td>
-<td>2,3,13</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>270.</td>
+<td colspan="4">АЛАМАН</td>
+<td colspan="8">2011</td>
+<td colspan="11">2,3,13</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>АРМАН</td>
-<td>2010</td>
-<td>5,12</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>271.</td>
+<td colspan="4">АРМАН®</td>
+<td colspan="8">2010</td>
+<td colspan="11">5,12</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>БАЙГЕ</td>
-<td>2010</td>
-<td>2,9,12</td>
-<td>18</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>272.</td>
+<td colspan="4">БАЙГЕ</td>
+<td colspan="8">2010</td>
+<td colspan="11">2,9,12</td>
+<td colspan="6">18</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>БИТИК</td>
-<td>1996</td>
-<td>1,9,13</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>273.</td>
+<td colspan="4">БИТИК®</td>
+<td colspan="8">1996</td>
+<td colspan="11">1,9,13</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЖОРҒА</td>
-<td>2011</td>
-<td>3,14</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>274.</td>
+<td colspan="4">ЖОРҒА</td>
+<td colspan="8">2011</td>
+<td colspan="11">3,14</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ИРТЫШ 15</td>
-<td>1994</td>
-<td>12,13</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>275.</td>
+<td colspan="4">ИРТЫШ 15</td>
+<td colspan="8">1994</td>
+<td colspan="11">12,13</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КАЗАХСТАНСКИЙ 70</td>
-<td>1992</td>
-<td>3,9,14</td>
-<td>18,138, 67</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td>зф</td>
-<td></td>
+<td>276.</td>
+<td colspan="4">КАЗАХСТАНСКИЙ 70</td>
+<td colspan="8">1992</td>
+<td colspan="11">3,9,14</td>
+<td colspan="6">18,138, 67</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5">зф</td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>КУЛАГЕР</td>
-<td>2007</td>
-<td>3</td>
-<td>18</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>277.</td>
+<td colspan="4">КУЛАГЕР</td>
+<td colspan="8">2007</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ЛЬГОВСКИЙ 82</td>
-<td>1993</td>
-<td>5</td>
-<td>107</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>278.</td>
+<td colspan="4">ЛЬГОВСКИЙ 82</td>
+<td colspan="8">1993</td>
+<td colspan="11">5</td>
+<td colspan="6">107</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>МИРНЫЙ</td>
-<td>1981</td>
-<td>7,8,13</td>
-<td>107</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>279.</td>
+<td colspan="4">МИРНЫЙ</td>
+<td colspan="8">1981</td>
+<td colspan="11">7,8,13</td>
+<td colspan="6">107</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>НИКОЛА</td>
-<td>2011</td>
-<td>1, 13</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>280.</td>
+<td colspan="4">НИКОЛА®</td>
+<td colspan="8">2011</td>
+<td colspan="11">1, 13</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ПАМЯТИ БОГАЧКОВА</td>
-<td>2006</td>
-<td>13</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>281.</td>
+<td colspan="4">ПАМЯТИ БОГАЧКОВА</td>
+<td colspan="8">2006</td>
+<td colspan="11">13</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>ПЕГАС</td>
-<td>2012</td>
-<td>5</td>
-<td>288</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>282.</td>
+<td colspan="4">ПЕГАС</td>
+<td colspan="8">2012</td>
+<td colspan="11">5</td>
+<td colspan="6">288</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>СИНЕЛЬНИКОВСКИЙ 14</td>
-<td>1973</td>
-<td>1,10</td>
-<td>165</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>283.</td>
+<td colspan="4">СИНЕЛЬНИКОВСКИЙ 14</td>
+<td colspan="8">1973</td>
+<td colspan="11">1,10</td>
+<td colspan="6">165</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td>СКАКУН</td>
-<td>1988</td>
-<td>1,3,5,10,13</td>
-<td>115,144</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>284.</td>
+<td colspan="4">СКАКУН</td>
+<td colspan="8">1988</td>
+<td colspan="11">1,3,5,10,13</td>
+<td colspan="6">115,144</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="9">
-Кукуруза
+<td colspan="56">
+Параграф 1.11 Кукуруза
 Zea mays L.
 </td>
 </tr>
 <tr>
-<td>АГРИСТЕР</td>
-<td>2012</td>
-<td>6</td>
-<td>317</td>
-<td>05</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АЛАТАУ 107 ТВ</td>
-<td>1992</td>
-<td>3,7,8</td>
-<td>61,170,18</td>
-<td>02</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АЛТАЙ 250 МВ</td>
-<td>1994</td>
-<td>1,3,9,12</td>
-<td>18, 11</td>
-<td>03</td>
-<td>4л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АЛТАЙ 319</td>
-<td>2006</td>
-<td>5</td>
-<td>270,220</td>
-<td>04</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АЛТЫН 739</td>
-<td>2006</td>
-<td>3</td>
-<td>270,220</td>
-<td>06</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АМАНДО</td>
-<td>2016</td>
-<td>6</td>
-<td>347</td>
-<td>03</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АРМАН 689</td>
-<td>2007</td>
-<td>3</td>
-<td>270,220</td>
-<td>06</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АС 33034</td>
-<td>2016</td>
-<td>3</td>
-<td>346</td>
-<td>03</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>БИЛЬБАО</td>
-<td>1996</td>
-<td>3</td>
-<td>235</td>
-<td>03</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>БУДАН 237 МВ</td>
-<td>1994</td>
-<td>1,2,3,5,7,8,9,10</td>
-<td>18</td>
-<td>04</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>БЦ 666</td>
-<td>2010</td>
-<td>3</td>
-<td>298</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>БЦ 503 ПК</td>
-<td>2010</td>
-<td>3</td>
-<td>298</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДАЛА АРУЫ 446 П</td>
-<td>2011</td>
-<td>3</td>
-<td>18,67</td>
-<td>05</td>
-<td>гп</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДЕЛИТОП</td>
-<td>2014</td>
-<td>14</td>
-<td>233</td>
-<td>02</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДЕЛЬФИН</td>
-<td>2016</td>
-<td>13</td>
-<td>345</td>
-<td>02</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДК 636</td>
-<td>1997</td>
-<td>6,14</td>
-<td>226</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДКЦ 3912</td>
-<td>2016</td>
-<td>3</td>
-<td>348</td>
-<td>03</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДКЦ 4590</td>
-<td>2016</td>
-<td>6</td>
-<td>348</td>
-<td>04</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДОЛАР</td>
-<td>2000</td>
-<td>5,6</td>
-<td>233</td>
-<td>05</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДРАХМА</td>
-<td>2000</td>
-<td>3</td>
-<td>233</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЕЛЕОНОРА</td>
-<td>2010</td>
-<td>3</td>
-<td>234</td>
-<td>04</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЕС ЛИМЕС</td>
-<td>2016</td>
-<td>14</td>
-<td>345</td>
-<td>01</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЗПСК 704</td>
-<td>1996</td>
-<td>3,14</td>
-<td>220,270</td>
-<td>06</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КОЙСАР 429</td>
-<td>2009</td>
-<td>3</td>
-<td>220,270</td>
-<td>05</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Каз ЗП 125</td>
-<td>1996</td>
-<td>1,2</td>
-<td>18,220</td>
-<td>02</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗ ЗП 200</td>
-<td>2009</td>
-<td>1,3,10,12, 13</td>
-<td>220,270</td>
-<td>03</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗ ЗП 499</td>
-<td>2012</td>
-<td>6</td>
-<td>220,270</td>
-<td>04</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗ ЗП 509</td>
-<td>2011</td>
-<td>3</td>
-<td>220,270</td>
-<td>05</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗ ЗП 589</td>
-<td>2003</td>
-<td>14</td>
-<td>18,220</td>
-<td>05</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗ ЗП 629</td>
-<td>2012</td>
-<td>6</td>
-<td>220,270</td>
-<td>05</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗ ЗП 669</td>
-<td>2003</td>
-<td>3</td>
-<td>18,220</td>
-<td>06</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗ ЗП 678</td>
-<td>1996</td>
-<td>3,14</td>
-<td>18,220</td>
-<td>06</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗ ЗП 777</td>
-<td>2011</td>
-<td>6</td>
-<td>220,270</td>
-<td>06</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗ ЗП 779</td>
-<td>2003</td>
-<td>6</td>
-<td>18,220</td>
-<td>06</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗ НИИЗ 74</td>
-<td>1975</td>
-<td>3,6</td>
-<td>18</td>
-<td>05</td>
-<td>сл</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗАХСТАНСКИЙ 162 МВ</td>
-<td>2001</td>
-<td>7</td>
-<td>18</td>
-<td>02</td>
-<td>5л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗАХСТАНСКИЙ 43 ТВ</td>
-<td>1974</td>
-<td>3,6,14</td>
-<td>18,45</td>
-<td>06</td>
-<td>сл</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-КАЗАХСТАНСКИЙ
-420АСВ
-</td>
-<td>2003</td>
-<td>14</td>
-<td>18</td>
-<td>04</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-КАЗАХСТАНСКИЙ
-435 СВ
-</td>
-<td>2002</td>
-<td>3</td>
-<td>18</td>
-<td>04</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-КАЗАХСТАНСКИЙ
-587 СВ
-</td>
-<td>1989</td>
-<td>3,9</td>
-<td>18,31,96</td>
-<td>05</td>
-<td>4л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-КАЗАХСТАНСКИЙ
-700 СВ
-</td>
-<td>1993</td>
-<td>6,14</td>
-<td>18,39</td>
-<td>06</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-КАЗАХСТАНСКИЙ
-705 СВ
-</td>
-<td>1995</td>
-<td>3,6,14</td>
-<td>18</td>
-<td>06</td>
-<td>4л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛГ 3330</td>
-<td>2011</td>
-<td>3</td>
-<td>317</td>
-<td>04</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛГ 3255</td>
-<td>2014</td>
-<td>1,10,13</td>
-<td>317</td>
-<td>03</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛГ 3232</td>
-<td>2015</td>
-<td>12</td>
-<td>317</td>
-<td>03</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛГ 3258</td>
-<td>2015</td>
-<td>5</td>
-<td>317</td>
-<td>02</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛГ 3607</td>
-<td>2015</td>
-<td>14</td>
-<td>317</td>
-<td>06</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>МАТЕУС</td>
-<td>2008</td>
-<td>1,10</td>
-<td>230</td>
-<td>02</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>МВ КОППАНЬ</td>
-<td>2016</td>
-<td>6</td>
-<td>349</td>
-<td>04</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>МОЛДАВСКИЙ 215 МВ</td>
-<td>1989</td>
-<td>1,2,3,10,12, 13</td>
-<td>208,151</td>
-<td>02</td>
-<td>4л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>МОЛДАВСКИЙ 257 СВ</td>
-<td>1989</td>
-<td>1,3,5,7,10,13</td>
-<td>208</td>
-<td>02</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>МОЛДАВСКИЙ 277 МВ</td>
-<td>1997</td>
-<td>3</td>
-<td>208</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>МОЛДАВСКИЙ 456 МВ</td>
-<td>1993</td>
-<td>3</td>
-<td>208</td>
-<td>05</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>МАВЕРИК</td>
-<td>2004</td>
-<td>3</td>
-<td>267</td>
-<td>06</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>МАРКО 419</td>
-<td>2005</td>
-<td>3,6</td>
-<td>220,270</td>
-<td>05</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>НК ПАКО</td>
-<td>2016</td>
-<td>3,14</td>
-<td>233</td>
-<td>05</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>НК ТЕРМО</td>
-<td>2014</td>
-<td>3, 14</td>
-<td>233</td>
-<td>04</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>НС 2012</td>
-<td>2015</td>
-<td>12,14</td>
-<td>289</td>
-<td>02</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОДЕССКИЙ 80 МВ</td>
-<td>1986</td>
-<td>1,2,3,4,5,7, 10,11,12, 13</td>
-<td>169,156</td>
-<td>03</td>
-<td>6л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОМКА 130</td>
-<td>2010</td>
-<td>1</td>
-<td>138,230</td>
-<td>01</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПАЛЛАС</td>
-<td>1998</td>
-<td>10</td>
-<td>225</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПОРУМБЕНЬ176 МВ</td>
-<td>2016</td>
-<td>1</td>
-<td>353</td>
-<td>01</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПОРУМБЕНЬ 222 МВ</td>
-<td>2016</td>
-<td>13</td>
-<td>353</td>
-<td>02</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПРИЗМА</td>
-<td>1997</td>
-<td>3,6,14</td>
-<td>239</td>
-<td>06</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПР-35 П-12</td>
-<td>2005</td>
-<td>3</td>
-<td>234</td>
-<td>06</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПР 39 Г 12</td>
-<td>2010</td>
-<td>1</td>
-<td>234</td>
-<td>01</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПР 31 Н 27</td>
-<td>2010</td>
-<td>3</td>
-<td>234</td>
-<td>04</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПР 31 Г 98</td>
-<td>2012</td>
-<td>14</td>
-<td>234</td>
-<td>05</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПР 34 Н 43</td>
-<td>2010</td>
-<td>3</td>
-<td>234</td>
-<td>04</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>П 1114</td>
-<td>2015</td>
-<td>14</td>
-<td>234</td>
-<td>04</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РОБУСТ 2182 В</td>
-<td>2009</td>
-<td>3</td>
-<td>285</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РОБУСТ РОБУ РЕД</td>
-<td>2009</td>
-<td>3</td>
-<td>285</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РОБУСТ 96566</td>
-<td>2009</td>
-<td>3</td>
-<td>285</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РОБУСТ 97474</td>
-<td>2011</td>
-<td>3</td>
-<td>285</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>САРЫ-АРКА 150 АСВ</td>
-<td>1994</td>
-<td>1,2,3,5,8,10, 12,13</td>
-<td>18</td>
-<td>02</td>
-<td>4л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>САЙРАМ</td>
-<td>2002</td>
-<td>14</td>
-<td>250</td>
-<td>04</td>
-<td>с</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СЕРВИЯ</td>
-<td>1998</td>
-<td>14</td>
-<td>228</td>
-<td>06</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СКИФ 619</td>
-<td>2006</td>
-<td>3,9</td>
-<td>270,220</td>
-<td>06</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СУНКАР 779</td>
-<td>2007</td>
-<td>3,14</td>
-<td>270,220</td>
-<td>06</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТӘТТI - 2012</td>
-<td>2015</td>
-<td>3,6,9,14</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТӘУЕЛСІЗДІК-20 СВ</td>
-<td>2016</td>
-<td>6</td>
-<td>18</td>
-<td>06</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТРИАНА</td>
-<td>2011</td>
-<td>14</td>
-<td>234</td>
-<td>04</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТУЛПАР 539</td>
-<td>2007</td>
-<td>3,6,14</td>
-<td>270,220</td>
-<td>05</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТУРГАЙСКАЯ 5/87</td>
-<td>1993</td>
-<td>1,2,3,10</td>
-<td>18,42</td>
-<td>02</td>
-<td>гп</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТУРАН 150 СВ</td>
-<td>2008</td>
-<td>7</td>
-<td>18,40</td>
-<td>02</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТУРАН 170 СВ</td>
-<td>2009</td>
-<td>10,13</td>
-<td>18, 40</td>
-<td>02</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТУРАН 480 СВ</td>
-<td>2008</td>
-<td>3,6,14</td>
-<td>18</td>
-<td>04</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТУРАН 559 СВ</td>
-<td>2004</td>
-<td>9</td>
-<td>18</td>
-<td>05</td>
-<td>4л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТУРАН 680 СВ</td>
-<td>2005</td>
-<td>14</td>
-<td>18</td>
-<td>06</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ХУАНИТА</td>
-<td>2011</td>
-<td>14</td>
-<td>234</td>
-<td>04</td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЦЕЛИННЫЙ 160 СВ</td>
-<td>1993</td>
-<td>1,3,7,8,10,13</td>
-<td>18</td>
-<td>02</td>
-<td>4л</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЦЕЦИЛИЯ</td>
-<td>2001</td>
-<td>3</td>
-<td>234</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">
-Сорго зерновое
+<td>285.</td>
+<td colspan="4">АГРИСТЕР</td>
+<td colspan="8">2012</td>
+<td colspan="11">6</td>
+<td colspan="6">317</td>
+<td colspan="6">05</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>286.</td>
+<td colspan="4">АЛАТАУ 107 ТВ</td>
+<td colspan="8">1992</td>
+<td colspan="11">3,7,8</td>
+<td colspan="6">61,170,18</td>
+<td colspan="6">02</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>287.</td>
+<td colspan="4">АЛТАЙ 250 МВ</td>
+<td colspan="8">1994</td>
+<td colspan="11">1,3,9,12</td>
+<td colspan="6">18, 11</td>
+<td colspan="6">03</td>
+<td colspan="8">4л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>288.</td>
+<td colspan="4">АЛТАЙ 319</td>
+<td colspan="8">2006</td>
+<td colspan="11">5</td>
+<td colspan="6">270,220</td>
+<td colspan="6">04</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>289.</td>
+<td colspan="4">АЛТЫН 739</td>
+<td colspan="8">2006</td>
+<td colspan="11">3</td>
+<td colspan="6">270,220</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>290.</td>
+<td colspan="4">АМАНДО</td>
+<td colspan="8">2016</td>
+<td colspan="11">6</td>
+<td colspan="6">347</td>
+<td colspan="6">03</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>291.</td>
+<td colspan="4">АРМАН 689</td>
+<td colspan="8">2007</td>
+<td colspan="11">3</td>
+<td colspan="6">270,220</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>292.</td>
+<td colspan="4">АС 33034</td>
+<td colspan="8">2016</td>
+<td colspan="11">3</td>
+<td colspan="6">346</td>
+<td colspan="6">03</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>293.</td>
+<td colspan="4">БИЛЬБАО</td>
+<td colspan="8">1996</td>
+<td colspan="11">3</td>
+<td colspan="6">235</td>
+<td colspan="6">03</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>294.</td>
+<td colspan="4">БУДАН 237 МВ</td>
+<td colspan="8">1994</td>
+<td colspan="11">1,2,3,5,7,8,9,10</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>295.</td>
+<td colspan="4">БЦ 666</td>
+<td colspan="8">2010</td>
+<td colspan="11">3</td>
+<td colspan="6">298</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>296.</td>
+<td colspan="4">БЦ 503 ПК</td>
+<td colspan="8">2010</td>
+<td colspan="11">3</td>
+<td colspan="6">298</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>297.</td>
+<td colspan="4">ДАЛА АРУЫ 446 П</td>
+<td colspan="8">2011</td>
+<td colspan="11">3</td>
+<td colspan="6">18,67</td>
+<td colspan="6">05</td>
+<td colspan="8">гп</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>298.</td>
+<td colspan="4">ДАНУБИО</td>
+<td colspan="8">2017</td>
+<td colspan="11">3, 14</td>
+<td colspan="6">347</td>
+<td colspan="6">01</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>299.</td>
+<td colspan="4">ДЕЛИТОП</td>
+<td colspan="8">2014</td>
+<td colspan="11">14</td>
+<td colspan="6">233</td>
+<td colspan="6">02</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>300.</td>
+<td colspan="4">ДЕЛЬФИН</td>
+<td colspan="8">2016</td>
+<td colspan="11">13</td>
+<td colspan="6">345</td>
+<td colspan="6">02</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>301.</td>
+<td colspan="4">ДК 636</td>
+<td colspan="8">1997</td>
+<td colspan="11">6,14</td>
+<td colspan="6">226</td>
+<td colspan="6">06</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>302.</td>
+<td colspan="4">ДКЦ 3912</td>
+<td colspan="8">2016</td>
+<td colspan="11">3,14</td>
+<td colspan="6">348</td>
+<td colspan="6">03</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>303.</td>
+<td colspan="4">ДКЦ 4590</td>
+<td colspan="8">2016</td>
+<td colspan="11">6</td>
+<td colspan="6">348</td>
+<td colspan="6">04</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>304.</td>
+<td colspan="4">ДКЦ 5031</td>
+<td colspan="8">2017</td>
+<td colspan="11">14</td>
+<td colspan="6">348</td>
+<td colspan="6">04</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>305.</td>
+<td colspan="4">ДКЦ 5783</td>
+<td colspan="8">2017</td>
+<td colspan="11">6</td>
+<td colspan="6">348</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>306.</td>
+<td colspan="4">ДКЦ 6031</td>
+<td colspan="8">2017</td>
+<td colspan="11">6</td>
+<td colspan="6">348</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>307.</td>
+<td colspan="4">ДКЦ 6590</td>
+<td colspan="8">2017</td>
+<td colspan="11">14</td>
+<td colspan="6">348</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>308.</td>
+<td colspan="4">ДОЛАР</td>
+<td colspan="8">2000</td>
+<td colspan="11">5,6</td>
+<td colspan="6">233</td>
+<td colspan="6">05</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>309.</td>
+<td colspan="4">ДРАХМА</td>
+<td colspan="8">2000</td>
+<td colspan="11">3</td>
+<td colspan="6">233</td>
+<td colspan="6">06</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>310.</td>
+<td colspan="4">ЕЛЕОНОРА</td>
+<td colspan="8">2010</td>
+<td colspan="11">3</td>
+<td colspan="6">234</td>
+<td colspan="6">04</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>311.</td>
+<td colspan="4">ЕС ВУЛКАН</td>
+<td colspan="8">2017</td>
+<td colspan="11">13</td>
+<td colspan="6">345</td>
+<td colspan="6">02</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>312.</td>
+<td colspan="4">ЕС ЛИМЕС</td>
+<td colspan="8">2016</td>
+<td colspan="11">14</td>
+<td colspan="6">345</td>
+<td colspan="6">01</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>313.</td>
+<td colspan="4">ЗПСК 704</td>
+<td colspan="8">1996</td>
+<td colspan="11">3,14</td>
+<td colspan="6">220,270</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>314.</td>
+<td colspan="4">КОЙСАР 429</td>
+<td colspan="8">2009</td>
+<td colspan="11">3</td>
+<td colspan="6">220,270</td>
+<td colspan="6">05</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>315.</td>
+<td colspan="4">КАЗ ЗП 125</td>
+<td colspan="8">1996</td>
+<td colspan="11">1,2</td>
+<td colspan="6">18,220</td>
+<td colspan="6">02</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>316.</td>
+<td colspan="4">КАЗ ЗП 200</td>
+<td colspan="8">2009</td>
+<td colspan="11">1,3,10,12, 13</td>
+<td colspan="6">220,270</td>
+<td colspan="6">03</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>317.</td>
+<td colspan="4">КАЗ ЗП 499</td>
+<td colspan="8">2012</td>
+<td colspan="11">6</td>
+<td colspan="6">220,270</td>
+<td colspan="6">04</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>318.</td>
+<td colspan="4">КАЗ ЗП 509</td>
+<td colspan="8">2011</td>
+<td colspan="11">3</td>
+<td colspan="6">220,270</td>
+<td colspan="6">05</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>319.</td>
+<td colspan="4">КАЗ ЗП 589</td>
+<td colspan="8">2003</td>
+<td colspan="11">14</td>
+<td colspan="6">18,220</td>
+<td colspan="6">05</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>320.</td>
+<td colspan="4">КАЗ ЗП 629</td>
+<td colspan="8">2012</td>
+<td colspan="11">6</td>
+<td colspan="6">220,270</td>
+<td colspan="6">05</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>321.</td>
+<td colspan="4">КАЗ ЗП 669</td>
+<td colspan="8">2003</td>
+<td colspan="11">3</td>
+<td colspan="6">18,220</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>322.</td>
+<td colspan="4">КАЗ ЗП 678</td>
+<td colspan="8">1996</td>
+<td colspan="11">3,14</td>
+<td colspan="6">18,220</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>323.</td>
+<td colspan="4">КАЗ ЗП 777</td>
+<td colspan="8">2011</td>
+<td colspan="11">6</td>
+<td colspan="6">220,270</td>
+<td colspan="6">06</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>324.</td>
+<td colspan="4">КАЗ ЗП 779</td>
+<td colspan="8">2003</td>
+<td colspan="11">6</td>
+<td colspan="6">18,220</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>325.</td>
+<td colspan="4">КАЗ-ЛК 171</td>
+<td colspan="8">2017</td>
+<td colspan="11">12</td>
+<td colspan="6">270, 363</td>
+<td colspan="6">02</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>326.</td>
+<td colspan="4">КАЗ-ЛК 178</td>
+<td colspan="8">2017</td>
+<td colspan="11">13</td>
+<td colspan="6">270, 363</td>
+<td colspan="6">02</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>327.</td>
+<td colspan="4">КАЗ-ЛК 650</td>
+<td colspan="8">2017</td>
+<td colspan="11">6</td>
+<td colspan="6">270, 363</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>328.</td>
+<td colspan="4">КАЗ НИИЗ 74</td>
+<td colspan="8">1975</td>
+<td colspan="11">3,6</td>
+<td colspan="6">18</td>
+<td colspan="6">05</td>
+<td colspan="8">сл</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>329.</td>
+<td colspan="4">КАЗАХСТАНСКИЙ 162 МВ</td>
+<td colspan="8">2001</td>
+<td colspan="11">7</td>
+<td colspan="6">18</td>
+<td colspan="6">02</td>
+<td colspan="8">5л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>330.</td>
+<td colspan="4">КАЗАХСТАНСКИЙ 43 ТВ</td>
+<td colspan="8">1974</td>
+<td colspan="11">3,6,14</td>
+<td colspan="6">18,45</td>
+<td colspan="6">06</td>
+<td colspan="8">сл</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>331.</td>
+<td colspan="4">КАЗАХСТАНСКИЙ 420АСВ</td>
+<td colspan="8">2003</td>
+<td colspan="11">14</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>332.</td>
+<td colspan="4">КАЗАХСТАНСКИЙ 435 СВ</td>
+<td colspan="8">2002</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>333.</td>
+<td colspan="4">КАЗАХСТАНСКИЙ 587 СВ®</td>
+<td colspan="8">1989</td>
+<td colspan="11">3,9</td>
+<td colspan="6">18,31,96</td>
+<td colspan="6">05</td>
+<td colspan="8">4л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>334.</td>
+<td colspan="4">КАЗАХСТАНСКИЙ 700 СВ</td>
+<td colspan="8">1993</td>
+<td colspan="11">6,14</td>
+<td colspan="6">18,39</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>335.</td>
+<td colspan="4">КАЗАХСТАНСКИЙ 705 СВ</td>
+<td colspan="8">1995</td>
+<td colspan="11">3,6,14</td>
+<td colspan="6">18</td>
+<td colspan="6">06</td>
+<td colspan="8">4л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>336.</td>
+<td colspan="4">КИЗУРАКС 150 СВ</td>
+<td colspan="8">2017</td>
+<td colspan="11">2, 13</td>
+<td colspan="6">4, 18, 40</td>
+<td colspan="6">02</td>
+<td colspan="8">4л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>337.</td>
+<td colspan="4">ЛГ 2195</td>
+<td colspan="8">2017</td>
+<td colspan="11">5</td>
+<td colspan="6">317</td>
+<td colspan="6">03</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>338.</td>
+<td colspan="4">ЛГ 3330</td>
+<td colspan="8">2011</td>
+<td colspan="11">3</td>
+<td colspan="6">317</td>
+<td colspan="6">04</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>339.</td>
+<td colspan="4">ЛГ 3255</td>
+<td colspan="8">2014</td>
+<td colspan="11">1,10,13</td>
+<td colspan="6">317</td>
+<td colspan="6">03</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>340.</td>
+<td colspan="4">ЛГ 3232</td>
+<td colspan="8">2015</td>
+<td colspan="11">12</td>
+<td colspan="6">317</td>
+<td colspan="6">03</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>341.</td>
+<td colspan="4">ЛГ 3258</td>
+<td colspan="8">2015</td>
+<td colspan="11">5</td>
+<td colspan="6">317</td>
+<td colspan="6">02</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>342.</td>
+<td colspan="4">ЛГ 3607</td>
+<td colspan="8">2015</td>
+<td colspan="11">14</td>
+<td colspan="6">317</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>343.</td>
+<td colspan="4">ЛГ 60669</td>
+<td colspan="8">2017</td>
+<td colspan="11">14</td>
+<td colspan="6">317</td>
+<td colspan="6">05</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>344.</td>
+<td colspan="4">МАТЕУС</td>
+<td colspan="8">2008</td>
+<td colspan="11">1,10</td>
+<td colspan="6">230</td>
+<td colspan="6">02</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>345.</td>
+<td colspan="4">МВ КОППАНЬ</td>
+<td colspan="8">2016</td>
+<td colspan="11">6</td>
+<td colspan="6">349</td>
+<td colspan="6">04</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>346.</td>
+<td colspan="4">МОЛДАВСКИЙ 215 МВ</td>
+<td colspan="8">1989</td>
+<td colspan="11">1,2,3,10,12, 13</td>
+<td colspan="6">208,151</td>
+<td colspan="6">02</td>
+<td colspan="8">4л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>347.</td>
+<td colspan="4">МОЛДАВСКИЙ 257 СВ</td>
+<td colspan="8">1989</td>
+<td colspan="11">1,3,5,7,10,13</td>
+<td colspan="6">208</td>
+<td colspan="6">02</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>348.</td>
+<td colspan="4">МОЛДАВСКИЙ 277 МВ</td>
+<td colspan="8">1997</td>
+<td colspan="11">3</td>
+<td colspan="6">208</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>349.</td>
+<td colspan="4">МОЛДАВСКИЙ 456 МВ</td>
+<td colspan="8">1993</td>
+<td colspan="11">3</td>
+<td colspan="6">208</td>
+<td colspan="6">05</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>350.</td>
+<td colspan="4">МАВЕРИК</td>
+<td colspan="8">2004</td>
+<td colspan="11">3</td>
+<td colspan="6">267</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>351.</td>
+<td colspan="4">МАРКО 419</td>
+<td colspan="8">2005</td>
+<td colspan="11">3,6</td>
+<td colspan="6">220,270</td>
+<td colspan="6">05</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>352.</td>
+<td colspan="4">НК ПАКО</td>
+<td colspan="8">2016</td>
+<td colspan="11">3,14</td>
+<td colspan="6">233</td>
+<td colspan="6">05</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>353.</td>
+<td colspan="4">НК ТЕРМО</td>
+<td colspan="8">2014</td>
+<td colspan="11">3, 14</td>
+<td colspan="6">233</td>
+<td colspan="6">04</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>354.</td>
+<td colspan="4">НС 2012</td>
+<td colspan="8">2015</td>
+<td colspan="11">12,14</td>
+<td colspan="6">289</td>
+<td colspan="6">02</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>355.</td>
+<td colspan="4">НС 3014</td>
+<td colspan="8">2017</td>
+<td colspan="11">3</td>
+<td colspan="6">289</td>
+<td colspan="6">02</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>356.</td>
+<td colspan="4">НС 5043</td>
+<td colspan="8">2017</td>
+<td colspan="11">1, 12, 13</td>
+<td colspan="6">289</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>357.</td>
+<td colspan="4">ОДЕССКИЙ 80 МВ</td>
+<td colspan="8">1986</td>
+<td colspan="11">1,2,3,4,5,7, 10,11,12, 13</td>
+<td colspan="6">169,156</td>
+<td colspan="6">03</td>
+<td colspan="8">6л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>358.</td>
+<td colspan="4">ОМКА 130</td>
+<td colspan="8">2010</td>
+<td colspan="11">1</td>
+<td colspan="6">138,230</td>
+<td colspan="6">01</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>359.</td>
+<td colspan="4">ПАЛЛАС</td>
+<td colspan="8">1998</td>
+<td colspan="11">10</td>
+<td colspan="6">225</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>360.</td>
+<td colspan="4">ПОРУМБЕНЬ176 МВ</td>
+<td colspan="8">2016</td>
+<td colspan="11">1</td>
+<td colspan="6">353</td>
+<td colspan="6">01</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>361.</td>
+<td colspan="4">ПОРУМБЕНЬ 222 МВ</td>
+<td colspan="8">2016</td>
+<td colspan="11">13</td>
+<td colspan="6">353</td>
+<td colspan="6">02</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>362.</td>
+<td colspan="4">ПРИЗМА</td>
+<td colspan="8">1997</td>
+<td colspan="11">3,6,14</td>
+<td colspan="6">239</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>363.</td>
+<td colspan="4">ПР-35 П-12</td>
+<td colspan="8">2005</td>
+<td colspan="11">3</td>
+<td colspan="6">234</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>364.</td>
+<td colspan="4">ПР 39 Г 12</td>
+<td colspan="8">2010</td>
+<td colspan="11">1</td>
+<td colspan="6">234</td>
+<td colspan="6">01</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>365.</td>
+<td colspan="4">ПР 31 Н 27</td>
+<td colspan="8">2010</td>
+<td colspan="11">3</td>
+<td colspan="6">234</td>
+<td colspan="6">04</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>366.</td>
+<td colspan="4">ПР 31 Г 98</td>
+<td colspan="8">2012</td>
+<td colspan="11">14</td>
+<td colspan="6">234</td>
+<td colspan="6">05</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>367.</td>
+<td colspan="4">ПР 34 Н 43</td>
+<td colspan="8">2010</td>
+<td colspan="11">3</td>
+<td colspan="6">234</td>
+<td colspan="6">04</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>368.</td>
+<td colspan="4">П 1114</td>
+<td colspan="8">2015</td>
+<td colspan="11">14</td>
+<td colspan="6">234</td>
+<td colspan="6">04</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>369.</td>
+<td colspan="4">РОБУСТ 2182 В</td>
+<td colspan="8">2009</td>
+<td colspan="11">3</td>
+<td colspan="6">285</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>370.</td>
+<td colspan="4">РОБУСТ РОБУ РЕД</td>
+<td colspan="8">2009</td>
+<td colspan="11">3</td>
+<td colspan="6">285</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>371.</td>
+<td colspan="4">РОБУСТ 96566</td>
+<td colspan="8">2009</td>
+<td colspan="11">3</td>
+<td colspan="6">285</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>372.</td>
+<td colspan="4">РОБУСТ 97474</td>
+<td colspan="8">2011</td>
+<td colspan="11">3</td>
+<td colspan="6">285</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>373.</td>
+<td colspan="4">САРЫ-АРКА 150 АСВ</td>
+<td colspan="8">1994</td>
+<td colspan="11">1,2,3,5,8,10, 12,13</td>
+<td colspan="6">18</td>
+<td colspan="6">02</td>
+<td colspan="8">4л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>374.</td>
+<td colspan="4">САЙРАМ</td>
+<td colspan="8">2002</td>
+<td colspan="11">14</td>
+<td colspan="6">250</td>
+<td colspan="6">04</td>
+<td colspan="8">с</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>375.</td>
+<td colspan="4">СЕРВИЯ</td>
+<td colspan="8">1998</td>
+<td colspan="11">14</td>
+<td colspan="6">228</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>376.</td>
+<td colspan="4">СИ МАЯМИ</td>
+<td colspan="8">2017</td>
+<td colspan="11">6</td>
+<td colspan="6">358</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>377.</td>
+<td colspan="4">СКИФ 619</td>
+<td colspan="8">2006</td>
+<td colspan="11">3,9</td>
+<td colspan="6">270,220</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>378.</td>
+<td colspan="4">СУНКАР 779</td>
+<td colspan="8">2007</td>
+<td colspan="11">3,14</td>
+<td colspan="6">270,220</td>
+<td colspan="6">06</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>379.</td>
+<td colspan="4">ТӘТТI - 2012®</td>
+<td colspan="8">2015</td>
+<td colspan="11">3,6,9,14</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>380.</td>
+<td colspan="4">ТӘУЕЛСІЗДІК-20 СВ</td>
+<td colspan="8">2016</td>
+<td colspan="11">6</td>
+<td colspan="6">18</td>
+<td colspan="6">06</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>381.</td>
+<td colspan="4">ТРИАНА</td>
+<td colspan="8">2011</td>
+<td colspan="11">14</td>
+<td colspan="6">234</td>
+<td colspan="6">04</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>382.</td>
+<td colspan="4">ТУЛПАР 539</td>
+<td colspan="8">2007</td>
+<td colspan="11">3,6,14</td>
+<td colspan="6">270,220</td>
+<td colspan="6">05</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>383.</td>
+<td colspan="4">ТУРГАЙСКАЯ 5/87®</td>
+<td colspan="8">1993</td>
+<td colspan="11">1,2,3,10</td>
+<td colspan="6">18,42</td>
+<td colspan="6">02</td>
+<td colspan="8">гп</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>384.</td>
+<td colspan="4">ТУРАН 150 СВ</td>
+<td colspan="8">2008</td>
+<td colspan="11">7</td>
+<td colspan="6">18,40</td>
+<td colspan="6">02</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>385.</td>
+<td colspan="4">ТУРАН 170 СВ</td>
+<td colspan="8">2009</td>
+<td colspan="11">10,13</td>
+<td colspan="6">18, 40</td>
+<td colspan="6">02</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>386.</td>
+<td colspan="4">ТУРАН 480 СВ</td>
+<td colspan="8">2008</td>
+<td colspan="11">3,6,14</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>387.</td>
+<td colspan="4">ТУРАН 559 СВ</td>
+<td colspan="8">2004</td>
+<td colspan="11">9</td>
+<td colspan="6">18</td>
+<td colspan="6">05</td>
+<td colspan="8">4л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>388.</td>
+<td colspan="4">ТУРАН 680 СВ</td>
+<td colspan="8">2005</td>
+<td colspan="11">14</td>
+<td colspan="6">18</td>
+<td colspan="6">06</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>389.</td>
+<td colspan="4">ХУАНИТА</td>
+<td colspan="8">2011</td>
+<td colspan="11">14</td>
+<td colspan="6">234</td>
+<td colspan="6">04</td>
+<td colspan="8">2л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>390.</td>
+<td colspan="4">ЦЕЛИННЫЙ 160 СВ</td>
+<td colspan="8">1993</td>
+<td colspan="11">1,3,7,8,10,13</td>
+<td colspan="6">18</td>
+<td colspan="6">02</td>
+<td colspan="8">4л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>391.</td>
+<td colspan="4">ЦЕЦИЛИЯ</td>
+<td colspan="8">2001</td>
+<td colspan="11">3</td>
+<td colspan="6">234</td>
+<td colspan="6">06</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>392.</td>
+<td colspan="4">ЦЕВЕЛЬ</td>
+<td colspan="8">2017</td>
+<td colspan="11">10</td>
+<td colspan="6">364</td>
+<td colspan="6">03</td>
+<td colspan="8">3л</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 1.12 Сорго зерновое
 Sorghum bicolor (L.) Moench
 </td>
 </tr>
 <tr>
-<td>ВИКТОРИЯ 4</td>
-<td>2009</td>
-<td>3</td>
-<td>18</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>393.</td>
+<td colspan="4">БАРС - 2020</td>
+<td colspan="8">2017</td>
+<td colspan="11">14</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЕС АЛИЗЭ</td>
-<td>2016</td>
-<td>3, 7</td>
-<td>345</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>394.</td>
+<td colspan="4">ВИКТОРИЯ 4</td>
+<td colspan="8">2009</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЕС ФОЕН</td>
-<td>2016</td>
-<td>6</td>
-<td>360</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>395.</td>
+<td colspan="4">ЕС АЛИЗЭ</td>
+<td colspan="8">2016</td>
+<td colspan="11">3, 7</td>
+<td colspan="6">345</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАМЫШИНСКОЕ 75</td>
-<td>1989</td>
-<td>7</td>
-<td>111</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>396.</td>
+<td colspan="4">ЕС ФОЕН</td>
+<td colspan="8">2016</td>
+<td colspan="11">6</td>
+<td colspan="6">360</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КЕЙРАС</td>
-<td>2016</td>
-<td>5, 9, 14</td>
-<td>345</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>397.</td>
+<td colspan="4">КАМЫШИНСКОЕ 75</td>
+<td colspan="8">1989</td>
+<td colspan="11">7</td>
+<td colspan="6">111</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МОЛДАВСКИЙ 40</td>
-<td>1988</td>
-<td>3</td>
-<td>208</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>398.</td>
+<td colspan="4">КЕЙРАС</td>
+<td colspan="8">2016</td>
+<td colspan="11">5, 9, 14</td>
+<td colspan="6">345</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПИЩЕВОЕ 7</td>
-<td>2010</td>
-<td>2</td>
-<td>18</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>399.</td>
+<td colspan="4">МОЛДАВСКИЙ 40</td>
+<td colspan="8">1988</td>
+<td colspan="11">3</td>
+<td colspan="6">208</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СТАВРОПОЛЬСКОЕ 63</td>
-<td>1992</td>
-<td>5</td>
-<td>139</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>400.</td>
+<td colspan="4">ПИЩЕВОЕ 7</td>
+<td colspan="8">2010</td>
+<td colspan="11">2</td>
+<td colspan="6">18</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Крупяные
-Просо
+<td>401.</td>
+<td colspan="4">СТАВРОПОЛЬСКОЕ 63</td>
+<td colspan="8">1992</td>
+<td colspan="11">5</td>
+<td colspan="6">139</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>402.</td>
+<td colspan="4">СҮРЛЕМ-2017</td>
+<td colspan="8">2017</td>
+<td colspan="11">3, 6</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="56">
+Глава 2. Крупяные
+Параграф 2.1 Просо
 Panicum miliaceum L.
 </td>
 </tr>
 <tr>
-<td>АРУЖАН</td>
-<td>2007</td>
-<td>1,5</td>
-<td>8</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>403.</td>
+<td colspan="4">АРУЖАН®</td>
+<td colspan="8">2007</td>
+<td colspan="11">1,5</td>
+<td colspan="6">8</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БАРНАУЛЬСКОЕ 98</td>
-<td>2013</td>
-<td>5,10</td>
-<td>288</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>404.</td>
+<td colspan="4">БАРНАУЛЬСКОЕ 98</td>
+<td colspan="8">2013</td>
+<td colspan="11">5,10</td>
+<td colspan="6">288</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ОМСКОЕ 11</td>
-<td>1994</td>
-<td>13</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>405.</td>
+<td colspan="4">ОМСКОЕ 11</td>
+<td colspan="8">1994</td>
+<td colspan="11">13</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПАВЛОДАРСКОЕ</td>
-<td>2011</td>
-<td>1,12,13</td>
-<td>30</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>406.</td>
+<td colspan="4">ПАВЛОДАРСКОЕ</td>
+<td colspan="8">2011</td>
+<td colspan="11">1,12,13</td>
+<td colspan="6">30</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>САРАТОВСКОЕ 3</td>
-<td>1981</td>
-<td>5,7,8,10</td>
-<td>114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>407.</td>
+<td colspan="4">ПАВЛОДАРСКОЕ 4</td>
+<td colspan="8">2017</td>
+<td colspan="11">1, 12, 13</td>
+<td colspan="6">30</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>САРАТОВСКОЕ 6</td>
-<td>1985</td>
-<td>
+<td>408.</td>
+<td colspan="4">ПАМЯТИ БЕРСИЕВА®</td>
+<td colspan="8">2009</td>
+<td colspan="11">2,10,12</td>
+<td colspan="6">4</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>409.</td>
+<td colspan="4">САРАТОВСКОЕ 3</td>
+<td colspan="8">1981</td>
+<td colspan="11">5,7,8,10</td>
+<td colspan="6">114</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>410.</td>
+<td colspan="4">САРАТОВСКОЕ 6</td>
+<td colspan="8">1985</td>
+<td colspan="11">
 1,2,3,6,9,
 12,13,14
 </td>
-<td>114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="6">114</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>САРАТОВСКОЕ 10</td>
-<td>2006</td>
-<td>7</td>
-<td>114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>411.</td>
+<td colspan="4">САРАТОВСКОЕ 10</td>
+<td colspan="8">2006</td>
+<td colspan="11">7</td>
+<td colspan="6">114</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СТАРТ</td>
-<td>1981</td>
-<td>2</td>
-<td>114</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>412.</td>
+<td colspan="4">СТАРТ</td>
+<td colspan="8">1981</td>
+<td colspan="11">2</td>
+<td colspan="6">114</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>УРАЛЬСКОЕ 109</td>
-<td>1981</td>
-<td>7</td>
-<td>40</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>413.</td>
+<td colspan="4">УРАЛЬСКОЕ 109</td>
+<td colspan="8">1981</td>
+<td colspan="11">7</td>
+<td colspan="6">40</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ШОРТАНДИНСКОЕ 7</td>
-<td>1994</td>
-<td>1</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>414.</td>
+<td colspan="4">ШОРТАНДИНСКОЕ 7®</td>
+<td colspan="8">1994</td>
+<td colspan="11">1</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ШОРТАНДИНСКОЕ 10</td>
-<td>2009</td>
-<td>1,8,13</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>415.</td>
+<td colspan="4">ШОРТАНДИНСКОЕ 10</td>
+<td colspan="8">2009</td>
+<td colspan="11">1,8,13</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ШОРТАНДИНСКОЕ 11</td>
-<td>2011</td>
-<td>1,13</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>416.</td>
+<td colspan="4">ШОРТАНДИНСКОЕ 11®</td>
+<td colspan="8">2011</td>
+<td colspan="11">1,13</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЯРКОЕ 3</td>
-<td>2009</td>
-<td>2</td>
-<td>4</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>417.</td>
+<td colspan="4">ЯРКОЕ 3®</td>
+<td colspan="8">2009</td>
+<td colspan="11">2</td>
+<td colspan="6">4</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЯРКОЕ 5</td>
-<td>2012</td>
-<td>2,3,8,10</td>
-<td>4</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>418.</td>
+<td colspan="4">ЯРКОЕ 5®</td>
+<td colspan="8">2012</td>
+<td colspan="11">2,3,8,10</td>
+<td colspan="6">4</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЯРКОЕ 6</td>
-<td>2016</td>
-<td>1, 3, 6,13, 14</td>
-<td>4</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>419.</td>
+<td colspan="4">ЯРКОЕ 6</td>
+<td colspan="8">2016</td>
+<td colspan="11">1, 2, 3, 6, 8, 9, 12, 13, 14</td>
+<td colspan="6">4</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЯРКОЕ 7</td>
-<td>2015</td>
-<td>2,7</td>
-<td>4</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>420.</td>
+<td colspan="4">ЯРКОЕ 7®</td>
+<td colspan="8">2015</td>
+<td colspan="11">2,7</td>
+<td colspan="6">4</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПАМЯТИ БЕРСИЕВА</td>
-<td>2009</td>
-<td>2,10,12</td>
-<td>4</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>421.</td>
+<td colspan="4">ЯРКОЕ 120</td>
+<td colspan="8">2017</td>
+<td colspan="11">10, 12, 13</td>
+<td colspan="6">4</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Гречиха
+<td colspan="56">
+Параграф 2.2 Гречиха
 Fagopyrum esculentum Moench
 </td>
 </tr>
 <tr>
-<td>БОГАТЫРЬ</td>
-<td>1949</td>
-<td>
-1,3,5,8,
-10,12,13
-</td>
-<td>122</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>422.</td>
+<td colspan="4">БОГАТЫРЬ</td>
+<td colspan="8">1949</td>
+<td colspan="11">1,3,5,8,10,12,13</td>
+<td colspan="6">122</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КРУПИНКА</td>
-<td>1992</td>
-<td>5,6</td>
-<td>171</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>423.</td>
+<td colspan="4">КРУПИНКА</td>
+<td colspan="8">1992</td>
+<td colspan="11">5,6</td>
+<td colspan="6">171</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СУМЧАНКА</td>
-<td>1985</td>
-<td>
-2,3,5,7,
-8,10,12,13
-</td>
-<td>171</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>424.</td>
+<td colspan="4">СУМЧАНКА</td>
+<td colspan="8">1985</td>
+<td colspan="11">2,3,5,7,8,10,12,13</td>
+<td colspan="6">171</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ШОРТАНДИНСКАЯ
-КРУПНОЗЕРНАЯ
-</td>
-<td>1994</td>
-<td>1,5,13</td>
-<td>19,141</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>425.</td>
+<td colspan="4">ШОРТАНДИНСКАЯ КРУПНОЗЕРНАЯ</td>
+<td colspan="8">1994</td>
+<td colspan="11">1,5,13</td>
+<td colspan="6">19,141</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ШОРТАНДИНСКАЯ 2</td>
-<td>2004</td>
-<td>1,5,12</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>426.</td>
+<td colspan="4">ШОРТАНДИНСКАЯ 2®</td>
+<td colspan="8">2004</td>
+<td colspan="11">1,5,12</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ШОРТАНДИНСКАЯ 4</td>
-<td>2014</td>
-<td>1, 10, 13</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>427.</td>
+<td colspan="4">ШОРТАНДИНСКАЯ 4®</td>
+<td colspan="8">2014</td>
+<td colspan="11">1, 10, 13</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ШОРТАНДИНСКАЯ 5</td>
-<td>2016</td>
-<td>12</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>428.</td>
+<td colspan="4">ШОРТАНДИНСКАЯ 5®</td>
+<td colspan="8">2016</td>
+<td colspan="11">12</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Рис
+<td colspan="56">
+Параграф 2.3 Рис
 Oryza sativa L.
 </td>
 </tr>
 <tr>
-<td>АВАНГАРД</td>
-<td>1985</td>
-<td>9,14</td>
-<td>196</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>429.</td>
+<td colspan="4">АВАНГАРД</td>
+<td colspan="8">1985</td>
+<td colspan="11">9,14</td>
+<td colspan="6">196</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АЛТЫНАЙ</td>
-<td>1999</td>
-<td>3</td>
-<td>16</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>430.</td>
+<td colspan="4">АЙСАУЛЕ</td>
+<td colspan="8">2017</td>
+<td colspan="11">9</td>
+<td colspan="6">31</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АНАИТ</td>
-<td>2012</td>
-<td>9</td>
-<td>68</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>431.</td>
+<td colspan="4">АЛТЫНАЙ</td>
+<td colspan="8">1999</td>
+<td colspan="11">3</td>
+<td colspan="6">16</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АРАЛ 202</td>
-<td>2006</td>
-<td>3,9</td>
-<td>31</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>432.</td>
+<td colspan="4">АНАИТ</td>
+<td colspan="8">2012</td>
+<td colspan="11">9</td>
+<td colspan="6">68</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АРУ</td>
-<td>2008</td>
-<td>9</td>
-<td>31</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>433.</td>
+<td colspan="4">АРАЛ 202</td>
+<td colspan="8">2006</td>
+<td colspan="11">3,9</td>
+<td colspan="6">31</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БАКАНАССКИЙ</td>
-<td>2008</td>
-<td>3</td>
-<td>16, 287</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>434.</td>
+<td colspan="4">АРУ</td>
+<td colspan="8">2008</td>
+<td colspan="11">9</td>
+<td colspan="6">31</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЗАРЯ</td>
-<td>2008</td>
-<td>3</td>
-<td>18, 266</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>435.</td>
+<td colspan="4">БАКАНАССКИЙ</td>
+<td colspan="8">2008</td>
+<td colspan="11">3</td>
+<td colspan="6">16, 287</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАЗЕР - 6</td>
-<td>2015</td>
-<td>9</td>
-<td>31</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>436.</td>
+<td colspan="4">ЗАРЯ</td>
+<td colspan="8">2008</td>
+<td colspan="11">3</td>
+<td colspan="6">18, 266</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАЗНИИР-5</td>
-<td>2012</td>
-<td>9</td>
-<td>31</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>437.</td>
+<td colspan="4">КАЗВЕТТА</td>
+<td colspan="8">2017</td>
+<td colspan="11">9</td>
+<td colspan="6">16</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАРАКАЛПАКСТАН</td>
-<td>1989</td>
-<td>14</td>
-<td>196,188</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>438.</td>
+<td colspan="4">КАЗЕР - 6®</td>
+<td colspan="8">2015</td>
+<td colspan="11">9</td>
+<td colspan="6">31</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КУБАНЬ 3</td>
-<td>1963</td>
-<td>9</td>
-<td>68</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>439.</td>
+<td colspan="4">КАЗНИИР-5</td>
+<td colspan="8">2012</td>
+<td colspan="11">9</td>
+<td colspan="6">31</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛАЗУРНЫЙ</td>
-<td>1990</td>
-<td>14</td>
-<td>196</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>440.</td>
+<td colspan="4">КАРАКАЛПАКСТАН</td>
+<td colspan="8">1989</td>
+<td colspan="11">14</td>
+<td colspan="6">196,188</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИДЕР</td>
-<td>2010</td>
-<td>9</td>
-<td>68</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>441.</td>
+<td colspan="4">КУБАНЬ 3</td>
+<td colspan="8">1963</td>
+<td colspan="11">9</td>
+<td colspan="6">68</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИМАН</td>
-<td>2007</td>
-<td>9</td>
-<td>68</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>442.</td>
+<td colspan="4">ЛАЗУРНЫЙ</td>
+<td colspan="8">1990</td>
+<td colspan="11">14</td>
+<td colspan="6">196</td>
+<td colspan="6">06</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАДИНА</td>
-<td>2007</td>
-<td>9</td>
-<td>16</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>443.</td>
+<td colspan="4">ЛИДЕР</td>
+<td colspan="8">2010</td>
+<td colspan="11">9</td>
+<td colspan="6">68</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАРЖАН</td>
-<td>1987</td>
-<td>9</td>
-<td>31</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>444.</td>
+<td colspan="4">ЛИМАН</td>
+<td colspan="8">2007</td>
+<td colspan="11">9</td>
+<td colspan="6">68</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>НОВАТОР</td>
-<td>2010</td>
-<td>9</td>
-<td>68</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>445.</td>
+<td colspan="4">МАДИНА®</td>
+<td colspan="8">2007</td>
+<td colspan="11">9</td>
+<td colspan="6">16</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ОПЫТНОЕ</td>
-<td>2006</td>
-<td>3</td>
-<td>266, 18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>446.</td>
+<td colspan="4">МАРЖАН</td>
+<td colspan="8">1987</td>
+<td colspan="11">9</td>
+<td colspan="6">31</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПАК-ЛИ</td>
-<td>2004</td>
-<td>3</td>
-<td>266, 18</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>447.</td>
+<td colspan="4">НОВАТОР</td>
+<td colspan="8">2010</td>
+<td colspan="11">9</td>
+<td colspan="6">68</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СОЛНЕЧНЫЙ</td>
-<td>1982</td>
-<td>3</td>
-<td>68</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>448.</td>
+<td colspan="4">ОПЫТНОЕ</td>
+<td colspan="8">2006</td>
+<td colspan="11">3</td>
+<td colspan="6">266, 18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СУАГ</td>
-<td>2009</td>
-<td>3</td>
-<td>18, 266</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>449.</td>
+<td colspan="4">ПАК-ЛИ</td>
+<td colspan="8">2004</td>
+<td colspan="11">3</td>
+<td colspan="6">266, 18</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТОГУСКЕН 1</td>
-<td>2009</td>
-<td>3 (*), 9</td>
-<td>31</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>450.</td>
+<td colspan="4">СОЛНЕЧНЫЙ</td>
+<td colspan="8">1982</td>
+<td colspan="11">3</td>
+<td colspan="6">68</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>УЗ РОС 7-13</td>
-<td>1968</td>
-<td>14</td>
-<td>196</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>451.</td>
+<td colspan="4">СУАГ</td>
+<td colspan="8">2009</td>
+<td colspan="11">3</td>
+<td colspan="6">18, 266</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>УЗ РОС 59</td>
-<td>1973</td>
-<td>14</td>
-<td>196</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>452.</td>
+<td colspan="4">ТОГУСКЕН 1</td>
+<td colspan="8">2009</td>
+<td colspan="11">3 (*), 9</td>
+<td colspan="6">31</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>УШ-ТОБИНСКИЙ</td>
-<td>1963</td>
-<td>3</td>
-<td>26</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>453.</td>
+<td colspan="4">УЗ РОС 7-13</td>
+<td colspan="8">1968</td>
+<td colspan="11">14</td>
+<td colspan="6">196</td>
+<td colspan="6">06</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ФИШТ</td>
-<td>2012</td>
-<td>9</td>
-<td>68</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>454.</td>
+<td colspan="4">УЗ РОС 59</td>
+<td colspan="8">1973</td>
+<td colspan="11">14</td>
+<td colspan="6">196</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЮЖАНИН</td>
-<td>2016</td>
-<td>9</td>
-<td>344</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>455.</td>
+<td colspan="4">УШ-ТОБИНСКИЙ</td>
+<td colspan="8">1963</td>
+<td colspan="11">3</td>
+<td colspan="6">26</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЯНТАРЬ</td>
-<td>2009</td>
-<td>9</td>
-<td>68</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>456.</td>
+<td colspan="4">ФИШТ</td>
+<td colspan="8">2012</td>
+<td colspan="11">9</td>
+<td colspan="6">68</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Зернобобовые
-Горох посевной
+<td>457.</td>
+<td colspan="4">ЮЖАНИН</td>
+<td colspan="8">2016</td>
+<td colspan="11">9</td>
+<td colspan="6">344</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>458.</td>
+<td colspan="4">ЯНТАРЬ</td>
+<td colspan="8">2009</td>
+<td colspan="11">9</td>
+<td colspan="6">68</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="56">
+Глава 3.Зернобобовые
+Параграф 3.1 Горох посевной
 Pisum sativum L. sensu lato
 </td>
 </tr>
 <tr>
-<td>АКСАЙСКИЙ УСАТЫЙ 55</td>
-<td>2011</td>
-<td>1, 10, 13</td>
-<td>83, 282, 319</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>459.</td>
+<td colspan="4">АГРОИНТЕЛ 2</td>
+<td colspan="8">2017</td>
+<td colspan="11">5</td>
+<td colspan="6">354</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АСТРОНАВТ</td>
-<td>2016</td>
-<td>5,10,13</td>
-<td>355</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>460.</td>
+<td colspan="4">АКСАЙСКИЙ УСАТЫЙ 55</td>
+<td colspan="8">2011</td>
+<td colspan="11">1, 10, 13</td>
+<td colspan="6">83, 282, 319</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВАРЯГ</td>
-<td>2008</td>
-<td>5</td>
-<td>288</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>461.</td>
+<td colspan="4">АСТРОНАВТ</td>
+<td colspan="8">2016</td>
+<td colspan="11">5,10,13</td>
+<td colspan="6">355</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЗАУРАЛЬСКИЙ 3</td>
-<td>2015</td>
-<td>8</td>
-<td>282, 138</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>462.</td>
+<td colspan="4">ВАРЯГ</td>
+<td colspan="8">2008</td>
+<td colspan="11">5</td>
+<td colspan="6">288</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАСИБ</td>
-<td>2015</td>
-<td>1,10,13</td>
-<td>19</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>463.</td>
+<td colspan="4">ЗАУРАЛЬСКИЙ 3</td>
+<td colspan="8">2015</td>
+<td colspan="11">8</td>
+<td colspan="6">282, 138</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>НЕОСЫПАЮЩИЙСЯ 1</td>
-<td>1979</td>
-<td>1, 5, 10, 12, 13,14</td>
-<td>161</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>464.</td>
+<td colspan="4">КАСИБ®</td>
+<td colspan="8">2015</td>
+<td colspan="11">1,10,13</td>
+<td colspan="6">19</td>
+<td colspan="6">01</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ОМСКИЙ
-НЕОСЫПАЮЩИЙСЯ
-</td>
-<td>1993</td>
-<td>1,10,13</td>
-<td>138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>465.</td>
+<td colspan="4">НЕОСЫПАЮЩИЙСЯ 1</td>
+<td colspan="8">1979</td>
+<td colspan="11">1, 5, 10, 12, 13,14</td>
+<td colspan="6">161</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РАМОНСКИЙ 77</td>
-<td>1962</td>
-<td>2,6,7,8,10</td>
-<td>70</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>466.</td>
+<td colspan="4">ОМСКИЙ НЕОСЫПАЮЩИЙСЯ</td>
+<td colspan="8">1993</td>
+<td colspan="11">1,10,13</td>
+<td colspan="6">138</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТАЛОВЕЦ 55</td>
-<td>1991</td>
-<td>5</td>
-<td>113</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>467.</td>
+<td colspan="4">РАМОНСКИЙ 77</td>
+<td colspan="8">1962</td>
+<td colspan="11">2,6,7,8,10</td>
+<td colspan="6">70</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>УСАЧ КАЗАХСТАНСКИЙ 871</td>
-<td>1996</td>
-<td>10</td>
-<td>18,161</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>468.</td>
+<td colspan="4">РУСЛАН</td>
+<td colspan="8">2017</td>
+<td colspan="11">1, 13</td>
+<td colspan="6">282</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ШАЛ</td>
-<td>2003</td>
-<td>3,5,10</td>
-<td>18,161</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>469.</td>
+<td colspan="4">СТАТУС®</td>
+<td colspan="8">2017</td>
+<td colspan="11">10, 13</td>
+<td colspan="6">19</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЯМАЛЬСКИЙ</td>
-<td>2012</td>
-<td>10</td>
-<td>335</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>470.</td>
+<td colspan="4">ТАЛОВЕЦ 55</td>
+<td colspan="8">1991</td>
+<td colspan="11">5</td>
+<td colspan="6">113</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЯМАЛ 2</td>
-<td>2016</td>
-<td>1</td>
-<td>354</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>471.</td>
+<td colspan="4">УСАЧ КАЗАХСТАНСКИЙ 871</td>
+<td colspan="8">1996</td>
+<td colspan="11">10</td>
+<td colspan="6">18,161</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Чечевица
+<td>472.</td>
+<td colspan="4">ШАЛ</td>
+<td colspan="8">2003</td>
+<td colspan="11">3,5,10</td>
+<td colspan="6">18,161</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>473.</td>
+<td colspan="4">ЯМАЛЬСКИЙ</td>
+<td colspan="8">2012</td>
+<td colspan="11">10</td>
+<td colspan="6">335</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>474.</td>
+<td colspan="4">ЯМАЛ 2</td>
+<td colspan="8">2016</td>
+<td colspan="11">1</td>
+<td colspan="6">354</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 3.2 Чечевица
 Lens culinaris Medik
 </td>
 </tr>
 <tr>
-<td>ВЕХОВСКАЯ</td>
-<td>2011</td>
-<td>10,13</td>
-<td>124</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>475.</td>
+<td colspan="4">ВЕХОВСКАЯ</td>
+<td colspan="8">2011</td>
+<td colspan="11">10,13</td>
+<td colspan="6">124</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КРАПИНКА</td>
-<td>2016</td>
-<td>13</td>
-<td>19</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>476.</td>
+<td colspan="4">КРАПИНКА</td>
+<td colspan="8">2016</td>
+<td colspan="11">1, 10, 13</td>
+<td colspan="6">19</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ШЫРАЙЛЫ</td>
-<td>2016</td>
-<td>1</td>
-<td>19</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>477.</td>
+<td colspan="4">ШЫРАЙЛЫ</td>
+<td colspan="8">2016</td>
+<td colspan="11">1, 13</td>
+<td colspan="6">19</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Маш
+<td colspan="56">
+Параграф 3.3 Маш
 Phaseolus rabiatus L.
 </td>
 </tr>
 <tr>
-<td>ЖАСЫЛ ДЭН</td>
-<td>2012</td>
-<td>3</td>
-<td>21</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>478.</td>
+<td colspan="4">ЖАСЫЛ ДЭН</td>
+<td colspan="8">2012</td>
+<td colspan="11">3</td>
+<td colspan="6">21</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПОБЕДА 104</td>
-<td>1948</td>
-<td>14</td>
-<td>191</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>479.</td>
+<td colspan="4">ПОБЕДА 104</td>
+<td colspan="8">1948</td>
+<td colspan="11">14</td>
+<td colspan="6">191</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Чина
+<td colspan="56">
+Параграф 3.4 Чина
 Lathyrus sativus L
 </td>
 </tr>
 <tr>
-<td>АЛИ-БАР</td>
-<td>2006</td>
-<td>3</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>480.</td>
+<td colspan="4">АЛИ-БАР</td>
+<td colspan="8">2006</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Нут
+<td colspan="56">
+Параграф 3.5 Нут
 Cicer arietinum L.
 </td>
 </tr>
 <tr>
-<td>ВОЛГОГРАДСКИЙ 10</td>
-<td>1990</td>
-<td>1,2,7,10,13</td>
-<td>76</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>481.</td>
+<td colspan="4">ВОЛГОГРАДСКИЙ 10</td>
+<td colspan="8">1990</td>
+<td colspan="11">1,2,7,10,13</td>
+<td colspan="6">76</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЖАНАЛЫК</td>
-<td>2010</td>
-<td>14</td>
-<td>29</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>482.</td>
+<td colspan="4">ЖАНАЛЫК</td>
+<td colspan="8">2010</td>
+<td colspan="11">14</td>
+<td colspan="6">29</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ИКАРДА 1</td>
-<td>2007</td>
-<td>3,6,14</td>
-<td>18, 271</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>483.</td>
+<td colspan="4">ИКАРДА 1®</td>
+<td colspan="8">2007</td>
+<td colspan="11">3,6,14</td>
+<td colspan="6">18, 271</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАМИЛА 1255</td>
-<td>2000</td>
-<td>3,6,10,14</td>
-<td>18, 194</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>484.</td>
+<td colspan="4">КАМИЛА 1255</td>
+<td colspan="8">2000</td>
+<td colspan="11">3,6,10,14</td>
+<td colspan="6">18, 194</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КРАСНОКУТСКИЙ 123</td>
-<td>1986</td>
-<td>5,13</td>
-<td>97</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>485.</td>
+<td colspan="4">КРАСНОКУТСКИЙ 123</td>
+<td colspan="8">1986</td>
+<td colspan="11">5,13</td>
+<td colspan="6">97</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЮБИЛЕЙНЫЙ</td>
-<td>1967</td>
-<td>1,2,7,8,10,14</td>
-<td>97</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>486.</td>
+<td colspan="4">НҰРЛЫ 80</td>
+<td colspan="8">2017</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Масличные
-Подсолнечник
+<td>487.</td>
+<td colspan="4">СЫМБАТ 1</td>
+<td colspan="8">2017</td>
+<td colspan="11">14</td>
+<td colspan="6">29</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>488.</td>
+<td colspan="4">ЮБИЛЕЙНЫЙ</td>
+<td colspan="8">1967</td>
+<td colspan="11">1,2,7,8,10,14</td>
+<td colspan="6">97</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="56">
+Глава 4. Масличные
+Параграф 4.1 Подсолнечник
 Helianthus annuus L.
 </td>
 </tr>
 <tr>
-<td>АРЕНА ПР</td>
-<td>2008</td>
-<td>5,10</td>
-<td>233</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>БРИО</td>
-<td>2008</td>
-<td>2, 3 (*), 5</td>
-<td>233</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ВОСХОД</td>
-<td>1971</td>
-<td>5,9</td>
-<td>53</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ВОСТОЧНЫЙ</td>
-<td>2004</td>
-<td>1,5,12</td>
-<td>12</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ВКНИИСХ-2011</td>
-<td>2016</td>
-<td>5</td>
-<td>8</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ГУЛЬБАГЫС</td>
-<td>2007</td>
-<td>3, 5, 8, 9, 10</td>
-<td>8</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДЖАЗИ</td>
-<td>2010</td>
-<td>12</td>
-<td>233</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДОЛБИ</td>
-<td>2009</td>
-<td>3</td>
-<td>233</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЕС ПЕТУНИЯ</td>
-<td>2016</td>
-<td>1</td>
-<td>345</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЕСХ 9038</td>
-<td>2016</td>
-<td>5</td>
-<td>345</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЖАЙДАРМАН</td>
-<td>2016</td>
-<td>1,10,13</td>
-<td>19</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЖАЙНА</td>
-<td>2004</td>
-<td>2,4,5,10</td>
-<td>12</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЗАРЯ</td>
-<td>1969</td>
-<td>5,12</td>
-<td>53</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЗАРЕЧНЫЙ</td>
-<td>2009</td>
-<td>13</td>
-<td>28</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ИСЛЕРО</td>
-<td>1999</td>
-<td>12</td>
-<td>225</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗАХСТАНСКИЙ 1</td>
-<td>1993</td>
-<td>1,9,12</td>
-<td>12</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗАХСТАНСКИЙ 5</td>
-<td>2007</td>
-<td>5,10</td>
-<td>8</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗАХСТАНСКИЙ 95</td>
-<td>2016</td>
-<td>5</td>
-<td>12</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-КАЗАХСТАНСКИЙ
-3124
-</td>
-<td>2001</td>
-<td>3</td>
-<td>12</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗАХСТАНСКИЙ 341</td>
-<td>1998</td>
-<td>1,3,13,14</td>
-<td>12</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КАЗАХСТАНСКИЙ 465</td>
-<td>2005</td>
-<td>1,5</td>
-<td>12</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КОНДИ</td>
-<td>2011</td>
-<td>5</td>
-<td>233</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КСФ 7112</td>
-<td>2012</td>
-<td>12</td>
-<td>331</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КЫЙ</td>
-<td>2011</td>
-<td>7</td>
-<td>177</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛГ 5525</td>
-<td>2014</td>
-<td>10,12,13</td>
-<td>317</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛГ 5543 КЛ</td>
-<td>2015</td>
-<td>1</td>
-<td>317</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛГ 5542 КЛ</td>
-<td>2015</td>
-<td>1,5,13</td>
-<td>317</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛГ 5631 КЛ</td>
-<td>2016</td>
-<td>5</td>
-<td>317</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛГ 5633 КЛ</td>
-<td>2014</td>
-<td>1,12</td>
-<td>317</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛГ 5635</td>
-<td>2012</td>
-<td>14</td>
-<td>317</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛГ 5663 КЛ</td>
-<td>2012</td>
-<td>9</td>
-<td>317</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>МЕРИДИЕС КЛ</td>
-<td>2016</td>
-<td>10,13</td>
-<td>341</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>НК ДЕЛФИ</td>
-<td>2011</td>
-<td>5</td>
-<td>233</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>НК НЕОМА</td>
-<td>2014</td>
-<td>5</td>
-<td>233</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>НК ФОРТИМИ</td>
-<td>2015</td>
-<td>5</td>
-<td>245</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>НСХ 6006</td>
-<td>2016</td>
-<td>9</td>
-<td>289</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>НСХ 6011</td>
-<td>2016</td>
-<td>14</td>
-<td>289</td>
-<td>01</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОСКИЛ</td>
-<td>2011</td>
-<td>7</td>
-<td>177</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПАРАИЗО 102 СL</td>
-<td>2015</td>
-<td>3,13</td>
-<td>341</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>П 63 ЛЕ 10</td>
-<td>2015</td>
-<td>5</td>
-<td>234</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>П 64 ЛЕ 11</td>
-<td>2015</td>
-<td>10</td>
-<td>234</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>П 63 ЛЛ 40</td>
-<td>2013</td>
-<td>3</td>
-<td>234</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПР 63 А 90</td>
-<td>2009</td>
-<td>5</td>
-<td>234</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПР 62 А 91</td>
-<td>2011</td>
-<td>3</td>
-<td>234</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПР 63 А 40</td>
-<td>2011</td>
-<td>3,12</td>
-<td>234</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПР 63 А 62</td>
-<td>2011</td>
-<td>1</td>
-<td>234</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПР 64 Ж 04</td>
-<td>2012</td>
-<td>5</td>
-<td>234</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>П 64 ЛС 108</td>
-<td>2016</td>
-<td>5</td>
-<td>234</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПРИНТАСОЛ</td>
-<td>2007</td>
-<td>5,10</td>
-<td>247</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РАУАН</td>
-<td>2015</td>
-<td>10</td>
-<td>28</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РОДНИК</td>
-<td>2009</td>
-<td>5</td>
-<td>64</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РОКИ</td>
-<td>2009</td>
-<td>5,12</td>
-<td>233</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>САНАЙ</td>
-<td>2010</td>
-<td>2</td>
-<td>233</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>САНАЙ МР</td>
-<td>2016</td>
-<td>12</td>
-<td>233</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>САНЛУКА РМ</td>
-<td>2009</td>
-<td>5</td>
-<td>233</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>САНФЛОРА КЛ</td>
-<td>2016</td>
-<td>5</td>
-<td>341</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СВЕТЛАНА 10</td>
-<td>2016</td>
-<td>1,5</td>
-<td>359</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СИБИРСКИЙ 91</td>
-<td>1995</td>
-<td>5,8,12,13</td>
-<td>135</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СИ НЕОСТАР</td>
-<td>2016</td>
-<td>5</td>
-<td>358</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СКОРОСПЕЛЫЙ 40</td>
-<td>2010</td>
-<td>2,14</td>
-<td>8</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СКОРОСПЕЛЫЙ 87</td>
-<td>1991</td>
-<td>5</td>
-<td>114</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СК-2594</td>
-<td>2012</td>
-<td>5</td>
-<td>12</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СОЛНЕЧНЫЙ 20</td>
-<td>1998</td>
-<td>12,13</td>
-<td>12</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СОЧИНСКИЙ</td>
-<td>2011</td>
-<td>1</td>
-<td>19</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СПК(КОНДИТЕРСКИЙ)</td>
-<td>1994</td>
-<td>1,2,5,12</td>
-<td>64</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СУМИКО</td>
-<td>2016</td>
-<td>1,3,12</td>
-<td>358</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СУНКАР</td>
-<td>2005</td>
-<td>5,14</td>
-<td>12</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТРИСТАН</td>
-<td>2016</td>
-<td>12</td>
-<td>358</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ХФ 4917</td>
-<td>2005</td>
-<td>5,12</td>
-<td>234</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЮБИЛЕЙНЫЙ 40</td>
-<td>2009</td>
-<td>2,3,5,13</td>
-<td>8</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЯНА</td>
-<td>2016</td>
-<td>10</td>
-<td>357</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8Н270КЛДМ</td>
-<td>2016</td>
-<td>1</td>
-<td>356</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8Х288КЛДМ</td>
-<td>2016</td>
-<td>1,5</td>
-<td>356</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">
-Горчица cизая
+<td>489.</td>
+<td colspan="4">АРЕНА ПР</td>
+<td colspan="8">2008</td>
+<td colspan="11">5,10</td>
+<td colspan="6">233</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>490.</td>
+<td colspan="4">БРИО</td>
+<td colspan="8">2008</td>
+<td colspan="11">2, 3 (*), 5</td>
+<td colspan="6">233</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>491.</td>
+<td colspan="4">ВОСХОД</td>
+<td colspan="8">1971</td>
+<td colspan="11">5,9</td>
+<td colspan="6">53</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>492.</td>
+<td colspan="4">ВОСТОЧНЫЙ</td>
+<td colspan="8">2004</td>
+<td colspan="11">1,5,12</td>
+<td colspan="6">12</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>493.</td>
+<td colspan="4">ВКНИИСХ-2011®</td>
+<td colspan="8">2016</td>
+<td colspan="11">5</td>
+<td colspan="6">8</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>494.</td>
+<td colspan="4">ГУЛЬБАГЫС®</td>
+<td colspan="8">2007</td>
+<td colspan="11">3, 5, 8, 9, 10</td>
+<td colspan="6">8</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>495.</td>
+<td colspan="4">ДЖАЗИ</td>
+<td colspan="8">2010</td>
+<td colspan="11">12</td>
+<td colspan="6">233</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>496.</td>
+<td colspan="4">ДОЛБИ</td>
+<td colspan="8">2009</td>
+<td colspan="11">3</td>
+<td colspan="6">233</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>497.</td>
+<td colspan="4">ЕС АРКАДИЯ</td>
+<td colspan="8">2017</td>
+<td colspan="11">3</td>
+<td colspan="6">345</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>498.</td>
+<td colspan="4">ЕС ПЕТУНИЯ</td>
+<td colspan="8">2016</td>
+<td colspan="11">1, 13</td>
+<td colspan="6">345</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>499.</td>
+<td colspan="4">ЕС ТЕРРАМИС КЛ</td>
+<td colspan="8">2017</td>
+<td colspan="11">3, 12</td>
+<td colspan="6">345</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>500.</td>
+<td colspan="4">ЕСХ 9038</td>
+<td colspan="8">2016</td>
+<td colspan="11">5</td>
+<td colspan="6">345</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>501.</td>
+<td colspan="4">ЕСХ 9064</td>
+<td colspan="8">2017</td>
+<td colspan="11">3, 6</td>
+<td colspan="6">345</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>502.</td>
+<td colspan="4">ЖАЙДАРМАН®</td>
+<td colspan="8">2016</td>
+<td colspan="11">1,10,13</td>
+<td colspan="6">19</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>503.</td>
+<td colspan="4">ЖАЙНА</td>
+<td colspan="8">2004</td>
+<td colspan="11">2,4,5,10</td>
+<td colspan="6">12</td>
+<td colspan="6">01</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>504.</td>
+<td colspan="4">ЗАРЯ</td>
+<td colspan="8">1969</td>
+<td colspan="11">5,12</td>
+<td colspan="6">53</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>505.</td>
+<td colspan="4">ЗАРЕЧНЫЙ®</td>
+<td colspan="8">2009</td>
+<td colspan="11">13</td>
+<td colspan="6">28</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>506.</td>
+<td colspan="4">ИСЛЕРО</td>
+<td colspan="8">1999</td>
+<td colspan="11">12</td>
+<td colspan="6">225</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>507.</td>
+<td colspan="4">КАЗАХСТАНСКИЙ 1</td>
+<td colspan="8">1993</td>
+<td colspan="11">1,9,12</td>
+<td colspan="6">12</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>508.</td>
+<td colspan="4">КАЗАХСТАНСКИЙ 5®</td>
+<td colspan="8">2007</td>
+<td colspan="11">5,10</td>
+<td colspan="6">8</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>509.</td>
+<td colspan="4">КАЗАХСТАНСКИЙ 95</td>
+<td colspan="8">2016</td>
+<td colspan="11">5</td>
+<td colspan="6">12</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>510.</td>
+<td colspan="4">КАЗАХСТАНСКИЙ 3124</td>
+<td colspan="8">2001</td>
+<td colspan="11">3</td>
+<td colspan="6">12</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>511.</td>
+<td colspan="4">КАЗАХСТАНСКИЙ 341</td>
+<td colspan="8">1998</td>
+<td colspan="11">1,3,13,14</td>
+<td colspan="6">12</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>512.</td>
+<td colspan="4">КАЗАХСТАНСКИЙ 465</td>
+<td colspan="8">2005</td>
+<td colspan="11">1,5</td>
+<td colspan="6">12</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>513.</td>
+<td colspan="4">КОНДИ</td>
+<td colspan="8">2011</td>
+<td colspan="11">5</td>
+<td colspan="6">233</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>514.</td>
+<td colspan="4">КСФ 7112</td>
+<td colspan="8">2012</td>
+<td colspan="11">12</td>
+<td colspan="6">331</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>515.</td>
+<td colspan="4">КҮН НҰРЫ</td>
+<td colspan="8">2017</td>
+<td colspan="11">1, 13</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8">с</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>516.</td>
+<td colspan="4">КЫЙ</td>
+<td colspan="8">2011</td>
+<td colspan="11">7</td>
+<td colspan="6">177</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>517.</td>
+<td colspan="4">ЛГ 5525</td>
+<td colspan="8">2014</td>
+<td colspan="11">10,12,13</td>
+<td colspan="6">317</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>518.</td>
+<td colspan="4">ЛГ 5463 КЛ</td>
+<td colspan="8">2017</td>
+<td colspan="11">1, 5, 10, 12, 13</td>
+<td colspan="6">317</td>
+<td colspan="6">01</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>519.</td>
+<td colspan="4">ЛГ 5543 КЛ</td>
+<td colspan="8">2015</td>
+<td colspan="11">1</td>
+<td colspan="6">317</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>520.</td>
+<td colspan="4">ЛГ 5542 КЛ</td>
+<td colspan="8">2015</td>
+<td colspan="11">1,5,13</td>
+<td colspan="6">317</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>521.</td>
+<td colspan="4">ЛГ 5631 КЛ</td>
+<td colspan="8">2016</td>
+<td colspan="11">5</td>
+<td colspan="6">317</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>522.</td>
+<td colspan="4">ЛГ 5633 КЛ</td>
+<td colspan="8">2014</td>
+<td colspan="11">1,12</td>
+<td colspan="6">317</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>523.</td>
+<td colspan="4">ЛГ 5635</td>
+<td colspan="8">2012</td>
+<td colspan="11">14</td>
+<td colspan="6">317</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>524.</td>
+<td colspan="4">ЛГ 5663 КЛ</td>
+<td colspan="8">2012</td>
+<td colspan="11">9</td>
+<td colspan="6">317</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>525.</td>
+<td colspan="4">МЕРИДИЕС КЛ</td>
+<td colspan="8">2016</td>
+<td colspan="11">10,13</td>
+<td colspan="6">341</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>526.</td>
+<td colspan="4">НК ДЕЛФИ</td>
+<td colspan="8">2011</td>
+<td colspan="11">5</td>
+<td colspan="6">233</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>527.</td>
+<td colspan="4">НК НЕОМА</td>
+<td colspan="8">2014</td>
+<td colspan="11">5</td>
+<td colspan="6">233</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>528.</td>
+<td colspan="4">НК ФОРТИМИ</td>
+<td colspan="8">2015</td>
+<td colspan="11">5</td>
+<td colspan="6">245</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>529.</td>
+<td colspan="4">НСХ 6006</td>
+<td colspan="8">2016</td>
+<td colspan="11">9</td>
+<td colspan="6">289</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>530.</td>
+<td colspan="4">НСХ 6009</td>
+<td colspan="8">2017</td>
+<td colspan="11">6</td>
+<td colspan="6">289</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>531.</td>
+<td colspan="4">НСХ 6011</td>
+<td colspan="8">2016</td>
+<td colspan="11">14</td>
+<td colspan="6">289</td>
+<td colspan="6">01</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>532.</td>
+<td colspan="4">НСХ 6054</td>
+<td colspan="8">2017</td>
+<td colspan="11">14</td>
+<td colspan="6">289</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>533.</td>
+<td colspan="4">НСХ 6780</td>
+<td colspan="8">2017</td>
+<td colspan="11">3</td>
+<td colspan="6">289</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>534.</td>
+<td colspan="4">ОРФЕЙ</td>
+<td colspan="8">2017</td>
+<td colspan="11">1, 2</td>
+<td colspan="6">289</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>535.</td>
+<td colspan="4">ОСКИЛ</td>
+<td colspan="8">2011</td>
+<td colspan="11">7</td>
+<td colspan="6">177</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>536.</td>
+<td colspan="4">ПАРАИЗО 102 СL</td>
+<td colspan="8">2015</td>
+<td colspan="11">3,13</td>
+<td colspan="6">341</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>537.</td>
+<td colspan="4">ПАТРИОТ</td>
+<td colspan="8">2017</td>
+<td colspan="11">5, 14</td>
+<td colspan="6">8</td>
+<td colspan="6">02</td>
+<td colspan="8">с</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>538.</td>
+<td colspan="4">П 63 ЛЕ 10</td>
+<td colspan="8">2015</td>
+<td colspan="11">5</td>
+<td colspan="6">234</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>539.</td>
+<td colspan="4">П 64 ЛЕ 11</td>
+<td colspan="8">2015</td>
+<td colspan="11">10</td>
+<td colspan="6">234</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>540.</td>
+<td colspan="4">П 62 ЛЛ 109</td>
+<td colspan="8">2017</td>
+<td colspan="11">5, 12</td>
+<td colspan="6">234</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>541.</td>
+<td colspan="4">П 63 ЛЛ 40</td>
+<td colspan="8">2013</td>
+<td colspan="11">3</td>
+<td colspan="6">234</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>542.</td>
+<td colspan="4">ПР 63 А 90</td>
+<td colspan="8">2009</td>
+<td colspan="11">5</td>
+<td colspan="6">234</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>543.</td>
+<td colspan="4">ПР 62 А 91</td>
+<td colspan="8">2011</td>
+<td colspan="11">3</td>
+<td colspan="6">234</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>544.</td>
+<td colspan="4">ПР 63 А 40</td>
+<td colspan="8">2011</td>
+<td colspan="11">3,12</td>
+<td colspan="6">234</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>545.</td>
+<td colspan="4">ПР 63 А 62</td>
+<td colspan="8">2011</td>
+<td colspan="11">1</td>
+<td colspan="6">234</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>546.</td>
+<td colspan="4">ПР 64 Ж 04</td>
+<td colspan="8">2012</td>
+<td colspan="11">5</td>
+<td colspan="6">234</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>547.</td>
+<td colspan="4">П 64 ЛС 108</td>
+<td colspan="8">2016</td>
+<td colspan="11">5</td>
+<td colspan="6">234</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>548.</td>
+<td colspan="4">ПРИНТАСОЛ</td>
+<td colspan="8">2007</td>
+<td colspan="11">5,10</td>
+<td colspan="6">247</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>549.</td>
+<td colspan="4">РАУАН®</td>
+<td colspan="8">2015</td>
+<td colspan="11">10</td>
+<td colspan="6">28</td>
+<td colspan="6">01</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>550.</td>
+<td colspan="4">РЖТ БЕЛЛУС</td>
+<td colspan="8">2017</td>
+<td colspan="11">14</td>
+<td colspan="6">355</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>551.</td>
+<td colspan="4">РЖТ ВОЛЛУТО</td>
+<td colspan="8">2017</td>
+<td colspan="11">13</td>
+<td colspan="6">355</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>552.</td>
+<td colspan="4">РОДНИК</td>
+<td colspan="8">2009</td>
+<td colspan="11">5</td>
+<td colspan="6">64</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>553.</td>
+<td colspan="4">РОКИ</td>
+<td colspan="8">2009</td>
+<td colspan="11">5,12</td>
+<td colspan="6">233</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>554.</td>
+<td colspan="4">САНАЙ</td>
+<td colspan="8">2010</td>
+<td colspan="11">2</td>
+<td colspan="6">233</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>555.</td>
+<td colspan="4">САНАЙ МР</td>
+<td colspan="8">2016</td>
+<td colspan="11">1, 12</td>
+<td colspan="6">233</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>556.</td>
+<td colspan="4">САНЛУКА РМ</td>
+<td colspan="8">2009</td>
+<td colspan="11">5</td>
+<td colspan="6">233</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>557.</td>
+<td colspan="4">САНФЛОРА КЛ</td>
+<td colspan="8">2016</td>
+<td colspan="11">5</td>
+<td colspan="6">341</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>558.</td>
+<td colspan="4">САРЫ</td>
+<td colspan="8">2017</td>
+<td colspan="11">1, 10, 13</td>
+<td colspan="6">28</td>
+<td colspan="6">01</td>
+<td colspan="8">с</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>559.</td>
+<td colspan="4">СВЕТЛАНА 10</td>
+<td colspan="8">2016</td>
+<td colspan="11">1,5</td>
+<td colspan="6">359</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>560.</td>
+<td colspan="4">СИБИРСКИЙ 91</td>
+<td colspan="8">1995</td>
+<td colspan="11">5,8,12,13</td>
+<td colspan="6">135</td>
+<td colspan="6">01</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>561.</td>
+<td colspan="4">СИ КАРГО</td>
+<td colspan="8">2017</td>
+<td colspan="11">5</td>
+<td colspan="6">358</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>562.</td>
+<td colspan="4">СИ НЕОСТАР</td>
+<td colspan="8">2016</td>
+<td colspan="11">5</td>
+<td colspan="6">358</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>563.</td>
+<td colspan="4">СКОРОСПЕЛЫЙ 40</td>
+<td colspan="8">2010</td>
+<td colspan="11">2,14</td>
+<td colspan="6">8</td>
+<td colspan="6">01</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>564.</td>
+<td colspan="4">СКОРОСПЕЛЫЙ 87</td>
+<td colspan="8">1991</td>
+<td colspan="11">5</td>
+<td colspan="6">114</td>
+<td colspan="6">01</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>565.</td>
+<td colspan="4">СК-2594</td>
+<td colspan="8">2012</td>
+<td colspan="11">5</td>
+<td colspan="6">12</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>566.</td>
+<td colspan="4">СОЛНЕЧНЫЙ 20</td>
+<td colspan="8">1998</td>
+<td colspan="11">12,13</td>
+<td colspan="6">12</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>567.</td>
+<td colspan="4">СОЧИНСКИЙ®</td>
+<td colspan="8">2011</td>
+<td colspan="11">1</td>
+<td colspan="6">19</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>568.</td>
+<td colspan="4">СПК(КОНДИТЕРСКИЙ)</td>
+<td colspan="8">1994</td>
+<td colspan="11">1,2,5,12</td>
+<td colspan="6">64</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>569.</td>
+<td colspan="4">СУМИКО</td>
+<td colspan="8">2016</td>
+<td colspan="11">1,3, 5, 12</td>
+<td colspan="6">358</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>570.</td>
+<td colspan="4">СУНКАР</td>
+<td colspan="8">2005</td>
+<td colspan="11">5,14</td>
+<td colspan="6">12</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>571.</td>
+<td colspan="4">ТРИСТАН</td>
+<td colspan="8">2016</td>
+<td colspan="11">12</td>
+<td colspan="6">358</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>572.</td>
+<td colspan="4">ХФ 4917</td>
+<td colspan="8">2005</td>
+<td colspan="11">5,12</td>
+<td colspan="6">234</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>573.</td>
+<td colspan="4">ЮБИЛЕЙНЫЙ 40®</td>
+<td colspan="8">2009</td>
+<td colspan="11">2,3,5,13</td>
+<td colspan="6">8</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>574.</td>
+<td colspan="4">ЯНА</td>
+<td colspan="8">2016</td>
+<td colspan="11">10</td>
+<td colspan="6">357</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>575.</td>
+<td colspan="4">8Н270КЛДМ</td>
+<td colspan="8">2016</td>
+<td colspan="11">1</td>
+<td colspan="6">356</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>576.</td>
+<td colspan="4">8Х288КЛДМ</td>
+<td colspan="8">2016</td>
+<td colspan="11">1,5</td>
+<td colspan="6">356</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 4.2 Горчица cизая
 Brassica juncea (L.) Czern.​etCoss.​in Czern.
 </td>
 </tr>
 <tr>
-<td>ВНИИМК 11</td>
-<td>1983</td>
-<td>7</td>
-<td>64</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>577.</td>
+<td colspan="4">ВНИИМК 11</td>
+<td colspan="8">1983</td>
+<td colspan="11">7</td>
+<td colspan="6">64</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЗАРЯ</td>
-<td>1968</td>
-<td>12</td>
-<td>64</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>578.</td>
+<td colspan="4">ЗАРЯ</td>
+<td colspan="8">1968</td>
+<td colspan="11">12</td>
+<td colspan="6">64</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>НЕОСЫПАЮЩАЯСЯ 2</td>
-<td>1950</td>
-<td>1,10,12,13</td>
-<td>111</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>579.</td>
+<td colspan="4">НЕОСЫПАЮЩАЯСЯ 2</td>
+<td colspan="8">1950</td>
+<td colspan="11">1,10,12,13</td>
+<td colspan="6">111</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РУШЕНА</td>
-<td>1993</td>
-<td>1, 5, 7, 10, 12, 13</td>
-<td>64,111</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>580.</td>
+<td colspan="4">РУШЕНА</td>
+<td colspan="8">1993</td>
+<td colspan="11">1, 5, 7, 10, 12, 13</td>
+<td colspan="6">64,111</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Горчица сарептская
+<td colspan="56">
+Параграф 4.3 Горчица сарептская
 Brassica juncea (L.) Czern.
 </td>
 </tr>
 <tr>
-<td>ЖАМИЛЯ</td>
-<td>2011</td>
-<td>3</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>581.</td>
+<td colspan="4">ЖАМИЛЯ</td>
+<td colspan="8">2011</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Сафлор
+<td colspan="56">
+Параграф 4.4 Сафлор
 Carthamus tinctorius L.
 </td>
 </tr>
 <tr>
-<td>АКМАЙ</td>
-<td>2002</td>
-<td>2,3,6,9,14</td>
-<td>29</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>582.</td>
+<td colspan="4">АКМАЙ</td>
+<td colspan="8">2002</td>
+<td colspan="11">2,3,6,9,14</td>
+<td colspan="6">29</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ИИРКАС</td>
-<td>2009</td>
-<td>3</td>
-<td>29</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>583.</td>
+<td colspan="4">ИИРКАС</td>
+<td colspan="8">2009</td>
+<td colspan="11">3</td>
+<td colspan="6">29</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МИЛЮТИНСКИЙ 114</td>
-<td>1953</td>
-<td>6,14</td>
-<td>193</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>584.</td>
+<td colspan="4">МИЛЮТИНСКИЙ 114</td>
+<td colspan="8">1953</td>
+<td colspan="11">6,14</td>
+<td colspan="6">193</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МӨЛДIР 2008</td>
-<td>2011</td>
-<td>14</td>
-<td>29</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>585.</td>
+<td colspan="4">МӨЛДIР 2008</td>
+<td colspan="8">2011</td>
+<td colspan="11">14</td>
+<td colspan="6">29</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>НУРЛАН</td>
-<td>1996</td>
-<td>2,8,9,14</td>
-<td>29</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>586.</td>
+<td colspan="4">НУРЛАН</td>
+<td colspan="8">1996</td>
+<td colspan="11">2,8,9,14</td>
+<td colspan="6">29</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЦЕНТР 70</td>
-<td>2006</td>
-<td>7,3,14</td>
-<td>18</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>587.</td>
+<td colspan="4">ЦЕНТР 70</td>
+<td colspan="8">2006</td>
+<td colspan="11">7,3,14</td>
+<td colspan="6">18</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Соя
+<td colspan="56">
+Параграф 4.5 Соя
 Glycine max (L.) Merr
 </td>
 </tr>
 <tr>
-<td>АВРОРА</td>
-<td>1983</td>
-<td>5</td>
-<td>74</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>588.</td>
+<td colspan="4">АБЕЛИНА</td>
+<td colspan="8">2017</td>
+<td colspan="11">3</td>
+<td colspan="6">347</td>
+<td colspan="6">01</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АЛМАТЫ</td>
-<td>2006</td>
-<td>3,14,9</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>589.</td>
+<td colspan="4">АВРОРА</td>
+<td colspan="8">1983</td>
+<td colspan="11">5</td>
+<td colspan="6">74</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АНА</td>
-<td>2009</td>
-<td>3</td>
-<td>289</td>
-<td>05</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>590.</td>
+<td colspan="4">АҚҚУ</td>
+<td colspan="8">2017</td>
+<td colspan="11">3, 6</td>
+<td colspan="6">18</td>
+<td colspan="6">06</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АНАСТАСИЯ</td>
-<td>2012</td>
-<td>1,3,9,12</td>
-<td>326</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>591.</td>
+<td colspan="4">АЛМАТЫ</td>
+<td colspan="8">2006</td>
+<td colspan="11">3,14,9</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АННУШКА</td>
-<td>2012</td>
-<td>5,8</td>
-<td>326</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>592.</td>
+<td colspan="4">АНА</td>
+<td colspan="8">2009</td>
+<td colspan="11">3</td>
+<td colspan="6">289</td>
+<td colspan="6">05</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БАРА</td>
-<td>2016</td>
-<td>1,10</td>
-<td>329</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>593.</td>
+<td colspan="4">АНАСТАСИЯ</td>
+<td colspan="8">2012</td>
+<td colspan="11">1,3,9,12</td>
+<td colspan="6">326</td>
+<td colspan="6">01</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БИЛЯВКА</td>
-<td>2012</td>
-<td>2,6,10</td>
-<td>326</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>594.</td>
+<td colspan="4">АННУШКА</td>
+<td colspan="8">2012</td>
+<td colspan="11">5,8</td>
+<td colspan="6">326</td>
+<td colspan="6">01</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БУКУРИЯ</td>
-<td>2007</td>
-<td>3</td>
-<td>211</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>595.</td>
+<td colspan="4">БАРА</td>
+<td colspan="8">2016</td>
+<td colspan="11">1,10</td>
+<td colspan="6">329</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВИЛАНА</td>
-<td>2011</td>
-<td>3</td>
-<td>64</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>596.</td>
+<td colspan="4">БИЛЯВКА</td>
+<td colspan="8">2012</td>
+<td colspan="11">2,6,10</td>
+<td colspan="6">326</td>
+<td colspan="6">01</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВОЕВОДЖАНКА</td>
-<td>2009</td>
-<td>3</td>
-<td>289</td>
-<td>06</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>597.</td>
+<td colspan="4">БІРЛІК КВ</td>
+<td colspan="8">2017</td>
+<td colspan="11">5</td>
+<td colspan="6">18, 8</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВОЛГОГРАДКА 1</td>
-<td>1991</td>
-<td>7</td>
-<td>111</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>598.</td>
+<td colspan="4">БУКУРИЯ</td>
+<td colspan="8">2007</td>
+<td colspan="11">3</td>
+<td colspan="6">211</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВИТА</td>
-<td>2008</td>
-<td>14</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>599.</td>
+<td colspan="4">ВИЛАНА</td>
+<td colspan="8">2011</td>
+<td colspan="11">3</td>
+<td colspan="6">64</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ДАНАЯ</td>
-<td>2016</td>
-<td>9</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>600.</td>
+<td colspan="4">ВОЕВОДЖАНКА</td>
+<td colspan="8">2009</td>
+<td colspan="11">3</td>
+<td colspan="6">289</td>
+<td colspan="6">06</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЕС МЕНТОР</td>
-<td>2016</td>
-<td>3, 14</td>
-<td>345</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>601.</td>
+<td colspan="4">ВОЛГОГРАДКА 1</td>
+<td colspan="8">1991</td>
+<td colspan="11">7</td>
+<td colspan="6">111</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ДЕСНА</td>
-<td>2012</td>
-<td>5</td>
-<td>327,328</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>602.</td>
+<td colspan="4">ВИТА</td>
+<td colspan="8">2008</td>
+<td colspan="11">14</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЖАЛПАКСАЙ</td>
-<td>2003</td>
-<td>3,5,9,14</td>
-<td>18,176</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>603.</td>
+<td colspan="4">ДАНАЯ</td>
+<td colspan="8">2016</td>
+<td colspan="11">9</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЖАНСАЯ</td>
-<td>2012</td>
-<td>3</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>604.</td>
+<td colspan="4">ЕС МЕНТОР</td>
+<td colspan="8">2016</td>
+<td colspan="11">3, 14</td>
+<td colspan="6">345</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЗЕН</td>
-<td>2010</td>
-<td>3</td>
-<td>247</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>605.</td>
+<td colspan="4">ДЕСНА</td>
+<td colspan="8">2012</td>
+<td colspan="11">5</td>
+<td colspan="6">327,328</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЗОЛОТИСТАЯ</td>
-<td>2016</td>
-<td>10</td>
-<td>138</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>606.</td>
+<td colspan="4">ЖАЛПАКСАЙ</td>
+<td colspan="8">2003</td>
+<td colspan="11">3,5,9,14</td>
+<td colspan="6">18,176</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАЗАХСТАНСКАЯ 2309</td>
-<td>1992</td>
-<td>3,6,9</td>
-<td>18</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>607.</td>
+<td colspan="4">ЖАНСАЯ®</td>
+<td colspan="8">2012</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КОРСАК</td>
-<td>2012</td>
-<td>3,5,6</td>
-<td>327,328</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>608.</td>
+<td colspan="4">ЗЕН</td>
+<td colspan="8">2010</td>
+<td colspan="11">3</td>
+<td colspan="6">247</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КУБАНЬ</td>
-<td>2015</td>
-<td>3</td>
-<td>330</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>609.</td>
+<td colspan="4">ЗОЛОТИСТАЯ</td>
+<td colspan="8">2016</td>
+<td colspan="11">10</td>
+<td colspan="6">138</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛАСТОЧКА</td>
-<td>2011</td>
-<td>3,6,14</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>610.</td>
+<td colspan="4">КАЗАХСТАНСКАЯ 2309</td>
+<td colspan="8">1992</td>
+<td colspan="11">3,6,9</td>
+<td colspan="6">18</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МИСУЛА 1092</td>
-<td>1997</td>
-<td>3,9,14</td>
-<td>18,37,38</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>611.</td>
+<td colspan="4">КОРСАК</td>
+<td colspan="8">2012</td>
+<td colspan="11">3,5,6</td>
+<td colspan="6">327,328</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>НЕНА</td>
-<td>2011</td>
-<td>3</td>
-<td>220</td>
-<td>06</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>612.</td>
+<td colspan="4">КУБАНЬ</td>
+<td colspan="8">2015</td>
+<td colspan="11">3</td>
+<td colspan="6">330</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПЕРИЗАТ</td>
-<td>2013</td>
-<td>3</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>613.</td>
+<td colspan="4">ЛАСТОЧКА®</td>
+<td colspan="8">2011</td>
+<td colspan="11">3,6,14</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РАДОСТЬ</td>
-<td>2010</td>
-<td>3,6</td>
-<td>18</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>614.</td>
+<td colspan="4">МИСУЛА 1092</td>
+<td colspan="8">1997</td>
+<td colspan="11">3,9,14</td>
+<td colspan="6">18,37,38</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РЕНТА</td>
-<td>2011</td>
-<td>3</td>
-<td>64</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>615.</td>
+<td colspan="4">НЕНА</td>
+<td colspan="8">2011</td>
+<td colspan="11">3</td>
+<td colspan="6">220</td>
+<td colspan="6">06</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РУЖИЦА</td>
-<td>2010</td>
-<td>3</td>
-<td>298</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>616.</td>
+<td colspan="4">ПЕРИЗАТ®</td>
+<td colspan="8">2013</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>САБИРА</td>
-<td>2016</td>
-<td>6</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>617.</td>
+<td colspan="4">РАДОСТЬ</td>
+<td colspan="8">2010</td>
+<td colspan="11">3,6</td>
+<td colspan="6">18</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СИБНИИК 315</td>
-<td>1993</td>
-<td>1,8,10,13</td>
-<td>136</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>618.</td>
+<td colspan="4">РЕНТА</td>
+<td colspan="8">2011</td>
+<td colspan="11">3</td>
+<td colspan="6">64</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>САВА</td>
-<td>2008</td>
-<td>3</td>
-<td>289</td>
-<td>05</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>619.</td>
+<td colspan="4">РУЖИЦА</td>
+<td colspan="8">2010</td>
+<td colspan="11">3</td>
+<td colspan="6">298</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СЕЛЕКТА 302</td>
-<td>2012</td>
-<td>3</td>
-<td>329</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>620.</td>
+<td colspan="4">САБИРА®</td>
+<td colspan="8">2016</td>
+<td colspan="11">6</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СПОНСОР</td>
-<td>2016</td>
-<td>3</td>
-<td>345</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>621.</td>
+<td colspan="4">СИБНИИК 315</td>
+<td colspan="8">1993</td>
+<td colspan="11">1,8,10,13</td>
+<td colspan="6">136</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТАНАИС</td>
-<td>2012</td>
-<td>3</td>
-<td>327,328</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>622.</td>
+<td colspan="4">САВА</td>
+<td colspan="8">2008</td>
+<td colspan="11">3</td>
+<td colspan="6">289</td>
+<td colspan="6">05</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТЕРЕК</td>
-<td>2012</td>
-<td>3,14</td>
-<td>330</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>623.</td>
+<td colspan="4">СЕЛЕКТА 302</td>
+<td colspan="8">2012</td>
+<td colspan="11">3</td>
+<td colspan="6">329</td>
+<td colspan="6">05</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ХОРОЛ</td>
-<td>2014</td>
-<td>3, 5</td>
-<td>327, 328</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>624.</td>
+<td colspan="4">СПОНСОР</td>
+<td colspan="8">2016</td>
+<td colspan="11">3</td>
+<td colspan="6">345</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЧЕРЕМОШ</td>
-<td>2012</td>
-<td>1,3,6,14</td>
-<td>327, 328</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>625.</td>
+<td colspan="4">ТАНАИС</td>
+<td colspan="8">2012</td>
+<td colspan="11">3</td>
+<td colspan="6">327,328</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЭВРИКА 357</td>
-<td>1988</td>
-<td>3,6</td>
-<td>18,37, 38</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>626.</td>
+<td colspan="4">ТЕРЕК</td>
+<td colspan="8">2012</td>
+<td colspan="11">3,14</td>
+<td colspan="6">330</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Кунжут
+<td>627.</td>
+<td colspan="4">ТРИУМФ</td>
+<td colspan="8">2017</td>
+<td colspan="11">9</td>
+<td colspan="6">289</td>
+<td colspan="6">06</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>628.</td>
+<td colspan="4">ХОРОЛ</td>
+<td colspan="8">2014</td>
+<td colspan="11">3, 5</td>
+<td colspan="6">327, 328</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>629.</td>
+<td colspan="4">ЧЕРЕМОШ</td>
+<td colspan="8">2012</td>
+<td colspan="11">1,3,6,14</td>
+<td colspan="6">327, 328</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>630.</td>
+<td colspan="4">ЭВРИКА 357</td>
+<td colspan="8">1988</td>
+<td colspan="11">3,6</td>
+<td colspan="6">18,37, 38</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 4.6 Кунжут
 Sesamum indicum L.
 </td>
 </tr>
 <tr>
-<td>ТАШКЕНТСКИЙ 122</td>
-<td>1942</td>
-<td>14</td>
-<td>191</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>631.</td>
+<td colspan="4">ТАШКЕНТСКИЙ 122</td>
+<td colspan="8">1942</td>
+<td colspan="11">14</td>
+<td colspan="6">191</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Рапс озимый
+<td colspan="56">
+Параграф 4.7 Рапс озимый
 Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 </td>
 </tr>
 <tr>
-<td>ИВАННА</td>
-<td>1991</td>
-<td>3</td>
-<td>157</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>632.</td>
+<td colspan="4">ИВАННА</td>
+<td colspan="8">1991</td>
+<td colspan="11">3</td>
+<td colspan="6">157</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ХАММЕР</td>
-<td>2012</td>
-<td>14</td>
-<td>291</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>633.</td>
+<td colspan="4">ХАММЕР</td>
+<td colspan="8">2012</td>
+<td colspan="11">14</td>
+<td colspan="6">291</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Рапс яровой
+<td colspan="56">
+Параграф 4.8 Рапс яровой
 Brassica napus L. ssp. oleifera (Metzg.) Sinsk
 </td>
 </tr>
 <tr>
-<td>АБИЛИТИ</td>
-<td>2009</td>
-<td>1,10,13</td>
-<td>291</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>634.</td>
+<td colspan="4">АБИЛИТИ</td>
+<td colspan="8">2009</td>
+<td colspan="11">1,10,13</td>
+<td colspan="6">291</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ГЕРОС</td>
-<td>2008</td>
-<td>3,10,13</td>
-<td>292</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>635.</td>
+<td colspan="4">БИЛДЕР</td>
+<td colspan="8">2017</td>
+<td colspan="11">1, 10, 13</td>
+<td colspan="6">342</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ДОКТРИН</td>
-<td>2016</td>
-<td>5</td>
-<td>299</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>636.</td>
+<td colspan="4">ГЕРОС</td>
+<td colspan="8">2008</td>
+<td colspan="11">3,10,13</td>
+<td colspan="6">292</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЗОЛОТОНИВСКИЙ</td>
-<td>1989</td>
-<td>1,5,8,10,13</td>
-<td>138</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>637.</td>
+<td colspan="4">ДОКТРИН</td>
+<td colspan="8">2016</td>
+<td colspan="11">5</td>
+<td colspan="6">299</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАВИАР</td>
-<td>2003</td>
-<td>1,13</td>
-<td>247</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>638.</td>
+<td colspan="4">ЗОЛОТОНИВСКИЙ</td>
+<td colspan="8">1989</td>
+<td colspan="11">1,5,8,10,13</td>
+<td colspan="6">138</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАЛИБР</td>
-<td>2011</td>
-<td>1,5,10,12,13</td>
-<td>299</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>639.</td>
+<td colspan="4">КАВИАР</td>
+<td colspan="8">2003</td>
+<td colspan="11">1,13</td>
+<td colspan="6">247</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КЛЕОПАТРА</td>
-<td>2016</td>
-<td>13</td>
-<td>347</td>
-<td>01</td>
-<td>с</td>
-<td></td>
-<td></td>
-<td></td>
+<td>640.</td>
+<td colspan="4">КАЛИБР</td>
+<td colspan="8">2011</td>
+<td colspan="11">1,5,10,12,13</td>
+<td colspan="6">299</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИЗОРА</td>
-<td>2011</td>
-<td>8</td>
-<td>291</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>641.</td>
+<td colspan="4">КЛАЙД КЛ</td>
+<td colspan="8">2017</td>
+<td colspan="11">10, 13</td>
+<td colspan="6">299</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИПЕЦКИЙ</td>
-<td>2011</td>
-<td>10</td>
-<td>318</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>642.</td>
+<td colspan="4">КЛЕОПАТРА</td>
+<td colspan="8">2016</td>
+<td colspan="11">13</td>
+<td colspan="6">347</td>
+<td colspan="6">01</td>
+<td colspan="8">с</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАЙЛЫ</td>
-<td>2011</td>
-<td>3</td>
-<td>18</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>643.</td>
+<td colspan="4">КЛИК КЛ</td>
+<td colspan="8">2017</td>
+<td colspan="11">13</td>
+<td colspan="6">299</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАЙҚҰДЫҚ</td>
-<td>2015</td>
-<td>1,10,13</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>644.</td>
+<td colspan="4">ЛИЗОРА</td>
+<td colspan="8">2011</td>
+<td colspan="11">8</td>
+<td colspan="6">291</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАЙЛЫ ДӘН</td>
-<td>2016</td>
-<td>1</td>
-<td>19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>645.</td>
+<td colspan="4">ЛИПЕЦКИЙ</td>
+<td colspan="8">2011</td>
+<td colspan="11">10</td>
+<td colspan="6">318</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАКРО</td>
-<td>2015</td>
-<td>10</td>
-<td>299</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>646.</td>
+<td colspan="4">ЛИПКАР 2014</td>
+<td colspan="8">2017</td>
+<td colspan="11">5, 10</td>
+<td colspan="6">24</td>
+<td colspan="6">04</td>
+<td colspan="8">с</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МИРАКЕЛ</td>
-<td>2015</td>
-<td>13</td>
-<td>299</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>647.</td>
+<td colspan="4">МАЙЛЫ</td>
+<td colspan="8">2011</td>
+<td colspan="11">3</td>
+<td colspan="6">18</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МОБИЛЬ CL</td>
-<td>2011</td>
-<td>1,3,5,10,12, 13</td>
-<td>299</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>648.</td>
+<td colspan="4">МАЙҚҰДЫҚ®</td>
+<td colspan="8">2015</td>
+<td colspan="11">1,10,13</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ОЗОРНО</td>
-<td>2012</td>
-<td>1,3,5,10,12, 13</td>
-<td>299</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>649.</td>
+<td colspan="4">МАЙЛЫ ДӘН®</td>
+<td colspan="8">2016</td>
+<td colspan="11">1</td>
+<td colspan="6">19</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПРОКСИМО</td>
-<td>2016</td>
-<td>1,10,13</td>
-<td>342</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>650.</td>
+<td colspan="4">МАКРО</td>
+<td colspan="8">2015</td>
+<td colspan="11">10</td>
+<td colspan="6">299</td>
+<td colspan="6">03</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПР 45 Х 73</td>
-<td>2012</td>
-<td>1,5, 10, 13</td>
-<td>234</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>651.</td>
+<td colspan="4">МИРАКЕЛ</td>
+<td colspan="8">2015</td>
+<td colspan="12">13</td>
+<td colspan="6">299</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПР 46 Х 75</td>
-<td>2016</td>
-<td>1</td>
-<td>234</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>652.</td>
+<td colspan="4">МОБИЛЬ CL</td>
+<td colspan="8">2011</td>
+<td colspan="12">1,3,5,10,12, 13</td>
+<td colspan="6">299</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РУСИЧ</td>
-<td>2007</td>
-<td>13</td>
-<td>272</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>653.</td>
+<td colspan="4">ОЗОРНО</td>
+<td colspan="8">2012</td>
+<td colspan="12">1,3,5,10,12, 13</td>
+<td colspan="6">299</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>САЛЬСА CL</td>
-<td>2011</td>
-<td>10,13</td>
-<td>299</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>654.</td>
+<td colspan="4">ПРОКСИМО</td>
+<td colspan="8">2016</td>
+<td colspan="12">1,10,13</td>
+<td colspan="6">342</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СМИЛЛА</td>
-<td>2015</td>
-<td>10</td>
-<td>299</td>
-<td>01</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>655.</td>
+<td colspan="4">ПР 45 Х 73</td>
+<td colspan="8">2012</td>
+<td colspan="12">1,5, 10, 13</td>
+<td colspan="6">234</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СОЛАР CL</td>
-<td>2011</td>
-<td>13</td>
-<td>299</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>656.</td>
+<td colspan="4">ПР 46 Х 75</td>
+<td colspan="8">2016</td>
+<td colspan="12">1</td>
+<td colspan="6">234</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТРАППЕР</td>
-<td>2011</td>
-<td>1,3,5,10,13</td>
-<td>299</td>
-<td>01</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>657.</td>
+<td colspan="4">РУСИЧ</td>
+<td colspan="8">2007</td>
+<td colspan="12">13</td>
+<td colspan="6">272</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ХАНТЕР</td>
-<td>2010</td>
-<td>1, 10, 13</td>
-<td>292</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>658.</td>
+<td colspan="4">САЛЬСА CL</td>
+<td colspan="8">2011</td>
+<td colspan="12">10,13</td>
+<td colspan="6">299</td>
+<td colspan="6">02</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ШАЛҚАР 39</td>
-<td>2016</td>
-<td>5</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>659.</td>
+<td colspan="4">СМИЛЛА</td>
+<td colspan="8">2015</td>
+<td colspan="12">10</td>
+<td colspan="6">299</td>
+<td colspan="6">01</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЮБИЛЕЙНЫЙ</td>
-<td>2005</td>
-<td>1,13,10</td>
-<td>64</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>660.</td>
+<td colspan="4">СОЛАР CL</td>
+<td colspan="8">2011</td>
+<td colspan="12">13</td>
+<td colspan="6">299</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>RG 40301</td>
-<td>2015</td>
-<td>1,10,13</td>
-<td>342</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>661.</td>
+<td colspan="4">ТРАППЕР</td>
+<td colspan="8">2011</td>
+<td colspan="12">1,3,5,10,13</td>
+<td colspan="6">299</td>
+<td colspan="6">01</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Рыжик яровой
+<td>662.</td>
+<td colspan="4">ХАНТЕР</td>
+<td colspan="8">2010</td>
+<td colspan="12">1, 10, 13</td>
+<td colspan="6">292</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>663.</td>
+<td colspan="4">ШАЛҚАР 39®</td>
+<td colspan="8">2016</td>
+<td colspan="12">5</td>
+<td colspan="6">18</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>664.</td>
+<td colspan="4">ЮБИЛЕЙНЫЙ</td>
+<td colspan="8">2005</td>
+<td colspan="12">1,13,10</td>
+<td colspan="6">64</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>665.</td>
+<td colspan="4">RG 40301</td>
+<td colspan="8">2015</td>
+<td colspan="12">1,10,13</td>
+<td colspan="6">342</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>666.</td>
+<td colspan="4">5 EN 0006</td>
+<td colspan="8">2017</td>
+<td colspan="12">13</td>
+<td colspan="6">342</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 4.9 Рыжик яровой
 Camelina sativa (L.) Crantz.
 </td>
 </tr>
 <tr>
-<td>ИСИЛЬКУЛЕЦ</td>
-<td>2011</td>
-<td>10,13</td>
-<td>272</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>667.</td>
+<td colspan="4">ИСИЛЬКУЛЕЦ</td>
+<td colspan="8">2011</td>
+<td colspan="12">10,13</td>
+<td colspan="6">272</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИГЕНА</td>
-<td>2014</td>
-<td>1, 5, 10, 12,13</td>
-<td>291</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>668.</td>
+<td colspan="4">ЛИГЕНА</td>
+<td colspan="8">2014</td>
+<td colspan="12">1, 5, 10, 12,13</td>
+<td colspan="6">291</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ОМСКИЙ МЕСТНЫЙ</td>
-<td>1994</td>
-<td>13</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>669.</td>
+<td colspan="4">ОМСКИЙ МЕСТНЫЙ</td>
+<td colspan="8">1994</td>
+<td colspan="12">13</td>
+<td colspan="6">1</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Лен масличный
+<td colspan="56">
+Параграф 4.10 Лен масличный
 Linum usitatissimum L. var. intermedia Vav. et. EII
 </td>
 </tr>
 <tr>
-<td>КАЗАР</td>
-<td>2005</td>
-<td>10</td>
-<td>28</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>670.</td>
+<td colspan="4">КАЗАР</td>
+<td colspan="8">2005</td>
+<td colspan="12">10</td>
+<td colspan="6">28</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАРАБАЛЫКСКИЙ 7</td>
-<td>1979</td>
-<td>1,13</td>
-<td>24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>671.</td>
+<td colspan="4">КАРАБАЛЫКСКИЙ 7</td>
+<td colspan="8">1979</td>
+<td colspan="12">1,13</td>
+<td colspan="6">24</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-КУСТАНАЙСКИЙ
-ЯНТАРЬ
-</td>
-<td>1994</td>
-<td>1,8,10,13</td>
-<td>28</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>672.</td>
+<td colspan="4">КУСТАНАЙСКИЙ ЯНТАРЬ</td>
+<td colspan="8">1994</td>
+<td colspan="12">1,8,10,13</td>
+<td colspan="6">28</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КУСТАНАЙСКИЙ 11</td>
-<td>2016</td>
-<td>10,13</td>
-<td>28</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>673.</td>
+<td colspan="4">КУСТАНАЙСКИЙ 11®</td>
+<td colspan="8">2016</td>
+<td colspan="12">10,13</td>
+<td colspan="6">28</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИБРА</td>
-<td>2015</td>
-<td>1, 5,10,13</td>
-<td>317</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>674.</td>
+<td colspan="4">ЛИБРА</td>
+<td colspan="8">2015</td>
+<td colspan="12">1, 5,10,13</td>
+<td colspan="6">317</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИРИНА</td>
-<td>2011</td>
-<td>1</td>
-<td>304</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>675.</td>
+<td colspan="4">ЛИРИНА</td>
+<td colspan="8">2011</td>
+<td colspan="12">1</td>
+<td colspan="6">304</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СЕВЕРНЫЙ</td>
-<td>2006</td>
-<td>13</td>
-<td>272</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>676.</td>
+<td colspan="4">СЕВЕРНЫЙ</td>
+<td colspan="8">2006</td>
+<td colspan="12">13</td>
+<td colspan="6">272</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Клещевина
+<td colspan="56">
+Параграф 4.11 Клещевина
 Ricinus communis L.
 </td>
 </tr>
 <tr>
-<td>
-ДОНСКАЯ
-КРУПНОКИСТНАЯ
-</td>
-<td>1979</td>
-<td>14</td>
-<td>81</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>677.</td>
+<td colspan="4">ДОНСКАЯ КРУПНОКИСТНАЯ</td>
+<td colspan="8">1979</td>
+<td colspan="12">14</td>
+<td colspan="6">81</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Паслен дольчатый
+<td colspan="56">
+4.12 Паслен дольчатый
 Solanum laciniatum Forst.
 </td>
 </tr>
 <tr>
-<td>БОГАТЫРЬ</td>
-<td>1987</td>
-<td>14</td>
-<td>62,17</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>678.</td>
+<td colspan="4">БОГАТЫРЬ</td>
+<td colspan="8">1987</td>
+<td colspan="12">14</td>
+<td colspan="6">62,17</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Технические
-Cвекла cахарная
+<td colspan="56">
+Глава 5. Технические
+Параграф 5.1 Cвекла cахарная
 Beta vulgaris L. ssp. vulgaris var. altissima Doell
 </td>
 </tr>
 <tr>
-<td>АВАНТАЖ</td>
-<td>2000</td>
-<td>3,6</td>
-<td>240</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>679.</td>
+<td colspan="4">АВАНТАЖ</td>
+<td colspan="8">2000</td>
+<td colspan="12">3,6</td>
+<td colspan="6">240</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АЙШОЛПАН</td>
-<td>2016</td>
-<td>3</td>
-<td>18, 361</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>680.</td>
+<td colspan="4">АЙШОЛПАН</td>
+<td colspan="8">2016</td>
+<td colspan="12">3</td>
+<td colspan="6">18, 361</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АКСУ</td>
-<td>2014</td>
-<td>3</td>
-<td>39</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>681.</td>
+<td colspan="4">АКСУ</td>
+<td colspan="8">2014</td>
+<td colspan="12">3</td>
+<td colspan="6">39</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АМЕЛИ</td>
-<td>1999</td>
-<td>6</td>
-<td>240</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>682.</td>
+<td colspan="4">АМЕЛИ</td>
+<td colspan="8">1999</td>
+<td colspan="12">6</td>
+<td colspan="6">240</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АРДАН</td>
-<td>2012</td>
-<td>3</td>
-<td>240</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>683.</td>
+<td colspan="4">АРДАН</td>
+<td colspan="8">2012</td>
+<td colspan="12">3</td>
+<td colspan="6">240</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВЕНЕРА</td>
-<td>2004</td>
-<td>3,6</td>
-<td>240</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>684.</td>
+<td colspan="4">ВЕНЕРА</td>
+<td colspan="8">2004</td>
+<td colspan="12">3,6</td>
+<td colspan="6">240</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ГОЛЬФ</td>
-<td>2000</td>
-<td>3,6</td>
-<td>222</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>685.</td>
+<td colspan="4">ГОЛЬФ</td>
+<td colspan="8">2000</td>
+<td colspan="12">3,6</td>
+<td colspan="6">222</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ГЕОРГИНА</td>
-<td>2005</td>
-<td>3</td>
-<td>230</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>686.</td>
+<td colspan="4">ГЕОРГИНА</td>
+<td colspan="8">2005</td>
+<td colspan="12">3</td>
+<td colspan="6">230</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ГРИММ</td>
-<td>2014</td>
-<td>3</td>
-<td>241</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>687.</td>
+<td colspan="4">ГРИММ</td>
+<td colspan="8">2014</td>
+<td colspan="12">3</td>
+<td colspan="6">241</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ДАНУБ</td>
-<td>2012</td>
-<td>3</td>
-<td>240</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>688.</td>
+<td colspan="4">ДАНУБ</td>
+<td colspan="8">2012</td>
+<td colspan="12">3</td>
+<td colspan="6">240</td>
+<td colspan="6">04</td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ИРИС</td>
-<td>2011</td>
-<td>3</td>
-<td>305</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>689.</td>
+<td colspan="4">ИРИС</td>
+<td colspan="8">2011</td>
+<td colspan="12">3</td>
+<td colspan="6">305</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАЗ МС 19</td>
-<td>1998</td>
-<td>5</td>
-<td>18</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>690.</td>
+<td colspan="4">КАЗ МС 19</td>
+<td colspan="8">1998</td>
+<td colspan="12">5</td>
+<td colspan="6">18</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАЗ СИБ 14</td>
-<td>2001</td>
-<td>3</td>
-<td>18,90</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>691.</td>
+<td colspan="4">КАЗ СИБ 14</td>
+<td colspan="8">2001</td>
+<td colspan="12">3</td>
+<td colspan="6">18,90</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КРОКОДИЛ</td>
-<td>2011</td>
-<td>3</td>
-<td>305</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>692.</td>
+<td colspan="4">КРОКОДИЛ</td>
+<td colspan="8">2011</td>
+<td colspan="12">3</td>
+<td colspan="6">305</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛЕНОРА</td>
-<td>2004</td>
-<td>3</td>
-<td>230</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>693.</td>
+<td colspan="4">ЛЕНОРА</td>
+<td colspan="8">2004</td>
+<td colspan="12">3</td>
+<td colspan="6">230</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>№ 673403</td>
-<td>2002</td>
-<td>3</td>
-<td>246</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>694.</td>
+<td colspan="4">№ 673403</td>
+<td colspan="8">2002</td>
+<td colspan="12">3</td>
+<td colspan="6">246</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПОРТЛАНД</td>
-<td>2014</td>
-<td>3</td>
-<td>338</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>695.</td>
+<td colspan="4">ПОРТЛАНД</td>
+<td colspan="8">2014</td>
+<td colspan="12">3</td>
+<td colspan="6">338</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РЕКОРД</td>
-<td>1996</td>
-<td>3</td>
-<td>231</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>696.</td>
+<td colspan="4">РЕКОРД</td>
+<td colspan="8">1996</td>
+<td colspan="12">3</td>
+<td colspan="6">231</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РИЗОР</td>
-<td>1999</td>
-<td>3,6</td>
-<td>238</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>697.</td>
+<td colspan="4">РИЗОР</td>
+<td colspan="8">1999</td>
+<td colspan="12">3,6</td>
+<td colspan="6">238</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РИЗОФОРТ</td>
-<td>1999</td>
-<td>6</td>
-<td>225</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>698.</td>
+<td colspan="4">РИЗОФОРТ</td>
+<td colspan="8">1999</td>
+<td colspan="12">6</td>
+<td colspan="6">225</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РИККО</td>
-<td>1998</td>
-<td>6</td>
-<td>238</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>699.</td>
+<td colspan="4">РИККО</td>
+<td colspan="8">1998</td>
+<td colspan="12">6</td>
+<td colspan="6">238</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РОКСАН</td>
-<td>1997</td>
-<td>3</td>
-<td>240</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>700.</td>
+<td colspan="4">РОКСАН</td>
+<td colspan="8">1997</td>
+<td colspan="12">3</td>
+<td colspan="6">240</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СКУДО</td>
-<td>2000</td>
-<td>6</td>
-<td>222</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>701.</td>
+<td colspan="4">СКУДО</td>
+<td colspan="8">2000</td>
+<td colspan="12">6</td>
+<td colspan="6">222</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЦКАЗ МС 44</td>
-<td>1995</td>
-<td>1,3,6,8,10, 13,14</td>
-<td>18,179</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>702.</td>
+<td colspan="4">ТАРАЗ</td>
+<td colspan="8">2017</td>
+<td colspan="12">6</td>
+<td colspan="6">18</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ШАННОН</td>
-<td>2013</td>
-<td>3</td>
-<td>338</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>703.</td>
+<td colspan="4">ЦКАЗ МС 44</td>
+<td colspan="8">1995</td>
+<td colspan="12">1,3,6,8,10, 13,14</td>
+<td colspan="6">18,179</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЭЛОДИЕ</td>
-<td>2006</td>
-<td>3,6</td>
-<td>240</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>704.</td>
+<td colspan="4">ШАННОН</td>
+<td colspan="8">2013</td>
+<td colspan="12">3</td>
+<td colspan="6">338</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ЯЛТУШКОВСКАЯ
-ОДНОСЕМЯННАЯ
-</td>
-<td>1961</td>
-<td>2,3,6</td>
-<td>182</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>705.</td>
+<td colspan="4">ШЕКЕР</td>
+<td colspan="8">2017</td>
+<td colspan="12">3</td>
+<td colspan="6">18</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ЯЛТУШКОВСКАЯ
-ОДНОСЕМЯННАЯ 30
-</td>
-<td>1981</td>
-<td>3,6</td>
-<td>182</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>706.</td>
+<td colspan="4">ЭЛОДИЕ</td>
+<td colspan="8">2006</td>
+<td colspan="12">3,6</td>
+<td colspan="6">240</td>
+<td colspan="6"></td>
+<td colspan="8">F1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Табак
+<td>707.</td>
+<td colspan="4">ЯЛТУШКОВСКАЯ ОДНОСЕМЯННАЯ</td>
+<td colspan="8">1961</td>
+<td colspan="12">2,3,6</td>
+<td colspan="6">182</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>708.</td>
+<td colspan="4">ЯЛТУШКОВСКАЯ ОДНОСЕМЯННАЯ 30</td>
+<td colspan="8">1981</td>
+<td colspan="12">3,6</td>
+<td colspan="6">182</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 5.2 Табак
 Nicotiana tabacum L
 </td>
 </tr>
 <tr>
-<td>ВИРДЖИНИЯ</td>
-<td>2011</td>
-<td>14</td>
-<td>306</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>709.</td>
+<td colspan="4">ВИРДЖИНИЯ</td>
+<td colspan="8">2011</td>
+<td colspan="12">14</td>
+<td colspan="6">306</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ДЮБЕК 13</td>
-<td>1986</td>
-<td>3</td>
-<td>36</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>710.</td>
+<td colspan="4">ДЮБЕК 13</td>
+<td colspan="8">1986</td>
+<td colspan="12">3</td>
+<td colspan="6">36</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ДЮБЕК 44-07</td>
-<td>1973</td>
-<td>3</td>
-<td>44</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>711.</td>
+<td colspan="4">ДЮБЕК 44-07</td>
+<td colspan="8">1973</td>
+<td colspan="12">3</td>
+<td colspan="6">44</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТАЛГАРСКИЙ 25</td>
-<td>1974</td>
-<td>3</td>
-<td>36</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>712.</td>
+<td colspan="4">ТАЛГАРСКИЙ 25</td>
+<td colspan="8">1974</td>
+<td colspan="12">3</td>
+<td colspan="6">36</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТАЛГАРСКИЙ 28</td>
-<td>1982</td>
-<td>3</td>
-<td>36</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>713.</td>
+<td colspan="4">ТАЛГАРСКИЙ 28</td>
+<td colspan="8">1982</td>
+<td colspan="12">3</td>
+<td colspan="6">36</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТАЛГАРСКИЙ 28–Ф2</td>
-<td>2014</td>
-<td>3, 14</td>
-<td>339</td>
-<td></td>
-<td>ли</td>
-<td></td>
-<td></td>
-<td></td>
+<td>714.</td>
+<td colspan="4">ТАЛГАРСКИЙ 28–Ф2</td>
+<td colspan="8">2014</td>
+<td colspan="12">3, 14</td>
+<td colspan="6">339</td>
+<td colspan="6"></td>
+<td colspan="8">ли</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТАЛГАРСКИЙ 28–Ф4</td>
-<td>2014</td>
-<td>3, 14</td>
-<td>339</td>
-<td></td>
-<td>ли</td>
-<td></td>
-<td></td>
-<td></td>
+<td>715.</td>
+<td colspan="4">ТАЛГАРСКИЙ 28–Ф4</td>
+<td colspan="8">2014</td>
+<td colspan="12">3, 14</td>
+<td colspan="6">339</td>
+<td colspan="6"></td>
+<td colspan="8">ли</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТАЛГАРСКИЙ 28-Ф20</td>
-<td>2014</td>
-<td>3, 14</td>
-<td>339</td>
-<td></td>
-<td>ли</td>
-<td></td>
-<td></td>
-<td></td>
+<td>716.</td>
+<td colspan="4">ТАЛГАРСКИЙ 28-Ф20</td>
+<td colspan="8">2014</td>
+<td colspan="12">3, 14</td>
+<td colspan="6">339</td>
+<td colspan="6"></td>
+<td colspan="8">ли</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Прядильные
+<td colspan="56">
+Параграф 5.3 Кок-сагыз
+Taraxacum kok-saghyz
+</td>
+</tr>
+<tr>
+<td>717.</td>
+<td colspan="4">САРЫЖАЗ</td>
+<td colspan="8">2017</td>
+<td colspan="12">3</td>
+<td colspan="6">16</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 5.4 Прядильные
 Хлопчатник
 Gossypium L.
 </td>
 </tr>
 <tr>
-<td>БД-1</td>
-<td>2007</td>
-<td>14</td>
-<td>275,276</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>718.</td>
+<td colspan="4">БД-1</td>
+<td colspan="8">2007</td>
+<td colspan="12">14</td>
+<td colspan="6">275,276</td>
+<td colspan="6">03</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БЕРЕКЕ-07</td>
-<td>2011</td>
-<td>14</td>
-<td>10</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>719.</td>
+<td colspan="4">БЕРЕКЕ-07</td>
+<td colspan="8">2011</td>
+<td colspan="12">14</td>
+<td colspan="6">10</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЕГЕМЕН 10</td>
-<td>2006</td>
-<td>14</td>
-<td>278</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>720.</td>
+<td colspan="4">ЕГЕМЕН 10</td>
+<td colspan="8">2006</td>
+<td colspan="12">14</td>
+<td colspan="6">278</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАКСАТ</td>
-<td>2007</td>
-<td>14</td>
-<td>279</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>721.</td>
+<td colspan="4">МАКСАТ</td>
+<td colspan="8">2007</td>
+<td colspan="12">14</td>
+<td colspan="6">279</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАКТААРАЛ 4005</td>
-<td>2006</td>
-<td>14</td>
-<td>10</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>722.</td>
+<td colspan="4">МАКТААРАЛ 4005</td>
+<td colspan="8">2006</td>
+<td colspan="12">14</td>
+<td colspan="6">10</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАКТААРАЛ 4007</td>
-<td>2009</td>
-<td>14</td>
-<td>10</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>723.</td>
+<td colspan="4">МАКТААРАЛ 4007</td>
+<td colspan="8">2009</td>
+<td colspan="12">14</td>
+<td colspan="6">10</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАКТААРАЛ 4011</td>
-<td>2010</td>
-<td>14</td>
-<td>10</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>724.</td>
+<td colspan="4">МАКТААРАЛ 4011</td>
+<td colspan="8">2010</td>
+<td colspan="12">14</td>
+<td colspan="6">10</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МЫРЗАШӨЛ - 80</td>
-<td>2015</td>
-<td>14</td>
-<td>10</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>725.</td>
+<td colspan="4">МЫРЗАШӨЛ - 80</td>
+<td colspan="8">2015</td>
+<td colspan="12">14</td>
+<td colspan="6">10</td>
+<td colspan="6">04</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПАХТААРАЛ 3031</td>
-<td>2000</td>
-<td>14</td>
-<td>10</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>726.</td>
+<td colspan="4">ПАХТААРАЛ 3031</td>
+<td colspan="8">2000</td>
+<td colspan="12">14</td>
+<td colspan="6">10</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПАХТААРАЛ 3044</td>
-<td>1999</td>
-<td>14</td>
-<td>10</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>727.</td>
+<td colspan="4">ПАХТААРАЛ 3044</td>
+<td colspan="8">1999</td>
+<td colspan="12">14</td>
+<td colspan="6">10</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>С – 4727</td>
-<td>1961</td>
-<td>9,14</td>
-<td>189</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>728.</td>
+<td colspan="4">С – 4727</td>
+<td colspan="8">1961</td>
+<td colspan="12">9,14</td>
+<td colspan="6">189</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТУРКЕСТАН</td>
-<td>2011</td>
-<td>14</td>
-<td>307</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>729.</td>
+<td colspan="4">ТУРКЕСТАН</td>
+<td colspan="8">2011</td>
+<td colspan="12">14</td>
+<td colspan="6">307</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТУРКЕСТАН-1</td>
-<td>2012</td>
-<td>9</td>
-<td>307</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>730.</td>
+<td colspan="4">ТУРКЕСТАН-1</td>
+<td colspan="8">2012</td>
+<td colspan="12">9</td>
+<td colspan="6">307</td>
+<td colspan="6">02</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="15">
-Картофель, овощные и бахчевые
-Картофель
+<td colspan="56">
+Глава 6. Картофель, овощные и бахчевые
+Параграф 6.1 Картофель
 Solanum tuberosum L.
 </td>
 </tr>
 <tr>
-<td colspan="2">АУЛ</td>
-<td colspan="2">2008</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>731.</td>
+<td colspan="5">АУЛ</td>
+<td colspan="8">2008</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">АГРИА</td>
-<td colspan="2">1997</td>
-<td colspan="2">3</td>
-<td colspan="4">223</td>
-<td>03</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>732.</td>
+<td colspan="5">АГРИА</td>
+<td colspan="8">1997</td>
+<td colspan="12">3</td>
+<td colspan="3">223</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">АДОРА</td>
-<td colspan="2">2005</td>
-<td colspan="2">10</td>
-<td colspan="4">244</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>733.</td>
+<td colspan="5">АДОРА</td>
+<td colspan="8">2005</td>
+<td colspan="12">10</td>
+<td colspan="3">244</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">АКЖАР</td>
-<td colspan="2">1993</td>
-<td colspan="2">2,4,7,10</td>
-<td colspan="4">28</td>
-<td>05</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>734.</td>
+<td colspan="5">АКЖАР</td>
+<td colspan="8">1993</td>
+<td colspan="12">2,4,7,10</td>
+<td colspan="3">28</td>
+<td colspan="9">05</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">АККОЛЬ</td>
-<td colspan="2">2001</td>
-<td colspan="2">13</td>
-<td colspan="4">21</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>735.</td>
+<td colspan="5">АККОЛЬ</td>
+<td colspan="8">2001</td>
+<td colspan="12">13</td>
+<td colspan="3">21</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">АКСОР</td>
-<td colspan="2">1998</td>
-<td colspan="2">2, 3, 5, 7, 9,12</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>736.</td>
+<td colspan="5">АКСОР</td>
+<td colspan="8">1998</td>
+<td colspan="12">2, 3, 5, 7, 9,12</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">АКТЮБИНСКИЙ 2</td>
-<td colspan="2">2016</td>
-<td colspan="2">2, 7</td>
-<td colspan="4">4, 21</td>
-<td>05</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>737.</td>
+<td colspan="5">АКТЮБИНСКИЙ 2</td>
+<td colspan="8">2016</td>
+<td colspan="12">2, 7</td>
+<td colspan="3">4, 21</td>
+<td colspan="9">05</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">АЛЕГРИЯ</td>
-<td colspan="2">2012</td>
-<td colspan="2">3</td>
-<td colspan="4">332</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>738.</td>
+<td colspan="5">АЛЕГРИЯ</td>
+<td colspan="8">2012</td>
+<td colspan="12">3</td>
+<td colspan="3">332</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">АЛЛОРА</td>
-<td colspan="2">2016</td>
-<td colspan="2">5</td>
-<td colspan="4">332</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>739.</td>
+<td colspan="5">АЛЛОРА</td>
+<td colspan="8">2016</td>
+<td colspan="12">5</td>
+<td colspan="3">332</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">АЛЬВАРА</td>
-<td colspan="2">2011</td>
-<td colspan="2">3</td>
-<td colspan="4">320</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>740.</td>
+<td colspan="5">АЛЬВАРА</td>
+<td colspan="8">2011</td>
+<td colspan="12">3</td>
+<td colspan="3">320</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">АЛЬЯНС</td>
-<td colspan="2">2011</td>
-<td colspan="2">14</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>741.</td>
+<td colspan="5">АЛЬЯНС</td>
+<td colspan="8">2011</td>
+<td colspan="12">14</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">АСТАНА</td>
-<td colspan="2">2008</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>03</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>742.</td>
+<td colspan="5">АСТАНА</td>
+<td colspan="8">2008</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">АРИЗОНА</td>
-<td colspan="2">2013</td>
-<td colspan="2">5, 10, 12, 13, 14</td>
-<td colspan="4">223</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>743.</td>
+<td colspan="5">АРИЗОНА</td>
+<td colspan="8">2013</td>
+<td colspan="12">5, 10, 12, 13, 14</td>
+<td colspan="3">223</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">АРТЕМИС</td>
-<td colspan="2">2009</td>
-<td colspan="2">8</td>
-<td colspan="4">223</td>
-<td>03</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>744.</td>
+<td colspan="5">АРТЕМИС</td>
+<td colspan="8">2009</td>
+<td colspan="12">8</td>
+<td colspan="3">223</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">АЛАЯ ЗАРЯ</td>
-<td colspan="2">2004</td>
-<td colspan="2">10</td>
-<td colspan="4">28,138</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>745.</td>
+<td colspan="5">АЛАЯ ЗАРЯ®</td>
+<td colspan="8">2004</td>
+<td colspan="12">10</td>
+<td colspan="3">28,138</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">АЛАДИН</td>
-<td colspan="2">2010</td>
-<td colspan="2">1, 8, 12, 13</td>
-<td colspan="4">223</td>
-<td>04</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>746.</td>
+<td colspan="5">АЛАДИН</td>
+<td colspan="8">2010</td>
+<td colspan="12">1, 8, 12, 13</td>
+<td colspan="3">223</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">АМОРОЗА</td>
-<td colspan="2">2010</td>
-<td colspan="2">3</td>
-<td colspan="4">223</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>747.</td>
+<td colspan="5">АМОРОЗА</td>
+<td colspan="8">2010</td>
+<td colspan="12">3</td>
+<td colspan="3">223</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">БАБАЕВ</td>
-<td colspan="2">2016</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>748.</td>
+<td colspan="5">БАБАЕВ</td>
+<td colspan="8">2016</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">БЕЛЛАРОЗА</td>
-<td colspan="2">2010</td>
-<td colspan="2">3</td>
-<td colspan="4">300</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>749.</td>
+<td colspan="5">БЕЛЛАРОЗА</td>
+<td colspan="8">2010</td>
+<td colspan="12">3</td>
+<td colspan="3">300</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">БЕРКУТ</td>
-<td colspan="2">2014</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>750.</td>
+<td colspan="5">БЕРКУТ®</td>
+<td colspan="8">2014</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">БИРГИТ</td>
-<td colspan="2">2012</td>
-<td colspan="2">12</td>
-<td colspan="4">332</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>751.</td>
+<td colspan="5">БИРГИТ®</td>
+<td colspan="8">2012</td>
+<td colspan="12">12</td>
+<td colspan="3">332</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">БИРЛИК</td>
-<td colspan="2">2010</td>
-<td colspan="2">9</td>
-<td colspan="4">21,31</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>752.</td>
+<td colspan="5">БИРЛИК</td>
+<td colspan="8">2010</td>
+<td colspan="12">9</td>
+<td colspan="3">21,31</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">БОРА ВАЛЛЕЙ</td>
-<td colspan="2">2013</td>
-<td colspan="2">3</td>
-<td colspan="4">336</td>
-<td>04</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>753.</td>
+<td colspan="5">БОРА ВАЛЛЕЙ</td>
+<td colspan="8">2013</td>
+<td colspan="12">3</td>
+<td colspan="3">336</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ВИНЕТА</td>
-<td colspan="2">2010</td>
-<td colspan="2">3,10</td>
-<td colspan="4">300</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>754.</td>
+<td colspan="5">ВИНЕТА</td>
+<td colspan="8">2010</td>
+<td colspan="12">3,10</td>
+<td colspan="3">300</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ВОЛАРЕ</td>
-<td colspan="2">2015</td>
-<td colspan="2">2,5,8,12,13</td>
-<td colspan="4">223</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>755.</td>
+<td colspan="5">ВОЛАРЕ</td>
+<td colspan="8">2015</td>
+<td colspan="12">2,5,8,12,13</td>
+<td colspan="3">223</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ДУНЯША</td>
-<td colspan="2">2009</td>
-<td colspan="2">1,5,10</td>
-<td colspan="4">28,138</td>
-<td>05</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>756.</td>
+<td colspan="5">ДУНЯША</td>
+<td colspan="8">2009</td>
+<td colspan="12">1,5,10</td>
+<td colspan="3">28,138</td>
+<td colspan="9">05</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ВЕСНА</td>
-<td colspan="2">1982</td>
-<td colspan="2">10</td>
-<td colspan="4">106</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>757.</td>
+<td colspan="5">ВЕСНА</td>
+<td colspan="8">1982</td>
+<td colspan="12">10</td>
+<td colspan="3">106</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ГАЛА</td>
-<td colspan="2">2012</td>
-<td colspan="2">10,13</td>
-<td colspan="4">332</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>758.</td>
+<td colspan="5">ГАЛА®</td>
+<td colspan="8">2012</td>
+<td colspan="12">2,10,13</td>
+<td colspan="3">332</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ГАТЧИНСКИЙ</td>
-<td colspan="2">1978</td>
-<td colspan="2">6</td>
-<td colspan="4">133</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>759.</td>
+<td colspan="5">ГАТЧИНСКИЙ</td>
+<td colspan="8">1978</td>
+<td colspan="12">6</td>
+<td colspan="3">133</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ГРАНОЛА</td>
-<td colspan="2">2006</td>
-<td colspan="2">3</td>
-<td colspan="4">274</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>760.</td>
+<td colspan="5">ГРАНОЛА</td>
+<td colspan="8">2006</td>
+<td colspan="12">3</td>
+<td colspan="3">274</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ДЖЕЛЛИ</td>
-<td colspan="2">2015</td>
-<td colspan="2">1,3</td>
-<td colspan="4">343</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>761.</td>
+<td colspan="5">ДЖЕЛЛИ</td>
+<td colspan="8">2015</td>
+<td colspan="12">1,3</td>
+<td colspan="3">343</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ЕВРОПРИМА</td>
-<td colspan="2">2015</td>
-<td colspan="2">3</td>
-<td colspan="4">300</td>
-<td>02</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>762.</td>
+<td colspan="5">ЕВРОПРИМА</td>
+<td colspan="8">2015</td>
+<td colspan="12">3</td>
+<td colspan="3">300</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ЖАНАЙСАН</td>
-<td colspan="2">2003</td>
-<td colspan="2">6,9</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>763.</td>
+<td colspan="5">ЖАНАЙСАН</td>
+<td colspan="8">2003</td>
+<td colspan="12">6,9</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ЖОЛБАРЫС</td>
-<td colspan="2">2013</td>
-<td colspan="2">9</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>764.</td>
+<td colspan="5">ЖОЛБАРЫС®</td>
+<td colspan="8">2013</td>
+<td colspan="12">9</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ЖУАЛЫ</td>
-<td colspan="2">2012</td>
-<td colspan="2">3,14</td>
-<td colspan="4">21</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>765.</td>
+<td colspan="5">ЖУАЛЫ®</td>
+<td colspan="8">2012</td>
+<td colspan="12">3,14</td>
+<td colspan="3">21</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ИНАРА</td>
-<td colspan="2">2016</td>
-<td colspan="2">1,10</td>
-<td colspan="4">332</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>766.</td>
+<td colspan="5">ИНАРА</td>
+<td colspan="8">2016</td>
+<td colspan="12">1,10</td>
+<td colspan="3">332</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">КАЗАХСТАНСКИЙ</td>
-<td colspan="2">2007</td>
-<td colspan="2">1</td>
-<td colspan="4">277</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>767.</td>
+<td colspan="5">КАЗАХСТАНСКИЙ</td>
+<td colspan="8">2007</td>
+<td colspan="12">1</td>
+<td colspan="3">277</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">КАРАСАЙСКИЙ</td>
-<td colspan="2">2009</td>
-<td colspan="2">5</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>768.</td>
+<td colspan="5">КАРАСАЙСКИЙ</td>
+<td colspan="8">2009</td>
+<td colspan="12">5</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">КОГАЛЫ</td>
-<td colspan="2">2009</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>769.</td>
+<td colspan="5">КОГАЛЫ</td>
+<td colspan="8">2009</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">КОКТЕМ -1</td>
-<td colspan="2">2016</td>
-<td colspan="2">2, 10</td>
-<td colspan="4">4, 28</td>
-<td></td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>770.</td>
+<td colspan="5">КОКТЕМ -1</td>
+<td colspan="8">2016</td>
+<td colspan="12">2, 10</td>
+<td colspan="3">4, 28</td>
+<td colspan="9"></td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">
-КОКЧЕТАВСКИЙ
-РАННИЙ
-</td>
-<td colspan="2">1993</td>
-<td colspan="2">1, 2, 4, 7,13</td>
-<td colspan="4">27,21</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>771.</td>
+<td colspan="5">КОКЧЕТАВСКИЙ РАННИЙ</td>
+<td colspan="8">1993</td>
+<td colspan="12">1, 2, 4, 7,13</td>
+<td colspan="3">27,21</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">КОЛОМБА</td>
-<td colspan="2">2016</td>
-<td colspan="2">10</td>
-<td colspan="4">244</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>772.</td>
+<td colspan="5">КОЛОМБА</td>
+<td colspan="8">2016</td>
+<td colspan="12">10</td>
+<td colspan="3">244</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">КОРОЛЕВА АННА</td>
-<td colspan="2">2016</td>
-<td colspan="2">3, 5, 13, 14</td>
-<td colspan="4">362</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>773.</td>
+<td colspan="5">КОРОЛЕВА АННА</td>
+<td colspan="8">2016</td>
+<td colspan="12">1, 3, 5, 13, 14</td>
+<td colspan="3">362</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">
-КОСТАНАЙСКИЕ
-НОВОСТИ
-</td>
-<td colspan="2">2008</td>
-<td colspan="2">8,10</td>
-<td colspan="4">28</td>
-<td>05</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>774.</td>
+<td colspan="5">КОСТАНАЙСКИЕ НОВОСТИ</td>
+<td colspan="8">2008</td>
+<td colspan="12">8,10</td>
+<td colspan="3">28</td>
+<td colspan="9">05</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">КОНКУРЕНТ</td>
-<td colspan="2">2004</td>
-<td colspan="2">13</td>
-<td colspan="4">244</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>775.</td>
+<td colspan="5">КОНКУРЕНТ</td>
+<td colspan="8">2004</td>
+<td colspan="12">13</td>
+<td colspan="3">244</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">КУРАЖ</td>
-<td colspan="2">2011</td>
-<td colspan="2">3</td>
-<td colspan="4">244</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>776.</td>
+<td colspan="5">КУРАЖ</td>
+<td colspan="8">2011</td>
+<td colspan="12">3</td>
+<td colspan="3">244</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ЛАТОНА</td>
-<td colspan="2">2003</td>
-<td colspan="2">1,2, 3, 5,8,12</td>
-<td colspan="4">244</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>777.</td>
+<td colspan="5">ЛАПЕРЛА</td>
+<td colspan="8">2017</td>
+<td colspan="12">1, 13</td>
+<td colspan="3">365</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ЛОРХ</td>
-<td colspan="2">1940</td>
-<td colspan="2">7,14</td>
-<td colspan="4">60</td>
-<td>05</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>778.</td>
+<td colspan="5">ЛАТОНА</td>
+<td colspan="8">2003</td>
+<td colspan="12">1,2, 3, 5,8,9,12</td>
+<td colspan="3">244</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ЛУСА</td>
-<td colspan="2">2016</td>
-<td colspan="2">1, 3,10, 12, 13, 14</td>
-<td colspan="4">223</td>
-<td>05</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>779.</td>
+<td colspan="5">ЛОРХ</td>
+<td colspan="8">1940</td>
+<td colspan="12">7,14</td>
+<td colspan="3">60</td>
+<td colspan="9">05</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">МАКСИМ</td>
-<td colspan="2">2012</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>780.</td>
+<td colspan="5">ЛУСА</td>
+<td colspan="8">2016</td>
+<td colspan="12">1, 3,5,8,10, 12, 13, 14</td>
+<td colspan="3">223</td>
+<td colspan="9">05</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">МАНИТУ</td>
-<td colspan="2">2014</td>
-<td colspan="2">3, 5, 10, 13, 14</td>
-<td colspan="4">223</td>
-<td>05</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>781.</td>
+<td colspan="5">МАКСИМ®</td>
+<td colspan="8">2012</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">МЕМФИС</td>
-<td colspan="2">2016</td>
-<td colspan="2">10</td>
-<td colspan="4">244</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>782.</td>
+<td colspan="5">МАНИТУ</td>
+<td colspan="8">2014</td>
+<td colspan="12">3, 5, 10, 13, 14</td>
+<td colspan="3">223</td>
+<td colspan="9">05</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">МИРАС</td>
-<td colspan="2">2011</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>783.</td>
+<td colspan="5">МЕМФИС</td>
+<td colspan="8">2016</td>
+<td colspan="12">10</td>
+<td colspan="3">244</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">МОНДИАЛ</td>
-<td colspan="2">2004</td>
-<td colspan="2">3,13</td>
-<td colspan="4">244</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>784.</td>
+<td colspan="5">МИРАС</td>
+<td colspan="8">2011</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">НАРТАУ</td>
-<td colspan="2">2013</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>785.</td>
+<td colspan="5">МОНДИАЛ</td>
+<td colspan="8">2004</td>
+<td colspan="12">3,13</td>
+<td colspan="3">244</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">НЕВСКИЙ</td>
-<td colspan="2">1987</td>
-<td colspan="2">
+<td>786.</td>
+<td colspan="5">НАРТАУ</td>
+<td colspan="8">2013</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>787.</td>
+<td colspan="5">НЕВСКИЙ</td>
+<td colspan="8">1987</td>
+<td colspan="12">
 1,2,3,4,5,
 6,7,8,9,10,11,12,13,14
 </td>
-<td colspan="4">133</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td colspan="3">133</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">НИКИТА</td>
-<td colspan="2">1996</td>
-<td colspan="2">3,10</td>
-<td colspan="4">223</td>
-<td>03</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>788.</td>
+<td colspan="5">НИКИТА</td>
+<td colspan="8">1996</td>
+<td colspan="12">3,10</td>
+<td colspan="3">223</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">НУР-АЛЕМ</td>
-<td colspan="2">2013</td>
-<td colspan="2">1, 3</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>789.</td>
+<td colspan="5">НУР-АЛЕМ®</td>
+<td colspan="8">2013</td>
+<td colspan="12">1, 3</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">НЭРЛИ</td>
-<td colspan="2">2000</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>790.</td>
+<td colspan="5">НЭРЛИ</td>
+<td colspan="8">2000</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ОРБИТА</td>
-<td colspan="2">2006</td>
-<td colspan="2">3</td>
-<td colspan="4">21,253</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>791.</td>
+<td colspan="5">ОРБИТА</td>
+<td colspan="8">2006</td>
+<td colspan="12">3</td>
+<td colspan="3">21,253</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ПАМЯТИ БОБРОВА</td>
-<td colspan="2">2010</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>792.</td>
+<td colspan="5">ПАМЯТИ БОБРОВА</td>
+<td colspan="8">2010</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ПАМЯТИ КОНАЕВА</td>
-<td colspan="2">2015</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>793.</td>
+<td colspan="5">ПАМЯТИ КОНАЕВА®</td>
+<td colspan="8">2015</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ПАМЯТИ ЛИГАЙ</td>
-<td colspan="2">2016</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>794.</td>
+<td colspan="5">ПАМЯТИ ЛИГАЙ</td>
+<td colspan="8">2016</td>
+<td colspan="12">3,6</td>
+<td colspan="3">21</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ПИКАССО</td>
-<td colspan="2">2016</td>
-<td colspan="2">2</td>
-<td colspan="4">223</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>795.</td>
+<td colspan="5">ПАРОЛИ</td>
+<td colspan="8">2017</td>
+<td colspan="12">13</td>
+<td colspan="3">332</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ПОЛЕТ</td>
-<td colspan="2">1985</td>
-<td colspan="2">9,12</td>
-<td colspan="4">143</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>796.</td>
+<td colspan="5">ПИКАССО</td>
+<td colspan="8">2016</td>
+<td colspan="12">2</td>
+<td colspan="3">223</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ПОСВИТ</td>
-<td colspan="2">1995</td>
-<td colspan="2">1,10</td>
-<td colspan="4">167</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>797.</td>
+<td colspan="5">ПОЛЕТ</td>
+<td colspan="8">1985</td>
+<td colspan="12">9,12</td>
+<td colspan="3">143</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ПРЕВОСХОДНЫЙ</td>
-<td colspan="2">2012</td>
-<td colspan="2">1</td>
-<td colspan="4">277</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>798.</td>
+<td colspan="5">ПОСВИТ</td>
+<td colspan="8">1995</td>
+<td colspan="12">1,10</td>
+<td colspan="3">167</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">
+<td>799.</td>
+<td colspan="5">ПРЕВОСХОДНЫЙ</td>
+<td colspan="8">2012</td>
+<td colspan="12">1</td>
+<td colspan="3">277</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>800.</td>
+<td colspan="5">
 ПРИЕКУЛЬСКИЙ
 РАННИЙ
 </td>
-<td colspan="2">1962</td>
-<td colspan="2">6,7,9,11,13, 14</td>
-<td colspan="4">219</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td colspan="8">1962</td>
+<td colspan="12">6,7,9,11,13, 14</td>
+<td colspan="3">219</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">РЕД СКАРЛЕТ</td>
-<td colspan="2">2011</td>
-<td colspan="2">8,10</td>
-<td colspan="4">244</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>801.</td>
+<td colspan="5">РЕД СКАРЛЕТ</td>
+<td colspan="8">2011</td>
+<td colspan="12">8,10</td>
+<td colspan="3">244</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">РЕСУРС</td>
-<td colspan="2">1993</td>
-<td colspan="2">10</td>
-<td colspan="4">60,119, 120</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>802.</td>
+<td colspan="5">РЕСУРС</td>
+<td colspan="8">1993</td>
+<td colspan="12">10</td>
+<td colspan="3">60,119, 120</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">РИВЬЕРА</td>
-<td colspan="2">2013</td>
-<td colspan="2">10, 14</td>
-<td colspan="4">223</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>803.</td>
+<td colspan="5">РИВЬЕРА</td>
+<td colspan="8">2013</td>
+<td colspan="12">10, 14</td>
+<td colspan="3">223</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">РОДЕО</td>
-<td colspan="2">2011</td>
-<td colspan="2">3</td>
-<td colspan="4">244</td>
-<td>05</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>804.</td>
+<td colspan="5">РОДЕО</td>
+<td colspan="8">2011</td>
+<td colspan="12">3</td>
+<td colspan="3">244</td>
+<td colspan="9">05</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">РОДРИГА</td>
-<td colspan="2">2012</td>
-<td colspan="2">1</td>
-<td colspan="4">333</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>805.</td>
+<td colspan="5">РОДРИГА</td>
+<td colspan="8">2012</td>
+<td colspan="12">1,8</td>
+<td colspan="3">333</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">РОЗАРА</td>
-<td colspan="2">2001</td>
-<td colspan="2">3,8</td>
-<td colspan="4">230</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>806.</td>
+<td colspan="5">РОЗАРА</td>
+<td colspan="8">2001</td>
+<td colspan="12">3,8</td>
+<td colspan="3">230</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">РОКО</td>
-<td colspan="2">2010</td>
-<td colspan="2">3</td>
-<td colspan="4">223</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>807.</td>
+<td colspan="5">РОКО</td>
+<td colspan="8">2010</td>
+<td colspan="12">3</td>
+<td colspan="3">223</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">РОМАНО</td>
-<td colspan="2">1997</td>
-<td colspan="2">1,5,8,13</td>
-<td colspan="4">223</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>808.</td>
+<td colspan="5">РОМАНО</td>
+<td colspan="8">1997</td>
+<td colspan="12">1,2,5,8,13</td>
+<td colspan="3">223</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">РОМАНЦЕ</td>
-<td colspan="2">2012</td>
-<td colspan="2">12</td>
-<td colspan="4">332</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>809.</td>
+<td colspan="5">РОМАНЦЕ</td>
+<td colspan="8">2012</td>
+<td colspan="12">12</td>
+<td colspan="3">332</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">САНТЕ</td>
-<td colspan="2">1996</td>
-<td colspan="2">2,3</td>
-<td colspan="4">223</td>
-<td>03</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>810.</td>
+<td colspan="5">САНТЕ</td>
+<td colspan="8">1996</td>
+<td colspan="12">2,3</td>
+<td colspan="3">223</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">САТИНА</td>
-<td colspan="2">2001</td>
-<td colspan="2">10</td>
-<td colspan="4">230</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>811.</td>
+<td colspan="5">САТИНА</td>
+<td colspan="8">2001</td>
+<td colspan="12">10</td>
+<td colspan="3">230</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">СЕКУРА</td>
-<td colspan="2">1999</td>
-<td colspan="2">3</td>
-<td colspan="4">230</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>812.</td>
+<td colspan="5">СЕКУРА</td>
+<td colspan="8">1999</td>
+<td colspan="12">3</td>
+<td colspan="3">230</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">СОЛИСТ</td>
-<td colspan="2">2012</td>
-<td colspan="2">1</td>
-<td colspan="4">332</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>813.</td>
+<td colspan="5">СОЛИСТ®</td>
+<td colspan="8">2012</td>
+<td colspan="12">1</td>
+<td colspan="3">332</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">СОРАЯ</td>
-<td colspan="2">2012</td>
-<td colspan="2">1,13</td>
-<td colspan="4">332</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>814.</td>
+<td colspan="5">СОРАЯ®</td>
+<td colspan="8">2012</td>
+<td colspan="12">1,13</td>
+<td colspan="3">332</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">СОФИЯ</td>
-<td colspan="2">2013</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>02</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>815.</td>
+<td colspan="5">СОФИЯ®</td>
+<td colspan="8">2013</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ТАМАША</td>
-<td colspan="2">1996</td>
-<td colspan="2">3,8,9</td>
-<td colspan="4">43,21</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>816.</td>
+<td colspan="5">ТАМАША</td>
+<td colspan="8">1996</td>
+<td colspan="12">3,5,6,8,9</td>
+<td colspan="3">43,21</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ТАМЫР</td>
-<td colspan="2">2000</td>
-<td colspan="2">5, 6,9</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>817.</td>
+<td colspan="5">ТАМЫР</td>
+<td colspan="8">2000</td>
+<td colspan="12">5, 6,9</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ТАНДЕМ</td>
-<td colspan="2">2009</td>
-<td colspan="2">5</td>
-<td colspan="4">8,21</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>818.</td>
+<td colspan="5">ТАНДЕМ</td>
+<td colspan="8">2009</td>
+<td colspan="12">5</td>
+<td colspan="3">8,21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ТЕКЕС</td>
-<td colspan="2">2012</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>819.</td>
+<td colspan="5">ТЕКЕС</td>
+<td colspan="8">2012</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ТЕНИЗ</td>
-<td colspan="2">1999</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>820.</td>
+<td colspan="5">ТЕНИЗ</td>
+<td colspan="8">1999</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ТОБОЛ</td>
-<td colspan="2">2011</td>
-<td colspan="2">9</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>821.</td>
+<td colspan="5">ТОБОЛ</td>
+<td colspan="8">2011</td>
+<td colspan="12">9</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ТОХТАР</td>
-<td colspan="2">2003</td>
-<td colspan="2">3,5,14</td>
-<td colspan="4">21,253</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>822.</td>
+<td colspan="5">ТОХТАР</td>
+<td colspan="8">2003</td>
+<td colspan="12">3,5,14</td>
+<td colspan="3">21,253</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ТУСТЕП</td>
-<td colspan="2">2011</td>
-<td colspan="2">8</td>
-<td colspan="4">28</td>
-<td>06</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>823.</td>
+<td colspan="5">ТУСТЕП®</td>
+<td colspan="8">2011</td>
+<td colspan="12">8</td>
+<td colspan="3">28</td>
+<td colspan="9">06</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ТЯНЬШАНСКИЙ</td>
-<td colspan="2">2014</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>02</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>824.</td>
+<td colspan="5">ТЯНЬШАНСКИЙ®</td>
+<td colspan="8">2014</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">УДАЧА</td>
-<td colspan="2">2011</td>
-<td colspan="2">8, 13</td>
-<td colspan="4">60</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>825.</td>
+<td colspan="5">УДАЧА</td>
+<td colspan="8">2011</td>
+<td colspan="12">8, 13</td>
+<td colspan="3">60</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">УДОВИЦКИЙ</td>
-<td colspan="2">2013</td>
-<td colspan="2">3</td>
-<td colspan="4">21, 28</td>
-<td>04</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>826.</td>
+<td colspan="5">УДОВИЦКИЙ®</td>
+<td colspan="8">2013</td>
+<td colspan="12">3</td>
+<td colspan="3">21, 28</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">УЛАН</td>
-<td colspan="2">2003</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>827.</td>
+<td colspan="5">УЛАН</td>
+<td colspan="8">2003</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">УКАМА</td>
-<td colspan="2">2004</td>
-<td colspan="2">3</td>
-<td colspan="4">244</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>828.</td>
+<td colspan="5">УКАМА</td>
+<td colspan="8">2004</td>
+<td colspan="12">3</td>
+<td colspan="3">244</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ҮШҚОҢЫР</td>
-<td colspan="2">2012</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>829.</td>
+<td colspan="5">УРАЛ-1</td>
+<td colspan="8">2017</td>
+<td colspan="12">7</td>
+<td colspan="3">21, 40</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ФАБУЛА</td>
-<td colspan="2">2005</td>
-<td colspan="2">3, 10</td>
-<td colspan="4">244</td>
-<td>04</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>830.</td>
+<td colspan="5">ҮШҚОҢЫР</td>
+<td colspan="8">2012</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ФРЕСКО</td>
-<td colspan="2">1996</td>
-<td colspan="2">1,10</td>
-<td colspan="4">223</td>
-<td>02</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>831.</td>
+<td colspan="5">ФАБУЛА</td>
+<td colspan="8">2005</td>
+<td colspan="12">3, 10</td>
+<td colspan="3">244</td>
+<td colspan="9">04</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ФИРМЕННЫЙ</td>
-<td colspan="2">2007</td>
-<td colspan="2">1,10,13</td>
-<td colspan="4">277</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>832.</td>
+<td colspan="5">ФРЕСКО</td>
+<td colspan="8">1996</td>
+<td colspan="12">1,10</td>
+<td colspan="3">223</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ШОРТАНДИНСКИЙ</td>
-<td colspan="2">1977</td>
-<td colspan="2">1,3,5,6,10,13</td>
-<td colspan="4">19,21</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>833.</td>
+<td colspan="5">ФИРМЕННЫЙ</td>
+<td colspan="8">2007</td>
+<td colspan="12">1,10,13</td>
+<td colspan="3">277</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ШАГАЛАЛЫ</td>
-<td colspan="2">2008</td>
-<td colspan="2">1</td>
-<td colspan="4">27,21</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>834.</td>
+<td colspan="5">ШОРТАНДИНСКИЙ</td>
+<td colspan="8">1977</td>
+<td colspan="12">1,3,5,6,10,13</td>
+<td colspan="3">19,21</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ЭВОЛЮШН</td>
-<td colspan="2">2016</td>
-<td colspan="2">5, 12</td>
-<td colspan="4">223</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>835.</td>
+<td colspan="5">ШАГАЛАЛЫ</td>
+<td colspan="8">2008</td>
+<td colspan="12">1</td>
+<td colspan="3">27,21</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ЭДЕМ</td>
-<td colspan="2">2016</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>02</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>836.</td>
+<td colspan="5">ЭВОЛЮШН</td>
+<td colspan="8">2016</td>
+<td colspan="12">5, 12</td>
+<td colspan="3">223</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ЭСКОРТ</td>
-<td colspan="2">1996</td>
-<td colspan="2">1,10</td>
-<td colspan="4">223</td>
-<td>03</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>837.</td>
+<td colspan="5">ЭДЕМ</td>
+<td colspan="8">2016</td>
+<td colspan="12">3</td>
+<td colspan="3">21</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ЭСМЕ</td>
-<td colspan="2">2016</td>
-<td colspan="2">3,10, 12,13</td>
-<td colspan="4">223</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>838.</td>
+<td colspan="5">ЭСКОРТ</td>
+<td colspan="8">1996</td>
+<td colspan="12">1,10</td>
+<td colspan="3">223</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ун</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ЭСТРЕЛЛ</td>
-<td colspan="2">2011</td>
-<td colspan="2">3</td>
-<td colspan="4">320</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>839.</td>
+<td colspan="5">ЭСМЕ</td>
+<td colspan="8">2016</td>
+<td colspan="12">1,3,10, 12,13</td>
+<td colspan="3">223</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ЯГОДНЫЙ 19</td>
-<td colspan="2">2005</td>
-<td colspan="2">1,2,7,8</td>
-<td colspan="4">28</td>
-<td>03</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>840.</td>
+<td colspan="5">ЭСТРЕЛЛ</td>
+<td colspan="8">2011</td>
+<td colspan="12">3</td>
+<td colspan="3">320</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">ЯРЛА</td>
-<td colspan="2">1996</td>
-<td colspan="2">3,12</td>
-<td colspan="4">229</td>
-<td>02</td>
-<td></td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>841.</td>
+<td colspan="5">ЯГОДНЫЙ 19®</td>
+<td colspan="8">2005</td>
+<td colspan="12">1,2,7,8</td>
+<td colspan="3">28</td>
+<td colspan="9">03</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">
-Капуста белокочанная
+<td>842.</td>
+<td colspan="5">ЯРЛА</td>
+<td colspan="8">1996</td>
+<td colspan="12">3,12</td>
+<td colspan="3">229</td>
+<td colspan="9">02</td>
+<td colspan="7"></td>
+<td colspan="4">ст</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 6.2 Капуста белокочанная
 Вrassica oleracea convar. capitata (L.) Alef. var. capitataf. alba DC.
 </td>
 </tr>
 <tr>
-<td colspan="2">АДАПТОР</td>
-<td colspan="2">2015</td>
-<td colspan="2">1,3</td>
-<td colspan="4">245</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>843.</td>
+<td colspan="6">АДАПТОР</td>
+<td colspan="9">2015</td>
+<td colspan="8">1,3,13</td>
+<td colspan="8">245</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">АГРЕССОР</td>
-<td colspan="2">2015</td>
-<td colspan="2">8, 12</td>
-<td colspan="4">245</td>
-<td>05</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>844.</td>
+<td colspan="6">АГРЕССОР</td>
+<td colspan="9">2015</td>
+<td colspan="8">8, 12</td>
+<td colspan="8">245</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">АЛЛАДИН</td>
-<td colspan="2">1996</td>
-<td colspan="2">3</td>
-<td colspan="4">221</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>845.</td>
+<td colspan="6">АЛЛАДИН</td>
+<td colspan="9">1996</td>
+<td colspan="8">3</td>
+<td colspan="8">221</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">АМТРАК</td>
-<td colspan="2">1999</td>
-<td colspan="2">10</td>
-<td colspan="4">221</td>
-<td>06</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>846.</td>
+<td colspan="6">АМТРАК</td>
+<td colspan="9">1999</td>
+<td colspan="8">10</td>
+<td colspan="8">221</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">АНКОМА</td>
-<td colspan="2">2009</td>
-<td colspan="2">10</td>
-<td colspan="4">236</td>
-<td>06</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>847.</td>
+<td colspan="6">АНКОМА</td>
+<td colspan="9">2009</td>
+<td colspan="8">10</td>
+<td colspan="8">236</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">АРРИВИСТ</td>
-<td colspan="2">2010</td>
-<td colspan="2">3</td>
-<td colspan="4">293</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>848.</td>
+<td colspan="6">АРРИВИСТ</td>
+<td colspan="9">2010</td>
+<td colspan="8">3</td>
+<td colspan="8">293</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">АТЛАНТИС</td>
-<td colspan="2">2014</td>
-<td colspan="2">3</td>
-<td colspan="4">321</td>
-<td>05</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>849.</td>
+<td colspan="6">АТЛАНТИС</td>
+<td colspan="9">2014</td>
+<td colspan="8">3</td>
+<td colspan="8">321</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">АТРИЯ</td>
-<td colspan="2">2011</td>
-<td colspan="2">3</td>
-<td colspan="4">293</td>
-<td>06</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>850.</td>
+<td colspan="6">АТРИЯ</td>
+<td colspan="9">2011</td>
+<td colspan="8">3</td>
+<td colspan="8">293</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">БАГИРСКАЯ</td>
-<td colspan="2">1955</td>
-<td colspan="2">9,14</td>
-<td colspan="4">216</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>851.</td>
+<td colspan="6">БАГИРСКАЯ</td>
+<td colspan="9">1955</td>
+<td colspan="8">9,14</td>
+<td colspan="8">216</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">БЕЛОСНЕЖКА</td>
-<td colspan="2">1977</td>
-<td colspan="2">5</td>
-<td colspan="4">175</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>852.</td>
+<td colspan="6">БЕЛОСНЕЖКА</td>
+<td colspan="9">1977</td>
+<td colspan="8">5</td>
+<td colspan="8">175</td>
+<td colspan="7">06</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">БИРЮЧЕКУТСКАЯ 138</td>
-<td colspan="2">1963</td>
-<td colspan="2">3</td>
-<td colspan="4">54</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>853.</td>
+<td colspan="6">БИРЮЧЕКУТСКАЯ 138</td>
+<td colspan="9">1963</td>
+<td colspan="8">3</td>
+<td colspan="8">54</td>
+<td colspan="7">06</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">БЛОКТОР</td>
-<td colspan="2">2016</td>
-<td colspan="2">3</td>
-<td colspan="4">245</td>
-<td>05</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>854.</td>
+<td colspan="6">БЛОКТОР</td>
+<td colspan="9">2016</td>
+<td colspan="8">3</td>
+<td colspan="8">245</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">БУРБОН</td>
-<td colspan="2">2010</td>
-<td colspan="2">10</td>
-<td colspan="4">294</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>855.</td>
+<td colspan="6">БУРБОН</td>
+<td colspan="9">2010</td>
+<td colspan="8">10</td>
+<td colspan="8">294</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">БУХАРЕСТ</td>
-<td colspan="2">2015</td>
-<td colspan="2">14</td>
-<td colspan="4">293</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>856.</td>
+<td colspan="6">БУХАРЕСТ</td>
+<td colspan="9">2015</td>
+<td colspan="8">14</td>
+<td colspan="8">293</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">БРОНКО</td>
-<td colspan="2">1998</td>
-<td colspan="2">3</td>
-<td colspan="4">221</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>857.</td>
+<td colspan="6">БРОНКО</td>
+<td colspan="9">1998</td>
+<td colspan="8">3</td>
+<td colspan="8">221</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ВЬЮГА</td>
-<td colspan="2">1991</td>
-<td colspan="2">1,5,7,12,13</td>
-<td colspan="4">87</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>858.</td>
+<td colspan="6">ВЕСТРИ</td>
+<td colspan="9">2017</td>
+<td colspan="8">12</td>
+<td colspan="8">293</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ГАБРИЭЛЬ</td>
-<td colspan="2">2016</td>
-<td colspan="2">14</td>
-<td colspan="4">264</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>859.</td>
+<td colspan="6">ВЬЮГА</td>
+<td colspan="9">1991</td>
+<td colspan="8">1,5,7,12,13</td>
+<td colspan="8">87</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ГЛОРИЯ</td>
-<td colspan="2">2015</td>
-<td colspan="2">12</td>
-<td colspan="4">245</td>
-<td>05</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>860.</td>
+<td colspan="6">ГАБРИЭЛЬ</td>
+<td colspan="9">2016</td>
+<td colspan="8">14</td>
+<td colspan="8">264</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ГОРДИУС</td>
-<td colspan="2">2014</td>
-<td colspan="2">12</td>
-<td colspan="4">245</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>861.</td>
+<td colspan="6">ГЛОРИЯ</td>
+<td colspan="9">2015</td>
+<td colspan="8">12</td>
+<td colspan="8">245</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ГРИН ФЛЕШ</td>
-<td colspan="2">2011</td>
-<td colspan="2">3</td>
-<td colspan="4">293</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>862.</td>
+<td colspan="6">ГОРДИУС</td>
+<td colspan="9">2014</td>
+<td colspan="8">12</td>
+<td colspan="8">245</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ДЖИНТАМА</td>
-<td colspan="2">2016</td>
-<td colspan="2">10,12,14</td>
-<td colspan="4">236</td>
-<td>01</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>863.</td>
+<td colspan="6">ГРЕГОРИАН</td>
+<td colspan="9">2015</td>
+<td colspan="8">1,3</td>
+<td colspan="8">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ЗЕНОН</td>
-<td colspan="2">2015</td>
-<td colspan="2">1</td>
-<td colspan="4">245</td>
-<td>05</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>864.</td>
+<td colspan="6">ГРИН ФЛЕШ</td>
+<td colspan="9">2011</td>
+<td colspan="8">3</td>
+<td colspan="8">293</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ЗИМОВКА 1474</td>
-<td colspan="2">1963</td>
-<td colspan="2">7</td>
-<td colspan="4">71</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>865.</td>
+<td colspan="6">ДЖИНТАМА</td>
+<td colspan="9">2016</td>
+<td colspan="8">10,12,14</td>
+<td colspan="8">236</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">
-ЗОЛОТОЙ ГЕКТАР
-1432
-</td>
-<td colspan="2">1960</td>
-<td colspan="2">14</td>
-<td colspan="4">67</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>866.</td>
+<td colspan="6">ЗЕНОН</td>
+<td colspan="9">2015</td>
+<td colspan="8">1</td>
+<td colspan="8">245</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ИЮНЬСКАЯ</td>
-<td colspan="2">1975</td>
-<td colspan="2">3,5,7,9,14</td>
-<td colspan="4">71</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>867.</td>
+<td colspan="6">ЗИМОВКА 1474</td>
+<td colspan="9">1963</td>
+<td colspan="8">7</td>
+<td colspan="8">71</td>
+<td colspan="7">06</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">КЕВИН</td>
-<td colspan="2">2014</td>
-<td colspan="2">12</td>
-<td colspan="4">245</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>868.</td>
+<td colspan="6">ЗОЛОТОЙ ГЕКТАР 1432</td>
+<td colspan="9">1960</td>
+<td colspan="8">14</td>
+<td colspan="8">67</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">КОЛЯ</td>
-<td colspan="2">2013</td>
-<td colspan="2">3</td>
-<td colspan="4">321</td>
-<td>05</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>869.</td>
+<td colspan="6">ИЮНЬСКАЯ</td>
+<td colspan="9">1975</td>
+<td colspan="8">3,5,7,9,14</td>
+<td colspan="8">71</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">КУИЗОР</td>
-<td colspan="2">2015</td>
-<td colspan="2">1,3</td>
-<td colspan="4">245</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>870.</td>
+<td colspan="6">КЕВИН</td>
+<td colspan="9">2014</td>
+<td colspan="8">12</td>
+<td colspan="8">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">КУИСТО</td>
-<td colspan="2">2002</td>
-<td colspan="2">13</td>
-<td colspan="4">245</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>871.</td>
+<td colspan="6">КОЛЯ</td>
+<td colspan="9">2013</td>
+<td colspan="8">3</td>
+<td colspan="8">321</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">МЕГАТОН</td>
-<td colspan="2">1996</td>
-<td colspan="2">3,13</td>
-<td colspan="4">221</td>
-<td>05</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>872.</td>
+<td colspan="6">КУИЗОР</td>
+<td colspan="9">2015</td>
+<td colspan="8">1,3</td>
+<td colspan="8">245</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">МЕНЗАНИЯ</td>
-<td colspan="2">2015</td>
-<td colspan="2">14</td>
-<td colspan="4">293</td>
-<td>06</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>873.</td>
+<td colspan="6">КУИСТО</td>
+<td colspan="9">2002</td>
+<td colspan="8">13</td>
+<td colspan="8">245</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">МИРРОР</td>
-<td colspan="2">2016</td>
-<td colspan="2">3</td>
-<td colspan="4">245</td>
-<td>01</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>874.</td>
+<td colspan="6">МЕГАТОН</td>
+<td colspan="9">1996</td>
+<td colspan="8">3,13</td>
+<td colspan="8">221</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">МОРРИС</td>
-<td colspan="2">1997</td>
-<td colspan="2">2,3,4</td>
-<td colspan="4">221</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>875.</td>
+<td colspan="6">МЕНЗАНИЯ</td>
+<td colspan="9">2015</td>
+<td colspan="8">14</td>
+<td colspan="8">293</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">НАДЕЖДА</td>
-<td colspan="2">1990</td>
-<td colspan="2">3,5,7,10,11, 13</td>
-<td colspan="4">87</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>876.</td>
+<td colspan="6">МИРРОР</td>
+<td colspan="9">2016</td>
+<td colspan="8">3</td>
+<td colspan="8">245</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">НАДЮША</td>
-<td colspan="2">2013</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>877.</td>
+<td colspan="6">МОРРИС</td>
+<td colspan="9">1997</td>
+<td colspan="8">2,3,4</td>
+<td colspan="8">221</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">НЕЖЕНКА</td>
-<td colspan="2">2016</td>
-<td colspan="2">3</td>
-<td colspan="4">21</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>878.</td>
+<td colspan="6">НАДЕЖДА</td>
+<td colspan="9">1990</td>
+<td colspan="8">3,5,7,10,11, 13</td>
+<td colspan="8">87</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">НОВАТОР</td>
-<td colspan="2">2015</td>
-<td colspan="2">1</td>
-<td colspan="4">245</td>
-<td>06</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>879.</td>
+<td colspan="6">НАДЮША</td>
+<td colspan="9">2013</td>
+<td colspan="8">3</td>
+<td colspan="8">21</td>
+<td colspan="7">06</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">
-НОМЕР ПЕРВЫЙ
-ГРИБОВСКИЙ 147
-</td>
-<td colspan="2">1943</td>
-<td colspan="2">1,2,3,4,6,8,9,11,12,13,14</td>
-<td colspan="4">71</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>880.</td>
+<td colspan="6">НЕЖЕНКА</td>
+<td colspan="9">2016</td>
+<td colspan="8">3</td>
+<td colspan="8">21</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">
-НОМЕР ПЕРВЫЙ
-ПОЛЯРНЫЙ К-206
-</td>
-<td colspan="2">1990</td>
-<td colspan="2">10</td>
-<td colspan="4">126</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>881.</td>
+<td colspan="6">НОВАТОР</td>
+<td colspan="9">2015</td>
+<td colspan="8">1</td>
+<td colspan="8">245</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ОТОРИНО</td>
-<td colspan="2">2010</td>
-<td colspan="2">13</td>
-<td colspan="4">294</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>882.</td>
+<td colspan="6">НОМЕР ПЕРВЫЙ ГРИБОВСКИЙ 147</td>
+<td colspan="9">1943</td>
+<td colspan="8">1,2,3,4,6,8,9,11,12,13,14</td>
+<td colspan="8">71</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ПАНДИОН</td>
-<td colspan="2">2011</td>
-<td colspan="2">3</td>
-<td colspan="4">293</td>
-<td>01</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>883.</td>
+<td colspan="6">НОМЕР ПЕРВЫЙ ПОЛЯРНЫЙ К-206</td>
+<td colspan="9">1990</td>
+<td colspan="8">10</td>
+<td colspan="8">126</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ПАРЕЛ</td>
-<td colspan="2">2001</td>
-<td colspan="2">3</td>
-<td colspan="4">221</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>884.</td>
+<td colspan="6">ОТОРИНО</td>
+<td colspan="9">2010</td>
+<td colspan="8">13</td>
+<td colspan="8">294</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ПОДАРОК</td>
-<td colspan="2">1964</td>
-<td colspan="2">1,5,8,10,12,13</td>
-<td colspan="4">71</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>885.</td>
+<td colspan="6">ПАНДИОН</td>
+<td colspan="9">2011</td>
+<td colspan="8">3</td>
+<td colspan="8">293</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">РЕАКТОР</td>
-<td colspan="2">2014</td>
-<td colspan="2">12</td>
-<td colspan="4">245</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>886.</td>
+<td colspan="6">ПАРЕЛ</td>
+<td colspan="9">2001</td>
+<td colspan="8">3</td>
+<td colspan="8">221</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">РИНДА</td>
-<td colspan="2">2012</td>
-<td colspan="2">3</td>
-<td colspan="4">293</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>887.</td>
+<td colspan="6">ПОДАРОК</td>
+<td colspan="9">1964</td>
+<td colspan="8">1,5,8,10,12,13</td>
+<td colspan="8">71</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">РОЯЛ ВАНТАЖ</td>
-<td colspan="2">2011</td>
-<td colspan="2">14</td>
-<td colspan="4">303</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>888.</td>
+<td colspan="6">РАПИДИОН</td>
+<td colspan="9">2017</td>
+<td colspan="8">14</td>
+<td colspan="8">321</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">РУСИНОВКА</td>
-<td colspan="2">1985</td>
-<td colspan="2">2,4,5,13</td>
-<td colspan="4">184</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>889.</td>
+<td colspan="6">РЕАКТОР</td>
+<td colspan="9">2014</td>
+<td colspan="8">12</td>
+<td colspan="8">245</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">САТЕЛИТ</td>
-<td colspan="2">1999</td>
-<td colspan="2">3, 5</td>
-<td colspan="4">221</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>890.</td>
+<td colspan="6">РИНДА</td>
+<td colspan="9">2012</td>
+<td colspan="8">3</td>
+<td colspan="8">293</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">СЕКОМА</td>
-<td colspan="2">2016</td>
-<td colspan="2">14</td>
-<td colspan="4">236</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>891.</td>
+<td colspan="6">РОЯЛ ВАНТАЖ</td>
+<td colspan="9">2011</td>
+<td colspan="8">14</td>
+<td colspan="8">303</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">СЕЛМА</td>
-<td colspan="2">2014</td>
-<td colspan="2">6, 14</td>
-<td colspan="4">236</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>892.</td>
+<td colspan="6">РУСИНОВКА</td>
+<td colspan="9">1985</td>
+<td colspan="8">2,4,5,13</td>
+<td colspan="8">184</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">СЛАВА 1305</td>
-<td colspan="2">1951</td>
-<td colspan="2">1,2,4,5,7,13</td>
-<td colspan="4">71</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>893.</td>
+<td colspan="6">САТЕЛИТ</td>
+<td colspan="9">1999</td>
+<td colspan="8">3, 5</td>
+<td colspan="8">221</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">
+<td>894.</td>
+<td colspan="6">СЕКОМА</td>
+<td colspan="9">2016</td>
+<td colspan="8">14</td>
+<td colspan="8">236</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>895.</td>
+<td colspan="6">СЕЛМА</td>
+<td colspan="9">2014</td>
+<td colspan="8">6, 14</td>
+<td colspan="8">236</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>896.</td>
+<td colspan="6">СЛАВА 1305</td>
+<td colspan="9">1951</td>
+<td colspan="8">1,2,4,5,7,13</td>
+<td colspan="8">71</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>897.</td>
+<td colspan="6">
 СЛАВА
 ГРИБОВСКАЯ 231
 </td>
-<td colspan="2">1940</td>
-<td colspan="2">1,2,3,4,8,9, 11,12</td>
-<td colspan="4">71</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="9">1940</td>
+<td colspan="8">1,2,3,4,8,9, 11,12</td>
+<td colspan="8">71</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">СЛАВАНОВА</td>
-<td colspan="2">2015</td>
-<td colspan="2">8</td>
-<td colspan="4">290</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>898.</td>
+<td colspan="6">СЛАВАНОВА</td>
+<td colspan="9">2015</td>
+<td colspan="8">8</td>
+<td colspan="8">290</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">СТОЛИЧНАЯ</td>
-<td colspan="2">1984</td>
-<td colspan="2">1,4,11</td>
-<td colspan="4">160</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>899.</td>
+<td colspan="6">СТОЛИЧНАЯ</td>
+<td colspan="9">1984</td>
+<td colspan="8">1,4,11</td>
+<td colspan="8">160</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">СУДЬЯ 146</td>
-<td colspan="2">1955</td>
-<td colspan="2">3,6,9</td>
-<td colspan="4">75</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>900.</td>
+<td colspan="6">СУДЬЯ 146</td>
+<td colspan="9">1955</td>
+<td colspan="8">3,6,9</td>
+<td colspan="8">75</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ТАКОМА</td>
-<td colspan="2">2015</td>
-<td colspan="2">6,9,13</td>
-<td colspan="4">236</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>901.</td>
+<td colspan="6">ТАКОМА</td>
+<td colspan="9">2015</td>
+<td colspan="8">6,9,13</td>
+<td colspan="8">236</td>
+<td colspan="7">06</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ТАШКЕНТСКАЯ 10</td>
-<td colspan="2">1962</td>
-<td colspan="2">6,14</td>
-<td colspan="4">242</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>902.</td>
+<td colspan="6">ТАШКЕНТСКАЯ 10</td>
+<td colspan="9">1962</td>
+<td colspan="8">6,14</td>
+<td colspan="8">242</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ТОБИЯ</td>
-<td colspan="2">2011</td>
-<td colspan="2">3</td>
-<td colspan="4">321</td>
-<td>05</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>903.</td>
+<td colspan="6">ТОБИЯ</td>
+<td colspan="9">2011</td>
+<td colspan="8">3,12</td>
+<td colspan="8">321</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ТРАНСАМ</td>
-<td colspan="2">1999</td>
-<td colspan="2">3</td>
-<td colspan="4">221</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>904.</td>
+<td colspan="6">ТРАНСАМ</td>
+<td colspan="9">1999</td>
+<td colspan="8">3</td>
+<td colspan="8">221</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ХАРРИКЕЙН</td>
-<td colspan="2">2006</td>
-<td colspan="2">2, 3</td>
-<td colspan="4">221</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>905.</td>
+<td colspan="6">ХАРРИКЕЙН</td>
+<td colspan="9">2006</td>
+<td colspan="8">2, 3</td>
+<td colspan="8">221</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ХИНОВА</td>
-<td colspan="2">1997</td>
-<td colspan="2">10</td>
-<td colspan="4">221</td>
-<td>06</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>906.</td>
+<td colspan="6">ХИНОВА</td>
+<td colspan="9">1997</td>
+<td colspan="8">10</td>
+<td colspan="8">221</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ЭРДЕНО</td>
-<td colspan="2">2003</td>
-<td colspan="2">13,8</td>
-<td colspan="4">245</td>
-<td>05</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>907.</td>
+<td colspan="6">ЭРДЕНО</td>
+<td colspan="9">2003</td>
+<td colspan="8">13,8</td>
+<td colspan="8">245</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ЭТМА</td>
-<td colspan="2">2006</td>
-<td colspan="2">12,13</td>
-<td colspan="4">236</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>908.</td>
+<td colspan="6">ЭТМА</td>
+<td colspan="9">2006</td>
+<td colspan="8">12,13</td>
+<td colspan="8">236</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ЧЕМП</td>
-<td colspan="2">2016</td>
-<td colspan="2">14</td>
-<td colspan="4">247</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>909.</td>
+<td colspan="6">ЧЕМП</td>
+<td colspan="9">2016</td>
+<td colspan="8">14</td>
+<td colspan="8">247</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ЧЕССМА</td>
-<td colspan="2">2009</td>
-<td colspan="2">13</td>
-<td colspan="4">236</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>910.</td>
+<td colspan="6">ЧЕССМА</td>
+<td colspan="9">2009</td>
+<td colspan="8">13</td>
+<td colspan="8">236</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ЯНИСОЛЬ</td>
-<td colspan="2">2014</td>
-<td colspan="2">14</td>
-<td colspan="4">264</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>911.</td>
+<td colspan="6">ЯНИСОЛЬ</td>
+<td colspan="9">2014</td>
+<td colspan="8">14</td>
+<td colspan="8">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Капуста краснокочанная
+<td colspan="56">
+Параграф 6.3 Капуста краснокочанная
 Brassicaoleraceaconvar. сapitata (L.) Alef. Var. capitata L. f. rubra (L.) Thell.
 </td>
 </tr>
 <tr>
-<td colspan="2">ГАКО</td>
-<td colspan="2">1966</td>
-<td colspan="2">
+<td>912.</td>
+<td colspan="6">ГАКО</td>
+<td colspan="9">1966</td>
+<td colspan="8">
 1,6,7,8,10,
 12,13
 </td>
-<td colspan="4">71</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="8">71</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">РЕБОЛ</td>
-<td colspan="2">2015</td>
-<td colspan="2">1</td>
-<td colspan="4">245</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>913.</td>
+<td colspan="6">РЕБОЛ</td>
+<td colspan="9">2015</td>
+<td colspan="8">1,14</td>
+<td colspan="8">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">РЕДЬМА</td>
-<td colspan="2">2014</td>
-<td colspan="2">6, 9, 14</td>
-<td colspan="4">236</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>914.</td>
+<td colspan="6">РЕДЬМА</td>
+<td colspan="9">2014</td>
+<td colspan="8">6, 9, 14</td>
+<td colspan="8">236</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">РЕКСОМА</td>
-<td colspan="2">2016</td>
-<td colspan="2">14</td>
-<td colspan="4">236</td>
-<td>06</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>915.</td>
+<td colspan="6">РЕКСОМА</td>
+<td colspan="9">2016</td>
+<td colspan="8">14</td>
+<td colspan="8">236</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">РЕСКЬЮ</td>
-<td colspan="2">2015</td>
-<td colspan="2">1,3</td>
-<td colspan="4">245</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>916.</td>
+<td colspan="6">РЕСКЬЮ</td>
+<td colspan="9">2015</td>
+<td colspan="8">1,3</td>
+<td colspan="8">245</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">РОДИМА</td>
-<td colspan="2">2003</td>
-<td colspan="2">3</td>
-<td colspan="4">236</td>
-<td>06</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>917.</td>
+<td colspan="6">РОДИМА</td>
+<td colspan="9">2003</td>
+<td colspan="8">3</td>
+<td colspan="8">236</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">РЭД ДИНАСТИ</td>
-<td colspan="2">2012</td>
-<td colspan="2">3</td>
-<td colspan="4">293</td>
-<td>05</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>918.</td>
+<td colspan="6">РЭД ДИНАСТИ</td>
+<td colspan="9">2012</td>
+<td colspan="8">3</td>
+<td colspan="8">293</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Капуста цветная
-Brassica oleracea convar. Botrytis (L.) Alef. Var. Botritis L.
-</td>
+<td colspan="56">Параграф 6.4 Капуста цветнаяBrassica oleracea convar. Botrytis (L.) Alef. Var. Botritis L.</td>
 </tr>
 <tr>
-<td colspan="2">АМСТЕРДАМ</td>
-<td colspan="2">2011</td>
-<td colspan="2">13</td>
-<td colspan="4">294</td>
-<td>04</td>
-<td>F1</td>
-<td>ст</td>
-<td></td>
-<td></td>
+<td>919.</td>
+<td colspan="6">АМСТЕРДАМ</td>
+<td colspan="9">2011</td>
+<td colspan="8">13</td>
+<td colspan="8">294</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">ст</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">АМЕРИГО</td>
-<td colspan="2">2015</td>
-<td colspan="2">1,3</td>
-<td colspan="4">245</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>920.</td>
+<td colspan="6">АМЕРИГО</td>
+<td colspan="9">2015</td>
+<td colspan="8">1,3</td>
+<td colspan="8">245</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">БРЮС</td>
-<td colspan="2">2015</td>
-<td colspan="2">1</td>
-<td colspan="4">245</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>921.</td>
+<td colspan="6">БРЮС</td>
+<td colspan="9">2015</td>
+<td colspan="8">1,14</td>
+<td colspan="8">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">БАЛДО</td>
-<td colspan="2">2011</td>
-<td colspan="2">3</td>
-<td colspan="4">293</td>
-<td>01</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>922.</td>
+<td colspan="6">БАЛДО</td>
+<td colspan="9">2011</td>
+<td colspan="8">3</td>
+<td colspan="8">293</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ГАРАНТИЯ</td>
-<td colspan="2">1969</td>
-<td colspan="2">1,5,8,14</td>
-<td colspan="4">118</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>923.</td>
+<td colspan="6">ГАРАНТИЯ</td>
+<td colspan="9">1969</td>
+<td colspan="8">1,5,8,14</td>
+<td colspan="8">118</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ГЕРМОН</td>
-<td colspan="2">2016</td>
-<td colspan="2">14</td>
-<td colspan="4">247</td>
-<td>06</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>924.</td>
+<td colspan="6">ГЕРМОН</td>
+<td colspan="9">2016</td>
+<td colspan="8">14</td>
+<td colspan="8">247</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">КАСПЕР</td>
-<td colspan="2">2014</td>
-<td colspan="2">6, 14</td>
-<td colspan="4">236</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>925.</td>
+<td colspan="6">КАСПЕР</td>
+<td colspan="9">2014</td>
+<td colspan="8">6, 14</td>
+<td colspan="8">236</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">МОВИР 74</td>
-<td colspan="2">1974</td>
-<td colspan="2">1,2,4,13</td>
-<td colspan="4">110</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>926.</td>
+<td colspan="6">МОВИР 74</td>
+<td colspan="9">1974</td>
+<td colspan="8">1,2,4,13</td>
+<td colspan="8">110</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ПОНДЕРИТ</td>
-<td colspan="2">2016</td>
-<td colspan="2">14</td>
-<td colspan="4">236</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>927.</td>
+<td colspan="6">ПОНДЕРИТ</td>
+<td colspan="9">2016</td>
+<td colspan="8">14</td>
+<td colspan="8">236</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">
+<td>928.</td>
+<td colspan="6">
 РАННЯЯ
 ГРИБОВСКАЯ 1355
 </td>
-<td colspan="2">1956</td>
-<td colspan="2">1,4,5,6,7,9,10,11,12,13</td>
-<td colspan="4">71</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="9">1956</td>
+<td colspan="8">1,4,5,6,7,9,10,11,12,13</td>
+<td colspan="8">71</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ФРИДОМ</td>
-<td colspan="2">2012</td>
-<td colspan="2">14</td>
-<td colspan="4">321</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>929.</td>
+<td colspan="6">ФРИДОМ</td>
+<td colspan="9">2012</td>
+<td colspan="8">14</td>
+<td colspan="8">321</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ФРИМОНТ</td>
-<td colspan="2">2011</td>
-<td colspan="2">3</td>
-<td colspan="4">293</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>930.</td>
+<td colspan="6">ФРИМОНТ</td>
+<td colspan="9">2011</td>
+<td colspan="8">3</td>
+<td colspan="8">293</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Капуста пекинская
+<td colspan="56">
+Параграф 6.5 Капуста пекинская
 Brassica pekinensis (Lour.) Rupr.
 </td>
 </tr>
 <tr>
-<td colspan="2">ЛЕНОК</td>
-<td colspan="2">1991</td>
-<td colspan="2">8,9</td>
-<td colspan="4">118</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>931.</td>
+<td colspan="6">ЛЕНОК</td>
+<td colspan="9">1991</td>
+<td colspan="8">8,9</td>
+<td colspan="8">118</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ХИБИНСКАЯ</td>
-<td colspan="2">1987</td>
-<td colspan="2">1,8,12,13</td>
-<td colspan="4">126</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>932.</td>
+<td colspan="6">ХИБИНСКАЯ</td>
+<td colspan="9">1987</td>
+<td colspan="8">1,8,12,13</td>
+<td colspan="8">126</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Капуста брокколи
+<td colspan="56">
+Параграф 6.6 Капуста брокколи
 Brassica oleracea var. Cymosa Duch.
 </td>
 </tr>
 <tr>
-<td colspan="2">АЙРОНМЕН</td>
-<td colspan="2">2012</td>
-<td colspan="2">3</td>
-<td colspan="4">293</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>933.</td>
+<td colspan="6">АЙРОНМЕН</td>
+<td colspan="9">2012</td>
+<td colspan="8">3</td>
+<td colspan="8">293</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">АГАССИ</td>
-<td colspan="2">2014</td>
-<td colspan="2">14</td>
-<td colspan="4">236</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>934.</td>
+<td colspan="6">АГАССИ</td>
+<td colspan="9">2014</td>
+<td colspan="8">14</td>
+<td colspan="8">236</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">МОНТЕРЕЙ</td>
-<td colspan="2">2015</td>
-<td colspan="2">1</td>
-<td colspan="4">245</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>935.</td>
+<td colspan="6">МОНТЕРЕЙ</td>
+<td colspan="9">2015</td>
+<td colspan="8">1</td>
+<td colspan="8">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">МОНОПОЛИ</td>
-<td colspan="2">2016</td>
-<td colspan="2">3, 12</td>
-<td colspan="4">245</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>936.</td>
+<td colspan="6">МОНОПОЛИ</td>
+<td colspan="9">2016</td>
+<td colspan="8">3, 12</td>
+<td colspan="8">245</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">МОНТОП</td>
-<td colspan="2">2015</td>
-<td colspan="2">3</td>
-<td colspan="4">245</td>
-<td>05</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>937.</td>
+<td colspan="6">МОНТОП</td>
+<td colspan="9">2015</td>
+<td colspan="8">3</td>
+<td colspan="8">245</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Салат
+<td colspan="56">
+Параграф 6.7 Салат
 Lactuca sativa L.
 </td>
 </tr>
 <tr>
-<td colspan="2">КАРТАГЕНАС</td>
-<td colspan="2">2016</td>
-<td colspan="2">14</td>
-<td colspan="4">236</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>938.</td>
+<td colspan="6">КАРТАГЕНАС</td>
+<td colspan="9">2016</td>
+<td colspan="8">14</td>
+<td colspan="8">236</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">КРУПНОКОЧАННЫЙ</td>
-<td colspan="2">1982</td>
-<td colspan="2">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td colspan="4">71</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>939.</td>
+<td colspan="6">КРУПНОКОЧАННЫЙ</td>
+<td colspan="9">1982</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="8">71</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">АФИЦИОН</td>
-<td colspan="2">2014</td>
-<td colspan="2">12</td>
-<td colspan="4">236</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>940.</td>
+<td colspan="6">АФИЦИОН</td>
+<td colspan="9">2014</td>
+<td colspan="8">12</td>
+<td colspan="8">236</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">НОВОГОДНИЙ</td>
-<td colspan="2">1993</td>
-<td colspan="2">3,6</td>
-<td colspan="4">71</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>941.</td>
+<td colspan="6">НОВОГОДНИЙ</td>
+<td colspan="9">1993</td>
+<td colspan="8">3,6</td>
+<td colspan="8">71</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ОКТАВИУС</td>
-<td colspan="2">2014</td>
-<td colspan="2">14</td>
-<td colspan="4">236</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>942.</td>
+<td colspan="6">ОКТАВИУС</td>
+<td colspan="9">2014</td>
+<td colspan="8">14</td>
+<td colspan="8">236</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ОНИКС</td>
-<td colspan="2">2011</td>
-<td colspan="2">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td colspan="4">264</td>
-<td></td>
-<td></td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>943.</td>
+<td colspan="6">ОНИКС</td>
+<td colspan="9">2011</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="8">264</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ПОЛЕЗНЫЙ</td>
-<td colspan="2">2015</td>
-<td colspan="2">3,6</td>
-<td colspan="4">21</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>944.</td>
+<td colspan="6">ОРФЕЙ</td>
+<td colspan="9">2017</td>
+<td colspan="8">3, 5, 6, 12, 14</td>
+<td colspan="8">366</td>
+<td colspan="7">04</td>
+<td colspan="4">с</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">РЕВОЛЮЦИЯ</td>
-<td colspan="2">2011</td>
-<td colspan="2">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td colspan="4">264</td>
-<td></td>
-<td></td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>945.</td>
+<td colspan="6">ПАТРИЦИЙ</td>
+<td colspan="9">2017</td>
+<td colspan="8">3, 5, 12,14</td>
+<td colspan="8">366</td>
+<td colspan="7">06</td>
+<td colspan="4">с</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">РЕЙЧЕЛ</td>
-<td colspan="2">2000</td>
-<td colspan="2">8</td>
-<td colspan="4">227</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>946.</td>
+<td colspan="6">ПОЛЕЗНЫЙ</td>
+<td colspan="9">2015</td>
+<td colspan="8">3,6</td>
+<td colspan="8">21</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ФЕСТИВАЛЬНЫЙ</td>
-<td colspan="2">1986</td>
-<td colspan="2">5</td>
-<td colspan="4">71</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>947.</td>
+<td colspan="6">РЕВОЛЮЦИЯ</td>
+<td colspan="9">2011</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="8">264</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ФИОРЕТТ</td>
-<td colspan="2">2014</td>
-<td colspan="2">9</td>
-<td colspan="4">236</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>948.</td>
+<td colspan="6">РЕЙЧЕЛ</td>
+<td colspan="9">2000</td>
+<td colspan="8">8</td>
+<td colspan="8">227</td>
+<td colspan="7"></td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Капуста савойская
+<td>949.</td>
+<td colspan="6">ФЕСТИВАЛЬНЫЙ</td>
+<td colspan="9">1986</td>
+<td colspan="8">5</td>
+<td colspan="8">71</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>950.</td>
+<td colspan="6">ФИОРЕТТ</td>
+<td colspan="9">2014</td>
+<td colspan="8">9</td>
+<td colspan="8">236</td>
+<td colspan="7">01</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 6.8 Капуста савойская
 Brassica oleracea L. convar. capitata (L.)
 Alef. var. sabauda L.
 </td>
 </tr>
 <tr>
-<td colspan="2">ЭСТРЕМА</td>
-<td colspan="2">2016</td>
-<td colspan="2">14</td>
-<td colspan="4">236</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>951.</td>
+<td colspan="6">ЭСТРЕМА</td>
+<td colspan="9">2016</td>
+<td colspan="8">14</td>
+<td colspan="8">236</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Горчица салатная
+<td colspan="56">
+Параграф 6.9 Горчица салатная
 Brassica juncea (L.) Czern. Et Coss. In Czern
 </td>
 </tr>
 <tr>
-<td colspan="2">МУРАВУШКА</td>
-<td colspan="2">1990</td>
-<td colspan="2">8,9</td>
-<td colspan="4">118</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>952.</td>
+<td colspan="6">МУРАВУШКА</td>
+<td colspan="9">1990</td>
+<td colspan="8">8,9</td>
+<td colspan="8">118</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Шпинат
+<td colspan="56">
+Параграф 6.10 Шпинат
 Spinacia oleracea L.
 </td>
 </tr>
 <tr>
-<td colspan="2">ВИКТОРИЯ</td>
-<td colspan="2">1985</td>
-<td colspan="2">1,3,5,10,12, 13</td>
-<td colspan="4">1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>953.</td>
+<td colspan="6">ВИКТОРИЯ</td>
+<td colspan="9">1985</td>
+<td colspan="8">1,3,5,10,12, 13</td>
+<td colspan="8">1</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ПУМА</td>
-<td colspan="2">2014</td>
-<td colspan="2">6</td>
-<td colspan="4">236</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>954.</td>
+<td colspan="6">ПУМА</td>
+<td colspan="9">2014</td>
+<td colspan="8">6</td>
+<td colspan="8">236</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Щавель
+<td colspan="56">
+Параграф 6.11 Щавель
 Rumex L.
 </td>
 </tr>
 <tr>
-<td colspan="2">БЕЛЬВИЛЬСКИЙ</td>
-<td colspan="2">1961</td>
-<td colspan="2">
+<td>955.</td>
+<td colspan="6">БЕЛЬВИЛЬСКИЙ</td>
+<td colspan="9">1961</td>
+<td colspan="8">
 3,5,6,7,8,
 10,12,13,14
 </td>
-<td colspan="4">1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="8">1</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ШИРОКОЛИСТНЫЙ</td>
-<td colspan="2">1967</td>
-<td colspan="2">1,2,3,4,10, 11,14</td>
-<td colspan="4">154</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>956.</td>
+<td colspan="6">ШИРОКОЛИСТНЫЙ</td>
+<td colspan="9">1967</td>
+<td colspan="8">1,2,3,4,10, 11,14</td>
+<td colspan="8">154</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Укроп
+<td colspan="56">
+Параграф 6.12 Укроп
 Anethum graveolens L.
 </td>
 </tr>
 <tr>
-<td colspan="2">АРМЯНСКИЙ 269</td>
-<td colspan="2">1974</td>
-<td colspan="2">5</td>
-<td colspan="4">128</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>957.</td>
+<td colspan="6">АЛЛИГАТОР</td>
+<td colspan="9">2017</td>
+<td colspan="8">3, 12, 14</td>
+<td colspan="8">366</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">КАСКЕЛЕНСКИЙ</td>
-<td colspan="2">1961</td>
-<td colspan="2">
+<td>958.</td>
+<td colspan="6">АРМЯНСКИЙ 269</td>
+<td colspan="9">1974</td>
+<td colspan="8">5</td>
+<td colspan="8">128</td>
+<td colspan="7">06</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>959.</td>
+<td colspan="6">КАСКЕЛЕНСКИЙ</td>
+<td colspan="9">1961</td>
+<td colspan="8">
 1,2,3,4,5,
 6,7,8,9,10,
 11,12,13,14
 </td>
-<td colspan="4">21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ЛЕСНОГОРОДСКИЙ</td>
-<td colspan="2">1988</td>
-<td colspan="2">1,10</td>
-<td colspan="4">71</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>960.</td>
+<td colspan="6">ЛЕСНОГОРОДСКИЙ</td>
+<td colspan="9">1988</td>
+<td colspan="8">1,10</td>
+<td colspan="8">71</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ХАРЬКОВСКИЙ 85</td>
-<td colspan="2">1990</td>
-<td colspan="2">2,4,7,11</td>
-<td colspan="4">175</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>961.</td>
+<td colspan="6">ХАРЬКОВСКИЙ 85</td>
+<td colspan="9">1990</td>
+<td colspan="8">2,4,7,11</td>
+<td colspan="8">175</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Ревень
+<td colspan="56">
+Параграф 6.13 Ревень
 Rheum L.
 </td>
 </tr>
 <tr>
-<td colspan="2">ВИКТОРИЯ</td>
-<td colspan="2">1961</td>
-<td colspan="2">5,8</td>
-<td colspan="4">1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>962.</td>
+<td colspan="6">ВИКТОРИЯ</td>
+<td colspan="9">1961</td>
+<td colspan="8">5,8</td>
+<td colspan="8">1</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">МОСКОВСКИЙ 42</td>
-<td colspan="2">1968</td>
-<td colspan="2">1,10</td>
-<td colspan="4">110</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>963.</td>
+<td colspan="6">МОСКОВСКИЙ 42</td>
+<td colspan="9">1968</td>
+<td colspan="8">1,10</td>
+<td colspan="8">110</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Огурец
+<td colspan="56">
+Параграф 6.14 Огурец
 Cucumis sativus L.
 открытого грунта
 </td>
 </tr>
 <tr>
-<td colspan="3">АЗАТ</td>
-<td colspan="2">2006</td>
-<td colspan="2">3</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td></td>
-<td>
-са,
-кн
-</td>
-<td></td>
-<td></td>
+<td>964.</td>
+<td colspan="6">АЗАТ</td>
+<td colspan="9">2006</td>
+<td colspan="8">3</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">са, кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">АСТЕРИКС</td>
-<td colspan="2">1998</td>
-<td colspan="2">3,12</td>
-<td colspan="3">221</td>
-<td>04</td>
-<td>F1</td>
-<td>за</td>
-<td></td>
-<td></td>
+<td>965.</td>
+<td colspan="6">АСТЕРИКС</td>
+<td colspan="9">1998</td>
+<td colspan="8">3,12</td>
+<td colspan="8">221</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">за</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">АЯКС</td>
-<td colspan="2">2004</td>
-<td colspan="2">3,14</td>
-<td colspan="3">264</td>
-<td>02</td>
-<td>F1</td>
-<td>
-за,
-кн
-</td>
-<td></td>
-<td></td>
+<td>966.</td>
+<td colspan="6">АЯКС</td>
+<td colspan="9">2004</td>
+<td colspan="8">3,14</td>
+<td colspan="8">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">за, кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">АТЛАНТИС</td>
-<td colspan="2">2008</td>
-<td colspan="2">3</td>
-<td colspan="3">221</td>
-<td>02</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>967.</td>
+<td colspan="6">АТЛАНТИС</td>
+<td colspan="9">2008</td>
+<td colspan="8">3</td>
+<td colspan="8">221</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ГРАВИНА</td>
-<td colspan="2">2014</td>
-<td colspan="2">9</td>
-<td colspan="3">236</td>
-<td>03</td>
-<td>F1</td>
-<td>са</td>
-<td></td>
-<td></td>
+<td>968.</td>
+<td colspan="6">ГРАВИНА</td>
+<td colspan="9">2014</td>
+<td colspan="8">9</td>
+<td colspan="8">236</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ДЕКАН</td>
-<td colspan="2">1992</td>
-<td colspan="2">3,4,5,7,12,14</td>
-<td colspan="3">101</td>
-<td>03</td>
-<td></td>
-<td>кн</td>
-<td></td>
-<td></td>
+<td>969.</td>
+<td colspan="6">ДЕКАН</td>
+<td colspan="9">1992</td>
+<td colspan="8">3,4,5,7,12,14</td>
+<td colspan="8">101</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6">кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ДИРИГЕНТ</td>
-<td colspan="2">2014</td>
-<td colspan="2">12</td>
-<td colspan="3">236</td>
-<td>02</td>
-<td>F1</td>
-<td>са</td>
-<td></td>
-<td></td>
+<td>970.</td>
+<td colspan="6">ДИРИГЕНТ</td>
+<td colspan="9">2014</td>
+<td colspan="8">12</td>
+<td colspan="8">236</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ЖИГЕР</td>
-<td colspan="2">2015</td>
-<td colspan="2">3</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td></td>
-<td>са</td>
-<td></td>
-<td></td>
+<td>971.</td>
+<td colspan="6">ЖИГЕР</td>
+<td colspan="9">2015</td>
+<td colspan="8">3</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">КАРАОКЕ</td>
-<td colspan="2">2014</td>
-<td colspan="2">1, 6, 10, 14</td>
-<td colspan="3">236</td>
-<td>03</td>
-<td>F1</td>
-<td>
-са,
-за
-</td>
-<td></td>
-<td></td>
+<td>972.</td>
+<td colspan="6">КАПУЧИНО</td>
+<td colspan="9">2017</td>
+<td colspan="8">14</td>
+<td colspan="8">366</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са, кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">КИБРИЯ</td>
-<td colspan="2">2014</td>
-<td colspan="2">14</td>
-<td colspan="3">236</td>
-<td>01</td>
-<td>F1</td>
-<td>са</td>
-<td></td>
-<td></td>
+<td>973.</td>
+<td colspan="6">КАРАОКЕ</td>
+<td colspan="9">2014</td>
+<td colspan="8">1, 6, 10, 14</td>
+<td colspan="8">236</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са, за</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">КОНКУРЕНТ</td>
-<td colspan="2">1981</td>
-<td colspan="2">3, 6</td>
-<td colspan="3">101</td>
-<td>02</td>
-<td></td>
-<td>за</td>
-<td></td>
-<td></td>
+<td>974.</td>
+<td colspan="6">КИБРИЯ</td>
+<td colspan="9">2014</td>
+<td colspan="8">14</td>
+<td colspan="8">236</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6">Са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">КРЕПЫШ</td>
-<td colspan="2">1996</td>
-<td colspan="2">1,3,10</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td>F1</td>
-<td>за</td>
-<td></td>
-<td></td>
+<td>975.</td>
+<td colspan="6">КОНКУРЕНТ</td>
+<td colspan="9">1981</td>
+<td colspan="8">3, 6</td>
+<td colspan="8">101</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6">За</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">КРИСПИНА</td>
-<td colspan="2">2010</td>
-<td colspan="2">6</td>
-<td colspan="3">264</td>
-<td>02</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>976.</td>
+<td colspan="6">КРЕПЫШ</td>
+<td colspan="9">1996</td>
+<td colspan="8">1,3,10</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">За</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">КУСТОВОЙ</td>
-<td colspan="2">1980</td>
-<td colspan="2">1,2,4,5,12,13</td>
-<td colspan="3">95</td>
-<td>02</td>
-<td></td>
-<td>за</td>
-<td></td>
-<td></td>
+<td>977.</td>
+<td colspan="6">КРИСПИНА</td>
+<td colspan="9">2010</td>
+<td colspan="8">6</td>
+<td colspan="8">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">Ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">МАША</td>
-<td colspan="2">2008</td>
-<td colspan="2">3</td>
-<td colspan="3">293</td>
-<td>02</td>
-<td>F1</td>
-<td>кн</td>
-<td></td>
-<td></td>
+<td>978.</td>
+<td colspan="6">КУРАЖ</td>
+<td colspan="9">2017</td>
+<td colspan="8">5, 14</td>
+<td colspan="8">366</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6">са, кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">МЕДЕУ</td>
-<td colspan="2">1998</td>
-<td colspan="2">3,5,6,8,9,10</td>
-<td colspan="3">21</td>
-<td>02</td>
-<td></td>
-<td>
-за,
-кн
-</td>
-<td></td>
-<td></td>
+<td>979.</td>
+<td colspan="6">КУСТОВОЙ</td>
+<td colspan="9">1980</td>
+<td colspan="8">1,2,4,5,12,13</td>
+<td colspan="8">95</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6">За</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">МЕЙРАМ 20</td>
-<td colspan="2">2013</td>
-<td colspan="2">3</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>980.</td>
+<td colspan="6">ЛЕНАРА</td>
+<td colspan="9">2017</td>
+<td colspan="8">6, 13</td>
+<td colspan="8">236</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">Са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">МЕРЕНГА</td>
-<td colspan="2">2012</td>
-<td colspan="2">3</td>
-<td colspan="3">293</td>
-<td>01</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>981.</td>
+<td colspan="6">МАША</td>
+<td colspan="9">2008</td>
+<td colspan="8">3</td>
+<td colspan="8">293</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">Кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">НАДЕЖДА</td>
-<td colspan="2">2011</td>
-<td colspan="2">3</td>
-<td colspan="3">293</td>
-<td>03</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>982.</td>
+<td colspan="6">МЕДЕУ</td>
+<td colspan="9">1998</td>
+<td colspan="8">3,5,6,8,9,10</td>
+<td colspan="8">21</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6">за, кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">НАДЕЖНЫЙ</td>
-<td colspan="2">1991</td>
-<td colspan="2">1,5,8, 10,13</td>
-<td colspan="3">77,54</td>
-<td>02</td>
-<td></td>
-<td>
-за,
-кн
-</td>
-<td></td>
-<td></td>
+<td>983.</td>
+<td colspan="6">МЕЙРАМ 20®</td>
+<td colspan="9">2013</td>
+<td colspan="8">3,5</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">Ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">НАТАША</td>
-<td colspan="2">2010</td>
-<td colspan="2">3</td>
-<td colspan="3">293</td>
-<td>02</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>984.</td>
+<td colspan="6">МЕРЕНГА</td>
+<td colspan="9">2012</td>
+<td colspan="8">3</td>
+<td colspan="8">293</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6">Ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">НЕЖИНСКИЙ МЕСТНЫЙ</td>
-<td colspan="2">1950</td>
-<td colspan="2">5,7,9</td>
-<td colspan="3">1</td>
-<td>04</td>
-<td></td>
-<td>за</td>
-<td></td>
-<td></td>
+<td>985.</td>
+<td colspan="6">НАДЕЖДА</td>
+<td colspan="9">2011</td>
+<td colspan="8">3</td>
+<td colspan="8">293</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">Ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ИРИНА</td>
-<td colspan="2">2010</td>
-<td colspan="2">10</td>
-<td colspan="3">290</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>986.</td>
+<td colspan="6">НАДЕЖНЫЙ</td>
+<td colspan="9">1991</td>
+<td colspan="8">1,5,8, 10,13</td>
+<td colspan="8">77,54</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6">за, кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ӨРКЕН</td>
-<td colspan="2">2009</td>
-<td colspan="2">6</td>
-<td colspan="3">21</td>
-<td>02</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>987.</td>
+<td colspan="6">НАТАША</td>
+<td colspan="9">2010</td>
+<td colspan="8">3</td>
+<td colspan="8">293</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">Ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ОПЕРА</td>
-<td colspan="2">2006</td>
-<td colspan="2">2,5,8,10,12,13</td>
-<td colspan="3">236</td>
-<td>04</td>
-<td>F1</td>
-<td>
-за,
-кн
-</td>
-<td></td>
-<td></td>
+<td>988.</td>
+<td colspan="6">НЕЖИНСКИЙ МЕСТНЫЙ</td>
+<td colspan="9">1950</td>
+<td colspan="8">5,7,9</td>
+<td colspan="8">1</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">за</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ОРЗУ</td>
-<td colspan="2">2010</td>
-<td colspan="2">14</td>
-<td colspan="3">264</td>
-<td>02</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>989.</td>
+<td colspan="6">ИРИНА</td>
+<td colspan="9">2010</td>
+<td colspan="8">10</td>
+<td colspan="8">290</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ПАМЯТИ КАБИРОВОЙ</td>
-<td colspan="2">2015</td>
-<td colspan="2">5</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td></td>
-<td>са</td>
-<td></td>
-<td></td>
+<td>990.</td>
+<td colspan="6">ӨРКЕН</td>
+<td colspan="9">2009</td>
+<td colspan="8">6</td>
+<td colspan="8">21</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6">ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ПАРАД</td>
-<td colspan="2">1981</td>
-<td colspan="2">2, 3, 4, 9, 11, 14</td>
-<td colspan="3">101</td>
-<td>02</td>
-<td></td>
-<td>са</td>
-<td></td>
-<td></td>
+<td>991.</td>
+<td colspan="6">ОПЕРА</td>
+<td colspan="9">2006</td>
+<td colspan="8">2,5,8,10,12,13</td>
+<td colspan="8">236</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">за,кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ПАРСИФАЛ</td>
-<td colspan="2">2010</td>
-<td colspan="2">3</td>
-<td colspan="3">294</td>
-<td>02</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>992.</td>
+<td colspan="6">ОРЗУ</td>
+<td colspan="9">2010</td>
+<td colspan="8">14</td>
+<td colspan="8">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ПАСАМОНТЕ</td>
-<td colspan="2">2003</td>
-<td colspan="2">3</td>
-<td colspan="3">245</td>
-<td>02</td>
-<td>F1</td>
-<td>
-са,
-кн
-</td>
-<td></td>
-<td></td>
+<td>993.</td>
+<td colspan="6">ПАМЯТИ КАБИРОВОЙ</td>
+<td colspan="9">2015</td>
+<td colspan="8">5</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ПАССАЛИМО</td>
-<td colspan="2">2014</td>
-<td colspan="2">3, 8, 12, 13</td>
-<td colspan="3">245</td>
-<td>01</td>
-<td>F1</td>
-<td>
-са,
-за
-</td>
-<td></td>
-<td></td>
+<td>994.</td>
+<td colspan="6">ПАРАД</td>
+<td colspan="9">1981</td>
+<td colspan="8">2, 3, 4, 9, 11, 14</td>
+<td colspan="8">101</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ПУЧИННИ</td>
-<td colspan="2">2014</td>
-<td colspan="2">14</td>
-<td colspan="3">236</td>
-<td>03</td>
-<td>F1</td>
-<td>са</td>
-<td></td>
-<td></td>
+<td>995.</td>
+<td colspan="6">ПАРСИФАЛ</td>
+<td colspan="9">2010</td>
+<td colspan="8">3</td>
+<td colspan="8">294</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">САЙЛАУ</td>
-<td colspan="2">2014</td>
-<td colspan="2">3, 5</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td></td>
-<td>са</td>
-<td></td>
-<td></td>
+<td>996.</td>
+<td colspan="6">ПАСАМОНТЕ</td>
+<td colspan="9">2003</td>
+<td colspan="8">3</td>
+<td colspan="8">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са, кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">САТИНА</td>
-<td colspan="2">2014</td>
-<td colspan="2">3, 14</td>
-<td colspan="3">264</td>
-<td>02</td>
-<td>F1</td>
-<td>са</td>
-<td></td>
-<td></td>
+<td>997.</td>
+<td colspan="6">ПАССАЛИМО</td>
+<td colspan="9">2014</td>
+<td colspan="8">3, 8, 12, 13</td>
+<td colspan="8">245</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6">са, за</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">САФАА</td>
-<td colspan="2">2011</td>
-<td colspan="2">3,6</td>
-<td colspan="3">293</td>
-<td>03</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>998.</td>
+<td colspan="6">ПУЧИННИ</td>
+<td colspan="9">2014</td>
+<td colspan="8">14</td>
+<td colspan="8">236</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">Са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">СОНАТА</td>
-<td colspan="2">2015</td>
-<td colspan="2">14</td>
-<td colspan="3">236</td>
-<td>03</td>
-<td>F1</td>
-<td>са</td>
-<td></td>
-<td></td>
+<td>999.</td>
+<td colspan="6">САЙЛАУ®</td>
+<td colspan="9">2014</td>
+<td colspan="8">3, 5</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">Са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">СУПЕРИНА</td>
-<td colspan="2">2010</td>
-<td colspan="2">14</td>
-<td colspan="3">294</td>
-<td>02</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>1000.</td>
+<td colspan="6">САТИНА</td>
+<td colspan="9">2014</td>
+<td colspan="8">3, 14</td>
+<td colspan="8">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">Са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ТЕМПЕСТА</td>
-<td colspan="2">2010</td>
-<td colspan="2">10</td>
-<td colspan="3">294</td>
-<td>02</td>
-<td>F1</td>
-<td>
-са,
-кн
-</td>
-<td></td>
-<td></td>
+<td>1001.</td>
+<td colspan="6">САФАА</td>
+<td colspan="9">2011</td>
+<td colspan="8">3,6</td>
+<td colspan="8">293</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">Ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ЧАЙКОВСКИЙ</td>
-<td colspan="2">2016</td>
-<td colspan="2">14</td>
-<td colspan="3">236</td>
-<td>01</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>1002.</td>
+<td colspan="6">СОНАТА</td>
+<td colspan="9">2015</td>
+<td colspan="8">14</td>
+<td colspan="8">236</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">Са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ШАКТИ</td>
-<td colspan="2">2016</td>
-<td colspan="2">14</td>
-<td colspan="3">236</td>
-<td>03</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>1003.</td>
+<td colspan="6">СУПЕРИНА</td>
+<td colspan="9">2010</td>
+<td colspan="8">14</td>
+<td colspan="8">294</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">Ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ШАНДИНИ</td>
-<td colspan="2">2016</td>
-<td colspan="2">14</td>
-<td colspan="3">236</td>
-<td>03</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>1004.</td>
+<td colspan="6">ТЕМПЕСТА</td>
+<td colspan="9">2010</td>
+<td colspan="8">10</td>
+<td colspan="8">294</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са, кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ШИЛЬДЕ</td>
-<td colspan="2">2004</td>
-<td colspan="2">2,3,4,6, 9, 12,13,14</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td></td>
-<td>
-за,
-кн
-</td>
-<td></td>
-<td></td>
+<td>1005.</td>
+<td colspan="6">ЧАЙКОВСКИЙ</td>
+<td colspan="9">2016</td>
+<td colspan="8">14</td>
+<td colspan="8">236</td>
+<td colspan="7">01</td>
+<td colspan="4"></td>
+<td colspan="6">Ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">УНИВЕРСАЛЬНЫЙ</td>
-<td colspan="2">1975</td>
-<td colspan="2">5,7,8</td>
-<td colspan="3">87</td>
-<td>02</td>
-<td></td>
-<td>за</td>
-<td></td>
-<td></td>
+<td>1006.</td>
+<td colspan="6">ШАКТИ</td>
+<td colspan="9">2016</td>
+<td colspan="8">14</td>
+<td colspan="8">236</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6">Ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">УРОЖАЙНЫЙ 86</td>
-<td colspan="2">1963</td>
-<td colspan="2">3</td>
-<td colspan="3">54</td>
-<td>04</td>
-<td></td>
-<td>за</td>
-<td></td>
-<td></td>
+<td>1007.</td>
+<td colspan="6">ШАНДИНИ</td>
+<td colspan="9">2016</td>
+<td colspan="8">13,14</td>
+<td colspan="8">236</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6">Ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ХАРЬКОВСКИЙ</td>
-<td colspan="2">1981</td>
-<td colspan="2">1,5</td>
-<td colspan="3">175</td>
-<td>02</td>
-<td></td>
-<td>за</td>
-<td></td>
-<td></td>
+<td>1008.</td>
+<td colspan="6">ШИЛЬДЕ</td>
+<td colspan="9">2004</td>
+<td colspan="8">2,3,4,6, 9, 12,13,14</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">за, кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">защищенного грунта</td>
+<td>1009.</td>
+<td colspan="6">УНИВЕРСАЛЬНЫЙ</td>
+<td colspan="9">1975</td>
+<td colspan="8">5,7,8</td>
+<td colspan="8">87</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6">за</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">АЙБЫН</td>
-<td colspan="2">2015</td>
-<td colspan="2">
+<td>1010.</td>
+<td colspan="6">УРОЖАЙНЫЙ 86</td>
+<td colspan="9">1963</td>
+<td colspan="8">3</td>
+<td colspan="8">54</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">за</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1011.</td>
+<td colspan="6">ХАРЬКОВСКИЙ</td>
+<td colspan="9">1981</td>
+<td colspan="8">1,5</td>
+<td colspan="8">175</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6">за</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1012.</td>
+<td colspan="6">ХАСБУЛАТ</td>
+<td colspan="9">2017</td>
+<td colspan="8">5, 14</td>
+<td colspan="8">366</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са,кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="56">защиенного грунта</td>
+</tr>
+<tr>
+<td>1013.</td>
+<td colspan="6">АЙБЫН</td>
+<td colspan="9">2015</td>
+<td colspan="8">
 1,2,3,4,5,6,7,8,9,10,
 11,12,13,14
 </td>
-<td colspan="3">21</td>
-<td>04</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">АЙСЕР</td>
-<td colspan="2">2016</td>
-<td colspan="2">
+<td>1014.</td>
+<td colspan="6">АЙСЕР</td>
+<td colspan="9">2016</td>
+<td colspan="8">
 1,2,3,4,5,6,7,8,9,10,
 11,12,13,14
 </td>
-<td colspan="3">21</td>
-<td>04</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">АЛМА-АТИНСКИЙ 1</td>
-<td colspan="2">1965</td>
-<td colspan="2">
+<td>1015.</td>
+<td colspan="6">АЛМА-АТИНСКИЙ 1</td>
+<td colspan="9">1965</td>
+<td colspan="8">
 1,2,3,4,5,6,7,
 8,9,10,11,12,
 13,14
 </td>
-<td colspan="3">32</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td colspan="8">32</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">АПРЕЛЬСКИЙ</td>
-<td colspan="2">1980</td>
-<td colspan="2">1,13</td>
-<td colspan="3">118</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1016.</td>
+<td colspan="6">АПРЕЛЬСКИЙ</td>
+<td colspan="9">1980</td>
+<td colspan="8">1,13</td>
+<td colspan="8">118</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">АФИНА</td>
-<td colspan="2">2011</td>
-<td colspan="2">
+<td>1017.</td>
+<td colspan="6">АФИНА</td>
+<td colspan="9">2011</td>
+<td colspan="8">
 1,2,3,4,5,6,7,
 8,9,10,11,12,
 13,14
 </td>
-<td colspan="3">264</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td colspan="8">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">БЕБИСТАР</td>
-<td colspan="2">2014</td>
-<td colspan="2">3, 14</td>
-<td colspan="3">236</td>
-<td>03</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1018.</td>
+<td colspan="6">БЕБИСТАР</td>
+<td colspan="9">2014</td>
+<td colspan="8">3, 14</td>
+<td colspan="8">236</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ГЕРАКЛ</td>
-<td colspan="2">2016</td>
-<td colspan="2">3, 6, 14</td>
-<td colspan="3">236</td>
-<td>02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1019.</td>
+<td colspan="6">ГЕРАКЛ</td>
+<td colspan="9">2016</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">236</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ГРАНАТА</td>
-<td colspan="2">1977</td>
-<td colspan="2">5</td>
-<td colspan="3">118</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1020.</td>
+<td colspan="6">ГРАНАТА</td>
+<td colspan="9">1977</td>
+<td colspan="8">5</td>
+<td colspan="8">118</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ГРИБОВЧАНКА</td>
-<td colspan="2">1988</td>
-<td colspan="2">1,12,13</td>
-<td colspan="3">17</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1021.</td>
+<td colspan="6">ГРИБОВЧАНКА</td>
+<td colspan="9">1988</td>
+<td colspan="8">1,12,13</td>
+<td colspan="8">17</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ГУЛИВЕР</td>
-<td colspan="2">1993</td>
-<td colspan="2">2,4,7,10,11</td>
-<td colspan="3">65</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1022.</td>
+<td colspan="6">ГУЛИВЕР</td>
+<td colspan="9">1993</td>
+<td colspan="8">2,4,7,10,11</td>
+<td colspan="8">65</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ГУНЕШ</td>
-<td colspan="2">2015</td>
-<td colspan="2">3,6,14</td>
-<td colspan="3">236</td>
-<td>01</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1023.</td>
+<td colspan="6">ГУНЕШ</td>
+<td colspan="9">2015</td>
+<td colspan="8">3,6,14</td>
+<td colspan="8">236</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ДАНДИ</td>
-<td colspan="2">2015</td>
-<td colspan="2">3,6,14</td>
-<td colspan="3">236</td>
-<td>01</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1024.</td>
+<td colspan="6">ДАНДИ</td>
+<td colspan="9">2015</td>
+<td colspan="8">3,6,14</td>
+<td colspan="8">236</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ДАРИНА</td>
-<td colspan="2">1997</td>
-<td colspan="2">3,6,9,14</td>
-<td colspan="3">237</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1025.</td>
+<td colspan="6">ДАРИНА</td>
+<td colspan="9">1997</td>
+<td colspan="8">3,6,9,14</td>
+<td colspan="8">237</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ДЕЛТАСТАР</td>
-<td colspan="2">2000</td>
-<td colspan="2">3</td>
-<td colspan="3">236</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1026.</td>
+<td colspan="6">ДЕЛТАСТАР</td>
+<td colspan="9">2000</td>
+<td colspan="8">3</td>
+<td colspan="8">236</td>
+<td colspan="7"></td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ДЕМАРРАЖ</td>
-<td colspan="2">2016</td>
-<td colspan="2">3, 6, 14</td>
-<td colspan="3">236</td>
-<td>03</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1027.</td>
+<td colspan="6">ДЕМАРРАЖ</td>
+<td colspan="9">2016</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">236</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ДЖИРОЛА</td>
-<td colspan="2">2000</td>
-<td colspan="2">3,8</td>
-<td colspan="3">227</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1028.</td>
+<td colspan="6">ДЖИРОЛА</td>
+<td colspan="9">2000</td>
+<td colspan="8">3,8</td>
+<td colspan="8">227</td>
+<td colspan="7"></td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ДИДИМ</td>
-<td colspan="2">2011</td>
-<td colspan="2">
+<td>1029.</td>
+<td colspan="6">ДИДИМ</td>
+<td colspan="9">2011</td>
+<td colspan="8">
 1,2,3,4,5,6,7,8,9,10,
 11,12,13,14
 </td>
-<td colspan="3">309</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td colspan="8">309</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ДИРЕКТОР</td>
-<td colspan="2">2015</td>
-<td colspan="2">3,6,14</td>
-<td colspan="3">264</td>
-<td>03</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1030.</td>
+<td colspan="6">ДИРЕКТОР</td>
+<td colspan="9">2015</td>
+<td colspan="8">3,6,14</td>
+<td colspan="8">264</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ДР 8986</td>
-<td colspan="2">2016</td>
-<td colspan="2">3, 6, 14</td>
-<td colspan="3">247</td>
-<td>02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1031.</td>
+<td colspan="6">ДР 8986</td>
+<td colspan="9">2016</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">247</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ЗОЗУЛЯ</td>
-<td colspan="2">1978</td>
-<td colspan="2">1</td>
-<td colspan="3">118</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1032.</td>
+<td colspan="6">ЗОЗУЛЯ</td>
+<td colspan="9">1978</td>
+<td colspan="8">1</td>
+<td colspan="8">118</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ИНФИНИТИ</td>
-<td colspan="2">2011</td>
-<td colspan="2">
+<td>1033.</td>
+<td colspan="6">ИНФИНИТИ</td>
+<td colspan="9">2011</td>
+<td colspan="8">
 1,2,3,4,5,6,7,8,9,10,
 11,12,13,14
 </td>
-<td colspan="3">264</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td colspan="8">264</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">КАЗНИИКО - 1</td>
-<td colspan="2">2016</td>
-<td colspan="2">
+<td>1034.</td>
+<td colspan="6">КАЗНИИКО - 1</td>
+<td colspan="9">2016</td>
+<td colspan="8">
 1,2,3,4,5,6,7,8,9,10,
 11,12,13,14
 </td>
-<td colspan="3">21</td>
-<td>04</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">КАФКА</td>
-<td colspan="2">2015</td>
-<td colspan="2">3,6,14</td>
-<td colspan="3">245</td>
-<td>02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1035.</td>
+<td colspan="6">КАФКА</td>
+<td colspan="9">2015</td>
+<td colspan="8">3,6,14</td>
+<td colspan="8">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">КВОДИР</td>
-<td colspan="2">2014</td>
-<td colspan="2">3, 14</td>
-<td colspan="3">321</td>
-<td>01</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1036.</td>
+<td colspan="6">КВОДИР</td>
+<td colspan="9">2014</td>
+<td colspan="8">3, 14</td>
+<td colspan="8">321</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">КРИСТАЛЛ</td>
-<td colspan="2">1984</td>
-<td colspan="2">1</td>
-<td colspan="3">65</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1037.</td>
+<td colspan="6">КРИСТАЛЛ</td>
+<td colspan="9">1984</td>
+<td colspan="8">1</td>
+<td colspan="8">65</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">КУКАРАЧА</td>
-<td colspan="2">1981</td>
-<td colspan="2">1</td>
-<td colspan="3">118</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1038.</td>
+<td colspan="6">КУКАРАЧА</td>
+<td colspan="9">1981</td>
+<td colspan="8">1</td>
+<td colspan="8">118</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">МАГДАЛЕНА</td>
-<td colspan="2">2013</td>
-<td colspan="2">
+<td>1039.</td>
+<td colspan="6">КУРАЖ</td>
+<td colspan="9">2017</td>
+<td colspan="8">3,6,14</td>
+<td colspan="8">366</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1040.</td>
+<td colspan="6">МАГДАЛЕНА</td>
+<td colspan="9">2013</td>
+<td colspan="8">
 1,2,3,4,5,6,7,8,9,10,
 11,12,13,14
 </td>
-<td colspan="3">321</td>
-<td>03</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td colspan="8">321</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">МАНУЛ</td>
-<td colspan="2">1977</td>
-<td colspan="2">1,2,3,4,5,6,7,8,10,11,14</td>
-<td colspan="3">118</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1041.</td>
+<td colspan="6">МАДРИЛЕНЕ</td>
+<td colspan="9">2017</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">321</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">МАРАФОН</td>
-<td colspan="2">1983</td>
-<td colspan="2">1,2,4,7,8,9, 10,11</td>
-<td colspan="3">65</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1042.</td>
+<td colspan="6">МАНУЛ</td>
+<td colspan="9">1977</td>
+<td colspan="8">1,2,3,4,5,6,7,8,10,11,14</td>
+<td colspan="8">118</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">МЕВА</td>
-<td colspan="2">2016</td>
-<td colspan="2">3, 6, 14</td>
-<td colspan="3">236</td>
-<td>03</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1043.</td>
+<td colspan="6">МАРАФОН</td>
+<td colspan="9">1983</td>
+<td colspan="8">1,2,4,7,8,9, 10,11</td>
+<td colspan="8">65</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">МОНИСИЯ</td>
-<td colspan="2">2014</td>
-<td colspan="2">3, 14</td>
-<td colspan="3">321</td>
-<td>01</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1044.</td>
+<td colspan="6">МЕВА</td>
+<td colspan="9">2016</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">236</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">
-МОСКОВСКИЙ
-ТЕПЛИЧНЫЙ
-</td>
-<td colspan="2">1978</td>
-<td colspan="2">1,2,4,7,8,10,12,13</td>
-<td colspan="3">65</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1045.</td>
+<td colspan="6">МОНИСИЯ</td>
+<td colspan="9">2014</td>
+<td colspan="8">3, 14</td>
+<td colspan="8">321</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">МУЛЬТИСТАР</td>
-<td colspan="2">2014</td>
-<td colspan="2">3, 14</td>
-<td colspan="3">236</td>
-<td>03</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1046.</td>
+<td colspan="6">МОСКОВСКИЙ ТЕПЛИЧНЫЙ</td>
+<td colspan="9">1978</td>
+<td colspan="8">1,2,4,7,8,10,12,13</td>
+<td colspan="8">65</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">НОВАТОП</td>
-<td colspan="2">2014</td>
-<td colspan="2">3, 14</td>
-<td colspan="3">245</td>
-<td>01</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1047.</td>
+<td colspan="6">МУЛЬТИСТАР</td>
+<td colspan="9">2014</td>
+<td colspan="8">3, 14</td>
+<td colspan="8">236</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ПРУВА</td>
-<td colspan="2">2014</td>
-<td colspan="2">3, 14</td>
-<td colspan="3">245</td>
-<td>02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1048.</td>
+<td colspan="6">НОВАТОП</td>
+<td colspan="9">2014</td>
+<td colspan="8">3, 14</td>
+<td colspan="8">245</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">РАПИДЕС</td>
-<td colspan="2">2011</td>
-<td colspan="2">
+<td>1049.</td>
+<td colspan="6">ПАЛЕХ</td>
+<td colspan="9">2017</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">366</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1050.</td>
+<td colspan="6">ПРУВА</td>
+<td colspan="9">2014</td>
+<td colspan="8">3, 14</td>
+<td colspan="8">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1051.</td>
+<td colspan="6">РАПИДЕС</td>
+<td colspan="9">2011</td>
+<td colspan="8">
 1,2,3,4,5,6,7,8,9,10,
 11,12,13,14
 </td>
-<td colspan="3">309</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td colspan="8">309</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">СЕНТЯБРЬСКИЙ</td>
-<td colspan="2">1985</td>
-<td colspan="2">
+<td>1052.</td>
+<td colspan="6">СЕНТЯБРЬСКИЙ</td>
+<td colspan="9">1985</td>
+<td colspan="8">
 1,2,4,7,8,9,
 10,11,12,13
 </td>
-<td colspan="3">118,65</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td colspan="8">118,65</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">СВ 4097</td>
-<td colspan="2">2016</td>
-<td colspan="2">3, 6, 14</td>
-<td colspan="3">247</td>
-<td>01</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1053.</td>
+<td colspan="6">СВ 4097</td>
+<td colspan="9">2016</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">247</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">СВ 3506ЦВ</td>
-<td colspan="2">2016</td>
-<td colspan="2">3, 6, 14</td>
-<td colspan="3">247</td>
-<td>02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1054.</td>
+<td colspan="6">СВ 3506ЦВ</td>
+<td colspan="9">2016</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">247</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">СПИНО</td>
-<td colspan="2">2016</td>
-<td colspan="2">3, 6, 14</td>
-<td colspan="3">245</td>
-<td>01</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1055.</td>
+<td colspan="6">СПИНО</td>
+<td colspan="9">2016</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">245</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">СТЕЛЛА</td>
-<td colspan="2">1987</td>
-<td colspan="2">5,8,9</td>
-<td colspan="3">65</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1056.</td>
+<td colspan="6">СТЕЛЛА</td>
+<td colspan="9">1987</td>
+<td colspan="8">5,8,9</td>
+<td colspan="8">65</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">СТИНГЕР</td>
-<td colspan="2">2013</td>
-<td colspan="2">
+<td>1057.</td>
+<td colspan="6">СТИНГЕР</td>
+<td colspan="9">2013</td>
+<td colspan="8">
 1,2,3,4,5,6,7,8,9,10,
 11,12,13,14
 </td>
-<td colspan="3">321</td>
-<td>01</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td colspan="8">321</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">СТРЕМА</td>
-<td colspan="2">1990</td>
-<td colspan="2">1,8,9,12,13,14</td>
-<td colspan="3">212</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1058.</td>
+<td colspan="6">СТРЕМА</td>
+<td colspan="9">1990</td>
+<td colspan="8">1,8,9,12,13,14</td>
+<td colspan="8">212</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ТСХА 28</td>
-<td colspan="2">1986</td>
-<td colspan="2">5</td>
-<td colspan="3">118</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1059.</td>
+<td colspan="6">ТСХА 28</td>
+<td colspan="9">1986</td>
+<td colspan="8">5</td>
+<td colspan="8">118</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ТСХА 3707</td>
-<td colspan="2">1989</td>
-<td colspan="2">2,4,7, 10,11</td>
-<td colspan="3">118</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1060.</td>
+<td colspan="6">ТСХА 3707</td>
+<td colspan="9">1989</td>
+<td colspan="8">2,4,7, 10,11</td>
+<td colspan="8">118</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ТСХА 442</td>
-<td colspan="2">1993</td>
-<td colspan="2">3,6</td>
-<td colspan="3">118</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1061.</td>
+<td colspan="6">ТСХА 442</td>
+<td colspan="9">1993</td>
+<td colspan="8">3,6</td>
+<td colspan="8">118</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ТСХА 575</td>
-<td colspan="2">1993</td>
-<td colspan="2">
+<td>1062.</td>
+<td colspan="6">ТСХА 575</td>
+<td colspan="9">1993</td>
+<td colspan="8">
 2,3,4,6,7,
 10,11,14
 </td>
-<td colspan="3">118</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td colspan="8">118</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ТУРНИР</td>
-<td colspan="2">1997</td>
-<td colspan="2">3,6,9,14</td>
-<td colspan="3">212</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1063.</td>
+<td colspan="6">ТУРНИР</td>
+<td colspan="9">1997</td>
+<td colspan="8">3,6,9,14</td>
+<td colspan="8">212</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ФЕНОМЕНО</td>
-<td colspan="2">2011</td>
-<td colspan="2">
+<td>1064.</td>
+<td colspan="6">УЛАР</td>
+<td colspan="9">2017</td>
+<td colspan="8">
+1, 2, 3, 4, 5, 6, 7,
+8, 9, 10, 11, 12, 13,
+14
+</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са, кн</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1065.</td>
+<td colspan="6">ФЕНОМЕНО</td>
+<td colspan="9">2011</td>
+<td colspan="8">
 1,2,3,4,5,6,7,8,9,10,
 11,12,13,14
 </td>
-<td colspan="3">309</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td colspan="8">309</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ЦЕРЕС</td>
-<td colspan="2">2011</td>
-<td colspan="2">
-1,2,3,4,5,6,7,8,9,10,
-11,12,13,14
+<td>1066.</td>
+<td colspan="6">ЦЕРЕС</td>
+<td colspan="9">2011</td>
+<td colspan="8">
+1,2,3,4,5,6,7,8,9,10,11,
+12,13,14
 </td>
-<td colspan="3">309</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td colspan="8">309</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ЭКОЛЬ</td>
-<td colspan="2">2016</td>
-<td colspan="2">3, 6, 14</td>
-<td colspan="3">245</td>
-<td>02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1067.</td>
+<td colspan="6">ЭКОЛЬ</td>
+<td colspan="9">2016</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ЭСПАДАНА</td>
-<td colspan="2">2016</td>
-<td colspan="2">3, 6, 14</td>
-<td colspan="3">236</td>
-<td>01</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1068.</td>
+<td colspan="6">ЭСПАДАНА</td>
+<td colspan="9">2016</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">236</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ЭСТАФЕТА</td>
-<td colspan="2">1985</td>
-<td colspan="2">3,5,6</td>
-<td colspan="3">118</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1069.</td>
+<td colspan="6">ЭСТАФЕТА</td>
+<td colspan="9">1985</td>
+<td colspan="8">3,5,6</td>
+<td colspan="8">118</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="3">ЯЗЗЕР</td>
-<td colspan="2">2000</td>
-<td colspan="2">3,8</td>
-<td colspan="3">227</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1070.</td>
+<td colspan="6">ЯЗЗЕР</td>
+<td colspan="9">2000</td>
+<td colspan="8">3,8</td>
+<td colspan="8">227</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Томат
+<td colspan="56">
+Параграф 6.15 Томат
 Lycopersicon lycopersicum (L.) Karst ex Farwell
 открытого грунта
 </td>
 </tr>
 <tr>
-<td>АГАТА</td>
-<td colspan="4">1989</td>
-<td colspan="3">1,2,4,5,12,13</td>
-<td>101</td>
-<td colspan="2">02</td>
-<td></td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>АСТЕРИКС</td>
-<td colspan="4">2014</td>
-<td colspan="3">3, 10,12,14</td>
-<td>245</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td>са, кн</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>БАГИО</td>
-<td colspan="4">2013</td>
-<td colspan="3">3</td>
-<td>337</td>
-<td colspan="2">05</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>БАГИРА</td>
-<td colspan="4">2011</td>
-<td colspan="3">3</td>
-<td>308</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>ст</td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>БОБКАТ</td>
-<td colspan="4">2014</td>
-<td colspan="3">3,12,14</td>
-<td>245</td>
-<td colspan="2">05</td>
-<td>F1</td>
-<td>са, тп</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ВЕЛОЗ</td>
-<td colspan="4">2016</td>
-<td colspan="3">14</td>
-<td>247</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ВИКТОРИНА</td>
-<td colspan="4">1987</td>
-<td colspan="3">2,3,4,7,11,14</td>
-<td>212</td>
-<td colspan="2">03</td>
-<td></td>
-<td>тп</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ВОЛГОГРАДСКИЙ 5/95</td>
-<td colspan="4">1955</td>
-<td colspan="3">2,4,7,11,14</td>
-<td>75</td>
-<td colspan="2">05</td>
-<td></td>
-<td>тп</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ВОЛЬВЕРИН</td>
-<td colspan="4">2014</td>
-<td colspan="3">3, 10, 12</td>
-<td>245</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td>са, тп</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ВОСТОРГ</td>
-<td colspan="4">2016</td>
-<td colspan="3">3</td>
-<td>21</td>
-<td colspan="2">04</td>
-<td></td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДАР ЗАВОЛЖЬЯ</td>
-<td colspan="4">1993</td>
-<td colspan="3">2,3,4</td>
-<td>75</td>
-<td colspan="2">03</td>
-<td></td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ДОХОДНЫЙ</td>
-<td colspan="4">1978</td>
-<td colspan="3">1,5,8,10,12,13</td>
-<td>184</td>
-<td colspan="2">02</td>
-<td></td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЗАРЯ ВОСТОКА</td>
-<td colspan="4">2008</td>
-<td colspan="3">3,14</td>
-<td>21</td>
-<td colspan="2">03</td>
-<td></td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КЛАССИК</td>
-<td colspan="4">2006</td>
-<td colspan="3">3,6,14</td>
-<td>264</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛАМАНТИН</td>
-<td colspan="4">2016</td>
-<td colspan="3">14</td>
-<td>264</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛИДЕР</td>
-<td colspan="4">2011</td>
-<td colspan="3">14</td>
-<td>21</td>
-<td colspan="2">04</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЛУЧЕЗАРНЫЙ</td>
-<td colspan="4">1999</td>
-<td colspan="3">3,6,9,14</td>
-<td>21</td>
-<td colspan="2">04</td>
-<td></td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>МЕРУЕРТ</td>
-<td colspan="4">1995</td>
-<td colspan="3">3,6</td>
-<td>21</td>
-<td colspan="2">04</td>
-<td></td>
-<td>кн</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>МЕТЕОР</td>
-<td colspan="4">2013</td>
-<td colspan="3">3, 14</td>
-<td>337</td>
-<td colspan="2">01</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>МОНТИ</td>
-<td colspan="4">2015</td>
-<td colspan="3">14</td>
-<td>321</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>НАРТТАЙ</td>
-<td colspan="4">2001</td>
-<td colspan="3">3,14</td>
-<td>21</td>
-<td colspan="2">03</td>
-<td></td>
-<td>кн</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>НАШ</td>
-<td colspan="4">2015</td>
-<td colspan="3">1</td>
-<td>245</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>НОВИЧОК</td>
-<td colspan="4">1986</td>
-<td colspan="3">3,6,9,14</td>
-<td>75</td>
-<td colspan="2">03</td>
-<td></td>
-<td>цк</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ОЛИВИЯ</td>
-<td colspan="4">2013</td>
-<td colspan="3">3</td>
-<td>337</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПОЛБИГ</td>
-<td colspan="4">2008</td>
-<td colspan="3">10</td>
-<td>221</td>
-<td colspan="2">05</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПЕРСЕЙ</td>
-<td colspan="4">1993</td>
-<td colspan="3">1,3,5,6,13,14</td>
-<td>212</td>
-<td colspan="2">03</td>
-<td></td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПЕРФЕКТПИЛ</td>
-<td colspan="4">2011</td>
-<td colspan="3">3</td>
-<td>321</td>
-<td colspan="2">01</td>
-<td>F1</td>
-<td>тп</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПЛАМЯ</td>
-<td colspan="4">1995</td>
-<td colspan="3">12</td>
-<td>21</td>
-<td colspan="2">04</td>
-<td></td>
-<td>цк</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПУЛЬРЕКС</td>
-<td colspan="4">2013</td>
-<td colspan="3">3</td>
-<td>321</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td>тп</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РАПИТ</td>
-<td colspan="4">2016</td>
-<td colspan="3">14</td>
-<td>247</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РАССВЕТ</td>
-<td colspan="4">2008</td>
-<td colspan="3">3,14</td>
-<td>21</td>
-<td colspan="2">04</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РАННИЙ 83</td>
-<td colspan="4">1972</td>
-<td colspan="3">3,7,14</td>
-<td>212</td>
-<td colspan="2">02</td>
-<td></td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РИЧИ</td>
-<td colspan="4">1996</td>
-<td colspan="3">5</td>
-<td>221</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РОЗАЛИЗА</td>
-<td colspan="4">2016</td>
-<td colspan="3">14</td>
-<td>247</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>САМАЛАДАЙ</td>
-<td colspan="4">1997</td>
-<td colspan="3">3,5,6,8,12</td>
-<td>21</td>
-<td colspan="2">04</td>
-<td></td>
-<td>тп</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-СИБИРСКИЙ
-СКОРОСПЕЛЫЙ
-</td>
-<td colspan="4">1973</td>
-<td colspan="3">1,10</td>
-<td>87</td>
-<td colspan="2">02</td>
-<td></td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СУЛТАН</td>
-<td colspan="4">1998</td>
-<td colspan="3">3</td>
-<td>221</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СУПЕР РЭД</td>
-<td colspan="4">2011</td>
-<td colspan="3">3</td>
-<td>293</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СЮРПРИЗ</td>
-<td colspan="4">2010</td>
-<td colspan="3">6</td>
-<td>21</td>
-<td colspan="2">05</td>
-<td></td>
-<td>ун</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТАНЯ</td>
-<td colspan="4">2009</td>
-<td colspan="3">3</td>
-<td>293</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТАНШОЛПАН</td>
-<td colspan="4">2016</td>
-<td colspan="3">3,5</td>
-<td>21</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТОПСПИН</td>
-<td colspan="4">2000</td>
-<td colspan="3">3,6</td>
-<td>221</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ТИТАН</td>
-<td colspan="4">1988</td>
-<td colspan="3">3,6,9,11,14</td>
-<td>101</td>
-<td colspan="2">05</td>
-<td></td>
-<td>тп</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>УЛИСС</td>
-<td colspan="4">2016</td>
-<td colspan="3">8</td>
-<td>245</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td>кн</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>УМИТ</td>
-<td colspan="4">2013</td>
-<td colspan="3">6</td>
-<td>21</td>
-<td colspan="2">05</td>
-<td></td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ФАКЕЛ</td>
-<td colspan="4">1979</td>
-<td colspan="3">3,5,14</td>
-<td>212</td>
-<td colspan="2">04</td>
-<td></td>
-<td>тп</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ФЛОРИДА</td>
-<td colspan="4">2011</td>
-<td colspan="3">3</td>
-<td>293</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЦАРИН</td>
-<td colspan="4">2014</td>
-<td colspan="3">3, 8, 12</td>
-<td>245</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td>са, тп</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЦЕРАСО</td>
-<td colspan="4">2010</td>
-<td colspan="3">3</td>
-<td>293</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>цк</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ЧИБЛИ</td>
-<td colspan="4">2016</td>
-<td colspan="3">3,10</td>
-<td>245</td>
-<td colspan="2">05</td>
-<td>F1</td>
-<td>са</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6 ПУНТО 7</td>
-<td colspan="4">2015</td>
-<td colspan="3">14</td>
-<td>321</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td>са, кн</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="15">защищенного грунта</td>
-</tr>
-<tr>
-<td>АЛЕКСИЯ</td>
-<td colspan="4">2011</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>293</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>АДМИРО</td>
-<td colspan="4">2013</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>321</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>АЛАМИНА</td>
-<td colspan="4">2015</td>
-<td colspan="3">3,6,14</td>
-<td>236</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>АСТОНА</td>
-<td colspan="4">2007</td>
-<td colspan="3">3,14</td>
-<td>264</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>АБЕЛЛУС</td>
-<td colspan="4">2014</td>
-<td colspan="3">3, 14</td>
-<td>236</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>АЛУА</td>
-<td colspan="4">2009</td>
-<td colspan="3">3</td>
-<td>21</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>АТОС</td>
-<td colspan="4">1997</td>
-<td colspan="3">3,6,9,14</td>
-<td>118</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>АТТИЯ</td>
-<td colspan="4">2015</td>
-<td colspan="3">3,6,14</td>
-<td>236</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>БИГ БИФ</td>
-<td colspan="4">2011</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10, 11,12,13,14</td>
-<td>293</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>БУФФАЛО</td>
-<td colspan="4">2000</td>
-<td colspan="3">8</td>
-<td>227</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>ВАЛЕНТИН</td>
-<td colspan="4">2000</td>
-<td colspan="3">3</td>
-<td>236</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>ВЕРЛИОКА</td>
-<td colspan="4">1991</td>
-<td colspan="3">1,2,3,4,6,7,8,9,10,12, 13</td>
-<td>118</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>ВИСА</td>
-<td colspan="4">1984</td>
-<td colspan="3">13</td>
-<td>92</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>ГАМАЮН</td>
-<td colspan="4">1993</td>
-<td colspan="3">1,3,6</td>
-<td>118</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>ГАЙАНА</td>
-<td colspan="4">2014</td>
-<td colspan="3">3,14</td>
-<td>236</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td>са, тп</td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>ДӘМДІ</td>
-<td colspan="4">2013</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10, 11,12,13,14</td>
-<td>21</td>
-<td colspan="2">04</td>
-<td></td>
-<td>са</td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>ДИАС</td>
-<td colspan="4">2006</td>
-<td colspan="3">3</td>
-<td>21</td>
-<td colspan="2">02</td>
-<td></td>
-<td></td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>ДОУФУ</td>
-<td colspan="4">2015</td>
-<td colspan="3">3,6,14</td>
-<td>236</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>ЖАЛЫН</td>
-<td colspan="4">2006</td>
-<td colspan="3">3</td>
-<td>21</td>
-<td colspan="2">04</td>
-<td></td>
-<td></td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>ЖЕРОНИМО</td>
-<td colspan="4">2011</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>309</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
-</tr>
-<tr>
-<td>ЗОЛОТАЯ БУСИНКА</td>
-<td colspan="4">2013</td>
-<td colspan="3">
+<td>1071.</td>
+<td colspan="6">АГАТА</td>
+<td colspan="9">1989</td>
+<td colspan="8">1,2,4,5,12,13</td>
+<td colspan="8">101</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1072.</td>
+<td colspan="6">АСТЕРИКС</td>
+<td colspan="9">2014</td>
+<td colspan="8">3, 10,12,14</td>
+<td colspan="8">245</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са, кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1073.</td>
+<td colspan="6">БАБАЙ</td>
+<td colspan="9">2017</td>
+<td colspan="8">3, 5, 12</td>
+<td colspan="8">366</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1074.</td>
+<td colspan="6">БАГИО</td>
+<td colspan="9">2013</td>
+<td colspan="8">3</td>
+<td colspan="8">337</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1075.</td>
+<td colspan="6">БАГИРА</td>
+<td colspan="9">2011</td>
+<td colspan="8">3</td>
+<td colspan="8">308</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">ст</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1076.</td>
+<td colspan="6">БОБКАТ</td>
+<td colspan="9">2014</td>
+<td colspan="8">3,12,14</td>
+<td colspan="8">245</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6">са, тп</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1077.</td>
+<td colspan="6">ВЕЛОЗ</td>
+<td colspan="9">2016</td>
+<td colspan="8">14</td>
+<td colspan="8">247</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1078.</td>
+<td colspan="6">ВИКТОРИНА</td>
+<td colspan="9">1987</td>
+<td colspan="8">2,3,4,7,11,14</td>
+<td colspan="8">212</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6">тп</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1079.</td>
+<td colspan="6">ВОЛГОГРАДСКИЙ 5/95</td>
+<td colspan="9">1955</td>
+<td colspan="8">2,4,7,11,14</td>
+<td colspan="8">75</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6">тп</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1080.</td>
+<td colspan="6">ВОЛЬВЕРИН</td>
+<td colspan="9">2014</td>
+<td colspan="8">3, 10, 12</td>
+<td colspan="8">245</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са, тп</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1081.</td>
+<td colspan="6">ВОСТОРГ</td>
+<td colspan="9">2016</td>
+<td colspan="8">3,5,12</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1082.</td>
+<td colspan="6">ДАР ЗАВОЛЖЬЯ</td>
+<td colspan="9">1993</td>
+<td colspan="8">2,3,4</td>
+<td colspan="8">75</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1083.</td>
+<td colspan="6">ДОХОДНЫЙ</td>
+<td colspan="9">1978</td>
+<td colspan="8">1,5,8,10,12,13</td>
+<td colspan="8">184</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1084.</td>
+<td colspan="6">ЗАРЯ ВОСТОКА</td>
+<td colspan="9">2008</td>
+<td colspan="8">3,5,14</td>
+<td colspan="8">21</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1085.</td>
+<td colspan="6">КЛАССИК</td>
+<td colspan="9">2006</td>
+<td colspan="8">3,6,14</td>
+<td colspan="8">264</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1086.</td>
+<td colspan="6">ЛАМАНТИН</td>
+<td colspan="9">2016</td>
+<td colspan="8">14</td>
+<td colspan="8">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1087.</td>
+<td colspan="6">ЛИДЕР</td>
+<td colspan="9">2011</td>
+<td colspan="8">14</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1088.</td>
+<td colspan="6">ЛУЧЕЗАРНЫЙ</td>
+<td colspan="9">1999</td>
+<td colspan="8">3,6,9,14</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1089.</td>
+<td colspan="6">МЕРУЕРТ</td>
+<td colspan="9">1995</td>
+<td colspan="8">3,6</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1090.</td>
+<td colspan="6">МЕТЕОР</td>
+<td colspan="9">2013</td>
+<td colspan="8">3, 14</td>
+<td colspan="8">337</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6">ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1091.</td>
+<td colspan="6">МОНТИ</td>
+<td colspan="9">2015</td>
+<td colspan="8">14</td>
+<td colspan="8">321</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1092.</td>
+<td colspan="6">НАРТТАЙ</td>
+<td colspan="9">2001</td>
+<td colspan="8">3,14</td>
+<td colspan="8">21</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6">кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1093.</td>
+<td colspan="6">НАШ</td>
+<td colspan="9">2015</td>
+<td colspan="8">1</td>
+<td colspan="8">245</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1094.</td>
+<td colspan="6">НОВИЧОК</td>
+<td colspan="9">1986</td>
+<td colspan="8">3,6,9,14</td>
+<td colspan="8">75</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6">цк</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1095.</td>
+<td colspan="6">ОГОНЕК-777</td>
+<td colspan="9">2017</td>
+<td colspan="8">3</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4">с</td>
+<td colspan="6">кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1096.</td>
+<td colspan="6">ОЛИВИЯ</td>
+<td colspan="9">2013</td>
+<td colspan="8">3</td>
+<td colspan="8">337</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1097.</td>
+<td colspan="6">ПОЛБИГ</td>
+<td colspan="9">2008</td>
+<td colspan="8">10</td>
+<td colspan="8">221</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6">ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1098.</td>
+<td colspan="6">ПЕРСЕЙ</td>
+<td colspan="9">1993</td>
+<td colspan="8">1,3,5,6,13,14</td>
+<td colspan="8">212</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1099.</td>
+<td colspan="6">ПЕРФЕКТПИЛ</td>
+<td colspan="9">2011</td>
+<td colspan="8">3</td>
+<td colspan="8">321</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6">тп</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1100.</td>
+<td colspan="6">ПЛАМЯ</td>
+<td colspan="9">1995</td>
+<td colspan="8">12</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">цк</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1101.</td>
+<td colspan="6">ПУЛЬРЕКС</td>
+<td colspan="9">2013</td>
+<td colspan="8">3</td>
+<td colspan="8">321</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">тп</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1102.</td>
+<td colspan="6">РАПИТ</td>
+<td colspan="9">2016</td>
+<td colspan="8">14</td>
+<td colspan="8">247</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1103.</td>
+<td colspan="6">РАССВЕТ</td>
+<td colspan="9">2008</td>
+<td colspan="8">3,14</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1104.</td>
+<td colspan="6">РАННИЙ 83</td>
+<td colspan="9">1972</td>
+<td colspan="8">3,7,14</td>
+<td colspan="8">212</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1105.</td>
+<td colspan="6">РИЧИ</td>
+<td colspan="9">1996</td>
+<td colspan="8">5</td>
+<td colspan="8">221</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1106.</td>
+<td colspan="6">РОЗАЛИЗА</td>
+<td colspan="9">2016</td>
+<td colspan="8">14</td>
+<td colspan="8">247</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1107.</td>
+<td colspan="6">САМАЛАДАЙ</td>
+<td colspan="9">1997</td>
+<td colspan="8">3,5,6,8,12</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">тп</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1108.</td>
+<td colspan="6">РОЗМАКС</td>
+<td colspan="9">2017</td>
+<td colspan="8">5, 12, 14</td>
+<td colspan="8">366</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1109.</td>
+<td colspan="6">САДЫК</td>
+<td colspan="9">2017</td>
+<td colspan="8">14</td>
+<td colspan="8">293</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1110.</td>
+<td colspan="6">СИБИРСКИЙ СКОРОСПЕЛЫЙ</td>
+<td colspan="9">1973</td>
+<td colspan="8">1,10</td>
+<td colspan="8">87</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1111.</td>
+<td colspan="6">СУЛТАН</td>
+<td colspan="9">1998</td>
+<td colspan="8">3</td>
+<td colspan="8">221</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1112.</td>
+<td colspan="6">СУПЕР РЭД</td>
+<td colspan="9">2011</td>
+<td colspan="8">3</td>
+<td colspan="8">293</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1113.</td>
+<td colspan="6">СЮРПРИЗ</td>
+<td colspan="9">2010</td>
+<td colspan="8">6</td>
+<td colspan="8">21</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6">ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1114.</td>
+<td colspan="6">ТАНЯ</td>
+<td colspan="9">2009</td>
+<td colspan="8">3</td>
+<td colspan="8">293</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1115.</td>
+<td colspan="6">ТАНШОЛПАН®</td>
+<td colspan="9">2016</td>
+<td colspan="8">3,5</td>
+<td colspan="8">21</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1116.</td>
+<td colspan="6">ТОПСПИН</td>
+<td colspan="9">2000</td>
+<td colspan="8">3,6</td>
+<td colspan="8">221</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1117.</td>
+<td colspan="6">ТИТАН</td>
+<td colspan="9">1988</td>
+<td colspan="8">3,6,9,11,14</td>
+<td colspan="8">101</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6">тп</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1118.</td>
+<td colspan="6">ТУРМАЛИН</td>
+<td colspan="9">2017</td>
+<td colspan="8">3, 5, 12, 14</td>
+<td colspan="8">366</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1119.</td>
+<td colspan="6">УЛИСС</td>
+<td colspan="9">2016</td>
+<td colspan="8">8</td>
+<td colspan="8">245</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1120.</td>
+<td colspan="6">УМИТ</td>
+<td colspan="9">2013</td>
+<td colspan="8">6</td>
+<td colspan="8">21</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1121.</td>
+<td colspan="6">ФАКЕЛ</td>
+<td colspan="9">1979</td>
+<td colspan="8">3,5,14</td>
+<td colspan="8">212</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">тп</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1122.</td>
+<td colspan="6">ФЛОРИДА</td>
+<td colspan="9">2011</td>
+<td colspan="8">3</td>
+<td colspan="8">293</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1123.</td>
+<td colspan="6">ЦАРИН</td>
+<td colspan="9">2014</td>
+<td colspan="8">3, 8, 12</td>
+<td colspan="8">245</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са, тп</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1124.</td>
+<td colspan="6">ЦЕРАСО</td>
+<td colspan="9">2010</td>
+<td colspan="8">3</td>
+<td colspan="8">293</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">цк</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1125.</td>
+<td colspan="6">ЧИБЛИ</td>
+<td colspan="9">2016</td>
+<td colspan="8">3,10</td>
+<td colspan="8">245</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1126.</td>
+<td colspan="6">6 ПУНТО 7</td>
+<td colspan="9">2015</td>
+<td colspan="8">14</td>
+<td colspan="8">321</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са, кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1127.</td>
+<td colspan="6">08 АВ 8810</td>
+<td colspan="9">2017</td>
+<td colspan="8">14</td>
+<td colspan="8">321</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="56">защищенного грунта</td>
+</tr>
+<tr>
+<td>1128.</td>
+<td colspan="6">АЛЕКСИЯ</td>
+<td colspan="9">2011</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10, 11,12,13,14</td>
+<td colspan="8">293</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1129.</td>
+<td colspan="6">АДМИРО</td>
+<td colspan="9">2013</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10, 11,12,13,14</td>
+<td colspan="8">321</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1130.</td>
+<td colspan="6">АЛАМИНА</td>
+<td colspan="9">2015</td>
+<td colspan="8">3,6,14</td>
+<td colspan="8">236</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1131.</td>
+<td colspan="6">АСТОНА</td>
+<td colspan="9">2007</td>
+<td colspan="8">3,14</td>
+<td colspan="8">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1132.</td>
+<td colspan="6">АБЕЛЛУС</td>
+<td colspan="9">2014</td>
+<td colspan="8">3, 14</td>
+<td colspan="8">236</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1133.</td>
+<td colspan="6">АЛУА</td>
+<td colspan="9">2009</td>
+<td colspan="8">3</td>
+<td colspan="8">21</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1134.</td>
+<td colspan="6">АТОС</td>
+<td colspan="9">1997</td>
+<td colspan="8">3,6,9,14</td>
+<td colspan="8">118</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1135.</td>
+<td colspan="6">АТТИЯ</td>
+<td colspan="9">2015</td>
+<td colspan="8">3,6,14</td>
+<td colspan="8">236</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1136.</td>
+<td colspan="6">БЕЙСУЖОК</td>
+<td colspan="9">2017</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">366</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1137.</td>
+<td colspan="6">БИГ БИФ</td>
+<td colspan="9">2011</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10, 11,12,13,14</td>
+<td colspan="8">293</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1138.</td>
+<td colspan="6">БУФФАЛО</td>
+<td colspan="9">2000</td>
+<td colspan="8">8</td>
+<td colspan="8">227</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1139.</td>
+<td colspan="6">ВАЛЕНТИН</td>
+<td colspan="9">2000</td>
+<td colspan="8">3</td>
+<td colspan="8">236</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1140.</td>
+<td colspan="6">ВЕРЛИОКА</td>
+<td colspan="9">1991</td>
+<td colspan="8">1,2,3,4,6,7,8,9,10,12, 13</td>
+<td colspan="8">118</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1141.</td>
+<td colspan="6">ВИСА</td>
+<td colspan="9">1984</td>
+<td colspan="8">13</td>
+<td colspan="8">92</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1142.</td>
+<td colspan="6">ГАМАЮН</td>
+<td colspan="9">1993</td>
+<td colspan="8">1,3,6</td>
+<td colspan="8">118</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1143.</td>
+<td colspan="6">ГАЙАНА</td>
+<td colspan="9">2014</td>
+<td colspan="8">3,14</td>
+<td colspan="8">236</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са, тп</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1144.</td>
+<td colspan="6">ГИБРИДНЫЙ 56</td>
+<td colspan="9">2017</td>
+<td colspan="8">1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
+<td colspan="8">21</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1145.</td>
+<td colspan="6">ДАФНИС</td>
+<td colspan="9">2017</td>
+<td colspan="8">1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
+<td colspan="8">245</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1146.</td>
+<td colspan="6">ДИАС</td>
+<td colspan="9">2006</td>
+<td colspan="8">3</td>
+<td colspan="8">21</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1147.</td>
+<td colspan="6">ДӘМДІ</td>
+<td colspan="9">2013</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10, 11,12,13,14</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1148.</td>
+<td colspan="6">ДОУФУ</td>
+<td colspan="9">2015</td>
+<td colspan="8">3,6,14</td>
+<td colspan="8">236</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1149.</td>
+<td colspan="6">ЖАЛЫН</td>
+<td colspan="9">2006</td>
+<td colspan="8">3</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1150.</td>
+<td colspan="6">ЖЕРОНИМО</td>
+<td colspan="9">2011</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="8">309</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1151.</td>
+<td colspan="6">ЗОЛОТАЯ БУСИНКА</td>
+<td colspan="9">2013</td>
+<td colspan="8">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>21</td>
-<td colspan="2">04</td>
-<td></td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ИРОК</td>
-<td colspan="4">1990</td>
-<td colspan="3">1</td>
-<td>65,88</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1152.</td>
+<td colspan="6">ИРОК</td>
+<td colspan="9">1990</td>
+<td colspan="8">1</td>
+<td colspan="8">65,88</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАПРИЦИЯ</td>
-<td colspan="4">2014</td>
-<td colspan="3">3,14</td>
-<td>236</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1153.</td>
+<td colspan="6">КАЗАЦИРО 206</td>
+<td colspan="9">2017</td>
+<td colspan="8">1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4">с</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАРЛСОН</td>
-<td colspan="4">1985</td>
-<td colspan="3">5,8,9</td>
-<td>118</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1154.</td>
+<td colspan="6">КАПРИЦИЯ</td>
+<td colspan="9">2014</td>
+<td colspan="8">3,14</td>
+<td colspan="8">236</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КЕРЕМЕТ</td>
-<td colspan="4">2016</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>21</td>
-<td colspan="2">04</td>
-<td></td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1155.</td>
+<td colspan="6">КАРЛСОН</td>
+<td colspan="9">1985</td>
+<td colspan="8">5,8,9</td>
+<td colspan="8">118</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОМИТТ</td>
-<td colspan="4">2013</td>
-<td colspan="3">
+<td>1156.</td>
+<td colspan="6">КЕРЕМЕТ</td>
+<td colspan="9">2016</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1157.</td>
+<td colspan="6">КЛИМСТАР</td>
+<td colspan="9">2017</td>
+<td colspan="8">1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td>
+<td colspan="8">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1158.</td>
+<td colspan="6">КОМИТТ</td>
+<td colspan="9">2013</td>
+<td colspan="8">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>321</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td colspan="8">321</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОРВИНУС</td>
-<td colspan="4">2014</td>
-<td colspan="3">3, 14</td>
-<td>321</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1159.</td>
+<td colspan="6">КОРВИНУС</td>
+<td colspan="9">2014</td>
+<td colspan="8">3, 14</td>
+<td colspan="8">321</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КРАСНАЯ СТРЕЛА</td>
-<td colspan="4">1995</td>
-<td colspan="3">3,6</td>
-<td>65</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1160.</td>
+<td colspan="6">КРАСНАЯ СТРЕЛА</td>
+<td colspan="9">1995</td>
+<td colspan="8">3,6</td>
+<td colspan="8">65</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КРИОЛЛО</td>
-<td colspan="4">2014</td>
-<td colspan="3">3, 14</td>
-<td>236</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1161.</td>
+<td colspan="6">КРИОЛЛО</td>
+<td colspan="9">2014</td>
+<td colspan="8">3, 14</td>
+<td colspan="8">236</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КУНЕРО</td>
-<td colspan="4">2011</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>309</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1162.</td>
+<td colspan="6">КУНЕРО</td>
+<td colspan="9">2011</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="8">309</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЛАСТОЧКА</td>
-<td colspan="4">1985</td>
-<td colspan="3">1,7,12,13</td>
-<td>65</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1163.</td>
+<td colspan="6">ЛАСТОЧКА</td>
+<td colspan="9">1985</td>
+<td colspan="8">1,7,12,13</td>
+<td colspan="8">65</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЛЕГЕНДА</td>
-<td colspan="4">2016</td>
-<td colspan="3">3, 6, 14</td>
-<td>245</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1164.</td>
+<td colspan="6">ЛЕГЕНДА</td>
+<td colspan="9">2016</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">245</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЛИЛОС</td>
-<td colspan="4">2014</td>
-<td colspan="3">3,14</td>
-<td>236</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1165.</td>
+<td colspan="6">ЛИЛОС</td>
+<td colspan="9">2014</td>
+<td colspan="8">3,14</td>
+<td colspan="8">236</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МАРТЕЗ</td>
-<td colspan="4">2013</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>309</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td>ун</td>
-<td>зг</td>
-<td></td>
+<td>1166.</td>
+<td colspan="6">МАРТЕЗ</td>
+<td colspan="9">2013</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="8">309</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">ун</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МАРФА</td>
-<td colspan="4">2011</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>293</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1167.</td>
+<td colspan="6">МАРФА</td>
+<td colspan="9">2011</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="8">293</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МАТИАС</td>
-<td colspan="4">2013</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>321</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1168.</td>
+<td colspan="6">МАТИАС</td>
+<td colspan="9">2013</td>
+<td colspan="8">
+1,2,3,4,5,6,7,8,9,10,11,
+12,13,14
+</td>
+<td colspan="8">321</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МАХИТОС</td>
-<td colspan="4">2015</td>
-<td colspan="3">3,6,14</td>
-<td>236</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1169.</td>
+<td colspan="6">МАХИТОС</td>
+<td colspan="9">2015</td>
+<td colspan="8">3,6,14</td>
+<td colspan="8">236</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МЕЛОДИЯ</td>
-<td colspan="4">2011</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>293</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1170.</td>
+<td colspan="6">МЕЛОДИЯ</td>
+<td colspan="9">2011</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="8">293</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МЕНХИР</td>
-<td colspan="4">2015</td>
-<td colspan="3">3,6,14</td>
-<td>264</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1171.</td>
+<td colspan="6">МЕНХИР</td>
+<td colspan="9">2015</td>
+<td colspan="8">3,6,14</td>
+<td colspan="8">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МЕРЛИС</td>
-<td colspan="4">2016</td>
-<td colspan="3">3, 6, 14</td>
-<td>247</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1172.</td>
+<td colspan="6">МЕРЛИС</td>
+<td colspan="9">2016</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">247</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
+<td>1173.</td>
+<td colspan="6">
 МОСКОВСКИЙ
 ОСЕННИЙ
 </td>
-<td colspan="4">1981</td>
-<td colspan="3">8,12</td>
-<td>71</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td colspan="9">1981</td>
+<td colspan="8">8,12</td>
+<td colspan="8">71</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>НУРАЙ</td>
-<td colspan="4">2008</td>
-<td colspan="3">3</td>
-<td>21</td>
-<td colspan="2">06</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1174.</td>
+<td colspan="6">НУРАЙ</td>
+<td colspan="9">2008</td>
+<td colspan="8">3</td>
+<td colspan="8">21</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПАНДАРОЗА</td>
-<td colspan="4">2014</td>
-<td colspan="3">3,14</td>
-<td>321</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1175.</td>
+<td colspan="6">ПАНДАРОЗА</td>
+<td colspan="9">2014</td>
+<td colspan="8">3,14</td>
+<td colspan="8">321</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПАРВАТИ</td>
-<td colspan="4">2014</td>
-<td colspan="3">3, 14</td>
-<td>245</td>
-<td colspan="2">06</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1176.</td>
+<td colspan="6">ПАРВАТИ</td>
+<td colspan="9">2014</td>
+<td colspan="8">3, 14</td>
+<td colspan="8">245</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПИНК УНИКУМ</td>
-<td colspan="4">2011</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>293</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1177.</td>
+<td colspan="6">ПИНК УНИКУМ</td>
+<td colspan="9">2011</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="8">293</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>РЕБЕЛЬСКИ</td>
-<td colspan="4">2014</td>
-<td colspan="3">3,14</td>
-<td>321</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1178.</td>
+<td colspan="6">РЕБЕЛЬСКИ</td>
+<td colspan="9">2014</td>
+<td colspan="8">3,14</td>
+<td colspan="8">321</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>РУСИЧ</td>
-<td colspan="4">1988</td>
-<td colspan="3">1,12,13</td>
-<td>118</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1179.</td>
+<td colspan="6">РУСИЧ</td>
+<td colspan="9">1988</td>
+<td colspan="8">1,12,13</td>
+<td colspan="8">118</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СӘНДІ</td>
-<td colspan="4">2013</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>21</td>
-<td colspan="2">04</td>
-<td></td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1180.</td>
+<td colspan="6">СӘНДІ</td>
+<td colspan="9">2013</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СЕРДЦЕ АСТАНЫ</td>
-<td colspan="4">2015</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>21</td>
-<td colspan="2">04</td>
-<td></td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1181.</td>
+<td colspan="6">СЕЙРАН</td>
+<td colspan="9">2017</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СИЛУЭТ</td>
-<td colspan="4">2016</td>
-<td colspan="3">3,6,14</td>
-<td>245</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1182.</td>
+<td colspan="6">СЕРДЦЕ АСТАНЫ®</td>
+<td colspan="9">2015</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СОЛНЕЧНАЯ ЖЕМЧУЖИНА</td>
-<td colspan="4">2013</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>21</td>
-<td colspan="2">04</td>
-<td></td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1183.</td>
+<td colspan="6">СИЛУЭТ</td>
+<td colspan="9">2016</td>
+<td colspan="8">3,6,14</td>
+<td colspan="8">245</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СОЛЬВЕЙГ</td>
-<td colspan="4">1992</td>
-<td colspan="3">2,4,7,8,9,10,11</td>
-<td>118</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1184.</td>
+<td colspan="6">СОЛНЕЧНАЯ ЖЕМЧУЖИНА</td>
+<td colspan="9">2013</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СОНАТО</td>
-<td colspan="4">1982</td>
-<td colspan="3">5</td>
-<td>1</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1185.</td>
+<td colspan="6">СОЛЬВЕЙГ</td>
+<td colspan="9">1992</td>
+<td colspan="8">2,4,7,8,9,10,11</td>
+<td colspan="8">118</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СПРИГЕЛ</td>
-<td colspan="4">2014</td>
-<td colspan="3">3,14</td>
-<td>245</td>
-<td colspan="2">06</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1186.</td>
+<td colspan="6">СОНАТО</td>
+<td colspan="9">1982</td>
+<td colspan="8">5</td>
+<td colspan="8">1</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СТАРБАК</td>
-<td colspan="4">2016</td>
-<td colspan="3">3,6,14</td>
-<td>247</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1187.</td>
+<td colspan="6">СПРИГЕЛ</td>
+<td colspan="9">2014</td>
+<td colspan="8">3,14</td>
+<td colspan="8">245</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СТРИЖ</td>
-<td colspan="4">1988</td>
-<td colspan="3">2,6,10</td>
-<td>65</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1188.</td>
+<td colspan="6">СТАРБАК</td>
+<td colspan="9">2016</td>
+<td colspan="8">3,6,14</td>
+<td colspan="8">247</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СЮЖЕТ</td>
-<td colspan="4">1990</td>
-<td colspan="3">
+<td>1189.</td>
+<td colspan="6">СТРИЖ</td>
+<td colspan="9">1988</td>
+<td colspan="8">2,6,10</td>
+<td colspan="8">65</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1190.</td>
+<td colspan="6">СЮЖЕТ</td>
+<td colspan="9">1990</td>
+<td colspan="8">
 2,4,7,
 10,11
 </td>
-<td>212</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td colspan="8">212</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТЕПЛИЧНЫЙ</td>
-<td colspan="4">2016</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>21</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1191.</td>
+<td colspan="6">ТЕПЛИЧНЫЙ</td>
+<td colspan="9">2016</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="8">21</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТОВИ РОКА</td>
-<td colspan="4">2015</td>
-<td colspan="3">3,6,14</td>
-<td>245</td>
-<td colspan="2">06</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1192.</td>
+<td colspan="6">ТОВИ РОКА</td>
+<td colspan="9">2015</td>
+<td colspan="8">3,6,14</td>
+<td colspan="8">245</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТОВИ СТАР</td>
-<td colspan="4">2015</td>
-<td colspan="3">3,6,14</td>
-<td>245</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1193.</td>
+<td colspan="6">ТОВИ СТАР</td>
+<td colspan="9">2015</td>
+<td colspan="8">3,6,14</td>
+<td colspan="8">245</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТОЛИН</td>
-<td colspan="4">2014</td>
-<td colspan="3">3,14</td>
-<td>245</td>
-<td colspan="2">06</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1194.</td>
+<td colspan="6">ТОЛИН</td>
+<td colspan="9">2014</td>
+<td colspan="8">3,14</td>
+<td colspan="8">245</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТОРЕРО</td>
-<td colspan="4">2016</td>
-<td colspan="3">3, 6, 14</td>
-<td>247</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1195.</td>
+<td colspan="6">ТОМИМАРУ МУЧО</td>
+<td colspan="9">2017</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">321</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТОРТИЛА</td>
-<td colspan="4">1995</td>
-<td colspan="3">3,6</td>
-<td>118</td>
-<td colspan="2"></td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1196.</td>
+<td colspan="6">ТОРЕРО</td>
+<td colspan="9">2016</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">247</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТРЕБОЛ</td>
-<td colspan="4">2014</td>
-<td colspan="3">3,14</td>
-<td>309</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1197.</td>
+<td colspan="6">ТОРРИ</td>
+<td colspan="9">2017</td>
+<td colspan="8">1, 2, 3, 4, 5, 6, 7, 8, 9,10, 11, 12, 13, 14</td>
+<td colspan="8">245</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТРИВЕТ</td>
-<td colspan="4">2016</td>
-<td colspan="3">3, 6, 14</td>
-<td>245</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1198.</td>
+<td colspan="6">ТОРТИЛА</td>
+<td colspan="9">1995</td>
+<td colspan="8">3,6</td>
+<td colspan="8">118</td>
+<td colspan="7"></td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЦАРИН</td>
-<td colspan="4">2016</td>
-<td colspan="3">3, 6, 14</td>
-<td>245</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1199.</td>
+<td colspan="6">ТРЕБОЛ</td>
+<td colspan="9">2014</td>
+<td colspan="8">3,14</td>
+<td colspan="8">309</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШАГАНЭ</td>
-<td colspan="4">1995</td>
-<td colspan="3">
+<td>1200.</td>
+<td colspan="6">ТРИВЕТ</td>
+<td colspan="9">2016</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1201.</td>
+<td colspan="6">ЦАРИН</td>
+<td colspan="9">2016</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="8">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1202.</td>
+<td colspan="6">ШАГАНЭ</td>
+<td colspan="9">1995</td>
+<td colspan="8">
 1,3,5,6,
 8,12,13,14
 </td>
-<td>118</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td colspan="8">118</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШАКИРА</td>
-<td colspan="4">2011</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>293</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1203.</td>
+<td colspan="6">ШАКИРА</td>
+<td colspan="9">2011</td>
+<td colspan="8">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="8">293</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШЕННОН</td>
-<td colspan="4">2006</td>
-<td colspan="3">3,14</td>
-<td>264</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1204.</td>
+<td colspan="6">ШЕННОН</td>
+<td colspan="9">2006</td>
+<td colspan="8">3,14</td>
+<td colspan="8">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЭПИФИЗ</td>
-<td colspan="4">2015</td>
-<td colspan="3">3,6,14</td>
-<td>236</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1205.</td>
+<td colspan="6">ЭПИФИЗ</td>
+<td colspan="9">2015</td>
+<td colspan="8">3,6,14</td>
+<td colspan="8">236</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЭСМИРА</td>
-<td colspan="4">2014</td>
-<td colspan="3">3,14</td>
-<td>236</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1206.</td>
+<td colspan="6">ЭСМИРА</td>
+<td colspan="9">2014</td>
+<td colspan="8">3,14</td>
+<td colspan="8">236</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЮГИДО</td>
-<td colspan="4">2014</td>
-<td colspan="3">3,14</td>
-<td>321</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td>са</td>
-<td>зг</td>
-<td></td>
+<td>1207.</td>
+<td colspan="6">ЮГИДО</td>
+<td colspan="9">2014</td>
+<td colspan="8">3,14</td>
+<td colspan="8">321</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="15">
-Лук репчатый
+<td colspan="56">
+Параграф 6.16 Лук репчатый
 Allium cepa L.
 </td>
 </tr>
 <tr>
-<td colspan="2">АВГУСТИН</td>
-<td>2006</td>
-<td colspan="2">3,13</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1208.</td>
+<td colspan="6">АВГУСТИН</td>
+<td colspan="9">2006</td>
+<td colspan="9">3,13</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">АҚНИЕТ</td>
-<td>2013</td>
-<td colspan="2">3</td>
-<td colspan="3">21</td>
-<td>03</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1209.</td>
+<td colspan="6">АҚНИЕТ®</td>
+<td colspan="9">2013</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">АРАЙ</td>
-<td>1995</td>
-<td colspan="2">1,2,3,4,6,9,12,14</td>
-<td colspan="3">21</td>
-<td>05</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1210.</td>
+<td colspan="6">АРАЙ</td>
+<td colspan="9">1995</td>
+<td colspan="9">1,2,3,4,6,9,12,14</td>
+<td colspan="7">21</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">БАНКО</td>
-<td>2004</td>
-<td colspan="2">3</td>
-<td colspan="3">245</td>
-<td>02</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1211.</td>
+<td colspan="6">БАНКО</td>
+<td colspan="9">2004</td>
+<td colspan="9">3</td>
+<td colspan="7">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">
-БЕССОНОВСКИЙ
-МЕСТНЫЙ
+<td>1212.</td>
+<td colspan="6">БЕССОНОВСКИЙ МЕСТНЫЙ</td>
+<td colspan="9">1943</td>
+<td colspan="9">1,5,7,10</td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1213.</td>
+<td colspan="6">БОСКО</td>
+<td colspan="9">2014</td>
+<td colspan="9">3, 12</td>
+<td colspan="7">245</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1214.</td>
+<td colspan="6">БРАТКО</td>
+<td colspan="9">2014</td>
+<td colspan="9">12,14</td>
+<td colspan="7">245</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1215.</td>
+<td colspan="6">БУРСА</td>
+<td colspan="9">2015</td>
+<td colspan="9">1,3</td>
+<td colspan="7">245</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1216.</td>
+<td colspan="6">ДАКАПО</td>
+<td colspan="9">2010</td>
+<td colspan="9">13</td>
+<td colspan="7">294</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1217.</td>
+<td colspan="6">ДАЙТОНА</td>
+<td colspan="9">2006</td>
+<td colspan="9">3</td>
+<td colspan="7">221</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1218.</td>
+<td colspan="6">ДАР КАЙНАРА®</td>
+<td colspan="9">2012</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1219.</td>
+<td colspan="6">ЕКЗАКТА</td>
+<td colspan="9">2011</td>
+<td colspan="9">6</td>
+<td colspan="7">293</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1220.</td>
+<td colspan="6">ИГИЛИК</td>
+<td colspan="9">2001</td>
+<td colspan="9">3,6,14</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1221.</td>
+<td colspan="6">КАЗАХСТАНСКИЙ РАННИЙ</td>
+<td colspan="9">2015</td>
+<td colspan="9">2, 3, 12</td>
+<td colspan="7">21</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1222.</td>
+<td colspan="6">КАРАТАЛЬСКИЙ</td>
+<td colspan="9">1959</td>
+<td colspan="9">
+1,2,3,4,5,6,7,8,9,10,11,
+12,13,14
 </td>
-<td>1943</td>
-<td colspan="2">1,5,7,10</td>
-<td colspan="3">1</td>
-<td>02</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td colspan="7">26</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">БОСКО</td>
-<td>2014</td>
-<td colspan="2">3, 12</td>
-<td colspan="3">245</td>
-<td>06</td>
-<td colspan="2">F1</td>
-<td>са</td>
-<td colspan="2"></td>
-<td></td>
+<td>1223.</td>
+<td colspan="6">КЕНДИ</td>
+<td colspan="9">2011</td>
+<td colspan="9">3</td>
+<td colspan="7">293</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">БРАТКО</td>
-<td>2014</td>
-<td colspan="2">12</td>
-<td colspan="3">245</td>
-<td>05</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1224.</td>
+<td colspan="6">МАНАС</td>
+<td colspan="9">2009</td>
+<td colspan="9">3</td>
+<td colspan="7">221</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">БУРСА</td>
-<td>2015</td>
-<td colspan="2">1,3</td>
-<td colspan="3">245</td>
-<td>03</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1225.</td>
+<td colspan="6">МАРКЕТ</td>
+<td colspan="9">2011</td>
+<td colspan="9">3</td>
+<td colspan="7">321</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ДАКАПО</td>
-<td>2010</td>
-<td colspan="2">13</td>
-<td colspan="3">294</td>
-<td>04</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1226.</td>
+<td colspan="6">МЕРЕКЕ</td>
+<td colspan="9">1992</td>
+<td colspan="9">1,3,6,7,8,9,12,13,14</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ДАЙТОНА</td>
-<td>2006</td>
-<td colspan="2">3</td>
-<td colspan="3">221</td>
-<td>04</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1227.</td>
+<td colspan="6">МИССИСИПИ</td>
+<td colspan="9">2016</td>
+<td colspan="9">14</td>
+<td colspan="7">247</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ДАР КАЙНАРА</td>
-<td>2012</td>
-<td colspan="2">3</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1228.</td>
+<td colspan="6">МОУШИН</td>
+<td colspan="9">2015</td>
+<td colspan="9">1,12</td>
+<td colspan="7">245</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ЕКЗАКТА</td>
-<td>2011</td>
-<td colspan="2">6</td>
-<td colspan="3">293</td>
-<td>02</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1229.</td>
+<td colspan="6">СВЕЙЛ</td>
+<td colspan="9">2015</td>
+<td colspan="9">14</td>
+<td colspan="7">321</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">ИГИЛИК</td>
-<td>2001</td>
-<td colspan="2">3,6,14</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1230.</td>
+<td colspan="6">СОКОЛ</td>
+<td colspan="9">2009</td>
+<td colspan="9">14</td>
+<td colspan="7">21</td>
+<td colspan="7">06</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">КАЗАХСТАНСКИЙ РАННИЙ</td>
-<td>2015</td>
-<td colspan="2">2, 3, 12</td>
-<td colspan="3">21</td>
-<td>02</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1231.</td>
+<td colspan="6">СОНЕСТА</td>
+<td colspan="9">2003</td>
+<td colspan="9">13</td>
+<td colspan="7">245</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">КАРАТАЛЬСКИЙ</td>
-<td>1959</td>
-<td colspan="2">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td colspan="3">26</td>
-<td>02</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1232.</td>
+<td colspan="6">СТРИГУНОВСКИЙ МЕСТНЫЙ</td>
+<td colspan="9">1943</td>
+<td colspan="9">1,2,4,5,7,8, 12</td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">КЕНДИ</td>
-<td>2011</td>
-<td colspan="2">3</td>
-<td colspan="3">293</td>
-<td>02</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1233.</td>
+<td colspan="6">ТАБЫС</td>
+<td colspan="9">1993</td>
+<td colspan="9">1,2,4,10,13</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">МАНАС</td>
-<td>2009</td>
-<td colspan="2">3</td>
-<td colspan="3">221</td>
-<td>04</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1234.</td>
+<td colspan="6">ТАЛИСМАН</td>
+<td colspan="9">2011</td>
+<td colspan="9">14</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">МАРКЕТ</td>
-<td>2011</td>
-<td colspan="2">3</td>
-<td colspan="3">321</td>
-<td>04</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1235.</td>
+<td colspan="6">ТАМАРА</td>
+<td colspan="9">1999</td>
+<td colspan="9">5</td>
+<td colspan="7">221</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">МЕРЕКЕ</td>
-<td>1992</td>
-<td colspan="2">1,3,6,7,8,9,12,13,14</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1236.</td>
+<td colspan="6">ТЕМПТЕЙШН</td>
+<td colspan="9">2015</td>
+<td colspan="9">1,3</td>
+<td colspan="7">245</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">МИССИСИПИ</td>
-<td>2016</td>
-<td colspan="2">14</td>
-<td colspan="3">247</td>
-<td>04</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1237.</td>
+<td colspan="6">УНИВЕРСО</td>
+<td colspan="9">2008</td>
+<td colspan="9">3,6,14</td>
+<td colspan="7">264</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">МОУШИН</td>
-<td>2015</td>
-<td colspan="2">1</td>
-<td colspan="3">245</td>
-<td>04</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1238.</td>
+<td colspan="6">ХИЛТОН</td>
+<td colspan="9">2014</td>
+<td colspan="9">12</td>
+<td colspan="7">245</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6">са, кн</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">СВЕЙЛ</td>
-<td>2015</td>
-<td colspan="2">14</td>
-<td colspan="3">321</td>
-<td>02</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1239.</td>
+<td colspan="6">ШЕНГИЛЬДИНСКИЙ</td>
+<td colspan="9">2013</td>
+<td colspan="9">3,6</td>
+<td colspan="7">21</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">СОКОЛ</td>
-<td>2009</td>
-<td colspan="2">14</td>
-<td colspan="3">21</td>
-<td>06</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1240.</td>
+<td colspan="6">РХ 7713119</td>
+<td colspan="9">2015</td>
+<td colspan="9">14</td>
+<td colspan="7">321</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">СОНЕСТА</td>
-<td>2003</td>
-<td colspan="2">13</td>
-<td colspan="3">245</td>
-<td>03</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">СТРИГУНОВСКИЙ МЕСТНЫЙ</td>
-<td>1943</td>
-<td colspan="2">1,2,4,5,7,8, 12</td>
-<td colspan="3">1</td>
-<td>02</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">ТАБЫС</td>
-<td>1993</td>
-<td colspan="2">1,2,4,10,13</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">ТАЛИСМАН</td>
-<td>2011</td>
-<td colspan="2">14</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">ТАМАРА</td>
-<td>1999</td>
-<td colspan="2">5</td>
-<td colspan="3">221</td>
-<td>03</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">ТЕМПТЕЙШН</td>
-<td>2015</td>
-<td colspan="2">1,3</td>
-<td colspan="3">245</td>
-<td>03</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">УНИВЕРСО</td>
-<td>2008</td>
-<td colspan="2">3,6,14</td>
-<td colspan="3">264</td>
-<td>04</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">ХИЛТОН</td>
-<td>2014</td>
-<td colspan="2">12</td>
-<td colspan="3">245</td>
-<td>03</td>
-<td colspan="2">F1</td>
-<td>са, кн</td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">ШЕНГИЛЬДИНСКИЙ</td>
-<td>2013</td>
-<td colspan="2">3,6</td>
-<td colspan="3">21</td>
-<td>05</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">РХ 7713119</td>
-<td>2015</td>
-<td colspan="2">14</td>
-<td colspan="3">321</td>
-<td>02</td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="15">
-Лук батун
+<td colspan="56">
+Параграф 6.17 Лук батун
 Allium fistulosum L.
 </td>
 </tr>
 <tr>
-<td>ЛУК БАТУН</td>
-<td colspan="3">1964</td>
-<td>5</td>
-<td colspan="3">1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1241.</td>
+<td colspan="6">ЛУК БАТУН</td>
+<td colspan="9">1964</td>
+<td colspan="9">5</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>САВЕЛ</td>
-<td colspan="3">2009</td>
-<td>3</td>
-<td colspan="3">294</td>
-<td></td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1242.</td>
+<td colspan="6">САВЕЛ</td>
+<td colspan="9">2009</td>
+<td colspan="9">3</td>
+<td colspan="7">294</td>
+<td colspan="7"></td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Лук шалот
+<td colspan="56">
+Параграф 6.18 Лук шалот
 Allium ascalonicum L.
 </td>
 </tr>
 <tr>
-<td>ВОДОЛЕЙ</td>
-<td colspan="3">2003</td>
-<td>3</td>
-<td colspan="3">21</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1243.</td>
+<td colspan="6">ВОДОЛЕЙ</td>
+<td colspan="9">2003</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАЙНАРСКИЙ</td>
-<td colspan="3">1982</td>
-<td>1,3,9,10,12,13</td>
-<td colspan="3">21</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1244.</td>
+<td colspan="6">КАЙНАРСКИЙ</td>
+<td colspan="9">1982</td>
+<td colspan="9">1,3,9,10,12,13</td>
+<td colspan="7">21</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Лук порей
+<td>1245.</td>
+<td colspan="6">СОЛНЫШКО</td>
+<td colspan="9">2017</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">02</td>
+<td colspan="4">с</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 6.19 Лук порей
 Allium porrum L.
 </td>
 </tr>
 <tr>
-<td>ГОЛИАФ</td>
-<td colspan="3">2003</td>
-<td>3</td>
-<td colspan="3">236</td>
-<td></td>
-<td colspan="2">F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1246.</td>
+<td colspan="6">ГОЛИАФ</td>
+<td colspan="9">2003</td>
+<td colspan="9">3</td>
+<td colspan="7">236</td>
+<td colspan="7"></td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Чеснок
+<td colspan="56">
+Параграф 6.20 Чеснок
 Allium sativum L.
 </td>
 </tr>
 <tr>
-<td>АРМАН</td>
-<td colspan="3">1997</td>
-<td>1,3,5</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">оз</td>
-<td></td>
+<td>1247.</td>
+<td colspan="6">АРМАН</td>
+<td colspan="9">1997</td>
+<td colspan="9">1,3,5</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">оз</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АЛПАМЫС</td>
-<td colspan="3">2014</td>
-<td>3</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">оз</td>
-<td></td>
+<td>1248.</td>
+<td colspan="6">АЛПАМЫС</td>
+<td colspan="9">2014</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">оз</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АСЫЛ</td>
-<td colspan="3">2016</td>
-<td>3</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">оз</td>
-<td></td>
+<td>1249.</td>
+<td colspan="6">АСЫЛ®</td>
+<td colspan="9">2016</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">оз</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ДУНГАНСКИЙ
-МЕСТНЫЙ
-</td>
-<td colspan="3">1959</td>
-<td>6,14</td>
-<td colspan="3">1</td>
-<td>04</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">оз</td>
-<td></td>
+<td>1250.</td>
+<td colspan="6">ДУНГАНСКИЙ МЕСТНЫЙ</td>
+<td colspan="9">1959</td>
+<td colspan="9">6,14</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">оз</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЗАИЛИЙСКИЙ</td>
-<td colspan="3">1955</td>
-<td>3,5,8,9,10,11,12,14</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">оз</td>
-<td></td>
+<td>1251.</td>
+<td colspan="6">ЗАИЛИЙСКИЙ</td>
+<td colspan="9">1955</td>
+<td colspan="9">3,5,8,9,10,11,12,14</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">оз</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-КАЛИНИНСКИЙ
-МЕСТНЫЙ
-</td>
-<td colspan="3">1964</td>
-<td>1,7,10,13</td>
-<td colspan="3">1</td>
-<td>04</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">яр</td>
-<td></td>
+<td>1252.</td>
+<td colspan="6">КАЛИНИНСКИЙ МЕСТНЫЙ</td>
+<td colspan="9">1964</td>
+<td colspan="9">1,7,10,13</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">яр</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МЕРЕЙ</td>
-<td colspan="3">2014</td>
-<td>3,6</td>
-<td colspan="3">21</td>
-<td>04</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">оз</td>
-<td></td>
+<td>1253.</td>
+<td colspan="6">МЕРЕЙ</td>
+<td colspan="9">2014</td>
+<td colspan="9">3,6,14</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">оз</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>НИКИ</td>
-<td colspan="3">2011</td>
-<td>3, 5, 12</td>
-<td colspan="3">21</td>
-<td>03</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">оз</td>
-<td></td>
+<td>1254.</td>
+<td colspan="6">НИКИ</td>
+<td colspan="9">2011</td>
+<td colspan="9">3, 5, 12</td>
+<td colspan="7">21</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">оз</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПАРУС</td>
-<td colspan="3">1988</td>
-<td>3,5,6,9,12</td>
-<td colspan="3">77</td>
-<td>04</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">оз</td>
-<td></td>
+<td>1255.</td>
+<td colspan="6">ПАРУС</td>
+<td colspan="9">1988</td>
+<td colspan="9">3,5,6,9,12</td>
+<td colspan="7">77</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">оз</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ЮБИЛЕЙНЫЙ
-ГРИБОВСКИЙ
-</td>
-<td colspan="3">1981</td>
-<td>1,3,6,10</td>
-<td colspan="3">71</td>
-<td>05</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1256.</td>
+<td colspan="6">ЮБИЛЕЙНЫЙ ГРИБОВСКИЙ</td>
+<td colspan="9">1981</td>
+<td colspan="9">1,3,6,10</td>
+<td colspan="7">71</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Морковь столовая
+<td colspan="56">
+Параграф 6.21 Морковь столовая
 Daucus carota L
 </td>
 </tr>
 <tr>
-<td>АБАКО</td>
-<td colspan="3">2011</td>
-<td colspan="3">3</td>
-<td>293</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1257.</td>
+<td colspan="6">АБАКО</td>
+<td colspan="9">2011</td>
+<td colspan="9">3,12</td>
+<td colspan="7">293</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АЛАУ</td>
-<td colspan="3">2011</td>
-<td colspan="3">3</td>
-<td>21</td>
-<td colspan="2">04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1258.</td>
+<td colspan="6">АЛАУ</td>
+<td colspan="9">2011</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ВИТАМИННАЯ 6</td>
-<td colspan="3">1989</td>
-<td colspan="3">1,10,12,13</td>
-<td>65</td>
-<td colspan="2">04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1259.</td>
+<td colspan="6">ВИТАМИННАЯ 6</td>
+<td colspan="9">1989</td>
+<td colspan="9">1,10,12,13</td>
+<td colspan="7">65</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ДЕРБЕС</td>
-<td colspan="3">2013</td>
-<td colspan="3">1,3</td>
-<td>21</td>
-<td colspan="2">04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1260.</td>
+<td colspan="6">ДЕРБЕС</td>
+<td colspan="9">2013</td>
+<td colspan="9">1,3</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ДОРДОНЬ</td>
-<td colspan="3">2014</td>
-<td colspan="3">3</td>
-<td>245</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1261.</td>
+<td colspan="6">ДОРДОНЬ</td>
+<td colspan="9">2014</td>
+<td colspan="9">3</td>
+<td colspan="7">245</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАРОТАН</td>
-<td colspan="3">2015</td>
-<td colspan="3">3</td>
-<td>236</td>
-<td colspan="2">05</td>
-<td>F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1262.</td>
+<td colspan="6">КАРОТАН</td>
+<td colspan="9">2015</td>
+<td colspan="9">3</td>
+<td colspan="7">236</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАСКАД</td>
-<td colspan="3">2008</td>
-<td colspan="3">3</td>
-<td>221</td>
-<td colspan="2">06</td>
-<td>F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1263.</td>
+<td colspan="6">КАСКАД</td>
+<td colspan="9">2008</td>
+<td colspan="9">3</td>
+<td colspan="7">221</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАРСОН</td>
-<td colspan="3">2000</td>
-<td colspan="3">10</td>
-<td>221</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1264.</td>
+<td colspan="6">КАРСОН</td>
+<td colspan="9">2000</td>
+<td colspan="9">10</td>
+<td colspan="7">221</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МАГНО</td>
-<td colspan="3">2002</td>
-<td colspan="3">13</td>
-<td>236</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1265.</td>
+<td colspan="6">МАГНО</td>
+<td colspan="9">2002</td>
+<td colspan="9">13</td>
+<td colspan="7">236</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-МИРЗОИ
-КРАСНАЯ 228
+<td>1266.</td>
+<td colspan="6">МИРЗОИ КРАСНАЯ 228</td>
+<td colspan="9">1962</td>
+<td colspan="9">14</td>
+<td colspan="7">195</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1267.</td>
+<td colspan="6">МОНАНТА</td>
+<td colspan="9">2014</td>
+<td colspan="9">3,9</td>
+<td colspan="7">236</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1268.</td>
+<td colspan="6">НАНТСКАЯ 4</td>
+<td colspan="9">1943</td>
+<td colspan="9">
+1,2,3,4,5,6,7,8,9,10,11,
+12,13,14
 </td>
-<td colspan="3">1962</td>
-<td colspan="3">14</td>
-<td>195</td>
-<td colspan="2">04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td colspan="7">71</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МОНАНТА</td>
-<td colspan="3">2014</td>
-<td colspan="3">3,9</td>
-<td>236</td>
-<td colspan="2">02</td>
-<td>F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1269.</td>
+<td colspan="6">РЕДКО</td>
+<td colspan="9">2016</td>
+<td colspan="9">12</td>
+<td colspan="7">245</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>НАНТСКАЯ 4</td>
-<td colspan="3">1943</td>
-<td colspan="3">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>71</td>
-<td colspan="2">04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1270.</td>
+<td colspan="6">РОГНЕДА</td>
+<td colspan="9">1988</td>
+<td colspan="9">6,7</td>
+<td colspan="7">77</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>РЕДКО</td>
-<td colspan="3">2016</td>
-<td colspan="3">12</td>
-<td>245</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1271.</td>
+<td colspan="6">РОЯЛ ФОРТО</td>
+<td colspan="9">2010</td>
+<td colspan="9">3</td>
+<td colspan="7">293</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>РОГНЕДА</td>
-<td colspan="3">1988</td>
-<td colspan="3">6,7</td>
-<td>77</td>
-<td colspan="2">04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1272.</td>
+<td colspan="6">РОЯЛ ШАНСОН</td>
+<td colspan="9">2011</td>
+<td colspan="9">3</td>
+<td colspan="7">293</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>РОЯЛ ФОРТО</td>
-<td colspan="3">2010</td>
-<td colspan="3">3</td>
-<td>293</td>
-<td colspan="2">04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1273.</td>
+<td colspan="6">ТИП ТОП</td>
+<td colspan="9">2003</td>
+<td colspan="9">3</td>
+<td colspan="7">245</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>РОЯЛ ШАНСОН</td>
-<td colspan="3">2011</td>
-<td colspan="3">3</td>
-<td>293</td>
-<td colspan="2">04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1274.</td>
+<td colspan="6">ТРОФИ</td>
+<td colspan="9">2003</td>
+<td colspan="9">13</td>
+<td colspan="7">245</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТИП ТОП</td>
-<td colspan="3">2003</td>
-<td colspan="3">3</td>
-<td>245</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1275.</td>
+<td colspan="6">ҰШҚЫН</td>
+<td colspan="9">2016</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТРОФИ</td>
-<td colspan="3">2003</td>
-<td colspan="3">13</td>
-<td>245</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>ҰШҚЫН</td>
-<td colspan="3">2016</td>
-<td colspan="3">3</td>
-<td>21</td>
-<td colspan="2">04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>ШАНТЕНЭ 2461</td>
-<td colspan="3">1943</td>
-<td colspan="3">
+<td>1276.</td>
+<td colspan="6">ШАНТЕНЭ 2461</td>
+<td colspan="9">1943</td>
+<td colspan="9">
 1,2,3,4,5,
 6,7,8,9,10,
 11,12,13,14
 </td>
-<td>87</td>
-<td colspan="2">04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td colspan="7">87</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШАНТАНЕ 2 КОМЕТ</td>
-<td colspan="3">2010</td>
-<td colspan="3">10</td>
-<td>294</td>
-<td colspan="2">06</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1277.</td>
+<td colspan="6">ШАНТАНЕ 2 КОМЕТ</td>
+<td colspan="9">2010</td>
+<td colspan="9">10</td>
+<td colspan="7">294</td>
+<td colspan="7">06</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ФЛАМ</td>
-<td colspan="3">2010</td>
-<td colspan="3">13</td>
-<td>294</td>
-<td colspan="2">06</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1278.</td>
+<td colspan="6">ФЛАМ</td>
+<td colspan="9">2010</td>
+<td colspan="9">13</td>
+<td colspan="7">294</td>
+<td colspan="7">06</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЯГУАР</td>
-<td colspan="3">2006</td>
-<td colspan="3">10</td>
-<td>245</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1279.</td>
+<td colspan="6">ЯГУАР</td>
+<td colspan="9">2006</td>
+<td colspan="9">10</td>
+<td colspan="7">245</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="15">
-Свекла столовая
+<td>1280.</td>
+<td colspan="6">SV 3118 DH</td>
+<td colspan="9">2017</td>
+<td colspan="9">14</td>
+<td colspan="7">321</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 6.22 Свекла столовая
 Beta vulgaris L. ssp. vulgaris var. conditiva Alef.
 </td>
 </tr>
 <tr>
-<td>БОНЕЛ</td>
-<td colspan="3">2010</td>
-<td colspan="2">10</td>
-<td colspan="2">294</td>
-<td colspan="2">03</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>1281.</td>
+<td colspan="6">БОНЕЛ</td>
+<td colspan="9">2010</td>
+<td colspan="9">10</td>
+<td colspan="7">294</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>БОРДО 237</td>
-<td colspan="3">1943</td>
-<td colspan="2">
+<td>1282.</td>
+<td colspan="6">БОРДО 237</td>
+<td colspan="9">1943</td>
+<td colspan="9">
 1,2,3,4,5,6,7,8,9,10,
 11,12,13,14
 </td>
-<td colspan="2">71</td>
-<td colspan="2">03</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="7">71</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>БОРО</td>
-<td colspan="3">2009</td>
-<td colspan="2">3</td>
-<td colspan="2">221</td>
-<td colspan="2">04</td>
-<td>F1</td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>1283.</td>
+<td colspan="6">БОРО</td>
+<td colspan="9">2009</td>
+<td colspan="9">3</td>
+<td colspan="7">221</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ГРАНАТ</td>
-<td colspan="3">2010</td>
-<td colspan="2">10</td>
-<td colspan="2">290</td>
-<td colspan="2">02</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>1284.</td>
+<td colspan="6">ГРАНАТ</td>
+<td colspan="9">2010</td>
+<td colspan="9">10</td>
+<td colspan="7">290</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ДАРИЯ</td>
-<td colspan="3">2016</td>
-<td colspan="2">3</td>
-<td colspan="2">21</td>
-<td colspan="2">03</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>1285.</td>
+<td colspan="6">ДАРИЯ</td>
+<td colspan="9">2016</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ДАРЬЯ</td>
-<td colspan="3">2008</td>
-<td colspan="2">10</td>
-<td colspan="2">295</td>
-<td colspan="2">03</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>1286.</td>
+<td colspan="6">ДАРЬЯ</td>
+<td colspan="9">2008</td>
+<td colspan="9">10</td>
+<td colspan="7">295</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>БОЛТАРДИ</td>
-<td colspan="3">2004</td>
-<td colspan="2">3</td>
-<td colspan="2">245</td>
-<td colspan="2">03</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>1287.</td>
+<td colspan="6">БОЛТАРДИ</td>
+<td colspan="9">2004</td>
+<td colspan="9">3</td>
+<td colspan="7">245</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАПИТАН</td>
-<td colspan="3">2016</td>
-<td colspan="2">8,13</td>
-<td colspan="2">290</td>
-<td colspan="2">03</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>1288.</td>
+<td colspan="6">КАПИТАН</td>
+<td colspan="9">2016</td>
+<td colspan="9">8,13</td>
+<td colspan="7">290</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ҚЫЗЫЛҚОНЫР</td>
-<td colspan="3">2011</td>
-<td colspan="2">3, 6, 14</td>
-<td colspan="2">21</td>
-<td colspan="2">04</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>1289.</td>
+<td colspan="6">ҚЫЗЫЛҚОНЫР</td>
+<td colspan="9">2011</td>
+<td colspan="9">3, 6, 14</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЛАРКА</td>
-<td colspan="3">1999</td>
-<td colspan="2">3</td>
-<td colspan="2">236</td>
-<td colspan="2">03</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>1290.</td>
+<td colspan="6">ЛАРКА</td>
+<td colspan="9">1999</td>
+<td colspan="9">3</td>
+<td colspan="7">236</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЛИБЕРО</td>
-<td colspan="3">2015</td>
-<td colspan="2">12</td>
-<td colspan="2">236</td>
-<td colspan="2">03</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>1291.</td>
+<td colspan="6">ЛИБЕРО</td>
+<td colspan="9">2015</td>
+<td colspan="9">12</td>
+<td colspan="7">236</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МОНОПОЛИЯ-МОДЕЛЛА</td>
-<td colspan="3">2004</td>
-<td colspan="2">13</td>
-<td colspan="2">245</td>
-<td colspan="2">03</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>1292.</td>
+<td colspan="6">МОНОПОЛИЯ-МОДЕЛЛА</td>
+<td colspan="9">2004</td>
+<td colspan="9">13</td>
+<td colspan="7">245</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ОДНОРОСТКОВАЯ</td>
-<td colspan="3">1979</td>
-<td colspan="2">1,5,13</td>
-<td colspan="2">71</td>
-<td colspan="2">06</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>1293.</td>
+<td colspan="6">ОДНОРОСТКОВАЯ</td>
+<td colspan="9">1979</td>
+<td colspan="9">1,5,13</td>
+<td colspan="7">71</td>
+<td colspan="7">06</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПАБЛО</td>
-<td colspan="3">1999</td>
-<td colspan="2">12</td>
-<td colspan="2">221</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>1294.</td>
+<td colspan="6">ПАБЛО</td>
+<td colspan="9">1999</td>
+<td colspan="9">12</td>
+<td colspan="7">221</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>РЕД КЛОУД</td>
-<td colspan="3">2000</td>
-<td colspan="2">3</td>
-<td colspan="2">221</td>
-<td colspan="2">03</td>
-<td>F1</td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>1295.</td>
+<td colspan="6">РЕД КЛОУД</td>
+<td colspan="9">2000</td>
+<td colspan="9">3</td>
+<td colspan="7">221</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ХОЛОДОСТОЙКАЯ 19</td>
-<td colspan="3">1977</td>
-<td colspan="2">2,3,6,10,12</td>
-<td colspan="2">184</td>
-<td colspan="2">03</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>1296.</td>
+<td colspan="6">ХОЛОДОСТОЙКАЯ 19</td>
+<td colspan="9">1977</td>
+<td colspan="9">2,3,6,10,12</td>
+<td colspan="7">184</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="9">
-Репа
+<td colspan="56">
+Параграф 6.23 Репа
 Brassica rapa L.
 </td>
 </tr>
 <tr>
-<td>ПЕТРОВСКАЯ 1</td>
-<td>1964</td>
-<td>1,5,13</td>
-<td>71</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1297.</td>
+<td colspan="6">ПЕТРОВСКАЯ 1</td>
+<td colspan="9">1964</td>
+<td colspan="9">1,5,13</td>
+<td colspan="7">71</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Брюква
+<td colspan="56">
+Параграф 6.24 Брюква
 Brassica napus L
 </td>
 </tr>
 <tr>
-<td>КРАСНОСЕЛЬСКАЯ</td>
-<td>1964</td>
-<td>1,13</td>
-<td>71</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1298.</td>
+<td colspan="6">КРАСНОСЕЛЬСКАЯ</td>
+<td colspan="9">1964</td>
+<td colspan="9">1,13</td>
+<td colspan="7">71</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Редька
+<td colspan="56">
+Параграф 6.25 Редька
 Raphanus sativus L.
 </td>
 </tr>
 <tr>
-<td>ВИЕЛА</td>
-<td>1998</td>
-<td>3</td>
-<td>236</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1299.</td>
+<td colspan="6">ВИЕЛА</td>
+<td colspan="9">1998</td>
+<td colspan="9">3</td>
+<td colspan="7">236</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЗИМНЯЯ КРУГЛАЯ БЕЛАЯ</td>
-<td>1964</td>
-<td>1,5,7,10</td>
-<td>71</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1300.</td>
+<td colspan="6">ЗИМНЯЯ КРУГЛАЯ БЕЛАЯ</td>
+<td colspan="9">1964</td>
+<td colspan="9">1,5,7,10</td>
+<td colspan="7">71</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЗИМНЯЯ КРУГЛАЯ ЧЕРНАЯ</td>
-<td>1964</td>
-<td>
+<td>1301.</td>
+<td colspan="6">ЗИМНЯЯ КРУГЛАЯ ЧЕРНАЯ</td>
+<td colspan="9">1964</td>
+<td colspan="9">
 1,2,3,4,5,8,
 10,12, 13,14
 </td>
-<td>71</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">71</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МАРГЕЛАНСКАЯ</td>
-<td>1966</td>
-<td>1,3,6,13,14</td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1302.</td>
+<td colspan="6">МАРГЕЛАНСКАЯ</td>
+<td colspan="9">1966</td>
+<td colspan="9">1,3,6,13,14</td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ОДЕССКАЯ 5</td>
-<td>1964</td>
-<td>1,5,7,8,12</td>
-<td>166</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1303.</td>
+<td colspan="6">ОДЕССКАЯ 5</td>
+<td colspan="9">1964</td>
+<td colspan="9">1,5,7,8,12</td>
+<td colspan="7">166</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СУДАРУШКА</td>
-<td>1992</td>
-<td>8</td>
-<td>175</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1304.</td>
+<td colspan="6">СУДАРУШКА</td>
+<td colspan="9">1992</td>
+<td colspan="9">8</td>
+<td colspan="7">175</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Редис
+<td colspan="56">
+Параграф 6.26 Редис
 Raphanus sativus L. var. Sativus
-ашық жерге арналған/открытого грунта
+открытого грунта
 </td>
 </tr>
 <tr>
-<td>ДАБЕЛ</td>
-<td>2011</td>
-<td>1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>264</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1305.</td>
+<td colspan="6">ДАБЕЛ</td>
+<td colspan="9">2011</td>
+<td colspan="9">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="7">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ДУНГАНСКИЙ 12/8</td>
-<td>1955</td>
-<td>1,2,3,4,5,7,8,10,11,12,13,14</td>
-<td>21</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1306.</td>
+<td colspan="6">ДУНГАНСКИЙ 12/8</td>
+<td colspan="9">1955</td>
+<td colspan="9">1,2,3,4,5,7,8,10,11,12,13,14</td>
+<td colspan="7">21</td>
+<td colspan="7">06</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЗАРЯ</td>
-<td>1972</td>
-<td>10</td>
-<td>65</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1307.</td>
+<td colspan="6">ЗАРЯ</td>
+<td colspan="9">1972</td>
+<td colspan="9">10</td>
+<td colspan="7">65</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАСПАР</td>
-<td>2015</td>
-<td>1</td>
-<td>245</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1308.</td>
+<td colspan="6">КАСПАР</td>
+<td colspan="9">2015</td>
+<td colspan="9">1,14</td>
+<td colspan="7">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-КОРЕЙСКИЙ
-МЕСТНЫЙ
-</td>
-<td>1951</td>
-<td>1,3,5,6,7,9,12,13,14</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1309.</td>
+<td colspan="6">КОРЕЙСКИЙ МЕСТНЫЙ</td>
+<td colspan="9">1951</td>
+<td colspan="9">1,3,5,6,7,9,12,13,14</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КРАСНЫЙ ВЕЛИКАН</td>
-<td>1991</td>
-<td>3,14</td>
-<td>80</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1310.</td>
+<td colspan="6">КРАСНЫЙ ВЕЛИКАН</td>
+<td colspan="9">1991</td>
+<td colspan="9">3,14</td>
+<td colspan="7">80</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-РОЗОВО-КРАСНЫЙ С
-БЕЛЫМ КОНЧИКОМ
-</td>
-<td>1940</td>
-<td>
+<td>1311.</td>
+<td colspan="6">РОЗОВО-КРАСНЫЙ С БЕЛЫМ КОНЧИКОМ</td>
+<td colspan="9">1940</td>
+<td colspan="9">
 1,2,3,4,5,
 6,7,8,9,
 10,12,13
 </td>
-<td>71,54</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">71,54</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>РОНДЕЕЛ ТЕПЛИЧНЫЙ</td>
-<td>1998</td>
-<td>3</td>
-<td>236</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1312.</td>
+<td colspan="6">РОНДЕЕЛ ТЕПЛИЧНЫЙ</td>
+<td colspan="9">1998</td>
+<td colspan="9">3</td>
+<td colspan="7">236</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СОРА</td>
-<td>2011</td>
-<td>1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>264</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1313.</td>
+<td colspan="6">СОРА</td>
+<td colspan="9">2011</td>
+<td colspan="9">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="7">264</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ГРИБОВСКИЙ</td>
-<td>1991</td>
-<td>8,9</td>
-<td>71</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1314.</td>
+<td colspan="6">СПРИНТЕР</td>
+<td colspan="9">2017</td>
+<td colspan="9">3, 5, 12, 14</td>
+<td colspan="7">366</td>
+<td colspan="7">02</td>
+<td colspan="4">с</td>
+<td colspan="6">ст</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ФЛАЙЕР</td>
-<td>2000</td>
-<td>3</td>
-<td>227</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1315.</td>
+<td colspan="6">ГРИБОВСКИЙ</td>
+<td colspan="9">1991</td>
+<td colspan="9">8,9</td>
+<td colspan="7">71</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ХЕЛРО</td>
-<td>2000</td>
-<td>3</td>
-<td>236</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1316.</td>
+<td colspan="6">ФЛАЙЕР</td>
+<td colspan="9">2000</td>
+<td colspan="9">3</td>
+<td colspan="7">227</td>
+<td colspan="7"></td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">защищенного грунта</td>
+<td>1317.</td>
+<td colspan="6">ХЕЛРО</td>
+<td colspan="9">2000</td>
+<td colspan="9">3</td>
+<td colspan="7">236</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АСКАНИЯ</td>
-<td>2010</td>
-<td>3,10</td>
-<td>290</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td colspan="56">защищенного грунта</td>
 </tr>
 <tr>
-<td colspan="9">
-Петрушка
+<td>1318.</td>
+<td colspan="6">АСКАНИЯ</td>
+<td colspan="9">2010</td>
+<td colspan="9">3,10</td>
+<td colspan="7">290</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 6.27 Петрушка
 Petroselinum crispum (Mill.) Nym. ex A.​W.​Hill
 </td>
 </tr>
 <tr>
-<td>САХАРНАЯ</td>
-<td>1961</td>
-<td>1,3,4,5,7,8,10,12,13,14</td>
-<td>71</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1319.</td>
+<td colspan="6">ГЛОРИЯ</td>
+<td colspan="9">2017</td>
+<td colspan="9">3, 12, 14</td>
+<td colspan="7">366</td>
+<td colspan="7">02</td>
+<td colspan="4">с</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МУСКРАУЗЕ</td>
-<td>2014</td>
-<td>3,6,14</td>
-<td>236</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1320.</td>
+<td colspan="6">САХАРНАЯ</td>
+<td colspan="9">1961</td>
+<td colspan="9">1,3,4,5,7,8,10,12,13,14</td>
+<td colspan="7">71</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
+<td>1321.</td>
+<td colspan="6">МУСКРАУЗЕ</td>
+<td colspan="9">2014</td>
+<td colspan="9">3,6,14</td>
+<td colspan="7">236</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1322.</td>
+<td colspan="6">
 ТКАЧИРУЛИ
 ПОТЛОВАНИ
 </td>
-<td>1990</td>
-<td>2,4,7,10,11</td>
-<td>206</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td colspan="9">1990</td>
+<td colspan="9">2,4,7,10,11</td>
+<td colspan="7">206</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>УРОЖАЙНАЯ</td>
-<td>1986</td>
-<td>6</td>
-<td>180</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1323.</td>
+<td colspan="6">УРОЖАЙНАЯ</td>
+<td colspan="9">1986</td>
+<td colspan="9">6</td>
+<td colspan="7">180</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Пастернак
+<td colspan="56">
+Параграф 6.28 Пастернак
 Pastinaca sativa L.
 </td>
 </tr>
 <tr>
-<td>КРУГЛЫЙ</td>
-<td>1965</td>
-<td>6,8,12,14</td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1324.</td>
+<td colspan="6">КРУГЛЫЙ</td>
+<td colspan="9">1965</td>
+<td colspan="9">6,8,12,14</td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЛУЧШИЙ ИЗ ВСЕХ</td>
-<td>1966</td>
-<td>1,3,7,10,13</td>
-<td>71</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1325.</td>
+<td colspan="6">ЛУЧШИЙ ИЗ ВСЕХ</td>
+<td colspan="9">1966</td>
+<td colspan="9">1,3,7,10,13</td>
+<td colspan="7">71</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Сельдерей
+<td colspan="56">
+Параграф 6.29 Сельдерей
 Apium graveolens L.
 </td>
 </tr>
 <tr>
-<td>КАРТУЛИ</td>
-<td>1987</td>
-<td>1,2,4, 7, 10, 11, 13</td>
-<td>206</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1326.</td>
+<td colspan="6">КАРТУЛИ</td>
+<td colspan="9">1987</td>
+<td colspan="9">1,2,4, 7, 10, 11, 13</td>
+<td colspan="7">206</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПОЛЕЗНАЯ ЗЕЛЕНЬ</td>
-<td>2015</td>
-<td>3</td>
-<td>21</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1327.</td>
+<td colspan="6">ПОЛЕЗНАЯ ЗЕЛЕНЬ</td>
+<td colspan="9">2015</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЯБЛОЧНЫЙ</td>
-<td>1961</td>
-<td>
+<td>1328.</td>
+<td colspan="6">ЯБЛОЧНЫЙ</td>
+<td colspan="9">1961</td>
+<td colspan="9">
 1,3,5,6,7,8,
 12,14
 </td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Базилик овощной
+<td colspan="56">
+Параграф 6.30 Базилик овощной
 Ocimum basilicum L.
 </td>
 </tr>
 <tr>
-<td>БАЛҒЫН</td>
-<td>2015</td>
-<td>3</td>
-<td>21</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1329.</td>
+<td colspan="6">БАЛҒЫН</td>
+<td colspan="9">2015</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Горох сахарный
+<td colspan="56">
+Параграф 6.31 Горох сахарный
 Pisum sativum L.
 </td>
 </tr>
 <tr>
-<td>КАРАГАНДИНСКИЙ 1053</td>
-<td>1953</td>
-<td>1,8,10,12,13</td>
-<td>43</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1330.</td>
+<td colspan="6">КАРАГАНДИНСКИЙ 1053</td>
+<td colspan="9">1953</td>
+<td colspan="9">1,8,10,12,13</td>
+<td colspan="7">43</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СЛАДКИЙ БОБ</td>
-<td>2015</td>
-<td>3</td>
-<td>21</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1331.</td>
+<td colspan="6">СЛАДКИЙ БОБ</td>
+<td colspan="9">2015</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Горох лущильный
+<td colspan="56">
+Параграф 6.32 Горох лущильный
 Pisum sativum L.
 </td>
 </tr>
 <tr>
-<td>АДАГУМСКИЙ</td>
-<td>1992</td>
-<td>1,10</td>
-<td>101</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1332.</td>
+<td colspan="6">АДАГУМСКИЙ</td>
+<td colspan="9">1992</td>
+<td colspan="9">1,10</td>
+<td colspan="7">101</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
+<td>1333.</td>
+<td colspan="6">
 ВОРОНЕЖСКИЙ
 ЗЕЛЕНЫЙ
 </td>
-<td>1990</td>
-<td>3,6,9,14</td>
-<td>77</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="9">1990</td>
+<td colspan="9">3,6,9,14</td>
+<td colspan="7">77</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ДЖОФ</td>
-<td>1997</td>
-<td>3</td>
-<td>224</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1334.</td>
+<td colspan="6">ДЖОФ</td>
+<td colspan="9">1997</td>
+<td colspan="9">3</td>
+<td colspan="7">224</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПОБЕДИТЕЛЬ Г-33</td>
-<td>1943</td>
-<td>
+<td>1335.</td>
+<td colspan="6">ПОБЕДИТЕЛЬ Г-33</td>
+<td colspan="9">1943</td>
+<td colspan="9">
 1,2,4,7,8,
 11,12,13
 </td>
-<td>71</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">71</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ФУГА</td>
-<td>1988</td>
-<td>5,10</td>
-<td>101</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1336.</td>
+<td colspan="6">ФУГА</td>
+<td colspan="9">1988</td>
+<td colspan="9">5,10</td>
+<td colspan="7">101</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="9">
-Соя овощная
+<td colspan="56">
+Параграф 6.33 Соя овощная
 Vegetable soybeam
 </td>
 </tr>
 <tr>
-<td>ИНЖУ</td>
-<td>2012</td>
-<td>3</td>
-<td>21</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1337.</td>
+<td colspan="6">ИНЖУ</td>
+<td colspan="8">2012</td>
+<td colspan="10">3</td>
+<td colspan="7">21</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Фасоль овощная
+<td colspan="56">
+Параграф 6.34 Фасоль овощная
 Phaseolus vulgaris L
 </td>
 </tr>
 <tr>
-<td>ГРИБОВСКАЯ 92</td>
-<td>1943</td>
-<td>2,4,5,7,8,9, 10,11,12</td>
-<td>71</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1338.</td>
+<td colspan="6">ГРИБОВСКАЯ 92</td>
+<td colspan="8">1943</td>
+<td colspan="10">2,4,5,7,8,9, 10,11,12</td>
+<td colspan="7">71</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АССОЛЬ</td>
-<td>2012</td>
-<td>3</td>
-<td>21</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1339.</td>
+<td colspan="6">АССОЛЬ</td>
+<td colspan="8">2012</td>
+<td colspan="10">3</td>
+<td colspan="7">21</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МЕРКУРЕ</td>
-<td>1996</td>
-<td>3</td>
-<td>224</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1340.</td>
+<td colspan="6">МЕРКУРЕ</td>
+<td colspan="8">1996</td>
+<td colspan="10">3</td>
+<td colspan="7">224</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
+<td>1341.</td>
+<td colspan="6">
 ТРИУМФ
 САХАРНЫЙ 764
 </td>
-<td>1943</td>
-<td>
+<td colspan="8">1943</td>
+<td colspan="10">
 1,5,7,9,
 12,13,14
 </td>
-<td>77</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">77</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЭХО</td>
-<td>1996</td>
-<td>3</td>
-<td>224</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1342.</td>
+<td colspan="6">ЭХО</td>
+<td colspan="8">1996</td>
+<td colspan="10">3</td>
+<td colspan="7">224</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Кукуруза сахарная
+<td colspan="56">
+Параграф 6.35 Кукуруза сахарная
 Zea mays L. convar. saccharata Korn.
 </td>
 </tr>
 <tr>
-<td>АРОМАТНАЯ</td>
-<td>1992</td>
-<td>3,6,8,9,14</td>
-<td>170,61</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1343.</td>
+<td colspan="6">АРОМАТНАЯ</td>
+<td colspan="8">1992</td>
+<td colspan="10">3,6,8,9,14</td>
+<td colspan="7">170,61</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>БАЛШЕКЕР 375 СВ</td>
-<td>2014</td>
-<td>3</td>
-<td>18</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1344.</td>
+<td colspan="6">БАЛШЕКЕР 375 СВ</td>
+<td colspan="8">2014</td>
+<td colspan="10">3</td>
+<td colspan="7">18</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>РАННЯЯ ЗОЛОТАЯ 401</td>
-<td>1955</td>
-<td>2,4,7,11,12</td>
-<td>101</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1345.</td>
+<td colspan="6">РАННЯЯ ЗОЛОТАЯ 401</td>
+<td colspan="8">1955</td>
+<td colspan="10">2,4,7,11,12</td>
+<td colspan="7">101</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СПИРИТ</td>
-<td>2015</td>
-<td>1,3</td>
-<td>245</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1346.</td>
+<td colspan="6">СПИРИТ</td>
+<td colspan="8">2015</td>
+<td colspan="10">1,3</td>
+<td colspan="7">245</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТРОФИ</td>
-<td>2011</td>
-<td>3</td>
-<td>293</td>
-<td>02</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>1347.</td>
+<td colspan="6">ТРОФИ</td>
+<td colspan="8">2011</td>
+<td colspan="10">3</td>
+<td colspan="7">293</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ХАНИ БАНТАМ</td>
-<td>2011</td>
-<td>3</td>
-<td>303</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1348.</td>
+<td colspan="6">ХАНИ БАНТАМ</td>
+<td colspan="8">2011</td>
+<td colspan="10">3</td>
+<td colspan="7">303</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШЕБА</td>
-<td>2011</td>
-<td>3</td>
-<td>293</td>
-<td>01</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>1349.</td>
+<td colspan="6">ШЕБА</td>
+<td colspan="8">2011</td>
+<td colspan="10">3</td>
+<td colspan="7">293</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6">ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Перец сладкий
+<td colspan="56">
+Параграф 6.36 Перец сладкий
 Capsicum annuum L. var. grossum (L.) Sendt.
 </td>
 </tr>
 <tr>
-<td>АДЕЛЕ</td>
-<td>2000</td>
-<td>3,8</td>
-<td>227</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1350.</td>
+<td colspan="6">АДЕЛЕ</td>
+<td colspan="8">2000</td>
+<td colspan="10">3,8</td>
+<td colspan="7">227</td>
+<td colspan="7"></td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АРИСТОТЕЛЬ</td>
-<td>2016</td>
-<td>14</td>
-<td>247</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1351.</td>
+<td colspan="6">АРИСТОТЕЛЬ</td>
+<td colspan="8">2016</td>
+<td colspan="10">14</td>
+<td colspan="7">247</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>БАЯН СУЛУ</td>
-<td>2011</td>
-<td>3,6</td>
-<td>21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1352.</td>
+<td colspan="6">БАЯН СУЛУ</td>
+<td colspan="8">2011</td>
+<td colspan="10">3,6</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>БЕНДИГО</td>
-<td>2000</td>
-<td>3,8</td>
-<td>227</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1353.</td>
+<td colspan="6">БЕНДИГО</td>
+<td colspan="8">2000</td>
+<td colspan="10">3,8</td>
+<td colspan="7">227</td>
+<td colspan="7"></td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ДАР ТАШКЕНТА</td>
-<td>1980</td>
-<td>3,14</td>
-<td>195</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1354.</td>
+<td colspan="6">ДАР ТАШКЕНТА</td>
+<td colspan="8">1980</td>
+<td colspan="10">3,14</td>
+<td colspan="7">195</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ДЖЕМИНИ</td>
-<td>2011</td>
-<td>1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>264</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1355.</td>
+<td colspan="6">ДЖЕМИНИ</td>
+<td colspan="8">2011</td>
+<td colspan="10">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="7">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ДЖИПСИ</td>
-<td>2012</td>
-<td>3</td>
-<td>293</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1356.</td>
+<td colspan="6">ДЖИПСИ</td>
+<td colspan="8">2012</td>
+<td colspan="10">3</td>
+<td colspan="7">293</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ИЛАНГА</td>
-<td>2015</td>
-<td>3,6,14</td>
-<td>236</td>
-<td>05</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1357.</td>
+<td colspan="6">ИЛАНГА</td>
+<td colspan="8">2015</td>
+<td colspan="10">3,6,14</td>
+<td colspan="7">236</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАЗ-ТАЙ</td>
-<td>2011</td>
-<td>14</td>
-<td>21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1358.</td>
+<td colspan="6">КАЗ-ТАЙ</td>
+<td colspan="8">2011</td>
+<td colspan="10">14</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КЛАУДИО</td>
-<td>2011</td>
-<td>1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>264</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1359.</td>
+<td colspan="6">КЛАУДИО</td>
+<td colspan="8">2011</td>
+<td colspan="10">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="7">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОЗЫ-КОРПЕШ</td>
-<td>2012</td>
-<td>3</td>
-<td>21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1360.</td>
+<td colspan="6">КОЗЫ-КОРПЕШ</td>
+<td colspan="8">2012</td>
+<td colspan="10">3</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОЛОБОК</td>
-<td>1984</td>
-<td>14</td>
-<td>212</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1361.</td>
+<td colspan="6">КОЛОБОК</td>
+<td colspan="8">1984</td>
+<td colspan="10">14</td>
+<td colspan="7">212</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОРИННА</td>
-<td>2015</td>
-<td>3,6,14</td>
-<td>236</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1362.</td>
+<td colspan="6">КОРИННА</td>
+<td colspan="8">2015</td>
+<td colspan="10">3,6,14</td>
+<td colspan="7">236</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КРАСНОЕ ЧУДО</td>
-<td>2015</td>
-<td>3,14</td>
-<td>21</td>
-<td>04</td>
-<td></td>
-<td>са</td>
-<td></td>
-<td></td>
+<td>1363.</td>
+<td colspan="6">КРАСНОЕ ЧУДО</td>
+<td colspan="8">2015</td>
+<td colspan="10">3,14</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6">са</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЛАСТОЧКА</td>
-<td>1975</td>
-<td>1,2,3,4, 5,6,11,13</td>
-<td>212</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1364.</td>
+<td colspan="6">ЛАСТОЧКА</td>
+<td colspan="8">1975</td>
+<td colspan="10">1,2,3,4, 5,6,11,13</td>
+<td colspan="7">212</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>НЕЖНОСТЬ</td>
-<td>1987</td>
-<td>7,10</td>
-<td>67</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1365.</td>
+<td colspan="6">НЕЖНОСТЬ</td>
+<td colspan="8">1987</td>
+<td colspan="10">7,10</td>
+<td colspan="7">67</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>НИРВИН</td>
-<td>2015</td>
-<td>3,6,14</td>
-<td>236</td>
-<td>06</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1366.</td>
+<td colspan="6">НИРВИН</td>
+<td colspan="8">2015</td>
+<td colspan="10">3,6,14</td>
+<td colspan="7">236</td>
+<td colspan="7">06</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПИОНЕР</td>
-<td>1990</td>
-<td>8,12</td>
-<td>175</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1367.</td>
+<td colspan="6">ПИОНЕР</td>
+<td colspan="8">1990</td>
+<td colspan="10">8,12</td>
+<td colspan="7">175</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ПОДАРОК
-МОЛДОВЫ
-</td>
-<td>1987</td>
-<td>
+<td>1368.</td>
+<td colspan="6">ПОДАРОК МОЛДОВЫ</td>
+<td colspan="8">1987</td>
+<td colspan="10">
 1,3,5,6,8,
 9,10,12,13
 </td>
-<td>212</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td colspan="7">212</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>РЭД НАЙТ</td>
-<td>2013</td>
-<td>1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>321</td>
-<td>02</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>1369.</td>
+<td colspan="6">РЭД НАЙТ</td>
+<td colspan="8">2013</td>
+<td colspan="10">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="7">321</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6">ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>РЕД ДЖЕТ</td>
-<td>2015</td>
-<td>3,6,14</td>
-<td>236</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td>зг</td>
-<td></td>
+<td>1370.</td>
+<td colspan="6">РЕД ДЖЕТ</td>
+<td colspan="8">2015</td>
+<td colspan="10">3,6,14</td>
+<td colspan="7">236</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СНОУВАЙТ</td>
-<td>2015</td>
-<td>14</td>
-<td>236</td>
-<td>04</td>
-<td>F1</td>
-<td>ун</td>
-<td></td>
-<td></td>
+<td>1371.</td>
+<td colspan="6">СНОУВАЙТ</td>
+<td colspan="8">2015</td>
+<td colspan="10">14</td>
+<td colspan="7">236</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6">ун</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТОПОЛИН</td>
-<td>1989</td>
-<td>1,2,4,5,7,13,14</td>
-<td>212</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1372.</td>
+<td colspan="6">ТОПОЛИН</td>
+<td colspan="8">1989</td>
+<td colspan="10">1,2,4,5,7,13,14</td>
+<td colspan="7">212</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ФРАГАТА</td>
-<td>2016</td>
-<td>3,14</td>
-<td>236</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1373.</td>
+<td colspan="6">ФРАГАТА</td>
+<td colspan="8">2016</td>
+<td colspan="10">3,14</td>
+<td colspan="7">236</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Перец острый
+<td colspan="56">
+Параграф 6.37 Перец острый
 Capsicum annuum L. var. longum (DC) Sendt.
 </td>
 </tr>
 <tr>
-<td>АСТРАХАНСКИЙ 147</td>
-<td>1943</td>
-<td>
+<td>1374.</td>
+<td colspan="6">АСТРАХАНСКИЙ 147</td>
+<td colspan="8">1943</td>
+<td colspan="10">
 1,2,3,4,5,
 6,7,8,9,10,
 11,12,13,14
 </td>
-<td>75</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">75</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЕРЕКШЕ</td>
-<td>2012</td>
-<td>3</td>
-<td>21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1375.</td>
+<td colspan="6">ЕРЕКШЕ</td>
+<td colspan="8">2012</td>
+<td colspan="10">3</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПИКАНТ</td>
-<td>2011</td>
-<td>3, 6</td>
-<td>21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1376.</td>
+<td colspan="6">ПИКАНТ</td>
+<td colspan="8">2011</td>
+<td colspan="10">3, 6</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЯНКА</td>
-<td>2016</td>
-<td>3, 14</td>
-<td>236</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1377.</td>
+<td colspan="6">ЯНКА</td>
+<td colspan="8">2016</td>
+<td colspan="10">3, 14</td>
+<td colspan="7">236</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Баклажан
+<td colspan="56">
+Параграф 6.38 Баклажан
 Solanum melongena L.
 </td>
 </tr>
 <tr>
-<td>АЛМАЗ</td>
-<td>1983</td>
-<td>
+<td>1378.</td>
+<td colspan="6">АЛМАЗ</td>
+<td colspan="9">1983</td>
+<td colspan="9">
 1,2,3,4,5,
 6,7,8,9,10,
 11,12,13,14
 </td>
-<td>155</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">155</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КЛОРИНДА</td>
-<td>2010</td>
-<td>3</td>
-<td>293</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1379.</td>
+<td colspan="6">КЛОРИНДА</td>
+<td colspan="9">2010</td>
+<td colspan="9">3</td>
+<td colspan="7">293</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МИЛЕДА</td>
-<td>2003</td>
-<td>3</td>
-<td>245</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1380.</td>
+<td colspan="6">МИЛЕДА</td>
+<td colspan="9">2003</td>
+<td colspan="9">3</td>
+<td colspan="7">245</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЧЕРНЫЙ ПРИНЦ</td>
-<td>2015</td>
-<td>3</td>
-<td>21</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1381.</td>
+<td colspan="6">ЧЕРНЫЙ ПРИНЦ</td>
+<td colspan="9">2015</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШАРАПОВА</td>
-<td>2015</td>
-<td>14</td>
-<td>236</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1382.</td>
+<td colspan="6">ШАРАПОВА</td>
+<td colspan="9">2015</td>
+<td colspan="9">14</td>
+<td colspan="7">236</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Арбуз
+<td colspan="56">
+Параграф 6.39 Арбуз
 Citrullus lanatus (Thund.) Matsum. et Nakai
 </td>
 </tr>
 <tr>
-<td>АЛАКОЛ</td>
-<td>2015</td>
-<td>12</td>
-<td>21</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1383.</td>
+<td colspan="6">АЛАКОЛ</td>
+<td colspan="9">2015</td>
+<td colspan="9">12</td>
+<td colspan="7">21</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АРАШАН</td>
-<td>2015</td>
-<td>3, 12</td>
-<td>245</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1384.</td>
+<td colspan="6">АРАШАН</td>
+<td colspan="9">2015</td>
+<td colspan="9">3, 12,14</td>
+<td colspan="7">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АСАР</td>
-<td>2009</td>
-<td>3</td>
-<td>21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1385.</td>
+<td colspan="6">АСАР</td>
+<td colspan="9">2009</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АСТРАХАНСКИЙ</td>
-<td>1992</td>
-<td>2,4,9,11</td>
-<td>66</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1386.</td>
+<td colspan="6">АСТРАХАНСКИЙ</td>
+<td colspan="9">1992</td>
+<td colspan="9">2,4,9,11</td>
+<td colspan="7">66</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>БАРАКА</td>
-<td>2016</td>
-<td>12</td>
-<td>66</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1387.</td>
+<td colspan="6">БАРАКА</td>
+<td colspan="9">2016</td>
+<td colspan="9">12,14</td>
+<td colspan="7">66</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>БОНТА</td>
-<td>2011</td>
-<td>3</td>
-<td>321</td>
-<td>01</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1388.</td>
+<td colspan="6">БОНТА</td>
+<td colspan="9">2011</td>
+<td colspan="9">3,12</td>
+<td colspan="7">321</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ГРАНИТ</td>
-<td>2002</td>
-<td>3</td>
-<td>245</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1389.</td>
+<td colspan="6">ГРАНИТ</td>
+<td colspan="9">2002</td>
+<td colspan="9">3</td>
+<td colspan="7">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ДОЛБИ</td>
-<td>2014</td>
-<td>9, 14</td>
-<td>264</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1390.</td>
+<td colspan="6">ДОЛБИ</td>
+<td colspan="9">2014</td>
+<td colspan="9">9, 14</td>
+<td colspan="7">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЖЕТЫГЕН</td>
-<td>2010</td>
-<td>3,12</td>
-<td>21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1391.</td>
+<td colspan="6">ЖЕТЫГЕН</td>
+<td colspan="9">2010</td>
+<td colspan="9">3,12</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАРГАЛИНЕЦ</td>
-<td>2007</td>
-<td>2,3</td>
-<td>21</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1392.</td>
+<td colspan="6">КАРГАЛИНЕЦ</td>
+<td colspan="9">2007</td>
+<td colspan="9">2,3</td>
+<td colspan="7">21</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАРИСТАН</td>
-<td>2015</td>
-<td>12</td>
-<td>245</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1393.</td>
+<td colspan="6">КАРИСТАН</td>
+<td colspan="9">2015</td>
+<td colspan="9">9,12</td>
+<td colspan="7">245</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КНЯЖИН</td>
-<td>1990</td>
-<td>2,3,4, 9,12</td>
-<td>178</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1394.</td>
+<td colspan="6">КНЯЖИН</td>
+<td colspan="9">1990</td>
+<td colspan="9">2,3,4, 9,12</td>
+<td colspan="7">178</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КРАСНОСЕМЯННИК</td>
-<td>2004</td>
-<td>5</td>
-<td>21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1395.</td>
+<td colspan="6">КРАСНОСЕМЯННИК</td>
+<td colspan="9">2004</td>
+<td colspan="9">5</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КҮЗДІК</td>
-<td>2016</td>
-<td>9,14</td>
-<td>10</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1396.</td>
+<td colspan="6">КҮЗДІК</td>
+<td colspan="9">2016</td>
+<td colspan="9">9,14</td>
+<td colspan="7">10</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МЕЖДУРЕЧЕНСКИЙ</td>
-<td>1984</td>
-<td>3,5,6</td>
-<td>21</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1397.</td>
+<td colspan="6">МЕЖДУРЕЧЕНСКИЙ</td>
+<td colspan="9">1984</td>
+<td colspan="9">3,5,6</td>
+<td colspan="7">21</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-МЕДОК
-СЕМИПАЛАТИНСКИЙ
-</td>
-<td>2005</td>
-<td>5</td>
-<td>21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1398.</td>
+<td colspan="6">МЕДОК СЕМИПАЛАТИНСКИЙ</td>
+<td colspan="9">2005</td>
+<td colspan="9">5</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МЕЛИТОПОЛЬСКИЙ142</td>
-<td>1940</td>
-<td>
+<td>1399.</td>
+<td colspan="6">МЕЛАНИЯ</td>
+<td colspan="9">2017</td>
+<td colspan="9">14</td>
+<td colspan="7">321</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1400.</td>
+<td colspan="6">МЕЛИТОПОЛЬСКИЙ142</td>
+<td colspan="9">1940</td>
+<td colspan="9">
 4,5,6,7,
 10,11,14
 </td>
-<td>57</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">57</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МОНТАНА</td>
-<td>2014</td>
-<td>3,14</td>
-<td>264</td>
-<td>03</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1401.</td>
+<td colspan="6">МОНТАНА</td>
+<td colspan="9">2014</td>
+<td colspan="9">3,14</td>
+<td colspan="7">264</td>
+<td colspan="7">03</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МРАМОРНЫЙ</td>
-<td>1955</td>
-<td>6,14</td>
-<td>191</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1402.</td>
+<td colspan="6">МРАМОРНЫЙ</td>
+<td colspan="9">1955</td>
+<td colspan="9">6,14</td>
+<td colspan="7">191</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>НИССА</td>
-<td>2011</td>
-<td>3</td>
-<td>293</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1403.</td>
+<td colspan="6">НИССА</td>
+<td colspan="9">2011</td>
+<td colspan="9">3</td>
+<td colspan="7">293</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ОГОНЕК</td>
-<td>1977</td>
-<td>7,8</td>
-<td>175</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1404.</td>
+<td colspan="6">ОГОНЕК</td>
+<td colspan="9">1977</td>
+<td colspan="9">7,8</td>
+<td colspan="7">175</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПАЛАДИН</td>
-<td>2011</td>
-<td>3</td>
-<td>294</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1405.</td>
+<td colspan="6">ПАЛАДИН</td>
+<td colspan="9">2011</td>
+<td colspan="9">3</td>
+<td colspan="7">294</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-РОЗА
-ЮГО-ВОСТОКА
-</td>
-<td>1971</td>
-<td>3,4,5,7,11</td>
-<td>57</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1406.</td>
+<td colspan="6">РОЗА ЮГО-ВОСТОКА</td>
+<td colspan="9">1971</td>
+<td colspan="9">3,4,5,7,11</td>
+<td colspan="7">57</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-РОЯЛ КРИМСОН
-СВИТ
-</td>
-<td>2012</td>
-<td>3</td>
-<td>293</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1407.</td>
+<td colspan="6">РОЯЛ КРИМСОН СВИТ</td>
+<td colspan="9">2012</td>
+<td colspan="9">3</td>
+<td colspan="7">293</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СЕЛЕБРЕЙШН</td>
-<td>2014</td>
-<td>3</td>
-<td>245</td>
-<td>01</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1408.</td>
+<td colspan="6">СЕЛЕБРЕЙШН</td>
+<td colspan="9">2014</td>
+<td colspan="9">3</td>
+<td colspan="7">245</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СЕМЕЙ</td>
-<td>2011</td>
-<td>3</td>
-<td>21</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1409.</td>
+<td colspan="6">СЕМЕЙ</td>
+<td colspan="9">2011</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СИНЧЕВСКИЙ</td>
-<td>1991</td>
-<td>3,6,9,12</td>
-<td>57</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1410.</td>
+<td colspan="6">СИНЧЕВСКИЙ</td>
+<td colspan="9">1991</td>
+<td colspan="9">3,6,9,12</td>
+<td colspan="7">57</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СТОКСА 647/649</td>
-<td>1940</td>
-<td>1,2,4,9,13</td>
-<td>54</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1411.</td>
+<td colspan="6">СТОКСА 647/649</td>
+<td colspan="9">1940</td>
+<td colspan="9">1,2,4,9,13</td>
+<td colspan="7">54</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-СТОКСИК
-СЕМИПАЛАТИНСКИЙ
-</td>
-<td>2005</td>
-<td>3</td>
-<td>21</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1412.</td>
+<td colspan="6">СТОКСИК СЕМИПАЛАТИНСКИЙ</td>
+<td colspan="9">2005</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТАЛИСМАН</td>
-<td>2016</td>
-<td>14</td>
-<td>264</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1413.</td>
+<td colspan="6">ТАЛИСМАН</td>
+<td colspan="9">2016</td>
+<td colspan="9">14</td>
+<td colspan="7">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТОПГАН</td>
-<td>2014</td>
-<td>3, 12, 14</td>
-<td>245</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1414.</td>
+<td colspan="6">ТОПГАН</td>
+<td colspan="9">2014</td>
+<td colspan="9">3, 9,12, 14</td>
+<td colspan="7">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТРОФИ</td>
-<td>2004</td>
-<td>3</td>
-<td>264</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1415.</td>
+<td colspan="6">ТРОФИ</td>
+<td colspan="9">2004</td>
+<td colspan="9">3</td>
+<td colspan="7">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ФАРАО</td>
-<td>2014</td>
-<td>3, 12, 14</td>
-<td>245</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1416.</td>
+<td colspan="6">ФАРАО</td>
+<td colspan="9">2014</td>
+<td colspan="9">3, 9,12, 14</td>
+<td colspan="7">245</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЯРИЛО</td>
-<td>1996</td>
-<td>3</td>
-<td>66</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1417.</td>
+<td colspan="6">ЯРИЛО</td>
+<td colspan="9">1996</td>
+<td colspan="9">3</td>
+<td colspan="7">66</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Дыня
+<td colspan="56">
+Параграф 6.40 Дыня
 Cucumis melo L.
 </td>
 </tr>
 <tr>
-<td>АЛЕНА</td>
-<td>1995</td>
-<td>3,6,9,12</td>
-<td>14</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1418.</td>
+<td colspan="6">АЛЕНА</td>
+<td colspan="9">1995</td>
+<td colspan="9">3,6,9,12</td>
+<td colspan="7">14</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АЛТЫНОЧКА</td>
-<td>2003</td>
-<td>2,3,4,5,6,9,14</td>
-<td>21</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1419.</td>
+<td colspan="6">АЛТЫНОЧКА</td>
+<td colspan="9">2003</td>
+<td colspan="9">2,3,4,5,6,9,14</td>
+<td colspan="7">21</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
+<td>1420.</td>
+<td colspan="6">
 ГУЛЯБИ
 КАРА МЕСТНАЯ
 </td>
-<td>1940</td>
-<td>9</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="9">1940</td>
+<td colspan="9">9</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЕРКЕ</td>
-<td>2016</td>
-<td>3</td>
-<td>21</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1421.</td>
+<td colspan="6">ЕРКЕ</td>
+<td colspan="9">2016</td>
+<td colspan="9">3,9,14</td>
+<td colspan="7">21</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЖАНСАЯ</td>
-<td>2016</td>
-<td>3</td>
-<td>21</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1422.</td>
+<td colspan="6">ЖАНСАЯ</td>
+<td colspan="9">2016</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЖИЕНШАР</td>
-<td>2016</td>
-<td>14</td>
-<td>10</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1423.</td>
+<td colspan="6">ЖИЕНШАР</td>
+<td colspan="9">2016</td>
+<td colspan="9">14</td>
+<td colspan="7">10</td>
+<td colspan="7">05</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ИЛИЙСКАЯ</td>
-<td>1979</td>
-<td>3,6</td>
-<td>21</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1424.</td>
+<td colspan="6">ИЛИЙСКАЯ</td>
+<td colspan="9">1979</td>
+<td colspan="9">3,6</td>
+<td colspan="7">21</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ИЧ-КЗЫЛ 1895</td>
-<td>1940</td>
-<td>6</td>
-<td>191</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1425.</td>
+<td colspan="6">ИЧ-КЗЫЛ 1895</td>
+<td colspan="9">1940</td>
+<td colspan="9">6</td>
+<td colspan="7">191</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
+<td>1426.</td>
+<td colspan="6">
 ИЧ-КЗЫЛ
 КРУПНОПЛОДНАЯ
 </td>
-<td>1973</td>
-<td>14</td>
-<td>195</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="9">1973</td>
+<td colspan="9">14</td>
+<td colspan="7">195</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
+<td>1427.</td>
+<td colspan="6">
 КАЛАЙСАН
 МЕСТНАЯ
 </td>
-<td>1940</td>
-<td>9</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="9">1940</td>
+<td colspan="9">9</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОКЧА 588</td>
-<td>1955</td>
-<td>14</td>
-<td>195</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1428.</td>
+<td colspan="6">КОКЧА 588</td>
+<td colspan="9">1955</td>
+<td colspan="9">14</td>
+<td colspan="7">195</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
+<td>1429.</td>
+<td colspan="6">
 КОЛХОЗНИЦА
 749/753
 </td>
-<td>1945</td>
-<td>1,2,3,4,5,7,8,11,12,13</td>
-<td>54</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="9">1945</td>
+<td colspan="9">1,2,3,4,5,7,8,11,12,13</td>
+<td colspan="7">54</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МАЙСКАЯ</td>
-<td>2007</td>
-<td>3</td>
-<td>21</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1430.</td>
+<td colspan="6">МАЙСКАЯ</td>
+<td colspan="9">2007</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">03</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МАН 12025</td>
-<td>2015</td>
-<td>3</td>
-<td>245</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1431.</td>
+<td colspan="6">ЛИВЕРА</td>
+<td colspan="9">2017</td>
+<td colspan="9">9</td>
+<td colspan="7">31</td>
+<td colspan="7">05</td>
+<td colspan="4">с</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МЕДОВАЯ</td>
-<td>2016</td>
-<td>9,14</td>
-<td>21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1432.</td>
+<td colspan="6">МАЙБЕЛ РЦ</td>
+<td colspan="9">2017</td>
+<td colspan="9">14</td>
+<td colspan="7">236</td>
+<td colspan="7">05</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МУЗА</td>
-<td>2015</td>
-<td>3</td>
-<td>21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1433.</td>
+<td colspan="6">МАН 12025</td>
+<td colspan="9">2015</td>
+<td colspan="9">3</td>
+<td colspan="7">245</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ОЛТЫН-ТЕПЕ</td>
-<td>1990</td>
-<td>6,9</td>
-<td>195</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1434.</td>
+<td colspan="6">МЕДОВАЯ®</td>
+<td colspan="9">2016</td>
+<td colspan="9">9,14</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПРИМА</td>
-<td>2011</td>
-<td>14</td>
-<td>21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1435.</td>
+<td colspan="6">МИРЕЛЛА РЦ</td>
+<td colspan="9">2017</td>
+<td colspan="9">9</td>
+<td colspan="7">236</td>
+<td colspan="7">01</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>РОКСАЛАНА</td>
-<td>2014</td>
-<td>14</td>
-<td>264</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1436.</td>
+<td colspan="6">МУЗА</td>
+<td colspan="9">2015</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СЫРДАРЬЯ</td>
-<td>2010</td>
-<td>9,14</td>
-<td>31</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1437.</td>
+<td colspan="6">ОЛТЫН-ТЕПЕ</td>
+<td colspan="9">1990</td>
+<td colspan="9">6,9</td>
+<td colspan="7">195</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТАИСИЯ</td>
-<td>1999</td>
-<td>3</td>
-<td>21</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1438.</td>
+<td colspan="6">ПРИМА</td>
+<td colspan="9">2011</td>
+<td colspan="9">14</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЧЕМПИОНКА</td>
-<td>2011</td>
-<td>14</td>
-<td>21</td>
-<td>04</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1439.</td>
+<td colspan="6">РЕЙМИЕЛ РЦ</td>
+<td colspan="9">2017</td>
+<td colspan="9">14</td>
+<td colspan="7">236</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШЕКЕР</td>
-<td>2009</td>
-<td>3</td>
-<td>21</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1440.</td>
+<td colspan="6">РОКСАЛАНА</td>
+<td colspan="9">2014</td>
+<td colspan="9">14</td>
+<td colspan="7">264</td>
+<td colspan="7">02</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШУГЫЛА</td>
-<td>2011</td>
-<td>3</td>
-<td>21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1441.</td>
+<td colspan="6">СЫРДАРЬЯ</td>
+<td colspan="9">2010</td>
+<td colspan="9">9,14</td>
+<td colspan="7">31</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЮЖАНКА 12</td>
-<td>2016</td>
-<td>14</td>
-<td>10</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1442.</td>
+<td colspan="6">ТАИСИЯ</td>
+<td colspan="9">1999</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="11">
-Тыква
+<td>1443.</td>
+<td colspan="6">ЧЕМПИОНКА</td>
+<td colspan="9">2011</td>
+<td colspan="9">14</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4">F1</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1444.</td>
+<td colspan="6">ШЕКЕР</td>
+<td colspan="9">2009</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">02</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1445.</td>
+<td colspan="6">ШУГЫЛА</td>
+<td colspan="9">2011</td>
+<td colspan="9">3</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1446.</td>
+<td colspan="6">ЮЖАНКА 12</td>
+<td colspan="9">2016</td>
+<td colspan="9">14</td>
+<td colspan="7">10</td>
+<td colspan="7">04</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 6.41 Тыква
 Cucurbita maxima Duch.
 </td>
 </tr>
 <tr>
-<td>АФРОДИТА</td>
-<td>2004</td>
-<td>3,5</td>
-<td colspan="2">21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1447.</td>
+<td colspan="6">АФРОДИТА</td>
+<td colspan="9">2004</td>
+<td colspan="9">3,5</td>
+<td colspan="7">21</td>
+<td colspan="8">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ВОЛЖСКАЯ СЕРАЯ 92</td>
-<td>1940</td>
-<td>
+<td>1448.</td>
+<td colspan="6">ВОЛЖСКАЯ СЕРАЯ 92</td>
+<td colspan="9">1940</td>
+<td colspan="9">
 2,4,5,7,9,
 11,14
 </td>
-<td colspan="2">57</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td colspan="7">57</td>
+<td colspan="8">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАРИНА</td>
-<td>2003</td>
-<td>
+<td>1449.</td>
+<td colspan="6">КАРИНА</td>
+<td colspan="9">2003</td>
+<td colspan="9">
 2,3,4,5,6,9,
 12,14
 </td>
-<td colspan="2">21</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td colspan="7">21</td>
+<td colspan="8">05</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МИНДАЛЬНАЯ 35</td>
-<td>1962</td>
-<td>1,13</td>
-<td colspan="2">54</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1450.</td>
+<td colspan="6">МИНДАЛЬНАЯ 35</td>
+<td colspan="9">1962</td>
+<td colspan="9">1,13</td>
+<td colspan="7">54</td>
+<td colspan="8">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МОЗОЛЕЕВСКАЯ 10</td>
-<td>1955</td>
-<td>
+<td>1451.</td>
+<td colspan="6">МОЗОЛЕЕВСКАЯ 10</td>
+<td colspan="9">1955</td>
+<td colspan="9">
 1,5,8,9,
 10,12,13
 </td>
-<td colspan="2">21</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td colspan="7">21</td>
+<td colspan="8">05</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МРАМОРНАЯ</td>
-<td>1990</td>
-<td>3</td>
-<td colspan="2">95</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1452.</td>
+<td colspan="6">МРАМОРНАЯ</td>
+<td colspan="9">1990</td>
+<td colspan="9">3</td>
+<td colspan="7">95</td>
+<td colspan="8">05</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="11">
-Кабачок
+<td colspan="56">
+Параграф 6.42 Кабачок
 Cucurbita pepo L. var. giraumonas Duch.
 </td>
 </tr>
 <tr>
-<td>АДАЯ</td>
-<td>1999</td>
-<td>3,13</td>
-<td colspan="2">236</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1453.</td>
+<td colspan="6">АДАЯ</td>
+<td colspan="10">1999</td>
+<td colspan="8">3,13</td>
+<td colspan="7">236</td>
+<td colspan="7">02</td>
+<td colspan="6">F1</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АННА</td>
-<td>1993</td>
-<td>14</td>
-<td colspan="2">205</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1454.</td>
+<td colspan="6">АННА</td>
+<td colspan="10">1993</td>
+<td colspan="8">14</td>
+<td colspan="7">205</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ГЕРАКЛ</td>
-<td>2011</td>
-<td>3</td>
-<td colspan="2">21</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1455.</td>
+<td colspan="6">ГЕРАКЛ</td>
+<td colspan="10">2011</td>
+<td colspan="8">3</td>
+<td colspan="7">21</td>
+<td colspan="7">02</td>
+<td colspan="6">F1</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ГРИБОВСКИЕ 37</td>
-<td>1964</td>
-<td>3,14</td>
-<td colspan="2">71</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1456.</td>
+<td colspan="6">ГРИБОВСКИЕ 37</td>
+<td colspan="10">1964</td>
+<td colspan="8">3,14</td>
+<td colspan="7">71</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЗЛАТО</td>
-<td>2012</td>
-<td>3,5</td>
-<td colspan="2">21</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1457.</td>
+<td colspan="6">ЗЛАТО</td>
+<td colspan="10">2012</td>
+<td colspan="8">3,5</td>
+<td colspan="7">21</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ИСКАНДЕР</td>
-<td>2012</td>
-<td>3</td>
-<td colspan="2">293</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1458.</td>
+<td colspan="6">ИСКАНДЕР</td>
+<td colspan="10">2012</td>
+<td colspan="8">3</td>
+<td colspan="7">293</td>
+<td colspan="7">02</td>
+<td colspan="6">F1</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАВИЛИ</td>
-<td>2011</td>
-<td>3, 6, 14</td>
-<td colspan="2">264</td>
-<td>02</td>
-<td>F1</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1459.</td>
+<td colspan="6">КАВИЛИ</td>
+<td colspan="10">2011</td>
+<td colspan="8">3, 6, 14</td>
+<td colspan="7">264</td>
+<td colspan="7">02</td>
+<td colspan="6">F1</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАРИСМА</td>
-<td>2015</td>
-<td>1,3</td>
-<td colspan="2">245</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1460.</td>
+<td colspan="6">КАРИСМА</td>
+<td colspan="10">2015</td>
+<td colspan="8">1,3</td>
+<td colspan="7">245</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СЦИЛЛИ</td>
-<td>2016</td>
-<td>3</td>
-<td colspan="2">247</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1461.</td>
+<td colspan="6">ОТТО</td>
+<td colspan="10">2017</td>
+<td colspan="8">12</td>
+<td colspan="7">245</td>
+<td colspan="7">02</td>
+<td colspan="6">F1</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЦУКЕША</td>
-<td>1987</td>
-<td>7,10</td>
-<td colspan="2">118</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td colspan="2">зг</td>
-<td></td>
+<td>1462.</td>
+<td colspan="6">СЦИЛЛИ</td>
+<td colspan="10">2016</td>
+<td colspan="8">3</td>
+<td colspan="7">247</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЯКОРЬ</td>
-<td>1988</td>
-<td>
+<td>1463.</td>
+<td colspan="6">ЦУКЕША</td>
+<td colspan="10">1987</td>
+<td colspan="8">7,10</td>
+<td colspan="7">118</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3">зг</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1464.</td>
+<td colspan="6">ЯКОРЬ</td>
+<td colspan="10">1988</td>
+<td colspan="8">
 1,2,4,5,8,
 10,12,13
 </td>
-<td colspan="2">71</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td colspan="7">71</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="11">
-Патиссон
+<td colspan="56">
+Параграф 6.43 Патиссон
 Cucurbita pepo L. var. melopepa d.
 </td>
 </tr>
 <tr>
-<td>БЕЛЫЕ 13</td>
-<td>1972</td>
-<td>3,5,8,12</td>
-<td colspan="2">71</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1465.</td>
+<td colspan="6">БЕЛЫЕ 13</td>
+<td colspan="10">1972</td>
+<td colspan="8">3,5,8,12</td>
+<td colspan="7">71</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ДИСК</td>
-<td>1993</td>
-<td>1,10</td>
-<td colspan="2">71</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1466.</td>
+<td colspan="6">ДИСК</td>
+<td colspan="10">1993</td>
+<td colspan="8">1,10</td>
+<td colspan="7">71</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МЕДУЗА</td>
-<td>2015</td>
-<td>3</td>
-<td colspan="2">21</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1467.</td>
+<td colspan="6">МЕДУЗА</td>
+<td colspan="10">2015</td>
+<td colspan="8">3</td>
+<td colspan="7">21</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="11">
-Кормовые
-Вика озимая
+<td colspan="56">
+Глава 7. Кормовые
+7.1 Вика озимая
 Vicia villosa Roth.
 </td>
 </tr>
 <tr>
-<td>ПОЛТАВСКАЯ 77</td>
-<td>1993</td>
-<td>3</td>
-<td colspan="2">168</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1468.</td>
+<td colspan="6">ПОЛТАВСКАЯ 77</td>
+<td colspan="10">1993</td>
+<td colspan="9">3</td>
+<td colspan="7">168</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="11">
-Вика яровая
+<td colspan="56">
+Параграф 7.2 Вика яровая
 Vicia villosa Roth.
 </td>
 </tr>
 <tr>
-<td>КАМАЛИНСКАЯ 611</td>
-<td>1954</td>
-<td>10</td>
-<td colspan="2">99</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1469.</td>
+<td colspan="6">КАМАЛИНСКАЯ 611</td>
+<td colspan="10">1954</td>
+<td colspan="9">10</td>
+<td colspan="7">99</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЛЬГОВСКАЯ 31-292</td>
-<td>1941</td>
-<td>13</td>
-<td colspan="2">107</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1470.</td>
+<td colspan="6">ЛЬГОВСКАЯ 31-292</td>
+<td colspan="10">1941</td>
+<td colspan="9">13</td>
+<td colspan="7">107</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЛЬГОВСКАЯ 60</td>
-<td>1975</td>
-<td>13</td>
-<td colspan="2">107</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1471.</td>
+<td colspan="6">ЛЬГОВСКАЯ 60</td>
+<td colspan="10">1975</td>
+<td colspan="9">13</td>
+<td colspan="7">107</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ОМИЧКА</td>
-<td>1984</td>
-<td>5</td>
-<td colspan="2">138</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1472.</td>
+<td colspan="6">ОМИЧКА</td>
+<td colspan="10">1984</td>
+<td colspan="9">5</td>
+<td colspan="7">138</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ОМИЧКА 2</td>
-<td>1989</td>
-<td>8,13</td>
-<td colspan="2">138</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1473.</td>
+<td colspan="6">ОМИЧКА 2</td>
+<td colspan="10">1989</td>
+<td colspan="9">8,13</td>
+<td colspan="7">138</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ОМИЧКА 3</td>
-<td>1992</td>
-<td>3,5,12</td>
-<td colspan="2">138</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1474.</td>
+<td colspan="6">ОМИЧКА 3</td>
+<td colspan="10">1992</td>
+<td colspan="9">3,5,12</td>
+<td colspan="7">138</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="11">
-Горох на корм
+<td colspan="56">
+Параграф 7.3 Горох на корм
 Pisum sativum L. sensu lato.
 </td>
 </tr>
 <tr>
-<td>ДОНБАСС</td>
-<td>1984</td>
-<td>13</td>
-<td colspan="2">161</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1475.</td>
+<td colspan="6">ДОНБАСС</td>
+<td colspan="10">1984</td>
+<td colspan="9">13</td>
+<td colspan="7">161</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЗЕРНОГРАДСКИЙ</td>
-<td>1990</td>
-<td>13</td>
-<td colspan="2">83</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1476.</td>
+<td colspan="6">ЗЕРНОГРАДСКИЙ</td>
+<td colspan="10">1990</td>
+<td colspan="9">13</td>
+<td colspan="7">83</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-УРОЖАЙНЫЙ
-КАРАБАЛЫКСКИЙ
-</td>
-<td>1971</td>
-<td>5,10</td>
-<td colspan="2">24</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1477.</td>
+<td colspan="6">УРОЖАЙНЫЙ КАРАБАЛЫКСКИЙ</td>
+<td colspan="10">1971</td>
+<td colspan="9">5,10</td>
+<td colspan="7">24</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-УКОСНЫЙ
-КОРМОВИК
-</td>
-<td>1993</td>
-<td>8</td>
-<td colspan="2">161</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1478.</td>
+<td colspan="6">УКОСНЫЙ КОРМОВИК</td>
+<td colspan="10">1993</td>
+<td colspan="9">8</td>
+<td colspan="7">161</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОРМОВОЙ 24</td>
-<td>1968</td>
-<td>2</td>
-<td colspan="2">211</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1479.</td>
+<td colspan="6">КОРМОВОЙ 24</td>
+<td colspan="10">1968</td>
+<td colspan="9">2</td>
+<td colspan="7">211</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>УКОСНЫЙ 5</td>
-<td>1986</td>
-<td>5</td>
-<td colspan="2">61,153,59</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1480.</td>
+<td colspan="6">УКОСНЫЙ 5</td>
+<td colspan="10">1986</td>
+<td colspan="9">5</td>
+<td colspan="7">61,153,59</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ХАРЬКОВСКИЙ
-УСАТЫЙ
-</td>
-<td>1991</td>
-<td>1</td>
-<td colspan="2">177</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1481.</td>
+<td colspan="6">ХАРЬКОВСКИЙ УСАТЫЙ</td>
+<td colspan="10">1991</td>
+<td colspan="9">1</td>
+<td colspan="7">177</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="11">
-Донник белый
+<td colspan="56">
+Параграф 7.4 Донник белый
 Melilotus alba Medik.
 </td>
 </tr>
 <tr>
-<td>АКБАС</td>
-<td>1990</td>
-<td>1,9,12</td>
-<td colspan="2">19</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1482.</td>
+<td colspan="6">АКБАС®</td>
+<td colspan="10">1990</td>
+<td colspan="9">1,9,12</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АРКАС</td>
-<td>2005</td>
-<td>9</td>
-<td colspan="2">31, 269</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1483.</td>
+<td colspan="6">АРКАС</td>
+<td colspan="10">2005</td>
+<td colspan="9">9</td>
+<td colspan="7">31, 269</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МЕДЕТ</td>
-<td>1972</td>
-<td>13</td>
-<td colspan="2">138</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1484.</td>
+<td colspan="6">МЕДЕТ</td>
+<td colspan="10">1972</td>
+<td colspan="9">13</td>
+<td colspan="7">138</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СРЕТЕНСКИЙ 1Б</td>
-<td>1973</td>
-<td>1,13</td>
-<td colspan="2">86</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1485.</td>
+<td colspan="6">СРЕТЕНСКИЙ 1Б</td>
+<td colspan="10">1973</td>
+<td colspan="9">1,13</td>
+<td colspan="7">86</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШАВЕКЕН</td>
-<td>1986</td>
-<td>2,3,5,12</td>
-<td colspan="2">3</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1486.</td>
+<td colspan="6">ШАВЕКЕН</td>
+<td colspan="10">1986</td>
+<td colspan="9">2,3,5,12</td>
+<td colspan="7">3</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="11">
-Донник желтый
+<td colspan="56">
+Параграф 7.5 Донник желтый
 Melilotus officinalis (L.) Desr.
 </td>
 </tr>
 <tr>
-<td>АЛТЫНБАС</td>
-<td>2015</td>
-<td>1, 8, 12, 13</td>
-<td colspan="2">19</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1487.</td>
+<td colspan="6">АЛТЫНБАС®</td>
+<td colspan="10">2015</td>
+<td colspan="9">1, 8, 12, 13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АЛЬШЕЕВСКИЙ</td>
-<td>1968</td>
-<td>1,2,8,13</td>
-<td colspan="2">50</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1488.</td>
+<td colspan="6">АЛЬШЕЕВСКИЙ</td>
+<td colspan="10">1968</td>
+<td colspan="9">1,2,8,13</td>
+<td colspan="7">50</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАРАБАЛЫКСКИЙ</td>
-<td>1978</td>
-<td>10</td>
-<td colspan="2">24</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1489.</td>
+<td colspan="6">КАРАБАЛЫКСКИЙ</td>
+<td colspan="10">1978</td>
+<td colspan="9">10</td>
+<td colspan="7">24</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОКПЕКТИНСКИЙ</td>
-<td>1993</td>
-<td>5</td>
-<td colspan="2">35</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1490.</td>
+<td colspan="6">КОКПЕКТИНСКИЙ</td>
+<td colspan="10">1993</td>
+<td colspan="9">5</td>
+<td colspan="7">35</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОЛДЫБАНСКИЙ</td>
-<td>1973</td>
-<td>5,7,12</td>
-<td colspan="2">40,97,144</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1491.</td>
+<td colspan="6">КОЛДЫБАНСКИЙ</td>
+<td colspan="10">1973</td>
+<td colspan="9">5,7,12</td>
+<td colspan="7">40,97,144</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ОМСКИЙ
-СКОРОСПЕЛЫЙ
-</td>
-<td>1991</td>
-<td>1,12,13</td>
-<td colspan="2">138,67</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1492.</td>
+<td colspan="6">ОМСКИЙ СКОРОСПЕЛЫЙ</td>
+<td colspan="10">1991</td>
+<td colspan="9">1,12,13</td>
+<td colspan="7">138,67</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>САРБАС</td>
-<td>1994</td>
-<td>1, 3, 5, 8, 9, 10</td>
-<td colspan="2">19</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1493.</td>
+<td colspan="6">САРБАС®</td>
+<td colspan="10">1994</td>
+<td colspan="9">1, 3, 5, 8, 9, 10</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="11">
-Донник зубчатый
+<td colspan="56">
+Параграф 7.6 Донник зубчатый
 Melilotus dentatus Pers.
 </td>
 </tr>
 <tr>
-<td>САРАЙЧИК</td>
-<td>2005</td>
-<td>2,4,7</td>
-<td colspan="2">269</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1494.</td>
+<td colspan="6">САРАЙЧИК®</td>
+<td colspan="10">2005</td>
+<td colspan="9">2,4,7</td>
+<td colspan="7">269</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="11">
-Донник волжский
+<td colspan="56">
+Параграф 7.7 Донник волжский
 Melilotus wolgicus Poir.
 </td>
 </tr>
 <tr>
-<td>БАРС</td>
-<td>2011</td>
-<td>12</td>
-<td colspan="2">19</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1495.</td>
+<td colspan="6">БАРС®</td>
+<td colspan="10">2011</td>
+<td colspan="9">12</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="11">
-Тритикале на корм
+<td colspan="56">
+Параграф 7.8 Тритикале на корм
 Triticosecale Wittmack.
 </td>
 </tr>
 <tr>
-<td>ПРОСТОР</td>
-<td>1987</td>
-<td>14</td>
-<td colspan="2">169</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1496.</td>
+<td colspan="6">ПРОСТОР</td>
+<td colspan="10">1987</td>
+<td colspan="9">14</td>
+<td colspan="7">169</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АЗИАДА</td>
-<td>2014</td>
-<td>3, 6</td>
-<td colspan="2">18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1497.</td>
+<td colspan="6">АЗИАДА</td>
+<td colspan="10">2014</td>
+<td colspan="9">3, 6</td>
+<td colspan="7">18</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОЖА</td>
-<td>2015</td>
-<td>3,6</td>
-<td colspan="2">18</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">оз</td>
-<td></td>
+<td>1498.</td>
+<td colspan="6">КОЖА</td>
+<td colspan="10">2015</td>
+<td colspan="9">3,6</td>
+<td colspan="7">18</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3">оз</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="11">
-Пшеница озимая на корм
+<td colspan="56">
+Параграф 7.9 Пшеница озимая на корм
 Triticum aestivum L. Fiori et Paol.
 </td>
 </tr>
 <tr>
-<td>
+<td>1499.</td>
+<td colspan="6">
 ПИРОТРИКС 50
 (ЗЕРНОКОРМОВАЯ 50)
 </td>
-<td>1992</td>
-<td>3</td>
-<td colspan="2">18,29</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td colspan="10">1992</td>
+<td colspan="9">3</td>
+<td colspan="7">18,29</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="11">
-Рожь озимая на корм
+<td colspan="56">
+Параграф 7.10 Рожь озимая на корм
 Secale cereale L.
 </td>
 </tr>
 <tr>
-<td>ВАХШСКАЯ 128</td>
-<td>1995</td>
-<td>6</td>
-<td colspan="2">213</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1500.</td>
+<td colspan="6">ВАХШСКАЯ 128</td>
+<td colspan="10">1995</td>
+<td colspan="9">6</td>
+<td colspan="7">213</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-КОРМОВАЯ 51
-(тетра)
-</td>
-<td>1988</td>
-<td>3</td>
-<td colspan="2">177</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1501.</td>
+<td colspan="6">КОРМОВАЯ 51 (тетра)</td>
+<td colspan="10">1988</td>
+<td colspan="9">3</td>
+<td colspan="7">177</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПАМИРСКАЯ</td>
-<td>1975</td>
-<td>14</td>
-<td colspan="2">29</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1502.</td>
+<td colspan="6">ПАМИРСКАЯ</td>
+<td colspan="10">1975</td>
+<td colspan="9">14</td>
+<td colspan="7">29</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>САРАТОВСКАЯ 5</td>
-<td>1991</td>
-<td>1,3,13</td>
-<td colspan="2">114</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1503.</td>
+<td colspan="6">САРАТОВСКАЯ 5</td>
+<td colspan="10">1991</td>
+<td colspan="9">1,3,13</td>
+<td colspan="7">114</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-СИБИРСКАЯ
-КОРМОВАЯ
-</td>
-<td>1981</td>
-<td>5</td>
-<td colspan="2">90</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1504.</td>
+<td colspan="6">СИБИРСКАЯ КОРМОВАЯ</td>
+<td colspan="10">1981</td>
+<td colspan="9">5</td>
+<td colspan="7">90</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СНЕЖНАЯ</td>
-<td>1996</td>
-<td>14</td>
-<td colspan="2">90</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1505.</td>
+<td colspan="6">СНЕЖНАЯ</td>
+<td colspan="10">1996</td>
+<td colspan="9">14</td>
+<td colspan="7">90</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЧУЛПАН</td>
-<td>1988</td>
-<td>12,13</td>
-<td colspan="2">51</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1506.</td>
+<td colspan="6">ЧУЛПАН</td>
+<td colspan="10">1988</td>
+<td colspan="9">12,13</td>
+<td colspan="7">51</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="11">
-Ячмень яровой на корм
+<td colspan="56">
+Параграф 7.11 Ячмень яровой на корм
 Hordeum vulgare L.
 </td>
 </tr>
 <tr>
-<td>БОТА</td>
-<td>1997</td>
-<td>1,13</td>
-<td colspan="2">18,40</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1507.</td>
+<td colspan="6">БОТА</td>
+<td colspan="10">1997</td>
+<td colspan="9">1,13</td>
+<td colspan="7">18,40</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ГРАНАЛ</td>
-<td>1992</td>
-<td>1,7,10,13</td>
-<td colspan="2">28</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1508.</td>
+<td colspan="6">ВАКУЛА</td>
+<td colspan="10">2011</td>
+<td colspan="9">3</td>
+<td colspan="7">169</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ДРУЖНЫЙ</td>
-<td>2006</td>
-<td>13</td>
-<td colspan="2">24</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1509.</td>
+<td colspan="6">ГРАНАЛ</td>
+<td colspan="10">1992</td>
+<td colspan="9">1,7,10,13</td>
+<td colspan="7">28</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КЕДР</td>
-<td>1992</td>
-<td>10,13</td>
-<td colspan="2">99</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1510.</td>
+<td colspan="6">ДРУЖНЫЙ</td>
+<td colspan="10">2006</td>
+<td colspan="9">13</td>
+<td colspan="7">24</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ОМСКИЙ ГОЛОЗЕРНЫЙ 1</td>
-<td>2016</td>
-<td>1, 12, 13</td>
-<td colspan="2">138</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1511.</td>
+<td colspan="6">КЕДР</td>
+<td colspan="10">1992</td>
+<td colspan="9">10,13</td>
+<td colspan="7">99</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ОРЕНБУРГСКИЙ
-КОРМОВОЙ
-</td>
-<td>1993</td>
-<td>7</td>
-<td colspan="2">121</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1512.</td>
+<td colspan="6">ОМСКИЙ ГОЛОЗЕРНЫЙ 1</td>
+<td colspan="10">2016</td>
+<td colspan="9">1, 12, 13</td>
+<td colspan="7">138</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПАМЯТИ РАИСЫ</td>
-<td>2014</td>
-<td>1, 5, 8, 10,13</td>
-<td colspan="2">19</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
+<td>1513.</td>
+<td colspan="6">ОРЕНБУРГСКИЙ КОРМОВОЙ</td>
+<td colspan="10">1993</td>
+<td colspan="9">7</td>
+<td colspan="7">121</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="11">
-Овес на корм
+<td>1514.</td>
+<td colspan="6">ПАМЯТИ РАИСЫ®</td>
+<td colspan="10">2014</td>
+<td colspan="9">1, 5, 8, 10,13</td>
+<td colspan="7">19</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 7.12 Овес на корм
 Avena sativa L.
 </td>
 </tr>
 <tr>
-<td>АЛАМАН</td>
-<td>2011</td>
-<td colspan="2">3</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1515.</td>
+<td colspan="6">АЛАМАН</td>
+<td colspan="10">2011</td>
+<td colspan="9">3</td>
+<td colspan="7">18</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-АЛТАЙСКИЙ
-КРУПНОЗЕРНЫЙ
-</td>
-<td>1992</td>
-<td colspan="2">3,6</td>
-<td>47</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1516.</td>
+<td colspan="6">АЛТАЙСКИЙ КРУПНОЗЕРНЫЙ</td>
+<td colspan="10">1992</td>
+<td colspan="9">3,6</td>
+<td colspan="7">47</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АНТЕЙ</td>
-<td>2016</td>
-<td colspan="2">1,10,13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1517.</td>
+<td colspan="6">АНТЕЙ®</td>
+<td colspan="10">2016</td>
+<td colspan="9">1,10,13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АРГЫМАК</td>
-<td>1999</td>
-<td colspan="2">3</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1518.</td>
+<td colspan="6">АРГЫМАК</td>
+<td colspan="10">1999</td>
+<td colspan="9">3</td>
+<td colspan="7">18</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АРМАН</td>
-<td>2010</td>
-<td colspan="2">12</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1519.</td>
+<td colspan="6">АРМАН®</td>
+<td colspan="10">2010</td>
+<td colspan="9">12</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>БАЙГЕ</td>
-<td>2010</td>
-<td colspan="2">12</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1520.</td>
+<td colspan="6">БАЙГЕ</td>
+<td colspan="10">2010</td>
+<td colspan="9">12</td>
+<td colspan="7">18</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>БИТИК</td>
-<td>1998</td>
-<td colspan="2">1,13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1521.</td>
+<td colspan="6">БИТИК</td>
+<td colspan="10">1998</td>
+<td colspan="9">1,13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ИРТЫШ 15</td>
-<td>1994</td>
-<td colspan="2">12,13</td>
-<td>138</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1522.</td>
+<td colspan="6">ИРТЫШ 15</td>
+<td colspan="10">1994</td>
+<td colspan="9">12,13</td>
+<td colspan="7">138</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ИШИМСКИЙ 13</td>
-<td>2016</td>
-<td colspan="2">1,5,13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1523.</td>
+<td colspan="6">ИРТЫШ 21</td>
+<td colspan="10">2017</td>
+<td colspan="9">12, 13</td>
+<td colspan="7">138</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАЗАХСТАНСКИЙ 70</td>
-<td>1992</td>
-<td colspan="2">3,6,14</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1524.</td>
+<td colspan="6">ИРТЫШ 22</td>
+<td colspan="10">2017</td>
+<td colspan="9">10, 13</td>
+<td colspan="7">138</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЛЬГОВСКИЙ 82</td>
-<td>1992</td>
-<td colspan="2">5</td>
-<td>107</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1525.</td>
+<td colspan="6">ИШИМСКИЙ 13</td>
+<td colspan="10">2016</td>
+<td colspan="9">1, 5, 13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ПАМЯТИ
-БОГАЧКОВА
-</td>
-<td>2006</td>
-<td colspan="2">13</td>
-<td>138</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1526.</td>
+<td colspan="6">КАЗАХСТАНСКИЙ 70</td>
+<td colspan="10">1992</td>
+<td colspan="9">3,6,14</td>
+<td colspan="7">18</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>САРЫАГАШ</td>
-<td>2003</td>
-<td colspan="2">14</td>
-<td>29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1527.</td>
+<td colspan="6">КУЛАН</td>
+<td colspan="10">2017</td>
+<td colspan="9">3</td>
+<td colspan="7">18</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>УРАЛ</td>
-<td>1988</td>
-<td colspan="2">8</td>
-<td>243</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1528.</td>
+<td colspan="6">ЛЬГОВСКИЙ 82</td>
+<td colspan="10">1992</td>
+<td colspan="9">5</td>
+<td colspan="7">107</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="11">
-Просо на корм
+<td>1529.</td>
+<td colspan="6">ПАМЯТИ БОГАЧКОВА</td>
+<td colspan="10">2006</td>
+<td colspan="9">13</td>
+<td colspan="7">138</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1530.</td>
+<td colspan="6">САРЫАГАШ</td>
+<td colspan="10">2003</td>
+<td colspan="9">14</td>
+<td colspan="7">29</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1531.</td>
+<td colspan="6">УРАЛ</td>
+<td colspan="10">1988</td>
+<td colspan="9">8</td>
+<td colspan="7">243</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1532.</td>
+<td colspan="6">УРАН</td>
+<td colspan="10">2017</td>
+<td colspan="9">13</td>
+<td colspan="7">138</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 7.13 Просо на корм
 Panicum miliaceum L.
 </td>
 </tr>
 <tr>
-<td>БАРНАУЛЬСКОЕ 98</td>
-<td>2014</td>
-<td colspan="2">5, 10, 13</td>
-<td>288</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1533.</td>
+<td colspan="6">БАРНАУЛЬСКОЕ 98</td>
+<td colspan="10">2014</td>
+<td colspan="9">5, 10, 13</td>
+<td colspan="7">288</td>
+<td colspan="7">02</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОКЧЕТАВСКОЕ 66</td>
-<td>1985</td>
-<td colspan="2">13</td>
-<td>27</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1534.</td>
+<td colspan="6">КОКЧЕТАВСКОЕ 66</td>
+<td colspan="10">1985</td>
+<td colspan="9">13</td>
+<td colspan="7">27</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОРМОВОЕ 2</td>
-<td>1979</td>
-<td colspan="2">8,12</td>
-<td>129</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1535.</td>
+<td colspan="6">КОРМОВОЕ 2</td>
+<td colspan="10">1979</td>
+<td colspan="9">8,12</td>
+<td colspan="7">129</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОРМОВОЕ 89</td>
-<td>1993</td>
-<td colspan="2">1,10,12,13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1536.</td>
+<td colspan="6">КОРМОВОЕ 89®</td>
+<td colspan="10">1993</td>
+<td colspan="9">1,10,12,13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОРМОВОЕ 98</td>
-<td>2003</td>
-<td colspan="2">1,7, 13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1537.</td>
+<td colspan="6">КОРМОВОЕ 98®</td>
+<td colspan="10">2003</td>
+<td colspan="9">1,7, 13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОРМОВОЕ 2008</td>
-<td>2011</td>
-<td colspan="2">3</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1538.</td>
+<td colspan="6">КОРМОВОЕ 2008®</td>
+<td colspan="10">2011</td>
+<td colspan="9">3</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ОМСКОЕ 11</td>
-<td>1994</td>
-<td colspan="2">1</td>
-<td>138</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1539.</td>
+<td colspan="6">ОМСКОЕ 11</td>
+<td colspan="10">1994</td>
+<td colspan="9">1</td>
+<td colspan="7">138</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>САРАТОВСКОЕ 6</td>
-<td>1994</td>
-<td colspan="2">1,2</td>
-<td>114</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1540.</td>
+<td colspan="6">САРАТОВСКОЕ 6</td>
+<td colspan="10">1994</td>
+<td colspan="9">1,2</td>
+<td colspan="7">114</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СТЕПНОЕ</td>
-<td>2010</td>
-<td colspan="2">12, 13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1541.</td>
+<td colspan="6">СТЕПНОЕ</td>
+<td colspan="10">2010</td>
+<td colspan="9">12, 13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЧЕРНОСЕМЯННОЕ 1</td>
-<td>1978</td>
-<td colspan="2">13</td>
-<td>137</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1542.</td>
+<td colspan="6">ЧЕРНОСЕМЯННОЕ 1</td>
+<td colspan="10">1978</td>
+<td colspan="9">13</td>
+<td colspan="7">137</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШОРТАНДИНСКОЕ 7</td>
-<td>1994</td>
-<td colspan="2">1</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1543.</td>
+<td colspan="6">ШОРТАНДИНСКОЕ 7®</td>
+<td colspan="10">1994</td>
+<td colspan="9">1</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШОРТАНДИНСКОЕ 11</td>
-<td>2012</td>
-<td colspan="2">13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1544.</td>
+<td colspan="6">ШОРТАНДИНСКОЕ 11®</td>
+<td colspan="10">2012</td>
+<td colspan="9">13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЯРКОЕ 6</td>
-<td>2016</td>
-<td colspan="2">1, 3, 6, 13,14</td>
-<td>4</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td>1545.</td>
+<td colspan="6">ЯРКОЕ 6</td>
+<td colspan="10">2016</td>
+<td colspan="9">1, 2, 3, 6, 8, 9, 12, 13,14</td>
+<td colspan="7">4</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="9">
-Суданская трава
+<td colspan="56">
+Параграф 7.14 Суданская трава
 Sorghum sudanense (Piper.) Stapf.
 </td>
 </tr>
 <tr>
-<td>АЛИНА</td>
-<td>2016</td>
-<td>1, 12, 13</td>
-<td>30</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1546.</td>
+<td colspan="6">АЛИНА®</td>
+<td colspan="11">2016</td>
+<td colspan="8">1, 12, 13</td>
+<td colspan="7">30</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>БРОДСКАЯ 2</td>
-<td>1954</td>
-<td>2,13</td>
-<td>63</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1547.</td>
+<td colspan="6">БРОДСКАЯ 2</td>
+<td colspan="11">1954</td>
+<td colspan="8">2,13</td>
+<td colspan="7">63</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ДЖУРУНСКАЯ 1</td>
-<td>1975</td>
-<td>2</td>
-<td>3</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1548.</td>
+<td colspan="6">ДЖУРУНСКАЯ 1</td>
+<td colspan="11">1975</td>
+<td colspan="8">2</td>
+<td colspan="7">3</td>
+<td colspan="7">02</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЗЕМЛЯЧКА</td>
-<td>2014</td>
-<td>3, 6, 10, 14</td>
-<td>139</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1549.</td>
+<td colspan="6">ЗЕМЛЯЧКА</td>
+<td colspan="11">2014</td>
+<td colspan="8">3, 6, 10, 14</td>
+<td colspan="7">139</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ИЗУМРУДНАЯ</td>
-<td>1986</td>
-<td>1,5,10</td>
-<td>52</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1550.</td>
+<td colspan="6">ИЗУМРУДНАЯ</td>
+<td colspan="11">1986</td>
+<td colspan="8">1,5,10</td>
+<td colspan="7">52</td>
+<td colspan="7">02</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КИНЕЛЬСКАЯ 100</td>
-<td>1985</td>
-<td>1,7,13</td>
-<td>125</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1551.</td>
+<td colspan="6">КИНЕЛЬСКАЯ 100</td>
+<td colspan="11">1985</td>
+<td colspan="8">1,7,13</td>
+<td colspan="7">125</td>
+<td colspan="7">02</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОЛЛЕКТИВНАЯ 10</td>
-<td>1996</td>
-<td>3</td>
-<td>18,73</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1552.</td>
+<td colspan="6">КОЛЛЕКТИВНАЯ 10</td>
+<td colspan="11">1996</td>
+<td colspan="8">3</td>
+<td colspan="7">18,73</td>
+<td colspan="7">06</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАЗАХСТАНСКАЯ 3</td>
-<td>2004</td>
-<td>3</td>
-<td>18</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1553.</td>
+<td colspan="6">КАЗАХСТАНСКАЯ 3</td>
+<td colspan="11">2004</td>
+<td colspan="8">3</td>
+<td colspan="7">18</td>
+<td colspan="7">06</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ОДЕССКАЯ 25</td>
-<td>1955</td>
-<td>6,7</td>
-<td>169</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1554.</td>
+<td colspan="6">ОДЕССКАЯ 25</td>
+<td colspan="11">1955</td>
+<td colspan="8">6,7</td>
+<td colspan="7">169</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>САРАТОВСКАЯ 1183</td>
-<td>1993</td>
-<td>1,8,13</td>
-<td>114</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1555.</td>
+<td colspan="6">САРАТОВСКАЯ 1183</td>
+<td colspan="11">1993</td>
+<td colspan="8">1,8,13</td>
+<td colspan="7">114</td>
+<td colspan="7">03</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТУГАЙ</td>
-<td>1986</td>
-<td>10</td>
-<td>52</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1556.</td>
+<td colspan="6">ТУГАЙ</td>
+<td colspan="11">1986</td>
+<td colspan="8">10</td>
+<td colspan="7">52</td>
+<td colspan="7">02</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЧИМБАЙСКАЯ 8</td>
-<td>1992</td>
-<td>9</td>
-<td>187</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1557.</td>
+<td colspan="6">ЧИМБАЙСКАЯ 8</td>
+<td colspan="11">1992</td>
+<td colspan="8">9</td>
+<td colspan="7">187</td>
+<td colspan="7">03</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШИРОКОЛИСТНАЯ 2</td>
-<td>1976</td>
-<td>14</td>
-<td>93</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1558.</td>
+<td colspan="6">ШИРОКОЛИСТНАЯ 2</td>
+<td colspan="11">1976</td>
+<td colspan="8">14</td>
+<td colspan="7">93</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Могар
+<td colspan="56">
+Параграф 7.15 Могар
 Setaria italica L., ssp. mocharium Alf.
 </td>
 </tr>
 <tr>
-<td>АЛТАЙСКИЙ 23</td>
-<td>1994</td>
-<td>1</td>
-<td>47</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1559.</td>
+<td colspan="6">АЛТАЙСКИЙ 23</td>
+<td colspan="12">1994</td>
+<td colspan="7">1</td>
+<td colspan="7">47</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>БАРХАТНЫЙ</td>
-<td>1973</td>
-<td>7</td>
-<td>138</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1560.</td>
+<td colspan="6">БАРХАТНЫЙ</td>
+<td colspan="12">1973</td>
+<td colspan="7">7</td>
+<td colspan="7">138</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ВЫСОКОРОСЛЫЙ</td>
-<td>1992</td>
-<td>3</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1561.</td>
+<td colspan="6">ВЫСОКОРОСЛЫЙ</td>
+<td colspan="12">1992</td>
+<td colspan="7">3</td>
+<td colspan="7">18</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАРАГАНДИНСКИЙ242</td>
-<td>1953</td>
-<td>1,8,10</td>
-<td>43</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1562.</td>
+<td colspan="6">КАЗНИИЗИР-80</td>
+<td colspan="12">2017</td>
+<td colspan="7">2, 3, 6, 9, 14</td>
+<td colspan="7">18</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КРУПНОСЕМЯННЫЙ 1</td>
-<td>1972</td>
-<td>13</td>
-<td>34</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1563.</td>
+<td colspan="6">КАРАГАНДИНСКИЙ242</td>
+<td colspan="12">1953</td>
+<td colspan="7">1,8,10</td>
+<td colspan="7">43</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СТЕПНЯК 1</td>
-<td>1974</td>
-<td>13</td>
-<td>146</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1564.</td>
+<td colspan="6">КРУПНОСЕМЯННЫЙ 1</td>
+<td colspan="12">1972</td>
+<td colspan="7">13</td>
+<td colspan="7">34</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТЕМИРСКИЙ 110</td>
-<td>1954</td>
-<td>13</td>
-<td>24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1565.</td>
+<td colspan="6">СТЕПНЯК 1</td>
+<td colspan="12">1974</td>
+<td colspan="7">13</td>
+<td colspan="7">146</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Чумиза
-Setaria italica (L.) ssp. maxima Alf.
-</td>
+<td>1566.</td>
+<td colspan="6">ТЕМИРСКИЙ 110</td>
+<td colspan="12">1954</td>
+<td colspan="7">13</td>
+<td colspan="7">24</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>НОВОСИБИРСКАЯ 1</td>
-<td>1959</td>
-<td>1,13</td>
-<td>117</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="56">Параграф 7.16 ЧумизаSetaria italica (L.) ssp. maxima Alf.</td>
 </tr>
 <tr>
-<td colspan="9">
-Сорго на силос
+<td>1567.</td>
+<td colspan="6">НОВОСИБИРСКАЯ 1</td>
+<td colspan="12">1959</td>
+<td colspan="7">1,13</td>
+<td colspan="7">117</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 7.17 Сорго на силос
 Sorghum v. (L.) Pers.
 </td>
 </tr>
 <tr>
-<td>КАЗАХСТАНСКОЕ 16</td>
-<td>1998</td>
-<td>6,12,14</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1568.</td>
+<td colspan="6">КАЗАХСТАНСКОЕ 16</td>
+<td colspan="12">1998</td>
+<td colspan="7">6,12,14</td>
+<td colspan="7">18</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КИЗ-7</td>
-<td>2011</td>
-<td>14</td>
-<td>18</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1569.</td>
+<td colspan="6">КИЗ-7</td>
+<td colspan="12">2011</td>
+<td colspan="7">14</td>
+<td colspan="7">18</td>
+<td colspan="7">06</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КИЗ-94</td>
-<td>2000</td>
-<td>18</td>
-<td>3</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1570.</td>
+<td colspan="6">КИЗ-94</td>
+<td colspan="12">2000</td>
+<td colspan="7">18</td>
+<td colspan="7">3</td>
+<td colspan="7">06</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КРАСНОВОДОПАДСКОЕ 246</td>
-<td>1964</td>
-<td>14</td>
-<td>29</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1571.</td>
+<td colspan="6">КРАСНОВОДОПАДСКОЕ 246</td>
+<td colspan="12">1964</td>
+<td colspan="7">14</td>
+<td colspan="7">29</td>
+<td colspan="7">02</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>РАННИЙ ЯНТАРЬ 161</td>
-<td>1962</td>
-<td>2,7</td>
-<td>61</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1572.</td>
+<td colspan="6">РАННИЙ ЯНТАРЬ 161</td>
+<td colspan="12">1962</td>
+<td colspan="7">2,7</td>
+<td colspan="7">61</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЦУНАМИ 85</td>
-<td>1993</td>
-<td>9,14</td>
-<td>22</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1573.</td>
+<td colspan="6">СҮРЛЕМ-2017</td>
+<td colspan="12">2017</td>
+<td colspan="7">3</td>
+<td colspan="7">18</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Сорго веничное
+<td>1574.</td>
+<td colspan="6">ЦУНАМИ 85</td>
+<td colspan="12">1993</td>
+<td colspan="7">9,14</td>
+<td colspan="7">22</td>
+<td colspan="7">06</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="56">
+Параграф 7.18 Сорго веничное
 SorghumtechnicumRoshev.
 </td>
 </tr>
 <tr>
-<td>ВЕНИЧНОЕ РАННЕЕ</td>
-<td>1987</td>
-<td>12</td>
-<td>61</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1575.</td>
+<td colspan="6">ВЕНИЧНОЕ РАННЕЕ</td>
+<td colspan="12">1987</td>
+<td colspan="7">12</td>
+<td colspan="7">61</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ДОНСКОЕ 35</td>
-<td>1985</td>
-<td>2,3,5,7</td>
-<td>73</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1576.</td>
+<td colspan="6">ДОНСКОЕ 35</td>
+<td colspan="12">1985</td>
+<td colspan="7">2,3,5,7</td>
+<td colspan="7">73</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Сорго сахарное
+<td colspan="56">
+Параграф 7.19 Сорго сахарное
 Sorghum bicolor L. Moench
 </td>
 </tr>
 <tr>
-<td>ЗЕВС</td>
-<td>2016</td>
-<td>3,5, 6, 9</td>
-<td>145</td>
-<td>02</td>
-<td>3л</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1577.</td>
+<td colspan="6">ЗЕВС</td>
+<td colspan="12">2016</td>
+<td colspan="7">3,5, 6, 9</td>
+<td colspan="7">145</td>
+<td colspan="7">02</td>
+<td colspan="5">3л</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАЗАХСТАНСКАЯ 20</td>
-<td>2016</td>
-<td>9</td>
-<td>18</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1578.</td>
+<td colspan="6">КАЗАХСТАНСКАЯ 20®</td>
+<td colspan="12">2016</td>
+<td colspan="7">9</td>
+<td colspan="7">18</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЛАРЕЦ</td>
-<td>2014</td>
-<td>3, 14</td>
-<td>139</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1579.</td>
+<td colspan="6">ЛАРЕЦ</td>
+<td colspan="12">2014</td>
+<td colspan="7">3, 14</td>
+<td colspan="7">139</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Сорго-суданковый гибрид
+<td colspan="56">
+Параграф 7.20 Сорго-суданковый гибрид
 Sorghum vulgare x S. Sudanense
 </td>
 </tr>
 <tr>
-<td>АЛМА-АТИНСКИЙ 81</td>
-<td>1992</td>
-<td>3,5,9, 12,14</td>
-<td>22</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1580.</td>
+<td colspan="6">АЛМА-АТИНСКИЙ 81</td>
+<td colspan="12">1992</td>
+<td colspan="7">3,5,9, 12,14</td>
+<td colspan="7">22</td>
+<td colspan="7">03</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ССГ КИЗ-2</td>
-<td>2002</td>
-<td>3</td>
-<td>18</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1581.</td>
+<td colspan="6">ССГ КИЗ-2</td>
+<td colspan="12">2002</td>
+<td colspan="7">3</td>
+<td colspan="7">18</td>
+<td colspan="7">06</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ССГ КИЗ-3</td>
-<td>2003</td>
-<td>6</td>
-<td>18</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1582.</td>
+<td colspan="6">ССГ КИЗ-3</td>
+<td colspan="12">2003</td>
+<td colspan="7">6</td>
+<td colspan="7">18</td>
+<td colspan="7">06</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Подсолнечник на силос
+<td colspan="56">
+Параграф 7.21 Подсолнечник на силос
 Hellianthus annuus L.
 </td>
 </tr>
 <tr>
-<td>
-АРМАВИРСКИЙ
-3497
-УЛУЧШЕННЫЙ
-</td>
-<td>1968</td>
-<td>10</td>
-<td>48</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1583.</td>
+<td colspan="6">АРМАВИРСКИЙ 3497 УЛУЧШЕННЫЙ</td>
+<td colspan="12">1968</td>
+<td colspan="7">10</td>
+<td colspan="7">48</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ВНИИМК 6540
-УЛУЧШЕННЫЙ
-</td>
-<td>1978</td>
-<td>12</td>
-<td>64</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1584.</td>
+<td colspan="6">ВНИИМК 6540 УЛУЧШЕННЫЙ</td>
+<td colspan="12">1978</td>
+<td colspan="7">12</td>
+<td colspan="7">64</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ВНИИМК 8931
-УЛУЧШЕННЫЙ
-</td>
-<td>1969</td>
-<td>1,2,7,13</td>
-<td>64</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1585.</td>
+<td colspan="6">ВНИИМК 8931 УЛУЧШЕННЫЙ</td>
+<td colspan="12">1969</td>
+<td colspan="7">1,2,7,13</td>
+<td colspan="7">64</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ВОСХОД</td>
-<td>1987</td>
-<td>5</td>
-<td>53</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1586.</td>
+<td colspan="6">ВОСХОД</td>
+<td colspan="12">1987</td>
+<td colspan="7">5</td>
+<td colspan="7">53</td>
+<td colspan="7">03</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МАЯК</td>
-<td>1974</td>
-<td>6</td>
-<td>81</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1587.</td>
+<td colspan="6">МАЯК</td>
+<td colspan="12">1974</td>
+<td colspan="7">6</td>
+<td colspan="7">81</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ПЕРЕДОВИК
-УЛУЧШЕННЫЙ
-</td>
-<td>1972</td>
-<td>1,8,13</td>
-<td>64</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1588.</td>
+<td colspan="6">ПЕРЕДОВИК УЛУЧШЕННЫЙ</td>
+<td colspan="12">1972</td>
+<td colspan="7">1,8,13</td>
+<td colspan="7">64</td>
+<td colspan="7">04</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Топинсолнечник
+<td colspan="56">
+Параграф 7.22 Топинсолнечник
 Hellianthus tuberosus x H. Annus.
 </td>
 </tr>
 <tr>
-<td>ЦЕЛИННЫЙ 87</td>
-<td>1992</td>
-<td>1,3,13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1589.</td>
+<td colspan="6">ЦЕЛИННЫЙ 87</td>
+<td colspan="12">1992</td>
+<td colspan="7">1,3,13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Топинамбур
+<td colspan="56">
+Параграф 7.23 Топинамбур
 Hellianthus tuberosus L.
 </td>
 </tr>
 <tr>
-<td>НАХОДКА</td>
-<td>1993</td>
-<td>13</td>
-<td>108</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1590.</td>
+<td colspan="6">НАХОДКА</td>
+<td colspan="12">1993</td>
+<td colspan="7">13</td>
+<td colspan="7">108</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Щавель кормовой
+<td colspan="56">
+Параграф 7.24 Щавель кормовой
 Rumex patientia x Rumex tianschanicus Los.
 </td>
 </tr>
 <tr>
-<td>РУМЕКС К-1</td>
-<td>2002</td>
-<td>3,5,6,8,14</td>
-<td>254</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1591.</td>
+<td colspan="6">РУМЕКС К-1</td>
+<td colspan="12">2002</td>
+<td colspan="7">3,5,6,8,14</td>
+<td colspan="7">254</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Рапс озимый на корм
+<td colspan="56">
+Параграф 7.25 Рапс озимый на корм
 BrassicanapusL. ssp. oleifera (Metzg.) Sinsk.
 </td>
 </tr>
 <tr>
-<td>ИВАННА</td>
-<td>1991</td>
-<td>3</td>
-<td>157</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1592.</td>
+<td colspan="6">ИВАННА</td>
+<td colspan="12">1991</td>
+<td colspan="7">3</td>
+<td colspan="7">157</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПРОМИНЬ</td>
-<td>1988</td>
-<td>6</td>
-<td>64</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1593.</td>
+<td colspan="6">ПРОМИНЬ</td>
+<td colspan="12">1988</td>
+<td colspan="7">6</td>
+<td colspan="7">64</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Рапс яровой на корм
+<td colspan="56">
+Параграф 7.26 Рапс яровой на корм
 BrassicanapusL. ssp. oleifera (Metzg.) Sinsk.
 </td>
 </tr>
 <tr>
-<td>ЗОЛОТОНИВСКИЙ</td>
-<td>1989</td>
-<td>
+<td>1594.</td>
+<td colspan="6">ЗОЛОТОНИВСКИЙ</td>
+<td colspan="12">1989</td>
+<td colspan="7">
 1,2,3,5,8,
 9,10,13
 </td>
-<td>138</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">138</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Сурепица озимая
+<td colspan="56">
+Параграф 7.27 Сурепица озимая
 Brassica rapa L. var. silvestris (Lam.) Briggs
 </td>
 </tr>
 <tr>
-<td>ГОРЛИЦА 19</td>
-<td>1992</td>
-<td>3</td>
-<td>180</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1595.</td>
+<td colspan="7">ГОРЛИЦА 19</td>
+<td colspan="12">1992</td>
+<td colspan="6">3</td>
+<td colspan="7">180</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Сурепица яровая
+<td colspan="56">
+Параграф 7.28 Сурепица яровая
 Brassica rapa L. var. silvestris (Lam.) Briggs.
 </td>
 </tr>
 <tr>
-<td>ЯНТАРНАЯ</td>
-<td>1995</td>
-<td>3</td>
-<td>64,135</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1596.</td>
+<td colspan="7">ЯНТАРНАЯ</td>
+<td colspan="12">1995</td>
+<td colspan="6">3</td>
+<td colspan="7">64,135</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Редька масличная
+<td colspan="56">
+Параграф 7.29 Редька масличная
 Raphanus sativus L. var. oleifornis Pars.
 </td>
 </tr>
 <tr>
-<td>ТАМБОВЧАНКА</td>
-<td>1985</td>
-<td>1,5,8,10,13</td>
-<td>145</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1597.</td>
+<td colspan="7">ТАМБОВЧАНКА</td>
+<td colspan="12">1985</td>
+<td colspan="6">1,5,8,10,13</td>
+<td colspan="7">145</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Люцерна
+<td colspan="56">
+Параграф 7.30 Люцерна
 Medicago L.
 </td>
 </tr>
 <tr>
-<td>БЕРЕКЕ</td>
-<td>1989</td>
-<td>6</td>
-<td>202</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1598.</td>
+<td colspan="7">БЕРЕКЕ</td>
+<td colspan="12">1989</td>
+<td colspan="6">6</td>
+<td colspan="7">202</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ДАРХАН 90</td>
-<td>1998</td>
-<td>9</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1599.</td>
+<td colspan="7">ДАРХАН 90</td>
+<td colspan="12">1998</td>
+<td colspan="6">9</td>
+<td colspan="7">22</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЖАЙНАК 96</td>
-<td>2003</td>
-<td>6</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1600.</td>
+<td colspan="7">ЖАЙНАК 96</td>
+<td colspan="12">2003</td>
+<td colspan="6">6</td>
+<td colspan="7">22</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЖАҢАҒАСЫР</td>
-<td>2016</td>
-<td>3</td>
-<td>29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1601.</td>
+<td colspan="7">ЖАҢАҒАСЫР</td>
+<td colspan="12">2016</td>
+<td colspan="6">3</td>
+<td colspan="7">29</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЖЕЛТОГРИБНАЯ 55</td>
-<td>1993</td>
-<td>5,12</td>
-<td>35</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1602.</td>
+<td colspan="7">ЖЕЛТОГРИБНАЯ 55</td>
+<td colspan="12">1993</td>
+<td colspan="6">5,12</td>
+<td colspan="7">35</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАПЧАГАЙСКАЯ 80</td>
-<td>1989</td>
-<td>3</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1603.</td>
+<td colspan="7">КАПЧАГАЙСКАЯ 80</td>
+<td colspan="12">1989</td>
+<td colspan="6">3</td>
+<td colspan="7">22</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАРАБАЛЫКСКАЯ 18</td>
-<td>1971</td>
-<td>10</td>
-<td>24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1604.</td>
+<td colspan="7">КАРАБАЛЫКСКАЯ 18</td>
+<td colspan="12">1971</td>
+<td colspan="6">10</td>
+<td colspan="7">24</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАРАБАЛЫКСКАЯ ЖЕМЧУЖИНА</td>
-<td>2011</td>
-<td>3,8,10,12</td>
-<td>24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1605.</td>
+<td colspan="7">КАРАБАЛЫКСКАЯ ЖЕМЧУЖИНА®</td>
+<td colspan="12">2011</td>
+<td colspan="6">3,8,10,12</td>
+<td colspan="7">24</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАРАБАЛЫКСКАЯ РАДУГА</td>
-<td>2008</td>
-<td>12,13</td>
-<td>24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1606.</td>
+<td colspan="7">КАРАБАЛЫКСКАЯ РАДУГА®</td>
+<td colspan="12">2008</td>
+<td colspan="6">12,13</td>
+<td colspan="7">24</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАРАГАНДИНСКАЯ 1</td>
-<td>1938</td>
-<td>8,10</td>
-<td>43</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1607.</td>
+<td colspan="7">КАРАГАНДИНСКАЯ 1</td>
+<td colspan="12">1938</td>
+<td colspan="6">8,10</td>
+<td colspan="7">43</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КӨКБАЛАУСА</td>
-<td>2016</td>
-<td>3</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1608.</td>
+<td colspan="7">КӨКБАЛАУСА®</td>
+<td colspan="12">2016</td>
+<td colspan="6">3</td>
+<td colspan="7">18</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОКОРАЙ</td>
-<td>2011</td>
-<td>6, 9</td>
-<td>18, 137</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1609.</td>
+<td colspan="7">КОКОРАЙ</td>
+<td colspan="12">2011</td>
+<td colspan="6">6, 9</td>
+<td colspan="7">18, 137</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОКШЕ</td>
-<td>1968</td>
-<td>1,2,5,8,12,13</td>
-<td>27</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1610.</td>
+<td colspan="7">КОКШЕ</td>
+<td colspan="12">1968</td>
+<td colspan="6">1,2,5,8,12,13</td>
+<td colspan="7">27</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КРАСНОВОДОПАДСКАЯ 8</td>
-<td>1962</td>
-<td>14</td>
-<td>29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1611.</td>
+<td colspan="7">КРАСНОВОДОПАДСКАЯ 8</td>
+<td colspan="12">1962</td>
+<td colspan="6">14</td>
+<td colspan="7">29</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КРАСНОВОДОПАДСКАЯ СКОРОСПЕЛАЯ</td>
-<td>1992</td>
-<td>14</td>
-<td>29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1612.</td>
+<td colspan="7">КРАСНОВОДОПАДСКАЯ СКОРОСПЕЛАЯ</td>
+<td colspan="12">1992</td>
+<td colspan="6">14</td>
+<td colspan="7">29</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КРАСНОВОДОПАДСКАЯ ПОЛИВНАЯ</td>
-<td>2011</td>
-<td>14</td>
-<td>29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1613.</td>
+<td colspan="7">КРАСНОВОДОПАДСКАЯ ПОЛИВНАЯ</td>
+<td colspan="12">2011</td>
+<td colspan="6">14</td>
+<td colspan="7">29</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЛАЗУРНАЯ</td>
-<td>2011</td>
-<td>1,5,12,13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1614.</td>
+<td colspan="7">ЛАЗУРНАЯ®</td>
+<td colspan="12">2011</td>
+<td colspan="6">1,5,12,13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПЛАНЕТ</td>
-<td>2016</td>
-<td>6</td>
-<td>291</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1615.</td>
+<td colspan="7">ПЛАНЕТ</td>
+<td colspan="12">2016</td>
+<td colspan="6">6</td>
+<td colspan="7">291</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПРОГРЕСС</td>
-<td>1993</td>
-<td>9</td>
-<td>187</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1616.</td>
+<td colspan="7">ПРОГРЕСС</td>
+<td colspan="12">1993</td>
+<td colspan="6">9</td>
+<td colspan="7">187</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>РАЙХАН</td>
-<td>2005</td>
-<td>1,5</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1617.</td>
+<td colspan="7">РАЙХАН®</td>
+<td colspan="12">2005</td>
+<td colspan="6">1,5</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>САРҚЫРА</td>
-<td>2011</td>
-<td>3</td>
-<td>29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1618.</td>
+<td colspan="7">САРҚЫРА</td>
+<td colspan="12">2011</td>
+<td colspan="6">3</td>
+<td colspan="7">29</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СЕМИРЕЧИНСКАЯ МЕСТНАЯ</td>
-<td>1934</td>
-<td>3,4,5,6,8,9, 14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1619.</td>
+<td colspan="7">СЕМИРЕЧИНСКАЯ МЕСТНАЯ</td>
+<td colspan="12">1934</td>
+<td colspan="6">3,4,5,6,8,9, 14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТАШКЕНТСКАЯ 1</td>
-<td>1954</td>
-<td>14</td>
-<td>189</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1620.</td>
+<td colspan="7">ТАШКЕНТСКАЯ 1</td>
+<td colspan="12">1954</td>
+<td colspan="6">14</td>
+<td colspan="7">189</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТУРКЕСТАН 15</td>
-<td>2011</td>
-<td>9</td>
-<td>31</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1621.</td>
+<td colspan="7">ТУРКЕСТАН 15</td>
+<td colspan="12">2011</td>
+<td colspan="6">9</td>
+<td colspan="7">31</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>УРАЛЬСКАЯ СИНЯЯ</td>
-<td>1950</td>
-<td>7</td>
-<td>40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1622.</td>
+<td colspan="7">УРАЛЬСКАЯ СИНЯЯ</td>
+<td colspan="12">1950</td>
+<td colspan="6">7</td>
+<td colspan="7">40</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШОРТАНДИНСКАЯ 2</td>
-<td>1952</td>
-<td>1,10</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1623.</td>
+<td colspan="7">ШОРТАНДИНСКАЯ 2</td>
+<td colspan="12">1952</td>
+<td colspan="6">1,10</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЯРОСЛАВНА</td>
-<td>1990</td>
-<td>3,5</td>
-<td>172</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1624.</td>
+<td colspan="7">ЯРОСЛАВНА</td>
+<td colspan="12">1990</td>
+<td colspan="6">3,5</td>
+<td colspan="7">172</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Лядвенец рогатый
+<td colspan="56">
+Параграф 7.31 Лядвенец рогатый
 Lotus corniculatus L.
 </td>
 </tr>
 <tr>
-<td>АҚТОҒАЙ 1</td>
-<td>2011</td>
-<td>12</td>
-<td>30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1625.</td>
+<td colspan="7">АҚТОҒАЙ 1®</td>
+<td colspan="12">2011</td>
+<td colspan="6">12</td>
+<td colspan="7">30</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Мятлик луговой
+<td colspan="56">
+Параграф 7.32 Мятлик луговой
 Poa pratensis L.
 </td>
 </tr>
 <tr>
-<td>ЛИКОЛЛО</td>
-<td>2016</td>
-<td>10</td>
-<td>291</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1626.</td>
+<td colspan="7">ЛИКОЛЛО</td>
+<td colspan="12">2016</td>
+<td colspan="6">10</td>
+<td colspan="7">291</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Клевер луговой
+<td colspan="56">
+Параграф 7.33 Клевер луговой
 Trifolium pratense L.
 </td>
 </tr>
 <tr>
-<td>АТАМЕКЕН</td>
-<td>2012</td>
-<td>5</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1627.</td>
+<td colspan="7">АТАМЕКЕН</td>
+<td colspan="12">2012</td>
+<td colspan="6">5</td>
+<td colspan="7">8</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ЗЫРЯНОВСКИЙ
-МЕСТНЫЙ
-</td>
-<td>1950</td>
-<td>5</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1628.</td>
+<td colspan="7">ЗЫРЯНОВСКИЙ МЕСТНЫЙ</td>
+<td colspan="12">1950</td>
+<td colspan="6">5</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТАЙФУН</td>
-<td>2012</td>
-<td>3, 5</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1629.</td>
+<td colspan="7">ТАЙФУН</td>
+<td colspan="12">2012</td>
+<td colspan="6">3, 5</td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Эспарцет
+<td colspan="56">
+Параграф 7.34 Эспарцет
 Onobrychis viciifolia Scop.
 </td>
 </tr>
 <tr>
-<td>АЛМА-АТИНСКИЙ 1</td>
-<td>1977</td>
-<td>14</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1630.</td>
+<td colspan="7">АЛМА-АТИНСКИЙ 1</td>
+<td colspan="12">1977</td>
+<td colspan="6">14</td>
+<td colspan="7">18</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АЛМА-АТИНСКИЙ 2</td>
-<td>1980</td>
-<td>3</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1631.</td>
+<td colspan="7">АЛМА-АТИНСКИЙ 2</td>
+<td colspan="12">1980</td>
+<td colspan="6">3</td>
+<td colspan="7">18</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ГИБРИД 110</td>
-<td>1988</td>
-<td>5</td>
-<td>35</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1632.</td>
+<td colspan="7">ГИБРИД 110</td>
+<td colspan="12">1988</td>
+<td colspan="6">5</td>
+<td colspan="7">35</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАРАБАЛЫКСКИЙ ГРАНАТОВЫЙ</td>
-<td>2015</td>
-<td>1,10,13</td>
-<td>24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1633.</td>
+<td colspan="7">КАРАБАЛЫКСКИЙ ГРАНАТОВЫЙ®</td>
+<td colspan="12">2015</td>
+<td colspan="6">1,10,13</td>
+<td colspan="7">24</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАРАБАЛЫКСКИЙ РУБИНОВЫЙ</td>
-<td>2014</td>
-<td>1,13</td>
-<td>24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1634.</td>
+<td colspan="7">КАРАБАЛЫКСКИЙ РУБИНОВЫЙ®</td>
+<td colspan="12">2014</td>
+<td colspan="6">1,13</td>
+<td colspan="7">24</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>НУРИНСКИЙ 95</td>
-<td>2011</td>
-<td>10</td>
-<td>43</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1635.</td>
+<td colspan="7">НУРИНСКИЙ 95</td>
+<td colspan="12">2011</td>
+<td colspan="6">10</td>
+<td colspan="7">43</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПЕСЧАНЫЙ 1251</td>
-<td>1959</td>
-<td>2,3,5,7</td>
-<td>150</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1636.</td>
+<td colspan="7">ПЕСЧАНЫЙ 1251</td>
+<td colspan="12">1959</td>
+<td colspan="6">2,3,5,7</td>
+<td colspan="7">150</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ПЕСЧАНЫЙ
-УЛУЧШЕННЫЙ
-</td>
-<td>1950</td>
-<td>1,5,6,8,10, 12,13</td>
-<td>43</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1637.</td>
+<td colspan="7">ПЕСЧАНЫЙ УЛУЧШЕННЫЙ</td>
+<td colspan="12">1950</td>
+<td colspan="6">1,5,6,8,10, 12,13</td>
+<td colspan="7">43</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШАБЫНДЫҚ</td>
-<td>2016</td>
-<td>3, 12</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1638.</td>
+<td colspan="7">ШАБЫНДЫҚ®</td>
+<td colspan="12">2016</td>
+<td colspan="6">3, 12</td>
+<td colspan="7">18</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШОРТАНДИНСКИЙ 83</td>
-<td>1993</td>
-<td>12</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1639.</td>
+<td colspan="7">ШОРТАНДИНСКИЙ 83®</td>
+<td colspan="12">1993</td>
+<td colspan="6">12</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШОРТАНДИНСКИЙ РУБИН</td>
-<td>2016</td>
-<td>1, 5, 8, 13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1640.</td>
+<td colspan="7">ШОРТАНДИНСКИЙ РУБИН®</td>
+<td colspan="12">2016</td>
+<td colspan="6">1, 5, 8, 13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШЫГЫС</td>
-<td>2009</td>
-<td>5</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1641.</td>
+<td colspan="7">ШЫГЫС</td>
+<td colspan="12">2009</td>
+<td colspan="6">5</td>
+<td colspan="7">8</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ФЛАМИНГО</td>
-<td>2010</td>
-<td>3,8,12,13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1642.</td>
+<td colspan="7">ФЛАМИНГО®</td>
+<td colspan="12">2010</td>
+<td colspan="6">3,8,12,13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Козлятник восточный
+<td colspan="56">
+Параграф 7.35 Козлятник восточный
 Galega orientalis Lam.
 </td>
 </tr>
 <tr>
-<td>ГОРНОАЛТАЙСКИЙ 87</td>
-<td>1993</td>
-<td>13</td>
-<td>47</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1643.</td>
+<td colspan="7">ГОРНОАЛТАЙСКИЙ 87</td>
+<td colspan="12">1993</td>
+<td colspan="6">13</td>
+<td colspan="7">47</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Житняк
+<td colspan="56">
+Параграф 7.36 Житняк
 Agropyron et Schult.
 </td>
 </tr>
 <tr>
-<td>
-АКТЮБИНСКИЙ
-УЗКОКОЛОСЫЙ
-МЕСТНЫЙ
-</td>
-<td>1943</td>
-<td>2</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1644.</td>
+<td colspan="7">АКТЮБИНСКИЙ УЗКОКОЛОСЫЙ МЕСТНЫЙ</td>
+<td colspan="12">1943</td>
+<td colspan="6">2</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-АКТЮБИНСКИЙ
-ШИРОКОКОЛОСЫЙ МЕСТНЫЙ
-</td>
-<td>1948</td>
-<td>2</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1645.</td>
+<td colspan="7">АКТЮБИНСКИЙ ШИРОКОКОЛОСЫЙ МЕСТНЫЙ</td>
+<td colspan="12">1948</td>
+<td colspan="6">2</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>БАТЫР</td>
-<td>1992</td>
-<td>1,13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1646.</td>
+<td colspan="7">БАТЫР®</td>
+<td colspan="12">1992</td>
+<td colspan="6">1,13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>БАТЫС-3159</td>
-<td>2012</td>
-<td>3</td>
-<td>40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1647.</td>
+<td colspan="7">БАТЫС-3159</td>
+<td colspan="12">2012</td>
+<td colspan="6">3</td>
+<td colspan="7">40</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>БУРАБАЙ</td>
-<td>2015</td>
-<td>1,13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1648.</td>
+<td colspan="7">БУРАБАЙ®</td>
+<td colspan="12">2015</td>
+<td colspan="6">1,13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ДАЛАЛЫК</td>
-<td>2011</td>
-<td>12</td>
-<td>30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1649.</td>
+<td colspan="7">ДАЛАЛЫК</td>
+<td colspan="12">2011</td>
+<td colspan="6">12</td>
+<td colspan="7">30</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАРАБАЛЫКСКИЙ 202</td>
-<td>1949</td>
-<td>
+<td>1650.</td>
+<td colspan="7">КАРАБАЛЫКСКИЙ 202</td>
+<td colspan="12">1949</td>
+<td colspan="6">
 1,3,5,8,9,10,
 12,13
 </td>
-<td>24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">24</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КРАСНОВОДОПАДСКИЙ 414</td>
-<td>1977</td>
-<td>14</td>
-<td>29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1651.</td>
+<td colspan="7">КРАСНОВОДОПАДСКИЙ 414</td>
+<td colspan="12">1977</td>
+<td colspan="6">14</td>
+<td colspan="7">29</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КРАСНОКУТСКИЙ УЗКОКОЛОСЫЙ 305</td>
-<td>1962</td>
-<td>7</td>
-<td>97</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1652.</td>
+<td colspan="7">КРАСНОКУТСКИЙ УЗКОКОЛОСЫЙ 305</td>
+<td colspan="12">1962</td>
+<td colspan="6">7</td>
+<td colspan="7">97</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПРОГРЕСС 85</td>
-<td>1994</td>
-<td>3</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1653.</td>
+<td colspan="7">ПРОГРЕСС 85</td>
+<td colspan="12">1994</td>
+<td colspan="6">3</td>
+<td colspan="7">22</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТАУКУМСКИЙ</td>
-<td>1984</td>
-<td>3</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1654.</td>
+<td colspan="7">ТАУКУМСКИЙ</td>
+<td colspan="12">1984</td>
+<td colspan="6">3</td>
+<td colspan="7">22</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ГИБРИДНЫЙ
-ТАЙПАКСКИЙ
-</td>
-<td>2006</td>
-<td>7</td>
-<td>40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1655.</td>
+<td colspan="7">ГИБРИДНЫЙ ТАЙПАКСКИЙ</td>
+<td colspan="12">2006</td>
+<td colspan="6">7</td>
+<td colspan="7">40</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТОЛАГАЙ</td>
-<td>1998</td>
-<td>12</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1656.</td>
+<td colspan="7">ТОЛАГАЙ</td>
+<td colspan="12">1998</td>
+<td colspan="6">12</td>
+<td colspan="7">22</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТАЛАПТАН</td>
-<td>2005</td>
-<td>3</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1657.</td>
+<td colspan="7">ТАЛАПТАН</td>
+<td colspan="12">2005</td>
+<td colspan="6">3</td>
+<td colspan="7">22</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>УРАЛЬСКИЙ</td>
-<td>1994</td>
-<td>7</td>
-<td>40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1658.</td>
+<td colspan="7">УРАЛЬСКИЙ</td>
+<td colspan="12">1994</td>
+<td colspan="6">7</td>
+<td colspan="7">40</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-УЗКОКОЛОСЫЙ
-МЕСТНЫЕ СОРТА
-</td>
-<td>1967</td>
-<td>3</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1659.</td>
+<td colspan="7">УЗКОКОЛОСЫЙ МЕСТНЫЕ СОРТА</td>
+<td colspan="12">1967</td>
+<td colspan="6">3</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШАЛҚЫМА</td>
-<td>2012</td>
-<td>1, 8</td>
-<td>43</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1660.</td>
+<td colspan="7">ШАЛҚЫМА</td>
+<td colspan="12">2012</td>
+<td colspan="6">1, 8</td>
+<td colspan="7">43</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШОРТАНДИНСКИЙШИРОКОКОЛОСЫЙ</td>
-<td>2011</td>
-<td>13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1661.</td>
+<td colspan="7">ШОРТАНДИНСКИЙ ШИРОКОКОЛОСЫЙ®</td>
+<td colspan="12">2011</td>
+<td colspan="6">13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="9">
-Овсяница луговая
+<td colspan="56">
+Параграф 7.37 Овсяница луговая
 Festuca pratensis Huds.
 </td>
 </tr>
 <tr>
-<td>КАРГАЛИНСКАЯ</td>
-<td>1991</td>
-<td>3</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1662.</td>
+<td colspan="7">КАРГАЛИНСКАЯ</td>
+<td colspan="12">1991</td>
+<td colspan="6">3</td>
+<td colspan="7">22</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЛИХЕРОЛЬД</td>
-<td>2016</td>
-<td>10</td>
-<td>291</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1663.</td>
+<td colspan="7">ЛИХЕРОЛЬД</td>
+<td colspan="12">2016</td>
+<td colspan="6">10</td>
+<td colspan="7">291</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ПЕНЗЕНСКАЯ 1</td>
-<td>1989</td>
-<td>7</td>
-<td>124</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1664.</td>
+<td colspan="7">ПЕНЗЕНСКАЯ 1</td>
+<td colspan="12">1989</td>
+<td colspan="6">7</td>
+<td colspan="7">124</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
+<td colspan="56">
 Овсяница бороздчатая
 Festuca sulcata Hach.
 </td>
 </tr>
 <tr>
-<td>УЛАН</td>
-<td>2005</td>
-<td>3</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1665.</td>
+<td colspan="7">УЛАН</td>
+<td colspan="12">2005</td>
+<td colspan="6">3</td>
+<td colspan="7">22</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="9">
+<td colspan="56">
 Овсяница тростниковая
 Festuca arundinacea
 </td>
 </tr>
 <tr>
-<td>ЛИПАЛЬМА</td>
-<td>2016</td>
-<td>10</td>
-<td>291</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1666.</td>
+<td colspan="7">ЛИПАЛЬМА</td>
+<td colspan="12">2016</td>
+<td colspan="6">10</td>
+<td colspan="7">291</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Пырей бескорневищный
+<td colspan="56">
+Параграф 7.38 Пырей бескорневищный
 Roegneria trachycaulon Nevski.
 </td>
 </tr>
 <tr>
-<td>КАРАБАЛЫКСКИЙ 86</td>
-<td>1959</td>
-<td>1,8,10,13</td>
-<td>24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1667.</td>
+<td colspan="7">КАРАБАЛЫКСКИЙ 86</td>
+<td colspan="12">1959</td>
+<td colspan="6">1,8,10,13</td>
+<td colspan="7">24</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-КОЛУТОНСКИЙ
+<td>1668.</td>
+<td colspan="7">
+КОЛУТОНСКИЙ®
 (АРМАН)
 </td>
-<td>1994</td>
-<td>1</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="12">1994</td>
+<td colspan="6">1</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Пырей сизый
+<td colspan="56">
+Параграф 7.39 Пырей сизый
 Agropyrum glacum R. et Sch.
 </td>
 </tr>
 <tr>
-<td>КАРАБАЛЫКСКИЙ СИЗЫЙ</td>
-<td>1998</td>
-<td>8,10, 13</td>
-<td>24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1669.</td>
+<td colspan="7">КАРАБАЛЫКСКИЙ СИЗЫЙ</td>
+<td colspan="12">1998</td>
+<td colspan="6">8,10, 13</td>
+<td colspan="7">24</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КЫЗЫЛ ЖАР</td>
-<td>2011</td>
-<td>10, 12</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1670.</td>
+<td colspan="7">КЫЗЫЛ ЖАР®</td>
+<td colspan="12">2011</td>
+<td colspan="6">10, 12</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ОМИЧ</td>
-<td>1989</td>
-<td>1,8,10</td>
-<td>138</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1671.</td>
+<td colspan="7">ОМИЧ</td>
+<td colspan="12">1989</td>
+<td colspan="6">1,8,10</td>
+<td colspan="7">138</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>РОСТОВСКИЙ 31</td>
-<td>1974</td>
-<td>5,10,13</td>
-<td>83</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1672.</td>
+<td colspan="7">РОСТОВСКИЙ 31</td>
+<td colspan="12">1974</td>
+<td colspan="6">5,10,13</td>
+<td colspan="7">83</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Пырейник сибирский
+<td colspan="56">
+Параграф 7.40 Пырейник сибирский
 Clinelymus sibiricus Nevski
 </td>
 </tr>
 <tr>
-<td>ГУРАН</td>
-<td>1974</td>
-<td>13</td>
-<td>86</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1673.</td>
+<td colspan="7">ГУРАН</td>
+<td colspan="12">1974</td>
+<td colspan="6">13</td>
+<td colspan="7">86</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Пырейник даурский
+<td colspan="56">
+Параграф 7.41 Пырейник даурский
 Clinelymus dahuricus Nevski.
 </td>
 </tr>
 <tr>
-<td>НАРЫНКОЛЬСКИЙ</td>
-<td>1991</td>
-<td>3</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1674.</td>
+<td colspan="7">НАРЫНКОЛЬСКИЙ</td>
+<td colspan="12">1991</td>
+<td colspan="6">3</td>
+<td colspan="7">22</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Райграс однолетний
+<td colspan="56">
+Параграф 7.42 Райграс однолетний
 Lolium multiflorum var. Westerwoldicum
 </td>
 </tr>
 <tr>
-<td>ПОЛЛАНУМ</td>
-<td>2014</td>
-<td>3</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1675.</td>
+<td colspan="7">ПОЛЛАНУМ</td>
+<td colspan="12">2014</td>
+<td colspan="6">3</td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Райграс пастбищный
+<td colspan="56">
+Параграф 7.43 Райграс пастбищный
 Lolium perenne L.
 </td>
 </tr>
 <tr>
-<td>АРСЕНАЛ</td>
-<td>2016</td>
-<td>10</td>
-<td>291</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1676.</td>
+<td colspan="7">АРСЕНАЛ</td>
+<td colspan="12">2016</td>
+<td colspan="6">10</td>
+<td colspan="7">291</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Ломкоколосник ситниковый
+<td colspan="56">
+Параграф 7.44 Ломкоколосник ситниковый
 Elymus yunceus Fisch.
 </td>
 </tr>
 <tr>
-<td>БОЗОЙСКИЙ</td>
-<td>1975</td>
-<td>
+<td>1677.</td>
+<td colspan="7">БОЗОЙСКИЙ</td>
+<td colspan="12">1975</td>
+<td colspan="6">
 1,2,3,5,6,7,
 8,10,12,13,
 14
 </td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">22</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШОРТАНДИНСКИЙ</td>
-<td>1975</td>
-<td>1,3,10,12,13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1678.</td>
+<td colspan="7">ШОРТАНДИНСКИЙ</td>
+<td colspan="12">1975</td>
+<td colspan="6">1,3,10,12,13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Кострец безостый
+<td colspan="56">
+Параграф 7.45 Кострец безостый
 Bromus inermis Leyss.
 </td>
 </tr>
 <tr>
-<td>АКМОЛИНСКИЙ 91</td>
-<td>1998</td>
-<td>12,1</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1679.</td>
+<td colspan="7">АКМОЛИНСКИЙ 91®</td>
+<td colspan="12">1998</td>
+<td colspan="6">12,1</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АКМОЛИНСКИЙ ИЗУМРУДНЫЙ</td>
-<td>2016</td>
-<td>1, 13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1680.</td>
+<td colspan="7">АКМОЛИНСКИЙ ИЗУМРУДНЫЙ®</td>
+<td colspan="12">2016</td>
+<td colspan="6">1, 13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ВЕГУР</td>
-<td>2016</td>
-<td>10</td>
-<td>139</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1681.</td>
+<td colspan="7">ВЕГУР</td>
+<td colspan="12">2016</td>
+<td colspan="6">10</td>
+<td colspan="7">139</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ВОСТОЧНО-
-КАЗАХСТАНСКИЙ
-</td>
-<td>1972</td>
-<td>1,5,7,8</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1682.</td>
+<td colspan="7">ВОСТОЧНО-КАЗАХСТАНСКИЙ</td>
+<td colspan="12">1972</td>
+<td colspan="6">1,5,7,8</td>
+<td colspan="7">8</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ИШИМСКИЙ
-ЮБИЛЕЙНЫЙ
-</td>
-<td>2011</td>
-<td>10, 13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1683.</td>
+<td colspan="7">ИШИМСКИЙ ЮБИЛЕЙНЫЙ®</td>
+<td colspan="12">2011</td>
+<td colspan="6">10, 13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КОКТАС</td>
-<td>2010</td>
-<td>5</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1684.</td>
+<td colspan="7">КОКТАС</td>
+<td colspan="12">2010</td>
+<td colspan="6">5</td>
+<td colspan="7">8</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЛИМАННЫЙ</td>
-<td>1975</td>
-<td>1</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1685.</td>
+<td colspan="7">ЛИМАННЫЙ</td>
+<td colspan="12">1975</td>
+<td colspan="6">1</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СИБНИИСХОЗ 88</td>
-<td>1994</td>
-<td>2,13</td>
-<td>138</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1686.</td>
+<td colspan="7">СИБНИИСХОЗ 88</td>
+<td colspan="12">1994</td>
+<td colspan="6">2,13</td>
+<td colspan="7">138</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СИБНИИСХОЗ 189</td>
-<td>1957</td>
-<td>1,12,13</td>
-<td>138</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1687.</td>
+<td colspan="7">СИБНИИСХОЗ 189</td>
+<td colspan="12">1957</td>
+<td colspan="6">1,12,13</td>
+<td colspan="7">138</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СТЕПНОЙ</td>
-<td>1966</td>
-<td>2,5,10</td>
-<td>28</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1688.</td>
+<td colspan="7">СТЕПНОЙ</td>
+<td colspan="12">1966</td>
+<td colspan="6">2,5,10</td>
+<td colspan="7">28</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТУГАН ЖЕР</td>
-<td>2011</td>
-<td>3</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1689.</td>
+<td colspan="7">ТУГАН ЖЕР</td>
+<td colspan="12">2011</td>
+<td colspan="6">3</td>
+<td colspan="7">8</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Кострец прямой
+<td colspan="56">
+Параграф 7.46 Кострец прямой
 Bromus arvensis L.
 </td>
 </tr>
 <tr>
-<td>ЦЕЛИНОГРАДСКИЙ 30</td>
-<td>1991</td>
-<td>3</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1690.</td>
+<td colspan="7">ЦЕЛИНОГРАДСКИЙ 30</td>
+<td colspan="12">1991</td>
+<td colspan="6">3</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЦЕЛИНОГРАДСКИЙ ЮБИЛЕЙНЫЙ</td>
-<td>2014</td>
-<td>1,13</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1691.</td>
+<td colspan="7">ЦЕЛИНОГРАДСКИЙ ЮБИЛЕЙНЫЙ®</td>
+<td colspan="12">2014</td>
+<td colspan="6">1,13</td>
+<td colspan="7">19</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Ежа сборная
+<td colspan="56">
+Параграф 7.47 Ежа сборная
 Dactylis glomerata L.
 </td>
 </tr>
 <tr>
-<td>БУКТЫРМА</td>
-<td>2010</td>
-<td>5</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1692.</td>
+<td colspan="7">БУКТЫРМА</td>
+<td colspan="12">2010</td>
+<td colspan="6">5</td>
+<td colspan="7">8</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЗАЙЛИЙСКАЯ</td>
-<td>1993</td>
-<td>3</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1693.</td>
+<td colspan="7">ЗАЙЛИЙСКАЯ</td>
+<td colspan="12">1993</td>
+<td colspan="6">3</td>
+<td colspan="7">22</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КАРКАРА 90</td>
-<td>2000</td>
-<td>3</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1694.</td>
+<td colspan="7">КАРКАРА 90</td>
+<td colspan="12">2000</td>
+<td colspan="6">3</td>
+<td colspan="7">22</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЛОКЕ</td>
-<td>2016</td>
-<td>3</td>
-<td>291</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1695.</td>
+<td colspan="7">ЛОКЕ</td>
+<td colspan="12">2016</td>
+<td colspan="6">3</td>
+<td colspan="7">291</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Тимофеевка луговая
+<td colspan="56">
+Параграф 7.48 Тимофеевка луговая
 Phleum pratense L.
 </td>
 </tr>
 <tr>
-<td>КАЗАХ ЕЛИ 90</td>
-<td>2002</td>
-<td>3</td>
-<td>256</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1696.</td>
+<td colspan="7">КАЗАХ ЕЛИ 90</td>
+<td colspan="12">2002</td>
+<td colspan="6">3</td>
+<td colspan="7">256</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЛИШКА</td>
-<td>2016</td>
-<td>10</td>
-<td>291</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1697.</td>
+<td colspan="7">ЛИШКА</td>
+<td colspan="12">2016</td>
+<td colspan="6">10</td>
+<td colspan="7">291</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТОМИРИС</td>
-<td>2010</td>
-<td>5</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1698.</td>
+<td colspan="7">ТОМИРИС</td>
+<td colspan="12">2010</td>
+<td colspan="6">5</td>
+<td colspan="7">8</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Амарант метельчатый
+<td colspan="56">
+Параграф 7.49 Амарант метельчатый
 Amaranthus L.
 </td>
 </tr>
 <tr>
-<td>АТЛАНТ</td>
-<td>1995</td>
-<td>3,5,14</td>
-<td>174</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1699.</td>
+<td colspan="7">АТЛАНТ</td>
+<td colspan="12">1995</td>
+<td colspan="6">3,5,14</td>
+<td colspan="7">174</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Горец забайкальский
+<td colspan="56">
+Параграф 7.50 Горец забайкальский
 Polygonum divaricatum L.
 </td>
 </tr>
 <tr>
-<td>ЧАГЛИНСКИЙ</td>
-<td>2009</td>
-<td>1</td>
-<td>286</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1700.</td>
+<td colspan="7">ЧАГЛИНСКИЙ</td>
+<td colspan="12">2009</td>
+<td colspan="6">1</td>
+<td colspan="7">286</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Камфоросма лессинга
+<td colspan="56">
+Параграф 7.51 Камфоросма лессинга
 Camphorosma lessingii
 </td>
 </tr>
 <tr>
-<td>ОТРАР</td>
-<td>2009</td>
-<td>14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1701.</td>
+<td colspan="7">ОТРАР</td>
+<td colspan="12">2009</td>
+<td colspan="6">14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Прутняк (изень, кохия стелющаяся)
+<td colspan="56">
+Параграф 7.52 Прутняк (изень, кохия стелющаяся)
 Kochia p. Schrad.
 </td>
 </tr>
 <tr>
-<td>
-АЛМА-АТИНСКИЙ
-ПЕСЧАНЫЙ 1
-</td>
-<td>1985</td>
-<td>3</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1702.</td>
+<td colspan="7">АЛМА-АТИНСКИЙ ПЕСЧАНЫЙ 1</td>
+<td colspan="12">1985</td>
+<td colspan="6">3</td>
+<td colspan="7">22</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>БАКТОЛЕН</td>
-<td>1999</td>
-<td>14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1703.</td>
+<td colspan="7">БАКТОЛЕН</td>
+<td colspan="12">1999</td>
+<td colspan="6">14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЗАДАРЬИНСКИЙ</td>
-<td>1990</td>
-<td>14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1704.</td>
+<td colspan="7">ЗАДАРЬИНСКИЙ</td>
+<td colspan="12">1990</td>
+<td colspan="6">14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>НУР</td>
-<td>2004</td>
-<td>14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1705.</td>
+<td colspan="7">НУР</td>
+<td colspan="12">2004</td>
+<td colspan="6">14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ОРДАБАСЫ</td>
-<td>2016</td>
-<td>14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1706.</td>
+<td colspan="7">ОРДАБАСЫ</td>
+<td colspan="12">2016</td>
+<td colspan="6">14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Кейреук (солянка корявая, жесткая)
+<td colspan="56">
+Параграф 7.53 Кейреук (солянка корявая, жесткая)
 Salsola regida Pall.
 </td>
 </tr>
 <tr>
-<td>АЙДАРЛИНСКИЙ 1</td>
-<td>1985</td>
-<td>3</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1707.</td>
+<td colspan="7">АЙДАРЛИНСКИЙ 1</td>
+<td colspan="12">1985</td>
+<td colspan="6">3</td>
+<td colspan="7">22</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СЭН</td>
-<td>2000</td>
-<td>9,14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1708.</td>
+<td colspan="7">СЭН</td>
+<td colspan="12">2000</td>
+<td colspan="6">9,14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Полынь гладкая
+<td colspan="56">
+Параграф 7.54 Полынь гладкая
 Artemisia L. glabella Kar.​et.​Kir
 </td>
 </tr>
 <tr>
-<td>КАРКАРАЛИНСКАЯ</td>
-<td>2004</td>
-<td>8</td>
-<td>268</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1709.</td>
+<td colspan="7">КАРКАРАЛИНСКАЯ</td>
+<td colspan="12">2004</td>
+<td colspan="6">8</td>
+<td colspan="7">268</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КЕНТСКАЯ</td>
-<td>2004</td>
-<td>8</td>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1710.</td>
+<td colspan="7">КЕНТСКАЯ</td>
+<td colspan="12">2004</td>
+<td colspan="6">8</td>
+<td colspan="7">13</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Полынь белоземельная
+<td colspan="56">
+Параграф 7.55 Полынь белоземельная
 Artemisia terrae-albae Krasch.
 </td>
 </tr>
 <tr>
-<td>АКЖЕЛЕН</td>
-<td>2005</td>
-<td>3</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1711.</td>
+<td colspan="7">АКЖЕЛЕН</td>
+<td colspan="12">2005</td>
+<td colspan="6">3</td>
+<td colspan="7">22</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Ромашка аптечная
+<td colspan="56">
+Параграф 7.56 Ромашка аптечная
 Matricaria chamomilla
 </td>
 </tr>
 <tr>
-<td>КАРАГАНДИНСКАЯ</td>
-<td>2004</td>
-<td>8</td>
-<td>268</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1712.</td>
+<td colspan="7">КАРАГАНДИНСКАЯ</td>
+<td colspan="12">2004</td>
+<td colspan="6">8</td>
+<td colspan="7">268</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Саксаул белыйF1
-Haloxylon Н. рersicum)
+<td colspan="56">
+Параграф 7.57 Саксаул белыйF1
+Haloxylon Н. (рersicum)
 </td>
 </tr>
 <tr>
-<td>СЕЙХУН</td>
-<td>2007</td>
-<td>9,14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1713.</td>
+<td colspan="7">СЕЙХУН</td>
+<td colspan="12">2007</td>
+<td colspan="6">9,14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Саксаул черный
+<td colspan="56">
+Параграф 7.58 Саксаул черный
 Haloxylon aphyllum (Minkw.)
 </td>
 </tr>
 <tr>
-<td>ЖАН-САЯ</td>
-<td>2000</td>
-<td>9,14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1714.</td>
+<td colspan="7">ЖАН-САЯ</td>
+<td colspan="12">2000</td>
+<td colspan="6">9,14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Терескен
+<td colspan="56">
+Параграф 7.59 Терескен
 Eurotia ceratoides (L.) C.A. Mey
 </td>
 </tr>
 <tr>
-<td>АРЫССКИЙ</td>
-<td>1990</td>
-<td>14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1715.</td>
+<td colspan="7">АРЫССКИЙ</td>
+<td colspan="12">1990</td>
+<td colspan="6">14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КЛХ-2</td>
-<td>1990</td>
-<td>3</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1716.</td>
+<td colspan="7">КЛХ-2</td>
+<td colspan="12">1990</td>
+<td colspan="6">3</td>
+<td colspan="7">22</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КЫЗЫЛКУМ</td>
-<td>1999</td>
-<td>14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1717.</td>
+<td colspan="7">КЫЗЫЛКУМ</td>
+<td colspan="12">1999</td>
+<td colspan="6">14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Терескен эверсмана
+<td colspan="56">
+Параграф 7.60 Терескен эверсмана
 Ceratoides eversmanniana
 </td>
 </tr>
 <tr>
-<td>КЫЗЫЛКУМ 43</td>
-<td>2016</td>
-<td>14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1718.</td>
+<td colspan="7">КЫЗЫЛКУМ 43</td>
+<td colspan="12">2016</td>
+<td colspan="6">14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Астрагал лисовидный
-Аstragalus, A. alopecias
+<td colspan="56">
+Параграф 7.61 Астрагал лисовидный
+Аstragalus, A. Alopecias
 </td>
 </tr>
 <tr>
-<td>ТАСПА</td>
-<td>2007</td>
-<td>9,14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1719.</td>
+<td colspan="7">ТАСПА</td>
+<td colspan="12">2007</td>
+<td colspan="6">9,14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Астрагал шарагаловый
+<td colspan="56">
+Параграф 7.62 Астрагал шарагаловый
 AstragalusglobicepsBunge
 </td>
 </tr>
 <tr>
-<td>ТАСПА 52</td>
-<td>2011</td>
-<td>9,14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1720.</td>
+<td colspan="7">ТАСПА 52</td>
+<td colspan="12">2011</td>
+<td colspan="6">9,14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Чогон
+<td colspan="56">
+Параграф 7.63 Чогон
 Salsola subaphylla C.A. Mey
 </td>
 </tr>
 <tr>
-<td>ЖАЛЫН</td>
-<td>2006</td>
-<td>9,14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1721.</td>
+<td colspan="7">ЖАЛЫН</td>
+<td colspan="12">2006</td>
+<td colspan="6">9,14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СЫРДАРЬИНСКИЙ</td>
-<td>2000</td>
-<td>9,14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1722.</td>
+<td colspan="7">СЫРДАРЬИНСКИЙ</td>
+<td colspan="12">2000</td>
+<td colspan="6">9,14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Вайда буассье
+<td colspan="56">
+Параграф 7.64 Вайда буассье
 Sameraria Boissieriana
 </td>
 </tr>
 <tr>
-<td>НАУРЫЗ</td>
-<td>2004</td>
-<td>14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1723.</td>
+<td colspan="7">НАУРЫЗ</td>
+<td colspan="12">2004</td>
+<td colspan="6">14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Жузгун безлистый
+<td colspan="56">
+Параграф 7.65 Жузгун безлистый
 C.​aphyllum (Pall) Gurke
 </td>
 </tr>
 <tr>
-<td>ШУГЫЛА</td>
-<td>2004</td>
-<td>14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1724.</td>
+<td colspan="7">ШУГЫЛА</td>
+<td colspan="12">2004</td>
+<td colspan="6">14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Жузгун Голова Медузы
+<td colspan="56">
+Параграф 7.66 Жузгун Голова Медузы
 (G.​caputMedusae)
 </td>
 </tr>
 <tr>
-<td>ӘСЕМ</td>
-<td>2004</td>
-<td>14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1725.</td>
+<td colspan="7">ӘСЕМ</td>
+<td colspan="12">2004</td>
+<td colspan="6">14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Жузгун колючекрылый
+<td colspan="56">
+Параграф 7.67 Жузгун колючекрылый
 Calligonum acanthopterum
 </td>
 </tr>
 <tr>
-<td>КЫЗЫЛКУМ 47</td>
-<td>2016</td>
-<td>14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1726.</td>
+<td colspan="7">КЫЗЫЛКУМ 47</td>
+<td colspan="12">2016</td>
+<td colspan="6">14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Жузгун мелкоплодный
+<td colspan="56">
+Параграф 7.68 Жузгун мелкоплодный
 Calligonum microcarpum
 </td>
 </tr>
 <tr>
-<td>ҚЫЗЫЛҚҰМ 42</td>
-<td>2011</td>
-<td>14</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1727.</td>
+<td colspan="7">ҚЫЗЫЛҚҰМ 42</td>
+<td colspan="12">2011</td>
+<td colspan="6">14</td>
+<td colspan="7">20</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Морковь кормовая
+<td colspan="56">
+Параграф 7.69 Морковь кормовая
 Daucus carota L.
 </td>
 </tr>
 <tr>
-<td>МИРЗОИ КРАСНАЯ 288</td>
-<td>1962</td>
-<td>14</td>
-<td>195</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1728.</td>
+<td colspan="7">МИРЗОИ КРАСНАЯ 288</td>
+<td colspan="12">1962</td>
+<td colspan="6">14</td>
+<td colspan="7">195</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>РОГНЕДА</td>
-<td>1988</td>
-<td>13</td>
-<td>77</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1729.</td>
+<td colspan="7">РОГНЕДА</td>
+<td colspan="12">1988</td>
+<td colspan="6">13</td>
+<td colspan="7">77</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ШАНТЕНЭ 2461</td>
-<td>1948</td>
-<td>
+<td>1730.</td>
+<td colspan="7">ШАНТЕНЭ 2461</td>
+<td colspan="12">1948</td>
+<td colspan="6">
 1,2,3,4,5
 6,7,8,9,11
 12,13,14
 </td>
-<td>87</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">87</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Тыква кормовая
+<td colspan="56">
+Параграф 7.70 Тыква кормовая
 (Cucurbita L)
 </td>
 </tr>
 <tr>
-<td>ГИБРИД 72</td>
-<td>1974</td>
-<td>5</td>
-<td>168</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1731.</td>
+<td colspan="7">ГИБРИД 72</td>
+<td colspan="12">1974</td>
+<td colspan="6">5</td>
+<td colspan="7">168</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>РЕКОРД</td>
-<td>1985</td>
-<td>9</td>
-<td>54</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1732.</td>
+<td colspan="7">РЕКОРД</td>
+<td colspan="12">1985</td>
+<td colspan="6">9</td>
+<td colspan="7">54</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СТОФУНТОВАЯ</td>
-<td>1947</td>
-<td>1,3,13</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1733.</td>
+<td colspan="7">СТОФУНТОВАЯ</td>
+<td colspan="12">1947</td>
+<td colspan="6">1,3,13</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Свекла кормовая
+<td colspan="56">
+Параграф 7.71 Свекла кормовая
 Beta vulgaris L. ssp. Vulgaris var. alba DC.
 </td>
 </tr>
 <tr>
-<td>КУРОС</td>
-<td>1997</td>
-<td>6</td>
-<td>231</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1734.</td>
+<td colspan="7">КУРОС</td>
+<td colspan="12">1997</td>
+<td colspan="6">6</td>
+<td colspan="7">231</td>
+<td colspan="7"></td>
+<td colspan="5">F1</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>МОНРО</td>
-<td>2000</td>
-<td>1,2,13</td>
-<td>240</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1735.</td>
+<td colspan="7">МОНРО</td>
+<td colspan="12">2000</td>
+<td colspan="6">1,2,13</td>
+<td colspan="7">240</td>
+<td colspan="7"></td>
+<td colspan="5">F1</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ОБРОШИНСКАЯ ЖЕЛТАЯ</td>
-<td>1987</td>
-<td>5,12,14</td>
-<td>164</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1736.</td>
+<td colspan="7">ОБРОШИНСКАЯ ЖЕЛТАЯ</td>
+<td colspan="12">1987</td>
+<td colspan="6">5,12,14</td>
+<td colspan="7">164</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТАМАРА</td>
-<td>2002</td>
-<td>1,2,13</td>
-<td>230</td>
-<td></td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1737.</td>
+<td colspan="7">ТАМАРА</td>
+<td colspan="12">2002</td>
+<td colspan="6">1,2,13</td>
+<td colspan="7">230</td>
+<td colspan="7"></td>
+<td colspan="5">F1</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ТИМИРЯЗЕВСКАЯ
-ОДНОСЕМЕННАЯ
-</td>
-<td>1988</td>
-<td>10</td>
-<td>142</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1738.</td>
+<td colspan="7">ТИМИРЯЗЕВСКАЯ ОДНОСЕМЕННАЯ</td>
+<td colspan="12">1988</td>
+<td colspan="6">10</td>
+<td colspan="7">142</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ТИМИРЯЗЕВСКАЯ
-ОКРУГЛАЯ
-</td>
-<td>1991</td>
-<td>3,8</td>
-<td>142</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1739.</td>
+<td colspan="7">ТИМИРЯЗЕВСКАЯ ОКРУГЛАЯ</td>
+<td colspan="12">1991</td>
+<td colspan="6">3,8</td>
+<td colspan="7">142</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТИМИРЯЗЕВСКАЯ 56</td>
-<td>1974</td>
-<td>13</td>
-<td>145</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1740.</td>
+<td colspan="7">ТИМИРЯЗЕВСКАЯ 56</td>
+<td colspan="12">1974</td>
+<td colspan="6">13</td>
+<td colspan="7">145</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТИМИРЯЗЕВСКАЯ 87</td>
-<td>1993</td>
-<td>3</td>
-<td>145</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1741.</td>
+<td colspan="7">ТИМИРЯЗЕВСКАЯ 87</td>
+<td colspan="12">1993</td>
+<td colspan="6">3</td>
+<td colspan="7">145</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ЭККЕНДОРФСКАЯ
-ЖЕЛТАЯ
-</td>
-<td>1943</td>
-<td>2,3,4,5,6,7,8,9,11,13,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1742.</td>
+<td colspan="7">ЭККЕНДОРФСКАЯ ЖЕЛТАЯ</td>
+<td colspan="12">1943</td>
+<td colspan="6">2,3,4,5,6,7,8,9,11,13,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Брюква кормовая
+<td colspan="56">
+Параграф 7.72 Брюква кормовая
 Brassica napus L. var. napobrassica (L.) Rchb.
 </td>
 </tr>
 <tr>
-<td>КУУЗИКУ</td>
-<td>1976</td>
-<td>8</td>
-<td>218</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1743.</td>
+<td colspan="7">КУУЗИКУ</td>
+<td colspan="12">1976</td>
+<td colspan="6">8</td>
+<td colspan="7">218</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Турнепс
+<td colspan="56">
+Параграф 7.73 Турнепс
 Brassica rapa L. var. rapa (L.) Thell.
 </td>
 </tr>
 <tr>
-<td>ОСТЕРЗУНДОМСКИЙ</td>
-<td>1943</td>
-<td>5,8</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1744.</td>
+<td colspan="7">ОСТЕРЗУНДОМСКИЙ</td>
+<td colspan="12">1943</td>
+<td colspan="6">5,8</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Арбуз кормовой
+<td colspan="56">
+Параграф 7.74 Арбуз кормовой
 Турнепс
 Citrullus lanatus (Thunb.) Matsum. etNakal.
 </td>
 </tr>
 <tr>
-<td>ДИСХИМ</td>
-<td>1956</td>
-<td>1,2,3,4,5,6,7,8,9,11,12,13,14</td>
-<td>84</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1745.</td>
+<td colspan="7">ДИСХИМ</td>
+<td colspan="12">1956</td>
+<td colspan="6">1,2,3,4,5,6,7,8,9,11,12,13,14</td>
+<td colspan="7">84</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Тутовый шелкопряд
+<td colspan="56">
+Параграф 7.75 Тутовый шелкопряд
 Boxbyx mori L.
 </td>
 </tr>
 <tr>
-<td>
+<td>1746.</td>
+<td colspan="7">
 АССАКА х
 МАРХАМАТ
 </td>
-<td>1989</td>
-<td>14</td>
-<td>185</td>
-<td></td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="12">1989</td>
+<td colspan="6">14</td>
+<td colspan="7">185</td>
+<td colspan="7"></td>
+<td colspan="5">2л</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
+<td>1747.</td>
+<td colspan="7">
 БЕЛОКОКОННАЯ 1
 х БЕЛОКОКОННАЯ
 2 (УЛУЧШЕННЫЙ)
 </td>
-<td>1956</td>
-<td>14</td>
-<td>1</td>
-<td></td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="12">1956</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5">2л</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
+<td>1748.</td>
+<td colspan="7">
 БЕЛОКОКОННАЯ 1
 х БЕЛОКОКОННАЯ
 2 (УЛУЧШЕННЫЙ)
 </td>
-<td>1965</td>
-<td>14</td>
-<td>1</td>
-<td></td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="12">1965</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5">2л</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
+<td>1749.</td>
+<td colspan="7">
 МАРХАМАТ х
 АССАКА
 </td>
-<td>1989</td>
-<td>14</td>
-<td>185</td>
-<td></td>
-<td>2л</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="12">1989</td>
+<td colspan="6">14</td>
+<td colspan="7">185</td>
+<td colspan="7"></td>
+<td colspan="5">2л</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТЕТРАГИБРИД 3</td>
-<td>1965</td>
-<td>6,14</td>
-<td>192,199</td>
-<td></td>
-<td>4л</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1750.</td>
+<td colspan="7">ТЕТРАГИБРИД 3</td>
+<td colspan="12">1965</td>
+<td colspan="6">6,14</td>
+<td colspan="7">192,199</td>
+<td colspan="7"></td>
+<td colspan="5">4л</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Шелковица
+<td colspan="56">
+Параграф 7.76 Шелковица
 Morus L.
 </td>
 </tr>
 <tr>
-<td>МАНКЕНТСКАЯ</td>
-<td>1972</td>
-<td>14</td>
-<td>192</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1751.</td>
+<td colspan="7">МАНКЕНТСКАЯ</td>
+<td colspan="12">1972</td>
+<td colspan="6">14</td>
+<td colspan="7">192</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ТАДЖИКСКАЯ
-БЕССЕМЯННАЯ
-</td>
-<td>1964</td>
-<td>14</td>
-<td>192</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1752.</td>
+<td colspan="7">ТАДЖИКСКАЯ БЕССЕМЯННАЯ</td>
+<td colspan="12">1964</td>
+<td colspan="6">14</td>
+<td colspan="7">192</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Плодовые семечковые
-Яблоня
+<td colspan="56">
+Глава 8. Плодовые семечковые
+Параграф 8.1 Яблоня
 Malus domestica Borkh.
 </td>
 </tr>
 <tr>
-<td>АЙДОРЕД</td>
-<td>1998</td>
-<td>6,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>АЙНУР</td>
-<td>2011</td>
-<td>3, 6, 14</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>АЛТАЙСКОЕ РУМЯНОЕ</td>
-<td>1992</td>
-<td>1,13</td>
-<td>112</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ле</td>
-</tr>
-<tr>
-<td>АНИС ПОЛОСАТЫЙ</td>
-<td>1973</td>
-<td>2,4,7,11</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ро</td>
-</tr>
-<tr>
-<td>
-АНТОНОВКА
-ОБЫКНОВЕННАЯ
-</td>
-<td>1970</td>
-<td>7</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>рз</td>
-</tr>
-<tr>
-<td>АПОРТ</td>
-<td>1965</td>
-<td>3,5,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ро</td>
-</tr>
-<tr>
-<td>АРГУС</td>
-<td>1980</td>
-<td>14</td>
-<td>197</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ро</td>
-</tr>
-<tr>
-<td>БАБУШКИНО</td>
-<td>1965</td>
-<td>6</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>БЕРКУТОВСКОЕ</td>
-<td>1997</td>
-<td>7</td>
-<td>263</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>
-БОРОВИНКА
-ТАШКЕНТСКАЯ
-</td>
-<td>1970</td>
-<td>14</td>
-<td>197</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ле</td>
-</tr>
-<tr>
-<td>ВОСХОД</td>
-<td>2011</td>
-<td>3, 6, 14</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>ГАЛА</td>
-<td>2011</td>
-<td>3, 6, 14</td>
-<td>310</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ро</td>
-</tr>
-<tr>
-<td>ГОЛДЕН ДЕЛИШЕС</td>
-<td>1965</td>
-<td>3, 6, 9 (*), 14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>ГОРНОАЛТАЙСКОЕ</td>
-<td>1973</td>
-<td>1,5,13</td>
-<td>112</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ле</td>
-</tr>
-<tr>
-<td>ГРЕННИ СМИТ</td>
-<td>2011</td>
-<td>3, 6, 14</td>
-<td>312</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>
-ГРУШОВКА
-ВЕРНЕНСКАЯ
-</td>
-<td>1967</td>
-<td>6,9</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>
-ГРУШОВКА
-МОСКОВСКАЯ
-</td>
-<td>1970</td>
-<td>7</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ле</td>
-</tr>
-<tr>
-<td>ГРУШОВКА ОМСКАЯ</td>
-<td>1970</td>
-<td>8</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ле</td>
-</tr>
-<tr>
-<td>ДЕЛИШЕС</td>
-<td>1973</td>
-<td>14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>ДЖОНАТАН</td>
-<td>1970</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>ЖЕБРОВСКОЕ</td>
-<td>1998</td>
-<td>13</td>
-<td>112</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ле</td>
-</tr>
-<tr>
-<td>ЖЫЛДЫЗ</td>
-<td>1996</td>
-<td>3</td>
-<td>201</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>ЗАВЕТНОЕ</td>
-<td>1993</td>
-<td>1,13</td>
-<td>112</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>ЗАИЛИЙСКОЕ</td>
-<td>1965</td>
-<td>3,6,9,14</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>ЗАРЯ АЛАТАУ</td>
-<td>1974</td>
-<td>3</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>
-ЗИМНЕЕ
-ПЛЕСЕЦКОГО
-</td>
-<td>1984</td>
-<td>3,6</td>
-<td>159</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>ЗИМНИЙ ШАФРАН</td>
-<td>1999</td>
-<td>13</td>
-<td>112</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ос</td>
-</tr>
-<tr>
-<td>ИСИЛЬКУЛЬСКОЕ</td>
-<td>1973</td>
-<td>1,5</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ос</td>
-</tr>
-<tr>
-<td>
-КАЗАХСКОЕ
-ЮБИЛЕЙНОЕ
-</td>
-<td>1996</td>
-<td>3</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>
-КИРГИЗСКОЕ
-ЗИМНЕЕ
-</td>
-<td>1986</td>
-<td>3</td>
-<td>200</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>КУЛЯШ</td>
-<td>2014</td>
-<td>3</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>КЫМБАТ</td>
-<td>2016</td>
-<td>3</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ос</td>
-</tr>
-<tr>
-<td>ЛЮБИМЕЦ</td>
-<td>1973</td>
-<td>1,2,5,8,12,13</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>
-ЛЕТНЕЕ
-ПОЛОСАТОЕ
-</td>
-<td>2005</td>
-<td>10</td>
-<td>149</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ле</td>
-</tr>
-<tr>
-<td>МАКПАЛ</td>
-<td>2012</td>
-<td>3</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>МАКСАТ</td>
-<td>2011</td>
-<td>3</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ро</td>
-</tr>
-<tr>
-<td>МАЛЬТ БАГАЕВСКИЙ</td>
-<td>1970</td>
-<td>2,4,7,11</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ле</td>
-</tr>
-<tr>
-<td>МАНА</td>
-<td>1993</td>
-<td>1,13</td>
-<td>98</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>МАНТЕТ</td>
-<td>1990</td>
-<td>3</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ле</td>
-</tr>
-<tr>
-<td>МЕЛБА</td>
-<td>1965</td>
-<td>3,4,6,9,11,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ле</td>
-</tr>
-<tr>
-<td>МИЛТОН</td>
-<td>1965</td>
-<td>3,6,9</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ос</td>
-</tr>
-<tr>
-<td>ОСЕННЕЕ ПОЛОСАТОЕ</td>
-<td>1973</td>
-<td>7</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ос</td>
-</tr>
-<tr>
-<td>ПАЛЬМЕТТА</td>
-<td>2000</td>
-<td>1,13</td>
-<td>180</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ро</td>
-</tr>
-<tr>
-<td>
-ПАРМЕН ЗИМНИЙ
-ЗОЛОТОЙ
-</td>
-<td>1965</td>
-<td>9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>ПЕПИН ШАФРАННЫЙ</td>
-<td>1970</td>
-<td>2,4,11</td>
-<td>58</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>ПЕСТРУШКА</td>
-<td>1965</td>
-<td>3,5,6,9</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>ПОНИКЛАЯ АЛТАЙСКАЯ</td>
-<td>1993</td>
-<td>1,13</td>
-<td>112</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ле</td>
-</tr>
-<tr>
-<td>РЕД ДЕЛИШЕС</td>
-<td>2011</td>
-<td>3, 6, 14</td>
-<td>311</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>РЕНЕТ БУРХАРДТА</td>
-<td>1965</td>
-<td>2,3,4,5,6,9, 11,14</td>
-<td>152</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ос</td>
-</tr>
-<tr>
-<td>
-РЕНЕТ ЗОЛОТОЙ
-ПИСГУДА
-</td>
-<td>1973</td>
-<td>2,4,11</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ос</td>
-</tr>
-<tr>
-<td>РЕНЕТ КАЗАХСТАНСКИЙ</td>
-<td>1965</td>
-<td>3,6,9</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ос</td>
-</tr>
-<tr>
-<td>
-РЕНЕТ
-ЛАНДСБЕРГСКИЙ
-</td>
-<td>1965</td>
-<td>3,6,9</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>
-РЕНЕТ
-СИМИРЕНКО
-</td>
-<td>1965</td>
-<td>4,6,9,11,14</td>
-<td>163,159</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>РОЗМАРИН БЕЛЫЙ</td>
-<td>1965</td>
-<td>9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>
-РОЗОВОЕ
-ПРЕВОСХОДНОЕ
-</td>
-<td>1980</td>
-<td>6</td>
-<td>58</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ле</td>
-</tr>
-<tr>
-<td>РУБИН</td>
-<td>1997</td>
-<td>3</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>
-РУМЯНКА
-АЛМА-АТИНСКАЯ
-</td>
-<td>1965</td>
-<td>3,5,6,14</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>САЛТАНАТ</td>
-<td>1980</td>
-<td>3</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>СЛАВА ПОБЕДИТЕЛЯМ</td>
-<td>1982</td>
-<td>3</td>
-<td>163</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ос</td>
-</tr>
-<tr>
-<td>СПАРТАК 1985</td>
-<td>1985</td>
-<td>7</td>
-<td>103</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>СТАРКРИМСОН</td>
-<td>1988</td>
-<td>3,6,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>СТАРКСПУР ЭРЛИБЛАЙЗ</td>
-<td>1990</td>
-<td>6</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>СУЙСЛЕПСКОЕ</td>
-<td>1965</td>
-<td>3,5,6,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ле</td>
-</tr>
-<tr>
-<td>ТАЛГАРСКОЕ</td>
-<td>2004</td>
-<td>3</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>УРАЛЬСКОЕ НАЛИВНОЕ</td>
-<td>1973</td>
-<td>1,2,4,5,8,10,12,13</td>
-<td>149</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ос</td>
-</tr>
-<tr>
-<td>УЭЛСИ</td>
-<td>1980</td>
-<td>14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>ФУДЖИ</td>
-<td>2011</td>
-<td>3, 6, 14</td>
-<td>313</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>ЮЖНОЕ</td>
-<td>2001</td>
-<td>3</td>
-<td>134</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
-</tr>
-<tr>
-<td>ЯНДЫКОВСКОЕ</td>
-<td>1973</td>
-<td>2,4,11</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ле</td>
-</tr>
-<tr>
-<td colspan="9">Семенные подвои яблони</td>
-</tr>
-<tr>
-<td>АНИС</td>
-<td>1961</td>
-<td>2,4,7,11</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>КИТАЙКА КРУПНОПЛОДНАЯ</td>
-<td>1961</td>
-<td>5,8</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>НЕДЗВЕЦКОГО</td>
-<td>1961</td>
-<td>3,9</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПЕСТРУШКА</td>
-<td>1975</td>
-<td>3,6</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ПУДОВЩИНА</td>
-<td>1961</td>
-<td>1,5,10,12,13</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РАЙКА КРАСНАЯ</td>
-<td>1961</td>
-<td>5,8</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РАНЕТКА КРАСНАЯ</td>
-<td>1961</td>
-<td>1,10,12,13</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>РАНЕТКА ПУРПУРОВАЯ</td>
-<td>1961</td>
-<td>2,4,7,11</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>СИБИРСКАЯ ЯБЛОНЯ (СИБИРКА)</td>
-<td>1961</td>
-<td>
+<td>1753.</td>
+<td colspan="7">АЙДОРЕД</td>
+<td colspan="12">1998</td>
+<td colspan="6">6,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1754.</td>
+<td colspan="7">АЙНУР</td>
+<td colspan="12">2011</td>
+<td colspan="6">3, 6, 14</td>
+<td colspan="7">23</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1755.</td>
+<td colspan="7">АЛТАЙСКОЕ РУМЯНОЕ</td>
+<td colspan="12">1992</td>
+<td colspan="6">1,13</td>
+<td colspan="7">112</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ле</td>
+</tr>
+<tr>
+<td>1756.</td>
+<td colspan="7">АНИС ПОЛОСАТЫЙ</td>
+<td colspan="12">1973</td>
+<td colspan="6">2,4,7,11</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ро</td>
+</tr>
+<tr>
+<td>1757.</td>
+<td colspan="7">АНТОНОВКА ОБЫКНОВЕННАЯ</td>
+<td colspan="12">1970</td>
+<td colspan="6">7</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">рз</td>
+</tr>
+<tr>
+<td>1758.</td>
+<td colspan="7">АПОРТ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,5,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ро</td>
+</tr>
+<tr>
+<td>1759.</td>
+<td colspan="7">АРГУС</td>
+<td colspan="12">1980</td>
+<td colspan="6">14</td>
+<td colspan="7">197</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ро</td>
+</tr>
+<tr>
+<td>1760.</td>
+<td colspan="7">БАБУШКИНО</td>
+<td colspan="12">1965</td>
+<td colspan="6">6</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1761.</td>
+<td colspan="7">БЕРКУТОВСКОЕ</td>
+<td colspan="12">1997</td>
+<td colspan="6">7</td>
+<td colspan="7">263</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1762.</td>
+<td colspan="7">БОРОВИНКА ТАШКЕНТСКАЯ</td>
+<td colspan="12">1970</td>
+<td colspan="6">14</td>
+<td colspan="7">197</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ле</td>
+</tr>
+<tr>
+<td>1763.</td>
+<td colspan="7">ВОСХОД</td>
+<td colspan="12">2011</td>
+<td colspan="6">3, 6, 14</td>
+<td colspan="7">23</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1764.</td>
+<td colspan="7">ГАЛА</td>
+<td colspan="12">2011</td>
+<td colspan="6">3, 6, 14</td>
+<td colspan="7">310</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ро</td>
+</tr>
+<tr>
+<td>1765.</td>
+<td colspan="7">ГОЛДЕН ДЕЛИШЕС</td>
+<td colspan="12">1965</td>
+<td colspan="6">3, 6, 9 (*), 14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1766.</td>
+<td colspan="7">ГОРНОАЛТАЙСКОЕ</td>
+<td colspan="12">1973</td>
+<td colspan="6">1,5,13</td>
+<td colspan="7">112</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ле</td>
+</tr>
+<tr>
+<td>1767.</td>
+<td colspan="7">ГРЕННИ СМИТ</td>
+<td colspan="12">2011</td>
+<td colspan="6">3, 6, 14</td>
+<td colspan="7">312</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1768.</td>
+<td colspan="7">ГРУШОВКА ВЕРНЕНСКАЯ</td>
+<td colspan="12">1967</td>
+<td colspan="6">6,9</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1769.</td>
+<td colspan="7">ГРУШОВКА МОСКОВСКАЯ</td>
+<td colspan="12">1970</td>
+<td colspan="6">7</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ле</td>
+</tr>
+<tr>
+<td>1770.</td>
+<td colspan="7">ГРУШОВКА ОМСКАЯ</td>
+<td colspan="12">1970</td>
+<td colspan="6">8</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ле</td>
+</tr>
+<tr>
+<td>1771.</td>
+<td colspan="7">ДЕЛИШЕС</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1772.</td>
+<td colspan="7">ДЖОНАТАН</td>
+<td colspan="12">1970</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1773.</td>
+<td colspan="7">ЖЕБРОВСКОЕ</td>
+<td colspan="12">1998</td>
+<td colspan="6">13</td>
+<td colspan="7">112</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ле</td>
+</tr>
+<tr>
+<td>1774.</td>
+<td colspan="7">ЖЫЛДЫЗ</td>
+<td colspan="12">1996</td>
+<td colspan="6">3</td>
+<td colspan="7">201</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1775.</td>
+<td colspan="7">ЗАВЕТНОЕ</td>
+<td colspan="12">1993</td>
+<td colspan="6">1,13</td>
+<td colspan="7">112</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1776.</td>
+<td colspan="7">ЗАИЛИЙСКОЕ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">23</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1777.</td>
+<td colspan="7">ЗАРЯ АЛАТАУ</td>
+<td colspan="12">1974</td>
+<td colspan="6">3</td>
+<td colspan="7">23</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1778.</td>
+<td colspan="7">ЗИМНЕЕ ПЛЕСЕЦКОГО</td>
+<td colspan="12">1984</td>
+<td colspan="6">3,6</td>
+<td colspan="7">159</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1779.</td>
+<td colspan="7">ЗИМНИЙ ШАФРАН</td>
+<td colspan="12">1999</td>
+<td colspan="6">13</td>
+<td colspan="7">112</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ос</td>
+</tr>
+<tr>
+<td>1780.</td>
+<td colspan="7">ИСИЛЬКУЛЬСКОЕ</td>
+<td colspan="12">1973</td>
+<td colspan="6">1,5</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ос</td>
+</tr>
+<tr>
+<td>1781.</td>
+<td colspan="7">КАЗАХСКОЕ ЮБИЛЕЙНОЕ</td>
+<td colspan="12">1996</td>
+<td colspan="6">3</td>
+<td colspan="7">23</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1782.</td>
+<td colspan="7">КИРГИЗСКОЕ ЗИМНЕЕ</td>
+<td colspan="12">1986</td>
+<td colspan="6">3</td>
+<td colspan="7">200</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1783.</td>
+<td colspan="7">КУЛЯШ</td>
+<td colspan="12">2014</td>
+<td colspan="6">3</td>
+<td colspan="7">23</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1784.</td>
+<td colspan="7">КЫМБАТ</td>
+<td colspan="12">2016</td>
+<td colspan="6">3</td>
+<td colspan="7">23</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ос</td>
+</tr>
+<tr>
+<td>1785.</td>
+<td colspan="7">ЛЮБИМЕЦ</td>
+<td colspan="12">1973</td>
+<td colspan="6">1,2,5,8,12,13</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1786.</td>
+<td colspan="7">ЛЕТНЕЕ ПОЛОСАТОЕ</td>
+<td colspan="12">2005</td>
+<td colspan="6">10</td>
+<td colspan="7">149</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ле</td>
+</tr>
+<tr>
+<td>1787.</td>
+<td colspan="7">МАКПАЛ</td>
+<td colspan="12">2012</td>
+<td colspan="6">3</td>
+<td colspan="7">23</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1788.</td>
+<td colspan="7">МАКСАТ</td>
+<td colspan="12">2011</td>
+<td colspan="6">3</td>
+<td colspan="7">23</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ро</td>
+</tr>
+<tr>
+<td>1789.</td>
+<td colspan="7">МАЛЬТ БАГАЕВСКИЙ</td>
+<td colspan="12">1970</td>
+<td colspan="6">2,4,7,11</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ле</td>
+</tr>
+<tr>
+<td>1790.</td>
+<td colspan="7">МАНА</td>
+<td colspan="12">1993</td>
+<td colspan="6">1,13</td>
+<td colspan="7">98</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1791.</td>
+<td colspan="7">МАНТЕТ</td>
+<td colspan="12">1990</td>
+<td colspan="6">3</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ле</td>
+</tr>
+<tr>
+<td>1792.</td>
+<td colspan="7">МЕЛБА</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,4,6,9,11,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ле</td>
+</tr>
+<tr>
+<td>1793.</td>
+<td colspan="7">МИЛТОН</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,9</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ос</td>
+</tr>
+<tr>
+<td>1794.</td>
+<td colspan="7">ОСЕННЕЕ ПОЛОСАТОЕ</td>
+<td colspan="12">1973</td>
+<td colspan="6">7</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ос</td>
+</tr>
+<tr>
+<td>1795.</td>
+<td colspan="7">ПАЛЬМЕТТА</td>
+<td colspan="12">2000</td>
+<td colspan="6">1,13</td>
+<td colspan="7">180</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ро</td>
+</tr>
+<tr>
+<td>1796.</td>
+<td colspan="7">ПАРМЕН ЗИМНИЙ ЗОЛОТОЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1797.</td>
+<td colspan="7">ПЕПИН ШАФРАННЫЙ</td>
+<td colspan="12">1970</td>
+<td colspan="6">2,4,11</td>
+<td colspan="7">58</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1798.</td>
+<td colspan="7">ПЕСТРУШКА</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,5,6,9</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1799.</td>
+<td colspan="7">ПОНИКЛАЯ АЛТАЙСКАЯ</td>
+<td colspan="12">1993</td>
+<td colspan="6">1,13</td>
+<td colspan="7">112</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ле</td>
+</tr>
+<tr>
+<td>1800.</td>
+<td colspan="7">РЕД ДЕЛИШЕС</td>
+<td colspan="12">2011</td>
+<td colspan="6">3, 6, 14</td>
+<td colspan="7">311</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1801.</td>
+<td colspan="7">РЕНЕТ БУРХАРДТА</td>
+<td colspan="12">1965</td>
+<td colspan="6">2,3,4,5,6,9, 11,14</td>
+<td colspan="7">152</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ос</td>
+</tr>
+<tr>
+<td>1802.</td>
+<td colspan="7">РЕНЕТ ЗОЛОТОЙ ПИСГУДА</td>
+<td colspan="12">1973</td>
+<td colspan="6">2,4,11</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ос</td>
+</tr>
+<tr>
+<td>1803.</td>
+<td colspan="7">РЕНЕТ КАЗАХСТАНСКИЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,9</td>
+<td colspan="7">23</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ос</td>
+</tr>
+<tr>
+<td>1804.</td>
+<td colspan="7">РЕНЕТ ЛАНДСБЕРГСКИЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,9</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1805.</td>
+<td colspan="7">РЕНЕТ СИМИРЕНКО</td>
+<td colspan="12">1965</td>
+<td colspan="6">4,6,9,11,14</td>
+<td colspan="7">163,159</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1806.</td>
+<td colspan="7">РОЗМАРИН БЕЛЫЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1807.</td>
+<td colspan="7">РОЗОВОЕ ПРЕВОСХОДНОЕ</td>
+<td colspan="12">1980</td>
+<td colspan="6">6</td>
+<td colspan="7">58</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ле</td>
+</tr>
+<tr>
+<td>1808.</td>
+<td colspan="7">РУБИН</td>
+<td colspan="12">1997</td>
+<td colspan="6">3</td>
+<td colspan="7">23</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1809.</td>
+<td colspan="7">РУМЯНКА АЛМА-АТИНСКАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,5,6,14</td>
+<td colspan="7">23</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1810.</td>
+<td colspan="7">САЛТАНАТ</td>
+<td colspan="12">1980</td>
+<td colspan="6">3</td>
+<td colspan="7">23</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1811.</td>
+<td colspan="7">СЛАВА ПОБЕДИТЕЛЯМ</td>
+<td colspan="12">1982</td>
+<td colspan="6">3</td>
+<td colspan="7">163</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ос</td>
+</tr>
+<tr>
+<td>1812.</td>
+<td colspan="7">СПАРТАК 1985</td>
+<td colspan="12">1985</td>
+<td colspan="6">7</td>
+<td colspan="7">103</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1813.</td>
+<td colspan="7">СТАРКРИМСОН</td>
+<td colspan="12">1988</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1814.</td>
+<td colspan="7">СТАРКСПУР ЭРЛИБЛАЙЗ</td>
+<td colspan="12">1990</td>
+<td colspan="6">6</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1815.</td>
+<td colspan="7">СУЙСЛЕПСКОЕ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,5,6,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ле</td>
+</tr>
+<tr>
+<td>1816.</td>
+<td colspan="7">ТАЛГАРСКОЕ</td>
+<td colspan="12">2004</td>
+<td colspan="6">3</td>
+<td colspan="7">23</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1817.</td>
+<td colspan="7">УРАЛЬСКОЕ НАЛИВНОЕ</td>
+<td colspan="12">1973</td>
+<td colspan="6">1,2,4,5,8,10,12,13</td>
+<td colspan="7">149</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ос</td>
+</tr>
+<tr>
+<td>1818.</td>
+<td colspan="7">УЭЛСИ</td>
+<td colspan="12">1980</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1819.</td>
+<td colspan="7">ФУДЖИ</td>
+<td colspan="12">2011</td>
+<td colspan="6">3, 6, 14</td>
+<td colspan="7">313</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1820.</td>
+<td colspan="7">ЮЖНОЕ</td>
+<td colspan="12">2001</td>
+<td colspan="6">3</td>
+<td colspan="7">134</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
+</tr>
+<tr>
+<td>1821.</td>
+<td colspan="7">ЯНДЫКОВСКОЕ</td>
+<td colspan="12">1973</td>
+<td colspan="6">2,4,11</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ле</td>
+</tr>
+<tr>
+<td colspan="56">Параграф 8.2 Семенные подвои яблони</td>
+</tr>
+<tr>
+<td>1822.</td>
+<td colspan="7">АНИС</td>
+<td colspan="12">1961</td>
+<td colspan="6">2,4,7,11</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1823.</td>
+<td colspan="7">КИТАЙКА КРУПНОПЛОДНАЯ</td>
+<td colspan="12">1961</td>
+<td colspan="6">5,8</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1824.</td>
+<td colspan="7">НЕДЗВЕЦКОГО</td>
+<td colspan="12">1961</td>
+<td colspan="6">3,9</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1825.</td>
+<td colspan="7">ПЕСТРУШКА</td>
+<td colspan="12">1975</td>
+<td colspan="6">3,6</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1826.</td>
+<td colspan="7">ПУДОВЩИНА</td>
+<td colspan="12">1961</td>
+<td colspan="6">1,5,10,12,13</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1827.</td>
+<td colspan="7">РАЙКА КРАСНАЯ</td>
+<td colspan="12">1961</td>
+<td colspan="6">5,8</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1828.</td>
+<td colspan="7">РАНЕТКА КРАСНАЯ</td>
+<td colspan="12">1961</td>
+<td colspan="6">1,10,12,13</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1829.</td>
+<td colspan="7">РАНЕТКА ПУРПУРОВАЯ</td>
+<td colspan="12">1961</td>
+<td colspan="6">2,4,7,11</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>1830.</td>
+<td colspan="7">СИБИРСКАЯ ЯБЛОНЯ (СИБИРКА)</td>
+<td colspan="12">1961</td>
+<td colspan="6">
 1,5,8,
 10, 12,13
 </td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>СИВЕРСА</td>
-<td>1961</td>
-<td>3,5,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1831.</td>
+<td colspan="7">СИВЕРСА</td>
+<td colspan="12">1961</td>
+<td colspan="6">3,5,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТАЕЖНОЕ</td>
-<td>1961</td>
-<td>2,4,5,7, 8,11</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1832.</td>
+<td colspan="7">ТАЕЖНОЕ</td>
+<td colspan="12">1961</td>
+<td colspan="6">2,4,5,7, 8,11</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">Клоновые подвои яблони</td>
+<td colspan="56">Параграф 8.3 Клоновые подвои яблони</td>
 </tr>
 <tr>
-<td>ЖЕТЫСУ 5</td>
-<td>2009</td>
-<td>3,6,14</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1833.</td>
+<td colspan="7">ЖЕТЫСУ 5</td>
+<td colspan="12">2009</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">23</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>62-396</td>
-<td>1997</td>
-<td>3,6,14</td>
-<td>109</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1834.</td>
+<td colspan="7">62-396</td>
+<td colspan="12">1997</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">109</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АРМ 18</td>
-<td>1997</td>
-<td>3,6,14</td>
-<td>204</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1835.</td>
+<td colspan="7">АРМ 18</td>
+<td colspan="12">1997</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">204</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>Б 16-20</td>
-<td>1991</td>
-<td>3,6,14</td>
-<td>260</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1836.</td>
+<td colspan="7">Б 16-20</td>
+<td colspan="12">1991</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">260</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>Б 7-35</td>
-<td>1991</td>
-<td>3,6,14</td>
-<td>260</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1837.</td>
+<td colspan="7">Б 7-35</td>
+<td colspan="12">1991</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">260</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>М 9</td>
-<td>1961</td>
-<td>3,6,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1838.</td>
+<td colspan="7">М 9</td>
+<td colspan="12">1961</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ММ 106</td>
-<td>1961</td>
-<td>3,6,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1839.</td>
+<td colspan="7">ММ 106</td>
+<td colspan="12">1961</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">Интеркалярные (промежуточные) вставки</td>
+<td colspan="56">Параграф 8.4 Интеркалярные (промежуточные) вставки</td>
 </tr>
 <tr>
-<td>М 9</td>
-<td>1961</td>
-<td>3</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1840.</td>
+<td colspan="7">М 9</td>
+<td colspan="12">1961</td>
+<td colspan="6">3</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>М 26</td>
-<td>1961</td>
-<td>3</td>
-<td>258, 259</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1841.</td>
+<td colspan="7">М 26</td>
+<td colspan="12">1961</td>
+<td colspan="6">3</td>
+<td colspan="7">258, 259</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">Штамбо- и кронообразователи</td>
+<td colspan="56">Параграф 8.5 Штамбо- и кронообразователи</td>
 </tr>
 <tr>
-<td>А2 (АЛНАРП 2)</td>
-<td>1991</td>
-<td>3</td>
-<td>257</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1842.</td>
+<td colspan="7">А2 (АЛНАРП 2)</td>
+<td colspan="12">1991</td>
+<td colspan="6">3</td>
+<td colspan="7">257</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>НЕДЗВЕЦКОГО</td>
-<td>1991</td>
-<td>3</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1843.</td>
+<td colspan="7">НЕДЗВЕЦКОГО</td>
+<td colspan="12">1991</td>
+<td colspan="6">3</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">Сорта-клоны яблони</td>
+<td colspan="56">Параграф 8.6 Сорта-клоны яблони</td>
 </tr>
 <tr>
-<td>АСЯ</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1844.</td>
+<td colspan="7">АСЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>АСКАР</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1845.</td>
+<td colspan="7">АСКАР</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ГИБРИД Б-41</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1846.</td>
+<td colspan="7">ГИБРИД Б-41</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ДЖУНГАРСКАЯ
-ШАТРОВИДНАЯ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1847.</td>
+<td colspan="7">ДЖУНГАРСКАЯ ШАТРОВИДНАЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ДЖУНГАРСКАЯ
-КРУПНОПЛОДНАЯ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1848.</td>
+<td colspan="7">ДЖУНГАРСКАЯ КРУПНОПЛОДНАЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ДЖУНГАРСКАЯ
-КРУПНОСЕМЯННАЯ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1849.</td>
+<td colspan="7">ДЖУНГАРСКАЯ КРУПНОСЕМЯННАЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ДЖУНГАРСКАЯ
-ОСЕННЕПЛОДНАЯ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1850.</td>
+<td colspan="7">ДЖУНГАРСКАЯ ОСЕННЕПЛОДНАЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ДЖУНГАРСКАЯ
-ПУРПУРОВАЯ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1851.</td>
+<td colspan="7">ДЖУНГАРСКАЯ ПУРПУРОВАЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ДЖУНГАРСКИЙ
-СИДОРОВЫЙ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1852.</td>
+<td colspan="7">ДЖУНГАРСКИЙ СИДОРОВЫЙ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ДЖУНГАРСКАЯ
-ЖЕЛТАЯ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1853.</td>
+<td colspan="7">ДЖУНГАРСКАЯ ЖЕЛТАЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ДЖУНГАРСКАЯ</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1854.</td>
+<td colspan="7">ДЖУНГАРСКАЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ДЖУНГАРСКАЯ
-ПОДВОЙНАЯ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1855.</td>
+<td colspan="7">ДЖУНГАРСКАЯ ПОДВОЙНАЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ЗАИЛИЙСКОЕ
-РАННЕЦВЕТУЩЕЕ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1856.</td>
+<td colspan="7">ЗАИЛИЙСКОЕ РАННЕЦВЕТУЩЕЕ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЗАИЛИЙСКОЕ ЗЕЛЕНОПЛОДНОЕ</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1857.</td>
+<td colspan="7">ЗАИЛИЙСКОЕ ЗЕЛЕНОПЛОДНОЕ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ЗАИЛИЙСКОЕ
-СРЕДНЕПЛОДНОЕ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1858.</td>
+<td colspan="7">ЗАИЛИЙСКОЕ СРЕДНЕПЛОДНОЕ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ЗАИЛИЙСКАЯ
-МЕДОВАЯ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1859.</td>
+<td colspan="7">ЗАИЛИЙСКАЯ МЕДОВАЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ЗАИЛИЙСКАЯ</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1860.</td>
+<td colspan="7">ЗАИЛИЙСКАЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ЗАИЛИЙСКАЯ
-ЛЕТНЯЯ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1861.</td>
+<td colspan="7">ЗАИЛИЙСКАЯ ЛЕТНЯЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>КЕТМЕНСКАЯ</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1862.</td>
+<td colspan="7">КЕТМЕНСКАЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-КРАСА
-ТАРБАГАТАЯ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1863.</td>
+<td colspan="7">КРАСА ТАРБАГАТАЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ПОДВОЙ ИЗ
-ТАРБАГАТАЯ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1864.</td>
+<td colspan="7">ПОДВОЙ ИЗ ТАРБАГАТАЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ПИХТОВАЯ
-КРАСНОЩЕКАЯ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1865.</td>
+<td colspan="7">ПИХТОВАЯ КРАСНОЩЕКАЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>ТАРБАГАТАЙСКАЯ</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1866.</td>
+<td colspan="7">ТАРБАГАТАЙСКАЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-ТАРБАГАТАЙСКИЙ
-КАРЛИК
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1867.</td>
+<td colspan="7">ТАРБАГАТАЙСКИЙ КАРЛИК</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-УРДЖАРСКАЯ
-АРОМАТНАЯ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1868.</td>
+<td colspan="7">УРДЖАРСКАЯ АРОМАТНАЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-УРДЖАРСКАЯ
-КРАСАВИЦА
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1869.</td>
+<td colspan="7">УРДЖАРСКАЯ КРАСАВИЦА</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>
-УРДЖАРСКАЯ
-КРАСНАЯ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1870.</td>
+<td colspan="7">УРДЖАРСКАЯ КРАСНАЯ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">
-Груша
+<td colspan="56">
+Параграф 8.7 Груша
 Pyrus communis L.
 </td>
 </tr>
 <tr>
-<td>АРОМАТНАЯ</td>
-<td>1965</td>
-<td>3,9</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>зи</td>
+<td>1871.</td>
+<td colspan="7">АРОМАТНАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,9</td>
+<td colspan="7">23</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">зи</td>
 </tr>
 <tr>
-<td>
-БЕРГАМОТ
-ВОЛЖСКИЙ
-</td>
-<td>1973</td>
-<td>2,4,11</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ле</td>
+<td>1872.</td>
+<td colspan="7">БЕРГАМОТ ВОЛЖСКИЙ</td>
+<td colspan="12">1973</td>
+<td colspan="6">2,4,11</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4">ле</td>
 </tr>
 <tr>
-<td>
-КРАСНОЯРСКАЯ
-КРУПНОПЛОДНАЯ
-</td>
-<td>2001</td>
-<td>10</td>
-<td>98</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ос</td>
+<td>1873.</td>
+<td colspan="8">КРАСНОЯРСКАЯ КРУПНОПЛОДНАЯ</td>
+<td colspan="12">2001</td>
+<td colspan="6">10</td>
+<td colspan="7">98</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2">ос</td>
 </tr>
 <tr>
-<td>ЛЕСНАЯ КРАСАВИЦА</td>
-<td>1965</td>
-<td>
+<td>1874.</td>
+<td colspan="8">ЛЕСНАЯ КРАСАВИЦА</td>
+<td colspan="12">1965</td>
+<td colspan="6">
 2,3,4,5
 6,9,11,14
 </td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ос</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2">ос</td>
 </tr>
 <tr>
-<td>ЛЮБИМИЦА КЛАПА</td>
-<td>1965</td>
-<td>4,9,11,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ле</td>
+<td>1875.</td>
+<td colspan="8">ЛЮБИМИЦА КЛАПА</td>
+<td colspan="12">1965</td>
+<td colspan="6">4,9,11,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2">ле</td>
 </tr>
 <tr>
-<td>
-ТАЛГАРСКАЯ
-КРАСАВИЦА
-</td>
-<td>1965</td>
-<td>3,5,6,9,14</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ос</td>
+<td>1876.</td>
+<td colspan="8">ТАЛГАРСКАЯ КРАСАВИЦА</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,5,6,9,14</td>
+<td colspan="7">23</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2">ос</td>
 </tr>
 <tr>
-<td>УРАЛОЧКА</td>
-<td>2004</td>
-<td>13,10</td>
-<td>149</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ос</td>
+<td>1877.</td>
+<td colspan="8">УРАЛОЧКА</td>
+<td colspan="12">2004</td>
+<td colspan="6">13,10</td>
+<td colspan="7">149</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2">ос</td>
 </tr>
 <tr>
-<td colspan="9">Семенные подвои груши</td>
+<td colspan="55">Параграф 8.8 Семенные подвои груши</td>
 </tr>
 <tr>
-<td>ЛЕСНАЯ</td>
-<td>1961</td>
-<td>3,4,5,6,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1878.</td>
+<td colspan="8">ЛЕСНАЯ</td>
+<td colspan="12">1961</td>
+<td colspan="6">3,4,5,6,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>УССУРИЙСКАЯ</td>
-<td>1961</td>
-<td>
+<td>1879.</td>
+<td colspan="8">УССУРИЙСКАЯ</td>
+<td colspan="12">1961</td>
+<td colspan="6">
 1,2,5,7,8
 10,11,12,13
 </td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">Клоновые подвои груши</td>
+<td colspan="55">Параграф 8.9 Клоновые подвои груши</td>
 </tr>
 <tr>
-<td>АЙВА А (ЕМА)</td>
-<td>1961</td>
-<td>3,6,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1880.</td>
+<td colspan="8">АЙВА А (ЕМА)</td>
+<td colspan="12">1961</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Рябина
+<td colspan="55">
+Параграф 8.10 Рябина
 Philadelphus
 </td>
 </tr>
 <tr>
-<td>АЛАЯ КРУПНАЯ</td>
-<td>1995</td>
-<td>10</td>
-<td>58</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1881.</td>
+<td colspan="8">АЛАЯ КРУПНАЯ</td>
+<td colspan="12">1995</td>
+<td colspan="6">10</td>
+<td colspan="7">58</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТИТАН</td>
-<td>1996</td>
-<td>10</td>
-<td>58</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1882.</td>
+<td colspan="8">ТИТАН</td>
+<td colspan="12">1996</td>
+<td colspan="6">10</td>
+<td colspan="7">58</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ЧЕРНОПЛОДНАЯ
-РЯБИНА
-</td>
-<td>1973</td>
-<td>1,5</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1883.</td>
+<td colspan="8">ЧЕРНОПЛОДНАЯ РЯБИНА</td>
+<td colspan="12">1973</td>
+<td colspan="6">1,5</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Айва
+<td colspan="55">
+Параграф 8.11 Айва
 Cydonia Mill
 </td>
 </tr>
 <tr>
-<td>ИЗОБИЛЬНАЯ</td>
-<td>1973</td>
-<td>14</td>
-<td>197</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1884.</td>
+<td colspan="8">ИЗОБИЛЬНАЯ</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">197</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ОТЛИЧНИЦА</td>
-<td>1982</td>
-<td>14</td>
-<td>152</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1885.</td>
+<td colspan="8">ОТЛИЧНИЦА</td>
+<td colspan="12">1982</td>
+<td colspan="6">14</td>
+<td colspan="7">152</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СОВХОЗНАЯ 10</td>
-<td>1973</td>
-<td>14</td>
-<td>197</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1886.</td>
+<td colspan="8">СОВХОЗНАЯ 10</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">197</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Плодовые косточковые
-Слива домашняя
+<td colspan="55">
+Глава 9. Плодовые косточковые
+Параграф 9.1 Слива домашняя
 Prunus domestica L.
 </td>
 </tr>
 <tr>
-<td>
-АЛТАЙСКАЯ
-ЮБИЛЕЙНАЯ
-</td>
-<td>1989</td>
-<td>7,12</td>
-<td>112</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1887.</td>
+<td colspan="8">АЛТАЙСКАЯ ЮБИЛЕЙНАЯ</td>
+<td colspan="12">1989</td>
+<td colspan="6">7,12</td>
+<td colspan="7">112</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АННА ШПЕТ</td>
-<td>1965</td>
-<td>
+<td>1888.</td>
+<td colspan="8">АННА ШПЕТ</td>
+<td colspan="12">1965</td>
+<td colspan="6">
 2,3,4,6,9
 11,14
 </td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВАНЕТА</td>
-<td>1965</td>
-<td>3,6,14</td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1889.</td>
+<td colspan="8">ВАНЕТА</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВИКТОРИЯ</td>
-<td>1965</td>
-<td>
+<td>1890.</td>
+<td colspan="8">ВИКТОРИЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">
 2,3,4,6
 9,11,14
 </td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВОЛОШКА</td>
-<td>1996</td>
-<td>3, 6 (*)</td>
-<td>163</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1891.</td>
+<td colspan="8">ВОЛОШКА</td>
+<td colspan="12">1996</td>
+<td colspan="6">3, 6 (*)</td>
+<td colspan="7">163</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЖЕЛТАЯ ХОПТЫ</td>
-<td>1965</td>
-<td>1,3,5,6,10</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1892.</td>
+<td colspan="8">ЖЕЛТАЯ ХОПТЫ</td>
+<td colspan="12">1965</td>
+<td colspan="6">1,3,5,6,10</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ИСПОЛИНСКАЯ</td>
-<td>1965</td>
-<td>3,14</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1893.</td>
+<td colspan="8">ИСПОЛИНСКАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,14</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-КИРГИЗСКАЯ
-ПРЕВОСХОДНАЯ
-</td>
-<td>2011</td>
-<td>6</td>
-<td>200</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1894.</td>
+<td colspan="8">КИРГИЗСКАЯ ПРЕВОСХОДНАЯ</td>
+<td colspan="12">2011</td>
+<td colspan="6">6</td>
+<td colspan="7">200</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КОСМОС</td>
-<td>1987</td>
-<td>14</td>
-<td>103</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1895.</td>
+<td colspan="8">КОСМОС</td>
+<td colspan="12">1987</td>
+<td colspan="6">14</td>
+<td colspan="7">103</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-МАНЬЧЖУРСКАЯ
-КРАСАВИЦА
-</td>
-<td>1973</td>
-<td>1,5,10, 12,13</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1896.</td>
+<td colspan="8">МАНЬЧЖУРСКАЯ КРАСАВИЦА</td>
+<td colspan="12">1973</td>
+<td colspan="6">1,5,10, 12,13</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ОПАТА</td>
-<td>1971</td>
-<td>1,2,4,510,13</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1897.</td>
+<td colspan="8">ОПАТА</td>
+<td colspan="12">1971</td>
+<td colspan="6">1,2,4,510,13</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПЕРСИКОВАЯ</td>
-<td>1965</td>
-<td>3</td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1898.</td>
+<td colspan="8">ПЕРСИКОВАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3</td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПИРАМИДАЛЬНАЯ</td>
-<td>1991</td>
-<td>7</td>
-<td>112</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1899.</td>
+<td colspan="8">ПИРАМИДАЛЬНАЯ</td>
+<td colspan="12">1991</td>
+<td colspan="6">7</td>
+<td colspan="7">112</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-РЕНКЛОД
-АЛЬТАНА
-</td>
-<td>1965</td>
-<td>3</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1900.</td>
+<td colspan="8">РЕНКЛОД АЛЬТАНА</td>
+<td colspan="12">1965</td>
+<td colspan="6">3</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СТЕНЛЕЙ</td>
-<td>1985</td>
-<td>3,6,14</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1901.</td>
+<td colspan="8">СТЕНЛЕЙ</td>
+<td colspan="12">1985</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЭДИНБУРГСКАЯ</td>
-<td>1965</td>
-<td>6,9,14</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1902.</td>
+<td colspan="8">ЭДИНБУРГСКАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">Семенные подвои сливы</td>
+<td colspan="55">Параграф 9.2 Семенные подвои сливы</td>
 </tr>
 <tr>
-<td>АЛЫЧА</td>
-<td>1961</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1903.</td>
+<td colspan="8">АЛЫЧА</td>
+<td colspan="12">1961</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВИКТОРИЯ</td>
-<td>1965</td>
-<td>6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1904.</td>
+<td colspan="8">ВИКТОРИЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАНАДСКАЯ</td>
-<td>1961</td>
-<td>1,2,4,5,7, 10,11,12,13</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1905.</td>
+<td colspan="8">КАНАДСКАЯ</td>
+<td colspan="12">1961</td>
+<td colspan="6">1,2,4,5,7, 10,11,12,13</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>УССУРИЙСКАЯ</td>
-<td>1961</td>
-<td>
+<td>1906.</td>
+<td colspan="8">УССУРИЙСКАЯ</td>
+<td colspan="12">1961</td>
+<td colspan="6">
 1,2,4,5
 7,10,12,13
 </td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ВОЙЛОЧНАЯ
-ВИШНЯ (ДЛЯ
-СОРТОВ ВАНЕТА,
-ВИКТОРИЯ,
-ЖЕЛТАЯ ХОПТЫ,
-СТЕНЛЕЙ,
-ЭДИНБУРГСКАЯ)
-</td>
-<td>1961</td>
-<td>3</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1907.</td>
+<td colspan="8">ВОЙЛОЧНАЯ ВИШНЯ (ДЛЯ СОРТОВ ВАНЕТА, ВИКТОРИЯ, ЖЕЛТАЯ ХОПТЫ, СТЕНЛЕЙ, ЭДИНБУРГСКАЯ)</td>
+<td colspan="12">1961</td>
+<td colspan="6">3</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Алыча
+<td colspan="55">
+Параграф 9.3 Алыча
 Prunus cerasifera Ehrh.
 </td>
 </tr>
 <tr>
-<td>МАЛИНОВАЯ</td>
-<td>1973</td>
-<td>14</td>
-<td>191</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1908.</td>
+<td colspan="8">МАЛИНОВАЯ</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">191</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ГЕК</td>
-<td>2014</td>
-<td>3</td>
-<td>101</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1909.</td>
+<td colspan="8">ГЕК</td>
+<td colspan="12">2014</td>
+<td colspan="6">3</td>
+<td colspan="7">101</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СТУДЕНЧЕСКАЯ</td>
-<td>1993</td>
-<td>3</td>
-<td>100</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1910.</td>
+<td colspan="8">СТУДЕНЧЕСКАЯ</td>
+<td colspan="12">1993</td>
+<td colspan="6">3</td>
+<td colspan="7">100</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ФИОЛЕТОВАЯ
-ДЕСЕРТНАЯ
-</td>
-<td>1973</td>
-<td>14</td>
-<td>191</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1911.</td>
+<td colspan="8">ФИОЛЕТОВАЯ ДЕСЕРТНАЯ</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">191</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">Семенные подвои алычи</td>
+<td colspan="55">Параграф 9.4 Семенные подвои алычи</td>
 </tr>
 <tr>
-<td>АЛЫЧА МЕСТНАЯ</td>
-<td>1961</td>
-<td>3, 6, 9, 14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1912.</td>
+<td colspan="8">АЛЫЧА МЕСТНАЯ</td>
+<td colspan="12">1961</td>
+<td colspan="6">3, 6, 9, 14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Вишня обыкновенная
+<td colspan="55">
+Параграф 9.5 Вишня обыкновенная
 Prunus cerasus L.
 </td>
 </tr>
 <tr>
-<td>
-АЛТАЙСКАЯ
-РАННЯЯ
-</td>
-<td>1994</td>
-<td>2, 4, 7, 11,12</td>
-<td>112</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1913.</td>
+<td colspan="8">АЛТАЙСКАЯ РАННЯЯ</td>
+<td colspan="12">1994</td>
+<td colspan="6">2, 4, 7, 11,12</td>
+<td colspan="7">112</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-АЛТАЙСКАЯ
-ЛАСТОЧКА
-</td>
-<td>1995</td>
-<td>5</td>
-<td>112</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1914.</td>
+<td colspan="8">АЛТАЙСКАЯ ЛАСТОЧКА</td>
+<td colspan="12">1995</td>
+<td colspan="6">5</td>
+<td colspan="7">112</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БАЛХАШСКАЯ</td>
-<td>1965</td>
-<td>8</td>
-<td>7</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1915.</td>
+<td colspan="8">БАЛХАШСКАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">8</td>
+<td colspan="7">7</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВЛАДИМИРСКАЯ</td>
-<td>1965</td>
-<td>6,14</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1916.</td>
+<td colspan="8">ВЛАДИМИРСКАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">6,14</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЖЕЛАННАЯ</td>
-<td>1992</td>
-<td>1, 5,13</td>
-<td>112</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1917.</td>
+<td colspan="8">ЖЕЛАННАЯ</td>
+<td colspan="12">1992</td>
+<td colspan="6">1, 5,13</td>
+<td colspan="7">112</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КОМСОМОЛЬСКАЯ</td>
-<td>1984</td>
-<td>3,6</td>
-<td>58</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1918.</td>
+<td colspan="8">КОМСОМОЛЬСКАЯ</td>
+<td colspan="12">1984</td>
+<td colspan="6">3,6</td>
+<td colspan="7">58</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛОТОВАЯ</td>
-<td>1973</td>
-<td>2,4,11</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1919.</td>
+<td colspan="8">ЛОТОВАЯ</td>
+<td colspan="12">1973</td>
+<td colspan="6">2,4,11</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛЮБСКАЯ</td>
-<td>1965</td>
-<td>2,3,4,5,6,9,11</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1920.</td>
+<td colspan="8">ЛЮБСКАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">2,3,4,5,6,9,11</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАКСИМОВСКАЯ</td>
-<td>1992</td>
-<td>1,13</td>
-<td>112</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1921.</td>
+<td colspan="8">МАКСИМОВСКАЯ</td>
+<td colspan="12">1992</td>
+<td colspan="6">1,13</td>
+<td colspan="7">112</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РАСПЛЕТКА</td>
-<td>1987</td>
-<td>7</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1922.</td>
+<td colspan="8">РАСПЛЕТКА</td>
+<td colspan="12">1987</td>
+<td colspan="6">7</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>САМАРКАНДСКАЯ</td>
-<td>1965</td>
-<td>14</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1923.</td>
+<td colspan="8">САМАРКАНДСКАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СТАНДАРТ УРАЛА</td>
-<td>1992</td>
-<td>1,4,11,13</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1924.</td>
+<td colspan="8">СТАНДАРТ УРАЛА</td>
+<td colspan="12">1992</td>
+<td colspan="6">1,4,11,13</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ШПАНКА КРУПНАЯ</td>
-<td>1965</td>
-<td>3,4,5,9,11,14</td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1925.</td>
+<td colspan="8">ШПАНКА КРУПНАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,4,5,9,11,14</td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ШПАНКА ЧЕРНАЯ</td>
-<td>1973</td>
-<td>14</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1926.</td>
+<td colspan="8">ШПАНКА ЧЕРНАЯ</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЩЕДРАЯ</td>
-<td>1987</td>
-<td>7</td>
-<td>132</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1927.</td>
+<td colspan="8">ЩЕДРАЯ</td>
+<td colspan="12">1987</td>
+<td colspan="6">7</td>
+<td colspan="7">132</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">Семенные подвои вишни</td>
+<td colspan="55">Параграф 9.6 Семенные подвои вишни</td>
 </tr>
 <tr>
-<td>ВЛАДИМИРСКАЯ</td>
-<td>1965</td>
-<td>4,5,6,7,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1928.</td>
+<td colspan="8">ВЛАДИМИРСКАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">4,5,6,7,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВП-1</td>
-<td>1997</td>
-<td>3</td>
-<td>72</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1929.</td>
+<td colspan="8">ВП-1</td>
+<td colspan="12">1997</td>
+<td colspan="6">3</td>
+<td colspan="7">72</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛЮБСКАЯ</td>
-<td>1965</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1930.</td>
+<td colspan="8">ЛЮБСКАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-МАГАЛЕБКА
-(АНТИПКА)
-</td>
-<td>1965</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1931.</td>
+<td colspan="8">МАГАЛЕБКА (АНТИПКА)</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-МЕСТНЫЕ
-ФОРМЫ И СОРТА
-</td>
-<td>1961</td>
-<td>
+<td>1932.</td>
+<td colspan="8">МЕСТНЫЕ ФОРМЫ И СОРТА</td>
+<td colspan="12">1961</td>
+<td colspan="6">
 1,2,9,10
 11,12,13
 </td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РАСТУНЬЯ</td>
-<td>1961</td>
-<td>2,4,7</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1933.</td>
+<td colspan="8">РАСТУНЬЯ</td>
+<td colspan="12">1961</td>
+<td colspan="6">2,4,7</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>САМАРКАНДСКАЯ</td>
-<td>1965</td>
-<td>6,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1934.</td>
+<td colspan="8">САМАРКАНДСКАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">6,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СТЕПНАЯ</td>
-<td>1965</td>
-<td>5,8</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1935.</td>
+<td colspan="8">СТЕПНАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">5,8</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Черешня
+<td colspan="55">
+Параграф 9.7 Черешня
 Prunus avium L.
 </td>
 </tr>
 <tr>
-<td>АЙГЕРИМ</td>
-<td>1996</td>
-<td>3</td>
-<td>23</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1936.</td>
+<td colspan="8">АЙГЕРИМ</td>
+<td colspan="12">1996</td>
+<td colspan="6">3</td>
+<td colspan="7">23</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БАХОР</td>
-<td>1973</td>
-<td>14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1937.</td>
+<td colspan="8">БАХОР</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ДРОГАНА
-ЖЕЛТАЯ
-</td>
-<td>1965</td>
-<td>14</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1938.</td>
+<td colspan="8">ДРОГАНА ЖЕЛТАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛЯЗЗАТ</td>
-<td>1999</td>
-<td>6</td>
-<td>23</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1939.</td>
+<td colspan="8">ЛЯЗЗАТ</td>
+<td colspan="12">1999</td>
+<td colspan="6">6</td>
+<td colspan="7">23</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-НАПОЛЕОН
-РОЗОВАЯ
-</td>
-<td>1965</td>
-<td>14</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1940.</td>
+<td colspan="8">НАПОЛЕОН РОЗОВАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">Семенные подвои черешни</td>
+<td colspan="55">Параграф 9.8 Семенные подвои черешни</td>
 </tr>
 <tr>
-<td>МАГАЛЕБКА</td>
-<td>1961</td>
-<td>3,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1941.</td>
+<td colspan="8">МАГАЛЕБКА</td>
+<td colspan="12">1961</td>
+<td colspan="6">3,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>САМАРКАНДСКАЯ</td>
-<td>1961</td>
-<td>14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1942.</td>
+<td colspan="8">САМАРКАНДСКАЯ</td>
+<td colspan="12">1961</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЧЕРЕШНЯ ДИКАЯ</td>
-<td>1961</td>
-<td>3</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1943.</td>
+<td colspan="8">ЧЕРЕШНЯ ДИКАЯ</td>
+<td colspan="12">1961</td>
+<td colspan="6">3</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Абрикос обыкновенный
+<td colspan="55">
+Параграф 9.9 Абрикос обыкновенный
 Prunus armeniaca L.
 </td>
 </tr>
 <tr>
-<td>АРЗАМИ</td>
-<td>1973</td>
-<td>14</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1944.</td>
+<td colspan="8">АРЗАМИ</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КОРОЛЕВСКИЙ</td>
-<td>1965</td>
-<td>14</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1945.</td>
+<td colspan="8">КОРОЛЕВСКИЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КРАСНОЩЕКИЙ</td>
-<td>1965</td>
-<td>4,6,11,14</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1946.</td>
+<td colspan="8">КРАСНОЩЕКИЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">4,6,11,14</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-КРАСНОЩЕКИЙ
-НИКИТСКИЙ
-</td>
-<td>1965</td>
-<td>3,9,14</td>
-<td>152</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1947.</td>
+<td colspan="8">КРАСНОЩЕКИЙ НИКИТСКИЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,9,14</td>
+<td colspan="7">152</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ХУРМАИ</td>
-<td>1973</td>
-<td>14</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1948.</td>
+<td colspan="8">ХУРМАИ</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">Семенные подвои абрикоса</td>
+<td colspan="55">Параграф 9.10 Семенные подвои абрикоса</td>
 </tr>
 <tr>
-<td>АБРИКОС (МЕСТНЫЕ ФОРМЫ)</td>
-<td>1961</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1949.</td>
+<td colspan="8">АБРИКОС (МЕСТНЫЕ ФОРМЫ)</td>
+<td colspan="12">1961</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">Сорта-клоны абрикоса</td>
+<td colspan="55">Параграф 9.11 Сорта-клоны абрикоса</td>
 </tr>
 <tr>
-<td>
-АБРИКОСОВОЕ
-ЯБЛОЧКО
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1950.</td>
+<td colspan="8">АБРИКОСОВОЕ ЯБЛОЧКО</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-АБРИКОСОВЫЙ
-ВИНОГРАД
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1951.</td>
+<td colspan="8">АБРИКОСОВЫЙ ИНОГРАД</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ГИГАНТ
-КОТУРБУЛАКА
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1952.</td>
+<td colspan="8">ГИГАНТ КОТУРБУЛАКА</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ЗАИЛИЙСКИЙ
-ВИТАМИННЫЙ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1953.</td>
+<td colspan="8">ЗАИЛИЙСКИЙ ВИТАМИННЫЙ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ИССЫКСКИЙ
-УСТОЙЧИВЫЙ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1954.</td>
+<td colspan="8">ИССЫКСКИЙ УСТОЙЧИВЫЙ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАТЮША</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1955.</td>
+<td colspan="8">КАТЮША</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-КОТУРБУЛАКСКИЙ
-НЕЖНЫЙ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1956.</td>
+<td colspan="8">КОТУРБУЛАКСКИЙ НЕЖНЫЙ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-КРАСАВИЦА
-КОК БАС ТАУ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1957.</td>
+<td colspan="8">КРАСАВИЦА КОК БАС ТАУ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-КРАСА
-ДЖУНГАРИИ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1958.</td>
+<td colspan="8">КРАСА ДЖУНГАРИИ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-КРУПНОПЛОДНЫЙ
-РЕБРИСТЫЙ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1959.</td>
+<td colspan="8">КРУПНОПЛОДНЫЙ РЕБРИСТЫЙ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-МАЛОАЛМАТИНС-
-КИЙ КРУГЛЫЙ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1960.</td>
+<td colspan="8">МАЛОАЛМАТИНС-КИЙ КРУГЛЫЙ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-МИКУШИНСКАЯ
-РЕПКА
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1961.</td>
+<td colspan="8">МИКУШИНСКАЯ РЕПКА</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ОРАНЖЕВЫЙ
-ШАРИК
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1962.</td>
+<td colspan="8">ОРАНЖЕВЫЙ ШАРИК</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-РАННЯЯ ИЗ
-БЕЛЬ-БУЛАКА
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1963.</td>
+<td colspan="8">РАННЯЯ ИЗ БЕЛЬ-БУЛАКА</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-РЕКОРД
-БЕЛЬ-БУЛАКА
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1964.</td>
+<td colspan="8">РЕКОРД БЕЛЬ-БУЛАКА</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-СОЛДАТСКИЙ
-РАННИЙ
-</td>
-<td>2006</td>
-<td>3</td>
-<td>280</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1965.</td>
+<td colspan="8">СОЛДАТСКИЙ РАННИЙ</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">280</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Персик
+<td colspan="55">
+Параграф 9.12 Персик
 Prunus persica (L.) Batsch
 </td>
 </tr>
 <tr>
-<td>АК-ШАФТАЛЮ</td>
-<td>1965</td>
-<td>9,14</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1966.</td>
+<td colspan="8">АК-ШАФТАЛЮ</td>
+<td colspan="12">1965</td>
+<td colspan="6">9,14</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-БЕЛЫЙ РАННИЙ
-ВИРА
-</td>
-<td>1985</td>
-<td>3</td>
-<td>191</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1967.</td>
+<td colspan="8">БЕЛЫЙ РАННИЙ ВИРА</td>
+<td colspan="12">1985</td>
+<td colspan="6">3</td>
+<td colspan="7">191</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЗОЛОТОЙ ЮБИЛЕЙ</td>
-<td>1973</td>
-<td>14</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1968.</td>
+<td colspan="8">ЗОЛОТОЙ ЮБИЛЕЙ</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ИНЖИРНЫЙ НОВЫЙ</td>
-<td>1973</td>
-<td>14</td>
-<td>190</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1969.</td>
+<td colspan="8">ИНЖИРНЫЙ НОВЫЙ</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">190</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-КИЕВСКИЙ
-РАННИЙ
-</td>
-<td>1965</td>
-<td>3,9</td>
-<td>159</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1970.</td>
+<td colspan="8">КИЕВСКИЙ РАННИЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,9</td>
+<td colspan="7">159</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛОЛА</td>
-<td>1973</td>
-<td>14</td>
-<td>190</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1971.</td>
+<td colspan="8">ЛОЛА</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">190</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАЙФЛЕВЕР</td>
-<td>1965</td>
-<td>14</td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1972.</td>
+<td colspan="8">МАЙФЛЕВЕР</td>
+<td colspan="12">1965</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СТАРТ</td>
-<td>1973</td>
-<td>14</td>
-<td>190</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1973.</td>
+<td colspan="8">СТАРТ</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">190</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЧЕМПИОН</td>
-<td>1965</td>
-<td>14</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1974.</td>
+<td colspan="8">ЧЕМПИОН</td>
+<td colspan="12">1965</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЭЛЬБЕРТА</td>
-<td>1965</td>
-<td>9,14</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1975.</td>
+<td colspan="8">ЭЛЬБЕРТА</td>
+<td colspan="12">1965</td>
+<td colspan="6">9,14</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">Семенные подвои персика</td>
+<td></td>
+<td colspan="54">Параграф 9.13 Семенные подвои персика</td>
 </tr>
 <tr>
-<td>АЛЫЧА</td>
-<td>1961</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1976.</td>
+<td colspan="8">АЛЫЧА</td>
+<td colspan="12">1961</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ПЕРСИК
-(УСТОЙЧИВЫЕ
-МЕСТНЫЕ ФОРМЫ,
-СОРТА)
-</td>
-<td>1961</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1977.</td>
+<td colspan="8">ПЕРСИК (УСТОЙЧИВЫЕ МЕСТНЫЕ ФОРМЫ, СОРТА)</td>
+<td colspan="12">1961</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СЛИВА</td>
-<td>1961</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1978.</td>
+<td colspan="8">СЛИВА</td>
+<td colspan="12">1961</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Ягодные
-Земляника
+<td colspan="55">
+Глава 10. Ягодные
+Параграф 10.1 Земляника
 Fragaria L.
 </td>
 </tr>
 <tr>
-<td>ВЕДЕНСВИЛЬ 7</td>
-<td>1986</td>
-<td>6</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1979.</td>
+<td colspan="8">ВЕДЕНСВИЛЬ 7</td>
+<td colspan="12">1986</td>
+<td colspan="6">6</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВЕНТА</td>
-<td>1989</td>
-<td>3</td>
-<td>217</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1980.</td>
+<td colspan="8">ВЕНТА</td>
+<td colspan="12">1989</td>
+<td colspan="6">3</td>
+<td colspan="7">217</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ГЕРОИНЯ МАНШУК</td>
-<td>1965</td>
-<td>9,14</td>
-<td>23</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1981.</td>
+<td colspan="8">ГЕРОИНЯ МАНШУК</td>
+<td colspan="12">1965</td>
+<td colspan="6">9,14</td>
+<td colspan="7">23</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ДЖЕМЕЛ</td>
-<td>1999</td>
-<td>3</td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1982.</td>
+<td colspan="8">ДЖЕМЕЛ</td>
+<td colspan="12">1999</td>
+<td colspan="6">3</td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ДУКАТ</td>
-<td>1998</td>
-<td>3</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1983.</td>
+<td colspan="8">ДУКАТ</td>
+<td colspan="12">1998</td>
+<td colspan="6">3</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ДРУЖНАЯ</td>
-<td>1995</td>
-<td>5</td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1984.</td>
+<td colspan="8">ДРУЖНАЯ</td>
+<td colspan="12">1995</td>
+<td colspan="6">5</td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЗЕНГА-ЗЕНГАНА</td>
-<td>1973</td>
-<td>
+<td>1985.</td>
+<td colspan="8">ЗЕНГА-ЗЕНГАНА</td>
+<td colspan="12">1973</td>
+<td colspan="6">
 2,3,6,7,8
 12,14
 </td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАМА</td>
-<td>1999</td>
-<td>3,6</td>
-<td>100</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1986.</td>
+<td colspan="8">КАМА</td>
+<td colspan="12">1999</td>
+<td colspan="6">3,6</td>
+<td colspan="7">100</td>
+<td colspan="7">03</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-КОКИНСКАЯ
-РАННЯЯ
-</td>
-<td>1995</td>
-<td>6</td>
-<td>99</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1987.</td>
+<td colspan="8">КОКИНСКАЯ РАННЯЯ</td>
+<td colspan="12">1995</td>
+<td colspan="6">6</td>
+<td colspan="7">99</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КРЫМЧАНКА</td>
-<td>1989</td>
-<td>3</td>
-<td>100</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1988.</td>
+<td colspan="8">КРЫМЧАНКА</td>
+<td colspan="12">1989</td>
+<td colspan="6">3</td>
+<td colspan="7">100</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КУЛЬВЕР</td>
-<td>1973</td>
-<td>14</td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1989.</td>
+<td colspan="8">КУЛЬВЕР</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ОГОНЕК</td>
-<td>1991</td>
-<td>10</td>
-<td>103</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1990.</td>
+<td colspan="8">ОГОНЕК</td>
+<td colspan="12">1991</td>
+<td colspan="6">10</td>
+<td colspan="7">103</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РЕД ГОТЛЕНД</td>
-<td>1992</td>
-<td>3,6</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1991.</td>
+<td colspan="8">РЕД ГОТЛЕНД</td>
+<td colspan="12">1992</td>
+<td colspan="6">3,6</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РУБИНОВАЯ</td>
-<td>1973</td>
-<td>13</td>
-<td>58</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1992.</td>
+<td colspan="8">РУБИНОВАЯ</td>
+<td colspan="12">1973</td>
+<td colspan="6">13</td>
+<td colspan="7">58</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РУСАНОВКА</td>
-<td>1990</td>
-<td>3,6</td>
-<td>159</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1993.</td>
+<td colspan="8">РУСАНОВКА</td>
+<td colspan="12">1990</td>
+<td colspan="6">3,6</td>
+<td colspan="7">159</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТАЛИСМАН</td>
-<td>1978</td>
-<td>5,8</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1994.</td>
+<td colspan="8">ТАЛИСМАН</td>
+<td colspan="12">1978</td>
+<td colspan="6">5,8</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТАШКЕНТСКАЯ</td>
-<td>1965</td>
-<td>9,14</td>
-<td>191</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1995.</td>
+<td colspan="8">ТАШКЕНТСКАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">9,14</td>
+<td colspan="7">191</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>УЗБЕКИСТАНСКАЯ</td>
-<td>1965</td>
-<td>14</td>
-<td>190</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1996.</td>
+<td colspan="8">УЗБЕКИСТАНСКАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">14</td>
+<td colspan="7">190</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>УРОЖАЙНАЯ</td>
-<td>1965</td>
-<td>9</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1997.</td>
+<td colspan="8">УРОЖАЙНАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">9</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ФЕСТИВАЛЬНАЯ</td>
-<td>1973</td>
-<td>1,5,12,13</td>
-<td>123</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1998.</td>
+<td colspan="8">ФЕСТИВАЛЬНАЯ</td>
+<td colspan="12">1973</td>
+<td colspan="6">1,5,12,13</td>
+<td colspan="7">123</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Смородина черная
+<td colspan="55">
+Параграф 10.2 Смородина черная
 Ribes nigrum L.
 </td>
 </tr>
 <tr>
-<td>
-АЛТАЙСКАЯ
-ДЕСЕРТНАЯ
-</td>
-<td>1965</td>
-<td>1,3,4,5,11,12,13</td>
-<td>112</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1999.</td>
+<td colspan="8">АЛТАЙСКАЯ ДЕСЕРТНАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">1,3,4,5,11,12,13</td>
+<td colspan="7">112</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БАГИРА</td>
-<td>1995</td>
-<td>1,8,13</td>
-<td>69</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2000.</td>
+<td colspan="8">БАГИРА</td>
+<td colspan="12">1995</td>
+<td colspan="6">1,8,13</td>
+<td colspan="7">69</td>
+<td colspan="7">05</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-БЕЛОРУССКАЯ
-СЛАДКАЯ
-</td>
-<td>1981</td>
-<td>3,6,8</td>
-<td>184</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2001.</td>
+<td colspan="8">БЕЛОРУССКАЯ СЛАДКАЯ</td>
+<td colspan="12">1981</td>
+<td colspan="6">3,6,8</td>
+<td colspan="7">184</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ГАРМОНИЯ</td>
-<td>2012</td>
-<td>5</td>
-<td>112</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2002.</td>
+<td colspan="8">ГАРМОНИЯ</td>
+<td colspan="12">2012</td>
+<td colspan="6">5</td>
+<td colspan="7">112</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ГЕРКУЛЕС</td>
-<td>2012</td>
-<td>5</td>
-<td>112</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2003.</td>
+<td colspan="8">ГЕРКУЛЕС</td>
+<td colspan="12">2012</td>
+<td colspan="6">5</td>
+<td colspan="7">112</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ГОЛУБКА</td>
-<td>1971</td>
-<td>1,2,5,12,13</td>
-<td>112</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2004.</td>
+<td colspan="8">ГОЛУБКА</td>
+<td colspan="12">1971</td>
+<td colspan="6">1,2,5,12,13</td>
+<td colspan="7">112</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЗЕЛЕНАЯ ДЫМКА</td>
-<td>1995</td>
-<td>8</td>
-<td>69</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2005.</td>
+<td colspan="8">ЗЕЛЕНАЯ ДЫМКА</td>
+<td colspan="12">1995</td>
+<td colspan="6">8</td>
+<td colspan="7">69</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАСКАД</td>
-<td>1981</td>
-<td>8</td>
-<td>80</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2006.</td>
+<td colspan="8">КАСКАД</td>
+<td colspan="12">1981</td>
+<td colspan="6">8</td>
+<td colspan="7">80</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАТЮША</td>
-<td>1991</td>
-<td>8</td>
-<td>184</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2007.</td>
+<td colspan="8">КАТЮША</td>
+<td colspan="12">1991</td>
+<td colspan="6">8</td>
+<td colspan="7">184</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КОНСЕРВНАЯ</td>
-<td>1992</td>
-<td>10</td>
-<td>112</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2008.</td>
+<td colspan="8">КОНСЕРВНАЯ</td>
+<td colspan="12">1992</td>
+<td colspan="6">10</td>
+<td colspan="7">112</td>
+<td colspan="7">03</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КОСМИЧЕСКАЯ</td>
-<td>1991</td>
-<td>3</td>
-<td>130</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2009.</td>
+<td colspan="8">КОСМИЧЕСКАЯ</td>
+<td colspan="12">1991</td>
+<td colspan="6">3</td>
+<td colspan="7">130</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛАМА</td>
-<td>2012</td>
-<td>5</td>
-<td>112</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2010.</td>
+<td colspan="8">ЛАМА</td>
+<td colspan="12">2012</td>
+<td colspan="6">5</td>
+<td colspan="7">112</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МИНАЙ ШМЫРЕВ</td>
-<td>1982</td>
-<td>1,3,7,10,13</td>
-<td>184</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2011.</td>
+<td colspan="8">МИНАЙ ШМЫРЕВ</td>
+<td colspan="12">1982</td>
+<td colspan="6">1,3,7,10,13</td>
+<td colspan="7">184</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>НЕСТЕР КОЗИН</td>
-<td>1998</td>
-<td>13</td>
-<td>112</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2012.</td>
+<td colspan="8">НЕСТЕР КОЗИН</td>
+<td colspan="12">1998</td>
+<td colspan="6">13</td>
+<td colspan="7">112</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПАМЯТИ ШУКШИНА</td>
-<td>1993</td>
-<td>3,12,13</td>
-<td>112</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2013.</td>
+<td colspan="8">ПАМЯТИ ШУКШИНА</td>
+<td colspan="12">1993</td>
+<td colspan="6">3,12,13</td>
+<td colspan="7">112</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПАМЯТИ МИЧУРИНА</td>
-<td>1973</td>
-<td>7</td>
-<td>58</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2014.</td>
+<td colspan="8">ПАМЯТИ МИЧУРИНА</td>
+<td colspan="12">1973</td>
+<td colspan="6">7</td>
+<td colspan="7">58</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПАРТИЗАНКА</td>
-<td>1989</td>
-<td>1,13</td>
-<td>184</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2015.</td>
+<td colspan="8">ПАРТИЗАНКА</td>
+<td colspan="12">1989</td>
+<td colspan="6">1,13</td>
+<td colspan="7">184</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПАУЛИНКА</td>
-<td>1981</td>
-<td>6,12</td>
-<td>184</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2016.</td>
+<td colspan="8">ПАУЛИНКА</td>
+<td colspan="12">1981</td>
+<td colspan="6">6,12</td>
+<td colspan="7">184</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ПИЛОТ
-АЛЕКСАНДР
-МАМКИН
-</td>
-<td>1987</td>
-<td>3</td>
-<td>184</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2017.</td>
+<td colspan="8">ПИЛОТ АЛЕКСАНДР МАМКИН</td>
+<td colspan="12">1987</td>
+<td colspan="6">3</td>
+<td colspan="7">184</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПОДАРОЧНАЯ</td>
-<td>1993</td>
-<td>5</td>
-<td>112</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2018.</td>
+<td colspan="8">ПОДАРОЧНАЯ</td>
+<td colspan="12">1993</td>
+<td colspan="6">5</td>
+<td colspan="7">112</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СЕЯНЕЦ ГОЛУБКИ</td>
-<td>1984</td>
-<td>5,10,12,13</td>
-<td>112</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2019.</td>
+<td colspan="8">СЕЯНЕЦ ГОЛУБКИ</td>
+<td colspan="12">1984</td>
+<td colspan="6">5,10,12,13</td>
+<td colspan="7">112</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СОФЬЯ</td>
-<td>1995</td>
-<td>5,8,13</td>
-<td>112</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2020.</td>
+<td colspan="8">СОФЬЯ</td>
+<td colspan="12">1995</td>
+<td colspan="6">5,8,13</td>
+<td colspan="7">112</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-СТАХАНОВКА
-АЛТАЯ
-</td>
-<td>1965</td>
-<td>1,2,13</td>
-<td>112</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2021.</td>
+<td colspan="8">СТАХАНОВКА АЛТАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">1,2,13</td>
+<td colspan="7">112</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЧЕРНЫЙ ЖЕМЧУГ</td>
-<td>1998</td>
-<td>1,13</td>
-<td>69</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2022.</td>
+<td colspan="8">ЧЕРНЫЙ ЖЕМЧУГ</td>
+<td colspan="12">1998</td>
+<td colspan="6">1,13</td>
+<td colspan="7">69</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЧУДЕСНИЦА</td>
-<td>1994</td>
-<td>3</td>
-<td>112</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2023.</td>
+<td colspan="8">ЧУДЕСНИЦА</td>
+<td colspan="12">1994</td>
+<td colspan="6">3</td>
+<td colspan="7">112</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Смородина красная
+<td colspan="55">
+Параграф 10.3 Смородина красная
 Ribes svlvestre (Lam.) Mert. et W. Koch
 </td>
 </tr>
 <tr>
-<td>
-АЛТАЙСКАЯ
-КРАСНАЯ
-</td>
-<td>1965</td>
-<td>3</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2024.</td>
+<td colspan="8">АЛТАЙСКАЯ КРАСНАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ГОЛЛАНДСКАЯ
-КРАСНАЯ
-</td>
-<td>1965</td>
-<td>3,4,6,9,11</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2025.</td>
+<td colspan="8">ГОЛЛАНДСКАЯ КРАСНАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,4,6,9,11</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КРАСНЫЙ КРЕСТ</td>
-<td>1968</td>
-<td>1,2,5,7,13</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2026.</td>
+<td colspan="8">КРАСНЫЙ КРЕСТ</td>
+<td colspan="12">1968</td>
+<td colspan="6">1,2,5,7,13</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ОГНИ УРАЛА</td>
-<td>1996</td>
-<td>10,12,13</td>
-<td>149</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2027.</td>
+<td colspan="8">ОГНИ УРАЛА</td>
+<td colspan="12">1996</td>
+<td colspan="6">10,12,13</td>
+<td colspan="7">149</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Смородина белая
+<td colspan="55">
+Параграф 10.4 Смородина белая
 Ribes niveum L.
 </td>
 </tr>
 <tr>
-<td>ПЛОТНОМЯСАЯ</td>
-<td>1965</td>
-<td>6,9,14</td>
-<td>112</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2028.</td>
+<td colspan="8">ПЛОТНОМЯСАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">6,9,14</td>
+<td colspan="7">112</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-УЗБЕКИСТАНСКАЯ
-КРУПНОПЛОДНАЯ
-</td>
-<td>1965</td>
-<td>6,9,14</td>
-<td>197</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2029.</td>
+<td colspan="8">УЗБЕКИСТАНСКАЯ КРУПНОПЛОДНАЯ</td>
+<td colspan="12">1965</td>
+<td colspan="6">6,9,14</td>
+<td colspan="7">197</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Малина
+<td colspan="55">
+Параграф 10.5 Малина
 Rubus L.
 </td>
 </tr>
 <tr>
-<td>АЛМА-АТИНСКАЯ</td>
-<td>1980</td>
-<td>3</td>
-<td>23</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2030.</td>
+<td colspan="8">АЛМА-АТИНСКАЯ</td>
+<td colspan="12">1980</td>
+<td colspan="6">3</td>
+<td colspan="7">23</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БАРНАУЛЬСКАЯ</td>
-<td>1973</td>
-<td>8,12</td>
-<td>112</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2031.</td>
+<td colspan="8">БАРНАУЛЬСКАЯ</td>
+<td colspan="12">1973</td>
+<td colspan="6">8,12</td>
+<td colspan="7">112</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВЕРА</td>
-<td>1995</td>
-<td>1,2,10,13</td>
-<td>112</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2032.</td>
+<td colspan="8">ВЕРА</td>
+<td colspan="12">1995</td>
+<td colspan="6">1,2,10,13</td>
+<td colspan="7">112</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВИСЛУХА</td>
-<td>1965</td>
-<td>1,2,10,12</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2033.</td>
+<td colspan="8">ВИСЛУХА</td>
+<td colspan="12">1965</td>
+<td colspan="6">1,2,10,12</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВЫСОКАЯ</td>
-<td>1981</td>
-<td>1,7,13</td>
-<td>132</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2034.</td>
+<td colspan="8">ВЫСОКАЯ</td>
+<td colspan="12">1981</td>
+<td colspan="6">1,7,13</td>
+<td colspan="7">132</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КОЛОКОЛЬЧИК</td>
-<td>1995</td>
-<td>13</td>
-<td>112</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2035.</td>
+<td colspan="8">КОЛОКОЛЬЧИК</td>
+<td colspan="12">1995</td>
+<td colspan="6">13</td>
+<td colspan="7">112</td>
+<td colspan="7">03</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КРИМЗОН-МАММУТ</td>
-<td>1973</td>
-<td>10</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2036.</td>
+<td colspan="8">КРИМЗОН-МАММУТ</td>
+<td colspan="12">1973</td>
+<td colspan="6">10</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>НАГРАДА</td>
-<td>1978</td>
-<td>1,3,5,13</td>
-<td>55</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2037.</td>
+<td colspan="8">НАГРАДА</td>
+<td colspan="12">1978</td>
+<td colspan="6">1,3,5,13</td>
+<td colspan="7">55</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>НОВОКИТАЕВСКАЯ</td>
-<td>1972</td>
-<td>1,3,5</td>
-<td>159</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2038.</td>
+<td colspan="8">НОВОКИТАЕВСКАЯ</td>
+<td colspan="12">1972</td>
+<td colspan="6">1,3,5</td>
+<td colspan="7">159</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-НОВОСТЬ
-КУЗЬМИНА
-</td>
-<td>1965</td>
-<td>4,6,7,9,11,14</td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2039.</td>
+<td colspan="8">НОВОСТЬ КУЗЬМИНА</td>
+<td colspan="12">1965</td>
+<td colspan="6">4,6,7,9,11,14</td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СКРОМНИЦА</td>
-<td>1993</td>
-<td>8</td>
-<td>94</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2040.</td>
+<td colspan="8">СКРОМНИЦА</td>
+<td colspan="12">1993</td>
+<td colspan="6">8</td>
+<td colspan="7">94</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СПУТНИЦА</td>
-<td>1993</td>
-<td>1,10</td>
-<td>94</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2041.</td>
+<td colspan="8">СПУТНИЦА</td>
+<td colspan="12">1993</td>
+<td colspan="6">1,10</td>
+<td colspan="7">94</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТРОЯНА</td>
-<td>1995</td>
-<td>13</td>
-<td>112</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2042.</td>
+<td colspan="8">ТРОЯНА</td>
+<td colspan="12">1995</td>
+<td colspan="6">13</td>
+<td colspan="7">112</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Ежевика
+<td colspan="55">
+Параграф 10.6 Ежевика
 Rubus L.
 </td>
 </tr>
 <tr>
-<td>
-ДИКСОН
-ТОРНЛЕСС
-</td>
-<td>2006</td>
-<td>3</td>
-<td>
-23 (интро
-дукция)
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2043.</td>
+<td colspan="8">ДИКСОН ТОРНЛЕСС</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">23 (интродукция)</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЧЕСТЕР</td>
-<td>2006</td>
-<td>3</td>
-<td>
-23 (интро-
-дукция)
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2044.</td>
+<td colspan="8">ЧЕСТЕР</td>
+<td colspan="12">2006</td>
+<td colspan="6">3</td>
+<td colspan="7">23 (интродукция)</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Крыжовник
+<td colspan="55">
+Параграф 10.7 Крыжовник
 Ribes uva-crispa L.
 </td>
 </tr>
 <tr>
-<td>ИЗУМРУД</td>
-<td>1973</td>
-<td>10</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2045.</td>
+<td colspan="8">ИЗУМРУД</td>
+<td colspan="12">1973</td>
+<td colspan="6">10</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КОНСУЛ</td>
-<td>1999</td>
-<td>7,13</td>
-<td>78</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2046.</td>
+<td colspan="8">КОНСУЛ</td>
+<td colspan="12">1999</td>
+<td colspan="6">7,13</td>
+<td colspan="7">78</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МЫСОВСКИЙ 17</td>
-<td>1965</td>
-<td>8</td>
-<td>78</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2047.</td>
+<td colspan="8">МЫСОВСКИЙ 17</td>
+<td colspan="12">1965</td>
+<td colspan="6">8</td>
+<td colspan="7">78</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МЫСОВСКИЙ 37</td>
-<td>1965</td>
-<td>2,4,5,6,9,11,14</td>
-<td>78</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2048.</td>
+<td colspan="8">МЫСОВСКИЙ 37</td>
+<td colspan="12">1965</td>
+<td colspan="6">2,4,5,6,9,11,14</td>
+<td colspan="7">78</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-САЛЮТ
-ЧЕЛЯБИНСКИЙ
-</td>
-<td>1995</td>
-<td>10</td>
-<td>106</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2049.</td>
+<td colspan="8">САЛЮТ ЧЕЛЯБИНСКИЙ</td>
+<td colspan="12">1995</td>
+<td colspan="6">10</td>
+<td colspan="7">106</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЗЕЛЕНЫЙ</td>
-<td>1973</td>
-<td>1,5,12,13</td>
-<td>149</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2050.</td>
+<td colspan="8">ЗЕЛЕНЫЙ</td>
+<td colspan="12">1973</td>
+<td colspan="6">1,5,12,13</td>
+<td colspan="7">149</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЧЕРНОСЛИВОВЫЙ</td>
-<td>1989</td>
-<td>10</td>
-<td>69</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2051.</td>
+<td colspan="8">ЧЕРНОСЛИВОВЫЙ</td>
+<td colspan="12">1989</td>
+<td colspan="6">10</td>
+<td colspan="7">69</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЮБИЛЕЙНЫЙ</td>
-<td>1985</td>
-<td>5</td>
-<td>69</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2052.</td>
+<td colspan="8">ЮБИЛЕЙНЫЙ</td>
+<td colspan="12">1985</td>
+<td colspan="6">5</td>
+<td colspan="7">69</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Жимолость
+<td colspan="55">
+Параграф 10.8 Жимолость
 Lonicera L.
 </td>
 </tr>
 <tr>
-<td>
-ГОЛУБОЕ
-ВЕРЕТЕНО
-</td>
-<td>1995</td>
-<td>1,13</td>
-<td>112</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2053.</td>
+<td colspan="8">ГОЛУБОЕ ВЕРЕТЕНО</td>
+<td colspan="12">1995</td>
+<td colspan="6">1,13</td>
+<td colspan="7">112</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАМЧАДАЛКА</td>
-<td>1997</td>
-<td>3,10,13</td>
-<td>112</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2054.</td>
+<td colspan="8">КАМЧАДАЛКА</td>
+<td colspan="12">1997</td>
+<td colspan="6">3,10,13</td>
+<td colspan="7">112</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>САЛЮТ</td>
-<td>1997</td>
-<td>1,3,13</td>
-<td>112</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2055.</td>
+<td colspan="8">САЛЮТ</td>
+<td colspan="12">1997</td>
+<td colspan="6">1,3,13</td>
+<td colspan="7">112</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СИНЯЯ ПТИЦА</td>
-<td>1992</td>
-<td>5,10</td>
-<td>112</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2056.</td>
+<td colspan="8">СИНЯЯ ПТИЦА</td>
+<td colspan="12">1992</td>
+<td colspan="6">5,10</td>
+<td colspan="7">112</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТОМИЧКА</td>
-<td>1999</td>
-<td>13</td>
-<td>112</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2057.</td>
+<td colspan="8">ТОМИЧКА</td>
+<td colspan="12">1999</td>
+<td colspan="6">13</td>
+<td colspan="7">112</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Облепиха
+<td colspan="55">
+Параграф 10.9 Облепиха
 Hippophae L.
 </td>
 </tr>
 <tr>
-<td>БУСИНКА</td>
-<td>1997</td>
-<td>3</td>
-<td>98</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2058.</td>
+<td colspan="8">БУСИНКА</td>
+<td colspan="12">1997</td>
+<td colspan="6">3</td>
+<td colspan="7">98</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВЕЛИКАН</td>
-<td>1992</td>
-<td>1,3,13</td>
-<td>112</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2059.</td>
+<td colspan="8">ВЕЛИКАН</td>
+<td colspan="12">1992</td>
+<td colspan="6">1,3,13</td>
+<td colspan="7">112</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВИТАМИННАЯ</td>
-<td>1986</td>
-<td>1,7,13</td>
-<td>112</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2060.</td>
+<td colspan="8">ВИТАМИННАЯ</td>
+<td colspan="12">1986</td>
+<td colspan="6">1,7,13</td>
+<td colspan="7">112</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЗЫРЯНКА</td>
-<td>1992</td>
-<td>2,4,10,11</td>
-<td>116</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2061.</td>
+<td colspan="8">ЗЫРЯНКА</td>
+<td colspan="12">1992</td>
+<td colspan="6">2,4,10,11</td>
+<td colspan="7">116</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>НОВОСТЬ АЛТАЯ</td>
-<td>1985</td>
-<td>1,10,13</td>
-<td>112</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2062.</td>
+<td colspan="8">НОВОСТЬ АЛТАЯ</td>
+<td colspan="12">1985</td>
+<td colspan="6">1,10,13</td>
+<td colspan="7">112</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПАНТЕЛЕЕВСКАЯ</td>
-<td>1997</td>
-<td>
-1,2,3,8,10,
-13
-</td>
-<td>112</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2063.</td>
+<td colspan="8">ПАНТЕЛЕЕВСКАЯ</td>
+<td colspan="12">1997</td>
+<td colspan="6">1,2,3,8,10,13</td>
+<td colspan="7">112</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПРЕВОСХОДНАЯ</td>
-<td>1992</td>
-<td>3</td>
-<td>112</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2064.</td>
+<td colspan="8">ПРЕВОСХОДНАЯ</td>
+<td colspan="12">1992</td>
+<td colspan="6">3</td>
+<td colspan="7">112</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЧУЙСКАЯ</td>
-<td>1988</td>
-<td>1,5,12,13</td>
-<td>112</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2065.</td>
+<td colspan="8">ЧУЙСКАЯ</td>
+<td colspan="12">1988</td>
+<td colspan="6">1,5,12,13</td>
+<td colspan="7">112</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Цитрусовые и субтропические
-Инжир
+<td colspan="55">
+Глава 11. Цитрусовые и субтропические
+Параграф 11.1 Инжир
 Ficus carica L.
 </td>
 </tr>
 <tr>
-<td>
-УЗБЕКСКИЙ
-ЖЕЛТЫЙ
-</td>
-<td>1973</td>
-<td>14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2066.</td>
+<td colspan="8">УЗБЕКСКИЙ ЖЕЛТЫЙ</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Гранат
+<td colspan="55">
+Параграф 11.2 Гранат
 Punica granatum L.
 </td>
 </tr>
 <tr>
-<td>АЧИК-ДОНА</td>
-<td>1973</td>
-<td>14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2067.</td>
+<td colspan="8">АЧИК-ДОНА</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАЗАКЕ</td>
-<td>1973</td>
-<td>14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2068.</td>
+<td colspan="8">КАЗАКЕ</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Унаби
+<td colspan="55">
+Параграф 11.3 Унаби
 Zizipfus sativa Gaerth.
 </td>
 </tr>
 <tr>
-<td>ТА-ЯН-ЦЗАО</td>
-<td>1973</td>
-<td>14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2069.</td>
+<td colspan="8">ТА-ЯН-ЦЗАО</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">Семенные подвои унаби</td>
+<td colspan="55">Параграф 11.4 Семенные подвои унаби</td>
 </tr>
 <tr>
-<td>
-УНАБИ
-МЕЛКОПЛОДНЫЙ
-КИСЛЫЙ
-</td>
-<td>1961</td>
-<td>14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2070.</td>
+<td colspan="8">УНАБИ МЕЛКОПЛОДНЫЙ КИСЛЫЙ</td>
+<td colspan="12">1961</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>УНАБИ МЕСТНЫЙ</td>
-<td>1961</td>
-<td>14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2071.</td>
+<td colspan="8">УНАБИ МЕСТНЫЙ</td>
+<td colspan="12">1961</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Орехоплодные
-Грецкий орех
+<td colspan="55">
+Глава 12. Орехоплодные
+Параграф 12.1 Грецкий орех
 Juglans L.
 </td>
 </tr>
 <tr>
-<td>ТОНКОСКОРЛУПЫЙ</td>
-<td>1973</td>
-<td>14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2072.</td>
+<td colspan="8">ТОНКОСКОРЛУПЫЙ</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">Грек жаңғағының тұқымдық телетушілері/Семенные подвои грецкого ореха</td>
+<td colspan="55">12.2. Параграф Семенные подвои грецкого ореха</td>
 </tr>
 <tr>
-<td>
-ГРЕЦКИЙ ОРЕХ
-(МЕСТНЫЕ
-ФОРМЫ)
-</td>
-<td>1961</td>
-<td>14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2073.</td>
+<td colspan="8">ГРЕЦКИЙ ОРЕХ (МЕСТНЫЕ ФОРМЫ)</td>
+<td colspan="12">1961</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Виноград
-Ас жүзім/Виноград столовый
+<td colspan="55">
+Глава 13. Виноград
+Параграф 13.1 Виноград столовый
 Vitis L.
 </td>
 </tr>
 <tr>
-<td>АЛАТОО</td>
-<td>1998</td>
-<td>6</td>
-<td>201</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2074.</td>
+<td colspan="8">АЛАТОО</td>
+<td colspan="12">1998</td>
+<td colspan="6">6</td>
+<td colspan="7">201</td>
+<td colspan="7">05</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АЛМА-АТА</td>
-<td>2004</td>
-<td>6,3</td>
-<td>23</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2075.</td>
+<td colspan="8">АЛМА-АТА</td>
+<td colspan="12">2004</td>
+<td colspan="6">6,3</td>
+<td colspan="7">23</td>
+<td colspan="7">03</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-АЛМА-АТИНСКИЙ
-РАННИЙ
-</td>
-<td>1974</td>
-<td>6</td>
-<td>23</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2076.</td>
+<td colspan="8">АЛМА-АТИНСКИЙ РАННИЙ</td>
+<td colspan="12">1974</td>
+<td colspan="6">6</td>
+<td colspan="7">23</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ГОЛДЕН
-МУСКАТНЫЙ
-</td>
-<td>1999</td>
-<td>3</td>
-<td>1</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2077.</td>
+<td colspan="8">ГОЛДЕН МУСКАТНЫЙ</td>
+<td colspan="12">1999</td>
+<td colspan="6">3</td>
+<td colspan="7">1</td>
+<td colspan="7">03</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ГУЗАЛЬ КАРА</td>
-<td>1982</td>
-<td>14</td>
-<td>191</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2078.</td>
+<td colspan="8">ГУЗАЛЬ КАРА</td>
+<td colspan="12">1982</td>
+<td colspan="6">14</td>
+<td colspan="7">191</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ДОБРУДЖА</td>
-<td>1997</td>
-<td>3</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2079.</td>
+<td colspan="8">ДОБРУДЖА</td>
+<td colspan="12">1997</td>
+<td colspan="6">3</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЖЕМЧУГ САБА</td>
-<td>1965</td>
-<td>3,6,14</td>
-<td>1</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2080.</td>
+<td colspan="8">ЖЕМЧУГ САБА</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">1</td>
+<td colspan="7">01</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЗАРИФ</td>
-<td>1998</td>
-<td>6</td>
-<td>215</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2081.</td>
+<td colspan="8">ЗАРИФ</td>
+<td colspan="12">1998</td>
+<td colspan="6">6</td>
+<td colspan="7">215</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАРА КОЗ</td>
-<td>1980</td>
-<td>3</td>
-<td>23</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2082.</td>
+<td colspan="8">КАРА КОЗ</td>
+<td colspan="12">1980</td>
+<td colspan="6">3</td>
+<td colspan="7">23</td>
+<td colspan="7">01</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-КИРГИЗСКИЙ
-РАННИЙ
-</td>
-<td>1998</td>
-<td>6</td>
-<td>201</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2083.</td>
+<td colspan="8">КИРГИЗСКИЙ РАННИЙ</td>
+<td colspan="12">1998</td>
+<td colspan="6">6</td>
+<td colspan="7">201</td>
+<td colspan="7">03</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КИШМИШ БЕЛЫЙ</td>
-<td>1973</td>
-<td>14</td>
-<td>1</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2084.</td>
+<td colspan="8">КИШМИШ БЕЛЫЙ</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7">05</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-КИШМИШ
-ЧЕРНЫЙ
-</td>
-<td>1965</td>
-<td>6,9,14</td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2085.</td>
+<td colspan="8">КИШМИШ ЧЕРНЫЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КЫЗЫЛ ТАН</td>
-<td>2006</td>
-<td>3,14</td>
-<td>23</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2086.</td>
+<td colspan="8">КЫЗЫЛ ТАН</td>
+<td colspan="12">2006</td>
+<td colspan="6">3,14</td>
+<td colspan="7">23</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-КОРОЛЕВА
-ВИНОГРАДНИКОВ
-</td>
-<td>1985</td>
-<td>3</td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2087.</td>
+<td colspan="8">КОРОЛЕВА ВИНОГРАДНИКОВ</td>
+<td colspan="12">1985</td>
+<td colspan="6">3</td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-МАДЛЕН
-МУСКАТНЫЙ
-</td>
-<td>1981</td>
-<td>3,6</td>
-<td>201</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2088.</td>
+<td colspan="8">МАДЛЕН МУСКАТНЫЙ</td>
+<td colspan="12">1981</td>
+<td colspan="6">3,6</td>
+<td colspan="7">201</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МЕДЕО</td>
-<td>2004</td>
-<td>6</td>
-<td>23</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2089.</td>
+<td colspan="8">МЕДЕО</td>
+<td colspan="12">2004</td>
+<td colspan="6">6</td>
+<td colspan="7">23</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-МУСКАТ
-АЛЕКСАНДРИЙСКИЙ
-</td>
-<td>1965</td>
-<td>9,14</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2090.</td>
+<td colspan="8">МУСКАТ АЛЕКСАНДРИЙСКИЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">9,14</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-МУСКАТ
-ВЕНГЕРСКИЙ
-</td>
-<td>1965</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2091.</td>
+<td colspan="8">МУСКАТ ВЕНГЕРСКИЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-МУСКАТ
-КАЗАХСТАНСКИЙ
-</td>
-<td>2011</td>
-<td>3</td>
-<td>23</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2092.</td>
+<td colspan="8">МУСКАТ КАЗАХСТАНСКИЙ</td>
+<td colspan="12">2011</td>
+<td colspan="6">3</td>
+<td colspan="7">23</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МОЛДОВА</td>
-<td>1997</td>
-<td>3</td>
-<td>209</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2093.</td>
+<td colspan="8">МОЛДОВА</td>
+<td colspan="12">1997</td>
+<td colspan="6">3</td>
+<td colspan="7">209</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>НИМРАНГ</td>
-<td>1965</td>
-<td>3,9,14</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2094.</td>
+<td colspan="8">НИМРАНГ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ОКТЯБРЬСКИЙ</td>
-<td>1973</td>
-<td>14</td>
-<td>191</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2095.</td>
+<td colspan="8">ОКТЯБРЬСКИЙ</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">191</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РАННИЙ ВИРА</td>
-<td>1965</td>
-<td>14</td>
-<td>191</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2096.</td>
+<td colspan="8">РАННИЙ ВИРА</td>
+<td colspan="12">1965</td>
+<td colspan="6">14</td>
+<td colspan="7">191</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СЕНСО</td>
-<td>1972</td>
-<td>6</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2097.</td>
+<td colspan="8">СЕНСО</td>
+<td colspan="12">1972</td>
+<td colspan="6">6</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТАЙФИ РОЗОВЫЙ</td>
-<td>1965</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2098.</td>
+<td colspan="8">ТАЙФИ РОЗОВЫЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТЕРБАШ</td>
-<td>1965</td>
-<td>3,6,14</td>
-<td>1</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2099.</td>
+<td colspan="8">ТЕРБАШ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">1</td>
+<td colspan="7">05</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ХУСАЙНЕ БЕЛЫЙ</td>
-<td>1973</td>
-<td>14</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2100.</td>
+<td colspan="8">ХУСАЙНЕ БЕЛЫЙ</td>
+<td colspan="12">1973</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Виноград технический
+<td colspan="55">
+Параграф 13.2 Виноград технический
 Vitis L.
 </td>
 </tr>
 <tr>
-<td>АЛИГОТЕ</td>
-<td>1965</td>
-<td>3,6,14</td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2101.</td>
+<td colspan="8">АЛИГОТЕ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АЛМАЛЫ</td>
-<td>2011</td>
-<td>3</td>
-<td>23</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2102.</td>
+<td colspan="8">АЛМАЛЫ</td>
+<td colspan="12">2011</td>
+<td colspan="6">3</td>
+<td colspan="7">23</td>
+<td colspan="7">03</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БАЯН ШИРЕЙ</td>
-<td>1965</td>
-<td>3,6,14</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2103.</td>
+<td colspan="8">БАЯН ШИРЕЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БРОКОЛЬ</td>
-<td>2009</td>
-<td>3</td>
-<td>296</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2104.</td>
+<td colspan="8">БРОКОЛЬ</td>
+<td colspan="12">2009</td>
+<td colspan="6">3</td>
+<td colspan="7">296</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-КАБЕРНЕ
-СОВИНЬОН
-</td>
-<td>1965</td>
-<td>3,6</td>
-<td>1</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2105.</td>
+<td colspan="8">КАБЕРНЕ СОВИНЬОН</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6</td>
+<td colspan="7">1</td>
+<td colspan="7">05</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАБЕРНЕ ФРАН</td>
-<td>1965</td>
-<td>3,6,14</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2106.</td>
+<td colspan="8">КАБЕРНЕ ФРАН</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КУЛЬДЖИНСКИЙ</td>
-<td>1965</td>
-<td>3,6,14</td>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2107.</td>
+<td colspan="8">КУЛЬДЖИНСКИЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">1</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАЙСКИЙ ЧЕРНЫЙ</td>
-<td>1965</td>
-<td>9</td>
-<td>1</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2108.</td>
+<td colspan="8">МАЙСКИЙ ЧЕРНЫЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">9</td>
+<td colspan="7">1</td>
+<td colspan="7">05</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАТРАСА</td>
-<td>1965</td>
-<td>14</td>
-<td>1</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2109.</td>
+<td colspan="8">МАТРАСА</td>
+<td colspan="12">1965</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7">05</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МЕРЛО</td>
-<td>2009</td>
-<td>3</td>
-<td>296</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2110.</td>
+<td colspan="8">МЕРЛО</td>
+<td colspan="12">2009</td>
+<td colspan="6">3</td>
+<td colspan="7">296</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МУСКАТ РОЗОВЫЙ</td>
-<td>1965</td>
-<td>6,9,14</td>
-<td>1</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2111.</td>
+<td colspan="8">МУСКАТ РОЗОВЫЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7">03</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-МУСКАТ
-ФИОЛЕТОВЫЙ
-</td>
-<td>1965</td>
-<td>14</td>
-<td>1</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2112.</td>
+<td colspan="8">МУСКАТ ФИОЛЕТОВЫЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">14</td>
+<td colspan="7">1</td>
+<td colspan="7">05</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПИНО ЧЕРНЫЙ</td>
-<td>1965</td>
-<td>3,6,14</td>
-<td>1</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2113.</td>
+<td colspan="8">ПИНО ЧЕРНЫЙ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">1</td>
+<td colspan="7">02</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РИСЛИНГ</td>
-<td>1965</td>
-<td>3,6,14</td>
-<td>1</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2114.</td>
+<td colspan="8">РИСЛИНГ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,14</td>
+<td colspan="7">1</td>
+<td colspan="7">05</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РКАЦИТЕЛИ</td>
-<td>1965</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2115.</td>
+<td colspan="8">РКАЦИТЕЛИ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РУБИНОВЫЙ</td>
-<td>1982</td>
-<td>14</td>
-<td>190</td>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2116.</td>
+<td colspan="8">РУБИНОВЫЙ</td>
+<td colspan="12">1982</td>
+<td colspan="6">14</td>
+<td colspan="7">190</td>
+<td colspan="7">06</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-РУБИНОВЫЙ
-МАГАРАЧА
-</td>
-<td>1973</td>
-<td>3</td>
-<td>158</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2117.</td>
+<td colspan="8">РУБИНОВЫЙ МАГАРАЧА</td>
+<td colspan="12">1973</td>
+<td colspan="6">3</td>
+<td colspan="7">158</td>
+<td colspan="7">04</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>САПЕРАВИ</td>
-<td>1965</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2118.</td>
+<td colspan="8">САПЕРАВИ</td>
+<td colspan="12">1965</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7">05</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Цветочно-декоративные
-Роза
+<td colspan="55">
+Глава 14. Цветочно-декоративные
+Параграф 14.1 Роза
 Rosa L.
 </td>
 </tr>
 <tr>
-<td>АЙСБЕРГ</td>
-<td>1987</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2119.</td>
+<td colspan="8">АЙСБЕРГ</td>
+<td colspan="12">1987</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АЛЫЕ ПАРУСА</td>
-<td>1970</td>
-<td>3,6,9,14</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2120.</td>
+<td colspan="8">АЛЫЕ ПАРУСА</td>
+<td colspan="12">1970</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">9</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БЫЛИНА</td>
-<td>1970</td>
-<td>3,6,9,14</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2121.</td>
+<td colspan="8">БЫЛИНА</td>
+<td colspan="12">1970</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">9</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ГЛОРИЯ ДЕЙ</td>
-<td>1970</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2122.</td>
+<td colspan="8">ГЛОРИЯ ДЕЙ</td>
+<td colspan="12">1970</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ДУФТВОЛЬКЕ</td>
-<td>1990</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2123.</td>
+<td colspan="8">ДУФТВОЛЬКЕ</td>
+<td colspan="12">1990</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-КАЗАХСТАНСКАЯ
-ЮБИЛЕЙНАЯ
-</td>
-<td>1970</td>
-<td>3,6,9,14</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2124.</td>
+<td colspan="8">КАЗАХСТАНСКАЯ ЮБИЛЕЙНАЯ</td>
+<td colspan="12">1970</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">9</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КОРДУЛА</td>
-<td>1970</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2125.</td>
+<td colspan="8">КОРДУЛА</td>
+<td colspan="12">1970</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КУИН ЭЛИЗАБЕТ</td>
-<td>1970</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2126.</td>
+<td colspan="8">КУИН ЭЛИЗАБЕТ</td>
+<td colspan="12">1970</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПАСКАЛИ</td>
-<td>1985</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2127.</td>
+<td colspan="8">ПАСКАЛИ</td>
+<td colspan="12">1985</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПИКАССО</td>
-<td>1987</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2128.</td>
+<td colspan="8">ПИКАССО</td>
+<td colspan="12">1987</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ПОЛЬ СКАРЛЕТ
-КЛАЙМБЕР
-</td>
-<td>1994</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2129.</td>
+<td colspan="8">ПОЛЬ СКАРЛЕТ КЛАЙМБЕР</td>
+<td colspan="12">1994</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПУСТА</td>
-<td>1990</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2130.</td>
+<td colspan="8">ПУСТА</td>
+<td colspan="12">1990</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СОНИЯ</td>
-<td>1990</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2131.</td>
+<td colspan="8">СОНИЯ</td>
+<td colspan="12">1990</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-СИТИ ОФ
-БЕЛФАСТ
-</td>
-<td>1987</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2132.</td>
+<td colspan="8">СИТИ ОФ БЕЛФАСТ</td>
+<td colspan="12">1987</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТАМАНГО</td>
-<td>1987</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2133.</td>
+<td colspan="8">ТАМАНГО</td>
+<td colspan="12">1987</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ХОРОВОД</td>
-<td>1990</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2134.</td>
+<td colspan="8">ХОРОВОД</td>
+<td colspan="12">1990</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Гладиолус
+<td colspan="55">
+Параграф 14.2 Гладиолус
 Gladiolus L.
 </td>
 </tr>
 <tr>
-<td>АМЕРИКЕН БЮТИ</td>
-<td>1983</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2135.</td>
+<td colspan="8">АМЕРИКЕН БЮТИ</td>
+<td colspan="12">1983</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КРИСТМАС РЕД</td>
-<td>1986</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2136.</td>
+<td colspan="8">КРИСТМАС РЕД</td>
+<td colspan="12">1986</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Фрезия
+<td colspan="55">
+Параграф 14.3 Фрезия
 Freesia Eckl.
 </td>
 </tr>
 <tr>
-<td>АЖАР</td>
-<td>2002</td>
-<td>3,6,9,14</td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2137.</td>
+<td colspan="8">АЖАР</td>
+<td colspan="12">2002</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">15</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АЛИЯ</td>
-<td>1996</td>
-<td>3,6,9,14</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2138.</td>
+<td colspan="8">АЛИЯ</td>
+<td colspan="12">1996</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">9</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АЛТЫНАЙ</td>
-<td>2002</td>
-<td>3,6,9,14</td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2139.</td>
+<td colspan="8">АЛТЫНАЙ</td>
+<td colspan="12">2002</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">15</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АЛЬТАИР</td>
-<td>2002</td>
-<td>3,6,9,14</td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2140.</td>
+<td colspan="8">АЛЬТАИР</td>
+<td colspan="12">2002</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">15</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АМАЛИЯ</td>
-<td>1996</td>
-<td>3,6,9,14</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2141.</td>
+<td colspan="8">АМАЛИЯ</td>
+<td colspan="12">1996</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">9</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АРИАДНА</td>
-<td>2002</td>
-<td>3,6,9,14</td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2142.</td>
+<td colspan="8">АРИАДНА</td>
+<td colspan="12">2002</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">15</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АССОЛЬ</td>
-<td>1998</td>
-<td>3,6,9,14</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2143.</td>
+<td colspan="8">АССОЛЬ</td>
+<td colspan="12">1998</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">9</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВИОЛЕТТА</td>
-<td>1996</td>
-<td>3,6,9,14</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2144.</td>
+<td colspan="8">ВИОЛЕТТА</td>
+<td colspan="12">1996</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">9</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ИЗБАСАР</td>
-<td>2002</td>
-<td>3,6,9,14</td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2145.</td>
+<td colspan="8">ИЗБАСАР</td>
+<td colspan="12">2002</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">15</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ИСА БАЙТУЛИН</td>
-<td>2002</td>
-<td>3,6,9,14</td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2146.</td>
+<td colspan="8">ИСА БАЙТУЛИН</td>
+<td colspan="12">2002</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">15</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛЮБАВА</td>
-<td>2002</td>
-<td>3,6,9,14</td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2147.</td>
+<td colspan="8">ЛЮБАВА</td>
+<td colspan="12">2002</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">15</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАНШУК</td>
-<td>2002</td>
-<td>3,6,9,14</td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2148.</td>
+<td colspan="8">МАНШУК</td>
+<td colspan="12">2002</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">15</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАРИЯ</td>
-<td>1998</td>
-<td>3,6,9,14</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2149.</td>
+<td colspan="8">МАРИЯ</td>
+<td colspan="12">1998</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">9</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МЕДЕЯ</td>
-<td>1998</td>
-<td>3,6,9,14</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2150.</td>
+<td colspan="8">МЕДЕЯ</td>
+<td colspan="12">1998</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">9</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>НАЗИК</td>
-<td>2002</td>
-<td>3,6,9,14</td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2151.</td>
+<td colspan="8">НАЗИК</td>
+<td colspan="12">2002</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">15</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>НАТАЛИ</td>
-<td>1996</td>
-<td>3,6,9,14</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2152.</td>
+<td colspan="8">НАТАЛИ</td>
+<td colspan="12">1996</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">9</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПЕРСЕЙ</td>
-<td>2002</td>
-<td>3,6,9,14</td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2153.</td>
+<td colspan="8">ПЕРСЕЙ</td>
+<td colspan="12">2002</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">15</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ФЕВЗИЯ</td>
-<td>1998</td>
-<td>3,6,9,14</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2154.</td>
+<td colspan="8">ФЕВЗИЯ</td>
+<td colspan="12">1998</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">9</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Ирис
+<td colspan="55">
+Параграф 14.4 Ирис
 Iris L.
 </td>
 </tr>
 <tr>
-<td>АЛЬТРОПОЙЗ</td>
-<td>1985</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2155.</td>
+<td colspan="8">АЛЬТРОПОЙЗ</td>
+<td colspan="12">1985</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АМЕТИСТ ФЛЕЙМ</td>
-<td>1985</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2156.</td>
+<td colspan="8">АМЕТИСТ ФЛЕЙМ</td>
+<td colspan="12">1985</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БЛУ САПФАЙЕР</td>
-<td>1985</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2157.</td>
+<td colspan="8">БЛУ САПФАЙЕР</td>
+<td colspan="12">1985</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛЭТИН ЛАВЕР</td>
-<td>1993</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2158.</td>
+<td colspan="8">ЛЭТИН ЛАВЕР</td>
+<td colspan="12">1993</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАТИНАТА</td>
-<td>1993</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2159.</td>
+<td colspan="8">МАТИНАТА</td>
+<td colspan="12">1993</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РИПЛИНГ УОТЕРС</td>
-<td>1993</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2160.</td>
+<td colspan="8">РИПЛИНГ УОТЕРС</td>
+<td colspan="12">1993</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СЕЙБЛ НАЙТ</td>
-<td>1985</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2161.</td>
+<td colspan="8">СЕЙБЛ НАЙТ</td>
+<td colspan="12">1985</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СПРИНГФЕСТИВАЛ</td>
-<td>1985</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2162.</td>
+<td colspan="8">СПРИНГФЕСТИВАЛ</td>
+<td colspan="12">1985</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СТЕППИНГ АУТ</td>
-<td>1985</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2163.</td>
+<td colspan="8">СТЕППИНГ АУТ</td>
+<td colspan="12">1985</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ХЕНКА</td>
-<td>1993</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2164.</td>
+<td colspan="8">ХЕНКА</td>
+<td colspan="12">1993</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Тюльпан
+<td colspan="55">
+Параграф 14.5 Тюльпан
 Tulipa L.
 </td>
 </tr>
 <tr>
-<td>АЛАТАУ</td>
-<td>2009</td>
-<td>3</td>
-<td>297</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2165.</td>
+<td colspan="8">АЛАТАУ</td>
+<td colspan="12">2009</td>
+<td colspan="6">3</td>
+<td colspan="7">297</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АЙВОРИ ФЛОРА</td>
-<td>1990</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2166.</td>
+<td colspan="8">АЙВОРИ ФЛОРА</td>
+<td colspan="12">1990</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БЛЭК ПАРРОТ</td>
-<td>1970</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2167.</td>
+<td colspan="8">БЛЭК ПАРРОТ</td>
+<td colspan="12">1970</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВЕСНА</td>
-<td>2009</td>
-<td>3</td>
-<td>297</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2168.</td>
+<td colspan="8">ВЕСНА</td>
+<td colspan="12">2009</td>
+<td colspan="6">3</td>
+<td colspan="7">297</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ДИПЛОМАТ</td>
-<td>1977</td>
-<td>3</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2169.</td>
+<td colspan="8">ДИПЛОМАТ</td>
+<td colspan="12">1977</td>
+<td colspan="6">3</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛОНДОН</td>
-<td>1977</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2170.</td>
+<td colspan="8">ЛОНДОН</td>
+<td colspan="12">1977</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ОКСФОРД</td>
-<td>1977</td>
-<td>3</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2171.</td>
+<td colspan="8">ОКСФОРД</td>
+<td colspan="12">1977</td>
+<td colspan="6">3</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПАРАД</td>
-<td>1980</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2172.</td>
+<td colspan="8">ПАРАД</td>
+<td colspan="12">1980</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СОЛНЕЧНЫЙ</td>
-<td>2009</td>
-<td>3</td>
-<td>297</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2173.</td>
+<td colspan="8">СОЛНЕЧНЫЙ</td>
+<td colspan="12">2009</td>
+<td colspan="6">3</td>
+<td colspan="7">297</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Нарцисс
-Narcissus L.
-</td>
+<td colspan="55">Параграф 14.6 НарциссNarcissus L.</td>
 </tr>
 <tr>
-<td>БИРШЕБА</td>
-<td>1970</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2174.</td>
+<td colspan="8">БИРШЕБА</td>
+<td colspan="12">1970</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ГОЛЬДЕН ХАРВИСТ</td>
-<td>1970</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2175.</td>
+<td colspan="8">ГОЛЬДЕН ХАРВИСТ</td>
+<td colspan="12">1970</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ФЛАУЕР РЕКОРД</td>
-<td>1979</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2176.</td>
+<td colspan="8">ФЛАУЕР РЕКОРД</td>
+<td colspan="12">1979</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Канна
+<td colspan="55">
+Параграф 14.7 Канна
 Canna L.
 </td>
 </tr>
 <tr>
-<td>АМЕРИКА</td>
-<td>1973</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2177.</td>
+<td colspan="8">АМЕРИКА</td>
+<td colspan="12">1973</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПРЕЗИДЕНТ</td>
-<td>1973</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2178.</td>
+<td colspan="8">ПРЕЗИДЕНТ</td>
+<td colspan="12">1973</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Хризантема
+<td colspan="55">
+Параграф 14.8 Хризантема
 Chrysanthemum L.
 </td>
 </tr>
 <tr>
-<td>ВЕРОНИКА</td>
-<td>1983</td>
-<td>3,6,9,14</td>
-<td>79</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2179.</td>
+<td colspan="8">ВЕРОНИКА</td>
+<td colspan="12">1983</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">79</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ДОЧЬ РОЗЕТТЫ</td>
-<td>1973</td>
-<td>3,6,9,14</td>
-<td>207</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2180.</td>
+<td colspan="8">ДОЧЬ РОЗЕТТЫ</td>
+<td colspan="12">1973</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">207</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЗВЕЗДОПАД</td>
-<td>1994</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2181.</td>
+<td colspan="8">ЗВЕЗДОПАД</td>
+<td colspan="12">1994</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЗАРНИЦА</td>
-<td>1994</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2182.</td>
+<td colspan="8">ЗАРНИЦА</td>
+<td colspan="12">1994</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КНОПА</td>
-<td>1989</td>
-<td>3,6,9,14</td>
-<td>152</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2183.</td>
+<td colspan="8">КНОПА</td>
+<td colspan="12">1989</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">152</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СМУГЛЯВА КРАСУНЯ</td>
-<td>1989</td>
-<td>3,6,9,14</td>
-<td>152</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2184.</td>
+<td colspan="8">СМУГЛЯВА КРАСУНЯ</td>
+<td colspan="12">1989</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">152</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ЦАРЕВНА
-ЛЕБЕДУШКА
-</td>
-<td>1976</td>
-<td>3,6,9,14</td>
-<td>152</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2185.</td>
+<td colspan="8">ЦАРЕВНА ЛЕБЕДУШКА</td>
+<td colspan="12">1976</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">152</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Гиацинт
+<td colspan="55">
+Параграф 14.9 Гиацинт
 Hyacinthus L.
 </td>
 </tr>
 <tr>
-<td>ГЕРТРУДА</td>
-<td>1976</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2186.</td>
+<td colspan="8">ГЕРТРУДА</td>
+<td colspan="12">1976</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>Л. ИННОСАНС</td>
-<td>1976</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2187.</td>
+<td colspan="8">Л. ИННОСАНС</td>
+<td colspan="12">1976</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАДАМ СОФИ</td>
-<td>1976</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2188.</td>
+<td colspan="8">МАДАМ СОФИ</td>
+<td colspan="12">1976</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ОСТАРА</td>
-<td>1976</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2189.</td>
+<td colspan="8">ОСТАРА</td>
+<td colspan="12">1976</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПИНК ПЕРЛ</td>
-<td>1976</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2190.</td>
+<td colspan="8">ПИНК ПЕРЛ</td>
+<td colspan="12">1976</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЯН БОС</td>
-<td>1976</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2191.</td>
+<td colspan="8">ЯН БОС</td>
+<td colspan="12">1976</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Пион
+<td colspan="55">
+Параграф 14.10 Пион
 Paeonia L.
 </td>
 </tr>
 <tr>
-<td>
-МОСЬЕ МАРТИН
-КАЮЗАК
-</td>
-<td>1981</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2192.</td>
+<td colspan="8">МОСЬЕ МАРТИН КАЮЗАК</td>
+<td colspan="12">1981</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>САРА БЕРНАР</td>
-<td>1981</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2193.</td>
+<td colspan="8">САРА БЕРНАР</td>
+<td colspan="12">1981</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ФЕЛИКС КРУСС</td>
-<td>1981</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2194.</td>
+<td colspan="8">ФЕЛИКС КРУСС</td>
+<td colspan="12">1981</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ФЕСТИВА
-МАКСИМА
-</td>
-<td>1981</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2195.</td>
+<td colspan="8">ФЕСТИВА МАКСИМА</td>
+<td colspan="12">1981</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Лилия
+<td colspan="55">
+Параграф 14.11 Лилия
 Lilium L.
 </td>
 </tr>
 <tr>
-<td>АЭЛИТА</td>
-<td>1990</td>
-<td>3,6,9,14</td>
-<td>69</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2196.</td>
+<td colspan="8">АЭЛИТА</td>
+<td colspan="12">1990</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">69</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВЕРИКАЛ</td>
-<td>1993</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2197.</td>
+<td colspan="8">ВЕРИКАЛ</td>
+<td colspan="12">1993</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ВОЛХОВА</td>
-<td>1990</td>
-<td>3,6,9,14</td>
-<td>69</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2198.</td>
+<td colspan="8">ВОЛХОВА</td>
+<td colspan="12">1990</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">69</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЖИЗЕЛЬ</td>
-<td>1990</td>
-<td>3,6,9,14</td>
-<td>69</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2199.</td>
+<td colspan="8">ЖИЗЕЛЬ</td>
+<td colspan="12">1990</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">69</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАКЕН</td>
-<td>1993</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2200.</td>
+<td colspan="8">МАКЕН</td>
+<td colspan="12">1993</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПОЛИНА</td>
-<td>1990</td>
-<td>3,6,9,14</td>
-<td>69</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2201.</td>
+<td colspan="8">ПОЛИНА</td>
+<td colspan="12">1990</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">69</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РОЗОВАЯ ДЫМКА</td>
-<td>1990</td>
-<td>3,6,9,14</td>
-<td>69</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2202.</td>
+<td colspan="8">РОЗОВАЯ ДЫМКА</td>
+<td colspan="12">1990</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">69</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РОТАЛЯ</td>
-<td>1990</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2203.</td>
+<td colspan="8">РОТАЛЯ</td>
+<td colspan="12">1990</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Циния
+<td colspan="55">
+Параграф 14.12 Циния
 Zinnia L.
 </td>
 </tr>
 <tr>
-<td>ДРИМ</td>
-<td>1988</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2204.</td>
+<td colspan="8">ДРИМ</td>
+<td colspan="12">1988</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КЕНЕЙРИ</td>
-<td>1988</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2205.</td>
+<td colspan="8">КЕНЕЙРИ</td>
+<td colspan="12">1988</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СКАРЛЕТ ФЛЕЙМ</td>
-<td>1988</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2206.</td>
+<td colspan="8">СКАРЛЕТ ФЛЕЙМ</td>
+<td colspan="12">1988</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Тагетес
+<td colspan="55">
+Параграф 14.13 Тагетес
 Tagetes L.
 </td>
 </tr>
 <tr>
-<td>КАРМЕН</td>
-<td>1989</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2207.</td>
+<td colspan="8">КАРМЕН</td>
+<td colspan="12">1989</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Лилейник
+<td colspan="55">
+Параграф 14.14 Лилейник
 Hemerocallis L.
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td>ВАЙНИНГ УАЙЗ</td>
-<td>1990</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2208.</td>
+<td colspan="8">ВАЙНИНГ УАЙЗ</td>
+<td colspan="12">1990</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ГОЛДЕН ГИФТ</td>
-<td>1994</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2209.</td>
+<td colspan="8">ГОЛДЕН ГИФТ</td>
+<td colspan="12">1994</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАИН</td>
-<td>1994</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2210.</td>
+<td colspan="8">КАИН</td>
+<td colspan="12">1994</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МЕЛОДИ ЛЕЙН</td>
-<td>1994</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2211.</td>
+<td colspan="8">МЕЛОДИ ЛЕЙН</td>
+<td colspan="12">1994</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>НОТТИ МАРИЕТТА</td>
-<td>1994</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2212.</td>
+<td colspan="8">НОТТИ МАРИЕТТА</td>
+<td colspan="12">1994</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>НОБ ХИЛЛ</td>
-<td>1990</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2213.</td>
+<td colspan="8">НОБ ХИЛЛ</td>
+<td colspan="12">1990</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РИГАЛ ЭЙР</td>
-<td>1994</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2214.</td>
+<td colspan="8">РИГАЛ ЭЙР</td>
+<td colspan="12">1994</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>САМЕ ПРАЙД</td>
-<td>1994</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2215.</td>
+<td colspan="8">САМЕ ПРАЙД</td>
+<td colspan="12">1994</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ШАРТРЕЗ</td>
-<td>1994</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2216.</td>
+<td colspan="8">ШАРТРЕЗ</td>
+<td colspan="12">1994</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Клематис
+<td colspan="55">
+Параграф 14.15 Клематис
 Clematis L.
 </td>
 </tr>
 <tr>
-<td>АЛЕНУШКА</td>
-<td>1994</td>
-<td>3,6,9,14</td>
-<td>152</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2217.</td>
+<td colspan="8">АЛЕНУШКА</td>
+<td colspan="12">1994</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">152</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ОЛИМПИАДА 80</td>
-<td>1994</td>
-<td>3,6,9,14</td>
-<td>152</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2218.</td>
+<td colspan="8">ОЛИМПИАДА 80</td>
+<td colspan="12">1994</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">152</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РАССВЕТ</td>
-<td>1994</td>
-<td>3,6,9,14</td>
-<td>152</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2219.</td>
+<td colspan="8">РАССВЕТ</td>
+<td colspan="12">1994</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">152</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СИЗАЯ ПТИЦА</td>
-<td>1994</td>
-<td>3,6,9,14</td>
-<td>152</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2220.</td>
+<td colspan="8">СИЗАЯ ПТИЦА</td>
+<td colspan="12">1994</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">152</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СЕРЕНАДА КРЫМА</td>
-<td>1994</td>
-<td>3,6,9,14</td>
-<td>152</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2221.</td>
+<td colspan="8">СЕРЕНАДА КРЫМА</td>
+<td colspan="12">1994</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">152</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЮБИЛЕЙНЫЙ</td>
-<td>1994</td>
-<td>3,6,9,14</td>
-<td>152</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2222.</td>
+<td colspan="8">ЮБИЛЕЙНЫЙ</td>
+<td colspan="12">1994</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">152</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЯЛТИНСКИЙ ЭТЮД</td>
-<td>1994</td>
-<td>3,6,9,14</td>
-<td>152</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2223.</td>
+<td colspan="8">ЯЛТИНСКИЙ ЭТЮД</td>
+<td colspan="12">1994</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">152</td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Жұпаргүл/Сирень
+<td colspan="55">
+Параграф 14.16 Сирень
 Syrinqa L.
 </td>
 </tr>
 <tr>
-<td>АККУ</td>
-<td>1995</td>
-<td>3,6,9,14</td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2224.</td>
+<td colspan="9">АККУ</td>
+<td colspan="12">1995</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">6</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>АЛМААТИНКА</td>
-<td>1995</td>
-<td>3,6,9,14</td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2225.</td>
+<td colspan="9">АЛМААТИНКА</td>
+<td colspan="12">1995</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">6</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ГУЛЬДЕР</td>
-<td>1995</td>
-<td>3,6,9,14</td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2226.</td>
+<td colspan="9">ГУЛЬДЕР</td>
+<td colspan="12">1995</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">6</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАПИТАН БАЛЬТЕ</td>
-<td>1986</td>
-<td>3,6,9,14</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2227.</td>
+<td colspan="9">КАПИТАН БАЛЬТЕ</td>
+<td colspan="12">1986</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">1</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ЛИЛОВАЯ
-ПИРАМИДА
-</td>
-<td>1987</td>
-<td>3,6,9,14</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2228.</td>
+<td colspan="9">ЛИЛОВАЯ ПИРАМИДА</td>
+<td colspan="12">1987</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">9</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАЙГУЛЬ</td>
-<td>1995</td>
-<td>3,6,9,14</td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2229.</td>
+<td colspan="9">МАЙГУЛЬ</td>
+<td colspan="12">1995</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">6</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МАРЬЯМ</td>
-<td>1995</td>
-<td>3,6,9,14</td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2230.</td>
+<td colspan="9">МАРЬЯМ</td>
+<td colspan="12">1995</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">6</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МИЛАДА</td>
-<td>1995</td>
-<td>3,6,9,14</td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2231.</td>
+<td colspan="9">МИЛАДА</td>
+<td colspan="12">1995</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">6</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ОЛЕГ</td>
-<td>1995</td>
-<td>3,6,9,14</td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2232.</td>
+<td colspan="9">ОЛЕГ</td>
+<td colspan="12">1995</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">6</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-ПАМЯТИ
-АКАДЕМИКА
-К.И. САТПАЕВА
-</td>
-<td>1986</td>
-<td>3,6,9,14</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2233.</td>
+<td colspan="9">ПАМЯТИ АКАДЕМИКА К.И. САТПАЕВА</td>
+<td colspan="12">1986</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">9</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СУЮНШИ</td>
-<td>1990</td>
-<td>3,6,9,14</td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2234.</td>
+<td colspan="9">СУЮНШИ</td>
+<td colspan="12">1990</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">6</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СЕРЕЖА</td>
-<td>1990</td>
-<td>3,6,9,14</td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2235.</td>
+<td colspan="9">СЕРЕЖА</td>
+<td colspan="12">1990</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">6</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТАДЕУШ</td>
-<td>1995</td>
-<td>3,6,9,14</td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2236.</td>
+<td colspan="9">ТАДЕУШ</td>
+<td colspan="12">1995</td>
+<td colspan="6">3,6,9,14</td>
+<td colspan="7">6</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Петуния
+<td colspan="55">
+Параграф 14.17 Петуния
 Petunia Juss
 </td>
 </tr>
 <tr>
-<td>АЛЬБА</td>
-<td>2011</td>
-<td>10</td>
-<td>322</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2237.</td>
+<td colspan="9">АЛЬБА</td>
+<td colspan="12">2011</td>
+<td colspan="6">10</td>
+<td colspan="7">322</td>
+<td colspan="7">F1</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ИВЕТТА</td>
-<td>2011</td>
-<td>10</td>
-<td>322</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2238.</td>
+<td colspan="9">ИВЕТТА</td>
+<td colspan="12">2011</td>
+<td colspan="6">10</td>
+<td colspan="7">322</td>
+<td colspan="7">F1</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>КАРКУЛКА</td>
-<td>2011</td>
-<td>10</td>
-<td>322</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2239.</td>
+<td colspan="9">КАРКУЛКА</td>
+<td colspan="12">2011</td>
+<td colspan="6">10</td>
+<td colspan="7">322</td>
+<td colspan="7">F1</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>СОФИЯ</td>
-<td>2011</td>
-<td>10</td>
-<td>322</td>
-<td>F1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2240.</td>
+<td colspan="9">СОФИЯ</td>
+<td colspan="12">2011</td>
+<td colspan="6">10</td>
+<td colspan="7">322</td>
+<td colspan="7">F1</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТЕМНО-ПУРПУРНАЯ</td>
-<td>2011</td>
-<td>10</td>
-<td>322</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2241.</td>
+<td colspan="9">ТЕМНО-ПУРПУРНАЯ</td>
+<td colspan="12">2011</td>
+<td colspan="6">10</td>
+<td colspan="7">322</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЧЕРНЫГО ТРИУМФ</td>
-<td>2011</td>
-<td>10</td>
-<td>322</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2242.</td>
+<td colspan="9">ЧЕРНЫГО ТРИУМФ</td>
+<td colspan="12">2011</td>
+<td colspan="6">10</td>
+<td colspan="7">322</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Бал өсімдіктер/Медоносные
-Фацелия
+<td colspan="55">
+Глава 15. Медоносные
+Параграф 15.1 Фацелия
 PhaceliatanacetifoliaBenth.
 </td>
 </tr>
 <tr>
-<td>ЛИЗЕТТЕ</td>
-<td>2011</td>
-<td>
+<td>2243.</td>
+<td colspan="2">ЛИЗЕТТЕ</td>
+<td colspan="9">2011</td>
+<td colspan="16">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Газонные травы
-Мятлик луговой
+<td colspan="55">
+Глава 16. Газонные травы
+Параграф 16.1 Мятлик луговой
 Poa pratensis L.
 </td>
 </tr>
 <tr>
-<td>БАРОН</td>
-<td>1985</td>
-<td>3,6,9,14</td>
-<td>173</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2244.</td>
+<td colspan="2">БАРОН</td>
+<td colspan="9">1985</td>
+<td colspan="16">3,6,9,14</td>
+<td colspan="7">173</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИМАГИ</td>
-<td>2011</td>
-<td>
+<td>2245.</td>
+<td colspan="2">ЛИМАГИ</td>
+<td colspan="9">2011</td>
+<td colspan="16">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИМЕРИК</td>
-<td>2011</td>
-<td>
+<td>2246.</td>
+<td colspan="2">ЛИМЕРИК</td>
+<td colspan="9">2011</td>
+<td colspan="16">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИМУЗИНЕ</td>
-<td>2011</td>
-<td>
+<td>2247.</td>
+<td colspan="2">ЛИМУЗИНЕ</td>
+<td colspan="9">2011</td>
+<td colspan="16">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИНАРЕС</td>
-<td>2014</td>
-<td>6</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2248.</td>
+<td colspan="2">ЛИНАРЕС</td>
+<td colspan="9">2014</td>
+<td colspan="16">6</td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИНКОЛЬНШИР</td>
-<td>2011</td>
-<td>
+<td>2249.</td>
+<td colspan="2">ЛИНКОЛЬНШИР</td>
+<td colspan="9">2011</td>
+<td colspan="16">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ПАРСИФАЛ</td>
-<td>2011</td>
-<td>
+<td>2250.</td>
+<td colspan="2">ПАРСИФАЛ</td>
+<td colspan="9">2011</td>
+<td colspan="16">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Овсяница разнолистная
+<td colspan="55">
+Параграф 16.2 Овсяница разнолистная
 Festuca L.
 </td>
 </tr>
 <tr>
-<td>ИЗУМРУДНАЯ</td>
-<td>1986</td>
-<td>3,6,9,14</td>
-<td>173</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2251.</td>
+<td colspan="2">ИЗУМРУДНАЯ</td>
+<td colspan="9">1986</td>
+<td colspan="16">3,6,9,14</td>
+<td colspan="7">173</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Овсяница красная
+<td colspan="55">
+Параграф 16.3 Овсяница красная
 Festuca rubra L.
 </td>
 </tr>
 <tr>
-<td>ДЖАСПЕРИНА</td>
-<td>2013</td>
-<td>2, 3, 6, 8, 14</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2252.</td>
+<td colspan="2">ДЖАСПЕРИНА</td>
+<td colspan="9">2013</td>
+<td colspan="16">2, 3, 6, 8, 14</td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ДЖЕВЕЛИН</td>
-<td>2011</td>
-<td>
+<td>2253.</td>
+<td colspan="2">ДЖЕВЕЛИН</td>
+<td colspan="9">2011</td>
+<td colspan="16">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЕКСЕЛЕНЦ</td>
-<td>2013</td>
-<td>8,13</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2254.</td>
+<td colspan="2">ЕКСЕЛЕНЦ</td>
+<td colspan="9">2013</td>
+<td colspan="16">8,13</td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛАЙТ</td>
-<td>2011</td>
-<td>
+<td>2255.</td>
+<td colspan="2">ЛАЙТ</td>
+<td colspan="9">2011</td>
+<td colspan="16">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИВИЗИОН</td>
-<td>2013</td>
-<td>2, 3, 8, 12, 13, 14</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2256.</td>
+<td colspan="2">ЛИВИЗИОН</td>
+<td colspan="9">2013</td>
+<td colspan="16">2, 3, 8, 12, 13, 14</td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИВИСТА</td>
-<td>2011</td>
-<td>
+<td>2257.</td>
+<td colspan="2">ЛИВИСТА</td>
+<td colspan="9">2011</td>
+<td colspan="16">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИТАНГО</td>
-<td>2013</td>
-<td>2, 8, 12, 13, 14</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2258.</td>
+<td colspan="2">ЛИТАНГО</td>
+<td colspan="9">2013</td>
+<td colspan="16">2, 8, 12, 13, 14</td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛУЦИНДА</td>
-<td>2011</td>
-<td>
+<td>2259.</td>
+<td colspan="2">ЛУЦИНДА</td>
+<td colspan="9">2011</td>
+<td colspan="16">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ОЛИВИЯ</td>
-<td>2013</td>
-<td>8, 13</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2260.</td>
+<td colspan="2">ОЛИВИЯ</td>
+<td colspan="9">2013</td>
+<td colspan="16">8, 13</td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РАИСА</td>
-<td>2013</td>
-<td>8, 13</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2261.</td>
+<td colspan="2">РАИСА</td>
+<td colspan="9">2013</td>
+<td colspan="16">8, 13</td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РАЙДЕР</td>
-<td>2013</td>
-<td>3, 6, 8, 12, 13, 14</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2262.</td>
+<td colspan="2">РАЙДЕР</td>
+<td colspan="9">2013</td>
+<td colspan="16">3, 6, 8, 12, 13, 14</td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЦЕЛИЯ</td>
-<td>2013</td>
-<td>8, 13, 14</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2263.</td>
+<td colspan="2">ЦЕЛИЯ</td>
+<td colspan="9">2013</td>
+<td colspan="16">8, 13, 14</td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Овсяница овечья
+<td colspan="55">
+Параграф 16.4 Овсяница овечья
 Festuca ovina L.
 </td>
 </tr>
 <tr>
-<td>МЕНТОР</td>
-<td>2011</td>
-<td>
+<td>2264.</td>
+<td colspan="2">МЕНТОР</td>
+<td colspan="9">2011</td>
+<td colspan="16">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БОРНИТО</td>
-<td>2013</td>
-<td>2,6, 8, 12,13</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2265.</td>
+<td colspan="2">БОРНИТО</td>
+<td colspan="9">2013</td>
+<td colspan="16">2,6, 8, 12,13</td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Овсяница тростниковая
+<td colspan="55">
+Параграф 16.5 Овсяница тростниковая
 Festuca arundinacea
 </td>
 </tr>
 <tr>
-<td>МЕАНДРЕ</td>
-<td>2013</td>
-<td>5,13</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2266.</td>
+<td colspan="2">МЕАНДРЕ</td>
+<td colspan="9">2013</td>
+<td colspan="16">5,13</td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>МИРАКУЛИКС</td>
-<td>2013</td>
-<td>3,5,12, 14</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2267.</td>
+<td colspan="2">МИРАКУЛИКС</td>
+<td colspan="9">2013</td>
+<td colspan="16">3,5,12, 14</td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Луговик дернистый
+<td colspan="55">
+Параграф 16.6 Луговик дернистый
 Deschampsiacaespitosa
 </td>
 </tr>
 <tr>
-<td>ТРАКАЙ</td>
-<td>2013</td>
-<td>12</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2268.</td>
+<td colspan="2">ТРАКАЙ</td>
+<td colspan="9">2013</td>
+<td colspan="16">12</td>
+<td colspan="7">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Райграс гибридный
+<td colspan="55">
+Параграф 16.7 Райграс гибридный
 Lolium hybridum
 </td>
 </tr>
 <tr>
-<td>МАРЭЛЬ</td>
-<td>2004</td>
-<td>3,6,14</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2269.</td>
+<td colspan="3">МАРЭЛЬ</td>
+<td colspan="8">2004</td>
+<td colspan="11">3,6,14</td>
+<td colspan="12">18</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Райграс пастбищный
+<td colspan="55">
+Параграф 16.8 Райграс пастбищный
 Lolium perenne L.
 </td>
 </tr>
 <tr>
-<td>ВЕЗУВИУС</td>
-<td>2011</td>
-<td>
+<td>2270.</td>
+<td colspan="3">ВЕЗУВИУС</td>
+<td colspan="8">2011</td>
+<td colspan="11">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="12">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ГАЛЛИУС</td>
-<td>2011</td>
-<td>
+<td>2271.</td>
+<td colspan="3">ГАЛЛИУС</td>
+<td colspan="8">2011</td>
+<td colspan="11">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="12">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИБРОНКО</td>
-<td>2011</td>
-<td>
+<td>2272.</td>
+<td colspan="3">ЛИБРОНКО</td>
+<td colspan="8">2011</td>
+<td colspan="11">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="12">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИМОНИКА</td>
-<td>2011</td>
-<td>
+<td>2273.</td>
+<td colspan="3">ЛИМОНИКА</td>
+<td colspan="8">2011</td>
+<td colspan="11">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="12">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ЛИФРАНС</td>
-<td>2011</td>
-<td>
+<td>2274.</td>
+<td colspan="3">ЛИФРАНС</td>
+<td colspan="8">2011</td>
+<td colspan="11">
 1,2,3,4,5,6,
 7,8,9,10,11,
 12,13,14
 </td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="12">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>РАЙГАУБЕК</td>
-<td>2011</td>
-<td>1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2275.</td>
+<td colspan="3">РАЙГАУБЕК</td>
+<td colspan="8">2011</td>
+<td colspan="11">1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
+<td colspan="12">18</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>ТУРФГОЛЬД</td>
-<td>2013</td>
-<td>5,12</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2276.</td>
+<td colspan="3">ТУРФГОЛЬД</td>
+<td colspan="8">2013</td>
+<td colspan="11">5,12</td>
+<td colspan="12">314</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">
-Тимофеевка луговая
+<td colspan="55">
+Параграф 16.9 Тимофеевка луговая
 Phleum pratense L.
 </td>
 </tr>
 <tr>
-<td>ТИМОТУРФ</td>
-<td>2011</td>
-<td>1,2,3,4,5,6,7,8,9,10,11,12,13,14</td>
-<td>314</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">
-Лесные
-Сосна обыкновенная
-Pinus L._
+<td colspan="55">
+Глава 17.Лесные
+Параграф 17.1 Сосна обыкновенная
+Pinus L.
 </td>
 </tr>
 <tr>
+<td>2278.</td>
 <td>АРАКАРАГАЙСКАЯ</td>
-<td>2011</td>
-<td>1</td>
-<td>265</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="9">2011</td>
+<td colspan="12">1</td>
+<td colspan="12">265</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
+<td>2279.</td>
 <td>БОРОВСКАЯ 30</td>
-<td>2006</td>
-<td>1</td>
-<td>265</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="9">2006</td>
+<td colspan="12">1</td>
+<td colspan="12">265</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БОРОВСКАЯ 22</td>
-<td>2014</td>
-<td>1</td>
-<td>265</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2280.</td>
+<td>БОРОВСКАЯ 22®</td>
+<td colspan="9">2014</td>
+<td colspan="12">1</td>
+<td colspan="12">265</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>БОРОВСКАЯ 44</td>
-<td>2014</td>
-<td>1</td>
-<td>265</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2281.</td>
+<td>БОРОВСКАЯ 44®</td>
+<td colspan="9">2014</td>
+<td colspan="12">1</td>
+<td colspan="12">265</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
+<td>2282.</td>
 <td>БУЛАНДИНСКАЯ</td>
-<td>2006</td>
-<td>1,13</td>
-<td>265</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="9">2006</td>
+<td colspan="12">1,13</td>
+<td colspan="12">265</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>
-СЫМБАТТЫ
-КАРАГАЙ
-</td>
-<td>2004</td>
-<td>1,13</td>
-<td>265</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2283.</td>
+<td>СЫМБАТТЫ КАРАГАЙ</td>
+<td colspan="9">2004</td>
+<td colspan="12">1,13</td>
+<td colspan="12">265</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
+<td>2284.</td>
 <td>УРУМКАЙСКАЯ 38</td>
-<td>2006</td>
-<td>1</td>
-<td>265</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="9">2006</td>
+<td colspan="12">1</td>
+<td colspan="12">265</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
+<td>2285.</td>
 <td>УРУМКАЙСКАЯ 53</td>
-<td>2006</td>
-<td>1</td>
-<td>265</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="9">2006</td>
+<td colspan="12">1</td>
+<td colspan="12">265</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
+<td>2286.</td>
 <td>ЧЕБАРКУЛЬСКАЯ</td>
-<td>2011</td>
-<td>1</td>
-<td>265</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="9">2011</td>
+<td colspan="12">1</td>
+<td colspan="12">265</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 </table>
 
 Примечание: цифры со знаком (*) – сорта и гибриды растений, допущенные к использованию по области с 2011 года;
 
-* – сорта и гибриды, включенные в Список сортов сильной пшеницы и наиболее ценных сортов зерновых, крупяных и зернобобовых культур, высокомасличных сортов и гибридов подсолнечника, безэруковых и низкоглюкозинолатных сортов рапса по Республике Казахстан, указаны в приложении 1 к Государственному реестру селекционных достижений, рекомендуемых к использованию в Республике Казахстан;
+* сорта и гибриды, включенные в Список сортов сильной пшеницы и наиболее ценных сортов зерновых, крупяных и зернобобовых культур, высокомасличных сортов и гибридов подсолнечника, безэруковых и низкоглюкозинолатных сортов рапса по Республике Казахстан, указаны в приложении 1 к Государственному реестру селекционных достижений, рекомендуемых к использованию в Республике Казахстан;
 
-** – согласно приложению 2 к Государственному реестру селекционных достижений, рекомендуемых к использованию в Республике Казахстан;
+** согласно приложению 2 к Государственному реестру селекционных достижений, рекомендуемых к использованию в Республике Казахстан;
 
-*** – согласно приложению 3 к Государственному реестру селекционных достижений, рекомендуемых к использованию в Республике Казахстан;
+*** согласно приложению 3 к Государственному реестру селекционных достижений, рекомендуемых к использованию в Республике Казахстан;
 
-**** – согласно приложению 4 к Государственному реестру селекционных достижений, рекомендуемых к использованию в Республике Казахстан.
+**** согласно приложению 4 к Государственному реестру селекционных достижений, рекомендуемых к использованию в Республике Казахстан;
 
-> *Сноска. Примечание предусмотрено в редакции приказа Министра сельского хозяйства РК от 31.12.2015 № 4-6/1154 (порядок введения в действие см. п. 3).*
+® – селекционные достижения, защищенные патентом.
 
 > *Приложение 1*  
 > *к Государственному реестру*  
@@ -26138,407 +29130,891 @@ Pinus L._
 > *рекомендуемых к использованию*  
 > *в Республике Казахстан*
 
-> *Сноска. Правый верхний угол приложения 1 в редакции приказа Министра сельского хозяйства РК от 31.12.2015 № 4-6/1154 (порядок введения в действие см. п. 3).*
+> *Сноска. Приложение 1 в редакции приказа Заместителя Премьер-Министра Республики Казахстан - Министра сельского хозяйства РК от 20.01.2017 № 22 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
-СПИСОК
+## СПИСОК сортов сильной пшеницы и наиболее ценных сортов зерновых крупяных, зернобобовых культур, высокомасличных сортов и гибридов подсолнечника, безэруковых и низкоглюкозинолатных сортов рапса
 
-сортов сильной пшеницы и наиболее ценных сортов зерновых,
+### Глава 1. Сорта сильной пшеницы
 
-крупяных, зернобобовых культур, высокомасличных сортов и
-
-гибридов подсолнечника, безэруковых и низкоглюкозинолатных
-
-сортов рапса
-
-Сорта сильной пшеницы
-
-Озимая пшеница
+#### Параграф 1.1 Озимая пшеница
 
 <table>
 <tr>
-<td>1. Безостая 1</td>
-<td>5. Одесская 120</td>
+<th>1.</th>
+<th>Безостая 1</th>
 </tr>
 <tr>
-<td>2. Богарная 56</td>
-<td>6. Прикумская 36</td>
+<td>2.</td>
+<td>Богарная 56</td>
 </tr>
 <tr>
-<td>3. Лютесценс 72</td>
-<td>7. Стекловидная 24</td>
+<td>3.</td>
+<td>Лютесценс 72</td>
 </tr>
 <tr>
-<td>4. Мироновская 808</td>
-<td>8. Карасай</td>
+<td>4.</td>
+<td>Мироновская 808</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Одесская 120</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Прикумская 36</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Стекловидная 24</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Карасай</td>
 </tr>
 </table>
 
-Яровая пшеница
+#### Параграф 1.2 Яровая пшеница
 
 <table>
 <tr>
-<td>1. Акмола 2</td>
-<td>20. Лютесценс 90</td>
+<th>9.</th>
+<th>Акмола 2</th>
 </tr>
 <tr>
-<td>2. Астана</td>
-<td>21. Омская 18</td>
+<td>10.</td>
+<td>Астана</td>
 </tr>
 <tr>
-<td>3. Волгоуральская</td>
-<td>22. Омская 19</td>
+<td>11.</td>
+<td>Волгоуральская</td>
 </tr>
 <tr>
-<td>4. Ертис 97</td>
-<td>23. Омская 24</td>
+<td>12.</td>
+<td>Ертис 97</td>
 </tr>
 <tr>
-<td>5. Казахстанская 4</td>
-<td>24. Омская 28</td>
+<td>13.</td>
+<td>Казахстанская 4</td>
 </tr>
 <tr>
-<td>6. Казахстанская раннеспелая</td>
-<td>25. Омская 29</td>
+<td>14.</td>
+<td>Казахстанская раннеспелая</td>
 </tr>
 <tr>
-<td>7. Памяти Азиева</td>
-<td>26. Омская 30</td>
+<td>15.</td>
+<td>Памяти Азиева</td>
 </tr>
 <tr>
-<td>8. Павлодарская 93</td>
-<td>27. Омская 20</td>
+<td>16.</td>
+<td>Павлодарская 93</td>
 </tr>
 <tr>
-<td>9. Казахстанская 15</td>
-<td>28. Росинка 3</td>
+<td>17.</td>
+<td>Казахстанская 15</td>
 </tr>
 <tr>
-<td>10. Казахстанская 17</td>
-<td>29. Саратовская 29</td>
+<td>18.</td>
+<td>Казахстанская 17</td>
 </tr>
 <tr>
-<td>11. Казахстанская 19</td>
-<td>30. Саратовская 42</td>
+<td>19.</td>
+<td>Казахстанская 19</td>
 </tr>
 <tr>
-<td>12. Казахстанская 25</td>
-<td>31. Саратовская 55</td>
+<td>20.</td>
+<td>Казахстанская 25</td>
 </tr>
 <tr>
-<td>13. Карабалыкская 90</td>
-<td>32. Светланка</td>
+<td>21.</td>
+<td>Карабалыкская 90</td>
 </tr>
 <tr>
-<td>14. Карабалыкская 92</td>
-<td>33. Целинная 24</td>
+<td>22.</td>
+<td>Карабалыкская 92</td>
 </tr>
 <tr>
-<td>15. Карагандинская 22</td>
-<td>34. Целинная 26</td>
+<td>23.</td>
+<td>Карагандинская 22</td>
 </tr>
 <tr>
-<td>16. Карагандинская 70</td>
-<td>35. Целинная 3 С</td>
+<td>24.</td>
+<td>Карагандинская 70</td>
 </tr>
 <tr>
-<td>17. Кутулукская</td>
-<td>36. Целинная юбилейная</td>
+<td>25.</td>
+<td>Кутулукская</td>
 </tr>
 <tr>
-<td>18. Любава</td>
-<td>37. Эритроспермум 35</td>
+<td>26.</td>
+<td>Любава</td>
 </tr>
 <tr>
-<td>19. Лютесценс 32</td>
-<td>38. Омская 38;</td>
+<td>27.</td>
+<td>Лютесценс 32</td>
+</tr>
+<tr>
+<td>28.</td>
+<td>Лютесценс 90</td>
+</tr>
+<tr>
+<td>29.</td>
+<td>Омская 18</td>
+</tr>
+<tr>
+<td>30.</td>
+<td>Омская 19</td>
+</tr>
+<tr>
+<td>31.</td>
+<td>Омская 24</td>
+</tr>
+<tr>
+<td>32.</td>
+<td>Омская 28</td>
+</tr>
+<tr>
+<td>33.</td>
+<td>Омская 29</td>
+</tr>
+<tr>
+<td>34.</td>
+<td>Омская 30</td>
+</tr>
+<tr>
+<td>35.</td>
+<td>Омская 20</td>
+</tr>
+<tr>
+<td>36.</td>
+<td>Росинка 3</td>
+</tr>
+<tr>
+<td>37.</td>
+<td>Саратовская 29</td>
+</tr>
+<tr>
+<td>38.</td>
+<td>Саратовская 42</td>
+</tr>
+<tr>
+<td>39.</td>
+<td>Саратовская 55</td>
+</tr>
+<tr>
+<td>40.</td>
+<td>Светланка</td>
+</tr>
+<tr>
+<td>41.</td>
+<td>Целинная 24</td>
+</tr>
+<tr>
+<td>42.</td>
+<td>Целинная 26</td>
+</tr>
+<tr>
+<td>43.</td>
+<td>Целинная 3 С</td>
+</tr>
+<tr>
+<td>44.</td>
+<td>Целинная юбилейная</td>
+</tr>
+<tr>
+<td>45.</td>
+<td>Эритроспермум 35</td>
+</tr>
+<tr>
+<td>46.</td>
+<td>Омская 38</td>
 </tr>
 </table>
 
-Сорта наиболее ценные по качеству
+### Глава 2. Сорта наиболее ценные по качеству
 
-Озимая пшеница
-
-1\. Актерекская 9. Майра
-
-2\. Алмалы 10. Сапалы
-
-3\. Алия 11. Южная 12
-
-4\. Булава 12. Эритроспермум 350
-
-5\. Жетысу 13. Расад
-
-6\. Интенсивная 14. Фараби
-
-7\. Красноводопадская 210 15. Мереке 70
-
-8\. Наз
-
-Яровая пшеница
-
-1\. Арай 12. Ульбинка 25
-
-2\. Авангард 13. Секе
-
-3\. Алем 14. Степная 2
-
-4\. Актобе 39 15. Саратовская 70
-
-5\. Астана 2 16. Омская 35
-
-6\. Альбидум 31 17. Омская 36
-
-7\. Байтерек 18. Целина 50
-
-8\. Вера 19. Степная 50
-
-9\. Интенсивная 20. Ляззат
-
-10\. Казахстанская 10 21. Северянка
-
-11\. Надежда 22. Степная 60
-
-Овес
-
-1\. Битик 4. Мирный
-
-2\. Иртыш 15 5. Скакун
-
-3\. Льговский 82 6. Аламан
-
-Просо
-
-1\. Саратовское 3 4. Уральское 109
-
-2\. Саратовское 6 5. Шортандинское 7
-
-3\. Старт 6. Саратовское 10
-
-Гречиха
-
-1\. Богатырь 4. Шортандинская 2
-
-2\. Крупинка 5. Шортандинская крупнозерная
-
-3\. Сумчанка
-
-Рис
-
-1\. Авангард 4. Маржан
-
-2\. Каракалпакстан 5. Солнечный
-
-3\. Кубань 3 6. Узрос 7-13
-
-Длинозерные сорта риса
-
-1\. Лазурный
-
-2\. Алтынай
-
-Горох
-
-1\. Неосыпающийся 1 4. Омский неосыпающийся
-
-2\. Таловец 55 5. Шал
-
-3\. Усач Казахстанский 871
-
-Нут
-
-1\. Волгоградский 10
-
-2\. Камила 1255
-
-3\. Юбилейный
-
-Ячмень крупяного направления
+#### Параграф 2.1 Озимая пшеница
 
 <table>
 <tr>
-<td>1. Донецкий 9</td>
-<td>7. Сауле</td>
+<th>47.</th>
+<th>Актерекская</th>
 </tr>
 <tr>
-<td>2. Карабалыкский 150</td>
-<td>8. Целинный 30</td>
+<td>48.</td>
+<td>Алмалы</td>
 </tr>
 <tr>
-<td>3. Кедр</td>
-<td>9. Целинный 91</td>
+<td>49.</td>
+<td>Алия</td>
 </tr>
 <tr>
-<td>4. Карагандинский 5</td>
-<td>10. Целинный 2005</td>
+<td>50.</td>
+<td>Булава</td>
 </tr>
 <tr>
-<td>5. Медикум 85</td>
-<td>11. Сабир</td>
+<td>51.</td>
+<td>Жетысу</td>
 </tr>
 <tr>
-<td>6. Омский 87</td>
-<td>12. Саша</td>
+<td>52.</td>
+<td>Интенсивная</td>
+</tr>
+<tr>
+<td>53.</td>
+<td>Красноводопадская 210</td>
+</tr>
+<tr>
+<td>54.</td>
+<td>Наз</td>
+</tr>
+<tr>
+<td>55.</td>
+<td>Майра</td>
+</tr>
+<tr>
+<td>56.</td>
+<td>Сапалы</td>
+</tr>
+<tr>
+<td>57.</td>
+<td>Южная 12</td>
+</tr>
+<tr>
+<td>58.</td>
+<td>Эритроспермум 350</td>
+</tr>
+<tr>
+<td>59.</td>
+<td>Расад</td>
+</tr>
+<tr>
+<td>60.</td>
+<td>Фараби</td>
+</tr>
+<tr>
+<td>61.</td>
+<td>Мереке 70</td>
 </tr>
 </table>
 
-Ячмень пивоваренного направления
+#### Параграф 2.2 Яровая пшеница
 
 <table>
 <tr>
-<td>1. Арна</td>
-<td>12. Ворсинский</td>
+<th>62.</th>
+<th>Арай</th>
 </tr>
 <tr>
-<td>2. Асем</td>
-<td>13. Беатрикс</td>
+<td>63.</td>
+<td>Авангард</td>
 </tr>
 <tr>
-<td>3. Амулет</td>
-<td>14. Ксанаду</td>
+<td>64.</td>
+<td>Алем</td>
 </tr>
 <tr>
-<td>4. Компакт</td>
-<td>15. КазСуффле-1</td>
+<td>65.</td>
+<td>Актобе 39</td>
 </tr>
 <tr>
-<td>5. Малц</td>
-<td>16. Кангу</td>
+<td>66.</td>
+<td>Астана 2</td>
 </tr>
 <tr>
-<td>6. Одесский 100</td>
-<td>17. Скарпия</td>
+<td>67.</td>
+<td>Альбидум 31</td>
 </tr>
 <tr>
-<td>7. Себастьян</td>
-<td>18. Овертюр</td>
+<td>68.</td>
+<td>Байтерек</td>
 </tr>
 <tr>
-<td>8. Скарлетт</td>
-<td>19. Саншайн</td>
+<td>69.</td>
+<td>Вера</td>
 </tr>
 <tr>
-<td>9. Сильфида</td>
-<td>20. Травелер</td>
+<td>70.</td>
+<td>Интенсивная</td>
 </tr>
 <tr>
-<td>10. Гетьман</td>
-<td>21. Одиссей</td>
+<td>71.</td>
+<td>Казахстанская</td>
 </tr>
 <tr>
-<td>11. Нектария</td>
-<td>22. Квенч</td>
+<td>72.</td>
+<td>Надежда</td>
+</tr>
+<tr>
+<td>73.</td>
+<td>Ульбинка 25</td>
+</tr>
+<tr>
+<td>74.</td>
+<td>Секе</td>
+</tr>
+<tr>
+<td>75.</td>
+<td>Степная 2</td>
+</tr>
+<tr>
+<td>76.</td>
+<td>Саратовская 70</td>
+</tr>
+<tr>
+<td>77.</td>
+<td>Омская 35</td>
+</tr>
+<tr>
+<td>78.</td>
+<td>Омская 36</td>
+</tr>
+<tr>
+<td>79.</td>
+<td>Целина 50</td>
+</tr>
+<tr>
+<td>80.</td>
+<td>Степная 50</td>
+</tr>
+<tr>
+<td>81.</td>
+<td>Ляззат</td>
+</tr>
+<tr>
+<td>82.</td>
+<td>Северянка</td>
+</tr>
+<tr>
+<td>83.</td>
+<td>Степная 60</td>
 </tr>
 </table>
 
-Безэруковые (0 – типа) и низкоглюкозинолатные (00-типа)
-
-сорта рапса
-
-Рапс яровой
+#### Параграф 2.3 Овес
 
 <table>
 <tr>
-<td>1. Золотонивский – 00 типа</td>
-<td>13. Сальса CL – 00 типа</td>
+<th>84.</th>
+<th>Битик</th>
 </tr>
 <tr>
-<td>2. Кавиар – 00 типа</td>
-<td>14. Миракел – 00 типа</td>
+<td>85.</td>
+<td>Иртыш 15</td>
 </tr>
 <tr>
-<td>3. Герос – 00 типа</td>
-<td>15. RG 40301 – 00 типа</td>
+<td>86.</td>
+<td>Льговский 82</td>
 </tr>
 <tr>
-<td>4. Хантер – 00 типа</td>
-<td>16. Смилла – 00 типа</td>
+<td>87.</td>
+<td>Мирный</td>
 </tr>
 <tr>
-<td>5. Траппер – 00 типа</td>
-<td>17. Макро – 00 типа</td>
+<td>88.</td>
+<td>Скакун</td>
 </tr>
 <tr>
-<td>6. Лизора – 00 типа</td>
-<td>18. Доктрин – 00 типа</td>
-</tr>
-<tr>
-<td>7. Абилити – 00 типа</td>
-<td>19. Клеопатра – 00 типа</td>
-</tr>
-<tr>
-<td>8. Калибр – 00 типа</td>
-<td>20. Майлы дән – 00 типа</td>
-</tr>
-<tr>
-<td>9. Мобиль CL – 00 типа</td>
-<td>22. Проксимо – 00 типа</td>
-</tr>
-<tr>
-<td>10. Солар CL – 00 типа</td>
-<td>23. ПР 46Х75 – 00 типа</td>
-</tr>
-<tr>
-<td>11. Озорно – 00 типа</td>
-<td>24. Шалқар 39 – 00 типа</td>
-</tr>
-<tr>
-<td>12. ПР 45 Х 73 – 00 типа</td>
-<td>25. RG 40301 – 00 типа</td>
+<td>89.</td>
+<td>Аламан</td>
 </tr>
 </table>
 
-Рапс озимый
-
-1\. Иванна – 00 типа
-
-2\. Проминь – 0 типа
-
-3\. Хаммер - 00 типа
-
-Высокомасличные сорта и гибриды подсолнечника
+#### Параграф 2.4 Просо
 
 <table>
 <tr>
-<td>Сорта</td>
+<th>90.</th>
+<th>Саратовское 3</th>
 </tr>
 <tr>
-<td>1. Восход</td>
+<td>91.</td>
+<td>Саратовское 6</td>
 </tr>
 <tr>
-<td>2. Заря</td>
+<td>92.</td>
+<td>Старт</td>
 </tr>
 <tr>
-<td>3. Скороспелый 87</td>
+<td>93.</td>
+<td>Уральское 109</td>
 </tr>
 <tr>
-<td>Гибрид</td>
+<td>94.</td>
+<td>Шортандинское 7</td>
 </tr>
 <tr>
-<td>1. Восточный 8. Брио</td>
-</tr>
-<tr>
-<td>2. Арена ПР 9. Санай</td>
-</tr>
-<tr>
-<td>3. Ислеро 10. Джази</td>
-</tr>
-<tr>
-<td>4. Казахстанский 1 11. Роки</td>
-</tr>
-<tr>
-<td>5. Казахстанский 341 12. ПР 62А91</td>
-</tr>
-<tr>
-<td>6. Казахстанский 3124 13. НК Дельфи</td>
-</tr>
-<tr>
-<td>7. Солнечный 20 14. PR63A62</td>
+<td>95.</td>
+<td>Саратовское 10</td>
 </tr>
 </table>
 
-Кондитерские сорта подсолнечника
+#### Параграф 2.5 Гречиха
 
-1\. СПК (Кондитерский)
+<table>
+<tr>
+<th>96.</th>
+<th>Богатырь</th>
+</tr>
+<tr>
+<td>97.</td>
+<td>Крупинка</td>
+</tr>
+<tr>
+<td>98.</td>
+<td>Сумчанка</td>
+</tr>
+<tr>
+<td>99.</td>
+<td>Шортандинская 2</td>
+</tr>
+<tr>
+<td>100.</td>
+<td>Шортандинская крупнозерная</td>
+</tr>
+</table>
+
+#### Параграф 2.6 Рис
+
+<table>
+<tr>
+<th>101.</th>
+<th>Авангард</th>
+</tr>
+<tr>
+<td>102.</td>
+<td>Каракалпакстан</td>
+</tr>
+<tr>
+<td>103.</td>
+<td>Кубань 3</td>
+</tr>
+<tr>
+<td>104.</td>
+<td>Маржан</td>
+</tr>
+<tr>
+<td>105.</td>
+<td>Солнечный</td>
+</tr>
+<tr>
+<td>106.</td>
+<td>Узрос 7-13</td>
+</tr>
+</table>
+
+#### Параграф 2.7 Длинозерные сорта риса
+
+<table>
+<tr>
+<th>107.</th>
+<th>Лазурный</th>
+</tr>
+<tr>
+<td>108.</td>
+<td>Алтынай</td>
+</tr>
+</table>
+
+#### Параграф 2.8 Глютинозные сорта риса
+
+<table>
+<tr>
+<th>109.</th>
+<th>Казветта</th>
+</tr>
+</table>
+
+#### Параграф 2.9 Горох
+
+<table>
+<tr>
+<th>110.</th>
+<th>Неосыпающийся 1</th>
+</tr>
+<tr>
+<td>111.</td>
+<td>Таловец 55</td>
+</tr>
+<tr>
+<td>112.</td>
+<td>Усач Казахстанский 871</td>
+</tr>
+<tr>
+<td>113.</td>
+<td>Омский неосыпающийся</td>
+</tr>
+<tr>
+<td>114.</td>
+<td>Шал</td>
+</tr>
+</table>
+
+#### Параграф 2.10 Нут
+
+<table>
+<tr>
+<th>115.</th>
+<th>Волгоградский 10</th>
+</tr>
+<tr>
+<td>116.</td>
+<td>Камила 1255</td>
+</tr>
+<tr>
+<td>117.</td>
+<td>Юбилейный</td>
+</tr>
+</table>
+
+#### Параграф 2.11. Ячмень крупяного направления
+
+<table>
+<tr>
+<th>118.</th>
+<th>Донецкий 9</th>
+</tr>
+<tr>
+<td>119.</td>
+<td>Карабалыкский 150</td>
+</tr>
+<tr>
+<td>120.</td>
+<td>Кедр</td>
+</tr>
+<tr>
+<td>121.</td>
+<td>Карагандинский 5</td>
+</tr>
+<tr>
+<td>122.</td>
+<td>Медикум 85</td>
+</tr>
+<tr>
+<td>123.</td>
+<td>Омский 87</td>
+</tr>
+<tr>
+<td>124.</td>
+<td>Сауле</td>
+</tr>
+<tr>
+<td>125.</td>
+<td>Целинный 30</td>
+</tr>
+<tr>
+<td>126.</td>
+<td>Целинный 91</td>
+</tr>
+<tr>
+<td>127.</td>
+<td>Целинный 2005</td>
+</tr>
+<tr>
+<td>128.</td>
+<td>Сабир</td>
+</tr>
+<tr>
+<td>129.</td>
+<td>Саша</td>
+</tr>
+</table>
+
+#### Параграф 2.12. Ячмень пивоваренного направления
+
+<table>
+<tr>
+<th>130.</th>
+<th>Арна</th>
+</tr>
+<tr>
+<td>131.</td>
+<td>Асем</td>
+</tr>
+<tr>
+<td>132.</td>
+<td>Амулет</td>
+</tr>
+<tr>
+<td>133.</td>
+<td>Компакт</td>
+</tr>
+<tr>
+<td>134.</td>
+<td>Малц</td>
+</tr>
+<tr>
+<td>135.</td>
+<td>Одесский 100</td>
+</tr>
+<tr>
+<td>136.</td>
+<td>Себастьян</td>
+</tr>
+<tr>
+<td>137.</td>
+<td>Скарлетт</td>
+</tr>
+<tr>
+<td>138.</td>
+<td>Сильфида</td>
+</tr>
+<tr>
+<td>139.</td>
+<td>Гетьман</td>
+</tr>
+<tr>
+<td>140.</td>
+<td>Нектария</td>
+</tr>
+<tr>
+<td>141.</td>
+<td>Ворсинский</td>
+</tr>
+<tr>
+<td>142.</td>
+<td>Беатрикс</td>
+</tr>
+<tr>
+<td>143.</td>
+<td>Ксанаду</td>
+</tr>
+<tr>
+<td>144.</td>
+<td>КазСуффле-1</td>
+</tr>
+<tr>
+<td>145.</td>
+<td>Кангу</td>
+</tr>
+<tr>
+<td>146.</td>
+<td>Скарпия</td>
+</tr>
+<tr>
+<td>147.</td>
+<td>Овертюр</td>
+</tr>
+<tr>
+<td>148.</td>
+<td>Саншайн</td>
+</tr>
+<tr>
+<td>149.</td>
+<td>Травелер</td>
+</tr>
+<tr>
+<td>150.</td>
+<td>Одиссей</td>
+</tr>
+<tr>
+<td>151.</td>
+<td>Квенч</td>
+</tr>
+<tr>
+<td>152.</td>
+<td>Заломе</td>
+</tr>
+</table>
+
+### Глава 3. Безэруковые (0 – типа) и низкоглюкозинолатные (00-типа) сорта рапса
+
+#### Параграф 3.1. Рапс яровой
+
+<table>
+<tr>
+<th>153.</th>
+<th>Золотонивский – 00 типа</th>
+</tr>
+<tr>
+<td>154.</td>
+<td>Кавиар – 00 типа</td>
+</tr>
+<tr>
+<td>155.</td>
+<td>Герос – 00 типа</td>
+</tr>
+<tr>
+<td>156.</td>
+<td>Хантер – 00 типа</td>
+</tr>
+<tr>
+<td>157.</td>
+<td>Траппер – 00 типа</td>
+</tr>
+<tr>
+<td>158</td>
+<td>Лизора – 00 типа</td>
+</tr>
+<tr>
+<td>159.</td>
+<td>Абилити – 00 типа</td>
+</tr>
+<tr>
+<td>160.</td>
+<td>Калибр – 00 типа</td>
+</tr>
+<tr>
+<td>161.</td>
+<td>Мобиль CL – 00 типа</td>
+</tr>
+<tr>
+<td>162.</td>
+<td>Солар CL – 00 типа</td>
+</tr>
+<tr>
+<td>163.</td>
+<td>Озорно – 00 типа</td>
+</tr>
+<tr>
+<td>164.</td>
+<td>ПР 45 Х 73 – 00 типа</td>
+</tr>
+<tr>
+<td>165.</td>
+<td>Сальса CL – 00 типа</td>
+</tr>
+<tr>
+<td>166.</td>
+<td>Миракел – 00 типа</td>
+</tr>
+<tr>
+<td>167.</td>
+<td>RG 40301 – 00 типа</td>
+</tr>
+<tr>
+<td>168.</td>
+<td>Смилла – 00 типа</td>
+</tr>
+<tr>
+<td>169.</td>
+<td>Макро – 00 типа</td>
+</tr>
+<tr>
+<td>170.</td>
+<td>Доктрин – 00 типа</td>
+</tr>
+<tr>
+<td>171.</td>
+<td>Клеопатра – 00 типа</td>
+</tr>
+<tr>
+<td>172.</td>
+<td>Майлы дән – 00 типа</td>
+</tr>
+<tr>
+<td>173.</td>
+<td>Проксимо – 00 типа</td>
+</tr>
+<tr>
+<td>174.</td>
+<td>Проксимо – 00 типа</td>
+</tr>
+<tr>
+<td>175.</td>
+<td>ПР 46Х75 – 00 типа</td>
+</tr>
+<tr>
+<td>176.</td>
+<td>Шалқар 39 – 00 типа</td>
+</tr>
+<tr>
+<td>177.</td>
+<td>Билдер – 00 типа</td>
+</tr>
+<tr>
+<td>178.</td>
+<td>Клайд КЛ – 00 типа</td>
+</tr>
+<tr>
+<td>179.</td>
+<td>Клик КЛ – 00 типа</td>
+</tr>
+<tr>
+<td>180.</td>
+<td>ЛипКар 2014 – 00 типа</td>
+</tr>
+<tr>
+<td>181.</td>
+<td>5 EN 0006 - 00 типа</td>
+</tr>
+</table>
+
+#### Параграф 3.2. Рапс озимый
+
+<table>
+<tr>
+<th>182.</th>
+<th>Иванна – 00 типа</th>
+</tr>
+<tr>
+<td>183.</td>
+<td>Проминь – 0 типа</td>
+</tr>
+<tr>
+<td>184.</td>
+<td>Хаммер - 00 типа</td>
+</tr>
+</table>
+
+### Глава 4. Высокомасличные сорта и гибриды подсолнечника
+
+<table>
+<tr>
+<th colspan="2">Сорта</th>
+</tr>
+<tr>
+<td>185.</td>
+<td>Восход</td>
+</tr>
+<tr>
+<td>186.</td>
+<td>Заря</td>
+</tr>
+<tr>
+<td>187.</td>
+<td>Скороспелый 87</td>
+</tr>
+<tr>
+<td colspan="2">Гибрид</td>
+</tr>
+<tr>
+<td>188.</td>
+<td>Восточный 8. Брио</td>
+</tr>
+<tr>
+<td>189.</td>
+<td>Арена ПР 9. Санай</td>
+</tr>
+<tr>
+<td>190.</td>
+<td>Ислеро 10. Джази</td>
+</tr>
+<tr>
+<td>191.</td>
+<td>Казахстанский 1 11. Роки</td>
+</tr>
+<tr>
+<td>192.</td>
+<td>Казахстанский 341 12. ПР 62А91</td>
+</tr>
+<tr>
+<td>193.</td>
+<td>Казахстанский 3124 13. НК Дельфи</td>
+</tr>
+<tr>
+<td>194.</td>
+<td>Солнечный 20 14. PR63A62</td>
+</tr>
+</table>
+
+### Глава 5. Кондитерские сорта подсолнечника
+
+<table>
+<tr>
+<td>195.</td>
+<td>СПК (Кондитерский)</td>
+</tr>
+</table>
 
 > *Приложение 2*  
 > *к Государственному реестру*  
@@ -26639,9 +30115,9 @@ Pinus L._
 > *рекомендуемых к использованию*  
 > *в Республике Казахстан*
 
-> *Сноска. Правый верхний угол приложения 3 в редакции приказа Министра сельского хозяйства РК от 31.12.2015 № 4-6/1154 (порядок введения в действие см. п. 3).*
+> *Сноска. Правый верхний угол приложения 3 в редакции приказа Министра сельского хозяйства РК от 31.12.2015 № 4-6/1154 (порядок введения в действие см. п. 3); с изменениями, внесенными приказом Заместителя Премьер-Министра РК - Министра сельского хозяйства РК от 20.01.2017 № 22 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
-Номер и наименование оригинатора
+## Номер и наименование оригинатора
 
 1\. Оригинатор не зарегистрирован
 
@@ -26663,9 +30139,9 @@ Pinus L._
 
 10\. НИИ хлопководства, Юго-Западного НПЦ сельского хозяйства
 
-11\. Государственное казенное предприятие ОПХ «Зыряновское»
+11\. Государственное казенное предприятие ОПХ "Зыряновское"
 
-12\. Государственное казенное предприятие ОПХ «Масличные культуры»
+12\. Государственное казенное предприятие ОПХ "Масличные культуры"
 
 13\. Жезказганская сельскохозяйственная опытная станция
 
@@ -26677,13 +30153,13 @@ Pinus L._
 
 17\. Казахская зональная опытная станция ВИЛР
 
-18\. ТОО «Казахский научно-исследовательский институт земледелия и растениеводства»
+18\. ТОО "Казахский научно-исследовательский институт земледелия и растениеводства"
 
 19\. НПЦ зернового хозяйства им. А.И. Бараева МСХ РК
 
 20\. Юго-Западный НПЦ сельского хозяйства МСХ РК
 
-21\. ТОО «Казахский НИИ картофелеводства и овощеводства»
+21\. ТОО "Казахский НИИ картофелеводства и овощеводства"
 
 22\. НПЦ животноводства и ветеринарии МСХ РК
 
@@ -26703,7 +30179,7 @@ Pinus L._
 
 30\. Павлодарский НИИСХ
 
-31\. ТОО «Казахский научно-исследовательский институт рисоводства им. И.Жахаева»
+31\. ТОО "Казахский научно-исследовательский институт рисоводства им. И.Жахаева"
 
 32\. Пригородный овоще-молочный совхоз Алматинской области
 
@@ -26713,7 +30189,7 @@ Pinus L._
 
 35\. Семипалатинский филиал ВК НИИСХ
 
-36\. Совхоз «Алматинский» Алматинской области
+36\. Совхоз "Алматинский" Алматинской области
 
 37\. Совхоз им. Томаровского Алматинской области
 
@@ -26879,9 +30355,9 @@ Pinus L._
 
 118\. Овощная опытная станция ТСХА им. В.И. Эдельштейна
 
-119\. Опытная станция по картофелю «Ульяновская»
+119\. Опытная станция по картофелю "Ульяновская"
 
-120\. Опытная станция по картофелю «Елецкая»
+120\. Опытная станция по картофелю "Елецкая"
 
 121\. Оренбургский НИИСХ
 
@@ -26919,7 +30395,7 @@ Pinus L._
 
 138\. Сибирский НИИСХ
 
-139\. Ставропольский НИИСХ НПО «Нива Ставрополья»
+139\. Ставропольский НИИСХ НПО "Нива Ставрополья"
 
 140\. Тамбовская гос. обл. с.-х. опытная станция
 
@@ -26957,7 +30433,7 @@ Pinus L._
 
 157\. Ивано-Франковский НИИ крестоцветных культур
 
-158\. Институт винограда и вина «Магарач» (Украина)
+158\. Институт винограда и вина "Магарач" (Украина)
 
 159\. Институт садоводства Украинской аграрной АН
 
@@ -27067,7 +30543,7 @@ Pinus L._
 
 212\. Приднестровский НИИСХ
 
-213\. Вахшский филиал Таджикского НПО «Земледелие»
+213\. Вахшский филиал Таджикского НПО "Земледелие"
 
 214\. Таджикский НИИ земледелия
 
@@ -27081,71 +30557,71 @@ Pinus L._
 
 219\. Приекульская опытно-селекционная станция (Латвия)
 
-220\. Институт кукурузы «Земун Поле», Сербия и Черногория
+220\. Институт кукурузы "Земун Поле", Сербия и Черногория
 
-221\. Фирма «Бейо Заден», Голландия
+221\. Фирма "Бейо Заден", Голландия
 
-222\. Фирма «Агра Сочета», Италия
+222\. Фирма "Агра Сочета", Италия
 
-223\. Фирма «Агрико», Голландия
+223\. Фирма "Агрико", Голландия
 
-224\. Фирма «Баболна», Венгрия
+224\. Фирма "Баболна", Венгрия
 
-225\. Фирма «ВанДерХаве», Нидерланды
+225\. Фирма "ВанДерХаве", Нидерланды
 
-226\. Фирма «Декалб», США
+226\. Фирма "Декалб", США
 
-227\. Фирма «Енза Заден», Голландия
+227\. Фирма "Енза Заден", Голландия
 
-228\. Фирма «Зенека», Великобритания
+228\. Фирма "Зенека", Великобритания
 
-229\. Фирма «ЗПС», Голландия
+229\. Фирма "ЗПС", Голландия
 
-230\. Фирма «КВС», Германия
+230\. Фирма "КВС", Германия
 
-231\. Фирма «Марибо», Дания
+231\. Фирма "Марибо", Дания
 
-232\. Фирма «Сингента Сидс А.Б.», Швеция
+232\. Фирма "Сингента Сидс А.Б.", Швеция
 
-233\. Фирма «Сингента Сидс С.А.», Франция
+233\. Фирма "Сингента Сидс С.А.", Франция
 
-234\. Фирма «Пионер», США
+234\. Фирма "Пионер", США
 
-235\. Фирма «Прогрейн Женетик», Франция
+235\. Фирма "Прогрейн Женетик", Франция
 
-236\. Фирма «Рийк Цваан Заадтеелт ен Заадхандел Б.В.», Нидерланды
+236\. Фирма "Рийк Цваан Заадтеелт ен Заадхандел Б.В.", Нидерланды
 
-237\. Фирма «Роял Слейс», Голландия
+237\. Фирма "Роял Слейс", Голландия
 
-238\. Фирма «Сес Юроп», Бельгия
+238\. Фирма "Сес Юроп", Бельгия
 
-239\. Фирма «Сиба Гейги», Швейцария
+239\. Фирма "Сиба Гейги", Швейцария
 
-240\. Фирма «Флоримонд Депре», Франция
+240\. Фирма "Флоримонд Депре", Франция
 
-241\. Фирма «Штрубе», Германия
+241\. Фирма "Штрубе", Германия
 
 242\. Рейхель Н.В.
 
 243\. Уральский НИИСХ
 
-244\. Фирма «HZPC», Голландия
+244\. Фирма "HZPC", Голландия
 
-245\. Фирма «Синдгента Сидс Б.В.», Голландия
+245\. Фирма "Синдгента Сидс Б.В.", Голландия
 
-246\. Фирма «Холли Шугар», США
+246\. Фирма "Холли Шугар", США
 
-247\. Фирма «Монсанто», Швецария
+247\. Фирма "Монсанто", Швецария
 
-248\. Фирма «Selgen» Чехия
+248\. Фирма "Selgen" Чехия
 
-249\. Фирма «Хордеум», Словакия
+249\. Фирма "Хордеум", Словакия
 
 250\. Производственный кооператив им. А. Яссави, Южно-Казахстанской области
 
-251\. ТОО «Научно-производственная фирма «Фитон», Костанайской области
+251\. ТОО "Научно-производственная фирма "Фитон", Костанайской области
 
-252\. НПО «Нива Татарстана»
+252\. НПО "Нива Татарстана"
 
 253\. Институт молекулярной биологии и биохимии им. М.А. Айтхожина
 
@@ -27165,69 +30641,69 @@ Pinus L._
 
 261\. Карагандинская СХОС
 
-262\. Фирма «Синджента Сидс Б.В.», Франция
+262\. Фирма "Синджента Сидс Б.В.", Франция
 
 263\. Саратовская опытная станция садоводства
 
-264\. Фирма «NUNHEMS NETHERLANDS», Голландия
+264\. Фирма "NUNHEMS NETHERLANDS", Голландия
 
 265\. НИИ лесного хозяйства и агролесомелиорации
 
-266\. Производственный сельскохозяйственный кооператив «Опытное»
+266\. Производственный сельскохозяйственный кооператив "Опытное"
 
-267\. Фирма «Сингента Сидс кфт», Венгрия
+267\. Фирма "Сингента Сидс кфт", Венгрия
 
 268\. Институт фитохимии МОН РК
 
 269\. Атырауский НИИ сельского хозяйства
 
-270\. CПК «Будан», Казахстан
+270\. CПК "Будан", Казахстан
 
 271\. ИКАРДА
 
 272\. Сибирская опытная станция ГНУВНИИ им. Пустовойта
 
-273\. Фирма «Селена», Германия
+273\. Фирма "Селена", Германия
 
 274\. Plant select hrv beice s.r.b., Чехия Малц
 
-275\. ТОО «Агросемконсалт»
+275\. ТОО "Агросемконсалт"
 
-276\. ООО «Агротехконсалт», Узбекистан
+276\. ООО "Агротехконсалт", Узбекистан
 
-277\. СПК семеноводческая фирма «Картофель»
+277\. СПК семеноводческая фирма "Картофель"
 
-278\. РГКП «Келеский», Южно-Казахстанская область
+278\. РГКП "Келеский", Южно-Казахстанская область
 
-279\. ОАО «ЯССЫ», Южно-Казахстанская область
+279\. ОАО "ЯССЫ", Южно-Казахстанская область
 
-280\. МГП ТОО «Генофонд растений»
+280\. МГП ТОО "Генофонд растений"
 
 281\. РГКП Национальный центр по биотехнологии РК, г.Степногорск
 
-282\. КХ «Курган семена», г. Курган.(Россия)
+282\. КХ "Курган семена", г. Курган.(Россия)
 
-283\. Фирма «ЗААТЗУХТ» (Германия)
+283\. Фирма "ЗААТЗУХТ" (Германия)
 
-284\. Фирма «Серасем» (Франция)
+284\. Фирма "Серасем" (Франция)
 
-285\. Фирма «Хруккэм» (США)
+285\. Фирма "Хруккэм" (США)
 
 286\. РГКП Кокшетауский Государственный Университет им. Ш. Уалиханова
 
-287\. ТОО Агрофирма «Бирлик», с. Бирлик, Балхашский р-н, Алматинская обл.
+287\. ТОО Агрофирма "Бирлик", с. Бирлик, Балхашский р-н, Алматинская обл.
 
 288\. ГНУ Алтайский НИИ с/х, Россия
 
-289\. Научный институт полеводства и овощеводства «Новый сад» Сербия и Черногория
+289\. Научный институт полеводства и овощеводства "Новый сад" Сербия и Черногория
 
-290\. Фирма «Сатимекс» Германия
+290\. Фирма "Сатимекс" Германия
 
-291\. Фирма «Дойче Заатфеределюнг АГ» Германия
+291\. Фирма "Дойче Заатфеределюнг АГ" Германия
 
-292\. Компания «Заатен Юнион» Германия
+292\. Компания "Заатен Юнион" Германия
 
-293\. Фирма «Семинис» Голландия294. Компания «Никерсон Цваан» Голландия
+293\. Фирма "Семинис" Голландия294. Компания "Никерсон Цваан" Голландия
 
 295\. Емельянов А.В.
 
@@ -27235,27 +30711,27 @@ Pinus L._
 
 297\. Воронин В.В.
 
-298\. БЦ «Институт селекции и растениеводства» Хорватия
+298\. БЦ "Институт селекции и растениеводства" Хорватия
 
-299\. Фирма «Норд Дойче Пфланценцухт» Германия
+299\. Фирма "Норд Дойче Пфланценцухт" Германия
 
-300\. Фирма «Европлант» Германия
+300\. Фирма "Европлант" Германия
 
 301\. Курт Хортсхолм Сейет (Дания)
 
-302\. ТОО «НЛК»
+302\. ТОО "НЛК"
 
 303\. Саката Сид Корпорейшн (Япония)
 
 304\. Research Institute for Cereals and Industrial Crops (Румыния)
 
-305\. Компания «Сесвандерхаве» Бельгия
+305\. Компания "Сесвандерхаве" Бельгия
 
 306\. Профген до Бразилия ЛТДА (Бразилия)
 
-307\. ЧУ «НИИ экологии и экспериментальной биологии РК»
+307\. ЧУ "НИИ экологии и экспериментальной биологии РК"
 
-308\. «Клоз» Франция
+308\. "Клоз" Франция
 
 309\. De Ruiter Seeds (Голландия)
 
@@ -27269,37 +30745,37 @@ Pinus L._
 
 314\. Евро Грасс Бридинг ГмбХ и Ко КГ (Германия)
 
-315\. Представительство «СИММИТ Казахстан»
+315\. Представительство "СИММИТ Казахстан"
 
-316\. «Secobra Recherches» (Франция)
+316\. "Secobra Recherches" (Франция)
 
 317\. Лимагрейн Европа (Франция)
 
 318\. ГНУ Всеросийский научно-исследовательский и проектно-технологический институт рапса
 
-319\. ЗАО НПФ «Семена Дона»
+319\. ЗАО НПФ "Семена Дона"
 
 320\. ЗААТЦУХТ ФРИТЦ ЛАНГЕ КГ (Германия)
 
 321\. Monsanto Holand BV (Голландия)
 
-322\. Фирма «Черны» (Чехия)
+322\. Фирма "Черны" (Чехия)
 
 323\. Др. Ласло Селений (Германия)
 
 324\. Нордзаат Заатцухтзеллшафт мбХ (Германия)
 
-325\. АО «Солодовенный завод «Суффле Казахстан»
+325\. АО "Солодовенный завод "Суффле Казахстан"
 
-326\. ЧП «Научная селекционно-семеноводческая фирма «Соевый век» (Украина)
+326\. ЧП "Научная селекционно-семеноводческая фирма "Соевый век" (Украина)
 
-327\. ООО «Научно-исследовательский институт сои» (Украина)
+327\. ООО "Научно-исследовательский институт сои" (Украина)
 
-328\. Компания «Семенс Прогрейн Инк» (Канада)
+328\. Компания "Семенс Прогрейн Инк" (Канада)
 
-329\. ООО Компания «Соевый комплекс» (Россия)
+329\. ООО Компания "Соевый комплекс" (Россия)
 
-330\. ООО «Прогрейн Евразия» (Украина)
+330\. ООО "Прогрейн Евразия" (Украина)
 
 331\. КОССАД СЕМЕНСЕС (Франция)
 
@@ -27309,15 +30785,15 @@ Pinus L._
 
 334\. ЗаКа Пфланценцухт ГбР (Германия)
 
-335\. ЗАО «Научно-производственная фирма Сибирская аграрная компания (Россия)
+335\. ЗАО "Научно-производственная фирма Сибирская аграрная компания (Россия)
 
-336\. ТОО «Потейтоу Велли Ко» (Южная Корея)
+336\. ТОО "Потейтоу Велли Ко" (Южная Корея)
 
 337\. Агро-ТИП Гмбх (Германия)
 
-338\. «Лайон Сидс» (LION SEEDS) (Великобритания)
+338\. "Лайон Сидс" (LION SEEDS) (Великобритания)
 
-339\. ТОО «Филип Моррис Казахстан»
+339\. ТОО "Филип Моррис Казахстан"
 
 340\. BREUN SEED GmbH&Co KG, Германия
 
@@ -27345,7 +30821,7 @@ Pinus L._
 
 352\. Камут предприятия Европы
 
-353\. Институт Растениеводства «Порумбень», Молдова
+353\. Институт Растениеводства "Порумбень", Молдова
 
 354\. ООО Фабалес, Россия
 
@@ -27363,6 +30839,16 @@ Pinus L._
 
 361\. Институт биоэнергетических культур и сахарной свеклы УААН, Украина
 
+362\. РУП Научно-Практический центр НАН Беларуси по земледелию
+
+363\. ЛК Хибриди, Сербия
+
+364\. Цезеа, Чехия
+
+365\. Den Hartigh BV, Нидерланды
+
+366\. ООО "АгроСемГавриш", Россия
+
 > *Приложение 4*  
 > *к Государственному реестру*  
 > *селекционных достижений,*  
@@ -27373,7 +30859,7 @@ Pinus L._
 
 ## Кодирование признаков сортов
 
-## 1. Группа спелости
+### 1. Группа спелости
 
 01 ультраранний
 
@@ -27387,7 +30873,7 @@ Pinus L._
 
 06 позднеспелый
 
-## 2. Тип гибридизации
+### 2. Тип гибридизации
 
 2л простой межлинейный гибрид
 
@@ -27409,7 +30895,7 @@ F1 гибрид первого поколения
 
 ли линия
 
-## 3. Назначение
+### 3. Назначение
 
 за засолочный
 
@@ -27425,7 +30911,7 @@ F1 гибрид первого поколения
 
 цк цельноплодное консервирование
 
-## 4. Условия выращивания
+### 4. Условия выращивания
 
 оз озимый
 
@@ -27439,7 +30925,7 @@ F1 гибрид первого поколения
 
 сз сад-огород, для з/грунта
 
-## 5. Период потребления
+### 5. Период потребления
 
 зи зимний
 
@@ -27458,7 +30944,7 @@ F1 гибрид первого поколения
 
 ## ПЕРЕЧЕНЬ перспективных сортов сельскохозяйственных растений
 
-> *Сноска. Перечень в редакции приказа Министра сельского хозяйства РК от 13.02.2015 № 4-2/102 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Перечень в редакции приказа Министра сельского хозяйства РК от 13.02.2015 № 4-2/102 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); ); с изменениями, внесенными приказом Заместителя Премьер-Министра РК - Министра сельского хозяйства РК от 20.01.2017 № 22 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 1. Акмолинская область
 
@@ -27477,3 +30963,9 @@ F1 гибрид первого поколения
    Пшеница твердая яровая – по области
 
    Сорт Нурлы
+
+4. Южно-Казахстанская область
+
+   Хлопчатник – по области
+
+   Сорт Xin Lu Zhong № 47.
