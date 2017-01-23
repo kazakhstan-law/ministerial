@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/108626/kaz/30.11.2016
+source: https://zan.gov.kz/client/#!/doc/108626/kaz/23.01.2017
 ---
 
 # Бюджеттік мониторинг жүргізу нұсқаулығын бекіту туралы
