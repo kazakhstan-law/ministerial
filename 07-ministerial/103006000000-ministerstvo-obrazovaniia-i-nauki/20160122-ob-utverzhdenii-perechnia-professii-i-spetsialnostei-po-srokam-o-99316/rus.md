@@ -1,5 +1,5 @@
 ---
-version_id: '99316_74321'
+version_id: '99316_175116'
 act_code: '99316'
 language: rus
 title: Об утверждении перечня профессий и специальностей по срокам обучения и уровням образования для технического и профессионального, послесреднего образования в соответствии с классификатором
@@ -11,16 +11,24 @@ type_codes:
 approved_by:
 - '103006000000'
 approval_date: 2016-01-22
-version_date: 2016-01-22
+version_date: 2017-03-02
 registry_number: '99316'
-source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
+caused_by:
+  code: '111300'
+  title: О внесении изменений в приказ Министра образования и науки Республики Казахстан от 22 января 2016 года № 65 «Об утверждении перечня профессий и специальностей по срокам обучения и уровням образования для технического и профессионального, послесреднего образования»
+  link: https://zan.gov.kz/client/#!/doc/111300/rus
+source: https://zan.gov.kz/client/#!/doc/99316/rus/02.03.2017
 ---
 
-# Об утверждении Перечня профессий и специальностей по срокам обучения и уровням образования для технического и профессионального, послесреднего образования
+# Об утверждении перечня профессий и специальностей по срокам обучения и уровням образования для технического и профессионального, послесреднего образования в соответствии с классификатором
+
+> *Сноска. Заголовок приказа в редакции приказа и.о. Министра образования и науки РК от 02.03.2017 № 97 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 В соответствии с подпунктом 15-2) статьи 5 Закона Республики Казахстан от 27 июля 2007 года «Об образовании» ПРИКАЗЫВАЮ:
 
-1. Утвердить прилагаемый Перечень профессий и специальностей технического по срокам обучения и уровням образования для технического и профессионального, послесреднего образования.
+1. Утвердить прилагаемый перечень профессий и специальностей по срокам обучения и уровням образования для технического и профессионального, послесреднего образования в соответствии с классификатором.
+
+   > *Сноска. Пункт 1 в редакции приказа в редакции приказа и.о. Министра образования и науки РК от 02.03.2017 № 97 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 2. Департаменту модернизации технического и профессионального, послесреднего образования (Каленова Д.Ж.) в установленном законодательном порядке обеспечить:
 
@@ -40,65 +48,70 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 
 **А. Саринжипов**
 
-> *Утверждено приказом*  
+> *Утвержден приказом*  
 > *Министра образования и науки*  
 > *Республики Казахстан*  
-> *от 22 января года № 65*
+> *от 22 января 2016 года № 65*
 
-## Перечень профессий и специальностейпо срокам обучения и уровням образования для технического и профессионального, послесреднего образования
+## Перечень профессий и специальностей по срокам обучения и уровням образования для технического и профессионального, послесреднего образования в соответствии с классификатором
+
+> *Сноска. Перечень в редакции приказа и.о. Министра образования и науки РК от 02.03.2017 № 97 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<th rowspan="2">Код специальности технического и профессионального образования РК</th>
-<th rowspan="2">Профиль образования, наименование специальности</th>
-<th rowspan="2">Квалификация, установленный разряд</th>
-<th colspan="3">Нормативный срок освоения образовательных учебных программ технического и профессионального образования (в годах, месяцах)</th>
-<th colspan="2">Нормативный срок освоения образовательных учебных программ послесреднего образования (в годах, месяцах)</th>
+<td rowspan="2">
+Код
+специаль-ности
+техничес-кого и профес-сиональ-ного обра-зования РК
+</td>
+<td rowspan="2">
+Наименование
+профессии и специальности
+</td>
+<td rowspan="2">Квалификация</td>
+<td colspan="5">Срок обучения для технического и профессионального образования</td>
+<td colspan="2">Срок обучения для послесреднего образования</td>
 </tr>
 <tr>
 <td>на базе основного среднего образования без получения общего среднего образования</td>
 <td>на базе основного среднего образования</td>
 <td>на базе общего среднего образования</td>
-<td>на базе основного среднего образования</td>
+<td colspan="2">на базе технического и профессионального, послесреднего, высшего образования</td>
 <td>на базе общего среднего образования</td>
+<td>на базе технического и профессионального образования</td>
 </tr>
 <tr>
-<td>
-<strong>1</strong>
-</td>
+<td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
 <td>5</td>
 <td>6</td>
 <td>7</td>
-<td>8</td>
+<td colspan="2">8</td>
+<td>9</td>
 </tr>
 <tr>
 <td></td>
-<td>
-<strong>0100000 – Образование</strong>
-</td>
+<td>0100000 – Образование</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>
-<strong>0101000</strong>
-</th>
-<th>
-<strong>Дошкольное воспитание и обучение</strong>
-</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0101000</td>
+<td>Дошкольное воспитание и обучение</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>010101 3</td>
@@ -113,7 +126,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -129,7 +146,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -145,21 +166,22 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>
-<strong>0102000</strong>
-</td>
-<td>
-<strong>Организация воспитательной работы (по уровням)</strong>
-</td>
+<td>0102000</td>
+<td>Организация воспитательной работы (по уровням)</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -175,7 +197,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -191,7 +217,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -207,7 +237,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -223,27 +257,25 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>
-<strong>010300 0</strong>
-</td>
-<td>
-<strong>Физическая культура и спорт</strong>
-</td>
+<td>010300 0</td>
+<td>Физическая культура и спорт</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>010301 3</td>
 <td></td>
-<td>Инструктор по плаванию, по физической культуре</td>
+<td>Инструктор по плаванию, физической культуре</td>
 <td></td>
 <td>
 3 года
@@ -253,7 +285,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -269,7 +305,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -285,7 +325,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -301,18 +345,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0104000</th>
-<th>Профессиональное обучение (по отраслям)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0104000</td>
+<td>Профессиональ-ное обучение (по отраслям)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>010401 3</td>
@@ -327,7 +376,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -343,18 +396,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0105000</th>
-<th>Начальное образование</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0105000</td>
+<td>Начальное образование***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>010501 3</td>
@@ -369,7 +427,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -385,7 +447,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -401,7 +467,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -417,7 +487,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -428,6 +502,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>10 мес.</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -438,6 +513,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>10 мес.</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -448,6 +524,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>10 мес</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -463,7 +540,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -479,18 +560,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0106000</th>
-<th>Изобразительное искусство и черчение</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0106000</td>
+<td>Изобразительное искусство и черчение</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>010601 3</td>
@@ -505,18 +591,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0107000</th>
-<th>Технология</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0107000</td>
+<td>Технология</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>010701 3</td>
@@ -531,18 +622,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>010800 0</th>
-<th>Музыкальное образование</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>010800 0</td>
+<td>Музыкальное образование</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>010801 3</td>
@@ -557,18 +653,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0109000</th>
-<th>Безопасность жизнедеятельности и валеология</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0109000</td>
+<td>Безопасность жизнедеятельно-сти и валеология</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>010901 3</td>
@@ -583,18 +684,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0110000</th>
-<th>Лаборант организации образования</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0110000</td>
+<td>Лаборант организации образования</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>011001 3</td>
@@ -609,18 +715,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0111000</th>
-<th>Основное среднее образование</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0111000</td>
+<td>Основное среднее образование</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>011101 3</td>
@@ -635,7 +743,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -651,7 +763,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -667,7 +783,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -683,7 +803,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -699,7 +823,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -715,7 +843,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -731,7 +863,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -747,7 +883,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -763,7 +903,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -779,7 +923,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -795,7 +943,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -811,18 +963,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0112000</th>
-<th>Исламоведение</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0112000</td>
+<td>Исламоведение</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>011201 3</td>
@@ -837,7 +994,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -853,28 +1014,34 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>0200000 – Право</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td>0200000 – Право</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th>0201000</th>
-<th>Правоведение</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0201000</td>
+<td>Правоведение</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>020101 3</td>
@@ -889,7 +1056,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -905,18 +1073,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0202000</th>
-<th>Правоохранительная деятельность</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0202000</td>
+<td>Правоохрани-тельная деятельность</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>020201 3</td>
@@ -931,18 +1101,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0203000</th>
-<th>Патентоведение</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0203000</td>
+<td>Патентоведение</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>020301 3</td>
@@ -957,28 +1129,31 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>0300000 – Медицина, фармацевтика</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td>0300000 – Медицина, фармацевтика</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th>0301000</th>
-<th>Лечебное дело</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0301000</td>
+<td>Лечебное дело</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>030101 3</td>
@@ -994,6 +1169,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1007,17 +1183,19 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0302000</th>
-<th>Сестринское дело**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0302000</td>
+<td>Сестринское дело</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>030201 1</td>
@@ -1030,12 +1208,13 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 </td>
 <td>10 мес.</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>030202 2</td>
 <td></td>
-<td>Массажист</td>
+<td>Массажист**</td>
 <td></td>
 <td></td>
 <td>
@@ -1043,6 +1222,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1059,6 +1239,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1075,17 +1256,19 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0303000</th>
-<th>Гигиена и эпидемиология</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0303000</td>
+<td>Гигиена и эпидемиология</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>030301 3</td>
@@ -1098,17 +1281,19 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>030400 0</th>
-<th>Стоматология</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>030400 0</td>
+<td>Стоматология</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>030401 3</td>
@@ -1124,6 +1309,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1140,6 +1326,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1156,17 +1343,19 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0305000</th>
-<th>Лабораторная диагностика</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0305000</td>
+<td>Лабораторная диагностика</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>030501 3</td>
@@ -1182,17 +1371,19 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0306000</th>
-<th>Фармация</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0306000</td>
+<td>Фармация</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>030601 3</td>
@@ -1205,17 +1396,19 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0307000</th>
-<th>Стоматология ортопедическая</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0307000</td>
+<td>Стоматология ортопедическая</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>030701 3</td>
@@ -1231,17 +1424,19 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>030800 0</th>
-<th>Медицинская оптика</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>030800 0</td>
+<td>Медицинская оптика</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>030801 3</td>
@@ -1257,6 +1452,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1273,6 +1469,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1289,27 +1486,30 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>0400000 – Искусство и культура</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td>0400000 – Искусство и культура</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th>0401000</th>
-<th>Библиотечное дело</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0401000</td>
+<td>Библиотечное дело</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>040101 3</td>
@@ -1324,18 +1524,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0402000</th>
-<th>Дизайн (по профилю)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0402000</td>
+<td>Дизайн (по профилю)**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>040201 3</td>
@@ -1352,7 +1554,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1365,18 +1571,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0403000</th>
-<th>Социально-культурная деятельность и народное художественное творчество (по профилю)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0403000</td>
+<td>Социально-культурная деятельность и народное художественное творчество (по профилю)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>040301 3</td>
@@ -1391,18 +1599,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0404000</th>
-<th>Инструментальное исполнительство и музыкальное искусство эстрады (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0404000</td>
+<td>
+Инструменталь-ное исполни-тельство и музы-кальное искус-ство эстрады
+(по видам)
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>040401 3</td>
@@ -1417,7 +1633,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+2 года
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1433,7 +1653,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+2 года
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1449,7 +1673,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+2 года
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1465,18 +1693,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+2 года
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0405000</th>
-<th>Хоровое дирижирование</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0405000</td>
+<td>Хоровое дирижирование</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>040501 3</td>
@@ -1491,18 +1724,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+2 года
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0406000</th>
-<th>Теория музыки</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0406000</td>
+<td>Теория музыки</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>040601 3</td>
@@ -1517,18 +1755,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+2 года
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0407000</th>
-<th>Пение**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0407000</td>
+<td>Пение**</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>040701 3</td>
@@ -1543,7 +1786,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+2 года
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1559,7 +1806,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+2 года
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1575,7 +1826,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+2 года
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1591,18 +1846,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+2 года
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0408000</th>
-<th>Хореографическое искусство</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0408000</td>
+<td>Хореографичес-кое искусство</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>040801 3</td>
@@ -1616,6 +1876,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 </td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1632,17 +1893,19 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0409000</th>
-<th>Актерское искусство**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0409000</td>
+<td>Актерское искусство**</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>040901 3</td>
@@ -1657,7 +1920,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1673,7 +1940,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1689,7 +1960,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1705,7 +1980,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1721,18 +2000,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0410000</th>
-<th>Цирковое искусство</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0410000</td>
+<td>Цирковое искусство</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>041001 3</td>
@@ -1749,17 +2033,19 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0411000</th>
-<th>Театрально-декоративное искусство (по профилю)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0411000</td>
+<td>Театрально-декоративное искусство (по профилю)**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>041101 2</td>
@@ -1774,7 +2060,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1790,7 +2077,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1806,7 +2094,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1822,7 +2111,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1842,7 +2132,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.*
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1858,7 +2152,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1878,18 +2176,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.*
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0412000</th>
-<th>Живопись, скульптура и графика (по видам)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0412000</td>
+<td>Живопись, скульптура и графика (по видам)**</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>041201 3</td>
@@ -1908,7 +2211,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.*
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1928,7 +2235,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.*
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1948,18 +2259,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.*
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0413000</th>
-<th>Декоративно-прикладное искусство и народные промыслы (по профилю)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0413000</td>
+<td>
+Декоративно-прикладное искусство и народные промыслы
+(по профилю)**/***
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>041301 2</td>
@@ -1974,7 +2293,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1990,7 +2310,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2006,7 +2327,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2022,7 +2344,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2038,7 +2361,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2054,7 +2378,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2070,7 +2395,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2086,7 +2412,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2102,7 +2429,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2118,7 +2446,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2134,7 +2463,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2150,7 +2480,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2166,7 +2497,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2182,7 +2514,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2202,7 +2535,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.*
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2222,7 +2559,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.*
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2238,18 +2579,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0414000</th>
-<th>Реставрация (по отраслям)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0414000</td>
+<td>
+Реставрация
+(по отраслям)**/***
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>041401 2</td>
@@ -2264,7 +2610,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2280,7 +2627,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2296,13 +2644,14 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>041404 2</td>
 <td></td>
-<td>Реставратор художественных изделий и декоративных предметов (из кожи, меха, ткани и др.)</td>
+<td>Реставратор художественных изделий и декоративных предметов (из кожи, меха, ткани)</td>
 <td></td>
 <td>
 2 года
@@ -2312,7 +2661,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2328,7 +2678,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2344,7 +2695,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2360,7 +2712,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2376,7 +2729,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2392,7 +2746,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2408,7 +2763,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2428,18 +2784,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.*
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0415000</th>
-<th>Ювелирное дело (по отраслям)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0415000</td>
+<td>
+Ювелирное дело
+(по отраслям)**/***
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>041501 2</td>
@@ -2454,7 +2818,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2470,7 +2835,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2486,7 +2852,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2502,7 +2869,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2518,7 +2886,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2534,7 +2903,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2550,7 +2920,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2566,7 +2937,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2582,7 +2954,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2598,18 +2971,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0416000</th>
-<th>Артист исполнитель, звукооператор концертных программ</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0416000</td>
+<td>Артист исполнитель, звукооператор концертных программ</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>041601 3</td>
@@ -2624,28 +2999,34 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>0500000 – Сервис, экономика и управление</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0500000</td>
+<td>Сервис, экономика и управление</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th>0501000</th>
-<th>Социальная работа</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0501000</td>
+<td>Социальная работа</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>050101 3</td>
@@ -2660,7 +3041,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2676,18 +3061,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0502000</th>
-<th>Обслуживание и ремонт телекоммуникационного оборудования и бытовой техники (по отраслям)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0502000</td>
+<td>Обслуживание и ремонт телекоммуника-ционного оборудования и бытовой техники (по отраслям)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>050201 2</td>
@@ -2706,13 +3096,17 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>050202 2</td>
 <td></td>
 <td>Телеоператор</td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
 <td>
 2 года
 10 мес.
@@ -2722,6 +3116,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2738,6 +3133,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2754,17 +3150,19 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0503000</th>
-<th>Слесарное дело**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0503000</td>
+<td>Слесарное дело**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>050301 2</td>
@@ -2779,7 +3177,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2792,18 +3191,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0504000</th>
-<th>Химическая чистка и крашение изделий**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0504000</td>
+<td>Химическая чистка и крашение изделий**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>050401 1</td>
@@ -2818,7 +3219,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2834,7 +3236,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2850,7 +3253,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2866,7 +3270,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2882,27 +3287,33 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0505000</th>
-<th>Фотодело**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0505000</td>
+<td>Фотодело**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>050501 1</td>
 <td></td>
 <td>Ретушер</td>
 <td></td>
-<td>1 год 10 мес.</td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2910,9 +3321,13 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>Фотолаборант</td>
 <td></td>
-<td>2 года 10 мес.</td>
+<td>
+2 года
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2920,9 +3335,13 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>Фотограф</td>
 <td></td>
-<td>2 года 10 мес.</td>
+<td>
+2 года
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2930,49 +3349,78 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>Фототехник</td>
 <td></td>
-<td>2 года 10 мес.</td>
-<td>1 год 10 мес.</td>
-<td></td>
+<td>
+2 года
+10 мес.
+</td>
+<td>
+1 год
+10 мес.
+</td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0506000</th>
-<th>Парикмахерское искусство и декоративная косметика**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0506000</td>
+<td>Парикмахерское искусство и декоративная косметика**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>050601 2</td>
 <td></td>
 <td>Парикмахер-модельер</td>
-<td>1 год 10 мес.</td>
-<td>2 года 10 мес.</td>
+<td>
+1 год
+10 мес.
+</td>
+<td>
+2 года
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>050602 2</td>
 <td></td>
 <td>Косметолог</td>
-<td>1 год 10 мес.</td>
-<td>2 года 10 мес.</td>
+<td>
+1 год
+10 мес.
+</td>
+<td>
+2 года
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>050603 2</td>
 <td></td>
 <td>Визажист</td>
-<td>1 год 10 мес.</td>
-<td>2 года 10 мес.</td>
+<td>
+1 год
+10 мес.
+</td>
+<td>
+2 года
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2980,9 +3428,13 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>Мастер по педикюру</td>
 <td></td>
-<td>1 год 10 мес.</td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2990,16 +3442,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>Мастер по маникюру</td>
 <td></td>
-<td>1 год 10 мес.</td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>050606 3</td>
 <td></td>
 <td>Художник-модельер</td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
 <td>
 3 года
 6 мес.
@@ -3008,7 +3467,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3024,7 +3487,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3037,7 +3501,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3050,7 +3515,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3063,7 +3529,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3079,18 +3546,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0507000</th>
-<th>Организация обслуживания гостиничных хозяйств</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0507000</td>
+<td>Организация обслуживания гостиничных хозяйств***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>050701 1</td>
@@ -3102,7 +3571,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3115,7 +3585,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3128,7 +3599,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3144,7 +3616,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3160,7 +3633,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3169,25 +3643,27 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td>Менеджер по сервису</td>
 <td></td>
 <td>
-2 года
-10 мес.
+3 года
+6 мес.
 </td>
 <td>
-1 год
-10 мес.
+2 года
+6 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0508000</th>
-<th>Организация питания**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0508000</td>
+<td>Организация питания**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>050801 2</td>
@@ -3201,8 +3677,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td>1 год 10 мес.</td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3217,8 +3697,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td>1 год 10 мес.</td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3233,8 +3717,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td>1 год 10 мес.</td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3246,11 +3734,15 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>
-2 года
+2 год
 10 мес.
 </td>
-<td>1 год 10 мес.</td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3262,18 +3754,25 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>
-2 года
+1 года
 10 мес.
 </td>
-<td>1 год 10 мес.</td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>050806 3</td>
 <td></td>
 <td>Менеджер по сервису</td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
 <td>
 3 года
 6 мес.
@@ -3282,7 +3781,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3294,22 +3797,27 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>
-2 года
+2 год
 10 мес.
 </td>
-<td>10 мес.</td>
-<td></td>
+<td>
+1 года
+10 мес.
+</td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0509000</th>
-<th>Обувное дело**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0509000</td>
+<td>Обувное дело**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>050901 2</td>
@@ -3323,8 +3831,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td>10 мес.</td>
-<td></td>
+<td>
+1 года
+10 мес.
+</td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3339,8 +3851,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td>10 мес.</td>
-<td></td>
+<td>
+1 года
+10 мес.
+</td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3355,19 +3871,24 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td>10 мес.</td>
-<td></td>
+<td>
+1 года
+10 мес.
+</td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0510000</th>
-<th>Делопроизводство и архивоведение (по отраслям и областям применения)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0510000</td>
+<td>Делопроизвод-ство и архивоведение (по отраслям и областям применения)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>051001 2</td>
@@ -3375,11 +3896,15 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td>Секретарь-референт</td>
 <td></td>
 <td>
+2 год
+10 мес.
+</td>
+<td>
 1 год
 10 мес.
 </td>
-<td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3395,7 +3920,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3411,56 +3937,71 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0511000</th>
-<th>Туризм (по отраслям)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0511000</td>
+<td>Туризм (по отраслям)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>051101 2</td>
 <td></td>
 <td>Инструктор туризма</td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
 <td>
 2 года
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
+</tr>
+<tr>
 </tr>
 <tr>
 <td>051102 2</td>
 <td></td>
 <td>Экскурсовод</td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
 <td>
 2 года
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>051103 2</td>
 <td></td>
 <td>Туристический агент</td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
 <td>
 2 года
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3473,21 +4014,29 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 6 мес.
 </td>
 <td>
-2 год
+2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0512000</th>
-<th>Переводческое дело (по видам)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0512000</td>
+<td>
+Переводческое дело
+(по видам)**
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>051201 3</td>
@@ -3502,7 +4051,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3518,18 +4071,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0513000</th>
-<th>Маркетинг (по отраслям)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0513000</td>
+<td>Маркетинг (по отраслям)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>051301 2</td>
@@ -3540,11 +4098,15 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>
+2 год
+10 мес.
+</td>
+<td>
 1 год
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3556,37 +4118,55 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>
+2 год
+10 мес.
+</td>
+<td>
 1 год
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>051303 2</td>
 <td></td>
 <td>Контролер-кассир</td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
 <td>
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>051304 2</td>
 <td></td>
 <td>Агент коммерческий</td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
 <td>
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3602,7 +4182,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3618,7 +4199,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3634,18 +4216,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0514000</th>
-<th>Оценка</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0514000</td>
+<td>Оценка</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>051401 3</td>
@@ -3660,18 +4244,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0515000</th>
-<th>Менеджмент (по отраслям и областям применения)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0515000</td>
+<td>
+Менеджмент
+(по отраслям и областям применения)
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>051501 3</td>
@@ -3686,18 +4278,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0516000</th>
-<th>Финансы (по отраслям)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0516000</td>
+<td>Финансы (по отраслям)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>051601 2</td>
@@ -3708,8 +4305,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3721,8 +4322,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3734,8 +4339,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3747,8 +4356,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3764,18 +4377,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0517000</th>
-<th>Статистика</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0517000</td>
+<td>Статистика</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>051701 3</td>
@@ -3790,18 +4405,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0518000</th>
-<th>Учет и аудит (по отраслям)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0518000</td>
+<td>
+Учет и аудит
+(по отраслям)***
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>051801 2</td>
@@ -3812,8 +4435,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 год
 10 мес
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3829,7 +4456,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3845,18 +4473,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0519000</th>
-<th>Экономика (по отраслям)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0519000</td>
+<td>
+Экономика
+(по отраслям)***
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>051901 2</td>
@@ -3871,7 +4504,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3887,7 +4521,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3903,28 +4538,31 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>0600000 – Метрология, стандартизация и сертификация</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0600000</td>
+<td>Метрология, стандартизация и сертификация</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th>0601000</th>
-<th>Стандартизация, метрология и сертификация (по отраслям)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0601000</td>
+<td>Стандартизация, метрология и сертификация (по отраслям)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>060101 3</td>
@@ -3939,7 +4577,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3955,18 +4594,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0602000</th>
-<th>Контроль качества (по отраслям применения)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0602000</td>
+<td>Контроль качества (по отраслям применения)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>060201 3</td>
@@ -3981,7 +4625,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3997,18 +4645,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0603000</th>
-<th>Неразрушающий контроль по отраслям и видам неразрушающего контроля</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0603000</td>
+<td>Неразрушающий контроль по отраслям и видам неразрушающе-го контроля</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>060301 3</td>
@@ -4023,28 +4676,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>0700000 – Геология, горнодобывающая промышленность и добыча полезных ископаемых</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th>0701000</th>
-<th>Геологическая съемка, поиск и разведка месторождений полезных ископаемых (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0701000</td>
+<td>Геологическая съемка, поиск и разведка месторождений полезных ископаемых (по видам)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>070101 2</td>
@@ -4056,7 +4704,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4069,7 +4718,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4082,7 +4732,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4095,7 +4746,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4108,7 +4760,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4124,18 +4777,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0702000</th>
-<th>Технология и техника разведки месторождений полезных ископаемых</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0702000</td>
+<td>Технология и техника разведки месторождений полезных ископаемых***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>070201 2</td>
@@ -4150,7 +4808,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4163,7 +4822,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4176,7 +4836,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4189,7 +4850,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4202,7 +4864,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4218,7 +4881,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4234,18 +4901,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0703000</th>
-<th>Гидрогеология и инженерная геология</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0703000</td>
+<td>Гидрогеология и инженерная геология***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>070301 2</td>
@@ -4257,7 +4929,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4270,7 +4943,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4286,18 +4960,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0704000</th>
-<th>Геофизические методы поиска и разведки месторождений полезных ископаемых</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0704000</td>
+<td>Геофизические методы поиска и разведки месторождений полезных ископаемых***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>070401 2</td>
@@ -4309,7 +4988,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4322,7 +5002,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4338,7 +5019,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4351,7 +5033,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4364,7 +5047,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4380,18 +5064,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0705000</th>
-<th>Подземная разработка месторождений полезных ископаемых</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0705000</td>
+<td>Подземная разработка месторождений полезных ископаемых***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>070501 2</td>
@@ -4402,8 +5091,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4418,8 +5111,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4434,8 +5131,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4450,8 +5151,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4463,8 +5168,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4477,7 +5186,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4489,8 +5199,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4503,7 +5217,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4516,7 +5231,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4528,8 +5244,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4545,7 +5265,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4556,6 +5280,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>10 мес.</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4566,6 +5291,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>10 мес.</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4576,6 +5302,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>10 мес.</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4586,6 +5313,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>10 мес.</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4596,6 +5324,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>10 мес.</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4607,8 +5336,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4620,8 +5353,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4633,19 +5370,24 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0706000</th>
-<th>Открытая разработка месторождений полезных ископаемых</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0706000</td>
+<td>Открытая разработка месторождений полезных ископаемых***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>070601 2</td>
@@ -4657,7 +5399,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4670,7 +5413,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4682,8 +5426,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4696,7 +5444,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4708,8 +5457,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4721,8 +5474,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4735,7 +5492,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4747,8 +5505,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4761,7 +5523,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4773,8 +5536,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4787,7 +5554,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4803,7 +5571,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4816,7 +5585,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4829,7 +5599,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4842,7 +5613,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4855,7 +5627,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4867,8 +5640,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4881,7 +5658,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4894,7 +5672,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4910,7 +5689,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4926,7 +5709,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4937,6 +5724,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>10 мес.</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4947,6 +5735,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>10 мес.</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4957,6 +5746,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>10 мес.</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4967,6 +5757,7 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>10 мес.</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4977,17 +5768,22 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>10 мес.</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0707000</th>
-<th>Техническое обслуживание и ремонт горного электромеханического оборудования</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0707000</td>
+<td>
+Техническое обслуживание и ремонт горного электромеханического оборудо-
+вания***
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>070701 2</td>
@@ -4999,7 +5795,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5011,8 +5808,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5025,7 +5826,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5038,7 +5840,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5051,7 +5854,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5063,8 +5867,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5077,7 +5885,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5090,7 +5899,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5103,7 +5913,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5115,8 +5926,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5128,8 +5943,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5142,7 +5961,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5154,8 +5974,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5167,8 +5991,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5180,8 +6008,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5193,8 +6025,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5207,7 +6043,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5219,8 +6056,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5236,7 +6077,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5248,8 +6093,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5261,8 +6110,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5274,8 +6127,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5287,8 +6144,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5300,8 +6161,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5313,12 +6178,16 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>070726 2</td>
+<td>070726 1</td>
 <td></td>
 <td>Ламповщик</td>
 <td></td>
@@ -5327,7 +6196,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5339,8 +6209,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5353,7 +6227,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5365,19 +6240,24 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0708000</th>
-<th>Обогащение полезных ископаемых (углеобогащение)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0708000</td>
+<td>Обогащение полезных ископаемых (углеобогаще-ние)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>070801 2</td>
@@ -5388,8 +6268,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5404,8 +6288,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5420,8 +6308,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5433,8 +6325,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5447,7 +6343,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5462,8 +6359,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5478,8 +6379,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5491,8 +6396,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5504,8 +6413,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5521,7 +6434,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5533,8 +6450,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5546,19 +6467,24 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0709000</th>
-<th>Обогащение полезных ископаемых (рудообогащение)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0709000</td>
+<td>Обогащение полезных ископаемых (рудообогаще ние)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>070901 2</td>
@@ -5572,8 +6498,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5588,8 +6518,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5604,8 +6538,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5617,8 +6555,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5630,8 +6572,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5643,8 +6589,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5657,7 +6607,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5669,8 +6620,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5682,8 +6637,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5695,8 +6654,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5708,8 +6671,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5725,7 +6692,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5741,7 +6709,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5754,7 +6723,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5769,8 +6739,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5782,8 +6756,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5795,8 +6773,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5812,7 +6794,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5825,7 +6811,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5838,7 +6825,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5851,18 +6839,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0710000</th>
-<th>Техническое обслуживание и ремонт карьерного электромеханического оборудования</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0710000</td>
+<td>Техническое обслуживание и ремонт карьерного электромеханического оборудов ания***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>071001 2</td>
@@ -5873,8 +6863,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5886,8 +6880,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5899,8 +6897,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5912,8 +6914,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5925,8 +6931,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5938,8 +6948,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5951,8 +6965,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5965,7 +6983,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5978,7 +6997,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -5990,8 +7010,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6003,8 +7027,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6016,8 +7044,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6033,7 +7065,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6045,8 +7081,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6058,8 +7098,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6071,8 +7115,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6084,8 +7132,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6097,19 +7149,24 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0711000</th>
-<th>Маркшейдерское дело</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0711000</td>
+<td>Маркшейдерс-кое дело***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>071101 2</td>
@@ -6121,7 +7178,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6137,7 +7195,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6153,18 +7212,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0712000</th>
-<th>Строительство подземных сооружений</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0712000</td>
+<td>Строительство подземных сооружений***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>071201 2</td>
@@ -6175,8 +7239,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6191,8 +7259,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6207,8 +7279,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6220,8 +7296,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6233,8 +7313,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6249,9 +7333,14 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
 </tr>
 <tr>
 <td>071207 2</td>
@@ -6265,8 +7354,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6282,7 +7375,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6294,8 +7391,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6308,7 +7409,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6320,8 +7422,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6333,19 +7439,24 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0713000</th>
-<th>Геодезия и картография</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0713000</td>
+<td>Геодезия и картография</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>071301 3</td>
@@ -6360,7 +7471,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6376,7 +7491,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6392,28 +7511,34 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>0800000 – Нефтегазовое и химическое производство</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td>0800000 – Нефтегазовое и химическое производство</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th>0801000</th>
-<th>Бурение нефтяных и газовых скважин и технология буровых работ (по профилю)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0801000</td>
+<td>Бурение нефтяных и газовых скважин и технология буровых работ (по профилю)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>080101 2</td>
@@ -6428,7 +7553,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6441,7 +7567,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6454,7 +7581,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6467,7 +7595,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6480,7 +7609,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6493,7 +7623,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6506,7 +7637,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6522,7 +7654,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6535,7 +7668,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6548,7 +7682,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6561,7 +7696,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6574,7 +7710,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6587,7 +7724,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6603,7 +7741,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6616,7 +7758,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6629,7 +7772,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6645,18 +7789,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0802000</th>
-<th>Сооружение и эксплуатация газонефтепроводов и газонефтехранилищ</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0802000</td>
+<td>Сооружение и эксплуатация газонефтепрово-дов и газонефтехрани-лищ***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>080201 2</td>
@@ -6668,7 +7817,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6681,7 +7831,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6694,7 +7845,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6710,18 +7862,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0803000</th>
-<th>Ремонт и обслуживание электрических систем компрессорных станций и подземных трубопроводов</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0803000</td>
+<td>
+Ремонт и обслуживание электрических систем компрессорных станций
+и подземных трубопроводов***
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>080301 2</td>
@@ -6733,7 +7893,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6746,7 +7907,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6759,7 +7921,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6775,18 +7938,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0804000</th>
-<th>Монтаж технологического оборудования и трубопроводов</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0804000</td>
+<td>Монтаж технологическо-го оборудования и трубопрово-дов***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>080401 2</td>
@@ -6798,7 +7966,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6811,7 +7980,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6827,18 +7997,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0805000</th>
-<th>Транспортировка и хранение нефти и газа</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0805000</td>
+<td>Транспортиров-ка и хранение нефти и газа***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>080501 2</td>
@@ -6853,7 +8028,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6869,7 +8045,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6885,18 +8065,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0806000</th>
-<th>Испытание скважин на нефть и газ</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0806000</td>
+<td>Испытание скважин на нефть и газ***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>080601 2</td>
@@ -6908,7 +8093,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6921,7 +8107,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6934,7 +8121,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6950,18 +8138,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0807000</th>
-<th>Техническое обслуживание и ремонт оборудования нефтяных и газовых промыслов</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0807000</td>
+<td>Техническое обслуживание и ремонт оборудования нефтяных и газовых промыслов***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>080701 2</td>
@@ -6976,7 +8169,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -6989,7 +8183,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7005,18 +8200,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0808000</th>
-<th>Техническое обслуживание и ремонт оборудования предприятий нефтегазоперерабатывающей и химической промышленности (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0808000</td>
+<td>Техническое обслуживание и ремонт оборудования предприятий нефтегазопере-рабатывающей и химической промышленнос-ти (по видам)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>080801 2</td>
@@ -7028,7 +8228,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7041,7 +8242,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7057,18 +8259,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0809000</th>
-<th>Эксплуатация нефтяных и газовых месторождений (по профилю)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0809000</td>
+<td>Эксплуатация нефтяных и газовых месторождений (по профилю)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>080901 2</td>
@@ -7080,7 +8287,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7096,7 +8304,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7109,7 +8318,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7122,7 +8332,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7135,7 +8346,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7148,7 +8360,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7161,7 +8374,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7174,7 +8388,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7187,8 +8402,10 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
+</tr>
+<tr>
 </tr>
 <tr>
 <td>080910 2</td>
@@ -7200,7 +8417,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7213,7 +8431,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7226,7 +8445,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7239,7 +8459,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7252,7 +8473,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7268,7 +8490,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7281,7 +8504,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7294,7 +8518,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7310,20 +8535,22 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>080919 2</td>
 <td></td>
-<td>Оператор по подготовке скважин ккапитальному и подземному ремонтам</td>
+<td>Оператор по подготовке скважин к капитальному и подземному ремонтам</td>
 <td></td>
 <td>
 2 года
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7339,7 +8566,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7355,7 +8583,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7371,7 +8600,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7381,24 +8614,29 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td></td>
 <td></td>
-<td>
-4 года
+<td></td>
+<td colspan="2">
+2 года
 10 мес.
 </td>
 <td>
-3 года
+1 года
 10 мес.
 </td>
 </tr>
 <tr>
-<th>0810000</th>
-<th>Сооружения и эксплуатация газонефтепроводов, газонефтехранилищ и заправочных станций</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0810000</td>
+<td>
+Сооружения и эксплуатация
+газонефтепрово-дов, газонефтехрани-лищ и заправочных станций***
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>081001 2</td>
@@ -7407,7 +8645,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td></td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7423,7 +8662,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7436,7 +8676,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7449,7 +8690,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7465,18 +8707,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0811000</th>
-<th>Производство химических волокон**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0811000</td>
+<td>Производство химических волокон**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>081101 2</td>
@@ -7488,7 +8735,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7501,7 +8749,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7514,7 +8763,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7527,7 +8777,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7540,7 +8791,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7556,21 +8808,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0812000</th>
-<th>Резино-техническое Производство**</th>
-<th></th>
-<th></th>
-<th>
-2 года
-10 мес.
-</th>
-<th>10 мес.</th>
-<th></th>
-<th></th>
+<td>0812000</td>
+<td>
+Резино-техническое
+производство**/***
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>081201 2</td>
@@ -7582,7 +8839,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7595,7 +8853,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7608,7 +8867,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7621,7 +8881,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7634,7 +8895,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7647,7 +8909,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7660,7 +8923,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7673,7 +8937,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7686,7 +8951,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7702,7 +8968,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7718,7 +8985,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7731,7 +8999,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7744,7 +9013,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7757,7 +9027,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7770,7 +9041,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7783,7 +9055,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7796,7 +9069,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7812,18 +9086,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0813000</th>
-<th>Производство шин и процесс вулканизации**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0813000</td>
+<td>Производство шин и процесс вулканизации**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>081301 2</td>
@@ -7835,7 +9114,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7851,7 +9131,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7864,7 +9145,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7877,7 +9159,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7890,7 +9173,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7903,7 +9187,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7916,7 +9201,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7929,7 +9215,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7942,7 +9229,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7955,7 +9243,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7968,7 +9257,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -7984,18 +9274,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0814000</th>
-<th>Технология полимерного производст</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0814000</td>
+<td>Технология полимерного производства***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>081401 2</td>
@@ -8007,7 +9302,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8020,7 +9316,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8033,7 +9330,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8046,7 +9344,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8059,7 +9358,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8072,7 +9372,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8085,7 +9386,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8098,7 +9400,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8111,7 +9414,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8124,7 +9428,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8137,7 +9442,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8153,18 +9459,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0815000</th>
-<th>Эксплуатация машин и оборудований химического производства вяжущих и сыпучих материалов</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0815000</td>
+<td>Эксплуатация машин и оборудований химического производства вяжущих и сыпучих материалов***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>081501 2</td>
@@ -8176,7 +9487,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8189,7 +9501,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8202,7 +9515,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8215,7 +9529,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8228,7 +9543,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8241,7 +9557,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8254,7 +9571,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8267,7 +9585,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8283,18 +9602,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0816000</th>
-<th>Химическая технология и производство (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0816000</td>
+<td>Химическая технология и производство (по видам)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>081601 2</td>
@@ -8306,7 +9630,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8319,7 +9644,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8332,7 +9658,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8348,7 +9675,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8364,18 +9695,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0817000</th>
-<th>Коксохимическое производство</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0817000</td>
+<td>Коксохимичес-кое производст-во***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>081701 2</td>
@@ -8387,7 +9723,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8400,7 +9737,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8413,7 +9751,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8426,7 +9765,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8439,7 +9779,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8455,18 +9796,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0818000</th>
-<th>Технология химического производства (по профилю)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0818000</td>
+<td>Технология химического производства (по профилю)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>081801 3</td>
@@ -8481,18 +9827,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0819000</th>
-<th>Технология переработки нефти и газа</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0819000</td>
+<td>
+Технология
+переработки нефти и газа***
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>081901 2</td>
@@ -8507,7 +9861,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8520,7 +9875,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8536,7 +9892,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8552,7 +9909,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8565,7 +9923,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8578,7 +9937,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8594,18 +9954,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0820000</th>
-<th>Технология разделения изотопов и вакуумная техника</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0820000</td>
+<td>Технология разделения изотопов и вакуумная техника***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>082001 2</td>
@@ -8617,7 +9982,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8633,18 +9999,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0821000</th>
-<th>Технология добычи нефти и газа</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0821000</td>
+<td>Технология добычи нефти и газа</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>082101 3</td>
@@ -8659,18 +10030,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0822000</th>
-<th>Эксплуатация месторождений</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0822000</td>
+<td>Эксплуатация месторождений</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>082201 3</td>
@@ -8685,18 +10061,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0823000</th>
-<th>Технология химического инжиниринга</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0823000</td>
+<td>Технология химического инжиниринга</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>082301 3</td>
@@ -8711,7 +10092,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8727,18 +10112,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0824000</th>
-<th>Технология бурения</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0824000</td>
+<td>Технология бурения</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>082401 3</td>
@@ -8750,18 +10140,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>2 года 10 мес.</td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0825000</th>
-<th>Технология газового инжиниринга</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0825000</td>
+<td>Технология газового инжиниринга</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>082501 3</td>
@@ -8773,18 +10168,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>2 года 10 мес.</td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0826000</th>
-<th>Промышленное оборудование</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0826000</td>
+<td>Промышленное оборудова-ние***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>082601 2</td>
@@ -8796,7 +10196,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8809,7 +10210,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8822,7 +10224,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -8838,18 +10241,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0827000</th>
-<th>Тяжелое промышленное оборудование</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0827000</td>
+<td>Тяжелое промышленное оборудование</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>082701 3</td>
@@ -8864,18 +10272,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0828000</th>
-<th>Технология инжиниринга КИП</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0828000</td>
+<td>Технология инжиниринга КИП</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>082801 3</td>
@@ -8890,18 +10303,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0829000</th>
-<th>Технология переработки энергетики и электроэнергетического инжиниринга</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0829000</td>
+<td>Технология переработки энергетики и электроэнерге-тического инжиниринга</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>082901 3</td>
@@ -8916,18 +10334,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0830000</th>
-<th>Технология электрического инжиниринга</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0830000</td>
+<td>Технология электрического инжиниринга</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>083001 3</td>
@@ -8942,44 +10365,40 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>0900000</td>
+<td>Энергетика</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>0900000 – Энергетика</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>Электроэнергетика</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th>0901000</th>
-<th>Электрооборудование электрических станций и сетей (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0901000</td>
+<td>Электрооборудование электрических станций и сетей (по видам)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>090101 2</td>
 <td></td>
 <td>Электромонтер (всех наименований)</td>
-<td></td>
+<td>1 год 10 мес</td>
 <td>
 2 года
 10 мес.
@@ -8988,7 +10407,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9004,7 +10424,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9020,7 +10441,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9036,40 +10458,46 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0902000</th>
-<th>Электроснабжение (по отраслям)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0902000</td>
+<td>Электроснабже-ние (по отрас-лям)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>090201 2</td>
 <td></td>
 <td>Электромонтажник по распределительным устройствам</td>
-<td></td>
+<td>1 год 10 мес.</td>
 <td>
 2 года
 10 мес.
 </td>
 <td>
 1 год
-10 мес.
+10 мес
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>090202 2</td>
 <td></td>
 <td>Электрослесарь по ремонту электрооборудования распределительных устройств</td>
-<td></td>
+<td>1 год 10 мес.</td>
 <td>
 2 года
 10 мес.
@@ -9078,14 +10506,15 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>090203 3</td>
 <td></td>
 <td>Техник-электрик</td>
-<td></td>
+<td>1 год 10 мес.</td>
 <td>
 3 года
 10 мес.
@@ -9094,18 +10523,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0903000</th>
-<th>Электроэнергетика (по отраслям)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0903000</td>
+<td>Электроэнерге-тика (по отраслям)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>0903013</td>
@@ -9120,18 +10554,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0904000</th>
-<th>Электроснабжение, эксплуатация, техническое обслуживание и ремонт электротехнических систем железных дорог</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0904000</td>
+<td>Электроснабже-ние, эксплуата-ция, техническое обслуживание и ремонт электротех-нических систем железных дорог**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>090401 2</td>
@@ -9146,7 +10585,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9162,7 +10602,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9178,7 +10619,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9194,18 +10639,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0905000</th>
-<th>Эксплуатация энергетических транспортных установок (по видам транспорта)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0905000</td>
+<td>Эксплуатация энергетических транспортных установок (по видам транспорта)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>090501 3</td>
@@ -9220,18 +10667,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0906000</th>
-<th>Теплоэнергетические установки тепловых электрических станций</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0906000</td>
+<td>Теплоэнергети-ческие установ-ки тепловых электрических станций***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>090601 2</td>
@@ -9246,7 +10698,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9262,11 +10715,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>0906033</td>
+<td>090603 3</td>
 <td></td>
 <td>Техник-энергетик</td>
 <td></td>
@@ -9278,18 +10732,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0907000</th>
-<th>Теплотехническое оборудование и системы теплоснабжения (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0907000</td>
+<td>Теплотехничес-кое оборудо-вание и системы теплоснабжения (по видам)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>090701 2</td>
@@ -9304,7 +10763,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9320,7 +10780,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9336,18 +10797,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0908000</th>
-<th>Технология воды, топлива и смазочных материалов на электрических станциях</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0908000</td>
+<td>Технология воды, топлива и смазочных материалов на электрических станциях</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>090801 3</td>
@@ -9362,18 +10828,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0909000</th>
-<th>Ядерные реакторы и энергетические установки</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0909000</td>
+<td>Ядерные реакторы и энергетические установки</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>090901 3</td>
@@ -9388,7 +10859,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9404,18 +10879,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0910000</th>
-<th>Электрическое и электромеханическое оборудование (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0910000</td>
+<td>Электрическое и электромехани-ческое оборудование (по видам)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>091001 2</td>
@@ -9430,7 +10910,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9446,7 +10927,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9462,7 +10944,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9478,7 +10961,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9494,18 +10981,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0911000</th>
-<th>Техническая эксплуатация, обслуживание и ремонт электрического и электромеханического оборудования (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0911000</td>
+<td>
+Техническая эксплуатация, обслуживание и ремонт электрического и электромеха-нического оборудования
+(по видам)***
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>091101 3</td>
@@ -9520,7 +11015,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9536,7 +11035,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9552,18 +11052,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0912000</th>
-<th>Электротехнология (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0912000</td>
+<td>Электротехноло-гия (по видам)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>091201 3</td>
@@ -9578,18 +11080,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0913000</th>
-<th>Энерго менеджмент</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0913000</td>
+<td>Энерго- менеджмент</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>091301 3</td>
@@ -9604,24 +11108,33 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0914000</th>
-<th>Энергоаудит</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0914000</td>
+<td>Энергоаудит</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>091401 3</td>
 <td></td>
 <td>Аудитор энергетических объектов</td>
 <td></td>
+<td>
+3 года
+10 мес.
+</td>
 <td>
 2 года
 10 мес.
@@ -9630,18 +11143,19 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>0915000</th>
-<th>Гидроэнергетика</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>0915000</td>
+<td>Гидроэнергетика</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>091501 3</td>
@@ -9656,7 +11170,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9666,44 +11184,38 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td></td>
 <td></td>
-<td>
-4 года
+<td></td>
+<td colspan="2">
+2 год
 10 мес.
 </td>
 <td>
-3 года
-10 мес.
+1 год
+10
+мес.
 </td>
 </tr>
 <tr>
-<th></th>
-<th>1000000 –Металлургия и машиностроение</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1000000</td>
+<td>Металлургия и машиностроение</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>Металлургия</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th>1001000</th>
-<th>Обслуживание и ремонт доменной печи</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1001000</td>
+<td>Обслуживание и ремонт домен-ной печи***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>100101 2</td>
@@ -9715,7 +11227,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9728,7 +11241,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9741,7 +11255,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9754,7 +11269,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9767,7 +11283,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9780,7 +11297,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9793,18 +11311,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1002000</th>
-<th>Металлургия черных металлов (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1002000</td>
+<td>Металлургия черных металлов (по видам)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>100201 2</td>
@@ -9816,7 +11336,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9829,7 +11350,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9842,7 +11364,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9855,7 +11378,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9868,7 +11392,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9881,7 +11406,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9894,7 +11420,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9907,7 +11434,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9920,7 +11448,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9933,7 +11462,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9946,7 +11476,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9959,7 +11490,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9972,7 +11504,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9985,7 +11518,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -9998,7 +11532,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10011,7 +11546,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10024,7 +11560,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10040,7 +11577,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10053,7 +11591,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10066,7 +11605,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10082,7 +11622,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10095,7 +11639,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10108,7 +11653,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10121,7 +11667,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10134,7 +11681,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10147,7 +11695,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10160,7 +11709,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10173,7 +11723,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10186,18 +11737,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1003000</th>
-<th>Металлургия цветных металлов</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1003000</td>
+<td>Металлургия цветных металлов***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>100301 2</td>
@@ -10209,7 +11762,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10222,7 +11776,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10235,7 +11790,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10248,7 +11804,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10261,7 +11818,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10274,7 +11832,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10287,7 +11846,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10300,7 +11860,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10313,7 +11874,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10329,7 +11891,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10345,7 +11908,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10358,7 +11922,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10371,7 +11936,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10387,7 +11953,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10403,18 +11970,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1004000</th>
-<th>Литейное производство</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1004000</td>
+<td>Литейное производство***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>100401 2</td>
@@ -10426,7 +11998,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10439,7 +12012,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10452,7 +12026,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10468,7 +12043,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10484,7 +12060,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10500,7 +12077,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10516,7 +12094,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10532,7 +12111,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10548,7 +12128,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10561,7 +12145,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10574,7 +12159,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10587,7 +12173,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10600,18 +12187,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1005000</th>
-<th>Внепечная обработка стали</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1005000</td>
+<td>Внепечная обработка стали***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>100501 2</td>
@@ -10623,7 +12212,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10636,18 +12226,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1006000</th>
-<th>Металлообработка (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1006000</td>
+<td>Металлообрабо-тка (по видам)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>100601 3</td>
@@ -10662,7 +12254,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10675,7 +12271,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10688,7 +12285,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10701,7 +12299,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10714,7 +12313,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10727,7 +12327,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10740,7 +12341,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10753,7 +12355,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10766,7 +12369,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10779,7 +12383,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10792,18 +12397,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1007000</th>
-<th>Производство огнеупоров</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1007000</td>
+<td>Производство огнеупоров***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>100701 2</td>
@@ -10815,7 +12422,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10828,7 +12436,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10841,7 +12450,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10854,7 +12464,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10867,7 +12478,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10880,7 +12492,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10893,7 +12506,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10906,18 +12520,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1008000</th>
-<th>Композиционные и порошковые материалы, покрытия</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1008000</td>
+<td>Композицион-ные и порошковые материалы, покрытия</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>100801 3</td>
@@ -10932,7 +12548,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10948,18 +12568,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1009000</th>
-<th>Прокатное производство</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1009000</td>
+<td>Прокатное производство***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>100901 2</td>
@@ -10971,7 +12596,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10984,7 +12610,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -10997,7 +12624,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11010,7 +12638,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11023,7 +12652,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11036,7 +12666,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11049,7 +12680,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11062,7 +12694,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11078,7 +12711,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11091,18 +12728,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1010000</th>
-<th>Трубное производство</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1010000</td>
+<td>Трубное производство***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>101001 2</td>
@@ -11114,7 +12753,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11127,7 +12767,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11140,7 +12781,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11153,7 +12795,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11166,7 +12809,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11179,7 +12823,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11192,7 +12837,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11205,7 +12851,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11218,7 +12865,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11231,7 +12879,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11244,7 +12893,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11257,7 +12907,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11270,7 +12921,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11283,7 +12935,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11296,18 +12949,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1011000</th>
-<th>Автоматические линии и агрегатные станки</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1011000</td>
+<td>Автоматические линии и агрегатные станки***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>101101 2</td>
@@ -11322,7 +12977,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11338,7 +12994,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11354,7 +13011,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11370,28 +13028,34 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>Технология машиностроения</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td>Технология машиностроения</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th>1012000</th>
-<th>Гибкие автоматические линии</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1012000</td>
+<td>Гибкие автоматические линии***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>101201 2</td>
@@ -11406,7 +13070,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11422,7 +13087,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11438,7 +13104,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11454,7 +13121,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11470,18 +13138,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1013000</th>
-<th>Механообработка, контрольно-измерительные приборы и автоматика в промышленности</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1013000</td>
+<td>
+Механообработ-
+ка, контрольно-измерительные приборы и автоматика в промышленнос-ти***
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>101301 2</td>
@@ -11496,7 +13172,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11512,7 +13189,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11528,7 +13206,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11544,7 +13223,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11560,7 +13240,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11575,11 +13256,9 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td>
-1 год
-10 мес.
-</td>
-<td></td>
+<td>10 мес.</td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11595,18 +13274,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1014000</th>
-<th>Технология машиностроения (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1014000</td>
+<td>Технология машиностроения (по видам)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>101401 3</td>
@@ -11621,7 +13305,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11637,7 +13325,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11649,8 +13341,9 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>1 год 10 мес.</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11663,7 +13356,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11676,7 +13370,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11689,7 +13384,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11705,7 +13401,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11715,24 +13415,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td></td>
 <td></td>
-<td>
-4 года
+<td></td>
+<td colspan="2">
+2 года
 10 мес.
 </td>
 <td>
-3 года
+1 года
 10 мес.
 </td>
 </tr>
 <tr>
-<th>1015000</th>
-<th>Монтаж в машиностроении и испытание автомобиля</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1015000</td>
+<td>Монтаж в машиностроении и испытание автомобиля***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>101501 2</td>
@@ -11747,7 +13449,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11766,7 +13469,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11785,7 +13489,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11804,7 +13509,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11823,7 +13529,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11839,7 +13546,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11855,38 +13563,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>1101000</td>
+<td>Производство летательных аппаратов***</td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<th></th>
-<th>1100000 – Транспорт (по отраслям)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>Авиационная техника</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th>1101000</th>
-<th>Производство летательных аппаратов</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>110101 2</td>
@@ -11898,7 +13591,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11911,7 +13605,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11924,7 +13619,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11937,7 +13633,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11950,7 +13647,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11966,7 +13664,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -11982,18 +13684,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1102000</th>
-<th>Производство авиационных приборов</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1102000</td>
+<td>Производство авиационных приборов***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>110201 2</td>
@@ -12005,7 +13712,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12018,7 +13726,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12034,7 +13743,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12050,7 +13760,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12066,7 +13777,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12082,7 +13794,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12098,7 +13811,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12114,28 +13831,34 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>Морская техника</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td>Морская техника</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th>1103000</th>
-<th>Судостроение и техническое обслуживание судовых машин и механизмов</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1103000</td>
+<td>Судостроение и техническое обслуживание судовых машин и механизмов***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>110301 2</td>
@@ -12153,7 +13876,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12172,7 +13896,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12191,7 +13916,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12210,7 +13936,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12229,7 +13956,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12248,7 +13976,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12267,7 +13996,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12286,7 +14016,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12305,7 +14036,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12324,7 +14056,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12343,7 +14076,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12362,7 +14096,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12381,7 +14116,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12400,7 +14136,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12419,7 +14156,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12435,7 +14173,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12451,18 +14193,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1104000</th>
-<th>Электрорадиомонтаж морской техники</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1104000</td>
+<td>Электрорадио-монтаж морской техники***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>110401 2</td>
@@ -12477,7 +14224,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12493,7 +14241,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12509,7 +14258,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12525,28 +14278,34 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>Транспортная техника</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td>Транспортная техника</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th>1105000</th>
-<th>Эксплуатация, техническое обслуживание и ремонт городского электротранспорта (по отраслям)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1105000</td>
+<td>Эксплуатация, техническое обслуживание и ремонт город-ского электро-транспорта (по отраслям)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>110501 2</td>
@@ -12561,7 +14320,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12577,7 +14337,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12590,7 +14351,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12603,7 +14365,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12616,7 +14379,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12629,7 +14393,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12642,7 +14407,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12658,18 +14424,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1106000</th>
-<th>Производство подвижного состава железных дорог (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1106000</td>
+<td>Производство подвижного состава железных дорог (по видам)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>110601 3</td>
@@ -12684,18 +14455,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1107000</th>
-<th>Техническая эксплуатация подъемно-транспортных, строительно-дорожных машин и оборудования (по отраслям)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1107000</td>
+<td>Техническая эксплуатация подъемно-транспортных, строительно-дорожных машин и оборудования (по отраслям)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>110701 2</td>
@@ -12707,7 +14483,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12720,7 +14497,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12733,7 +14511,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12749,7 +14528,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12762,18 +14545,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1108000</th>
-<th>Эксплуатация, ремонт и техническое обслуживание подвижного состава железных дорог (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1108000</td>
+<td>Эксплуатация, ремонт и техническое обслуживание подвижного состава железных дорог (по видам)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>110801 2</td>
@@ -12791,7 +14576,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12807,7 +14593,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12820,7 +14607,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12833,7 +14621,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12846,7 +14635,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12862,7 +14652,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12878,7 +14669,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12894,7 +14686,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12910,7 +14703,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12926,7 +14720,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12942,7 +14737,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12958,7 +14754,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12974,7 +14771,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -12990,7 +14788,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13006,7 +14805,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13022,7 +14822,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13038,7 +14839,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13054,28 +14856,34 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>Технологические машины и оборудование</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td>Технологические машины и оборудование</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th>1109000</th>
-<th>Токарное дело и металлообработка (по видам)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1109000</td>
+<td>Токарное дело и металлообработ-ка (по видам)**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>110901 2</td>
@@ -13090,7 +14898,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13106,7 +14915,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13122,7 +14932,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13138,7 +14949,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13154,7 +14966,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13170,7 +14983,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13186,7 +15000,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13202,7 +15017,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13218,7 +15034,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13234,7 +15051,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13250,7 +15068,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13266,7 +15088,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13279,7 +15105,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13295,7 +15122,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13311,18 +15139,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1110000</th>
-<th>Грузоподъемные машины и транспортеры</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1110000</td>
+<td>
+Грузоподъемные
+машины и транспорте-ры***
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>111001 2</td>
@@ -13337,7 +15170,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13353,7 +15187,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13369,18 +15204,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1111000</th>
-<th>Кузнечно-прессовое оборудование**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1111000</td>
+<td>Кузнечно-прессовое оборудование**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>111101 2</td>
@@ -13392,7 +15232,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13408,18 +15249,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1112000</th>
-<th>Эксплуатация машин и оборудования промышленности**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1112000</td>
+<td>Эксплуатация машин и оборудования промышленнос-ти**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>111201 2</td>
@@ -13431,7 +15277,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13444,7 +15291,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13457,7 +15305,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13473,7 +15322,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13489,18 +15342,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1113000</th>
-<th>Машины и оборудование в металлургии</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1113000</td>
+<td>Машины и оборудование в металлургии***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>111301 2</td>
@@ -13512,7 +15370,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13528,7 +15387,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13544,18 +15407,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1114000</th>
-<th>Сварочное дело (по видам)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1114000</td>
+<td>Сварочное дело (по видам)**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>111401 2</td>
@@ -13567,7 +15435,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13580,7 +15449,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13593,7 +15463,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13606,7 +15477,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13622,30 +15494,44 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>111406 3</td>
 <td></td>
 <td>Техник-механик</td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
 <td>
 3 года
-10 мес.
+6 мес.
 </td>
 <td>
 2 года
+6 мес.
+</td>
+<td>
+1 год
 10 мес.
 </td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>111407 3</td>
 <td></td>
 <td>Инспектор сварочного производства</td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
 <td>
 3 года
 10 мес.
@@ -13654,18 +15540,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1115000</th>
-<th>Электромеханическое оборудование в промышленности (по видам)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1115000</td>
+<td>Электромехани-ческое обору-дование в промышленнос-ти (по видам)**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>111501 2</td>
@@ -13683,7 +15574,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13699,7 +15591,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13715,7 +15608,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13731,7 +15625,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13747,13 +15642,14 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>111506 3</td>
 <td></td>
-<td>Электромеханик(всех наименований)</td>
+<td>Электромеханик (всех наименований)</td>
 <td></td>
 <td>
 3 года
@@ -13763,7 +15659,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13779,7 +15679,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13789,24 +15693,29 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>
 3 года
-6 мес.
+10 мес.
 </td>
 <td>
 2 года
+10 мес.
+</td>
+<td>
+1 год
 6 мес.
 </td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1116000</th>
-<th>Геологоразведочное оборудование</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1116000</td>
+<td>Геологоразве-дочное оборудо-вание***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>111601 2</td>
@@ -13821,7 +15730,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13837,18 +15747,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1117000</th>
-<th>Оборудование для производства электронной техники</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1117000</td>
+<td>Оборудование для производства электронной техники***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>111701 2</td>
@@ -13863,7 +15778,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13879,18 +15795,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1118000</th>
-<th>Оборудование предприятий питания, торговли и мясной промышленности**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1118000</td>
+<td>
+Оборудование предприятий
+питания, торговли и мясной промышлен- ности**/***
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>111801 2</td>
@@ -13902,7 +15826,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13918,18 +15843,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1119000</th>
-<th>Холодильно-компрессорные машины и установки</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1119000</td>
+<td>Холодильно-компрессорные машины и установки***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>111901 2</td>
@@ -13944,7 +15874,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13960,7 +15891,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13976,7 +15908,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -13992,7 +15925,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14008,18 +15942,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1120000</th>
-<th>Техническое обслуживание технологических машин и оборудования (по видам)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1120000</td>
+<td>Техническое обслуживание технологических машин и оборудования (по видам)**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>112001 2</td>
@@ -14031,7 +15970,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14047,7 +15987,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14063,13 +16004,14 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>112004 3</td>
 <td></td>
-<td>nullТехник-механик</td>
+<td>Техник-механик</td>
 <td></td>
 <td>
 3 года
@@ -14079,13 +16021,17 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>112005 3</td>
 <td></td>
-<td>nullЭлектромеханик</td>
+<td>Электромеханик</td>
 <td></td>
 <td>
 3 года
@@ -14095,18 +16041,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1121000</th>
-<th>Монтаж, техническое обслуживание и ремонт медицинской техники</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1121000</td>
+<td>Монтаж, техническое обслуживание и ремонт медицинской техники***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>112101 2</td>
@@ -14125,13 +16076,14 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>112102 3</td>
 <td></td>
-<td>nullТехник по эксплуатации и ремонту оборудования</td>
+<td>Техник по эксплуатации и ремонту оборудования</td>
 <td></td>
 <td>
 2 года
@@ -14141,13 +16093,17 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>112103 3</td>
 <td></td>
-<td>nullТехник-электроник</td>
+<td>Техник-электроник</td>
 <td></td>
 <td>
 2 года
@@ -14157,18 +16113,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1122000</th>
-<th>Военное дело и безопасность</th>
-<th>null</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1122000</td>
+<td>Военное дело и безопасность</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>112201 2</td>
@@ -14180,28 +16141,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>1200000- Производство, монтаж, эксплуатация и ремонт (по отраслям) Эксплуатация транспорта</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th>1201000</th>
-<th>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспор-та**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>120101 1</td>
@@ -14213,7 +16166,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14226,7 +16180,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14239,7 +16194,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14252,7 +16208,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14265,7 +16222,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14278,7 +16236,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14294,7 +16253,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14307,7 +16267,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14319,8 +16280,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14336,7 +16301,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14349,7 +16315,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 6 мес.
 </td>
 <td>2 года 6 мес.</td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14362,7 +16332,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>2 года 10 мес.</td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14375,7 +16349,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>2 года 10 мес.</td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14385,24 +16363,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td></td>
 <td></td>
-<td>
-4 года
+<td></td>
+<td colspan="2">
+2 год
 10 мес.
 </td>
 <td>
-3 года
+1 года
 10 мес.
 </td>
 </tr>
 <tr>
-<th>1202000</th>
-<th>Организация перевозок и управление движением на транспорте (по отраслям)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1202000</td>
+<td>Организация перевозок и управление движением на транспорте (по отраслям)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>120202 2</td>
@@ -14414,7 +16394,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14427,7 +16408,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14440,7 +16422,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14453,7 +16436,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14469,18 +16453,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1203000</th>
-<th>Организация перевозок и управление движением на железнодорожном транспорте</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1203000</td>
+<td>Организация перевозок и управление движением на железнодорож-ном транспор-те***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>120301 2</td>
@@ -14495,7 +16484,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14511,7 +16501,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14527,7 +16518,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14543,7 +16535,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14559,7 +16552,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14575,7 +16569,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14591,7 +16586,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14607,18 +16603,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1204000</th>
-<th>Эксплуатация водного транспорта (по профилю)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1204000</td>
+<td>Эксплуатация водного транспорта (по профилю)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>120401 2</td>
@@ -14633,7 +16634,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14649,7 +16651,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14665,7 +16668,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14678,7 +16682,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14694,7 +16699,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14710,7 +16716,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14726,7 +16733,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14742,7 +16753,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14758,7 +16773,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14774,7 +16793,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14790,18 +16813,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1205000</th>
-<th>Управление движением и эксплуатация воздушного транспорта</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1205000</td>
+<td>Управление движением и эксплуатация воздушного транспорта</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>120501 3</td>
@@ -14816,7 +16844,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14832,7 +16864,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14848,7 +16884,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14864,7 +16904,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14880,7 +16924,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14896,7 +16944,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14912,7 +16964,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14928,7 +16984,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14944,7 +17004,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -14960,18 +17024,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1206000</th>
-<th>Организация дорожного движения</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1206000</td>
+<td>Организация дорожного движения***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>120601 2</td>
@@ -14986,7 +17055,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15002,28 +17072,34 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>Технология изделий и товаров широкого потребления</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td>Технология изделий и товаров широкого потребления</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th>1207000</th>
-<th>Технология обработки волокнистых материалов**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1207000</td>
+<td>Технология обработки волокнистых материал-ов**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>120701 2</td>
@@ -15038,7 +17114,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15054,7 +17131,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15070,7 +17148,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15086,7 +17165,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15102,7 +17182,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15118,7 +17199,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15134,18 +17216,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1208000</th>
-<th>Технология прядильного и чесального производства (по видам)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1208000</td>
+<td>Технология прядильного и чесального производства (по видам)**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>120801 2</td>
@@ -15160,7 +17247,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15176,7 +17264,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15192,7 +17281,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15208,7 +17298,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15224,7 +17315,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15240,7 +17332,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15256,7 +17349,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15272,7 +17366,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15288,7 +17383,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15304,7 +17400,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15320,7 +17417,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15336,7 +17434,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15352,7 +17451,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15368,7 +17468,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15384,7 +17485,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15400,7 +17502,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15416,7 +17522,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15432,7 +17542,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15448,18 +17559,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1209000</th>
-<th>Ткацкое производство (по видам)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1209000</td>
+<td>Ткацкое производство (по видам)**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>120901 2</td>
@@ -15474,7 +17587,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15490,7 +17604,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15506,7 +17621,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15522,7 +17638,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15538,7 +17655,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15554,18 +17672,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1210000</th>
-<th>Технология нетканых текстильных материалов**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1210000</td>
+<td>Технология нетканых текстильных материал-ов**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>121001 2</td>
@@ -15580,7 +17703,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15596,7 +17720,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15612,7 +17737,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15628,7 +17754,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15644,7 +17771,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15660,7 +17788,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15676,7 +17805,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15692,7 +17822,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15708,7 +17839,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15724,18 +17856,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1211000</th>
-<th>Швейное производство и моделирование одежды**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1211000</td>
+<td>Швейное производство и моделирование одежды**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>121101 1</td>
@@ -15750,7 +17887,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15766,7 +17904,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15782,7 +17921,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15798,7 +17938,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15814,7 +17955,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15830,7 +17972,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15846,7 +17989,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15856,13 +18000,17 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>
 3 года
-6 мес.
+10 мес.
 </td>
 <td>
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15872,13 +18020,14 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>
 3 года
-10 мес.
+6 мес.
 </td>
 <td>
 2 года
 6 мес.
 </td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15894,7 +18043,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15910,7 +18060,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15926,18 +18080,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1212000</th>
-<th>Обувное производство (по видам)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1212000</td>
+<td>Обувное производство (по видам)**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>121201 2</td>
@@ -15952,7 +18108,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15968,7 +18125,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -15984,7 +18142,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16000,7 +18159,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16012,11 +18172,9 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 3 года
 6 мес.
 </td>
-<td>
-2 года
-6 мес.
-</td>
-<td></td>
+<td>2 года 6 мес.</td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16032,7 +18190,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16048,18 +18207,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1213000</th>
-<th>Технология производств меховых и овчинно-шубных изделий**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1213000</td>
+<td>Технология производств меховых и овчинно-шубных изделий**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>121301 2</td>
@@ -16071,7 +18232,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16084,7 +18246,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16097,7 +18260,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16113,7 +18277,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16129,7 +18294,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16145,18 +18311,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1214000</th>
-<th>Технология трикотажных, текстильных, галантерейных изделий**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1214000</td>
+<td>Технология трикотажных, текстильных, галантерейных изделий**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>121401 2</td>
@@ -16171,7 +18342,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16187,7 +18359,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16203,18 +18376,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1215000</th>
-<th>Оборудование организаций легкой промышленности**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1215000</td>
+<td>Оборудование организаций легкой промышленнос-ти**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>121501 2</td>
@@ -16229,7 +18407,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16242,7 +18421,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16255,7 +18435,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16271,28 +18452,34 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>Технология производства пищевых продуктов</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td>Технология производства пищевых продуктов</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th>1216000</th>
-<th>Элеваторное, мукомольное, крупяное и комбикормовое производство</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1216000</td>
+<td>Элеваторное, мукомольное, крупяное и комбикормовое производство***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>121601 2</td>
@@ -16304,7 +18491,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16317,7 +18505,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16330,7 +18519,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16343,7 +18533,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16359,7 +18550,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16375,18 +18570,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1217000</th>
-<th>Производство табака</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1217000</td>
+<td>Производство табака***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>121701 2</td>
@@ -16398,7 +18598,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16414,7 +18615,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16430,18 +18635,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1218000</th>
-<th>Оборудование предприятий пищевой промышленности**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1218000</td>
+<td>Оборудование предприятий пищевой промышленнос-ти**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>121801 2</td>
@@ -16453,20 +18663,25 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>121802 2</td>
 <td></td>
 <td>Резчик пищевой продукции</td>
-<td>10 мес.</td>
+<td>
+1 год
+10 мес.
+</td>
 <td>
 2 года
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16482,18 +18697,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1219000</th>
-<th>Хлебопекарное, макаронное и кондитерское производство**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1219000</td>
+<td>Хлебопекарное, макаронное и кондитерское производство**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>121901 2</td>
@@ -16508,7 +18728,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16524,7 +18745,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16540,7 +18762,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16556,7 +18779,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16572,7 +18796,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16588,7 +18813,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16604,7 +18830,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16620,7 +18847,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16636,7 +18864,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16652,7 +18881,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16668,7 +18898,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16684,7 +18915,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16700,7 +18932,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16716,7 +18949,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16732,7 +18966,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16748,7 +18983,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16764,7 +19000,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16780,7 +19017,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16796,7 +19034,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16812,7 +19051,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16828,7 +19068,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16844,7 +19085,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16860,18 +19102,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1220000</th>
-<th>Сахарное производство</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1220000</td>
+<td>Сахарное производство***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>122001 2</td>
@@ -16886,7 +19133,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16902,7 +19150,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16921,11 +19170,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>1220043</td>
+<td>122004 3</td>
 <td></td>
 <td>Техник-технолог</td>
 <td></td>
@@ -16937,18 +19187,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1221000</th>
-<th>Рыбное производство**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1221000</td>
+<td>Рыбное производство**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>122101 2</td>
@@ -16963,7 +19218,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16979,7 +19235,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -16995,7 +19252,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17011,7 +19269,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17027,7 +19286,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17043,7 +19303,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17059,18 +19320,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1222000</th>
-<th>Производство консервов и пище концентратов**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1222000</td>
+<td>Производство консервов и пище- концентратов**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>122201 2</td>
@@ -17082,7 +19348,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17095,7 +19362,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17108,7 +19376,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17121,7 +19390,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17134,7 +19404,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17147,7 +19418,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17163,18 +19435,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1223000</th>
-<th>Производство пива, безалкогольных и спиртных напитков</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1223000</td>
+<td>Производство пива, безалкогольных и спиртных напитков***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>122301 2</td>
@@ -17186,7 +19463,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17199,7 +19477,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17212,7 +19491,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17225,7 +19505,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17238,7 +19519,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17251,7 +19533,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17264,7 +19547,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17280,18 +19564,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1224000</th>
-<th>Производство молочной продукции**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1224000</td>
+<td>Производство молочной продук-ции**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>122401 2</td>
@@ -17303,7 +19592,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17316,7 +19606,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17329,7 +19620,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17342,7 +19634,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17355,7 +19648,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17368,7 +19662,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17384,18 +19679,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1225000</th>
-<th>Производство мяса и мясных продуктов (по видам)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1225000</td>
+<td>Производство мяса и мясных продуктов (по видам)**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>122501 2</td>
@@ -17407,7 +19704,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17420,7 +19718,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17428,9 +19727,13 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td>Жиловщик мяса и субпродуктов</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>
+2 года
+10 мес.
+</td>
+<td>10 мес.</td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17443,7 +19746,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17456,7 +19760,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17472,7 +19777,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17488,7 +19794,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17504,7 +19811,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17520,7 +19828,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17536,7 +19845,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17552,18 +19865,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1226000</th>
-<th>Технология и организация производства продукции предприятий питания**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1226000</td>
+<td>Технология и организация производства продукции предприятий питания**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>122601 2</td>
@@ -17575,7 +19893,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 6 мес.
 </td>
 <td>1 год 6 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17591,7 +19910,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 6 мес.
 </td>
 <td>1 год 6 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17604,7 +19924,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 6 мес.
 </td>
 <td>2 года 6 мес.</td>
-<td></td>
+<td>1 год 6 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17617,7 +19938,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 6 мес.
 </td>
 <td>2 года 6 мес.</td>
-<td></td>
+<td>1 год 6 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17630,18 +19952,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1227000</th>
-<th>Печатное производство**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1227000</td>
+<td>Печатное производство**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>122701 2</td>
@@ -17656,7 +19980,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17672,7 +19997,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17688,7 +20014,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17704,7 +20031,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17720,7 +20048,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17736,7 +20065,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17752,7 +20082,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17768,7 +20099,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17784,7 +20116,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17800,7 +20133,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17816,18 +20153,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1228000</th>
-<th>Кабельное производство**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1228000</td>
+<td>Кабельное производство**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>122801 2</td>
@@ -17839,7 +20181,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17852,7 +20195,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17865,7 +20209,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17878,7 +20223,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17891,7 +20237,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17904,7 +20251,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17917,7 +20265,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17930,7 +20279,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17943,7 +20293,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17959,7 +20310,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17975,7 +20330,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -17991,18 +20350,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1229000</th>
-<th>Приборостроение (по отраслям)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1229000</td>
+<td>Приборострое-ние (по отраслям)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>122901 3</td>
@@ -18017,7 +20381,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18033,7 +20401,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18049,18 +20421,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1230000</th>
-<th>Технология жиров и жирозаменителей</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1230000</td>
+<td>
+Технология жиров и жиро-
+заменителей
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>123001 3</td>
@@ -18075,18 +20455,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1231000</th>
-<th>Эксплуатация и обслуживание экологических установок</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1231000</td>
+<td>Эксплуатация и обслуживание экологических установок***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>123101 2</td>
@@ -18098,7 +20483,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18111,7 +20497,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18124,7 +20511,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18137,7 +20525,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18150,7 +20539,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18166,7 +20556,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18182,18 +20576,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1232000</th>
-<th>Производство стекловолокон и стеклоизделий**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1232000</td>
+<td>Производство стекловолокон и стеклоизделий**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>123201 2</td>
@@ -18205,7 +20604,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18218,7 +20618,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18231,7 +20632,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18244,7 +20646,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18257,7 +20660,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18270,7 +20674,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18283,7 +20688,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18296,7 +20702,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18309,7 +20716,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18322,7 +20730,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18335,7 +20744,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18348,7 +20758,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18364,7 +20775,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18380,7 +20792,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18396,7 +20809,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18412,7 +20826,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18428,7 +20843,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18444,18 +20860,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1233000</th>
-<th>Изготовление фарфоровых и фаянсовых изделий**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1233000</td>
+<td>Изготовление фарфоровых и фаянсовых изделий**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>123301 2</td>
@@ -18470,7 +20891,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18486,7 +20908,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18502,7 +20925,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18518,7 +20942,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18534,18 +20959,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1234000</th>
-<th>Керамическое производство**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1234000</td>
+<td>Керамическое производство**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>123401 2</td>
@@ -18560,7 +20990,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18576,7 +21007,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18592,7 +21024,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18608,7 +21041,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18624,18 +21061,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1235000</th>
-<th>Отделочное производство (по профилю)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1235000</td>
+<td>Отделочное производство (по профилю)**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>123501 2</td>
@@ -18650,7 +21092,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18666,7 +21109,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18682,7 +21126,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18698,7 +21143,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18714,7 +21160,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18730,7 +21177,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18746,7 +21194,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18762,7 +21211,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18778,7 +21228,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18794,7 +21245,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18810,7 +21262,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18823,7 +21276,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18839,7 +21293,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18855,7 +21313,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18871,18 +21333,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1236000</th>
-<th>Химическая обработка кожи и меха**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1236000</td>
+<td>Химическая обработка кожи и меха**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>123601 2</td>
@@ -18894,7 +21361,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18907,7 +21375,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18920,7 +21389,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18933,7 +21403,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -18949,18 +21420,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1237000</th>
-<th>Хранение и переработка плодов и овощей</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1237000</td>
+<td>Хранение и переработка плодов и овощей</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>123701 3</td>
@@ -18975,31 +21451,37 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>
-1300000 – Связь, телекоммуникации и информационные технологии
+<td>1300000</td>
+<td>
+Связь, телекоммуникации и информаци-онные техно-логии
 Электронная техника
-</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th>1301000</th>
-<th>Электронные приборы и устройства</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1301000</td>
+<td>Электронные приборы и устройства</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>130101 3</td>
@@ -19014,28 +21496,37 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>Автоматика и управления</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td>Автоматика и управления</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th>1302000</th>
-<th>Автоматизация и управление (по профилю)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1302000</td>
+<td>
+Автоматизация
+и управление (по профилю)***
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>130201 2</td>
@@ -19050,7 +21541,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19066,7 +21558,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19082,7 +21578,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19098,18 +21598,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1303000</th>
-<th>Автоматика, телемеханика и управление движением на железнодорожном транспорте</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1303000</td>
+<td>Автоматика, телемеханика и управление движением на железнодорожном транспорте***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>130301 2</td>
@@ -19124,7 +21629,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19140,7 +21646,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19156,7 +21663,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19172,40 +21680,50 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>Информатика и вычислительная техника</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td>Информатика и вычислительная техника</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th>1304000</th>
-<th>Вычислительная техника и программное обеспечение (по видам)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1304000</td>
+<td>Вычислительная техника и программное обеспечение (по видам)**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>130401 2</td>
 <td></td>
 <td>Оператор электронно-вычислительных машин</td>
-<td></td>
+<td>
+1год
+10 мес.
+</td>
 <td>
 2 года
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19218,7 +21736,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19234,7 +21753,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19250,7 +21773,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19266,7 +21793,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19282,7 +21813,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19298,7 +21833,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19311,7 +21850,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19321,24 +21861,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td></td>
 <td></td>
-<td>
-4 года
+<td></td>
+<td colspan="2">
+2 года
 10 мес.
 </td>
 <td>
-3 года
-10 мес.
+1 год
+10мес.
 </td>
 </tr>
 <tr>
-<th>1305000</th>
-<th>Информационные системы (по областям применения)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1305000</td>
+<td>Информацион-ные системы (по областям применения)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>130501 1</td>
@@ -19350,7 +21892,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19366,7 +21909,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19379,28 +21926,31 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>Связь, радиоэлектроника и телекоммуникации</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td>Связь, радиоэлектрони-ка и телеком-муникации</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th>1306000</th>
-<th>Радиоэлектроника и связь (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1306000</td>
+<td>Радиоэлектроника и связь (по видам)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>130601 2</td>
@@ -19412,7 +21962,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19425,7 +21976,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19438,7 +21990,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19451,7 +22004,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19467,7 +22021,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19483,7 +22038,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19499,7 +22055,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19515,7 +22075,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19531,7 +22095,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19541,24 +22106,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td></td>
 <td></td>
-<td>
-4 года
+<td></td>
+<td colspan="2">
+2 года
 10 мес.
 </td>
-<td>
-3 года
-10 мес.
-</td>
+<td>1 год 10 мес.</td>
 </tr>
 <tr>
-<th>1307000</th>
-<th>Эксплуатация линейных сооружений электросвязи и проводного вещания</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1307000</td>
+<td>Эксплуатация линейных сооружений электросвязи и проводного вещания***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>130701 2</td>
@@ -19570,7 +22134,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19583,7 +22148,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19596,7 +22162,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19609,7 +22176,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19625,7 +22193,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19641,18 +22213,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1308000</th>
-<th>Эксплуатация автоматизированных систем связи</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1308000</td>
+<td>Эксплуатация автоматизиро-ванных систем связи***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>130801 2</td>
@@ -19664,7 +22241,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19677,7 +22255,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19693,7 +22272,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19709,7 +22292,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19725,18 +22312,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1309000</th>
-<th>Оптическое и электронное оборудование (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1309000</td>
+<td>Оптическое и электронное оборудование (по видам)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>130901 3</td>
@@ -19751,7 +22343,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19767,7 +22360,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19783,18 +22380,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1310000</th>
-<th>Техническая эксплуатация транспортного радиоэлектронного оборудования (по видам транспорта)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1310000</td>
+<td>Техническая эксплуатация транспортного радиоэлектрон-ного оборудо-вания (по видам транспорта)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>131001 3</td>
@@ -19809,7 +22408,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19825,7 +22428,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19841,13 +22448,17 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>131004 3</td>
 <td></td>
-<td>nullТехник по радионавигации, радиолокации и связи</td>
+<td>Техник по радионавигации, радиолокации и связи</td>
 <td></td>
 <td>
 3 года
@@ -19857,13 +22468,17 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>131005 3</td>
 <td></td>
-<td>nullТехник-электрик</td>
+<td>Техник-электрик</td>
 <td></td>
 <td>
 3 года
@@ -19873,13 +22488,17 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>131006 3</td>
 <td></td>
-<td>nullТехник-электроник</td>
+<td>Техник-электроник</td>
 <td></td>
 <td>
 3 года
@@ -19889,13 +22508,17 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>131007 3</td>
 <td></td>
-<td>nullТехник по связи</td>
+<td>Техник по связи</td>
 <td></td>
 <td>
 3 года
@@ -19905,18 +22528,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1311000</th>
-<th>Эксплуатация устройств оперативной технологической связи железнодорожного транспорта</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1311000</td>
+<td>Эксплуатация устройств оперативной технологической связи железнодорож-ного транспорта</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>131101 3</td>
@@ -19931,28 +22559,34 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>1400000 – Строительство и коммунальное хозяйство</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1400000</td>
+<td>Строительство и коммунальное хозяйство</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<th>1401000</th>
-<th>Строительство и эксплуатация зданий и сооружений**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>140101 2</td>
@@ -19967,7 +22601,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19983,7 +22618,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -19999,7 +22635,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20015,7 +22652,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20031,7 +22669,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20047,7 +22686,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20063,7 +22703,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20079,7 +22720,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20095,7 +22737,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20111,7 +22754,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20127,7 +22771,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20143,7 +22788,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20159,7 +22805,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20175,7 +22822,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20191,7 +22839,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20207,7 +22856,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20223,7 +22873,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20236,7 +22887,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20249,7 +22901,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20262,7 +22915,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20278,7 +22932,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20291,7 +22949,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20300,11 +22959,15 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td>Специалист по каркасно-обшивным технологиям</td>
 <td></td>
 <td>
+3 года
+6 мес.
+</td>
+<td>
 2 года
-10 мес.
+6 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20317,7 +22980,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20330,7 +22994,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20343,7 +23008,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20353,24 +23019,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td></td>
 <td></td>
-<td>
-4 года
+<td></td>
+<td colspan="2">
+2 год
 10 мес.
 </td>
 <td>
-3 года
-10 мес.
+1 год
+10мес.
 </td>
 </tr>
 <tr>
-<th>1402000</th>
-<th>Техническая эксплуатация дорожно-строительных машин (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1402000</td>
+<td>Техническая эксплуатация дорожно-строительных машин (по видам)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>140201 2</td>
@@ -20381,8 +23049,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
+<td>
+1 год
+10 мес.
+</td>
 <td>10 мес.</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20395,7 +23067,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20408,7 +23081,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20421,7 +23095,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20434,7 +23109,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20447,7 +23123,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20463,7 +23140,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20476,7 +23154,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20489,7 +23168,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20501,8 +23181,9 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td>1год 10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20515,7 +23196,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20528,7 +23210,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20541,7 +23224,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20554,7 +23238,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20567,7 +23252,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20579,11 +23265,9 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td>
-1 год
-10 мес.
-</td>
-<td></td>
+<td>10 мес.</td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20596,7 +23280,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20609,7 +23294,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20622,7 +23308,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20638,18 +23325,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1403000</th>
-<th>Монтаж и эксплуатация внутренних санитарно-технических устройств, вентиляции и инженерных систем (по видам)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1403000</td>
+<td>Монтаж и эксплуатация внутренних санитарно-технических устройств, вентиляции и инженерных систем (по видам)**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>140301 2</td>
@@ -20661,7 +23353,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20677,7 +23370,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20693,13 +23387,14 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>140304 2</td>
 <td></td>
-<td>Монтажник систем вентиляции: кондиционирования воздуха, пневмотранспорта и аспирации</td>
+<td>Монтажник систем вентиля​ции: кондиционирования воздуха, пневмотранспорта и аспирации</td>
 <td>
 1 год
 10 мес.
@@ -20709,7 +23404,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20725,7 +23421,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20738,7 +23435,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20751,7 +23449,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20764,7 +23463,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20780,18 +23480,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1404000</th>
-<th>Очистные сооружения систем водоснабжения и водоотведения</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1404000</td>
+<td>Очистные сооружения систем водоснабжения и водоотведе-ния***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>140401 2</td>
@@ -20803,7 +23508,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20816,7 +23522,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20832,18 +23539,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1405000</th>
-<th>Монтаж и эксплуатация оборудования и систем газоснабжения**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1405000</td>
+<td>Монтаж и эксплуатация оборудования и систем газоснабжения**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>140501 2</td>
@@ -20855,7 +23567,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20868,7 +23581,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20881,7 +23595,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20897,18 +23612,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1406000</th>
-<th>Монтаж магистральных локальных и сетевых трубопроводов**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1406000</td>
+<td>Монтаж магистральных локальных и сетевых трубопрово-дов**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>140601 2</td>
@@ -20920,7 +23640,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20933,7 +23654,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20946,7 +23668,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -20962,18 +23685,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1407000</th>
-<th>Гидротехническое строительство</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1407000</td>
+<td>Гидротехничес-кое строитель-ство</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>140701 3</td>
@@ -20988,18 +23716,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1408000</th>
-<th>Строительство и эксплуатация городских путей сообщения</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1408000</td>
+<td>Строительство и эксплуатация городских путей сообщения</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>140801 3</td>
@@ -21014,18 +23747,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1409000</th>
-<th>Строительство железных дорог, путь и путевое хозяйство</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1409000</td>
+<td>Строительство железных дорог, путь и путевое хозяйство***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>140901 1</td>
@@ -21037,7 +23775,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21050,7 +23789,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21063,7 +23803,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21076,11 +23817,12 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>1409053</td>
+<td>140905 3</td>
 <td></td>
 <td>Техник-путеец-строитель</td>
 <td></td>
@@ -21092,18 +23834,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1410000</th>
-<th>Строительство автомобильных дорог и аэродромов</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1410000</td>
+<td>Строительство автомобильных дорог и аэродромов***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>141001 3</td>
@@ -21118,7 +23865,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21131,7 +23882,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21144,7 +23896,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21157,7 +23910,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21170,7 +23924,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21183,7 +23938,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21196,7 +23952,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21209,7 +23966,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21222,7 +23980,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21232,24 +23991,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 <td></td>
 <td></td>
 <td></td>
-<td>
-4 года
+<td></td>
+<td colspan="2">
+1 год
 10 мес.
 </td>
-<td>
-3 года
-10 мес.
-</td>
+<td>10 мес.</td>
 </tr>
 <tr>
-<th>1411000</th>
-<th>Мосты и транспортные тоннели</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1411000</td>
+<td>Мосты и транспортные тоннели</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>141101 3</td>
@@ -21264,18 +24022,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1412000</th>
-<th>Производство строительных изделий и конструкций**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1412000</td>
+<td>Производство строительных изделий и конструкций**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>141201 2</td>
@@ -21290,7 +24053,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21306,7 +24070,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21322,7 +24087,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21335,7 +24101,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21348,7 +24115,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21361,7 +24129,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21374,7 +24143,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21387,7 +24157,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21403,31 +24174,43 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>141210 2</td>
+<td>141210 3</td>
 <td></td>
 <td>Мастер по изготовлению и монтажу металлопластиковых изделий</td>
 <td></td>
 <td>
-2 года
-10 мес.
+3 года
+6 мес.
 </td>
-<td>10 мес.</td>
-<td></td>
+<td>
+2 года
+6 мес.
+</td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1413000</th>
-<th>Производство железобетонных и металлических изделий (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1413000</td>
+<td>Производство железобетонных и металлических изделий (по видам)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>141301 2</td>
@@ -21439,7 +24222,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21452,7 +24236,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21468,18 +24253,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1414000</th>
-<th>Мебельное производство (по видам)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1414000</td>
+<td>Мебельное производство (по видам)**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>141401 2</td>
@@ -21491,7 +24281,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21504,7 +24295,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21517,7 +24309,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21530,7 +24323,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21543,7 +24337,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21559,7 +24354,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21572,18 +24371,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1415000</th>
-<th>Лифтовое хозяйство и эскалаторы (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1415000</td>
+<td>Лифтовое хозяйство и эскалаторы (по видам)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>141501 2</td>
@@ -21595,7 +24396,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21611,7 +24413,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21627,7 +24433,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21643,18 +24453,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1416000</th>
-<th>Переработка отходов**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1416000</td>
+<td>Переработка отходов**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>141601 2</td>
@@ -21666,7 +24481,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21679,18 +24495,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1417000</th>
-<th>Дизайн интерьера, реставрация, реконструкция гражданских зданий</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1417000</td>
+<td>Дизайн интерьера, реставрация, реконструкция гражданских зданий</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>141701 3</td>
@@ -21705,18 +24523,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1418000</th>
-<th>Архитектура</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1418000</td>
+<td>Архитектура</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>141801 3</td>
@@ -21731,7 +24554,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21747,28 +24574,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>1500000 – Сельское хозяйство, ветеринария и экология</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th>1501000</th>
-<th>Техническое обслуживание и ремонт сельскохозяйственной техники**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1501000</td>
+<td>
+Техническое
+обслуживание и ремонт сельскохозяйст-венной техники**/***
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>150101 2</td>
@@ -21780,7 +24605,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21793,7 +24619,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21809,18 +24636,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1502000</th>
-<th>Агрономия</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1502000</td>
+<td>Агрономия***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>150201 2</td>
@@ -21832,7 +24664,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21845,7 +24678,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21861,7 +24695,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21877,7 +24715,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21893,7 +24735,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21909,18 +24755,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1503000</th>
-<th>Растениеводство**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1503000</td>
+<td>Растениеводство**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>150301 2</td>
@@ -21935,7 +24786,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21951,7 +24803,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21967,7 +24820,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21983,7 +24837,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -21996,7 +24851,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22012,7 +24868,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22025,7 +24882,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22038,7 +24896,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22054,7 +24913,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22070,7 +24930,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22086,7 +24947,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22099,7 +24961,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22115,7 +24978,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22131,18 +24995,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1504000</th>
-<th>Фермерское хозяйство (по профилю)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1504000</td>
+<td>Фермерское хозяйство (по профилю)**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>150401 2</td>
@@ -22154,7 +25020,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22167,7 +25034,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22183,7 +25051,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22199,7 +25068,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22215,7 +25085,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22228,7 +25099,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22241,7 +25113,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22257,7 +25130,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22270,7 +25144,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22286,7 +25161,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22302,18 +25178,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1505000</th>
-<th>Рыбное хозяйство (по видам)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1505000</td>
+<td>Рыбное хозяйство (по видам)**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>150501 2</td>
@@ -22328,7 +25206,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22344,7 +25223,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22360,7 +25240,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22376,18 +25257,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1506000</th>
-<th>Охотоведение и звероводство**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1506000</td>
+<td>Охотоведение и звероводство**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>150601 2</td>
@@ -22399,7 +25285,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22415,18 +25302,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1507000</th>
-<th>Пчеловодство и шелководство**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1507000</td>
+<td>Пчеловодство и шелководство**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>150701 2</td>
@@ -22441,7 +25330,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22457,7 +25347,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22473,18 +25364,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1508000</th>
-<th>Лесное хозяйство, садово-парковое и ландшафтное строительство (по видам)**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1508000</td>
+<td>Лесное хозяйство, садово-парковое и ландшафтное строительство (по видам)**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>150801 2</td>
@@ -22496,7 +25389,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22512,7 +25406,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22528,7 +25423,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22544,7 +25440,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22557,7 +25457,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22573,7 +25474,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22589,7 +25494,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22605,7 +25514,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22618,7 +25528,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22634,18 +25545,26 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1509000</th>
-<th>Экология и природоохранная деятельность (по видам)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1509000</td>
+<td>
+Экология и природоохран-ная деятельность
+(по видам)
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>150901 3</td>
@@ -22660,7 +25579,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22676,7 +25599,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22692,7 +25619,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22708,7 +25639,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22724,18 +25659,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1510000</th>
-<th>Механизация сельского хозяйства**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1510000</td>
+<td>Механизация сельского хозяйства**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>151001 2</td>
@@ -22747,7 +25687,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22760,7 +25701,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22776,7 +25718,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22792,18 +25738,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1511000</th>
-<th>Землеустройство</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1511000</td>
+<td>Землеустройство***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>151101 2</td>
@@ -22815,7 +25766,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22831,7 +25783,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22847,18 +25803,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 6 мес.
 </td>
-<td></td>
+<td>
+1 год
+6 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1512000</th>
-<th>Зоотехния**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1512000</td>
+<td>Зоотехния**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>151201 2</td>
@@ -22870,7 +25831,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22883,7 +25845,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22896,7 +25859,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22909,7 +25873,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22922,7 +25887,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22935,7 +25901,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22948,7 +25915,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22961,7 +25929,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22977,7 +25946,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -22993,7 +25963,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23006,7 +25980,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23019,18 +25994,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1513000</th>
-<th>Ветеринария**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1513000</td>
+<td>Ветеринария**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>151301 2</td>
@@ -23042,7 +26019,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23055,7 +26033,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23068,7 +26047,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23081,7 +26061,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23097,7 +26078,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23113,7 +26098,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23129,7 +26118,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23145,18 +26138,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1514000</th>
-<th>Экология и рациональное использование природных ресурсов (по отраслям)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1514000</td>
+<td>Экология и рациональное использование природных ресурсов (по отраслям)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>151401 2</td>
@@ -23168,7 +26166,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23181,7 +26180,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23194,7 +26194,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23207,7 +26208,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23220,7 +26222,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23233,7 +26236,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23246,7 +26250,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23259,7 +26264,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23275,18 +26281,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1515000</th>
-<th>Гидрология и метеорология</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1515000</td>
+<td>Гидрология и метеорология</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>151501 3</td>
@@ -23301,7 +26312,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23317,7 +26332,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23333,7 +26352,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23349,18 +26372,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1516000</th>
-<th>Пожарная безопасность</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1516000</td>
+<td>Пожарная безопасность</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>151601 3</td>
@@ -23375,18 +26403,23 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1517000</th>
-<th>Защита в чрезвычайных ситуациях (по профилю)</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1517000</td>
+<td>Защита в чрезвычайных ситуациях (по профилю)***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>151701 2</td>
@@ -23398,7 +26431,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23411,7 +26445,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23427,7 +26462,11 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23440,7 +26479,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23453,7 +26493,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23469,7 +26510,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23485,7 +26527,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23501,18 +26544,20 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 1 год
 10 мес.
 </td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<th>1518000</th>
-<th>Электрификация и автоматизация сельского хозяйства**</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td>1518000</td>
+<td>Электрификация и автоматизация сельского хозяйства**/***</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>151801 2</td>
@@ -23524,7 +26569,8 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -23537,13 +26583,14 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 10 мес.
 </td>
 <td>10 мес.</td>
-<td></td>
+<td>10 мес.</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>151803 3</td>
 <td></td>
-<td>Техник электрик</td>
+<td>Техник-электрик</td>
 <td></td>
 <td>
 3 года
@@ -23553,15 +26600,19 @@ source: https://zan.gov.kz/client/#!/doc/99316/rus/22.01.2016
 2 года
 10 мес.
 </td>
-<td></td>
+<td>
+1 год
+10 мес.
+</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 </table>
 
 Примечание:
 
-Нормативный срок освоения образовательных программ технического и профессионального, послесреднего образования на базе технического и профессионального, послесреднего и высшего образования составляет 10 мес., 1 год 6 мес., 1 год 10 мес. и устанавливается в зависимости от входного уровня квалификации и профиля обучения с учетом родственности специальности;
+*срок обучения на базе основного среднего образования с художественной профессионализацией.
 
-* на базе основного среднего образования с художественной профессионализацией.
+**срок обучения для технического и профессионального, послесреднего образования для лиц с особыми образовательными потребностями.
 
-**Нормативный срок освоения образовательных программ технического и профессионального, послесреднего образования для лиц с особыми образовательными потребностями определяется организацией образования.
+***срок обучения по двухуровневой модели обучения
