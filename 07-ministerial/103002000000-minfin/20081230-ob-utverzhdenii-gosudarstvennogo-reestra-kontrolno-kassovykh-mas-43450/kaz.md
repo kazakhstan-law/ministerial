@@ -1,5 +1,5 @@
 ---
-version_id: AI43450_46
+version_id: AI43450_48
 act_code: '43450'
 language: kaz
 title: Бақылау-кассалық машиналардың мемлекеттік тізілімін бекіту туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103002000000'
 approval_date: 2008-12-30
-version_date: 2017-02-16
+version_date: 2017-03-03
 registry_number: '43450'
 caused_by:
-  code: '110589'
+  code: '111051'
   title: «Бақылау-кассалық машиналардың мемлекеттік тізілімін бекіту туралы» Қазақстан Республикасы Қаржы министрінің 2008 жылғы 30 желтоқсандағы № 635 бұйрығына толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/110589/kaz
-source: https://zan.gov.kz/client/#!/doc/43450/kaz/16.02.2017
+  link: https://zan.gov.kz/client/#!/doc/111051/kaz
+source: https://zan.gov.kz/client/#!/doc/43450/kaz/03.03.2017
 ---
 
 # Бақылау-кассалық машиналардың мемлекеттік тізілімін бекіту туралы
@@ -53,1038 +53,1055 @@ N 635 бұйрығына
 
 ## Бақылау-кассалық машиналардың мемлекеттік тізілімі
 
-> *Ескерту. 1-қосымша жаңа редакцияда – ҚР Қаржы министрінің 26.12.2016 № 690 (алғаш ресми жарияланған күнінен кейін он күнтізбелік күн өткен соң қолданысқа енгізіледі); өзгеріс енгізілді – 16.02.2017 № 109 (алғаш ресми жарияланған күнінен кейін он күнтізбелік күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.*
+> *Ескерту. 1-қосымша жаңа редакцияда – ҚР Қаржы министрінің 26.12.2016 № 690 (алғаш ресми жарияланған күнінен кейін он күнтізбелік күн өткен соң қолданысқа енгізіледі); өзгеріс енгізілді – 16.02.2017 № 109 (алғаш ресми жарияланған күнінен кейін он күнтізбелік күн өткен соң қолданысқа енгізіледі); 03.03.2017 № 147 (алғаш ресми жарияланған күнінен кейін он күнтізбелік күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.*
 
 <table>
 <tr>
-<td colspan="2">№</td>
-<td colspan="4">Бақылау-кассалық машиналар атаулары</td>
+<td>№</td>
+<td colspan="2">Бақылау-кассалық машиналар атаулары</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>мемлекеттік кірістер органдарына деректерді беру функциясы жоқ</td>
-<td colspan="3">мемлекеттік кірістер органдарына директерді беру функциясы бар</td>
+<td>мемлекеттік кірістер органдарына директерді беру функциясы бар</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
+<td>1.</td>
 <td>CASIO FE-800 RF</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
+<td>2.</td>
 <td>CASIO FE-700 RF</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
+<td>3.</td>
 <td>DATECS MP-500</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
+<td>4.</td>
 <td>ISM 3000 RF</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
+<td>5.</td>
 <td>KVARK ECR-38 RF</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
+<td>6.</td>
 <td>KVARK TCCR 2000 RF</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
+<td>7.</td>
 <td>MICROS 8700 HRS F</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
+<td>8.</td>
 <td>SAMSUNG ER-250 RF</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
+<td>9.</td>
 <td>SAMSUNG ER-4615 RF</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
+<td>10.</td>
 <td>SHARP ЕR-A 250 RF</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
+<td>11.</td>
 <td>АМС 100 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
+<td>12.</td>
 <td>АРКУС-КАСБИ 01 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
+<td>13.</td>
 <td>АСТРА-100 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
+<td>14.</td>
 <td>АСТРА-200 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
+<td>15.</td>
 <td>ЕЛЕКТРОНИКА 92-06 КФ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
+<td>16.</td>
 <td>ЕЛЕКТРОНИКА 92-06 МКФ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">17.</td>
+<td>17.</td>
 <td>ЕЛЕКТРОНИКА-ГРАНИТ 92-01 КФ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">18.</td>
+<td>18.</td>
 <td>ЕЛЕКТРОНИКА-ГРАНИТ 92-01 НКФ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">19.</td>
+<td>19.</td>
 <td>ЕЛЕКТРОНИКА-ГРАНИТ 92-07 КФ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">20.</td>
+<td>20.</td>
 <td>КАРАТ-КОЛИБРИ МF</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">21.</td>
+<td>21.</td>
 <td>КАРАТ М 5</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">22.</td>
+<td>22.</td>
 <td>КАСБИ-02 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">23.</td>
+<td>23.</td>
 <td>KС ФП &quot; АИС БиТТЛ&quot; (1.3 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">24.</td>
+<td>24.</td>
 <td>ГЕЛИОС-004Ф-АТ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">25.</td>
+<td>25.</td>
 <td>МЕБИУС 8 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">26.</td>
+<td>26.</td>
 <td>МЕРКУРИЙ 111 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">27.</td>
+<td>27.</td>
 <td>МЕРКУРИЙ 112 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">28.</td>
+<td>28.</td>
 <td>МЕРКУРИЙ 115 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">29.</td>
+<td>29.</td>
 <td>МИКРО-101 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">30.</td>
+<td>30.</td>
 <td>МИКРО-103 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">31.</td>
+<td>31.</td>
 <td>МИКРО-104 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">32.</td>
+<td>32.</td>
 <td>МИКРО-105 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">33.</td>
+<td>33.</td>
 <td>МИКРО-2001 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">34.</td>
+<td>34.</td>
 <td>МИНИКА 1101 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">35.</td>
+<td>35.</td>
 <td>МИНИКА 1102 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">36.</td>
+<td>36.</td>
 <td>ОКА 102 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">37.</td>
+<td>37.</td>
 <td>ОКА 190 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">38.</td>
+<td>38.</td>
 <td>ОКА 500.0-01 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">39.</td>
+<td>39.</td>
 <td>ОКА 500.0-02 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">40.</td>
+<td>40.</td>
 <td>ОКА 500.0-03 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">41.</td>
+<td>41.</td>
 <td>ОКА 500.0-05 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">42.</td>
+<td>42.</td>
 <td>ОКА 2000 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">43.</td>
+<td>43.</td>
 <td>РАДА-Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">44.</td>
+<td>44.</td>
 <td>ШТРИХ-М 850 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">45.</td>
+<td>45.</td>
 <td>ЭКР 2101.1 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">46.</td>
+<td>46.</td>
 <td>ЭКР 2102 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">47.</td>
+<td>47.</td>
 <td>ЭКР 3102 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">48.</td>
+<td>48.</td>
 <td>ЭЛВЕС 01-01 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">49.</td>
+<td>49.</td>
 <td>ЭЛВЕС 01-02 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">50.</td>
+<td>50.</td>
 <td>ЭЛВЕС 01-03 Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">51.</td>
+<td>51.</td>
 <td>ЭЛВЕС-МИКРО-Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">52.</td>
+<td>52.</td>
 <td>ЭЛИТ-МИНИ-Ф</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">53.</td>
+<td>53.</td>
 <td>ЭЛИТ-МОБИЛ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">54.</td>
+<td>54.</td>
 <td>БКС Equation DBA (3.4 нұсқасы) Cashier System (9.06 DD нұсқасы) фронт-офистік филиалдық қосымшасымен</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">55.</td>
+<td>55.</td>
 <td>БКС &quot; ATFPro&quot; (2.0 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">56.</td>
+<td>56.</td>
 <td>Бөлшек сауда бизнесінің автоматтандырылған банктік жүйесі &quot;Аманат Плюс&quot; (1.​5.​8.​1 нұсқасы)&quot;</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">57.</td>
+<td>57.</td>
 <td>&quot;Банк жұмыс күні&quot;, &quot;Кредиттер&quot;, &quot;Депозиттер&quot; модульдерінен және &quot;жылдам аударымдар /жылдам түсім&quot; жүйелерінен тұратын БКС кешені (1.6 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">58.</td>
+<td>58.</td>
 <td>ТРII (10.1 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">59.</td>
+<td>59.</td>
 <td>FunChip (3.21 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">60.</td>
+<td>60.</td>
 <td>TRANSMASTER (2.31 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">61.</td>
+<td>61.</td>
 <td>Банктік Ақпараттық кешен IBSO (3.4 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">62.</td>
+<td>62.</td>
 <td>Бірыңғай төлем кешені І-Payment (1.0 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">63.</td>
+<td>63.</td>
 <td>Бөлшек сауда бизнесінің автоматтандырылған банктік жүйесі &quot;Аманат&quot;/&quot;Аманат 2000&quot; (5.0 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">64.</td>
+<td>64.</td>
 <td>Бөлшек сауда бизнесінің автоматтандырылған банктік жүйесі &quot;Аманат&quot; (5.0 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">65.</td>
+<td>65.</td>
 <td>Бөлшек сауда бизнесінің автоматтандырылған банктік жүйесі &quot;Аманат Плюс&quot; для MS DOS и Novell 2.20 и 4.11 (7.2.0 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">66.</td>
+<td>66.</td>
 <td>Автоматтандырылған банктік жүйе RS-Bank (5.00.44 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">67.</td>
+<td>67.</td>
 <td>Автоматтандырылған банктік жүйе RS-Bank (5.1 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">68.</td>
+<td>68.</td>
 <td>Автоматтандырылған банктік жүйе &quot; Ва-Банк&quot; (5.0 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">69.</td>
+<td>69.</td>
 <td>Біріктірілген банктік жүйе &quot;БИСквит&quot; (4.1а нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">70.</td>
+<td>70.</td>
 <td>Автоматтандырылған банктік ақпараттық жүйе &quot;Прагма&quot; (Прагма/ТХ нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">71.</td>
+<td>71.</td>
 <td>Автоматтандырылған банктік жүйе RS-Retail (5.​10.​068.​16 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">72.</td>
+<td>72.</td>
 <td>Автоматтандырылған банктік жүйе RS-Bank (5.​00.​048.​2 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">73.</td>
+<td>73.</td>
 <td>Бөлшек сауда бизнесінің автоматтандырылған банктік жүйесі &quot;Аманат-Почта&quot; (5.10 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">74.</td>
+<td>74.</td>
 <td>ШТРИХ-ФР-Ф-KZ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">75.</td>
+<td>75.</td>
 <td>ШТРИХ-МИКРО-KZФ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">76.</td>
+<td>76.</td>
 <td>СПАРК-617ТФKZ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">77.</td>
+<td>77.</td>
 <td>ПРИМ-07ФKZ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">78.</td>
+<td>78.</td>
 <td>ЭЛИТ-МИКРО KZ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">79.</td>
+<td>79.</td>
 <td>ОКА 600Ф KZ (1 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">80.</td>
+<td>80.</td>
 <td>ОКА ПФ KZ (2 нұсқасы )</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">81.</td>
+<td>81.</td>
 <td>MSTAR Ф KZ (3.1 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">82.</td>
+<td>82.</td>
 <td>ОРИОН-100Ф KZ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">83.</td>
+<td>83.</td>
 <td>МЕРКУРИЙ 114.1 Ф KZ (03 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">84.</td>
+<td>84.</td>
 <td>ПРИМ 21 KZ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">85.</td>
+<td>85.</td>
 <td>МЕРКУРИЙ 130 Ф KZ (130KZ 037 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">86.</td>
+<td>86.</td>
 <td>МЕРКУРИЙ 120 Ф KZ (KAZ 120 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">87.</td>
+<td>87.</td>
 <td>Фортуна СК 05</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">88.</td>
+<td>88.</td>
 <td>Банктік қызметті басқарудың ақпараттық жүйесі &quot; Новая Афина&quot;</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">89.</td>
+<td>89.</td>
 <td>АМС 200 Ф KZ (ПО v1.0.5 KZ КС29D8 Қазақстан Республикасы нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">90.</td>
+<td>90.</td>
 <td>ОКА МФ KZ (ККМ 01; 11.03 БҚ нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">91.</td>
+<td>91.</td>
 <td>Банктік ақпараттық кешен IBSO (5.5 нұсқасы )</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">92.</td>
+<td>92.</td>
 <td>Компьютерлік жүйе &quot;Colvir&quot; (CBS-2 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">93.</td>
+<td>93.</td>
 <td>Банктік компьютерлік жүйе &quot;SCORE&quot; (1.8.2 нұсқасы )</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">94.</td>
+<td>94.</td>
 <td>ЭКР 3110 ФKZ (979-00 нұсқасы )</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">95.</td>
+<td>95.</td>
 <td>ЭКР 3110.03 ФKZ (979-00 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">96.</td>
+<td>96.</td>
 <td>Феликс РФ KZ (230-01 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">97.</td>
+<td>97.</td>
 <td>АТРОН 104Ф KZ (01 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">98.</td>
+<td>98.</td>
 <td>NCR 7197-printer-Мебиус 3K KZ (2.89 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">99.</td>
+<td>99.</td>
 <td>Меркурий-180ФKZ (180RV 1-​1.​hex 20-704 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">100.</td>
+<td>100.</td>
 <td>RS-Bank V.6</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">101.</td>
+<td>101.</td>
 <td>TranzWare (TWO 4.*, TWCMS 4.* нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">102.</td>
+<td>102.</td>
 <td>XpressSolutions 2.x</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">103.</td>
+<td>103.</td>
 <td>Альфа-400 ФKZ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">104.</td>
+<td>104.</td>
 <td>Мальва FKZ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">105.</td>
+<td>105.</td>
 <td>IXORA</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">106.</td>
+<td>106.</td>
 <td>ПОРТ MP-55L ФKZ (В.18.71 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">107.</td>
+<td>107.</td>
 <td>ПОРТ MP-55B ФKZ (В.18.51 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">108.</td>
+<td>108.</td>
 <td>ПОРТ DP-50 ФKZ (В.18.41 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">109.</td>
+<td>109.</td>
 <td>ПОРТ FP-300 ФKZ (1.00KZ нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">110.</td>
+<td>110.</td>
 <td>ПОРТ FP-550 ФKZ (1.00KZ нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">111.</td>
+<td>111.</td>
 <td>ПОРТ FP-1000 ФKZ (1.00KZ нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">112.</td>
+<td>112.</td>
 <td>Банктік ақпараттық жүйе - Clevisbank</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">113.</td>
+<td>113.</td>
 <td>ОСТ-Сервер</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">114.</td>
+<td>114.</td>
 <td>ПРИМ-88ФKZ (В.18.41 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">115.</td>
+<td>115.</td>
 <td>Аура-01ФР-К2 (3.0.633-нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">116.</td>
+<td>116.</td>
 <td>РауУКР - 80К2 (664-нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">117.</td>
+<td>117.</td>
 <td>Халықтық бөлшек төлемдерін өңдеу жүйесі &quot;Авангард Plat&quot; компьютерлік жүйесі (1.0 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">118.</td>
+<td>118.</td>
 <td>Бағдарламалық фискализатор&quot; компьютерлік жүйесі</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">119.</td>
+<td>119.</td>
 <td>ҚТБЖ - Қазақстан&quot; компьютерлік жүйесі (1.0 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">120.</td>
+<td>120.</td>
 <td>&quot;Бөлшек төлемдерін өңдеу жүйесі &quot;Astana-Plat&quot; компьютерлік жүйесі (2.0 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">121.</td>
+<td>121.</td>
 <td>ПОРТ МР-55B ФKZ (18.52 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">122.</td>
+<td>122.</td>
 <td>ПОРТ МР-55L ФKZ (18.72 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">123.</td>
+<td>123.</td>
 <td>ПОРТ МР-55L ФKZ (18.73 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">124.</td>
+<td>124.</td>
 <td>&quot;Таулинк&quot; компьютерлік жүйесі (V1 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">125.</td>
+<td>125.</td>
 <td>Меркурий 115 ФKZ (115KZ010 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">126.</td>
+<td>126.</td>
 <td>МИНИКА 1105 Ф транспорттық (720-00 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">127.</td>
+<td>127.</td>
 <td>Штрих-Мини-ФР-Ф-КZ (А4 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">128.</td>
+<td>128.</td>
 <td>Штрих-Light - ФР-Ф-КZ (А4 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">129.</td>
+<td>129.</td>
 <td>Штрих-М-ФР-Ф-КZ (А4 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">130.</td>
+<td>130.</td>
 <td>АТРОН 200 Ф КZ (09.09 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">131.</td>
+<td>131.</td>
 <td>ПОРТ FP-60 ФKZ (1.00KZ нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">132.</td>
+<td>132.</td>
 <td>Миника 1102 ФKZ (01KZ нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">133.</td>
+<td>133.</td>
 <td>Миника 1102 ФKZ (02KZ нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">134.</td>
+<td>134.</td>
 <td>ЭКР 2102 ФKZ (01KZ нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">135.</td>
+<td>135.</td>
 <td>ЭКР 2102 ФKZ (02KZ нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">136.</td>
+<td>136.</td>
 <td>Компьютерлік жүйе &quot;Quickpay&quot; (1.0 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">137.</td>
+<td>137.</td>
 <td>Компьютерлік жүйе &quot;AnyWay&quot; (1.​1.​30.​11.77 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">138.</td>
+<td>138.</td>
 <td>Аура-02ФP-KZ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">139.</td>
+<td>139.</td>
 <td>&quot;Colvir Banking System 3.х (CBS-3)&quot; компьютерлік жүйе</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">140.</td>
+<td>140.</td>
 <td>MINI-T51.12KZ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">141.</td>
+<td>141.</td>
 <td>MINI-T61.12KZ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">142.</td>
+<td>142.</td>
 <td>Компьютерлік жүйе &quot;Mobius&quot;</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">143.</td>
+<td>143.</td>
 <td>OKA ПФ KZ (П1-03 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">144.</td>
+<td>144.</td>
 <td>ОКА МФ KZ (П2-03 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">145.</td>
+<td>145.</td>
 <td>ОКА 102Ф KZ (102-02 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">146.</td>
+<td>146.</td>
 <td>Атрон - 200Ф KZ (200-02 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">147.</td>
+<td>147.</td>
 <td>Автоматтандырылған банктік ақпараттық жүйе &quot;ВА - Банк&quot;, 6.0 нұсқасы&quot;</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">148.</td>
+<td>148.</td>
 <td>Компьютерлік жүйе &quot;ЦФТ-Банк&quot; (6 ядро нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">149.</td>
+<td>149.</td>
 <td>Yarus-TK-KZ</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">150.</td>
+<td>150.</td>
 <td>Компьютерлік жүйе &quot;Payments.IQ&quot; (2.5.4. нұсқасы)</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2">151.</td>
 <td></td>
-<td colspan="3">ПОРТ FPG-60 ФКZ</td>
 </tr>
 <tr>
-<td colspan="2">152.</td>
+<td>151.</td>
 <td></td>
-<td colspan="3">ПОРТ FPG-300 ФКZ</td>
+<td>ПОРТ FPG-60 ФКZ</td>
 </tr>
 <tr>
-<td colspan="2">153.</td>
+<td>152.</td>
 <td></td>
-<td colspan="3">ПОРТ МР-55В ФКZ ОФД нұсқасы</td>
+<td>ПОРТ FPG-300 ФКZ</td>
 </tr>
 <tr>
-<td colspan="2">154.</td>
+<td>153.</td>
 <td></td>
-<td colspan="3">ПОРТ DPG-25 ФКZ</td>
+<td>ПОРТ МР-55В ФКZ ОФД нұсқасы</td>
 </tr>
 <tr>
-<td colspan="2">155.</td>
+<td>154.</td>
 <td></td>
-<td colspan="3">ПОРТ FPG-1000 ФКZ</td>
+<td>ПОРТ DPG-25 ФКZ</td>
 </tr>
 <tr>
-<td colspan="2">156.</td>
+<td>155.</td>
+<td></td>
+<td>ПОРТ FPG-1000 ФКZ</td>
+</tr>
+<tr>
+<td>156.</td>
 <td>Автоматтандырылған банктік ақпараттық жүйе QPRAGMA 4.​ID нұсқасы</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">157.</td>
+<td>157.</td>
 <td></td>
-<td colspan="3">
+<td>
 PAX S80 NORD OnlineKZ (1.1
 нұсқасы)
 </td>
 </tr>
 <tr>
-<td colspan="2">158.</td>
+<td>158.</td>
 <td></td>
-<td colspan="3">YARUS-TK-ON-KZ</td>
+<td>YARUS-TK-ON-KZ</td>
 </tr>
 <tr>
-<td colspan="2">159.</td>
+<td>159.</td>
 <td></td>
-<td colspan="3">
+<td>
 ПОРТ DPG-35 ФКZ ломбардтарға
 және шыны ыдысты қабылдау
 орындарын арналған
 </td>
 </tr>
 <tr>
-<td colspan="2">160.</td>
+<td>160.</td>
 <td></td>
-<td colspan="3">
+<td>
 ЭКР 2102 ФKZ (Online KZ
 нұсқасы)
 </td>
 </tr>
 <tr>
-<td colspan="2">161.</td>
+<td>161.</td>
 <td></td>
-<td colspan="3">
+<td>
 Миника 1102 ФKZ (Online KZ
 нұсқасы)
 </td>
 </tr>
 <tr>
-<td colspan="2">162.</td>
+<td>162.</td>
 <td></td>
-<td colspan="3">
+<td>
 Меркурий - 115 ФKZ (Online KZ
 нұсқасы)
 </td>
 </tr>
 <tr>
-<td colspan="2">163.</td>
+<td>163.</td>
 <td></td>
-<td colspan="3">Штрих-MPAY-K-KZ</td>
+<td>Штрих-MPAY-K-KZ</td>
 </tr>
 <tr>
-<td colspan="2">164.</td>
+<td>164.</td>
 <td></td>
-<td colspan="3">IKKM-Light-KZ</td>
+<td>IKKM-Light-KZ</td>
 </tr>
 <tr>
-<td colspan="2">165.</td>
+<td>165.</td>
 <td></td>
-<td colspan="3">IKKM-touch-KZ</td>
+<td>IKKM-touch-KZ</td>
 </tr>
 <tr>
-<td colspan="2">166.</td>
+<td>166.</td>
 <td></td>
-<td colspan="3">IKKM-standart-KZ</td>
+<td>IKKM-standart-KZ</td>
 </tr>
 <tr>
-<td colspan="2">167.</td>
+<td>167.</td>
 <td></td>
-<td colspan="3">Штрих-mobile-ККМ-KZ</td>
+<td>Штрих-mobile-ККМ-KZ</td>
 </tr>
 <tr>
-<td colspan="2">168.</td>
+<td>168.</td>
 <td></td>
-<td colspan="3">YARUS TK KZ online ОФД</td>
+<td>YARUS TK KZ online ОФД</td>
 </tr>
 <tr>
-<td colspan="2">169.</td>
+<td>169.</td>
 <td></td>
-<td colspan="3">АТРОН 200Ф KZ online</td>
+<td>АТРОН 200Ф KZ online</td>
 </tr>
 <tr>
-<td colspan="2">170.</td>
+<td>170.</td>
 <td>СПАРК-115ФКZ (1.0 нұсқасы)</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">171.</td>
+<td>171.</td>
 <td></td>
-<td colspan="3">
+<td>
 Меркурий 130 ФKZ (Online KZ
 нұсқасы)
 </td>
 </tr>
 <tr>
-<td colspan="2">172.</td>
+<td>172.</td>
 <td></td>
-<td colspan="3">
+<td>
 Меркурий 180 ФKZ (Online KZ
 нұсқасы)
 </td>
 </tr>
 <tr>
-<td colspan="2">173.</td>
+<td>173.</td>
 <td></td>
-<td colspan="3">&quot;ПОРТ DPG-150 ФКZ&quot;</td>
+<td>&quot;ПОРТ DPG-150 ФКZ&quot;</td>
 </tr>
 <tr>
-<td colspan="2">174.</td>
+<td>174.</td>
 <td></td>
-<td colspan="3">&quot;ОКА ПФ KZ online&quot;</td>
+<td>&quot;ОКА ПФ KZ online&quot;</td>
 </tr>
 <tr>
-<td colspan="2">175.</td>
+<td>175.</td>
 <td></td>
-<td colspan="3">&quot;ОКА МФ KZ online&quot;</td>
+<td>&quot;ОКА МФ KZ online&quot;</td>
 </tr>
 <tr>
-<td colspan="2">176.</td>
+<td>176.</td>
 <td></td>
-<td colspan="3">&quot;WEBKASSA 1.0&quot;</td>
+<td>&quot;WEBKASSA 1.0&quot;</td>
 </tr>
 <tr>
-<td colspan="2">177.</td>
+<td>177.</td>
 <td></td>
-<td colspan="3">
+<td>
 &quot;РАХ D210 NORD OnlineKZ&quot; (1.2
 нұсқасы)
 </td>
 </tr>
 <tr>
-<td colspan="2">178.</td>
+<td>178.</td>
 <td></td>
-<td colspan="3">&quot;ФР-ПТК-RR-02KZ&quot;</td>
+<td>&quot;ФР-ПТК-RR-02KZ&quot;</td>
 </tr>
 <tr>
-<td colspan="2">179.</td>
+<td>179.</td>
 <td></td>
-<td colspan="3">&quot;ФР-ПТК-RR-04KZ&quot;</td>
+<td>&quot;ФР-ПТК-RR-04KZ&quot;</td>
 </tr>
 <tr>
-<td colspan="2">180.</td>
+<td>180.</td>
 <td></td>
-<td colspan="3">&quot;ПОРТ FPG-350 ФКZ&quot;</td>
+<td>&quot;ПОРТ FPG-350 ФКZ&quot;</td>
 </tr>
 <tr>
-<td colspan="2">181.</td>
+<td>181.</td>
 <td></td>
-<td colspan="3">
+<td>
 &quot;Бағдарламалық фискализатор
 3.0.1&quot;
 </td>
 </tr>
 <tr>
-<td colspan="2">182.</td>
+<td>182.</td>
 <td></td>
-<td colspan="3">
+<td>
 КС &quot;Бөлшек сауда төлемдерін өңдеу жүйесі &quot;Astana-Plat&quot; 2.1online
 нұсқасы&quot;
 </td>
 </tr>
 <tr>
-<td colspan="2">183.</td>
+<td>183.</td>
 <td></td>
-<td colspan="3">&quot;Perfeсt м online kz нұсқасы&quot;</td>
+<td>&quot;Perfeсt м online kz нұсқасы&quot;</td>
 </tr>
 <tr>
-<td colspan="2">184.</td>
+<td>184.</td>
 <td></td>
-<td colspan="3">&quot;Штрих-Light-ПТКZ&quot;</td>
+<td>&quot;Штрих-Light-ПТКZ&quot;</td>
 </tr>
 <tr>
-<td colspan="2">185.</td>
+<td>185.</td>
 <td></td>
-<td colspan="3">&quot;Штрих-М-ПТКZ&quot;</td>
+<td>&quot;Штрих-М-ПТКZ&quot;</td>
 </tr>
 <tr>
-<td colspan="2">186.</td>
+<td>186.</td>
 <td></td>
-<td colspan="3">&quot;Штрих-ФР-ПТКZ&quot;</td>
+<td>&quot;Штрих-ФР-ПТКZ&quot;</td>
 </tr>
 <tr>
-<td colspan="2">187.</td>
+<td>187.</td>
 <td></td>
-<td colspan="3">&quot;Элтекс МК-КZ&quot;</td>
+<td>&quot;Элтекс МК-КZ&quot;</td>
 </tr>
 <tr>
-<td colspan="2">188.</td>
+<td>188.</td>
 <td></td>
-<td colspan="3">
+<td>
 &quot;Аппараттық-бағдарламалық
 кешен бақылау-касса
 машинасы Webkassa 1.0&quot;
 </td>
 </tr>
 <tr>
-<td colspan="2">189.</td>
+<td>189.</td>
 <td></td>
-<td colspan="3">&quot;YARUS M2100KZ&quot;</td>
+<td>&quot;YARUS M2100KZ&quot;</td>
 </tr>
 <tr>
-<td colspan="2">190.</td>
+<td>190.</td>
 <td></td>
-<td colspan="3">&quot;Perfect S ONLINE KZ нұсқасы&quot;</td>
+<td>&quot;Perfect S ONLINE KZ нұсқасы&quot;</td>
 </tr>
 <tr>
-<td colspan="2">191.</td>
+<td>191.</td>
 <td></td>
-<td colspan="3">&quot;eXpert SX ONLINE KZ нұсқасы &quot;</td>
+<td>&quot;eXpert SX ONLINE KZ нұсқасы &quot;</td>
 </tr>
 <tr>
-<td colspan="2">192.</td>
+<td>192.</td>
 <td></td>
-<td colspan="3">&quot;ОКА 102Ф KZ Online&quot;</td>
+<td>&quot;ОКА 102Ф KZ Online&quot;</td>
 </tr>
 <tr>
-<td colspan="2">193.</td>
+<td>193.</td>
 <td></td>
-<td colspan="3">&quot;Миника 1105 ФКZ online KZ нұсқасы ПО 785-00 нұсқасы&quot;</td>
+<td>&quot;Миника 1105 ФКZ online KZ нұсқасы ПО 785-00 нұсқасы&quot;</td>
 </tr>
 <tr>
-<td colspan="2">194.</td>
+<td>194.</td>
 <td></td>
-<td colspan="3">&quot;ПОРТ DPG-25ФКZ&quot; валюта айырбастау пунктерінің нұсқасы&quot;</td>
+<td>&quot;ПОРТ DPG-25ФКZ&quot; валюта айырбастау пунктерінің нұсқасы&quot;</td>
 </tr>
 <tr>
-<td colspan="2">195.</td>
+<td>195.</td>
 <td></td>
-<td colspan="3">
+<td>
 &quot;ПОРТ DPG-25ФКZ&quot; ломбардтарға және шыны ыдыстарды қабылдау пунктеріне
 арналған&quot;
 </td>
 </tr>
 <tr>
-<td colspan="2">196.</td>
+<td>196.</td>
 <td></td>
-<td colspan="3">&quot;ПОРТ DPG-35ФКZ&quot; валюта айырбастау орындары нұсқасы&quot;</td>
+<td>&quot;ПОРТ DPG-35ФКZ&quot; валюта айырбастау орындары нұсқасы&quot;</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td>197.</td>
+<td></td>
+<td>&quot;Таңдау+&quot;</td>
+</tr>
+<tr>
+<td>198.</td>
+<td></td>
+<td>&quot;NCR 7197-printer-Мебиус-3К KZ ONLINE&quot;</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
 <td>
 Қазақстан Республикасы
 Қаржы министрінің
