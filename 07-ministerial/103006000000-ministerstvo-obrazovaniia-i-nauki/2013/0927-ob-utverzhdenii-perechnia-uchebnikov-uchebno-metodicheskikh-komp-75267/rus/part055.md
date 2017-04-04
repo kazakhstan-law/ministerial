@@ -1854,4 +1854,343 @@ S.​Taylore-Knowles
 <td>2015</td>
 <td>Cambridge University Press</td>
 </tr>
+<tr>
+<td>124-1.</td>
+<td>Let's Celebrate! + Teacher's CD-Rom. Книга для чтения. CLIL</td>
+<td>Jenny Dooley, Virginia Evans</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-2.</td>
+<td>
+New Patches for Old + Multi-Rom.
+Книга для чтения
+</td>
+<td>Jenny Dooley, Vanessa Page</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-3.</td>
+<td>
+The Wild Swans by Hans Christian Andersen + Multi-Rom.
+Книга для чтения
+</td>
+<td>
+Retold by:
+Jenny Dooley, Charles Lloyd
+</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-4.</td>
+<td>
+The Little Mermaid by Hans Christian Andersen + Multi-Rom.
+Книга для чтения
+</td>
+<td>
+Retold by:
+Jenny Dooley, Anthony Kerr
+</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-5.</td>
+<td>
+The Father and His Sons
+by Aesop + Multi-Rom.
+Книга для чтения
+</td>
+<td>
+Retold by:
+Jenny Dooley, Vanessa Page
+</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-6.</td>
+<td>
+Cinderrella by Charles Perrault + Multi-Rom.
+Книга для чтения
+</td>
+<td>
+Retold by:
+Jenny Dooley, Charles Lloyd
+</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-7.</td>
+<td>
+Aladdin and the Magic Lamp + Multi-Rom.
+Книга для чтения
+</td>
+<td>Jenny Dooley, Charles Lloyd</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-8.</td>
+<td>
+The Wonderful Wizard of Oz by L.​Frank Baum + DVD, Audio CDs.
+Книга для чтения
+</td>
+<td>Retold by: Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-9.</td>
+<td>
+The Canterville Ghost by Oscar Wilde + DVD, CD1,2.
+Книга для чтения
+</td>
+<td>Retold by: Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-10.</td>
+<td>
+Alice's Adventures in Wonderland by Lewis Carroll + Multi-Rom.
+Книга для чтения
+</td>
+<td>Retold by: Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-11.</td>
+<td>
+The Stone Flower + Multi-Rom.
+Книга для чтения
+</td>
+<td>Jenny Dooley, Virginia Evans</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-12.</td>
+<td>
+The Selfish Giant by Oscar Wilde + CD.
+Книга для чтения
+</td>
+<td>Retold by: Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-13.</td>
+<td>
+Journey to the Centre of the Earth by Jules Verne + Multi-Rom.
+Книга для чтения
+Рабочая тетрадь
+Книга для учителя
+</td>
+<td>Retold by: Elizabeth Gray</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-14.</td>
+<td>
+Simon Decker and the Secret Formula + CD-Rom.
+Книга для чтения
+Рабочая тетрадь
+Книга для учителя
+</td>
+<td>Jenny Dooley</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-15.</td>
+<td>
+Perseus and Andromeda + CD-Rom.
+Книга для чтения
+Рабочая тетрадь
+Книга для учителя
+</td>
+<td>Jenny Dooley</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-16.</td>
+<td>
+Swan Lake + Multi-Rom.
+Книга для чтения
+Рабочая тетрадь
+Книга для учителя
+</td>
+<td>Jenny Dooley</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-17.</td>
+<td>
+A Christmas Carol by Charles Dickens + CD-Rom.
+Книга для чтения
+Рабочая тетрадь
+Книга для учителя
+</td>
+<td>Retold by: Jenny Dooley</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-18.</td>
+<td>
+The Blue Scarab + CD-Rom.
+Книга для чтения
+Рабочая тетрадь
+Книга для учителя
+</td>
+<td>Jenny Dooley</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-19.</td>
+<td>
+Orpheus Descending + CD-Rom.
+Книга для чтения
+Рабочая тетрадь
+Книга для учителя
+</td>
+<td>Jenny Dooley</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-20.</td>
+<td>
+Oliver Twist by Charles Dickens + CD-Rom.
+Книга для чтения
+Книга для учителя с играми
+</td>
+<td>Retold by: Jenny Dooley</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-21.</td>
+<td>
+Little Women by Louisa May Alcott + CD-Rom.
+Книга для чтения
+Книга для учителя с играми
+</td>
+<td>Retold by: Jenny Dooley and Virginia Evans</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-22.</td>
+<td>
+Treasure Island by Robert Louis Stevenson + CD.
+Книга для чтения
+</td>
+<td>Retold by: Jenny Dooley and Virginia Evans</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-23.</td>
+<td>
+Robin Hood + Multi-Rom.
+Книга для чтения
+</td>
+<td>Jenny Dooley and Virginia Evans</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-24.</td>
+<td>
+The Mysterious Island.
+by Jules Verne + CD
+Книга для чтения
+</td>
+<td>Retold by: Jenny Dooley and Virginia Evans</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-25.</td>
+<td>
+The Creeping Man by Sir Arthur Conan Doyle + CD.
+Книга для чтения
+</td>
+<td>Retold by: Jenny Dooley and Virginia Evans</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-26.</td>
+<td>
+The Killer Whale + CD
+Книга для чтения. CLIL
+</td>
+<td>Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-27.</td>
+<td>
+Saltwater Crocodiles + CD
+Книга для чтения. CLIL
+</td>
+<td>Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-28.</td>
+<td>
+The Octopus + CD
+Книга для чтения. CLIL
+</td>
+<td>Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-29.</td>
+<td>
+The Great White Shark + CD
+Книга для чтения. CLIL
+</td>
+<td>Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-30.</td>
+<td>
+Gharial Crocodiles.
+Книга для чтения CLIL
+Multi-Rom для ученика
+Multi-Rom для учителя
+</td>
+<td>Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>124-31.</td>
+<td>
+Venomous Snakes + CD
+Книга для чтения. CLIL
+</td>
+<td>Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
 </table>
