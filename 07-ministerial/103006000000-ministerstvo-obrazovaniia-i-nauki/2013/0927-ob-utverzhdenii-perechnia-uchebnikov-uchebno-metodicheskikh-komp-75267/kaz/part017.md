@@ -32,993 +32,1258 @@ Sarah Ackroyd
 <table>
 <tr>
 <td>1.</td>
-<td>Қазақ тілі. Оқулық</td>
 <td>
-С. Исаев,
-Г. Косымова
+Қазақ тiлi.
+Оқулық+ аудиодиск
 </td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
+<td>
+Б. Қапалбек,
+С. Жантасова,
+Т. Мадиева
+</td>
+<td>2017</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>2.</td>
 <td>
-Қазак тiлi.
-Оқыту әдістемесі
+Қазақ тiлi.
+Әдiстемелiк нұсқау
 </td>
 <td>
-Г. Қосымова
-С. Исаев
-К. Назаргалиева
+Б. Қапалбек,
+С. Жантасова
 </td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
+<td>2017</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>3.</td>
 <td>
-Әдебиет.
-Оқулық
+Қазақ тілі.
+Оқулық + үнтаспа
 </td>
 <td>
-Р. Кұтқожина,
-Қ. Бітібаева,
-Е. Арын
+Г. Косымова,
+Р. Рахметова
 </td>
-<td colspan="2">2016</td>
+<td>2017</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>
-Әдебиет.
+Қазақ тілі.
 Оқыту әдістемесі
 </td>
-<td>Е.Арын</td>
-<td colspan="2">2016</td>
+<td>
+Г. Косымова,
+Р. Рахметова,
+А. Юсуп
+</td>
+<td>2017</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Әдебиет. Хрестоматия</td>
 <td>
-Р.Кұтқожина, Ж.Сәметова
-Е. Арын
+Қазақ тілі.
+Оқулық
 </td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
+<td>
+Т. Ермекова,
+Н. Ильясова,
+Г. Тоқтыбаева
+</td>
+<td>2017</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>6.</td>
 <td>
-Қазақ әдебиетi.
-Оқулық.
+Қазақ тілі.
+Мұғалім кітабы
 </td>
 <td>
-Қ. Алпысбаев,
-Ж. Аймұхамбет,
-Қ. Байтанасова
+Т. Ермекова,
+Н. Ильясова,
+Г. Тоқтыбаева,
+К. Бертілеуова
 </td>
-<td colspan="2">2016</td>
-<td>Жазушы</td>
+<td>2017</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Қазақ әдебиетi. Әдiстемелiк нұсқау</td>
 <td>
-Ж. Аймұхамбет,
-Қ. Байтанасова
+Қазақ тілі.
+Дидактикалық материалдар
 </td>
-<td colspan="2">2016</td>
-<td>Жазушы</td>
+<td>
+Т. Ермекова,
+Г. Абдирасилова,
+С. Оданова,
+Р. Мунасаева
+</td>
+<td>2017</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>8.</td>
 <td>
-Қазақ әдебиеті.
-Оқулық
+Қазақ тілі.
+Диктанттар мен мазмұндамалар жинағы
 </td>
 <td>
-С.Тұрсынғалиева,
-А. Дәлелбекқызы
+Т. Ермекова,
+С. Оданова,
+К. Бертілеуова
 </td>
-<td colspan="2">2016</td>
+<td>2017</td>
 <td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>9.</td>
 <td>
-Қазақ әдебиеті
-Мұғалім кітабы
+Қазақ әдебиетi.
+Оқулық + аудиодиск
 </td>
 <td>
-С.Тұрсынғалиева,
-А.Дәлелбекқызы
+Б. Керімбекова,
+Ә. Қуанышбаева
 </td>
-<td colspan="2">2016</td>
-<td>Арман-ПВ</td>
+<td>2017</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>10.</td>
 <td>
-Қазақ әдебиеті
-Хрестоматия
+Қазақ әдебиетi.
+Әдiстемелiк нұсқау
 </td>
 <td>
-С.Тұрсынғалиева,
-А.Дәлелбекқызы
+Б. Керімбекова,
+Ә. Қуанышбаева
 </td>
-<td colspan="2">2016</td>
-<td>Арман-ПВ</td>
+<td>2017</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Русский язык. Учебник</td>
 <td>
-Исмагулова Б.,
-Саметова Ф.
+Қазақ әдебиетi.
+Хрестоматия
 </td>
-<td colspan="2">2016</td>
-<td>Арман-ПВ</td>
+<td>
+Б. Керімбекова,
+Ә. Қуанышбаева
+</td>
+<td>2017</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>12.</td>
 <td>
-Русский язык.
-Книга для учителя
+Қазақ әдебиеті.
+Оқулық + CD
 </td>
 <td>
-Исмагулова Б.,
-Саметова Ф.
+А. Ақтанова,
+А. Жундибаева
 </td>
-<td colspan="2">2016</td>
-<td>Арман-ПВ</td>
+<td>2017</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>13.</td>
 <td>
-Русский язык.
-Дидактические материалы
+Қазақ әдебиеті.
+Оқыту әдістемесі
 </td>
 <td>
-Исмагулова Б.,
-Саметова Ф.
+А. Ақтанова,
+А. Жундибаева
 </td>
-<td colspan="2">2016</td>
-<td>Арман-ПВ</td>
+<td>2017</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>Литературное чтение. Учебник</td>
 <td>
-Жаданова К.,
-Исаханова Д.
+Қазақ әдебиеті.
+Хрестоматия
 </td>
-<td colspan="2">2016</td>
-<td>Білім</td>
+<td>
+А. Ақтанова,
+А. Жундибаева
+</td>
+<td>2017</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>Литературное чтение. Хрестоматия</td>
 <td>
-Жаданова К.,
-Исаханова Д.
+Қазақ әдебиеті.
+Оқулық + CD
 </td>
-<td colspan="2">2016</td>
-<td>Білім</td>
+<td>
+С. Тұрсынғалиева,
+Р. Зайкенова
+</td>
+<td>2017</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>16.</td>
 <td>
-English.
-Оқулық
+Қазақ әдебиеті.
+Мұғалім кітабы
 </td>
 <td>
-Т. Аяпова,
-З. Әбілдаева,
-Ж. Тұтбаева
+С. Тұрсынғалиева,
+Р. Зайкенова
 </td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
+<td>2017</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>17.</td>
+<td>Қазақ әдебиеті. Хрестоматия</td>
 <td>
-Ағылшын тiлi.
-Оқыту әдістемесі
+С. Тұрсынғалиева,
+Р. Зайкенова
 </td>
-<td>
-Т.Аяпова,
-З.Әбілдаева, Ж.Тұтбаева
-</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
+<td>2017</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>18.</td>
 <td>
-Ағылшын тiлi.
-Оқу кітабы
+Русский язык и литература.
+Учебник
 </td>
 <td>
-Т.Аяпова,
-З.Әбілдаева, Ж.Тұтбаева.
+Жанпеис У.,
+Озекбаева Н.
 </td>
-<td colspan="2">2016</td>
+<td>2017</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>19.</td>
+<td>Русский язык и литература. Методическое руководство</td>
 <td>
-Ағылшын тiлi.
-Жұмыс кітабы
+Жанпеис У.,
+Озекбаева Н.
 </td>
-<td>
-Т. Аяпова,
-З. Әбілдаева,
-Ж. Тұтбаева
-</td>
-<td colspan="2">2016</td>
+<td>2017</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>20.</td>
 <td>
-Deutsch.
+Математика.
 Оқулық
 </td>
 <td>
-А. Артықбаева,
-Ұ. Байгелова,
-Б. Есімова,
-Р. Шалгынбаева
+Ә. Шыныбеков,
+Д. Шыныбеков
 </td>
-<td colspan="2">2016</td>
+<td>2017</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>21.</td>
 <td>
-Немiс тiлi.
-Оқыту әдістемесі
+Математика.
+Оқыту әдiстемесi
 </td>
 <td>
-А. Артықбаева,
-Ұ. Байгелова
+Ә. Шыныбеков,
+Д. Шыныбеков
 </td>
-<td colspan="2">2016</td>
+<td>2017</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>22.</td>
 <td>
-Немiс тiлi.
-Дидактикалык материалдар
+Математика.
+Дидактикалық материалдар
 </td>
-<td>
-Ұ. Байгелова,
-А. Садықова
-</td>
-<td colspan="2">2016</td>
+<td>Ә. Шыныбеков</td>
+<td>2017</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>23.</td>
 <td>
-Немiс тiлi.
-Оқу кітабы
+Математика.
+Оқулық. 1, 2 бөлім
 </td>
-<td>Ү. Таникина</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>24.</td>
-<td>Methode de Francais Marianne. Оқулық</td>
-<td>
-К. Дүйсекова,
-К. Фаизова
-</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>25.</td>
-<td>
-Француз тiлi.
-Оқыту әдістемесі
-</td>
-<td>
-К. Дүйсекова,
-К. Фаизова
-</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>26.</td>
-<td>
-Француз тiлi.
-Жұмыс кітабы
-</td>
-<td>К. Дүйсекова</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>27.</td>
-<td>
-Француз тiлi.
-Оқу кітабы
-</td>
-<td>Н. Арсланбаева</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>28.</td>
-<td>
-Алгебра.
-Оқулық
-</td>
-<td>А. Шыныбеков</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>29.</td>
-<td>
-Алгебра.
-Оқыту әдістемесі
-</td>
-<td>А. Шыныбеков</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>30.</td>
-<td>
-Алгебра.
-Дидактикалық материалдар
-</td>
-<td>А. Шыныбеков</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>31.</td>
-<td>Алгебра . Оқулық</td>
 <td>
 А. Әбілқасымова,
+В. Смирнов,
+Т. Кучер,
+В. Корчевский,
 З. Жұмағұлова,
-А. Абдиев,
-В. Корчевский
+Е. Тұяқов
 </td>
-<td colspan="2">2016</td>
+<td>2017</td>
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>32.</td>
+<td>24.</td>
 <td>
-Алгебра.
+Математика.
 Әдiстемелiк нұсқау
 </td>
 <td>
 А. Әбілқасымова,
-В. Корчевский,
-А. Абдиев
+В. Смирнов,
+Т. Кучер,
+Е. Тұяқов
 </td>
-<td colspan="2">2016</td>
+<td>2017</td>
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>33.</td>
+<td>25.</td>
 <td>
-Алгебра.
-Дидактикалық материалдар
-</td>
-<td>
-А. Әбілқасымова,
-З. Жұмағұлова,
-А. Абдиев
-</td>
-<td colspan="2">2016</td>
-<td>Мектеп</td>
-</tr>
-<tr>
-<td>34.</td>
-<td>
-Алгебра.
+Математика.
 Есептер жинағы
 </td>
 <td>
-С.Төлеубаева,
-В. Корчевский,
-А. Абдиев
-</td>
-<td colspan="2">2016</td>
-<td>Мектеп</td>
-</tr>
-<tr>
-<td>35.</td>
-<td>
-Геометрия.
-Оқулық
-</td>
-<td>А. Шыныбеков</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>36.</td>
-<td>
-Геометрия.
-Дидактикалық материалдар
-</td>
-<td>А. Шыныбеков</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>37.</td>
-<td>
-Геометрия.
-Оқулық
-</td>
-<td>
-К. Бүкүбаева,
-А. Миразова
-</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>38.</td>
-<td>
-Геометрия.
-Окыту әдістемесі
-</td>
-<td>К. Бүкүбаева</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>39.</td>
-<td>
-Геометрия.
-Дидактикалык материалдар
-</td>
-<td>
-К. Бүкүбаева,
-А. Миразова
-</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>40.</td>
-<td>
-Геометрия.
-Есептер мен жаттығулар жинағы
-</td>
-<td>
-К. Бүкүбаева,
-А.Миразова
-</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>41.</td>
-<td>
-Геометрия.
-Оқулық
-</td>
-<td>
-Ж. Қайдасов,
-Г. Досмағанбетова,
-А. Абдиев
-</td>
-<td colspan="2">2016</td>
-<td>Мектеп</td>
-</tr>
-<tr>
-<td>42.</td>
-<td>
-Геометрия.
-Әдістемелік нұсқау
-</td>
-<td>
-Ж.Қайдасов,
-А. Қағазбаева,
-А. Абдиев
-</td>
-<td colspan="2">2016</td>
-<td>Мектеп</td>
-</tr>
-<tr>
-<td>43.</td>
-<td>
-Геометрия.
-Дидактикалық материалдар
-</td>
-<td>
-Г. Досмағанбетова,
-А. Абдиев
-</td>
-<td colspan="2">2016</td>
-<td>Мектеп</td>
-</tr>
-<tr>
-<td>44.</td>
-<td>
-Геометрия.
-Есептер жинағы
-</td>
-<td>
-С.Төлеубаева,
 Е. Тұяқов,
-А. Абдиев
+Л. Жумалиева
 </td>
-<td colspan="2">2016</td>
+<td>2017</td>
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>45.</td>
-<td>
-Геометрия.
-Оқулық + CD
-</td>
-<td>
-Г. Солтан,
-А. Жумадилова
-</td>
-<td colspan="2">2016</td>
-<td>Келешек-2030</td>
-</tr>
-<tr>
-<td>46.</td>
-<td>
-Геометрия.
-Әдістемелік нұсқау
-</td>
-<td>
-Г. Солтан,
-А. Жумадилова
-</td>
-<td colspan="2">2016</td>
-<td>Келешек-2030</td>
-</tr>
-<tr>
-<td>47.</td>
+<td>26.</td>
 <td>
 Информатика.
 Оқулық
 </td>
 <td>
 С. Мухамбетжанова,
-А. Сағымбаева,
 А. Тен,
-Т. Даутова
+Д. Исабаева,
+В. Сербин
 </td>
-<td colspan="2">2015</td>
+<td>2017</td>
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>48.</td>
+<td>27.</td>
 <td>
 Информатика.
-Оқыту әдістемесі
+Әдістемелік нұсқау
 </td>
 <td>
-С. Мұхамбетжанова,
-А. Сағымбаева
+С. Мухамбетжанова,
+А. Тен,
+Б. Ахмадуллаева
 </td>
-<td colspan="2">2015</td>
+<td>2017</td>
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>49.</td>
+<td>28.</td>
 <td>
 Информатика.
 Оқулық
 </td>
 <td>
-Е. Вьюшкова,
-Н. Параскун,
-Б. Бекетауов
+Р. Қадырқұлов,
+А. Рыскулбекова
 </td>
-<td colspan="2">2015</td>
-<td>Арман-ПВ</td>
+<td>2017</td>
+<td>Алматыкітап</td>
 </tr>
 <tr>
-<td>50.</td>
+<td>29.</td>
 <td>
 Информатика.
-Мұғалім кітабы
+Әдiстемелiк нұсқау
 </td>
 <td>
-Е. Вьюшкова,
-Н. Параскун,
-Б. Бекетауов
+Р. Қадырқұлов,
+А. Рыскулбекова
 </td>
-<td colspan="2">2015</td>
-<td>Арман-ПВ</td>
+<td>2017</td>
+<td>Алматыкітап</td>
 </tr>
 <tr>
-<td>51.</td>
-<td>География. Материктер мен мұхиттар. Оқулық</td>
-<td>Ә.Бейсенова, С.Әбілмәжінова, К.Каймулдинова</td>
-<td colspan="2">2016</td>
+<td>30.</td>
+<td>
+География.
+Оқулық
+</td>
+<td>
+А. Егорина,
+С. Нүркенова,
+Е. Шимина
+</td>
+<td>2017</td>
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>52.</td>
-<td>Материктер мен мұхиттар географиясы. Оқулық</td>
+<td>31.</td>
 <td>
-О. Мазбаев,
-Ш. Айтақынова
+География.
+Оқыту әдістемесі
 </td>
-<td colspan="2">2016</td>
-<td>Арман-ПВ</td>
-</tr>
-<tr>
-<td>53.</td>
-<td>Биология. Оқулық</td>
 <td>
-Қ. Қайым,
-Р. Сәтімбеков,
-К. Жүнісқызы,
-А. Соловьева
+С. Нүркенова,
+А. Егорина,
+Е. Шимина
 </td>
-<td colspan="2">2016</td>
+<td>2017</td>
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>54.</td>
-<td>Физика. Оқулық</td>
+<td>32.</td>
+<td>
+География.
+Атлас
+</td>
+<td>
+А. Егорина,
+С. Нүркенова
+</td>
+<td>2017</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>33.</td>
+<td>
+География.
+Оқулық.1, 2 бөлім
+</td>
+<td>
+Р. Қаратабанов,
+Ж. Байметова
+</td>
+<td>2017</td>
+<td>Алматыкітап</td>
+</tr>
+<tr>
+<td>34.</td>
+<td>
+География.
+Әдістемелік құрал
+</td>
+<td>
+Р. Қаратабанов,
+Ж. Байметова
+</td>
+<td>2017</td>
+<td>Алматыкітап</td>
+</tr>
+<tr>
+<td>35.</td>
+<td>
+Биология.
+Оқулық
+</td>
+<td>
+А. Соловьева,
+Б. Ибраимова,
+Ж. Алина
+</td>
+<td>2017</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>36.</td>
+<td>
+Биология.
+Оқыту әдістемесі
+</td>
+<td>
+А. Соловьева,
+Б. Ибраимова,
+Ж. Алина
+</td>
+<td>2017</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>37.</td>
+<td>
+Биология.
+Оқулық
+</td>
+<td>
+Е. Очкур,
+Ж. Құрманғалиева
+</td>
+<td>2017</td>
+<td>Мектеп</td>
+</tr>
+<tr>
+<td>38.</td>
+<td>
+Биология.
+Әдiстемелiк нұсқау
+</td>
+<td>
+Е. Очкур,
+Ж. Құрманғалиева
+</td>
+<td>2017</td>
+<td>Мектеп</td>
+</tr>
+<tr>
+<td>39.</td>
+<td>
+Физика.
+Оқулық
+</td>
+<td>
+У. Тоқбергенова,
+Б. Кронгарт
+</td>
+<td>2017</td>
+<td>Мектеп</td>
+</tr>
+<tr>
+<td>40.</td>
+<td>
+Физика.
+Әдiстемелiк нұсқау
+</td>
+<td>
+У. Тоқбергенова,
+Д. Тұрсынбаева,
+Б. Ерженбек
+</td>
+<td>2017</td>
+<td>Мектеп</td>
+</tr>
+<tr>
+<td>41.</td>
+<td>
+Физика.
+Оқулық
+</td>
+<td>Р. Башарұлы</td>
+<td>2017</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>42.</td>
+<td>
+Физика.
+Әдістемелік нұсқау
+</td>
 <td>
 Р. Башарұлы,
-У.Тоқбергенова,
-Д. Қазақбаева
+Ш. Шуиншина,
+К. Сейфоллина
 </td>
-<td colspan="2">2016</td>
+<td>2017</td>
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>55.</td>
+<td>43.</td>
 <td>
 Физика.
 Есептер мен жаттығулар жинағы
 </td>
 <td>
-В. Кем,
-Б. Кронгарт
+Б. Кронгарт,
+В. Кем
 </td>
-<td colspan="2">2016</td>
+<td>2017</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>44.</td>
+<td>
+Химия.
+Оқулық
+</td>
+<td>
+М. Оспанова,
+Т. Белоусова,
+Қ. Аухадиева
+</td>
+<td>2017</td>
+<td>Мектеп</td>
+</tr>
+<tr>
+<td>45.</td>
+<td>
+Химия.
+Әдiстемелiк нұсқау
+</td>
+<td>
+Қ. Аухадиева,
+Т. Белоусова
+</td>
+<td>2017</td>
+<td>Мектеп</td>
+</tr>
+<tr>
+<td>46.</td>
+<td>
+Химия.
+Дидактикалық материалдар
+</td>
+<td>М. Оспанова</td>
+<td>2017</td>
+<td>Мектеп</td>
+</tr>
+<tr>
+<td>47.</td>
+<td>
+Қазақстан тарихы.
+Оқулық
+</td>
+<td>
+Н. Бакина,
+Н. Жанақова
+</td>
+<td>2017</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>48.</td>
+<td>
+Қазақстан тарихы.
+Оқыту әдістемесі
+</td>
+<td>
+Н. Бакина,
+Н. Жанақова,
+О. Соскин,
+Н. Гвоздева
+</td>
+<td>2017</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>49.</td>
+<td>Қазақстан тарихы. Дидактикалық материалдар</td>
+<td>
+Н. Бакина,
+Н. Жанақова,
+С. Митинева,
+Н. Лукина
+</td>
+<td>2017</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>50.</td>
+<td>Дүниежүзі тарихы (Орта ғасырлар). Оқулық</td>
+<td>
+Г. Көкебаева,
+Р. Мырзабекова,
+Е. Қартабаева
+</td>
+<td>2017</td>
+<td>Мектеп</td>
+</tr>
+<tr>
+<td>51.</td>
+<td>Дүниежүзі тарихы. Әдістемелік нұсқау</td>
+<td>
+Ә. Көпекбай,
+Ж. Джұматаева
+</td>
+<td>2017</td>
+<td>Мектеп</td>
+</tr>
+<tr>
+<td>52.</td>
+<td>Дүниежүзі тарихы. Хрестоматия</td>
+<td>
+Г. Көкебаева,
+Р. Мырзабекова,
+Е. Қартабаева
+</td>
+<td>2017</td>
+<td>Мектеп</td>
+</tr>
+<tr>
+<td>53.</td>
+<td>
+Дүниежүзі тарихы.
+Оқулық
+</td>
+<td>
+Р. Айтбай,
+Ә. Касымова
+</td>
+<td>2017</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>54.</td>
+<td>
+Дүниежүзі тарихы.
+Оқыту әдістемесі
+</td>
+<td>
+Ә. Касымова,
+А. Ешмукамбетов
+</td>
+<td>2017</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>55.</td>
+<td>
+Дүниежүзі тарихы.
+Хрестоматия
+</td>
+<td>
+С. Мәшімбаев,
+М. Мәженова,
+С. Тортаев
+</td>
+<td>2017</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>56.</td>
 <td>
-Орта ғасырлардағы Қазақстан тарихы.
+Өзін-өзі тану.
 Оқулық
 </td>
-<td>С. Жолдасбаев</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
+<td>
+Ж. Әкімбаева,
+Е. Бақаш,
+С. Нұркеева,
+Р. Мұратханова
+</td>
+<td>2017</td>
+<td>Бөбек</td>
 </tr>
 <tr>
 <td>57.</td>
 <td>
-Орта ғасырлардағы Қазақстан тарихы.
-Оқыту әдістемесі
+Өзін-өзі тану.
+Мұғалімдерге арналған әдістемелік құрал
 </td>
-<td>А.Қайыпбаева, А.Ермішова, К.Жүнісова</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
+<td>
+Ж. Әкімбаева,
+Е. Бақаш,
+С. Нуркеева,
+Р. Мұратханова
+</td>
+<td>2017</td>
+<td>Бөбек</td>
 </tr>
 <tr>
 <td>58.</td>
-<td>Орта ғасырлардағы Қазақстан тарихы. Хрестоматия</td>
-<td>С.Жолдасбаев</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
+<td>
+Көркем еңбек
+(ұл балаларға арналған). Оқулық + CD
+</td>
+<td>
+В. Чукалин,
+Х. Танбаев,
+И. Развенкова,
+О. Лосенко,
+Е. Велькер
+</td>
+<td>2017</td>
+<td>Келешек-2030</td>
 </tr>
 <tr>
 <td>59.</td>
-<td>Орта ғасырлардағы дүние жүзі тарихы. Оқулық</td>
 <td>
-С. Мәшімбаев,
-С. Тортаев,
-М. Мәженова, В.Ткаченко
+Көркем еңбек
+(ұл балаларға арналған нұсқа).
+Әдістемелік құрал+CD
 </td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
+<td>
+В. Чукалин,
+Х. Танбаев,
+И. Развенкова,
+О. Лосенко,
+Е. Велькер
+</td>
+<td>2017</td>
+<td>Келешек-2030</td>
 </tr>
 <tr>
 <td>60.</td>
 <td>
-Орта ғасырлардағы дүние жүзі тарихы.
-Оқыту әдістемесі
+Көркем еңбек
+(қыз балаларға арналған нұсқа).
+Оқулық+CD
 </td>
 <td>
-С.Тортаев, С.Мәшімбаев,
-М.Мәженова
+Р. Алимсаева,
+И. Развенкова,
+О. Лосенко,
+Е. Велькер
 </td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
+<td>2017</td>
+<td>Келешек-2030</td>
 </tr>
 <tr>
 <td>61.</td>
-<td>Орта ғасырлардағы дүние жүзі тарихы. Хрестоматия</td>
-<td>С.Мәшімбаев, М.Мәженова, С.Тортаев</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
+<td>
+Көркем еңбек
+(қыз балаларға арналған нұсқа).
+Әдістемелік нұсқау +CD
+</td>
+<td>
+Р. Алимсаева,
+И. Развенкова,
+О. Лосенко,
+Е. Велькер
+</td>
+<td>2017</td>
+<td>Келешек-2030</td>
 </tr>
 <tr>
 <td>62.</td>
-<td>Орта ғасырлардағы дүние жүзі тарихы.Дидактикалық материалдар</td>
-<td>М.Мәженова</td>
-<td colspan="2">2016</td>
-<td>Атамұра</td>
+<td>
+Көркем еңбек
+ұлдарға арналған.
+Оқулық
+</td>
+<td>
+М. Жақманов,
+Ж. Құлбекова,
+О. Пак,
+З. Хасенов
+</td>
+<td>2017</td>
+<td>&quot;Назарбаев Зияткерлік мектептері&quot; ДББҰ</td>
 </tr>
 <tr>
 <td>63.</td>
 <td>
-Өзін-өзі тану.
-Оқулық
+Көркем еңбек ұлдарға арналған.
+Мұғалімге арналған нұсқаулық
 </td>
 <td>
-Б. Әрінова,
-Ж. Әкімбаева,
-Ж. Қажығалиева,
-Р. Ізғұттынова
+М. Жақманов,
+Ж. Құлбекова,
+О. Пак,
+З. Хасенов
 </td>
-<td colspan="2">2016</td>
-<td>&quot;Бөбек&quot; ҰҒПББСО</td>
+<td>2017</td>
+<td>&quot;Назарбаев Зияткерлік мектептері&quot; ДББҰ</td>
 </tr>
 <tr>
 <td>64.</td>
 <td>
-Өзін-өзі тану.
-Әдістемелік құрал
+Көркем еңбек
+қыздарға арналған.
+Оқулық
 </td>
 <td>
-Б. Әрінова.,
-Р. Ізғұттынова,
-Ж. Әкімбаева,
-Ж. Қажығалиева
+Б. Дүйсенова,
+С. Жолдасбекова,
+Ж. Құлбекова,
+Ф. Құрабаева
 </td>
-<td colspan="2">2016</td>
-<td>&quot;Бөбек&quot; ҰҒПББСО</td>
+<td>2017</td>
+<td>&quot;Назарбаев Зияткерлік мектептері&quot; ДББҰ</td>
 </tr>
 <tr>
 <td>65.</td>
 <td>
-Технология.
-Оқулық + CD
-(қыз балаларға арналған нұсқа)
+Көркем еңбек
+қыздарға арналған.
+Мұғалімге арналған нұсқаулық
 </td>
 <td>
-И. Развенкова,
-С. Фалеева
+Б. Дүйсенова,
+С. Жолдасбекова,
+Ж. Құлбекова,
+Ф. Құрабаева
 </td>
-<td colspan="2">2016</td>
-<td>Келешек-2030</td>
+<td>2017</td>
+<td>&quot;Назарбаев Зияткерлік мектептері&quot; ДББҰ</td>
 </tr>
 <tr>
-<td>66.</td>
-<td>Технология (қыз балаларға арналған нұсқа). Әдістемелік нұсқау</td>
+<td>66-69</td>
+<td colspan="4">Алып тасталды – ҚР Білім және ғылым министрінің 04.04.2017 № 150 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен</td>
+</tr>
+</table>
+
+## 7-сынып оқыту қазақ және орыс тілдеріндегі мектептер үшін
+
+<table>
+<tr>
+<td rowspan="6">1.</td>
 <td>
-И. Развенкова,
-С. Фалеева
+Eyes Open 3 for Kazakhstan Grade 7
+Student`s book
 </td>
-<td colspan="2">2016</td>
-<td>Келешек-2030</td>
-</tr>
-<tr>
-<td>67.</td>
 <td>
-Технология.
-Оқулық +СD
-(ер балаларға арналған нұсқа)
+Ben Goldstein,
+Ceri Jones,
+David McKeegan,
+Vicki Anderson,
+Eoin Higgins
 </td>
-<td>В. Чукалин</td>
-<td colspan="2">2016</td>
-<td>Келешек-2030</td>
+<td>2017</td>
+<td>Cambridge University Press</td>
 </tr>
 <tr>
-<td>68.</td>
 <td>
-Технология
-(ер балаларға арналған нұсқа).
-Әдістемелік нұсқау
+Eyes Open 3 for Kazakhstan Grade 7
+Workbook
 </td>
-<td>В. Чукалин</td>
-<td colspan="2">2016</td>
-<td>Келешек-2030</td>
-</tr>
-<tr>
-<td>69.</td>
-<td>Дене шынықтыру. Әдістемелік құрал</td>
 <td>
-С. Көптілеуова,
-Г. Маковецкая,
-Т. Васильченко,
-О. Меркель
+Vicki Anderson,
+Eoin Higgins
 </td>
-<td colspan="2">2016</td>
-<td>Келешек -2030</td>
+<td>2017</td>
+<td>Cambridge University Press</td>
 </tr>
 <tr>
-<th>
-7-сынып
-оқыту қазақ және орыс тілдеріндегі мектептер үшін
-</th>
-</tr>
-<tr>
-<td>1.</td>
 <td>
-Hot Spot 3 KZ
-Student’s Book &amp; CD
+Eyes Open 3 for Kazakhstan Grade 7
+Teacher`s book
 </td>
-<td>Colina Granger, Katherine Stannett</td>
-<td colspan="2">2016</td>
-<td>Macmillan Publishers</td>
+<td>Garan Holcombe</td>
+<td>2017</td>
+<td>Cambridge University Press</td>
 </tr>
 <tr>
-<td>2.</td>
-<td>Hot Spot 3 KZ Activity Book</td>
-<td>Cheryl Pelteret</td>
-<td colspan="2">2016</td>
-<td>Macmillan Publishers</td>
+<td>
+Eyes Open 3 for Kazakhstan Grade 7
+Course plan
+</td>
+<td>
+Ben Goldstein,
+Ceri Jones,
+David McKeegan,
+Vicki Anderson,
+Eoin Higgins
+</td>
+<td>2017</td>
+<td>Cambridge University Press</td>
 </tr>
 <tr>
-<td>3.</td>
-<td>Hot Spot 3 KZ Teacher’s Book</td>
-<td>Magdalena Kondro</td>
-<td colspan="2">2016</td>
-<td>Macmillan Publishers</td>
+<td>
+Eyes Open 3
+Class Audio CD (3)
+</td>
+<td></td>
+<td>2017</td>
+<td>Cambridge University Press</td>
 </tr>
 <tr>
-<td>4.</td>
-<td>Messages 3 for Kazakhstan Students book</td>
-<td>Diana Goodey, Neol Goodey</td>
-<td colspan="2">2016</td>
-<td>Study Inn</td>
+<td>
+Eyes Open 3
+Video DVD
+</td>
+<td></td>
+<td>2017</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td rowspan="10">2.</td>
+<td>
+Excel for Kazakhstan
+(Grade 7) Student`s book
+</td>
+<td>
+Virginia Evans,
+Jenny Dooley,
+Bob Obee.
+Translations by: Natalya Mukhamedjianova
+</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>
+Excel for Kazakhstan
+(Grade 7)
+Workbook &amp; Grammar Book
+</td>
+<td>
+Virginia Evans,
+Jenny Dooley,
+Bob Obee. Translations by: Natalya Mukhamedjianova
+</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>
+Excel for Kazakhstan
+(Grade 7)
+Teacher`s Book
+</td>
+<td>
+Virginia Evans,
+Jenny Dooley,
+Bob Obee.
+Translations by: Natalya Mukhamedjianova
+</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>
+Excel for Kazakhstan
+(Grade 7)
+DVD Activity Book
+</td>
+<td>
+Virginia Evans,
+Jenny Dooley,
+Bob Obee
+</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>
+Excel for Kazakhstan
+(Grade 7)
+DVD Activity Book Key
+</td>
+<td>
+Virginia Evans,
+Jenny Dooley,
+Bob Obee
+</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>
+Excel for Kazakhstan
+(Grade 7)
+Class CD (1,2,3,4)
+</td>
+<td>
+Virginia Evans,
+Jenny Dooley,
+Bob Obee.
+Translations by: Natalya Mukhamedjianova
+</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>
+Excel for Kazakhstan
+(Grade 7)
+Interactive Whiteboard Software
+</td>
+<td>
+Virginia Evans,
+Jenny Dooley,
+Bob Obee.
+Translations by: Natalya Mukhamedjianova
+</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>
+Excel for Kazakhstan
+(Grade 7)
+Teacher`s Resource Pack &amp; Tests (CD-ROM)
+</td>
+<td>
+Virginia Evans,
+Jenny Dooley,
+Bob Obee.
+Translations by: Natalya Mukhamedjianova
+</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>
+Excel for Kazakhstan
+(Grade 7)
+e-Book
+</td>
+<td>
+Virginia Evans,
+Jenny Dooley,
+Bob Obee.
+Translations by: Natalya Mukhamedjianova
+</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td>
+Excel for Kazakhstan
+(Grade 7)
+PAL Express
+DVD Video
+</td>
+<td>
+Virginia Evans,
+Jenny Dooley,
+Bob Obee
+</td>
+<td>2017</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<td rowspan="5">3.</td>
+<td>
+English Plus
+Оқушы кітабы
+</td>
+<td>
+Ben Wetz,
+James Styring,
+Nicholas Tims
+</td>
+<td>2017</td>
+<td>Oxford University Press</td>
+</tr>
+<tr>
+<td>
+English Plus
+Жұмыс дәптері
+</td>
+<td>Janet Hardy-Gould, Kate Mellersh</td>
+<td>2017</td>
+<td>Oxford University Press</td>
+</tr>
+<tr>
+<td>
+English Plus
+Мұғалім кітабы
+</td>
+<td>
+Sheila Dignen,
+Emma Watkins,
+Peter Redpath
+</td>
+<td>2017</td>
+<td>Oxford University Press</td>
+</tr>
+<tr>
+<td>
+English Plus
+Аудио CD (1,2,3)
+</td>
+<td></td>
+<td>2017</td>
+<td>Oxford University Press</td>
+</tr>
+<tr>
+<td>
+English Plus
+Тест дискісі
+</td>
+<td>
+Bess Bradfield,
+Sheila Dignen
+</td>
+<td>2017</td>
+<td>Oxford University Press</td>
+</tr>
+<tr>
+<td rowspan="6">4.</td>
+<td>
+Laser A2 for Kazakhstan
+Student`s Book
+</td>
+<td>
+Malcolm Mann,
+Steve Taylore-Knowles
+</td>
+<td>2017</td>
+<td>Macmillan Education</td>
+</tr>
+<tr>
+<td>
+Laser A2 for Kazakhstan
+Work Book
+</td>
+<td>
+Malcolm Mann,
+Steve Taylore-Knowles
+</td>
+<td>2017</td>
+<td>Macmillan Education</td>
+</tr>
+<tr>
+<td>
+Laser A2 for Kazakhstan
+Teacher`s Book
+</td>
+<td>
+Malcolm Mann,
+Steve Taylore-Knowles
+</td>
+<td>2017</td>
+<td>Macmillan Education</td>
+</tr>
+<tr>
+<td>
+Laser A2
+Digibook
+</td>
+<td>
+Malcolm Mann,
+Steve Taylore-Knowles
+</td>
+<td>2017</td>
+<td>Macmillan Education</td>
+</tr>
+<tr>
+<td>
+Laser A2
+Teacher`s DVD-ROM
+</td>
+<td>
+Malcolm Mann,
+Steve Taylore-Knowles
+</td>
+<td>2017</td>
+<td>Macmillan Education</td>
+</tr>
+<tr>
+<td>
+Laser A2
+Class Audio CD
+</td>
+<td>
+Malcolm Mann,
+Steve Taylore-Knowles
+</td>
+<td>2017</td>
+<td>Macmillan Education</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>
-Messages 3 for Kazakhstan
-Work Book + CD
-</td>
-<td>Diana Goodey, Neol Goodey</td>
-<td colspan="2">2016</td>
-<td>Study Inn Сambridge</td>
-</tr>
-<tr>
-<td>6.</td>
-<td>
-Messages 3 for Kazakhstan
-Teachers Book
-</td>
-<td>Diana Goodey, Meredith Levy</td>
-<td colspan="2">2016</td>
-<td>Study Inn Сambridge</td>
-</tr>
-<tr>
-<td>7.</td>
-<td>
-Messages 3 for Kazakhstan
-Teachers Resourse Pack
-</td>
-<td>Peter McDonnel, Sarah Ackroyd</td>
-<td colspan="2">2016</td>
-<td>Study Inn Сambridge</td>
-</tr>
-<tr>
-<td>8.</td>
-<td>
-Messages 3 for Kazakhstan
-Class Audio CD
-</td>
-<td>Diana Goodey, Neol Goodey</td>
-<td colspan="2">2016</td>
-<td>Study Inn Сambridge</td>
-</tr>
-<tr>
-<td>9.</td>
-<td>Messages 3 for Kazakhstan DVD</td>
-<td>Diana Goodey, Neol Goodey</td>
-<td colspan="2">2016</td>
-<td>Study Inn Сambridge</td>
-</tr>
-<tr>
-<td>10.</td>
-<td>Upbeat Pre-Intermediate Student's Book Kazakhstan</td>
-<td>Ingrid Freebairn, Jonathan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2016</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>11.</td>
-<td>
-Upbeat Pre-Intermediate
-Language Builder Kazakhstan
+Mathematics
+Grade 7
 </td>
 <td>
-Ingrid Freebairn, Jonathan
-Bygrave, Judy Copage, Liz Kilbey
+K.​Kozhakhmetov,
+B.​Kulmagambetov,
+Y.​Bazarov,
+Y.​Palzhanov,
+A.​Mirzakhmedov
 </td>
-<td colspan="2">2016</td>
-<td>Pearson Education Limited</td>
+<td>2017</td>
+<td>Астана-кітап</td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td>12.</td>
-<td>Upbeat Pre-Intermediate Teacher`s Book</td>
-<td>Ingrid Freebairn, Jonathan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2016</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Upbeat Pre-Intermediate class Audio CD</td>
-<td>Ingrid Freebairn, Jonathan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2016</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>14.</td>
-<td>Upbeat Pre-Intermediate Test Book</td>
-<td>Ingrid Freebairn, Jonathan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2016</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>15.</td>
-<td>Upbeat Pre-Intermediate Motivator</td>
-<td>Ingrid Freebairn, Jonathan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2016</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>16.</td>
-<td>
-Discover English 3 for Kazakhstan
-Students’ book
-</td>
-<td>Jayne Wildman</td>
-<td colspan="2">2016</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Discover English 3 for Kazakhstan WorkBook</td>
-<td>Izabella Hearn</td>
-<td colspan="2">2016</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>18.</td>
-<td>Discover English 3 for Kazakhstan teacher’s book</td>
-<td>Kate Wakeman</td>
-<td colspan="2">2016</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>19.</td>
-<td>
-Discover English 3 for Kazakhstan
-Class audio CD
-</td>
-<td>Izabella Hearn, Jayne Wildman</td>
-<td colspan="2">2016</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<th>8-сынып</th>
+<th colspan="5">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -1032,7 +1297,7 @@ Class audio CD
 Г. Қосымова
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -1045,7 +1310,7 @@ Class audio CD
 Н. Құрманова
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>3.</td>
@@ -1058,7 +1323,7 @@ Class audio CD
 З. Ерназарова
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -1072,7 +1337,7 @@ Class audio CD
 А. Нұрғазы
 </td>
 <td>2016</td>
-<td colspan="2">Арман-ПВ</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -1087,7 +1352,7 @@ Class audio CD
 А. Бипажанова
 </td>
 <td>2016</td>
-<td colspan="2">Арман-ПВ</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -1101,7 +1366,7 @@ Class audio CD
 Қ. Балабекова
 </td>
 <td>2016</td>
-<td colspan="2">Арман-ПВ</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -1116,7 +1381,7 @@ Class audio CD
 С. Оданова
 </td>
 <td>2016</td>
-<td colspan="2">Арман-ПВ</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>8.</td>
@@ -1127,7 +1392,7 @@ Class audio CD
 К. Құрманбай
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -1138,7 +1403,7 @@ Class audio CD
 К. Құрманбай
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>10.</td>
@@ -1149,7 +1414,7 @@ Class audio CD
 Н. Әбішева
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>11.</td>
@@ -1163,7 +1428,7 @@ Class audio CD
 С. Жұмағұлов
 </td>
 <td>2016</td>
-<td colspan="2">Жазушы</td>
+<td>Жазушы</td>
 </tr>
 <tr>
 <td>12.</td>
@@ -1173,7 +1438,7 @@ Class audio CD
 Қ. Байтанасова
 </td>
 <td>2016</td>
-<td colspan="2">Жазушы</td>
+<td>Жазушы</td>
 </tr>
 <tr>
 <td>13.</td>
@@ -1183,7 +1448,7 @@ Class audio CD
 Г. Рыскелдиева
 </td>
 <td>2016</td>
-<td colspan="2">Арман-ПВ</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>14.</td>
@@ -1196,7 +1461,7 @@ Class audio CD
 Г. Рыскелдиева
 </td>
 <td>2016</td>
-<td colspan="2">Арман-ПВ</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>15.</td>
@@ -1209,7 +1474,7 @@ Class audio CD
 Г. Рыскелдиева
 </td>
 <td>2016</td>
-<td colspan="2">Арман-ПВ</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -1222,7 +1487,7 @@ Class audio CD
 Саметова Ф.
 </td>
 <td>2016</td>
-<td colspan="2">Арман-ПВ</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>17.</td>
@@ -1235,7 +1500,7 @@ Class audio CD
 Саметова Ф.
 </td>
 <td>2016</td>
-<td colspan="2">Арман-ПВ</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>18.</td>
@@ -1245,7 +1510,7 @@ Class audio CD
 Саметова Ф.
 </td>
 <td>2016</td>
-<td colspan="2">Арман-ПВ</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>19.</td>
@@ -1255,7 +1520,7 @@ Class audio CD
 Сверчкова Р.
 </td>
 <td>2016</td>
-<td colspan="2">Білім</td>
+<td>Білім</td>
 </tr>
 <tr>
 <td>20.</td>
@@ -1265,7 +1530,7 @@ Class audio CD
 Сверчкова Р.
 </td>
 <td>2016</td>
-<td colspan="2">Білім</td>
+<td>Білім</td>
 </tr>
 <tr>
 <td>21.</td>
@@ -1276,7 +1541,7 @@ Class audio CD
 А. Головчун
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>22.</td>
@@ -1290,7 +1555,7 @@ Class audio CD
 А. Головчун
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>23.</td>
@@ -1304,7 +1569,7 @@ Class audio CD
 А. Головчун
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>24.</td>
@@ -1318,7 +1583,7 @@ Class audio CD
 Р. Шалгынбаева
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>25.</td>
@@ -1332,7 +1597,7 @@ Class audio CD
 Ш. Бәйнеш
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>26.</td>
@@ -1342,7 +1607,7 @@ Class audio CD
 </td>
 <td>Р. Мырзакеримова</td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>27.</td>
@@ -1352,7 +1617,7 @@ Class audio CD
 </td>
 <td>Ш. Бәйнеш</td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>28.</td>
@@ -1365,7 +1630,7 @@ Class audio CD
 Г.Сманова
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>29.</td>
@@ -1378,7 +1643,7 @@ Class audio CD
 Г. Сманова
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>30.</td>
@@ -1388,7 +1653,7 @@ Class audio CD
 </td>
 <td>Г. Сманова</td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>31.</td>
@@ -1398,7 +1663,7 @@ Class audio CD
 </td>
 <td>А. Шыныбеков</td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>32.</td>
@@ -1408,7 +1673,7 @@ Class audio CD
 </td>
 <td>А. Шыныбеков</td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>33.</td>
@@ -1418,7 +1683,7 @@ Class audio CD
 </td>
 <td>А. Шыныбеков</td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>34.</td>
@@ -1433,7 +1698,7 @@ Class audio CD
 В. Корчевский
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>35.</td>
@@ -1447,7 +1712,7 @@ Class audio CD
 А. Абдиев
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>36.</td>
@@ -1461,7 +1726,7 @@ Class audio CD
 С. Төлеубаева
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>37.</td>
@@ -1476,7 +1741,7 @@ Class audio CD
 Г. Даньяров
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>38.</td>
@@ -1486,7 +1751,7 @@ Class audio CD
 </td>
 <td>А. Шыныбеков</td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>39.</td>
@@ -1496,7 +1761,7 @@ Class audio CD
 </td>
 <td>А. Шыныбеков</td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>40.</td>
@@ -1506,7 +1771,7 @@ Class audio CD
 </td>
 <td>А. Шыныбеков</td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>41.</td>
@@ -1517,7 +1782,7 @@ Class audio CD
 А. Абдиев
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>42.</td>
@@ -1530,7 +1795,7 @@ Class audio CD
 А. Абдиев
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>43.</td>
@@ -1540,7 +1805,7 @@ Class audio CD
 Г. Хабарова
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>44.</td>
@@ -1555,7 +1820,7 @@ Class audio CD
 Г. Даньяров
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>45.</td>
@@ -1565,7 +1830,7 @@ Class audio CD
 А. Жумадилова
 </td>
 <td>2016</td>
-<td colspan="2">Келешек-2030</td>
+<td>Келешек-2030</td>
 </tr>
 <tr>
 <td>46.</td>
@@ -1578,7 +1843,7 @@ Class audio CD
 А. Жумадилова
 </td>
 <td>2016</td>
-<td colspan="2">Келешек-2030</td>
+<td>Келешек-2030</td>
 </tr>
 <tr>
 <td>47.</td>
@@ -1593,7 +1858,7 @@ Class audio CD
 Т. Даутова
 </td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>48.</td>
@@ -1607,7 +1872,7 @@ Class audio CD
 Б. Әбенов
 </td>
 <td>2016</td>
-<td colspan="2">Арман-ПВ</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>49.</td>
@@ -1617,7 +1882,7 @@ Class audio CD
 Қ. Карпеков
 </td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>50.</td>
@@ -1632,7 +1897,7 @@ Class audio CD
 С. Көбенқұлова
 </td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>51.</td>
@@ -1645,7 +1910,7 @@ Class audio CD
 К. Каймулдинова
 </td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>52.</td>
@@ -1659,28 +1924,28 @@ Class audio CD
 Ш. Айтақынова
 </td>
 <td>2016</td>
-<td colspan="2">Арман-ПВ</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>53.</td>
 <td>Қазақстанның физикалық географиясы. Оқулық.</td>
 <td>Есназарова Ұ.</td>
 <td>2016</td>
-<td colspan="2">Географиядан Республикалық атаулы мектеп</td>
+<td>Географиядан Республикалық атаулы мектеп</td>
 </tr>
 <tr>
 <td>54.</td>
 <td>Қазақстанның физикалық географиясы. Әдістемелік құрал.</td>
 <td>Есназарова Ұ.</td>
 <td>2016</td>
-<td colspan="2">Географиядан Республикалық атаулы мектеп</td>
+<td>Географиядан Республикалық атаулы мектеп</td>
 </tr>
 <tr>
 <td>55.</td>
 <td>Қазақстанның физикалық географиясы. Дидактикалық материалдар</td>
 <td>Есназарова Ұ.</td>
 <td>2016</td>
-<td colspan="2">Республикалық атаулы мектеп</td>
+<td>Республикалық атаулы мектеп</td>
 </tr>
 <tr>
 <td>56.</td>
@@ -1690,7 +1955,7 @@ Class audio CD
 И. Есіркепова
 </td>
 <td>2016</td>
-<td colspan="2">8&amp;8</td>
+<td>8&amp;8</td>
 </tr>
 <tr>
 <td>57.</td>
@@ -1700,7 +1965,7 @@ Class audio CD
 И. Есіркепова
 </td>
 <td>2016</td>
-<td colspan="2">8&amp;8</td>
+<td>8&amp;8</td>
 </tr>
 <tr>
 <td>58.</td>
@@ -1711,7 +1976,7 @@ Class audio CD
 А. Соловьева
 </td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>59.</td>
@@ -1725,7 +1990,7 @@ Class audio CD
 А. Соловьева
 </td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>60.</td>
@@ -1736,7 +2001,7 @@ Class audio CD
 Р. Жұмабаева
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>61.</td>
@@ -1750,7 +2015,7 @@ Class audio CD
 Р. Жұмабаева
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>62.</td>
@@ -1764,7 +2029,7 @@ Class audio CD
 Р. Жұмабаева
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>63.</td>
@@ -1775,7 +2040,7 @@ Class audio CD
 А. Медетбекова
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>64.</td>
@@ -1788,7 +2053,7 @@ Class audio CD
 Қ. Сақариянова
 </td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>65.</td>
@@ -1801,7 +2066,7 @@ Class audio CD
 Қ. Сақариянова
 </td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>66.</td>
@@ -1811,7 +2076,7 @@ Class audio CD
 </td>
 <td>Б. Мансұров</td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>67.</td>
@@ -1822,7 +2087,7 @@ Class audio CD
 К. Жексембина
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>68.</td>
@@ -1836,14 +2101,14 @@ Class audio CD
 К. Сарманова
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>69.</td>
 <td>Химия. Есептер мен жаттығулар жинағы</td>
 <td>Ә. Темірболатова</td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>70.</td>
@@ -1856,7 +2121,7 @@ Class audio CD
 А. Қайыпбаева
 </td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>71.</td>
@@ -1869,14 +2134,14 @@ Class audio CD
 К. Жүнісова
 </td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>72.</td>
 <td>Қазақстан тарихы. Хрестоматия</td>
 <td>З. Қабылдинов</td>
 <td>2016</td>
-<td colspan="2">Атамұра</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>73.</td>
@@ -1886,7 +2151,7 @@ Class audio CD
 Т. Омарбеков
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>74.</td>
@@ -1896,7 +2161,7 @@ Class audio CD
 О. Воронянская
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>75.</td>
@@ -1906,7 +2171,7 @@ Class audio CD
 Т. Омарбеков
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>76.</td>
@@ -1922,7 +2187,7 @@ Class audio CD
 Қ. Байзақова
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>77.</td>
@@ -1933,7 +2198,7 @@ Class audio CD
 Р. Бекiш
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>78.</td>
@@ -1944,7 +2209,7 @@ Class audio CD
 К.Мақашева
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>79.</td>
@@ -1959,7 +2224,7 @@ Class audio CD
 Р.Ізғұттынова
 </td>
 <td>2016</td>
-<td colspan="2">&quot;Бөбек&quot; ҰҒПББСО</td>
+<td>&quot;Бөбек&quot; ҰҒПББСО</td>
 </tr>
 <tr>
 <td>80.</td>
@@ -1974,7 +2239,7 @@ Class audio CD
 Р. Ізғұттынова
 </td>
 <td>2016</td>
-<td colspan="2">&quot;Бөбек&quot; ҰҒПББСО</td>
+<td>&quot;Бөбек&quot; ҰҒПББСО</td>
 </tr>
 <tr>
 <td>81.</td>
@@ -1988,7 +2253,7 @@ Class audio CD
 А. Халендеров
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>82.</td>
@@ -2001,7 +2266,7 @@ Class audio CD
 Г. Жарымбетова
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>83.</td>
@@ -2015,7 +2280,7 @@ Class audio CD
 Г. Жарымбетова
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>84.</td>
@@ -2029,7 +2294,7 @@ Class audio CD
 И. Развенкова
 </td>
 <td>2016</td>
-<td colspan="2">Келешек -2030</td>
+<td>Келешек -2030</td>
 </tr>
 <tr>
 <td>85.</td>
@@ -2040,7 +2305,7 @@ Class audio CD
 И. Развенкова
 </td>
 <td>2016</td>
-<td colspan="2">Келешек -2030</td>
+<td>Келешек -2030</td>
 </tr>
 <tr>
 <td>86.</td>
@@ -2053,7 +2318,7 @@ Class audio CD
 Х. Танбаев
 </td>
 <td>2016</td>
-<td colspan="2">Келешек -2030</td>
+<td>Келешек -2030</td>
 </tr>
 <tr>
 <td>87.</td>
@@ -2063,7 +2328,7 @@ Class audio CD
 Х. Танбаев
 </td>
 <td>2016</td>
-<td colspan="2">Келешек -2030</td>
+<td>Келешек -2030</td>
 </tr>
 <tr>
 <td>88.</td>
@@ -2076,7 +2341,7 @@ Class audio CD
 С. Қасымбекова
 </td>
 <td>2016</td>
-<td colspan="2">Мектеп</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td>89.</td>
@@ -2087,6 +2352,6 @@ Class audio CD
 О. Меркель
 </td>
 <td>2016</td>
-<td colspan="2">Келешек-2030</td>
+<td>Келешек-2030</td>
 </tr>
 </table>
