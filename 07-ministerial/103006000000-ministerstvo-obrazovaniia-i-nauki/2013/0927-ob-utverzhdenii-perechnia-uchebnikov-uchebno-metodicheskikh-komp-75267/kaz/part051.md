@@ -1,6 +1,255 @@
 ↑ [Редакцияның толық мәтіні](../kaz.md)
 
-## 5 сынып Оқыту қазақ тілінде Брайль жүйесі бойынша және үлкейтілген шрифтпен басылатын қулықтар
+## 4 сынып Оқыту қазақ тілінде Брайль жүйесі бойынша және үлкейтілген шрифтпен басылатын оқулықтар
+
+<table>
+<tr>
+<th>№</th>
+<th>Басылымның атауы</th>
+<th>Авторлар</th>
+<th>Шыққан жылы</th>
+<th>Баспа</th>
+</tr>
+<tr>
+<td>1.</td>
+<td>Қазақ тілі</td>
+<td>
+Г. Уайсова,
+Ә. Жұмабаева
+</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Әдебиеттік оқу</td>
+<td>
+С. Рахметова,
+Т. Әбдікәрім,
+Р. Базарбекова
+</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Әдебиеттік оқу. Хрестоматия</td>
+<td>
+П. Жаманқұлова,
+Г. Құрманбай, Ш.Таубаева
+</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>
+Русский язык.
+Учебник
+</td>
+<td>
+Бадамбаева Г.,
+Тюлебаева М.,
+Кабдолова К.
+</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Математика</td>
+<td>
+Т. Оспанов,
+Ш. Құрманалина,
+Б. Қосанов,
+Ж. Қайынбаев,
+К. Ерешева,
+М. Маркина
+</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Дүниетану</td>
+<td>
+Қ. Жүнісқызы,
+Ә. Бірмағамбетов,
+Н. Жапанбаева,
+И. Нұғыманов
+</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Өзін-өзі тану</td>
+<td>
+А. Сейтақов,
+Р. Ізғұттынова,
+Ұ. Әбдігапбарова,
+Ж. Қажығалиева,
+Ж. Әкімбаева
+</td>
+<td>2015</td>
+<td>Бөбек - САТР</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Музыка</td>
+<td>
+А. Райымбергенов,
+С. Райымбергенова,
+У. Байбусынова
+</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Бейнелеу өнері</td>
+<td>
+Н. Раупова,
+Ә. Төлебиев
+</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Еңбекке баулу</td>
+<td>
+Б. Қалназаров,
+Н. Рахметова,
+А. Сманова
+</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+</table>
+
+## 4 сынып
+
+## Оқыту орыс тілінде Брайль жүйесі бойынша және үлкейтілген шрифтпен басылатын оқулықтар
+
+<table>
+<tr>
+<th>№</th>
+<th>Басылымның атауы</th>
+<th>Авторлар</th>
+<th>Шыққан жылы</th>
+<th>Баспа</th>
+</tr>
+<tr>
+<td>1.</td>
+<td>Қазақ тілі</td>
+<td>Досмамбетова Г.</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Русский язык</td>
+<td>
+Никитина С.,
+Якунина Л., Кульгельдинова Т.
+</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Литературное чтение</td>
+<td>
+Павленко В.,
+Саржанова А.,
+Фрумкина Г.
+</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Литературное чтение. Хрестоматия</td>
+<td>Павленко В.</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Математика</td>
+<td>
+Оспанов Т.,
+Косанов Б.,
+Кайынбаев Ж.,
+Курманалина Ш.,
+Ерешева К.,
+Маркина М.
+</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Познание мира</td>
+<td>
+Жунусова К., Бирмагамбетов А.,
+Нугуманов И.,
+Ледовских Е.
+</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Самопознание</td>
+<td>
+Калачева И.,
+Кудышева Б.
+</td>
+<td>2015</td>
+<td>Бөбек -САТР</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Трудовое обучение</td>
+<td>
+Калназаров Б.,
+РахметоваН.,
+Сманова А.,
+Волкова Н.
+</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Изобразительное искусство</td>
+<td>
+Раупова Н.,
+Тулебиев А.
+</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Музыка</td>
+<td>
+Райымбергенов А.,
+Райымбергенова С.,
+Байбусынова У.
+</td>
+<td>2015</td>
+<td>Атамұра - САТР</td>
+</tr>
+</table>
+
+## 5 сынып
+
+## Оқыту қазақ тілінде
+
+## Брайль жүйесі бойынша және үлкейтілген шрифтпен басылатын қулықтар
 
 <table>
 <tr>
@@ -306,7 +555,11 @@
 </tr>
 </table>
 
-## 6 сынып Оқыту қазақ тілінде Брайль жүйесі бойынша және үлкейтілген шрифтпен басылатын қулықтар
+## 6 сынып
+
+## Оқыту қазақ тілінде
+
+## Брайль жүйесі бойынша және үлкейтілген шрифтпен басылатын қулықтар
 
 <table>
 <tr>
@@ -490,11 +743,11 @@
 
 <table>
 <tr>
-<th>№</th>
+<th colspan="2">№</th>
 <th>Басылымның атауы</th>
-<th>Авторлар</th>
+<th colspan="2">Авторлар</th>
 <th>Шыққан жылы</th>
-<th>Баспа</th>
+<th colspan="2">Баспа</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -1344,15 +1597,22 @@
 </tr>
 </table>
 
-> *Қазақстан Республикасы Білім*  
-> *және ғылым министрі міндетін*  
-> *атқарушының 2013 жылғы*  
-> *27 қыркүйектегі № 400*  
-> *бұйрығының 6-қосымшасы*
+<table>
+<tr>
+<td></td>
+<td>
+Қазақстан Республикасы Білім
+және ғылым министрі міндетін
+атқарушының 2013 жылғы
+27 қыркүйектегі № 400
+бұйрығының 6-қосымшасы
+</td>
+</tr>
+</table>
 
 ## Шетел тілдерін оқуға арналған оқу басылымдарының тізбесі
 
-> *Ескерту. 6-қосымша жаңа редакцияда - ҚР Білім және ғылым министрінің м.а. 08.01.2016 № 13 бұйрығымен (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі).*
+> *Ескерту. 6-қосымша жаңа редакцияда - ҚР Білім және ғылым министрінің м.а. 08.01.2016 № 13 бұйрығымен (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); өзгеріс енгізілді – ҚР Білім және ғылым министрінің 04.04.2017 № 150 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.*
 
 ## Ағылшын тілі
 
@@ -1361,79 +1621,79 @@
 <th>№</th>
 <th>Басылымның атауы</th>
 <th>Авторлар</th>
-<th>Шыққан жылы</th>
-<th>Баспа</th>
+<th colspan="2">Шыққан жылы</th>
+<th colspan="2">Баспа</th>
 </tr>
 <tr>
-<td>Мектепке дейінгі білім беру</td>
-<td></td>
+<th colspan="6">Мектепке дейінгі білім беру</th>
+<th></th>
 </tr>
 <tr>
 <td>1.</td>
 <td>My First English Adventure Starter Pupils Book, Class audio CD</td>
-<td colspan="3">
+<td>
 MadyMusiol,
 MagalyVillarroel
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Pearson Education Limited</td>
+<td>2015</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 </tr>
 <tr>
 <td>2.</td>
 <td>My First English Adventure 1 Pupils Book, Activity Book, Teacher’s Book, Class audio CD, Songs CD, DVD</td>
-<td colspan="3">
+<td>
 MadyMusiol,
 MagalyVillarroel
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Pearson Education Limited</td>
+<td>2015</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 </tr>
 <tr>
 <td>3.</td>
 <td>My First English Adventure 2 Pupils Book, Activity Book, Teacher’s Book, Songs CD, DVD</td>
-<td colspan="3">
+<td>
 MadyMusiol,
 MagalyVillarroel
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Pearson Education Limited</td>
+<td>2015</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 </tr>
 <tr>
 <td>4.</td>
 <td>My little Island 1 Activity Book+CD, Teacher’s Book, Class audio CD, Flashcards</td>
-<td colspan="3">LeoneDyson</td>
-<td colspan="2">2015</td>
-<td colspan="3">Pearson Education Limited</td>
+<td>LeoneDyson</td>
+<td>2015</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 </tr>
 <tr>
 <td>5.</td>
 <td>My little Island 2 Students Book, Activity Book+ CD, Teacher’s Book, Class audio CD, Flashcards</td>
-<td colspan="3">LeoneDyson</td>
-<td colspan="2">2015</td>
-<td colspan="3">Pearson Education Limited</td>
+<td>LeoneDyson</td>
+<td>2015</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 </tr>
 <tr>
 <td>6.</td>
 <td>My little Island 3 Students Book, Activity Book+ CD, Teacher’s Book,Class audio CD, Flashcards</td>
-<td colspan="3">LeoneDyson</td>
-<td colspan="2">2015</td>
-<td colspan="3">Pearson Education Limited</td>
+<td>LeoneDyson</td>
+<td>2015</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Next move Starter Pupil`s Book, Work Book</td>
-<td colspan="3">
+<td>
 A.​Cant,
 M. Charrington
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>2015</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
@@ -1442,9 +1702,9 @@ M. Charrington
 Hippo and Friends Starter
 Pupils book, Teacher’s book, Class AudioCD, Flashcards, Story Posters, Photocopiable Extras
 </td>
-<td colspan="3">Claire Selby and Lesley McKnight</td>
-<td colspan="2">2015</td>
-<td colspan="3">Cambridge University Press</td>
+<td>Claire Selby and Lesley McKnight</td>
+<td>2015</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 </tr>
 <tr>
@@ -1453,9 +1713,9 @@ Pupils book, Teacher’s book, Class AudioCD, Flashcards, Story Posters, Photoco
 Hippo and Friends 1
 Pupils book, Teacher’s book, Class AudioCD, Flashcards, Story Posters, Photocopiable Extras
 </td>
-<td colspan="3">Claire Selby and Lesley McKnight</td>
-<td colspan="2">2015</td>
-<td colspan="3">Cambridge University Press</td>
+<td>Claire Selby and Lesley McKnight</td>
+<td>2015</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 </tr>
 <tr>
@@ -1464,9 +1724,9 @@ Pupils book, Teacher’s book, Class AudioCD, Flashcards, Story Posters, Photoco
 Hippo and Friends 2
 Pupils book, Teacher’s book, Class AudioCD, Flashcards, Story Posters, Photocopiable Extras
 </td>
-<td colspan="3">Claire Selby and Lesley McKnight</td>
-<td colspan="2">2015</td>
-<td colspan="3">Cambridge University Press</td>
+<td>Claire Selby and Lesley McKnight</td>
+<td>2015</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 </tr>
 <tr>
@@ -1475,35 +1735,35 @@ Pupils book, Teacher’s book, Class AudioCD, Flashcards, Story Posters, Photoco
 Yazoo Starter
 Учебник+ CD. Рабочая тетрадь+ CD. Методическое пособие для учителя.ClassCD
 </td>
-<td colspan="3">Danae Kozanoglou</td>
-<td colspan="2">2015</td>
-<td colspan="3">Pearson Education Limited</td>
+<td>Danae Kozanoglou</td>
+<td>2015</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 </tr>
 <tr>
 <td>12.</td>
 <td>Longman Young Children’s Picture Dictionary</td>
-<td colspan="3">Carolyn Graham, Karen Jamieson</td>
-<td colspan="2">2015</td>
-<td colspan="3">Pearson Education Limited</td>
+<td>Carolyn Graham, Karen Jamieson</td>
+<td>2015</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 </tr>
 <tr>
 <td>13.</td>
 <td>Longman Children’s Picture Dictionary</td>
-<td colspan="3">
+<td>
 Carolyn Graham, Karen Jamieson,
 Aleda Krause,
 Keiko Abe-Ford,
 Greg Cossu
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Pearson Education Limited</td>
+<td>2015</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 </tr>
 <tr>
-<td>4-5 жас</td>
-<td></td>
+<th colspan="6">4-5 жас</th>
+<th></th>
 </tr>
 <tr>
 <td>14.</td>
@@ -1511,9 +1771,9 @@ Greg Cossu
 Captain Jack 1
 Pupil’s Book Pack
 </td>
-<td colspan="3">Jill Leighton</td>
-<td colspan="2">2016</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>Jill Leighton</td>
+<td>2016</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
@@ -1522,9 +1782,9 @@ Pupil’s Book Pack
 Captain Jack 1
 Teacher’s Notes
 </td>
-<td colspan="3">Jill Leighton</td>
-<td colspan="2">2016</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>Jill Leighton</td>
+<td>2016</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
@@ -1533,17 +1793,17 @@ Teacher’s Notes
 Captain Jack 2
 Pupil’s Book Pack
 </td>
-<td colspan="3">Jill Leighton</td>
-<td colspan="2">2016</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>Jill Leighton</td>
+<td>2016</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>17.</td>
 <td>Captain Jack 2 Teacher’s Notes</td>
-<td colspan="3">Jill Leighton</td>
-<td colspan="2">2016</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>Jill Leighton</td>
+<td>2016</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
@@ -1552,41 +1812,41 @@ Pupil’s Book Pack
 Learning stars 1
 Pupil’s Book Pack
 </td>
-<td colspan="3">Jeanne Perrett, Jill Leighton</td>
-<td colspan="2">2016</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>Jeanne Perrett, Jill Leighton</td>
+<td>2016</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>19.</td>
 <td>Learning stars 1 Activity Book</td>
-<td colspan="3">Jeanne Perrett, Jill Leighton</td>
-<td colspan="2">2016</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>Jeanne Perrett, Jill Leighton</td>
+<td>2016</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>20.</td>
 <td>Learning stars 1 Teacher’s Book Pack</td>
-<td colspan="3">Old Refaat</td>
-<td colspan="2">2016</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>Old Refaat</td>
+<td>2016</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>21.</td>
 <td>Learning stars 1 Maths Book</td>
-<td colspan="3">Jill Leighton</td>
-<td colspan="2">2016</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>Jill Leighton</td>
+<td>2016</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>22.</td>
 <td>Learning stars 1 CD</td>
-<td colspan="3">Jeanne Perrett, Jill Leighton</td>
-<td colspan="2">2016</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>Jeanne Perrett, Jill Leighton</td>
+<td>2016</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
@@ -1595,92 +1855,92 @@ Pupil’s Book Pack
 Little Learning Stars
 Student’s Book
 </td>
-<td colspan="3">Jeanne Perrett</td>
-<td colspan="2">2016</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>Jeanne Perrett</td>
+<td>2016</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>24.</td>
 <td>Little Learning Stars Teacher’s Book Pack</td>
-<td colspan="3">Jeanne Perrett</td>
-<td colspan="2">2016</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>Jeanne Perrett</td>
+<td>2016</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
-<td>5-7 жас</td>
-<td></td>
+<th colspan="6">5-7 жас</th>
+<th></th>
 </tr>
 <tr>
 <td>25.</td>
 <td>Үш тілдің патшалығы&quot; кітап 1. The kingdom of three languages book 1. Королевство трех яз. Книга 1. + Тетрадь приложение к книге &quot;Үш тілдің патшалығы&quot; дәптер 1 The kingdom of three languages 1</td>
-<td colspan="3">А. Сәулебаева, М.Абаева-Бегалиева, З.Д.Казакова, О.Н. Гумирова</td>
-<td colspan="2">2016</td>
-<td colspan="3">Шикула и К</td>
+<td>А. Сәулебаева, М.Абаева-Бегалиева, З.Д.Казакова, О.Н. Гумирова</td>
+<td>2016</td>
+<td colspan="2">Шикула и К</td>
 <td></td>
 </tr>
 <tr>
 <td>26.</td>
 <td>Үш тілдің патшалығы&quot; кітап 2 The kingdom of three languages book 2 Королевство трех яз. Книга 2 +Тетрадь приложение к книге &quot;Үш тілдің патшалығы&quot; дәптер 2 The kingdom of three languages 2</td>
-<td colspan="3">А. Сәулебаева, М.Абаева-Бегалиева, З.Д.Казакова, О.Н. Гумирова</td>
-<td colspan="2">2016</td>
-<td colspan="3">Шикула и К</td>
+<td>А. Сәулебаева, М.Абаева-Бегалиева, З.Д.Казакова, О.Н. Гумирова</td>
+<td>2016</td>
+<td colspan="2">Шикула и К</td>
 <td></td>
 </tr>
 <tr>
 <td>27.</td>
 <td>Үш тілдің патшалығы&quot; кітап 3 The kingdom of three languages book 3 Королевство трех яз. Книга 3 + Тетрадь приложение к книге &quot;Үш тілдің патшалығы&quot; дәптер 3 The kingdom of three languages 3</td>
-<td colspan="3">А. Сәулебаева, М.Абаева-Бегалиева, З.Д.Казакова, О.Н. Гумирова</td>
-<td colspan="2">2016</td>
-<td colspan="3">Шикула и К</td>
+<td>А. Сәулебаева, М.Абаева-Бегалиева, З.Д.Казакова, О.Н. Гумирова</td>
+<td>2016</td>
+<td colspan="2">Шикула и К</td>
 <td></td>
 </tr>
 <tr>
 <td>28.</td>
 <td>Үш тілдің патшалығы&quot; кітап 4 The kingdom of three languages book 4 Королевство трех яз. Книга 4 +Тетрадь приложение к книге &quot;Үш тілдің патшалығы&quot; дәптер 4 The kingdom of three languages 4</td>
-<td colspan="3">А. Сәулебаева, М.Абаева-Бегалиева, З.Д.Казакова, О.Н. Гумирова</td>
-<td colspan="2">2016</td>
-<td colspan="3">Шикула и К</td>
+<td>А. Сәулебаева, М.Абаева-Бегалиева, З.Д.Казакова, О.Н. Гумирова</td>
+<td>2016</td>
+<td colspan="2">Шикула и К</td>
 <td></td>
 </tr>
 <tr>
 <td>29.</td>
 <td>Үш тілдің патшалығы&quot; кітап 5 The kingdom of three languages book 5 Королевство трех яз. Книга5 +Тетрадь приложение к книге &quot;Үш тілдің патшалығы&quot; дәптер 5 The kingdom of three languages 5</td>
-<td colspan="3">А. Сәулебаева, М.Абаева-Бегалиева, З.Д.Казакова, О.Н. Гумирова</td>
-<td colspan="2">2016</td>
-<td colspan="3">Шикула и К</td>
+<td>А. Сәулебаева, М.Абаева-Бегалиева, З.Д.Казакова, О.Н. Гумирова</td>
+<td>2016</td>
+<td colspan="2">Шикула и К</td>
 <td></td>
 </tr>
 <tr>
 <td>30.</td>
 <td>&quot;School English 25 lessons&quot;</td>
-<td colspan="3">Бобровская К.</td>
-<td colspan="2">2016</td>
-<td colspan="3">Шикула и К</td>
+<td>Бобровская К.</td>
+<td>2016</td>
+<td colspan="2">Шикула и К</td>
 <td></td>
 </tr>
 <tr>
 <td>31.</td>
 <td>Stories about Kazakhstan. А cultural reader. Книга для чтения дополнительного чтения на английском языке 9-11</td>
-<td colspan="3">Новокрещенов А.</td>
-<td colspan="2">2016</td>
-<td colspan="3">Келешек-2030</td>
+<td>Новокрещенов А.</td>
+<td>2016</td>
+<td colspan="2">Келешек-2030</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">1 сынып</td>
+<td colspan="6">1 сынып</td>
 <td></td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Fly High 1. –Primary school pack for Kazakhstan</td>
-<td colspan="3">
+<td>
 Дальская Л.,
 Бондарева А
 </td>
-<td colspan="2">2013</td>
-<td colspan="3">Альраминь</td>
+<td>2013</td>
+<td colspan="2">Альраминь</td>
 <td></td>
 </tr>
 <tr>
@@ -1691,91 +1951,91 @@ RideHigh 1 Учебник
 Книга для учителя
 1 класс
 </td>
-<td colspan="3">Кадырханова Г., Шокобаева Н.</td>
-<td colspan="2">2014</td>
-<td colspan="3">International Book Publisher</td>
+<td>Кадырханова Г., Шокобаева Н.</td>
+<td>2014</td>
+<td colspan="2">International Book Publisher</td>
 <td></td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Yazoo Level 1 Pupils’ Book, CD</td>
-<td colspan="3">Charlotte Covill, Jeanne Perrett</td>
-<td colspan="2">2014</td>
-<td colspan="3">Альраминь Pearson Longman</td>
+<td>Charlotte Covill, Jeanne Perrett</td>
+<td>2014</td>
+<td colspan="2">Альраминь Pearson Longman</td>
 <td></td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Yazoo Level 1 Teacher’s Book</td>
-<td colspan="3">Rachel Finnie</td>
-<td colspan="2">2014</td>
-<td colspan="3">Альраминь Pearson Longman</td>
+<td>Rachel Finnie</td>
+<td>2014</td>
+<td colspan="2">Альраминь Pearson Longman</td>
 <td></td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Yazoo Level 1 Activity Book,CD</td>
-<td colspan="3">Charlotte Covi, Jeanne Perrett</td>
-<td colspan="2">2014</td>
-<td colspan="3">Альраминь Pearson Longman</td>
+<td>Charlotte Covi, Jeanne Perrett</td>
+<td>2014</td>
+<td colspan="2">Альраминь Pearson Longman</td>
 <td></td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Yazoo Level Class CDs</td>
-<td colspan="3">Charlotte Covi, Jeanne Perrett</td>
-<td colspan="2">2014</td>
-<td colspan="3">Альраминь Pearson Longman</td>
+<td>Charlotte Covi, Jeanne Perrett</td>
+<td>2014</td>
+<td colspan="2">Альраминь Pearson Longman</td>
 <td></td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Wolf and the Little Kids Книга для чтения</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2013</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2013</td>
+<td colspan="2">Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>8.</td>
 <td>The Bottlenose Dolphin Книга для чтения CLIL</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td colspan="2">Edu Stream</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">2 сынып</td>
+<td colspan="6">2 сынып</td>
 <td></td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Fly High 2. –Primary school pack for Kazakhstan</td>
-<td colspan="3">
+<td>
 Дальская Л.,
 Бондарева А
 </td>
-<td colspan="2">2013</td>
-<td colspan="3">Альраминь</td>
+<td>2013</td>
+<td colspan="2">Альраминь</td>
 <td></td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Brilliant 2 forKZ. Учебник, адаптированная версия. Рабочая тетрадь, адаптированная версия. Книга для учителя. адаптированная версия. Аудиодиск</td>
-<td colspan="3">J. Perret, Ch.​Covill</td>
-<td colspan="2">2013</td>
-<td colspan="3">Macmillan</td>
+<td>J. Perret, Ch.​Covill</td>
+<td>2013</td>
+<td colspan="2">Macmillan</td>
 <td></td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Primary Colours 2 for KZ. Учебник, адаптированная версия. Рабочая тетрадь. Аудиодиск</td>
-<td colspan="3">
+<td>
 D. Hicks,
 A. Littlejohn
 </td>
-<td colspan="2">2013</td>
-<td colspan="3">Cambridge University Press</td>
+<td>2013</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 </tr>
 <tr>
@@ -1785,9 +2045,9 @@ FUN for Starters
 Student’s Book,
 Teacher’s Book,CD
 </td>
-<td colspan="3">Anne Robinson, Karen Saxby</td>
-<td colspan="2">2014</td>
-<td colspan="3">Cambridge University Press</td>
+<td>Anne Robinson, Karen Saxby</td>
+<td>2014</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 </tr>
 <tr>
@@ -1796,9 +2056,9 @@ Teacher’s Book,CD
 Storyfun for Starters Student’s Book,
 Teacher’s book+CD
 </td>
-<td colspan="3">Karen Saxby</td>
-<td colspan="2">2014</td>
-<td colspan="3">Cambridge University Press</td>
+<td>Karen Saxby</td>
+<td>2014</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 </tr>
 <tr>
@@ -1807,12 +2067,12 @@ Teacher’s book+CD
 New Grammar Time 2
 Student`s Book, CD
 </td>
-<td colspan="3">
+<td>
 S.​Jervis,
 A.​Thomas
 </td>
-<td colspan="2">2014</td>
-<td colspan="3">Pearson Education Limited</td>
+<td>2014</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 </tr>
 <tr>
@@ -1823,24 +2083,24 @@ RideHigh 2 Учебник,
 Книга для учителя
 2 класс
 </td>
-<td colspan="3">Кадырханова Г., Шокобаева Н.</td>
-<td colspan="2">2014</td>
-<td colspan="3">International Book Publisher</td>
+<td>Кадырханова Г., Шокобаева Н.</td>
+<td>2014</td>
+<td colspan="2">International Book Publisher</td>
 <td></td>
 </tr>
 <tr>
-<td>1-4 сыныптар</td>
-<td></td>
+<th colspan="6">1-4 сыныптар</th>
+<th></th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Teaching Young Learners To Think ELT-Activities for young learners aged 6-12</td>
-<td colspan="3">
+<td>
 Herbert Puchta
 Marion Williams
 </td>
-<td colspan="2">2014</td>
-<td colspan="3">Cambridge University Press</td>
+<td>2014</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 </tr>
 <tr>
@@ -1849,110 +2109,110 @@ Marion Williams
 New Grammar Time 4
 Student`s Book, CD
 </td>
-<td colspan="3">
+<td>
 S.​Jervis,
 A.​Thomas
 </td>
-<td colspan="2">2014</td>
-<td colspan="3">Pearson Education Limited</td>
+<td>2014</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Young Learners Practice Tests Starters Student book</td>
-<td colspan="3">Sandra Fox</td>
-<td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>Sandra Fox</td>
+<td>2015</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Young Learners Practice Tests Movers Student book</td>
-<td colspan="3">Sandra Fox</td>
-<td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>Sandra Fox</td>
+<td>2015</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Young Learners Practice Tests Flyers Student book</td>
-<td colspan="3">Bryan Stephens</td>
-<td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>Bryan Stephens</td>
+<td>2015</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Learning Stars Level 2 Pupil`s Book, Activity Book, Teacher`s Book, Maths Book</td>
-<td colspan="3">
+<td>
 Jeanne Perrett,
 Jill Leighton
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>2015</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Culture View Level 1 pack</td>
-<td colspan="3">
+<td>
 Jeanne Perrett,
 Jill Leighton
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>2015</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Grammar Goals Level 1 Pupil`s Book, Teacher`s Book</td>
-<td colspan="3">
+<td>
 Nicole Taylor,
 Michael Watts
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>2015</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Grammar Goals Level 2 Pupil`s Book, Teacher`s Book</td>
-<td colspan="3">
+<td>
 Nicole Taylor,
 Michael Watts
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>2015</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Grammar Goals Level 3 Pupil`s Book, Teacher`s Book</td>
-<td colspan="3">
+<td>
 Judie Tice,
 Dave Tucker
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>2015</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>11.</td>
 <td>Family and Friends 4 Class book+CD, Work book with online practice, Class Audio CD</td>
-<td colspan="3">N. Simmons</td>
-<td colspan="2">2015</td>
-<td colspan="3">Oxford University Press</td>
+<td>N. Simmons</td>
+<td>2015</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 </tr>
 <tr>
 <td>12.</td>
 <td>Next move 1 Pupil`s Book, Work Book</td>
-<td colspan="3">
+<td>
 A.​Cant,
 M. Charrington
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Macmillan Publisher</td>
+<td>2015</td>
+<td colspan="2">Macmillan Publisher</td>
 <td></td>
 </tr>
 <tr>
@@ -1961,9 +2221,9 @@ M. Charrington
 YazooLevel 3
 Учебник + CD, Рабочая тетрадь + CD, Методическое пособие для учителя, ClassCD
 </td>
-<td colspan="3">Charlotte Covill, Jeanne Perrett with Tessa Lochowski</td>
-<td colspan="2">2015</td>
-<td colspan="3">Pearson Education Limited</td>
+<td>Charlotte Covill, Jeanne Perrett with Tessa Lochowski</td>
+<td>2015</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 </tr>
 <tr>
@@ -1973,9 +2233,9 @@ Yazoo Level 4
 Учебник + CD. Рабочая тетрадь + CD.
 Методическое пособие для учителя. ClassCD
 </td>
-<td colspan="3">Charlotte Covill, Jeanne Perrett</td>
-<td colspan="2">2015</td>
-<td colspan="3">Pearson Education Limited</td>
+<td>Charlotte Covill, Jeanne Perrett</td>
+<td>2015</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 </tr>
 <tr>
@@ -1985,25 +2245,25 @@ Fly High 3
 Primary School pack
 for Kazakhstan
 </td>
-<td colspan="3">Дальская Лариса</td>
-<td colspan="2">2015</td>
-<td colspan="3">Альраминь</td>
+<td>Дальская Лариса</td>
+<td>2015</td>
+<td colspan="2">Альраминь</td>
 <td></td>
 </tr>
 <tr>
 <td>16.</td>
 <td>Fly High 4 Primary School pack for Kazakhstan</td>
-<td colspan="3">
+<td>
 Бондарева Ануш,
 Дальская Лариса
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Альраминь</td>
+<td>2015</td>
+<td colspan="2">Альраминь</td>
 <td></td>
 </tr>
 <tr>
-<td>4 сынып</td>
-<td></td>
+<th colspan="6">4 сынып</th>
+<th></th>
 </tr>
 <tr>
 <td>1.</td>
@@ -2011,25 +2271,25 @@ for Kazakhstan
 Our Discovery Island 3 for Kazakhstan
 Student’s Book plus pin code
 </td>
-<td colspan="3">Tessa Lochowski, Jeanne Perrett, translation by Mariya Batyrbekova</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Tessa Lochowski, Jeanne Perrett, translation by Mariya Batyrbekova</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Our Discovery Island 3 Activity Book and CD ROM (Pupil) Pack</td>
-<td colspan="3">Tessa Lochowski, Jeanne Perrett</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Our Discovery Island 3 Teacher`s book plus pin code</td>
-<td colspan="3">Tessa Lochowski, Jeanne Perrett</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -2038,17 +2298,17 @@ Student’s Book plus pin code
 Our Discovery Island 3
 Audio CD
 </td>
-<td colspan="3">Tessa Lochowski, Jeanne Perrett</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Our Discovery Island 3 DVD</td>
-<td colspan="3">Tessa Lochowski, Jeanne Perrett</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -2057,25 +2317,25 @@ Audio CD
 Our Discovery Island 3
 Active Teach
 </td>
-<td colspan="3">Tessa Lochowski, Jeanne Perrett</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Our Discovery Island 3 Flashcards</td>
-<td colspan="3">Tessa Lochowski, Jeanne Perrett</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Our Discovery Island 3 Storycards</td>
-<td colspan="3">Tessa Lochowski, Jeanne Perrett</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Tessa Lochowski, Jeanne Perrett</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -2084,30 +2344,30 @@ Active Teach
 Grammar Goals 4 British English
 Pupil’s Book Pack
 </td>
-<td colspan="3">
+<td>
 Julie Tice,
 Dave Tucker
 </td>
-<td colspan="2">2016</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>2016</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Grammar Goals 4 British English Teacher’s Book Pack</td>
-<td colspan="3">Anita Heald</td>
-<td colspan="2">2016</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>Anita Heald</td>
+<td>2016</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
-<td>5-9 сыныптар</td>
-<td></td>
+<th colspan="6">5-9 сыныптар</th>
+<th></th>
 </tr>
 <tr>
 <td>1.</td>
 <td>NewInspiration 3 Учебник. Рабочая тетрадь. Книга для учителя</td>
-<td colspan="3">
+<td>
 J. Garton-Sprenger,
 Ph. Prowse,
 A. Bailey,
@@ -2115,82 +2375,82 @@ T. Bowen,
 S. McKee,
 H. Gomm
 </td>
-<td colspan="2">2013</td>
-<td colspan="3">Macmillan</td>
+<td>2013</td>
+<td colspan="2">Macmillan</td>
 <td></td>
 </tr>
 <tr>
 <td>2.</td>
 <td>English in Mind 2 for Kazakhstan. Адаптированная версия книга для ученика. Рабочая тетрадь. Книга для учителя. Дидактический материал для учителя. Аудио CD. DVD</td>
-<td colspan="3">
+<td>
 H. Puchta &amp;
 J. Stranks,
 G. Gerngross,
 P. Lewis-Jones
 </td>
-<td colspan="2">2013</td>
-<td colspan="3">Cambridge University Press</td>
+<td>2013</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Project 5 Учебник. Рабочая тетрадь. Книга для учителя. Аудиодиск. DVD-ROM. CD-ROM</td>
-<td colspan="3">
+<td>
 T. Hutchinson,
 L. Edwards,
 J.​Gault
 </td>
-<td colspan="2">2013</td>
-<td colspan="3">Oxford University Press</td>
+<td>2013</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Project Grammar. Graded Practice</td>
-<td colspan="3">C. Barraclough</td>
-<td colspan="2">2013</td>
-<td colspan="3">Oxford University Press</td>
+<td>C. Barraclough</td>
+<td>2013</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 </tr>
 <tr>
 <td>5.</td>
 <td>New Choices Intermediate. Учебник (в комплекте с книгой Language Choice). Рабочая тетрадь с аудио CD. Книга для учителя с мульти- ROMDVD. Аудиодиск для работы в классе</td>
-<td colspan="3">
+<td>
 M. Harris,
 A. Sikorzynska
 </td>
-<td colspan="2">2013</td>
-<td colspan="3">Pearson</td>
+<td>2013</td>
+<td colspan="2">Pearson</td>
 <td></td>
 </tr>
 <tr>
 <td>6.</td>
 <td>New Success Pre-Intermediate Учебник с рабочей тетрадью в формате мульти- ROM. Рабочая тетрадь с аудио CD. Книга для учителя с DVD-ROM. Аудио CD для работы в классе</td>
-<td colspan="3">
+<td>
 B .Hastings,
 St. McKinlay,
 P. Moran,
 Liz Foody,
 L. White
 </td>
-<td colspan="2">2013</td>
-<td colspan="3">Pearson</td>
+<td>2013</td>
+<td colspan="2">Pearson</td>
 <td></td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Project 1 Student`s book, Work book+CD, Teacher`s book+Multi Rom Resources, DVD, Class CDs, Interactive Whiteboard Resources</td>
-<td colspan="3">T.​Hutchinson</td>
-<td colspan="2">2015</td>
-<td colspan="3">Oxford University Press</td>
+<td>T.​Hutchinson</td>
+<td>2015</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Project 2 Student`s book, Work book+CD, Teacher`s book+Multi Rom Resources, DVD, Class CDs, Interactive Whiteboard Resources</td>
-<td colspan="3">T.​Hutchinson</td>
-<td colspan="2">2015</td>
-<td colspan="3">Oxford University Press</td>
+<td>T.​Hutchinson</td>
+<td>2015</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 </tr>
 <tr>
@@ -2199,50 +2459,50 @@ L. White
 Hot Spot 1
 Student`s Book, Activity Book, Teacher`s Book
 </td>
-<td colspan="3">Colin Granger</td>
-<td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>Colin Granger</td>
+<td>2015</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>10.</td>
 <td>English World 6 Pupil`s Book, Work Book, Teacher`s book</td>
-<td colspan="3">
+<td>
 Mary Bowen,
 Liz Hocking
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>2015</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>11.</td>
 <td>Motivate! Level 2 Student`s Book, Work Book, Teacher`s Book</td>
-<td colspan="3">E.​Heyderman, F.​Mauchline</td>
-<td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>E.​Heyderman, F.​Mauchline</td>
+<td>2015</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>12.</td>
 <td>Motivate! Level 4 Student`s Book, Work Book, Teacher`s Book</td>
-<td colspan="3">
+<td>
 P.​Howarth,
 P.​Reilly
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>2015</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>13.</td>
 <td>Laser A1+ Student`s Book, Work Book, Teacher`s Book</td>
-<td colspan="3">
+<td>
 M.​Mann,
 S.​Taylore-Knowles
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>2015</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
@@ -2252,15 +2512,15 @@ Salem 7
 Practice book,
 Teacher’s book
 </td>
-<td colspan="3">
+<td>
 Б. Канапина,
 А. Кондыбаева,
 Д. Анашева,
 А. Борамбаева,
 А. Базылжанова
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Самғай біл</td>
+<td>2015</td>
+<td colspan="2">Самғай біл</td>
 <td></td>
 </tr>
 <tr>
@@ -2270,43 +2530,43 @@ Salem 8
 Practice book,
 Teacher’s book
 </td>
-<td colspan="3">
+<td>
 Б. Канапина
 А. Кондыбаева
 Д. Анашева
 А. Борамбаева
 А. Базылжанов
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Самғай біл</td>
+<td>2015</td>
+<td colspan="2">Самғай біл</td>
 <td></td>
 </tr>
 <tr>
 <td>16.</td>
 <td>Beyond Level A2+ Student`s Book, Work Book, Teacher`s Book</td>
-<td colspan="3">R.​Campbell, R.​Metcalf</td>
-<td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>R.​Campbell, R.​Metcalf</td>
+<td>2015</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
 <td>17.</td>
 <td>Beyond Level B1 Student`s Book, Work Book, Teacher`s Book</td>
-<td colspan="3">R.​Campbell, R.​Metcalf</td>
-<td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td>R.​Campbell, R.​Metcalf</td>
+<td>2015</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">5 сынып</td>
+<td colspan="6">5 сынып</td>
 <td></td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Discover English 1 for Kazakhstan Student’s Book</td>
-<td colspan="3">Izabella Hearn, Jayne Wilman, translation by Mariya Batyrbekova Mulrooney</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman, translation by Mariya Batyrbekova Mulrooney</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -2315,17 +2575,17 @@ Teacher’s book
 Discover English 1
 Work book
 </td>
-<td colspan="3">Izabella Hearn, Jayne Wilman</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Discover English 1 Active Teach</td>
-<td colspan="3">Izabella Hearn, Jayne Wilman</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -2334,77 +2594,92 @@ Work book
 Discover English 1
 Class CDs 1-2
 </td>
-<td colspan="3">Izabella Hearn, Jayne Wilman</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Discover English 1 Teacher’s book</td>
-<td colspan="3">Izabella Hearn, Jayne Wilman</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Upbeat Starter Student’s Book Kazakhstan</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage Translations by Mariya Batyrbekova Mulrooney</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage Translations by Mariya Batyrbekova Mulrooney</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Upbeat Starter Language Builder</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Upbeat Starter Teacher`s Book</td>
-<td colspan="3">Ingrid Freebairn, JonatanBygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, JonatanBygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Upbeat Starter Audio CD</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Upbeat Starter Test Book</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>11.</td>
 <td>Upbeat Starter Motivator</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">6 сынып</td>
+<td>12.</td>
+<td>
+New Round-Up 1.
+Students’ Book + CD-Rom
+Teacher’s Book+ Audio CD
+</td>
+<td>Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td colspan="2">
+Альраминь/
+Pearson Education Limited
+</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">6 сынып</td>
 <td></td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Discover English 2 for Kazakhstan Student’s Book</td>
-<td colspan="3">Izabella Hearn, Jayne Wilman, translation by AsselAkisheva</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman, translation by AsselAkisheva</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -2413,17 +2688,17 @@ Class CDs 1-2
 Discover English 2
 Work book
 </td>
-<td colspan="3">Izabella Hearn, Jayne Wilman</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Discover English 2 Active Teach</td>
-<td colspan="3">Izabella Hearn, Jayne Wilman</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -2432,93 +2707,104 @@ Work book
 Discover English 2
 Class CDs 1-2
 </td>
-<td colspan="3">Izabella Hearn, Jayne Wilman</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Discover English 2 Teacher’s book</td>
-<td colspan="3">Izabella Hearn, Jayne Wilman</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Upbeat Elementary Student’s Book Kazakhstan</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey, Translation by Mariya Batyrbekova Mulrooney, Symbat Berikova</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey, Translation by Mariya Batyrbekova Mulrooney, Symbat Berikova</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Upbeat Elementary Language Builder</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Upbeat Elementary Teacher`s Book</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Upbeat Elementary Audio CD</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Upbeat Elementary Test Book</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>11.</td>
 <td>Upbeat Elementary Motivator</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
-<td>7 сынып</td>
+<td>12.</td>
+<td>Macmillan English Grammar in Context Essential (MEGIC) + CD</td>
+<td>Simon Clarke</td>
+<td>2017</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th colspan="5">7 сынып</th>
+<th></th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Discover English 3 for Kazakhstan Student’s Book</td>
-<td colspan="3">Izabella Hearn, Jayne Wilman, translation by AsselAkisheva</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman, translation by AsselAkisheva</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Discover English 3 Work book</td>
-<td colspan="3">Izabella Hearn, Jayne Wilman</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Discover English 3 Active Teach</td>
-<td colspan="3">Izabella Hearn, Jayne Wilman</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -2527,327 +2813,327 @@ Class CDs 1-2
 Discover English 3
 Class CDs 1-2
 </td>
-<td colspan="3">Izabella Hearn, Jayne Wilman</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Discover English 3 Teacher’s book</td>
-<td colspan="3">Izabella Hearn, Jayne Wilman</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Upbeat Pre-Intermediate Student’s Book Kazakhstan</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage Translations by Mariya Batyrbekova Mulrooney</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage Translations by Mariya Batyrbekova Mulrooney</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Upbeat Pre-Intermediate Language BuilderKazakhstan</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Upbeat Pre-Intermediate Teacher`s Book</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Upbeat Pre-Intermediate Audio CD</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Upbeat Pre-Intermediate Test Book</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>11.</td>
 <td>Upbeat Pre-Intermediate Motivator</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>12.</td>
 <td>Macbeth Книга для чтения</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>13.</td>
 <td>Kidnapped Книга для чтения</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>14.</td>
 <td>Goldilocks and the Three Bears Книга для чтения</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>15.</td>
 <td>Jack and the Beans Talk Книга для чтения</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>16.</td>
 <td>The Story of Santa Claus Книга для чтения</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>17.</td>
 <td>Snow White and the 7 Dwarfs Книга для чтения</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>18.</td>
 <td>Worms Книга для чтения CLIL</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>19.</td>
 <td>The Loggerheads Книга для чтения CLIL</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>20.</td>
 <td>The Amazon Rainforest Книга для чтения CLIL</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>21.</td>
 <td>Perseus and Adromeda Книга для чтения</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>22.</td>
 <td>Perseus and Adromeda Книга для учителя</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>23.</td>
 <td>Perseus and Adromeda Рабочая тетрадь</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>24.</td>
 <td>Romeo and Juliet Книга для чтения</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>25.</td>
 <td>Huckleberry Finn Книга для чтения</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>26.</td>
 <td>The Picture of Dorian Gray Книга для чтения</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>27.</td>
 <td>The Picture of Dorian Gray Книга для учителя</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>28.</td>
 <td>The Picture of Dorian Gray рабочая тетрадь</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>29.</td>
 <td>The Man in the Iron Mask Книга для чтения</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>30.</td>
 <td>The Man in the Iron Mask Книга для учителя</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>31.</td>
 <td>The Man in the Iron Mask рабочая тетрадь</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>32.</td>
 <td>David Copperfield Книга для чтения</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>33.</td>
 <td>David Copperfield Рабочая тетрадь</td>
-<td colspan="3">Jenny Doodey, Virginia Evans</td>
-<td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td>Jenny Doodey, Virginia Evans</td>
+<td>2015</td>
+<td>Edu Stream</td>
 <td></td>
 </tr>
 <tr>
 <td>34.</td>
 <td>Algebra</td>
-<td colspan="3">
+<td>
 K. Kozhahmetov,
 B. Kulmagambetov,
 С. Bazarov
 </td>
-<td colspan="2">2016</td>
-<td colspan="3">Астана-Кітап</td>
+<td>2016</td>
+<td>Астана-Кітап</td>
 <td></td>
 </tr>
 <tr>
 <td>35.</td>
 <td>Geometry</td>
-<td colspan="3">
+<td>
 K. Kozhahmetov,
 Y. Palzhanov
 С. Bazarov
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Астана-Кітап</td>
+<td>2015</td>
+<td>Астана-Кітап</td>
 <td></td>
 </tr>
 <tr>
 <td>36.</td>
 <td>Biology</td>
-<td colspan="3">
+<td>
 B.​Kenci,
 B.​Ermetov, E.​Ospankulova, A.​Bayzhahanov, A.​Sagintayev
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Астана-Кітап</td>
+<td>2015</td>
+<td>Астана-Кітап</td>
 <td></td>
 </tr>
 <tr>
 <td>37.</td>
 <td>Biology. 7 GRADE</td>
-<td colspan="3">
+<td>
 K. Kaim,
 R. Satymbekov
 A. Ametova,
 Zh. Kozhantaeva
 </td>
-<td colspan="2">2014</td>
-<td colspan="3">Атамұра</td>
+<td>2014</td>
+<td>Атамұра</td>
 <td></td>
 </tr>
 <tr>
 <td>38.</td>
 <td>Physics &amp; Astronomy</td>
-<td colspan="3">
+<td>
 A. Tussyubzhanov,
 Y. Duiseyev
 </td>
-<td colspan="2">2016</td>
-<td colspan="3">Астана-Кітап</td>
+<td>2016</td>
+<td>Астана-Кітап</td>
 <td></td>
 </tr>
 <tr>
 <td>39.</td>
 <td>New Challenges Students’s Book 2</td>
-<td colspan="3">
+<td>
 Liz Kilbey,
 Lindsay White
 </td>
-<td colspan="2">2013</td>
-<td colspan="3">Альраминь Pearson Longman</td>
+<td>2013</td>
+<td>Альраминь Pearson Longman</td>
 <td></td>
 </tr>
 <tr>
 <td>40.</td>
 <td>New Challenges Teacher’s Handbook2, CD</td>
-<td colspan="3">Patricia Mugglestone</td>
-<td colspan="2">2012</td>
-<td colspan="3">Альраминь Pearson Longman</td>
+<td>Patricia Mugglestone</td>
+<td>2012</td>
+<td>Альраминь Pearson Longman</td>
 <td></td>
 </tr>
 <tr>
 <td>41.</td>
 <td>New Challenges Workbook2, CD</td>
-<td colspan="3">Michael Harris, David Mower, Anna Sikorzynska, Lindsay White</td>
-<td colspan="2">2014</td>
-<td colspan="3">Альраминь Pearson Longman</td>
+<td>Michael Harris, David Mower, Anna Sikorzynska, Lindsay White</td>
+<td>2014</td>
+<td>Альраминь Pearson Longman</td>
 <td></td>
 </tr>
 <tr>
@@ -2856,21 +3142,51 @@ Lindsay White
 New Challenges Class
 CD 2
 </td>
-<td colspan="3">Michael Harris, David Mower, Anna Sikorzynska, Lindsay White</td>
-<td colspan="2">2014</td>
-<td colspan="3">Альраминь Pearson Longman</td>
+<td>Michael Harris, David Mower, Anna Sikorzynska, Lindsay White</td>
+<td>2014</td>
+<td>Альраминь Pearson Longman</td>
 <td></td>
 </tr>
 <tr>
-<td>8 сынып</td>
+<td>43.</td>
+<td>
+New Round-Up 2.
+Students’ Book + CD-Rom
+Teacher’s Book + Audio CD
+</td>
+<td>Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>
+Альраминь/
+Pearson Education Limited
+</td>
 <td></td>
+</tr>
+<tr>
+<td>44.</td>
+<td>
+New Round-Up 3.
+Students’ Book + CD-Rom
+Teacher’s Book + Audio CD
+</td>
+<td>Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>
+Альраминь/
+Pearson Education Limited
+</td>
+<td></td>
+</tr>
+<tr>
+<th colspan="5">8 сынып</th>
+<th></th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Discover English 4 for Kazakhstan Student’s Book</td>
-<td colspan="3">Izabella Hearn, Jayne Wilman, translation by AsselAkisheva</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman, translation by AsselAkisheva</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -2879,9 +3195,9 @@ CD 2
 Discover English 4
 Activity book
 </td>
-<td colspan="3">Izabella Hearn, Jayne Wilman</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -2890,124 +3206,124 @@ Activity book
 Discover English 4
 Class CDs 1-2
 </td>
-<td colspan="3">Izabella Hearn, Jayne Wilman</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Discover English 4 Teacher’s book</td>
-<td colspan="3">Izabella Hearn, Jayne Wilman</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Izabella Hearn, Jayne Wilman</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Upbeat Intermediate Student’s Book Kazakhstan</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage Translations by Mariya Batyrbekova Mulrooney</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage Translations by Mariya Batyrbekova Mulrooney</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Upbeat Intermediate Language Builder</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Upbeat Intermediate Teacher`s Book</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Upbeat Intermediate Audio CD</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Upbeat Intermediate Test Book</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Upbeat Intermediate Motivator</td>
-<td colspan="3">Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>11.</td>
 <td>Algebra</td>
-<td colspan="3">
+<td>
 K. Kozhahmetov, B.​Kulmagambetov,
 С. Bazarov
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Астана-Кітап</td>
+<td>2015</td>
+<td>Астана-Кітап</td>
 <td></td>
 </tr>
 <tr>
 <td>12.</td>
 <td>Geometry</td>
-<td colspan="3">
+<td>
 K. Kozhahmetov,
 Y. Palzhanov,
 С. Bazarov
 </td>
-<td colspan="2">2015</td>
-<td colspan="3">Астана-Кітап</td>
+<td>2015</td>
+<td>Астана-Кітап</td>
 <td></td>
 </tr>
 <tr>
 <td>13.</td>
 <td>Biology</td>
-<td colspan="3">B.​Kenci, B.​Ermetov, E.​Ospankulova, A.​Bayzhahanov, A.​Sagintayev</td>
-<td colspan="2">2015</td>
-<td colspan="3">Астана-Кітап</td>
+<td>B.​Kenci, B.​Ermetov, E.​Ospankulova, A.​Bayzhahanov, A.​Sagintayev</td>
+<td>2015</td>
+<td>Астана-Кітап</td>
 <td></td>
 </tr>
 <tr>
 <td>14.</td>
 <td>Physics &amp; Astronomy</td>
-<td colspan="3">Mehmet Surmen</td>
-<td colspan="2">2016</td>
-<td colspan="3">Астана-Кітап</td>
+<td>Mehmet Surmen</td>
+<td>2016</td>
+<td>Астана-Кітап</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">9 сынып</td>
+<td colspan="5">9 сынып</td>
 <td></td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Choices Pre-Intermediate for Kazakhstan Students’ Book</td>
-<td colspan="3">Michael Harris, Anna Sikorzynska, Translations by Mariya Batyrbekova Mulrooney</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Michael Harris, Anna Sikorzynska, Translations by Mariya Batyrbekova Mulrooney</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Choices Pre-Intermediate Workbook &amp; Audio CD Pack</td>
-<td colspan="3">Michael Harris, Anna Sikorzynska</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Michael Harris, Anna Sikorzynska</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -3016,21 +3332,74 @@ Y. Palzhanov,
 Choices Pre-Intermediate Teacher’s Book &amp; Multi-
 *6+9+ROM Pack
 </td>
-<td colspan="3">Michael Harris, Anna Sikorzynska</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Michael Harris, Anna Sikorzynska</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Choices Pre-Intermediat Class CDs 1-6</td>
-<td colspan="3">Michael Harris, Anna Sikorzynska</td>
-<td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td>Michael Harris, Anna Sikorzynska</td>
+<td>2014</td>
+<td>English language press</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">11 сынып</td>
+<td>5.</td>
+<td>
+New Round-Up 4.
+Students’ Book + CD-Rom
+Teacher’s Book + Audio CD
+</td>
+<td>Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>
+Альраминь/
+Pearson Education Limited
+</td>
+<td></td>
+</tr>
+<tr>
+<td>6.</td>
+<td>
+New Round-Up 5.
+Students’ Book + CD-Rom
+Teacher’s Book + Audio CD
+</td>
+<td>Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>
+Альраминь/
+Pearson Education Limited
+</td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="5">10-сынып</td>
+</tr>
+<tr>
+<td>1.</td>
+<td>
+New Round-Up 6.
+Students’ Book + CD-Rom
+Teacher’s Book + Audio CD
+</td>
+<td>Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>
+Альраминь/
+Pearson Education Limited
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="9">11 сынып</td>
 <td></td>
 </tr>
 <tr>
@@ -3038,7 +3407,7 @@ Choices Pre-Intermediate Teacher’s Book &amp; Multi-
 <td>Choices Upper-Intermediate for Kazakhstan Students’ Book</td>
 <td colspan="3">Michael Harris, Anna Sikorzynska, Translations by Mariya Batyrbekova Mulrooney</td>
 <td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -3046,7 +3415,7 @@ Choices Pre-Intermediate Teacher’s Book &amp; Multi-
 <td>Choices Upper-Intermediate Workbook</td>
 <td colspan="3">Michael Harris, Anna Sikorzynska</td>
 <td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -3054,7 +3423,7 @@ Choices Pre-Intermediate Teacher’s Book &amp; Multi-
 <td>Choices Upper-Intermediate or Kazakhstan Teacher’s Book &amp; Multi-ROM Pack</td>
 <td colspan="3">Michael Harris, Anna Sikorzynska</td>
 <td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -3062,7 +3431,7 @@ Choices Pre-Intermediate Teacher’s Book &amp; Multi-
 <td>Choices Upper-Intermediate Class CDs 1-6</td>
 <td colspan="3">Michael Harris, Anna Sikorzynska</td>
 <td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -3070,7 +3439,7 @@ Choices Pre-Intermediate Teacher’s Book &amp; Multi-
 <td>Choices Upper-IntermediatActive Teach</td>
 <td colspan="3">Michael Harris, Anna Sikorzynska</td>
 <td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -3078,7 +3447,7 @@ Choices Pre-Intermediate Teacher’s Book &amp; Multi-
 <td>New Success Upper Intermediate for Kazakhstan Students book Pack</td>
 <td colspan="3">Bob Hastings, Stuart McKinlay, Peter Moran, Liz Foody, Lindsay White, translation by Assel Akisheva</td>
 <td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -3086,7 +3455,7 @@ Choices Pre-Intermediate Teacher’s Book &amp; Multi-
 <td>New Success Upper Intermediate Workbook and CD Pack</td>
 <td colspan="3">Bob Hastings, Stuart McKinlay, Peter Moran, Liz Foody, Lindsay White</td>
 <td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -3097,7 +3466,7 @@ Pack
 </td>
 <td colspan="3">Bob Hastings, Stuart McKinlay, Peter Moran, Liz Foody, Lindsay White</td>
 <td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -3105,7 +3474,7 @@ Pack
 <td>New Success Upper Intermediate Class CD</td>
 <td colspan="3">Bob Hastings, Stuart McKinlay, Peter Moran, Liz Foody, Lindsay White</td>
 <td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
@@ -3113,12 +3482,23 @@ Pack
 <td>New Success Upper Intermediate Active Teach</td>
 <td colspan="3">Bob Hastings, Stuart McKinlay, Peter Moran, Liz Foody, Lindsay White</td>
 <td colspan="2">2014</td>
-<td colspan="3">English language press</td>
+<td colspan="2">English language press</td>
 <td></td>
 </tr>
 <tr>
-<td>1-4 сынып</td>
+<td>11.</td>
+<td>IELTS Masterclass</td>
+<td colspan="3">
+Simon Haines,
+Peter May
+</td>
+<td colspan="2">2017</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
+</tr>
+<tr>
+<th colspan="9">1-4 сынып</th>
+<th></th>
 </tr>
 <tr>
 <td>1.</td>
@@ -3128,7 +3508,7 @@ Primary Activity Box
 </td>
 <td colspan="3">C.​Nixon, M. Tomlinson</td>
 <td colspan="2">2013</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 </tr>
 <tr>
@@ -3139,7 +3519,7 @@ Primary Vocabulary Box
 </td>
 <td colspan="3">C.​Nixon, M. Tomlinson</td>
 <td colspan="2">2013</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 </tr>
 <tr>
@@ -3147,7 +3527,7 @@ Primary Vocabulary Box
 <td>Primary Pronunciation Box</td>
 <td colspan="3">C.​Nixon, M. Tomlinson</td>
 <td colspan="2">2013</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 </tr>
 <tr>
@@ -3155,7 +3535,7 @@ Primary Vocabulary Box
 <td>Primary Communication Box</td>
 <td colspan="3">C.​Nixon, M. Tomlinson</td>
 <td colspan="2">2013</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 </tr>
 <tr>
@@ -3163,7 +3543,7 @@ Primary Vocabulary Box
 <td>Primary Reading Box</td>
 <td colspan="3">C.​Nixon, M. Tomlinson</td>
 <td colspan="2">2012</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 </tr>
 <tr>
@@ -3171,7 +3551,7 @@ Primary Vocabulary Box
 <td>Primary Curriculum Box</td>
 <td colspan="3">K.​Bentley</td>
 <td colspan="2">2012</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 </tr>
 <tr>
@@ -3182,13 +3562,13 @@ Primary music Box
 </td>
 <td colspan="3">S.​Will, S.​Reed</td>
 <td colspan="2">2016</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 </tr>
 <tr>
-<td>5-11 сыныптар</td>
-<td></td>
-<td></td>
+<th colspan="8">5-11 сыныптар</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td>1.</td>
@@ -3202,7 +3582,7 @@ L.​Baker &amp; St. Gershon
 P.​Sharma
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Macmillan</td>
+<td colspan="2">Macmillan</td>
 <td></td>
 <td></td>
 </tr>
@@ -3219,7 +3599,7 @@ D.​Bohlke,
 S. H. Hughes
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Macmillan</td>
+<td colspan="2">Macmillan</td>
 <td></td>
 <td></td>
 </tr>
@@ -3236,7 +3616,7 @@ C.​Granger,
 K.​Stannett
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Macmillan</td>
+<td colspan="2">Macmillan</td>
 <td></td>
 <td></td>
 </tr>
@@ -3253,7 +3633,7 @@ M.​Sayer,
 A.​Tennant
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Macmillan</td>
+<td colspan="2">Macmillan</td>
 <td></td>
 <td></td>
 </tr>
@@ -3270,7 +3650,7 @@ M.​Sayer,
 A.​Tennant
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Macmillan</td>
+<td colspan="2">Macmillan</td>
 <td></td>
 <td></td>
 </tr>
@@ -3287,7 +3667,7 @@ M.​Sayer,
 A.​Tennant
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Macmillan</td>
+<td colspan="2">Macmillan</td>
 <td></td>
 <td></td>
 </tr>
@@ -3296,7 +3676,7 @@ A.​Tennant
 <td colspan="2">Reader: The USA</td>
 <td>C.​Degnan-Veness, Ch.​Veness</td>
 <td colspan="2">2014</td>
-<td colspan="3">Macmillan</td>
+<td colspan="2">Macmillan</td>
 <td></td>
 <td></td>
 </tr>
@@ -3305,7 +3685,7 @@ A.​Tennant
 <td colspan="2">Reader: England</td>
 <td>R.​Bladon</td>
 <td colspan="2">2014</td>
-<td colspan="3">Macmillan</td>
+<td colspan="2">Macmillan</td>
 <td></td>
 <td></td>
 </tr>
@@ -3320,7 +3700,7 @@ L.​Hunt,
 S.​McCarter
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Macmillan</td>
+<td colspan="2">Macmillan</td>
 <td></td>
 <td></td>
 </tr>
@@ -3335,7 +3715,7 @@ L.​Hunt,
 S.​McCarter
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Macmillan</td>
+<td colspan="2">Macmillan</td>
 <td></td>
 <td></td>
 </tr>
@@ -3347,7 +3727,7 @@ A.​Vaughan,
 D.​Zemach
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Macmillan</td>
+<td colspan="2">Macmillan</td>
 <td></td>
 <td></td>
 </tr>
@@ -3366,7 +3746,7 @@ C.​Campbell,
 A.​P.​De Mattos
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3386,7 +3766,7 @@ A.​P.​De Mattos
 J.​Styring
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3395,7 +3775,7 @@ J.​Styring
 <td colspan="2">Oxford Essential Dictionary, CD-ROM Pack</td>
 <td>-</td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3404,7 +3784,7 @@ J.​Styring
 <td colspan="2">Oxford Dictionary of E. Idioms</td>
 <td>-</td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3413,7 +3793,7 @@ J.​Styring
 <td colspan="2">Oxford Collocations Dictionary, CD-ROM Pack</td>
 <td>-</td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3422,7 +3802,7 @@ J.​Styring
 <td colspan="2">Oxford Dictionary of PhrasalVerbs</td>
 <td>-</td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3431,7 +3811,7 @@ J.​Styring
 <td colspan="2">Oxford Student`s Dictionary</td>
 <td>-</td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3440,7 +3820,7 @@ J.​Styring
 <td colspan="2">Oxford Wordpower Dictionary</td>
 <td>-</td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3449,7 +3829,7 @@ J.​Styring
 <td colspan="2">Oxford Practice Grammar Basic</td>
 <td>-</td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3458,7 +3838,7 @@ J.​Styring
 <td colspan="2">Oxford Practice Grammar Intermediate</td>
 <td>-</td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3467,7 +3847,7 @@ J.​Styring
 <td colspan="2">Oxford Practice Grammar Advanced</td>
 <td>-</td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3476,7 +3856,7 @@ J.​Styring
 <td colspan="2">Oxford Living Grammar Elementary</td>
 <td>-</td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3485,7 +3865,7 @@ J.​Styring
 <td colspan="2">Oxford Living Grammar Pre-Intermediate</td>
 <td>-</td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3494,7 +3874,7 @@ J.​Styring
 <td colspan="2">Oxford Living Grammar Intermediate</td>
 <td>-</td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3503,7 +3883,7 @@ J.​Styring
 <td colspan="2">Oxford Living Grammar Upper-Intermediate</td>
 <td>-</td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3512,7 +3892,7 @@ J.​Styring
 <td colspan="2">Oxford Word Skills Basic</td>
 <td>-</td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3521,7 +3901,7 @@ J.​Styring
 <td colspan="2">Oxford Word Skills Intermediate</td>
 <td>-</td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3530,7 +3910,7 @@ J.​Styring
 <td colspan="2">Oxford Word Skills Advanced</td>
 <td>-</td>
 <td colspan="2">2014</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3545,7 +3925,7 @@ J.​Clement,
 C.​Lennox
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Pearson Education Limited</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 <td></td>
 </tr>
@@ -3557,7 +3937,7 @@ H.​Solorzano,
 L.​Frazier
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Pearson Education Limited</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 <td></td>
 </tr>
@@ -3566,7 +3946,7 @@ L.​Frazier
 <td colspan="2">Contemporary Topics 2. Academic Listening &amp; Note-Talking Skills (High Intermediate), Audio CD</td>
 <td>E.​Kisslinger</td>
 <td colspan="2">2014</td>
-<td colspan="3">Pearson Education Limited</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 <td></td>
 </tr>
@@ -3578,7 +3958,7 @@ D.​Beglar,
 N.​Murray
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Pearson Education Limited</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 <td></td>
 </tr>
@@ -3593,7 +3973,7 @@ Teacher's Resource Pack
 </td>
 <td>Diana Goodey, Noel Goodey</td>
 <td colspan="2">2014</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3611,7 +3991,7 @@ Lynn Byrd,
 Chris Pearce
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3628,7 +4008,7 @@ Lynn Byrd,
 Chris Pearce
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3647,7 +4027,7 @@ Active Teach
 </td>
 <td>Michael Harris, Anna Sikorzynska, Amanda Harris,David Mower, Lindsay White</td>
 <td colspan="2">2014</td>
-<td colspan="3">Pearson Education Limited</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 <td></td>
 </tr>
@@ -3668,7 +4048,7 @@ Peter Moran
 Grant Kempton
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Pearson Education Limited</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 <td></td>
 </tr>
@@ -3689,7 +4069,7 @@ Peter Moran
 Grant Kempton
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Pearson Education Limited</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 <td></td>
 </tr>
@@ -3701,7 +4081,7 @@ Fiona Davis
 Wayne Rimmer, Series editor: Penny Ur
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3710,7 +4090,7 @@ Wayne Rimmer, Series editor: Penny Ur
 <td colspan="2">Core Physics</td>
 <td>B.​Milner</td>
 <td colspan="2">2014</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3719,7 +4099,7 @@ Wayne Rimmer, Series editor: Penny Ur
 <td colspan="2">Core Chemistry</td>
 <td>Jh.​Mills, P.​Evans</td>
 <td colspan="2">2014</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3728,7 +4108,7 @@ Wayne Rimmer, Series editor: Penny Ur
 <td colspan="2">Core Biology</td>
 <td>J.​Martin</td>
 <td colspan="2">2014</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3740,7 +4120,7 @@ Upper-intermediate (10 класс)
 </td>
 <td>Roger Gower</td>
 <td colspan="2">2014</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3752,7 +4132,7 @@ Vocabulary in practice 6 (10
 </td>
 <td>Liz Driscoll</td>
 <td colspan="2">2014</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3764,7 +4144,7 @@ M.​Foley,
 D.​Hall
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Pearson Education Limited</td>
+<td colspan="2">Pearson Education Limited</td>
 <td></td>
 <td></td>
 </tr>
@@ -3777,7 +4157,7 @@ Jeremy Day
 Series editor: Penny Ur
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3791,7 +4171,7 @@ C.​Thacker,
 A.​Pozo de Mattos
 </td>
 <td colspan="2">2015</td>
-<td colspan="3">Oxford University Press</td>
+<td colspan="2">Oxford University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3800,7 +4180,7 @@ A.​Pozo de Mattos
 <td colspan="2">The Business 2.0 Intermediate Student book, Teacher`s Book</td>
 <td>John Allison with Paul Emmerson</td>
 <td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 <td></td>
 </tr>
@@ -3809,7 +4189,7 @@ A.​Pozo de Mattos
 <td colspan="2">Open Mind Elementary Student`s Book, Work Book, Teacher`s Book</td>
 <td>M.​Rogers</td>
 <td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 <td></td>
 </tr>
@@ -3818,7 +4198,7 @@ A.​Pozo de Mattos
 <td colspan="2">Communicate 1 B1 Student`s Book</td>
 <td>Kate Pickering</td>
 <td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 <td></td>
 </tr>
@@ -3827,7 +4207,7 @@ A.​Pozo de Mattos
 <td colspan="2">Communicate 2 B1 Student`s Book</td>
 <td>Kate Pickering</td>
 <td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 <td></td>
 </tr>
@@ -3839,7 +4219,7 @@ Teen World.
 </td>
 <td>J.​Budden</td>
 <td colspan="2">2013</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3851,7 +4231,7 @@ Film TV and Music.
 </td>
 <td>O.​Madylus</td>
 <td colspan="2">2012</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -3863,12 +4243,12 @@ English Vocabulary in Use elementary
 </td>
 <td>Michael McCarthy, Felicity O’Dell</td>
 <td colspan="2">2013</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="9">9-11 сыныптар</td>
+<td colspan="8">9-11 сыныптар</td>
 <td></td>
 <td></td>
 </tr>
@@ -3877,7 +4257,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Aboriginal Australians. Книга для чтения CLIL</td>
 <td>Jenny Doodey, Virginia Evans</td>
 <td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td colspan="2">Edu Stream</td>
 <td></td>
 <td></td>
 </tr>
@@ -3886,7 +4266,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Carnivorous Plants. Книга для чтения CLIL</td>
 <td>Jenny Doodey, Virginia Evans</td>
 <td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td colspan="2">Edu Stream</td>
 <td></td>
 <td></td>
 </tr>
@@ -3895,7 +4275,7 @@ English Vocabulary in Use elementary
 <td colspan="2">The Giant Turnip. Книга для чтения</td>
 <td>Jenny Doodey, Virginia Evans</td>
 <td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td colspan="2">Edu Stream</td>
 <td></td>
 <td></td>
 </tr>
@@ -3904,7 +4284,7 @@ English Vocabulary in Use elementary
 <td colspan="2">20000 Leagues under the Sea. Книга для чтения</td>
 <td>Jenny Doodey, Virginia Evans</td>
 <td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td colspan="2">Edu Stream</td>
 <td></td>
 <td></td>
 </tr>
@@ -3913,7 +4293,7 @@ English Vocabulary in Use elementary
 <td colspan="2">20000 Leagues under the Sea. Книга для учителя</td>
 <td>Jenny Doodey, Virginia Evans</td>
 <td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td colspan="2">Edu Stream</td>
 <td></td>
 <td></td>
 </tr>
@@ -3922,7 +4302,7 @@ English Vocabulary in Use elementary
 <td colspan="2">20000 Leagues under the Sea. Рабочая тетрадь</td>
 <td>Jenny Doodey, Virginia Evans</td>
 <td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td colspan="2">Edu Stream</td>
 <td></td>
 <td></td>
 </tr>
@@ -3931,7 +4311,7 @@ English Vocabulary in Use elementary
 <td colspan="2">The Last of the Mohicans. Книга для чтения</td>
 <td>Jenny Doodey, Virginia Evans</td>
 <td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td colspan="2">Edu Stream</td>
 <td></td>
 <td></td>
 </tr>
@@ -3940,7 +4320,7 @@ English Vocabulary in Use elementary
 <td colspan="2">The Last of the Mohicans. Книга для учителя</td>
 <td>Jenny Doodey, Virginia Evans</td>
 <td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td colspan="2">Edu Stream</td>
 <td></td>
 <td></td>
 </tr>
@@ -3949,7 +4329,7 @@ English Vocabulary in Use elementary
 <td colspan="2">The Last of the Mohicans. Рабочая тетрадь</td>
 <td>Jenny Doodey, Virginia Evans</td>
 <td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td colspan="2">Edu Stream</td>
 <td></td>
 <td></td>
 </tr>
@@ -3958,7 +4338,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Frankenstein. Книга для чтения</td>
 <td>Jenny Doodey, Virginia Evans</td>
 <td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td colspan="2">Edu Stream</td>
 <td></td>
 <td></td>
 </tr>
@@ -3967,7 +4347,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Frankenstein. Книга для учителя</td>
 <td>Jenny Doodey, Virginia Evans</td>
 <td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td colspan="2">Edu Stream</td>
 <td></td>
 <td></td>
 </tr>
@@ -3976,7 +4356,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Frankenstein. Рабочая тетрадь</td>
 <td>Jenny Doodey, Virginia Evans</td>
 <td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td colspan="2">Edu Stream</td>
 <td></td>
 <td></td>
 </tr>
@@ -3985,7 +4365,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Excalibur. Книга для чтения</td>
 <td>Jenny Doodey, Virginia Evans</td>
 <td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td colspan="2">Edu Stream</td>
 <td></td>
 <td></td>
 </tr>
@@ -3994,7 +4374,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Excalibur. Книга для учителя</td>
 <td>Jenny Doodey, Virginia Evans</td>
 <td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td colspan="2">Edu Stream</td>
 <td></td>
 <td></td>
 </tr>
@@ -4003,7 +4383,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Excalibur. Рабочая тетрадь</td>
 <td>Jenny Doodey, Virginia Evans</td>
 <td colspan="2">2015</td>
-<td colspan="3">Edu Stream</td>
+<td colspan="2">Edu Stream</td>
 <td></td>
 <td></td>
 </tr>
@@ -4012,7 +4392,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Oxford Factfiles Weddings. Книга для чтения</td>
 <td>Christine Lindop</td>
 <td colspan="2">2015</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4021,7 +4401,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Oxford Bookworms Library Matty Doolin. Книга для чтения</td>
 <td>Catherine Cookson</td>
 <td colspan="2">2014</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4030,7 +4410,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Dominoes Series Jake's Parrot. Книга для чтения</td>
 <td>Paul Hearn &amp; Yetis Ozkan</td>
 <td colspan="2">2015</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4039,7 +4419,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Oxford Read &amp; Discover Medicine Then and Now. Книга для чтения</td>
 <td>Louise &amp; Richard Spilsbury</td>
 <td colspan="2">2015</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4048,7 +4428,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Oxford Read &amp; Discover Wild Weather Книга для чтения</td>
 <td>Jacqueline Martin</td>
 <td colspan="2">2014</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4057,7 +4437,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Oxford Bookworms Library Too Old To Rock and Roll. Книга для чтения</td>
 <td>Jan Mark</td>
 <td colspan="2">2014</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4066,7 +4446,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Oxford Factfiles Information Technology. Книга для чтения</td>
 <td>Paul A.​Davies</td>
 <td colspan="2">2015</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4075,7 +4455,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Oxford Bookworms Library Cup of Kindness. Книга для чтения</td>
 <td>Retold by Jennifer Bassett</td>
 <td colspan="2">2014</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4084,7 +4464,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Oxford Bookworms Library Wyatt's Hurricane. Книга для чтения</td>
 <td>Desmond Bagley</td>
 <td colspan="2">2014</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4093,7 +4473,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Oxford Grammar For Schools 3 and DVD-ROM. Грамматическое пособие с DVD-ромом</td>
 <td>Rachel Godfrey</td>
 <td colspan="2">2013</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4102,7 +4482,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Oxford Practice Grammar Basic with Key and Practice-Boost CD ROM. Грамматическое пособие c диском</td>
 <td>Rachel Godfrey</td>
 <td colspan="2">2014</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4111,7 +4491,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Oxford Practice Grammar Lesson Plans and Worksheets Basic. Планы уроков и разработки по грамматике</td>
 <td>Rachel Godfrey</td>
 <td colspan="2">2013</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4120,7 +4500,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Oxford Essential Dictionary 2nd ed for elementary and pre-intermediate students. Толковый словарь английского языка для уровней elementary &amp; pre-intermediate</td>
 <td></td>
 <td colspan="2">2015</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4129,7 +4509,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Oxford Grammar For Schools 4 and DVD-ROM. Грамматическое пособие с DVD-ромом</td>
 <td>Martin Moore</td>
 <td colspan="2">2014</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4138,7 +4518,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Oxford Grammar For Schools 4 Teacher's Book and Audio CD-Pack. Методическое пособие для учителя</td>
 <td>Rachel Godfrey</td>
 <td colspan="2">2014</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4147,7 +4527,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Oxford Practice Grammar Intermediate with Key and Practice-Boost CD-ROM. Грамматическое пособие с диском</td>
 <td>John Eastwood</td>
 <td colspan="2">2013</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4156,7 +4536,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Oxford Practice Grammar Lesson Plans and Worksheets Intermediate. Планы уроков и разработки по грамматике</td>
 <td>Rachel Godfrey</td>
 <td colspan="2">2013</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4165,7 +4545,7 @@ English Vocabulary in Use elementary
 <td colspan="2">Oxford Wordpower Dictionary 4th ed for Intermediate Students. Толковый словарь английского языка для уровня Intermediate</td>
 <td></td>
 <td colspan="2">2015</td>
-<td colspan="3">Interpress Distribution</td>
+<td colspan="2">Interpress Distribution</td>
 <td></td>
 <td></td>
 </tr>
@@ -4174,7 +4554,7 @@ English Vocabulary in Use elementary
 <td colspan="2">New Challenges Students’s Book</td>
 <td>Amanda Maris</td>
 <td colspan="2">2014</td>
-<td colspan="3">Альраминь Pearson Longman</td>
+<td colspan="2">Альраминь Pearson Longman</td>
 <td></td>
 <td></td>
 </tr>
@@ -4183,7 +4563,7 @@ English Vocabulary in Use elementary
 <td colspan="2">New Challenges Teacher’s Handbook3, CD</td>
 <td>Patricia Mugglestone</td>
 <td colspan="2">2012</td>
-<td colspan="3">Альраминь Pearson Longman</td>
+<td colspan="2">Альраминь Pearson Longman</td>
 <td></td>
 <td></td>
 </tr>
@@ -4192,7 +4572,7 @@ English Vocabulary in Use elementary
 <td colspan="2">New Challenges 3Workbook3, CD</td>
 <td>Michael Harris, David Mower, Anna Sikorzynska, Lindsay White</td>
 <td colspan="2">2014</td>
-<td colspan="3">Альраминь Pearson Longman</td>
+<td colspan="2">Альраминь Pearson Longman</td>
 <td></td>
 <td></td>
 </tr>
@@ -4204,7 +4584,7 @@ Michael Harris, David Mower,
 Anna Sikorzynska, Lindsay White
 </td>
 <td colspan="2">2014</td>
-<td colspan="3">Альраминь Pearson Longman</td>
+<td colspan="2">Альраминь Pearson Longman</td>
 <td></td>
 <td></td>
 </tr>
@@ -4216,7 +4596,7 @@ EFL classroom games.
 </td>
 <td>Д.Сегизбаев, Н.Оспанова, В.Головинцева</td>
 <td colspan="2">2016</td>
-<td colspan="3">Арман-ПВ</td>
+<td colspan="2">Арман-ПВ</td>
 <td></td>
 <td></td>
 </tr>
@@ -4225,7 +4605,7 @@ EFL classroom games.
 <td colspan="2">England</td>
 <td>Rachel Bladon</td>
 <td colspan="2">2013</td>
-<td colspan="3">Macmillan Publishers</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 <td></td>
 </tr>
@@ -4234,7 +4614,7 @@ EFL classroom games.
 <td colspan="2">USA</td>
 <td>Coleen Degnan-Veness with Chantal Veness</td>
 <td colspan="2">2013</td>
-<td colspan="3">Macmillan Publishers</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 <td></td>
 </tr>
@@ -4243,7 +4623,7 @@ EFL classroom games.
 <td colspan="2">Australia</td>
 <td>Jennifer Gascoigne</td>
 <td colspan="2">2015</td>
-<td colspan="3">Macmillan Publishers</td>
+<td colspan="2">Macmillan Publishers</td>
 <td></td>
 <td></td>
 </tr>
@@ -4255,7 +4635,7 @@ Cambridge Grammar for IELTS with answers
 </td>
 <td>Diana Hopkins, Pauline Cullеn</td>
 <td colspan="2">2013</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -4267,7 +4647,7 @@ Cambridge IELTS 8
 </td>
 <td>Авторская группа издательства Кембридж</td>
 <td colspan="2">2013</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -4279,7 +4659,7 @@ Common Mistakes at IELTS intermediate
 </td>
 <td>Pauline Cullеn</td>
 <td colspan="2">2016</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -4291,7 +4671,7 @@ Common Mistakes at IELTS advanced
 </td>
 <td>Julie Moor</td>
 <td colspan="2">2016</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -4303,7 +4683,7 @@ Offical Top Tips for IELTS academic
 </td>
 <td>Авторская группа издательства Кембридж</td>
 <td colspan="2">2016</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
@@ -4315,7 +4695,7 @@ Offical Top Tips for IELTS general training
 </td>
 <td>Авторская группа издательства Кембридж</td>
 <td colspan="2">2016</td>
-<td colspan="3">Cambridge University Press</td>
+<td colspan="2">Cambridge University Press</td>
 <td></td>
 <td></td>
 </tr>
