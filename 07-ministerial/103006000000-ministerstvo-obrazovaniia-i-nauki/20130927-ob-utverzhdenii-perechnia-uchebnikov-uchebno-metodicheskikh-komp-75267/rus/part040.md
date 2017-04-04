@@ -1,11 +1,11 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
+source: https://zan.gov.kz/client/#!/doc/75267/rus/04.04.2017
 ---
 
 ## Перечень учебной литературы для специальных (коррекционных) школ
 
-> *Сноска. Приложение 5 в редакции приказа и.о. Министра образования и науки РК от 08.01.2016 № 13 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение 5 в редакции приказа и.о. Министра образования и науки РК от 08.01.2016 № 13 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); с изменениями, внесенными приказом Министра образования и науки РК от 04.04.2017 № 150 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 ## Казахский язык обучения
 
@@ -19,6 +19,37 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 </tr>
 <tr>
 <td colspan="5">Дошкольное воспитание и обучение</td>
+</tr>
+<tr>
+<td colspan="5">1 класс</td>
+</tr>
+<tr>
+<td>1.</td>
+<td>
+Сауат ашу.
+Рельефті-нүктелі әліппе. Көру қабілеті зақымдалған 1 сынып оқушыларына арналған оқулық.
+1,2,3,4,5 бөлім
+</td>
+<td>
+Г. Абаева,
+Р. Шаканова
+</td>
+<td>2017</td>
+<td>ӘБЕО</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>
+Сауат ашу.
+Рельефті-нүктелі әліппе. Әдістемелік нұсқау.
+Көру қабілеті зақымдалған бастауыш сынып мұғалімдеріне арналған
+</td>
+<td>
+Г. Абаева,
+Р. Шаканова
+</td>
+<td>2017</td>
+<td>ӘБЕО</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -104,12 +135,95 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 <td>2014</td>
 <td>ӘБЕО</td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td colspan="5">5 класс</td>
+<th colspan="6">3 класс</th>
+</tr>
+<tr>
+<td colspan="2">1.</td>
+<td>Қазақ тілі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің 3 сыныбына арналған оқулық</td>
+<td>
+К.Бекмұхамбетова,
+А. Биисова
+</td>
+<td>2017</td>
+<td>ӘБЕО</td>
+</tr>
+<tr>
+<td colspan="2">2.</td>
+<td>Қазақ тілі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің 3 сыныбына арналған жұмыс дәптері</td>
+<td>
+К. Бекмұхамбетова,
+А. Биисова
+</td>
+<td>2017</td>
+<td>ӘБЕО</td>
+</tr>
+<tr>
+<td colspan="2">3.</td>
+<td>Қазақ тілі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің 3 сыныбына арналған әдістемелік нұсқау</td>
+<td>
+К. Бекмұхамбетова,
+А. Биисова
+</td>
+<td>2017</td>
+<td>ӘБЕО</td>
+</tr>
+<tr>
+<td colspan="2">4.</td>
+<td>Математика. Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің бірінші бөліміне арналған оқулығы</td>
+<td>
+Р. Сулейменова,
+И. Елисеева
+</td>
+<td>2017</td>
+<td>ӘБЕО</td>
+</tr>
+<tr>
+<td colspan="2">5.</td>
+<td>Математика. Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің бірінші бөліміне арналған жұмыс дәптері</td>
+<td>Ш. Кәріпжанова</td>
+<td>2017</td>
+<td>ӘБЕО</td>
+</tr>
+<tr>
+<td colspan="2">6.</td>
+<td>Математика. Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің бірінші бөліміне арналған әдістемелік нұсқау</td>
+<td>И. Елисеева</td>
+<td>2017</td>
+<td>ӘБЕО</td>
+</tr>
+<tr>
+<td colspan="6">4 класс</td>
 </tr>
 <tr>
 <td>1.</td>
+<td colspan="2">Математика. Кестелік көбейту және бөлу. Білім алуда ерекше қажеттіліктері бар оқушыларға арналған №1, №2 жұмыс дәптері</td>
 <td>
+И. Елисеева,
+С. Заславская
+</td>
+<td>2017</td>
+<td>ӘБЕО</td>
+</tr>
+<tr>
+<td>2.</td>
+<td colspan="2">Математика. Кестелік көбейту және бөлу. Әдістемелік нұсқау</td>
+<td>И. Елисеева</td>
+<td>2017</td>
+<td>ӘБЕО</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="9">5 класс</td>
+</tr>
+<tr>
+<td colspan="3">1.</td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия. Арнайы білім беру ұйымдарына арналған оқу құралы
 </td>
@@ -118,14 +232,14 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 Т. Мельникова
 </td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">6 класс</td>
+<td colspan="9">6 класс</td>
 </tr>
 <tr>
-<td>1.</td>
-<td>
+<td colspan="3">1.</td>
+<td colspan="2">
 &quot;Әдебиет&quot;
 арнайы білім беру мекемелеріне арналған хрестоматия
 </td>
@@ -134,48 +248,48 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 Т. Мельникова
 </td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>2.</td>
-<td>
+<td colspan="3">2.</td>
+<td colspan="2">
 Қазақ тілі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің
 9-сыныбына
 (10 кезең) арналған оқулық
 </td>
 <td>К. Бекмухамбетова, А. Биисова</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">7 класс</td>
+<td colspan="9">7 класс</td>
 </tr>
 <tr>
-<td>1.</td>
-<td>&quot;Қазақ әдебиеті&quot; арнайы білім беру мекемелеріне арналған хрестоматия</td>
+<td colspan="3">1.</td>
+<td colspan="2">&quot;Қазақ әдебиеті&quot; арнайы білім беру мекемелеріне арналған хрестоматия</td>
 <td>
 Г. Есенжолова,
 Т. Мельникова
 </td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">8 класс</td>
+<td colspan="9">8 класс</td>
 </tr>
 <tr>
-<td>1.</td>
-<td>Қазақ тілі. Оқулық</td>
+<td colspan="3">1.</td>
+<td colspan="2">Қазақ тілі. Оқулық</td>
 <td>
 К. Бекмұхамбетова,
 А. Биисова
 </td>
 <td>2013</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>2.</td>
-<td>
+<td colspan="3">2.</td>
+<td colspan="2">
 Қазақ тілі.
 Жұмыс дәптері
 </td>
@@ -184,11 +298,11 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 А. Биисова
 </td>
 <td>2013</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>3.</td>
-<td>
+<td colspan="3">3.</td>
+<td colspan="2">
 Қазақ тілі
 Әдістемелік құрал
 </td>
@@ -197,31 +311,31 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 А. Биисова
 </td>
 <td>2013</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>4.</td>
-<td>Қазақ әдебиеті. Хрестоматия</td>
+<td colspan="3">4.</td>
+<td colspan="2">Қазақ әдебиеті. Хрестоматия</td>
 <td>
 Г. Есенжолова,
 Т. Мельникова
 </td>
 <td>2013</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>5.</td>
-<td>&quot;Диалогтық сөйлеу тілін дамыту&quot; логопедтнр мен тәрбиешілерге арналған</td>
+<td colspan="3">5.</td>
+<td colspan="2">&quot;Диалогтық сөйлеу тілін дамыту&quot; логопедтнр мен тәрбиешілерге арналған</td>
 <td>Г.Есенжолова</td>
 <td>2012</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">9 класс</td>
+<td colspan="9">9 класс</td>
 </tr>
 <tr>
-<td>1.</td>
-<td>
+<td colspan="3">1.</td>
+<td colspan="2">
 Қазақ тілі.
 Көмекші мектепке арналған. Мұғалімге арналған әдістемелік құрал
 </td>
@@ -230,24 +344,24 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 А. Биисова
 </td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>2.</td>
-<td>Қазақ тілі. Көмекші мектепке арналған. Жұмыс дәптері</td>
+<td colspan="3">2.</td>
+<td colspan="2">Қазақ тілі. Көмекші мектепке арналған. Жұмыс дәптері</td>
 <td>
 К. Бекмухамбетова,
 А. Биисова
 </td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">10 класс</td>
+<td colspan="9">10 класс</td>
 </tr>
 <tr>
-<td>1.</td>
-<td>
+<td colspan="3">1.</td>
+<td colspan="2">
 Қазақ тілі. Зерде даму
 бұзылыстары бар балаларға
 арналған арнайы мектептің
@@ -259,11 +373,11 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 А. Биисова
 </td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>2.</td>
-<td>
+<td colspan="3">2.</td>
+<td colspan="2">
 Қазақ тілі. Зерде даму
 бұзылыстары бар балаларға
 арналған арнайы мектептің
@@ -274,11 +388,11 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 А. Биисова
 </td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>3.</td>
-<td>
+<td colspan="3">3.</td>
+<td colspan="2">
 Қазақ тілі. Зерде даму
 бұзылыстары бар балаларға
 арналған арнайы мектептің
@@ -289,93 +403,93 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 А. Биисова
 </td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>4.</td>
-<td>Математика. Оқулық. Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің дайындық кезеңіне арналған оқу-әдістемелік кешен</td>
+<td colspan="3">4.</td>
+<td colspan="2">Математика. Оқулық. Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің дайындық кезеңіне арналған оқу-әдістемелік кешен</td>
 <td>И. Елисеева</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>5.</td>
-<td>Математика. Білім берудің бірінші кезеңі (дайындық кезеңі). Жұмыс дәптері</td>
+<td colspan="3">5.</td>
+<td colspan="2">Математика. Білім берудің бірінші кезеңі (дайындық кезеңі). Жұмыс дәптері</td>
 <td>И. Елисеева</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>6.</td>
-<td>Математика. Әдістемелік құрал. Білім берудің бірінші кезеңі (дайындық кезеңі)</td>
+<td colspan="3">6.</td>
+<td colspan="2">Математика. Әдістемелік құрал. Білім берудің бірінші кезеңі (дайындық кезеңі)</td>
 <td>И. Елисеева</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>7.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп. 2- бөлім. Оқу-әдістемелік кешен. &quot;Қағазбен және қатырма қағазбен жұмыс&quot;: Мұғалімге арналған бағдарламалық-әдістемелік кұрал. 2-бөлім</td>
+<td colspan="3">7.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп. 2- бөлім. Оқу-әдістемелік кешен. &quot;Қағазбен және қатырма қағазбен жұмыс&quot;: Мұғалімге арналған бағдарламалық-әдістемелік кұрал. 2-бөлім</td>
 <td>
 В. Юдина,
 К. Жагипарова
 </td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>8.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп. 2-бөлім. &quot;Моншақпен және шытыра моншақпен жұмыс&quot;: Оқу-әдістемелік кешен</td>
+<td colspan="3">8.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп. 2-бөлім. &quot;Моншақпен және шытыра моншақпен жұмыс&quot;: Оқу-әдістемелік кешен</td>
 <td>
 Р. Қойшибаева,
 К. Жагипарова
 </td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>
+<td colspan="3">9.</td>
+<td colspan="2">
 Еңбекке баулу. Қолөнер кәсібі. &quot;Моншақпен және шытыра моншақпен жұмыс&quot;:
 Бұйымдардың технологиялық картасы
 </td>
 <td>Р. Қойшибаева</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>10.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. &quot;Моншақпен және шытыра моншақпен жұмыс&quot;: Жұмыс дәптері</td>
+<td colspan="3">10.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. &quot;Моншақпен және шытыра моншақпен жұмыс&quot;: Жұмыс дәптері</td>
 <td>Р. Қойшибаева</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>11.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп. 2- бөлім. Оқу-әдістемелік кешен. &quot;Қалдық материалдармен жұмыс&quot;: Мұғалімге арналған бағдарламалық-әдістемелік кұрал. 2-бөлім</td>
+<td colspan="3">11.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп. 2- бөлім. Оқу-әдістемелік кешен. &quot;Қалдық материалдармен жұмыс&quot;: Мұғалімге арналған бағдарламалық-әдістемелік кұрал. 2-бөлім</td>
 <td>
 К. Гелеверя,
 К. Жагипарова
 </td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>12.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Қалдық материалдармен жұмыс. Бұйымдарды жасаудың технологиялық картасы</td>
+<td colspan="3">12.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Қалдық материалдармен жұмыс. Бұйымдарды жасаудың технологиялық картасы</td>
 <td>К. Гелеверя</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>13.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Қалдық материалдармен жұмыс. Жұмыс дәптері</td>
+<td colspan="3">13.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Қалдық материалдармен жұмыс. Жұмыс дәптері</td>
 <td>К. Гелеверя</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>14.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп. 2- бөлім. Оқу-әдістемелік кешен. Сазбен және тұзды қамырмен жұмыс. Мұғалімге арналған бағдарламалық-әдістемелік кұрал. 2-бөлім</td>
+<td colspan="3">14.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп. 2- бөлім. Оқу-әдістемелік кешен. Сазбен және тұзды қамырмен жұмыс. Мұғалімге арналған бағдарламалық-әдістемелік кұрал. 2-бөлім</td>
 <td>
 Т. Петрова,
 В. Юдина,
@@ -383,35 +497,35 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 А. Ахметзянова
 </td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>15.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Сазбен жұмыс. Жұмыс дәптер №1</td>
+<td colspan="3">15.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Сазбен жұмыс. Жұмыс дәптер №1</td>
 <td>Т. Петрова</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>16.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Сазбен жұмыс. Жұмыс дәптері№2</td>
+<td colspan="3">16.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Сазбен жұмыс. Жұмыс дәптері№2</td>
 <td>Т. Петрова</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>17.</td>
-<td>
+<td colspan="3">17.</td>
+<td colspan="2">
 Еңбекке баулу. Қолөнер кәсібі. Сазбен және тұзды қамырмен жұмыс.Бұйымдарды жасаудың технологиялық картасы.
 Сазбен жұмыс
 </td>
 <td>Т. Петрова</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>18.</td>
-<td>
+<td colspan="3">18.</td>
+<td colspan="2">
 Еңбекке баулу. Қолөнер кәсібі. Сазбен және тұзды қамырмен жұмыс. Бұйымдардың технологиялық картасы.
 Тұзды қамырмен жұмыс
 </td>
@@ -420,143 +534,143 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 А. Ахметзянова
 </td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>19.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Тұзды қамырмен жұмыс. Жұмыс дәптер</td>
+<td colspan="3">19.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Тұзды қамырмен жұмыс. Жұмыс дәптер</td>
 <td>В. Юдина</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>20.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп. 2- бөлім. Оқу-әдістемелік кешен. Ағашпен жұмыс. Мұғалімге арналған бағдарламалық-әдістемелік кұрал. 2-бөлім</td>
+<td colspan="3">20.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп. 2- бөлім. Оқу-әдістемелік кешен. Ағашпен жұмыс. Мұғалімге арналған бағдарламалық-әдістемелік кұрал. 2-бөлім</td>
 <td>
 К. Гелеверя,
 К. Жагипарова
 </td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>21.</td>
-<td>
+<td colspan="3">21.</td>
+<td colspan="2">
 Еңбекке баулу. Қолөнер кәсібі. Ағашпен жұмыс.
 Бұйымдарды жасаудың технологиялық картасы
 </td>
 <td>К.Гелеверя</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>22.</td>
-<td>
+<td colspan="3">22.</td>
+<td colspan="2">
 Еңбекке баулу. Қолөнер кәсібі. Ағашпен жұмыс.
 Жұмыс дәптері
 </td>
 <td>К. Гелеверя</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>23.</td>
-<td>
+<td colspan="3">23.</td>
+<td colspan="2">
 Еңбекке баулу. Қолөнер кәсібі. Табиғи материалдармен жұмыс.
 Бұйымдардың технологиялық картасы
 </td>
 <td>З. Самратова</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>24.</td>
-<td>
+<td colspan="3">24.</td>
+<td colspan="2">
 Еңбекке баулу. Қолөнер кәсібі. Табиғи
 материалдармен жұмыс. Жұмыс дәптері
 </td>
 <td>З. Самратова</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>25.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп. 2- бөлім. Оқу-әдістемелік кешен. Тоқыма материалдармен жұмыс</td>
+<td colspan="3">25.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп. 2- бөлім. Оқу-әдістемелік кешен. Тоқыма материалдармен жұмыс</td>
 <td>
 Т. Петрова,
 К. Жағипарова
 </td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>26.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Тоқыма материалдармен жұмыс. Изонить бөлімі</td>
+<td colspan="3">26.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Тоқыма материалдармен жұмыс. Изонить бөлімі</td>
 <td>Т. Петрова</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>27.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Тоқыма материалдармен жұмыс. Құрақ құрау бөлімі</td>
+<td colspan="3">27.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Тоқыма материалдармен жұмыс. Құрақ құрау бөлімі</td>
 <td>Т. Петрова</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>28.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Тоқыма материалдармен жұмыс. Матадан жасалатын Жапсырмақұрақ бөлімі</td>
+<td colspan="3">28.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Тоқыма материалдармен жұмыс. Матадан жасалатын Жапсырмақұрақ бөлімі</td>
 <td>Т. Петрова</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>29.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Тоқыма материалдармен жұмыс. Бұйымдарды жасаудың технологиялық картасы Жұмсақ ойыншық бөлімі</td>
+<td colspan="3">29.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Тоқыма материалдармен жұмыс. Бұйымдарды жасаудың технологиялық картасы Жұмсақ ойыншық бөлімі</td>
 <td>Т. Петрова</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>30.</td>
-<td>
+<td colspan="3">30.</td>
+<td colspan="2">
 Еңбекке баулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп
 (2- бөлім). Әдістемелік кұрал
 </td>
 <td>А. Айдарбекова</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>31.</td>
-<td>Еңбекке баулу. Қолөнер кәcібі. Қағазбен және қатырма қағазбен жұмыс. Бұйымдардың технологиялық картасы</td>
+<td colspan="3">31.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәcібі. Қағазбен және қатырма қағазбен жұмыс. Бұйымдардың технологиялық картасы</td>
 <td>В. Юдина</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td>32.</td>
-<td>Еңбекке баулу. Қолөнер кәcібі. Қағазбен және қатырма қағазбен жұмыс. Жұмыс дәптері</td>
+<td colspan="3">32.</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәcібі. Қағазбен және қатырма қағазбен жұмыс. Жұмыс дәптері</td>
 <td>В. Юдина</td>
 <td>2014</td>
-<td>ӘБЕО</td>
+<td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">Русский язык обучения</td>
+<td colspan="9">Русский язык обучения</td>
 </tr>
 <tr>
-<td>№</td>
-<td>Наименование издания</td>
+<td colspan="3">№</td>
+<td colspan="2">Наименование издания</td>
 <td>Автор (ы)</td>
 <td>Год издания</td>
-<td>Издательство</td>
+<td colspan="2">Издательство</td>
 </tr>
 <tr>
-<td colspan="5">1 класс</td>
+<td colspan="9">1 класс</td>
 </tr>
 <tr>
-<td>1.</td>
-<td>Развитие речи. Учебное пособие</td>
+<td colspan="3">1.</td>
+<td colspan="2">Развитие речи. Учебное пособие</td>
 <td>
 Бурляева Ю.,
 Микрюкова О.,
@@ -564,11 +678,11 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 Свирида Т.
 </td>
 <td>2013</td>
-<td>САТР</td>
+<td colspan="2">САТР</td>
 </tr>
 <tr>
-<td>2.</td>
-<td>
+<td colspan="3">2.</td>
+<td colspan="2">
 Развитие речи.
 Методическое пособие для педагога
 </td>
@@ -579,65 +693,130 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 Свирида Т.
 </td>
 <td>2013</td>
-<td>САТР</td>
+<td colspan="2">САТР</td>
 </tr>
 <tr>
-<td colspan="5">5 класс</td>
+<td colspan="3">3.</td>
+<td colspan="2">
+Обучение грамоте.
+Рельефно-точечная грамота. Учебник для 1 класса специальных общеобразовательных школ для детей с нарушением зрения.
+1,2,3,4 книга
+</td>
+<td>Абаева Г., Жангельдина И.</td>
+<td>2017</td>
+<td colspan="2">САТР</td>
 </tr>
 <tr>
-<td>1.</td>
+<td colspan="3">4.</td>
+<td colspan="2">
+Обучение грамоте.
+Рельефно-точечная грамота. Методические рекомендации
+</td>
+<td>Абаева Г., Жангельдина И.</td>
+<td>2017</td>
+<td colspan="2">САТР</td>
+</tr>
+<tr>
+<td colspan="9">3 класс</td>
+</tr>
+<tr>
+<td colspan="3">1.</td>
+<td colspan="2">Математика. Учебник для 1 отделения специальной школы для детей с нарушением интеллекта с русским языком обучения</td>
+<td>Сулейменова Р., Елисеева И.</td>
+<td>2017</td>
+<td colspan="2">САТР</td>
+</tr>
+<tr>
+<td colspan="3">2.</td>
+<td colspan="2">Математика. Методические указания для 1 отделения специальной школы для детей с нарушением интеллекта с русским языком обучения</td>
+<td>Елисеева И.</td>
+<td>2017</td>
+<td colspan="2">САТР</td>
+</tr>
+<tr>
+<td colspan="3">3.</td>
+<td colspan="2">Математика. Рабочая тетрадь для 1 отделения специальной школы для детей с нарушением интеллекта с русским языком обучения</td>
+<td>Карипжанова Ш.</td>
+<td>2017</td>
+<td colspan="2">САТР</td>
+</tr>
+<tr>
+<td colspan="8">4 класс</td>
+</tr>
+<tr>
+<td colspan="2">1.</td>
+<td colspan="2">Математика. Изучение табличного умножения и деления со школьниками, имеющими трудности в обучении. Методические рекомендации</td>
+<td>Елисеева И.</td>
+<td>2017</td>
+<td colspan="2">САТР</td>
+</tr>
+<tr>
+<td colspan="2">2.</td>
+<td colspan="2">Математика. Табличное умножение и деление. Рабочая тетрадь №1, №2</td>
+<td>
+Елисеева И.,
+Заславская С.
+</td>
+<td>2017</td>
+<td colspan="2">САТР</td>
+</tr>
+<tr>
+<td colspan="7">5 класс</td>
+</tr>
+<tr>
+<td colspan="2">1.</td>
 <td>Казахская литература. Хрестоматия для 5 класса специальных (коррекционных) школ и классов</td>
 <td>Мельникова Т.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>2.</td>
+<td colspan="2">2.</td>
 <td>Математика для специальных школ для детей с нарушениями интеллекта с русским языком обучения. Рабочая тетрадь</td>
 <td>Елисеева И.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>3.</td>
+<td colspan="2">3.</td>
 <td>Математика для специальных школ для детей с нарушениями интеллекта с русским языком обучения. Методическое указания для учителя</td>
 <td>Елисеева И.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>4.</td>
+<td colspan="2">4.</td>
 <td>Ремесло. Методическое пособие по предмету &quot;Ремесло&quot; в специальной школе для детей с нарушением интеллекта (2 отделение)</td>
 <td>Айдарбекова А.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>5.</td>
+<td colspan="2">5.</td>
 <td>Ремесло.Учебно-методический комплекс: Для учителя трудового обучения специальной школы для детей с нарушениями интеллекта.2 отделение. Работа с бумагой и картоном. Программно-методическоепособие. 2 отделение</td>
 <td>
 Юдина В.,
 Жагипарова К.
 </td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>6.</td>
+<td colspan="2">6.</td>
 <td>Ремесло. Работа с бумагой и картоном Технологические карты изделий</td>
 <td>Юдина В.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>7.</td>
+<td colspan="2">7.</td>
 <td>Ремесло. Работа с бумагой и картоном. Рабочая тетрадь</td>
 <td>Юдина В.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>8.</td>
+<td colspan="2">8.</td>
 <td>
 Ремесло. Работа с бусами и бисером.
 Рабочая тетрадь
@@ -646,35 +825,35 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 Койшыбаева Р.,
 Жагипарова К.
 </td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>9.</td>
+<td colspan="2">9.</td>
 <td>Ремесло. Работа с бросовым материалом. Программно -методическое пособие. Для учителя трудового обучения специальной школы для детей с нарушениями интеллекта. 2 отделение</td>
 <td>
 ГелеверяК.,
 Жагипарова К.
 </td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>10.</td>
+<td colspan="2">10.</td>
 <td>Ремесло. Работа с бросовым материалом. Технологические карты изделий</td>
 <td>Гелеверя К.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>11.</td>
+<td colspan="2">11.</td>
 <td>Ремесло.Работа с бросовым материалом. Рабочая тетрадь</td>
 <td>Гелеверя К.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>12.</td>
+<td colspan="2">12.</td>
 <td>
 Ремесло. Учебно-методический комплекс. Для учителя трудового обучения специальной школы для детей с нарушениями интеллекта. 2 отделение. Работа с древесиной. Программно- методическое пособие.
 2 отделение
@@ -683,66 +862,66 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 ГелеверяК.,
 Жагипарова К.
 </td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>13.</td>
+<td colspan="2">13.</td>
 <td>Ремесло. Работа с древесиной.Технологические карты изделий</td>
 <td>Гелеверя К.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>14.</td>
+<td colspan="2">14.</td>
 <td>
 Ремесло. Работа с древесиной.
 Рабочая тетрадь
 </td>
 <td>Гелеверя К.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>15.</td>
+<td colspan="2">15.</td>
 <td>Ремесло.Учебно-методический комплекс. Для учителя трудового обучения специальной школы для детей с нарушениями интеллекта. 2 отделение. Работа с текстильным материалом. Программно-методическое пособие. 2 отделение</td>
 <td>
 Петрова Т.,
 Жагипарова К.
 </td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>16.</td>
+<td colspan="2">16.</td>
 <td>Ремесло. Работа с текстильным материалом. Лоскутное шитье</td>
 <td>Петрова Т.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>17.</td>
+<td colspan="2">17.</td>
 <td>Ремесло. Работа с текстильным материалом. Раздел Изонить</td>
 <td>Петрова Т.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>18.</td>
+<td colspan="2">18.</td>
 <td>Ремесло. Работа стекстильным материалом. Технологические карты изделий.Мягкая игрушка</td>
 <td>Петрова Т.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>19.</td>
+<td colspan="2">19.</td>
 <td>Ремесло. Работа с текстильным материалом. Технологические карты изделий. Глава Текстильная Аппликация</td>
 <td>Петрова Т.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>20.</td>
+<td colspan="2">20.</td>
 <td>Ремесло. Учебно-методический комплекс. Для учителя трудового обучения специальной школы для детей с нарушениями интеллекта. 2 отделение. Работа с глиной, соленым тестом. Программно- методическое пособие</td>
 <td>
 Петрова Т.,
@@ -750,128 +929,128 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 Жагипарова К.,
 Ахметзянова А.
 </td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>21.</td>
+<td colspan="2">21.</td>
 <td>
 Учебно-методический
 Комплекс. Математика для специальных школ для детей с нарушениями интеллекта с русским языком обучения. Подготовительный этап. Учебник
 </td>
 <td>Елисеева И.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>22.</td>
+<td colspan="2">22.</td>
 <td>
 Работа с природными материалами.
 Рабочая тетрадь
 </td>
 <td>Самратова З.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>23.</td>
+<td colspan="2">23.</td>
 <td>
 Работа с глиной.
 Технологические карты изделий к разделу &quot;Работа с глиной&quot;
 </td>
 <td>Петрова Т.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>24.</td>
+<td colspan="2">24.</td>
 <td>
 Работа с глиной.
 Рабочая тетрадь №1
 </td>
 <td>Петрова Т.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>25.</td>
+<td colspan="2">25.</td>
 <td>
 Работа с глиной.
 Рабочая тетрадь №2
 </td>
 <td>Петрова Т.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>26.</td>
+<td colspan="2">26.</td>
 <td>
 Работа с соленым тестом.
 Технологические карты изделий
 </td>
 <td>Юдина В., Ахметзянова А.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>27.</td>
+<td colspan="2">27.</td>
 <td>
 Работа с соленым тестом.
 Рабочая тетрадь
 </td>
 <td>Юдина В.</td>
-<td>2014</td>
+<td colspan="2">2014</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">6 класс</td>
+<td colspan="7">6 класс</td>
 </tr>
 <tr>
-<td>1.</td>
+<td colspan="2">1.</td>
 <td>Казахская литература. Хрестоматия</td>
 <td>Мельникова Т.</td>
-<td>2013</td>
+<td colspan="2">2013</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>2.</td>
+<td colspan="2">2.</td>
 <td>Казахская литература. Хрестоматия для всех типов специальных (коррекционных) школ</td>
 <td>Мельникова Т.</td>
-<td>2013</td>
+<td colspan="2">2013</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">7 класс</td>
+<td colspan="7">7 класс</td>
 </tr>
 <tr>
-<td>1.</td>
+<td colspan="2">1.</td>
 <td>Казахская литература. Хрестоматия</td>
 <td>Мельникова Т.</td>
-<td>2013</td>
+<td colspan="2">2013</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>2.</td>
+<td colspan="2">2.</td>
 <td>Казахская литература. Хрестоматия для всех типов специальных (коррекционных) школ</td>
 <td>Мельникова Т.</td>
-<td>2013</td>
+<td colspan="2">2013</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">8 класс</td>
+<td colspan="7">8 класс</td>
 </tr>
 <tr>
-<td>1.</td>
+<td colspan="2">1.</td>
 <td>Казахская литература. Хрестоматия</td>
 <td>Мельникова Т.</td>
-<td>2013</td>
+<td colspan="2">2013</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>2.</td>
+<td colspan="2">2.</td>
 <td>Казахская литература. Хрестоматия для всех типов специальных (коррекционных) школ</td>
 <td>Мельникова Т.</td>
-<td>2013</td>
+<td colspan="2">2013</td>
 <td>САТР</td>
 </tr>
 </table>
@@ -2566,7 +2745,7 @@ source: https://zan.gov.kz/client/#!/doc/75267/rus/18.08.2016
 
 ## Перечень учебных изданий для изучения иностранных языков
 
-> *Сноска. Приложение 6 в редакции приказа и.о. Министра образования и науки РК от 08.01.2016 № 13 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение 6 в редакции приказа и.о. Министра образования и науки РК от 08.01.2016 № 13 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); с изменениями, внесенными приказом Министра образования и науки РК от 04.04.2017 № 150 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 ## Английский язык
 
@@ -3498,6 +3677,20 @@ Class CDs 1-2
 <td>English language press</td>
 </tr>
 <tr>
+<td>12.</td>
+<td>
+New Round-Up 1.
+Students’ Book + CD-Rom
+Teacher’s Book+ Audio CD
+</td>
+<td>Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>
+Альраминь/
+Pearson Education Limited
+</td>
+</tr>
+<tr>
 <td colspan="5">6 класс</td>
 </tr>
 <tr>
@@ -3582,6 +3775,13 @@ Class CDs 1-2
 <td>Ingrid Freebairn, Jonatan Bygrave, Judy Copage, Liz Kilbey</td>
 <td>2014</td>
 <td>English language press</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>Macmillan English Grammar in Context Essential (MEGIC) + CD</td>
+<td>Simon Clarke</td>
+<td>2017</td>
+<td>Macmillan Publishers</td>
 </tr>
 <tr>
 <td colspan="5">7 класс</td>
@@ -3906,6 +4106,34 @@ Lindsay White
 <td>Альраминь Pearson Longman</td>
 </tr>
 <tr>
+<td>43.</td>
+<td>
+New Round-Up 2.
+Students’ Book + CD-Rom
+Teacher’s Book + Audio CD
+</td>
+<td>Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>
+Альраминь/
+Pearson Education Limited
+</td>
+</tr>
+<tr>
+<td>44.</td>
+<td>
+New Round-Up 3.
+Students’ Book + CD-Rom
+Teacher’s Book + Audio CD
+</td>
+<td>Virginia Evans, Jenny Dooley</td>
+<td>2017</td>
+<td>
+Альраминь/
+Pearson Education Limited
+</td>
+</tr>
+<tr>
 <td colspan="5">8 класс</td>
 </tr>
 <tr>
@@ -4054,6 +4282,64 @@ Choices Pre-Intermediate Teacher’s Book &amp; Multi-
 <td>English language press</td>
 </tr>
 <tr>
+<td>5.</td>
+<td>
+New Round-Up 4.
+Students’ Book + CD-Rom
+Teacher’s Book + Audio CD
+</td>
+<td>
+Virginia Evans,
+Jenny Dooley
+</td>
+<td>2017</td>
+<td>
+Альраминь/
+Pearson Education Limited
+</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>
+New Round-Up 5.
+Students’ Book + CD-Rom
+Teacher’s Book + Audio CD
+</td>
+<td>
+Virginia Evans,
+Jenny Dooley
+</td>
+<td>2017</td>
+<td>
+Альраминь/
+Pearson
+Education
+Limited
+</td>
+</tr>
+<tr>
+<td colspan="5">10 класс</td>
+</tr>
+<tr>
+<td>1.</td>
+<td>
+New Round-Up 6.
+Students’ Book + CD-Rom
+Teacher’s Book + Audio CD
+</td>
+<td>
+Virginia Evans,
+Jenny Dooley
+</td>
+<td>2017</td>
+<td>
+Альраминь/
+Pearson
+Education
+Limited
+</td>
+</tr>
+<tr>
 <td colspan="5">11 класс</td>
 </tr>
 <tr>
@@ -4128,6 +4414,16 @@ Pack
 <td>Bob Hastings, Stuart McKinlay, Peter Moran, Liz Foody, Lindsay White</td>
 <td>2014</td>
 <td>English language press</td>
+</tr>
+<tr>
+<td>11.</td>
+<td>IELTS Masterclass</td>
+<td>
+Simon Haines,
+Peter May
+</td>
+<td>2017</td>
+<td>Oxford University Press</td>
 </tr>
 <tr>
 <td colspan="5">1-4 класс</td>
@@ -5121,929 +5417,6 @@ Offical Top Tips for IELTS general training
 </td>
 <td>Авторская группа издательства Кембридж</td>
 <td>2016</td>
-<td>Cambridge University Press</td>
-</tr>
-</table>
-
-## Дополнительная литература для внеклассного чтения
-
-<table>
-<tr>
-<td>1.</td>
-<td>Island for Sale</td>
-<td>A. Collins</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>The Crown</td>
-<td>M.​R.​James</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Call of the Wild</td>
-<td>J. London</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Kazakh Folk Tales</td>
-<td>Bondareva A.</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>5.</td>
-<td>The Scarlet Pimpernel</td>
-<td>B.E. Orszy</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>6.</td>
-<td>And Then There Was Non</td>
-<td>A. Christie</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>7.</td>
-<td>Carmila</td>
-<td>J. Sheridan Le Fanu</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>8.</td>
-<td>Japanese Ghost Stories</td>
-<td>L. Hearn</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>9.</td>
-<td>Charles Dickens</td>
-<td>P. Shipton</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>10.</td>
-<td>The Romans</td>
-<td>D. Maule</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>11.</td>
-<td>The ABC Murders</td>
-<td>A. Christie</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>12.</td>
-<td>Evel under the Sun</td>
-<td>A. Christie</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Three Great Plays of Shakespeare</td>
-<td>W. Shakespeare</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>14.</td>
-<td>Bleak House</td>
-<td>Ch. Dickens</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>15.</td>
-<td>How Green Was My Valley</td>
-<td>R. Llewellyn</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>16.</td>
-<td>The Dream &amp; Other Stories</td>
-<td>D. Maurier</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Oliver Twist</td>
-<td>Ch. Dickens</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>18.</td>
-<td>The Body in the Library</td>
-<td>A. Christie</td>
-<td>2013</td>
-<td>Pearson</td>
-</tr>
-<tr>
-<td>19.</td>
-<td>Reading and spelling posters</td>
-<td>Maya Charlesworth, Maria Coretaya</td>
-<td>2015</td>
-<td>Macmillan Publishers</td>
-</tr>
-<tr>
-<td>20.</td>
-<td>Real listening and speaking 1+ CD</td>
-<td>Miles Craven Craig Thaine</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>21.</td>
-<td>Real listening and speaking 2 + CD</td>
-<td>Miles Craven Craig Thaine</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>22.</td>
-<td>Real listening and speaking 3 + CD</td>
-<td>Miles Craven</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>23.</td>
-<td>Real listening and speaking 4+ CD</td>
-<td>Miles Craven</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>24.</td>
-<td>Real reading 1</td>
-<td>LizDriscoll</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>25.</td>
-<td>Real reading 2</td>
-<td>LizDriscoll</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>26.</td>
-<td>Real reading 3</td>
-<td>LizDriscoll</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>27.</td>
-<td>Real reading 4</td>
-<td>LizDriscoll</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>28.</td>
-<td>Real writing 1+ CD</td>
-<td>Graham Palmer</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>29.</td>
-<td>Real writing 2+ CD</td>
-<td>Graham Palmer</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>30.</td>
-<td>Real writing 3+ CD</td>
-<td>Roger Gower</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>31.</td>
-<td>Real writing 4+ CD</td>
-<td>Simon Haines</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>32.</td>
-<td>Vocabulary in practice 1</td>
-<td>Glennis Pye</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>33.</td>
-<td>Vocabulary in practice 2</td>
-<td>Glennis Pye</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>34.</td>
-<td>Vocabulary in practice 3</td>
-<td>Glennis Pye</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>35.</td>
-<td>Vocabulary in practice 4</td>
-<td>Glennis Pye</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>36.</td>
-<td>Vocabulary in practice 5</td>
-<td>Glennis Pye and Liz Driscoll</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>37.</td>
-<td>Vocabulary in practice 6</td>
-<td>Liz Driscoll</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>38.</td>
-<td>Grammar practice 1</td>
-<td>
-Herbert Puchta,
-Jeff Stranks and Peter Lewis
-</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>39.</td>
-<td>Grammar practice 2</td>
-<td>
-Herbert Puchta,
-Jeff Stranks and Peter Lewis
-</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>40.</td>
-<td>Grammar practice 3</td>
-<td>
-Herbert Puchta,
-Jeff Stranks and Peter Lewis
-</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>41.</td>
-<td>Grammar practice 4</td>
-<td>
-Herbert Puchta,
-Jeff Stranks and Peter Lewis
-</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>42.</td>
-<td>Real reading 1</td>
-<td>
-Lynn Bonesteel,
-David Wiese
-</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>43.</td>
-<td>Real reading 2</td>
-<td>
-Lynn Bonesteel,
-David Wiese
-</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>44.</td>
-<td>Real reading 3</td>
-<td>
-Lynn Bonesteel,
-Alice Savage,
-David Wiese
-</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>45.</td>
-<td>Real reading 4</td>
-<td>
-Lynn Bonesteel
-AliceSavage,
-David Wiese
-</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>46.</td>
-<td>My Grammar Lab elementary</td>
-<td>
-Diane Hall,
-Mark Foley
-</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>47.</td>
-<td>My Grammar Lab intermediate</td>
-<td>
-Diane Hall,
-Mark Foley
-</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>48.</td>
-<td>Longman Basic English Dictionary</td>
-<td>Авторская группа издательства Pearson</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>49.</td>
-<td>Longman Photo Dictionary</td>
-<td>Авторская группа издательства Pearson</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>50.</td>
-<td>Longman mini dictionary</td>
-<td>Авторская группа издательства Pearson</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>51.</td>
-<td>Cambridge Learner's Dictionary English- Russian+ CD</td>
-<td>Авторская группа издательства Кембридж</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>52.</td>
-<td>IELTS Trainer Six Practice Tests with Answers and Audio CDs</td>
-<td>Louise Hashemi and Barbara Thomas</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>53.</td>
-<td>Cambridge Preparation for the TOEFL® Test Fourth edition+ CD</td>
-<td>Jolene Gear and Robert Gear</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>54.</td>
-<td>Improve your Writing Skills for IELTS 6-7.5 Student book</td>
-<td>Stephanie Diamond-Bayir</td>
-<td>2015</td>
-<td>Macmillan Publishers</td>
-</tr>
-<tr>
-<td>55.</td>
-<td>Improve your Reading Skills for IELTS 6-7.5 Student book</td>
-<td>Jane Short</td>
-<td>2015</td>
-<td>Macmillan Publishers</td>
-</tr>
-<tr>
-<td>56.</td>
-<td>Improve your Listening and Speaking Skills for IELTS 4.5.6 Student book</td>
-<td>
-Barry Cusack,
-Sam McCarter
-</td>
-<td>2015</td>
-<td>Macmillan Publishers</td>
-</tr>
-<tr>
-<td>57.</td>
-<td>Improve your Skills Use of English</td>
-<td>
-M.​Mann,
-S.​Taylore-Knowles
-</td>
-<td>2015</td>
-<td>Macmillan Publishers</td>
-</tr>
-<tr>
-<td>58.</td>
-<td>Improve your Skills Writing for First</td>
-<td>
-M.​Mann,
-S.​Taylore-Knowles
-</td>
-<td>2015</td>
-<td>Macmillan Publishers</td>
-</tr>
-<tr>
-<td>59.</td>
-<td>Improve your Skills Listening and Speaking</td>
-<td>
-M.​Mann,
-S.​Taylore-Knowles
-</td>
-<td>2015</td>
-<td>Macmillan Publishers</td>
-</tr>
-<tr>
-<td>60.</td>
-<td>Improve your Skills Reading for First</td>
-<td>
-M.​Mann,
-S.​Taylore-Knowles
-</td>
-<td>2015</td>
-<td>Macmillan Publishers</td>
-</tr>
-<tr>
-<td>61.</td>
-<td>Teen's Life in Kazakhstan 1, 2</td>
-<td>
-Бондарева Ануш,
-Дальская Лариса
-</td>
-<td>2015</td>
-<td>Альраминь</td>
-</tr>
-<tr>
-<td>62.</td>
-<td>World of Ballads</td>
-<td>Бондарева Ануш</td>
-<td>2015</td>
-<td>Альраминь</td>
-</tr>
-<tr>
-<td>63.</td>
-<td>American Poetry Sparks</td>
-<td>Бондарева Ануш</td>
-<td>2015</td>
-<td>Альраминь</td>
-</tr>
-<tr>
-<td>64.</td>
-<td>Animals' Quarrel and other Kazakh tales</td>
-<td>Бондарева Ануш</td>
-<td>2015</td>
-<td>Альраминь</td>
-</tr>
-<tr>
-<td>65.</td>
-<td>Farms</td>
-<td>Rachel Bladon</td>
-<td>2015</td>
-<td>Oxford University Press</td>
-</tr>
-<tr>
-<td>66.</td>
-<td>Doors to a Wider Place</td>
-<td>J. Bassett</td>
-<td>2015</td>
-<td>Oxford University Press</td>
-</tr>
-<tr>
-<td>67.</td>
-<td>Festivals Around the World</td>
-<td>R. Northcott</td>
-<td>2015</td>
-<td>Oxford University Press</td>
-</tr>
-<tr>
-<td>68.</td>
-<td>Rainforests</td>
-<td>R. Akinyemi</td>
-<td>2015</td>
-<td>Oxford University Press</td>
-</tr>
-<tr>
-<td>69.</td>
-<td>Amazing Minibeasts</td>
-<td>Cherul Palin</td>
-<td>2015</td>
-<td>Oxford University Press</td>
-</tr>
-<tr>
-<td>70.</td>
-<td>Animal Life Cycles</td>
-<td>Rachel Bladon</td>
-<td>2015</td>
-<td>Oxford University Press</td>
-</tr>
-<tr>
-<td>71.</td>
-<td>TwoKites</td>
-<td>Helen Casey</td>
-<td>2015</td>
-<td>Oxford University Press</td>
-</tr>
-<tr>
-<td>72.</td>
-<td>Animals In the Air</td>
-<td>R.​Quinn</td>
-<td>2015</td>
-<td>Oxford University Press</td>
-</tr>
-<tr>
-<td>73.</td>
-<td>Winnie the Pooh 1</td>
-<td>M. Williams</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>74.</td>
-<td>Cinderella 1</td>
-<td>Kathryn Harper</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>75.</td>
-<td>Peter Pan 1</td>
-<td>Nicola Schofield</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>76.</td>
-<td>Finding Nemo 1</td>
-<td>M. Williams</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>77.</td>
-<td>Sleeping Beauty 1</td>
-<td>Caroline Laidlaw</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>78.</td>
-<td>Bambi 2</td>
-<td>Barbara Ingham</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>79.</td>
-<td>Snow White 2</td>
-<td>Kathryn Harper</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>80.</td>
-<td>The Jungle Book 2</td>
-<td>Nicola Schofield</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>81.</td>
-<td>The Little Mermaid 2</td>
-<td>Kathryn Harper</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>82.</td>
-<td>Butterflies and Frogs</td>
-<td>Rachel Wilson</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>83.</td>
-<td>Sport with Trainer Tim</td>
-<td>Maria Luisa Iturain</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>84.</td>
-<td>Up in the Air</td>
-<td>Marie Crook</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>85.</td>
-<td>Animal Athletes</td>
-<td>Caroline Laidlaw</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>86.</td>
-<td>Brain Gym</td>
-<td>Laura Miller</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>87.</td>
-<td>Island Hopping</td>
-<td>Caroline Laidlaw</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>88.</td>
-<td>A World of Homes</td>
-<td>Nicole Taylor</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>89.</td>
-<td>Animal Camouflage</td>
-<td>Caroline Laidlaw</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>90.</td>
-<td>Our Changing Planet</td>
-<td>Coleen Degnan-Veness</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>91.</td>
-<td>A Bug's Life</td>
-<td>Marie Crook</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>92.</td>
-<td>Lady and the Tramp</td>
-<td>Rachel Wilson</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>93.</td>
-<td>Toy Story 2,3</td>
-<td>Paul Shipton</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>94.</td>
-<td>Pinocchio</td>
-<td>Melanie Williams</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>95.</td>
-<td>101Dalmatians</td>
-<td>Marie Crook</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>96.</td>
-<td>Lion King</td>
-<td>Paul Shipton</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>97.</td>
-<td>Robin Hood</td>
-<td>Jocelyn Potter</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>98.</td>
-<td>Chicken Little</td>
-<td>Marie Crook</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>99.</td>
-<td>Alice in Wonderland</td>
-<td>Paul Shipton</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>100.</td>
-<td>Alladin</td>
-<td>Jocelyn Potter</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>101.</td>
-<td>Hunchback of Notre-Damme</td>
-<td>Jocelyn Potter</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>102.</td>
-<td>Wall-e</td>
-<td>Helen Parker</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>103.</td>
-<td>Ratatoille</td>
-<td>Paul Shipton</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>104.</td>
-<td>Atlantis</td>
-<td>Marie Crook</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>105.</td>
-<td>Up</td>
-<td>Coleen Degnan-Veness</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>106.</td>
-<td>Mulan</td>
-<td>Paul Shipton</td>
-<td>2015</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>107.</td>
-<td>Readers life in the desert</td>
-<td>Written by Paul Mason</td>
-<td>2015</td>
-<td>Macmillan Publishers</td>
-</tr>
-<tr>
-<td>108.</td>
-<td>What we eat, What animals eat</td>
-<td>Brenda Stones</td>
-<td>2015</td>
-<td>Macmillan Publishers</td>
-</tr>
-<tr>
-<td>109.</td>
-<td>Amazing animals senses</td>
-<td>Claire Llewellyn</td>
-<td>2015</td>
-<td>Macmillan Publishers</td>
-</tr>
-<tr>
-<td>110.</td>
-<td>Horses</td>
-<td>Written by Kerry Powell</td>
-<td>2015</td>
-<td>Macmillan Publishers</td>
-</tr>
-<tr>
-<td>111.</td>
-<td>My cousin Rachel</td>
-<td>D.​du Maurier</td>
-<td>2015</td>
-<td>Macmillan Publishers</td>
-</tr>
-<tr>
-<td>112.</td>
-<td>The story of the olympics: an unofficial history</td>
-<td>Rachel Bladon</td>
-<td>2015</td>
-<td>Macmillan Publishers</td>
-</tr>
-<tr>
-<td>113.</td>
-<td>One Day</td>
-<td>Helen Naylor</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>114.</td>
-<td>A Little Trouble in Amsterdam</td>
-<td>Richard Mac Andrew</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>115.</td>
-<td>The Fruitcake Special and other stories</td>
-<td>Frank Brennan</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>116.</td>
-<td>Berlin Express</td>
-<td>Michael Austen</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>117.</td>
-<td>When Summer Comes</td>
-<td>Helen Naylor</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>118.</td>
-<td>Emergency Murder</td>
-<td>Janet McGiffin</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>119.</td>
-<td>Forget To Remember</td>
-<td>Alan Maley</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>120.</td>
-<td>Deadly Harvest</td>
-<td>Carolyn Walker</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>121.</td>
-<td>A Love for Life</td>
-<td>Penny Hancock</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>122.</td>
-<td>Freddie’s War</td>
-<td>Jane Rollason</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>123.</td>
-<td>Solo Saxophone</td>
-<td>Jeremy Harmer</td>
-<td>2015</td>
-<td>Cambridge University Press</td>
-</tr>
-<tr>
-<td>124.</td>
-<td>Frozen Pizza and other slices of life</td>
-<td>Antoinette Moses</td>
-<td>2015</td>
 <td>Cambridge University Press</td>
 </tr>
 </table>
