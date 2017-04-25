@@ -1,5 +1,5 @@
 ---
-version_id: '105713_111016'
+version_id: '105713_190883'
 act_code: '105713'
 language: kaz
 title: «Сыбайлас жемқорлық қылмыстар,оларды жасаған, сотталған адамдар, сыбайлас жемқорлық қылмыстар жөніндегі қылмыстық істердің қозғалысы және сыбайлас жемқорлық құқық бұзушылық субъектілері туралы» № 3-К нысанды есепті және оны қалыптастыру жөніндегі Нұсқаулықты бекіту туралы
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '107000000000'
 approval_date: 2016-07-14
-version_date: 2016-07-14
+version_date: 2017-04-25
 registry_number: '105713'
-source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
+caused_by:
+  code: '112443'
+  title: «Сыбайлас жемқорлық қылмыстар, оларды жасаған, сотталған адамдар, сыбайлас жемқорлық қылмыстар жөніндегі қылмыстық істердің қозғалысы және сыбайлас жемқорлық құқық бұзушылық субъектілері туралы» № 3-К нысанды есепті және оны қалыптастыру жөніндегі Нұсқаулықты бекіту туралы» Қазақстан Республикасы Бас Прокурорының 2016 жылғы 14 шілдедегі № 125 бұйрығына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/112443/kaz
+source: https://zan.gov.kz/client/#!/doc/105713/kaz/25.04.2017
 ---
 
 # «Сыбайлас жемқорлық қылмыстар, оларды жасаған, сотталған адамдар, сыбайлас жемқорлық қылмыстар жөніндегі қылмыстық істердің қозғалысы және сыбайлас жемқорлық құқық бұзушылық субъектілері туралы» № 3-К нысанды есепті және оны қалыптастыру жөніндегі Нұсқаулықты бекіту туралы
@@ -53,9 +57,11 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 > *2016 жылғы 14 шілдедегі*  
 > *№ 125 бұйрығына № 1-қосымша*
 
-№3-К нысаны. Сыбайлас жемқорлық қылмыстар, оларды жасаған адамдар, сотталғандар, сыбайлас жемқорлық қылмыстар жөніндегі қылмыстық істердің қозғалысы және сыбайлас жемқорлық құқық бұзушылық субъектілері туралы есеп
+> *Ескерту. Нысан есебі жаңа редакцияда - ҚР Бас прокурорының 25.04.2017 № 43 (алғашқы ресми жарияланған күнiнен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
-1-бөлім. СДТБ-де тіркелген сыбайлас жемқорлық қылмыстар және олар жөніндегі қылмыстық істер туралы мәліметтер
+# № 3-К нысаны. Сыбайлас жемқорлық қылмыстар, оларды жасаған адамдар, сотталғандар, сыбайлас жемқорлық қылмыстар жөніндегі қылмыстық істердің қозғалысы және сыбайлас жемқорлық құқық бұзушылық субъектілері туралы есеп
+
+## 1-бөлім. СДТБ-де тіркелген сыбайлас жемқорлық қылмыстар және олар жөніндегі қылмыстық істер туралы мәліметтер
 
 <table>
 <tr>
@@ -66,16 +72,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td rowspan="3">Сыбайлас жемқорлық істері тергеп-тексерумен аяқталған қылмыстар саны</td>
 <td colspan="2">3-бағаннан</td>
 <td rowspan="3">Қылмыстық істері ҚР ҚПК 35-баб. 1-бөл. 1), 2), 5), 6), 7), 8) тармақтары бойынша тоқтатылған сыбайлас жемқорлық қылмыстар саны</td>
-<td colspan="3" rowspan="2">Сотқа дейінгі тергеп-тексеру мерзімдері үзілген сыбайлас жемқорлық қылмыстар саны</td>
 </tr>
 <tr>
 <td rowspan="2">Сотқа жіберілген қылмыстық істер саны</td>
 <td rowspan="2">Қылмыстық істері ҚР ҚПК 35-бабы 1-бөл. 3), 4), 9), 10), 11), 12) тармақтары және 36-бабы бойынша тоқтатылған сыбайлас жемқорлық қылмыстар саны</td>
 </tr>
 <tr>
-<td>б а р л ы ғ ы</td>
-<td>ҚПК 45-баб. 7-бөл. 1)-т. бойынша</td>
-<td>ҚПК 45-баб. 7-бөл. 2)-т. бойынша</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -86,16 +88,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td>4</td>
 <td>5</td>
 <td>6</td>
-<td>7</td>
-<td>8</td>
-<td>9</td>
 </tr>
 <tr>
 <td colspan="2">Барлығы сыбайлас жемқорлық қылмыстар</td>
 <td>1</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -113,16 +109,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>ауырлығы орташа</td>
 <td>3</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -139,16 +129,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>аса ауыр</td>
 <td>5</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -166,16 +150,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>Алаяқтық (ҚР ҚК 190-баб. 3-бөл. 2)-т.)</td>
 <td>7</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -192,16 +170,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>Іс жүзінде жұмыстар орындалмай, қызметтер көрсетілмей, тауарлар тиеп-жөнелтілмей шот-фактура жазу бойынша әрекеттер жасау (ҚР ҚК 216-баб. 2-бөл. 4)-т.)</td>
 <td>9</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -218,16 +190,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>Қылмыстық жолмен алынған ақшаны және (немесе) өзге мүлікті заңдастыру (жылыстату) (ҚР ҚК 218-баб. 3-бөл. 1)-т.)</td>
 <td>11</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -244,16 +210,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>Рейдерлік (ҚР ҚК 249-баб. 3-бөл. 2)-т.)</td>
 <td>13</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -270,16 +230,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>Лауазымдық өкілеттіктерді теріс пайдалану (ҚР ҚК 361-баб.)</td>
 <td>15</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -296,16 +250,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>Кәсіпкерлік қызметке заңсыз қатысу (ҚР ҚК 364-баб.)</td>
 <td>17</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -322,16 +270,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>Пара алу (ҚР ҚК 366-баб.)</td>
 <td>19</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -348,16 +290,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>Парақорлыққа делдал болу (ҚР ҚК 368-баб.)</td>
 <td>21</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -374,16 +310,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>Қызметтегі әрекетсіздік (ҚР ҚК 370-баб.)</td>
 <td>23</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -400,16 +330,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>Билікті асыра пайдалану (ҚР ҚК 451-баб. 2-бөл. 2)-т.)</td>
 <td>25</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -426,16 +350,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">Сыбайлас жемқорлық емес болып қайта сараланған қылмыстардың барлығы</td>
 <td>27</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -449,7 +367,277 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 <table>
 <tr>
-<td colspan="4" rowspan="2">Сотқа дейінгі тергеп-тексеру мерзімдері үзілген сыбайлас жемқорлық қылмыстар саны</td>
+<td colspan="8" rowspan="2">Сотқа дейінгі тергеп-тексеру мерзімдері үзілген сыбайлас жемқорлық қылмыстар саны</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td colspan="2">барлығы</td>
+<td>ҚПК 45-баб. 7-бөл. 1)-т. бойынша</td>
+<td>ҚПК 45-баб. 7-бөл. 2)-т. бойынша</td>
+<td>ҚПК 45-баб. 7-бөл. 3)-т. бойынша</td>
+<td>ҚПК 45-баб. 7-бөл. 5)-т. бойынша</td>
+<td>ҚПК 45-баб. 7-бөл. 6)-т. бойынша</td>
+<td>ҚПК 45-баб. 7-бөл. 7)-т. бойынша</td>
+</tr>
+<tr>
+<td colspan="2">7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Кестенің жалғасы:
+
+<table>
+<tr>
 <td rowspan="3">ҚПК 45-баб. 7-бөл. 4)-т. бойынша сотқа дейінгі өндіріс мерзімдері үзілген сыбайлас жемқорлық қылмыстар саны</td>
 <td rowspan="3">ҚПК 45-баб. 7-бөл. 4)-т. бойынша сотқа дейінгі өндіріс мерзімдері үзілген бұрынғы жылдардың сыбайлас жемқорлық қылмыстар саны</td>
 <td colspan="3" rowspan="2">Тергеп-тексерумен аяқталған қылмыстық істер бойынша</td>
@@ -459,19 +647,11 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <tr>
 </tr>
 <tr>
-<td>ҚПК 45-баб. 7-бөл. 3)-т. бойынша</td>
-<td>ҚПК 45-баб. 7-бөл. 5)-т. бойынша</td>
-<td>ҚПК 45-баб. 7-бөл. 6)-т. бойынша</td>
-<td>ҚПК 45-баб. 7-бөл. 7)-т. бойынша</td>
 <td>Материалдық залалдың белгіленген мөлшері (мың теңге)</td>
 <td>Мүлікке тыйым салынды (мың теңге)</td>
 <td>Алынды және ерікті өтелді (мың теңге)</td>
 </tr>
 <tr>
-<td>10</td>
-<td>11</td>
-<td>12</td>
-<td>13</td>
 <td>14</td>
 <td>15</td>
 <td>16</td>
@@ -488,29 +668,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -527,29 +686,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -566,29 +704,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -605,29 +722,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -644,29 +740,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -683,29 +758,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -722,29 +776,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -761,29 +794,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -800,6 +812,11 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -813,6 +830,11 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -823,6 +845,56 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -835,7 +907,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 №3-К нысаны. Сыбайлас жемқорлық қылмыстар, оларды жасаған адамдар, сотталғандар, сыбайлас жемқорлық қылмыстар жөніндегі қылмыстық істердің қозғалысы және сыбайлас жемқорлық құқық бұзушылық субъектілері туралы есеп
 
-2- бөлім. Сотқа дейінгі тергеп-тексеру мемлекеттік функцияларды орындауға өкілетті, және оларға теңестірілген адамдарға қатысты басталған сыбайлас жемқорлық қылмыстар туралы мәліметтер
+## 2- бөлім. Сотқа дейінгі тергеп-тексеру мемлекеттік функцияларды орындауға өкілетті, және оларға теңестірілген адамдарға қатысты басталған сыбайлас жемқорлық қылмыстар туралы мәліметтер
 
 <table>
 <tr>
@@ -850,11 +922,11 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 </tr>
 <tr>
 <td rowspan="2">ішкі істер органдарының (4, 5 және 6-бағандардың көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">ІІМ Ұлттық гвардиясының</td>
+<td rowspan="2">Ішкі істер министрлігі Ұлттық гвардиясының (бұдан ары - ІІМ)</td>
 <td rowspan="2">ІІМ Қылмыстық-атқару жүйесі комитетінің</td>
 <td rowspan="2">ІІМ Төтенше жағдайлар жөніндегі комитетінің</td>
 <td rowspan="2">Ұлттық қауіпсіздік органдарының (8-баған көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">ҰҚК Шекара қызметінің</td>
+<td rowspan="2">Ұлттық қауіпсіздік комитеті Шекара қызметінің</td>
 </tr>
 <tr>
 </tr>
@@ -993,10 +1065,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td>
-Қаржылық (инвестициялық) пирамиданы құру және оған басшылық ету
-(ҚР ҚК 217-баб. 3-бөл. 3)-т.)
-</td>
+<td>Қаржылық (инвестициялық) пирамиданы құру және оған басшылық ету (ҚР ҚК 217-баб. 3-бөл. 3)-т.)</td>
 <td>11</td>
 <td></td>
 <td></td>
@@ -1229,16 +1298,16 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 <table>
 <tr>
-<td colspan="10">соның ішінде 1-ші бағаннан</td>
+<td colspan="11">соның ішінде 1-ші бағаннан</td>
 </tr>
 <tr>
-<td colspan="10">қызметкерлері</td>
+<td colspan="11">қызметкерлері</td>
 </tr>
 <tr>
-<td rowspan="2">Прокуратура органдарының</td>
-<td rowspan="2">Сыбайлас жемқорлыққа қарсы іс-қимыл Ұлттық бюросының</td>
-<td rowspan="2">ҚМ Мемлекеттік кіріс комитетінің</td>
-<td>11-бағаннан</td>
+<td colspan="2" rowspan="2">Прокуратура органдарының</td>
+<td rowspan="2">Мемлекеттік қызмет істері және сыбайлас жемқорлыққа қарсы іс-қимыл агенттігінің Сыбайлас жемқорлыққа қарсы іс-қимыл ұлттық бюросы</td>
+<td rowspan="2">Қаржы министрлігі Мемлекеттік кіріс комитетінің</td>
+<td>11-ба ғаннан</td>
 <td rowspan="2">Қарулы күштерінің</td>
 <td rowspan="2">мемлекеттік күзет қызметінің</td>
 <td rowspan="2">«Сырбар» сыртқы барлау қызметінің</td>
@@ -1250,7 +1319,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td>Экономикалық тергеп-тексерулер қызметінің</td>
 </tr>
 <tr>
-<td>9</td>
+<td colspan="2">9</td>
 <td>10</td>
 <td>11</td>
 <td>12</td>
@@ -1262,19 +1331,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td>18</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1286,19 +1343,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1310,19 +1355,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1334,19 +1367,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1358,19 +1379,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1382,19 +1391,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1406,19 +1403,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1430,19 +1415,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1454,19 +1427,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1478,19 +1439,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1502,19 +1451,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1526,19 +1463,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1550,19 +1475,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1574,19 +1487,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1598,7 +1499,175 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1613,54 +1682,46 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 <table>
 <tr>
-<td colspan="15">соның ішінде 1-ші бағаннан</td>
+<td colspan="10">соның ішінде 1-бағаннан</td>
 </tr>
 <tr>
-<td colspan="15">мемлекеттік органдардың қызметшілері</td>
+<td colspan="10">мемлекеттік органдардың қызметшілері</td>
 </tr>
 <tr>
-<td rowspan="2">Әділет министрлігінің</td>
-<td>19- бағаннан</td>
-<td rowspan="2">Сыртқы істер министрлігі</td>
-<td rowspan="2">Қаржы министрлігі (11-бағанның көрсеткіштерін есепке алусыз)</td>
-<td colspan="2" rowspan="2">Ауыл шаруашылығы министрлігі</td>
-<td>23- бағаннан</td>
-<td rowspan="2">Денсаулық сақтау және әлеуметтік даму министрлігінің</td>
-<td rowspan="2">Білім және ғылым министрлігінің</td>
-<td rowspan="2">Ұлттық экономика министрлігінің</td>
-<td colspan="4">27-бағаннан</td>
+<td rowspan="3">Әділет министрлігінің</td>
+<td rowspan="2">19- бағаннан</td>
+<td rowspan="3">Сыртқы істер министрлігінің</td>
+<td rowspan="3">Қаржы министрлігінің (11-бағанның көрсеткіштерін есепке алусыз)</td>
+<td rowspan="3">Ауыл шаруашылығы министрлігінің</td>
+<td rowspan="2">23- бағаннан</td>
+<td rowspan="3">Денсаулық сақтау министрлігінің</td>
+<td rowspan="3">Еңбек және халықты әлеуметтік қорғау министрлігінің</td>
+<td rowspan="3">Білім және ғылым министрлігінің</td>
+<td rowspan="3">Ұлттық экономика министрлігінің</td>
 </tr>
 <tr>
-<td>ӘМ сот актілерін орындау жөніндегі департаментінің</td>
-<td>Жер ресурстарын басқару комитеті</td>
-<td>Статистика жөніндегі комитеттің</td>
-<td>Табиғи монополияларды реттеу және бәсекелестікті қорғау жөніндегі комитеттің</td>
-<td>Құрылыс, тұрғын үй-коммуналдық шаруашылык істері</td>
-<td>Тұтынушылар құқықтарын қорғау жөніндегі комитеттің</td>
+</tr>
+<tr>
+<td>Сот актілерін орындау жөніндегі департаментінің</td>
+<td>Жер ресурстарын басқару комитетінің</td>
 </tr>
 <tr>
 <td>19</td>
 <td>20</td>
 <td>21</td>
 <td>22</td>
-<td colspan="2">23</td>
+<td>23</td>
 <td>24</td>
 <td>25</td>
 <td>26</td>
 <td>27</td>
 <td>28</td>
-<td>29</td>
-<td>30</td>
-<td>31</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1673,7 +1734,16 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1689,57 +1759,125 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 <table>
 <tr>
-<td colspan="15">соның ішінде 1-ші бағаннан</td>
+<td colspan="11">соның ішінде 1-бағаннан</td>
 </tr>
 <tr>
-<td colspan="13">мемлекеттік органдардың қызметшілері</td>
-<td rowspan="3">Өзге мемлекеттік құрылымдардың қызметшілерімен</td>
-<td rowspan="3">өзге</td>
+<td colspan="11">мемлекеттік органдардың қызметшілері</td>
 </tr>
 <tr>
-<td rowspan="2">Инвестициялар және даму министрлігінің</td>
-<td>32- бағаннан</td>
-<td rowspan="2">Энергетика министрлігі</td>
-<td rowspan="2">Мәдениет және спорт министрлігінің</td>
-<td>35- бағаннан</td>
-<td colspan="3">Мемлекеттік қызмет істері министрлігі (10-баған көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">Ақпарат және коммуникациялар министрлігі</td>
-<td rowspan="2">Ұлттық банкінің</td>
-<td colspan="2" rowspan="2">Республикалық бюджеттің атқарылуын бақылау жөніндегі есеп комитетінің</td>
-<td rowspan="2">Әкімдіктердің және олардың құрылымдық бөлімшелерінің қызметшілерімен</td>
+<td colspan="4" rowspan="2">28-бағаннан</td>
+<td rowspan="3">Инвестициялар және даму министрлігінің</td>
+<td rowspan="3">Энергетика министрлігінің</td>
+<td rowspan="3">Мәдениет және спорт министрлігінің</td>
+<td rowspan="2">35- бағаннан</td>
+<td rowspan="3">Ақпарат және коммуникациялар министрлігінің</td>
+<td rowspan="3">Дін істері және азаматтық қоғам министрлігінің</td>
+<td rowspan="3">Қорғаныс және аэроғарыш өнеркәсібі министрлігінің</td>
 </tr>
 <tr>
-<td>Аэроғарыш комитетінің</td>
-<td colspan="2">Дін істері жөніндегі комитеттің</td>
+</tr>
+<tr>
+<td>Статистика жөніндегі комитетінің</td>
+<td>Табиғи монополияларды реттеу және бәсекелестікті қорғау жөніндегі комитетінің</td>
+<td>Құрылыс, тұрғын үй-коммуналдық шаруашылык істері комитетінің</td>
+<td>Тұтынушылар құқықтарын қорғау жөніндегі комитетінің</td>
 <td>Спорт және дене шынықтыру істері комитетінің</td>
-<td></td>
 </tr>
 <tr>
+<td>29</td>
+<td>30</td>
+<td>31</td>
 <td>32</td>
 <td>33</td>
 <td>34</td>
 <td>35</td>
-<td colspan="2">36</td>
+<td>36</td>
 <td>37</td>
 <td>38</td>
 <td>39</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Кестенің жалғасы:
+
+<table>
+<tr>
+<td colspan="9">соның ішінде 1-бағаннан</td>
+</tr>
+<tr>
+<td colspan="7">мемлекеттік органдардың қызметшілері</td>
+<td rowspan="3">Өзге мемлекеттік құрылымдардың қызметшілерімен</td>
+<td rowspan="3">өзге</td>
+</tr>
+<tr>
+<td colspan="3">39- бағаннан</td>
+<td rowspan="2">Мемлекеттік қызмет істері және сыбайлас жемқорлыққа қарсы іс-қимыл агенттігінің (10-баған көрсеткіштерін есепке алусыз)</td>
+<td rowspan="2">Ұлттық банкінің</td>
+<td rowspan="2">Республикалық бюджеттің атқарылуын бақылау жөніндегі есеп комитетінің</td>
+<td rowspan="2">Әкімдіктердің және олардың құрылымдық бөлімшелерінің қызметшілерімен</td>
+</tr>
+<tr>
+<td>Ақпараттық қауіпсіздік комитетінің</td>
+<td>Аэроғарыш комитетінің</td>
+<td>Мемлекеттік материалдық резервтер комитетінің</td>
+</tr>
+<tr>
 <td>40</td>
-<td colspan="2">41</td>
+<td>41</td>
 <td>42</td>
 <td>43</td>
 <td>44</td>
+<td>45</td>
+<td>46</td>
+<td>47</td>
+<td>48</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1749,12 +1887,19 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1763,7 +1908,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 №3-К нысаны. Сыбайлас жемқорлық қылмыстар, оларды жасаған адамдар, сотталғандар, сыбайлас жемқорлық қылмыстар жөніндегі қылмыстық істердің қозғалысы және сыбайлас жемқорлық құқық бұзушылық субъектілері туралы есеп
 
-3- бөлім. Сыбайлас жемқорлық қылмыс жасаған адамдар туралы мәліметтер
+## 3- бөлім. Сыбайлас жемқорлық қылмыс жасаған адамдар туралы мәліметтер
 
 <table>
 <tr>
@@ -1771,19 +1916,18 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td rowspan="4"></td>
 <td rowspan="4">Есепті мерзімде оларға қатысты күдікті деп тану туралы қаулы шығарылған адамдардың саны</td>
 <td rowspan="4">Қылмыс жасаған адамдар анықталды</td>
-<td rowspan="4">Айыпталушылар сотына берілді</td>
-<td colspan="6">соның ішінде 3-ші бағаннан</td>
+<td rowspan="4">Айыпталушылар сотқа берілді</td>
+<td colspan="5">соның ішінде 3-ші бағаннан</td>
 </tr>
 <tr>
-<td colspan="6">қызметкерлері</td>
+<td colspan="5">қызметкерлері</td>
 </tr>
 <tr>
 <td rowspan="2">ішкі істер органдарының (5, 6 және 7-бағандардың көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">ІІМ Ұлттық гвардиясының</td>
+<td rowspan="2">Ішкі істер министрлігі Ұлттық гвардиясының (бұдан ары - ІІМ)</td>
 <td rowspan="2">ІІМ Қылмыстық-атқару жүйесі комитетінің</td>
 <td rowspan="2">ІІМ Төтенше жағдайлар жөніндегі комитетінің</td>
-<td rowspan="2">Ұлттық қауіпсіздік органдарының (8-баған көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">ҰҚК Шекара қызметінің</td>
+<td rowspan="2">Ұлттық қауіпсіздік органдарының (9-баған көрсеткіштерін есепке алусыз)</td>
 </tr>
 <tr>
 </tr>
@@ -1798,12 +1942,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td>6</td>
 <td>7</td>
 <td>8</td>
-<td>9</td>
 </tr>
 <tr>
 <td colspan="2">Барлығы сыбайлас жемқорлық қылмыстар</td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1825,12 +1967,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>ауырлығы орташа</td>
 <td>3</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1851,12 +1991,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>аса ауыр</td>
 <td>5</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1878,12 +2016,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>Алаяқтық (ҚР ҚК 190-баб. 3-бөл. 2)-т.)</td>
 <td>7</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1904,7 +2040,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>Іс жүзінде жұмыстар орындалмай, қызметтер көрсетілмей, тауарлар тиеп-жөнелтілмей шот-фактура жазу бойынша әрекеттер жасау (ҚР ҚК 216-баб. 2-бөл. 4)-т.)</td>
@@ -1917,15 +2052,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td>
-Қаржылық (инвестициялық) пирамиданы құру және оған басшылық ету
-(ҚР ҚК 217-баб. 3-бөл. 3)-т.)
-</td>
+<td>Қаржылық (инвестициялық) пирамиданы құру және оған басшылық ету (ҚР ҚК 217-баб. 3-бөл. 3)-т.)</td>
 <td>10</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1946,12 +2076,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>Экономикалық контрабанда (ҚР ҚК 234-баб. 3-бөл. 1)-т.)</td>
 <td>12</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1972,12 +2100,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>Заңсыз ойын бизнесін ұйымдастыру (ҚР ҚК 307-баб. 3-бөл. 3)-т.)</td>
 <td>14</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1998,12 +2124,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>Билікті немесе лауазымдық өкілеттіктерді асыра пайдалану (ҚР ҚК 362-баб. 4-бөл. 3)-т.)</td>
 <td>16</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2024,12 +2148,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>Заңды кәсіпкерлік қызметке кедергі жасау (ҚР ҚК 365-баб.)</td>
 <td>18</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2050,12 +2172,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>Пара беру (ҚР ҚК 367-баб.)</td>
 <td>20</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2076,12 +2196,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>Қызметтік жалғандық жасау (ҚР ҚК 369-баб.)</td>
 <td>22</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2102,12 +2220,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>Билікті теріс пайдалану (ҚР ҚК 450-баб.)</td>
 <td>24</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2128,12 +2244,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>Биліктің әрекетсіздігі (ҚР ҚК 452-баб.)</td>
 <td>26</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2149,21 +2263,19 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 <table>
 <tr>
-<td colspan="10">соның ішінде 3-ші бағаннан</td>
+<td colspan="11">соның ішінде 3-ші бағаннан</td>
 </tr>
 <tr>
-<td colspan="7">қызметкерлері</td>
+<td colspan="8">қызметкерлері</td>
 <td rowspan="3">судьялар</td>
 <td rowspan="3">әкімдер</td>
 <td rowspan="3">депутаттар</td>
 </tr>
 <tr>
+<td rowspan="2">Ұлттық қауіпсіздік комитеті Шекара қызметінің</td>
 <td rowspan="2">Прокуратура органдарының</td>
-<td rowspan="2">
-Сыбайлас жемқорлыққа қарсы іс-қимыл
-Ұлттық бюросының
-</td>
-<td rowspan="2">ҚМ Мемлекеттік кіріс комитетінің</td>
+<td rowspan="2">Мемлекеттік қызмет істері және сыбайлас жемқорлыққа қарсы іс-қимыл агенттігінің Сыбайлас жемқорлыққа қарсы іс-қимыл ұлттық бюросы</td>
+<td rowspan="2">Қаржы министрлігіі Мемлекеттік кіріс комитетінің</td>
 <td>12-баған нан</td>
 <td rowspan="2">Қарулы күштері</td>
 <td rowspan="2">Мемлекеттік күзет қызметі</td>
@@ -2173,6 +2285,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td>Экономикалық тергеп-тексерулер қызметінің</td>
 </tr>
 <tr>
+<td>9</td>
 <td>10</td>
 <td>11</td>
 <td>12</td>
@@ -2195,32 +2308,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -2243,32 +2334,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -2291,32 +2360,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -2339,32 +2386,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -2387,32 +2412,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -2435,32 +2438,10 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -2483,8 +2464,166 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2500,54 +2639,43 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 <table>
 <tr>
-<td colspan="15">соның ішінде 3-бағаннан</td>
+<td colspan="10">соның ішінде 3-бағаннан</td>
 </tr>
 <tr>
-<td colspan="15">мемлекеттік органдардың қызметшілері</td>
+<td colspan="10">мемлекеттік органдардың қызметшілері</td>
 </tr>
 <tr>
-<td rowspan="2">Әділет министрлігінің</td>
-<td>20- бағаннан</td>
-<td rowspan="2">Сы ртқы істер министрлігі</td>
-<td rowspan="2">Қаржы ми нистр лігі (12-бағанның көрсеткіш те рін ес еп ке алусыз)</td>
-<td colspan="2" rowspan="2">Ау ыл шаруашылығы министрлігі</td>
-<td>24- бағаннан</td>
-<td rowspan="2">Денсаулық сақтау және әлеуметтік даму министрлігінің</td>
-<td rowspan="2">Бі лім жә не ғылым министрлігінің</td>
-<td rowspan="2">Ұлттық экономика министрлігінің</td>
-<td colspan="4">28-бағаннан</td>
-<td rowspan="2">Инвестициялар және даму министрлігінің</td>
+<td rowspan="3">Әділет министрлігінің</td>
+<td rowspan="2">20- бағаннан</td>
+<td rowspan="3">Сыртқы істер министрлігінің</td>
+<td rowspan="3">Қаржы министрлігінің (12-бағанның көрсеткіштерін есепке алусыз)</td>
+<td rowspan="3">Ауыл шаруашылығы министрлігінің</td>
+<td rowspan="2">24- бағаннан</td>
+<td rowspan="3">Денсаулық сақтау министрлігінің</td>
+<td rowspan="3">Еңбек және халықты әлеуметтік қорғау министрлігінің</td>
+<td rowspan="3">Білім және ғылым министрлігінің</td>
+<td rowspan="3">Ұлттық экономика министрлігінің</td>
 </tr>
 <tr>
-<td>ӘМ сот ак ті ле рін ор ындау жөніндегі департаментінің</td>
-<td>Жер ресурстарын басқару комитеті</td>
-<td>Статистика жөніндегі комитеттің</td>
-<td>Табиғи монополияларды реттеу және бәсекелестікті қорғау жөніндегі комитеттің</td>
-<td>Құрылыс, тұрғын үй-коммуналдық шаруашылык істері</td>
-<td>Тұ ты ну шылар құ қықтарын қорғау жөніндегі комитеттің</td>
+</tr>
+<tr>
+<td>Сот актілерін орындау жөніндегі департаментінің</td>
+<td>Жер ресурстарын басқару комитетінің</td>
 </tr>
 <tr>
 <td>20</td>
 <td>21</td>
 <td>22</td>
 <td>23</td>
-<td colspan="2">24</td>
+<td>24</td>
 <td>25</td>
 <td>26</td>
 <td>27</td>
 <td>28</td>
 <td>29</td>
-<td>30</td>
-<td>31</td>
-<td>32</td>
-<td>33</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2563,26 +2691,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2595,10 +2703,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2608,10 +2712,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2628,30 +2728,35 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 <table>
 <tr>
-<td colspan="15">соның ішінде 3-бағаннан</td>
+<td colspan="11">соның ішінде 3-бағаннан</td>
 </tr>
 <tr>
 <td colspan="11">мемлекеттік органдардың қызметшілері</td>
-<td rowspan="3">Өзге мемлекеттік құрылымдардың қызметшілерімен</td>
-<td rowspan="3">өзге</td>
 </tr>
 <tr>
-<td>33- бағаннан</td>
-<td rowspan="2">Энергетика министрлігі</td>
-<td rowspan="2">Мәдениет және спорт министрлігінің</td>
-<td colspan="2">36- бағаннан</td>
-<td rowspan="2">Мемлекеттік қызмет істері министрлігі (11-баған көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">Ақпарат және коммуникациялар министрлігі</td>
-<td rowspan="2">Ұлттық банкінің</td>
-<td colspan="2" rowspan="2">Республикалық бюджеттің атқарылуын бақылау жөніндегі есеп комитетінің</td>
-<td rowspan="2">Әкімдіктердің және олардың құрылымдық бөлімшелерінің қызметшілерімен</td>
+<td colspan="4" rowspan="2">29-бағаннан</td>
+<td rowspan="3">Инвестициялар және даму министрлігінің</td>
+<td rowspan="3">Энергетика министрлігінің</td>
+<td rowspan="3">Мәдениет және спорт министрлігінің</td>
+<td rowspan="2">36- бағаннан</td>
+<td rowspan="3">Ақпарат және коммуникациялар министрлігінің</td>
+<td rowspan="3">Дін істері және азаматтық қоғам министрлігінің</td>
+<td rowspan="3">Қорғаныс және аэроғарыш өнеркәсібі министрлігінің</td>
 </tr>
 <tr>
-<td>Аэроғарыш комитетінің</td>
-<td>Дін істері жөніндегі комитеттің</td>
+</tr>
+<tr>
+<td>Статистика жөніндегі комитетінің</td>
+<td>Табиғи монополияларды реттеу және бәсекелестікті қорғау жөніндегі комитетінің</td>
+<td>Құрылыс, тұрғын үй-коммуналдық шаруашылык істері комитетінің</td>
+<td>Тұтынушылар құқықтарын қорғау жөніндегі комитетінің</td>
 <td>Спорт және дене шынықтыру істері комитетінің</td>
 </tr>
 <tr>
+<td>30</td>
+<td>31</td>
+<td>32</td>
+<td>33</td>
 <td>34</td>
 <td>35</td>
 <td>36</td>
@@ -2659,11 +2764,94 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td>38</td>
 <td>39</td>
 <td>40</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Кестенің жалғасы:
+
+<table>
+<tr>
+<td colspan="9">соның ішінде 3-бағаннан</td>
+</tr>
+<tr>
+<td colspan="7">мемлекеттік органдардың қызметшілері</td>
+<td rowspan="3">Өзге мемлекеттік құрылымдардың қызметшілерімен</td>
+<td rowspan="3">өзге</td>
+</tr>
+<tr>
+<td colspan="3">40- бағаннан</td>
+<td rowspan="2">Мемлекеттік қызмет істері және сыбайлас жемқорлыққа қарсы іс-қимыл агенттігінің (11-баған көрсеткіштерін есепке алусыз)</td>
+<td rowspan="2">Ұлттық банкінің</td>
+<td rowspan="2">Республикалық бюджеттің атқарылуын бақылау жөніндегі есеп комитетінің</td>
+<td rowspan="2">Әкімдіктердің және олардың құрылымдық бөлімшелерінің қызметшілерімен</td>
+</tr>
+<tr>
+<td>Ақпараттық қауіпсіздік комитетінің</td>
+<td>Аэроғарыш комитетінің</td>
+<td>Мемлекеттік материалдық резервтер комитетінің</td>
+</tr>
+<tr>
 <td>41</td>
-<td colspan="2">42</td>
+<td>42</td>
 <td>43</td>
 <td>44</td>
 <td>45</td>
+<td>46</td>
+<td>47</td>
+<td>48</td>
+<td>49</td>
 </tr>
 <tr>
 <td></td>
@@ -2672,65 +2860,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2739,9 +2868,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 №3-К нысаны. Сыбайлас жемқорлық қылмыстар, оларды жасаған адамдар, сотталғандар, сыбайлас жемқорлық қылмыстар жөніндегі қылмыстық істердің қозғалысы және сыбайлас жемқорлық құқық бұзушылық субъектілері туралы есеп
 
-4- бөлім. Сотталғандар, ақталғандар, істерін сот тоқтатқан адамдар, медициналық сипаттағы мәжбүрлеу шаралары қолданылған адамдар және сыбайлас жемқорлық қылмыстар үшін жазалау шаралары туралы мәліметтер
-
-А- кестесі
+## 4- бөлім. Сотталғандар, ақталғандар, істерін сот тоқтатқан адамдар, медициналық сипаттағы мәжбүрлеу шаралары қолданылған адамдар және сыбайлас жемқорлық қылмыстар үшін жазалау шаралары туралы мәліметтер А- кестесі
 
 <table>
 <tr>
@@ -2755,11 +2882,11 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 </tr>
 <tr>
 <td rowspan="2">ішкі істер органдарының (3, 4 және 5-бағандардың көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">ІІМ Ұлттық гвардиясының</td>
-<td rowspan="2">КІІМ Қылмыстық-атқару жүйесі комитетінің</td>
+<td rowspan="2">Ішкі істер министрлігі Ұлттық гвардиясының (бұдан ары - ІІМ)</td>
+<td rowspan="2">ІІМ Қылмыстық-атқару жүйесі комитетінің</td>
 <td rowspan="2">ІІМ Төтенше жағдайлар жөніндегі комитетінің</td>
-<td rowspan="2">ұлттық қауіпсіздік органдарының (7-баған көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">ҰҚК Шекара қызметінің</td>
+<td rowspan="2">Ұлттық қауіпсіздік органдарының (7-баған көрсеткіштерін есепке алусыз)</td>
+<td rowspan="2">Ұлттық қауіпсіздік комитеті Шекара қызметінің</td>
 <td rowspan="2">Прокуратура органдарының</td>
 </tr>
 <tr>
@@ -2838,10 +2965,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td>
-Қаржылық (инвестициялық) пирамиданы құру және оған басшылық ету
-(ҚР ҚК 217-баб. 3-бөл. 3)-т.)
-</td>
+<td>Қаржылық (инвестициялық) пирамиданы құру және оған басшылық ету (ҚР ҚК 217-баб. 3-бөл. 3)-т.)</td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -3098,20 +3222,17 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 <table>
 <tr>
-<td colspan="9">соның ішінде 1-бағаннан</td>
+<td colspan="10">соның ішінде 1-бағаннан</td>
 </tr>
 <tr>
-<td colspan="6">қызметкерлер</td>
+<td colspan="7">соның ішінде 1-бағаннан</td>
 <td rowspan="3">судьялар</td>
 <td rowspan="3">әкімдер</td>
 <td rowspan="3">депутаттар</td>
 </tr>
 <tr>
-<td rowspan="2">
-Сыбайлас жемқорлыққа қарсы іс-қимыл
-Ұлттық бюросының
-</td>
-<td rowspan="2">ҚМ Мемлекеттік кіріс комитетінің</td>
+<td colspan="2" rowspan="2">Мемлекеттік қызмет істері және сыбайлас жемқорлыққа қарсы іс-қимыл агенттігінің Сыбайлас жемқорлыққа қарсы іс-қимыл ұлттық бюросы</td>
+<td rowspan="2">Қаржы министрлігі Мемлекеттік кіріс комитетінің</td>
 <td>10-бағаннан</td>
 <td rowspan="2">Қарулы күштері</td>
 <td rowspan="2">Мемлекеттік күзет қызметі</td>
@@ -3119,6 +3240,876 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 </tr>
 <tr>
 <td>Экономикалық тергеп-тексерулер қызметінің</td>
+</tr>
+<tr>
+<td colspan="2">9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+<td>16</td>
+<td>17</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="10">соның ішінде 1-бағаннан</td>
+</tr>
+<tr>
+<td colspan="10">мемлекеттік органдардың қызметшілері</td>
+</tr>
+<tr>
+<td rowspan="3">Әділет министрлігінің</td>
+<td rowspan="2">18- бағаннан</td>
+<td rowspan="3">Сыртқы істер министрлігінің</td>
+<td rowspan="3">Қаржы министрлігінің (10-бағанның көрсеткіштерін есепке алусыз)</td>
+<td rowspan="3">Ауыл шаруашылығы министрлігінің</td>
+<td rowspan="2">22- бағаннан</td>
+<td rowspan="3">Денсаулық сақтау министрлігінің</td>
+<td rowspan="3">Еңбек және халықты әлеуметтік қорғау министрлігінің</td>
+<td rowspan="3">Білім және ғылым министрлігінің</td>
+<td rowspan="3">Ұлттық экономика министрлігінің</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>Сот актілерін орындау жөніндегі департаментінің</td>
+<td>Жер ресурстарын басқару комитетінің</td>
+</tr>
+<tr>
+<td>18</td>
+<td>19</td>
+<td>20</td>
+<td>21</td>
+<td>22</td>
+<td>23</td>
+<td>24</td>
+<td>25</td>
+<td>26</td>
+<td>27</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Кестенің жалғасы:
+
+<table>
+<tr>
+<td colspan="11">соның ішінде 1-бағаннан</td>
+</tr>
+<tr>
+<td colspan="11">мемлекеттік органдардың қызметшілері</td>
+</tr>
+<tr>
+<td colspan="4">27-бағаннан</td>
+<td rowspan="2">Инвестициялар және даму министрлігінің</td>
+<td rowspan="2">Энергетика министрлігінің</td>
+<td rowspan="2">Мәдениет және спорт министрлігінің</td>
+<td>34- бағаннан</td>
+<td rowspan="2">Ақпарат және коммуникациялар министрлігінің</td>
+<td rowspan="2">Дін істері және азаматтық қоғам министрлігінің</td>
+<td rowspan="2">Қорғаныс және аэроғарыш өнеркәсібі министрлігінің</td>
+</tr>
+<tr>
+<td>Статистика жөніндегі комитетінің</td>
+<td>Табиғи монополияларды реттеу және бәсекелестікті қорғау жөніндегі комитетінің</td>
+<td>Құрылыс, тұрғын үй-коммуналдық шаруашылык істері комитетінің</td>
+<td>Тұтынушылар құқықтарын қорғау жөніндегі комитетінің</td>
+<td>Спорт және дене шынықтыру істері комитетінің</td>
+</tr>
+<tr>
+<td>28</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
+<td>32</td>
+<td>33</td>
+<td>34</td>
+<td>35</td>
+<td>36</td>
+<td>37</td>
+<td>38</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Кестенің жалғасы:
+
+<table>
+<tr>
+<td colspan="9">соның ішінде 1-бағаннан</td>
+</tr>
+<tr>
+<td colspan="7">мемлекеттік органдардың қызметшілері</td>
+<td rowspan="3">Өзге мемлекеттік құрылымдардың қызметшілерімен</td>
+<td rowspan="3">өзге</td>
+</tr>
+<tr>
+<td colspan="3">38- бағаннан</td>
+<td rowspan="2">Мемлекеттік қызмет істері және сыбайлас жемқорлыққа қарсы іс-қимыл агенттігінің (9-баған көрсеткіштерін есепке алусыз)</td>
+<td rowspan="2">Ұлттық банкінің</td>
+<td rowspan="2">Республикалық бюджеттің атқарылуын бақылау жөніндегі есеп комитетінің</td>
+<td rowspan="2">Әкімдіктердің және олардың құрылымдық бөлімшелерінің қызметшілерімен</td>
+</tr>
+<tr>
+<td>Ақпараттық қауіпсіздік комитетінің</td>
+<td>Аэроғарыш комитетінің</td>
+<td>Мемлекеттік материалдық резервтер комитетінің</td>
+</tr>
+<tr>
+<td>39</td>
+<td>40</td>
+<td>41</td>
+<td>42</td>
+<td>43</td>
+<td>44</td>
+<td>45</td>
+<td>46</td>
+<td>47</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+№3-К нысаны. Сыбайлас жемқорлық қылмыстар, оларды жасаған адамдар, сотталғандар, сыбайлас жемқорлық қылмыстар жөніндегі қылмыстық істердің қозғалысы және сыбайлас жемқорлық құқық бұзушылық субъектілері туралы есеп
+
+## 4- бөлім . Сотталғандар, ақталғандар, істерін сот тоқтатқан адамдар, медициналық сипаттағы мәжбүрлеу шаралары қолданылған адамдар және сыбайлас жемқорлық қылмыстар үшін жазалау шаралары туралы мәліметтер Б- кестесі
+
+<table>
+<tr>
+<td colspan="2" rowspan="3">Атауы</td>
+<td rowspan="3"></td>
+<td rowspan="3">Қылмыстық істерін сот тоқтатқан адамдар саны</td>
+<td rowspan="3">с.і. ҚР ҚПК 35-бабы 1-бөлімінің 1), 2), 5), 6), 7), 8)-тармақтары бойынша</td>
+<td rowspan="3">Медициналық сипаттағы мәжбүрлеу шаралары қолданылған адамдар саны</td>
+<td rowspan="3">Ақталғандар саны</td>
+<td colspan="5">Негізгі жазалау шаралары</td>
+</tr>
+<tr>
+<td colspan="5">Бас бостандығынан айыру</td>
+</tr>
+<tr>
+<td>1 жылға дейін қоса алғанда</td>
+<td>1 жылдан артық және 3 жылға дейін қоса алғанда</td>
+<td colspan="2">3 жылдан артық және 5 жылға дейін қоса алғанда</td>
+<td colspan="2">5 жылдан артық және 8 жылға дейін қоса алғанда</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td colspan="2">7</td>
+<td colspan="2">8</td>
+</tr>
+<tr>
+<td colspan="2">Барлығы</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td rowspan="21">1-жолдан</td>
+<td>Сеніп тапсырылған бөтен мүлікті иемденіп алу немесе талан-таражға салу (ҚР ҚК 189-баб. 3-бөл. 2)-т.)</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Алаяқтық (ҚР ҚК 190-баб. 3-бөл. 2)-т.)</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Жалған кәсіпкерлік (ҚР ҚК 215-баб. 2-бөл. 3)-т.)</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Іс жүзінде жұмыстар орындалмай, қызметтер көрсетілмей, тауарлар тиеп-жөнелтілмей шот-фактура жазу бойынша әрекеттер жасау (ҚР ҚК 216-баб. 2-бөл. 4)-т.)</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Қаржылық (инвестициялық) пирамиданы құру және оған басшылық ету (ҚР ҚК 217-баб. 3-бөл. 3)-т.)</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Қылмыстық жолмен алынған ақшаны және (немесе) өзге мүлікті заңдастыру (жылыстату) (ҚР ҚК 218-баб. 3-бөл. 1)-т.)</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Экономикалық контрабанда (ҚР ҚК 234-баб. 3-бөл. 1)-т.)</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Рейдерлік (ҚР ҚК 249-баб. 3-бөл. 2)-т.)</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Заңсыз ойын бизнесін ұйымдастыру (ҚР ҚК 307-баб. 3-бөл. 3)-т.)</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Лауазымдық өкілеттіктерді теріс пайдалану (ҚР ҚК 361-баб.)</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Билікті немесе лауазымдық өкілеттіктерді асыра пайдалану (ҚР ҚК 362-баб. 4-бөл. 3)-т.)</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Кәсіпкерлік қызметке заңсыз қатысу (ҚР ҚК 364-баб.)</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Заңды кәсіпкерлік қызметке кедергі жасау (ҚР ҚК 365-баб.)</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Пара алу (ҚР ҚК 366-баб.)</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Пара беру (ҚР ҚК 367-баб.)</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Парақорлыққа делдал болу (ҚР ҚК 368-баб.)</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Қызметтік жалғандық жасау (ҚР ҚК 369-баб.)</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Қызметтегі әрекетсіздік (ҚР ҚК 370-баб.)</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Билікті теріс пайдалану (ҚР ҚК 450-баб.)</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Билікті асыра пайдалану (ҚР ҚК 451-баб. 2-бөл. 2)-т.)</td>
+<td>21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Биліктің әрекетсіздігі (ҚР ҚК 452-баб.)</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+Кестенің жалғасы:
+
+<table>
+<tr>
+<td colspan="9">Негізгі жазалау шаралары</td>
+</tr>
+<tr>
+<td colspan="8">Бас бостандығынан айыру</td>
+<td rowspan="2">Бостандығын шектеу</td>
+</tr>
+<tr>
+<td>8 жылдан артық және 10 жылға дейін қоса алғанда</td>
+<td>10 жылдан артық және 12 жылға дейін қоса алғанда</td>
+<td>12 жылдан артық және 15 жылға дейін қоса алғанда</td>
+<td>15 жылдан артық және 20 жылға дейін қоса алғанда</td>
+<td>20 жылдан артық және 25 жылға дейін қоса алғанда</td>
+<td>25 жылдан артық және 30 жылға дейін қоса алғанда</td>
+<td>өмір бойына бас бостандығынан айыру</td>
+<td>Барлығы (5-15-бағандардың сомасы)</td>
 </tr>
 <tr>
 <td>9</td>
@@ -3373,186 +4364,34 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="15">соның ішінде 1-бағаннан</td>
-</tr>
-<tr>
-<td colspan="15">мемлекеттік органдардың қызметшілері</td>
-</tr>
-<tr>
-<td rowspan="2">Әділет министрлігінің</td>
-<td>18- бағаннан</td>
-<td rowspan="2">Сы ртқы істер министрлігі</td>
-<td rowspan="2">Қаржы министрлігі (10-бағанның көрсеткіштерін есепке алусыз)</td>
-<td colspan="2" rowspan="2">Ау ыл шаруашылығы министрлігі</td>
-<td>22- бағаннан</td>
-<td rowspan="2">Денсаулық сақтау және әлеуметтік даму министрлігінің</td>
-<td rowspan="2">Бі лім жә не ғылым министрлігінің</td>
-<td rowspan="2">Ұлттық экономика министрлігінің</td>
-<td colspan="4">26-бағаннан</td>
-<td rowspan="2">Инвестициялар және даму министрлігінің</td>
-</tr>
-<tr>
-<td>ӘМ сот актілерін орындау жөніндегі департаментінің</td>
-<td>Жер ресурстарын басқару комитеті</td>
-<td>Статистика жөніндегі комитеттің</td>
-<td>Та би ғи мо но по лияларды реттеу жә не бәсекелесті кті қорғау жөніндегі комитеттің</td>
-<td>Құрылыс, тұрғын үй-коммуналдық шаруашылык істері</td>
-<td>Тұ ты ну шылар құ қықтарын қорғау жөніндегі комитеттің</td>
-</tr>
-<tr>
-<td>18</td>
-<td>19</td>
-<td>20</td>
-<td>21</td>
-<td colspan="2">22</td>
-<td>23</td>
-<td>24</td>
-<td>25</td>
-<td>26</td>
-<td>27</td>
-<td>28</td>
-<td>29</td>
-<td>30</td>
-<td>31</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
 
 Кестенің жалғасы:
 
 <table>
 <tr>
-<td colspan="15">соның ішінде 1-бағаннан</td>
+<td colspan="5">Негізгі жазалау шаралары</td>
+<td colspan="3">Қосымша жазалау шаралары</td>
 </tr>
 <tr>
-<td colspan="11">мемлекеттік органдардың қызметшілері</td>
-<td rowspan="3">Өзге мемлекеттік құрылымдардың қызметшілерімен</td>
-<td rowspan="3">өзге</td>
+<td>Түзету жұмыстары</td>
+<td>Айыппұл</td>
+<td>Шартты соттау</td>
+<td>Жазаны өтеу мерзімін шегеру</td>
+<td>Үкім бойынша қылмыстық жауаптылықтан және жазадан босатылған адамдар саны</td>
+<td>Белгілі бір лауазымды иелену немесе белгілі бір қызметпен айналысу құқығынан айыру</td>
+<td>Арнайы, әскери немесе құрметті атағынан, сыныптық мәртебесінен, дипломатиялық дәрежесінен, біліктілік сыныбынан және мемлекеттік наградалардан айыру</td>
+<td>Мүлікті тәркілеу</td>
 </tr>
 <tr>
-<td>31- бағаннан</td>
-<td rowspan="2">Энергетика министрлігі</td>
-<td rowspan="2">Мәдениет және спорт министрлігінің</td>
-<td colspan="2">34- бағаннан</td>
-<td rowspan="2">Мемлекеттік қызмет істері министрлігі (9-баған көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">Ақпарат және коммуникациялар министрлігі</td>
-<td rowspan="2">Ұлттық банкінің</td>
-<td colspan="2" rowspan="2">Республикалық бюджеттің атқарылуын бақылау жөніндегі есеп комитетінің</td>
-<td rowspan="2">Әкімдіктердің және олардың құрылымдық бөлімшелерінің қызметшілерімен</td>
-</tr>
-<tr>
-<td>Аэроғарыш комитетінің</td>
-<td>Дін істері жөніндегі комитеттің</td>
-<td>Спорт және дене шынықтыру істері комитетінің</td>
-</tr>
-<tr>
-<td>32</td>
-<td>33</td>
-<td>34</td>
-<td>35</td>
-<td>36</td>
-<td>37</td>
-<td>38</td>
-<td>39</td>
-<td colspan="2">40</td>
-<td>41</td>
-<td>42</td>
-<td>43</td>
+<td>18</td>
+<td>19</td>
+<td>20</td>
+<td>21</td>
+<td>22</td>
+<td>23</td>
+<td>24</td>
+<td>25</td>
 </tr>
 <tr>
 <td></td>
@@ -3560,10 +4399,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3577,7 +4412,13 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3591,7 +4432,183 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3600,27 +4617,26 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 №3-К нысаны. Сыбайлас жемқорлық қылмыстар, оларды жасаған адамдар, сотталғандар, сыбайлас жемқорлық қылмыстар жөніндегі қылмыстық істердің қозғалысы және сыбайлас жемқорлық құқық бұзушылық субъектілері туралы есеп
 
-4- бөлім. Сотталғандар, ақталғандар, істерін сот тоқтатқан адамдар туралы, медициналық сипаттағы мәжбүрлеу шаралары қолданылған адамдар және сыбайлас жемқорлық қылмыстар үшін жазалау шаралары туралы мәліметтер
-
-В-кестесі
+## 4- бөлім. Сотталғандар, ақталғандар, істерін сот тоқтатқан адамдар туралы, медициналық сипаттағы мәжбүрлеу шаралары қолданылған адамдар және сыбайлас жемқорлық қылмыстар үшін жазалау шаралары туралы мәліметтер В-кестесі
 
 <table>
 <tr>
 <td colspan="2" rowspan="4">Атауы</td>
 <td rowspan="4"></td>
 <td rowspan="4">Барлығы</td>
-<td colspan="6">соның ішінде 1-бағаннан</td>
+<td colspan="7">соның ішінде 1-бағаннан</td>
 </tr>
 <tr>
-<td colspan="6">қызметкерлері</td>
+<td colspan="7">қызметкерлері</td>
 </tr>
 <tr>
 <td rowspan="2">ішкі істер органдарының (3, 4 және 5-бағандардың көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">ІІМ Ұлттық гвардиясының</td>
+<td rowspan="2">Ішкі істер министрлігі Ұлттық гвардиясының (бұдан ары - ІІМ)</td>
 <td rowspan="2">ІІМ Қылмыстық-атқару жүйесі комитетінің</td>
 <td rowspan="2">ІІМ Төтенше жағдайлар жөніндегі комитеттің</td>
 <td rowspan="2">ұлттық қауіпсіздік органдарының (7-баған көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">ҰҚК Шекара қызметінің</td>
+<td rowspan="2">Ұлттық қауіпсіздік комитеті Шекара қызметінің</td>
+<td rowspan="2">Прокуратура органдарының</td>
 </tr>
 <tr>
 </tr>
@@ -3634,10 +4650,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td>5</td>
 <td>6</td>
 <td>7</td>
+<td>8</td>
 </tr>
 <tr>
 <td colspan="2">Өз қызметкерлері арасында мемлекеттік органның бастамасы бойынша сыбайлас жемқорлық қылмыстар үшін сотталған жалпы адамдар саны</td>
 <td>1</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3657,10 +4675,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Алаяқтық (ҚР ҚК 190-баб. 3-бөл. 2)-т.)</td>
 <td>3</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3679,6 +4699,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Іс жүзінде жұмыстар орындалмай, қызметтер көрсетілмей, тауарлар тиеп-жөнелтілмей шот-фактура жазу бойынша әрекеттер жасау (ҚР ҚК 216-баб. 2-бөл. 4)-т.)</td>
@@ -3690,13 +4711,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>
-Қаржылық (инвестициялық) пирамиданы құру және оған басшылық ету
-(ҚР ҚК 217-баб. 3-бөл. 3)-т.)
-</td>
+<td>Қаржылық (инвестициялық) пирамиданы құру және оған басшылық ету (ҚР ҚК 217-баб. 3-бөл. 3)-т.)</td>
 <td>6</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3715,10 +4735,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Экономикалық контрабанда (ҚР ҚК 234-баб. 3-бөл. 1)-т.)</td>
 <td>8</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3737,10 +4759,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Заңсыз ойын бизнесін ұйымдастыру (ҚР ҚК 307-баб. 3-бөл. 3)-т.)</td>
 <td>10</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3759,10 +4783,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Билікті немесе лауазымдық өкілеттіктерді асыра пайдалану (ҚР ҚК 362-баб. 4-бөл. 3)-т.)</td>
 <td>12</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3781,10 +4807,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Заңды кәсіпкерлік қызметке кедергі жасау (ҚР ҚК 365-баб.)</td>
 <td>14</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3803,10 +4831,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Пара беру (ҚР ҚК 367-баб.)</td>
 <td>16</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3825,10 +4855,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Қызметтік жалғандық жасау (ҚР ҚК 369-баб.)</td>
 <td>18</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3847,10 +4879,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Билікті теріс пайдалану (ҚР ҚК 450-баб.)</td>
 <td>20</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3869,10 +4903,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Биліктің әрекетсіздігі (ҚР ҚК 452-баб.)</td>
 <td>22</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3891,10 +4927,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2">Қылмыстық істерін сот тоқтатқан адамдар саны</td>
 <td>24</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3913,10 +4951,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2">Медициналық сипаттағы мәжбүрлеу шаралары қолданылған адамдар саны</td>
 <td>26</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3940,12 +4980,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td rowspan="3">депутаттар</td>
 </tr>
 <tr>
-<td rowspan="2">Прокуратура органдарының</td>
-<td rowspan="2">
-Сыбайлас жемқорлыққа қарсы іс-қимыл
-Ұлттық бюросының
-</td>
-<td rowspan="2">ҚМ Мемлекеттік кіріс комитетінің</td>
+<td colspan="2" rowspan="2">Мемлекеттік қызмет істері және сыбайлас жемқорлыққа қарсы іс-қимыл агенттігінің Сыбайлас жемқорлыққа қарсы іс-қимыл ұлттық бюросы</td>
+<td rowspan="2">Қаржы министрлігінің Мемлекеттік кіріс комитетінің</td>
 <td>10-бағаннан</td>
 <td rowspan="2">Қарулы күштері</td>
 <td rowspan="2">Мемлекеттік күзет қызметі</td>
@@ -3955,8 +4991,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td>Экономикалық тергеп-тексерулер қызметінің</td>
 </tr>
 <tr>
-<td>8</td>
-<td>9</td>
+<td colspan="2">9</td>
 <td>10</td>
 <td>11</td>
 <td>12</td>
@@ -3967,20 +5002,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td>17</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3991,20 +5013,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4015,20 +5024,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4039,20 +5035,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4063,20 +5046,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4087,20 +5057,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4111,20 +5068,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4135,20 +5079,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4159,20 +5090,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4183,20 +5101,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4207,20 +5112,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4231,20 +5123,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4255,8 +5134,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4267,8 +5145,139 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4280,57 +5289,59 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 </tr>
 </table>
 
-Кестенің жалғасы:
-
 <table>
 <tr>
-<td colspan="15">соның ішінде 1-бағаннан</td>
+<td colspan="10">соның ішінде 1-бағаннан</td>
 </tr>
 <tr>
-<td colspan="15">мемлекеттік органдардың қызметшілері</td>
+<td colspan="10">мемлекеттік органдардың қызметшілері</td>
 </tr>
 <tr>
-<td rowspan="2">Әділет министрлігінің</td>
-<td>18- бағаннан</td>
-<td rowspan="2">Сыртқы істер министрлігі</td>
-<td rowspan="2">Қаржы министрлігі (10-бағанның көрсеткіштерін есепке алусыз)</td>
-<td colspan="2" rowspan="2">Ауыл шаруашылығы министрлігі</td>
-<td colspan="2">22- бағаннан</td>
-<td rowspan="2">Денсаулық сақтау және әлеуметтік даму министрлігінің</td>
-<td rowspan="2">Білім және ғылым министрлігінің</td>
-<td rowspan="2">Ұлттық экономика министрлігінің</td>
-<td colspan="4">26-бағаннан</td>
+<td rowspan="3">Әділет министрлігінің</td>
+<td rowspan="2">18- бағаннан</td>
+<td rowspan="3">Сыртқы істер министрлігінің</td>
+<td rowspan="3">Қаржы министрлігінің (10-бағанның көрсеткіштерін есепке алусыз)</td>
+<td rowspan="3">Ауыл шаруашылығы министрлігінің</td>
+<td rowspan="2">22- бағаннан</td>
+<td rowspan="3">Денсаулық сақтау министрлігінің</td>
+<td rowspan="3">Еңбек және халықты әлеуметтік қорғау министрлігінің</td>
+<td rowspan="3">Білім және ғылым министрлігінің</td>
+<td rowspan="3">Ұлттық экономика министрлігінің</td>
 </tr>
 <tr>
-<td>ӘМ сот актілерін орындау жөніндегі департаментінің</td>
-<td colspan="2">Жер ресурстарын басқару комитеті</td>
-<td>Статистика жөніндегі комитеттің</td>
-<td>Табиғи монополияларды реттеу және бәсекелестікті қорғау жөніндегі комитеттің</td>
-<td>Құрылыс, тұрғын үй-коммуналдық шаруашылык істері</td>
-<td>Тұтынушылар құқықтарын қорғау жөніндегі комитеттің</td>
+</tr>
+<tr>
+<td>Сот актілерін орындау жөніндегі департаментінің</td>
+<td>Жер ресурстарын басқару комитетінің</td>
 </tr>
 <tr>
 <td>18</td>
 <td>19</td>
 <td>20</td>
 <td>21</td>
-<td colspan="2">22</td>
-<td colspan="2">23</td>
+<td>22</td>
+<td>23</td>
 <td>24</td>
 <td>25</td>
 <td>26</td>
 <td>27</td>
-<td>28</td>
-<td>29</td>
-<td>30</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4344,8 +5355,17 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4360,31 +5380,32 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 <table>
 <tr>
-<td colspan="15">соның ішінде 1-бағаннан</td>
+<td colspan="11">соның ішінде 1-бағаннан</td>
 </tr>
 <tr>
-<td colspan="12">мемлекеттік органдардың қызметшілері</td>
-<td rowspan="3">Өзге мемлекеттік құрылымдардың қызметшілерімен</td>
-<td rowspan="3">өзге</td>
+<td colspan="11">мемлекеттік органдардың қызметшілері</td>
 </tr>
 <tr>
+<td colspan="4">27-бағаннан</td>
 <td rowspan="2">Инвестициялар және даму министрлігінің</td>
-<td>31- бағаннан</td>
-<td rowspan="2">Энергетика министрлігі</td>
+<td rowspan="2">Энергетика министрлігінің</td>
 <td rowspan="2">Мәдениет және спорт министрлігінің</td>
-<td colspan="2">34- бағаннан</td>
-<td rowspan="2">Мемлекеттік қызмет істері министрлігі (9-баған көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">Ақпарат және коммуникациялар министрлігі</td>
-<td colspan="2" rowspan="2">Ұлттық банкінің</td>
-<td rowspan="2">Республикалық бюджеттің атқарылуын бақылау жөніндегі есеп комитетінің</td>
-<td rowspan="2">Әкімдіктердің және олардың құрылымдық бөлімшелерінің қызметшілерімен</td>
+<td>34- бағаннан</td>
+<td rowspan="2">Ақпарат және коммуникациялар министрлігінің</td>
+<td rowspan="2">Дін істері және азаматтық қоғам министрлігінің</td>
+<td rowspan="2">Қорғаныс және аэроғарыш өнеркәсібі министрлігінің</td>
 </tr>
 <tr>
-<td>Аэроғарыш комитетінің</td>
-<td>Дін істері жөніндегі комитеттің</td>
+<td>Статистика жөніндегі комитетінің</td>
+<td>Табиғи монополияларды реттеу және бәсекелестікті қорғау жөніндегі комитетінің</td>
+<td>Құрылыс, тұрғын үй-коммуналдық шаруашылык істері комитетінің</td>
+<td>Тұтынушылар құқықтарын қорғау жөніндегі комитетінің</td>
 <td>Спорт және дене шынықтыру істері комитетінің</td>
 </tr>
 <tr>
+<td>28</td>
+<td>29</td>
+<td>30</td>
 <td>31</td>
 <td>32</td>
 <td>33</td>
@@ -4393,11 +5414,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td>36</td>
 <td>37</td>
 <td>38</td>
-<td colspan="2">39</td>
-<td>40</td>
-<td>41</td>
-<td>42</td>
-<td>43</td>
 </tr>
 <tr>
 <td></td>
@@ -4408,8 +5424,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4423,7 +5437,18 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4431,11 +5456,45 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 </tr>
 </table>
 
+Кестенің жалғасы:
+
+<table>
+<tr>
+<td colspan="9">соның ішінде 1-бағаннан</td>
+</tr>
+<tr>
+<td colspan="7">мемлекеттік органдардың қызметшілері</td>
+<td rowspan="3">Өзге мемлекеттік құрылымдардың қызметшілерімен</td>
+<td rowspan="3">өзге</td>
+</tr>
+<tr>
+<td colspan="3">38- бағаннан</td>
+<td rowspan="2">Мемлекеттік қызмет істері және сыбайлас жемқорлыққа қарсы іс-қимыл агенттігінің (9-баған көрсеткіштерін есепке алусыз)</td>
+<td rowspan="2">Ұлттық банкінің</td>
+<td rowspan="2">Республикалық бюджеттің атқарылуын бақылау жөніндегі есеп комитетінің</td>
+<td rowspan="2">Әкімдіктердің және олардың құрылымдық бөлімшелерінің қызметшілерімен</td>
+</tr>
+<tr>
+<td>Ақпараттық қауіпсіздік комитетінің</td>
+<td>Аэроғарыш комитетінің</td>
+<td>Мемлекеттік материалдық резервтер комитетінің</td>
+</tr>
+<tr>
+<td>39</td>
+<td>40</td>
+<td>41</td>
+<td>42</td>
+<td>43</td>
+<td>44</td>
+<td>45</td>
+<td>46</td>
+<td>47</td>
+</tr>
+</table>
+
 №3-К нысаны. Сыбайлас жемқорлық қылмыстар, оларды жасаған адамдар, сотталғандар, сыбайлас жемқорлық қылмыстар жөніндегі қылмыстық істердің қозғалысы және сыбайлас жемқорлық құқық бұзушылық субъектілері туралы есеп
 
-5- бөлім (қалыптастыру мерзімі) күніне жағдайы бойынша әкімшілік жауаптылыққа тартылған сыбайлас жемқорлық құқық бұзушылықтар субъектілері туралы мәліметтер
-
-А-кестесі (2015 жылдан бастап үдемелі кезеңмен)
+## 5- бөлім. (қалыптастыру мерзімі) күніне жағдайы бойынша әкімшілік жауаптылыққа тартылған сыбайлас жемқорлық құқық бұзушылықтар субъектілері туралы мәліметтер А-кестесі (2015 жылдан бастап үдемелі кезеңмен)
 
 <table>
 <tr>
@@ -4449,11 +5508,11 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 </tr>
 <tr>
 <td rowspan="2">ішкі істер органдарының (3, 4 және 5-бағандардың көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">ІІМ Ұлттық гвардиясының</td>
-<td rowspan="2">КІІМ Қылмыстық-атқару жүйесі комитетінің</td>
+<td rowspan="2">Ішкі істер министрлігі Ұлттық гвардиясының (бұдан ары - ІІМ)</td>
+<td rowspan="2">ІІМ Қылмыстық-атқару жүйесі комитетінің</td>
 <td rowspan="2">ІІМ Төтенше жағдайлар жөніндегі комитетінің</td>
 <td rowspan="2">ұлттық қауіпсіздік органдарының (7-баған көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">ҰҚК Шекара қызметінің</td>
+<td rowspan="2">Ұлттық қауіпсіздік комитеті Шекара қызметінің</td>
 <td rowspan="2">Прокуратура органдарының</td>
 </tr>
 <tr>
@@ -4716,12 +5775,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td rowspan="3">депутаттар</td>
 </tr>
 <tr>
-<td rowspan="2">
-Сыбайлас жемқорлыққа қарсы іс-қимыл
-Ұлттық бюросының
-</td>
-<td rowspan="2">ҚМ Мемлекеттік кіріс комитетінің</td>
-<td>10-бағаннан</td>
+<td rowspan="2">Мемлекеттік қызмет істері және сыбайлас жемқорлыққа қарсы іс-қимыл агенттігінің Сыбайлас жемқорлыққа қарсы іс-қимыл ұлттық бюросы</td>
+<td rowspan="2">Қаржы министрлігі Мемлекеттік кіріс комитетінің</td>
+<td>10-баған нан</td>
 <td rowspan="2">Қарулы күштері</td>
 <td rowspan="2">Мемлекеттік күзет қызметі</td>
 <td rowspan="2">&quot;Сырбар&quot; сыртқы барлау қызметі</td>
@@ -4953,68 +6009,45 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 <table>
 <tr>
-<td colspan="15">соның ішінде 1-бағаннан:</td>
+<td colspan="10">соның ішінде 1-бағаннан</td>
 </tr>
 <tr>
-<td colspan="15">мемлекеттік органдардың қызметшілері</td>
+<td colspan="10">мемлекеттік органдардың қызметшілері</td>
 </tr>
 <tr>
-<td rowspan="2">Әділет министрлігінің</td>
-<td>18- бағаннан</td>
-<td rowspan="2">Сыртқы істер министрлігі</td>
-<td rowspan="2">Қаржы министрлігі (10-бағанның көрсеткіштерін есепке алусыз)</td>
-<td colspan="2" rowspan="2">Ауыл шаруашылығы министрлігі</td>
-<td colspan="2">22- бағаннан</td>
-<td rowspan="2">Денсаулық сақтау және әлеуметтік даму министрлігінің</td>
-<td rowspan="2">Білім және ғылым министрлігінің</td>
-<td rowspan="2">Ұлттық экономика министрлігінің</td>
-<td colspan="4">26-бағаннан</td>
+<td rowspan="3">Әділет министрлігінің</td>
+<td rowspan="2">18- баған нан</td>
+<td rowspan="3">Сыртқы істер министрлігінің</td>
+<td rowspan="3">Қаржы министрлігінің (10-бағанның көрсеткіштерін есепке алусыз)</td>
+<td rowspan="3">Ауыл шаруашылығы министрлігінің</td>
+<td rowspan="2">22- бағаннан</td>
+<td rowspan="3">Денсаулық сақтау министрлігінің</td>
+<td rowspan="3">Еңбек және халықты әлеуметтік қорғау министрлігінің</td>
+<td rowspan="3">Білім және ғылым министрлігінің</td>
+<td rowspan="3">Ұлттық экономика министрлігінің</td>
 </tr>
 <tr>
-<td>ӘМ сот актілерін орындау жөніндегі департаментінің</td>
-<td colspan="2">Жер ресурстарын басқару комитеті</td>
-<td>Статистика жөніндегі комитеттің</td>
-<td>Табиғи монополияларды реттеу және бәсекелестікті қорғау жөніндегі комитеттің</td>
-<td>Құрылыс, тұрғын үй-коммуналдық шаруашылык істері</td>
-<td>Тұтынушылар құқықтарын қорғау жөніндегі комитеттің</td>
+</tr>
+<tr>
+<td>Сот актілерін орындау жөніндегі департаментінің</td>
+<td>Жер ресурстарын басқару комитетінің</td>
 </tr>
 <tr>
 <td>18</td>
 <td>19</td>
 <td>20</td>
 <td>21</td>
-<td colspan="2">22</td>
-<td colspan="2">23</td>
+<td>22</td>
+<td>23</td>
 <td>24</td>
 <td>25</td>
 <td>26</td>
 <td>27</td>
-<td>28</td>
-<td>29</td>
-<td>30</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5028,9 +6061,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5043,8 +6073,17 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5059,31 +6098,32 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 <table>
 <tr>
-<td colspan="15">соның ішінде 1-бағаннан:</td>
+<td colspan="11">соның ішінде 1-бағаннан</td>
 </tr>
 <tr>
-<td colspan="12">мемлекеттік органдардың қызметшілері</td>
-<td rowspan="3">Өзге мемлекеттік құрылымдардың қызметшілерімен</td>
-<td rowspan="3">өзге</td>
+<td colspan="11">мемлекеттік органдардың қызметшілері</td>
 </tr>
 <tr>
+<td colspan="4">27-бағаннан</td>
 <td rowspan="2">Инвестициялар және даму министрлігінің</td>
-<td>31- бағаннан</td>
-<td rowspan="2">Энергетика министрлігі</td>
+<td rowspan="2">Энергетика министрлігінің</td>
 <td rowspan="2">Мәдениет және спорт министрлігінің</td>
-<td colspan="2">34- бағаннан</td>
-<td rowspan="2">Мемлекеттік қызмет істері министрлігі (9-баған көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">Ақпарат және коммуникациялар министрлігі</td>
-<td colspan="2" rowspan="2">Ұлттық банкінің</td>
-<td rowspan="2">Республикалық бюджеттің атқарылуын бақылау жөніндегі есеп комитетінің</td>
-<td rowspan="2">Әкімдіктердің және олардың құрылымдық бөлімшелерінің қызметшілерімен</td>
+<td>34- бағаннан</td>
+<td rowspan="2">Ақпарат және коммуникациялар министрлігінің</td>
+<td rowspan="2">Дін істері және азаматтық қоғам министрлігінің</td>
+<td rowspan="2">Қорғаныс және аэроғарыш өнеркәсібі министрлігінің</td>
 </tr>
 <tr>
-<td>Аэроғарыш комитетінің</td>
-<td>Дін істері жөніндегі комитеттің</td>
+<td>Статистика жөніндегі комитетінің</td>
+<td>Табиғи монополияларды реттеу және бәсекелестікті қорғау жөніндегі комитетінің</td>
+<td>Құрылыс, тұрғын үй-коммуналдық шаруашылык істері комитетінің</td>
+<td>Тұтынушылар құқықтарын қорғау жөніндегі комитетінің</td>
 <td>Спорт және дене шынықтыру істері комитетінің</td>
 </tr>
 <tr>
+<td>28</td>
+<td>29</td>
+<td>30</td>
 <td>31</td>
 <td>32</td>
 <td>33</td>
@@ -5092,11 +6132,94 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td>36</td>
 <td>37</td>
 <td>38</td>
-<td colspan="2">39</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Кестенің жалғасы:
+
+<table>
+<tr>
+<td colspan="9">соның ішінде 1-бағаннан</td>
+</tr>
+<tr>
+<td colspan="7">мемлекеттік органдардың қызметшілері</td>
+<td rowspan="3">Өзге мемлекеттік құрылымдардың қызметшілерімен</td>
+<td rowspan="3">өзге</td>
+</tr>
+<tr>
+<td colspan="3">38- бағаннан</td>
+<td rowspan="2">Мемлекеттік қызмет істері және сыбайлас жемқорлыққа қарсы іс-қимыл агенттігінің (9-баған көрсеткіштерін есепке алусыз)</td>
+<td rowspan="2">Ұлттық банкінің</td>
+<td rowspan="2">Республикалық бюджеттің атқарылуын бақылау жөніндегі есеп комитетінің</td>
+<td rowspan="2">Әкімдіктердің және олардың құрылымдық бөлімшелерінің қызметшілерімен</td>
+</tr>
+<tr>
+<td>Ақпараттық қауіпсіздік комитетінің</td>
+<td>Аэроғарыш комитетінің</td>
+<td>Мемлекеттік материалдық резервтер комитетінің</td>
+</tr>
+<tr>
+<td>39</td>
 <td>40</td>
 <td>41</td>
 <td>42</td>
 <td>43</td>
+<td>44</td>
+<td>45</td>
+<td>46</td>
+<td>47</td>
 </tr>
 <tr>
 <td></td>
@@ -5104,25 +6227,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5137,10 +6241,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -5152,7 +6252,14 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5162,26 +6269,25 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 №3-К нысаны. Сыбайлас жемқорлық қылмыстар, оларды жасаған адамдар, сотталғандар, сыбайлас жемқорлық қылмыстар жөніндегі қылмыстық істердің қозғалысы және сыбайлас жемқорлық құқық бұзушылық субъектілері туралы есеп
 
-5- бөлім. (қалыптастыру мерзімі) күніне жағдайы бойынша әкімшілік жауаптылыққа тартылған сыбайлас жемқорлық құқық бұзушылықтар субъектілері туралы мәліметтер
-
-Б-кестесі (есептік кезеңнің көрсеткіштері)
+## 5- бөлім. (қалыптастыру мерзімі) күніне жағдайы бойынша әкімшілік жауаптылыққа тартылған сыбайлас жемқорлық құқық бұзушылықтар субъектілері туралы мәліметтер Б-кестесі (есептік кезеңнің көрсеткіштері)
 
 <table>
 <tr>
 <td rowspan="4">Аймақ</td>
 <td rowspan="4">Барлығы</td>
-<td colspan="6">соның ішінде 1-бағаннан:</td>
+<td colspan="7">соның ішінде 1-бағаннан</td>
 </tr>
 <tr>
-<td colspan="6">қызметкерлер</td>
+<td colspan="7">қызметкерлер</td>
 </tr>
 <tr>
 <td rowspan="2">ішкі істер органдарының (3, 4 және 5-бағандардың көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">ІІМ Ұлттық гвардиясының</td>
-<td rowspan="2">КІІМ Қылмыстық-атқару жүйесі комитетінің</td>
+<td rowspan="2">Ішкі істер министрлігі Ұлттық гвардиясының (бұдан ары - ІІМ)</td>
+<td rowspan="2">ІІМ Қылмыстық-атқару жүйесі комитетінің</td>
 <td rowspan="2">ІІМ Төтенше жағдайлар жөніндегі комитетінің</td>
-<td rowspan="2">ұлттық қауіпсіздік органдарының (7-баған көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">ҰҚК Шекара қызметінің</td>
+<td rowspan="2">Ұлттық қауіпсіздік органдарының (7-баған көрсеткіштерін есепке алусыз)</td>
+<td rowspan="2">Ұлттық қауіпсіздік комитеті Шекара қызметінің</td>
+<td rowspan="2">Прокуратура органдарының</td>
 </tr>
 <tr>
 </tr>
@@ -5194,10 +6300,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td>5</td>
 <td>6</td>
 <td>7</td>
+<td>8</td>
 </tr>
 <tr>
 <td>Астана қаласы</td>
 <td>1</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5214,10 +6322,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Ақтөбе облысы</td>
 <td>3</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5234,10 +6344,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Алматы облысы</td>
 <td>5</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5254,6 +6366,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Шығыс Қазақстан облысы</td>
@@ -5264,10 +6377,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Жамбыл облысы</td>
 <td>8</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5287,10 +6402,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Қарағанды облысы</td>
 <td>10</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5307,10 +6424,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Қостанай облысы</td>
 <td>12</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5327,10 +6446,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Павлодар облысы</td>
 <td>14</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5347,10 +6468,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Оңтүстік Қазақстан облысы</td>
 <td>16</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5367,10 +6490,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Әскери басқарма</td>
 <td>18</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5390,6 +6515,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 </table>
 
@@ -5397,21 +6523,17 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 <table>
 <tr>
-<td colspan="10">соның ішінде 1-бағаннан:</td>
+<td colspan="9">соның ішінде 1-бағаннан</td>
 </tr>
 <tr>
-<td colspan="7">қызметкерлер</td>
+<td colspan="6">қызметкерлер</td>
 <td rowspan="3">судьялар</td>
 <td rowspan="3">әкімдер</td>
 <td rowspan="3">депутаттар</td>
 </tr>
 <tr>
-<td rowspan="2">Прокуратура органдарының</td>
-<td rowspan="2">
-Сыбайлас жемқорлыққа қарсы іс-қимыл
-Ұлттық бюросының
-</td>
-<td rowspan="2">ҚМ Мемлекеттік кіріс комитетінің</td>
+<td rowspan="2">Мемлекеттік қызмет істері және сыбайлас жемқорлыққа қарсы іс-қимыл агенттігінің Сыбайлас жемқорлыққа қарсы іс-қимыл ұлттық бюросы</td>
+<td rowspan="2">Қаржы министрлігі Мемлекеттік кіріс комитетінің</td>
 <td>10-бағаннан</td>
 <td rowspan="2">Қарулы күштері</td>
 <td rowspan="2">Мемлекеттік күзет қызметі</td>
@@ -5421,7 +6543,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td>Экономикалық тергеп-тексерулер қызметінің</td>
 </tr>
 <tr>
-<td>8</td>
 <td>9</td>
 <td>10</td>
 <td>11</td>
@@ -5442,22 +6563,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5478,22 +6585,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5514,22 +6607,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5550,22 +6629,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5586,22 +6651,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5622,6 +6673,16 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -5634,6 +6695,16 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -5646,10 +6717,41 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -5664,55 +6766,44 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 <table>
 <tr>
-<td colspan="17">соның ішінде 1-бағаннан:</td>
+<td colspan="10">соның ішінде 1-бағаннан</td>
 </tr>
 <tr>
-<td colspan="17">мемлекеттік органдардың қызметшілері</td>
+<td colspan="10">мемлекеттік органдардың қызметшілері</td>
 </tr>
 <tr>
-<td rowspan="2">Әділет министрлігінің</td>
-<td>18- бағаннан</td>
-<td rowspan="2">Сы ртқы істер министрлігі</td>
-<td rowspan="2">Қаржы министрлігі (10-бағанның көрсеткіштерін есепке алусыз)</td>
-<td colspan="2" rowspan="2">Ау ыл шаруашылығы министрлігі</td>
-<td colspan="2">22- бағаннан</td>
-<td rowspan="2">Денсаулық сақтау және әлеуметтік даму министрлігінің</td>
-<td rowspan="2">Бі лім жә не ғылым министрлігінің</td>
-<td rowspan="2">Ұлттық экономика министрлігінің</td>
-<td colspan="4">26-бағаннан</td>
-<td rowspan="2">Инвестициялар және даму министрлігінің</td>
+<td rowspan="3">Әділет министрлігінің</td>
+<td rowspan="2">18- ба ған нан</td>
+<td rowspan="3">Сыртқы істер министрлігінің</td>
+<td rowspan="3">Қаржы министрлігінің (10-бағанның көрсеткіштерін есепке алусыз)</td>
+<td rowspan="3">Ауыл шаруашылығы министрлігінің</td>
+<td rowspan="2">22- ба ғаннан</td>
+<td rowspan="3">Денсаулық сақтау министрлігінің</td>
+<td rowspan="3">Еңбек және халықты әлеуметтік қорғау министрлігінің</td>
+<td rowspan="3">Білім және ғылым министрлігінің</td>
+<td rowspan="3">Еңбек және халықты әлеуметтік қорғау министрлігінің</td>
 </tr>
 <tr>
-<td>ӘМ сот актіле рін ор ындау жөніндегі департаментінің</td>
-<td colspan="2">Жер ресурстарын басқару комитеті</td>
-<td>Статистика жөніндегі комитеттің</td>
-<td>Табиғи монополияларды реттеу және бәсекелестікті қорғау жөніндегі комитеттің</td>
-<td>Құрылыс, тұрғын үй-коммуналдық шаруашылык істері</td>
-<td>Тұтынушылар құ қықтарын қорғау жөніндегі комитеттің</td>
+</tr>
+<tr>
+<td>Сот актілерін орындау жөніндегі департаментінің</td>
+<td>Жер ресурстарын басқару комитетінің</td>
 </tr>
 <tr>
 <td>18</td>
 <td>19</td>
 <td>20</td>
 <td>21</td>
-<td colspan="2">22</td>
-<td colspan="2">23</td>
+<td>22</td>
+<td>23</td>
 <td>24</td>
 <td>25</td>
 <td>26</td>
 <td>27</td>
-<td>28</td>
-<td>29</td>
-<td>30</td>
-<td>31</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5727,26 +6818,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5757,10 +6828,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5776,30 +6843,33 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 <table>
 <tr>
-<td colspan="15">соның ішінде 1-бағаннан:</td>
+<td colspan="11">соның ішінде 1-бағаннан</td>
 </tr>
 <tr>
 <td colspan="11">мемлекеттік органдардың қызметшілері</td>
-<td rowspan="3">Өзге мемлекеттік құрылымдардың қызметшілерімен</td>
-<td colspan="2" rowspan="3">өзге</td>
 </tr>
 <tr>
-<td>31- бағаннан</td>
-<td rowspan="2">Энергетика министрлігі</td>
+<td colspan="4">27-бағаннан</td>
+<td rowspan="2">Инвестициялар және даму министрлігінің</td>
+<td rowspan="2">Энергетика министрлігінің</td>
 <td rowspan="2">Мәдениет және спорт министрлігінің</td>
-<td colspan="2">34- бағаннан</td>
-<td rowspan="2">Мемлекеттік қызмет істері министрлігі (9-баған көрсеткіштерін есепке алусыз)</td>
-<td rowspan="2">Ақпарат және коммуникациялар министрлігі</td>
-<td colspan="2" rowspan="2">Ұлттық банкінің</td>
-<td rowspan="2">Республикалық бюджеттің атқарылуын бақылау жөніндегі есеп комитетінің</td>
-<td rowspan="2">Әкімдіктердің және олардың құрылымдық бөлімшелерінің қызметшілерімен</td>
+<td>34- ба ғаннан</td>
+<td rowspan="2">Ақпарат және коммуникациялар министрлігінің</td>
+<td rowspan="2">Дін істері және азаматтық қоғам министрлігінің</td>
+<td rowspan="2">Қорғаныс және аэроғарыш өнеркәсібі министрлігінің</td>
 </tr>
 <tr>
-<td>Аэроғарыш комитетінің</td>
-<td>Дін істері жөніндегі комитеттің</td>
+<td>Статистика жөніндегі комитетінің</td>
+<td>Табиғи монополияларды реттеу және бәсекелестікті қорғау жөніндегі комитетінің</td>
+<td>Құрылыс, тұрғын үй-коммуналдық шаруашылык істері комитетінің</td>
+<td>Тұтынушылар құқықтарын қорғау жөніндегі комитетінің</td>
 <td>Спорт және дене шынықтыру істері комитетінің</td>
 </tr>
 <tr>
+<td>28</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
 <td>32</td>
 <td>33</td>
 <td>34</td>
@@ -5807,11 +6877,81 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td>36</td>
 <td>37</td>
 <td>38</td>
-<td colspan="2">39</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Кестенің жалғасы:
+
+<table>
+<tr>
+<td colspan="9">соның ішінде 1-бағаннан</td>
+</tr>
+<tr>
+<td colspan="7">мемлекеттік органдардың қызметшілері</td>
+<td rowspan="3">Өзге мемлекеттік құрылымдардың қызметшілерімен</td>
+<td rowspan="3">өзге</td>
+</tr>
+<tr>
+<td colspan="3">38- бағаннан</td>
+<td rowspan="2">Мемлекеттік қызмет істері және сыбайлас жемқорлыққа қарсы іс-қимыл агенттігінің (9-баған көрсеткіштерін есепке алусыз)</td>
+<td rowspan="2">Ұлттық банкінің</td>
+<td rowspan="2">Республикалық бюджеттің атқарылуын бақылау жөніндегі есеп комитетінің</td>
+<td rowspan="2">Әкімдіктердің және олардың құрылымдық бөлімшелерінің қызметшілерімен</td>
+</tr>
+<tr>
+<td>Ақпараттық қауіпсіздік комитетінің</td>
+<td>Аэроғарыш комитетінің</td>
+<td>Мемлекеттік материалдық резервтер комитетінің</td>
+</tr>
+<tr>
+<td>39</td>
 <td>40</td>
 <td>41</td>
 <td>42</td>
 <td>43</td>
+<td>44</td>
+<td>45</td>
+<td>46</td>
+<td>47</td>
 </tr>
 <tr>
 <td></td>
@@ -5819,23 +6959,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5849,9 +6972,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -5861,9 +6981,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5882,11 +6999,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td>Барлығы</td>
 <td>Қарулы күштердің әскери полициясы</td>
 <td>Ұлттық қауіпсіздік комитетінің әскери полициясы</td>
-<td>
-ІІМ Ұлттық гвардиясының
-әскери полициясы
-</td>
-<td>Мемлекеттік қызмет істері министрлігі</td>
+<td>Ішкі істер министрлігі Ұлттық гвардиясының әскери полициясы</td>
+<td>Мемлекеттік қызмет істері және сыбайлас жемқорлыққа қарсы іс-қимыл агенттігінің Сыбайлас жемқорлыққа қарсы іс-қимыл ұлттық бюросы</td>
 <td>Прокуратура</td>
 </tr>
 <tr>
@@ -5994,7 +7108,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 №3-К нысаны. Сыбайлас жемқорлық қылмыстар, оларды жасаған адамдар, сотталғандар, сыбайлас жемқорлық қылмыстар жөніндегі қылмыстық істердің қозғалысы және сыбайлас жемқорлық құқық бұзушылық субъектілері туралы есеп
 
-5-2- бөлім. Облыстар бөлігінде _____бастап _______дейінгі күндерде (ҚР Әкімшілік құқық бұзушылықтар туралы кодексінің 676-681-баптары) әкімшілік сыбайлас жемқорлық құқық бұзушылықтар туралы істерді қозғаған сыбайлас жемқорлық құқық бұзушылықтар субъектілері туралы мәліметтер
+## 5-2- бөлім. Облыстар бөлігінде _____бастап _______дейінгі күндерде (ҚР Әкімшілік құқық бұзушылықтар туралы кодексінің 676-681-баптары) әкімшілік сыбайлас жемқорлық құқық бұзушылықтар туралы істерді қозғаған сыбайлас жемқорлық құқық бұзушылықтар субъектілері туралы мәліметтер
 
 <table>
 <tr>
@@ -6003,11 +7117,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 <td>Барлығы</td>
 <td>Қарулы күштердің әскери полициясы</td>
 <td>Ұлттық қауіпсіздік комитетінің әскери полициясы</td>
-<td>
-ІІМ Ұлттық гвардиясының
-әскери полициясы
-</td>
-<td>Мемлекеттік қызмет істері министрлігі</td>
+<td>Ішкі істер министрлігі Ұлттық гвардиясының әскери полициясы</td>
+<td>Мемлекеттік қызмет істері және сыбайлас жемқорлыққа қарсы іс-қимыл агенттігінің Сыбайлас жемқорлыққа қарсы іс-қимыл ұлттық бюросы</td>
 <td>Прокуратура</td>
 </tr>
 <tr>
@@ -6290,7 +7401,17 @@ source: https://zan.gov.kz/client/#!/doc/105713/kaz/14.07.2016
 
 7. 2-бөлім мемлекеттік функцияларды орындауға уәкілетті адамдарға және оларға теңестірілген адамдарға қатысты сотқа дейінгі тергеп-тексеру басталған сыбайлас жемқорлық қылмыстар туралы мәліметтерден тұрады.
 
-   1-жолда сыбайлас жемқорлық қылмыстардың жалпы саны, олардың ішінен 2-5-жолдарда сыбайлас жемқорлық қылмыстар қылмыс ауырлығы бойынша бөлініп, 6-бағанда – мемлекеттік органның өз бастамасы бойынша анықталғандар бейнеленеді. Бөлімнің 1-жолынан 7-27-жолдарда ҚР ҚК сәйкес сыбайлас жемқорлыққа жатқызылған қылмыстар көрсетіледі. Осы жолда қылмыстық істері ҚР ҚПК 35-бабы 1-бөлімінің 1), 2), 5), 6), 7), 8)-тармақтары бойынша тоқтатылған және тергеулігі бойынша есептен алынумен берілген қылмыстар ескерілмейді. 28-жолда істері ҚР ҚПК 35-бабы 1-бөлімінің 1), 2), 5), 6), 7), 8)-тармақтарымен көзделген негіздер бойынша тоқтатылған қылмыстар бейнеленеді. 29-жолда ҚР ҚК баптарына қайта сараланған, сыбайлас жемқорлық тізбесіне енбейтін қылмыстар бейнеленеді.
+   1-жолда сыбайлас жемқорлық қылмыстардың жалпы саны, олардың ішінен 2-5-жолдарда сыбайлас жемқорлық қылмыстар қылмыс ауырлығы бойынша бөлініп, 6-бағанда – мемлекеттік органның өз бастамасы бойынша анықталғандар бейнеленеді.
+
+   Бөлімнің 1-жолынан 7-27-жолдарда ҚР ҚК сәйкес сыбайлас жемқорлыққа жатқызылған қылмыстар көрсетіледі.
+
+   Осы жолда қылмыстық істері ҚР ҚПК 35-бабы 1-бөлімінің 1), 2), 5), 6), 7), 8)-тармақтары бойынша тоқтатылған және тергеулігі бойынша есептен алынумен берілген қылмыстар ескерілмейді. 28-жолда істері ҚР ҚПК 35-бабы 1-бөлімінің 1), 2), 5), 6), 7), 8)-тармақтарымен көзделген негіздер бойынша тоқтатылған қылмыстар бейнеленеді.
+
+   29-жолда ҚР ҚК баптарына қайта сараланған, сыбайлас жемқорлық тізбесіне енбейтін қылмыстар бейнеленеді.
+
+   Сотқа дейінгі тергеп-тексеруді бастаған тұлғаларға қатысты сыбайлас жемқорлық қылмыстар саны туралы мәліметтер есепті кезеңде бір рет есепке алынады, яғни алдыңғы есепті кезеңде тұлғаға қатысты іс жүргізу шешімі шығарылса, кейінгі есепті кезеңде ол тұлға есепке алынбайды.
+
+> *Ескерту. 7-тармақ жаңа редакцияда - ҚР Бас прокурорының 25.04.2017 № 43 (алғашқы ресми жарияланған күнiнен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 8. 3-бөлімнің 1-бағанында оларға қатысты есептік кезеңде күдікті деп тану туралы қаулы шығарылған адамдар саны ескеріледі. 2-бағанда осы есептік кезеңде қылмыстық істері алғаш рет сотқа жолданған немесе ҚР ҚПК 35-бабы 1-бөлімінің 3), 4), 9), 10), 11), 12)-тармақтары және 36-бабымен көзделген негіздер бойынша тоқтатылған, сыбайлас жемқорлық қылмыс жасаған адамдар саны көрсетіледі. 3-бағанның деректері 4-44-бағандарда мемлекеттік функцияларды атқаруға уәкілетті адамдарға және оларға теңестірілген адамдарға бөлінеді.
 

@@ -1,5 +1,5 @@
 ---
-version_id: '105713_111017'
+version_id: '105713_190884'
 act_code: '105713'
 language: rus
 title: Об утверждении отчета формы № 3-К «О коррупционных преступлениях, лицах их совершивших, осужденных, движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений» и Инструкции по его формированию"
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '107000000000'
 approval_date: 2016-07-14
-version_date: 2016-07-14
+version_date: 2017-04-25
 registry_number: '105713'
-source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
+caused_by:
+  code: '112443'
+  title: О внесении изменений в приказ Генерального Прокурора Республики Казахстан от 14 июля 2016 года № 125 «Об утверждении отчета формы № 3-К «О коррупционных преступлениях, лицах их совершивших, осужденных, движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений» и Инструкции по его формированию
+  link: https://zan.gov.kz/client/#!/doc/112443/rus
+source: https://zan.gov.kz/client/#!/doc/105713/rus/25.04.2017
 ---
 
 # Об утверждении отчета формы № 3-К «О коррупционных преступлениях, лицах их совершивших, осужденных, движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений» и Инструкции по его формированию
@@ -51,11 +55,13 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 > *Приложение 1 к приказу*  
 > *Генерального Прокурора*  
 > *Республики Казахстан*  
-> *14 июля 2016 года № 125*
+> *от 14 июля 2016 года № 125*
 
-Форма № 3-К. Отчет о коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений
+> *Сноска. Отчет формы в редакции приказа Генерального прокурора РК от 25.04.2017 № 43 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
-Раздел 1. Сведения о зарегистрированных в ЕРДР коррупционных преступлениях и уголовных делах о них
+# Отчет формы № 3-К «О коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений»
+
+## Раздел 1. Сведения о зарегистрированных в ЕРДР коррупционных преступлениях и уголовных делах о них
 
 <table>
 <tr>
@@ -361,519 +367,39 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 
 <table>
 <tr>
-<td colspan="7" rowspan="2">Количество коррупционных преступлений, по которым сроки досудебного расследования прерваны</td>
-<td rowspan="3">Количество коррупционных преступлений, по которым сроки досудебного производства прерваны по п.4) ч.7 ст.45 УПК</td>
-<td rowspan="3">Количество коррупционных преступлений прошлых лет, по которым сроки досудебного производства прерваны по п.4) ч.7 ст.45 УПК</td>
-<td colspan="3" rowspan="2">По оконченным расследованием уголовным делам</td>
-<td rowspan="3">Количество коррупционных преступлений, по делам по которым с момента регистрации прошло более 2-х месяцев, а информация о продлении срока не поступила</td>
-<td rowspan="3">Количество коррупционных преступлений, уголовные дела по которым направлены по подследственности со снятием с учета</td>
+<td colspan="8" rowspan="2">Количество коррупционных преступлений, по которым сроки досудебного расследования прерваны</td>
 </tr>
 <tr>
 </tr>
 <tr>
-<td>в с е г о</td>
-<td>п о п. 1) ч. 7 ст. 45 У П К</td>
-<td>п о п. 2) ч. 7 ст. 45 У П К</td>
-<td>п о п. 3) ч. 7 ст. 45 У П К</td>
-<td>п о п. 5) ч. 7 ст. 45 У П К</td>
-<td>п о п. 6) ч. 7 ст. 45 У П К</td>
-<td>п о п. 7) ч. 7 ст. 45 У П К</td>
-<td>Установленный размер материального вреда (тыс.тенге)</td>
-<td>Наложен арест на имущество (тыс.тенге)</td>
-<td>Изъято и добровольно погашено (тыс.тенге)</td>
+<td colspan="2">всего</td>
+<td>по п.1) ч.7 ст. 45 УПК</td>
+<td>по п.2) ч.7 ст. 45 УПК</td>
+<td>по п.3) ч.7 ст. 45 УПК</td>
+<td>по п.5) ч.7 ст. 45 УПК</td>
+<td>по п.6) ч.7 ст. 45 УПК</td>
+<td>по п.7) ч.7 ст. 45 УПК</td>
 </tr>
 <tr>
-<td>7</td>
+<td colspan="2">7</td>
 <td>8</td>
 <td>9</td>
 <td>10</td>
 <td>11</td>
 <td>12</td>
 <td>13</td>
-<td>14</td>
-<td>15</td>
-<td>16</td>
-<td>17</td>
-<td>18</td>
-<td>19</td>
-<td>20</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Форма № 3-К. Отчет о коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел и о коррупционных преступлениях и о субъектах коррупционных правонарушений
-
-Раздел 2. Сведения о коррупционных преступлениях, по которым начато досудебное расследование в отношении лиц, уполномоченных на выполнение государственных функций, и лиц, приравненных к ним
-
-<table>
-<tr>
-<td colspan="2" rowspan="4">Наименование</td>
-<td rowspan="4"></td>
-<td rowspan="4">Всего коррупционных преступлений, по которым начато досудебное расследование в отношении лиц, уполномоченных на выполнение государственных функций, и лиц, приравненных к ним, в отчетном периоде</td>
-<td rowspan="4">в т.ч. преступлений, зарегистрированных в ЕРДР в прошлые отчетные периоды</td>
-<td colspan="6">в том числе из графы 1 в отношении:</td>
-</tr>
-<tr>
-<td colspan="6">сотрудников</td>
-</tr>
-<tr>
-<td rowspan="2">органов внутренних дел (без учета показателей граф 4, 5 и 6)</td>
-<td rowspan="2">Национальной гвардии МВД</td>
-<td rowspan="2">Комитета уголовно - исполнительной системы МВД</td>
-<td rowspan="2">Комитета по чрезвычайным ситуациям МВД</td>
-<td rowspan="2">органов национальной безопасности (без учета показателей графы 8)</td>
-<td rowspan="2">Пограничной службы КНБ</td>
-</tr>
-<tr>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">Всего коррупционных преступлений</td>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -882,23 +408,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td rowspan="5">из них</td>
-<td>небольшой тяжести</td>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>средней тяжести</td>
-<td>3</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -907,22 +417,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td>тяжкие</td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>особо тяжкие</td>
-<td>5</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -931,23 +426,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td>выявлено по инициативе самого государственного органа</td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="21">из строки 1</td>
-<td>Присвоение или растрата вверенного чужого имущества (п.2) ч.3 ст.189 УК РК)</td>
-<td>7</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -956,22 +435,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td>Мошенничество (п.2) ч.3 ст.190 УК РК)</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Лжепредпринимательство (п.3) ч.2 ст.215 УК РК)</td>
-<td>9</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -980,22 +444,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td>Совершение действий по выписке счета-фактуры без фактического выполнения работ, оказания услуг, отгрузки товаров (п.4) ч.2 ст.216 УК РК)</td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Создание и руководство финансовой (инвестиционной) пирамидой (п.3) ч.3 ст.217 УК РК)</td>
-<td>11</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1004,22 +453,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td>Легализация (отмывание) денег и (или)иного имущества, полученных преступным путем (п.1) ч.3 ст.218 УК РК)</td>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Экономическая контрабанда (п.1) ч.3 ст.234 УК РК)</td>
-<td>13</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1028,22 +462,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td>Рейдерство (п.2) ч.3 ст.249 УК РК)</td>
-<td>14</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Организация незаконного игорного бизнеса (п.3) ч.3 ст.307 УК РК)</td>
-<td>15</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1052,22 +471,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td>Злоупотребление должностными полномочиями (ст.361 УК РК)</td>
-<td>16</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Превышение власти или должностных полномочий (п.3) ч.4 ст.362 УК РК)</td>
-<td>17</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1076,22 +480,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td>Незаконное участие в предпринимательской деятельности (ст.364 УК РК)</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Воспрепятствование законной предпринимательской деятельности (ст.365 УК РК)</td>
-<td>19</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1100,22 +489,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td>Получение взятки (ст.366 УК РК)</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Дача взятки (ст.367 УК РК)</td>
-<td>21</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1124,22 +498,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td>Посредничество во взяточничестве (ст.368 УК РК)</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Служебный подлог (ст.369 УК РК)</td>
-<td>23</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1148,22 +507,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td>Бездействие по службе (ст.370 УК РК)</td>
-<td>24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Злоупотребление властью (ст.450 УК РК)</td>
-<td>25</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1172,22 +516,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td>Превышение власти (п.2) ч.2 ст.451 УК РК )</td>
-<td>26</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Бездействие власти (ст.452 УК РК)</td>
-<td>27</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1196,10 +525,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td colspan="2">Количество уголовных преступлений, уголовные дела по которым прекращены по пунктам 1), 2), 5), 6), 7), 8) части 1 статьи 35 УПК РК</td>
-<td>28</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1208,10 +534,106 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td colspan="2">Переквалифицированные в некоррупционные преступления</td>
-<td>29</td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1225,19 +647,815 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 
 <table>
 <tr>
-<td colspan="12">в том числе из графы 1 в отношении:</td>
+<td rowspan="3">Количество коррупционных преступлений, по которым сроки досудебного производства прерваны по п.4) ч.7 ст.45 УПК</td>
+<td rowspan="3">Количество коррупционных преступлений прошлых лет, по которым сроки досудебного производства прерваны по п.4) ч.7 ст.45 УПК</td>
+<td colspan="3" rowspan="2">По оконченным расследованием уголовным делам</td>
+<td rowspan="3">Количество коррупционных преступлений, по делам по которым с момента регистрации прошло более 2-х месяцев, а информация о продлении срока не поступила</td>
+<td rowspan="3">Количество коррупционных преступлений, уголовные дела по которым направлены по подследственности со снятием с учета</td>
 </tr>
 <tr>
-<td colspan="7">сотрудников</td>
+</tr>
+<tr>
+<td>Установленный размер материального вреда (тыс.тенге)</td>
+<td>Наложен арест на имущество (тыс.тенге)</td>
+<td>Изъято и добровольно погашено (тыс.тенге)</td>
+</tr>
+<tr>
+<td>14</td>
+<td>15</td>
+<td>16</td>
+<td>17</td>
+<td>18</td>
+<td>19</td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Отчет формы № 3-К «О коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел и о коррупционных преступлениях и о субъектах коррупционных правонарушений
+
+## Раздел 2. Сведения о коррупционных преступлениях, по которым начато досудебное расследование в отношении лиц, уполномоченных на выполнение государственных функций, и лиц, приравненных к ним
+
+<table>
+<tr>
+<td colspan="2" rowspan="4">Наименование</td>
+<td rowspan="4"></td>
+<td rowspan="4">Всего коррупционных преступлений, по которым начато досудебное расследование в отношении лиц, уполномоченных на выполнение государственных функций, и лиц, приравненных к ним, в отчетном периоде</td>
+<td rowspan="4">в т.ч. преступлений, зарегистрированных в ЕРДР в прошлые отчетные периоды</td>
+<td colspan="2">в том числе из графы 1 в отношении:</td>
+</tr>
+<tr>
+<td colspan="2">Сотрудников</td>
+</tr>
+<tr>
+<td rowspan="2">органов внутренних дел (без учета показателей граф 4, 5 и 6)</td>
+<td rowspan="2">Национальной гвардии Министерства внутренних дел (далее - МВД)</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<td colspan="2">Всего коррупционных преступлений</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="5">
+из
+них
+</td>
+<td>небольшой тяжести</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>средней тяжести</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>тяжкие</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>особо тяжкие</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>выявлено по инициативе самого государственного органа</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="21">из строки 1</td>
+<td>Присвоение или растрата вверенного чужого имущества (п.2) ч.3 ст.189 УК РК)</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Мошенничество (п.2) ч.3 ст.190 УК РК)</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Лжепредпринимательство (п.3) ч.2 ст.215 УК РК)</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Совершение действий по выписке счета-фактуры без фактического выполнения работ, оказания услуг, отгрузки товаров (п.4) ч.2 ст.216 УК РК)</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Создание и руководство финансовой (инвестиционной) пирамидой (п.3) ч.3 ст.217 УК РК)</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Легализация (отмывание) денег и (или)иного имущества, полученных преступным путем (п.1) ч.3 ст.218 УК РК)</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Экономическая контрабанда (п.1) ч.3 ст.234 УК РК)</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Рейдерство (п.2) ч.3 ст.249 УК РК)</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Организация незаконного игорного бизнеса (п.3) ч.3 ст.307 УК РК)</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Злоупотребление должностными полномочиями (ст.361 УК РК)</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Превышение власти или должностных полномочий (п.3) ч.4 ст.362 УК РК)</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Незаконное участие в предпринимательской деятельности (ст.364 УК РК)</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Воспрепятствование законной предпринимательской деятельности (ст.365 УК РК)</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Получение взятки (ст.366 УК РК)</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Дача взятки (ст.367 УК РК)</td>
+<td>21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Посредничество во взяточничестве (ст.368 УК РК)</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Служебный подлог (ст.369 УК РК)</td>
+<td>23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Бездействие по службе (ст.370 УК РК)</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Злоупотребление властью (ст.450 УК РК)</td>
+<td>25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Превышение власти (п.2) ч.2 ст.451 УК РК )</td>
+<td>26</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Бездействие власти (ст.452 УК РК)</td>
+<td>27</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Количество уголовных преступлений, уголовные дела по которым прекращены по пунктам 1), 2), 5), 6), 7), 8) части 1 статьи 35 УПК РК</td>
+<td>28</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Переквалифицированные в некоррупционные преступления</td>
+<td>29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Продолжение таблицы:
+
+<table>
+<tr>
+<td colspan="7">в том числе из графы 1 в отношении:</td>
+</tr>
+<tr>
+<td colspan="7">Сотрудников</td>
+</tr>
+<tr>
+<td colspan="2">Комитета уголовно - исполнительной системы МВД</td>
+<td>Комитета по чрезвычайным ситуациям МВД</td>
+<td>органов национальной безопасности (без учета показателей графы 8)</td>
+<td>Пограничной службы Комитета национальной безопасности</td>
+<td>органов прокуратуры</td>
+<td>Национального бюро по противодействию коррупции Агентства по делам государственной службы и противодействию коррупции</td>
+</tr>
+<tr>
+<td colspan="2">5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Продолжение таблицы:
+
+<table>
+<tr>
+<td colspan="10">в том числе из графы 1 в отношении:</td>
+</tr>
+<tr>
+<td colspan="5">Сотрудников</td>
 <td rowspan="3">судьи</td>
 <td rowspan="3">акимы</td>
 <td rowspan="3">депутаты</td>
 <td colspan="2">служащих государственных органов</td>
 </tr>
 <tr>
-<td rowspan="2">органов прокуратуры</td>
-<td rowspan="2">Национального бюро по противодействию коррупции МГС</td>
-<td rowspan="2">Комитета государственных доходов МФ</td>
+<td rowspan="2">Комитета государственных доходов Министерства финансов</td>
 <td>из графы 11</td>
 <td rowspan="2">Вооруженных сил</td>
 <td rowspan="2">Службы государственной охраны</td>
@@ -1247,11 +1465,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 </tr>
 <tr>
 <td>службы экономических расследований</td>
-<td>Департамента по исполнению судебных актов МЮ</td>
+<td>Департамента по исполнению судебных актов</td>
 </tr>
 <tr>
-<td>9</td>
-<td>10</td>
 <td>11</td>
 <td>12</td>
 <td>13</td>
@@ -1274,26 +1490,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1316,26 +1514,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1358,26 +1538,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1400,26 +1562,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1442,26 +1586,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1484,26 +1610,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1526,26 +1634,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1568,26 +1658,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1610,26 +1682,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1652,12 +1706,116 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -1682,13 +1840,13 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td rowspan="2">Министерства иностранных дел</td>
 <td rowspan="2">Министерства финансов (без учета показателей графы 11)</td>
 <td rowspan="2">Министерства сельского хозяйства</td>
-<td>из графы 23</td>
-<td rowspan="2">Министерства здравоохранения и социального развития</td>
+<td>из гр. 23</td>
+<td rowspan="2">Министерства здравоохранения</td>
+<td rowspan="2">Министерства труда и социальной защиты населения</td>
 <td rowspan="2">Министерства образования и науки</td>
 <td rowspan="2">Министерства национальной экономики</td>
-<td colspan="4">из графы 27</td>
+<td colspan="4">из графы 28</td>
 <td rowspan="2">Министерства по инвестициям и развитию</td>
-<td>из графы 32</td>
 </tr>
 <tr>
 <td>Комитет по управлению земельными ресурсами</td>
@@ -1696,7 +1854,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>Комитета по регулированию естественных монополий и защите конкуренции</td>
 <td>Комитета по делам строительства и жилищно-коммунального хозяйства</td>
 <td>Комитета по защите прав потребителей</td>
-<td>Аэрокосмического комитета</td>
 </tr>
 <tr>
 <td>21</td>
@@ -1788,11 +1945,89 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 </tr>
+</table>
+
+Продолжение таблицы:
+
+<table>
+<tr>
+<td colspan="9">в том числе из графы 1 в отношении:</td>
+</tr>
+<tr>
+<td colspan="9">служащих государственных органов</td>
+</tr>
+<tr>
+<td rowspan="2">Министерства энергетики</td>
+<td rowspan="2">Министерства культуры и спорта</td>
+<td>из гр. 35</td>
+<td rowspan="2">Министерства информации и коммуникаций</td>
+<td rowspan="2">Министерства по делам религий и гражданского общества</td>
+<td></td>
+<td colspan="3">из графы 39</td>
+</tr>
+<tr>
+<td>Комитета по делам спорта и физической культуры</td>
+<td>Министерства оборонной и аэрокосмической промышленности</td>
+<td>Комитета по информационной безопасности</td>
+<td>Аэрокосмического комитета</td>
+<td>Комитета по государственным материальным резервам</td>
+</tr>
+<tr>
+<td>34</td>
+<td>35</td>
+<td>36</td>
+<td>37</td>
+<td>38</td>
+<td>39</td>
+<td>40</td>
+<td>41</td>
+<td>42</td>
+</tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -1809,62 +2044,36 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 
 <table>
 <tr>
-<td colspan="11">в том числе из графы 1 в отношении:</td>
+<td colspan="6">в том числе из графы 1 в отношении:</td>
 </tr>
 <tr>
-<td colspan="9">служащих государственных органов</td>
+<td colspan="3">служащих государственных органов</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">Министерства энергетики</td>
-<td rowspan="2">Министерства культуры и спорта</td>
-<td colspan="2">из графы 35</td>
-<td rowspan="2">Министерства по делам государственной службы (без учета показателей графы 10)</td>
-<td rowspan="2">Министерства информации и коммуникаций</td>
-<td rowspan="2">Национального банка</td>
-<td rowspan="2">Счетного комитета по контролю за исполнением республиканского бюджета</td>
+<td rowspan="2">Агентства по делам государственной службы и противодействию коррупции (без учета показателей графы 10)</td>
+<td></td>
+<td></td>
 <td rowspan="2">Служащих акиматов и их структурных подразделений</td>
 <td rowspan="2">служащих прочих государственных структур</td>
 <td></td>
 </tr>
 <tr>
-<td>Комитета по делам религий</td>
-<td>Комитета по делам спорта и физической культуры</td>
+<td>Национального банка</td>
+<td>Счетного комитета по контролю за исполнением республиканского бюджета</td>
 <td>иные</td>
 </tr>
 <tr>
-<td>34</td>
-<td>35</td>
-<td>36</td>
-<td>37</td>
-<td>38</td>
-<td>39</td>
-<td>40</td>
-<td>41</td>
-<td>42</td>
 <td>43</td>
 <td>44</td>
+<td>45</td>
+<td>46</td>
+<td>47</td>
+<td>48</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1879,18 +2088,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1905,18 +2104,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1926,9 +2115,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 </tr>
 </table>
 
-Форма № 3-К. Отчет о коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел и о коррупционных преступлениях и о субъектах коррупционных правонарушений
+Отчет формы № 3-К «О коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел и о коррупционных преступлениях и о субъектах коррупционных правонарушений
 
-Раздел 3. Сведения о лицах, совершивших коррупционные преступления
+## Раздел 3. Сведения о лицах, совершивших коррупционные преступления
 
 <table>
 <tr>
@@ -1937,17 +2126,19 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td rowspan="4">Количество лиц, в отношении которых вынесено постановление о признании подозреваемым в отчетном периоде</td>
 <td rowspan="4">Выявлено лиц, совершивших преступления</td>
 <td rowspan="4">Предано суду обвиняемых</td>
-<td colspan="5">в том числе из графы 3:</td>
+<td colspan="7">в том числе из графы 3:</td>
 </tr>
 <tr>
-<td colspan="5">сотрудников</td>
+<td colspan="7">сотрудников</td>
 </tr>
 <tr>
 <td rowspan="2">органов внутренних дел (без учета показателей граф 5, 6 и 7)</td>
-<td rowspan="2">Национальной гвардии МВД</td>
+<td rowspan="2">Национальной гвардии Министерства внутренних дел (далее – МВД)</td>
 <td rowspan="2">Комитета уголовно - исполнительной системы МВД</td>
 <td rowspan="2">Комитета по чрезвычайным ситуациям МВД</td>
 <td rowspan="2">органов национальной безопасности (без учета показателей графы 9)</td>
+<td rowspan="2">Пограничной службы Комитета национальной безопасности</td>
+<td rowspan="2">органов прокуратуры</td>
 </tr>
 <tr>
 </tr>
@@ -1962,10 +2153,14 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>6</td>
 <td>7</td>
 <td>8</td>
+<td>9</td>
+<td>10</td>
 </tr>
 <tr>
 <td colspan="2">Всего лиц, совершивших коррупционные преступления</td>
 <td>1</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1987,10 +2182,14 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>средней тяжести</td>
 <td>3</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2011,10 +2210,14 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>особо тяжкие</td>
 <td>5</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2036,10 +2239,14 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Мошенничество (п.2) ч.3 ст.190 УК РК)</td>
 <td>7</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2060,10 +2267,14 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Совершение действий по выписке счета-фактуры без фактического выполнения работ, оказания услуг, отгрузки товаров (п.4) ч.2 ст.216 УК РК)</td>
 <td>9</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2084,10 +2295,14 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Легализация (отмывание) денег и (или)иного имущества, полученных преступным путем (п.1) ч.3 ст.218 УК РК)</td>
 <td>11</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2108,10 +2323,14 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Рейдерство (п.2) ч.3 ст.249 УК РК)</td>
+<td>Рейдерство (п.2) ч.3 ст.249 УКРК)</td>
 <td>13</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2132,10 +2351,14 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Злоупотребление должностными полномочиями (ст.361 УК РК)</td>
 <td>15</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2156,10 +2379,14 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Незаконное участие в предпринимательской деятельности (ст.364 УК РК)</td>
 <td>17</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2180,10 +2407,14 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Получение взятки (ст.366 УК РК)</td>
 <td>19</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2204,10 +2435,14 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Посредничество во взяточничестве (ст.368 УК РК)</td>
 <td>21</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2228,10 +2463,14 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Бездействие по службе (ст.370 УК РК)</td>
 <td>23</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2252,10 +2491,14 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Превышение власти (п.2) ч.2 ст.451 УК РК )</td>
 <td>25</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2276,6 +2519,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
@@ -2283,23 +2528,18 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 
 <table>
 <tr>
-<td colspan="11">в том числе из графы 3:</td>
+<td colspan="9">в том числе из графы 3:</td>
 </tr>
 <tr>
-<td colspan="8">сотрудников</td>
+<td colspan="6">сотрудников</td>
 <td rowspan="3">суды</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">Пограничной службы КНБ</td>
-<td rowspan="2">органов прокуратуры</td>
-<td rowspan="2">
-Национального бюро по противодействию
-коррупции МГС
-</td>
-<td rowspan="2">Комитета государственных доходов МФ</td>
-<td>из графы 12</td>
+<td rowspan="2">Национального бюро по противодействию коррупции Агентства по делам государственной службы и противодействию коррупции</td>
+<td rowspan="2">Комитета государственных доходов Министерства финансов</td>
+<td>из гра- фы 12</td>
 <td rowspan="2">Вооруженных сил</td>
 <td rowspan="2">Службы государственной охраны</td>
 <td rowspan="2">Службы внешней разведки «Сырбар»</td>
@@ -2310,8 +2550,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>службы экономических расследований</td>
 </tr>
 <tr>
-<td>9</td>
-<td>10</td>
 <td>11</td>
 <td>12</td>
 <td>13</td>
@@ -2332,25 +2570,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2371,25 +2592,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2410,25 +2614,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2449,25 +2636,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2488,25 +2658,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2527,25 +2680,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2566,25 +2702,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2605,25 +2724,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2644,12 +2746,96 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -2664,30 +2850,28 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 
 <table>
 <tr>
-<td colspan="13">в том числе из графы 3:</td>
+<td colspan="10">в том числе из графы 3:</td>
 </tr>
 <tr>
-<td colspan="13">служащих государственных органов</td>
+<td colspan="10">служащих государственных органов</td>
 </tr>
 <tr>
-<td rowspan="2">Министерства юстиции</td>
-<td>из графы 20</td>
-<td rowspan="2">Министерства иностранных дел</td>
-<td rowspan="2">Министерства финансов (без учета показателей графы 12)</td>
-<td rowspan="2">Министерства сельского хозяйства</td>
-<td>из графы 24</td>
-<td rowspan="2">Министерства здравоохранения и социального развития</td>
-<td rowspan="2">Министерства образования и науки</td>
-<td rowspan="2">Министерства национальной экономики</td>
-<td colspan="4">из графы 28</td>
+<td rowspan="3">Министерства юстиции</td>
+<td rowspan="2">из графы 20</td>
+<td rowspan="3">Министерства иностранных дел</td>
+<td rowspan="3">Министерства финансов (без учета показателей графы 12)</td>
+<td rowspan="3">Министерства сельского хозяйства</td>
+<td rowspan="2">из гра-фы 24</td>
+<td rowspan="3">Министерства здравоохранения</td>
+<td rowspan="3">Министерства труда и социальной защиты населения</td>
+<td rowspan="3">Министерства образования и науки</td>
+<td rowspan="3">Министерства национальной экономики</td>
 </tr>
 <tr>
-<td>Департамента по исполнению судебных актов МЮ</td>
+</tr>
+<tr>
+<td>Департамента по исполнению судебных актов</td>
 <td>Комитет по управлению земельными ресурсами</td>
-<td>Комитета по статистике</td>
-<td>Комитета по регулированию естественных монополий и защите конкуренции</td>
-<td>Комитета по делам строительства и жилищно-коммунального хозяйства</td>
-<td>Комитета по защите прав потребителей</td>
 </tr>
 <tr>
 <td>20</td>
@@ -2700,29 +2884,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>27</td>
 <td>28</td>
 <td>29</td>
-<td>30</td>
-<td>31</td>
-<td>32</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2745,9 +2908,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2760,14 +2920,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2785,31 +2939,33 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 
 <table>
 <tr>
-<td colspan="13">в том числе из графы 3:</td>
+<td colspan="10">в том числе из графы 3:</td>
 </tr>
 <tr>
-<td colspan="11">служащих государственных органов</td>
-<td rowspan="3">служащих прочих государственных структур</td>
-<td rowspan="3">иные</td>
+<td colspan="10">служащих государственных органов</td>
 </tr>
 <tr>
-<td rowspan="2">Министерства по инвестициям и развитию</td>
-<td>из графы 33</td>
-<td rowspan="2">Министерства энергетики</td>
-<td rowspan="2">Министерства культуры и спорта</td>
-<td colspan="2">из графы 36</td>
-<td rowspan="2">Министерства по делам государственной службы (без учета показателей графы 11)</td>
-<td rowspan="2">Министерства информации и коммуникаций</td>
-<td rowspan="2">Национального банка</td>
-<td rowspan="2">Счетного комитета по контролю за исполнением республиканского бюджета</td>
-<td rowspan="2">Служащие акиматов и их структурных подразделений</td>
+<td colspan="4" rowspan="2">из графы 29</td>
+<td rowspan="3">Министерства по инвестициям и развитию</td>
+<td rowspan="3">Министерства энергетики</td>
+<td rowspan="3">Министерства культуры и спорта</td>
+<td rowspan="2">из гра-фы 36</td>
+<td rowspan="3">Министерства информации и коммуникаций</td>
+<td rowspan="3">Министерства по делам религий и гражданского общества</td>
 </tr>
 <tr>
-<td>Аэрокосмического комитета</td>
-<td>Комитета по делам религий</td>
+</tr>
+<tr>
+<td>Комитета по статистике</td>
+<td>Комитета по регулированию естественных монополий и защите конкуренции</td>
+<td>Комитета по делам строительства и жилищно-коммунального хозяйства</td>
+<td>Комитета по защите прав потребителей</td>
 <td>Комитета по делам спорта и физической культуры</td>
 </tr>
 <tr>
+<td>30</td>
+<td>31</td>
+<td>32</td>
 <td>33</td>
 <td>34</td>
 <td>35</td>
@@ -2817,32 +2973,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>37</td>
 <td>38</td>
 <td>39</td>
-<td>40</td>
-<td>41</td>
-<td>42</td>
-<td>43</td>
-<td>44</td>
-<td>45</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2865,9 +2997,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2880,14 +3009,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2901,11 +3024,102 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 </tr>
 </table>
 
-Форма № 3-К. Отчет о коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений
+Продолжение таблицы:
 
-Раздел 4. Сведения об осужденных, оправданных, лицах, дела в отношении которых прекращены судом, лицах в отношении которых применены принудительные меры медицинского характера и мерах наказания за коррупционные преступления
+<table>
+<tr>
+<td colspan="10">в том числе из графы 3:</td>
+</tr>
+<tr>
+<td colspan="8">служащих государственных органов</td>
+<td rowspan="4">служащих прочих государственных структур</td>
+<td rowspan="4">иные</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="3">в том числе из графы 40</td>
+<td rowspan="2"></td>
+<td rowspan="3">Национального банка</td>
+<td rowspan="3">Счетного комитета по контролю за исполнением республиканского бюджета</td>
+<td rowspan="3">Служащие акиматов и их структурных подразделений</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Министерства оборонной и аэрокосмической промышленности</td>
+<td>Комитета по информационной безопасности</td>
+<td>Аэрокосмический комитета</td>
+<td>Комитета по государственным материальным резервам</td>
+<td>Агентства по делам государственной службы и противодействию коррупции (без учета показателей графы 11)</td>
+</tr>
+<tr>
+<td>40</td>
+<td>41</td>
+<td>42</td>
+<td>43</td>
+<td>44</td>
+<td>45</td>
+<td>46</td>
+<td>47</td>
+<td>48</td>
+<td>49</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-Таблица А.
+Отчет формы № 3-К «О коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений
+
+## Раздел 4. Сведения об осужденных, оправданных, лицах, дела в отношении которых прекращены судом, лицах в отношении которых применены принудительные меры медицинского характера и мерах наказания за коррупционные преступления Таблица А.
 
 <table>
 <tr>
@@ -2915,20 +3129,17 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td colspan="8">в том числе из графы 1:</td>
 </tr>
 <tr>
-<td colspan="8">сотрудников</td>
+<td colspan="8">Сотрудников</td>
 </tr>
 <tr>
 <td rowspan="2">органов внутренних дел (без учета показателей граф 3, 4 и 5)</td>
-<td rowspan="2">Национальной гвардии МВД</td>
+<td rowspan="2">Национальной гвардии Министерства внутренних дел (далее МВД)</td>
 <td rowspan="2">Комитета уголовно - исполнительной системы МВД</td>
 <td rowspan="2">Комитета по чрезвычайным ситуациям МВД</td>
 <td rowspan="2">органов национальной безопасности (без учета показателей графы 7)</td>
-<td rowspan="2">Пограничной службы КНБ</td>
+<td rowspan="2">Пограничной службы Комитета национальной безопасности</td>
 <td rowspan="2">органов прокуратуры</td>
-<td rowspan="2">
-Национального бюро по противодействию
-коррупции МГС
-</td>
+<td rowspan="2">Национального бюро по противодействию коррупции Агентства по делам государственной службы и противодействию коррупции</td>
 </tr>
 <tr>
 </tr>
@@ -3305,13 +3516,13 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td colspan="8">в том числе из графы 1:</td>
 </tr>
 <tr>
-<td colspan="5">сотрудников</td>
+<td colspan="5">Сотрудников</td>
 <td rowspan="3">судьи</td>
 <td rowspan="3">акимы</td>
 <td rowspan="3">депутаты</td>
 </tr>
 <tr>
-<td rowspan="2">Комитета государственных доходов МФ</td>
+<td rowspan="2">Комитета государственных доходов Министерства финансов</td>
 <td>из графы 10</td>
 <td rowspan="2">Вооруженных сил</td>
 <td rowspan="2">Службы государственной охраны</td>
@@ -3590,44 +3801,32 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
 
 <table>
 <tr>
-<td colspan="13">в том числе из графы 1:</td>
+<td colspan="11">в том числе из графы 1:</td>
 </tr>
 <tr>
-<td colspan="13">служащих государственных органов</td>
+<td colspan="11">служащих государственных органов</td>
 </tr>
 <tr>
-<td rowspan="2">Министерства юстиции</td>
-<td>из графы 18</td>
-<td rowspan="2">Министерства иностранных дел</td>
-<td rowspan="2">Министерства финансов (без учета показателей графы 10)</td>
-<td rowspan="2">Министерства сельского хозяйства</td>
-<td>из графы 22</td>
-<td rowspan="2">Министерства здравоохранения и социального развития</td>
-<td rowspan="2">Министерства образования и науки</td>
-<td rowspan="2">Министерства национальной экономики</td>
-<td colspan="4">из графы 26</td>
+<td rowspan="3">Министерства юстиции</td>
+<td rowspan="2">из графы 18</td>
+<td rowspan="3">Министерства иностранных дел</td>
+<td rowspan="3">Министерства финансов (без учета показателей графы 10)</td>
+<td rowspan="3">Министерства сельского хозяйства</td>
+<td rowspan="2">из графы 22</td>
+<td rowspan="3">Министерства здравоохранения</td>
+<td rowspan="3">Министерства труда и социальной защиты населения</td>
+<td rowspan="3">Министерства образования и науки</td>
+<td rowspan="3">Министерства национальной экономики</td>
 </tr>
 <tr>
-<td>Департамента по исполнению судебных актов МЮ</td>
+</tr>
+<tr>
+<td>Департамента по исполнению судебных актов</td>
 <td>Комитет по управлению земельными ресурсами</td>
-<td>Комитета по статистике</td>
-<td>Комитета по регулированию естественных монополий и защите конкуренции</td>
-<td>Комитета по делам строительства и жилищно-коммунального хозяйства</td>
-<td>Комитета по защите прав потребителей</td>
 </tr>
 <tr>
 <td>18</td>
@@ -3640,29 +3839,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>25</td>
 <td>26</td>
 <td>27</td>
-<td>28</td>
-<td>29</td>
-<td>30</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3685,29 +3863,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3725,31 +3882,33 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 
 <table>
 <tr>
-<td colspan="13">в том числе из графы 1:</td>
+<td colspan="10">в том числе из графы 1:</td>
 </tr>
 <tr>
-<td colspan="11">служащих государственных органов</td>
-<td rowspan="3">служащих прочих государственных структур</td>
-<td rowspan="3">иные</td>
+<td colspan="10">служащих государственных органов</td>
 </tr>
 <tr>
-<td rowspan="2">Министерства по инвестициям и развитию</td>
-<td>из графы 31</td>
-<td rowspan="2">Министерства энергетики</td>
-<td rowspan="2">Министерства культуры и спорта</td>
-<td colspan="2">из графы 34</td>
-<td rowspan="2">Министерства по делам государственной службы (без учета показателей графы 9)</td>
-<td rowspan="2">Министерства информации и коммуникаций</td>
-<td rowspan="2">Национального банка</td>
-<td rowspan="2">Счетного комитета по контролю за исполнением республиканского бюджета</td>
-<td rowspan="2">Служащие акиматов и их структурных подразделений</td>
+<td colspan="4" rowspan="2">из графы 27</td>
+<td rowspan="3">Министерства по инвестициям и развитию</td>
+<td rowspan="3">Министерства энергетики</td>
+<td rowspan="3">Министерства культуры и спорта</td>
+<td rowspan="2">из графы 34</td>
+<td rowspan="3">Министерства информации и коммуникаций</td>
+<td rowspan="3">Министерства по делам религий и гражданского общества</td>
 </tr>
 <tr>
-<td>Аэрокосмического комитета</td>
-<td>Комитета по делам религий</td>
+</tr>
+<tr>
+<td>Комитета по статистике</td>
+<td>Комитета по регулированию естественных монополий и защите конкуренции</td>
+<td>Комитета по делам строительства и жилищно-коммунального хозяйства</td>
+<td>Комитета по защите прав потребителей</td>
 <td>Комитета по делам спорта и физической культуры</td>
 </tr>
 <tr>
+<td>28</td>
+<td>29</td>
+<td>30</td>
 <td>31</td>
 <td>32</td>
 <td>33</td>
@@ -3757,32 +3916,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>35</td>
 <td>36</td>
 <td>37</td>
-<td>38</td>
-<td>39</td>
-<td>40</td>
-<td>41</td>
-<td>42</td>
-<td>43</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3805,29 +3940,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3841,61 +3955,115 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 </tr>
 </table>
 
-Форма № 3-К. Отчет о коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений
-
-Раздел 4. Сведения об осужденных, оправданных, лицах, дела в отношении которых прекращены судом, лицах в отношении которых применены принудительные меры медицинского характера и мерах наказания за коррупционные преступления
+Продолжение таблицы:
 
 <table>
 <tr>
-<td colspan="2">Таблица Б</td>
+<td colspan="10">в том числе из графы 1:</td>
+</tr>
+<tr>
+<td colspan="8">служащих государственных органов</td>
+<td rowspan="4">служащих прочих государственных структур</td>
+<td rowspan="4">иные</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="3">в том числе из графы 38</td>
+<td rowspan="2"></td>
+<td rowspan="3">Национального банка</td>
+<td rowspan="3">Счетного комитета по контролю за исполнением республиканского бюджета</td>
+<td rowspan="3">Служащие акиматов и их структурных подразделений</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
 </tr>
+<tr>
+<td>Министерства оборонной и аэрокосмической промышленности</td>
+<td>Комитета по информационной безопасности</td>
+<td>Аэрокосмический комитета</td>
+<td>Комитета по государственным материальным резервам</td>
+<td>Агентства по делам государственной службы и противодействию коррупции (без учета показателей графы 11)</td>
+</tr>
+<tr>
+<td>38</td>
+<td>39</td>
+<td>40</td>
+<td>41</td>
+<td>42</td>
+<td>43</td>
+<td>44</td>
+<td>45</td>
+<td>46</td>
+<td>47</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Отчет формы № 3-К «О коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений
+
+## Раздел 4. Сведения об осужденных, оправданных, лицах, дела в отношении которых прекращены судом, лицах в отношении которых применены принудительные меры медицинского характера и мерах наказания за коррупционные преступления Таблица Б
+
+<table>
 <tr>
 <td colspan="2" rowspan="3">Наименование</td>
 <td rowspan="3"></td>
 <td rowspan="3">Число лиц, уголовные дела в отношении которых прекращены судом</td>
 <td rowspan="3">в т.ч. по пунктам 1), 2), 5), 6), 7), 8) части 1 статьи 35 УПК РК (из графы 1)</td>
 <td rowspan="3">Число лиц, в отношении которых применены принудительные меры медицинского характера</td>
-<td rowspan="3">Ч и с л о о п р а в д а н н ы х</td>
-<td colspan="14">Основные меры наказания</td>
+<td rowspan="3">Число оправданных</td>
+<td colspan="13">
+Основные
+меры
+наказание
+</td>
 </tr>
 <tr>
-<td colspan="14">Лишение свободы</td>
+<td colspan="13">
+Лишение
+свободы
+</td>
 </tr>
 <tr>
-<td>д о 1 г о д а в к л ю ч и т е л ь н о</td>
-<td colspan="2">с в ы ш е 1 г о д а д о 3 л е т в к л ю ч и т е л ь н о</td>
-<td colspan="2">
-с в ы ш е
-3 л е т д о 5 л е т в к л ю ч и т е л ь н о
-</td>
-<td colspan="2">с в ы ш е 5 л е т д о 8 л е т в к л ю ч и т е л ь н о</td>
-<td colspan="2">
-с в ы ш е
-8 л е т д о 1 0 л е т в к л ю ч и т е л ь н о
-</td>
-<td colspan="2">
-с в ы ш е
-1 0
-л е т
-д о
-1 2
-л е т
-в к л ю ч и т е л ь н о
-</td>
-<td>с в ы ш е 1 2 л е т д о 1 5 л е т в к л ю ч и т е л ь н о</td>
-<td colspan="2">свыше 15 лет до 20 лет включительно</td>
+<td colspan="5">до 1 года включительно</td>
+<td colspan="4">свыше 1 года до 3 лет включительно</td>
+<td colspan="4">свыше 3 лет до 5 лет включительно</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3904,14 +4072,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>2</td>
 <td>3</td>
 <td>4</td>
-<td>5</td>
-<td colspan="2">6</td>
-<td colspan="2">7</td>
-<td colspan="2">8</td>
-<td colspan="2">9</td>
-<td colspan="2">10</td>
-<td>11</td>
-<td colspan="2">12</td>
+<td colspan="5">5</td>
+<td colspan="4">6</td>
+<td colspan="4">7</td>
 </tr>
 <tr>
 <td colspan="2">Всего</td>
@@ -3920,14 +4083,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td rowspan="21">из строки 1</td>
@@ -3937,14 +4095,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Мошенничество (п.2) ч.3 ст.190 УК РК)</td>
@@ -3953,14 +4106,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Лжепредпринимательство (п.3) ч.2 ст.215 УК РК)</td>
@@ -3969,14 +4117,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Совершение действий по выписке счета-фактуры без фактического выполнения работ, оказания услуг, отгрузки товаров (п.4) ч.2 ст.216 УК РК)</td>
@@ -3985,14 +4128,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Создание и руководство финансовой (инвестиционной) пирамидой (п.3) ч.3 ст.217 УК РК)</td>
@@ -4001,14 +4139,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Легализация (отмывание) денег и (или)иного имущества, полученных преступным путем (п.1) ч.3 ст.218 УК РК)</td>
@@ -4017,14 +4150,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Экономическая контрабанда (п.1) ч.3 ст.234 УК РК)</td>
@@ -4033,14 +4161,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Рейдерство (п.2) ч.3 ст.249 УК РК)</td>
@@ -4049,14 +4172,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Организация незаконного игорного бизнеса (п.3) ч.3 ст.307 УК РК)</td>
@@ -4065,14 +4183,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Злоупотребление должностными полномочиями (ст.361 УК РК)</td>
@@ -4081,14 +4194,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Превышение власти или должностных полномочий (п.3) ч.4 ст.362 УК РК)</td>
@@ -4097,14 +4205,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Незаконное участие в предпринимательской деятельности (ст.364 УК РК)</td>
@@ -4113,14 +4216,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Воспрепятствование законной предпринимательской деятельности (ст.365 УК РК)</td>
@@ -4129,14 +4227,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Получение взятки (ст.366 УК РК)</td>
@@ -4145,14 +4238,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Дача взятки (ст.367 УК РК)</td>
@@ -4161,14 +4249,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Посредничество во взяточничестве (ст.368 УК РК)</td>
@@ -4177,14 +4260,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Служебный подлог (ст.369 УК РК)</td>
@@ -4193,14 +4271,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Бездействие по службе (ст.370 УК РК)</td>
@@ -4209,14 +4282,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Злоупотребление властью (ст.450 УК РК)</td>
@@ -4225,14 +4293,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Превышение власти (п.2) ч.2 ст.451 УК РК )</td>
@@ -4241,14 +4304,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Бездействие власти (ст.452 УК РК)</td>
@@ -4257,31 +4315,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 </tr>
 </table>
 
@@ -4289,30 +4325,253 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 
 <table>
 <tr>
-<td colspan="10">Основные меры наказания</td>
-<td colspan="3">Дополнительные меры наказания</td>
+<td colspan="7">Основные меры наказание</td>
 </tr>
 <tr>
-<td colspan="4">Лишение свободы</td>
+<td colspan="7">Лишение свободы</td>
+</tr>
+<tr>
+<td>свыше 5 лет до 8 лет включительно</td>
+<td>свыше 8 лет до 10 лет включительно</td>
+<td>свыше 10 лет до 12 лет включительно</td>
+<td>свыше 12 лет до 15 лет включительно</td>
+<td>свыше 15 лет до 20 лет включительно</td>
+<td>свыше 20 лет до 25 лет включительно</td>
+<td>свыше 25 лет до 30 лет включительно</td>
+</tr>
+<tr>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Продолжение таблицы:
+
+<table>
+<tr>
+<td colspan="9">Основные меры наказание</td>
+<td colspan="4">Дополнительные меры наказания</td>
+</tr>
+<tr>
+<td colspan="2">Лишение свободы</td>
 <td rowspan="2">Ограничение свободы</td>
 <td rowspan="2">Исправительные работы</td>
-<td rowspan="2">Ш т р а ф</td>
+<td rowspan="2">Штраф</td>
 <td rowspan="2">Условное осуждение</td>
 <td rowspan="2">Отсрочка отбывания наказания</td>
 <td rowspan="2">Число осужденных, освобожденных по приговору от уголовной ответственности и наказания</td>
-<td rowspan="2">Лишение права занимать определенную должность или заниматься определенной деятельностью</td>
+<td colspan="2" rowspan="2">Лишение права занимать определенную должность или заниматься определенной деятельностью</td>
 <td rowspan="2">Лишение специального, воинского или почетного звания, классного чина, дипломатического ранга, квалификационного класса и государственных наград</td>
 <td rowspan="2">Конфискация имущества</td>
 </tr>
 <tr>
-<td>свыше 20 лет до 25 лет включительно</td>
-<td>свыше 25 лет до 30 лет включительно</td>
 <td>пожизненное лишение свободы</td>
 <td>Итого (сумма граф 5-15)</td>
 </tr>
 <tr>
-<td>13</td>
-<td>14</td>
 <td>15</td>
 <td>16</td>
 <td>17</td>
@@ -4321,7 +4580,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>20</td>
 <td>21</td>
 <td>22</td>
-<td>23</td>
+<td colspan="2">23</td>
 <td>24</td>
 <td>25</td>
 </tr>
@@ -4334,24 +4593,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 </tr>
@@ -4364,24 +4606,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 </tr>
@@ -4394,24 +4619,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 </tr>
@@ -4424,24 +4632,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 </tr>
@@ -4454,24 +4645,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 </tr>
@@ -4484,24 +4658,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 </tr>
@@ -4514,24 +4671,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 </tr>
@@ -4544,24 +4684,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 </tr>
@@ -4574,24 +4697,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 </tr>
@@ -4604,24 +4710,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 </tr>
@@ -4634,9 +4723,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 </tr>
@@ -4649,38 +4736,165 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 </tr>
 </table>
 
-Форма № 3-К. Отчет о коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений
+Отчет формы № 3-К «О коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений
 
-Раздел 4. Сведения об осужденных, оправданных, лицах, дела в отношении которых прекращены судом, лицах в отношении которых применены принудительные меры медицинского характера и мерах наказания за коррупционные преступления
-
-Таблица В
+## Раздел 4. Сведения об осужденных, оправданных, лицах, дела в отношении которых прекращены судом, лицах в отношении которых применены принудительные меры медицинского характера и мерах наказания за коррупционные преступления Таблица В
 
 <table>
 <tr>
 <td colspan="2" rowspan="4">Наименование</td>
 <td rowspan="4"></td>
 <td rowspan="4">Всего</td>
-<td colspan="7">в том числе из графы 1:</td>
+<td colspan="8">в том числе из графы 1:</td>
 </tr>
 <tr>
-<td colspan="7">сотрудников</td>
+<td colspan="8">Сотрудников</td>
 </tr>
 <tr>
 <td rowspan="2">органов внутренних дел (без учета показателей граф 3, 4 и 5)</td>
-<td rowspan="2">Национальной гвардии МВД</td>
+<td rowspan="2">Национальной гвардии Министерства внутренних дел (далее – МВД)</td>
 <td rowspan="2">Комитета уголовно - исполнительной системы МВД</td>
 <td rowspan="2">Комитета по чрезвычайным ситуациям МВД</td>
 <td rowspan="2">органов национальной безопасности (без учета показателей графы 7)</td>
-<td rowspan="2">Пограничной службы КНБ</td>
+<td rowspan="2">Пограничной службы Комитета национальной безопасности</td>
 <td rowspan="2">органов прокуратуры</td>
+<td rowspan="2">Национального бюро по противодействию коррупции Агентства по делам государственной службы и противодействию коррупции</td>
 </tr>
 <tr>
 </tr>
@@ -4695,10 +4909,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>6</td>
 <td>7</td>
 <td>8</td>
+<td>9</td>
 </tr>
 <tr>
 <td colspan="2">Всего лиц, осужденных за совершение коррупционных преступлений по делам, возбужденным по инициативе самого государственного органа среди своих работников</td>
 <td>1</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4720,10 +4936,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Мошенничество (п.2) ч.3 ст.190 УК РК)</td>
 <td>3</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4744,10 +4962,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Совершение действий по выписке счета-фактуры без фактического выполнения работ, оказания услуг, отгрузки товаров (п.4) ч.2 ст.216 УК РК)</td>
 <td>5</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4768,10 +4988,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Легализация (отмывание) денег и (или)иного имущества, полученных преступным путем (п.1) ч.3 ст.218 УК РК)</td>
 <td>7</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4792,10 +5014,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Рейдерство (п.2) ч.3 ст.249 УК РК)</td>
 <td>9</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4816,10 +5040,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Злоупотребление должностными полномочиями (ст.361 УК РК)</td>
 <td>11</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4840,10 +5066,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Незаконное участие в предпринимательской деятельности (ст.364 УК РК)</td>
 <td>13</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4864,10 +5092,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Получение взятки (ст.366 УК РК)</td>
 <td>15</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4888,10 +5118,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Посредничество во взяточничестве (ст.368 УК РК)</td>
 <td>17</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4912,6 +5144,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Бездействие по службе (ст.370 УК РК)</td>
@@ -4924,10 +5157,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Злоупотребление властью (ст.450 УК РК)</td>
 <td>20</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4948,10 +5183,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Бездействие власти (ст.452 УК РК)</td>
 <td>22</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4972,10 +5209,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2">Число лиц, уголовные дела в отношении которых прекращены судом</td>
 <td>24</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4996,6 +5235,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2">Число лиц, в отношении которых применены принудительные меры медицинского характера</td>
@@ -5008,6 +5248,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 </table>
 
@@ -5015,17 +5256,16 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 
 <table>
 <tr>
-<td colspan="13">в том числе из графы 1:</td>
+<td colspan="10">в том числе из графы 1:</td>
 </tr>
 <tr>
-<td colspan="7">сотрудников</td>
+<td colspan="6">Сотрудников</td>
 <td colspan="2" rowspan="3">судьи</td>
-<td colspan="2" rowspan="3">акимы</td>
-<td colspan="2" rowspan="3">депутаты</td>
+<td rowspan="3">акимы</td>
+<td rowspan="3">депутаты</td>
 </tr>
 <tr>
-<td rowspan="2">Национального бюро по противодействию коррупции МГС</td>
-<td rowspan="2">Комитета государственных доходов МФ</td>
+<td rowspan="2">Комитета государственных доходов Министерства финансов</td>
 <td>из графы 10</td>
 <td rowspan="2">Вооруженных сил</td>
 <td rowspan="2">Службы государственной охраны</td>
@@ -5035,7 +5275,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>службы экономических расследований</td>
 </tr>
 <tr>
-<td>9</td>
 <td>10</td>
 <td>11</td>
 <td>12</td>
@@ -5043,7 +5282,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>14</td>
 <td colspan="2">15</td>
 <td colspan="2">16</td>
-<td colspan="2">17</td>
+<td>17</td>
 </tr>
 <tr>
 <td></td>
@@ -5051,10 +5290,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5062,10 +5300,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5073,10 +5310,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5084,10 +5320,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5095,10 +5330,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5106,10 +5340,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5117,10 +5350,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5128,10 +5360,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5139,10 +5370,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5150,10 +5380,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5161,10 +5390,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5172,10 +5400,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5183,10 +5410,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5194,10 +5420,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5205,10 +5430,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5216,10 +5440,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5227,10 +5450,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5238,10 +5460,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5249,10 +5470,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5260,10 +5480,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5271,10 +5490,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5282,10 +5500,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5293,10 +5510,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5304,10 +5520,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5315,10 +5530,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5326,39 +5540,36 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="13">в том числе из графы 1:</td>
+<td colspan="10">в том числе из графы 1:</td>
 </tr>
 <tr>
-<td colspan="13">служащих государственных органов</td>
+<td colspan="10">служащих государственных органов</td>
 </tr>
 <tr>
-<td rowspan="2">Министерства юстиции</td>
-<td>из графы 18</td>
-<td rowspan="2">Министерства иностранных дел</td>
-<td rowspan="2">Министерства финансов (без учета показателей графы 10)</td>
-<td rowspan="2">Министерства сельского хозяйства</td>
-<td>из графы 22</td>
-<td rowspan="2">Министерства здравоохранения и социального развития</td>
-<td rowspan="2">Министерства образования и науки</td>
-<td rowspan="2">Министерства национальной экономики</td>
-<td colspan="4">из графы 26</td>
+<td rowspan="3">Министерства юстиции</td>
+<td rowspan="2">из графы 18</td>
+<td rowspan="3">Министерства иностранных дел</td>
+<td rowspan="3">Министерства финансов (без учета показателей графы 10)</td>
+<td rowspan="3">Министерства сельского хозяйства</td>
+<td rowspan="2">из графы 22</td>
+<td rowspan="3">Министерства здравоохранения</td>
+<td rowspan="3">Министерства труда и социальной защиты населения</td>
+<td rowspan="3">Министерства образования и науки</td>
+<td rowspan="3">Министерства национальной экономики</td>
 </tr>
 <tr>
-<td>Департамента по исполнению судебных актов МЮ</td>
+</tr>
+<tr>
+<td>Департамента по исполнению судебных актов</td>
 <td>Комитет по управлению земельными ресурсами</td>
-<td>Комитета по статистике</td>
-<td>Комитета по регулированию естественных монополий и защите конкуренции</td>
-<td>Комитета по делам строительства и жилищно-коммунального хозяйства</td>
-<td>Комитета по защите прав потребителей</td>
 </tr>
 <tr>
 <td>18</td>
@@ -5371,29 +5582,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>25</td>
 <td>26</td>
 <td>27</td>
-<td>28</td>
-<td>29</td>
-<td>30</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5416,29 +5606,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5456,31 +5625,33 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 
 <table>
 <tr>
-<td colspan="13">в том числе из графы 1:</td>
+<td colspan="10">в том числе из графы 1:</td>
 </tr>
 <tr>
-<td colspan="11">служащих государственных органов</td>
-<td rowspan="3">служащих прочих государственных структур</td>
-<td rowspan="3">иные</td>
+<td colspan="10">служащих государственных органов</td>
 </tr>
 <tr>
-<td rowspan="2">Министерства по инвестициям и развитию</td>
-<td>из графы 31</td>
-<td rowspan="2">Министерства энергетики</td>
-<td rowspan="2">Министерства культуры и спорта</td>
-<td colspan="2">из графы 34</td>
-<td rowspan="2">Министерства по делам государственной службы (без учета показателей графы 9)</td>
-<td rowspan="2">Министерства информации и коммуникаций</td>
-<td rowspan="2">Национального банка</td>
-<td rowspan="2">Счетного комитета по контролю за исполнением республиканского бюджета</td>
-<td rowspan="2">Служащие акиматов и их структурных подразделений</td>
+<td colspan="4" rowspan="2">из графы 27</td>
+<td rowspan="3">Министерства по инвестициям и развитию</td>
+<td rowspan="3">Министерства энергетики</td>
+<td rowspan="3">Министерства культуры и спорта</td>
+<td rowspan="2">из графы 34</td>
+<td rowspan="3">Министерства информации и коммуникаций</td>
+<td rowspan="3">Министерства по делам религий и гражданского общества</td>
 </tr>
 <tr>
-<td>Аэрокосмического комитета</td>
-<td>Комитета по делам религий</td>
+</tr>
+<tr>
+<td>Комитета по статистике</td>
+<td>Комитета по регулированию естественных монополий и защите конкуренции</td>
+<td>Комитета по делам строительства и жилищно-коммунального хозяйства</td>
+<td>Комитета по защите прав потребителей</td>
 <td>Комитета по делам спорта и физической культуры</td>
 </tr>
 <tr>
+<td>28</td>
+<td>29</td>
+<td>30</td>
 <td>31</td>
 <td>32</td>
 <td>33</td>
@@ -5488,32 +5659,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>35</td>
 <td>36</td>
 <td>37</td>
-<td>38</td>
-<td>39</td>
-<td>40</td>
-<td>41</td>
-<td>42</td>
-<td>43</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5536,29 +5683,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5572,30 +5698,110 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 </tr>
 </table>
 
-Форма № 3-К. Отчет о коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений
+Продолжение таблицы:
 
-Раздел 5. Сведения о субъектах коррупционных правонарушений, привлеченных к административной ответственности за период с ________ по ________
+<table>
+<tr>
+<td colspan="11">в том числе из графы 1:</td>
+</tr>
+<tr>
+<td colspan="8">служащих государственных органов</td>
+<td rowspan="4">служащих прочих государственных структур</td>
+<td colspan="2" rowspan="4">иные</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="3">в том числе из графы 38</td>
+<td rowspan="2"></td>
+<td rowspan="3">Национального банка</td>
+<td rowspan="3">Счетного комитета по контролю за исполнением республиканского бюджета</td>
+<td rowspan="3">Служащие акиматов и их структурных подразделений</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Министерства оборонной и аэрокосмической промышленности</td>
+<td>Комитета по информационной безопасности</td>
+<td>Аэрокосмический комитета</td>
+<td>Комитета по государственным материальным резервам</td>
+<td>Агентства по делам государственной службы и противодействию коррупции (без учета показателей графы 11)</td>
+</tr>
+<tr>
+<td>38</td>
+<td>39</td>
+<td>40</td>
+<td>41</td>
+<td>42</td>
+<td>43</td>
+<td>44</td>
+<td>45</td>
+<td>46</td>
+<td>47</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-Таблица А (с нарастающим периодом, с 2015 года)
+Отчет формы № 3-К «О коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений
+
+## Раздел 5. Сведения о субъектах коррупционных правонарушений, привлеченных к административной ответственности за период с ________ по ________ Таблица А (с нарастающим периодом, с 2015 года)
 
 <table>
 <tr>
 <td rowspan="4">Наименование</td>
 <td rowspan="4"></td>
 <td rowspan="4">Всего</td>
-<td colspan="7">в том числе из графы 1:</td>
+<td colspan="8">в том числе из 1 графы:</td>
 </tr>
 <tr>
-<td colspan="7">сотрудников</td>
+<td colspan="8">Сотрудников</td>
 </tr>
 <tr>
 <td rowspan="2">органов внутренних дел (без учета показателей граф 3, 4 и 5)</td>
-<td rowspan="2">Национальной гвардии МВД</td>
+<td rowspan="2">Национальной гвардии Министерства внутренних дел (далее – МВД)</td>
 <td rowspan="2">Комитета уголовно - исполнительной системы МВД</td>
 <td rowspan="2">Комитета по чрезвычайным ситуациям МВД</td>
 <td rowspan="2">органов национальной безопасности (без учета показателей графы 7)</td>
-<td rowspan="2">Пограничной службы КНБ</td>
+<td rowspan="2">Пограничной службы Комитета национальной безопасности</td>
 <td rowspan="2">органов прокуратуры</td>
+<td rowspan="2">Национального бюро по противодействию коррупции Агентства по делам государственной службы и противодействию коррупции</td>
 </tr>
 <tr>
 </tr>
@@ -5610,10 +5816,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>6</td>
 <td>7</td>
 <td>8</td>
+<td>9</td>
 </tr>
 <tr>
 <td>г.Астана</td>
 <td>1</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5634,10 +5842,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Актюбинская область</td>
 <td>3</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5658,10 +5868,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Алматинская область</td>
 <td>5</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5682,10 +5894,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Восточно-Казахстанская область</td>
 <td>7</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5706,10 +5920,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Западно-Казахстанская область</td>
 <td>9</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5730,10 +5946,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Кызылординская область</td>
 <td>11</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5754,10 +5972,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Мангистауская область</td>
 <td>13</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5778,10 +5998,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Северо-Казахстанская область</td>
 <td>15</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5802,10 +6024,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Транспортный регион</td>
 <td>18</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5826,10 +6050,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Всего по Республике Казахстан</td>
 <td>19</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5845,17 +6071,16 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 
 <table>
 <tr>
-<td colspan="9">в том числе из графы 1:</td>
+<td colspan="8">в том числе из 1 графы:</td>
 </tr>
 <tr>
-<td colspan="6">сотрудников</td>
+<td colspan="5">Сотрудников</td>
 <td rowspan="3">судьи</td>
 <td rowspan="3">акимы</td>
 <td rowspan="3">депутаты</td>
 </tr>
 <tr>
-<td rowspan="2">Национального бюро по противодействию коррупции МГС</td>
-<td rowspan="2">Комитета государственных доходов МФ</td>
+<td rowspan="2">Комитета государственных доходов Министерства финансов</td>
 <td>из графы 10</td>
 <td rowspan="2">Вооруженных сил</td>
 <td rowspan="2">Службы государственной охраны</td>
@@ -5865,7 +6090,6 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>службы экономических расследований</td>
 </tr>
 <tr>
-<td>9</td>
 <td>10</td>
 <td>11</td>
 <td>12</td>
@@ -5884,21 +6108,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5917,21 +6128,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5950,21 +6148,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5983,21 +6168,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6016,21 +6188,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6049,6 +6208,15 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -6060,6 +6228,15 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -6071,10 +6248,38 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -6088,30 +6293,31 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 
 <table>
 <tr>
-<td colspan="13">в том числе из графы 1:</td>
+<td colspan="10">в том числе из графы 1:</td>
 </tr>
 <tr>
-<td colspan="13">служащих государственных органов</td>
+<td colspan="10">служащих государственных органов</td>
 </tr>
 <tr>
-<td rowspan="2">Министерства юстиции</td>
-<td>из графы 18</td>
-<td rowspan="2">Министерства иностранных дел</td>
-<td rowspan="2">Министерства финансов (без учета показателей графы 10)</td>
-<td rowspan="2">Министерства сельского хозяйства</td>
-<td>из графы 22</td>
-<td rowspan="2">Министерства здравоохранения и социального развития</td>
-<td rowspan="2">Министерства образования и науки</td>
-<td rowspan="2">Министерства национальной экономики</td>
-<td colspan="4">из графы 26</td>
+<td rowspan="3">Министерства юстиции</td>
+<td rowspan="2">из графы 18</td>
+<td rowspan="3">Министерства иностранных дел</td>
+<td rowspan="3">Министерства финансов (без учета показателей графы 10)</td>
+<td rowspan="3">Министерства сельского хозяйства</td>
+<td rowspan="2">
+из гра
+фы 22
+</td>
+<td rowspan="3">Министерства здравоохранения</td>
+<td rowspan="3">Министерства труда и социальной защиты населения</td>
+<td rowspan="3">Министерства образования и науки</td>
+<td rowspan="3">Министерства национальной экономики</td>
 </tr>
 <tr>
-<td>Департамента по исполнению судебных актов МЮ</td>
+</tr>
+<tr>
+<td>Департамента по исполнению судебных актов</td>
 <td>Комитет по управлению земельными ресурсами</td>
-<td>Комитета по статистике</td>
-<td>Комитета по регулированию естественных монополий и защите конкуренции</td>
-<td>Комитета по делам строительства, жилищно-коммунального хозяйства</td>
-<td>Комитета по защите прав потребителей</td>
 </tr>
 <tr>
 <td>18</td>
@@ -6124,44 +6330,85 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>25</td>
 <td>26</td>
 <td>27</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Продолжение таблицы
+
+<table>
+<tr>
+<td colspan="10">в том числе из графы 1:</td>
+</tr>
+<tr>
+<td colspan="10">служащих государственных органов</td>
+</tr>
+<tr>
+<td colspan="4" rowspan="2">из графы 27</td>
+<td rowspan="3">Министерства по инвестициям и развитию</td>
+<td rowspan="3">Министерства энергетики</td>
+<td rowspan="3">Министерства культуры и спорта</td>
+<td rowspan="2">из графы 34</td>
+<td rowspan="3">Министерства информации и коммуникаций</td>
+<td rowspan="3">Министерства по делам религий и гражданского общества</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>Комитета по статистике</td>
+<td>Комитета по регулированию естественных монополий и защите конкуренции</td>
+<td>Комитета по делам строительства и жилищно-коммунального хозяйства</td>
+<td>Комитета по защите прав потребителей</td>
+<td>Комитета по делам спорта и физической культуры</td>
+</tr>
+<tr>
 <td>28</td>
 <td>29</td>
 <td>30</td>
+<td>31</td>
+<td>32</td>
+<td>33</td>
+<td>34</td>
+<td>35</td>
+<td>36</td>
+<td>37</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6184,14 +6431,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6209,64 +6450,46 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 
 <table>
 <tr>
-<td colspan="13">в том числе из графы 1:</td>
+<td colspan="10">в том числе из графы 1:</td>
 </tr>
 <tr>
-<td colspan="11">служащих государственных органов</td>
-<td rowspan="3">служащих прочих государственных структур</td>
-<td rowspan="3">иные</td>
+<td colspan="8">служащих государственных органов</td>
+<td rowspan="4">служащих прочих государственных структур</td>
+<td rowspan="4">иные</td>
 </tr>
 <tr>
-<td rowspan="2">Министерства по инвестициям и развитию</td>
-<td>из графы 31</td>
-<td rowspan="2">Министерства энергетики</td>
-<td rowspan="2">Министерства культуры и спорта</td>
-<td colspan="2">из графы 34</td>
-<td rowspan="2">Министерства по делам государственной службы (без учета показателей графы 9)</td>
-<td rowspan="2">Министерства информации и коммуникаций</td>
-<td rowspan="2">Национального банка</td>
-<td rowspan="2">Счетного комитета по контролю за исполнением республиканского бюджета</td>
-<td rowspan="2">Служащие акиматов и их структурных подразделений</td>
+<td rowspan="2"></td>
+<td colspan="3">в том числе из графы 38</td>
+<td rowspan="2"></td>
+<td rowspan="3">Национального банка</td>
+<td rowspan="3">Счетного комитета по контролю за исполнением республиканского бюджета</td>
+<td rowspan="3">Служащие акиматов и их структурных подразделений</td>
 </tr>
 <tr>
-<td>Аэрокосмического комитета</td>
-<td>Комитета по делам религий</td>
-<td>Комитета по делам спорта и физической культуры</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>31</td>
-<td>32</td>
-<td>33</td>
-<td>34</td>
-<td>35</td>
-<td>36</td>
-<td>37</td>
+<td>Министерства оборонной и аэрокосмической промышленности</td>
+<td>Комитета по информационной безопасности</td>
+<td>Аэрокосмический комитета</td>
+<td>Комитета по государственным материальным резервам</td>
+<td>Агентства по делам государственной службы и противодействию коррупции (без учета показателей графы 11)</td>
+</tr>
+<tr>
 <td>38</td>
 <td>39</td>
 <td>40</td>
 <td>41</td>
 <td>42</td>
 <td>43</td>
+<td>44</td>
+<td>45</td>
+<td>46</td>
+<td>47</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6289,29 +6512,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6325,30 +6527,29 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 </tr>
 </table>
 
-Форма № 3-К. Отчет о коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений
+Отчет формы № 3-К «О коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений
 
-Раздел 5. Сведения о субъектах коррупционных правонарушений, привлеченных к административной ответственности за период с ________ по ________
-
-Таблица Б (показатели отчетного периода)
+## Раздел 5. Сведения о субъектах коррупционных правонарушений, привлеченных к административной ответственности за период с ________ по ________ Таблица Б (показатели отчетного периода)
 
 <table>
 <tr>
 <td rowspan="4">Наименование</td>
 <td rowspan="4"></td>
 <td rowspan="4">Всего</td>
-<td colspan="7">в том числе из графы 1:</td>
+<td colspan="8">в том числе из графы 1:</td>
 </tr>
 <tr>
-<td colspan="7">сотрудников</td>
+<td colspan="8">сотрудников</td>
 </tr>
 <tr>
 <td rowspan="2">органов внутренних дел (без учета показателей граф 3, 4 и 5)</td>
-<td rowspan="2">Национальной гвардии МВД</td>
+<td rowspan="2">Национальной гвардии Министерства внутренних дел (далее – МВД)</td>
 <td rowspan="2">Комитета уголовно - исполнительной системы МВД</td>
 <td rowspan="2">Комитета по чрезвычайным ситуациям МВД</td>
 <td rowspan="2">органов национальной безопасности (без учета показателей графы 7)</td>
-<td rowspan="2">Пограничной службы КНБ</td>
+<td rowspan="2">Пограничной службы Комитета национальной безопасности</td>
 <td rowspan="2">органов прокуратуры</td>
+<td rowspan="2">Национального бюро по противодействию коррупции Агентства по делам государственной службы и противодействию коррупции</td>
 </tr>
 <tr>
 </tr>
@@ -6363,10 +6564,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>6</td>
 <td>7</td>
 <td>8</td>
+<td>9</td>
 </tr>
 <tr>
 <td>г.Астана</td>
 <td>1</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6387,10 +6590,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Актюбинская область</td>
 <td>3</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6411,10 +6616,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Алматинская область</td>
 <td>5</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6435,10 +6642,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Восточно-Казахстанская область</td>
 <td>7</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6459,10 +6668,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Западно-Казахстанская область</td>
 <td>9</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6483,10 +6694,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Кызылординская область</td>
 <td>11</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6507,10 +6720,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Мангистауская область</td>
 <td>13</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6531,10 +6746,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Северо-Казахстанская область</td>
 <td>15</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6555,10 +6772,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Транспортный регион</td>
 <td>18</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6579,10 +6798,12 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Всего по Республике Казахстан</td>
 <td>19</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6598,27 +6819,25 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 
 <table>
 <tr>
-<td colspan="9">в том числе из графы 1:</td>
+<td colspan="8">в том числе из графы 1:</td>
 </tr>
 <tr>
-<td colspan="6">сотрудников</td>
+<td colspan="5">сотрудников</td>
 <td rowspan="3">судьи</td>
 <td rowspan="3">акимы</td>
 <td rowspan="3">депутаты</td>
 </tr>
 <tr>
-<td rowspan="2">Национального бюро по противодействию коррупции МГС</td>
-<td rowspan="2">Комитета государственных доходов МФ</td>
+<td rowspan="2">Комитета государственных доходов Министерства финансов</td>
 <td>из графы 10</td>
 <td rowspan="2">Вооруженных сил</td>
 <td rowspan="2">Службы государственной охраны</td>
 <td rowspan="2">Службы внешней разведки «Сырбар»</td>
 </tr>
 <tr>
-<td>службы экономи ческих расследо ваний</td>
+<td>службы экономичес -ких расследований</td>
 </tr>
 <tr>
-<td>9</td>
 <td>10</td>
 <td>11</td>
 <td>12</td>
@@ -6637,21 +6856,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6670,21 +6876,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6703,21 +6896,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6736,21 +6916,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6769,21 +6936,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6802,6 +6956,15 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -6813,6 +6976,15 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -6824,10 +6996,48 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -6841,30 +7051,28 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 
 <table>
 <tr>
-<td colspan="13">в том числе из графы 1:</td>
+<td colspan="10">в том числе из графы 1:</td>
 </tr>
 <tr>
-<td colspan="13">служащих государственных органов</td>
+<td colspan="10">служащих государственных органов</td>
 </tr>
 <tr>
-<td rowspan="2">Министерства юстиции</td>
-<td>из графы 18</td>
-<td rowspan="2">Министерства иностранных дел</td>
-<td rowspan="2">Министерства финансов (без учета показателей графы 10)</td>
-<td rowspan="2">Министерства сельского хозяйства</td>
-<td>из графы 22</td>
-<td rowspan="2">Министерства здравоохранения и социального развития</td>
-<td rowspan="2">Министерства образования и науки</td>
-<td rowspan="2">Министерства национальной экономики</td>
-<td colspan="4">из графы 26</td>
+<td rowspan="3">Министерства юстиции</td>
+<td rowspan="2">из графы 18</td>
+<td rowspan="3">Министерства иностранных дел</td>
+<td rowspan="3">Министерства финансов (без учета показателей графы 10)</td>
+<td rowspan="3">Министерства сельского хозяйства</td>
+<td rowspan="2">из графы 22</td>
+<td rowspan="3">Министерства здравоохранения</td>
+<td rowspan="3">Министерства труда и социальной защиты населения</td>
+<td rowspan="3">Министерства образования и науки</td>
+<td rowspan="3">Министерства национальной экономики</td>
 </tr>
 <tr>
-<td>Департамента по исполнению судебных актов МЮ</td>
+</tr>
+<tr>
+<td>Департамента по исполнению судебных актов</td>
 <td>Комитет по управлению земельными ресурсами</td>
-<td>Комитета по статистике</td>
-<td>Комитета по регулированию естественных монополий и защите конкуренции</td>
-<td>Комитета по делам строительства, жилищно-коммунального хозяйства</td>
-<td>Комитета по защите прав потребителей</td>
 </tr>
 <tr>
 <td>18</td>
@@ -6877,43 +7085,87 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>25</td>
 <td>26</td>
 <td>27</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Продолжение таблицы:
+
+<table>
+<tr>
+<td colspan="11">в том числе из графы 1:</td>
+</tr>
+<tr>
+<td colspan="11">служащих государственных органов</td>
+</tr>
+<tr>
+<td colspan="4" rowspan="2">из графы 27</td>
+<td rowspan="3">Министерства по инвестициям и развитию</td>
+<td rowspan="3">Министерства энергетики</td>
+<td rowspan="3">Министерства культуры и спорта</td>
+<td rowspan="2">из графы 34</td>
+<td rowspan="3">Министерства информации и коммуникаций</td>
+<td rowspan="3">Министерства по делам религий и гражданского общества</td>
+<td rowspan="3">Министерства оборонной и аэрокосмической промышленности</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>Комитета по статистике</td>
+<td>Комитета по регулированию естественных монополий и защите конкуренции</td>
+<td>Комитета по делам строительства, жилищно-коммунального хозяйства</td>
+<td>Комитета по защите прав потребителей</td>
+<td>Комитета по делам спорта и физической культуры</td>
+</tr>
+<tr>
 <td>28</td>
 <td>29</td>
 <td>30</td>
+<td>31</td>
+<td>32</td>
+<td>33</td>
+<td>34</td>
+<td>35</td>
+<td>36</td>
+<td>37</td>
+<td>38</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6938,12 +7190,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6962,65 +7210,37 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 
 <table>
 <tr>
-<td colspan="13">в том числе из графы 1:</td>
+<td colspan="9">в том числе из графы 1:</td>
 </tr>
 <tr>
-<td colspan="11">служащих государственных органов</td>
+<td colspan="7">служащих государственных органов</td>
 <td rowspan="3">служащих прочих государственных структур</td>
 <td rowspan="3">иные</td>
 </tr>
 <tr>
-<td rowspan="2">Министерства по инвестициям и развитию</td>
-<td>из графы 31</td>
-<td rowspan="2">Министерства энергетики</td>
-<td rowspan="2">Министерства культуры и спорта</td>
-<td colspan="2">из графы 34</td>
-<td rowspan="2">Министерства по делам государственной службы (без учета показателей графы 9)</td>
-<td rowspan="2">Министерства информации и коммуникаций</td>
+<td colspan="3">из графы 38</td>
+<td rowspan="2">Агентства по делам государственной службы и противодействию коррупции (без учета показателей графы 9)</td>
 <td rowspan="2">Национального банка</td>
 <td rowspan="2">Счетного комитета по контролю за исполнением республиканского бюджета</td>
 <td rowspan="2">Служащие акиматов и их структурных подразделений</td>
 </tr>
 <tr>
-<td>Аэрокосмического комитета</td>
-<td>Комитета по делам религий</td>
-<td>Комитета по делам спорта и физической культуры</td>
+<td>Комитета по информационной безопасности</td>
+<td>Аэрокосмического Комитета</td>
+<td>Комитета по государственным материальным резервам</td>
 </tr>
 <tr>
-<td>31</td>
-<td>32</td>
-<td>33</td>
-<td>34</td>
-<td>35</td>
-<td>36</td>
-<td>35</td>
-<td>38</td>
 <td>39</td>
 <td>40</td>
 <td>41</td>
 <td>42</td>
 <td>43</td>
+<td>44</td>
+<td>45</td>
+<td>46</td>
+<td>47</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7041,31 +7261,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7078,22 +7275,19 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 </tr>
 </table>
 
-Форма № 3-К. Отчет о коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений
+Отчет формы № 3-К «О коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений
 
-Раздел 5 - 1. Сведения о субъектах коррупционных правонарушений, возбудивших дела об административных коррупционных правонарушениях (статьи 676-681 Кодекса РК об административных правонарушениях) в разрезе по статьям с ____ по ______
+## Раздел 5 - 1. Сведения о субъектах коррупционных правонарушений, возбудивших дела об административных коррупционных правонарушениях (статьи 676-681 Кодекса Республики Казахстан об административных правонарушениях) в разрезе по статьям с ____ по ______
 
 <table>
 <tr>
 <td colspan="2">Наименование</td>
 <td></td>
 <td>Всего</td>
-<td>военная полиция Вооруженных Сил</td>
-<td>военная полиция Комитета национальной безопасности</td>
-<td>
-военная полиция Националь-
-ной гвардии МВД
-</td>
-<td>Министерство по делам государственной службы</td>
+<td>Военная полиция Вооруженных Сил</td>
+<td>Военная полиция Комитета национальной безопасности</td>
+<td>военная полиция Националь- ной гвардии Министерства внутренних дел</td>
+<td>Национальное бюро по противодействию коррупции Агентства по делам государственной службы и противодействию коррупции</td>
 <td>Прокуратура</td>
 </tr>
 <tr>
@@ -7107,7 +7301,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td>6</td>
 </tr>
 <tr>
-<td colspan="2">Административные коррупционные правонарушения (глава 34 КРКоАП)</td>
+<td colspan="2">Административные коррупционные правонарушения (глава 34 Кодекса Республики Казахстан об административных правонарушениях (далее - КРКоАП)</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -7117,10 +7311,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td colspan="2">
-Предоставление незаконного материального
-вознаграждения физическими лицами (ст.676 КРКоАП)
-</td>
+<td colspan="2">Предоставление незаконного материального вознаграждения физическими лицами (ст.676 КРКоАП)</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -7130,11 +7321,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td colspan="2">
-Получение незаконного материального вознаграждения
-лицом, уполномоченным на выполнение
-государственных функций, либо приравненным к нему лицом (ст. 677 КРКоАП)
-</td>
+<td colspan="2">Получение незаконного материального вознаграждения лицом, уполномоченным на выполнение государственных функций, либо приравненным к нему лицом (ст. 677 КРКоАП)</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -7144,11 +7331,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td colspan="2">
-Предоставление незаконного материального
-вознаграждения юридическими лицами
-(ст.678 КРКоАП)
-</td>
+<td colspan="2">Предоставление незаконного материального вознаграждения юридическими лицами (ст.678 КРКоАП)</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -7189,10 +7372,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td colspan="2">
-Непринятие мер руководителями государственных
-органов по борьбе с коррупцией (ст.680 КРКоАП)
-</td>
+<td colspan="2">Непринятие мер руководителями государственных органов по борьбе с коррупцией (ст.680 КРКоАП)</td>
 <td>8</td>
 <td></td>
 <td></td>
@@ -7202,10 +7382,7 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td></td>
 </tr>
 <tr>
-<td colspan="2">
-Принятие на работу лиц, ранее совершивших
-коррупционное преступление (ст. 681 КРКоАП)
-</td>
+<td colspan="2">Принятие на работу лиц, ранее совершивших коррупционное преступление (ст. 681 КРКоАП)</td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -7216,9 +7393,9 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 </tr>
 </table>
 
-Форма № 3-К. Отчет о коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений
+Отчет формы № 3-К «О коррупционных преступлениях, лицах их совершивших, осужденных и движении уголовных дел о коррупционных преступлениях и о субъектах коррупционных правонарушений
 
-Раздел 5 - 2. Сведения о субъектах коррупционных правонарушений, возбудивших дела об административных коррупционных правонарушениях (статьи 676-681 Кодекса РК об административных правонарушениях) в разрезе по областям с ____ по ______
+## Раздел 5 - 2. Сведения о субъектах коррупционных правонарушений, возбудивших дела об административных коррупционных правонарушениях (статьи 676-681 Кодекса Республики Казахстан об административных правонарушениях) в разрезе по областям с ____ по ______
 
 <table>
 <tr>
@@ -7227,8 +7404,8 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 <td rowspan="4">Всего</td>
 <td rowspan="4">Военная полиция Вооруженных Сил</td>
 <td rowspan="4">Военная полиция Комитета национальной безопасности</td>
-<td rowspan="4">Военная полиция Национальной гвардии МВД</td>
-<td rowspan="4">Министерство по делам государственной службы</td>
+<td rowspan="4">Военная полиция Национальной гвардии Министерства внутренних дел</td>
+<td rowspan="4">Национальное бюро по противодействию коррупции Агентства по делам государственной службы и противодействию коррупции</td>
 <td rowspan="4">Прокуратура</td>
 </tr>
 <tr>
@@ -7514,7 +7691,19 @@ source: https://zan.gov.kz/client/#!/doc/105713/rus/14.07.2016
 
 7. Раздел 2 содержит сведения о преступлениях, по которым начато досудебное расследование в отношении лиц, уполномоченных на выполнение государственных функций, и лиц, приравненных к ним.
 
-   В строке 1 отражается общее количество коррупционных преступлений, из них в строках 2-5 коррупционные преступления указываются с разбивкой по тяжести преступления, в строке 6 – выявленные по инициативе самого государственного органа. Из строки 1 в строках 7-27 раздела указываются преступления, отнесенные к коррупционным в соответствии с УК РК. В этой строке не учитываются преступления, уголовные дела по которым прекращены по пунктам 1), 2), 5), 6), 7), 8) части 1 статьи 35 УПК РК и переданные по подследственности со снятием с учета. В строке 28 отражаются преступления, дела по которым прекращены по основаниям, предусмотренным пунктами 1), 2), 5), 6), 7), 8) части 1 статьи 35 УПК РК. В строке 29 отражаются преступления, переквалифицированные на статьи УК РК, не входящие в перечень коррупционных.
+   В строке 1 отражается общее количество коррупционных преступлений, из них в строках 2-5 коррупционные преступления указываются с разбивкой по тяжести преступления, в строке 6 – выявленные по инициативе самого государственного органа.
+
+   Из строки 1 в строках 7-27 раздела указываются преступления, отнесенные к коррупционным в соответствии с УК РК.
+
+   В этой строке не учитываются преступления, уголовные дела по которым прекращены по пунктам 1), 2), 5), 6), 7), 8) части 1 статьи 35 УПК РК и переданные по подследственности со снятием с учета.
+
+   В строке 28 отражаются преступления, дела по которым прекращены по основаниям, предусмотренным пунктами 1), 2), 5), 6), 7), 8) части 1 статьи 35 УПК РК.
+
+   В строке 29 отражаются преступления, переквалифицированные на статьи УК РК, не входящие в перечень коррупционных.
+
+   Сведения о количестве коррупционных преступлений в отношении лиц, по которым начато досудебное расследование, учитываются в отчетном периоде единожды, то есть если в отношении лица вынесено процессуальное решение в предыдущем отчетном периоде, то в последующем отчетном периоде такое лицо не учитывается.
+
+> *Сноска. Пункт 7 в редакции приказа Генерального прокурора РК от 25.04.2017 № 43 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 8. В графе 1 раздела 3 учитывается количество лиц, в отношении которых вынесено постановление о признании подозреваемым в совершении коррупционного преступления в отчетном периоде. В графе 2 указывается число лиц, совершивших коррупционные преступления, в отношении которых уголовные дела впервые направлены в суд или прекращены по основаниям, предусмотренным пунктами 3), 4), 9), 10), 11), 12) части 1 статьи 35 и статьи 36 УПК РК в данном отчетном периоде. Из них в графе 3 выделяются лица, уголовные дела в отношении которых направлены в суд. Данные из графы 3 распределяются по лицам, уполномоченным на выполнение государственных функций, и лицам, приравненным к ним, в графах 4-44.
 
