@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/90931/kaz/25.02.2015
+source: https://zan.gov.kz/client/#!/doc/90931/kaz/24.05.2017
 ---
 
 # Бағалау қызметiнiң кейбiр мәселелерi туралы
