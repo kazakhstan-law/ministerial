@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/90572/kaz/14.12.2016
+source: https://zan.gov.kz/client/#!/doc/90572/kaz/14.06.2017
 ---
 
 # Электр желілік қағидаларды бекiту туралы
