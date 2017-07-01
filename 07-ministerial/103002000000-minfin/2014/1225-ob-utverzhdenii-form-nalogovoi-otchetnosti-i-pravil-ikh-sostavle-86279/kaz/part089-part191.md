@@ -125,535 +125,549 @@
 <table>
 <tr>
 <td>0001</td>
-<td>Сутегі</td>
+<td colspan="2">Сутегі</td>
 </tr>
 <tr>
 <td>0002</td>
-<td>Гелий</td>
+<td colspan="2">Гелий</td>
 </tr>
 <tr>
 <td>0003</td>
-<td>Литий</td>
+<td colspan="2">Литий</td>
 </tr>
 <tr>
 <td>0004</td>
-<td>Бериллий</td>
+<td colspan="2">Бериллий</td>
 </tr>
 <tr>
 <td>0005</td>
-<td>Бор</td>
+<td colspan="2">Бор</td>
 </tr>
 <tr>
 <td>0006</td>
-<td>Көміртегі</td>
+<td colspan="2">Көміртегі</td>
 </tr>
 <tr>
 <td>0007</td>
-<td>Азот</td>
+<td colspan="2">Азот</td>
 </tr>
 <tr>
 <td>0008</td>
-<td>Оттегі</td>
+<td colspan="2">Оттегі</td>
 </tr>
 <tr>
 <td>0009</td>
-<td>Фтор</td>
+<td colspan="2">Фтор</td>
 </tr>
 <tr>
 <td>0010</td>
-<td>Неон</td>
+<td colspan="2">Неон</td>
 </tr>
 <tr>
 <td>0011</td>
-<td>Натрий</td>
+<td colspan="2">Натрий</td>
 </tr>
 <tr>
 <td>0012</td>
-<td>Магний</td>
+<td colspan="2">Магний</td>
 </tr>
 <tr>
 <td>0013</td>
-<td>Алюминий</td>
+<td colspan="2">Алюминий</td>
 </tr>
 <tr>
 <td>0014</td>
-<td>Кремний</td>
+<td colspan="2">Кремний</td>
 </tr>
 <tr>
 <td>0015</td>
-<td>Фосфор</td>
+<td colspan="2">Фосфор</td>
 </tr>
 <tr>
 <td>0016</td>
-<td>Күкірт</td>
+<td colspan="2">Күкірт</td>
 </tr>
 <tr>
 <td>0017</td>
-<td>Хлор</td>
+<td colspan="2">Хлор</td>
 </tr>
 <tr>
 <td>0018</td>
-<td>Аргон</td>
+<td colspan="2">Аргон</td>
 </tr>
 <tr>
 <td>0019</td>
-<td>Калий</td>
+<td colspan="2">Калий</td>
 </tr>
 <tr>
 <td>0020</td>
-<td>Кальций</td>
+<td colspan="2">Кальций</td>
 </tr>
 <tr>
 <td>0021</td>
-<td>Скандий</td>
+<td colspan="2">Скандий</td>
 </tr>
 <tr>
 <td>0022</td>
-<td>Титан</td>
+<td colspan="2">Титан</td>
 </tr>
 <tr>
 <td>0023</td>
-<td>Ванадий</td>
+<td colspan="2">Ванадий</td>
 </tr>
 <tr>
 <td>0024</td>
-<td>Хром</td>
+<td colspan="2">Хром</td>
 </tr>
 <tr>
 <td>0025</td>
-<td>Марганец</td>
+<td colspan="2">Марганец</td>
 </tr>
 <tr>
 <td>0026</td>
-<td>Темір</td>
+<td colspan="2">Темір</td>
 </tr>
 <tr>
 <td>0027</td>
-<td>Кобальт</td>
+<td colspan="2">Кобальт</td>
 </tr>
 <tr>
 <td>0028</td>
-<td>Никель</td>
+<td colspan="2">Никель</td>
 </tr>
 <tr>
 <td>0029</td>
-<td>Мыс</td>
+<td colspan="2">Мыс</td>
 </tr>
 <tr>
 <td>0030</td>
-<td>Мырыш</td>
+<td colspan="2">Мырыш</td>
 </tr>
 <tr>
 <td>0031</td>
-<td>Галлий</td>
+<td colspan="2">Галлий</td>
 </tr>
 <tr>
 <td>0032</td>
-<td>Германий</td>
+<td colspan="2">Германий</td>
 </tr>
 <tr>
 <td>0033</td>
-<td>Күшән</td>
+<td colspan="2">Күшән</td>
 </tr>
 <tr>
 <td>0034</td>
-<td>Селен</td>
+<td colspan="2">Селен</td>
 </tr>
 <tr>
 <td>0035</td>
-<td>Бром</td>
+<td colspan="2">Бром</td>
 </tr>
 <tr>
 <td>0036</td>
-<td>Криптон</td>
+<td colspan="2">Криптон</td>
 </tr>
 <tr>
 <td>0037</td>
-<td>Рубидий</td>
+<td colspan="2">Рубидий</td>
 </tr>
 <tr>
 <td>0038</td>
-<td>Стронций</td>
+<td colspan="2">Стронций</td>
 </tr>
 <tr>
 <td>0039</td>
-<td>Иттрий</td>
+<td colspan="2">Иттрий</td>
 </tr>
 <tr>
 <td>0040</td>
-<td>Цирконий</td>
+<td colspan="2">Цирконий</td>
 </tr>
 <tr>
 <td>0041</td>
-<td>Ниобий</td>
+<td colspan="2">Ниобий</td>
 </tr>
 <tr>
 <td>0042</td>
-<td>Молибден</td>
+<td colspan="2">Молибден</td>
 </tr>
 <tr>
 <td>0043</td>
-<td>Технеций</td>
+<td colspan="2">Технеций</td>
 </tr>
 <tr>
 <td>0044</td>
-<td>Рутений</td>
+<td colspan="2">Рутений</td>
 </tr>
 <tr>
 <td>0045</td>
-<td>Родий</td>
+<td colspan="2">Родий</td>
 </tr>
 <tr>
 <td>0046</td>
-<td>Палладий</td>
+<td colspan="2">Палладий</td>
 </tr>
 <tr>
 <td>0047</td>
-<td>Күміс</td>
+<td colspan="2">Күміс</td>
 </tr>
 <tr>
 <td>0048</td>
-<td>Кадмий</td>
+<td colspan="2">Кадмий</td>
 </tr>
 <tr>
 <td>0049</td>
-<td>Индий</td>
+<td colspan="2">Индий</td>
 </tr>
 <tr>
 <td>0050</td>
-<td>Қалайы</td>
+<td colspan="2">Қалайы</td>
 </tr>
 <tr>
 <td>0051</td>
-<td>Сүрме</td>
+<td colspan="2">Сүрме</td>
 </tr>
 <tr>
 <td>0052</td>
-<td>Теллур</td>
+<td colspan="2">Теллур</td>
 </tr>
 <tr>
 <td>0053</td>
-<td>Йод</td>
+<td colspan="2">Йод</td>
 </tr>
 <tr>
 <td>0054</td>
-<td>Ксенон</td>
+<td colspan="2">Ксенон</td>
 </tr>
 <tr>
 <td>0055</td>
-<td>Цезий</td>
+<td colspan="2">Цезий</td>
 </tr>
 <tr>
 <td>0056</td>
-<td>Барий</td>
+<td colspan="2">Барий</td>
 </tr>
 <tr>
 <td>0057</td>
-<td>Лантан</td>
+<td colspan="2">Лантан</td>
 </tr>
 <tr>
 <td>0058</td>
-<td>Гафний</td>
+<td colspan="2">Гафний</td>
 </tr>
 <tr>
 <td>0059</td>
-<td>Тантал</td>
+<td colspan="2">Тантал</td>
 </tr>
 <tr>
 <td>0060</td>
-<td>Вольфрам</td>
+<td colspan="2">Вольфрам</td>
 </tr>
 <tr>
 <td>0061</td>
-<td>Рений</td>
+<td colspan="2">Рений</td>
 </tr>
 <tr>
 <td>0062</td>
-<td>Осмий</td>
+<td colspan="2">Осмий</td>
 </tr>
 <tr>
 <td>0063</td>
-<td>Иридий</td>
+<td colspan="2">Иридий</td>
 </tr>
 <tr>
 <td>0064</td>
-<td>Платина</td>
+<td colspan="2">Платина</td>
 </tr>
 <tr>
 <td>0065</td>
-<td>Алтын</td>
+<td colspan="2">Алтын</td>
 </tr>
 <tr>
 <td>0066</td>
-<td>Сынап</td>
+<td colspan="2">Сынап</td>
 </tr>
 <tr>
 <td>0067</td>
-<td>Таллий</td>
+<td colspan="2">Таллий</td>
 </tr>
 <tr>
 <td>0068</td>
-<td>Қорғасын</td>
+<td colspan="2">Қорғасын</td>
 </tr>
 <tr>
 <td>0069</td>
-<td>Висмут</td>
+<td colspan="2">Висмут</td>
 </tr>
 <tr>
 <td>0070</td>
-<td>Полоний</td>
+<td colspan="2">Полоний</td>
 </tr>
 <tr>
 <td>0071</td>
-<td>Астат</td>
+<td colspan="2">Астат</td>
 </tr>
 <tr>
 <td>0072</td>
-<td>Радон</td>
+<td colspan="2">Радон</td>
 </tr>
 <tr>
 <td>0073</td>
-<td>Франций</td>
+<td colspan="2">Франций</td>
 </tr>
 <tr>
 <td>0074</td>
-<td>Радий</td>
+<td colspan="2">Радий</td>
 </tr>
 <tr>
 <td>0075</td>
-<td>Актиний</td>
+<td colspan="2">Актиний</td>
 </tr>
 <tr>
 <td>0076</td>
-<td>Резерфодий</td>
+<td colspan="2">Резерфодий</td>
 </tr>
 <tr>
 <td>0077</td>
-<td>Дубний</td>
+<td colspan="2">Дубний</td>
 </tr>
 <tr>
 <td>0078</td>
-<td>Сиборгий</td>
+<td colspan="2">Сиборгий</td>
 </tr>
 <tr>
 <td>0079</td>
-<td>Борий</td>
+<td colspan="2">Борий</td>
 </tr>
 <tr>
 <td>0080</td>
-<td>Хассий</td>
+<td colspan="2">Хассий</td>
 </tr>
 <tr>
 <td>0081</td>
-<td>Майтнерий</td>
+<td colspan="2">Майтнерий</td>
 </tr>
 <tr>
 <td>0082</td>
-<td>Металлургия үшін кенге жатпайтын шикізат</td>
+<td colspan="2">Металлургия үшін кенге жатпайтын шикізат</td>
 </tr>
 <tr>
 <td>0083</td>
-<td>Қалыптық құмдар</td>
+<td colspan="2">Қалыптық құмдар</td>
 </tr>
 <tr>
 <td>0084</td>
-<td>Алаптық шпат</td>
+<td colspan="2">Алаптық шпат</td>
 </tr>
 <tr>
 <td>0085</td>
-<td>Пегматит</td>
+<td colspan="2">Пегматит</td>
 </tr>
 <tr>
 <td>0086</td>
-<td>Басқа да алюминий тотығы жыныстары</td>
+<td colspan="2">Басқа да алюминий тотығы жыныстары</td>
 </tr>
 <tr>
 <td>0087</td>
-<td>Әктас</td>
+<td colspan="2">Әктас</td>
 </tr>
 <tr>
 <td>0088</td>
-<td>Доломит</td>
+<td colspan="2">Доломит</td>
 </tr>
 <tr>
 <td>0089</td>
-<td>Әктасты-доломит жыныстары</td>
+<td colspan="2">Әктасты-доломит жыныстары</td>
 </tr>
 <tr>
 <td>0090</td>
-<td>Тамақ өнеркәсібі үшін әктас</td>
+<td colspan="2">Тамақ өнеркәсібі үшін әктас</td>
 </tr>
 <tr>
 <td>0091</td>
-<td>Басқа да кенге жатпайтын шикізат</td>
+<td colspan="2">Басқа да кенге жатпайтын шикізат</td>
 </tr>
 <tr>
 <td>0092</td>
-<td>Отқа төзімді саздар</td>
+<td colspan="2">Отқа төзімді саздар</td>
 </tr>
 <tr>
 <td>0093</td>
-<td>Каолин</td>
+<td colspan="2">Каолин</td>
 </tr>
 <tr>
 <td>0094</td>
-<td>Вермикулит</td>
+<td colspan="2">Вермикулит</td>
 </tr>
 <tr>
 <td>0095</td>
-<td>Ас тұзы</td>
+<td colspan="2">Ас тұзы</td>
 </tr>
 <tr>
 <td>0096</td>
-<td>Жергілікті құрылыс материалдары</td>
+<td colspan="2">Жергілікті құрылыс материалдары</td>
 </tr>
 <tr>
 <td>0097</td>
-<td>Вулкандық кеуек жыныстары</td>
+<td colspan="2">Вулкандық кеуек жыныстары</td>
 </tr>
 <tr>
 <td>0098</td>
-<td>Вулкандық суқұрамдас әйнек</td>
+<td colspan="2">Вулкандық суқұрамдас әйнек</td>
 </tr>
 <tr>
 <td>0099</td>
-<td>Әйнек тәріздес жыныстар</td>
+<td colspan="2">Әйнек тәріздес жыныстар</td>
 </tr>
 <tr>
 <td>0100</td>
-<td>Перлит</td>
+<td colspan="2">Перлит</td>
 </tr>
 <tr>
 <td>0101</td>
-<td>Обсидиан</td>
+<td colspan="2">Обсидиан</td>
 </tr>
 <tr>
 <td>0102</td>
-<td>Малта тас</td>
+<td colspan="2">Малта тас</td>
 </tr>
 <tr>
 <td>0103</td>
-<td>Қиыршық тас</td>
+<td colspan="2">Қиыршық тас</td>
 </tr>
 <tr>
 <td>0104</td>
-<td>Гипс</td>
+<td colspan="2">Гипс</td>
 </tr>
 <tr>
 <td>0105</td>
-<td>Қиыршық тас-құм аралас</td>
+<td colspan="2">Қиыршық тас-құм аралас</td>
 </tr>
 <tr>
 <td>0106</td>
-<td>Гипсті тас</td>
+<td colspan="2">Гипсті тас</td>
 </tr>
 <tr>
 <td>0107</td>
-<td>Ангидрит</td>
+<td colspan="2">Ангидрит</td>
 </tr>
 <tr>
 <td>0108</td>
-<td>Гажа</td>
+<td colspan="2">Гажа</td>
 </tr>
 <tr>
 <td>0109</td>
-<td>Саз</td>
+<td colspan="2">Саз</td>
 </tr>
 <tr>
 <td>0110</td>
-<td>Саз жыныстар (балқуы ауыр және оңай балқитын саздар, суглинкалар, аргиллиттер, алевролиттер, сазды тақтатастар)</td>
+<td colspan="2">Саз жыныстар (балқуы ауыр және оңай балқитын саздар, суглинкалар, аргиллиттер, алевролиттер, сазды тақтатастар)</td>
 </tr>
 <tr>
 <td>0111</td>
-<td>Әкбор</td>
+<td colspan="2">Әкбор</td>
 </tr>
 <tr>
 <td>0112</td>
-<td>Мергель</td>
+<td colspan="2">Мергель</td>
 </tr>
 <tr>
 <td>0113</td>
-<td>Мергельді-әкбор жыныстары</td>
+<td colspan="2">Мергельді-әкбор жыныстары</td>
 </tr>
 <tr>
 <td>0114</td>
-<td>Кремний жыныстары (трепел, опоктар, диатомит)</td>
+<td colspan="2">Кремний жыныстары (трепел, опоктар, диатомит)</td>
 </tr>
 <tr>
 <td>0115</td>
-<td>Кварцты-алап шпат жыныстары</td>
+<td colspan="2">Кварцты-алап шпат жыныстары</td>
 </tr>
 <tr>
 <td>0116</td>
-<td>Гранит</td>
+<td colspan="2">Гранит</td>
 </tr>
 <tr>
 <td>0117</td>
-<td>Диабаз</td>
+<td colspan="2">Диабаз</td>
 </tr>
 <tr>
 <td>0118</td>
-<td>Мәрмар</td>
+<td colspan="2">Мәрмар</td>
 </tr>
 <tr>
 <td>0119</td>
-<td>Базальт</td>
+<td colspan="2">Базальт</td>
 </tr>
 <tr>
 <td>0120</td>
-<td>Басқа тұнбалы, атылған, метаморфияллық жыныстары</td>
+<td colspan="2">Басқа тұнбалы, атылған, метаморфияллық жыныстары</td>
 </tr>
 <tr>
 <td>0121</td>
-<td>Тоқпақ тас</td>
+<td colspan="2">Тоқпақ тас</td>
 </tr>
 <tr>
 <td>0122</td>
-<td>Құм (кварцтық, құрылыс, алап шпаттық)</td>
+<td colspan="2">Құм (кварцтық, құрылыс, алап шпаттық)</td>
 </tr>
 <tr>
 <td>0123</td>
-<td>Құмдық</td>
+<td colspan="2">Құмдық</td>
 </tr>
 <tr>
 <td>0124</td>
-<td>Табиғи пигменттер</td>
+<td colspan="2">Табиғи пигменттер</td>
 </tr>
 <tr>
 <td>0125</td>
-<td>Ұлу тас</td>
+<td colspan="2">Ұлу тас</td>
 </tr>
 <tr>
 <td>0126</td>
-<td>Жер асты сулары</td>
+<td colspan="2">Жер асты сулары</td>
 </tr>
 <tr>
 <td>0127</td>
-<td>Мұнай</td>
+<td colspan="2">Мұнай</td>
 </tr>
 <tr>
 <td>0128</td>
-<td>Газ</td>
+<td colspan="2">Газ</td>
 </tr>
 <tr>
 <td>0129</td>
-<td>Мұнайгаз конденсаты</td>
+<td colspan="2">Мұнайгаз конденсаты</td>
 </tr>
 <tr>
 <td>0130</td>
-<td>Басқалар</td>
+<td colspan="2">Басқалар</td>
 </tr>
-</table>
-
+<tr>
+<td colspan="2"></td>
+<td colspan="2">
 <table>
 <tr>
 <td></td>
-<td>
-Қазақстан Республикасы
-Қаржы Министрінің
-2014 жылғы 25 желтоқсандағы
-№ 587 бұйрығына
-87-қосымша
+<td>Қазақстан Республикасы</td>
+</tr>
+<tr>
+<td></td>
+<td>Қаржы Министрінің</td>
+</tr>
+<tr>
+<td></td>
+<td>2014 жылғы 25 желтоқсандағы</td>
+</tr>
+<tr>
+<td></td>
+<td>№ 587 бұйрығына</td>
+</tr>
+<tr>
+<td></td>
+<td>87-қосымша</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
@@ -664,11 +678,28 @@
 <tr>
 <td></td>
 <td>
-Қазақстан Республикасы
-Қаржы Министрінің
-2014 жылғы 25 желтоқсандағы
-№ 587 бұйрығына
-88-қосымша
+<table>
+<tr>
+<td></td>
+<td>Қазақстан Республикасы</td>
+</tr>
+<tr>
+<td></td>
+<td>Қаржы Министрінің</td>
+</tr>
+<tr>
+<td></td>
+<td>2014 жылғы 25 желтоқсандағы</td>
+</tr>
+<tr>
+<td></td>
+<td>№ 587 бұйрығына</td>
+</tr>
+<tr>
+<td></td>
+<td>88-қосымша</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
