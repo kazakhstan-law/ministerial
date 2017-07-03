@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/99865/rus/22.01.2016
+source: https://zan.gov.kz/client/#!/doc/99865/rus/03.07.2017
 ---
 
 <table>
@@ -246,5 +246,14 @@ source: https://zan.gov.kz/client/#!/doc/99865/rus/22.01.2016
 <td>Медицинская аптечка</td>
 <td>штука</td>
 <td>1</td>
+</tr>
+<tr>
+<td colspan="4">Оборудование для индивидуального пользования обучающимися</td>
+</tr>
+<tr>
+<td>1157</td>
+<td>Индивидуальный шкаф для хранения учебников, сменной обуви и спортивных принадлежностей</td>
+<td>штука</td>
+<td>25</td>
 </tr>
 </table>
