@@ -1,6 +1,6 @@
-↑ [Редакцияның толық мәтіні](../kaz.md)
+↑ [Вся редакция](../rus.md)
 
-## 6-сынып оқыту қазақ және орыс тілдеріндегі мектептер үшін
+## 6 класс для школ с казахским и русским языками обучения
 
 <table>
 <tr>
@@ -27,22 +27,22 @@ Sarah Ackroyd
 </tr>
 </table>
 
-## 7-сынып
+## 7 класс
 
 <table>
 <tr>
-<td>1.</td>
-<td>
+<th>1.</th>
+<th>
 Қазақ тiлi.
 Оқулық+ аудиодиск
-</td>
-<td>
+</th>
+<th>
 Б. Қапалбек,
 С. Жантасова,
 Т. Мадиева
-</td>
-<td>2017</td>
-<td>Мектеп</td>
+</th>
+<th>2017</th>
+<th>Мектеп</th>
 </tr>
 <tr>
 <td>2.</td>
@@ -908,29 +908,36 @@ Sarah Ackroyd
 <td>&quot;Назарбаев Зияткерлік мектептері&quot; ДББҰ</td>
 </tr>
 <tr>
-<td>66-69</td>
-<td colspan="4">Алып тасталды – ҚР Білім және ғылым министрінің 04.04.2017 № 150 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен</td>
+<td>66-69.</td>
+<td colspan="4">Строки 66-69 исключены приказом Министра образования и науки РК от 04.04.2017 № 150 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования)</td>
 </tr>
 </table>
 
-## 7-сынып оқыту қазақ және орыс тілдеріндегі мектептер үшін
+<table>
+<tr>
+<td>
+7 класс
+для школ с казахским и русским языками обучения
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
-<td rowspan="6">1.</td>
-<td>
+<th rowspan="6">1.</th>
+<th>
 Eyes Open 3 for Kazakhstan Grade 7
 Student`s book
-</td>
-<td>
+</th>
+<th>
 Ben Goldstein,
 Ceri Jones,
 David McKeegan,
 Vicki Anderson,
 Eoin Higgins
-</td>
-<td>2017</td>
-<td>Cambridge University Press</td>
+</th>
+<th>2017</th>
+<th>Cambridge University Press</th>
 </tr>
 <tr>
 <td>
@@ -996,7 +1003,8 @@ Excel for Kazakhstan
 Virginia Evans,
 Jenny Dooley,
 Bob Obee.
-Translations by: Natalya Mukhamedjianova
+Translations by:
+Natalya Mukhamedjianova
 </td>
 <td>2017</td>
 <td>Express Publishing</td>
@@ -1025,7 +1033,8 @@ Teacher`s Book
 Virginia Evans,
 Jenny Dooley,
 Bob Obee.
-Translations by: Natalya Mukhamedjianova
+Translations by:
+Natalya Mukhamedjianova
 </td>
 <td>2017</td>
 <td>Express Publishing</td>
@@ -1068,7 +1077,8 @@ Class CD (1,2,3,4)
 Virginia Evans,
 Jenny Dooley,
 Bob Obee.
-Translations by: Natalya Mukhamedjianova
+Translations by:
+Natalya Mukhamedjianova
 </td>
 <td>2017</td>
 <td>Express Publishing</td>
@@ -1083,7 +1093,8 @@ Interactive Whiteboard Software
 Virginia Evans,
 Jenny Dooley,
 Bob Obee.
-Translations by: Natalya Mukhamedjianova
+Translations by:
+Natalya Mukhamedjianova
 </td>
 <td>2017</td>
 <td>Express Publishing</td>
@@ -1098,7 +1109,8 @@ Teacher`s Resource Pack &amp; Tests (CD-ROM)
 Virginia Evans,
 Jenny Dooley,
 Bob Obee.
-Translations by: Natalya Mukhamedjianova
+Translations by:
+Natalya Mukhamedjianova
 </td>
 <td>2017</td>
 <td>Express Publishing</td>
@@ -1113,7 +1125,8 @@ e-Book
 Virginia Evans,
 Jenny Dooley,
 Bob Obee.
-Translations by: Natalya Mukhamedjianova
+Translations by:
+Natalya Mukhamedjianova
 </td>
 <td>2017</td>
 <td>Express Publishing</td>
@@ -1152,7 +1165,10 @@ Nicholas Tims
 English Plus
 Жұмыс дәптері
 </td>
-<td>Janet Hardy-Gould, Kate Mellersh</td>
+<td>
+Janet Hardy-Gould,
+Kate Mellersh
+</td>
 <td>2017</td>
 <td>Oxford University Press</td>
 </tr>
@@ -1283,7 +1299,126 @@ A.​Mirzakhmedov
 
 <table>
 <tr>
-<th colspan="5">8-сынып</th>
+<td>6.</td>
+<td>
+Messages 3 for Kazakhstan
+Teachers Book
+</td>
+<td>Diana Goodey, Meredith Levy</td>
+<td>2016</td>
+<td>Study Inn Сambridge</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>
+Messages 3 for Kazakhstan
+Teachers Resourse Pack
+</td>
+<td>Peter McDonnel, Sarah Ackroyd</td>
+<td>2016</td>
+<td>Study Inn Сambridge</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>
+Messages 3 for Kazakhstan
+Class Audio CD
+</td>
+<td>Diana Goodey, Neol Goodey</td>
+<td>2016</td>
+<td>Study Inn Сambridge</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Messages 3 for Kazakhstan DVD</td>
+<td>Diana Goodey, Neol Goodey</td>
+<td>2016</td>
+<td>Study Inn Сambridge</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Upbeat Pre-Intermediate Student's Book Kazakhstan</td>
+<td>Ingrid Freebairn, Jonathan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2016</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>11.</td>
+<td>
+Upbeat Pre-Intermediate
+Language Builder Kazakhstan
+</td>
+<td>
+Ingrid Freebairn, Jonathan
+Bygrave, Judy Copage, Liz Kilbey
+</td>
+<td>2016</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>Upbeat Pre-Intermediate Teacher`s Book</td>
+<td>Ingrid Freebairn, Jonathan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2016</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Upbeat Pre-Intermediate class Audio CD</td>
+<td>Ingrid Freebairn, Jonathan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2016</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Upbeat Pre-Intermediate Test Book</td>
+<td>Ingrid Freebairn, Jonathan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2016</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>15.</td>
+<td>Upbeat Pre-Intermediate Motivator</td>
+<td>Ingrid Freebairn, Jonathan Bygrave, Judy Copage, Liz Kilbey</td>
+<td>2016</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>16.</td>
+<td>
+Discover English 3 for Kazakhstan
+Students’ book
+</td>
+<td>Jayne Wildman</td>
+<td>2016</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>17.</td>
+<td>Discover English 3 for Kazakhstan WorkBook</td>
+<td>Izabella Hearn</td>
+<td>2016</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>18.</td>
+<td>Discover English 3 for Kazakhstan teacher’s book</td>
+<td>Kate Wakeman</td>
+<td>2016</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>
+Discover English 3 for Kazakhstan
+Class audio CD
+</td>
+<td>Izabella Hearn, Jayne Wildman</td>
+<td>2016</td>
+<td>Pearson Education Limited</td>
+</tr>
+<tr>
+<th colspan="5">8 класс</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -1332,9 +1467,9 @@ A.​Mirzakhmedov
 Оқулық
 </td>
 <td>
-Т. Ермекова,
-А. Қасымбек,
-А. Нұрғазы
+Т.Ермекова,
+А.Қасымбек,
+А.Нұрғазы
 </td>
 <td>2016</td>
 <td>Арман-ПВ</td>
@@ -1345,12 +1480,7 @@ A.​Mirzakhmedov
 Қазақ тілі.
 Мұғалім кітабы
 </td>
-<td>
-Т. Ермекова,
-А. Қасымбек,
-Н. Абдижаппарова,
-А. Бипажанова
-</td>
+<td>Т.Ермекова, А.Қасымбек, Н.Абдижаппарова, А.Бипажанова</td>
 <td>2016</td>
 <td>Арман-ПВ</td>
 </tr>
@@ -1360,11 +1490,7 @@ A.​Mirzakhmedov
 Қазақ тілі.
 Дидактикалық материалдар
 </td>
-<td>
-Т. Ермекова,
-А. Қасымбек,
-Қ. Балабекова
-</td>
+<td>Т.Ермекова, А.Қасымбек, Қ.Балабекова</td>
 <td>2016</td>
 <td>Арман-ПВ</td>
 </tr>
@@ -1375,10 +1501,8 @@ A.​Mirzakhmedov
 Диктанттар мен мазмұндамалар жинағы
 </td>
 <td>
-Т. Ермекова,
-А. Қасымбек,
-Г. Смағұлова,
-С. Оданова
+Т.Ермекова, А.Қасымбек, Г.Смағұлова,
+С.Оданова
 </td>
 <td>2016</td>
 <td>Арман-ПВ</td>
@@ -1575,8 +1699,7 @@ A.​Mirzakhmedov
 <td>24.</td>
 <td>Немiс тiлi. Оқулық</td>
 <td>
-А. Артықбаева,
-Ұ. Байгелова,
+А.Артықбаева, Ұ.Байгелова,
 Ш. Бәйнеш,
 Б. Есимова,
 У. Таникина,
@@ -1601,10 +1724,7 @@ A.​Mirzakhmedov
 </tr>
 <tr>
 <td>26.</td>
-<td>
-Немiс тiлi.
-Оқу кiтабы
-</td>
+<td>Немiс тiлi. Оқу кiтабы</td>
 <td>Р. Мырзакеримова</td>
 <td>2016</td>
 <td>Мектеп</td>
@@ -1647,20 +1767,14 @@ A.​Mirzakhmedov
 </tr>
 <tr>
 <td>30.</td>
-<td>
-Француз тiлi.
-Оқу кiтабы
-</td>
+<td>Француз тiлi. Оқу кiтабы</td>
 <td>Г. Сманова</td>
 <td>2016</td>
 <td>Мектеп</td>
 </tr>
 <tr>
 <td>31.</td>
-<td>
-Алгебра.
-Оқулық
-</td>
+<td>Алгебра. Оқулық</td>
 <td>А. Шыныбеков</td>
 <td>2016</td>
 <td>Атамұра</td>
@@ -1687,10 +1801,7 @@ A.​Mirzakhmedov
 </tr>
 <tr>
 <td>34.</td>
-<td>
-Алгебра.
-Оқулық
-</td>
+<td>Алгебра. Оқулық</td>
 <td>
 А. Әбілқасымова,
 З. Жұмағұлова,
@@ -1745,10 +1856,7 @@ A.​Mirzakhmedov
 </tr>
 <tr>
 <td>38.</td>
-<td>
-Геометрия.
-Оқулық
-</td>
+<td>Геометрия. Оқулық</td>
 <td>А. Шыныбеков</td>
 <td>2016</td>
 <td>Атамұра</td>
@@ -1945,7 +2053,7 @@ A.​Mirzakhmedov
 <td>Қазақстанның физикалық географиясы. Дидактикалық материалдар</td>
 <td>Есназарова Ұ.</td>
 <td>2016</td>
-<td>Республикалық атаулы мектеп</td>
+<td>Географиядан Республикалық атаулы мектеп</td>
 </tr>
 <tr>
 <td>56.</td>
@@ -2262,8 +2370,8 @@ A.​Mirzakhmedov
 (ұл балаларға арналған). Әдістемелік нұсқау
 </td>
 <td>
-Ю. Моряков,
-Г. Жарымбетова
+Ю.Моряков,
+Г.Жарымбетова
 </td>
 <td>2016</td>
 <td>Мектеп</td>
@@ -2353,5 +2461,71 @@ A.​Mirzakhmedov
 </td>
 <td>2016</td>
 <td>Келешек-2030</td>
+</tr>
+<tr>
+<td>90.</td>
+<td>
+Informatics
+Қостілді оқулық
+</td>
+<td>
+Е. Шаниев,
+И. Гесен,
+Н. Айдарбаев,
+Н. Ахметов,
+Э. Ержанов
+</td>
+<td>2017</td>
+<td>Астана-кітап</td>
+</tr>
+<tr>
+<td>91.</td>
+<td>
+Physics
+Қостілді оқулық
+</td>
+<td>
+А. Карабатыров,
+А. Байешов,
+Е. Дуйсеев,
+Н. Шокобалинов,
+Н. Ташев
+</td>
+<td>2017</td>
+<td>Астана-кітап</td>
+</tr>
+<tr>
+<td>92.</td>
+<td>
+Biology
+Қостілді оқулық
+</td>
+<td>
+Б. Эрметов,
+А. Сагинтаев,
+К. Байрам,
+А. Ахметова,
+Л. Нуралиева,
+А. Джилкайдарова,
+Н. Кәрімова
+</td>
+<td>2017</td>
+<td>Астана-кітап</td>
+</tr>
+<tr>
+<td>93.</td>
+<td>
+Chemistry
+Қостілді оқулық
+</td>
+<td>
+Д. Калиев,
+А. Ордабаев,
+Н. Жұмағұлов,
+А. Саматов,
+А. Тор
+</td>
+<td>2017</td>
+<td>Астана-кітап</td>
 </tr>
 </table>

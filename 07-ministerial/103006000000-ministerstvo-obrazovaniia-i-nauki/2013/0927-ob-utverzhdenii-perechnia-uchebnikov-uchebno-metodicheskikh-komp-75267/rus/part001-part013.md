@@ -160,6 +160,72 @@ Class Audio CD
 <td>2016</td>
 <td>Study Inn Сambridge</td>
 </tr>
+<tr>
+<td>19.</td>
+<td>
+Informatics
+Textbook
+</td>
+<td>
+Y. Shaniyev,
+I. Gesen,
+N. Aidarbayev,
+N. Akhmetov,
+E. Yerzhanov
+</td>
+<td>2017</td>
+<td>Астана-кітап</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>
+Physics
+Textbook
+</td>
+<td>
+A. Karabatyrov,
+A. Baieshov,
+Y. Duiseyev,
+N. Shokobalinov,
+N. Tashev
+</td>
+<td>2017</td>
+<td>Астана-кітап</td>
+</tr>
+<tr>
+<td>21.</td>
+<td>
+Biology
+Textbook
+</td>
+<td>
+B. Ermetov,
+A. Sagintayev,
+K. Bayram,
+A. Akhmetova,
+L. Nuraliyeva,
+A. Jilkaidarova,
+N. Karimova
+</td>
+<td>2017</td>
+<td>Астана-кітап</td>
+</tr>
+<tr>
+<td>22.</td>
+<td>
+Chemistry
+Textbook
+</td>
+<td>
+D. Kaliyev,
+A. Ordabayev,
+N. Zhumagulov,
+A. Samatov,
+A. Tor
+</td>
+<td>2017</td>
+<td>Астана-кітап</td>
+</tr>
 </table>
 
 ## 9 класс
