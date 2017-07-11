@@ -1,15 +1,31 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/75267/rus/04.04.2017
+source: https://zan.gov.kz/client/#!/doc/75267/rus/11.07.2017
 ---
+
+> *Приложение 1*  
+> *к приказу и.о. Министра образования*  
+> *и науки Республики Казахстан*  
+> *от 27 сентября 2013 года № 400*
 
 ## Перечень учебников и учебно-методических комплексов для 1-11 классов
 
-> *Сноска. Приложение 1 в редакции приказа и.о. Министра образования и науки РК от 08.01.2016 № 13 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); с изменениями, внесенными приказами Министра образования и науки РК от 06.04.2016 года № 251 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 06.05.2016 № 309 (вводится в действие со дня его первого официального опубликования); от 19.07.2016 № 458 (вводится в действие со дня его первого официального опубликования); от 18.08.2016 № 514 (вводится в действие со дня его первого официального опубликования); от 04.04.2017 № 150 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение 1 в редакции приказа и.о. Министра образования и науки РК от 08.01.2016 № 13 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); с изменениями, внесенными приказами Министра образования и науки РК от 06.04.2016 года № 251 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 06.05.2016 № 309 (вводится в действие со дня его первого официального опубликования); от 19.07.2016 № 458 (вводится в действие со дня его первого официального опубликования); от 18.08.2016 № 514 (вводится в действие со дня его первого официального опубликования); от 04.04.2017 № 150 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 11.07.2017 № 327 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 ## Казахский язык обучения
 
 <table>
+<tr>
+<td>№</td>
+<td>Наименование издания</td>
+<td>Автор (ы)</td>
+<td>Год издания</td>
+<td>Издательство</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">1 класс</td>
+</tr>
 <tr>
 <td>1.</td>
 <td>
@@ -787,6 +803,16 @@ Translations by N.​Mukhamedjanova
 <tr>
 <td>33-63.</td>
 <td colspan="4">Строки 33-63 исключены приказом Министра образования и науки РК от 04.04.2017 № 150 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования)</td>
+</tr>
+<tr>
+<td>64.</td>
+<td>
+Әдебиеттік оқу.
+№1, 2 жұмыс дәптері
+</td>
+<td>В. Калиева</td>
+<td>2017</td>
+<td>Атамұра</td>
 </tr>
 </table>
 
@@ -7550,166 +7576,70 @@ Class audio CD
 <td>2016</td>
 <td>Келешек-2030</td>
 </tr>
-</table>
-
-## 8 класс для школ с казахским и русским языками обучения
-
-<table>
 <tr>
-<td>1.</td>
-<td>Discover English 4 for Kazakhstan Student's Book</td>
-<td>Izabella Hearn, Jayne Wildman</td>
-<td>2016</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Discover English 4 for Kazakhstan Workbook book</td>
-<td>Izabella Hearn, Jayne Wildman</td>
-<td>2016</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Discover English 4 for Kazakhstan teacher’s book</td>
-<td>Izabella Hearn, Jayne Wildman</td>
-<td>2016</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Discover English 4 for Kazakhstan Class audio CD</td>
-<td>Izabella Hearn, Jayne Wildman</td>
-<td>2016</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>5.</td>
+<td>90.</td>
 <td>
-Hot Spot 4 KZ
-Student’s Book &amp; CD-ROM
+Informatics
+Қостілді оқулық
 </td>
-<td>Colina Granger, Katherine Stannett</td>
-<td>2016</td>
-<td>Macmillan Publishers</td>
-</tr>
-<tr>
-<td>6.</td>
-<td>Hot Spot 4 KZ Activity Book</td>
-<td>Katherine Stannett</td>
-<td>2016</td>
-<td>Macmillan Publishers</td>
-</tr>
-<tr>
-<td>7.</td>
-<td>Hot Spot 4 KZ Teacher’s Book &amp; Test CD</td>
-<td>Magdalena Kondro</td>
-<td>2016</td>
-<td>Macmillan Publishers</td>
-</tr>
-<tr>
-<td>8.</td>
-<td>Upbeat Intermediate Student's Book Kazakhstan</td>
 <td>
-Ingrid Freebairn, Jonathan Bygrave, Judy Copage,
-Liz Kilbey
+Е. Шаниев,
+И. Гесен,
+Н. Айдарбаев,
+Н. Ахметов,
+Э. Ержанов
 </td>
-<td>2016</td>
-<td>Pearson Education Limited</td>
+<td>2017</td>
+<td>Астана-кітап</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>Upbeat Intermediate Language Builder</td>
+<td>91.</td>
 <td>
-Ingrid Freebairn, Jonathan Bygrave, Judy Copage,
-Liz Kilbey
+Physics
+Қостілді оқулық
 </td>
-<td>2016</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>10.</td>
-<td>Upbeat Intermediate Teacher`s Book</td>
 <td>
-Ingrid Freebairn, Jonathan
-Bygrave, Judy Copage,
-Liz Kilbey
+А. Карабатыров,
+А. Байешов,
+Е. Дуйсеев,
+Н. Шокобалинов,
+Н. Ташев
 </td>
-<td>2016</td>
-<td>Pearson Education Limited</td>
+<td>2017</td>
+<td>Астана-кітап</td>
 </tr>
 <tr>
-<td>11.</td>
-<td>Upbeat Intermediate class Audio CD</td>
+<td>92.</td>
 <td>
-Ingrid Freebairn, Jonathan Bygrave, Judy Copage,
-Liz Kilbey
+Biology
+Қостілді оқулық
 </td>
-<td>2016</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>12.</td>
-<td>Upbeat Intermediate Test Book</td>
-<td>Ingrid Freebairn, Jonathan Bygrave, Judy Copage, Liz Kilbey</td>
-<td>2016</td>
-<td>Pearson Education Limited</td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Upbeat Intermediate Motivator</td>
 <td>
-Ingrid Freebairn, Jonathan Bygrave, Judy Copage,
-Liz Kilbey
+Б. Эрметов,
+А. Сагинтаев,
+К. Байрам,
+А. Ахметова,
+Л. Нуралиева,
+А. Джилкайдарова,
+Н. Кәрімова
 </td>
-<td>2016</td>
-<td>Pearson Education Limited</td>
+<td>2017</td>
+<td>Астана-кітап</td>
 </tr>
 <tr>
-<td>14.</td>
-<td>Messages 4 for Kazakhstan Students book</td>
-<td>Diana Goodey, Neol Goodey</td>
-<td>2016</td>
-<td>Study Inn Сambridge</td>
-</tr>
-<tr>
-<td>15.</td>
+<td>93.</td>
 <td>
-Messages 4 for Kazakhstan
-Work Book + CD
+Chemistry
+Қостілді оқулық
 </td>
-<td>Diana Goodey, Neol Goodey</td>
-<td>2016</td>
-<td>Study Inn Сambridge</td>
-</tr>
-<tr>
-<td>16.</td>
 <td>
-Messages 4 for Kazakhstan
-Teachers Book
+Д. Калиев,
+А. Ордабаев,
+Н. Жұмағұлов,
+А. Саматов,
+А. Тор
 </td>
-<td>Diana Goodey, Meredith Levy</td>
-<td>2016</td>
-<td>Study Inn Сambridge</td>
-</tr>
-<tr>
-<td>17.</td>
-<td>
-Messages 4 for Kazakhstan
-Teachers Resourse Pack
-</td>
-<td>Peter McDonnel, Nicholas Murgatroyd</td>
-<td>2016</td>
-<td>Study Inn Сambridge</td>
-</tr>
-<tr>
-<td>18.</td>
-<td>
-Messages 4 for Kazakhstan
-Class Audio CD
-</td>
-<td>Diana Goodey, Neol Goodey</td>
-<td>2016</td>
-<td>Study Inn Сambridge</td>
+<td>2017</td>
+<td>Астана-кітап</td>
 </tr>
 </table>
