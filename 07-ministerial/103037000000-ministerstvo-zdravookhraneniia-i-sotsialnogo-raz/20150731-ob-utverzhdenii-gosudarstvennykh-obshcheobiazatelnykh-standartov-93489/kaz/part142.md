@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/93489/kaz/29.06.2017
+source: https://zan.gov.kz/client/#!/doc/93489/kaz/17.07.2017
 ---
 
 > *«Мейіргер ісі» мамандығы бойынша*  
