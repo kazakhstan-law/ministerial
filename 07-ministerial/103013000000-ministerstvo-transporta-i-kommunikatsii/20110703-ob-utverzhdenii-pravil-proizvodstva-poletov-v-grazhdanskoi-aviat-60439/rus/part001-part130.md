@@ -1,6 +1,11 @@
 ---
 part_of: ../rus.md
 source: https://zan.gov.kz/client/#!/doc/60439/rus/20.09.2013
+repealed_on: 2018-04-20
+repealed_by:
+  code: '119712'
+  title: Об утверждении Правил производства полетов в гражданской авиации Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/119712/rus
 ---
 
 ## Параграф 130. Выполнение полетов на аэростатах
