@@ -1974,9 +1974,11 @@
 > *№ 49 бұйрығына*  
 > *5-қосымша*
 
+> *Ескерту. 5-қосымша жаңа редакцияда - ҚР Премьер-Министрінің орынбасары – ҚР Ауыл шаруашылығы министрінің 28.07.2017 № 314 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
+
 > *Нысан*
 
-## Асыл тұқымды қошқардың жеке карточкасы(елтірілік бағыты)
+## Асыл тұқымды қошқардың жеке карточкасы (елтірілік бағыты)
 
 <table>
 <tr>
@@ -1992,6 +1994,13 @@
 </table>
 
 <table>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr>
 <td colspan="2">Шаруашылық</td>
 <td colspan="2">Лақап аты</td>
@@ -2014,321 +2023,458 @@
 </tr>
 <tr>
 <td colspan="2">Тұқымдылығы</td>
-<td colspan="3">Шығарылған күні және себебі « » 20 жыл</td>
+<td colspan="3">4Шығарылған күні және себебі « » 20 жыл</td>
 </tr>
 </table>
 
-## Шығу тегі
+Шығу тегі
 
 <table>
 <tr>
-<td colspan="5"></td>
-<td colspan="11">Қозы кезіндегі бағалау</td>
+<td colspan="7"></td>
+<td colspan="16">Қозы кезіндегі бағалау</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Енесі (Е)</td>
-<td colspan="2">ӘКЕСІ</td>
-<td colspan="3">Түсі және реңі</td>
-<td colspan="3"></td>
-<td colspan="3">Бүйраның ені</td>
+<td colspan="3">Енесі (Е)</td>
+<td colspan="3">ӘКЕСІ</td>
+<td colspan="5">Түсі және реңі</td>
+<td colspan="4"></td>
+<td colspan="5">Бүйраның ені</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>Жеке нөмірі</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Елтірілік типі</td>
 <td colspan="3"></td>
-<td colspan="3">және бұйра пішіні</td>
+<td colspan="3"></td>
+<td colspan="5">Елтірілік типі</td>
+<td colspan="4"></td>
+<td colspan="5">бұйра пішіні</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>Тұқым және тұқымдас</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Суреті</td>
 <td colspan="3"></td>
-<td colspan="3">Бұйра ұзындығы</td>
+<td colspan="3"></td>
+<td colspan="5">Суреті</td>
+<td colspan="4"></td>
+<td colspan="5">Бұйра ұзындығы</td>
 <td colspan="2">мм</td>
 </tr>
 <tr>
 <td>Асыл тұқымдық кітабы бойынша нөмірі</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Ала</td>
 <td colspan="3"></td>
-<td colspan="3">Бұйраның тығыздығы</td>
+<td colspan="3"></td>
+<td colspan="5">Ала</td>
+<td colspan="4"></td>
+<td colspan="5">Бұйраның тығыздығы</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>Асыл тұқымдық кітаптың томы және марка нөмірі</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Тері қоры</td>
 <td colspan="3"></td>
-<td colspan="3">Талшықтың жібектілігі</td>
+<td colspan="3"></td>
+<td colspan="5">Тері қоры</td>
+<td colspan="4"></td>
+<td colspan="5">Талшықтың жібектілігі</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>Желі</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Талшықтың жылтырлығы</td>
 <td colspan="3"></td>
-<td colspan="3">Талшықтың пигментенуі</td>
+<td colspan="3"></td>
+<td colspan="5">Талшықтың жылтырлығы</td>
+<td colspan="4"></td>
+<td colspan="5">Талшықтың пигментенуі</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>Түсі және реңі</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Шайырлығы</td>
 <td colspan="3"></td>
-<td colspan="3">Талшықтың жиілігі</td>
+<td colspan="3"></td>
+<td colspan="5">Шайырлығы</td>
+<td colspan="4"></td>
+<td colspan="5">Талшықтың жиілігі</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>Бұйра өлшемі және типі</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Жүндестігі</td>
-<td colspan="3">00000</td>
-<td colspan="3">Дене бітімі</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="5">Жүндестігі</td>
+<td colspan="4">00000</td>
+<td colspan="5">Дене бітімі</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>Елтірілік типі</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>Кешенді класы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Бағалауды өткізген күн</td>
 <td colspan="3"></td>
-<td colspan="5">Бағалаудан өкізген маманның тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы</td>
+<td colspan="3"></td>
+<td colspan="5">Бағалауды өткізген күн</td>
+<td colspan="4"></td>
+<td colspan="7">Бағалаудан өкізген маманның тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы</td>
 </tr>
 <tr>
 <td></td>
 <td>Енесінің енесі (ЕЕ)</td>
-<td>Әкесінің енесі (ӘЕ)</td>
-<td>Енесінің әкесі (ЕӘ)</td>
+<td colspan="2">Енесінің әкесі (ӘЕ)</td>
+<td colspan="2">Әкесінің енесі (ЕӘ)</td>
 <td>Әкесінің әкесі (ӘӘ)</td>
-<td colspan="11"></td>
+<td colspan="16"></td>
 </tr>
 <tr>
 <td>Жеке нөмірі</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="11">Он бес-жиырмакүндігінде бонитерлеу</td>
+<td colspan="16">Он бес-жиырма күндігінде бонитерлеу</td>
 </tr>
 <tr>
 <td>Тұқым және тұқымдас</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3">Дамуы</td>
-<td colspan="3"></td>
-<td colspan="3">Қоңдылығы</td>
+<td colspan="5">Дамуы</td>
+<td colspan="4"></td>
+<td colspan="5">Қоң дыл ығы</td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>Асыл тұқымдық кітап бойынша нөмірі</td>
+<td>
+Ас ыл
+тұқ ым дық
+кіт ап
+бой ын ша
+нө мі рі
+</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3">Пигменттің сақталу дәрежесі</td>
-<td colspan="3"></td>
-<td colspan="3">Боз талшықтардың кездесуы</td>
+<td colspan="5">Пигменттің сақталу дәрежесі</td>
+<td colspan="4"></td>
+<td colspan="5">Боз тал шық тард ың кезд есуы</td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>Асыл тұқымдық кітап томы және марка нөмірі</td>
+<td>
+Ас ыл тұқ ым дық кіт ап то мы жә не мар ка
+нөм ірі
+</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3">Бұйраның сақталуы</td>
-<td colspan="3"></td>
-<td colspan="3">Талшықтың жібектілігі</td>
+<td colspan="5">Бұйраның сақталуы</td>
+<td colspan="4"></td>
+<td colspan="5">Тал шық тың жібе кті лігі</td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>Желі</td>
+<td>Ж е л і</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3">Талшықтың жылтырлығы</td>
-<td colspan="3"></td>
-<td colspan="3">Құрғақ талшықтардың кездесуы</td>
+<td colspan="5">Талшықтың жылтырлығы</td>
+<td colspan="4"></td>
+<td colspan="5">
+Құр ғақ
+тал шық тар дың
+кез дес уы
+</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>Түсі және реңі</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3">Жиынтық бағасы</td>
-<td colspan="3"></td>
-<td colspan="3">Ерекше белгілері</td>
+<td colspan="5">Жиынтық бағасы</td>
+<td colspan="4"></td>
+<td colspan="5">
+Ере кше
+бел гіл ері
+</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>Бұйра өлшемі және типі</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
+<td colspan="9"></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>Елтірілік типі</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="5">Бағалауды өткізген күн</td>
+<td colspan="4"></td>
+<td colspan="7">Бағалаудан өкізген маманның тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы</td>
+</tr>
+<tr>
 <td></td>
-<td></td>
-<td colspan="3">Бағалауды өткізген күн</td>
+<td colspan="2">Енесінің енесінің енесі (ЕЕЕ)</td>
+<td colspan="2">Енесінің енесінің әкесі (ЕЕӘ)</td>
+<td colspan="3">Енесінің әкесінің енесі 5(ЕӘЕ)</td>
+<td colspan="3">Енесінің әкесінің әкесі (ЕӘӘ)</td>
+<td colspan="3">Әкесінің енесінің енесі (ӘЕЕ)</td>
+<td colspan="3">Әкесінің енесінің әкесі (ӘЕӘ)</td>
+<td colspan="3">Әкесінің әкесінің енесі (ӘӘЕ)</td>
+<td colspan="3">Әкесінің әкесінің әкесі (ӘӘӘ)</td>
+</tr>
+<tr>
+<td>Жеке нөмірі</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="5">Бағалаудан өкізген маманның тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="16">Жүн өнімділігі және дамуы</td>
+<td>Тұқым және тұқымдас</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>
+Ас ыл
+тұқ ым дық
+кіт ап
+бой ын ша
+нө мі рі
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>
+Ас ыл
+тұқ ым дық
+кіт ап
+то мы
+жә не
+мар ка
+нө мі рі
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Ж е л і</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Тү сі жә не ре ңі</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Бұй ра өлш емі жә не ти пі</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>
+Ел тір іл ік
+ти пі
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="23">Жүн өнімділігі және дамуы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td rowspan="3"></td>
-<td colspan="7">Жүн қырқымы</td>
-<td colspan="2" rowspan="3">Пигменттенуі</td>
-<td rowspan="3">Тірідей салмағы, кило-грамм</td>
+<td colspan="2" rowspan="3"></td>
+<td colspan="10">Жүн қырқымы</td>
+<td colspan="3" rowspan="3">П и г м е н т т е н у і</td>
+<td rowspan="3">
+Т і р і д е й
+с а л м а ғ ы,
+к и л о г р а м м
+</td>
 </tr>
 <tr>
-<td colspan="5">Бір-бір жарым жаста бонитерлеу</td>
-<td colspan="4">көктемгі</td>
-<td colspan="2" rowspan="2">Күзгі , кило-грамм</td>
-<td rowspan="2">Бір жылда, кило-грамм</td>
+<td colspan="7">Бір-бір жарым жаста бонитерлеу</td>
+<td colspan="6">көктемгі</td>
+<td colspan="3" rowspan="2">К ү з г і, к и л о г р а м м</td>
+<td rowspan="2">Б і р ж ы л д а, к и л о г р а м м</td>
 </tr>
 <tr>
 <td>Тірілей салмағы, килограмм</td>
 <td></td>
-<td colspan="2">Жүн конституциалық типі</td>
+<td colspan="4">Жүн конституциалық типі</td>
 <td></td>
-<td>салмағы, кило-грамм</td>
-<td colspan="2">Бұрым-ша және түбіт ұзынды-ғы, санти-метр</td>
-<td>Класы</td>
+<td>с а л м а ғ ы, к и л о г р а м м</td>
+<td colspan="3">Бұрым-ша және түбіт ұзынды-ғы, санти-метр</td>
+<td colspan="2">К л а с ы</td>
 </tr>
 <tr>
 <td>Жабағы жүннің пигментену дәрежесі</td>
 <td></td>
-<td colspan="2">Бұрымша және түбіт ұзындығы, см</td>
+<td colspan="4">Бұрымша және түбіт ұзындығы, см</td>
 <td></td>
-<td>Анасы-нан айырғанда</td>
+<td colspan="2">Анасы-нан айырғанда</td>
 <td>Х</td>
+<td colspan="3">Х</td>
 <td colspan="2">Х</td>
-<td>Х</td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>Шайырлығы</td>
 <td></td>
-<td>Иімділігі</td>
-<td></td>
-<td></td>
-<td>20___ж</td>
-<td></td>
+<td colspan="2">Иімділігі</td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="2">20___жыл</td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>Жабағы жүннің біркелкілігі</td>
 <td></td>
-<td>Жүн тығызды-ғы</td>
-<td></td>
-<td></td>
-<td>20___ж</td>
-<td></td>
+<td colspan="2">Жүн тығызды-ғы</td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="2">20___жыл</td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>Жүндестігі</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>20___ж</td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="2">20___жыл</td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td rowspan="2">Бағалауды өткізген күн</td>
 <td rowspan="2"></td>
-<td colspan="2" rowspan="2">Бағалаудан өкізген маманның тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы</td>
+<td colspan="4" rowspan="2">Бағалаудан өкізген маманның тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы</td>
 <td rowspan="2"></td>
-<td>20___ж</td>
+<td colspan="2">20___жыл</td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td>20___ж</td>
+<td colspan="2">20___жыл</td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 </table>
 
-```
-Шаруашылық жетекшісі _____________________________________________«____» ________________  20    жыл
- тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы
-```
+Шаруашылық жетекшісі _________________________________________________________________________«____» ________________ 20 жыл
+
+тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы
 
 > *Қазақстан Республикасы*  
 > *Ауыл шаруашылығы министрінің*  
 > *2016 жылғы 11 ақпандағы*  
 > *№ 49 бұйрығына*  
 > *6-қосымша*
+
+> *Ескерту. 6-қосымша жаңа редакцияда - ҚР Премьер-Министрінің орынбасары – ҚР Ауыл шаруашылығы министрінің 28.07.2017 № 314 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
 
 > *Нысан*
 
@@ -2347,6 +2493,13 @@
 
 <table>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td colspan="2">Шаруашылық</td>
 <td colspan="2">Лақап аты</td>
 <td>Шаруашылыққа келіп түскен күні « » 20 жыл</td>
@@ -2372,281 +2525,410 @@
 </tr>
 </table>
 
-## Шығу тегі
+> *Шығу тегі*
 
 <table>
 <tr>
-<td colspan="6">Жануардың тұқым-тегі</td>
-<td colspan="11">Қозы кезінде бонитерлеу</td>
+<td colspan="9">Жануардың тұқым-тегі</td>
+<td colspan="15">Қозы кезінде бонитерлеу</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Енесі (Е)</td>
-<td colspan="2">Әкесі (Ә)</td>
-<td colspan="3">Түсі және реңі</td>
+<td colspan="4">Енесі (Е)</td>
+<td colspan="4">Әкесі (Ә)</td>
+<td colspan="4">Түсі және реңі</td>
+<td colspan="4"></td>
+<td colspan="4">Бұйраның ені</td>
 <td colspan="3"></td>
-<td colspan="3">Бұйраның ені</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>Жеке нөмірі</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4">Елтірілік типі</td>
+<td colspan="4"></td>
+<td colspan="4">және бұйра пішіні</td>
 <td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Елтірілік типі</td>
-<td colspan="3"></td>
-<td colspan="3">және бұйра пішіні</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>Тұқым және тұқымдас</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4">Суреті</td>
+<td colspan="4"></td>
+<td colspan="4">Бұйра ұзындығы</td>
 <td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Суреті</td>
-<td colspan="3"></td>
-<td colspan="3">Бұйра ұзындығы</td>
-<td colspan="2">мм</td>
 </tr>
 <tr>
 <td>Асыл тұқымдық кітап бойынша нөмірі</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4">Ала</td>
+<td colspan="4"></td>
+<td colspan="4">Бұйраның тығыздығы</td>
 <td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Ала</td>
-<td colspan="3"></td>
-<td colspan="3">Бұйраның тығыздығы</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>Асыл тұқымдық кітап томы және марка нөмірі</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4">Тері қоры</td>
+<td colspan="4"></td>
+<td colspan="4">Талшықтың жібектілігі</td>
 <td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Тері қоры</td>
-<td colspan="3"></td>
-<td colspan="3">Талшықтың жібектілігі</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>Желі</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4">Талшықтың жылтырлығы</td>
+<td colspan="4"></td>
+<td colspan="4">Талшықтың пигментенуі</td>
 <td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Талшықтың жылтырлығы</td>
-<td colspan="3"></td>
-<td colspan="3">Талшықтың пигментенуі</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>Түсі және реңі</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4">Шайырлығы</td>
+<td colspan="4"></td>
+<td colspan="4">Талшықтың жиілігі</td>
 <td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Шайырлығы</td>
-<td colspan="3"></td>
-<td colspan="3">Талшықтың жиілігі</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>Бұйра өлшемі және типі</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4">Жүндестігі</td>
+<td colspan="4">00000</td>
+<td colspan="4">Конституция</td>
 <td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Жүндестігі</td>
-<td colspan="3">00000</td>
-<td colspan="3">Конституция</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>Елтірілік типі</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3" rowspan="2"></td>
-<td colspan="3" rowspan="2"></td>
-<td colspan="5" rowspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4" rowspan="2"></td>
+<td colspan="4" rowspan="2"></td>
+<td colspan="7" rowspan="2"></td>
 </tr>
 <tr>
 <td>Кешенді класы</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Е н е с і н і ң е н е с і (Е Е)</td>
+<td>
+Ә к е с і н і ң
+е н е с і (Ә Е)
+</td>
+<td colspan="2">
+Е н е с і н і ң
+ә к е с і (Е Ә)
+</td>
+<td colspan="2">
+Ә к е с і н і ң
+ә к е с і (Ә Ә) Ә Ә
+</td>
+<td colspan="15"></td>
+</tr>
+<tr>
+<td>Же ке нөм ірі</td>
 <td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="15" rowspan="4">Бағ ала уды өт кіз ген күн</td>
+</tr>
+<tr>
+<td>Тұқ ым жә не тұқ ым дас</td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Ас ыл тұқ ым дық кіт ап бо йы нша нө мі рі</td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Ас ыл тұқ ым дық кіт ап то мы жә не мар ка н өм ірі</td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Же лі</td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="15" rowspan="4">Баға лау дан өкі зге н ма ман ның тег і, а ты жә не әке сін ің аты (ж еке ба сын ку әла нды ра тын құ жат та бар бо лса) , қо лы</td>
+</tr>
+<tr>
+<td>Түсі және реңі</td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Бұй ра өл ше мі жә не ти пі</td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Ел ті рі лік ти пі</td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Енесінің енесі (ЕЕ)</td>
-<td>Әкесінің енесі (ӘЕ)</td>
-<td>Енесінің әкесі (ЕӘ)</td>
-<td>Әкесінің әкесі (ӘӘ)ӘӘ</td>
-<td colspan="11"></td>
+<td colspan="2">Енесінің енесінің енесі (ЕЕЕ)</td>
+<td colspan="3">Енесінің енесінің әкесі (ЕЕӘ)</td>
+<td colspan="2">Ене сін ің әке сі нің ен есі (ЕӘ Е)</td>
+<td colspan="3">
+Ен е с і н і ң
+ә к е с і н і ң
+ә к е с і (Е Ә Ә)
+</td>
+<td colspan="4">
+Ә к е с і н і ң
+е н е с і н і ң
+е н е с і (Ә Е Е)
+</td>
+<td colspan="3">
+Ә к е с і н і ң
+е н е с і н і ң
+ә к е с і (Ә Е Ә)
+</td>
+<td colspan="4">Әк ес ін ің әк ес ін ің ен есі (Ә Ә Е)</td>
+<td colspan="2">Әкесінің әкесінің әкесі (ӘӘӘ)</td>
 </tr>
 <tr>
 <td>Жеке нөмірі</td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="11" rowspan="4">Бағалауды өткізген күн</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>Тұқым және тұқымдас</td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>Асыл тұқымдық кітап бойынша нөмірі</td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>Асыл тұқымдық кітап томы және марка нөмірі</td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>Желі</td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="11" rowspan="4">Бағалаудан өкізген маманның тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы</td>
+<td colspan="3"></td>
+<td colspan="2">8</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>Түсі және реңі</td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>Бұйра өлшемі және типі</td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>Елтірілік типі</td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="17">Жүн өнімділігі және дамуы</td>
+<td colspan="24">Жүн өнімділігі және дамуы</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="3"></td>
 <td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td rowspan="3"></td>
-<td colspan="7">Жүн түсіиі</td>
-<td colspan="2" rowspan="3">Пигменттенуі</td>
-<td rowspan="3">Тірілей салмағы, кило-грамм</td>
+<td colspan="10">Жүн түсіиі</td>
+<td colspan="3" rowspan="3">П и г м е н т т е н у і</td>
+<td rowspan="3">
+Т і р і л е й
+с а л м а ғ ы, к и л о г р а м м
+</td>
 </tr>
 <tr>
-<td colspan="6">Бір-бір жарым жаста бонитерлеу</td>
-<td colspan="4">көктемгі</td>
-<td colspan="2" rowspan="2">Күзгі , кило-грамм</td>
-<td rowspan="2">Бір жылда, кило-грамм</td>
+<td colspan="9">Бір-бір жарым жаста бонитерлеу</td>
+<td colspan="6">көктемгі</td>
+<td colspan="3" rowspan="2">К ү з г і, к и л о г р а м м</td>
+<td rowspan="2">
+Б і р
+ж ы л д а, к и л о г р а м м
+</td>
 </tr>
 <tr>
 <td>Тірілей салмағы, кг</td>
 <td></td>
-<td colspan="3">Жүн конституциалық типі</td>
-<td></td>
-<td>салмағы, килограмм</td>
+<td colspan="5">Жүн конституциалық типі</td>
+<td colspan="2"></td>
+<td colspan="2">
+с а л м а ғ ы,
+к и л о г р а м м
+</td>
 <td colspan="2">Бұрымша және түбіт ұзындығы, см</td>
-<td>Класы</td>
+<td colspan="2">К л а с ы</td>
 </tr>
 <tr>
 <td>Жабағы жүннің пигментену дәрежесі</td>
 <td></td>
-<td colspan="3">Бұрымша және түбіт ұзындығы, сантиметр</td>
-<td></td>
+<td colspan="5">Бұрымша және түбіт ұзындығы, сантиметр</td>
+<td colspan="2"></td>
 <td>Анасы-нан айырғанда</td>
-<td>Х</td>
 <td colspan="2">Х</td>
-<td>Х</td>
-<td colspan="2"></td>
+<td colspan="2">Х</td>
+<td colspan="2">Х</td>
+<td colspan="3"></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>Шайырлығы</td>
 <td></td>
-<td colspan="2">Иілімділігі</td>
-<td></td>
-<td></td>
+<td colspan="3">Иілімділігі</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>20___ж</td>
-<td></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>Жабағы жүннің біркелкілігі</td>
 <td></td>
-<td colspan="2">Жүн тығыздығы</td>
-<td></td>
-<td></td>
+<td colspan="3">Жүн тығыздығы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>20___ж</td>
-<td></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>Жүндестігі</td>
 <td>00000</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>20___ж</td>
-<td></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td rowspan="2">Бағалауды өткізген күн</td>
 <td rowspan="2"></td>
-<td colspan="3" rowspan="2">Бағалауды өткізген маманның тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы</td>
-<td rowspan="2"></td>
+<td colspan="5" rowspan="2">Бағалауды өткізген маманның тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы</td>
+<td colspan="2" rowspan="2"></td>
 <td>20___ж</td>
-<td></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>20___ж</td>
-<td></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 </table>
 
 ```
-Шаруашылық жетекшісі _____________________________________________«____» ________________  20    жыл
-тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы
+Шаруашылық жетекшісі  _______ ________________________________«____»____  20    жыл
+       тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы
 ```
 
 > *Қазақстан Республикасы*  
@@ -2655,172 +2937,611 @@
 > *№ 49 бұйрығына*  
 > *7-қосымша*
 
+> *Ескерту. 7-қосымша жаңа редакцияда - ҚР Премьер-Министрінің орынбасары – ҚР Ауыл шаруашылығы министрінің 28.07.2017 № 314 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
+
 > *Нысан*
 
-## Асыл тұқымды қошқардың жеке карточкасы(биязы жүнді, жартылай биязы жүнді және етті-майлы бағыты)
+## Асыл тұқымды қошқардың жеке карточкасы (биязы жүнді, жартылай биязы жүнді және етті-майлы бағыты)
 
 <table>
 <tr>
-<td colspan="2">Шаруашылық</td>
-<td colspan="2">Лақап аты</td>
-<td>Шаруашылыққа келіп түскен күні « » 20 жыл</td>
-</tr>
-<tr>
-<td colspan="2">Бірдейлендіру нөмірі</td>
-<td colspan="2">Туған күні</td>
-<td>Бірінші қолданылғандағы жасы, ай</td>
-</tr>
-<tr>
-<td colspan="2">Тіркелу нөмірі</td>
-<td colspan="2">Туу типі</td>
-<td>Көрмелердегі наградалары</td>
-</tr>
-<tr>
-<td colspan="2">Тұқымы</td>
-<td colspan="2">Туған жері</td>
-<td>Түсі</td>
-</tr>
-<tr>
-<td colspan="2">Тұқымдылығы</td>
-<td colspan="3">Шығарылған күні және себебі « » 20 жыл</td>
+<td>
+Бірдейлендіру нөмірі _____________________
+оң құлағында (бирка)_________________________,
+сол құлағында (татуировка)____________________
+</td>
+<td></td>
+<td>
+Асыл тұқымдық кітапта нөмірі _____ болып жазылған
+_______20______жыл
+</td>
 </tr>
 </table>
+
+Тұқымы _____________________ Тұқымдылығы ______ Туған күні _______________20_____жыл қаншалардың ішінде туылды__________
+
+Иесі _____________________ Туған жері ________________________ Шаруашылыққа келіп түскен күні _________________ Шығарылған күні және себебі ________________
+
+(шаруашылық атауы, аудан, облыс) (шаруашылық атауы, аудан, облыс)
 
 <table>
 <tr>
 <td colspan="4">Шығу тегі</td>
-<td colspan="4">Ата-тегінің өнімділігі</td>
+<td colspan="9">Ата-тегінің өнімділігі</td>
+<td colspan="5">Қошқардың өнімділігі</td>
 </tr>
 <tr>
-<td rowspan="7">Әкесі</td>
+<td rowspan="7">Ә к ес і</td>
 <td rowspan="7">
-Жеке нөмірі_______
-Тұқымы______Тұқымдылығы
-_____
-Асыл тұқымдық кітап бойынша нөмірі_____
-</td>
-<td rowspan="3">Әкесі</td>
-<td rowspan="3">
-Жеке нөмірі_______
-Тұқымы______Тұқымдылығы
-_____
-Асыл тұқымдық кітап бойынша нөмірі_____
-</td>
-<td rowspan="3">Тегі</td>
-<td rowspan="3">
-Өнімділігі анықталған
-жасы
-</td>
-<td rowspan="3">Ең жоғары тірі салмағы, килограмм</td>
-<td rowspan="3">Ең жоғары жылдық жүн нің қырқылымы, килограмм</td>
-</tr>
-<tr>
-</tr>
-<tr>
-</tr>
-<tr>
-<td rowspan="4">Енесі</td>
-<td rowspan="4">
-Жеке нөмірі_______
-Тұқымы______Тұқымдылығы
-____
-Асыл тұқымдық кітап бойынша нөмірі_____
-</td>
-<td rowspan="2">Әкесі</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td rowspan="2">Енесі</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td rowspan="8">Енесі</td>
-<td rowspan="8">
-Жеке нөмірі_______
-Тұқымы______Тұқымдылығы
+Же ке нөмірі ____
+Тұқ ымы ____
+Тұқы мды лығы
 ___
-Асыл тұқымдық кітап бойынша нөмірі_____
+Ас ыл тұқы мд ық кіт ап бой ын ша нө мі рі ____
 </td>
-<td rowspan="4">Әкесі</td>
+<td rowspan="3">Ә</td>
+<td rowspan="3">
+Же ке нөм ірі ___
+Тұқ ымы ___ Тұқ ым дыл ығы
+_____
+Ас ыл тұқы мдық кітап бойы нша нөм ірі _____
+</td>
+<td rowspan="3">Т е г і</td>
+<td rowspan="3">
+Ө н і м д і л і г і
+а н ы қ т а л ғ а н
+ж а с ы
+</td>
+<td rowspan="3">
+Е ң ж о ғ а р ы
+т і р і
+с а л м а ғ ы,
+к и л о г р а м м
+</td>
+<td rowspan="3">
+Е ң ж о ғ а р ы ж ы л д ы қ ж ү н н і ң
+қ ы р қ ы л ы м ы, к и л о г р а м м
+</td>
+<td rowspan="3">
+Т а л ш ы қ
+ұ з ы н д ы ғ ы,
+с а н т и м е т р
+</td>
+<td rowspan="3">Ж ү н н і ң ж і ң і ш к е л і г і (к л а с с)</td>
+<td rowspan="3">
+Т а з а
+ж ү н с а л м а ғ ы,
+к и л о г р а м м
+</td>
+<td rowspan="3">Б ояу ы</td>
+<td rowspan="3">Б о н и т е р л е у к л ас ы</td>
+<td></td>
+<td>
+Ж ы л д ы қ
+ж ү н н і ң
+қ ы р қ ы л ы м ы, к и л о г р а м м
+</td>
+<td>
+Ж ү н н і ң
+к л ас ы
+</td>
+<td>Ө л ш еге н к үн і</td>
+<td>
+Т і р і
+д е й с а л м а ғ ы, к и л о г р а м м
+</td>
+</tr>
+<tr>
+<td>Т у ғ а н д а</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+Е н е с і н е н
+а й ы р ғ а н
+ж а с ы н д а
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">Е</td>
 <td rowspan="4">
 Жеке нөмірі_______
 Тұқымы______Тұқымдылығы
 _____
-Асыл тұқымдық кітап бойынша нөмірі_____
+Ас ыл
+т ұ қ ы м д ы қ
+к і т а п
+б о й ы н ш а
+н ө м і р і __
 </td>
-<td rowspan="2">Әкесінің әкесі (ӘӘ)</td>
+<td rowspan="2">Ә</td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20 __ ж ы л</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td>20 __ ж ы л</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="2">Енесінің әкесі (ЕӘ)</td>
+<td rowspan="2">Е</td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20 __ ж ы л</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td>20 __ ж ы л</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">Енесі</td>
+<td rowspan="8">Е н ес і</td>
+<td rowspan="8">
+Ж е к е н ө м і р і ___
+Т ұ қ ы м ы __
+Т ұ қ ы м д ы л ы ғ ы
+___
+А с ы л т ұ қ ы м д ы қ к і т а п б о й ы н ш а н ө м і р і _____
+</td>
+<td rowspan="4">Ә</td>
 <td rowspan="4">
-Жеке нөмірі_______
-Тұқымы______Тұқымдылығы
-_____
-Асыл тұқымдық кітап бойынша нөмірі______
+Ж е к е н ө м і р і ___
+Т ұ қ ы м ы ___ Тұқ ым дыл ығы ___
+А с ы л
+т ұ қ ы м д ы қ
+к і т а п б о й ы н ш а н ө м і р і ___
 </td>
-<td rowspan="2">Әкесінің енесі (ӘЕ)</td>
+<td rowspan="2">Ә Ә</td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20 __ ж ы л</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td>20 __ ж ы л</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="2">Енесінің енесі</td>
+<td rowspan="2">Е Ә</td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20 __ ж ы л</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td>20 __ ж ы л</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">Е</td>
+<td rowspan="4">
+Ж е к е н ө м і р і __
+Т ұ қ ы м ы ___ Т ұ қ ы м д ы л ы ғ ы
+___
+А с ы л т ұ қ ы м д ы қ
+к і т а п бо йы нша нө мі рі ___
+</td>
+<td rowspan="2">Ә М</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20 __ ж ы л</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20 __ ж ы л</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Е Е</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20 __ ж ы л</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20 __ ж ы л</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
-кестенің жалғасы:
+<table>
+<tr>
+<td colspan="2">Б а ғ а л а у</td>
+<td>Б а ғ ал а у к ү н і</td>
+<td>м а л д ы ң ж ас ы</td>
+<td>Т ип і</td>
+<td>Д е н е б і т ім і</td>
+<td>С ү йе к-т і л і г і</td>
+<td>Д е н е б і т ім і</td>
+<td>
+М а л-
+д ы ң ү л к е н-д і г і
+</td>
+<td>М ү й і з і</td>
+<td>Ж ү н с а л м-а ғ ы</td>
+<td>
+Т а л- ш ы қ
+ұ з ы н- д ы ғ ы,
+с а н т им е т р
+</td>
+<td>Ж ү н н і ң ж і ң і ш-к е л і г і</td>
+<td>
+С е р п і
+н д і л і г і
+</td>
+<td>Б і р к е л-к і л і г і</td>
+<td>Ш а й ы-р ы</td>
+<td>Б ояу ы</td>
+<td>М а й с ип а т ы</td>
+<td>Ж а л п ы б ағ ас ы</td>
+<td>К л а с с</td>
+<td>Б а ғ а л а у- ш ы н ы ң қ ол ы</td>
+</tr>
+<tr>
+<td colspan="2">Қошқарды</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">А т а- е н ес і н</td>
+<td>ә к е с і</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>е н ес і</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Таза жүн салмағы ___килограмм. Нөмірі_______________20_______ж. құжаттың негізінде жүн шығымы анықталды. __________ Көрмелердегі марапаты
 
 <table>
 <tr>
-<td colspan="5">Ата-тегінің өнімділігі</td>
-<td></td>
-<td colspan="4">Қошқардың өнімділігі</td>
+<td rowspan="3">Шағ ылы сқан жы лы жә не айы</td>
+<td colspan="7">Асыл тұқымды қошқарды қолдану</td>
+<td rowspan="3">Бо ял ған қо зы лар са ны</td>
+<td colspan="7">Төлді енесінен айырғандағы жалпы бағасы (сан)</td>
 </tr>
 <tr>
-<td rowspan="3">
-Талшық ұзындығы,
-сантиметр
+<td rowspan="2">қош қар ды қол дану әдісі</td>
+<td rowspan="2">ұры қты бағалау</td>
+<td rowspan="2">ұры қтан ған ана лық саны</td>
+<td rowspan="2">төл дег ен ана лық саны</td>
+<td colspan="3">туылған қозылар, бас</td>
+<td colspan="3">Т и пі</td>
+<td rowspan="2">ө т е ж а қс ы</td>
+<td rowspan="2">ж а қс ы</td>
+<td rowspan="2">
+қ а н а- ғ ат
+т а н а р -л ы қ
 </td>
-<td rowspan="3">Жүннің жіңішкелігі (класс)</td>
-<td rowspan="3">
-Таза жүн салмағы,
-килограмм
+<td rowspan="2">
+қ а н а ғ а т -т а н
+д ы р м а й-д ы
 </td>
-<td rowspan="3">Бояуы</td>
-<td rowspan="3">Бонитерлеу класы</td>
+</tr>
+<tr>
+<td>барлығы</td>
+<td>тірі</td>
+<td>өлі</td>
+<td>
+С
+(Н)
+</td>
+<td>
+С+
+(Ш)
+</td>
+<td>
+С-
+(М)
+</td>
+</tr>
+<tr>
 <td></td>
-<td>Жыл-дық жүннің қырқылымы, кило-грамм</td>
-<td>Жүн-нің кла-сы</td>
-<td>Өлшеген күні</td>
-<td>Тірідей салмағы, кило-грамм</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Жылдық (бір жарым жасында) төлді бағалау кезіндегі сипаттамасы
+
+<table>
+<tr>
+<td rowspan="3">Төл дің туғ ан жы лы</td>
+<td colspan="10">Бас саны</td>
+<td colspan="3">типі бойынша қозылар саны</td>
+<td rowspan="3">Ор та ша ті рі са л ма ғы, ки л ог ра-мм</td>
+<td rowspan="3">
+Орт аша жүн
+түс імі, кил ог ра-мм
+</td>
+<td rowspan="3">
+Жүн нің
+ұзы нды ғы, сан тиметр
+</td>
+</tr>
+<tr>
+<td colspan="2">эли та</td>
+<td colspan="2">бірі нш і клас</td>
+<td colspan="2">екін ші клас</td>
+<td colspan="2">үшін ші клас</td>
+<td colspan="2">брак</td>
+<td rowspan="2">С (Н)</td>
+<td rowspan="2">С+(Ш)</td>
+<td rowspan="2">С-(М)</td>
+</tr>
+<tr>
+<td>қ о шқ а р</td>
+<td>т о қт ы</td>
+<td>қ о шқ а р</td>
+<td>т о қт ы</td>
+<td>қ о шқ а р</td>
+<td>т о қт ы</td>
+<td>қ о шқ а р</td>
+<td>т о қт ы</td>
+<td>қ о шқ а р</td>
+<td>т о қт ы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+```
+Ерекше белгілер_____________________________________________________________________
+Карточканы тексерген _______________________________________________________________
+(тегі, аты және әкесінің аты, (жеке басын куәландыратын құжатта бар болса) және қолы
+Шаруашылық жетекшісі _________________________________________«____» ________ 20 жыл
+тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы
+```
+
+> *Қазақстан Республикасы*  
+> *Ауыл шаруашылығы министрінің*  
+> *2016 жылғы 11 ақпандағы*  
+> *№ 49 бұйрығына*  
+> *8-қосымша*
+
+> *Ескерту. 8-қосымша жаңа редакцияда - ҚР Премьер-Министрінің орынбасары – ҚР Ауыл шаруашылығы министрінің 28.07.2017 № 314 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
+
+> *Нысан*
+
+## Асыл тұқымды қойдың жеке карточкасы (биязы жүнді, жартылай биязы жүнді және етті-майлы бағыты)
+
+<table>
+<tr>
+<td>
+Бірдейлендіру нөмірі _____________________
+оң құлағында (бирка)_________________________,
+сол құлағында (татуировка)____________________
+</td>
+<td></td>
+<td>
+Асыл тұқымдық кітапта нөмірі _____ болып жазылған
+_______20______жыл
+</td>
+</tr>
+</table>
+
+Тұқымы _____________________ Тұқымдылығы ______ Туған күні _______________20_____жыл қаншалардың ішінде туылды__________
+
+Иесі ____________________________ Туған жері _____________________________ Шаруашылыққа келіп түскен күні _________________ Шығарылған күні және себебі ________________
+
+(шаруашылық атауы, аудан, облыс) (шаруашылық атауы, аудан, облыс)
+
+<table>
+<tr>
+<td colspan="4">Аналықтың шығу тегі</td>
+<td colspan="9">Тегінің өнімділігі</td>
+<td colspan="5">Аналығының өнімділігі</td>
+</tr>
+<tr>
+<td rowspan="7">Ә к ес і</td>
+<td rowspan="7">
+Же ке нө мірі ____
+Тұқымы ____
+Тұқ ым ды лы ғы
+____
+Асыл тұқы мд ық кітап бойынша нөмірі ___
+</td>
+<td rowspan="3">Ә</td>
+<td rowspan="3">
+Же ке нө мі рі ___
+Тұқ ымы ___
+Тұқ ым ды лы ғы
+___
+Ас ыл тұқы мд ық кі тап бо йы нша нөм ірі _____
+</td>
+<td rowspan="3">Тегі</td>
+<td rowspan="3">
+Ө н і м д і л і г і а н ы қ т а л ғ а н
+ж ас ы
+</td>
+<td rowspan="3">Е ң ж о ғ а р ы т і р і с а л м а ғ ы, к и л о г р а м м</td>
+<td rowspan="3">Е ң ж о ғ а р ы ж ы л д ы қ ж ү н н і ң қ ы р қ ы л ы м ы, к и л о г р а м м</td>
+<td rowspan="3">
+Ж ү н н і ң
+ұ з ы н д ы ғ ы,
+с а н т и м е т р
+</td>
+<td rowspan="3">Ж ү н н і ң ж і ң і ш к е л і г і ( к л а с с)</td>
+<td rowspan="3">
+Т а з а
+ж ү н с а л м а ғ ы,
+к и л о г р а м м
+</td>
+<td rowspan="3">Б ояу ы</td>
+<td rowspan="3">Б о н и т е р л е у к л ас ы</td>
+<td></td>
+<td>Ж ы л д ы қ ж ү н н і ң қ ы р қ ы л ы м ы, к и л о г р а м м</td>
+<td>
+Ж ү н н і ң
+к л ас ы
+</td>
+<td>Ө л ш е г е н к үн і</td>
+<td>Т і р і д е й с а л м а ғ ы, к и л о г р а м м</td>
 </tr>
 <tr>
 <td>Туғанда</td>
@@ -2837,429 +3558,169 @@ _____
 <td></td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td>20__жыл</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20__жыл</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td>20__жыл</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20__жыл</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td>20__жыл</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20__жыл</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td>20__жыл</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20__жыл</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td>20__жыл</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20__жыл</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-```
-Шаруашылық жетекшісі ______________________________________________«____» ________________  20    жыл
-тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы
-```
-
-> *Қазақстан Республикасы*  
-> *Ауыл шаруашылығы министрінің*  
-> *2016 жылғы 11 ақпандағы*  
-> *№ 49 бұйрығына*  
-> *8-қосымша*
-
-> *Нысан*
-
-## Асыл тұқымды қойдың жеке карточкасы(биязы жүнді, жартылай биязы жүнді және етті-майлы бағыты)
-
-<table>
-<tr>
-<td>_______________________</td>
-<td>______________________</td>
-</tr>
-<tr>
-<td>облыс</td>
-<td>аудан</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="2">Шаруашылық</td>
-<td colspan="2">Лақап аты</td>
-<td>Шаруашылыққа келіп түскен күні « » 20 жыл</td>
-</tr>
-<tr>
-<td colspan="2">Бірдейлендіру нөмірі</td>
-<td colspan="2">Туған күні</td>
-<td>Бірінші қолданылғандағы жасы, ай</td>
-</tr>
-<tr>
-<td colspan="2">Тіркелу нөмірі</td>
-<td colspan="2">Туу типі</td>
-<td>Көрмелердегі наградалары</td>
-</tr>
-<tr>
-<td colspan="2">Тұқымы</td>
-<td colspan="2">Туған жері</td>
-<td>Түсі</td>
-</tr>
-<tr>
-<td colspan="2">Тұқымдылығы</td>
-<td colspan="3">Шығарылған күні және себебі « » 20 жыл</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="4">Аналықтың шығу тегі</td>
-<td colspan="5">Текгінің өнімділігі</td>
-</tr>
-<tr>
-<td rowspan="7">әкесі</td>
-<td rowspan="7">
-Жеке нөмірі_______
-Тұқымы_____
-Тұқымдылығы
-_____
-Асыл тұқымдық кітап бойынша нөмірі_____
-</td>
-<td rowspan="3">Әкесі</td>
-<td rowspan="3">
-Жеке нөмірі_______
-Тұқымы________
-Тұқымдылығы
-_____
-Асыл тұқымдық кітап бойынша нөмірі_____
-</td>
-<td rowspan="3">Тегі</td>
-<td rowspan="3">Өнімділігі анықталған жасы</td>
-<td rowspan="3">Ең жоғары тірі салмағы, килограмм</td>
-<td rowspan="3">
-Ең жоғары жылдық жүннің
-қырқылымы, килограмм
-</td>
-<td rowspan="3">талшық ұзындығы, сантиметр</td>
-</tr>
-<tr>
-</tr>
-<tr>
-</tr>
-<tr>
-<td rowspan="4">Енесі</td>
+<td rowspan="4">Е</td>
 <td rowspan="4">
-Жеке нөмірі_______
-Тұқымы________
-Тұқымдылығы
-_____
-Асыл тұқымдық
-кітап бойынша нөмірі
-_____
+Жеке нөмірі ____
+Тұқы мы ___
+Тұқы мды лығы _____
+Асыл тұқы мдық кітап бой ынша нөмірі _____
 </td>
-<td rowspan="2">Әкесі</td>
+<td rowspan="2">Ә</td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20__жыл</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td>20__ жыл</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="2">Енесі</td>
+<td rowspan="2">Е</td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20__ жыл</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td>20__ жыл</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="8">енесі</td>
+<td rowspan="8">Е н ес і</td>
 <td rowspan="8">
-Жеке нөмірі_______
-Тұқымы________
-Тұқымдылығы
-_____
-Асыл тұқымдық кітап бойынша нөмірі_____
+Жеке нөмірі ____
+Тұқы мы ____
+Тұқы мды лығы _____
+Асыл тұқы мдық кітап бойы нша нөмірі _____
 </td>
-<td rowspan="4">Әкесі</td>
+<td rowspan="4">Ә</td>
 <td rowspan="4">
 Жеке нөмірі_______
-Тұқымы________
-Тұқымдылығы
-_____
-Асыл тұқымдық кітап бойынша нөмірі_____
+Тұқымы______
+Тұқымдылығы_______
+Асыл тұқымдық кітап бойынша нөмірі _____
 </td>
-<td rowspan="2">Әкесінің әкесі (ӘӘ)</td>
+<td rowspan="2">ӘӘ</td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td rowspan="2">Енесінің әкесі (ЕӘ)</td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td rowspan="4">Енесі</td>
-<td rowspan="4">
-Жеке нөмірі_______
-Тұқымы________
-Тұқымдылығы
-_____
-Асыл тұқымдық кітап
-бойынша нөмірі
-_____
-</td>
-<td rowspan="2">Әкесінің енесі (ӘЕ)</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td rowspan="2">Енесінің енесі (ЕЕ)</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-</tr>
-</table>
-
-кестенің жалғасы:
-
-<table>
-<tr>
-<td colspan="2">Текгінің өнімділігі</td>
-<td colspan="5">Аналықтың өнімділігі</td>
-</tr>
-<tr>
-<td rowspan="3">Жүннің жіңішкелігі (клас)</td>
-<td rowspan="3">Бонитерлеу бойынша класы</td>
+<td>20__ жыл</td>
 <td></td>
-<td>
-Жылдық жүннің
-қырқымы, кило
-грамм
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20__ жыл</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">ЕӘ</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20__ жыл</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20__ жыл</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">Е</td>
+<td rowspan="4">
+Жеке нөмірі_______
+Тұқымы______
+Тұқымдылығы_____
+Асыл тұқымдық кітап бойынша нөмірі _____
 </td>
-<td>Жүннің класы</td>
-<td>Өлшеу күні</td>
-<td>
-Тірідей салмағы,
-килограмм
-</td>
+<td rowspan="2">ӘЕ</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20__ жыл</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20__ жыл</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td rowspan="2">
-Туғанда
-Енесінен
-айыр-
--ғанда
+Е
+Е
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
-<td rowspan="12">
-20__жыл
-20__жыл
-20__жыл
-20__жыл
-20__жыл
-20__жыл
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -3267,10 +3728,196 @@ _____
 </tr>
 </table>
 
-```
-Шаруашылық жетекшісі _____________________________________________«____» ________________  20    жыл
-тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы
-```
+<table>
+<tr>
+<td colspan="2" rowspan="2">Бо н ит ир л еу</td>
+<td rowspan="2">Бо нит ир леум езкүні</td>
+<td rowspan="2">М а л д ы ң ж ас ы</td>
+<td rowspan="2">Т ип i</td>
+<td colspan="7">Жүн сапасы</td>
+<td rowspan="2">М ал ды ң біт імі мен сү йе гі</td>
+<td rowspan="2">М ү й і з і</td>
+<td rowspan="2">М а л д ы ң к өл ем і</td>
+<td rowspan="2">С ы р т қ ы к е лб ет і</td>
+<td rowspan="2">Ж а л п ы б а ғ ал а у</td>
+<td rowspan="2">К л а с с</td>
+<td rowspan="2">
+Б о н и т и р л е у ш і н і ң
+қ ол ы
+</td>
+</tr>
+<tr>
+<td>
+с а л ма ғы,
+ки логар мм
+</td>
+<td>Ұзы нды ғы, сан тиме тр</td>
+<td>Ир ектi лiгi</td>
+<td>
+Жi ңi шк ел iгi
+кл асс
+</td>
+<td>Б i р к е лк i л i г i</td>
+<td>Ш а йыр ы</td>
+<td>Бо яу ы, ж ылты рлығы</td>
+</tr>
+<tr>
+<td colspan="2">Ана лық тың</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Ә к е-е н е с i н i ң</td>
+<td>Ә к е с i н i ң</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Е н е с i н i ң</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Жуылған жүн түсiмi_______________________ кг. ________________ Қандай құжат негiзiнде таза жүн шығымы анықталды
+
+<table>
+<tr>
+<td rowspan="3">А н а л ы қ т ы ң ш а ғ ы л ы с қ а н к ү ні</td>
+<td colspan="2">Ұрықтандырған қошқар</td>
+<td rowspan="3">
+Т ө л-
+д е у к үн і
+</td>
+<td colspan="11">Төлдiң сипаттамасы</td>
+</tr>
+<tr>
+<td rowspan="2">Жеке нөмерi</td>
+<td rowspan="2">класы</td>
+<td rowspan="2">
+жынысы
+(қошқар/
+тоқты
+</td>
+<td rowspan="2">Төл дiң же ке нө ме рi</td>
+<td colspan="4">Тірі салмағы, килограмм</td>
+<td rowspan="2">Е н е с i н е н б ө л у м е з г i л i</td>
+<td colspan="2">Жүн түсiмi килограмм</td>
+<td colspan="2">Сұрыптау</td>
+</tr>
+<tr>
+<td>
+Туылған-
+дағы
+</td>
+<td>
+енесiнен
+бөлгендегi
+</td>
+<td>
+Бір жаста
+(1,5 жаста)
+</td>
+<td>
+Екі жаста
+(2,5) жаста
+</td>
+<td>бiр жастағы</td>
+<td>
+Екі
+жастағы
+</td>
+<td>енесiнен бөлгенде</td>
+<td>
+Бір жаста
+(1,5-жаста)
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Ерекше белгілер___________________________________________________________________________
+
+<table>
+<tr>
+<td colspan="2">Карточканы тексерген</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">(тегі, аты және әкесінің аты, (жеке басын куәландыратын құжатта бар болса) және қолы</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Шаруашылық жетекшісі _________________________________________________________________________«____» ________________ 20 жыл</td>
+</tr>
+<tr>
+<td>тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы</td>
+</tr>
+</table>
 
 > *Қазақстан Республикасы*  
 > *Ауыл шаруашылығы министрінің*  
@@ -5591,6 +6238,8 @@ __________
 > *№ 49 бұйрығына*  
 > *15-қосымша*
 
+> *Ескерту. 15-қосымша жаңа редакцияда - ҚР Премьер-Министрінің орынбасары – ҚР Ауыл шаруашылығы министрінің 28.07.2017 № 314 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
+
 > *Нысан*
 
 ## Жергілікті асыл тұқымды айғырдың жеке карточкасы
@@ -5605,9 +6254,6 @@ __________
 <td colspan="3">Облыс</td>
 <td colspan="3">Аудан</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td>Лақап аты</td>
 <td colspan="3"></td>
@@ -5649,7 +6295,7 @@ __________
 <td>Буыны (қандылығы)</td>
 <td></td>
 <td colspan="2"></td>
-<td>шоқтығы</td>
+<td>15шоқтығы</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
@@ -5692,11 +6338,11 @@ __________
 <td></td>
 </tr>
 <tr>
-<td>Асыл тұқымдық кітап бойынша нөмірібойынша №</td>
+<td>Асыл тұқымдық кітап бойынша нөмірі бойынша №</td>
 <td></td>
-<td>Тұқым ішіндегі түрі</td>
+<td>Тұқым ішіндегі типі</td>
 <td></td>
-<td>Асыл тұқымдық кітап бойыншанөмірі</td>
+<td>Асыл тұқымдық кітап бойынша нөмірі</td>
 <td></td>
 <td>Тұқым ішіндегі түрі</td>
 <td></td>
@@ -5706,13 +6352,70 @@ __________
 <table>
 <tr>
 <td></td>
-<td>Енесінің енесі (ЕЕ)</td>
-<td>Әкесінің енесі (ӘЕ)</td>
-<td>Енесінің әкесі (ЕӘ)</td>
-<td>Әкесінің әкесі (ӘӘ)</td>
+<td colspan="2">Енесінің енесі (ЕЕ)</td>
+<td colspan="2">Әкесінің енесі (ӘЕ)</td>
+<td colspan="2">Енесінің әкесі (ЕӘ)</td>
+<td colspan="2">Әкесінің әкесі (ӘӘ)</td>
 </tr>
 <tr>
 <td>Лақап аты</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Жеке нөмірі</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Асыл тұқымдық кітап бойынша нөмірі бойынша</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Тұқымы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Буыны (қандылығы)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Тұқым ішіндегі типі</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td>Енесінің енесінің енесі (ЕЕЕ)</td>
+<td>Енесінің енесінің әкесі (ЕЕӘ)</td>
+<td>Енесінің әкесінің енесі (ЕӘЕ)</td>
+<td>Енесінің әкесінің әкесі (ЕӘӘ)</td>
+<td>Әкесінің енесінің енесі (ӘЕЕ)</td>
+<td>Әкесінің енесінің әкесі (ӘЕӘ)</td>
+<td>Әкесінің әкесінің енесі (ӘӘЕ)</td>
+<td>Әкесінің әкесінің әкесі (ӘӘӘ)</td>
+</tr>
+<tr>
+<td>Лақап аты</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5724,9 +6427,17 @@ __________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Асыл тұқымдық кітап бойынша нөмірі бойынша</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5738,9 +6449,17 @@ __________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Буыны (қандылығы)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5752,10 +6471,14 @@ __________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
-## Өнімділігі
+Өнімділігі
 
 <table>
 <tr>
@@ -5767,23 +6490,23 @@ __________
 килог-рамм
 </td>
 <td rowspan="2">
-Қоңдылығы,
-(санаты)
+Қ о ң д ы л ығ ы,
+(с а н а т ы)
 </td>
 <td colspan="6">Бонитерлеу, балы</td>
-<td rowspan="2">к л а с ы</td>
+<td rowspan="2">к л ас ы</td>
 </tr>
 <tr>
 <td>Шоқтығының биіктігі</td>
-<td>Шаршы-лама ұзындығы</td>
+<td>Шар шы- лама ұзын дығы</td>
 <td>Кеуде ора-мы</td>
-<td>С и р а қ о р а м ы</td>
-<td>г е н о т и п</td>
-<td>өлшем-дері мен салмағы</td>
-<td>Сыртқы тұрпаты</td>
-<td>с ү т т і л і г і</td>
-<td>қабілеттілік сапалары</td>
-<td>ұрпағының сапасы</td>
+<td>Си- рақ ора- 16мы</td>
+<td>г е н от и п</td>
+<td>өлш ем- дері мен сал мағы</td>
+<td>Сыр тқы тұр паты</td>
+<td>сүттілігі</td>
+<td>қабі лет тіл ік сапа лары</td>
+<td>ұрп ағы ның сапасы</td>
 </tr>
 <tr>
 <td></td>
@@ -5839,8 +6562,8 @@ __________
 </table>
 
 ```
-Шаруашылық жетекшісі _____________________________________________«____» ________________  20    жыл
-тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы
+Шаруашылық жетекшісі _________________________________________«____» ___________ 20 жыл
+         тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы
 ```
 
 > *Қазақстан Республикасы*  
@@ -5848,6 +6571,8 @@ __________
 > *2016 жылғы 11 ақпандағы*  
 > *№ 49 бұйрығына*  
 > *16-қосымша*
+
+> *Ескерту. 16-қосымша жаңа редакцияда - ҚР Премьер-Министрінің орынбасары – ҚР Ауыл шаруашылығы министрінің 28.07.2017 № 314 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
 
 > *Нысан*
 
@@ -5863,9 +6588,6 @@ __________
 <td colspan="5">Облыс</td>
 <td colspan="4">Аудан</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="2">Лақап аты</td>
 <td colspan="5"></td>
@@ -5897,7 +6619,7 @@ __________
 <td colspan="2">Тұқымы</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2">жамбасы</td>
+<td colspan="2">18жамбасы</td>
 <td colspan="3"></td>
 <td></td>
 <td colspan="3"></td>
@@ -5949,11 +6671,11 @@ __________
 <tr>
 <td>Асыл тұқымдық кітап бойынша нөмірі</td>
 <td colspan="2"></td>
-<td colspan="2">Тұқым ішіндегі түрі</td>
+<td colspan="2">Тұқым ішіндегі типі</td>
 <td colspan="3"></td>
 <td colspan="2">Асыл тұқымдық кітап бойынша нөмірі</td>
 <td colspan="4"></td>
-<td colspan="3">Тұқым ішіндегі түрі</td>
+<td colspan="3">Тұқым ішіндегі типі</td>
 <td></td>
 </tr>
 </table>
@@ -5961,13 +6683,70 @@ __________
 <table>
 <tr>
 <td></td>
-<td>Енесінің енесі (ЕЕ)</td>
-<td>Әкесінің енесі (ӘЕ)</td>
-<td>Енесінің әкесі (ЕӘ)</td>
-<td>Әкесінің әкесі (ӘӘ)</td>
+<td colspan="2">Енесінің енесі (ЕЕ)</td>
+<td colspan="2">Әкесінің енесі (ӘЕ)</td>
+<td colspan="2">Енесінің әкесі (ЕӘ)</td>
+<td colspan="2">Әкесінің әкесі (ӘӘ)</td>
 </tr>
 <tr>
 <td>Лақап аты</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Жеке нөмірі</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Асыл тұқымдық кітап бойынша нөмірі</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Тұқымы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Ұрпағы (қандылығы)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Тұқым ішіндегі типі</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td>Енесінің енесінің енесі (ЕЕЕ)</td>
+<td>Енесінің енесінің әкесі (ЕЕӘ)</td>
+<td>Енесінің әкесінің енесі (ЕӘЕ)</td>
+<td>Енесінің әкесінің әкесі (ЕӘӘ)</td>
+<td>Әкесінің енесінің енесі (ӘЕЕ)</td>
+<td>Әкесінің енесінің әкесі (ӘЕӘ)</td>
+<td>Әкесінің әкесінің енесі (ӘӘЕ)</td>
+<td>Әкесінің әкесінің әкесі (ӘӘӘ)</td>
+</tr>
+<tr>
+<td>Лақап аты</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5979,9 +6758,17 @@ __________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Асыл тұқымдық кітап бойынша нөмірі</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5993,9 +6780,17 @@ __________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Буыны (қандылығы)</td>
+<td>Ұрпағы (қандылығы)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6007,15 +6802,19 @@ __________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
-## Өнімділігі
+Өнімділігі
 
 <table>
 <tr>
-<td rowspan="2">Бонитерлеу жасы</td>
-<td rowspan="2">Бонитерлеу күні</td>
+<td rowspan="2">Бо ни терлеу жа сы</td>
+<td rowspan="2">Бо нит ерлеу кү ні</td>
 <td colspan="4">Өлшемдері, сантиметр</td>
 <td rowspan="2">
 Тірі салмағы,
@@ -6023,20 +6822,20 @@ __________
 </td>
 <td rowspan="2">
 Қоңдылы-ғы,
-(санаты)
+19(санаты)
 </td>
 <td colspan="6">Бонитерлеу, баллы</td>
 <td rowspan="2">К л а с с</td>
 </tr>
 <tr>
-<td>Шоқты-ғының биікті-гі</td>
-<td>Шаршыла-ма ұзындығы</td>
-<td>Кеуде орамы</td>
-<td>С и р а қ о р а м ы</td>
-<td>г е н о т и п</td>
-<td>өлшем-дері мен салмағы</td>
+<td>Шоқ ты- ғын ың би ікті -гі</td>
+<td>Шар шы ла-ма ұзы ндығы</td>
+<td>Кеу де о рам ы</td>
+<td>С ир а қ о р а м ы</td>
+<td>генотип</td>
+<td>өлш ем- де рі мен салма ғы</td>
 <td>Сыртқы тұрпаты</td>
-<td>с ү т т і л і г і</td>
+<td>сүттілігі</td>
 <td>Қабілетті-лік сапалары</td>
 <td>Ұрпағы-ның сапасы</td>
 </tr>
@@ -6094,7 +6893,7 @@ __________
 </table>
 
 ```
-Шаруашылық жетекшісі _____________________________________________«____» ________________  20    жыл
+Шаруашылық жетекшісі ___________________________________________«____» _______ 20 жыл
 тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы
 ```
 
@@ -7938,6 +8737,8 @@ ___________________________
 > *№ 49 бұйрығына*  
 > *26-қосымша*
 
+> *Ескерту. 26-қосымша жаңа редакцияда - ҚР Премьер-Министрінің орынбасары – ҚР Ауыл шаруашылығы министрінің 28.07.2017 № 314 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
+
 > *Нысан*
 
 ## Асыл тұқымды арланның жеке карточкасы
@@ -7984,10 +8785,10 @@ ___________________________
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">Буыны (қандылығы)</td>
+<td rowspan="2">Ұрпағы (қандылығы)</td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
-<td>шабы</td>
+<td>21шабы</td>
 <td></td>
 <td></td>
 <td></td>
@@ -8001,7 +8802,7 @@ ___________________________
 <td></td>
 </tr>
 <tr>
-<td>Тұқым ішіндегі түрі</td>
+<td>Тұқым ішіндегі типі</td>
 <td></td>
 <td></td>
 <td></td>
@@ -8045,11 +8846,11 @@ ___________________________
 <tr>
 <td>Асыл тұқымдық кітап бойынша нөмірі</td>
 <td></td>
-<td>Тұқым ішіндегі түрі</td>
+<td>Тұқым ішіндегі типі</td>
 <td></td>
 <td>Асыл тұқымдық кітап бойынша нөмірі</td>
 <td></td>
-<td>Тұқым ішіндегі түрі</td>
+<td>Тұқым ішіндегі типі</td>
 <td></td>
 </tr>
 </table>
@@ -8057,13 +8858,63 @@ ___________________________
 <table>
 <tr>
 <td></td>
-<td>Енесінің енесі (ЕЕ)</td>
-<td>Әкесінің әкесі (ӘЕ)</td>
-<td>Әкесінің енесі (ӘЕ)</td>
-<td>Әкесінің әкесі (ӘӘ)</td>
+<td colspan="2">Енесінің енесі (ЕЕ)</td>
+<td colspan="2">Әкесінің әкесі (ӘЕ)</td>
+<td colspan="2">Әкесінің енесі (ӘЕ)</td>
+<td colspan="2">Әкесінің әкесі (ӘӘ)</td>
 </tr>
 <tr>
 <td>Лақап аты</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Жеке нөмірі</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Асыл тұқымдық кітап бойынша нөмірі</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Тұқымы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Тұқым ішіндегі типі</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td>Енесінің енесінің енесі (ЕЕЕ)</td>
+<td>Енесінің енесінің әкесі (ЕЕӘ)</td>
+<td>Енесінің әкесінің енесі (ЕӘЕ)</td>
+<td>Енесінің әкесінің әкесі (ЕӘӘ)</td>
+<td>Әкесінің енесінің енесі (ӘЕЕ)</td>
+<td>Әкесінің енесінің әкесі (ӘЕӘ)</td>
+<td>Әкесінің әкесінің енесі (ӘӘЕ)</td>
+<td>Әкесінің әкесінің әкесі (ӘӘӘ)</td>
+</tr>
+<tr>
+<td>Лақап аты</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8075,9 +8926,17 @@ ___________________________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Асыл тұқымдық кітап бойынша нөмірі</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8089,9 +8948,28 @@ ___________________________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Тұқым ішіндегі түрі</td>
+<td>Ұрпағы (қандылығы)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Тұқым ішіндегі типі</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8100,8 +8978,8 @@ ___________________________
 </table>
 
 ```
-Шаруашылық жетекшісі ____________________________________________«____» ________________  20    жыл
-тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы
+Шаруашылық жетекшісі  _____________________________________«____» ___________  20    жыл
+          тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы
 ```
 
 > *Қазақстан Республикасы*  
@@ -8109,6 +8987,8 @@ ___________________________
 > *2016 жылғы 11 ақпандағы*  
 > *№ 49 бұйрығына*  
 > *27-қосымша*
+
+> *Ескерту. 27-қосымша жаңа редакцияда - ҚР Премьер-Министрінің орынбасары – ҚР Ауыл шаруашылығы министрінің 28.07.2017 № 314 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
 
 > *Нысан*
 
@@ -8148,7 +9028,7 @@ ___________________________
 <tr>
 <td>Асыл тұқымдық кітап бойынша нөмірі</td>
 <td></td>
-<td></td>
+<td>23</td>
 <td>құлағы</td>
 <td></td>
 <td></td>
@@ -8173,7 +9053,7 @@ ___________________________
 <td></td>
 </tr>
 <tr>
-<td>Тұқым ішіндегі түрі</td>
+<td>Тұқым ішіндегі типі</td>
 <td></td>
 <td></td>
 <td></td>
@@ -8209,11 +9089,11 @@ ___________________________
 <tr>
 <td>Асыл тұқымдық кітап бойынша нөмірі</td>
 <td></td>
-<td>Тұқым ішіндегі түрі</td>
+<td>Тұқым ішіндегі типі</td>
 <td></td>
 <td>Асыл тұқымдық кітап бойынша нөмірі</td>
 <td></td>
-<td>Тұқым ішіндегі түрі</td>
+<td>Тұқым ішіндегі типі</td>
 <td></td>
 </tr>
 </table>
@@ -8221,13 +9101,63 @@ ___________________________
 <table>
 <tr>
 <td></td>
-<td>Енесінің енесі (ЕЕ)</td>
-<td>Әкесінің енесі (ӘЕ)</td>
-<td>Енесінің әкесі (ЕӘ)</td>
-<td>Әкесінің әкесі (ӘӘ)</td>
+<td colspan="2">Енесінің енесі (ЕЕ)</td>
+<td colspan="2">Әкесінің әкесі (ӘЕ)</td>
+<td colspan="2">Әкесінің енесі (ӘЕ)</td>
+<td colspan="2">Әкесінің әкесі (ӘӘ)</td>
 </tr>
 <tr>
 <td>Лақап аты</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Жеке нөмірі</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Асыл тұқымдық кітап бойынша нөмірі</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Тұқымы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Тұқым ішіндегі типі</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td>Енесінің енесінің енесі (ЕЕЕ)</td>
+<td>Енесінің енесінің әкесі (ЕЕӘ)</td>
+<td>Енесінің әкесінің енесі (ЕӘЕ)</td>
+<td>Енесінің әкесінің әкесі (ЕӘӘ)</td>
+<td>Әкесінің енесінің енесі (ӘЕЕ)</td>
+<td>Әкесінің енесінің әкесі (ӘЕӘ)</td>
+<td>Әкесінің әкесінің енесі (ӘӘЕ)</td>
+<td>Әкесінің әкесінің әкесі (ӘӘӘ)</td>
+</tr>
+<tr>
+<td>Лақап аты</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8239,9 +9169,17 @@ ___________________________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Асыл тұқымдық кітап бойынша нөмірі</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8253,9 +9191,17 @@ ___________________________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Тұқым ішіндегі түрі</td>
+<td>Тұқым ішіндегі типі</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8264,7 +9210,7 @@ ___________________________
 </table>
 
 ```
-Шаруашылық жетекшісі ____________________________________________«____» ________________ 20 жыл
+Шаруашылық жетекшісі _______________________________________«____» _______ 20 жыл
 тегі, аты және әкесінің аты (жеке басын куәландыратын құжатта бар болса), қолы
 ```
 

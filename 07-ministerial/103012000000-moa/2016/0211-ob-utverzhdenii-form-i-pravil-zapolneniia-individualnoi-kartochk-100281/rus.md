@@ -1996,8 +1996,9 @@ _____________________
 > *Приложение 5*  
 > *к приказу Министра сельского хозяйства*  
 > *Республики Казахстан*  
-> *от 11 февраля 2016 года*  
-> *№ 49*
+> *от 11 февраля 2016 года № 49*
+
+> *Сноска. Приложение 5 в редакции приказа Заместителя Премьер-Министра РК - Министра сельского хозяйства РК от 28.07.2017 № 314 (вводится в действие после дня его первого официального опубликования).*
 
 > *Форма*
 
@@ -2010,12 +2011,9 @@ _____________________
 Область
 </td>
 <td colspan="2">_______________________</td>
-<td colspan="2"></td>
-<td rowspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Район</td>
-<td colspan="2"></td>
 </tr>
 </table>
 
@@ -2046,101 +2044,101 @@ _____________________
 </tr>
 </table>
 
-## Происхождение
+Происхождение
 
 <table>
 <tr>
 <td colspan="5">Родословная</td>
-<td colspan="12">Бонитировка в ягнячьем возрасте</td>
+<td colspan="14">Бонитировка в ягнячьем возрасте</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">Мать (М)</td>
 <td colspan="2">Отец (О)</td>
-<td colspan="3">Окраска и расцветка</td>
+<td colspan="4">Окраска и расцветка</td>
 <td colspan="3"></td>
-<td colspan="3">Размер завитка</td>
+<td colspan="4">Размер завитка</td>
 <td colspan="3"></td>
 </tr>
 <tr>
 <td>Индивидуальный номер</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3">Смушковый тип</td>
+<td colspan="4">Смушковый тип</td>
 <td colspan="3"></td>
-<td colspan="3">форма завитка</td>
+<td colspan="4">форма завитка</td>
 <td colspan="3"></td>
 </tr>
 <tr>
 <td>Порода, породность</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3">Рисунка</td>
+<td colspan="4">Рисунка</td>
 <td colspan="3"></td>
-<td colspan="3">Длина валька, миллиметр</td>
+<td colspan="4">Длина валька, миллиметр</td>
 <td colspan="3"></td>
 </tr>
 <tr>
 <td>Номер по Племенной книге</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3">Пегость</td>
+<td colspan="4">Пегость</td>
 <td colspan="3"></td>
-<td colspan="3">Плотность завитков</td>
+<td colspan="4">Плотность завитков</td>
 <td colspan="3"></td>
 </tr>
 <tr>
 <td>Номер тома и марка Племенной книги</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3">Запас кожи</td>
+<td colspan="4">Запас кожи</td>
 <td colspan="3"></td>
-<td colspan="3">Шелковистость волоса</td>
+<td colspan="4">Шелковистость волоса</td>
 <td colspan="3"></td>
 </tr>
 <tr>
 <td>Линия</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3">Блеск волоса</td>
+<td colspan="4">Блеск волоса</td>
 <td colspan="3"></td>
-<td colspan="3">Пигментация волоса</td>
+<td colspan="4">Пигментация волоса</td>
 <td colspan="3"></td>
 </tr>
 <tr>
 <td>Окраска и расцветка</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3">Жиропотность</td>
+<td colspan="4">Жиропотность</td>
 <td colspan="3"></td>
-<td colspan="3">Густота волоса</td>
+<td colspan="4">Густота волоса</td>
 <td colspan="3"></td>
 </tr>
 <tr>
 <td>Размер и тип завитка</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3">Оброслость</td>
+<td colspan="4">Оброслость</td>
 <td colspan="3"></td>
-<td colspan="3">Конституция</td>
+<td colspan="4">Конституция</td>
 <td colspan="3"></td>
 </tr>
 <tr>
 <td>Смушковый тип</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td colspan="4"></td>
 <td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="3"></td>
 </tr>
 <tr>
 <td>Комплексный класс</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3">Дата проведения оценки</td>
+<td colspan="4">Дата проведения оценки</td>
 <td colspan="3"></td>
-<td colspan="6">Кем проведена оценка, фамилия, имя, отчество (при наличии в документе, удостоверяющего личность)</td>
+<td colspan="7">Кем проведена оценка, фамилия, имя, отчество (при наличии в документе, удостоверяющего личность)</td>
 </tr>
 <tr>
 <td></td>
@@ -2151,46 +2149,46 @@ _____________________
 (МО)
 </td>
 <td>Отец отца (ОО)</td>
-<td colspan="12"></td>
+<td colspan="14"></td>
 </tr>
 <tr>
-<td>Индивидуальный номер</td>
+<td>Инди видуа льный номер</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="12">Бонитировка в пятнадцать-двадцати дневном возрасте</td>
+<td colspan="14">Бонитировка в пятнадцать-двадцати дневном возрасте</td>
 </tr>
 <tr>
-<td>Порода, породность</td>
+<td>Поро да, пор одность</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">Развитие</td>
-<td colspan="3"></td>
+<td colspan="4">Развитие</td>
+<td colspan="4"></td>
 <td colspan="4">Упитанность</td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>номер по Племенной книге</td>
+<td>номер по Пле менной книге</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">Степень сохранения пигментации</td>
-<td colspan="3"></td>
+<td colspan="4">Степень сохранения пигментации</td>
+<td colspan="4"></td>
 <td colspan="4">Наличие седого волоса</td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>номер тома и марка Племенной книги</td>
+<td>номер тома и марка Племе нной книги</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">Сохранность завитка</td>
-<td colspan="3"></td>
+<td colspan="4">Сохранность завитка</td>
+<td colspan="4"></td>
 <td colspan="4">Шелковистость волоса</td>
 <td colspan="2"></td>
 </tr>
@@ -2200,10 +2198,107 @@ _____________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">Блеск волоса</td>
-<td colspan="3"></td>
+<td colspan="4">Блеск волоса</td>
+<td colspan="4"></td>
 <td colspan="4">Наличие сухого волоса</td>
 <td colspan="2"></td>
+</tr>
+<tr>
+<td>Окр аска и расц ветка</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4">Суммарная оценка</td>
+<td colspan="4"></td>
+<td colspan="4">Особые отметки</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Разм ер и тип завитка</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Смуш ковый тип</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4">Дата проведения оценки</td>
+<td colspan="4"></td>
+<td colspan="6">Кем проведена оценка, фамилия, имя, отчество (при наличии в документе, удостоверяющем личность), подпись</td>
+</tr>
+<tr>
+<td></td>
+<td>Ма ть мат ери мат ери (М ММ)</td>
+<td>Отец мат ери мат ери (ОММ)</td>
+<td>Ма ть о тца мат ери (МО М)</td>
+<td>От ец 5о тца мат ери (ООМ)</td>
+<td colspan="2">Ма ть мате ри отца (М МО)</td>
+<td colspan="2">От ец мат ери отца (ОМ О)</td>
+<td colspan="4">Ма ть от ца от ца (МО О)</td>
+<td colspan="6">Отец отца отца (ООО)</td>
+</tr>
+<tr>
+<td>Инди видуал ьный номер</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td>Поро да, пор одность</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td>ном ер по Плем енной книге</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td>номер тома и марка Плем енной книги</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td>Линия</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
 <td>Окраска и расцветка</td>
@@ -2211,10 +2306,10 @@ _____________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">Суммарная оценка</td>
-<td colspan="3"></td>
-<td colspan="4">Особые отметки</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
 <td>Размер и тип завитка</td>
@@ -2222,9 +2317,10 @@ _____________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
 <td>Смушковый тип</td>
@@ -2232,12 +2328,24 @@ _____________________
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">Дата проведения оценки</td>
-<td colspan="3"></td>
-<td colspan="6">Кем проведена оценка, фамилия, имя, отчество (при наличии в документе, удостоверяющего личность), подпись</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td colspan="17">Шерстная продуктивность и развитие</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="19">Шерстная продуктивность и развитие</td>
 </tr>
 <tr>
 <td></td>
@@ -2246,80 +2354,80 @@ _____________________
 <td></td>
 <td></td>
 <td rowspan="3"></td>
-<td colspan="7">Настриг шерсти</td>
-<td colspan="3" rowspan="3">Пигментация</td>
-<td rowspan="3">Живая масса, килограмм</td>
+<td colspan="9">Настриг шерсти</td>
+<td colspan="3" rowspan="3">Пигм ента ция</td>
+<td rowspan="3">Жи вая мас са, кило гра мм</td>
 </tr>
 <tr>
 <td colspan="5">Бонитировка в возрасте одного-полутора лет</td>
-<td colspan="4">Весенний</td>
-<td colspan="2" rowspan="2">Осен-ний, килограмм</td>
-<td rowspan="2">Всего за год, килограмм</td>
+<td colspan="5">Весенний</td>
+<td colspan="3" rowspan="2">Осен -ний, килог рамм</td>
+<td rowspan="2">Все го за год, ки лог ра мм</td>
 </tr>
 <tr>
-<td>Живая масса, килограмм</td>
+<td>Живая масса, килог рамм</td>
 <td></td>
-<td colspan="2">Шерстноконстициональный тип</td>
+<td colspan="2">Шерст нокон стицион аль ный тип</td>
 <td></td>
-<td>Вес, килограмм</td>
-<td colspan="2">Длина косицы и пуха, санти-метр</td>
-<td>Класс</td>
+<td colspan="2">В ес, ки лог ра мм</td>
+<td colspan="2">Дл ина кос ицы и пуха, сан ти-метр</td>
+<td>К л а с с</td>
 </tr>
 <tr>
-<td>Степень пигментации руна</td>
+<td>Сте пень пигме нтации руна</td>
 <td></td>
 <td colspan="2">Длина косицы и пуха, сантиметр</td>
 <td></td>
 <td>При отбивке</td>
-<td>Х</td>
+<td colspan="2">Х</td>
 <td colspan="2">Х</td>
 <td>Х</td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td>Жиропотность</td>
+<td>Жир опотн ость</td>
 <td></td>
-<td>Эластич-ность</td>
+<td>Эластич- ность</td>
 <td></td>
 <td></td>
-<td>20___г</td>
-<td></td>
+<td>20__ _год</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td>Уравненость руна</td>
+<td>Уравн еность руна</td>
 <td></td>
 <td>Густота шерсти</td>
 <td></td>
 <td></td>
-<td>20___г</td>
-<td></td>
+<td>20_ __год</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td>Оброслость:</td>
+<td>Обро слость:</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>20___г</td>
-<td></td>
+<td>20__ _год</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td colspan="3"></td>
 <td></td>
@@ -2329,25 +2437,25 @@ _____________________
 <td rowspan="2"></td>
 <td colspan="2">
 Кем проведена оценка,
-фамилия, имя, отчество (при наличии в документе, удостоверяющего личность), подпись
+фамилия, имя, отчество (при наличии в документе, удостовер яющем личность), подпись
 </td>
 <td rowspan="2"></td>
-<td>20___г</td>
-<td></td>
+<td>20_ __год</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td>20___г</td>
-<td></td>
+<td>20_ __год</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td colspan="3"></td>
 <td></td>
@@ -2359,19 +2467,20 @@ _____________________
 <td>Руководитель хозяйства ______________________________________________________________________________«___»___________ 20___год</td>
 </tr>
 <tr>
-<td>фамилия, имя, отчество (при наличии в документе, удостоверяющего личность), подпись</td>
+<td>фамилия, имя, отчество (при наличии в документе, удостоверяющем личность), подпись</td>
 </tr>
 </table>
 
 > *Приложение 6*  
 > *к приказу Министра сельского хозяйства*  
 > *Республики Казахстан*  
-> *от 11 февраля 2016 года*  
-> *№ 49*
+> *от 11 февраля 2016 года № 49*
+
+> *Сноска. Приложение 6 в редакции приказа Заместителя Премьер-Министра РК - Министра сельского хозяйства РК от 28.07.2017 № 314 (вводится в действие после дня его первого официального опубликования).*
 
 > *Форма*
 
-## Индивидуальная карточка племенной матки овцы (смушковое направления)
+> *Индивидуальная карточка племенной матки овцы (смушковое направления)*
 
 <table>
 <tr>
@@ -2380,12 +2489,9 @@ _____________________
 Область
 </td>
 <td colspan="2">_______________________</td>
-<td colspan="2"></td>
-<td rowspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Район</td>
-<td colspan="2"></td>
 </tr>
 </table>
 
@@ -2416,266 +2522,365 @@ _____________________
 </tr>
 </table>
 
-## Происхождение
+Происхождение
 
 <table>
 <tr>
-<td colspan="5">Родословная</td>
-<td colspan="11">Бонитировка в ягнячьем возрасте</td>
+<td colspan="6">Родословная</td>
+<td colspan="14">Бонитировка в ягнячьем возрасте</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Мать (М)</td>
+<td colspan="3">Мать (М)</td>
 <td colspan="2">Отец (О)</td>
-<td colspan="3">Окраска и расцветка</td>
-<td colspan="3"></td>
-<td colspan="3">Размер завитка</td>
+<td colspan="4">Окраска и расцветка</td>
+<td colspan="4"></td>
+<td colspan="4">Размер завитка</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>Индивидуальный номер</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Смушковый тип</td>
 <td colspan="3"></td>
-<td colspan="3">и форма завитка</td>
+<td colspan="2"></td>
+<td colspan="4">Смушковый тип</td>
+<td colspan="4"></td>
+<td colspan="4">и форма завитка</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>Порода, породность</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Рисунка</td>
 <td colspan="3"></td>
-<td colspan="3">Длина валька, миллиметр</td>
+<td colspan="2"></td>
+<td colspan="4">Рисунка</td>
+<td colspan="4"></td>
+<td colspan="4">Длина валька, миллиметр</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>номер по племенной книге</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Пегость</td>
 <td colspan="3"></td>
-<td colspan="3">Плотность завитков</td>
+<td colspan="2"></td>
+<td colspan="4">Пегость</td>
+<td colspan="4"></td>
+<td colspan="4">Плотность завитков</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>номер тома и марка Племенной книги</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Запас кожи</td>
 <td colspan="3"></td>
-<td colspan="3">Шелковистость волоса</td>
+<td colspan="2"></td>
+<td colspan="4">Запас кожи</td>
+<td colspan="4"></td>
+<td colspan="4">Шелковистость волоса</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>Линия</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Блеск волоса</td>
 <td colspan="3"></td>
-<td colspan="3">Пигментация волоса</td>
+<td colspan="2"></td>
+<td colspan="4">Блеск волоса</td>
+<td colspan="4"></td>
+<td colspan="4">Пигментация волоса</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>Окраска и расцветка</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Жиропотность</td>
 <td colspan="3"></td>
-<td colspan="3">Густота волоса</td>
+<td colspan="2"></td>
+<td colspan="4">Жиропотность</td>
+<td colspan="4"></td>
+<td colspan="4">Густота волоса</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>Размер и тип завитка</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Оброслость</td>
 <td colspan="3"></td>
-<td colspan="3">Конституция</td>
+<td colspan="2"></td>
+<td colspan="4">Оброслость</td>
+<td colspan="4"></td>
+<td colspan="4">Конституция</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>Смушковый тип</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3" rowspan="2"></td>
-<td colspan="3" rowspan="2"></td>
-<td colspan="5" rowspan="2"></td>
+<td colspan="4" rowspan="2"></td>
+<td colspan="4" rowspan="2"></td>
+<td colspan="6" rowspan="2"></td>
 </tr>
 <tr>
 <td>Комплексный класс</td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td>Мать матери (ММ)</td>
+<td colspan="2">Мать матери (ММ)</td>
 <td>Отец матери (ОМ)</td>
 <td>Мать отца (МО)</td>
 <td>Отец отца (ОО)</td>
-<td colspan="11"></td>
+<td colspan="14"></td>
 </tr>
 <tr>
 <td>Индивидуальный номер</td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="11" rowspan="4">Дата проведения оценки</td>
+<td colspan="14" rowspan="4">Дата проведения оценки</td>
 </tr>
 <tr>
 <td>Порода, породность</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>Номер по Племенной книге</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>Номер тома и марка Племенной книги</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>Линия</td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="11" rowspan="4">Кем проведена оценка, фамилия, имя, отчество (при наличии в документе, удостоверяющего личность) и подпись</td>
+<td colspan="14" rowspan="4">Кем проведена оценка, фамилия, имя, отчество (при наличии в документе, удостоверяющем личность) и подпись</td>
 </tr>
 <tr>
 <td>Окраска и расцветка</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>Размер и тип завитка</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>Смушковый тип</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="16">Шерстная продуктивность и развитие</td>
+<td></td>
+<td colspan="2">Мать мат ери мат ери (М ММ)</td>
+<td>Отец мат ери мат ери (О ММ)</td>
+<td>Ма ть от ца ма тери (М ОМ)</td>
+<td>От ец от ца ма те ри (О ОМ)</td>
+<td colspan="3">Ма ть мат ери отца ( ММ О)</td>
+<td colspan="3">От ец ма те ри отца (ОМ О)</td>
+<td colspan="4">Ма ть о тца от ца (М ОО)</td>
+<td colspan="4">От ец от ца от ца (О О О)</td>
 </tr>
 <tr>
+<td>Индивидуальный номер</td>
+<td colspan="2"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>Порода, породность</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>Номер по Племенной книге</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>Номер тома и марка Племенной книги</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>Линия</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>Окраска и расцветка</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>Размер и тип завитка</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>Смушковый тип</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="20">Шерстная продуктивность и развитие</td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td rowspan="3"></td>
-<td colspan="7">Настриг шерсти</td>
+<td colspan="10">Настриг шерсти</td>
 <td colspan="2" rowspan="3">Пигментация</td>
 <td rowspan="3">Живая масса, килограмм</td>
 </tr>
 <tr>
-<td colspan="5">Бонитировка в возрасте одного-полутора лет</td>
-<td colspan="4">Весенний</td>
+<td colspan="6">Бонитировка в возрасте одного-полутора лет</td>
+<td colspan="6">Весенний</td>
 <td colspan="2" rowspan="2">Осенний, килограмм</td>
-<td rowspan="2">Всего за год, килограмм</td>
+<td colspan="2" rowspan="2">Всего за год, килограмм</td>
 </tr>
 <tr>
-<td>Живая масса, килограмм</td>
+<td colspan="2">Живая масса, килограмм</td>
 <td></td>
 <td colspan="2">Шерстноконстициональный тип</td>
 <td></td>
 <td>Вес, килог-рамм</td>
-<td colspan="2">Длина косицы и пуха, см</td>
-<td>Класс</td>
+<td colspan="3">Длина косицы и пуха, см</td>
+<td colspan="2">Класс</td>
 </tr>
 <tr>
-<td>Степень пигментации руна</td>
+<td colspan="2">Степень пигментации руна</td>
 <td></td>
 <td colspan="2">Длина косицы и пуха, сантиметр</td>
 <td></td>
 <td>При отбивке</td>
 <td>Х</td>
+<td colspan="3">Х</td>
 <td colspan="2">Х</td>
-<td>Х</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Жиропотность</td>
+<td colspan="2">Жиропотность</td>
 <td></td>
 <td>Эластич-ность</td>
 <td></td>
 <td></td>
-<td>20___г</td>
+<td>20___год</td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Уравненость руна</td>
+<td colspan="2">Уравненость руна</td>
 <td></td>
 <td>Густота шерсти</td>
 <td></td>
 <td></td>
-<td>20___г</td>
+<td>20___год</td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>Оброслость</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>20___г</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Дата проведения оценки</td>
+<td colspan="2">Оброслость</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>20___год</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Дата проведения оценки</td>
 <td></td>
 <td colspan="2">
 Кем проведена оценка,
-фамилия, имя, отчество (при наличии в документе, удостоверяющего личность), подпись
+фамилия, имя, отчество (при наличии в документе, удостоверяющем личность), подпись
 </td>
 <td></td>
-<td>20___г</td>
+<td>20___год</td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -2686,200 +2891,118 @@ _____________________
 <td>Руководитель хозяйства ______________________________________________________________________________«___»___________ 20___год</td>
 </tr>
 <tr>
-<td>фамилия, имя, отчество (при наличии в документе, удостоверяющего личность), подпись</td>
+<td>фамилия, имя, отчество (при наличии в документе, удостоверяющем личность), подпись</td>
 </tr>
 </table>
 
 > *Приложение 7*  
 > *к приказу Министра сельского хозяйства*  
 > *Республики Казахстан*  
-> *от 11 февраля 2016 года*  
-> *№ 49*
+> *от 11 февраля 2016 года № 49*
+
+> *Сноска. Приложение 7 в редакции приказа Заместителя Премьер-Министра РК - Министра сельского хозяйства РК от 28.07.2017 № 314 (вводится в действие после дня его первого официального опубликования).*
 
 > *Форма*
 
-## Индивидуальная карточка племенного барана(тонкорунного, полутонкорунного и мясо-сального направления)
+> *Индивидуальная карточка племенного барана (тонкорунного, полутонкорунного и мясо-сального направления)*
 
 <table>
 <tr>
-<td colspan="2" rowspan="2">
-_____________________
-Область
+<td>
+Индивидуальный номер_____________________
+на прав ухе (бирка)_________________________,
+на лев. ухе (татуировка)____________________
 </td>
-<td colspan="2">_______________________</td>
-<td colspan="2"></td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Район</td>
-<td colspan="2"></td>
+<td></td>
+<td>
+Записан в Племенной книге под номером _____
+Дата_______20______год
+</td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td>Хозяйство</td>
-<td colspan="2">Кличка</td>
-<td colspan="2">Дата поступления в хозяйство « » 20 год</td>
-</tr>
-<tr>
-<td>Идентификационный номер</td>
-<td colspan="2">Дата рождения</td>
-<td colspan="2">Возраст при первом использовании, месяцев</td>
-</tr>
-<tr>
-<td>Регистрационный номер</td>
-<td colspan="2">Тип рождения</td>
-<td colspan="2">Награды на выставках</td>
-</tr>
-<tr>
-<td>Порода</td>
-<td colspan="2">Место рождения</td>
-<td colspan="2">Масть</td>
-</tr>
-<tr>
-<td>Породность</td>
-<td colspan="4">Дата и причина выбытия « » 20 год _______________________________</td>
-</tr>
-</table>
+Порода_____________________породность______Дата рождения_______________20_____год в числе скольких родился __________
+
+Кому принадлежит_________ Место рождения__________ Дата поступления в хозяйство_______ Дата и причина выбытия________________
+
+(наименование хозяйства, район, область) (наименование хозяйства, район, область)
 
 <table>
 <tr>
-<td colspan="4">Происхождение</td>
-<td colspan="5">
-Продуктивность
-предков
-</td>
+<td colspan="4">П р о и с х о ж д е н и е б а р а н а</td>
+<td colspan="9">П р о д у к т и в н о с т ь п р е д к о в</td>
+<td colspan="5">П р о д у к т и в н о с т ь б а р а н а</td>
 </tr>
 <tr>
 <td rowspan="7">О т е ц</td>
 <td rowspan="7">
-Индивидуальный номер_______
-Порода________
+Индивидуальный номер_____
+Порода____
 Породность___
-Номер по Племенной книге_________
+Номер по Племенной книге ____
 </td>
-<td rowspan="3">Отец</td>
+<td rowspan="3">О</td>
 <td rowspan="3">
-Индивидуальный номер_______
-Порода________
-Породность_____
-номер по Племенной книге_________
-</td>
-<td rowspan="3">Предки</td>
-<td rowspan="3">Возраст, в котором определена продуктивность</td>
-<td rowspan="3">Максимальная живая масса, килограмм</td>
-<td rowspan="3">Максимальный годовой настриг шерсти, килограмм</td>
-<td rowspan="3">Длина шерсти, сантиметр</td>
-</tr>
-<tr>
-</tr>
-<tr>
-</tr>
-<tr>
-<td rowspan="4">Ма-ть</td>
-<td rowspan="4">
-Индивидуальный номер_______
-Порода________
+Индивидуальный номер_____
+Порода____
 Породность___
-номер по Племенной книге__________
+Номер по Племенной книге 10____
 </td>
-<td rowspan="2">Отец</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td rowspan="2">Мать</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td rowspan="8">М а т ь</td>
-<td rowspan="8">
-Индивидуаль-ный номер_______
-Порода________
-Породность____
-номер по Племенной книге_________
+<td rowspan="3">П р е д к и</td>
+<td rowspan="3">
+В о з р а с т, в к о т о р о м
+о п р е д е л е н а
+п р о д у к т и в н о с т ь
 </td>
-<td rowspan="4">Отец</td>
-<td rowspan="4">
-Индивидуальный номер_______
-Порода________
-Породность____
-номер по Племенной книге_________
+<td rowspan="3">
+М а к с и м а л ь н я
+ж и в а я
+м а с с а, к и л о г р а м м
 </td>
-<td rowspan="2">Отец</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td rowspan="2">Мать</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td rowspan="4">Ма-ть</td>
-<td rowspan="4">
-Индивидуальный номер_______
-Порода________
-Породность____
-номер по Племенной книге_________
+<td rowspan="3">
+М а к с и м а л ы й
+г о д о в о й
+н а с т р и г
+ш е р с т и,
+к и л о г р а м м
 </td>
-<td rowspan="2">Отец</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td rowspan="2">Мать</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-</tr>
-</table>
-
-продолжение таблицы:
-
-<table>
-<tr>
-<td colspan="4">
-Продуктивность
-предков
+<td rowspan="3">
+Д л и н а
+ш е р с т и,
+с а н т и м е т р
 </td>
-<td colspan="5">Продуктивность барана</td>
-</tr>
-<tr>
-<td rowspan="3">Тонина (класс) шерсти</td>
-<td rowspan="3">Количество чистой шерсти, килограмм</td>
-<td rowspan="3">Окраска</td>
-<td rowspan="3">Класс по бонитировке</td>
+<td rowspan="3">
+Т о н и н а
+(к л а с с) ш е р с т и
+</td>
+<td rowspan="3">
+К о л и ч е с т в о
+ч и с т о й
+ш е р с т и, к и л о г р а м м
+</td>
+<td rowspan="3">О к р а ск а</td>
+<td rowspan="3">
+К л а с с
+п о
+б о н и т и р о в к е
+</td>
 <td></td>
-<td>Годо-вой настриг шерсти, килог-рамм</td>
-<td>Класс шерсти</td>
-<td>Дата взвешивания</td>
-<td>Живая масса, килограмм</td>
+<td>
+Г о д о в о й
+н а с т р и г ш е р с т и, к и л ог р а м м
+</td>
+<td>
+К л а с с
+ш е р с т и
+</td>
+<td>
+Д а т а
+в з в е ш и в а н и я
+</td>
+<td>
+Ж и в а я
+м а с с а, к и л о г р а м м
+</td>
 </tr>
 <tr>
 <td>При рождении</td>
@@ -2889,327 +3012,6 @@ _____________________
 <td></td>
 </tr>
 <tr>
-<td>При отбивке в возрасте……..</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td>20__г. …</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20__г. …</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td>20__г. …</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20__г. …</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td>20__г. …</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20__г. …</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td>20__г. …</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20__г. …</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td>20__г. …</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20__г. …</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>Руководитель хозяйства ______________________________________________________________________________«___»___________ 20___год</td>
-<td></td>
-</tr>
-<tr>
-<td>фамилия, имя, отчество (при наличии в документе, удостоверяющего личность), подпись</td>
-<td></td>
-</tr>
-</table>
-
-> *Приложение 8*  
-> *к приказу Министра сельского хозяйства*  
-> *Республики Казахстан*  
-> *от 11 февраля 2016 года*  
-> *№ 49*
-
-## Индивидуальная карточка племенной матки овцы (тонкорунного, полутонкорунного и мясо-сального направления)
-
-> *Форма*
-
-<table>
-<tr>
-<td colspan="2" rowspan="2">
-_____________________
-Область
-</td>
-<td colspan="2">_______________________</td>
-<td colspan="2"></td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Район</td>
-<td colspan="2"></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>Хозяйство</td>
-<td colspan="2">Кличка</td>
-<td colspan="2">Дата поступления в хозяйство « » 20 год</td>
-</tr>
-<tr>
-<td>Идентификационный номер</td>
-<td colspan="2">Дата рождения</td>
-<td colspan="2">Возраст при первом использовании, месяцев</td>
-</tr>
-<tr>
-<td>Регистрационный номер</td>
-<td colspan="2">Тип рождения</td>
-<td colspan="2">Награды на выставках</td>
-</tr>
-<tr>
-<td>Порода</td>
-<td colspan="2">Место рождения</td>
-<td colspan="2">Масть</td>
-</tr>
-<tr>
-<td>Породность</td>
-<td colspan="4">Дата и причина выбытия « » 20 год _______________________________</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="4">Происхождение матки</td>
-<td colspan="4">Продуктивность предков</td>
-</tr>
-<tr>
-<td rowspan="5">Отец (О)</td>
-<td rowspan="5">
-Индивидуальный номер
-Порода________
-Породность_________
-Номер по Племенной книге_____________
-</td>
-<td rowspan="3">Отец</td>
-<td rowspan="3">
-Индивидуальный номер
-Порода________
-Породность___________
-Номер по Племенной книге_____________
-</td>
-<td rowspan="3">Предки</td>
-<td rowspan="3">
-Возраст, в котором
-определена
-продуктивность
-</td>
-<td rowspan="3">
-Максимальная
-живая масса, ккилограмм
-</td>
-<td rowspan="3">
-Максимальный
-годовой настриг
-шерсти, килограмм
-</td>
-</tr>
-<tr>
-</tr>
-<tr>
-</tr>
-<tr>
-<td rowspan="2">Мать</td>
-<td rowspan="2">
-Индивидуальный номер
-Порода________
-Породность___________
-Номер по Племенной книге_____________
-</td>
-<td>От-ец</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-Ма
-ть
-</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="4">Мать (М)</td>
-<td rowspan="4">
-Индивидуальный номер
-Порода________
-Породность_________
-Номер по Племенной книге_____________
-</td>
-<td rowspan="2">Отец</td>
-<td rowspan="2">
-Индивидуальный номер
-Порода________
-Породность___________
-Номер по Племенной книге_____________
-</td>
-<td>От-ец от-ца</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Ма-ть от-ца</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">Мать</td>
-<td rowspan="2">
-Индивидуальный номер
-Порода________
-Породность___________
-Номер по Племенной книге_____________
-</td>
-<td>
-От
-ец
-матери
-</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Ма-ть матери</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-продолжение таблицы:
-
-<table>
-<tr>
-<td colspan="3">Продуктивность предков</td>
-<td colspan="5">Продуктивность матки</td>
-</tr>
-<tr>
-<td rowspan="3">Длина шерсти, сантиметр</td>
-<td rowspan="3">Тонина (класс) шерсти</td>
-<td rowspan="3">Класс по бонитировке</td>
-<td></td>
-<td>
-Годовой настриг
-шерсти, килограмм
-</td>
-<td>Класс шерсти</td>
-<td>Дата взвешивания</td>
-<td>Живая масса, килограмм</td>
-</tr>
-<tr>
-<td>При рожден.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>При отбивке</td>
 <td></td>
 <td></td>
@@ -3217,60 +3019,166 @@ _____________________
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>20__г</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>20__г</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>20__г</td>
+<td rowspan="4">М</td>
+<td rowspan="4">
+Индивидуальный номер_____
+Порода____
+Породность___
+Номер по Племенной книге ____
+</td>
+<td rowspan="2">О</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20__год</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>20__г</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>20__г</td>
+<td>20__год</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td rowspan="2">М</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20__год</td>
 <td></td>
 <td></td>
 <td></td>
-<td>20__г</td>
+<td></td>
+</tr>
+<tr>
+<td>20__год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="8">М а т ь</td>
+<td rowspan="8">
+Индивидуальный номер_____
+Порода____
+Породность___
+Номер по Племенной книге ____
+</td>
+<td rowspan="4">О</td>
+<td rowspan="4">
+Индивидуальный номер_____
+Порода____
+Породность___
+Номер по Племенной книге ____
+</td>
+<td rowspan="2">ОО</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20__год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20__год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">МО</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20__год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20__год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">М</td>
+<td rowspan="4">
+Индивидуальный номер_____
+Порода____
+Породность___
+Номер по Племенной книге ____
+</td>
+<td rowspan="2">ОМ</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20__год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20__год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">ММ</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20__год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20__год</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3278,10 +3186,769 @@ _____________________
 </tr>
 </table>
 
-```
-Руководитель хозяйства __________________________________________________«___»___________    20___год
-фамилия, имя, отчество (при наличии в документе, удостоверяющего личность), подпись
-```
+<table>
+<tr>
+<td colspan="2">Б о н и т и р о в к а</td>
+<td>
+Д а т а
+б о н и т и- р о в к и
+</td>
+<td>
+В о з р а с т
+ж и в о т- н о г о
+</td>
+<td>Т и п</td>
+<td>Т е л о с л о ж е н и е</td>
+<td>К о с т я к</td>
+<td>Э к с т е р ь е р</td>
+<td>В е л и ч и н а ж и в о т н о г о</td>
+<td>Р о г а</td>
+<td>М а с с а ш е р с т и</td>
+<td>
+Длина шерсти
+(в сантиметр)
+</td>
+<td>То нина шер-сти</td>
+<td>И з в и т о с т ь</td>
+<td>У р а в- н е н н о с т ь</td>
+<td>Ж и р о п о т</td>
+<td>
+О к р а с к а,
+б л е с к
+</td>
+<td>Х а р а кт е р к у р д ю к а</td>
+<td>О б щ а я о ц е н к а</td>
+<td>К л а с с</td>
+<td>П о д п и с ь б о н и т е р а</td>
+</tr>
+<tr>
+<td colspan="2">б а р а н а</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">р о д и т е л е й</td>
+<td>о т ц а</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>м а т е р и</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Количество чистой шерсти ___килограмм. На основании какого документа установлен выход шерсти _____номер________дата_______20_______г. награды на выставках__________
+
+<table>
+<tr>
+<td rowspan="3">Год и месяц сл учки</td>
+<td colspan="7">П л е м е н н а я с л у ж б а б а р а н а</td>
+<td rowspan="3">Количество окрашенных ягнят</td>
+<td colspan="7">Общая оценка приплода при отбивке от маток (колич.)</td>
+</tr>
+<tr>
+<td rowspan="2">способ использования барана</td>
+<td rowspan="2">оц ен ка сп ермы</td>
+<td rowspan="2">количество осемененных маток</td>
+<td rowspan="2">количество окотившихся маток</td>
+<td colspan="3">родилось ягнят (голов)</td>
+<td colspan="3">Т и п</td>
+<td rowspan="2">о т л и ч н о</td>
+<td rowspan="2">х о р о ш о</td>
+<td rowspan="2">
+уд ов лет во р
+ите льно
+</td>
+<td rowspan="2">
+не уд овл етв ор
+ит ельно
+</td>
+</tr>
+<tr>
+<td>в с е г о</td>
+<td>ж и в ы х</td>
+<td>м е р т в ы х</td>
+<td>
+С
+(Н)
+</td>
+<td>
+С+
+(Ш)
+</td>
+<td>
+С-
+(М)
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Характеристика приплода при бонитировке в годичном (1,5-летнем) возрасте
+
+<table>
+<tr>
+<td rowspan="3">Год рождения приплода</td>
+<td colspan="10">К о л и ч е с т в о г о л о в</td>
+<td colspan="3">Количество ягнят по типу</td>
+<td rowspan="3">
+Средний живой вес,
+килограмм
+</td>
+<td rowspan="3">
+Средний настриг шерсти,
+килограмм
+</td>
+<td rowspan="3">
+Длина шерсти,
+сантиметр
+</td>
+</tr>
+<tr>
+<td colspan="2">элита</td>
+<td colspan="2">I класс</td>
+<td colspan="2">II класс</td>
+<td colspan="2">III класс</td>
+<td colspan="2">брак</td>
+<td rowspan="2">С (Н)</td>
+<td rowspan="2">С+(Ш)</td>
+<td rowspan="2">С-(М)</td>
+</tr>
+<tr>
+<td>б а р а нч ик и</td>
+<td>я рк и</td>
+<td>б ар а н ч и к и</td>
+<td>я рк и</td>
+<td>б а р а н ч и к и</td>
+<td>я р к и</td>
+<td>баранчики</td>
+<td>ярки</td>
+<td>баранчики</td>
+<td>ярки</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Особые отметки__________________________________
+
+<table>
+<tr>
+<td>Карточку составил ______________________________________________________________________________«___»___________ 20___год</td>
+</tr>
+<tr>
+<td>фамилия, имя, отчество (при наличии в документе, удостоверяющем личность), подпись</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Руководитель хозяйства ______________________________________________________________________________«___»___________ 20___год</td>
+</tr>
+<tr>
+<td>фамилия, имя, отчество (при наличии в документе, удостоверяющем личность), подпись</td>
+</tr>
+</table>
+
+> *Приложение 8*  
+> *к приказу Министра сельского хозяйства*  
+> *Республики Казахстан*  
+> *от 11 февраля 2016 года № 49*
+
+> *Сноска. Приложение 8 в редакции приказа Заместителя Премьер-Министра РК - Министра сельского хозяйства РК от 28.07.2017 № 314 (вводится в действие после дня его первого официального опубликования).*
+
+> *Форма*
+
+> *Индивидуальная карточка племенной матки овцы (тонкорунного, полутонкорунного и мясо-сального направления)*
+
+<table>
+<tr>
+<td>
+Индивидуальный номер_____________________
+на прав ухе (бирка)_________________________,
+на лев. ухе (татуировка)____________________
+</td>
+<td></td>
+<td>Записан в Племенной книге под номером _____Дата______20______г.</td>
+</tr>
+</table>
+
+Порода_____________породность_______Дата рождения_________20_____год в числе скольких родился ______Кому принадлежит___________ Место рождения_______ Дата поступления в хозяйство_____________ Дата и причина выбытия________________ (наименование хозяйства, район, область)
+
+<table>
+<tr>
+<td colspan="4">П р о и с х о ж д е н и е матки</td>
+<td colspan="9">П р о д у к т и в н о с т ь п р е д к о в</td>
+<td colspan="5">П р о д у к т и в н о с т ь матки</td>
+</tr>
+<tr>
+<td rowspan="7">О т е ц</td>
+<td rowspan="7">
+Инд иви дуал ьный но мер ___
+По рода ____
+Пор одн ость __
+Ном ер по Племен ной кни ге ___
+</td>
+<td rowspan="3">О</td>
+<td rowspan="3">
+Ин див идуа льн ый ном ер _____
+По рода ___
+Пор одн ость __
+Ном ер по Пле мен ной кни ге _____
+</td>
+<td rowspan="3">П р е дк и</td>
+<td rowspan="3">
+В о з р а с т,
+в
+к о т о р о м
+о п р е д е л е н а
+п р о д у к т и в н о с т ь
+</td>
+<td rowspan="3">
+М а к с и м а л ь н а я
+ж и в а я м а с с а,
+к и л о г р а м м
+</td>
+<td rowspan="3">
+Максимальный
+годовой настриг
+шерсти,
+килограмм
+</td>
+<td rowspan="3">
+Д л и н а ш е р с т и,
+с а н т и м е т р
+</td>
+<td rowspan="3">
+Т о н и н а
+(к л а с с) ш е р с т и
+</td>
+<td rowspan="3">
+Количество
+чистой шерсти,
+килограмм
+</td>
+<td rowspan="3">О к р а с к а</td>
+<td rowspan="3">
+К л а с с
+п о б о н и т и р о в к е
+</td>
+<td></td>
+<td>
+Г о д о в о й
+н а с т р и г ш е р с т и,
+к г
+</td>
+<td>
+К л а с с
+ш е р с т и
+</td>
+<td>
+Д а т а
+в з в е ш и
+в а н и я
+</td>
+<td>
+Ж и в а я
+м а с с а,
+к г
+</td>
+</tr>
+<tr>
+<td>
+П р и
+р о ж д е н и и
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+П р и
+о т б и в к е
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">М</td>
+<td rowspan="4">
+Инд ивид уаль ный номер _____
+По рода ___
+Пор одн ость __
+Ном ер по Пле мен ной книге ____
+</td>
+<td rowspan="2">О</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20 __ год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20 __ год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">М</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20 __ год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20 __ год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="8">М а т ь</td>
+<td rowspan="8">
+Инд ивид уаль ный ном ер ___
+По ро да ____
+Пор одн ость __
+Ном ер по Пле мен ной кни ге ___
+</td>
+<td rowspan="4">О</td>
+<td rowspan="4">
+Инд иви дуал ьный ном ер ____
+По рода ____
+Пор одн ость __
+Ном ер по Пле мен ной книге ___
+</td>
+<td rowspan="2">ОО</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20 __ год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20 __ год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">МО</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20 __ год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20 __ год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">М</td>
+<td rowspan="4">
+Инд иви дуал ьный ном ер ___
+По рода ____
+Пор одн ость __
+Ном ер по Плем енн ой книге _____
+</td>
+<td rowspan="2">ОМ</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td>20 __ год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20 __ год</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">ММ</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="2" rowspan="3">Бо ни ти ро в ка</td>
+<td rowspan="2">
+Дата
+бонити-
+ровки
+</td>
+<td rowspan="2">
+Возраст
+живот-
+ного
+</td>
+<td rowspan="2">Т и п</td>
+<td colspan="7">Качество шерсти</td>
+<td rowspan="2">
+Конституция и
+костяк животного
+</td>
+<td rowspan="2">Р о г а</td>
+<td rowspan="2">
+Величина
+животного
+</td>
+<td rowspan="2">Э к с т е р ь е р</td>
+<td rowspan="2">О б щ а я о ц е н к а</td>
+<td rowspan="2">К л а с с</td>
+<td rowspan="2">П о д п и с ь б о н и т е р а</td>
+</tr>
+<tr>
+<td>
+м ас са,
+ки логар мм
+</td>
+<td>
+д л и н а,
+с а н т и м е т р
+</td>
+<td>и з в и т о с т ь</td>
+<td>
+тонина
+(класс)
+</td>
+<td>у р а в н е нн о с т ь</td>
+<td>ж и р о п о т</td>
+<td>
+о к р а с к а,
+б л е с к
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Р од и т е л е й</td>
+<td>О т ц а</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>М а т е р и</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Количество мытой шерсти _______________________ кг. На основе какого документа установлен процент выхода мытой шерсти________________
+
+<table>
+<tr>
+<td rowspan="3">
+Д а т а
+с л у ч к и
+м а т к и
+</td>
+<td colspan="2">Осеменена бараном</td>
+<td rowspan="3">Д а т а о к от а</td>
+<td colspan="11">Характеристика приплода</td>
+</tr>
+<tr>
+<td rowspan="2">
+Индивидуальный
+номер
+</td>
+<td rowspan="2">к л а с с</td>
+<td rowspan="2">
+пол
+(баранчик\ярка)
+</td>
+<td rowspan="2">
+Индивидуальный
+номер приплода
+</td>
+<td colspan="4">живая масса, килограмм</td>
+<td rowspan="2">
+Дата
+отбивки
+</td>
+<td colspan="2">настриг шерсти, килограмм</td>
+<td colspan="2">бонитировка</td>
+</tr>
+<tr>
+<td>
+при
+рождении
+</td>
+<td>
+при
+отбивке
+</td>
+<td>
+в возрасте
+одного
+года (1,5 лет)
+</td>
+<td>
+в возрасте
+двух
+(2,5) лет
+</td>
+<td>
+в возрасте
+одного
+года
+</td>
+<td>
+в возрасте
+двух лет
+</td>
+<td>при отбивке</td>
+<td>
+в годичном
+(1,5-летнем)
+возрасте
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Особые отметки__________________________________
+
+<table>
+<tr>
+<td>Карточку составил ______________________________________________________________________________«___»___________ 20___год</td>
+</tr>
+<tr>
+<td>фамилия, имя, отчество (при наличии в документе, удостоверяющем личность), подпись</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Руководитель хозяйства ______________________________________________________________________________«___»___________ 20___год</td>
+</tr>
+<tr>
+<td>фамилия, имя, отчество (при наличии в документе, удостоверяющем личность), подпись</td>
+</tr>
+</table>
 
 > *Приложение 9*  
 > *к приказу Министра сельского хозяйства*  
@@ -5692,12 +6359,13 @@ _____
 > *Приложение 15*  
 > *к приказу Министра сельского хозяйства*  
 > *Республики Казахстан*  
-> *от 11 февраля 2016 года*  
-> *№ 49*
+> *от 11 февраля 2016 года № 49*
+
+> *Сноска. Приложение 15 в редакции приказа Заместителя Премьер-Министра РК - Министра сельского хозяйства РК от 28.07.2017 № 314 (вводится в действие после дня его первого официального опубликования).*
 
 > *Форма*
 
-## Индивидуальная карточка племенногожеребца местной породы
+> *Индивидуальная карточка племенного жеребца местной породы*
 
 <table>
 <tr>
@@ -5709,9 +6377,6 @@ _____
 <td colspan="3">Область</td>
 <td colspan="3">Район</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td>Кличка</td>
 <td colspan="3"></td>
@@ -5773,7 +6438,7 @@ _____
 </tr>
 </table>
 
-## Происхождение
+Происхождение
 
 <table>
 <tr>
@@ -5795,7 +6460,10 @@ _____
 <td></td>
 <td>Поколение (кровность)</td>
 <td></td>
-<td>Индивидуальный номер</td>
+<td>
+Индивидуаль
+ный номер
+</td>
 <td></td>
 <td>Поколение (кровность)</td>
 <td></td>
@@ -5815,13 +6483,70 @@ _____
 <table>
 <tr>
 <td></td>
-<td>Мать матери (ММ)</td>
-<td>Отец матери (ОМ)</td>
-<td>Мать отца (МО)</td>
-<td>Отец отца (ОО)</td>
+<td colspan="2">Мать матери (ММ)</td>
+<td colspan="2">Отец матери (ОМ)</td>
+<td colspan="2">Мать отца (МО)</td>
+<td colspan="2">Отец отца (ОО)</td>
 </tr>
 <tr>
 <td>Кличка</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Индивидуальный номер</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Номер по Племенной книге</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Порода</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Поколение (кровность)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Внутрипородный тип</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td>Мать матери матери (МММ)</td>
+<td>Отец матери матери (ОММ)</td>
+<td>Мать отца матери (МОМ)</td>
+<td>Отец отца матери (ООМ)</td>
+<td>Мать матери отца (ММО)</td>
+<td>Отец матери отца (ОМО)</td>
+<td>Мать отца отца (МОО)</td>
+<td>Отец отца отца (ООО)</td>
+</tr>
+<tr>
+<td>Кличка</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5833,9 +6558,17 @@ _____
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Номер по Племенной книге</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5847,9 +6580,17 @@ _____
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Поколение (кровность)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5861,10 +6602,14 @@ _____
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
-## Продуктивность
+Продуктивность
 
 <table>
 <tr>
@@ -5880,11 +6625,11 @@ _____
 килограмм
 </td>
 <td rowspan="2">
-Упитан-ность,
-(категория)
+Упи тан-но сть,
+(к атегори я)
 </td>
 <td colspan="6">Бонитировка, баллы</td>
-<td rowspan="2">Класс</td>
+<td rowspan="2">К л а с с</td>
 </tr>
 <tr>
 <td>
@@ -5903,17 +6648,17 @@ _____
 обхват
 пясти
 </td>
-<td>генотип</td>
+<td>г ен от и п</td>
 <td>
 про-меры
-и масса
+15и масса
 </td>
-<td>экстерьер</td>
-<td>молочность</td>
-<td>приспосо-бительные качества</td>
+<td>э к с т ер ь е р</td>
+<td>м о л о чн о с т ь</td>
+<td>при спос о-бит ельн ые качес тва</td>
 <td>
-качество
-потомства
+к ач ест во
+по то мст ва
 </td>
 </tr>
 <tr>
@@ -5974,19 +6719,20 @@ _____
 <td>Руководитель хозяйства ______________________________________________________________________________«___»___________ 20___год</td>
 </tr>
 <tr>
-<td>фамилия, имя, отчество (при наличии в документе, удостоверяющего личность), подпись</td>
+<td>фамилия, имя, отчество (при наличии в документе, удостоверяющем личность), подпись</td>
 </tr>
 </table>
 
 > *Приложение 16*  
 > *к приказу Министра сельского хозяйства*  
 > *Республики Казахстан*  
-> *от 11 февраля 2016 года*  
-> *№ 49*
+> *от 11 февраля 2016 года № 49*
+
+> *Сноска. Приложение 16 в редакции приказа Заместителя Премьер-Министра РК - Министра сельского хозяйства РК от 28.07.2017 № 314 (вводится в действие после дня его первого официального опубликования).*
 
 > *Форма*
 
-## Индивидуальная карточка племенной кобылы местной породы
+> *Индивидуальная карточка племенной кобылы местной породы*
 
 <table>
 <tr>
@@ -5998,9 +6744,6 @@ _____
 <td colspan="3">Область</td>
 <td colspan="3">Район</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td>Кличка</td>
 <td colspan="3"></td>
@@ -6064,7 +6807,7 @@ _____
 
 <table>
 <tr>
-<td colspan="5">Мать</td>
+<td colspan="5">17Мать</td>
 <td colspan="3">Отец</td>
 </tr>
 <tr>
@@ -6102,13 +6845,70 @@ _____
 <table>
 <tr>
 <td></td>
-<td>Мать матери (ММ)</td>
-<td>Отец матери (ОМ)</td>
-<td>Мать отца (МО)</td>
-<td>Отец отца (ОО)</td>
+<td colspan="2">Мать матери (ММ)</td>
+<td colspan="2">Отец матери (ОМ)</td>
+<td colspan="2">Мать отца (МО)</td>
+<td colspan="2">Отец отца (ОО)</td>
 </tr>
 <tr>
 <td>Кличка</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Индивидуальный номер</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Номер по Племенной книге</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Порода</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Поколение (кровность)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Внутрипородный тип</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td>Мать матери матери (МММ)</td>
+<td>Отец матери матери (ОММ)</td>
+<td>Мать отца матери (МОМ)</td>
+<td>Отец отца матери (ООМ)</td>
+<td>Мать матери отца (ММО)</td>
+<td>Отец матери отца (ОМО)</td>
+<td>Мать отца отца (МОО)</td>
+<td>Отец отца отца (ООО)</td>
+</tr>
+<tr>
+<td>Кличка</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6120,9 +6920,17 @@ _____
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Номер по Племенной книге</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6134,9 +6942,17 @@ _____
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Поколение (кровность)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6148,17 +6964,21 @@ _____
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
-## Продуктивность
+Продуктивность
 
 <table>
 <tr>
-<td rowspan="2">Возраст бонитировки</td>
+<td colspan="2" rowspan="2">Возр аст бонитиров ки</td>
 <td rowspan="2">
-Дата
-бонитировки
+Да та
+бо нитиров ки
 </td>
 <td colspan="4">Промеры, сантиметр</td>
 <td rowspan="2">
@@ -6170,7 +6990,7 @@ _____
 Упитанность,
 (категория)
 </td>
-<td colspan="6">Бонитировка, баллы</td>
+<td colspan="7">Бонитировка, баллы</td>
 <td rowspan="2">К л а с с</td>
 </tr>
 <tr>
@@ -6190,20 +7010,21 @@ _____
 обхват
 пясти
 </td>
-<td>г е н о т и п</td>
+<td>г е н от и п</td>
 <td>
 про-меры
 и масса
 </td>
-<td>э к с т е р ь е р</td>
-<td>молоч-ность</td>
-<td>приспосо-бительные качества</td>
+<td>э к с т ер ь е р</td>
+<td>мол оч-но сть</td>
+<td colspan="2">при спо со-би тель ные качества</td>
 <td>
-качество
-потомства
+ка чес тво
+пот ом ст ва
 </td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6215,29 +7036,12 @@ _____
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6249,8 +7053,24 @@ _____
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 </tr>
@@ -6258,10 +7078,10 @@ _____
 
 <table>
 <tr>
-<td>Руководитель хозяйства ______________________________________________________________________________«___»___________ 20___год</td>
+<td colspan="13">Руководитель хозяйства ______________________________________________________________________________«___»___________ 20___год</td>
 </tr>
 <tr>
-<td>фамилия, имя, отчество (при наличии в документе, удостоверяющего личность), подпись</td>
+<td colspan="13">фамилия, имя, отчество (при наличии в документе, удостоверяющем личность), подпись</td>
 </tr>
 </table>
 
@@ -7985,12 +8805,13 @@ _____
 > *Приложение 26*  
 > *к приказу Министра сельского хозяйства*  
 > *Республики Казахстан*  
-> *от 11 февраля 2016 года*  
-> *№ 49*
+> *от 11 февраля 2016 года № 49*
+
+> *Сноска. Приложение 26 в редакции приказа Заместителя Премьер-Министра РК - Министра сельского хозяйства РК от 28.07.2017 № 314 (вводится в действие после дня его первого официального опубликования).*
 
 > *Форма*
 
-## Индивидуальная карточка племенного кобеля
+> *Индивидуальная карточка племенного кобеля*
 
 <table>
 <tr>
@@ -8018,7 +8839,7 @@ _____
 <td>Кому принадлежит</td>
 </tr>
 <tr>
-<td>Индивуальный номер</td>
+<td>Индивидуальный номер</td>
 <td></td>
 <td>Масть и приметы</td>
 <td>левое</td>
@@ -8040,7 +8861,7 @@ _____
 <td>Порода</td>
 <td></td>
 <td></td>
-<td>пах</td>
+<td>19пах</td>
 <td></td>
 <td></td>
 <td></td>
@@ -8067,7 +8888,7 @@ _____
 </tr>
 </table>
 
-## Происхождение
+Происхождение
 
 <table>
 <tr>
@@ -8085,7 +8906,7 @@ _____
 <td></td>
 </tr>
 <tr>
-<td>Индивуальный номер</td>
+<td>Индивидуальный номер</td>
 <td></td>
 <td>
 Поколение
@@ -8115,10 +8936,63 @@ _____
 <table>
 <tr>
 <td></td>
-<td>Мать матери (ММ)</td>
-<td>Отец матери (ОМ)</td>
-<td>Мать отца (МО)</td>
-<td>Отец отца (ОО)</td>
+<td colspan="2">Мать матери (ММ)</td>
+<td colspan="2">Отец матери (ОМ)</td>
+<td colspan="2">Мать отца (МО)</td>
+<td colspan="2">Отец отца (ОО)</td>
+</tr>
+<tr>
+<td>Кличка</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Индивидуальный номер</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Номер по Племенной книге</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Порода</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Поколение (кровность)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Внутрипородный тип</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td>Мать матери матери (МММ)</td>
+<td>Отец матери матери (ОММ)</td>
+<td>Мать отца матери (МОМ)</td>
+<td>Отец отца матери (ООМ)</td>
+<td>Мать матери отца (ММО)</td>
+<td>Отец матери отца (ОМО)</td>
+<td>Мать отца отца (МОО)</td>
+<td>Отец отца отца (ООО)</td>
 </tr>
 <tr>
 <td>Кличка</td>
@@ -8126,9 +9000,17 @@ _____
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Индивуальный номер</td>
+<td>Индивидуальный номер</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8140,9 +9022,17 @@ _____
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Порода</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8154,9 +9044,17 @@ _____
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Внутрипородный тип</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8169,15 +9067,16 @@ _____
 <td>Руководитель хозяйства ______________________________________________________________________________«___»___________ 20___год</td>
 </tr>
 <tr>
-<td>фамилия, имя, отчество (при наличии в документе, удостоверяющего личность), подпись</td>
+<td>фамилия, имя, отчество (при наличии в документе, удостоверяющем личность), подпись</td>
 </tr>
 </table>
 
 > *Приложение 27*  
 > *к приказу Министра сельского хозяйства*  
 > *Республики Казахстан*  
-> *от 11 февраля 2016 года*  
-> *№ 49*
+> *от 11 февраля 2016 года № 49*
+
+> *Сноска. Приложение 27 в редакции приказа Заместителя Премьер-Министра РК - Министра сельского хозяйства РК от 28.07.2017 № 314 (вводится в действие после дня его первого официального опубликования).*
 
 > *Форма*
 
@@ -8209,7 +9108,7 @@ _____
 <td>Кому принадлежит</td>
 </tr>
 <tr>
-<td>Индивуальный номер</td>
+<td>Индивидуальный номер</td>
 <td></td>
 <td>Масть и приметы</td>
 <td>левое</td>
@@ -8221,7 +9120,7 @@ _____
 <td>Номер по Племенной книге</td>
 <td></td>
 <td></td>
-<td>ухо</td>
+<td>22ухо</td>
 <td></td>
 <td></td>
 <td>Место рождения</td>
@@ -8258,7 +9157,7 @@ _____
 </tr>
 </table>
 
-## Происхождение
+Происхождение
 
 <table>
 <tr>
@@ -8276,7 +9175,7 @@ _____
 <td></td>
 </tr>
 <tr>
-<td>Индивуальный номер</td>
+<td>Индивидуальный номер</td>
 <td></td>
 <td>
 Поколение
@@ -8306,10 +9205,56 @@ _____
 <table>
 <tr>
 <td></td>
-<td>Мать матери (ММ)</td>
-<td>Отец матери (ОМ)</td>
-<td>Мать отца (МО)</td>
-<td>Отец отца (ОО)</td>
+<td colspan="2">Мать матери (ММ)</td>
+<td colspan="2">Отец матери (ОМ)</td>
+<td colspan="2">Мать отца (МО)</td>
+<td colspan="2">Отец отца (ОО)</td>
+</tr>
+<tr>
+<td>Кличка</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Индивидуальный номер</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Порода</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Поколение (кровность)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Внутрипородный тип</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td>Мать матери матери (МММ)</td>
+<td>Отец матери матери (ОММ)</td>
+<td>Мать отца матери (МОМ)</td>
+<td>Отец отца матери (ООМ)</td>
+<td>Мать матери отца (ММО)</td>
+<td>Отец матери отца (ОМО)</td>
+<td>Мать отца отца (МОО)</td>
+<td>Отец отца отца (ООО)</td>
 </tr>
 <tr>
 <td>Кличка</td>
@@ -8317,9 +9262,17 @@ _____
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Индивуальный номер</td>
+<td>Индивидуальный номер</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8331,6 +9284,10 @@ _____
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Поколение (кровность)</td>
@@ -8338,9 +9295,17 @@ _____
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Внутрипородный тип</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8353,7 +9318,7 @@ _____
 <td>Руководитель хозяйства ______________________________________________________________________________«___»___________ 20___год</td>
 </tr>
 <tr>
-<td>фамилия, имя, отчество (при наличии в документе, удостоверяющего личность), подпись</td>
+<td>фамилия, имя, отчество (при наличии в документе, удостоверяющем личность), подпись</td>
 </tr>
 </table>
 
