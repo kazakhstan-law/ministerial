@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/112097/kaz/03.05.2017
+source: https://zan.gov.kz/client/#!/doc/112097/kaz/11.08.2017
 ---
 
 ## Ақпараттандыру басқармасының сарапшысы С-5 санаты (1 бірлік), №18-0-5
