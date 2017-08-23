@@ -17,44 +17,50 @@
 **Б. Султанов**
 
 > *Приложение 1*  
-> *к приказу Министра финансов Республики Казахстан*  
+> *к приказу Министра финансов*  
+> *Республики Казахстан*  
 > *от 18 сентября 2014 года № 404*
 
-## Таблица распределения поступлений бюджета между уровнями бюджетов и контрольным счетом наличности Национального фонда Республики Казахстан
+# Таблица распределения поступлений бюджета между уровнями бюджетов и контрольным счетом наличности Национального фонда Республики Казахстан
 
-> *Сноска. Таблица в редакции приказа Министра финансов РК от 14.11.2014 № 495 (вводится в действие с 01.01.2015); с изменениями, внесенными приказами Министра финансов РК от 20.01.2015 № 37 (вводится в действие с 01.02.2015); от 24.02.2015 года № 114; от 19.05.2015 № 306; от 04.08.2015 № 430; от 01.09.2015 № 460; от 14.10.2015 № 520; от 04.12.2015 № 615; от 29.01.2016 № 41; от 07.06.2016 № 288; 03.10.2016 № 522; от 27.10.2016 № 574; от 05.12.2016 № 632 (вводится в действие с 01.01.2017); от 22.02.2017 № 126; от 21.04.2017 № 264.*
+> *Сноска. Таблица в редакции приказа Министра финансов РК от 23.08.2017 № 515 (вводится в действие со дня его государственной регистрации).*
 
 <table>
 <tr>
 <td rowspan="3">Наименование</td>
 <td colspan="4">КОДЫ</td>
-<td colspan="5">ЗАЧИСЛЯЕТСЯ В БЮДЖЕТ В %</td>
+<td colspan="9">ЗАЧИСЛЯЕТСЯ В БЮДЖЕТ В %</td>
+<td rowspan="3">Контрольный счет наличности Национального фонда Республики Казахстан</td>
 </tr>
 <tr>
 <td rowspan="2">Категория</td>
 <td rowspan="2">Класс</td>
 <td rowspan="2">Подкласс</td>
 <td rowspan="2">Специфика</td>
-<td rowspan="2">Республиканский бюджет</td>
-<td colspan="3">Местные бюджеты</td>
-<td rowspan="2">Контрольный счет наличности Национального фонда Республики Казахстан</td>
+<td rowspan="2">
+Республи-
+канский
+</td>
+<td colspan="8">Местные бюджеты</td>
 </tr>
 <tr>
-<td>Областной бюджет</td>
-<td>Город республиканского значения, столица</td>
-<td>Район, город областного значения</td>
+<td colspan="2">Областной</td>
+<td colspan="2">Города республиканс-кого значения, столицы</td>
+<td colspan="3">Районный, города областного значения</td>
+<td>Города районного значения, села, поселка, сельского округа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td colspan="2">7</td>
+<td colspan="2">8</td>
+<td colspan="3">9</td>
+<td>10</td>
+<td>11</td>
 </tr>
 <tr>
 <td>Налоговые поступления</td>
@@ -63,8 +69,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -75,8 +82,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -87,8 +95,9 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -99,8 +108,9 @@
 <td>1</td>
 <td>05</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td>100</td>
 </tr>
@@ -111,8 +121,9 @@
 <td>1</td>
 <td>10</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -123,8 +134,9 @@
 <td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -135,9 +147,10 @@
 <td>2</td>
 <td>01</td>
 <td></td>
-<td>нормативам распределения, установленным областным маслихатом</td>
-<td>100</td>
-<td>нормативам распределения, установленным областным маслихатом</td>
+<td colspan="2">нормативам распределения, установленным областным маслихатом</td>
+<td colspan="2">100</td>
+<td colspan="3">нормативам распределения, установленным областным маслихатом</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -147,9 +160,10 @@
 <td>2</td>
 <td>02</td>
 <td></td>
-<td>нормативам распределения, установленным областным маслихатом</td>
+<td colspan="2">нормативам распределения, установленным областным маслихатом</td>
+<td colspan="2">100</td>
+<td colspan="3">нормативам распределения, установленным областным маслихатом</td>
 <td>100</td>
-<td>нормативам распределения, установленным областным маслихатом</td>
 <td></td>
 </tr>
 <tr>
@@ -159,20 +173,9 @@
 <td>2</td>
 <td>05</td>
 <td></td>
-<td>нормативам распределения, установленным областным маслихатом</td>
-<td>100</td>
-<td>нормативам распределения, установленным областным маслихатом</td>
-<td></td>
-</tr>
-<tr>
-<td>Социальный налог</td>
-<td>1</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2">нормативам распределения, установленным областным маслихатом</td>
+<td colspan="2">100</td>
+<td colspan="3">нормативам распределения, установленным областным маслихатом</td>
 <td></td>
 <td></td>
 </tr>
@@ -180,11 +183,25 @@
 <td>Социальный налог</td>
 <td>1</td>
 <td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Социальный налог</td>
+<td>1</td>
+<td>03</td>
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -195,9 +212,10 @@
 <td>1</td>
 <td>01</td>
 <td></td>
-<td>нормативам распределения, установленным областным маслихатом</td>
-<td>100</td>
-<td>нормативам распределения, установленным областным маслихатом</td>
+<td colspan="2">нормативам распределения, установленным областным маслихатом</td>
+<td colspan="2">100</td>
+<td colspan="3">нормативам распределения, установленным областным маслихатом</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -207,8 +225,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -219,8 +238,9 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -231,9 +251,10 @@
 <td>1</td>
 <td>01</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td></td>
-<td>100</td>
-<td>100</td>
 <td></td>
 </tr>
 <tr>
@@ -243,8 +264,9 @@
 <td>1</td>
 <td>02</td>
 <td></td>
-<td></td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td>100</td>
 <td></td>
 </tr>
@@ -255,33 +277,36 @@
 <td>3</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Земельный налог с физических лиц на земли населенных пунктов</td>
+<td>Земельный налог на земли населенных пунктов</td>
 <td>1</td>
 <td>04</td>
 <td>3</td>
 <td>02</td>
 <td></td>
-<td></td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td>100</td>
 <td></td>
 </tr>
 <tr>
-<td>Земельный налог, за исключением земельного налога с физических лиц на земли населенных пунктов</td>
+<td>Земельный налог, за исключением земельного налога на земли населенных пунктов</td>
 <td>1</td>
 <td>04</td>
 <td>3</td>
 <td>09</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td></td>
-<td>100</td>
-<td>100</td>
 <td></td>
 </tr>
 <tr>
@@ -291,8 +316,9 @@
 <td>4</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -303,8 +329,9 @@
 <td>4</td>
 <td>01</td>
 <td></td>
-<td></td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td>100</td>
 <td></td>
 </tr>
@@ -315,8 +342,9 @@
 <td>4</td>
 <td>02</td>
 <td></td>
-<td></td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td>100</td>
 <td></td>
 </tr>
@@ -327,8 +355,9 @@
 <td>5</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -339,9 +368,10 @@
 <td>5</td>
 <td>01</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td></td>
-<td>100</td>
-<td>100</td>
 <td></td>
 </tr>
 <tr>
@@ -351,8 +381,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -363,8 +394,9 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -375,8 +407,9 @@
 <td>1</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -387,8 +420,9 @@
 <td>1</td>
 <td>02</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -399,8 +433,9 @@
 <td>1</td>
 <td>04</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -411,8 +446,9 @@
 <td>1</td>
 <td>13</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -423,8 +459,9 @@
 <td>1</td>
 <td>14</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -435,8 +472,9 @@
 <td>1</td>
 <td>15</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -447,8 +485,9 @@
 <td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -459,8 +498,9 @@
 <td>2</td>
 <td>29</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -471,9 +511,10 @@
 <td>2</td>
 <td>74</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td></td>
-<td>100</td>
-<td>100</td>
 <td></td>
 </tr>
 <tr>
@@ -483,9 +524,10 @@
 <td>2</td>
 <td>75</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td></td>
-<td>100</td>
-<td>100</td>
 <td></td>
 </tr>
 <tr>
@@ -495,20 +537,22 @@
 <td>2</td>
 <td>76</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Все виды спирта и (или) виноматериала, алкогольной продукции, ввозимых на территорию Республики Казахстан с территории государств-членов Таможенного союза</td>
+<td>Все виды спирта и (или) виноматериала, алкогольной продукции, ввозимых на территорию Республики Казахстан с териитории государств-членов Таможенного союза</td>
 <td>1</td>
 <td>05</td>
 <td>2</td>
 <td>77</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -519,20 +563,22 @@
 <td>2</td>
 <td>78</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Бензин (за исключением авиационного) и дизельное топливо, ввозимых на территорию Республики Казахстан с территории государств-членов Таможенного союза</td>
+<td>Бензин (за исключением авиационного) и дизельное топливо, ввозимых на территорию Республики Казахстан с териитории государств-членов Таможенного союза</td>
 <td>1</td>
 <td>05</td>
 <td>2</td>
 <td>79</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -543,8 +589,9 @@
 <td>2</td>
 <td>80</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -555,8 +602,9 @@
 <td>2</td>
 <td>81</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -567,8 +615,9 @@
 <td>2</td>
 <td>82</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -579,8 +628,9 @@
 <td>2</td>
 <td>83</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -591,9 +641,10 @@
 <td>2</td>
 <td>84</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td></td>
-<td>100</td>
-<td>100</td>
 <td></td>
 </tr>
 <tr>
@@ -603,8 +654,9 @@
 <td>3</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -615,8 +667,9 @@
 <td>3</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -627,8 +680,9 @@
 <td>3</td>
 <td>02</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -639,8 +693,9 @@
 <td>3</td>
 <td>03</td>
 <td></td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -651,8 +706,9 @@
 <td>3</td>
 <td>04</td>
 <td></td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -663,8 +719,9 @@
 <td>3</td>
 <td>05</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -675,8 +732,9 @@
 <td>3</td>
 <td>06</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -687,8 +745,9 @@
 <td>3</td>
 <td>07</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -699,8 +758,9 @@
 <td>3</td>
 <td>08</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -711,8 +771,9 @@
 <td>3</td>
 <td>09</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -723,8 +784,9 @@
 <td>3</td>
 <td>10</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -735,8 +797,9 @@
 <td>3</td>
 <td>11</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -747,8 +810,9 @@
 <td>3</td>
 <td>13</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -759,8 +823,9 @@
 <td>3</td>
 <td>14</td>
 <td></td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -771,9 +836,10 @@
 <td>3</td>
 <td>15</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td></td>
-<td>100</td>
-<td>100</td>
 <td></td>
 </tr>
 <tr>
@@ -783,8 +849,9 @@
 <td>3</td>
 <td>16</td>
 <td></td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -795,8 +862,9 @@
 <td>3</td>
 <td>19</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -807,8 +875,9 @@
 <td>3</td>
 <td>22</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td>100</td>
 </tr>
@@ -819,8 +888,9 @@
 <td>3</td>
 <td>25</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td>100</td>
 </tr>
@@ -831,8 +901,9 @@
 <td>3</td>
 <td>26</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td>100</td>
 </tr>
@@ -843,8 +914,9 @@
 <td>3</td>
 <td>27</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td>100</td>
 </tr>
@@ -855,8 +927,9 @@
 <td>3</td>
 <td>28</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td>100</td>
 </tr>
@@ -867,8 +940,9 @@
 <td>3</td>
 <td>29</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td>100</td>
 </tr>
@@ -879,8 +953,9 @@
 <td>4</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -891,9 +966,10 @@
 <td>4</td>
 <td>02</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td></td>
-<td>100</td>
-<td>100</td>
 <td></td>
 </tr>
 <tr>
@@ -903,9 +979,10 @@
 <td>4</td>
 <td>04</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td></td>
-<td>100</td>
-<td>100</td>
 <td></td>
 </tr>
 <tr>
@@ -915,8 +992,9 @@
 <td>4</td>
 <td>06</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -927,8 +1005,9 @@
 <td>4</td>
 <td>13</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -939,8 +1018,9 @@
 <td>4</td>
 <td>19</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -951,8 +1031,9 @@
 <td>4</td>
 <td>20</td>
 <td></td>
-<td>100</td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -963,21 +1044,23 @@
 <td>4</td>
 <td>24</td>
 <td></td>
-<td></td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Плата за размещение наружной (визуальной) рекламы на открытом пространстве за пределами помещений в городе областного значения и на транспортных средствах, зарегистрированных в городе областного значения, за исключением платы за размещение наружной (визуальной) рекламы на объектах стационарного размещения рекламы в полосе отвода автомобильных дорог общего пользования районного значения, на открытом пространстве за пределами помещений в городе районного значения, селе, поселке и на транспортных средствах, зарегистрированных в районе</td>
+<td>Плата за размещение наружной (визуальной) рекламы на открытом пространстве за пределами помещений в городе областного значения, за исключением платы за размещение наружной (визуальной) рекламы на объектах стационарного размещения рекламы в полосе отвода автомобильных дорог общего пользования районного значения, на открытом пространстве за пределами помещений в городе районного значения, селе, поселке</td>
 <td>1</td>
 <td>05</td>
 <td>4</td>
 <td>25</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">100</td>
 <td></td>
-<td></td>
-<td>100</td>
 <td></td>
 </tr>
 <tr>
@@ -987,8 +1070,9 @@
 <td>4</td>
 <td>28</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -999,8 +1083,22 @@
 <td>4</td>
 <td>29</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td></td>
-<td>100</td>
+<td></td>
+</tr>
+<tr>
+<td>Плата за размещение наружной (визуальной) рекламы на объектах стационарного размещения рекламы в полосе отвода автомобильных дорог общего пользования республиканского, областного и районного значения, проходящих через территории городов районного значения, сел, поселков, сельских округов и на открытом пространстве за пределами помещений в городе районного значения, селе, поселке</td>
+<td>1</td>
+<td>05</td>
+<td>4</td>
+<td>30</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td>100</td>
 <td></td>
 </tr>
@@ -1011,8 +1109,9 @@
 <td>5</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1023,8 +1122,9 @@
 <td>5</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1035,9 +1135,10 @@
 <td>5</td>
 <td>02</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td></td>
-<td>100</td>
-<td>100</td>
 <td></td>
 </tr>
 <tr>
@@ -1047,8 +1148,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1059,8 +1161,9 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1071,8 +1174,9 @@
 <td>1</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1083,8 +1187,9 @@
 <td>1</td>
 <td>02</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1095,8 +1200,9 @@
 <td>1</td>
 <td>04</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1107,8 +1213,9 @@
 <td>1</td>
 <td>05</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1119,8 +1226,9 @@
 <td>1</td>
 <td>06</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1131,8 +1239,9 @@
 <td>1</td>
 <td>07</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1143,8 +1252,9 @@
 <td>1</td>
 <td>08</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1155,8 +1265,9 @@
 <td>1</td>
 <td>09</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1167,8 +1278,9 @@
 <td>1</td>
 <td>10</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1179,8 +1291,9 @@
 <td>1</td>
 <td>11</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1191,8 +1304,9 @@
 <td>1</td>
 <td>12</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1203,8 +1317,9 @@
 <td>1</td>
 <td>13</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1215,8 +1330,9 @@
 <td>1</td>
 <td>14</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1227,8 +1343,9 @@
 <td>1</td>
 <td>15</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1239,8 +1356,9 @@
 <td>1</td>
 <td>16</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1251,8 +1369,9 @@
 <td>1</td>
 <td>17</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1263,8 +1382,9 @@
 <td>1</td>
 <td>18</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1275,8 +1395,9 @@
 <td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1287,8 +1408,9 @@
 <td>2</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1299,8 +1421,9 @@
 <td>2</td>
 <td>02</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1311,8 +1434,9 @@
 <td>2</td>
 <td>05</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1323,8 +1447,9 @@
 <td>2</td>
 <td>06</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1335,8 +1460,9 @@
 <td>2</td>
 <td>07</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1347,8 +1473,9 @@
 <td>2</td>
 <td>08</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1359,8 +1486,9 @@
 <td>2</td>
 <td>09</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1371,8 +1499,9 @@
 <td>2</td>
 <td>10</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1383,20 +1512,9 @@
 <td>2</td>
 <td>11</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Прочие налоги</td>
-<td>1</td>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1404,11 +1522,25 @@
 <td>Прочие налоги</td>
 <td>1</td>
 <td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Прочие налоги</td>
+<td>1</td>
+<td>07</td>
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1422,8 +1554,9 @@
 100
 Задолженность по отмененным видам налогов, ранее поступавшим в республиканский бюджет
 </td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1434,18 +1567,19 @@
 <td>1</td>
 <td>10</td>
 <td></td>
-<td>
+<td colspan="2">
 100
 Задолженность по отмененным видам налогов, ранее поступавшим в республиканский бюджет
 </td>
-<td>
+<td colspan="2">
 100
 Задолженность по отмененным видам налогов, ранее поступавшим в республиканский бюджет
 </td>
-<td>
+<td colspan="3">
 100
 Задолженность по отмененным видам налогов, ранее поступавшим в республиканский бюджет
 </td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -1455,8 +1589,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1467,8 +1602,9 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1479,8 +1615,9 @@
 <td>1</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1491,8 +1628,9 @@
 <td>1</td>
 <td>25</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1503,25 +1641,11 @@
 <td>1</td>
 <td>26</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td></td>
-<td>100</td>
-<td>100</td>
 <td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
 </tr>
 <tr>
 <td>Неналоговые поступления</td>
@@ -1530,8 +1654,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1542,8 +1667,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1554,8 +1680,9 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1566,8 +1693,9 @@
 <td>1</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1578,8 +1706,9 @@
 <td>1</td>
 <td>02</td>
 <td></td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td>100</td>
 <td></td>
 </tr>
@@ -1590,8 +1719,9 @@
 <td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1602,8 +1732,9 @@
 <td>2</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1614,8 +1745,9 @@
 <td>3</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1626,8 +1758,9 @@
 <td>3</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1638,9 +1771,10 @@
 <td>3</td>
 <td>02</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -1650,8 +1784,9 @@
 <td>4</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1662,8 +1797,9 @@
 <td>4</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1674,8 +1810,9 @@
 <td>4</td>
 <td>02</td>
 <td></td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td>100</td>
 <td></td>
 </tr>
@@ -1686,8 +1823,9 @@
 <td>5</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1698,8 +1836,9 @@
 <td>5</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1710,20 +1849,22 @@
 <td>5</td>
 <td>02</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Поступления арендной платы за пользование комплексом &quot;Байконур&quot;</td>
+<td>Поступления арендной платы за пользование комплексом «Байконур»</td>
 <td>2</td>
 <td>01</td>
 <td>5</td>
 <td>03</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1734,8 +1875,9 @@
 <td>5</td>
 <td>04</td>
 <td></td>
-<td>100</td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="3">100</td>
 <td></td>
 <td></td>
 </tr>
@@ -1746,8 +1888,9 @@
 <td>5</td>
 <td>05</td>
 <td></td>
-<td>100</td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1758,8 +1901,9 @@
 <td>5</td>
 <td>06</td>
 <td></td>
-<td></td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1770,8 +1914,9 @@
 <td>5</td>
 <td>07</td>
 <td></td>
-<td></td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1782,9 +1927,10 @@
 <td>5</td>
 <td>08</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">100</td>
 <td></td>
-<td></td>
-<td>100</td>
 <td></td>
 </tr>
 <tr>
@@ -1794,8 +1940,22 @@
 <td>5</td>
 <td>09</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">100</td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td>Доходы от аренды имущества коммунальной собственности города районного значения, села, поселка, сельского округа</td>
+<td>2</td>
+<td>01</td>
+<td>5</td>
+<td>10</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td>100</td>
 <td></td>
 </tr>
@@ -1806,8 +1966,9 @@
 <td>6</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1818,8 +1979,9 @@
 <td>6</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1830,8 +1992,9 @@
 <td>6</td>
 <td>02</td>
 <td></td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1842,8 +2005,9 @@
 <td>6</td>
 <td>03</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1854,32 +2018,35 @@
 <td>7</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Вознаграждения по бюджетным кредитам, выданным из республиканского бюджета за счет внутренних источников местным исполнительным органам областей, городов республиканского значения, столицы</td>
+<td>Вознаграждения по бюджетным кредитам, выданным из республиканского бюджета за счет внутренних источников местным исполнительным органам областей, города республиканского значения, столицы</td>
 <td>2</td>
 <td>01</td>
 <td>7</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Вознаграждения по бюджетным кредитам, выданным из республиканского бюджета за счет средств правительственных внешних займов местным исполнительным органам областей, городов республиканского значения, столицы</td>
+<td>Вознаграждения по бюджетным кредитам, выданным из республиканского бюджета за счет средств правительственных внешних займов местным исполнительным органам областей, города республиканского значения, столицы</td>
 <td>2</td>
 <td>01</td>
 <td>7</td>
 <td>02</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1890,8 +2057,9 @@
 <td>7</td>
 <td>03</td>
 <td></td>
-<td>100</td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1902,8 +2070,9 @@
 <td>7</td>
 <td>04</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1914,8 +2083,9 @@
 <td>7</td>
 <td>05</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1926,8 +2096,9 @@
 <td>7</td>
 <td>06</td>
 <td></td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td>100</td>
 <td></td>
 </tr>
@@ -1938,8 +2109,9 @@
 <td>7</td>
 <td>10</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1950,9 +2122,10 @@
 <td>7</td>
 <td>11</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -1962,8 +2135,9 @@
 <td>7</td>
 <td>12</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1974,8 +2148,9 @@
 <td>7</td>
 <td>13</td>
 <td></td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td>100</td>
 <td></td>
 </tr>
@@ -1986,8 +2161,9 @@
 <td>7</td>
 <td>14</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -1998,8 +2174,9 @@
 <td>7</td>
 <td>15</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -2010,8 +2187,9 @@
 <td>7</td>
 <td>16</td>
 <td></td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -2022,9 +2200,23 @@
 <td>7</td>
 <td>18</td>
 <td></td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td>100</td>
-<td>100</td>
-<td>100</td>
+<td></td>
+</tr>
+<tr>
+<td>Вознаграждения по кредитам, выданным из районного (города областного значения) бюджета аппаратам акимов городов районного значения, сел, поселков, сельских округов</td>
+<td>2</td>
+<td>01</td>
+<td>7</td>
+<td>19</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">100</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -2034,8 +2226,9 @@
 <td>9</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -2046,8 +2239,9 @@
 <td>9</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -2058,8 +2252,9 @@
 <td>9</td>
 <td>03</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -2070,8 +2265,9 @@
 <td>9</td>
 <td>04</td>
 <td></td>
-<td></td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -2082,8 +2278,9 @@
 <td>9</td>
 <td>05</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -2094,8 +2291,9 @@
 <td>9</td>
 <td>06</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -2106,9 +2304,10 @@
 <td>9</td>
 <td>07</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -2118,8 +2317,9 @@
 <td>9</td>
 <td>08</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -2130,8 +2330,9 @@
 <td>9</td>
 <td>09</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -2142,9 +2343,10 @@
 <td>9</td>
 <td>10</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -2154,8 +2356,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -2166,8 +2369,9 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -2178,8 +2382,9 @@
 <td>1</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -2190,8 +2395,9 @@
 <td>1</td>
 <td>02</td>
 <td></td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="3">100</td>
 <td>100</td>
 <td></td>
 </tr>
@@ -2202,8 +2408,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -2214,8 +2421,9 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -2226,8 +2434,9 @@
 <td>1</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -2238,9 +2447,10 @@
 <td>1</td>
 <td>02</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
 <td></td>
 </tr>
 <tr>
@@ -2250,9 +2460,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2262,9 +2473,10 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2274,9 +2486,10 @@
 <td>1</td>
 <td>03</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2286,9 +2499,10 @@
 <td>1</td>
 <td>05</td>
 <td></td>
-<td>100</td>
-<td></td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2298,9 +2512,10 @@
 <td>1</td>
 <td>06</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2310,9 +2525,10 @@
 <td>1</td>
 <td>09</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2322,9 +2538,10 @@
 <td>1</td>
 <td>10</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2334,9 +2551,10 @@
 <td>1</td>
 <td>12</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2346,9 +2564,10 @@
 <td>1</td>
 <td>13</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2358,21 +2577,23 @@
 <td>1</td>
 <td>14</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
 <td></td>
 </tr>
 <tr>
-<td>Штрафы, пени, санкции, взыскания по бюджетным кредитам (займам) выданным из республиканского бюджета местным исполнительным органам областей, городов республиканского значения, столицы</td>
+<td>Штрафы, пени, санкции, взыскания по бюджетным кредитам (займам) выданным из республиканского бюджета местным исполнительным органам областей, города республиканского значения, столицы</td>
 <td>2</td>
 <td>04</td>
 <td>1</td>
 <td>15</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2382,9 +2603,10 @@
 <td>1</td>
 <td>16</td>
 <td></td>
-<td>100</td>
-<td></td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2394,9 +2616,10 @@
 <td>1</td>
 <td>17</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2406,21 +2629,28 @@
 <td>1</td>
 <td>18</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Административные штрафы, пени, санкции, взыскания, налагаемые Министерством здравоохранения Республики Казахстан, его территориальными органами финансируемые из республиканского бюджета, за исключением поступлений от организаций нефтяного сектора</td>
+<td>
+Административные штрафы, пени, санкции, взыскания, налагаемые
+Министерством здравоохранения Республики Казахстан, его территориальными
+органами финансируемые из республиканского бюджета, за исключением
+поступлений от организаций нефтяного сектора
+</td>
 <td>2</td>
 <td>04</td>
 <td>1</td>
 <td>19</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2430,69 +2660,80 @@
 <td>1</td>
 <td>22</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Административные штрафы, пени, санкции, взыскания, налагаемые Министерством образования и науки Республики Казахстан, его территориальными органами, финансируемые из республиканского бюджета, за исключением поступлений от организаций нефтяного сектора</td>
+<td>Административные штрафы, пени, санкции, взыскания, налагаемые Министерством образования и науки Республики Казахстан, его территориальными органами финансируемые из республиканского бюджета , за исключением поступлений от организаций нефтяного сектора</td>
 <td>2</td>
 <td>04</td>
 <td>1</td>
 <td>23</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Административные штрафы, пени, санкции, взыскания, налагаемые Министерством сельского хозяйства Республики Казахстан, его территориальными органами, финансируемые из республиканского бюджета, за исключением поступлений от организаций нефтяного сектора</td>
+<td>Административные штрафы, пени, санкции, взыскания, налагаемые Министерством сельского хозяйства Республики Казахстан, его территориальными органами финансируемые из республиканского бюджета , за исключением поступлений от организаций нефтяного сектора</td>
 <td>2</td>
 <td>04</td>
 <td>1</td>
 <td>25</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Административные штрафы, пени, санкции, взыскания, налагаемые Министерством труда и социальной защиты населения Республики Казахстан, его территориальными органами финансируемые из республиканского бюджета, за исключением поступлений от организаций нефтяного сектора</td>
+<td>
+Административные штрафы, пени, санкции, взыскания, налагаемые
+Министерством труда и социальной защиты населения Республики Казахстан,
+его территориальными органами финансируемые из республиканского бюджета,
+за исключением поступлений от организаций нефтяного сектора
+</td>
 <td>2</td>
 <td>04</td>
 <td>1</td>
 <td>27</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Административные штрафы, пени, санкции, взыскания, налагаемые Министерством внутренних дел Республики Казахстан, его территориальными органами, финансируемые из республиканского бюджета, за исключением поступлений от организаций нефтяного сектора</td>
+<td>Административные штрафы, пени, санкции, взыскания, налагаемые Министерством внутренних дел Республики Казахстан, его территориальными органами финансируемые из республиканского бюджета , за исключением поступлений от организаций нефтяного сектора</td>
 <td>2</td>
 <td>04</td>
 <td>1</td>
 <td>29</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Административные штрафы, пени, санкции, взыскания, налагаемые Министерством юстиции Республики Казахстан, его территориальными органами, финансируемые из республиканского бюджета, за исключением поступлений от организаций нефтяного сектора</td>
+<td>Административные штрафы, пени, санкции, взыскания, налагаемые Министерством юстиции Республики Казахстан, его территориальными органами финансируемые из республиканского бюджета, за исключением поступлений от организаций нефтяного сектора</td>
 <td>2</td>
 <td>04</td>
 <td>1</td>
 <td>33</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2502,9 +2743,10 @@
 <td>1</td>
 <td>42</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2514,9 +2756,10 @@
 <td>1</td>
 <td>43</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2526,9 +2769,10 @@
 <td>1</td>
 <td>45</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2538,9 +2782,10 @@
 <td>1</td>
 <td>47</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2550,9 +2795,10 @@
 <td>1</td>
 <td>51</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2562,21 +2808,23 @@
 <td>1</td>
 <td>53</td>
 <td></td>
-<td></td>
-<td>100</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Административные штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из бюджета района (города областного значения), за исключением штрафов, пеней, санкций, взысканий, налагаемых акимами городов районного значения, сел, поселков, сельских округов</td>
+<td>Административные штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из районного (города областного значения) бюджета, за исключением штрафов, пеней, санкций, взысканий, налагаемых акимами городов районного значения, сел, поселков, сельских округов</td>
 <td>2</td>
 <td>04</td>
 <td>1</td>
 <td>54</td>
 <td></td>
-<td></td>
-<td></td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2586,9 +2834,10 @@
 <td>1</td>
 <td>57</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2598,9 +2847,10 @@
 <td>1</td>
 <td>58</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2610,9 +2860,10 @@
 <td>1</td>
 <td>59</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2622,9 +2873,10 @@
 <td>1</td>
 <td>60</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2634,9 +2886,10 @@
 <td>1</td>
 <td>62</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2646,9 +2899,10 @@
 <td>1</td>
 <td>63</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2658,9 +2912,10 @@
 <td>1</td>
 <td>64</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2670,9 +2925,10 @@
 <td>1</td>
 <td>65</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2682,9 +2938,10 @@
 <td>1</td>
 <td>66</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2694,9 +2951,10 @@
 <td>1</td>
 <td>67</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2706,9 +2964,10 @@
 <td>1</td>
 <td>68</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2718,9 +2977,36 @@
 <td>1</td>
 <td>69</td>
 <td>100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+</tr>
+<tr>
+<td>Административные штрафы, пени, санкции, взыскания, налагаемые акимами города районного значения, села, поселка, сельского округа</td>
+<td>2</td>
+<td>04</td>
+<td>1</td>
+<td>70</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
 <td></td>
+</tr>
+<tr>
+<td>Штрафы, пени, санкции, взыскания по бюджетным кредитам (займам), выданным из районного (города областного значения) бюджета аппаратам акимов города районного значения, села, поселка, сельского округа</td>
+<td>2</td>
+<td>04</td>
+<td>1</td>
+<td>71</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2730,9 +3016,10 @@
 <td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2742,9 +3029,10 @@
 <td>2</td>
 <td>01</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>100</td>
 </tr>
 <tr>
@@ -2754,9 +3042,10 @@
 <td>2</td>
 <td>02</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>100</td>
 </tr>
 <tr>
@@ -2766,9 +3055,10 @@
 <td>2</td>
 <td>03</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>100</td>
 </tr>
 <tr>
@@ -2778,9 +3068,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2790,9 +3081,10 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2802,9 +3094,10 @@
 <td>1</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2814,9 +3107,10 @@
 <td>1</td>
 <td>02</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2826,9 +3120,10 @@
 <td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2838,9 +3133,10 @@
 <td>2</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2850,9 +3146,10 @@
 <td>2</td>
 <td>02</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2862,9 +3159,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2874,9 +3172,10 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2886,9 +3185,10 @@
 <td>1</td>
 <td>04</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2898,9 +3198,10 @@
 <td>1</td>
 <td>05</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
 <td></td>
 </tr>
 <tr>
@@ -2910,9 +3211,10 @@
 <td>1</td>
 <td>06</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2922,9 +3224,10 @@
 <td>1</td>
 <td>07</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
 <td></td>
 </tr>
 <tr>
@@ -2935,16 +3238,17 @@
 <td>08</td>
 <td>
 Благотворительные поступления в республиканский бюджет (в зависимости от пожелания благотворительного лица); не целевое использование средств республиканского бюджета;
-суммы возмещенного ущерба, выявленного в государственных учреждениях республиканского подчинения по актам проверки органами контроля;
-плата за выдачу государственных гарантий; избирательный взнос кандидата в депутаты, внесенный согласно Конституционному закону Республики Казахстан от 28 сентября 1995 года № 2464 &quot;О выборах в Республике Казахстан&quot;;
+суммы возмещенного ущерба, выявленного в государственных учреждениях республиканского подчинения по аудиторским заключениям уполномоченного органа по внутреннему государственному аудиту;
+плата за выдачу государственных гарантий; избирательный взнос кандидата в депутаты, внесенный согласно Конституционному закону Республики Казахстан от 28 сентября 1995 года № 2464 «О выборах в Республике Казахстан»;
 суммы, взысканные с ответчиков по решениям судов в возмещение материального ущерба государства по учреждениям, финансируемым из республиканского бюджета;
 поступления по отмененным видам неналоговых поступлений, ранее поступивших в республиканский бюджет; остатки средств при закрытии счета учреждений, финансируемых из республиканского бюджета;
 невостребованные депозитные суммы по истечении сроков их хранения по распоряжению государственного учреждения, на текущем счете которого хранятся эти суммы;
 возврат юридическими и физическими лицами средств, незаконно полученных из республиканского бюджета, доля Республики Казахстан при распределении дополнительной и добавочной пошлин
 </td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2954,7 +3258,29 @@
 <td>1</td>
 <td>09</td>
 <td></td>
-<td>
+<td colspan="2">
+Благотворительные поступления в местный бюджет (в зависимости от пожелания благотворительного лица);
+нецелевое
+использование средств местного бюджета;
+суммы возмещенного ущерба, выявленного в государственных учреждениях местного подчинения по аудиторским заключениям уполномоченного органа по внутреннему государственному аудиту;
+суммы, взысканные с ответчиков по решениям судов в возмещение материального ущерба государства, по учреждениям, финансируемым из местного бюджета;
+поступления по отмененным видам неналоговых поступлений, ранее поступивших в местный бюджет;
+остатки средств при закрытии счета учреждений, финансируемых из местного бюджета;
+невостребованные депозитные суммы по истечении сроков их хранения по распоряжению государственного учреждения, на текущем счете которого хранятся эти суммы;
+возврат юридическими и физическими лицами средств, незаконно полученных из местного бюджета.
+</td>
+<td colspan="2">
+Благотворительные поступления в местный бюджет (в зависимости от пожелания благотворительного лица);
+нецелевое
+использование средств местного бюджета;
+суммы возмещенного ущерба, выявленного в государственных учреждениях местного подчинения по аудиторским заключениям уполномоченного органа по внутреннему государственному аудиту;
+суммы, взысканные с ответчиков по решениям судов в возмещение материального ущерба государства, по учреждениям, финансируемым из местного бюджета;
+поступления по отмененным видам неналоговых поступлений, ранее поступивших в местный бюджет;
+остатки средств при закрытии счета учреждений, финансируемых из местного бюджета;
+невостребованные депозитные суммы по истечении сроков их хранения по распоряжению государственного учреждения, на текущем счете которого хранятся эти суммы;
+возврат юридическими и физическими лицами средств, незаконно полученных из местного бюджета.
+</td>
+<td colspan="2">
 Благотворительные поступления в местный бюджет (в зависимости от пожелания благотворительного лица);
 нецелевое
 использование средств местного бюджета;
@@ -2965,22 +3291,11 @@
 невостребованные депозитные суммы по истечении сроков их хранения по распоряжению государственного учреждения, на текущем счете которого хранятся эти суммы;
 возврат юридическими и физическими лицами средств, незаконно полученных из местного бюджета.
 </td>
-<td>
+<td colspan="2">
 Благотворительные поступления в местный бюджет (в зависимости от пожелания благотворительного лица);
 нецелевое
 использование средств местного бюджета;
-суммы возмещенного ущерба, выявленного в государственных учреждениях местного подчинения по актам проверки органами Министерства финансов;
-суммы, взысканные с ответчиков по решениям судов в возмещение материального ущерба государства, по учреждениям, финансируемым из местного бюджета;
-поступления по отмененным видам неналоговых поступлений, ранее поступивших в местный бюджет;
-остатки средств при закрытии счета учреждений, финансируемых из местного бюджета;
-невостребованные депозитные суммы по истечении сроков их хранения по распоряжению государственного учреждения, на текущем счете которого хранятся эти суммы;
-возврат юридическими и физическими лицами средств, незаконно полученных из местного бюджета.
-</td>
-<td>
-Благотворительные поступления в местный бюджет (в зависимости от пожелания благотворительного лица);
-нецелевое
-использование средств местного бюджета;
-суммы возмещенного ущерба, выявленного в государственных учреждениях местного подчинения по актам проверки органами Министерства финансов;
+суммы возмещенного ущерба, выявленного в государственных учреждениях местного подчинения по аудиторским заключениям уполномоченного органа по внутреннему государственному аудиту;
 суммы, взысканные с ответчиков по решениям судов в возмещение материального ущерба государства, по учреждениям, финансируемым из местного бюджета;
 поступления по отмененным видам неналоговых поступлений, ранее поступивших в местный бюджет;
 остатки средств при закрытии счета учреждений, финансируемых из местного бюджета;
@@ -2996,9 +3311,10 @@
 <td>1</td>
 <td>10</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3008,9 +3324,10 @@
 <td>1</td>
 <td>11</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>100</td>
 </tr>
 <tr>
@@ -3020,9 +3337,10 @@
 <td>1</td>
 <td>12</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3032,9 +3350,10 @@
 <td>1</td>
 <td>13</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3044,9 +3363,36 @@
 <td>1</td>
 <td>14</td>
 <td></td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+</tr>
+<tr>
+<td>Добровольные сборы физических и юридических лиц</td>
+<td>2</td>
+<td>06</td>
+<td>1</td>
+<td>15</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td></td>
+</tr>
+<tr>
+<td>Возврат неиспользованных (недоиспользованных) средств ранее полученных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
+<td>2</td>
+<td>06</td>
+<td>1</td>
+<td>16</td>
+<td>100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3056,9 +3402,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3068,9 +3415,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3080,21 +3428,10 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Поступления от продажи имущества, закрепленного за государственными учреждениями, финансируемыми из республиканского бюджета</td>
-<td>3</td>
-<td>01</td>
-<td>1</td>
-<td>01</td>
-<td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3104,9 +3441,10 @@
 <td>1</td>
 <td>02</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
 <td></td>
 </tr>
 <tr>
@@ -3116,9 +3454,10 @@
 <td>1</td>
 <td>03</td>
 <td></td>
-<td></td>
-<td>100</td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3128,9 +3467,10 @@
 <td>1</td>
 <td>07</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3140,9 +3480,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3152,9 +3493,23 @@
 <td>1</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
+</tr>
+<tr>
+<td>Поступления от погашения задолженности за полученные товары из государственных резервов</td>
+<td>3</td>
+<td>02</td>
+<td>1</td>
+<td>01</td>
+<td>100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3164,21 +3519,10 @@
 <td>1</td>
 <td>02</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Поступления от реализации зерна из государственных ресурсов</td>
-<td>3</td>
-<td>02</td>
-<td>1</td>
-<td>03</td>
-<td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3188,9 +3532,10 @@
 <td>1</td>
 <td>04</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3200,9 +3545,10 @@
 <td>1</td>
 <td>05</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3212,9 +3558,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3224,9 +3571,10 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3236,9 +3584,10 @@
 <td>1</td>
 <td>01</td>
 <td></td>
-<td></td>
-<td>100</td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3248,9 +3597,10 @@
 <td>1</td>
 <td>02</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>100</td>
 </tr>
 <tr>
@@ -3260,21 +3610,10 @@
 <td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Продажа нематериальных активов</td>
-<td>3</td>
-<td>03</td>
-<td>2</td>
-<td>01</td>
-<td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3284,9 +3623,10 @@
 <td>2</td>
 <td>02</td>
 <td></td>
-<td></td>
-<td>100</td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3296,9 +3636,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3308,9 +3649,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3320,9 +3662,10 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3332,9 +3675,10 @@
 <td>1</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3344,9 +3688,10 @@
 <td>1</td>
 <td>02</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3356,9 +3701,10 @@
 <td>1</td>
 <td>04</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3368,9 +3714,10 @@
 <td>1</td>
 <td>05</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3380,9 +3727,10 @@
 <td>1</td>
 <td>06</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3392,9 +3740,10 @@
 <td>1</td>
 <td>07</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3404,9 +3753,10 @@
 <td>1</td>
 <td>08</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3416,9 +3766,10 @@
 <td>1</td>
 <td>11</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3428,9 +3779,10 @@
 <td>1</td>
 <td>14</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3440,21 +3792,23 @@
 <td>1</td>
 <td>15</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Трансферты из районных (городских) бюджетов</td>
+<td>Трансферты из районных (городов областного значения) бюджетов</td>
 <td>4</td>
 <td>01</td>
 <td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3464,21 +3818,23 @@
 <td>2</td>
 <td>01</td>
 <td></td>
-<td>100</td>
-<td></td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Возврат целевых трансфертов</td>
+<td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
 <td>4</td>
 <td>01</td>
 <td>2</td>
 <td>02</td>
 <td></td>
-<td>100</td>
-<td></td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3488,21 +3844,23 @@
 <td>2</td>
 <td>03</td>
 <td></td>
-<td>100</td>
-<td></td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Поступления трансфертов из районных (городских) бюджетов на компенсацию потерь областного бюджета</td>
+<td>Поступления трансфертов из районных (городов областного значения) бюджетов на компенсацию потерь областного бюджета</td>
 <td>4</td>
 <td>01</td>
 <td>2</td>
 <td>04</td>
 <td></td>
-<td>100</td>
-<td></td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3512,9 +3870,10 @@
 <td>2</td>
 <td>05</td>
 <td></td>
-<td>100</td>
-<td></td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3524,9 +3883,10 @@
 <td>2</td>
 <td>14</td>
 <td></td>
-<td>100</td>
-<td></td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3536,9 +3896,10 @@
 <td>2</td>
 <td>15</td>
 <td></td>
-<td>100</td>
-<td></td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3548,9 +3909,127 @@
 <td>2</td>
 <td>16</td>
 <td></td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>Трансферты из бюджетов городов районного значения, сел, поселков, сельских округов</td>
+<td>4</td>
+<td>01</td>
+<td>3</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>Бюджетные изъятия</td>
+<td>4</td>
+<td>01</td>
+<td>3</td>
+<td>01</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
+<td>4</td>
+<td>01</td>
+<td>3</td>
+<td>02</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>Возврат использованных не по целевому назначению целевых трансфертов</td>
+<td>4</td>
+<td>01</td>
+<td>3</td>
+<td>03</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>Возврат трансфертов общего характера в случаях, предусмотренных бюджетным законодательством</td>
+<td>4</td>
+<td>01</td>
+<td>3</td>
+<td>04</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов на развитие, выделенных в истекшем финансовом году, разрешенных доиспользовать по решению Правительства Республики Казахстан</td>
+<td>4</td>
+<td>01</td>
+<td>3</td>
+<td>05</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов на развитие, выделенных в истекшем финансовом году, разрешенных доиспользовать по решению местных исполнительных органов</td>
+<td>4</td>
+<td>01</td>
+<td>3</td>
+<td>06</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
+<td>4</td>
+<td>01</td>
+<td>3</td>
+<td>07</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>Поступления трансфертов из бюджетов городов районного значения, сел, поселков, сельских округов на компенсацию потерь районного (города областного значения) бюджета</td>
+<td>4</td>
+<td>01</td>
+<td>3</td>
+<td>08</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3560,9 +4039,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3572,9 +4052,10 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3584,9 +4065,10 @@
 <td>1</td>
 <td>01</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3596,9 +4078,10 @@
 <td>1</td>
 <td>02</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3608,9 +4091,10 @@
 <td>1</td>
 <td>03</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3620,9 +4104,10 @@
 <td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3632,9 +4117,10 @@
 <td>2</td>
 <td>01</td>
 <td></td>
-<td></td>
-<td></td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3644,9 +4130,10 @@
 <td>2</td>
 <td>02</td>
 <td></td>
-<td></td>
-<td></td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3656,9 +4143,10 @@
 <td>2</td>
 <td>03</td>
 <td></td>
-<td></td>
-<td></td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3668,45 +4156,114 @@
 <td>2</td>
 <td>04</td>
 <td></td>
-<td></td>
-<td></td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Трансферты в бюджеты областей, городов Астаны и Алматы</td>
+<td>Трансферты из районного (города областного значения) бюджета</td>
+<td>4</td>
+<td>02</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>Целевые текущие трансферты</td>
+<td>4</td>
+<td>02</td>
+<td>3</td>
+<td>01</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td></td>
+</tr>
+<tr>
+<td>Целевые трансферты на развитие</td>
+<td>4</td>
+<td>02</td>
+<td>3</td>
+<td>02</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td></td>
+</tr>
+<tr>
+<td>Субвенции</td>
+<td>4</td>
+<td>02</td>
+<td>3</td>
+<td>03</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td></td>
+</tr>
+<tr>
+<td>Трансферты на компенсацию потерь в связи с принятием законодательства</td>
+<td>4</td>
+<td>02</td>
+<td>3</td>
+<td>04</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td></td>
+</tr>
+<tr>
+<td>Трансферты в областные бюджеты, бюджеты города республиканского значения, столицы</td>
 <td>4</td>
 <td>03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Взаимоотношения областного бюджета, бюджета городов Астаны и Алматы с другими областными бюджетами, бюджетами городов Астаны и Алматы</td>
+<td>Взаимоотношения областного бюджета, бюджетов города республиканского значения, столицы с другими областными бюджетами, бюджетами городов Астаны и Алматы</td>
 <td>4</td>
 <td>03</td>
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Трансферты областным бюджетам, бюджетам городов Астаны и Алматы в случаях возникновения чрезвычайных ситуаций социального, природного и техногенного характера, угрожающих политической, экономической и социальной стабильности административно-территориальной единицы, жизни и здоровью людей, проведения мероприятий общереспубликанского либо международного значения</td>
+<td>Трансферты областным бюджетам, бюджетам города республиканского значения, столицы в случаях возникновения чрезвычайных ситуаций социального, природного и техногенного характера, угрожающих политической, экономической и социальной стабильности административно-территориальной единицы, жизни и здоровью людей, проведения мероприятий общереспубликанского либо международного значения</td>
 <td>4</td>
 <td>03</td>
 <td>1</td>
 <td>01</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3716,9 +4273,23 @@
 <td>1</td>
 <td>02</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
+</tr>
+<tr>
+<td>Трансферты бюджетам городов районного значения, сел, поселков, сельских округов в случаях возникновения чрезвычайных ситуаций социального, природного и техногенного характера, угрожающих политической, экономической и социальной стабильности административно-территориальной единицы, жизни и здоровью людей, проведения мероприятий общереспубликанского либо международного значения</td>
+<td>4</td>
+<td>03</td>
+<td>1</td>
+<td>03</td>
 <td></td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
 <td></td>
 </tr>
 <tr>
@@ -3728,9 +4299,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3740,9 +4312,10 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3752,9 +4325,10 @@
 <td>1</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3764,9 +4338,10 @@
 <td>1</td>
 <td>02</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3776,9 +4351,10 @@
 <td>1</td>
 <td>03</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3788,9 +4364,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3800,9 +4377,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3812,33 +4390,36 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Погашение бюджетных кредитов, выданных из республиканского бюджета за счет внутренних источников местным исполнительным органам областей, городов республиканского значения, столицы</td>
+<td>Погашение бюджетных кредитов, выданных из республиканского бюджета за счет внутренних источников местным исполнительным органам областей, города республиканского значения, столицы</td>
 <td>5</td>
 <td>01</td>
 <td>1</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Погашение бюджетных кредитов, выданных из республиканского бюджета за счет средств правительственных внешних займов местным исполнительным органам областей, городов республиканского значения, столицы</td>
+<td>Погашение бюджетных кредитов, выданных из республиканского бюджета за счет средств правительственных внешних займов местным исполнительным органам областей, города республиканского значения, столицы</td>
 <td>5</td>
 <td>01</td>
 <td>1</td>
 <td>02</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3848,9 +4429,10 @@
 <td>1</td>
 <td>03</td>
 <td></td>
-<td>100</td>
-<td></td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3860,9 +4442,10 @@
 <td>1</td>
 <td>04</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3872,9 +4455,10 @@
 <td>1</td>
 <td>05</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3884,9 +4468,10 @@
 <td>1</td>
 <td>06</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
 <td></td>
 </tr>
 <tr>
@@ -3896,9 +4481,10 @@
 <td>1</td>
 <td>10</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3908,9 +4494,10 @@
 <td>1</td>
 <td>11</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3920,9 +4507,10 @@
 <td>1</td>
 <td>12</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3932,9 +4520,10 @@
 <td>1</td>
 <td>13</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
 <td></td>
 </tr>
 <tr>
@@ -3944,9 +4533,10 @@
 <td>1</td>
 <td>14</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3956,9 +4546,23 @@
 <td>1</td>
 <td>21</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td></td>
+</tr>
+<tr>
+<td>Погашение бюджетных кредитов, выданных из районного (города областного значения) бюджета аппаратам акимов города районного значения, села, поселка, сельского округа</td>
+<td>5</td>
+<td>01</td>
+<td>1</td>
+<td>22</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3968,9 +4572,10 @@
 <td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3980,9 +4585,10 @@
 <td>2</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -3992,33 +4598,36 @@
 <td>2</td>
 <td>02</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Возврат из бюджетов областей (города республиканского значения, столицы) неиспользованных бюджетных кредитов, выданных из республиканского бюджета</td>
+<td>Возврат из областных бюджетов, бюджетов города республиканского значения, столицы неиспользованных бюджетных кредитов, выданных из республиканского бюджета</td>
 <td>5</td>
 <td>01</td>
 <td>2</td>
 <td>03</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Возврат из бюджетов районов (городов областного значения) неиспользованных бюджетных кредитов, выданных из областного бюджета</td>
+<td>Возврат из районных (городов областного значения) бюджетов неиспользованных бюджетных кредитов, выданных из областного бюджета</td>
 <td>5</td>
 <td>01</td>
 <td>2</td>
 <td>04</td>
 <td></td>
-<td>100</td>
-<td></td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4028,21 +4637,23 @@
 <td>2</td>
 <td>05</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Возврат, использованных не по целевому назначению кредитов, выданных из местного бюджета</td>
+<td>Возврат местными исполнительными органами района (города областного значения) использованных не по целевому назначению кредитов, выданных из областного бюджета</td>
 <td>5</td>
 <td>01</td>
 <td>2</td>
 <td>06</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4052,9 +4663,10 @@
 <td>2</td>
 <td>07</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4064,9 +4676,36 @@
 <td>2</td>
 <td>08</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>Возврат из бюджетов города районного значения, села, поселка, сельского округа неиспользованных бюджетных кредитов, выданных из районного (города областного значения) бюджета</td>
+<td>5</td>
+<td>01</td>
+<td>2</td>
+<td>09</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>Возврат из бюджетов города районного значения, села, поселка, сельского округа использованных не по целевому назначению бюджетных кредитов, выданных из районного (города областного значения) бюджета</td>
+<td>5</td>
+<td>01</td>
+<td>2</td>
+<td>11</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4076,9 +4715,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4088,9 +4728,10 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4100,9 +4741,10 @@
 <td>1</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4112,9 +4754,10 @@
 <td>1</td>
 <td>02</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4124,9 +4767,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4136,9 +4780,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4148,9 +4793,10 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4160,21 +4806,23 @@
 <td>1</td>
 <td>02</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
 <td></td>
 </tr>
 <tr>
-<td>Поступления от приватизации государственного имущества, находящегося в республиканской собственности и относящегося к горнодобывающей и обрабатывающей отраслям</td>
+<td>Поступления от приватизации республиканской собственности</td>
 <td>6</td>
 <td>01</td>
 <td>1</td>
 <td>03</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>100</td>
 </tr>
 <tr>
@@ -4184,22 +4832,24 @@
 <td>1</td>
 <td>05</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
 <td></td>
 </tr>
 <tr>
-<td>Поступления от продажи финансовых активов, находящихся в республиканской собственности</td>
+<td>Поступления от передачи в конкурентную среду активов национальных управляющих холдингов, национальных холдингов, национальных компаний и их дочерних, зависимых и иных юридических лиц, являющихся аффилированными с ними</td>
 <td>6</td>
 <td>01</td>
 <td>1</td>
-<td>06</td>
+<td>07</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>Поступления от продажи финансовых активов за пределами страны</td>
@@ -4208,9 +4858,10 @@
 <td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4220,9 +4871,10 @@
 <td>2</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4232,9 +4884,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4244,9 +4897,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4256,9 +4910,10 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4268,9 +4923,10 @@
 <td>1</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4280,9 +4936,10 @@
 <td>1</td>
 <td>02</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4292,9 +4949,10 @@
 <td>1</td>
 <td>03</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4304,9 +4962,10 @@
 <td>1</td>
 <td>05</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4316,9 +4975,10 @@
 <td>1</td>
 <td>09</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4328,21 +4988,27 @@
 <td>1</td>
 <td>10</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>Поступления от выпуска государственных ценных бумаг, выпускаемых местными исполнительными органами городов республиканского значения, столицы для обращения на внутреннем рынке для финансирования дефицита бюджета города республиканского значения, столицы</td>
+<td>
+Поступления от выпуска государственных ценных бумаг, выпускаемых местными
+исполнительными органами городов республиканского значения, столицы для обращения на внутреннем рынке для финансирования дефицита бюджета города
+республиканского значения, столицы
+</td>
 <td>7</td>
 <td>01</td>
 <td>1</td>
 <td>11</td>
 <td></td>
-<td></td>
-<td>100</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4352,9 +5018,10 @@
 <td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4364,9 +5031,10 @@
 <td>2</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4376,9 +5044,10 @@
 <td>2</td>
 <td>02</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4388,9 +5057,23 @@
 <td>2</td>
 <td>03</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
 <td></td>
+</tr>
+<tr>
+<td>Займы, получаемые аппаратом акима города районного значения, села, поселка, сельского округа</td>
+<td>7</td>
+<td>01</td>
+<td>2</td>
+<td>04</td>
 <td></td>
-<td>100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">100</td>
 <td></td>
 </tr>
 <tr>
@@ -4400,9 +5083,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4412,9 +5096,10 @@
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4424,9 +5109,10 @@
 <td>1</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4436,9 +5122,10 @@
 <td>1</td>
 <td>02</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4448,9 +5135,10 @@
 <td>1</td>
 <td>03</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4460,9 +5148,10 @@
 <td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4472,9 +5161,10 @@
 <td>2</td>
 <td>01</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4484,9 +5174,10 @@
 <td>2</td>
 <td>02</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4496,9 +5187,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4508,21 +5200,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Свободные остатки бюджетных средств</td>
-<td>8</td>
-<td>01</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4530,8 +5211,21 @@
 <td>8</td>
 <td>01</td>
 <td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>Свободные остатки бюджетных средств</td>
+<td>8</td>
 <td>01</td>
-<td colspan="4">В зависимости от уровня бюджета, где образовались свободные остатки</td>
+<td>1</td>
+<td>01</td>
+<td colspan="9">В зависимости от уровня бюджета, где образовались свободные остатки</td>
 <td></td>
 </tr>
 <tr>
@@ -4540,10 +5234,11 @@
 <td>01</td>
 <td>2</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -4552,7 +5247,7 @@
 <td>01</td>
 <td>2</td>
 <td>01</td>
-<td colspan="4">В зависимости от уровня бюджета, где образовались остатки</td>
+<td colspan="9">В зависимости от уровня бюджета, где образовались остатки</td>
 <td></td>
 </tr>
 </table>
