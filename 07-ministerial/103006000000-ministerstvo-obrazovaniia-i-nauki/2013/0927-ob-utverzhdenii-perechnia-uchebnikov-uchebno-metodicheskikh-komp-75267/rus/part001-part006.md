@@ -988,7 +988,7 @@ Hot Spot 1 KZ Teacher’s. Book &amp; Test CD
 <td>3.</td>
 <td>
 Қазақ тілі.
-Оқулық
+Оқулық + CD
 </td>
 <td>
 Т. Ермекова,
