@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/75267/kaz/11.07.2017
+source: https://zan.gov.kz/client/#!/doc/75267/kaz/28.09.2017
 ---
 
 Өзбек тілінде оқыту
@@ -1728,6 +1728,34 @@ source: https://zan.gov.kz/client/#!/doc/75267/kaz/11.07.2017
 </td>
 <td>2017</td>
 <td>Келешек-2030</td>
+</tr>
+<tr>
+<td>15.</td>
+<td>
+Алгебра.
+Дарслик
+</td>
+<td>
+А. Абилкасимова,
+Т. Кучер,
+В. Корчевский,
+З. Жумагулова
+</td>
+<td>2017</td>
+<td>Мектеп</td>
+</tr>
+<tr>
+<td>16.</td>
+<td>
+Геометрия.
+Дарслик
+</td>
+<td>
+В. Смирнов,
+Е. Туяков
+</td>
+<td>2017</td>
+<td>Мектеп</td>
 </tr>
 <tr>
 <td colspan="5">8-сынып</td>
