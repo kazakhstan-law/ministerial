@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/90538/kaz/10.02.2017
+source: https://zan.gov.kz/client/#!/doc/90538/kaz/30.10.2017
 ---
 
 > *«Қазақстан Республикасының азаматтығын*  
