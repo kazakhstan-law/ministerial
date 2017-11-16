@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/83954/kaz/16.06.2017
+source: https://zan.gov.kz/client/#!/doc/83954/kaz/16.11.2017
 ---
 
 ## 15-параграф. Мемлекеттік наградаларды және оған қоса берілген құжаттарды алып қою тәртібі
