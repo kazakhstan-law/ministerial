@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/93456/kaz/22.06.2017
+source: https://zan.gov.kz/client/#!/doc/93456/kaz/27.11.2017
 ---
 
 # Теміржол көлігін техникалық пайдалану қағидаларын бекіту туралы
