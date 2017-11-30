@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/90678/rus/30.04.2015
+source: https://zan.gov.kz/client/#!/doc/90678/rus/30.11.2017
 ---
 
 # Об утверждении Правил плавания по внутренним водным путям
