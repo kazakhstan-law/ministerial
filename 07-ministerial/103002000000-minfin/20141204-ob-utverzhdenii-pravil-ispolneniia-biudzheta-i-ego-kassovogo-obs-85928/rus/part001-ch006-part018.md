@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85928/rus/06.09.2017
+source: https://zan.gov.kz/client/#!/doc/85928/rus/30.11.2017
 ---
 
 ## Параграф 18. Порядок разработки Соглашения о результатах по целевым трансфертам
