@@ -1,6 +1,8 @@
 # Мәмілелер мониторингін жүзеге асыру қағидаларын бекіту туралы
 
-«Трансферттік баға белгілеу туралы» Қазақстан Республикасының 2008 жылғы 5 шілдедегі Заңының 6-бабының 4-тармағына сәйкес БҰЙЫРАМЫН:
+«Трансферттік баға белгілеу туралы» Қазақстан Республикасының 2008 жылғы 5 шілдедегі Заңының 6-бабы 4-тармағына және «Мемлекеттік статистика туралы» Қазақстан Республикасының 2010 жылғы 19 наурыздағы Заңының 16-бабы 3-тармағының 2) тармақшасына сәйкес БҰЙЫРАМЫН:
+
+> *Ескерту. Кіріспе жаңа редакцияда - ҚР Қаржы министрінің 15.12.2017 № 728 (алғаш ресми жариялаған күннен бастап он күнтізбелік күн ішінде қолданысқа енгізіледі) бұйрығымен.*
 
 1. Қоса беріліп отырған Мәмілелер мониторингін жүзеге асыру қағидалары бекітілсін.
 
@@ -338,549 +340,1259 @@
     11) бағалардың дұрыс қолданылуын негіздейтін және тауарларды сату жөніндегі шығыстарды (тауарды тасымалдау, сақтандыру, делдал қызметіне ақы төлеуге, порттардағы ауыстырып тиеу бойынша шығыстар, кемені жалға алу, кеден төлемдері мен салықтарды растайтын, темір жол және басқа да көлік жүкқұжаттары, сапа үшін жеңілдіктер мен үстемеақыларды растайтын теңіз коносаменттері және басқа да шығыстар) растайтын басқа да құжаттар.
 
 > *Мәмілелер мониторингін*  
-> *жүзеге асыру қағидаларына*  
-> *қосымша 1*
+> *жүзеге асыру ережесіне*  
+> *1-қосымша*
 
-> *нысан*
+> *Ескерту. Нысан жаңа редакцияда - ҚР Қаржы министрінің 15.12.2017 № 728 (алғаш ресми жариялаған күннен бастап он күнтізбелік күн ішінде қолданысқа енгізіледі) бұйрығымен.*
 
-# «Тауарлар (жұмыстар, қызметтер) экспорты» мәмілелер мониторингі бойынша есептілік
+## Әкімшілік деректерді жинау үшін нысан
+
+## «Тауарлар (жұмыстар, қызмет көрсетулер) экспорты» мәмілелер мониторингі бойынша есептілік
+
+## Есепті кезең 20__ жылғы ___ айы
+
+Индекс: 1 - Э ТРУ
+
+Кезеңділігі: жыл сайынғы
+
+Ұсынады: Салық төлеушілер «Салық және бюджетке төленетін басқа да міндетті төлемдер туралы» Қазақстан Республикасының Кодексінің (Салық кодексі) 130-бабына сәйкес, халықаралық іскерлік операциалар бойынша ақпарат тауарлар (жұмыстар, қызметтер) халықаралық іскерлік операциалар тізбесіне сәйкес тауарлар (жұмыстар, қызметтер), Қазақстан Республикасының «Трансферттік баға белгілеу туралы» Заңының 6-бабының 2-тармағына сәйкес бекітілген.
+
+Қайда ұсынады: Қазақстан Республикасы Қаржы министрлігінің Мемлекеттік кірістер комитеті.
+
+Тапсыру мерзімі: жыл сайын, есепті жылдан кейінгі жылдың 15 мамырынан кешіктірмей.
+
+Ескертпе: нысанды толтыру бойынша түсініктеме осы бұйрықпен бекітілген Мәмілелер мониторингін жүзеге асыру қағидаларында келтірілген.
+
+## «Тауарлар (жұмыстар, қызметтер) экспорты»мәмілелер мониторингі бойынша есептілік
 
 <table>
 <tr>
-<td>
-р/с
-№
-</td>
-<td>ЖСН</td>
-<td>БСН</td>
-<td>Жіберушінің (экспорттаушынын) атауы</td>
-<td>Салық кезеңі</td>
-<td>Тауарларға декларацияның (Өтініштің) күні</td>
-<td>Тауарларға декларацияның (Өтініштің) №</td>
-<td>ЕАЭО СЭҚ ТН-коды</td>
+<td>р/с</td>
+<td colspan="5">Жеке сәйкестендіру нөмірі</td>
+<td colspan="3">Бизнес сәйкестендіру нөмірі</td>
+<td colspan="4">Жіберушінің (экспорттаушының) атауы</td>
+<td colspan="2">Салық кезеңі</td>
+<td colspan="4">Тауарларға декларацияның (Өтініштің) күні</td>
+<td colspan="4">Тауарларға декларацияның (Өтініштің) №</td>
+<td colspan="3">Еуразиялық экономикалық одағының сыртқы экономикалық қызметтің тауарлық номенклатурасы коды</td>
 <td>Тауардың (жұмыстардың, қызметтердің) атауы</td>
-<td>Тауардың (жұмыстың, қызметтің) сапалық сипаттамалары</td>
+<td colspan="2">Тауардың (жұмыстың, қызметтің) сапалық сипаттамалары</td>
 <td>Тауарлар (жұмыстар, қызметтер) нарығындағы беделі</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
+<td>1</td>
+<td colspan="5">2</td>
+<td colspan="3">3</td>
+<td colspan="4">4</td>
+<td colspan="2">5</td>
+<td colspan="4">6</td>
+<td colspan="4">7</td>
+<td colspan="3">8</td>
+<td>9</td>
+<td colspan="2">10</td>
+<td>11</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 </table>
 
-кестенің жалғасы
+Кестенің жалғасы
 
 <table>
 <tr>
 <td>Тауарды жөнелту, жұмысты орындау, қызметті көрсету елі</td>
-<td>Тасымалдау түрі</td>
-<td>Тауарды (жұмысты, қызметті) шығарушы ел</td>
-<td>Тауарды (жұмысты, қызметті) өндіруші</td>
-<td>Тауарлық таңбасының (сауда маркасының, брендінің) болуы</td>
-<td>ИНКОТЕРМС-ке сәйкес тауарды жеткізу шарты</td>
-<td>Тауарды (жұмысты, қызметті) тиеп жөнелту күні</td>
-<td>Тауарды (жұмысты, қызметті) тиеп жөнелту күні мен орны</td>
+<td colspan="5">Тасымалдау түрі</td>
+<td colspan="3">Тауарды (жұмысты, қызметті) шығарушы ел</td>
+<td colspan="3">Тауарды (жұмысты, қызметті) өндіруші</td>
+<td colspan="4">Тауарлық таңбасының (сауда маркасының, брендінің) болуы</td>
+<td colspan="4">ИНКОТЕРМС-ке сәйкес тауарды жеткізу шарты</td>
+<td colspan="3">Тауарды (жұмысты, қызметті) тиеп жөнелту күні</td>
+<td colspan="3">Тауарды (жұмысты, қызметті) тиеп жөнелту орны</td>
 <td>Тауардың (жұмыстың, қызметтің) межеленген елі</td>
-<td>Тауарды (жұмысты, қызметті) жеткізу пункті</td>
+<td colspan="2">Тауарды (жұмысты, қызметті) жеткізу пункті</td>
+<td>С а т ы п а л у ш ы н ы ң а т а у ы</td>
 </tr>
 <tr>
-<th>12</th>
-<th>13</th>
-<th>14</th>
-<th>15</th>
-<th>16</th>
-<th>17</th>
-<th>18</th>
-<th>19</th>
-<th>20</th>
-<th>21</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>12</td>
+<td colspan="5">13</td>
+<td colspan="3">14</td>
+<td colspan="3">15</td>
+<td colspan="4">16</td>
+<td colspan="4">17</td>
+<td colspan="3">18</td>
+<td colspan="3">19</td>
+<td>20</td>
+<td colspan="2">21</td>
+<td>2 2</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 </table>
 
-кестенің жалғасы
+Кестенің жалғасы
 
 <table>
 <tr>
-<td>Сатып алушының атауы</td>
-<td>Сатып алушының заңды мекенжайы</td>
-<td>Сатып алушының тіркелген елі</td>
+<td colspan="3">Сатып алушының заңды мекенжайы</td>
+<td colspan="3">Сатып алушының тіркелген елі</td>
 <td>Сауда жасаушы ел</td>
-<td>Тараптардың (сатушы мен сатып алушының) өзара байланысы туралы аппарат</td>
-<td>Келісімшарттың (шарттың) күні және №</td>
-<td>Келісімшарттың (шарттың) күні және №</td>
-<td>Шот-фактураның күні және №</td>
-<td>Өлшем бірлігі</td>
+<td colspan="4">Тараптардың (сатушы мен сатып алушының) өзара байланысы туралы ақпарат</td>
+<td colspan="5">Келісімшарттың (шарттың) күні</td>
+<td colspan="4">Келісімшарттың (шарттың) №</td>
+<td colspan="4">Шот-фактураның күні және №</td>
+<td colspan="2">Тауардың өлшем бірлігі</td>
 <td>Тауарды өткізу көлемі</td>
+<td colspan="2">Құны (Келісімшарттың (шарттың) валютасымен)</td>
+<td>Мәміле бағасы (Келісімшарттың (шарттың) валютасымен)</td>
 </tr>
 <tr>
-<th>22</th>
-<th>23</th>
-<th>24</th>
-<th>25</th>
-<th>26</th>
-<th>27</th>
-<th>28</th>
-<th>29</th>
-<th>30</th>
-<th>31</th>
+<td colspan="3">23</td>
+<td colspan="3">24</td>
+<td>25</td>
+<td colspan="4">26</td>
+<td colspan="5">27</td>
+<td colspan="4">28</td>
+<td colspan="4">29</td>
+<td colspan="2">30</td>
+<td>31</td>
+<td colspan="2">32</td>
+<td>33</td>
 </tr>
 <tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 </table>
 
-кестенің жалғасы
+Кестенің жалғасы
 
 <table>
 <tr>
-<td>Құн (келісімшарт (шарт) валютасымен)</td>
-<td>Мәміле бағасы (келісімшарт (шарт) валютасымен)</td>
-<td>Келісімшарт (шарт) валютасы</td>
+<td colspan="4">Келісімшарт (шарт) валютасы</td>
 <td>Теңге бағамы</td>
-<td>Трансферттік баға белгілеу әдіснамасы</td>
-<td>Мәміле бағасын белгілеуге ықпал ететін факторлар</td>
-<td>Нарықтық бағаны айқындау үшін қолданылатын әдіс</td>
-<td>Ақпарат көзі</td>
-<td>Дифференциал</td>
-<td>Тауардың (жұмыстың, қызметтің) нарықтық бағасы</td>
+<td colspan="2">Трансферттік баға белгілеу әдіснамасы</td>
+<td colspan="3">Мәміле бағасын белгілеуге ықпал ететін факторлар</td>
+<td colspan="4">Нарықтық бағаны айқындау үшін қолданылатын әдіс</td>
+<td colspan="4">Ақпарат көзі</td>
+<td colspan="4">Дифференциал (мағынасын ашумен)</td>
+<td colspan="3">Тауардың (жұмыстың, қызметтің) нарықтық бағасы</td>
+<td colspan="2">Мәмілеге қатысушының (экспорттаушының) кәсіпкерлік қызметінің, қызмет саласының және нарық шарттарының сипаттамасы</td>
+<td>Бизнестің стратегиясы</td>
+<td colspan="2">Тауардың (жұмыстың, қызметтің) мәміле бағасының дұрыс қолданылуын негіздейтін басқа ақпарат</td>
 </tr>
 <tr>
-<th>32</th>
-<th>33</th>
-<th>34</th>
-<th>35</th>
-<th>36</th>
-<th>37</th>
-<th>38</th>
-<th>39</th>
-<th>40</th>
-<th>41</th>
+<td colspan="4">34</td>
+<td>35</td>
+<td colspan="2">36</td>
+<td colspan="3">37</td>
+<td colspan="4">38</td>
+<td colspan="4">39</td>
+<td colspan="4">40</td>
+<td colspan="3">41</td>
+<td colspan="2">42</td>
+<td>43</td>
+<td colspan="2">44</td>
 </tr>
 <tr>
+<td colspan="4"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 </table>
 
-кестенің жалғасы
+Кестенің жалғасы
 
 <table>
 <tr>
-<td>Мәмілеге қатысушының (экспорттаушының) кәсіпкерлік қызметінің сипаттамасы, қызметінің саласы және нарық шарттары</td>
-<td>Бизнестің стратегиясы</td>
-<td>Тауардың (жұмыстың, қызметтің) мәміле бағасының дұрыс қолданылуын негіздейтін басқа ақпарат</td>
-<td>Тауардың (жұмыстың, қызметтің) мәміле бағасының нарықтық бағадан ауытқу шамасына ықпал ететін басқа ақпарат</td>
-<td>Экспорттық нарықтардағы тауарлар (жұмыстар, қызметтер) бағасының болжамы</td>
-<td>Іскерлік операцияларды жүргізу стратегиясы</td>
-<td>Бухгалтерлік есептің халықаралық стандарттар бойынша есептері, оның ішінде қаржылық есептілік</td>
-<td>Функционалдық талдау, тәуекелдерді, материалдық және материалдық емес активтерді талдау</td>
-<td>Маржа, сауда брокерінің, трейдердің немесе агенттің комиссиялық (агенттік) сыйақысы не олардың сауда- делдалдық функцияларды орындағаны үшін өтемақы</td>
-</tr>
-<tr>
-<th>42</th>
-<th>43</th>
-<th>44</th>
-<th>45</th>
-<th>46</th>
-<th>47</th>
-<th>48</th>
-<th>49</th>
-<th>50</th>
-</tr>
-<tr>
+<td colspan="2">Тауардың (жұмыстың,қызметтің) мәміле бағасының нарықтық бағадан ауытқу шамасына ықпал ететін басқа ақпарат</td>
+<td colspan="4">Экспорттық нарықтардағы тауарлар (жұмыстар, қызметтер) бағасының болжамы</td>
+<td colspan="3">Іскерлік операцияларды жүргізу стратегиясы</td>
+<td colspan="4">Бухгалтерлік есептің халықаралық стандарттар бойынша есептері, оның ішінде қаржылық есептілік</td>
+<td colspan="4">Функционалдық талдау, тәуекелдерді, материалдық және материалдық емес активтерді талдау</td>
+<td colspan="4">Маржа, сауда брокерінің, трейдердің немесе агенттің комиссиялық (агенттік) сыйақысы не олардың сауда- делдалдық функцияларды орындағаны үшін өтемақы</td>
+<td colspan="3">Баға белгілеу кезеңі</td>
+<td colspan="2">Ақпарат көзінен алынған баға</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
+<td colspan="2">45</td>
+<td colspan="4">46</td>
+<td colspan="2">47</td>
+<td colspan="5">48</td>
+<td colspan="4">49</td>
+<td colspan="4">50</td>
+<td colspan="3">51</td>
+<td colspan="2">52</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 </table>
 
 > *Мәмілелер мониторингін*  
-> *жүзеге асыру қағидаларына*  
-> *қосымша 2*
+> *жүзеге асыру ережесіне*  
+> *2-қосымша*
 
-> *нысан*
+> *Ескерту. Нысан жаңа редакцияда - ҚР Қаржы министрінің 15.12.2017 № 728 (алғаш ресми жариялаған күннен бастап он күнтізбелік күн ішінде қолданысқа енгізіледі) бұйрығымен.*
 
-# «Тауарлар (жұмыстар, қызмет көрсетулер) импорты» мәмілелер мониторингі бойынша есептілік
+## Әкімшілік деректерді жинау үшін нысан
+
+## «Тауарлар (жұмыстар, қызмет көрсетулер) импорты» мәмілелер мониторингі бойынша есептілік
+
+## Есепті кезең 20__ жылғы ___ айы
+
+Индекс: 2 – И ТРУ
+
+Кезеңділігі: жыл сайынғы
+
+Ұсынады: Салық төлеушілер «Салық және бюджетке төленетін басқа да міндетті төлемдер туралы» Қазақстан Республикасының Кодексінің (Салық кодексі) 130-бабына сәйкес, халықаралық іскерлік операциалар бойынша ақпарат тауарлар (жұмыстар, қызметтер) халықаралық іскерлік операциалар тізбесіне сәйкес тауарлар (жұмыстар, қызметтер), Қазақстан Республикасының «Трансферттік баға белгілеу туралы» Заңының 6-бабының 2-тармағына сәйкес бекітілген.
+
+Қайда ұсынады: Қазақстан Республикасы Қаржы министрлігінің Мемлекеттік кірістер комитеті.
+
+Тапсыру мерзімі: жыл сайын, есепті жылдан кейінгі жылдың 15 мамырынан кешіктірмей.
+
+Ескертпе: нысанды толтыру бойынша түсініктеме осы бұйрықпен бекітілген Мәмілелер мониторингін жүзеге асыру қағидаларында келтірілген.
+
+## «Тауарлар (жұмыстар, қызмет көрсетулер) импорты» мәмілелер мониторингі бойынша есептілік
 
 <table>
 <tr>
-<td>
-р/с
-№
-</td>
-<td>ЖСН</td>
-<td>БСН</td>
-<td>Сатып алушының (импорттаушының) атауы</td>
+<td>р/с</td>
+<td colspan="5">Жеке сәйкестендіру нөмірі</td>
+<td colspan="5">Бизнес сәйкестендіру нөмірі</td>
+<td colspan="4">Жіберушінің (импорттаушының) атауы</td>
 <td>Салық кезеңі</td>
-<td>Тауарларға декларацияның (Өтініштің) күні</td>
-<td>Тауарларға декларацияның (Өтініштің) №</td>
-<td>ЕАЭО СЭҚ ТН-коды</td>
-<td>Тауардың (жұмыстың, қызметтің) атауы</td>
-<td>Тауардың (жұмыстың, қызметтің) сапалық сипаттамалары</td>
-<td>Тауарлар (жұмыстар, қызметтер) нарығындағы беделі</td>
+<td colspan="5">Тауарларға декларацияның (Өтініштің) күні</td>
+<td colspan="4">Тауарларға декларацияның (Өтініштің) №</td>
+<td colspan="4">Еуразиялық экономикалық одағының сыртқы экономикалық қызметтің тауарлық номенклатурасы коды</td>
+<td colspan="4">Тауардың (жұмыстардың, қызметтердің) атауы</td>
+<td colspan="3">Тауардың (жұмыстың, қызметтің) сапалық сипаттамалары</td>
+<td colspan="2">Тауарлар (жұмыстар, қызметтер) нарығындағы беделі</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1</td>
+<td colspan="5">2</td>
+<td colspan="5">3</td>
+<td colspan="4">4</td>
+<td>5</td>
+<td colspan="5">6</td>
+<td colspan="4">7</td>
+<td colspan="4">8</td>
+<td colspan="4">9</td>
+<td colspan="3">10</td>
+<td colspan="2">11</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
 <td></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
 <td></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
 <td></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+Кестенің жалғасы
+
+<table>
+<tr>
+<td colspan="3">Сатып алушының заңды мекенжайы</td>
+<td colspan="4">Сатып алушының тіркелген елі</td>
+<td colspan="2">Сауда жасаушы ел</td>
+<td colspan="5">Тараптардың (сатушы мен сатып алушының) өзара байланысы туралы ақпарат</td>
+<td colspan="3">Келісімшарттың (шарттың) күні</td>
+<td colspan="4">Келісімшарттың (шарттың) №</td>
+<td colspan="4">Шот-фактураның күні және №</td>
+<td colspan="4">Тауардың өлшем бірлігі</td>
+<td colspan="3">Тауарды өткізу көлемі</td>
+<td colspan="3">Құны (Келісімшарттың (шарттың) валютасымен)</td>
+<td colspan="3">Мәміле бағасы (Келісімшарттың (шарттың) валютасымен)</td>
+</tr>
+<tr>
+<td colspan="3">12</td>
+<td colspan="4">13</td>
+<td colspan="2">14</td>
+<td colspan="5">15</td>
+<td colspan="3">16</td>
+<td colspan="4">17</td>
+<td colspan="4">18</td>
+<td colspan="4">19</td>
+<td colspan="3">20</td>
+<td colspan="3">21</td>
+<td colspan="3">22</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+</table>
+
+Кестенің жалғасы
+
+<table>
+<tr>
+<td colspan="3">Сатып алушының заңды мекенжайы</td>
+<td colspan="5">Сатып алушының тіркелген елі</td>
+<td colspan="2">Сауда жасаушы ел</td>
+<td colspan="5">Тараптардың (сатушы мен сатып алушының) өзара байланысы туралы ақпарат</td>
+<td colspan="4">Келісімшарттың (шарттың) күні</td>
+<td colspan="4">Келісімшарттың (шарттың) №</td>
+<td colspan="4">Шот-фактураның күні және №</td>
+<td colspan="4">Тауардың өлшем бірлігі</td>
+<td colspan="2">Тауарды өткізу көлемі</td>
+<td colspan="4">Құны (Келісімшарттың (шарттың) валютасымен)</td>
+<td>Мәміле бағасы (Келісімшарттың (шарттың) валютасымен)</td>
+</tr>
+<tr>
+<td colspan="3">23</td>
+<td colspan="5">24</td>
+<td colspan="2">25</td>
+<td colspan="5">26</td>
+<td colspan="4">27</td>
+<td colspan="4">28</td>
+<td colspan="4">29</td>
+<td colspan="4">30</td>
+<td colspan="2">31</td>
+<td colspan="4">32</td>
+<td>33</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
 <td></td>
 </tr>
 </table>
 
-кестенің жалғасы:
+Кестенің жалғасы
 
 <table>
 <tr>
-<td>Тауарды жөнелту, жұмысты орындау, қызметті көрсету елі</td>
-<td>Тасымалдау түрі</td>
-<td>Тауарды (жұмысты, қызметті) шығарушы ел</td>
-<td>Тауарды (жұмысты, қызметті) өндіруші</td>
-<td>Тауарлық таңбасының (сауда маркасының, брендінің) болуы</td>
-<td>ИНКОТЕРМС-сәйкес тауарды жеткізу шарттары</td>
-<td>Тауарды (жұмысты, қызметті) тиеп жөнелту күні мен орны</td>
-<td>Тауарды (жұмысты, қызметті) тиеп жөнелту күні мен орны</td>
-<td>Тауардың (жұмыстың, қызметтің) межеленген елі</td>
-<td>Тауарды (жұмысты, қызметті) жеткізу пункті</td>
+<td colspan="2">Келісімшарт (шарт) валютасы</td>
+<td colspan="3">Теңге бағамы</td>
+<td colspan="5">Трансферттік баға белгілеу әдіснамасы</td>
+<td colspan="3">Мәміле бағасын белгілеуге ықпал ететін факторлар</td>
+<td colspan="3">Нарықтық бағаны айқындау үшін қолданылатын әдіс</td>
+<td colspan="4">Ақпарат көзі</td>
+<td colspan="4">Дифференциал (мағынасын ашумен)</td>
+<td colspan="4">
+Тауардың (жұмыстың, қызметтің) нарықтық
+бағасы
+</td>
+<td colspan="5">Мәмілеге қатысушының (импорттаушының) кәсіпкерлік қызметінің, қызмет саласының және нарық шарттарының сипаттамасы</td>
+<td colspan="3">Бизнестің стратегиясы</td>
+<td colspan="2">Тауардың (жұмыстың, қызметтің) мәміле бағасының дұрыс қолданылуын негіздейтін басқа ақпарат</td>
 </tr>
 <tr>
-<th>12</th>
-<th>13</th>
-<th>14</th>
-<th>15</th>
-<th>16</th>
-<th>17</th>
-<th>18</th>
-<th>19</th>
-<th>20</th>
-<th>21</th>
+<td colspan="2">34</td>
+<td colspan="3">35</td>
+<td colspan="5">36</td>
+<td colspan="3">37</td>
+<td colspan="3">38</td>
+<td colspan="4">39</td>
+<td colspan="4">40</td>
+<td colspan="4">41</td>
+<td colspan="5">42</td>
+<td colspan="3">43</td>
+<td colspan="2">44</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 </table>
 
-кестенің жалғасы:
+Кестенің жалғасы
 
 <table>
 <tr>
-<td>Сатушының (жөнелтушінің) атауы</td>
-<td>Сатушының (жөнелтушінің) заңды мекенжайы</td>
-<td>Сатушының (жөнелтушінің) тіркелген елі</td>
-<td>Сауда жасаушы ел</td>
-<td>Тараптардың (сатушы мен сатып алушының) өзара байланысы туралы ақпарат</td>
-<td>Келісімшарттың (шарттың) күні және №</td>
-<td>Келісімшарттың (шарттың) күні және №</td>
-<td>Шот-фактураның күні және №</td>
-<td>Өлшем бірлігі</td>
-<td>Тауарды өткізу көлемі</td>
+<td colspan="4">Тауардың (жұмыстың,қызметтің) мәміле бағасының нарықтық бағадан ауытқу шамасына ықпал ететін басқа ақпарат</td>
+<td colspan="5">Экспорттық нарықтардағы тауарлар (жұмыстар, қызметтер) бағасының болжамы</td>
+<td colspan="3">Іскерлік операцияларды жүргізу стратегиясы</td>
+<td colspan="6">Бухгалтерлік есептің халықаралық стандарттар бойынша есептері, оның ішінде қаржылық есептілік</td>
+<td colspan="4">Функционалдық талдау, тәуекелдерді, материалдық және материалдық емес активтерді талдау</td>
+<td colspan="4">Маржа, сауда брокерінің, трейдердің немесе агенттің комиссиялық (агенттік) сыйақысы не олардың сауда- делдалдық функцияларды орындағаны үшін өтемақы</td>
+<td colspan="4">Баға белгілеу кезеңі</td>
+<td colspan="3">Ақпарат көзінен алынған баға</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<th>22</th>
-<th>23</th>
-<th>24</th>
-<th>25</th>
-<th>26</th>
-<th>27</th>
-<th>28</th>
-<th>29</th>
-<th>30</th>
-<th>31</th>
+<td colspan="4">45</td>
+<td colspan="5">46</td>
+<td colspan="3">47</td>
+<td colspan="6">48</td>
+<td colspan="4">49</td>
+<td colspan="4">50</td>
+<td colspan="4">51</td>
+<td colspan="3">52</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-кестенің жалғасы:
-
-<table>
-<tr>
-<td>Құн (келісімшарт (шарт) валютасымен)</td>
-<td>Мәміле бағасы (келісімшарт (шарт) валютасымен)</td>
-<td>Келісімшарт (шарт) валютасы</td>
-<td>Теңге бағамы</td>
-<td>Трансферттік баға белгілеу әдіснамасы</td>
-<td>Мәміле бағасын белгілеуге ықпал ететін факторлар</td>
-<td>Нарықтық бағаны айқындау үшін қолданылатын әдіс</td>
-<td>Ақпарат көзі</td>
-<td>Дифференциал</td>
-<td>Тауардың (жұмыстың, қызметтің) нарықтық бағасы</td>
-</tr>
-<tr>
-<th>32</th>
-<th>33</th>
-<th>34</th>
-<th>35</th>
-<th>36</th>
-<th>37</th>
-<th>38</th>
-<th>39</th>
-<th>40</th>
-<th>41</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-кестенің жалғасы:
-
-<table>
-<tr>
-<td>Мәмілеге қатысушының (импорттаушының) кәсіпкерлік қызметінің сипаттамасы, қызметінің саласы және нарық шарттары</td>
-<td>Бизнестің стратегиясы</td>
-<td>Тауардың (жұмыстың, қызметтің) мәміле бағасының дұрыс қолданылуын негіздейтін басқа ақпарат</td>
-<td>Тауардың (жұмыстың, қызметтің) мәміле бағасының нарықтық бағадан ауытқу шамасына ықпал ететін басқа ақпарат</td>
-<td>Тауарлар (жұмыстар, қызметтер) бағасының болжамы</td>
-<td>Іскерлік операцияларды жүргізу стратегиясы</td>
-<td>Бухгалтерлік есептің халықаралық стандарттар бойынша есептері, оның ішінде қаржылық есептілік</td>
-<td>Функционалдық талдау, тәуекелдерді, материалдық және материалдық емес активтерді талдау</td>
-<td>Маржа, сауда брокерінің, трейдердің немесе агенттің комиссиялық (агенттік) сыйақысы не олардың сауда- делдалдық функцияларды орындағаны үшін өтемақы</td>
-</tr>
-<tr>
-<th>42</th>
-<th>43</th>
-<th>44</th>
-<th>45</th>
-<th>46</th>
-<th>47</th>
-<th>48</th>
-<th>49</th>
-<th>50</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 </table>
