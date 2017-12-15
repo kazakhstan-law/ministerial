@@ -1,10 +1,12 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/89123/rus/16.03.2015
+source: https://zan.gov.kz/client/#!/doc/89123/rus/15.12.2017
 ---
 
 # Об утверждении Правил осуществления мониторинга сделок
 
-В соответствии с пунктом 4 статьи 6 Закона Республики Казахстан от 5 июля 2008 года «О трансфертном ценообразовании» ПРИКАЗЫВАЮ:
+В соответствии с пунктом 4 статьи 6 Закона Республики Казахстан от 5 июля 2008 года «О трансфертном ценообразовании» и подпунктом 2) пункта 3 статьи 16 Закона Республики Казахстан от 19 марта 2010 года «О государственной статистике» ПРИКАЗЫВАЮ:
+
+> *Сноска. Преамбула в редакции приказа Министра финансов РК от 15.12.2017 № 728 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 1. Утвердить прилагаемые Правила осуществления мониторинга сделок.
 
@@ -329,270 +331,932 @@ source: https://zan.gov.kz/client/#!/doc/89123/rus/16.03.2015
 > *к Правилам осуществления*  
 > *мониторинга сделок*
 
-> *форма*
+> *Сноска. Форма в редакции приказа Министра финансов РК от 15.12.2017 № 728 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
-# Отчетность по мониторингу сделок «Экспорт товаров (работ, услуг)»
+## Форма предназначена для сбора административных данных
+
+## Отчетность по мониторингу сделок «Экспорт товаров (работ, услуг)»
+
+## отчетный период ____ месяц 20__ года
+
+Индекс: 1 - Э ТРУ
+
+Периодичность: ежегодная
+
+Представляют: налогоплательщики в соответствии со статьей 130 Кодекса Республики Казахстан «О налогах и других обязательных платежах в бюджет» (Налоговый кодекс), информацию по международным деловым операциям по товарам (работам, услугам) согласно Перечню международных деловых операции по товарам (работам, услугам), утверждаемому в соответствии с пунктом 2 статьи 6 Закона Республики Казахстан «О трансфертном ценообразовании».
+
+Куда представляется: Комитет государственных доходов Министерства финансов Республики Казахстан.
+
+Срок представления: ежегодно не позднее 15 мая года, следующего за отчетным годом.
+
+Примечание: пояснение по заполнению формы приведено в Правилах осуществления мониторинга сделок, утвержденных настоящим приказом.
+
+## Отчетность по мониторингу сделок «Экспорт товаров (работ, услуг)»
 
 <table>
 <tr>
 <td>п/п</td>
-<td>ИИН</td>
-<td>БИН</td>
-<td>Наименование отправителя (экспортера)</td>
-<td>Налоговый период</td>
-<td>Дата декларации на товары (Заявления)</td>
-<td>№ декларации на товары (Заявления)</td>
-<td>Код ТН ВЭД ЕАЭС</td>
-<td>Наименование товара (работы, услуги)</td>
-<td>Качественные характеристики товара (работы, услуги)</td>
-<td>Репутация на рынке товаров (работ, услуг)</td>
+<td colspan="5">Индивидуальный идентификационный номер</td>
+<td colspan="5">Бизнес идентификационный номер</td>
+<td colspan="2">Наименование отправителя (экспортера)</td>
+<td colspan="2">Налоговый период</td>
+<td colspan="3">Дата декларации на товары (Заявления)</td>
+<td colspan="3">№ декларации на товары (Заявления)</td>
+<td colspan="4">Код товарной номенклатуры внешне -экономической деятельности Евразийского экономического союза</td>
+<td colspan="2">Наименование товара (работы, услуги)</td>
+<td colspan="6">Качественные характеристики товара (работы, услуги)</td>
+<td colspan="2">Репутация на рынке товаров (работ, услуг)</td>
 </tr>
 <tr>
 <th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
+<th colspan="5">2</th>
+<th colspan="5">3</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
+<th colspan="3">6</th>
+<th colspan="3">7</th>
+<th colspan="4">8</th>
+<th colspan="2">9</th>
+<th colspan="6">10</th>
+<th colspan="2">11</th>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-продолжение таблицы
-
-<table>
-<tr>
-<td>Страна отправления товара, выполнения работы, оказания услуги</td>
-<td>Вид транспортировки</td>
-<td>Страна происхождения товара (работы, услуги)</td>
-<td>Производитель товара (работы, услуги)</td>
-<td>Наличие товарного знака (торговой марки, бренда)</td>
-<td>Условия поставки товара согласно ИНКОТЕРМС</td>
-<td>Дата отгрузки товара (работы, услуги)</td>
-<td>Место отгрузки товара (работы, услуги)</td>
-<td>Страна назначения товара (работы, услуги)</td>
-<td>Пункт доставки товара (работы, услуги)</td>
-</tr>
-<tr>
-<th>12</th>
-<th>13</th>
-<th>14</th>
-<th>15</th>
-<th>16</th>
-<th>17</th>
-<th>18</th>
-<th>19</th>
-<th>20</th>
-<th>21</th>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
 </tr>
 </table>
 
-продолжение таблицы
+Продолжение таблицы
 
 <table>
 <tr>
-<td>Наименование покупателя</td>
-<td>Юридический адрес покупателя</td>
-<td>Страна регистрации покупателя</td>
-<td>Торгующая страна</td>
-<td>Информация о взаимосвязанности сторон (продавца и покупателя)</td>
-<td>Дата контракта (договора)</td>
-<td>№ контракта (договора)</td>
-<td>Дата и № счета-фактуры</td>
-<td>Единица измерения товара</td>
-<td>Объем реализации товара</td>
+<td colspan="2">Страна отправления товара, выполнения работы, оказания услуги</td>
+<td colspan="5">Вид транспортировки</td>
+<td colspan="4">Страна происхождения товара (работы, услуги)</td>
+<td colspan="3">Производитель товара (работы, услуги)</td>
+<td colspan="2">Наличие товарного знака (торговой марки, бренда)</td>
+<td colspan="4">Условия поставки товара согласно ИНКОТЕРМС</td>
+<td colspan="2">Дата отгрузки товара (работы, услуги)</td>
+<td colspan="3">Место отгрузки товара (работы, услуги)</td>
+<td colspan="2">Страна назначения товара (работы, услуги)</td>
+<td colspan="5">Пункт доставки товара (работы, услуги)</td>
+<td colspan="3">Наименование покупателя</td>
 </tr>
 <tr>
-<th>22</th>
-<th>23</th>
-<th>24</th>
-<th>25</th>
-<th>26</th>
-<th>27</th>
-<th>28</th>
-<th>29</th>
-<th>30</th>
-<th>31</th>
+<th colspan="2">12</th>
+<th colspan="5">13</th>
+<th colspan="4">14</th>
+<th colspan="3">15</th>
+<th colspan="2">16</th>
+<th colspan="4">17</th>
+<th colspan="2">18</th>
+<th colspan="3">19</th>
+<th colspan="2">20</th>
+<th colspan="5">21</th>
+<th colspan="3">22</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 </table>
 
-продолжение таблицы
+Продолжение таблицы
 
 <table>
 <tr>
-<td>Стоимость (в валюте контракта (договора))</td>
-<td>Цена сделки (в валюте контракта (договора))</td>
-<td>Валюта контракта (договора)</td>
-<td>Курс тенге</td>
-<td>Методология трансфертного ценообразования</td>
-<td>Факторы, влияющие на установление цены сделки</td>
-<td>Метод, применяемый для определения рыночной цены</td>
-<td>Источник информации</td>
-<td>Дифференциал</td>
-<td>Рыночная цена товара (работы, услуги)</td>
+<td colspan="3">Юридический адрес покупателя</td>
+<td colspan="3">Страна регистрации покупателя</td>
+<td colspan="3">Торгующая страна</td>
+<td colspan="4">Информация о взаимосвязанности сторон (продавца и покупателя)</td>
+<td colspan="3">Дата контракта (договора)</td>
+<td colspan="2">№ контракта (договора)</td>
+<td colspan="3">Дата и № счета-фактуры</td>
+<td colspan="4">Единица измерения товара</td>
+<td colspan="2">Объем реализации товара</td>
+<td colspan="7">Стоимость (в валюте контракта (договора)</td>
+<td>Цена сделки (в валюте контракта (договора)</td>
 </tr>
 <tr>
-<th>32</th>
+<th colspan="3">23</th>
+<th colspan="3">24</th>
+<th colspan="3">25</th>
+<th colspan="4">26</th>
+<th colspan="3">27</th>
+<th colspan="2">28</th>
+<th colspan="3">29</th>
+<th colspan="4">30</th>
+<th colspan="2">31</th>
+<th colspan="7">32</th>
 <th>33</th>
-<th>34</th>
-<th>35</th>
-<th>36</th>
-<th>37</th>
-<th>38</th>
-<th>39</th>
-<th>40</th>
-<th>41</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
 <td></td>
 </tr>
 <tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
 <td></td>
 </tr>
 </table>
 
-продолжение таблицы
+Продолжение таблицы
 
 <table>
 <tr>
-<td>Описание предпринимательской деятельности участника сделки (экспортера), отрасли деятельности и условий рынка</td>
-<td>Стратегия бизнеса</td>
-<td>Другая информация, обосновывающая правильность применения цены сделки товара (работы, услуги)</td>
-<td>Другая информация, влияющая на величину отклонения цены сделки товара (работы, услуги) от рыночной цены</td>
-<td>Прогноз цен на товары (работы, услуги) на экспортных рынках</td>
-<td>Стратегия ведения деловых операций</td>
-<td>Отчеты по международным стандартам бухгалтерского учета, в том числе финансовая отчетность</td>
-<td>Функциональный анализ, анализ рисков, материальных и нематериальных активов</td>
-<td>Маржа, комиссионное (агентское) вознаграждение торгового брокера, трейдера или агента либо компенсации за выполнение ими торгово-посреднических функций</td>
+<td colspan="2">Валюта контракта (договора)</td>
+<td colspan="3">Курс тенге</td>
+<td colspan="5">Методология трансфертного ценообразования</td>
+<td colspan="2">Факторы, влияющие на установление цены сделки</td>
+<td colspan="4">Метод, применяемый для определения рыночной цены</td>
+<td colspan="3">Источник информации</td>
+<td colspan="4">Дифференциал (с расшифровкой)</td>
+<td colspan="3">Рыночная цена товара (работы, услуги)</td>
+<td colspan="3">Описание предпринимательской деятельности участника сделки (экспортера), отрасли деятельности и условий рынка</td>
+<td colspan="3">Стратегия бизнеса</td>
+<td colspan="3">Другая информация, обосновывающая правильность применения цены сделки товара (работы, услуги)</td>
 </tr>
 <tr>
-<th>42</th>
-<th>43</th>
-<th>44</th>
-<th>45</th>
-<th>46</th>
-<th>47</th>
-<th>48</th>
-<th>49</th>
-<th>50</th>
+<th colspan="2">34</th>
+<th colspan="3">35</th>
+<th colspan="5">36</th>
+<th colspan="2">37</th>
+<th colspan="4">38</th>
+<th colspan="3">39</th>
+<th colspan="4">40</th>
+<th colspan="3">41</th>
+<th colspan="3">42</th>
+<th colspan="3">43</th>
+<th colspan="3">44</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+</table>
+
+Продолжение таблицы
+
+<table>
+<tr>
+<td colspan="4">Другая информация, влияющая на величину отклонения цены сделки товара (работы, услуги) от рыночной цены</td>
+<td colspan="4">Прогноз цен на товары (работы, услуги) на экспортных рынках</td>
+<td colspan="2">Стратегия ведения деловых операций</td>
+<td colspan="3">Отчеты по международным стандартам бухгалтерского учета, в том числе финансовая отчетность</td>
+<td colspan="4">Функциональный анализ, анализ рисков, материальных и нематериальных активов</td>
+<td colspan="7">Маржа, комиссионное (агентское) вознаграждение торгового брокера, трейдера или агента либо компенсации за выполнение ими торгово-посреднических функций</td>
+<td colspan="4">Котировальный период</td>
+<td colspan="2">Цена из источника информации</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th colspan="4">45</th>
+<th colspan="4">46</th>
+<th colspan="2">47</th>
+<th colspan="3">48</th>
+<th colspan="4">49</th>
+<th colspan="7">50</th>
+<th colspan="4">51</th>
+<th colspan="2">52</th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 </table>
 
@@ -600,269 +1264,944 @@ source: https://zan.gov.kz/client/#!/doc/89123/rus/16.03.2015
 > *к Правилам осуществления*  
 > *мониторинга сделок*
 
-> *форма*
+> *Сноска. Форма в редакции приказа Министра финансов РК от 15.12.2017 № 728 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
-# Отчетность по мониторингу сделок «Импорт товаров (работ, услуг)»
+## Форма предназначена для сбора административных данных
+
+## Отчетность по мониторингу сделок «Импорт товаров (работ, услуг)»
+
+## отчетный период ____ месяц 20__ года
+
+Индекс: 2 - И ТРУ
+
+Периодичность: ежегодная
+
+Представляют: налогоплательщики в соответствии со статьей 130 Кодекса Республики Казахстан «О налогах и других обязательных платежах в бюджет» (Налоговый кодекс), информацию по международным деловым операциям по товарам (работам, услугам) согласно Перечню международных деловых операции по товарам (работам, услугам), утверждаемому в соответствии с пунктом 2 статьи 6 Закона Республики Казахстан «О трансфертном ценообразовании».
+
+Куда представляется: Комитет государственных доходов Министерства финансов Республики Казахстан.
+
+Срок представления: ежегодно не позднее 15 мая года, следующего за отчетным годом.
+
+Примечание: пояснение по заполнению формы приведено в Правилах осуществления мониторинга сделок, утвержденных настоящим приказом.
+
+## Отчетность по мониторингу сделок «Импорт товаров (работ, услуг)»
 
 <table>
 <tr>
 <td>п/п</td>
-<td>ИИН</td>
-<td>БИН</td>
-<td>Наименование покупателя (импортера)</td>
+<td colspan="5">Индивидуальный идентификационный номер</td>
+<td colspan="2">Бизнес идентификационный номер</td>
+<td colspan="2">Наименование отправителя (импортера)</td>
 <td>Налоговый период</td>
-<td>Дата декларации на товары (Заявления)</td>
+<td colspan="2">Дата декларации на товары (Заявления)</td>
 <td>№ декларации на товары (Заявления)</td>
-<td>Код ТН ВЭД ЕАЭС</td>
-<td>Наименование товара (работы, услуги)</td>
-<td>Качественные характеристики товара (работы, услуги)</td>
+<td>Код товарной номенклатуры внешне -экономической деятельности Евразийского экономического союза</td>
+<td colspan="2">Наименование товара (работы, услуги)</td>
+<td colspan="5">Качественные характеристики товара (работы, услуги)</td>
 <td>Репутация на рынке товаров (работ, услуг)</td>
 </tr>
 <tr>
 <th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
+<th colspan="5">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
 <th>5</th>
-<th>6</th>
+<th colspan="2">6</th>
 <th>7</th>
 <th>8</th>
-<th>9</th>
-<th>10</th>
+<th colspan="2">9</th>
+<th colspan="5">10</th>
 <th>11</th>
 </tr>
 <tr>
 <td></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
 <td></td>
 </tr>
 </table>
 
-продолжение таблицы
+Продолжение таблицы
 
 <table>
 <tr>
-<td>Страна отправления товара, выполнения работы, оказания услуги</td>
-<td>Вид транспортировки</td>
+<td colspan="2">Страна отправления товара, выполнения работы, оказания услуги</td>
+<td colspan="4">Вид транспортировки</td>
 <td>Страна происхождения товара (работы, услуги)</td>
-<td>Производитель товара (работы, услуги)</td>
+<td colspan="3">Производитель товара (работы, услуги)</td>
 <td>Наличие товарного знака (торговой марки, бренда)</td>
-<td>Условия поставки товара согласно ИНКОТЕРМС</td>
+<td colspan="2">Условия поставки товара согласно ИНКОТЕРМС</td>
 <td>Дата отгрузки товара (работы, услуги)</td>
 <td>Место отгрузки товара (работы, услуги)</td>
-<td>Страна назначения товара (работы, услуги)</td>
-<td>Пункт доставки товара (работы, услуги)</td>
+<td colspan="2">Страна назначения товара (работы, услуги)</td>
+<td colspan="4">Пункт доставки товара (работы, услуги)</td>
+<td colspan="2">Наименование покупателя</td>
 </tr>
 <tr>
-<th>12</th>
-<th>13</th>
+<th colspan="2">12</th>
+<th colspan="4">13</th>
 <th>14</th>
-<th>15</th>
+<th colspan="3">15</th>
 <th>16</th>
-<th>17</th>
+<th colspan="2">17</th>
 <th>18</th>
 <th>19</th>
-<th>20</th>
-<th>21</th>
+<th colspan="2">20</th>
+<th colspan="4">21</th>
+<th colspan="2">22</th>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 </tr>
 </table>
 
-продолжение таблицы
+Продолжение таблицы
 
 <table>
 <tr>
-<td>Наименование (отправителя)</td>
-<td>Юридический адрес продавца (отправителя)</td>
-<td>Страна регистрации продавца (отправителя)</td>
+<td colspan="3">Юридический адрес покупателя</td>
+<td colspan="3">Страна регистрации отправителя</td>
 <td>Торгующая страна</td>
-<td>Информация о взаимосвязанности сторон (продавца и покупателя)</td>
-<td>Дата контракта (договора)</td>
-<td>№ контракта (договора)</td>
+<td colspan="2">Информация о взаимосвязанности сторон (продавца и покупателя)</td>
+<td colspan="2">Дата контракта (договора)</td>
+<td colspan="2">№ контракта (договора)</td>
 <td>Дата и № счета-фактуры</td>
 <td>Единица измерения товара</td>
-<td>Объем реализации товара</td>
+<td colspan="2">Объем реализации товара</td>
+<td colspan="5">Стоимость (в валюте контракта (договора)</td>
+<td>Цена сделки (в валюте контракта (договора)</td>
 </tr>
 <tr>
-<th>22</th>
-<th>23</th>
-<th>24</th>
+<th colspan="3">23</th>
+<th colspan="3">24</th>
 <th>25</th>
-<th>26</th>
-<th>27</th>
-<th>28</th>
+<th colspan="2">26</th>
+<th colspan="2">27</th>
+<th colspan="2">28</th>
 <th>29</th>
 <th>30</th>
-<th>31</th>
+<th colspan="2">31</th>
+<th colspan="5">32</th>
+<th>33</th>
 </tr>
 <tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
 <td></td>
 </tr>
 <tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
 <td></td>
 </tr>
 </table>
 
-продолжение таблицы
+Продолжение таблицы
 
 <table>
 <tr>
-<td>Стоимость (в валюте контракта (договора))</td>
-<td>Цена сделки приобретения (в валюте контракта (договора))</td>
-<td>Валюта контракта (договора)</td>
-<td>Курс тенге</td>
-<td>Методология трансфертного ценообразования</td>
-<td>Факторы, влияющие на установление цены сделки</td>
+<td colspan="2">Валюта контракта (договора)</td>
+<td colspan="3">Курс тенге</td>
+<td colspan="3">Методология трансфертного ценообразования</td>
+<td colspan="2">Факторы, влияющие на установление цены сделки</td>
 <td>Метод, применяемый для определения рыночной цены</td>
-<td>Источник информации</td>
-<td>Дифференциал</td>
+<td colspan="2">Источник информации</td>
+<td>Дифференциал (с расшифровкой)</td>
 <td>Рыночная цена товара (работы, услуги)</td>
+<td colspan="2">Описание предпринимательской деятельности участника сделки (экспортера), отрасли деятельности и условий рынка</td>
+<td colspan="5">Стратегия бизнеса</td>
+<td>Другая информация, обосновывающая правильность применения цены сделки товара (работы, услуги)</td>
 </tr>
 <tr>
-<th>32</th>
-<th>33</th>
-<th>34</th>
-<th>35</th>
-<th>36</th>
-<th>37</th>
+<th colspan="2">34</th>
+<th colspan="3">35</th>
+<th colspan="3">36</th>
+<th colspan="2">37</th>
 <th>38</th>
-<th>39</th>
+<th colspan="2">39</th>
 <th>40</th>
 <th>41</th>
+<th colspan="2">42</th>
+<th colspan="5">43</th>
+<th>44</th>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
 <td></td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
 <td></td>
 </tr>
 </table>
 
-продолжение таблицы
+Продолжение таблицы
 
 <table>
 <tr>
-<td>Описание предпринимательской деятельности участника сделки (импортера), отрасли деятельности и условий рынка</td>
-<td>Стратегия бизнеса</td>
-<td>Другая информация, обосновывающая правильность применения цены сделки товара (работы, услуги)</td>
-<td>Другая информация, влияющая на величину отклонения цены сделки товара (работы, услуги) от рыночной цены</td>
-<td>Прогноз цен на товары (работы, услуги)</td>
-<td>Стратегия ведения деловых операций</td>
-<td>Отчеты по международным стандартам бухгалтерского учета, в том числе финансовая отчетность</td>
-<td>Функциональный анализ, анализ рисков, материальных и нематериальных активов</td>
-<td>Маржа, комиссионное (агентское) вознаграждение торгового брокера, трейдера или агента либо компенсации за выполнение ими торгово-посреднических функций</td>
+<td colspan="4">Другая информация, влияющая на величину отклонения цены сделки товара (работы, услуги) от рыночной цены</td>
+<td colspan="2">Прогноз цен на товары (работы, услуги) на экспортных рынках</td>
+<td colspan="2">Стратегия ведения деловых операций</td>
+<td colspan="2">Отчеты по международным стандартам бухгалтерского учета, в том числе финансовая отчетность</td>
+<td colspan="2">Функциональный анализ, анализ рисков, материальных и нематериальных активов</td>
+<td colspan="2">Маржа, комиссионное (агентское) вознаграждение торгового брокера, трейдера или агента либо компенсации за выполнение ими торгово-посреднических функций</td>
+<td colspan="2">Котировальный период</td>
+<td colspan="2">Цена из источника информации</td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<th>42</th>
-<th>43</th>
-<th>44</th>
-<th>45</th>
-<th>46</th>
-<th>47</th>
-<th>48</th>
-<th>49</th>
-<th>50</th>
+<th colspan="4">45</th>
+<th colspan="2">46</th>
+<th colspan="2">47</th>
+<th colspan="2">48</th>
+<th colspan="2">49</th>
+<th colspan="2">50</th>
+<th colspan="2">51</th>
+<th colspan="2">52</th>
+<th></th>
+<th></th>
+<th colspan="3"></th>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
 </tr>
 </table>
