@@ -1,5 +1,5 @@
 ---
-version_id: '113604_205306'
+version_id: '113604_267231'
 act_code: '113604'
 language: rus
 title: О распределении государственного образовательного заказа на подготовку специалистов с высшим и послевузовским образованием в разрезе специальностей на 2017-2018 учебный год
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103006000000'
 approval_date: 2017-07-12
-version_date: 2017-07-12
+version_date: 2017-12-20
 registry_number: '113604'
-source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
+caused_by:
+  code: '117127'
+  title: О внесении изменений в приказ исполняющего обязанности Министра образования и науки Республики Казахстан от 12 июля 2017 года № 328 «О распределении государственного образовательного заказа на подготовку специалистов с высшим и послевузовским образованием в разрезе специальностей на 2017-2018 учебный год»
+  link: https://zan.gov.kz/client/#!/doc/117127/rus
+source: https://zan.gov.kz/client/#!/doc/113604/rus
 ---
 
 # О распределении государственного образовательного заказа на подготовку специалистов с высшим и послевузовским образованием в разрезе специальностей на 2017-2018 учебный год
@@ -51,4490 +55,4271 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 
 > *Приложение 1 к приказу*  
 > *исполняющего обязанности*  
-> *Министра образования*  
-> *и науки Республики Казахстан*  
-> *от 12 июля 2017 года № 328*
+> *Министра образования и науки*  
+> *Республики Казахстан*  
+> *от 12 июля 2017 года*  
+> *№ 328*
 
-# Государственный образовательный заказ на подготовку специалистов с высшим образованием на 2017-2018 учебный год в разрезе специальностей по очной форме обучения
+## Государственный образовательный заказ на подготовку специалистов с высшим образованием на 2017-2018 учебный год в разрезе специальностей по очной форме обучения
+
+> *Сноска. Приложение 1 в редакции приказа Министра образования и науки РК от 20.12.2017 № 631 (вводится в действие после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <td rowspan="2">Шифр</td>
-<td rowspan="2">Наименование специальностей</td>
+<td colspan="4" rowspan="2">Наименование специальностей</td>
 <td rowspan="2">Итого</td>
-<td colspan="4">полное обучение</td>
-<td colspan="3">сокращенное обучение</td>
+<td colspan="8">полное обучение</td>
+<td colspan="7">сокращенное обучение</td>
 </tr>
 <tr>
-<td>всего</td>
-<td>казахский</td>
-<td>английский</td>
+<td colspan="2">всего</td>
+<td colspan="2">казахский</td>
+<td colspan="3">английский</td>
 <td>русский</td>
 <td>всего</td>
-<td>казахский</td>
-<td>русский</td>
+<td colspan="4">казахский</td>
+<td colspan="2">русский</td>
 </tr>
 <tr>
-<td colspan="10">1. Образование</td>
+<td colspan="21">1. Образование</td>
 </tr>
 <tr>
 <td>5В010100</td>
-<td>Дошкольное обучение и воспитание</td>
-<td>280</td>
-<td>250</td>
-<td>190</td>
-<td></td>
-<td>60</td>
-<td>30</td>
-<td>23</td>
-<td>7</td>
+<td colspan="4">Дошкольное обучение и воспитание</td>
+<td>286</td>
+<td>265</td>
+<td colspan="3">201</td>
+<td colspan="3"></td>
+<td>64</td>
+<td colspan="4">21</td>
+<td>16</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td>5В010200</td>
-<td>Педагогика и методика начального обучения</td>
-<td>120</td>
-<td>110</td>
-<td>83</td>
-<td></td>
-<td>27</td>
-<td>10</td>
-<td>8</td>
-<td>2</td>
+<td colspan="4">Педагогика и методика начального обучения</td>
+<td>132</td>
+<td>125</td>
+<td colspan="3">93</td>
+<td colspan="3"></td>
+<td>32</td>
+<td colspan="4">7</td>
+<td>6</td>
+<td colspan="2">1</td>
 </tr>
 <tr>
 <td>5В010300</td>
-<td>Педагогика и психология</td>
-<td>130</td>
-<td>120</td>
-<td>100</td>
-<td></td>
-<td>20</td>
-<td>10</td>
-<td>8</td>
-<td>2</td>
+<td colspan="4">Педагогика и психология</td>
+<td>142</td>
+<td>135</td>
+<td colspan="3">112</td>
+<td colspan="3"></td>
+<td>23</td>
+<td colspan="4">7</td>
+<td>6</td>
+<td colspan="2">1</td>
 </tr>
 <tr>
 <td>5В010400</td>
-<td>Начальная военная подготовка</td>
-<td>30</td>
-<td>30</td>
-<td>25</td>
+<td colspan="4">Начальная военная подготовка</td>
+<td>36</td>
+<td>36</td>
+<td colspan="3">29</td>
+<td colspan="3"></td>
+<td>7</td>
+<td colspan="4">0</td>
 <td></td>
-<td>5</td>
-<td>0</td>
-<td></td>
-<td>0</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В010500</td>
-<td>Дефектология</td>
-<td>340</td>
-<td>320</td>
-<td>240</td>
-<td></td>
-<td>80</td>
-<td>20</td>
-<td>15</td>
-<td>5</td>
+<td colspan="4">Дефектология</td>
+<td>356</td>
+<td>344</td>
+<td colspan="3">259</td>
+<td colspan="3"></td>
+<td>85</td>
+<td colspan="4">12</td>
+<td>9</td>
+<td colspan="2">3</td>
 </tr>
 <tr>
 <td>5В010600</td>
-<td>Музыкальное образование</td>
-<td>35</td>
-<td>35</td>
-<td>25</td>
+<td colspan="4">Музыкальное образование</td>
+<td>41</td>
+<td>41</td>
+<td colspan="3">30</td>
+<td colspan="3"></td>
+<td>11</td>
+<td colspan="4">0</td>
 <td></td>
-<td>10</td>
-<td>0</td>
-<td></td>
-<td>0</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В010700</td>
-<td>Изобразительное искусство и черчение</td>
-<td>40</td>
-<td>35</td>
-<td>25</td>
-<td></td>
-<td>10</td>
-<td>5</td>
-<td>4</td>
-<td>1</td>
+<td colspan="4">Изобразительное искусство и черчение</td>
+<td>45</td>
+<td>41</td>
+<td colspan="3">28</td>
+<td colspan="3"></td>
+<td>13</td>
+<td colspan="4">4</td>
+<td>3</td>
+<td colspan="2">1</td>
 </tr>
 <tr>
 <td>5В010800</td>
-<td>Физическая культура и спорт</td>
-<td>700</td>
-<td>650</td>
-<td>487</td>
-<td></td>
-<td>163</td>
-<td>50</td>
-<td>37</td>
-<td>13</td>
+<td colspan="4">Физическая культура и спорт</td>
+<td>709</td>
+<td>682</td>
+<td colspan="3">517</td>
+<td colspan="3"></td>
+<td>165</td>
+<td colspan="4">27</td>
+<td>18</td>
+<td colspan="2">9</td>
 </tr>
 <tr>
 <td>5В010900</td>
-<td>Математика</td>
-<td>283</td>
-<td>263</td>
-<td>218</td>
-<td></td>
-<td>45</td>
-<td>20</td>
-<td>15</td>
-<td>5</td>
+<td colspan="4">Математика</td>
+<td>333</td>
+<td>322</td>
+<td colspan="3">271</td>
+<td colspan="3"></td>
+<td>51</td>
+<td colspan="4">11</td>
+<td>10</td>
+<td colspan="2">1</td>
 </tr>
 <tr>
 <td>5В011000</td>
-<td>Физика</td>
-<td>570</td>
-<td>470</td>
-<td>165</td>
-<td>250</td>
-<td>55</td>
-<td>100</td>
-<td>80</td>
-<td>20</td>
+<td colspan="4">Физика</td>
+<td>440</td>
+<td>438</td>
+<td colspan="3">254</td>
+<td colspan="3">124</td>
+<td>60</td>
+<td colspan="4">2</td>
+<td>2</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В011100</td>
-<td>Информатика</td>
-<td>570</td>
-<td>470</td>
-<td>165</td>
-<td>250</td>
-<td>55</td>
-<td>100</td>
-<td>80</td>
-<td>20</td>
+<td colspan="4">Информатика</td>
+<td>409</td>
+<td>349</td>
+<td colspan="3">224</td>
+<td colspan="3">96</td>
+<td>29</td>
+<td colspan="4">60</td>
+<td>46</td>
+<td colspan="2">14</td>
 </tr>
 <tr>
 <td>5В011200</td>
-<td>Химия</td>
-<td>570</td>
-<td>470</td>
-<td>165</td>
-<td>250</td>
-<td>55</td>
-<td>100</td>
-<td>80</td>
-<td>20</td>
+<td colspan="4">Химия</td>
+<td>410</td>
+<td>408</td>
+<td colspan="3">246</td>
+<td colspan="3">95</td>
+<td>67</td>
+<td colspan="4">2</td>
+<td>2</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В011300</td>
-<td>Биология</td>
-<td>570</td>
-<td>470</td>
-<td>165</td>
-<td>250</td>
-<td>55</td>
-<td>100</td>
-<td>80</td>
-<td>20</td>
+<td colspan="4">Биология</td>
+<td>650</td>
+<td>603</td>
+<td colspan="3">218</td>
+<td colspan="3">327</td>
+<td>58</td>
+<td colspan="4">47</td>
+<td>33</td>
+<td colspan="2">14</td>
 </tr>
 <tr>
 <td>5В011400</td>
-<td>История</td>
-<td>80</td>
-<td>70</td>
-<td>55</td>
-<td></td>
-<td>15</td>
-<td>10</td>
-<td>8</td>
-<td>2</td>
+<td colspan="4">История</td>
+<td>88</td>
+<td>81</td>
+<td colspan="3">63</td>
+<td colspan="3"></td>
+<td>18</td>
+<td colspan="4">7</td>
+<td>6</td>
+<td colspan="2">1</td>
 </tr>
 <tr>
 <td>5В011500</td>
-<td>Основы права и экономики</td>
-<td>24</td>
-<td>24</td>
-<td>20</td>
+<td colspan="4">Основы права и экономики</td>
+<td>32</td>
+<td>32</td>
+<td colspan="3">26</td>
+<td colspan="3"></td>
+<td>6</td>
+<td colspan="4"></td>
 <td></td>
-<td>4</td>
-<td>0</td>
-<td></td>
-<td>0</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В011600</td>
-<td>География</td>
-<td>48</td>
-<td>48</td>
-<td>36</td>
+<td colspan="4">География</td>
+<td>62</td>
+<td>62</td>
+<td colspan="3">48</td>
+<td colspan="3"></td>
+<td>14</td>
+<td colspan="4"></td>
 <td></td>
-<td>12</td>
-<td>0</td>
-<td></td>
-<td>0</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В011700</td>
-<td>Казахский язык и литература</td>
-<td>380</td>
-<td>350</td>
-<td>350</td>
+<td colspan="4">Казахский язык и литература</td>
+<td>401</td>
+<td>379</td>
+<td colspan="3">379</td>
+<td colspan="3"></td>
 <td></td>
-<td></td>
-<td>30</td>
-<td>23</td>
-<td>7</td>
+<td colspan="4">22</td>
+<td>22</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В011800</td>
-<td>Русский язык и литература</td>
-<td>120</td>
-<td>40</td>
+<td colspan="4">Русский язык и литература</td>
+<td>56</td>
+<td>52</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td>52</td>
+<td colspan="4">4</td>
 <td></td>
+<td colspan="2">4</td>
+</tr>
+<tr>
+<td>5В011900</td>
+<td colspan="4">Иностранный язык: два иностранных языка (английский язык)</td>
+<td>730</td>
+<td>680</td>
+<td colspan="3">522</td>
+<td colspan="3"></td>
+<td>158</td>
+<td colspan="4">50</td>
+<td>35</td>
+<td colspan="2">15</td>
+</tr>
+<tr>
+<td>5В011900</td>
+<td colspan="4">Иностранный язык: два иностранных языка (немецкий язык)</td>
+<td>4</td>
+<td>4</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td>4</td>
+<td colspan="4"></td>
 <td></td>
-<td>40</td>
-<td>10</td>
-<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5В011900</td>
+<td colspan="4">Иностранный язык: два иностранных языка (французский язык)</td>
 <td>2</td>
-</tr>
-<tr>
-<td>5В011900</td>
-<td>Иностранный язык: два иностранных языка (английский язык)</td>
-<td>523</td>
-<td>456</td>
-<td>336</td>
+<td>2</td>
+<td colspan="3">1</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="4"></td>
 <td></td>
-<td>120</td>
-<td>67</td>
-<td>50</td>
-<td>17</td>
-</tr>
-<tr>
-<td>5В011900</td>
-<td>Иностранный язык: два иностранных языка (немецкий язык)</td>
-<td>20</td>
-<td>20</td>
-<td>15</td>
-<td></td>
-<td>5</td>
-<td>0</td>
-<td></td>
-<td>0</td>
-</tr>
-<tr>
-<td>5В011900</td>
-<td>Иностранный язык: два иностранных языка (французский язык)</td>
-<td>20</td>
-<td>20</td>
-<td>15</td>
-<td></td>
-<td>5</td>
-<td>0</td>
-<td></td>
-<td>0</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В012000</td>
-<td>Профессиональное обучение</td>
-<td>210</td>
-<td>160</td>
-<td>120</td>
-<td></td>
-<td>40</td>
-<td>50</td>
-<td>38</td>
-<td>12</td>
+<td colspan="4">Профессиональное обучение</td>
+<td>215</td>
+<td>191</td>
+<td colspan="3">170</td>
+<td colspan="3"></td>
+<td>21</td>
+<td colspan="4">24</td>
+<td>17</td>
+<td colspan="2">7</td>
 </tr>
 <tr>
 <td>5В012100</td>
-<td>Казахский язык и литература в школах с неказахским языком обучения</td>
-<td>62</td>
-<td>62</td>
-<td>62</td>
+<td colspan="4">Казахский язык и литература в школах с неказахским языком обучения</td>
+<td>55</td>
+<td>55</td>
+<td colspan="3">55</td>
+<td colspan="3"></td>
 <td></td>
+<td colspan="4"></td>
 <td></td>
-<td>0</td>
-<td></td>
-<td>0</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В012200</td>
-<td>Русский язык и литература в школах с нерусским языком обучения</td>
-<td>87</td>
-<td>87</td>
+<td colspan="4">Русский язык и литература в школах с нерусским языком обучения</td>
+<td>81</td>
+<td>81</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td>81</td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td>87</td>
-<td>0</td>
-<td></td>
-<td>0</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В012300</td>
-<td>Социальная педагогика и самопознание</td>
-<td>210</td>
-<td>200</td>
-<td>150</td>
-<td></td>
+<td colspan="4">Социальная педагогика и самопознание</td>
+<td>206</td>
+<td>199</td>
+<td colspan="3">149</td>
+<td colspan="3"></td>
 <td>50</td>
-<td>10</td>
-<td>8</td>
-<td>2</td>
+<td colspan="4">7</td>
+<td>6</td>
+<td colspan="2">1</td>
 </tr>
 <tr>
 <td>5В012500</td>
-<td>Химия-Биология</td>
-<td>25</td>
-<td>25</td>
-<td>16</td>
-<td></td>
+<td colspan="4">Химия-Биология</td>
+<td>33</td>
+<td>33</td>
+<td colspan="3">24</td>
+<td colspan="3"></td>
 <td>9</td>
-<td>0</td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В012600</td>
-<td>Математика-Физика</td>
-<td>25</td>
-<td>25</td>
-<td>16</td>
+<td colspan="4">Математика-Физика</td>
+<td>27</td>
+<td>27</td>
+<td colspan="3">23</td>
+<td colspan="3"></td>
+<td>4</td>
+<td colspan="4"></td>
 <td></td>
-<td>9</td>
-<td>0</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В012700</td>
-<td>Математика-Информатика</td>
+<td colspan="4">Математика-Информатика</td>
 <td>25</td>
 <td>25</td>
-<td>16</td>
+<td colspan="3">25</td>
+<td colspan="3"></td>
 <td></td>
-<td>9</td>
-<td>0</td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В012800</td>
-<td>Физика-Информатика</td>
-<td>25</td>
-<td>25</td>
-<td>16</td>
+<td colspan="4">Физика-Информатика</td>
+<td>26</td>
+<td>26</td>
+<td colspan="3">21</td>
+<td colspan="3"></td>
+<td>5</td>
+<td colspan="4"></td>
 <td></td>
-<td>9</td>
-<td>0</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В012900</td>
-<td>География-История</td>
+<td colspan="4">География-История</td>
 <td>25</td>
 <td>25</td>
-<td>16</td>
-<td></td>
+<td colspan="3">16</td>
+<td colspan="3"></td>
 <td>9</td>
-<td>0</td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В013000</td>
-<td>История-Религиоведение</td>
-<td>25</td>
-<td>25</td>
-<td>16</td>
+<td colspan="4">История-Религиоведение</td>
+<td>24</td>
+<td>24</td>
+<td colspan="3">18</td>
+<td colspan="3"></td>
+<td>6</td>
+<td colspan="4"></td>
 <td></td>
-<td>9</td>
-<td>0</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="5">Всего</td>
+<td>6081</td>
+<td>5767</td>
+<td colspan="3">4022</td>
+<td colspan="3">642</td>
+<td>1103</td>
+<td colspan="4">314</td>
+<td>237</td>
+<td colspan="2">77</td>
 </tr>
 <tr>
 <td></td>
-<td>Всего</td>
-<td>6102</td>
-<td>5380</td>
-<td>3221</td>
-<td>1000</td>
-<td>1159</td>
-<td>722</td>
-<td>565</td>
-<td>157</td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
+<td colspan="4">Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
 <td>63</td>
 <td>54</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
+<td colspan="4">9</td>
 <td></td>
-<td></td>
-<td>9</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
-<td>63</td>
-<td>54</td>
+<td colspan="4">Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
+<td>101</td>
+<td>99</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
+<td colspan="4">2</td>
 <td></td>
-<td></td>
-<td>9</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
-<td>31</td>
-<td>26</td>
+<td colspan="4">Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
+<td>10</td>
+<td>10</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td>5</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
-<td>126</td>
+<td colspan="4">Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
+<td>112</td>
 <td>108</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
+<td colspan="4">4</td>
 <td></td>
-<td></td>
-<td>18</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td></td>
-<td>Итого</td>
-<td>6385</td>
-<td>242</td>
+<td colspan="5">Всего</td>
+<td>286</td>
+<td>271</td>
+<td colspan="3">0</td>
+<td colspan="3">0</td>
 <td>0</td>
+<td colspan="4">15</td>
 <td>0</td>
-<td>0</td>
-<td>41</td>
-<td>0</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
-<td colspan="10">2. Гуманитарные науки</td>
+<td colspan="21">2. Гуманитарные науки</td>
 </tr>
 <tr>
 <td>5В020100</td>
-<td>Философия</td>
+<td colspan="4">Философия</td>
 <td>20</td>
 <td>20</td>
-<td>15</td>
-<td></td>
+<td colspan="3">15</td>
+<td colspan="3"></td>
 <td>5</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В020200</td>
-<td>Международные отношения</td>
-<td>32</td>
-<td>32</td>
-<td>22</td>
-<td></td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4">Международные отношения</td>
+<td>47</td>
+<td>47</td>
+<td colspan="3">31</td>
+<td colspan="3"></td>
+<td>16</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В020300</td>
-<td>История</td>
-<td>90</td>
-<td>90</td>
-<td>68</td>
-<td></td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4">История</td>
+<td>93</td>
+<td>93</td>
+<td colspan="3">70</td>
+<td colspan="3"></td>
+<td>23</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В020400</td>
-<td>Культурология</td>
-<td>20</td>
-<td>20</td>
-<td>15</td>
-<td></td>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5В020500</td>
-<td>Филология: казахский язык</td>
-<td>90</td>
-<td>90</td>
-<td>68</td>
-<td></td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5В020500</td>
-<td>Филология: русский язык</td>
-<td>24</td>
-<td>24</td>
+<td colspan="4">Культурология</td>
 <td>18</td>
+<td>18</td>
+<td colspan="3">13</td>
+<td colspan="3"></td>
+<td>5</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5В020500</td>
+<td colspan="4">Филология: казахский язык</td>
+<td>137</td>
+<td>137</td>
+<td colspan="3">137</td>
+<td colspan="3"></td>
 <td></td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5В020500</td>
+<td colspan="4">Филология: русский язык</td>
+<td>25</td>
+<td>25</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td>25</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В020600</td>
-<td>Религиоведение</td>
-<td>90</td>
-<td>90</td>
-<td>68</td>
-<td></td>
+<td colspan="4">Религиоведение</td>
+<td>93</td>
+<td>93</td>
+<td colspan="3">71</td>
+<td colspan="3"></td>
 <td>22</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В020700</td>
-<td>Переводческое дело</td>
-<td>81</td>
-<td>81</td>
-<td>61</td>
-<td></td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4">Переводческое дело</td>
+<td>145</td>
+<td>145</td>
+<td colspan="3">108</td>
+<td colspan="3"></td>
+<td>37</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В020800</td>
-<td>Археология и этнология</td>
+<td colspan="4">Археология и этнология</td>
 <td>15</td>
 <td>15</td>
-<td>11</td>
-<td></td>
+<td colspan="3">11</td>
+<td colspan="3"></td>
 <td>4</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В020900</td>
-<td>Востоковедение</td>
-<td>15</td>
-<td>15</td>
+<td colspan="4">Востоковедение</td>
+<td>22</td>
+<td>22</td>
+<td colspan="3">17</td>
+<td colspan="3"></td>
+<td>5</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5В021000</td>
+<td colspan="4">Иностранная филология: английский язык</td>
+<td>45</td>
+<td>45</td>
+<td colspan="3">35</td>
+<td colspan="3"></td>
+<td>10</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5В021000</td>
+<td colspan="4">Иностранная филология: немецкий язык</td>
+<td>4</td>
+<td>4</td>
+<td colspan="3">1</td>
+<td colspan="3"></td>
+<td>3</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5В021000</td>
+<td colspan="4">Иностранная филология: арабский язык</td>
+<td>6</td>
+<td>6</td>
+<td colspan="3">6</td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5В021000</td>
+<td colspan="4">Иностранная филология: турецкий язык</td>
+<td>5</td>
+<td>5</td>
+<td colspan="3">4</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5В021000</td>
+<td colspan="4">Иностранная филология: корейский язык</td>
 <td>11</td>
-<td></td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5В021000</td>
-<td>Иностранная филология: английский язык</td>
-<td>24</td>
-<td>24</td>
-<td>18</td>
-<td></td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5В021000</td>
-<td>Иностранная филология: немецкий язык</td>
-<td>5</td>
-<td>5</td>
-<td>4</td>
-<td></td>
+<td>11</td>
+<td colspan="3">10</td>
+<td colspan="3"></td>
 <td>1</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В021000</td>
-<td>Иностранная филология: арабский язык</td>
-<td>7</td>
-<td>7</td>
-<td>6</td>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5В021000</td>
-<td>Иностранная филология: турецкий язык</td>
-<td>5</td>
-<td>5</td>
-<td>4</td>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5В021000</td>
-<td>Иностранная филология: корейский язык</td>
+<td colspan="4">Иностранная филология: китайский язык</td>
 <td>6</td>
 <td>6</td>
-<td>5</td>
-<td></td>
+<td colspan="3">5</td>
+<td colspan="3"></td>
 <td>1</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В021000</td>
-<td>Иностранная филология: китайский язык</td>
-<td>6</td>
-<td>6</td>
-<td>5</td>
-<td></td>
+<td colspan="4">Иностранная филология: японский язык</td>
+<td>8</td>
+<td>8</td>
+<td colspan="3">7</td>
+<td colspan="3"></td>
 <td>1</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В021000</td>
-<td>Иностранная филология: японский язык</td>
-<td>5</td>
-<td>5</td>
-<td>4</td>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5В021000</td>
-<td>Иностранная филология: узбекский язык</td>
-<td>4</td>
-<td>4</td>
-<td>3</td>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5В021000</td>
-<td>Иностранная филология: уйгурский язык</td>
-<td>4</td>
-<td>4</td>
-<td>3</td>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5В021000</td>
-<td>Иностранная филология: французский язык</td>
+<td colspan="4">Иностранная филология: узбекский язык</td>
 <td>5</td>
 <td>5</td>
+<td colspan="3">4</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5В021000</td>
+<td colspan="4">Иностранная филология: уйгурский язык</td>
 <td>4</td>
-<td></td>
+<td>4</td>
+<td colspan="3">3</td>
+<td colspan="3"></td>
 <td>1</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В021000</td>
-<td>Иностранная филология: персидский язык</td>
-<td>3</td>
-<td>3</td>
-<td>2</td>
-<td></td>
+<td colspan="4">Иностранная филология: французский язык</td>
+<td>5</td>
+<td>5</td>
+<td colspan="3">4</td>
+<td colspan="3"></td>
 <td>1</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В021000</td>
-<td>Иностранная филология: индийский язык</td>
+<td colspan="4">Иностранная филология: персидский язык</td>
 <td>3</td>
 <td>3</td>
-<td>2</td>
-<td></td>
+<td colspan="3">2</td>
+<td colspan="3"></td>
 <td>1</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5В021000</td>
+<td colspan="4">Иностранная филология: индийский язык</td>
+<td>3</td>
+<td>3</td>
+<td colspan="3">2</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В021100</td>
-<td>Теология</td>
-<td>10</td>
-<td>10</td>
-<td>8</td>
-<td></td>
+<td colspan="4">Теология</td>
+<td>9</td>
+<td>9</td>
+<td colspan="3">7</td>
+<td colspan="3"></td>
 <td>2</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В021200</td>
-<td>Тюркология</td>
-<td>10</td>
-<td>10</td>
-<td>8</td>
-<td></td>
+<td colspan="4">Тюркология</td>
+<td>11</td>
+<td>11</td>
+<td colspan="3">9</td>
+<td colspan="3"></td>
 <td>2</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В021500</td>
-<td>Исламоведение</td>
+<td colspan="4">Исламоведение</td>
 <td>190</td>
-<td>145</td>
-<td>109</td>
-<td></td>
-<td>36</td>
-<td>45</td>
-<td>34</td>
-<td>11</td>
+<td>179</td>
+<td colspan="3">151</td>
+<td colspan="3"></td>
+<td>28</td>
+<td colspan="2">11</td>
+<td colspan="3">11</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="5">Всего</td>
+<td>930</td>
+<td>919</td>
+<td colspan="3">723</td>
+<td colspan="3">0</td>
+<td>196</td>
+<td colspan="2">11</td>
+<td colspan="3">11</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
-<td>Всего</td>
-<td>764</td>
-<td>719</td>
-<td>542</td>
-<td>0</td>
-<td>177</td>
-<td>45</td>
-<td>34</td>
-<td>11</td>
+<td colspan="4">Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
+<td>6</td>
+<td>6</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
+<td colspan="4">Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
 <td>8</td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td>2</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
 <td>8</td>
-<td>6</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
 <td></td>
-<td></td>
+<td colspan="4">Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
 <td>2</td>
+<td>2</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
-<td>4</td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
-<td>16</td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td>6</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Итого</td>
-<td>800</td>
-<td>25</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<td colspan="4">Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
 <td>11</td>
-<td>0</td>
-<td>0</td>
+<td>11</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="10">3. Право</td>
+<td colspan="5">Всего</td>
+<td>27</td>
+<td>27</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="21">3. Право</td>
 </tr>
 <tr>
 <td>5В030100</td>
-<td>Юриспруденция</td>
-<td>45</td>
-<td>45</td>
-<td>34</td>
-<td></td>
-<td>11</td>
-<td></td>
-<td></td>
+<td colspan="3">Юриспруденция</td>
+<td colspan="2">73</td>
+<td>73</td>
+<td colspan="4">55</td>
+<td colspan="2"></td>
+<td>18</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В030200</td>
-<td>Международное право</td>
-<td>30</td>
-<td>30</td>
-<td>22</td>
-<td></td>
-<td>8</td>
-<td></td>
-<td></td>
+<td colspan="3">Международное право</td>
+<td colspan="2">45</td>
+<td>45</td>
+<td colspan="4">34</td>
+<td colspan="2"></td>
+<td>11</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В030300</td>
-<td>Правоохранительная деятельность</td>
-<td>10</td>
-<td>10</td>
-<td>8</td>
-<td></td>
-<td>2</td>
-<td></td>
-<td></td>
+<td colspan="3">Правоохранительная деятельность</td>
+<td colspan="2">15</td>
+<td>15</td>
+<td colspan="4">12</td>
+<td colspan="2"></td>
+<td>3</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В030400</td>
-<td>Таможенное дело</td>
-<td>10</td>
-<td>10</td>
-<td>8</td>
+<td colspan="3">Таможенное дело</td>
+<td colspan="2">15</td>
+<td>15</td>
+<td colspan="4">12</td>
+<td colspan="2"></td>
+<td>3</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
-<td>2</td>
-<td></td>
-<td></td>
+</tr>
+<tr>
+<td colspan="4">Всего</td>
+<td colspan="2">148</td>
+<td>148</td>
+<td colspan="4">113</td>
+<td colspan="2"></td>
+<td>35</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Всего</td>
-<td>95</td>
-<td>95</td>
-<td>72</td>
-<td>0</td>
-<td>23</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
+<td colspan="3">Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
+<td colspan="2">1</td>
 <td></td>
-<td>Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
-<td>1</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
-<td>1</td>
+<td colspan="3">Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
+<td colspan="2">1</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
-<td>2</td>
+<td colspan="3">Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
+<td colspan="2">1</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Итого</td>
-<td>100</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">4. Искусство</td>
+<td></td>
+<td colspan="3">Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
+<td colspan="2">2</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Всего</td>
+<td colspan="2">5</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="21">4. Искусство</td>
 </tr>
 <tr>
 <td>5В040200</td>
-<td>Инструментальное исполнительство</td>
+<td colspan="4">Инструментальное исполнительство</td>
 <td>5</td>
 <td>5</td>
-<td>4</td>
-<td></td>
+<td colspan="4">4</td>
+<td colspan="2"></td>
 <td>1</td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В040300</td>
-<td>Вокальное искусство</td>
+<td colspan="4">Вокальное искусство</td>
 <td>5</td>
 <td>5</td>
-<td>4</td>
-<td></td>
+<td colspan="4">4</td>
+<td colspan="2"></td>
 <td>1</td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В040400</td>
-<td>Традиционное музыкальное искусство</td>
+<td colspan="4">Традиционное музыкальное искусство</td>
 <td>5</td>
 <td>5</td>
-<td>4</td>
-<td></td>
+<td colspan="4">4</td>
+<td colspan="2"></td>
 <td>1</td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В040600</td>
-<td>Режиссура</td>
-<td>10</td>
-<td>10</td>
-<td>8</td>
-<td></td>
+<td colspan="4">Режиссура</td>
+<td>11</td>
+<td>11</td>
+<td colspan="4">9</td>
+<td colspan="2"></td>
 <td>2</td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В040900</td>
-<td>Хореография</td>
-<td>5</td>
-<td>5</td>
-<td>4</td>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="4">Хореография</td>
+<td>7</td>
+<td>7</td>
+<td colspan="4">5</td>
+<td colspan="2"></td>
+<td>2</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В041300</td>
-<td>Живопись</td>
+<td colspan="4">Живопись</td>
 <td>5</td>
 <td>5</td>
-<td>4</td>
-<td></td>
+<td colspan="4">4</td>
+<td colspan="2"></td>
 <td>1</td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В041400</td>
-<td>Графика</td>
+<td colspan="4">Графика</td>
 <td>5</td>
 <td>5</td>
-<td>4</td>
-<td></td>
+<td colspan="4">4</td>
+<td colspan="2"></td>
 <td>1</td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В041700</td>
-<td>Декоративное искусство</td>
+<td colspan="4">Декоративное искусство</td>
 <td>5</td>
 <td>5</td>
-<td>4</td>
+<td colspan="4">5</td>
+<td colspan="2"></td>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В041900</td>
-<td>Музейное дело и охрана памятников</td>
-<td>35</td>
-<td>35</td>
-<td>26</td>
-<td></td>
-<td>9</td>
-<td></td>
-<td></td>
+<td colspan="4">Музейное дело и охрана памятников</td>
+<td>33</td>
+<td>33</td>
+<td colspan="4">25</td>
+<td colspan="2"></td>
+<td>8</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В042000</td>
-<td>Архитектура</td>
-<td>36</td>
-<td>36</td>
-<td>27</td>
-<td></td>
-<td>9</td>
-<td></td>
-<td></td>
+<td colspan="4">Архитектура</td>
+<td>51</td>
+<td>51</td>
+<td colspan="4">37</td>
+<td colspan="2"></td>
+<td>14</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В042100</td>
-<td>Дизайн</td>
-<td>30</td>
-<td>30</td>
-<td>22</td>
-<td></td>
-<td>8</td>
-<td></td>
-<td></td>
+<td colspan="4">Дизайн</td>
+<td>45</td>
+<td>45</td>
+<td colspan="4">32</td>
+<td colspan="2"></td>
+<td>13</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В042200</td>
-<td>Издательское дело</td>
+<td colspan="4">Издательское дело</td>
 <td>10</td>
 <td>10</td>
-<td>8</td>
-<td></td>
+<td colspan="4">8</td>
+<td colspan="2"></td>
 <td>2</td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В041200</td>
-<td>Операторское искусство</td>
+<td colspan="4">Операторское искусство</td>
 <td>5</td>
 <td>5</td>
-<td>4</td>
+<td colspan="4">2</td>
+<td colspan="2"></td>
+<td>3</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
+</tr>
+<tr>
+<td colspan="5">Всего</td>
+<td>192</td>
+<td>192</td>
+<td colspan="4">143</td>
+<td colspan="2"></td>
+<td>49</td>
+<td colspan="3">0</td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Всего</td>
-<td>161</td>
-<td>161</td>
-<td>123</td>
-<td>0</td>
-<td>38</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
+<td colspan="4">Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
 <td>2</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
+<td colspan="4">Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
 <td>2</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
+<td colspan="4">Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
 <td>1</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
+<td colspan="4">Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
 <td>4</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Итого</td>
-<td>170</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">5. Социальные науки, экономика и бизнес</td>
+<td colspan="5">Всего</td>
+<td>9</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="21">5. Социальные науки, экономика и бизнес</td>
 </tr>
 <tr>
 <td>5В050100</td>
-<td>Социология</td>
+<td colspan="4">Социология</td>
 <td>40</td>
 <td>40</td>
-<td>30</td>
-<td></td>
+<td colspan="4">30</td>
+<td colspan="2"></td>
 <td>10</td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В050200</td>
-<td>Политология</td>
-<td>40</td>
-<td>40</td>
-<td>30</td>
-<td></td>
-<td>10</td>
-<td></td>
-<td></td>
+<td colspan="4">Политология</td>
+<td>42</td>
+<td>42</td>
+<td colspan="4">31</td>
+<td colspan="2"></td>
+<td>11</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В050300</td>
-<td>Психология</td>
-<td>40</td>
-<td>40</td>
-<td>30</td>
-<td></td>
-<td>10</td>
-<td></td>
-<td></td>
+<td colspan="4">Психология</td>
+<td>54</td>
+<td>54</td>
+<td colspan="4">39</td>
+<td colspan="2"></td>
+<td>15</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В050400</td>
-<td>Журналистика</td>
-<td>70</td>
-<td>70</td>
-<td>52</td>
-<td></td>
-<td>18</td>
-<td></td>
-<td></td>
+<td colspan="4">Журналистика</td>
+<td>99</td>
+<td>99</td>
+<td colspan="4">73</td>
+<td colspan="2"></td>
+<td>26</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В050500</td>
-<td>Регионоведение</td>
-<td>46</td>
-<td>46</td>
-<td>35</td>
-<td></td>
-<td>11</td>
-<td></td>
-<td></td>
+<td colspan="4">Регионоведение</td>
+<td>65</td>
+<td>65</td>
+<td colspan="4">49</td>
+<td colspan="2"></td>
+<td>16</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В050600</td>
-<td>Экономика</td>
-<td>80</td>
-<td>80</td>
-<td>60</td>
-<td></td>
-<td>20</td>
-<td></td>
-<td></td>
+<td colspan="4">Экономика</td>
+<td>121</td>
+<td>121</td>
+<td colspan="4">89</td>
+<td colspan="2"></td>
+<td>32</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В050700</td>
-<td>Менеджмент</td>
-<td>60</td>
-<td>60</td>
-<td>50</td>
-<td></td>
-<td>10</td>
-<td></td>
-<td></td>
+<td colspan="4">Менеджмент</td>
+<td>87</td>
+<td>87</td>
+<td colspan="4">72</td>
+<td colspan="2"></td>
+<td>15</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В050800</td>
-<td>Учет и аудит</td>
-<td>60</td>
-<td>60</td>
-<td>50</td>
-<td></td>
-<td>10</td>
-<td></td>
-<td></td>
+<td colspan="4">Учет и аудит</td>
+<td>85</td>
+<td>85</td>
+<td colspan="4">72</td>
+<td colspan="2"></td>
+<td>13</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В050900</td>
-<td>Финансы</td>
-<td>60</td>
-<td>60</td>
-<td>50</td>
-<td></td>
-<td>10</td>
-<td></td>
-<td></td>
+<td colspan="4">Финансы</td>
+<td>83</td>
+<td>83</td>
+<td colspan="4">68</td>
+<td colspan="2"></td>
+<td>15</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В051000</td>
-<td>Государственное и местное управление</td>
-<td>40</td>
-<td>40</td>
-<td>30</td>
-<td></td>
-<td>10</td>
-<td></td>
-<td></td>
+<td colspan="4">Государственное и местное управление</td>
+<td>66</td>
+<td>66</td>
+<td colspan="4">49</td>
+<td colspan="2"></td>
+<td>17</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В051100</td>
-<td>Маркетинг</td>
-<td>60</td>
-<td>60</td>
-<td>50</td>
-<td></td>
-<td>10</td>
-<td></td>
-<td></td>
+<td colspan="4">Маркетинг</td>
+<td>105</td>
+<td>105</td>
+<td colspan="4">87</td>
+<td colspan="2"></td>
+<td>18</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В051200</td>
-<td>Статистика</td>
-<td>30</td>
-<td>30</td>
-<td>20</td>
-<td></td>
+<td colspan="4">Статистика</td>
+<td>32</td>
+<td>32</td>
+<td colspan="4">22</td>
+<td colspan="2"></td>
 <td>10</td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В051300</td>
-<td>Мировая экономика</td>
-<td>40</td>
-<td>40</td>
-<td>30</td>
-<td></td>
-<td>10</td>
-<td></td>
-<td></td>
+<td colspan="4">Мировая экономика</td>
+<td>56</td>
+<td>56</td>
+<td colspan="4">41</td>
+<td colspan="2"></td>
+<td>15</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В051400</td>
-<td>Связь с общественностью</td>
-<td>40</td>
-<td>40</td>
-<td>30</td>
-<td></td>
+<td colspan="4">Связь с общественностью</td>
+<td>47</td>
+<td>47</td>
+<td colspan="4">37</td>
+<td colspan="2"></td>
 <td>10</td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В051500</td>
-<td>Архивоведение, документоведение и документационное обеспечение</td>
+<td colspan="4">Архивоведение, документоведение и документационное обеспечение</td>
 <td>20</td>
 <td>20</td>
-<td>15</td>
-<td></td>
-<td>5</td>
-<td></td>
-<td></td>
+<td colspan="4">16</td>
+<td colspan="2"></td>
+<td>4</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В051900</td>
-<td>Организация и нормирование труда</td>
-<td>20</td>
-<td>20</td>
-<td>15</td>
-<td></td>
+<td colspan="4">Организация и нормирование труда</td>
+<td>21</td>
+<td>21</td>
+<td colspan="4">16</td>
+<td colspan="2"></td>
 <td>5</td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В052100</td>
-<td>Государственный аудит</td>
-<td>49</td>
-<td>49</td>
-<td>38</td>
+<td colspan="4">Государственный аудит</td>
+<td>68</td>
+<td>68</td>
+<td colspan="4">54</td>
+<td colspan="2"></td>
+<td>14</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="5">Всего</td>
+<td>1091</td>
+<td>1091</td>
+<td colspan="4">845</td>
+<td colspan="2"></td>
+<td>246</td>
+<td colspan="3"></td>
+<td colspan="3">0</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
+<td>15</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
 <td>11</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Всего</td>
-<td>795</td>
-<td>795</td>
-<td>613</td>
-<td></td>
-<td>182</td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
+<td colspan="4">Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
 <td>4</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
-<td>16</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Итого</td>
-<td>831</td>
+<td colspan="4">Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
+<td>18</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">6. Естественные науки</td>
+<td colspan="5">Всего</td>
+<td>48</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="21">6. Естественные науки</td>
 </tr>
 <tr>
 <td>5В060100</td>
-<td>Математика</td>
-<td>210</td>
-<td>210</td>
-<td>158</td>
-<td></td>
-<td>52</td>
-<td></td>
-<td></td>
+<td colspan="4">Математика</td>
+<td>230</td>
+<td>230</td>
+<td colspan="4">179</td>
+<td colspan="2"></td>
+<td>51</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В060200</td>
-<td>Информатика</td>
-<td>270</td>
-<td>270</td>
-<td>203</td>
-<td></td>
-<td>67</td>
-<td></td>
-<td></td>
+<td colspan="4">Информатика</td>
+<td>271</td>
+<td>271</td>
+<td colspan="4">200</td>
+<td colspan="2"></td>
+<td>71</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В060300</td>
-<td>Механика</td>
-<td>150</td>
-<td>150</td>
-<td>113</td>
-<td></td>
-<td>37</td>
-<td></td>
-<td></td>
+<td colspan="4">Механика</td>
+<td>147</td>
+<td>147</td>
+<td colspan="4">132</td>
+<td colspan="2"></td>
+<td>15</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В060400</td>
-<td>Физика</td>
-<td>220</td>
-<td>220</td>
-<td>165</td>
-<td></td>
-<td>55</td>
-<td></td>
-<td></td>
+<td colspan="4">Физика</td>
+<td>212</td>
+<td>212</td>
+<td colspan="4">176</td>
+<td colspan="2"></td>
+<td>36</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В060500</td>
-<td>Ядерная физика</td>
-<td>162</td>
-<td>162</td>
-<td>125</td>
-<td></td>
-<td>37</td>
-<td></td>
-<td></td>
+<td colspan="4">Ядерная физика</td>
+<td>131</td>
+<td>131</td>
+<td colspan="4">108</td>
+<td colspan="2"></td>
+<td>23</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В060600</td>
-<td>Химия</td>
-<td>200</td>
-<td>200</td>
-<td>150</td>
-<td></td>
-<td>50</td>
-<td></td>
-<td></td>
+<td colspan="4">Химия</td>
+<td>56</td>
+<td>56</td>
+<td colspan="4">47</td>
+<td colspan="2"></td>
+<td>9</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В060700</td>
-<td>Биология</td>
-<td>191</td>
-<td>191</td>
-<td>143</td>
-<td></td>
-<td>48</td>
-<td></td>
-<td></td>
+<td colspan="4">Биология</td>
+<td>283</td>
+<td>283</td>
+<td colspan="4">234</td>
+<td colspan="2"></td>
+<td>49</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В060800</td>
-<td>Экология</td>
-<td>165</td>
-<td>165</td>
-<td>124</td>
-<td></td>
-<td>41</td>
-<td></td>
-<td></td>
+<td colspan="4">Экология</td>
+<td>231</td>
+<td>231</td>
+<td colspan="4">125</td>
+<td colspan="2"></td>
+<td>106</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В060900</td>
-<td>География</td>
-<td>140</td>
-<td>140</td>
-<td>113</td>
-<td></td>
-<td>27</td>
-<td></td>
-<td></td>
+<td colspan="4">География</td>
+<td>137</td>
+<td>137</td>
+<td colspan="4">111</td>
+<td colspan="2"></td>
+<td>26</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В061000</td>
-<td>Гидрология</td>
-<td>100</td>
-<td>100</td>
-<td>75</td>
-<td></td>
-<td>25</td>
-<td></td>
-<td></td>
+<td colspan="4">Гидрология</td>
+<td>93</td>
+<td>93</td>
+<td colspan="4">70</td>
+<td colspan="2"></td>
+<td>23</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В061100</td>
-<td>Физика и астрономия</td>
-<td>126</td>
-<td>126</td>
-<td>95</td>
-<td></td>
-<td>31</td>
-<td></td>
-<td></td>
+<td colspan="4">Физика и астрономия</td>
+<td>116</td>
+<td>116</td>
+<td colspan="4">95</td>
+<td colspan="2"></td>
+<td>21</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В061200</td>
-<td>Метеорология</td>
-<td>100</td>
-<td>100</td>
-<td>75</td>
-<td></td>
+<td colspan="4">Метеорология</td>
+<td>90</td>
+<td>90</td>
+<td colspan="4">65</td>
+<td colspan="2"></td>
 <td>25</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
-<td></td>
+</tr>
+<tr>
+<td colspan="5">Всего</td>
+<td>1997</td>
+<td>1997</td>
+<td colspan="4">1542</td>
+<td colspan="2"></td>
+<td>455</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Всего</td>
-<td>2034</td>
-<td>2034</td>
-<td>1539</td>
-<td>0</td>
-<td>495</td>
+<td colspan="4">Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
+<td>24</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
-<td>22</td>
+<td colspan="4">Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
+<td>7</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
-<td>11</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
+<td colspan="4">Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
 <td>44</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Итого</td>
-<td>2133</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">7. Технические науки и технологии</td>
+<td colspan="5">Всего</td>
+<td>75</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="21">7. Технические науки и технологии</td>
 </tr>
 <tr>
 <td>5В070100</td>
-<td>Биотехнология</td>
-<td>315</td>
-<td>315</td>
-<td>233</td>
+<td colspan="4">Биотехнология</td>
+<td>523</td>
+<td colspan="3">523</td>
+<td colspan="3">412</td>
 <td></td>
-<td>82</td>
-<td></td>
-<td></td>
+<td>111</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В070200</td>
-<td>Автоматизация и управление</td>
-<td>440</td>
-<td>360</td>
-<td>275</td>
+<td colspan="4">Автоматизация и управление</td>
+<td>499</td>
+<td colspan="3">473</td>
+<td colspan="3">374</td>
 <td></td>
-<td>85</td>
-<td>80</td>
-<td>60</td>
-<td>20</td>
+<td>99</td>
+<td colspan="3">26</td>
+<td colspan="3">10</td>
+<td>16</td>
 </tr>
 <tr>
 <td>5В070300</td>
-<td>Информационные системы</td>
-<td>525</td>
-<td>375</td>
-<td>280</td>
+<td colspan="4">Информационные системы</td>
+<td>692</td>
+<td colspan="3">639</td>
+<td colspan="3">486</td>
 <td></td>
-<td>95</td>
-<td>150</td>
-<td>113</td>
-<td>37</td>
+<td>153</td>
+<td colspan="3">53</td>
+<td colspan="3">26</td>
+<td>27</td>
 </tr>
 <tr>
 <td>5В070400</td>
-<td>Вычислительная техника и программное обеспечение</td>
-<td>610</td>
-<td>510</td>
-<td>385</td>
+<td colspan="4">Вычислительная техника и программное обеспечение</td>
+<td>699</td>
+<td colspan="3">654</td>
+<td colspan="3">501</td>
 <td></td>
-<td>125</td>
-<td>100</td>
-<td>75</td>
-<td>25</td>
+<td>153</td>
+<td colspan="3">45</td>
+<td colspan="3">18</td>
+<td>27</td>
 </tr>
 <tr>
 <td>5В070500</td>
-<td>Математическое и компьютерное моделирование</td>
-<td>200</td>
-<td>200</td>
-<td>150</td>
+<td colspan="4">Математическое и компьютерное моделирование</td>
+<td>223</td>
+<td colspan="3">223</td>
+<td colspan="3">173</td>
 <td></td>
 <td>50</td>
-<td>0</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В070600</td>
-<td>Геология и разведка месторождений полезных ископаемых</td>
-<td>260</td>
-<td>190</td>
-<td>140</td>
+<td colspan="4">Геология и разведка месторождений полезных ископаемых</td>
+<td>188</td>
+<td colspan="3">187</td>
+<td colspan="3">153</td>
 <td></td>
-<td>50</td>
-<td>70</td>
-<td>50</td>
-<td>20</td>
+<td>34</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td></td>
 </tr>
 <tr>
 <td>5В070700</td>
-<td>Горное дело</td>
-<td>390</td>
-<td>390</td>
-<td>300</td>
+<td colspan="4">Горное дело</td>
+<td>384</td>
+<td colspan="3">384</td>
+<td colspan="3">294</td>
 <td></td>
 <td>90</td>
-<td>0</td>
-<td></td>
+<td colspan="3">0</td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В070800</td>
-<td>Нефтегазовое дело</td>
-<td>320</td>
-<td>320</td>
-<td>240</td>
+<td colspan="4">Нефтегазовое дело</td>
+<td>318</td>
+<td colspan="3">318</td>
+<td colspan="3">244</td>
 <td></td>
-<td>80</td>
-<td>0</td>
-<td></td>
+<td>74</td>
+<td colspan="3">0</td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В070900</td>
-<td>Металлургия</td>
-<td>360</td>
-<td>320</td>
-<td>240</td>
+<td colspan="4">Металлургия</td>
+<td>349</td>
+<td colspan="3">339</td>
+<td colspan="3">258</td>
 <td></td>
-<td>80</td>
-<td>40</td>
-<td>30</td>
-<td>10</td>
+<td>81</td>
+<td colspan="3">10</td>
+<td colspan="3">1</td>
+<td>9</td>
 </tr>
 <tr>
 <td>5В071000</td>
-<td>Материаловедение и технология новых материалов</td>
-<td>140</td>
+<td colspan="4">Материаловедение и технология новых материалов</td>
 <td>60</td>
-<td>45</td>
+<td colspan="3">60</td>
+<td colspan="3">45</td>
 <td></td>
 <td>15</td>
-<td>80</td>
-<td>60</td>
-<td>20</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В071100</td>
-<td>Геодезия и картография</td>
-<td>150</td>
-<td>80</td>
-<td>60</td>
+<td colspan="4">Геодезия и картография</td>
+<td>237</td>
+<td colspan="3">231</td>
+<td colspan="3">157</td>
 <td></td>
-<td>20</td>
-<td>70</td>
-<td>53</td>
-<td>17</td>
+<td>74</td>
+<td colspan="3">6</td>
+<td colspan="3">3</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5В071200</td>
-<td>Машиностроение</td>
-<td>570</td>
-<td>490</td>
-<td>370</td>
+<td colspan="4">Машиностроение</td>
+<td>564</td>
+<td colspan="3">553</td>
+<td colspan="3">423</td>
 <td></td>
-<td>120</td>
-<td>80</td>
-<td>60</td>
-<td>20</td>
+<td>130</td>
+<td colspan="3">11</td>
+<td colspan="3">2</td>
+<td>9</td>
 </tr>
 <tr>
 <td>5В071300</td>
-<td>Транспорт, транспортная техника и технологии</td>
-<td>580</td>
-<td>500</td>
-<td>383</td>
+<td colspan="4">Транспорт, транспортная техника и технологии</td>
+<td>567</td>
+<td colspan="3">544</td>
+<td colspan="3">422</td>
 <td></td>
-<td>117</td>
-<td>80</td>
-<td>60</td>
-<td>20</td>
+<td>122</td>
+<td colspan="3">23</td>
+<td colspan="3">9</td>
+<td>14</td>
 </tr>
 <tr>
 <td>5В071400</td>
-<td>Авиационная техника и технологии</td>
-<td>200</td>
-<td>200</td>
-<td>155</td>
+<td colspan="4">Авиационная техника и технологии</td>
+<td>198</td>
+<td colspan="3">198</td>
+<td colspan="3">153</td>
 <td></td>
 <td>45</td>
-<td>0</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5B071500</td>
-<td>Морская техника и технологии</td>
-<td>70</td>
-<td>50</td>
-<td>40</td>
+<td colspan="4">Морская техника и технологии</td>
+<td>32</td>
+<td colspan="3">32</td>
+<td colspan="3">28</td>
 <td></td>
-<td>10</td>
-<td>20</td>
-<td>15</td>
-<td>5</td>
+<td>4</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В071600</td>
-<td>Приборостроение</td>
-<td>230</td>
-<td>230</td>
-<td>180</td>
+<td colspan="4">Приборостроение</td>
+<td>226</td>
+<td colspan="3">226</td>
+<td colspan="3">177</td>
 <td></td>
-<td>50</td>
-<td>0</td>
-<td></td>
+<td>49</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В071700</td>
-<td>Теплоэнергетика</td>
-<td>330</td>
-<td>230</td>
-<td>180</td>
+<td colspan="4">Теплоэнергетика</td>
+<td>326</td>
+<td colspan="3">307</td>
+<td colspan="3">250</td>
 <td></td>
-<td>50</td>
-<td>100</td>
-<td>80</td>
-<td>20</td>
+<td>57</td>
+<td colspan="3">19</td>
+<td colspan="3">5</td>
+<td>14</td>
 </tr>
 <tr>
 <td>5В071800</td>
-<td>Электроэнергетика</td>
-<td>390</td>
-<td>270</td>
-<td>200</td>
+<td colspan="4">Электроэнергетика</td>
+<td>461</td>
+<td colspan="3">421</td>
+<td colspan="3">335</td>
 <td></td>
-<td>70</td>
-<td>120</td>
-<td>90</td>
-<td>30</td>
+<td>86</td>
+<td colspan="3">40</td>
+<td colspan="3">17</td>
+<td>23</td>
 </tr>
 <tr>
 <td>5В071900</td>
-<td>Радиотехника, электроника и телекоммуникации</td>
-<td>500</td>
-<td>400</td>
-<td>300</td>
+<td colspan="4">Радиотехника, электроника и телекоммуникации</td>
+<td>573</td>
+<td colspan="3">551</td>
+<td colspan="3">442</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>75</td>
-<td>25</td>
+<td>109</td>
+<td colspan="3">22</td>
+<td colspan="3">7</td>
+<td>15</td>
 </tr>
 <tr>
 <td>5В072000</td>
-<td>Химическая технология неорганических веществ</td>
-<td>270</td>
-<td>270</td>
-<td>200</td>
+<td colspan="4">Химическая технология неорганических веществ</td>
+<td>39</td>
+<td colspan="3">39</td>
+<td colspan="3">31</td>
 <td></td>
-<td>70</td>
-<td>0</td>
-<td></td>
+<td>8</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В072100</td>
-<td>Химическая технология органических веществ</td>
-<td>220</td>
-<td>220</td>
-<td>170</td>
+<td colspan="4">Химическая технология органических веществ</td>
+<td>130</td>
+<td colspan="3">130</td>
+<td colspan="3">97</td>
 <td></td>
-<td>50</td>
-<td>0</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5В072200</td>
-<td>Полиграфия</td>
-<td>50</td>
-<td>50</td>
-<td>40</td>
-<td></td>
-<td>10</td>
-<td>0</td>
-<td></td>
+<td>33</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В072300</td>
-<td>Техническая физика</td>
-<td>115</td>
-<td>115</td>
-<td>83</td>
+<td colspan="4">Техническая физика</td>
+<td>108</td>
+<td colspan="3">108</td>
+<td colspan="3">79</td>
 <td></td>
-<td>32</td>
-<td>0</td>
-<td></td>
+<td>29</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В072400</td>
-<td>Технологические машины и оборудование (по отраслям)</td>
-<td>542</td>
-<td>462</td>
-<td>356</td>
+<td colspan="4">Технологические машины и оборудование (по отраслям)</td>
+<td>536</td>
+<td colspan="3">530</td>
+<td colspan="3">411</td>
 <td></td>
-<td>106</td>
-<td>80</td>
-<td>60</td>
-<td>20</td>
+<td>119</td>
+<td colspan="3">6</td>
+<td colspan="3"></td>
+<td>6</td>
 </tr>
 <tr>
 <td>5В072500</td>
-<td>Технология деревообработки и изделий из дерева (по областям применения)</td>
-<td>120</td>
-<td>120</td>
-<td>90</td>
+<td colspan="4">Технология деревообработки и изделий из дерева (по областям применения)</td>
+<td>75</td>
+<td colspan="3">75</td>
+<td colspan="3">65</td>
 <td></td>
-<td>30</td>
-<td>0</td>
-<td></td>
+<td>10</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В072600</td>
-<td>Технология и конструирование изделий легкой промышленности</td>
-<td>374</td>
-<td>304</td>
-<td>217</td>
+<td colspan="4">Технология и конструирование изделий легкой промышленности</td>
+<td>358</td>
+<td colspan="3">354</td>
+<td colspan="3">323</td>
 <td></td>
-<td>87</td>
-<td>70</td>
-<td>53</td>
-<td>17</td>
+<td>31</td>
+<td colspan="3">4</td>
+<td colspan="3">1</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5В072700</td>
-<td>Технология продовольственных продуктов</td>
-<td>300</td>
-<td>250</td>
-<td>188</td>
+<td colspan="4">Технология продовольственных продуктов</td>
+<td>328</td>
+<td colspan="3">314</td>
+<td colspan="3">250</td>
 <td></td>
-<td>62</td>
-<td>50</td>
-<td>38</td>
-<td>12</td>
+<td>64</td>
+<td colspan="3">14</td>
+<td colspan="3">6</td>
+<td>8</td>
 </tr>
 <tr>
 <td>5В072800</td>
-<td>Технология перерабатывающих производств (по отраслям)</td>
-<td>200</td>
-<td>130</td>
-<td>98</td>
+<td colspan="4">Технология перерабатывающих производств (по отраслям)</td>
+<td>190</td>
+<td colspan="3">185</td>
+<td colspan="3">139</td>
 <td></td>
-<td>32</td>
-<td>70</td>
-<td>53</td>
-<td>17</td>
+<td>46</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>5В072900</td>
-<td>Строительство</td>
-<td>500</td>
-<td>400</td>
-<td>300</td>
+<td colspan="4">Строительство</td>
+<td>547</td>
+<td colspan="3">507</td>
+<td colspan="3">395</td>
 <td></td>
-<td>100</td>
-<td>100</td>
-<td>80</td>
-<td>20</td>
+<td>112</td>
+<td colspan="3">40</td>
+<td colspan="3">26</td>
+<td>14</td>
 </tr>
 <tr>
 <td>5В073000</td>
-<td>Производство строительных материалов, изделий и конструкций</td>
-<td>200</td>
-<td>200</td>
-<td>160</td>
+<td colspan="4">Производство строительных материалов, изделий и конструкций</td>
+<td>196</td>
+<td colspan="3">196</td>
+<td colspan="3">156</td>
 <td></td>
 <td>40</td>
-<td>0</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В073100</td>
-<td>Безопасность жизнедеятельности и защита окружающей среды</td>
-<td>180</td>
-<td>180</td>
-<td>135</td>
+<td colspan="4">Безопасность жизнедеятельности и защита окружающей среды</td>
+<td>184</td>
+<td colspan="3">184</td>
+<td colspan="3">138</td>
 <td></td>
-<td>45</td>
-<td>0</td>
-<td></td>
+<td>46</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В073200</td>
-<td>Стандартизация и сертификация (по отраслям)</td>
-<td>150</td>
-<td>100</td>
-<td>75</td>
+<td colspan="4">Стандартизация и сертификация (по отраслям)</td>
+<td>181</td>
+<td colspan="3">155</td>
+<td colspan="3">126</td>
 <td></td>
-<td>25</td>
-<td>50</td>
-<td>38</td>
-<td>12</td>
+<td>29</td>
+<td colspan="3">26</td>
+<td colspan="3">17</td>
+<td>9</td>
 </tr>
 <tr>
 <td>5В073300</td>
-<td>Технология и проектирование текстильных материалов</td>
-<td>150</td>
-<td>150</td>
-<td>113</td>
+<td colspan="4">Технология и проектирование текстильных материалов</td>
+<td>145</td>
+<td colspan="3">145</td>
+<td colspan="3">140</td>
 <td></td>
-<td>37</td>
-<td>0</td>
-<td></td>
+<td>5</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В073700</td>
-<td>Обогащение полезных ископаемых</td>
-<td>50</td>
-<td>50</td>
-<td>38</td>
+<td colspan="4">Обогащение полезных ископаемых</td>
+<td>11</td>
+<td colspan="3">11</td>
+<td colspan="3">5</td>
 <td></td>
-<td>12</td>
-<td>0</td>
-<td></td>
+<td>6</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В073800</td>
-<td>Технология обработки материалов давлением</td>
-<td>90</td>
-<td>90</td>
-<td>68</td>
+<td colspan="4">Технология обработки материалов давлением</td>
+<td>65</td>
+<td colspan="3">65</td>
+<td colspan="3">54</td>
 <td></td>
-<td>22</td>
-<td>0</td>
-<td></td>
+<td>11</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5B074300</td>
-<td>Летная эксплуатация летательных аппаратов и двигателей</td>
-<td>90</td>
-<td>90</td>
-<td>68</td>
+<td colspan="4">Летная эксплуатация летательных аппаратов и двигателей</td>
+<td>89</td>
+<td colspan="3">89</td>
+<td colspan="3">61</td>
 <td></td>
-<td>22</td>
-<td>0</td>
-<td></td>
+<td>28</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В074500</td>
-<td>Транспортное строительство</td>
-<td>200</td>
-<td>200</td>
-<td>150</td>
+<td colspan="4">Транспортное строительство</td>
+<td>197</td>
+<td colspan="3">197</td>
+<td colspan="3">161</td>
 <td></td>
-<td>50</td>
-<td>0</td>
-<td></td>
+<td>36</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В074600</td>
-<td>Космическая техника и технологии</td>
-<td>120</td>
-<td>120</td>
-<td>90</td>
+<td colspan="4">Космическая техника и технологии</td>
+<td>116</td>
+<td colspan="3">116</td>
+<td colspan="3">86</td>
 <td></td>
 <td>30</td>
-<td>0</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В074800</td>
-<td>Технология фармацевтического производства</td>
-<td>140</td>
-<td>100</td>
-<td>78</td>
+<td colspan="4">Технология фармацевтического производства</td>
+<td>232</td>
+<td colspan="3">232</td>
+<td colspan="3">189</td>
 <td></td>
-<td>22</td>
-<td>40</td>
-<td>30</td>
-<td>10</td>
+<td>43</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В075200</td>
-<td>Инженерные системы и сети</td>
-<td>70</td>
-<td>70</td>
-<td>53</td>
+<td colspan="4">Инженерные системы и сети</td>
+<td>89</td>
+<td colspan="3">89</td>
+<td colspan="3">72</td>
 <td></td>
 <td>17</td>
-<td>0</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В075300</td>
-<td>Химическая технология тугоплавких неметаллических и силикатных материалов</td>
-<td>40</td>
-<td>40</td>
-<td>30</td>
+<td colspan="4">Химическая технология тугоплавких неметаллических и силикатных материалов</td>
+<td>3</td>
+<td colspan="3">3</td>
+<td colspan="3">2</td>
 <td></td>
-<td>10</td>
-<td>0</td>
+<td>1</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="5">Всего</td>
+<td>10938</td>
+<td colspan="3">10587</td>
+<td colspan="3">8307</td>
+<td></td>
+<td>2280</td>
+<td colspan="3">351</td>
+<td colspan="3">152</td>
+<td>199</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
+<td>75</td>
+<td colspan="3">74</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3">1</td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Всего</td>
-<td>10751</td>
-<td>9201</td>
-<td>6956</td>
-<td>0</td>
-<td>2245</td>
-<td>1550</td>
-<td>1173</td>
-<td>377</td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
-<td>112</td>
-<td>100</td>
+<td colspan="4">Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
+<td>44</td>
+<td colspan="3">44</td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td>18</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
-<td>112</td>
-<td>100</td>
+<td colspan="4">Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
+<td>7</td>
+<td colspan="3">7</td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td>18</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
-<td>56</td>
-<td>50</td>
-<td></td>
-<td></td>
-<td></td>
-<td>9</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
-<td>224</td>
-<td>200</td>
+<td colspan="4">Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
+<td>213</td>
+<td colspan="3">210</td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td>36</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Итого</td>
-<td>11255</td>
-<td>450</td>
-<td></td>
-<td></td>
-<td></td>
-<td>81</td>
-<td></td>
+<td colspan="3">3</td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">8. Сельскохозяйственные науки</td>
+<td colspan="5">Всего</td>
+<td>339</td>
+<td colspan="3">335</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3">4</td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="21">8. Сельскохозяйственные науки</td>
 </tr>
 <tr>
 <td>5В080100</td>
-<td>Агрономия</td>
-<td>325</td>
-<td>215</td>
-<td>161</td>
-<td></td>
-<td>54</td>
-<td>110</td>
-<td>83</td>
-<td>27</td>
+<td colspan="4">Агрономия</td>
+<td>313</td>
+<td>311</td>
+<td colspan="4">241</td>
+<td colspan="2"></td>
+<td>70</td>
+<td colspan="3">2</td>
+<td colspan="3">1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>5В080200</td>
-<td>Технология производства продуктов животноводства</td>
-<td>264</td>
-<td>264</td>
-<td>198</td>
-<td></td>
-<td>66</td>
-<td>0</td>
-<td></td>
+<td colspan="4">Технология производства продуктов животноводства</td>
+<td>258</td>
+<td>258</td>
+<td colspan="4">199</td>
+<td colspan="2"></td>
+<td>59</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В080300</td>
-<td>Охотоведение и звероводство</td>
-<td>15</td>
-<td>15</td>
-<td>11</td>
-<td></td>
+<td colspan="4">Охотоведение и звероводство</td>
+<td>32</td>
+<td>32</td>
+<td colspan="4">28</td>
+<td colspan="2"></td>
 <td>4</td>
-<td>0</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В080400</td>
-<td>Рыбное хозяйство и промышленное рыболовство</td>
-<td>30</td>
-<td>30</td>
-<td>22</td>
-<td></td>
+<td colspan="4">Рыбное хозяйство и промышленное рыболовство</td>
+<td>34</td>
+<td>34</td>
+<td colspan="4">26</td>
+<td colspan="2"></td>
 <td>8</td>
-<td>0</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В080500</td>
-<td>Водные ресурсы и водопользование</td>
-<td>195</td>
-<td>125</td>
-<td>94</td>
-<td></td>
-<td>31</td>
-<td>70</td>
-<td>53</td>
-<td>17</td>
+<td colspan="4">Водные ресурсы и водопользование</td>
+<td>189</td>
+<td>188</td>
+<td colspan="4">173</td>
+<td colspan="2"></td>
+<td>15</td>
+<td colspan="3">1</td>
+<td colspan="3"></td>
+<td>1</td>
 </tr>
 <tr>
 <td>5В080600</td>
-<td>Аграрная техника и технология</td>
-<td>250</td>
-<td>170</td>
-<td>128</td>
-<td></td>
-<td>42</td>
-<td>80</td>
-<td>60</td>
-<td>20</td>
+<td colspan="4">Аграрная техника и технология</td>
+<td>245</td>
+<td>244</td>
+<td colspan="4">199</td>
+<td colspan="2"></td>
+<td>45</td>
+<td colspan="3">1</td>
+<td colspan="3"></td>
+<td>1</td>
 </tr>
 <tr>
 <td>5В080700</td>
-<td>Лесные ресурсы и лесоводство</td>
-<td>70</td>
-<td>55</td>
-<td>41</td>
-<td></td>
-<td>14</td>
-<td>15</td>
-<td>11</td>
-<td>4</td>
+<td colspan="4">Лесные ресурсы и лесоводство</td>
+<td>117</td>
+<td>115</td>
+<td colspan="4">95</td>
+<td colspan="2"></td>
+<td>20</td>
+<td colspan="3">2</td>
+<td colspan="3"></td>
+<td>2</td>
 </tr>
 <tr>
 <td>5В080800</td>
-<td>Почвоведение и агрохимия</td>
-<td>103</td>
-<td>103</td>
-<td>77</td>
-<td></td>
-<td>26</td>
-<td>0</td>
-<td></td>
+<td colspan="4">Почвоведение и агрохимия</td>
+<td>100</td>
+<td>100</td>
+<td colspan="4">84</td>
+<td colspan="2"></td>
+<td>16</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В080900</td>
-<td>Плодоовощеводство</td>
+<td colspan="4">Плодоовощеводство</td>
 <td>50</td>
 <td>50</td>
-<td>38</td>
-<td></td>
-<td>12</td>
-<td>0</td>
-<td></td>
+<td colspan="4">42</td>
+<td colspan="2"></td>
+<td>8</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В081000</td>
-<td>Мелиорация, рекультивация и охрана земель</td>
-<td>70</td>
-<td>70</td>
-<td>53</td>
+<td colspan="4">Мелиорация, рекультивация и охрана земель</td>
+<td>36</td>
+<td>36</td>
+<td colspan="4">36</td>
+<td colspan="2"></td>
 <td></td>
-<td>17</td>
-<td>0</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В081100</td>
-<td>Защита и карантин растений</td>
-<td>160</td>
-<td>160</td>
-<td>120</td>
-<td></td>
-<td>40</td>
-<td>0</td>
-<td></td>
+<td colspan="4">Защита и карантин растений</td>
+<td>151</td>
+<td>151</td>
+<td colspan="4">139</td>
+<td colspan="2"></td>
+<td>12</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В081200</td>
-<td>Энергообеспечение сельского хозяйства</td>
-<td>60</td>
-<td>50</td>
-<td>38</td>
-<td></td>
-<td>12</td>
-<td>10</td>
-<td>8</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td>Всего</td>
-<td>1592</td>
-<td>1307</td>
-<td>981</td>
-<td></td>
-<td>326</td>
-<td>285</td>
-<td>215</td>
-<td>70</td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
-<td>17</td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td>7</td>
-<td></td>
+<td colspan="4">Энергообеспечение сельского хозяйства</td>
+<td>58</td>
+<td>58</td>
+<td colspan="4">45</td>
+<td colspan="2"></td>
+<td>13</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
+<td colspan="5">Всего</td>
+<td>1583</td>
+<td>1577</td>
+<td colspan="4">1307</td>
+<td colspan="2"></td>
+<td>270</td>
+<td colspan="3">6</td>
+<td colspan="3">1</td>
+<td>5</td>
+</tr>
+<tr>
 <td></td>
-<td>Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
-<td>17</td>
-<td>10</td>
+<td colspan="4">Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
+<td>6</td>
+<td>6</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>7</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
-<td>9</td>
-<td>7</td>
+<td colspan="4">Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
+<td>5</td>
+<td>5</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>2</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
-<td>34</td>
+<td colspan="4">Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
 <td>30</td>
+<td>30</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>4</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Итого</td>
-<td>1669</td>
-<td>57</td>
-<td></td>
-<td></td>
-<td></td>
-<td>20</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">9. Услуги</td>
+<td colspan="5">Всего</td>
+<td>41</td>
+<td>41</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="21">9. Услуги</td>
 </tr>
 <tr>
 <td>5В090100</td>
-<td>Организация перевозок, движения и эксплуатация транспорта</td>
-<td>130</td>
-<td>100</td>
-<td>78</td>
-<td></td>
-<td>22</td>
-<td>30</td>
-<td>20</td>
-<td>10</td>
+<td colspan="4">Организация перевозок, движения и эксплуатация транспорта</td>
+<td>135</td>
+<td>116</td>
+<td colspan="4">90</td>
+<td colspan="2"></td>
+<td>26</td>
+<td colspan="3">19</td>
+<td colspan="3">12</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5В090200</td>
-<td>Туризм</td>
-<td>455</td>
-<td>360</td>
-<td>270</td>
-<td></td>
-<td>90</td>
-<td>95</td>
-<td>75</td>
+<td colspan="4">Туризм</td>
+<td>451</td>
+<td>415</td>
+<td colspan="4">324</td>
+<td colspan="2"></td>
+<td>91</td>
+<td colspan="3">36</td>
+<td colspan="3">16</td>
 <td>20</td>
 </tr>
 <tr>
 <td>5В090300</td>
-<td>Землеустройство</td>
-<td>50</td>
-<td>50</td>
-<td>37</td>
-<td></td>
-<td>13</td>
-<td>0</td>
-<td></td>
+<td colspan="4">Землеустройство</td>
+<td>53</td>
+<td>53</td>
+<td colspan="4">41</td>
+<td colspan="2"></td>
+<td>12</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В090500</td>
-<td>Социальная работа</td>
-<td>122</td>
-<td>122</td>
-<td>92</td>
-<td></td>
-<td>30</td>
-<td>0</td>
-<td></td>
+<td colspan="4">Социальная работа</td>
+<td>120</td>
+<td>120</td>
+<td colspan="4">91</td>
+<td colspan="2"></td>
+<td>29</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В090600</td>
-<td>Культурно-досуговая работа</td>
-<td>95</td>
-<td>95</td>
-<td>71</td>
-<td></td>
+<td colspan="4">Культурно-досуговая работа</td>
+<td>97</td>
+<td>97</td>
+<td colspan="4">73</td>
+<td colspan="2"></td>
 <td>24</td>
-<td>0</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В090700</td>
-<td>Кадастр</td>
-<td>50</td>
-<td>50</td>
-<td>38</td>
-<td></td>
-<td>12</td>
-<td>0</td>
-<td></td>
+<td colspan="4">Кадастр</td>
+<td>59</td>
+<td>59</td>
+<td colspan="4">45</td>
+<td colspan="2"></td>
+<td>14</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В090800</td>
-<td>Оценка</td>
-<td>46</td>
-<td>46</td>
-<td>35</td>
-<td></td>
+<td colspan="4">Оценка</td>
+<td>50</td>
+<td>50</td>
+<td colspan="4">39</td>
+<td colspan="2"></td>
 <td>11</td>
-<td>0</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В090900</td>
-<td>Логистика (по отраслям)</td>
-<td>110</td>
-<td>110</td>
-<td>83</td>
-<td></td>
-<td>27</td>
-<td>0</td>
-<td></td>
+<td colspan="4">Логистика (по отраслям)</td>
+<td>142</td>
+<td>142</td>
+<td colspan="4">107</td>
+<td colspan="2"></td>
+<td>35</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В091000</td>
-<td>Библиотечное дело</td>
+<td colspan="4">Библиотечное дело</td>
 <td>49</td>
 <td>49</td>
-<td>37</td>
-<td></td>
+<td colspan="4">37</td>
+<td colspan="2"></td>
 <td>12</td>
-<td>0</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В091200</td>
-<td>Ресторанное дело и гостиничный бизнес</td>
-<td>165</td>
-<td>135</td>
-<td>102</td>
-<td></td>
-<td>33</td>
-<td>30</td>
-<td>23</td>
+<td colspan="4">Ресторанное дело и гостиничный бизнес</td>
+<td>169</td>
+<td>147</td>
+<td colspan="4">110</td>
+<td colspan="2"></td>
+<td>37</td>
+<td colspan="3">22</td>
+<td colspan="3">15</td>
 <td>7</td>
 </tr>
 <tr>
-<td></td>
-<td>Всего</td>
-<td>1272</td>
-<td>1117</td>
-<td>843</td>
-<td>0</td>
-<td>274</td>
-<td>155</td>
-<td>118</td>
-<td>37</td>
+<td colspan="5">Всего</td>
+<td>1325</td>
+<td>1248</td>
+<td colspan="4">957</td>
+<td colspan="2"></td>
+<td>291</td>
+<td colspan="3">77</td>
+<td colspan="3">43</td>
+<td>34</td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
-<td>13</td>
+<td colspan="4">Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
+<td>11</td>
 <td>10</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>3</td>
-<td></td>
+<td colspan="3">1</td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
+<td colspan="4">Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
 <td>13</td>
-<td>10</td>
+<td>13</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
-<td>6</td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td>2</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
-<td>26</td>
+<td colspan="4">Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
+<td>1</td>
+<td>1</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
 <td>20</td>
+<td>20</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>6</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>Итого</td>
-<td>1330</td>
+<td colspan="5">Всего</td>
+<td>45</td>
 <td>44</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>14</td>
-<td></td>
+<td colspan="3">1</td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">10. Военное дело и безопасность</td>
+<td colspan="21">10. Военное дело и безопасность</td>
 </tr>
 <tr>
 <td>5В100200</td>
-<td>Системы информационной безопасности</td>
-<td>113</td>
-<td>113</td>
-<td>84</td>
-<td></td>
-<td>29</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Итого</td>
-<td>113</td>
-<td>113</td>
-<td>84</td>
-<td></td>
-<td>29</td>
-<td></td>
-<td></td>
+<td colspan="4">Системы информационной безопасности</td>
+<td>134</td>
+<td>134</td>
+<td colspan="4">104</td>
+<td colspan="2"></td>
+<td>30</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">11. Здравоохранение и социальное обеспечение (медицина)</td>
+<td colspan="5">Всего</td>
+<td>134</td>
+<td>134</td>
+<td colspan="4">104</td>
+<td colspan="2"></td>
+<td>30</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="21">11. Здравоохранение и социальное обеспечение (медицина)</td>
 </tr>
 <tr>
 <td>5В110100</td>
-<td>Сестринское дело</td>
-<td>66</td>
-<td>66</td>
-<td>46</td>
-<td></td>
-<td>20</td>
-<td></td>
-<td></td>
+<td colspan="4">Сестринское дело</td>
+<td>58</td>
+<td>58</td>
+<td colspan="4">42</td>
+<td colspan="2"></td>
+<td>16</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В110200</td>
-<td>Общественное здравоохранение</td>
-<td>95</td>
-<td>95</td>
-<td>65</td>
-<td></td>
-<td>30</td>
-<td></td>
-<td></td>
+<td colspan="4">Общественное здравоохранение</td>
+<td>100</td>
+<td>100</td>
+<td colspan="4">68</td>
+<td colspan="2"></td>
+<td>32</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В110300</td>
-<td>Фармация</td>
-<td>76</td>
-<td>76</td>
-<td>53</td>
+<td colspan="4">Фармация</td>
+<td>120</td>
+<td>120</td>
+<td colspan="4">88</td>
+<td colspan="2"></td>
+<td>32</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
-<td>23</td>
-<td></td>
-<td></td>
+</tr>
+<tr>
+<td colspan="5">Всего</td>
+<td>278</td>
+<td>278</td>
+<td colspan="4">198</td>
+<td colspan="2"></td>
+<td>80</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Всего</td>
-<td>237</td>
-<td>237</td>
-<td>164</td>
-<td></td>
-<td>73</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
+<td colspan="4">Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
 <td>3</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
-<td>2</td>
+<td colspan="4">Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
+<td>4</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Итого</td>
-<td>250</td>
+<td colspan="4">Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
+<td>1</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">12. Ветеринария</td>
+<td></td>
+<td colspan="4">Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
+<td>4</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">Всего</td>
+<td>12</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="21">12. Ветеринария</td>
 </tr>
 <tr>
 <td>5B120100</td>
-<td>Ветеринарная медицина</td>
-<td>484</td>
-<td>484</td>
-<td>363</td>
-<td></td>
-<td>121</td>
-<td></td>
-<td></td>
+<td colspan="4">Ветеринарная медицина</td>
+<td>460</td>
+<td>460</td>
+<td colspan="4">362</td>
+<td colspan="2"></td>
+<td>98</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5B120200</td>
-<td>Ветеринарная санитария</td>
-<td>152</td>
-<td>102</td>
-<td>77</td>
-<td></td>
-<td>25</td>
-<td>50</td>
-<td>38</td>
-<td>12</td>
-</tr>
-<tr>
-<td></td>
-<td>Всего</td>
-<td>636</td>
-<td>586</td>
-<td>440</td>
-<td>0</td>
-<td>146</td>
-<td>50</td>
-<td>38</td>
-<td>12</td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
-<td>7</td>
+<td colspan="4">Ветеринарная санитария</td>
+<td>162</td>
+<td>153</td>
+<td colspan="4">124</td>
+<td colspan="2"></td>
+<td>29</td>
+<td colspan="3">9</td>
+<td colspan="3">5</td>
 <td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td>Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
-<td>7</td>
+<td colspan="5">Всего</td>
+<td>622</td>
+<td>613</td>
+<td colspan="4">486</td>
+<td colspan="2"></td>
+<td>127</td>
+<td colspan="3">9</td>
+<td colspan="3">5</td>
 <td>4</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="4">Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
+<td>5</td>
+<td>5</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>3</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
-<td>4</td>
-<td>3</td>
+<td colspan="4">Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
+<td>5</td>
+<td>5</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
-<td>14</td>
+<td colspan="4">Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
 <td>10</td>
+<td>10</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>4</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Итого</td>
-<td>668</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">13. Здравоохранение и социальное обеспечение (медицина)</td>
+<td colspan="5">Всего</td>
+<td>20</td>
+<td>20</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="21">13. Здравоохранение и социальное обеспечение (медицина)</td>
 </tr>
 <tr>
 <td>5B130100</td>
-<td>Общая медицина</td>
-<td>2577</td>
-<td>2577</td>
-<td>1802</td>
-<td></td>
-<td>775</td>
-<td></td>
-<td></td>
+<td colspan="4">Общая медицина</td>
+<td>3096</td>
+<td>3096</td>
+<td colspan="4">2276</td>
+<td colspan="2"></td>
+<td>820</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5B130200</td>
-<td>Стоматология</td>
-<td>46</td>
-<td>46</td>
-<td>33</td>
-<td></td>
-<td>13</td>
-<td></td>
-<td></td>
+<td colspan="4">Стоматология</td>
+<td>82</td>
+<td>82</td>
+<td colspan="4">58</td>
+<td colspan="2"></td>
+<td>24</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В130300</td>
-<td>Педиатрия</td>
-<td>146</td>
-<td>146</td>
-<td>98</td>
+<td colspan="4">Педиатрия</td>
+<td>152</td>
+<td>152</td>
+<td colspan="4">106</td>
+<td colspan="2"></td>
+<td>46</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
-<td>48</td>
-<td></td>
-<td></td>
+</tr>
+<tr>
+<td colspan="5">Всего</td>
+<td>3330</td>
+<td>3330</td>
+<td colspan="4">2440</td>
+<td colspan="2"></td>
+<td>890</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Всего</td>
-<td>2769</td>
-<td>2769</td>
-<td>1399</td>
+<td colspan="4">Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
+<td>30</td>
 <td></td>
-<td>836</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
-<td>29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
-<td>29</td>
+<td colspan="4">Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
+<td>37</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
-<td>58</td>
+<td colspan="4">Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
+<td>5</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Итого</td>
-<td>2900</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>На обучение студентов в рамках проекта «Мәңгілік ел жастары - индустрияға!», в том числе:</td>
-<td>3793</td>
+<td colspan="4">Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
+<td>57</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">Образование</td>
+<td colspan="5">Всего</td>
+<td>129</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">На обучение студентов в рамках проекта «Мәңгілік ел жастары - индустрияға!», в том числе:</td>
+<td>3769</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="21">Образование</td>
 </tr>
 <tr>
 <td>5В010100</td>
-<td>Дошкольное обучение и воспитание</td>
-<td>110</td>
+<td colspan="4">Дошкольное обучение и воспитание</td>
+<td>108</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В010200</td>
-<td>Педагогика и методика начального обучения</td>
-<td>90</td>
+<td colspan="4">Педагогика и методика начального обучения</td>
+<td>94</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В010300</td>
-<td>Педагогика и психология</td>
-<td>85</td>
+<td colspan="4">Педагогика и психология</td>
+<td>84</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В010500</td>
-<td>Дефектология</td>
+<td colspan="4">Дефектология</td>
 <td>85</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В010900</td>
-<td>Математика</td>
-<td>110</td>
+<td colspan="4">Математика</td>
+<td>105</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В011000</td>
-<td>Физика</td>
-<td>115</td>
+<td colspan="4">Физика</td>
+<td>103</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В011100</td>
-<td>Информатика</td>
-<td>110</td>
+<td colspan="4">Информатика</td>
+<td>68</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В011200</td>
-<td>Химия</td>
-<td>120</td>
+<td colspan="4">Химия</td>
+<td>121</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В011300</td>
-<td>Биология</td>
-<td>100</td>
+<td colspan="4">Биология</td>
+<td>122</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В011400</td>
-<td>История</td>
-<td>85</td>
+<td colspan="4">История</td>
+<td>87</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В011500</td>
-<td>Основы права и экономики</td>
-<td>45</td>
+<td colspan="4">Основы права и экономики</td>
+<td>39</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В011600</td>
-<td>География</td>
+<td colspan="4">География</td>
 <td>85</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В011700</td>
-<td>Казахский язык и литература</td>
-<td>130</td>
+<td colspan="4">Казахский язык и литература</td>
+<td>145</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В011900</td>
-<td>Иностранный язык: два иностранных языка (английский язык)</td>
-<td>150</td>
+<td colspan="4">Иностранный язык: два иностранных языка (английский язык)</td>
+<td>203</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В012000</td>
-<td>Профессиональное обучение</td>
-<td>60</td>
+<td colspan="4">Профессиональное обучение</td>
+<td>27</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В012100</td>
-<td>Казахский язык и литература в школах с неказахским языком обучения</td>
-<td>30</td>
+<td colspan="4">Казахский язык и литература в школах с неказахским языком обучения</td>
+<td>35</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В012300</td>
-<td>Социальная педагогика и самопознание</td>
+<td colspan="4">Социальная педагогика и самопознание</td>
 <td>40</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Итого</td>
-<td>1550</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">Технические науки и технологии</td>
+<td colspan="5">Всего</td>
+<td>1551</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="21">Технические науки и технологии</td>
 </tr>
 <tr>
 <td>5В070100</td>
-<td>Биотехнология</td>
-<td>45</td>
+<td colspan="4">Биотехнология</td>
+<td>180</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В070200</td>
-<td>Автоматизация и управление</td>
-<td>55</td>
+<td colspan="4">Автоматизация и управление</td>
+<td>44</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В070300</td>
-<td>Информационные системы</td>
-<td>98</td>
+<td colspan="4">Информационные системы</td>
+<td>79</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В070400</td>
-<td>Вычислительная техника и программное обеспечение</td>
-<td>85</td>
+<td colspan="4">Вычислительная техника и программное обеспечение</td>
+<td>62</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В070500</td>
-<td>Математическое и компьютерное моделирование</td>
-<td>55</td>
+<td colspan="4">Математическое и компьютерное моделирование</td>
+<td>66</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В070600</td>
-<td>Геология и разведка месторождений полезных ископаемых</td>
-<td>70</td>
+<td colspan="4">Геология и разведка месторождений полезных ископаемых</td>
+<td>30</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В070700</td>
-<td>Горное дело</td>
-<td>50</td>
+<td colspan="4">Горное дело</td>
+<td>25</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В070800</td>
-<td>Нефтегазовое дело</td>
-<td>75</td>
+<td colspan="4">Нефтегазовое дело</td>
+<td>60</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В070900</td>
-<td>Металлургия</td>
-<td>65</td>
+<td colspan="4">Металлургия</td>
+<td>36</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В071000</td>
-<td>Материаловедение и технология новых материалов</td>
-<td>65</td>
+<td colspan="4">Материаловедение и технология новых материалов</td>
+<td>26</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В071100</td>
-<td>Геодезия и картография</td>
-<td>60</td>
+<td colspan="4">Геодезия и картография</td>
+<td>189</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В071200</td>
-<td>Машиностроение</td>
-<td>80</td>
+<td colspan="4">Машиностроение</td>
+<td>60</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В071300</td>
-<td>Транспорт, транспортная техника и технологии</td>
-<td>110</td>
+<td colspan="4">Транспорт, транспортная техника и технологии</td>
+<td>99</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В071600</td>
-<td>Приборостроение</td>
-<td>35</td>
+<td colspan="4">Приборостроение</td>
+<td>12</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В071700</td>
-<td>Теплоэнергетика</td>
-<td>95</td>
+<td colspan="4">Теплоэнергетика</td>
+<td>73</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В071800</td>
-<td>Электроэнергетика</td>
-<td>80</td>
+<td colspan="4">Электроэнергетика</td>
+<td>78</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В071900</td>
-<td>Радиотехника, электроника и телекоммуникации</td>
-<td>55</td>
+<td colspan="4">Радиотехника, электроника и телекоммуникации</td>
+<td>85</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В072000</td>
-<td>Химическая технология неорганических веществ</td>
-<td>20</td>
+<td colspan="4">Химическая технология неорганических веществ</td>
+<td>2</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5В072100</td>
-<td>Химическая технология органических веществ</td>
-<td>40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В072300</td>
-<td>Техническая физика</td>
-<td>35</td>
+<td colspan="4">Техническая физика</td>
+<td>18</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В072400</td>
-<td>Технологические машины и оборудование (по отраслям)</td>
-<td>90</td>
+<td colspan="4">Технологические машины и оборудование (по отраслям)</td>
+<td>32</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В072600</td>
-<td>Технология и конструирование изделий легкой промышленности</td>
-<td>10</td>
+<td colspan="4">Технология и конструирование изделий легкой промышленности</td>
+<td>3</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В072700</td>
-<td>Технология продовольственных продуктов</td>
-<td>45</td>
+<td colspan="4">Технология продовольственных продуктов</td>
+<td>174</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В072800</td>
-<td>Технология перерабатывающих производств (по отраслям)</td>
-<td>50</td>
+<td colspan="4">Технология перерабатывающих производств (по отраслям)</td>
+<td>125</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В072900</td>
-<td>Строительство</td>
-<td>180</td>
+<td colspan="4">Строительство</td>
+<td>124</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В073000</td>
-<td>Производство строительных материалов, изделий и конструкций</td>
-<td>25</td>
+<td colspan="4">Производство строительных материалов, изделий и конструкций</td>
+<td>13</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В073100</td>
-<td>Безопасность жизнедеятельности и защита окружающей среды</td>
-<td>75</td>
+<td colspan="4">Безопасность жизнедеятельности и защита окружающей среды</td>
+<td>51</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В073200</td>
-<td>Стандартизация и сертификация (по отраслям)</td>
-<td>20</td>
+<td colspan="4">Стандартизация и сертификация (по отраслям)</td>
+<td>5</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В073700</td>
-<td>Обогащение полезных ископаемых</td>
-<td>40</td>
+<td colspan="4">Обогащение полезных ископаемых</td>
+<td>2</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В073800</td>
-<td>Технология обработки материалов давлением</td>
-<td>30</td>
+<td colspan="4">Технология обработки материалов давлением</td>
+<td>29</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В074500</td>
-<td>Транспортное строительство</td>
-<td>40</td>
+<td colspan="4">Транспортное строительство</td>
+<td>31</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В074800</td>
-<td>Технология фармацевтического производства</td>
-<td>20</td>
+<td colspan="4">Технология фармацевтического производства</td>
+<td>71</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5В075000</td>
-<td>Метрология</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
+<td colspan="5">Всего</td>
+<td>1884</td>
 <td></td>
-<td>Итого</td>
-<td>1898</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">Сельскохозяйственные науки</td>
+<td colspan="21">Сельскохозяйственные науки</td>
 </tr>
 <tr>
 <td>5В080100</td>
-<td>Агрономия</td>
-<td>100</td>
+<td colspan="4">Агрономия</td>
+<td>122</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В080200</td>
-<td>Технология производства продуктов животноводства</td>
-<td>70</td>
+<td colspan="4">Технология производства продуктов животноводства</td>
+<td>68</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В080400</td>
-<td>Рыбное хозяйство и промышленное рыболовство</td>
-<td>10</td>
+<td colspan="4">Рыбное хозяйство и промышленное рыболовство</td>
+<td>5</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В080500</td>
-<td>Водные ресурсы и водопользование</td>
-<td>35</td>
+<td colspan="4">Водные ресурсы и водопользование</td>
+<td>11</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В080600</td>
-<td>Аграрная техника и технология</td>
-<td>70</td>
+<td colspan="4">Аграрная техника и технология</td>
+<td>17</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В080700</td>
-<td>Лесные ресурсы и лесоводство</td>
-<td>10</td>
+<td colspan="4">Лесные ресурсы и лесоводство</td>
+<td>30</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В080800</td>
-<td>Почвоведение и агрохимия</td>
-<td>30</td>
+<td colspan="4">Почвоведение и агрохимия</td>
+<td>58</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В081100</td>
-<td>Защита и карантин растений</td>
-<td>20</td>
+<td colspan="4">Защита и карантин растений</td>
+<td>23</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="5">Всего</td>
+<td>334</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Итого</td>
-<td>345</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>На обучение студентов из Турецкой Республики, других тюркоязычных республик в Международном Казахско-турецком университете имени Х.А.Ясави</td>
+<td colspan="4">На обучение студентов из Турецкой Республики, других тюркоязычных республик в Международном Казахско-турецком университете имени Х.А.Ясави</td>
 <td>200</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>На обучение граждан Афганистана</td>
+<td colspan="4">На обучение граждан Афганистана</td>
 <td>100</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>На обучение иностранных граждан по международным соглашениям</td>
+<td colspan="4">На обучение иностранных граждан по международным соглашениям</td>
 <td>120</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>На обучение граждан Монголии</td>
+<td colspan="4">На обучение граждан Монголии</td>
 <td>25</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>На обучение студентов в Казахстанском филиале Московского государственного университета имени М.В. Ломоносова</td>
+<td colspan="4">На обучение студентов в Казахстанском филиале Московского государственного университета имени М.В. Ломоносова</td>
 <td>125</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>На обучение студентов в АОО «Назарбаев Университет»</td>
+<td colspan="4">На обучение студентов в АОО «Назарбаев Университет»</td>
 <td>770</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>На обучение слушателей подготовительных отделений вузов</td>
+<td colspan="4">На обучение слушателей подготовительных отделений вузов</td>
 <td>2850</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>В том числе на обучение слушателей в подготовительном отделении АОО «Назарбаев Университета»</td>
+<td colspan="4">В том числе на обучение слушателей в подготовительном отделении АОО «Назарбаев Университета»</td>
 <td>700</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>В том числе на обучение в подготовительном отделении вузов лиц казахской национальности, не являющихся гражданами Республики Казахстан</td>
+<td colspan="4">В том числе на обучение в подготовительном отделении вузов лиц казахской национальности, не являющихся гражданами Республики Казахстан</td>
 <td>1400</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>В том числе на обучение для повышения уровня языковой подготовки</td>
+<td colspan="4">В том числе на обучение для повышения уровня языковой подготовки</td>
 <td>450</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>В том числе на обучение слушателей из Турецкой Республики, других тюркоязычных республик в Международном Казахско-турецком университете имени Х.А.Ясави</td>
+<td colspan="4">В том числе на обучение слушателей из Турецкой Республики, других тюркоязычных республик в Международном Казахско-турецком университете имени Х.А.Ясави</td>
 <td>200</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>В том числе иностранных граждан для обучения на подготовительных отделениях</td>
+<td colspan="4">В том числе иностранных граждан для обучения на подготовительных отделениях</td>
 <td>100</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Резерв</td>
-<td>200</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">Казахстанско-Британский технический университет</td>
+<td></td>
+<td colspan="4">Резерв</td>
+<td>299</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="21">Казахстанско-Британский технический университет</td>
 </tr>
 <tr>
 <td>5В050600</td>
-<td>Экономика</td>
+<td colspan="4">Экономика</td>
 <td>16</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В050700</td>
-<td>Менеджмент</td>
-<td>8</td>
+<td colspan="4">Менеджмент</td>
+<td>14</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В070200</td>
-<td>Автоматизация и управление</td>
+<td colspan="4">Автоматизация и управление</td>
 <td>28</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В070300</td>
-<td>Информационные системы</td>
-<td>37</td>
+<td colspan="4">Информационные системы</td>
+<td>46</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В070400</td>
-<td>Вычислительная техника и программное обеспечение</td>
+<td colspan="4">Вычислительная техника и программное обеспечение</td>
 <td>52</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В070500</td>
-<td>Математическое и компьютерное моделирование</td>
+<td colspan="4">Математическое и компьютерное моделирование</td>
 <td>12</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В071500</td>
-<td>Морская техника и технологии</td>
+<td colspan="4">Морская техника и технологии</td>
 <td>20</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
 <td>5В070800</td>
-<td>Нефтегазовое дело</td>
+<td colspan="4">Нефтегазовое дело</td>
 <td>18</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Всего</td>
-<td>191</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
+<td colspan="5">Всего</td>
+<td>206</td>
 <td></td>
-<td>Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
-<td>2</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="21">Филиал «Восход» Московского авиационного института</td>
 </tr>
 <tr>
-<td></td>
-<td>Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Итого</td>
-<td>200</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="10">Филиал &quot;Восход&quot; Московского авиационного института</td>
-</tr>
-<tr>
-<td>24.05.2003</td>
+<td colspan="3">24.05.2003</td>
 <td>Испытание летательных аппаратов</td>
-<td>25</td>
+<td colspan="2">3</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td>09.03.2001</td>
+<td colspan="3">09.03.2001</td>
 <td>Информатика и вычислительная техника</td>
-<td>12</td>
+<td colspan="2">5</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td>01.03.2004</td>
+<td colspan="3">01.03.2004</td>
 <td>Прикладная математика</td>
-<td>4</td>
+<td colspan="2">9</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td>38.03.02</td>
+<td colspan="3">38.03.02</td>
 <td>Менеджмент</td>
-<td>4</td>
+<td colspan="2">4</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Итого</td>
-<td>45</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="10">Международный университет информационных технологий</td>
-</tr>
-<tr>
-<td>5В050400</td>
-<td>Журналистика</td>
-<td>20</td>
+<td colspan="4">Всего</td>
+<td colspan="2">21</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td>5В050700</td>
-<td>Менеджмент</td>
-<td>30</td>
+<td colspan="21">Международный университет информационных технологий</td>
+</tr>
+<tr>
+<td colspan="2">5В050400</td>
+<td colspan="2">Журналистика</td>
+<td colspan="2">23</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td>5В050900</td>
-<td>Финансы</td>
-<td>30</td>
+<td colspan="2">5В050700</td>
+<td colspan="2">Менеджмент</td>
+<td colspan="2">30</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5В060200</td>
-<td>Информатика</td>
-<td>30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td>5В070300</td>
-<td>Информационные системы</td>
-<td>130</td>
+<td colspan="2">5В050900</td>
+<td colspan="2">Финансы</td>
+<td colspan="2">30</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5В070400</td>
-<td>Вычислительная техника и программное обеспечение</td>
-<td>130</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td>5В070500</td>
-<td>Математическое и компьютерное моделирование</td>
-<td>45</td>
+<td colspan="2">5В060200</td>
+<td colspan="2">Информатика</td>
+<td colspan="2">30</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5В071900</td>
-<td>Радиотехника, электроника и телекоммуникации</td>
-<td>65</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td>5В100200</td>
-<td>Системы информационной безопасности</td>
-<td>47</td>
+<td colspan="2">5В070300</td>
+<td colspan="2">Информационные системы</td>
+<td colspan="2">137</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Всего</td>
-<td>527</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
+<td colspan="2">5В070400</td>
+<td colspan="2">Вычислительная техника и программное обеспечение</td>
+<td colspan="2">133</td>
 <td></td>
-<td>Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
-<td>5</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
+<td colspan="2">5В070500</td>
+<td colspan="2">Математическое и компьютерное моделирование</td>
+<td colspan="2">47</td>
 <td></td>
-<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">5В071900</td>
+<td colspan="2">Радиотехника, электроника и телекоммуникации</td>
+<td colspan="2">66</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">5В100200</td>
+<td colspan="2">Системы информационной безопасности</td>
+<td colspan="2">54</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Всего</td>
+<td colspan="2">550</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="21">Финансовая академия</td>
+</tr>
+<tr>
+<td colspan="2">5В050600</td>
+<td colspan="2">Экономика</td>
+<td colspan="2">14</td>
+<td>14</td>
+<td colspan="4">11</td>
+<td colspan="2"></td>
 <td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
+<td colspan="2">5В050700</td>
+<td colspan="2">Менеджмент</td>
+<td colspan="2">10</td>
 <td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Итого</td>
-<td>550</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="10">Финансовая академия</td>
-</tr>
-<tr>
-<td>5В050600</td>
-<td>Экономика</td>
-<td>10</td>
-<td>10</td>
-<td>8</td>
+<td colspan="4">8</td>
+<td colspan="2"></td>
 <td>2</td>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5В050700</td>
-<td>Менеджмент</td>
-<td>10</td>
-<td>10</td>
-<td>8</td>
-<td>2</td>
-<td>2</td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td>5В050800</td>
-<td>Учет и аудит</td>
-<td>12</td>
-<td>12</td>
-<td>9</td>
-<td>3</td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5В050900</td>
-<td>Финансы</td>
+<td colspan="2">5В050800</td>
+<td colspan="2">Учет и аудит</td>
+<td colspan="2">13</td>
 <td>13</td>
-<td>13</td>
-<td>10</td>
-<td>3</td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Всего</td>
-<td>45</td>
-<td>45</td>
-<td>35</td>
-<td>10</td>
-<td>10</td>
-<td></td>
-<td></td>
+<td colspan="4">9</td>
+<td colspan="2"></td>
+<td>4</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>Квота для детей-сирот и детей, оставшихся без попечения родителей (1%)</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
+<td colspan="2">5В050900</td>
+<td colspan="2">Финансы</td>
+<td colspan="2">12</td>
+<td>12</td>
+<td colspan="4">10</td>
+<td colspan="2"></td>
 <td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
+<td colspan="2">5В070400</td>
+<td colspan="2">Вычислительная техника и программное обеспечение</td>
+<td colspan="2">3</td>
+<td>3</td>
+<td colspan="4">1</td>
+<td colspan="2"></td>
+<td>2</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
-<td>Итого</td>
-<td>50</td>
+</tr>
+<tr>
+<td colspan="4">Всего</td>
+<td colspan="2">52</td>
+<td>52</td>
+<td colspan="4">39</td>
+<td colspan="2"></td>
+<td>13</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="4">Итого</td>
+<td colspan="2">38772</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 </table>
 
 > *Приложение 2 к приказу*  
 > *исполняющего обязанности*  
-> *Министра образования*  
-> *и науки Республики Казахстан*  
-> *от 12 июля 2017 года № 328*
+> *Министра образования и науки*  
+> *Республики Казахстан*  
+> *от 12 июля 2017 года*  
+> *№ 328*
 
-# Государственный образовательный заказ на подготовку специалистов с высшим образованием на 2017-2018 учебный год в разрезе специальностей по заочной сокращенной форме обучения
+## Государственный образовательный заказ на подготовку специалистов с высшим образованием на 2017-2018 учебный год в разрезе специальностей по заочной сокращенной форме обучения
+
+> *Сноска. Приложение 2 в редакции приказа Министра образования и науки РК от 20.12.2017 № 631 (вводится в действие после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -4551,107 +4336,107 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>5В010100</td>
 <td>Дошкольное обучение и воспитание</td>
-<td>25</td>
-<td>19</td>
-<td>6</td>
+<td>17</td>
+<td>13</td>
+<td>4</td>
 </tr>
 <tr>
 <td>5В010200</td>
 <td>Педагогика и методика начального обучения</td>
-<td>15</td>
 <td>11</td>
-<td>4</td>
+<td>8</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5В010300</td>
 <td>Педагогика и психология</td>
-<td>15</td>
 <td>11</td>
-<td>4</td>
+<td>8</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5В010400</td>
 <td>Начальная военная подготовка</td>
-<td>15</td>
-<td>11</td>
-<td>4</td>
+<td>10</td>
+<td>8</td>
+<td>2</td>
 </tr>
 <tr>
 <td>5В010500</td>
 <td>Дефектология</td>
-<td>45</td>
-<td>34</td>
-<td>11</td>
+<td>31</td>
+<td>23</td>
+<td>8</td>
 </tr>
 <tr>
 <td>5В010600</td>
 <td>Музыкальное образование</td>
-<td>10</td>
-<td>8</td>
-<td>2</td>
+<td>7</td>
+<td>6</td>
+<td>1</td>
 </tr>
 <tr>
 <td>5В010700</td>
 <td>Изобразительное искусство и черчение</td>
-<td>10</td>
+<td>9</td>
 <td>8</td>
-<td>2</td>
+<td>1</td>
 </tr>
 <tr>
 <td>5В010800</td>
 <td>Физическая культура и спорт</td>
-<td>15</td>
-<td>11</td>
+<td>13</td>
+<td>9</td>
 <td>4</td>
 </tr>
 <tr>
 <td>5В011500</td>
 <td>Основы права и экономики</td>
-<td>10</td>
-<td>8</td>
+<td>3</td>
 <td>2</td>
+<td>1</td>
 </tr>
 <tr>
 <td>5В011600</td>
 <td>География</td>
-<td>15</td>
-<td>11</td>
-<td>4</td>
+<td>6</td>
+<td>3</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5В011700</td>
 <td>Казахский язык и литература</td>
-<td>41</td>
-<td>41</td>
+<td>31</td>
+<td>31</td>
 <td></td>
 </tr>
 <tr>
 <td>5В011800</td>
 <td>Русский язык и литература</td>
-<td>10</td>
+<td>8</td>
 <td></td>
-<td>10</td>
+<td>8</td>
 </tr>
 <tr>
 <td>5В011900</td>
 <td>Иностранный язык: два иностранных языка (английский язык)</td>
-<td>40</td>
-<td>30</td>
-<td>10</td>
+<td>28</td>
+<td>21</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5В012000</td>
 <td>Профессиональное обучение</td>
-<td>20</td>
-<td>15</td>
-<td>5</td>
+<td>14</td>
+<td>10</td>
+<td>4</td>
 </tr>
 <tr>
 <td></td>
 <td>Всего</td>
-<td>286</td>
-<td>218</td>
-<td>68</td>
+<td>199</td>
+<td>150</td>
+<td>49</td>
 </tr>
 <tr>
 <td></td>
@@ -4661,33 +4446,35 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
 <td>Квота для инвалидов I, II групп, инвалидов с детства, детей-инвалидов (1%)</td>
-<td rowspan="2">3</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
-</tr>
-<tr>
+<td>7</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td>Квота для лиц, приравненных по льготам и гарантиям к участникам и инвалидам Великой Отечественной войны (0,5%)</td>
-<td>2</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td>Квота для лиц казахской национальности, не являющихся гражданами Республики Казахстан (2%)</td>
-<td>6</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td colspan="2">Всего</td>
+<td>12</td>
 <td></td>
-<td>Итого</td>
-<td>300</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Итого</td>
+<td>211</td>
 <td></td>
 <td></td>
 </tr>
@@ -4695,656 +4482,651 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 
 > *Приложение 3 к приказу*  
 > *исполняющего обязанности*  
-> *Министра образования*  
-> *и науки Республики Казахстан*  
-> *от 12 июля 2017 года № 328*
+> *Министра образования и науки*  
+> *Республики Казахстан*  
+> *от 12 июля 2017 года*  
+> *№ 328*
 
-# Государственный образовательный заказ на подготовку магистров на 2017-2018 учебный год
+## Государственный образовательный заказ на подготовку магистров на 2017-2018 учебный год
+
+> *Сноска. Приложение 3 в редакции приказа Министра образования и науки РК от 20.12.2017 № 631 (вводится в действие после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td>Код</td>
+<td>Код специальности</td>
 <td>Наименование специальности</td>
-<td>
-
-всего
-</td>
+<td>всего</td>
 <td>научно-педагогическое направление</td>
-<td colspan="2">профильное направление на английском языке</td>
-<td>профильное направление</td>
+<td>профильное направление на английском языке</td>
+<td colspan="5">профильное направление</td>
 </tr>
 <tr>
-<td colspan="7">1. Образование</td>
+<td colspan="10">1. Образование</td>
 </tr>
 <tr>
 <td>6M010100</td>
 <td>Дошкольное обучение и воспитание</td>
-<td>40</td>
-<td>40</td>
-<td colspan="2"></td>
+<td>33</td>
+<td>33</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M010200</td>
 <td>Педагогика и методика начального обучения</td>
-<td>60</td>
-<td>60</td>
-<td colspan="2"></td>
+<td>58</td>
+<td>58</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M010300</td>
 <td>Педагогика и психология</td>
-<td>110</td>
-<td>110</td>
-<td colspan="2"></td>
+<td>152</td>
+<td>152</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M010400</td>
 <td>Начальная военная подготовка</td>
-<td>10</td>
-<td>10</td>
-<td colspan="2"></td>
+<td>7</td>
+<td>7</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M010500</td>
 <td>Дефектология</td>
-<td>30</td>
-<td>30</td>
-<td colspan="2"></td>
+<td>35</td>
+<td>35</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M010600</td>
 <td>Музыкальное образование</td>
 <td>20</td>
 <td>20</td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M010700</td>
 <td>Изобразительное искусство и черчение</td>
-<td>15</td>
-<td>15</td>
-<td colspan="2"></td>
+<td>7</td>
+<td>7</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M010800</td>
 <td>Физическая культура и спорт</td>
-<td>35</td>
-<td>35</td>
-<td colspan="2"></td>
+<td>43</td>
+<td>43</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M010900</td>
 <td>Математика</td>
-<td>115</td>
-<td>115</td>
-<td colspan="2"></td>
+<td>107</td>
+<td>107</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M011000</td>
 <td>Физика</td>
-<td>225</td>
-<td>100</td>
-<td colspan="2">125</td>
-<td></td>
+<td>113</td>
+<td>84</td>
+<td>29</td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M011100</td>
 <td>Информатика</td>
-<td>240</td>
-<td>115</td>
-<td colspan="2">125</td>
-<td></td>
+<td>168</td>
+<td>117</td>
+<td>51</td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M011200</td>
 <td>Химия</td>
-<td>225</td>
 <td>100</td>
-<td colspan="2">125</td>
-<td></td>
+<td>90</td>
+<td>10</td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M011300</td>
 <td>Биология</td>
-<td>235</td>
-<td>110</td>
-<td colspan="2">125</td>
-<td></td>
+<td>121</td>
+<td>111</td>
+<td>10</td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M011400</td>
 <td>История</td>
-<td>110</td>
-<td>110</td>
-<td colspan="2"></td>
+<td>98</td>
+<td>98</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M011500</td>
 <td>Основы права и экономики</td>
 <td>20</td>
 <td>20</td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M011600</td>
 <td>География</td>
-<td>60</td>
-<td>60</td>
-<td colspan="2"></td>
+<td>54</td>
+<td>54</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M011700</td>
 <td>Казахский язык и литература</td>
-<td>120</td>
-<td>120</td>
-<td colspan="2"></td>
+<td>133</td>
+<td>133</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M011800</td>
 <td>Русский язык и литература</td>
-<td>60</td>
-<td>60</td>
-<td colspan="2"></td>
+<td>56</td>
+<td>56</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M011900</td>
 <td>Иностранный язык: два иностранных языка</td>
-<td>130</td>
-<td>130</td>
-<td colspan="2"></td>
+<td>155</td>
+<td>155</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M012000</td>
 <td>Профессиональное обучение</td>
-<td>50</td>
-<td>50</td>
-<td colspan="2"></td>
+<td>44</td>
+<td>44</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M012100</td>
 <td>Казахский язык и литература в школах с неказахским языком обучения</td>
-<td>35</td>
-<td>35</td>
-<td colspan="2"></td>
+<td>27</td>
+<td>27</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M012200</td>
 <td>Русский язык и литература в школах с нерусским языком обучения</td>
-<td>30</td>
-<td>30</td>
-<td colspan="2"></td>
+<td>29</td>
+<td>29</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M012300</td>
 <td>Социальная педагогика и самопознание</td>
-<td>60</td>
-<td>60</td>
-<td colspan="2"></td>
+<td>56</td>
+<td>56</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6М012400</td>
 <td>Педагогические измерения</td>
 <td>15</td>
 <td>15</td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td></td>
-<td>Итого</td>
-<td>2050</td>
-<td>1550</td>
-<td colspan="2">500</td>
-<td>0</td>
+<td colspan="2">Всего</td>
+<td>1651</td>
+<td>1551</td>
+<td>100</td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="7">2. Гуманитарные науки</td>
+<td colspan="10">2. Гуманитарные науки</td>
 </tr>
 <tr>
 <td>6M020100</td>
 <td>Философия</td>
-<td>45</td>
-<td>45</td>
-<td colspan="2"></td>
+<td>37</td>
+<td>37</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M020200</td>
 <td>Международные отношения</td>
-<td>45</td>
-<td>45</td>
-<td colspan="2"></td>
+<td>72</td>
+<td>72</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M020300</td>
 <td>История</td>
-<td>100</td>
-<td>100</td>
-<td colspan="2"></td>
+<td>94</td>
+<td>94</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M020400</td>
 <td>Культурология</td>
 <td>40</td>
 <td>40</td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M020500</td>
 <td>Филология</td>
-<td>110</td>
-<td>110</td>
-<td colspan="2"></td>
+<td>113</td>
+<td>113</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M020600</td>
 <td>Религиоведение</td>
 <td>40</td>
 <td>40</td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M020700</td>
 <td>Переводческое дело</td>
-<td>110</td>
-<td>110</td>
-<td colspan="2"></td>
+<td>121</td>
+<td>121</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M020800</td>
 <td>Археология и этнология</td>
 <td>35</td>
 <td>35</td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M020900</td>
 <td>Востоковедение</td>
-<td>30</td>
-<td>30</td>
-<td colspan="2"></td>
+<td>33</td>
+<td>33</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td>6M021100</td>
+<td>6М021000</td>
 <td>Иностранная филология</td>
-<td>50</td>
-<td>50</td>
-<td colspan="2"></td>
+<td>59</td>
+<td>59</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M021200</td>
 <td>Тюркология</td>
-<td>20</td>
-<td>20</td>
-<td colspan="2"></td>
+<td>21</td>
+<td>21</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M021300</td>
 <td>Лингвистика</td>
 <td>20</td>
 <td>20</td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M021400</td>
 <td>Литературоведение</td>
 <td>20</td>
 <td>20</td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M021500</td>
 <td>Исламоведение</td>
-<td>15</td>
-<td>15</td>
-<td colspan="2"></td>
+<td>20</td>
+<td>20</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
+<td colspan="2">Всего</td>
+<td>725</td>
+<td>725</td>
 <td></td>
-<td>Итого</td>
-<td>680</td>
-<td>680</td>
-<td colspan="2">0</td>
-<td>0</td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="7">3. Право</td>
+<td colspan="10">3. Право</td>
 </tr>
 <tr>
 <td>6M030100</td>
 <td>Юриспруденция</td>
-<td>80</td>
-<td>80</td>
-<td colspan="2"></td>
+<td>133</td>
+<td>133</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M030200</td>
 <td>Международное право</td>
-<td>30</td>
-<td>30</td>
-<td colspan="2"></td>
+<td>34</td>
+<td>34</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M030400</td>
 <td>Таможенное дело</td>
 <td>5</td>
 <td>5</td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6М030500</td>
 <td>Судебная экспертиза</td>
-<td>5</td>
-<td>5</td>
-<td colspan="2"></td>
+<td>3</td>
+<td>3</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
+<td colspan="2">Всего</td>
+<td>175</td>
+<td>175</td>
 <td></td>
-<td>Итого</td>
-<td>120</td>
-<td>120</td>
-<td colspan="2">0</td>
-<td>0</td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="7">4. Искусство</td>
+<td colspan="10">4. Искусство</td>
 </tr>
 <tr>
 <td>6М040600</td>
 <td>Режиссура</td>
 <td>10</td>
 <td>10</td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6М041200</td>
 <td>Операторское искусство</td>
 <td>10</td>
 <td>10</td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M041300</td>
 <td>Живопись</td>
-<td>10</td>
-<td>10</td>
-<td colspan="2"></td>
+<td>8</td>
+<td>8</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M041400</td>
 <td>Графика</td>
 <td>10</td>
 <td>10</td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6М041600</td>
 <td>Искусствоведение</td>
 <td>10</td>
 <td>10</td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M041900</td>
 <td>Музейное дело и охрана памятников</td>
 <td>10</td>
 <td>10</td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M042000</td>
 <td>Архитектура</td>
-<td>20</td>
-<td>20</td>
-<td colspan="2"></td>
+<td>29</td>
+<td>29</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6М042100</td>
 <td>Дизайн</td>
-<td>20</td>
-<td>20</td>
-<td colspan="2"></td>
+<td>26</td>
+<td>26</td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6М042200</td>
 <td>Издательское дело</td>
 <td>10</td>
 <td>10</td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
+<td colspan="2">Всего</td>
+<td>123</td>
+<td>123</td>
 <td></td>
-<td>Итого</td>
-<td>110</td>
-<td>110</td>
-<td colspan="2">0</td>
-<td>0</td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="7">5. Социальные науки, экономика и бизнес</td>
+<td colspan="10">5. Социальные науки, экономика и бизнес</td>
 </tr>
 <tr>
 <td>6M050100</td>
 <td>Социология</td>
-<td>30</td>
-<td>30</td>
+<td>31</td>
+<td>31</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M050200</td>
 <td>Политология</td>
-<td>30</td>
-<td>30</td>
+<td>33</td>
+<td>33</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M050300</td>
 <td>Психология</td>
-<td>35</td>
-<td>35</td>
+<td>44</td>
+<td>44</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M050400</td>
 <td>Журналистика</td>
-<td>55</td>
-<td>55</td>
+<td>69</td>
+<td>69</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M050500</td>
 <td>Регионоведение</td>
-<td>35</td>
-<td>35</td>
+<td>39</td>
+<td>39</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M050600</td>
 <td>Экономика</td>
-<td>70</td>
-<td>70</td>
+<td>108</td>
+<td>108</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M050700</td>
 <td>Менеджмент</td>
-<td>70</td>
-<td>70</td>
+<td>103</td>
+<td>103</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M050800</td>
 <td>Учет и аудит</td>
-<td>60</td>
-<td>60</td>
+<td>79</td>
+<td>79</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M050900</td>
 <td>Финансы</td>
-<td>65</td>
-<td>65</td>
+<td>87</td>
+<td>87</td>
+<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>6M051000</td>
 <td>Государственное и местное управление</td>
-<td>30</td>
-<td>30</td>
+<td>42</td>
+<td>42</td>
+<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>6M051100</td>
 <td>Маркетинг</td>
-<td>35</td>
-<td>35</td>
+<td>41</td>
+<td>41</td>
+<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>6M051300</td>
 <td>Мировая экономика</td>
-<td>25</td>
-<td>25</td>
+<td>29</td>
+<td>29</td>
+<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>6M051400</td>
 <td>Связь с общественностью</td>
-<td>20</td>
-<td>20</td>
+<td>23</td>
+<td>23</td>
+<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>6M051500</td>
 <td>Архивоведение, документирование и документационное обеспечение</td>
 <td>15</td>
 <td>15</td>
+<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>6M051600</td>
 <td>Международная журналистика</td>
 <td>20</td>
 <td>20</td>
+<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>6M051700</td>
 <td>Инновационный менеджмент</td>
-<td>20</td>
-<td>20</td>
+<td>19</td>
+<td>19</td>
+<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>6M051800</td>
 <td>Управление проектами</td>
 <td>15</td>
 <td>15</td>
+<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>6M052000</td>
 <td>Деловое администрирование</td>
-<td>15</td>
-<td>15</td>
+<td>23</td>
+<td>23</td>
+<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>6M052100</td>
 <td>Государственный аудит</td>
 <td>36</td>
 <td>36</td>
+<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
+<td colspan="2">Всего</td>
+<td>856</td>
+<td>856</td>
+<td colspan="5"></td>
 <td></td>
-<td>Итого</td>
-<td>681</td>
-<td>681</td>
-<td>0</td>
-<td colspan="2">0</td>
 </tr>
 <tr>
-<td colspan="7">6. Естественные науки</td>
+<td colspan="10">6. Естественные науки</td>
 </tr>
 <tr>
 <td>6M060100</td>
 <td>Математика</td>
-<td>120</td>
-<td>120</td>
-<td></td>
+<td>124</td>
+<td>124</td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>6M060200</td>
 <td>Информатика</td>
-<td>130</td>
-<td>130</td>
-<td></td>
+<td>141</td>
+<td>141</td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -5352,15 +5134,15 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>Механика</td>
 <td>35</td>
 <td>35</td>
-<td></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>6M060400</td>
 <td>Физика</td>
-<td>100</td>
-<td>100</td>
-<td></td>
+<td>103</td>
+<td>103</td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -5368,47 +5150,47 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>Ядерная физика</td>
 <td>40</td>
 <td>40</td>
-<td></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>6M060600</td>
 <td>Химия</td>
-<td>85</td>
-<td>85</td>
-<td></td>
+<td>88</td>
+<td>88</td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>6M060700</td>
 <td>Биология</td>
-<td>105</td>
-<td>105</td>
-<td></td>
+<td>101</td>
+<td>101</td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>6M060800</td>
 <td>Экология</td>
-<td>120</td>
-<td>120</td>
-<td></td>
+<td>117</td>
+<td>117</td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>6M060900</td>
 <td>География</td>
-<td>60</td>
-<td>60</td>
-<td></td>
+<td>64</td>
+<td>64</td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>6M061000</td>
 <td>Гидрология</td>
-<td>15</td>
-<td>15</td>
-<td></td>
+<td>17</td>
+<td>17</td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -5416,7 +5198,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>Физика и астрономия</td>
 <td>15</td>
 <td>15</td>
-<td></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -5424,7 +5206,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>Метеорология</td>
 <td>15</td>
 <td>15</td>
-<td></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -5432,107 +5214,98 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>Геоботаника</td>
 <td>15</td>
 <td>15</td>
-<td></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>6М061400</td>
-<td>Генетика</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2">Всего</td>
+<td>875</td>
+<td>875</td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td></td>
-<td>Итого</td>
-<td>855</td>
-<td>855</td>
-<td>0</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="7">7. Технические науки и технологии</td>
+<td colspan="10">7. Технические науки и технологии</td>
 </tr>
 <tr>
 <td>6M070100</td>
 <td>Биотехнология</td>
-<td>230</td>
-<td>60</td>
+<td>240</td>
+<td>72</td>
 <td></td>
-<td colspan="2">170</td>
+<td colspan="5">168</td>
 </tr>
 <tr>
 <td>6M070200</td>
 <td>Автоматизация и управление</td>
-<td>245</td>
-<td>65</td>
+<td>266</td>
+<td>74</td>
 <td></td>
-<td colspan="2">180</td>
+<td colspan="5">192</td>
 </tr>
 <tr>
 <td>6M070300</td>
 <td>Информационные системы</td>
-<td>350</td>
-<td>75</td>
+<td>399</td>
+<td>95</td>
 <td></td>
-<td colspan="2">275</td>
+<td colspan="5">304</td>
 </tr>
 <tr>
 <td>6M070400</td>
 <td>Вычислительная техника и программное обеспечение</td>
-<td>157</td>
-<td>105</td>
+<td>162</td>
+<td>110</td>
 <td></td>
-<td colspan="2">52</td>
+<td colspan="5">52</td>
 </tr>
 <tr>
 <td>6M070500</td>
 <td>Математическое и компьютерное моделирование</td>
-<td>81</td>
-<td>30</td>
+<td>79</td>
+<td>28</td>
 <td></td>
-<td colspan="2">51</td>
+<td colspan="5">51</td>
 </tr>
 <tr>
 <td>6M070600</td>
 <td>Геология и разведка месторождений полезных ископаемых</td>
-<td>80</td>
+<td>76</td>
 <td>20</td>
 <td></td>
-<td colspan="2">60</td>
+<td colspan="5">56</td>
 </tr>
 <tr>
 <td>6M070700</td>
 <td>Горное дело</td>
-<td>55</td>
-<td>15</td>
+<td>54</td>
+<td>14</td>
 <td></td>
-<td colspan="2">40</td>
+<td colspan="5">40</td>
 </tr>
 <tr>
 <td>6M070800</td>
 <td>Нефтегазовое дело</td>
-<td>60</td>
-<td>15</td>
+<td>37</td>
+<td>9</td>
 <td></td>
-<td colspan="2">45</td>
+<td colspan="5">28</td>
 </tr>
 <tr>
 <td>6M070900</td>
 <td>Металлургия</td>
-<td>245</td>
-<td>15</td>
+<td>243</td>
+<td>13</td>
 <td></td>
-<td colspan="2">230</td>
+<td colspan="5">230</td>
 </tr>
 <tr>
 <td>6M071000</td>
 <td>Материаловедение и технология новых материалов</td>
-<td>95</td>
-<td>30</td>
+<td>92</td>
+<td>29</td>
 <td></td>
-<td colspan="2">65</td>
+<td colspan="5">63</td>
 </tr>
 <tr>
 <td>6M071100</td>
@@ -5540,79 +5313,87 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>25</td>
 <td>25</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M071200</td>
 <td>Машиностроение</td>
-<td>155</td>
-<td>60</td>
+<td>152</td>
+<td>59</td>
 <td></td>
-<td colspan="2">95</td>
+<td colspan="5">93</td>
 </tr>
 <tr>
 <td>6M071300</td>
 <td>Транспорт, транспортная техника и технологии</td>
-<td>120</td>
-<td>55</td>
+<td>132</td>
+<td>54</td>
 <td></td>
-<td colspan="2">65</td>
+<td colspan="5">78</td>
+</tr>
+<tr>
+<td>6М071400</td>
+<td>Авиационная техника и технологии</td>
+<td>3</td>
+<td>3</td>
+<td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M071600</td>
 <td>Приборостроение</td>
-<td>25</td>
-<td>25</td>
+<td>20</td>
+<td>20</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M071700</td>
 <td>Теплоэнергетика</td>
-<td>250</td>
-<td>20</td>
+<td>258</td>
+<td>18</td>
 <td></td>
-<td colspan="2">230</td>
+<td colspan="5">240</td>
 </tr>
 <tr>
 <td>6M071800</td>
 <td>Электроэнергетика</td>
-<td>100</td>
-<td>35</td>
+<td>135</td>
+<td>40</td>
 <td></td>
-<td colspan="2">65</td>
+<td colspan="5">95</td>
 </tr>
 <tr>
 <td>6M071900</td>
 <td>Радиотехника, электроника и телекоммуникации</td>
-<td>117</td>
-<td>25</td>
+<td>128</td>
+<td>37</td>
 <td></td>
-<td colspan="2">92</td>
+<td colspan="5">91</td>
 </tr>
 <tr>
 <td>6M072000</td>
 <td>Химическая технология неорганических веществ</td>
-<td>215</td>
-<td>15</td>
+<td>132</td>
+<td>7</td>
 <td></td>
-<td colspan="2">200</td>
+<td colspan="5">125</td>
 </tr>
 <tr>
 <td>6M072100</td>
 <td>Химическая технология органических веществ</td>
-<td>175</td>
-<td>25</td>
+<td>165</td>
+<td>19</td>
 <td></td>
-<td colspan="2">150</td>
+<td colspan="5">146</td>
 </tr>
 <tr>
 <td>6M072200</td>
 <td>Полиграфия</td>
-<td>12</td>
-<td>12</td>
+<td>5</td>
+<td>5</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M072300</td>
@@ -5620,127 +5401,127 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>30</td>
 <td>30</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M072400</td>
 <td>Технологические машины и оборудование (по отраслям)</td>
-<td>150</td>
-<td>20</td>
+<td>159</td>
+<td>22</td>
 <td></td>
-<td colspan="2">130</td>
+<td colspan="5">137</td>
 </tr>
 <tr>
 <td>6M072600</td>
 <td>Технология и конструирование изделий легкой промышленности (по областям применения)</td>
 <td>25</td>
 <td>15</td>
-<td></td>
-<td colspan="2">10</td>
+<td colspan="2"></td>
+<td colspan="4">10</td>
 </tr>
 <tr>
 <td>6M072700</td>
 <td>Технология продовольственных продуктов (по областям применения)</td>
-<td>65</td>
-<td>15</td>
-<td></td>
-<td colspan="2">50</td>
+<td>133</td>
+<td>16</td>
+<td colspan="2"></td>
+<td colspan="4">117</td>
 </tr>
 <tr>
 <td>6M072800</td>
 <td>Технология перерабатывающих производств (по отраслям)</td>
-<td>105</td>
+<td>65</td>
 <td>15</td>
-<td></td>
-<td colspan="2">90</td>
+<td colspan="2"></td>
+<td colspan="4">50</td>
 </tr>
 <tr>
 <td>6M072900</td>
 <td>Строительство</td>
-<td>135</td>
-<td>30</td>
-<td></td>
-<td colspan="2">105</td>
+<td>143</td>
+<td>38</td>
+<td colspan="2"></td>
+<td colspan="4">105</td>
 </tr>
 <tr>
 <td>6M073000</td>
 <td>Производство строительных материалов, изделий и конструкций</td>
-<td>155</td>
-<td>15</td>
-<td></td>
-<td colspan="2">140</td>
+<td>157</td>
+<td>17</td>
+<td colspan="2"></td>
+<td colspan="4">140</td>
 </tr>
 <tr>
 <td>6M073100</td>
 <td>Безопасность жизнедеятельности и защита окружающей среды</td>
-<td>35</td>
-<td>35</td>
-<td></td>
+<td>38</td>
+<td>38</td>
 <td colspan="2"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>6M073200</td>
 <td>Стандартизация и сертификация (по отраслям)</td>
-<td>60</td>
-<td>60</td>
-<td></td>
+<td>62</td>
+<td>62</td>
 <td colspan="2"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>6M073300</td>
 <td>Технология и проектирование текстильных материалов</td>
 <td>15</td>
 <td>15</td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>6M073400</td>
 <td>Химическая технология взрывчатых веществ и пиротехнических средств</td>
 <td>7</td>
 <td>7</td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>6M073500</td>
 <td>Пищевая безопасность</td>
 <td>175</td>
 <td></td>
-<td></td>
-<td colspan="2">175</td>
+<td colspan="2"></td>
+<td colspan="4">175</td>
 </tr>
 <tr>
 <td>6M073600</td>
 <td>Безопасность непродовольственных товаров и изделий</td>
 <td>5</td>
 <td>5</td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>6M073700</td>
 <td>Обогащение полезных ископаемых</td>
-<td>15</td>
-<td>15</td>
-<td></td>
+<td>11</td>
+<td>11</td>
 <td colspan="2"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>6M073800</td>
 <td>Технология обработки материалов давлением</td>
-<td>15</td>
-<td>15</td>
-<td></td>
+<td>6</td>
+<td>6</td>
 <td colspan="2"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>6M073900</td>
 <td>Нефтехимия</td>
-<td>90</td>
-<td>25</td>
-<td></td>
-<td colspan="2">65</td>
+<td>81</td>
+<td>16</td>
+<td colspan="2"></td>
+<td colspan="4">65</td>
 </tr>
 <tr>
 <td>6M074000</td>
@@ -5748,7 +5529,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>55</td>
 <td></td>
 <td></td>
-<td colspan="2">55</td>
+<td colspan="5">55</td>
 </tr>
 <tr>
 <td>6M074100</td>
@@ -5756,7 +5537,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>17</td>
 <td>17</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M074400</td>
@@ -5764,15 +5545,15 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>8</td>
 <td>8</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M074500</td>
 <td>Транспортное строительство</td>
-<td>47</td>
+<td>33</td>
 <td>12</td>
 <td></td>
-<td colspan="2">35</td>
+<td colspan="5">21</td>
 </tr>
 <tr>
 <td>6M074600</td>
@@ -5780,7 +5561,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>109</td>
 <td>9</td>
 <td></td>
-<td colspan="2">100</td>
+<td colspan="5">100</td>
 </tr>
 <tr>
 <td>6M074700</td>
@@ -5788,15 +5569,15 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>10</td>
 <td>10</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M074800</td>
 <td>Технология фармацевтического производства</td>
-<td>10</td>
-<td>10</td>
+<td>9</td>
+<td>9</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M074900</td>
@@ -5804,7 +5585,15 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>5</td>
 <td>5</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td>6М075000</td>
+<td>Метрология</td>
+<td>13</td>
+<td>13</td>
+<td></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6М075200</td>
@@ -5812,197 +5601,179 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>5</td>
 <td>5</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M075300</td>
 <td>Химическая технология тугоплавких неметаллических и силикатных материалов</td>
-<td>85</td>
+<td>53</td>
 <td></td>
 <td></td>
-<td colspan="2">85</td>
-</tr>
-<tr>
-<td>6M075000</td>
-<td>Метрология</td>
-<td>10</td>
-<td>10</td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>6М075400</td>
-<td>Производство космических аппаратов</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="5">53</td>
 </tr>
 <tr>
 <td>6M075500</td>
 <td>Гидрогеология и инженерная геология</td>
-<td>8</td>
-<td>8</td>
+<td>5</td>
+<td>5</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
+<td colspan="2">Всего</td>
+<td>4237</td>
+<td>1157</td>
 <td></td>
-<td>Итого</td>
-<td>4243</td>
-<td>1138</td>
-<td>0</td>
-<td colspan="2">3105</td>
+<td colspan="5">3080</td>
 </tr>
 <tr>
-<td colspan="7">8. Сельскохозяйственные науки</td>
+<td colspan="10">8. Сельскохозяйственные науки</td>
 </tr>
 <tr>
 <td>6M080100</td>
 <td>Агрономия</td>
-<td>115</td>
-<td>10</td>
+<td>121</td>
+<td>15</td>
 <td></td>
-<td colspan="2">105</td>
+<td colspan="5">106</td>
 </tr>
 <tr>
 <td>6M080200</td>
 <td>Технология производства продуктов животноводства</td>
-<td>110</td>
-<td>10</td>
+<td>128</td>
+<td>13</td>
 <td></td>
-<td colspan="2">100</td>
+<td colspan="5">115</td>
 </tr>
 <tr>
 <td>6M080300</td>
 <td>Охотоведение и звероводство</td>
-<td>3</td>
-<td>3</td>
+<td>4</td>
+<td>4</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M080400</td>
 <td>Рыбное хозяйство и промышленное рыболовство</td>
-<td>2</td>
-<td>2</td>
+<td>4</td>
+<td>4</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M080500</td>
 <td>Водные ресурсы и водопользование</td>
-<td>15</td>
-<td>15</td>
+<td>18</td>
+<td>18</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M080600</td>
 <td>Аграрная техника и технология</td>
-<td>33</td>
-<td>3</td>
-<td></td>
-<td colspan="2">30</td>
+<td>39</td>
+<td>9</td>
+<td colspan="2"></td>
+<td colspan="4">30</td>
 </tr>
 <tr>
 <td>6M080700</td>
 <td>Лесные ресурсы и лесоводство</td>
-<td>5</td>
-<td>5</td>
-<td></td>
+<td>8</td>
+<td>8</td>
 <td colspan="2"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>6M080800</td>
 <td>Почвоведение и агрохимия</td>
-<td>130</td>
+<td>139</td>
 <td></td>
-<td></td>
-<td colspan="2">130</td>
+<td colspan="2"></td>
+<td colspan="4">139</td>
 </tr>
 <tr>
 <td>6M080900</td>
 <td>Плодоовощеводство</td>
-<td>33</td>
-<td>3</td>
-<td></td>
-<td colspan="2">30</td>
+<td>34</td>
+<td>4</td>
+<td colspan="2"></td>
+<td colspan="4">30</td>
 </tr>
 <tr>
 <td>6M081000</td>
 <td>Мелиорации, рекультивация и охрана земель</td>
-<td>3</td>
-<td>3</td>
-<td></td>
+<td>8</td>
+<td>8</td>
 <td colspan="2"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>6M081100</td>
 <td>Защита и карантин растений</td>
-<td>2</td>
-<td>2</td>
-<td></td>
+<td>7</td>
+<td>7</td>
 <td colspan="2"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td>Итого</td>
-<td>451</td>
-<td>56</td>
-<td>0</td>
-<td colspan="2">395</td>
+<td colspan="2">Всего</td>
+<td>510</td>
+<td>90</td>
+<td colspan="2"></td>
+<td colspan="4">420</td>
 </tr>
 <tr>
-<td colspan="7">9. Услуги</td>
+<td colspan="10">9. Услуги</td>
 </tr>
 <tr>
 <td>6M090100</td>
 <td>Организация перевозок, движения и эксплуатация транспорта</td>
-<td>25</td>
-<td>25</td>
+<td>26</td>
+<td>26</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M090200</td>
 <td>Туризм</td>
-<td>50</td>
-<td>50</td>
+<td>56</td>
+<td>56</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M090300</td>
 <td>Землеустройство</td>
-<td>15</td>
-<td>15</td>
+<td>17</td>
+<td>17</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M090500</td>
 <td>Социальная работа</td>
-<td>20</td>
-<td>20</td>
+<td>23</td>
+<td>23</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M090600</td>
 <td>Культурно-досуговая работа</td>
-<td>20</td>
-<td>20</td>
+<td>10</td>
+<td>10</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M090700</td>
 <td>Кадастр</td>
-<td>15</td>
-<td>15</td>
+<td>18</td>
+<td>18</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M090800</td>
@@ -6010,15 +5781,15 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>15</td>
 <td>15</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M090900</td>
 <td>Логистика (по отраслям)</td>
-<td>15</td>
-<td>15</td>
+<td>14</td>
+<td>14</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M091000</td>
@@ -6026,15 +5797,15 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>10</td>
 <td>10</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M091100</td>
 <td>Геоэкология и управление природопользованием</td>
-<td>15</td>
-<td>15</td>
+<td>20</td>
+<td>20</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>6M091200</td>
@@ -6042,85 +5813,84 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>10</td>
 <td>10</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
+<td colspan="2">Всего</td>
+<td>219</td>
+<td>219</td>
 <td></td>
-<td>Итого</td>
-<td>210</td>
-<td>210</td>
-<td>0</td>
-<td colspan="2">0</td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="7">10. Военное дело и безопасность</td>
+<td colspan="10">11. Военное дело и безопасность</td>
 </tr>
 <tr>
 <td>6M100200</td>
 <td>Системы информационной безопасности</td>
-<td>14</td>
-<td>14</td>
-<td></td>
-<td colspan="2"></td>
+<td>15</td>
+<td>15</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td></td>
-<td>Итого</td>
-<td>14</td>
-<td>14</td>
-<td>0</td>
-<td colspan="2">0</td>
+<td colspan="2">Всего</td>
+<td>15</td>
+<td>15</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="7">11. Ветеринария</td>
+<td colspan="10">12. Ветеринария</td>
 </tr>
 <tr>
 <td>6M120100</td>
 <td>Ветеринарная медицина</td>
-<td>100</td>
-<td>100</td>
-<td></td>
+<td>106</td>
+<td>106</td>
 <td colspan="2"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>6M120200</td>
 <td>Ветеринарная санитария</td>
-<td>10</td>
-<td>10</td>
+<td>12</td>
+<td>12</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
+<td colspan="2">Всего</td>
+<td>118</td>
+<td>118</td>
 <td></td>
-<td>Итого</td>
-<td>110</td>
-<td>110</td>
-<td>0</td>
-<td colspan="2">0</td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td></td>
-<td>Всего</td>
-<td>9524</td>
-<td>5524</td>
-<td>500</td>
-<td colspan="2">3500</td>
+<td colspan="2">Итого</td>
+<td>9504</td>
+<td>5904</td>
+<td>100</td>
+<td colspan="5">3500</td>
 </tr>
 </table>
 
 > *Приложение 4 к приказу*  
 > *исполняющего обязанности*  
-> *Министра образования*  
-> *и науки Республики Казахстан*  
-> *от 12 июля 2017 года № 328*
+> *Министра образования и науки*  
+> *Республики Казахстан*  
+> *от 12 июля 2017 года*  
+> *№ 328*
 
-# Государственный образовательный заказ на подготовку докторов PhD на 2017-2018 учебный год
+## Государственный образовательный заказ на подготовку докторов PhD на 2017-2018 учебный год
+
+> *Сноска. Приложение 4 в редакции приказа Министра образования и науки РК от 20.12.2017 № 631 (вводится в действие после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td>Код</td>
+<td>Код специальности</td>
 <td>Наименование специальности</td>
-<td>2017-2018</td>
+<td>Всего</td>
 </tr>
 <tr>
 <td colspan="3">1. Образование</td>
@@ -6128,27 +5898,27 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D010100</td>
 <td>Дошкольное обучение и воспитание</td>
-<td>5</td>
+<td>4</td>
 </tr>
 <tr>
 <td>6D010200</td>
 <td>Педагогика и методика начального обучения</td>
-<td>20</td>
+<td>23</td>
 </tr>
 <tr>
 <td>6D010300</td>
 <td>Педагогика и психология</td>
-<td>20</td>
+<td>32</td>
 </tr>
 <tr>
 <td>6D010500</td>
 <td>Дефектология</td>
-<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6D010700</td>
 <td>Изобразительное искусство и черчение</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>6D010800</td>
@@ -6173,7 +5943,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D011200</td>
 <td>Химия</td>
-<td>6</td>
+<td>2</td>
 </tr>
 <tr>
 <td>6D011300</td>
@@ -6183,17 +5953,17 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D011400</td>
 <td>История</td>
-<td>6</td>
+<td>7</td>
 </tr>
 <tr>
 <td>6D011600</td>
 <td>География</td>
-<td>3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6D011700</td>
 <td>Казахский язык и литература</td>
-<td>20</td>
+<td>19</td>
 </tr>
 <tr>
 <td>6D011800</td>
@@ -6208,17 +5978,16 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D012000</td>
 <td>Профессиональное обучение (по отраслям)</td>
-<td>6</td>
+<td>7</td>
 </tr>
 <tr>
 <td>6D012300</td>
 <td>Социальная педагогика и самопознание</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
-<td></td>
-<td>Итого</td>
-<td>161</td>
+<td colspan="2">Всего</td>
+<td>173</td>
 </tr>
 <tr>
 <td colspan="3">2. Гуманитарные науки</td>
@@ -6226,17 +5995,17 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D020100</td>
 <td>Философия</td>
-<td>10</td>
+<td>9</td>
 </tr>
 <tr>
 <td>6D020200</td>
 <td>Международные отношения</td>
-<td>10</td>
+<td>11</td>
 </tr>
 <tr>
 <td>6D020300</td>
 <td>История</td>
-<td>30</td>
+<td>34</td>
 </tr>
 <tr>
 <td>6D020400</td>
@@ -6246,32 +6015,32 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D020500</td>
 <td>Филология</td>
-<td>15</td>
+<td>21</td>
 </tr>
 <tr>
 <td>6D020600</td>
 <td>Религиоведение</td>
-<td>12</td>
+<td>13</td>
 </tr>
 <tr>
 <td>6D020700</td>
 <td>Переводческое дело</td>
-<td>10</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6D020800</td>
 <td>Археология и этнология</td>
-<td>15</td>
+<td>13</td>
 </tr>
 <tr>
 <td>6D020900</td>
 <td>Востоковедение</td>
-<td>15</td>
+<td>8</td>
 </tr>
 <tr>
 <td>6D021000</td>
 <td>Иностранная филология</td>
-<td>10</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6D021200</td>
@@ -6281,22 +6050,21 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D021300</td>
 <td>Лингвистика</td>
-<td>15</td>
+<td>19</td>
 </tr>
 <tr>
 <td>6D021400</td>
 <td>Литературоведение</td>
-<td>15</td>
+<td>16</td>
 </tr>
 <tr>
 <td>6D021500</td>
 <td>Исламоведение</td>
-<td>5</td>
+<td>6</td>
 </tr>
 <tr>
-<td></td>
-<td>Итого</td>
-<td>182</td>
+<td colspan="2">Всего</td>
+<td>194</td>
 </tr>
 <tr>
 <td colspan="3">3. Право</td>
@@ -6304,17 +6072,16 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D030100</td>
 <td>Юриспруденция</td>
-<td>15</td>
+<td>18</td>
 </tr>
 <tr>
 <td>6D030200</td>
 <td>Международное право</td>
-<td>6</td>
+<td>8</td>
 </tr>
 <tr>
-<td></td>
-<td>Итого</td>
-<td>21</td>
+<td colspan="2">Всего</td>
+<td>26</td>
 </tr>
 <tr>
 <td colspan="3">4. Искусство</td>
@@ -6325,8 +6092,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>2</td>
 </tr>
 <tr>
-<td></td>
-<td>Итого</td>
+<td colspan="2">Всего</td>
 <td>2</td>
 </tr>
 <tr>
@@ -6340,7 +6106,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D050200</td>
 <td>Политология</td>
-<td>9</td>
+<td>10</td>
 </tr>
 <tr>
 <td>6D050300</td>
@@ -6350,7 +6116,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D050400</td>
 <td>Журналистика</td>
-<td>10</td>
+<td>11</td>
 </tr>
 <tr>
 <td>6D050500</td>
@@ -6360,12 +6126,12 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D050600</td>
 <td>Экономика</td>
-<td>27</td>
+<td>35</td>
 </tr>
 <tr>
 <td>6D050700</td>
 <td>Менеджмент</td>
-<td>10</td>
+<td>13</td>
 </tr>
 <tr>
 <td>6D050800</td>
@@ -6375,7 +6141,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D050900</td>
 <td>Финансы</td>
-<td>10</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6D051000</td>
@@ -6395,12 +6161,12 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D051700</td>
 <td>Инновационный менеджмент</td>
-<td>11</td>
+<td>14</td>
 </tr>
 <tr>
 <td>6D051800</td>
 <td>Управление проектами</td>
-<td>12</td>
+<td>11</td>
 </tr>
 <tr>
 <td>6D052000</td>
@@ -6408,14 +6174,13 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>4</td>
 </tr>
 <tr>
-<td>6D052000</td>
+<td>6D052100</td>
 <td>Государственный аудит</td>
-<td>4</td>
+<td>5</td>
 </tr>
 <tr>
-<td></td>
-<td>Итого</td>
-<td>149</td>
+<td colspan="2">Всего</td>
+<td>167</td>
 </tr>
 <tr>
 <td colspan="3">6. Естественные науки</td>
@@ -6428,27 +6193,27 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D060200</td>
 <td>Информатика</td>
-<td>15</td>
+<td>14</td>
 </tr>
 <tr>
 <td>6D060300</td>
 <td>Механика</td>
-<td>16</td>
+<td>11</td>
 </tr>
 <tr>
 <td>6D060400</td>
 <td>Физика</td>
-<td>20</td>
+<td>17</td>
 </tr>
 <tr>
 <td>6D060500</td>
 <td>Ядерная физика</td>
-<td>15</td>
+<td>16</td>
 </tr>
 <tr>
 <td>6D060600</td>
 <td>Химия</td>
-<td>25</td>
+<td>24</td>
 </tr>
 <tr>
 <td>6D060700</td>
@@ -6458,7 +6223,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D060800</td>
 <td>Экология</td>
-<td>25</td>
+<td>24</td>
 </tr>
 <tr>
 <td>6D060900</td>
@@ -6468,7 +6233,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D061000</td>
 <td>Гидрология</td>
-<td>4</td>
+<td>3</td>
 </tr>
 <tr>
 <td>6D061100</td>
@@ -6481,9 +6246,8 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>2</td>
 </tr>
 <tr>
-<td></td>
-<td>Итого</td>
-<td>185</td>
+<td colspan="2">Всего</td>
+<td>174</td>
 </tr>
 <tr>
 <td colspan="3">7. Технические науки и технологии</td>
@@ -6491,12 +6255,12 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D070100</td>
 <td>Биотехнология (по отраслям и областям применения)</td>
-<td>20</td>
+<td>19</td>
 </tr>
 <tr>
 <td>6D070200</td>
 <td>Автоматизация и управление</td>
-<td>16</td>
+<td>18</td>
 </tr>
 <tr>
 <td>6D070300</td>
@@ -6506,7 +6270,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D070400</td>
 <td>Вычислительная техника и программное обеспечение</td>
-<td>25</td>
+<td>27</td>
 </tr>
 <tr>
 <td>6D070500</td>
@@ -6516,27 +6280,27 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D070600</td>
 <td>Геология и разведка месторождений полезных ископаемых</td>
-<td>18</td>
+<td>16</td>
 </tr>
 <tr>
 <td>6D070700</td>
 <td>Горное дело</td>
-<td>16</td>
+<td>14</td>
 </tr>
 <tr>
 <td>6D070800</td>
 <td>Нефтегазовое дело</td>
-<td>20</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6D070900</td>
 <td>Металлургия</td>
-<td>20</td>
+<td>17</td>
 </tr>
 <tr>
 <td>6D071000</td>
 <td>Материаловедение и технология новых материалов</td>
-<td>20</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6D071100</td>
@@ -6546,7 +6310,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D071200</td>
 <td>Машиностроение</td>
-<td>15</td>
+<td>13</td>
 </tr>
 <tr>
 <td>6D071300</td>
@@ -6554,24 +6318,29 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>8</td>
 </tr>
 <tr>
+<td>6D071400</td>
+<td>Авиационная техника и технологии</td>
+<td>1</td>
+</tr>
+<tr>
 <td>6D071600</td>
 <td>Приборостроение</td>
-<td>8</td>
+<td>3</td>
 </tr>
 <tr>
 <td>6D071700</td>
 <td>Теплоэнергетика</td>
-<td>8</td>
+<td>9</td>
 </tr>
 <tr>
 <td>6D071800</td>
 <td>Электроэнергетика</td>
-<td>20</td>
+<td>18</td>
 </tr>
 <tr>
 <td>6D071900</td>
 <td>Радиотехника, электроника и телекоммуникации</td>
-<td>16</td>
+<td>17</td>
 </tr>
 <tr>
 <td>6D072000</td>
@@ -6581,7 +6350,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D072100</td>
 <td>Химическая технология органических веществ</td>
-<td>15</td>
+<td>10</td>
 </tr>
 <tr>
 <td>6D072300</td>
@@ -6611,7 +6380,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D072900</td>
 <td>Строительство</td>
-<td>6</td>
+<td>7</td>
 </tr>
 <tr>
 <td>6D073000</td>
@@ -6626,7 +6395,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D073200</td>
 <td>Стандартизация и сертификация</td>
-<td>6</td>
+<td>9</td>
 </tr>
 <tr>
 <td>6D073300</td>
@@ -6646,12 +6415,12 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D073900</td>
 <td>Нефтехимия</td>
-<td>12</td>
+<td>4</td>
 </tr>
 <tr>
 <td>6D074000</td>
 <td>Наноматериалы и нанотехнологии (по областям применения)</td>
-<td>15</td>
+<td>7</td>
 </tr>
 <tr>
 <td>6D074400</td>
@@ -6666,7 +6435,7 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D074800</td>
 <td>Технология фармацевтического производства</td>
-<td>12</td>
+<td>10</td>
 </tr>
 <tr>
 <td>6D075100</td>
@@ -6674,14 +6443,13 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>10</td>
 </tr>
 <tr>
-<td>6D075200</td>
+<td>6D075500</td>
 <td>Гидрогеология и инженерная геология</td>
-<td>10</td>
+<td>3</td>
 </tr>
 <tr>
-<td></td>
-<td>Итого</td>
-<td>449</td>
+<td colspan="2">Всего</td>
+<td>384</td>
 </tr>
 <tr>
 <td colspan="3">8. Сельскохозяйственные науки</td>
@@ -6689,12 +6457,12 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D080100</td>
 <td>Агрономия</td>
-<td>8</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6D080200</td>
 <td>Технология производства продуктов животноводства</td>
-<td>8</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6D080500</td>
@@ -6704,12 +6472,12 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D080600</td>
 <td>Аграрная техника и технология</td>
-<td>4</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6D080700</td>
 <td>Лесные ресурсы и лесоводство</td>
-<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6D080800</td>
@@ -6724,22 +6492,21 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D081000</td>
 <td>Мелиорация, рекультивация и охрана земель</td>
-<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6D081100</td>
 <td>Защита и карантин растений</td>
-<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6D081200</td>
 <td>Энергообеспечение сельского хозяйства</td>
-<td>3</td>
+<td>5</td>
 </tr>
 <tr>
-<td></td>
-<td>Итого</td>
-<td>50</td>
+<td colspan="2">Всего</td>
+<td>65</td>
 </tr>
 <tr>
 <td colspan="3">9. Услуги</td>
@@ -6752,32 +6519,31 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <tr>
 <td>6D090200</td>
 <td>Туризм</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>6D090300</td>
 <td>Землеустройство</td>
-<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6D090500</td>
 <td>Социальная работа</td>
-<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>6D090700</td>
 <td>Кадастр</td>
-<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>6D090900</td>
 <td>Логистика (по отраслям)</td>
-<td>2</td>
+<td>3</td>
 </tr>
 <tr>
-<td></td>
-<td>Итого</td>
-<td>22</td>
+<td colspan="2">Всего</td>
+<td>25</td>
 </tr>
 <tr>
 <td colspan="3">10. Военное дело и безопасность</td>
@@ -6788,17 +6554,16 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>5</td>
 </tr>
 <tr>
-<td></td>
-<td>Итого</td>
+<td colspan="2">Всего</td>
 <td>5</td>
 </tr>
 <tr>
-<td colspan="3">11. Ветеринария</td>
+<td colspan="3">12. Ветеринария</td>
 </tr>
 <tr>
 <td>6D120100</td>
 <td>Ветеринарная медицина</td>
-<td>20</td>
+<td>21</td>
 </tr>
 <tr>
 <td>6D120200</td>
@@ -6806,13 +6571,11 @@ source: https://zan.gov.kz/client/#!/doc/113604/rus/12.07.2017
 <td>4</td>
 </tr>
 <tr>
-<td></td>
-<td>Итого</td>
-<td>24</td>
+<td colspan="2">Всего</td>
+<td>25</td>
 </tr>
 <tr>
-<td></td>
-<td>Всего</td>
-<td>1250</td>
+<td colspan="2">Итого</td>
+<td>1240</td>
 </tr>
 </table>
