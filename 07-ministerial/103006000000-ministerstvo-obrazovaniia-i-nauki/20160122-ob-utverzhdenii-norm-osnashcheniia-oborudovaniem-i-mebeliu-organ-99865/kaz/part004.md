@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/99865/kaz/03.07.2017
+source: https://zan.gov.kz/client/#!/doc/99865/kaz/29.12.2017
 ---
 
 ## Арнайы білім беру ұйымдарын құралдар мен жиһаздармен жабдықтаудың нормасы

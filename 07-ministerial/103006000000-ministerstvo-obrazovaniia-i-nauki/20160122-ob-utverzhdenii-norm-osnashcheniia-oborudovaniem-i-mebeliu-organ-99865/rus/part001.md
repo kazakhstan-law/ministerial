@@ -1,3462 +1,2963 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/99865/rus/03.07.2017
+source: https://zan.gov.kz/client/#!/doc/99865/rus/29.12.2017
 ---
 
-## Нормы оснащения оборудованием и мебелью организации начального образования
+## Нормы оснащения оборудованием и мебелью организаций дошкольного, среднего образования, а также специальных организаций образования
 
-> *Сноска. Раздел с изменением, внесенным приказом Министра образования и науки РК от 03.07.2017 № 317 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+## Нормы оснащения оборудованием и мебелью организации дошкольного образования
+
+> *Сноска. Раздел с изменением, внесенным приказом и.о. Министра образования и науки РК от 29.12.2017 № 662 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td colspan="6" rowspan="2">№</td>
-<td colspan="6" rowspan="2">Наименование</td>
-<td colspan="7" rowspan="2">Единица измерения</td>
-<td colspan="20">Минимальное количество на 1 кабинет по классам</td>
+<td>№</td>
+<td colspan="2">Наименование</td>
+<td colspan="2">Единица измерения</td>
+<td colspan="4">Ранняя группа (1-2года)</td>
+<td>1-я младшая группа (2-3года)</td>
+<td colspan="2">2-я младшая группа (3-4года)</td>
+<td colspan="3">Средняя группа (4-5 лет)</td>
+<td colspan="2">Старшая группа (5-6(7) лет)</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="7">2</th>
-<th colspan="9">3</th>
-<th colspan="3">4</th>
+<td colspan="17">Оборудование и мебель для групповой комнаты</td>
 </tr>
 <tr>
-<td colspan="39">Оборудование для учебных кабинетов</td>
-</tr>
-<tr>
-<td colspan="6"></td>
-<td colspan="33">предмет «Английский язык»</td>
-</tr>
-<tr>
-<td colspan="6">1</td>
-<td colspan="6">Азбука</td>
-<td colspan="7">штука</td>
 <td>1</td>
-<td colspan="7">1</td>
-<td colspan="9">1</td>
-<td colspan="3">1</td>
+<td>Дидактические игрушки, для развития мелкой моторики рук</td>
+<td colspan="3">набор</td>
+<td colspan="4">5</td>
+<td>5</td>
+<td colspan="2">5</td>
+<td colspan="3">5</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
-<td colspan="6">2</td>
-<td colspan="6">Алфавит</td>
-<td colspan="7">штука</td>
-<td>1</td>
-<td colspan="7">1</td>
-<td colspan="9">1</td>
-<td colspan="3">1</td>
+<td>2</td>
+<td>Дидактические игрушки</td>
+<td colspan="3">набор</td>
+<td colspan="4">3</td>
+<td>3</td>
+<td colspan="2">6</td>
+<td colspan="3">6</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
-<td colspan="6">3</td>
-<td colspan="6">Касса букв</td>
-<td colspan="7">комплект</td>
-<td>1</td>
-<td colspan="7">1</td>
-<td colspan="9"></td>
+<td>3</td>
+<td>Мозаика</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">6</td>
+<td colspan="3">6</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Матрешка</td>
+<td colspan="3">штука</td>
+<td colspan="4">5</td>
+<td>5</td>
+<td colspan="2"></td>
 <td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="6">4</td>
-<td colspan="6">Плакаты по грамматике</td>
-<td colspan="7">комплект</td>
+<td>5</td>
+<td>Погремушка</td>
+<td colspan="3">штука</td>
+<td colspan="4">10</td>
 <td></td>
-<td colspan="7">1</td>
-<td colspan="9">1</td>
-<td colspan="3">1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="6">5</td>
-<td colspan="6">Словари</td>
-<td colspan="7">комплект</td>
-<td></td>
-<td colspan="7">1</td>
-<td colspan="9">1</td>
-<td colspan="3">1</td>
+<td>6</td>
+<td>Пирамидка</td>
+<td colspan="3">штука</td>
+<td colspan="4">2</td>
+<td>2</td>
+<td colspan="2">2</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="6">6</td>
-<td colspan="6">Альбомы</td>
-<td colspan="7">комплект</td>
+<td>7</td>
+<td>Ведерко</td>
+<td colspan="3">штука</td>
+<td colspan="4">5</td>
+<td>5</td>
+<td colspan="2">5</td>
+<td colspan="3">5</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Строительный набор малый</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td>2</td>
+<td colspan="2">4</td>
+<td colspan="3">4</td>
+<td colspan="2">4</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Строительный набор большой</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
 <td>1</td>
-<td colspan="7">1</td>
-<td colspan="9">1</td>
-<td colspan="3">1</td>
+<td colspan="2">2</td>
+<td colspan="3">2</td>
+<td colspan="2">2</td>
 </tr>
 <tr>
-<td colspan="6">7</td>
-<td colspan="6">Литература для чтения</td>
-<td colspan="7">комплект</td>
-<td></td>
-<td colspan="7">1</td>
-<td colspan="9">1</td>
-<td colspan="3">1</td>
+<td>10</td>
+<td>Конструктор с пластмассовыми и деревянными деталями</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td>2</td>
+<td colspan="2">4</td>
+<td colspan="3">4</td>
+<td colspan="2">4</td>
 </tr>
 <tr>
-<td colspan="39">предмет «Математика»</td>
+<td>11</td>
+<td>Конструктор с металлическими деталями</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td>10</td>
+<td colspan="2">10</td>
+<td colspan="3">10</td>
+<td colspan="2">10</td>
 </tr>
 <tr>
-<td colspan="8">8</td>
-<td colspan="4">Чертежные инструменты</td>
-<td colspan="7">набор</td>
+<td>12</td>
+<td>Комплект музыкальных и звуковых игрушек</td>
+<td colspan="3">комплект</td>
+<td colspan="4">1</td>
 <td>1</td>
-<td colspan="7">1</td>
-<td colspan="9">1</td>
+<td colspan="2">1</td>
 <td colspan="3">1</td>
+<td colspan="2">1</td>
 </tr>
 <tr>
-<td colspan="8">9</td>
-<td colspan="4">Счеты демонстрационные</td>
-<td colspan="7">штука</td>
-<td>1</td>
-<td colspan="7">1</td>
-<td colspan="9">1</td>
-<td colspan="3">1</td>
-</tr>
-<tr>
-<td colspan="8">10</td>
-<td colspan="4">Объёмные геометрические фигуры</td>
-<td colspan="7">набор</td>
-<td>1</td>
-<td colspan="7">1</td>
-<td colspan="9">1</td>
-<td colspan="3">1</td>
-</tr>
-<tr>
-<td colspan="8">11</td>
-<td colspan="4">Плоскостные геометрические фигуры</td>
-<td colspan="7">набор</td>
-<td></td>
-<td colspan="7">1</td>
-<td colspan="9">1</td>
-<td colspan="3">1</td>
-</tr>
-<tr>
-<td colspan="8">12</td>
-<td colspan="4">Демонстрационные обучающие часы</td>
-<td colspan="7">штука</td>
-<td>1</td>
-<td colspan="7">1</td>
-<td colspan="9">1</td>
-<td colspan="3">1</td>
-</tr>
-<tr>
-<td colspan="8">13</td>
-<td colspan="4">Демонстрационный набор предметов</td>
-<td colspan="7">комплект</td>
-<td>1</td>
-<td colspan="7">1</td>
-<td colspan="9">1</td>
-<td colspan="3">1</td>
-</tr>
-<tr>
-<td colspan="8">14</td>
-<td colspan="4">Калькулятор</td>
-<td colspan="7">штука</td>
-<td>1</td>
-<td colspan="7">1</td>
-<td colspan="9">1</td>
-<td colspan="3">1</td>
-</tr>
-<tr>
-<td colspan="8">15</td>
-<td colspan="4">Счётный набор магнитный</td>
-<td colspan="7">штука</td>
-<td>1</td>
-<td colspan="7">1</td>
-<td colspan="9">1</td>
-<td colspan="3">1</td>
-</tr>
-<tr>
-<td colspan="8">16</td>
-<td colspan="4">Весы демонстрационные рычажные</td>
-<td colspan="7">штука</td>
-<td></td>
-<td colspan="7"></td>
-<td colspan="9">1</td>
-<td colspan="3">1</td>
-</tr>
-<tr>
-<td colspan="8">17</td>
-<td colspan="4">Набор ёмкостей и геометрических тел</td>
-<td colspan="7">набор</td>
-<td></td>
-<td colspan="7"></td>
-<td colspan="9">1</td>
-<td colspan="3">1</td>
-</tr>
-<tr>
-<td colspan="8">18</td>
-<td colspan="4">Набор пластин целого и частей круга</td>
-<td colspan="7">набор</td>
-<td></td>
-<td colspan="7">1</td>
-<td colspan="9">1</td>
-<td colspan="3">1</td>
-</tr>
-<tr>
-<td colspan="8">19</td>
-<td colspan="4">Часы учебные</td>
-<td colspan="7">штука</td>
 <td>13</td>
-<td colspan="7">13</td>
-<td colspan="9">13</td>
-<td colspan="3">13</td>
+<td>Разрезные картинки</td>
+<td colspan="3">набор</td>
+<td colspan="4">1</td>
+<td>2</td>
+<td colspan="2">4</td>
+<td colspan="3">4</td>
+<td colspan="2">4</td>
 </tr>
 <tr>
-<td colspan="8">20</td>
-<td colspan="4">Касса цифр и счётного материала</td>
-<td colspan="7">штука</td>
+<td>14</td>
+<td>Музыкальные национальные инструменты</td>
+<td colspan="3">комплект</td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td colspan="2">1</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Игрушка «Транспорт»</td>
+<td colspan="3">штука</td>
+<td colspan="4">5</td>
+<td>10</td>
+<td colspan="2">10</td>
+<td colspan="3">10</td>
+<td colspan="2">10</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Мебель игрушечная</td>
+<td colspan="3">набор</td>
+<td colspan="4">2</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="3">3</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Посуда детская</td>
+<td colspan="3">набор</td>
+<td colspan="4">2</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="3">3</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Лото разной тематики</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td>10</td>
+<td colspan="2">10</td>
+<td colspan="3">10</td>
+<td colspan="2">10</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Пазлы</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td>10</td>
+<td colspan="2">10</td>
+<td colspan="3">10</td>
+<td colspan="2">10</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Муляжи овощей и фруктов</td>
+<td colspan="3">набор</td>
+<td colspan="4">2</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="3">3</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Куклы с сезонной одеждой</td>
+<td colspan="3">набор</td>
+<td colspan="4">2</td>
+<td>3</td>
+<td colspan="2">3</td>
+<td colspan="3">3</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Ширма для кукольного театра</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td colspan="2">1</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Куклы для настольного театра</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td>3</td>
+<td colspan="2">3</td>
+<td colspan="3">3</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Куклы для теневого театра</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td colspan="2">1</td>
+</tr>
+<tr>
 <td>25</td>
-<td colspan="7">25</td>
-<td colspan="9"></td>
+<td>Куклы для пальчикового театра</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td>3</td>
+<td colspan="2">3</td>
+<td colspan="3">3</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Фланелеграф</td>
+<td colspan="3">штука</td>
+<td colspan="4">1</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td colspan="2">1</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Стол компьютерный</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td colspan="2">1</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Стул полумягкий</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td colspan="2">1</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Полка для книг</td>
+<td colspan="3">штука</td>
+<td colspan="4">1</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td colspan="2">1</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Стол рабочий на 4 детей</td>
+<td colspan="3">штука</td>
+<td colspan="4">3</td>
+<td>5</td>
+<td colspan="2">7</td>
+<td colspan="3">7</td>
+<td colspan="2">7</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Стол для дидактических занятий</td>
+<td colspan="3">штука</td>
+<td colspan="4">1</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td colspan="2">1</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Стул детский</td>
+<td colspan="3">штука</td>
+<td colspan="4">12</td>
+<td>20</td>
+<td colspan="2">28</td>
+<td colspan="3">28</td>
+<td colspan="2">28</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Стенка для игрушек</td>
+<td colspan="3">штука</td>
+<td colspan="4">1</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td colspan="2">1</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Мебель для игрушек</td>
+<td colspan="3">штука</td>
+<td colspan="4">1</td>
+<td>2</td>
+<td colspan="2">2</td>
+<td colspan="3">2</td>
+<td colspan="2">2</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Шкаф для учебно-методической литературы</td>
+<td colspan="3">штука</td>
+<td colspan="4">1</td>
+<td>2</td>
+<td colspan="2">2</td>
+<td colspan="3">2</td>
+<td colspan="2">2</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Доска маркерная</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td colspan="2">1</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Персональный компьютер (системный блок, монитор, клавиатура, оптическая мышь), комплектующие устройства (микрофонно-телефонная гарнитура, акустическая система, сетевой фильтр, многофункциональное устройство)</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td colspan="2">1</td>
+</tr>
+<tr>
+<td colspan="17">Рекомендуемое оборудование и мебель</td>
+</tr>
+<tr>
+<td>38</td>
+<td colspan="2">Шашки</td>
+<td colspan="3">набор</td>
 <td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="8">21</td>
-<td colspan="4">Набор счётного материала</td>
-<td colspan="7">набор</td>
-<td>25</td>
-<td colspan="7">25</td>
-<td colspan="9"></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
+<td colspan="2">5</td>
 </tr>
 <tr>
-<td colspan="8">22</td>
-<td colspan="4">Лента один метр</td>
-<td colspan="7">штука</td>
+<td>39</td>
+<td colspan="2">Шахматы</td>
+<td colspan="3">набор</td>
+<td colspan="3"></td>
 <td></td>
-<td colspan="7">13</td>
-<td colspan="9">13</td>
-<td colspan="3">13</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">5</td>
 </tr>
 <tr>
-<td colspan="8">23</td>
-<td colspan="4">Набор геометрических фигур</td>
-<td colspan="7">набор</td>
-<td></td>
-<td colspan="7">13</td>
-<td colspan="9">13</td>
-<td colspan="3">13</td>
+<td>40</td>
+<td colspan="2">Домино детское</td>
+<td colspan="3">набор</td>
+<td colspan="3">1</td>
+<td>10</td>
+<td colspan="2">10</td>
+<td colspan="3">10</td>
+<td colspan="2">10</td>
 </tr>
 <tr>
-<td colspan="8">24</td>
-<td colspan="4">Счётная змейка до 100</td>
-<td colspan="7">штука</td>
-<td></td>
-<td colspan="7">25</td>
-<td colspan="9">25</td>
+<td>41</td>
+<td colspan="2">Весы игрушечные</td>
+<td colspan="3">штука</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td colspan="2">1</td>
+</tr>
+<tr>
+<td>42</td>
+<td colspan="2">Куклы в национальной одежде</td>
+<td colspan="3">набор</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td colspan="2">1</td>
+</tr>
+<tr>
+<td>43</td>
+<td colspan="2">Куклы говорящие и поющие</td>
+<td colspan="3">штука</td>
+<td colspan="3"></td>
+<td>5</td>
+<td colspan="2">5</td>
+<td colspan="3">5</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
+<td>44</td>
+<td colspan="2">Куклы-марионетки</td>
+<td colspan="3">набор</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td colspan="2">1</td>
+</tr>
+<tr>
+<td>45</td>
+<td colspan="3">Надувные и забавные игрушки</td>
+<td colspan="2">набор</td>
+<td colspan="3">1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td>46</td>
+<td colspan="3">Сюжетно-ролевые игры</td>
+<td colspan="2">набор</td>
+<td colspan="3">1</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td colspan="2">6</td>
+<td colspan="3">7</td>
+</tr>
+<tr>
+<td>47</td>
+<td colspan="3">Куклы</td>
+<td colspan="2">набор</td>
+<td colspan="3">1</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>48</td>
+<td colspan="3">Постельные принадлежности для кукол</td>
+<td colspan="2">набор</td>
+<td colspan="3">2</td>
+<td>2</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>49</td>
+<td colspan="3">Игра «Садоводы-огородники»</td>
+<td colspan="2">набор</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>50</td>
+<td colspan="3">Игра «Исследователи»</td>
+<td colspan="2">набор</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>51</td>
+<td colspan="3">Игра «Дизайнерская студия»</td>
+<td colspan="2">набор</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>52</td>
+<td colspan="3">Игра «Маленькая хозяйка»</td>
+<td colspan="2">набор</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>53</td>
+<td colspan="3">Игра «Умелые руки»</td>
+<td colspan="2">набор</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>54</td>
+<td colspan="3">Стеллаж для учебной и методической литературы</td>
+<td colspan="2">штука</td>
+<td colspan="3">1</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>55</td>
+<td colspan="3">Доска для объявлений</td>
+<td colspan="2">штука</td>
+<td colspan="3">1</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>56</td>
+<td colspan="3">Web-камера</td>
+<td colspan="2">штука</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>57</td>
+<td colspan="3">Интерактивная доска</td>
+<td colspan="2">штука</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>58</td>
+<td colspan="3">Проектор</td>
+<td colspan="2">штука</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>59</td>
+<td colspan="3">Интерактивный планшет</td>
+<td colspan="2">штука</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>60</td>
+<td colspan="3">Интерактивная указка</td>
+<td colspan="2">штука</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>61</td>
+<td colspan="3">Интерактивная система тестирования</td>
+<td colspan="2">штука</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>62</td>
+<td colspan="3">Видеокамера</td>
+<td colspan="2">штука</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>63</td>
+<td colspan="3">Фотоаппарат</td>
+<td colspan="2">штука</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>64</td>
+<td colspan="3">Интегрированная рабочая среда</td>
+<td colspan="2">штука</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>65</td>
+<td colspan="3">Декодер</td>
+<td colspan="2">штука</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>66</td>
+<td colspan="3">Интерактивный стол</td>
+<td colspan="2">штука</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>67</td>
+<td colspan="3">Подвижная подставка для интерактивной доски</td>
+<td colspan="2">штука</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>68</td>
+<td colspan="3">Мультимедийное пособие</td>
+<td colspan="2">комплект</td>
+<td colspan="3"></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td colspan="18">Оборудование для изобразительной деятельности</td>
+</tr>
+<tr>
+<td>69</td>
+<td colspan="3">Альбом для рисования</td>
+<td>штука</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
 <td colspan="3">25</td>
-</tr>
-<tr>
-<td colspan="8">25</td>
-<td colspan="4">Плакат «Таблица умножения»</td>
-<td colspan="7">штука</td>
-<td></td>
-<td colspan="7">1</td>
-<td colspan="9">1</td>
-<td colspan="3">1</td>
-</tr>
-<tr>
-<td colspan="39">предмет «Познание мира»</td>
-</tr>
-<tr>
-<td colspan="8">26</td>
-<td colspan="4">Глобус</td>
-<td colspan="7">штука</td>
-<td colspan="4">1</td>
-<td colspan="8">1</td>
-<td colspan="7">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="8">27</td>
-<td colspan="4">Компас</td>
-<td colspan="7">штука</td>
-<td colspan="4">25</td>
-<td colspan="8">25</td>
-<td colspan="7">25</td>
 <td>25</td>
 </tr>
 <tr>
-<td colspan="8">28</td>
-<td colspan="4">Набор лабораторный «Наблюдение за погодой»</td>
-<td colspan="7">штука</td>
-<td colspan="20">1</td>
-</tr>
-<tr>
-<td colspan="8">29</td>
-<td colspan="4">Карта физическая</td>
-<td colspan="7">штука</td>
-<td colspan="4">1</td>
-<td colspan="8">1</td>
-<td colspan="6">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="8">30</td>
-<td colspan="4">Карта мира политическая</td>
-<td colspan="7">штука</td>
+<td>70</td>
+<td colspan="3">Набор акварельных красок</td>
+<td>набор</td>
 <td colspan="4"></td>
-<td colspan="8"></td>
-<td colspan="6">1</td>
-<td colspan="2">1</td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
 </tr>
 <tr>
-<td colspan="8">31</td>
-<td colspan="4">Карта древнего мира</td>
-<td colspan="7">штука</td>
+<td>71</td>
+<td colspan="3">Кисть акварельная</td>
+<td>штука</td>
 <td colspan="4"></td>
-<td colspan="8"></td>
-<td colspan="6">1</td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>72</td>
+<td colspan="3">Цветные карандаши</td>
+<td>набор</td>
+<td colspan="4">10</td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>73</td>
+<td colspan="3">Стакан для кистей</td>
+<td>штука</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>74</td>
+<td colspan="3">Салфетка тряпочная</td>
+<td>штука</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>75</td>
+<td colspan="3">Набор для изобразительной дятельности</td>
+<td>набор</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="3">2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>76</td>
+<td colspan="3">Карандаш чёрный графитный</td>
+<td>штука</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>77</td>
+<td colspan="3">Набор гуашевых красок</td>
+<td>набор</td>
+<td colspan="4"></td>
+<td colspan="2">10</td>
+<td colspan="2">10</td>
+<td colspan="3">10</td>
+<td>10</td>
+</tr>
+<tr>
+<td>78</td>
+<td colspan="3">Подставка под кисть</td>
+<td>штука</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>79</td>
+<td colspan="3">Стакан для карандашей</td>
+<td>штука</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>80</td>
+<td colspan="3">Посуда для смешивания красок</td>
+<td>штука</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>81</td>
+<td colspan="3">Стенд для детских работ</td>
+<td>штука</td>
+<td colspan="4"></td>
 <td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="3">2</td>
+<td>2</td>
 </tr>
 <tr>
-<td colspan="8">32</td>
-<td colspan="4">
-Демонстрационное
-и лабораторное оборудование
-</td>
-<td colspan="7">комплект</td>
-<td colspan="20">1</td>
+<td>82</td>
+<td colspan="3">Мольберт</td>
+<td>штука</td>
+<td colspan="4"></td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="3">2</td>
+<td>2</td>
 </tr>
 <tr>
-<td colspan="39">предмет «Самопознание»</td>
+<td>83</td>
+<td colspan="3">Цветная бумага и картон</td>
+<td>набор</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
 </tr>
 <tr>
-<td colspan="8">33</td>
-<td colspan="4">Словарь терминов по самопознанию</td>
-<td colspan="7">штука</td>
-<td colspan="3">1</td>
-<td colspan="8">1</td>
-<td colspan="7">1</td>
+<td>84</td>
+<td colspan="3">Доска для лепки</td>
+<td>штука</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>85</td>
+<td colspan="3">Клей-карандаш</td>
+<td>штука</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>86</td>
+<td colspan="3">Ножницы детские</td>
+<td>штука</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>87</td>
+<td colspan="3">Пластилин</td>
+<td>набор</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>88</td>
+<td colspan="3">Стеки</td>
+<td>штука</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>89</td>
+<td colspan="3">Глина для лепки</td>
+<td>набор</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>90</td>
+<td colspan="3">Набор для лепки и аппликации</td>
+<td>штука</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>91</td>
+<td colspan="3">Стенд для детских работ</td>
+<td>штука</td>
+<td colspan="4"></td>
 <td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="8">34</td>
-<td colspan="4">Плакаты с цитатами великих людей</td>
-<td colspan="7">комплект</td>
-<td colspan="3">1</td>
-<td colspan="8">1</td>
-<td colspan="7">1</td>
 <td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="8">35</td>
-<td colspan="4">Раздаточный материал для творческой и проектной деятельности</td>
-<td colspan="7">комплект</td>
-<td colspan="3">13</td>
-<td colspan="8">13</td>
-<td colspan="7">13</td>
-<td colspan="2">13</td>
-</tr>
-<tr>
-<td colspan="39">предмет «Музыка»</td>
-</tr>
-<tr>
-<td colspan="8">36</td>
-<td colspan="4">Пианино</td>
-<td colspan="7">штука</td>
-<td colspan="20">1</td>
-</tr>
-<tr>
-<td colspan="8">37</td>
-<td colspan="4">Музыкальные инструменты</td>
-<td colspan="7">набор</td>
-<td colspan="20">1</td>
-</tr>
-<tr>
-<td colspan="8">38</td>
-<td colspan="4">Национальные музыкальные инструменты</td>
-<td colspan="7">набор</td>
-<td colspan="20">1</td>
-</tr>
-<tr>
-<td colspan="39">предмет «Изобразительное искусство»</td>
-</tr>
-<tr>
-<td colspan="8">39</td>
-<td colspan="4">Плакаты «Золотой человек и артефакты, найденные вместе с ним»</td>
-<td colspan="7">комплект</td>
-<td>1</td>
-<td colspan="9">1</td>
-<td colspan="7">1</td>
 <td colspan="3">1</td>
-</tr>
-<tr>
-<td colspan="8">40</td>
-<td colspan="4">Иллюстрации художников</td>
-<td colspan="7">комплект</td>
 <td>1</td>
-<td colspan="9">1</td>
-<td colspan="7">1</td>
-<td colspan="3">1</td>
 </tr>
 <tr>
-<td colspan="8">41</td>
-<td colspan="4">Плакаты «Казахские национальные узоры»</td>
-<td colspan="7">комплект</td>
+<td>92</td>
+<td colspan="3">Cалфетка тканевая</td>
+<td>набор</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>93</td>
+<td colspan="3">Трафарет</td>
+<td>штука</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td colspan="18">Оборудование для конструирования и ручного труда</td>
+</tr>
+<tr>
+<td>94</td>
+<td>Строительный набор</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="3">2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>95</td>
+<td>Набор цветной бумаги и картона</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>95-1</td>
+<td>Стартовый набор для развития навыков программирования, содержащий игровое поле, программируемую робот-игрушку, карточки с заданиями и методическое пособие</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="3">2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>95-2</td>
+<td>Базовый набор для развития навыков программирования, содержащий доску и блоки кодирования, моторы, датчики, электронные и конструкционные элементы и методическое пособие</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="3">4</td>
+<td>4</td>
+</tr>
+<tr>
+<td>95-3</td>
+<td>Робототехнический набор для детей дошкольного возраста, содержащий конструкционные элементы, микроконтроллер, датчики, картридер и методическое пособие</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="3">4</td>
+<td>4</td>
+</tr>
+<tr>
+<td>95-4</td>
+<td>Робототехнический набор для детей дошкольного возраста, содержащий конструкционные элементы, микроконтроллер, датчики и методическое пособие</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
 <td>1</td>
-<td colspan="9">1</td>
-<td colspan="7">1</td>
-<td colspan="3">1</td>
 </tr>
 <tr>
-<td colspan="8">42</td>
-<td colspan="4">Для изобразительного творчества, моделирования</td>
-<td colspan="7">комплект</td>
+<td>95-5</td>
+<td>Конструкторский набор для исследовательской деятельности группы детей дошкольного возраста в области естественных наук, технологий, искусства, конструирования и математики, содержащий конструкционные элементы, технологические карты и методическое пособие</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
 <td>1</td>
-<td colspan="9">1</td>
-<td colspan="7">1</td>
+</tr>
+<tr>
+<td>95-6</td>
+<td>Набор конструкторский для творческого и познавательного развития, содержащий конструкционные элементы, фигурки, объекты, технологические карты и методическое пособие</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="3">4</td>
+<td>4</td>
+</tr>
+<tr>
+<td>95-7</td>
+<td>Набор конструкторский для раннего математического развития, содержащий конструкционные элементы, фигурки, объекты, технологические карты и методическое пособие</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="3">3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>95-8</td>
+<td>Набор конструкторский для раннего математического развития, содержащий геометрические фигуры, для 2-х и 3-х мерного моделирования и методическое пособие</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="3">1</td>
-</tr>
-<tr>
-<td colspan="8">43</td>
-<td colspan="4">Набор для изобразительного творчества</td>
-<td colspan="7">набор</td>
-<td>13</td>
-<td colspan="9">13</td>
-<td colspan="7">13</td>
-<td colspan="3">13</td>
-</tr>
-<tr>
-<td colspan="8">44</td>
-<td colspan="4">Индивидуальные средства защиты</td>
-<td colspan="7">набор</td>
-<td>13</td>
-<td colspan="9">13</td>
-<td colspan="7">13</td>
-<td colspan="3">13</td>
-</tr>
-<tr>
-<td colspan="8">45</td>
-<td colspan="4">Гипсовые формы</td>
-<td colspan="7">набор</td>
 <td>1</td>
-<td colspan="9">1</td>
-<td colspan="7">1</td>
-<td colspan="3">1</td>
 </tr>
 <tr>
-<td colspan="8">46</td>
-<td colspan="4">Набор для хранения материалов</td>
-<td colspan="7">набор</td>
+<td>95-9</td>
+<td>Набор конструкторский для подготовки детей к игре с роботами, содержащий геометрические фигуры, конструкционные элементы и методическое пособие</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
 <td>1</td>
-<td colspan="9">1</td>
-<td colspan="7">1</td>
-<td colspan="3">1</td>
 </tr>
 <tr>
-<td colspan="8">47</td>
-<td colspan="4">Глина, пластилин</td>
-<td colspan="7">комплект</td>
-<td>1</td>
-<td colspan="9">1</td>
-<td colspan="7">1</td>
-<td colspan="3">1</td>
+<td colspan="17">Рекомендуемое оборудование для конструирования и ручного труда</td>
 </tr>
 <tr>
-<td colspan="8">48</td>
-<td colspan="4">Мольберт</td>
-<td colspan="7">штука</td>
-<td></td>
-<td colspan="9"></td>
-<td colspan="7">1</td>
+<td>96</td>
+<td>Набор для шитья</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>97</td>
+<td>Набор бусин и бисера</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2">15</td>
+<td colspan="3">15</td>
+<td>15</td>
+</tr>
+<tr>
+<td>98</td>
+<td>Модульный станок для обработки материалов</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
+<td>3</td>
 </tr>
 <tr>
-<td colspan="8">49</td>
-<td colspan="4">Комплект национальных игрушек</td>
-<td colspan="7">комплект</td>
+<td colspan="17">Серии картин и детская художественная литература</td>
+</tr>
+<tr>
+<td>99</td>
+<td>Времена года</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
 <td>1</td>
-<td colspan="9"></td>
-<td colspan="7"></td>
+</tr>
+<tr>
+<td>100</td>
+<td>Растения и животные</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>101</td>
+<td>Транспорт</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>102</td>
+<td>Кем быть?</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>103</td>
+<td>Мой Казахстан</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>104</td>
+<td>Государственные символы</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>105</td>
+<td>Основы безопасности жизнедеятельности</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>106</td>
+<td>Национальные костюмы, предметы быта</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>107</td>
+<td>Птицы</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>108</td>
+<td>Домашние и дикие животные</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>109</td>
+<td>Простые сюжеты</td>
+<td colspan="3">набор</td>
+<td colspan="4">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>110</td>
+<td>Правила дорожного движения</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>111</td>
+<td>Картинный словарь по развитию речи</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>112</td>
+<td>Детская художественная литература</td>
+<td colspan="3">комплект</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>113</td>
+<td>Художественная литература казахстанских авторов</td>
+<td colspan="3">комплект</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>114</td>
+<td>Хрестоматия по художественной литературе</td>
+<td colspan="3">штука</td>
+<td colspan="4">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="17">Рекомендуемая серия картин</td>
+</tr>
+<tr>
+<th>115</th>
+<th>Предметные картинки</th>
+<th colspan="3">набор</th>
+<th colspan="4">1</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th>4</th>
+</tr>
+<tr>
+<td>116</td>
+<td>Портреты поэтов, писателей, акынов, композиторов Казахстана</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>117</td>
+<td>Портреты космонавтов</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="17">Оборудование для формирования элементарных математических представлений</td>
+</tr>
+<tr>
+<td>118</td>
+<td>Геометрические фигуры</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="3">4</td>
+<td>4</td>
+</tr>
+<tr>
+<td>119</td>
+<td>Картинки с изображением предметов разной формы</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>120</td>
+<td>Набор плоскостных геометрических фигур</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>121</td>
+<td>Касса цифр</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td colspan="2">10</td>
+<td colspan="2">10</td>
+<td colspan="3">10</td>
+<td>10</td>
+</tr>
+<tr>
+<td>122</td>
+<td>Счетный материал</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">10</td>
+<td colspan="2">10</td>
+<td colspan="3">10</td>
+<td>10</td>
+</tr>
+<tr>
+<td>123</td>
+<td>Карточки с числами от 1 до 10</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>124</td>
+<td>Счетная змейка до 10</td>
+<td colspan="3">штука</td>
+<td colspan="4">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>125</td>
+<td>Счетные палочки</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>126</td>
+<td>Демонстрационные часы с циферблатом</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="8">50</td>
-<td colspan="4">Комплект предметов казахского народного творчества</td>
-<td colspan="7">комплект</td>
-<td></td>
-<td colspan="9">1</td>
-<td colspan="7"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="39">предмет «Трудовое обучение»</td>
-</tr>
-<tr>
-<td colspan="8">51</td>
-<td colspan="3">Инструменты для обработки бумаги и картона</td>
-<td colspan="8">комплект</td>
 <td>1</td>
-<td colspan="9">1</td>
-<td colspan="6">1</td>
-<td colspan="4">1</td>
 </tr>
 <tr>
-<td colspan="8">52</td>
-<td colspan="3">Инструменты для обработки ткани</td>
-<td colspan="8">комплект</td>
+<td colspan="18">Рекомендуемое оборудование</td>
+</tr>
+<tr>
+<td>127</td>
+<td>Геометрические фигуры</td>
+<td colspan="3">набор</td>
+<td colspan="4"></td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="3">2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>128</td>
+<td>Песочные часы</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
 <td>1</td>
-<td colspan="9">1</td>
-<td colspan="6">1</td>
-<td colspan="4">1</td>
 </tr>
 <tr>
-<td colspan="8">52</td>
-<td colspan="3">Инструменты для технического моделирования и обработки материалов</td>
-<td colspan="8">комплект</td>
+<td>129</td>
+<td>Секундомер</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
 <td>1</td>
-<td colspan="9">1</td>
-<td colspan="6">1</td>
-<td colspan="4">1</td>
 </tr>
 <tr>
-<td colspan="8">53</td>
-<td colspan="3">Набор для лепки из пластилина</td>
-<td colspan="8">набор</td>
+<td>130</td>
+<td>Коврик игровой для изучения чисел</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="3">2</td>
+<td>2</td>
+</tr>
+<tr>
+<td colspan="17">Оборудование для уголка природы</td>
+</tr>
+<tr>
+<td>131</td>
+<td>Комнатные растения</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td colspan="2">4</td>
+<td colspan="2">6</td>
+<td colspan="3">6</td>
+<td>8</td>
+</tr>
+<tr>
+<td>132</td>
+<td>Стеллаж</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>133</td>
+<td>Инвентарь</td>
+<td colspan="3">комплект</td>
+<td colspan="4"></td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="3">3</td>
+<td>3</td>
+</tr>
+<tr>
+<td colspan="17">Рекомендуемое оборудование для уголка природы</td>
+</tr>
+<tr>
+<td>134</td>
+<td>Аквариум</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>135</td>
+<td>Клетка для птиц</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>136</td>
+<td>Подставка для цветов</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="3">2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>137</td>
+<td>Календарь природы</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="17">Оборудование и мебель вспомогательные для групповой комнаты</td>
+</tr>
+<tr>
+<td>138</td>
+<td>Шкаф для посуды</td>
+<td colspan="3">штука</td>
+<td colspan="4">2</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="3">2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>139</td>
+<td>Шкаф для моющих средств</td>
+<td colspan="3">штука</td>
+<td colspan="4">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>140</td>
+<td>Шкаф для уборочного инвентаря</td>
+<td colspan="3">штука</td>
+<td colspan="4">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>141</td>
+<td>Шкаф для одежды</td>
+<td colspan="3">штука</td>
+<td colspan="4">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>142</td>
+<td>Вешалка для спецодежды</td>
+<td colspan="3">штука</td>
+<td colspan="4">2</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="3">2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>143</td>
+<td>Вешалка для полотенец</td>
+<td colspan="3">штука</td>
+<td colspan="4">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>144</td>
+<td>Тумбочка для белья</td>
+<td colspan="3">штука</td>
+<td colspan="4">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>145</td>
+<td>Зеркало в рамке</td>
+<td colspan="3">штука</td>
+<td colspan="4">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>146</td>
+<td>Пылесос</td>
+<td colspan="3">штука</td>
+<td colspan="4">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="3">1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>147</td>
+<td>Термометр бытовой</td>
+<td colspan="3">штука</td>
+<td colspan="4">3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td colspan="3">3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>148</td>
+<td>Фартук для дежурных</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="3">2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>149</td>
+<td>Шкаф гардеробный</td>
+<td colspan="3">штука</td>
+<td colspan="4">4</td>
+<td colspan="2">4</td>
+<td colspan="2">6</td>
+<td colspan="3">6</td>
+<td>6</td>
+</tr>
+<tr>
+<td>150</td>
+<td>Кровать односпальная</td>
+<td colspan="3">штука</td>
+<td colspan="4">10</td>
+<td colspan="2">20</td>
+<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>151</td>
+<td>Кровать двухъярусная</td>
+<td colspan="3">штука</td>
+<td colspan="4">5</td>
+<td colspan="2">10</td>
+<td colspan="2">10</td>
+<td colspan="3">13</td>
 <td>13</td>
-<td colspan="9">13</td>
-<td colspan="6">13</td>
-<td colspan="4">13</td>
 </tr>
 <tr>
-<td colspan="8">54</td>
-<td colspan="3">Набор для работы с бумагой и картоном</td>
-<td colspan="8">набор</td>
-<td>13</td>
-<td colspan="9">13</td>
-<td colspan="6">13</td>
-<td colspan="4">13</td>
+<td>152</td>
+<td>Кровать трехъярусная выкатная</td>
+<td colspan="3">штука</td>
+<td colspan="4"></td>
+<td colspan="2">6</td>
+<td colspan="2">9</td>
+<td colspan="3">9</td>
+<td>9</td>
 </tr>
 <tr>
-<td colspan="8">55</td>
-<td colspan="3">Набор для работы с материалами</td>
-<td colspan="8">набор</td>
-<td>13</td>
-<td colspan="9">13</td>
-<td colspan="6">13</td>
-<td colspan="4">13</td>
+<td>153</td>
+<td>Скамейка детская</td>
+<td colspan="3">штука</td>
+<td colspan="4">4</td>
+<td colspan="2">4</td>
+<td colspan="2">6</td>
+<td colspan="3">6</td>
+<td>6</td>
 </tr>
 <tr>
-<td colspan="8">56</td>
-<td colspan="3">Плакаты «Казахский национальный орнамент»</td>
-<td colspan="8">комплект</td>
-<td>1</td>
-<td colspan="9">1</td>
-<td colspan="6">1</td>
-<td colspan="4">1</td>
+<td colspan="18">Оборудование и мебель кабинета заведующей дошкольной организацией</td>
 </tr>
 <tr>
-<td colspan="8">57</td>
-<td colspan="3">Настольные игры для развития</td>
-<td colspan="8">комплект</td>
-<td>1</td>
-<td colspan="9">1</td>
-<td colspan="6">1</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="8">58</td>
-<td colspan="3">Набор игрушек по темам</td>
-<td colspan="8">набор</td>
-<td>1</td>
-<td colspan="9">1</td>
-<td colspan="6">1</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="8">59</td>
-<td colspan="3">Доска маркерно-магнитная детская</td>
-<td colspan="8">штука</td>
-<td>25</td>
-<td colspan="9">25</td>
-<td colspan="6">25</td>
-<td colspan="4">25</td>
-</tr>
-<tr>
-<td colspan="8">60</td>
-<td colspan="3">Настенные плакаты</td>
-<td colspan="8">комплект</td>
-<td>1</td>
-<td colspan="9">1</td>
-<td colspan="6">1</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="8">61</td>
-<td colspan="3">Стенд для творческих работ</td>
-<td colspan="8">штука</td>
-<td>1</td>
-<td colspan="9">1</td>
-<td colspan="6">1</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="39">предмет «Сауат ашу»</td>
-</tr>
-<tr>
-<td colspan="8">62</td>
-<td colspan="3">Әлiппе – плакат</td>
-<td colspan="8">штука</td>
-<td>1</td>
-<td colspan="8"></td>
-<td colspan="6"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="8">63</td>
-<td colspan="3">Әліппе - набор букв с картинками</td>
-<td colspan="8">штука</td>
-<td>25</td>
-<td colspan="8"></td>
-<td colspan="6"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="8">64</td>
-<td colspan="3">Әліппе - разрезная азбука</td>
-<td colspan="8">штука</td>
-<td>25</td>
-<td colspan="8"></td>
-<td colspan="6"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="8">65</td>
-<td colspan="3">Комплект рисунков для развития речи</td>
-<td colspan="8">комплект</td>
-<td>1</td>
-<td colspan="8"></td>
-<td colspan="6"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="39">предмет «Қазақ тілі»</td>
-</tr>
-<tr>
-<td colspan="8">66</td>
-<td colspan="3">Әлiппе – плакат</td>
-<td colspan="8">штука</td>
 <td></td>
-<td colspan="7">1</td>
-<td colspan="7">1</td>
-<td colspan="5">1</td>
+<td colspan="7">наименование</td>
+<td colspan="4">единицы измерения</td>
+<td colspan="6">количество</td>
 </tr>
 <tr>
-<td colspan="8">67</td>
-<td colspan="3">Касса букв и слогов</td>
-<td colspan="8">штука</td>
-<td></td>
-<td colspan="7">25</td>
-<td colspan="7"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="8">68</td>
-<td colspan="3">Касса несогласных звуков</td>
-<td colspan="8">штука</td>
-<td></td>
-<td colspan="7">25</td>
-<td colspan="7"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="8">69</td>
-<td colspan="3">Касса согласных звуков</td>
-<td colspan="8">штука</td>
-<td></td>
-<td colspan="7">25</td>
-<td colspan="7"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="8">70</td>
-<td colspan="3">Рисунки для развития речи</td>
-<td colspan="8">комплект</td>
-<td></td>
-<td colspan="7">1</td>
-<td colspan="7"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="39">предмет «Русский язык»</td>
-</tr>
-<tr>
-<td colspan="8">71</td>
-<td colspan="3">Алфавит печатный и прописной</td>
-<td colspan="8">штука</td>
-<td>1</td>
-<td colspan="7">1</td>
-<td colspan="7">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">72</td>
-<td colspan="3">Видеофильмы на дисках (мультфильмы, сказки)</td>
-<td colspan="8">комплект</td>
-<td>1</td>
-<td colspan="7">1</td>
-<td colspan="7">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">73</td>
-<td colspan="3">Видеофильмы на дисках</td>
-<td colspan="8">комплект</td>
-<td></td>
-<td colspan="7">1</td>
-<td colspan="7">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">74</td>
-<td colspan="3">Аудиокниги на CD-дисках</td>
-<td colspan="8">комплект</td>
-<td></td>
-<td colspan="7">1</td>
-<td colspan="7">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">75</td>
-<td colspan="3">Музыка и детские песни на дисках</td>
-<td colspan="8">комплект</td>
-<td>1</td>
-<td colspan="7">1</td>
-<td colspan="7">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">76</td>
-<td colspan="3">Электронные учебные издания</td>
-<td colspan="8">комплект</td>
-<td>1</td>
-<td colspan="7">1</td>
-<td colspan="7">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">77</td>
-<td colspan="3">Демонстрационные плакаты</td>
-<td colspan="8">комплект</td>
-<td>1</td>
-<td colspan="7">1</td>
-<td colspan="7">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">78</td>
-<td colspan="3">Иллюстрации и портреты</td>
-<td colspan="8">комплект</td>
-<td>1</td>
-<td colspan="7">1</td>
-<td colspan="7">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">79</td>
-<td colspan="3">Дидактический материал</td>
-<td colspan="8">комплект</td>
-<td>1</td>
-<td colspan="7">1</td>
-<td colspan="7">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">80</td>
-<td colspan="3">Раздаточный материал</td>
-<td colspan="8">комплект</td>
-<td>1</td>
-<td colspan="7">1</td>
-<td colspan="7">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="39">для учебных кабинетов с русским языком обучения</td>
-</tr>
-<tr>
-<td colspan="8">81</td>
-<td colspan="5">Пособия «Обучение грамоте»</td>
-<td colspan="6"></td>
-<td></td>
-<td colspan="6"></td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="8">82</td>
-<td colspan="5">Алфавит (печатный)</td>
-<td colspan="6">штука</td>
-<td>1</td>
-<td colspan="6"></td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="8">83</td>
-<td colspan="5">Алфавит (прописной)</td>
-<td colspan="6">штука</td>
-<td>1</td>
-<td colspan="6"></td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="8">84</td>
-<td colspan="5">Азбука разрезная</td>
-<td colspan="6">штука</td>
-<td>25</td>
-<td colspan="6"></td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="8">85</td>
-<td colspan="5">Касса букв и слогов</td>
-<td colspan="6">штука</td>
-<td>25</td>
-<td colspan="6"></td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="8">86</td>
-<td colspan="5">Плакат «Правильно пиши, держи ручку»</td>
-<td colspan="6">штука</td>
-<td>1</td>
-<td colspan="6"></td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="8">87</td>
-<td colspan="5">Плакат «Правильно сиди при письме»</td>
-<td colspan="6">штука</td>
-<td>1</td>
-<td colspan="6"></td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="8">88</td>
-<td colspan="5">Рисунки для развития речи</td>
-<td colspan="6">комплект</td>
-<td>1</td>
-<td colspan="6"></td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="39">предмет «Казахский язык»</td>
-</tr>
-<tr>
-<td colspan="8">89</td>
-<td colspan="5">Әлiппе – плакат</td>
-<td colspan="6">штука</td>
-<td>1</td>
-<td colspan="6">1</td>
-<td colspan="8">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">90</td>
-<td colspan="5">Әліппе - набор букв с картинками</td>
-<td colspan="6">штука</td>
-<td>1</td>
-<td colspan="6">1</td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="8">91</td>
-<td colspan="5">Әліппе - разрезная азбука</td>
-<td colspan="6">штука</td>
-<td>1</td>
-<td colspan="6">1</td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="8">92</td>
-<td colspan="5">Касса букв и слогов</td>
-<td colspan="6">комплект</td>
-<td>1</td>
-<td colspan="6">1</td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="39">предмет «Литературное чтение»</td>
-</tr>
-<tr>
-<td colspan="8">93</td>
-<td colspan="5">Комплект иллюстраций для составления картинного плана</td>
-<td colspan="6">набор</td>
-<td></td>
-<td colspan="6">1</td>
-<td colspan="8">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">94</td>
-<td colspan="5">Набор картин для развития речи</td>
-<td colspan="6">набор</td>
-<td></td>
-<td colspan="6">1</td>
-<td colspan="8">1</td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="8">95</td>
-<td colspan="5">Набор картин к текстам учебников</td>
-<td colspan="6">набор</td>
-<td></td>
-<td colspan="6">1</td>
-<td colspan="8">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">96</td>
-<td colspan="5">Набор репродукций картин</td>
-<td colspan="6">набор</td>
-<td></td>
-<td colspan="6">1</td>
-<td colspan="8">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">97</td>
-<td colspan="5">Плакаты «Жанры произведения», «Устное народное творчество»</td>
-<td colspan="6">штука</td>
-<td></td>
-<td colspan="6">1</td>
-<td colspan="8">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="39">предмет «Русский язык»</td>
-</tr>
-<tr>
-<td colspan="8">98</td>
-<td colspan="5">Алфавит</td>
-<td colspan="6">штука</td>
-<td></td>
-<td colspan="6">1</td>
-<td colspan="8">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">99</td>
-<td colspan="5">Касса несогласных звуков</td>
-<td colspan="6">штука</td>
-<td></td>
-<td colspan="6">25</td>
-<td colspan="8">25</td>
-<td colspan="5">25</td>
-</tr>
-<tr>
-<td colspan="8">100</td>
-<td colspan="5">Касса согласных звуков</td>
-<td colspan="6">штука</td>
-<td></td>
-<td colspan="6">25</td>
-<td colspan="8">25</td>
-<td colspan="5">25</td>
-</tr>
-<tr>
-<td colspan="8"></td>
-<td colspan="31">Экранно-звуковые пособия и печатные пособия</td>
-</tr>
-<tr>
-<td colspan="8">101</td>
-<td colspan="5">Видеофильмы на дисках (мультфильмы, сказки)</td>
-<td colspan="6">комплект</td>
-<td>1</td>
-<td colspan="6">1</td>
-<td colspan="8">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">102</td>
-<td colspan="5">Аудиокниги на CD-диске</td>
-<td colspan="6">комплект</td>
-<td></td>
-<td colspan="6">1</td>
-<td colspan="8">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">103</td>
-<td colspan="5">Музыка и детские песни на дисках</td>
-<td colspan="6">комплект</td>
-<td>1</td>
-<td colspan="6">1</td>
-<td colspan="8">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">104</td>
-<td colspan="5">Электронные учебные издания</td>
-<td colspan="6">комплект</td>
-<td>1</td>
-<td colspan="6">1</td>
-<td colspan="8">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">105</td>
-<td colspan="5">Демонстрационные плакаты</td>
-<td colspan="6">комплект</td>
-<td>1</td>
-<td colspan="6">1</td>
-<td colspan="8">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">106</td>
-<td colspan="5">Иллюстрации и портреты</td>
-<td colspan="6">комплект</td>
-<td>1</td>
-<td colspan="6">1</td>
-<td colspan="8">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">107</td>
-<td colspan="5">Дидактический материал</td>
-<td colspan="6">комплект</td>
-<td>1</td>
-<td colspan="6">1</td>
-<td colspan="8">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="8">108</td>
-<td colspan="5">Раздаточный материал</td>
-<td colspan="6">комплект</td>
-<td>1</td>
-<td colspan="6">1</td>
-<td colspan="8">1</td>
-<td colspan="5">1</td>
-</tr>
-<tr>
-<td colspan="39">для учебных кабинетов с уйгурским, узбекским, таджикским языками обучения</td>
-</tr>
-<tr>
-<td colspan="39">предмет «Обучение грамоте»</td>
-</tr>
-<tr>
-<td colspan="9">109</td>
-<td colspan="4">Алфавит</td>
-<td colspan="6">штука</td>
-<td>1</td>
-<td colspan="6"></td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="9">110</td>
-<td colspan="4">Азбука разрезная</td>
-<td colspan="6">штука</td>
-<td>25</td>
-<td colspan="6"></td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="9">111</td>
-<td colspan="4">Касса букв и слогов</td>
-<td colspan="6">штука</td>
-<td>25</td>
-<td colspan="6"></td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="9">112</td>
-<td colspan="4">Набор букв</td>
-<td colspan="6">штука</td>
-<td>25</td>
-<td colspan="6"></td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="9">113</td>
-<td colspan="4">Набор слогов</td>
-<td colspan="6">штука</td>
-<td>25</td>
-<td colspan="6"></td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="9">114</td>
-<td colspan="4">Рисунки для развития речи</td>
-<td colspan="6">комплект</td>
-<td>1</td>
-<td colspan="6"></td>
-<td colspan="8"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="39">предмет «Родной язык»</td>
-</tr>
-<tr>
-<td colspan="9">115</td>
-<td colspan="4">Алфавит</td>
-<td colspan="6">штука</td>
-<td></td>
-<td colspan="5">1</td>
-<td colspan="8">1</td>
+<td>154</td>
+<td colspan="7">Стол руководителя в комплекте</td>
+<td colspan="4">штука</td>
 <td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="9">116</td>
-<td colspan="4">Плакаты и наглядные пособия</td>
-<td colspan="6">набор</td>
-<td></td>
-<td colspan="5">1</td>
-<td colspan="8">1</td>
+<td>155</td>
+<td colspan="7">Кресло руководителя</td>
+<td colspan="4">штука</td>
 <td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="9">117</td>
-<td colspan="4">Орфографический словарь</td>
-<td colspan="6">штука</td>
-<td></td>
-<td colspan="5">1</td>
-<td colspan="8">1</td>
+<td>156</td>
+<td colspan="7">Стул полумягкий</td>
+<td colspan="4">штука</td>
+<td colspan="6">6</td>
+</tr>
+<tr>
+<td>157</td>
+<td colspan="7">Шкаф для кабинета</td>
+<td colspan="4">штука</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>158</td>
+<td colspan="7">Шкаф несгораемый</td>
+<td colspan="4">штука</td>
 <td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="39">предмет «Казахский язык»</td>
+<td>159</td>
+<td colspan="7">Персональный компьютер</td>
+<td colspan="4">комплект</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="9">118</td>
-<td colspan="5">Әлiппе – плакат</td>
+<td>160</td>
+<td colspan="7">Телефон</td>
+<td colspan="4">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>161</td>
+<td colspan="7">Телевизор</td>
+<td colspan="4">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td colspan="18">методический кабинет</td>
+</tr>
+<tr>
+<td>162</td>
+<td colspan="7">Стол для кабинета</td>
+<td colspan="4">штука</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>163</td>
+<td colspan="7">Стул полумягкий</td>
+<td colspan="4">штука</td>
+<td colspan="6">10</td>
+</tr>
+<tr>
+<td>164</td>
+<td colspan="7">Шкаф для книг и пособий</td>
+<td colspan="4">штука</td>
+<td colspan="6">3</td>
+</tr>
+<tr>
+<td>165</td>
+<td colspan="7">Стеллаж демонстрационный</td>
+<td colspan="4">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>166</td>
+<td colspan="7">Персональный компьютер (системный блок, монитор, клавиатура, оптическая мышь), комплектующие устройства (микрофонно-телефонная гарнитура, акустическая система, сетевой фильтр, многофункциональное устройство)</td>
+<td colspan="4">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>167</td>
+<td colspan="7">Телефон</td>
+<td colspan="4">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>168</td>
+<td colspan="7">Плакаты с символами Республики Казахстан (лицензионный)</td>
+<td colspan="4">комплект</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>169</td>
+<td colspan="7">Методические пособия</td>
+<td colspan="4">комплект</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>170</td>
+<td colspan="7">Демонстрационный материал для занятий</td>
+<td colspan="4">комплект</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>171</td>
+<td colspan="7">Глобус земного шара</td>
+<td colspan="4">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>172</td>
+<td colspan="7">Карта Республики Казахстан</td>
+<td colspan="4">штука</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>173</td>
+<td colspan="7">Комплект картин по временам года</td>
+<td colspan="4">комплект</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>174</td>
+<td colspan="7">Комплект предметных картин</td>
+<td colspan="4">комплект</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>175</td>
+<td colspan="7">Комплект электронных учебных изданий</td>
+<td colspan="4">комплект</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td colspan="18">Рекомендуемое оборудование и мебель для методического кабинета</td>
+</tr>
+<tr>
+<td>176</td>
+<td colspan="6">Музыкальный центр</td>
 <td colspan="5">штука</td>
-<td>1</td>
-<td colspan="5">1</td>
-<td colspan="8">1</td>
 <td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="9">119</td>
-<td colspan="5">Әліппе - набор букв с картинками</td>
+<td>177</td>
+<td colspan="6">Ламинатор</td>
 <td colspan="5">штука</td>
-<td>1</td>
-<td colspan="5">1</td>
-<td colspan="8"></td>
-<td colspan="6"></td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="9">120</td>
-<td colspan="5">Әліппе - разрезная азбука</td>
+<td>178</td>
+<td colspan="6">Машина переплётная</td>
 <td colspan="5">штука</td>
-<td>1</td>
-<td colspan="5">1</td>
-<td colspan="8"></td>
-<td colspan="6"></td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="9">121</td>
-<td colspan="5">Касса букв и слогов</td>
+<td>179</td>
+<td colspan="6">Муляжи фруктов, овощей, грибов</td>
+<td colspan="5">набор</td>
+<td colspan="6">10</td>
+</tr>
+<tr>
+<td>180</td>
+<td colspan="6">«Полезные ископаемые» раздаточные</td>
+<td colspan="5">набор</td>
+<td colspan="6">10</td>
+</tr>
+<tr>
+<td>181</td>
+<td colspan="6">Оборудование для исследовательской деятельности</td>
+<td colspan="5">набор</td>
+<td colspan="6">25</td>
+</tr>
+<tr>
+<td>182</td>
+<td colspan="6">«Специальный транспорт»</td>
+<td colspan="5">набор</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>183</td>
+<td colspan="6">Счетный материал</td>
+<td colspan="5">набор</td>
+<td colspan="6">25</td>
+</tr>
+<tr>
+<td>184</td>
+<td colspan="6">Куклы в костюмах</td>
+<td colspan="5">набор</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>185</td>
+<td colspan="6">Куклы-героев из сказок</td>
+<td colspan="5">набор</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>186</td>
+<td colspan="6">Национальные игрушки</td>
+<td colspan="5">набор</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>187</td>
+<td colspan="6">Сюжетные картины по развитию речи</td>
 <td colspan="5">комплект</td>
-<td>1</td>
-<td colspan="5">1</td>
-<td colspan="8"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td colspan="39">предмет «Литературное чтение»</td>
-</tr>
-<tr>
-<td colspan="9">122</td>
-<td colspan="5">Иллюстрации для составления картинного плана</td>
-<td colspan="5">набор</td>
-<td></td>
-<td colspan="5">1</td>
-<td colspan="8">1</td>
 <td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="9">123</td>
-<td colspan="5">Картины для развития речи</td>
-<td colspan="5">набор</td>
-<td></td>
-<td colspan="5">1</td>
-<td colspan="8">1</td>
-<td colspan="6"></td>
+<td colspan="18">Оборудование и мебель для кабинета казахского языка</td>
 </tr>
 <tr>
-<td colspan="9">124</td>
-<td colspan="5">Картины к текстам учебников</td>
-<td colspan="5">набор</td>
-<td></td>
-<td colspan="5">1</td>
-<td colspan="8">1</td>
-<td colspan="6">1</td>
-</tr>
-<tr>
-<td colspan="39">предмет «Русский язык»</td>
-</tr>
-<tr>
-<td colspan="9">125</td>
-<td colspan="5">Алфавит</td>
+<td>188</td>
+<td colspan="6">Стол компьютерный</td>
 <td colspan="5">штука</td>
-<td></td>
-<td colspan="5"></td>
-<td colspan="8">1</td>
 <td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="9">126</td>
-<td colspan="5">Касса гласных звуков</td>
+<td>189</td>
+<td colspan="6">Стул полумягкий</td>
 <td colspan="5">штука</td>
-<td></td>
-<td colspan="5"></td>
-<td colspan="8">25</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>190</td>
+<td colspan="6">Шкаф для учебных пособий</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>191</td>
+<td colspan="6">Доска маркерная</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>192</td>
+<td colspan="6">Комплект детской мебели для занятий</td>
+<td colspan="5">комплект</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>193</td>
+<td colspan="6">Персональный компьютер</td>
+<td colspan="5">комплект</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>194</td>
+<td colspan="6">Мультимедийные пособия</td>
+<td colspan="5">комплект</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>195</td>
+<td colspan="6">Литература и наглядные пособия</td>
+<td colspan="5">комплект</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td colspan="18">оборудование и мебель национальные для кабинета казахского языка</td>
+</tr>
+<tr>
+<td>196</td>
+<td colspan="6">Аяқ-кап</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>197</td>
+<td colspan="6">Пиала</td>
+<td colspan="5">штука</td>
+<td colspan="6">6</td>
+</tr>
+<tr>
+<td>198</td>
+<td colspan="6">Қазан</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>199</td>
+<td colspan="6">Ступа</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>200</td>
+<td colspan="6">Ыдыс-аяқ қап</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>201</td>
+<td colspan="6">Ожау</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>202</td>
+<td colspan="6">Торсық</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>203</td>
+<td colspan="6">Тостаған</td>
+<td colspan="5">штука</td>
+<td colspan="6">4</td>
+</tr>
+<tr>
+<td>204</td>
+<td colspan="6">Табақ</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>205</td>
+<td colspan="6">Чайник</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>206</td>
+<td colspan="6">Ақ орамал</td>
+<td colspan="5">дана</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>207</td>
+<td colspan="6">Түрлі түсті орамал</td>
+<td colspan="5">дана</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>208</td>
+<td colspan="6">Желбірлі көйлек</td>
+<td colspan="5">дана</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>209</td>
+<td colspan="6">Бөрік</td>
+<td colspan="5">дана</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>210</td>
+<td colspan="6">Қамзол</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>211</td>
+<td colspan="6">Кимешек</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>212</td>
+<td colspan="6">Сәукеле</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>213</td>
+<td colspan="6">Тақия</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>214</td>
+<td colspan="6">Бөрік</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>215</td>
+<td colspan="6">Жейде</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>216</td>
+<td colspan="6">Кестемен безендірілген шалбар</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>217</td>
+<td colspan="6">Қалпақ</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>218</td>
+<td colspan="6">Мәсі</td>
+<td colspan="5">пара</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>219</td>
+<td colspan="6">Тұлып</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>220</td>
+<td colspan="6">Шапан</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>221</td>
+<td colspan="6">Алқа</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>222</td>
+<td colspan="6">Білезік</td>
+<td colspan="5">пара</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>223</td>
+<td colspan="6">Моншақ</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>224</td>
+<td colspan="6">Сырға</td>
+<td colspan="5">пара</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>225</td>
+<td colspan="6">Сақина</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>226</td>
+<td colspan="6">Жүзік</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>227</td>
+<td colspan="6">Домбыра</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>228</td>
+<td colspan="6">Дауылпаз</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>229</td>
+<td colspan="6">Жетіген</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>230</td>
+<td colspan="6">Қобыз</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>231</td>
+<td colspan="6">Сазсырнай</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>232</td>
+<td colspan="6">Сылдырмақ</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>233</td>
+<td colspan="6">Шаңқобыз</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>234</td>
+<td colspan="6">Бесік</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>235</td>
+<td colspan="6">Дөңгелек үстел</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>236</td>
+<td colspan="6">Көрпе</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>237</td>
+<td colspan="6">Қоржын</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>238</td>
+<td colspan="6">Қамшы</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>239</td>
+<td colspan="6">Сандық</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>240</td>
+<td colspan="6">Сырмақ</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td colspan="18">Рекомендуемое оборудование и мебель для административно-хозяйственных кабинетов</td>
+</tr>
+<tr>
+<td>241</td>
+<td colspan="6">Стол для кабинета</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>242</td>
+<td colspan="6">Стул полумягкий</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>243</td>
+<td colspan="6">Шкаф для документов</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>244</td>
+<td colspan="6">Персональный компьютер (системный блок, монитор, клавиатура, оптическая мышь), комплектующие устройства (сетевой фильтр, многофункциональное устройство), устройство</td>
+<td colspan="5">Штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td colspan="18">физкультурный зал</td>
+</tr>
+<tr>
+<td>245</td>
+<td colspan="6">Гимнастическая стенка деревянная</td>
+<td colspan="5">комплект</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>246</td>
+<td colspan="6">Лестница для гимнастической стенки</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>247</td>
+<td colspan="6">Горка приставная</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>248</td>
+<td colspan="6">Доска ребристая для гимнастической стенки</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>249</td>
+<td colspan="6">Бревно гимнастическое напольное</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>250</td>
+<td colspan="6">Скамейка гимнастическая</td>
+<td colspan="5">штука</td>
+<td colspan="6">3</td>
+</tr>
+<tr>
+<td>251</td>
+<td colspan="6">Канат для перетягивания</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td>252</td>
+<td colspan="6">Дорожка массажная</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>253</td>
+<td colspan="6">Дуги для подлезания разной высоты</td>
+<td colspan="5">комплект</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>254</td>
+<td colspan="6">Куб игровой</td>
+<td colspan="5">набор</td>
+<td colspan="6">10</td>
+</tr>
+<tr>
+<td>255</td>
+<td colspan="6">Лента разноцветная длинная</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>256</td>
+<td colspan="6">Лента разноцветная короткая</td>
+<td colspan="5">штука</td>
 <td colspan="6">25</td>
 </tr>
 <tr>
-<td colspan="9">127</td>
-<td colspan="5">Касса согласных звуков</td>
+<td>257</td>
+<td colspan="6">Обруч детский</td>
 <td colspan="5">штука</td>
-<td></td>
-<td colspan="5"></td>
-<td colspan="8">25</td>
 <td colspan="6">25</td>
 </tr>
 <tr>
-<td colspan="39">предмет «Английский язык»</td>
+<td>258</td>
+<td colspan="6">Палка гимнастическая</td>
+<td colspan="5">штука</td>
+<td colspan="6">25</td>
 </tr>
 <tr>
-<td colspan="6">128</td>
-<td colspan="9">Азбука в картинках с транскрипцией</td>
-<td colspan="4">штука</td>
-<td>1</td>
-<td colspan="5">1</td>
-<td colspan="8">1</td>
+<td>259</td>
+<td colspan="6">Скакалка</td>
+<td colspan="5">штука</td>
+<td colspan="6">25</td>
+</tr>
+<tr>
+<td>260</td>
+<td colspan="6">Флажок разноцветный</td>
+<td colspan="5">штука</td>
+<td colspan="6">50</td>
+</tr>
+<tr>
+<td>261</td>
+<td colspan="6">Шнур длинный</td>
+<td colspan="5">штука</td>
+<td colspan="6">4</td>
+</tr>
+<tr>
+<td>263</td>
+<td colspan="6">Шнур короткий</td>
+<td colspan="5">штука</td>
+<td colspan="6">25</td>
+</tr>
+<tr>
+<td>264</td>
+<td colspan="6">Мат спортивный с гигиеническим покрытием</td>
+<td colspan="5">штука</td>
+<td colspan="6">4</td>
+</tr>
+<tr>
+<td>265</td>
+<td colspan="6">Мяч баскетбольный</td>
+<td colspan="5">штука</td>
+<td colspan="6">10</td>
+</tr>
+<tr>
+<td>266</td>
+<td colspan="6">Мяч волейбольный</td>
+<td colspan="5">штука</td>
+<td colspan="6">10</td>
+</tr>
+<tr>
+<td>267</td>
+<td colspan="6">Мяч футбольный</td>
+<td colspan="5">штука</td>
+<td colspan="6">10</td>
+</tr>
+<tr>
+<td>268</td>
+<td colspan="6">Мяч резиновый</td>
+<td colspan="5">штука</td>
+<td colspan="6">30</td>
+</tr>
+<tr>
+<td>269</td>
+<td colspan="6">Мяч для метания</td>
+<td colspan="5">штука</td>
+<td colspan="6">20</td>
+</tr>
+<tr>
+<td>270</td>
+<td colspan="6">Мешочек для метания</td>
+<td colspan="5">штука</td>
+<td colspan="6">20</td>
+</tr>
+<tr>
+<td>271</td>
+<td colspan="6">Корзина для мячей</td>
+<td colspan="5">штука</td>
+<td colspan="6">3</td>
+</tr>
+<tr>
+<td colspan="18">рекомендуемое оборудование для физкультурного зала</td>
+</tr>
+<tr>
+<td>272</td>
+<td colspan="6">Канат для лазания</td>
+<td colspan="5">штука</td>
 <td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="6">129</td>
-<td colspan="9">Алфавит</td>
-<td colspan="4">штука</td>
-<td>1</td>
-<td colspan="5">1</td>
-<td colspan="8">1</td>
+<td>273</td>
+<td colspan="6">Веревочная лестница</td>
+<td colspan="5">штука</td>
 <td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="6">130</td>
-<td colspan="9">Касса букв</td>
-<td colspan="4">комплект</td>
-<td>1</td>
-<td colspan="5">1</td>
-<td colspan="8"></td>
-<td colspan="6"></td>
+<td>274</td>
+<td colspan="6">Дорожка балансировочная</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
-<td colspan="6">131</td>
-<td colspan="9">Плакаты по грамматике</td>
-<td colspan="4">комплект</td>
-<td></td>
-<td colspan="5">1</td>
-<td colspan="8">1</td>
+<td>275</td>
+<td colspan="6">Гантели детские</td>
+<td colspan="5">штука</td>
+<td colspan="6">5</td>
+</tr>
+<tr>
+<td>276</td>
+<td colspan="6">Кольцо массажное</td>
+<td colspan="5">штука</td>
+<td colspan="6">10</td>
+</tr>
+<tr>
+<td>277</td>
+<td colspan="6">Кочка массажная</td>
+<td colspan="5">комплект</td>
+<td colspan="6">3</td>
+</tr>
+<tr>
+<td>278</td>
+<td colspan="6">Детская полоса препятствий</td>
+<td colspan="5">комплект</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>279</td>
+<td colspan="6">Дуги для подлезания одинаковой высоты</td>
+<td colspan="5">комплект</td>
 <td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="6">132</td>
-<td colspan="9">Словари</td>
-<td colspan="4">комплект</td>
-<td></td>
-<td colspan="5">1</td>
-<td colspan="8">1</td>
+<td>280</td>
+<td colspan="6">Тренажёр детский</td>
+<td colspan="5">штука</td>
+<td colspan="6">3</td>
+</tr>
+<tr>
+<td>281</td>
+<td colspan="6">Набор кеглей</td>
+<td colspan="5">набор</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>282</td>
+<td colspan="6">Дорожка здоровья</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>283</td>
+<td colspan="6">Свисток</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>284</td>
+<td colspan="6">Песочные часы</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td>285</td>
+<td colspan="6">Набор мягконабивных модулей и элементов</td>
+<td colspan="5">набор</td>
 <td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="6">133</td>
-<td colspan="9">Альбомы</td>
-<td colspan="4">комплект</td>
-<td>1</td>
-<td colspan="5">1</td>
-<td colspan="8">1</td>
+<td>286</td>
+<td colspan="6">Насос ножной</td>
+<td colspan="5">штука</td>
 <td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="6">134</td>
-<td colspan="9">Литература для чтения</td>
-<td colspan="4">комплект</td>
-<td></td>
-<td colspan="5">1</td>
-<td colspan="8">1</td>
+<td>287</td>
+<td colspan="6">Насос ручной</td>
+<td colspan="5">штука</td>
 <td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="6">135</td>
-<td colspan="9">Видеофильмы на CD/DVD - дисках (мультфильмы, сказки)</td>
-<td colspan="4">комплект</td>
-<td>1</td>
-<td colspan="4">1</td>
-<td colspan="8">1</td>
-<td colspan="7">1</td>
+<td>288</td>
+<td colspan="6">Подставка под мячи</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="6">136</td>
-<td colspan="9">Аудиокниги на CD-диске</td>
-<td colspan="4">комплект</td>
-<td></td>
-<td colspan="4">1</td>
-<td colspan="8">1</td>
-<td colspan="7">1</td>
+<td>289</td>
+<td colspan="6">Мяч для подскоков</td>
+<td colspan="5">штука</td>
+<td colspan="6">12</td>
 </tr>
 <tr>
-<td colspan="6">137</td>
-<td colspan="9">Музыка и детские песни на дисках</td>
-<td colspan="4">комплект</td>
-<td>1</td>
-<td colspan="4">1</td>
-<td colspan="8">1</td>
-<td colspan="7">1</td>
+<td>290</td>
+<td colspan="6">Мяч утяжеленный</td>
+<td colspan="5">штука</td>
+<td colspan="6">5</td>
 </tr>
 <tr>
-<td colspan="6">138</td>
-<td colspan="9">Электронные учебные издания</td>
-<td colspan="4">комплект</td>
-<td>1</td>
-<td colspan="4">1</td>
-<td colspan="8">1</td>
-<td colspan="7">1</td>
+<td>291</td>
+<td colspan="6">Мяч массажный</td>
+<td colspan="5">штука</td>
+<td colspan="6">15</td>
 </tr>
 <tr>
-<td colspan="6">139</td>
-<td colspan="9">Демонстрационные плакаты</td>
-<td colspan="4">комплект</td>
-<td>1</td>
-<td colspan="4">1</td>
-<td colspan="8">1</td>
-<td colspan="7">1</td>
+<td>292</td>
+<td colspan="6">Сухой бассейн в комплекте с шариками</td>
+<td colspan="5">комплект</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="6">140</td>
-<td colspan="9">Иллюстрации и портреты</td>
-<td colspan="4">комплект</td>
-<td>1</td>
-<td colspan="4">1</td>
-<td colspan="8">1</td>
-<td colspan="7">1</td>
+<td colspan="18">спортивная площадка</td>
 </tr>
 <tr>
-<td colspan="6">141</td>
-<td colspan="9">Дидактический материал</td>
-<td colspan="4">комплект</td>
-<td>1</td>
-<td colspan="4">1</td>
-<td colspan="8">1</td>
-<td colspan="7">1</td>
+<td>293</td>
+<td colspan="6">Ворота футбольные с сеткой детские</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
-<td colspan="6">142</td>
-<td colspan="9">Раздаточный материал</td>
-<td colspan="4">комплект</td>
-<td>1</td>
-<td colspan="4">1</td>
-<td colspan="8">1</td>
-<td colspan="7">1</td>
+<td>294</td>
+<td colspan="6">Баскетбольная детская стойка</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
-<td colspan="39">кабинет предшкольной подготовки</td>
+<td>295</td>
+<td colspan="6">Стойки в комплекте с сеткой для бадминтона и волейбола</td>
+<td colspan="5">комплект</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="17">наименование</td>
-<td colspan="3">единицы измерения</td>
-<td colspan="19">количество</td>
+<td colspan="18">рекомендуемое оборудование для спортивной площадки</td>
 </tr>
 <tr>
-<td colspan="7">143</td>
-<td colspan="10">Доска настенная аудиторная</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
+<td>296</td>
+<td colspan="6">Кольцеброс в наборе</td>
+<td colspan="5">набор</td>
+<td colspan="6">4</td>
 </tr>
 <tr>
-<td colspan="7">144</td>
-<td colspan="10">Стол с приставкой для компьютера</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
+<td>297</td>
+<td colspan="6">Мишень для метания</td>
+<td colspan="5">штука</td>
+<td colspan="6">3</td>
 </tr>
 <tr>
-<td colspan="7">145</td>
-<td colspan="10">Стул</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
+<td>298</td>
+<td colspan="6">Набор для бадминтона</td>
+<td colspan="5">набор</td>
+<td colspan="6">4</td>
 </tr>
 <tr>
-<td colspan="7">146</td>
-<td colspan="10">Стол ученический одноместный</td>
-<td colspan="3">штука</td>
-<td colspan="19">25</td>
+<td>299</td>
+<td colspan="6">Набор для настольного тенниса</td>
+<td colspan="5">набор</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
-<td colspan="7">147</td>
-<td colspan="10">Стул ученический</td>
-<td colspan="3">штука</td>
-<td colspan="19">25</td>
+<td>300</td>
+<td colspan="6">Стол для настольного тенниса</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">148</td>
-<td colspan="10">Шкаф закрытый</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
+<td>301</td>
+<td colspan="6">Велосипед детский</td>
+<td colspan="5">штука</td>
+<td colspan="6">25</td>
 </tr>
 <tr>
-<td colspan="7">149</td>
-<td colspan="10">Шкаф для плакатов</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
+<td>302</td>
+<td colspan="6">Ролики</td>
+<td colspan="5">штука</td>
+<td colspan="6">25</td>
 </tr>
 <tr>
-<td colspan="7">150</td>
-<td colspan="10">Хранение пособий</td>
-<td colspan="3">комплект</td>
-<td colspan="19">2</td>
+<td>303</td>
+<td colspan="6">Клюшка хоккейная</td>
+<td colspan="5">штука</td>
+<td colspan="6">10</td>
 </tr>
 <tr>
-<td colspan="7">151</td>
-<td colspan="10">Тумбочка под телевизор</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
+<td>304</td>
+<td colspan="6">Коньки детские</td>
+<td colspan="5">штука</td>
+<td colspan="6">25</td>
 </tr>
 <tr>
-<td colspan="7">152</td>
-<td colspan="10">Персональный компьютер</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>305</td>
+<td colspan="6">Лыжи детские</td>
+<td colspan="5">штука</td>
+<td colspan="6">25</td>
 </tr>
 <tr>
-<td colspan="7">153</td>
-<td colspan="10">Интерактивная доска</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
+<td>306</td>
+<td colspan="6">Санки</td>
+<td colspan="5">штука</td>
+<td colspan="6">10</td>
 </tr>
 <tr>
-<td colspan="7">154</td>
-<td colspan="10">Телевизор</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
+<td colspan="18">игровая площадка</td>
 </tr>
 <tr>
-<td colspan="7">155</td>
-<td colspan="10">Музыкальный центр</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
+<td>307</td>
+<td colspan="6">Игровое оборудование</td>
+<td colspan="5">штука</td>
+<td colspan="6">3</td>
 </tr>
 <tr>
-<td colspan="7">156</td>
-<td colspan="10">Әлiппе - плакат</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
+<td>308</td>
+<td colspan="6">Горка</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">157</td>
-<td colspan="10">Алфавит русский</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
+<td>309</td>
+<td colspan="6">Качалка</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
-<td colspan="7">158</td>
-<td colspan="10">Азбука в картинках</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
+<td>310</td>
+<td colspan="6">Песочница</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">159</td>
-<td colspan="10">Рисунки для развития речи</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>311</td>
+<td colspan="6">Качели</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
-<td colspan="7">160</td>
-<td colspan="10">Словарь</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
+<td>312</td>
+<td colspan="6">Спортивная конструкция</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">161</td>
-<td colspan="10">Словарь казахско-русский</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
+<td>313</td>
+<td colspan="6">Беседка на 15 мест</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">162</td>
-<td colspan="10">Сборник сказок</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td colspan="18">музыкальный зал</td>
 </tr>
 <tr>
-<td colspan="7">163</td>
-<td colspan="10">Сборник стихов</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>314</td>
+<td colspan="6">Стол компьютерный</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">164</td>
-<td colspan="10">Видеофильмы на дисках</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>315</td>
+<td colspan="6">Кресло</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">165</td>
-<td colspan="10">Электронные учебные издания</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>316</td>
+<td colspan="6">Шкаф для пособий</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
-<td colspan="7">166</td>
-<td colspan="10">Демонстрационные плакаты</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>317</td>
+<td colspan="6">Стул детский</td>
+<td colspan="5">штука</td>
+<td colspan="6">60</td>
 </tr>
 <tr>
-<td colspan="7">167</td>
-<td colspan="10">Иллюстрации и портреты</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>318</td>
+<td colspan="6">Интерактивная доска</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">168</td>
-<td colspan="10">Изобразительное творчество</td>
-<td colspan="3">набор</td>
-<td colspan="19">13</td>
+<td>319</td>
+<td colspan="6">Проектор</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">169</td>
-<td colspan="10">Мольберт</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
+<td>320</td>
+<td colspan="6">Подставка для интерактивной доски</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">170</td>
-<td colspan="10">Кукольный театр</td>
-<td colspan="3">набор</td>
-<td colspan="19">1</td>
+<td>321</td>
+<td colspan="6">Ноутбук</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">171</td>
-<td colspan="10">Куклы в национальной одежде</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>322</td>
+<td colspan="6">Музыкальный центр</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">172</td>
-<td colspan="10">Демонстрационные плакаты</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>323</td>
+<td colspan="6">Цифровое пианино</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">173</td>
-<td colspan="10">Раздаточный материал</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>324</td>
+<td colspan="6">Аккордеон</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">174</td>
-<td colspan="10">Электронные учебные издания</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>325</td>
+<td colspan="6">Детский музыкальный инструмент</td>
+<td colspan="5">комплект</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">175</td>
-<td colspan="10">Чертежные инструменты</td>
-<td colspan="3">набор</td>
-<td colspan="19">1</td>
+<td>326</td>
+<td colspan="6">Национальный музыкальный инструмент</td>
+<td colspan="5">комплект</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">176</td>
-<td colspan="10">Счеты демонстрационные</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
+<td>327</td>
+<td colspan="6">Иллюстрации по слушанию музыкальных произведений</td>
+<td colspan="5">комплект</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">177</td>
-<td colspan="10">Объёмные геометрические фигуры</td>
-<td colspan="3">набор</td>
-<td colspan="19">1</td>
+<td>328</td>
+<td colspan="6">Комплект портретов композиторов</td>
+<td colspan="5">комплект</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">178</td>
-<td colspan="10">Демонстрационные обучающие часы</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
+<td>329</td>
+<td colspan="6">Фонотека</td>
+<td colspan="5">комплект</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">179</td>
-<td colspan="10">Счётный магнитный набор</td>
-<td colspan="3">набор</td>
-<td colspan="19">1</td>
+<td>330</td>
+<td colspan="6">Мультимедийные пособия</td>
+<td colspan="5">комплект</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">180</td>
-<td colspan="10">Счётный материал</td>
-<td colspan="3">набор</td>
-<td colspan="19">25</td>
+<td>331</td>
+<td colspan="6">Музыкально-дидактическая игра</td>
+<td colspan="5">штука</td>
+<td colspan="6">5</td>
 </tr>
 <tr>
-<td colspan="7">181</td>
-<td colspan="10">Картинки с изображением предметов</td>
-<td colspan="3">набор</td>
-<td colspan="19">25</td>
+<td colspan="18">Оборудование из расчёта на одного ребёнка и группу</td>
 </tr>
 <tr>
-<td colspan="7">182</td>
-<td colspan="10">Карточки с числами от 1 до 10</td>
-<td colspan="3">набор</td>
-<td colspan="19">25</td>
+<td>332</td>
+<td colspan="6">Матрац детский</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">183</td>
-<td colspan="10">Демонстрационные плакаты</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>333</td>
+<td colspan="6">Наматрасник</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">184</td>
-<td colspan="10">Раздаточный материал</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>334</td>
+<td colspan="6">Подушка детская</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">185</td>
-<td colspan="10">Электронные учебные издания</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>335</td>
+<td colspan="6">Наволочка детская</td>
+<td colspan="5">штука</td>
+<td colspan="6">3</td>
 </tr>
 <tr>
-<td colspan="39">для художественного труда</td>
+<td>336</td>
+<td colspan="6">Простынь детская</td>
+<td colspan="5">штука</td>
+<td colspan="6">3</td>
 </tr>
 <tr>
-<td colspan="7">186</td>
-<td colspan="10">Инструменты</td>
-<td colspan="3">набор</td>
-<td colspan="19">1</td>
+<td>337</td>
+<td colspan="6">Пододеяльник детский</td>
+<td colspan="5">штука</td>
+<td colspan="6">3</td>
 </tr>
 <tr>
-<td colspan="7">187</td>
-<td colspan="10">Набор для художественного труда</td>
-<td colspan="3">набор</td>
-<td colspan="19">1</td>
+<td>338</td>
+<td colspan="6">Одеяло детское</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">188</td>
-<td colspan="10">Демонстрационные плакаты</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>339</td>
+<td colspan="6">Покрывало</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">189</td>
-<td colspan="10">Иллюстрации и портреты</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>340</td>
+<td colspan="6">Полотенце детское</td>
+<td colspan="5">штука</td>
+<td colspan="6">3</td>
 </tr>
 <tr>
-<td colspan="7">190</td>
-<td colspan="10">Раздаточный материал</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>341</td>
+<td colspan="6">Ковёр для групповой комнаты</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">191</td>
-<td colspan="10">Электронные учебные издания</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
+<td>342</td>
+<td colspan="6">Ковровые дорожки для спальных комнат</td>
+<td colspan="5">комплект</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">192</td>
-<td colspan="10">Набор лент разноцветных длинных</td>
-<td colspan="3">набор</td>
-<td colspan="19">5</td>
+<td>343</td>
+<td colspan="6">Шторы для групповой комнаты</td>
+<td colspan="5">комплект</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">193</td>
-<td colspan="10">Набор лент разноцветных коротких</td>
-<td colspan="3">набор</td>
-<td colspan="19">25</td>
+<td>344</td>
+<td colspan="6">Косынка для персонала</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
-<td colspan="7">194</td>
-<td colspan="10">Палка гимнастическая короткая</td>
-<td colspan="3">штука</td>
-<td colspan="19">25</td>
+<td>345</td>
+<td colspan="6">Фартук для персонала</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
-<td colspan="7">195</td>
-<td colspan="10">Палочка эстафетная</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
+<td>346</td>
+<td colspan="6">Халат белый для персонала</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
-<td colspan="7">196</td>
-<td colspan="10">Скакалка</td>
-<td colspan="3">штука</td>
-<td colspan="19">25</td>
+<td>347</td>
+<td colspan="6">Халат темный для персонала</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
-<td colspan="7">197</td>
-<td colspan="10">Шнур короткий</td>
-<td colspan="3">штука</td>
-<td colspan="19">25</td>
+<td colspan="18">Оборудование для административных помещений и прачечной</td>
 </tr>
 <tr>
-<td colspan="7">198</td>
-<td colspan="10">Мяч для метания</td>
-<td colspan="3">комплект</td>
-<td colspan="19">5</td>
+<td>348</td>
+<td colspan="6">Ковёр для помещений</td>
+<td colspan="5">штука</td>
+<td colspan="6">4</td>
 </tr>
 <tr>
-<td colspan="7">199</td>
-<td colspan="10">Мешочки для метания</td>
-<td colspan="3">комплект</td>
-<td colspan="19">2</td>
+<td>349</td>
+<td colspan="6">Ковровые дорожки</td>
+<td colspan="5">комплект</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="39">для музыкальных занятий</td>
+<td>350</td>
+<td colspan="6">Шторы и занавески</td>
+<td colspan="5">комплект</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">201</td>
-<td colspan="9">Музыкальные инструменты детские</td>
-<td colspan="4">набор</td>
-<td colspan="19">10</td>
+<td>351</td>
+<td colspan="6">Тележка для замачивания белья</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">202</td>
-<td colspan="9">Игрушка музыкальная</td>
-<td colspan="4">штука</td>
-<td colspan="19">10</td>
+<td>352</td>
+<td colspan="6">Тележка для перевозки белья</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
-<td colspan="7">203</td>
-<td colspan="9">Инструмент национальный музыкальный</td>
-<td colspan="4">штука</td>
-<td colspan="19">3</td>
+<td>353</td>
+<td colspan="6">Машина стиральная бытовая</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
-<td colspan="7">204</td>
-<td colspan="9">Музыка и детские песни на дисках</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
+<td>354</td>
+<td colspan="6">Машина стиральная профессиональная</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">205</td>
-<td colspan="9">Электронные учебные издания</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
+<td>355</td>
+<td colspan="6">Сушильная машина</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">206</td>
-<td colspan="9">Демонстрационные плакаты</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
+<td>356</td>
+<td colspan="6">Стол производственный</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">207</td>
-<td colspan="9">Иллюстрации и портреты</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
+<td>357</td>
+<td colspan="6">Стеллаж для белья</td>
+<td colspan="5">штука</td>
+<td colspan="6">3</td>
 </tr>
 <tr>
-<td colspan="7">208</td>
-<td colspan="9">Раздаточный материал</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
+<td>358</td>
+<td colspan="6">Стол гладильный профессиональный</td>
+<td colspan="5">штука</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td colspan="7">209</td>
-<td colspan="9">Мозаика</td>
-<td colspan="4">штука</td>
-<td colspan="19">2</td>
+<td>359</td>
+<td colspan="6">Доска гладильная</td>
+<td colspan="5">штука</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
-<td colspan="7">210</td>
-<td colspan="9">Набор строительный</td>
-<td colspan="4">набор</td>
-<td colspan="19">5</td>
-</tr>
-<tr>
-<td colspan="7">211</td>
-<td colspan="9">Конструктор</td>
-<td colspan="4">штука</td>
-<td colspan="19">10</td>
-</tr>
-<tr>
-<td colspan="7">212</td>
-<td colspan="9">Лото</td>
-<td colspan="4">штука</td>
-<td colspan="19">10</td>
-</tr>
-<tr>
-<td colspan="7">213</td>
-<td colspan="9">Шашки</td>
-<td colspan="4">штука</td>
-<td colspan="19">5</td>
-</tr>
-<tr>
-<td colspan="7">214</td>
-<td colspan="9">Шахматы</td>
-<td colspan="4">штука</td>
-<td colspan="19">5</td>
-</tr>
-<tr>
-<td colspan="7">215</td>
-<td colspan="9">Домино с картинками</td>
-<td colspan="4">штука</td>
-<td colspan="19">5</td>
-</tr>
-<tr>
-<td colspan="7">216</td>
-<td colspan="9">Пазлы</td>
-<td colspan="4">штука</td>
-<td colspan="19">10</td>
-</tr>
-<tr>
-<td colspan="7">217</td>
-<td colspan="9">Комплекты игр</td>
-<td colspan="4">комплект</td>
-<td colspan="19">10</td>
-</tr>
-<tr>
-<td colspan="7">218</td>
-<td colspan="9">Игрушка дидактическая</td>
-<td colspan="4">штука</td>
-<td colspan="19">10</td>
-</tr>
-<tr>
-<td colspan="7">219</td>
-<td colspan="9">Игрушка транспортная</td>
-<td colspan="4">штука</td>
-<td colspan="19">5</td>
-</tr>
-<tr>
-<td colspan="7">220</td>
-<td colspan="9">Игрушка «Животные»</td>
-<td colspan="4">штука</td>
-<td colspan="19">10</td>
-</tr>
-<tr>
-<td colspan="7">221</td>
-<td colspan="9">Муляжи овощей и фруктов</td>
-<td colspan="4">набор</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="7">222</td>
-<td colspan="9">Муляжи продуктов питания</td>
-<td colspan="4">набор</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="7">223</td>
-<td colspan="9">Аптечка медицинская</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="7">224</td>
-<td colspan="9">Уголок природы</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="7">225</td>
-<td colspan="9">Настенные плакаты</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="39">для учебных кабинетов</td>
-</tr>
-<tr>
-<td colspan="2">226</td>
-<td colspan="14">Доска настенная аудиторная</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="2">227</td>
-<td colspan="14">Доска настенная пробковая</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="2">228</td>
-<td colspan="14">Стол с приставкой для компьютера</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="2">229</td>
-<td colspan="14">Стул преподавателя</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="2">230</td>
-<td colspan="14">Стол ученический одноместный</td>
-<td colspan="4">штука</td>
-<td colspan="19">25</td>
-</tr>
-<tr>
-<td colspan="2">231</td>
-<td colspan="14">Стул ученический</td>
-<td colspan="4">штука</td>
-<td colspan="19">25</td>
-</tr>
-<tr>
-<td colspan="2">232</td>
-<td colspan="14">Шкаф закрытый</td>
-<td colspan="4">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="2">233</td>
-<td colspan="14">Шкаф полуоткрытый для плакатов</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="2">234</td>
-<td colspan="14">Хранение игрушек и пособий</td>
-<td colspan="4">комплект</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="2">235</td>
-<td colspan="14">Тумбочка под телевизор</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="2">236</td>
-<td colspan="14">Персональный компьютер</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="2">237</td>
-<td colspan="14">Интерактивная доска или экран</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="2">238</td>
-<td colspan="14">Телевизор</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="2">239</td>
-<td colspan="14">Музыкальный центр</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="39">для административных помещений</td>
-</tr>
-<tr>
-<td colspan="39">Кабинет директора</td>
-</tr>
-<tr>
-<td colspan="7">240</td>
-<td colspan="9">Стол руководителя</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="7">241</td>
-<td colspan="9">Кресло руководителя</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="7">242</td>
-<td colspan="9">Стул полумягкий</td>
-<td colspan="4">штука</td>
-<td colspan="19">3</td>
-</tr>
-<tr>
-<td colspan="7">243</td>
-<td colspan="9">Шкаф для кабинета</td>
-<td colspan="4">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="7">244</td>
-<td colspan="9">Телефон</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="7">245</td>
-<td colspan="9">Персональный компьютер</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="39">Приёмная-кабинет делопроизводства</td>
-</tr>
-<tr>
-<td colspan="2">246</td>
-<td colspan="14">Стол для кабинета</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="2">247</td>
-<td colspan="14">Стул полумягкий</td>
-<td colspan="4">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="2">248</td>
-<td colspan="14">Шкаф для кабинета</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="2">249</td>
-<td colspan="14">Телефон</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="2">250</td>
-<td colspan="14">Персональный компьютер</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="39">Методический кабинет</td>
-</tr>
-<tr>
-<td colspan="3">251</td>
-<td colspan="13">Стол для кабинета</td>
-<td colspan="4">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="3">252</td>
-<td colspan="13">Стул полумягкий</td>
-<td colspan="4">штука</td>
-<td colspan="19">4</td>
-</tr>
-<tr>
-<td colspan="3">253</td>
-<td colspan="13">Шкаф для кабинета</td>
-<td colspan="4">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="3">254</td>
-<td colspan="13">Персональный компьютер</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="3">255</td>
-<td colspan="13">Комплект электронных учебных изданий</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="39">Кабинет заведующей учебно-воспитательной работой</td>
-</tr>
-<tr>
-<td colspan="3">256</td>
-<td colspan="13">Стол</td>
-<td colspan="4">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="3">257</td>
-<td colspan="13">Стул полумягкий</td>
-<td colspan="4">штука</td>
-<td colspan="19">4</td>
-</tr>
-<tr>
-<td colspan="3">258</td>
-<td colspan="13">Шкаф для кабинета</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="3">259</td>
-<td colspan="13">Телефон</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="3">260</td>
-<td colspan="13">Персональный компьютер</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="39">Кабинет заместителя директора по административно-хозяйственной работе</td>
-</tr>
-<tr>
-<td colspan="4">261</td>
-<td colspan="12">Стол однотумбовый</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="4">262</td>
-<td colspan="12">Стул полумягкий</td>
-<td colspan="4">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="4">263</td>
-<td colspan="12">Шкаф</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="4">264</td>
-<td colspan="12">Телефон</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="39">Бухгалтерия</td>
-</tr>
-<tr>
-<td colspan="4">265</td>
-<td colspan="12">Стол</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="4">266</td>
-<td colspan="12">Стул</td>
-<td colspan="4">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="4">267</td>
-<td colspan="12">Шкаф</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="4">268</td>
-<td colspan="12">Телефон</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="4">269</td>
-<td colspan="12">Сейф несгораемый</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="4">270</td>
-<td colspan="12">Персональный компьютер</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="39">Библиотека</td>
-</tr>
-<tr>
-<td colspan="5">271</td>
-<td colspan="11">Рабочее место библиотекаря</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">272</td>
-<td colspan="11">Шкаф для читательских формуляров</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">273</td>
-<td colspan="11">Шкаф-картотека</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">274</td>
-<td colspan="11">Стеллаж библиотечный</td>
-<td colspan="4">штука</td>
-<td colspan="19">5</td>
-</tr>
-<tr>
-<td colspan="5">275</td>
-<td colspan="11">Стол читательский рабочий</td>
-<td colspan="4">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="5">276</td>
-<td colspan="11">Стул полумягкий</td>
-<td colspan="4">штука</td>
-<td colspan="19">6</td>
-</tr>
-<tr>
-<td colspan="5">277</td>
-<td colspan="11">Персональный компьютер</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">278</td>
-<td colspan="11">Переплётное оборудование</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">279</td>
-<td colspan="11">Инструменты и материалы для ремонта книг</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">280</td>
-<td colspan="11">Библиотечный фонд: учебная, справочная художественная литература и издания, аудио-видеотека</td>
-<td colspan="4">комплект</td>
-<td colspan="19"></td>
-</tr>
-<tr>
-<td colspan="39">Актовый зал</td>
-</tr>
-<tr>
-<td colspan="5">281</td>
-<td colspan="12">Кресло секционное</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">282</td>
-<td colspan="12">Трибуна лекторская</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">283</td>
-<td colspan="12">Мебель для сцены и радиорубки</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">284</td>
-<td colspan="12">Стол для президиума</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">285</td>
-<td colspan="12">Стул или кресло для президиума</td>
-<td colspan="3">штука</td>
-<td colspan="19">4</td>
-</tr>
-<tr>
-<td colspan="5">286</td>
-<td colspan="12">Ноутбук</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">287</td>
-<td colspan="12">Проектор для актового зала</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">288</td>
-<td colspan="12">Крепление или столик для проектора</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">289</td>
-<td colspan="12">Экран большой проекционный</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">290</td>
-<td colspan="12">Колонка со стойкой</td>
-<td colspan="3">комплект</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="5">291</td>
-<td colspan="12">Микрофон беспроводной</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="5">292</td>
-<td colspan="12">Микрофон проводной</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">293</td>
-<td colspan="12">Стойка для микрофона</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="5">294</td>
-<td colspan="12">Пульт-микшер</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">295</td>
-<td colspan="12">Синтезатор</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">296</td>
-<td colspan="12">Усилитель</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">297</td>
-<td colspan="12">Музыкальный центр</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="39">Оборудование и мебель для системно-коммуникационного узла</td>
-</tr>
-<tr>
-<td colspan="5">298</td>
-<td colspan="12">Сервер</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">299</td>
-<td colspan="12">Монитор</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">300</td>
-<td colspan="12">Источник бесперебойного питания</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">301</td>
-<td colspan="12">Сетевой фильтр</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="5">302</td>
-<td colspan="12">Коммутатор доступа</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">303</td>
-<td colspan="12">Шкаф коммутационный</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">304</td>
-<td colspan="12">Стол</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">305</td>
-<td colspan="12">Кресло</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">306</td>
-<td colspan="12">Медицинская аптечка</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="39">Для кабинета информационно-коммуникационных технологий</td>
-</tr>
-<tr>
-<td colspan="5">307</td>
-<td colspan="12">Доска настенная маркерная</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">308</td>
-<td colspan="12">Стол с приставкой для компьютера</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">309</td>
-<td colspan="12">Кресло</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">310</td>
-<td colspan="12">Стол ученический компьютерный</td>
-<td colspan="3">штука</td>
-<td colspan="19">14</td>
-</tr>
-<tr>
-<td colspan="5">311</td>
-<td colspan="12">Стол ученический двухместный</td>
-<td colspan="3">штука</td>
-<td colspan="19">7</td>
-</tr>
-<tr>
-<td colspan="5">312</td>
-<td colspan="12">Стул ученический</td>
-<td colspan="3">штука</td>
-<td colspan="19">28</td>
-</tr>
-<tr>
-<td colspan="5">313</td>
-<td colspan="12">Шкаф закрытый полуостеклёный</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="5">314</td>
-<td colspan="12">Системный блок</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">315</td>
-<td colspan="12">Системный блок ученика</td>
-<td colspan="3">штука</td>
-<td colspan="19">14</td>
-</tr>
-<tr>
-<td colspan="5">316</td>
-<td colspan="12">Монитор</td>
-<td colspan="3">штука</td>
-<td colspan="19">15</td>
-</tr>
-<tr>
-<td colspan="5">317</td>
-<td colspan="12">Web-камера</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">318</td>
-<td colspan="12">Акустическая система настенная</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">319</td>
-<td colspan="12">Микрофонно-телефонная гарнитура</td>
-<td colspan="3">штука</td>
-<td colspan="19">15</td>
-</tr>
-<tr>
-<td colspan="5">320</td>
-<td colspan="12">Многофункциональное устройство</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">321</td>
-<td colspan="12">Сетевой коммутатор</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">322</td>
-<td colspan="12">Сетевой фильтр</td>
-<td colspan="3">штука</td>
-<td colspan="19">16</td>
-</tr>
-<tr>
-<td colspan="5">323</td>
-<td colspan="12">Проектор</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">324</td>
-<td colspan="12">Крепление потолочное для проектора</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">325</td>
-<td colspan="12">Интерактивная доска</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">326</td>
-<td colspan="12">Издания по информационно-коммуникационным технологиям (далее -ИКТ)</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">327</td>
-<td colspan="12">Справочная и методическая литература по ИКТ</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">328</td>
-<td colspan="12">Настенный стенд</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">329</td>
-<td colspan="12">Аптечка</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">330</td>
-<td colspan="12">Щит электроснабжения</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="39">для лингафонного кабинета</td>
-</tr>
-<tr>
-<td colspan="5">331</td>
-<td colspan="12">Доска маркерная</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">332</td>
-<td colspan="12">Стол преподавателя</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">333</td>
-<td colspan="12">Кресло</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">334</td>
-<td colspan="12">Стол-полукабина учащегося</td>
-<td colspan="3">штука</td>
-<td colspan="19">14</td>
-</tr>
-<tr>
-<td colspan="5">335</td>
-<td colspan="12">Стул учащегося</td>
-<td colspan="3">штука</td>
-<td colspan="19">14</td>
-</tr>
-<tr>
-<td colspan="5">336</td>
-<td colspan="12">Шкаф для учебно-наглядных пособий</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">337</td>
-<td colspan="12">Лингафонное оборудование</td>
-<td colspan="3"></td>
-<td colspan="19"></td>
-</tr>
-<tr>
-<td colspan="5">338</td>
-<td colspan="12">Пульт преподавателя</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">339</td>
-<td colspan="12">Блок-распределитель кабинета</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">340</td>
-<td colspan="12">Блок управления учащегося</td>
-<td colspan="3">штука</td>
-<td colspan="19">14</td>
-</tr>
-<tr>
-<td colspan="5">341</td>
-<td colspan="12">Микрофонно-телефонная гарнитура</td>
-<td colspan="3">штука</td>
-<td colspan="19">15</td>
-</tr>
-<tr>
-<td colspan="5">342</td>
-<td colspan="12">МР-3 плеер</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="5">343</td>
-<td colspan="12">Плакаты и настенные стенды</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">344</td>
-<td colspan="12">Сетевой фильтр</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="39">для мультимедийного лингафонного кабинета</td>
-</tr>
-<tr>
-<td colspan="5">345</td>
-<td colspan="12">Стол преподавателя</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">346</td>
-<td colspan="12">Кресло преподавателя</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">347</td>
-<td colspan="12">Стол-полукабина учащегося</td>
-<td colspan="3">штука</td>
-<td colspan="19">14</td>
-</tr>
-<tr>
-<td colspan="5">348</td>
-<td colspan="12">Стул учащегося</td>
-<td colspan="3">штука</td>
-<td colspan="19">14</td>
-</tr>
-<tr>
-<td colspan="5">349</td>
-<td colspan="12">Стойка под оргтехнику</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="5">350</td>
-<td colspan="12">Шкаф для учебно-наглядных пособий</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">351</td>
-<td colspan="11">Системный блок преподавателя</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">352</td>
-<td colspan="11">Системный блок ученика</td>
-<td colspan="3">штука</td>
-<td colspan="19">14</td>
-</tr>
-<tr>
-<td colspan="6">353</td>
-<td colspan="11">Монитор</td>
-<td colspan="3">штука</td>
-<td colspan="19">15</td>
-</tr>
-<tr>
-<td colspan="6">354</td>
-<td colspan="11">Web-камера</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">355</td>
-<td colspan="11">Акустическая система</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">356</td>
-<td colspan="11">Микрофонно-телефонная гарнитура</td>
-<td colspan="3">штука</td>
-<td colspan="19">15</td>
-</tr>
-<tr>
-<td colspan="6">357</td>
-<td colspan="11">Многофункциональное устройство</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">358</td>
-<td colspan="11">Сетевой коммутатор</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">359</td>
-<td colspan="11">Интерактивная доска</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">360</td>
-<td colspan="11">Проектор ультракороткофокусный</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">361</td>
-<td colspan="11">Крепление настенное для проектора</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">362</td>
-<td colspan="11">Блок-распределитель кабинета</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">363</td>
-<td colspan="11">Блок управления учащегося</td>
-<td colspan="3">штука</td>
-<td colspan="19">14</td>
-</tr>
-<tr>
-<td colspan="6">364</td>
-<td colspan="11">Система управления кабинетом</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">365</td>
-<td colspan="11">Плакаты и стенды</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">366</td>
-<td colspan="11">Аптечка</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">367</td>
-<td colspan="11">Сетевой фильтр</td>
-<td colspan="3">штука</td>
-<td colspan="19">15</td>
-</tr>
-<tr>
-<td colspan="6">368</td>
-<td colspan="11">Щит электроснабжения</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="39">Музыкальный зал</td>
-</tr>
-<tr>
-<td colspan="6">369</td>
-<td colspan="10">Хореографический станок с зеркалом</td>
-<td colspan="4">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="6">370</td>
-<td colspan="10">Шкаф для пособий и инвентаря</td>
-<td colspan="4">штука</td>
-<td colspan="19">4</td>
-</tr>
-<tr>
-<td colspan="6">371</td>
-<td colspan="10">Стул крутящийся без спинки</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">372</td>
-<td colspan="10">Детский стул</td>
-<td colspan="4">штука</td>
-<td colspan="19">60</td>
-</tr>
-<tr>
-<td colspan="6">373</td>
-<td colspan="10">Доска классная «Нотный стан»</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">374</td>
-<td colspan="10">Ноутбук</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">375</td>
-<td colspan="10">DVD-плеер</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">376</td>
-<td colspan="10">Музыкальный центр</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">377</td>
-<td colspan="10">Телевизор с настенным креплением</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">378</td>
-<td colspan="10">Акустическая система</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">379</td>
-<td colspan="10">Микрофон проводной</td>
-<td colspan="4">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="6">380</td>
-<td colspan="10">Микрофон беспроводной</td>
-<td colspan="4">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="6">381</td>
-<td colspan="10">Электронное пианино</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">382</td>
-<td colspan="10">Ударные инструменты</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">383</td>
-<td colspan="10">Детские музыкальные инструменты</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">384</td>
-<td colspan="10">Национальные музыкальные инструменты</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">385</td>
-<td colspan="10">Фонотека</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">386</td>
-<td colspan="10">Иллюстрации по слушанию музыкальных произведений</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">387</td>
-<td colspan="10">Портреты композиторов</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">388</td>
-<td colspan="10">Национальный костюм</td>
-<td colspan="4">штука</td>
-<td colspan="19">4</td>
-</tr>
-<tr>
-<td colspan="6">389</td>
-<td colspan="10">Карнавальный костюм</td>
-<td colspan="4">штука</td>
-<td colspan="19">12</td>
-</tr>
-<tr>
-<td colspan="39">Оборудование и мебель для кабинета физической культуры</td>
-</tr>
-<tr>
-<td colspan="6">390</td>
-<td colspan="10">Доска маркерная</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">391</td>
-<td colspan="10">Стол</td>
-<td colspan="4">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="6">392</td>
-<td colspan="10">Стул полумягкий</td>
-<td colspan="4">штука</td>
-<td colspan="19">5</td>
-</tr>
-<tr>
-<td colspan="6">393</td>
-<td colspan="10">Шкаф для кабинета</td>
-<td colspan="4">штука</td>
-<td colspan="19">3</td>
-</tr>
-<tr>
-<td colspan="6">394</td>
-<td colspan="10">Аптечка медицинская</td>
-<td colspan="4">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="6">395</td>
-<td colspan="10">Персональный компьютер</td>
-<td colspan="4">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">396</td>
-<td colspan="8">Динамометр кистевой</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">397</td>
-<td colspan="8">Свисток игровой</td>
-<td colspan="3">штука</td>
-<td colspan="19">15</td>
-</tr>
-<tr>
-<td colspan="9">398</td>
-<td colspan="8">Секундомер</td>
-<td colspan="3">штука</td>
-<td colspan="19">10</td>
-</tr>
-<tr>
-<td colspan="9">399</td>
-<td colspan="8">Электромегафон</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">400</td>
-<td colspan="8">Табло простое пластиковое</td>
-<td colspan="3">штука</td>
-<td colspan="19">3</td>
-</tr>
-<tr>
-<td colspan="9">401</td>
-<td colspan="8">Табло электронное</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">402</td>
-<td colspan="8">Рулетка измерительная 10 метров</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">403</td>
-<td colspan="8">Рулетка измерительная 50 метров</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">404</td>
-<td colspan="8">Стеллаж для хранения спортивного инвентаря</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">405</td>
-<td colspan="8">Стеллаж для хранения мячей</td>
-<td colspan="3">штука</td>
-<td colspan="19">4</td>
-</tr>
-<tr>
-<td colspan="9">406</td>
-<td colspan="8">Корзина для мячей переносная</td>
-<td colspan="3">штука</td>
-<td colspan="19">4</td>
-</tr>
-<tr>
-<td colspan="9">407</td>
-<td colspan="8">Насос для накачивания мячей</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="39">Оборудование физкультурного зала</td>
-</tr>
-<tr>
-<td colspan="39">гимнастика</td>
-</tr>
-<tr>
-<td colspan="9">408</td>
-<td colspan="8">Бревно напольное</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">409</td>
-<td colspan="8">Комплект брусьев параллельных</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">410</td>
-<td colspan="8">Комплект брусьев разновысоких</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">411</td>
-<td colspan="8">Комплект гантелей 1 кг (литые)</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">412</td>
-<td colspan="8">Доска ребристая для шведской стенки</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">413</td>
-<td colspan="8">Дорожка балансировочная</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">414</td>
-<td colspan="8">Комплект дуг для подлезания</td>
-<td colspan="3">комплект</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">415</td>
-<td colspan="8">Канат для лазания 5м</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">415</td>
-<td colspan="8">Канат для перетягивания</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">416</td>
-<td colspan="8">Козел гимнастический</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">417</td>
-<td colspan="8">Конь гимнастический</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">418</td>
-<td colspan="8">Куб деревянный, пластиковый</td>
-<td colspan="3">штука</td>
-<td colspan="19">10</td>
-</tr>
-<tr>
-<td colspan="9">419</td>
-<td colspan="8">Лента гимнастическая</td>
-<td colspan="3">штука</td>
-<td colspan="19">20</td>
-</tr>
-<tr>
-<td colspan="9">420</td>
-<td colspan="8">Лестница верёвочная</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">421</td>
-<td colspan="8">Мат гимнастический</td>
-<td colspan="3">штука</td>
-<td colspan="19">20</td>
-</tr>
-<tr>
-<td colspan="9">422</td>
-<td colspan="8">Медицинбол 1 килограмм</td>
-<td colspan="3">штука</td>
-<td colspan="19">5</td>
-</tr>
-<tr>
-<td colspan="9">423</td>
-<td colspan="8">Медицинбол 2 килограмма</td>
-<td colspan="3">штука</td>
-<td colspan="19">5</td>
-</tr>
-<tr>
-<td colspan="9">424</td>
-<td colspan="8">Мостик гимнастический</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">425</td>
-<td colspan="8">Мостик гимнастический прямой</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">426</td>
-<td colspan="8">Палка гимнастическая</td>
-<td colspan="3">штука</td>
-<td colspan="19">30</td>
-</tr>
-<tr>
-<td colspan="9">427</td>
-<td colspan="8">Перекладина высокая</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">428</td>
-<td colspan="8">Перекладина низкая</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">429</td>
-<td colspan="8">Обруч пластмассовый детский</td>
-<td colspan="3">штука</td>
-<td colspan="19">30</td>
-</tr>
-<tr>
-<td colspan="9">430</td>
-<td colspan="8">Скакалка</td>
-<td colspan="3">штука</td>
-<td colspan="19">30</td>
-</tr>
-<tr>
-<td colspan="9">431</td>
-<td colspan="8">Скамейка гимнастическая</td>
-<td colspan="3">штука</td>
-<td colspan="19">8</td>
-</tr>
-<tr>
-<td colspan="9">432</td>
-<td colspan="8">Стенка гимнастическая</td>
-<td colspan="3">штука</td>
-<td colspan="19">8</td>
-</tr>
-<tr>
-<td colspan="9">433</td>
-<td colspan="8">Туннель каркасный</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">434</td>
-<td colspan="8">Флажок разноцветный</td>
-<td colspan="3">штука</td>
-<td colspan="19">40</td>
-</tr>
-<tr>
-<td colspan="39">легкая атлетика</td>
-</tr>
-<tr>
-<td colspan="9">435</td>
-<td colspan="8">Планка для прыжков в высоту</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">436</td>
-<td colspan="8">Стойка для прыжков в высоту</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">437</td>
-<td colspan="8">Палочка эстафетная</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">438</td>
-<td colspan="8">Барьер для бега с препятствиями</td>
-<td colspan="3">комплект</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">439</td>
-<td colspan="8">Граната для метания 300 грамм</td>
-<td colspan="3">штука</td>
-<td colspan="19">10</td>
-</tr>
-<tr>
-<td colspan="9">440</td>
-<td colspan="8">Мяч и мешок для метания</td>
-<td colspan="3">штука</td>
-<td colspan="19">40</td>
-</tr>
-<tr>
-<td colspan="9">441</td>
-<td colspan="8">Мишень для метания</td>
-<td colspan="3">штука</td>
-<td colspan="19">3</td>
-</tr>
-<tr>
-<td colspan="39">лыжная и конькобежная подготовка</td>
-</tr>
-<tr>
-<td colspan="9">442</td>
-<td colspan="8">Комплект лыж (лыжи, ботинки, крепления)</td>
-<td colspan="3">комплект</td>
-<td colspan="19">35</td>
-</tr>
-<tr>
-<td colspan="9">443</td>
-<td colspan="8">Комплект лыжных палок</td>
-<td colspan="3">пара</td>
-<td colspan="19">35</td>
-</tr>
-<tr>
-<td colspan="9">444</td>
-<td colspan="8">Коньки</td>
-<td colspan="3">комплект</td>
-<td colspan="19">35</td>
-</tr>
-<tr>
-<td colspan="39">подвижные и спортивные игры</td>
-</tr>
-<tr>
-<td colspan="9">445</td>
-<td colspan="8">Ворота для мини футбола</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">446</td>
-<td colspan="8">Корзина для мячей переносная</td>
-<td colspan="3">штука</td>
-<td colspan="19">4</td>
-</tr>
-<tr>
-<td colspan="9">447</td>
-<td colspan="8">Комплект кеглей</td>
-<td colspan="3">комплект</td>
-<td colspan="19">4</td>
-</tr>
-<tr>
-<td colspan="9">448</td>
-<td colspan="8">Мяч резиновый большой</td>
-<td colspan="3">штука</td>
-<td colspan="19">30</td>
-</tr>
-<tr>
-<td colspan="9">449</td>
-<td colspan="8">Мяч резиновый малый</td>
-<td colspan="3">штука</td>
-<td colspan="19">20</td>
-</tr>
-<tr>
-<td colspan="9">450</td>
-<td colspan="8">Мяч баскетбольный</td>
-<td colspan="3">штука</td>
-<td colspan="19">30</td>
-</tr>
-<tr>
-<td colspan="9">451</td>
-<td colspan="8">Мяч волейбольный</td>
-<td colspan="3">штука</td>
-<td colspan="19">30</td>
-</tr>
-<tr>
-<td colspan="9">452</td>
-<td colspan="8">Мяч футбольный</td>
-<td colspan="3">штука</td>
-<td colspan="19">30</td>
-</tr>
-<tr>
-<td colspan="9">453</td>
-<td colspan="8">Мяч гандбольный</td>
-<td colspan="3">штука</td>
-<td colspan="19">10</td>
-</tr>
-<tr>
-<td colspan="9">454</td>
-<td colspan="8">Набор для игры в «Русскую лапту»</td>
-<td colspan="3">набор</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">455</td>
-<td colspan="8">Сетка волейбольная</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">456</td>
-<td colspan="8">Сетка для футбольных ворот</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">457</td>
-<td colspan="8">Стойка волейбольная</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">458</td>
-<td colspan="8">Фишка разметочная</td>
-<td colspan="3">штука</td>
-<td colspan="19">40</td>
-</tr>
-<tr>
-<td colspan="9">459</td>
-<td colspan="8">Щит баскетбольный с кольцом</td>
-<td colspan="3">комплект</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">460</td>
-<td colspan="8">Тогыз-кумалак</td>
-<td colspan="3">набор</td>
-<td colspan="19">5</td>
-</tr>
-<tr>
-<td colspan="9">461</td>
-<td colspan="8">Шахматы</td>
-<td colspan="3">набор</td>
-<td colspan="19">5</td>
-</tr>
-<tr>
-<td colspan="9">462</td>
-<td colspan="8">Шашки</td>
-<td colspan="3">набор</td>
-<td colspan="19">5</td>
-</tr>
-<tr>
-<td colspan="9">463</td>
-<td colspan="8">Стол для настольного тенниса</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">464</td>
-<td colspan="8">Набор для игры в настольный теннис</td>
-<td colspan="3">набор</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">465</td>
-<td colspan="8">Набор для игры в бадминтон</td>
-<td colspan="3">набор</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">466</td>
-<td colspan="8">Набор для игры в асыки</td>
-<td colspan="3">набор</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="39">спортивная площадка</td>
-</tr>
-<tr>
-<td colspan="9">467</td>
-<td colspan="8">Ворота футбольные с сеткой</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">468</td>
-<td colspan="8">Ворота для мини футбола с сеткой</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">469</td>
-<td colspan="8">Стойка баскетбольная с щитом и сеткой</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">470</td>
-<td colspan="8">Стойка волейбольная с сеткой</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">471</td>
-<td colspan="8">Брусья параллельные металлические</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="9">472</td>
-<td colspan="8">Перекладина гимнастическая</td>
-<td colspan="3">штука</td>
-<td colspan="19">5</td>
-</tr>
-<tr>
-<td colspan="9">473</td>
-<td colspan="8">Судейская вышка</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">474</td>
-<td colspan="8">Сектор для прыжков в длину</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">475</td>
-<td colspan="8">Сектор для метаний</td>
-<td colspan="3">штука</td>
-<td colspan="19">1</td>
-</tr>
-<tr>
-<td colspan="9">476</td>
-<td colspan="8">Легкоатлетическая дорожка</td>
-<td colspan="3">штука</td>
-<td colspan="19">2</td>
-</tr>
-<tr>
-<td colspan="33">Оборудование для индивидуального пользования обучающимися</td>
-</tr>
-<tr>
-<td>477</td>
-<td colspan="16">Индивидуальный шкаф для хранения учебников, сменной обуви и спортивных принадлежностей</td>
-<td colspan="15">штука</td>
-<td>25</td>
+<td>360</td>
+<td colspan="6">Утюг бытовой</td>
+<td colspan="5">штука</td>
+<td colspan="6">3</td>
 </tr>
 </table>
