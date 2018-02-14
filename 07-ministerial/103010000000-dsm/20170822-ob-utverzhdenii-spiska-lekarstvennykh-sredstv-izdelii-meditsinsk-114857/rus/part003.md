@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/114857/rus/11.12.2017
+source: https://zan.gov.kz/client/#!/doc/114857/rus/14.02.2018
 ---
 
 ## Изделия медицинского назначения
