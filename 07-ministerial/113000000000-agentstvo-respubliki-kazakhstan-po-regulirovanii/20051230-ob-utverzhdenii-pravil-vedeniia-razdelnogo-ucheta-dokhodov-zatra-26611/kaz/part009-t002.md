@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/26611/kaz/30.06.2015
+source: https://zan.gov.kz/client/#!/doc/26611/kaz/16.02.2018
 ---
 
 кестенің жалғасы
