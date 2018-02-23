@@ -1,8 +1,12 @@
 # Об утверждении Правил разработки, утверждения планов развития контролируемых государством акционерных обществ и товариществ с ограниченной ответственностью, государственных предприятий, а также мониторинга и оценки их реализации
 
+> *Сноска. В заголовок внесено изменение на казахском языке, текст на русском языке не меняется, приказом и.о. Министра национальной экономики РК от 23.02.2018 № 73 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 В соответствии с подпунктом 4-1 статьи 13 Закона Республики Казахстан от 1 марта 2011 года «О государственном имуществе» ПРИКАЗЫВАЮ:
 
 1. Утвердить прилагаемые Правила разработки, утверждения планов развития контролируемых государством акционерных обществ и товариществ с ограниченной ответственностью, государственных предприятий, а также мониторинга и оценки их реализации.
+
+   > *Сноска. В пункт 1 внесено изменение на казахском языке, текст на русском языке не меняется, приказом и.о. Министра национальной экономики РК от 23.02.2018 № 73 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 2. Департаменту политики управления государственными активами Министерства национальной экономики Республики Казахстан обеспечить в установленном законодательством порядке:
 
@@ -37,11 +41,15 @@
 
 ## Правила разработки, утверждения планов развития контролируемых государством акционерных обществ, товариществ с ограниченной ответственностью и государственных предприятий, а также мониторинга и оценки их реализации
 
-> *Сноска. Правила в редакции приказа Министра национальной экономики РК от 15.09.2017 № 330 (вводится в действие для городов районного значения, сел, поселков, сельских округов с численностью населения более двух тысяч человек с 01.01.2018 и для городов районного значения, сел, поселков, сельских округов с численностью населения две тысячи и менее человек с 01.01.2020).*
+> *Сноска. В заголовок Правил внесено изменение на казахском языке, текст на русском языке не меняется, приказом и.о. Министра национальной экономики РК от 23.02.2018 № 73 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Сноска. Правила в редакции приказа Министра национальной экономики РК от 15.09.2017 № 330 (вводится в действие для городов районного значения, сел, поселков, сельских округов с численностью населения более двух тысяч человек с 01.01.2018 и для городов районного значения, сел, поселков, сельских округов с численностью населения две тысячи и менее человек с 01.01.2020);*
 
 ### Глава 1. Общие положения
 
 1. Настоящие Правила разработки, утверждения планов развития контролируемых государством акционерных обществ и товариществ с ограниченной ответственностью, государственных предприятий, а также мониторинга и оценки их реализации (далее – Правила) разработаны в соответствии с подпунктом 4-1) статьи 13 Закона Республики Казахстан от 1 марта 2011 года «О государственном имуществе» и определяют порядок разработки, утверждения планов развития контролируемых государством акционерных обществ (далее – АО), товариществ с ограниченной ответственностью (далее – ТОО) и государственных предприятий (далее – ГП), а также мониторинг и оценку их реализации, за исключением национальных управляющих холдингов, национальных холдингов и национальных компаний.
+
+   > *Сноска. В пункт 1 внесено изменение на казахском языке, текст на русском языке не меняется, приказом и.о. Министра национальной экономики РК от 23.02.2018 № 73 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 2. Основные понятия, используемые в настоящих Правилах:
 
@@ -65,7 +73,9 @@
 
 3. План развития разрабатывается один раз на пятилетний период и согласовывается с уполномоченным органом соответствующей отрасли или местным исполнительным органом (исполнительным органом, финансируемым из местного бюджета) либо аппаратом акима города районного значения, села, поселка, сельского округа, на соответствие целям и задачам, изложенным в стратегических и программных документах Республики Казахстан и стратегическом плане государственного органа, программе развития территорий.
 
-4. Разработка плана развития осуществляется в соответствии со структурой, формами, перечнем показателей по формам согласно приложениям 1 - 28 к настоящим Правилам.
+4. Разработка плана развития осуществляется в соответствии со структурой, формами, перечнем показателей по формам согласно приложениям 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 28-1, 29, 30 к настоящим Правилам.
+
+> *Сноска. Пункт 4 в редакции приказа и.о. Министра национальной экономики РК от 23.02.2018 № 73 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 5. План развития организации содержит цели, задачи, показатели результатов и основные консолидированные и неконсолидированные показатели финансово-хозяйственной деятельности, включая инвестиции, доходы, расходы, займы, дивиденды (часть чистого дохода, подлежащая перечислению в бюджет), показатели финансовой устойчивости и другие сведения.
 
@@ -224,11 +234,20 @@
     При привлечении займов, организации разрабатывают политику управления рисками, которая утверждается советом директоров для акционерных обществ, наблюдательным советом для товариществ с ограниченной ответственностью и органом государственного управления для государственных предприятий.
 
 > *Приложение 1*  
-> *к Правилам разработки, утверждения планов развития контролируемых государством акционерных обществ и товариществ с ограниченной ответственностью, государственных предприятий, а также мониторинга и оценки их реализации, утвержденным приказом*  
+> *к Правилам разработки, утверждения*  
+> *планов развития контролируемых*  
+> *государством акционерных обществ*  
+> *и товариществ с ограниченной*  
+> *ответственностью, государственных*  
+> *предприятий, а также*  
+> *мониторинга и оценки их*  
+> *реализации, утвержденным приказом*  
 > *Министра национальной экономики*  
 > *Республики Казахстан*  
 > *от 27 марта 2015 года*  
 > *№ 249*
+
+> *Сноска. Приложение 1 в редакции приказа и.о. Министра национальной экономики РК от 23.02.2018 № 73 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 > *Форма*
 
@@ -253,7 +272,7 @@
 </tr>
 <tr>
 <td rowspan="2">5.</td>
-<td rowspan="2">Раздел «Показатели развития</td>
+<td rowspan="2">Раздел «Показатели развития»</td>
 <td rowspan="2">Главы</td>
 <td>Цели, задачи и ключевые показатели</td>
 </tr>
@@ -276,9 +295,9 @@
 <td>Приобретение долевых инструментов</td>
 </tr>
 <tr>
-<td rowspan="18">7.</td>
-<td rowspan="18">Раздел «Показатели планируемого года»</td>
-<td rowspan="18">Главы</td>
+<td rowspan="8">7.</td>
+<td rowspan="8">Раздел «Показатели планируемого года»</td>
+<td rowspan="8">Главы</td>
 <td>Активы</td>
 </tr>
 <tr>
@@ -303,9 +322,15 @@
 <td>Приобретение (создание) активов</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>Остатки готовой продукции</td>
 </tr>
 <tr>
+<td rowspan="10"></td>
+<td rowspan="10"></td>
+<td rowspan="10"></td>
 <td>План производства</td>
 </tr>
 <tr>
@@ -331,6 +356,9 @@
 </tr>
 <tr>
 <td>Налоги и другие платежи в бюджет</td>
+</tr>
+<tr>
+<td>Занимаемая площадь и автотранспорт</td>
 </tr>
 <tr>
 <td rowspan="17">8.</td>
@@ -2863,63 +2891,67 @@ _____________________________ ___________________  _________________________
 Примечание: * - если цена реализации выражается в процентах, например,предоставление кредитов, в столбцах «* цена, тысяч тенге» цена размещения указывается с округлением до сотых с указанием знака «%»
 
 > *Приложение 6*  
-> *к Правилам разработки и представления отчетов по исполнению планов развития контролируемых государством акционерных обществ, товариществ с ограниченной ответственностью и государственных предприятий, утвержденным приказом*  
-> *Министра национальной экономики*  
+> *к Правилам разработки, утверждения*  
+> *планов развития контролируемых*  
+> *государством акционерных обществ*  
+> *и товариществ с ограниченной*  
+> *ответственностью, государственных*  
+> *предприятий, а также мониторинга и*  
+> *оценки их реализации, утвержденным*  
+> *приказом Министра национальной экономики*  
 > *Республики Казахстан*  
 > *от 27 марта 2015 года*  
 > *№ 249*
 
+> *Сноска. Приложение 6 в редакции приказа и.о. Министра национальной экономики РК от 23.02.2018 № 73 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 > *Форма*
+
+Утвержден:
 
 <table>
 <tr>
-<td colspan="15">Утвержден:</td>
+<td colspan="13" rowspan="3"></td>
+<td colspan="11" rowspan="2">от</td>
+<td colspan="14">день</td>
+<td colspan="31">месяц</td>
+<td colspan="26">год</td>
 </tr>
 <tr>
-<td colspan="3" rowspan="3"></td>
-<td colspan="3" rowspan="2">от</td>
-<td colspan="3">день</td>
-<td colspan="2">месяц</td>
-<td colspan="4">год</td>
+<td colspan="14">ДД</td>
+<td colspan="31">ММ</td>
+<td colspan="26">ГГГГ</td>
 </tr>
 <tr>
-<td colspan="3">ДД</td>
-<td colspan="2">ММ</td>
-<td colspan="4">ГГГГ</td>
-</tr>
-<tr>
-<td colspan="3">№</td>
-<td colspan="9"></td>
+<td colspan="11">№</td>
+<td colspan="71"></td>
 </tr>
 </table>
 
 Наименование документа, которым утвержден План развития
 
-```
-                                                   Место печати
-                                                    организации
-```
+Место печати организации
 
 <table>
 <tr>
-<td colspan="7">Уполномоченный орган соответствующей отрасли (исполнительный орган, финансируемый из местного бюджета) либо аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="22"></td>
+<td colspan="43">Уполномоченный орган соответствующей отрасли (исполнительный орган, финансируемый из местного бюджета) либо аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="52"></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">Организация</td>
-<td colspan="5">организационно-правовая форма</td>
-<td colspan="22"></td>
+<td colspan="11" rowspan="2">Организация</td>
+<td colspan="32">организационно-правовая форма</td>
+<td colspan="52"></td>
 </tr>
 <tr>
-<td colspan="5">название</td>
-<td colspan="22"></td>
+<td colspan="32">название</td>
+<td colspan="52"></td>
 </tr>
 <tr>
-<td colspan="7">планируемый период</td>
-<td colspan="4">с</td>
-<td colspan="3">ГГГГ</td>
-<td colspan="8">по</td>
-<td colspan="7">ГГГГ</td>
+<td colspan="44">планируемый период</td>
+<td colspan="8">с</td>
+<td colspan="9">ГГГГ</td>
+<td colspan="13">по</td>
+<td colspan="21">ГГГГ</td>
 </tr>
 </table>
 
@@ -2929,1090 +2961,923 @@ _____________________________ ___________________  _________________________
 
 <table>
 <tr>
-<td colspan="2" rowspan="2">№ п/п</td>
-<td colspan="14" rowspan="2">Наименование показателей</td>
-<td colspan="2" rowspan="2">единица измерения</td>
-<td colspan="2">20ХХ-2</td>
+<td colspan="5" rowspan="2">№ п/п</td>
+<td colspan="33" rowspan="2">Наименование показателей</td>
+<td colspan="7" rowspan="2">единица измерения</td>
+<td colspan="4">20ХХ-2</td>
+<td colspan="11">20ХХ-1</td>
+<td colspan="8">20ХХ</td>
+<td colspan="5">20ХХ+1</td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="4">
 факт отчетного финансового года
 (факт)
 </td>
+<td colspan="11">
+оценка текущего финансового года
+(факт)
+</td>
+<td colspan="8">
+план на очередной финансовый год
+(оценка)
+</td>
+<td colspan="5">
+план
+(оценка)
+</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="5">2</th>
-<th colspan="2">3</th>
-<th colspan="3">4</th>
-<th colspan="2">5</th>
-<th colspan="2">6</th>
-<th colspan="2">7</th>
-<th colspan="2">8</th>
+<td colspan="5">1</td>
+<td colspan="6">2</td>
+<td colspan="11">3</td>
+<td colspan="8">4</td>
+<td colspan="4">5</td>
+<td colspan="4">6</td>
+<td colspan="7">7</td>
+<td colspan="4">8</td>
+<td colspan="11">9</td>
+<td colspan="8">10</td>
+<td colspan="5">11</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="5" rowspan="3">Активы</td>
-<td colspan="9">Организации</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">1</td>
+<td colspan="6" rowspan="3">Активы</td>
+<td colspan="27">Организации</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">2</td>
-<td colspan="9">Дочерних организаций</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">2</td>
+<td colspan="27">Дочерних организаций</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">3</td>
-<td colspan="9">Консолидированные показатели</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">3</td>
+<td colspan="27">Консолидированные показатели</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">4</td>
-<td colspan="5" rowspan="9">Источники финансирования</td>
-<td colspan="2" rowspan="3">Организации</td>
-<td colspan="7">Всего</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">4</td>
+<td colspan="6" rowspan="9">Источники финансирования</td>
+<td colspan="8" rowspan="3">Организации</td>
+<td colspan="19">Всего</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">5</td>
-<td colspan="3" rowspan="2">в том числе</td>
-<td colspan="4">собственный капитал</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">5</td>
+<td colspan="4" rowspan="2">в том числе</td>
+<td colspan="15">собственный капитал</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">6</td>
-<td colspan="4">заемный капитал</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">6</td>
+<td colspan="15">заемный капитал</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">7</td>
-<td colspan="2" rowspan="3">Дочерних организаций</td>
-<td colspan="7">Всего</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">7</td>
+<td colspan="8" rowspan="3">Дочерних организаций</td>
+<td colspan="19">Всего</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">8</td>
-<td colspan="3" rowspan="2">в том числе</td>
-<td colspan="4">собственный капитал</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">8</td>
+<td colspan="4" rowspan="2">в том числе</td>
+<td colspan="15">собственный капитал</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">9</td>
-<td colspan="4">заемный капитал</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">9</td>
+<td colspan="15">заемный капитал</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">10</td>
-<td colspan="2" rowspan="3">Консолидированные показатели</td>
-<td colspan="7">Всего</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">10</td>
+<td colspan="8" rowspan="3">Консолидированные показатели</td>
+<td colspan="19">Всего</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">11</td>
-<td colspan="3" rowspan="2">в том числе</td>
-<td colspan="4">собственный капитал</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">11</td>
+<td colspan="6" rowspan="2">в том числе</td>
+<td colspan="13">собственный капитал</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">12</td>
-<td colspan="4">заемный капитал</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">12</td>
+<td colspan="13">заемный капитал</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">13</td>
-<td colspan="5" rowspan="3">Доходы</td>
-<td colspan="9">Организации</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">13</td>
+<td colspan="6" rowspan="3">Доходы</td>
+<td colspan="27">Организации</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">14</td>
-<td colspan="9">Дочерних организаций</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">14</td>
+<td colspan="27">Дочерних организаций</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">15</td>
-<td colspan="9">Консолидированные показатели</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">15</td>
+<td colspan="27">Консолидированные показатели</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">16</td>
-<td colspan="5" rowspan="3">Расходы</td>
-<td colspan="9">Организации</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">16</td>
+<td colspan="6" rowspan="3">Расходы</td>
+<td colspan="27">Организации</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">17</td>
-<td colspan="9">Дочерних организаций</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">17</td>
+<td colspan="27">Дочерних организаций</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">18</td>
-<td colspan="9">Консолидированные показатели</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">18</td>
+<td colspan="27">Консолидированные показатели</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">19</td>
-<td colspan="5" rowspan="9">Результаты финансово-хозяйственной деятельности</td>
-<td colspan="2" rowspan="3">
+<td colspan="5">19</td>
+<td colspan="6" rowspan="9">Результаты финансово-хозяйственной деятельности</td>
+<td colspan="11" rowspan="3">
 Валовой доход
 (валовой убыток указывается со знаком минус)
 </td>
-<td colspan="7">Организации</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="16">Организации</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">20</td>
-<td colspan="7">Дочерних организаций</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">20</td>
+<td colspan="16">Дочерних организаций</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">21</td>
-<td colspan="7">Консолидированные показатели</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">21</td>
+<td colspan="16">Консолидированные показатели</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">22</td>
-<td colspan="2" rowspan="3">
+<td colspan="5">22</td>
+<td colspan="11" rowspan="3">
 Прибыль (убыток) до налогообложения
 (убыток указывается со знаком минус)
 </td>
-<td colspan="7">Организации</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="16">Организации</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">23</td>
-<td colspan="7">Дочерних организаций</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">23</td>
+<td colspan="16">Дочерних организаций</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">24</td>
-<td colspan="7">Консолидированные показатели</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
+<td colspan="5">24</td>
+<td colspan="16">Консолидированные показатели</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">25</td>
-<td colspan="2" rowspan="3">
+<td colspan="5">25</td>
+<td colspan="11" rowspan="3">
 Чистая прибыль
 (убыток указывается со знаком минус)
 </td>
-<td colspan="7">Организации</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">26</td>
-<td colspan="7">Дочерних организаций</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">27</td>
-<td colspan="7">Консолидированные показатели</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">28</td>
-<td colspan="5" rowspan="10">Доходы акционера (участника)</td>
-<td colspan="2" rowspan="5">Дивиденды</td>
-<td colspan="5" rowspan="2">начислено на одну акцию</td>
-<td colspan="2">простую</td>
-<td colspan="2">тенге</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">29</td>
-<td colspan="2">привилегированную</td>
-<td colspan="2">тенге</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">30</td>
-<td colspan="3" rowspan="3">начислено на акции</td>
-<td colspan="2" rowspan="2">находящиеся в государственной собственности</td>
-<td colspan="2">сумма</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">31</td>
-<td colspan="2">процент от чистого дохода</td>
-<td colspan="2">%</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">32</td>
-<td colspan="4">находящиеся в частной собственности</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">33</td>
-<td colspan="2" rowspan="3">Доход на долю участия</td>
-<td colspan="7">норматив распределения чистого дохода</td>
-<td colspan="2">%</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">34</td>
-<td colspan="3" rowspan="2">начислено на доли участия</td>
-<td colspan="4">находящиеся в государственной собственности</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">35</td>
-<td colspan="4">находящиеся в частной собственности</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">36</td>
-<td colspan="2" rowspan="2">Распределяемый доход государственного предприятия для перечисления в соответствующий бюджет</td>
-<td colspan="7">норматив распределения чистого дохода</td>
-<td colspan="2">%</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">37</td>
-<td colspan="7">начислено</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">38</td>
-<td colspan="5" rowspan="8">Рентабельность</td>
-<td colspan="2" rowspan="2">активов (ROA)</td>
-<td colspan="7">Организации</td>
-<td colspan="2">%</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">39</td>
-<td colspan="7">Консолидированные показатели</td>
-<td colspan="2">%</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">40</td>
-<td colspan="2" rowspan="2">собственного капитала (ROE)</td>
-<td colspan="7">Организации</td>
-<td colspan="2">%</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">41</td>
-<td colspan="7">Консолидированные показатели</td>
-<td colspan="2">%</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">42</td>
-<td colspan="2" rowspan="2">продаж (ROS)</td>
-<td colspan="7">Организации</td>
-<td colspan="2">%</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">43</td>
-<td colspan="7">Консолидированные показатели</td>
-<td colspan="2">%</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">44</td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="7">Организации</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">45</td>
-<td colspan="7">Консолидированные показатели</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">46</td>
-<td colspan="7" rowspan="2">Коэффициент финансового рычага (леверидж)</td>
-<td colspan="7">Организации</td>
-<td colspan="2">десятичная дробь</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">47</td>
-<td colspan="7">Консолидированные показатели</td>
-<td colspan="2">десятичная дробь</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">48</td>
-<td colspan="7" rowspan="2">Эффект финансового рычага (финансового левериджа)</td>
-<td colspan="7">Организации</td>
-<td colspan="2">%</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">49</td>
-<td colspan="7">Консолидированные показатели</td>
-<td colspan="2">%</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">50</td>
-<td colspan="7" rowspan="2">EBITDA</td>
-<td colspan="7">Организации</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">51</td>
-<td colspan="7">Консолидированные показатели</td>
-<td colspan="2">тысяч тенге</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">52</td>
-<td colspan="3" rowspan="3">Пруденциальные нормативы</td>
-<td colspan="8">Наименование норматива</td>
-<td colspan="3">значение, установленное законодательством Республики Казахстан</td>
-<td colspan="2">единица измерения</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">53</td>
+<td colspan="16">Организации</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
 <td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="2">54</td>
+<td colspan="5">26</td>
+<td colspan="16">Дочерних организаций</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
 <td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">27</td>
+<td colspan="16">Консолидированные показатели</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">28</td>
+<td colspan="6" rowspan="2">Доходы акционера (участника)</td>
+<td colspan="11" rowspan="2">Дивиденды</td>
+<td colspan="11" rowspan="2">начислено на одну акцию</td>
+<td colspan="5">простую</td>
+<td colspan="7">тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">29</td>
+<td colspan="5">привилегированную</td>
+<td colspan="7">тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">30</td>
+<td colspan="6" rowspan="8"></td>
+<td colspan="11" rowspan="3"></td>
+<td colspan="8" rowspan="3">начислено на акции</td>
+<td colspan="3" rowspan="2">находящиеся в государственной собственности</td>
+<td colspan="5">сумма</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">31</td>
+<td colspan="5">процент от чистого дохода</td>
+<td colspan="7">%</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">32</td>
+<td colspan="8">находящиеся в частной собственности</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">33</td>
+<td colspan="11" rowspan="3">Доход на долю участия</td>
+<td colspan="16">норматив распределения чистого дохода</td>
+<td colspan="7">%</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">34</td>
+<td colspan="8" rowspan="2">начислено на доли участия</td>
+<td colspan="8">находящиеся в государственной собственности</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">35</td>
+<td colspan="8">находящиеся в частной собственности</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">36</td>
+<td colspan="11" rowspan="2">Распределяемый доход государственного предприятия для перечисления в соответствующий бюджет</td>
+<td colspan="16">норматив распределения чистого дохода</td>
+<td colspan="7">%</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">37</td>
+<td colspan="16">начислено</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">38</td>
+<td colspan="17" rowspan="4">Распределение чистого дохода, остающегося в распоряжении организации</td>
+<td colspan="16">всего, в том числе:</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">39</td>
+<td colspan="16">на создание резервов, связанных с покрытием убытков</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">40</td>
+<td colspan="16">на развитие</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">41</td>
+<td colspan="16"></td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">42</td>
+<td colspan="8" rowspan="8">Рентабельность</td>
+<td colspan="9" rowspan="2">активов (Return On Assets, ROA)</td>
+<td colspan="16">Организации</td>
+<td colspan="7">%</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">43</td>
+<td colspan="16">Консолидированные показатели</td>
+<td colspan="7">%</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">44</td>
+<td colspan="9" rowspan="2">собственного капитала капитала (Return on Equity, ROE)</td>
+<td colspan="16">Организации</td>
+<td colspan="7">%</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">45</td>
+<td colspan="16">Консолидированные показатели</td>
+<td colspan="7">%</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">46</td>
+<td colspan="9" rowspan="2">продаж (Return On Sales, ROS)</td>
+<td colspan="16">Организации</td>
+<td colspan="7">%</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">47</td>
+<td colspan="16">Консолидированные показатели</td>
+<td colspan="7">%</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">48</td>
+<td colspan="9" rowspan="2"></td>
+<td colspan="16">Организации</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">49</td>
+<td colspan="16">Консолидированные показатели</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">50</td>
+<td colspan="17" rowspan="2">Коэффициент финансового рычага (леверидж)</td>
+<td colspan="16">Организации</td>
+<td colspan="7">десятичная дробь</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">51</td>
+<td colspan="16">Консолидированные показатели</td>
+<td colspan="7">десятичная дробь</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">52</td>
+<td colspan="17" rowspan="2">Эффект финансового рычага (финансового левериджа)</td>
+<td colspan="16">Организации</td>
+<td colspan="7">%</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">53</td>
+<td colspan="16">Консолидированные показатели</td>
+<td colspan="7">%</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">54</td>
+<td colspan="17" rowspan="2">EBITDA (Earnings before interest, taxes, depreciation and amortization)</td>
+<td colspan="16">Организации</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">55</td>
+<td colspan="16">Консолидированные показатели</td>
+<td colspan="7">тысяч тенге</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">56</td>
+<td colspan="4">Пруденциальные нормативы</td>
+<td colspan="20">Наименование норматива</td>
+<td colspan="9">значение, установленное законодательством Республики Казахстан</td>
+<td colspan="7">единица измерения</td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">57</td>
+<td colspan="4"></td>
+<td colspan="20"></td>
+<td colspan="9"></td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">58</td>
+<td colspan="4"></td>
+<td colspan="20"></td>
+<td colspan="9"></td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
 </tr>
 </table>
 
-Продолжение таблицы
-
 <table>
 <tr>
-<td>20ХХ-1</td>
-<td colspan="11">20ХХ</td>
-<td colspan="7">20ХХ+1</td>
 <td colspan="2">20ХХ+2</td>
-<td colspan="18">20ХХ+3</td>
-<td colspan="10">20ХХ+4</td>
+<td colspan="3">20ХХ+3</td>
+<td colspan="2">20ХХ+4</td>
 </tr>
 <tr>
 <td>
-оценка
-текущего
-финансового
-года(факт)
+план
+(оценка)
 </td>
-<td colspan="11">план на очередной финансовый год(оценка)</td>
-<td colspan="3">план(оценка)</td>
-<td colspan="4">корректировка</td>
-<td>план(оценка)</td>
 <td>корректировка</td>
-<td colspan="8">план(оценка)</td>
-<td colspan="10">корректировка</td>
-<td colspan="2">план</td>
-<td colspan="6">корректировка</td>
+<td>корректировка</td>
+<td>
+план
+(оценка)
+</td>
+<td>корректировка</td>
+<td>план</td>
+<td>корректировка</td>
 </tr>
 <tr>
-<th>9</th>
-<th colspan="11">10</th>
-<th colspan="3">11</th>
-<th colspan="4">12</th>
-<th>13</th>
-<th>14</th>
-<th colspan="8">15</th>
-<th colspan="10">16</th>
-<th colspan="2">17</th>
-<th colspan="6">18</th>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+<td>16</td>
+<td>17</td>
+<td>18</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
 <td></td>
 <td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td></td>
-<td colspan="8"></td>
-<td colspan="10"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
 </tr>
 </table>
 
 ```
-_____________________________ ___________________ _________________________
-Должность руководителя            Подпись          Инициал имени и фамилия
-исполнительного органа
+____________________________________________    _______   _______________________
+Должность руководителя исполнительного органа   Подпись   Фамилия, имя и отчество
+                                                              (при его наличии)
 ```
 
 > *Приложение 7*  
@@ -17238,6 +17103,289 @@ __________________________ _______________ _________________________
   _______________________       ______________   _______________________
   Должность руководителя           Подпись       Инициал имени и фамилия
   исполнительного органа
+```
+
+> *Приложение 28-1*  
+> *к Правилам разработки, утверждения*  
+> *планов развития контролируемых*  
+> *государством акционерных*  
+> *обществ и товариществ*  
+> *с ограниченной ответственностью,*  
+> *государственных предприятий,*  
+> *а также мониторинга и оценки их*  
+> *реализации, утвержденным приказом*  
+> *Министра национальной экономики*  
+> *Республики Казахстан*  
+> *от 27 марта 2015 года*  
+> *№ 249*
+
+> *Сноска. Правила дополнены приложением 28-1 в соответствии с приказом и.о. Министра национальной экономики РК от 23.02.2018 № 73 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+> *Форма*
+
+Утвержден:
+
+<table>
+<tr>
+<td colspan="5" rowspan="3"></td>
+<td colspan="7" rowspan="2">от</td>
+<td colspan="11">день</td>
+<td colspan="20">месяц</td>
+<td colspan="5">год</td>
+</tr>
+<tr>
+<td colspan="11">ДД</td>
+<td colspan="20">ММ</td>
+<td colspan="5">ГГГГ</td>
+</tr>
+<tr>
+<td colspan="7">№</td>
+<td colspan="40"></td>
+</tr>
+</table>
+
+Наименование документа, которым утвержден План развития
+
+Место печати организации
+
+<table>
+<tr>
+<td colspan="12">Уполномоченный орган соответствующей отрасли (исполнительный орган, финансируемый из местного бюджета) либо аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="36"></td>
+</tr>
+<tr>
+<td colspan="4" rowspan="2">Организация</td>
+<td colspan="8">организационно-правовая форма</td>
+<td colspan="36"></td>
+</tr>
+<tr>
+<td colspan="8">название</td>
+<td colspan="36"></td>
+</tr>
+<tr>
+<td colspan="18">планируемый период</td>
+<td colspan="8">с</td>
+<td colspan="14">ГГГГ</td>
+<td colspan="5">по</td>
+<td colspan="3">ГГГГ</td>
+</tr>
+</table>
+
+## Раздел «Показатели планируемого года»
+
+## Глава «Занимаемая площадь и автотранспорт»
+
+<table>
+<tr>
+<td rowspan="2">№ п/п</td>
+<td rowspan="2">Наименование показателей</td>
+<td rowspan="2">единица измерения</td>
+<td>20ХХ-2</td>
+<td>20ХХ-1</td>
+<td>20ХХ</td>
+<td colspan="2">20ХХ+1</td>
+<td colspan="2">20ХХ+2</td>
+<td colspan="2">20ХХ+3</td>
+<td colspan="3">20ХХ+4</td>
+</tr>
+<tr>
+<td>
+факт отчетного финансового года
+(факт)
+</td>
+<td>
+оценка текущего финансового года
+(факт)
+</td>
+<td>
+план на очередной финансовый год
+(оценка)
+</td>
+<td>
+план
+(оценка)
+</td>
+<td>корректировка</td>
+<td>
+п л а н
+( о ц е н к а )
+</td>
+<td>корректировка</td>
+<td>
+п л а н
+( о ц е н к а )
+</td>
+<td>корректировка</td>
+<td>п л а н</td>
+<td colspan="2">корректировка</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td rowspan="2">1</td>
+<td>Общая площадь, занимаемая административным персоналом</td>
+<td>квадратный метр</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>в том числе арендуемая</td>
+<td>квадратныйметр</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Штатная численность административного персонала</td>
+<td>единица</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Площадь, рассчитанная в соответствии с утвержденными нормами площадей для размещения административного персонала</td>
+<td>квадратныйметр</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Всего расходы по аренде помещений, занимаемыми административным персоналом за год</td>
+<td>тысяч тенге</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td rowspan="2">5</td>
+<td>Общее количество служебных автомобилей для административного персонала</td>
+<td>единица</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>в том числе арендуемые</td>
+<td>единица</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+Количество служебных автомобилей для административного персонала по нормативу положенности в соответствии с постановлением Правительства Республики Казахстан от 10 февраля
+2003 года № 145 «Об определении механизма проведения мониторинга административных расходов государственных предприятий, акционерных обществ, контрольные пакеты акций которых принадлежат государству, и товариществ с ограниченной ответственностью, размеры государственных долей участия в которых позволяют государству определять решения общего собрания участников, с целью их оптимизации»
+</td>
+<td>единица</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Всего расходы по аренде автомобилей для административного персонала</td>
+<td>тысяч тенге</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+```
+_____________________________________________   _______   _______________________
+Должность руководителя исполнительного органа   Подпись   Фамилия, имя и отчество
+                                                             (при его наличии)
 ```
 
 > *Приложение 29*  
