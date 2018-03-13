@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/54050/kaz/30.06.2015
+source: https://zan.gov.kz/client/#!/doc/54050/kaz/13.03.2018
 ---
 
 # Өнеркәсіптік меншік объектілерін құқықтық қорғаудың кейбір мәселелері

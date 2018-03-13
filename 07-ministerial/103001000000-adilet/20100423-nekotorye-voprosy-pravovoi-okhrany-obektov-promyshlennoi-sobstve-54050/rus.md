@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/54050/rus/30.06.2015
+source: https://zan.gov.kz/client/#!/doc/54050/rus/13.03.2018
 ---
 
 # Некоторые вопросы правовой охраны объектов промышленной собственности
