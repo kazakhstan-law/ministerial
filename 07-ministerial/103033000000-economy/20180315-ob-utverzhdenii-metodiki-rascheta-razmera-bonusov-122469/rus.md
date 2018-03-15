@@ -14,6 +14,11 @@ approval_date: 2018-03-15
 version_date: 2018-03-15
 registry_number: '122469'
 source: https://zan.gov.kz/client/#!/doc/122469/rus/15.03.2018
+repealed_on: 2021-07-01
+repealed_by:
+  code: '122469'
+  title: Об утверждении Методики расчета размера бонусов
+  link: https://zan.gov.kz/client/#!/doc/122469/rus
 ---
 
 # Об утверждении Методики расчета размера бонусов
