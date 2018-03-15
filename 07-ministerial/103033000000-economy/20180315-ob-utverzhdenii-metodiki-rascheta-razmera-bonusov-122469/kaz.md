@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/122469/kaz/15.03.2018
+repealed_on: 2021-07-01
+repealed_by:
+  code: '122469'
+  title: Бонустардың мөлшерін есептеу әдістемесін бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/122469/kaz
 ---
 
 # Бонустардың мөлшерін есептеу әдістемесін бекіту туралы
