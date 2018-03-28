@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/59249/kaz/04.11.2016
+source: https://zan.gov.kz/client/#!/doc/59249/kaz/28.03.2018
 ---
 
 # Теңіз кемелерінің жүк маркасы туралы қағидасын бекіту туралы

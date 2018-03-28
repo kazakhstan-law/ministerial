@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/59712/kaz/30.11.2017
+source: https://zan.gov.kz/client/#!/doc/59712/kaz/28.03.2018
 ---
 
 # Теңіз кемелерін сыныптау және жасау қағидаларын бекіту туралы

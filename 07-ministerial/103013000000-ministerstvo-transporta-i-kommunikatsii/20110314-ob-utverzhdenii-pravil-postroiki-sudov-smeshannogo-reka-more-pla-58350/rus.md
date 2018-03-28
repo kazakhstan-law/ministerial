@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/58350/rus/14.03.2011
+source: https://zan.gov.kz/client/#!/doc/58350/rus/28.03.2018
 ---
 
 # Об утверждении Правил постройки судов смешанного "река-море" плавания
