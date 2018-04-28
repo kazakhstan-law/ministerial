@@ -14,6 +14,11 @@ approval_date: 2014-10-29
 version_date: 2014-10-29
 registry_number: '86567'
 source: https://zan.gov.kz/client/#!/doc/86567/kaz/29.10.2014
+repealed_on: 2018-06-29
+repealed_by:
+  code: '122840'
+  title: Қазақстан Республикасы Энергетика министрінің кейбір бұйрықтарының күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/122840/kaz
 ---
 
 # Жағалау жиегiнiң нақты орналасқан жерiн айқындау қағидасын бекіту туралы

@@ -14,6 +14,11 @@ approval_date: 2015-01-27
 version_date: 2015-01-27
 registry_number: '87768'
 source: https://zan.gov.kz/client/#!/doc/87768/rus/27.01.2015
+repealed_on: 2018-06-29
+repealed_by:
+  code: '122840'
+  title: О признании утратившими силу некоторых приказов Министра энергетики Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/122840/rus
 ---
 
 # Об утверждении Правил ведения единой базы данных добычи и оборота нефти

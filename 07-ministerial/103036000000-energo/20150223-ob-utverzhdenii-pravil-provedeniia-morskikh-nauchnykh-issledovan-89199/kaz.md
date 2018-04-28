@@ -14,6 +14,11 @@ approval_date: 2015-02-23
 version_date: 2015-02-23
 registry_number: '89199'
 source: https://zan.gov.kz/client/#!/doc/89199/kaz/23.02.2015
+repealed_on: 2018-06-29
+repealed_by:
+  code: '122840'
+  title: Қазақстан Республикасы Энергетика министрінің кейбір бұйрықтарының күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/122840/kaz
 ---
 
 # Теңіздегі ғылыми зерттеулерді жүргізу қағидасын бекіту туралы
