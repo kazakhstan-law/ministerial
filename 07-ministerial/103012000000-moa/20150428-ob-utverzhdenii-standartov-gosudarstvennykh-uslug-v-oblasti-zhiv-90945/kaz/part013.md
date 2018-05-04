@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/90945/kaz/10.03.2017
+source: https://zan.gov.kz/client/#!/doc/90945/kaz/04.05.2018
 ---
 
 > *«Асыл тұқымды мал*  
