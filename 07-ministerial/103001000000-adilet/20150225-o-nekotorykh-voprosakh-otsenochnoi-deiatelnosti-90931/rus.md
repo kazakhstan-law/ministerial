@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/90931/rus/24.05.2017
+repealed_on: 2018-07-13
+repealed_by:
+  code: '122104'
+  title: Об утверждении стандартов оценки
+  link: https://zan.gov.kz/client/#!/doc/122104/rus
 ---
 
 # О некоторых вопросах оценочной деятельности

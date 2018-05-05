@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/90931/kaz/24.05.2017
+repealed_on: 2018-07-13
+repealed_by:
+  code: '122104'
+  title: Бағалау стандарттарын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/122104/kaz
 ---
 
 # Бағалау қызметiнiң кейбiр мәселелерi туралы
