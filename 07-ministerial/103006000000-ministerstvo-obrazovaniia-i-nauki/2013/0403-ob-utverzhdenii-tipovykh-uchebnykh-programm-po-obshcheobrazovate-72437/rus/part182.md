@@ -1,11 +1,10 @@
 ↑ [Вся редакция](../rus.md)
 
-> *Приложение к Типовой учебной*  
-> *программе по учебному*  
-> *предмету "Казахский язык"*  
-> *для 1-4 классов уровня*  
-> *начального образования*  
-> *(с неказахским языком обучения)*
+> *Приложение 2*  
+> *к Типовой учебной программе*  
+> *по предмету «Казахский язык»*  
+> *для 1-4 классов уровня начального*  
+> *образования*
 
 ## Лексико-грамматический минимум для 1-4 классов
 
@@ -13,23 +12,26 @@
 
 <table>
 <tr>
-<td colspan="7">Все обо мне – 17 слов</td>
+<td colspan="8">Все обо мне – 17 слов</td>
 </tr>
 <tr>
-<td>№</td>
-<td>№</td>
+<td>
+№
+п/п
+</td>
+<td colspan="2">№ по темам</td>
 <td>Лексический минимум (актив)</td>
-<td>ЧР</td>
+<td colspan="2">ЧР</td>
 <td>Абсолютная частота</td>
-<td colspan="2">Грамматический минимум</td>
+<td>Грамматический минимум</td>
 </tr>
 <tr>
 <td>1</td>
-<td>1</td>
+<td colspan="2">1</td>
 <td>нет</td>
-<td>мд</td>
+<td colspan="2">мд</td>
 <td>16115</td>
-<td colspan="2" rowspan="17">
+<td rowspan="17">
 Образец:
 Кто это?
 Это – ученик.
@@ -57,126 +59,126 @@
 </tr>
 <tr>
 <td>2</td>
-<td>2</td>
+<td colspan="2">2</td>
 <td>есть</td>
-<td>мд</td>
+<td colspan="2">мд</td>
 <td>13032</td>
 </tr>
 <tr>
 <td>3</td>
-<td>3</td>
+<td colspan="2">3</td>
 <td>лет</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>3142</td>
 </tr>
 <tr>
 <td>4</td>
-<td>4</td>
+<td colspan="2">4</td>
 <td>имя</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>7955</td>
 </tr>
 <tr>
 <td>5</td>
-<td>5</td>
+<td colspan="2">5</td>
 <td>кто?</td>
-<td>мест</td>
+<td colspan="2">мест</td>
 <td>6799</td>
 </tr>
 <tr>
 <td>6</td>
-<td>6</td>
+<td colspan="2">6</td>
 <td>игрушка</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>238</td>
 </tr>
 <tr>
 <td>7</td>
-<td>7</td>
+<td colspan="2">7</td>
 <td>это</td>
-<td>мест</td>
+<td colspan="2">мест</td>
 <td>32850</td>
 </tr>
 <tr>
 <td>8</td>
-<td>8</td>
+<td colspan="2">8</td>
 <td>я</td>
-<td>мест</td>
+<td colspan="2">мест</td>
 <td>12260</td>
 </tr>
 <tr>
 <td>9</td>
-<td>9</td>
+<td colspan="2">9</td>
 <td>что?</td>
-<td>мест</td>
+<td colspan="2">мест</td>
 <td>1482</td>
 </tr>
 <tr>
 <td>10</td>
-<td>10</td>
+<td colspan="2">10</td>
 <td>сколько?</td>
-<td>мест</td>
+<td colspan="2">мест</td>
 <td>1766</td>
 </tr>
 <tr>
 <td>11</td>
-<td>11</td>
+<td colspan="2">11</td>
 <td>семь</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>1832</td>
 </tr>
 <tr>
 <td>12</td>
-<td>12</td>
+<td colspan="2">12</td>
 <td>ученик</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>7370</td>
 </tr>
 <tr>
 <td>13</td>
-<td>13</td>
+<td colspan="2">13</td>
 <td>сидеть</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>22038</td>
 </tr>
 <tr>
 <td>14</td>
-<td>14</td>
+<td colspan="2">14</td>
 <td>ты</td>
-<td>мест</td>
+<td colspan="2">мест</td>
 <td>15345</td>
 </tr>
 <tr>
 <td>15</td>
-<td>15</td>
+<td colspan="2">15</td>
 <td>он (она)</td>
-<td>мест</td>
+<td colspan="2">мест</td>
 <td>62796</td>
 </tr>
 <tr>
 <td>16</td>
-<td>16</td>
+<td colspan="2">16</td>
 <td>книга</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>4405</td>
 </tr>
 <tr>
 <td>17</td>
-<td>17</td>
+<td colspan="2">17</td>
 <td>ручка</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>3586</td>
 </tr>
 <tr>
-<td colspan="7">Моя школа – 17 слов</td>
+<td colspan="8">Моя школа – 17 слов</td>
 </tr>
 <tr>
 <td>18</td>
 <td>1</td>
-<td>сентябрь</td>
+<td colspan="3">сентябрь</td>
 <td>сущ</td>
 <td>468</td>
-<td colspan="2" rowspan="17">
+<td rowspan="17">
 Образец:
 Это книга?
 Да, это – книга.
@@ -200,125 +202,125 @@
 <tr>
 <td>19</td>
 <td>2</td>
-<td>писать</td>
+<td colspan="3">писать</td>
 <td>гл</td>
 <td>3676</td>
 </tr>
 <tr>
 <td>20</td>
 <td>3</td>
-<td>белый</td>
+<td colspan="3">белый</td>
 <td>прил</td>
 <td>1201</td>
 </tr>
 <tr>
 <td>21</td>
 <td>4</td>
-<td>черный</td>
+<td colspan="3">черный</td>
 <td>прил</td>
 <td>4765</td>
 </tr>
 <tr>
 <td>22</td>
 <td>5</td>
-<td>красный</td>
+<td colspan="3">красный</td>
 <td>прил</td>
 <td>2112</td>
 </tr>
 <tr>
 <td>23</td>
 <td>6</td>
-<td>школа</td>
+<td colspan="3">школа</td>
 <td>сущ</td>
 <td>7586</td>
 </tr>
 <tr>
 <td>24</td>
 <td>7</td>
-<td>читать</td>
+<td colspan="3">читать</td>
 <td>гл</td>
 <td>11511</td>
 </tr>
 <tr>
 <td>25</td>
 <td>8</td>
-<td>сегодня</td>
+<td colspan="3">сегодня</td>
 <td>нар</td>
 <td>5350</td>
 </tr>
 <tr>
 <td>26</td>
 <td>9</td>
-<td>день</td>
+<td colspan="3">день</td>
 <td>сущ</td>
 <td>18245</td>
 </tr>
 <tr>
 <td>27</td>
 <td>10</td>
-<td>положить</td>
+<td colspan="3">положить</td>
 <td>гл</td>
 <td>4983</td>
 </tr>
 <tr>
 <td>28</td>
 <td>11</td>
-<td>первый</td>
+<td colspan="3">первый</td>
 <td>числ</td>
 <td>7289</td>
 </tr>
 <tr>
 <td>29</td>
 <td>12</td>
-<td>класс</td>
+<td colspan="3">класс</td>
 <td>сущ</td>
 <td>2380</td>
 </tr>
 <tr>
 <td>30</td>
 <td>13</td>
-<td>давать</td>
+<td colspan="3">давать</td>
 <td>гл</td>
 <td>40295</td>
 </tr>
 <tr>
 <td>31</td>
 <td>14</td>
-<td>взять</td>
+<td colspan="3">взять</td>
 <td>гл</td>
 <td>43359</td>
 </tr>
 <tr>
 <td>32</td>
 <td>15</td>
-<td>доска</td>
+<td colspan="3">доска</td>
 <td>гл</td>
 <td>653</td>
 </tr>
 <tr>
 <td>33</td>
 <td>16</td>
-<td>слушать</td>
+<td colspan="3">слушать</td>
 <td>гл</td>
 <td>25</td>
 </tr>
 <tr>
 <td>34</td>
 <td>17</td>
-<td>урок</td>
+<td colspan="3">урок</td>
 <td>сущ</td>
 <td>5562</td>
 </tr>
 <tr>
-<td colspan="7">Моя семья и друзья – 12 слов</td>
+<td colspan="8">Моя семья и друзья – 12 слов</td>
 </tr>
 <tr>
 <td>35</td>
 <td>1</td>
-<td>брат</td>
+<td colspan="3">брат</td>
 <td>сущ</td>
 <td>3389</td>
-<td colspan="2" rowspan="12">
+<td rowspan="12">
 Чья семья?
 Моя семья.
 Чей друг?
@@ -334,90 +336,90 @@
 <tr>
 <td>36</td>
 <td>2</td>
-<td>мать</td>
+<td colspan="3">мать</td>
 <td>сущ</td>
 <td>4671</td>
 </tr>
 <tr>
 <td>37</td>
 <td>3</td>
-<td>друг</td>
+<td colspan="3">друг</td>
 <td>сущ</td>
 <td>3312</td>
 </tr>
 <tr>
 <td>38</td>
 <td>4</td>
-<td>сестра</td>
+<td colspan="3">сестра</td>
 <td>сущ</td>
 <td>853</td>
 </tr>
 <tr>
 <td>39</td>
 <td>5</td>
-<td>бабушка</td>
+<td colspan="3">бабушка</td>
 <td>сущ</td>
 <td>3091</td>
 </tr>
 <tr>
 <td>40</td>
 <td>6</td>
-<td>младший брат</td>
+<td colspan="3">младший брат</td>
 <td>сущ</td>
 <td>800</td>
 </tr>
 <tr>
 <td>41</td>
 <td>7</td>
-<td>младшая сестра</td>
+<td colspan="3">младшая сестра</td>
 <td>сущ</td>
 <td>527</td>
 </tr>
 <tr>
 <td>42</td>
 <td>8</td>
-<td>отец</td>
+<td colspan="3">отец</td>
 <td>сущ</td>
 <td>5583</td>
 </tr>
 <tr>
 <td>43</td>
 <td>9</td>
-<td>семья</td>
+<td colspan="3">семья</td>
 <td>сущ</td>
 <td>8643</td>
 </tr>
 <tr>
 <td>44</td>
 <td>10</td>
-<td>дедушка</td>
+<td colspan="3">дедушка</td>
 <td>сущ</td>
 <td>2501</td>
 </tr>
 <tr>
 <td>45</td>
 <td>11</td>
-<td>младшая сестра</td>
+<td colspan="3">младшая сестра</td>
 <td>сущ</td>
 <td>205</td>
 </tr>
 <tr>
 <td>46</td>
 <td>12</td>
-<td>любить</td>
+<td colspan="3">любить</td>
 <td>гл</td>
 <td>8118/13790</td>
 </tr>
 <tr>
-<td colspan="7">Мир вокруг нас – 14 слов</td>
+<td colspan="8">Мир вокруг нас – 14 слов</td>
 </tr>
 <tr>
 <td>47</td>
 <td>1</td>
-<td>дерево</td>
+<td colspan="3">дерево</td>
 <td>сущ</td>
 <td>2439</td>
-<td colspan="2" rowspan="14">
+<td rowspan="14">
 Образец:
 Структура предложения:
 Теплый день.
@@ -445,103 +447,103 @@
 <tr>
 <td>48</td>
 <td>2</td>
-<td>двор</td>
+<td colspan="3">двор</td>
 <td>сущ</td>
 <td>281</td>
 </tr>
 <tr>
 <td>49</td>
 <td>3</td>
-<td>идти</td>
+<td colspan="3">идти</td>
 <td>гл</td>
 <td>16156</td>
 </tr>
 <tr>
 <td>50</td>
 <td>4</td>
-<td>играть</td>
+<td colspan="3">играть</td>
 <td>гл</td>
 <td>2295</td>
 </tr>
 <tr>
 <td>51</td>
 <td>5</td>
-<td>ходить</td>
+<td colspan="3">ходить</td>
 <td>гл</td>
 <td>16849</td>
 </tr>
 <tr>
 <td>52</td>
 <td>6</td>
-<td>теплый</td>
+<td colspan="3">теплый</td>
 <td>прил</td>
 <td>5260</td>
 </tr>
 <tr>
 <td>53</td>
 <td>7</td>
-<td>снег</td>
+<td colspan="3">снег</td>
 <td>сущ</td>
 <td>1528</td>
 </tr>
 <tr>
 <td>54</td>
 <td>8</td>
-<td>волк</td>
+<td colspan="3">волк</td>
 <td>сущ</td>
 <td>1065</td>
 </tr>
 <tr>
 <td>55</td>
 <td>9</td>
-<td>дом</td>
+<td colspan="3">дом</td>
 <td>сущ</td>
 <td>11948</td>
 </tr>
 <tr>
 <td>56</td>
 <td>10</td>
-<td>заяц</td>
+<td colspan="3">заяц</td>
 <td>сущ</td>
 <td>923</td>
 </tr>
 <tr>
 <td>57</td>
 <td>11</td>
-<td>видеть</td>
+<td colspan="3">видеть</td>
 <td>гл</td>
 <td>13790</td>
 </tr>
 <tr>
 <td>58</td>
 <td>12</td>
-<td>холодный</td>
+<td colspan="3">холодный</td>
 <td>прил</td>
 <td>769</td>
 </tr>
 <tr>
 <td>59</td>
 <td>13</td>
-<td>гора</td>
+<td colspan="3">гора</td>
 <td>сущ</td>
 <td>4647</td>
 </tr>
 <tr>
 <td>60</td>
 <td>14</td>
-<td>улица</td>
+<td colspan="3">улица</td>
 <td>зт</td>
 <td>3965</td>
 </tr>
 <tr>
-<td colspan="7">Путешествие – 16 слов</td>
+<td colspan="8">Путешествие – 16 слов</td>
 </tr>
 <tr>
 <td>61</td>
 <td>1</td>
-<td>аэропорт</td>
+<td colspan="3">аэропорт</td>
 <td>сущ</td>
-<td colspan="2">213</td>
+<td>213</td>
 <td rowspan="16">
 Изучаем звуки!
 Ә, І, Ө, Қ, Ғ
@@ -568,117 +570,117 @@
 <tr>
 <td>62</td>
 <td>2</td>
-<td>аул</td>
+<td colspan="3">аул</td>
 <td>сущ</td>
-<td colspan="2">6069</td>
+<td>6069</td>
 </tr>
 <tr>
 <td>63</td>
 <td>3</td>
-<td>нравиться</td>
+<td colspan="3">нравиться</td>
 <td>гл</td>
-<td colspan="2">1935</td>
+<td>1935</td>
 </tr>
 <tr>
 <td>64</td>
 <td>4</td>
-<td>отдыхать</td>
+<td colspan="3">отдыхать</td>
 <td>гл</td>
-<td colspan="2">562</td>
+<td>562</td>
 </tr>
 <tr>
 <td>65</td>
 <td>5</td>
-<td>отдых</td>
+<td colspan="3">отдых</td>
 <td>сущ</td>
-<td colspan="2">1349</td>
+<td>1349</td>
 </tr>
 <tr>
 <td>66</td>
 <td>6</td>
-<td>завтра</td>
+<td colspan="3">завтра</td>
 <td>нар</td>
-<td colspan="2">1228</td>
+<td>1228</td>
 </tr>
 <tr>
 <td>67</td>
 <td>7</td>
-<td>двадцать</td>
+<td colspan="3">двадцать</td>
 <td>числ</td>
-<td colspan="2">1024</td>
+<td>1024</td>
 </tr>
 <tr>
 <td>68</td>
 <td>8</td>
-<td>дорога</td>
+<td colspan="3">дорога</td>
 <td>сущ</td>
-<td colspan="2">11756</td>
+<td>11756</td>
 </tr>
 <tr>
 <td>69</td>
 <td>9</td>
-<td>вчера</td>
+<td colspan="3">вчера</td>
 <td>нар</td>
-<td colspan="2">733</td>
+<td>733</td>
 </tr>
 <tr>
 <td>70</td>
 <td>10</td>
-<td>транспорт</td>
+<td colspan="3">транспорт</td>
 <td>сущ</td>
-<td colspan="2">1415</td>
+<td>1415</td>
 </tr>
 <tr>
 <td>71</td>
 <td>11</td>
-<td>путешествие</td>
+<td colspan="3">путешествие</td>
 <td>сущ</td>
-<td colspan="2">404</td>
+<td>404</td>
 </tr>
 <tr>
 <td>72</td>
 <td>12</td>
-<td>город</td>
+<td colspan="3">город</td>
 <td>сущ</td>
-<td colspan="2">10871</td>
+<td>10871</td>
 </tr>
 <tr>
 <td>73</td>
 <td>13</td>
-<td>садиться</td>
+<td colspan="3">садиться</td>
 <td>гл</td>
-<td colspan="2">1354</td>
+<td>1354</td>
 </tr>
 <tr>
 <td>74</td>
 <td>14</td>
-<td>выйти</td>
+<td colspan="3">выйти</td>
 <td>гл</td>
-<td colspan="2">12374</td>
+<td>12374</td>
 </tr>
 <tr>
 <td>75</td>
 <td>15</td>
-<td>кататься</td>
+<td colspan="3">кататься</td>
 <td>гл</td>
-<td colspan="2">699</td>
+<td>699</td>
 </tr>
 <tr>
 <td>76</td>
 <td>16</td>
-<td>самолет</td>
+<td colspan="3">самолет</td>
 <td>сущ</td>
-<td colspan="2">450</td>
+<td>450</td>
 </tr>
 <tr>
-<td colspan="7">Традиции и фольклор – 16 слов</td>
+<td colspan="8">Традиции и фольклор – 16 слов</td>
 </tr>
 <tr>
 <td>77</td>
 <td>1</td>
-<td>говорить</td>
+<td colspan="3">говорить</td>
 <td>гл</td>
-<td colspan="2">23421</td>
+<td>23421</td>
 <td rowspan="16">
 Изучаем звуки!
 Ұ, Ү, Ң, һ
@@ -699,117 +701,117 @@
 <tr>
 <td>78</td>
 <td>2</td>
-<td>знать</td>
+<td colspan="3">знать</td>
 <td>гл</td>
-<td colspan="2">165</td>
+<td>165</td>
 </tr>
 <tr>
 <td>79</td>
 <td>3</td>
-<td>домбра</td>
+<td colspan="3">домбра</td>
 <td>сущ</td>
-<td colspan="2">810</td>
+<td>810</td>
 </tr>
 <tr>
 <td>80</td>
 <td>4</td>
-<td>правильный</td>
+<td colspan="3">правильный</td>
 <td>прил</td>
-<td colspan="2">4443</td>
+<td>4443</td>
 </tr>
 <tr>
 <td>81</td>
 <td>5</td>
-<td>сказка</td>
+<td colspan="3">сказка</td>
 <td>сущ</td>
-<td colspan="2">1549</td>
+<td>1549</td>
 </tr>
 <tr>
 <td>82</td>
 <td>6</td>
-<td>выучить</td>
+<td colspan="3">выучить</td>
 <td>гл</td>
-<td colspan="2">557</td>
+<td>557</td>
 </tr>
 <tr>
 <td>83</td>
 <td>7</td>
-<td>быстро</td>
+<td colspan="3">быстро</td>
 <td>нар</td>
-<td colspan="2">654</td>
+<td>654</td>
 </tr>
 <tr>
 <td>84</td>
 <td>8</td>
-<td>шашу</td>
+<td colspan="3">шашу</td>
 <td>сущ</td>
-<td colspan="2">99</td>
+<td>99</td>
 </tr>
 <tr>
 <td>85</td>
 <td>9</td>
-<td>интересный</td>
+<td colspan="3">интересный</td>
 <td>прил</td>
-<td colspan="2">379</td>
+<td>379</td>
 </tr>
 <tr>
 <td>86</td>
 <td>10</td>
-<td>праздник</td>
+<td colspan="3">праздник</td>
 <td>сущ</td>
-<td colspan="2">1432</td>
+<td>1432</td>
 </tr>
 <tr>
 <td>87</td>
 <td>11</td>
-<td>загадка</td>
+<td colspan="3">загадка</td>
 <td>сущ</td>
-<td colspan="2">1156</td>
+<td>1156</td>
 </tr>
 <tr>
 <td>88</td>
 <td>12</td>
-<td>здороваться</td>
+<td colspan="3">здороваться</td>
 <td>гл</td>
-<td colspan="2">164</td>
+<td>164</td>
 </tr>
 <tr>
 <td>89</td>
 <td>13</td>
-<td>вы</td>
+<td colspan="3">вы</td>
 <td>мест</td>
-<td colspan="2">6119</td>
+<td>6119</td>
 </tr>
 <tr>
 <td>90</td>
 <td>14</td>
-<td>уважать</td>
+<td colspan="3">уважать</td>
 <td>гл</td>
-<td colspan="2">1170</td>
+<td>1170</td>
 </tr>
 <tr>
 <td>91</td>
 <td>15</td>
-<td>играть</td>
+<td colspan="3">играть</td>
 <td>гл</td>
-<td colspan="2">6839</td>
+<td>6839</td>
 </tr>
 <tr>
 <td>92</td>
 <td>16</td>
-<td>встать</td>
+<td colspan="3">встать</td>
 <td>гл</td>
-<td colspan="2">28643</td>
+<td>28643</td>
 </tr>
 <tr>
-<td colspan="7">Еда и напитки – 14 слов</td>
+<td colspan="8">Еда и напитки – 14 слов</td>
 </tr>
 <tr>
 <td>93</td>
 <td>1</td>
-<td>молоко</td>
+<td colspan="3">молоко</td>
 <td>сущ</td>
-<td colspan="2">1218</td>
+<td>1218</td>
 <td rowspan="14">
 Временное значение
 (прошедшее действие):
@@ -833,103 +835,103 @@
 <tr>
 <td>94</td>
 <td>2</td>
-<td>груша</td>
+<td colspan="3">груша</td>
 <td>сущ</td>
-<td colspan="2">108</td>
+<td>108</td>
 </tr>
 <tr>
 <td>95</td>
 <td>3</td>
-<td>хлеб</td>
+<td colspan="3">хлеб</td>
 <td>сущ</td>
-<td colspan="2">697</td>
+<td>697</td>
 </tr>
 <tr>
 <td>96</td>
 <td>4</td>
-<td>каша</td>
+<td colspan="3">каша</td>
 <td>сущ</td>
-<td colspan="2">85</td>
+<td>85</td>
 </tr>
 <tr>
 <td>97</td>
 <td>5</td>
-<td>кушать</td>
+<td colspan="3">кушать</td>
 <td>гл</td>
-<td colspan="2">2063</td>
+<td>2063</td>
 </tr>
 <tr>
 <td>98</td>
 <td>6</td>
-<td>пить</td>
+<td colspan="3">пить</td>
 <td>гл</td>
-<td colspan="2">2242</td>
+<td>2242</td>
 </tr>
 <tr>
 <td>99</td>
 <td>7</td>
-<td>ложка</td>
+<td colspan="3">ложка</td>
 <td>сущ</td>
-<td colspan="2">165</td>
+<td>165</td>
 </tr>
 <tr>
 <td>100</td>
 <td>8</td>
-<td>огурец</td>
+<td colspan="3">огурец</td>
 <td>сущ</td>
-<td colspan="2">94</td>
+<td>94</td>
 </tr>
 <tr>
 <td>101</td>
 <td>9</td>
-<td>варить</td>
+<td colspan="3">варить</td>
 <td>гл</td>
-<td colspan="2">576</td>
+<td>576</td>
 </tr>
 <tr>
 <td>102</td>
 <td>10</td>
-<td>суп</td>
+<td colspan="3">суп</td>
 <td>сущ</td>
-<td colspan="2">190</td>
+<td>190</td>
 </tr>
 <tr>
 <td>103</td>
 <td>11</td>
-<td>еда</td>
+<td colspan="3">еда</td>
 <td>сущ</td>
-<td colspan="2">2062</td>
+<td>2062</td>
 </tr>
 <tr>
 <td>104</td>
 <td>12</td>
-<td>сладкий</td>
+<td colspan="3">сладкий</td>
 <td>прил</td>
-<td colspan="2">369</td>
+<td>369</td>
 </tr>
 <tr>
 <td>105</td>
 <td>13</td>
-<td>мороженое</td>
+<td colspan="3">мороженое</td>
 <td>сущ</td>
-<td colspan="2">233</td>
+<td>233</td>
 </tr>
 <tr>
 <td>106</td>
 <td>14</td>
-<td>Сок</td>
+<td colspan="3">сок</td>
 <td>сущ</td>
-<td colspan="2">260</td>
+<td>260</td>
 </tr>
 <tr>
-<td colspan="7">В здоровом теле здоровый дух – 14 слов</td>
+<td colspan="8">В здоровом теле здоровый дух – 14 слов</td>
 </tr>
 <tr>
 <td>107</td>
 <td>1</td>
-<td>Нос</td>
+<td colspan="3">нос</td>
 <td>сущ</td>
-<td colspan="2">528</td>
+<td>528</td>
 <td rowspan="14">
 Собственное значение:
 Моя рука.
@@ -956,93 +958,93 @@
 <tr>
 <td>108</td>
 <td>2</td>
-<td>Нога</td>
+<td colspan="3">нога</td>
 <td>сущ</td>
-<td colspan="2">3242</td>
+<td>3242</td>
 </tr>
 <tr>
 <td>109</td>
 <td>3</td>
-<td>Голова</td>
+<td colspan="3">голова</td>
 <td>сущ</td>
-<td colspan="2">10983</td>
+<td>10983</td>
 </tr>
 <tr>
 <td>110</td>
 <td>4</td>
-<td>глаз</td>
+<td colspan="3">глаз</td>
 <td>сущ</td>
-<td colspan="2">12837</td>
+<td>12837</td>
 </tr>
 <tr>
 <td>111</td>
 <td>5</td>
-<td>чистить</td>
+<td colspan="3">чистить</td>
 <td>гл</td>
-<td colspan="2">381</td>
+<td>381</td>
 </tr>
 <tr>
 <td>112</td>
 <td>6</td>
-<td>рот</td>
+<td colspan="3">рот</td>
 <td>сущ</td>
-<td colspan="2">3734</td>
+<td>3734</td>
 </tr>
 <tr>
 <td>113</td>
 <td>7</td>
-<td>мыть</td>
+<td colspan="3">мыть</td>
 <td>гл</td>
-<td colspan="2">676</td>
+<td>676</td>
 </tr>
 <tr>
 <td>114</td>
 <td>8</td>
-<td>ухо</td>
+<td colspan="3">ухо</td>
 <td>сущ</td>
-<td colspan="2">2432</td>
+<td>2432</td>
 </tr>
 <tr>
 <td>115</td>
 <td>9</td>
-<td>волосы</td>
+<td colspan="3">волосы</td>
 <td>сущ</td>
-<td colspan="2">825</td>
+<td>825</td>
 </tr>
 <tr>
 <td>116</td>
 <td>10</td>
-<td>рука</td>
+<td colspan="3">рука</td>
 <td>сущ</td>
-<td colspan="2">11526</td>
+<td>11526</td>
 </tr>
 <tr>
 <td>117</td>
 <td>11</td>
-<td>правый</td>
+<td colspan="3">правый</td>
 <td>прил</td>
-<td colspan="2">1240</td>
+<td>1240</td>
 </tr>
 <tr>
 <td>118</td>
 <td>12</td>
-<td>левый</td>
+<td colspan="3">левый</td>
 <td>прил</td>
-<td colspan="2">215</td>
+<td>215</td>
 </tr>
 <tr>
 <td>119</td>
 <td>13</td>
-<td>вода</td>
+<td colspan="3">вода</td>
 <td>сущ</td>
-<td colspan="2">7800</td>
+<td>7800</td>
 </tr>
 <tr>
 <td>120</td>
 <td>14</td>
-<td>зуб</td>
+<td colspan="3">зуб</td>
 <td>сущ</td>
-<td colspan="2">790</td>
+<td>790</td>
 </tr>
 </table>
 
@@ -1050,15 +1052,18 @@
 
 <table>
 <tr>
-<td>№</td>
-<td>№</td>
+<td>
+№
+п/п
+</td>
+<td>№ по темам</td>
 <td>Лексический минимум (актив)</td>
-<td colspan="2">Р</td>
+<td colspan="2">ЧР</td>
 <td>Абсолютная частота</td>
 <td>Грамматический минимум</td>
 </tr>
 <tr>
-<td colspan="7">се обо мне – 24 слов</td>
+<td colspan="7">Все обо мне – 24 слов</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2017,12 +2022,12 @@
 Когда?
 Ты когда пришел?
 Когда поедем в аул?
-Что (во что) ?
+Что (во что)?
 Буду играть в асыки.
 Буду учить песню.
 Откуда?
 Пришел из гостей.
-Стуктура предложения:
+Структура предложения:
 Сказка очень интересная.
 Такия очень красивая.
 Временное значение
@@ -2558,27 +2563,30 @@
 
 <table>
 <tr>
-<td colspan="10">Живая природа – 24 слова</td>
+<td colspan="9">Живая природа – 24 слова</td>
 </tr>
 <tr>
-<td>№</td>
-<td>№</td>
+<td>
+№
+п/п
+</td>
+<td>№ по темам</td>
 <td>Лексика (актив)</td>
-<td colspan="2">ЧР</td>
-<td colspan="3">Абсолютная частота</td>
+<td colspan="3">ЧР</td>
+<td>Абсолютная частота</td>
 <td colspan="2">Грамматический минимум</td>
 </tr>
 <tr>
 <td>1</td>
 <td>1</td>
 <td>пчела</td>
-<td colspan="2">сущ</td>
-<td colspan="3">6528</td>
+<td colspan="3">сущ</td>
+<td>6528</td>
 <td colspan="2" rowspan="24">
 Вспомогательные слова:
 Лиса сказала:
-&quot;Волк, привет!&quot;.
-Стуктура предложения:
+«Волк, привет!».
+Структура предложения:
 Листья дерева зеленые.
 Временное значение
 (прошедшие действия):
@@ -2598,172 +2606,172 @@
 <td>2</td>
 <td>2</td>
 <td>муравей</td>
-<td colspan="2">сущ</td>
-<td colspan="3">285</td>
+<td colspan="3">сущ</td>
+<td>285</td>
 </tr>
 <tr>
 <td>3</td>
 <td>3</td>
 <td>рыба</td>
-<td colspan="2">сущ</td>
-<td colspan="3">1251</td>
+<td colspan="3">сущ</td>
+<td>1251</td>
 </tr>
 <tr>
 <td>4</td>
 <td>4</td>
 <td>прыгай</td>
-<td colspan="2">гл</td>
-<td colspan="3">929</td>
+<td colspan="3">гл</td>
+<td>929</td>
 </tr>
 <tr>
 <td>5</td>
 <td>5</td>
 <td>верблюд</td>
-<td colspan="2">сущ</td>
-<td colspan="3">1587</td>
+<td colspan="3">сущ</td>
+<td>1587</td>
 </tr>
 <tr>
 <td>6</td>
 <td>6</td>
 <td>курица</td>
-<td colspan="2">сущ</td>
-<td colspan="3">409</td>
+<td colspan="3">сущ</td>
+<td>409</td>
 </tr>
 <tr>
 <td>7</td>
 <td>7</td>
 <td>насекомое</td>
-<td colspan="2">сущ</td>
-<td colspan="3">264</td>
+<td colspan="3">сущ</td>
+<td>264</td>
 </tr>
 <tr>
 <td>8</td>
 <td>8</td>
 <td>овца</td>
-<td colspan="2">сущ</td>
-<td colspan="3">3976</td>
+<td colspan="3">сущ</td>
+<td>3976</td>
 </tr>
 <tr>
 <td>9</td>
 <td>9</td>
 <td>утка</td>
-<td colspan="2">сущ</td>
-<td colspan="3">290</td>
+<td colspan="3">сущ</td>
+<td>290</td>
 </tr>
 <tr>
 <td>10</td>
 <td>10</td>
 <td>корова</td>
-<td colspan="2">сущ</td>
-<td colspan="3">864</td>
+<td colspan="3">сущ</td>
+<td>864</td>
 </tr>
 <tr>
 <td>11</td>
 <td>11</td>
 <td>голубь</td>
-<td colspan="2">сущ</td>
-<td colspan="3">70</td>
+<td colspan="3">сущ</td>
+<td>70</td>
 </tr>
 <tr>
 <td>12</td>
 <td>12</td>
 <td>расти</td>
-<td colspan="2">гл</td>
-<td colspan="3">4078</td>
+<td colspan="3">гл</td>
+<td>4078</td>
 </tr>
 <tr>
 <td>13</td>
 <td>13</td>
 <td>лошадь</td>
-<td colspan="2">сущ</td>
-<td colspan="3">1176</td>
+<td colspan="3">сущ</td>
+<td>1176</td>
 </tr>
 <tr>
 <td>14</td>
 <td>14</td>
 <td>обитать</td>
-<td colspan="2">гл</td>
-<td colspan="3">145</td>
+<td colspan="3">гл</td>
+<td>145</td>
 </tr>
 <tr>
 <td>15</td>
 <td>15</td>
 <td>жеребенок</td>
-<td colspan="2">сущ</td>
-<td colspan="3">339</td>
+<td colspan="3">сущ</td>
+<td>339</td>
 </tr>
 <tr>
 <td>16</td>
 <td>16</td>
 <td>тюльпан</td>
-<td colspan="2">сущ</td>
-<td colspan="3">95</td>
+<td colspan="3">сущ</td>
+<td>95</td>
 </tr>
 <tr>
 <td>17</td>
 <td>17</td>
 <td>низко</td>
-<td colspan="2">нар</td>
-<td colspan="3">2483</td>
+<td colspan="3">нар</td>
+<td>2483</td>
 </tr>
 <tr>
 <td>18</td>
 <td>18</td>
 <td>верблюжонок</td>
-<td colspan="2">сущ</td>
-<td colspan="3">209</td>
+<td colspan="3">сущ</td>
+<td>209</td>
 </tr>
 <tr>
 <td>19</td>
 <td>19</td>
 <td>ягненок</td>
-<td colspan="2">сущ</td>
-<td colspan="3">469</td>
+<td colspan="3">сущ</td>
+<td>469</td>
 </tr>
 <tr>
 <td>20</td>
 <td>20</td>
 <td>теленок</td>
-<td colspan="2">сущ</td>
-<td colspan="3">434</td>
+<td colspan="3">сущ</td>
+<td>434</td>
 </tr>
 <tr>
 <td>21</td>
 <td>21</td>
 <td>молодняк</td>
-<td colspan="2">сущ</td>
-<td colspan="3">542</td>
+<td colspan="3">сущ</td>
+<td>542</td>
 </tr>
 <tr>
 <td>22</td>
 <td>22</td>
 <td>гнездо</td>
-<td colspan="2">сущ</td>
-<td colspan="3">695</td>
+<td colspan="3">сущ</td>
+<td>695</td>
 </tr>
 <tr>
 <td>23</td>
 <td>23</td>
 <td>лети</td>
-<td colspan="2">гл</td>
-<td colspan="3">2019</td>
+<td colspan="3">гл</td>
+<td>2019</td>
 </tr>
 <tr>
 <td>24</td>
 <td>24</td>
 <td>козленок</td>
-<td colspan="2">сущ</td>
-<td colspan="3">170</td>
+<td colspan="3">сущ</td>
+<td>170</td>
 </tr>
 <tr>
-<td colspan="10">Что такое хорошо, что такое плохо? – 26 слов</td>
+<td colspan="9">Что такое хорошо, что такое плохо? – 26 слов</td>
 </tr>
 <tr>
 <td>25</td>
 <td>1</td>
 <td colspan="2">умный</td>
-<td>прил</td>
-<td colspan="3">509</td>
+<td colspan="2">прил</td>
+<td>509</td>
 <td colspan="2" rowspan="26">
 Образец:
 Кому?
@@ -2775,7 +2783,7 @@
 Не опаздывай на урок.
 Не говори плохие слова.
 Не бросай мусор.
-Стуктура предложения:
+Структура предложения:
 Айжан – аккуратная девочка.
 Ты на кого обиделся ?
 Я ни на кого не обиделся.
@@ -2794,186 +2802,186 @@
 <td>26</td>
 <td>2</td>
 <td colspan="2">отнеси</td>
-<td>гл</td>
-<td colspan="3">1319</td>
+<td colspan="2">гл</td>
+<td>1319</td>
 </tr>
 <tr>
 <td>27</td>
 <td>3</td>
 <td colspan="2">опасность</td>
-<td>сущ</td>
-<td colspan="3">918</td>
+<td colspan="2">сущ</td>
+<td>918</td>
 </tr>
 <tr>
 <td>28</td>
 <td>4</td>
 <td colspan="2">всегда</td>
-<td>нар</td>
-<td colspan="3">552</td>
+<td colspan="2">нар</td>
+<td>552</td>
 </tr>
 <tr>
 <td>29</td>
 <td>5</td>
 <td colspan="2">бросай</td>
-<td>гл</td>
-<td colspan="3">279</td>
+<td colspan="2">гл</td>
+<td>279</td>
 </tr>
 <tr>
 <td>30</td>
 <td>6</td>
 <td colspan="2">делись</td>
-<td>гл</td>
-<td colspan="3">552</td>
+<td colspan="2">гл</td>
+<td>552</td>
 </tr>
 <tr>
 <td>31</td>
 <td>7</td>
 <td colspan="2">правила</td>
-<td>сущ</td>
-<td colspan="3">2596</td>
+<td colspan="2">сущ</td>
+<td>2596</td>
 </tr>
 <tr>
 <td>32</td>
 <td>8</td>
 <td colspan="2">балованный</td>
-<td>прил</td>
-<td colspan="3">202</td>
+<td colspan="2">прил</td>
+<td>202</td>
 </tr>
 <tr>
 <td>33</td>
 <td>9</td>
 <td colspan="2">никто</td>
-<td>мест</td>
-<td colspan="3">2378</td>
+<td colspan="2">мест</td>
+<td>2378</td>
 </tr>
 <tr>
 <td>34</td>
 <td>10</td>
 <td colspan="2">ленивый</td>
-<td>прил</td>
-<td colspan="3">144</td>
+<td colspan="2">прил</td>
+<td>144</td>
 </tr>
 <tr>
 <td>35</td>
 <td>11</td>
 <td colspan="2">плохой</td>
-<td>прил</td>
-<td colspan="3">1459</td>
+<td colspan="2">прил</td>
+<td>1459</td>
 </tr>
 <tr>
 <td>36</td>
 <td>12</td>
 <td colspan="2">шаловливый</td>
-<td>прил</td>
-<td colspan="3">172</td>
+<td colspan="2">прил</td>
+<td>172</td>
 </tr>
 <tr>
 <td>37</td>
 <td>13</td>
 <td colspan="2">опоздавший</td>
-<td>гл</td>
-<td colspan="3">503</td>
+<td colspan="2">гл</td>
+<td>503</td>
 </tr>
 <tr>
 <td>38</td>
 <td>14</td>
 <td colspan="2">поднимать</td>
-<td>гл</td>
-<td colspan="3">4913</td>
+<td colspan="2">гл</td>
+<td>4913</td>
 </tr>
 <tr>
 <td>39</td>
 <td>15</td>
 <td colspan="2">ошибка</td>
-<td>сущ</td>
-<td colspan="3">515</td>
+<td colspan="2">сущ</td>
+<td>515</td>
 </tr>
 <tr>
 <td>40</td>
 <td>16</td>
 <td colspan="2">характер</td>
-<td>сущ</td>
-<td colspan="3">1059</td>
+<td colspan="2">сущ</td>
+<td>1059</td>
 </tr>
 <tr>
 <td>41</td>
 <td>17</td>
 <td colspan="2">мусор</td>
-<td>сущ</td>
-<td colspan="3">140</td>
+<td colspan="2">сущ</td>
+<td>140</td>
 </tr>
 <tr>
 <td>42</td>
 <td>18</td>
 <td colspan="2">легкий</td>
-<td>прил</td>
-<td colspan="3">1053</td>
+<td colspan="2">прил</td>
+<td>1053</td>
 </tr>
 <tr>
 <td>43</td>
 <td>19</td>
 <td colspan="2">сам</td>
-<td>мест</td>
-<td colspan="3">29594</td>
+<td colspan="2">мест</td>
+<td>29594</td>
 </tr>
 <tr>
 <td>44</td>
 <td>20</td>
 <td colspan="2">обидеться</td>
-<td>гл</td>
-<td colspan="3">452</td>
+<td colspan="2">гл</td>
+<td>452</td>
 </tr>
 <tr>
 <td>45</td>
 <td>21</td>
 <td colspan="2">трудный</td>
-<td>прил</td>
-<td colspan="3">1702</td>
+<td colspan="2">прил</td>
+<td>1702</td>
 </tr>
 <tr>
 <td>46</td>
 <td>22</td>
 <td colspan="2">вежливый</td>
-<td>прил</td>
-<td colspan="3">165</td>
+<td colspan="2">прил</td>
+<td>165</td>
 </tr>
 <tr>
 <td>47</td>
 <td>23</td>
 <td colspan="2">примерный</td>
-<td>прил</td>
-<td colspan="3">191</td>
+<td colspan="2">прил</td>
+<td>191</td>
 </tr>
 <tr>
 <td>48</td>
 <td>24</td>
 <td colspan="2">аккуратный</td>
-<td>прил</td>
-<td colspan="3">271</td>
+<td colspan="2">прил</td>
+<td>271</td>
 </tr>
 <tr>
 <td>49</td>
 <td>25</td>
 <td colspan="2">шуметь</td>
-<td>гл</td>
-<td colspan="3">244</td>
+<td colspan="2">гл</td>
+<td>244</td>
 </tr>
 <tr>
 <td>50</td>
 <td>26</td>
 <td colspan="2">правда</td>
-<td>мд</td>
-<td colspan="3">1190</td>
+<td colspan="2">мд</td>
+<td>1190</td>
 </tr>
 <tr>
-<td colspan="10">Время – 18 слов</td>
+<td colspan="9">Время – 18 слов</td>
 </tr>
 <tr>
 <td>51</td>
 <td>1</td>
 <td colspan="2">до</td>
 <td colspan="2">служ</td>
-<td colspan="2">12102</td>
+<td>12102</td>
 <td colspan="2" rowspan="18">
 Сколько?
 Девять часов.
@@ -2981,7 +2989,7 @@
 Двенадцать часов.
 До 8 осталось 5 минут
 10 минут девятого
-Стуктура предложения:
+Структура предложения:
 До обеда пойду в школу.
 После обеда пойду на кружок.
 Сколько?
@@ -2997,129 +3005,129 @@
 <td>2</td>
 <td colspan="2">рано</td>
 <td colspan="2">нар</td>
-<td colspan="2">1429</td>
+<td>1429</td>
 </tr>
 <tr>
 <td>53</td>
 <td>3</td>
 <td colspan="2">половина</td>
 <td colspan="2">числ</td>
-<td colspan="2">308</td>
+<td>308</td>
 </tr>
 <tr>
 <td>54</td>
 <td>4</td>
 <td colspan="2">часто</td>
 <td colspan="2">прил</td>
-<td colspan="2">1256</td>
+<td>1256</td>
 </tr>
 <tr>
 <td>55</td>
 <td>5</td>
 <td colspan="2">год</td>
 <td colspan="2">сущ</td>
-<td colspan="2">30882</td>
+<td>30882</td>
 </tr>
 <tr>
 <td>56</td>
 <td>6</td>
 <td colspan="2">потом</td>
 <td colspan="2">нар</td>
-<td colspan="2">2635</td>
+<td>2635</td>
 </tr>
 <tr>
 <td>57</td>
 <td>7</td>
 <td colspan="2">уходить</td>
 <td colspan="2">гл</td>
-<td colspan="2">22105</td>
+<td>22105</td>
 </tr>
 <tr>
 <td>58</td>
 <td>8</td>
 <td colspan="2">днем</td>
 <td colspan="2">нар</td>
-<td colspan="2">450</td>
+<td>450</td>
 </tr>
 <tr>
 <td>59</td>
 <td>9</td>
 <td colspan="2">остаться</td>
 <td colspan="2">гл</td>
-<td colspan="2">16242</td>
+<td>16242</td>
 </tr>
 <tr>
 <td>60</td>
 <td>10</td>
 <td colspan="2">сезон</td>
 <td colspan="2">сущ</td>
-<td colspan="2">939</td>
+<td>939</td>
 </tr>
 <tr>
 <td>61</td>
 <td>11</td>
 <td colspan="2">тысяча</td>
 <td colspan="2">числ</td>
-<td colspan="2">3667</td>
+<td>3667</td>
 </tr>
 <tr>
 <td>62</td>
 <td>12</td>
 <td colspan="2">часы</td>
 <td colspan="2">сущ</td>
-<td colspan="2">2331</td>
+<td>2331</td>
 </tr>
 <tr>
 <td>63</td>
 <td>13</td>
 <td colspan="2">утром</td>
 <td colspan="2">нар</td>
-<td colspan="2">686</td>
+<td>686</td>
 </tr>
 <tr>
 <td>64</td>
 <td>14</td>
 <td colspan="2">сутки</td>
 <td colspan="2">сущ</td>
-<td colspan="2">369</td>
+<td>369</td>
 </tr>
 <tr>
 <td>65</td>
 <td>15</td>
 <td colspan="2">вечер</td>
 <td colspan="2">сущ</td>
-<td colspan="2">514</td>
+<td>514</td>
 </tr>
 <tr>
 <td>66</td>
 <td>16</td>
 <td colspan="2">ночь</td>
 <td colspan="2">сущ</td>
-<td colspan="2">2109</td>
+<td>2109</td>
 </tr>
 <tr>
 <td>67</td>
 <td>17</td>
 <td colspan="2">время</td>
 <td colspan="2">сущ</td>
-<td colspan="2">6767</td>
+<td>6767</td>
 </tr>
 <tr>
 <td>68</td>
 <td>18</td>
 <td colspan="2">применить</td>
 <td colspan="2">гл</td>
-<td colspan="2">3403</td>
+<td>3403</td>
 </tr>
 <tr>
-<td colspan="10">Архитектура – 20 слов</td>
+<td colspan="9">Архитектура – 20 слов</td>
 </tr>
 <tr>
 <td>69</td>
 <td>1</td>
 <td colspan="2">зодчество</td>
 <td colspan="2">сущ</td>
-<td colspan="2">274</td>
+<td>274</td>
 <td colspan="2" rowspan="20">
 Образец:
 Вспомогательные слова:
@@ -3134,7 +3142,7 @@
 Для строительства нужен песок.
 Для строительства нужно стекло.
 Для строительства нужен кирпич.
-Стуктура предложения:
+Структура предложения:
 Цвет купола синий.
 Какой?
 Красивое здание.
@@ -3146,150 +3154,150 @@
 <td>2</td>
 <td colspan="2">тополь</td>
 <td colspan="2">сущ</td>
-<td colspan="2">321</td>
+<td>321</td>
 </tr>
 <tr>
 <td>71</td>
 <td>3</td>
 <td colspan="2">здание</td>
 <td colspan="2">сущ</td>
-<td colspan="2">1 935</td>
+<td>1 935</td>
 </tr>
 <tr>
 <td>72</td>
 <td>4</td>
 <td colspan="2">этаж</td>
 <td colspan="2">сущ</td>
-<td colspan="2">1132</td>
+<td>1132</td>
 </tr>
 <tr>
 <td>73</td>
 <td>5</td>
 <td colspan="2">старый</td>
 <td colspan="2">прил</td>
-<td colspan="2">619</td>
+<td>619</td>
 </tr>
 <tr>
 <td>74</td>
 <td>6</td>
 <td colspan="2">новый</td>
 <td colspan="2">прил</td>
-<td colspan="2">8617</td>
+<td>8617</td>
 </tr>
 <tr>
 <td>75</td>
 <td>7</td>
 <td colspan="2">кошма</td>
 <td colspan="2">сущ</td>
-<td colspan="2">721</td>
+<td>721</td>
 </tr>
 <tr>
 <td>76</td>
 <td>8</td>
 <td colspan="2">башня</td>
 <td colspan="2">сущ</td>
-<td colspan="2">214</td>
+<td>214</td>
 </tr>
 <tr>
 <td>77</td>
 <td>9</td>
 <td colspan="2">заходить</td>
 <td colspan="2">гл</td>
-<td colspan="2">4762</td>
+<td>4762</td>
 </tr>
 <tr>
 <td>78</td>
 <td>10</td>
 <td colspan="2">розовый</td>
 <td colspan="2">прил</td>
-<td colspan="2">194</td>
+<td>194</td>
 </tr>
 <tr>
 <td>79</td>
 <td>11</td>
 <td colspan="2">стена</td>
 <td colspan="2">сущ</td>
-<td colspan="2">1048</td>
+<td>1048</td>
 </tr>
 <tr>
 <td>80</td>
 <td>12</td>
 <td colspan="2">песок</td>
 <td colspan="2">сущ</td>
-<td colspan="2">586</td>
+<td>586</td>
 </tr>
 <tr>
 <td>81</td>
 <td>13</td>
 <td colspan="2">строительство</td>
 <td colspan="2">сущ</td>
-<td colspan="2">2868</td>
+<td>2868</td>
 </tr>
 <tr>
 <td>82</td>
 <td>14</td>
 <td colspan="2">дворец</td>
 <td colspan="2">сущ</td>
-<td colspan="2">811</td>
+<td>811</td>
 </tr>
 <tr>
 <td>83</td>
 <td>15</td>
 <td colspan="2">внешняя сторона</td>
 <td colspan="2">сущ</td>
-<td colspan="2">1673</td>
+<td>1673</td>
 </tr>
 <tr>
 <td>84</td>
 <td>16</td>
 <td colspan="2">камень</td>
 <td colspan="2">сущ</td>
-<td colspan="2">2367</td>
+<td>2367</td>
 </tr>
 <tr>
 <td>85</td>
 <td>17</td>
 <td colspan="2">железо</td>
 <td colspan="2">сущ</td>
-<td colspan="2">2334</td>
+<td>2334</td>
 </tr>
 <tr>
 <td>86</td>
 <td>18</td>
 <td colspan="2">верх</td>
 <td colspan="2">сущ</td>
-<td colspan="2">1163</td>
+<td>1163</td>
 </tr>
 <tr>
 <td>87</td>
 <td>19</td>
 <td colspan="2">распологаться</td>
 <td colspan="2">гл</td>
-<td colspan="2">1604</td>
+<td>1604</td>
 </tr>
 <tr>
 <td>88</td>
 <td>20</td>
 <td colspan="2">стекло</td>
 <td colspan="2">сущ</td>
-<td colspan="2">279</td>
+<td>279</td>
 </tr>
 <tr>
-<td colspan="10">Искусство – 30 слов</td>
+<td colspan="9">Искусство – 30 слов</td>
 </tr>
 <tr>
 <td>89</td>
 <td>1</td>
 <td colspan="2">гонять</td>
 <td colspan="2">прил</td>
-<td colspan="2">234</td>
+<td>234</td>
 <td colspan="2" rowspan="30">
 Кто?
 Танцор танцует.
 Певец на сцене поет.
 Что?
-Это - изделие.
-Это - кобыз.
+Это – изделие.
+Это – кобыз.
 Какие?
 Ювелирные изделия красивые.
 Из чего?
@@ -3312,220 +3320,220 @@
 <td>2</td>
 <td colspan="2">золото</td>
 <td colspan="2">сущ</td>
-<td colspan="2">2271</td>
+<td>2271</td>
 </tr>
 <tr>
 <td>91</td>
 <td>3</td>
 <td colspan="2">колье</td>
 <td colspan="2">сущ</td>
-<td colspan="2">140</td>
+<td>140</td>
 </tr>
 <tr>
 <td>92</td>
 <td>4</td>
 <td colspan="2">изделие</td>
 <td colspan="2">сущ</td>
-<td colspan="2">811</td>
+<td>811</td>
 </tr>
 <tr>
 <td>93</td>
 <td>5</td>
 <td colspan="2">известный</td>
 <td colspan="2">прил</td>
-<td colspan="2">4524</td>
+<td>4524</td>
 </tr>
 <tr>
 <td>94</td>
 <td>6</td>
 <td colspan="2">танец</td>
 <td colspan="2">сущ</td>
-<td colspan="2">4084</td>
+<td>4084</td>
 </tr>
 <tr>
 <td>95</td>
 <td>7</td>
 <td colspan="2">раньше</td>
 <td colspan="2">нар</td>
-<td colspan="2">3197</td>
+<td>3197</td>
 </tr>
 <tr>
 <td>96</td>
 <td>8</td>
 <td colspan="2">ювелир</td>
 <td colspan="2">сущ</td>
-<td colspan="2">175</td>
+<td>175</td>
 </tr>
 <tr>
 <td>97</td>
 <td>9</td>
 <td colspan="2">повесить</td>
 <td colspan="2">гл</td>
-<td colspan="2">1322</td>
+<td>1322</td>
 </tr>
 <tr>
 <td>98</td>
 <td>10</td>
 <td colspan="2">действие</td>
 <td colspan="2">сущ</td>
-<td colspan="2">223</td>
+<td>223</td>
 </tr>
 <tr>
 <td>99</td>
 <td>11</td>
 <td colspan="2">ковер</td>
 <td colspan="2">сущ</td>
-<td colspan="2">412</td>
+<td>412</td>
 </tr>
 <tr>
 <td>100</td>
 <td>12</td>
 <td colspan="2">выставка</td>
 <td colspan="2">сущ</td>
-<td colspan="2">1342</td>
+<td>1342</td>
 </tr>
 <tr>
 <td>101</td>
 <td>13</td>
 <td colspan="2">кюй</td>
 <td colspan="2">сущ</td>
-<td colspan="2">2126</td>
+<td>2126</td>
 </tr>
 <tr>
 <td>102</td>
 <td>14</td>
 <td colspan="2">мастер</td>
 <td colspan="2">сущ</td>
-<td colspan="2">756</td>
+<td>756</td>
 </tr>
 <tr>
 <td>103</td>
 <td>15</td>
 <td colspan="2">серебро</td>
 <td colspan="2">сущ</td>
-<td colspan="2">730</td>
+<td>730</td>
 </tr>
 <tr>
 <td>104</td>
 <td>16</td>
 <td colspan="2">кобыз</td>
 <td colspan="2">сущ</td>
-<td colspan="2">202</td>
+<td>202</td>
 </tr>
 <tr>
 <td>105</td>
 <td>17</td>
 <td colspan="2">рукоделие</td>
 <td colspan="2">сущ</td>
-<td colspan="2">298</td>
+<td>298</td>
 </tr>
 <tr>
 <td>106</td>
 <td>18</td>
 <td colspan="2">кисточка</td>
 <td colspan="2">сущ</td>
-<td colspan="2">54</td>
+<td>54</td>
 </tr>
 <tr>
 <td>107</td>
 <td>19</td>
 <td colspan="2">бусы</td>
 <td colspan="2">сущ</td>
-<td colspan="2">135</td>
+<td>135</td>
 </tr>
 <tr>
 <td>108</td>
 <td>20</td>
 <td colspan="2">узор</td>
 <td colspan="2">сущ</td>
-<td colspan="2">1192</td>
+<td>1192</td>
 </tr>
 <tr>
 <td>109</td>
 <td>21</td>
 <td colspan="2">искусство</td>
 <td colspan="2">сущ</td>
-<td colspan="2">4301</td>
+<td>4301</td>
 </tr>
 <tr>
 <td>110</td>
 <td>22</td>
 <td colspan="2">орнамент</td>
 <td colspan="2">сущ</td>
-<td colspan="2">576</td>
+<td>576</td>
 </tr>
 <tr>
 <td>111</td>
 <td>23</td>
 <td colspan="2">сундук</td>
 <td colspan="2">сущ</td>
-<td colspan="2">217</td>
+<td>217</td>
 </tr>
 <tr>
 <td>112</td>
 <td>24</td>
 <td colspan="2">сцена</td>
 <td colspan="2">сущ</td>
-<td colspan="2">853</td>
+<td>853</td>
 </tr>
 <tr>
 <td>113</td>
 <td>25</td>
 <td colspan="2">краска</td>
 <td colspan="2">сущ</td>
-<td colspan="2">185</td>
+<td>185</td>
 </tr>
 <tr>
 <td>114</td>
 <td>26</td>
 <td colspan="2">серьги</td>
 <td colspan="2">сущ</td>
-<td colspan="2">137</td>
+<td>137</td>
 </tr>
 <tr>
 <td>115</td>
 <td>27</td>
 <td colspan="2">кожа</td>
 <td colspan="2">сущ</td>
-<td colspan="2">518</td>
+<td>518</td>
 </tr>
 <tr>
 <td>116</td>
 <td>28</td>
 <td colspan="2">вязать</td>
 <td colspan="2">гл</td>
-<td colspan="2">412</td>
+<td>412</td>
 </tr>
 <tr>
 <td>117</td>
 <td>29</td>
 <td colspan="2">разгрузить</td>
 <td colspan="2">гл</td>
-<td colspan="2">2663</td>
+<td>2663</td>
 </tr>
 <tr>
 <td>118</td>
 <td>30</td>
 <td colspan="2">звук</td>
 <td colspan="2">сущ</td>
-<td colspan="2">2109</td>
+<td>2109</td>
 </tr>
 <tr>
-<td colspan="10">Выдающиеся личности – 26 слова</td>
+<td colspan="9">Выдающиеся личности – 26 слова</td>
 </tr>
 <tr>
 <td>119</td>
 <td>1</td>
 <td colspan="2">поэт</td>
 <td colspan="2">сущ</td>
-<td colspan="2">6361</td>
+<td>6361</td>
 <td colspan="2" rowspan="26">
 Кто?
 Писатель написал книгу.
 Переводчик перевел слово.
 Какой?
 Абай – знаменитая личность.
-Қ.Сәтбаев – великий ученый.
+К. Сәтбаев – великий ученый.
 Бекзат – знаменитый миру спортсмен.
 Временное значение
 (настоящие действия):
@@ -3544,178 +3552,178 @@
 <td>2</td>
 <td colspan="2">переведи</td>
 <td colspan="2">гл</td>
-<td colspan="2">3174</td>
+<td>3174</td>
 </tr>
 <tr>
 <td>121</td>
 <td>3</td>
 <td colspan="2">рассказ</td>
 <td colspan="2">сущ</td>
-<td colspan="2">3876</td>
+<td>3876</td>
 </tr>
 <tr>
 <td>122</td>
 <td>4</td>
 <td colspan="2">борец</td>
 <td colspan="2">сущ</td>
-<td colspan="2">648</td>
+<td>648</td>
 </tr>
 <tr>
 <td>123</td>
 <td>5</td>
 <td colspan="2">батыр</td>
 <td colspan="2">сущ</td>
-<td colspan="2">2600</td>
+<td>2600</td>
 </tr>
 <tr>
 <td>124</td>
 <td>6</td>
 <td colspan="2">образованный</td>
 <td colspan="2">прил</td>
-<td colspan="2">2081</td>
+<td>2081</td>
 </tr>
 <tr>
 <td>125</td>
 <td>7</td>
 <td colspan="2">ученый</td>
 <td colspan="2">сущ</td>
-<td colspan="2">6534</td>
+<td>6534</td>
 </tr>
 <tr>
 <td>126</td>
 <td>8</td>
 <td colspan="2">индивидуальный</td>
 <td colspan="2">прил</td>
-<td colspan="2">250</td>
+<td>250</td>
 </tr>
 <tr>
 <td>127</td>
 <td>9</td>
 <td colspan="2">работа</td>
 <td colspan="2">сущ</td>
-<td colspan="2">13756</td>
+<td>13756</td>
 </tr>
 <tr>
 <td>128</td>
 <td>10</td>
 <td colspan="2">писатель</td>
 <td colspan="2">сущ</td>
-<td colspan="2">2265</td>
+<td>2265</td>
 </tr>
 <tr>
 <td>129</td>
 <td>11</td>
 <td colspan="2">отдельный</td>
 <td colspan="2">прил</td>
-<td colspan="2">7961</td>
+<td>7961</td>
 </tr>
 <tr>
 <td>130</td>
 <td>12</td>
 <td colspan="2">новость</td>
 <td colspan="2">сущ</td>
-<td colspan="2">1025</td>
+<td>1025</td>
 </tr>
 <tr>
 <td>131</td>
 <td>13</td>
 <td colspan="2">исследуй</td>
 <td colspan="2">сущ</td>
-<td colspan="2">9371</td>
+<td>9371</td>
 </tr>
 <tr>
 <td>132</td>
 <td>14</td>
 <td colspan="2">крупный</td>
 <td colspan="2">прил</td>
-<td colspan="2">2460</td>
+<td>2460</td>
 </tr>
 <tr>
 <td>133</td>
 <td>15</td>
 <td colspan="2">против</td>
 <td colspan="2">нар</td>
-<td colspan="2">4597</td>
+<td>4597</td>
 </tr>
 <tr>
 <td>134</td>
 <td>16</td>
 <td colspan="2">жизнь</td>
 <td colspan="2">сущ</td>
-<td colspan="2">10465</td>
+<td>10465</td>
 </tr>
 <tr>
 <td>135</td>
 <td>17</td>
 <td colspan="2">известный</td>
 <td colspan="2">прил</td>
-<td colspan="2">596</td>
+<td>596</td>
 </tr>
 <tr>
 <td>136</td>
 <td>18</td>
 <td colspan="2">одаренный</td>
 <td colspan="2">прил</td>
-<td colspan="2">121</td>
+<td>121</td>
 </tr>
 <tr>
 <td>137</td>
 <td>19</td>
 <td colspan="2">мир</td>
 <td colspan="2">гл</td>
-<td colspan="2">3646</td>
+<td>3646</td>
 </tr>
 <tr>
 <td>138</td>
 <td>20</td>
 <td colspan="2">личность</td>
 <td colspan="2">гл</td>
-<td colspan="2">3543</td>
+<td>3543</td>
 </tr>
 <tr>
 <td>139</td>
 <td>21</td>
 <td colspan="2">первый</td>
 <td colspan="2">прил</td>
-<td colspan="2">1026</td>
+<td>1026</td>
 </tr>
 <tr>
 <td>140</td>
 <td>22</td>
 <td colspan="2">как</td>
 <td colspan="2">мест</td>
-<td colspan="2">5039</td>
+<td>5039</td>
 </tr>
 <tr>
 <td>141</td>
 <td>23</td>
 <td colspan="2">знаменитый</td>
 <td colspan="2">прил</td>
-<td colspan="2">3695</td>
+<td>3695</td>
 </tr>
 <tr>
 <td>142</td>
 <td>24</td>
 <td colspan="2">педагог</td>
 <td colspan="2">гл</td>
-<td colspan="2">1833</td>
+<td>1833</td>
 </tr>
 <tr>
 <td>143</td>
 <td>25</td>
 <td colspan="2">однако</td>
 <td colspan="2">служ</td>
-<td colspan="2">14620</td>
+<td>14620</td>
 </tr>
 <tr>
 <td>144</td>
 <td>26</td>
 <td colspan="2">сочинение</td>
 <td colspan="2">гл</td>
-<td colspan="2">3478</td>
+<td>3478</td>
 </tr>
 <tr>
-<td colspan="10">Вода – источник жизни – 24 слова</td>
+<td colspan="9">Вода – источник жизни – 24 слова</td>
 </tr>
 <tr>
 <td>145</td>
@@ -3723,7 +3731,7 @@
 <td colspan="2">река</td>
 <td colspan="2">сущ</td>
 <td>4644</td>
-<td colspan="3" rowspan="24">
+<td colspan="2" rowspan="24">
 Какой?
 Вода в реке пресная.
 Вода в озере прохладная.
@@ -3907,14 +3915,14 @@
 <td>115</td>
 </tr>
 <tr>
-<td colspan="10">Культура отдыха. Праздники - 20 слов</td>
+<td colspan="9">Культура отдыха. Праздники – 20 слов</td>
 </tr>
 <tr>
 <td>169</td>
 <td>1</td>
-<td colspan="2">площадь</td>
-<td colspan="2">сущ</td>
-<td colspan="3">1184</td>
+<td colspan="3">площадь</td>
+<td>сущ</td>
+<td colspan="2">1184</td>
 <td rowspan="20">
 Образец:
 Направление действия:
@@ -3928,7 +3936,7 @@
 Куда?
 Они отдыхали на даче.
 Структура предложения:
-Мне нравится мультфильм &quot;Балапан&quot;.
+Мне нравится мультфильм «Балапан».
 Послеслоги:
 После праздника пойду домой.
 После урока буду играть.
@@ -3937,135 +3945,135 @@
 <tr>
 <td>170</td>
 <td>2</td>
-<td colspan="2">ходить</td>
-<td colspan="2">гл</td>
-<td colspan="3">693</td>
+<td colspan="3">ходить</td>
+<td>гл</td>
+<td colspan="2">693</td>
 </tr>
 <tr>
 <td>171</td>
 <td>3</td>
-<td colspan="2">веселый</td>
-<td colspan="2">прил</td>
-<td colspan="3">293</td>
+<td colspan="3">веселый</td>
+<td>прил</td>
+<td colspan="2">293</td>
 </tr>
 <tr>
 <td>172</td>
 <td>4</td>
-<td colspan="2">проводить</td>
-<td colspan="2">гл</td>
-<td colspan="3">4187</td>
+<td colspan="3">проводить</td>
+<td>гл</td>
+<td colspan="2">4187</td>
 </tr>
 <tr>
 <td>173</td>
 <td>5</td>
-<td colspan="2">единство</td>
-<td colspan="2">сущ</td>
-<td colspan="3">4009</td>
+<td colspan="3">единство</td>
+<td>сущ</td>
+<td colspan="2">4009</td>
 </tr>
 <tr>
 <td>174</td>
 <td>6</td>
-<td colspan="2">свободный</td>
-<td colspan="2">прил</td>
-<td colspan="3">969</td>
+<td colspan="3">свободный</td>
+<td>прил</td>
+<td colspan="2">969</td>
 </tr>
 <tr>
 <td>175</td>
 <td>7</td>
-<td colspan="2">веселье</td>
-<td colspan="2">сущ</td>
-<td colspan="3">137</td>
+<td colspan="3">веселье</td>
+<td>сущ</td>
+<td colspan="2">137</td>
 </tr>
 <tr>
 <td>176</td>
 <td>8</td>
-<td colspan="2">уход</td>
-<td colspan="2">гл</td>
-<td colspan="3">465</td>
+<td colspan="3">уход</td>
+<td>гл</td>
+<td colspan="2">465</td>
 </tr>
 <tr>
 <td>177</td>
 <td>9</td>
-<td colspan="2">победа</td>
-<td colspan="2">сущ</td>
-<td colspan="3">1171</td>
+<td colspan="3">победа</td>
+<td>сущ</td>
+<td colspan="2">1171</td>
 </tr>
 <tr>
 <td>178</td>
 <td>10</td>
-<td colspan="2">план</td>
-<td colspan="2">сущ</td>
-<td colspan="3">1273</td>
+<td colspan="3">план</td>
+<td>сущ</td>
+<td colspan="2">1273</td>
 </tr>
 <tr>
 <td>179</td>
 <td>11</td>
-<td colspan="2">саженец</td>
-<td colspan="2">сущ</td>
-<td colspan="3">86</td>
+<td colspan="3">саженец</td>
+<td>сущ</td>
+<td colspan="2">86</td>
 </tr>
 <tr>
 <td>180</td>
 <td>12</td>
-<td colspan="2">поздравь</td>
-<td colspan="2">гл</td>
-<td colspan="3">473</td>
+<td colspan="3">поздравь</td>
+<td>гл</td>
+<td colspan="2">473</td>
 </tr>
 <tr>
 <td>181</td>
 <td>13</td>
-<td colspan="2">поход</td>
-<td colspan="2">сущ</td>
-<td colspan="3">144</td>
+<td colspan="3">поход</td>
+<td>сущ</td>
+<td colspan="2">144</td>
 </tr>
 <tr>
 <td>182</td>
 <td>14</td>
-<td colspan="2">попрощаться</td>
-<td colspan="2">гл</td>
-<td colspan="3">138</td>
+<td colspan="3">попрощаться</td>
+<td>гл</td>
+<td colspan="2">138</td>
 </tr>
 <tr>
 <td>183</td>
 <td>15</td>
-<td colspan="2">праздновать</td>
-<td colspan="2">гл</td>
-<td colspan="3">51</td>
+<td colspan="3">праздновать</td>
+<td>гл</td>
+<td colspan="2">51</td>
 </tr>
 <tr>
 <td>184</td>
 <td>16</td>
-<td colspan="2">информация</td>
-<td colspan="2">сущ</td>
-<td colspan="3">2266</td>
+<td colspan="3">информация</td>
+<td>сущ</td>
+<td colspan="2">2266</td>
 </tr>
 <tr>
 <td>185</td>
 <td>17</td>
-<td colspan="2">дача</td>
-<td colspan="2">сущ</td>
-<td colspan="3">88</td>
+<td colspan="3">дача</td>
+<td>сущ</td>
+<td colspan="2">88</td>
 </tr>
 <tr>
 <td>186</td>
 <td>18</td>
-<td colspan="2">познакомить</td>
-<td colspan="2">гл</td>
-<td colspan="3">1375</td>
+<td colspan="3">познакомить</td>
+<td>гл</td>
+<td colspan="2">1375</td>
 </tr>
 <tr>
 <td>187</td>
 <td>19</td>
-<td colspan="2">группа</td>
-<td colspan="2">сущ</td>
-<td colspan="3">5941</td>
+<td colspan="3">группа</td>
+<td>сущ</td>
+<td colspan="2">5941</td>
 </tr>
 <tr>
 <td>188</td>
 <td>20</td>
-<td colspan="2">санаторий</td>
-<td colspan="2">сущ</td>
-<td colspan="3">40</td>
+<td colspan="3">санаторий</td>
+<td>сущ</td>
+<td colspan="2">40</td>
 </tr>
 </table>
 
@@ -4073,21 +4081,24 @@
 
 <table>
 <tr>
-<td colspan="7">Моя Родина – Казахстан – 32 слова</td>
+<td colspan="8">Моя Родина – Казахстан – 32 слова</td>
 </tr>
 <tr>
-<td>№</td>
-<td>№</td>
-<td colspan="2">Лексика (актив)</td>
-<td>Части речи</td>
+<td>
+№
+п/п
+</td>
+<td colspan="2">№ по темам</td>
+<td>Лексика (актив)</td>
+<td colspan="2">Части речи</td>
 <td>Абсолютная частота</td>
 <td>Грамматический минимум</td>
 </tr>
 <tr>
 <td>1</td>
-<td>1</td>
-<td colspan="2">регион</td>
-<td>сущ</td>
+<td colspan="2">1</td>
+<td>регион</td>
+<td colspan="2">сущ</td>
 <td>2735</td>
 <td rowspan="32">
 Какой?
@@ -4097,11 +4108,13 @@
 Ел+таңба, қонақ+жай (гостеприимный)
 Где?
 На гербе изображен шанырак
-Родительный падеж + притяжательная форма 3-го лица
+Родительный падеж+ притяжательная форма
+3-го лица
 Гражданин Казахстана
 Тенге Казахстана
 Как?
-Казахстанский народ живет в единстве.
+Казахстанский народ живет
+в единстве.
 Повествовательное предложение:
 Территория Казахстана большая.
 Вопросительное предложение:
@@ -4110,235 +4123,235 @@
 </tr>
 <tr>
 <td>2</td>
-<td>2</td>
-<td colspan="2">район</td>
-<td>сущ</td>
+<td colspan="2">2</td>
+<td>район</td>
+<td colspan="2">сущ</td>
 <td>3405</td>
 </tr>
 <tr>
 <td>3</td>
-<td>3</td>
-<td colspan="2">национальность</td>
-<td>сущ</td>
+<td colspan="2">3</td>
+<td>национальность</td>
+<td colspan="2">сущ</td>
 <td>6005</td>
 </tr>
 <tr>
 <td>4</td>
-<td>4</td>
-<td colspan="2">барс</td>
-<td>сущ</td>
+<td colspan="2">4</td>
+<td>барс</td>
+<td colspan="2">сущ</td>
 <td>2481</td>
 </tr>
 <tr>
 <td>5</td>
-<td>5</td>
-<td colspan="2">запад</td>
-<td>сущ</td>
+<td colspan="2">5</td>
+<td>запад</td>
+<td colspan="2">сущ</td>
 <td>2104</td>
 </tr>
 <tr>
 <td>6</td>
-<td>6</td>
-<td colspan="2">изображать</td>
-<td>гл</td>
+<td colspan="2">6</td>
+<td>изображать</td>
+<td colspan="2">гл</td>
 <td>451</td>
 </tr>
 <tr>
 <td>7</td>
-<td>7</td>
-<td colspan="2">Глава государства</td>
-<td>сущ</td>
+<td colspan="2">7</td>
+<td>Глава государства</td>
+<td colspan="2">сущ</td>
 <td>1159</td>
 </tr>
 <tr>
 <td>8</td>
-<td>8</td>
-<td colspan="2">герб</td>
-<td>сущ</td>
+<td colspan="2">8</td>
+<td>герб</td>
+<td colspan="2">сущ</td>
 <td>119</td>
 </tr>
 <tr>
 <td>9</td>
-<td>9</td>
-<td colspan="2">свободный</td>
-<td>прил</td>
+<td colspan="2">9</td>
+<td>свободный</td>
+<td colspan="2">прил</td>
 <td>1250</td>
 </tr>
 <tr>
 <td>10</td>
-<td>10</td>
-<td colspan="2">вот</td>
-<td>мест</td>
+<td colspan="2">10</td>
+<td>вот</td>
+<td colspan="2">мест</td>
 <td>2849</td>
 </tr>
 <tr>
 <td>11</td>
-<td>11</td>
-<td colspan="2">синий</td>
-<td>прил</td>
+<td colspan="2">11</td>
+<td>синий</td>
+<td colspan="2">прил</td>
 <td>1461</td>
 </tr>
 <tr>
 <td>12</td>
-<td>12</td>
-<td colspan="2">орел</td>
-<td>сущ</td>
+<td colspan="2">12</td>
+<td>орел</td>
+<td colspan="2">сущ</td>
 <td>421</td>
 </tr>
 <tr>
 <td>13</td>
-<td>13</td>
-<td colspan="2">гордиться</td>
-<td>гл</td>
+<td colspan="2">13</td>
+<td>гордиться</td>
+<td colspan="2">гл</td>
 <td>440</td>
 </tr>
 <tr>
 <td>14</td>
-<td>14</td>
-<td colspan="2">вечно</td>
-<td>нар</td>
+<td colspan="2">14</td>
+<td>вечно</td>
+<td colspan="2">нар</td>
 <td>462</td>
 </tr>
 <tr>
 <td>15</td>
-<td>15</td>
-<td colspan="2">государство</td>
-<td>сущ</td>
+<td colspan="2">15</td>
+<td>государство</td>
+<td colspan="2">сущ</td>
 <td>8993</td>
 </tr>
 <tr>
 <td>16</td>
-<td>16</td>
-<td colspan="2">юг</td>
-<td>сущ</td>
+<td colspan="2">16</td>
+<td>юг</td>
+<td colspan="2">сущ</td>
 <td>1026</td>
 </tr>
 <tr>
 <td>17</td>
-<td>17</td>
-<td colspan="2">соберись</td>
-<td>гл</td>
+<td colspan="2">17</td>
+<td>соберись</td>
+<td colspan="2">гл</td>
 <td>1266</td>
 </tr>
 <tr>
 <td>18</td>
-<td>18</td>
-<td colspan="2">центр</td>
-<td>сущ</td>
+<td colspan="2">18</td>
+<td>центр</td>
+<td colspan="2">сущ</td>
 <td>4772</td>
 </tr>
 <tr>
 <td>19</td>
-<td>19</td>
-<td colspan="2">место</td>
-<td>сущ</td>
+<td colspan="2">19</td>
+<td>место</td>
+<td colspan="2">сущ</td>
 <td>1892</td>
 </tr>
 <tr>
 <td>20</td>
-<td>20</td>
-<td colspan="2">символ</td>
-<td>сущ</td>
+<td colspan="2">20</td>
+<td>символ</td>
+<td colspan="2">сущ</td>
 <td>104</td>
 </tr>
 <tr>
 <td>21</td>
-<td>21</td>
-<td colspan="2">север</td>
-<td>сущ</td>
+<td colspan="2">21</td>
+<td>север</td>
+<td colspan="2">сущ</td>
 <td>1698</td>
 </tr>
 <tr>
 <td>22</td>
-<td>22</td>
-<td colspan="2">копченый</td>
-<td>гл</td>
+<td colspan="2">22</td>
+<td>копченый</td>
+<td colspan="2">гл</td>
 <td>1574</td>
 </tr>
 <tr>
 <td>23</td>
-<td>23</td>
-<td colspan="2">узнать</td>
-<td>гл</td>
+<td colspan="2">23</td>
+<td>узнать</td>
+<td colspan="2">гл</td>
 <td>1908</td>
 </tr>
 <tr>
 <td>24</td>
-<td>24</td>
-<td colspan="2">тот</td>
-<td>мест</td>
+<td colspan="2">24</td>
+<td>тот</td>
+<td colspan="2">мест</td>
 <td>577</td>
 </tr>
 <tr>
 <td>25</td>
-<td>25</td>
-<td colspan="2">независимый</td>
-<td>прил</td>
+<td colspan="2">25</td>
+<td>независимый</td>
+<td colspan="2">прил</td>
 <td>2232</td>
 </tr>
 <tr>
 <td>26</td>
-<td>26</td>
-<td colspan="2">сторожить</td>
-<td>гл</td>
+<td colspan="2">26</td>
+<td>сторожить</td>
+<td colspan="2">гл</td>
 <td>329</td>
 </tr>
 <tr>
 <td>27</td>
-<td>27</td>
-<td colspan="2">знамя</td>
-<td>сущ</td>
+<td colspan="2">27</td>
+<td>знамя</td>
+<td colspan="2">сущ</td>
 <td>474</td>
 </tr>
 <tr>
 <td>28</td>
-<td>28</td>
-<td colspan="2">юноша</td>
-<td>сущ</td>
+<td colspan="2">28</td>
+<td>юноша</td>
+<td colspan="2">сущ</td>
 <td>175</td>
 </tr>
 <tr>
 <td>29</td>
-<td>29</td>
-<td colspan="2">народ</td>
-<td>сущ</td>
+<td colspan="2">29</td>
+<td>народ</td>
+<td colspan="2">сущ</td>
 <td>16505</td>
 </tr>
 <tr>
 <td>30</td>
-<td>30</td>
-<td colspan="2">шанырак</td>
-<td>сущ</td>
+<td colspan="2">30</td>
+<td>шанырак</td>
+<td colspan="2">сущ</td>
 <td>561</td>
 </tr>
 <tr>
 <td>31</td>
-<td>31</td>
-<td colspan="2">граница</td>
-<td>сущ</td>
+<td colspan="2">31</td>
+<td>граница</td>
+<td colspan="2">сущ</td>
 <td>1098</td>
 </tr>
 <tr>
 <td>32</td>
-<td>32</td>
-<td colspan="2">восток</td>
-<td>сущ</td>
+<td colspan="2">32</td>
+<td>восток</td>
+<td colspan="2">сущ</td>
 <td>1711</td>
 </tr>
 <tr>
-<td colspan="7">Человеческие ценности – 36 слов</td>
+<td colspan="8">Человеческие ценности – 36 слов</td>
 </tr>
 <tr>
 <td>33</td>
 <td>1</td>
 <td colspan="2">верный</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>1566</td>
 <td rowspan="36">
 Образец:
 Собственное значение
-Наша цель.
-Ваши цели.
+Наша цель
+Ваши цели
 Ваша цель
 Их цели
 Какой?
@@ -4352,262 +4365,262 @@
 Уважаю трудолюбивого человека.
 Структура предложения:
 Я должен хорошо учиться, потому что, это мой долг.
-По- моему, друзья должны быть верными
+По-моему, друзья должны быть верными
 </td>
 </tr>
 <tr>
 <td>34</td>
 <td>2</td>
 <td colspan="2">гражданин</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>3651</td>
 </tr>
 <tr>
 <td>35</td>
 <td>3</td>
 <td colspan="2">ранний</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>1784</td>
 </tr>
 <tr>
 <td>36</td>
 <td>4</td>
 <td colspan="2">отечество</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>1119</td>
 </tr>
 <tr>
 <td>37</td>
 <td>5</td>
 <td colspan="2">спокойный</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>85</td>
 </tr>
 <tr>
 <td>38</td>
 <td>6</td>
 <td colspan="2">привычка</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>722</td>
 </tr>
 <tr>
 <td>39</td>
 <td>7</td>
 <td colspan="2">жилье</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>279</td>
 </tr>
 <tr>
 <td>40</td>
 <td>8</td>
 <td colspan="2">долг</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>376</td>
 </tr>
 <tr>
 <td>41</td>
 <td>9</td>
 <td colspan="2">дружба</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>893</td>
 </tr>
 <tr>
 <td>42</td>
 <td>10</td>
 <td colspan="2">горячий</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>805</td>
 </tr>
 <tr>
 <td>43</td>
 <td>11</td>
 <td colspan="2">ответственный</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>660</td>
 </tr>
 <tr>
 <td>44</td>
 <td>12</td>
 <td colspan="2">щедрый</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>523</td>
 </tr>
 <tr>
 <td>45</td>
 <td>13</td>
 <td colspan="2">трудолюбивый</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>96</td>
 </tr>
 <tr>
 <td>46</td>
 <td>14</td>
 <td colspan="2">правда</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>1516</td>
 </tr>
 <tr>
 <td>47</td>
 <td>15</td>
 <td colspan="2">красивый</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>192</td>
 </tr>
 <tr>
 <td>48</td>
 <td>16</td>
 <td colspan="2">обычный</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>1433</td>
 </tr>
 <tr>
 <td>49</td>
 <td>17</td>
 <td colspan="2">старик</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>748</td>
 </tr>
 <tr>
 <td>50</td>
 <td>18</td>
 <td colspan="2">достоинство</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>2981</td>
 </tr>
 <tr>
 <td>51</td>
 <td>19</td>
 <td colspan="2">знакомить</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>1044</td>
 </tr>
 <tr>
 <td>52</td>
 <td>20</td>
 <td colspan="2">такой</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>3292</td>
 </tr>
 <tr>
 <td>53</td>
 <td>21</td>
 <td colspan="2">почет</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>1260</td>
 </tr>
 <tr>
 <td>54</td>
 <td>22</td>
 <td colspan="2">цель</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>6876</td>
 </tr>
 <tr>
 <td>55</td>
 <td>23</td>
 <td colspan="2">добрый</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>226</td>
 </tr>
 <tr>
 <td>56</td>
 <td>24</td>
 <td colspan="2">задача</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>3536</td>
 </tr>
 <tr>
 <td>57</td>
 <td>25</td>
 <td colspan="2">по-моему</td>
-<td>нареч</td>
+<td colspan="2">нареч</td>
 <td>69</td>
 </tr>
 <tr>
 <td>58</td>
 <td>26</td>
 <td colspan="2">мнение</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>3214</td>
 </tr>
 <tr>
 <td>59</td>
 <td>27</td>
 <td colspan="2">порядок</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>5304</td>
 </tr>
 <tr>
 <td>60</td>
 <td>28</td>
 <td colspan="2">потому что</td>
-<td>служ</td>
+<td colspan="2">служ</td>
 <td>816</td>
 </tr>
 <tr>
 <td>61</td>
 <td>29</td>
 <td colspan="2">среда</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>5646</td>
 </tr>
 <tr>
 <td>62</td>
 <td>30</td>
 <td colspan="2">почетный</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>128</td>
 </tr>
 <tr>
 <td>63</td>
 <td>31</td>
 <td colspan="2">терпение</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>109</td>
 </tr>
 <tr>
 <td>64</td>
 <td>32</td>
 <td colspan="2">опора</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>663</td>
 </tr>
 <tr>
 <td>65</td>
 <td>33</td>
 <td colspan="2">родственник</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>177</td>
 </tr>
 <tr>
 <td>66</td>
 <td>34</td>
 <td colspan="2">обещание</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>454</td>
 </tr>
 <tr>
 <td>67</td>
 <td>35</td>
 <td colspan="2">забыть</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>1607</td>
 </tr>
 <tr>
 <td>68</td>
 <td>36</td>
 <td colspan="2">смущаться</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>521</td>
 </tr>
 <tr>
-<td colspan="7">Культурное наследие – 24 слова</td>
+<td colspan="8">Культурное наследие – 24 слова</td>
 </tr>
 <tr>
 <td>69</td>
 <td>1</td>
 <td colspan="2">айтыс</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>299</td>
 <td rowspan="24">
 Чего?
@@ -4615,7 +4628,8 @@
 Из чего?
 Кувшин сделан из меди.
 Заучиваем отрывок из эпоса.
-Родительный падеж + притяжательная форма 3-го лица
+Родительный падеж+ притяжательная форма
+3-го лица
 Рукопись Абая.
 Культура казахов.
 Временное значение
@@ -4630,171 +4644,171 @@
 <td>70</td>
 <td>2</td>
 <td colspan="2">издательство</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>514</td>
 </tr>
 <tr>
 <td>71</td>
 <td>3</td>
 <td colspan="2">глина</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>489</td>
 </tr>
 <tr>
 <td>72</td>
 <td>4</td>
 <td colspan="2">век</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>4919</td>
 </tr>
 <tr>
 <td>73</td>
 <td>5</td>
 <td colspan="2">брови</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>1502</td>
 </tr>
 <tr>
 <td>74</td>
 <td>6</td>
 <td colspan="2">нарядный</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>181</td>
 </tr>
 <tr>
 <td>75</td>
 <td>7</td>
 <td colspan="2">жетиген</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>49</td>
 </tr>
 <tr>
 <td>76</td>
 <td>8</td>
 <td colspan="2">эпос</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>1725</td>
 </tr>
 <tr>
 <td>77</td>
 <td>9</td>
 <td colspan="2">культура</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>3782</td>
 </tr>
 <tr>
 <td>78</td>
 <td>10</td>
 <td colspan="2">мавзолей</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>173</td>
 </tr>
 <tr>
 <td>79</td>
 <td>11</td>
 <td colspan="2">рукопись</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>273</td>
 </tr>
 <tr>
 <td>80</td>
 <td>12</td>
 <td colspan="2">кувшин</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>183</td>
 </tr>
 <tr>
 <td>81</td>
 <td>13</td>
 <td colspan="2">дорогой</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>886</td>
 </tr>
 <tr>
 <td>82</td>
 <td>14</td>
 <td colspan="2">важный</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>2925</td>
 </tr>
 <tr>
 <td>83</td>
 <td>15</td>
 <td colspan="2">текемет</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>63</td>
 </tr>
 <tr>
 <td>84</td>
 <td>16</td>
 <td colspan="2">коржын</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>284</td>
 </tr>
 <tr>
 <td>85</td>
 <td>17</td>
 <td colspan="2">наследие</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>1338</td>
 </tr>
 <tr>
 <td>86</td>
 <td>18</td>
 <td colspan="2">памятник</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>827</td>
 </tr>
 <tr>
 <td>87</td>
 <td>19</td>
 <td colspan="2">удивляться</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>366</td>
 </tr>
 <tr>
 <td>88</td>
 <td>20</td>
 <td colspan="2">находить</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>6204</td>
 </tr>
 <tr>
 <td>89</td>
 <td>21</td>
 <td colspan="2">монета</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>273</td>
 </tr>
 <tr>
 <td>90</td>
 <td>22</td>
 <td colspan="2">документ</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>4907</td>
 </tr>
 <tr>
 <td>91</td>
 <td>23</td>
 <td colspan="2">медь</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>551</td>
 </tr>
 <tr>
 <td>92</td>
 <td>24</td>
 <td colspan="2">о, про</td>
-<td>служ</td>
+<td colspan="2">служ</td>
 <td>8011</td>
 </tr>
 <tr>
-<td colspan="7">Мир профессий – 28 слов</td>
+<td colspan="8">Мир профессий – 28 слов</td>
 </tr>
 <tr>
 <td>93</td>
 <td>1</td>
 <td colspan="2">повар</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>123</td>
 <td rowspan="28">
 Личное окончание:
@@ -4807,7 +4821,7 @@
 тілші (корреспондент)
 аудармашы (переводчик)
 жазушы (писатель)
-Окончание:- гер
+Окончание: -гер
 заңгер (юрист)
 дәрігер (врач)
 қаржыгер (финансист)
@@ -4822,208 +4836,208 @@
 Вы будете учителем.
 Он будет строителем.
 Неопределенная форма глагола:
-Правильно выбрать профессию .
+Правильно выбрать профессию.
 Много читать.
-Хорошо готовиться к урокам
+Хорошо готовиться к урокам.
 </td>
 </tr>
 <tr>
 <td>94</td>
 <td>2</td>
 <td colspan="2">это</td>
-<td>мест</td>
+<td colspan="2">мест</td>
 <td>25995</td>
 </tr>
 <tr>
 <td>95</td>
 <td>3</td>
 <td colspan="2">будущее</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>2438</td>
 </tr>
 <tr>
 <td>96</td>
 <td>4</td>
 <td colspan="2">официант</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>40</td>
 </tr>
 <tr>
 <td>97</td>
 <td>5</td>
 <td colspan="2">хлебороб</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>77</td>
 </tr>
 <tr>
 <td>98</td>
 <td>6</td>
 <td colspan="2">вычислять</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>1406</td>
 </tr>
 <tr>
 <td>99</td>
 <td>7</td>
 <td colspan="2">бухгалтер</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>14</td>
 </tr>
 <tr>
 <td>100</td>
 <td>8</td>
 <td colspan="2">водитель</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>643</td>
 </tr>
 <tr>
 <td>101</td>
 <td>9</td>
 <td colspan="2">резать</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>253</td>
 </tr>
 <tr>
 <td>102</td>
 <td>10</td>
 <td colspan="2">строитель</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>123</td>
 </tr>
 <tr>
 <td>103</td>
 <td>11</td>
 <td colspan="2">должность</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>11732</td>
 </tr>
 <tr>
 <td>104</td>
 <td>12</td>
 <td colspan="2">певец</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>755</td>
 </tr>
 <tr>
 <td>105</td>
 <td>13</td>
 <td colspan="2">посадить</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>471</td>
 </tr>
 <tr>
 <td>106</td>
 <td>14</td>
 <td colspan="2">профессия</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>1319</td>
 </tr>
 <tr>
 <td>107</td>
 <td>15</td>
 <td colspan="2">пекарь</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>7</td>
 </tr>
 <tr>
 <td>108</td>
 <td>16</td>
 <td colspan="2">композитор</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>144</td>
 </tr>
 <tr>
 <td>109</td>
 <td>17</td>
 <td colspan="2">продавать</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>6132</td>
 </tr>
 <tr>
 <td>110</td>
 <td>18</td>
 <td colspan="2">продавец</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>232</td>
 </tr>
 <tr>
 <td>111</td>
 <td>19</td>
 <td colspan="2">модельер</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>9</td>
 </tr>
 <tr>
 <td>112</td>
 <td>20</td>
 <td colspan="2">выбирать</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>1803</td>
 </tr>
 <tr>
 <td>113</td>
 <td>21</td>
 <td colspan="2">швея</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>5</td>
 </tr>
 <tr>
 <td>114</td>
 <td>22</td>
 <td colspan="2">шить</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>527</td>
 </tr>
 <tr>
 <td>115</td>
 <td>23</td>
 <td colspan="2">корреспондент</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>160</td>
 </tr>
 <tr>
 <td>116</td>
 <td>24</td>
 <td colspan="2">форма</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>9399</td>
 </tr>
 <tr>
 <td>117</td>
 <td>25</td>
 <td colspan="2">танцор</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>109</td>
 </tr>
 <tr>
 <td>118</td>
 <td>26</td>
 <td colspan="2">кузнец</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>282</td>
 </tr>
 <tr>
 <td>119</td>
 <td>27</td>
 <td colspan="2">летчик</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>215</td>
 </tr>
 <tr>
 <td>120</td>
 <td>28</td>
 <td colspan="2">парикмахер</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>52</td>
 </tr>
 <tr>
-<td colspan="7">Природные явления – 40 слов</td>
+<td colspan="8">Природные явления – 40 слов</td>
 </tr>
 <tr>
 <td>121</td>
 <td>1</td>
 <td colspan="2">будь осторожен!</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>144</td>
 <td rowspan="40">
 Временное значение
@@ -5050,283 +5064,283 @@
 <td>122</td>
 <td>2</td>
 <td colspan="2">снеговик</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>120</td>
 </tr>
 <tr>
 <td>123</td>
 <td>3</td>
 <td colspan="2">цвести</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>95</td>
 </tr>
 <tr>
 <td>124</td>
 <td>4</td>
 <td colspan="2">открытый</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>1889</td>
 </tr>
 <tr>
 <td>125</td>
 <td>5</td>
 <td colspan="2">мороз</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>611</td>
 </tr>
 <tr>
 <td>126</td>
 <td>6</td>
 <td colspan="2">этот год</td>
-<td>нареч</td>
+<td colspan="2">нареч</td>
 <td>655</td>
 </tr>
 <tr>
 <td>127</td>
 <td>7</td>
 <td colspan="2">метель</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>419</td>
 </tr>
 <tr>
 <td>128</td>
 <td>8</td>
 <td colspan="2">сдвинуть</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>770</td>
 </tr>
 <tr>
 <td>129</td>
 <td>9</td>
 <td colspan="2">облако</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>481</td>
 </tr>
 <tr>
 <td>130</td>
 <td>10</td>
 <td colspan="2">град</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>198</td>
 </tr>
 <tr>
 <td>131</td>
 <td>11</td>
 <td colspan="2">прошлый год</td>
-<td>нареч</td>
+<td colspan="2">нареч</td>
 <td>628</td>
 </tr>
 <tr>
 <td>132</td>
 <td>12</td>
 <td colspan="2">ураган</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>242</td>
 </tr>
 <tr>
 <td>133</td>
 <td>13</td>
 <td colspan="2">таять</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>623</td>
 </tr>
 <tr>
 <td>134</td>
 <td>14</td>
 <td colspan="2">убегать</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>1231</td>
 </tr>
 <tr>
 <td>135</td>
 <td>15</td>
 <td colspan="2">дождливый</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>26</td>
 </tr>
 <tr>
 <td>136</td>
 <td>16</td>
 <td colspan="2">ветер</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>820</td>
 </tr>
 <tr>
 <td>137</td>
 <td>17</td>
 <td colspan="2">радуга</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>98</td>
 </tr>
 <tr>
 <td>138</td>
 <td>18</td>
 <td colspan="2">греметь</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>252</td>
 </tr>
 <tr>
 <td>139</td>
 <td>19</td>
 <td colspan="2">сильный</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>2995</td>
 </tr>
 <tr>
 <td>140</td>
 <td>20</td>
 <td colspan="2">удобный</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>615</td>
 </tr>
 <tr>
 <td>141</td>
 <td>21</td>
 <td colspan="2">зонтик</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>31</td>
 </tr>
 <tr>
 <td>142</td>
 <td>22</td>
 <td colspan="2">испугаться</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>604</td>
 </tr>
 <tr>
 <td>143</td>
 <td>23</td>
 <td colspan="2">падать</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>211</td>
 </tr>
 <tr>
 <td>144</td>
 <td>24</td>
 <td colspan="2">шапка</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>47</td>
 </tr>
 <tr>
 <td>145</td>
 <td>25</td>
 <td colspan="2">сухой</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>243</td>
 </tr>
 <tr>
 <td>146</td>
 <td>26</td>
 <td colspan="2">освободить</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>610</td>
 </tr>
 <tr>
 <td>147</td>
 <td>27</td>
 <td colspan="2">коричневый</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>693</td>
 </tr>
 <tr>
 <td>148</td>
 <td>28</td>
 <td colspan="2">молния</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>208</td>
 </tr>
 <tr>
 <td>149</td>
 <td>29</td>
 <td colspan="2">пожар</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>448</td>
 </tr>
 <tr>
 <td>150</td>
 <td>30</td>
 <td colspan="2">желтеет</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>107</td>
 </tr>
 <tr>
 <td>151</td>
 <td>31</td>
 <td colspan="2">луч</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>657</td>
 </tr>
 <tr>
 <td>152</td>
 <td>32</td>
 <td colspan="2">еще</td>
-<td>служ</td>
+<td colspan="2">служ</td>
 <td>6215</td>
 </tr>
 <tr>
 <td>153</td>
 <td>33</td>
 <td colspan="2">неудобный</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>45</td>
 </tr>
 <tr>
 <td>154</td>
 <td>34</td>
 <td colspan="2">потушить</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>103</td>
 </tr>
 <tr>
 <td>155</td>
 <td>35</td>
 <td colspan="2">скользкий</td>
-<td>прил</td>
+<td colspan="2">прил</td>
 <td>63</td>
 </tr>
 <tr>
 <td>156</td>
 <td>36</td>
 <td colspan="2">опять</td>
-<td>нареч</td>
+<td colspan="2">нареч</td>
 <td>4920</td>
 </tr>
 <tr>
 <td>157</td>
 <td>37</td>
 <td colspan="2">замерзнуть</td>
-<td>гл</td>
+<td colspan="2">гл</td>
 <td>176</td>
 </tr>
 <tr>
 <td>158</td>
 <td>38</td>
 <td colspan="2">туман</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>22</td>
 </tr>
 <tr>
 <td>159</td>
 <td>39</td>
 <td colspan="2">санки</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>177</td>
 </tr>
 <tr>
 <td>160</td>
 <td>40</td>
 <td colspan="2">лыжи</td>
-<td>сущ</td>
+<td colspan="2">сущ</td>
 <td>186</td>
 </tr>
 <tr>
-<td colspan="7">Охрана окружающей среды – 36 слов</td>
+<td colspan="8">Охрана окружающей среды – 36 слов</td>
 </tr>
 <tr>
 <td>161</td>
 <td>1</td>
-<td>уменьшаться</td>
-<td colspan="2">гл</td>
+<td colspan="3">уменьшаться</td>
+<td>гл</td>
 <td>694</td>
 <td rowspan="36">
 Множественная форма:
@@ -5348,260 +5362,261 @@
 <tr>
 <td>162</td>
 <td>2</td>
-<td>сайгак</td>
-<td colspan="2">сущ</td>
+<td colspan="3">сайгак</td>
+<td>сущ</td>
 <td>284</td>
 </tr>
 <tr>
 <td>163</td>
 <td>3</td>
-<td>излишний</td>
-<td colspan="2">прил</td>
+<td colspan="3">излишний</td>
+<td>прил</td>
 <td>1881</td>
 </tr>
 <tr>
 <td>164</td>
 <td>4</td>
-<td>жалеть</td>
-<td colspan="2">гл</td>
+<td colspan="3">жалеть</td>
+<td>гл</td>
 <td>787</td>
 </tr>
 <tr>
 <td>165</td>
 <td>5</td>
-<td>корень</td>
-<td colspan="2">сущ</td>
+<td colspan="3">корень</td>
+<td>сущ</td>
 <td>828</td>
 </tr>
 <tr>
 <td>166</td>
 <td>6</td>
-<td>ветка</td>
-<td colspan="2">сущ</td>
+<td colspan="3">ветка</td>
+<td>сущ</td>
 <td>536</td>
 </tr>
 <tr>
 <td>167</td>
 <td>7</td>
-<td>газон</td>
-<td colspan="2">сущ</td>
+<td colspan="3">газон</td>
+<td>сущ</td>
 <td>33</td>
 </tr>
 <tr>
 <td>168</td>
 <td>8</td>
-<td>семена</td>
-<td colspan="2">сущ</td>
+<td colspan="3">семена</td>
+<td>сущ</td>
 <td>1739</td>
 </tr>
 <tr>
 <td>169</td>
 <td>9</td>
-<td>дуб</td>
-<td colspan="2">сущ</td>
+<td colspan="3">дуб</td>
+<td>сущ</td>
 <td>138</td>
 </tr>
 <tr>
 <td>170</td>
 <td>10</td>
-<td>нравиться</td>
-<td colspan="2">гл</td>
+<td colspan="3">нравиться</td>
+<td>гл</td>
 <td>656</td>
 </tr>
 <tr>
 <td>171</td>
 <td>11</td>
-<td>уничтожить</td>
-<td colspan="2">гл</td>
+<td colspan="3">уничтожить</td>
+<td>гл</td>
 <td>515</td>
 </tr>
 <tr>
 <td>172</td>
 <td>12</td>
-<td>змея</td>
-<td colspan="2">сущ</td>
+<td colspan="3">змея</td>
+<td>сущ</td>
 <td>717</td>
 </tr>
 <tr>
 <td>173</td>
 <td>13</td>
-<td>нора</td>
-<td colspan="2">сущ</td>
+<td colspan="3">нора</td>
+<td>сущ</td>
 <td>319</td>
 </tr>
 <tr>
 <td>174</td>
 <td>14</td>
-<td>оценивать</td>
-<td colspan="2">сущ</td>
+<td colspan="3">оценивать</td>
+<td>сущ</td>
 <td>4586</td>
 </tr>
 <tr>
 <td>175</td>
 <td>15</td>
-<td>лужайка</td>
-<td colspan="2">сущ</td>
+<td colspan="3">лужайка</td>
+<td>сущ</td>
 <td>46</td>
 </tr>
 <tr>
 <td>176</td>
 <td>16</td>
-<td>береза</td>
-<td colspan="2">сущ</td>
+<td colspan="3">береза</td>
+<td>сущ</td>
 <td>188</td>
 </tr>
 <tr>
 <td>177</td>
 <td>17</td>
-<td>полынь</td>
-<td colspan="2">сущ</td>
+<td colspan="3">полынь</td>
+<td>сущ</td>
 <td>115</td>
 </tr>
 <tr>
 <td>178</td>
 <td>18</td>
-<td>жаворонок</td>
-<td colspan="2">сущ</td>
+<td colspan="3">жаворонок</td>
+<td>сущ</td>
 <td>62</td>
 </tr>
 <tr>
 <td>179</td>
 <td>19</td>
-<td>питаться</td>
-<td colspan="2">гл</td>
+<td colspan="3">питаться</td>
+<td>гл</td>
 <td>194</td>
 </tr>
 <tr>
 <td>180</td>
 <td>20</td>
-<td>заповедник</td>
-<td colspan="2">сущ</td>
+<td colspan="3">заповедник</td>
+<td>сущ</td>
 <td>168</td>
 </tr>
 <tr>
 <td>181</td>
 <td>21</td>
-<td>комар</td>
-<td colspan="2">сущ</td>
+<td colspan="3">комар</td>
+<td>сущ</td>
 <td>234</td>
 </tr>
 <tr>
 <td>182</td>
 <td>22</td>
-<td>океан</td>
-<td colspan="2">сущ</td>
+<td colspan="3">океан</td>
+<td>сущ</td>
 <td>568</td>
 </tr>
 <tr>
 <td>183</td>
 <td>23</td>
-<td>паук</td>
-<td colspan="2">сущ</td>
+<td colspan="3">паук</td>
+<td>сущ</td>
 <td>114</td>
 </tr>
 <tr>
 <td>184</td>
 <td>24</td>
-<td>безразличие</td>
-<td colspan="2">нареч</td>
+<td colspan="3">безразличие</td>
+<td>нареч</td>
 <td>46</td>
 </tr>
 <tr>
 <td>185</td>
 <td>25</td>
-<td>роза</td>
-<td colspan="2">сущ</td>
+<td colspan="3">роза</td>
+<td>сущ</td>
 <td>5</td>
 </tr>
 <tr>
 <td>186</td>
 <td>26</td>
-<td>саксаул</td>
-<td colspan="2">сущ</td>
+<td colspan="3">саксаул</td>
+<td>сущ</td>
 <td>50</td>
 </tr>
 <tr>
 <td>187</td>
 <td>27</td>
-<td>редкий</td>
-<td colspan="2">прил</td>
+<td colspan="3">редкий</td>
+<td>прил</td>
 <td>470</td>
 </tr>
 <tr>
 <td>188</td>
 <td>28</td>
-<td>собирать</td>
-<td colspan="2">гл</td>
+<td colspan="3">собирать</td>
+<td>гл</td>
 <td>156</td>
 </tr>
 <tr>
 <td>189</td>
 <td>29</td>
-<td>тополь</td>
-<td colspan="2">сущ</td>
+<td colspan="3">тополь</td>
+<td>сущ</td>
 <td>235</td>
 </tr>
 <tr>
 <td>190</td>
 <td>30</td>
-<td>лес</td>
-<td colspan="2">сущ</td>
+<td colspan="3">лес</td>
+<td>сущ</td>
 <td>326</td>
 </tr>
 <tr>
 <td>191</td>
 <td>31</td>
-<td>марал</td>
-<td colspan="2">сущ</td>
+<td colspan="3">марал</td>
+<td>сущ</td>
 <td>30</td>
 </tr>
 <tr>
 <td>192</td>
 <td>32</td>
-<td>дым</td>
-<td colspan="2">сущ</td>
+<td colspan="3">дым</td>
+<td>сущ</td>
 <td>318</td>
 </tr>
 <tr>
 <td>193</td>
 <td>33</td>
-<td>мышь</td>
-<td colspan="2">сущ</td>
+<td colspan="3">мышь</td>
+<td>сущ</td>
 <td>3</td>
 </tr>
 <tr>
 <td>194</td>
 <td>34</td>
-<td>защищать</td>
-<td colspan="2">гл</td>
+<td colspan="3">защищать</td>
+<td>гл</td>
 <td>3787</td>
 </tr>
 <tr>
 <td>195</td>
 <td>35</td>
-<td>пустыня</td>
-<td colspan="2">сущ</td>
+<td colspan="3">пустыня</td>
+<td>сущ</td>
 <td>409</td>
 </tr>
 <tr>
 <td>196</td>
 <td>36</td>
-<td>оберегать</td>
-<td colspan="2">гл</td>
+<td colspan="3">оберегать</td>
+<td>гл</td>
 <td>153</td>
 </tr>
 <tr>
-<td colspan="7">Путешествие в космос – 31 слово</td>
+<td colspan="8">Путешествие в космос – 31 слово</td>
 </tr>
 <tr>
 <td>197</td>
 <td>1</td>
-<td>гавань</td>
-<td colspan="2">сущ</td>
+<td colspan="3">гавань</td>
+<td>сущ</td>
 <td>67</td>
 <td rowspan="31">
 окончание: -кер
-Ол – ғарышкер (Он – космонавт).
+Ол – ғарышкер
+(Он – космонавт).
 На чем?
 Он полетел на ракете.
 Порядок слов в предложении:
@@ -5615,226 +5630,226 @@
 <tr>
 <td>198</td>
 <td>2</td>
-<td>специально</td>
-<td colspan="2">нареч</td>
+<td colspan="3">специально</td>
+<td>нареч</td>
 <td>2219</td>
 </tr>
 <tr>
 <td>199</td>
 <td>3</td>
-<td>кружиться</td>
-<td colspan="2">гл</td>
+<td colspan="3">кружиться</td>
+<td>гл</td>
 <td>6002</td>
 </tr>
 <tr>
 <td>200</td>
 <td>4</td>
-<td>небо</td>
-<td colspan="2">сущ</td>
+<td colspan="3">небо</td>
+<td>сущ</td>
 <td>426</td>
 </tr>
 <tr>
 <td>201</td>
 <td>5</td>
-<td>светиться</td>
-<td colspan="2">гл</td>
+<td colspan="3">светиться</td>
+<td>гл</td>
 <td>428</td>
 </tr>
 <tr>
 <td>202</td>
 <td>6</td>
-<td>смелый</td>
-<td colspan="2">прил</td>
+<td colspan="3">смелый</td>
+<td>прил</td>
 <td>477</td>
 </tr>
 <tr>
 <td>203</td>
 <td>7</td>
-<td>планета</td>
-<td colspan="2">сущ</td>
+<td colspan="3">планета</td>
+<td>сущ</td>
 <td>306</td>
 </tr>
 <tr>
 <td>204</td>
 <td>8</td>
-<td>космос</td>
-<td colspan="2">сущ</td>
+<td colspan="3">космос</td>
+<td>сущ</td>
 <td>773</td>
 </tr>
 <tr>
 <td>205</td>
 <td>9</td>
-<td>космонавт</td>
-<td colspan="2">сущ</td>
+<td colspan="3">космонавт</td>
+<td>сущ</td>
 <td>95</td>
 </tr>
 <tr>
 <td>206</td>
 <td>10</td>
-<td>наука</td>
-<td colspan="2">сущ</td>
+<td colspan="3">наука</td>
+<td>сущ</td>
 <td>3739</td>
 </tr>
 <tr>
 <td>207</td>
 <td>11</td>
-<td>круглый</td>
-<td colspan="2">прил</td>
+<td colspan="3">круглый</td>
+<td>прил</td>
 <td>518</td>
 </tr>
 <tr>
 <td>208</td>
 <td>12</td>
-<td>узкий</td>
-<td colspan="2">прил</td>
+<td colspan="3">узкий</td>
+<td>прил</td>
 <td>441</td>
 </tr>
 <tr>
 <td>209</td>
 <td>13</td>
-<td>мерцать</td>
-<td colspan="2">гл</td>
+<td colspan="3">мерцать</td>
+<td>гл</td>
 <td>45</td>
 </tr>
 <tr>
 <td>210</td>
 <td>14</td>
-<td>потеряться</td>
-<td colspan="2">гл</td>
+<td colspan="3">потеряться</td>
+<td>гл</td>
 <td>682</td>
 </tr>
 <tr>
 <td>211</td>
 <td>15</td>
-<td>ракета</td>
-<td colspan="2">сущ</td>
+<td colspan="3">ракета</td>
+<td>сущ</td>
 <td>99</td>
 </tr>
 <tr>
 <td>212</td>
 <td>16</td>
-<td>искать</td>
-<td colspan="2">гл</td>
+<td colspan="3">искать</td>
+<td>гл</td>
 <td>2409</td>
 </tr>
 <tr>
 <td>213</td>
 <td>17</td>
-<td>плеяда</td>
-<td colspan="2">сущ</td>
+<td colspan="3">плеяда</td>
+<td>сущ</td>
 <td>50</td>
 </tr>
 <tr>
 <td>214</td>
 <td>18</td>
-<td>пространство</td>
-<td colspan="2">сущ</td>
+<td colspan="3">пространство</td>
+<td>сущ</td>
 <td>867</td>
 </tr>
 <tr>
 <td>215</td>
 <td>19</td>
-<td>пыль</td>
-<td colspan="2">сущ</td>
+<td colspan="3">пыль</td>
+<td>сущ</td>
 <td>42</td>
 </tr>
 <tr>
 <td>216</td>
 <td>20</td>
-<td>тайна</td>
-<td colspan="2">сущ</td>
+<td colspan="3">тайна</td>
+<td>сущ</td>
 <td>888</td>
 </tr>
 <tr>
 <td>217</td>
 <td>21</td>
-<td>награждение</td>
-<td colspan="2">сущ</td>
+<td colspan="3">награждение</td>
+<td>сущ</td>
 <td>62</td>
 </tr>
 <tr>
 <td>218</td>
 <td>22</td>
-<td>меню</td>
-<td colspan="2">сущ</td>
+<td colspan="3">меню</td>
+<td>сущ</td>
 <td>62</td>
 </tr>
 <tr>
 <td>219</td>
 <td>23</td>
-<td>вернуться</td>
-<td colspan="2">гл</td>
+<td colspan="3">вернуться</td>
+<td>гл</td>
 <td>2160</td>
 </tr>
 <tr>
 <td>220</td>
 <td>24</td>
-<td>похожий</td>
-<td colspan="2">прил</td>
+<td colspan="3">похожий</td>
+<td>прил</td>
 <td>673</td>
 </tr>
 <tr>
 <td>221</td>
 <td>25</td>
-<td>вес</td>
-<td colspan="2">сущ</td>
+<td colspan="3">вес</td>
+<td>сущ</td>
 <td>662</td>
 </tr>
 <tr>
 <td>222</td>
 <td>26</td>
-<td>спутник</td>
-<td colspan="2">сущ</td>
+<td colspan="3">спутник</td>
+<td>сущ</td>
 <td>591</td>
 </tr>
 <tr>
 <td>223</td>
 <td>27</td>
-<td>зачет</td>
-<td colspan="2">сущ</td>
+<td colspan="3">зачет</td>
+<td>сущ</td>
 <td>312</td>
 </tr>
 <tr>
 <td>224</td>
 <td>28</td>
-<td>прямой</td>
-<td colspan="2">прил</td>
+<td colspan="3">прямой</td>
+<td>прил</td>
 <td>319</td>
 </tr>
 <tr>
 <td>225</td>
 <td>29</td>
-<td>дальний</td>
-<td colspan="2">прил</td>
+<td colspan="3">дальний</td>
+<td>прил</td>
 <td>698</td>
 </tr>
 <tr>
 <td>226</td>
 <td>30</td>
-<td>близкий</td>
-<td colspan="2">прил</td>
+<td colspan="3">близкий</td>
+<td>прил</td>
 <td>2073</td>
 </tr>
 <tr>
 <td>227</td>
 <td>31</td>
-<td>километр</td>
-<td colspan="2">сущ</td>
+<td colspan="3">километр</td>
+<td>сущ</td>
 <td>351</td>
 </tr>
 <tr>
-<td colspan="7">Путешествие в будущее – 29 слов</td>
+<td colspan="8">Путешествие в будущее – 29 слов</td>
 </tr>
 <tr>
 <td>228</td>
 <td>1</td>
-<td>информация</td>
-<td colspan="2">сущ</td>
+<td colspan="3">информация</td>
+<td>сущ</td>
 <td>3514</td>
 <td rowspan="29">
 Вопросительное предложение:
 У тебя есть мечта?
-Неопределенная форма глагола (-у) + модальное слово (қажет):
+Неопределенная форма глагола (-у)+модальное слово (қажет):
 Алға ұмтыл+у қажет.
 (Нужно двигаться вперед.)
 Повелительное значение:
@@ -5848,197 +5863,197 @@
 <tr>
 <td>229</td>
 <td>2</td>
-<td>оправдать</td>
-<td colspan="2">гл</td>
+<td colspan="3">оправдать</td>
+<td>гл</td>
 <td>504</td>
 </tr>
 <tr>
 <td>230</td>
 <td>3</td>
-<td>вперед</td>
-<td colspan="2">нареч</td>
+<td colspan="3">вперед</td>
+<td>нареч</td>
 <td>2755</td>
 </tr>
 <tr>
 <td>231</td>
 <td>4</td>
-<td>мечта</td>
-<td colspan="2">сущ</td>
+<td colspan="3">мечта</td>
+<td>сущ</td>
 <td>1520</td>
 </tr>
 <tr>
 <td>232</td>
 <td>5</td>
-<td>выполнять</td>
-<td colspan="2">гл</td>
+<td colspan="3">выполнять</td>
+<td>гл</td>
 <td>3368</td>
 </tr>
 <tr>
 <td>233</td>
 <td>6</td>
-<td>особенно</td>
-<td colspan="2">нареч</td>
+<td colspan="3">особенно</td>
+<td>нареч</td>
 <td>2002</td>
 </tr>
 <tr>
 <td>234</td>
 <td>7</td>
-<td>несколько</td>
-<td colspan="2">числ</td>
+<td colspan="3">несколько</td>
+<td>числ</td>
 <td>1953</td>
 </tr>
 <tr>
 <td>235</td>
 <td>8</td>
-<td>развиваться</td>
-<td colspan="2">гл</td>
+<td colspan="3">развиваться</td>
+<td>гл</td>
 <td>6059</td>
 </tr>
 <tr>
 <td>236</td>
 <td>9</td>
-<td>тихо</td>
-<td colspan="2">нареч</td>
+<td colspan="3">тихо</td>
+<td>нареч</td>
 <td>310</td>
 </tr>
 <tr>
 <td>237</td>
 <td>10</td>
-<td>приближаться</td>
-<td colspan="2">гл</td>
+<td colspan="3">приближаться</td>
+<td>гл</td>
 <td>1025</td>
 </tr>
 <tr>
 <td>238</td>
 <td>11</td>
-<td>мост</td>
-<td colspan="2">сущ</td>
+<td colspan="3">мост</td>
+<td>сущ</td>
 <td>292</td>
 </tr>
 <tr>
 <td>239</td>
 <td>12</td>
-<td>период</td>
-<td colspan="2">сущ</td>
+<td colspan="3">период</td>
+<td>сущ</td>
 <td>3318</td>
 </tr>
 <tr>
 <td>240</td>
 <td>13</td>
-<td>следующий</td>
-<td colspan="2">прил</td>
+<td colspan="3">следующий</td>
+<td>прил</td>
 <td>844</td>
 </tr>
 <tr>
 <td>241</td>
 <td>14</td>
-<td>календарь</td>
-<td colspan="2">сущ</td>
+<td colspan="3">календарь</td>
+<td>сущ</td>
 <td>122</td>
 </tr>
 <tr>
 <td>242</td>
 <td>15</td>
-<td>передовой</td>
-<td colspan="2">прил</td>
+<td colspan="3">передовой</td>
+<td>прил</td>
 <td>396</td>
 </tr>
 <tr>
 <td>243</td>
 <td>16</td>
-<td>чужой</td>
-<td colspan="2">прил</td>
+<td colspan="3">чужой</td>
+<td>прил</td>
 <td>2802</td>
 </tr>
 <tr>
 <td>244</td>
 <td>17</td>
-<td>присутствовать</td>
-<td colspan="2">гл</td>
+<td colspan="3">присутствовать</td>
+<td>гл</td>
 <td>8733</td>
 </tr>
 <tr>
 <td>245</td>
 <td>18</td>
-<td>освоить</td>
-<td colspan="2">гл</td>
+<td colspan="3">освоить</td>
+<td>гл</td>
 <td>1400</td>
 </tr>
 <tr>
 <td>246</td>
 <td>19</td>
-<td>думать</td>
-<td colspan="2">гл</td>
+<td colspan="3">думать</td>
+<td>гл</td>
 <td>127</td>
 </tr>
 <tr>
 <td>247</td>
 <td>20</td>
-<td>предмет</td>
-<td colspan="2">сущ</td>
+<td colspan="3">предмет</td>
+<td>сущ</td>
 <td>933</td>
 </tr>
 <tr>
 <td>248</td>
 <td>21</td>
-<td>доверие</td>
-<td colspan="2">сущ</td>
+<td colspan="3">доверие</td>
+<td>сущ</td>
 <td>1275</td>
 </tr>
 <tr>
 <td>249</td>
 <td>22</td>
-<td>жидкий</td>
-<td colspan="2">прил</td>
+<td colspan="3">жидкий</td>
+<td>прил</td>
 <td>632</td>
 </tr>
 <tr>
 <td>250</td>
 <td>23</td>
-<td>уставать</td>
-<td colspan="2">гл</td>
+<td colspan="3">уставать</td>
+<td>гл</td>
 <td>547</td>
 </tr>
 <tr>
 <td>251</td>
 <td>24</td>
-<td>успевать</td>
-<td colspan="2">гл</td>
+<td colspan="3">успевать</td>
+<td>гл</td>
 <td>594</td>
 </tr>
 <tr>
 <td>252</td>
 <td>25</td>
-<td>надежда</td>
-<td colspan="2">сущ</td>
+<td colspan="3">надежда</td>
+<td>сущ</td>
 <td>1179</td>
 </tr>
 <tr>
 <td>253</td>
 <td>26</td>
-<td>своевременно</td>
-<td colspan="2">нареч</td>
+<td colspan="3">своевременно</td>
+<td>нареч</td>
 <td>3296</td>
 </tr>
 <tr>
 <td>254</td>
 <td>27</td>
-<td>заграница</td>
-<td colspan="2">сущ</td>
+<td colspan="3">заграница</td>
+<td>сущ</td>
 <td>957</td>
 </tr>
 <tr>
 <td>255</td>
 <td>28</td>
-<td>решение</td>
-<td colspan="2">сущ</td>
+<td colspan="3">решение</td>
+<td>сущ</td>
 <td>2315</td>
 </tr>
 <tr>
 <td>256</td>
 <td>29</td>
-<td>измениться</td>
-<td colspan="2">гл</td>
+<td colspan="3">измениться</td>
+<td>гл</td>
 <td>3481</td>
 </tr>
 </table>
