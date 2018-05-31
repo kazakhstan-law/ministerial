@@ -14,6 +14,11 @@ approval_date: 2015-03-31
 version_date: 2015-03-31
 registry_number: '89825'
 source: https://zan.gov.kz/client/#!/doc/89825/rus/31.03.2015
+repealed_on: 2018-06-29
+repealed_by:
+  code: '122724'
+  title: Об утверждении форм отчетов по геологическому изучению недр
+  link: https://zan.gov.kz/client/#!/doc/122724/rus
 ---
 
 # Об утверждении Правил представления недропользователями отчетов о проведении операций по недропользованию
