@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/94065/rus/09.06.2017
+source: https://zan.gov.kz/client/#!/doc/94065/rus/14.06.2018
 ---
 
 # Об утверждении стандартов государственных услуг в сфере ветеринарии
