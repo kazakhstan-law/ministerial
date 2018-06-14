@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104872/rus/14.02.2017
+source: https://zan.gov.kz/client/#!/doc/104872/rus/14.06.2018
 ---
 
 # О некоторых вопросах содействия занятости населения
