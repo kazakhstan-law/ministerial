@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/90678/kaz/30.11.2017
+source: https://zan.gov.kz/client/#!/doc/90678/kaz/29.06.2018
 ---
 
 > *Ішкі су жолдарымен жүзу*  
