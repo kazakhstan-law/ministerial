@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/92338/kaz/01.01.2018
+source: https://zan.gov.kz/client/#!/doc/92338/kaz/03.07.2018
 ---
 
 > *Арнаулы мемлекеттік жәрдемақы*  
