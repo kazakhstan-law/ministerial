@@ -1,5 +1,5 @@
 ---
-version_id: '121992_325951'
+version_id: '121992_358417'
 act_code: '121992'
 language: kaz
 title: 2018-2019 оқу жылына арналған мамандықтар бөлінісінде жоғары және жоғары оқу орнынан кейінгі білімі бар мамандарды даярлауға мемлекеттік білім беру тапсырысын бөлу туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103006000000'
 approval_date: 2018-05-15
-version_date: 2018-05-15
+version_date: 2018-08-02
 registry_number: '121992'
-source: https://zan.gov.kz/client/#!/doc/121992/kaz/15.05.2018
+caused_by:
+  code: '124953'
+  title: «2018-2019 оқу жылына арналған мамандықтар бөлінісінде жоғары және жоғары оқу орнынан кейінгі білімі бар мамандарды даярлауға мемлекеттік білім беру тапсырысын бөлу туралы» Қазақстан Республикасы Білім және ғылым министрінің 2018 жылғы 15 мамырдағы № 204 бұйрығына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/124953/kaz
+source: https://zan.gov.kz/client/#!/doc/121992/kaz/02.08.2018
 ---
 
 # 2018-2019 оқу жылына арналған мамандықтар бөлінісінде жоғары және жоғары оқу орнынан кейінгі білімі бар мамандарды даярлауға мемлекеттік білім беру тапсырысын бөлу туралы
@@ -55,6 +59,8 @@ source: https://zan.gov.kz/client/#!/doc/121992/kaz/15.05.2018
 
 ## 2018-2019 оқу жылына арналған күндізгі оқу нысанындағы мамандықтар бөлінісінде жоғары білімі бар мамандарды даярлауға арналған мемлекеттік білім беру тапсырысы
 
+> *Ескерту. 1-қосымша өзгерістер енгізілді - ҚР Білім және ғылым министрінің 02.08.2018 № 379 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
+
 <table>
 <tr>
 <td rowspan="2">Мамандықтың коды</td>
@@ -73,7 +79,7 @@ source: https://zan.gov.kz/client/#!/doc/121992/kaz/15.05.2018
 <td>орыс</td>
 </tr>
 <tr>
-<td colspan="13">1. Білім беру</td>
+<td colspan="14">1. Білім беру</td>
 </tr>
 <tr>
 <td>5В010100</td>
@@ -161,7 +167,7 @@ source: https://zan.gov.kz/client/#!/doc/121992/kaz/15.05.2018
 </tr>
 <tr>
 <td>5В010800</td>
-<td>Денешынықтыру және спорт</td>
+<td>Дене шынықтыру және спорт</td>
 <td>450</td>
 <td>300</td>
 <td>225</td>
@@ -174,10 +180,10 @@ source: https://zan.gov.kz/client/#!/doc/121992/kaz/15.05.2018
 <tr>
 <td>5В010900</td>
 <td>Математика</td>
-<td>490</td>
-<td>400</td>
-<td>300</td>
-<td>100</td>
+<td>496</td>
+<td>406</td>
+<td>305</td>
+<td>101</td>
 <td colspan="2"></td>
 <td colspan="2">90</td>
 <td colspan="2">68</td>
@@ -425,10 +431,10 @@ source: https://zan.gov.kz/client/#!/doc/121992/kaz/15.05.2018
 </tr>
 <tr>
 <td colspan="2">Барлығы</td>
-<td>7635</td>
-<td>5135</td>
-<td>3697</td>
-<td>1438</td>
+<td>7641</td>
+<td>5141</td>
+<td>3702</td>
+<td>1439</td>
 <td colspan="2">1000</td>
 <td colspan="2">1500</td>
 <td colspan="2">1098</td>
@@ -487,10 +493,10 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 </tr>
 <tr>
 <td colspan="2">ЖИЫНЫ</td>
-<td>8167</td>
-<td>5135</td>
-<td>3697</td>
-<td>1438</td>
+<td>8173</td>
+<td>5141</td>
+<td>3702</td>
+<td>1439</td>
 <td colspan="2">1000</td>
 <td colspan="2">1500</td>
 <td colspan="2">1098</td>
@@ -1509,19 +1515,19 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="13">6. Жаратылыстану ғылымдары</td>
+<td colspan="12">6. Жаратылыстану ғылымдары</td>
 </tr>
 <tr>
 <td>5В060100</td>
 <td>Математика</td>
-<td>370</td>
-<td>370</td>
-<td>278</td>
-<td>92</td>
+<td>375</td>
+<td>375</td>
+<td>281</td>
+<td>94</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В060200</td>
@@ -1533,7 +1539,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В060300</td>
@@ -1545,7 +1551,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В060400</td>
@@ -1557,7 +1563,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В060500</td>
@@ -1569,7 +1575,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В060600</td>
@@ -1581,7 +1587,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В060700</td>
@@ -1593,7 +1599,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В060800</td>
@@ -1605,7 +1611,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В060900</td>
@@ -1617,7 +1623,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В061000</td>
@@ -1629,7 +1635,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В061100</td>
@@ -1641,7 +1647,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В061200</td>
@@ -1653,18 +1659,18 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2">Барлығы</td>
-<td>2955</td>
-<td>2955</td>
-<td>2217</td>
-<td>738</td>
+<td>2960</td>
+<td>2960</td>
+<td>2220</td>
+<td>740</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1676,7 +1682,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1691,7 +1697,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1703,598 +1709,598 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Қазақстан Республикасының азаматы болып табылмайтын ұлты қазақ адамдарға квота (4 %)</td>
-<td>126</td>
+<td>127</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2">ЖИЫНЫ</td>
-<td>3161</td>
-<td>2955</td>
-<td>2217</td>
-<td>738</td>
+<td>3167</td>
+<td>2960</td>
+<td>2220</td>
+<td>740</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="13">7. Техникалық ғылымдар және технологиялар</td>
+<td colspan="12">7. Техникалық ғылымдар және технологиялар</td>
 </tr>
 <tr>
-<td>5В070100</td>
+<td colspan="2">5В070100</td>
 <td>Биотехнология</td>
 <td>995</td>
 <td>995</td>
 <td>746</td>
 <td>249</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>5В070200</td>
+<td colspan="2">5В070200</td>
 <td>Автоматтандыру және басқару</td>
 <td>1530</td>
 <td>1426</td>
 <td>1070</td>
 <td>356</td>
-<td></td>
-<td colspan="2">104</td>
-<td colspan="2">78</td>
-<td colspan="2">26</td>
+<td colspan="2"></td>
+<td>104</td>
+<td>78</td>
+<td>26</td>
 </tr>
 <tr>
-<td>5В070300</td>
+<td colspan="2">5В070300</td>
 <td>Ақпараттық жүйелер</td>
 <td>1530</td>
 <td>1318</td>
 <td>989</td>
 <td>329</td>
-<td></td>
-<td colspan="2">212</td>
-<td colspan="2">159</td>
-<td colspan="2">53</td>
+<td colspan="2"></td>
+<td>212</td>
+<td>159</td>
+<td>53</td>
 </tr>
 <tr>
-<td>5В070400</td>
+<td colspan="2">5В070400</td>
 <td>Есептеу техникасы және бағдарламалық қамтамасыз ету</td>
 <td>1530</td>
 <td>1350</td>
 <td>1013</td>
 <td>337</td>
-<td></td>
-<td colspan="2">180</td>
-<td colspan="2">135</td>
-<td colspan="2">45</td>
+<td colspan="2"></td>
+<td>180</td>
+<td>135</td>
+<td>45</td>
 </tr>
 <tr>
-<td>5В070500</td>
+<td colspan="2">5В070500</td>
 <td>Математикалық және компьютерлік модельдеу</td>
 <td>520</td>
 <td>520</td>
 <td>390</td>
 <td>130</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>5В070600</td>
+<td colspan="2">5В070600</td>
 <td>Геология және пайдалы қазбалар кен орнын барлау</td>
 <td>300</td>
 <td>280</td>
 <td>210</td>
 <td>70</td>
-<td></td>
-<td colspan="2">20</td>
-<td colspan="2">15</td>
-<td colspan="2">5</td>
+<td colspan="2"></td>
+<td>20</td>
+<td>15</td>
+<td>5</td>
 </tr>
 <tr>
-<td>5В070700</td>
+<td colspan="2">5В070700</td>
 <td>Тау-кен ісі</td>
 <td>400</td>
 <td>380</td>
 <td>285</td>
 <td>95</td>
-<td></td>
-<td colspan="2">20</td>
-<td colspan="2">15</td>
-<td colspan="2">5</td>
+<td colspan="2"></td>
+<td>20</td>
+<td>15</td>
+<td>5</td>
 </tr>
 <tr>
-<td>5В070800</td>
+<td colspan="2">5В070800</td>
 <td>Мұнай газ ісі</td>
 <td>400</td>
 <td>350</td>
 <td>263</td>
 <td>87</td>
-<td></td>
-<td colspan="2">50</td>
-<td colspan="2">38</td>
-<td colspan="2">12</td>
+<td colspan="2"></td>
+<td>50</td>
+<td>38</td>
+<td>12</td>
 </tr>
 <tr>
-<td>5В070900</td>
+<td colspan="2">5В070900</td>
 <td>Металлургия</td>
 <td>500</td>
 <td>460</td>
 <td>345</td>
 <td>115</td>
-<td></td>
-<td colspan="2">40</td>
-<td colspan="2">30</td>
-<td colspan="2">10</td>
+<td colspan="2"></td>
+<td>40</td>
+<td>30</td>
+<td>10</td>
 </tr>
 <tr>
-<td>5В071000</td>
+<td colspan="2">5В071000</td>
 <td>Материалтану және жаңа материалдар технологиясы</td>
 <td>280</td>
 <td>280</td>
 <td>210</td>
 <td>70</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>5В071100</td>
+<td colspan="2">5В071100</td>
 <td>Геодезия және картография</td>
 <td>250</td>
 <td>225</td>
 <td>169</td>
 <td>56</td>
-<td></td>
-<td colspan="2">25</td>
-<td colspan="2">19</td>
-<td colspan="2">6</td>
+<td colspan="2"></td>
+<td>25</td>
+<td>19</td>
+<td>6</td>
 </tr>
 <tr>
-<td>5В071200</td>
+<td colspan="2">5В071200</td>
 <td>Машина жасау</td>
 <td>600</td>
 <td>550</td>
 <td>413</td>
 <td>137</td>
-<td></td>
-<td colspan="2">50</td>
-<td colspan="2">38</td>
-<td colspan="2">12</td>
+<td colspan="2"></td>
+<td>50</td>
+<td>38</td>
+<td>12</td>
 </tr>
 <tr>
-<td>5В071300</td>
+<td colspan="2">5В071300</td>
 <td>Көлік, көліктік техника және технологиялар</td>
 <td>600</td>
 <td>508</td>
 <td>381</td>
 <td>127</td>
-<td></td>
-<td colspan="2">92</td>
-<td colspan="2">69</td>
-<td colspan="2">23</td>
+<td colspan="2"></td>
+<td>92</td>
+<td>69</td>
+<td>23</td>
 </tr>
 <tr>
-<td>5В071400</td>
+<td colspan="2">5В071400</td>
 <td>Авиациялық техника және технологиялар</td>
 <td>220</td>
 <td>200</td>
 <td>150</td>
 <td>50</td>
-<td></td>
-<td colspan="2">20</td>
-<td colspan="2">15</td>
-<td colspan="2">5</td>
+<td colspan="2"></td>
+<td>20</td>
+<td>15</td>
+<td>5</td>
 </tr>
 <tr>
-<td>5B071500</td>
+<td colspan="2">5B071500</td>
 <td>Теңіз техникасы және технологиясы</td>
 <td>95</td>
 <td>75</td>
 <td>56</td>
 <td>19</td>
-<td></td>
-<td colspan="2">20</td>
-<td colspan="2">15</td>
-<td colspan="2">5</td>
+<td colspan="2"></td>
+<td>20</td>
+<td>15</td>
+<td>5</td>
 </tr>
 <tr>
-<td>5В071600</td>
+<td colspan="2">5В071600</td>
 <td>Аспап жасау</td>
 <td>290</td>
 <td>290</td>
 <td>218</td>
 <td>72</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>5В071700</td>
+<td colspan="2">5В071700</td>
 <td>Жылу энергетикасы</td>
 <td>790</td>
 <td>715</td>
 <td>536</td>
 <td>179</td>
-<td></td>
-<td colspan="2">75</td>
-<td colspan="2">56</td>
-<td colspan="2">19</td>
+<td colspan="2"></td>
+<td>75</td>
+<td>56</td>
+<td>19</td>
 </tr>
 <tr>
-<td>5В071800</td>
+<td colspan="2">5В071800</td>
 <td>Электр энергетикасы</td>
 <td>880</td>
 <td>720</td>
 <td>540</td>
 <td>180</td>
-<td></td>
-<td colspan="2">160</td>
-<td colspan="2">120</td>
-<td colspan="2">40</td>
+<td colspan="2"></td>
+<td>160</td>
+<td>120</td>
+<td>40</td>
 </tr>
 <tr>
-<td>5В071900</td>
+<td colspan="2">5В071900</td>
 <td>Радиотехника, электроника және телекоммуникациялар</td>
 <td>891</td>
 <td>801</td>
 <td>601</td>
 <td>200</td>
-<td></td>
-<td colspan="2">90</td>
-<td colspan="2">68</td>
-<td colspan="2">22</td>
+<td colspan="2"></td>
+<td>90</td>
+<td>68</td>
+<td>22</td>
 </tr>
 <tr>
-<td>5В072000</td>
+<td colspan="2">5В072000</td>
 <td>Бейорганикалық заттардың химиялық технологиясы</td>
 <td>350</td>
 <td>330</td>
-<td>247</td>
-<td>83</td>
-<td></td>
-<td colspan="2">20</td>
-<td colspan="2">15</td>
-<td colspan="2">5</td>
+<td>248</td>
+<td>82</td>
+<td colspan="2"></td>
+<td>20</td>
+<td>15</td>
+<td>5</td>
 </tr>
 <tr>
-<td>5В072100</td>
+<td colspan="2">5В072100</td>
 <td>Органикалық заттардың химиялық технологиясы</td>
 <td>250</td>
 <td>230</td>
 <td>173</td>
 <td>57</td>
-<td></td>
-<td colspan="2">20</td>
-<td colspan="2">15</td>
-<td colspan="2">5</td>
+<td colspan="2"></td>
+<td>20</td>
+<td>15</td>
+<td>5</td>
 </tr>
 <tr>
-<td>5В072300</td>
+<td colspan="2">5В072300</td>
 <td>Техникалық физика</td>
 <td>160</td>
 <td>160</td>
 <td>120</td>
 <td>40</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>5В072400</td>
+<td colspan="2">5В072400</td>
 <td>Технологиялық машиналар және жабдықтар (сала бойынша)</td>
 <td>690</td>
 <td>640</td>
 <td>480</td>
 <td>160</td>
-<td></td>
-<td colspan="2">50</td>
-<td colspan="2">38</td>
-<td colspan="2">12</td>
+<td colspan="2"></td>
+<td>50</td>
+<td>38</td>
+<td>12</td>
 </tr>
 <tr>
-<td>5В072500</td>
+<td colspan="2">5В072500</td>
 <td>Ағаш өңдеу және ағаштан бұйымдар жасау технологиясы (қолданылу саласы бойынша)</td>
 <td>100</td>
 <td>100</td>
 <td>75</td>
 <td>25</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>5В072600</td>
+<td colspan="2">5В072600</td>
 <td>Жеңіл өнеркәсіп бұйымдарының технологиясы және құрастырылуы</td>
 <td>500</td>
 <td>475</td>
 <td>356</td>
 <td>119</td>
-<td></td>
-<td colspan="2">25</td>
-<td colspan="2">19</td>
-<td colspan="2">6</td>
+<td colspan="2"></td>
+<td>25</td>
+<td>19</td>
+<td>6</td>
 </tr>
 <tr>
-<td>5В072700</td>
+<td colspan="2">5В072700</td>
 <td>Азық–түлік өнімдерінің технологиясы</td>
 <td>500</td>
 <td>440</td>
 <td>330</td>
 <td>110</td>
-<td></td>
-<td colspan="2">60</td>
-<td colspan="2">45</td>
-<td colspan="2">15</td>
+<td colspan="2"></td>
+<td>60</td>
+<td>45</td>
+<td>15</td>
 </tr>
 <tr>
-<td>5В072800</td>
+<td colspan="2">5В072800</td>
 <td>Қайта өңдеу өндірістерінің технологиясы (сала бойынша)</td>
 <td>300</td>
 <td>280</td>
 <td>210</td>
 <td>70</td>
-<td></td>
-<td colspan="2">20</td>
-<td colspan="2">15</td>
-<td colspan="2">5</td>
+<td colspan="2"></td>
+<td>20</td>
+<td>15</td>
+<td>5</td>
 </tr>
 <tr>
-<td>5В072900</td>
+<td colspan="2">5В072900</td>
 <td>Құрылыс</td>
-<td>670</td>
-<td>510</td>
-<td>383</td>
-<td>127</td>
-<td></td>
-<td colspan="2">160</td>
-<td colspan="2">120</td>
-<td colspan="2">40</td>
+<td>688</td>
+<td>528</td>
+<td>396</td>
+<td>132</td>
+<td colspan="2"></td>
+<td>160</td>
+<td>120</td>
+<td>40</td>
 </tr>
 <tr>
-<td>5В073000</td>
+<td colspan="2">5В073000</td>
 <td>Құрылыс материалдарын, бұйымдарын және құрастырылымдарын өндіру</td>
 <td>340</td>
 <td>340</td>
 <td>255</td>
 <td>85</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>5В073100</td>
+<td colspan="2">5В073100</td>
 <td>Қоршаған ортаны қорғау және өмір тіршілігінің қауіпсіздігі</td>
 <td>280</td>
 <td>280</td>
 <td>210</td>
 <td>70</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>5В073200</td>
+<td colspan="2">5В073200</td>
 <td>Стандарттау және сертификаттау (сала бойынша)</td>
 <td>260</td>
 <td>210</td>
 <td>158</td>
 <td>52</td>
-<td></td>
-<td colspan="2">50</td>
-<td colspan="2">38</td>
-<td colspan="2">12</td>
+<td colspan="2"></td>
+<td>50</td>
+<td>38</td>
+<td>12</td>
 </tr>
 <tr>
-<td>5В073300</td>
+<td colspan="2">5В073300</td>
 <td>Тоқыма материалдарының технологиясы және жобалануы</td>
 <td>200</td>
 <td>200</td>
 <td>150</td>
 <td>50</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>5В073700</td>
+<td colspan="2">5В073700</td>
 <td>Пайдалы қазбаларды байыту</td>
 <td>90</td>
 <td>90</td>
 <td>68</td>
 <td>22</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>5В073800</td>
+<td colspan="2">5В073800</td>
 <td>Материалдарды қысыммен өңдеу технологиясы</td>
 <td>80</td>
 <td>80</td>
 <td>60</td>
 <td>20</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>5B074300</td>
+<td colspan="2">5B074300</td>
 <td>Ұшатын аппараттар мен қозғалтқыштарды ұшуда пайдалану</td>
 <td>100</td>
 <td>100</td>
 <td>75</td>
 <td>25</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>5В074500</td>
+<td colspan="2">5В074500</td>
 <td>Көлік құрылысы</td>
 <td>300</td>
 <td>300</td>
 <td>225</td>
 <td>75</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>5В074600</td>
+<td colspan="2">5В074600</td>
 <td>Ғарыш техникасы және технологиялары</td>
 <td>280</td>
 <td>280</td>
 <td>210</td>
 <td>70</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>5В074800</td>
+<td colspan="2">5В074800</td>
 <td>Фармацевтикалық өндіріс технологиясы</td>
 <td>600</td>
 <td>600</td>
 <td>450</td>
 <td>150</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>5В075000</td>
+<td colspan="2">5В075000</td>
 <td>Метрология</td>
 <td>30</td>
 <td>30</td>
 <td>23</td>
 <td>7</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>5В075200</td>
+<td colspan="2">5В075200</td>
 <td>Инженерлік жүйелер және желілер</td>
 <td>370</td>
 <td>370</td>
 <td>278</td>
 <td>92</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>5В075300</td>
+<td colspan="2">5В075300</td>
 <td>Балқуы қиын бейметалл және силикатты материалдардың химиялық технологиясы</td>
 <td>60</td>
 <td>60</td>
 <td>45</td>
 <td>15</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">Барлығы</td>
-<td>19111</td>
-<td>17548</td>
-<td>13167</td>
-<td>4381</td>
-<td></td>
-<td colspan="2">1563</td>
-<td colspan="2">1175</td>
-<td colspan="2">388</td>
-</tr>
-<tr>
-<td></td>
-<td>Жетім балалар және ата-анасының қамқорлығынсыз қалған балалар үшін квота (1 %)</td>
-<td>204</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3">Барлығы</td>
+<td>19129</td>
+<td>17566</td>
+<td>13180</td>
+<td>4386</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>1563</td>
+<td>1175</td>
+<td>388</td>
 </tr>
 <tr>
 <td></td>
-<td>
+<td colspan="2">Жетім балалар және ата-анасының қамқорлығынсыз қалған балалар үшін квота (1 %)</td>
+<td>205</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">
 I, II топтағы мүгедектер, бала кезінен мүгедектер, мүгедек балалар арасынан шыққан азаматтар үшін квота
 (1 %)
 </td>
-<td>204</td>
-<td></td>
+<td>205</td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td>Жеңілдіктері мен кепілдіктері бойынша Ұлы Отан соғысының қатысушылары мен мүгедектеріне теңестірілген адамдар үшін квота (0,5 %)</td>
+<td colspan="2">Жеңілдіктері мен кепілдіктері бойынша Ұлы Отан соғысының қатысушылары мен мүгедектеріне теңестірілген адамдар үшін квота (0,5 %)</td>
 <td>102</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td>Қазақстан Республикасының азаматы болып табылмайтын ұлты қазақ адамдарға квота (4 %)</td>
+<td colspan="2">Қазақстан Республикасының азаматы болып табылмайтын ұлты қазақ адамдарға квота (4 %)</td>
 <td>818</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">ЖИЫНЫ</td>
-<td>20439</td>
-<td>17548</td>
-<td>13167</td>
-<td>4381</td>
-<td></td>
-<td colspan="2">1563</td>
-<td colspan="2">1175</td>
-<td colspan="2">388</td>
+<td colspan="3">ЖИЫНЫ</td>
+<td>20459</td>
+<td>17566</td>
+<td>13180</td>
+<td>4386</td>
+<td colspan="2"></td>
+<td>1563</td>
+<td>1175</td>
+<td>388</td>
 </tr>
 <tr>
 <td colspan="13">8. Ауылшаруашылық ғылымдары</td>
@@ -4035,19 +4041,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="13">Қазақстан-Британ техникалық университеті</td>
-</tr>
-<tr>
-<td>5В010900</td>
-<td>Математика</td>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="12">Қазақстан-Британ техникалық университеті</td>
 </tr>
 <tr>
 <td>5В050600</td>
@@ -4059,7 +4053,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В050700</td>
@@ -4071,7 +4065,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В050800</td>
@@ -4083,7 +4077,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В050900</td>
@@ -4095,19 +4089,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>5В060100</td>
-<td>Математика</td>
-<td>5</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>5В070200</td>
@@ -4119,7 +4101,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В070300</td>
@@ -4131,7 +4113,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В070400</td>
@@ -4143,7 +4125,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В070500</td>
@@ -4155,7 +4137,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В070600</td>
@@ -4167,11 +4149,11 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В070800</td>
-<td>Мұнай-газ ісі</td>
+<td>Мұнай газ ісі</td>
 <td>15</td>
 <td></td>
 <td></td>
@@ -4179,19 +4161,19 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В071500</td>
-<td>Теңіз техникасы мен технологиялар</td>
-<td>19</td>
+<td>Теңіз техникасы және технологиясы</td>
+<td>18</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>5В072100</td>
@@ -4203,31 +4185,19 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>5В072900</td>
-<td>Құрылыс</td>
-<td>20</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>193</td>
+<td>162</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4239,7 +4209,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4254,7 +4224,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4266,34 +4236,34 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Қазақстан Республикасының азаматы болып табылмайтын ұлты қазақ адамдарға квота (4 %)</td>
-<td>8</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td>ЖИЫНЫ</td>
-<td>206</td>
+<td>Барлығы</td>
+<td>174</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="13">Мәскеу авиация институтының «Восход» филиалы</td>
+<td colspan="12">Мәскеу авиациация институтының «Восход» филиалы</td>
 </tr>
 <tr>
 <td>24.05.03</td>
@@ -4305,23 +4275,11 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>09.03.04</td>
-<td>Информатика және есептеу техникасы</td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>01.03.04</td>
-<td>Қолданбалы математика</td>
+<td>Информатика және есептеу техника</td>
 <td>12</td>
 <td></td>
 <td></td>
@@ -4329,7 +4287,19 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>01.03.04</td>
+<td>Қолданбалы математика</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>38.03.02</td>
@@ -4341,7 +4311,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4353,7 +4323,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="13">Халықаралық ақпараттық технологиялар университеті</td>
@@ -4564,102 +4534,102 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="13">Қаржы академиясы</td>
-</tr>
-<tr>
-<td>5В050600</td>
-<td>Экономика</td>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>5В050700</td>
-<td>Менеджмент</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>5В050800</td>
-<td>Есеп және аудит</td>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>5В050900</td>
-<td>Қаржы</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>5В070300</td>
-<td>Ақпараттық жүйелер</td>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>5В070400</td>
-<td>Есептеу техникасы және бағдарламалық қамтамасыз ету</td>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="12">Қаржы академиясы</td>
 </tr>
 <tr>
 <td>5В030400</td>
 <td>Кеден ісі</td>
 <td>5</td>
-<td></td>
-<td></td>
-<td></td>
+<td>5</td>
+<td>4</td>
+<td>1</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>5В050600</td>
+<td>Экономика</td>
+<td>7</td>
+<td>7</td>
+<td>5</td>
+<td>2</td>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>5В050700</td>
+<td>Менеджмент</td>
+<td>8</td>
+<td>8</td>
+<td>6</td>
+<td>2</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>5В050800</td>
+<td>Есеп және аудит</td>
+<td>7</td>
+<td>7</td>
+<td>5</td>
+<td>2</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>5В050900</td>
+<td>Қаржы</td>
+<td>8</td>
+<td>8</td>
+<td>6</td>
+<td>2</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>5В070300</td>
+<td>Ақпараттық жүйелер</td>
+<td>5</td>
+<td>5</td>
+<td>4</td>
+<td>1</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>5В070400</td>
+<td>Есептеу техникасы және бағдарламалық қамтамасыз ету</td>
+<td>5</td>
+<td>5</td>
+<td>4</td>
+<td>1</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2">Барлығы</td>
 <td>45</td>
-<td></td>
-<td></td>
-<td></td>
+<td>45</td>
+<td>34</td>
+<td>11</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4671,7 +4641,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4686,7 +4656,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4698,7 +4668,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4710,30 +4680,19 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Барлығы</td>
 <td>50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">ЖИЫНЫ</td>
-<td>53594</td>
-<td></td>
-<td></td>
-<td></td>
+<td>45</td>
+<td>34</td>
+<td>11</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 </table>
 
@@ -4744,6 +4703,8 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 > *2-қосымша*
 
 ## 2018-2019 оқу жылына магистрлерді даярлауға арналған мемлекеттік білім беру тапсырысы
+
+> *Ескерту. 2-қосымша өзгерістер енгізілді - ҚР Білім және ғылым министрінің 02.08.2018 № 379 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
@@ -5125,7 +5086,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 </tr>
 <tr>
 <td>6М041200</td>
-<td colspan="2">Операторлық өнер</td>
+<td colspan="2">Оператырлық өнер</td>
 <td>12</td>
 <td>12</td>
 <td></td>
@@ -5136,14 +5097,6 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td colspan="2">Кескіндеме</td>
 <td>10</td>
 <td>10</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6M041400</td>
-<td colspan="2">Графика</td>
-<td>20</td>
-<td>20</td>
 <td></td>
 <td></td>
 </tr>
@@ -5189,8 +5142,8 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 </tr>
 <tr>
 <td colspan="3">Барлығы</td>
-<td>291</td>
-<td>291</td>
+<td>271</td>
+<td>271</td>
 <td></td>
 <td></td>
 </tr>
@@ -6122,8 +6075,8 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 </tr>
 <tr>
 <td colspan="3">ЖИЫНЫ</td>
-<td>12504</td>
-<td>11107</td>
+<td>12484</td>
+<td>11087</td>
 <td>897</td>
 <td>500</td>
 </tr>
@@ -6136,6 +6089,8 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 > *3-қосымша*
 
 ## 2018-2019 оқу жылына PhD докторларын даярлауға арналған мемлекеттік білім беру тапсырысы
+
+> *Ескерту. 3-қосымша өзгерістер енгізілді - ҚР Білім және ғылым министрінің 02.08.2018 № 379 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
@@ -6489,7 +6444,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <tr>
 <td>6D061100</td>
 <td>Физика және астрономия</td>
-<td>30</td>
+<td>20</td>
 </tr>
 <tr>
 <td>6D061300</td>
@@ -6498,7 +6453,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 </tr>
 <tr>
 <td colspan="2">Барлығы</td>
-<td>356</td>
+<td>346</td>
 </tr>
 <tr>
 <td colspan="3">7. Техникалық ғылымдар және технологиялар</td>
@@ -6826,7 +6781,7 @@ I, II топтағы мүгедектер, бала кезінен мүгеде�
 <td>50</td>
 </tr>
 <tr>
-<td colspan="2">ЖИЫНЫ</td>
-<td>2240</td>
+<td colspan="2">Барлығы</td>
+<td>2230</td>
 </tr>
 </table>
