@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/120248/kaz/06.04.2018
+source: https://zan.gov.kz/client/#!/doc/120248/kaz/08.10.2018
 ---
 
 ## Халықаралық ынтымақтастық басқармасының басшысы, С-3 санаты, 11-01-01
