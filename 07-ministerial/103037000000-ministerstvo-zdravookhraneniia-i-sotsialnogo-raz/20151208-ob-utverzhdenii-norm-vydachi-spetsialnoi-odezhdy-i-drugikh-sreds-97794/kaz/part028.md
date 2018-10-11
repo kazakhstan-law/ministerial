@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97794/kaz/19.02.2018
+source: https://zan.gov.kz/client/#!/doc/97794/kaz/11.10.2018
 ---
 
 Ескертпе:
@@ -39,12 +39,15 @@ source: https://zan.gov.kz/client/#!/doc/97794/kaz/19.02.2018
 <td>Қызылорда облысы</td>
 </tr>
 <tr>
-<td>Оңтүстік Қазақстан облысы</td>
+<td>Түркістан облысы</td>
 </tr>
 <tr>
 <td rowspan="6">2</td>
 <td>Ақтөбе облысы</td>
-<td rowspan="6">2,5 жыл</td>
+<td rowspan="6">
+
+2,5 жыл
+</td>
 </tr>
 <tr>
 <td>Шығыс Қазақстан облысы (50Үс.е. оңтүстікке қарай)</td>
