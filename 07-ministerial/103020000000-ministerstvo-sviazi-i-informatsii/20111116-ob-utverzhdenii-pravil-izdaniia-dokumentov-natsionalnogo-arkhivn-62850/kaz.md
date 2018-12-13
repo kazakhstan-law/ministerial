@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62850/kaz/29.06.2016
+source: https://zan.gov.kz/client/#!/doc/62850/kaz/13.12.2018
 ---
 
 # Ұлттық архив қорының құжаттарын басып шығару қағидаларын бекіту туралы
