@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/86059/kaz/29.06.2017
+repealed_on: 2019-01-01
+repealed_by:
+  code: '127973'
+  title: Көрсеткіштердің базалық тізбесін бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/127973/kaz
 ---
 
 # Базалық көрсеткіштер тізбесін бекіту туралы

@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/86059/rus/29.06.2017
+repealed_on: 2019-01-01
+repealed_by:
+  code: '127973'
+  title: Об утверждении Базового перечня показателей
+  link: https://zan.gov.kz/client/#!/doc/127973/rus
 ---
 
 # Об утверждении Базового перечня показателей
