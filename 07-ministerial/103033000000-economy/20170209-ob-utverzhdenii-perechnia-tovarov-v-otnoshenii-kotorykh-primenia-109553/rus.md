@@ -1,5 +1,5 @@
 ---
-version_id: '109553_263484'
+version_id: '109553_382727'
 act_code: '109553'
 language: rus
 title: Об утверждении перечня товаров, в отношении которых применяются ввозные таможенные пошлины, размера ставок и срока их действия
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103033000000'
 approval_date: 2017-02-09
-version_date: 2017-12-01
+version_date: 2018-12-19
 registry_number: '109553'
 caused_by:
-  code: '116288'
+  code: '127283'
   title: О внесении изменения в приказ Министра национальной экономики Республики Казахстан от 9 февраля 2017 года № 58 «Об утверждении перечня товаров, в отношении которых применяются ввозные таможенные пошлины, размера ставок и срока их действия»
-  link: https://zan.gov.kz/client/#!/doc/116288/rus
-source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
+  link: https://zan.gov.kz/client/#!/doc/127283/rus
+source: https://zan.gov.kz/client/#!/doc/109553/rus
 ---
 
 # Об утверждении перечня товаров, в отношении которых применяются ввозные таможенные пошлины, размера ставок и срока их действия
@@ -60,18 +60,13 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 
 ## Перечень товаров, в отношении которых применяются ввозные таможенные пошлины, размер ставок и срок их действия1
 
-> *Сноска. Перечень в редакции приказа Министра национальной экономики РК от 10.11.2017 № 379 (вводится в действие с 01.12.2017).*
+> *Сноска. Перечень в редакции приказа Министра национальной экономики РК от 19.12.2018 № 105 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <td>Код ТН ВЭД ЕАЭС</td>
 <td>Наименование позиции2</td>
 <td>Ставка ввозной таможенной пошлины (в процентах от таможенной стоимости либо в евро, либо в долларах США)3</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
 </tr>
 <tr>
 <td>0101 30 000 0</td>
@@ -161,122 +156,122 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0203 11 100 9</td>
 <td>– – – – прочие</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 11 900 9</td>
 <td>– – – – прочие</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 12 110 9</td>
 <td>– – – – – прочие</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 12 190 9</td>
 <td>– – – – – прочие</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 12 900 9</td>
 <td>– – – – прочие</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 19 110 9</td>
 <td>– – – – – прочие</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 19 130 9</td>
 <td>– – – – – прочие</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 19 150 9</td>
 <td>– – – – – прочие</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 19 550 9</td>
 <td>– – – – – – прочее</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 19 590 9</td>
 <td>– – – – – – прочая</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 19 900 9</td>
 <td>– – – – прочая</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 21 100 9</td>
 <td>– – – – прочие</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 21 900 9</td>
 <td>– – – – прочие</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 22 110 9</td>
 <td>– – – – – прочие</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 22 190 9</td>
 <td>– – – – – прочие</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 22 900 9</td>
 <td>– – – – прочие</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 29 110 9</td>
 <td>– – – – – прочие</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 29 130 9</td>
 <td>– – – – – прочие</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 29 150 9</td>
 <td>– – – – – прочие</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 29 550 3</td>
 <td>– – – – – – – тримминг</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 29 550 9</td>
 <td>– – – – – – – прочее</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 29 590 9</td>
 <td>– – – – – – прочая</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 29 900 3</td>
 <td>– – – – – тримминг</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 29 900 9</td>
 <td>– – – – – прочая</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0207 11 100 1</td>
@@ -286,7 +281,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 11 100 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 11 300 1</td>
@@ -296,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 11 300 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 11 900 1</td>
@@ -306,7 +301,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 11 900 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 12 100 1</td>
@@ -316,7 +311,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 12 100 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 12 900 1</td>
@@ -326,7 +321,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 12 900 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 13 100 1</td>
@@ -336,7 +331,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 13 100 9</td>
 <td>– – – – – прочее</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 13 200 1</td>
@@ -346,7 +341,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 13 200 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 13 300 1</td>
@@ -356,7 +351,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 13 300 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 13 400 1</td>
@@ -366,7 +361,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 13 400 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 13 500 1</td>
@@ -376,7 +371,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 13 500 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 13 600 1</td>
@@ -386,7 +381,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 13 600 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 13 700 1</td>
@@ -396,7 +391,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 13 700 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 13 910 1</td>
@@ -406,7 +401,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 13 910 9</td>
 <td>– – – – – прочая</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 13 990 1</td>
@@ -416,7 +411,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 13 990 9</td>
 <td>– – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 14 100 1</td>
@@ -426,7 +421,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 14 100 9</td>
 <td>– – – – – прочее</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 14 200 1</td>
@@ -436,7 +431,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 14 200 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 14 300 1</td>
@@ -446,7 +441,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 14 300 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 14 400 1</td>
@@ -456,7 +451,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 14 400 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 14 500 1</td>
@@ -466,7 +461,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 14 500 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 14 600 1</td>
@@ -476,7 +471,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 14 600 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 14 700 1</td>
@@ -486,7 +481,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 14 700 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 14 910 1</td>
@@ -496,7 +491,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 14 910 9</td>
 <td>– – – – – прочая</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 14 990 1</td>
@@ -506,7 +501,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 14 990 9</td>
 <td>– – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 24 100 1</td>
@@ -516,7 +511,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 24 100 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 24 900 1</td>
@@ -526,7 +521,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 24 900 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 25 100 1</td>
@@ -536,7 +531,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 25 100 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 25 900 1</td>
@@ -546,7 +541,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 25 900 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 26 100 1</td>
@@ -556,7 +551,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 26 100 9</td>
 <td>– – – – – прочее</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 26 200 1</td>
@@ -566,7 +561,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 26 200 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 26 300 1</td>
@@ -576,7 +571,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 26 300 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 26 400 1</td>
@@ -586,7 +581,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 26 400 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 26 500 1</td>
@@ -596,7 +591,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 26 500 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 26 600 1</td>
@@ -606,7 +601,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 26 600 9</td>
 <td>– – – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 26 700 1</td>
@@ -616,7 +611,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 26 700 9</td>
 <td>– – – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 26 800 1</td>
@@ -626,7 +621,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 26 800 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 26 910 1</td>
@@ -636,7 +631,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 26 910 9</td>
 <td>– – – – – прочая</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 26 990 1</td>
@@ -646,7 +641,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 26 990 9</td>
 <td>– – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 27 100 1</td>
@@ -656,7 +651,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 27 100 9</td>
 <td>– – – – – прочее</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 27 200 1</td>
@@ -666,7 +661,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 27 200 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 27 300 1</td>
@@ -676,7 +671,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 27 300 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 27 400 1</td>
@@ -686,7 +681,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 27 400 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 27 500 1</td>
@@ -696,7 +691,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 27 500 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 27 600 1</td>
@@ -706,7 +701,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 27 600 9</td>
 <td>– – – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 27 700 1</td>
@@ -716,7 +711,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 27 700 9</td>
 <td>– – – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 27 800 1</td>
@@ -726,7 +721,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 27 800 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 27 910 1</td>
@@ -736,7 +731,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 27 910 9</td>
 <td>– – – – – прочая</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 27 990 1</td>
@@ -746,7 +741,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 27 990 9</td>
 <td>– – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 41 200 1</td>
@@ -756,7 +751,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 41 200 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 41 300 1</td>
@@ -766,7 +761,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 41 300 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 41 800 1</td>
@@ -776,7 +771,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 41 800 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 42 300 1</td>
@@ -786,7 +781,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 42 300 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 42 800 1</td>
@@ -796,7 +791,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 42 800 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 43 000 1</td>
@@ -806,7 +801,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 43 000 9</td>
 <td>– – – прочая</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 44 100 1</td>
@@ -816,7 +811,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 44 100 9</td>
 <td>– – – – – прочее</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 44 210 1</td>
@@ -826,7 +821,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 44 210 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 44 310 1</td>
@@ -836,7 +831,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 44 310 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 44 410 1</td>
@@ -846,7 +841,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 44 410 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 44 510 1</td>
@@ -856,7 +851,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 44 510 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 44 610 1</td>
@@ -866,7 +861,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 44 610 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 44 710 1</td>
@@ -876,7 +871,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 44 710 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 44 810 1</td>
@@ -886,7 +881,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 44 810 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 44 910 1</td>
@@ -896,7 +891,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 44 910 9</td>
 <td>– – – – – прочая</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 44 990 1</td>
@@ -906,7 +901,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 44 990 9</td>
 <td>– – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 45 100 1</td>
@@ -916,7 +911,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 45 100 9</td>
 <td>– – – – – прочее</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 45 210 1</td>
@@ -926,7 +921,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 45 210 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 45 310 1</td>
@@ -936,7 +931,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 45 310 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 45 410 1</td>
@@ -946,7 +941,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 45 410 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 45 510 1</td>
@@ -956,7 +951,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 45 510 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 45 610 1</td>
@@ -966,7 +961,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 45 610 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 45 710 1</td>
@@ -976,7 +971,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 45 710 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 45 810 1</td>
@@ -986,7 +981,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 45 810 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 45 930 1</td>
@@ -996,7 +991,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 45 930 9</td>
 <td>– – – – – – прочая</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 45 950 1</td>
@@ -1006,7 +1001,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 45 950 9</td>
 <td>– – – – – – прочая</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 45 990 1</td>
@@ -1016,7 +1011,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 45 990 9</td>
 <td>– – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 51 100 1</td>
@@ -1026,7 +1021,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 51 100 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 51 900 1</td>
@@ -1036,7 +1031,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 51 900 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 52 100 1</td>
@@ -1046,7 +1041,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 52 100 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 52 900 1</td>
@@ -1056,7 +1051,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 52 900 9</td>
 <td>– – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 53 000 1</td>
@@ -1066,7 +1061,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 53 000 9</td>
 <td>– – – прочая</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 54 100 1</td>
@@ -1076,7 +1071,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 54 100 9</td>
 <td>– – – – – прочее</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 54 210 1</td>
@@ -1086,7 +1081,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 54 210 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 54 310 1</td>
@@ -1096,7 +1091,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 54 310 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 54 410 1</td>
@@ -1106,7 +1101,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 54 410 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 54 510 1</td>
@@ -1116,7 +1111,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 54 510 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 54 610 1</td>
@@ -1126,7 +1121,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 54 610 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 54 710 1</td>
@@ -1136,7 +1131,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 54 710 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 54 810 1</td>
@@ -1146,7 +1141,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 54 810 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 54 910 1</td>
@@ -1156,7 +1151,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 54 910 9</td>
 <td>– – – – – прочая</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 54 990 1</td>
@@ -1166,7 +1161,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 54 990 9</td>
 <td>– – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 55 100 1</td>
@@ -1176,7 +1171,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 55 100 9</td>
 <td>– – – – – прочее</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 55 210 1</td>
@@ -1186,7 +1181,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 55 210 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 55 310 1</td>
@@ -1196,7 +1191,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 55 310 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 55 410 1</td>
@@ -1206,7 +1201,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 55 410 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 55 510 1</td>
@@ -1216,7 +1211,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 55 510 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 55 610 1</td>
@@ -1226,7 +1221,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 55 610 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 55 710 1</td>
@@ -1236,7 +1231,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 55 710 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 55 810 1</td>
@@ -1246,7 +1241,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 55 810 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 55 930 1</td>
@@ -1256,7 +1251,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 55 930 9</td>
 <td>– – – – – – прочая</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 55 950 1</td>
@@ -1266,7 +1261,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 55 950 9</td>
 <td>– – – – – – прочая</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 55 990 1</td>
@@ -1276,7 +1271,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 55 990 9</td>
 <td>– – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 60 050 1</td>
@@ -1286,7 +1281,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 60 050 9</td>
 <td>– – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 60 100 1</td>
@@ -1296,7 +1291,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 60 100 9</td>
 <td>– – – – – прочее</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 60 210 1</td>
@@ -1306,7 +1301,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 60 210 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 60 310 1</td>
@@ -1316,7 +1311,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 60 310 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 60 410 1</td>
@@ -1326,7 +1321,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 60 410 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 60 510 1</td>
@@ -1336,7 +1331,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 60 510 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 60 610 1</td>
@@ -1346,7 +1341,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 60 610 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 60 810 1</td>
@@ -1356,7 +1351,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 60 810 9</td>
 <td>– – – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 60 910 1</td>
@@ -1366,7 +1361,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 60 910 9</td>
 <td>– – – – – прочая</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0207 60 990 1</td>
@@ -1376,27 +1371,27 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0207 60 990 9</td>
 <td>– – – – – прочие</td>
-<td>55</td>
+<td>50, но не менее 0,75 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0209 10 110 0</td>
 <td>– – – свежий, охлажденный, замороженный, соленый или в рассоле</td>
-<td>13, но не менее 0,13 евро за 1 кг</td>
+<td>12, но не менее 0,12 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0209 10 190 0</td>
 <td>– – – сушеный или копченый</td>
-<td>13, но не менее 0,13 евро за 1 кг</td>
+<td>12, но не менее 0,12 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0209 10 900 0</td>
 <td>– – свиной жир, кроме указанного в подсубпозиции 0209 10 110 0 или 0209 10 190 0</td>
-<td>13, но не менее 0,13 евро за 1 кг</td>
+<td>12, но не менее 0,12 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0209 90 000 0</td>
 <td>– прочий</td>
-<td>13, но не менее 0,13 евро за 1 кг</td>
+<td>12, но не менее 0,12 евро за 1 кг</td>
 </tr>
 <tr>
 <td>0210 11 110 0</td>
@@ -1501,91 +1496,221 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0301 11 000 0</td>
 <td>– – пресноводная</td>
-<td>4,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 19 000 0</td>
 <td>– – прочая</td>
-<td>4,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 91 100 0</td>
 <td>– – – вида Oncorhynchus apache или Oncorhynchus chrysogaster</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 91 900 0</td>
 <td>– – – прочая</td>
-<td>5 4</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 92 100 0</td>
 <td>– – – длиной менее 12 см</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 92 300 0</td>
 <td>– – – длиной 12 см или более, но менее 20 см</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 92 900 0</td>
 <td>– – – длиной 20 см или более</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 93 000 0</td>
 <td>– – карп (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.)</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 94 100 0</td>
 <td>– – – тунец синий, или обыкновенный (Thunnus thynnus)</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 94 900 0</td>
 <td>– – – тунец тихоокеанский голубой (Thunnus orientalis)</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 95 000 0</td>
 <td>– – тунец южный синий (Thunnus maccoyii)</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 99 110 0</td>
 <td>– – – – лосось тихоокеанский (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou и Oncorhynchus rhodurus), лосось атлантический (Salmo salar) и лосось дунайский (Hucho hucho)</td>
-<td>5 4</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 99 181 0</td>
 <td>– – – – – – мальки</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 99 182 0</td>
 <td>– – – – – – прочие</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 99 186 0</td>
 <td>– – – – – прочая</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 99 850 0</td>
 <td>– – – прочая</td>
-<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0302 21 100 0</td>
+<td>– – – палтус черный, или палтус синекорый (Reinhardtius hippoglossoides)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 21 300 0</td>
+<td>– – – палтус белокорый, или обыкновенный (Hippoglossus hippoglossus)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 21 900 0</td>
+<td>– – – палтус тихоокеанский (Hippoglossus stenolepis)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 22 000 0</td>
+<td>– – камбала морская (Pleuronectes platessa)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 23 000 0</td>
+<td>– – морской язык (Solea spp.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 24 000 0</td>
+<td>– – тюрбо (Psetta maxima)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 29 100 0</td>
+<td>– – – мегрим (Lepidorhombus spp.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 29 800 0</td>
+<td>– – – прочие</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 33 100 0</td>
+<td>– – – для промышленного производства продуктов товарной позиции 1604</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 33 900 0</td>
+<td>– – – прочий</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 43 100 0</td>
+<td>– – – сардины вида Sardina pilchardus</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 43 300 0</td>
+<td>– – – сардины рода Sardinops; сардинелла (Sardinella spp.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 74 000 0</td>
+<td>– – угорь (Anguilla spp.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 81 100 0</td>
+<td>– – – акула вида Squalus acanthias</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 81 200 0</td>
+<td>– – – акула видов Scyliorhinus spp.</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 81 300 0</td>
+<td>– – – акула сельдевая (Lamna nasus)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 81 900 0</td>
+<td>– – – прочие</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 92 000 0</td>
+<td>– – плавники акульи</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 99 000 2</td>
+<td>– – – акульи</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 99 000 3</td>
+<td>– – – камбалообразных семейств Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae и Citharidae, тунца вида Euthynnus (Katsuwonus) pelamis, сардины вида Sardina pilchardus, сардины рода Sardinops, сардинеллы видов Sardinella spp., кильки или шпрот вида Sprattus sprattus, угря видов Anguilla spp.</td>
+<td>6</td>
 </tr>
 <tr>
 <td>0303 11 000 0</td>
 <td>– – красная, или нерка (Oncorhynchus nerka)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0303 12 000 0</td>
+<td>– – лосось тихоокеанский прочий (Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou и Oncorhynchus rhodurus)</td>
 <td>6</td>
+</tr>
+<tr>
+<td>0303 13 000 0</td>
+<td>– – лосось атлантический (Salmo salar) и лосось дунайский (Hucho hucho)</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0303 26 000 0</td>
+<td>– – угорь (Anguilla spp.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 31 300 0</td>
+<td>– – – палтус белокорый, или обыкновенный (Hippoglossus hippoglossus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0303 31 900 0</td>
+<td>– – – палтус тихоокеанский (Hippoglossus stenolepis)</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0303 39 100 0</td>
 <td>– – – камбала речная (Platichthys flesus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0303 39 500 0</td>
+<td>– – – рыба вида Pelotreis flavilatus или Peltorhamphus novaezealandiae</td>
 <td>6</td>
 </tr>
 <tr>
@@ -1594,164 +1719,624 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>5</td>
 </tr>
 <tr>
-<td>0303 99 000 1</td>
-<td>– – – лососевых вида Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou или Oncorhynchus rhodurus; рыбы вида Pelotreis flavilatus или Peltorhamphus novaezealandiae; мерлузы рода Merluccius; американского нитеперого налима рода Urophycis; мерланга вида Merlangius merlangus; рыбы вида Kathetostoma giganteum</td>
+<td>0303 43 100 0</td>
+<td>– – – для промышленного производства продуктов товарной позиции 1604</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0303 99 000 7</td>
-<td>– – – угря (Anguilla spp.); камбалообразных (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae и Citharidae, кроме видов Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis, Solea spp., Pelotreis flavilatus, Peltorhamphus novaezealandiae); скипджека, или тунца полосатого (Euthynnus (Katsuwonus) pelamis); тунцов (рода Thunnus, кроме видов Thunnus alalunga, Thunnus albacares); минтая (Theragra chalcogramma); путассу южной (Micromesistius australis); рыбы вида Boreogadus saida; сайды серебристой (Pollachius pollachius); макруронуса новозеландского (Macruronus novaezealandiae); мольвы (Molva spp.); рыбы вида Orcynopsis unicolor; анчоусов (Engraulis spp.); карася морского (Dentex dentex и Pagellus spp.); леща морского обыкновенного (Brama spp.); удильщика (Lophius spp.); конгрио черного (Genypterus blacodes)</td>
+<td>0303 43 900 0</td>
+<td>– – – прочий</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0303 99 000 9</td>
-<td>– – – прочие</td>
-<td>5</td>
-</tr>
-<tr>
-<td>0304 74 110 0</td>
-<td>– – – – мерлузы капской (мелководной) (Merluccius capensis) и мерлузы намибийской (глубоководной) (Merluccius paradoxus)</td>
+<td>0303 44 100 0</td>
+<td>– – – для промышленного производства продуктов товарной позиции 1604</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 74 150 0</td>
-<td>– – – – мерлузы аргентинской (Merluccius hubbsi)</td>
+<td>0303 44 900 0</td>
+<td>– – – прочий</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 74 190 0</td>
-<td>– – – – прочее</td>
+<td>0303 45 120 0</td>
+<td>– – – – для промышленного производства продуктов товарной позиции 1604</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 74 900 0</td>
-<td>– – – американского нитеперого налима рода Urophycis</td>
+<td>0303 45 180 0</td>
+<td>– – – – прочий</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 75 000 0</td>
-<td>– – минтая (Theragra chalcogramma)</td>
+<td>0303 45 910 0</td>
+<td>– – – – для промышленного производства продуктов товарной позиции 1604</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 79 300 0</td>
-<td>– – – мерланга (Merlangius merlangus)</td>
+<td>0303 45 990 0</td>
+<td>– – – – прочий</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 79 500 0</td>
-<td>– – – макруронуса новозеландского (Macruronus novaezealandiae)</td>
+<td>0303 46 100 0</td>
+<td>– – – для промышленного производства продуктов товарной позиции 1604</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 79 800 0</td>
-<td>– – – мольвы (Molva spp.)</td>
+<td>0303 46 900 0</td>
+<td>– – – прочий</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 79 900 0</td>
-<td>– – – прочее</td>
+<td>0303 49 200 0</td>
+<td>– – – для промышленного производства продуктов товарной позиции 1604</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 83 100 0</td>
-<td>– – – камбалы морской (Pleuronectes platessa)</td>
+<td>0303 49 850 0</td>
+<td>– – – прочий</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 83 300 0</td>
-<td>– – – камбалы речной (Platichthys flesus)</td>
+<td>0303 55 100 0</td>
+<td>– – – ставрида обыкновенная (Trachurus trachurus)</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 83 900 0</td>
-<td>– – – прочее</td>
+<td>0303 55 900 2</td>
+<td>– – – – ставрида вида Caranx trachurus</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 84 000 0</td>
-<td>– – меч-рыбы (Xiphias gladius)</td>
+<td>0303 59 100 0</td>
+<td>– – – анчоусы (Engraulis spp.)</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 85 000 0</td>
-<td>– – клыкача (Dissostichus spp.)</td>
+<td>0303 59 210 1</td>
+<td>– – – – – неразделанный</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 88 100 0</td>
-<td>– – – – акулы колючей (Squalus acanthias spp.) и акулы кошачьей (Scyliorhinus spp.)</td>
+<td>0303 59 210 2</td>
+<td>– – – – – без жабр и внутренностей</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 88 200 0</td>
-<td>– – – – акулы сельдевой (Lamna nasus)</td>
+<td>0303 59 210 9</td>
+<td>– – – – – прочей разделки (например, &quot;обезглавленный&quot;)</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 88 500 0</td>
-<td>– – – – акул прочих</td>
+<td>0303 59 290 0</td>
+<td>– – – – прочий</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 88 900 0</td>
-<td>– – – скатов и ромбовых скатов (Rajidae)</td>
+<td>0303 66 110 0</td>
+<td>– – – – мерлуза капская (мелководная) (Merluccius capensis) и мерлуза намибийская (глубоководная) (Merluccius paradoxus)</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 89 290 0</td>
-<td>– – – – – прочее</td>
+<td>0303 66 120 0</td>
+<td>– – – – мерлуза аргентинская (Merluccius hubbsi)</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 89 600 0</td>
-<td>– – – – удильщика (Lophius spp.)</td>
+<td>0303 66 130 0</td>
+<td>– – – – мерлуза новозеландская (Merluccius australis)</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 89 800 0</td>
-<td>– – – – прочее</td>
+<td>0303 66 190 0</td>
+<td>– – – – прочая</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0305 20 000 0</td>
-<td>– печень, икра и молоки рыбы, сушеные, копченые, соленые или в рассоле</td>
-<td>9</td>
-</tr>
-<tr>
-<td>0305 64 000 0</td>
-<td>– – тилапия (Oreochromis spp.), сом (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), карп (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), угорь (Anguilla spp.), латес нильский (Lates niloticus) и змееголов (Channa spp.)</td>
+<td>0303 66 900 0</td>
+<td>– – – американский нитеперый налим рода Urophycis</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0305 69 100 0</td>
+<td>0303 67 000 0</td>
+<td>– – минтай (Theragra chalcogramma)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 68 900 0</td>
+<td>– – – путассу южная (Micromesistius australis)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 69 100 0</td>
 <td>– – – рыба вида Boreogadus saida</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0305 69 300 0</td>
-<td>– – – палтус белокорый, или обыкновенный (Hippoglossus hippoglossus)</td>
+<td>0303 69 300 0</td>
+<td>– – – мерланг (Merlangius merlangus)</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0305 69 700 0</td>
+<td>0303 69 500 0</td>
+<td>– – – сайда серебристая (Pollachius pollachius)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 69 700 0</td>
+<td>– – – макруронус новозеландский (Macruronus novaezealandiae)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 69 800 0</td>
+<td>– – – мольва (Molva spp.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 210 3</td>
+<td>– – – – – – неразделанная</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 210 4</td>
+<td>– – – – – – без жабр и внутренностей</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 210 8</td>
+<td>– – – – – – прочей разделки (например, &quot;обезглавленная&quot;)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 290 0</td>
+<td>– – – – – прочая</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 310 0</td>
+<td>– – – – – вида Sebastes marinus</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 390 0</td>
+<td>– – – – – прочий</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 400 0</td>
+<td>– – – – рыба вида Orcynopsis unicolor</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 500 0</td>
+<td>– – – – карась морской (Dentex dentex и Pagellus spp.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 600 0</td>
+<td>– – – – лещ морской обыкновенный (Brama spp.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 650 0</td>
+<td>– – – – удильщик (Lophius spp.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 700 0</td>
+<td>– – – – конгрио черный (Genypterus blacodes)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 900 3</td>
+<td>– – – – – рыба вида Kathetostoma giganteum</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 99 000 1</td>
+<td>– – – лососевых вида Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou или Oncorhynchus rhodurus; рыбы вида Pelotreis flavilatus или Peltorhamphus novaezealandiae; мерлузы рода Merluccius; американского нитеперого налима рода Urophycis; мерланга вида Merlangius merlangus; рыбы вида Kathetostoma giganteum</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0303 99 000 2</td>
+<td>– – – лососевых других видов</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0303 99 000 4</td>
+<td>– – – ставриды обыкновенной (Trachurus trachurus, Caranx trachurus); рыбы рода Euthynnus, кроме скипджека, или тунца полосатого (Euthynnus (Katsuwonus) pelamis)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 99 000 5</td>
+<td>– – – окуня морского (Sebastes spp.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 99 000 6</td>
+<td>– – – палтуса тихоокеанского (Hippoglossus stenolepis); меч-рыбы (Xiphias gladius); трески (Gadus morhua, Gadus ogac, Gadus macrocephalus); пикши (Melanogrammus aeglefinus); сайды (Pollachius virens); лаврака (Dicentrarchus spp.)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0303 99 000 7</td>
+<td>– – – угря (Anguilla spp.); камбалообразных (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae и Citharidae, кроме видов Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis, Solea spp., Pelotreis flavilatus, Peltorhamphus novaezealandiae); скипджека, или тунца полосатого (Euthynnus (Katsuwonus) pelamis); тунцов (рода Thunnus, кроме видов Thunnus alalunga, Thunnus albacares); минтая (Theragra chalcogramma); путассу южной (Micromesistius australis); рыбы вида Boreogadus saida; сайды серебристой (Pollachius pollachius); макруронуса новозеландского (Macruronus novaezealandiae); мольвы (Molva spp.); рыбы вида Orcynopsis unicolor; анчоусов (Engraulis spp.); карася морского (Dentex dentex и Pagellus spp.); леща морского обыкновенного (Brama spp.); удильщика (Lophius spp.); конгрио черного (Genypterus blacodes)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0303 99 000 9</td>
+<td>– – – прочие</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 61 000 0</td>
+<td>– – тилапии (Oreochromis spp.)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 62 000 0</td>
+<td>– – сома (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 63 000 0</td>
+<td>– – латеса нильского (Lates niloticus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 69 000 0</td>
+<td>– – прочее</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 71 100 0</td>
+<td>– – – трески вида Gadus macrocephalus</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 71 900 0</td>
+<td>– – – прочее</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 72 000 0</td>
+<td>– – пикши (Melanogrammus aeglefinus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 73 000 0</td>
+<td>– – сайды (Pollachius virens)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 74 110 0</td>
+<td>– – – – мерлузы капской (мелководной) (Merluccius capensis) и мерлузы намибийской (глубоководной) (Merluccius paradoxus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 74 150 0</td>
+<td>– – – – мерлузы аргентинской (Merluccius hubbsi)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 74 190 0</td>
+<td>– – – – прочее</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 74 900 0</td>
+<td>– – – американского нитеперого налима рода Urophycis</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 75 000 0</td>
+<td>– – минтая (Theragra chalcogramma)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 79 100 0</td>
+<td>– – – рыбы вида Boreogadus saida</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 79 300 0</td>
+<td>– – – мерланга (Merlangius merlangus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 79 500 0</td>
+<td>– – – макруронуса новозеландского (Macruronus novaezealandiae)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 79 800 0</td>
+<td>– – – мольвы (Molva spp.)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 79 900 0</td>
+<td>– – – прочее</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 82 500 0</td>
+<td>– – – видов Oncorhynchus apache и Oncorhynchus chrysogaster</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 83 100 0</td>
+<td>– – – камбалы морской (Pleuronectes platessa)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 83 300 0</td>
+<td>– – – камбалы речной (Platichthys flesus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 83 500 0</td>
+<td>– – – мегрима (Lepidorhombus spp.)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 83 900 0</td>
+<td>– – – прочее</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 84 000 0</td>
+<td>– – меч-рыбы (Xiphias gladius)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 85 000 0</td>
+<td>– – клыкача (Dissostichus spp.)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 87 000 0</td>
+<td>– – тунца (рода Thunnus), скипджека, или тунца полосатого (Euthynnus (Katsuwonus) pelamis)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 88 100 0</td>
+<td>– – – – акулы колючей (Squalus acanthias spp.) и акулы кошачьей (Scyliorhinus spp.)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 88 200 0</td>
+<td>– – – – акулы сельдевой (Lamna nasus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 88 500 0</td>
+<td>– – – – акул прочих</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 88 900 0</td>
+<td>– – – скатов и ромбовых скатов (Rajidae)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 89 101 0</td>
+<td>– – – – осетровых</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 89 108 0</td>
+<td>– – – – прочее</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 89 210 0</td>
+<td>– – – – – вида Sebastes marinus</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 89 290 0</td>
+<td>– – – – – прочее</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 89 300 0</td>
+<td>– – – – рыбы рода Euthynnus, кроме скипджека, или тунца полосатого (Euthynnus (Katsuwonus) pelamis) субпозиции 0304 87</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 89 410 0</td>
+<td>– – – – – скумбрии вида Scomber australasicus</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 89 490 0</td>
+<td>– – – – – прочее</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 89 600 0</td>
+<td>– – – – удильщика (Lophius spp.)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 89 800 0</td>
+<td>– – – – прочее</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 93 200 0</td>
+<td>– – – сурими</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 94 100 0</td>
+<td>– – – сурими</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 95 210 0</td>
+<td>– – – – – трески вида Gadus macrocephalus</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 95 250 0</td>
+<td>– – – – – трески вида Gadus morhua</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 95 290 0</td>
+<td>– – – – – прочее</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 95 300 0</td>
+<td>– – – – пикши (Melanogrammus aeglefinus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 95 400 0</td>
+<td>– – – – сайды (Pollachius virens)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 96 100 0</td>
+<td>– – – сурими</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 97 100 0</td>
+<td>– – – сурими</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 99 110 0</td>
+<td>– – – сурими</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0305 20 000 0</td>
+<td>– печень, икра и молоки рыбы, сушеные, копченые, соленые или в рассоле</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0305 42 000 0</td>
+<td>– – сельдь (Clupea harengus, Clupea pallasii)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0305 52 000 0</td>
+<td>– – тилапия (Oreochromis spp.), сом (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), карп (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), угорь (Anguilla spp.), латес нильский (Lates niloticus) и змееголов (Channa spp.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0305 53 900 0</td>
 <td>– – – прочая</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0306 12 050 9</td>
+<td>0305 54 900 0</td>
+<td>– – – прочая</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0305 59 700 0</td>
+<td>– – – палтус белокорый, или обыкновенный (Hippoglossus hippoglossus)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0305 59 900 0</td>
+<td>– – – прочая</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0305 61 000 0</td>
+<td>– – сельдь (Clupea harengus, Clupea pallasii)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0305 63 000 0</td>
+<td>– – анчоусы (Engraulis spp.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0305 64 000 0</td>
+<td>– – тилапия (Oreochromis spp.), сом (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), карп (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), угорь (Anguilla spp.), латес нильский (Lates niloticus) и змееголов (Channa spp.)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0305 69 100 0</td>
+<td>– – – рыба вида Boreogadus saida</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0305 69 300 0</td>
+<td>– – – палтус белокорый, или обыкновенный (Hippoglossus hippoglossus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0305 69 500 0</td>
+<td>– – – лосось тихоокеанский (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou и Oncorhynchus rhodurus), лосось атлантический (Salmo salar) и лосось дунайский (Hucho hucho)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0305 69 700 0</td>
+<td>– – – прочая</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0305 71 900 0</td>
+<td>– – – прочие</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0305 72 000 1</td>
+<td>– – – лосося тихоокеанского (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou и Oncorhynchus rhodurus), лосося атлантического (Salmo salar) и лосося дунайского (Hucho hucho)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0305 79 000 1</td>
+<td>– – – лосося тихоокеанского (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou и Oncorhynchus rhodurus), лосося атлантического (Salmo salar) и лосося дунайского (Hucho hucho)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0306 11 050 0</td>
+<td>– – – копченые, в панцире или без панциря, не подвергнутые или подвергнутые тепловой обработке до или в процессе копчения</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0306 11 100 0</td>
+<td>– – – – хвосты лангустов</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0306 11 900 0</td>
 <td>– – – – прочие</td>
 <td>6</td>
+</tr>
+<tr>
+<td>0306 12 050 1</td>
+<td>– – – – в панцире</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0306 12 050 9</td>
+<td>– – – – прочие</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0306 12 100 0</td>
+<td>– – – – неразделанные</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0306 12 900 0</td>
 <td>– – – – прочие</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0306 14 050 0</td>
 <td>– – – копченые, в панцире или без панциря, не подвергнутые или подвергнутые тепловой обработке до или в процессе копчения</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>0306 14 100 0</td>
@@ -1771,7 +2356,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0306 15 100 0</td>
 <td>– – – копченый, в панцире или без панциря, не подвергнутый или подвергнутый тепловой обработке до или в процессе копчения</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>0306 15 900 0</td>
@@ -1816,7 +2401,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0306 19 050 0</td>
 <td>– – – копченые, в панцире или без панциря, не подвергнутые или подвергнутые тепловой обработке до или в процессе копчения</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>0306 19 100 0</td>
@@ -1824,8 +2409,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>0</td>
 </tr>
 <tr>
-<td>0306 19 900 0</td>
-<td>– – – – прочие</td>
+<td>0306 19 900 9</td>
+<td>– – – – – прочие</td>
 <td>0</td>
 </tr>
 <tr>
@@ -1901,7 +2486,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0306 91 100 0</td>
 <td>– – – копченые, в панцире или без панциря, не подвергнутые или подвергнутые тепловой обработке до или в процессе копчения</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>0306 91 900 0</td>
@@ -1911,7 +2496,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0306 92 100 0</td>
 <td>– – – копченые, в панцире или без панциря, не подвергнутые или подвергнутые тепловой обработке до или в процессе копчения</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>0306 92 910 0</td>
@@ -1926,7 +2511,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0306 93 100 0</td>
 <td>– – – копченые, в панцире или без панциря, не подвергнутые или подвергнутые тепловой обработке до или в процессе копчения</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>0306 93 910 0</td>
@@ -1941,7 +2526,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0306 94 100 0</td>
 <td>– – – копченый, в панцире или без панциря, не подвергнутый или подвергнутый тепловой обработке до или в процессе копчения</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>0306 94 900 0</td>
@@ -1961,7 +2546,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0306 99 100 0</td>
 <td>– – – копченые, в панцире или без панциря, не подвергнутые или подвергнутые тепловой обработке до или в процессе копчения</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>0306 99 910 0</td>
@@ -1976,202 +2561,317 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0307 11 100 0</td>
 <td>– – – устрицы плоские (рода Ostrea), живые и массой (включая раковину) не более 40 г каждая</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 11 900 0</td>
 <td>– – – прочие</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 12 900 0</td>
 <td>– – – прочие</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 19 990 0</td>
 <td>– – – прочие</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 21 000 0</td>
+<td>– – живые, свежие или охлажденные</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 22 910 0</td>
 <td>– – – – гребешки Святого Якова (Pecten maximus)</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 22 990 0</td>
 <td>– – – – прочие</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 29 800 0</td>
 <td>– – – прочие</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 31 100 0</td>
+<td>– – – Mytilus spp.</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 31 900 0</td>
+<td>– – – Perna spp.</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 32 910 0</td>
+<td>– – – – Mytilus spp.</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 32 990 0</td>
+<td>– – – – Perna spp.</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 39 910 0</td>
+<td>– – – – Mytilus spp.</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 39 990 0</td>
+<td>– – – – Perna spp.</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 42 110 0</td>
 <td>– – – – видов Sepia officinalis, Rossia macrosoma, Sepiola spp.</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 42 190 0</td>
+<td>– – – – прочие</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 42 910 0</td>
 <td>– – – – видов Loligo spp.</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 42 920 0</td>
 <td>– – – – вида Todarodes sagittatus</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 42 930 0</td>
 <td>– – – – видов Ommastrephes spp., Nototodarus spp., Sepioteuthis spp.</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
-<td>0307 43 190 0</td>
-<td>– – – – – прочие</td>
-<td>6</td>
+<td>0307 42 990 0</td>
+<td>– – – – прочие</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 43 110 0</td>
+<td>– – – – – – вида Sepiola rondeleti</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 43 130 0</td>
+<td>– – – – – – прочие</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 43 150 0</td>
+<td>– – – – – видов Sepia officinalis, Rossia macrosoma</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 43 310 0</td>
 <td>– – – – – – вида Loligo vulgaris</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 43 330 0</td>
 <td>– – – – – – вида Loligo pealei</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 43 350 0</td>
 <td>– – – – – – вида Loligo patagonica</td>
-<td>6</td>
-</tr>
-<tr>
-<td>0307 43 380 0</td>
-<td>– – – – – – прочие</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 43 500 0</td>
 <td>– – – – – вида Todarodes sagittatus</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 43 600 0</td>
 <td>– – – – – видов Ommastrephes spp., Nototodarus spp., Sepioteuthis spp.</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 43 700 0</td>
 <td>– – – – – видов Illex spp.</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
-<td>0307 43 900 0</td>
-<td>– – – – – прочие</td>
-<td>6</td>
+<td>0307 49 710 0</td>
+<td>– – – – – видов Sepia officinalis, Rossia macrosoma, Sepiola spp.</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 49 800 0</td>
 <td>– – – – – прочие</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 49 910 0</td>
 <td>– – – – – видов Loligo spp.</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 49 920 0</td>
 <td>– – – – – вида Todarodes sagittatus</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 49 930 0</td>
 <td>– – – – – видов Ommastrephes spp., Nototodarus spp., Sepioteuthis spp.</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 49 980 0</td>
 <td>– – – – – прочие</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 51 000 0</td>
 <td>– – живые, свежие или охлажденные</td>
-<td>6</td>
-</tr>
-<tr>
-<td>0307 52 900 0</td>
-<td>– – – прочие</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 59 800 0</td>
 <td>– – – прочие</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 60 900 0</td>
 <td>– – прочие</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 71 000 0</td>
+<td>– – живые, свежие или охлажденные</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 72 910 0</td>
 <td>– – – – полосатый венус и другие виды семейства Veneridae</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 72 990 0</td>
 <td>– – – – прочие</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 79 800 0</td>
+<td>– – – прочие</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 81 000 0</td>
+<td>– – морские ушки (Haliotis spp.) живые, свежие или охлажденные</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 82 000 0</td>
+<td>– – стромбусы (Strombus spp.) живые, свежие или охлажденные</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 83 900 0</td>
 <td>– – – прочие</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 84 900 0</td>
 <td>– – – – прочие</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 87 900 0</td>
+<td>– – – прочие</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 88 900 0</td>
 <td>– – – прочие</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 91 000 0</td>
+<td>– – живые, свежие или охлажденные</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 92 900 0</td>
 <td>– – – прочие</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 99 700 0</td>
 <td>– – – прочие</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0308 11 000 0</td>
+<td>– – живые, свежие или охлажденные</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0308 12 900 0</td>
 <td>– – – прочие</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0308 19 900 0</td>
+<td>– – – прочие</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0308 21 000 0</td>
+<td>– – живые, свежие или охлажденные</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0308 22 900 0</td>
 <td>– – – прочие</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0308 29 900 0</td>
+<td>– – – прочие</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0308 30 100 0</td>
+<td>– – живые, свежие или охлажденные</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0308 30 500 0</td>
 <td>– – мороженые</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0308 30 900 0</td>
+<td>– – прочие</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0308 90 100 0</td>
+<td>– – живые, свежие или охлажденные</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0308 90 500 0</td>
 <td>– – мороженые</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0308 90 900 0</td>
+<td>– – прочие</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0403 90 110 0</td>
@@ -2286,142 +2986,147 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0404 10 040 0</td>
 <td>– – – – – более 1,5 мас.%, но не более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 060 0</td>
 <td>– – – – – более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 120 9</td>
 <td>– – – – – – прочие</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 140 0</td>
 <td>– – – – – более 1,5 мас.%, но не более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 160 9</td>
 <td>– – – – – – прочие</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 280 0</td>
 <td>– – – – – более 1,5 мас.%, но не более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 320 0</td>
 <td>– – – – – более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 340 0</td>
 <td>– – – – – не более 1,5 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 360 0</td>
 <td>– – – – – более 1,5 мас.%, но не более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 380 0</td>
 <td>– – – – – более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 480 0</td>
 <td>– – – – – не более 1,5 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 520 0</td>
 <td>– – – – – более 1,5 мас.%, но не более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 540 0</td>
 <td>– – – – – более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 560 0</td>
 <td>– – – – – не более 1,5 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 580 0</td>
 <td>– – – – – более 1,5 мас.%, но не более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 620 0</td>
 <td>– – – – – более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 720 0</td>
 <td>– – – – – не более 1,5 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 740 0</td>
 <td>– – – – – более 1,5 мас.%, но не более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 760 0</td>
 <td>– – – – – более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 780 0</td>
 <td>– – – – – не более 1,5 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 820 0</td>
 <td>– – – – – более 1,5 мас.%, но не более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 840 0</td>
 <td>– – – – – более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 90 210 0</td>
 <td>– – – не более 1,5 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 90 230 0</td>
 <td>– – – более 1,5 мас.%, но не более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 90 290 0</td>
 <td>– – – более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 90 810 0</td>
 <td>– – – не более 1,5 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 90 830 0</td>
 <td>– – – более 1,5 мас.%, но не более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 90 890 0</td>
 <td>– – – более 27 мас.%</td>
-<td>11,7</td>
+<td>10</td>
+</tr>
+<tr>
+<td>0406 20 000 0</td>
+<td>– тертые сыры или сыры в порошке, всех видов</td>
+<td>15</td>
 </tr>
 <tr>
 <td>0408 99 200 0</td>
@@ -2429,14 +3134,34 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>15</td>
 </tr>
 <tr>
+<td>0511 91 901 1</td>
+<td>– – – – – осетровых</td>
+<td>7</td>
+</tr>
+<tr>
+<td>0511 91 901 9</td>
+<td>– – – – – прочая</td>
+<td>7</td>
+</tr>
+<tr>
+<td>0511 91 902 0</td>
+<td>– – – – криоконсервированная сперма рыб</td>
+<td>7</td>
+</tr>
+<tr>
+<td>0511 91 909 0</td>
+<td>– – – – прочие</td>
+<td>7</td>
+</tr>
+<tr>
 <td>0511 99 390 0</td>
 <td>– – – – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>0604 20 900 0</td>
 <td>– – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>0702 00 000 2</td>
@@ -2474,9 +3199,14 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>15</td>
 </tr>
 <tr>
+<td>0707 00 050 4</td>
+<td>– – с 16 мая по 30 сентября</td>
+<td>15</td>
+</tr>
+<tr>
 <td>0707 00 050 5</td>
 <td>– – с 1 октября по 31 октября</td>
-<td>16,7</td>
+<td>15</td>
 </tr>
 <tr>
 <td>0707 00 900 0</td>
@@ -2486,7 +3216,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0709 60 100 2</td>
 <td>– – – с 1 октября по 31 марта</td>
-<td>4</td>
+<td>3</td>
 </tr>
 <tr>
 <td>0709 60 910 0</td>
@@ -2507,6 +3237,31 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>0711 51 000 0</td>
 <td>– – грибы рода Agaricus</td>
 <td>8</td>
+</tr>
+<tr>
+<td>0712 31 000 0</td>
+<td>– – грибы рода Agaricus</td>
+<td>12</td>
+</tr>
+<tr>
+<td>0712 32 000 0</td>
+<td>– – древесные уши, или аурикулярии (Auricularia spp.)</td>
+<td>12</td>
+</tr>
+<tr>
+<td>0712 33 000 0</td>
+<td>– – дрожалковые грибы (Tremella spp.)</td>
+<td>12</td>
+</tr>
+<tr>
+<td>0712 39 000 0</td>
+<td>– – прочие</td>
+<td>12</td>
+</tr>
+<tr>
+<td>0713 10 900 9</td>
+<td>– – – прочий</td>
+<td>9</td>
 </tr>
 <tr>
 <td>0713 60 000 9</td>
@@ -2536,7 +3291,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0805 10 200 0</td>
 <td>– – апельсины сладкие, свежие</td>
-<td>3 5</td>
+<td>3</td>
 </tr>
 <tr>
 <td>0805 10 800 0</td>
@@ -2567,6 +3322,16 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>0805 50 100 0</td>
 <td>– – лимоны (Citrus limon, Citrus limonum)</td>
 <td>3</td>
+</tr>
+<tr>
+<td>0813 50 120 0</td>
+<td>– – – – из папайи, тамаринда, анакардии, или акажу, личи, джекфрута, саподиллы, пассифлоры, или страстоцвета, карамболы и питайи</td>
+<td>9</td>
+</tr>
+<tr>
+<td>0813 50 310 0</td>
+<td>– – – из тропических орехов</td>
+<td>9</td>
 </tr>
 <tr>
 <td>0901 21 000 1</td>
@@ -2611,12 +3376,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>0902 10 000 1</td>
 <td>– – в одноразовой упаковке</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>0902 10 000 9</td>
 <td>– – прочий</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>1006 10 940 0</td>
@@ -2644,6 +3409,11 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>10</td>
 </tr>
 <tr>
+<td>1108 14 000 0</td>
+<td>– – маниоковый</td>
+<td>9,4</td>
+</tr>
+<tr>
 <td>1108 19 100 0</td>
 <td>– – – рисовый</td>
 <td>10</td>
@@ -2661,67 +3431,102 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>1204 00 100 1</td>
 <td>– – льна-долгунца</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1204 00 100 9</td>
 <td>– – льна-кудряша</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1204 00 900 0</td>
 <td>– прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1206 00 990 0</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1207 10 000 0</td>
 <td>– пальмовые орехи и ядра</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1207 30 000 0</td>
 <td>– семена клещевины</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1207 60 000 0</td>
 <td>– семена сафлора (Carthamus tinctorius)</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1207 70 000 0</td>
 <td>– семена дыни</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1207 91 100 0</td>
 <td>– – – семенные</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1207 91 900 0</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1207 99 200 0</td>
 <td>– – – семенные</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1207 99 910 0</td>
 <td>– – – – семена конопли</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1207 99 960 0</td>
 <td>– – – – прочие</td>
-<td>1,7</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1208 90 000 0</td>
+<td>– прочая</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1401 20 000 0</td>
+<td>– ротанг</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1401 90 000 0</td>
+<td>– прочие</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1404 90 000 1</td>
+<td>– – материалы растительного происхождения, используемые главным образом для набивки или мягкой прокладки (например, капок, растительные волокна и взморник морской), в том числе в виде пластов, на подложке или без нее, или используемые главным образом в метлах или щетках (например, сорго веничное, пиассава, пырей ползучий и истль)</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1504 10 100 0</td>
+<td>– – с содержанием витамина А не более 2500 МЕ/г</td>
+<td>10,8</td>
+</tr>
+<tr>
+<td>1504 10 910 0</td>
+<td>– – – из палтуса</td>
+<td>10,8</td>
+</tr>
+<tr>
+<td>1504 10 990 0</td>
+<td>– – – прочие</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>1511 10 900 2</td>
@@ -2744,34 +3549,64 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>0</td>
 </tr>
 <tr>
+<td>1513 11 910 0</td>
+<td>– – – – в первичных упаковках нетто-массой не более 1 кг</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1513 11 990 2</td>
+<td>– – – – – в таре нетто-массой 19 000 кг или менее</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1513 19 110 0</td>
+<td>– – – – в первичных упаковках нетто-массой не более 1 кг</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1513 19 190 2</td>
+<td>– – – – – в таре нетто-массой 19 000 кг или менее</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1513 19 910 0</td>
+<td>– – – – – в первичных упаковках нетто-массой не более 1 кг</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1513 19 990 2</td>
+<td>– – – – – – в таре нетто-массой 19 000 кг или менее</td>
+<td>2</td>
+</tr>
+<tr>
 <td>1513 21 300 0</td>
 <td>– – – – в первичных упаковках нетто-массой не более 1 кг</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1513 21 900 2</td>
 <td>– – – – – в таре нетто-массой 19 000 кг или менее</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1513 29 110 0</td>
 <td>– – – – в первичных упаковках нетто-массой не более 1 кг</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1513 29 190 2</td>
 <td>– – – – – в таре нетто-массой 19 000 кг или менее</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1513 29 500 0</td>
 <td>– – – – – в первичных упаковках нетто-массой 1 кг или менее</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1513 29 900 2</td>
 <td>– – – – – – в таре нетто-массой 19 000 кг или менее</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1514 11 100 0</td>
@@ -2791,407 +3626,427 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>1515 11 000 0</td>
 <td>– – масло сырое</td>
-<td>4,8</td>
+<td>3,2</td>
 </tr>
 <tr>
 <td>1515 19 100 0</td>
 <td>– – – для технического или промышленного применения, кроме производства продуктов, используемых для употребления в пищу</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 19 900 0</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 30 100 0</td>
 <td>– – для производства аминоундекановой кислоты для использования в производстве синтетического волокна или искусственных полимерных материалов</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 30 900 0</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 50 110 0</td>
 <td>– – – для технического или промышленного применения, кроме производства продуктов, используемых для употребления в пищу</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 50 190 0</td>
 <td>– – – прочее</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 50 910 0</td>
 <td>– – – для технического или промышленного применения, кроме производства продуктов, используемых для употребления в пищу</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 50 990 0</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 110 0</td>
 <td>– – тунговое масло; масла жожоба и ойтиковое; воск из мирта и японский воск; их фракции</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 210 0</td>
 <td>– – – – для технического или промышленного применения, кроме производства продуктов, используемых для употребления в пищу</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 290 0</td>
 <td>– – – – прочее</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 310 0</td>
 <td>– – – – для технического или промышленного применения, кроме производства продуктов, используемых для употребления в пищу</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 390 0</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 400 0</td>
 <td>– – – – для технического или промышленного применения, кроме производства продуктов, используемых для употребления в пищу</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 510 0</td>
 <td>– – – – – в твердом виде, в первичных упаковках нетто-массой не более 1 кг</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 590 0</td>
 <td>– – – – – в твердом виде, прочие; в жидком виде</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 600 0</td>
 <td>– – – – для технического или промышленного применения, кроме производства продуктов, используемых для употребления в пищу</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 910 0</td>
 <td>– – – – – в твердом виде, в первичных упаковках нетто-массой не более 1 кг</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 990 0</td>
 <td>– – – – – в твердом виде, прочие; в жидком виде</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1516 10 100 0</td>
+<td>– – в первичных упаковках нетто-массой не более 1 кг</td>
+<td>14</td>
+</tr>
+<tr>
+<td>1516 10 900 0</td>
+<td>– – прочие</td>
+<td>14</td>
 </tr>
 <tr>
 <td>1516 20 100 0</td>
-<td>– – масло гидрогенизированное касторовое, так называемый «опаловый воск»</td>
-<td>11</td>
+<td>– – масло гидрогенизированное касторовое, так называемый &quot;опаловый воск&quot;</td>
+<td>9</td>
 </tr>
 <tr>
 <td>1516 20 910 0</td>
 <td>– – – в первичных упаковках нетто-массой не более 1 кг</td>
-<td>13,3</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1516 20 960 9</td>
+<td>– – – – – – прочие</td>
+<td>14</td>
 </tr>
 <tr>
 <td>1516 20 980 1</td>
 <td>– – – – – – заменители какао-масла</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>1516 20 980 2</td>
 <td>– – – – – – эквиваленты какао-масла</td>
-<td>8,3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1516 20 980 9</td>
+<td>– – – – – – прочие</td>
+<td>8</td>
 </tr>
 <tr>
 <td>1522 00 310 0</td>
 <td>– – – соапстоки</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>1522 00 390 0</td>
 <td>– – – прочие</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>1522 00 910 0</td>
 <td>– – – масличный фуз и жировые остатки; соапстоки</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>1522 00 990 0</td>
 <td>– – – прочие</td>
-<td>10</td>
+<td>5</td>
 </tr>
 <tr>
 <td>1602 49 500 0</td>
 <td>– – – – содержащие менее 40 мас.% мяса или мясных субпродуктов любого вида, включая жиры любого вида или происхождения</td>
-<td>23</td>
+<td>22</td>
 </tr>
 <tr>
 <td>1604 11 000 0</td>
 <td>– – лосось</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>1604 12 100 0</td>
 <td>– – – филе, сырое, в тесте или панировке, предварительно обжаренное или не обжаренное в масле, замороженное</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 12 910 0</td>
 <td>– – – – в герметичных упаковках</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 12 990 0</td>
 <td>– – – – прочая</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 13 110 0</td>
 <td>– – – – в оливковом масле</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 13 190 0</td>
 <td>– – – – прочие</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 13 900 0</td>
 <td>– – – прочие</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 210 0</td>
 <td>– – – – – в растительном масле</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 260 0</td>
-<td>– – – – – – филе, известное как «корды, или балык»</td>
-<td>9</td>
+<td>– – – – – – филе, известное как &quot;корды, или балык&quot;</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 280 0</td>
 <td>– – – – – – прочий</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 310 0</td>
 <td>– – – – – в растительном масле</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 360 0</td>
-<td>– – – – – – филе, известное как «корды, или балык»</td>
-<td>9</td>
+<td>– – – – – – филе, известное как &quot;корды, или балык&quot;</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 380 0</td>
 <td>– – – – – – прочий</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 410 0</td>
 <td>– – – – – в растительном масле</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 460 0</td>
-<td>– – – – – – филе, известное как «корды, или балык»</td>
-<td>9</td>
+<td>– – – – – – филе, известное как &quot;корды, или балык&quot;</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 480 0</td>
 <td>– – – – – – прочий</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 900 0</td>
 <td>– – – пеламида (Sarda spp.)</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 15 110 0</td>
 <td>– – – – филе</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 15 190 0</td>
 <td>– – – – прочая</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 15 900 0</td>
 <td>– – – вида Scomber australasicus</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 16 000 0</td>
 <td>– – анчоусы</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 17 000 0</td>
 <td>– – угорь</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 18 000 0</td>
 <td>– – плавники акульи</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 100 0</td>
 <td>– – – лососевые, кроме лосося</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 310 0</td>
-<td>– – – – филе, известное как «корды, или балык»</td>
-<td>9</td>
+<td>– – – – филе, известное как &quot;корды, или балык&quot;</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 390 0</td>
 <td>– – – – прочая</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 500 0</td>
 <td>– – – рыба вида Orcynopsis unicolor</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 910 0</td>
 <td>– – – – филе, сырое, в тесте или панировке, предварительно обжаренное или не обжаренное в масле, замороженное</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 920 0</td>
 <td>– – – – – треска (Gadus morhua, Gadus ogac, Gadus macrocephalus)</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 930 0</td>
 <td>– – – – – сайда (Pollachius virens)</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 940 0</td>
 <td>– – – – – мерлуза (Merluccius spp.) и американский нитеперый налим (Urophycis spp.)</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 950 0</td>
 <td>– – – – – минтай (Theragra chalcogramma) и серебристая сайда (Pollachius pollachius)</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 971 0</td>
 <td>– – – – – – осетровые</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 978 0</td>
 <td>– – – – – – прочая</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 20 050 0</td>
 <td>– – готовые продукты из сурими</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 20 100 0</td>
 <td>– – – из лосося</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 20 300 0</td>
 <td>– – – из лососевых, кроме лосося</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 20 400 0</td>
 <td>– – – из анчоусов</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 20 500 0</td>
 <td>– – – из сардин, пеламиды, скумбрий видов Scomber scombrus и Scomber japonicus, рыбы вида Orcynopsis unicolor</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 20 700 0</td>
 <td>– – – из тунца, скипджека, или тунца полосатого, или другой рыбы рода Euthynnus</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 20 901 0</td>
 <td>– – – – из осетровых</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 20 909 0</td>
 <td>– – – – из прочей рыбы</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 31 000 0</td>
 <td>– – икра осетровых</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>1604 32 001 0</td>
 <td>– – – икра лососевых (красная икра)</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>1604 32 009 0</td>
 <td>– – – прочие</td>
-<td>16,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>1605 10 000 0</td>
 <td>– крабы</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>1605 30 100 0</td>
 <td>– – мясо омаров, подвергнутое тепловой обработке, для производства омарного масла или омарных паштетов, паст, супов или соусов</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>1605 30 900 0</td>
 <td>– – прочие</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
-<td>1605 40 000 0</td>
-<td>– прочие ракообразные</td>
-<td>12</td>
+<td>1605 40 000 9</td>
+<td>– – прочие</td>
+<td>8</td>
 </tr>
 <tr>
 <td>1701 12 100 1</td>
 <td>– – – – с 1 января по 30 июня</td>
-<td>23</td>
+<td>22</td>
 </tr>
 <tr>
 <td>1701 12 100 9</td>
 <td>– – – – с 1 июля по 31 декабря</td>
-<td>23</td>
+<td>22</td>
 </tr>
 <tr>
 <td>1701 12 900 1</td>
 <td>– – – – с 1 января по 30 июня</td>
-<td>23</td>
+<td>22</td>
 </tr>
 <tr>
 <td>1701 13 101 1</td>
@@ -3536,117 +4391,137 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>1701 91 001 1</td>
 <td>– – – – при среднемесячной цене не более 286,60 доллара США за 1 т на Нью-Йоркской товарно-сырьевой бирже</td>
-<td>14</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 001 2</td>
 <td>– – – – при среднемесячной цене не менее 286,61 доллара США за 1 т, но не более 324,08 доллара США за 1 т на Нью-Йоркской товарно-сырьевой бирже</td>
-<td>14</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 001 3</td>
 <td>– – – – при среднемесячной цене не менее 324,09 доллара США за 1 т, но не более 361,56 доллара США за 1 т на Нью-Йоркской товарно-сырьевой бирже</td>
-<td>14</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 001 4</td>
 <td>– – – – при среднемесячной цене не менее 361,57 доллара США за 1 т, но не более 396,83 доллара США за 1 т на Нью-Йоркской товарно-сырьевой бирже</td>
-<td>14</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 001 5</td>
 <td>– – – – при среднемесячной цене не менее 396,84 доллара США за 1 т на Нью-Йоркской товарно-сырьевой бирже</td>
-<td>14</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 002 1</td>
 <td>– – – – при среднемесячной цене не более 286,60 доллара США за 1 т на Нью-Йоркской товарно-сырьевой бирже</td>
-<td>14</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 002 2</td>
 <td>– – – – при среднемесячной цене не менее 286,61 доллара США за 1 т, но не более 326,28 доллара США за 1 т на Нью-Йоркской товарно-сырьевой бирже</td>
-<td>14</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 002 3</td>
 <td>– – – – при среднемесячной цене не менее 326,29 доллара США за 1 т, но не более 365,97 доллара США за 1 т на Нью-Йоркской товарно-сырьевой бирже</td>
-<td>14</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 002 4</td>
 <td>– – – – при среднемесячной цене не менее 365,98 доллара США за 1 т, но не более 405,65 доллара США за 1 т на Нью-Йоркской товарно-сырьевой бирже</td>
-<td>14</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 002 5</td>
 <td>– – – – при среднемесячной цене не менее 405,66 доллара США за 1 т, но не более 445,33 доллара США за 1 т на Нью-Йоркской товарно-сырьевой бирже</td>
-<td>14</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 002 6</td>
 <td>– – – – при среднемесячной цене не менее 445,34 доллара США за 1 т, но не более 485,02 доллара США за 1 т на Нью-Йоркской товарно-сырьевой бирже</td>
-<td>14</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 002 7</td>
 <td>– – – – при среднемесячной цене не менее 485,03 доллара США за 1 т на Нью-Йоркской товарно-сырьевой бирже</td>
-<td>14</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 003 1</td>
 <td>– – – – при среднемесячной цене не более 286,60 доллара США за 1 т на Нью-Йоркской товарно-сырьевой бирже</td>
-<td>14</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 003 2</td>
 <td>– – – – при среднемесячной цене не менее 286,61 доллара США за 1 т, но не более 324,08 доллара США за 1 т на Нью-Йоркской товарно-сырьевой бирже</td>
-<td>14</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 003 3</td>
 <td>– – – – при среднемесячной цене не менее 324,09 доллара США за 1 т, но не более 361,56 доллара США за 1 т на Нью-Йоркской товарно-сырьевой бирже</td>
-<td>14</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 003 4</td>
 <td>– – – – при среднемесячной цене не менее 361,57 доллара США за 1 т, но не более 396,83 доллара США за 1 т на Нью-Йоркской товарно-сырьевой бирже</td>
-<td>14</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 003 5</td>
 <td>– – – – при среднемесячной цене не менее 396,84 доллара США за 1 т на Нью-Йоркской товарно-сырьевой бирже</td>
-<td>14</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1702 90 710 0</td>
 <td>– – – содержащий 50 мас.% или более сахарозы в сухом состоянии</td>
-<td>6,8</td>
+<td>6,2</td>
 </tr>
 <tr>
 <td>1702 90 750 0</td>
 <td>– – – – в виде порошка, агломерированного или неагломерированного</td>
-<td>6,8</td>
+<td>6,2</td>
 </tr>
 <tr>
 <td>1702 90 790 0</td>
 <td>– – – – прочие</td>
-<td>6,8</td>
+<td>6,2</td>
 </tr>
 <tr>
 <td>1702 90 950 0</td>
 <td>– – прочие</td>
-<td>6,8</td>
+<td>6,2</td>
 </tr>
 <tr>
 <td>1704 10 100 0</td>
 <td>– – содержащая менее 60 мас.% сахарозы (включая инвертный сахар, выраженный как сахароза)</td>
-<td>16</td>
+<td>14</td>
 </tr>
 <tr>
 <td>1704 10 900 1</td>
 <td>– – – жевательная резинка в полосках</td>
-<td>16</td>
+<td>14</td>
+</tr>
+<tr>
+<td>1806 10 300 0</td>
+<td>– – содержащий 65 мас.% или более, но менее 80 мас.% сахарозы (включая инвертный сахар, выраженный как сахароза) или изоглюкозы, выраженной как сахароза</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1901 90 110 0</td>
+<td>– – – с содержанием сухого экстракта 90 мас.% или более</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1901 90 190 0</td>
+<td>– – – прочий</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1901 90 910 0</td>
+<td>– – – не содержащие молочного жира, сахарозы, изоглюкозы, глюкозы или крахмала или содержащие менее 1,5 мас.% молочного жира, 5 мас.% сахарозы (включая инвертный сахар) или изоглюкозы, 5 мас.% глюкозы или крахмала, кроме пищевых продуктов в виде порошка из сырья товарных позиций 0401 – 0404</td>
+<td>12</td>
 </tr>
 <tr>
 <td>1902 11 000 0</td>
@@ -3689,19 +4564,24 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>15</td>
 </tr>
 <tr>
+<td>2001 90 100 0</td>
+<td>– – манговое чутни</td>
+<td>9</td>
+</tr>
+<tr>
 <td>2001 90 500 0</td>
 <td>– – грибы</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>2001 90 650 0</td>
 <td>– – маслины, или оливки</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>2001 90 920 0</td>
 <td>– – тропические фрукты и тропические орехи; пальмовая сердцевина</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>2001 90 970 1</td>
@@ -3719,14 +4599,44 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>8, но не менее 0,04 евро за 1 кг</td>
 </tr>
 <tr>
+<td>2005 99 200 0</td>
+<td>– – – каперсы</td>
+<td>12</td>
+</tr>
+<tr>
 <td>2007 99 100 0</td>
 <td>– – – – пюре и паста из сливы видов рода Prunus, в первичных упаковках нетто-массой более 100 кг, для промышленной обработки</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>2007 99 200 0</td>
 <td>– – – – каштановые пюре и паста</td>
-<td>11</td>
+<td>9</td>
+</tr>
+<tr>
+<td>2007 99 500 1</td>
+<td>– – – – яблочное пюре, включая компоты</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2007 99 930 0</td>
+<td>– – – – из тропических фруктов и тропических орехов</td>
+<td>9</td>
+</tr>
+<tr>
+<td>2007 99 970 1</td>
+<td>– – – – – яблочное пюре, включая компоты</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2007 99 970 2</td>
+<td>– – – – – – в первичных упаковках нетто-массой 40 кг или более</td>
+<td>9</td>
+</tr>
+<tr>
+<td>2007 99 970 8</td>
+<td>– – – – – – прочие</td>
+<td>9</td>
 </tr>
 <tr>
 <td>2008 30 550 0</td>
@@ -3741,17 +4651,17 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>2008 30 900 1</td>
 <td>– – – – в первичных упаковках нетто-массой 4,5 кг или более</td>
-<td>9</td>
+<td>8</td>
 </tr>
 <tr>
 <td>2008 30 900 9</td>
 <td>– – – – в первичных упаковках нетто-массой менее 4,5 кг</td>
-<td>10</td>
+<td>9</td>
 </tr>
 <tr>
 <td>2008 91 000 0</td>
 <td>– – сердцевина пальмы</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>2009 19 910 0</td>
@@ -3764,6 +4674,16 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>5</td>
 </tr>
 <tr>
+<td>2009 41 920 1</td>
+<td>– – – – в упаковках объемом не более 0,35 л, для детского питания</td>
+<td>15</td>
+</tr>
+<tr>
+<td>2009 41 920 9</td>
+<td>– – – – прочий</td>
+<td>15</td>
+</tr>
+<tr>
 <td>2009 49 190 8</td>
 <td>– – – – – прочий</td>
 <td>5</td>
@@ -3774,16 +4694,6 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>15</td>
 </tr>
 <tr>
-<td>2009 71 200 2</td>
-<td>– – – – – концентрированный, стоимостью, превышающей 30 евро за 100 кг нетто-массы, в бочках, цистернах, флекси-танках вместимостью не более 40 кг</td>
-<td>10 6</td>
-</tr>
-<tr>
-<td>2009 79 190 3</td>
-<td>– – – – – концентрированный, стоимостью, превышающей 30 евро за 100 кг нетто-массы, в бочках, цистернах, флекси-танках вместимостью не более 40 кг</td>
-<td>10 5</td>
-</tr>
-<tr>
 <td>2009 79 300 1</td>
 <td>– – – – – концентрированный, стоимостью, превышающей 30 евро за 100 кг нетто-массы, в бочках, цистернах, флекси-танках вместимостью не менее 40 кг</td>
 <td>13</td>
@@ -3791,7 +4701,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>2009 89 360 8</td>
 <td>– – – – – – – прочий</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>2009 89 730 8</td>
@@ -3801,27 +4711,47 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>2009 90 410 7</td>
 <td>– – – – – – – – – прочие</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>2009 90 490 8</td>
 <td>– – – – – – – прочие</td>
-<td>11</td>
+<td>9</td>
+</tr>
+<tr>
+<td>2101 30 190 0</td>
+<td>– – – прочие</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2101 30 910 0</td>
+<td>– – – обжаренного цикория</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2101 30 990 0</td>
+<td>– – – прочих</td>
+<td>12</td>
 </tr>
 <tr>
 <td>2103 30 100 0</td>
 <td>– – горчичный порошок</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>2103 90 300 0</td>
 <td>– – ароматические горечи, содержащие 44,2 – 49,2 об.% спирта и 1,5 – 6 мас.% горечавки, специй и различных ингредиентов и содержащие 4 – 10% сахара, в емкостях 0,5 л или менее</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2104 20 009 0</td>
+<td>– – прочие</td>
+<td>9</td>
 </tr>
 <tr>
 <td>2106 90 200 0</td>
 <td>– – составные спиртовые полуфабрикаты, кроме продуктов на основе душистых веществ, используемые при производстве напитков</td>
-<td>8,7</td>
+<td>8</td>
 </tr>
 <tr>
 <td>2106 90 980 1</td>
@@ -3844,494 +4774,749 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>10</td>
 </tr>
 <tr>
+<td>2201 10 110 0</td>
+<td>– – – негазированные</td>
+<td>14</td>
+</tr>
+<tr>
+<td>2201 10 900 0</td>
+<td>– – прочие</td>
+<td>14</td>
+</tr>
+<tr>
+<td>2201 90 000 0</td>
+<td>– прочие</td>
+<td>14</td>
+</tr>
+<tr>
+<td>2204 10 110 0</td>
+<td>– – – шампанское</td>
+<td>15 или 1,35 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 110 0</td>
+<td>– – – – – – – – Эльзас</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 120 0</td>
+<td>– – – – – – – – Бордо</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 130 0</td>
+<td>– – – – – – – – Бургундия</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 170 0</td>
+<td>– – – – – – – – Валь де Луар (Долина Луары)</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 180 0</td>
+<td>– – – – – – – – Мозель-Саар-Рувер</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 190 0</td>
+<td>– – – – – – – – Пфальц</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 220 0</td>
+<td>– – – – – – – – Рейнхессен</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 240 0</td>
+<td>– – – – – – – – Лацио</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 260 0</td>
+<td>– – – – – – – – Тоскана</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 270 0</td>
+<td>– – – – – – – – Трентино, Альто-Адидже и Фриули</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 280 0</td>
+<td>– – – – – – – – Венето</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 320 0</td>
+<td>– – – – – – – – Виньо Верде</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 340 0</td>
+<td>– – – – – – – – Пенедес</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 360 0</td>
+<td>– – – – – – – – Риойя</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 370 0</td>
+<td>– – – – – – – – Валенсия</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 380 0</td>
+<td>– – – – – – – – прочие</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 420 0</td>
+<td>– – – – – – – – Бордо</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 430 0</td>
+<td>– – – – – – – – Бургундия</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 440 0</td>
+<td>– – – – – – – – Божоле</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 460 0</td>
+<td>– – – – – – – – Вале-дю-Рон</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 470 0</td>
+<td>– – – – – – – – Лангедок-Руссильон</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 480 0</td>
+<td>– – – – – – – – Валь де Луар (Долина Луары)</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 620 0</td>
+<td>– – – – – – – – Пьемонт</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 660 0</td>
+<td>– – – – – – – – Тоскана</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 670 0</td>
+<td>– – – – – – – – Трентино и Альто-Адидже</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 680 0</td>
+<td>– – – – – – – – Венето</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 690 0</td>
+<td>– – – – – – – – Дао, Беррада и Дуро</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 710 0</td>
+<td>– – – – – – – – Наварра</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 740 0</td>
+<td>– – – – – – – – Пенедес</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 760 0</td>
+<td>– – – – – – – – Риойя</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 770 0</td>
+<td>– – – – – – – – Вальдепениас</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 780 0</td>
+<td>– – – – – – – – прочие</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 800 0</td>
+<td>– – – – – – – прочие</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 820 0</td>
+<td>– – – – – – – прочие</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 840 0</td>
+<td>– – – – – – – прочие</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 850 0</td>
+<td>– – – – – – – мадера и Мускатель сетюбал (Setubal muscatel)</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 870 0</td>
+<td>– – – – – – – марсала</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 880 0</td>
+<td>– – – – – – – Самос (Samos) и Мускат де Лемнос (Muscat de Lemnos)</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 890 0</td>
+<td>– – – – – – – портвейн</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 900 0</td>
+<td>– – – – – – – прочие</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 910 0</td>
+<td>– – – – – – прочие</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 930 0</td>
+<td>– – – – – – белые</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 940 0</td>
+<td>– – – – – – прочие</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 950 0</td>
+<td>– – – – – – белые</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 960 0</td>
+<td>– – – – – – прочие</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 970 0</td>
+<td>– – – – – – белые</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
+<td>2204 21 980 0</td>
+<td>– – – – – – прочие</td>
+<td>15 или 0,7 евро за 1 л в зависимости, что ниже</td>
+</tr>
+<tr>
 <td>2204 22 100 0</td>
-<td>– – – вино, за исключением указанного в субпозиции 2204 10, в бутылках с «грибовидными» пробками, удерживаемыми завязками или креплениями; вино в другой таре с избыточным давлением, обусловленным диоксидом углерода в напитке, не менее 1 бар, но менее 3 бар при температуре 20 °C</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>– – – вино, за исключением указанного в субпозиции 2204 10, в бутылках с &quot;грибовидными&quot; пробками, удерживаемыми завязками или креплениями; вино в другой таре с избыточным давлением, обусловленным диоксидом углерода в напитке, не менее 1 бар, но менее 3 бар при температуре 20 oC</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 110 0</td>
 <td>– – – – – – – – Токай</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 120 0</td>
 <td>– – – – – – – – Бордо</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 130 0</td>
 <td>– – – – – – – – Бургундия</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 170 0</td>
 <td>– – – – – – – – Валь де Луар (Долина Луары)</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 180 0</td>
 <td>– – – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 420 0</td>
 <td>– – – – – – – – Бордо</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 430 0</td>
 <td>– – – – – – – – Бургундия</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 440 0</td>
 <td>– – – – – – – – Божоле</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 460 0</td>
 <td>– – – – – – – – Вале-дю-Рон</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 470 0</td>
 <td>– – – – – – – – Лангедок-Руссильон</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 480 0</td>
 <td>– – – – – – – – Валь де Луар (Долина Луары)</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 580 0</td>
 <td>– – – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 790 0</td>
 <td>– – – – – – – белые</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 800 0</td>
 <td>– – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 810 0</td>
 <td>– – – – – – – белые</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 820 0</td>
 <td>– – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 830 0</td>
 <td>– – – – – – – белые</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 840 0</td>
 <td>– – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 850 0</td>
 <td>– – – – – – – мадера и Мускатель сетюбал (Setubal muscatel)</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 860 0</td>
 <td>– – – – – – – херес</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 870 0</td>
 <td>– – – – – – – марсала</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 880 0</td>
 <td>– – – – – – – Самос (Samos) и Мускат де Лемнос (Muscat de Lemnos)</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 890 0</td>
 <td>– – – – – – – портвейн</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 900 0</td>
 <td>– – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 910 0</td>
 <td>– – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 920 0</td>
 <td>– – – – – с фактической концентрацией спирта более 22 об.%</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 930 0</td>
 <td>– – – – – – белые</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 940 0</td>
 <td>– – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 950 0</td>
 <td>– – – – – – белые</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 960 0</td>
 <td>– – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 970 0</td>
 <td>– – – – – – белые</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 22 980 0</td>
 <td>– – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 050 0</td>
-<td>– – – вино, за исключением указанного в субпозиции 2204 10, в бутылках с «грибовидными» пробками, удерживаемыми завязками или креплениями; вино в другой таре с избыточным давлением, обусловленным диоксидом углерода в напитке, не менее 1 бар, но менее 3 бар при температуре 20 °C</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>– – – вино, за исключением указанного в субпозиции 2204 10, в бутылках с &quot;грибовидными&quot; пробками, удерживаемыми завязками или креплениями; вино в другой таре с избыточным давлением, обусловленным диоксидом углерода в напитке, не менее 1 бар, но менее 3 бар при температуре 20 oC</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 110 1</td>
 <td>– – – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 110 8</td>
 <td>– – – – – – – – – прочее</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 120 1</td>
 <td>– – – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 120 8</td>
 <td>– – – – – – – – – прочее</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 130 1</td>
 <td>– – – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 130 8</td>
 <td>– – – – – – – – – прочее</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 170 1</td>
 <td>– – – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 170 8</td>
 <td>– – – – – – – – – прочее</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 180 1</td>
 <td>– – – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 180 8</td>
 <td>– – – – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 420 1</td>
 <td>– – – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 420 8</td>
 <td>– – – – – – – – – прочее</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 430 1</td>
 <td>– – – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 430 8</td>
 <td>– – – – – – – – – прочее</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 440 1</td>
 <td>– – – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 440 8</td>
 <td>– – – – – – – – – прочее</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 460 1</td>
 <td>– – – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 460 8</td>
 <td>– – – – – – – – – прочее</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 470 1</td>
 <td>– – – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 470 8</td>
 <td>– – – – – – – – – прочее</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 480 1</td>
 <td>– – – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 480 8</td>
 <td>– – – – – – – – – прочее</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 580 1</td>
 <td>– – – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 580 8</td>
 <td>– – – – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 790 1</td>
 <td>– – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 790 8</td>
 <td>– – – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 800 1</td>
 <td>– – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 800 8</td>
 <td>– – – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 810 1</td>
 <td>– – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 810 8</td>
 <td>– – – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 820 1</td>
 <td>– – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 820 8</td>
 <td>– – – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 830 1</td>
 <td>– – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 830 8</td>
 <td>– – – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 840 1</td>
 <td>– – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 840 8</td>
 <td>– – – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 850 1</td>
 <td>– – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 850 8</td>
 <td>– – – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 860 1</td>
 <td>– – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 860 8</td>
 <td>– – – – – – – – прочий</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 870 1</td>
 <td>– – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 870 8</td>
 <td>– – – – – – – – прочее</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 880 1</td>
 <td>– – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 880 8</td>
 <td>– – – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 890 1</td>
 <td>– – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 890 8</td>
 <td>– – – – – – – – прочий</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 900 1</td>
 <td>– – – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 900 8</td>
 <td>– – – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 910 1</td>
 <td>– – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 910 8</td>
 <td>– – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 920 1</td>
 <td>– – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 920 8</td>
 <td>– – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 930 1</td>
 <td>– – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 930 8</td>
 <td>– – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 940 1</td>
 <td>– – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 940 8</td>
 <td>– – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 950 1</td>
 <td>– – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 950 8</td>
 <td>– – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 960 1</td>
 <td>– – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 960 8</td>
 <td>– – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 970 1</td>
 <td>– – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 970 8</td>
 <td>– – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 980 1</td>
 <td>– – – – – – – в таре вместимостью 227 л или более</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2204 29 980 8</td>
 <td>– – – – – – – прочие</td>
-<td>16 или 0,17 евро за 1 л в зависимости, что ниже</td>
+<td>15 или 0,15 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2205 10 100 0</td>
@@ -4361,17 +5546,17 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>2206 00 390 1</td>
 <td>– – – – с фактической концентрацией спирта не более 7 об.%</td>
-<td>17,5 или 0,5 евро за 1 л в зависимости, что ниже</td>
+<td>16,3 или 0,5 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2206 00 390 9</td>
 <td>– – – – прочие</td>
-<td>17,5 или 0,5 евро за 1 л в зависимости, что ниже</td>
+<td>16,3 или 0,5 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2206 00 590 1</td>
 <td>– – – – – с фактической концентрацией спирта не более 7 об.%</td>
-<td>17,5 или 0,5 евро за 1 л в зависимости, что ниже</td>
+<td>16,3 или 0,5 евро за 1 л в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>2207 10 000 0</td>
@@ -4391,137 +5576,142 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>2208 30 110 0</td>
 <td>– – – 2 л или менее</td>
-<td>0,8 евро за 1 л</td>
+<td>0,7 евро за 1 л</td>
 </tr>
 <tr>
 <td>2208 30 190 0</td>
 <td>– – – более 2 л</td>
-<td>0,8 евро за 1 л</td>
+<td>0,7 евро за 1 л</td>
 </tr>
 <tr>
 <td>2208 30 300 1</td>
 <td>– – – – в сосудах емкостью 2 л или менее</td>
-<td>0,8 евро за 1 л</td>
+<td>0,7 евро за 1 л</td>
 </tr>
 <tr>
 <td>2208 30 300 9</td>
 <td>– – – – в сосудах емкостью более 2 л</td>
-<td>0,8 евро за 1 л</td>
+<td>0,7 евро за 1 л</td>
 </tr>
 <tr>
 <td>2208 30 410 0</td>
 <td>– – – – 2 л или менее</td>
-<td>0,8 евро за 1 л</td>
+<td>0,7 евро за 1 л</td>
 </tr>
 <tr>
 <td>2208 30 490 0</td>
 <td>– – – – более 2 л</td>
-<td>0,8 евро за 1 л</td>
+<td>0,7 евро за 1 л</td>
 </tr>
 <tr>
 <td>2208 30 610 0</td>
 <td>– – – – 2 л или менее</td>
-<td>0,8 евро за 1 л</td>
+<td>0,7 евро за 1 л</td>
 </tr>
 <tr>
 <td>2208 30 690 0</td>
 <td>– – – – более 2 л</td>
-<td>0,8 евро за 1 л</td>
+<td>0,7 евро за 1 л</td>
 </tr>
 <tr>
 <td>2208 30 710 0</td>
 <td>– – – – 2 л или менее</td>
-<td>0,8 евро за 1 л</td>
+<td>0,7 евро за 1 л</td>
 </tr>
 <tr>
 <td>2208 30 790 0</td>
 <td>– – – – более 2 л</td>
-<td>0,8 евро за 1 л</td>
+<td>0,7 евро за 1 л</td>
 </tr>
 <tr>
 <td>2208 30 820 0</td>
 <td>– – – 2 л или менее</td>
-<td>0,8 евро за 1 л</td>
+<td>0,7 евро за 1 л</td>
 </tr>
 <tr>
 <td>2208 30 880 0</td>
 <td>– – – более 2 л</td>
-<td>0,8 евро за 1 л</td>
+<td>0,7 евро за 1 л</td>
 </tr>
 <tr>
 <td>2208 90 540 0</td>
 <td>– – – – – – – текила</td>
-<td>0,8 евро за 1 л</td>
+<td>0,7 евро за 1 л</td>
 </tr>
 <tr>
 <td>2208 90 560 1</td>
 <td>– – – – – – – – мескаль</td>
-<td>0,8 евро за 1 л</td>
+<td>0,7 евро за 1 л</td>
 </tr>
 <tr>
 <td>2208 90 750 0</td>
 <td>– – – – – текила</td>
-<td>0,8 евро за 1 л</td>
+<td>0,7 евро за 1 л</td>
 </tr>
 <tr>
 <td>2208 90 770 1</td>
 <td>– – – – – – мескаль</td>
-<td>0,8 евро за 1 л</td>
+<td>0,7 евро за 1 л</td>
 </tr>
 <tr>
 <td>2208 90 910 0</td>
 <td>– – – 2 л или менее</td>
-<td>2,6 евро за 1 л</td>
+<td>2,4 евро за 1 л</td>
 </tr>
 <tr>
 <td>2208 90 990 0</td>
 <td>– – – более 2 л</td>
-<td>2,6 евро за 1 л</td>
+<td>2,4 евро за 1 л</td>
 </tr>
 <tr>
 <td>2403 99 100 0</td>
 <td>– – – жевательный и нюхательный табак</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>2403 99 900 9</td>
 <td>– – – – прочий</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>2511 10 000 0</td>
 <td>– сульфат бария природный (барит)</td>
-<td>4,2</td>
+<td>3,8</td>
 </tr>
 <tr>
 <td>2511 20 000 0</td>
 <td>– карбонат бария природный (витерит)</td>
-<td>4,2</td>
+<td>3,8</td>
+</tr>
+<tr>
+<td>2607 00 000 1</td>
+<td>– с содержанием свинца не менее 45 мас.%</td>
+<td>2 4</td>
+</tr>
+<tr>
+<td>2607 00 000 9</td>
+<td>– прочие</td>
+<td>2</td>
 </tr>
 <tr>
 <td>2844 40 100 0</td>
 <td>– – уран, полученный из урана-233 и его соединений; сплавы, дисперсии (включая металлокерамику), продукты и смеси керамические и соединения, полученные из урана-233, или соединения этого продукта</td>
-<td>3,3</td>
+<td>2,2</td>
 </tr>
 <tr>
 <td>2844 40 200 0</td>
 <td>– – – искусственные радиоактивные изотопы</td>
-<td>3,3</td>
+<td>2,2</td>
 </tr>
 <tr>
 <td>2844 40 300 0</td>
 <td>– – – соединения искусственных радиоактивных изотопов</td>
-<td>3,3</td>
+<td>2,2</td>
 </tr>
 <tr>
 <td>2844 40 800 0</td>
 <td>– – – прочие</td>
-<td>3,3</td>
-</tr>
-<tr>
-<td>2905 31 000 0</td>
-<td>– – этиленгликоль (этандиол)</td>
-<td>5,5</td>
+<td>2,2</td>
 </tr>
 <tr>
 <td>2907 21 000 0</td>
@@ -4529,219 +5719,329 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>5,5</td>
 </tr>
 <tr>
+<td>2936 21 000 0</td>
+<td>– – витамины A и их производные</td>
+<td>2,6</td>
+</tr>
+<tr>
 <td>2936 22 000 1</td>
 <td>– – – кокарбоксилаза</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2936 22 000 9</td>
 <td>– – – прочие</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2936 23 000 0</td>
 <td>– – витамин B2 и его производные</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2936 24 000 0</td>
 <td>– – кислота D- или DL-пантотеновая (витамин B3 или витамин B5), ее производные</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2936 25 000 0</td>
 <td>– – витамин B6 и его производные</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2936 26 000 0</td>
 <td>– – витамин B12 и его производные</td>
-<td>3,9</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2936 27 000 0</td>
+<td>– – витамин C и его производные</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2936 28 000 0</td>
+<td>– – витамин E и его производные</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2936 29 000 1</td>
 <td>– – – витамин B9 и его производные; витамин H и его производные</td>
-<td>3,9</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2936 29 000 9</td>
+<td>– – – прочие</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2936 90 000 1</td>
 <td>– – природные концентраты витаминов</td>
-<td>3,9</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2936 90 000 2</td>
+<td>– – – смеси витаминов, в том числе в любом растворителе</td>
+<td>2</td>
 </tr>
 <tr>
 <td>2936 90 000 9</td>
 <td>– – – прочие</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 11 000 0</td>
 <td>– – концентраты из маковой соломки; бупренорфин (INN), кодеин, дигидрокодеин (INN), этилморфин, эторфин (INN), героин, гидрокодон (INN), гидроморфон (INN), морфин, никоморфин (INN), оксикодон (INN), оксиморфон (INN), фолкодин (INN), тебакон (INN) и тебаин; соли этих соединений</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 19 000 0</td>
 <td>– – прочие</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 20 000 0</td>
 <td>– алкалоиды, выделенные из коры хинного дерева, и их производные; соли этих соединений</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 30 000 0</td>
 <td>– кофеин и его соли</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 41 000 0</td>
 <td>– – эфедрин и его соли</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 42 000 0</td>
 <td>– – псевдоэфедрин (INN) и его соли</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 43 000 0</td>
 <td>– – катин (INN) и его соли</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 44 000 0</td>
 <td>– – норэфедрин и его соли</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 49 000 0</td>
 <td>– – прочие</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 51 000 0</td>
 <td>– – фенетиллин (INN) и его соли</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 59 000 0</td>
 <td>– – прочие</td>
-<td>3,9</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2939 61 000 0</td>
+<td>– – эргометрин (INN) и его соли</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2939 62 000 0</td>
+<td>– – эрготамин (INN) и его соли</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2939 63 000 0</td>
+<td>– – лизергиновая кислота и ее соли</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2939 69 000 0</td>
+<td>– – прочие</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 71 000 0</td>
 <td>– – кокаин, экгонин, левометамфетамин, метамфетамин (INN), рацемат метамфетамина; соли, сложные эфиры и их прочие производные</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 79 000 0</td>
 <td>– – прочие</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 80 000 0</td>
 <td>– прочие</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>3001 20 100 0</td>
 <td>– – человеческого происхождения</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3001 20 900 0</td>
 <td>– – прочие</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>3001 90 200 0</td>
 <td>– – человеческого происхождения</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3001 90 980 0</td>
 <td>– – – прочие</td>
-<td>5</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>3002 11 000 0</td>
+<td>– – наборы для диагностики малярии</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 12 000 2</td>
+<td>– – – – прочие</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 12 000 3</td>
+<td>– – – – гемоглобин, глобулины крови и сывороточные глобулины</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 12 000 4</td>
+<td>– – – – – – факторы свертываемости крови</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3002 12 000 5</td>
+<td>– – – – – – прочие</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 12 000 9</td>
+<td>– – – – – прочие</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 13 000 0</td>
+<td>– – иммунологические продукты, несмешанные, не расфасованные в виде дозированных лекарственных форм или в формы или упаковки для розничной продажи</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 14 000 0</td>
+<td>– – иммунологические продукты, смешанные, не расфасованные в виде дозированных лекарственных форм или в формы или упаковки для розничной продажи</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 15 000 0</td>
+<td>– – иммунологические продукты, расфасованные в виде дозированных лекарственных форм или в формы или упаковки для розничной продажи</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 19 000 0</td>
+<td>– – прочие</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3002 20 000 1</td>
 <td>– – против краснухи</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3002 20 000 2</td>
 <td>– – против гепатита В</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3002 20 000 9</td>
 <td>– – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3002 30 000 0</td>
 <td>– вакцины ветеринарные</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3002 90 100 0</td>
 <td>– – кровь человеческая</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3002 90 300 0</td>
 <td>– – кровь животных, приготовленная для использования в терапевтических, профилактических или диагностических целях</td>
-<td>3,3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 90 500 0</td>
+<td>– – культуры микроорганизмов</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>3002 90 900 0</td>
 <td>– – прочие</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>3004 10 000 1</td>
 <td>– – – содержащие в качестве основного действующего вещества только: ампициллина тригидрат или ампициллина натриевую соль, или бензилпенициллина соли и соединения, или карбенициллин, или оксациллин, или сулациллин (сультамициллин), или феноксиметилпенициллин</td>
-<td>3,3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3004 10 000 4</td>
+<td>– – – – расфасованные или представленные в виде дозированных лекарственных форм, но не упакованные для розничной продажи</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 10 000 5</td>
 <td>– – – – прочие</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 10 000 6</td>
 <td>– – – – содержащие в качестве основного действующего вещества только стрептомицина сульфат</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 10 000 7</td>
 <td>– – – – прочие</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 10 000 8</td>
 <td>– – – прочие</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 20 000 1</td>
 <td>– – – содержащие в качестве основного действующего вещества только: амикацин или гентамицин, или гризеофульвин, или доксициклин, или доксорубицин, или канамицин, или кислоту фузидиевую и ее натриевую соль, или левомицетин (хлорамфеникол) и его соли, или линкомицин, или метациклин, или нистатин, или рифампицин, или цефазолин, или цефалексин, или цефалотин, или эритромицина основание</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 20 000 2</td>
 <td>– – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 20 000 3</td>
 <td>– – – содержащие в качестве основного действующего вещества только эритромицина основание или канамицина сульфат</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 20 000 9</td>
 <td>– – – прочие</td>
-<td>3,3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3004 32 000 9</td>
+<td>– – – прочие</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 39 000 1</td>
@@ -4756,47 +6056,67 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>3004 41 000 0</td>
 <td>– – содержащие эфедрин или его соли</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 42 000 0</td>
 <td>– – содержащие псевдоэфедрин (INN) или его соли</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 43 000 0</td>
 <td>– – содержащие норэфедрин или его соли</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 49 000 1</td>
 <td>– – – расфасованные в формы или упаковки для розничной продажи и содержащие в качестве основного действующего вещества только: кофеин-бензоат натрия или ксантинола никотинат, или папаверин, или пилокарпин, или теобромин, или теофиллин</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 49 000 9</td>
 <td>– – – прочие</td>
-<td>3,3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3004 50 000 6</td>
+<td>– – – содержащие в качестве основного действующего вещества только: кокарбоксилазу или кислоту аскорбиновую (витамин С), или цианокобаламин (витамин В12)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3004 50 000 8</td>
+<td>– – – прочие</td>
+<td>4</td>
 </tr>
 <tr>
 <td>3004 60 000 0</td>
 <td>– прочие, содержащие противомалярийные активные (действующие) вещества, указанные в примечании к субпозициям 2 к данной группе</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 90 000 1</td>
 <td>– – – содержащие йод или соединения йода</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 90 000 2</td>
 <td>– – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 90 000 5</td>
 <td>– – – содержащие йод или соединения йода</td>
-<td>3,3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3004 90 000 6</td>
+<td>– – – – содержащие в качестве основного действующего вещества только: кислоту ацетилсалициловую или парацетамол, или рибоксин (инозин), или поливинилпирролидон</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3004 90 000 9</td>
+<td>– – – – прочие</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3006 10 100 0</td>
@@ -4811,42 +6131,62 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>3006 20 000 0</td>
 <td>– реагенты для определения группы крови</td>
-<td>3,3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3006 30 000 0</td>
+<td>– препараты контрастные для рентгенографических обследований; реагенты диагностические, предназначенные для введения больным</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3006 40 000 0</td>
+<td>– цементы зубные и материалы для пломбирования зубов прочие; цементы, реконструирующие кость</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3006 50 000 0</td>
+<td>– сумки санитарные и наборы для оказания первой помощи</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>3006 60 000 1</td>
+<td>– – – расфасованные в формы или упаковки для розничной продажи</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>3006 60 000 2</td>
 <td>– – – прочие</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>3006 60 000 9</td>
 <td>– – на основе спермицидов</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>3006 92 000 0</td>
 <td>– – непригодные фармацевтические средства</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3302 10 100 0</td>
 <td>– – – – содержащие более 0,5 об.% спирта</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3302 10 210 0</td>
 <td>– – – – – не содержащие молочных жиров, сахарозы, изоглюкозы, глюкозы или крахмала или содержащие менее 1,5 мас.% молочного жира, 5 мас.% сахарозы или изоглюкозы, 5 мас.% глюкозы или крахмала</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3302 10 290 0</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3302 10 400 0</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3307 10 000 0</td>
@@ -4869,9 +6209,14 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>5</td>
 </tr>
 <tr>
-<td>3404 20 000 0</td>
-<td>– из полиоксиэтилена (полиэтиленгликоля)</td>
-<td>7,7</td>
+<td>3401 20 100 0</td>
+<td>– – хлопья, вафли, гранулы или порошки</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3401 20 900 0</td>
+<td>– – прочее</td>
+<td>5</td>
 </tr>
 <tr>
 <td>3505 10 100 0</td>
@@ -4896,82 +6241,87 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>3824 99 580 0</td>
 <td>– – – – пластыри никотиновые (трансдермальные системы), предназначенные для того, чтобы помочь курильщикам бросить курить</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3825 30 000 0</td>
 <td>– клинические отходы</td>
-<td>8,2</td>
+<td>7,3</td>
 </tr>
 <tr>
 <td>3917 21 900 1</td>
 <td>– – – – с установленными фитингами, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3917 22 900 1</td>
 <td>– – – – с установленными фитингами, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3917 23 900 1</td>
 <td>– – – – с установленными фитингами, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3917 29 000 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3917 31 000 2</td>
 <td>– – – с установленными фитингами, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3917 33 000 1</td>
 <td>– – – с установленными фитингами, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3917 39 000 3</td>
 <td>– – – – – с установленными фитингами, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3917 40 000 1</td>
+<td>– – для гражданских воздушных судов5)</td>
+<td>4</td>
 </tr>
 <tr>
 <td>3917 40 000 9</td>
 <td>– – прочие</td>
-<td>6</td>
-</tr>
-<tr>
-<td>3921 13 100 0</td>
-<td>– – – гибкие</td>
-<td>6,5 6</td>
-</tr>
-<tr>
-<td>3921 13 900 0</td>
-<td>– – – прочие</td>
-<td>6,56</td>
+<td>4</td>
 </tr>
 <tr>
 <td>3926 90 970 6</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4008 29 000 0</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
-<td>4011 10 000 3</td>
-<td>– – с посадочным диаметром не более 16 дюймов</td>
-<td>106</td>
+<td>4009 12 000 9</td>
+<td>– – – прочие</td>
+<td>2</td>
 </tr>
 <tr>
-<td>4011 10 000 9</td>
-<td>– – прочие</td>
-<td>106</td>
+<td>4009 22 000 9</td>
+<td>– – – прочие</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4009 32 000 0</td>
+<td>– – с фитингами</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4009 42 000 0</td>
+<td>– – с фитингами</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4012 11 000 0</td>
@@ -4981,192 +6331,192 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>4012 13 000 1</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4012 20 000 1</td>
 <td>– – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
-<td>4012 20 000 9</td>
+<td>4015 19 000 0</td>
 <td>– – прочие</td>
-<td>156</td>
+<td>8</td>
 </tr>
 <tr>
 <td>4016 10 000 1</td>
 <td>– – для технических целей, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4016 93 000 5</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4016 99 910 1</td>
 <td>– – – – – для технических целей, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4016 99 970 3</td>
 <td>– – – – – для технических целей, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4202 12 110 0</td>
 <td>– – – – кейсы для деловых бумаг, портфели, школьные сумки и ранцы и аналогичные изделия</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 12 190 0</td>
 <td>– – – – прочие</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 12 500 9</td>
 <td>– – – – прочие</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 12 910 0</td>
 <td>– – – – кейсы для деловых бумаг, портфели, школьные сумки и ранцы и аналогичные изделия</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 12 990 0</td>
 <td>– – – – прочие</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 32 100 0</td>
 <td>– – – из листов пластмассы</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 32 900 0</td>
 <td>– – – из текстильных материалов</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 91 100 0</td>
 <td>– – – сумки дорожные, сумочки для косметических средств или наборов для личной гигиены, рюкзаки и сумки спортивные</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 91 800 0</td>
 <td>– – – прочие</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 92 110 0</td>
 <td>– – – – сумки дорожные, сумочки для косметических средств или наборов для личной гигиены, рюкзаки и сумки спортивные</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 92 150 0</td>
 <td>– – – – футляры для музыкальных инструментов</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 92 190 0</td>
 <td>– – – – прочие</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 92 980 0</td>
 <td>– – – – прочие</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4203 29 100 0</td>
 <td>– – – защитные для всех профессий</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4407 11 150 0</td>
 <td>– – – обработанные шлифованием; имеющие торцевые соединения, не обработанные или обработанные строганием или шлифованием</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 11 330 0</td>
-<td>– – – – – сосна обыкновенная вида «Pinus sylvestris L.»</td>
-<td>3</td>
+<td>– – – – – сосна обыкновенная вида &quot;Pinus sylvestris L.&quot;</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 11 380 0</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 11 930 0</td>
-<td>– – – – – сосна обыкновенная вида «Pinus sylvestris L.»</td>
-<td>3</td>
+<td>– – – – – сосна обыкновенная вида &quot;Pinus sylvestris L.&quot;</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 11 980 0</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 12 150 0</td>
 <td>– – – обработанные шлифованием; имеющие торцевые соединения, не обработанные или обработанные строганием или шлифованием</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 12 310 0</td>
-<td>– – – – – ель обыкновенная «Picea abies Karst.» или пихта белая европейская (Abies alba Mill.)</td>
-<td>3</td>
+<td>– – – – – ель обыкновенная вида &quot;Picea abies Karst.&quot; или пихта белая европейская (Abies alba Mill.)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 12 380 0</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 12 910 0</td>
-<td>– – – – – ель обыкновенная вида «Picea abies Karst.» или пихта белая европейская (Abies alba Mill.)</td>
-<td>3</td>
+<td>– – – – – ель обыкновенная вида &quot;Picea abies Karst.&quot; или пихта белая европейская (Abies alba Mill.)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 12 980 0</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 19 150 0</td>
 <td>– – – обработанные шлифованием; имеющие торцевые соединения, не обработанные или обработанные строганием или шлифованием</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 19 910 0</td>
 <td>– – – – обработанные строганием</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 19 980 0</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 29 150 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 29 830 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 29 850 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 29 950 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 91 150 0</td>
@@ -5174,164 +6524,169 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>5</td>
 </tr>
 <tr>
+<td>4407 91 310 0</td>
+<td>– – – – – бруски, планки и фриз для паркета или деревянного покрытия полов, несобранные</td>
+<td>9</td>
+</tr>
+<tr>
 <td>4407 93 100 0</td>
 <td>– – – обработанные строганием; имеющие торцевые соединения, не обработанные или обработанные строганием или шлифованием</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 93 910 0</td>
 <td>– – – – обработанные шлифованием</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 93 990 0</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 94 100 0</td>
 <td>– – – обработанные строганием; имеющие торцевые соединения, не обработанные или обработанные строганием или шлифованием</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 94 910 0</td>
 <td>– – – – обработанные шлифованием</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 94 990 0</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 95 100 0</td>
 <td>– – – обработанные строганием; имеющие торцевые соединения, не обработанные или обработанные строганием или шлифованием</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 95 910 0</td>
 <td>– – – – обработанные шлифованием</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 95 990 0</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 96 100 0</td>
 <td>– – – обработанные строганием; имеющие торцевые соединения, не обработанные или обработанные строганием или шлифованием</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 96 400 0</td>
 <td>– – – – обработанные шлифованием</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 96 900 1</td>
 <td>– – – – – лесоматериалы, распиленные вдоль</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 96 900 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 97 100 0</td>
 <td>– – – обработанные строганием; имеющие торцевые соединения, не обработанные или обработанные строганием или шлифованием</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 97 400 0</td>
 <td>– – – – обработанные шлифованием</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 97 900 1</td>
 <td>– – – – – – лесоматериалы, распиленные вдоль</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 97 900 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 97 900 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 99 100 0</td>
 <td>– – – обработанные строганием; имеющие торцевые соединения, не обработанные или обработанные строганием или шлифованием</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 99 400 0</td>
 <td>– – – – обработанные шлифованием</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 99 900 1</td>
 <td>– – – – – из ореха</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 99 900 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4408 10 150 1</td>
 <td>– – – – – имеющая, по крайней мере, один наружный слой из древесины лиственных пород</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 150 2</td>
 <td>– – – – – прочая</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 150 3</td>
 <td>– – – – – имеющие, по крайней мере, один наружный слой из древесины лиственных пород</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 150 4</td>
 <td>– – – – – прочие</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 150 9</td>
 <td>– – – прочие</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 910 0</td>
 <td>– – – дощечки для изготовления карандашей</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 980 1</td>
 <td>– – – – – клееная фанера (отличная от товаров товарной позиции 4412), имеющая, по крайней мере, один наружный слой из древесины лиственных пород</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 980 2</td>
 <td>– – – – – – имеющие, по крайней мере, один наружный слой из древесины лиственных пород</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 980 3</td>
 <td>– – – – – – прочие</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 980 9</td>
 <td>– – – – прочие</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 31 110 1</td>
@@ -5411,7 +6766,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>4408 39 550 3</td>
 <td>– – – – – – – имеющая, по крайней мере, один наружный слой из древесины других тропических пород</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 39 550 4</td>
@@ -5422,6 +6777,11 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>4408 39 550 5</td>
 <td>– – – – – – – имеющие, по крайней мере, один наружный слой из древесины тропических пород, указанных в дополнительном примечании Евразийского экономического союза 2 к данной группе, кроме пород, указанных в субпозиции 4408 31 и в трехдефисной подсубпозиции после субпозиции 4408 39</td>
 <td>5</td>
+</tr>
+<tr>
+<td>4408 39 550 6</td>
+<td>– – – – – – – имеющие, по крайней мере, один наружный слой из древесины других тропических пород</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 39 550 7</td>
@@ -5436,7 +6796,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>4408 39 850 3</td>
 <td>– – – – – – – – – имеющая, по крайней мере, один наружный слой из древесины других тропических пород</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 39 850 4</td>
@@ -5447,6 +6807,11 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>4408 39 850 5</td>
 <td>– – – – – – – – – имеющие, по крайней мере, один наружный слой из древесины тропических пород, указанных в дополнительном примечании Евразийского экономического союза 2 к данной группе, кроме пород, указанных в субпозиции 4408 31 и в трехдефисной подсубпозиции после субпозиции 4408 39</td>
 <td>5</td>
+</tr>
+<tr>
+<td>4408 39 850 6</td>
+<td>– – – – – – – – – имеющие, по крайней мере, один наружный слой из древесины других тропических пород</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 39 850 7</td>
@@ -5461,7 +6826,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>4408 39 950 3</td>
 <td>– – – – – – – – – имеющая, по крайней мере, один наружный слой из древесины других тропических пород</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 39 950 4</td>
@@ -5474,6 +6839,11 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>5</td>
 </tr>
 <tr>
+<td>4408 39 950 6</td>
+<td>– – – – – – – – – имеющие, по крайней мере, один наружный слой из древесины других тропических пород</td>
+<td>10</td>
+</tr>
+<tr>
 <td>4408 39 950 7</td>
 <td>– – – – – – – – – прочие</td>
 <td>5</td>
@@ -5481,32 +6851,62 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>4408 90 150 1</td>
 <td>– – – – – – имеющая, по крайней мере, один слой из древесины дуба, бука или ясеня</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 90 150 2</td>
 <td>– – – – – – прочая</td>
-<td>11,7</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4408 90 150 5</td>
+<td>– – – – – – имеющие, по крайней мере, один слой из древесины дуба, бука или ясеня</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4408 90 150 6</td>
+<td>– – – – – – прочие</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 90 850 1</td>
 <td>– – – – – – – – имеющая, по крайней мере, один слой из древесины дуба, бука или ясеня</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 90 850 2</td>
 <td>– – – – – – – – прочая</td>
-<td>11,7</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4408 90 850 5</td>
+<td>– – – – – – – – имеющие, по крайней мере, один слой из древесины дуба, бука или ясеня</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4408 90 850 6</td>
+<td>– – – – – – – – прочие</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 90 950 1</td>
 <td>– – – – – – – – имеющая, по крайней мере, один слой из древесины дуба, бука или ясеня</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 90 950 2</td>
 <td>– – – – – – – – прочая</td>
-<td>11,7</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4408 90 950 5</td>
+<td>– – – – – – – – имеющие, по крайней мере, один слой из древесины дуба, бука или ясеня</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4408 90 950 6</td>
+<td>– – – – – – – – прочие</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4410 11 100 0</td>
@@ -5551,7 +6951,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>4412 10 000 2</td>
 <td>– – – – имеющая, по крайней мере, один наружный слой из древесины лиственных пород</td>
-<td>11</td>
+<td>9</td>
+</tr>
+<tr>
+<td>4412 10 000 3</td>
+<td>– – – – прочая</td>
+<td>9</td>
 </tr>
 <tr>
 <td>4412 10 000 4</td>
@@ -5559,24 +6964,39 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>5</td>
 </tr>
 <tr>
+<td>4412 10 000 5</td>
+<td>– – – имеющие, по крайней мере, один наружный слой из древесины лиственных пород</td>
+<td>9</td>
+</tr>
+<tr>
 <td>4412 31 900 9</td>
 <td>– – – – прочая</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>4412 33 000 0</td>
 <td>– – прочая, имеющая, по крайней мере, один наружный слой из древесины лиственных пород видов ольха (Alnus spp.), ясень (Fraxinus spp.), бук (Fagus spp.), береза (Betula spp.), вишня (Prunus spp.), каштан (Castanea spp.), вяз (Ulmus spp.), эвкалипт (Eucalyptus spp.), гикори (Carya spp.), конский каштан (Aesculus spp.), липа (Tilia spp.), клен (Acer spp.), дуб (Quercus spp.), платан (Platanus spp.), тополь и осина (Populus spp.), робиния (Robinia spp.), лириодендрон (Liriodendron spp.) или орех (Juglans spp.)</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>4412 34 000 0</td>
 <td>– – прочая, имеющая, по крайней мере, один наружный слой из древесины лиственных пород, не указанных в субпозиции 4412 33</td>
-<td>11</td>
+<td>9</td>
+</tr>
+<tr>
+<td>4412 39 000 0</td>
+<td>– – прочая, имеющая оба наружных слоя из древесины хвойных пород</td>
+<td>9</td>
 </tr>
 <tr>
 <td>4412 94 100 1</td>
 <td>– – – – имеющие, по крайней мере, один наружный слой из древесины тропических пород, указанных в дополнительном примечании Евразийского экономического союза 2 к данной группе</td>
 <td>5</td>
+</tr>
+<tr>
+<td>4412 94 100 9</td>
+<td>– – – – прочие</td>
+<td>9</td>
 </tr>
 <tr>
 <td>4412 94 900 0</td>
@@ -5587,6 +7007,21 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>4412 99 300 1</td>
 <td>– – – – имеющие, по крайней мере, один наружный слой из древесины тропических пород, указанных в дополнительном примечании Евразийского экономического союза 2 к данной группе</td>
 <td>5</td>
+</tr>
+<tr>
+<td>4412 99 300 2</td>
+<td>– – – – – имеющие, по крайней мере, один наружный слой из древесины лиственных пород</td>
+<td>9</td>
+</tr>
+<tr>
+<td>4412 99 400 0</td>
+<td>– – – – – из ольхи, ясеня, бука, березы, вишни, каштана, вяза, гикори, граба, конского каштана, липы, клена, дуба, платана, тополя, робинии, ореха или тюльпанного дерева</td>
+<td>9</td>
+</tr>
+<tr>
+<td>4412 99 500 1</td>
+<td>– – – – – – имеющие, по крайней мере, один наружный слой из древесины лиственных пород, кроме тропических пород, указанных в дополнительном примечании Евразийского экономического союза 2 к данной группе</td>
+<td>9</td>
 </tr>
 <tr>
 <td>4412 99 500 9</td>
@@ -5601,127 +7036,242 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>4504 90 800 0</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4701 00 100 0</td>
 <td>– масса древесная термомеханическая</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4701 00 900 0</td>
 <td>– прочая</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4702 00 000 0</td>
+<td>Целлюлоза древесная, растворимые сорта</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4703 11 000 0</td>
 <td>– – из хвойных пород</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4703 19 000 0</td>
 <td>– – из лиственных пород</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4703 21 000 1</td>
+<td>– – – для производства фильтровальной бумаги5)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4703 21 000 9</td>
+<td>– – – прочая</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4703 29 000 1</td>
+<td>– – – в которой целлюлозные волокна древесины эвкалипта составляют 100% от общей массы волокна, используемая для изготовления бумаги-основы облицовочных материалов5)</td>
+<td>4 5</td>
 </tr>
 <tr>
 <td>4703 29 000 9</td>
 <td>– – – прочая</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4704 11 000 0</td>
 <td>– – из хвойных пород</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4704 19 000 0</td>
 <td>– – из лиственных пород</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4704 21 000 0</td>
 <td>– – из хвойных пород</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4704 29 000 0</td>
 <td>– – из лиственных пород</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4705 00 000 0</td>
 <td>Древесная масса, полученная сочетанием механических и химических способов варки</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4706 10 000 0</td>
+<td>– масса из хлопкового линта</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4706 20 000 0</td>
+<td>– масса волокнистая, полученная из регенерируемых бумаги или картона (макулатуры и отходов)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4706 30 000 0</td>
+<td>– прочая из бамбука</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4706 91 000 0</td>
+<td>– – древесная</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4706 92 000 0</td>
+<td>– – целлюлозная</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4706 93 000 0</td>
+<td>– – полученная сочетанием механических и химических процессов</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4707 10 000 0</td>
+<td>– небеленые крафт-бумага или крафт-картон или гофрированные бумага или картон</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4707 20 000 0</td>
+<td>– бумага или картон прочие, полученные в основном из беленой целлюлозы, не окрашенные в массе</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4707 30 100 0</td>
+<td>– – старые и непроданные газеты и журналы, телефонные справочники, брошюры и печатная рекламная продукция</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4707 30 900 0</td>
+<td>– – прочие</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4707 90 100 0</td>
+<td>– – неотсортированные</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4707 90 900 0</td>
+<td>– – отсортированные</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4801 00 000 0</td>
+<td>Бумага газетная в рулонах или листах</td>
+<td>0</td>
 </tr>
 <tr>
 <td>4802 10 000 0</td>
 <td>– бумага и картон ручного отлива</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>4802 40 100 0</td>
 <td>– – не содержащая волокон, полученных механическим способом, или с содержанием таких волокон не более 10% от общей массы волокна</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>4802 54 000 1</td>
-<td>– – – бумага массой 1 м² не более 15 г, применяемая для изготовления трафаретов</td>
-<td>9</td>
+<td>– – – бумага массой 1 м2 не более 15 г, применяемая для изготовления трафаретов</td>
+<td>6</td>
 </tr>
 <tr>
 <td>4803 00 100 0</td>
 <td>– целлюлозная вата</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>4803 00 310 9</td>
 <td>– – – прочие</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>4803 00 390 0</td>
 <td>– – более 25 г</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>4803 00 900 0</td>
 <td>– прочие</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>4804 31 580 0</td>
 <td>– – – – прочие</td>
-<td>9</td>
+<td>8,5</td>
 </tr>
 <tr>
 <td>4804 31 800 0</td>
 <td>– – – прочие</td>
-<td>9</td>
+<td>8,5</td>
 </tr>
 <tr>
 <td>4804 39 510 0</td>
 <td>– – – – беленые равномерно в массе</td>
-<td>9</td>
+<td>8,5</td>
 </tr>
 <tr>
 <td>4804 39 580 0</td>
 <td>– – – – прочие</td>
-<td>9</td>
+<td>8,5</td>
 </tr>
 <tr>
 <td>4804 39 800 0</td>
 <td>– – – прочие</td>
-<td>9</td>
+<td>8,5</td>
 </tr>
 <tr>
 <td>4806 10 000 0</td>
 <td>– пергамент растительный</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4806 20 000 0</td>
+<td>– бумага жиронепроницаемая</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4806 30 000 0</td>
+<td>– калька</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4806 40 100 0</td>
+<td>– – пергамин</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>4806 40 900 0</td>
+<td>– – прочая</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>4808 40 000 1</td>
+<td>– – мешочная</td>
+<td>12</td>
+</tr>
+<tr>
+<td>4809 20 000 0</td>
+<td>– бумага самокопировальная</td>
+<td>3,8</td>
 </tr>
 <tr>
 <td>4809 90 000 0</td>
 <td>– прочая</td>
-<td>7,5</td>
+<td>3,8</td>
 </tr>
 <tr>
 <td>4810 13 000 4</td>
@@ -5739,44 +7289,89 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>0</td>
 </tr>
 <tr>
+<td>4810 19 000 1</td>
+<td>– – – бумага и картон массой 1 м2 не более 150 г, используемые как основа для фото-, тепло- и электрочувствительной бумаги или картона</td>
+<td>6</td>
+</tr>
+<tr>
 <td>4810 22 000 1</td>
 <td>– – – в рулонах шириной более 15 см или в листах с размером одной стороны более 36 см и размером другой стороны более 15 см в развернутом виде</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>4811 10 000 0</td>
 <td>– бумага и картон гудронированные, битуминизированные или асфальтированные</td>
-<td>5</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>4811 41 200 0</td>
+<td>– – – с шириной не более 10 см, покрытые невулканизованным натуральным или синтетическим каучуком</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4811 41 900 0</td>
+<td>– – – прочие</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>4811 49 000 0</td>
 <td>– – прочие</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>4811 51 000 1</td>
 <td>– – – покрытия для пола на основе из бумаги или картона, нарезанные или не нарезанные по размеру</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4811 51 000 9</td>
+<td>– – – прочие</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4811 59 000 1</td>
 <td>– – – покрытия для пола на основе из бумаги или картона, нарезанные или не нарезанные по размеру</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4811 59 000 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4811 60 000 0</td>
 <td>– бумага и картон с покрытием или пропиткой из воска, парафина, стеарина, масла или глицерина</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4811 90 000 0</td>
+<td>– бумага, картон, целлюлозная вата и полотно из целлюлозных волокон, прочие</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4812 00 000 0</td>
 <td>Блоки, плиты и пластины фильтровальные, из бумажной массы</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4813 10 000 0</td>
+<td>– в форме книжечек или трубок</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4813 20 000 0</td>
+<td>– в рулонах шириной не более 5 см</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4813 90 100 0</td>
+<td>– – в рулонах шириной более 5 см, но не более 15 см</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4813 90 900 0</td>
+<td>– – прочая</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4814 20 000 0</td>
@@ -5786,192 +7381,267 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>4816 20 000 0</td>
 <td>– бумага самокопировальная</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4816 90 000 0</td>
 <td>– прочие</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4817 10 000 0</td>
 <td>– конверты</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4817 20 000 0</td>
 <td>– карточки для писем, почтовые открытки без рисунков и карточки для переписки</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4817 30 000 0</td>
 <td>– коробки, сумки, футляры и компендиумы, из бумаги или картона, содержащие наборы бумажных канцелярских принадлежностей</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4818 20 100 0</td>
 <td>– – платки носовые и косметические салфетки или салфетки для лица</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4818 20 910 0</td>
 <td>– – – в рулонах</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4818 20 990 0</td>
 <td>– – – прочие</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4818 30 000 0</td>
 <td>– скатерти и салфетки</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>4818 50 000 0</td>
 <td>– предметы одежды и принадлежности к одежде</td>
-<td>5</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>4818 90 100 0</td>
+<td>– – изделия, применяемые в хирургических, медицинских или гигиенических целях, не расфасованные для розничной продажи</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4820 10 100 0</td>
 <td>– – журналы регистрационные, бухгалтерские книги, книги заказов и квитанционные книжки</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4820 10 300 0</td>
 <td>– – записные книжки, блокноты для писем и памятных записок</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4820 10 500 0</td>
 <td>– – дневники</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4820 10 900 0</td>
 <td>– – прочие</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4820 20 000 0</td>
 <td>– тетради</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4820 30 000 0</td>
 <td>– переплеты съемные (кроме обложек для книг), папки и скоросшиватели</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4820 40 000 0</td>
 <td>– самокопировальные деловые бланки и полистно проложенные копировальные наборы</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4820 50 000 0</td>
 <td>– альбомы для образцов или коллекций</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4820 90 000 0</td>
 <td>– прочие</td>
-<td>9,2</td>
+<td>8,8</td>
+</tr>
+<tr>
+<td>4822 10 000 0</td>
+<td>– используемые для намотки текстильных нитей</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4822 90 000 0</td>
+<td>– прочие</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4823 61 000 0</td>
 <td>– – из бамбука</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>4823 69 900 0</td>
 <td>– – – прочие</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>4823 70 100 0</td>
 <td>– – подносы и коробки для упаковки яиц, литые</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>4823 70 900 0</td>
 <td>– – прочие</td>
-<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>4823 90 400 0</td>
+<td>– – бумага и картон для письма, печати или других графических целей</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4823 90 851 0</td>
+<td>– – – бумага конденсаторная</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4823 90 852 0</td>
+<td>– – – бумага, картон, полотно из целлюлозных волокон, прочие</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4823 90 859 1</td>
+<td>– – – – карты неперфорированные для перфораторов в виде полос или лент или иной форме</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4823 90 859 2</td>
+<td>– – – – перфорированные бумага и картон для жаккардовых и аналогичных машин</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4823 90 859 3</td>
+<td>– – – – для промышленной сборки моторных транспортных средств товарных позиций 8701 – 8705, их узлов и агрегатов5)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4823 90 859 4</td>
+<td>– – – – – прокладки, шайбы и другие уплотнительные детали для гражданских воздушных судов5)</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4823 90 859 5</td>
 <td>– – – – – напольные покрытия на основе бумаги или картона, нарезанные по размеру или нет, не включенные в товарную позицию 4811</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4823 90 859 6</td>
 <td>– – – – – с клеем или самоклеящаяся бумага или картон, не включенные в товарную позицию 4811</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4823 90 859 7</td>
+<td>– – – – – прочие</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4907 00 101 0</td>
+<td>– – акцизные марки подакцизных товаров</td>
+<td>7</td>
+</tr>
+<tr>
+<td>4907 00 109 0</td>
+<td>– – прочие</td>
+<td>7</td>
 </tr>
 <tr>
 <td>4908 10 000 0</td>
 <td>– картинки переводные (декалькомания), способные стекловаться</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4908 90 000 0</td>
 <td>– прочие</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4909 00 000 0</td>
 <td>Открытки почтовые печатные или иллюстрированные; карточки с напечатанными поздравлениями, посланиями или сообщениями, иллюстрированные или неиллюстрированные, с конвертами или без конвертов, с украшениями или без украшений</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>4910 00 000 0</td>
 <td>Печатные календари всех видов, включая отрывные</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>4911 99 000 0</td>
 <td>– – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5309 11 100 0</td>
 <td>– – – неотбеленные</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5309 11 900 0</td>
 <td>– – – отбеленные</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5309 19 000 0</td>
 <td>– – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5309 21 000 0</td>
 <td>– – неотбеленные или отбеленные</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5309 29 000 0</td>
 <td>– – прочие</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>5310 10 100 0</td>
+<td>– – шириной не более 150 см</td>
+<td>7</td>
+</tr>
+<tr>
+<td>5310 10 900 0</td>
+<td>– – шириной более 150 см</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5310 90 000 0</td>
 <td>– прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5311 00 100 0</td>
 <td>– из волокон рами</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5311 00 900 0</td>
 <td>– прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5407 10 001 0</td>
@@ -5986,32 +7656,102 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>5501 10 000 1</td>
 <td>– – из арамидов</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5603 14 100 1</td>
 <td>– – – – клеенка столовая с поливинилхлоридным покрытием на основе из нетканых материалов</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5603 94 100 1</td>
 <td>– – – – клеенка столовая с поливинилхлоридным покрытием на основе из нетканых материалов</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>5607 21 000 0</td>
+<td>– – упаковочная бечевка или шпагат</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5607 29 000 0</td>
+<td>– – прочие</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5607 49 110 0</td>
+<td>– – – – плетеные или в оплетке</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5607 49 190 0</td>
+<td>– – – – прочие</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5607 49 900 0</td>
+<td>– – – линейной плотности 50 000 дтекс (5 г/м) или менее</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5607 50 110 0</td>
+<td>– – – – плетеные или в оплетке</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5607 50 190 0</td>
+<td>– – – – прочие</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5607 50 300 0</td>
+<td>– – – линейной плотности 50 000 дтекс (5 г/м) или менее</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5607 50 900 0</td>
+<td>– – из прочих синтетических волокон</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5810 91 100 0</td>
+<td>– – – ценой более 17,50 евро/кг (нетто-масса)</td>
+<td>12,5</td>
+</tr>
+<tr>
+<td>5810 91 900 0</td>
+<td>– – – прочие</td>
+<td>12,5</td>
+</tr>
+<tr>
+<td>5810 99 100 0</td>
+<td>– – – ценой более 17,50 евро/кг (нетто-масса)</td>
+<td>12,5</td>
+</tr>
+<tr>
+<td>5810 99 900 0</td>
+<td>– – – прочие</td>
+<td>12,5</td>
+</tr>
+<tr>
+<td>5811 00 000 0</td>
+<td>Стеганые текстильные материалы в куске, состоящие из одного или нескольких слоев текстильных материалов, соединенных с мягким слоем прошиванием или другим способом, кроме вышивок товарной позиции 5810</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>5904 10 000 0</td>
 <td>– линолеум</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>5904 90 000 1</td>
 <td>– – с основой из войлока, полученного иглопробивным способом</td>
-<td>10 плюс 0,075 евро за 1 кг</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>5907 00 000 0</td>
 <td>Текстильные материалы, иным способом пропитанные или покрытые; расписанные холсты, являющиеся театральными декорациями, задниками для художественных студий, или аналогичные</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>6101 20 100 0</td>
@@ -6074,19 +7814,29 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>15, но не менее 2 евро за 1 кг</td>
 </tr>
 <tr>
+<td>6107 11 000 0</td>
+<td>– – из хлопчатобумажной пряжи</td>
+<td>13,2, но не менее 1,5 евро за 1 кг</td>
+</tr>
+<tr>
 <td>6107 29 000 0</td>
 <td>– – из прочих текстильных материалов</td>
-<td>13,8, но не менее 1,5 евро за 1 кг</td>
+<td>13,2, но не менее 1,5 евро за 1 кг</td>
+</tr>
+<tr>
+<td>6108 21 000 0</td>
+<td>– – из хлопчатобумажной пряжи</td>
+<td>13,2, но не менее 1,5 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6114 20 000 0</td>
 <td>– из хлопчатобумажной пряжи</td>
-<td>13,8, но не менее 1,5 евро за 1 кг</td>
+<td>13,2, но не менее 1,5 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6114 30 000 0</td>
 <td>– из химических нитей</td>
-<td>13,8, но не менее 1,5 евро за 1 кг</td>
+<td>13,2, но не менее 1,5 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6117 10 000 0</td>
@@ -6111,282 +7861,287 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>6201 12 100 0</td>
 <td>– – – с массой одного изделия не более 1 кг</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6201 12 900 0</td>
 <td>– – – с массой одного изделия более 1 кг</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6201 13 100 0</td>
 <td>– – – с массой одного изделия не более 1 кг</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6201 13 900 0</td>
 <td>– – – с массой одного изделия более 1 кг</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6201 19 000 0</td>
 <td>– – из прочих текстильных материалов</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6201 92 000 0</td>
 <td>– – из хлопчатобумажной пряжи</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6201 93 000 0</td>
 <td>– – из химических нитей</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6201 99 000 0</td>
 <td>– – из прочих текстильных материалов</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6202 12 100 0</td>
 <td>– – – с массой одного изделия не более 1 кг</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6202 12 900 0</td>
 <td>– – – с массой одного изделия более 1 кг</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6202 13 100 0</td>
 <td>– – – с массой одного изделия не более 1 кг</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6202 13 900 0</td>
 <td>– – – с массой одного изделия более 1 кг</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6202 19 000 0</td>
 <td>– – из прочих текстильных материалов</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6202 92 000 0</td>
 <td>– – из хлопчатобумажной пряжи</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6202 93 000 0</td>
 <td>– – из химических нитей</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 12 000 0</td>
 <td>– – из синтетических нитей</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 19 100 0</td>
 <td>– – – из хлопчатобумажной пряжи</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 22 100 0</td>
 <td>– – – производственные и профессиональные</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 22 800 0</td>
 <td>– – – прочие</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 23 800 0</td>
 <td>– – – прочие</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 29 110 0</td>
 <td>– – – – производственные и профессиональные</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 29 180 0</td>
 <td>– – – – прочие</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 29 900 0</td>
 <td>– – – из прочих текстильных материалов</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 32 100 0</td>
 <td>– – – производственные и профессиональные</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 33 100 0</td>
 <td>– – – производственные и профессиональные</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 39 110 0</td>
 <td>– – – – производственные и профессиональные</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 41 900 0</td>
 <td>– – – прочие</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 42 110 0</td>
 <td>– – – – производственные и профессиональные</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 42 310 0</td>
 <td>– – – – – из денима, или джинсовой ткани</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 42 330 0</td>
 <td>– – – – – из вельвет-корда с разрезным ворсом</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 42 350 0</td>
 <td>– – – – – прочие</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
+</tr>
+<tr>
+<td>6203 42 510 0</td>
+<td>– – – – производственные и профессиональные</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 42 590 0</td>
 <td>– – – – прочие</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 42 900 0</td>
 <td>– – – прочие</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 43 110 0</td>
 <td>– – – – производственные и профессиональные</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 43 190 0</td>
 <td>– – – – прочие</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 43 310 0</td>
 <td>– – – – производственные и профессиональные</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 49 110 0</td>
 <td>– – – – – производственные и профессиональные</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6203 49 190 0</td>
 <td>– – – – – прочие</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6204 13 000 0</td>
 <td>– – из синтетических нитей</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6204 22 100 0</td>
 <td>– – – производственные и профессиональные</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6204 22 800 0</td>
 <td>– – – прочие</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6204 23 100 0</td>
 <td>– – – производственные и профессиональные</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6204 23 800 0</td>
 <td>– – – прочие</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6204 29 110 0</td>
 <td>– – – – производственные и профессиональные</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6204 29 900 0</td>
 <td>– – – из прочих текстильных материалов</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6204 42 000 0</td>
 <td>– – из хлопчатобумажной пряжи</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6204 59 100 0</td>
 <td>– – – из искусственных нитей</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6204 62 110 0</td>
 <td>– – – – производственные и профессиональные</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6204 62 310 0</td>
 <td>– – – – – из денима, или джинсовой ткани</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6204 62 330 0</td>
 <td>– – – – – из вельвет-корда с разрезным ворсом</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6204 62 900 0</td>
 <td>– – – прочие</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6204 63 110 0</td>
 <td>– – – – производственные и профессиональные</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6204 63 180 0</td>
 <td>– – – – прочие</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6204 63 900 0</td>
 <td>– – – прочие</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6204 69 390 0</td>
 <td>– – – – – прочие</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6205 90 800 9</td>
 <td>– – – прочие</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6208 19 000 1</td>
@@ -6396,67 +8151,62 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>6211 20 000 0</td>
 <td>– лыжные костюмы</td>
-<td>13, но не менее 1,4 евро за 1 кг</td>
+<td>12, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6211 32 310 0</td>
 <td>– – – – с лицевой стороной из одного и того же материала</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6211 32 410 0</td>
 <td>– – – – – верхние части</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
-</tr>
-<tr>
-<td>6211 32 420 0</td>
-<td>– – – – – нижние части</td>
-<td>10 6</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6211 32 900 0</td>
 <td>– – – прочие</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6211 33 410 0</td>
 <td>– – – – – верхние части</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6211 33 420 0</td>
 <td>– – – – – нижние части</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6211 43 410 0</td>
 <td>– – – – – верхние части</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6211 43 420 0</td>
 <td>– – – – – нижние части</td>
-<td>13,8, но не менее 1,4 евро за 1 кг</td>
+<td>13,2, но не менее 1,4 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6212 10 900 0</td>
 <td>– – прочие</td>
-<td>13, но не менее 1,2 евро за 1 кг</td>
+<td>12, но не менее 1,2 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6212 20 000 0</td>
 <td>– пояса и пояса-трусы</td>
-<td>13, но не менее 1,2 евро за 1 кг</td>
+<td>12, но не менее 1,2 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6212 30 000 0</td>
 <td>– грации</td>
-<td>13, но не менее 1,2 евро за 1 кг</td>
+<td>12, но не менее 1,2 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6212 90 000 0</td>
 <td>– прочие</td>
-<td>13, но не менее 1,2 евро за 1 кг</td>
+<td>12, но не менее 1,2 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6213 20 000 0</td>
@@ -6471,27 +8221,27 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>6214 10 000 0</td>
 <td>– из шелковых нитей или пряжи из шелковых отходов</td>
-<td>13, но не менее 1,2 евро за 1 кг</td>
+<td>12, но не менее 1,2 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6214 20 000 0</td>
 <td>– из шерстяной пряжи или пряжи из тонкого волоса животных</td>
-<td>13, но не менее 1,2 евро за 1 кг</td>
+<td>12, но не менее 1,2 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6214 30 000 0</td>
 <td>– из синтетических нитей</td>
-<td>13, но не менее 1,2 евро за 1 кг</td>
+<td>12, но не менее 1,2 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6214 40 000 0</td>
 <td>– из искусственных нитей</td>
-<td>13, но не менее 1,2 евро за 1 кг</td>
+<td>12, но не менее 1,2 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6214 90 000 0</td>
 <td>– из прочих текстильных материалов</td>
-<td>13, но не менее 1,2 евро за 1 кг</td>
+<td>12, но не менее 1,2 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6215 10 000 0</td>
@@ -6511,177 +8261,232 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>6217 10 000 0</td>
 <td>– принадлежности</td>
-<td>13,8, но не менее 1,2 евро за 1 кг</td>
+<td>13,2, но не менее 1,2 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6217 90 000 0</td>
 <td>– части</td>
-<td>13,8, но не менее 1,2 евро за 1 кг</td>
+<td>13,2, но не менее 1,2 евро за 1 кг</td>
 </tr>
 <tr>
 <td>6301 20 100 0</td>
 <td>– – трикотажные машинного или ручного вязания</td>
-<td>15</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>6301 20 900 9</td>
 <td>– – – прочие</td>
-<td>15</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>6301 30 100 0</td>
 <td>– – трикотажные машинного или ручного вязания</td>
-<td>15</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>6301 40 100 0</td>
 <td>– – трикотажные машинного или ручного вязания</td>
-<td>15</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>6301 40 900 0</td>
 <td>– – прочие</td>
-<td>15</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>6301 90 100 0</td>
 <td>– – трикотажные машинного или ручного вязания</td>
-<td>15</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>6301 90 900 0</td>
 <td>– – прочие</td>
-<td>15</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>6302 10 000 9</td>
 <td>– – из прочих текстильных материалов</td>
-<td>14,7</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6302 21 000 0</td>
+<td>– – из хлопчатобумажной пряжи</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 22 100 0</td>
 <td>– – – из нетканых материалов</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 22 900 0</td>
 <td>– – – прочее</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 29 100 0</td>
 <td>– – – из льняной пряжи или из волокна рами</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 29 900 0</td>
 <td>– – – из прочих текстильных материалов</td>
-<td>14,7</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6302 31 000 1</td>
+<td>– – – в смеси со льном</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6302 32 100 0</td>
+<td>– – – из нетканых материалов</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 32 900 0</td>
 <td>– – – прочее</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 39 200 1</td>
 <td>– – – – из льняной пряжи</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 39 200 9</td>
 <td>– – – – из волокна рами</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 40 000 0</td>
 <td>– белье столовое трикотажное машинного или ручного вязания</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 51 000 1</td>
 <td>– – – в смеси со льном</td>
-<td>14,7</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6302 51 000 9</td>
+<td>– – – прочее</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 53 100 0</td>
 <td>– – – из нетканых материалов</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 53 900 0</td>
 <td>– – – прочее</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 59 900 0</td>
 <td>– – – прочее</td>
-<td>14,7</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6302 60 000 0</td>
+<td>– белье туалетное и кухонное из махровых полотенечных тканей или аналогичных тканых махровых материалов, из хлопчатобумажной пряжи</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 91 000 0</td>
 <td>– – из хлопчатобумажной пряжи</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 93 100 0</td>
 <td>– – – из нетканых материалов</td>
-<td>14,7</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6302 93 900 0</td>
+<td>– – – прочее</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 99 100 0</td>
 <td>– – – из льняной пряжи</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6303 12 000 0</td>
 <td>– – из синтетических нитей</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6303 19 000 0</td>
 <td>– – из прочих текстильных материалов</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6303 99 100 0</td>
 <td>– – – из нетканых материалов</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6304 11 000 0</td>
 <td>– – трикотажные машинного или ручного вязания</td>
-<td>14,7</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6304 19 100 0</td>
+<td>– – – из хлопчатобумажной пряжи</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6304 19 300 0</td>
 <td>– – – из льняной пряжи или из волокна рами</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6304 19 900 0</td>
 <td>– – – из прочих текстильных материалов</td>
-<td>14,7</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6306 29 000 1</td>
+<td>– – – из хлопчатобумажной пряжи</td>
+<td>14</td>
+</tr>
+<tr>
+<td>6306 30 000 0</td>
+<td>– паруса</td>
+<td>12,5</td>
+</tr>
+<tr>
+<td>6306 40 000 0</td>
+<td>– матрацы надувные</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>6310 10 000 1</td>
 <td>– – из шерстяной пряжи или пряжи из тонкого или грубого волоса животных</td>
-<td>16,8</td>
+<td>15,2</td>
 </tr>
 <tr>
 <td>6310 10 000 2</td>
 <td>– – из льняной или хлопчатобумажной пряжи</td>
-<td>16,8</td>
+<td>15,2</td>
 </tr>
 <tr>
 <td>6401 92 100 0</td>
 <td>– – – с верхом из резины</td>
-<td>16, но не менее 0,62 евро за 1 пару</td>
+<td>14, но не менее 0,58 евро за 1 пару</td>
 </tr>
 <tr>
 <td>6404 19 100 0</td>
 <td>– – – комнатные туфли и прочая домашняя обувь</td>
 <td>0,52 евро за 1 пару</td>
+</tr>
+<tr>
+<td>6602 00 000 0</td>
+<td>Трости, трости-сиденья, хлысты, кнуты для верховой езды и аналогичные изделия</td>
+<td>14</td>
 </tr>
 <tr>
 <td>6704 20 000 0</td>
@@ -6691,192 +8496,262 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>6802 10 000 0</td>
 <td>– плитки, кубики и аналогичные изделия, прямоугольной или непрямоугольной (включая квадратную) формы, наибольшая грань которых может быть вписана в квадрат со стороной размером менее 7 см; гранулы, крошка и порошок, искусственно окрашенные</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6802 29 000 1</td>
 <td>– – – известняки прочие</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6802 29 000 9</td>
+<td>– – – прочие</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6802 92 000 0</td>
 <td>– – известняки прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6802 99 100 0</td>
 <td>– – – полированные, декорированные или прошедшие прочую обработку, кроме резных, нетто-массой 10 кг или более</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6802 99 900 0</td>
+<td>– – – прочие</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6803 00 100 0</td>
 <td>– материалы для кровли и стен</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6803 00 900 0</td>
 <td>– прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6804 10 000 0</td>
 <td>– жернова и камни точильные для шлифовки, заточки или измельчения</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6804 22 120 0</td>
 <td>– – – – – неармированные</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6804 22 300 0</td>
 <td>– – – – из керамических или силикатных материалов</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6804 22 500 0</td>
 <td>– – – – из прочих материалов</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6804 22 900 0</td>
 <td>– – – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6804 23 000 0</td>
 <td>– – из природного камня</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6804 30 000 0</td>
 <td>– камни для ручной заточки или полировки</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6808 00 000 0</td>
 <td>Панели, плиты, плитки, блоки и аналогичные изделия из растительных волокон, соломы или стружки, щепок, частиц, опилок или других древесных отходов, агломерированных с цементом, гипсом или прочими минеральными связующими веществами</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6810 11 100 0</td>
 <td>– – – из облегченного бетона (с основой из битой пемзы, гранулированного шлака и т.д.)</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6810 11 900 0</td>
 <td>– – – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6810 91 000 0</td>
 <td>– – сборные строительные блоки для строительства, включая жилищное</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6810 99 000 0</td>
+<td>– – прочие</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6811 40 000 1</td>
 <td>– – гофрированные листы; трубы, трубки и фитинги к ним</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6811 40 000 2</td>
+<td>– – прочие листы, панели, плитки и аналогичные изделия</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6811 82 000 0</td>
+<td>– – прочие листы, панели, плитки и аналогичные изделия</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6811 89 000 1</td>
 <td>– – – трубы, трубки и фитинги к ним</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6812 80 100 0</td>
 <td>– – волокно обработанное; смеси на основе крокидолита или крокидолита и карбоната магния</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6812 80 900 1</td>
 <td>– – – пряжа и нити; веревки и шнуры, плетеные или неплетеные; ткани и трикотажные материалы; одежда, принадлежности одежды, обувь и головные уборы; бумага, толстый картон и войлок или фетр; уплотнительный материал из прессованного крокидолитового волокна в листах или рулонах</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6812 80 900 2</td>
 <td>– – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>6812 80 900 9</td>
 <td>– – – – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6812 92 000 0</td>
 <td>– – бумага, толстый картон и войлок или фетр</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6812 93 000 0</td>
 <td>– – уплотнительный материал из прессованного асбестового волокна в листах или рулонах</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6812 99 100 0</td>
 <td>– – – волокно асбестовое обработанное; смеси на основе асбеста или асбеста и карбоната магния</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6812 99 900 1</td>
 <td>– – – – пряжа и нити; веревки и шнуры, плетеные или неплетеные; ткани и трикотажные материалы</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6812 99 900 2</td>
 <td>– – – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>6812 99 900 9</td>
 <td>– – – – – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6813 20 000 1</td>
 <td>– – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>6813 20 000 9</td>
+<td>– – прочие</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6813 81 000 1</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>6813 81 000 9</td>
+<td>– – – прочие</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6813 89 000 1</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>6813 89 000 9</td>
 <td>– – – прочие</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6815 10 900 1</td>
+<td>– – – блоки углеродные для футеровки доменных печей</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6815 10 900 8</td>
+<td>– – – прочие</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6902 10 000 0</td>
 <td>– содержащие более 50 мас.% элементов Mg, Ca или Cr, взятых отдельно или вместе, в пересчете на MgO, СаО или Сr2О3</td>
-<td>9,6</td>
+<td>9,4</td>
 </tr>
 <tr>
 <td>6902 20 100 0</td>
 <td>– – содержащие 93 мас.% или более кремнезема (SiO2)</td>
-<td>9,6</td>
+<td>9,4</td>
 </tr>
 <tr>
 <td>6902 20 910 0</td>
 <td>– – – содержащие более 7 мас.%, но менее 45 мас.% глинозема (Al2O3)</td>
-<td>9,6</td>
+<td>9,4</td>
 </tr>
 <tr>
 <td>6902 20 990 0</td>
 <td>– – – прочие</td>
-<td>9,6</td>
+<td>9,4</td>
 </tr>
 <tr>
 <td>6902 90 000 0</td>
 <td>– прочие</td>
-<td>9,6</td>
+<td>9,4</td>
+</tr>
+<tr>
+<td>6903 90 100 0</td>
+<td>– – содержащие более 25 мас.%, но не более 50 мас.% графита или других форм углерода, или их смеси</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6912 00 210 0</td>
+<td>– – из грубой керамики</td>
+<td>14</td>
+</tr>
+<tr>
+<td>6912 00 230 0</td>
+<td>– – каменная керамика</td>
+<td>14</td>
+</tr>
+<tr>
+<td>6912 00 810 0</td>
+<td>– – из грубой керамики</td>
+<td>14</td>
+</tr>
+<tr>
+<td>6912 00 830 0</td>
+<td>– – каменная керамика</td>
+<td>14</td>
 </tr>
 <tr>
 <td>6913 10 000 0</td>
@@ -6886,12 +8761,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>7001 00 910 0</td>
 <td>– – оптическое стекло</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7001 00 990 0</td>
 <td>– – прочее</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7002 10 000 0</td>
@@ -6901,22 +8776,22 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>7002 20 100 0</td>
 <td>– – из оптического стекла</td>
-<td>13</td>
+<td>12 6</td>
 </tr>
 <tr>
 <td>7002 20 900 0</td>
 <td>– – прочие</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7002 31 000 0</td>
 <td>– – из плавленого кварца или других плавленых кремнеземов</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7002 32 000 0</td>
-<td>– – из прочего стекла с коэффициентом линейного расширения не более 5 х 10-6 на K в интервале температур от 0 ºС до 300 ºС</td>
-<td>13</td>
+<td>– – из прочего стекла с коэффициентом линейного расширения не более 5 х 10-6 на K в интервале температур от 0 oС до 300 oС</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7003 12 100 0</td>
@@ -6926,212 +8801,222 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>7003 19 100 0</td>
 <td>– – – из оптического стекла</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7004 20 100 0</td>
 <td>– – оптическое стекло</td>
-<td>12,2</td>
+<td>10,8</td>
+</tr>
+<tr>
+<td>7004 90 100 0</td>
+<td>– – оптическое стекло</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7007 21 800 9</td>
 <td>– – – – прочее</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7010 90 100 9</td>
 <td>– – – прочие</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 210 0</td>
 <td>– – – изготовленные из стеклянных трубок</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 310 0</td>
 <td>– – – – 2,5 л и более</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 410 0</td>
 <td>– – – – – – – – 1 л или более</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 450 0</td>
 <td>– – – – – – – – 0,15 л или более, но не более 0,33 л</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 510 0</td>
 <td>– – – – – – – – 1 л или более</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 550 0</td>
 <td>– – – – – – – – 0,15 л или более, но не более 0,33 л</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 610 1</td>
 <td>– – – – – – – – 0,25 л или более, но не более 0,33 л</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 610 9</td>
 <td>– – – – – – – – прочие</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 910 1</td>
 <td>– – – – – – – номинальной вместимостью более 0,33 л</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 910 2</td>
 <td>– – – – – – – номинальной вместимостью более 0,15 л, но не более 0,33 л</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 990 1</td>
 <td>– – – – – – – номинальной вместимостью более 0,33 л</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 990 2</td>
 <td>– – – – – – – номинальной вместимостью более 0,15 л, но не более 0,33 л</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7011 10 000 0</td>
 <td>– для электрического осветительного оборудования</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7011 90 000 0</td>
 <td>– прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7014 00 000 0</td>
 <td>Стеклянные изделия для сигнальных устройств и оптические элементы из стекла (кроме включенных в товарную позицию 7015) без оптической обработки</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7015 90 000 0</td>
 <td>– прочие</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7016 90 400 1</td>
 <td>– – – из ячеистого стекла или пеностекла</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7016 90 700 1</td>
 <td>– – – ячеистое стекло или пеностекло</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7017 10 000 0</td>
 <td>– из плавленого кварца или других плавленых кремнеземов</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7018 10 110 0</td>
 <td>– – – резаные и полированные механически</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7018 10 190 0</td>
 <td>– – – прочие</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7018 10 300 0</td>
 <td>– – изделия, имитирующие жемчуг</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7018 10 510 0</td>
 <td>– – – резаные и полированные механически</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7018 10 590 0</td>
 <td>– – – прочие</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7018 10 900 0</td>
 <td>– – прочие</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7018 20 000 0</td>
 <td>– микросферы стеклянные диаметром не более 1 мм</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7018 90 100 0</td>
 <td>– – глаза стеклянные; изделия в виде небольших форм из стекла</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7018 90 900 0</td>
 <td>– – прочие</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7019 11 000 0</td>
 <td>– – штапелированное волокно длиной не более 50 мм</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>7019 12 000 0</td>
 <td>– – ровница</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>7019 19 100 1</td>
 <td>– – – – ленты</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7019 19 100 9</td>
 <td>– – – – прочие</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>7019 19 900 1</td>
 <td>– – – – ленты</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7019 19 900 9</td>
 <td>– – – – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7019 31 000 0</td>
 <td>– – маты</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7019 32 000 9</td>
+<td>– – – прочие</td>
+<td>9</td>
 </tr>
 <tr>
 <td>7019 39 000 8</td>
 <td>– – – – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7019 90 000 1</td>
 <td>– – нетекстильные волокна навалом или в пучках</td>
-<td>7,5</td>
+<td>6,3</td>
 </tr>
 <tr>
 <td>7020 00 080 0</td>
 <td>– – завершенные в производстве</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7102 39 000 0</td>
@@ -7141,62 +9026,52 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>7103 91 000 0</td>
 <td>– – рубины, сапфиры и изумруды</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7107 00 000 0</td>
 <td>Металлы недрагоценные, плакированные серебром, полуобработанные, без дальнейшей обработки</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7108 13 100 0</td>
 <td>– – – прутки, проволока и профили; пластины; листы и полосы или ленты толщиной более 0,15 мм, не считая любой основы</td>
-<td>11,8</td>
+<td>10,2</td>
 </tr>
 <tr>
 <td>7108 13 800 0</td>
 <td>– – – прочее</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7110 11 000 1</td>
 <td>– – – в слитках с содержанием не менее 999,5 частей платины на 1000 частей сплава</td>
-<td>8</td>
-</tr>
-<tr>
-<td>7110 11 000 9</td>
-<td>– – – прочая</td>
-<td>85</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7110 19 100 0</td>
 <td>– – – прутки, проволока и профили; пластины; листы и полосы или ленты толщиной более 0,15 мм, не считая любой основы</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7110 19 800 1</td>
 <td>– – – – трубы, трубки и пустотелые болванки; тонкие листы и полосы (фольга) толщиной не более 0,15 мм, не считая любой основы</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7110 19 800 9</td>
 <td>– – – – прочая</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7110 21 000 1</td>
 <td>– – – в слитках с содержанием не менее 999,5 частей палладия на 1000 частей сплава</td>
-<td>8</td>
-</tr>
-<tr>
-<td>7110 21 000 9</td>
-<td>– – – прочий</td>
-<td>85</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7111 00 000 0</td>
 <td>Металлы недрагоценные, серебро или золото, плакированные платиной, необработанные или полуобработанные</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7113 19 000 0</td>
@@ -7221,477 +9096,487 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>7117 90 000 0</td>
 <td>– прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7118 10 000 0</td>
 <td>– монеты (кроме золотых), не являющиеся законным платежным средством</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7118 90 000 0</td>
 <td>– прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7205 29 000 0</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 11 110 0</td>
 <td>– – – – из автоматной стали</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 11 900 0</td>
 <td>– – – кованые</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 12 900 0</td>
 <td>– – – кованые</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 19 120 0</td>
 <td>– – – – катаные или полученные непрерывным литьем</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7207 19 190 0</td>
 <td>– – – – кованые</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 19 800 0</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 20 110 0</td>
 <td>– – – – из автоматной стали</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7207 20 150 0</td>
 <td>– – – – – 0,25 мас.% или более, но менее 0,6 мас.% углерода</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 20 170 0</td>
 <td>– – – – – 0,6 мас.% или более углерода</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 20 190 0</td>
 <td>– – – кованые</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 20 320 0</td>
 <td>– – – катаные или полученные непрерывным литьем</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 20 390 0</td>
 <td>– – – кованые</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 20 520 0</td>
 <td>– – – катаные или полученные непрерывным литьем</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7207 20 590 0</td>
 <td>– – – кованые</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7210 12 800 0</td>
 <td>– – – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7210 70 100 0</td>
 <td>– – белая жесть и изделия с гальваническим или другим покрытием оксидами хрома или хромом и оксидами хрома, лакированные</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7210 70 800 0</td>
 <td>– – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7210 90 300 0</td>
 <td>– – плакированный</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7210 90 800 0</td>
 <td>– – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7212 10 900 0</td>
 <td>– – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7212 40 200 0</td>
 <td>– – белая жесть, без дальнейшей обработки, кроме покрытия лаком; с гальваническим или другим покрытием оксидами хрома или хромом и оксидами хрома, лакированный</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7212 40 800 0</td>
 <td>– – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7212 60 000 0</td>
 <td>– плакированный</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7213 20 000 0</td>
 <td>– из автоматной стали прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7214 30 000 0</td>
 <td>– из автоматной стали прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7218 10 000 9</td>
 <td>– – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7218 91 100 0</td>
 <td>– – – содержащая 2,5 мас.% или более никеля</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7218 91 800 0</td>
 <td>– – – содержащая менее 2,5 мас.% никеля</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7218 99 110 0</td>
 <td>– – – – катаная или полученная непрерывным литьем</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7218 99 190 0</td>
 <td>– – – – кованая</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7218 99 200 0</td>
 <td>– – – – катаная или полученная непрерывным литьем</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7218 99 800 0</td>
 <td>– – – – кованая</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 11 000 0</td>
 <td>– – толщиной более 10 мм</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 12 100 0</td>
 <td>– – – содержащий 2,5 мас.% или более никеля</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 12 900 0</td>
 <td>– – – содержащий менее 2,5 мас.% никеля</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 13 100 0</td>
 <td>– – – содержащий 2,5 мас.% или более никеля</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 13 900 0</td>
 <td>– – – содержащий менее 2,5 мас.% никеля</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 14 100 0</td>
 <td>– – – содержащий 2,5 мас.% или более никеля</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 14 900 0</td>
 <td>– – – содержащий менее 2,5 мас.% никеля</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 21 100 9</td>
 <td>– – – – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 21 900 0</td>
 <td>– – – содержащий менее 2,5 мас.% никеля</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 22 100 9</td>
 <td>– – – – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 24 000 9</td>
 <td>– – – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 31 000 0</td>
 <td>– – толщиной 4,75 мм или более</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 32 100 9</td>
 <td>– – – – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 32 900 0</td>
 <td>– – – содержащий менее 2,5 мас.% никеля</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 33 100 9</td>
 <td>– – – – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 33 900 0</td>
 <td>– – – содержащий менее 2,5 мас.% никеля</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 34 100 9</td>
 <td>– – – – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 34 900 9</td>
 <td>– – – – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 35 100 0</td>
 <td>– – – содержащий 2,5 мас.% или более никеля</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 35 900 0</td>
 <td>– – – содержащий менее 2,5 мас.% никеля</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 90 200 0</td>
 <td>– – перфорированный</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 90 800 9</td>
 <td>– – – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 11 000 9</td>
 <td>– – – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 12 000 0</td>
 <td>– – толщиной менее 4,75 мм</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 20 210 0</td>
 <td>– – – 2,5 мас.% или более никеля</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 20 290 0</td>
 <td>– – – менее 2,5 мас.% никеля</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 20 410 0</td>
 <td>– – – 2,5 мас.% или более никеля</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 20 490 9</td>
 <td>– – – – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 20 810 9</td>
 <td>– – – – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 20 890 0</td>
 <td>– – – менее 2,5 мас.% никеля</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 90 200 0</td>
 <td>– – перфорированный</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 90 800 9</td>
 <td>– – – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7224 10 100 0</td>
 <td>– – из инструментальной стали</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7224 10 900 0</td>
 <td>– – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7224 90 020 0</td>
 <td>– – из инструментальной стали</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7224 90 030 0</td>
 <td>– – – – – – из быстрорежущей стали</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7224 90 180 0</td>
 <td>– – – – кованая</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7224 90 310 0</td>
 <td>– – – – – содержащая не менее 0,9 мас.%, но не более 1,15 мас.% углерода, не менее 0,5 мас.%, но не более 2 мас.% хрома и, если содержится, не более 0,5 мас.% молибдена</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7224 90 380 0</td>
 <td>– – – – – прочая</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 11 000 0</td>
 <td>– – текстурированной с ориентированным зерном</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 19 100 0</td>
 <td>– – – горячекатаный</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 19 900 0</td>
 <td>– – – холоднокатаный</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 30 100 0</td>
 <td>– – из инструментальной стали</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 40 120 9</td>
 <td>– – – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 50 200 0</td>
 <td>– – из быстрорежущей стали</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 50 800 0</td>
 <td>– – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 91 000 0</td>
 <td>– – электролитически оцинкованный</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 92 000 0</td>
 <td>– – оцинкованный иным способом</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 99 000 0</td>
 <td>– – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 11 000 0</td>
 <td>– – текстурированной с ориентированным зерном</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 19 100 0</td>
 <td>– – – без дальнейшей обработки, кроме горячей прокатки</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 19 800 0</td>
 <td>– – – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 20 000 0</td>
 <td>– из стали быстрорежущей</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 91 200 0</td>
 <td>– – – из инструментальной стали</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 91 990 0</td>
 <td>– – – – толщиной менее 4,75 мм</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 99 100 0</td>
 <td>– – – электролитически оцинкованный</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 99 300 0</td>
 <td>– – – оцинкованный иным способом</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 99 700 0</td>
 <td>– – – прочий</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7229 20 000 0</td>
 <td>– из стали кремнемарганцовистой</td>
-<td>1,7</td>
+<td>0</td>
+</tr>
+<tr>
+<td>7304 11 000 5</td>
+<td>– – – – наружным диаметром не более 406,4 мм</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 19 100 9</td>
+<td>– – – – прочие</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7304 22 000 9</td>
@@ -7729,39 +9614,74 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>5</td>
 </tr>
 <tr>
+<td>7304 31 200 8</td>
+<td>– – – – – прочие</td>
+<td>7</td>
+</tr>
+<tr>
 <td>7304 31 800 9</td>
 <td>– – – – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7304 39 100 0</td>
 <td>– – – необработанные, прямые, с равномерной толщиной стенки для использования исключительно в производстве труб другого сечения и с другой толщиной стенки</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7304 39 520 9</td>
 <td>– – – – – – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7304 39 580 9</td>
 <td>– – – – – – прочие</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 39 920 9</td>
+<td>– – – – – – прочие</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 39 930 0</td>
+<td>– – – – – более 168,3 мм, но не более 406,4 мм</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 39 980 1</td>
+<td>– – – – – – наружным диаметром более 421 мм и толщиной стенки более 10,5 мм</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 41 000 8</td>
+<td>– – – – прочие</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7304 49 100 0</td>
 <td>– – – необработанные, прямые, с равномерной толщиной стенки для использования исключительно в производстве труб другого сечения и с другой толщиной стенки</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 49 930 9</td>
+<td>– – – – – прочие</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 49 950 9</td>
+<td>– – – – – прочие</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7304 51 120 0</td>
 <td>– – – – не более 0,5 м</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7304 51 180 0</td>
 <td>– – – – более 0,5 м</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7304 51 810 9</td>
@@ -7771,7 +9691,42 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>7304 51 890 9</td>
 <td>– – – – – прочие</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 59 100 0</td>
+<td>– – – необработанные, прямые, с равномерной толщиной стенки для использования исключительно в производстве труб другого сечения и с другой толщиной стенки</td>
+<td>9</td>
+</tr>
+<tr>
+<td>7304 59 320 0</td>
+<td>– – – – не более 0,5 м</td>
+<td>9</td>
+</tr>
+<tr>
+<td>7304 59 380 0</td>
+<td>– – – – более 0,5 м</td>
+<td>9</td>
+</tr>
+<tr>
+<td>7304 59 920 9</td>
+<td>– – – – – прочие</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 59 930 0</td>
+<td>– – – – наружным диаметром более 168,3 мм, но не более 406,4 мм</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 90 000 9</td>
+<td>– – прочие</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7305 11 000 8</td>
+<td>– – – прочие</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7305 20 000 0</td>
@@ -7781,22 +9736,22 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>7305 39 000 0</td>
 <td>– – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7305 90 000 0</td>
 <td>– прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 11 100 0</td>
 <td>– – – сварные прямошовные</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 19 100 0</td>
 <td>– – – сварные прямошовные</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 21 000 0</td>
@@ -7811,37 +9766,52 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>7306 30 190 9</td>
 <td>– – – – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 30 410 9</td>
 <td>– – – – – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 30 490 9</td>
 <td>– – – – – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 30 720 9</td>
 <td>– – – – – – прочие</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7306 30 800 0</td>
+<td>– – – – более 168,3 мм, но не более 406,4 мм</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 40 200 1</td>
 <td>– – – с присоединенными фитингами, пригодные для подачи газов или жидкостей, для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7306 40 200 9</td>
+<td>– – – прочие</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 40 800 2</td>
 <td>– – – – с присоединенными фитингами, пригодные для подачи газов или жидкостей, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7306 40 800 8</td>
+<td>– – – – прочие</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 50 200 1</td>
 <td>– – – с присоединенными фитингами, пригодные для подачи газов или жидкостей, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7306 50 200 9</td>
@@ -7851,7 +9821,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>7306 50 800 1</td>
 <td>– – – с присоединенными фитингами, пригодные для подачи газов или жидкостей, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7306 50 800 9</td>
@@ -7861,62 +9831,77 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>7306 61 100 1</td>
 <td>– – – – с присоединенными фитингами, пригодные для подачи газов или жидкостей, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7306 61 100 9</td>
+<td>– – – – прочие</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 61 920 1</td>
 <td>– – – – – с присоединенными фитингами, пригодные для подачи газов или жидкостей, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7306 61 920 9</td>
+<td>– – – – – прочие</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 61 990 1</td>
 <td>– – – – – с присоединенными фитингами, пригодные для подачи газов или жидкостей, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7306 69 100 1</td>
 <td>– – – – с присоединенными фитингами, пригодные для подачи газов или жидкостей, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7306 69 100 9</td>
 <td>– – – – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 69 900 1</td>
 <td>– – – – с присоединенными фитингами, пригодные для подачи газов или жидкостей, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7306 69 900 9</td>
 <td>– – – – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7307 22 100 0</td>
 <td>– – – сгоны</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7307 22 900 0</td>
 <td>– – – колена и отводы</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7307 92 100 0</td>
 <td>– – – сгоны</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7307 92 900 0</td>
 <td>– – – колена и отводы</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7308 40 000 9</td>
+<td>– – прочие</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7309 00 100 0</td>
 <td>– для газов (кроме сжатого или сжиженного газа)</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7310 21 110 1</td>
@@ -7931,57 +9916,62 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>7312 10 200 1</td>
 <td>– – – с присоединенными фитингами или собранные в изделия, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 410 1</td>
 <td>– – – – – с присоединенными фитингами или собранные в изделия, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7312 10 410 9</td>
+<td>– – – – – прочие</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7312 10 490 1</td>
 <td>– – – – – с присоединенными фитингами или собранные в изделия, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 490 9</td>
 <td>– – – – – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7312 10 610 1</td>
 <td>– – – – – – с присоединенными фитингами или собранная в изделия, предназначенная для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 610 9</td>
 <td>– – – – – – прочая</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7312 10 650 0</td>
 <td>– – – – – – оцинкованная</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 690 1</td>
 <td>– – – – – – – с присоединенными фитингами или собранная в изделия, предназначенная для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 690 9</td>
 <td>– – – – – – – прочая</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7312 10 810 1</td>
 <td>– – – – – – – без покрытия</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 810 4</td>
 <td>– – – – – – – – с присоединенными фитингами или собранные в изделия, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 810 8</td>
@@ -7991,12 +9981,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>7312 10 830 1</td>
 <td>– – – – – – – без покрытия</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 830 4</td>
 <td>– – – – – – – – с присоединенными фитингами или собранные в изделия, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 830 8</td>
@@ -8006,12 +9996,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>7312 10 850 1</td>
 <td>– – – – – – – без покрытия</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 850 4</td>
 <td>– – – – – – – – с присоединенными фитингами или собранные в изделия, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 850 8</td>
@@ -8021,12 +10011,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>7312 10 890 1</td>
 <td>– – – – – – – без покрытия</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 890 4</td>
 <td>– – – – – – – – с присоединенными фитингами или собранные в изделия, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 890 8</td>
@@ -8036,7 +10026,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>7312 10 980 1</td>
 <td>– – – – – – с присоединенными фитингами или собранные в изделия, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 980 9</td>
@@ -8051,142 +10041,172 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>7314 42 000 0</td>
 <td>– – покрытые пластмассой</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7314 49 000 0</td>
 <td>– – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7314 50 000 0</td>
 <td>– просечно-вытяжной лист</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7317 00 800 1</td>
 <td>– – кнопки чертежные</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7317 00 800 9</td>
 <td>– – прочие</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7322 90 000 1</td>
 <td>– – воздухонагреватели и распределители горячего воздуха (исключая их части), предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7324 10 000 1</td>
 <td>– – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7324 90 000 1</td>
 <td>– – оборудование санитарно-техническое (исключая его части), предназначенное для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7326 20 000 1</td>
+<td>– – небольшие клетки и вольеры</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7326 20 000 2</td>
 <td>– – корзины проволочные</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7326 20 000 3</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7326 90 920 2</td>
+<td>– – – – – табакерки, портсигары, пудреницы, коробочки для косметики и аналогичные карманные изделия</td>
+<td>9</td>
+</tr>
+<tr>
+<td>7326 90 940 9</td>
+<td>– – – – прочие</td>
+<td>9</td>
+</tr>
+<tr>
+<td>7326 90 960 0</td>
+<td>– – – спеченные</td>
+<td>9</td>
+</tr>
+<tr>
+<td>7326 90 980 4</td>
+<td>– – – – – табакерки, портсигары, пудреницы, коробочки для косметики и аналогичные карманные изделия</td>
+<td>9</td>
 </tr>
 <tr>
 <td>7413 00 000 1</td>
 <td>– из рафинированной меди</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7505 11 000 0</td>
 <td>– – из никеля нелегированного</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7505 12 000 9</td>
 <td>– – – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7505 21 000 0</td>
 <td>– – из никеля нелегированного</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7505 22 000 0</td>
 <td>– – из никелевых сплавов</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7506 10 000 0</td>
 <td>– из никеля нелегированного</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7506 20 000 9</td>
 <td>– – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7507 11 000 0</td>
 <td>– – из никеля нелегированного</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7507 20 000 9</td>
 <td>– – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7606 11 930 0</td>
 <td>– – – – не менее 3 мм, но менее 6 мм</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7606 12 200 1</td>
 <td>– – – – полосы для жалюзи</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7606 12 920 1</td>
 <td>– – – – – полосы для жалюзи</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7607 19 900 1</td>
 <td>– – – – самоклеящаяся</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7608 10 000 1</td>
 <td>– – с присоединенными фитингами, пригодные для подачи газов или жидкостей, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7608 20 200 1</td>
 <td>– – – с присоединенными фитингами, пригодные для подачи газов или жидкостей, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7608 20 810 4</td>
 <td>– – – – – с присоединенными фитингами, пригодные для подачи газов или жидкостей, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7608 20 890 3</td>
 <td>– – – – – с присоединенными фитингами, пригодные для подачи газов или жидкостей, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7610 90 100 0</td>
 <td>– – мосты и их секции, башни и решетчатые мачты</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7612 90 800 1</td>
+<td>– – – емкости жесткие цилиндрические вместимостью не более 1 л</td>
+<td>16,2 или 13,2 евро за 1000 шт в зависимости, что ниже</td>
 </tr>
 <tr>
 <td>8002 00 000 0</td>
@@ -8196,137 +10216,147 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8101 10 000 0</td>
 <td>– порошки</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8101 94 000 0</td>
 <td>– – вольфрам необработанный, включая прутки, изготовленные простым спеканием</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8102 10 000 0</td>
 <td>– порошки</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8102 94 000 0</td>
 <td>– – молибден необработанный, включая прутки, изготовленные простым спеканием</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8104 19 000 0</td>
 <td>– – прочий</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 20 000 1</td>
 <td>– – – с содержанием титана не менее 99,56 мас.%, в кусках, рассеянных на фракции от 12 + 2 мм до 70 + 12 мм</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 20 000 3</td>
 <td>– – – прочий</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 20 000 5</td>
 <td>– – порошки</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 20 000 6</td>
 <td>– – слитки</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 20 000 7</td>
 <td>– – слябы</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 20 000 9</td>
 <td>– – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 90 300 9</td>
 <td>– – – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 90 500 9</td>
 <td>– – – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 90 600 8</td>
 <td>– – – – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 90 900 9</td>
 <td>– – – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8109 20 000 0</td>
 <td>– цирконий необработанный; порошки</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8112 12 000 0</td>
 <td>– – необработанный; порошки</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8112 19 000 0</td>
 <td>– – прочий</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8112 21 100 0</td>
 <td>– – – сплавы, содержащие более 10 мас.% никеля</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8112 21 900 0</td>
 <td>– – – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8112 29 000 0</td>
 <td>– – прочий</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8112 99 700 9</td>
 <td>– – – – ванадий</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8301 10 000 0</td>
 <td>– замки висячие</td>
-<td>14,8</td>
+<td>12,2</td>
+</tr>
+<tr>
+<td>8301 20 000 9</td>
+<td>– – прочие</td>
+<td>12,2</td>
 </tr>
 <tr>
 <td>8301 50 000 0</td>
 <td>– задвижки и рамки с задвижками, объединенные с замками</td>
-<td>14,8</td>
+<td>12,2</td>
 </tr>
 <tr>
 <td>8301 60 000 9</td>
 <td>– – прочие</td>
-<td>14,8</td>
+<td>12,2</td>
 </tr>
 <tr>
 <td>8301 70 000 0</td>
 <td>– ключи, поставляемые отдельно</td>
-<td>14,8</td>
+<td>12,2</td>
+</tr>
+<tr>
+<td>8302 60 000 1</td>
+<td>– – для промышленной сборки моторных транспортных средств товарных позиций 8701 – 8705, их узлов и агрегатов5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8307 90 000 1</td>
 <td>– – с присоединенными фитингами, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8309 10 000 0</td>
@@ -8356,402 +10386,427 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8407 10 000 1</td>
 <td>– – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8407 10 000 2</td>
 <td>– – для установки на разведывательно-ударные беспилотные летательные аппараты14)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8407 10 000 3</td>
 <td>– – – со взлетной мощностью не более 200 кВт</td>
-<td>35</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8407 10 000 7</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8407 29 000 0</td>
 <td>– – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8408 90 210 0</td>
 <td>– – для рельсового транспорта</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 270 1</td>
 <td>– – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 270 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 410 1</td>
 <td>– – – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 410 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 430 1</td>
 <td>– – – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 430 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 450 1</td>
 <td>– – – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 450 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 470 1</td>
 <td>– – – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 470 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 610 1</td>
 <td>– – – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 610 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8408 90 650 0</td>
+<td>– – – – более 200 кВт, но не более 300 кВт</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 670 0</td>
 <td>– – – – более 300 кВт, но не более 500 кВт</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 810 1</td>
 <td>– – – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 810 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 850 0</td>
 <td>– – – – более 1000 кВт, но не более 5000 кВт</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 890 0</td>
 <td>– – – – более 5000 кВт</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8411 11 000 1</td>
+<td>– – – для гражданских воздушных судов5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 11 000 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8411 12 100 1</td>
+<td>– – – – для гражданских воздушных судов5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 100 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 300 3</td>
 <td>– – – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 300 4</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 300 5</td>
 <td>– – – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 300 6</td>
 <td>– – – – – прочие</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8411 12 300 7</td>
-<td>– – – – – – тягой более 110 кН, но не более 132 кН для производства гражданских воздушных судов5)</td>
-<td>35</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 300 8</td>
 <td>– – – – – – прочие5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 300 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8411 12 800 1</td>
-<td>– – – – – тягой более 132 кН, но не более 145 кН для производства гражданских воздушных судов5)</td>
-<td>35</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 800 2</td>
 <td>– – – – – прочие5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 800 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 21 000 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8411 22 200 2</td>
+<td>– – – – – для гражданских воздушных судов5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 22 200 3</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8411 22 200 4</td>
+<td>– – – – – для гражданских воздушных судов5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 22 200 8</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8411 22 800 1</td>
+<td>– – – – для гражданских воздушных судов5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 22 800 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 81 000 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 82 200 8</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8411 82 600 8</td>
+<td>– – – – прочие</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 82 800 1</td>
 <td>– – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 82 800 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 91 000 8</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 99 001 1</td>
 <td>– – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8411 99 009 2</td>
+<td>– – – – – для изготовления газовых турбин мощностью более 50 000 кВт5)</td>
+<td>2 6</td>
 </tr>
 <tr>
 <td>8411 99 009 8</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 10 000 1</td>
 <td>– – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 10 000 9</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 21 200 1</td>
 <td>– – – – гидроцилиндры телескопические для сборки автомобилей-самосвалов грузоподъемностью 18 – 20 т</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 21 200 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 21 800 8</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 29 200 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 29 810 1</td>
 <td>– – – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 29 810 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 29 890 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 31 000 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 39 000 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 80 100 0</td>
 <td>– – двигатели силовые, на водяном пару или паровые прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 80 800 1</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 80 800 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 90 200 1</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 90 200 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 90 400 1</td>
 <td>– – – части гидроцилиндров телескопических, предназначенных для сборки автомобилей-самосвалов грузоподъемностью 18 – 20 т</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 90 400 8</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 90 800 1</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 90 800 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 200 3</td>
 <td>– – – – – линейные (с линейным электрическим двигателем)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 200 4</td>
 <td>– – – – – – номинальной мощностью охлаждения (холодопроизводительностью) не более 0,16 кВт, определенной по методу ASHRAE</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 200 5</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8414 30 200 9</td>
-<td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 810 5</td>
 <td>– – – – для промышленной сборки моторных транспортных средств товарных позиций 8701 – 8705, их узлов и агрегатов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 810 6</td>
 <td>– – – – – мощностью более 0,4 кВт, но не более 1,3 кВт</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 810 7</td>
 <td>– – – – – мощностью более 1,3 кВт, но не более 10 кВт</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 810 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 890 2</td>
 <td>– – – – – мощностью 0,4 кВт и более, но не более 1,3 кВт</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 890 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8418 10 200 2</td>
 <td>– – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8418 10 800 1</td>
 <td>– – – холодильники-морозильники бытовые</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8418 10 800 2</td>
 <td>– – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8418 10 800 8</td>
 <td>– – – – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8418 21 510 0</td>
@@ -8779,24 +10834,14 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>10</td>
 </tr>
 <tr>
-<td>8418 30 200 1</td>
-<td>– – – морозильники бытовые</td>
-<td>126</td>
-</tr>
-<tr>
 <td>8418 30 200 2</td>
 <td>– – – – для гражданских воздушных судов5)</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8418 30 800 1</td>
-<td>– – – морозильники бытовые</td>
-<td>126</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8418 30 800 2</td>
 <td>– – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8418 40 200 1</td>
@@ -8806,7 +10851,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8418 40 200 2</td>
 <td>– – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8418 40 200 8</td>
@@ -8816,12 +10861,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8418 40 800 1</td>
 <td>– – – морозильники бытовые</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8418 40 800 2</td>
 <td>– – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8418 50 110 0</td>
@@ -8831,7 +10876,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8418 50 190 0</td>
 <td>– – – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8418 50 900 1</td>
@@ -8849,6 +10894,11 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>5</td>
 </tr>
 <tr>
+<td>8418 61 009 1</td>
+<td>– – – – для гражданских воздушных судов5)</td>
+<td>2</td>
+</tr>
+<tr>
 <td>8418 61 009 9</td>
 <td>– – – – прочие</td>
 <td>5</td>
@@ -8856,7 +10906,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8418 69 000 2</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8418 69 000 8</td>
@@ -8876,52 +10926,57 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8424 10 000 0</td>
 <td>– огнетушители заряженные или незаряженные</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8424 89 000 1</td>
 <td>– – – механические устройства для мойки автомобилей</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8425 19 000 9</td>
 <td>– – – прочие</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8425 39 000 5</td>
 <td>– – – – лебедки шахтных подъемных установок надшахтного размещения; лебедки, специально предназначенные для подземных работ</td>
-<td>4,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8425 41 000 0</td>
 <td>– – стационарные гаражные подъемники</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8425 49 000 0</td>
 <td>– – прочие</td>
-<td>3,3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>8426 12 000 9</td>
+<td>– – – прочие</td>
+<td>3,8</td>
 </tr>
 <tr>
 <td>8426 20 000 0</td>
 <td>– краны башенные</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>8426 30 000 9</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8426 41 000 7</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8426 49 001 0</td>
-<td>– – – трубоукладчики грузоподъемностью 90 т и выше, предназначенные для работы при температуре окружающего воздуха –50 ºС и ниже2)</td>
-<td>3</td>
+<td>– – – трубоукладчики грузоподъемностью 90 т и выше, предназначенные для работы при температуре окружающего воздуха –50 oС и ниже2)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8426 49 009 1</td>
@@ -8931,7 +10986,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8426 91 100 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8426 91 900 9</td>
+<td>– – – – прочие</td>
+<td>4</td>
 </tr>
 <tr>
 <td>8426 99 000 0</td>
@@ -8941,82 +11001,87 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8428 10 200 2</td>
 <td>– – – – прочие</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8428 10 800 0</td>
 <td>– – прочие</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8428 31 000 0</td>
 <td>– – специально предназначенные для подземных работ</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8428 32 000 0</td>
 <td>– – ковшовые прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8428 39 900 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8428 40 000 0</td>
 <td>– эскалаторы и движущиеся пешеходные дорожки</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8428 60 000 0</td>
 <td>– канатные пассажирские и грузовые дороги, лыжные подъемники; тяговые механизмы для фуникулеров</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8429 11 001 0</td>
 <td>– – – мощностью более 250 л.с.</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8429 11 009 0</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8429 19 000 1</td>
 <td>– – – бульдозеры колесные мощностью 400 л.с. и более</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8429 19 000 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8429 20 001 0</td>
+<td>– – грейдеры мощностью 350 л.с. и более</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8429 20 009 9</td>
 <td>– – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8429 30 000 0</td>
 <td>– скреперы</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8429 40 100 0</td>
 <td>– – – вибрационные</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8429 40 300 0</td>
 <td>– – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8429 40 900 0</td>
 <td>– – машины трамбовочные</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8429 51 910 0</td>
@@ -9031,27 +11096,27 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8429 52 100 1</td>
 <td>– – – – гидравлические, с момента выпуска которых прошел один год или более</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8429 52 100 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8429 52 900 0</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8430 10 000 0</td>
 <td>– оборудование для забивки и извлечения свай</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8430 20 000 0</td>
 <td>– снегоочистители плужные и роторные</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8430 50 000 2</td>
@@ -9066,57 +11131,77 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8430 69 000 1</td>
 <td>– – – машины и механизмы для разработки грунта, предназначенные для установки на 4-гусеничных машинах с двумя ведущими тележками для работы в заболоченных или снежных районах</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8430 69 000 2</td>
 <td>– – – скреперы</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8430 69 000 3</td>
 <td>– – – полноповоротные платформы гидравлических экскаваторов, с момента выпуска которых прошел один год или более, предназначенные для установки на подвижные шасси</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8430 69 000 8</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8433 53 300 0</td>
 <td>– – – машины свекловичные ботворезные и машины свеклоуборочные</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8433 59 850 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8462 21 100 3</td>
+<td>– – – – – для вытягивания (растягивания) металлического листа и оборачивания (гибки) листа вокруг закрепленной формовочной оснастки, для авиационной промышленности5)</td>
+<td>3,8</td>
+</tr>
+<tr>
+<td>8462 21 100 9</td>
+<td>– – – – – прочие</td>
+<td>3,8</td>
 </tr>
 <tr>
 <td>8462 49 100 0</td>
 <td>– – – для обработки изделий из листового материала</td>
-<td>6,7</td>
+<td>5</td>
+</tr>
+<tr>
+<td>8462 49 900 0</td>
+<td>– – – прочие</td>
+<td>6,3</td>
 </tr>
 <tr>
 <td>8462 99 200 9</td>
 <td>– – – – прочие</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8462 99 800 2</td>
 <td>– – – – для производства заклепок, болтов, винтов</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8462 99 800 9</td>
 <td>– – – – прочие</td>
-<td>6,7</td>
+<td>5</td>
+</tr>
+<tr>
+<td>8477 10 000 1</td>
+<td>– – с усилием смыкания не более 2 200 т (22 000 кН) и объемом впрыска не более 28 200 см3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8479 89 300 0</td>
 <td>– – – передвижная шахтная крепь с гидравлическим приводом</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 10 190 8</td>
@@ -9126,37 +11211,37 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8481 40 100 0</td>
 <td>– – из литейного чугуна или стали</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 40 900 9</td>
 <td>– – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 110 0</td>
 <td>– – – арматура смесительная</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 190 0</td>
 <td>– – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 310 0</td>
 <td>– – – арматура термостатическая</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 390 0</td>
 <td>– – – прочая</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 400 0</td>
 <td>– – арматура для пневматических шин и камер</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 510 0</td>
@@ -9166,7 +11251,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8481 80 599 0</td>
 <td>– – – – – прочая</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 610 0</td>
@@ -9176,12 +11261,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8481 80 639 0</td>
 <td>– – – – – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 690 0</td>
 <td>– – – – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 710 0</td>
@@ -9191,17 +11276,17 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8481 80 739 1</td>
 <td>– – – – – – – для промышленной сборки моторных транспортных средств товарных позиций 8701 – 8705, их узлов и агрегатов5)</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 739 9</td>
 <td>– – – – – – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 790 0</td>
 <td>– – – – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 819 9</td>
@@ -9211,102 +11296,122 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8481 80 850 8</td>
 <td>– – – – – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 870 0</td>
 <td>– – – – арматура мембранная</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 990 7</td>
 <td>– – – – – – прочая</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 90 000 0</td>
 <td>– части</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8483 10 210 8</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 10 250 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 10 290 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 10 500 0</td>
 <td>– – шарнирные валы</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 10 950 0</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 30 320 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 30 380 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8483 40 210 0</td>
+<td>– – – с цилиндрическими прямозубыми колесами и геликоидальными зубчатыми колесами</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8483 40 250 0</td>
+<td>– – – червячные передачи</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8483 40 290 0</td>
+<td>– – – прочие</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 40 510 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 40 590 0</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 40 900 0</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 50 200 0</td>
 <td>– – чугунные литые или стальные литые</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 50 800 0</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 60 200 0</td>
 <td>– – чугунные литые или стальные литые</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 60 800 0</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 90 200 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 90 810 0</td>
 <td>– – – чугунные литые или стальные литые</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8483 90 890 9</td>
+<td>– – – – прочие</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8501 10 100 9</td>
@@ -9331,72 +11436,77 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8501 20 000 9</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8501 32 000 2</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8501 33 000 2</td>
 <td>– – – – двигатели постоянного тока номинальной выходной мощностью более 75 кВт, но не более 100 кВт</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8501 40 200 4</td>
 <td>– – – – – прочие</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8501 40 800 2</td>
 <td>– – – – асинхронные с высотой оси вращения 250 мм</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>8501 51 000 1</td>
 <td>– – – асинхронные</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8501 52 200 1</td>
 <td>– – – – асинхронные</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8501 52 900 2</td>
+<td>– – – – – асинхронные с высотой оси вращения 250 мм</td>
+<td>7,5</td>
 </tr>
 <tr>
 <td>8504 10 200 0</td>
 <td>– – катушки индуктивности и дроссели, соединенные или не соединенные с конденсатором</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8504 10 800 0</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8504 31 210 1</td>
 <td>– – – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8504 31 290 1</td>
 <td>– – – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8504 31 800 2</td>
 <td>– – – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8504 32 000 1</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8504 33 000 1</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8505 19 900 0</td>
@@ -9406,7 +11516,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8507 10 200 1</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8507 10 200 3</td>
@@ -9416,137 +11526,152 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8507 10 200 9</td>
 <td>– – – – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8507 10 800 1</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8507 10 800 9</td>
 <td>– – – прочие</td>
-<td>16,7</td>
+<td>15</td>
+</tr>
+<tr>
+<td>8507 20 200 0</td>
+<td>– – работающие с жидким электролитом</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8507 20 800 1</td>
 <td>– – – силовые аккумуляторы</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8507 20 800 8</td>
+<td>– – – прочие</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8507 30 800 0</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8507 40 000 0</td>
 <td>– никель-железные</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8508 19 000 9</td>
 <td>– – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8508 60 000 0</td>
 <td>– пылесосы прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8508 70 000 9</td>
 <td>– – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8511 10 000 1</td>
 <td>– – для двигателей автобусов, предназначенных для перевозки не менее 20 человек, включая водителя</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 10 000 3</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 10 000 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 20 000 1</td>
 <td>– – для двигателей автобусов, предназначенных для перевозки не менее 20 человек, включая водителя</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 20 000 2</td>
 <td>– – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 20 000 8</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 40 000 1</td>
 <td>– – для двигателей автобусов, предназначенных для перевозки не менее 20 человек, включая водителя</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8511 40 000 2</td>
+<td>– – – для промышленной сборки моторных транспортных средств товарных позиций 8701 – 8705, их узлов и агрегатов5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 40 000 8</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 50 000 1</td>
 <td>– – для двигателей автобусов, предназначенных для перевозки не менее 20 человек, включая водителя</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 50 000 3</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 50 000 8</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 80 000 2</td>
 <td>– – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 90 000 9</td>
 <td>– – – прочие</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8516 80 200 1</td>
 <td>– – – собранные в блоки и состоящие только из простого изолированного каркаса и электрических соединений, применяемые в противообледенительных и размораживающих системах гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8518 10 950 0</td>
 <td>– – прочие</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8518 21 000 0</td>
 <td>– – громкоговорители одиночные, смонтированные в корпусах</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8518 22 000 1</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8518 22 000 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8518 29 950 0</td>
@@ -9556,97 +11681,132 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8518 30 950 0</td>
 <td>– – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8518 40 300 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8518 40 800 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8518 50 000 0</td>
 <td>– электрические звукоусилительные комплекты</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8519 30 000 0</td>
+<td>– устройства электропроигрывающие (деки)</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8519 81 950 1</td>
 <td>– – – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8519 89 110 0</td>
 <td>– – – – проигрыватели грампластинок, кроме относящихся к субпозиции 8519 20</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8519 89 900 1</td>
 <td>– – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8521 10 200 0</td>
 <td>– – использующая ленту шириной не более 1,3 см и позволяющая вести запись или воспроизведение при скорости движения ленты не более 50 мм/с</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8521 10 950 1</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8523 29 390 8</td>
 <td>– – – – – – диски магнитные</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8523 49 310 0</td>
 <td>– – – – – диаметром не более 6,5 см</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8523 49 390 0</td>
 <td>– – – – – диаметром более 6,5 см</td>
-<td>8,3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>8523 49 510 0</td>
+<td>– – – – – – диски универсальные цифровые (DVD)</td>
+<td>0</td>
+</tr>
+<tr>
+<td>8523 49 590 0</td>
+<td>– – – – – – прочие</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8523 49 990 0</td>
 <td>– – – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8523 51 990 0</td>
 <td>– – – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8523 80 990 0</td>
 <td>– – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8525 50 000 0</td>
 <td>– аппаратура передающая</td>
-<td>1,7</td>
+<td>0</td>
+</tr>
+<tr>
+<td>8525 80 910 1</td>
+<td>– – – – аппаратура видеозаписывающая или видеовоспроизводящая на магнитной ленте, совмещенная или не совмещенная с видеотюнером с шириной ленты не более 1,3 см, способная осуществлять запись или воспроизведение при скорости движения ленты не более 50 мм/с, с телевизионной передающей камерой в том же корпусе</td>
+<td>4</td>
+</tr>
+<tr>
+<td>8525 80 990 1</td>
+<td>– – – – аппаратура видеозаписывающая или видеовоспроизводящая на магнитной ленте, совмещенная или не совмещенная с видеотюнером с шириной ленты не более 1,3 см, способная осуществлять запись или воспроизведение при скорости движения ленты не более 50 мм/с, с телевизионной передающей камерой в том же корпусе</td>
+<td>4</td>
+</tr>
+<tr>
+<td>8525 80 990 9</td>
+<td>– – – – прочие</td>
+<td>4</td>
+</tr>
+<tr>
+<td>8526 10 000 9</td>
+<td>– – прочая</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8526 91 200 0</td>
 <td>– – – приемники радионавигационные</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8526 91 800 0</td>
 <td>– – – прочая</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8526 92 000 8</td>
 <td>– – – прочая</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8528 71 110 0</td>
@@ -9656,7 +11816,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8528 72 200 1</td>
 <td>– – – – с жидкокристаллическим или плазменным экраном</td>
-<td>15,3</td>
+<td>13</td>
 </tr>
 <tr>
 <td>8528 72 300 1</td>
@@ -9666,257 +11826,282 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8528 72 300 2</td>
 <td>– – – – – с размером диагонали экрана более 42 см, но не более 52 см</td>
-<td>13,3</td>
+<td>10</td>
+</tr>
+<tr>
+<td>8528 72 300 3</td>
+<td>– – – – – с размером диагонали экрана более 52 см, но не более 72 см</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8528 72 300 9</td>
 <td>– – – – – прочая</td>
-<td>12</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8528 73 000 0</td>
 <td>– – прочая, монохромного изображения</td>
-<td>13,3, но не менее 6,67 евро за 1 шт</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8529 90 410 0</td>
 <td>– – – – из дерева</td>
-<td>3,3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>8531 10 300 0</td>
+<td>– – используемые в зданиях</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8535 29 000 0</td>
 <td>– – прочие</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8535 30 100 0</td>
 <td>– – на напряжение менее 72,5 кВ</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8535 30 900 1</td>
 <td>– – – элегазовые выключатели на напряжение не менее 110 кВ, но не более 550 кВ в корпусе из алюминиевого сплава, содержащем не менее двух монтажных фланцев с крепежными отверстиями, предназначенных для подсоединения внешней аппаратуры, где, по крайней мере, один из монтажных фланцев содержит крепежные отверстия, центры которых расположены на окружности диаметром не менее 330 мм, но не более 680 мм</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8535 30 900 2</td>
 <td>– – – элегазовые разъединители-заземлители на напряжение не менее 110 кВ, но не более 550 кВ в корпусе из алюминиевого сплава, содержащем не менее двух монтажных фланцев с крепежными отверстиями, предназначенных для подсоединения внешней аппаратуры, где, по крайней мере, два из монтажных фланцев содержат крепежные отверстия, центры которых расположены на окружности диаметром не менее 330 мм, но не более 680 мм</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8535 30 900 3</td>
 <td>– – – элегазовые заземлители на напряжение не менее 110 кВ, но не более 550 кВ в корпусе из алюминиевого сплава, содержащем, по крайней мере, два монтажных фланца, предназначенных для подсоединения внешней аппаратуры с крепежными отверстиями, центры которых расположены на окружности диаметром не менее 330 мм, но не более 680 мм</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8535 30 900 9</td>
 <td>– – – прочие</td>
-<td>6,7</td>
+<td>5</td>
+</tr>
+<tr>
+<td>8535 40 000 0</td>
+<td>– молниеотводы, ограничители напряжения и гасители скачков напряжения</td>
+<td>10</td>
+</tr>
+<tr>
+<td>8535 90 000 1</td>
+<td>– – проходные изоляторы с одним или несколькими электродами на напряжение не менее 110 кВ, но не более 550 кВ в корпусе из алюминиевого сплава, содержащем монтажное фланцевое кольцо для подсоединения внешней аппаратуры с крепежными отверстиями, центры которых расположены на окружности диаметром не менее 330 мм, но не более 680 мм</td>
+<td>7,5</td>
+</tr>
+<tr>
+<td>8535 90 000 9</td>
+<td>– – прочие</td>
+<td>7,5</td>
 </tr>
 <tr>
 <td>8536 10 100 0</td>
 <td>– – на силу тока не более 10 А</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 10 500 0</td>
 <td>– – на силу тока более 10 А, но не более 63 А</td>
-<td>8</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 10 900 0</td>
 <td>– – на силу тока более 63 А</td>
-<td>8</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 20 100 8</td>
 <td>– – – прочие</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 20 900 8</td>
 <td>– – – прочие</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 30 100 0</td>
 <td>– – на силу тока не более 16 А</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 30 300 0</td>
 <td>– – на силу тока более 16 А, но не более 125 А</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 30 900 0</td>
 <td>– – на силу тока более 125 А</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 41 100 0</td>
 <td>– – – на силу тока не более 2 А</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 41 900 0</td>
 <td>– – – на силу тока более 2 А</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 49 000 0</td>
 <td>– – прочие</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 50 110 9</td>
 <td>– – – – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8536 50 150 9</td>
 <td>– – – – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8536 50 190 7</td>
 <td>– – – – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8536 50 800 0</td>
 <td>– – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8536 61 100 0</td>
 <td>– – – патроны для ламп накаливания</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 61 900 0</td>
 <td>– – – прочие</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 69 900 8</td>
 <td>– – – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8536 90 010 0</td>
 <td>– – предварительно собранные элементы для электрических цепей</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8539 10 000 1</td>
 <td>– – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8539 10 000 9</td>
 <td>– – прочие</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8539 41 000 0</td>
 <td>– – дуговые лампы</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8539 49 000 0</td>
 <td>– – прочие</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8543 70 300 9</td>
 <td>– – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8543 70 500 1</td>
 <td>– – – солярии для люминесцентных трубчатых ламп ультрафиолетового (А) излучения</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8543 70 500 9</td>
 <td>– – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8544 30 000 3</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8544 30 000 7</td>
 <td>– – – прочие</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8544 42 900 7</td>
 <td>– – – – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8544 42 900 9</td>
 <td>– – – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8544 49 910 1</td>
 <td>– – – – – на напряжение не более 80 В</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8544 49 930 1</td>
 <td>– – – – – – для промышленной сборки моторных транспортных средств товарных позиций 8701 – 8705, их узлов и агрегатов5)</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8544 49 930 9</td>
 <td>– – – – – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8605 00 000 2</td>
 <td>– предназначенные для движения в составе железнодорожных электропоездов с максимальной эксплуатационной скоростью не менее 140 км/ч, но менее 250 км/ч</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8605 00 000 3</td>
 <td>– – вагоны железнодорожные для перевозки пассажиров, оборудованные спальными местами для пассажиров, с длиной по осям буферов 26400 мм, с наружной шириной кузова (без гофр) 2825 мм, с расстоянием между осями поворота тележек 19000 мм</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8605 00 000 5</td>
 <td>– – – вагоны железнодорожные пассажирские, включая вагоны-рестораны, вагоны-буфеты, имеющие один колесный блок с двумя независимо вращающимися колесами, предназначенные для движения с максимальной эксплуатационной скоростью не менее 200 км/час</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8605 00 000 6</td>
 <td>– – – вагоны железнодорожные технического обеспечения пассажирского поезда, оборудованные помимо прочего дизель-генераторной установкой, аккумуляторными батареями, компрессорной установкой, имеющие не более двух колесных блоков с двумя независимо вращающимися колесами в каждом, предназначенные для движения с максимальной эксплуатационной скоростью не менее 200 км/час</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8605 00 000 8</td>
 <td>– – – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8606 99 000 0</td>
 <td>– – прочие</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>8609 00 900 1</td>
-<td>– – контейнеры с внутренним объемом от 42 м³ до 43 м³</td>
-<td>8</td>
+<td>– – контейнеры с внутренним объемом от 42 м3 до 43 м3</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8609 00 900 9</td>
 <td>– – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8701 20 109 0</td>
@@ -9929,109 +12114,99 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>10</td>
 </tr>
 <tr>
-<td>8701 20 901 5</td>
-<td>– – – – с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>10 6</td>
-</tr>
-<tr>
 <td>8701 30 000 9</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8701 91 100 0</td>
 <td>– – – – новые</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 91 500 0</td>
 <td>– – – – бывшие в эксплуатации</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 91 900 0</td>
 <td>– – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 92 100 0</td>
 <td>– – – – новые</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 92 500 0</td>
 <td>– – – – бывшие в эксплуатации</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 92 900 0</td>
 <td>– – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 93 100 0</td>
 <td>– – – – новые</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 93 500 0</td>
 <td>– – – – бывшие в эксплуатации</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 93 900 0</td>
 <td>– – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 94 100 1</td>
 <td>– – – – – трелевочные тракторы (скиддеры) для лесного хозяйства, колесные, новые, с мощностью двигателя более 90 кВт, но не более 130 кВт</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 94 100 9</td>
 <td>– – – – – прочие</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8701 94 500 0</td>
 <td>– – – – бывшие в эксплуатации</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 94 900 0</td>
 <td>– – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 95 100 1</td>
 <td>– – – – – трелевочные тракторы (скиддеры) для лесного хозяйства, колесные, новые, с мощностью двигателя более 130 кВт</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 95 100 9</td>
 <td>– – – – – прочие</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8701 95 500 0</td>
 <td>– – – – бывшие в эксплуатации</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 95 900 0</td>
 <td>– – – прочие</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8702 10 192 3</td>
 <td>– – – – – с момента выпуска которых прошло более 7 лет</td>
-<td>13</td>
-</tr>
-<tr>
-<td>8702 10 192 4</td>
-<td>– – – – – с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>10 6</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 10 199 4</td>
@@ -10045,7 +12220,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 </tr>
 <tr>
 <td>8702 10 199 6</td>
-<td>– – – – – – экологического класса 4 или выше7), габаритной длиной не менее 11,5 м, имеющие не менее 41 посадочного места, включая водителя, объем багажного отсека не менее 5 м³ и предназначенные для перевозки только сидящих пассажиров и их багажа</td>
+<td>– – – – – – экологического класса 4 или выше7), габаритной длиной не менее 11,5 м, имеющие не менее 41 посадочного места, включая водителя, объем багажного отсека не менее 5 м3 и предназначенные для перевозки только сидящих пассажиров и их багажа</td>
 <td>15</td>
 </tr>
 <tr>
@@ -10056,27 +12231,22 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8702 10 999 3</td>
 <td>– – – – – с момента выпуска которых прошло более 7 лет</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 10 999 4</td>
 <td>– – – – – с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 10 999 8</td>
 <td>– – – – – – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 20 192 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>13</td>
-</tr>
-<tr>
-<td>8702 20 192 3</td>
-<td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>10 6</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 20 199 1</td>
@@ -10101,112 +12271,107 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8702 20 999 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 20 999 3</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 20 999 8</td>
 <td>– – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 30 119 1</td>
 <td>– – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8702 30 192 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 30 199 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 30 199 3</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 30 199 8</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 30 919 1</td>
 <td>– – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 30 999 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 30 999 3</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 30 999 8</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 90 119 0</td>
 <td>– – – – – прочие</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8702 90 192 3</td>
 <td>– – – – – – с момента выпуска которых прошло более 7 лет</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 90 199 4</td>
 <td>– – – – – – с момента выпуска которых прошло более 7 лет</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 90 199 5</td>
 <td>– – – – – – с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 90 199 8</td>
 <td>– – – – – – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 90 319 0</td>
 <td>– – – – – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 90 399 3</td>
 <td>– – – – – – с момента выпуска которых прошло более 7 лет</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 90 399 4</td>
 <td>– – – – – – с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 90 399 8</td>
 <td>– – – – – – прочие</td>
-<td>13</td>
-</tr>
-<tr>
-<td>8703 21 109 1</td>
-<td>– – – – – четырехколесные моторные транспортные средства повышенной проходимости с двумя или четырьмя ведущими колесами, оборудованные сиденьем мотоциклетного (седельного) типа, рычагами ручного рулевого управления двумя передними колесами, шинами для бездорожья, с автоматическим или ручным управлением трансмиссией, обеспечивающей задний ход</td>
-<td>5 6</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8703 21 109 9</td>
@@ -10216,17 +12381,17 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 21 909 3</td>
 <td>– – – – – автомобили, с момента выпуска которых прошло более 7 лет</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 21 909 4</td>
 <td>– – – – – автомобили, с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 21 909 8</td>
 <td>– – – – – прочие</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 22 109 1</td>
@@ -10241,87 +12406,72 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 22 909 3</td>
 <td>– – – – – автомобили, с момента выпуска которых прошло более 7 лет</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 22 909 4</td>
 <td>– – – – – с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 22 909 8</td>
 <td>– – – – – прочие</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 23 110 0</td>
 <td>– – – – моторные транспортные средства, оборудованные для проживания</td>
-<td>13</td>
-</tr>
-<tr>
-<td>8703 23 194 0</td>
-<td>– – – – – – с рабочим объемом цилиндров двигателя более 1500 см³, но не более 1800 см³</td>
-<td>18</td>
-</tr>
-<tr>
-<td>8703 23 198 1</td>
-<td>– – – – – – – с рабочим объемом цилиндров двигателя более 1800 см³, но не более 2300 см³</td>
-<td>18</td>
-</tr>
-<tr>
-<td>8703 23 198 9</td>
-<td>– – – – – – – прочие</td>
-<td>18</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8703 23 904 1</td>
 <td>– – – – – – автомобили, с момента выпуска которых прошло более 7 лет</td>
-<td>0,57 евро за 1 см³ объема двигателя, но не менее 19,8 и не более 21</td>
+<td>0,54 евро за 1 см3 объема двигателя, но не менее 18,2 и не более 20</td>
 </tr>
 <tr>
 <td>8703 23 904 2</td>
 <td>– – – – – – автомобили, с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 23 904 9</td>
 <td>– – – – – – прочие</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 23 908 1</td>
 <td>– – – – – – – автомобили, с момента выпуска которых прошло более 7 лет</td>
-<td>0,57 евро за 1 см³ объема двигателя, но не менее 19,8 и не более 21</td>
+<td>0,54 евро за 1 см3 объема двигателя, но не менее 18,2 и не более 20</td>
 </tr>
 <tr>
 <td>8703 23 908 2</td>
 <td>– – – – – – – автомобили, с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 23 908 3</td>
 <td>– – – – – – – прочие</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 23 908 7</td>
 <td>– – – – – – – автомобили, с момента выпуска которых прошло более 7 лет</td>
-<td>0,57 евро за 1 см³ объема двигателя, но не менее 19,8 и не более 21</td>
+<td>0,54 евро за 1 см3 объема двигателя, но не менее 18,2 и не более 20</td>
 </tr>
 <tr>
 <td>8703 23 908 8</td>
 <td>– – – – – – – автомобили, с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 23 908 9</td>
 <td>– – – – – – – прочие</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 24 109 1</td>
-<td>– – – – – автомобили повышенной проходимости с рабочим объемом цилиндров двигателя более 4200 см³, поименованные в дополнительном примечании Евразийского экономического союза 6 к данной группе</td>
-<td>13,3</td>
+<td>– – – – – автомобили повышенной проходимости с рабочим объемом цилиндров двигателя более 4200 см3, поименованные в дополнительном примечании Евразийского экономического союза 6 к данной группе</td>
+<td>11,7 7</td>
 </tr>
 <tr>
 <td>8703 24 109 9</td>
@@ -10331,37 +12481,32 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 24 909 3</td>
 <td>– – – – – автомобили, с момента выпуска которых прошло более 7 лет</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 24 909 4</td>
 <td>– – – – – автомобили, с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 24 909 8</td>
 <td>– – – – – прочие</td>
-<td>18</td>
-</tr>
-<tr>
-<td>8703 31 109 0</td>
-<td>– – – – прочие</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 31 909 3</td>
 <td>– – – – – автомобили, с момента выпуска которых прошло более 7 лет</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 31 909 4</td>
 <td>– – – – – автомобили, с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 31 909 8</td>
 <td>– – – – – прочие</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 32 110 0</td>
@@ -10376,17 +12521,17 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 32 909 3</td>
 <td>– – – – – автомобили, с момента выпуска которых прошло более 7 лет</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 32 909 4</td>
 <td>– – – – – автомобили, с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 32 909 8</td>
 <td>– – – – – прочие</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 33 110 0</td>
@@ -10401,27 +12546,22 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 33 909 3</td>
 <td>– – – – – автомобили, с момента выпуска которых прошло более 7 лет</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 33 909 4</td>
 <td>– – – – – автомобили, с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 33 909 8</td>
 <td>– – – – – прочие</td>
-<td>18</td>
-</tr>
-<tr>
-<td>8703 40 109 1</td>
-<td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>56</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 109 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 109 8</td>
@@ -10431,37 +12571,37 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 40 109 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 209 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 40 209 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 209 3</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 209 4</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 209 8</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 209 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 309 1</td>
@@ -10471,7 +12611,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 40 309 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 309 8</td>
@@ -10481,177 +12621,162 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 40 309 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 409 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 40 409 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 409 3</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 409 4</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 409 8</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 409 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 510 1</td>
 <td>– – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8703 40 510 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 40 592 1</td>
-<td>– – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 592 9</td>
 <td>– – – – – – – прочие</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 40 599 1</td>
-<td>– – – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 599 2</td>
 <td>– – – – – – – – прочие</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 40 599 8</td>
-<td>– – – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 599 9</td>
 <td>– – – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 602 1</td>
 <td>– – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>0,57 евро за 1 см³ объема двигателя, но не менее 19,8 и не более 21</td>
+<td>0,54 евро за 1 см3 объема двигателя, но не менее 18,2 и не более 20</td>
 </tr>
 <tr>
 <td>8703 40 602 2</td>
 <td>– – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 602 3</td>
 <td>– – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 602 4</td>
 <td>– – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 602 8</td>
 <td>– – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 602 9</td>
 <td>– – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 603 1</td>
 <td>– – – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>0,57 евро за 1 см³ объема двигателя, но не менее 19,8 и не более 21</td>
+<td>0,54 евро за 1 см3 объема двигателя, но не менее 18,2 и не более 20</td>
 </tr>
 <tr>
 <td>8703 40 603 2</td>
 <td>– – – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 603 3</td>
 <td>– – – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 603 4</td>
 <td>– – – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 603 8</td>
 <td>– – – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 603 9</td>
 <td>– – – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 609 1</td>
 <td>– – – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>0,57 евро за 1 см³ объема двигателя, но не менее 19,8 и не более 21</td>
+<td>0,54 евро за 1 см3 объема двигателя, но не менее 18,2 и не более 20</td>
 </tr>
 <tr>
 <td>8703 40 609 2</td>
 <td>– – – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 609 3</td>
 <td>– – – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 609 4</td>
 <td>– – – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 609 8</td>
 <td>– – – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 609 9</td>
 <td>– – – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 709 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>13,3</td>
+<td>11,7 7</td>
 </tr>
 <tr>
 <td>8703 40 709 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 709 8</td>
@@ -10661,77 +12786,72 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 40 709 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 809 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 40 809 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 809 3</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 809 4</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 809 8</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 809 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 50 109 1</td>
-<td>– – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 109 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 209 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 50 209 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 209 3</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 50 209 4</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 209 8</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 50 209 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 310 1</td>
@@ -10741,7 +12861,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 50 310 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 399 1</td>
@@ -10751,37 +12871,37 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 50 399 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 409 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 50 409 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 409 3</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 50 409 4</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 409 8</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 50 409 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 510 1</td>
@@ -10791,7 +12911,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 50 510 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 599 1</td>
@@ -10801,47 +12921,42 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 50 599 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 609 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 50 609 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 609 3</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 50 609 4</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 609 8</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 50 609 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 60 109 1</td>
-<td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>56</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 109 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 109 8</td>
@@ -10851,37 +12966,37 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 60 109 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 209 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 60 209 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 209 3</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 209 4</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 209 8</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 209 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 309 1</td>
@@ -10891,7 +13006,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 60 309 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 309 8</td>
@@ -10901,177 +13016,162 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 60 309 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 409 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 60 409 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 409 3</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 409 4</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 409 8</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 409 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 510 1</td>
 <td>– – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8703 60 510 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 60 592 1</td>
-<td>– – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 592 9</td>
 <td>– – – – – – – прочие</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 60 599 1</td>
-<td>– – – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 599 2</td>
 <td>– – – – – – – – прочие</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 60 599 8</td>
-<td>– – – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 599 9</td>
 <td>– – – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 602 1</td>
 <td>– – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>0,57 евро за 1 см³ объема двигателя, но не менее 19,8 и не более 21</td>
+<td>0,54 евро за 1 см3 объема двигателя, но не менее 18,2 и не более 20</td>
 </tr>
 <tr>
 <td>8703 60 602 2</td>
 <td>– – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 602 3</td>
 <td>– – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 602 4</td>
 <td>– – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 602 8</td>
 <td>– – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 602 9</td>
 <td>– – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 603 1</td>
 <td>– – – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>0,57 евро за 1 см³ объема двигателя, но не менее 19,8 и не более 21</td>
+<td>0,54 евро за 1 см3 объема двигателя, но не менее 18,2 и не более 20</td>
 </tr>
 <tr>
 <td>8703 60 603 2</td>
 <td>– – – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 603 3</td>
 <td>– – – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 603 4</td>
 <td>– – – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 603 8</td>
 <td>– – – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 603 9</td>
 <td>– – – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 609 1</td>
 <td>– – – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>0,57 евро за 1 см³ объема двигателя, но не менее 19,8 и не более 21</td>
+<td>0,54 евро за 1 см3 объема двигателя, но не менее 18,2 и не более 20</td>
 </tr>
 <tr>
 <td>8703 60 609 2</td>
 <td>– – – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 609 3</td>
 <td>– – – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 609 4</td>
 <td>– – – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 609 8</td>
 <td>– – – – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 609 9</td>
 <td>– – – – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 709 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>13,3</td>
+<td>11,7 7</td>
 </tr>
 <tr>
 <td>8703 60 709 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 709 8</td>
@@ -11081,77 +13181,72 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 60 709 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 809 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 60 809 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 809 3</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 809 4</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 809 8</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 809 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 70 109 1</td>
-<td>– – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 109 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 209 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 70 209 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 209 3</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 70 209 4</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 209 8</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 70 209 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 310 1</td>
@@ -11161,7 +13256,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 70 310 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 399 1</td>
@@ -11171,37 +13266,37 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 70 399 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 409 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 70 409 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 409 3</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 70 409 4</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 409 8</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 70 409 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 510 1</td>
@@ -11211,7 +13306,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 70 510 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 599 1</td>
@@ -11221,87 +13316,87 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8703 70 599 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 609 1</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>21, но не менее 0,72 евро за 1 см³ объема двигателя</td>
+<td>19, но не менее 0,68 евро за 1 см3 объема двигателя</td>
 </tr>
 <tr>
 <td>8703 70 609 2</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 609 3</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 70 609 4</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 609 8</td>
 <td>– – – – – – у которых мощность двигателя внутреннего сгорания больше максимальной 30-минутной мощности электрического двигателя</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 70 609 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 80 000 2</td>
 <td>– – – легковые автомобили категории M1 или M1G</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 80 000 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 90 009 0</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8704 10 101 9</td>
+<td>– – – – прочие</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8704 10 102 2</td>
 <td>– – – – – с количеством осей не более двух</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8704 10 102 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8704 10 108 0</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8704 10 900 0</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8704 21 390 3</td>
 <td>– – – – – – с момента выпуска которых прошло более 7 лет</td>
-<td>13</td>
-</tr>
-<tr>
-<td>8704 21 390 4</td>
-<td>– – – – – – с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>106</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8704 21 990 3</td>
 <td>– – – – – – с момента выпуска которых прошло более 7 лет</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8704 21 990 4</td>
@@ -11311,17 +13406,17 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8704 22 100 0</td>
 <td>– – – специально предназначенные для перевозки высокорадиоактивных материалов</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 22 910 8</td>
 <td>– – – – – прочие</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 22 990 4</td>
 <td>– – – – – – с момента выпуска которых прошло более 7 лет</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 22 990 5</td>
@@ -11331,37 +13426,32 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8704 23 990 4</td>
 <td>– – – – – с момента выпуска которых прошло более 7 лет</td>
-<td>11,7</td>
-</tr>
-<tr>
-<td>8704 23 990 5</td>
-<td>– – – – – с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>106</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 31 100 0</td>
 <td>– – – специально предназначенные для перевозки высокорадиоактивных материалов</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8704 31 310 0</td>
 <td>– – – – – новые</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 31 390 3</td>
 <td>– – – – – – с момента выпуска которых прошло более 7 лет</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 31 390 4</td>
 <td>– – – – – – с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 31 390 8</td>
 <td>– – – – – – прочие</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 31 910 0</td>
@@ -11376,27 +13466,27 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8704 31 990 4</td>
 <td>– – – – – – с момента выпуска которых прошло более 5 лет, но не более 7 лет</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 31 990 8</td>
 <td>– – – – – – прочие</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 32 100 0</td>
 <td>– – – специально предназначенные для перевозки высокорадиоактивных материалов</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 32 910 1</td>
-<td>– – – – – транспортные средства (типа «форвардер»), оборудованные погрузочно-разгрузочным устройством, предназначенные для перемещения лесоматериалов от места валки деревьев до лесопогрузочного пункта или лесовозной дороги</td>
-<td>11,7</td>
+<td>– – – – – транспортные средства (типа &quot;форвардер&quot;), оборудованные погрузочно-разгрузочным устройством, предназначенные для перемещения лесоматериалов от места валки деревьев до лесопогрузочного пункта или лесовозной дороги</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 32 910 9</td>
 <td>– – – – – прочие</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 32 990 4</td>
@@ -11406,12 +13496,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8705 10 009 1</td>
 <td>– – – новые</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>8705 10 009 5</td>
 <td>– – – бывшие в эксплуатации</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>8705 30 000 5</td>
@@ -11421,27 +13511,32 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8705 40 000 1</td>
 <td>– – новые</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8705 40 000 5</td>
 <td>– – бывшие в эксплуатации</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>8705 90 300 1</td>
+<td>– – – новые</td>
+<td>9</td>
 </tr>
 <tr>
 <td>8705 90 300 5</td>
 <td>– – – бывшие в эксплуатации</td>
-<td>106</td>
+<td>9</td>
 </tr>
 <tr>
 <td>8705 90 800 1</td>
 <td>– – – – новые</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>8705 90 800 2</td>
 <td>– – – – бывшие в эксплуатации</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>8705 90 800 9</td>
@@ -11451,37 +13546,37 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8706 00 190 9</td>
 <td>– – – прочие</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>8706 00 910 9</td>
 <td>– – – прочие</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>8706 00 990 9</td>
 <td>– – – прочие</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>8707 10 900 0</td>
 <td>– – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8707 90 100 0</td>
-<td>– – для промышленной сборки: тракторов одноосных, указанных в субпозиции 8701 10; транспортных средств товарной позиции 8704 с поршневым двигателем внутреннего сгорания с воспламенением от сжатия (дизелем или полудизелем) и рабочим объемом цилиндров двигателя не более 2500 см³ или с поршневым двигателем внутреннего сгорания с искровым зажиганием и рабочим объемом цилиндров двигателя не более 2800 см³; моторных транспортных средств специального назначения товарной позиции 8705</td>
-<td>13</td>
+<td>– – для промышленной сборки: тракторов одноосных, указанных в субпозиции 8701 10; транспортных средств товарной позиции 8704 с поршневым двигателем внутреннего сгорания с воспламенением от сжатия (дизелем или полудизелем) и рабочим объемом цилиндров двигателя не более 2500 см3 или с поршневым двигателем внутреннего сгорания с искровым зажиганием и рабочим объемом цилиндров двигателя не более 2800 см3; моторных транспортных средств специального назначения товарной позиции 8705</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8707 90 900 1</td>
 <td>– – – кабины для сборки грузовых автомобилей общей массой более 20 т</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8708 50 550 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8708 80 350 2</td>
@@ -11491,92 +13586,87 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8708 80 550 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8708 91 200 9</td>
 <td>– – – – части5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8708 91 990 9</td>
 <td>– – – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8708 95 910 9</td>
 <td>– – – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8710 00 000 0</td>
 <td>Танки и прочие боевые самоходные бронированные транспортные средства, с вооружением или без вооружения, и их части</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8714 10 100 0</td>
 <td>– – тормоза и их части</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8714 10 200 0</td>
 <td>– – коробки передач и их части</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8714 10 300 0</td>
 <td>– – колеса ходовые и их части и принадлежности</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8714 10 400 0</td>
 <td>– – глушители и выхлопные трубы, их части</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8714 10 500 0</td>
 <td>– – сцепления в сборе и их части</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8714 10 900 0</td>
 <td>– – прочие</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
-<td>8716 39 800 3</td>
-<td>– – – – – – полуприцепы автомобильные, с полной массой более 15 т и габаритной длиной не менее 13,6 м</td>
-<td>9</td>
-</tr>
-<tr>
-<td>8716 39 800 4</td>
-<td>– – – – – – полуприцепы автомобильные рефрижераторные с внутренним объемом кузова не менее 76 м³</td>
-<td>9</td>
+<td>8716 80 000 0</td>
+<td>– транспортные средства прочие</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8801 00 100 1</td>
 <td>– – гражданские</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>8801 00 100 9</td>
 <td>– – прочие</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>8801 00 900 1</td>
 <td>– – гражданские</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>8801 00 900 9</td>
 <td>– – прочие</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>8802 11 000 9</td>
 <td>– – – прочие</td>
-<td>16</td>
+<td>14</td>
 </tr>
 <tr>
 <td>8802 12 000 1</td>
@@ -11587,6 +13677,21 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>8802 12 000 9</td>
 <td>– – – прочие</td>
 <td>10</td>
+</tr>
+<tr>
+<td>8802 20 000 2</td>
+<td>– – разведывательно-ударные беспилотные летательные аппараты14)</td>
+<td>14</td>
+</tr>
+<tr>
+<td>8802 20 000 8</td>
+<td>– – прочие</td>
+<td>14</td>
+</tr>
+<tr>
+<td>8802 30 000 3</td>
+<td>– – самолеты военно-транспортные, оснащенные грузовой рампой, с массой пустого снаряженного аппарата более 12 000 кг, но не более 13 000 кг14)</td>
+<td>5 8</td>
 </tr>
 <tr>
 <td>8802 30 000 7</td>
@@ -11686,52 +13791,52 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>8803 90 100 0</td>
 <td>– – воздушных змеев</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8803 90 200 0</td>
 <td>– – космических аппаратов (включая спутники)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8803 90 300 0</td>
 <td>– – суборбитальных и космических ракет-носителей</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8803 90 900 0</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8805 10 100 0</td>
 <td>– – стартовое оборудование для летательных аппаратов и его части</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8805 10 900 0</td>
 <td>– – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8805 21 000 0</td>
 <td>– – имитаторы воздушного боя и их части</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>8805 29 000 8</td>
 <td>– – – прочие</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>9001 90 000 1</td>
 <td>– – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9002 90 000 1</td>
 <td>– – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9005 10 000 0</td>
@@ -11746,42 +13851,47 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>9006 99 000 0</td>
 <td>– – прочие</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>9008 50 000 0</td>
 <td>– проекторы изображений, фотоувеличители и оборудование для проецирования изображений с уменьшением</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>9010 90 000 0</td>
 <td>– части и принадлежности</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9014 10 000 0</td>
 <td>– компасы для определения направления</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9014 20 200 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9014 20 800 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9014 90 000 0</td>
 <td>– части и принадлежности</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>9015 10 900 0</td>
+<td>– – прочие</td>
+<td>9</td>
 </tr>
 <tr>
 <td>9015 20 900 0</td>
 <td>– – прочие</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>9015 30 100 0</td>
@@ -11796,12 +13906,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>9017 20 100 0</td>
 <td>– – инструменты чертежные прочие</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9017 20 390 0</td>
 <td>– – инструменты для разметки</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9017 90 000 9</td>
@@ -11809,274 +13919,274 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>0</td>
 </tr>
 <tr>
+<td>9018 11 000 0</td>
+<td>– – электрокардиографы</td>
+<td>2</td>
+</tr>
+<tr>
 <td>9018 31 900 9</td>
 <td>– – – – прочие</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>9018 41 000 0</td>
 <td>– – бормашины, совмещенные или не совмещенные на едином основании с прочим стоматологическим оборудованием</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9018 49 100 0</td>
 <td>– – – боры, диски, наконечники и щетки для использования в бормашинах</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9018 49 900 0</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9018 50 900 0</td>
 <td>– – оптические</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>9018 90 200 0</td>
+<td>– – эндоскопы</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9018 90 500 1</td>
 <td>– – – системы для взятия и переливания крови, кровезаменителей и инфузионных растворов</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>9018 90 840 1</td>
+<td>– – – ультразвуковые литотриптеры</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9019 10 900 1</td>
 <td>– – – гидромассажные ванны и душевые кабины</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9021 21 100 0</td>
 <td>– – – из пластмассы</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9021 40 000 0</td>
 <td>– аппараты слуховые, кроме частей и принадлежностей</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9021 50 000 0</td>
 <td>– кардиостимуляторы, кроме частей и принадлежностей</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9021 90 100 0</td>
 <td>– – части и принадлежности к слуховым аппаратам</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9021 90 900 1</td>
 <td>– – – стенты коронарные</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9021 90 900 9</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9025 11 200 1</td>
 <td>– – – – медицинские</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9025 11 200 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9025 11 800 0</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9025 19 200 0</td>
 <td>– – – электронные</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9025 19 800 9</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9025 80 200 0</td>
 <td>– – барометры, не объединенные с другими приборами</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9025 80 400 0</td>
 <td>– – – электронные</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9025 80 800 0</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>9027 90 100 0</td>
+<td>– – микротомы</td>
+<td>0</td>
+</tr>
+<tr>
+<td>9027 90 800 0</td>
+<td>– – – микротомов или газо- или дымоанализаторов</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9028 90 900 0</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9029 10 000 1</td>
 <td>– – для промышленной сборки моторных транспортных средств товарных позиций 8701 – 8705, их узлов и агрегатов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9029 20 380 1</td>
 <td>– – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9030 10 000 0</td>
 <td>– приборы и аппаратура для обнаружения или измерения ионизирующих излучений</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9030 20 100 0</td>
 <td>– – электронно-лучевые</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9030 20 910 0</td>
 <td>– – – электронные</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9030 20 990 0</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9030 31 000 0</td>
 <td>– – приборы измерительные универсальные без записывающего устройства</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9030 33 100 0</td>
 <td>– – – электронные</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9030 33 910 0</td>
 <td>– – – – вольтметры</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9030 33 990 0</td>
 <td>– – – – прочие</td>
-<td>3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9032 10 200 0</td>
 <td>– – электронные</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9032 10 810 0</td>
 <td>– – – с электрическим пусковым устройством</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9032 10 890 0</td>
 <td>– – – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9032 20 000 0</td>
 <td>– маностаты</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
-<td>9102 11 000 0</td>
-<td>– – только с механической индикацией</td>
-<td>76</td>
-</tr>
-<tr>
-<td>9102 19 000 0</td>
-<td>– – прочие</td>
-<td>76</td>
-</tr>
-<tr>
-<td>9102 21 000 0</td>
-<td>– – с автоматическим подзаводом</td>
-<td>76</td>
-</tr>
-<tr>
-<td>9102 29 000 0</td>
-<td>– – прочие</td>
-<td>76</td>
+<td>9103 90 000 0</td>
+<td>– прочие</td>
+<td>11,3</td>
 </tr>
 <tr>
 <td>9104 00 000 2</td>
 <td>– для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9104 00 000 8</td>
 <td>– прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9109 10 000 0</td>
 <td>– приводимые в действие электричеством</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9109 90 000 1</td>
 <td>– – шириной или диаметром не более 50 мм, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9401 20 000 9</td>
 <td>– – прочие</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>9401 90 300 0</td>
 <td>– – – из древесины</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>9401 90 800 9</td>
 <td>– – – – прочие</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>9402 10 000 1</td>
 <td>– – кресла стоматологические и части к ним</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9402 10 000 9</td>
 <td>– – прочие</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9402 90 000 0</td>
 <td>– прочая</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9403 20 200 1</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9403 20 800 1</td>
 <td>– – – для гражданских воздушных судов5)</td>
-<td>3</td>
-</tr>
-<tr>
-<td>9403 50 000 1</td>
-<td>– – стоимостью на условиях франко-границы страны ввоза, не превышающей 1,8 евро за 1 кг брутто-массы</td>
-<td>15</td>
-</tr>
-<tr>
-<td>9403 60 100 1</td>
-<td>– – – стоимостью на условиях франко-границы страны ввоза, не превышающей 1,8 евро за 1 кг брутто-массы</td>
-<td>15</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9403 60 900 1</td>
@@ -12086,97 +14196,77 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>9403 70 000 1</td>
 <td>– – для гражданских воздушных судов5)</td>
-<td>3</td>
-</tr>
-<tr>
-<td>9403 89 000 0</td>
-<td>– – прочая</td>
-<td>10 плюс 0,13 евро за 1 кг</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9403 90 100 0</td>
 <td>– – из металла</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9403 90 300 0</td>
 <td>– – из древесины</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9403 90 900 0</td>
 <td>– – из прочих материалов</td>
-<td>5</td>
-</tr>
-<tr>
-<td>9404 21 100 0</td>
-<td>– – – из резины</td>
-<td>106</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9404 21 900 0</td>
 <td>– – – из пластмассы</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9404 29 100 0</td>
 <td>– – – пружинные</td>
-<td>13</td>
-</tr>
-<tr>
-<td>9404 29 900 0</td>
-<td>– – – прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9404 30 000 0</td>
 <td>– мешки спальные</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9404 90 100 0</td>
 <td>– – пуховые или перьевые</td>
-<td>13</td>
-</tr>
-<tr>
-<td>9404 90 900 0</td>
-<td>– – прочие</td>
-<td>126</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9405 10 210 1</td>
 <td>– – – – для медицинских целей4)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 10 400 1</td>
 <td>– – – – для медицинских целей4)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 10 400 2</td>
 <td>– – – – – – для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 10 500 1</td>
 <td>– – – для медицинских целей4)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 10 910 1</td>
 <td>– – – – для медицинских целей4)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 10 980 1</td>
 <td>– – – – для медицинских целей4)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 10 980 2</td>
 <td>– – – – из недрагоценных металлов, предназначенные для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 20 110 9</td>
@@ -12184,239 +14274,349 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <td>15</td>
 </tr>
 <tr>
-<td>9405 20 400 4</td>
-<td>– – – – – из пластмассы</td>
+<td>9405 20 400 2</td>
+<td>– – – – – – предназначенные для использования со светодиодными источниками света на жесткой печатной плате</td>
+<td>15</td>
+</tr>
+<tr>
+<td>9405 20 400 3</td>
+<td>– – – – – – прочие</td>
 <td>15</td>
 </tr>
 <tr>
 <td>9405 92 000 1</td>
 <td>– – – для медицинских целей4)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 92 000 2</td>
 <td>– – – части изделий субпозиций 9405 10 или 9405 60, предназначенных для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 99 000 1</td>
 <td>– – – для медицинских целей4)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 99 000 2</td>
 <td>– – – части из недрагоценных металлов изделий субпозиций 9405 10 или 9405 60, предназначенных для гражданских воздушных судов5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 99 000 8</td>
 <td>– – – прочие</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9503 00 100 1</td>
+<td>– – коляски для кукол</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 100 9</td>
 <td>– – прочие</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9503 00 210 0</td>
+<td>– – куклы</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 290 0</td>
 <td>– – части и принадлежности</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 300 0</td>
-<td>– поезда электрические, включая рельсы, светофоры и их прочие принадлежности; наборы элементов для сборки моделей в уменьшенном размере («в масштабе»)</td>
-<td>8</td>
+<td>– поезда электрические, включая рельсы, светофоры и их прочие принадлежности; наборы элементов для сборки моделей в уменьшенном размере (&quot;в масштабе&quot;)</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 350 0</td>
 <td>– – пластмассовые</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 390 0</td>
 <td>– – из прочих материалов</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9503 00 410 0</td>
+<td>– – набивные</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 490 0</td>
 <td>– – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 550 0</td>
 <td>– инструменты и устройства музыкальные игрушечные</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 610 0</td>
 <td>– – деревянные</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 690 0</td>
 <td>– – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 700 0</td>
 <td>– игрушки в наборах или комплектах прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 750 0</td>
 <td>– – пластмассовые</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 790 0</td>
 <td>– – из прочих материалов</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9503 00 810 0</td>
+<td>– – игрушечное оружие</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9503 00 850 0</td>
+<td>– – мини-модели литые металлические</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9503 00 950 0</td>
+<td>– – – пластмассовые</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9503 00 990 1</td>
+<td>– – – – палатки для игр, используемые детьми в помещениях или на открытом воздухе, в виде животных, мультипликационных персонажей, транспортных средств, геометрических форм (например, пирамида, конус, куб, усеченная пирамида), состоящие из текстильного материала с пластмассовым или металлическим (трубчатым или пружинным) каркасом, высотой не более 120 см, шириной не более 185 см, длиной не более 185 см</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9503 00 990 9</td>
+<td>– – – – прочие</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9504 20 000 1</td>
 <td>– – столы для бильярда (с ножками или без них)</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9504 20 000 9</td>
 <td>– – прочие</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9504 30 100 0</td>
+<td>– – игры с экраном</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9504 30 200 1</td>
 <td>– – – флипперы</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9504 30 900 0</td>
 <td>– – части</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9504 40 000 0</td>
 <td>– карты игральные</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9504 50 000 1</td>
 <td>– – видеоигры с использованием телевизионного приемника</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9504 50 000 2</td>
 <td>– – электронные игры</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9504 90 800 1</td>
 <td>– – – специальные столы и изделия для казино</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9505 10 100 0</td>
+<td>– – стеклянные</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9505 10 900 0</td>
+<td>– – из прочих материалов</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9505 90 000 0</td>
+<td>– прочие</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9506 99 100 0</td>
 <td>– – – инвентарь для поло и крикета, кроме мячей</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>9601 10 000 0</td>
 <td>– кость слоновая обработанная и изделия из нее</td>
-<td>12,5</td>
+<td>11,3</td>
 </tr>
 <tr>
 <td>9601 90 000 0</td>
 <td>– прочие</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9602 00 000 1</td>
+<td>– обработанные янтарь, янтарь агломерированный, гагат (черный янтарь)</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9602 00 000 9</td>
+<td>– прочие</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9603 10 000 0</td>
 <td>– метлы и щетки, состоящие из веток или других растительных материалов, связанных вместе, с рукоятками или без рукояток</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9603 29 800 0</td>
 <td>– – – прочие</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9603 30 100 0</td>
 <td>– – кисти художественные и кисточки для письма</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9603 30 900 0</td>
 <td>– – кисточки для нанесения косметики</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9603 40 900 0</td>
 <td>– – подушечки и валики малярные для краски</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9603 50 000 9</td>
 <td>– – прочие</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9603 90 100 0</td>
+<td>– – щетки ручные механические без двигателей для уборки полов</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9603 90 990 0</td>
+<td>– – – прочие</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9604 00 000 0</td>
 <td>Сита и решета ручные</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9605 00 000 0</td>
 <td>Наборы дорожные, используемые для личной гигиены, шитья или для чистки одежды или обуви</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9606 10 000 0</td>
 <td>– кнопки, застежки-защелки и их части</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9606 21 000 0</td>
 <td>– – пластмассовые, без текстильного покрытия</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9606 22 000 0</td>
 <td>– – из недрагоценного металла, без текстильного покрытия</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9607 11 000 0</td>
 <td>– – с зубцами из недрагоценного металла</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9607 20 100 0</td>
 <td>– – из недрагоценного металла, включая узкие ленты с зубцами из недрагоценного металла</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9607 20 900 0</td>
 <td>– – прочие</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9613 80 000 0</td>
+<td>– прочие зажигалки</td>
+<td>9</td>
+</tr>
+<tr>
+<td>9614 00 100 0</td>
+<td>– грубообработанные заготовки из дерева или корневища для изготовления трубок</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9614 00 900 0</td>
+<td>– прочие</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9615 19 000 0</td>
+<td>– – прочие</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9615 90 000 0</td>
+<td>– прочие</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9616 10 100 0</td>
 <td>– – распылители для гигиенических целей</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9616 10 900 0</td>
 <td>– – насадки и головки</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9616 20 000 0</td>
 <td>– пуховки и подушечки для нанесения косметических или туалетных средств</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9618 00 000 0</td>
 <td>Манекены для портных и прочие манекены; манекены-автоматы и движущиеся предметы для оформления витрин прочие</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9619 00 500 1</td>
@@ -12426,27 +14626,27 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 <tr>
 <td>9619 00 710 1</td>
 <td>– – – – из бумажной массы, бумаги, целлюлозной ваты или полотна из волокон целлюлозы</td>
-<td>2,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9619 00 750 1</td>
 <td>– – – – из бумажной массы, бумаги, целлюлозной ваты или полотна из волокон целлюлозы</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9619 00 790 1</td>
 <td>– – – – из бумажной массы, бумаги, целлюлозной ваты или полотна из волокон целлюлозы</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9619 00 810 1</td>
 <td>– – – – из бумажной массы, бумаги, целлюлозной ваты или полотна из волокон целлюлозы</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9619 00 890 1</td>
 <td>– – – – из бумажной массы, бумаги, целлюлозной ваты или полотна из волокон целлюлозы</td>
-<td>3</td>
+<td>0</td>
 </tr>
 </table>
 
@@ -12458,8 +14658,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/rus/01.12.2017
 
 3 Если ставка ввозной таможенной пошлины, установленная настоящим Перечнем, выше чем ставка ввозной таможенной пошлины, установленная в Едином таможенном тарифе Евразийского экономического союза, то применяется ставка ввозной таможенной пошлины, установленная в Едином таможенном тарифе Евразийского экономического союза.
 
-4 Ставка ввозной таможенной пошлины применяется с 1 мая 2018 года.
+4 Ставка ввозной таможенной пошлины применяется с 25 мая 2019 года.
 
-5 Ставка ввозной таможенной пошлины применяется с 1 января 2018 года.
+5 Ставка ввозной таможенной пошлины применяется с 1 июня 2019 года.
 
-6 Ставка ввозной таможенной пошлины применяется по 31 декабря 2017 года включительно.
+6 Ставка ввозной таможенной пошлины применяется с 1 сентября 2019 года.
+
+7 Ставка ввозной таможенной пошлины применяется по 31 августа 2019 года. включительно.
+
+8 Ставка ввозной таможенной пошлины применяется с 1 января 2019 года.

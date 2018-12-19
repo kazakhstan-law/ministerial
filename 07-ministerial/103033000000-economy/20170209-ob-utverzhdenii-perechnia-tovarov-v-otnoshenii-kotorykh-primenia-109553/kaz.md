@@ -1,5 +1,5 @@
 ---
-version_id: '109553_263483'
+version_id: '109553_382726'
 act_code: '109553'
 language: kaz
 title: Әкелу кедендiк бажы қолданылатын тауарлар тiзбесiн, мөлшерлемелер көлемiн және олардың қолданылу мерзiмiн бекіту туралы
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103033000000'
 approval_date: 2017-02-09
-version_date: 2017-12-01
+version_date: 2018-12-19
 registry_number: '109553'
 caused_by:
-  code: '116288'
+  code: '127283'
   title: «Әкелу кедендiк бажы қолданылатын тауарлар тiзбесiн, мөлшерлемелер көлемiн және олардың қолданылу мерзiмiн бекіту туралы» Қазақстан Республикасы Ұлттық экономика министрінің 2017 жылғы 9 ақпандағы № 58 бұйрығына өзгеріс енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/116288/kaz
-source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
+  link: https://zan.gov.kz/client/#!/doc/127283/kaz
+source: https://zan.gov.kz/client/#!/doc/109553/kaz
 ---
 
 # Әкелу кедендiк бажы қолданылатын тауарлар тiзбесiн, мөлшерлемелер көлемiн және олардың қолданылу мерзiмiн бекіту туралы
@@ -60,21 +60,13 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 
 ## Әкелу кедендiк бажы қолданылатын тауарлар тiзбесi, мөлшерлемелер көлемi және олардың қолданылу мерзiмi1
 
-> *Ескерту. Тізбе жаңа редакцияда – ҚР Ұлттық экономика министрінің 10.11.2017 № 379 (01.12.2017 бастап қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. Тізбе жаңа редакцияда - ҚР Ұлттық экономика министрінің 19.12.2018 № 105 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
-<td>
-ЕАЭО СЭҚ ТН
-коды
-</td>
+<td>ЕАЭО СЭҚ ТН коды</td>
 <td>Позиция атауы2</td>
 <td>Кедендік әкелу баждары мөлшерлемесі (кедендік құнынан пайызбен не евромен не АҚШ долларымен)3</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
 </tr>
 <tr>
 <td>0101 30 000 0</td>
@@ -118,7 +110,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0201 30 000 8</td>
-<td>– – – өзгелері</td>
+<td>– – – өзгесі</td>
 <td>40</td>
 </tr>
 <tr>
@@ -143,12 +135,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0202 20 900 8</td>
-<td>– – – – өзгелері</td>
+<td>– – – – өзгесі</td>
 <td>40</td>
 </tr>
 <tr>
 <td>0202 30 100 8</td>
-<td>– – – – өзгелері</td>
+<td>– – – – өзгесі</td>
 <td>40</td>
 </tr>
 <tr>
@@ -164,122 +156,122 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0203 11 100 9</td>
 <td>– – – – өзгелері</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 11 900 9</td>
 <td>– – – – өзгелері</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 12 110 9</td>
 <td>– – – – – өзгелері</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 12 190 9</td>
 <td>– – – – – өзгелері</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 12 900 9</td>
 <td>– – – – өзгелері</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 19 110 9</td>
 <td>– – – – – өзгелері</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 19 130 9</td>
 <td>– – – – – өзгелері</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 19 150 9</td>
 <td>– – – – – өзгелері</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 19 550 9</td>
-<td>– – – – – – өзгелері</td>
-<td>28</td>
+<td>– – – – – – өзгесі</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 19 590 9</td>
-<td>– – – – – – өзгелері</td>
-<td>28</td>
+<td>– – – – – – өзгесі</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 19 900 9</td>
-<td>– – – – өзгелері</td>
-<td>28</td>
+<td>– – – – өзгесі</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 21 100 9</td>
 <td>– – – – өзгелері</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 21 900 9</td>
 <td>– – – – өзгелері</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 22 110 9</td>
 <td>– – – – – өзгелері</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 22 190 9</td>
 <td>– – – – – өзгелері</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 22 900 9</td>
 <td>– – – – өзгелері</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 29 110 9</td>
 <td>– – – – – өзгелері</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 29 130 9</td>
 <td>– – – – – өзгелері</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 29 150 9</td>
 <td>– – – – – өзгелері</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 29 550 3</td>
 <td>– – – – – – – тримминг</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 29 550 9</td>
-<td>– – – – – – – өзгелері</td>
-<td>28</td>
+<td>– – – – – – – өзгесі</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 29 590 9</td>
-<td>– – – – – – өзгелері</td>
-<td>28</td>
+<td>– – – – – – өзгесі</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 29 900 3</td>
 <td>– – – – – тримминг</td>
-<td>28</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0203 29 900 9</td>
-<td>– – – – – өзгелері</td>
-<td>28</td>
+<td>– – – – – өзгесі</td>
+<td>27</td>
 </tr>
 <tr>
 <td>0207 11 100 1</td>
@@ -289,7 +281,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 11 100 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 11 300 1</td>
@@ -299,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 11 300 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 11 900 1</td>
@@ -309,7 +301,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 11 900 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 12 100 1</td>
@@ -319,7 +311,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 12 100 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 12 900 1</td>
@@ -329,7 +321,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 12 900 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 13 100 1</td>
@@ -338,8 +330,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 13 100 9</td>
-<td>– – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 13 200 1</td>
@@ -349,7 +341,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 13 200 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 13 300 1</td>
@@ -359,7 +351,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 13 300 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 13 400 1</td>
@@ -369,7 +361,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 13 400 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 13 500 1</td>
@@ -379,7 +371,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 13 500 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 13 600 1</td>
@@ -389,7 +381,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 13 600 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 13 700 1</td>
@@ -399,7 +391,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 13 700 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 13 910 1</td>
@@ -408,8 +400,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 13 910 9</td>
-<td>– – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 13 990 1</td>
@@ -419,7 +411,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 13 990 9</td>
 <td>– – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 14 100 1</td>
@@ -428,8 +420,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 14 100 9</td>
-<td>– – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 14 200 1</td>
@@ -439,7 +431,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 14 200 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 14 300 1</td>
@@ -449,7 +441,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 14 300 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 14 400 1</td>
@@ -459,7 +451,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 14 400 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 14 500 1</td>
@@ -469,7 +461,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 14 500 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 14 600 1</td>
@@ -479,7 +471,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 14 600 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 14 700 1</td>
@@ -489,7 +481,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 14 700 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 14 910 1</td>
@@ -498,8 +490,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 14 910 9</td>
-<td>– – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 14 990 1</td>
@@ -509,7 +501,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 14 990 9</td>
 <td>– – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 24 100 1</td>
@@ -519,7 +511,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 24 100 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 24 900 1</td>
@@ -529,7 +521,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 24 900 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 25 100 1</td>
@@ -539,7 +531,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 25 100 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 25 900 1</td>
@@ -549,7 +541,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 25 900 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 26 100 1</td>
@@ -558,8 +550,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 26 100 9</td>
-<td>– – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 26 200 1</td>
@@ -569,7 +561,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 26 200 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 26 300 1</td>
@@ -579,7 +571,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 26 300 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 26 400 1</td>
@@ -589,7 +581,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 26 400 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 26 500 1</td>
@@ -599,7 +591,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 26 500 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 26 600 1</td>
@@ -609,7 +601,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 26 600 9</td>
 <td>– – – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 26 700 1</td>
@@ -619,7 +611,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 26 700 9</td>
 <td>– – – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 26 800 1</td>
@@ -629,7 +621,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 26 800 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 26 910 1</td>
@@ -638,8 +630,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 26 910 9</td>
-<td>– – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 26 990 1</td>
@@ -649,7 +641,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 26 990 9</td>
 <td>– – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 27 100 1</td>
@@ -658,8 +650,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 27 100 9</td>
-<td>– – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 27 200 1</td>
@@ -669,7 +661,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 27 200 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 27 300 1</td>
@@ -679,7 +671,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 27 300 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 27 400 1</td>
@@ -689,7 +681,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 27 400 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 27 500 1</td>
@@ -699,7 +691,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 27 500 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 27 600 1</td>
@@ -709,7 +701,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 27 600 9</td>
 <td>– – – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 27 700 1</td>
@@ -719,7 +711,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 27 700 9</td>
 <td>– – – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 27 800 1</td>
@@ -729,7 +721,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 27 800 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 27 910 1</td>
@@ -738,8 +730,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 27 910 9</td>
-<td>– – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 27 990 1</td>
@@ -749,7 +741,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 27 990 9</td>
 <td>– – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 41 200 1</td>
@@ -759,7 +751,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 41 200 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 41 300 1</td>
@@ -769,7 +761,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 41 300 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 41 800 1</td>
@@ -779,7 +771,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 41 800 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 42 300 1</td>
@@ -789,7 +781,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 42 300 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 42 800 1</td>
@@ -799,7 +791,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 42 800 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 43 000 1</td>
@@ -808,8 +800,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 43 000 9</td>
-<td>– – – өзгелері</td>
-<td>55</td>
+<td>– – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 44 100 1</td>
@@ -818,8 +810,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 44 100 9</td>
-<td>– – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 44 210 1</td>
@@ -829,7 +821,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 44 210 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 44 310 1</td>
@@ -839,7 +831,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 44 310 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 44 410 1</td>
@@ -849,7 +841,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 44 410 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 44 510 1</td>
@@ -859,7 +851,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 44 510 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 44 610 1</td>
@@ -869,7 +861,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 44 610 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 44 710 1</td>
@@ -879,7 +871,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 44 710 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 44 810 1</td>
@@ -889,7 +881,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 44 810 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 44 910 1</td>
@@ -898,8 +890,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 44 910 9</td>
-<td>– – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 44 990 1</td>
@@ -909,7 +901,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 44 990 9</td>
 <td>– – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 45 100 1</td>
@@ -918,8 +910,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 45 100 9</td>
-<td>– – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 45 210 1</td>
@@ -929,7 +921,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 45 210 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 45 310 1</td>
@@ -939,7 +931,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 45 310 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 45 410 1</td>
@@ -949,7 +941,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 45 410 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 45 510 1</td>
@@ -959,7 +951,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 45 510 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 45 610 1</td>
@@ -969,7 +961,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 45 610 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 45 710 1</td>
@@ -979,7 +971,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 45 710 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 45 810 1</td>
@@ -989,7 +981,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 45 810 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 45 930 1</td>
@@ -998,8 +990,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 45 930 9</td>
-<td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 45 950 1</td>
@@ -1008,8 +1000,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 45 950 9</td>
-<td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 45 990 1</td>
@@ -1019,7 +1011,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 45 990 9</td>
 <td>– – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 51 100 1</td>
@@ -1029,7 +1021,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 51 100 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 51 900 1</td>
@@ -1039,7 +1031,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 51 900 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 52 100 1</td>
@@ -1049,7 +1041,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 52 100 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 52 900 1</td>
@@ -1059,7 +1051,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 52 900 9</td>
 <td>– – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 53 000 1</td>
@@ -1068,8 +1060,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 53 000 9</td>
-<td>– – – өзгелері</td>
-<td>55</td>
+<td>– – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 54 100 1</td>
@@ -1078,8 +1070,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 54 100 9</td>
-<td>– – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 54 210 1</td>
@@ -1089,7 +1081,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 54 210 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 54 310 1</td>
@@ -1099,7 +1091,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 54 310 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 54 410 1</td>
@@ -1109,7 +1101,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 54 410 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 54 510 1</td>
@@ -1119,7 +1111,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 54 510 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 54 610 1</td>
@@ -1129,7 +1121,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 54 610 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 54 710 1</td>
@@ -1139,7 +1131,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 54 710 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 54 810 1</td>
@@ -1149,7 +1141,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 54 810 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 54 910 1</td>
@@ -1158,8 +1150,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 54 910 9</td>
-<td>– – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 54 990 1</td>
@@ -1169,7 +1161,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 54 990 9</td>
 <td>– – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 55 100 1</td>
@@ -1178,8 +1170,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 55 100 9</td>
-<td>– – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 55 210 1</td>
@@ -1189,7 +1181,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 55 210 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 55 310 1</td>
@@ -1199,7 +1191,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 55 310 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 55 410 1</td>
@@ -1209,7 +1201,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 55 410 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 55 510 1</td>
@@ -1219,7 +1211,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 55 510 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 55 610 1</td>
@@ -1229,7 +1221,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 55 610 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 55 710 1</td>
@@ -1239,7 +1231,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 55 710 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 55 810 1</td>
@@ -1249,7 +1241,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 55 810 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 55 930 1</td>
@@ -1258,8 +1250,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 55 930 9</td>
-<td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 55 950 1</td>
@@ -1268,8 +1260,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 55 950 9</td>
-<td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 55 990 1</td>
@@ -1279,7 +1271,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 55 990 9</td>
 <td>– – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 60 050 1</td>
@@ -1289,7 +1281,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 60 050 9</td>
 <td>– – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 60 100 1</td>
@@ -1298,8 +1290,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 60 100 9</td>
-<td>– – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 60 210 1</td>
@@ -1309,7 +1301,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 60 210 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 60 310 1</td>
@@ -1319,7 +1311,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 60 310 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 60 410 1</td>
@@ -1329,7 +1321,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 60 410 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 60 510 1</td>
@@ -1339,7 +1331,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 60 510 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 60 610 1</td>
@@ -1349,7 +1341,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 60 610 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 60 810 1</td>
@@ -1359,7 +1351,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 60 810 9</td>
 <td>– – – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 60 910 1</td>
@@ -1368,8 +1360,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0207 60 910 9</td>
-<td>– – – – – өзгелері</td>
-<td>55</td>
+<td>– – – – – өзгесі</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0207 60 990 1</td>
@@ -1379,27 +1371,27 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0207 60 990 9</td>
 <td>– – – – – өзгелері</td>
-<td>55</td>
+<td>50, бірақ 1 кг 0,75 евродан кем емес</td>
 </tr>
 <tr>
 <td>0209 10 110 0</td>
 <td>– – – жас, тоңазытылған, мұздатылған, тұздалған немесе тұздық судағы</td>
-<td>13, бірақ 1 кг 0,13 евродан кем емес</td>
+<td>12, бірақ 1 кг 0,12 евродан кем емес</td>
 </tr>
 <tr>
 <td>0209 10 190 0</td>
 <td>– – – кептірілген немесе ысталған</td>
-<td>13, бірақ 1 кг 0,13 евродан кем емес</td>
+<td>12, бірақ 1 кг 0,12 евродан кем емес</td>
 </tr>
 <tr>
 <td>0209 10 900 0</td>
 <td>– – 0209 00 110 0 немесе 0209 00 190 0 кіші қосалқы позицияларында көрсетілгеннен басқа шошқаның майы</td>
-<td>13, бірақ 1 кг 0,13 евродан кем емес</td>
+<td>12, бірақ 1 кг 0,12 евродан кем емес</td>
 </tr>
 <tr>
 <td>0209 90 000 0</td>
-<td>– өзгелері</td>
-<td>13, бірақ 1 кг 0,13 евродан кем емес</td>
+<td>– өзгесі</td>
+<td>12, бірақ 1 кг 0,12 евродан кем емес</td>
 </tr>
 <tr>
 <td>0210 11 110 0</td>
@@ -1504,91 +1496,221 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0301 11 000 0</td>
 <td>– – тұщы су балықтары</td>
-<td>4,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 19 000 0</td>
-<td>– – өзгелері</td>
-<td>4,3</td>
+<td>– – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 91 100 0</td>
-<td>– – – Oncorhynchus aрache немесе Oncorhynchus chrysogaster түрі</td>
-<td>5</td>
+<td>– – – Oncorhynchus aрache немесе Oncorhynchus chrysogaster түріндегі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 91 900 0</td>
-<td>– – – өзгелері</td>
-<td>5 4</td>
+<td>– – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 92 100 0</td>
 <td>– – – ұзындығы 12 см-ден аспайтын</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 92 300 0</td>
 <td>– – – ұзындығы 12 см-ден асатын, бірақ 20 сантиметрден аспайтын</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 92 900 0</td>
 <td>– – – ұзындығы 20 см-ден асатын</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 93 000 0</td>
 <td>– – тұқы (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.)</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 94 100 0</td>
 <td>– – – көк немесе қарапайым тунец (Thunnus thynnus)</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 94 900 0</td>
 <td>– – – көгілдір тұнықмұхиттық тунец (Thunnus orientalis)</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 95 000 0</td>
 <td>– – көк оңтүстік тунец (Thunnus maccoyii)</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 99 110 0</td>
 <td>– – – – тынықмұхиттық албырт (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou және Oncorhynchus rhodurus), атлант албырты (Salmo salar) және дунай албырты (Hucho hucho)</td>
-<td>5 4</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 99 181 0</td>
 <td>– – – – – – шабақтар</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 99 182 0</td>
 <td>– – – – – – өзгелері</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 99 186 0</td>
 <td>– – – – – өзгесі</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0301 99 850 0</td>
 <td>– – – өзгесі</td>
-<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0302 21 100 0</td>
+<td>– – – қара палтус, немесе көк қабықты палтус (Reinhardtius hiррoglossoides)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 21 300 0</td>
+<td>– – – ақ қабықты немесе қарапайым палтус (Hiррoglossus hiррoglossus)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 21 900 0</td>
+<td>– – – тынықмұхиттық палтус (Hiррoglossus stenoleрis)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 22 000 0</td>
+<td>– – теңіз камбаласы (Рleuronectes рlatessa)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 23 000 0</td>
+<td>– – теңіз тілі (Solea sрр.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 24 000 0</td>
+<td>– – тюрбо (Psetta maxima)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 29 100 0</td>
+<td>– – – мегрим (Leрidorhombus sрр.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 29 800 0</td>
+<td>– – – өзгелері</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 33 100 0</td>
+<td>– – – 1604 тауар позициясының өнімдерін өнеркәсіптік өндіру үшін</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 33 900 0</td>
+<td>– – – өзгесі</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 43 100 0</td>
+<td>– – – Sardina рilchardus түріндегі сардиналар</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 43 300 0</td>
+<td>– – – Sardinoрs тектес сардиналар; сардинелла (Sardinella sрр.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 74 000 0</td>
+<td>– – жыланбалық (Anguilla spp.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 81 100 0</td>
+<td>– – – Squalus acanthias түріндегі акула</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 81 200 0</td>
+<td>– – – Scyliorhinus sрр түріндегі акула</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 81 300 0</td>
+<td>– – – (Lamna nasus) майшабақ акула</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 81 900 0</td>
+<td>– – – өзгелері</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 92 000 0</td>
+<td>– – акуланың жүзбеқанаттары</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 99 000 2</td>
+<td>– – – акулалардың</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0302 99 000 3</td>
+<td>– – – Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae Citharidae теңіз түйетабаны тұқымы, Euthynnus (Katsuwonus) pelamis түріндегі тунец, Sardina pilchardus түріндегі сардина, Sardinops тұқымды сардина, Sardinella spp түріндегі сардинелла, Sprattus sprattus түріндегі килька немесе шпроттар, Anguilla spp тұқымды жыланбалық.</td>
+<td>6</td>
 </tr>
 <tr>
 <td>0303 11 000 0</td>
 <td>– – қызыл немесе келмен балық (Oncorhynchus nerka)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0303 12 000 0</td>
+<td>– – өзге тынықмұхиттық албырт (Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou және Oncorhynchus rhodurus)</td>
 <td>6</td>
+</tr>
+<tr>
+<td>0303 13 000 0</td>
+<td>– – атлант албырты (Salmo salar) және дунай албырты (Hucho hucho)</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0303 26 000 0</td>
+<td>– – жыланбалық (Anguilla spp.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 31 300 0</td>
+<td>– – – ақ қабықты немесе қарапайым палтус (Hiррoglossus hiррoglossus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0303 31 900 0</td>
+<td>– – – тынықмұхиттық палтус (Hiррoglossus stenoleрis)</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0303 39 100 0</td>
 <td>– – – өзен камбаласы (Рlatichthys flesus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0303 39 500 0</td>
+<td>– – – Рelotreis flavilatus немесе Рeltorhamрhus novaezealandiae түріндегі балық</td>
 <td>6</td>
 </tr>
 <tr>
@@ -1597,164 +1719,624 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>5</td>
 </tr>
 <tr>
-<td>0303 99 000 1</td>
-<td>– – албырттық Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou немесе Oncorhynchus rhodurus түрлері; Pelotreis flavilatus немесе Peltorhamphus novaezealandiae балық түрлері; Merluccius тұқымының мерзулесы; америкалық нәлім Urophycis; мерланг түрі Merlangius merlangus; Kathetostoma giganteum балық түрі</td>
+<td>0303 43 100 0</td>
+<td>– – – 1604 тауар позициясының өнімдерін өнеркәсіптік өндіру үшін</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0303 99 000 7</td>
-<td>– – – жыланбалықтың (Anguilla spp.); камбала тәріздес (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis, Solea spp., Pelotreis flavilatus, Peltorhamphus novaezealandiae түрлерін қоспағанда, Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae және Citharidae); скипджека немесе жолақ тунец (Euthynnus (Katsuwonus) pelamis); тунецтер (Thunnus тұқымы, Thunnus alalunga, Thunnus albacares түрлерінен басқа); минтай (Theragra chalcogramma); оңтүстік путассу (Micromesistius australis); Boreogadus saida түрінің балықтары; күмісті сайда (Pollachius pollachius); жаңазеландия макруронусы (Macruronus novaezealandiae); мольва (Molva spp.); Orcynopsis unicolor түрінің балықтары; анчоус (Engraulis spp.); теңіз табан (Dentex dentex және Pagellus spp.); қарапайым теңіз ақтабан (Brama spp.); қармақшы (Lophius spp.); қара конгрио (Genypterus blacodes)</td>
+<td>0303 43 900 0</td>
+<td>– – – өзгесі</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0303 99 000 9</td>
-<td>– – – өзгелері</td>
-<td>5</td>
+<td>0303 44 100 0</td>
+<td>– – – 1604 тауар позициясының өнімдерін өнеркәсіптік өндіру үшін</td>
+<td>6</td>
 </tr>
 <tr>
-<td>0304 74 110 0</td>
+<td>0303 44 900 0</td>
+<td>– – – өзгесі</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 45 120 0</td>
+<td>– – – – 1604 тауар позициясының өнімдерін өнеркәсіптік өндіру үшін</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 45 180 0</td>
+<td>– – – – өзгесі</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 45 910 0</td>
+<td>– – – – 1604 тауар позициясының өнімдерін өнеркәсіптік өндіру үшін</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 45 990 0</td>
+<td>– – – – өзгесі</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 46 100 0</td>
+<td>– – – 1604 тауар позициясының өнімдерін өнеркәсіптік өндіру үшін</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 46 900 0</td>
+<td>– – – өзгесі</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 49 200 0</td>
+<td>– – – 1604 тауар позициясының өнімдерін өнеркәсіптік өндіру үшін</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 49 850 0</td>
+<td>– – – өзгесі</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 55 100 0</td>
+<td>– – – қарапайым ставрида (Trachurus trachurus)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 55 900 2</td>
+<td>– – – – Caranx trahurus түріндегі ставрида</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 59 100 0</td>
+<td>– – – анчоустар (Engraulis spp.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 59 210 1</td>
+<td>– – – – – бөлінбеген</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 59 210 2</td>
+<td>– – – – – желбезегі және іш құрылысы жоқ</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 59 210 9</td>
+<td>– – – – – өзге бөлінген (мысалы &quot;басы кесілген&quot;)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 59 290 0</td>
+<td>– – – – өзгесі</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 66 110 0</td>
 <td>– – – – каптық мерлуза (таяз) (Merluccius capensis) және намибия мерлузасы (терең) (Merluccius paradoxus)</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 74 150 0</td>
+<td>0303 66 120 0</td>
 <td>– – – – аргентиналық мерлуза (Merluccius hubbsi)</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 74 190 0</td>
+<td>0303 66 130 0</td>
+<td>– – – – жаңазеландия мерлузасы (Merluccius australis)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 66 190 0</td>
 <td>– – – – өзгесі</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 74 900 0</td>
-<td>– – – Uroрhycis тұқымдас америкалық қауырсыны жіп тәріздес нәлім</td>
+<td>0303 66 900 0</td>
+<td>– – – Uroрhycis тектес америкалық қауырсыны жіп тәріздес нәлім</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 75 000 0</td>
+<td>0303 67 000 0</td>
 <td>– – минтай (Theragra chalcogramma)</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 79 300 0</td>
+<td>0303 68 900 0</td>
+<td>– – – оңтүстік путассу (Micromesistius australis)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 69 100 0</td>
+<td>– – – Boreogadus saida түріндегі балық</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 69 300 0</td>
 <td>– – – мерланг (Merlangius merlangus)</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 79 500 0</td>
+<td>0303 69 500 0</td>
+<td>– – – күмісті сайда (Pollachius pollachius)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 69 700 0</td>
 <td>– – – жаңазеландия макруронусы (Macruronus novaezealandiae)</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 79 800 0</td>
+<td>0303 69 800 0</td>
 <td>– – – мольва (Molva sрр.)</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 79 900 0</td>
-<td>– – – өзгесі</td>
+<td>0303 89 210 3</td>
+<td>– – – – – – бөлінбеген</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 83 100 0</td>
-<td>– – – теңіз камбаласы (Рleuronectes рlatessa)</td>
+<td>0303 89 210 4</td>
+<td>– – – – – – желбезегі және іш құрылысы жоқ</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 83 300 0</td>
-<td>– – – өзен камбаласы (Рlatichthys flesus)</td>
+<td>0303 89 210 8</td>
+<td>– – – – – – өзге бөлінген (мысалы &quot;басы кесілген&quot;)</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 83 900 0</td>
-<td>– – – өзгесі</td>
-<td>6</td>
-</tr>
-<tr>
-<td>0304 84 000 0</td>
-<td>– – семсер-балық (Xiphias gladius)</td>
-<td>6</td>
-</tr>
-<tr>
-<td>0304 85 000 0</td>
-<td>– – азулы (Dissostichus spp.)</td>
-<td>6</td>
-</tr>
-<tr>
-<td>0304 88 100 0</td>
-<td>– – – – тікенек акула және (Squalus acanthias sрр.) мысық акула (Scyliorhinus spp.)</td>
-<td>6</td>
-</tr>
-<tr>
-<td>0304 88 200 0</td>
-<td>– – – – майшабақ акуласы (Lamna nasus)</td>
-<td>6</td>
-</tr>
-<tr>
-<td>0304 88 500 0</td>
-<td>– – – – басқа акулалар</td>
-<td>6</td>
-</tr>
-<tr>
-<td>0304 88 900 0</td>
-<td>– – – тұтасқанатты және ромб тұтасқанат (Rajidae)</td>
-<td>6</td>
-</tr>
-<tr>
-<td>0304 89 290 0</td>
+<td>0303 89 290 0</td>
 <td>– – – – – өзгесі</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0304 89 600 0</td>
+<td>0303 89 310 0</td>
+<td>– – – – – Sebastes marinus түріндегі</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 390 0</td>
+<td>– – – – – өзгесі</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 400 0</td>
+<td>– – – – Orcynopsis unicolor түріндегі балық</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 500 0</td>
+<td>– – – – теңіз табаны (Dentex dentex және Рagellus sрр.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 600 0</td>
+<td>– – – – (Brama sрр.) қарапайым теңіз ақтабаны</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 650 0</td>
 <td>– – – – қармақшы (Loрhius sрр.)</td>
 <td>6</td>
 </tr>
 <tr>
+<td>0303 89 700 0</td>
+<td>– – – – қара конгрио (Genyрterus blacodes)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 89 900 3</td>
+<td>– – – – – Kathetostoma giganteum түріндегі балық</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 99 000 1</td>
+<td>– – – албырттық Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou немесе Oncorhynchus rhodurus түріндегі; Pelotreis flavilatus немесе Peltorhamphus novaezealandiae балық түріндегі; Merluccius тұқымының мерзуласы; америкалық нәлім Urophycis; мерланг түрі Merlangius merlangus; Kathetostoma giganteum балық түріндегі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0303 99 000 2</td>
+<td>– – – басқа түрдегі албырттық</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0303 99 000 4</td>
+<td>– – – қарапайым ставрида (Trachurus trachurus) скипджектен, немесе жолақ тунецтен (Euthynnus (Katsuwonus) pelamis) басқа, Euthynnus тектес балықтар</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 99 000 5</td>
+<td>– – – теңіз алабұғасы (Sebastes sрр.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0303 99 000 6</td>
+<td>– – – тынық мұхит сутілі (Hippoglossus stenolepis); семсер балық (Xiphias gladius); нәлім (Gadus morhua, Gadus ogac, Gadus macrocephalus); пикша (Melanogrammus aeglefinus); сайда (Pollachius virens); лаврак (Dicentrarchus spp.)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0303 99 000 7</td>
+<td>– – – жыланбалықтың (Anguilla spp.); камбала тәріздес (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis, Solea spp., Pelotreis flavilatus, Peltorhamphus novaezealandiae түрлерін қоспағанда, Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae және Citharidae); скипджека немесе жолақ тунец (Euthynnus (Katsuwonus) pelamis); тунецтер (Thunnus тұқымы, Thunnus alalunga, Thunnus albacares түрлерінен басқа); минтай (Theragra chalcogramma); оңтүстік путассу (Micromesistius australis); Boreogadus saida түріндегі балықтар; күмісті сайда (Pollachius pollachius); жаңазеландия макруронусы (Macruronus novaezealandiae); мольва (Molva spp.); Orcynopsis unicolor түріндегі балықтар; анчоус (Engraulis spp.); теңіз табан (Dentex dentex және Pagellus spp.); қарапайым теңіз ақтабан (Brama spp.); қармақшы (Lophius spp.); қара конгрио (Genypterus blacodes)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0303 99 000 9</td>
+<td>– – – өзгелері</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 61 000 0</td>
+<td>– – тилапияның (Oreochromis spp.)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 62 000 0</td>
+<td>– – жайынның (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 63 000 0</td>
+<td>– – ніл латесінің (Lates niloticus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 69 000 0</td>
+<td>– – өзгесі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 71 100 0</td>
+<td>– – – Gadus macroceрhalus түріндегі нәлімдер</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 71 900 0</td>
+<td>– – – өзгесі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 72 000 0</td>
+<td>– – пикшалар (Melanogrammus aeglefinus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 73 000 0</td>
+<td>– – сайдалар (Рollachius virens)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 74 110 0</td>
+<td>– – – – каптық мерлуза (таяз) (Merluccius capensis) және намибия мерлузасы (терең) (Merluccius paradoxus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 74 150 0</td>
+<td>– – – – аргентиналық мерлуза (Merluccius hubbsi)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 74 190 0</td>
+<td>– – – – өзгесі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 74 900 0</td>
+<td>– – – Uroрhycis тұқымдас америкалық қауырсыны жіп тәріздес нәлім</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 75 000 0</td>
+<td>– – минтай (Theragra chalcogramma)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 79 100 0</td>
+<td>– – – Boreogadus saida түріндегі балықтар</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 79 300 0</td>
+<td>– – – мерланг (Merlangius merlangus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 79 500 0</td>
+<td>– – – жаңазеландия макруронусы (Macruronus novaezealandiae)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 79 800 0</td>
+<td>– – – мольва (Molva sрр.)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 79 900 0</td>
+<td>– – – өзгесі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 82 500 0</td>
+<td>– – – Oncorhynchus apache және Oncorhynchus chrysogaster түріндегі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 83 100 0</td>
+<td>– – – теңіз камбаласы (Рleuronectes рlatessa)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 83 300 0</td>
+<td>– – – өзен камбаласы (Рlatichthys flesus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 83 500 0</td>
+<td>– – – мегрим (Leрidorhombus sрр.)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 83 900 0</td>
+<td>– – – өзгесі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 84 000 0</td>
+<td>– – семсер-балық (Xiphias gladius)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 85 000 0</td>
+<td>– – азулы (Dissostichus spp.)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 87 000 0</td>
+<td>– – тунец (Thunnus тектес), скипджектен, немесе жолақ тунецтен (Euthynnus (Katsuwonus) pelamis)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 88 100 0</td>
+<td>– – – – тікенек акула және (Squalus acanthias sрр.) мысық акула (Scyliorhinus spp.)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 88 200 0</td>
+<td>– – – – майшабақ акуласы (Lamna nasus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 88 500 0</td>
+<td>– – – – басқа акулалар</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 88 900 0</td>
+<td>– – – тұтасқанатты және ромб тұтасқанатты (Rajidae)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 89 101 0</td>
+<td>– – – – бекіре</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 89 108 0</td>
+<td>– – – – өзгесі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 89 210 0</td>
+<td>– – – – – Sebastes marinus түріндегі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 89 290 0</td>
+<td>– – – – – өзгесі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 89 300 0</td>
+<td>– – – – 0304 87 қосалқы позициясының скипджектен, немесе жолақ тунецтен басқа (Euthynnus (Katsuwonus) pelamis), Euthynnus тектес балықтар</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 89 410 0</td>
+<td>– – – – – Scomber australasicus түріндегі скумбрия</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 89 490 0</td>
+<td>– – – – – өзгесі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 89 600 0</td>
+<td>– – – – қармақшы (Loрhius sрр.)</td>
+<td>4</td>
+</tr>
+<tr>
 <td>0304 89 800 0</td>
 <td>– – – – өзгесі</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 93 200 0</td>
+<td>– – – сурими</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 94 100 0</td>
+<td>– – – сурими</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 95 210 0</td>
+<td>– – – – – Gadus macroceрhalus түріндегі нәлімдер</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 95 250 0</td>
+<td>– – – – – Gadus macroceрhalus түріндегі нәлімдер</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 95 290 0</td>
+<td>– – – – – өзгесі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 95 300 0</td>
+<td>– – – – пикшалар (Melanogrammus aeglefinus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 95 400 0</td>
+<td>– – – – сайдалар (Рollachius virens)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 96 100 0</td>
+<td>– – – сурими</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 97 100 0</td>
+<td>– – – сурими</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0304 99 110 0</td>
+<td>– – – сурими</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0305 20 000 0</td>
 <td>– кептірілген, қақталған, тұздалған немесе тұздықтағы балық бауыры, уылдырығы және шоғырлары</td>
-<td>9</td>
-</tr>
-<tr>
-<td>0305 64 000 0</td>
-<td>– – тилапия (Oreochromis spp.), жайын (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), тұқы (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus), жыланбалық (Anguilla spp.), ніл латесі (Lates niloticus) және жыланбас балық (Channa spp.):</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0305 69 100 0</td>
-<td>– – – Boreogadus saida түрінің балығы</td>
+<td>0305 42 000 0</td>
+<td>– – майшабақ (Cluрea harengus, Cluрea рallasii)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0305 52 000 0</td>
+<td>– – тилапия (Oreochromis spp.), сом (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), тұқы балық (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.),жыланбалық (Anguilla spp.), ніл латесі(Lates niloticus) және жыланбас балық (Channa spp.)</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0305 69 300 0</td>
-<td>– – – ақ қабықты немесе қарапайым палтус (Hiррoglossus hiррoglossus)</td>
-<td>6</td>
-</tr>
-<tr>
-<td>0305 69 700 0</td>
+<td>0305 53 900 0</td>
 <td>– – – өзгесі</td>
 <td>6</td>
 </tr>
 <tr>
-<td>0306 12 050 9</td>
+<td>0305 54 900 0</td>
+<td>– – – өзгесі</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0305 59 700 0</td>
+<td>– – – ақ қабықты немесе қарапайым палтус (Hiррoglossus hiррoglossus)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0305 59 900 0</td>
+<td>– – – өзгесі</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0305 61 000 0</td>
+<td>– – майшабақ (Cluрea harengus, Cluрea рallasii)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0305 63 000 0</td>
+<td>– – анчоустар (Engraulis spp.)</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0305 64 000 0</td>
+<td>– – тилапия (Oreochromis spp.), жайын (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), тұқы (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus), жыланбалық (Anguilla spp.), ніл латесі (Lates niloticus) және жыланбас балық (Channa spp.):</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0305 69 100 0</td>
+<td>– – – Boreogadus saida түріндегі балық</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0305 69 300 0</td>
+<td>– – – ақ қабықты немесе қарапайым палтус (Hiррoglossus hiррoglossus)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0305 69 500 0</td>
+<td>– – – тынықмұхиттық албырт (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou және Oncorhynchus rhodurus), атлант албырты (Salmo salar) және дунай албырты (Hucho hucho)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0305 69 700 0</td>
+<td>– – – өзгесі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0305 71 900 0</td>
+<td>– – – өзгелері</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0305 72 000 1</td>
+<td>– – – тынықмұхит албырты (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou және Oncorhynchus rhodurus), атлант албырты (Salmo salar) және дунай албырты (Hucho hucho)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0305 79 000 1</td>
+<td>– – – тынықмұхит албырты (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou және Oncorhynchus rhodurus), атлант албырты (Salmo salar) және дунай албырты (Hucho hucho)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0306 11 050 0</td>
+<td>– – – қақталған, бақалшақтағы немесе бақалшақсыз, қақтау процесі кезінде не оған дейін жылумен өңдеуге ұшыраған немесе ұшырамаған</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0306 11 100 0</td>
+<td>– – – – лангустардың құйрығы</td>
+<td>6</td>
+</tr>
+<tr>
+<td>0306 11 900 0</td>
 <td>– – – – өзгелері</td>
 <td>6</td>
+</tr>
+<tr>
+<td>0306 12 050 1</td>
+<td>– – – – бақалшақтағы</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0306 12 050 9</td>
+<td>– – – – өзгелері</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0306 12 100 0</td>
+<td>– – – – бөлінбеген</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0306 12 900 0</td>
 <td>– – – – өзгелері</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0306 14 050 0</td>
-<td>– – – қақталған, бақалшақтағы немесе бақалшақсыз, қақтау процесі кезінде не оған дейін жылулық өңдеуге ұшыраған немесе ұшырамаған</td>
-<td>12</td>
+<td>– – – қақталған, бақалшақтағы немесе бақалшақсыз, қақтау процесі кезінде не оған дейін жылумен өңдеуге ұшыраған немесе ұшырамаған</td>
+<td>8</td>
 </tr>
 <tr>
 <td>0306 14 100 0</td>
@@ -1763,7 +2345,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0306 14 300 0</td>
-<td>– – – – Cancer рagurus теңіз шаяндары</td>
+<td>– – – – Cancer рagurus түріндегі теңіз шаяндары</td>
 <td>0</td>
 </tr>
 <tr>
@@ -1773,17 +2355,17 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0306 15 100 0</td>
-<td>– – – қақталған, бақалшақтағы немесе бақалшақсыз, қақтау процесі кезінде не оған дейін жылулық өңдеуге ұшыраған немесе ұшырамаған</td>
-<td>12</td>
+<td>– – – қақталған, бақалшақтағы немесе бақалшақсыз, қақтау процесі кезінде не оған дейін жылумен өңдеуге ұшыраған немесе ұшырамаған</td>
+<td>8</td>
 </tr>
 <tr>
 <td>0306 15 900 0</td>
-<td>– – – өзгелері</td>
+<td>– – – өзгесі</td>
 <td>0</td>
 </tr>
 <tr>
 <td>0306 16 910 0</td>
-<td>– – – – Crangon crangon түрінің асшаяндары</td>
+<td>– – – – Crangon crangon түріндегі асшаяндар</td>
 <td>0</td>
 </tr>
 <tr>
@@ -1818,8 +2400,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0306 19 050 0</td>
-<td>– – – қақталған, бақалшақтағы немесе бақалшақсыз, қақтау процесі кезінде не оған дейін жылулық өңдеуге ұшыраған немесе ұшырамаған</td>
-<td>12</td>
+<td>– – – қақталған, бақалшақтағы немесе бақалшақсыз, қақтау процесі кезінде не оған дейін жылумен өңдеуге ұшыраған немесе ұшырамаған</td>
+<td>8</td>
 </tr>
 <tr>
 <td>0306 19 100 0</td>
@@ -1827,8 +2409,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>0</td>
 </tr>
 <tr>
-<td>0306 19 900 0</td>
-<td>– – – – өзгелері</td>
+<td>0306 19 900 9</td>
+<td>– – – – – өзгелері</td>
 <td>0</td>
 </tr>
 <tr>
@@ -1843,7 +2425,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0306 32 910 0</td>
-<td>– – – – ажыратылмаған</td>
+<td>– – – – бөлінбеген</td>
 <td>0</td>
 </tr>
 <tr>
@@ -1878,12 +2460,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0306 36 100 0</td>
-<td>– – – Pandalidae тұқымдас асшаяндар, Pandalus текті асшаяндарды қоспағанда</td>
+<td>– – – Pandalidae тұқымдас асшаяндар, Pandalus тектес асшаяндарды қоспағанда</td>
 <td>0</td>
 </tr>
 <tr>
 <td>0306 36 200 0</td>
-<td>– – – Crangon текті асшаяндар, Crangon crangon түріндегі асшаяндарды қоспағанда</td>
+<td>– – – Crangon тектес асшаяндар, Crangon crangon түріндегі асшаяндарды қоспағанда</td>
 <td>0</td>
 </tr>
 <tr>
@@ -1903,8 +2485,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0306 91 100 0</td>
-<td>– – – ысталған, панцирдегі немесе панцирсіз, ыстау процесіне дейін немесе ыстау процесі кезінде жылыдай өңделген немесе өңделмеген</td>
-<td>12</td>
+<td>– – – ысталған, бақалшақтағы немесе бақалшақсыз, ыстау процесіне дейін немесе ыстау процесі кезінде жылумен өңделген немесе өңделмеген</td>
+<td>8</td>
 </tr>
 <tr>
 <td>0306 91 900 0</td>
@@ -1913,12 +2495,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0306 92 100 0</td>
-<td>– – – ысталған, панцирдегі немесе панцирсіз, ыстау процесіне дейін немесе ыстау процесі кезінде жылыдай өңделген немесе өңделмеген</td>
-<td>12</td>
+<td>– – – ысталған, бақалшақтағы немесе бақалшақсыз, ыстау процесіне дейін немесе ыстау процесі кезінде жылумен өңделген немесе өңделмеген</td>
+<td>8</td>
 </tr>
 <tr>
 <td>0306 92 910 0</td>
-<td>– – – – ажыратылмаған</td>
+<td>– – – – бөлінбеген</td>
 <td>0</td>
 </tr>
 <tr>
@@ -1928,8 +2510,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0306 93 100 0</td>
-<td>– – – ысталған, панцирдегі немесе панцирсіз, ыстау процесіне дейін немесе ыстау процесі кезінде жылыдай өңделген немесе өңделмеген</td>
-<td>12</td>
+<td>– – – ысталған, бақалшақтағы немесе бақалшақсыз, ыстау процесіне дейін немесе ыстау процесі кезінде жылумен өңделген немесе өңделмеген</td>
+<td>8</td>
 </tr>
 <tr>
 <td>0306 93 910 0</td>
@@ -1943,8 +2525,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0306 94 100 0</td>
-<td>– – – ысталған, панцирдегі немесе панцирсіз, ыстау процесіне дейін немесе ыстау процесі кезінде жылыдай өңделген немесе өңделмеген</td>
-<td>12</td>
+<td>– – – ысталған, бақалшақтағы немесе бақалшақсыз, ыстау процесіне дейін немесе ыстау процесі кезінде жылумен өңделген немесе өңделмеген</td>
+<td>8</td>
 </tr>
 <tr>
 <td>0306 94 900 0</td>
@@ -1953,7 +2535,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0306 95 910 0</td>
-<td>– – – – Crangon текті асшаяндар</td>
+<td>– – – – Crangon тектес асшаяндар</td>
 <td>0</td>
 </tr>
 <tr>
@@ -1963,8 +2545,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0306 99 100 0</td>
-<td>– – – ысталған, панцирдегі немесе панцирсіз, ыстау процесіне дейін немесе ыстау процесі кезінде жылыдай өңделген немесе өңделмеген</td>
-<td>12</td>
+<td>– – – ысталған, бақалшақтағы немесе бақалшақсыз, ыстау процесіне дейін немесе ыстау процесі кезінде жылумен өңделген немесе өңделмеген</td>
+<td>8</td>
 </tr>
 <tr>
 <td>0306 99 910 0</td>
@@ -1979,244 +2561,356 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0307 11 100 0</td>
 <td>– – – тірі жалпақ устрицалар (Ostrea тұқымы), әрқайсысының массасы 40 г аспайды (бақалшақты қоса есептегенде)</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 11 900 0</td>
 <td>– – – өзгелері</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 12 900 0</td>
 <td>– – – өзгелері</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 19 990 0</td>
 <td>– – – өзгелері</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 21 000 0</td>
+<td>– – тірі, жаңа ұсталған немесе салқындатылған</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 22 910 0</td>
 <td>– – – – Әулие Яков (Рecten maximus) иректері</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 22 990 0</td>
 <td>– – – – өзгелері</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 29 800 0</td>
 <td>– – – өзгелері</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 31 100 0</td>
+<td>– – – Mytilus sрр.</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 31 900 0</td>
+<td>– – – Рerna sрр.</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 32 910 0</td>
+<td>– – – – Mytilus sрр.</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 32 990 0</td>
+<td>– – – – Рerna sрр.</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 39 910 0</td>
+<td>– – – – Mytilus sрр.</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 39 990 0</td>
+<td>– – – – Рerna sрр.</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 42 110 0</td>
-<td>– – – – Sepia officinalis, Rossia macrosoma, Sepiola spp. түрлері</td>
-<td>6</td>
+<td>– – – – Sepia officinalis, Rossia macrosoma, Sepiola spp. түріндегі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 42 190 0</td>
+<td>– – – – өзгелері</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 42 910 0</td>
-<td>– – – – Loligo spp. түрлері</td>
-<td>6</td>
+<td>– – – – Loligo spp. түріндегі</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 42 920 0</td>
-<td>– – – – Todarodes sagittatus түрлері</td>
-<td>6</td>
+<td>– – – – Todarodes sagittatus түріндегі</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 42 930 0</td>
-<td>– – – – Ommastrephes spp., Nototodarus spp., Sepioteuthis spp. түрлері</td>
-<td>6</td>
+<td>– – – – Ommastrephes spp., Nototodarus spp., Sepioteuthis spp. түріндегі</td>
+<td>4</td>
 </tr>
 <tr>
-<td>0307 43 190 0</td>
-<td>– – – – – өзгелері</td>
-<td>6</td>
+<td>0307 42 990 0</td>
+<td>– – – – өзгелері</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 43 110 0</td>
+<td>– – – – – – Seрiola rondeleti түріндегі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 43 130 0</td>
+<td>– – – – – – өзгелері</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 43 150 0</td>
+<td>– – – – – Seрia officinalis, Rossia macrosoma түріндегі</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 43 310 0</td>
-<td>– – – – – – Loligo vulgaris түрлері</td>
-<td>6</td>
+<td>– – – – – – Loligo vulgaris түріндегі</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 43 330 0</td>
-<td>– – – – – – Loligo pealei түрлері</td>
-<td>6</td>
+<td>– – – – – – Loligo pealei түріндегі</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 43 350 0</td>
-<td>– – – – – – Loligo patagonica түрлері</td>
-<td>6</td>
-</tr>
-<tr>
-<td>0307 43 380 0</td>
-<td>– – – – – – өзгелері</td>
-<td>6</td>
+<td>– – – – – – Loligo patagonica түріндегі</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 43 500 0</td>
-<td>– – – – – Todarodes sagittatus түрлері</td>
-<td>6</td>
+<td>– – – – – Todarodes sagittatus түріндегі</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 43 600 0</td>
-<td>– – – – – Ommastrephes spp., Nototodarus spp., Sepioteuthis spp. түрлері</td>
-<td>6</td>
+<td>– – – – – Ommastrephes spp., Nototodarus spp., Sepioteuthis spp. түріндегі</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 43 700 0</td>
-<td>– – – – – Illex spp. түрлері</td>
-<td>6</td>
+<td>– – – – – Illex spp. түріндегі</td>
+<td>4</td>
 </tr>
 <tr>
-<td>0307 43 900 0</td>
-<td>– – – – – өзгелері</td>
-<td>6</td>
+<td>0307 49 710 0</td>
+<td>– – – – – Sepia officinalis, Rossia macrosoma, Sepiola spp. түріндегі</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 49 800 0</td>
 <td>– – – – – өзгелері</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 49 910 0</td>
-<td>– – – – – Loligo spp. түрлері</td>
-<td>6</td>
+<td>– – – – – Loligo spp. түріндегі</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 49 920 0</td>
-<td>– – – – – Todarodes sagittatus түрлері</td>
-<td>6</td>
+<td>– – – – – Todarodes sagittatus түріндегі</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 49 930 0</td>
-<td>– – – – – Ommastrephes spp., Nototodarus spp., Sepioteuthis spp. түрлері</td>
-<td>6</td>
+<td>– – – – – Ommastrephes spp., Nototodarus spp., Sepioteuthis spp. түріндегі</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 49 980 0</td>
 <td>– – – – – өзгелері</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 51 000 0</td>
 <td>– – тірі, жаңа ұсталған немесе салқындатылған</td>
-<td>6</td>
-</tr>
-<tr>
-<td>0307 52 900 0</td>
-<td>– – – өзгелері</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 59 800 0</td>
 <td>– – – өзгелері</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 60 900 0</td>
 <td>– – өзгелері</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 71 000 0</td>
+<td>– – тірі, жаңа ұсталған немесе салқындатылған</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 72 910 0</td>
-<td>– – – – жолақ венус және Ve neridae тұқымдастың басқа түрлері</td>
-<td>6</td>
+<td>– – – – жолақ венус және Ve neridae тұқымдастың басқа түріндегі</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 72 990 0</td>
 <td>– – – – өзгелері</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 79 800 0</td>
+<td>– – – өзгелері</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 81 000 0</td>
+<td>– – теңізқұлақтар (Haliotis sрр.) тірі, жаңа ұсталған немесе салқындатылған</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 82 000 0</td>
+<td>– – стромбус (Strombus spp.) тірі, жаңа ауланған немесе слқындатылған</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 83 900 0</td>
 <td>– – – өзгелері</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 84 900 0</td>
 <td>– – – – өзгелері</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 87 900 0</td>
+<td>– – – өзгелері</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 88 900 0</td>
 <td>– – – өзгелері</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0307 91 000 0</td>
+<td>– – тірі, жаңа ұсталған немесе салқындатылған</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 92 900 0</td>
 <td>– – – өзгелері</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0307 99 700 0</td>
 <td>– – – өзгелері</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0308 11 000 0</td>
+<td>– – тірі, жаңа ұсталған немесе салқындатылған</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0308 12 900 0</td>
 <td>– – – өзгелері</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0308 19 900 0</td>
+<td>– – – өзгелері</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0308 21 000 0</td>
+<td>– – тірі, жаңа ұсталған немесе салқындатылған</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0308 22 900 0</td>
 <td>– – – өзгелері</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0308 29 900 0</td>
+<td>– – – өзгелері</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0308 30 100 0</td>
+<td>– – тірі, жаңа ұсталған немесе салқындатылған</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0308 30 500 0</td>
 <td>– – мұздатылған</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0308 30 900 0</td>
+<td>– – өзгелері</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0308 90 100 0</td>
+<td>– – тірі, жаңа ұсталған немесе салқындатылған</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0308 90 500 0</td>
 <td>– – мұздатылған</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>0308 90 900 0</td>
+<td>– – өзгелері</td>
+<td>4</td>
 </tr>
 <tr>
 <td>0403 90 110 0</td>
-<td>– – – – – 1,5 салм. %-дан артық емес</td>
+<td>– – – – – 1,5 салм. % артық емес</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0403 90 130 0</td>
-<td>
-– – – – – 1,5 салм. %-дан артық,
-27 салм. %-дан артық емес
-</td>
+<td>– – – – – 1,5 салм. % артық, 27 салм. % артық емес</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0403 90 190 0</td>
-<td>– – – – – 27 салм. %-дан артық</td>
+<td>– – – – – 27 салм. % артық</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0403 90 310 0</td>
-<td>– – – – – 1,5 салм. %-дан артық емес</td>
+<td>– – – – – 1,5 салм. % артық емес</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0403 90 330 0</td>
-<td>– – – – – 1,5 салм. %-дан артық, 27 салм. %-дан артық емес</td>
+<td>– – – – – 1,5 салм. % артық, 27 салм. % артық емес</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0403 90 390 0</td>
-<td>– – – – – 27 салм. %-дан артық</td>
+<td>– – – – – 27 салм. % артық</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0403 90 510 1</td>
-<td>– – – – – – – алғашқы орамасында нетто- көлемі 0,35 л-ден аспайтын, балалар тамағы үшін</td>
+<td>– – – – – – – алғашқы орамасында нетто- көлемі 0,35 л аспайтын, балалар тамағы үшін</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0403 90 510 2</td>
-<td>– – – – – – – өзгелері</td>
+<td>– – – – – – – өзгесі</td>
 <td>15</td>
 </tr>
 <tr>
@@ -2226,12 +2920,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0403 90 530 1</td>
-<td>– – – – – – – алғашқы орамасында нетто-көлемі 0,35 л-ден аспайтын, балалар тамағы үшін</td>
+<td>– – – – – – – алғашқы орамасында нетто-көлемі 0,35 л аспайтын, балалар тамағы үшін</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0403 90 530 2</td>
-<td>– – – – – – – өзгелері</td>
+<td>– – – – – – – өзгесі</td>
 <td>15</td>
 </tr>
 <tr>
@@ -2241,193 +2935,198 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0403 90 590 0</td>
-<td>– – – – – 6 салм. %-дан артық</td>
+<td>– – – – – 6 салм. % артық</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0403 90 610 0</td>
-<td>– – – – – 3 салм. %-дан артық емес</td>
+<td>– – – – – 3 салм. % артық емес</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0403 90 630 0</td>
-<td>– – – – – 3 салм. %-дан артық, бірақ 6 салм. % артық емес</td>
+<td>– – – – – 3 салм. % артық, бірақ 6 салм. % артық емес</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0403 90 690 0</td>
-<td>– – – – – 6 салм. %-дан артық</td>
+<td>– – – – – 6 салм. % артық</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0403 90 710 0</td>
-<td>– – – – 1,5 салм. %-дан артық емес</td>
+<td>– – – – 1,5 салм. % артық емес</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0403 90 730 0</td>
-<td>– – – – 1,5 салм. %-дан артық, бірақ 27 салм. % артық емес</td>
+<td>– – – – 1,5 салм. % артық, бірақ 27 салм. % артық емес</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0403 90 790 0</td>
-<td>– – – – 27 салм. %-дан артық</td>
+<td>– – – – 27 салм. % артық</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0403 90 910 0</td>
-<td>– – – – – 3 салм. %-дан артық емес</td>
+<td>– – – – 3 салм. % артық емес</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0403 90 930 0</td>
-<td>– – – – – 3 салм. %-дан артық, бірақ 6 салм. %-дан артық емес</td>
+<td>– – – – 3 салм. % артық, бірақ 6 салм. % артық емес</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0403 90 990 0</td>
-<td>– – – – – 6 салм. %-дан артық</td>
+<td>– – – – 6 салм. % артық</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0404 10 040 0</td>
-<td>– – – – – 1,5 салм. %-дан артық, бірақ 27 салм. %-дан артық емес</td>
-<td>11,7</td>
+<td>– – – – – 1,5 салм. % артық, бірақ 27 салм. % артық емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 060 0</td>
-<td>– – – – – 27 салм. %-дан артық</td>
-<td>11,7</td>
+<td>– – – – – 27 салм. % артық</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 120 9</td>
 <td>– – – – – – өзгелері</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 140 0</td>
-<td>– – – – – 1,5 салм. %-дан артық, бірақ 27 салм. %-дан артық емес</td>
-<td>11,7</td>
+<td>– – – – – 1,5 салм. % артық, бірақ 27 салм. % артық емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 160 9</td>
 <td>– – – – – – өзгелері</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 280 0</td>
-<td>– – – – – 1,5 салм. %-дан артық, бірақ 27 салм. %-дан артық емес</td>
-<td>11,7</td>
+<td>– – – – – 1,5 салм. % артық, бірақ 27 салм. % артық емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 320 0</td>
-<td>– – – – – 27 салм. %-дан артық</td>
-<td>11,7</td>
+<td>– – – – – 27 салм. % артық</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 340 0</td>
-<td>– – – – – 1,5 салм. %-дан артық емес</td>
-<td>11,7</td>
+<td>– – – – – 1,5 салм. % артық емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 360 0</td>
-<td>– – – – – 1,5 салм. %-дан артық, бірақ 27 салм. %-дан артық емес</td>
-<td>11,7</td>
+<td>– – – – – 1,5 салм. % артық, бірақ 27 салм. % артық емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 380 0</td>
-<td>– – – – – 27 салм. %-дан артық</td>
-<td>11,7</td>
+<td>– – – – – 27 салм. % артық</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 480 0</td>
-<td>– – – – – 1,5 салм. %-дан артық емес</td>
-<td>11,7</td>
+<td>– – – – – 1,5 салм. % артық емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 520 0</td>
-<td>– – – – – 1,5 салм. %-дан артық, бірақ 27 салм. %-дан артық емес</td>
-<td>11,7</td>
+<td>– – – – – 1,5 салм. % артық, бірақ 27 салм. % артық емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 540 0</td>
-<td>– – – – – 27 салм. %-дан артық</td>
-<td>11,7</td>
+<td>– – – – – 27 салм. % артық</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 560 0</td>
-<td>– – – – – 1,5 салм. %-дан артық емес</td>
-<td>11,7</td>
+<td>– – – – – 1,5 салм. % артық емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 580 0</td>
-<td>– – – – – 1,5 салм. %-дан артық, бірақ 27 салм. %-дан артық емес</td>
-<td>11,7</td>
+<td>– – – – – 1,5 салм. % артық, бірақ 27 салм. % артық емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 620 0</td>
-<td>– – – – – 27 салм. %-дан артық</td>
-<td>11,7</td>
+<td>– – – – – 27 салм. % артық</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 720 0</td>
-<td>– – – – – 1,5 салм. %-дан артық емес</td>
-<td>11,7</td>
+<td>– – – – – 1,5 салм. % артық емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 740 0</td>
-<td>– – – – – 1,5 салм. %-дан артық, бірақ 27 салм. %-дан артық емес</td>
-<td>11,7</td>
+<td>– – – – – 1,5 салм. % артық, бірақ 27 салм. % артық емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 760 0</td>
-<td>– – – – – 27 салм. %-дан артық</td>
-<td>11,7</td>
+<td>– – – – – 27 салм. % артық</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 780 0</td>
-<td>– – – – – 1,5 салм. %-дан артық емес</td>
-<td>11,7</td>
+<td>– – – – – 1,5 салм. % артық емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 820 0</td>
-<td>– – – – – 1,5 салм. %-дан артық, бірақ 27 салм. %-дан артық емес</td>
-<td>11,7</td>
+<td>– – – – – 1,5 салм. % артық, бірақ 27 салм. % артық емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 10 840 0</td>
-<td>– – – – – 27 салм. %-дан артық</td>
-<td>11,7</td>
+<td>– – – – – 27 салм. % артық</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 90 210 0</td>
-<td>– – – 1,5 салм. %-дан артық емес</td>
-<td>11,7</td>
+<td>– – – 1,5 салм. % артық емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 90 230 0</td>
-<td>– – – 1,5 салм. %-дан артық, бірақ 27 салм. %-дан артық емес</td>
-<td>11,7</td>
+<td>– – – 1,5 салм. % артық, бірақ 27 салм. % артық емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 90 290 0</td>
-<td>– – – 27 салм. %-дан артық</td>
-<td>11,7</td>
+<td>– – – 27 салм. % артық</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 90 810 0</td>
-<td>– – – 1,5 салм. %-дан артық емес</td>
-<td>11,7</td>
+<td>– – – 1,5 салм. % артық емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 90 830 0</td>
-<td>– – – 1,5 салм. %-дан артық, бірақ 27 салм. %-дан артық емес</td>
-<td>11,7</td>
+<td>– – – 1,5 салм. % артық, бірақ 27 салм. % артық емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>0404 90 890 0</td>
-<td>– – – 27 салм. %-дан артық</td>
-<td>11,7</td>
+<td>– – – 27 салм. % артық</td>
+<td>10</td>
+</tr>
+<tr>
+<td>0406 20 000 0</td>
+<td>– барлық түрлердегі үгілген ірімшіктер немесе ұнтақтағы ірімшіктер</td>
+<td>15</td>
 </tr>
 <tr>
 <td>0408 99 200 0</td>
@@ -2435,33 +3134,53 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>15</td>
 </tr>
 <tr>
+<td>0511 91 901 1</td>
+<td>– – – – – бекіре</td>
+<td>7</td>
+</tr>
+<tr>
+<td>0511 91 901 9</td>
+<td>– – – – – өзгесі</td>
+<td>7</td>
+</tr>
+<tr>
+<td>0511 91 902 0</td>
+<td>– – – – балықтардың криоконсервіленген шәуеті</td>
+<td>7</td>
+</tr>
+<tr>
+<td>0511 91 909 0</td>
+<td>– – – – өзгелері</td>
+<td>7</td>
+</tr>
+<tr>
 <td>0511 99 390 0</td>
 <td>– – – – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>0604 20 900 0</td>
 <td>– – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>0702 00 000 2</td>
-<td>– 1 сәуірден – 30 сәуірді қоса алғанда</td>
+<td>– сәуірден бастап - 30 сәуірді қоса алғанда</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0702 00 000 3</td>
-<td>– 1 мамырдан – 14 мамырды қоса алғанда</td>
+<td>– мамырдан бастап - 14 мамырды қоса алғанда</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0702 00 000 4</td>
-<td>– 15 мамырдан – 31 мамырды қоса алғанда</td>
+<td>– 15 мамырдан бастап - 31 мамырды қоса алғанда</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0702 00 000 5</td>
-<td>– 1 маусымнан – 30 қыркүйекті қоса алғанда</td>
+<td>– маусымнан бастап - 30 қыркүйекті қоса алғанда</td>
 <td>15</td>
 </tr>
 <tr>
@@ -2471,18 +3190,23 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0707 00 050 2</td>
-<td>– – 1 наурыздан 30 сәуірді қоса алғанда</td>
+<td>– – 1 наурыздан бастап - 30 сәуірді қоса алғанда</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0707 00 050 3</td>
-<td>– – 1 мамырдан 15 мамырды қоса алғанда</td>
+<td>– – 1 мамырдан бастап - 15 мамырды қоса алғанда</td>
+<td>15</td>
+</tr>
+<tr>
+<td>0707 00 050 4</td>
+<td>– – 16 мамырдан бастап - 30 қыркүйекті қоса алғанда</td>
 <td>15</td>
 </tr>
 <tr>
 <td>0707 00 050 5</td>
-<td>– – 1 қазаннан 31 қазанды қоса алғанда</td>
-<td>16,7</td>
+<td>– – 1 қазаннан бастап - 31 қазанды қоса алғанда</td>
+<td>15</td>
 </tr>
 <tr>
 <td>0707 00 900 0</td>
@@ -2491,8 +3215,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0709 60 100 2</td>
-<td>– 1 қазаннан 31 наурызды қоса алғанда</td>
-<td>4</td>
+<td>– – – қазаннан бастап - 31 наурызды қоса алғанда</td>
+<td>3</td>
 </tr>
 <tr>
 <td>0709 60 910 0</td>
@@ -2515,8 +3239,33 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>8</td>
 </tr>
 <tr>
-<td>0713 60 000 9</td>
+<td>0712 31 000 0</td>
+<td>– – Agaricus тектес саңырауқұлақтар</td>
+<td>12</td>
+</tr>
+<tr>
+<td>0712 32 000 0</td>
+<td>– – сүрек бездері немесе аурикуляциялар (Auricularia spp.)</td>
+<td>12</td>
+</tr>
+<tr>
+<td>0712 33 000 0</td>
+<td>– – ашытқылық саңырауқұлақтар (Tremella spp.)</td>
+<td>12</td>
+</tr>
+<tr>
+<td>0712 39 000 0</td>
 <td>– – өзгелері</td>
+<td>12</td>
+</tr>
+<tr>
+<td>0713 10 900 9</td>
+<td>– – – өзгесі</td>
+<td>9</td>
+</tr>
+<tr>
+<td>0713 60 000 9</td>
+<td>– – өзгесі</td>
 <td>5</td>
 </tr>
 <tr>
@@ -2542,7 +3291,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>0805 10 200 0</td>
 <td>– – тәтті, жаңа піскен апельсиндер:</td>
-<td>3 5</td>
+<td>3</td>
 </tr>
 <tr>
 <td>0805 10 800 0</td>
@@ -2566,13 +3315,23 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0805 40 000 0</td>
-<td>– – помеллоны қоса алғанда грейп жемістері</td>
+<td>– помеллоны қоса алғанда грейп жемістері</td>
 <td>3</td>
 </tr>
 <tr>
 <td>0805 50 100 0</td>
 <td>– – лимондар (Сіtrus limon, Сitrus limonum)</td>
 <td>3</td>
+</tr>
+<tr>
+<td>0813 50 120 0</td>
+<td>– – – – папайядан, тамаpиндтен, анакаpдиядан, немесе акажудан, личиден, джекфpуттан, саподилладан, пассифлоpадан, немесе стpастоцветтен, каpамболадан және питайядан</td>
+<td>9</td>
+</tr>
+<tr>
+<td>0813 50 310 0</td>
+<td>– – – тропикалық жаңғақтардан</td>
+<td>9</td>
 </tr>
 <tr>
 <td>0901 21 000 1</td>
@@ -2586,12 +3345,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0901 21 000 8</td>
-<td>– – – – өзгелері</td>
+<td>– – – – өзгесі</td>
 <td>5</td>
 </tr>
 <tr>
 <td>0901 21 000 9</td>
-<td>– – – өзгелері</td>
+<td>– – – өзгесі</td>
 <td>5</td>
 </tr>
 <tr>
@@ -2606,23 +3365,23 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>0901 22 000 8</td>
-<td>– – – – өзгелері</td>
+<td>– – – – өзгесі</td>
 <td>5</td>
 </tr>
 <tr>
 <td>0901 22 000 9</td>
-<td>– – – өзгелері</td>
+<td>– – – өзгесі</td>
 <td>5</td>
 </tr>
 <tr>
 <td>0902 10 000 1</td>
 <td>– – біржолғы орамада</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>0902 10 000 9</td>
-<td>– – өзгелері</td>
-<td>8</td>
+<td>– – өзгесі</td>
+<td>7</td>
 </tr>
 <tr>
 <td>1006 10 940 0</td>
@@ -2650,13 +3409,18 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>10</td>
 </tr>
 <tr>
+<td>1108 14 000 0</td>
+<td>– – маниоктың</td>
+<td>9,4</td>
+</tr>
+<tr>
 <td>1108 19 100 0</td>
 <td>– – – күріштің</td>
 <td>10</td>
 </tr>
 <tr>
 <td>1108 19 900 0</td>
-<td>– – – өзгелері</td>
+<td>– – – өзгесі</td>
 <td>10</td>
 </tr>
 <tr>
@@ -2667,67 +3431,102 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>1204 00 100 1</td>
 <td>– – талшық зығырының</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1204 00 100 9</td>
 <td>– – кудряш зығырының</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1204 00 900 0</td>
 <td>– өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1206 00 990 0</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1207 10 000 0</td>
 <td>– пальма жаңғақтары мен өзектері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1207 30 000 0</td>
 <td>– үпілмәлік тұқымдары</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1207 60 000 0</td>
 <td>– сафлор тұқымдары (Carthamus tinctorius)</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1207 70 000 0</td>
 <td>– қауын тұқымдары</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1207 91 100 0</td>
 <td>– – – тұқымдық</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1207 91 900 0</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1207 99 200 0</td>
 <td>– – – тұқымдық</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1207 99 910 0</td>
 <td>– – – – қарақурай тұқымдары</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1207 99 960 0</td>
 <td>– – – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1208 90 000 0</td>
+<td>– өзгесі</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1401 20 000 0</td>
+<td>– ротанг</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1401 90 000 0</td>
+<td>– өзгелері</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1404 90 000 1</td>
+<td>– – Өсiмдiк тектес, ең бастысы щетка бұйымдарын және байластырылған немесе шоғырдағы сыпыртқыгүл (мәселен, күлтелi қонақ жүгерi, қабық талшықтары, жатаған бидайық, истиль) өндiру үшiн пайдаланылатын материалдар</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1504 10 100 0</td>
+<td>– – 2500 МЕ/г аспайтын А дәрумені бар</td>
+<td>10,8</td>
+</tr>
+<tr>
+<td>1504 10 910 0</td>
+<td>– – – палтустан</td>
+<td>10,8</td>
+</tr>
+<tr>
+<td>1504 10 990 0</td>
+<td>– – – өзгелері</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>1511 10 900 2</td>
@@ -2736,7 +3535,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>1511 90 110 0</td>
-<td>– – – бастапқы орамада нетто-массасы 1 кг-нан аспайтын</td>
+<td>– – – алғашқы орамасында алғашқы орамасында нетто-массасы 1 кг аспайтын</td>
 <td>0</td>
 </tr>
 <tr>
@@ -2750,34 +3549,64 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>0</td>
 </tr>
 <tr>
+<td>1513 11 910 0</td>
+<td>– – – – алғашқы орамасында нетто-массасы 1 кг аспайтын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1513 11 990 2</td>
+<td>– – – – – нетто-массасы 19 000 кг немесе одан кем ыдыста</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1513 19 110 0</td>
+<td>– – – – алғашқы орамасында нетто- массасы 1 кг аспайтын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1513 19 190 2</td>
+<td>– – – – – нетто-массасы 19 000 кг немесе одан кем ыдыста</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1513 19 910 0</td>
+<td>– – – – – алғашқы орамасында нетто- массасы 1 кг аспайтын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1513 19 990 2</td>
+<td>– – – – – – нетто-массасы 19 000 кг немесе одан кем ыдыста</td>
+<td>2</td>
+</tr>
+<tr>
 <td>1513 21 300 0</td>
-<td>– – – – бастапқы орамада нетто-массасы 1 кг немесе одан кем</td>
-<td>1,7</td>
+<td>– – – – алғашқы орамасында нетто-массасы 1 кг немесе одан кем</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1513 21 900 2</td>
 <td>– – – – – нетто-массасы 19 000 кг немесе одан кем ыдыста</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1513 29 110 0</td>
-<td>– – – – бастапқы орамада нетто-массасы 1 кг-нан аспайтын</td>
-<td>1,7</td>
+<td>– – – – алғашқы орамасында нетто-массасы 1 кг аспайтын</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1513 29 190 2</td>
 <td>– – – – – нетто-массасы 19 000 кг немесе одан кем ыдыста</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1513 29 500 0</td>
-<td>– – – – – бастапқы орамада нетто-массасы 1 кг-нан аспайтын</td>
-<td>1,7</td>
+<td>– – – – – алғашқы орамасында нетто-массасы 1 кг аспайтын</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1513 29 900 2</td>
 <td>– – – – – – нетто-массасы 19 000 кг немесе одан кем ыдыста</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>1514 11 100 0</td>
@@ -2786,7 +3615,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>1514 19 900 1</td>
-<td>– – – – бастапқы орамадағы нетто-массасы 10 л немесе одан аз</td>
+<td>– – – – алғашқы орамасындағы нетто-массасы 10 л немесе одан аз</td>
 <td>13, бірақ 1 кг 0,09 евродан кем емес</td>
 </tr>
 <tr>
@@ -2797,410 +3626,427 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>1515 11 000 0</td>
 <td>– – шикі май</td>
-<td>4,8</td>
+<td>3,2</td>
 </tr>
 <tr>
 <td>1515 19 100 0</td>
 <td>– – – тамаққа пайдалану үшін қолданылатын өнімдер өндірісінен басқа, техникалық немесе өнеркәсіптік қолдану үшін</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 19 900 0</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 30 100 0</td>
 <td>– – синтетикалық талшық немесе жасанды полимер материалдары өндірісінде пайдалану үшін аминоундекан қышқылы үшін</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 30 900 0</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 50 110 0</td>
 <td>– – – тамаққа пайдалану үшін қолданылатын өнімдер өндірісінен басқа, техникалық немесе өнеркәсіптік қолдану үшін</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 50 190 0</td>
-<td>– – – өзгелері</td>
-<td>3</td>
+<td>– – – өзгесі</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 50 910 0</td>
 <td>– – – тамаққа пайдалану үшін қолданылатын өнімдер өндірісінен басқа, техникалық немесе өнеркәсіптік қолдану үшін</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 50 990 0</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 110 0</td>
 <td>– – тунго майы; жожоба және ойтик май; миртадан жасалган балауыз және жапон балауызы; олардың фракциялары</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 210 0</td>
 <td>– – – – тамаққа пайдалану үшін қолданылатын өнімдер өндірісінен басқа, техникалық немесе өнеркәсіптік қолдану үшін</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 290 0</td>
-<td>– – – – өзгелері</td>
-<td>3</td>
+<td>– – – – өзгесі</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 310 0</td>
 <td>– – – – тамаққа пайдалану үшін қолданылатын өнімдер өндірісінен басқа, техникалық немесе өнеркәсіптік қолдану үшін</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 390 0</td>
-<td>– – – – басқалары</td>
-<td>3</td>
+<td>– – – – өзгелері</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 400 0</td>
 <td>– – – – тамаққа пайдалану үшін қолданылатын өнімдер өндірісінен басқа, техникалық немесе өнеркәсіптік қолдану үшін</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 510 0</td>
-<td>– – – – – таза салмағы 1 кг аспайтын бастапқы орамадағы қатты қүйінде</td>
-<td>3</td>
+<td>– – – – – нетто-массасы 1 кг аспайтын алғашқы орамасындағы қатты қүйінде</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 590 0</td>
 <td>– – – – – қатты күйінде, өзгелері; сұйық күйінде</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 600 0</td>
 <td>– – – – тамаққа пайдалану үшін қолданылатын өнімдер өндірісінен басқа, техникалық немесе өнеркәсіптік қолдану үшін</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 910 0</td>
-<td>– – – – – таза салмағы 1 кг аспайтын бастапқы орамадағы қатты қүйінде</td>
-<td>3</td>
+<td>– – – – – нетто-массасы 1 кг аспайтын алғашқы орамасындағы қатты қүйінде</td>
+<td>2</td>
 </tr>
 <tr>
 <td>1515 90 990 0</td>
 <td>– – – – – қатты күйінде, өзгелері; сұйық күйінде</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1516 10 100 0</td>
+<td>– – 1 кг алғашқы орамасында нетто-массасы 1 кг аспайтын</td>
+<td>14</td>
+</tr>
+<tr>
+<td>1516 10 900 0</td>
+<td>– – өзгелері</td>
+<td>14</td>
 </tr>
 <tr>
 <td>1516 20 100 0</td>
 <td>– – «шыжғырылған балауыз» деп аталатын гидрогенизделген кастор майы</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>1516 20 910 0</td>
-<td>– – – бастапқы орамада нетто-массасы 1 кг аспайтын</td>
-<td>13,3</td>
+<td>– – – алғашқы орамасында нетто-массасы 1 кг аспайтын</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1516 20 960 9</td>
+<td>– – – – – – өзгелері</td>
+<td>14</td>
 </tr>
 <tr>
 <td>1516 20 980 1</td>
 <td>– – – – – – какао-майын алмастырғыштар</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>1516 20 980 2</td>
 <td>– – – – – – какао-майының баламалары</td>
-<td>8,3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1516 20 980 9</td>
+<td>– – – – – – өзгелері</td>
+<td>8</td>
 </tr>
 <tr>
 <td>1522 00 310 0</td>
 <td>– – – соапстоктер</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>1522 00 390 0</td>
 <td>– – – өзгелері</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>1522 00 910 0</td>
 <td>– – – майлы фуз және майдың қалдықтары; соапстоктер</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>1522 00 990 0</td>
 <td>– – – өзгелері</td>
-<td>10</td>
+<td>5</td>
 </tr>
 <tr>
 <td>1602 49 500 0</td>
-<td>
-– – – кез келген түрдегі немесе кез келген жеріндегі майларды қоса алғанда, құрамында кез келген ет немесе қосалқы ет өнімдері 40 салм.
-%-дан кем болмайтын
-</td>
-<td>23</td>
+<td>– – – – кез келген түрдегі немесе кез келген жеріндегі майларды қоса алғанда, құрамында кез келген ет немесе қосалқы ет өнімдері 40 салм. %-дан кем болмайтын</td>
+<td>22</td>
 </tr>
 <tr>
 <td>1604 11 000 0</td>
 <td>– – албырт балық</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>1604 12 100 0</td>
 <td>– – – сүбе, шикі, қамырдағы немесе ұнға қақталған, алдын ала майға қуырылған немесе қуырылмаған, тоңазытылған</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 12 910 0</td>
 <td>– – – – саңылаусыз орамадағы</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 12 990 0</td>
-<td>– – – – өзгелері</td>
-<td>9</td>
+<td>– – – – өзгесі</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 13 110 0</td>
 <td>– – – – зәйтүн майында</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 13 190 0</td>
 <td>– – – – өзгелері</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 13 900 0</td>
 <td>– – – өзгелері</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 210 0</td>
 <td>– – – – – сұйық майда</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 260 0</td>
-<td>– – – – – – «кордтар немесе балык» ретінде белгілі жұмсақ ет</td>
-<td>9</td>
+<td>– – – – – – «кордтар немесе балықтың жон еті» ретінде белгілі жұмсақ ет</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 280 0</td>
 <td>– – – – – – өзгесі</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 310 0</td>
 <td>– – – – – сұйық майда</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 360 0</td>
-<td>– – – – – – «кордтар немесе балык» ретінде белгілі жұмсақ ет</td>
-<td>9</td>
+<td>– – – – – – «кордтар немесе балықтың жон еті» ретінде белгілі жұмсақ ет</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 380 0</td>
 <td>– – – – – – өзгесі</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 410 0</td>
 <td>– – – – – сұйық майда</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 460 0</td>
-<td>– – – – – – «кордтар немесе балык» ретінде белгілі жұмсақ ет</td>
-<td>9</td>
+<td>– – – – – – «кордтар немесе балықтың жон еті» ретінде белгілі жұмсақ ет</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 480 0</td>
 <td>– – – – – – өзгесі</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 14 900 0</td>
 <td>– – – пеламида (Sarda sрр.)</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 15 110 0</td>
 <td>– – – – сүбе</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 15 190 0</td>
-<td>– – – – өзгелері</td>
-<td>9</td>
+<td>– – – – өзгесі</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 15 900 0</td>
-<td>– – – Scomber australasicus түрі</td>
-<td>9</td>
+<td>– – – Scomber australasicus түріндегі</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 16 000 0</td>
 <td>– – анчоустар</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 17 000 0</td>
 <td>– – жыланбалық</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 18 000 0</td>
 <td>– – акуланың жүзбеқанаттары</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 100 0</td>
 <td>– – – албырт балықтан басқа, албырт тұқымдастар</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 310 0</td>
-<td>– – – – «корды немесе балық» ретінде белгі филе</td>
-<td>9</td>
+<td>– – – – «корды немесе балықтың жон еті» ретінде белгі филе</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 390 0</td>
-<td>– – – – өзгелері</td>
-<td>9</td>
+<td>– – – – өзгесі</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 500 0</td>
 <td>– – – Orcynopsis unicolor түріндегі балық</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 910 0</td>
 <td>– – – – сүбе, шикі, қамырдағы немесе ұнға қақталған, алдын ала майға қуырылған немесе қуырылмаған, тоңазытылған</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 920 0</td>
 <td>– – – – – треска (Gadus morhua, Gadus ogac, Gadus macrocephalus)</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 930 0</td>
 <td>– – – – – сайда (Роllachius virens)</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 940 0</td>
 <td>– – – – – мерлуза (Merluccis sрр.) және америкалық нитеперлі нәлім (Urophycis sрр.)</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 950 0</td>
 <td>– – – – – минтай (Thegara chalcogramma) және күміс сайда (Pollachius polachius)</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 971 0</td>
 <td>– – – – – – бекіре тұқымдастар</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 19 978 0</td>
 <td>– – – – – – өзгесі</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 20 050 0</td>
 <td>– – суримнен жасалған дайын өнімдер</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 20 100 0</td>
 <td>– – – албырт балықтан</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 20 300 0</td>
 <td>– – – албырт балықтан басқа, албырт тұқымдастардан</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 20 400 0</td>
-<td>– – – анчоустерден</td>
-<td>9</td>
+<td>– – – анчоустардан</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 20 500 0</td>
-<td>– – – Scomber және Scomber japonicus түрлеріндегі сардинадан, пеламидадан, скумбриядан, Orcynopsis unicolor түріндегі балықтардан</td>
-<td>9</td>
+<td>– – – Scomber және Scomber japonicus түріндегі сардинадан, пеламидадан, скумбриядан, Orcynopsis unicolor түріндегі балықтардан</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 20 700 0</td>
-<td>– – – тунецтен, скипджектен немесе ала тунецтен немесе Euthynnus тектес басқа балықтардан</td>
-<td>9</td>
+<td>– – – тунецтен, скипджектен немесе жолақ тунецтен немесе Euthynnus тектес басқа балықтардан</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 20 901 0</td>
 <td>– – – – бекіре тұқымдастардан</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 20 909 0</td>
 <td>– – – – өзге балықтардан</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>1604 31 000 0</td>
 <td>– – бекіре тұқымдастар уылдырықтары</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>1604 32 001 0</td>
 <td>– – – албырт балықтың уылдырықтары (қызыл уылдырық)</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>1604 32 009 0</td>
 <td>– – – өзгелері</td>
-<td>16,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>1605 10 000 0</td>
 <td>– теңіз шаяндары</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>1605 30 100 0</td>
 <td>– – жылумен өңделген ірі теңіз шаяндарының (омарлардың) еті, ірі теңіз шаяндарының (омарлардың) майын немесе ірі теңіз шаяндарының (омарлардың) паштетін, пасталарын, сорпаларын немесе тұздықтарын өндіру үшін</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
 <td>1605 30 900 0</td>
 <td>– – өзгелері</td>
-<td>12</td>
+<td>8</td>
 </tr>
 <tr>
-<td>1605 40 000 0</td>
-<td>– өзге шаян тұқымдастар</td>
-<td>12</td>
+<td>1605 40 000 9</td>
+<td>– – өзгелері</td>
+<td>8</td>
 </tr>
 <tr>
 <td>1701 12 100 1</td>
-<td>– – – – 1 қаңтардан 30 маусымды қоса алғанда</td>
-<td>23</td>
+<td>– – – – 1 қаңтардан бастап 30 маусымды қоса алғанда</td>
+<td>22</td>
 </tr>
 <tr>
 <td>1701 12 100 9</td>
-<td>– – – – 1 шілдеден 31 желтоқсанды қоса алғанда</td>
-<td>23</td>
+<td>– – – – 1 шілдеден бастап 31 желтоқсанды қоса алғанда</td>
+<td>22</td>
 </tr>
 <tr>
 <td>1701 12 900 1</td>
-<td>– – – – 1 қаңтардан 30 маусымды қоса алғанда</td>
-<td>23</td>
+<td>– – – – 1 қаңтардан бастап 30 маусымды қоса алғанда</td>
+<td>22</td>
 </tr>
 <tr>
 <td>1701 13 101 1</td>
@@ -3544,169 +4390,138 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>1701 91 001 1</td>
-<td>
-– – – – орташа айлық баға кезінде
-Нью-Йорк тауар-шикізат биржасында 1 т үшін 286,60 АҚШ долларынан аспайтын
-</td>
-<td>14</td>
+<td>– – – – орташа айлық баға кезінде Нью-Йорк тауар-шикізат биржасында 1 т үшін 286,60 АҚШ долларынан аспайтын</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 001 2</td>
-<td>
-– – – – орташа айлық баға кезінде
-Нью-Йорк тауар-шикізат биржасында 1 т үшін 286,61 АҚШ долларынан кем емес, бірақ 1 т үшін 324,08 АҚШ долларынан аспайтын
-</td>
-<td>14</td>
+<td>– – – – орташа айлық баға кезінде Нью-Йорк тауар-шикізат биржасында 1 т үшін 286,61 АҚШ долларынан кем емес, бірақ 1 т үшін 324,08 АҚШ долларынан аспайтын</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 001 3</td>
-<td>
-– – – – орташа айлық баға кезінде
-Нью-Йорк тауар-шикізат биржасында 1 т үшін 324,09 АҚШ долларынан кем емес, бірақ 1 т үшін 361,56 АҚШ долларынан аспайтын
-</td>
-<td>14</td>
+<td>– – – – орташа айлық баға кезінде Нью-Йорк тауар-шикізат биржасында 1 т үшін 324,09 АҚШ долларынан кем емес, бірақ 1 т үшін 361,56 АҚШ долларынан аспайтын</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 001 4</td>
-<td>
-– – – – орташа айлық баға кезінде
-Нью-Йорк тауар-шикізат биржасында 1 т үшін 361,57 АҚШ долларынан кем емес, бірақ 1 т үшін 396,83 АҚШ долларынан аспайтын
-</td>
-<td>14</td>
+<td>– – – – орташа айлық баға кезінде Нью-Йорк тауар-шикізат биржасында 1 т үшін 361,57 АҚШ долларынан кем емес, бірақ 1 т үшін 396,83 АҚШ долларынан аспайтын</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 001 5</td>
-<td>
-– – – – орташа айлық баға кезінде
-Нью-Йорк тауар-шикізат биржасында 1 т үшін 396,84 АҚШ долларынан кем емес
-</td>
-<td>14</td>
+<td>– – – – орташа айлық баға кезінде Нью-Йорк тауар-шикізат биржасында 1 т үшін 396,84 АҚШ долларынан кем емес</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 002 1</td>
-<td>
-– – – – орташа айлық баға кезінде
-Нью-Йорк тауар-шикізат биржасында 1 т үшін 286,60 АҚШ долларынан аспайтын
-</td>
-<td>14</td>
+<td>– – – – орташа айлық баға кезінде Нью-Йорк тауар-шикізат биржасында 1 т үшін 286,60 АҚШ долларынан аспайтын</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 002 2</td>
-<td>
-– – – – орташа айлық баға кезінде
-Нью-Йорк тауар-шикізат биржасында 1 т үшін 286,61 АҚШ долларынан кем емес, бірақ 1 т үшін 326,28 АҚШ долларынан аспайтын
-</td>
-<td>14</td>
+<td>– – – – орташа айлық баға кезінде Нью-Йорк тауар-шикізат биржасында 1 т үшін 286,61 АҚШ долларынан кем емес, бірақ 1 т үшін 326,28 АҚШ долларынан аспайтын</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 002 3</td>
-<td>
-– – – – орташа айлық баға кезінде
-Нью-Йорк тауар-шикізат биржасында 1 т үшін 326,29 АҚШ долларынан кем емес, бірақ 1 т үшін 365,97 АҚШ долларынан аспайтын
-</td>
-<td>14</td>
+<td>– – – – орташа айлық баға кезінде Нью-Йорк тауар-шикізат биржасында 1 т үшін 326,29 АҚШ долларынан кем емес, бірақ 1 т үшін 365,97 АҚШ долларынан аспайтын</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 002 4</td>
-<td>
-– – – – орташа айлық баға кезінде
-Нью-Йорк тауар-шикізат биржасында 1 т үшін 365,98 АҚШ долларынан кем емес, бірақ 1 т үшін 405,65 АҚШ долларынан аспайтын
-</td>
-<td>14</td>
+<td>– – – – орташа айлық баға кезінде Нью-Йорк тауар-шикізат биржасында 1 т үшін 365,98 АҚШ долларынан кем емес, бірақ 1 т үшін 405,65 АҚШ долларынан аспайтын</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 002 5</td>
-<td>
-– – – – орташа айлық баға кезінде
-Нью-Йорк тауар-шикізат биржасында 1 т үшін 405,66 АҚШ долларынан кем емес, бірақ 1 т үшін 445,33 АҚШ долларынан аспайтын
-</td>
-<td>14</td>
+<td>– – – – орташа айлық баға кезінде Нью-Йорк тауар-шикізат биржасында 1 т үшін 405,66 АҚШ долларынан кем емес, бірақ 1 т үшін 445,33 АҚШ долларынан аспайтын</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 002 6</td>
-<td>
-– – – – орташа айлық баға кезінде
-Нью-Йорк тауар-шикізат биржасында 1 т үшін 445,34 АҚШ долларынан кем емес, бірақ 1 т үшін 485,02 АҚШ долларынан аспайтын
-</td>
-<td>14</td>
+<td>– – – – орташа айлық баға кезінде Нью-Йорк тауар-шикізат биржасында 1 т үшін 445,34 АҚШ долларынан кем емес, бірақ 1 т үшін 485,02 АҚШ долларынан аспайтын</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 002 7</td>
-<td>
-– – – – орташа айлық баға кезінде
-Нью-Йорк тауар-шикізат биржасында 1 т үшін 485,03 АҚШ долларынан кем емес
-</td>
-<td>14</td>
+<td>– – – – орташа айлық баға кезінде Нью-Йорк тауар-шикізат биржасында 1 т үшін 485,03 АҚШ долларынан кем емес</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 003 1</td>
-<td>
-– – – – орташа айлық баға кезінде
-Нью-Йорк тауар-шикізат биржасында 1 т үшін 286,60 АҚШ долларынан аспайтын
-</td>
-<td>14</td>
+<td>– – – – орташа айлық баға кезінде Нью-Йорк тауар-шикізат биржасында 1 т үшін 286,60 АҚШ долларынан аспайтын</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 003 2</td>
-<td>
-– – – – орташа айлық баға кезінде
-Нью-Йорк тауар-шикізат биржасында 1 т үшін 286,61 АҚШ долларынан кем емес, бірақ 1 т үшін 324,08 АҚШ долларынан аспайтын
-</td>
-<td>14</td>
+<td>– – – – орташа айлық баға кезінде Нью-Йорк тауар-шикізат биржасында 1 т үшін 286,61 АҚШ долларынан кем емес, бірақ 1 т үшін 324,08 АҚШ долларынан аспайтын</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 003 3</td>
-<td>
-– – – – орташа айлық баға кезінде
-Нью-Йорк тауар-шикізат биржасында 1 т үшін 324,09 АҚШ долларынан кем емес, бірақ 1 т үшін 361,56 АҚШ долларынан аспайтын
-</td>
-<td>14</td>
+<td>– – – – орташа айлық баға кезінде Нью-Йорк тауар-шикізат биржасында 1 т үшін 324,09 АҚШ долларынан кем емес, бірақ 1 т үшін 361,56 АҚШ долларынан аспайтын</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 003 4</td>
-<td>
-– – – – орташа айлық баға кезінде
-Нью-Йорк тауар-шикізат биржасында 1 т үшін 361,57 АҚШ долларынан кем емес, бірақ 1 т үшін 396,83 АҚШ долларынан аспайтын
-</td>
-<td>14</td>
+<td>– – – – орташа айлық баға кезінде Нью-Йорк тауар-шикізат биржасында 1 т үшін 361,57 АҚШ долларынан кем емес, бірақ 1 т үшін 396,83 АҚШ долларынан аспайтын</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1701 91 003 5</td>
-<td>
-– – – – орташа айлық баға кезінде
-Нью-Йорк тауар-шикізат биржасында 1 т үшін 396,84 АҚШ долларынан кем емес
-</td>
-<td>14</td>
+<td>– – – – орташа айлық баға кезінде Нью-Йорк тауар-шикізат биржасында 1 т үшін 396,84 АҚШ долларынан кем емес</td>
+<td>11</td>
 </tr>
 <tr>
 <td>1702 90 710 0</td>
 <td>– – – құрамында құрғақ күйінде 50 салм. %-дан немесе одан да көп сахароза бар</td>
-<td>6,8</td>
+<td>6,2</td>
 </tr>
 <tr>
 <td>1702 90 750 0</td>
 <td>– – – – ұнтақ күйіндегі, агломератталған немесе агломератталмаған</td>
-<td>6,8</td>
+<td>6,2</td>
 </tr>
 <tr>
 <td>1702 90 790 0</td>
 <td>– – – – өзгелері</td>
-<td>6,8</td>
+<td>6,2</td>
 </tr>
 <tr>
 <td>1702 90 950 0</td>
 <td>– – өзгелері</td>
-<td>6,8</td>
+<td>6,2</td>
 </tr>
 <tr>
 <td>1704 10 100 0</td>
 <td>– – құрамында 60 салм. %-дан сахароза бар (сахароза ретінде көрінген инвертті қантты қоса алғанда)</td>
-<td>16</td>
+<td>14</td>
 </tr>
 <tr>
 <td>1704 10 900 1</td>
 <td>– – – жолақты сағыз</td>
-<td>16</td>
+<td>14</td>
+</tr>
+<tr>
+<td>1806 10 300 0</td>
+<td>– – құрамында 65 салм.% немесе одан көп, бірақ 80 салм.% кем емес сахарозасы (сахароза сияқты инвертті қантты қоса алғанда) немесе сахароза сияқты изоглюкозасы бар</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1901 90 110 0</td>
+<td>– – – құрамында 90 салм.%-дан немесе одан көп құрғақ экстракт бар</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1901 90 190 0</td>
+<td>– – – өзгесі</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1901 90 910 0</td>
+<td>– – – сүт майы, сахарозасы, изоглюкозасы, глюкозасы немесе крахмалы жоқ не болмаса 1,5 салм.% сүт майы, 5 салм.% сахароза (инвертті қантты қоса алғанда) немесе изоглюкозасы, 5 салм.% глюкозасы немесе крахмалы аз қамтылған, 0401 – 0404 тауар позициясы шикізатының ұнтақ түріндегі тамақ өнімдерін қоспағанда</td>
+<td>12</td>
 </tr>
 <tr>
 <td>1902 11 000 0</td>
@@ -3749,19 +4564,24 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>15</td>
 </tr>
 <tr>
+<td>2001 90 100 0</td>
+<td>– – манго чутниі</td>
+<td>9</td>
+</tr>
+<tr>
 <td>2001 90 500 0</td>
-<td>– саңырауқұлақтар</td>
-<td>11</td>
+<td>– – саңырауқұлақтар</td>
+<td>9</td>
 </tr>
 <tr>
 <td>2001 90 650 0</td>
 <td>– – зәйтүн немесе зәйтүн жемістері</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>2001 90 920 0</td>
-<td>– – – тропикалық жемістер және тропикалық жаңғақтар, пальма жүрекшесі</td>
-<td>11</td>
+<td>– – тропикалық жемістер және тропикалық жаңғақтар, пальма жүрекшесі</td>
+<td>9</td>
 </tr>
 <tr>
 <td>2001 90 970 1</td>
@@ -3779,14 +4599,44 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>8, бірақ 1 кг 0,04 евродан кем емес</td>
 </tr>
 <tr>
+<td>2005 99 200 0</td>
+<td>– – – киеуілдер</td>
+<td>12</td>
+</tr>
+<tr>
 <td>2007 99 100 0</td>
-<td>– – – – қара өріктің Prunus тектес түрлерінің езбесі мен пастасы, таза салмағы 100 кг-нан аспайтын бастапқы орамалардағы, өнеркәсіптік өңдеуге арналған</td>
-<td>11,7</td>
+<td>– – – – қара өріктің Prunus тектес түрлерінің езбесі мен пастасы, нетто-массасы 100 кг-нан аспайтын алғашқы орамалардағы, өнеркәсіптік өңдеуге арналған</td>
+<td>10</td>
 </tr>
 <tr>
 <td>2007 99 200 0</td>
 <td>– – – – каштанды езбе мен паста</td>
-<td>11</td>
+<td>9</td>
+</tr>
+<tr>
+<td>2007 99 500 1</td>
+<td>– – – – алма пюресі, компоттарды қоса</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2007 99 930 0</td>
+<td>– – – – тропикалық жемістер мен тропикалық жаңғақтардан жасалған</td>
+<td>9</td>
+</tr>
+<tr>
+<td>2007 99 970 1</td>
+<td>– – – – – алма пюресі, компоттарды қоса</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2007 99 970 2</td>
+<td>– – – – – – өзге де, алғашқы орамалардағы, нетто-массасы 40 кг астам</td>
+<td>9</td>
+</tr>
+<tr>
+<td>2007 99 970 8</td>
+<td>– – – – – – өзгелері</td>
+<td>9</td>
 </tr>
 <tr>
 <td>2008 30 550 0</td>
@@ -3800,18 +4650,18 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>2008 30 900 1</td>
-<td>– – – – алғашқы орамасында нетто-көлемі 4,5 кг және астам</td>
-<td>9</td>
+<td>– – – – алғашқы орамасында нетто-массасы 4,5 кг және астам</td>
+<td>8</td>
 </tr>
 <tr>
 <td>2008 30 900 9</td>
-<td>– – – – алғашқы орамасында нетто-көлемі 4,5 кг-дан аспайтын</td>
-<td>10</td>
+<td>– – – – алғашқы орамасында нетто-массасы 4,5 кг-дан аспайтын</td>
+<td>9</td>
 </tr>
 <tr>
 <td>2008 91 000 0</td>
 <td>– – пальма жүрекшесі</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>2009 19 910 0</td>
@@ -3820,12 +4670,22 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>2009 29 190 8</td>
-<td>– – – – – өзгелері</td>
+<td>– – – – – өзгесі</td>
 <td>5</td>
 </tr>
 <tr>
+<td>2009 41 920 1</td>
+<td>– – – – көлемі 0,35 л артық емес орауларда, балалар тағамы үшін</td>
+<td>15</td>
+</tr>
+<tr>
+<td>2009 41 920 9</td>
+<td>– – – – өзгесі</td>
+<td>15</td>
+</tr>
+<tr>
 <td>2009 49 190 8</td>
-<td>– – – – – өзгелері</td>
+<td>– – – – – өзгесі</td>
 <td>5</td>
 </tr>
 <tr>
@@ -3834,54 +4694,64 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>15</td>
 </tr>
 <tr>
-<td>2009 71 200 2</td>
-<td>– – – – – концентрацияланған, құны таза салмағы 100 кг үшін 30 евродан асатын, бөшкедегі, цистернадағы, флекси-сауыттардағы сыйымдылығы 40 кг-нан кем болмайтын</td>
-<td>10 6</td>
-</tr>
-<tr>
-<td>2009 79 190 3</td>
-<td>– – – – – концентрацияланған, құны таза салмағы 100 кг үшін 30 евродан асатын, бөшкедегі, цистернадағы, флекси-сауыттардағы сыйымдылығы 40 кг-нан кем болмайтын</td>
-<td>10 5</td>
-</tr>
-<tr>
 <td>2009 79 300 1</td>
-<td>– – – – – концентрацияланған, құны таза салмағы 100 кг үшін 30 евродан асатын, бөшкедегі, цистернадағы, флекси-сауыттардағы сыйымдылығы 40 кг-нан кем болмайтын</td>
+<td>– – – – – концентрацияланған, құны нетто-массасы 100 кг үшін 30 евродан асатын, бөшкедегі, цистернадағы, флекси-сауыттардағы сыйымдылығы 40 кг кем болмайтын</td>
 <td>13</td>
 </tr>
 <tr>
 <td>2009 89 360 8</td>
-<td>– – – – – – – өзгелері</td>
-<td>8,3</td>
+<td>– – – – – – – өзгесі</td>
+<td>5</td>
 </tr>
 <tr>
 <td>2009 89 730 8</td>
-<td>– – – – – – – өзгелері</td>
+<td>– – – – – – – өзгесі</td>
 <td>5</td>
 </tr>
 <tr>
 <td>2009 90 410 7</td>
 <td>– – – – – – – – – өзгелері</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>2009 90 490 8</td>
 <td>– – – – – – – өзгелері</td>
-<td>11</td>
+<td>9</td>
+</tr>
+<tr>
+<td>2101 30 190 0</td>
+<td>– – – өзгелері</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2101 30 910 0</td>
+<td>– – – қуырылған цикорийдің</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2101 30 990 0</td>
+<td>– – – өзгелері</td>
+<td>12</td>
 </tr>
 <tr>
 <td>2103 30 100 0</td>
 <td>– – қыша ұнтағы</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>2103 90 300 0</td>
-<td>– – құрамында 44,2 – 49,2 көл.%-дан спирт және 1,5 – 6 салм. %-дан ащы дәм, дәмдеуіш және әртүрлі ингредиенттер және 0,5 л немесе одан аз сыйымдылықтағы 4 – 10 % қанты бар хош иісті ащы дәм</td>
-<td>13</td>
+<td>– – құрамында 44,2- 49,2 көл.% -дан спирт және 1,5- 6 салм. %-дан ащы дәм, дәмдеуіш және әртүрлі ингредиенттер және 0,5 л немесе одан аз сыйымдылықтағы 4- 10%-қантты бар хош иісті ащы дәм</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2104 20 009 0</td>
+<td>– – өзгелері</td>
+<td>9</td>
 </tr>
 <tr>
 <td>2106 90 200 0</td>
-<td>– – ішімдіктер өндірісі кезінде пайдаланылатын хош иісті заттар негізіндегі өнімдерден басқа, құрамды спирттік шала фабрикаттар</td>
-<td>8,7</td>
+<td>– – ішімдіктер өндірісі кезінде пайдаланылатын хош иісті заттар негізіндегі өнімдерден басқа, құрамды спирттік жартылай фабрикаттар</td>
+<td>8</td>
 </tr>
 <tr>
 <td>2106 90 980 1</td>
@@ -3904,513 +4774,768 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>10</td>
 </tr>
 <tr>
+<td>2201 10 110 0</td>
+<td>– – – газдалмаған</td>
+<td>14</td>
+</tr>
+<tr>
+<td>2201 10 900 0</td>
+<td>– – өзгелері</td>
+<td>14</td>
+</tr>
+<tr>
+<td>2201 90 000 0</td>
+<td>– өзгелері</td>
+<td>14</td>
+</tr>
+<tr>
+<td>2204 10 110 0</td>
+<td>– – – шампан</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 1,35 евро</td>
+</tr>
+<tr>
+<td>2204 21 110 0</td>
+<td>– – – – – – – – Эльзас</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 120 0</td>
+<td>– – – – – – – – Бордо</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 130 0</td>
+<td>– – – – – – – – Бургундия</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 170 0</td>
+<td>– – – – – – – – Валь де Луар (Луара алқабы)</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 180 0</td>
+<td>– – – – – – – – Мозель-Саар-Рувер</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 190 0</td>
+<td>– – – – – – – – Пфальц</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 220 0</td>
+<td>– – – – – – – – Рейнхессен</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 240 0</td>
+<td>– – – – – – – – Лацио</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 260 0</td>
+<td>– – – – – – – – Тоскана</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 270 0</td>
+<td>– – – – – – – – Трентино, Альто-Адидже және Фриули</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 280 0</td>
+<td>– – – – – – – – Венето</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 320 0</td>
+<td>– – – – – – – – Виньо Верде</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 340 0</td>
+<td>– – – – – – – – Пенедес</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 360 0</td>
+<td>– – – – – – – – Риойя</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 370 0</td>
+<td>– – – – – – – – Валенсия</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 380 0</td>
+<td>– – – – – – – – өзгелері</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 420 0</td>
+<td>– – – – – – – – Бордо</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 430 0</td>
+<td>– – – – – – – – Бургундия</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 440 0</td>
+<td>– – – – – – – – Божоле</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 460 0</td>
+<td>– – – – – – – – Вале-дю-Рон</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 470 0</td>
+<td>– – – – – – – – Лангедок-Руссильон</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 480 0</td>
+<td>– – – – – – – – Валь де Луар (Луара алқабы)</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 620 0</td>
+<td>– – – – – – – – Пьемонт</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 660 0</td>
+<td>– – – – – – – – Тоскана</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 670 0</td>
+<td>– – – – – – – – Трентино және Альто-Адидже</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 680 0</td>
+<td>– – – – – – – – Венето</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 690 0</td>
+<td>– – – – – – – – Дао, Беррада және Дуро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 710 0</td>
+<td>– – – – – – – – Hаварра</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 740 0</td>
+<td>– – – – – – – – Пенедес</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 760 0</td>
+<td>– – – – – – – – Риойя</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 770 0</td>
+<td>– – – – – – – – Вальдепениас</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 780 0</td>
+<td>– – – – – – – – өзгелері</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 800 0</td>
+<td>– – – – – – – өзгелері</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 820 0</td>
+<td>– – – – – – – өзгелері</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 840 0</td>
+<td>– – – – – – – өзгелері</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 850 0</td>
+<td>– – – – – – – мадера және Мускатель сетюбал (Setubal muscatel)</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 870 0</td>
+<td>– – – – – – – марсала</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 880 0</td>
+<td>– – – – – – – Самос (Samos) және Мускат де Лемнос (Muscat de Lemnos)</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 890 0</td>
+<td>– – – – – – – портвейн</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 900 0</td>
+<td>– – – – – – – өзгелері</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 910 0</td>
+<td>– – – – – – өзгелері</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 930 0</td>
+<td>– – – – – – ақ</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 940 0</td>
+<td>– – – – – – өзгелері</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 950 0</td>
+<td>– – – – – – ақ</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 960 0</td>
+<td>– – – – – – өзгелері</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 970 0</td>
+<td>– – – – – – ақ</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
+<td>2204 21 980 0</td>
+<td>– – – – – – өзгелері</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,7 евро</td>
+</tr>
+<tr>
 <td>2204 22 100 0</td>
-<td>– – – 2204 10 қосалқы позицияда көрсетілгендерді қоспағанда, ұстап тұратын бауы бар немесе бекіткіштері бар «саңырауқұлақ тәрізді» тығындары бар бөтелкелердегі шарап; 20 °C температура кезінде 1-ден 3 барға дейін көміртегі диоксидіне негізделген сусындағы артық қысымы бар басқа ыдыстағы шарап</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – 2204 10 қосалқы позицияда көрсетілгендерді қоспағанда, ұстап тұратын бауы бар немесе бекіткіштері бар «саңырауқұлақ тәрізді» тығындары бар бөтелкелердегі шарап; 20 оC температура кезінде 1-ден 3 барға дейін көміртегі диоксидіне негізделген сусындағы артық қысымы бар басқа ыдыстағы шарап</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 110 0</td>
 <td>– – – – – – – – Токай</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 120 0</td>
 <td>– – – – – – – – Бордо</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 130 0</td>
 <td>– – – – – – – – Бургундия</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 170 0</td>
-<td>– – – – – – – – Валь де Луар (Долина Луары)</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – – – – – – Валь де Луар (Луара алқабы)</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 180 0</td>
 <td>– – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 420 0</td>
 <td>– – – – – – – – Бордо</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 430 0</td>
 <td>– – – – – – – – Бургундия</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 440 0</td>
 <td>– – – – – – – – Божоле</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 460 0</td>
 <td>– – – – – – – – Вале-дю-Рон</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 470 0</td>
 <td>– – – – – – – – Лангедок-Руссильон</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 480 0</td>
-<td>– – – – – – – – Валь де Луар (Долина Луары)</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – – – – – – Валь де Луар (Луара алқабы)</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 580 0</td>
 <td>– – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 790 0</td>
 <td>– – – – – – – ақ</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 800 0</td>
 <td>– – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 810 0</td>
 <td>– – – – – – – ақ</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 820 0</td>
 <td>– – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 830 0</td>
 <td>– – – – – – – ақ</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 840 0</td>
 <td>– – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 850 0</td>
 <td>– – – – – – – мадера және Мускатель сетюбал (Setubal muscatel)</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 860 0</td>
 <td>– – – – – – – херес</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 870 0</td>
 <td>– – – – – – – марсала</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 880 0</td>
 <td>– – – – – – – Самос (Samos) және Мускат де Лемнос (Muscat de Lemnos)</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 890 0</td>
 <td>– – – – – – – портвейн</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 900 0</td>
 <td>– – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 910 0</td>
 <td>– – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 920 0</td>
-<td>– – – – – спирттің нақты концентрациясы 22 об.%-дан астам</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – – – спирттің нақты концентрациясы 22 көл.% -дан астам</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 930 0</td>
 <td>– – – – – – ақ</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 940 0</td>
 <td>– – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 950 0</td>
 <td>– – – – – – ақ</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 960 0</td>
 <td>– – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 970 0</td>
 <td>– – – – – – ақ</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 22 980 0</td>
 <td>– – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 050 0</td>
-<td>– – – 2204 10 қосалқы позицияда көрсетілгендерді қоспағанда, ұстап тұратын бауы бар немесе бекіткіштері бар «саңырауқұлақ тәрізді» тығындары бар бөтелкелердегі шарап; 20°C температура кезінде 1-ден 3 барға дейін көміртегі диоксидіне негізделген сусындағы артық қысымы бар басқа ыдыстағы шарап</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – 2204 10 қосалқы позицияда көрсетілгендерді қоспағанда, ұстап тұратын бауы бар немесе бекіткіштері бар «саңырауқұлақ тәрізді» тығындары бар бөтелкелердегі шарап; 20оC температура кезінде 1- ден 3 барға дейін көміртегі диоксидіне негізделген сусындағы артық қысымы бар басқа ыдыстағы шарап</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 110 1</td>
 <td>– – – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 110 8</td>
-<td>– – – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – – – – – – – өзгесі</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 120 1</td>
 <td>– – – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 120 8</td>
-<td>– – – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – – – – – – – өзгесі</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 130 1</td>
 <td>– – – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 130 8</td>
-<td>– – – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – – – – – – – өзгесі</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 170 1</td>
 <td>– – – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 170 8</td>
-<td>– – – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – – – – – – – өзгесі</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 180 1</td>
 <td>– – – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 180 8</td>
 <td>– – – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 420 1</td>
 <td>– – – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 420 8</td>
-<td>– – – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – – – – – – – өзгесі</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 430 1</td>
 <td>– – – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 430 8</td>
-<td>– – – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – – – – – – – өзгесі</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 440 1</td>
 <td>– – – – – – – – – в сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 440 8</td>
-<td>– – – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – – – – – – – өзгесі</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 460 1</td>
-<td>– – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 460 8</td>
-<td>– – – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – – – – – – – өзгесі</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 470 1</td>
-<td>– – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 470 8</td>
-<td>– – – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – – – – – – – өзгесі</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 480 1</td>
 <td>– – – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 480 8</td>
-<td>– – – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – – – – – – – өзгесі</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 580 1</td>
 <td>– – – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 580 8</td>
 <td>– – – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 790 1</td>
 <td>– – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 790 8</td>
 <td>– – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 800 1</td>
 <td>– – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 800 8</td>
 <td>– – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 810 1</td>
 <td>– – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 810 8</td>
 <td>– – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 820 1</td>
 <td>– – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 820 8</td>
 <td>– – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 830 1</td>
 <td>– – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 830 8</td>
 <td>– – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 840 1</td>
 <td>– – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 840 8</td>
 <td>– – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 850 1</td>
 <td>– – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 850 8</td>
 <td>– – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 860 1</td>
 <td>– – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 860 8</td>
 <td>– – – – – – – – өзгесі</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 870 1</td>
 <td>– – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 870 8</td>
-<td>– – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – – – – – – өзгесі</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 880 1</td>
 <td>– – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 880 8</td>
 <td>– – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 890 1</td>
 <td>– – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 890 8</td>
 <td>– – – – – – – – өзгесі</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 900 1</td>
 <td>– – – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 900 8</td>
 <td>– – – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 910 1</td>
-<td>– – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>– – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 910 8</td>
 <td>– – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 920 1</td>
 <td>– – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 920 8</td>
 <td>– – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 930 1</td>
 <td>– – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 930 8</td>
 <td>– – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 940 1</td>
 <td>– – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 940 8</td>
 <td>– – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 950 1</td>
 <td>– – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 950 8</td>
 <td>– – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 960 1</td>
 <td>– – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 960 8</td>
 <td>– – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 970 1</td>
 <td>– – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 970 8</td>
 <td>– – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 980 1</td>
 <td>– – – – – – – сыйымдылығы 227 л немесе одан көп ыдыста</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2204 29 980 8</td>
 <td>– – – – – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 16 немесе 1 л үшін 0,17 евро</td>
+<td>қайсысы төмен екендігіне байланысты 15 немесе 1 л үшін 0,15 евро</td>
 </tr>
 <tr>
 <td>2205 10 100 0</td>
-<td>– – 18 айн.% немесе кем іс жүзіндегі спирт концентратымен</td>
+<td>– – 18 көл.% немесе кем іс жүзіндегі спирт концентратымен</td>
 <td>1 л үшін 0,12 евро</td>
 </tr>
 <tr>
 <td>2205 10 900 0</td>
-<td>– – 18 айн.%-дан астам жүзіндегі спирт концентратымен</td>
+<td>– – 18 көл.%-дан астам іс жүзіндегі спирт концентратымен</td>
 <td>1 л үшін 0,12 евро</td>
 </tr>
 <tr>
 <td>2205 90 100 0</td>
-<td>– – 18 айн.% немесе кем іс жүзіндегі спирт концентратымен</td>
+<td>– – 18 көл.% немесе кем іс жүзіндегі спирт концентратымен</td>
 <td>1 л үшін 0,12 евро</td>
 </tr>
 <tr>
 <td>2205 90 900 0</td>
-<td>– – 18 айн.%-дан астам жүзіндегі спирт концентратымен</td>
+<td>– – 18 көл.%-дан астам іс жүзіндегі спирт концентратымен</td>
 <td>1 л үшін 0,12 евро</td>
 </tr>
 <tr>
@@ -4420,26 +5545,23 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>2206 00 390 1</td>
-<td>– – – – 7 айн. %-дан астам емес іс жүзіндегі спирт концентратымен</td>
-<td>қайсысы төмен екендігіне байланысты 17,5 немесе 1 л үшін 0,5 евро</td>
+<td>– – – – 7 көл.% астам емес іс жүзіндегі спирт концентратымен</td>
+<td>қайсысы төмен екендігіне байланысты 16,3 немесе 1 л үшін 0,5 евро</td>
 </tr>
 <tr>
 <td>2206 00 390 9</td>
 <td>– – – – өзгелері</td>
-<td>қайсысы төмен екендігіне байланысты 17,5 немесе 1 л үшін 0,5 евро</td>
+<td>қайсысы төмен екендігіне байланысты 16,3 немесе 1 л үшін 0,5 евро</td>
 </tr>
 <tr>
 <td>2206 00 590 1</td>
-<td>– – – – – 7 айн. %-дан аспайтын жүзіндегі спирт концентратымен</td>
-<td>қайсысы төмен екендігіне байланысты 17,5 немесе 1 л үшін 0,5 евро</td>
+<td>– – – – – 7 көл.% аспайтын іс жүзіндегі спирт концентратымен</td>
+<td>қайсысы төмен екендігіне байланысты 16,3 немесе 1 л үшін 0,5 евро</td>
 </tr>
 <tr>
 <td>2207 10 000 0</td>
-<td>– спирт концентраты 80 айн. % немесе одан көп денатуратталмаған этил спирті</td>
-<td>
-
-1 л үшін 2 евро
-</td>
+<td>– спирт концентраты 80 көл.% немесе одан көп денатуратталмаған этил спирті</td>
+<td>1 л үшін 2 евро</td>
 </tr>
 <tr>
 <td>2207 20 000 0</td>
@@ -4454,137 +5576,142 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>2208 30 110 0</td>
 <td>– – – 2 л немесе одан аз</td>
-<td>1 л үшін 0,8 евро</td>
+<td>1 л үшін 0,7 евро</td>
 </tr>
 <tr>
 <td>2208 30 190 0</td>
 <td>– – – 2 литрден астам</td>
-<td>1 л үшін 0,8 евро</td>
+<td>1 л үшін 0,7 евро</td>
 </tr>
 <tr>
 <td>2208 30 300 1</td>
 <td>– – – – 2 литр немесе одан аспайтын ыдыстардағы</td>
-<td>1 л үшін 0,8 евро</td>
+<td>1 л үшін 0,7 евро</td>
 </tr>
 <tr>
 <td>2208 30 300 9</td>
 <td>– – – – 2 литрден асатын ыдыстардағы</td>
-<td>1 л үшін 0,8 евро</td>
+<td>1 л үшін 0,7 евро</td>
 </tr>
 <tr>
 <td>2208 30 410 0</td>
 <td>– – – – 2 л немесе одан аз</td>
-<td>1 л үшін 0,8 евро</td>
+<td>1 л үшін 0,7 евро</td>
 </tr>
 <tr>
 <td>2208 30 490 0</td>
 <td>– – – – 2 литрден астам</td>
-<td>1 л үшін 0,8 евро</td>
+<td>1 л үшін 0,7 евро</td>
 </tr>
 <tr>
 <td>2208 30 610 0</td>
 <td>– – – – 2 л немесе одан аз</td>
-<td>1 л үшін 0,8 евро</td>
+<td>1 л үшін 0,7 евро</td>
 </tr>
 <tr>
 <td>2208 30 690 0</td>
 <td>– – – – 2 литрден астам</td>
-<td>1 л үшін 0,8 евро</td>
+<td>1 л үшін 0,7 евро</td>
 </tr>
 <tr>
 <td>2208 30 710 0</td>
 <td>– – – – 2 л немесе одан аз</td>
-<td>1 л үшін 0,8 евро</td>
+<td>1 л үшін 0,7 евро</td>
 </tr>
 <tr>
 <td>2208 30 790 0</td>
 <td>– – – – 2 литрден астам</td>
-<td>1 л үшін 0,8 евро</td>
+<td>1 л үшін 0,7 евро</td>
 </tr>
 <tr>
 <td>2208 30 820 0</td>
 <td>– – – 2 л немесе одан аз</td>
-<td>1 л үшін 0,8 евро</td>
+<td>1 л үшін 0,7 евро</td>
 </tr>
 <tr>
 <td>2208 30 880 0</td>
 <td>– – – 2 литрден астам</td>
-<td>1 л үшін 0,8 евро</td>
+<td>1 л үшін 0,7 евро</td>
 </tr>
 <tr>
 <td>2208 90 540 0</td>
 <td>– – – – – – – текила</td>
-<td>1 л үшін 0,8 евро</td>
+<td>1 л үшін 0,7 евро</td>
 </tr>
 <tr>
 <td>2208 90 560 1</td>
 <td>– – – – – – – – мескаль</td>
-<td>1 л үшін 0,8 евро</td>
+<td>1 л үшін 0,7 евро</td>
 </tr>
 <tr>
 <td>2208 90 750 0</td>
 <td>– – – – – текила</td>
-<td>1 л үшін 0,8 евро</td>
+<td>1 л үшін 0,7 евро</td>
 </tr>
 <tr>
 <td>2208 90 770 1</td>
 <td>– – – – – – мескаль</td>
-<td>1 л үшін 0,8 евро</td>
+<td>1 л үшін 0,7 евро</td>
 </tr>
 <tr>
 <td>2208 90 910 0</td>
 <td>– – – 2 литрден немесе одан аз</td>
-<td>1 л үшін 2,6 евро</td>
+<td>1 л үшін 2,4 евро</td>
 </tr>
 <tr>
 <td>2208 90 990 0</td>
 <td>– – – 2 литрден немесе одан аз</td>
-<td>1 л үшін 2,6 евро</td>
+<td>1 л үшін 2,4 евро</td>
 </tr>
 <tr>
 <td>2403 99 100 0</td>
 <td>– – – шайнайтын және иіскейтін темекі</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>2403 99 900 9</td>
-<td>– – – – өзгелері</td>
-<td>18</td>
+<td>– – – – өзгесі</td>
+<td>17</td>
 </tr>
 <tr>
 <td>2511 10 000 0</td>
 <td>– табиғи барий сульфаты (барит)</td>
-<td>4,2</td>
+<td>3,8</td>
 </tr>
 <tr>
 <td>2511 20 000 0</td>
 <td>– табиғи барий карбонаты (витерит)</td>
-<td>4,2</td>
+<td>3,8</td>
+</tr>
+<tr>
+<td>2607 00 000 1</td>
+<td>– 45 салм. %-дан кем емес құрамында қорғасыны бар</td>
+<td>2 4</td>
+</tr>
+<tr>
+<td>2607 00 000 9</td>
+<td>– өзгелері</td>
+<td>2</td>
 </tr>
 <tr>
 <td>2844 40 100 0</td>
 <td>– – уран-233-тен және оның қосылыстарынан алынған уран; балқымалар, дисперсиялар (металл керамикасын қоса алғанда), керамикалық өнімдер мен қоспалар және уран-233-тен алынған қосылыстар немесе осы өнімнің қосылыстары</td>
-<td>3,3</td>
+<td>2,2</td>
 </tr>
 <tr>
 <td>2844 40 200 0</td>
 <td>– – – жасанды радиоактивті изотоптар</td>
-<td>3,3</td>
+<td>2,2</td>
 </tr>
 <tr>
 <td>2844 40 300 0</td>
 <td>– – – жасанды радиоактивті изотоптардың қосылыстары</td>
-<td>3,3</td>
+<td>2,2</td>
 </tr>
 <tr>
 <td>2844 40 800 0</td>
 <td>– – – өзгелері</td>
-<td>3,3</td>
-</tr>
-<tr>
-<td>2905 31 000 0</td>
-<td>– – этиленгликоль (этандиол)</td>
-<td>5,5</td>
+<td>2,2</td>
 </tr>
 <tr>
 <td>2907 21 000 0</td>
@@ -4592,219 +5719,329 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>5,5</td>
 </tr>
 <tr>
+<td>2936 21 000 0</td>
+<td>– – A витаминдері және олардың туындылары</td>
+<td>2,6</td>
+</tr>
+<tr>
 <td>2936 22 000 1</td>
 <td>– – – кокарбоксилаза</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2936 22 000 9</td>
 <td>– – – өзгелері</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2936 23 000 0</td>
-<td>– – B2 витамині және оның туындылары</td>
-<td>3,9</td>
+<td>– – B2 дәрумені және оның туындылары</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2936 24 000 0</td>
-<td>– – D немесе DL пантотен қышқылы (B3 немесе B5 витамині), оның туындылары</td>
-<td>3,9</td>
+<td>– – D немесе DL пантотен қышқылы (B3 немесе B5 дәрумені), оның туындылары</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2936 25 000 0</td>
-<td>– – B6 витамині және оның туындылары</td>
-<td>3,9</td>
+<td>– – B6 дәрумені және оның туындылары</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2936 26 000 0</td>
-<td>– – B12 витамині және оның туындылары</td>
-<td>3,9</td>
+<td>– – B12 дәрумені және оның туындылары</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2936 27 000 0</td>
+<td>– – C дәрумені және оның туындылары</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2936 28 000 0</td>
+<td>– – E дәрумені және оның туындылары</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2936 29 000 1</td>
-<td>– – – B9 витамині және оның туындылары; Н витамині және оның туындылары</td>
-<td>3,9</td>
+<td>– – – B9 дәрумені және оның туындылары; Н дәрумені және оның туындылары</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2936 29 000 9</td>
+<td>– – – өзгелері</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2936 90 000 1</td>
 <td>– – витаминдар табиғи концетраттар</td>
-<td>3,9</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2936 90 000 2</td>
+<td>– – – витаминдер қоспалары, оның ішінде кез келген ерітіндідегі қоспалар</td>
+<td>2</td>
 </tr>
 <tr>
 <td>2936 90 000 9</td>
 <td>– – – өзгелері</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 11 000 0</td>
-<td>– – көкнәр шиінен алынған концетраттар; бупренорфин (INN), кодеин, дигидрокодеин (INN), этилморфин, эторфин (INN), героин, гидрокодон (INN), гидроморфон (INN), морфин, никоморфин (INN), оксикодон (INN), оксиморфон (INN), фолкодин (INN), тебакон (INN) және тебаин; осы қосылыстардың тұздары</td>
-<td>3,9</td>
+<td>– – көкнәр шиінен алынған концентраттар; бупренорфин (INN), кодеин, дигидрокодеин (INN), этилморфин, эторфин (INN), героин, гидрокодон (INN), гидроморфон (INN), морфин, никоморфин (INN), оксикодон (INN), оксиморфон (INN), фолкодин (INN), тебакон (INN) және тебаин; осы қосылыстардың тұздары</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 19 000 0</td>
 <td>– – өзгелері</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 20 000 0</td>
 <td>– хин ағашының қабығынан бөлініп шығарылған алколоидтер және олардың туындылары; осы қосылыстардың тұздары</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 30 000 0</td>
 <td>– кофеин және оның тұздары</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 41 000 0</td>
 <td>– – эфедрин және оның тұздары</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 42 000 0</td>
 <td>– – псевдоэфедрин (INN) және оның тұздары</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 43 000 0</td>
 <td>– – катин (INN) және оның тұздары</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 44 000 0</td>
 <td>– – норэфедрин және оның тұздары</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 49 000 0</td>
 <td>– – өзгелері</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 51 000 0</td>
 <td>– – фенетиллин (INN) және оның тұздары</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 59 000 0</td>
 <td>– – өзгелері</td>
-<td>3,9</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2939 61 000 0</td>
+<td>– – эргометрин (INN) және оның тұздары</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2939 62 000 0</td>
+<td>– – эрготамин (INN) және оның тұздары</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2939 63 000 0</td>
+<td>– – лизергин қышқылы және оның тұздары</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td>2939 69 000 0</td>
+<td>– – өзгелері</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 71 000 0</td>
 <td>– – кокаин, экгонин, левометамфетамин, метамфетамин (INN), рацемат метамфетамина; тұздар, күрделі эфирлер және олардың басқа да туындылары</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 79 000 0</td>
 <td>– – өзгелері</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>2939 80 000 0</td>
 <td>– өзгелері</td>
-<td>3,9</td>
+<td>2,6</td>
 </tr>
 <tr>
 <td>3001 20 100 0</td>
 <td>– – адамнан алынған</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3001 20 900 0</td>
 <td>– – өзгелері</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>3001 90 200 0</td>
 <td>– – адамнан алынған</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3001 90 980 0</td>
 <td>– – – өзгелері</td>
-<td>5</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>3002 11 000 0</td>
+<td>– – безгек диагностикалық жинақтары</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 12 000 2</td>
+<td>– – – – өзгелері</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 12 000 3</td>
+<td>– – – – гемоглобин, қан глобулиндері және қан сарысуы глобулиндері</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 12 000 4</td>
+<td>– – – – – – қан ұюының факторлары</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3002 12 000 5</td>
+<td>– – – – – – өзгелері</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 12 000 9</td>
+<td>– – – – – өзгелері</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 13 000 0</td>
+<td>– – араластырылмаған, мөлшерленген дәрілік нысандар түрінде немесе бөлшек саудаға арналған нысандар немесе орама түрінде өлшеніп оралмаған иммунологиялық өнімдер</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 14 000 0</td>
+<td>– – араластырылған, мөлшерленген дәрілік нысандар түрінде немесе бөлшек саудаға арналған нысандар немесе орама түрінде өлшеніп оралмаған иммунологиялық өнімдер</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 15 000 0</td>
+<td>– – мөлшерленген дәрілік нысандар түрінде немесе бөлшек саудаға арналған нысандар немесе орама түрінде өлшеніп оралған иммунологиялық өнімдер</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 19 000 0</td>
+<td>– – өзгелері</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3002 20 000 1</td>
 <td>– – қызылшаға қарсы</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3002 20 000 2</td>
 <td>– – В гепатитіне қарсы</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3002 20 000 9</td>
 <td>– – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3002 30 000 0</td>
 <td>– ветеринариялық вакциналар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3002 90 100 0</td>
 <td>– – адам қаны</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3002 90 300 0</td>
 <td>– – терапевтикалық, алдын алу немесе диагностикалық мақсаттарда пайдалану үшін дайындалған жануарлар қаны</td>
-<td>3,3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3002 90 500 0</td>
+<td>– – микроорганизм себінділері</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>3002 90 900 0</td>
 <td>– – өзгелері</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>3004 10 000 1</td>
-<td>– – – негізгі әрекет жасаушы зат ретінде ампициллин тригидратын немесе ампициллин натрий тұзын, немесе бензилпенициллиннің тұздары мен қосылыстарын, немесе карбенициллинді, немесе оксациллинді, немесе сулациллинді (сультамициллинді) немесе феноксиме-тилпенициллинді қамтитындар</td>
-<td>3,3</td>
+<td>– – – құрамында негізгі әрекет жасаушы зат ретінде ампициллин тригидраты немесе ампициллин натрий тұзы, немесе бензилпенициллиннің тұздары мен қосылыстары, немесе карбенициллин, немесе оксациллин, немесе сулациллин (сультамициллин) немесе феноксиме-тилпенициллин бар</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3004 10 000 4</td>
+<td>– – – – мөлшерленген дәрілік нысандар түрінде, бірақ бөлшек сауда үшін өлшеніп оралған</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 10 000 5</td>
 <td>– – – – өзгелері</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 10 000 6</td>
-<td>– – – – негізгі әрекет жасаушы зат ретінде тек стрептомицин сульфатын қамтитын</td>
-<td>3,3</td>
+<td>– – – – құрамында негізгі әрекет жасаушы зат ретінде тек стрептомицин сульфаты бар</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 10 000 7</td>
 <td>– – – – өзгелері</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 10 000 8</td>
 <td>– – – өзгелері</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 20 000 1</td>
-<td>– – – негізгі әрекет жасаушы зат ретінде тек амикацинді немесе гентамицинді, немесе гризеофуль– винді, немесе доксицилинді, немесе доксорубицинді, немесе канамицинді, немесе фузидиевтік қышқылды және оның натрий тұзын, немесе левомицетинді (хлорамфениколды) және оның тұздарын, немесе линкомицинді, немесе метациклинді, немесе нистатинді, немесе рифампицинді, немесе цефазолинді, немесе цефалексинді, немесе цефалотинді, немесе эротримициннің негізін қамтитындар</td>
-<td>1,7</td>
+<td>– – – құрамында негізгі әрекет жасаушы зат ретінде тек амикацин немесе гентамицин, немесе гризеофуль- вин, немесе доксицилин, немесе доксорубицин, немесе канамицин, немесе фузидиевтік қышқыл және оның натрий тұзы, немесе левомицетин (хлорамфеникол) және оның тұздары, немесе линкомицин, немесе метациклин, немесе нистатин, немесе рифампицин, немесе цефазолин, немесе цефалексин, немесе цефалотин, немесе эротримицин бар</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 20 000 2</td>
 <td>– – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 20 000 3</td>
-<td>– – – негізгі әрекет жасаушы зат ретінде тек эритромициннің негізін немесе канамицин сульфатын қамтитын</td>
-<td>3,3</td>
+<td>– – – құрамында негізгі әрекет жасаушы зат ретінде тек эритромициннің негізі немесе канамицин сульфаты бар</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 20 000 9</td>
 <td>– – – өзгелері</td>
-<td>3,3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3004 32 000 9</td>
+<td>– – – өзгелері</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 39 000 1</td>
@@ -4818,48 +6055,68 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>3004 41 000 0</td>
-<td>– – эфедрин және оның тұздарын қамтитын</td>
-<td>3,3</td>
+<td>– – құрамында эфедрин және оның тұздары бар</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 42 000 0</td>
-<td>– – псевдоэфедрин (INN) және оның тұздарын қамтитын</td>
-<td>3,3</td>
+<td>– – құрамында псевдоэфедрин (INN) және оның тұздары бар</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 43 000 0</td>
-<td>– – норэфедрин және оның тұздарын қамтитын</td>
-<td>3,3</td>
+<td>– – құрамында норэфедрин және оның тұздары бар</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 49 000 1</td>
-<td>– – – бөлшек саудамен сату үшін нысандарға немесе орамдарға өлшеніп оралған және негізгі әрекет жасаушы зат ретінде тек: натрийдің кофеин-бензоатын немесе ксантинол никотинатын, немесе папаверинді, немесе пилокарпинді, немесе теоброминді, немесе теофиллинді қамтитын</td>
-<td>3,3</td>
+<td>– – – бөлшек саудамен сату үшін нысандарға немесе орамдарға өлшеніп оралған және құрамында негізгі әрекет жасаушы зат ретінде тек: натрийдің кофеин-бензоаты немесе ксантинол никотинаты, немесе папаверин, немесе пилокарпин, немесе теобромин, немесе теофиллин бар</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 49 000 9</td>
 <td>– – – өзгелері</td>
-<td>3,3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3004 50 000 6</td>
+<td>– – – негізгі қажетті зат ретінде мыналарды ғана қамтитын: кокарбоксилазаны немесе аскорбин қышқылын (С дәрумені), немесе цианокобаламинді (В12 дәрумені)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3004 50 000 8</td>
+<td>– – – өзгелері</td>
+<td>4</td>
 </tr>
 <tr>
 <td>3004 60 000 0</td>
-<td>– өзгелер, осы топқа жазба субпозиция 2-тармағында аталған безгекке қарсы белсенді (активті) заттар бар</td>
-<td>1,7</td>
+<td>– өзгелер, осы топқа 2-субпозицияға ескертуде көрсетілген құрамында безгекке қарсы белсенді (әрекет ететін) заттар бар</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 90 000 1</td>
-<td>– – – йод немесе йодты 4 туындыларын қамтыған</td>
-<td>3,3</td>
+<td>– – – құрамында йод немесе йод қосылыстары бар</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 90 000 2</td>
 <td>– – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3004 90 000 5</td>
-<td>– – – йод немесе йодты4 туындыларын қамтыған</td>
-<td>3,3</td>
+<td>– – – құрамында йод немесе йод қосылыстары бар</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3004 90 000 6</td>
+<td>– – – – негізгі қажнтті зат ретінде мыналарды ғана қамтитын: ацетилсалицил немесе парацетамол қышқылын, немесе рибоксинды (инозин), немесе поливинилпирролидонды</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3004 90 000 9</td>
+<td>– – – – өзгелері</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3006 10 100 0</td>
@@ -4874,42 +6131,62 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>3006 20 000 0</td>
 <td>– қан тобын анықтауға арналған реагенттер</td>
-<td>3,3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3006 30 000 0</td>
+<td>– айнаға түсіру үшін айырықша препараттар; ауруларға егуге арналғандиагностикалық реагенттер</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3006 40 000 0</td>
+<td>– тіс цементтері және тістерді пломбылауға арналған басқа материалдар; сүйекті құрайтын цементтер</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3006 50 000 0</td>
+<td>– санитариялық сөмкелер және алғашқы көмек көрсетуге арналған жиынтықтар</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>3006 60 000 1</td>
+<td>– – – бөлшек саудамен сату үшін нысандарға немесе орамдарға өлшеніп оралған:</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>3006 60 000 2</td>
 <td>– – – өзгелері</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>3006 60 000 9</td>
 <td>– – спермицидтердің негізінде</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>3006 92 000 0</td>
 <td>– – жарамсыз фармацевтикалық құралдар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3302 10 100 0</td>
 <td>– – – – құрамында 0,5 көл.%-дан астам спирт бар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3302 10 210 0</td>
 <td>– – – – – құрамында сүт майлары, сахароза изоглюкоза, глюкоза немесе крахмал жоқ немесе құрамында 1,5 салм.%-дан кем сүт майлары, 5 салм. %-дан сахароза немесе изоглюкоза, 5 салм. %-дан глюкоза немесе крахмал бар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3302 10 290 0</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3302 10 400 0</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3307 10 000 0</td>
@@ -4932,9 +6209,14 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>5</td>
 </tr>
 <tr>
-<td>3404 20 000 0</td>
-<td>– полиоксиэтиленнен (полиэтиленгликолдан)</td>
-<td>7,7</td>
+<td>3401 20 100 0</td>
+<td>– – үлпектер, вафли, граулалар немесе ұнтақтар</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3401 20 900 0</td>
+<td>– – өзгесі</td>
+<td>5</td>
 </tr>
 <tr>
 <td>3505 10 100 0</td>
@@ -4959,82 +6241,87 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>3824 99 580 0</td>
 <td>– – – – шылымқұмарларға шылым шегуді тастауға көмектесуге арналған никотинді жабыстырғыштар (трансдермальдік жүйелер)</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3825 30 000 0</td>
 <td>– клиникалық қалдықтар</td>
-<td>8,2</td>
+<td>7,3</td>
 </tr>
 <tr>
 <td>3917 21 900 1</td>
-<td>– – – – азаматтық әуе кемелеріне5) арналған, фитингілері бар</td>
-<td>3</td>
+<td>– – – – азаматтық әуе кемелеріне арналған, фитингілері бар5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3917 22 900 1</td>
-<td>– – – – азаматтық әуе кемелеріне5) арналған, фитингілері бар</td>
-<td>3</td>
+<td>– – – – азаматтық әуе кемелеріне арналған, фитингілері бар5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3917 23 900 1</td>
-<td>– – – – азаматтық әуе кемелеріне5) арналған, фитингілері бар</td>
-<td>3</td>
+<td>– – – – азаматтық әуе кемелеріне арналған, фитингілері бар5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3917 29 000 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3917 31 000 2</td>
-<td>– – – азаматтық әуе кемелеріне5) арналған, фитингілері бар</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған, фитингілері бар5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3917 33 000 1</td>
-<td>– – – азаматтық әуе кемелеріне5) арналған, фитингілері бар</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған, фитингілері бар5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3917 39 000 3</td>
-<td>– – – – – азаматтық әуе кемелеріне5) арналған, фитингілері бар</td>
-<td>3</td>
+<td>– – – – – азаматтық әуе кемелеріне арналған, фитингілері бар5)</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3917 40 000 1</td>
+<td>– – азаматтық әуе кемелеріне арналған5)</td>
+<td>4</td>
 </tr>
 <tr>
 <td>3917 40 000 9</td>
 <td>– – өзгелері</td>
-<td>6</td>
-</tr>
-<tr>
-<td>3921 13 100 0</td>
-<td>– – – иілгіш</td>
-<td>6,56</td>
-</tr>
-<tr>
-<td>3921 13 900 0</td>
-<td>– – – өзгелері</td>
-<td>6,56</td>
+<td>4</td>
 </tr>
 <tr>
 <td>3926 90 970 6</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4008 29 000 0</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
-<td>4011 10 000 3</td>
-<td>– – 16 дюймнан кем отырғызатын диаметрмен</td>
-<td>106</td>
+<td>4009 12 000 9</td>
+<td>– – – өзгелері</td>
+<td>2</td>
 </tr>
 <tr>
-<td>4011 10 000 9</td>
-<td>– – өзгелері</td>
-<td>106</td>
+<td>4009 22 000 9</td>
+<td>– – – өзгелері</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4009 32 000 0</td>
+<td>– – фитингілермен</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4009 42 000 0</td>
+<td>– – фитингілермен</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4012 11 000 0</td>
@@ -5043,193 +6330,193 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>4012 13 000 1</td>
-<td>– – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4012 20 000 1</td>
-<td>– – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
-<td>4012 20 000 9</td>
+<td>4015 19 000 0</td>
 <td>– – өзгелері</td>
-<td>156</td>
+<td>8</td>
 </tr>
 <tr>
 <td>4016 10 000 1</td>
 <td>– – техникалық мақсаттар үшін, азаматтық әуе кемелеріне арналған5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4016 93 000 5</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4016 99 910 1</td>
-<td>– – – – – азаматтық әуе кемелеріне арналған техникалық мақсаттар үшін5)</td>
-<td>3</td>
+<td>– – – – – техникалық мақсаттар үшін, азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4016 99 970 3</td>
-<td>– – – – – азаматтық әуе кемелеріне арналған техникалық мақсаттар үшін5)</td>
-<td>3</td>
+<td>– – – – – техникалық мақсаттар үшін, азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4202 12 110 0</td>
 <td>– – – – іскерлік қағаздарға арналған кейстер, портфельдер, мектеп сөмкелері және арқаға асатын сөмкелер және ұқсас бұйымдар</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 12 190 0</td>
 <td>– – – – өзгелері</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 12 500 9</td>
 <td>– – – – өзгелері</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 12 910 0</td>
 <td>– – – – іскерлік қағаздарға арналған кейстер, портфельдер, мектеп сөмкелері және арқаға асатын сөмкелер және ұқсас бұйымдар</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 12 990 0</td>
 <td>– – – – өзгелері</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 32 100 0</td>
 <td>– – – пластмасса табақтарынан</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 32 900 0</td>
 <td>– – – тоқыма материалдардан</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 91 100 0</td>
 <td>– – – жол сөмкелері, косметикалық заттарға немесе жеке гигиена жинақтарына арналған сөмкелер, рюкзактар және спорт сөмкелері</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 91 800 0</td>
 <td>– – – өзгелері</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 92 110 0</td>
 <td>– – – – жол сөмкелері, косметикалық заттарға немесе жеке гигиена жинақтарына арналған сөмкелер, рюкзактар және спорттық сөмкелер</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 92 150 0</td>
 <td>– – – – музыкалық аспаптарға арналған футлярлар</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 92 190 0</td>
 <td>– – – – өзгелері</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4202 92 980 0</td>
 <td>– – – – өзгелері</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4203 29 100 0</td>
-<td>– – – барлық кәсіптер үшін қорғаныс құралы ретінде</td>
-<td>13,3</td>
+<td>– – – барлық кәсіптер үшін қорғаныс құралдары</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>4407 11 150 0</td>
 <td>– – – тегістеумен өңделген; ұштары жалғанған, сүргілеумен немесе тегістеумен өңделмеген немесе өңделген</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 11 330 0</td>
 <td>– – – – – «Pinus sylvestris L.» түрінің кәдімгі қарағайы</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 11 380 0</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 11 930 0</td>
 <td>– – – – – «Pinus sylvestris L.» түрінің кәдімгі қарағайы</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 11 980 0</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 12 150 0</td>
 <td>– – – тегістеумен өңделген; ұштары жалғанған, сүргілеумен немесе тегістеумен өңделмеген немесе өңделген</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 12 310 0</td>
 <td>– – – – – «Picea abies Karst.» түрінің кәдімгі шыршасы немесе еуропалық ақ самырсын (Abies alba Mill.)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 12 380 0</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 12 910 0</td>
 <td>– – – – – «Picea abies Karst.» түрінің кәдімгі шыршасы немесе еуропалық ақ самырсын (Abies alba Mill.)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 12 980 0</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 19 150 0</td>
 <td>– – – тегістеумен өңделген; ұштары жалғанған, сүргілеумен немесе тегістеумен өңделмеген немесе өңделген</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 19 910 0</td>
 <td>– – – – сүргіленіп өңделген</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 19 980 0</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 29 150 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 29 830 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 29 850 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 29 950 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 91 150 0</td>
@@ -5237,164 +6524,169 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>5</td>
 </tr>
 <tr>
+<td>4407 91 310 0</td>
+<td>– – – – – кесектер, паркет немесе едендердің ағаш жабындысына арналған жұқа тақтайшалар және фриз, жиналмаған</td>
+<td>9</td>
+</tr>
+<tr>
 <td>4407 93 100 0</td>
 <td>– – – сүргілеумен өңделген; ұштары жалғанған, сүргілеумен немесе тегістеумен өңделмеген немесе өңделген</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 93 910 0</td>
 <td>– – – – тегістеумен өңделген</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 93 990 0</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 94 100 0</td>
 <td>– – – сүргілеумен өңделген; ұштары жалғанған, сүргілеумен немесе тегістеумен өңделмеген немесе өңделген</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 94 910 0</td>
 <td>– – – – тегістеумен өңделген</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 94 990 0</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 95 100 0</td>
 <td>– – – сүргілеумен өңделген; ұштары жалғанған, сүргілеумен немесе тегістеумен өңделмеген немесе өңделген</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 95 910 0</td>
 <td>– – – – тегістеумен өңделген</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 95 990 0</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 96 100 0</td>
 <td>– – – сүргілеумен өңделген; ұштары жалғанған, сүргілеумен немесе тегістеумен өңделмеген немесе өңделген</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 96 400 0</td>
 <td>– – – – тегістеумен өңделген</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 96 900 1</td>
-<td>– – – – – бойлап кесілген ағаш материалдары</td>
-<td>3</td>
+<td>– – – – – ұзыннан кесілген ағаш материалдары</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 96 900 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 97 100 0</td>
 <td>– – – сүргілеумен өңделген; ұштары жалғанған, сүргілеумен немесе тегістеумен өңделмеген немесе өңделген</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 97 400 0</td>
 <td>– – – – тегістеумен өңделген</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 97 900 1</td>
-<td>– – – – – – бойлап кесілген ағаш материалдары</td>
-<td>3</td>
+<td>– – – – – – ұзыннан кесілген ағаш материалдары</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 97 900 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 97 900 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 99 100 0</td>
 <td>– – – сүргілеумен өңделген; ұштары жалғанған, сүргілеумен немесе тегістеумен өңделмеген немесе өңделген</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 99 400 0</td>
 <td>– – – – тегістеумен өңделген</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 99 900 1</td>
 <td>– – – – – жаңғақтан</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4407 99 900 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4408 10 150 1</td>
 <td>– – – – – кемінде бір сыртқы қабаты бар жапырақ тұқымды ағаштан жасалған</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 150 2</td>
-<td>– – – – – өзгелері</td>
-<td>8,3</td>
+<td>– – – – – өзгесі</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 150 3</td>
 <td>– – – – – өзгелері, ең азы жапырақ тұқымдас сүйектің бip сыртқы қабаты бар</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 150 4</td>
 <td>– – – – – өзгелері</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 150 9</td>
 <td>– – – өзгелері</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 910 0</td>
 <td>– – – қарындаш дайындау үшін тақтайшалар</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 980 1</td>
 <td>– – – – – желімделген фанера (4412 тауар позициясы тауарларынан ерекшеленетін) кем дегенде сыртқы бір қабаты жапырақты тұқымдас ағаштардан</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 980 2</td>
 <td>– – – – – – өзгелері, ең азы жапырақ тұқымдас сүйектің бір сыртқы қабаты бар</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 980 3</td>
 <td>– – – – – – өзгелері</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 10 980 9</td>
 <td>– – – – өзгелері</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>4408 31 110 1</td>
@@ -5474,7 +6766,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>4408 39 550 3</td>
 <td>– – – – – – – өзгелері, ең азы тропикалық тұқымдас сүйектің бір сыртқы қабаты бар</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 39 550 4</td>
@@ -5485,6 +6777,11 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>4408 39 550 5</td>
 <td>– – – – – – – 4408 31 субпозициясы мен 4408 39 субпозициясынан кейінгі үшдефисті кіші субпозицияда көрсетілген тұқымдастардан басқа, Еуразиялық экономикалық одақтың осы топқа қосымша 2-ескертуінде көрсетілген тропикалық тұқымдас ағаштан кемінде бір сыртқы қабаты бар.</td>
 <td>5</td>
+</tr>
+<tr>
+<td>4408 39 550 6</td>
+<td>– – – – – – – кемінде ағаштан немесе басқа тропикалық түрден сыртқы бір қабаты барлар</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 39 550 7</td>
@@ -5499,7 +6796,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>4408 39 850 3</td>
 <td>– – – – – – – – – өзгелері, ең азы тропикалық тұқымдас сүйектің бір сыртқы қабаты бар</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 39 850 4</td>
@@ -5510,6 +6807,11 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>4408 39 850 5</td>
 <td>– – – – – – – – – 4408 31 субпозициясы мен 4408 39 субпозициясынан кейінгі үшдефисті кіші субпозицияда көрсетілген тұқымдастардан басқа, Еуразиялық экономикалық одақтың осы топқа қосымша 2-ескертуінде көрсетілген тропикалық тұқымдас ағаштан кемінде бір сыртқы қабаты бар.</td>
 <td>5</td>
+</tr>
+<tr>
+<td>4408 39 850 6</td>
+<td>– – – – – – – – – кемінде ағаштан немесе басқа тропикалық түрден сыртқы бір қабаты барлар</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 39 850 7</td>
@@ -5524,7 +6826,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>4408 39 950 3</td>
 <td>– – – – – – – – – өзгелері, ең азы тропикалық тұқымдас сүйектің бір сыртқы қабаты бар</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 39 950 4</td>
@@ -5537,6 +6839,11 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>5</td>
 </tr>
 <tr>
+<td>4408 39 950 6</td>
+<td>– – – – – – – – – кемінде ағаштан немесе басқа тропикалық түрден сыртқы бір қабаты барлар</td>
+<td>10</td>
+</tr>
+<tr>
 <td>4408 39 950 7</td>
 <td>– – – – – – – – – өзгелері</td>
 <td>5</td>
@@ -5544,32 +6851,62 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>4408 90 150 1</td>
 <td>– – – – – – өзгелері, ең азы үйеңкi, құбыжық және қайың сүйектің бір сыртқы қабаты бар</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 90 150 2</td>
+<td>– – – – – – өзгесі</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4408 90 150 5</td>
+<td>– – – – – – кемінде емен, шамшат, ақ үйеңкі ағаштан бір қабаты бар</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4408 90 150 6</td>
 <td>– – – – – – өзгелері</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 90 850 1</td>
 <td>– – – – – – – – өзгелері, ең азы үйеңкi, құбыжық және қайың сүйектің бір сыртқы қабаты бар</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 90 850 2</td>
+<td>– – – – – – – – өзгесі</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4408 90 850 5</td>
+<td>– – – – – – – кемінде емен, шамшат, ақ үйеңкі ағаштан бір қабаты бар</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4408 90 850 6</td>
 <td>– – – – – – – – өзгелері</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 90 950 1</td>
 <td>– – – – – – – – өзгелері, ең азы үйеңкi, құбыжық және қайың сүйектің бір сыртқы қабаты бар</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4408 90 950 2</td>
+<td>– – – – – – – – өзгесі</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4408 90 950 5</td>
+<td>– – – – – – – – кемінде емен, шамшат, ақ үйеңкі ағаштан бір қабаты бар</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4408 90 950 6</td>
 <td>– – – – – – – – өзгелері</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>4410 11 100 0</td>
@@ -5583,7 +6920,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>4410 12 100 0</td>
-<td>– – тегістеуден басқа өңделмеген немесе одан әрі өңдеусіз</td>
+<td>– – – тегістеуден басқа өңделмеген немесе одан әрі өңдеусіз</td>
 <td>5</td>
 </tr>
 <tr>
@@ -5614,7 +6951,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>4412 10 000 2</td>
 <td>– – – – өзгелері, ең азы жапырақ тұқымдас сүйектің бір сыртқы қабаты бар</td>
-<td>11</td>
+<td>9</td>
+</tr>
+<tr>
+<td>4412 10 000 3</td>
+<td>– – – – өзгесі</td>
+<td>9</td>
 </tr>
 <tr>
 <td>4412 10 000 4</td>
@@ -5622,24 +6964,39 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>5</td>
 </tr>
 <tr>
+<td>4412 10 000 5</td>
+<td>– – – өзгелері, ең азы жапырақ тұқымдас сүйектің 6ip сыртқы қабаты бар</td>
+<td>9</td>
+</tr>
+<tr>
 <td>4412 31 900 9</td>
-<td>– – – – өзгелері</td>
-<td>11</td>
+<td>– – – – өзгесі</td>
+<td>9</td>
 </tr>
 <tr>
 <td>4412 33 000 0</td>
 <td>– – сүректен жасалған қандыағаш (Alnus spp.), шаған (Fraxinus spp.), шамшат (Fagus spp.), қайың (Betula spp.), шие (Prunus spp.), талшын (Castanea spp.), шегіршін (Ulmus spp.), эвкалипт (Eucalyptus spp.), гикори (Carya spp.), атбас талшын (Aesculus spp.), жөке (Tilia spp.), үйеңкі (Acer spp.), емен (Quercus spp.), шынар (Platanus spp.), терек және көктерек (Populus spp.), инеш (Robinia spp.), қызғалдақ ағаш (Liriodendron spp.) немесе жаңғақ (Juglans spp.) түрі жапырақты тұқымдастардың кем дегенде сыртқы бip қабаты бар өзгесі:</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>4412 34 000 0</td>
 <td>– – сүректен жасалған 4412 33 субпозицияда аталмаған жапырақты тұқымдастардың кем дегенде сыртқы бip қабаты бар өзгесі:</td>
-<td>11</td>
+<td>9</td>
+</tr>
+<tr>
+<td>4412 39 000 0</td>
+<td>– – өзге де, қылқан жапырақты ағаштан екі қабаты бар</td>
+<td>9</td>
 </tr>
 <tr>
 <td>4412 94 100 1</td>
 <td>– – – – Еуразиялық экономикалық одақтың осы топқа қосымша 2-ескертуінде көрсетілген тропикалық тұқымдас сүректен кемінде бір сыртқы қабаты бар</td>
 <td>5</td>
+</tr>
+<tr>
+<td>4412 94 100 9</td>
+<td>– – – – өзгелері</td>
+<td>9</td>
 </tr>
 <tr>
 <td>4412 94 900 0</td>
@@ -5650,6 +7007,21 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>4412 99 300 1</td>
 <td>– – – – Еуразиялық экономикалық одақтың осы топқа қосымша 2-ескертуінде көрсетілген тропикалық тұқымдас сүректен кемінде бір сыртқы қабаты бар</td>
 <td>5</td>
+</tr>
+<tr>
+<td>4412 99 300 2</td>
+<td>– – – – – өзгелері, ең азы жапырақ тұқымдас сүйектің 6ip сыртқы қабаты бар</td>
+<td>9</td>
+</tr>
+<tr>
+<td>4412 99 400 0</td>
+<td>– – – – – қандағаш, аршадан, құбыжық, қайың, шие, талшыл, шегiршiн, гикори, қызыл қайың, жылқы талшылы, жалған, үйеңкi, емен, шынарлар, терек, ақ қараған, жаңғақ немесе қызғалдақ ағашынан</td>
+<td>9</td>
+</tr>
+<tr>
+<td>4412 99 500 1</td>
+<td>– – – – – –Еуразиялық экономикалық одақтың осы топқа 2 қосымша ескертуінде көрсетілген кемінде тропткалық тұқымды қоспағанда жапырақты тұқымды ағаштан сыртқы бір қабаты бар</td>
+<td>9</td>
 </tr>
 <tr>
 <td>4412 99 500 9</td>
@@ -5664,127 +7036,242 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>4504 90 800 0</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4701 00 100 0</td>
 <td>– термо-механикалық сүрек салмағы</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4701 00 900 0</td>
-<td>– өзгелері</td>
-<td>6</td>
+<td>– өзгесі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4702 00 000 0</td>
+<td>Сүрек целлюлозасы, еритін сұрып</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4703 11 000 0</td>
 <td>– – қылқан жапырақты тұқымдастардан</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4703 19 000 0</td>
 <td>– – жапырақты тұқымдастардан</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4703 21 000 1</td>
+<td>– – – сүзгіш қағаз өндіру үшін</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4703 21 000 9</td>
+<td>– – – өзгесі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4703 29 000 1</td>
+<td>– – – онда эвкалипт сүрегінен алынған целлюлоза талшықтар қаптама материал негіз-қағазды дайындау үшін пайдаланылатын талшықтың жалпы салмағынан 100% құрайды5)</td>
+<td>4 5</td>
 </tr>
 <tr>
 <td>4703 29 000 9</td>
 <td>– – – өзгесі</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4704 11 000 0</td>
 <td>– – қылқан жапырақты тұқымдастардан</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4704 19 000 0</td>
 <td>– – жапырақты тұқымдастардан</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4704 21 000 0</td>
 <td>– – қылқан жапырақты тұқымдастардан</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4704 29 000 0</td>
 <td>– – жапырақты тұқымдастардан</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4705 00 000 0</td>
 <td>Қайнатудың механикалық және химиялық әдістері ұштастырылған сүрек салмағы</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4706 10 000 0</td>
+<td>– мақта линтінен алынған масса</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4706 20 000 0</td>
+<td>– қалыпқа келтірілген қағаздан немесе картоннан (макулатура мен қалдықтардан) алынған талшықты масса</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4706 30 000 0</td>
+<td>– өзгесі бамбуктен</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4706 91 000 0</td>
+<td>– – сүрек</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4706 92 000 0</td>
+<td>– – целлюлоза</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4706 93 000 0</td>
+<td>– – жартылай целлюлоза</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4707 10 000 0</td>
+<td>– ағартылмаған крафт-қағаз немесе крафт-картон немесе гофрирленген қағаз немесе картон</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4707 20 000 0</td>
+<td>– салмағы боялмаған негізінен ағартылған целлюлозадан алынған қағаз немесе картон</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4707 30 100 0</td>
+<td>– – ескі және сатылмаған газеттер мен журналдар, телефон анықтамалары, брошюралар мен жарнамалық баспа өнімі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4707 30 900 0</td>
+<td>– – өзгелері</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4707 90 100 0</td>
+<td>– – сұрыпталмаған</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4707 90 900 0</td>
+<td>– – сұрыпталған</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4801 00 000 0</td>
+<td>Орамдағы немесе беттердегі газеттік қағаз</td>
+<td>0</td>
 </tr>
 <tr>
 <td>4802 10 000 0</td>
 <td>– қолдан құйылған қағаз бен картон</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>4802 40 100 0</td>
-<td>– – құрамында талшықтар жоқ, механикалық әдіспен алынған немесе құрамында сондай талшықтар талшықтардың жалпы массасының 10 %-дан артық емес</td>
-<td>9</td>
+<td>– – құрамында талшықтар жоқ, механикалық әдіспен алынған немесе құрамында сондай талшықтар талшықтардың жалпы массасының 10% артық емес</td>
+<td>6</td>
 </tr>
 <tr>
 <td>4802 54 000 1</td>
-<td>– – – 1 м2 массасы 15 г-нан аспайтын, трафарет жасау үшін қолданылатын қағаз</td>
-<td>9</td>
+<td>– – – 1 м2 массасы 15 г аспайтын, трафарет жасау үшін қолданылатын қағаз</td>
+<td>6</td>
 </tr>
 <tr>
 <td>4803 00 100 0</td>
 <td>– целлюлоза мақтасы</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>4803 00 310 9</td>
 <td>– – – өзгелері</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>4803 00 390 0</td>
-<td>– – 25 г-нан артық</td>
-<td>5</td>
+<td>– – 25 г артық</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>4803 00 900 0</td>
 <td>– өзгелері</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>4804 31 580 0</td>
 <td>– – – – өзгелері</td>
-<td>9</td>
+<td>8,5</td>
 </tr>
 <tr>
 <td>4804 31 800 0</td>
 <td>– – – өзгелері</td>
-<td>9</td>
+<td>8,5</td>
 </tr>
 <tr>
 <td>4804 39 510 0</td>
 <td>– – – – массада бірқалыпты ағартылған</td>
-<td>9</td>
+<td>8,5</td>
 </tr>
 <tr>
 <td>4804 39 580 0</td>
 <td>– – – – өзгелері</td>
-<td>9</td>
+<td>8,5</td>
 </tr>
 <tr>
 <td>4804 39 800 0</td>
 <td>– – – өзгелері</td>
-<td>9</td>
+<td>8,5</td>
 </tr>
 <tr>
 <td>4806 10 000 0</td>
 <td>– өсімдік жарғағы</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4806 20 000 0</td>
+<td>– май өткізбейтін қағаз</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4806 30 000 0</td>
+<td>– калька</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4806 40 100 0</td>
+<td>– – жарғақ</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>4806 40 900 0</td>
+<td>– – өзгесі</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>4808 40 000 1</td>
+<td>– – қапты</td>
+<td>12</td>
+</tr>
+<tr>
+<td>4809 20 000 0</td>
+<td>– өзі көшіретін қағаз</td>
+<td>3,8</td>
 </tr>
 <tr>
 <td>4809 90 000 0</td>
-<td>– өзгелері</td>
-<td>7,5</td>
+<td>– өзгесі</td>
+<td>3,8</td>
 </tr>
 <tr>
 <td>4810 13 000 4</td>
@@ -5802,44 +7289,89 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>0</td>
 </tr>
 <tr>
+<td>4810 19 000 1</td>
+<td>– – – массасы 1 м2 көп дегенде 150 г қағаз және картон, фото-, жылу- және электрге сезімді қағаз немесе картон ретінде қолданылады</td>
+<td>6</td>
+</tr>
+<tr>
 <td>4810 22 000 1</td>
-<td>– – – ені 15 см-нен артық орамда немесе бір жағының өлшемі 36 см-нен артық, екінші жағынан 15 см-нен артық кең түрдегі бетте</td>
-<td>9</td>
+<td>– – – ені 15 см артық орамда немесе бір жағының өлшемі 36 см артық, екінші жағынан 15 см артық кең түрдегі бетте</td>
+<td>6</td>
 </tr>
 <tr>
 <td>4811 10 000 0</td>
 <td>– гудронидтелеген, битуминидтелеген немесе асфальттенген қағаз және картон</td>
-<td>5</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>4811 41 200 0</td>
+<td>– – – ені кемінде 10 см, вулкандалмаған табиғи немесе синтетикалық каучук</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4811 41 900 0</td>
+<td>– – – өзгелері</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>4811 49 000 0</td>
 <td>– – өзгелері</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>4811 51 000 1</td>
 <td>– – – өлшемі бойынша қиылған немесе қиылмаған негізгі қағаздан немесе картоннан жасалған еденге арналған жабындылар</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4811 51 000 9</td>
+<td>– – – өзгелері</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4811 59 000 1</td>
 <td>– – – өлшем бойынша қиылған немесе қиылмаған қағаз немесе картон негіздегі еденге арналған жабындар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4811 59 000 9</td>
-<td>– – – басқа</td>
-<td>3</td>
+<td>– – – өзгелері</td>
+<td>2</td>
 </tr>
 <tr>
 <td>4811 60 000 0</td>
 <td>– балауыз, парафин, стеарин, май немесе глицеринмен қапталған немесе сіңдірілген қағаз және картон</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4811 90 000 0</td>
+<td>– қағаз, картон, целлюлозалы мақта және целлюлозалы талшықтардан мата, басқа</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4812 00 000 0</td>
 <td>Қағаз массадан жасалған блоктар, плиталар және сүзгіш пластиналар</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4813 10 000 0</td>
+<td>– кітапшалар немесе құбырлар түріндегі</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4813 20 000 0</td>
+<td>– ені 5 см артық емес орамда</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4813 90 100 0</td>
+<td>– – ені 5 см артық, бірақ 15 см артық емес орамда</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4813 90 900 0</td>
+<td>– – өзгесі</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4814 20 000 0</td>
@@ -5849,192 +7381,267 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>4816 20 000 0</td>
 <td>– өзі көшірілетін қағаз</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4816 90 000 0</td>
 <td>– өзгелері</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4817 10 000 0</td>
 <td>– конверттер</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4817 20 000 0</td>
 <td>– хаттарға арналған карточкалар, суреттері жоқ ашық хаттар және хат жазысуға арналған карточкалар</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4817 30 000 0</td>
 <td>– қағаздан немесе картоннан жасалған, қағаз, кеңсе жабдықтары салынған қораптар, сөмкелер, футлярлар және компендиумдер</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4818 20 100 0</td>
 <td>– – мұрын орамалдары және косметикалық майлықтар немесе бетке арналған майлықтар</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4818 20 910 0</td>
 <td>– – – орамда</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4818 20 990 0</td>
-<td>– – – басқа</td>
-<td>6</td>
+<td>– – – өзгелері</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4818 30 000 0</td>
 <td>– дастарқандар және майлықтар</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>4818 50 000 0</td>
 <td>– киім-заттары және киімге керек-жарақтар</td>
-<td>5</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>4818 90 100 0</td>
+<td>– – хирургиялық, медициналық немесе гигиеналық мақсаттарда қолданылатын бұйымдар, бөлшекті саудаға арналмаған</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4820 10 100 0</td>
 <td>– – тіркеу журналдары, бухгалтерлік кітаптар, тапсырыс кітаптары және түбіртек кітапшалар</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4820 10 300 0</td>
 <td>– – жазба кітапшалар, хаттар мен естелік жазбаларға арналған блокноттар</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4820 10 500 0</td>
 <td>– – күнделіктер</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4820 10 900 0</td>
 <td>– – өзгелері</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4820 20 000 0</td>
 <td>– дәптерлер</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4820 30 000 0</td>
 <td>– шешілетін мұқабалар (кітаптарға арналған тыстардан басқа), папкалар мен тез тікпелер</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4820 40 000 0</td>
 <td>– өзі көшірілетін іс бланктері және бет-бетпен салынған көшірмелік жинақтар</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4820 50 000 0</td>
 <td>– үлгілерге немесе коллекцияларға арналған альбомдар</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>4820 90 000 0</td>
 <td>– өзгелері</td>
-<td>9,2</td>
+<td>8,8</td>
+</tr>
+<tr>
+<td>4822 10 000 0</td>
+<td>– кездеме жіптерді орауға қолданылатындар</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4822 90 000 0</td>
+<td>– өзгелері</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4823 61 000 0</td>
 <td>– – бамбуктан жасалған</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>4823 69 900 0</td>
 <td>– – – өзгелері</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>4823 70 100 0</td>
 <td>– – жұмыртқаларды салуға арналған құйылған легендер және қораптар</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>4823 70 900 0</td>
 <td>– – өзгелері</td>
-<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>4823 90 400 0</td>
+<td>– – хаттарға, басуға немесе басқа графикалық мақсаттарға қағаз және картон</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4823 90 851 0</td>
+<td>– – – конденсаторлық қағаз</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4823 90 852 0</td>
+<td>– – – қағаз, картон, целлюлозалы талшықтардан мата, басқа</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4823 90 859 1</td>
+<td>– – – – перфораторларға арналған жол немесе лента немесе басқа түрде бұрғыланбаған карталар</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4823 90 859 2</td>
+<td>– – – – жаккард және ұқсас машиналарға арналған бұрғыланған қағаз және картон</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4823 90 859 3</td>
+<td>– – – – 8701-8705 тауарлық позициялардағы моторлы көлік құралдарының, олардың тораптары мен агрегаттарын өнеркәсіптік жинауға арналған5)</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4823 90 859 4</td>
+<td>– – – – – азаматтық әуе кемелері 5) үшін қабаттар, шайбалар және басқа тығыздағыш бөлшектер</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4823 90 859 5</td>
 <td>– – – – – 4811 тауар позициясына енгізілмеген, көлем бойынша кесілген немесе кесілмеген, негізі қағаз немесе картоннан жасалған еден жабындылары</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4823 90 859 6</td>
 <td>– – – – – 4811 тауар позициясына енгізілмеген, желіммен немесе өздігінен жабысатын қағаз немесе картон</td>
-<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4823 90 859 7</td>
+<td>– – – – – өзгелері</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4907 00 101 0</td>
+<td>– – акциздік тауарлардың акциздік маркалары</td>
+<td>7</td>
+</tr>
+<tr>
+<td>4907 00 109 0</td>
+<td>– – өзгелері</td>
+<td>7</td>
 </tr>
 <tr>
 <td>4908 10 000 0</td>
 <td>– шыныға айналуға қабілетті аудармалық суреттер (декалькомания)</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4908 90 000 0</td>
-<td>– басқалар</td>
-<td>6</td>
+<td>– өзгелері</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4909 00 000 0</td>
 <td>Басылған немесе суретті пошталық ашық хаттар; басылған құттықтаулары, жолдаулары немесе хабарламалары бар карточкалар, суретті немесе суретсіз, конвертпен немесе конвертсіз, көріктендірілген немесе көріктендірілмеген</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>4910 00 000 0</td>
 <td>Барлық түрлердегі басылған күнтізбелер, үзбеліні қоса</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>4911 99 000 0</td>
 <td>– – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5309 11 100 0</td>
 <td>– – – ағартылмаған</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5309 11 900 0</td>
 <td>– – – ағартылған</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5309 19 000 0</td>
 <td>– – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5309 21 000 0</td>
 <td>– – ағартылмаған немесе ағартылған</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5309 29 000 0</td>
 <td>– – өзгелері</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>5310 10 100 0</td>
+<td>– – ені 150 см-ден аспайтын</td>
+<td>7</td>
+</tr>
+<tr>
+<td>5310 10 900 0</td>
+<td>– – ені 150 см-ден асатын</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5310 90 000 0</td>
 <td>– өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5311 00 100 0</td>
 <td>– рама талшықтарынан жасалған</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5311 00 900 0</td>
 <td>– өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5407 10 001 0</td>
@@ -6049,32 +7656,102 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>5501 10 000 1</td>
 <td>– – аpамидтерден</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5603 14 100 1</td>
 <td>– – – – тоқыма емес материалдар негізінде поливинилхлорид жамылғысы бар асханалық клеенка</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>5603 94 100 1</td>
 <td>– – – – тоқыма емес материалдар негізінде поливинилхлорид жамылғысы бар асханалық клеенка</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>5607 21 000 0</td>
+<td>– – орамдық жетек арқан немесе шпагат</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5607 29 000 0</td>
+<td>– – өзгелері</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5607 49 110 0</td>
+<td>– – – – өрілген немесе өрімді</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5607 49 190 0</td>
+<td>– – – – өзгелері</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5607 49 900 0</td>
+<td>– – – сызықтық тығыздығы 50 000 дтекс (5 г/м) немесе одан да кем</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5607 50 110 0</td>
+<td>– – – – өрілген немесе өрімді</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5607 50 190 0</td>
+<td>– – – – өзгелері</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5607 50 300 0</td>
+<td>– – – сызықтық тығыздығы 50 000 дтекс (5 г/м) немесе одан да кем</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5607 50 900 0</td>
+<td>– – өзге де синтетикалық талшықтардан жасалған</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5810 91 100 0</td>
+<td>– – – бағасы 17,50 евро/кг-нан астам (нетто-массасы)</td>
+<td>12,5</td>
+</tr>
+<tr>
+<td>5810 91 900 0</td>
+<td>– – – өзгелері</td>
+<td>12,5</td>
+</tr>
+<tr>
+<td>5810 99 100 0</td>
+<td>– – – бағасы 17,50 евро/кг-нан астам (нетто-массасы)</td>
+<td>12,5</td>
+</tr>
+<tr>
+<td>5810 99 900 0</td>
+<td>– – – өзгелері</td>
+<td>12,5</td>
+</tr>
+<tr>
+<td>5811 00 000 0</td>
+<td>5810 тауар позициясының кестелерiнен басқа тоқыма материалдарының жұмсақ қабатты тiгу немесе басқа жолмен бiрiктірiлген бiр немесе бiрнеше қабаттарынан тұратын сырылған тоқыма материалдар</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>5904 10 000 0</td>
 <td>– линолеум</td>
-<td>13,3</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>5904 90 000 1</td>
 <td>– – инені қадау тәсілімен алынған кигіз негізімен</td>
-<td>10 қосқанда 1 кг үшін 0,075 евро</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>5907 00 000 0</td>
 <td>Өзге тәсiлдермен сiңiрiлген немесе жабындыланған тоқыма материалдар; театрлық сәндемелер, көркем сурет студиялары немесе ұқсастар үшін түр қалқа болып табылатын безелген кенептер</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>6101 20 100 0</td>
@@ -6137,19 +7814,29 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>15, бірақ 1 кг 2 евродан кем емес</td>
 </tr>
 <tr>
+<td>6107 11 000 0</td>
+<td>– – мақта иiрiмжiптерден жасалған</td>
+<td>13,2, бірақ 1 кг 1,5 евродан кем емес</td>
+</tr>
+<tr>
 <td>6107 29 000 0</td>
 <td>– – өзге де тоқыма материалдарынан</td>
-<td>13,8, бірақ 1 кг 1,5 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,5 евродан кем емес</td>
+</tr>
+<tr>
+<td>6108 21 000 0</td>
+<td>– – мақта иiрiмжiптерден жасалған</td>
+<td>13,2, бірақ 1 кг 1,5 евродан кем емес</td>
 </tr>
 <tr>
 <td>6114 20 000 0</td>
 <td>– мақта-мата иiрiмжiптерден жасалғандар</td>
-<td>13,8, бірақ 1 кг 1,5 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,5 евродан кем емес</td>
 </tr>
 <tr>
 <td>6114 30 000 0</td>
 <td>– химиялық жіптерден жасалғандар</td>
-<td>13,8, бірақ 1 кг 1,5 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,5 евродан кем емес</td>
 </tr>
 <tr>
 <td>6117 10 000 0</td>
@@ -6173,357 +7860,357 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>6201 12 100 0</td>
-<td>– – – бір бұйымның салмағы 1 кг-нан аспайтын</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>– – – бір бұйымның салмағы 1 кг аспайтын</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6201 12 900 0</td>
-<td>– – – бір бұйымның салмағы 1 кг-нан аспайтын</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>– – – бір бұйымның салмағы 1 кг аспайтын</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6201 13 100 0</td>
-<td>– – – бір бұйымның салмағы 1 кг-нан аспайтын</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>– – – бір бұйымның салмағы 1 кг аспайтын</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6201 13 900 0</td>
-<td>– – – бір бұйымның салмағы 1 кг-нан аспайтын</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>– – – бір бұйымның салмағы 1 кг аспайтын</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6201 19 000 0</td>
 <td>– – өзге де тоқыма материалдардан</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6201 92 000 0</td>
 <td>– – мақта-мата жіптерінен</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6201 93 000 0</td>
 <td>– – химиялық жіптерден</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6201 99 000 0</td>
 <td>– – өзге де тоқыма материалдарынан</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6202 12 100 0</td>
-<td>– – – бір бұйымның салмағы 1 кг-нан аспайтын</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>– – – бір бұйымның салмағы 1 кг аспайтын</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6202 12 900 0</td>
-<td>– – – бір бұйымның салмағы 1 кг-нан аспайтын</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>– – – бір бұйымның салмағы 1 кг аспайтын</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6202 13 100 0</td>
-<td>– – – бір бұйымның салмағы 1 кг-нан аспайтын</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>– – – бір бұйымның салмағы 1 кг аспайтын</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6202 13 900 0</td>
-<td>– – – бір бұйымның салмағы 1 кг-нан аспайтын</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>– – – бір бұйымның салмағы 1 кг аспайтын</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6202 19 000 0</td>
 <td>– – өзге де тоқыма материалдардан</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6202 92 000 0</td>
-<td>– –мақта-мата жіптерінен</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>– – мақта-мата жіптерінен</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6202 93 000 0</td>
 <td>– – химиялық жіптерден</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 12 000 0</td>
 <td>– – синтетикалық жіптерден</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 19 100 0</td>
 <td>– – – жүн иiрiмжiптен мақта-мата иірімжіптерден жасалғандар</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 22 100 0</td>
 <td>– – – өндірістік және кәсіптік</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 22 800 0</td>
 <td>– – – өзгелері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 23 800 0</td>
 <td>– – – өзгелері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 29 110 0</td>
 <td>– – – – өндірістік және кәсіптік</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 29 180 0</td>
 <td>– – – – өзгелері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 29 900 0</td>
 <td>– – – өзге де тоқыма материалдардан</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 32 100 0</td>
 <td>– – – өндірістік және кәсіптік</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 33 100 0</td>
 <td>– – – өндірістік және кәсіптік</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 39 110 0</td>
 <td>– – – – өндірістік және кәсіптік</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 41 900 0</td>
 <td>– – – өзгелері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 42 110 0</td>
 <td>– – – – өндірістік және кәсіптік</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 42 310 0</td>
 <td>– – – – – денимнен немесе джинсилік маталардан</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 42 330 0</td>
-<td>– – – – – түгі қиылған шибарқыт– кордтан жасалғандар</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>– – – – – түгі қиылған шибарқыт- кордтан жасалғандар</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 42 350 0</td>
 <td>– – – – – өзгелері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
+</tr>
+<tr>
+<td>6203 42 510 0</td>
+<td>– – – – өндірістік және кәсіптік</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 42 590 0</td>
 <td>– – – – өзгелері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 42 900 0</td>
 <td>– – – өзгелері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 43 110 0</td>
 <td>– – – – өндірістік және кәсіптік</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 43 190 0</td>
 <td>– – – – өзгелері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 43 310 0</td>
 <td>– – – – өндірістік және кәсіптік</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 49 110 0</td>
 <td>– – – – – өндірістік және кәсіптік</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6203 49 190 0</td>
 <td>– – – – – өзгелері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6204 13 000 0</td>
 <td>– – синтетикалық жіптерден</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6204 22 100 0</td>
 <td>– – – өндірістік және кәсіптік</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6204 22 800 0</td>
 <td>– – – өзгелері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6204 23 100 0</td>
 <td>– – – өндірістік және кәсіптік</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6204 23 800 0</td>
 <td>– – – өзгелері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6204 29 110 0</td>
 <td>– – – – өндірістік және кәсіптік</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6204 29 900 0</td>
 <td>– – – өзге де тоқыма материалдардан</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6204 42 000 0</td>
-<td>– –мақта-мата жіптерінен</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>– – мақта-мата жіптерінен</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6204 59 100 0</td>
 <td>– – – жасанды жіптерден</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6204 62 110 0</td>
 <td>– – – – өндірістік және кәсіптік</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6204 62 310 0</td>
 <td>– – – – – денимнен немесе джинсилік маталардан</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6204 62 330 0</td>
-<td>– – – – – түгі қиылған шибарқыт– кордтан</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>– – – – – түгі қиылған шибарқыт- кордтан</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6204 62 900 0</td>
 <td>– – – өзгелері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6204 63 110 0</td>
 <td>– – – – өндірістік және кәсіптік</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6204 63 180 0</td>
 <td>– – – – өзгелері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6204 63 900 0</td>
 <td>– – – өзгелері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6204 69 390 0</td>
 <td>– – – – – өзгелері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6205 90 800 9</td>
 <td>– – – өзгелері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6208 19 000 1</td>
-<td>– – –мақта-мата жіптерінен</td>
+<td>– – – мақта-мата жіптерінен</td>
 <td>15</td>
 </tr>
 <tr>
 <td>6211 20 000 0</td>
 <td>– шаңғылық костюмдер</td>
-<td>13, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>12, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6211 32 310 0</td>
 <td>– – – – алдыңғы жағы да бірдей материалдан жасалған</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6211 32 410 0</td>
 <td>– – – – – жоғарғы бөлігі</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
-</tr>
-<tr>
-<td>6211 32 420 0</td>
-<td>– – – – – төменгі бөліктері</td>
-<td>10 6</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6211 32 900 0</td>
 <td>– – – өзгелері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6211 33 410 0</td>
 <td>– – – – – жоғарғы бөліктері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6211 33 420 0</td>
 <td>– – – – – төменгі бөліктері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6211 43 410 0</td>
 <td>– – – – – жоғарғы бөліктері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6211 43 420 0</td>
 <td>– – – – – төменгі бөліктері</td>
-<td>13,8, бірақ 1 кг 1,4 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,4 евродан кем емес</td>
 </tr>
 <tr>
 <td>6212 10 900 0</td>
 <td>– – өзгелері</td>
-<td>13, бірақ 1 кг 1,2 евродан кем емес</td>
+<td>12, бірақ 1 кг 1,2 евродан кем емес</td>
 </tr>
 <tr>
 <td>6212 20 000 0</td>
 <td>– белдіктер және белдік-қысқа дамбалдар</td>
-<td>13, бірақ 1 кг 1,2 евродан кем емес</td>
+<td>12, бірақ 1 кг 1,2 евродан кем емес</td>
 </tr>
 <tr>
 <td>6212 30 000 0</td>
 <td>– грациялар</td>
-<td>13, бірақ 1 кг 1,2 евродан кем емес</td>
+<td>12, бірақ 1 кг 1,2 евродан кем емес</td>
 </tr>
 <tr>
 <td>6212 90 000 0</td>
 <td>– өзгелері</td>
-<td>13, бірақ 1 кг 1,2 евродан кем емес</td>
+<td>12, бірақ 1 кг 1,2 евродан кем емес</td>
 </tr>
 <tr>
 <td>6213 20 000 0</td>
-<td>–мақта-мата жіптерінен</td>
+<td>– мақта-мата жіптерінен</td>
 <td>15</td>
 </tr>
 <tr>
@@ -6534,27 +8221,27 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>6214 10 000 0</td>
 <td>– жібек жіптерден немесе жібек қалдықтарынан жасалған</td>
-<td>13, бірақ 1 кг 1,2 евродан кем емес</td>
+<td>12, бірақ 1 кг 1,2 евродан кем емес</td>
 </tr>
 <tr>
 <td>6214 20 000 0</td>
 <td>– жүн жiптен немесе жануарлардың жұқа қылынан жасалған жіптен</td>
-<td>13, бірақ 1 кг 1,2 евродан кем емес</td>
+<td>12, бірақ 1 кг 1,2 евродан кем емес</td>
 </tr>
 <tr>
 <td>6214 30 000 0</td>
 <td>– синтетикалық жіптерден жасалғандар</td>
-<td>13, бірақ 1 кг 1,2 евродан кем емес</td>
+<td>12, бірақ 1 кг 1,2 евродан кем емес</td>
 </tr>
 <tr>
 <td>6214 40 000 0</td>
 <td>– жасанды жіптерден</td>
-<td>13, бірақ 1 кг 1,2 евродан кем емес</td>
+<td>12, бірақ 1 кг 1,2 евродан кем емес</td>
 </tr>
 <tr>
 <td>6214 90 000 0</td>
 <td>– өзге де тоқыма материалдардан жасалғандар</td>
-<td>13, бірақ 1 кг 1,2 евродан кем емес</td>
+<td>12, бірақ 1 кг 1,2 евродан кем емес</td>
 </tr>
 <tr>
 <td>6215 10 000 0</td>
@@ -6574,177 +8261,232 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>6217 10 000 0</td>
 <td>– керек-жарақтар</td>
-<td>13,8, бірақ 1 кг 1,2 евродан кем емес</td>
+<td>13,2, бірақ 1 кг 1,2 евродан кем емес</td>
 </tr>
 <tr>
 <td>6217 90 000 0</td>
-<td>– бөліктері</td>
-<td>13,8, бірақ 1 кг 1,2 евродан кем емес</td>
+<td>– бөліктер</td>
+<td>13,2, бірақ 1 кг 1,2 евродан кем емес</td>
 </tr>
 <tr>
 <td>6301 20 100 0</td>
 <td>– – машинамен немесе қолдан тоқылған трикотаж</td>
-<td>15</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>6301 20 900 9</td>
 <td>– – – өзгелері</td>
-<td>15</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>6301 30 100 0</td>
 <td>– – машинамен немесе қолдан тоқылған трикотаж</td>
-<td>15</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>6301 40 100 0</td>
 <td>– – машинамен немесе қолдан тоқылған трикотаж</td>
-<td>15</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>6301 40 900 0</td>
 <td>– – өзгелері</td>
-<td>15</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>6301 90 100 0</td>
 <td>– – машинамен немесе қолдан тоқылған трикотаж</td>
-<td>15</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>6301 90 900 0</td>
 <td>– – өзгелері</td>
-<td>15</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>6302 10 000 9</td>
 <td>– – өзге де тоқыма материалдарынан</td>
-<td>14,7</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6302 21 000 0</td>
+<td>– – мақта иiрiмжiптерден жасалған</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 22 100 0</td>
 <td>– – – мата емес материалдардан жасалғандар</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 22 900 0</td>
-<td>– – – өзгелері</td>
-<td>14,7</td>
+<td>– – – өзгесі</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 29 100 0</td>
 <td>– – – зығырдан иірілген жіптен немесе рами талшығынан жасалғандар</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 29 900 0</td>
 <td>– – – өзге де тоқыма материалдардан</td>
-<td>14,7</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6302 31 000 1</td>
+<td>– – – зығыр қосқанда</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6302 32 100 0</td>
+<td>– – – мата емес материалдардан</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 32 900 0</td>
-<td>– – – өзгелері</td>
-<td>14,7</td>
+<td>– – – өзгесі</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 39 200 1</td>
 <td>– – – – зығырдан</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 39 200 9</td>
 <td>– – – – рами талшығынан</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 40 000 0</td>
 <td>– машинамен немесе қолдан тоқылған трикотаж асханалық жаймалар</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 51 000 1</td>
 <td>– – – зығыр қосқанда</td>
-<td>14,7</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6302 51 000 9</td>
+<td>– – – өзгесі</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 53 100 0</td>
 <td>– – – мата емес материалдардан жасалғандар</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 53 900 0</td>
-<td>– – – өзгелері</td>
-<td>14,7</td>
+<td>– – – өзгесі</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 59 900 0</td>
-<td>– – – өзгелері</td>
-<td>14,7</td>
+<td>– – – өзгесі</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6302 60 000 0</td>
+<td>– түкті жайма маталар немесе ұқсас маталық түкті материалдардан, мақта-мата иірімжіптен жасалған дәретханалық және ас үйлік жаймалар</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 91 000 0</td>
-<td>– –мақта-мата жіптерінен</td>
-<td>14,7</td>
+<td>– – мақта-мата жіптерінен</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 93 100 0</td>
 <td>– – – мата емес материалдардан жасалғандар</td>
-<td>14,7</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6302 93 900 0</td>
+<td>– – – өзгесі</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6302 99 100 0</td>
 <td>– – – зығырдан иiрiлген жiптерiнен</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6303 12 000 0</td>
 <td>– – синтетикалық жіптерден жасалғандар</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6303 19 000 0</td>
 <td>– – өзге де тоқыма материалдардан жасалғандар</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6303 99 100 0</td>
 <td>– – – мата емес материалдардан жасалғандар</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6304 11 000 0</td>
 <td>– – машинамен немесе қолдан тоқылған трикотаж</td>
-<td>14,7</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6304 19 100 0</td>
+<td>– – – мақта иiрiмжiптерден жасалған</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6304 19 300 0</td>
 <td>– – – зығырдан иірілген жіптен немесе рами талшығынан жасалғандар</td>
-<td>14,7</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6304 19 900 0</td>
 <td>– – – өзге де тоқыма материалдардан</td>
-<td>14,7</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6306 29 000 1</td>
+<td>– – – мақта иiрiмжiптерден жасалған</td>
+<td>14</td>
+</tr>
+<tr>
+<td>6306 30 000 0</td>
+<td>– желкендер</td>
+<td>12,5</td>
+</tr>
+<tr>
+<td>6306 40 000 0</td>
+<td>– үрмелі матрацтар</td>
+<td>12,5</td>
 </tr>
 <tr>
 <td>6310 10 000 1</td>
 <td>– – жүннен иiрiлген жiптен немесе жануарлардың биязы немесе қылшықты қылынан тоқылған иірімжіптен</td>
-<td>16,8</td>
+<td>15,2</td>
 </tr>
 <tr>
 <td>6310 10 000 2</td>
 <td>– – зығырдан немесе мақта-мата иірімжіптен жасалғандар</td>
-<td>16,8</td>
+<td>15,2</td>
 </tr>
 <tr>
 <td>6401 92 100 0</td>
 <td>– – – резеңкелі қонышы бар</td>
-<td>16, бірақ 1 пара 0,62 евродан кем емес</td>
+<td>14, бірақ 1 жұп 0,58 евродан кем емес</td>
 </tr>
 <tr>
 <td>6404 19 100 0</td>
 <td>– – – бөлме кебісі мен өзгелері да үйде киетін аяқ киім</td>
 <td>1 жұп үшін 0,52 евро</td>
+</tr>
+<tr>
+<td>6602 00 000 0</td>
+<td>Таяқтар, таяқ-орындықтар, бишіктер, салт атпен жүруге арналған қамшылар мен ұқсас бұйымдар</td>
+<td>14</td>
 </tr>
 <tr>
 <td>6704 20 000 0</td>
@@ -6754,192 +8496,262 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>6802 10 000 0</td>
 <td>– барынша үлкен қыры 7 см-ден кем емес мөлшерлі жағымен шаршыға кірігетін тік бұрыш немесе тік бұрыш емес плиткалар, кубиктер (шаршыны қоса алғанда) және осыған ұқсас бұйымдар; қолдан сырланған түйіршіктер, үгінділер және ұнтақ</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6802 29 000 1</td>
 <td>– – – өзге де әктастар</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6802 29 000 9</td>
+<td>– – – өзгелері</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6802 92 000 0</td>
 <td>– – өзге де әктастар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6802 99 100 0</td>
-<td>– – – таза салмағы 10 кг немесе одан да көп жылтыратылған, сәндендірілген немесе кесуден басқа, өзге де өңдеуден өткен</td>
-<td>13</td>
+<td>– – – нетто-массасы 10 кг немесе одан да көп жылтыратылған, сәндендірілген немесе кесуден басқа, өзге де өңдеуден өткен</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6802 99 900 0</td>
+<td>– – – өзгелері</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6803 00 100 0</td>
 <td>– төбе мен қабырғалар үшін арналған материалдар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6803 00 900 0</td>
 <td>– өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6804 10 000 0</td>
 <td>– тегістеуге, қайрауға немесе уатуға арналған диірмен тастар мен қайрақ тастар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6804 22 120 0</td>
 <td>– – – – – арматураланбаған</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6804 22 300 0</td>
 <td>– – – – қыш немесе силикаттық материалдардан жасалған</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6804 22 500 0</td>
 <td>– – – – өзге материалдардан жасалған</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6804 22 900 0</td>
 <td>– – – өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6804 23 000 0</td>
 <td>– – табиғи тастардан жасалған</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6804 30 000 0</td>
 <td>– қолдан қайрауға немесе жалтыратуға арналған тастар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6808 00 000 0</td>
 <td>Панельдер, тақталар, тақташалар, блоктар және цементпен, гипспен немесе өзге де минералдық байланыстырғыш заттаpмен агломерацияланған өсiмдiк талшықтарынан, сабаннан немесе жаңқалардан, жоңқалардан, бөлшектерден, үгiндiлерден немесе басқа да ағаш қалдықтарынан жасалған ұқсас бұйымдар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6810 11 100 0</td>
 <td>– – – жеңілдетілген бетоннан (ұсатылған пемзалы, түйіршіктендірілген қож негіздегі және т.б.)</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6810 11 900 0</td>
 <td>– – – өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6810 91 000 0</td>
 <td>– – тұрғын үй құрылысын қоса алғанда құрылысқа арналған құрама құрылыс блоктары</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6810 99 000 0</td>
+<td>– – өзгелері</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6811 40 000 1</td>
-<td>– – гофрленген табақтар; түтiктер, түтiкшелер және оларға арналған фитингілер</td>
-<td>13</td>
+<td>– – гофрирленген табақтар; түтiктер, түтiкшелер және оларға арналған фитингілер</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6811 40 000 2</td>
+<td>– – өзге де табақтар, панельдер, тақташалар және ұқсас бұйымдар</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6811 82 000 0</td>
+<td>– – өзге де табақтар, панельдер, тақташалар және ұқсас бұйымдар</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6811 89 000 1</td>
 <td>– – – түтiктер, түтiкшелер және оларға арналған фитингілер</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6812 80 100 0</td>
 <td>– – өңделген талшық; крокидолиттің немесе крокидолит пен магний карбонатының негізінде қоспалар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6812 80 900 1</td>
 <td>– – – иірімжіптер мен жіптер; өрілген немесе өрілмеген арқандар мен баулар; маталар мен трикотаж материалдар; киімдер, киімдердің керек-жарақтары, аяқ киім және бас киімдер; қағаз, қалың картон және киіз немесе фетр; табақтардағы немесе орамдағы нығыздалған крокидолит талшықтарынан жасалған тығыздауыш материал</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6812 80 900 2</td>
-<td>– – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>6812 80 900 9</td>
 <td>– – – – өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6812 92 000 0</td>
 <td>– – қағаз, қалың картон және киiз, немесе фетр</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6812 93 000 0</td>
 <td>– – нығыздалған асбесттен жасалған табақтар немесе рулондардан жасалған тығыздауыш материалдар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6812 99 100 0</td>
 <td>– – – өңделген асбест талшықтары; асбест немесе асбест пен магний карбонатының негізіндегі қоспалар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6812 99 900 1</td>
 <td>– – – – иірімжіп және жіп; өрілген немесе өрілмеген арқандар мен баулар; маталар мен трикотаж материалдар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6812 99 900 2</td>
-<td>– – – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>6812 99 900 9</td>
 <td>– – – – – өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6813 20 000 1</td>
-<td>– – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
+</tr>
+<tr>
+<td>6813 20 000 9</td>
+<td>– – өзгелері</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6813 81 000 1</td>
-<td>– – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
+</tr>
+<tr>
+<td>6813 81 000 9</td>
+<td>– – – өзгелері</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6813 89 000 1</td>
-<td>– – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>6813 89 000 9</td>
 <td>– – – өзгелері</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6815 10 900 1</td>
+<td>– – – домна пештерін футеровкалауға арналған көміртектес блоктар</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6815 10 900 8</td>
+<td>– – – өзгелері</td>
+<td>12</td>
 </tr>
 <tr>
 <td>6902 10 000 0</td>
 <td>– MgO-ға, СаО-ға немесе Сr2O3-ға қайта алғанда жеке немесе бiрге алынған Mg, Са немесе Сr элементтерiнiң 50 салм. %-дан астамын қамтитын</td>
-<td>9,6</td>
+<td>9,4</td>
 </tr>
 <tr>
 <td>6902 20 100 0</td>
-<td>– – кремнеземнiң (SiO2) 93 салм. % немесе одан да астамын қамтитын</td>
-<td>9,6</td>
+<td>– – кремнеземнiң (SiO2) 93 салм. %-ын немесе одан да астамын қамтитын</td>
+<td>9,4</td>
 </tr>
 <tr>
 <td>6902 20 910 0</td>
-<td>– – – 7 салм. %-дан артық, бірақ кемінде 45 салм. % балшық– топырақты (Аl2О3) құрайтын</td>
-<td>9,6</td>
+<td>– – – 7 салм. %-дан артық, бірақ кемінде 45 салм. % балшық- топырақты (Аl2О3) құрайтын</td>
+<td>9,4</td>
 </tr>
 <tr>
 <td>6902 20 990 0</td>
 <td>– – – өзгелері</td>
-<td>9,6</td>
+<td>9,4</td>
 </tr>
 <tr>
 <td>6902 90 000 0</td>
 <td>– өзгелері</td>
-<td>9,6</td>
+<td>9,4</td>
+</tr>
+<tr>
+<td>6903 90 100 0</td>
+<td>– – 25 салм.% астамын қамтитын, бірақ графиттің немесе көміртегінің басқа нысандарының немесе олардың қоспаларының 50 салм.% кемін қамтитын</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6912 00 210 0</td>
+<td>– – ірі қыштан</td>
+<td>14</td>
+</tr>
+<tr>
+<td>6912 00 230 0</td>
+<td>– – тас қыш</td>
+<td>14</td>
+</tr>
+<tr>
+<td>6912 00 810 0</td>
+<td>– – ірі қыштан</td>
+<td>14</td>
+</tr>
+<tr>
+<td>6912 00 830 0</td>
+<td>– – тас қыш</td>
+<td>14</td>
 </tr>
 <tr>
 <td>6913 10 000 0</td>
@@ -6949,12 +8761,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>7001 00 910 0</td>
 <td>– – оптикалық шыны</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7001 00 990 0</td>
-<td>– – өзгелері</td>
-<td>13</td>
+<td>– – өзгесі</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7002 10 000 0</td>
@@ -6964,22 +8776,22 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>7002 20 100 0</td>
 <td>– – оптикалық шыныдан жасалған</td>
-<td>13</td>
+<td>12 6</td>
 </tr>
 <tr>
 <td>7002 20 900 0</td>
 <td>– – өзгелері</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7002 31 000 0</td>
 <td>– – қорытылған кварцтан немесе басқа да қорытылған кремнеземдерден жасалған</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7002 32 000 0</td>
-<td>– – 0 С-тан 300 С-қа дейiнгi температуралар аралығында К-ға 5x10-6-дан аспайтын сызықтық кеңею коэффициентi бар өзге де шыныдан жасалған</td>
-<td>13</td>
+<td>– – 0 С-тан 300 С-қа дейiнгi температуралар аралығында К-ға 5x10-6 аспайтын сызықтық кеңею коэффициентi бар өзге де шыныдан жасалған</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7003 12 100 0</td>
@@ -6989,212 +8801,222 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>7003 19 100 0</td>
 <td>– – – оптикалық шыныдан</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7004 20 100 0</td>
 <td>– – оптикалық шыны</td>
-<td>12,2</td>
+<td>10,8</td>
+</tr>
+<tr>
+<td>7004 90 100 0</td>
+<td>– – оптикалық шыны</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7007 21 800 9</td>
-<td>– – – – өзгелері</td>
-<td>13</td>
+<td>– – – – өзгесі</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7010 90 100 9</td>
 <td>– – – өзгелері</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 210 0</td>
 <td>– – – шыны түтікшелерден дайындалған</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 310 0</td>
 <td>– – – – 2,5 л және одан көп</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 410 0</td>
 <td>– – – – – – – – 1 л немесе одан көп</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 450 0</td>
 <td>– – – – – – – – 0,15 л немесе одан көп, бірақ 0,33 л-ден аспайтын</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 510 0</td>
 <td>– – – – – – – – 1 л немесе одан көп</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 550 0</td>
 <td>– – – – – – – – 0,15 л немесе одан көп, бірақ 0,33 л-ден аспайтын</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 610 1</td>
-<td>– – – – – – – – 0,25 л және одан көп, бірақ 0,33 л-ден аспайтын</td>
-<td>12,2</td>
+<td>– – – – – – – – 0,25 л және одан көп, бірақ 0,33 л аспайтын</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 610 9</td>
 <td>– – – – – – – – өзгелері</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 910 1</td>
-<td>– – – – – – – номиналды сыйымдылығы 0,33 л-ден көп</td>
-<td>12,2</td>
+<td>– – – – – – – номиналды сыйымдылығы 0,33 л көп</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 910 2</td>
-<td>– – – – – – – номиналды сыйымдылығы 0,15 л-ден көп, бірақ 0,33 л-ден аспайтын</td>
-<td>12,2</td>
+<td>– – – – – – – номиналды сыйымдылығы 0,15 л көп, бірақ 0,33 л аспайтын</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 990 1</td>
-<td>– – – – – – – номиналды сыйымдылығы 0,33 л-ден көп</td>
-<td>12,2</td>
+<td>– – – – – – – номиналды сыйымдылығы 0,33 л көп</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7010 90 990 2</td>
-<td>– – – – – – – номиналды сыйымдылығы 0,15 л-ден көп, бірақ 0,33 л-ден аспайтын</td>
-<td>12,2</td>
+<td>– – – – – – – номиналды сыйымдылығы 0,15 л көп, бірақ 0,33 аспайтын</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7011 10 000 0</td>
 <td>– электрмен жарықтандыру жабдықтары үшiн</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7011 90 000 0</td>
 <td>– өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7014 00 000 0</td>
 <td>Белгі беру құралдарына арналған шыны бұйымдары және оптикалық өңделмеген шыныдан жасалған оптикалық эпелинттер (7015 тауар позициясына енгізілгендерден басқа)</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7015 90 000 0</td>
 <td>– өзгелері</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7016 90 400 1</td>
 <td>– – – ойық шыныдан немесе көбікшыныдан</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7016 90 700 1</td>
 <td>– – – ойық шыны немесе көбікшыны</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7017 10 000 0</td>
 <td>– қорытылған кварцтан немесе басқа да қорытылған кремнеземдерден жасалған</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7018 10 110 0</td>
 <td>– – – оймышталған және механикалық жылтылдатылған</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7018 10 190 0</td>
 <td>– – – өзгелері</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7018 10 300 0</td>
 <td>– – інжуге ұқсатылған бұйымдар</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7018 10 510 0</td>
 <td>– – – кесілген және механикалық жылтылдатылған</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7018 10 590 0</td>
 <td>– – – өзгелері</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7018 10 900 0</td>
 <td>– – өзгелері</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7018 20 000 0</td>
 <td>– диаметрi 1 мм-ден аспайтын шыны микросфералар</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7018 90 100 0</td>
 <td>– – шыны көздер; шыныдан жасалған шағын бұйымдар</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7018 90 900 0</td>
 <td>– – өзгелері</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>7019 11 000 0</td>
 <td>– – ұзындығы 50 мм-ден аспайтын штапельденген талшық</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>7019 12 000 0</td>
 <td>– – созба</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>7019 19 100 1</td>
 <td>– – – – таспалар</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7019 19 100 9</td>
 <td>– – – – өзгелері</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>7019 19 900 1</td>
 <td>– – – – таспалар</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7019 19 900 9</td>
 <td>– – – – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7019 31 000 0</td>
 <td>– – төсеніштер</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7019 32 000 9</td>
+<td>– – – өзгелері</td>
+<td>9</td>
 </tr>
 <tr>
 <td>7019 39 000 8</td>
 <td>– – – – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7019 90 000 1</td>
 <td>– – ақтарылған немесе бумадағы тоқыма емес талшықтар</td>
-<td>7,5</td>
+<td>6,3</td>
 </tr>
 <tr>
 <td>7020 00 080 0</td>
 <td>– – өндірісте аяқталған</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7102 39 000 0</td>
@@ -7204,62 +9026,52 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>7103 91 000 0</td>
 <td>– – лағылдар, жақұттар және зүміреттер</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7107 00 000 0</td>
 <td>Қымбат бағалы емес, күміс жалатылған, жартылай өнделген, одан әрі өңделмеген металдар</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7108 13 100 0</td>
-<td>– – – шыбықтар, сымдар мен профильдер; пластиналар; кез келген негізді есептемегенде, қалыңдығы 0,15 мм–ден астам табақтар мен жолақтар</td>
-<td>11,8</td>
+<td>– – – шыбықтар, сымдар мен профильдер; пластиналар; кез келген негізді есептемегенде, қалыңдығы 0,15 мм-ден астам табақтар мен жолақтар</td>
+<td>10,2</td>
 </tr>
 <tr>
 <td>7108 13 800 0</td>
-<td>– – – өзгелері</td>
-<td>8</td>
+<td>– – – өзгесі</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7110 11 000 1</td>
 <td>– – – балқыманың 1000 бөлшегіне құрамында кем дегенде 995 алтын бөлшегі бар құймада</td>
-<td>8</td>
-</tr>
-<tr>
-<td>7110 11 000 9</td>
-<td>– – – өзгелері</td>
-<td>85</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7110 19 100 0</td>
-<td>– – – шыбықтар, сымдар мен профильдер; пластиналар; кез келген негізді есептемегенде, қалыңдығы 0,15 мм– ден астам табақтар мен жолақтар немесе ленталар</td>
-<td>8</td>
+<td>– – – шыбықтар, сымдар мен профильдер; пластиналар; кез келген негізді есептемегенде, қалыңдығы 0,15 мм- ден астам табақтар мен жолақтар немесе ленталар</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7110 19 800 1</td>
 <td>– – – – құбырлар, трубкалар мен қуыс қалыптар; кез келген негізді санамағанда қалыңдығы 0,15 мм аспайтын жұқа парақтар мен сызықтар (фольга)</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7110 19 800 9</td>
-<td>– – – – өзгелері</td>
-<td>8</td>
+<td>– – – – өзгесі</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7110 21 000 1</td>
 <td>– – – балқыманың 1000 бөлшегіне құрамында кем дегенде 995 алтын бөлшегі бар құймада</td>
-<td>8</td>
-</tr>
-<tr>
-<td>7110 21 000 9</td>
-<td>– – – өзгелері</td>
-<td>85</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7111 00 000 0</td>
 <td>Платина жалатылған, өңделмеген немесе жартылай өнделген қымбат бағалы емес металдар, күміс немесе алтын</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7113 19 000 0</td>
@@ -7284,477 +9096,487 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>7117 90 000 0</td>
 <td>– өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7118 10 000 0</td>
 <td>– заңды төлем құралы ретінде саналмайтын монеталар (алтыннан басқа)</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7118 90 000 0</td>
 <td>– өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7205 29 000 0</td>
-<td>– – өзгелерi</td>
-<td>3</td>
+<td>– – өзгелері</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 11 110 0</td>
 <td>– – – – автомат болаттан</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 11 900 0</td>
 <td>– – – соғылған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 12 900 0</td>
 <td>– – – соғылған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 19 120 0</td>
 <td>– – – – тегістелген немесе үздіксіз құюдан алынған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7207 19 190 0</td>
 <td>– – – – соғылған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 19 800 0</td>
-<td>– – – өзгелерi</td>
-<td>3</td>
+<td>– – – өзгелері</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 20 110 0</td>
 <td>– – – – автомат болаттан</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7207 20 150 0</td>
 <td>– – – – – 0,25 салм.% немесе одан да көп, бірақ 0,6 салм.%-дан кем көмiртегi бар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 20 170 0</td>
 <td>– – – – – 0,6 салм.% немесе одан да көп көмiртегi бар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 20 190 0</td>
 <td>– – – соғылған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 20 320 0</td>
 <td>– – – тегістелген немесе үздіксіз құюдан алынған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 20 390 0</td>
 <td>– – – соғылған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7207 20 520 0</td>
 <td>– – – тегістелген немесе үздіксіз құюдан алынған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7207 20 590 0</td>
 <td>– – – соғылған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7210 12 800 0</td>
-<td>– – – өзгелері</td>
-<td>1,7</td>
+<td>– – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7210 70 100 0</td>
 <td>– – ақ қаңылтыр және гальванды немесе басқа да хром оксидтермен немесе хроммен және хром оксидтермен қапталған,лакталған бұйымдар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7210 70 800 0</td>
-<td>– – өзгелері</td>
-<td>1,7</td>
+<td>– – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7210 90 300 0</td>
 <td>– – жалатылған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7210 90 800 0</td>
-<td>– – өзгелері</td>
-<td>1,7</td>
+<td>– – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7212 10 900 0</td>
-<td>– – өзгелері</td>
-<td>1,7</td>
+<td>– – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7212 40 200 0</td>
 <td>– – ақ қаңылтыр, лакталған басқа, одан әрі өңделмеген; гальванды немесе хром тотықтарымен басқалай немесе хроммен және хром тотықтарымен қапталған, лакталған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7212 40 800 0</td>
-<td>– – өзгелері</td>
-<td>1,7</td>
+<td>– – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7212 60 000 0</td>
 <td>– жалатылған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7213 20 000 0</td>
 <td>– өзге де автомат болаттан алынған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7214 30 000 0</td>
 <td>– өзге де автомат болаттан жасалған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7218 10 000 9</td>
-<td>– – өзгелерi</td>
-<td>1,7</td>
+<td>– – өзгелері</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7218 91 100 0</td>
 <td>– – – 2,5 салм.% немесе астам көп никелі бар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7218 91 800 0</td>
 <td>– – – 2,5 салм.%-дан кем никелі бар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7218 99 110 0</td>
 <td>– – – – басылған немесе үздіксіз құюдан алынған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7218 99 190 0</td>
 <td>– – – – соғылған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7218 99 200 0</td>
 <td>– – – – басылған немесе үздіксіз құюдан алынған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7218 99 800 0</td>
 <td>– – – – соғылған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 11 000 0</td>
 <td>– – қалыңдығы 10 мм-ден астам</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 12 100 0</td>
 <td>– – – 2,5 салм.%-дан немесе одан астам никелі бар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 12 900 0</td>
 <td>– – – 2,5 салм.%-дан аз никелі бар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 13 100 0</td>
 <td>– – – 2,5 салм.% немесе одан астам никелі бар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 13 900 0</td>
 <td>– – – 2,5 салм.%-дан кем никелі бар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 14 100 0</td>
 <td>– – – 2,5 салм.% немесе одан астам никелі бар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 14 900 0</td>
 <td>– – – 2,5 салм.%-дан кем никелі бар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 21 100 9</td>
-<td>– – – – өзгелері</td>
-<td>1,7</td>
+<td>– – – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 21 900 0</td>
 <td>– – – 2,5 салм.%-дан кем никелі бар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 22 100 9</td>
-<td>– – – – өзгелері</td>
-<td>1,7</td>
+<td>– – – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 24 000 9</td>
-<td>– – – өзгелері</td>
-<td>1,7</td>
+<td>– – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 31 000 0</td>
 <td>– – қалыңдығы 4,75 мм немесе одан астам</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 32 100 9</td>
-<td>– – – – өзгелері</td>
-<td>1,7</td>
+<td>– – – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 32 900 0</td>
 <td>– – – 2,5 салм.%-дан кем никелі бар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 33 100 9</td>
-<td>– – – – өзгелері</td>
-<td>1,7</td>
+<td>– – – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 33 900 0</td>
 <td>– – – 2,5 салм.%-дан кем никелі бар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 34 100 9</td>
-<td>– – – – өзгелері</td>
-<td>1,7</td>
+<td>– – – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 34 900 9</td>
-<td>– – – – өзгелері</td>
-<td>1,7</td>
+<td>– – – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 35 100 0</td>
 <td>– – – 2,5 салм.% немесе одан астам никелі бар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 35 900 0</td>
 <td>– – – 2,5 салм.%-дан кем никелі бар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 90 200 0</td>
 <td>– – перфориленген</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7219 90 800 9</td>
-<td>– – – өзгелері</td>
-<td>1,7</td>
+<td>– – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 11 000 9</td>
-<td>– – – өзгелері</td>
-<td>1,7</td>
+<td>– – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 12 000 0</td>
 <td>– – қалыңдығы 4,75 мм-ден кем</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 20 210 0</td>
 <td>– – – 2,5 салм.% немесе одан астам никелі бар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 20 290 0</td>
 <td>– – – 2,5 салм.%-дан кем никелі бар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 20 410 0</td>
 <td>– – – 2,5 салм.% немесе одан астам никелі бар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 20 490 9</td>
-<td>– – – – өзгелері</td>
-<td>1,7</td>
+<td>– – – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 20 810 9</td>
-<td>– – – – өзгелері</td>
-<td>1,7</td>
+<td>– – – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 20 890 0</td>
 <td>– – – 2,5 салм.%-дан кем никелі бар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 90 200 0</td>
 <td>– – перфорирленген</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7220 90 800 9</td>
-<td>– – – өзгелері</td>
-<td>1,7</td>
+<td>– – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7224 10 100 0</td>
 <td>– – аспаптық болаттан</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7224 10 900 0</td>
-<td>– – өзгелерi</td>
-<td>1,7</td>
+<td>– – өзгелері</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7224 90 020 0</td>
 <td>– – аспаптық болаттан</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7224 90 030 0</td>
 <td>– – – – – – тез кесетін болаттан</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7224 90 180 0</td>
 <td>– – – – соғылған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7224 90 310 0</td>
-<td>– – – – – 0,9 салм. %-дан аспайтын, бірақ 1,15 салм. %-дан аспайтын көміртегі бар, 0,5 салм. %-дан аспайтын, бірақ 2 салм. %-дан аспайтын хромы бар және, егер болса, 0,5 салм. %-дан аспайтын молибдені бар</td>
-<td>1,7</td>
+<td>– – – – – 0,9 салм.%-дан аспайтын, бірақ 1,15 салм.%-дан аспайтын көміртегі бар, 0,5 салм.%-дан аспайтын, бірақ 2 салм.%-дан аспайтын хромы бар және, егер болса, 0,5 салм.%-дан аспайтын молибдені бар</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7224 90 380 0</td>
-<td>– – – – – өзгелері</td>
-<td>1,7</td>
+<td>– – – – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 11 000 0</td>
 <td>– – бағдарланған түйiршiктермен текстураланған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 19 100 0</td>
 <td>– – – ыстықтай басылған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 19 900 0</td>
 <td>– – – суықтай басылған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 30 100 0</td>
 <td>– – аспаптық болаттан</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 40 120 9</td>
-<td>– – – өзгелері</td>
-<td>1,7</td>
+<td>– – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 50 200 0</td>
 <td>– – тез кесетін болаттан</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 50 800 0</td>
-<td>– – өзгелері</td>
-<td>1,7</td>
+<td>– – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 91 000 0</td>
 <td>– – электролиттік мырышталған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 92 000 0</td>
 <td>– – өзге де тәсілмен мырышталған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7225 99 000 0</td>
-<td>– – өзгелері</td>
-<td>1,7</td>
+<td>– – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 11 000 0</td>
 <td>– – бағдарланған түйiршiктермен текстураланған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 19 100 0</td>
 <td>– – – ыстықтай бастырылғаннан басқа, кейіннен өңделмеген</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 19 800 0</td>
-<td>– – – өзгелері</td>
-<td>1,7</td>
+<td>– – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 20 000 0</td>
-<td>– жылдам кескiш болаттан жасалған</td>
-<td>1,7</td>
+<td>– тез кесетін болаттан</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 91 200 0</td>
 <td>– – – аспаптық болаттан</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 91 990 0</td>
 <td>– – – – қалыңдығы 4,75 мм-ден аспайтын</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 99 100 0</td>
 <td>– – – электролиттiк мырышталған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 99 300 0</td>
 <td>– – – өзге тәсілмен мырышталған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7226 99 700 0</td>
-<td>– – – өзгелері</td>
-<td>1,7</td>
+<td>– – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7229 20 000 0</td>
 <td>– кремний марганецтi болаттан жасалған</td>
-<td>1,7</td>
+<td>0</td>
+</tr>
+<tr>
+<td>7304 11 000 5</td>
+<td>– – – – сыртқы диаметрі көп дегенде 406,4 мм</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 19 100 9</td>
+<td>– – – – өзгелері</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7304 22 000 9</td>
@@ -7792,39 +9614,74 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>5</td>
 </tr>
 <tr>
+<td>7304 31 200 8</td>
+<td>– – – – – өзгелері</td>
+<td>7</td>
+</tr>
+<tr>
 <td>7304 31 800 9</td>
 <td>– – – – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7304 39 100 0</td>
-<td>– – – тек қана басқа қималы және қалыңдығы басқа қабырғалы құбырларды өндіруге пайдалануға арналған өңделмеген, тік, қалыңдығы бір қалыпты қабырғалары бар</td>
-<td>8</td>
+<td>– – – тек қана басқа қималы және қалыңдығы басқа қабырғалы құбырларды өндіру үшін пайдалануға арналған өңделмеген, тік, қалыңдығы бір қалыпты қабырғалары бар</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7304 39 520 9</td>
 <td>– – – – – – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7304 39 580 9</td>
 <td>– – – – – – өзгелері</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 39 920 9</td>
+<td>– – – – – – өзгелері</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 39 930 0</td>
+<td>– – – – – 168,3 мм-ден астам, бірақ 406,4 мм-ден аспайтын</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 39 980 1</td>
+<td>– – – – – – сыртқы диаметрі көп дегенде 421 мм және қабырғасының қалыңдығы 10,5 мм</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 41 000 8</td>
+<td>– – – – өзгелері</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7304 49 100 0</td>
-<td>– – – тек қана басқа қималы және қалыңдығы басқа қабырғалы құбырларды өндіруге пайдалануға арналған өңделмеген, тік, қалыңдығы бір қалыпты қабырғалары бар</td>
-<td>8</td>
+<td>– – – тек қана басқа қималы және қалыңдығы басқа қабырғалы құбырларды өндіру үшін пайдалануға арналған өңделмеген, тік, қалыңдығы бір қалыпты қабырғалары бар</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 49 930 9</td>
+<td>– – – – – өзгелері</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 49 950 9</td>
+<td>– – – – – өзгелері</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7304 51 120 0</td>
 <td>– – – – 0,5 м-ден аспайтын</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7304 51 180 0</td>
 <td>– – – – 0,5 м-ден астам</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7304 51 810 9</td>
@@ -7834,7 +9691,42 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>7304 51 890 9</td>
 <td>– – – – – өзгелері</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 59 100 0</td>
+<td>– – – тек қана басқа қималы және қалыңдығы басқа қабырғалы құбырларды өндіру үшін пайдалануға арналған өңделмеген, тік, қалыңдығы бір қалыпты қабырғалары бар</td>
+<td>9</td>
+</tr>
+<tr>
+<td>7304 59 320 0</td>
+<td>– – – – 0,5 м-ден аспайтын</td>
+<td>9</td>
+</tr>
+<tr>
+<td>7304 59 380 0</td>
+<td>– – – – 0,5 м-ден астам</td>
+<td>9</td>
+</tr>
+<tr>
+<td>7304 59 920 9</td>
+<td>– – – – – өзгелері</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 59 930 0</td>
+<td>– – – – сыртқы диаметрі 168,3 мм-ден астам, бірақ 406,4 мм-ден аспайтын</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7304 90 000 9</td>
+<td>– – өзгелері</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7305 11 000 8</td>
+<td>– – – өзгелері</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7305 20 000 0</td>
@@ -7844,22 +9736,22 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>7305 39 000 0</td>
 <td>– – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7305 90 000 0</td>
 <td>– өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 11 100 0</td>
 <td>– – – түзу жiктi дәнекерленген</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 19 100 0</td>
 <td>– – – түзу жiктi дәнекерленген</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 21 000 0</td>
@@ -7874,37 +9766,52 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>7306 30 190 9</td>
 <td>– – – – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 30 410 9</td>
 <td>– – – – – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 30 490 9</td>
 <td>– – – – – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 30 720 9</td>
 <td>– – – – – – өзгелері</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7306 30 800 0</td>
+<td>– – – – 168,3 мм-ден астам, бірақ 406,4 мм-ден аспайтын</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 40 200 1</td>
-<td>– – – азаматтық ұшақтарға арналған, фитингілері бар</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған, жалғанған фитингілері бар, газдар мен сұйықтықтарды беруге жарамды5)</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7306 40 200 9</td>
+<td>– – – өзгелері</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 40 800 2</td>
-<td>– – – – фитингілері бар газдар немесе сұйықтықтар жеткізу үшін қолайлы азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – жалғанған фитингілері бар, газдар мен сұйықтықтарды беруге жарамды, азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7306 40 800 8</td>
+<td>– – – – өзгелері</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 50 200 1</td>
-<td>– – – фитингілері бар газдар немесе сұйықтықтар жеткізу үшін қолайлы азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – жалғанған фитингілері бар, газдар мен сұйықтықтарды беруге жарамды, азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7306 50 200 9</td>
@@ -7913,8 +9820,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>7306 50 800 1</td>
-<td>– – – фитингілері бар газдар немесе сұйықтықтар жеткізу үшін қолайлы азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – жалғанған фитингілері бар, газдар мен сұйықтықтарды беруге жарамды, азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7306 50 800 9</td>
@@ -7923,128 +9830,148 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>7306 61 100 1</td>
-<td>– – – – фитингілері бар газдар немесе сұйықтықтар жеткізу үшін қолайлы азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – жалғанған фитингілері бар, газдар мен сұйықтықтарды беруге жарамды, азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7306 61 100 9</td>
+<td>– – – – өзгелері</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 61 920 1</td>
-<td>– – – – – фитингілері бар газдар немесе сұйықтықтар жеткізу үшін қолайлы азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – жалғанған фитингілері бар, газдар мен сұйықтықтарды беруге жарамды, азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7306 61 920 9</td>
+<td>– – – – – өзгелері</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 61 990 1</td>
-<td>– – – – – фитингілері бар газдар немесе сұйықтықтар жеткізу үшін қолайлы азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – жалғанған фитингілері бар, газдар мен сұйықтықтарды беруге жарамды, азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7306 69 100 1</td>
-<td>– – – – фитингілері бар газдар немесе сұйықтықтар жеткізу үшін қолайлы азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – жалғанған фитингілері бар, газдар мен сұйықтықтарды беруге жарамды, азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7306 69 100 9</td>
 <td>– – – – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7306 69 900 1</td>
-<td>– – – – фитингілері бар газдар немесе сұйықтықтар жеткізу үшін қолайлы азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – жалғанған фитингілері бар, газдар мен сұйықтықтарды беруге жарамды, азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7306 69 900 9</td>
 <td>– – – – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7307 22 100 0</td>
 <td>– – – имектер</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7307 22 900 0</td>
 <td>– – – иіндер мен қайтарулар</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7307 92 100 0</td>
 <td>– – – имектер</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7307 92 900 0</td>
 <td>– – – иіндер мен қайтарулар</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7308 40 000 9</td>
+<td>– – өзгелері</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7309 00 100 0</td>
 <td>– газға (сығылған немесе сұйылтылған газдан басқа) арналған</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7310 21 110 1</td>
-<td>– – – – нетто-массасы 1 л-ден артық емес</td>
+<td>– – – – сыйымдылығы 1 л артық емес</td>
 <td>15</td>
 </tr>
 <tr>
 <td>7310 21 190 1</td>
-<td>– – – – нетто-массасы 1 л-ден аспайтын</td>
+<td>– – – – сыйымдылығы 1 л-ден аспайтын</td>
 <td>15</td>
 </tr>
 <tr>
 <td>7312 10 200 1</td>
-<td>– – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 410 1</td>
-<td>– – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7312 10 410 9</td>
+<td>– – – – – өзгелері</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7312 10 490 1</td>
-<td>– – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 490 9</td>
 <td>– – – – – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7312 10 610 1</td>
-<td>– – – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 610 9</td>
-<td>– – – – – – өзгелері</td>
-<td>8</td>
+<td>– – – – – – өзгесі</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7312 10 650 0</td>
 <td>– – – – – – мырышталған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 690 1</td>
-<td>– – – – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 690 9</td>
-<td>– – – – – – – өзгелері</td>
-<td>8</td>
+<td>– – – – – – – өзгесі</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7312 10 810 1</td>
 <td>– – – – – – – жабындысыз</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 810 4</td>
-<td>– – – – – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 810 8</td>
@@ -8054,12 +9981,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>7312 10 830 1</td>
 <td>– – – – – – – жабындысыз</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 830 4</td>
-<td>– – – – – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 830 8</td>
@@ -8069,12 +9996,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>7312 10 850 1</td>
 <td>– – – – – – – жабындысыз</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 850 4</td>
-<td>– – – – – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 850 8</td>
@@ -8084,12 +10011,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>7312 10 890 1</td>
 <td>– – – – – – – жабындысыз</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 890 4</td>
-<td>– – – – – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 890 8</td>
@@ -8098,8 +10025,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>7312 10 980 1</td>
-<td>– – – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – – фитингілері бар немесе бұйымдарға жиналған азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7312 10 980 9</td>
@@ -8114,142 +10041,172 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>7314 42 000 0</td>
 <td>– – пластмассамен қапталған</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7314 49 000 0</td>
 <td>– – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7314 50 000 0</td>
 <td>– қималап шығарылған бет</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>7317 00 800 1</td>
 <td>– – сызу түймешегелері</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7317 00 800 9</td>
 <td>– – өзгелері</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7322 90 000 1</td>
-<td>– – азаматтық әуе кемелеріне арналған ыстық ауа қыздырғыштары мен бөлу құрылғылары (олардың бөлшектерін қоспағанда)</td>
-<td>3</td>
+<td>– – азаматтық әуе кемелеріне арналған ыстық ауа қыздырғыштары мен бөлу құрылғылары (олардың бөлшектерін қоспағанда)5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7324 10 000 1</td>
-<td>– – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7324 90 000 1</td>
-<td>– – азаматтық әуе кемелеріне арналған санитариялық– техникалық жабдық (олардың бөлшектерін қоспағанда)</td>
-<td>3</td>
+<td>– – азаматтық әуе кемелеріне арналған санитариялық-техникалық жабдық (олардың бөлшектерін қоспағанда)</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7326 20 000 1</td>
+<td>– – шағын торлар мен вольерлер</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7326 20 000 2</td>
 <td>– – сым себеттер</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7326 20 000 3</td>
-<td>– – – азаматтық әуе кемелері үшін5)</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7326 90 920 2</td>
+<td>– – – – – табакеркалар, портсигарлар, опа табақшалары, косметикаға арналған қорапшалар мен ұқсас қалта бұйымдары</td>
+<td>9</td>
+</tr>
+<tr>
+<td>7326 90 940 9</td>
+<td>– – – – өзгелері</td>
+<td>9</td>
+</tr>
+<tr>
+<td>7326 90 960 0</td>
+<td>– – – пісірілген</td>
+<td>9</td>
+</tr>
+<tr>
+<td>7326 90 980 4</td>
+<td>– – – – – табакеркалар, портсигарлар, опа табақшалары, косметикаға арналған қорапшалар мен ұқсас қалта бұйымдары</td>
+<td>9</td>
 </tr>
 <tr>
 <td>7413 00 000 1</td>
 <td>– тазартылған мыстан жасалған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7505 11 000 0</td>
 <td>– – қосындыланбаған никельден жасалған</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7505 12 000 9</td>
-<td>– – – өзгелер</td>
-<td>13</td>
+<td>– – – өзгелері</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7505 21 000 0</td>
 <td>– – қосындыланбаған никельден жасалған</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7505 22 000 0</td>
 <td>– – никель қорытпаларынан жасалған</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7506 10 000 0</td>
 <td>– қосындыланбаған никельден жасалған</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7506 20 000 9</td>
-<td>– – өзгелер</td>
-<td>13</td>
+<td>– – өзгелері</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7507 11 000 0</td>
 <td>– – қосындыланбаған никельден жасалған</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7507 20 000 9</td>
-<td>– – өзгелер</td>
-<td>13</td>
+<td>– – өзгелері</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7606 11 930 0</td>
 <td>– – – – кемінде 3 мм, бірақ 6 мм-ден кем</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7606 12 200 1</td>
-<td>– – – жалюзилерге арналған жолақтар</td>
-<td>13</td>
+<td>– – – – жалюзилерге арналған жолақтар</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7606 12 920 1</td>
 <td>– – – – – жалюзилерге арналған жолақтар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7607 19 900 1</td>
 <td>– – – – өзін-өзі жабысатын</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>7608 10 000 1</td>
-<td>– – фитингпен қосылған, газ немесе сұйықтық беру үшін жарамды, азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – жалғанған фитингілері бар, газдар мен сұйықтықтарды беруге жарамды, азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7608 20 200 1</td>
-<td>– – – фитингпен қосылған, газ немесе сұйықтық беру үшін жарамды, азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – жалғанған фитингілері бар, газдар мен сұйықтықтарды беруге жарамды, азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7608 20 810 4</td>
-<td>– – фитингпен қосылған, газ немесе сұйықтық беру үшін жарамды, азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – – – жалғанған фитингілері бар, газдар мен сұйықтықтарды беруге жарамды, азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7608 20 890 3</td>
-<td>– – фитингпен қосылған, газ немесе сұйықтық беру үшін жарамды, азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – – – жалғанған фитингілері бар, газдар мен сұйықтықтарды беруге жарамды, азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>7610 90 100 0</td>
 <td>– – көпірлер мен олардың бөліктері, мұнаралар мен керегеторлы діңгектер</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7612 90 800 1</td>
+<td>– – – сыйымдылығы 1 л-ден аспайтын цилиндр түріндегі қатты сыйымдылықтар</td>
+<td>қайсысы төмен екендігіне байланысты 16 немесе 1000 дана үшін 13,2 евро</td>
 </tr>
 <tr>
 <td>8002 00 000 0</td>
@@ -8259,137 +10216,147 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8101 10 000 0</td>
 <td>– ұнтақтар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8101 94 000 0</td>
 <td>– – өңделмеген вольфрам, қарапайым пісiру арқылы дайындалған шыбықтарды қoca алғанда</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8102 10 000 0</td>
 <td>– ұнтақтар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8102 94 000 0</td>
 <td>– – өңделмеген молибден, қарапайым пісiру арқылы дайындалған шыбықтарды қоса алғанда</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8104 19 000 0</td>
-<td>– – өзгелері</td>
-<td>13</td>
+<td>– – өзгесі</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 20 000 1</td>
 <td>– – – құрамында кемінде 99,56 салм.% титан бар, 12+2 мм-ден 70+12 мм-ге дейін фракцияларға шашыратылған кесек түрінде</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 20 000 3</td>
-<td>– – – өзгелері</td>
-<td>13</td>
+<td>– – – өзгесі</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 20 000 5</td>
 <td>– – ұнтақтар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 20 000 6</td>
 <td>– – құймалар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 20 000 7</td>
 <td>– – слябтар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 20 000 9</td>
 <td>– – өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 90 300 9</td>
 <td>– – – өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 90 500 9</td>
 <td>– – – өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 90 600 8</td>
 <td>– – – – өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8108 90 900 9</td>
 <td>– – – өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8109 20 000 0</td>
 <td>– өңделмеген цирконий; ұнтақтар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8112 12 000 0</td>
 <td>– – өңделмеген; ұнтақтар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8112 19 000 0</td>
-<td>– – өзгелері</td>
-<td>13</td>
+<td>– – өзгесі</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8112 21 100 0</td>
 <td>– – – құрамында 10 салм.%-дан астам никель бар қорытпалар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8112 21 900 0</td>
 <td>– – – өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8112 29 000 0</td>
-<td>– – өзгелері</td>
-<td>13</td>
+<td>– – өзгесі</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8112 99 700 9</td>
 <td>– – – – ванадий</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8301 10 000 0</td>
 <td>– аспалы құлыптар</td>
-<td>14,8</td>
+<td>12,2</td>
+</tr>
+<tr>
+<td>8301 20 000 9</td>
+<td>– – өзгелері</td>
+<td>12,2</td>
 </tr>
 <tr>
 <td>8301 50 000 0</td>
 <td>– ысырмалар және құлыптармен бiрiктірiлген ысырмалы жақтаулар</td>
-<td>14,8</td>
+<td>12,2</td>
 </tr>
 <tr>
 <td>8301 60 000 9</td>
 <td>– – өзгелері</td>
-<td>14,8</td>
+<td>12,2</td>
 </tr>
 <tr>
 <td>8301 70 000 0</td>
 <td>– жеке жеткiзiлетiн кiлттер</td>
-<td>14,8</td>
+<td>12,2</td>
+</tr>
+<tr>
+<td>8302 60 000 1</td>
+<td>– – 8701-8705 тауарлық позициялардағы моторлы көлік құралдарын, олардың тораптары мен агрегаттарын өнеркәсіптік жинауға арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8307 90 000 1</td>
-<td>– – фитингілері бар азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – фитингілері бар азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8309 10 000 0</td>
@@ -8418,403 +10385,428 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>8407 10 000 1</td>
-<td>– – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8407 10 000 2</td>
-<td>– – барлау-соққы беру ұшқышсыз ұшатын аппараттарға арналған қондырғылар үшін14)</td>
-<td>3</td>
+<td>– – ұшқышсыз, барлау-соққы беру ұшу аппараттарына орнату үшін14)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8407 10 000 3</td>
 <td>– – – ұшып көтерілу қуаттылығы 200 кВт-тан аспайтын</td>
-<td>35</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8407 10 000 7</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8407 29 000 0</td>
 <td>– – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8408 90 210 0</td>
 <td>– – рельсті көлікке арналған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 270 1</td>
-<td>– – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 270 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 410 1</td>
-<td>– – – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 410 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 430 1</td>
-<td>– – – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 430 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 450 1</td>
-<td>– – – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 450 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 470 1</td>
-<td>– – – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 470 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 610 1</td>
-<td>– – – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 610 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8408 90 650 0</td>
+<td>– – – – 200 кВт астам, бірақ 300 кВт көп емес</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 670 0</td>
 <td>– – – – 300 кВт-тан астам бірақ 500 кВт-там аспайтын</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 810 1</td>
-<td>– – – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 810 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 850 0</td>
 <td>– – – – 1000 кВт-тан астам, бірақ 5000 кВт-тан аспайтын</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8408 90 890 0</td>
 <td>– – – – 5000 кВт-тан астам</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8411 11 000 1</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 11 000 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8411 12 100 1</td>
+<td>– – – – азаматтық әуе кемелеріне арналған</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 100 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 300 3</td>
-<td>– – – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 300 4</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 300 5</td>
-<td>– – – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 300 6</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8411 12 300 7</td>
-<td>– – – – – –тарту күші 110 кН-нан астам, бірақ 132 кН-нан аспайтын азаматтық әуе кемелерін жасауға арналған5)</td>
-<td>3 5</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 300 8</td>
 <td>– – – – – – өзгелері5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 300 9</td>
-<td>– – – – өзгелері</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8411 12 800 1</td>
-<td>– – – – –тарту күші 110 кН-нан астам, бірақ 132 кН-нан аспайтын азаматтық әуе кемелерін жасауға арналған5)</td>
-<td>3 5</td>
+<td>– – – – – өзгелері</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 800 2</td>
 <td>– – – – – өзгелері5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 12 800 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 21 000 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8411 22 200 2</td>
+<td>– – – – – азаматтық әуе кемелеріне арналған</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 22 200 3</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8411 22 200 4</td>
+<td>– – – – – азаматтық әуе кемелеріне арналған</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 22 200 8</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8411 22 800 1</td>
+<td>– – – – азаматтық әуе кемелеріне арналған</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 22 800 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 81 000 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 82 200 8</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8411 82 600 8</td>
+<td>– – – – өзгелері</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 82 800 1</td>
-<td>– – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 82 800 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 91 000 8</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8411 99 001 1</td>
-<td>– – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8411 99 009 2</td>
+<td>– – – – – қуаты 50 000 кВт5) астам газ құбырларын дайындау үшін</td>
+<td>2 6</td>
 </tr>
 <tr>
 <td>8411 99 009 8</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 10 000 1</td>
-<td>– – азаматтық авиацияға арналған</td>
-<td>3</td>
+<td>– – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 10 000 9</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 21 200 1</td>
 <td>– – – – жүк көтергіштігі 18-20 т автомобиль-самосвалдарды жинауға арналған телескоптық гидроцилиндрлер</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 21 200 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 21 800 8</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 29 200 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 29 810 1</td>
 <td>– – – – – азаматтық авиацияға арналған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 29 810 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 29 890 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 31 000 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 39 000 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 80 100 0</td>
 <td>– – су буымен жұмыс істейтін немесе бумен жұмыс істейтін өзге де күш қозғалтқыштары</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 80 800 1</td>
-<td>– – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 80 800 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 90 200 1</td>
-<td>– – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 90 200 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 90 400 1</td>
 <td>– – – жүк көтергіштігі 18-20 т өзі аударғыш автомобильдерді жинауға арналған телескоптық гидроцилиндрлердің бөліктері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 90 400 8</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 90 800 1</td>
-<td>– – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8412 90 800 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 200 3</td>
 <td>– – – – – сызықтық (сызықтық электр қозғалтқыш)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 200 4</td>
-<td>– – – – – – ASHRAE әдісімен анақтылған салықтандыру номиналдық қуаттығы (салқындату) 0,16 кВт-тан астам емес</td>
-<td>3</td>
+<td>– – – – – – ASHRAE әдісімен анықталған салқындату номиналдық қуаттығы (салқындату) 0,16 кВт-тан аспайтын</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 200 5</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8414 30 200 9</td>
-<td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 810 5</td>
-<td>– – – – 8701-8705 тауарлық позициялардағы моторлы көлік құралдарын, олардың түйіндері мен агрегаттарын өнеркәсіптік құрастыруға арналған5)</td>
-<td>3</td>
+<td>– – – – 8701-8705 тауарлық позициялардағы моторлы көлік құралдарын, олардың тораптары мен агрегаттарын өнеркәсіптік құрастыруға арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 810 6</td>
 <td>– – – – – қуаттылығы 0,4 кВт-тан астам, бірақ 1,3 кВт-тан аспайтын</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 810 7</td>
 <td>– – – – – қуаттылығы 1,3 кВт-тан астам, бірақ 10 кВт-тан аспайтын</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 810 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 890 2</td>
 <td>– – – – – қуаттылығы 0,4 кВт және одан астам, бірақ 1,3 кВт-тан аспайтын</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8414 30 890 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8418 10 200 2</td>
-<td>– – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8418 10 800 1</td>
 <td>– – – тұрмыстық мұздатқыш тоңазытқыштар</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8418 10 800 2</td>
-<td>– – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8418 10 800 8</td>
 <td>– – – – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8418 21 510 0</td>
@@ -8833,7 +10825,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>8418 21 990 0</td>
-<td>– – – – – 250 л-ден асатын, бірақ 340 л– ден аспайтын</td>
+<td>– – – – – 250 л-ден асатын, бірақ 340 л- ден аспайтын</td>
 <td>10</td>
 </tr>
 <tr>
@@ -8842,24 +10834,14 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>10</td>
 </tr>
 <tr>
-<td>8418 30 200 1</td>
-<td>– – – тұрмыстық мұздатқыштар</td>
-<td>12 6</td>
-</tr>
-<tr>
 <td>8418 30 200 2</td>
-<td>– – – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8418 30 800 1</td>
-<td>– – – тұрмыстық мұздатқыштар</td>
-<td>12 6</td>
+<td>– – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8418 30 800 2</td>
-<td>– – – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8418 40 200 1</td>
@@ -8868,8 +10850,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>8418 40 200 2</td>
-<td>– – – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8418 40 200 8</td>
@@ -8879,12 +10861,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8418 40 800 1</td>
 <td>– – – тұрмыстық мұздатқыштар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8418 40 800 2</td>
-<td>– – – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8418 50 110 0</td>
@@ -8894,16 +10876,16 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8418 50 190 0</td>
 <td>– – – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8418 50 900 1</td>
-<td>– – –8418 30 және 8418 40 субпозициясындағы бұйымдардан басқа терең мұздату үшін</td>
+<td>– – – 8418 30 және 8418 40 субпозициясындағы бұйымдардан басқа терең мұздату үшін</td>
 <td>10</td>
 </tr>
 <tr>
 <td>8418 50 900 9</td>
-<td>– – – өзгелері</td>
+<td>– – – өзгесі</td>
 <td>10</td>
 </tr>
 <tr>
@@ -8912,18 +10894,23 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>5</td>
 </tr>
 <tr>
+<td>8418 61 009 1</td>
+<td>– – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
+</tr>
+<tr>
 <td>8418 61 009 9</td>
 <td>– – – – өзгелері</td>
 <td>5</td>
 </tr>
 <tr>
 <td>8418 69 000 2</td>
-<td>– – – азаматтық әуелік кемелерге арналған5)</td>
-<td>1,7</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8418 69 000 8</td>
-<td>– – – өзгелері</td>
+<td>– – – өзгесі</td>
 <td>5</td>
 </tr>
 <tr>
@@ -8939,52 +10926,57 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8424 10 000 0</td>
 <td>– толтырылған немесе толтырылмаған от сөндiргiштер</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8424 89 000 1</td>
 <td>– – – автомобильдерді жууға арналған механикалық құрылғылар</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8425 19 000 9</td>
 <td>– – – өзгелері</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8425 39 000 5</td>
 <td>– – – – шахтаның үстіне орналастыруға арналған шахталық көтергіш қоңдырғылардың жүкарбалары; жерасты жұмыстарына арналған жүкарбалар</td>
-<td>4,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8425 41 000 0</td>
 <td>– – стационарлық гараж көтергiштерi</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8425 49 000 0</td>
 <td>– – өзгелері</td>
-<td>3,3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>8426 12 000 9</td>
+<td>– – – өзгелері</td>
+<td>3,8</td>
 </tr>
 <tr>
 <td>8426 20 000 0</td>
 <td>– мұнаралы крандар</td>
-<td>5</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>8426 30 000 9</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8426 41 000 7</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8426 49 001 0</td>
-<td>– – – айналадағы ауаның температурасы-50ºС және одан төмен болған кезде жұмыс істеуге арналған жүк көтергіштігі 90 т және одан жоғары құбыр орнатқыштар2)</td>
-<td>3</td>
+<td>– – – қоршаған ауаның температурасы-50оС және одан төмен болған кезде жұмыс істеуге арналған жүк көтергіштігі 90 т және одан жоғары құбыр орнатқыштар2)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8426 49 009 1</td>
@@ -8994,7 +10986,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8426 91 100 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8426 91 900 9</td>
+<td>– – – – өзгелері</td>
+<td>4</td>
 </tr>
 <tr>
 <td>8426 99 000 0</td>
@@ -9004,82 +11001,87 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8428 10 200 2</td>
 <td>– – – – өзгелері</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8428 10 800 0</td>
 <td>– – өзгелері</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8428 31 000 0</td>
-<td>– – арнайы жер асты жұмыстарына арналған</td>
-<td>3</td>
+<td>– – арнайы жерасты жұмыстарына арналған</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8428 32 000 0</td>
 <td>– – өзге де шөмiштiлер</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8428 39 900 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8428 40 000 0</td>
 <td>– эскалаторлар мен жаяу адамдарға арнaлғaн қозғалмалы жолдар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8428 60 000 0</td>
 <td>– жолаушылар және жүк тасымалдауға арналған аспалы жолдар, шаңғы көтергiштерi; фуникулерлерге арналған тарту механизмдерi</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8429 11 001 0</td>
 <td>– – – қуаты 250 а.к. астам</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8429 11 009 0</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8429 19 000 1</td>
 <td>– – – қуаты 400 а.к. тең және одан астам дөңгелекті бульдозерлер</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8429 19 000 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8429 20 001 0</td>
+<td>– – қуаты 350 а.к. тең және одан астам грейдерлер</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8429 20 009 9</td>
 <td>– – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8429 30 000 0</td>
 <td>– скреперлер</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8429 40 100 0</td>
 <td>– – – вибрациялық</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8429 40 300 0</td>
 <td>– – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8429 40 900 0</td>
 <td>– – тығыздағыш машиналар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8429 51 910 0</td>
@@ -9094,27 +11096,27 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8429 52 100 1</td>
 <td>– – – – шығарылған күнінен бір немесе одан көп жыл өткен гидравликалық</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8429 52 100 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8429 52 900 0</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8430 10 000 0</td>
 <td>– тiреуiштер қағуға және суырып алуға арналған жабдықтар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8430 20 000 0</td>
 <td>– соқалы және роторлы қap тазартқыштар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8430 50 000 2</td>
@@ -9129,57 +11131,77 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8430 69 000 1</td>
 <td>– – – батпақты немесе қарлы аудандарда жұмыс істеу үшін екі жетектейтін арбасы бар 4 шынжыр табанды машинаға қондыруға арналған топырақты өңдейтін машиналар мен тетіктер</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8430 69 000 2</td>
 <td>– – – скреперлер</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8430 69 000 3</td>
 <td>– – – шығарылған сәтінен бастап бір немесе одан астам жыл өткен, жылжымалы шассилерге қондыруға арналған гидравликалық экскаваторлардың толық бұрылатын платформалары</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8430 69 000 8</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8433 53 300 0</td>
 <td>– – – қызылша егісінде сабақ кескіш машиналар мен қызылша жинайтын машиналар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8433 59 850 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8462 21 100 3</td>
+<td>– – – – – әуе өнеркәсібі үшін металл табақтарды тарту (созу) және бекітілген формалы жабдықтардың сыртындағы табақтар үшін</td>
+<td>3,8</td>
+</tr>
+<tr>
+<td>8462 21 100 9</td>
+<td>– – – – – өзгелері</td>
+<td>3,8</td>
 </tr>
 <tr>
 <td>8462 49 100 0</td>
 <td>– – – табақты материалдан жасалған бұйымдарды өңдеу үшін</td>
-<td>6,7</td>
+<td>5</td>
+</tr>
+<tr>
+<td>8462 49 900 0</td>
+<td>– – – өзгелері</td>
+<td>6,3</td>
 </tr>
 <tr>
 <td>8462 99 200 9</td>
 <td>– – – – өзгелері</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8462 99 800 2</td>
 <td>– – – – қысқыштар, бұрандалар, бұрамалар шығаруға арналған</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8462 99 800 9</td>
 <td>– – – – өзгелері</td>
-<td>6,7</td>
+<td>5</td>
+</tr>
+<tr>
+<td>8477 10 000 1</td>
+<td>– – ұштасу күші 2 200 т (22 000 кН) көп емес және шашу көлемі 28 200 см³ көп емес</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8479 89 300 0</td>
 <td>– – – гидравликалық жетегі бар ауыспалы шахта крепі</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 10 190 8</td>
@@ -9189,37 +11211,37 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8481 40 100 0</td>
 <td>– – шойыннан немесе болаттан құйылған</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 40 900 9</td>
 <td>– – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 110 0</td>
 <td>– – – араластырғыш арматура</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 190 0</td>
 <td>– – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 310 0</td>
 <td>– – – термостатикалық арматура</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 390 0</td>
-<td>– – – өзгелері</td>
-<td>1,7</td>
+<td>– – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 400 0</td>
 <td>– – пневматикалық шиналар мен камераларға арналған арматура</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 510 0</td>
@@ -9228,8 +11250,8 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>8481 80 599 0</td>
-<td>– – – – – өзгелері</td>
-<td>1,7</td>
+<td>– – – – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 610 0</td>
@@ -9239,12 +11261,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8481 80 639 0</td>
 <td>– – – – – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 690 0</td>
 <td>– – – – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 710 0</td>
@@ -9254,17 +11276,17 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8481 80 739 1</td>
 <td>– – – – – – – 8701-8705 тауарлық позициялардағы моторлы көлік құралдарын, олардың түйіндері мен агрегаттарын өнеркәсіптік құрастыруға арналған5)</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 739 9</td>
 <td>– – – – – – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 790 0</td>
 <td>– – – – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 819 9</td>
@@ -9274,102 +11296,122 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8481 80 850 8</td>
 <td>– – – – – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 870 0</td>
 <td>– – – – мембраналды арматура</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 80 990 7</td>
-<td>– – – – – – өзге</td>
-<td>1,7</td>
+<td>– – – – – – өзгесі</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8481 90 000 0</td>
 <td>– бөліктері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8483 10 210 8</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 10 250 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 10 290 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 10 500 0</td>
 <td>– – шарнирлі біліктер</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 10 950 0</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 30 320 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 30 380 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8483 40 210 0</td>
+<td>– – – цилиндрлі тіке тісті дөңгелектері мен геликоидальды тісті дөңгелектері бар</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8483 40 250 0</td>
+<td>– – – бұрамдықты берілістер</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8483 40 290 0</td>
+<td>– – – өзгелері</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 40 510 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 40 590 0</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 40 900 0</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 50 200 0</td>
 <td>– – шойыннан құйылған немесе болаттан құйылған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 50 800 0</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 60 200 0</td>
 <td>– – шойыннан құйылған немесе болаттан құйылған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 60 800 0</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 90 200 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8483 90 810 0</td>
 <td>– – – шойыннан құйылған немесе болаттан құйылған</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8483 90 890 9</td>
+<td>– – – – өзгелері</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8501 10 100 9</td>
@@ -9394,72 +11436,77 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8501 20 000 9</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8501 32 000 2</td>
-<td>– – – – – өзгелері</td>
-<td>3</td>
+<td>– – – – өзгелері</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8501 33 000 2</td>
-<td>– – – – номиналды шығыс қуаты 75 кВт-тан астам, бірақ 100 кВт-тан аспайтын тұрақты ток қозғалтқыштары</td>
-<td>3</td>
+<td>– – – – номиналды шығыс қуаты 75 кВт астам, бірақ 100 кВт аспайтын тұрақты ток қозғалтқыштары</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8501 40 200 4</td>
 <td>– – – – – өзгелері</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8501 40 800 2</td>
 <td>– – – – осінің айналу биіктігі 250 мм асинхронды</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>8501 51 000 1</td>
 <td>– – – асинхронды</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8501 52 200 1</td>
 <td>– – – – асинхронды</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8501 52 900 2</td>
+<td>– – – – – осінің айналу биіктігі 250 мм асинхронды</td>
+<td>7,5</td>
 </tr>
 <tr>
 <td>8504 10 200 0</td>
-<td>– – конденсатормен біріктірілген немесе біріктірілмеген индуктивтілік оруыштары мен дроссельдер</td>
-<td>3</td>
+<td>– – конденсатормен біріктірілген немесе біріктірілмеген индуктивтілік орауыштары мен дроссельдер</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8504 10 800 0</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8504 31 210 1</td>
-<td>– – – – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8504 31 290 1</td>
-<td>– – – – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8504 31 800 2</td>
-<td>– – – – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8504 32 000 1</td>
-<td>– – – азаматтық әуелік кемелерге арналған5)</td>
-<td>1,7</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8504 33 000 1</td>
-<td>– – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8505 19 900 0</td>
@@ -9468,148 +11515,163 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>8507 10 200 1</td>
-<td>– – – азаматтық авиацияға арналған</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8507 10 200 3</td>
-<td>– – – – салмағы 5 кг-нан астам</td>
+<td>– – – – салмағы 5 кг астам</td>
 <td>10</td>
 </tr>
 <tr>
 <td>8507 10 200 9</td>
 <td>– – – – өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8507 10 800 1</td>
-<td>– – – азаматтық авиацияға арналған</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8507 10 800 9</td>
 <td>– – – өзгелері</td>
-<td>16,7</td>
+<td>15</td>
+</tr>
+<tr>
+<td>8507 20 200 0</td>
+<td>– – сұйық электролитпен жұмыс істейтін</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8507 20 800 1</td>
 <td>– – – күш батареялары</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8507 20 800 8</td>
+<td>– – – өзгелері</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8507 30 800 0</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8507 40 000 0</td>
 <td>– никель-темір</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8508 19 000 9</td>
 <td>– – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8508 60 000 0</td>
 <td>– өзге де шаңсорғыштар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8508 70 000 9</td>
 <td>– – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8511 10 000 1</td>
 <td>– – жүргізушіні қоса алғанда, кемінде 20 адамды тасымалдауға арналған автобустардың қозғалтқыштарына арналған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 10 000 3</td>
-<td>– – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 10 000 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 20 000 1</td>
 <td>– – жүргізушіні қоса алғанда, кемінде 20 адамды тасымалдауға арналған автобустардың қозғалтқыштарына арналған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 20 000 2</td>
-<td>– – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 20 000 8</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 40 000 1</td>
 <td>– – жүргізушіні қоса алғанда, кемінде 20 адамды тасымалдауға арналған автобустардың қозғалтқыштарына арналған</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8511 40 000 2</td>
+<td>– – – 8701-8705 тауарлық позициялардағы моторлы көлік құралдарының, олардың тораптары мен агрегаттарын өнеркәсіптік жинауға арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 40 000 8</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 50 000 1</td>
 <td>– – жүргізушіні қоса алғанда, кемінде 20 адамды тасымалдауға арналған автобустардың қозғалтқыштарына арналған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 50 000 3</td>
-<td>– – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 50 000 8</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 80 000 2</td>
-<td>– – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8511 90 000 9</td>
 <td>– – – өзгелері</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8516 80 200 1</td>
-<td>– – – блоктарға жиналған және тек қана жай оқшауланған қаңқа мен электр жалғаулардан тұратын, азаматтық авиацияның мұздануға қарсы және мұзды еріту жүйелерінде қолданылатын</td>
-<td>3</td>
+<td>– – – блоктарға жиналған және тек қана жай оқшауланған қаңқа мен электр жалғаулардан тұратын, азаматтық әуе кемелерінің мұздануға қарсы және мұзды еріту жүйелерінде қолданылатын5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8518 10 950 0</td>
 <td>– – өзгелері</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8518 21 000 0</td>
 <td>– – корпусына орнатылған жалқы дауыс ұлғайтқыштар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8518 22 000 1</td>
-<td>– – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8518 22 000 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8518 29 950 0</td>
@@ -9619,97 +11681,132 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8518 30 950 0</td>
 <td>– – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8518 40 300 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8518 40 800 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8518 50 000 0</td>
 <td>– электр дыбыс күшейткіштері жинақталымдары</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8519 30 000 0</td>
+<td>– электройнаушы құрылғылар (дектер)</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8519 81 950 1</td>
-<td>– – – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8519 89 110 0</td>
 <td>– – – – 8519 20 қосалқы позициясына жататындардан басқа күйтабақ ойнатқыштар</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8519 89 900 1</td>
-<td>– – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8521 10 200 0</td>
 <td>– – ені 1,3 см-ден аспайтын таспаны пайдаланатын және таспа қозғалысының 50 мм/с-ден аспайтын жылдамдығымен жазу немесе көрсету жүргізуге мүмкіндік беретін</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8521 10 950 1</td>
-<td>– – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8523 29 390 8</td>
 <td>– – – – – – магнитті дискілер</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8523 49 310 0</td>
 <td>– – – – – диаметрі 6,5 см-ден аспайтын</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8523 49 390 0</td>
 <td>– – – – – диаметрі 6,5 см-ден асатын</td>
-<td>8,3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>8523 49 510 0</td>
+<td>– – – – – – әмбебап санды дискілер (DVD)</td>
+<td>0</td>
+</tr>
+<tr>
+<td>8523 49 590 0</td>
+<td>– – – – – – өзгелері</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8523 49 990 0</td>
-<td>– – өзгелері</td>
-<td>1,7</td>
+<td>– – – – өзгелері</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8523 51 990 0</td>
-<td>– – – өзгелері</td>
-<td>1,7</td>
+<td>– – – – өзгелері</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8523 80 990 0</td>
 <td>– – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8525 50 000 0</td>
 <td>– таратушы аппаратура</td>
-<td>1,7</td>
+<td>0</td>
+</tr>
+<tr>
+<td>8525 80 910 1</td>
+<td>– – – – лентасының ені 1,3 см көп емес, магнитті лентаға бейнежазатын немесе бейнелі үн шығаратын, лентасының қозғалыс жылдамдығы 50 мм/с көп емес, сол корпуста телевизиялық тарату камерасы бар жазуды немесе үш шығаруды жүзеге асыруға қабілетті аппаратура</td>
+<td>4</td>
+</tr>
+<tr>
+<td>8525 80 990 1</td>
+<td>– – – – лентасының ені 1,3 см көп емес, магнитті лентаға бейнежазатын немесе бейнелі үн шығаратын, лентасының қозғалыс жылдамдығы 50 мм/с көп емес, сол корпуста телевизиялық тарату камерасы бар жазуды немесе үш шығаруды жүзеге асыруға қабілетті аппаратура</td>
+<td>4</td>
+</tr>
+<tr>
+<td>8525 80 990 9</td>
+<td>– – – – өзгелері</td>
+<td>4</td>
+</tr>
+<tr>
+<td>8526 10 000 9</td>
+<td>– – өзгесі</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8526 91 200 0</td>
 <td>– – – радионавигациялық қабылдағыштар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8526 91 800 0</td>
-<td>– – – өзгелері</td>
-<td>3</td>
+<td>– – – өзгесі</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8526 92 000 8</td>
-<td>– – – өзге</td>
-<td>3</td>
+<td>– – – өзгесі</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8528 71 110 0</td>
@@ -9719,267 +11816,292 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8528 72 200 1</td>
 <td>– – – – сұйық кристалды немесе плазмалы экранды</td>
-<td>15,3</td>
+<td>13</td>
 </tr>
 <tr>
 <td>8528 72 300 1</td>
-<td>– – – – – – – экран диагоналының өлшемі 42 см-ден аспайтын</td>
+<td>– – – – – экран диагоналының өлшемі 42 см-ден аспайтын</td>
 <td>12</td>
 </tr>
 <tr>
 <td>8528 72 300 2</td>
-<td>– – – – – – – экран диагоналының өлшемі 42 см-ден асатын, бірақ 52 см-ден аспайтын</td>
-<td>13,3</td>
+<td>– – – – – экран диагоналының өлшемі 42 см-ден асатын, бірақ 52 см-ден аспайтын</td>
+<td>10</td>
+</tr>
+<tr>
+<td>8528 72 300 3</td>
+<td>– – – – – экран диагоналының өлшемі 52 см-ден асатын, бірақ 72 см-ден аспайтын</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8528 72 300 9</td>
-<td>– – – – – – – өзгелері</td>
-<td>12</td>
+<td>– – – – – өзгесі</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8528 73 000 0</td>
 <td>– – өзге де монохромды бейнелі</td>
-<td>13,3, бірақ 1 дана 6,67 евродан кем емес</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8529 90 410 0</td>
 <td>– – – – ағаштан жасалған</td>
-<td>3,3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>8531 10 300 0</td>
+<td>– – ғимараттарда пайдаланылатын</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8535 29 000 0</td>
 <td>– – өзгелері</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8535 30 100 0</td>
 <td>– – 72,5 кВ-тан аз кернеуге арналған</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8535 30 900 1</td>
-<td>– – – сыртқы аппаратурларды қосу үшін арналған тесіктерді бітеумен монтажды ернемектектеудің екеуден кем емесін құрайтын алюминия қорытпасындағы корпусында 110 кВ-тан кем емес, бірақ 550 кВ-тан көп емес кернеуге арналған элегазды ажыратқыш, яғни ең көп дегенде монтажды ернемектектеудің бірі ортасы 330 мм-ден кем емес, бірақ 680 мм-ден аспайтын шеңберлі диаметріне орналастырылған тесіктерін бітеуін құрайды</td>
-<td>6,7</td>
+<td>– – – сыртқы аппаратураны қосуға арналған бекіту тесіктері бар монтажды ернеудің кемінде екеуін құрайтын алюминий қорытпасының корпусында кемінде 110 кВ , бірақ 550 кВ көп емес кернеуге арналған элегазды ажыратқыштар, мұнда, ең көп дегенде, монтажды ернеудің біреуінде ортасы 330 мм кем емес, бірақ 680 мм аспайтын шеңберлі диаметрге орналастырылған бекіту тесіктері болады</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8535 30 900 2</td>
-<td>– – – сыртқы аппаратурларды қосу үшін арналған тесіктерді бітеумен монтажды ернемектектеудің екеуден кем емесін құрайтын алюминия қорытпасындағы корпусында 110 кВ-тан кем емес, бірақ 550 кВ-тан көп емес кернеуге арналған элегазды айырғыш-жерлендіргіш, яғни ең көп дегенде монтажды ернемектектеудің екеуден ортасы 330 мм-ден кем емес, бірақ 680 мм-ден аспайтын шеңберлі диаметріне орналастырылған тесіктерін бітеуін құрайды</td>
-<td>6,7</td>
+<td>– – – сыртқы аппаратураны қосуға арналған бекіту тесіктері бар монтажды ернеудің кемінде екеуін құрайтын алюминий қорытпасының корпусында кемінде 110 кВ , бірақ 550 кВ көп емес кернеуге арналған элегазды айырғыш-жерлендіргіш, мұнда, ең көп дегенде, монтажды ернеудің екеуінде ортасы 330 мм кем емес, бірақ 680 мм аспайтын шеңберлі диаметрге орналастырылған бекіту тесіктері болады</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8535 30 900 3</td>
-<td>– – – алюминия қорытпасындағы корпусында 110 кВ-тан кем емес, бірақ 550 кВ-тан көп емес кернеуге арналған элегазды жерлендіргіш, құрамында ең дегенде ортасы 330 мм-ден кем емес, бірақ 680 мм-ден аспайтын шеңберлі диаметріне орналастырылған сыртқы аппаратурларды қосу үшін арналған тесіктерді бітеумен монтажды ернемектектеудің екеуден кем емесі</td>
-<td>6,7</td>
+<td>– – – сыртқы аппаратураны қосуға арналған бекіту тесіктері бар монтажды ернеудің кемінде екеуін құрайтын алюминий қорытпасының корпусында кемінде 110 кВ , бірақ 550 кВ көп емес кернеуге арналған элегазды жерлендіргіш, ортасы 330 мм кем емес, бірақ 680 мм аспайтын шеңберлі диаметрге орналастырылған бекіту тесіктері бар</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8535 30 900 9</td>
 <td>– – – өзгелері</td>
-<td>6,7</td>
+<td>5</td>
+</tr>
+<tr>
+<td>8535 40 000 0</td>
+<td>– жайтартқыштар, кернеу шектегіштер және кернеу секірісін сөндірушілер</td>
+<td>10</td>
+</tr>
+<tr>
+<td>8535 90 000 1</td>
+<td>– – сыртқы аппаратураны бекітілген тесіктермен қосу үшін құймасы бар корпуста қысымы 110 кВ кем емес, 550 кВ көп емес бір немесе бірнеше электродты өтпелі оқшаулағыштар, олардың орталықтары диаметрі 330 мм кем емес, бірақ 680 мм көп емес айналымда орналасқан</td>
+<td>7,5</td>
+</tr>
+<tr>
+<td>8535 90 000 9</td>
+<td>– – өзгелері</td>
+<td>7,5</td>
 </tr>
 <tr>
 <td>8536 10 100 0</td>
-<td>– – 10 А-дан аспайтын ток күшіне арналған</td>
-<td>6,7</td>
+<td>– – 10 А-ден аспайтын ток күшіне арналған</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 10 500 0</td>
 <td>– – 10 А-дан асатын, бірақ 63 А-дан аспайтын ток күшіне арналған</td>
-<td>8</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 10 900 0</td>
 <td>– – 63 А-дан асатын ток күшіне арналған</td>
-<td>8</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 20 100 8</td>
 <td>– – – өзгелері</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 20 900 8</td>
 <td>– – – өзгелері</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 30 100 0</td>
-<td>– – 16 А-дан аспайтын ток күшіне арналған</td>
-<td>6,7</td>
+<td>– – 16 А-ден аспайтын ток күшіне арналған</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 30 300 0</td>
-<td>– – 16 А-дан асатын, бірақ 125 А-дан аспайтын ток күшіне арналған</td>
-<td>6,7</td>
+<td>– – 16 А-ден асатын, бірақ 125 А-ден аспайтын ток күшіне арналған</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 30 900 0</td>
-<td>– – 125 А-дан асатын ток күшіне арналған</td>
-<td>6,7</td>
+<td>– – 125 А-ден асатын ток күшіне арналған</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 41 100 0</td>
-<td>– – – 2 А-дан аспайтын ток күшіне арналған</td>
-<td>6,7</td>
+<td>– – – 2 А-ден аспайтын ток күшіне арналған</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 41 900 0</td>
-<td>– – – 2 А-дан асатын ток күшіне арналған</td>
-<td>6,7</td>
+<td>– – – 2 А-ден асатын ток күшіне арналған</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 49 000 0</td>
 <td>– – өзгелері</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 50 110 9</td>
 <td>– – – – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8536 50 150 9</td>
 <td>– – – – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8536 50 190 7</td>
 <td>– – – – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8536 50 800 0</td>
 <td>– – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8536 61 100 0</td>
 <td>– – – қыздырғыш шамдарға арналған патрондар</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 61 900 0</td>
 <td>– – – өзгелері</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8536 69 900 8</td>
 <td>– – – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8536 90 010 0</td>
-<td>– – электр тізбектеріне арналып алдын–ала құрастырылған элементтер</td>
-<td>1,7</td>
+<td>– – электр тізбектеріне арналып алдын-ала құрастырылған элементтер</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8539 10 000 1</td>
-<td>– – азаматтық авиацияға арналған</td>
-<td>3</td>
+<td>– – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8539 10 000 9</td>
 <td>– – өзгелері</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8539 41 000 0</td>
 <td>– – доғалық шамдар</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8539 49 000 0</td>
-<td>– – өзгелері:</td>
-<td>11,7</td>
+<td>– – өзгелері</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8543 70 300 9</td>
 <td>– – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8543 70 500 1</td>
 <td>– – – ультракүлгін (А) сәулелі люминесцентті түтікті шамдарға арналған солярийлер</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8543 70 500 9</td>
 <td>– – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8544 30 000 3</td>
-<td>– – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8544 30 000 7</td>
 <td>– – – өзгелері</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8544 42 900 7</td>
 <td>– – – – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8544 42 900 9</td>
 <td>– – – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8544 49 910 1</td>
-<td>– – – – – 80 В-тан аспайтын кернеуге</td>
-<td>1,7</td>
+<td>– – – – – 80В аспайтын кернеуге</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8544 49 930 1</td>
-<td>– – – – – – 8701 – 8705 тауарлық позициялардағы моторлы көлік құралдарын, олардың түйіндері мен агрегаттарын өнеркәсіптік құрастыруға арналған</td>
-<td>1,7</td>
+<td>– – – – – – 8701 - 8705 тауарлық позициялардағы моторлы көлік құралдарын, олардың тораптары мен агрегаттарын өнеркәсіптік құрастыруға арналған</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8544 49 930 9</td>
 <td>– – – – – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8605 00 000 2</td>
-<td>– ең үлкен пайдалану жылдамдығы 140 км/сағ кем емес, бірақ 250 км/сағ кем темір жол электр поездарының құрамында қозғалуға арналған</td>
-<td>8</td>
+<td>– ең үлкен пайдалану жылдамдығы кемінде 140 км/сағ , бірақ 250 км/сағ кем темір жол электр поездарының құрамында қозғалуға арналған</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8605 00 000 3</td>
-<td>– – жолаушыларға арналған жатаржай орындарымен жабдықталған, ось бойынша буферлері 26400 мм, кузовтің (гофрсіз) сыртқы ені 2825 мм, арбашалардың бұрылу осьтарының аралық қашықтығы 19000 мм болатын жолаушыларды тасуға арналған темір жол вагондері</td>
-<td>8</td>
+<td>– – жолаушыларға арналған жатаржай орындарымен жабдықталған, ось бойынша буферлері 26400 мм, кузовтың (гофрсіз) сыртқы ені 2825 мм, арбашалардың бұрылу осьтерінің аралық қашықтығы 19000 мм болатын жолаушыларды тасуға арналған темір жол вагондары</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8605 00 000 5</td>
-<td>– – – жоғарғы пайдалану жылдамдағы сағатына 200 км кем емес қозғалыс үшін арналған екі өз еркімен айналатын дөңгелектер бір дөңгелекті блогы бар, вагондар-мейрамхана, вагондар-буфеттерді қосқандағы теміржол жолаушылар вагондары</td>
-<td>8</td>
+<td>– – – жоғарғы пайдалану жылдамдағы кемінде 200 км/сағ қозғалысына арналған екі өз еркімен айналатын доңғалақтары бар бір доңғалақты блогы бар, вагондар-мейрамханаларды, вагондар-буфеттерді қоса алғанда, теміржол жолаушылар вагондары</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8605 00 000 6</td>
-<td>– – – жоғарғы пайдалану жылдамдағы сағатына 200 км кем емес қозғалыс үшін арналған екі өз еркімен айналатын дөңгелектер екі дөңгелекті блогы бар, жабдықтар одан басқа өзгеде дизель-генераторлы қондыру, аккумуляторларлы батареялалар, компрессорлы қондыру жолаушылар пойызын теміржол техникалық қамтамасыз ету вагондары</td>
-<td>8</td>
+<td>– – – жоғарғы пайдалану жылдамдағы кемінде 200 км/сағ қозғалысына арналған әрқайсысында өз еркімен айналатын екі доңғалағы бар, ең көбі екі доңғалақты блогы бар, өзгелерін қоспағанда, дизельді-генераторлы қондырғымен, аккумуляторлы батареялармен, компрессорлы қондырғымен жабдықталған жолаушылар пойызын техникалық қамтамасыз ететін теміржол вагондары</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8605 00 000 8</td>
-<td>– – өзгелері</td>
-<td>8</td>
+<td>– – – өзгелері</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8606 99 000 0</td>
 <td>– – өзгелері</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>8609 00 900 1</td>
 <td>– – ішкі көлемі 42 м3-ден 43 м3-ге дейінгі контейнерлер</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8609 00 900 9</td>
 <td>– – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>8701 20 109 0</td>
@@ -9992,109 +12114,99 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>10</td>
 </tr>
 <tr>
-<td>8701 20 901 5</td>
-<td>– – – – шығарылған уақытынан бастап 5 жылдан асатын, бірақ 7 жылдан аспайтын уақыт өткен</td>
-<td>10 6</td>
-</tr>
-<tr>
 <td>8701 30 000 9</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8701 91 100 0</td>
 <td>– – – – жаңалары</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 91 500 0</td>
 <td>– – – – бұрын пайдаланылғандар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 91 900 0</td>
 <td>– – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 92 100 0</td>
 <td>– – – – жаңалары</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 92 500 0</td>
 <td>– – – – бұрын пайдаланылғандар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 92 900 0</td>
 <td>– – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 93 100 0</td>
 <td>– – – – жаңа</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 93 500 0</td>
 <td>– – – – бұрын пайдаланылғандар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 93 900 0</td>
 <td>– – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 94 100 1</td>
 <td>– – – – – орман шаруашылығына арналған тіркемелі тракторлар (скиддерлер), доңғалақты, жаңа, қозғалтқышының куаты 90 кВт-тан астам, 130 кВт-тан аспайтын</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 94 100 9</td>
 <td>– – – – – өзгелері</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8701 94 500 0</td>
 <td>– – – – бұрын пайдаланылғандар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 94 900 0</td>
 <td>– – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 95 100 1</td>
 <td>– – – – – орман шаруашылығына арналған тіркемелі тракторлар (скиддерлер), доңғалақты, жаңа, қозғалтқышының куаты 130 кВт-тан астам</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 95 100 9</td>
 <td>– – – – – өзгелері</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8701 95 500 0</td>
 <td>– – – – бұрын пайдаланылғандар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8701 95 900 0</td>
 <td>– – – өзгелері</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8702 10 192 3</td>
 <td>– – – – – шығарылған уақытынан бастап 7 жылдан астам уақыт өткен</td>
-<td>13</td>
-</tr>
-<tr>
-<td>8702 10 192 4</td>
-<td>– – – – – шығарылған уақытынан бастап 5 жылдан асатын, бірақ 7 жылдан аспайтын уақыт өткен</td>
-<td>106</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 10 199 4</td>
@@ -10108,7 +12220,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>8702 10 199 6</td>
-<td>– – – – – – 4 экологиялық класты немесе одан жоғары, габариттік ұзындығы 11,5 м кем емес, жүргізушіні қосқанда 41-ден кем емес отыратын орындары бар, жол жүгін тиейтін бөлігінің көлемі 5 м3 кем емес және тек қана отырған жолаушылар мен олардың жол жүгін тасымалдауға арналған</td>
+<td>– – – – – – 4 экологиялық класты немесе одан жоғары7), габариттік ұзындығы кемінде 11,5 м , жүргізушіні қосқанда кемінде 41 отыратын орны бар, жол жүгін тиейтін бөлігінің көлемі 5 м3 кем емес және тек қана отырған жолаушылар мен олардың жол жүгін тасымалдауға арналған</td>
 <td>15</td>
 </tr>
 <tr>
@@ -10119,27 +12231,22 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8702 10 999 3</td>
 <td>– – – – – шығарылған уақытынан бастап 7 жылдан астам уақыт өткен</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 10 999 4</td>
 <td>– – – – – шығарылған уақытынан бастап 5 жылдан асатын, бірақ 7 жылдан аспайтын уақыт өткен</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 10 999 8</td>
 <td>– – – – – – өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 20 192 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>13</td>
-</tr>
-<tr>
-<td>8702 20 192 3</td>
-<td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>10 6</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 20 199 1</td>
@@ -10164,112 +12271,107 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8702 20 999 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 20 999 3</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 20 999 8</td>
 <td>– – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 30 119 1</td>
 <td>– – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8702 30 192 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 30 199 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 30 199 3</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 30 199 8</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 30 919 1</td>
 <td>– – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 30 999 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 30 999 3</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 30 999 8</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 90 119 0</td>
 <td>– – – – – өзгелері</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8702 90 192 3</td>
 <td>– – – – – – шығарылған уақытынан бастап 7 жылдан астам уақыт өткен</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 90 199 4</td>
 <td>– – – – – – шығарылған уақытынан бастап 7 жылдан астам уақыт өткен</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 90 199 5</td>
 <td>– – – – – – шығарылған уақытынан бастап 5 жылдан асатын, бірақ 7 жылдан аспайтын уақыт өткен</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 90 199 8</td>
 <td>– – – – – – өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 90 319 0</td>
 <td>– – – – – өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 90 399 3</td>
 <td>– – – – – – шығарылған уақытынан бастап 7 жылдан астам уақыт өткен</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 90 399 4</td>
 <td>– – – – – – шығарылған уақытынан бастап 5 жылдан асатын, бірақ 7 жылдан аспайтын уақыт өткен</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8702 90 399 8</td>
 <td>– – – – – – өзгелері</td>
-<td>13</td>
-</tr>
-<tr>
-<td>8703 21 109 1</td>
-<td>– – – – – төрт дөңгелекті жолдан тыс мүмкіндіктер екі немесе төрт жүргізуші дөңгелектер моторлы көлік құралдары, мотоциклды (отыратын) түрлі орындықпен, екі алдыңғы дөңгелекті қолмен басқару тұтқасыжолсыздыққа арналған шинилармен жабдықталған, артқа жүруді қамтамассыз ететін трансмиссиясыны автоматты түрде немесе қолымен басқарылатын</td>
-<td>5 6</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8703 21 109 9</td>
@@ -10279,17 +12381,17 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 21 909 3</td>
 <td>– – – – – шығарылған уақытынан бастап 7 жылдан астам уақыт өткен автомобильдер</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 21 909 4</td>
 <td>– – – – – шығарылған уақытынан бастап 5 жылдан асатын, бірақ 7 жылдан аспайтын уақыт өткен</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 21 909 8</td>
-<td>– – өзгелері</td>
-<td>18</td>
+<td>– – – – – өзгелері</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 22 109 1</td>
@@ -10304,87 +12406,72 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 22 909 3</td>
 <td>– – – – – шығарылған уақытынан бастап 7 жылдан астам уақыт өткен автомобильдер</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 22 909 4</td>
 <td>– – – – – шығарылған уақытынан бастап 5 жылдан асатын, бірақ 7 жылдан аспайтын уақыт өткен</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 22 909 8</td>
 <td>– – – – – өзгелері</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 23 110 0</td>
 <td>– – – – тұруға арналып жабдықталған моторлы көлік құралдары</td>
-<td>13</td>
-</tr>
-<tr>
-<td>8703 23 194 0</td>
-<td>– – – – – – қозғалтқыш цилиндрінің жұмыс көлемі 1500 см³ астам, бірақ 1800 см³ көп емес</td>
-<td>18</td>
-</tr>
-<tr>
-<td>8703 23 198 1</td>
-<td>– – – – – – – қозғалтқыш цилиндрінің жұмыс көлемі 1800 см³ астам, бірақ 2300 см³ көп емес</td>
-<td>18</td>
-</tr>
-<tr>
-<td>8703 23 198 9</td>
-<td>– – – – – – – өзгелері</td>
-<td>18</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8703 23 904 1</td>
 <td>– – – – – – шығарылған кезінен бастап 7 жыл өткен автомобильдер</td>
-<td>қозғалтқыш көлемінің 1 см3 үшін 0,57 евро, бірақ 19,8-тен кем емес және 21-ден көп емес</td>
+<td>қозғалтқыш көлемінің 1 см3 үшін 0,54 евро, бірақ 18,2-тен кем емес және 20-ден көп емес</td>
 </tr>
 <tr>
 <td>8703 23 904 2</td>
 <td>– – – – – – шығарылған кезінен бастап 5 жыл өткен, бірақ 7 жылдан аспаған автомобильдер</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 23 904 9</td>
 <td>– – – – – – өзгелері</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 23 908 1</td>
 <td>– – – – – – – шығарылған кезінен бастап 7 жыл өткен автомобильдер</td>
-<td>қозғалтқыш көлемінің 1 см3 үшін 0,57 евро, бірақ 19,8-тен кем емес және 21-ден көп емес</td>
+<td>қозғалтқыш көлемінің 1 см3 үшін 0,54 евро, бірақ 18,2-тен кем емес және 20-ден көп емес</td>
 </tr>
 <tr>
 <td>8703 23 908 2</td>
 <td>– – – – – – – шығарылған кезінен бастап 5 жыл өткен, бірақ 7 жылдан аспаған автомобильдер</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 23 908 3</td>
 <td>– – – – – – – өзгелері</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 23 908 7</td>
 <td>– – – – – – – шығарылған кезінен бастап 7 жыл өткен автомобильдер</td>
-<td>қозғалтқыш көлемінің 1 см3 үшін 0,57 евро, бірақ 19,8-тен кем емес және 21-ден көп емес</td>
+<td>қозғалтқыш көлемінің 1 см3 үшін 0,54 евро, бірақ 18,2-тен кем емес және 20-ден көп емес</td>
 </tr>
 <tr>
 <td>8703 23 908 8</td>
 <td>– – – – – – – шығарылған кезінен бастап 5 жыл өткен, бірақ 7 жылдан аспаған автомобильдер</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 23 908 9</td>
 <td>– – – – – – – өзгелері</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 24 109 1</td>
-<td>– – – – – 4200 см3 астам, қозғалтқыш цилиндрінің жұмыс көлемімен жүріп өту мүмкіндігі жоғары автомобиль, атауы осы топтағы Еуразиялық экономикалық одақтың қосымша 6-түсіндірмесінде</td>
-<td>13,3</td>
+<td>– – – – – 4200 см3 астам, қозғалтқыш цилиндрінің жұмыс көлемімен жүріп өту мүмкіндігі жоғары автомобиль, атауы осы топтағы Еуразиялық экономикалық одақтың қосымша 6- ескертуінде</td>
+<td>11,7 7</td>
 </tr>
 <tr>
 <td>8703 24 109 9</td>
@@ -10394,37 +12481,32 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 24 909 3</td>
 <td>– – – – – шығарылған уақытынан бастап 7 жылдан астам уақыт өткен автомобильдер</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 24 909 4</td>
 <td>– – – – – шығарылған уақытынан бастап 5 жылдан асатын, бірақ 7 жылдан аспайтын уақыт өткен</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 24 909 8</td>
-<td>– – – өзгелері</td>
-<td>18</td>
-</tr>
-<tr>
-<td>8703 31 109 0</td>
-<td>– – – өзгелері</td>
-<td>18</td>
+<td>– – – – – өзгелері</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 31 909 3</td>
 <td>– – – – – шығарылған уақытынан бастап 7 жылдан астам уақыт өткен автомобильдер</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 31 909 4</td>
 <td>– – – – – шығарылған уақытынан бастап 5 жылдан асатын, бірақ 7 жылдан аспайтын уақыт өткен</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 31 909 8</td>
-<td>– – – өзгелері</td>
-<td>18</td>
+<td>– – – – – өзгелері</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 32 110 0</td>
@@ -10433,27 +12515,27 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>8703 32 199 0</td>
-<td>– – – – өзгелері</td>
+<td>– – – – – өзгелері</td>
 <td>15</td>
 </tr>
 <tr>
 <td>8703 32 909 3</td>
 <td>– – – – – шығарылған уақытынан бастап 7 жылдан астам уақыт өткен автомобильдер</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 32 909 4</td>
 <td>– – – – – шығарылған уақытынан бастап 5 жылдан асатын, бірақ 7 жылдан аспайтын уақыт өткен</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 32 909 8</td>
 <td>– – – – – өзгелері</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 33 110 0</td>
-<td>– – – – – тұруға арналып жабдықталған моторлы көлік құралдары</td>
+<td>– – – – тұруға арналып жабдықталған моторлы көлік құралдары</td>
 <td>15</td>
 </tr>
 <tr>
@@ -10464,27 +12546,22 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 33 909 3</td>
 <td>– – – – – шығарылған уақытынан бастап 7 жылдан астам уақыт өткен автомобильдер</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 33 909 4</td>
 <td>– – – – – шығарылған уақытынан бастап 5 жылдан асатын, бірақ 7 жылдан аспайтын автомобильдер</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 33 909 8</td>
-<td>– – – – өзгелері</td>
-<td>18</td>
-</tr>
-<tr>
-<td>8703 40 109 1</td>
-<td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>5 6</td>
+<td>– – – – – өзгелері</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 109 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 109 8</td>
@@ -10494,37 +12571,37 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 40 109 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 209 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 40 209 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 209 3</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 209 4</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 209 8</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 209 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 309 1</td>
@@ -10534,7 +12611,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 40 309 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 309 8</td>
@@ -10544,177 +12621,162 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 40 309 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 409 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 40 409 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 409 3</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 409 4</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 409 8</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 409 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 510 1</td>
 <td>– – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8703 40 510 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 40 592 1</td>
-<td>– – – – – – – іштен қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 592 9</td>
 <td>– – – – – – – өзгелері</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 40 599 1</td>
-<td>– – – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 599 2</td>
 <td>– – – – – – – – өзгелері</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 40 599 8</td>
-<td>– – – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 599 9</td>
 <td>– – – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 602 1</td>
 <td>– – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>қозғалтқыш көлемінің 1 см3 үшін 0,57 евро, бірақ 19,8-тен кем емес және 21-ден көп емес</td>
+<td>қозғалтқыш көлемінің 1 см3 үшін 0,54 евро, бірақ 18,2-тен кем емес және 20-ден көп емес</td>
 </tr>
 <tr>
 <td>8703 40 602 2</td>
 <td>– – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 602 3</td>
 <td>– – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 602 4</td>
 <td>– – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 602 8</td>
 <td>– – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 602 9</td>
 <td>– – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 603 1</td>
 <td>– – – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>қозғалтқыш көлемінің 1 см3 үшін 0,57 евро, бірақ 19,8-тен кем емес және 21-ден көп емес</td>
+<td>қозғалтқыш көлемінің 1 см3 үшін 0,54 евро, бірақ 18,2-тен кем емес және 20-ден көп емес</td>
 </tr>
 <tr>
 <td>8703 40 603 2</td>
 <td>– – – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 603 3</td>
 <td>– – – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 603 4</td>
 <td>– – – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 603 8</td>
 <td>– – – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 603 9</td>
 <td>– – – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 609 1</td>
 <td>– – – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>қозғалтқыш көлемінің 1 см3 үшін 0,57 евро, бірақ 19,8-тен кем емес және 21-ден көп емес</td>
+<td>қозғалтқыш көлемінің 1 см3 үшін 0,54 евро, бірақ 18,2-тен кем емес және 20-ден көп емес</td>
 </tr>
 <tr>
 <td>8703 40 609 2</td>
 <td>– – – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 609 3</td>
 <td>– – – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 609 4</td>
 <td>– – – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 609 8</td>
 <td>– – – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 609 9</td>
 <td>– – – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 709 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>13,3</td>
+<td>11,7 7</td>
 </tr>
 <tr>
 <td>8703 40 709 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 709 8</td>
@@ -10724,77 +12786,72 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 40 709 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 809 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 40 809 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 809 3</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 809 4</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 40 809 8</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 40 809 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 50 109 1</td>
-<td>– – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 109 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 209 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 50 209 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 209 3</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 50 209 4</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 209 8</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 50 209 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 310 1</td>
@@ -10804,7 +12861,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 50 310 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 399 1</td>
@@ -10814,37 +12871,37 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 50 399 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 409 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 50 409 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 409 3</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 50 409 4</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 409 8</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 50 409 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 510 1</td>
@@ -10854,7 +12911,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 50 510 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 599 1</td>
@@ -10864,47 +12921,42 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 50 599 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 609 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 50 609 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 609 3</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 50 609 4</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 50 609 8</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 50 609 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 60 109 1</td>
-<td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>5 6</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 109 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 109 8</td>
@@ -10914,37 +12966,37 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 60 109 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 209 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 60 209 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 209 3</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 209 4</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 209 8</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 209 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 309 1</td>
@@ -10954,7 +13006,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 60 309 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 309 8</td>
@@ -10964,177 +13016,162 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 60 309 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 409 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 60 409 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 409 3</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 409 4</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 409 8</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 409 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 510 1</td>
 <td>– – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8703 60 510 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 60 592 1</td>
-<td>– – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 592 9</td>
 <td>– – – – – – – өзгелері</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 60 599 1</td>
-<td>– – – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 599 2</td>
 <td>– – – – – – – – өзгелері</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 60 599 8</td>
-<td>– – – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 599 9</td>
 <td>– – – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 602 1</td>
 <td>– – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>қозғалтқыш көлемінің 1 см3 үшін 0,57 евро, бірақ 19,8-тен кем емес және 21-ден көп емес</td>
+<td>қозғалтқыш көлемінің 1 см3 үшін 0,54 евро, бірақ 18,2-тен кем емес және 20-ден көп емес</td>
 </tr>
 <tr>
 <td>8703 60 602 2</td>
 <td>– – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 602 3</td>
 <td>– – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 602 4</td>
 <td>– – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 602 8</td>
 <td>– – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 602 9</td>
 <td>– – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 603 1</td>
 <td>– – – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>қозғалтқыш көлемінің 1 см3 үшін 0,57 евро, бірақ 19,8-тен кем емес және 21-ден көп емес</td>
+<td>қозғалтқыш көлемінің 1 см3 үшін 0,54 евро, бірақ 18,2-тен кем емес және 20-ден көп емес</td>
 </tr>
 <tr>
 <td>8703 60 603 2</td>
 <td>– – – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 603 3</td>
 <td>– – – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 603 4</td>
 <td>– – – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 603 8</td>
 <td>– – – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 603 9</td>
 <td>– – – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 609 1</td>
 <td>– – – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>қозғалтқыш көлемінің 1 см3 үшін 0,57 евро, бірақ 19,8-тен кем емес және 21-ден көп емес</td>
+<td>қозғалтқыш көлемінің 1 см3 үшін 0,54 евро, бірақ 18,2-тен кем емес және 20-ден көп емес</td>
 </tr>
 <tr>
 <td>8703 60 609 2</td>
 <td>– – – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 609 3</td>
 <td>– – – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 609 4</td>
 <td>– – – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 609 8</td>
 <td>– – – – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 609 9</td>
 <td>– – – – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 709 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>13,3</td>
+<td>11,7 7</td>
 </tr>
 <tr>
 <td>8703 60 709 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 709 8</td>
@@ -11144,77 +13181,72 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 60 709 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 809 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 60 809 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 809 3</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 809 4</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 60 809 8</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 60 809 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
-</tr>
-<tr>
-<td>8703 70 109 1</td>
-<td>– – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 109 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 209 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 70 209 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 209 3</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 70 209 4</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 209 8</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 70 209 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 310 1</td>
@@ -11224,7 +13256,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 70 310 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 399 1</td>
@@ -11234,37 +13266,37 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 70 399 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 409 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 70 409 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 409 3</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 70 409 4</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 409 8</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 70 409 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 510 1</td>
@@ -11274,7 +13306,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 70 510 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 599 1</td>
@@ -11284,87 +13316,87 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8703 70 599 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 609 1</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>21, қозғалтқыш көлемінің 1 см3 үшін 0,72 евродан кем емес</td>
+<td>19, қозғалтқыш көлемінің 1 см3 үшін 0,68 евродан кем емес</td>
 </tr>
 <tr>
 <td>8703 70 609 2</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 609 3</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 70 609 4</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 70 609 8</td>
 <td>– – – – – – іштен жану қозғалтқыштарының қуаты электр қозғалтқышының 30 минуттық ең жоғары қуатынан көп</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8703 70 609 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 80 000 2</td>
 <td>– – – M1 немесе M1G санатындағы жеңіл автомобильдер</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 80 000 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8703 90 009 0</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8704 10 101 9</td>
+<td>– – – – өзгелері</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8704 10 102 2</td>
-<td>– – – – осьтерінің саны екіден аспайтын</td>
-<td>3</td>
+<td>– – – – – осьтерінің саны екіден аспайтын</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8704 10 102 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8704 10 108 0</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8704 10 900 0</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8704 21 390 3</td>
 <td>– – – – – – шығарылған уақытынан бастап 7 жылдан астам уақыт өткен</td>
-<td>13</td>
-</tr>
-<tr>
-<td>8704 21 390 4</td>
-<td>– – – – – – шығарылған уақытынан бастап 5 жылдан асатын, бірақ 7 жылдан аспайтын уақыт өткен</td>
-<td>10 6</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8704 21 990 3</td>
 <td>– – – – – – шығарылған уақытынан бастап 7 жылдан астам уақыт өткен</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8704 21 990 4</td>
@@ -11374,17 +13406,17 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8704 22 100 0</td>
 <td>– – – жоғары радиоактивті материалдарды арнайы тасымалдауға арналған</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 22 910 8</td>
 <td>– – – – – өзгелері</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 22 990 4</td>
 <td>– – – – – – шығарылған уақытынан бастап 7 жылдан астам уақыт өткен</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 22 990 5</td>
@@ -11394,41 +13426,36 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8704 23 990 4</td>
 <td>– – – – – шығарылған уақытынан бастап 7 жылдан астам уақыт өткен</td>
-<td>11,7</td>
-</tr>
-<tr>
-<td>8704 23 990 5</td>
-<td>– – – – – шығарылған уақытынан бастап 5 жылдан асатын, бірақ 7 жылдан аспайтын уақыт өткен</td>
-<td>10 6</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 31 100 0</td>
 <td>– – – жоғары радиоактивті материалдарды арнаулы тасымалдауға арналған</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8704 31 310 0</td>
-<td>– – – – жаңа</td>
-<td>11,7</td>
+<td>– – – – – жаңа</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 31 390 3</td>
-<td>– – – – – шығарылған уақытынан бастап 7 жылдан астам уақыт өткен</td>
-<td>11,7</td>
+<td>– – – – – – шығарылған уақытынан бастап 7 жылдан астам уақыт өткен</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 31 390 4</td>
 <td>– – – – – – шығарылған уақытынан бастап 5 жылдан асатын, бірақ 7 жылдан аспайтын уақыт өткен</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 31 390 8</td>
-<td>– – – – – өзгелері</td>
-<td>11,7</td>
+<td>– – – – – – өзгелері</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 31 910 0</td>
-<td>– – – – жаңа</td>
+<td>– – – – – жаңа</td>
 <td>10</td>
 </tr>
 <tr>
@@ -11439,27 +13466,27 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8704 31 990 4</td>
 <td>– – – – – – шығарылған уақытынан бастап 5 жылдан асатын, бірақ 7 жылдан аспайтын уақыт өткен</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 31 990 8</td>
-<td>– – – – өзгелері</td>
-<td>11,7</td>
+<td>– – – – – – өзгелері</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 32 100 0</td>
 <td>– – – жоғары радиоактивті материалдарды арнаулы тасымалдауға арналған</td>
-<td>11,7</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 32 910 1</td>
-<td>– – – – – тиеу-түcipy құрылғыларымен жабдықталған, ағаштар жиналған жерден орман тиейтін бекетке дейін немесе орман таситын жолға дейін тасуға арналған («форвардер» тіпті) көлік құралдары</td>
-<td>11,7</td>
+<td>– – – – – тиеу-түcipy құрылғысымен жабдықталған, ағаштар жиналған жерден орман тиейтін бекетке дейін немесе ағаш таситын жолға дейін тасуға арналған («форвардер» типті) көлік құралдары</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 32 910 9</td>
-<td>– – – – өзгелері</td>
-<td>11,7</td>
+<td>– – – – – өзгелері</td>
+<td>10</td>
 </tr>
 <tr>
 <td>8704 32 990 4</td>
@@ -11469,42 +13496,47 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8705 10 009 1</td>
 <td>– – – жаңа</td>
-<td>9,2</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>8705 10 009 5</td>
-<td>– – – бұрын пайдаланылған:</td>
-<td>9,2</td>
+<td>– – – бұрын пайдаланылған</td>
+<td>8,8</td>
 </tr>
 <tr>
 <td>8705 30 000 5</td>
-<td>– – бұрын пайдаланылған:</td>
+<td>– – бұрын пайдаланылған</td>
 <td>5</td>
 </tr>
 <tr>
 <td>8705 40 000 1</td>
 <td>– – жаңа</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8705 40 000 5</td>
-<td>– – бұрын пайдаланылған:</td>
-<td>13</td>
+<td>– – бұрын пайдаланылған</td>
+<td>12</td>
+</tr>
+<tr>
+<td>8705 90 300 1</td>
+<td>– – – жаңа</td>
+<td>9</td>
 </tr>
 <tr>
 <td>8705 90 300 5</td>
 <td>– – – бұрын пайдаланылған:</td>
-<td>10 6</td>
+<td>9</td>
 </tr>
 <tr>
 <td>8705 90 800 1</td>
 <td>– – – – жаңалары</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>8705 90 800 2</td>
 <td>– – – – бұрын пайдаланылған</td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>8705 90 800 9</td>
@@ -11514,132 +13546,127 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8706 00 190 9</td>
 <td>– – – өзгелері</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>8706 00 910 9</td>
 <td>– – – өзгелері</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>8706 00 990 9</td>
 <td>– – – өзгелері</td>
-<td>12,2</td>
+<td>10,8</td>
 </tr>
 <tr>
 <td>8707 10 900 0</td>
 <td>– – өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8707 90 100 0</td>
-<td>– – бір білікті, 8701 10 субпозициясында көрсетілген тракторларды; 8704 тауар позициясының қысымнан жанатын поршеньді іштен жану қозғалтқыштары бар (дизельмен немесе жартылай дизельмен) және қозғалтқыш цилиндрінің жұмыс көлемі 2500 см³ немесе от ұшқынынан жанатын ішкі поршеньді қозғалтқышы бар және қозғалтқыш цилиндрлерінің жұмыс көлемі 2800 см³-ден көп емес көлік құралдарын; 8705 арнайы тауар позициясының моторлы көлік құралдарын өнеркәсіптік құрастыру үшін</td>
-<td>13</td>
+<td>– – бір осьті, 8701 10 субпозициясында көрсетілген тракторларды; 8704 тауар позициясының қысымнан жанатын поршеньді іштен жану қозғалтқыштары бар (дизельмен немесе жартылай дизельмен) және қозғалтқыш цилиндрінің жұмыс көлемі 2500 см3 немесе от ұшқынынан жанатын ішкі поршеньді қозғалтқышы бар және қозғалтқыш цилиндрлерінің жұмыс көлемі 2800 см3 көп емес көлік құралдарын; 8705 арнайы тауар позициясының моторлы көлік құралдарын өнеркәсіптік құрастыру үшін</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8707 90 900 1</td>
-<td>– – – жалпы салмағы 20 тоннадан асатын жүк автомобилдерін жинауға арналған кабиналар</td>
-<td>13</td>
+<td>– – – жалпы салмағы 20 тоннадан асатын жүк автомобильдерін жинауға арналған кабиналар</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8708 50 550 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8708 80 350 2</td>
-<td>– – – – – мынадай сипаттамасы бар кіші литражды автомобильдердің: ең жоғары күші Н (кгс): қысымы 235 – 280, қайтуы 1150 – 1060</td>
+<td>– – – – – мынадай сипаттамасы бар кіші литражды автомобильдердің: ең жоғары күші Н (кгс): қысымы 235 - 280, қайтуы 1150 - 1060</td>
 <td>5</td>
 </tr>
 <tr>
 <td>8708 80 550 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8708 91 200 9</td>
 <td>– – – – бөліктері5)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8708 91 990 9</td>
 <td>– – – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8708 95 910 9</td>
 <td>– – – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8710 00 000 0</td>
 <td>Қару-жарағы бар немесе жоқ, танкілер мен басқа да өздігіне жүретін әскери бронды көлік құралдары және олардың бөлшектері</td>
-<td>18</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8714 10 100 0</td>
 <td>– – тежегiштер және олардың бөлшектерi</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8714 10 200 0</td>
-<td>– – беріліс қораптары мен олардың бөліктері:</td>
-<td>6,7</td>
+<td>– – беріліс қораптары мен олардың бөліктері</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8714 10 300 0</td>
-<td>– жүріс доңғалақтары, олардың бөліктері мен керек-жарақтары</td>
-<td>6,7</td>
+<td>– – жүріс доңғалақтары, олардың бөліктері мен керек-жарақтары</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8714 10 400 0</td>
 <td>– – сөндіргіштер және түтін шығаратын түтіктер, олардың бөліктері</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8714 10 500 0</td>
 <td>– – жинақтаған ілінісу және оның бөліктері</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8714 10 900 0</td>
 <td>– – өзгелері</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
-<td>8716 39 800 3</td>
-<td>– – – – – – толық салмағы 15 т-дан артық және ұзындық габариті 13,6 м-ден кем емес автомобильді жартылай тіркемелер</td>
-<td>9</td>
-</tr>
-<tr>
-<td>8716 39 800 4</td>
-<td>– – – – – – шанағының ішкі көлемі 76 м3-ден кем емес автомобильді рефрижераторлық жартылай тіркемелер</td>
-<td>9</td>
+<td>8716 80 000 0</td>
+<td>– өзге де көлік құрылғылары</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8801 00 100 1</td>
 <td>– – азаматтық</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>8801 00 100 9</td>
 <td>– – өзгелері</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>8801 00 900 1</td>
 <td>– – азаматтық</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>8801 00 900 9</td>
 <td>– – өзгелері</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr>
 <td>8802 11 000 9</td>
 <td>– – – өзгелері</td>
-<td>16</td>
+<td>14</td>
 </tr>
 <tr>
 <td>8802 12 000 1</td>
@@ -11650,6 +13677,21 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>8802 12 000 9</td>
 <td>– – – өзгелері</td>
 <td>10</td>
+</tr>
+<tr>
+<td>8802 20 000 2</td>
+<td>– – барлау-соққы беру ұшқышсыз ұшатын аппараттарға арналған қондырғылар үшін14)</td>
+<td>14</td>
+</tr>
+<tr>
+<td>8802 20 000 8</td>
+<td>– – өзгелері</td>
+<td>14</td>
+</tr>
+<tr>
+<td>8802 30 000 3</td>
+<td>– –жүк рампасымен жарақтанған, бос жабдықтау аппаратының массасы 12 000 кг көп, бірақ 13 000 кг14) көп емес әсери-көлік ұшақтары</td>
+<td>5 8</td>
 </tr>
 <tr>
 <td>8802 30 000 7</td>
@@ -11703,7 +13745,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>8802 40 003 9</td>
-<td>– – – өзгелері</td>
+<td>– – – – өзгелері</td>
 <td>5</td>
 </tr>
 <tr>
@@ -11723,12 +13765,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>8802 40 004 9</td>
-<td>– – – өзгелері</td>
+<td>– – – – өзгелері</td>
 <td>5</td>
 </tr>
 <tr>
 <td>8802 40 009 4</td>
-<td>– – – – кең фюзеляжды, бос снарядталған аппараттың массасымен 120000 кг-нан асатын магистральды</td>
+<td>– – – – кең фюзеляжды, бос снарядталған аппараттың массасымен 120000 кг асатын магистральды</td>
 <td>5</td>
 </tr>
 <tr>
@@ -11738,7 +13780,7 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>8802 40 009 7</td>
-<td>– – – – кең фюзеляжды, бос снарядталған аппараттың массасымен 120000 кг-нан астам магистральды азаматтық жүк ұшақтары</td>
+<td>– – – – кең фюзеляжды, бос снарядталған аппараттың массасымен 120000 кг астам магистральды азаматтық жүк ұшақтары</td>
 <td>5</td>
 </tr>
 <tr>
@@ -11749,52 +13791,52 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>8803 90 100 0</td>
 <td>– – батпырауықтар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8803 90 200 0</td>
 <td>– – ғарыштық аппараттар (спутниктерді қосқанда)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8803 90 300 0</td>
-<td>– – қосалқыорбиталдық және ғарыштық ұшырғыш ракеталар</td>
-<td>3</td>
+<td>– – қосалқы орбиталдық және ғарыштық ұшырғыш ракеталар</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8803 90 900 0</td>
-<td>– – басқалар</td>
-<td>3</td>
+<td>– – өзгелері</td>
+<td>2</td>
 </tr>
 <tr>
 <td>8805 10 100 0</td>
-<td>– – ұшатын аппараттардың бастапқы құрал– жабдығы және оның бөлшектері</td>
-<td>13</td>
+<td>– – ұшатын аппараттардың бастапқы құрал- жабдығы және оның бөлшектері</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8805 10 900 0</td>
 <td>– – өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>8805 21 000 0</td>
-<td>– – әуелік соғысқа еліктеуіштер және оның бөлшектері</td>
-<td>9</td>
+<td>– – әуелік соғысқа еліктегіштер және оның бөлшектері</td>
+<td>6</td>
 </tr>
 <tr>
 <td>8805 29 000 8</td>
 <td>– – – өзгелері</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>9001 90 000 1</td>
-<td>– – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9002 90 000 1</td>
-<td>– – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9005 10 000 0</td>
@@ -11809,42 +13851,47 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>9006 99 000 0</td>
 <td>– – өзгелері</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>9008 50 000 0</td>
 <td>– фотоүлкейткiштер және бейнелерді кiшiрейте отырып проекциялауға арналған жабдықтар</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>9010 90 000 0</td>
 <td>– бөлшектер мен керек-жарақтар</td>
-<td>1,7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9014 10 000 0</td>
 <td>– бағытты айқындауға арналған компастар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9014 20 200 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9014 20 800 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9014 90 000 0</td>
 <td>– бөлшектер мен керек-жарақтар</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>9015 10 900 0</td>
+<td>– – өзгелері</td>
+<td>9</td>
 </tr>
 <tr>
 <td>9015 20 900 0</td>
 <td>– – өзгелері</td>
-<td>8,3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>9015 30 100 0</td>
@@ -11859,12 +13906,12 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <tr>
 <td>9017 20 100 0</td>
 <td>– – сызуға арналған өзгелері құралдар</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9017 20 390 0</td>
 <td>– – белгілеуге арналған құралдар</td>
-<td>3,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9017 90 000 9</td>
@@ -11872,274 +13919,274 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>0</td>
 </tr>
 <tr>
+<td>9018 11 000 0</td>
+<td>– – электрокардиографтар</td>
+<td>2</td>
+</tr>
+<tr>
 <td>9018 31 900 9</td>
 <td>– – – – өзгелері</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>9018 41 000 0</td>
 <td>– – өзге де стоматологиялық құрал-жабдықтармен бір негізге біріктірілген не біріктірілмеген бормашиналар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9018 49 100 0</td>
 <td>– – – бормашиналарда қолдануға арналған борлар, дискілер, ұштар және щеткалар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9018 49 900 0</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9018 50 900 0</td>
 <td>– – оптикалық</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>9018 90 200 0</td>
+<td>– – эндоскоптар</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9018 90 500 1</td>
 <td>– – – қанды, қан алмастырғыштар мен инфузиялық ерітінділерді алуға және құюға арналған жүйелер</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>9018 90 840 1</td>
+<td>– – – ультрадыбыстық литотриптерлер</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9019 10 900 1</td>
 <td>– – – гидpомассажды ванналар және сусебер кабиналар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9021 21 100 0</td>
 <td>– – – пластмассалардан жасалған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9021 40 000 0</td>
 <td>– есту аппараттары, бөлшектері мен керек-жарақтарынан тыс</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9021 50 000 0</td>
 <td>– жүрек ширатқыштар, бөлшектері мен керек-жарақтардан тыс</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9021 90 100 0</td>
 <td>– – есту аппараттарына бөлшектер мен керек-жарақтар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9021 90 900 1</td>
 <td>– – – қан тамырлы стент</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9021 90 900 9</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9025 11 200 1</td>
 <td>– – – – медициналық</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9025 11 200 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9025 11 800 0</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9025 19 200 0</td>
 <td>– – – электронды</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9025 19 800 9</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9025 80 200 0</td>
-<td>– – басқа аспаптарымен біріктірілмеген барометрлер</td>
-<td>3</td>
+<td>– – басқа аспаптармен біріктірілмеген барометрлер</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9025 80 400 0</td>
 <td>– – – электронды</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9025 80 800 0</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>9027 90 100 0</td>
+<td>– – микротомдар</td>
+<td>0</td>
+</tr>
+<tr>
+<td>9027 90 800 0</td>
+<td>– – – микротомдар немесе газ немесе түтін талдағыштардың</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9028 90 900 0</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9029 10 000 1</td>
-<td>– – 8701-8705 тауар позицияларындағы моторлы көлік құралдарын, олардың түйіндері мен агрегаттарын өнеркәсіптік құрастыруға арналған5)</td>
-<td>3</td>
+<td>– – 8701-8705 тауар позицияларындағы моторлы көлік құралдарын, олардың тораптары мен агрегаттарын өнеркәсіптік құрастыруға арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9029 20 380 1</td>
-<td>– – – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9030 10 000 0</td>
 <td>– иондаушы сәулелердi аңғару мен өлшеуге арналған аспаптар мен аппаратуралар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9030 20 100 0</td>
 <td>– – электронды-сәулелі</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9030 20 910 0</td>
 <td>– – – электронды</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9030 20 990 0</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9030 31 000 0</td>
 <td>– – жазатын құрылғылары жоқ әмбебап өлшегіш аспаптар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9030 33 100 0</td>
-<td>– – электронды</td>
-<td>3</td>
+<td>– – – электронды</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9030 33 910 0</td>
 <td>– – – – вольтметрлер</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9030 33 990 0</td>
 <td>– – – – өзгелері</td>
-<td>3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9032 10 200 0</td>
 <td>– – электронды</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9032 10 810 0</td>
 <td>– – – электрлік іске қосу құрылғысы бар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9032 10 890 0</td>
 <td>– – – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9032 20 000 0</td>
 <td>– маностаттар</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
-<td>9102 11 000 0</td>
-<td>– – тек механикалық индикациясымен</td>
-<td>7 6</td>
-</tr>
-<tr>
-<td>9102 19 000 0</td>
-<td>– – өзгелері</td>
-<td>7 6</td>
-</tr>
-<tr>
-<td>9102 21 000 0</td>
-<td>– – автоматты түрде жүретін</td>
-<td>7 6</td>
-</tr>
-<tr>
-<td>9102 29 000 0</td>
-<td>– – өзгелері</td>
-<td>7 6</td>
+<td>9103 90 000 0</td>
+<td>– өзгелері</td>
+<td>11,3</td>
 </tr>
 <tr>
 <td>9104 00 000 2</td>
 <td>– азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9104 00 000 8</td>
 <td>– өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9109 10 000 0</td>
 <td>– электр арқылы iске қосылатын</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9109 90 000 1</td>
-<td>– – ені мен диаметрі 50 мм-ден аспайтын азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – ені мен диаметрі 50 мм аспайтын азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9401 20 000 9</td>
 <td>– – өзгелері</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>9401 90 300 0</td>
 <td>– – – ағаштан</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>9401 90 800 9</td>
 <td>– – – – өзгелері</td>
-<td>9</td>
+<td>6</td>
 </tr>
 <tr>
 <td>9402 10 000 1</td>
 <td>– – стоматологиялық креслолар және олардың бөлшектерi</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9402 10 000 9</td>
 <td>– – өзгелері</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9402 90 000 0</td>
-<td>– өзгелері</td>
-<td>3</td>
+<td>– өзгесі</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9403 20 200 1</td>
-<td>– – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9403 20 800 1</td>
-<td>– – – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
-</tr>
-<tr>
-<td>9403 50 000 1</td>
-<td>– – әкелінетін елде франко-шекара шартымен 1 кг брутто салмағының құны 1,8 евродан аспайтын</td>
-<td>15</td>
-</tr>
-<tr>
-<td>9403 60 100 1</td>
-<td>– – – әкелінетін елде франко-шекара шартымен 1 кг брутто салмағының құны 1,8 евродан аспайтын</td>
-<td>15</td>
+<td>– – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9403 60 900 1</td>
@@ -12148,98 +14195,78 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>9403 70 000 1</td>
-<td>– – азаматтық әуе кемелеріне арналған</td>
-<td>3</td>
-</tr>
-<tr>
-<td>9403 89 000 0</td>
-<td>– – өзгелері</td>
-<td>1 кг 10 плюс 0,13 евро</td>
+<td>– – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9403 90 100 0</td>
 <td>– – металдан жасалған</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9403 90 300 0</td>
 <td>– – ағаштан жасалған</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9403 90 900 0</td>
 <td>– – өзге де материалдардан</td>
-<td>5</td>
-</tr>
-<tr>
-<td>9404 21 100 0</td>
-<td>– – – резеңкеден жасалған</td>
-<td>10 6</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9404 21 900 0</td>
 <td>– – – пластмассадан жасалған</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9404 29 100 0</td>
 <td>– – – серіппелі</td>
-<td>13</td>
-</tr>
-<tr>
-<td>9404 29 900 0</td>
-<td>– – – өзгелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9404 30 000 0</td>
-<td>– ұйықтайтын қаптары</td>
-<td>13</td>
+<td>– ұйықтайтын қаптар</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9404 90 100 0</td>
 <td>– – мамық немесе қауырсынды</td>
-<td>13</td>
-</tr>
-<tr>
-<td>9404 90 900 0</td>
-<td>– – өзгелері</td>
-<td>12 6</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9405 10 210 1</td>
 <td>– – – – медициналық мақсаттарға арналған4)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 10 400 1</td>
 <td>– – – – медициналық мақсаттарға арналған4)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 10 400 2</td>
-<td>– – – – – – азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – – – азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 10 500 1</td>
 <td>– – – медициналық мақсаттарға арналған4)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 10 910 1</td>
 <td>– – – – медициналық мақсаттарға арналған4)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 10 980 1</td>
 <td>– – – – медициналық мақсаттарға арналған4)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 10 980 2</td>
-<td>– – – – бағалы емес металлдардан жасалған, азаматтық әуелік кемелерге арналған5)</td>
-<td>3</td>
+<td>– – – – бағалы емес металдардан жасалған, азаматтық әуе кемелеріне арналған5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 20 110 9</td>
@@ -12247,239 +14274,349 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 <td>15</td>
 </tr>
 <tr>
-<td>9405 20 400 4</td>
-<td>– – – – – пластмассадан жасалған</td>
+<td>9405 20 400 2</td>
+<td>– – – – – – қатты баспа тақтасында жарықдиодты жарық көздерімен пайдалануға арналған</td>
+<td>15</td>
+</tr>
+<tr>
+<td>9405 20 400 3</td>
+<td>– – – – – – өзгелері</td>
 <td>15</td>
 </tr>
 <tr>
 <td>9405 92 000 1</td>
 <td>– – – медициналық мақсаттарға арналған4)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 92 000 2</td>
-<td>– – – азаматтық әуе кемелеріне арналған 9405 10 немесе 9405 60 субпозицияларындағы бұйымдар бөлшегі</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған 9405 10 немесе 9405 60 субпозицияларындағы бұйымдар бөлшегі5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 99 000 1</td>
 <td>– – – медициналық мақсаттарға арналған4)</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 99 000 2</td>
-<td>– – – азаматтық әуе кемелеріне арналған 9405 10 немесе 9405 60 субпозицияларындағы бағалы емес металдардан жасалған бұйымдар</td>
-<td>3</td>
+<td>– – – азаматтық әуе кемелеріне арналған 9405 10 немесе 9405 60 субпозицияларындағы бағалы емес металдардан жасалған бұйымдар5)</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9405 99 000 8</td>
 <td>– – – өзгелері</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9503 00 100 1</td>
+<td>– – қуыршақтарға арналған арбалар</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 100 9</td>
 <td>– – өзгелері</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9503 00 210 0</td>
+<td>– – қуыршақтар</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 290 0</td>
 <td>– – бөлшектері мен заттары</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 300 0</td>
-<td>– рельстердi, бағдаршамдарды және олардың өзге де заттарын қоса алғанда электр поездары; кiшiрейтiлген көлемдегi («масштабты») модельдерді жинастыруға арналған элементтердiң жиынтықтары</td>
-<td>8</td>
+<td>– рельстердi, бағдаршамдарды және олардың өзге де заттарын қоса алғанда электр поездары; кiшiрейтiлген көлемдегi («ауқымды») модельдерді жинастыруға арналған элементтердiң жиынтықтары</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 350 0</td>
 <td>– – пластмассадан жасалған</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 390 0</td>
 <td>– – өзге материалдардан жасалған</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9503 00 410 0</td>
+<td>– – толтырылған</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 490 0</td>
 <td>– – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 550 0</td>
 <td>– музыкалық ойыншық аспаптар мен құрылғылар</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 610 0</td>
 <td>– – ағаштан жасалған</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 690 0</td>
 <td>– – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 700 0</td>
 <td>– өзге де жиынтықтардағы немесе жинақтардағы ойыншықтар</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 750 0</td>
 <td>– – пластмассадан жасалған</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9503 00 790 0</td>
 <td>– – өзге материалдардан жасалған</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9503 00 810 0</td>
+<td>– – ойыншық қару</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9503 00 850 0</td>
+<td>– – құйылған металл мини-модельдер</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9503 00 950 0</td>
+<td>– – – пластмассадан жасалған</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9503 00 990 1</td>
+<td>– – – – орын-жайдағы немесе ашық ауадағы, жануарлар, мультипликациялық кейіпкерлер, көлік құралдары, геометриялық формалар (мысалы (пирамида, конус, куб, кескііделген пирамида) түріндегі, пластмасса немесе, металл (құбырлы немесе серіппелі) төбесі бар матадан жасалған, биіктігі 120 см көп емес, ені 185 см көп емес, ұзындығы 185 см көп емес балалар пайдаланатын ойын палаткалары</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9503 00 990 9</td>
+<td>– – – – өзгелері</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9504 20 000 1</td>
 <td>– – столы для бильярдқа арналған үстел (аяғымен немесе аяқсыз)</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9504 20 000 9</td>
 <td>– – өзгелері</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9504 30 100 0</td>
+<td>– – экраны бар ойындар</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9504 30 200 1</td>
 <td>– – – флипперлер</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9504 30 900 0</td>
 <td>– – бөлшектер</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9504 40 000 0</td>
 <td>– ойын карталары</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9504 50 000 1</td>
-<td>– –телевизиялық қабылдағышты қолдана отырып бейне ойындар</td>
-<td>8</td>
+<td>– – телевизиялық қабылдағышты қолдана отырып бейне ойындар</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9504 50 000 2</td>
 <td>– – электpонды ойындар</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9504 90 800 1</td>
 <td>– – – казиноға орналған үстелдер мен бұйымдар</td>
-<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9505 10 100 0</td>
+<td>– – шыныдан</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9505 10 900 0</td>
+<td>– – өзге материалдардан</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9505 90 000 0</td>
+<td>– өзгелері</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9506 99 100 0</td>
 <td>– – – доптардан басқа крикет пен полоға арналған мүкәммал</td>
-<td>6,7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>9601 10 000 0</td>
 <td>– өңделген пiл сүйегi және одан жасалған бұйымдар</td>
-<td>12,5</td>
+<td>11,3</td>
 </tr>
 <tr>
 <td>9601 90 000 0</td>
 <td>– өзгелері</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9602 00 000 1</td>
+<td>– өңделген янтарь, агломерацияланған янтарь, гагат (қара янтарь)</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9602 00 000 9</td>
+<td>– өзгелері</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9603 10 000 0</td>
 <td>– бiрiктiрiп байланған шыбықтардан немесе өзгелері да табиғи материалдардан жасалған, сабы бар немесе сабы жоқ сыпырғыштар мен щеткалар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9603 29 800 0</td>
 <td>– – – өзгелері</td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr>
 <td>9603 30 100 0</td>
 <td>– – көркемсурет қылқаламдары мен жазуға арналған қылқаламдар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9603 30 900 0</td>
 <td>– – косметиканы жағуға арналған қылқаламдар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9603 40 900 0</td>
 <td>– – бояуға арналған маляр жастықшалары мен білікшелері</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9603 50 000 9</td>
 <td>– – өзгелері</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9603 90 100 0</td>
+<td>– – едендерді жинауға арналған қозғалтқышсыз механикалық қол щеткалар</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9603 90 990 0</td>
+<td>– – – өзгелері</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9604 00 000 0</td>
 <td>Қол елеуіштері мен електерi</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9605 00 000 0</td>
 <td>Жеке гигиена үшiн пайдаланылатын, тiгуге немесе киімдер мен аяқ киiмдердi тазалауға арналған жол жиынтықтары</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9606 10 000 0</td>
 <td>– батырмалар, түймелеу-iлмектерi және олардың бөлiктерi</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9606 21 000 0</td>
 <td>– – тоқыма жабындысы жоқ, пластмассадан жасалған</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9606 22 000 0</td>
 <td>– – тоқыма жабындысы жоқ, қымбат бағалы емес металдан жасалған</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9607 11 000 0</td>
 <td>– – тiстерi қымбат бағалы емес металдардан жасалған</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9607 20 100 0</td>
-<td>– – қымбат бағалы емес металдардан, қымбат бағалы емес метелдардан жасалған тістері бар жіңішке таспаларды қоса алғанда</td>
-<td>13</td>
+<td>– – қымбат бағалы емес металдардан, қымбат бағалы емес металдардан жасалған тістері бар жіңішке таспаларды қоса алғанда</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9607 20 900 0</td>
 <td>– – өзгелері</td>
-<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9613 80 000 0</td>
+<td>– өзге де оттықтар</td>
+<td>9</td>
+</tr>
+<tr>
+<td>9614 00 100 0</td>
+<td>– түтікше дайындауға арналған ағаштан долбарлы дайындамалар немесе түбіртектер</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9614 00 900 0</td>
+<td>– өзгелері</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9615 19 000 0</td>
+<td>– – өзгелері</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9615 90 000 0</td>
+<td>– өзгелері</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9616 10 100 0</td>
 <td>– – гигиеналық мақсаттарға арналған тозаңдатқыштар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9616 10 900 0</td>
 <td>– – қондырғылары мен бастиектерi</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9616 20 000 0</td>
 <td>– косметикалық немесе иіс заттарды жағуға арналған мамықшалар мен жастықшалар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9618 00 000 0</td>
 <td>Тiгiншiлерге арналған манекендер және өзге де манекендер; манекен-автоматтар және витриналарды безендiруге арналған өзге де жылжымалы заттар</td>
-<td>13</td>
+<td>12</td>
 </tr>
 <tr>
 <td>9619 00 500 1</td>
@@ -12488,41 +14625,45 @@ source: https://zan.gov.kz/client/#!/doc/109553/kaz/01.12.2017
 </tr>
 <tr>
 <td>9619 00 710 1</td>
-<td>– – – – қағаз массадан, қағаздан, целлюлоз мақта немесе целлюлоз талшықтарынан тоқылған мата</td>
-<td>2,7</td>
+<td>– – – – қағаз массадан, қағаздан, целлюлоза мақта немесе целлюлоза талшықтарынан тоқылған мата</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9619 00 750 1</td>
-<td>– – – – қағаз массадан, қағаздан, целлюлоз мақта немесе целлюлоз талшықтарынан тоқылған мата</td>
-<td>3,3</td>
+<td>– – – – қағаз массадан, қағаздан, целлюлоза мақта немесе целлюлоза талшықтарынан тоқылған мата</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9619 00 790 1</td>
-<td>– – – – қағаз массадан, қағаздан, целлюлоз мақта немесе целлюлоз талшықтарынан тоқылған мата</td>
-<td>3,3</td>
+<td>– – – – қағаз массадан, қағаздан, целлюлоза мақта немесе целлюлоза талшықтарынан тоқылған мата</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9619 00 810 1</td>
-<td>– – – – қағаз массадан, қағаздан, целлюлоз мақта немесе целлюлоз талшықтарынан тоқылған мата</td>
-<td>3,3</td>
+<td>– – – – қағаз массадан, қағаздан, целлюлоза мақта немесе целлюлоза талшықтарынан тоқылған мата</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9619 00 890 1</td>
-<td>– – – – қағаз массадан, қағаздан, целлюлоз мақта немесе целлюлоз талшықтарынан тоқылған мата</td>
-<td>3</td>
+<td>– – – – қағаз массадан, қағаздан, целлюлоза мақта немесе целлюлоза талшықтарынан тоқылған мата</td>
+<td>0</td>
 </tr>
 </table>
 
 Ескертпе:
 
-1 Тізбеде белгіленген мөлшерлемелер бойынша әкелінген тауарлардың әкелінуін және айналымын әкімшілендіру Қазақстан Республикасының 2015 жылғы 9 желтоқсандағы заңымен ратификацияланған Еуразиялық экономикалық одақтың кедендік аумағына тауарларды әкелу мен олардың айналысының кейбір мәселелері туралы хаттаманың ережелеріне сәйкес жүзеге асырылады.
+1 Тізбеде белгіленген мөлшерлемелер бойынша әкелінген тауарлардың әкелінуін және айналымын әкімшілендіру Қазақстан Республикасының 2015 жылғы 9 желтоқсандағы Заңымен ратификацияланған Еуразиялық экономикалық одақтың кедендік аумағына тауарларды әкелу мен олардың айналысының кейбір мәселелері туралы хаттаманың ережелеріне сәйкес жүзеге асырылады.
 
 2 Кедендiк әкелу баждары мөлшерлемелерін қолдану мақсаты үшiн тауарлар Еуразиялық экономикалық одақтың сыртқы экономикалық қызметі тауар номенклатурасының (бұдан әрі – ЕАЭО СЭҚ ТН) кодтарымен ғана айқындалады.
 
-3 Егер осы Тізбемен белгіленген кедендік әкелу баж мөлшерлемесі Еуразиялық экономикалық одақтың Бірыңғай кедендік тарифінде белгіленген кедендік әкелу баж мөлшерлемесінен жоғары болса, Еуразиялық экономикалық одақтың Бірыңғай кедендік тарифінде белгіленген кедендік әкелу баж мөлшерлемесі қолданылады.
+3 Егер осы Тізбеде белгіленген кедендік әкелу бажының мөлшерлемесі Еуразиялық экономикалық одақтың Бірыңғай кедендік тарифінде белгіленген кедендік әкелу бажы мөлшерлемесінен жоғары болса, онда Еуразиялық экономикалық одақтың Бірыңғай кедендік тарифінде белгіленген кедендік әкелу бажы мөлшерлемесі қолданылады.
 
-4 Кедендік әкелу бажының мөлшерлемесі 2018 жылғы 1 мамырдан бастап қолданылады.
+4 Кедендік әкелу бажының мөлшерлемесі 2019 жылғы 25 мамырдан бастап қолданылады.
 
-5 Кедендік әкелу бажының мөлшерлемесі 2018 жылғы 1 қаңтардан бастап қолданылады.
+5 Кедендік әкелу бажының мөлшерлемесі 2019 жылғы 1 маусымнан бастап қолданылады.
 
-6 Кедендік әкелу бажының мөлшерлемесі 2017 жылғы 31 желтоқсанды қоса алғанға дейін қолданылады.
+6 Кедендік әкелу бажының мөлшерлемесі 2019 жылғы 1 қыркүйектен бастап қолданылады.
+
+7 Кедендік әкелу бажының мөлшерлемесі 2019 жылғы 31 тамызды қоса алғанға дейін қолданылады.
+
+8 Кедендік әкелу бажының мөлшерлемесі 2019 жылғы 1 қаңтардан бастап қолданылады.
