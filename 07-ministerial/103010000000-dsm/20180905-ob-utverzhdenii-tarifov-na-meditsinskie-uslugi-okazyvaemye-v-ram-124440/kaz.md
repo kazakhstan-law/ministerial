@@ -1,5 +1,5 @@
 ---
-version_id: '124440_370873'
+version_id: '124440_384330'
 act_code: '124440'
 language: kaz
 title: Тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік медициналық сақтандыру жүйесінде көрсетілетін медициналық қызметтерге тарифтерді бекіту туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103010000000'
 approval_date: 2018-09-05
-version_date: 2018-11-06
+version_date: 2018-12-25
 registry_number: '124440'
 caused_by:
-  code: '125683'
+  code: '127507'
   title: «Тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік медициналық сақтандыру жүйесінде көрсетілетін медициналық қызметтерге тарифтерді бекіту туралы» Қазақстан Республикасы Денсаулық сақтау министрінің 2018 жылғы 5 қыркүйектегі № ҚР ДСМ-10 бұйрығына өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/125683/kaz
-source: https://zan.gov.kz/client/#!/doc/124440/kaz/06.11.2018
+  link: https://zan.gov.kz/client/#!/doc/127507/kaz
+source: https://zan.gov.kz/client/#!/doc/124440/kaz/25.12.2018
 ---
 
 # Тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік медициналық сақтандыру жүйесінде көрсетілетін медициналық қызметтерге тарифтерді бекіту туралы
@@ -158922,7 +158922,9 @@ SF-RI 1 (сурфактант)
 > *№ ҚР ДСМ-10 бұйрығына*  
 > *8-қосымша*
 
-## Тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік медициналық сақтандыру медициналық қызметтерге арналған тарифтер*
+## Тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік медициналық сақтандыру жүйесінде көрсетілетін медициналық қызметтерге арналған тарифтер*
+
+> *Ескерту. Тарифтер жаңа редакцияда - ҚР Денсаулық сақтау министрінің 25.12.2018 № ҚР ДСМ-45 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
@@ -158930,18 +158932,18 @@ SF-RI 1 (сурфактант)
 <td rowspan="2">Қызметтің толық коды</td>
 <td rowspan="2">Қызметтің атауы</td>
 <td rowspan="2">Бағасы**</td>
-<td colspan="3">Түзету коэффициенті</td>
+<td colspan="4">Түзету коэффициенті</td>
 <td colspan="3">Медициналық көмекті ұсыну нысандары</td>
-<td rowspan="2">Тегін медициналық көмектің кепілдік берілген көлемі (ТМККК) ***</td>
+<td rowspan="2">Тегін медициналық көмектің кепілдік берілген көлемі (ТМККК)***</td>
 <td rowspan="2">Қымбат бағалы қызметтер</td>
 </tr>
 <tr>
 <td>үйде көрсетілетін қызмет</td>
 <td>қашықтықтан консультациялау</td>
-<td>Телемедицина қызметтері</td>
-<td>Медициналық-санитариялық алғашқы көмек (МСАК)</td>
-<td>Кеңес-диагностикалық көмек (КДБ)</td>
-<td>стационар</td>
+<td colspan="2">Телемедицина қызметтері</td>
+<td>Медициналық-санитариялық алғашқы көмек (М С А К)</td>
+<td>Кеңес-диагностикалық көмек (К Д К)</td>
+<td>Стационарлық көмек</td>
 </tr>
 <tr>
 <td>1</td>
@@ -158950,7 +158952,7 @@ SF-RI 1 (сурфактант)
 <td>4</td>
 <td>5</td>
 <td>6</td>
-<td>7</td>
+<td colspan="2">7</td>
 <td>8</td>
 <td>9</td>
 <td>10</td>
@@ -158964,7 +158966,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -158973,12 +158975,12 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2</td>
-<td>A01. 000.000</td>
-<td>Медициналық-санитариялық алғашқы көмек (МСАК) деңгейінде қабылдау</td>
+<td>A01.000.000</td>
+<td>Медициналық-санитариялық алғашқы көмек (М С А К) деңгейінде қабылдау</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -158987,12 +158989,12 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>3</td>
-<td>A01. 001.000</td>
+<td>A01.001.000</td>
 <td>Қабылдау: Терапевт</td>
 <td>679,16</td>
 <td>2</td>
 <td>0,3</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td></td>
@@ -159001,34 +159003,17 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>4</td>
-<td>A01. 002.000</td>
+<td>A01.002.000</td>
 <td>Қабылдау: Педиатр</td>
 <td>679,16</td>
 <td>2</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td></td>
 <td>1</td>
 <td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-<td>9</td>
-<td>10</td>
-<td>11</td>
-<td>12</td>
 </tr>
 <tr>
 <td>5</td>
@@ -159038,7 +159023,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,3</td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -159052,7 +159037,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -159066,7 +159051,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -159080,7 +159065,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -159094,7 +159079,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -159108,7 +159093,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -159122,7 +159107,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -159136,7 +159121,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -159150,7 +159135,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -159164,7 +159149,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -159178,7 +159163,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159192,7 +159177,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159206,7 +159191,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159220,7 +159205,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159234,7 +159219,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159248,7 +159233,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159262,7 +159247,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159276,7 +159261,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159290,7 +159275,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159304,7 +159289,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159318,7 +159303,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159332,7 +159317,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159346,7 +159331,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159360,7 +159345,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159374,7 +159359,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159388,7 +159373,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159402,7 +159387,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159416,7 +159401,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159430,7 +159415,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159444,7 +159429,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159458,7 +159443,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159472,7 +159457,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159486,7 +159471,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159500,7 +159485,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159514,7 +159499,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159528,7 +159513,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159542,7 +159527,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159556,7 +159541,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159570,7 +159555,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159584,7 +159569,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159598,7 +159583,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159612,7 +159597,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159626,7 +159611,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159640,7 +159625,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159654,7 +159639,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159668,7 +159653,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159682,7 +159667,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159696,7 +159681,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159710,7 +159695,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159724,7 +159709,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159738,7 +159723,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159752,7 +159737,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159766,7 +159751,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159780,7 +159765,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159794,7 +159779,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159808,7 +159793,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159822,7 +159807,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159836,7 +159821,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159850,7 +159835,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159864,7 +159849,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159878,7 +159863,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159892,7 +159877,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159906,7 +159891,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159920,7 +159905,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159934,7 +159919,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159948,7 +159933,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -159962,7 +159947,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159976,7 +159961,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -159990,7 +159975,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>0</td>
@@ -160004,7 +159989,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -160018,7 +160003,7 @@ SF-RI 1 (сурфактант)
 <td>2</td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160032,7 +160017,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160046,7 +160031,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160060,7 +160045,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160074,7 +160059,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160088,7 +160073,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -160102,7 +160087,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -160116,7 +160101,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -160130,7 +160115,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160144,7 +160129,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160158,7 +160143,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160172,7 +160157,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160186,7 +160171,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160200,7 +160185,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160214,7 +160199,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160228,7 +160213,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160242,7 +160227,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160256,7 +160241,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160270,7 +160255,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160284,7 +160269,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160298,7 +160283,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160312,7 +160297,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160326,7 +160311,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160340,7 +160325,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160354,7 +160339,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160368,7 +160353,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160382,7 +160367,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160396,7 +160381,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160410,7 +160395,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160424,7 +160409,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160438,7 +160423,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160452,7 +160437,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160466,7 +160451,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160480,7 +160465,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160494,7 +160479,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160508,7 +160493,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160522,7 +160507,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160536,7 +160521,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160550,7 +160535,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160564,7 +160549,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160578,7 +160563,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160592,7 +160577,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160606,7 +160591,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160620,7 +160605,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160634,7 +160619,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160648,7 +160633,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160662,7 +160647,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160676,7 +160661,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -160690,7 +160675,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160704,7 +160689,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160718,7 +160703,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160732,7 +160717,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160746,7 +160731,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160760,7 +160745,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160774,7 +160759,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160788,7 +160773,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160802,7 +160787,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160816,7 +160801,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160830,7 +160815,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -160844,7 +160829,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -160858,7 +160843,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160872,7 +160857,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160886,7 +160871,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160900,7 +160885,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160914,7 +160899,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160928,7 +160913,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160942,7 +160927,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160956,7 +160941,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160970,7 +160955,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160984,7 +160969,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160998,7 +160983,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161012,7 +160997,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161026,7 +161011,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161040,7 +161025,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161054,7 +161039,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161068,7 +161053,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161082,7 +161067,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -161096,7 +161081,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161110,7 +161095,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161124,7 +161109,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161138,7 +161123,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161152,7 +161137,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161166,7 +161151,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161180,7 +161165,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -161194,7 +161179,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -161208,7 +161193,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161222,7 +161207,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161236,7 +161221,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161250,7 +161235,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161264,7 +161249,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161278,7 +161263,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161292,7 +161277,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161306,7 +161291,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161320,7 +161305,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161334,7 +161319,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161348,7 +161333,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161362,7 +161347,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161376,7 +161361,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161390,7 +161375,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161404,7 +161389,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161418,7 +161403,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161432,7 +161417,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161446,7 +161431,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161460,7 +161445,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161474,7 +161459,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161488,7 +161473,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161502,7 +161487,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161516,7 +161501,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161530,7 +161515,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161544,7 +161529,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161558,7 +161543,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161572,7 +161557,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161586,7 +161571,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161600,7 +161585,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161614,7 +161599,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161628,7 +161613,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161642,7 +161627,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161656,7 +161641,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161670,7 +161655,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161684,7 +161669,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161698,7 +161683,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161712,7 +161697,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161726,7 +161711,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161740,7 +161725,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161754,7 +161739,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161768,7 +161753,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161782,7 +161767,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161796,7 +161781,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161810,7 +161795,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161824,7 +161809,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161838,7 +161823,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161852,7 +161837,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161866,7 +161851,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161880,7 +161865,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161894,7 +161879,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161908,7 +161893,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161922,7 +161907,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161936,7 +161921,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161950,7 +161935,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161964,7 +161949,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161978,7 +161963,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161992,7 +161977,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162006,7 +161991,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162020,7 +162005,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162034,7 +162019,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162048,7 +162033,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162062,7 +162047,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162076,7 +162061,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -162090,7 +162075,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162104,7 +162089,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162118,7 +162103,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162132,7 +162117,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162146,7 +162131,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162160,7 +162145,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162174,7 +162159,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162188,7 +162173,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162202,7 +162187,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162216,7 +162201,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162230,7 +162215,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162244,7 +162229,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162258,7 +162243,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162272,7 +162257,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162286,7 +162271,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162300,7 +162285,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162314,7 +162299,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162328,7 +162313,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162342,7 +162327,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162356,7 +162341,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162370,7 +162355,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162384,7 +162369,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162398,7 +162383,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162412,7 +162397,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162426,7 +162411,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162440,7 +162425,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162454,7 +162439,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162468,7 +162453,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162482,7 +162467,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162496,7 +162481,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162510,7 +162495,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162524,7 +162509,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162538,7 +162523,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162552,7 +162537,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162566,7 +162551,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162580,7 +162565,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162594,7 +162579,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162608,7 +162593,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162622,7 +162607,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162636,7 +162621,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162650,7 +162635,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162664,7 +162649,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162678,7 +162663,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162692,7 +162677,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162706,7 +162691,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162720,7 +162705,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162734,7 +162719,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162748,7 +162733,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162762,7 +162747,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162776,7 +162761,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162790,7 +162775,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162804,7 +162789,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162818,7 +162803,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162832,7 +162817,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162846,7 +162831,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162860,7 +162845,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162874,7 +162859,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162888,7 +162873,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162902,7 +162887,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162916,7 +162901,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162930,7 +162915,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162944,7 +162929,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162958,7 +162943,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162972,7 +162957,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162986,7 +162971,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163000,7 +162985,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163014,7 +162999,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163028,7 +163013,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163042,7 +163027,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163056,7 +163041,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163070,7 +163055,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163084,7 +163069,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163098,7 +163083,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163112,7 +163097,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163126,7 +163111,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163140,7 +163125,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163154,7 +163139,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163168,7 +163153,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -163182,7 +163167,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -163196,7 +163181,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -163210,7 +163195,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163224,7 +163209,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163238,7 +163223,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163252,7 +163237,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163266,7 +163251,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163280,7 +163265,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163294,7 +163279,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163308,7 +163293,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163322,7 +163307,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163336,7 +163321,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163350,7 +163335,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163364,7 +163349,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163378,7 +163363,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163392,7 +163377,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163406,7 +163391,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163420,7 +163405,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163434,7 +163419,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163448,7 +163433,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163462,7 +163447,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163476,7 +163461,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163490,7 +163475,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163504,7 +163489,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163518,7 +163503,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -163532,7 +163517,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163546,7 +163531,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163560,7 +163545,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163574,7 +163559,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163588,7 +163573,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163602,7 +163587,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163616,7 +163601,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163630,7 +163615,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163644,7 +163629,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163658,7 +163643,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163672,7 +163657,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -163686,7 +163671,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -163700,7 +163685,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163714,7 +163699,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163728,7 +163713,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163742,7 +163727,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163756,7 +163741,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163770,7 +163755,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163784,7 +163769,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163798,7 +163783,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163812,7 +163797,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163826,7 +163811,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163840,7 +163825,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163854,7 +163839,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163868,7 +163853,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163882,7 +163867,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163896,7 +163881,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163910,7 +163895,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163924,7 +163909,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163938,7 +163923,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163952,7 +163937,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163966,7 +163951,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163980,7 +163965,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163994,7 +163979,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164008,7 +163993,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164022,7 +164007,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164036,7 +164021,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164050,7 +164035,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164064,7 +164049,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164078,7 +164063,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -164092,7 +164077,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164106,7 +164091,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164120,7 +164105,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164134,7 +164119,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164148,7 +164133,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164162,7 +164147,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164176,7 +164161,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164190,7 +164175,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164204,7 +164189,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164218,7 +164203,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164232,7 +164217,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164246,7 +164231,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164260,7 +164245,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164274,7 +164259,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164288,7 +164273,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164302,7 +164287,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164316,7 +164301,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164330,7 +164315,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164344,7 +164329,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164358,7 +164343,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164372,7 +164357,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164386,7 +164371,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164400,7 +164385,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164414,7 +164399,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164428,7 +164413,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164442,7 +164427,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164456,7 +164441,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164470,7 +164455,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -164484,7 +164469,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -164498,7 +164483,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164512,7 +164497,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164526,7 +164511,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164540,7 +164525,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164554,7 +164539,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164568,7 +164553,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164582,7 +164567,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164596,7 +164581,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164610,7 +164595,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164624,7 +164609,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164638,7 +164623,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164652,7 +164637,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164666,7 +164651,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164680,7 +164665,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164694,7 +164679,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164708,7 +164693,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164722,7 +164707,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164736,7 +164721,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164750,7 +164735,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164764,7 +164749,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164778,7 +164763,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164792,7 +164777,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164806,7 +164791,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164820,7 +164805,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164834,7 +164819,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164848,7 +164833,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164862,7 +164847,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164876,7 +164861,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164890,7 +164875,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164904,7 +164889,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164918,7 +164903,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164932,7 +164917,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164946,7 +164931,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164960,7 +164945,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164974,7 +164959,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164988,7 +164973,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165002,7 +164987,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165016,7 +165001,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165030,7 +165015,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165044,7 +165029,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165058,7 +165043,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165072,7 +165057,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165086,7 +165071,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165100,7 +165085,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165114,7 +165099,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165128,7 +165113,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165142,7 +165127,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165156,7 +165141,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165170,7 +165155,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165184,7 +165169,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165198,7 +165183,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165212,7 +165197,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165226,7 +165211,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -165240,7 +165225,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165254,7 +165239,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165268,7 +165253,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165282,7 +165267,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165296,7 +165281,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165310,7 +165295,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165324,7 +165309,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165338,7 +165323,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165352,7 +165337,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165366,7 +165351,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165380,7 +165365,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165394,7 +165379,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165408,7 +165393,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165422,7 +165407,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165436,7 +165421,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165450,7 +165435,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165464,7 +165449,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165478,7 +165463,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165492,7 +165477,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165506,7 +165491,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165520,7 +165505,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165534,7 +165519,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165548,7 +165533,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165562,7 +165547,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165576,7 +165561,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165590,7 +165575,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165604,7 +165589,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165618,7 +165603,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165632,7 +165617,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165646,7 +165631,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165660,7 +165645,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165674,7 +165659,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165688,7 +165673,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165702,7 +165687,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165716,7 +165701,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165730,7 +165715,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -165744,7 +165729,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -165758,7 +165743,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165772,7 +165757,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165786,7 +165771,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165800,7 +165785,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165814,7 +165799,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165828,7 +165813,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165842,7 +165827,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165856,7 +165841,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165870,7 +165855,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165884,7 +165869,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165898,7 +165883,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165912,7 +165897,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165926,7 +165911,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165940,7 +165925,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165954,7 +165939,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165968,7 +165953,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165982,7 +165967,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165996,7 +165981,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166010,7 +165995,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166024,7 +166009,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166038,7 +166023,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166052,7 +166037,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166066,7 +166051,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166080,7 +166065,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166094,7 +166079,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166108,7 +166093,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166122,7 +166107,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166136,7 +166121,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166150,7 +166135,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166164,7 +166149,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166178,7 +166163,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166192,7 +166177,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166206,7 +166191,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166220,7 +166205,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166234,7 +166219,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166248,7 +166233,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166262,7 +166247,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166276,7 +166261,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166290,7 +166275,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166304,7 +166289,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166318,7 +166303,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166332,7 +166317,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166346,7 +166331,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166360,7 +166345,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166374,7 +166359,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166388,7 +166373,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166402,7 +166387,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166416,7 +166401,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166430,7 +166415,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166444,7 +166429,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166458,7 +166443,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166472,7 +166457,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166486,7 +166471,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166500,7 +166485,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166514,7 +166499,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166528,7 +166513,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166542,7 +166527,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166556,7 +166541,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166570,7 +166555,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166584,7 +166569,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166598,7 +166583,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166612,7 +166597,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166626,7 +166611,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166640,7 +166625,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166654,7 +166639,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166668,7 +166653,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166682,7 +166667,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166696,7 +166681,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166710,7 +166695,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166724,7 +166709,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166738,7 +166723,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166752,7 +166737,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166766,7 +166751,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166780,7 +166765,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166794,7 +166779,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166808,7 +166793,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166822,7 +166807,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166836,7 +166821,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166850,7 +166835,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166864,7 +166849,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166878,7 +166863,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166892,7 +166877,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166906,7 +166891,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166920,7 +166905,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166934,7 +166919,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166948,7 +166933,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166962,7 +166947,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166976,7 +166961,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166990,7 +166975,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167004,7 +166989,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167018,7 +167003,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167032,7 +167017,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167046,7 +167031,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167060,7 +167045,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167074,7 +167059,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167088,7 +167073,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167102,7 +167087,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167116,7 +167101,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167130,7 +167115,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167144,7 +167129,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167158,7 +167143,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167172,7 +167157,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167186,7 +167171,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167200,7 +167185,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167214,7 +167199,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167228,7 +167213,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167242,7 +167227,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167256,7 +167241,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167270,7 +167255,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167284,7 +167269,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167298,7 +167283,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167312,7 +167297,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167326,7 +167311,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167340,7 +167325,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167354,7 +167339,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167368,7 +167353,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167382,7 +167367,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167396,7 +167381,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167410,7 +167395,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167424,7 +167409,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167438,7 +167423,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167452,7 +167437,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167466,7 +167451,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167480,7 +167465,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167494,7 +167479,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167508,7 +167493,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167522,7 +167507,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167536,7 +167521,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167550,7 +167535,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167564,7 +167549,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167578,7 +167563,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167592,7 +167577,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167606,7 +167591,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167620,7 +167605,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167634,7 +167619,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167648,7 +167633,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167662,7 +167647,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167676,7 +167661,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167690,7 +167675,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167704,7 +167689,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167718,7 +167703,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167732,7 +167717,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167746,7 +167731,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167760,7 +167745,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167774,7 +167759,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167788,7 +167773,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167802,7 +167787,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167816,7 +167801,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167830,7 +167815,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167844,7 +167829,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167858,7 +167843,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167872,7 +167857,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167886,7 +167871,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167900,7 +167885,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167914,7 +167899,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167928,7 +167913,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167942,7 +167927,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167956,7 +167941,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167970,7 +167955,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167984,7 +167969,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167998,7 +167983,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168012,7 +167997,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168026,7 +168011,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168040,7 +168025,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168054,7 +168039,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168068,7 +168053,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168082,7 +168067,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168096,7 +168081,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168110,7 +168095,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168124,7 +168109,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168138,7 +168123,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168152,7 +168137,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168166,7 +168151,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168180,7 +168165,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168194,7 +168179,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168208,7 +168193,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168222,7 +168207,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168236,7 +168221,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168250,7 +168235,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168264,7 +168249,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168278,7 +168263,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168292,7 +168277,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168306,7 +168291,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168320,7 +168305,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168334,7 +168319,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168348,7 +168333,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168362,7 +168347,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168376,7 +168361,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168390,7 +168375,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168404,7 +168389,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168418,7 +168403,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168432,7 +168417,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168446,7 +168431,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168460,7 +168445,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168474,7 +168459,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168488,7 +168473,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168502,7 +168487,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168516,7 +168501,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168530,7 +168515,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168544,7 +168529,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168558,7 +168543,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168572,7 +168557,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168586,7 +168571,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168600,7 +168585,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168614,7 +168599,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168628,7 +168613,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168642,7 +168627,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168656,7 +168641,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168670,7 +168655,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168684,7 +168669,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168698,7 +168683,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168712,7 +168697,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168726,7 +168711,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168740,7 +168725,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168754,7 +168739,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168768,7 +168753,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168782,7 +168767,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168796,7 +168781,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168810,7 +168795,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168824,7 +168809,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168838,7 +168823,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168852,7 +168837,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168866,7 +168851,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168880,7 +168865,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168894,7 +168879,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168908,7 +168893,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168922,7 +168907,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168936,7 +168921,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168950,7 +168935,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168964,7 +168949,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168978,7 +168963,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168992,7 +168977,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169006,7 +168991,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169020,7 +169005,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169034,7 +169019,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169048,7 +169033,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169062,7 +169047,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169076,7 +169061,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169090,7 +169075,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169104,7 +169089,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169118,7 +169103,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169132,7 +169117,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169146,7 +169131,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169160,7 +169145,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169174,7 +169159,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169188,7 +169173,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169202,7 +169187,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169216,7 +169201,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169230,7 +169215,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169244,7 +169229,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169258,7 +169243,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169272,7 +169257,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169286,7 +169271,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169300,7 +169285,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169314,7 +169299,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -169328,7 +169313,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169342,7 +169327,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169356,7 +169341,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169370,7 +169355,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169384,7 +169369,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169398,7 +169383,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169412,7 +169397,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169426,7 +169411,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169440,7 +169425,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169454,7 +169439,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169468,7 +169453,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169482,7 +169467,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169496,7 +169481,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169510,7 +169495,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169524,7 +169509,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169538,7 +169523,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169552,7 +169537,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169566,7 +169551,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169580,7 +169565,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169594,7 +169579,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169608,7 +169593,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169622,7 +169607,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169636,7 +169621,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169650,7 +169635,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169664,7 +169649,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169678,7 +169663,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169692,7 +169677,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169706,7 +169691,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169720,7 +169705,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169734,7 +169719,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169748,7 +169733,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169762,7 +169747,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169776,7 +169761,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169790,7 +169775,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169804,7 +169789,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169818,7 +169803,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169832,7 +169817,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169846,7 +169831,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169860,7 +169845,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169874,7 +169859,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169888,7 +169873,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169902,7 +169887,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169916,7 +169901,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169930,7 +169915,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169944,7 +169929,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169958,7 +169943,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169972,7 +169957,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169986,7 +169971,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170000,7 +169985,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170014,7 +169999,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170028,7 +170013,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170042,7 +170027,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170056,7 +170041,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170070,7 +170055,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170084,7 +170069,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170098,7 +170083,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170112,7 +170097,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170126,7 +170111,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170140,7 +170125,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170154,7 +170139,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170168,7 +170153,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170182,7 +170167,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170196,7 +170181,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170210,7 +170195,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170224,7 +170209,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170238,7 +170223,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170252,7 +170237,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170266,7 +170251,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170280,7 +170265,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170294,7 +170279,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170308,7 +170293,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170322,7 +170307,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170336,7 +170321,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170350,7 +170335,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170364,7 +170349,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170378,7 +170363,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170392,7 +170377,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170406,7 +170391,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170420,7 +170405,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170434,7 +170419,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170448,7 +170433,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170462,7 +170447,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170476,7 +170461,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170490,7 +170475,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170504,7 +170489,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170518,7 +170503,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170532,7 +170517,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170546,7 +170531,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170560,7 +170545,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170574,7 +170559,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170588,7 +170573,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170602,7 +170587,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170616,7 +170601,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170630,7 +170615,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170644,7 +170629,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170658,7 +170643,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170672,7 +170657,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170686,7 +170671,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170700,7 +170685,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170714,7 +170699,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170728,7 +170713,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170742,7 +170727,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170756,7 +170741,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170770,7 +170755,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170784,7 +170769,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170798,7 +170783,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170812,7 +170797,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170826,7 +170811,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170840,7 +170825,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170854,7 +170839,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170868,7 +170853,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170882,7 +170867,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170896,7 +170881,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170910,7 +170895,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170924,7 +170909,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170938,7 +170923,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170952,7 +170937,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170966,7 +170951,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170980,7 +170965,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170994,7 +170979,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171008,7 +170993,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171022,7 +171007,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171036,7 +171021,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171050,7 +171035,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171064,7 +171049,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171078,7 +171063,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171092,7 +171077,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171106,7 +171091,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171120,7 +171105,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171134,7 +171119,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171148,7 +171133,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171162,7 +171147,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171176,7 +171161,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171190,7 +171175,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171204,7 +171189,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171218,7 +171203,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171232,7 +171217,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171246,7 +171231,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171260,7 +171245,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171274,7 +171259,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171288,7 +171273,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171302,7 +171287,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171316,7 +171301,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171330,7 +171315,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171344,7 +171329,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171358,7 +171343,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171372,7 +171357,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171386,7 +171371,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171400,7 +171385,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171414,7 +171399,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171428,7 +171413,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171442,7 +171427,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171456,7 +171441,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171470,7 +171455,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171484,7 +171469,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171498,7 +171483,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -171512,7 +171497,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171526,7 +171511,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171540,7 +171525,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171554,7 +171539,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171568,7 +171553,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171582,7 +171567,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171596,7 +171581,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171610,7 +171595,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171624,7 +171609,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171638,7 +171623,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -171652,7 +171637,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -171666,7 +171651,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -171680,7 +171665,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -171694,7 +171679,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -171708,7 +171693,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -171722,7 +171707,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -171736,7 +171721,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -171750,7 +171735,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -171764,7 +171749,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -171778,7 +171763,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -171792,7 +171777,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -171806,7 +171791,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -171820,7 +171805,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -171834,7 +171819,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -171848,7 +171833,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171862,7 +171847,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171876,7 +171861,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171890,7 +171875,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -171904,7 +171889,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171918,7 +171903,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171932,7 +171917,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171946,7 +171931,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -171960,7 +171945,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171974,7 +171959,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171988,7 +171973,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172002,7 +171987,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172016,7 +172001,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172030,7 +172015,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172044,7 +172029,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172058,7 +172043,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172072,7 +172057,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172086,7 +172071,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172100,7 +172085,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172114,7 +172099,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172128,7 +172113,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -172142,7 +172127,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172156,7 +172141,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172170,7 +172155,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172184,7 +172169,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172198,7 +172183,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172212,7 +172197,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172226,7 +172211,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172240,7 +172225,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172254,7 +172239,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172268,7 +172253,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172282,7 +172267,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172296,7 +172281,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172310,7 +172295,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172324,7 +172309,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172338,7 +172323,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172352,7 +172337,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172366,7 +172351,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172380,7 +172365,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172394,7 +172379,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172408,7 +172393,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172422,7 +172407,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172436,7 +172421,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172450,7 +172435,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172464,7 +172449,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172478,7 +172463,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172492,7 +172477,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172506,7 +172491,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172520,7 +172505,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172534,7 +172519,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172548,7 +172533,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172562,7 +172547,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172576,7 +172561,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172590,7 +172575,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172604,7 +172589,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172618,7 +172603,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172632,7 +172617,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -172646,7 +172631,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -172660,7 +172645,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172674,7 +172659,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172688,7 +172673,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172702,7 +172687,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172716,7 +172701,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172730,7 +172715,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172744,7 +172729,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172758,7 +172743,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172772,7 +172757,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172786,7 +172771,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172800,7 +172785,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172814,7 +172799,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172828,7 +172813,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172842,7 +172827,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172856,7 +172841,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172870,7 +172855,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172884,7 +172869,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -172898,7 +172883,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172912,7 +172897,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172926,7 +172911,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172940,7 +172925,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172954,7 +172939,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172968,7 +172953,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172982,7 +172967,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172996,7 +172981,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173010,7 +172995,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173024,7 +173009,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173038,7 +173023,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173052,7 +173037,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173066,7 +173051,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -173080,7 +173065,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173094,7 +173079,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173108,7 +173093,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173122,7 +173107,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173136,7 +173121,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173150,7 +173135,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173164,7 +173149,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173178,7 +173163,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173192,7 +173177,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173206,7 +173191,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173220,7 +173205,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -173234,7 +173219,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173248,7 +173233,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173262,7 +173247,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173276,7 +173261,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173290,7 +173275,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173304,7 +173289,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173318,7 +173303,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173332,7 +173317,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173346,7 +173331,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173360,7 +173345,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173374,7 +173359,7 @@ SF-RI 1 (сурфактант)
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -173383,12 +173368,12 @@ SF-RI 1 (сурфактант)
 <tr>
 <td>1030</td>
 <td>B08.765.001</td>
-<td>Мәйітті патолог-анатомдық зерттеу- аутопсия</td>
-<td>19666,61</td>
+<td>Мәйітті патолог-анатомдық зерттеу- күрделілігі 1- санаттағы аутопсия</td>
+<td>48 719,41</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173396,13 +173381,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1031</td>
-<td>B08.766.001</td>
-<td>Зерттеудің лабораториялық әдісінсіз мәйітке сот- медициналық сараптама жүргізу</td>
-<td>39706,58</td>
+<td>B08.767.001</td>
+<td>Мәйітті патолог-анатомдық зерттеу- күрделілігі 2- санаттағы аутопсия</td>
+<td>62 428,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173410,13 +173395,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1032</td>
-<td>B08.734.001</td>
-<td>Күрделілігі 1 санат ота-биопсиялық материалдың 1блок- препаратын гистологиялық зерттеу</td>
-<td>1969,30</td>
+<td>B08.768.001</td>
+<td>Мәйітті патолог-анатомдық зерттеу- күрделілігі 3- санаттағы аутопсия</td>
+<td>87 726,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173424,13 +173409,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1033</td>
-<td>B08.735.001</td>
-<td>Күрделілігі 2 санат ота-биопсиялық материалдың 1блок- препаратын гистологиялық зерттеу</td>
-<td>2212,72</td>
+<td>B08.769.001</td>
+<td>Мәйітті патолог-анатомдық зерттеу- күрделілігі 4- санаттағы аутопсия</td>
+<td>126 640,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173438,13 +173423,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1034</td>
-<td>B08.737.001</td>
-<td>Күрделілігі 3 санат ота-биопсиялық материалдың 1блок- препаратын гистологиялық зерттеу</td>
-<td>2424,05</td>
+<td>B08.766.001</td>
+<td>Зерттеудің лабораториялық әдісінсіз мәйітке сот- медициналық сараптама жүргізу</td>
+<td>39706,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173452,13 +173437,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1035</td>
-<td>B08.764.001</td>
-<td>Күрделілігі 4- санатты ота- биопсиялық материалдың 1 шығыр- препаратын гистологиялық зерттеу</td>
-<td>3194,51</td>
+<td>B08.734.001</td>
+<td>Күрделілігі 1 санат ота-биопсиялық материалдың 1блок- препаратын гистологиялық зерттеу</td>
+<td>1969,30</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173466,13 +173451,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1036</td>
-<td>B08.742.001</td>
-<td>Вагиналдық эпителий пролиферациясы деңгейін бағалау (&quot;гормоналдық айна&quot;)</td>
-<td>95,72</td>
+<td>B08.735.001</td>
+<td>Күрделілігі 2 санат ота-биопсиялық материалдың 1блок- препаратын гистологиялық зерттеу</td>
+<td>2212,72</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173480,13 +173465,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1037</td>
-<td>B08.743.001</td>
-<td>Мұрын қуысының шырышты қабығынан алынған қырындының риноцитограммасы</td>
-<td>99,49</td>
+<td>B08.737.001</td>
+<td>Күрделілігі 3 санат ота-биопсиялық материалдың 1блок- препаратын гистологиялық зерттеу</td>
+<td>2424,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173494,13 +173479,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1038</td>
-<td>B08.746.001</td>
-<td>Цитологиялық зерттеу (Романовский-Гимзе, Папаниколай, Diff-Qwik, Май-Грюнвальд, Грамм, Паппенгейм бойынша бояу)</td>
-<td>573,32</td>
+<td>B08.764.001</td>
+<td>Күрделілігі 4- санатты ота- биопсиялық материалдың 1 шығыр- препаратын гистологиялық зерттеу</td>
+<td>3194,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173508,13 +173493,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1039</td>
-<td>B08.749.001</td>
-<td>Жатыр мойнынан сүртіндіні цитологиялық зерттеу. ПАП-тест</td>
-<td>880,46</td>
+<td>B08.742.001</td>
+<td>Вагиналдық эпителий пролиферациясы деңгейін бағалау (&quot;гормоналдық айна&quot;)</td>
+<td>95,72</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173522,13 +173507,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1040</td>
-<td>B08.750.001</td>
-<td>Материалды цитологиялық зерттеу (интраоперациялық экспресс цитологиялық зерттеу)</td>
-<td>113,74</td>
+<td>B08.743.001</td>
+<td>Мұрын қуысының шырышты қабығынан алынған қырындының риноцитограммасы</td>
+<td>99,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173536,13 +173521,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1041</td>
-<td>B08.758.001</td>
-<td>Қызыл конгомен биоптатты цитохимиялық зерттеу</td>
-<td>4192,72</td>
+<td>B08.746.001</td>
+<td>Цитологиялық зерттеу (Романовский-Гимзе, Папаниколай, Diff-Qwik, Май-Грюнвальд, Грамм, Паппенгейм бойынша бояу)</td>
+<td>573,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173550,13 +173535,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1042</td>
-<td>B08.759.001</td>
-<td>Күмістеу арқылы биоптатты цитохимиялық зерттеу</td>
-<td>5292,38</td>
+<td>B08.749.001</td>
+<td>Жатыр мойнынан сүртіндіні цитологиялық зерттеу. ПАП-тест</td>
+<td>880,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173564,13 +173549,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1043</td>
-<td>B08.760.001</td>
-<td>Трихроммен биоптатты цитохимиялық зерттеу</td>
-<td>7910,97</td>
+<td>B08.750.001</td>
+<td>Материалды цитологиялық зерттеу (интраоперациялық экспресс цитологиялық зерттеу)</td>
+<td>113,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173578,13 +173563,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1044</td>
-<td>B08.761.001</td>
-<td>ШИК реакциясымен биоптатты цитохимиялық зерттеу</td>
-<td>4946,22</td>
+<td>B08.758.001</td>
+<td>Қызыл конгомен биоптатты цитохимиялық зерттеу</td>
+<td>4192,72</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173592,13 +173577,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1045</td>
-<td>B08.851.021</td>
-<td>Биопсиялық материалды иммундық флюоресценттік микроскопия әдісімен зерттеу</td>
-<td>29014,24</td>
+<td>B08.759.001</td>
+<td>Күмістеу арқылы биоптатты цитохимиялық зерттеу</td>
+<td>5292,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173606,13 +173591,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1046</td>
-<td>B08.851.022</td>
-<td>Гистологиялық/цитологиялық материалды электрондық микроскопия әдісімен зерттеу</td>
-<td>29097,86</td>
+<td>B08.760.001</td>
+<td>Трихроммен биоптатты цитохимиялық зерттеу</td>
+<td>7910,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173620,13 +173605,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1047</td>
-<td>B08.763.001</td>
-<td>Оталық және биопсиялық материалды экспресс зерттеу ( 1- блок препаратты)</td>
-<td>2362,65</td>
+<td>B08.761.001</td>
+<td>ШИК реакциясымен биоптатты цитохимиялық зерттеу</td>
+<td>4946,22</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173634,13 +173619,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1048</td>
-<td>B08.749.002</td>
-<td>Сұйықтық цитологиясы құралында ПАП-тестілеу жатыр мойнынан жағындыны йитологиялық зерттеу</td>
-<td>3703,20</td>
+<td>B08.851.021</td>
+<td>Биопсиялық материалды иммундық флюоресценттік микроскопия әдісімен зерттеу</td>
+<td>29014,24</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173648,83 +173633,83 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1049</td>
+<td>B08.851.022</td>
+<td>Гистологиялық/цитологиялық материалды электрондық микроскопия әдісімен зерттеу</td>
+<td>29097,86</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1050</td>
+<td>B08.763.001</td>
+<td>Оталық және биопсиялық материалды экспресс зерттеу ( 1- блок препаратты)</td>
+<td>2362,65</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1051</td>
+<td>B08.749.002</td>
+<td>Сұйықтық цитологиясы құралында ПАП-тестілеу жатыр мойнынан жағындыны йитологиялық зерттеу</td>
+<td>3703,20</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1052</td>
 <td>B09.000.000</td>
 <td>Молекулярлық биология және молекулярлық генетика</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1050</td>
+<td>1053</td>
 <td>B09.000.016</td>
 <td>Цитогенетикалық әдіс</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1051</td>
+<td>1054</td>
 <td>B09.763.016</td>
 <td>Мутагендік әсер етудің биологиялық индикациясы (Хромосомдық аберрациялар)</td>
 <td>4339,93</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1052</td>
-<td>B09.765.016</td>
-<td>Биологиялыық материалды ДНҚ-зондтарын пайдалану арқылы (ФИШ-әдісі)молекулярлық-цитогенетикалық зерттеу</td>
-<td>61930,19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1053</td>
-<td>B09.766.016</td>
-<td>Сүйек миы жасушаларын ДНҚ-зондтарын пайдалану арқылы (ФИШ-әдісі)молекулярлық-цитогенетикалық зерттеу</td>
-<td>63070,10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1054</td>
-<td>B09.767.016</td>
-<td>Перифериялық қан лимфоциттерінің (1 зонд) ДНҚ-зондтарын пайдалану арқылы (ФИШ-әдісі) молекулярлық-цитогенетикалық зерттеуін жүргізу</td>
-<td>55794,30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173732,13 +173717,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1055</td>
-<td>B09.768.016</td>
-<td>ДНҚ-зондтарын пайдалану арқылы (ФИШ-әдісі) амниотикалық сұйықтықтың культивацияланбаған жасушаларының молекулярлық-цитогенетикалық зерттеуін жүргізу (1 зонд)</td>
-<td>37487,08</td>
+<td>B09.765.016</td>
+<td>Биологиялыық материалды ДНҚ-зондтарын пайдалану арқылы (ФИШ-әдісі)молекулярлық-цитогенетикалық зерттеу</td>
+<td>61930,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173746,13 +173731,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1056</td>
-<td>B09.769.016</td>
-<td>ДНҚ-зондтарын пайдалану арқылы (ФИШ-әдісі) цитологиялық препараттардың, гистологиялық қималардың молекулярлық-цитогенетикалық зерттеуін жүргізу (1зонд)</td>
-<td>55484,40</td>
+<td>B09.766.016</td>
+<td>Сүйек миы жасушаларын ДНҚ-зондтарын пайдалану арқылы (ФИШ-әдісі)молекулярлық-цитогенетикалық зерттеу</td>
+<td>63070,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173760,13 +173745,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1057</td>
-<td>B09.770.016</td>
-<td>Перифериялық қан жасушаларын (кариотип) цитогенетикалық зерттеу</td>
-<td>2977,01</td>
+<td>B09.767.016</td>
+<td>Перифериялық қан лимфоциттерінің (1 зонд) ДНҚ-зондтарын пайдалану арқылы (ФИШ-әдісі) молекулярлық-цитогенетикалық зерттеуін жүргізу</td>
+<td>55794,30</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173774,13 +173759,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1058</td>
-<td>B09.771.016</td>
-<td>Хорион талшықтарын/ бала жолдасын цитогенетикалық зерттеу</td>
-<td>6036,54</td>
+<td>B09.768.016</td>
+<td>ДНҚ-зондтарын пайдалану арқылы (ФИШ-әдісі) амниотикалық сұйықтықтың культивацияланбаған жасушаларының молекулярлық-цитогенетикалық зерттеуін жүргізу (1 зонд)</td>
+<td>37487,08</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173788,13 +173773,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1059</td>
-<td>B09.772.016</td>
-<td>Амниотикалық сұйықтық жасушаларын цитогенетикалық зерттеу</td>
-<td>13022,67</td>
+<td>B09.769.016</td>
+<td>ДНҚ-зондтарын пайдалану арқылы (ФИШ-әдісі) цитологиялық препараттардың, гистологиялық қималардың молекулярлық-цитогенетикалық зерттеуін жүргізу (1зонд)</td>
+<td>55484,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173802,13 +173787,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1060</td>
-<td>B09.773.016</td>
-<td>Сүйек кемігі жасушаларын цитогенетикалық зерттеу</td>
-<td>4399,43</td>
+<td>B09.770.016</td>
+<td>Перифериялық қан жасушаларын (кариотип) цитогенетикалық зерттеу</td>
+<td>2977,01</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173816,13 +173801,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1061</td>
-<td>B09.775.016</td>
-<td>Кіндік қаны жасушаларын цитогенетикалық зерттеу</td>
-<td>2497,30</td>
+<td>B09.771.016</td>
+<td>Хорион талшықтарын/ бала жолдасын цитогенетикалық зерттеу</td>
+<td>6036,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173830,27 +173815,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1062</td>
-<td>B09.000.017</td>
-<td>Молекулалық-генетикалық әдіс</td>
+<td>B09.772.016</td>
+<td>Амниотикалық сұйықтық жасушаларын цитогенетикалық зерттеу</td>
+<td>13022,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
 </tr>
 <tr>
 <td>1063</td>
-<td>B09.776.017</td>
-<td>Молекулалық-генетикалық әдіспен биологиялық материалдан ДНҚ бөлу</td>
-<td>2822,07</td>
+<td>B09.773.016</td>
+<td>Сүйек кемігі жасушаларын цитогенетикалық зерттеу</td>
+<td>4399,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173858,13 +173843,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1064</td>
-<td>B09.777.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ-ды мутациялануға зерттеу</td>
-<td>14631,85</td>
+<td>B09.775.016</td>
+<td>Кіндік қаны жасушаларын цитогенетикалық зерттеу</td>
+<td>2497,30</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173872,27 +173857,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1065</td>
-<td>B09.778.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ-да адам хромосомаларының 17 аутосомдық маркерлерін анықтау</td>
-<td>59159,00</td>
+<td>B09.000.017</td>
+<td>Молекулалық-генетикалық әдіс</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>0</td>
-<td>√</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1066</td>
-<td>B09.779.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы Y хромосомасының AZF факторын анықтау</td>
-<td>9555,02</td>
+<td>B09.776.017</td>
+<td>Молекулалық-генетикалық әдіспен биологиялық материалдан ДНҚ бөлу</td>
+<td>2822,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173900,13 +173885,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1067</td>
-<td>B09.780.017</td>
-<td>Молекулалық-генетикалық әдіспен ана қанындағы ұрықтың Y хромосомасын анықтау</td>
-<td>18588,47</td>
+<td>B09.777.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ-ды мутациялануға зерттеу</td>
+<td>14631,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173914,13 +173899,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1068</td>
-<td>B09.781.017</td>
-<td>Молекулалық-генетикалық әдіспен 17 аллея бойынша ДНҚ гаплотоптарын анықтау</td>
-<td>22674,01</td>
+<td>B09.778.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ-да адам хромосомаларының 17 аутосомдық маркерлерін анықтау</td>
+<td>59159,00</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>0</td>
@@ -173928,13 +173913,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1069</td>
-<td>B09.782.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ F2 мутациясын анықтау</td>
-<td>5807,80</td>
+<td>B09.779.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы Y хромосомасының AZF факторын анықтау</td>
+<td>9555,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173942,13 +173927,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1070</td>
-<td>B09.783.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ F5 мутациясын анықтау</td>
-<td>5807,80</td>
+<td>B09.780.017</td>
+<td>Молекулалық-генетикалық әдіспен ана қанындағы ұрықтың Y хромосомасын анықтау</td>
+<td>18588,47</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173956,27 +173941,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1071</td>
-<td>B09.784.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы лейкодистрофия кезіндегі LMNB1 генінің мутациялануын анықтау</td>
-<td>42603,35</td>
+<td>B09.781.017</td>
+<td>Молекулалық-генетикалық әдіспен 17 аллея бойынша ДНҚ гаплотоптарын анықтау</td>
+<td>22674,01</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>2</td>
+<td>0</td>
 <td>√</td>
 </tr>
 <tr>
 <td>1072</td>
-<td>B09.785.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы Дюшен миопатиясы кезіндегі MLD генінің мутациялануын анықтау</td>
-<td>48614,35</td>
+<td>B09.782.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ F2 мутациясын анықтау</td>
+<td>5807,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173984,13 +173969,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1073</td>
-<td>B09.786.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы фенилкетонурия кезіндегі PAH генінің мутациялануын анықтау</td>
-<td>15104,85</td>
+<td>B09.783.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ F5 мутациясын анықтау</td>
+<td>5807,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173998,13 +173983,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1074</td>
-<td>B09.787.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы арқа бұлшықет амиотрофиясы кезіндегі SMN генінің мутациялануын анықтау</td>
-<td>42892,35</td>
+<td>B09.784.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы лейкодистрофия кезіндегі LMNB1 генінің мутациялануын анықтау</td>
+<td>42603,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174012,13 +173997,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1075</td>
-<td>B09.788.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы муковосцидоз генінің мутациялануын анықтау</td>
-<td>9555,02</td>
+<td>B09.785.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы Дюшен миопатиясы кезіндегі MLD генінің мутациялануын анықтау</td>
+<td>48614,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174026,13 +174011,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1076</td>
-<td>B09.789.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы 7 типтік Слай ауруы кезіндегі ген мутацияларын анықтау</td>
-<td>42892,35</td>
+<td>B09.786.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы фенилкетонурия кезіндегі PAH генінің мутациялануын анықтау</td>
+<td>15104,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174040,13 +174025,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1077</td>
-<td>B09.790.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы 1 типтік Гурлер синдромы кезіндегі ген мутацияларын анықтау</td>
+<td>B09.787.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы арқа бұлшықет амиотрофиясы кезіндегі SMN генінің мутациялануын анықтау</td>
 <td>42892,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174054,13 +174039,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1078</td>
-<td>B09.791.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы 6 типтік Марото-Лами синдромы кезіндегі ген мутацияларын анықтау</td>
-<td>42892,35</td>
+<td>B09.788.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы муковосцидоз генінің мутациялануын анықтау</td>
+<td>9555,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174068,13 +174053,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1079</td>
-<td>B09.792.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы Мартин-Белл синдромы кезіндегі ген мутацияларын анықтау</td>
+<td>B09.789.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы 7 типтік Слай ауруы кезіндегі ген мутацияларын анықтау</td>
 <td>42892,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174082,13 +174067,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1080</td>
-<td>B09.793.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы 4 типтік Моркио синдромы кезіндегі ген мутацияларын анықтау</td>
+<td>B09.790.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы 1 типтік Гурлер синдромы кезіндегі ген мутацияларын анықтау</td>
 <td>42892,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174096,13 +174081,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1081</td>
-<td>B09.794.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы 3 типтік Санфилиппо синдромы кезіндегі ген мутацияларын анықтау</td>
+<td>B09.791.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы 6 типтік Марото-Лами синдромы кезіндегі ген мутацияларын анықтау</td>
 <td>42892,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174110,13 +174095,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1082</td>
-<td>B09.795.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы 2 типтік Хантер синдромы кезіндегі ген мутацияларын анықтау</td>
+<td>B09.792.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы Мартин-Белл синдромы кезіндегі ген мутацияларын анықтау</td>
 <td>42892,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174124,13 +174109,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1083</td>
-<td>B09.796.017</td>
-<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы мукополисахаридоз кезіндегі мутацияларды анықтау</td>
+<td>B09.793.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы 4 типтік Моркио синдромы кезіндегі ген мутацияларын анықтау</td>
 <td>42892,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174138,13 +174123,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1084</td>
-<td>B09.797.017</td>
-<td>Молекулалық-генетикалық әдіспен адамның геномында полиморфизмді анықтау</td>
-<td>42188,17</td>
+<td>B09.794.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы 3 типтік Санфилиппо синдромы кезіндегі ген мутацияларын анықтау</td>
+<td>42892,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174152,13 +174137,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1085</td>
-<td>B09.798.017</td>
-<td>Молекулалық-генетикалық әдіспен ана қанындағы ұрықтың резус факторын анықтау</td>
-<td>12064,41</td>
+<td>B09.795.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы 2 типтік Хантер синдромы кезіндегі ген мутацияларын анықтау</td>
+<td>42892,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174166,83 +174151,83 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1086</td>
+<td>B09.796.017</td>
+<td>Молекулалық-генетикалық әдіспен ДНҚ-дағы мукополисахаридоз кезіндегі мутацияларды анықтау</td>
+<td>42892,35</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1087</td>
+<td>B09.797.017</td>
+<td>Молекулалық-генетикалық әдіспен адамның геномында полиморфизмді анықтау</td>
+<td>42188,17</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1088</td>
+<td>B09.798.017</td>
+<td>Молекулалық-генетикалық әдіспен ана қанындағы ұрықтың резус факторын анықтау</td>
+<td>12064,41</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1089</td>
 <td>B09.799.017</td>
 <td>Молекулалық-генетикалық әдіспен 1 класстық қанның HLA-типтендіруін жүргізу</td>
 <td>46243,09</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
 <td>√</td>
 </tr>
 <tr>
-<td>1087</td>
+<td>1090</td>
 <td>B09.800.017</td>
 <td>Молекулалық-генетикалық әдіспен 2 класстық қанның HLA-типтендіруін жүргізу</td>
 <td>23287,75</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
 <td>√</td>
 </tr>
 <tr>
-<td>1088</td>
+<td>1091</td>
 <td>B09.861.017</td>
 <td>Молекулярлы-генетикалық әдісімен (генотиптеу әдісімен) АИТВ 1-дің антиретровирустық препараттарына дәрілік тұрақтылығын анықтау</td>
 <td>114760,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1089</td>
-<td>B09.000.018</td>
-<td>Флуориметриялық әдіс</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1090</td>
-<td>B09.801.018</td>
-<td>Флуориметриялық әдіспен қандағы орфандық ауруларды диагностикалау</td>
-<td>23679,57</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1091</td>
-<td>B09.802.018</td>
-<td>Флуориметриялық әдіспен дәрілік мониторингілеу</td>
-<td>39183,20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174250,13 +174235,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1092</td>
-<td>B09.000.019</td>
-<td>Масс-спектрометрия</td>
+<td>B09.000.018</td>
+<td>Флуориметриялық әдіс</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -174264,13 +174249,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1093</td>
-<td>B09.801.019</td>
-<td>Масс-спектрометрия әдісімен қандағы орфан ауруларын диагностикалау</td>
-<td>33020,19</td>
+<td>B09.801.018</td>
+<td>Флуориметриялық әдіспен қандағы орфандық ауруларды диагностикалау</td>
+<td>23679,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174278,13 +174263,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1094</td>
-<td>B09.802.019</td>
-<td>Масс-спектрометрия әдісімен орфан ауруларын дәрілік мониторингілеу</td>
+<td>B09.802.018</td>
+<td>Флуориметриялық әдіспен дәрілік мониторингілеу</td>
 <td>39183,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174292,13 +174277,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1095</td>
-<td>B09.000.020</td>
-<td>Полимераздық тізбекті реакция (ПТР)</td>
+<td>B09.000.019</td>
+<td>Масс-спектрометрия</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -174306,55 +174291,55 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1096</td>
+<td>B09.801.019</td>
+<td>Масс-спектрометрия әдісімен қандағы орфан ауруларын диагностикалау</td>
+<td>33020,19</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1097</td>
+<td>B09.802.019</td>
+<td>Масс-спектрометрия әдісімен орфан ауруларын дәрілік мониторингілеу</td>
+<td>39183,20</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1098</td>
+<td>B09.000.020</td>
+<td>Полимераздық тізбекті реакция (ПТР)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1099</td>
 <td>B09.806.020</td>
 <td>ПТР әдісімен күмәнді нәтижелер алынғанда растаушы молекулярлық -генетикалық тест (NASBA)</td>
 <td>4852,13</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1097</td>
-<td>B09.807.020</td>
-<td>ПТР әдісімен биологиялық материалда Brucella abortus-ты (вруцелла абортус) анықтау</td>
-<td>1927,34</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1098</td>
-<td>B09.808.020</td>
-<td>ПТР әдісімен биологиялық материалда Brucella melitensis-ты (бруцелла мелитенсис) анықтау</td>
-<td>1927,34</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1099</td>
-<td>B09.809.020</td>
-<td>ПТР әдісімен биологиялық материалда Brucella suis-ты (бруцелла суис) анықтау</td>
-<td>1927,34</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174362,13 +174347,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1100</td>
-<td>B09.810.020</td>
-<td>ПТР әдісімен биологиялық материалда Candida ssb –ны (кандида) анықтау</td>
-<td>1691,34</td>
+<td>B09.807.020</td>
+<td>ПТР әдісімен биологиялық материалда Brucella abortus-ты (вруцелла абортус) анықтау</td>
+<td>1927,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174376,13 +174361,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1101</td>
-<td>B09.811.020</td>
-<td>ПТР әдісімен биологиялық материалда Chlamydia ssb –ны (хламидия) анықтау</td>
-<td>1873,83</td>
+<td>B09.808.020</td>
+<td>ПТР әдісімен биологиялық материалда Brucella melitensis-ты (бруцелла мелитенсис) анықтау</td>
+<td>1927,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174390,13 +174375,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1102</td>
-<td>B09.812.020</td>
-<td>ПТР әдісімен биологиялық материалда Gardnerella vaginalis –ты (гарднерелла вагиналис) анықтау</td>
-<td>1691,34</td>
+<td>B09.809.020</td>
+<td>ПТР әдісімен биологиялық материалда Brucella suis-ты (бруцелла суис) анықтау</td>
+<td>1927,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174404,13 +174389,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1103</td>
-<td>B09.813.020</td>
-<td>ПТР әдісімен биологиялық материалда Helicobacter pylori-ді (хеликобактер пилори) анықтау</td>
-<td>1727,34</td>
+<td>B09.810.020</td>
+<td>ПТР әдісімен биологиялық материалда Candida ssb –ны (кандида) анықтау</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174418,13 +174403,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1104</td>
-<td>B09.814.020</td>
-<td>ПТР әдісімен биологиялық материалда Listeria-ны (листерия) анықтау</td>
-<td>1391,51</td>
+<td>B09.811.020</td>
+<td>ПТР әдісімен биологиялық материалда Chlamydia ssb –ны (хламидия) анықтау</td>
+<td>1873,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174432,13 +174417,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1105</td>
-<td>B09.815.020</td>
-<td>ПТР әдісімен биологиялық материалда Mycobacterium tuberculosis-ты (микобактериум туберкулезис) анықтау</td>
+<td>B09.812.020</td>
+<td>ПТР әдісімен биологиялық материалда Gardnerella vaginalis –ты (гарднерелла вагиналис) анықтау</td>
 <td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174446,13 +174431,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1106</td>
-<td>B09.816.020</td>
-<td>ПТР әдісімен биологиялық материалда Mycoplasma hominis –ты (микоплазма хоминис) анықтау</td>
-<td>1535,40</td>
+<td>B09.813.020</td>
+<td>ПТР әдісімен биологиялық материалда Helicobacter pylori-ді (хеликобактер пилори) анықтау</td>
+<td>1727,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174460,13 +174445,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1107</td>
-<td>B09.817.020</td>
-<td>ПТР әдісімен биологиялық материалда Mycoplasma pneumoniae –ны (микоплазма пневмония) анықтау</td>
-<td>1691,34</td>
+<td>B09.814.020</td>
+<td>ПТР әдісімен биологиялық материалда Listeria-ны (листерия) анықтау</td>
+<td>1391,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174474,13 +174459,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1108</td>
-<td>B09.818.020</td>
-<td>ПТР әдісімен биологиялық материалда Mycoplasma urealiticums-ты (микоплазма уреалитикумс) анықтау</td>
-<td>1788,43</td>
+<td>B09.815.020</td>
+<td>ПТР әдісімен биологиялық материалда Mycobacterium tuberculosis-ты (микобактериум туберкулезис) анықтау</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174488,13 +174473,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1109</td>
-<td>B09.852.020</td>
-<td>Биологиялық материалда Mycoplasma enitalium-ды (микоплазма эниталиум) ПЦР әдісімен анықтау</td>
-<td>1788,43</td>
+<td>B09.816.020</td>
+<td>ПТР әдісімен биологиялық материалда Mycoplasma hominis –ты (микоплазма хоминис) анықтау</td>
+<td>1535,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174502,13 +174487,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1110</td>
-<td>B09.819.020</td>
-<td>ПТР әдісімен биологиялық материалда Neisseria gonorrhea-ны (нейссерия гоноррея) анықтау</td>
-<td>1535,40</td>
+<td>B09.817.020</td>
+<td>ПТР әдісімен биологиялық материалда Mycoplasma pneumoniae –ны (микоплазма пневмония) анықтау</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174516,13 +174501,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1111</td>
-<td>B09.820.020</td>
-<td>ПТР әдісімен биологиялық материалда C гепатиті вирусының PHK анықтау</td>
-<td>2548,09</td>
+<td>B09.818.020</td>
+<td>ПТР әдісімен биологиялық материалда Mycoplasma urealiticums-ты (микоплазма уреалитикумс) анықтау</td>
+<td>1788,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174530,13 +174515,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1112</td>
-<td>B09.821.020</td>
-<td>ПТР әдісімен биологиялық материалда Toxoplasma gondii –ді (токосоплазма гондий) анықтау</td>
-<td>1574,37</td>
+<td>B09.852.020</td>
+<td>Биологиялық материалда Mycoplasma enitalium-ды (микоплазма эниталиум) ПЦР әдісімен анықтау</td>
+<td>1788,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174544,13 +174529,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1113</td>
-<td>B09.822.020</td>
-<td>Сандық ПТР әдісімен биологиялық материалда Toxoplasma gondii –ді (токсоплазма гондий) анықтау</td>
-<td>1731,55</td>
+<td>B09.819.020</td>
+<td>ПТР әдісімен биологиялық материалда Neisseria gonorrhea-ны (нейссерия гоноррея) анықтау</td>
+<td>1535,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174558,13 +174543,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1114</td>
-<td>B09.823.020</td>
-<td>ПТР әдісімен биологиялық материалда Treponema pallidum-ды (трепонема паллидум) анықтау</td>
-<td>2127,34</td>
+<td>B09.820.020</td>
+<td>ПТР әдісімен биологиялық материалда C гепатиті вирусының PHK анықтау</td>
+<td>2548,09</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174572,13 +174557,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1115</td>
-<td>B09.824.020</td>
-<td>ПТР әдісімен биологиялық материалда Trichomonas vaginalis –ты (трихомонас вагиналис) анықтау</td>
-<td>1691,34</td>
+<td>B09.821.020</td>
+<td>ПТР әдісімен биологиялық материалда Toxoplasma gondii –ді (токосоплазма гондий) анықтау</td>
+<td>1574,37</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174586,13 +174571,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1116</td>
-<td>B09.825.020</td>
-<td>ПТР әдісімен биологиялық материалда Ureaplasma urealyticum-ты (уреплазма уреалитикум) анықтау</td>
-<td>1691,34</td>
+<td>B09.822.020</td>
+<td>Сандық ПТР әдісімен биологиялық материалда Toxoplasma gondii –ді (токсоплазма гондий) анықтау</td>
+<td>1731,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174600,13 +174585,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1117</td>
-<td>B09.826.020</td>
-<td>ПТР әдісімен биологиялық материалда аренавирусты анықтау</td>
+<td>B09.823.020</td>
+<td>ПТР әдісімен биологиялық материалда Treponema pallidum-ды (трепонема паллидум) анықтау</td>
 <td>2127,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174614,13 +174599,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1118</td>
-<td>B09.827.020</td>
-<td>ПТР әдісімен биологиялық материалда 1 және 2 типтік қарапайым герпес вирусын анықтау</td>
-<td>1382,73</td>
+<td>B09.824.020</td>
+<td>ПТР әдісімен биологиялық материалда Trichomonas vaginalis –ты (трихомонас вагиналис) анықтау</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174628,13 +174613,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1119</td>
-<td>B09.828.020</td>
-<td>Сандық ПТР әдісімен биологиялық материалда 1 және 2 типтік қарапайым герпес вирусын анықтау</td>
-<td>2053,53</td>
+<td>B09.825.020</td>
+<td>ПТР әдісімен биологиялық материалда Ureaplasma urealyticum-ты (уреплазма уреалитикум) анықтау</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174642,13 +174627,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1120</td>
-<td>B09.829.020</td>
-<td>ПТР әдісімен биологиялық материалда A гепатитінің вирусын анықтау</td>
-<td>1691,34</td>
+<td>B09.826.020</td>
+<td>ПТР әдісімен биологиялық материалда аренавирусты анықтау</td>
+<td>2127,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174656,13 +174641,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1121</td>
-<td>B09.830.020</td>
-<td>ПТР әдісімен биологиялық материалда D гепатитінің вирусын анықтау</td>
-<td>2237,48</td>
+<td>B09.827.020</td>
+<td>ПТР әдісімен биологиялық материалда 1 және 2 типтік қарапайым герпес вирусын анықтау</td>
+<td>1382,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174670,13 +174655,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1122</td>
-<td>B09.831.020</td>
-<td>ПТР әдісімен биологиялық материалда E гепатитінің вирусын анықтау</td>
-<td>1914,63</td>
+<td>B09.828.020</td>
+<td>Сандық ПТР әдісімен биологиялық материалда 1 және 2 типтік қарапайым герпес вирусын анықтау</td>
+<td>2053,53</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174684,13 +174669,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1123</td>
-<td>B09.832.020</td>
-<td>ПТР әдісімен биологиялық материалда G гепатитінің вирусын анықтау</td>
-<td>2127,34</td>
+<td>B09.829.020</td>
+<td>ПТР әдісімен биологиялық материалда A гепатитінің вирусын анықтау</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174698,13 +174683,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1124</td>
-<td>B09.833.020</td>
-<td>ПТР әдісімен биологиялық материалда 3 типтік қарапайым герпес вирусын (ВПГ-III) анықтау</td>
-<td>1691,34</td>
+<td>B09.830.020</td>
+<td>ПТР әдісімен биологиялық материалда D гепатитінің вирусын анықтау</td>
+<td>2237,48</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174712,13 +174697,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1125</td>
-<td>B09.834.020</td>
-<td>ПТР әдісімен биологиялық материалда адамның иммун тапшылығы вирусын (АИТВ) анықтау</td>
-<td>2350,63</td>
+<td>B09.831.020</td>
+<td>ПТР әдісімен биологиялық материалда E гепатитінің вирусын анықтау</td>
+<td>1914,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174726,13 +174711,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1126</td>
-<td>B09.835.020</td>
-<td>ПТР әдісімен биологиялық материалда қызылша вирусын анықтау</td>
+<td>B09.832.020</td>
+<td>ПТР әдісімен биологиялық материалда G гепатитінің вирусын анықтау</td>
 <td>2127,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174740,13 +174725,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1127</td>
-<td>B09.836.020</td>
-<td>ПТР әдісімен биологиялық материалда адамның папиллома вирусын сандық анықтау</td>
-<td>2152,70</td>
+<td>B09.833.020</td>
+<td>ПТР әдісімен биологиялық материалда 3 типтік қарапайым герпес вирусын (ВПГ-III) анықтау</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174754,13 +174739,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1128</td>
-<td>B09.837.020</td>
-<td>ПТР әдісімен биологиялық материалда папиллома вирусын сапалық анықтау</td>
-<td>1086,95</td>
+<td>B09.834.020</td>
+<td>ПТР әдісімен биологиялық материалда адамның иммун тапшылығы вирусын (АИТВ) анықтау</td>
+<td>2350,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174768,13 +174753,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1129</td>
-<td>B09.851.020</td>
-<td>Биологиялық материалда адам папилломасы вирусының генотипін ПЦР әдісімен анықтау</td>
-<td>893,46</td>
+<td>B09.835.020</td>
+<td>ПТР әдісімен биологиялық материалда қызылша вирусын анықтау</td>
+<td>2127,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174782,13 +174767,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1130</td>
-<td>B09.838.020</td>
-<td>ПТР әдісімен биологиялық материалда 6 типтік қарапайым герпес вирусын анықтау</td>
-<td>1691,34</td>
+<td>B09.836.020</td>
+<td>ПТР әдісімен биологиялық материалда адамның папиллома вирусын сандық анықтау</td>
+<td>2152,70</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174796,13 +174781,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1131</td>
-<td>B09.839.020</td>
-<td>ПТР әдісімен биологиялық материалда Эпштейн - Барр вирусын (ВПГ-IV) анықтау</td>
-<td>1691,34</td>
+<td>B09.837.020</td>
+<td>ПТР әдісімен биологиялық материалда папиллома вирусын сапалық анықтау</td>
+<td>1086,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174810,13 +174795,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1132</td>
-<td>B09.840.020</td>
-<td>Сандық ПТР әдісімен биологиялық материалда Эпштейн - Барр вирусын (ВПГ-IV) анықтау</td>
-<td>1927,34</td>
+<td>B09.851.020</td>
+<td>Биологиялық материалда адам папилломасы вирусының генотипін ПЦР әдісімен анықтау</td>
+<td>893,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174824,13 +174809,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1133</td>
-<td>B09.841.020</td>
-<td>ПТР әдісімен биологиялық материалда B гепатиті вирусының ДНҚ анықтау</td>
-<td>1852,98</td>
+<td>B09.838.020</td>
+<td>ПТР әдісімен биологиялық материалда 6 типтік қарапайым герпес вирусын анықтау</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174838,13 +174823,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1134</td>
-<td>B09.842.020</td>
-<td>ПТР әдісімен биологиялық материалда парвовирусты анықтау</td>
+<td>B09.839.020</td>
+<td>ПТР әдісімен биологиялық материалда Эпштейн - Барр вирусын (ВПГ-IV) анықтау</td>
 <td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174852,13 +174837,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1135</td>
-<td>B09.843.020</td>
-<td>ПТР әдісімен биологиялық материалда риновирусты анықтау</td>
-<td>1691,34</td>
+<td>B09.840.020</td>
+<td>Сандық ПТР әдісімен биологиялық материалда Эпштейн - Барр вирусын (ВПГ-IV) анықтау</td>
+<td>1927,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174866,13 +174851,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1136</td>
-<td>B09.844.020</td>
-<td>ПТР әдісімен биологиялық материалда Т-лимфотроптық вирусты анықтау</td>
-<td>1691,34</td>
+<td>B09.841.020</td>
+<td>ПТР әдісімен биологиялық материалда B гепатиті вирусының ДНҚ анықтау</td>
+<td>1852,98</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174880,13 +174865,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1137</td>
-<td>B09.845.020</td>
-<td>ПТР әдісімен биологиялық материалда филовирусты анықтау</td>
+<td>B09.842.020</td>
+<td>ПТР әдісімен биологиялық материалда парвовирусты анықтау</td>
 <td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174894,13 +174879,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1138</td>
-<td>B09.846.020</td>
-<td>ПТР әдісімен биологиялық материалда цитомегаловирусты (ВПГ-V) анықтау</td>
-<td>1251,10</td>
+<td>B09.843.020</td>
+<td>ПТР әдісімен биологиялық материалда риновирусты анықтау</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174908,13 +174893,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1139</td>
-<td>B09.847.020</td>
-<td>Сандық ПТР әдісімен биологиялық материалда цитомегаловирусты (ВПГ-V) анықтау</td>
-<td>1591,81</td>
+<td>B09.844.020</td>
+<td>ПТР әдісімен биологиялық материалда Т-лимфотроптық вирусты анықтау</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174922,13 +174907,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1140</td>
-<td>B09.848.020</td>
-<td>Обнаружение энтеровируса в биологическом материале методом ПЦР</td>
-<td>3257,61</td>
+<td>B09.845.020</td>
+<td>ПТР әдісімен биологиялық материалда филовирусты анықтау</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174936,13 +174921,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1141</td>
-<td>B09.849.020</td>
-<td>ПТР әдісімен биологиялық материалда қызамық вирусын анықтау</td>
-<td>1086,95</td>
+<td>B09.846.020</td>
+<td>ПТР әдісімен биологиялық материалда цитомегаловирусты (ВПГ-V) анықтау</td>
+<td>1251,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174950,13 +174935,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1142</td>
-<td>B09.675.020</td>
-<td>ПТР әдісімен биологиялық материалда B гепатитінің вирустық жүктелімін сандық анықтау</td>
-<td>2481,95</td>
+<td>B09.847.020</td>
+<td>Сандық ПТР әдісімен биологиялық материалда цитомегаловирусты (ВПГ-V) анықтау</td>
+<td>1591,81</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174964,13 +174949,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1143</td>
-<td>B09.676.020</td>
-<td>ПТР әдісімен биологиялық материалда C гепатитінің вирустық жүктемесін сандық анықтау</td>
-<td>5011,64</td>
+<td>B09.848.020</td>
+<td>Обнаружение энтеровируса в биологическом материале методом ПЦР</td>
+<td>3257,61</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174978,13 +174963,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1144</td>
-<td>B09.472.020</td>
-<td>ПТР әдісімен C гепатиті вирусының генотипін анықтау</td>
-<td>2697,07</td>
+<td>B09.849.020</td>
+<td>ПТР әдісімен биологиялық материалда қызамық вирусын анықтау</td>
+<td>1086,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174992,13 +174977,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1145</td>
-<td>B09.859.020</td>
-<td>ПТР әдісімен АИТВ 1-ге провирустық ДНҚ-ны сапалық анықтау</td>
-<td>11999,96</td>
+<td>B09.675.020</td>
+<td>ПТР әдісімен биологиялық материалда B гепатитінің вирустық жүктелімін сандық анықтау</td>
+<td>2481,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -175006,13 +174991,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1146</td>
-<td>B09.858.020</td>
-<td>ПТР әдісімен қан плазмасында АИТВ 1-ге РНК-ны сандық анықтау</td>
-<td>18327,00</td>
+<td>B09.676.020</td>
+<td>ПТР әдісімен биологиялық материалда C гепатитінің вирустық жүктемесін сандық анықтау</td>
+<td>5011,64</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -175020,97 +175005,97 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1147</td>
+<td>B09.472.020</td>
+<td>ПТР әдісімен C гепатиті вирусының генотипін анықтау</td>
+<td>2697,07</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1148</td>
+<td>B09.859.020</td>
+<td>ПТР әдісімен АИТВ 1-ге провирустық ДНҚ-ны сапалық анықтау</td>
+<td>11999,96</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1149</td>
+<td>B09.858.020</td>
+<td>ПТР әдісімен қан плазмасында АИТВ 1-ге РНК-ны сандық анықтау</td>
+<td>18327,00</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1150</td>
 <td>C</td>
 <td>ДИАГНОСТИКАЛЫҚ ЗЕРТТЕУЛЕР:</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1148</td>
+<td>1151</td>
 <td>C01.000.000</td>
 <td>Эндоскопиялық зерттеу</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1149</td>
+<td>1152</td>
 <td>C01.000.001</td>
 <td>Диагностикалық эндоскопия</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1150</td>
+<td>1153</td>
 <td>C01.001.001</td>
 <td>Фиброэзофагогастродуоденоскопия</td>
 <td>1946,08</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1151</td>
-<td>C01.002.001</td>
-<td>Видеоэзофагдуоденоскопия</td>
-<td>3791,27</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1152</td>
-<td>C01.003.001</td>
-<td>Фиброэзофагоскопия</td>
-<td>1860,59</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1153</td>
-<td>C01.004.001</td>
-<td>Видеоэзофагоскопия</td>
-<td>2499,03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175118,13 +175103,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1154</td>
-<td>C01.032.001</td>
-<td>Ригидті бронхоскопия</td>
-<td>5609,08</td>
+<td>C01.002.001</td>
+<td>Видеоэзофагдуоденоскопия</td>
+<td>3791,27</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175132,13 +175117,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1155</td>
-<td>C01.009.001</td>
-<td>Диагностикалық фибробронхоскопия</td>
-<td>2361,94</td>
+<td>C01.003.001</td>
+<td>Фиброэзофагоскопия</td>
+<td>1860,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175146,13 +175131,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1156</td>
-<td>C01.010.001</td>
-<td>Диагностикалық видеобронхоскопия</td>
-<td>2939,22</td>
+<td>C01.004.001</td>
+<td>Видеоэзофагоскопия</td>
+<td>2499,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175160,13 +175145,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1157</td>
-<td>C01.011.001</td>
-<td>Фибротрахеоскопия</td>
-<td>1931,00</td>
+<td>C01.032.001</td>
+<td>Ригидті бронхоскопия</td>
+<td>5609,08</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175174,13 +175159,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1158</td>
-<td>C01.012.001</td>
-<td>Видеотрахеоскопия</td>
-<td>1931,00</td>
+<td>C01.009.001</td>
+<td>Диагностикалық фибробронхоскопия</td>
+<td>2361,94</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175188,13 +175173,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1159</td>
-<td>C01.013.001</td>
-<td>Кеңірдектің эндоскопиялық интубациясы</td>
-<td>1203,50</td>
+<td>C01.010.001</td>
+<td>Диагностикалық видеобронхоскопия</td>
+<td>2939,22</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175202,13 +175187,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1160</td>
-<td>C01.014.001</td>
-<td>Тексеру үшін кеңірдек/бронх ішіндегі заттарды эндоскопиялық жинау</td>
-<td>141,79</td>
+<td>C01.011.001</td>
+<td>Фибротрахеоскопия</td>
+<td>1931,00</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175216,13 +175201,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1161</td>
-<td>C01.015.001</td>
-<td>Толық қамтитын фиброколоноскопия</td>
-<td>4651,49</td>
+<td>C01.012.001</td>
+<td>Видеотрахеоскопия</td>
+<td>1931,00</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175230,13 +175215,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1162</td>
-<td>C01.016.001</td>
-<td>Толық қамтитын видеоколоноскопия</td>
-<td>4651,49</td>
+<td>C01.013.001</td>
+<td>Кеңірдектің эндоскопиялық интубациясы</td>
+<td>1203,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175244,13 +175229,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1163</td>
-<td>C01.017.001</td>
-<td>Фиброректосигмоидоскопия</td>
-<td>1539,98</td>
+<td>C01.014.001</td>
+<td>Тексеру үшін кеңірдек/бронх ішіндегі заттарды эндоскопиялық жинау</td>
+<td>141,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175258,13 +175243,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1164</td>
-<td>C01.018.001</td>
-<td>Видеоректосигмоидоскопия</td>
-<td>1646,18</td>
+<td>C01.015.001</td>
+<td>Толық қамтитын фиброколоноскопия</td>
+<td>4651,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175272,13 +175257,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1165</td>
-<td>C01.020.001</td>
-<td>Эндоскопиялық ретроградтық холангио-панкреатография</td>
-<td>6443,76</td>
+<td>C01.016.001</td>
+<td>Толық қамтитын видеоколоноскопия</td>
+<td>4651,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175286,13 +175271,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1166</td>
-<td>C01.021.001</td>
-<td>Эндоскопиялық әдіспен тәуліктік pH метрия</td>
-<td>958,50</td>
+<td>C01.017.001</td>
+<td>Фиброректосигмоидоскопия</td>
+<td>1539,98</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175300,13 +175285,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1167</td>
-<td>C01.022.001</td>
-<td>Эндоскопиялық әдіспен бір мезеттік pH метрия</td>
-<td>716,10</td>
+<td>C01.018.001</td>
+<td>Видеоректосигмоидоскопия</td>
+<td>1646,18</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175314,13 +175299,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1168</td>
-<td>C01.023.001</td>
-<td>Өңештің/асқазанның/ұлтабардың эндоскопиялық ультрасонографиясы</td>
-<td>1988,34</td>
+<td>C01.020.001</td>
+<td>Эндоскопиялық ретроградтық холангио-панкреатография</td>
+<td>6443,76</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175328,13 +175313,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1169</td>
-<td>C01.024.001</td>
-<td>Жуан ішектің эндоскопиялық ультрасонографиясы</td>
-<td>4220,12</td>
+<td>C01.021.001</td>
+<td>Эндоскопиялық әдіспен тәуліктік pH метрия</td>
+<td>958,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175342,13 +175327,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1170</td>
-<td>C01.025.001</td>
-<td>Фиброларингоскопия</td>
-<td>781,73</td>
+<td>C01.022.001</td>
+<td>Эндоскопиялық әдіспен бір мезеттік pH метрия</td>
+<td>716,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175356,13 +175341,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1171</td>
-<td>C01.026.001</td>
-<td>Фиброэпифаринголарингоскопия</td>
-<td>999,94</td>
+<td>C01.023.001</td>
+<td>Өңештің/асқазанның/ұлтабардың эндоскопиялық ультрасонографиясы</td>
+<td>1988,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175370,13 +175355,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1172</td>
-<td>C01.027.001</td>
-<td>Эндоскопиялық шертпелі биопсия</td>
-<td>280,01</td>
+<td>C01.024.001</td>
+<td>Жуан ішектің эндоскопиялық ультрасонографиясы</td>
+<td>4220,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175384,13 +175369,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1173</td>
-<td>C01.028.001</td>
-<td>Видеоэпифаринголарингоскопия</td>
-<td>1551,46</td>
+<td>C01.025.001</td>
+<td>Фиброларингоскопия</td>
+<td>781,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175398,13 +175383,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1174</td>
-<td>C01.030.001</td>
-<td>Диагностикалық торакоскопия</td>
-<td>3230,04</td>
+<td>C01.026.001</td>
+<td>Фиброэпифаринголарингоскопия</td>
+<td>999,94</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175412,13 +175397,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1175</td>
-<td>C01.031.001</td>
-<td>Диагностикалық риноскопия</td>
-<td>343,21</td>
+<td>C01.027.001</td>
+<td>Эндоскопиялық шертпелі биопсия</td>
+<td>280,01</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175426,13 +175411,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1176</td>
-<td>C01.033.001</td>
-<td>Видеоларингоскопия</td>
-<td>2176,34</td>
+<td>C01.028.001</td>
+<td>Видеоэпифаринголарингоскопия</td>
+<td>1551,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175440,13 +175425,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1177</td>
-<td>C01.034.001</td>
-<td>Видеокольпоскопия</td>
-<td>1043,78</td>
+<td>C01.030.001</td>
+<td>Диагностикалық торакоскопия</td>
+<td>3230,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175454,13 +175439,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1178</td>
-<td>C01.035.001</td>
-<td>Видеоэнтероскопия</td>
-<td>5466,84</td>
+<td>C01.031.001</td>
+<td>Диагностикалық риноскопия</td>
+<td>343,21</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175468,27 +175453,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1179</td>
-<td>C01.036.001</td>
-<td>Видеокапсульді эндоскопия</td>
-<td>111868,28</td>
+<td>C01.033.001</td>
+<td>Видеоларингоскопия</td>
+<td>2176,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>0</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1180</td>
-<td>C01.037.001</td>
-<td>Скринигтік тотальді видеоколоноскопия</td>
-<td>7408,87</td>
+<td>C01.034.001</td>
+<td>Видеокольпоскопия</td>
+<td>1043,78</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175496,41 +175481,41 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1181</td>
-<td>C01.000.002</td>
-<td>Емдік эндоскопия</td>
+<td>C01.035.001</td>
+<td>Видеоэнтероскопия</td>
+<td>5466,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1182</td>
-<td>C01.001.002</td>
-<td>Емдік бронхоскопия</td>
-<td>2948,11</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
+<td>1182</td>
+<td>C01.036.001</td>
+<td>Видеокапсульді эндоскопия</td>
+<td>111868,28</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
 <td>1183</td>
-<td>C01.002.002</td>
-<td>Жуан ішектен бөтен денені эндоскопиялық алып тастау</td>
-<td>1754,98</td>
+<td>C01.037.001</td>
+<td>Скринигтік тотальді видеоколоноскопия</td>
+<td>7408,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175538,27 +175523,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1184</td>
-<td>C01.003.002</td>
-<td>Конкременттердің-литропсия эндоскопиялық механикалық экстракциясы</td>
-<td>8438,44</td>
+<td>C01.000.002</td>
+<td>Емдік эндоскопия</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1185</td>
-<td>C01.004.002</td>
-<td>Эндоскопиялық электрохирургиялық литотрипсия</td>
-<td>5558,54</td>
+<td>C01.001.002</td>
+<td>Емдік бронхоскопия</td>
+<td>2948,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175566,13 +175551,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1186</td>
-<td>C01.006.002</td>
-<td>Өңештің, асқазанның, 12 елі ішектің ісігін эндоскопиялық алып тастау</td>
-<td>2349,10</td>
+<td>C01.002.002</td>
+<td>Жуан ішектен бөтен денені эндоскопиялық алып тастау</td>
+<td>1754,98</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175580,13 +175565,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1187</td>
-<td>C01.007.002</td>
-<td>Жуан ішектің ісігін эндоскопиялық алып тастау</td>
-<td>3925,31</td>
+<td>C01.003.002</td>
+<td>Конкременттердің-литропсия эндоскопиялық механикалық экстракциясы</td>
+<td>8438,44</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175594,13 +175579,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1188</td>
-<td>C01.008.002</td>
-<td>Назобилиарлық дренажды эндоскопиялық орнату</td>
-<td>47871,35</td>
+<td>C01.004.002</td>
+<td>Эндоскопиялық электрохирургиялық литотрипсия</td>
+<td>5558,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175608,13 +175593,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1189</td>
-<td>C01.009.002</td>
-<td>Кеңірдектің/бронхтың эндоскопиялық полипэктомиясы.</td>
-<td>3976,51</td>
+<td>C01.006.002</td>
+<td>Өңештің, асқазанның, 12 елі ішектің ісігін эндоскопиялық алып тастау</td>
+<td>2349,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175622,13 +175607,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1190</td>
-<td>C01.010.002</td>
-<td>Өңештің, асқазанның, аш, жуан ішектің қатерсіз өспелерін эндоскопиялық кесіп алып тастау</td>
-<td>35604,33</td>
+<td>C01.007.002</td>
+<td>Жуан ішектің ісігін эндоскопиялық алып тастау</td>
+<td>3925,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175636,13 +175621,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1191</td>
-<td>C01.011.002</td>
-<td>Кардия ахалазиясы кезіндегі эндоскопиялық пневмодилатация</td>
-<td>6595,52</td>
+<td>C01.008.002</td>
+<td>Назобилиарлық дренажды эндоскопиялық орнату</td>
+<td>47871,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175650,13 +175635,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1192</td>
-<td>C01.018.002</td>
-<td>Емдік-диагностикалық медиастиноскопия</td>
-<td>4234,21</td>
+<td>C01.009.002</td>
+<td>Кеңірдектің/бронхтың эндоскопиялық полипэктомиясы.</td>
+<td>3976,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175664,13 +175649,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1193</td>
-<td>C01.019.002</td>
-<td>Емдік-диагностикалық артроскопия</td>
-<td>3901,02</td>
+<td>C01.010.002</td>
+<td>Өңештің, асқазанның, аш, жуан ішектің қатерсіз өспелерін эндоскопиялық кесіп алып тастау</td>
+<td>35604,33</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175678,13 +175663,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1194</td>
-<td>C01.020.002</td>
-<td>Емдік-диагностикалық фистулоскопия</td>
-<td>3230,04</td>
+<td>C01.011.002</td>
+<td>Кардия ахалазиясы кезіндегі эндоскопиялық пневмодилатация</td>
+<td>6595,52</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175692,13 +175677,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1195</td>
-<td>C01.021.002</td>
-<td>Емдік-диагностикалық фистулохоледохоскопия</td>
-<td>3191,02</td>
+<td>C01.018.002</td>
+<td>Емдік-диагностикалық медиастиноскопия</td>
+<td>4234,21</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175706,13 +175691,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1196</td>
-<td>C01.022.002</td>
-<td>Емдік-диагностикалық цистоскопия</td>
-<td>801,01</td>
+<td>C01.019.002</td>
+<td>Емдік-диагностикалық артроскопия</td>
+<td>3901,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175720,13 +175705,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1197</td>
-<td>C01.023.002</td>
-<td>Жұтқыншақ ісігін эндоскопиялық жолмен жою</td>
-<td>3976,51</td>
+<td>C01.020.002</td>
+<td>Емдік-диагностикалық фистулоскопия</td>
+<td>3230,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175734,13 +175719,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1198</td>
-<td>C01.024.002</td>
-<td>тыныс алу жолдарынан бөгде денелерді эндоскопиялық жолмен жою</td>
-<td>2447,26</td>
+<td>C01.021.002</td>
+<td>Емдік-диагностикалық фистулохоледохоскопия</td>
+<td>3191,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175748,13 +175733,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1199</td>
-<td>C01.025.002</td>
-<td>Асқазан және асқорыту веналарының кеңеюіне эндоскопиялық склеротерапия жасау</td>
-<td>195564,38</td>
+<td>C01.022.002</td>
+<td>Емдік-диагностикалық цистоскопия</td>
+<td>801,01</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175762,13 +175747,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1200</td>
-<td>C01.027.002</td>
-<td>Инъекциялық эндоскопиялық гемостаз</td>
-<td>11351,90</td>
+<td>C01.023.002</td>
+<td>Жұтқыншақ ісігін эндоскопиялық жолмен жою</td>
+<td>3976,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175776,13 +175761,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1201</td>
-<td>C01.028.002</td>
-<td>Диатермокоагуляциямен эндоскопиялық гемостаз</td>
-<td>3922,33</td>
+<td>C01.024.002</td>
+<td>тыныс алу жолдарынан бөгде денелерді эндоскопиялық жолмен жою</td>
+<td>2447,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175790,13 +175775,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1202</td>
-<td>C01.029.002</td>
-<td>Механикалық эндоскопиялық гемостаз (лигирлеу, клипирлеу)</td>
-<td>87883,89</td>
+<td>C01.025.002</td>
+<td>Асқазан және асқорыту веналарының кеңеюіне эндоскопиялық склеротерапия жасау</td>
+<td>195564,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175804,13 +175789,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1203</td>
-<td>C01.030.002</td>
-<td>Эндоскопиялық шырышасты диссекция</td>
-<td>64089,84</td>
+<td>C01.027.002</td>
+<td>Инъекциялық эндоскопиялық гемостаз</td>
+<td>11351,90</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175818,13 +175803,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1204</td>
-<td>C01.031.002</td>
-<td>Эндоскопиялық баллонды дилатация</td>
-<td>102371,86</td>
+<td>C01.028.002</td>
+<td>Диатермокоагуляциямен эндоскопиялық гемостаз</td>
+<td>3922,33</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175832,13 +175817,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1205</td>
-<td>C01.032.002</td>
-<td>Эндоскопиялық бақылаумен сілтеуіш бойынша өзекті бужирлеу</td>
-<td>3039,85</td>
+<td>C01.029.002</td>
+<td>Механикалық эндоскопиялық гемостаз (лигирлеу, клипирлеу)</td>
+<td>87883,89</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175846,13 +175831,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1206</td>
-<td>C01.012.002</td>
-<td>Өңешті эндоскопиялық стенттеу</td>
-<td>244586,95</td>
+<td>C01.030.002</td>
+<td>Эндоскопиялық шырышасты диссекция</td>
+<td>64089,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175860,13 +175845,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1207</td>
-<td>C01.015.002</td>
-<td>Өт жолын эндоскопиялық стенттеу</td>
-<td>244953,76</td>
+<td>C01.031.002</td>
+<td>Эндоскопиялық баллонды дилатация</td>
+<td>102371,86</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175874,27 +175859,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1208</td>
-<td>C02.000.000</td>
-<td>Функциялық диагностика</td>
+<td>C01.032.002</td>
+<td>Эндоскопиялық бақылаумен сілтеуіш бойынша өзекті бужирлеу</td>
+<td>3039,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1209</td>
-<td>C02.001.000</td>
-<td>Электрокардиографиялық зертттеу (12 жалғамда)</td>
-<td>462,13</td>
-<td>1,6</td>
+<td>C01.012.002</td>
+<td>Өңешті эндоскопиялық стенттеу</td>
+<td>244586,95</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175902,13 +175887,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1210</td>
-<td>C02.002.000</td>
-<td>Нэб бойынша электрокардиографиялық зерттеу</td>
-<td>263,17</td>
+<td>C01.015.002</td>
+<td>Өт жолын эндоскопиялық стенттеу</td>
+<td>244953,76</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175916,27 +175901,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1211</td>
-<td>C02.003.000</td>
-<td>Слопак бойынша электрокардиографиялық зерттеу</td>
-<td>416,21</td>
+<td>C02.000.000</td>
+<td>Функциялық диагностика</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1212</td>
-<td>C02.004.000</td>
-<td>Мөлшерленген физикалық жүктемемен электрокардиографиялық зерттеу (тредмил, велоэргометр)</td>
-<td>1484,02</td>
+<td>C02.001.000</td>
+<td>Электрокардиографиялық зертттеу (12 жалғамда)</td>
+<td>462,13</td>
+<td>1,6</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175944,13 +175929,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1213</td>
-<td>C02.005.000</td>
-<td>Фармакологиялық сынақтар жасалатын электрокардиографиялық қосымша зерттеу (обзидан, KCL)</td>
-<td>579,22</td>
+<td>C02.002.000</td>
+<td>Нэб бойынша электрокардиографиялық зерттеу</td>
+<td>263,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175958,13 +175943,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1214</td>
-<td>C02.006.000</td>
-<td>Өңеш арқылы кардиостимуляциялау (аритмияны тексеру)</td>
-<td>948,11</td>
+<td>C02.003.000</td>
+<td>Слопак бойынша электрокардиографиялық зерттеу</td>
+<td>416,21</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175972,13 +175957,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1215</td>
-<td>C02.007.000</td>
-<td>Өңеш арқылы кардиостимуляциялау (ишемиялық тест)</td>
-<td>1855,45</td>
+<td>C02.004.000</td>
+<td>Мөлшерленген физикалық жүктемемен электрокардиографиялық зерттеу (тредмил, велоэргометр)</td>
+<td>1484,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175986,13 +175971,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1216</td>
-<td>C02.008.000</td>
-<td>Электрокардиограмманы Холтерлік мониторингілеу (24 сағат)</td>
-<td>2294,66</td>
+<td>C02.005.000</td>
+<td>Фармакологиялық сынақтар жасалатын электрокардиографиялық қосымша зерттеу (обзидан, KCL)</td>
+<td>579,22</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176000,13 +175985,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1217</td>
-<td>C02.009.000</td>
-<td>Артериялық қысымды тәуліктік мониторингілеу (24 сағат)</td>
-<td>2153,33</td>
+<td>C02.006.000</td>
+<td>Өңеш арқылы кардиостимуляциялау (аритмияны тексеру)</td>
+<td>948,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176014,13 +175999,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1218</td>
-<td>C02.010.000</td>
-<td>Жүректі электрофизиологиялық тексеру: ишемиялық тест (&quot;6 минуттық жүріс&quot;)</td>
-<td>2026,67</td>
+<td>C02.007.000</td>
+<td>Өңеш арқылы кардиостимуляциялау (ишемиялық тест)</td>
+<td>1855,45</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176028,13 +176013,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1219</td>
-<td>C02.011.000</td>
-<td>Стресс тестілер: ишемияны анықтау үшін психоэмоциялық</td>
-<td>6187,63</td>
+<td>C02.008.000</td>
+<td>Электрокардиограмманы Холтерлік мониторингілеу (24 сағат)</td>
+<td>2294,66</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176042,13 +176027,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1220</td>
-<td>C02.012.000</td>
-<td>Эхокардиография</td>
-<td>1114,42</td>
+<td>C02.009.000</td>
+<td>Артериялық қысымды тәуліктік мониторингілеу (24 сағат)</td>
+<td>2153,33</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176056,13 +176041,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1221</td>
-<td>C02.013.000</td>
-<td>Стресс-эхокардиография</td>
-<td>2793,18</td>
+<td>C02.010.000</td>
+<td>Жүректі электрофизиологиялық тексеру: ишемиялық тест (&quot;6 минуттық жүріс&quot;)</td>
+<td>2026,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176070,13 +176055,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1222</td>
-<td>C02.014.000</td>
-<td>Фармакологиялық сынағы жасалған стресс-эхокардиография (добутамин)</td>
-<td>2441,34</td>
+<td>C02.011.000</td>
+<td>Стресс тестілер: ишемияны анықтау үшін психоэмоциялық</td>
+<td>6187,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176084,13 +176069,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1223</td>
-<td>C02.015.000</td>
-<td>Өңеш арқылы эхокардиографияны жасау</td>
-<td>3633,99</td>
+<td>C02.012.000</td>
+<td>Эхокардиография</td>
+<td>1114,42</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176098,13 +176083,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1224</td>
-<td>C02.016.000</td>
-<td>Кардиоинтервалография</td>
-<td>693,17</td>
+<td>C02.013.000</td>
+<td>Стресс-эхокардиография</td>
+<td>2793,18</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176112,13 +176097,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1225</td>
-<td>C02.017.000</td>
-<td>Ұрықтың кардиотокографиясы</td>
-<td>1174,36</td>
+<td>C02.014.000</td>
+<td>Фармакологиялық сынағы жасалған стресс-эхокардиография (добутамин)</td>
+<td>2441,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176126,13 +176111,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1226</td>
-<td>C02.018.000</td>
-<td>Эхокардиографияның бейнежазбасы</td>
-<td>1472,20</td>
+<td>C02.015.000</td>
+<td>Өңеш арқылы эхокардиографияны жасау</td>
+<td>3633,99</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176140,13 +176125,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1227</td>
-<td>C02.019.000</td>
-<td>Нейросонография</td>
-<td>1672,72</td>
+<td>C02.016.000</td>
+<td>Кардиоинтервалография</td>
+<td>693,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176154,13 +176139,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1228</td>
-<td>C02.020.000</td>
-<td>Электроэнцефалография</td>
-<td>1664,66</td>
+<td>C02.017.000</td>
+<td>Ұрықтың кардиотокографиясы</td>
+<td>1174,36</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176168,13 +176153,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1229</td>
-<td>C02.021.000</td>
-<td>Электроэнцефалограмманы Холтерлік мониторингілеу</td>
-<td>2317,65</td>
+<td>C02.018.000</td>
+<td>Эхокардиографияның бейнежазбасы</td>
+<td>1472,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176182,13 +176167,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1230</td>
-<td>C02.042.000</td>
-<td>Электроэнцефалограмманы түндік видеомониторингілеу</td>
-<td>10534,23</td>
+<td>C02.019.000</td>
+<td>Нейросонография</td>
+<td>1672,72</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176196,13 +176181,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1231</td>
-<td>C02.043.000</td>
-<td>Электроэнцефалограмманы видеоманиторингтеу (бірінші сағат)</td>
-<td>2539,54</td>
+<td>C02.020.000</td>
+<td>Электроэнцефалография</td>
+<td>1664,66</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176210,13 +176195,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1232</td>
-<td>C02.044.000</td>
-<td>Электроэнцефалограмманы видеоманиторингтеу (келесі сағат)</td>
-<td>1309,23</td>
+<td>C02.021.000</td>
+<td>Электроэнцефалограмманы Холтерлік мониторингілеу</td>
+<td>2317,65</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176224,13 +176209,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1233</td>
-<td>C02.022.000</td>
-<td>Компьютерлік өңдеу арқылы электроэнцефалография жасау</td>
-<td>3004,59</td>
+<td>C02.042.000</td>
+<td>Электроэнцефалограмманы түндік видеомониторингілеу</td>
+<td>10534,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176238,13 +176223,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1234</td>
-<td>C02.023.000</td>
-<td>Электроэнцефалографиялық сынақтар (фото-, фоностимуляция, гипервентиляция)</td>
-<td>1511,67</td>
+<td>C02.043.000</td>
+<td>Электроэнцефалограмманы видеоманиторингтеу (бірінші сағат)</td>
+<td>2539,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176252,13 +176237,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1235</td>
-<td>C02.031.000</td>
-<td>Инелі электромиография</td>
-<td>1208,32</td>
+<td>C02.044.000</td>
+<td>Электроэнцефалограмманы видеоманиторингтеу (келесі сағат)</td>
+<td>1309,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176266,13 +176251,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1236</td>
-<td>C02.032.000</td>
-<td>Электронейромиография</td>
-<td>1208,32</td>
+<td>C02.022.000</td>
+<td>Компьютерлік өңдеу арқылы электроэнцефалография жасау</td>
+<td>3004,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176280,13 +176265,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1237</td>
-<td>C02.045.000</td>
-<td>Электромиография</td>
-<td>1208,32</td>
+<td>C02.023.000</td>
+<td>Электроэнцефалографиялық сынақтар (фото-, фоностимуляция, гипервентиляция)</td>
+<td>1511,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176294,13 +176279,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1238</td>
-<td>C02.033.000</td>
-<td>Автоматтандырылған аппараттардағы жазбалардағы спирография</td>
+<td>C02.031.000</td>
+<td>Инелі электромиография</td>
 <td>1208,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176308,13 +176293,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1239</td>
-<td>C02.046.000</td>
-<td>Автоматталмаған аппараттарға спирография</td>
-<td>423,16</td>
+<td>C02.032.000</td>
+<td>Электронейромиография</td>
+<td>1208,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176322,13 +176307,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1240</td>
-<td>C02.034.000</td>
-<td>Автоматтандырылған аппараттарда функциялық сынақтар жасалған (фармакологиялық, физикалық жүктеме) спирография</td>
-<td>819,12</td>
+<td>C02.045.000</td>
+<td>Электромиография</td>
+<td>1208,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176336,13 +176321,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1241</td>
-<td>C02.035.000</td>
-<td>Бодиплатизмография</td>
-<td>597,53</td>
+<td>C02.033.000</td>
+<td>Автоматтандырылған аппараттардағы жазбалардағы спирография</td>
+<td>1208,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176350,13 +176335,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1242</td>
-<td>C02.037.000</td>
-<td>Сыртқы тыныс алу функцияларын зерттеу &quot;спирография, бодиплетизмография)</td>
-<td>985,73</td>
+<td>C02.046.000</td>
+<td>Автоматталмаған аппараттарға спирография</td>
+<td>423,16</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176364,13 +176349,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1243</td>
-<td>C02.039.000</td>
-<td>Паллестезиометрия</td>
-<td>155,97</td>
+<td>C02.034.000</td>
+<td>Автоматтандырылған аппараттарда функциялық сынақтар жасалған (фармакологиялық, физикалық жүктеме) спирография</td>
+<td>819,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176378,13 +176363,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1244</td>
-<td>C02.040.000</td>
-<td>Вегетативтік статусты зерттеу</td>
-<td>1173,44</td>
+<td>C02.035.000</td>
+<td>Бодиплатизмография</td>
+<td>597,53</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176392,13 +176377,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1245</td>
-<td>C02.041.000</td>
-<td>Реовазография</td>
-<td>470,88</td>
+<td>C02.037.000</td>
+<td>Сыртқы тыныс алу функцияларын зерттеу &quot;спирография, бодиплетизмография)</td>
+<td>985,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176406,13 +176391,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1246</td>
-<td>C02.047.000</td>
-<td>Реоэнцефалография</td>
-<td>470,88</td>
+<td>C02.039.000</td>
+<td>Паллестезиометрия</td>
+<td>155,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176420,13 +176405,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1247</td>
-<td>C02.048.000</td>
-<td>Динамометрия</td>
-<td>132,63</td>
+<td>C02.040.000</td>
+<td>Вегетативтік статусты зерттеу</td>
+<td>1173,44</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176434,13 +176419,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1248</td>
-<td>C02.049.000</td>
-<td>Полисомнография</td>
-<td>10534,23</td>
+<td>C02.041.000</td>
+<td>Реовазография</td>
+<td>470,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176448,41 +176433,41 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1249</td>
-<td>C03.000.000</td>
-<td>Сәулелік диагностика және терапия</td>
+<td>C02.047.000</td>
+<td>Реоэнцефалография</td>
+<td>470,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1250</td>
-<td>C03.000.003</td>
-<td>Ультрадыбыстық доплерография (УДДГ)</td>
+<td>C02.048.000</td>
+<td>Динамометрия</td>
+<td>132,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1251</td>
-<td>C03.001.003</td>
-<td>Ұрық тамырларының УДДГ</td>
-<td>1435,02</td>
+<td>C02.049.000</td>
+<td>Полисомнография</td>
+<td>10534,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176490,41 +176475,41 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1252</td>
-<td>C03.002.003</td>
-<td>Брахицефалдық діңнің УДДГ</td>
-<td>1435,02</td>
+<td>C03.000.000</td>
+<td>Сәулелік диагностика және терапия</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1253</td>
-<td>C03.004.003</td>
-<td>бас миы тамырлардың УДДГ</td>
-<td>1435,02</td>
+<td>C03.000.003</td>
+<td>Ультрадыбыстық доплерография (УДДГ)</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1254</td>
-<td>C03.005.003</td>
-<td>Қолқаның құрсақ бөлімінің және оның тарамдарының УДДГ</td>
+<td>C03.001.003</td>
+<td>Ұрық тамырларының УДДГ</td>
 <td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176532,13 +176517,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1255</td>
-<td>C03.006.003</td>
-<td>Бауыр тамырларының УДДГ</td>
+<td>C03.002.003</td>
+<td>Брахицефалдық діңнің УДДГ</td>
 <td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176546,13 +176531,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1256</td>
-<td>C03.007.003</td>
-<td>Көкбауыр тамырларының УДДГ</td>
+<td>C03.004.003</td>
+<td>бас миы тамырлардың УДДГ</td>
 <td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176560,13 +176545,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1257</td>
-<td>C03.008.003</td>
-<td>Бүйрек тамырларының УДДГ</td>
+<td>C03.005.003</td>
+<td>Қолқаның құрсақ бөлімінің және оның тарамдарының УДДГ</td>
 <td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176574,13 +176559,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1258</td>
-<td>C03.009.003</td>
-<td>Ен тамырларының УДДГ</td>
-<td>1446,02</td>
+<td>C03.006.003</td>
+<td>Бауыр тамырларының УДДГ</td>
+<td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176588,13 +176573,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1259</td>
-<td>C03.010.003</td>
-<td>Жыныстық мүше (қаса) тамырларының УДДГ</td>
-<td>1446,02</td>
+<td>C03.007.003</td>
+<td>Көкбауыр тамырларының УДДГ</td>
+<td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176602,13 +176587,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1260</td>
-<td>C03.011.003</td>
-<td>Аяқ-қол артерияларының УДДГ</td>
-<td>1769,25</td>
+<td>C03.008.003</td>
+<td>Бүйрек тамырларының УДДГ</td>
+<td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176616,13 +176601,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1261</td>
-<td>C03.016.003</td>
-<td>Қол артерияларының УДДГ</td>
-<td>1769,25</td>
+<td>C03.009.003</td>
+<td>Ен тамырларының УДДГ</td>
+<td>1446,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176630,13 +176615,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1262</td>
-<td>C03.012.003</td>
-<td>Аяқ артерияларының УДДГ</td>
-<td>1435,02</td>
+<td>C03.010.003</td>
+<td>Жыныстық мүше (қаса) тамырларының УДДГ</td>
+<td>1446,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176644,13 +176629,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1263</td>
-<td>C03.013.003</td>
-<td>Аяқтағы веналардың УДДГ</td>
-<td>1435,02</td>
+<td>C03.011.003</td>
+<td>Аяқ-қол артерияларының УДДГ</td>
+<td>1769,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176658,13 +176643,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1264</td>
-<td>C03.014.003</td>
-<td>Қолдың УДДГ</td>
-<td>1435,02</td>
+<td>C03.016.003</td>
+<td>Қол артерияларының УДДГ</td>
+<td>1769,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176672,13 +176657,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1265</td>
-<td>C03.015.003</td>
-<td>Атеросклерозды инвазивтік емес әдіспен анықтау үшін арналған құралмен қолқадағы және перифериялық артериялардағы қанағым жылдамдығының арақатынасын анықтау (40 мин)</td>
+<td>C03.012.003</td>
+<td>Аяқ артерияларының УДДГ</td>
 <td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176686,27 +176671,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1266</td>
-<td>C03.000.004</td>
-<td>Ультрадыбыстық зерттеу (УДЗ)</td>
+<td>C03.013.003</td>
+<td>Аяқтағы веналардың УДДГ</td>
+<td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1267</td>
-<td>C03.001.004</td>
-<td>Гепатобилиопанкреатиттік облыстың (бауыр, өт қабы, ұйқы безі, көкбауыр) УДЗ</td>
-<td>1724,31</td>
+<td>C03.014.003</td>
+<td>Қолдың УДДГ</td>
+<td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176714,13 +176699,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1268</td>
-<td>C03.002.004</td>
-<td>Бауыр УДЗ</td>
-<td>1513,44</td>
+<td>C03.015.003</td>
+<td>Атеросклерозды инвазивтік емес әдіспен анықтау үшін арналған құралмен қолқадағы және перифериялық артериялардағы қанағым жылдамдығының арақатынасын анықтау (40 мин)</td>
+<td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176728,27 +176713,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1269</td>
-<td>C03.055.004</td>
-<td>Өт қабына және өткелдерге жасалатын УДЗ</td>
-<td>1609,49</td>
+<td>C03.000.004</td>
+<td>Ультрадыбыстық зерттеу (УДЗ)</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1270</td>
-<td>C03.003.004</td>
-<td>Функцияларды анықтау арқылы өт қабына жасалатын УДЗ</td>
-<td>1609,49</td>
+<td>C03.001.004</td>
+<td>Гепатобилиопанкреатиттік облыстың (бауыр, өт қабы, ұйқы безі, көкбауыр) УДЗ</td>
+<td>1724,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176756,13 +176741,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1271</td>
-<td>C03.004.004</td>
-<td>Көкбауырдың УДЗ</td>
-<td>1032,66</td>
+<td>C03.002.004</td>
+<td>Бауыр УДЗ</td>
+<td>1513,44</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176770,13 +176755,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1272</td>
-<td>C03.005.004</td>
-<td>Ұйқы безінің УДЗ</td>
-<td>1366,18</td>
+<td>C03.055.004</td>
+<td>Өт қабына және өткелдерге жасалатын УДЗ</td>
+<td>1609,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176784,13 +176769,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1273</td>
-<td>C03.006.004</td>
-<td>Бүйрек УДЗ</td>
-<td>830,49</td>
+<td>C03.003.004</td>
+<td>Функцияларды анықтау арқылы өт қабына жасалатын УДЗ</td>
+<td>1609,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176798,13 +176783,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1274</td>
-<td>C03.007.004</td>
-<td>Бүйрекбезінің УДЗ</td>
-<td>697,71</td>
+<td>C03.004.004</td>
+<td>Көкбауырдың УДЗ</td>
+<td>1032,66</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176812,13 +176797,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1275</td>
-<td>C03.008.004</td>
-<td>Кешенді ультрадыбыстық диагностика (бауыр, өт қабы, ұйқы безі, көкбауыр, бүйрек)</td>
-<td>1950,67</td>
+<td>C03.005.004</td>
+<td>Ұйқы безінің УДЗ</td>
+<td>1366,18</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176826,13 +176811,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1276</td>
-<td>C03.009.004</td>
-<td>Трансабдоминальді асқазанның УДЗ</td>
-<td>890,51</td>
+<td>C03.006.004</td>
+<td>Бүйрек УДЗ</td>
+<td>830,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176840,13 +176825,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1277</td>
-<td>C03.010.004</td>
-<td>Несеп-жыныс жүйесі органдарының (бүйрек, бүйрекбез, қалдық несепті анықтау арқылы қуық, еркектік без, аталық ұрық бездері) кешенді УДЗ</td>
-<td>2695,17</td>
+<td>C03.007.004</td>
+<td>Бүйрекбезінің УДЗ</td>
+<td>697,71</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176854,13 +176839,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1278</td>
-<td>C03.011.004</td>
-<td>Қалдық несепті анықтау арқылы бүйректің, қуықтың УДЗ</td>
-<td>1543,20</td>
+<td>C03.008.004</td>
+<td>Кешенді ультрадыбыстық диагностика (бауыр, өт қабы, ұйқы безі, көкбауыр, бүйрек)</td>
+<td>1950,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176868,13 +176853,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1279</td>
-<td>C03.012.004</td>
-<td>Қалдық несепті анықтау арқылы қуықтың УДЗ</td>
-<td>560,18</td>
+<td>C03.009.004</td>
+<td>Трансабдоминальді асқазанның УДЗ</td>
+<td>890,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176882,13 +176867,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1280</td>
-<td>C03.013.004</td>
-<td>Қалдық несепті анықтау арқылы еркектік бездің және қуықтың трансабдоминалдық УДЗ</td>
-<td>1267,21</td>
+<td>C03.010.004</td>
+<td>Несеп-жыныс жүйесі органдарының (бүйрек, бүйрекбез, қалдық несепті анықтау арқылы қуық, еркектік без, аталық ұрық бездері) кешенді УДЗ</td>
+<td>2695,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176896,13 +176881,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1281</td>
-<td>C03.014.004</td>
-<td>Еркектік бездің трансректалдық УДЗ</td>
-<td>686,79</td>
+<td>C03.011.004</td>
+<td>Қалдық несепті анықтау арқылы бүйректің, қуықтың УДЗ</td>
+<td>1543,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176910,13 +176895,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1282</td>
-<td>C03.015.004</td>
-<td>Еркектік бездің және қуықтың трансуретралдық УДЗ</td>
-<td>1021,02</td>
+<td>C03.012.004</td>
+<td>Қалдық несепті анықтау арқылы қуықтың УДЗ</td>
+<td>560,18</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176924,13 +176909,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1283</td>
-<td>C03.016.004</td>
-<td>Ұманың УДЗ</td>
-<td>1258,71</td>
+<td>C03.013.004</td>
+<td>Қалдық несепті анықтау арқылы еркектік бездің және қуықтың трансабдоминалдық УДЗ</td>
+<td>1267,21</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176938,13 +176923,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1284</td>
-<td>C03.017.004</td>
-<td>Ұйқы безінің УДЗ</td>
-<td>1397,91</td>
+<td>C03.014.004</td>
+<td>Еркектік бездің трансректалдық УДЗ</td>
+<td>686,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176952,13 +176937,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1285</td>
-<td>C03.018.004</td>
-<td>Емшек безінің УДЗ</td>
-<td>1378,88</td>
+<td>C03.015.004</td>
+<td>Еркектік бездің және қуықтың трансуретралдық УДЗ</td>
+<td>1021,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176966,13 +176951,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1286</td>
-<td>C03.019.004</td>
-<td>Өңірлік лимфа түйіндерінің УДЗ (бір анатомиялық зона)</td>
-<td>1061,20</td>
+<td>C03.016.004</td>
+<td>Ұманың УДЗ</td>
+<td>1258,71</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176980,13 +176965,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1287</td>
-<td>C03.056.004</td>
-<td>Іш қуысы лимфа түйіндерінің УДЗ</td>
-<td>1061,20</td>
+<td>C03.017.004</td>
+<td>Ұйқы безінің УДЗ</td>
+<td>1397,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176994,13 +176979,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1288</td>
-<td>C03.020.004</td>
-<td>Эхоэнцефалография</td>
-<td>1275,26</td>
+<td>C03.018.004</td>
+<td>Емшек безінің УДЗ</td>
+<td>1378,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177008,13 +176993,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1289</td>
-<td>C03.021.004</td>
-<td>Өкпенің УДЗ</td>
-<td>726,97</td>
+<td>C03.019.004</td>
+<td>Өңірлік лимфа түйіндерінің УДЗ (бір анатомиялық зона)</td>
+<td>1061,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177022,13 +177007,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1290</td>
-<td>C03.022.004</td>
-<td>Плевра және плевра қуысының УДЗ</td>
-<td>467,13</td>
+<td>C03.056.004</td>
+<td>Іш қуысы лимфа түйіндерінің УДЗ</td>
+<td>1061,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177036,13 +177021,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1291</td>
-<td>C03.023.004</td>
-<td>Жұмсақ тіндердің УДЗ</td>
-<td>467,13</td>
+<td>C03.020.004</td>
+<td>Эхоэнцефалография</td>
+<td>1275,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177050,13 +177035,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1292</td>
-<td>C03.024.004</td>
-<td>Іш перде артындағы кеңістіктің УДЗ</td>
-<td>606,79</td>
+<td>C03.021.004</td>
+<td>Өкпенің УДЗ</td>
+<td>726,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177064,13 +177049,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1293</td>
-<td>C03.057.004</td>
-<td>Іш қуысы мен кіші тазға УДЗ (сұйықтықтың болуы)</td>
-<td>618,94</td>
+<td>C03.022.004</td>
+<td>Плевра және плевра қуысының УДЗ</td>
+<td>467,13</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177078,13 +177063,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1294</td>
-<td>C03.025.004</td>
-<td>Сілекей бездерінің УДЗ</td>
-<td>606,79</td>
+<td>C03.023.004</td>
+<td>Жұмсақ тіндердің УДЗ</td>
+<td>467,13</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177092,13 +177077,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1295</td>
-<td>C03.026.004</td>
-<td>Мұрынның қосалқы қуысының УДЗ</td>
-<td>773,91</td>
+<td>C03.024.004</td>
+<td>Іш перде артындағы кеңістіктің УДЗ</td>
+<td>606,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177106,13 +177091,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1296</td>
-<td>C03.027.004</td>
-<td>Көзді УДЗ</td>
-<td>801,60</td>
+<td>C03.057.004</td>
+<td>Іш қуысы мен кіші тазға УДЗ (сұйықтықтың болуы)</td>
+<td>618,94</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177120,13 +177105,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1297</td>
-<td>C03.028.004</td>
-<td>Гинекологиялық УДЗ (трансабдоминалдық)</td>
-<td>1375,63</td>
+<td>C03.025.004</td>
+<td>Сілекей бездерінің УДЗ</td>
+<td>606,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177134,13 +177119,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1298</td>
-<td>C03.029.004</td>
-<td>Гинекологиялық УДЗ (трансвагиналдық)</td>
-<td>1375,63</td>
+<td>C03.026.004</td>
+<td>Мұрынның қосалқы қуысының УДЗ</td>
+<td>773,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177148,13 +177133,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1299</td>
-<td>C03.030.004</td>
-<td>УДЗ бақылауындағы гистеросальпингография</td>
-<td>1275,26</td>
+<td>C03.027.004</td>
+<td>Көзді УДЗ</td>
+<td>801,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177162,13 +177147,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1300</td>
-<td>C03.031.004</td>
-<td>Жүктіліктің 1 триместріндегі акушерлік УДЗ</td>
+<td>C03.028.004</td>
+<td>Гинекологиялық УДЗ (трансабдоминалдық)</td>
 <td>1375,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177176,13 +177161,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1301</td>
-<td>C03.032.004</td>
-<td>Жүктіліктің 2-3 триместріндегі акушерлік УДЗ</td>
-<td>1108,14</td>
+<td>C03.029.004</td>
+<td>Гинекологиялық УДЗ (трансвагиналдық)</td>
+<td>1375,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177190,55 +177175,55 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1302</td>
+<td>C03.030.004</td>
+<td>УДЗ бақылауындағы гистеросальпингография</td>
+<td>1275,26</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1303</td>
+<td>C03.031.004</td>
+<td>Жүктіліктің 1 триместріндегі акушерлік УДЗ</td>
+<td>1375,63</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1304</td>
+<td>C03.032.004</td>
+<td>Жүктіліктің 2-3 триместріндегі акушерлік УДЗ</td>
+<td>1108,14</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1305</td>
 <td>C03.033.004</td>
 <td>3-4 D режімдегі УДЗ</td>
 <td>1108,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1303</td>
-<td>C03.034.004</td>
-<td>УДЗ бақылауындағы хорион түгінің трансабдоминалдық аспирациясы</td>
-<td>2277,95</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1304</td>
-<td>C03.035.004</td>
-<td>УДЗ бақылауындағы трансабдоминалдық кордоцентез</td>
-<td>2277,95</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1305</td>
-<td>C03.036.004</td>
-<td>УДЗ бақылауындағы трансабдоминалдық плацентоцентез</td>
-<td>2277,95</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -177246,55 +177231,55 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1306</td>
+<td>C03.034.004</td>
+<td>УДЗ бақылауындағы хорион түгінің трансабдоминалдық аспирациясы</td>
+<td>2277,95</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1307</td>
+<td>C03.035.004</td>
+<td>УДЗ бақылауындағы трансабдоминалдық кордоцентез</td>
+<td>2277,95</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1308</td>
+<td>C03.036.004</td>
+<td>УДЗ бақылауындағы трансабдоминалдық плацентоцентез</td>
+<td>2277,95</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1309</td>
 <td>C03.037.004</td>
 <td>Иықбуынның УДЗ</td>
 <td>921,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1307</td>
-<td>C03.043.004</td>
-<td>Білезік буының УДЗ</td>
-<td>1408,02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1308</td>
-<td>C03.044.004</td>
-<td>Мойыномыртқаның УДЗ</td>
-<td>344,78</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1309</td>
-<td>C03.045.004</td>
-<td>Беломыртқаның УДЗ</td>
-<td>1268,81</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177302,13 +177287,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1310</td>
-<td>C03.046.004</td>
-<td>Қалқанша бездің соноэластографиясы</td>
-<td>1697,60</td>
+<td>C03.043.004</td>
+<td>Білезік буының УДЗ</td>
+<td>1408,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177316,13 +177301,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1311</td>
-<td>C03.047.004</td>
-<td>Емшек безінің соноэластографиясы</td>
-<td>1817,78</td>
+<td>C03.044.004</td>
+<td>Мойыномыртқаның УДЗ</td>
+<td>344,78</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177330,13 +177315,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1312</td>
-<td>C03.048.004</td>
-<td>Бауырдың соноэластографиясы</td>
-<td>1697,60</td>
+<td>C03.045.004</td>
+<td>Беломыртқаның УДЗ</td>
+<td>1268,81</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177344,13 +177329,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1313</td>
-<td>C03.049.004</td>
-<td>Бүйректің соноэластографиясы</td>
-<td>1817,78</td>
+<td>C03.046.004</td>
+<td>Қалқанша бездің соноэластографиясы</td>
+<td>1697,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177358,13 +177343,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1314</td>
-<td>C03.050.004</td>
-<td>Әйелдің жыныс органдарының соноэластографиясы</td>
-<td>1697,60</td>
+<td>C03.047.004</td>
+<td>Емшек безінің соноэластографиясы</td>
+<td>1817,78</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177372,13 +177357,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1315</td>
-<td>C03.051.004</td>
-<td>Еркектік бездің соноэластографиясы</td>
-<td>7194,85</td>
+<td>C03.048.004</td>
+<td>Бауырдың соноэластографиясы</td>
+<td>1697,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177386,13 +177371,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1316</td>
-<td>C03.052.004</td>
-<td>Перифериялық лимфа түйіндерінің соноэластографиясы</td>
-<td>7194,85</td>
+<td>C03.049.004</td>
+<td>Бүйректің соноэластографиясы</td>
+<td>1817,78</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177400,13 +177385,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1317</td>
-<td>C03.053.004</td>
-<td>Жұмсақ тіндердің соноэластографиясы</td>
-<td>7194,85</td>
+<td>C03.050.004</td>
+<td>Әйелдің жыныс органдарының соноэластографиясы</td>
+<td>1697,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177414,13 +177399,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1318</td>
-<td>C03.054.004</td>
-<td>Интраоперациялық ультрадыбыстық зерттеулер</td>
-<td>1919,84</td>
+<td>C03.051.004</td>
+<td>Еркектік бездің соноэластографиясы</td>
+<td>7194,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177428,13 +177413,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1319</td>
-<td>C03.058.004</td>
-<td>Бауырды фибросканерлеу</td>
-<td>2065,82</td>
+<td>C03.052.004</td>
+<td>Перифериялық лимфа түйіндерінің соноэластографиясы</td>
+<td>7194,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177442,27 +177427,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1320</td>
-<td>C03.000.005</td>
-<td>Рентген</td>
+<td>C03.053.004</td>
+<td>Жұмсақ тіндердің соноэластографиясы</td>
+<td>7194,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1321</td>
-<td>C03.001.005</td>
-<td>1 кескіндегі диагностикалық флюорография</td>
-<td>318,73</td>
+<td>C03.054.004</td>
+<td>Интраоперациялық ультрадыбыстық зерттеулер</td>
+<td>1919,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177470,13 +177455,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1322</td>
-<td>C03.002.005</td>
-<td>2 кескіндегі диагностикалық флюорография</td>
-<td>482,74</td>
+<td>C03.058.004</td>
+<td>Бауырды фибросканерлеу</td>
+<td>2065,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177484,27 +177469,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1323</td>
-<td>C03.004.005</td>
-<td>Бассүйектің рентгенографиясы (2 кескін)</td>
-<td>989,08</td>
+<td>C03.000.005</td>
+<td>Рентген</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1324</td>
-<td>C03.005.005</td>
-<td>Бассүйектің рентгенографиясы (1 кескін)</td>
-<td>590,60</td>
+<td>C03.001.005</td>
+<td>1 кескіндегі диагностикалық флюорография</td>
+<td>318,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177512,13 +177497,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1325</td>
-<td>C03.007.005</td>
-<td>Түрік ер-тоқымының рентгенографиясы</td>
-<td>507,47</td>
+<td>C03.002.005</td>
+<td>2 кескіндегі диагностикалық флюорография</td>
+<td>482,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177526,13 +177511,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1326</td>
-<td>C03.009.005</td>
-<td>Мұрын сүйегінің рентгенографиясы</td>
-<td>318,88</td>
+<td>C03.004.005</td>
+<td>Бассүйектің рентгенографиясы (2 кескін)</td>
+<td>989,08</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177540,13 +177525,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1327</td>
-<td>C03.011.005</td>
-<td>Емізік тәрізді өсінділердің рентгенографиясы</td>
-<td>725,00</td>
+<td>C03.005.005</td>
+<td>Бассүйектің рентгенографиясы (1 кескін)</td>
+<td>590,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177554,13 +177539,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1328</td>
-<td>C03.012.005</td>
-<td>Жақсүйектің 1 кескіндегі рентгенографиясы</td>
-<td>355,54</td>
+<td>C03.007.005</td>
+<td>Түрік ер-тоқымының рентгенографиясы</td>
+<td>507,47</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177568,13 +177553,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1329</td>
-<td>C03.013.005</td>
-<td>Жақсүйектің 2 кескіндегі рентгенографиясы</td>
-<td>355,54</td>
+<td>C03.009.005</td>
+<td>Мұрын сүйегінің рентгенографиясы</td>
+<td>318,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177582,13 +177567,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1330</td>
-<td>C03.014.005</td>
-<td>Тістердің ауызішілік рентгенографиясы</td>
-<td>349,64</td>
+<td>C03.011.005</td>
+<td>Емізік тәрізді өсінділердің рентгенографиясы</td>
+<td>725,00</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177596,13 +177581,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1331</td>
-<td>C03.094.005</td>
-<td>Ауыздан тыс тісті рентгеногрфиялау</td>
-<td>238,67</td>
+<td>C03.012.005</td>
+<td>Жақсүйектің 1 кескіндегі рентгенографиясы</td>
+<td>355,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177610,13 +177595,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1332</td>
-<td>C03.015.005</td>
-<td>Мойыномырқаның рентгенографиясы</td>
-<td>707,31</td>
+<td>C03.013.005</td>
+<td>Жақсүйектің 2 кескіндегі рентгенографиясы</td>
+<td>355,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177624,13 +177609,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1333</td>
-<td>C03.016.005</td>
-<td>Функциялық сынақтары жасалған мойыномырқаның рентгенографиясы</td>
-<td>852,51</td>
+<td>C03.014.005</td>
+<td>Тістердің ауызішілік рентгенографиясы</td>
+<td>349,64</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177638,13 +177623,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1334</td>
-<td>C03.017.005</td>
-<td>Кеуде омыртқасының рентгенографиясы</td>
-<td>707,31</td>
+<td>C03.094.005</td>
+<td>Ауыздан тыс тісті рентгеногрфиялау</td>
+<td>238,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177652,13 +177637,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1335</td>
-<td>C03.018.005</td>
-<td>Кеуде қуысы органдарының рентгеноскопиясы</td>
-<td>526,98</td>
+<td>C03.015.005</td>
+<td>Мойыномырқаның рентгенографиясы</td>
+<td>707,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177666,13 +177651,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1336</td>
-<td>C03.019.005</td>
-<td>Кеуде қуысының шолу органдарының рентгенографиясы (1 кескін)</td>
-<td>574,60</td>
+<td>C03.016.005</td>
+<td>Функциялық сынақтары жасалған мойыномырқаның рентгенографиясы</td>
+<td>852,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177680,13 +177665,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1337</td>
-<td>C03.020.005</td>
-<td>Кеуде қуысы органдарының рентгенографиясы (екі кескінде)</td>
+<td>C03.017.005</td>
+<td>Кеуде омыртқасының рентгенографиясы</td>
 <td>707,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177694,13 +177679,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1338</td>
-<td>C03.022.005</td>
-<td>Қабырғаның рентгенографиясы</td>
-<td>1049,97</td>
+<td>C03.018.005</td>
+<td>Кеуде қуысы органдарының рентгеноскопиясы</td>
+<td>526,98</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177708,13 +177693,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1339</td>
-<td>C03.023.005</td>
-<td>Төстің рентгенографиясы</td>
-<td>615,31</td>
+<td>C03.019.005</td>
+<td>Кеуде қуысының шолу органдарының рентгенографиясы (1 кескін)</td>
+<td>574,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177722,13 +177707,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1340</td>
-<td>C03.024.005</td>
-<td>Бұғананың рентгенографиясы</td>
-<td>615,31</td>
+<td>C03.020.005</td>
+<td>Кеуде қуысы органдарының рентгенографиясы (екі кескінде)</td>
+<td>707,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177736,13 +177721,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1341</td>
-<td>C03.095.005</td>
-<td>Жауырын рентгенографиясы</td>
-<td>615,31</td>
+<td>C03.022.005</td>
+<td>Қабырғаның рентгенографиясы</td>
+<td>1049,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177750,13 +177735,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1342</td>
-<td>C03.025.005</td>
-<td>Өңешке қарама-қарсы кескіндегі жүректің рентгенографиясы</td>
-<td>1843,97</td>
+<td>C03.023.005</td>
+<td>Төстің рентгенографиясы</td>
+<td>615,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177764,13 +177749,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1343</td>
-<td>C03.026.005</td>
-<td>Қарама-қарсы кескіндегі көмейдің рентгенографиясы</td>
-<td>3232,53</td>
+<td>C03.024.005</td>
+<td>Бұғананың рентгенографиясы</td>
+<td>615,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177778,13 +177763,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1344</td>
-<td>C03.027.005</td>
-<td>Іш перде органдарының рентгеноскопиясы</td>
-<td>714,46</td>
+<td>C03.095.005</td>
+<td>Жауырын рентгенографиясы</td>
+<td>615,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177792,13 +177777,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1345</td>
-<td>C03.028.005</td>
-<td>Құрсақ қуысы органдарының көрінетін рентгенографиясы</td>
-<td>714,46</td>
+<td>C03.025.005</td>
+<td>Өңешке қарама-қарсы кескіндегі жүректің рентгенографиясы</td>
+<td>1843,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177806,13 +177791,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1346</td>
-<td>C03.029.005</td>
-<td>Спленопортография</td>
-<td>75064,57</td>
+<td>C03.026.005</td>
+<td>Қарама-қарсы кескіндегі көмейдің рентгенографиясы</td>
+<td>3232,53</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177820,13 +177805,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1347</td>
-<td>C03.030.005</td>
-<td>Тікелей емес қайтару спленографиясы</td>
-<td>33673,06</td>
+<td>C03.027.005</td>
+<td>Іш перде органдарының рентгеноскопиясы</td>
+<td>714,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177834,13 +177819,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1348</td>
-<td>C03.031.005</td>
-<td>Қарама-қарсы кескінде өңешті рентгеноскопиялық зерттеу</td>
-<td>7267,28</td>
+<td>C03.028.005</td>
+<td>Құрсақ қуысы органдарының көрінетін рентгенографиясы</td>
+<td>714,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177848,13 +177833,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1349</td>
-<td>C03.032.005</td>
-<td>Қарама-қарсы кескінде асқазанды рентгеноскопиялық зерттеу (қосарлы қарама-қарсы кескіндеу)</td>
-<td>3319,45</td>
+<td>C03.029.005</td>
+<td>Спленопортография</td>
+<td>75064,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177862,13 +177847,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1350</td>
-<td>C03.033.005</td>
-<td>Дуоденография</td>
-<td>1862,43</td>
+<td>C03.030.005</td>
+<td>Тікелей емес қайтару спленографиясы</td>
+<td>33673,06</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177876,13 +177861,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1351</td>
-<td>C03.034.005</td>
-<td>Ирригоскопия/ирригография (қосарлы қарама-қарсы кескіндеу)</td>
-<td>1061,20</td>
+<td>C03.031.005</td>
+<td>Қарама-қарсы кескінде өңешті рентгеноскопиялық зерттеу</td>
+<td>7267,28</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177890,13 +177875,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1352</td>
-<td>C03.035.005</td>
-<td>Релаксация арқылы жасалатын дуоденография</td>
-<td>1679,12</td>
+<td>C03.032.005</td>
+<td>Қарама-қарсы кескінде асқазанды рентгеноскопиялық зерттеу (қосарлы қарама-қарсы кескіндеу)</td>
+<td>3319,45</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177904,13 +177889,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1353</td>
-<td>C03.036.005</td>
-<td>Қарама-қарсы кескіндегі аш ішектің рентгеноскопиясы</td>
-<td>1006,05</td>
+<td>C03.033.005</td>
+<td>Дуоденография</td>
+<td>1862,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177918,13 +177903,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1354</td>
-<td>C03.037.005</td>
-<td>Иықсүйектерінің рентгенографиясы</td>
-<td>818,95</td>
+<td>C03.034.005</td>
+<td>Ирригоскопия/ирригография (қосарлы қарама-қарсы кескіндеу)</td>
+<td>1061,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177932,13 +177917,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1355</td>
-<td>C03.096.005</td>
-<td>Иықасты сүйек рентгенографиясы</td>
-<td>1059,53</td>
+<td>C03.035.005</td>
+<td>Релаксация арқылы жасалатын дуоденография</td>
+<td>1679,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177946,13 +177931,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1356</td>
-<td>C03.038.005</td>
-<td>Білек сүйектерінің рентгенографиясы</td>
-<td>818,95</td>
+<td>C03.036.005</td>
+<td>Қарама-қарсы кескіндегі аш ішектің рентгеноскопиясы</td>
+<td>1006,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177960,13 +177945,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1357</td>
-<td>C03.039.005</td>
-<td>Иық буынының рентгенографиясы</td>
-<td>382,46</td>
+<td>C03.037.005</td>
+<td>Иықсүйектерінің рентгенографиясы</td>
+<td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177974,13 +177959,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1358</td>
-<td>C03.040.005</td>
-<td>Кәріжілік-білезік буынын қоса алу арқылы жасалатын қолдың рентгенографиясы</td>
-<td>818,95</td>
+<td>C03.096.005</td>
+<td>Иықасты сүйек рентгенографиясы</td>
+<td>1059,53</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177988,13 +177973,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1359</td>
-<td>C03.097.005</td>
-<td>Білек рентгенографиясы</td>
+<td>C03.038.005</td>
+<td>Білек сүйектерінің рентгенографиясы</td>
 <td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178002,13 +177987,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1360</td>
-<td>C03.041.005</td>
-<td>Омыртқаның бел-сегізкөз бөліктерінің рентгенографиясы</td>
-<td>1073,84</td>
+<td>C03.039.005</td>
+<td>Иық буынының рентгенографиясы</td>
+<td>382,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178016,13 +178001,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1361</td>
-<td>C03.042.005</td>
-<td>Функциялық сынақтары жасалатын омыртқаның бел-сегізкөз бөлігінің рентгенографиясы</td>
-<td>1450,91</td>
+<td>C03.040.005</td>
+<td>Кәріжілік-білезік буынын қоса алу арқылы жасалатын қолдың рентгенографиясы</td>
+<td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178030,13 +178015,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1362</td>
-<td>C03.043.005</td>
-<td>Жамбас сүйегінің және ұршықбуынының рентгенографиясы</td>
-<td>730,38</td>
+<td>C03.097.005</td>
+<td>Білек рентгенографиясы</td>
+<td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178044,13 +178029,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1363</td>
-<td>C03.044.005</td>
-<td>Мықын-сегізкөз жігінің рентгенографиясы</td>
-<td>404,40</td>
+<td>C03.041.005</td>
+<td>Омыртқаның бел-сегізкөз бөліктерінің рентгенографиясы</td>
+<td>1073,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178058,13 +178043,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1364</td>
-<td>C03.098.005</td>
-<td>Сегізкөз-құйымшақ бөлігінің рентгенографиясы</td>
-<td>1325,26</td>
+<td>C03.042.005</td>
+<td>Функциялық сынақтары жасалатын омыртқаның бел-сегізкөз бөлігінің рентгенографиясы</td>
+<td>1450,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178072,13 +178057,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1365</td>
-<td>C03.099.005</td>
-<td>Жамбас-мықын буынының рентгенографиясы</td>
-<td>818,95</td>
+<td>C03.043.005</td>
+<td>Жамбас сүйегінің және ұршықбуынының рентгенографиясы</td>
+<td>730,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178086,13 +178071,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1366</td>
-<td>C03.045.005</td>
-<td>Жамбас сүйектерінің рентгенографиясы</td>
-<td>818,95</td>
+<td>C03.044.005</td>
+<td>Мықын-сегізкөз жігінің рентгенографиясы</td>
+<td>404,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178100,13 +178085,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1367</td>
-<td>C03.100.005</td>
-<td>Тізе буынының рентгенографиясы (1 проекция)</td>
-<td>818,95</td>
+<td>C03.098.005</td>
+<td>Сегізкөз-құйымшақ бөлігінің рентгенографиясы</td>
+<td>1325,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178114,13 +178099,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1368</td>
-<td>C03.101.005</td>
-<td>Тізе буынының рентгенографиясы (2 проекция)</td>
+<td>C03.099.005</td>
+<td>Жамбас-мықын буынының рентгенографиясы</td>
 <td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178128,13 +178113,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1369</td>
-<td>C03.102.005</td>
-<td>Сирақ-табан буынының рентгенографиясы (1 проекция)</td>
+<td>C03.045.005</td>
+<td>Жамбас сүйектерінің рентгенографиясы</td>
 <td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178142,13 +178127,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1370</td>
-<td>C03.103.005</td>
-<td>Сирақ-табан буынының рентгенографиясы (2 проекция)</td>
+<td>C03.100.005</td>
+<td>Тізе буынының рентгенографиясы (1 проекция)</td>
 <td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178156,13 +178141,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1371</td>
-<td>C03.046.005</td>
-<td>Сирақтың рентгенографиясы</td>
+<td>C03.101.005</td>
+<td>Тізе буынының рентгенографиясы (2 проекция)</td>
 <td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178170,13 +178155,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1372</td>
-<td>C03.048.005</td>
-<td>Қол және аяқ саусақтарының рентгенографиясы</td>
-<td>557,68</td>
+<td>C03.102.005</td>
+<td>Сирақ-табан буынының рентгенографиясы (1 проекция)</td>
+<td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178184,13 +178169,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1373</td>
-<td>C03.049.005</td>
-<td>Табан рентгенографиясы</td>
-<td>655,95</td>
+<td>C03.103.005</td>
+<td>Сирақ-табан буынының рентгенографиясы (2 проекция)</td>
+<td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178198,13 +178183,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1374</td>
-<td>C03.050.005</td>
-<td>Табанның тура кескінінің рентгенографиясы</td>
-<td>655,95</td>
+<td>C03.046.005</td>
+<td>Сирақтың рентгенографиясы</td>
+<td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178212,13 +178197,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1375</td>
-<td>C03.051.005</td>
-<td>Репозицияны және бекітуді рентгеноскопиялық бақылау</td>
-<td>404,40</td>
+<td>C03.048.005</td>
+<td>Қол және аяқ саусақтарының рентгенографиясы</td>
+<td>557,68</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178226,13 +178211,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1376</td>
-<td>C03.052.005</td>
-<td>Пантомография</td>
-<td>708,19</td>
+<td>C03.049.005</td>
+<td>Табан рентгенографиясы</td>
+<td>655,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178240,13 +178225,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1377</td>
-<td>C03.053.005</td>
-<td>Холангиохолецистография венаішілік</td>
-<td>7882,91</td>
+<td>C03.050.005</td>
+<td>Табанның тура кескінінің рентгенографиясы</td>
+<td>655,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178254,13 +178239,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1378</td>
-<td>C03.055.005</td>
-<td>Фистулохолангиография</td>
-<td>4054,83</td>
+<td>C03.051.005</td>
+<td>Репозицияны және бекітуді рентгеноскопиялық бақылау</td>
+<td>404,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178268,13 +178253,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1379</td>
-<td>C03.056.005</td>
-<td>Шолулы урография</td>
-<td>2095,89</td>
+<td>C03.052.005</td>
+<td>Пантомография</td>
+<td>708,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178282,13 +178267,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1380</td>
-<td>C03.058.005</td>
-<td>Урография венаішілік</td>
-<td>7225,54</td>
+<td>C03.053.005</td>
+<td>Холангиохолецистография венаішілік</td>
+<td>7882,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178296,13 +178281,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1381</td>
-<td>C03.059.005</td>
-<td>Антеградты пиелоуретерография</td>
-<td>2719,21</td>
+<td>C03.055.005</td>
+<td>Фистулохолангиография</td>
+<td>4054,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178310,13 +178295,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1382</td>
-<td>C03.060.005</td>
-<td>Ретроградты пиелоуретерография</td>
-<td>971,07</td>
+<td>C03.056.005</td>
+<td>Шолулы урография</td>
+<td>2095,89</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178324,13 +178309,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1383</td>
-<td>C03.061.005</td>
-<td>Цистография төмендейтін</td>
-<td>2070,04</td>
+<td>C03.058.005</td>
+<td>Урография венаішілік</td>
+<td>7225,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178338,13 +178323,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1384</td>
-<td>C03.062.005</td>
-<td>Цистография жоғарлайтын</td>
-<td>2070,04</td>
+<td>C03.059.005</td>
+<td>Антеградты пиелоуретерография</td>
+<td>2719,21</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178352,13 +178337,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1385</td>
-<td>C03.063.005</td>
-<td>Микциондық цистоуретерография</td>
-<td>1653,34</td>
+<td>C03.060.005</td>
+<td>Ретроградты пиелоуретерография</td>
+<td>971,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178366,13 +178351,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1386</td>
-<td>C03.064.005</td>
-<td>Уретрография (төмендейтін, жоғарлайтын)</td>
-<td>2253,68</td>
+<td>C03.061.005</td>
+<td>Цистография төмендейтін</td>
+<td>2070,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178380,13 +178365,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1387</td>
-<td>C03.065.005</td>
-<td>Пневмоперитонеум, ретропневмоперитонеум</td>
-<td>2151,25</td>
+<td>C03.062.005</td>
+<td>Цистография жоғарлайтын</td>
+<td>2070,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178394,13 +178379,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1388</td>
-<td>C03.066.005</td>
-<td>Фистулография</td>
-<td>2051,49</td>
+<td>C03.063.005</td>
+<td>Микциондық цистоуретерография</td>
+<td>1653,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178408,13 +178393,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1389</td>
-<td>C03.067.005</td>
-<td>Гистеросальпингография</td>
-<td>1621,57</td>
+<td>C03.064.005</td>
+<td>Уретрография (төмендейтін, жоғарлайтын)</td>
+<td>2253,68</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178422,13 +178407,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1390</td>
-<td>C03.069.005</td>
-<td>Мұрын қуысының рентгенографиясы</td>
-<td>924,61</td>
+<td>C03.065.005</td>
+<td>Пневмоперитонеум, ретропневмоперитонеум</td>
+<td>2151,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178436,13 +178421,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1391</td>
-<td>C03.070.005</td>
-<td>Самай сүйектерінің рентгенографиясы (Стенверс, Шюллер, Майер бойынша)</td>
-<td>973,04</td>
+<td>C03.066.005</td>
+<td>Фистулография</td>
+<td>2051,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178450,13 +178435,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1392</td>
-<td>C03.071.005</td>
-<td>Көмейдің томографиясы</td>
-<td>1517,95</td>
+<td>C03.067.005</td>
+<td>Гистеросальпингография</td>
+<td>1621,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178464,13 +178449,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1393</td>
-<td>C03.072.005</td>
-<td>Аңқаның, мұрын қуысының томографиясы</td>
-<td>2446,93</td>
+<td>C03.069.005</td>
+<td>Мұрын қуысының рентгенографиясы</td>
+<td>924,61</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178478,13 +178463,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1394</td>
-<td>C03.073.005</td>
-<td>Бас сүйектің томографиясы</td>
-<td>2939,99</td>
+<td>C03.070.005</td>
+<td>Самай сүйектерінің рентгенографиясы (Стенверс, Шюллер, Майер бойынша)</td>
+<td>973,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178492,13 +178477,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1395</td>
-<td>C03.076.005</td>
-<td>Лимфография</td>
-<td>77434,97</td>
+<td>C03.071.005</td>
+<td>Көмейдің томографиясы</td>
+<td>1517,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178506,13 +178491,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1396</td>
-<td>C03.077.005</td>
-<td>ЭОП бақылауымен фистулоангиография</td>
-<td>1144,05</td>
+<td>C03.072.005</td>
+<td>Аңқаның, мұрын қуысының томографиясы</td>
+<td>2446,93</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178520,13 +178505,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1397</td>
-<td>C03.078.005</td>
-<td>Дакриоцистография</td>
-<td>474,35</td>
+<td>C03.073.005</td>
+<td>Бас сүйектің томографиясы</td>
+<td>2939,99</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178534,13 +178519,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1398</td>
-<td>C03.080.005</td>
-<td>Резе бойынша орбитаның рентгенографиясы</td>
-<td>962,36</td>
+<td>C03.076.005</td>
+<td>Лимфография</td>
+<td>77434,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178548,13 +178533,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1399</td>
-<td>C03.081.005</td>
-<td>Сиалография</td>
-<td>2158,92</td>
+<td>C03.077.005</td>
+<td>ЭОП бақылауымен фистулоангиография</td>
+<td>1144,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178562,13 +178547,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1400</td>
-<td>C03.082.005</td>
-<td>Маммография (4 сурет)</td>
-<td>2331,92</td>
+<td>C03.078.005</td>
+<td>Дакриоцистография</td>
+<td>474,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178576,13 +178561,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1401</td>
-<td>C03.084.005</td>
-<td>Нысаналы маммография (1 кескінде)</td>
-<td>2016,42</td>
+<td>C03.080.005</td>
+<td>Резе бойынша орбитаның рентгенографиясы</td>
+<td>962,36</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178590,13 +178575,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1402</td>
-<td>C03.085.005</td>
-<td>Дуктография (ақшыл тарамды контрастілеу)</td>
-<td>2107,53</td>
+<td>C03.081.005</td>
+<td>Сиалография</td>
+<td>2158,92</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178604,13 +178589,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1403</td>
-<td>C03.086.005</td>
-<td>Стереотаксикалық бақылаумен пункциялық/аспирациялық биопсия</td>
-<td>9672,29</td>
+<td>C03.082.005</td>
+<td>Маммография (4 сурет)</td>
+<td>2331,92</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178618,13 +178603,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1404</td>
-<td>C03.087.005</td>
-<td>Кеуде ағзалары ұзындығының томографиясы</td>
-<td>1360,85</td>
+<td>C03.084.005</td>
+<td>Нысаналы маммография (1 кескінде)</td>
+<td>2016,42</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178632,13 +178617,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1405</td>
-<td>C03.089.005</td>
-<td>Сүйектердің және буындардың томографиясы</td>
-<td>2807,51</td>
+<td>C03.085.005</td>
+<td>Дуктография (ақшыл тарамды контрастілеу)</td>
+<td>2107,53</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178646,13 +178631,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1406</td>
-<td>C03.090.005</td>
-<td>Омыртқаның томографиясы</td>
-<td>2795,96</td>
+<td>C03.086.005</td>
+<td>Стереотаксикалық бақылаумен пункциялық/аспирациялық биопсия</td>
+<td>9672,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178660,13 +178645,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1407</td>
-<td>C03.092.005</td>
-<td>Скелеттің барлық рентгендің денситометриясы</td>
-<td>794,60</td>
+<td>C03.087.005</td>
+<td>Кеуде ағзалары ұзындығының томографиясы</td>
+<td>1360,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178674,13 +178659,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1408</td>
-<td>C03.104.005</td>
-<td>Омыртқаның бел бөлігінің рентгендік денситометриясы</td>
-<td>794,60</td>
+<td>C03.089.005</td>
+<td>Сүйектердің және буындардың томографиясы</td>
+<td>2807,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178688,13 +178673,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1409</td>
-<td>C03.105.005</td>
-<td>Жамбас-мықын буынының рентгендік денситометриясы</td>
-<td>794,60</td>
+<td>C03.090.005</td>
+<td>Омыртқаның томографиясы</td>
+<td>2795,96</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178702,13 +178687,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1410</td>
-<td>C03.093.005</td>
-<td>Контрасты бронхография</td>
-<td>4125,03</td>
+<td>C03.092.005</td>
+<td>Скелеттің барлық рентгендің денситометриясы</td>
+<td>794,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178716,69 +178701,69 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1411</td>
+<td>C03.104.005</td>
+<td>Омыртқаның бел бөлігінің рентгендік денситометриясы</td>
+<td>794,60</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1412</td>
+<td>C03.105.005</td>
+<td>Жамбас-мықын буынының рентгендік денситометриясы</td>
+<td>794,60</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1413</td>
+<td>C03.093.005</td>
+<td>Контрасты бронхография</td>
+<td>4125,03</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1414</td>
 <td>C03.000.006</td>
 <td>Компьютерлік томография</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1412</td>
+<td>1415</td>
 <td>C03.001.006</td>
 <td>Мидың компьютерлік томографиясы</td>
 <td>4030,45</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1413</td>
-<td>C03.002.006</td>
-<td>Мойынның компьютерлік томографиясы</td>
-<td>1671,46</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1414</td>
-<td>C03.003.006</td>
-<td>Кеуде ағзаларының және көкірекортаның компьютерлік томографиясы</td>
-<td>3119,45</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1415</td>
-<td>C03.005.006</td>
-<td>Ішперде қуысы ағзаларын және ішперде артқы кеңістіктің компьютерлік томографиясы</td>
-<td>3078,59</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178786,13 +178771,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1416</td>
-<td>C03.006.006</td>
-<td>Кіші жамбас ағзаларының компьютерлік томографиясы</td>
-<td>3078,59</td>
+<td>C03.002.006</td>
+<td>Мойынның компьютерлік томографиясы</td>
+<td>1671,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178800,13 +178785,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1417</td>
-<td>C03.007.006</td>
-<td>Сүйек-буын жүйесінің компьютерлік томографиясы (1 анатомиялық аймақ)</td>
-<td>1629,75</td>
+<td>C03.003.006</td>
+<td>Кеуде ағзаларының және көкірекортаның компьютерлік томографиясы</td>
+<td>3119,45</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178814,13 +178799,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1418</td>
-<td>C03.008.006</td>
-<td>Мұрын қуысы қосалқыларының компьютерлік томографиясы</td>
+<td>C03.005.006</td>
+<td>Ішперде қуысы ағзаларын және ішперде артқы кеңістіктің компьютерлік томографиясы</td>
 <td>3078,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178828,13 +178813,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1419</td>
-<td>C03.009.006</td>
-<td>Самай сүйектері пирамидаларының компьютерлік томографиясы</td>
-<td>2532,59</td>
+<td>C03.006.006</td>
+<td>Кіші жамбас ағзаларының компьютерлік томографиясы</td>
+<td>3078,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178842,13 +178827,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1420</td>
-<td>C03.010.006</td>
-<td>Басқа ағзалардың компьютерлік томографиясы</td>
-<td>2573,45</td>
+<td>C03.007.006</td>
+<td>Сүйек-буын жүйесінің компьютерлік томографиясы (1 анатомиялық аймақ)</td>
+<td>1629,75</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178856,13 +178841,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1421</td>
-<td>C03.011.006</td>
-<td>Контрастілеумен мидың компьютерлік томографиясы</td>
-<td>16452,58</td>
+<td>C03.008.006</td>
+<td>Мұрын қуысы қосалқыларының компьютерлік томографиясы</td>
+<td>3078,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178870,13 +178855,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1422</td>
-<td>C03.012.006</td>
-<td>Контрастілеумен мойынның компьютерлік томографиясы</td>
-<td>16098,58</td>
+<td>C03.009.006</td>
+<td>Самай сүйектері пирамидаларының компьютерлік томографиясы</td>
+<td>2532,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178884,13 +178869,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1423</td>
-<td>C03.013.006</td>
-<td>Контрастілеумен кеуде ағзаларының компьютерлік томографиясы</td>
-<td>16452,58</td>
+<td>C03.010.006</td>
+<td>Басқа ағзалардың компьютерлік томографиясы</td>
+<td>2573,45</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178898,13 +178883,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1424</td>
-<td>C03.014.006</td>
-<td>Контрастілеумен жүректің компьютерлік томографиясы</td>
-<td>16450,26</td>
+<td>C03.011.006</td>
+<td>Контрастілеумен мидың компьютерлік томографиясы</td>
+<td>16452,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178912,13 +178897,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1425</td>
-<td>C03.015.006</td>
-<td>Контрастілеумен ішперде қуысы және ішперде артыңғы ағзалардың компьютерлік томографиясы</td>
-<td>16119,64</td>
+<td>C03.012.006</td>
+<td>Контрастілеумен мойынның компьютерлік томографиясы</td>
+<td>16098,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178926,13 +178911,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1426</td>
-<td>C03.016.006</td>
-<td>Контрастілеумен кіші жамбас ағзаларының компьютерлік томографиясы</td>
+<td>C03.013.006</td>
+<td>Контрастілеумен кеуде ағзаларының компьютерлік томографиясы</td>
 <td>16452,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178940,13 +178925,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1427</td>
-<td>C03.017.006</td>
-<td>Контрастілеумен басқа ағзалардың компьютерлік томографиясы</td>
-<td>9180,58</td>
+<td>C03.014.006</td>
+<td>Контрастілеумен жүректің компьютерлік томографиясы</td>
+<td>16450,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178954,13 +178939,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1428</td>
-<td>C03.018.006</td>
-<td>Жуан ішектің компьютерлік томографиясы (виртуалдық колоноскопия)</td>
-<td>60744,55</td>
+<td>C03.015.006</td>
+<td>Контрастілеумен ішперде қуысы және ішперде артыңғы ағзалардың компьютерлік томографиясы</td>
+<td>16119,64</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178968,27 +178953,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1429</td>
-<td>C03.000.007</td>
-<td>Магниттік-резонанстық томография (МРТ)</td>
+<td>C03.016.006</td>
+<td>Контрастілеумен кіші жамбас ағзаларының компьютерлік томографиясы</td>
+<td>16452,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
 </tr>
 <tr>
 <td>1430</td>
-<td>C03.001.007</td>
-<td>Мидың магниттік-резонанстық томографиясы</td>
-<td>6594,59</td>
+<td>C03.017.006</td>
+<td>Контрастілеумен басқа ағзалардың компьютерлік томографиясы</td>
+<td>9180,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178996,13 +178981,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1431</td>
-<td>C03.002.007</td>
-<td>Көкірекорта ағзаларының магниттік-резонанстық томографиясы</td>
-<td>3233,47</td>
+<td>C03.018.006</td>
+<td>Жуан ішектің компьютерлік томографиясы (виртуалдық колоноскопия)</td>
+<td>60744,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179010,27 +178995,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1432</td>
-<td>C03.003.007</td>
-<td>Ішперде қуысы ағзаларын және ішперде артқы кеңістіктің магниттік-резонанстық томографиясы</td>
-<td>3841,07</td>
+<td>C03.000.007</td>
+<td>Магниттік-резонанстық томография (МРТ)</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1433</td>
-<td>C03.004.007</td>
-<td>Жамбас органдарының магниттік-резонанстық томографиясы</td>
-<td>3094,59</td>
+<td>C03.001.007</td>
+<td>Мидың магниттік-резонанстық томографиясы</td>
+<td>6594,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179038,13 +179023,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1434</td>
-<td>C03.005.007</td>
-<td>Сүйек-буын жүйесінің магниттік-резонанстық томографиясы</td>
-<td>1646,92</td>
+<td>C03.002.007</td>
+<td>Көкірекорта ағзаларының магниттік-резонанстық томографиясы</td>
+<td>3233,47</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179052,13 +179037,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1435</td>
-<td>C03.006.007</td>
-<td>Омыртқаның магниттік-резонанстық томографиясы (1 анатомиялық аймақ)</td>
-<td>4046,45</td>
+<td>C03.003.007</td>
+<td>Ішперде қуысы ағзаларын және ішперде артқы кеңістіктің магниттік-резонанстық томографиясы</td>
+<td>3841,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179066,13 +179051,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1436</td>
-<td>C03.007.007</td>
-<td>Басқа ағзалардың магниттік-резонанстық томографиясы</td>
-<td>3233,47</td>
+<td>C03.004.007</td>
+<td>Жамбас органдарының магниттік-резонанстық томографиясы</td>
+<td>3094,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179080,13 +179065,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1437</td>
-<td>C03.008.007</td>
-<td>Контрастілеумен мидың магниттік-резонанстық томографиясы</td>
-<td>22764,32</td>
+<td>C03.005.007</td>
+<td>Сүйек-буын жүйесінің магниттік-резонанстық томографиясы</td>
+<td>1646,92</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179094,13 +179079,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1438</td>
-<td>C03.009.007</td>
-<td>Контрастілеумен көкірекорта ағзалардың магниттік-резонанстық томографиясы</td>
-<td>22540,25</td>
+<td>C03.006.007</td>
+<td>Омыртқаның магниттік-резонанстық томографиясы (1 анатомиялық аймақ)</td>
+<td>4046,45</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179108,13 +179093,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1439</td>
-<td>C03.017.007</td>
-<td>Контрастілеумен жүректің магнитті- резонастық томографиясы</td>
-<td>22540,25</td>
+<td>C03.007.007</td>
+<td>Басқа ағзалардың магниттік-резонанстық томографиясы</td>
+<td>3233,47</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179122,13 +179107,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1440</td>
-<td>C03.010.007</td>
-<td>Контрастілеумен ішперде қуысы және ішперде артыңғы ағзалардың магниттік-резонанстық томографиясы</td>
+<td>C03.008.007</td>
+<td>Контрастілеумен мидың магниттік-резонанстық томографиясы</td>
 <td>22764,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179136,13 +179121,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1441</td>
-<td>C03.011.007</td>
-<td>Контрастілеумен жамбас ағзаларының магниттік-резонанстық томографиясы</td>
-<td>19984,14</td>
+<td>C03.009.007</td>
+<td>Контрастілеумен көкірекорта ағзалардың магниттік-резонанстық томографиясы</td>
+<td>22540,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179150,13 +179135,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1442</td>
-<td>C03.012.007</td>
-<td>Контрастілеумен сүйек-буын жүйесінің магниттік-резонанстық томографиясы</td>
-<td>22764,32</td>
+<td>C03.017.007</td>
+<td>Контрастілеумен жүректің магнитті- резонастық томографиясы</td>
+<td>22540,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179164,13 +179149,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1443</td>
-<td>C03.013.007</td>
-<td>Контрастілеумен омыртқаның магниттік-резонанстық томографиясы (1 анатомиялық аймақ)</td>
-<td>29528,19</td>
+<td>C03.010.007</td>
+<td>Контрастілеумен ішперде қуысы және ішперде артыңғы ағзалардың магниттік-резонанстық томографиясы</td>
+<td>22764,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179178,13 +179163,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1444</td>
-<td>C03.014.007</td>
-<td>Контрастілеумен басқа ағзалардың магниттік-резонанстық томографиясы</td>
-<td>24225,30</td>
+<td>C03.011.007</td>
+<td>Контрастілеумен жамбас ағзаларының магниттік-резонанстық томографиясы</td>
+<td>19984,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179192,13 +179177,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1445</td>
-<td>C03.015.007</td>
-<td>Перфузияны бағалаумен, МРТ-трактографиясымен мидың магниттік-резонанстық томографиясы</td>
-<td>23137,27</td>
+<td>C03.012.007</td>
+<td>Контрастілеумен сүйек-буын жүйесінің магниттік-резонанстық томографиясы</td>
+<td>22764,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179206,13 +179191,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1446</td>
-<td>C03.016.007</td>
-<td>Динамикалық контрастық нығайтумен сүт бездерінің магниттік-резонанстық томографиясы</td>
-<td>25140,31</td>
+<td>C03.013.007</td>
+<td>Контрастілеумен омыртқаның магниттік-резонанстық томографиясы (1 анатомиялық аймақ)</td>
+<td>29528,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179220,41 +179205,41 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1447</td>
-<td>C04.000.000</td>
-<td>Радиоизотопты диагностика</td>
+<td>C03.014.007</td>
+<td>Контрастілеумен басқа ағзалардың магниттік-резонанстық томографиясы</td>
+<td>24225,30</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
 </tr>
 <tr>
 <td>1448</td>
-<td>C04.000.008</td>
-<td>Радиометрия және радиография</td>
+<td>C03.015.007</td>
+<td>Перфузияны бағалаумен, МРТ-трактографиясымен мидың магниттік-резонанстық томографиясы</td>
+<td>23137,27</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
 </tr>
 <tr>
 <td>1449</td>
-<td>C04.006.008</td>
-<td>Қалқанша бездің функцияларын радиометриялық зерттеу</td>
-<td>1735,80</td>
+<td>C03.016.007</td>
+<td>Динамикалық контрастық нығайтумен сүт бездерінің магниттік-резонанстық томографиясы</td>
+<td>25140,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179262,13 +179247,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1450</td>
-<td>C04.000.009</td>
-<td>Бір фотондық эмиссиондық компьютерлік томография</td>
+<td>C04.000.000</td>
+<td>Радиоизотопты диагностика</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -179276,27 +179261,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1451</td>
-<td>C04.001.009</td>
-<td>Миокардттың статистикалық бір фотондық эмиссиондық компьютерлік томографиясы (3 кескінде)</td>
-<td>17133,20</td>
+<td>C04.000.008</td>
+<td>Радиометрия және радиография</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1452</td>
-<td>C04.002.009</td>
-<td>Скелеттің статистикалық бір фотондық эмиссиондық компьютерлік томографиясы (1 кескінде)</td>
-<td>5345,14</td>
+<td>C04.006.008</td>
+<td>Қалқанша бездің функцияларын радиометриялық зерттеу</td>
+<td>1735,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179304,27 +179289,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1453</td>
-<td>C04.003.009</td>
-<td>Скелеттің динамикалық бір фотондық эмиссиондық компьютерлік томографиясы (1 кескінде)</td>
-<td>2965,94</td>
+<td>C04.000.009</td>
+<td>Бір фотондық эмиссиондық компьютерлік томография</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1454</td>
-<td>C04.004.009</td>
-<td>Скелеттің статистикалық бір фотондық эмиссиондық компьютерлік томографиясы - одан кейінгі әрбір кескін</td>
-<td>5701,27</td>
+<td>C04.001.009</td>
+<td>Миокардттың статистикалық бір фотондық эмиссиондық компьютерлік томографиясы (3 кескінде)</td>
+<td>17133,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179332,13 +179317,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1455</td>
-<td>C04.005.009</td>
-<td>Өкпенің динамикалық бір фотондық эмиссиондық компьютерлік томографиясы (4 кескінде)</td>
-<td>14183,92</td>
+<td>C04.002.009</td>
+<td>Скелеттің статистикалық бір фотондық эмиссиондық компьютерлік томографиясы (1 кескінде)</td>
+<td>5345,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179346,13 +179331,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1456</td>
-<td>C04.006.009</td>
-<td>Қалқанша безінің статистикалық бір фотондық эмиссиондық компьютерлік томографиясы</td>
-<td>5348,28</td>
+<td>C04.003.009</td>
+<td>Скелеттің динамикалық бір фотондық эмиссиондық компьютерлік томографиясы (1 кескінде)</td>
+<td>2965,94</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179360,13 +179345,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1457</td>
-<td>C04.007.009</td>
-<td>Қалқанша безінің маңындағы статистикалық бір фотондық эмиссиондық компьютерлік томографиясы</td>
-<td>5348,28</td>
+<td>C04.004.009</td>
+<td>Скелеттің статистикалық бір фотондық эмиссиондық компьютерлік томографиясы - одан кейінгі әрбір кескін</td>
+<td>5701,27</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179374,13 +179359,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1458</td>
-<td>C04.008.009</td>
-<td>Гепатобилиарлық жүйенің статистикалық бір фотондық эмиссиондық компьютерлік томографиясы</td>
-<td>11314,57</td>
+<td>C04.005.009</td>
+<td>Өкпенің динамикалық бір фотондық эмиссиондық компьютерлік томографиясы (4 кескінде)</td>
+<td>14183,92</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179388,13 +179373,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1459</td>
-<td>C04.009.009</td>
-<td>Бүйректің динамикалық бір фотондық эмиссиондық компьютерлік томография</td>
-<td>13264,57</td>
+<td>C04.006.009</td>
+<td>Қалқанша безінің статистикалық бір фотондық эмиссиондық компьютерлік томографиясы</td>
+<td>5348,28</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179402,13 +179387,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1460</td>
-<td>C04.010.009</td>
-<td>Мидың перфузиялық статистикалық сцинтиграфиясы бір фотондық эмиссиондық компьютерлік томографиясы (3 кескінде)</td>
-<td>13214,57</td>
+<td>C04.007.009</td>
+<td>Қалқанша безінің маңындағы статистикалық бір фотондық эмиссиондық компьютерлік томографиясы</td>
+<td>5348,28</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179416,13 +179401,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1461</td>
-<td>C04.011.009</td>
-<td>Мидың перфузиялық динамикалық сцинтиграфиясы бір фотондық эмиссиондық компьютерлік томографиясы</td>
-<td>17012,43</td>
+<td>C04.008.009</td>
+<td>Гепатобилиарлық жүйенің статистикалық бір фотондық эмиссиондық компьютерлік томографиясы</td>
+<td>11314,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179430,13 +179415,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1462</td>
-<td>C04.012.009</td>
-<td>Жүректің динамикалық сцинтиграфиясы бір фотондық эмиссиондық компьютерлік томографиясы</td>
-<td>18822,03</td>
+<td>C04.009.009</td>
+<td>Бүйректің динамикалық бір фотондық эмиссиондық компьютерлік томография</td>
+<td>13264,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179444,13 +179429,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1463</td>
-<td>C04.013.009</td>
-<td>Гепатобилиярлы жүйенің динамикалық сцинтиграфиясы бір фотондық эмиссиондық компьютерлік томографиясы</td>
-<td>18313,00</td>
+<td>C04.010.009</td>
+<td>Мидың перфузиялық статистикалық сцинтиграфиясы бір фотондық эмиссиондық компьютерлік томографиясы (3 кескінде)</td>
+<td>13214,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179458,13 +179443,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1464</td>
-<td>C04.014.009</td>
-<td>Бүйректі динамикалық сцинтиграфиясы бір фотондық эмиссиондық компьютерлік томографиясы</td>
-<td>16986,32</td>
+<td>C04.011.009</td>
+<td>Мидың перфузиялық динамикалық сцинтиграфиясы бір фотондық эмиссиондық компьютерлік томографиясы</td>
+<td>17012,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179472,13 +179457,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1465</td>
-<td>C04.015.009</td>
-<td>Асқазанның моторлық-эвакуаторлық қызметін динамикалық сцинтиграфиясы бір фотондық эмиссиондық компьютерлік томографиясы</td>
-<td>17169,29</td>
+<td>C04.012.009</td>
+<td>Жүректің динамикалық сцинтиграфиясы бір фотондық эмиссиондық компьютерлік томографиясы</td>
+<td>18822,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179486,27 +179471,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1466</td>
-<td>C04.000.010</td>
-<td>ПЭТ</td>
+<td>C04.013.009</td>
+<td>Гепатобилиярлы жүйенің динамикалық сцинтиграфиясы бір фотондық эмиссиондық компьютерлік томографиясы</td>
+<td>18313,00</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
 </tr>
 <tr>
 <td>1467</td>
-<td>C04.001.010</td>
-<td>Бір анатомиялық аймақтың позитрондық-эмиссиондық томографиясы (ПЭТ) + компьютерлік томографиясы</td>
-<td>169394,39</td>
+<td>C04.014.009</td>
+<td>Бүйректі динамикалық сцинтиграфиясы бір фотондық эмиссиондық компьютерлік томографиясы</td>
+<td>16986,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179514,13 +179499,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1468</td>
-<td>C04.002.010</td>
-<td>Барлық дененің позитрондық-эмиссиондық томографиясы (ПЭТ) + компьютерлік томографиясы</td>
-<td>174887,31</td>
+<td>C04.015.009</td>
+<td>Асқазанның моторлық-эвакуаторлық қызметін динамикалық сцинтиграфиясы бір фотондық эмиссиондық компьютерлік томографиясы</td>
+<td>17169,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179528,13 +179513,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1469</td>
-<td>C05.000.000</td>
-<td>Ангиографиялық қызметтер</td>
+<td>C04.000.010</td>
+<td>ПЭТ</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -179542,27 +179527,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1470</td>
-<td>CХХ.ХХХ.011</td>
-<td>Ангиография</td>
+<td>C04.001.010</td>
+<td>Бір анатомиялық аймақтың позитрондық-эмиссиондық томографиясы (ПЭТ) + компьютерлік томографиясы</td>
+<td>169394,39</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
 </tr>
 <tr>
 <td>1471</td>
-<td>C88.482.011</td>
-<td>Аяқ-қолдардың ретроградты артериографиясы</td>
-<td>44888,14</td>
+<td>C04.002.010</td>
+<td>Барлық дененің позитрондық-эмиссиондық томографиясы (ПЭТ) + компьютерлік томографиясы</td>
+<td>174887,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179570,41 +179555,41 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1472</td>
-<td>C88.490.011</td>
-<td>Ағзалардың селективалық артериографиясы</td>
-<td>74508,82</td>
+<td>C05.000.000</td>
+<td>Ангиографиялық қызметтер</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1473</td>
-<td>C88.470.011</td>
-<td>Целиакография</td>
-<td>73796,30</td>
+<td>CХХ.ХХХ.011</td>
+<td>Ангиография</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1474</td>
-<td>C88.471.011</td>
-<td>Мезентерикопортография</td>
-<td>74508,82</td>
+<td>C88.482.011</td>
+<td>Аяқ-қолдардың ретроградты артериографиясы</td>
+<td>44888,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179612,13 +179597,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1475</td>
-<td>C88.472.011</td>
-<td>Гепатоартериография</td>
+<td>C88.490.011</td>
+<td>Ағзалардың селективалық артериографиясы</td>
 <td>74508,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179626,13 +179611,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1476</td>
-<td>C88.660.011</td>
-<td>Перифериялық флебографиялау</td>
-<td>39307,69</td>
+<td>C88.470.011</td>
+<td>Целиакография</td>
+<td>73796,30</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179640,13 +179625,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1477</td>
-<td>C88.670.011</td>
-<td>Бүйрек флебографиясы</td>
-<td>44539,95</td>
+<td>C88.471.011</td>
+<td>Мезентерикопортография</td>
+<td>74508,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179654,13 +179639,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1478</td>
-<td>C88.480.011</td>
-<td>Перифериялық артериография</td>
-<td>45775,98</td>
+<td>C88.472.011</td>
+<td>Гепатоартериография</td>
+<td>74508,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179668,13 +179653,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1479</td>
-<td>C88.550.011</td>
-<td>Бір катетерді қолданумен коронарлық артериография</td>
-<td>55357,66</td>
+<td>C88.660.011</td>
+<td>Перифериялық флебографиялау</td>
+<td>39307,69</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179682,13 +179667,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1480</td>
-<td>C88.560.011</td>
-<td>Екі катетерді қолданумен коронарлық артериография</td>
-<td>59736,54</td>
+<td>C88.670.011</td>
+<td>Бүйрек флебографиясы</td>
+<td>44539,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179696,13 +179681,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1481</td>
-<td>C88.420.011</td>
-<td>Аортография</td>
-<td>47776,52</td>
+<td>C88.480.011</td>
+<td>Перифериялық артериография</td>
+<td>45775,98</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -179710,97 +179695,97 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1482</td>
+<td>C88.550.011</td>
+<td>Бір катетерді қолданумен коронарлық артериография</td>
+<td>55357,66</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1483</td>
+<td>C88.560.011</td>
+<td>Екі катетерді қолданумен коронарлық артериография</td>
+<td>59736,54</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1484</td>
+<td>C88.420.011</td>
+<td>Аортография</td>
+<td>47776,52</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1485</td>
 <td>D</td>
 <td>ЕМШАРАЛАР МЕН МАНИПУЛЯЦИЯЛАР:</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1483</td>
+<td>1486</td>
 <td>D01.000.000</td>
 <td>Клиникалық емшаралар мен манипуляциялар</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1484</td>
+<td>1487</td>
 <td>DХХ.ХХХ.000</td>
 <td>Жалпы</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1485</td>
+<td>1488</td>
 <td>D93.950.001</td>
 <td>Гипербариялық оксигенация (ГБО), 6-10 жергілікті барокамера</td>
 <td>3507,62</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1486</td>
-<td>D93.950.002</td>
-<td>Гипербариялық оксигенация (ГБО), бір орынды барокамера</td>
-<td>3580,35</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1487</td>
-<td>D93.950.003</td>
-<td>Гипербариялық оксигенация (ГБО), көшпелі барокамера</td>
-<td>2033,55</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1488</td>
-<td>D99.291.004</td>
-<td>Аппликациялық анестезия</td>
-<td>141,95</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179808,13 +179793,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1489</td>
-<td>D99.292.005</td>
-<td>Өткізгіш анестезия</td>
-<td>648,03</td>
+<td>D93.950.002</td>
+<td>Гипербариялық оксигенация (ГБО), бір орынды барокамера</td>
+<td>3580,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179822,13 +179807,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1490</td>
-<td>D99.294.006</td>
-<td>Инфильтрациялық анестезия</td>
-<td>1330,50</td>
+<td>D93.950.003</td>
+<td>Гипербариялық оксигенация (ГБО), көшпелі барокамера</td>
+<td>2033,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179836,13 +179821,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1491</td>
-<td>D99.295.007</td>
-<td>Венаішілік наркоз</td>
-<td>1986,58</td>
+<td>D99.291.004</td>
+<td>Аппликациялық анестезия</td>
+<td>141,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179850,13 +179835,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1492</td>
-<td>D96.700.027</td>
-<td>Интубациялық наркоз</td>
-<td>16072,35</td>
+<td>D99.292.005</td>
+<td>Өткізгіш анестезия</td>
+<td>648,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179864,13 +179849,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1493</td>
-<td>D03.901.028</td>
-<td>Регионарлық кесу</td>
-<td>2809,89</td>
+<td>D99.294.006</td>
+<td>Инфильтрациялық анестезия</td>
+<td>1330,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179878,13 +179863,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1494</td>
-<td>D04.820.008</td>
-<td>Новокаиндік блокада</td>
-<td>648,03</td>
+<td>D99.295.007</td>
+<td>Венаішілік наркоз</td>
+<td>1986,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179892,13 +179877,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1495</td>
-<td>D89.370.009</td>
-<td>Пикфлоуметрия</td>
-<td>151,44</td>
+<td>D96.700.027</td>
+<td>Интубациялық наркоз</td>
+<td>16072,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179906,13 +179891,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1496</td>
-<td>D89.371.010</td>
-<td>Физикалық жүктемемен пикфлоуметрия</td>
-<td>189,11</td>
+<td>D03.901.028</td>
+<td>Регионарлық кесу</td>
+<td>2809,89</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179920,13 +179905,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1497</td>
-<td>D89.372.011</td>
-<td>Пикфлоуметрия, дәрі-дәрмекпен функционалдық сынау</td>
-<td>824,11</td>
+<td>D04.820.008</td>
+<td>Новокаиндік блокада</td>
+<td>648,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179934,13 +179919,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1498</td>
-<td>D99.293.012</td>
-<td>Венадан қан алу</td>
-<td>138,91</td>
-<td>2</td>
+<td>D89.370.009</td>
+<td>Пикфлоуметрия</td>
+<td>151,44</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179948,13 +179933,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1499</td>
-<td>D99.296.013</td>
-<td>Саусақтан қан алу</td>
-<td>87,97</td>
-<td>2</td>
+<td>D89.371.010</td>
+<td>Физикалық жүктемемен пикфлоуметрия</td>
+<td>189,11</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179962,13 +179947,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1500</td>
-<td>D91.911.013</td>
-<td>Микробиологиялық зерттеуге материал алу</td>
-<td>146,49</td>
+<td>D89.372.011</td>
+<td>Пикфлоуметрия, дәрі-дәрмекпен функционалдық сынау</td>
+<td>824,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179976,13 +179961,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1501</td>
-<td>D96.330.014</td>
-<td>Асқазанды жуу</td>
-<td>238,57</td>
+<td>D99.293.012</td>
+<td>Венадан қан алу</td>
+<td>138,91</td>
+<td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179990,13 +179975,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1502</td>
-<td>D96.390.015</td>
-<td>Клизма</td>
-<td>166,35</td>
+<td>D99.296.013</td>
+<td>Саусақтан қан алу</td>
+<td>87,97</td>
+<td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180004,13 +179989,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1503</td>
-<td>D45.161.016</td>
-<td>Дуоденалды зондтау</td>
-<td>1160,19</td>
+<td>D91.911.013</td>
+<td>Микробиологиялық зерттеуге материал алу</td>
+<td>146,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180018,13 +180003,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1504</td>
-<td>D45.162.017</td>
-<td>Асқазан сөлін алу</td>
-<td>1013,73</td>
+<td>D96.330.014</td>
+<td>Асқазанды жуу</td>
+<td>238,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180032,13 +180017,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1505</td>
-<td>D93.891.018</td>
-<td>Егде жастағы пациентке мейіргерлік күтім емшаралары</td>
-<td>185,16</td>
+<td>D96.390.015</td>
+<td>Клизма</td>
+<td>166,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180046,13 +180031,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1506</td>
-<td>D99.590.019</td>
-<td>Препараттың құнысыз вакцинация</td>
-<td>123,72</td>
+<td>D45.161.016</td>
+<td>Дуоденалды зондтау</td>
+<td>1160,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180060,13 +180045,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1507</td>
-<td>D89.700.020</td>
-<td>Диагностикалық пункция (беткей)</td>
-<td>531,38</td>
+<td>D45.162.017</td>
+<td>Асқазан сөлін алу</td>
+<td>1013,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180074,55 +180059,55 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1508</td>
-<td>D93.981.022</td>
-<td>Палаталарды ламинарлы ауа ағынымен қамтамасыз ету (онкогематология)</td>
-<td>7528,11</td>
+<td>D93.891.018</td>
+<td>Егде жастағы пациентке мейіргерлік күтім емшаралары</td>
+<td>185,16</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2">√</td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1509</td>
-<td>D92.060.023</td>
-<td>Сәуле алдыңғы топометриялық дайындау-центрация</td>
-<td>1710,25</td>
+<td>D99.590.019</td>
+<td>Препараттың құнысыз вакцинация</td>
+<td>123,72</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2">√</td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1510</td>
-<td>D92.320.024</td>
-<td>Қашықтықтан сәулелік терапия</td>
-<td>5472,12</td>
+<td>D89.700.020</td>
+<td>Диагностикалық пункция (беткей)</td>
+<td>531,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1511</td>
-<td>D92.320.025</td>
-<td>Қашықтықтан сәулелік терапия, РОД Гр</td>
-<td>915,96</td>
+<td>D93.981.022</td>
+<td>Палаталарды ламинарлы ауа ағынымен қамтамасыз ету (онкогематология)</td>
+<td>7528,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -180130,13 +180115,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1512</td>
-<td>D92.231.026</td>
-<td>Конформды сәулелі терапия</td>
-<td>10893,06</td>
+<td>D92.060.023</td>
+<td>Сәуле алдыңғы топометриялық дайындау-центрация</td>
+<td>1710,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -180144,13 +180129,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1513</td>
-<td>D92.241.026</td>
-<td>Әртүрлі орындағы ісіктер кезіндегі қарқынды –модульденген сәулелік терапиясы</td>
-<td>23226,02</td>
+<td>D92.320.024</td>
+<td>Қашықтықтан сәулелік терапия</td>
+<td>5472,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -180158,13 +180143,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1514</td>
-<td>D92.242.026</td>
-<td>Лимфомалар және кіші жанбас, құрсақ қуысы, висцералдық кеуде ағзаларының қатерлі ісіктерді жіті-модулирленген сәулелік терапиясы</td>
-<td>32216,83</td>
+<td>D92.320.025</td>
+<td>Қашықтықтан сәулелік терапия, РОД Гр</td>
+<td>915,96</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -180172,13 +180157,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1515</td>
-<td>D92.244.026</td>
-<td>Бас және мойын ісіктері және сут безінің обырындағы сәулелендіру кезінде түйін ішінде жітілігінің (флюенса) модуляциясымен (өзгеруімен) сәулелік терапиясы</td>
-<td>16435,67</td>
+<td>D92.231.026</td>
+<td>Конформды сәулелі терапия</td>
+<td>10893,06</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -180186,13 +180171,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1516</td>
-<td>D92.245.026</td>
-<td>Әйел жыныс мүшелерінің обырындағы жіті-модуляцияланған сәулелендіру терапиясы</td>
-<td>16281,62</td>
+<td>D92.241.026</td>
+<td>Әртүрлі орындағы ісіктер кезіндегі қарқынды –модульденген сәулелік терапиясы</td>
+<td>23226,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -180200,13 +180185,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1517</td>
-<td>D92.246.026</td>
-<td>Жеке ошақтардағы ісіктер үшін бейнелермен басқармалы сәулелік терапиясы</td>
-<td>31894,16</td>
+<td>D92.242.026</td>
+<td>Лимфомалар және кіші жанбас, құрсақ қуысы, висцералдық кеуде ағзаларының қатерлі ісіктерді жіті-модулирленген сәулелік терапиясы</td>
+<td>32216,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -180214,13 +180199,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1518</td>
-<td>D92.201.030</td>
-<td>Еркектік без обырындағы жоғары мөлшердегі брахитерапия</td>
-<td>282697,27</td>
+<td>D92.244.026</td>
+<td>Бас және мойын ісіктері және сут безінің обырындағы сәулелендіру кезінде түйін ішінде жітілігінің (флюенса) модуляциясымен (өзгеруімен) сәулелік терапиясы</td>
+<td>16435,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -180228,13 +180213,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1519</td>
-<td>D92.202.030</td>
-<td>Еркектік бездің жергілікті обыры кезіндегі интерстициальдық сәулелік терапия (жоғары мөлшердегі брахитерапия)</td>
-<td>1775563,35</td>
+<td>D92.245.026</td>
+<td>Әйел жыныс мүшелерінің обырындағы жіті-модуляцияланған сәулелендіру терапиясы</td>
+<td>16281,62</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -180242,55 +180227,55 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1520</td>
-<td>D92.320.041</td>
-<td>Акустикалық невринома кезіндегі стереотаксикалық радиотерапия (Шваннома) (1 шара)</td>
-<td>63251,90</td>
+<td>D92.246.026</td>
+<td>Жеке ошақтардағы ісіктер үшін бейнелермен басқармалы сәулелік терапиясы</td>
+<td>31894,16</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1521</td>
-<td>D92.320.042</td>
-<td>Акустикалық невринома кезіндегі стереотаксикалық радиохирургия (Шваннома)</td>
-<td>96797,84</td>
+<td>D92.201.030</td>
+<td>Еркектік без обырындағы жоғары мөлшердегі брахитерапия</td>
+<td>282697,27</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1522</td>
-<td>D92.320.043</td>
-<td>Назофарингиттік аумақ ісігі кезіндегі стереотаксикалық радиотерапия (1 шара)</td>
-<td>64352,52</td>
+<td>D92.202.030</td>
+<td>Еркектік бездің жергілікті обыры кезіндегі интерстициальдық сәулелік терапия (жоғары мөлшердегі брахитерапия)</td>
+<td>1775563,35</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1523</td>
-<td>D92.320.044</td>
-<td>Қатерлі ісік кезіндегі немесе Бас миының MTS-кезіндегі Стереотоксикалық радиотерапия (1 шара)</td>
-<td>63236,47</td>
+<td>D92.320.041</td>
+<td>Акустикалық невринома кезіндегі стереотаксикалық радиотерапия (Шваннома) (1 шара)</td>
+<td>63251,90</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180298,13 +180283,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1524</td>
-<td>D92.320.045</td>
-<td>Қатерлі ісік кезіндегі немесе Бас миының MTS-кезіндегі Стереотоксикалық радиохирургия</td>
+<td>D92.320.042</td>
+<td>Акустикалық невринома кезіндегі стереотаксикалық радиохирургия (Шваннома)</td>
 <td>96797,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180312,13 +180297,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1525</td>
-<td>D92.320.046</td>
-<td>Артериовенозды мальформация кезіндегі Стереотоксикалық радиотерапия (AVM) (1 шара)</td>
-<td>72775,24</td>
+<td>D92.320.043</td>
+<td>Назофарингиттік аумақ ісігі кезіндегі стереотаксикалық радиотерапия (1 шара)</td>
+<td>64352,52</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180326,13 +180311,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1526</td>
-<td>D92.320.047</td>
-<td>Артериовенозды мальформация кезіндегі Стереотоксикалық радиохирургия (AVM)</td>
-<td>96833,86</td>
+<td>D92.320.044</td>
+<td>Қатерлі ісік кезіндегі немесе Бас миының MTS-кезіндегі Стереотоксикалық радиотерапия (1 шара)</td>
+<td>63236,47</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180340,13 +180325,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1527</td>
-<td>D92.320.048</td>
-<td>Бауыр қатерлі ісігі немесе бауыр MTS/асқазан асты безінің қатерлі ісігі кезіндегі Стереотоксикалық радиотерапия (1 шара)</td>
-<td>70258,24</td>
+<td>D92.320.045</td>
+<td>Қатерлі ісік кезіндегі немесе Бас миының MTS-кезіндегі Стереотоксикалық радиохирургия</td>
+<td>96797,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180354,13 +180339,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1528</td>
-<td>D92.320.049</td>
-<td>Өкпе қатерлі ісігі немесе өкпе MTS немесе средостения лимфа түйіндері кезіндегі Стереотоксикалық радиотерапия (1 шара)</td>
-<td>70273,65</td>
+<td>D92.320.046</td>
+<td>Артериовенозды мальформация кезіндегі Стереотоксикалық радиотерапия (AVM) (1 шара)</td>
+<td>72775,24</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180368,13 +180353,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1529</td>
-<td>D92.062.027</td>
-<td>Радиотерапияға арналған жеке бекіткіш бетпердесін дайындау</td>
-<td>6208,73</td>
+<td>D92.320.047</td>
+<td>Артериовенозды мальформация кезіндегі Стереотоксикалық радиохирургия (AVM)</td>
+<td>96833,86</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180382,13 +180367,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1530</td>
-<td>D92.061.028</td>
-<td>Радиотерапияның жеке режімін таңдау</td>
-<td>6164,63</td>
+<td>D92.320.048</td>
+<td>Бауыр қатерлі ісігі немесе бауыр MTS/асқазан асты безінің қатерлі ісігі кезіндегі Стереотоксикалық радиотерапия (1 шара)</td>
+<td>70258,24</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180396,27 +180381,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1531</td>
-<td>D92.201.029</td>
-<td>Жолақішілік гамматерапия (жатыр мойыны және тоқ ішек обыры кезінде), РОД 5Гр</td>
-<td>6208,73</td>
+<td>D92.320.049</td>
+<td>Өкпе қатерлі ісігі немесе өкпе MTS немесе средостения лимфа түйіндері кезіндегі Стереотоксикалық радиотерапия (1 шара)</td>
+<td>70273,65</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1532</td>
-<td>D92.063.030</td>
-<td>Жеке дозиметриялық жоспарлау</td>
-<td>6251,98</td>
+<td>D92.062.027</td>
+<td>Радиотерапияға арналған жеке бекіткіш бетпердесін дайындау</td>
+<td>6208,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180424,13 +180409,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1533</td>
-<td>D86.190.031</td>
-<td>Ашық биопсия пайда болған лимфа түйіншегі</td>
-<td>1414,10</td>
+<td>D92.061.028</td>
+<td>Радиотерапияның жеке режімін таңдау</td>
+<td>6164,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180438,69 +180423,69 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1534</td>
-<td>D86.410.032</td>
-<td>Терінің/тері асты тінінің ісігін және/немесе патологиясын алып тастау</td>
-<td>1014,87</td>
+<td>D92.201.029</td>
+<td>Жолақішілік гамматерапия (жатыр мойыны және тоқ ішек обыры кезінде), РОД 5Гр</td>
+<td>6208,73</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1535</td>
-<td>D99.711.034</td>
-<td>Тығыздылығы төмен липидтерді экстракорпоралдық алып тастау</td>
-<td>324973,55</td>
+<td>D92.063.030</td>
+<td>Жеке дозиметриялық жоспарлау</td>
+<td>6251,98</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1536</td>
-<td>D50.920.035</td>
-<td>MARS - жасанды бауыр аппаратында альбуминдік диализ (экстракорпорлық бауырлық жәрдем)</td>
-<td>1490156,89</td>
+<td>D86.190.031</td>
+<td>Ашық биопсия пайда болған лимфа түйіншегі</td>
+<td>1414,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1537</td>
-<td>D99.792.036</td>
-<td>Феталдық жасушаларды және медиатрлерді дайындау, культивациялау және криоконсервілеу - 5 мөлшер</td>
-<td>278188,83</td>
+<td>D86.410.032</td>
+<td>Терінің/тері асты тінінің ісігін және/немесе патологиясын алып тастау</td>
+<td>1014,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1538</td>
-<td>D99.793.037</td>
-<td>Аутотрансплантанттау үшін сүйек кемігінің дің жасушаларын дайындау (қол әдісі)</td>
-<td>261216,56</td>
+<td>D99.711.034</td>
+<td>Тығыздылығы төмен липидтерді экстракорпоралдық алып тастау</td>
+<td>324973,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -180508,13 +180493,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1539</td>
-<td>D99.796.038</td>
-<td>Аутотрансплантанттау үшін сүйек кемігінің дің жасушаларын дайындау (автоматтандырылған әдіс)</td>
-<td>400350,90</td>
+<td>D50.920.035</td>
+<td>MARS - жасанды бауыр аппаратында альбуминдік диализ (экстракорпорлық бауырлық жәрдем)</td>
+<td>1490156,89</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -180522,13 +180507,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1540</td>
-<td>D99.974.039</td>
-<td>Аутотрансплантанттау үшін перифериялық қанның дің жасушаларын дайындау</td>
-<td>211909,18</td>
+<td>D99.792.036</td>
+<td>Феталдық жасушаларды және медиатрлерді дайындау, культивациялау және криоконсервілеу - 5 мөлшер</td>
+<td>278188,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -180536,13 +180521,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1541</td>
-<td>D99.795.040</td>
-<td>Феталды тіндік медиатрларды дайындау, культивациялау және криоконсервілеу - 10 мөлшер</td>
-<td>188644,31</td>
+<td>D99.793.037</td>
+<td>Аутотрансплантанттау үшін сүйек кемігінің дің жасушаларын дайындау (қол әдісі)</td>
+<td>261216,56</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -180550,27 +180535,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1542</td>
-<td>D88.790.001</td>
-<td>УД бақылауымен пункциялық/биопсиялық бақылау</td>
-<td>8974,50</td>
+<td>D99.796.038</td>
+<td>Аутотрансплантанттау үшін сүйек кемігінің дің жасушаларын дайындау (автоматтандырылған әдіс)</td>
+<td>400350,90</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1543</td>
-<td>D92.090.001</td>
-<td>КТ бақылауымен пункциялық/биопсиялық бақылау</td>
-<td>9747,70</td>
+<td>D99.974.039</td>
+<td>Аутотрансплантанттау үшін перифериялық қанның дің жасушаларын дайындау</td>
+<td>211909,18</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -180578,69 +180563,69 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1544</td>
-<td>D92.090.003</td>
-<td>Тонкоигольная аспирационная биопсия</td>
-<td>8526,23</td>
+<td>D99.795.040</td>
+<td>Феталды тіндік медиатрларды дайындау, культивациялау және криоконсервілеу - 10 мөлшер</td>
+<td>188644,31</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1545</td>
-<td>D92.090.002</td>
-<td>КТ бақылауымен емдік пункция</td>
-<td>9666,51</td>
+<td>D88.790.001</td>
+<td>УД бақылауымен пункциялық/биопсиялық бақылау</td>
+<td>8974,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1546</td>
-<td>D97.311.050</td>
-<td>Жіптерін шешу, лигатурды алып тастау</td>
-<td>354,34</td>
-<td>2</td>
+<td>D92.090.001</td>
+<td>КТ бақылауымен пункциялық/биопсиялық бақылау</td>
+<td>9747,70</td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1547</td>
-<td>D93.980.051</td>
-<td>Өкпе гипертензиясын емдеуде монооксидті азотты қолдану (газ қоспасының бағасын есептемегенде)</td>
-<td>172600,34</td>
+<td>D92.090.003</td>
+<td>Тонкоигольная аспирационная биопсия</td>
+<td>8526,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1548</td>
-<td>D99.712.052</td>
-<td>Грамм-теріс сепсисті емдеуде экстрокарпоральді әдіс</td>
-<td>825232,67</td>
+<td>D92.090.002</td>
+<td>КТ бақылауымен емдік пункция</td>
+<td>9666,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -180648,83 +180633,83 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1549</td>
-<td>D00.931.053</td>
-<td>Кадаврды мультиағзалық мүшелер және/немесе тіндерді алуға дайындау</td>
-<td>102787,13</td>
+<td>D97.311.050</td>
+<td>Жіптерін шешу, лигатурды алып тастау</td>
+<td>354,34</td>
+<td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2">√</td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1550</td>
-<td>DХХ.ХХХ.100</td>
-<td>Гинекологтың емшаралары мен манипуляциялары</td>
+<td>D93.980.051</td>
+<td>Өкпе гипертензиясын емдеуде монооксидті азотты қолдану (газ қоспасының бағасын есептемегенде)</td>
+<td>172600,34</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1551</td>
-<td>D69.700.101</td>
-<td>Жатырдың ішіне жүкті болып қалуға қарсы құралды енгізу</td>
-<td>594,93</td>
+<td>D99.712.052</td>
+<td>Грамм-теріс сепсисті емдеуде экстрокарпоральді әдіс</td>
+<td>825232,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
+<td colspan="2"></td>
+<td></td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1552</td>
-<td>D70.331.103</td>
-<td>Қынап жылауығын алып тастау</td>
-<td>1580,92</td>
+<td>D00.931.053</td>
+<td>Кадаврды мультиағзалық мүшелер және/немесе тіндерді алуға дайындау</td>
+<td>102787,13</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1553</td>
-<td>D91.496.105</td>
-<td>Онкоцитологияға жағындыны жинау</td>
-<td>124,21</td>
+<td>DХХ.ХХХ.100</td>
+<td>Гинекологтың емшаралары мен манипуляциялары</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1554</td>
-<td>D66.810.106</td>
-<td>Эхогидротубация</td>
-<td>1802,20</td>
+<td>D69.700.101</td>
+<td>Жатырдың ішіне жүкті болып қалуға қарсы құралды енгізу</td>
+<td>594,93</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180732,13 +180717,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1555</td>
-<td>D91.494.107</td>
-<td>Шуварский-Миллердің сынамасы</td>
-<td>512,69</td>
+<td>D70.331.103</td>
+<td>Қынап жылауығын алып тастау</td>
+<td>1580,92</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180746,13 +180731,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1556</td>
-<td>D62.111.108</td>
-<td>Аналық бездің трансабдоминалды пункциясы</td>
-<td>12286,84</td>
+<td>D91.496.105</td>
+<td>Онкоцитологияға жағындыны жинау</td>
+<td>124,21</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180760,13 +180745,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1557</td>
-<td>D62.112.109</td>
-<td>Аналық бездің трансвагиналды пункциясы</td>
-<td>17957,12</td>
+<td>D66.810.106</td>
+<td>Эхогидротубация</td>
+<td>1802,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180774,13 +180759,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1558</td>
-<td>D99.961.110</td>
-<td>Ооцит-кумулюсты кешендерді іздеу</td>
-<td>75057,60</td>
+<td>D91.494.107</td>
+<td>Шуварский-Миллердің сынамасы</td>
+<td>512,69</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180788,13 +180773,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1559</td>
-<td>D99.962.111</td>
-<td>Шәуетті тазалау: центрифугалау-флотация әдісі</td>
-<td>74821,91</td>
+<td>D62.111.108</td>
+<td>Аналық бездің трансабдоминалды пункциясы</td>
+<td>12286,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180802,13 +180787,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1560</td>
-<td>D99.963.112</td>
-<td>Шәуетті тазалау: тығыздылық градиентінде центрифугалау әдісі</td>
-<td>76207,94</td>
+<td>D62.112.109</td>
+<td>Аналық бездің трансвагиналды пункциясы</td>
+<td>17957,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180816,13 +180801,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1561</td>
-<td>D69.921.113</td>
-<td>Экстракорпоралдық ұрықтандыру: IVF классикалық әдіс</td>
-<td>4639,50</td>
+<td>D99.961.110</td>
+<td>Ооцит-кумулюсты кешендерді іздеу</td>
+<td>75057,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180830,13 +180815,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1562</td>
-<td>D69.922.114</td>
-<td>Экстракорпоралдық ұрықтандыру: ICSI ооцит цитоплазмасына аталық ұрықты инъекциялау</td>
-<td>161096,42</td>
+<td>D99.962.111</td>
+<td>Шәуетті тазалау: центрифугалау-флотация әдісі</td>
+<td>74821,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180844,13 +180829,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1563</td>
-<td>D69.923.115</td>
-<td>Эмбриондерді культивациялау</td>
-<td>91058,07</td>
+<td>D99.963.112</td>
+<td>Шәуетті тазалау: тығыздылық градиентінде центрифугалау әдісі</td>
+<td>76207,94</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180858,13 +180843,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1564</td>
-<td>D69.924.116</td>
-<td>Эмбрионды жатырдың ішіне салу</td>
-<td>103102,67</td>
+<td>D69.921.113</td>
+<td>Экстракорпоралдық ұрықтандыру: IVF классикалық әдіс</td>
+<td>4639,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180872,13 +180857,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1565</td>
-<td>D69.925.132</td>
-<td>Суперовуляцияның индукциясы</td>
-<td>232152,83</td>
+<td>D69.922.114</td>
+<td>Экстракорпоралдық ұрықтандыру: ICSI ооцит цитоплазмасына аталық ұрықты инъекциялау</td>
+<td>161096,42</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180886,13 +180871,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1566</td>
-<td>D68.120.131</td>
-<td>Гистериоскопия</td>
-<td>2245,87</td>
+<td>D69.923.115</td>
+<td>Эмбриондерді культивациялау</td>
+<td>91058,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180900,13 +180885,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1567</td>
-<td>D70.210.117</td>
-<td>Кольпоскопия</td>
-<td>667,80</td>
+<td>D69.924.116</td>
+<td>Эмбрионды жатырдың ішіне салу</td>
+<td>103102,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180914,13 +180899,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1568</td>
-<td>D99.961.118</td>
-<td>Донор шәуетінің инсеминациясы</td>
-<td>837,73</td>
+<td>D69.925.132</td>
+<td>Суперовуляцияның индукциясы</td>
+<td>232152,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180928,13 +180913,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1569</td>
-<td>D68.230.120</td>
-<td>Абляция эндометрия</td>
-<td>3930,24</td>
+<td>D68.120.131</td>
+<td>Гистериоскопия</td>
+<td>2245,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180942,13 +180927,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1570</td>
-<td>D71.310.122</td>
-<td>Сыртқы жыныс мүшелерінің және/немесе бұтаралық ісіктің болуын алып тастау</td>
-<td>1111,84</td>
+<td>D70.210.117</td>
+<td>Кольпоскопия</td>
+<td>667,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180956,13 +180941,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1571</td>
-<td>D68.211.123</td>
-<td>Жабыспаны ажырату (зондпен)</td>
-<td>922,71</td>
+<td>D99.961.118</td>
+<td>Донор шәуетінің инсеминациясы</td>
+<td>837,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180970,13 +180955,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1572</td>
-<td>D71.250.124</td>
-<td>Бартолини безінің абсцессін тілу</td>
-<td>1138,51</td>
+<td>D68.230.120</td>
+<td>Абляция эндометрия</td>
+<td>3930,24</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180984,13 +180969,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1573</td>
-<td>D67.320.125</td>
-<td>Жатыр мойнағының эрозиясын коагуляциялау</td>
-<td>768,87</td>
+<td>D71.310.122</td>
+<td>Сыртқы жыныс мүшелерінің және/немесе бұтаралық ісіктің болуын алып тастау</td>
+<td>1111,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180998,13 +180983,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1574</td>
-<td>D67.110.126</td>
-<td>Жатыр мойнының биопсиясы</td>
-<td>749,02</td>
+<td>D68.211.123</td>
+<td>Жабыспаны ажырату (зондпен)</td>
+<td>922,71</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181012,13 +180997,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1575</td>
-<td>D67.120.127</td>
-<td>Цервикальды каналдың полипын алып тастау</td>
-<td>1092,93</td>
+<td>D71.250.124</td>
+<td>Бартолини безінің абсцессін тілу</td>
+<td>1138,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181026,13 +181011,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1576</td>
-<td>D97.710.128</td>
-<td>Жатырішілік контрацептиваны шығару (ырғақпен/кюреткамен)</td>
-<td>561,70</td>
+<td>D67.320.125</td>
+<td>Жатыр мойнағының эрозиясын коагуляциялау</td>
+<td>768,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181040,13 +181025,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1577</td>
-<td>D69.090.129</td>
-<td>Жатыр қуысының диагностикалық қырнауы</td>
-<td>1705,29</td>
+<td>D67.110.126</td>
+<td>Жатыр мойнының биопсиясы</td>
+<td>749,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181054,13 +181039,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1578</td>
-<td>D69.590.130</td>
-<td>Жатыр қуысының аспирациялық кюретажы</td>
+<td>D67.120.127</td>
+<td>Цервикальды каналдың полипын алып тастау</td>
 <td>1092,93</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181068,27 +181053,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1579</td>
-<td>DХХ.ХХХ.200</td>
-<td>ЛОР емшаралары мен манипуляциялары</td>
+<td>D97.710.128</td>
+<td>Жатырішілік контрацептиваны шығару (ырғақпен/кюреткамен)</td>
+<td>561,70</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1580</td>
-<td>D22.010.201</td>
-<td>Аспирация немесе лаваж үшін мұрын қуысын тесу</td>
-<td>1101,22</td>
+<td>D69.090.129</td>
+<td>Жатыр қуысының диагностикалық қырнауы</td>
+<td>1705,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181096,13 +181081,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1581</td>
-<td>D22.020.202</td>
-<td>Табиғи тесік арқылы мұрын қуысын аспирациялау немесе лаваж</td>
-<td>418,96</td>
+<td>D69.590.130</td>
+<td>Жатыр қуысының аспирациялық кюретажы</td>
+<td>1092,93</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181110,27 +181095,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1582</td>
-<td>D20.800.203</td>
-<td>Евстахия түтікшесін манипуляциялау</td>
-<td>769,03</td>
+<td>DХХ.ХХХ.200</td>
+<td>ЛОР емшаралары мен манипуляциялары</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1583</td>
-<td>D98.120.204</td>
-<td>Мұрыннан ішкі саңылау бөгде затты алу, тілмей</td>
-<td>433,18</td>
+<td>D22.010.201</td>
+<td>Аспирация немесе лаваж үшін мұрын қуысын тесу</td>
+<td>1101,22</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181138,13 +181123,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1584</td>
-<td>D98.130.205</td>
-<td>Жұтқыншақтан ішкі саңылау бөгде затты алу, тілмей</td>
-<td>311,57</td>
+<td>D22.020.202</td>
+<td>Табиғи тесік арқылы мұрын қуысын аспирациялау немесе лаваж</td>
+<td>418,96</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181152,13 +181137,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1585</td>
-<td>D21.010.206</td>
-<td>Мұрынның алдыңғы тампонадасы</td>
-<td>437,68</td>
+<td>D20.800.203</td>
+<td>Евстахия түтікшесін манипуляциялау</td>
+<td>769,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181166,13 +181151,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1586</td>
-<td>D21.020.207</td>
-<td>Мұрынның артқы тампонадасы</td>
-<td>498,85</td>
+<td>D98.120.204</td>
+<td>Мұрыннан ішкі саңылау бөгде затты алу, тілмей</td>
+<td>433,18</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181180,13 +181165,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1587</td>
-<td>D28.000.208</td>
-<td>Перитонзиллярлы құрылымдарды кесу және дренаждау</td>
-<td>747,41</td>
+<td>D98.130.205</td>
+<td>Жұтқыншақтан ішкі саңылау бөгде затты алу, тілмей</td>
+<td>311,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181194,13 +181179,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1588</td>
-<td>D21.091.210</td>
-<td>Мұрын қуысындағы қансыраған жерді коагуляциялау (диатермикалық және лазерлік)</td>
-<td>1026,20</td>
+<td>D21.010.206</td>
+<td>Мұрынның алдыңғы тампонадасы</td>
+<td>437,68</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181208,13 +181193,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1589</td>
-<td>D21.321.211</td>
-<td>Мұрын шырышын анемизациялау</td>
-<td>489,97</td>
+<td>D21.020.207</td>
+<td>Мұрынның артқы тампонадасы</td>
+<td>498,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181222,13 +181207,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1590</td>
-<td>D20.091.212</td>
-<td>Грануляцияларды және полиптерді алып тастау (ЛОР)</td>
-<td>1043,11</td>
+<td>D28.000.208</td>
+<td>Перитонзиллярлы құрылымдарды кесу және дренаждау</td>
+<td>747,41</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181236,13 +181221,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1591</td>
-<td>D95.410.213</td>
-<td>Ойын аудиометриясы</td>
-<td>589,10</td>
+<td>D21.091.210</td>
+<td>Мұрын қуысындағы қансыраған жерді коагуляциялау (диатермикалық және лазерлік)</td>
+<td>1026,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181250,13 +181235,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1592</td>
-<td>D95.431.214</td>
-<td>Дыбыс жарғағын пневмомасаждау</td>
-<td>555,34</td>
+<td>D21.321.211</td>
+<td>Мұрын шырышын анемизациялау</td>
+<td>489,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181264,13 +181249,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1593</td>
-<td>D21.330.215</td>
-<td>Конхотомия</td>
-<td>1019,19</td>
+<td>D20.091.212</td>
+<td>Грануляцияларды және полиптерді алып тастау (ЛОР)</td>
+<td>1043,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181278,13 +181263,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1594</td>
-<td>D20.940.216</td>
-<td>Дабыл қуысын жуу</td>
-<td>340,83</td>
+<td>D95.410.213</td>
+<td>Ойын аудиометриясы</td>
+<td>589,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181292,13 +181277,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1595</td>
-<td>D20.090.217</td>
-<td>Дыбыс жарғағының парацентезі</td>
-<td>794,11</td>
+<td>D95.431.214</td>
+<td>Дыбыс жарғағын пневмомасаждау</td>
+<td>555,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181306,13 +181291,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1596</td>
-<td>D86.229.218</td>
-<td>Абсцессті/фурункуланы кесу (ЛОР)</td>
-<td>844,61</td>
+<td>D21.330.215</td>
+<td>Конхотомия</td>
+<td>1019,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181320,13 +181305,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1597</td>
-<td>D86.011.219</td>
-<td>Гематоманы кесу )ЛОР)</td>
-<td>941,86</td>
+<td>D20.940.216</td>
+<td>Дабыл қуысын жуу</td>
+<td>340,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181334,13 +181319,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1598</td>
-<td>D95.410.220</td>
-<td>Импедансометрия</td>
-<td>609,49</td>
+<td>D20.090.217</td>
+<td>Дыбыс жарғағының парацентезі</td>
+<td>794,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181348,13 +181333,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1599</td>
-<td>D95.480.221</td>
-<td>Кохлярлы имплантация жүйесінің сөйлеу процессорын сурдологпен құру</td>
-<td>376,88</td>
+<td>D86.229.218</td>
+<td>Абсцессті/фурункуланы кесу (ЛОР)</td>
+<td>844,61</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181362,13 +181347,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1600</td>
-<td>D95.470.222</td>
-<td>Шақырылған потенциалдарды қысқалетальді есіткіштерді тіркеу</td>
-<td>993,25</td>
+<td>D86.011.219</td>
+<td>Гематоманы кесу )ЛОР)</td>
+<td>941,86</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181376,13 +181361,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1601</td>
-<td>D95.470.223</td>
-<td>Отоакустикалық эмиссиямен шақырылған ұсталымдарды тіркеу</td>
-<td>147,63</td>
+<td>D95.410.220</td>
+<td>Импедансометрия</td>
+<td>609,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181390,13 +181375,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1602</td>
-<td>D95.410.224</td>
-<td>Сөйлеу аудиометриясы</td>
-<td>883,65</td>
+<td>D95.480.221</td>
+<td>Кохлярлы имплантация жүйесінің сөйлеу процессорын сурдологпен құру</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181404,13 +181389,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1603</td>
-<td>D31.010.225</td>
-<td>Жұтқыншақ ішілік құйылу</td>
-<td>141,01</td>
+<td>D95.470.222</td>
+<td>Шақырылған потенциалдарды қысқалетальді есіткіштерді тіркеу</td>
+<td>993,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181418,13 +181403,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1604</td>
-<td>D02.071.226</td>
-<td>Логопедпен сабақ</td>
-<td>376,88</td>
+<td>D95.470.223</td>
+<td>Отоакустикалық эмиссиямен шақырылған ұсталымдарды тіркеу</td>
+<td>147,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181432,13 +181417,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1605</td>
-<td>D02.071.227</td>
-<td>Сурдлогпен сабақ</td>
-<td>376,88</td>
+<td>D95.410.224</td>
+<td>Сөйлеу аудиометриясы</td>
+<td>883,65</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181446,13 +181431,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1606</td>
-<td>D02.071.228</td>
-<td>Фонопедагогпен сабақ жүргізу</td>
-<td>376,88</td>
+<td>D31.010.225</td>
+<td>Жұтқыншақ ішілік құйылу</td>
+<td>141,01</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181460,13 +181445,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1607</td>
-<td>D95.410.225</td>
-<td>Тональді табалдырықтық аудиометрия</td>
-<td>441,82</td>
+<td>D02.071.226</td>
+<td>Логопедпен сабақ</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181474,13 +181459,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1608</td>
-<td>D95.410.226</td>
-<td>Еркін дыбыс жазықтығындағы аудиометрия</td>
-<td>883,65</td>
+<td>D02.071.227</td>
+<td>Сурдлогпен сабақ</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181488,13 +181473,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1609</td>
-<td>D95.470.224</td>
-<td>Модульденген тонда шақырылған стационарлық есту потенциалдарын тіркеу</td>
-<td>993,25</td>
+<td>D02.071.228</td>
+<td>Фонопедагогпен сабақ жүргізу</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181502,13 +181487,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1610</td>
-<td>D95.470.225</td>
-<td>Бұрмаланған продукт жиілігінде отоакустикалық эмиссияны тіркеу</td>
-<td>524,50</td>
+<td>D95.410.225</td>
+<td>Тональді табалдырықтық аудиометрия</td>
+<td>441,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181516,13 +181501,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1611</td>
-<td>D95.470.226</td>
-<td>Тимпанометрия</td>
-<td>418,88</td>
+<td>D95.410.226</td>
+<td>Еркін дыбыс жазықтығындағы аудиометрия</td>
+<td>883,65</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181530,13 +181515,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1612</td>
-<td>D95.470.227</td>
-<td>Аустикалық рефлексті тіркеу</td>
-<td>418,88</td>
+<td>D95.470.224</td>
+<td>Модульденген тонда шақырылған стационарлық есту потенциалдарын тіркеу</td>
+<td>993,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181544,13 +181529,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1613</td>
-<td>D95.470.228</td>
-<td>Акустикалық рефлекс ыдырау тесті</td>
-<td>293,25</td>
+<td>D95.470.225</td>
+<td>Бұрмаланған продукт жиілігінде отоакустикалық эмиссияны тіркеу</td>
+<td>524,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181558,13 +181543,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1614</td>
-<td>D95.470.229</td>
-<td>Есту құбырының қызметінің тесті</td>
-<td>293,25</td>
+<td>D95.470.226</td>
+<td>Тимпанометрия</td>
+<td>418,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181572,13 +181557,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1615</td>
-<td>D95.470.230</td>
-<td>Промонториалды тестілеу</td>
-<td>524,50</td>
+<td>D95.470.227</td>
+<td>Аустикалық рефлексті тіркеу</td>
+<td>418,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181586,13 +181571,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1616</td>
-<td>D95.470.231</td>
-<td>Есту нервіне жауап нервінің телеметриясы</td>
-<td>376,88</td>
+<td>D95.470.228</td>
+<td>Акустикалық рефлекс ыдырау тесті</td>
+<td>293,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181600,13 +181585,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1617</td>
-<td>D95.470.232</td>
-<td>Есту имплантының электродтарының импаденсінің телеметриясы</td>
-<td>125,63</td>
+<td>D95.470.229</td>
+<td>Есту құбырының қызметінің тесті</td>
+<td>293,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181614,13 +181599,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1618</td>
-<td>D95.470.233</td>
-<td>Науқастың есту қабылетін сурдопедагогты зерттеу</td>
-<td>502,50</td>
+<td>D95.470.230</td>
+<td>Промонториалды тестілеу</td>
+<td>524,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181628,13 +181613,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1619</td>
-<td>D95.470.234</td>
-<td>Есту құралдарының құрылуын сурдопедагогпен зерттеу</td>
-<td>502,50</td>
+<td>D95.470.231</td>
+<td>Есту нервіне жауап нервінің телеметриясы</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181642,13 +181627,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1620</td>
-<td>D95.470.235</td>
-<td>Кохлеарлы имплантация жүйесінің сөйлеу процессорының құрылуын сурдопедагогпен зерттеу</td>
-<td>502,50</td>
+<td>D95.470.232</td>
+<td>Есту имплантының электродтарының импаденсінің телеметриясы</td>
+<td>125,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181656,13 +181641,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1621</td>
-<td>D95.470.236</td>
-<td>Құлақтың ортаңғы имплантация жүйесінің дыбыс процессорының құрылуын сурдопедагогпен зерттеу</td>
+<td>D95.470.233</td>
+<td>Науқастың есту қабылетін сурдопедагогты зерттеу</td>
 <td>502,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181670,13 +181655,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1622</td>
-<td>D95.470.237</td>
-<td>Сүйек өткізгіштігінің имплантация жүйесінің дыбыс процессорының құрылуын сурдопедагогпен зерттеу</td>
+<td>D95.470.234</td>
+<td>Есту құралдарының құрылуын сурдопедагогпен зерттеу</td>
 <td>502,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181684,13 +181669,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1623</td>
-<td>D95.480.222</td>
-<td>Ортаңғы құлақ имплантация жүйесінің дыбыс процессорын сурдопедагогпен құрылу</td>
-<td>376,88</td>
+<td>D95.470.235</td>
+<td>Кохлеарлы имплантация жүйесінің сөйлеу процессорының құрылуын сурдопедагогпен зерттеу</td>
+<td>502,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181698,13 +181683,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1624</td>
-<td>D95.480.223</td>
-<td>Сүйек өткізгіштігі имплантация жүйесінің дыбыс процессорын сурдопедагогпен құрылу</td>
-<td>376,88</td>
+<td>D95.470.236</td>
+<td>Құлақтың ортаңғы имплантация жүйесінің дыбыс процессорының құрылуын сурдопедагогпен зерттеу</td>
+<td>502,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181712,27 +181697,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1625</td>
-<td>DХХ.ХХХ.300</td>
-<td>Офтальмологтың емшаралары мен манипуляциялары</td>
+<td>D95.470.237</td>
+<td>Сүйек өткізгіштігінің имплантация жүйесінің дыбыс процессорының құрылуын сурдопедагогпен зерттеу</td>
+<td>502,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1626</td>
-<td>D12.230.301</td>
-<td>Гониоскопия (1 көз)</td>
-<td>669,46</td>
+<td>D95.480.222</td>
+<td>Ортаңғы құлақ имплантация жүйесінің дыбыс процессорын сурдопедагогпен құрылу</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181740,13 +181725,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1627</td>
-<td>D16.210.302</td>
-<td>Офтальмоскопия (1 көз)</td>
-<td>266,56</td>
+<td>D95.480.223</td>
+<td>Сүйек өткізгіштігі имплантация жүйесінің дыбыс процессорын сурдопедагогпен құрылу</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181754,27 +181739,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1628</td>
-<td>D95.021.303</td>
-<td>Шапыраштың объективті және субъективті бұрышын анықтау (2 көз)</td>
-<td>287,14</td>
+<td>DХХ.ХХХ.300</td>
+<td>Офтальмологтың емшаралары мен манипуляциялары</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1629</td>
-<td>D95.022.304</td>
-<td>Фузиялық резервтерді анықтау (2 көз)</td>
-<td>272,13</td>
+<td>D12.230.301</td>
+<td>Гониоскопия (1 көз)</td>
+<td>669,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181782,13 +181767,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1630</td>
-<td>D95.023.305</td>
-<td>Көру сипатын анықтау (гетерофория) (2 көз)</td>
-<td>227,72</td>
+<td>D16.210.302</td>
+<td>Офтальмоскопия (1 көз)</td>
+<td>266,56</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181796,13 +181781,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1631</td>
-<td>D95.024.306</td>
-<td>Гиршберг бойынша девиация бұрышын анықтау (1 көз)</td>
-<td>446,33</td>
+<td>D95.021.303</td>
+<td>Шапыраштың объективті және субъективті бұрышын анықтау (2 көз)</td>
+<td>287,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181810,13 +181795,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1632</td>
-<td>D95.220.307</td>
-<td>Электрофосфен (1 көз)</td>
-<td>433,49</td>
+<td>D95.022.304</td>
+<td>Фузиялық резервтерді анықтау (2 көз)</td>
+<td>272,13</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181824,13 +181809,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1633</td>
-<td>D95.020.308</td>
-<td>Көздің биомикроскопиясы (1 көз)</td>
-<td>428,36</td>
+<td>D95.023.305</td>
+<td>Көру сипатын анықтау (гетерофория) (2 көз)</td>
+<td>227,72</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181838,13 +181823,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1634</td>
-<td>D95.050.309</td>
-<td>Периметрия (1 көз)</td>
-<td>300,04</td>
+<td>D95.024.306</td>
+<td>Гиршберг бойынша девиация бұрышын анықтау (1 көз)</td>
+<td>446,33</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181852,13 +181837,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1635</td>
-<td>D12.240.310</td>
-<td>Скиаскопия (1 көз)</td>
-<td>237,77</td>
+<td>D95.220.307</td>
+<td>Электрофосфен (1 көз)</td>
+<td>433,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181866,13 +181851,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1636</td>
-<td>D96.512.311</td>
-<td>Жас қапшығын массаждау (1 көз)</td>
-<td>353,80</td>
+<td>D95.020.308</td>
+<td>Көздің биомикроскопиясы (1 көз)</td>
+<td>428,36</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181880,13 +181865,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1637</td>
-<td>D96.511.312</td>
-<td>Жас жолдарын жуу (1 көз)</td>
-<td>441,82</td>
+<td>D95.050.309</td>
+<td>Периметрия (1 көз)</td>
+<td>300,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181894,13 +181879,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1638</td>
-<td>D97.311.314</td>
-<td>Жіпті алу (окулист) (1 көз)</td>
-<td>196,50</td>
+<td>D12.240.310</td>
+<td>Скиаскопия (1 көз)</td>
+<td>237,77</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181908,13 +181893,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1639</td>
-<td>D95.210.315</td>
-<td>Электроретинография (1 көз)</td>
-<td>579,87</td>
+<td>D96.512.311</td>
+<td>Жас қапшығын массаждау (1 көз)</td>
+<td>353,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181922,13 +181907,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1640</td>
-<td>D95.031.316</td>
-<td>Мөлдірқабық үстінің ақауларын анықтау (1 көз)</td>
-<td>485,32</td>
+<td>D96.511.312</td>
+<td>Жас жолдарын жуу (1 көз)</td>
+<td>441,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181936,13 +181921,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1641</td>
-<td>D95.028.317</td>
-<td>Интраокулярлы линза (ИОЛ) көлемін есептеу (1 көз)</td>
-<td>642,27</td>
+<td>D97.311.314</td>
+<td>Жіпті алу (окулист) (1 көз)</td>
+<td>196,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181950,13 +181935,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1642</td>
-<td>D95.280.318</td>
-<td>Жылтыңдаудың қосылу критикалық жиілігін зерттеу (1 көз)</td>
-<td>456,78</td>
+<td>D95.210.315</td>
+<td>Электроретинография (1 көз)</td>
+<td>579,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181964,13 +181949,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1643</td>
-<td>D95.270.319</td>
-<td>Ширмер тесті (1 көз)</td>
-<td>371,64</td>
+<td>D95.031.316</td>
+<td>Мөлдірқабық үстінің ақауларын анықтау (1 көз)</td>
+<td>485,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181978,13 +181963,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1644</td>
-<td>D95.251.320</td>
-<td>Туындаған көру потенциалдарды тіркеу (1 көз)</td>
-<td>1170,76</td>
+<td>D95.028.317</td>
+<td>Интраокулярлы линза (ИОЛ) көлемін есептеу (1 көз)</td>
+<td>642,27</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181992,13 +181977,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1645</td>
-<td>D95.025.321</td>
-<td>Мөлдірқабықтың диаметрін өлшеу (1 көз)</td>
-<td>256,82</td>
+<td>D95.280.318</td>
+<td>Жылтыңдаудың қосылу критикалық жиілігін зерттеу (1 көз)</td>
+<td>456,78</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182006,13 +181991,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1646</td>
-<td>D95.026.322</td>
-<td>Коордиметрия (2 көз)</td>
-<td>530,89</td>
+<td>D95.270.319</td>
+<td>Ширмер тесті (1 көз)</td>
+<td>371,64</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182020,13 +182005,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1647</td>
-<td>D16.211.323</td>
-<td>Циклоскопия (1 көз)</td>
-<td>580,87</td>
+<td>D95.251.320</td>
+<td>Туындаған көру потенциалдарды тіркеу (1 көз)</td>
+<td>1170,76</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182034,13 +182019,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1648</td>
-<td>D95.027.324</td>
-<td>Авторефрактометрия (1 көз)</td>
-<td>182,00</td>
+<td>D95.025.321</td>
+<td>Мөлдірқабықтың диаметрін өлшеу (1 көз)</td>
+<td>256,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182048,13 +182033,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1649</td>
-<td>D12.871.325</td>
-<td>Склеропластикаға арналған қатты ми қабығынан жасалған имплантантты дайындау (1 көз)</td>
-<td>1155,05</td>
+<td>D95.026.322</td>
+<td>Коордиметрия (2 көз)</td>
+<td>530,89</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182062,13 +182047,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1650</td>
-<td>D95.131.326</td>
-<td>Кератометрия (1 көз)</td>
-<td>548,10</td>
+<td>D16.211.323</td>
+<td>Циклоскопия (1 көз)</td>
+<td>580,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182076,13 +182061,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1651</td>
-<td>D95.132.326</td>
-<td>Пахиметрия (1 көз)</td>
-<td>830,46</td>
+<td>D95.027.324</td>
+<td>Авторефрактометрия (1 көз)</td>
+<td>182,00</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182090,13 +182075,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1652</td>
-<td>D95.170.327</td>
-<td>Кератотопография (1 көз)</td>
-<td>778,01</td>
+<td>D12.871.325</td>
+<td>Склеропластикаға арналған қатты ми қабығынан жасалған имплантантты дайындау (1 көз)</td>
+<td>1155,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182104,13 +182089,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1653</td>
-<td>D16.410.328</td>
-<td>Көз протезін дайындау (шыны) (1 көз)</td>
-<td>10921,36</td>
+<td>D95.131.326</td>
+<td>Кератометрия (1 көз)</td>
+<td>548,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182118,13 +182103,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1654</td>
-<td>D95.010.329</td>
-<td>Көзілдірікті таңдау: күрделі түзету (2 көз)</td>
-<td>510,10</td>
+<td>D95.132.326</td>
+<td>Пахиметрия (1 көз)</td>
+<td>830,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182132,13 +182117,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1655</td>
-<td>D95.029.330</td>
-<td>Ультрадыбыстық биомикроскопия (UBM) (1 көз)</td>
-<td>824,99</td>
+<td>D95.170.327</td>
+<td>Кератотопография (1 көз)</td>
+<td>778,01</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182146,13 +182131,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1656</td>
-<td>D89.111.331</td>
-<td>Маклаков бойынша көзішілік жанасқан қысымды өлшеу (1 көз)</td>
-<td>517,17</td>
+<td>D16.410.328</td>
+<td>Көз протезін дайындау (шыны) (1 көз)</td>
+<td>10921,36</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182160,13 +182145,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1657</td>
-<td>D95.132.332</td>
-<td>Эндотелиалдық зерттеу (1 көз)</td>
-<td>345,48</td>
+<td>D95.010.329</td>
+<td>Көзілдірікті таңдау: күрделі түзету (2 көз)</td>
+<td>510,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182174,13 +182159,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1658</td>
-<td>D89.110.333</td>
-<td>Электрондық тонография (1 көз)</td>
-<td>167,55</td>
+<td>D95.029.330</td>
+<td>Ультрадыбыстық биомикроскопия (UBM) (1 көз)</td>
+<td>824,99</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182188,13 +182173,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1659</td>
-<td>D95.133.334</td>
-<td>Допплерографиялық зерттеу (1 көз)</td>
-<td>1048,59</td>
+<td>D89.111.331</td>
+<td>Маклаков бойынша көзішілік жанасқан қысымды өлшеу (1 көз)</td>
+<td>517,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182202,13 +182187,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1660</td>
-<td>D95.110.336</td>
-<td>Көздің түбін фотоға түсіру (1 көз)</td>
-<td>1546,40</td>
+<td>D95.132.332</td>
+<td>Эндотелиалдық зерттеу (1 көз)</td>
+<td>345,48</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182216,13 +182201,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1661</td>
-<td>D95.261.337</td>
-<td>Реоофтальмография (2 көз)</td>
-<td>1033,69</td>
+<td>D89.110.333</td>
+<td>Электрондық тонография (1 көз)</td>
+<td>167,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182230,13 +182215,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1662</td>
-<td>D89.113.338</td>
-<td>Көзішілік қысымды өлшеу жанаспаған (1 көз)</td>
-<td>281,80</td>
+<td>D95.133.334</td>
+<td>Допплерографиялық зерттеу (1 көз)</td>
+<td>1048,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182244,13 +182229,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1663</td>
-<td>D89.114.339</td>
-<td>Тәуліктік тонометрия (жанаспаған) (1 көз)</td>
-<td>152,79</td>
+<td>D95.110.336</td>
+<td>Көздің түбін фотоға түсіру (1 көз)</td>
+<td>1546,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182258,13 +182243,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1664</td>
-<td>D95.252.340</td>
-<td>Оптикалық когеренттік томограф (1 көз)</td>
-<td>806,15</td>
+<td>D95.261.337</td>
+<td>Реоофтальмография (2 көз)</td>
+<td>1033,69</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182272,13 +182257,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1665</td>
-<td>D95.253.341</td>
-<td>Торқабықты инфрақызыл сканерлеу (HRT) (1 көз)</td>
-<td>750,36</td>
+<td>D89.113.338</td>
+<td>Көзішілік қысымды өлшеу жанаспаған (1 көз)</td>
+<td>281,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182286,13 +182271,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1666</td>
-<td>D95.134.342</td>
-<td>Аберрометрия (1 көз)</td>
-<td>747,54</td>
+<td>D89.114.339</td>
+<td>Тәуліктік тонометрия (жанаспаған) (1 көз)</td>
+<td>152,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182300,13 +182285,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1667</td>
-<td>D95.221.343</td>
-<td>2 көздің паттернге болжамды көруі</td>
-<td>533,11</td>
+<td>D95.252.340</td>
+<td>Оптикалық когеренттік томограф (1 көз)</td>
+<td>806,15</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182314,13 +182299,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1668</td>
-<td>D93.761.344</td>
-<td>Дашевский бойынша оқу (2 көз)</td>
-<td>422,72</td>
+<td>D95.253.341</td>
+<td>Торқабықты инфрақызыл сканерлеу (HRT) (1 көз)</td>
+<td>750,36</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182328,13 +182313,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1669</td>
-<td>D93.762.345</td>
-<td>Аветисов-Мац бойынша оқу (2 көз)</td>
-<td>451,28</td>
+<td>D95.134.342</td>
+<td>Аберрометрия (1 көз)</td>
+<td>747,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182342,13 +182327,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1670</td>
-<td>D93.763.346</td>
-<td>Мускултренерде жаттығу (2 көз)</td>
-<td>258,87</td>
+<td>D95.221.343</td>
+<td>2 көздің паттернге болжамды көруі</td>
+<td>533,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182356,13 +182341,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1671</td>
-<td>D93.764.347</td>
-<td>Диплоптика (2 көз)</td>
-<td>258,87</td>
+<td>D93.761.344</td>
+<td>Дашевский бойынша оқу (2 көз)</td>
+<td>422,72</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182370,13 +182355,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1672</td>
-<td>D93.768.348</td>
-<td>Жүйелік нұсқаны жаттығу (1 көз)</td>
-<td>258,87</td>
+<td>D93.762.345</td>
+<td>Аветисов-Мац бойынша оқу (2 көз)</td>
+<td>451,28</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182384,13 +182369,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1673</td>
-<td>D93.765.349</td>
-<td>Аккомодоконвергенцтренерде жаттығу (2 көз)</td>
-<td>299,65</td>
+<td>D93.763.346</td>
+<td>Мускултренерде жаттығу (2 көз)</td>
+<td>258,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182398,13 +182383,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1674</td>
-<td>D10.562.350</td>
-<td>Жеке пластмасса протезін дайындау (1 көз)</td>
-<td>5938,50</td>
+<td>D93.764.347</td>
+<td>Диплоптика (2 көз)</td>
+<td>258,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182412,13 +182397,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1675</td>
-<td>D95.111.351</td>
-<td>Фотокератография (1 көз)</td>
-<td>1617,62</td>
+<td>D93.768.348</td>
+<td>Жүйелік нұсқаны жаттығу (1 көз)</td>
+<td>258,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182426,13 +182411,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1676</td>
-<td>D95.311.353</td>
-<td>Салыстырмалы аккомодация резервілерін анықтау (1 көз)</td>
-<td>274,18</td>
+<td>D93.765.349</td>
+<td>Аккомодоконвергенцтренерде жаттығу (2 көз)</td>
+<td>299,65</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182440,13 +182425,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1677</td>
-<td>D12.870.354</td>
-<td>Oculis (окулис) кератопластика және склеропластика үшін имплантатты дайындау (1 көз)</td>
-<td>5171,38</td>
+<td>D10.562.350</td>
+<td>Жеке пластмасса протезін дайындау (1 көз)</td>
+<td>5938,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182454,13 +182439,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1678</td>
-<td>D12.873.356</td>
-<td>Tes энуклеация үшін имплантатты дайындау (1 көз)</td>
-<td>1246,85</td>
+<td>D95.111.351</td>
+<td>Фотокератография (1 көз)</td>
+<td>1617,62</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182468,13 +182453,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1679</td>
-<td>D12.874.357</td>
-<td>Өкше майының жасушасы (ӨМЖ) -нанэнуклеация үшін имплантатты дайындау (1 көз)</td>
-<td>1292,12</td>
+<td>D95.311.353</td>
+<td>Салыстырмалы аккомодация резервілерін анықтау (1 көз)</td>
+<td>274,18</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182482,13 +182467,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1680</td>
-<td>D12.875.358</td>
-<td>Птеригиум үшін имплантатты дайындау (1 көз)</td>
-<td>13496,43</td>
+<td>D12.870.354</td>
+<td>Oculis (окулис) кератопластика және склеропластика үшін имплантатты дайындау (1 көз)</td>
+<td>5171,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182496,13 +182481,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1681</td>
-<td>D12.876.359</td>
-<td>Склеропластика үшін КМ ossis caput имплантатты дайындау (1 көз)</td>
-<td>13957,43</td>
+<td>D12.873.356</td>
+<td>Tes энуклеация үшін имплантатты дайындау (1 көз)</td>
+<td>1246,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182510,13 +182495,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1682</td>
-<td>D12.877.360</td>
-<td>Os caput имплантатты дайындау (1 көз)</td>
-<td>1636,23</td>
+<td>D12.874.357</td>
+<td>Өкше майының жасушасы (ӨМЖ) -нанэнуклеация үшін имплантатты дайындау (1 көз)</td>
+<td>1292,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182524,13 +182509,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1683</td>
-<td>D12.878.361</td>
-<td>Түтікше сүйектерден имплантатты дайындау (1 көз)</td>
-<td>1617,43</td>
+<td>D12.875.358</td>
+<td>Птеригиум үшін имплантатты дайындау (1 көз)</td>
+<td>13496,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182538,13 +182523,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1684</td>
-<td>D12.879.362</td>
-<td>Жамбас сүйегінен имплантатты дайындау (1 көз)</td>
-<td>1617,43</td>
+<td>D12.876.359</td>
+<td>Склеропластика үшін КМ ossis caput имплантатты дайындау (1 көз)</td>
+<td>13957,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182552,13 +182537,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1685</td>
-<td>D12.880.363</td>
-<td>Patella (пателла) имплантатты дайындау (1 көз)</td>
-<td>1617,43</td>
+<td>D12.877.360</td>
+<td>Os caput имплантатты дайындау (1 көз)</td>
+<td>1636,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182566,13 +182551,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1686</td>
-<td>D12.881.364</td>
-<td>Қабырғадан имплантатты дайындау (os coste (ос косте) (1 көз)</td>
-<td>1592,95</td>
+<td>D12.878.361</td>
+<td>Түтікше сүйектерден имплантатты дайындау (1 көз)</td>
+<td>1617,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182580,13 +182565,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1687</td>
-<td>D12.882.365</td>
-<td>Амниотикалық қабықшадан имплантатты дайындау (1 көз)</td>
-<td>1592,95</td>
+<td>D12.879.362</td>
+<td>Жамбас сүйегінен имплантатты дайындау (1 көз)</td>
+<td>1617,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182594,13 +182579,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1688</td>
-<td>D12.883.366</td>
-<td>Шеміршектен имплантантты дайындау (1 көз)</td>
+<td>D12.880.363</td>
+<td>Patella (пателла) имплантатты дайындау (1 көз)</td>
 <td>1617,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182608,13 +182593,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1689</td>
-<td>D98.210.367</td>
-<td>Көздің үстіндегі бөгде затты алып тастау, тілмей (1 көз)</td>
-<td>453,09</td>
+<td>D12.881.364</td>
+<td>Қабырғадан имплантатты дайындау (os coste (ос косте) (1 көз)</td>
+<td>1592,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182622,13 +182607,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1690</td>
-<td>D09.420.368</td>
-<td>Көз жасы арналарынан сынақ жасау (1 көз)</td>
-<td>476,06</td>
+<td>D12.882.365</td>
+<td>Амниотикалық қабықшадан имплантатты дайындау (1 көз)</td>
+<td>1592,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182636,13 +182621,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1691</td>
-<td>D95.260.369</td>
-<td>Глаукома кезіндегі жүктеу және салмақты азайту сынақтары (1 көз)</td>
-<td>2596,07</td>
+<td>D12.883.366</td>
+<td>Шеміршектен имплантантты дайындау (1 көз)</td>
+<td>1617,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182650,13 +182635,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1692</td>
-<td>D95.070.370</td>
-<td>Қараңғыға бейімделуді зерттеу (1 көз)</td>
-<td>216,44</td>
+<td>D98.210.367</td>
+<td>Көздің үстіндегі бөгде затты алып тастау, тілмей (1 көз)</td>
+<td>453,09</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182664,13 +182649,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1693</td>
-<td>D95.060.371</td>
-<td>Хроматикалық көруді зерттеу (1 көз)</td>
-<td>183,86</td>
+<td>D09.420.368</td>
+<td>Көз жасы арналарынан сынақ жасау (1 көз)</td>
+<td>476,06</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182678,13 +182663,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1694</td>
-<td>D95.120.372</td>
-<td>Көзді флуоресцентты ангиографиялау немесе ангиоскопиялау (1 көз)</td>
-<td>3148,61</td>
+<td>D95.260.369</td>
+<td>Глаукома кезіндегі жүктеу және салмақты азайту сынақтары (1 көз)</td>
+<td>2596,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182692,13 +182677,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1695</td>
-<td>D11.390.377</td>
-<td>Птеригиумды кесу (1 көз)</td>
-<td>3196,47</td>
+<td>D95.070.370</td>
+<td>Қараңғыға бейімделуді зерттеу (1 көз)</td>
+<td>216,44</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182706,13 +182691,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1696</td>
-<td>D12.790.382</td>
-<td>Лазерлік гониопластика (1 көз)</td>
-<td>2969,14</td>
+<td>D95.060.371</td>
+<td>Хроматикалық көруді зерттеу (1 көз)</td>
+<td>183,86</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182720,13 +182705,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1697</td>
-<td>D14.240.383</td>
-<td>Сетчатканың лазерлік коагуляциясы (1 көз)</td>
-<td>2041,40</td>
+<td>D95.120.372</td>
+<td>Көзді флуоресцентты ангиографиялау немесе ангиоскопиялау (1 көз)</td>
+<td>3148,61</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182734,13 +182719,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1698</td>
-<td>D12.591.384</td>
-<td>Лазерлік трабекулопластика (1 көз)</td>
-<td>3520,99</td>
+<td>D11.390.377</td>
+<td>Птеригиумды кесу (1 көз)</td>
+<td>3196,47</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182748,27 +182733,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1699</td>
-<td>DХХ.ХХХ.400</td>
-<td>Хирургтың емшаралары мен манипуляциялары</td>
+<td>D12.790.382</td>
+<td>Лазерлік гониопластика (1 көз)</td>
+<td>2969,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1700</td>
-<td>D86.011.401</td>
-<td>Гематоманы кесу</td>
-<td>1346,24</td>
+<td>D14.240.383</td>
+<td>Сетчатканың лазерлік коагуляциясы (1 көз)</td>
+<td>2041,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182776,13 +182761,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1701</td>
-<td>D86.223.402</td>
-<td>Гигроманы, ганглияны алып тастау</td>
-<td>1885,98</td>
+<td>D12.591.384</td>
+<td>Лазерлік трабекулопластика (1 көз)</td>
+<td>3520,99</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182790,27 +182775,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1702</td>
-<td>D86.224.403</td>
-<td>Гидроаденитті кесу</td>
-<td>1125,82</td>
+<td>DХХ.ХХХ.400</td>
+<td>Хирургтың емшаралары мен манипуляциялары</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1703</td>
-<td>D86.225.404</td>
-<td>Көршиқанды кесу</td>
-<td>1401,55</td>
+<td>D86.011.401</td>
+<td>Гематоманы кесу</td>
+<td>1346,24</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182818,13 +182803,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1704</td>
-<td>D86.226.405</td>
-<td>Липоманы алып тастау</td>
-<td>362,91</td>
+<td>D86.223.402</td>
+<td>Гигроманы, ганглияны алып тастау</td>
+<td>1885,98</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182832,13 +182817,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1705</td>
-<td>D86.227.406</td>
-<td>Іріңдеген қажалуды кесу</td>
-<td>1120,11</td>
+<td>D86.224.403</td>
+<td>Гидроаденитті кесу</td>
+<td>1125,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182846,13 +182831,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1706</td>
-<td>D86.271.407</td>
-<td>Тырнақ пластинкасын алып тастау/түзету</td>
-<td>758,86</td>
+<td>D86.225.404</td>
+<td>Көршиқанды кесу</td>
+<td>1401,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182860,13 +182845,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1707</td>
-<td>D86.272.408</td>
-<td>Панарицияны кесу</td>
-<td>541,56</td>
+<td>D86.226.405</td>
+<td>Липоманы алып тастау</td>
+<td>362,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182874,13 +182859,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1708</td>
-<td>D86.273.409</td>
-<td>Паронихияны кесу</td>
-<td>701,22</td>
+<td>D86.227.406</td>
+<td>Іріңдеген қажалуды кесу</td>
+<td>1120,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182888,13 +182873,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1709</td>
-<td>D48.811.410</td>
-<td>Парапроктитаны кесу</td>
-<td>1220,64</td>
+<td>D86.271.407</td>
+<td>Тырнақ пластинкасын алып тастау/түзету</td>
+<td>758,86</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182902,13 +182887,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1710</td>
-<td>D86.051.411</td>
-<td>Лигатурлы жыланкөзді кесу</td>
-<td>654,60</td>
+<td>D86.272.408</td>
+<td>Панарицияны кесу</td>
+<td>541,56</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182916,13 +182901,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1711</td>
-<td>D81.910.412</td>
-<td>Буын пункциясы</td>
-<td>1355,28</td>
+<td>D86.273.409</td>
+<td>Паронихияны кесу</td>
+<td>701,22</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182930,13 +182915,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1712</td>
-<td>D86.228.413</td>
-<td>Флегмоны кесу</td>
-<td>1537,52</td>
+<td>D48.811.410</td>
+<td>Парапроктитаны кесу</td>
+<td>1220,64</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182944,13 +182929,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1713</td>
-<td>D86.229.414</td>
-<td>Сыздауықты кесу</td>
-<td>553,88</td>
+<td>D86.051.411</td>
+<td>Лигатурлы жыланкөзді кесу</td>
+<td>654,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182958,13 +182943,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1714</td>
-<td>D93.571.415</td>
-<td>Таңу</td>
-<td>382,40</td>
+<td>D81.910.412</td>
+<td>Буын пункциясы</td>
+<td>1355,28</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182972,13 +182957,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1715</td>
-<td>D48.350.431</td>
-<td>Аналь тесігі полипын кесу</td>
-<td>2756,35</td>
+<td>D86.228.413</td>
+<td>Флегмоны кесу</td>
+<td>1537,52</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182986,13 +182971,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1716</td>
-<td>D96.231.417</td>
-<td>Артқы жолды сүмбілеу</td>
-<td>724,06</td>
+<td>D86.229.414</td>
+<td>Сыздауықты кесу</td>
+<td>553,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183000,13 +182985,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1717</td>
-<td>D96.232.418</td>
-<td>Анус девульсиясымен жарықтардың склеротерапиясы (1 сеанс)</td>
-<td>2011,19</td>
+<td>D93.571.415</td>
+<td>Таңу</td>
+<td>382,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183014,13 +182999,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1718</td>
-<td>D49.040.432</td>
-<td>Аналь тесігінің жарылуын емдеу</td>
-<td>1972,11</td>
+<td>D48.350.431</td>
+<td>Аналь тесігі полипын кесу</td>
+<td>2756,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183028,13 +183013,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1719</td>
-<td>D86.210.433</td>
-<td>Эпителиальді құйымшақ жолының емделуі</td>
-<td>4524,84</td>
+<td>D96.231.417</td>
+<td>Артқы жолды сүмбілеу</td>
+<td>724,06</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183042,13 +183027,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1720</td>
-<td>D00.401.419</td>
-<td>Эндовазалық коагуляция</td>
-<td>48255,34</td>
+<td>D96.232.418</td>
+<td>Анус девульсиясымен жарықтардың склеротерапиясы (1 сеанс)</td>
+<td>2011,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183056,13 +183041,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1721</td>
-<td>D86.310.420</td>
-<td>Патологияны және/немесе тері және тері астылық ісікті лазерлі коагуляциялау</td>
-<td>915,85</td>
+<td>D49.040.432</td>
+<td>Аналь тесігінің жарылуын емдеу</td>
+<td>1972,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183070,13 +183055,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1722</td>
-<td>D86.310.421</td>
-<td>Тері патологиясы мен ісіктердің диатермокоагуляциясы</td>
-<td>867,65</td>
+<td>D86.210.433</td>
+<td>Эпителиальді құйымшақ жолының емделуі</td>
+<td>4524,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183084,13 +183069,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1723</td>
-<td>D54.960.421</td>
-<td>Жасанды пнемоперитонеумді қою</td>
-<td>2255,80</td>
+<td>D00.401.419</td>
+<td>Эндовазалық коагуляция</td>
+<td>48255,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183098,13 +183083,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1724</td>
-<td>D33.321.422</td>
-<td>Жасанды пневмотораксты қою</td>
-<td>1688,65</td>
+<td>D86.310.420</td>
+<td>Патологияны және/немесе тері және тері астылық ісікті лазерлі коагуляциялау</td>
+<td>915,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183112,13 +183097,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1725</td>
-<td>D03.310.423</td>
-<td>Жұлын-ми пункциясын жасау</td>
-<td>1685,96</td>
+<td>D86.310.421</td>
+<td>Тері патологиясы мен ісіктердің диатермокоагуляциясы</td>
+<td>867,65</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183126,13 +183111,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1726</td>
-<td>D38.911.424</td>
-<td>Бұғана астыңғы катетерлеу</td>
-<td>2461,17</td>
+<td>D54.960.421</td>
+<td>Жасанды пнемоперитонеумді қою</td>
+<td>2255,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183140,13 +183125,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1727</td>
-<td>D41.311.425</td>
-<td>Стерналдық пункция</td>
-<td>3404,12</td>
+<td>D33.321.422</td>
+<td>Жасанды пневмотораксты қою</td>
+<td>1688,65</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183154,13 +183139,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1728</td>
-<td>D54.910.426</td>
-<td>Лапароцентез</td>
-<td>446,32</td>
+<td>D03.310.423</td>
+<td>Жұлын-ми пункциясын жасау</td>
+<td>1685,96</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183168,13 +183153,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1729</td>
-<td>D41.312.427</td>
-<td>Трепанобиопсия</td>
-<td>8644,38</td>
+<td>D38.911.424</td>
+<td>Бұғана астыңғы катетерлеу</td>
+<td>2461,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183182,13 +183167,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1730</td>
-<td>D86.041.428</td>
-<td>Атеромэктомия/эктомия</td>
-<td>1308,90</td>
+<td>D41.311.425</td>
+<td>Стерналдық пункция</td>
+<td>3404,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183196,13 +183181,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1731</td>
-<td>D39.700.429</td>
-<td>Рентгеноэндоваскулярлық склеротерапия</td>
-<td>89674,96</td>
+<td>D54.910.426</td>
+<td>Лапароцентез</td>
+<td>446,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183210,13 +183195,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1732</td>
-<td>D39.701.430</td>
-<td>Рентгеноэндоваскулярлық эмболизация (+ электрокоагуляция)</td>
-<td>88775,10</td>
+<td>D41.312.427</td>
+<td>Трепанобиопсия</td>
+<td>8644,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183224,13 +183209,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1733</td>
-<td>D86.110.435</td>
-<td>Тері және/ немесе теріасты клетчатксының биопсиясы</td>
-<td>968,13</td>
+<td>D86.041.428</td>
+<td>Атеромэктомия/эктомия</td>
+<td>1308,90</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183238,13 +183223,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1734</td>
-<td>D86.111.435</td>
-<td>Тері- бұлшықет лоскутының биопсиясы</td>
-<td>1586,62</td>
+<td>D39.700.429</td>
+<td>Рентгеноэндоваскулярлық склеротерапия</td>
+<td>89674,96</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183252,13 +183237,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1735</td>
-<td>D86.220.436</td>
-<td>Жараны/ күйікті хирургиялық өңдеу</td>
-<td>1279,55</td>
+<td>D39.701.430</td>
+<td>Рентгеноэндоваскулярлық эмболизация (+ электрокоагуляция)</td>
+<td>88775,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183266,27 +183251,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1736</td>
-<td>DХХ.ХХХ.500</td>
-<td>Травматологтың емшаралары мен манипуляциялары</td>
+<td>D86.110.435</td>
+<td>Тері және/ немесе теріасты клетчатксының биопсиясы</td>
+<td>968,13</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1737</td>
-<td>D79.700.501</td>
-<td>Шығып кеткен буынның жабық редукциясы, орналасқан жері анықталмаған</td>
-<td>953,03</td>
+<td>D86.111.435</td>
+<td>Тері- бұлшықет лоскутының биопсиясы</td>
+<td>1586,62</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183294,13 +183279,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1738</td>
-<td>D93.541.502</td>
-<td>Гипс таңуын салу</td>
-<td>1015,18</td>
+<td>D86.220.436</td>
+<td>Жараны/ күйікті хирургиялық өңдеу</td>
+<td>1279,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183308,27 +183293,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1739</td>
-<td>D97.881.503</td>
-<td>Гипс таңуын алу</td>
-<td>265,38</td>
+<td>DХХ.ХХХ.500</td>
+<td>Травматологтың емшаралары мен манипуляциялары</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1740</td>
-<td>D93.530.504</td>
-<td>Басқа иммобилизациялық аппараттарды қолдану</td>
-<td>4254,03</td>
+<td>D79.700.501</td>
+<td>Шығып кеткен буынның жабық редукциясы, орналасқан жері анықталмаған</td>
+<td>953,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183336,13 +183321,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1741</td>
-<td>D83.960.505</td>
-<td>Дәрілік заттарды буынішілік енгізу</td>
-<td>1588,84</td>
+<td>D93.541.502</td>
+<td>Гипс таңуын салу</td>
+<td>1015,18</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183350,13 +183335,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1742</td>
-<td>D79.790.506</td>
-<td>Сүйек сынықтарының жабық репозициясы</td>
-<td>1052,72</td>
+<td>D97.881.503</td>
+<td>Гипс таңуын алу</td>
+<td>265,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183364,27 +183349,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1743</td>
-<td>DХХ.ХХХ.600</td>
-<td>Урологтың емшаралары мен манипуляциялары</td>
+<td>D93.530.504</td>
+<td>Басқа иммобилизациялық аппараттарды қолдану</td>
+<td>4254,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1744</td>
-<td>D96.491.601</td>
-<td>Қуықты жуу</td>
-<td>463,10</td>
+<td>D83.960.505</td>
+<td>Дәрілік заттарды буынішілік енгізу</td>
+<td>1588,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183392,13 +183377,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1745</td>
-<td>D99.941.602</td>
-<td>Еркекбез сөлін алу</td>
-<td>362,21</td>
+<td>D79.790.506</td>
+<td>Сүйек сынықтарының жабық репозициясы</td>
+<td>1052,72</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183406,27 +183391,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1746</td>
-<td>D99.940.603</td>
-<td>Еркекбез массажы</td>
-<td>528,93</td>
+<td>DХХ.ХХХ.600</td>
+<td>Урологтың емшаралары мен манипуляциялары</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1747</td>
-<td>D57.321.604</td>
-<td>Хромоцистоскопия</td>
-<td>1314,14</td>
+<td>D96.491.601</td>
+<td>Қуықты жуу</td>
+<td>463,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183434,13 +183419,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1748</td>
-<td>D89.240.605</td>
-<td>Урофлоуметрия</td>
-<td>532,41</td>
+<td>D99.941.602</td>
+<td>Еркекбез сөлін алу</td>
+<td>362,21</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183448,13 +183433,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1749</td>
-<td>D96.492.606</td>
-<td>Уретраны инстилляциялау</td>
-<td>259,32</td>
+<td>D99.940.603</td>
+<td>Еркекбез массажы</td>
+<td>528,93</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183462,13 +183447,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1750</td>
-<td>D64.010.607</td>
-<td>Парафимозды салу</td>
-<td>589,44</td>
+<td>D57.321.604</td>
+<td>Хромоцистоскопия</td>
+<td>1314,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183476,13 +183461,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1751</td>
-<td>D64.991.608</td>
-<td>Жыныстық мүше жүгеншінің пластикасы</td>
-<td>935,52</td>
+<td>D89.240.605</td>
+<td>Урофлоуметрия</td>
+<td>532,41</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183490,13 +183475,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1752</td>
-<td>D64.992.609</td>
-<td>Олеогранулеманы кесу</td>
-<td>2564,57</td>
+<td>D96.492.606</td>
+<td>Уретраны инстилляциялау</td>
+<td>259,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183504,13 +183489,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1753</td>
-<td>D89.220.610</td>
-<td>Ретроградты цистометрия</td>
-<td>1938,87</td>
+<td>D64.010.607</td>
+<td>Парафимозды салу</td>
+<td>589,44</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183518,13 +183503,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1754</td>
-<td>D89.220.612</td>
-<td>Кешендік уродинамикалық зерттеу (КУДЗ)</td>
-<td>4075,31</td>
+<td>D64.991.608</td>
+<td>Жыныстық мүше жүгеншінің пластикасы</td>
+<td>935,52</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183532,13 +183517,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1755</td>
-<td>D63.100.613</td>
-<td>Иваниссевич отасы</td>
-<td>4920,26</td>
+<td>D64.992.609</td>
+<td>Олеогранулеманы кесу</td>
+<td>2564,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183546,13 +183531,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1756</td>
-<td>D63.101.614</td>
-<td>Мармар отасы (Субинвинальды микрохирургиялық варикоцелэктомия)</td>
-<td>4920,26</td>
+<td>D89.220.610</td>
+<td>Ретроградты цистометрия</td>
+<td>1938,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183560,13 +183545,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1757</td>
-<td>D64.930.615</td>
-<td>Шеткі бойды бужирлеу</td>
-<td>1758,29</td>
+<td>D89.220.612</td>
+<td>Кешендік уродинамикалық зерттеу (КУДЗ)</td>
+<td>4075,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183574,13 +183559,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1758</td>
-<td>D49.460.616</td>
-<td>Миллиган-Морган бойынша Геморроидэктомия</td>
-<td>4715,41</td>
+<td>D63.100.613</td>
+<td>Иваниссевич отасы</td>
+<td>4920,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183588,13 +183573,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1759</td>
-<td>D60.110.618</td>
-<td>Простатты мультифокальді трансректальді биопсиялау</td>
-<td>5141,25</td>
+<td>D63.101.614</td>
+<td>Мармар отасы (Субинвинальды микрохирургиялық варикоцелэктомия)</td>
+<td>4920,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183602,13 +183587,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1760</td>
-<td>D64.001.619</td>
-<td>Циркумцизия</td>
+<td>D64.930.615</td>
+<td>Шеткі бойды бужирлеу</td>
 <td>1758,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183616,27 +183601,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1761</td>
-<td>DХХ.ХХХ.700</td>
-<td>Нефрологтың емшаралары және манипуляциялары</td>
+<td>D49.460.616</td>
+<td>Миллиган-Морган бойынша Геморроидэктомия</td>
+<td>4715,41</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1762</td>
-<td>D39.950.701</td>
-<td>Гемодиализ</td>
-<td>26248,62</td>
+<td>D60.110.618</td>
+<td>Простатты мультифокальді трансректальді биопсиялау</td>
+<td>5141,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183644,83 +183629,83 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1763</td>
-<td>D39.955.703</td>
-<td>Тәуліктік стационардың деңгейінде гемодиализ</td>
-<td>15785,49</td>
+<td>D64.001.619</td>
+<td>Циркумцизия</td>
+<td>1758,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1764</td>
-<td>D54.980.704</td>
-<td>Перитонеалды катетерді ересектерге имплантанттау</td>
-<td>38505,19</td>
+<td>DХХ.ХХХ.700</td>
+<td>Нефрологтың емшаралары және манипуляциялары</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1765</td>
-<td>D54.980.705</td>
-<td>Балалардың перитонеальды катетерінің имплантациясы</td>
-<td>49296,17</td>
+<td>D39.950.701</td>
+<td>Гемодиализ</td>
+<td>26248,62</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1766</td>
-<td>D54.981.705</td>
-<td>Лактатты буфермен тұрақты амбулаторлық перитонеалды диализ (ересектер)</td>
-<td>2851,91</td>
+<td>D39.955.703</td>
+<td>Тәуліктік стационардың деңгейінде гемодиализ</td>
+<td>15785,49</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
-<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1767</td>
-<td>D54.982.706</td>
-<td>Бикарбонатты буфермен тұрақты амбулаторлық перитонеалды диализ (балалар)</td>
-<td>5869,20</td>
+<td>D54.980.704</td>
+<td>Перитонеалды катетерді ересектерге имплантанттау</td>
+<td>38505,19</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
-<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1768</td>
-<td>D54.985.709</td>
-<td>Тәуліктік стационар деңгейінде бикарбонатты буфермен автоматтандырылған перитонеалды диализ (балалар)</td>
-<td>23350,50</td>
+<td>D54.980.705</td>
+<td>Балалардың перитонеальды катетерінің имплантациясы</td>
+<td>49296,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -183728,41 +183713,41 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1769</td>
-<td>D54.986.710</td>
-<td>Тәуліктік стационар деңгейінде лактатты буфермен автоматтандырылған перитонеалды диализ (ересектер)</td>
-<td>21264,92</td>
+<td>D54.981.705</td>
+<td>Лактатты буфермен тұрақты амбулаторлық перитонеалды диализ (ересектер)</td>
+<td>2851,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
+<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1770</td>
-<td>D39.952.713</td>
-<td>Гемосорбция</td>
-<td>12674,28</td>
+<td>D54.982.706</td>
+<td>Бикарбонатты буфермен тұрақты амбулаторлық перитонеалды диализ (балалар)</td>
+<td>5869,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
+<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1771</td>
-<td>D99.710.714</td>
-<td>Плазмаферез</td>
-<td>13266,81</td>
+<td>D54.985.709</td>
+<td>Тәуліктік стационар деңгейінде бикарбонатты буфермен автоматтандырылған перитонеалды диализ (балалар)</td>
+<td>23350,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -183770,13 +183755,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1772</td>
-<td>D39.952.715</td>
-<td>Гемо(диа) сүзу</td>
-<td>21190,24</td>
+<td>D54.986.710</td>
+<td>Тәуліктік стационар деңгейінде лактатты буфермен автоматтандырылған перитонеалды диализ (ересектер)</td>
+<td>21264,92</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -183784,13 +183769,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1773</td>
-<td>D39.953.716</td>
-<td>Оқшауланған сүзу</td>
-<td>10003,75</td>
+<td>D39.952.713</td>
+<td>Гемосорбция</td>
+<td>12674,28</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -183798,27 +183783,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1774</td>
-<td>D54.985.717</td>
-<td>Лактатты буфермен тұрақты амбулаторлық перитонеалды диализ (балалар)</td>
-<td>2851,91</td>
+<td>D99.710.714</td>
+<td>Плазмаферез</td>
+<td>13266,81</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
-<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1775</td>
-<td>D54.985.718</td>
-<td>Тәуліктік стационар деңгейінде лактатты буфермен тұрақты перитонеалды диализ (ересектер)</td>
-<td>5426,32</td>
+<td>D39.952.715</td>
+<td>Гемо(диа) сүзу</td>
+<td>21190,24</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -183826,13 +183811,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1776</td>
-<td>D54.985.719</td>
-<td>Тәуліктік стационар деңгейінде лактатты буфермен тұрақты перитонеалды диализ (балалар)</td>
-<td>5426,32</td>
+<td>D39.953.716</td>
+<td>Оқшауланған сүзу</td>
+<td>10003,75</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -183840,41 +183825,41 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1777</td>
-<td>D54.985.720</td>
-<td>Тәуліктік стационар деңгейінде бикарбонатты буфермен тұрақты перитонеалды диализ (ересектер)</td>
-<td>7868,61</td>
+<td>D54.985.717</td>
+<td>Лактатты буфермен тұрақты амбулаторлық перитонеалды диализ (балалар)</td>
+<td>2851,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
+<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1778</td>
-<td>D54.985.721</td>
-<td>Бикарбонатты буфермен тұрақты амбулаторлық перитонеалды диализ (ересектер)</td>
-<td>5869,20</td>
+<td>D54.985.718</td>
+<td>Тәуліктік стационар деңгейінде лактатты буфермен тұрақты перитонеалды диализ (ересектер)</td>
+<td>5426,32</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
-<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1779</td>
-<td>D54.985.722</td>
-<td>Тәуліктік стационар деңгейінде бикарбонатты буфермен тұрақты перитонеалды диализ (балалар)</td>
-<td>8602,41</td>
+<td>D54.985.719</td>
+<td>Тәуліктік стационар деңгейінде лактатты буфермен тұрақты перитонеалды диализ (балалар)</td>
+<td>5426,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -183882,27 +183867,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1780</td>
-<td>D54.985.723</td>
-<td>Лактатты буфермен амбулаторлық автоматтандырылған перитонеалды диализ (ересектер)</td>
-<td>19360,79</td>
+<td>D54.985.720</td>
+<td>Тәуліктік стационар деңгейінде бикарбонатты буфермен тұрақты перитонеалды диализ (ересектер)</td>
+<td>7868,61</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
-<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1781</td>
-<td>D54.985.724</td>
-<td>Лактатты буфермен амбулаторлық автоматтандырылған перитонеалды диализ (балалар)</td>
-<td>15160,79</td>
+<td>D54.985.721</td>
+<td>Бикарбонатты буфермен тұрақты амбулаторлық перитонеалды диализ (ересектер)</td>
+<td>5869,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -183910,13 +183895,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1782</td>
-<td>D54.985.725</td>
-<td>Тәуліктік стационар деңгейінде лактатты буфермен автоматтандырылған перитонеалды диализ (балалар)</td>
-<td>23350,50</td>
+<td>D54.985.722</td>
+<td>Тәуліктік стационар деңгейінде бикарбонатты буфермен тұрақты перитонеалды диализ (балалар)</td>
+<td>8602,41</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -183924,13 +183909,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1783</td>
-<td>D54.985.726</td>
-<td>Бикарбонатты буфермен амбулаторлық автоматтандырылған перитонеалды диализ (ересектер)</td>
-<td>25712,97</td>
+<td>D54.985.723</td>
+<td>Лактатты буфермен амбулаторлық автоматтандырылған перитонеалды диализ (ересектер)</td>
+<td>19360,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -183938,13 +183923,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1784</td>
-<td>D54.985.727</td>
-<td>Бикарбонатты буфермен амбулаторлық автоматтандырылған перитонеалды диализ (балалар)</td>
-<td>21512,97</td>
+<td>D54.985.724</td>
+<td>Лактатты буфермен амбулаторлық автоматтандырылған перитонеалды диализ (балалар)</td>
+<td>15160,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -183952,13 +183937,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1785</td>
-<td>D54.985.728</td>
-<td>Тәуліктік стационар деңгейінде бикарбонатты буфермен автоматтандырылған перитонеалды диализ (ересектер)</td>
-<td>27336,89</td>
+<td>D54.985.725</td>
+<td>Тәуліктік стационар деңгейінде лактатты буфермен автоматтандырылған перитонеалды диализ (балалар)</td>
+<td>23350,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -183966,69 +183951,69 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1786</td>
-<td>DХХ.ХХХ.800</td>
-<td>Аллергологтың емшаралары және манипуляциялар</td>
+<td>D54.985.726</td>
+<td>Бикарбонатты буфермен амбулаторлық автоматтандырылған перитонеалды диализ (ересектер)</td>
+<td>25712,97</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1787</td>
-<td>D99.121.801</td>
-<td>Аллергендермен теріге тесттер</td>
-<td>1465,07</td>
+<td>D54.985.727</td>
+<td>Бикарбонатты буфермен амбулаторлық автоматтандырылған перитонеалды диализ (балалар)</td>
+<td>21512,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
-<td>√</td>
+<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1788</td>
-<td>D99.122.802</td>
-<td>Дәрі-дәрмекпен теріге тесттер</td>
-<td>4687,85</td>
+<td>D54.985.728</td>
+<td>Тәуліктік стационар деңгейінде бикарбонатты буфермен автоматтандырылған перитонеалды диализ (ересектер)</td>
+<td>27336,89</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1789</td>
-<td>D99.123.803</td>
-<td>Аллергендермен провокациялық сынау (конъюнктивалық, эндоназалдық, эндобронхиалды, аппликациялық және басқа әдістер)</td>
-<td>1644,53</td>
+<td>DХХ.ХХХ.800</td>
+<td>Аллергологтың емшаралары және манипуляциялар</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1790</td>
-<td>D99.124.804</td>
-<td>Аллергометриялық титрлеу (конъюнктивалық, эндоназалдық, эндобронхиалды, аппликациялық және басқа әдістер)</td>
-<td>1776,95</td>
+<td>D99.121.801</td>
+<td>Аллергендермен теріге тесттер</td>
+<td>1465,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -184036,13 +184021,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1791</td>
-<td>D99.125.805</td>
-<td>Өзіндік гипосенсибилизация сеансы</td>
-<td>207,20</td>
+<td>D99.122.802</td>
+<td>Дәрі-дәрмекпен теріге тесттер</td>
+<td>4687,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -184050,69 +184035,69 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1792</td>
+<td>D99.123.803</td>
+<td>Аллергендермен провокациялық сынау (конъюнктивалық, эндоназалдық, эндобронхиалды, аппликациялық және басқа әдістер)</td>
+<td>1644,53</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1793</td>
+<td>D99.124.804</td>
+<td>Аллергометриялық титрлеу (конъюнктивалық, эндоназалдық, эндобронхиалды, аппликациялық және басқа әдістер)</td>
+<td>1776,95</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1794</td>
+<td>D99.125.805</td>
+<td>Өзіндік гипосенсибилизация сеансы</td>
+<td>207,20</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1795</td>
 <td>DХХ.ХХХ.900</td>
 <td>Психотерапиялық емшаралар және манипуляциялар</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1793</td>
+<td>1796</td>
 <td>D94.021.901</td>
 <td>Аутотренинг</td>
 <td>502,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>1794</td>
-<td>D94.022.902</td>
-<td>Рационалды психотерапия</td>
-<td>940,34</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>1795</td>
-<td>D94.081.903</td>
-<td>Психологиялық диагностикалау</td>
-<td>565,31</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>1796</td>
-<td>D94.023.904</td>
-<td>Психотүзету жұмысы</td>
-<td>565,31</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184120,13 +184105,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1797</td>
-<td>D94.024.905</td>
-<td>Гипноз сеансы</td>
-<td>629,76</td>
+<td>D94.022.902</td>
+<td>Рационалды психотерапия</td>
+<td>940,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184134,13 +184119,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1798</td>
-<td>D94.025.906</td>
-<td>Л.Е. Телешковская әдісі бойынша психотерапия</td>
-<td>629,76</td>
+<td>D94.081.903</td>
+<td>Психологиялық диагностикалау</td>
+<td>565,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184148,13 +184133,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1799</td>
-<td>D94.026.907</td>
-<td>Гештальт-терапия</td>
-<td>843,04</td>
+<td>D94.023.904</td>
+<td>Психотүзету жұмысы</td>
+<td>565,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184162,13 +184147,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1800</td>
-<td>D94.027.908</td>
-<td>Нейролингвистикалық бағдарламалау</td>
-<td>839,14</td>
+<td>D94.024.905</td>
+<td>Гипноз сеансы</td>
+<td>629,76</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184176,13 +184161,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1801</td>
-<td>D94.028.909</td>
-<td>Холотропты тыныс алу</td>
-<td>650,16</td>
+<td>D94.025.906</td>
+<td>Л.Е. Телешковская әдісі бойынша психотерапия</td>
+<td>629,76</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184190,41 +184175,41 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1802</td>
-<td>D94.111.910</td>
-<td>Психобелсенді заттардың пайдалануға тергеу және тергеуші органдарымен медициналық куәландыру</td>
-<td>1041,02</td>
+<td>D94.026.907</td>
+<td>Гештальт-терапия</td>
+<td>843,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>1</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>1803</td>
-<td>D94.111.911</td>
-<td>Алкоголь қолдану және мастықтық жағдайының фактын медициналық куә беру</td>
-<td>1033,06</td>
+<td>D94.027.908</td>
+<td>Нейролингвистикалық бағдарламалау</td>
+<td>839,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>1</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>1804</td>
-<td>D94.110.911</td>
-<td>Сот-психикалық сараптау</td>
-<td>56708,08</td>
+<td>D94.028.909</td>
+<td>Холотропты тыныс алу</td>
+<td>650,16</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184232,55 +184217,55 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1805</td>
-<td>D94.450.912</td>
-<td>Сот-наркологиялық сараптау</td>
-<td>2032,48</td>
+<td>D94.111.910</td>
+<td>Психобелсенді заттардың пайдалануға тергеу және тергеуші органдарымен медициналық куәландыру</td>
+<td>1041,02</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
+</tr>
+<tr>
+<td>1806</td>
+<td>D94.111.911</td>
+<td>Алкоголь қолдану және мастықтық жағдайының фактын медициналық куә беру</td>
+<td>1033,06</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1807</td>
+<td>D94.110.911</td>
+<td>Сот-психикалық сараптау</td>
+<td>56708,08</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
 <td></td>
 </tr>
 <tr>
-<td>1806</td>
-<td>D02.000.000</td>
-<td>Физиопроцедуралар</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1807</td>
-<td>D02.000.001</td>
-<td>Электрмен емдеу</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>1808</td>
-<td>D02.001.001</td>
-<td>Гальванизация</td>
-<td>283,66</td>
+<td>D94.450.912</td>
+<td>Сот-наркологиялық сараптау</td>
+<td>2032,48</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184288,41 +184273,41 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1809</td>
-<td>D02.002.001</td>
-<td>Электрофорез</td>
-<td>372,43</td>
+<td>D02.000.000</td>
+<td>Физиопроцедуралар</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1810</td>
-<td>D02.003.001</td>
-<td>4-камералық электрогальваниялық ванна</td>
-<td>95,59</td>
+<td>D02.000.001</td>
+<td>Электрмен емдеу</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1811</td>
-<td>D02.004.001</td>
-<td>Импульсты токтары бар электрофорез</td>
-<td>322,83</td>
+<td>D02.001.001</td>
+<td>Гальванизация</td>
+<td>283,66</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184330,13 +184315,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1812</td>
-<td>D02.005.001</td>
-<td>Электрмен ұйықтату</td>
-<td>161,52</td>
+<td>D02.002.001</td>
+<td>Электрофорез</td>
+<td>372,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184344,13 +184329,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1813</td>
-<td>D02.006.001</td>
-<td>Трансцеребралды электроанальгезия</td>
-<td>382,49</td>
+<td>D02.003.001</td>
+<td>4-камералық электрогальваниялық ванна</td>
+<td>95,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184358,13 +184343,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1814</td>
-<td>D02.007.001</td>
-<td>Диадинамикалық токтар (ДДТ)</td>
-<td>417,26</td>
+<td>D02.004.001</td>
+<td>Импульсты токтары бар электрофорез</td>
+<td>322,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184372,13 +184357,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1815</td>
-<td>D02.008.001</td>
-<td>Амплипульстерапия (СМТ)</td>
-<td>232,43</td>
+<td>D02.005.001</td>
+<td>Электрмен ұйықтату</td>
+<td>161,52</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184386,13 +184371,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1816</td>
-<td>D02.009.001</td>
-<td>Флюктуоризация</td>
-<td>236,25</td>
+<td>D02.006.001</td>
+<td>Трансцеребралды электроанальгезия</td>
+<td>382,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184400,13 +184385,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1817</td>
-<td>D02.010.001</td>
-<td>Теріасты электронейроынталандыру (TENS-терапия)</td>
-<td>352,74</td>
+<td>D02.007.001</td>
+<td>Диадинамикалық токтар (ДДТ)</td>
+<td>417,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184414,13 +184399,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1818</td>
-<td>D02.011.001</td>
-<td>Интерференцтерапия</td>
-<td>131,44</td>
+<td>D02.008.001</td>
+<td>Амплипульстерапия (СМТ)</td>
+<td>232,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184428,13 +184413,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1819</td>
-<td>D02.012.001</td>
-<td>СМВ - терапия</td>
-<td>170,04</td>
+<td>D02.009.001</td>
+<td>Флюктуоризация</td>
+<td>236,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184442,13 +184427,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1820</td>
-<td>D02.013.001</td>
-<td>Бұлшықетті электроынталандыру</td>
-<td>283,53</td>
+<td>D02.010.001</td>
+<td>Теріасты электронейроынталандыру (TENS-терапия)</td>
+<td>352,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184456,13 +184441,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1821</td>
-<td>D02.014.001</td>
-<td>Дарсонвализация</td>
-<td>186,15</td>
+<td>D02.011.001</td>
+<td>Интерференцтерапия</td>
+<td>131,44</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184470,13 +184455,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1822</td>
-<td>D02.015.001</td>
-<td>Ультратонотерапия</td>
-<td>405,04</td>
+<td>D02.012.001</td>
+<td>СМВ - терапия</td>
+<td>170,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184484,13 +184469,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1823</td>
-<td>D02.016.001</td>
-<td>Франклинизация</td>
-<td>232,67</td>
+<td>D02.013.001</td>
+<td>Бұлшықетті электроынталандыру</td>
+<td>283,53</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184498,13 +184483,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1824</td>
-<td>D02.017.001</td>
-<td>Индуктотермия</td>
-<td>173,34</td>
+<td>D02.014.001</td>
+<td>Дарсонвализация</td>
+<td>186,15</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184512,13 +184497,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1825</td>
-<td>D02.018.001</td>
-<td>Ультражоғары жиілікті (УЖЖ) - терапия</td>
-<td>89,37</td>
+<td>D02.015.001</td>
+<td>Ультратонотерапия</td>
+<td>405,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184526,13 +184511,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1826</td>
-<td>D02.019.001</td>
-<td>УВЧ индуктотермия</td>
-<td>282,54</td>
+<td>D02.016.001</td>
+<td>Франклинизация</td>
+<td>232,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184540,13 +184525,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1827</td>
-<td>D02.020.001</td>
-<td>Сантиметрлік терапия (СМВ)</td>
-<td>376,88</td>
+<td>D02.017.001</td>
+<td>Индуктотермия</td>
+<td>173,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184554,13 +184539,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1828</td>
-<td>D02.021.001</td>
-<td>Дециметрлік терапия (ДМВ-терапия)</td>
-<td>149,42</td>
+<td>D02.018.001</td>
+<td>Ультражоғары жиілікті (УЖЖ) - терапия</td>
+<td>89,37</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184568,13 +184553,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1829</td>
-<td>D02.022.001</td>
-<td>Миллиметрлік терапия (КВЧ- терапия)</td>
-<td>258,08</td>
+<td>D02.019.001</td>
+<td>УВЧ индуктотермия</td>
+<td>282,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184582,13 +184567,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1830</td>
-<td>D02.023.001</td>
-<td>Магниттік терапия</td>
-<td>61,67</td>
+<td>D02.020.001</td>
+<td>Сантиметрлік терапия (СМВ)</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184596,13 +184581,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1831</td>
-<td>D02.024.001</td>
-<td>Ультрадыбыстық терапия</td>
-<td>200,31</td>
+<td>D02.021.001</td>
+<td>Дециметрлік терапия (ДМВ-терапия)</td>
+<td>149,42</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184610,13 +184595,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1832</td>
-<td>D02.025.001</td>
-<td>Магниттік лазерлік терапия</td>
-<td>234,13</td>
+<td>D02.022.001</td>
+<td>Миллиметрлік терапия (КВЧ- терапия)</td>
+<td>258,08</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184624,13 +184609,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1833</td>
-<td>D02.026.001</td>
-<td>Магниттік ультрадыбыстық терапия</td>
-<td>282,86</td>
+<td>D02.023.001</td>
+<td>Магниттік терапия</td>
+<td>61,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184638,13 +184623,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1834</td>
-<td>D02.027.001</td>
-<td>Электросон-электрофорез</td>
-<td>375,12</td>
+<td>D02.024.001</td>
+<td>Ультрадыбыстық терапия</td>
+<td>200,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184652,13 +184637,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1835</td>
-<td>D02.028.001</td>
-<td>Вакуум-фонофорез</td>
-<td>376,88</td>
+<td>D02.025.001</td>
+<td>Магниттік лазерлік терапия</td>
+<td>234,13</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184666,13 +184651,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1836</td>
-<td>D02.029.001</td>
-<td>Гальваноиндуктотермия</td>
-<td>282,54</td>
+<td>D02.026.001</td>
+<td>Магниттік ультрадыбыстық терапия</td>
+<td>282,86</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184680,13 +184665,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1837</td>
-<td>D02.030.001</td>
-<td>Биоптрон</td>
-<td>593,58</td>
+<td>D02.027.001</td>
+<td>Электросон-электрофорез</td>
+<td>375,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184694,27 +184679,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1838</td>
-<td>D02.000.002</td>
-<td>Фотоемдеу (жарықпен емдеу)</td>
+<td>D02.028.001</td>
+<td>Вакуум-фонофорез</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2">√</td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>1839</td>
-<td>D02.001.002</td>
-<td>Жергілікті ультракүлгін сәулелендіру</td>
-<td>89,43</td>
+<td>D02.029.001</td>
+<td>Гальваноиндуктотермия</td>
+<td>282,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184722,13 +184707,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1840</td>
-<td>D02.002.002</td>
-<td>Жалпы ультракүлгін сәулелендіру</td>
-<td>70,11</td>
+<td>D02.030.001</td>
+<td>Биоптрон</td>
+<td>593,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184736,27 +184721,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1841</td>
-<td>D02.003.002</td>
-<td>Қанды ультракүлгін сәулелендіру</td>
-<td>75,06</td>
+<td>D02.000.002</td>
+<td>Фотоемдеу (жарықпен емдеу)</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1842</td>
-<td>D02.004.002</td>
-<td>Лазеротерапия (квантты терапия)</td>
-<td>200,31</td>
+<td>D02.001.002</td>
+<td>Жергілікті ультракүлгін сәулелендіру</td>
+<td>89,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184764,13 +184749,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1843</td>
-<td>D02.005.002</td>
-<td>Қызыл диапазон</td>
-<td>195,42</td>
+<td>D02.002.002</td>
+<td>Жалпы ультракүлгін сәулелендіру</td>
+<td>70,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184778,13 +184763,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1844</td>
-<td>D02.008.002</td>
-<td>Венаішілік лазеротерапия</td>
-<td>272,03</td>
+<td>D02.003.002</td>
+<td>Қанды ультракүлгін сәулелендіру</td>
+<td>75,06</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184792,13 +184777,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1845</td>
-<td>D02.009.002</td>
-<td>Гидросәулелі душ</td>
-<td>185,16</td>
+<td>D02.004.002</td>
+<td>Лазеротерапия (квантты терапия)</td>
+<td>200,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184806,13 +184791,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1846</td>
-<td>D02.010.002</td>
-<td>Лазерлі сканерлейтін сәуле терапиясы</td>
-<td>251,76</td>
+<td>D02.005.002</td>
+<td>Қызыл диапазон</td>
+<td>195,42</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184820,13 +184805,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1847</td>
-<td>D02.011.002</td>
-<td>Инфрақызыл сәулесін шығару</td>
-<td>233,82</td>
+<td>D02.008.002</td>
+<td>Венаішілік лазеротерапия</td>
+<td>272,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184834,13 +184819,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1848</td>
-<td>D02.012.002</td>
-<td>Көзге көрінетін сәуле шығару</td>
-<td>251,25</td>
+<td>D02.009.002</td>
+<td>Гидросәулелі душ</td>
+<td>185,16</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184848,13 +184833,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1849</td>
-<td>D02.013.002</td>
-<td>Көру анализаторына ақ түспен фототерапия</td>
-<td>207,97</td>
+<td>D02.010.002</td>
+<td>Лазерлі сканерлейтін сәуле терапиясы</td>
+<td>251,76</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184862,13 +184847,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1850</td>
-<td>D02.014.002</td>
-<td>Фотохимиотерапия</td>
-<td>220,16</td>
+<td>D02.011.002</td>
+<td>Инфрақызыл сәулесін шығару</td>
+<td>233,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184876,27 +184861,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1851</td>
-<td>D02.000.003</td>
-<td>Ингаляциялық терапия</td>
+<td>D02.012.002</td>
+<td>Көзге көрінетін сәуле шығару</td>
+<td>251,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>1852</td>
-<td>D02.001.003</td>
-<td>Аэрозольтерапия</td>
-<td>204,56</td>
+<td>D02.013.002</td>
+<td>Көру анализаторына ақ түспен фототерапия</td>
+<td>207,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184904,13 +184889,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1853</td>
-<td>D02.002.003</td>
-<td>Синглеттік-оттегі қоспасымен аэрозольтерапия</td>
-<td>239,80</td>
+<td>D02.014.002</td>
+<td>Фотохимиотерапия</td>
+<td>220,16</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184918,41 +184903,41 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1854</td>
-<td>D02.003.003</td>
-<td>Электроаэрозольтерапия</td>
-<td>156,49</td>
+<td>D02.000.003</td>
+<td>Ингаляциялық терапия</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1855</td>
+<td>D02.001.003</td>
+<td>Аэрозольтерапия</td>
+<td>204,56</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
 <td></td>
 </tr>
 <tr>
-<td>1855</td>
-<td>D02.000.004</td>
-<td>Сумен емдеу</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>1856</td>
-<td>D02.001.004</td>
-<td>Жалпы дымқыл бүркену</td>
-<td>370,32</td>
+<td>D02.002.003</td>
+<td>Синглеттік-оттегі қоспасымен аэрозольтерапия</td>
+<td>239,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184960,13 +184945,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1857</td>
-<td>D02.002.004</td>
-<td>Сумен сүртіну</td>
-<td>555,49</td>
+<td>D02.003.003</td>
+<td>Электроаэрозольтерапия</td>
+<td>156,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184974,27 +184959,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1858</td>
-<td>D02.003.004</td>
-<td>Салқын сумен емделу</td>
-<td>555,49</td>
+<td>D02.000.004</td>
+<td>Сумен емдеу</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1859</td>
-<td>D02.004.004</td>
-<td>Емдік душтар</td>
-<td>185,16</td>
+<td>D02.001.004</td>
+<td>Жалпы дымқыл бүркену</td>
+<td>370,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185002,13 +184987,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1860</td>
-<td>D02.005.004</td>
-<td>Валинский бойынша жалпы ванналар</td>
-<td>370,32</td>
+<td>D02.002.004</td>
+<td>Сумен сүртіну</td>
+<td>555,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185016,13 +185001,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1861</td>
-<td>D02.006.004</td>
-<td>Гауффе бойынша ванналар</td>
+<td>D02.003.004</td>
+<td>Салқын сумен емделу</td>
 <td>555,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185030,13 +185015,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1862</td>
-<td>D02.007.004</td>
-<td>Жалпы контрастылы ванналар</td>
-<td>505,17</td>
+<td>D02.004.004</td>
+<td>Емдік душтар</td>
+<td>185,16</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185044,13 +185029,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1863</td>
-<td>D02.008.004</td>
-<td>Жергілікті контрастылы ванналар</td>
-<td>277,74</td>
+<td>D02.005.004</td>
+<td>Валинский бойынша жалпы ванналар</td>
+<td>370,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185058,13 +185043,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1864</td>
-<td>D02.009.004</td>
-<td>4-камералық тамшы-контрастылы ванна</td>
-<td>309,40</td>
+<td>D02.006.004</td>
+<td>Гауффе бойынша ванналар</td>
+<td>555,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185072,13 +185057,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1865</td>
-<td>D02.010.004</td>
-<td>Су асты душ-массажы</td>
-<td>289,38</td>
+<td>D02.007.004</td>
+<td>Жалпы контрастылы ванналар</td>
+<td>505,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185086,13 +185071,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1866</td>
-<td>D02.011.004</td>
-<td>Емдік ванналар</td>
-<td>611,89</td>
+<td>D02.008.004</td>
+<td>Жергілікті контрастылы ванналар</td>
+<td>277,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185100,13 +185085,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1867</td>
-<td>D02.012.004</td>
-<td>Бальнеотерапияның үйлескен әдістері</td>
-<td>753,74</td>
+<td>D02.009.004</td>
+<td>4-камералық тамшы-контрастылы ванна</td>
+<td>309,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185114,13 +185099,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1868</td>
-<td>D02.013.004</td>
-<td>Бальнеофизиотерапияның үйлескен әдістері</td>
-<td>753,74</td>
+<td>D02.010.004</td>
+<td>Су асты душ-массажы</td>
+<td>289,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185128,13 +185113,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1869</td>
-<td>D02.014.004</td>
-<td>Гидроколонотерапия</td>
-<td>1060,86</td>
+<td>D02.011.004</td>
+<td>Емдік ванналар</td>
+<td>611,89</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185142,27 +185127,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1870</td>
-<td>D02.000.005</td>
-<td>Жылумен емдеу</td>
+<td>D02.012.004</td>
+<td>Бальнеотерапияның үйлескен әдістері</td>
+<td>753,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>1871</td>
-<td>D02.001.005</td>
-<td>Парафин терапиясы</td>
-<td>320,19</td>
+<td>D02.013.004</td>
+<td>Бальнеофизиотерапияның үйлескен әдістері</td>
+<td>753,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185170,13 +185155,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1872</td>
-<td>D02.002.005</td>
-<td>Озокеритонмен емдеу</td>
-<td>267,07</td>
+<td>D02.014.004</td>
+<td>Гидроколонотерапия</td>
+<td>1060,86</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185184,27 +185169,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1873</td>
-<td>D02.003.005</td>
-<td>Нафталанмен емдеу</td>
-<td>496,92</td>
+<td>D02.000.005</td>
+<td>Жылумен емдеу</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1874</td>
-<td>D02.004.005</td>
-<td>Нативті балшықшы емдеуде қолдану</td>
-<td>496,92</td>
+<td>D02.001.005</td>
+<td>Парафин терапиясы</td>
+<td>320,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185212,13 +185197,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1875</td>
-<td>D02.005.005</td>
-<td>Жанамаласқан балшықпен емдеу емшаралары</td>
-<td>605,82</td>
+<td>D02.002.005</td>
+<td>Озокеритонмен емдеу</td>
+<td>267,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185226,13 +185211,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1876</td>
-<td>D02.006.005</td>
-<td>«Түзды» камера (спелеокамера)</td>
-<td>248,87</td>
+<td>D02.003.005</td>
+<td>Нафталанмен емдеу</td>
+<td>496,92</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185240,27 +185225,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1877</td>
-<td>D02.000.006</td>
-<td>Пунктурлы рефлексофизиотерапия (физиопунктура)</td>
+<td>D02.004.005</td>
+<td>Нативті балшықшы емдеуде қолдану</td>
+<td>496,92</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>1878</td>
-<td>D02.001.006</td>
-<td>Көп инелі массаж</td>
-<td>1064,44</td>
+<td>D02.005.005</td>
+<td>Жанамаласқан балшықпен емдеу емшаралары</td>
+<td>605,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185268,13 +185253,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1879</td>
-<td>D02.002.006</td>
-<td>Акупунктура (ине терапиясы)</td>
-<td>391,26</td>
+<td>D02.006.005</td>
+<td>«Түзды» камера (спелеокамера)</td>
+<td>248,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185282,27 +185267,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1880</td>
-<td>D02.003.006</td>
-<td>Су-джок терапиясы</td>
-<td>756,17</td>
+<td>D02.000.006</td>
+<td>Пунктурлы рефлексофизиотерапия (физиопунктура)</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1881</td>
-<td>D02.004.006</td>
-<td>Акупрессура (нүктелік массаж)</td>
-<td>1414,53</td>
+<td>D02.001.006</td>
+<td>Көп инелі массаж</td>
+<td>1064,44</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185310,13 +185295,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1882</td>
-<td>D02.005.006</td>
-<td>Магниттік пунктура</td>
-<td>446,71</td>
+<td>D02.002.006</td>
+<td>Акупунктура (ине терапиясы)</td>
+<td>391,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185324,13 +185309,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1883</td>
-<td>D02.006.006</td>
-<td>Металлотерапия</td>
-<td>446,71</td>
+<td>D02.003.006</td>
+<td>Су-джок терапиясы</td>
+<td>756,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185338,13 +185323,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1884</td>
-<td>D02.007.006</td>
-<td>Ультрафонопунктура</td>
-<td>625,49</td>
+<td>D02.004.006</td>
+<td>Акупрессура (нүктелік массаж)</td>
+<td>1414,53</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185352,13 +185337,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1885</td>
-<td>D02.008.006</td>
-<td>Ультрафонофорезбен фармакопунктура</td>
-<td>788,74</td>
+<td>D02.005.006</td>
+<td>Магниттік пунктура</td>
+<td>446,71</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185366,13 +185351,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1886</td>
-<td>D02.009.006</td>
-<td>Күйдіру (жусанды шылыммен жылыту, моксотерапия)</td>
-<td>379,31</td>
+<td>D02.006.006</td>
+<td>Металлотерапия</td>
+<td>446,71</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185380,13 +185365,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1887</td>
-<td>D02.010.006</td>
-<td>Электропунктура және электроакупунктура</td>
-<td>756,74</td>
+<td>D02.007.006</td>
+<td>Ультрафонопунктура</td>
+<td>625,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185394,13 +185379,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1888</td>
-<td>D02.011.006</td>
-<td>Фолля әдісі</td>
-<td>1165,61</td>
+<td>D02.008.006</td>
+<td>Ультрафонофорезбен фармакопунктура</td>
+<td>788,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185408,13 +185393,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1889</td>
-<td>D02.012.006</td>
-<td>Лазеропунктура</td>
+<td>D02.009.006</td>
+<td>Күйдіру (жусанды шылыммен жылыту, моксотерапия)</td>
 <td>379,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185422,13 +185407,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1890</td>
-<td>D02.013.006</td>
-<td>КВЧ-пунктура</td>
-<td>411,88</td>
+<td>D02.010.006</td>
+<td>Электропунктура және электроакупунктура</td>
+<td>756,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185436,13 +185421,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1891</td>
-<td>D02.014.006</td>
-<td>Термопунктура</td>
-<td>788,74</td>
+<td>D02.011.006</td>
+<td>Фолля әдісі</td>
+<td>1165,61</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185450,13 +185435,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1892</td>
-<td>D02.015.006</td>
-<td>Криопунктура</td>
-<td>411,19</td>
+<td>D02.012.006</td>
+<td>Лазеропунктура</td>
+<td>379,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185464,13 +185449,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1893</td>
-<td>D02.016.006</td>
-<td>Ине рефлекс терапиясымен үйлескен франклинизация</td>
-<td>411,19</td>
+<td>D02.013.006</td>
+<td>КВЧ-пунктура</td>
+<td>411,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185478,13 +185463,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1894</td>
-<td>D02.017.006</td>
-<td>Ультрадыбыстық терапия (фонофорез)</td>
-<td>314,87</td>
+<td>D02.014.006</td>
+<td>Термопунктура</td>
+<td>788,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185492,27 +185477,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1895</td>
-<td>D02.000.007</td>
-<td>Массаж</td>
+<td>D02.015.006</td>
+<td>Криопунктура</td>
+<td>411,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>1896</td>
-<td>D02.001.007</td>
-<td>Дененің барлық бөлігіне классикалық массаж</td>
-<td>696,42</td>
+<td>D02.016.006</td>
+<td>Ине рефлекс терапиясымен үйлескен франклинизация</td>
+<td>411,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185520,13 +185505,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1897</td>
-<td>D02.002.007</td>
-<td>Сегменттік массаж</td>
-<td>319,55</td>
+<td>D02.017.006</td>
+<td>Ультрадыбыстық терапия (фонофорез)</td>
+<td>314,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185534,27 +185519,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1898</td>
-<td>D02.003.007</td>
-<td>Нүктелік массаж</td>
-<td>460,47</td>
+<td>D02.000.007</td>
+<td>Массаж</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1899</td>
-<td>D02.004.007</td>
-<td>Вакуумдық массаж</td>
-<td>324,41</td>
+<td>D02.001.007</td>
+<td>Дененің барлық бөлігіне классикалық массаж</td>
+<td>696,42</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185562,13 +185547,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1900</td>
-<td>D02.005.007</td>
-<td>Вибромассаж</td>
-<td>280,24</td>
+<td>D02.002.007</td>
+<td>Сегменттік массаж</td>
+<td>319,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185576,13 +185561,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1901</td>
-<td>D02.006.007</td>
-<td>Цигун-массажы</td>
-<td>1018,29</td>
+<td>D02.003.007</td>
+<td>Нүктелік массаж</td>
+<td>460,47</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185590,13 +185575,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1902</td>
-<td>D02.007.007</td>
-<td>Омыртқа тракциясы (бір бөлім)</td>
-<td>1510,49</td>
+<td>D02.004.007</td>
+<td>Вакуумдық массаж</td>
+<td>324,41</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185604,13 +185589,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1903</td>
-<td>D02.008.007</td>
-<td>Бастың (маңдай-самай және желке-қарақұс бөлігінің) массажы</td>
-<td>376,88</td>
+<td>D02.005.007</td>
+<td>Вибромассаж</td>
+<td>280,24</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185618,13 +185603,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1904</td>
-<td>D02.009.007</td>
-<td>Бастың шаш бөлігінің массажы</td>
-<td>273,93</td>
+<td>D02.006.007</td>
+<td>Цигун-массажы</td>
+<td>1018,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185632,13 +185617,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1905</td>
-<td>D02.010.007</td>
-<td>Жағалық аумаққа массаж</td>
-<td>251,25</td>
+<td>D02.007.007</td>
+<td>Омыртқа тракциясы (бір бөлім)</td>
+<td>1510,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185646,13 +185631,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1906</td>
-<td>D02.011.007</td>
-<td>Омыртқаның иық- кеуде бөлігінің массажы</td>
-<td>605,54</td>
+<td>D02.008.007</td>
+<td>Бастың (маңдай-самай және желке-қарақұс бөлігінің) массажы</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185660,13 +185645,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1907</td>
-<td>D02.012.007</td>
-<td>Мойын, жағалық аумақ және екі иық буынының массажы</td>
-<td>565,31</td>
+<td>D02.009.007</td>
+<td>Бастың шаш бөлігінің массажы</td>
+<td>273,93</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185674,13 +185659,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1908</td>
-<td>D02.013.007</td>
-<td>Омыртқаның кеуде бөлігінің массажы</td>
-<td>579,71</td>
+<td>D02.010.007</td>
+<td>Жағалық аумаққа массаж</td>
+<td>251,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185688,13 +185673,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1909</td>
-<td>D02.014.007</td>
-<td>Қол массажы</td>
-<td>405,61</td>
+<td>D02.011.007</td>
+<td>Омыртқаның иық- кеуде бөлігінің массажы</td>
+<td>605,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185702,13 +185687,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1910</td>
-<td>D02.015.007</td>
-<td>Кеуде қуысы массажы</td>
-<td>568,31</td>
+<td>D02.012.007</td>
+<td>Мойын, жағалық аумақ және екі иық буынының массажы</td>
+<td>565,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185716,13 +185701,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1911</td>
-<td>D02.016.007</td>
-<td>Иық буын массажы</td>
-<td>251,25</td>
+<td>D02.013.007</td>
+<td>Омыртқаның кеуде бөлігінің массажы</td>
+<td>579,71</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185730,13 +185715,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1912</td>
-<td>D02.017.007</td>
-<td>Шынтақ буын массажы</td>
-<td>280,23</td>
+<td>D02.014.007</td>
+<td>Қол массажы</td>
+<td>405,61</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185744,13 +185729,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1913</td>
-<td>D02.018.007</td>
-<td>Білек буынының массажы</td>
-<td>280,23</td>
+<td>D02.015.007</td>
+<td>Кеуде қуысы массажы</td>
+<td>568,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185758,13 +185743,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1914</td>
-<td>D02.019.007</td>
-<td>Иық асты және білек массажы</td>
-<td>405,86</td>
+<td>D02.016.007</td>
+<td>Иық буын массажы</td>
+<td>251,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185772,13 +185757,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1915</td>
-<td>D02.020.007</td>
-<td>Барлық омыртқа массажы</td>
-<td>565,31</td>
+<td>D02.017.007</td>
+<td>Шынтақ буын массажы</td>
+<td>280,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185786,13 +185771,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1916</td>
-<td>D02.021.007</td>
-<td>Алдыңғы іш қуысы бұлшықетінің массажы</td>
-<td>324,47</td>
+<td>D02.018.007</td>
+<td>Білек буынының массажы</td>
+<td>280,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185800,13 +185785,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1917</td>
-<td>D02.022.007</td>
-<td>Бел-сегізкөз аумағының массажы</td>
-<td>423,61</td>
+<td>D02.019.007</td>
+<td>Иық асты және білек массажы</td>
+<td>405,86</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185814,13 +185799,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1918</td>
-<td>D02.023.007</td>
-<td>Жамбас-мықын буының массажы</td>
-<td>376,88</td>
+<td>D02.020.007</td>
+<td>Барлық омыртқа массажы</td>
+<td>565,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185828,13 +185813,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1919</td>
-<td>D02.024.007</td>
-<td>Жамбас-мықын және бөксе аумағының массажы (бір атаулы жақтың)</td>
-<td>376,88</td>
+<td>D02.021.007</td>
+<td>Алдыңғы іш қуысы бұлшықетінің массажы</td>
+<td>324,47</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185842,13 +185827,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1920</td>
-<td>D02.025.007</td>
-<td>Аяқ және бел бөлігініің массажы</td>
-<td>604,04</td>
+<td>D02.022.007</td>
+<td>Бел-сегізкөз аумағының массажы</td>
+<td>423,61</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185856,13 +185841,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1921</td>
-<td>D02.026.007</td>
-<td>Аяқ массажы</td>
-<td>405,61</td>
+<td>D02.023.007</td>
+<td>Жамбас-мықын буының массажы</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185870,13 +185855,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1922</td>
-<td>D02.027.007</td>
-<td>Тізе буынының массажы</td>
-<td>286,23</td>
+<td>D02.024.007</td>
+<td>Жамбас-мықын және бөксе аумағының массажы (бір атаулы жақтың)</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185884,13 +185869,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1923</td>
-<td>D02.028.007</td>
-<td>Тобық-тізе буынының массажы</td>
-<td>286,23</td>
+<td>D02.025.007</td>
+<td>Аяқ және бел бөлігініің массажы</td>
+<td>604,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185898,13 +185883,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1924</td>
-<td>D02.029.007</td>
-<td>Тізе және тобық массажы</td>
-<td>286,23</td>
+<td>D02.026.007</td>
+<td>Аяқ массажы</td>
+<td>405,61</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185912,27 +185897,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1925</td>
-<td>D02.000.008</td>
-<td>Емдік денешынықтыру (ЕДШ)</td>
+<td>D02.027.007</td>
+<td>Тізе буынының массажы</td>
+<td>286,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>1926</td>
-<td>D02.001.008</td>
-<td>Тыныс алу гимнастикасы</td>
-<td>248,27</td>
+<td>D02.028.007</td>
+<td>Тобық-тізе буынының массажы</td>
+<td>286,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185940,13 +185925,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1927</td>
-<td>D02.002.008</td>
-<td>Топтық ЕДШ</td>
-<td>251,25</td>
+<td>D02.029.007</td>
+<td>Тізе және тобық массажы</td>
+<td>286,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185954,27 +185939,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1928</td>
-<td>D02.003.008</td>
-<td>Жеке ЕДШ</td>
-<td>352,46</td>
+<td>D02.000.008</td>
+<td>Емдік денешынықтыру (ЕДШ)</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1929</td>
-<td>D02.004.008</td>
-<td>Механотерапия</td>
-<td>759,77</td>
+<td>D02.001.008</td>
+<td>Тыныс алу гимнастикасы</td>
+<td>248,27</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185982,13 +185967,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1930</td>
-<td>D02.005.008</td>
-<td>Ережемен емдеу</td>
-<td>993,08</td>
+<td>D02.002.008</td>
+<td>Топтық ЕДШ</td>
+<td>251,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185996,13 +185981,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1931</td>
-<td>D02.006.008</td>
-<td>Пассивті әзірлеу</td>
-<td>496,54</td>
+<td>D02.003.008</td>
+<td>Жеке ЕДШ</td>
+<td>352,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -186010,13 +185995,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1932</td>
-<td>D02.007.008</td>
-<td>Гидрокинезотерапия</td>
-<td>417,67</td>
+<td>D02.004.008</td>
+<td>Механотерапия</td>
+<td>759,77</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -186024,13 +186009,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1933</td>
-<td>D02.008.008</td>
-<td>Иппотерапия</td>
-<td>898,88</td>
+<td>D02.005.008</td>
+<td>Ережемен емдеу</td>
+<td>993,08</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -186038,13 +186023,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1934</td>
-<td>D02.009.008</td>
-<td>Буындағы қозғалыс көлемін өлшеу</td>
-<td>753,74</td>
+<td>D02.006.008</td>
+<td>Пассивті әзірлеу</td>
+<td>496,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -186052,13 +186037,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1935</td>
-<td>D02.010.008</td>
-<td>Постурография (роботталған) диагностикалық және емдік</td>
-<td>379,88</td>
+<td>D02.007.008</td>
+<td>Гидрокинезотерапия</td>
+<td>417,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -186066,13 +186051,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1936</td>
-<td>D02.011.008</td>
-<td>Проприоцептивті түзету: &quot;Адель&quot; костюмы, &quot;Гравистат&quot; костюмы</td>
-<td>168,51</td>
+<td>D02.008.008</td>
+<td>Иппотерапия</td>
+<td>898,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -186080,13 +186065,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1937</td>
-<td>D02.012.008</td>
-<td>Подометрия</td>
-<td>407,36</td>
+<td>D02.009.008</td>
+<td>Буындағы қозғалыс көлемін өлшеу</td>
+<td>753,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -186094,13 +186079,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1938</td>
-<td>D02.013.008</td>
-<td>Биологиялық кері байланыспен (БКБ) бағдарлама бойынша сараптамалық тренажерлармен оқытулар</td>
-<td>772,41</td>
+<td>D02.010.008</td>
+<td>Постурография (роботталған) диагностикалық және емдік</td>
+<td>379,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -186108,13 +186093,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1939</td>
-<td>D02.014.008</td>
-<td>Монтессори жүйесі бойынша оқу</td>
-<td>1510,49</td>
+<td>D02.011.008</td>
+<td>Проприоцептивті түзету: &quot;Адель&quot; костюмы, &quot;Гравистат&quot; костюмы</td>
+<td>168,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -186122,13 +186107,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1940</td>
-<td>D02.015.008</td>
-<td>Бобат, Войт-терапия жүйесі бойынша оқу</td>
-<td>1507,49</td>
+<td>D02.012.008</td>
+<td>Подометрия</td>
+<td>407,36</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -186136,13 +186121,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1941</td>
-<td>D02.017.008</td>
-<td>Эрготерапия бойынша массаж</td>
-<td>790,22</td>
+<td>D02.013.008</td>
+<td>Биологиялық кері байланыспен (БКБ) бағдарлама бойынша сараптамалық тренажерлармен оқытулар</td>
+<td>772,41</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -186150,13 +186135,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1942</td>
-<td>D02.020.008</td>
-<td>Соққы- толқындық терапия</td>
-<td>376,88</td>
+<td>D02.014.008</td>
+<td>Монтессори жүйесі бойынша оқу</td>
+<td>1510,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -186164,83 +186149,83 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1943</td>
+<td>D02.015.008</td>
+<td>Бобат, Войт-терапия жүйесі бойынша оқу</td>
+<td>1507,49</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>1944</td>
+<td>D02.017.008</td>
+<td>Эрготерапия бойынша массаж</td>
+<td>790,22</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>1945</td>
+<td>D02.020.008</td>
+<td>Соққы- толқындық терапия</td>
+<td>376,88</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>1946</td>
 <td>D03.000.000</td>
 <td>Стоматологиялық қызметтер</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1944</td>
+<td>1947</td>
 <td>D03.000.001</td>
 <td>Терапиялық тәсіл</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1945</td>
+<td>1948</td>
 <td>D03.001.001</td>
 <td>Бір тамырлы тістің пульпитін емдеу, КМХО жасалған пломбамен аяқталған</td>
 <td>1150,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>1946</td>
-<td>D03.002.001</td>
-<td>Бірінші премоляр пульпитін емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>2372,45</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>1947</td>
-<td>D03.003.001</td>
-<td>Азу тістің пульпитін емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>2928,77</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>1948</td>
-<td>D03.004.001</td>
-<td>Мектепке дейінгі балалардың уақытша тістерінің пульпитін емдеу, цементтен жасалған пломбамен аяқталған</td>
-<td>2526,66</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186248,13 +186233,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1949</td>
-<td>D03.005.001</td>
-<td>Мектепке дейінгі балалардың уақытша тістерінің пульпитін емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>3186,02</td>
+<td>D03.002.001</td>
+<td>Бірінші премоляр пульпитін емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>2372,45</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186262,13 +186247,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1950</td>
-<td>D03.006.001</td>
-<td>Тұрақты тістің 1 тамырын пломбалаумен немесе пульпаны өмірінде ампутациялау әдісімен пульпитті емдеу, цементтен жасалған пломбамен аяқталған</td>
-<td>2540,20</td>
+<td>D03.003.001</td>
+<td>Азу тістің пульпитін емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>2928,77</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186276,13 +186261,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1951</td>
-<td>D03.007.001</td>
-<td>Тұрақты тістің 1 тамырын пломбалаумен немесе пульпаны өмірінде ампутациялау әдісімен пульпитті емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>2693,43</td>
+<td>D03.004.001</td>
+<td>Мектепке дейінгі балалардың уақытша тістерінің пульпитін емдеу, цементтен жасалған пломбамен аяқталған</td>
+<td>2526,66</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186290,13 +186275,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1952</td>
-<td>D03.008.001</td>
-<td>Тұрақты тістің екі тамырын пломбалаумен пульпитті емдеу, цементтен жасалған пломбамен аяқталған</td>
-<td>1704,85</td>
+<td>D03.005.001</td>
+<td>Мектепке дейінгі балалардың уақытша тістерінің пульпитін емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>3186,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186304,13 +186289,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1953</td>
-<td>D03.009.001</td>
-<td>Тұрақты тістің екі тамырын пломбалаумен пульпитті емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>2265,29</td>
+<td>D03.006.001</td>
+<td>Тұрақты тістің 1 тамырын пломбалаумен немесе пульпаны өмірінде ампутациялау әдісімен пульпитті емдеу, цементтен жасалған пломбамен аяқталған</td>
+<td>2540,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186318,13 +186303,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1954</td>
-<td>D03.010.001</td>
-<td>Тұрақты тістің 3 тамырын пломбалаумен пульпитті емдеу, цементтен жасалған пломбамен аяқталған</td>
-<td>2073,05</td>
+<td>D03.007.001</td>
+<td>Тұрақты тістің 1 тамырын пломбалаумен немесе пульпаны өмірінде ампутациялау әдісімен пульпитті емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>2693,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186332,13 +186317,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1955</td>
-<td>D03.011.001</td>
-<td>Тұрақты тістің 3 тамырын пломбалаумен пульпитті емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>2766,16</td>
+<td>D03.008.001</td>
+<td>Тұрақты тістің екі тамырын пломбалаумен пульпитті емдеу, цементтен жасалған пломбамен аяқталған</td>
+<td>1704,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186346,13 +186331,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1956</td>
-<td>D03.012.001</td>
-<td>Барлық каналды пломбалаумен моляр периодонтитін емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>3343,57</td>
+<td>D03.009.001</td>
+<td>Тұрақты тістің екі тамырын пломбалаумен пульпитті емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>2265,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186360,13 +186345,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1957</td>
-<td>D03.013.001</td>
-<td>Екі каналды пломбалаумен үлкен азу тістің периодонтитін емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>3300,03</td>
+<td>D03.010.001</td>
+<td>Тұрақты тістің 3 тамырын пломбалаумен пульпитті емдеу, цементтен жасалған пломбамен аяқталған</td>
+<td>2073,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186374,13 +186359,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1958</td>
-<td>D03.014.001</td>
-<td>Бір каналды пломбалаумен моляр периодонтитін емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>3648,20</td>
+<td>D03.011.001</td>
+<td>Тұрақты тістің 3 тамырын пломбалаумен пульпитті емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>2766,16</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186388,13 +186373,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1959</td>
-<td>D03.015.001</td>
-<td>Барлық каналды пломбалаумен үстіңгі жақтың бірінші премолярының периодонтитін емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>3463,60</td>
+<td>D03.012.001</td>
+<td>Барлық каналды пломбалаумен моляр периодонтитін емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>3343,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186402,13 +186387,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1960</td>
-<td>D03.016.001</td>
-<td>Бір каналды пломбалаумен үстіңгі жақтың бірінші премолярының периодонтитін емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>3555,99</td>
+<td>D03.013.001</td>
+<td>Екі каналды пломбалаумен үлкен азу тістің периодонтитін емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>3300,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186416,13 +186401,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1961</td>
-<td>D03.017.001</td>
-<td>Бір тамырлы тістің периодонтитін емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>3216,83</td>
+<td>D03.014.001</td>
+<td>Бір каналды пломбалаумен моляр периодонтитін емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>3648,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186430,13 +186415,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1962</td>
-<td>D03.018.001</td>
-<td>Бір тамырлы тістің периодонтитін емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>2639,05</td>
+<td>D03.015.001</td>
+<td>Барлық каналды пломбалаумен үстіңгі жақтың бірінші премолярының периодонтитін емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>3463,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186444,13 +186429,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1963</td>
-<td>D03.019.001</td>
-<td>Импрегнационды әдіспен уақытша немесе тұрақты тістің периодонтитін емдеу, цементтен жасалған пломбамен аяқталған</td>
-<td>2974,74</td>
+<td>D03.016.001</td>
+<td>Бір каналды пломбалаумен үстіңгі жақтың бірінші премолярының периодонтитін емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>3555,99</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186458,13 +186443,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1964</td>
-<td>D03.020.001</td>
-<td>Импрегнационды әдіспен уақытша немесе тұрақты тістің периодонтитін емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>3282,85</td>
+<td>D03.017.001</td>
+<td>Бір тамырлы тістің периодонтитін емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>3216,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186472,13 +186457,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1965</td>
-<td>D03.021.001</td>
-<td>Тұрақты тістің 1 тамырын пломбалаумен периодонтитті емдеу, цементтен жасалған пломбамен аяқталған</td>
-<td>2622,17</td>
+<td>D03.018.001</td>
+<td>Бір тамырлы тістің периодонтитін емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>2639,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186486,13 +186471,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1966</td>
-<td>D03.022.001</td>
-<td>Тұрақты тістің 1 тамырын пломбалаумен периодонтитті емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>2733,69</td>
+<td>D03.019.001</td>
+<td>Импрегнационды әдіспен уақытша немесе тұрақты тістің периодонтитін емдеу, цементтен жасалған пломбамен аяқталған</td>
+<td>2974,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186500,13 +186485,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1967</td>
-<td>D03.023.001</td>
-<td>Тұрақты тістің 2 тамырын пломбалаумен периодонтитті емдеу, цементтен жасалған пломбамен аяқталған</td>
-<td>3752,70</td>
+<td>D03.020.001</td>
+<td>Импрегнационды әдіспен уақытша немесе тұрақты тістің периодонтитін емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>3282,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186514,13 +186499,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1968</td>
-<td>D03.024.001</td>
-<td>Тұрақты тістің 2 тамырын пломбалаумен периодонтитті емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>4534,83</td>
+<td>D03.021.001</td>
+<td>Тұрақты тістің 1 тамырын пломбалаумен периодонтитті емдеу, цементтен жасалған пломбамен аяқталған</td>
+<td>2622,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186528,13 +186513,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1969</td>
-<td>D03.025.001</td>
-<td>Тұрақты тістің 3 тамырын пломбалаумен периодонтитті емдеу, цементтен жасалған пломбамен аяқталған</td>
-<td>4328,39</td>
+<td>D03.022.001</td>
+<td>Тұрақты тістің 1 тамырын пломбалаумен периодонтитті емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>2733,69</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186542,13 +186527,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1970</td>
-<td>D03.026.001</td>
-<td>Тұрақты тістің 3 тамырын пломбалаумен периодонтитті емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>5335,45</td>
+<td>D03.023.001</td>
+<td>Тұрақты тістің 2 тамырын пломбалаумен периодонтитті емдеу, цементтен жасалған пломбамен аяқталған</td>
+<td>3752,70</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186556,13 +186541,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1971</td>
-<td>D03.027.001</td>
-<td>Тамырлы каналдың пломбасын алып тастау, тот-цинк негізіндегі пастамен пломбаланған</td>
-<td>1017,37</td>
+<td>D03.024.001</td>
+<td>Тұрақты тістің 2 тамырын пломбалаумен периодонтитті емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>4534,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186570,13 +186555,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1972</td>
-<td>D03.028.001</td>
-<td>Тамырлы каналдың пломбасын алып тастау, резорцин-формалин негізіндегі пастамен пломбаланған</td>
-<td>1111,07</td>
+<td>D03.025.001</td>
+<td>Тұрақты тістің 3 тамырын пломбалаумен периодонтитті емдеу, цементтен жасалған пломбамен аяқталған</td>
+<td>4328,39</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186584,13 +186569,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1973</td>
-<td>D03.029.001</td>
-<td>Тамырлы каналдың пломбасын алып тастау, цементпен пломбаланған</td>
-<td>2046,14</td>
+<td>D03.026.001</td>
+<td>Тұрақты тістің 3 тамырын пломбалаумен периодонтитті емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>5335,45</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186598,13 +186583,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1974</td>
-<td>D03.030.001</td>
-<td>Белсенділігі I және II дәрежелі үстіңгі және орта тісжегін емдеу цементен жасалған пломбамен аяқталған</td>
-<td>1746,05</td>
+<td>D03.027.001</td>
+<td>Тамырлы каналдың пломбасын алып тастау, тот-цинк негізіндегі пастамен пломбаланған</td>
+<td>1017,37</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186612,13 +186597,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1975</td>
-<td>D03.031.001</td>
-<td>Белсенділігі I және II дәрежелі үстіңгі және орта тісжегін емдеу КМХО жасалған пломбамен аяқталған</td>
-<td>1528,29</td>
+<td>D03.028.001</td>
+<td>Тамырлы каналдың пломбасын алып тастау, резорцин-формалин негізіндегі пастамен пломбаланған</td>
+<td>1111,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186626,13 +186611,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1976</td>
-<td>D03.032.001</td>
-<td>Терең тісжегін емдеу цементтен жасалған пломбамен аяқталған</td>
-<td>792,62</td>
+<td>D03.029.001</td>
+<td>Тамырлы каналдың пломбасын алып тастау, цементпен пломбаланған</td>
+<td>2046,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186640,13 +186625,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1977</td>
-<td>D03.033.001</td>
-<td>Терең тісжегін емдеу КМХО жасалған пломбамен аяқталған</td>
-<td>1311,15</td>
+<td>D03.030.001</td>
+<td>Белсенділігі I және II дәрежелі үстіңгі және орта тісжегін емдеу цементен жасалған пломбамен аяқталған</td>
+<td>1746,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186654,13 +186639,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1978</td>
-<td>D03.034.001</td>
-<td>Белсенділігі III дәрежелі асқынбаған тісжегі кезіндегі 1 тісті кешендік емдеу, цементтен жасалған пломбамен аяқталған</td>
-<td>598,00</td>
+<td>D03.031.001</td>
+<td>Белсенділігі I және II дәрежелі үстіңгі және орта тісжегін емдеу КМХО жасалған пломбамен аяқталған</td>
+<td>1528,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186668,13 +186653,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1979</td>
-<td>D03.035.001</td>
-<td>Белсенділігі III дәрежелі асқынбаған тісжегі кезіндегі 1 тісті кешендік емдеу, КМХО жасалған пломбамен аяқталған</td>
-<td>808,55</td>
+<td>D03.032.001</td>
+<td>Терең тісжегін емдеу цементтен жасалған пломбамен аяқталған</td>
+<td>792,62</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186682,13 +186667,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1980</td>
-<td>D03.036.001</td>
-<td>Тісті бояу бақылауымен ремтерапия немесе аумақтық флюоризация</td>
-<td>609,07</td>
+<td>D03.033.001</td>
+<td>Терең тісжегін емдеу КМХО жасалған пломбамен аяқталған</td>
+<td>1311,15</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186696,13 +186681,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1981</td>
-<td>D03.037.001</td>
-<td>Азутістің арнасынан бөтен затты алып тастау</td>
-<td>1275,12</td>
+<td>D03.034.001</td>
+<td>Белсенділігі III дәрежелі асқынбаған тісжегі кезіндегі 1 тісті кешендік емдеу, цементтен жасалған пломбамен аяқталған</td>
+<td>598,00</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186710,13 +186695,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1982</td>
-<td>D03.038.001</td>
-<td>Фронталды тістен бөтен денені алып тастау</td>
-<td>1236,15</td>
+<td>D03.035.001</td>
+<td>Белсенділігі III дәрежелі асқынбаған тісжегі кезіндегі 1 тісті кешендік емдеу, КМХО жасалған пломбамен аяқталған</td>
+<td>808,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186724,13 +186709,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1983</td>
-<td>D03.039.001</td>
-<td>Ескі пломбаны алып тастау</td>
-<td>509,63</td>
+<td>D03.036.001</td>
+<td>Тісті бояу бақылауымен ремтерапия немесе аумақтық флюоризация</td>
+<td>609,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186738,13 +186723,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1984</td>
-<td>D03.040.001</td>
-<td>1 тісті жарақаттық зақымдау кезіндегі консервативтік емдеу</td>
-<td>1271,15</td>
+<td>D03.037.001</td>
+<td>Азутістің арнасынан бөтен затты алып тастау</td>
+<td>1275,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186752,13 +186737,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1985</td>
-<td>D03.041.001</td>
-<td>1 тісте КМХО флюороз кезінде тістің анатомиялық үлгісін толық функционалдық қалпына келтіру</td>
-<td>3246,74</td>
+<td>D03.038.001</td>
+<td>Фронталды тістен бөтен денені алып тастау</td>
+<td>1236,15</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186766,55 +186751,55 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1986</td>
+<td>D03.039.001</td>
+<td>Ескі пломбаны алып тастау</td>
+<td>509,63</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>1987</td>
+<td>D03.040.001</td>
+<td>1 тісті жарақаттық зақымдау кезіндегі консервативтік емдеу</td>
+<td>1271,15</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>1988</td>
+<td>D03.041.001</td>
+<td>1 тісте КМХО флюороз кезінде тістің анатомиялық үлгісін толық функционалдық қалпына келтіру</td>
+<td>3246,74</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>1989</td>
 <td>D03.042.001</td>
 <td>Пародонта қалталарын дәрі-дәрмекпен тазалау ирригация, суландыру, аппликациялау</td>
 <td>449,68</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1987</td>
-<td>D03.043.001</td>
-<td>Пародонта қалталарын 2-5 тіске таңу салумен ирригациялау, суландыру, аппликациялаумен дәрі-дәрмекпен тазалау</td>
-<td>498,55</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1988</td>
-<td>D03.044.001</td>
-<td>1 тістің айналасындағы парадонта қалтасының кюретажы</td>
-<td>1461,37</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1989</td>
-<td>D03.045.001</td>
-<td>Сүйек тінін регенерациялауға бағытталған әдістемелерді қолданумен 1 тістің айналасындағы парадонта қалтасының кюретажы</td>
-<td>2770,59</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -186822,13 +186807,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1990</td>
-<td>D03.046.001</td>
-<td>Парадонта абсцессін ашу (1 тістің айналасындағы)</td>
-<td>433,45</td>
+<td>D03.043.001</td>
+<td>Пародонта қалталарын 2-5 тіске таңу салумен ирригациялау, суландыру, аппликациялаумен дәрі-дәрмекпен тазалау</td>
+<td>498,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -186836,13 +186821,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1991</td>
-<td>D03.047.001</td>
-<td>Стоматиттің жіті түрін емдеу</td>
-<td>911,77</td>
+<td>D03.044.001</td>
+<td>1 тістің айналасындағы парадонта қалтасының кюретажы</td>
+<td>1461,37</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -186850,13 +186835,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1992</td>
-<td>D03.048.001</td>
-<td>Іріктеу қайта тегістеу (1-2 тіс)</td>
-<td>546,66</td>
+<td>D03.045.001</td>
+<td>Сүйек тінін регенерациялауға бағытталған әдістемелерді қолданумен 1 тістің айналасындағы парадонта қалтасының кюретажы</td>
+<td>2770,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -186864,55 +186849,55 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1993</td>
+<td>D03.046.001</td>
+<td>Парадонта абсцессін ашу (1 тістің айналасындағы)</td>
+<td>433,45</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1994</td>
+<td>D03.047.001</td>
+<td>Стоматиттің жіті түрін емдеу</td>
+<td>911,77</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1995</td>
+<td>D03.048.001</td>
+<td>Іріктеу қайта тегістеу (1-2 тіс)</td>
+<td>546,66</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1996</td>
 <td>D03.049.001</td>
 <td>Моляр пульпитін емдеу, жарық қатаятын пломбамен аяқталған</td>
 <td>3844,01</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>0</td>
-<td></td>
-</tr>
-<tr>
-<td>1994</td>
-<td>D03.050.001</td>
-<td>Үлкен азутістің периодонтитін емдеу, жарық қатаятын пломбамен аяқталған</td>
-<td>3919,76</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>0</td>
-<td></td>
-</tr>
-<tr>
-<td>1995</td>
-<td>D03.051.001</td>
-<td>Фронталды тістің периодонтитін емдеу, жарық қатаятын пломбамен аяқталған</td>
-<td>3738,36</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>0</td>
-<td></td>
-</tr>
-<tr>
-<td>1996</td>
-<td>D03.052.001</td>
-<td>1 қаралған кезде фронталды тістің пульпитін емдеу</td>
-<td>2665,64</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>0</td>
@@ -186920,13 +186905,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1997</td>
-<td>D03.053.001</td>
-<td>Премоляр пульпитін емдеу, жарық қатаятын пломбамен аяқталған</td>
-<td>2996,14</td>
+<td>D03.050.001</td>
+<td>Үлкен азутістің периодонтитін емдеу, жарық қатаятын пломбамен аяқталған</td>
+<td>3919,76</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>0</td>
@@ -186934,13 +186919,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1998</td>
-<td>D03.054.001</td>
-<td>Премоляр периодонтитін емдеу, жарық қатаятын пломбамен аяқталған</td>
-<td>3480,49</td>
+<td>D03.051.001</td>
+<td>Фронталды тістің периодонтитін емдеу, жарық қатаятын пломбамен аяқталған</td>
+<td>3738,36</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>0</td>
@@ -186948,13 +186933,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1999</td>
-<td>D03.055.001</td>
-<td>Тістің терең жегісін емдеу жарық қатаятын пломбамен аяқталған</td>
-<td>2376,51</td>
+<td>D03.052.001</td>
+<td>1 қаралған кезде фронталды тістің пульпитін емдеу</td>
+<td>2665,64</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>0</td>
@@ -186962,13 +186947,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2000</td>
-<td>D03.056.001</td>
-<td>Тістің орта жегісін емдеу жарық қатаятын пломбамен аяқталған</td>
-<td>2104,98</td>
+<td>D03.053.001</td>
+<td>Премоляр пульпитін емдеу, жарық қатаятын пломбамен аяқталған</td>
+<td>2996,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>0</td>
@@ -186976,97 +186961,97 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2001</td>
+<td>D03.054.001</td>
+<td>Премоляр периодонтитін емдеу, жарық қатаятын пломбамен аяқталған</td>
+<td>3480,49</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>2002</td>
+<td>D03.055.001</td>
+<td>Тістің терең жегісін емдеу жарық қатаятын пломбамен аяқталған</td>
+<td>2376,51</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>2003</td>
+<td>D03.056.001</td>
+<td>Тістің орта жегісін емдеу жарық қатаятын пломбамен аяқталған</td>
+<td>2104,98</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>2004</td>
 <td>D03.057.001</td>
 <td>Штифт қосымшасын дайындау (одан әрі протездеу үшін)</td>
 <td>938,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
 <td></td>
 </tr>
 <tr>
-<td>2002</td>
+<td>2005</td>
 <td>D03.000.002</td>
 <td>Хирургиялық тәсіл</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>2003</td>
+<td>2006</td>
 <td>D03.001.002</td>
 <td>Тұратқы тісті жұлып тастау қарапайым</td>
 <td>605,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
-<td>2004</td>
+<td>2007</td>
 <td>D03.002.002</td>
 <td>Тұратқы тісті жұлып тастау күрделі</td>
 <td>843,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2005</td>
-<td>D03.003.002</td>
-<td>Альвеола өскініндегі әрекеттермен тұратқы тісті жұлып тастау</td>
-<td>1646,55</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2006</td>
-<td>D03.004.002</td>
-<td>Абсцессті ашу, кесу немесе капюшонды тілу</td>
-<td>1011,79</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2007</td>
-<td>D03.005.002</td>
-<td>Операциядан кейін таңу (тіс дәрігері)</td>
-<td>391,44</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187074,13 +187059,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2008</td>
-<td>D03.006.002</td>
-<td>Дренаждаумен іріңді жараны таңу (тіс дәрігері)</td>
-<td>1539,67</td>
+<td>D03.003.002</td>
+<td>Альвеола өскініндегі әрекеттермен тұратқы тісті жұлып тастау</td>
+<td>1646,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187088,13 +187073,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2009</td>
-<td>D03.007.002</td>
-<td>1-2 тістің айналасындағы одонтогендік жылауықты алып тастау</td>
-<td>3673,36</td>
+<td>D03.004.002</td>
+<td>Абсцессті ашу, кесу немесе капюшонды тілу</td>
+<td>1011,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187102,13 +187087,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2010</td>
-<td>D03.008.002</td>
-<td>3-4 тістің айналасындағы одонтогендік жылауықты алып тастау</td>
-<td>5300,59</td>
+<td>D03.005.002</td>
+<td>Операциядан кейін таңу (тіс дәрігері)</td>
+<td>391,44</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187116,13 +187101,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2011</td>
-<td>D03.009.002</td>
-<td>Жақтың жоғары-төменгі шыққан буынды орнына салу</td>
-<td>1088,20</td>
+<td>D03.006.002</td>
+<td>Дренаждаумен іріңді жараны таңу (тіс дәрігері)</td>
+<td>1539,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187130,27 +187115,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2012</td>
-<td>D03.010.002</td>
-<td>Тісті уақытша шиналау (6-8 тіс)</td>
-<td>1475,41</td>
+<td>D03.007.002</td>
+<td>1-2 тістің айналасындағы одонтогендік жылауықты алып тастау</td>
+<td>3673,36</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>2</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2013</td>
-<td>D03.011.002</td>
-<td>Жақтар сынған кезде шиналау бір жақ</td>
-<td>1897,96</td>
+<td>D03.008.002</td>
+<td>3-4 тістің айналасындағы одонтогендік жылауықты алып тастау</td>
+<td>5300,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187158,13 +187143,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2014</td>
-<td>D03.012.002</td>
-<td>Жақтар сынған кезде шиналау екі жақ</td>
-<td>2392,25</td>
+<td>D03.009.002</td>
+<td>Жақтың жоғары-төменгі шыққан буынды орнына салу</td>
+<td>1088,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187172,27 +187157,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2015</td>
-<td>D03.013.002</td>
-<td>Альвеолитті емдеу</td>
-<td>1247,48</td>
+<td>D03.010.002</td>
+<td>Тісті уақытша шиналау (6-8 тіс)</td>
+<td>1475,41</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>1</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>2016</td>
-<td>D03.014.002</td>
-<td>1 тістің айналасындағы альвеолоэктомия</td>
-<td>960,03</td>
+<td>D03.011.002</td>
+<td>Жақтар сынған кезде шиналау бір жақ</td>
+<td>1897,96</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187200,13 +187185,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2017</td>
-<td>D03.015.002</td>
-<td>Ұяшық нервінің невритін емдеу</td>
-<td>2319,35</td>
+<td>D03.012.002</td>
+<td>Жақтар сынған кезде шиналау екі жақ</td>
+<td>2392,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187214,13 +187199,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2018</td>
-<td>D03.016.002</td>
-<td>Невралгияны емдеу (тіс дәрігері)</td>
-<td>2352,85</td>
+<td>D03.013.002</td>
+<td>Альвеолитті емдеу</td>
+<td>1247,48</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187228,41 +187213,41 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2019</td>
-<td>D03.017.002</td>
-<td>Тістеуді ауыстыру бойынша уақытша тісті жұлып алу</td>
-<td>1049,76</td>
+<td>D03.014.002</td>
+<td>1 тістің айналасындағы альвеолоэктомия</td>
+<td>960,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
-<td></td>
+<td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2020</td>
-<td>D03.018.002</td>
-<td>Тістің асқынған жегісіне байланысты уақытша тісті жұлып алу</td>
-<td>1309,15</td>
+<td>D03.015.002</td>
+<td>Ұяшық нервінің невритін емдеу</td>
+<td>2319,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
-<td></td>
+<td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2021</td>
-<td>D03.019.002</td>
-<td>Компактостеотомиясы бар тұрақты тісті жұлу</td>
-<td>1885,45</td>
+<td>D03.016.002</td>
+<td>Невралгияны емдеу (тіс дәрігері)</td>
+<td>2352,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187270,27 +187255,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2022</td>
-<td>D03.020.002</td>
-<td>Ерін, тіл жүгеншік пластикасына операция жасау</td>
-<td>1889,15</td>
+<td>D03.017.002</td>
+<td>Тістеуді ауыстыру бойынша уақытша тісті жұлып алу</td>
+<td>1049,76</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
-<td>√</td>
+<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2023</td>
-<td>D03.021.002</td>
-<td>Цистостомия (тіс дәрігері)</td>
-<td>3974,04</td>
+<td>D03.018.002</td>
+<td>Тістің асқынған жегісіне байланысты уақытша тісті жұлып алу</td>
+<td>1309,15</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -187298,97 +187283,97 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2024</td>
+<td>D03.019.002</td>
+<td>Компактостеотомиясы бар тұрақты тісті жұлу</td>
+<td>1885,45</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2025</td>
+<td>D03.020.002</td>
+<td>Ерін, тіл жүгеншік пластикасына операция жасау</td>
+<td>1889,15</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2026</td>
+<td>D03.021.002</td>
+<td>Цистостомия (тіс дәрігері)</td>
+<td>3974,04</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2027</td>
 <td>D03.022.002</td>
 <td>Цистоэктомия (тіс дәрігері)</td>
 <td>4143,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
-<td>2025</td>
+<td>2028</td>
 <td>D03.023.002</td>
 <td>2 тістің аймағындағы компактостеотомия</td>
 <td>2055,08</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
 <td></td>
 </tr>
 <tr>
-<td>2026</td>
+<td>2029</td>
 <td>D03.024.002</td>
 <td>Тіс тамырының үстін резекциялау</td>
 <td>2615,70</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
 <td></td>
 </tr>
 <tr>
-<td>2027</td>
+<td>2030</td>
 <td>D03.025.002</td>
 <td>Ауыз қуысының жұмсақ тіндерін кесу</td>
 <td>1845,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2028</td>
-<td>D03.026.002</td>
-<td>Эпулисті алып тастау</td>
-<td>1845,59</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2029</td>
-<td>D03.027.002</td>
-<td>Ауыз қуысының шырышты қабықшасының ретенция жылауығын алып тастау</td>
-<td>2101,97</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2030</td>
-<td>D03.028.002</td>
-<td>Жинақтан тыс тісті жұлу, асқынған</td>
-<td>1983,97</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187396,27 +187381,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2031</td>
-<td>D03.029.002</td>
-<td>Жинақтан тыс тісті жұлу, асқынған емес</td>
-<td>1562,53</td>
+<td>D03.026.002</td>
+<td>Эпулисті алып тастау</td>
+<td>1845,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>2</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2032</td>
-<td>D03.030.002</td>
-<td>Бір аймақта бірнеше тісті жұлу (2-3 тіс)</td>
-<td>1838,79</td>
+<td>D03.027.002</td>
+<td>Ауыз қуысының шырышты қабықшасының ретенция жылауығын алып тастау</td>
+<td>2101,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187424,13 +187409,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2033</td>
-<td>D03.031.002</td>
-<td>Альвеола өскінінің қатерсіз өспелерін алып тастау</td>
-<td>1632,08</td>
+<td>D03.028.002</td>
+<td>Жинақтан тыс тісті жұлу, асқынған</td>
+<td>1983,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187438,27 +187423,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2034</td>
-<td>D03.032.002</td>
-<td>Ауыз қуысының жұмсақ тіндерінің қатерсіз өспелерін алып тастау</td>
-<td>2100,73</td>
+<td>D03.029.002</td>
+<td>Жинақтан тыс тісті жұлу, асқынған емес</td>
+<td>1562,53</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>1</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>2035</td>
-<td>D03.033.002</td>
-<td>Сілекей безі ауруларын емдеу: сілекей безінің ағынын барлау</td>
-<td>770,35</td>
+<td>D03.030.002</td>
+<td>Бір аймақта бірнеше тісті жұлу (2-3 тіс)</td>
+<td>1838,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187466,13 +187451,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2036</td>
-<td>D03.034.002</td>
-<td>Бет-жақ аумағы (БЖА) жарасын бастапқы хирургиялық өңдеу</td>
-<td>1469,50</td>
+<td>D03.031.002</td>
+<td>Альвеола өскінінің қатерсіз өспелерін алып тастау</td>
+<td>1632,08</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187480,13 +187465,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2037</td>
-<td>D03.035.002</td>
-<td>Ауыз қуысы алдының пластикасын операциялау</td>
-<td>3697,73</td>
+<td>D03.032.002</td>
+<td>Ауыз қуысының жұмсақ тіндерінің қатерсіз өспелерін алып тастау</td>
+<td>2100,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187494,41 +187479,41 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2038</td>
-<td>D03.036.002</td>
-<td>Тісті шығарып алғандағы тегістеумен оны репозициялау және бекіту</td>
-<td>1797,82</td>
+<td>D03.033.002</td>
+<td>Сілекей безі ауруларын емдеу: сілекей безінің ағынын барлау</td>
+<td>770,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>2</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2039</td>
-<td>D03.037.002</td>
-<td>Тіс-жақ ауытқуларын жоюға арналған аппаратты қолданумен (ортодонтикалық пластика) туа біткен жақ-бет патологиясы бар бараларға ортодонтикалық көмек</td>
-<td>3902,63</td>
+<td>D03.034.002</td>
+<td>Бет-жақ аумағы (БЖА) жарасын бастапқы хирургиялық өңдеу</td>
+<td>1469,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
-<td></td>
+<td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2040</td>
-<td>D03.038.002</td>
-<td>Гемисекция</td>
-<td>767,41</td>
+<td>D03.035.002</td>
+<td>Ауыз қуысы алдының пластикасын операциялау</td>
+<td>3697,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187536,69 +187521,69 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2041</td>
-<td>D03.000.003</td>
-<td>Профилактикалық тәсіл</td>
+<td>D03.036.002</td>
+<td>Тісті шығарып алғандағы тегістеумен оны репозициялау және бекіту</td>
+<td>1797,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>2042</td>
-<td>D03.001.003</td>
-<td>Миотерапия (1 сеанс)</td>
-<td>854,20</td>
+<td>D03.037.002</td>
+<td>Тіс-жақ ауытқуларын жоюға арналған аппаратты қолданумен (ортодонтикалық пластика) туа біткен жақ-бет патологиясы бар бараларға ортодонтикалық көмек</td>
+<td>3902,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>2043</td>
-<td>D03.002.003</td>
-<td>Реминералды препараттарды жергілікті қолдану</td>
-<td>617,78</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>2044</td>
-<td>D03.003.003</td>
-<td>Сүт тістерін фторлакпен жабу</td>
-<td>622,75</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
+<td>2043</td>
+<td>D03.038.002</td>
+<td>Гемисекция</td>
+<td>767,41</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2044</td>
+<td>D03.000.003</td>
+<td>Профилактикалық тәсіл</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>2045</td>
-<td>D03.004.003</td>
-<td>Бір тісті фтор-цемент аппликациясының сеансы</td>
-<td>515,93</td>
+<td>D03.001.003</td>
+<td>Миотерапия (1 сеанс)</td>
+<td>854,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -187606,13 +187591,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2046</td>
-<td>D03.005.003</td>
-<td>Уақытша тістердің төмпешіктерін тегістеу</td>
-<td>526,90</td>
+<td>D03.002.003</td>
+<td>Реминералды препараттарды жергілікті қолдану</td>
+<td>617,78</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -187620,27 +187605,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2047</td>
-<td>D03.006.003</td>
-<td>Бір тісті герметиктермен фиссурлерді жабу</td>
-<td>598,14</td>
+<td>D03.003.003</td>
+<td>Сүт тістерін фторлакпен жабу</td>
+<td>622,75</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
-<td>2</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2048</td>
-<td>D03.007.003</td>
-<td>Уақытша тістерді сепарациялау</td>
-<td>576,63</td>
+<td>D03.004.003</td>
+<td>Бір тісті фтор-цемент аппликациясының сеансы</td>
+<td>515,93</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -187648,139 +187633,139 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2049</td>
+<td>D03.005.003</td>
+<td>Уақытша тістердің төмпешіктерін тегістеу</td>
+<td>526,90</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>2050</td>
+<td>D03.006.003</td>
+<td>Бір тісті герметиктермен фиссурлерді жабу</td>
+<td>598,14</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>2051</td>
+<td>D03.007.003</td>
+<td>Уақытша тістерді сепарациялау</td>
+<td>576,63</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>2052</td>
 <td>D03.008.003</td>
 <td>Балалар мектепке дейінгі ұйымдарда, білім беру ұйымдарындағы балалардың, жалпы білім беру ұйымдарының оқушыларының, жүктілігі бойынша есепте тұрған әйелдердің ауыз қуысын профилактикалық тексеріп-қараулар</td>
 <td>780,64</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2">√</td>
 <td>√</td>
-<td>√</td>
-<td></td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2050</td>
-<td>D03.009.003</td>
-<td>Балаларды тісті және ауыз қуысының шырышты қабығын күту бойынша санитариялық-гигиеналық дағдыларға оқыту</td>
-<td>325,71</td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td></td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2051</td>
-<td>D04.000.000</td>
-<td>СӨС шаралары</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2052</td>
-<td>D04.001.000</td>
-<td>Профилактикалық кабинеттерде, сауықтыру мектептерінде оқыту</td>
-<td>1244,18</td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td></td>
 <td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2053</td>
-<td>D04.002.000</td>
-<td>Созылмалы ауруларды басқару бағдарламаларына сәйкес науқастарды және олардың отбасы мүшелерін өзін-өзі бақылауға, өз-өзіне және өзара көмекке оқыту</td>
-<td>469,90</td>
+<td>D03.009.003</td>
+<td>Балаларды тісті және ауыз қуысының шырышты қабығын күту бойынша санитариялық-гигиеналық дағдыларға оқыту</td>
+<td>325,71</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2">√</td>
 <td>√</td>
-<td></td>
 <td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2054</td>
-<td>D04.003.000</td>
-<td>&quot;Тікелей желі&quot; телефонының бойынша консультациясы</td>
-<td>435,67</td>
+<td>D04.000.000</td>
+<td>СӨС шаралары</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2055</td>
+<td>D04.001.000</td>
+<td>Профилактикалық кабинеттерде, сауықтыру мектептерінде оқыту</td>
+<td>1244,18</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
-<td>2055</td>
+<td>2056</td>
+<td>D04.002.000</td>
+<td>Созылмалы ауруларды басқару бағдарламаларына сәйкес науқастарды және олардың отбасы мүшелерін өзін-өзі бақылауға, өз-өзіне және өзара көмекке оқыту</td>
+<td>469,90</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">√</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2057</td>
+<td>D04.003.000</td>
+<td>&quot;Тікелей желі&quot; телефонының бойынша консультациясы</td>
+<td>435,67</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">√</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2058</td>
 <td></td>
 <td>СКРИНИНГОВЫЕ ИССЛЕДОВАНИЯ</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2056</td>
-<td></td>
-<td>Пренатальный скрининг</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2057</td>
-<td>B03.549.002</td>
-<td>Жүктіліктің 1- триместрінде қанның құрғаққалдығына және/немесе қан сарысуына талдауышта пренатальді скрининг жүргізу (β-бірлікті созылмалы гонадотропинді (β-СГЧ) және жүктілікпен байланысты (ПАПП-А) плацентарлық протеинді анықтау үшін екілік тестілеу)</td>
-<td>5354,14</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>2058</td>
-<td></td>
-<td>Неонатальный скрининг</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -187788,41 +187773,41 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2059</td>
-<td>B03.803.002</td>
-<td>Қандағы туа біткен гипотиреозге неонаталдық скринингті талдауышта жүргізу</td>
-<td>2232,29</td>
+<td></td>
+<td>Пренатальный скрининг</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>2060</td>
-<td>B03.804.002</td>
-<td>Қандағы фенилкетонурияға неонаталдық скринингті талдауышта жүргізу</td>
-<td>2140,03</td>
+<td>B03.549.002</td>
+<td>Жүктіліктің 1- триместрінде қанның құрғаққалдығына және/немесе қан сарысуына талдауышта пренатальді скрининг жүргізу (β-бірлікті созылмалы гонадотропинді (β-СГЧ) және жүктілікпен байланысты (ПАПП-А) плацентарлық протеинді анықтау үшін екілік тестілеу)</td>
+<td>5354,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>1</td>
-<td></td>
+<td>2</td>
+<td>√</td>
 </tr>
 <tr>
 <td>2061</td>
 <td></td>
-<td>Скрининг на выявление колоректального рака</td>
+<td>Неонатальный скрининг</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -187830,13 +187815,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2062</td>
-<td>B03.103.003</td>
-<td>Экспресс әдіспен нәжістегі жасырын қанды айқындау (гемокульт-тест)</td>
-<td>1170,57</td>
+<td>B03.803.002</td>
+<td>Қандағы туа біткен гипотиреозге неонаталдық скринингті талдауышта жүргізу</td>
+<td>2232,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187844,13 +187829,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2063</td>
-<td>C01.037.001</td>
-<td>Скринигтік тотальді видеоколоноскопия</td>
-<td>7408,87</td>
+<td>B03.804.002</td>
+<td>Қандағы фенилкетонурияға неонаталдық скринингті талдауышта жүргізу</td>
+<td>2140,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187858,27 +187843,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2064</td>
-<td>C01.027.001</td>
-<td>Эндоскопиялық шертпелі биопсия</td>
-<td>280,01</td>
+<td></td>
+<td>Скрининг на выявление колоректального рака</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>2065</td>
-<td>B08.737.001</td>
-<td>Күрделілігі 3 санат ота-биопсиялық материалдың 1блок- препаратын гистологиялық зерттеу</td>
-<td>2424,05</td>
+<td>B03.103.003</td>
+<td>Экспресс әдіспен нәжістегі жасырын қанды айқындау (гемокульт-тест)</td>
+<td>1170,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187886,13 +187871,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2066</td>
-<td>D99.295.007</td>
-<td>Венаішілік наркоз</td>
-<td>1986,58</td>
+<td>C01.037.001</td>
+<td>Скринигтік тотальді видеоколоноскопия</td>
+<td>7408,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187900,27 +187885,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2067</td>
-<td></td>
-<td>Скрининг на выявление рака шейки матки</td>
-<td></td>
-<td></td>
-<td></td>
+<td>C01.027.001</td>
+<td>Эндоскопиялық шертпелі биопсия</td>
+<td>280,01</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2068</td>
-<td>D91.496.105</td>
-<td>Онкоцитологияға жағындыны жинау</td>
-<td>124,21</td>
+<td>B08.737.001</td>
+<td>Күрделілігі 3 санат ота-биопсиялық материалдың 1блок- препаратын гистологиялық зерттеу</td>
+<td>2424,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187928,13 +187913,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2069</td>
-<td>B08.749.002</td>
-<td>Сұйықтық цитологиясы құралында ПАП-тестілеу жатыр мойнынан жағындыны цитологиялық зерттеу</td>
-<td>3703,20</td>
+<td>D99.295.007</td>
+<td>Венаішілік наркоз</td>
+<td>1986,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187943,12 +187928,12 @@ SF-RI 1 (сурфактант)
 <tr>
 <td>2070</td>
 <td></td>
-<td>Скрининг на выявление гепатитов В и С (дети, взрослые)</td>
+<td>Скрининг на выявление рака шейки матки</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -187956,13 +187941,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2071</td>
-<td>D99.293.012</td>
-<td>Венадан қан алу</td>
-<td>138,91</td>
-<td>2</td>
+<td>D91.496.105</td>
+<td>Онкоцитологияға жағындыны жинау</td>
+<td>124,21</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187970,13 +187955,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2072</td>
-<td>B06.125.005</td>
-<td>ИФТ-әдісімен қан сарысуында HBsAg анықтау</td>
-<td>411,20</td>
+<td>B08.749.002</td>
+<td>Сұйықтық цитологиясы құралында ПАП-тестілеу жатыр мойнынан жағындыны цитологиялық зерттеу</td>
+<td>3703,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187984,111 +187969,111 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2073</td>
+<td></td>
+<td>Скрининг на выявление гепатитов В и С (дети, взрослые)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2074</td>
+<td>D99.293.012</td>
+<td>Венадан қан алу</td>
+<td>138,91</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2">√</td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2075</td>
+<td>B06.125.005</td>
+<td>ИФТ-әдісімен қан сарысуында HBsAg анықтау</td>
+<td>411,20</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2076</td>
 <td>B06.469.005</td>
 <td>ИФТ-әдісімен қан сарысуында C гепатитының вирусына сомалық антиденелерді анықтау (растайтын)</td>
 <td>445,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
-<td>2074</td>
+<td>2077</td>
 <td>B09.841.020</td>
 <td>ПТР әдісімен биологиялық материалда B гепатиті вирусының ДНҚ анықтау</td>
 <td>1852,98</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
 <td>√</td>
 </tr>
 <tr>
-<td>2075</td>
+<td>2078</td>
 <td>B09.820.020</td>
 <td>ПТР әдісімен биологиялық материалда C гепатиті вирусының PHK анықтау</td>
 <td>2548,09</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
 <td>√</td>
 </tr>
 <tr>
-<td>2076</td>
+<td>2079</td>
 <td></td>
 <td>Скрининг на выявление рака молочной железы</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>2077</td>
+<td>2080</td>
 <td>C03.018.004</td>
 <td>Емшек безінің УДЗ</td>
 <td>1378,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2078</td>
-<td>C03.084.005</td>
-<td>Нысаналы маммография (1 кескінде)</td>
-<td>2016,42</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2079</td>
-<td>D99.294.006</td>
-<td>Инфильтрациялық анестезия</td>
-<td>1330,50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2080</td>
-<td>D41.312.427</td>
-<td>Трепанобиопсия</td>
-<td>8644,38</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -188096,13 +188081,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2081</td>
-<td>B08.737.001</td>
-<td>Күрделілігі 3 санат ота-биопсиялық материалдың 1блок- препаратын гистологиялық зерттеу</td>
-<td>2424,05</td>
+<td>C03.084.005</td>
+<td>Нысаналы маммография (1 кескінде)</td>
+<td>2016,42</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -188110,13 +188095,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2082</td>
-<td>A02.074.000</td>
-<td>Консультация (рентгенограмманың 2 читкасы): Рентгенолог</td>
-<td>305,36</td>
+<td>D99.294.006</td>
+<td>Инфильтрациялық анестезия</td>
+<td>1330,50</td>
 <td></td>
 <td></td>
-<td>√</td>
 <td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -188124,27 +188109,27 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2083</td>
-<td></td>
-<td>Скрининг на раннее выявление Артериальной гипертензии, Ишемической болезни сердца</td>
-<td></td>
-<td></td>
-<td></td>
+<td>D41.312.427</td>
+<td>Трепанобиопсия</td>
+<td>8644,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2084</td>
-<td>B03.401.003</td>
-<td>Экспресс әдіспен қан сарысуында жалпы холестеринді анықтау</td>
-<td>603,99</td>
+<td>B08.737.001</td>
+<td>Күрделілігі 3 санат ота-биопсиялық материалдың 1блок- препаратын гистологиялық зерттеу</td>
+<td>2424,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -188152,13 +188137,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2085</td>
-<td>A02.015.000</td>
-<td>Консультация: Кардиолог</td>
-<td>885,80</td>
+<td>A02.074.000</td>
+<td>Консультация (рентгенограмманың 2 читкасы): Рентгенолог</td>
+<td>305,36</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -188166,41 +188151,41 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2086</td>
-<td>C02.001.000</td>
-<td>Электрокардиографиялық зертттеу (12 жалғамда)</td>
-<td>462,13</td>
+<td></td>
+<td>Скрининг на раннее выявление Артериальной гипертензии, Ишемической болезни сердца</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2087</td>
+<td>B03.401.003</td>
+<td>Экспресс әдіспен қан сарысуында жалпы холестеринді анықтау</td>
+<td>603,99</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
-<td>2087</td>
-<td></td>
-<td>Скрининг на раннее выявление сахарного диабета</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>2088</td>
-<td>A02.021.000</td>
-<td>Консультация: Эндокринолог</td>
-<td>900,30</td>
+<td>A02.015.000</td>
+<td>Консультация: Кардиолог</td>
+<td>885,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -188208,13 +188193,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2089</td>
-<td>B03.335.003</td>
-<td>Экспресс әдіспен қан сарысуында глюкозаны анықтау</td>
-<td>81,57</td>
+<td>C02.001.000</td>
+<td>Электрокардиографиялық зертттеу (12 жалғамда)</td>
+<td>462,13</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -188223,12 +188208,12 @@ SF-RI 1 (сурфактант)
 <tr>
 <td>2090</td>
 <td></td>
-<td>Скрининг детей раннего возраста на выявление врожденной и наследственной патологии слуха</td>
+<td>Скрининг на раннее выявление сахарного диабета</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -188236,13 +188221,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2091</td>
-<td>D95.470.223</td>
-<td>Отоакустикалық эмиссиямен шақырылған ұсталымдарды тіркеу</td>
-<td>147,63</td>
+<td>A02.021.000</td>
+<td>Консультация: Эндокринолог</td>
+<td>900,30</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -188250,41 +188235,41 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2092</td>
-<td></td>
-<td>Скрининг на раннее выявление глаукомы</td>
-<td></td>
-<td></td>
-<td></td>
+<td>B03.335.003</td>
+<td>Экспресс әдіспен қан сарысуында глюкозаны анықтау</td>
+<td>81,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2093</td>
-<td>D89.111.331</td>
-<td>Маклаков бойынша көзішілік жанасқан қысымды өлшеу (1 көз)</td>
-<td>517,17</td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
+<td>2093</td>
+<td></td>
+<td>Скрининг детей раннего возраста на выявление врожденной и наследственной патологии слуха</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>2094</td>
-<td>D89.113.338</td>
-<td>Көзішілік қысымды өлшеу жанаспаған (1 көз)</td>
-<td>281,80</td>
+<td>D95.470.223</td>
+<td>Отоакустикалық эмиссиямен шақырылған ұсталымдарды тіркеу</td>
+<td>147,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -188292,13 +188277,55 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>2095</td>
+<td></td>
+<td>Скрининг на раннее выявление глаукомы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2096</td>
+<td>D89.111.331</td>
+<td>Маклаков бойынша көзішілік жанасқан қысымды өлшеу (1 көз)</td>
+<td>517,17</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">√</td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2097</td>
+<td>D89.113.338</td>
+<td>Көзішілік қысымды өлшеу жанаспаған (1 көз)</td>
+<td>281,80</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2098</td>
 <td>A02.023.000</td>
 <td>Консультация: Офтальмолог</td>
 <td>800,62</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -188323,21 +188350,20 @@ SF-RI 1 (сурфактант)
 ***0 – қызмет ТМККК-ға қосылмаған; 1 - қызмет ТМККК-ға қосылған; 2 – қызмет «Тегін медициналық көмектің кепілдік берілген көлемінің тізбесін бекіту туралы» Қазақстан Республикасы Үкіметінің 2009 жылғы 15 желтоқсандағы № 2136 қаулысымен айқындалған халықтың жекелеген санаттары үшін ТМККК-ға қосылған.
 
 > *Тегін медициналық көмектің кепілдік*  
-> *берілген көлемі шеңберінде және*  
+> *берілген көлемінің шеңберінде және*  
 > *міндетті әлеуметтік медициналық*  
-> *сақтандыру жүйесінде көрсетілетін медициналық қызметтерге тарифтерге*  
+> *сақтандыру бойынша медициналық*  
+> *қызметтерге тарифтерге*  
 > *1-қосымша*
 
 ## Жылу беру маусымының ұзақтығының коэффициенттері
-
-> *Ескерту. 1-қосымша жаңа редакцияда - ҚР Денсаулық сақтау министрінің 06.11.2018 № ҚР ДСМ-31 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
 <td>№</td>
 <td>Өңірдің коды</td>
-<td>Өңір</td>
-<td>Жылу беру маусымы ұзақтығының коэффициенті</td>
+<td>Аймақ</td>
+<td>Жылыту маусымы ұзақтығының коэффициенті</td>
 </tr>
 <tr>
 <td>1</td>
@@ -188430,249 +188456,292 @@ SF-RI 1 (сурфактант)
 </table>
 
 > *Тегін медициналық көмектің кепілдік*  
-> *берілген көлемі шеңберінде және*  
+> *берілген көлемінің шеңберінде және*  
 > *міндетті әлеуметтік медициналық*  
-> *сақтандыру жүйесінде көрсетілетін медициналық қызметтерге тарифтерге*  
+> *сақтандыру бойынша медициналық*  
+> *қызметтерге тарифтерге*  
 > *2-қосымша*
 
 ## Экологиялық коэффициенттер
 
-> *Ескерту. 2-қосымша жаңа редакцияда - ҚР Денсаулық сақтау министрінің 06.11.2018 № ҚР ДСМ-31 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
-
 <table>
 <tr>
 <td>Өңірдің коды</td>
-<td>Облыс</td>
-<td colspan="3">Өңір</td>
-<td colspan="3">Коэффициент</td>
+<td></td>
+<td>Облысы</td>
+<td>Аймақ</td>
+<td>Коэффициент</td>
 </tr>
 <tr>
 <td>1</td>
+<td></td>
 <td>2</td>
-<td colspan="3">3</td>
-<td colspan="3">4</td>
+<td>3</td>
+<td>4</td>
 </tr>
 <tr>
 <td>1536</td>
+<td></td>
 <td rowspan="5">Ақтөбе облысы</td>
-<td colspan="3">Байған ауданы</td>
-<td colspan="3">1,0779</td>
+<td>Байған ауданы</td>
+<td>1,0779</td>
 </tr>
 <tr>
 <td>1548</td>
-<td colspan="3">Мұғалжар ауданы</td>
-<td colspan="3">1,0779</td>
+<td></td>
+<td>Мұғалжар ауданы</td>
+<td>1,0779</td>
 </tr>
 <tr>
 <td>1556</td>
-<td colspan="3">Темір ауданы</td>
-<td colspan="3">1,0779</td>
+<td></td>
+<td>Темір ауданы</td>
+<td>1,0779</td>
 </tr>
 <tr>
 <td>1564</td>
-<td colspan="3">Шалқар ауданы</td>
-<td colspan="3">1,2595</td>
+<td></td>
+<td>Шалқар ауданы</td>
+<td>1,2595</td>
 </tr>
 <tr>
 <td>1568</td>
-<td colspan="3">Ырғыз ауданы</td>
-<td colspan="3">1,0779</td>
+<td></td>
+<td>Ырғыз ауданы</td>
+<td>1,0779</td>
 </tr>
 <tr>
 <td>3560</td>
+<td></td>
 <td rowspan="2">Қарағанды облысы</td>
-<td colspan="3">Ұлытау ауданы</td>
-<td colspan="3">1,0779</td>
+<td>Ұлытау ауданы</td>
+<td>1,0779</td>
 </tr>
 <tr>
 <td>3548</td>
-<td colspan="3">Қарқаралы ауданы</td>
-<td colspan="3">1,0243</td>
+<td></td>
+<td>Қарқаралы ауданы</td>
+<td>1,0243</td>
 </tr>
 <tr>
 <td>4310</td>
+<td></td>
 <td rowspan="9">Қызылорда облысы</td>
-<td colspan="3">Қызылорда қ.</td>
-<td colspan="3">1,1557</td>
+<td>Қызылорда қ.</td>
+<td>1,1557</td>
 </tr>
 <tr>
 <td>4319</td>
-<td colspan="3">Байқоңыр қ.</td>
-<td colspan="3">1,1557</td>
+<td></td>
+<td>Байқоңыр қ.</td>
+<td>1,1557</td>
 </tr>
 <tr>
 <td>4332</td>
-<td colspan="3">Арал ауданы</td>
-<td colspan="3">1,2595</td>
+<td></td>
+<td>Арал ауданы</td>
+<td>1,2595</td>
 </tr>
 <tr>
 <td>4336</td>
-<td colspan="3">Жалағаш ауданы</td>
-<td colspan="3">1,1557</td>
+<td></td>
+<td>Жалағаш ауданы</td>
+<td>1,1557</td>
 </tr>
 <tr>
 <td>4340</td>
-<td colspan="3">Жаңақорған ауданы</td>
-<td colspan="3">1,1557</td>
+<td></td>
+<td>Жаңақорған ауданы</td>
+<td>1,1557</td>
 </tr>
 <tr>
 <td>4344</td>
-<td colspan="3">Қазалы ауданы</td>
-<td colspan="3">1,2595</td>
+<td></td>
+<td>Қазалы ауданы</td>
+<td>1,2595</td>
 </tr>
 <tr>
 <td>4346</td>
-<td colspan="3">Қармақшы ауданы</td>
-<td colspan="3">1,1557</td>
+<td></td>
+<td>Қармақшы ауданы</td>
+<td>1,1557</td>
 </tr>
 <tr>
 <td>4348</td>
-<td colspan="3">Сырдария ауданы</td>
-<td colspan="3">1,1557</td>
+<td></td>
+<td>Сырдария ауданы</td>
+<td>1,1557</td>
 </tr>
 <tr>
 <td>4352</td>
-<td colspan="3">Шілікті ауданы</td>
-<td colspan="3">1,1557</td>
+<td></td>
+<td>Шілікті ауданы</td>
+<td>1,1557</td>
 </tr>
 <tr>
 <td>5116</td>
+<td></td>
 <td rowspan="5">Түркістан облысы</td>
-<td colspan="3">Арыс қ.</td>
-<td colspan="3">1,0779</td>
+<td>Арыс қ.</td>
+<td>1,0779</td>
 </tr>
 <tr>
 <td>5126</td>
-<td colspan="3">Түркістан қ.</td>
-<td colspan="3">1,0779</td>
+<td></td>
+<td>Түркістан қ.</td>
+<td>1,0779</td>
 </tr>
 <tr>
 <td>5148</td>
-<td colspan="3">Отырар ауданы</td>
-<td colspan="3">1,0779</td>
+<td></td>
+<td>Отырар ауданы</td>
+<td>1,0779</td>
 </tr>
 <tr>
 <td>5156</td>
-<td colspan="3">Созақ ауданы</td>
-<td colspan="3">1,0779</td>
+<td></td>
+<td>Созақ ауданы</td>
+<td>1,0779</td>
 </tr>
 <tr>
 <td>5164</td>
-<td colspan="3">Шардара ауданы</td>
-<td colspan="3">1,0779</td>
+<td></td>
+<td>Шардара ауданы</td>
+<td>1,0779</td>
 </tr>
 <tr>
 <td>6332</td>
-<td rowspan="6">Шығыс Қазақстан облысы</td>
-<td colspan="3">Абай ауданы</td>
-<td colspan="3">1,0283</td>
+<td></td>
+<td rowspan="19">Шығыс Қазақстан облысы</td>
+<td>Абай ауданы</td>
+<td>1,0283</td>
 </tr>
 <tr>
 <td>6318</td>
-<td colspan="3">Аягөз қ.</td>
-<td colspan="3">1,0243</td>
+<td></td>
+<td>Аягөз қ.</td>
+<td>1,0243</td>
 </tr>
 <tr>
 <td>6334</td>
-<td colspan="3">Аягөз ауданы</td>
-<td colspan="3">1,0243</td>
+<td></td>
+<td>Аягөз ауданы</td>
+<td>1,0243</td>
 </tr>
 <tr>
 <td>6336</td>
-<td colspan="3">Бесқарағай ауданы</td>
-<td colspan="3">1,0283</td>
+<td></td>
+<td>Бесқарағай ауданы</td>
+<td>1,0283</td>
 </tr>
 <tr>
 <td>6338</td>
-<td colspan="3">Бородулиха ауданы</td>
-<td colspan="3">1,0243</td>
+<td></td>
+<td>Бородулиха ауданы</td>
+<td>1,0243</td>
 </tr>
 <tr>
 <td>6340</td>
-<td colspan="3">Глубоковск ауданы</td>
-<td colspan="3">1,0243</td>
+<td></td>
+<td>Глубоковск ауданы</td>
+<td>1,0243</td>
 </tr>
 <tr>
 <td>6344</td>
-<td rowspan="13"></td>
-<td colspan="3">Жарма ауданы</td>
-<td colspan="3">1,0243</td>
+<td></td>
+<td>Жарма ауданы</td>
+<td>1,0243</td>
 </tr>
 <tr>
 <td>6346</td>
-<td colspan="3">Зайсан ауданы</td>
-<td colspan="3">1,0202</td>
+<td></td>
+<td>Зайсан ауданы</td>
+<td>1,0202</td>
 </tr>
 <tr>
 <td>6320</td>
-<td colspan="3">Зырян қ.</td>
-<td colspan="3">1,0202</td>
+<td></td>
+<td>Зырян қ.</td>
+<td>1,0202</td>
 </tr>
 <tr>
 <td>6348</td>
-<td colspan="3">Зырян ауданы</td>
-<td colspan="3">1,0202</td>
+<td></td>
+<td>Зырян ауданы</td>
+<td>1,0202</td>
 </tr>
 <tr>
 <td>6350</td>
-<td colspan="3">Көкпекті ауданы</td>
-<td colspan="3">1,0202</td>
+<td></td>
+<td>Көкпекті ауданы</td>
+<td>1,0202</td>
 </tr>
 <tr>
 <td>6322</td>
-<td colspan="3">Курчатов қ.</td>
-<td colspan="3">1,0243</td>
+<td></td>
+<td>Курчатов қ.</td>
+<td>1,0243</td>
 </tr>
 <tr>
 <td>6324</td>
-<td colspan="3">Риддер қ.</td>
-<td colspan="3">1,0243</td>
+<td></td>
+<td>Риддер қ.</td>
+<td>1,0243</td>
 </tr>
 <tr>
 <td>6328</td>
-<td colspan="3">Семей қ.</td>
-<td colspan="3">1,0243</td>
+<td></td>
+<td>Семей қ.</td>
+<td>1,0243</td>
 </tr>
 <tr>
 <td>6358</td>
-<td colspan="3">Тарбағатай ауданы</td>
-<td colspan="3">1,0202</td>
+<td></td>
+<td>Тарбағатай ауданы</td>
+<td>1,0202</td>
 </tr>
 <tr>
 <td>6362</td>
-<td colspan="3">Ұлан ауданы</td>
-<td colspan="3">1,0243</td>
+<td></td>
+<td>Ұлан ауданы</td>
+<td>1,0243</td>
 </tr>
 <tr>
 <td>6364</td>
-<td colspan="3">Ұржар ауданы</td>
-<td colspan="3">1,0202</td>
+<td></td>
+<td>Ұржар ауданы</td>
+<td>1,0202</td>
 </tr>
 <tr>
 <td>6368</td>
-<td colspan="3">Шемонайха ауданы</td>
-<td colspan="3">1,0243</td>
+<td></td>
+<td>Шемонайха ауданы</td>
+<td>1,0243</td>
 </tr>
 <tr>
 <td>6310</td>
-<td colspan="3">Өскемен қ.</td>
-<td colspan="3">1,0243</td>
+<td></td>
+<td>Өскемен қ.</td>
+<td>1,0243</td>
 </tr>
 <tr>
 <td>5552</td>
+<td></td>
 <td rowspan="3">Павлодар облысы</td>
-<td colspan="3">Аққу ауданы</td>
-<td colspan="3">1,0202</td>
+<td>Аққу ауданы</td>
+<td>1,0202</td>
 </tr>
 <tr>
 <td>5556</td>
-<td colspan="3">Мамыр ауданы</td>
-<td colspan="3">1,0243</td>
+<td></td>
+<td>Мамыр ауданы</td>
+<td>1,0243</td>
 </tr>
 <tr>
 <td>5536</td>
-<td colspan="3">Баянауыл ауданы</td>
-<td colspan="3">1,0162</td>
+<td></td>
+<td>Баянауыл ауданы</td>
+<td>1,0162</td>
 </tr>
 </table>
 
@@ -188680,7 +188749,7 @@ SF-RI 1 (сурфактант)
 > *берілген көлемінің шеңберінде және*  
 > *міндетті әлеуметтік медициналық*  
 > *сақтандыру бойынша медициналық*  
-> *қызметтерге тарифтер*  
+> *қызметтерге тарифтерге*  
 > *3-қосымша*
 
 ## Халықаралық бірлескен комиссияның (JCI, АҚШ) стандарттары бойынша аккредиттеуден өту туралы күәлігі бар медициналық көмек көрсететін ұйымдар үшін коэффициенті, тегін медициналық көмектің кепілдік берілген көлемінің шеңберінде және міндетті әлеуметтік медициналық сақтандыру бойынша медициналық қызметтеріне тарифтер
@@ -189230,6 +189299,8 @@ SF-RI 1 (сурфактант)
 
 ## Шығындарын өтеу қан компоненттеріне зерттеулер жүргізуге және тіндерді иммунологиялық типтеу саласындағы қызметтер (HLA-зерттеулер), қан қызметіндегі референс-зерттеулер, плаценталық қаннан гемопоэздік дің жасушаларын бөлу және донорлық қан компомоненттерін өндіру бойынша жүзеге асырылатын, тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік медициналық сақтандыру жүйесінде көрсетілетін медициналық қызметтерге тарифтер
 
+> *Ескерту. Тарифтер жаңа редакцияда - ҚР Денсаулық сақтау министрінің 25.12.2018 № ҚР ДСМ-45 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+
 <table>
 <tr>
 <td>№</td>
@@ -189438,7 +189509,7 @@ SF-RI 1 (сурфактант)
 <tr>
 <td>33</td>
 <td>Альбумин (10% - 20мл)</td>
-<td>ампулы</td>
+<td>ампула</td>
 <td>2 100</td>
 </tr>
 <tr>
@@ -189603,17 +189674,54 @@ SF-RI 1 (сурфактант)
 <td>қызмет</td>
 <td>36 747</td>
 </tr>
+<tr>
+<td>61</td>
+<td>Біріктірілген жаңа мұздатылған монодонорлық,лейкофильтрленген, вирустазартылған плазма</td>
+<td>доза</td>
+<td>64 297</td>
+</tr>
+<tr>
+<td>62</td>
+<td>Біріктірілген жаңа мұздатылған монодонорлық аферездік лейкофильтрленген, вирустазартылған плазма</td>
+<td>доза</td>
+<td>64 297</td>
+</tr>
+<tr>
+<td>63</td>
+<td>Біріктірілген жаңа мұздатылған полидонорлық лейкофильтрленген, вирустазартылған плазма</td>
+<td>доза</td>
+<td>66 767</td>
+</tr>
+<tr>
+<td>64</td>
+<td>Біріктірілген жаңа мұздатылған полидонорлық аферездік лейкофильтрленген, вирустазартылған плазма</td>
+<td>доза</td>
+<td>66 767</td>
+</tr>
 </table>
 
 Ескертпе:
 
-Қан компонеттеріне және облыстардың, республикалық маңызы бар қаланың және астананың деңгейінде өтетін зерттеулерге арналған тарифтер (бұдан әрі - қан компонеттеріне арналған тарифтер) осы Тегін медициналық көмектің кепілдік берілген көлемі шеңберінде ұсынылатын, республикалық бюджеттен қаржыландырылатын медициналық қызметтерге арналған тарифтерді қалыптастыру әдістемесіне сәйкес мынадай түзету коэффиценттерін ескере отырып айқындалады:
+Қан компонеттеріне және облыстардың, республикалық маңызы бар қаланың және астананың деңгейінде өтетін зерттеулерге арналған тарифтер (бұдан әрі - қан компонеттеріне арналған тарифтер) мынадай түзету коэффиценттерін ескере отырып айқындалады:
 
 Осы қан компонеттеріне арналған тарифтерге 1-қосымшаға сәйкес экологиялық коэффициенттер;
 
 Осы қан компонеттеріне арналған тарифтерге 2-қосымшаға сәйкес қан қызметі ұйымдарында өндірілетін қан компоненттерінің құнына ғимаратты ұстауға арналған коэффициент.
 
-> *Тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік медициналық сақтандыру жүйесінде тіндерді иммунологиялық типтеу саласында зерттеулер жүргізу (HLA-зерттеулер) бойынша, қаң қызметінде референс-зерттеулер, плаценталық қаннан гемопоэздік дің жасушалары концентратын бөлу және донорлық қан компомоненттерін өндіру бойынша қызметтеріне арналған тарифтерге*  
+> *Шығындарын өтеу қан компоненттеріне*  
+> *зерттеулер жүргізуге және тіндерді*  
+> *иммунологиялық типтеу саласындағы*  
+> *қызметтер (HLA-зерттеулер),*  
+> *қан қызметіндегі референс-зерттеулер,*  
+> *плаценталық қаннан гемопоэздік*  
+> *дің жасушаларын бөлу және донорлық*  
+> *қан компомоненттерін өндіру бойынша*  
+> *жүзеге асырылатын, тегін медициналық*  
+> *көмектің кепілдік берілген көлемі*  
+> *шеңберінде және міндетті әлеуметтік*  
+> *медициналық сақтандыру жүйесінде*  
+> *көрсетілетін медициналық*  
+> *қызметтерге тарифтерге*  
 > *1 - қосымша*
 
 ## Қан қызметі ұйымдары өндіретін қан компоненттерінің құнына арналған экологиялық коэффициенттер
@@ -189622,8 +189730,8 @@ SF-RI 1 (сурфактант)
 <tr>
 <td>№</td>
 <td>Өңірдің коды</td>
-<td>Облысы</td>
-<td>Аймақ</td>
+<td>Облыс</td>
+<td>Өңір</td>
 <td>Коэффициент</td>
 </tr>
 <tr>
@@ -189648,7 +189756,20 @@ SF-RI 1 (сурфактант)
 </tr>
 </table>
 
-> *Тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік медициналық сақтандыру жүйесінде тіндерді иммунологиялық типтеу саласында зерттеулер жүргізу (HLA-зерттеулер) бойынша, қаң қызметінде референс-зерттеулер, плаценталық қаннан гемопоэздік дің жасушалары концентратын бөлу және донордық қанның компомоненттерін өндіру бойынша қызметтеріне арналған тарифтерге*  
+> *Шығындарын өтеу қан компоненттеріне*  
+> *зерттеулер жүргізуге және тіндерді*  
+> *иммунологиялық типтеу саласындағы*  
+> *қызметтер (HLA-зерттеулер),*  
+> *қан қызметіндегі референс-зерттеулер,*  
+> *плаценталық қаннан гемопоэздік*  
+> *дің жасушаларын бөлу және донорлық*  
+> *қан компомоненттерін өндіру бойынша*  
+> *жүзеге асырылатын, тегін медициналық*  
+> *көмектің кепілдік берілген көлемі*  
+> *шеңберінде және міндетті әлеуметтік*  
+> *медициналық сақтандыру жүйесінде*  
+> *көрсетілетін медициналық*  
+> *қызметтерге тарифтерге*  
 > *2 - қосымша*
 
 ## Қан қызметін өндіретін ұйымдарына қан компоненттерін құнына арналған ғимаратты ұстау коэффициенті
@@ -189658,7 +189779,7 @@ SF-RI 1 (сурфактант)
 <td>№</td>
 <td>Өңірдің коды</td>
 <td>Облысы</td>
-<td>Аймақ</td>
+<td>Өңір</td>
 <td>Коэффициент</td>
 </tr>
 <tr>
@@ -189901,13 +190022,19 @@ SF-RI 1 (сурфактант)
 
 ## Шығындарын өтеу Наркологиялық науқастар тіркелімінде тіркелген, психикаға белсенді әсер ететін заттарды тұтынудан туындаған психикалық және мінез-құлық бұзылулары бар бір науқасқа айына өңірлер бөлінісінде жүзеге асырылатын, тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік сақтандыру жүйесінде көрсетілетін медициналық кызметтерге кешенді тариф
 
-> *Ескерту. Кешенді тариф жаңа редакцияда - ҚР Денсаулық сақтау министрінің 06.11.2018 № ҚР ДСМ-31 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. Кешенді тариф жаңа редакцияда - ҚР Денсаулық сақтау министрінің 25.12.2018 № ҚР ДСМ-45 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
-<td>№ р/с</td>
+<td>
+№
+р/с
+</td>
 <td>Өңірлердің атауы</td>
-<td>Кешенді тариф (теңге)</td>
+<td>
+Кешенді тариф
+(теңге)
+</td>
 </tr>
 <tr>
 <td>1</td>
@@ -189957,7 +190084,7 @@ SF-RI 1 (сурфактант)
 <tr>
 <td>10</td>
 <td>Қызылорда облысы</td>
-<td>7 522,26</td>
+<td>9 279,96</td>
 </tr>
 <tr>
 <td>11</td>
@@ -190004,6 +190131,8 @@ SF-RI 1 (сурфактант)
 
 ## Шығындарын өтеу психикалық және мінез-құлық бұзылулары бар бір науқасқа жүзеге асырылатын, тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік сақтандыру жүйесінде медициналық көмек көрсететін медициналық ұйымдар (бірлесіп орындаушылар) үшін тариф
 
+> *Ескерту. Тариф жаңа редакцияда - ҚР Денсаулық сақтау министрінің 25.12.2018 № ҚР ДСМ-45 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+
 <table>
 <tr>
 <td>
@@ -190031,60 +190160,50 @@ SF-RI 1 (сурфактант)
 <tr>
 <td>4</td>
 <td>Шығыс Қазақстан облысы Денсаулық сақтау басқармасының «Шығыс Қазақстан облысы Ново-Канайка ауылдық психиатриялық ауруханасы» КМҚК</td>
-<td>2 941,18</td>
+<td>5 287,54</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Шығыс Қазақстан облысы Денсаулық сақтау басқармасының «Риддер қаласының психиатриялық диспансері» КМҚК</td>
-<td>7 939,31</td>
+<td>6 971,82</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Шығыс Қазақстан облысы Денсаулық сақтау басқармасының «Зырянов ауданының психиатриялық диспансері» КМҚК</td>
-<td>8 871,63</td>
+<td>4 986,69</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Шығыс Қазақстан облысы Денсаулық сақтау басқармасының «Семей қаласының психиатриялық диспансері» КМҚК</td>
-<td>4 795,47</td>
+<td>6 236,36</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Шығыс Қазақстан облысы Денсаулық сақтау басқармасының «Шульбинск ауылдық психиатриялық ауруханасы» КМҚК</td>
-<td>3 822,12</td>
+<td>4 356,80</td>
 </tr>
 <tr>
 <td>9</td>
-<td>Шығыс Қазақстан облысы Денсаулық сақтау басқармасының «Зайсан орталық аудандық ауруханасы» КМҚК</td>
-<td>2 849,37</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Қарағанды облысы Денсаулық сақтау басқармасының «Облыстық балалар психоневрологиялық диспансері» КМҚК</td>
-<td>8 416,63</td>
-</tr>
-<tr>
-<td>11</td>
 <td>Қостанай облысы Денсаулық сақтау басқармасының «Руднен қалалық психиатриялық ауруханасы» КМҚК</td>
 <td>6 458,57</td>
 </tr>
 <tr>
-<td>12</td>
+<td>10</td>
 <td>Қостанай облысы Денсаулық сақтау басқармасының «Арқалық қалалық психоневрологиялық диспансері» КМҚК</td>
 <td>5 781,76</td>
 </tr>
 <tr>
-<td>13</td>
+<td>11</td>
 <td>Қостанай облысы Денсаулық сақтау басқармасының «Жітіқара орталық аудандық ауруханасы» КМК</td>
 <td>4 091,98</td>
 </tr>
 <tr>
-<td>14</td>
+<td>12</td>
 <td>Қызылорда облысы Денсаулық сақтау басқармасының «Шиелі орталық аудандық ауруханасы амбулаторлы-емханалық қызметпен» ШЖҚ КМК</td>
 <td>5 633,43</td>
 </tr>
 <tr>
-<td>15</td>
+<td>13</td>
 <td>Қызылорда облысы Денсаулық сақтау басқармасының «Арал орталық аудандық ауруханасы амбулаториялық-емханалық қызметпен» ШЖҚ КМК</td>
 <td>6 859,17</td>
 </tr>
@@ -190097,6 +190216,8 @@ SF-RI 1 (сурфактант)
 > *16-қосымша*
 
 ## Шығындарын өтеу психикаға белсенді әсер ететін заттарды тұтынудан туындаған психикалық және мінез-құлық бұзылулары бар бір науқасқа жүзеге асырылатын, тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік сақтандыру жүйесінде медициналық көмек көрсететін медициналық ұйымдар (бірлесіп орындаушылар) үшін тариф
+
+> *Ескерту. Тариф жаңа редакцияда - ҚР Денсаулық сақтау министрінің 25.12.2018 № ҚР ДСМ-45 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
@@ -190112,7 +190233,7 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1</td>
-<td>Ақтөбе облысы Денсаулық сақтау басқармасының «Мамандандырылған емдік-профилактикалық кәсіпорын» МКҚК</td>
+<td>Ақтөбе облысы Денсаулық сақтау басқармасы мемлекеттік екемесінің ШЖҚ «Мамандандырылған емдеу-профилактикалық кәсіпорыны» МКК</td>
 <td>4 398,14</td>
 </tr>
 <tr>
@@ -190123,36 +190244,41 @@ SF-RI 1 (сурфактант)
 <tr>
 <td>3</td>
 <td>Шығыс Қазақстан облысы Денсаулық сақтау басқармасының «Семей қаласының наркологиялық диспансері» КМҚК</td>
-<td>6 069,10</td>
+<td>5 989,86</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Шығыс Қазақстан облысы Денсаулық сақтау басқармасының «Риддер қаласының психиатриялық диспансері» КМҚК</td>
-<td>1 417,63</td>
+<td>13 376,73</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Шығыс Қазақстан облысы Денсаулық сақтау басқармасының «Зырянов ауданының психиатриялық диспансері» КМҚК</td>
-<td>1 906,12</td>
+<td>17 020,59</td>
 </tr>
 <tr>
 <td>6</td>
+<td>Шығыс Қазақстан облысы Денсаулық сақтау басқармасының «Шығыс Қазақстан облысы Ново-Канайка ауылдық психиатриялық ауруханасы» КМҚК</td>
+<td>5 980,86</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Шығыс Қазақстан облысы Денсаулық сақтау басқармасының «Шульбинск ауылдық психиатриялық ауруханасы» КМҚК</td>
+<td>4 447,35</td>
+</tr>
+<tr>
+<td>8</td>
 <td>Жамбыл облысы Денсаулық сақтау басқармасының «Дәрігер Ю.В.Лукьяненконың наркологиялық психотерапевтік орталығы» мекемесі</td>
 <td>7 974,20</td>
 </tr>
 <tr>
-<td>7</td>
-<td>Қарағанды облысы Денсаулық сақтау басқармасының «Облыстық наркологиялық еріксіз емдеу ұйымы» КМҚК</td>
-<td>2 054,66</td>
-</tr>
-<tr>
-<td>8</td>
+<td>9</td>
 <td>Қостанай облысы Денсаулық сақтау басқармасының «Рудный қалалық психиатриялық ауруханасы» КМҚК</td>
 <td>6 379,79</td>
 </tr>
 <tr>
-<td>9</td>
-<td>«Альтернатива KST» ЖШС</td>
+<td>10</td>
+<td>Қостанай облысының «Альтернатива KST» ЖШС</td>
 <td>9 627,70</td>
 </tr>
 </table>
@@ -190268,13 +190394,16 @@ SF-RI 1 (сурфактант)
 
 ## Шығындарын өтеу Туберкулезбен ауыратын науқастардың ұлттық тіркелімінде тіркелген бір науқасқа айына өңірлер бөлінісінде жүзеге асырылатын, тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік сақтандыру жүйесінде көрсетілетін медициналық қызметтерге кешенді тариф
 
-> *Ескерту. Кешенді тариф жаңа редакцияда - ҚР Денсаулық сақтау министрінің 06.11.2018 № ҚР ДСМ-31 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. Кешенді тариф жаңа редакцияда - ҚР Денсаулық сақтау министрінің 25.12.2018 № ҚР ДСМ-45 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
 <td>№ р/с</td>
 <td>Өңірлердің атауы</td>
-<td>Кешенді тариф (теңге)</td>
+<td>
+Кешенді тариф
+(теңге)
+</td>
 </tr>
 <tr>
 <td>1</td>
@@ -190344,7 +190473,7 @@ SF-RI 1 (сурфактант)
 <tr>
 <td>14</td>
 <td>Түркістан облысы</td>
-<td>156 400 68</td>
+<td>156 400,68</td>
 </tr>
 <tr>
 <td>15</td>
@@ -190359,7 +190488,7 @@ SF-RI 1 (сурфактант)
 <tr>
 <td>17</td>
 <td>Шымкент қаласы</td>
-<td>156 400 68</td>
+<td>156 400,68</td>
 </tr>
 </table>
 
@@ -190371,27 +190500,33 @@ SF-RI 1 (сурфактант)
 
 ## Шығындарын өтеу туберкулезбен ауыратын науқастарға медициналық көмек көрсететін медициналық ұйымдар (бірлесіп орындаушылар) үшін жүзеге асырылатын, тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік сақтандыру жүйесінде көрсетілетін медициналық қызметтерге тариф
 
-> *Ескерту. Тариф жаңа редакцияда - ҚР Денсаулық сақтау министрінің 06.11.2018 № ҚР ДСМ-31 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. Тариф жаңа редакцияда - ҚР Денсаулық сақтау министрінің 25.12.2018 № ҚР ДСМ-45 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
-<td>№ р/с</td>
+<td>
+№
+р/с
+</td>
 <td>Медициналық ұйымдардың атауы</td>
-<td>Бір төсек күн тарифі (тенге)</td>
+<td>
+Бір төсек күн тарифі
+(тенге)
+</td>
 </tr>
 <tr>
 <td>1</td>
-<td>Ақтөбе облысы Денсаулық сақтау басқармасының «Мамандандырылған емдік-профилактикалық кәсіпорын» МКҚК</td>
+<td>Ақтөбе облысы Денсаулық сақтау басқармасы мемлекеттік мекемесінің ШЖҚ «Мамандандырылған емдеу-профилактикалық кәсіпорын» МКК</td>
 <td>5 691,21</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Ақтөбе облысы Денсаулық сақтау басқармасының «Темір аудандық туберкулез ауруханасы» МКҚК</td>
+<td>Ақтөбе облысы Денсаулық сақтау басқармасы мемлекеттік мекемесінің ШЖҚ «Темір аудандық туберкулез ауруханасы» МКК</td>
 <td>10 187,43</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Ақтөбе облысы Денсаулық сақтау басқармасының «Әйтеке би туберкулез науқастарына арналған хосписі» МКҚК</td>
+<td>Ақтөбе облысының Денсаулық сақтау басқармасы мемлекеттік мекемесінің ШЖҚ «Әйтеке би туберкулез науқастарына арналған хосписі» МКК</td>
 <td>12 307,15</td>
 </tr>
 <tr>
@@ -190401,46 +190536,26 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>5</td>
-<td>Алматы облысы Денсаулық сақтау басқармасы мемлекеттік мекемесінің «Алматы облысының паллиативтік көмек ауруханасы» КМК</td>
-<td>16 246,10</td>
-</tr>
-<tr>
-<td>6</td>
 <td>Шығыс Қазақстан облысы Денсаулық сақтау басқармасының «Зырян ауданының орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>18 515,13</td>
 </tr>
 <tr>
-<td>7</td>
+<td>6</td>
 <td>Шығыс Қазақстан облысы Денсаулық сақтау басқармасының «Туберкулезге қарсы балаларды емдеу-профилактикалық орталығы» КМҚК</td>
 <td>22 352,39</td>
 </tr>
 <tr>
-<td>8</td>
+<td>7</td>
 <td>Шығыс Қазақстан облысы Денсаулық сақтау басқармасының «Семей қаласының аймақтық туберкулезге қарсы диспансері» КМҚК</td>
 <td>15 039,55</td>
 </tr>
 <tr>
-<td>9</td>
+<td>8</td>
 <td>Қостанай облысы Денсаулық сақтау басқармасының «Арқалық аймақтық туберкулезге қарсы диспансері» КМҚК</td>
 <td>19 383,74</td>
 </tr>
 <tr>
-<td>10</td>
-<td>Қызылорда облысы Денсаулық сақтау басқармасының «Қазалы аймақтық туберкулезге қарсы диспансері» КМҚК</td>
-<td>49 476,56</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Қызылорда облысы Денсаулық сақтау басқармасының «Қармақшы аймақтық туберкулезге қарсы диспансері» КМҚК</td>
-<td>18 992,25</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Қызылорда облысы Денсаулық сақтау басқармасының «Сырдария аудандық туберкулезге қарсы диспансері» КМҚК</td>
-<td>17 571,35</td>
-</tr>
-<tr>
-<td>13</td>
+<td>9</td>
 <td>Маңғыстау облысы Денсаулық сақтау басқармасының «Жаңаөзен ауданаралық туберкулезге қарсы ауруханасы» МКҚК</td>
 <td>12 141,60</td>
 </tr>
@@ -190612,11 +190727,14 @@ SF-RI 1 (сурфактант)
 
 ## Шығындарын өтеу инфекциялық бейіннің бір емделіп шығу жағдайына жүзеге асырылатын, тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік медициналық сақтандыру жүйесінде көрсетілетін медициналық қызметтерге тариф
 
-> *Ескерту. Тариф жаңа редакцияда - ҚР Денсаулық сақтау министрінің 06.11.2018 № ҚР ДСМ-31 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. Тариф жаңа редакцияда - ҚР Денсаулық сақтау министрінің 25.12.2018 № ҚР ДСМ-45 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
-<td>№ р/с</td>
+<td>
+№
+р/с
+</td>
 <td>Медициналық ұйымдардың атауы</td>
 <td>Бір емделіп шығу жағдайына тариф, тенге</td>
 </tr>
@@ -190627,22 +190745,22 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>1</td>
-<td>Ақмола облысы денсаулық сақтау басқармасының жанындағы «Ерейментау орталық аудандық ауруханасы» МКҚК</td>
+<td>Ақмола облысы денсаулық сақтау басқармасының жанындағы «Ерейментау орталық аудандық ауруханасы» ШЖҚ МКК</td>
 <td>44 260,64</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Ақмола облысы денсаулық сақтау басқармасының жанындағы «Астрахан орталық аудандық ауруханасы» ШЖҚ ММҚК</td>
+<td>Ақмола облысы денсаулық сақтау басқармасының жанындағы «Астрахан орталық аудандық ауруханасы» ШЖҚ ММК</td>
 <td>38 076,00</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Ақмола облысы денсаулық сақтау басқармасының жанындағы «Зеренда орталық аудандық ауруханасы» ШЖҚ ММҚК</td>
+<td>Ақмола облысы денсаулық сақтау басқармасының жанындағы «Зеренда орталық аудандық ауруханасы» ШЖҚ ММК</td>
 <td>51 573,33</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Ақмола облысы денсаулық сақтау басқармасының жанындағы «Есіл орталық аудандық ауруханасы» МКҚК</td>
+<td>Ақмола облысы денсаулық сақтау басқармасының жанындағы «Есіл орталық аудандық ауруханасы» ШЖҚ МКК</td>
 <td>40 127,20</td>
 </tr>
 <tr>
@@ -190657,17 +190775,17 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>7</td>
-<td>Ақмола облысы денсаулық сақтау басқармасының жанындағы «Бурабай ауданаралы көпсаласы ауруханасы» ШЖҚ МКК</td>
+<td>Ақмола облысы денсаулық сақтау басқармасының жанындағы «Бурабай ауданаралық көпсалалы ауруханасы» ШЖҚ МКК</td>
 <td>36 587,48</td>
 </tr>
 <tr>
 <td>8</td>
-<td>Ақмола облысы денсаулық сақтау басқармасының жанындағы «Ақкөл орталық аудандық ауруханасы» МКҚК</td>
+<td>Ақмола облысы денсаулық сақтау басқармасының жанындағы «Ақкөл орталық аудандық ауруханасы» ШЖҚ МКК</td>
 <td>63 530,33</td>
 </tr>
 <tr>
 <td>9</td>
-<td>Ақмола облысы денсаулық сақтау басқармасының жанындағы «Атбасар ауданаралы көпсаласы ауруханасы» МКҚК</td>
+<td>Ақмола облысы денсаулық сақтау басқармасының жанындағы «Атбасар ауданаралық көпсалалы ауруханасы» ШЖҚ МКК</td>
 <td>38 635,25</td>
 </tr>
 <tr>
@@ -190682,82 +190800,82 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>12</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Алға аудандық орталық аурухана» ШЖҚ МКК</td>
+<td>Ақтөбе облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Алға аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>7 652,73</td>
 </tr>
 <tr>
 <td>13</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Хромтау аудандық орталық аурухана» ШЖҚ МКК</td>
+<td>Ақтөбе облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Хромтау аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>7 340,50</td>
 </tr>
 <tr>
 <td>14</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының ШЖҚ «Әйтекеби аудандық орталық аурухана» МКК</td>
+<td>Ақтөбе облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің ШЖҚ «Әйтекеби аудандық орталық аурухана» МКК</td>
 <td>5 642,34</td>
 </tr>
 <tr>
 <td>15</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының ШЖҚ «Қарғалы аудандық орталық аурухана» МКК</td>
+<td>Ақтөбе облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің ШЖҚ «Қарғалы аудандық орталық аурухана» МКК</td>
 <td>10 464,04</td>
 </tr>
 <tr>
 <td>16</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының ШЖҚ «Мәртөк аудандық орталық аурухана» МКК</td>
+<td>Ақтөбе облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің ШЖҚ «Мәртөк аудандық орталық аурухана» МКК</td>
 <td>7 279,33</td>
 </tr>
 <tr>
 <td>17</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Қобда аудандық орталық аурухана» ШЖҚ МКК</td>
+<td>Ақтөбе облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Қобда аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>7 141,34</td>
 </tr>
 <tr>
 <td>18</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Шалқар аудандық орталық аурухана» ШЖҚ МКК</td>
+<td>Ақтөбе облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Шалқар аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>8 029,48</td>
 </tr>
 <tr>
 <td>19</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Темір аудандық орталық аурухана» ШЖҚ МКК</td>
+<td>Ақтөбе облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Темір аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>6 092,40</td>
 </tr>
 <tr>
 <td>20</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Байғанин аудандық орталық аурухана» ШЖҚ МКК</td>
+<td>Ақтөбе облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Байғанин аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>7 071,12</td>
 </tr>
 <tr>
 <td>21</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Ембі аудандық аурухана» ШЖҚ МКК</td>
+<td>Ақтөбе облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Ембі аудандық аурухана» ШЖҚ МКК</td>
 <td>8 219,15</td>
 </tr>
 <tr>
 <td>22</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Ойыл аудандық орталық аурухана» ШЖҚ МКК</td>
+<td>Ақтөбе облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Ойыл аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>7 536,69</td>
 </tr>
 <tr>
 <td>23</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Ырғыз аудандық орталық аурухана» ШЖҚ МКК</td>
+<td>Ақтөбе облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Ырғыз аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>8 184,17</td>
 </tr>
 <tr>
 <td>24</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Мұғалжар аудандық орталық аурухана» ШЖҚ МКК</td>
+<td>Ақтөбе облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің ШЖҚ «Мұғалжар аудандық орталық аурухана» МКК</td>
 <td>51 591,68</td>
 </tr>
 <tr>
 <td>25</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Облыстық инфекциялық аурухана» МКҚК</td>
+<td>Ақтөбе облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Облыстық инфекциялық аурухана» МКҚК</td>
 <td>51 464,93</td>
 </tr>
 <tr>
 <td>26</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Балхаш аудандық орталық аураханасы» ШЖҚ МКК</td>
+<td>Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Балхаш аудандық орталық аураханасы» ШЖҚ МКК</td>
 <td>88 734,83</td>
 </tr>
 <tr>
 <td>27</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Райымбек аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Райымбек аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>46 717,78</td>
 </tr>
 <tr>
@@ -190772,78 +190890,72 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>30</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Нарынкөл аудандық ауруханасы» ШЖҚ МКК</td>
+<td>Алматы облысы денсаулық сақтау басқармасының «Райымбек ауданы Нарынкөл селосы «Аудандық ауруханасы» ШЖҚ МКК</td>
 <td>87 222,13</td>
 </tr>
 <tr>
 <td>31</td>
-<td>Алматы облысы денсаулақ сақтау басқармасының мемлекетік мекемесінің «Капшағай қалалық ауруханасы» ШЖҚ МКК</td>
+<td>Алматы облысы денсаулақ сақтау басқармасы мемлекеттік мекемесінің мемлекетік мекемесінің «Капшағай қалалық ауруханасы» ШЖҚ МКК</td>
 <td>45 026,73</td>
 </tr>
 <tr>
 <td>32</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Алакөл аудандық орталық ауруханасы» ШЖҚ МКК</td>
-<td>70 520,86</td>
+<td>Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Алакөл аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>52 342,21</td>
 </tr>
 <tr>
 <td>33</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Кербұлақ аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Кербұлақ аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>91 262,29</td>
 </tr>
 <tr>
 <td>34</td>
-<td>
-Алматы облысы денсаулық сақтау басқармасының
-«Қаратал аудандық орталық ауруханасы» ШЖҚ МКК
-</td>
+<td>Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Қаратал аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>81 456,14</td>
 </tr>
 <tr>
 <td>35</td>
-<td>
-Алматы облысы денсаулық сақтау басқармасының
-«Көксу аудандық орталық ауруханасы» МКК
-</td>
+<td>Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Көксу аудандық орталық ауруханасы» МКК</td>
 <td>78 058,53</td>
 </tr>
 <tr>
 <td>36</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Текелі қалалық ауруханаасы» ШЖҚ МКК</td>
+<td>Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Текелі қалалық ауруханаасы» ШЖҚ МКК</td>
 <td>34 491,37</td>
 </tr>
 <tr>
 <td>37</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Ақсу аудандық орталық ауруханасы» ШЖҚ МКК.</td>
+<td>Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Ақсу аудандық орталық ауруханасы» ШЖҚ МКК.</td>
 <td>89 974,23</td>
 </tr>
 <tr>
 <td>38</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Жамбыл аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Жамбыл аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>86 814,93</td>
 </tr>
 <tr>
 <td>39</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Сарқан аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Сарқан аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>68 736,13</td>
 </tr>
 <tr>
 <td>40</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Шелек аудандық ауруханасы» ШЖҚ МКК</td>
+<td>Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Шелек аудандық ауруханасы» ШЖҚ МКК</td>
 <td>91 852,03</td>
 </tr>
 <tr>
 <td>41</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Панфилов аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Панфилов аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>72 729,25</td>
 </tr>
 <tr>
 <td>42</td>
-<td>Алматы облысы денсаулақ сақтау басқармасының «Еңбекшиқазақ аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Алматы облысы денсаулақ сақтау басқармасы мемлекеттік мекемесінің «Еңбекшіқазақ аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>63 930,71</td>
 </tr>
 <tr>
 <td>43</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Талдықорған каласының өңірлік жұқпалы аурулар ауруханасы» КМҚК</td>
+<td>Алматы облысы ДСБ ММ-ның «Талдықорған каласының өңірлік жұқпалы аурулар ауруханасы» КМҚК</td>
 <td>69 259,60</td>
 </tr>
 <tr>
@@ -190893,7 +191005,7 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>53</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Абай орталық аудандық ауруханасы» КМҚК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Абай орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>38 019,80</td>
 </tr>
 <tr>
@@ -190903,12 +191015,12 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>55</td>
-<td>Шығыс Қазақстан облыстық денсаулық сақтау басқармасының «Бесқарағай орталық аудандық ауруханасы» КМҚК</td>
+<td>Шығыс Қазақстан облыстық денсаулық сақтау басқармасының «Бесқарағай орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>45 541,06</td>
 </tr>
 <tr>
 <td>56</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Тарбағатай орталық аудандық ауруханасы» КМҚК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Тарбағатай орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>61 069,44</td>
 </tr>
 <tr>
@@ -190923,22 +191035,22 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>59</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Жарма орталық аудандық ауруханасы» КМҚК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Жарма орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>45 412,65</td>
 </tr>
 <tr>
 <td>60</td>
-<td>Шығыс Қазақстан облыстық денсаулық сақтау басқармасының «Көкпекті орталық аудандық ауруханасы» КМҚК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Көкпекті орталық аудандық ауруханасы» КМҚК</td>
 <td>52 355,56</td>
 </tr>
 <tr>
 <td>61</td>
-<td>Шығыс Қазақстан облыстық денсаулық сақтау басқармасының «Катон-Қарағай орталық аудандық ауруханасы» КМҚК</td>
+<td>Шығыс Қазақстан облыстық денсаулық сақтау басқармасының «Катон-Қарағай орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>42 049,86</td>
 </tr>
 <tr>
 <td>62</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Тарбағатай ауданының ауданаралық ауруханасы» КМҚК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Тарбағатай ауданының ауданаралық ауруханасы» ШЖҚ КМК</td>
 <td>61 298,10</td>
 </tr>
 <tr>
@@ -190948,22 +191060,22 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>64</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Бородулиха орталық аудандық ауруханасы» КМҚК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Бородулиха орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>42 570,16</td>
 </tr>
 <tr>
 <td>65</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Үржар орталық аудандық ауруханасы» КМҚК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Үржар орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>66 316,99</td>
 </tr>
 <tr>
 <td>66</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Күршім орталық аудандық ауруханасы» КМҚК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Күршім орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>49 677,10</td>
 </tr>
 <tr>
 <td>67</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Зайсан орталық аудандық ауруханасы» КМҚК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Зайсан орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>61 439,42</td>
 </tr>
 <tr>
@@ -190973,7 +191085,7 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>69</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Аягөз орталық аудандық ауруханасы» КМҚК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Аягөз орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>48 356,96</td>
 </tr>
 <tr>
@@ -190993,62 +191105,62 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>73</td>
-<td>Шығыс Қазақстан облыстық денсаулық сақтау басқармасының «Ана мен бала орталығы» ШЖҚ КМК</td>
+<td>Шығыс Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Ана мен бала орталығы» ШЖҚ КМК</td>
 <td>63 351,60</td>
 </tr>
 <tr>
 <td>74</td>
 <td>Шығыс Қазақстан облыстық денсаулық сақтау басқармасының «Семей қ. Инфекциялық ауруханасы» КМҚК</td>
-<td>49 683,19</td>
+<td>98 326,21</td>
 </tr>
 <tr>
 <td>75</td>
-<td>Жамбыл облысы денсаулық сақтау басқармасының «№1 Қалалық балалар ауруханасы» ШЖҚ МКК</td>
+<td>Жамбыл облысының әкімдігі денсаулық сақтау басқармасының «№1 Қалалық балалар ауруханасы» ШЖҚ МКК</td>
 <td>94 698,74</td>
 </tr>
 <tr>
 <td>76</td>
-<td>Жамбыл облысы денсаулық сақтау басқармасының «Меркі аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Жамбыл облысының әкімдігі денсаулық сақтау басқармасының «Меркі аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>61 753,42</td>
 </tr>
 <tr>
 <td>77</td>
-<td>Жамбыл облысы денсаулық сақтау басқармасының «Т.Рыскулов аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Жамбыл облысының әкімдігі денсаулық сақтау басқармасының «Т.Рыскулов аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>55 654,32</td>
 </tr>
 <tr>
 <td>78</td>
-<td>Жамбыл облысы денсаулық сақтау басқармасының «Талас аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Жамбыл облысының әкімдігі денсаулық сақтау басқармасының «Талас аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>41 378,52</td>
 </tr>
 <tr>
 <td>79</td>
-<td>Жамбыл облысы денсаулық сақтау басқармасының «Жамбыл аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Жамбыл облысының әкімдігі денсаулық сақтау басқармасының «Жамбыл аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>53 035,33</td>
 </tr>
 <tr>
 <td>80</td>
-<td>Жамбыл облысы денсаулық сақтау басқармасының «Жуалы аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Жамбыл облысының әкімдігі денсаулық сақтау басқармасының «Жуалы аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>41 275,05</td>
 </tr>
 <tr>
 <td>81</td>
-<td>Жамбыл облысы денсаулық сақтау басқармасының «Мойынқұм аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Жамбыл облысының әкімдігі денсаулық сақтау басқармасының «Мойынқұм аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>42 862,83</td>
 </tr>
 <tr>
 <td>82</td>
-<td>Жамбыл облысы денсаулық сақтау басқармасының «Байзақ аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Жамбыл облысының әкімдігі денсаулық сақтау басқармасының «Байзақ аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>45 787,31</td>
 </tr>
 <tr>
 <td>83</td>
-<td>Жамбыл облысы денсаулық сақтау басқармасының «Қордай аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Жамбыл облысының әкімдігі денсаулық сақтау басқармасының «Қордай аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>46 805,87</td>
 </tr>
 <tr>
 <td>84</td>
-<td>Жамбыл облысы денсаулық сақтау басқармасының «Шу аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Жамбыл облысының әкімдігі денсаулық сақтау басқармасының «Шу аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>44 943,61</td>
 </tr>
 <tr>
@@ -191058,77 +191170,77 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>86</td>
-<td>Жамбыл облысы денсаулық сақтау басқармасының «Жамбыл облыстық балалар жұқпалы аурулар ауруханасы» КММ</td>
-<td>66 903,25</td>
+<td>Жамбыл облысының әкімдігі денсаулық сақтау басқармасының «Жамбыл облыстық балалар жұқпалы аурулар ауруханасы» ШЖҚ МКК</td>
+<td>84 643,70</td>
 </tr>
 <tr>
 <td>87</td>
-<td>Батыс Қазақстан облысы әкімдігі денсаулық сақтау басқармасының «Тасқала аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Батыс Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Тасқала аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>79 291,67</td>
 </tr>
 <tr>
 <td>88</td>
-<td>Батыс Қазақстан облысы денсаулық сақтау басқармасының «Бөкей ордасы аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Батыс Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Бөкей ордасы аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>53 243,90</td>
 </tr>
 <tr>
 <td>89</td>
-<td>Батыс Қазақстан облысы денсаулық сақтау басқармасының «Жәнібек аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Батыс Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Жәнібек аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>55 957,14</td>
 </tr>
 <tr>
 <td>90</td>
-<td>Батыс Қазақстан облысы денсаулық сақтау басқармасының «Казталов аудандық ауруханасы» ШЖҚ МКК</td>
+<td>Батыс Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Казталов аудандық ауруханасы» ШЖҚ МКК</td>
 <td>71 804,60</td>
 </tr>
 <tr>
 <td>91</td>
-<td>Батыс Қазақстан облысы денсаулық сақтау басқармасының «Қаратөбе аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Батыс Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Қаратөбе аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>71 275,00</td>
 </tr>
 <tr>
 <td>92</td>
-<td>Батыс Қазақстан облысы денсаулық сақтау басқармасының «Жаңақала аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Батыс Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Жаңақала аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>48 033,56</td>
 </tr>
 <tr>
 <td>93</td>
-<td>Батыс Қазақстан облысы денсаулық сақтау басқармасының «Зеленов аудандық ауруханасы» ШЖҚ МКК</td>
+<td>Батыс Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Зеленов аудандық ауруханасы» ШЖҚ МКК</td>
 <td>60 214,29</td>
 </tr>
 <tr>
 <td>94</td>
-<td>Батыс Қазақстан облысы денсаулық сақтау басқармасының «Казталов аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Батыс Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Казталов аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>55 227,98</td>
 </tr>
 <tr>
 <td>95</td>
-<td>Батыс Қазақстан облысы денсаулық сақтау басқармасының «Шыңғырлау аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Батыс Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Шыңғырлау аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>52 476,00</td>
 </tr>
 <tr>
 <td>96</td>
-<td>Батыс Қазақстан облысы денсаулық сақтау басқармасының ШЖҚ «Бөрлі аудандық орталық ауруханасы» МКК</td>
+<td>Батыс Қазақстан облысының әкімдігі денсаулық сақтау басқармасының ШЖҚ «Бөрлі аудандық орталық ауруханасы» МКК</td>
 <td>49 878,19</td>
 </tr>
 <tr>
 <td>97</td>
-<td>Батыс Қазақстан облысы денсаулық сақтау басқармасының «Ақжайық аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Батыс Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Ақжайық аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>41 515,48</td>
 </tr>
 <tr>
 <td>98</td>
-<td>Қарағанды облысы денсаулық сақтау басқармасының «Облыстық жұқпалы аурулар ауруханасы» КМҚК</td>
+<td>Батыс Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Облыстық жұқпалы аурулар ауруханасы» КМҚК</td>
 <td>82 586,54</td>
 </tr>
 <tr>
 <td>99</td>
-<td>Қарағанды облысы денсаулық сақтау басқармасының «Шет ауданының орталық ауруханасы» КМК</td>
+<td>Қарағанды облысының әкімдігі денсаулық сақтау басқармасының «Шет ауданының орталық ауруханасы» КМК</td>
 <td>50 270,11</td>
 </tr>
 <tr>
 <td>100</td>
-<td>Қарағанды облысы денсаулық сақтау басқармасының «Қарқаралы ауданының орталық ауруханасы» КМК</td>
+<td>Қарағанды облысының әкімдігі денсаулық сақтау басқармасының «Қарқаралы ауданының орталық ауруханасы» КМК</td>
 <td>35 804,29</td>
 </tr>
 <tr>
@@ -191153,7 +191265,7 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>105</td>
-<td>Қарағанды облысы денсаулық сақтау басқармасының «Шахтинск қ. орталық ауруханасы» КМК</td>
+<td>Қарағанды облысының әкімдігі денсаулық сақтау басқармасының «Шахтинск қ. орталық ауруханасы» КМК</td>
 <td>46 051,99</td>
 </tr>
 <tr>
@@ -191183,97 +191295,97 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>111</td>
-<td>Қарағанды облысы денсаулық сақтау басқармасының «Облстық инфекциялық ауруханасы» КМҚК</td>
-<td>50 613,25</td>
+<td>Қарағанды облысы денсаулық сақтау басқармасының «Облыстық инфекциялық ауруханасы» КМҚК</td>
+<td>59 539,63</td>
 </tr>
 <tr>
 <td>112</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Науырзым аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Науырзым аудандық орталық ауруханасы» КМК</td>
 <td>191 730,22</td>
 </tr>
 <tr>
 <td>113</td>
-<td>Қостанай облысы ә денсаулық сақтау басқармасының «Қарабалық аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Қарабалық аудандық орталық ауруханасы» КМК</td>
 <td>113 236,06</td>
 </tr>
 <tr>
 <td>114</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Ұзынкөл аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Ұзынкөл аудандық орталық ауруханасы» КМК</td>
 <td>74 364,78</td>
 </tr>
 <tr>
 <td>115</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Сарыкөл аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Сарыкөл аудандық орталық ауруханасы» КМК</td>
 <td>79 774,03</td>
 </tr>
 <tr>
 <td>116</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Октябрь селолық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Октябрь селолық ауруханасы» КМК</td>
 <td>97 922,30</td>
 </tr>
 <tr>
 <td>117</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Федоров аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Федоров аудандық орталық ауруханасы» КМК</td>
 <td>199 850,67</td>
 </tr>
 <tr>
 <td>118</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Денисов аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Денисов аудандық орталық ауруханасы» КМК</td>
 <td>96 767,35</td>
 </tr>
 <tr>
 <td>119</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Қарасу аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Қарасу аудандық орталық ауруханасы» КМК</td>
 <td>180 668,65</td>
 </tr>
 <tr>
 <td>120</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Таран аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Таран аудандық орталық ауруханасы» КМК</td>
 <td>95 250,97</td>
 </tr>
 <tr>
 <td>121</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Қамысты аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Қамысты аудандық орталық ауруханасы» КМК</td>
 <td>275 412,63</td>
 </tr>
 <tr>
 <td>122</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Аманкелді аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Аманкелді аудандық орталық ауруханасы» КМК</td>
 <td>111 641,71</td>
 </tr>
 <tr>
 <td>123</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Арқалық өңірлік ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Арқалық өңірлік ауруханасы» КМК</td>
 <td>35 801,32</td>
 </tr>
 <tr>
 <td>124</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Жангелдин аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Жангелдин аудандық орталық ауруханасы» КМК</td>
 <td>133 579,25</td>
 </tr>
 <tr>
 <td>125</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Әулиекол аудандық орталық ауруханасы» ШЖҚ МКК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Әулиекол аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>73 077,15</td>
 </tr>
 <tr>
 <td>126</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Меңдіқара аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Меңдіқара аудандық орталық ауруханасы» КМК</td>
 <td>95 880,98</td>
 </tr>
 <tr>
 <td>127</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Жітіқара аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Жітіқара аудандық орталық ауруханасы» КМК</td>
 <td>138 727,22</td>
 </tr>
 <tr>
 <td>128</td>
-<td>Қостанай облысы ә денсаулық сақтау басқармасының «Қостанай облыстық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Қостанай облыстық ауруханасы» КМК</td>
 <td>114 822,63</td>
 </tr>
 <tr>
 <td>129</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Лисаков қалалық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Лисаков қалалық ауруханасы» КМК</td>
 <td>154 489,41</td>
 </tr>
 <tr>
@@ -191283,262 +191395,267 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>131</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Қостанай қалалық балалар ауруханасы» КМК</td>
-<td>91 247,94</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Рудный қалалық ауруханасы» КМК</td>
+<td>55 970,03</td>
 </tr>
 <tr>
 <td>132</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Қостанай қалалық балалар ауруханасы» КМК</td>
+<td>91 247,94</td>
+</tr>
+<tr>
+<td>133</td>
 <td>«Қызылорда облысы денсаулық сақтау басқармасының «Амбулаториялық-емханалық қызметі бар Қармақшы аудандық орталық ауруханасы» ШЖҚ КМК</td>
 <td>36 496,82</td>
 </tr>
 <tr>
-<td>133</td>
+<td>134</td>
 <td>Қызылорда облысы денсаулық сақтау басқармасының «Амбулаториялық –емханалық қызметі бар Сырдария аудандық орталық ауруханасы» ШЖҚ КМК</td>
 <td>44 364,36</td>
 </tr>
 <tr>
-<td>134</td>
+<td>135</td>
 <td>Қызылорда облысы денсаулық сақтау басқармасының «Амбулаториялық –емханалық қызметі бар Жалағаш аудандық орталық ауруханасы» МКҚК</td>
 <td>46 478,03</td>
 </tr>
 <tr>
-<td>135</td>
+<td>136</td>
 <td>Қызылорда облысы денсаулық сақтау басқармасының «Амбулаториялық-емханалық қызметі бар Қазалы аудандық орталық ауруханасы» ШЖҚ КМК</td>
 <td>51 582,68</td>
 </tr>
 <tr>
-<td>136</td>
+<td>137</td>
 <td>Қызылорда облысы денсаулық сақтау басқармасының «амбулаториялық-емханалық қызметі бар Жаңақорған аудандық орталық ауруханасы» ШЖҚ КМК</td>
 <td>24 717,62</td>
 </tr>
 <tr>
-<td>137</td>
+<td>138</td>
 <td>Қызылорда облысы денсаулық сақтау басқармасының «Амбулаториялық –емханалық қызметі бар Арал аудандық орталық ауруханасы» ШЖҚ КМК</td>
 <td>42 249,39</td>
 </tr>
 <tr>
-<td>138</td>
+<td>139</td>
 <td>Қызылорда облысы денсаулық сақтау басқармасының «Амбулаториялық –емханалық қызметі бар Шиелі аудандық орталық ауруханасы» ШЖҚ КМК</td>
 <td>34 154,50</td>
 </tr>
 <tr>
-<td>139</td>
-<td>Қызылорда облысы денсаулық сақтау басқармасының «Қызылорда облыстық жұқпалы аурулар ауруханасы» КМҚК</td>
+<td>140</td>
+<td>Қызылорда облысы денсаулық сақтау басқармасының «Қызылорда облыстық жұқпалы аурулар ауруханасы» ШЖҚ КМК</td>
 <td>60 583,27</td>
 </tr>
 <tr>
-<td>140</td>
+<td>141</td>
 <td>Маңғыстау облысы денсаулық сақтау басқармасының «Түпқараған орталық аудандық ауруханасы» ШЖҚ МКК</td>
 <td>55 409,36</td>
 </tr>
 <tr>
-<td>141</td>
-<td>Маңғыстау облысы денсаулық сақтау басқармасының «Жетыбай аудандық ауруханасы» КҚК</td>
+<td>142</td>
+<td>Маңғыстау облысы денсаулық сақтау басқармасының «Жетыбай аудандық ауруханасы» ШЖҚ КМК</td>
 <td>57 844,61</td>
 </tr>
 <tr>
-<td>142</td>
+<td>143</td>
 <td>Маңғыстау облысы денсаулық сақтау басқармасының «Қарақия орталық аудандық ауруханасы» ШЖҚ МКК</td>
 <td>52 410,71</td>
 </tr>
 <tr>
-<td>143</td>
-<td>Маңғыстау облысы денсаулық сақтау басқармасының «Бейнеу орталық аудандық ауруханасы» МКҚК</td>
+<td>144</td>
+<td>Маңғыстау облысы денсаулық сақтау басқармасының «Бейнеу орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>73 018,87</td>
 </tr>
 <tr>
-<td>144</td>
+<td>145</td>
 <td>Маңғыстау облысы денсаулық сақтау басқармасының «Маңғыстау орталық аудандық ауруханасы» ШЖҚ МКК</td>
 <td>40 545,21</td>
 </tr>
 <tr>
-<td>145</td>
-<td>Маңғыстау облысы денсаулық сақтау басқармасының «Жаңаөзен қалалық балалар ауруханасы» МКҚК</td>
+<td>146</td>
+<td>Маңғыстау облысы денсаулық сақтау басқармасының «Жаңаөзен қалалық балалар ауруханасы» ШЖҚ МКК</td>
 <td>53 303,76</td>
 </tr>
 <tr>
-<td>146</td>
-<td>Маңғыстау облысы денсаулық сақтау басқармасының «Облыстық инфекциялық ауруханасы» МКҚК</td>
+<td>147</td>
+<td>Маңғыстау облысы денсаулық сақтау басқармасының «Маңғыстау облыстық ауруханасы» ШЖҚ МКК</td>
 <td>63 738,30</td>
 </tr>
 <tr>
-<td>147</td>
-<td>Павлодар облысы денсаулық сақтау басқармасының ШЖҚ «Ғ. Сұлтанов атындағы Павлодар облыстық ауруханасы» КМК</td>
+<td>148</td>
+<td>Павлодар облысының әкімдігі денсаулық сақтау басқармасының ШЖҚ «Ғ. Сұлтанов атындағы Павлодар облыстық ауруханасы» КМК</td>
 <td>71 550,60</td>
 </tr>
 <tr>
-<td>148</td>
-<td>Павлодар облысы денсаулық сақтау басқармасының «Ақсу орталық ауруханасы» ШЖҚ КМК</td>
+<td>149</td>
+<td>Павлодар облысының әкімдігі денсаулық сақтау басқармасының «Ақсу орталық ауруханасы» ШЖҚ КМК</td>
 <td>38 551,06</td>
 </tr>
 <tr>
-<td>149</td>
-<td>Павлодар облысы денсаулық сақтау басқармасының «Павлодар облыстық балалар ауруханасы» ШЖҚ КМК</td>
+<td>150</td>
+<td>Павлодар облысының әкімдігі денсаулық сақтау басқармасының «Павлодар облыстық балалар ауруханасы» ШЖҚ КМК</td>
 <td>73 652,65</td>
 </tr>
 <tr>
-<td>150</td>
-<td>Павлодар облысы денсаулық сақтау басқармасының «Екібастұз қалалық ауруханасы» ШЖҚ КМК</td>
+<td>151</td>
+<td>Павлодар облысы әкімдігі денсаулық сақтау басқармасының «Екібастұз қалалық ауруханасы» ШЖҚ КМК</td>
 <td>36 085,01</td>
 </tr>
 <tr>
-<td>151</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Ақжар орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>152</td>
+<td>«Солтүстік Қазақстан облысы әкімдігінің денсаулық сақтау басқармасы» мемлекеттік мекемесінің «Ақжар орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>28 729,64</td>
 </tr>
 <tr>
-<td>152</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Жамбыл орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>153</td>
+<td>«Солтүстік Қазақстан облысы әкімдігінің денсаулық сақтау басқармасы» мемлекеттік мекемесінің «Жамбыл орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>61 250,00</td>
 </tr>
 <tr>
-<td>153</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Айыртау орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>154</td>
+<td>«Солтүстік Қазақстан облысы әкімдігінің денсаулық сақтау басқармасы» мемлекеттік мекемесінің «Айыртау орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>60 204,78</td>
 </tr>
 <tr>
-<td>154</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Шал ақын аудандың орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>155</td>
+<td>«Солтүстік Қазақстан облысы денсаулық сақтау басқармасы» мемлекеттік мекемесінің «Шал ақын аудандың орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>43 235,29</td>
 </tr>
 <tr>
-<td>155</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Мағжан Жұмабаев ауданының орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>156</td>
+<td>«Солтүстік Қазақстан облысы әкімдігінің денсаулық сақтау басқармасы» мемлекеттік мекемесінің «Мағжан Жұмабаев ауданының орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>32 546,13</td>
 </tr>
 <tr>
-<td>156</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының коммуналдық «Ғабит Мүсірепов атындағы орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>157</td>
+<td>«Солтүстік Қазақстан облысы әкімдігінің денсаулық сақтау басқармасы» мемлекеттік мекемесінің «Ғабит Мүсірепов атындағы орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>30 893,17</td>
 </tr>
 <tr>
-<td>157</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Бірінші қалалық аурухана» ШЖҚ КМК</td>
+<td>158</td>
+<td>«Солтүстік Қазақстан облысы әкімдігінің денсаулық сақтау басқармасы» мемлекеттік мекемесінің «Бірінші қалалық аурухана» ШЖҚ КМК</td>
 <td>59 528,05</td>
 </tr>
 <tr>
-<td>158</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Үшінші қалалық аурухана» ШЖҚ КМК</td>
+<td>159</td>
+<td>«Солтүстік Қазақстан облысы әкімдігінің денсаулық сақтау басқармасы» мемлекеттік мекемесінің «Үшінші қалалық аурухана» ШЖҚ КМК</td>
 <td>55 216,12</td>
 </tr>
 <tr>
-<td>159</td>
+<td>160</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Бәйдібек аудандық орталық ауруханасы» ШЖҚ КМК</td>
 <td>34 460,38</td>
 </tr>
 <tr>
-<td>160</td>
+<td>161</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Шардара аудандық орталық ауруханасы» ШЖҚ КМК</td>
 <td>35 712,24</td>
 </tr>
 <tr>
-<td>161</td>
+<td>162</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Созақ аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>41 085,20</td>
 </tr>
 <tr>
-<td>162</td>
+<td>163</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Мырзакент» Мақтаарал аудандық ауруханасы» ШЖҚ МКК</td>
 <td>30 159,26</td>
 </tr>
 <tr>
-<td>163</td>
+<td>164</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Жетісай аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>36 445,93</td>
 </tr>
 <tr>
-<td>164</td>
+<td>165</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Отырар аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>40 394,10</td>
 </tr>
 <tr>
-<td>165</td>
+<td>166</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Ленгір қалалық ауруханасы» ШЖҚ МКК</td>
 <td>25 778,83</td>
 </tr>
 <tr>
-<td>166</td>
+<td>167</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Абай «Келес аудандық ауруханасы» ШЖҚ МКК</td>
 <td>26 650,90</td>
 </tr>
 <tr>
-<td>167</td>
+<td>168</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Асық ата» жетісай аудандық ауруханасы» ШЖҚ МКК</td>
 <td>28 315,36</td>
 </tr>
 <tr>
-<td>168</td>
+<td>169</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Төлеби аудандық ауруханасы» ШЖҚ МКК</td>
 <td>25 976,45</td>
 </tr>
 <tr>
-<td>169</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Сайрам аудандық орталық ауруханасы» МКҚК</td>
+<td>170</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Сайрам аудандық орталық ауруханасы» ШЖҚ КМК</td>
 <td>37 517,03</td>
 </tr>
 <tr>
-<td>170</td>
+<td>171</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Арыс аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>23 783,06</td>
 </tr>
 <tr>
-<td>171</td>
+<td>172</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Қарабұлақ» Сайрам аудандық ауруханасы» ШЖҚ МКК</td>
 <td>20 630,39</td>
 </tr>
 <tr>
-<td>172</td>
+<td>173</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Кентау қалалық орталық ауруханасы» ШЖҚ МКК</td>
 <td>27 871,29</td>
 </tr>
 <tr>
-<td>173</td>
+<td>174</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Қазығұрт аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>21 770,51</td>
 </tr>
 <tr>
-<td>174</td>
+<td>175</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Түлкібас аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>30 163,97</td>
 </tr>
 <tr>
-<td>175</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының ШЖҚ «Түркістан қалалық орталық ауруханасы» МКК</td>
+<td>176</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Түркістан қалалық орталық ауруханасы» ШЖҚ МКК</td>
 <td>32 382,65</td>
 </tr>
 <tr>
-<td>176</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Сарыағаш аудандық орталық ауруханасы» МКҚК</td>
+<td>177</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Сарыағаш аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>27 210,27</td>
 </tr>
 <tr>
-<td>177</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Ордабасы аудандық орталық ауруханасы» МКҚК</td>
+<td>178</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Ордабасы аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>19 955,99</td>
 </tr>
 <tr>
-<td>178</td>
-<td>Шымкент қаласы денсаулық сақтау басқармасының «Қалалық жұқпалы аурулар ауруханасы» МКҚК</td>
+<td>179</td>
+<td>Шымкент қаласы денсаулық сақтау басқармасының «Қалалық жұқпалы аурулар ауруханасы» ШЖҚ КМК</td>
 <td>53 865,43</td>
 </tr>
 <tr>
-<td>179</td>
+<td>180</td>
 <td>Алматы қаласы Денсаулық сақтау басқармасының «Изатима Жекенова атындағы қалалық клиникалық жұқпалы аурулар ауруханасы» ШЖҚ МКК</td>
 <td>81 602,02</td>
 </tr>
 <tr>
-<td>180</td>
+<td>181</td>
 <td>Алматы қаласы Денсаулық сақтау басқармасының «Балалар қалалық клиникалық жұқпалы аурулар ауруханасы» ШЖҚ МКК</td>
 <td>45 526,72</td>
 </tr>
 <tr>
-<td>181</td>
-<td>Астана қаласы «Қалалық жұқпалы аурулар ауруханасы» МКҚК</td>
+<td>182</td>
+<td>Астана қаласы әкімдігінің «Қалалық жұқпалы аурулар ауруханасы» МКҚК</td>
 <td>89 154,59</td>
 </tr>
 <tr>
-<td>182</td>
-<td>Астана қаласы «Қалалық балалар жұқпалы аурулар ауруханасы» МКҚК</td>
+<td>183</td>
+<td>Астана қаласы әкімдігінің «Қалалық балалар жұқпалы аурулар ауруханасы» МКҚК</td>
 <td>95 295,00</td>
 </tr>
 </table>
@@ -191551,13 +191668,16 @@ SF-RI 1 (сурфактант)
 
 ## Тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік медициналық сақтандыру жүйесінде жедел медициналық көмек стансасы үшін бір бекітілген адамға жан басына шаққандағы норматив*
 
-> *Ескерту. Норматив жаңа редакцияда - ҚР Денсаулық сақтау министрінің 06.11.2018 № ҚР ДСМ-31 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. Норматив жаңа редакцияда - ҚР Денсаулық сақтау министрінің 25.12.2018 № ҚР ДСМ-45 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
 <td>№ р/с</td>
 <td>Өңірлердің атауы</td>
-<td>Жан басына шаққандағы норматив (теңге)</td>
+<td>
+Жан басына шаққандағы норматив
+(теңге)
+</td>
 </tr>
 <tr>
 <td>1</td>
@@ -191654,7 +191774,14 @@ SF-RI 1 (сурфактант)
 
 Тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік медициналық сақтандыру жүйесінде жедел медициналық көмек стансасы үшін бір бекітілген адамға жан басына шаққандағы нормативіне 3-қосымшаға медициналық ұйымдар бөлінісінде тарифті түзету мақсатында денсаулық сақтау субъектісі үшін айына бір тұрғынға жедел медициналық көмектің жан басына шаққандағы нормативіне түзету коэффициенттері.
 
-> *Тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік медициналық сақтандыру жүйесінде жедел медициналық көмек стансасы үшін бір бекітілген адамға жан басына шаққандағы нормативке 1-қосымша*
+> *Тегін медициналық көмектің кепілдік*  
+> *берілген көлемі шеңберінде*  
+> *және міндетті әлеуметтік медициналық*  
+> *сақтандыру жүйесінде жедел*  
+> *медициналық көмек стансасы үшін*  
+> *бір бекітілген адамға жан басына*  
+> *шаққандағы нормативке*  
+> *1-қосымша*
 
 ## Айына бір тұрғынға жедел медициналық көмектің жан басына шаққандағы нормативіне түзету коэффициенттері
 
@@ -191664,7 +191791,10 @@ SF-RI 1 (сурфактант)
 <td>Өңір</td>
 <td>Халық тығыздығының коэффициенті</td>
 <td>Ауылдық жерлерде жұмыс істегені үшін үстемеақыны есепке алу коэффициенті</td>
-<td>Жылу беру маусымының ұзақтығын есепке алу коэффициенті</td>
+<td>
+Жылу беру маусымының ұзақтығын есепке алу
+коэффициенті
+</td>
 </tr>
 <tr>
 <td>1</td>
@@ -191787,7 +191917,14 @@ SF-RI 1 (сурфактант)
 </tr>
 </table>
 
-> *Тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік медициналық сақтандыру жүйесінде жедел медициналық көмек стансасы үшін бір бекітілген адамға жан басына шаққандағы нормативке 2-қосымша*
+> *Тегін медициналық көмектің*  
+> *кепілдік берілген көлемі шеңберінде*  
+> *және міндетті әлеуметтік медициналық*  
+> *сақтандыру жүйесінде жедел*  
+> *медициналық көмек стансасы үшін*  
+> *бір бекітілген адамға жан басына*  
+> *шаққандағы нормативке*  
+> *2-қосымша*
 
 ## Өңірлер бөлінісінде тарифті түзету мақсатында денсаулық сақтау субъектісі үшін айына бір тұрғынға жедел медициналық көмектің жан басына шаққандағы нормативіне түзету коэффициенттері
 
@@ -191884,214 +192021,224 @@ SF-RI 1 (сурфактант)
 </tr>
 </table>
 
-> *Тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік медициналық сақтандыру жүйесінде жедел медициналық көмек стансасы үшін бір бекітілген адамға жан басына шаққандағы нормативке 3-қосымша*
+> *Тегін медициналық көмектің кепілдік*  
+> *берілген көлемі шеңберінде және*  
+> *міндетті әлеуметтік медициналық*  
+> *сақтандыру жүйесінде жедел*  
+> *медициналық көмек стансасы үшін*  
+> *бір бекітілген адамға жан басына*  
+> *шаққандағы нормативке*  
+> *3-қосымша*
 
 ## Медициналық ұйымдар бөлінісінде тарифті түзету мақсатында денсаулық сақтау субъектісі үшін айына бір тұрғынға жедел медициналық көмектің жан басына шаққандағы нормативіне түзету коэффициенттері
 
 <table>
 <tr>
-<td>№ р/с</td>
+<td>
+№
+р/с
+</td>
 <td>Медициналық ұйымдардың атауы</td>
 <td>Түзету коэффициенті</td>
 </tr>
 <tr>
 <td>1</td>
-<td>Ақмола облысы денсаулық сақтау басқармасының «Облыстық жедел медициналық көмек станциясы» ШЖҚ МКК</td>
+<td>Ақмола облысы денсаулық сақтау басқармасының жанындағы «Облыстық жедел медициналық көмек станциясы» ШЖҚ МКК</td>
 <td>0,987</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Әйтекеби аудандық орталық аурухана» МКК ШЖҚ</td>
+<td>Ақтөбе облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Әйтекеби аудандық орталық аурухана» МКК ШЖҚ</td>
 <td>0,928</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Алға аудандық орталық аурухана» МКК ШЖҚ</td>
+<td>Ақтөбе облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Алға аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>0,333</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Байғанин аудандық орталық аурухана» МКК ШЖҚ</td>
+<td>Ақтөбе облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Байғанин аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>1,402</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Ырғыз аудандық орталық аурухана» МКК ШЖҚ</td>
+<td>Ақтөбе облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Ырғыз аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>2,032</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Қарғалы аудандық орталық аурухана» МКК ШЖҚ</td>
+<td>Ақтөбе облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Қарғалы аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>0,953</td>
 </tr>
 <tr>
 <td>7</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Қобда аудандық орталық аурухана» МКК ШЖҚ</td>
+<td>Ақтөбе облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Қобда аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>1,643</td>
 </tr>
 <tr>
 <td>8</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Мәртөк аудандық орталық аурухана» МКК ШЖҚ</td>
+<td>Ақтөбе облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Мәртөк аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>0,224</td>
 </tr>
 <tr>
 <td>9</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Мұғалжар аудандық орталық аурухана» МКК ШЖҚ</td>
+<td>Ақтөбе облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Мұғалжар аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>1,477</td>
 </tr>
 <tr>
 <td>10</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Темір аудандық орталық аурухана» МКК ШЖҚ</td>
+<td>Ақтөбе облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Темір аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>1,591</td>
 </tr>
 <tr>
 <td>11</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Ойыл аудандық орталық аурухана» МКК ШЖҚ</td>
+<td>Ақтөбе облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Ойыл аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>0,879</td>
 </tr>
 <tr>
 <td>12</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Хромтау аудандық орталық аурухана» МКК ШЖҚ</td>
+<td>Ақтөбе облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Хромтау аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>0,459</td>
 </tr>
 <tr>
 <td>13</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Шалқар аудандық орталық аурухана» МКК ШЖҚ</td>
+<td>Ақтөбе облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Шалқар аудандық орталық аурухана» ШЖҚ МКК</td>
 <td>0,894</td>
 </tr>
 <tr>
 <td>14</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Ембі аудандық аурухана» МКК ШЖҚ</td>
+<td>Ақтөбе облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Ембі аудандық аурухана» ШЖҚ МКК</td>
 <td>0,708</td>
 </tr>
 <tr>
 <td>15</td>
-<td>Жауапкершіліг шектеулі серіктестік «Первая помошь» (Алғашқы жәрдем)</td>
+<td>Ақтөбе облысының «Первая помошь» (Алғашқы жәрдем) ЖШС</td>
 <td>1,011</td>
 </tr>
 <tr>
 <td>16</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Талғар аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Талғар аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>0,556</td>
 </tr>
 <tr>
 <td>17</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Жамбыл аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Жамбыл аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>0,429</td>
 </tr>
 <tr>
 <td>18</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Жамбыл ауданы Карғалы ауылының «Аудандық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Жамбыл ауданы Карғалы ауылының «Аудандық ауруханасы» ШЖҚ МКК</td>
 <td>0,565</td>
 </tr>
 <tr>
 <td>19</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Кербұлақ аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысы әкімдігінің «Алматы облысы денсаулық сақтау басқармасы» мемлекеттік мекемесінің «Кербұлақ аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>0,939</td>
 </tr>
 <tr>
 <td>20</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Райымбек аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысы әкімдігінің «Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Райымбек аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>1,052</td>
 </tr>
 <tr>
 <td>21</td>
-<td>Алматы облысы денсаулақ сақтау басқармасының ШЖҚ «Коксу аудандық орталық аураханасы» МКК</td>
+<td>Алматы облысы әкімдігінің Алматы облысы денсаулақ сақтау басқармасы мемлекеттік мекемесінің «Коксу аудандық орталық аураханасы» ШЖҚ МКК</td>
 <td>0,793</td>
 </tr>
 <tr>
 <td>22</td>
-<td>Алматы облысы денсаулық сақтау басқармасының Іле ауданы Боралдай ауылының «Аудандық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысы әкімдігінің Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің Іле ауданы Боралдай ауылының «Аудандық ауруханасы» ШЖҚ МКК</td>
 <td>0,346</td>
 </tr>
 <tr>
 <td>23</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Панфилов аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысы әкімдігінің Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Панфилов аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>0,420</td>
 </tr>
 <tr>
 <td>24</td>
-<td>Алматы облысы денсаулақ сақтау басқармасының» «Еңбекшиқазақ аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысы әкімдігінің Алматы облысы денсаулақ сақтау басқармасы мемлекеттік мекемесінің «Еңбекшиқазақ аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>0,406</td>
 </tr>
 <tr>
 <td>25</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Ақсу аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Ақсу аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>0,698</td>
 </tr>
 <tr>
 <td>26</td>
-<td>Алакөл ауданының «Қабанбай ауылдық өкпе аурулары ауруханасы» ММ</td>
+<td>Алматы облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің Алакөл ауданының Қабанбай ауылындағы «Аудандық ауруханасы» ШЖҚ МКК</td>
 <td>0,569</td>
 </tr>
 <tr>
 <td>27</td>
-<td>«Алматы облысы денсаулық сақтау басқармасының» «Ұйғыр аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысы әкімдігінің денсаулық сақтау басқармасы мемлекеттік мекемесінің» «Ұйғыр аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>0,478</td>
 </tr>
 <tr>
 <td>28</td>
-<td>«Алматы облысы денсаулық сақтау басқармасының» «Карасай аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысының денсаулық сақтау басқармасы «Карасай аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>0,327</td>
 </tr>
 <tr>
 <td>29</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Іле аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысының денсаулық сақтау басқармасы «Іле аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>0,497</td>
 </tr>
 <tr>
 <td>30</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Балхаш аудандық орталық аураханасы» МКК ШЖҚ</td>
+<td>Алматы облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Балхаш аудандық орталық аураханасы» ШЖҚ МКК</td>
 <td>0,897</td>
 </tr>
 <tr>
 <td>31</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Шелек аудандық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің Еңбекшіқазақ ауданының Шелек ауылының «Аудандық ауруханасы» ШЖҚ МКК</td>
 <td>0,803</td>
 </tr>
 <tr>
 <td>32</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Сарқан аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Сарқан аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>1,352</td>
 </tr>
 <tr>
 <td>33</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Алакөл аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Алакөл аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>0,549</td>
 </tr>
 <tr>
 <td>34</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Ескелді аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысы денсаулық сақтау басқармасының «Ескелді аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>0,695</td>
 </tr>
 <tr>
 <td>35</td>
-<td>Алматы облысы денсаулақ сақтау басқармасының «Капшағай қалалық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысының денсаулақ сақтау басқармасы мемлекеттік мекемесінің «Қапшағай қалалық ауруханасы» ШЖҚ МКК</td>
 <td>0,707</td>
 </tr>
 <tr>
 <td>36</td>
-<td>Алматы облысының денсаулақ сақтау басқармасы мемлекеттік мекемесінің «Облыстық жедел және шұғыл медициналық жәрдем көрсету станциясы» ШЖҚ КМК</td>
-<td>6,180</td>
+<td>Алматы облысының денсаулық сақтау басқармасының «Облыстық жедел және шұғыл медициналық жәрдем көрсету станциясы» ШЖҚ КМК</td>
+<td>0,850</td>
 </tr>
 <tr>
 <td>37</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Нарынкөл аудандық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Нарынкөл аудандық ауруханасы» ШЖҚ МКК</td>
 <td>0,571</td>
 </tr>
 <tr>
 <td>38</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Қаратал аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Қаратал аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>0,565</td>
 </tr>
 <tr>
 <td>39</td>
-<td>Алматы облысы денсаулық сақтау басқармасының «Текелі қалалық ауруханасы» ШЖҚ МКК</td>
+<td>Алматы облысы денсаулық сақтау басқармасы мемлекеттік мекемесінің «Текелі қалалық ауруханасы» МКК ШЖҚ</td>
 <td>0,725</td>
 </tr>
 <tr>
 <td>40</td>
-<td>Атырау облысы денсаулық сақтау басқармасының «Атырау қалалық жедел медициналық жәрдем станциясы МКҚК</td>
+<td>Атырау облысы денсаулық сақтау басқармасы «Атырау қалалық жедел медициналық жәрдем станциясы МКҚК</td>
 <td>1,003</td>
 </tr>
 <tr>
@@ -192126,22 +192273,22 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>47</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Глубокий орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Глубокий орталық аудандық ауруханасы» КМҚК</td>
 <td>0,972</td>
 </tr>
 <tr>
 <td>48</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасың «Зайсан орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Зайсан орталық аудандық ауруханасы» КМҚК</td>
 <td>0,258</td>
 </tr>
 <tr>
 <td>49</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Бесқарағай орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Катон-қарағай орталық аудандық ауруханасы» КМҚК</td>
 <td>0,539</td>
 </tr>
 <tr>
 <td>50</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Катонқарағай ауданының ауданарылық ауруханасы» КМҚК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Катонқарағай ауданының ауданаралық ауруханасы» КМҚК</td>
 <td>0,483</td>
 </tr>
 <tr>
@@ -192156,7 +192303,7 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>53</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Көкпекті орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Көкпекті орталық аудандық ауруханасы» КМҚК</td>
 <td>0,565</td>
 </tr>
 <tr>
@@ -192171,7 +192318,7 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>56</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Ұлан орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Ұлан орталық аудандық ауруханасы» КМҚК</td>
 <td>1,220</td>
 </tr>
 <tr>
@@ -192181,22 +192328,22 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>58</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Абай орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Абай орталық аудандық ауруханасы» КМҚК</td>
 <td>0,546</td>
 </tr>
 <tr>
 <td>59</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Аягөз орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Аягөз орталық аудандық ауруханасы» КМҚК</td>
 <td>0,216</td>
 </tr>
 <tr>
 <td>60</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Бесқарағай орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Бесқарағай орталық аудандық ауруханасы» КМҚК</td>
 <td>0,565</td>
 </tr>
 <tr>
 <td>61</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Бородулиха орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Бородулиха орталық аудандық ауруханасы» КМҚК</td>
 <td>0,263</td>
 </tr>
 <tr>
@@ -192211,22 +192358,22 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>64</td>
-<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Үржар орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Шығыс Қазақстан облысы денсаулық сақтау басқармасының «Үржар орталық аудандық ауруханасы» КМҚК</td>
 <td>0,253</td>
 </tr>
 <tr>
 <td>65</td>
-<td>Шығыс Қазақстан облыстық денсаулық сақтау басқармасының «Үржар ауданының ауданаралық ауруханасы» ШЖҚ КМК</td>
+<td>Шығыс Қазақстан облыстық денсаулық сақтау басқармасының «Үржар ауданының ауданаралық ауруханасы» КМҚК</td>
 <td>0,440</td>
 </tr>
 <tr>
 <td>66</td>
-<td>Жамбыл облысы денсаулық сақтау басқармасының Жамбыл облыстық медициналық жедел жәрдем стансасы ШЖҚ МКК</td>
+<td>Жамбыл облысы денсаулық сақтау басқармасының «Жамбыл облыстық медициналық жедел жәрдем стансасы» ШЖҚ МКК</td>
 <td>0,528</td>
 </tr>
 <tr>
 <td>67</td>
-<td>Батыс Қазақстан облысы денсаулық сақтау басқармасының «Қалалық жедел медициналық жәрдем станциясы» МКК ШЖҚ</td>
+<td>Батыс Қазақстан облысы денсаулық сақтау басқармасының «Қалалық жедел медициналық жәрдем станциясы» ШЖҚ МКК</td>
 <td>1,004</td>
 </tr>
 <tr>
@@ -192311,7 +192458,7 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>84</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Қостанай қалалық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Қостанай қалалық кезек күттірмейтін жедел медициналық көмек стансасы» КМҚК</td>
 <td>1,166</td>
 </tr>
 <tr>
@@ -192331,107 +192478,107 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>88</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Арқалық қалалық медициналық кезет күттірмейтін жедел жәрдем стансасы» МКҚК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Арқалық қалалық медициналық кезет күттірмейтін жедел жәрдем стансасы» МКҚК</td>
 <td>1,818</td>
 </tr>
 <tr>
 <td>89</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Жітіқара аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Жітіқара аудандық орталық ауруханасы» КМК</td>
 <td>0,829</td>
 </tr>
 <tr>
 <td>90</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Алтынсарин аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Алтынсарин аудандық орталық ауруханасы» КМК</td>
 <td>0,695</td>
 </tr>
 <tr>
 <td>91</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Аманкелді аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Аманкелді аудандық орталық ауруханасы» КМК</td>
 <td>0,981</td>
 </tr>
 <tr>
 <td>92</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Құсмұрын селолық ауруханасы» МКҚК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Құсмұрын селолық ауруханасы» МКҚК</td>
 <td>1,702</td>
 </tr>
 <tr>
 <td>93</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Әулиекөл аудандық туберкулезге қарсы ауруханасы» КММ</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Әулиекөл аудандық туберкулезге қарсы ауруханасы» КММ</td>
 <td>0,615</td>
 </tr>
 <tr>
 <td>94</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Денисов аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Денисов аудандық орталық ауруханасы» КМК</td>
 <td>0,981</td>
 </tr>
 <tr>
 <td>95</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Жангелдин аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Жангелдин аудандық орталық ауруханасы» КМК</td>
 <td>1,510</td>
 </tr>
 <tr>
 <td>96</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Қамысты аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Қамысты аудандық орталық ауруханасы» КМК</td>
 <td>0,981</td>
 </tr>
 <tr>
 <td>97</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Қарабалық аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Қарабалық аудандық орталық ауруханасы» КМК</td>
 <td>0,339</td>
 </tr>
 <tr>
 <td>98</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Қарасу аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Қарасу аудандық орталық ауруханасы» КМК</td>
 <td>0,981</td>
 </tr>
 <tr>
 <td>99</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Октябрь селолық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Октябрь селолық ауруханасы» КМК</td>
 <td>0,981</td>
 </tr>
 <tr>
 <td>100</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Қостанай аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Қостанай аудандық орталық ауруханасы» КМК</td>
 <td>0,446</td>
 </tr>
 <tr>
 <td>101</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Меңдіқара аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Меңдіқара аудандық орталық ауруханасы» КМК</td>
 <td>0,562</td>
 </tr>
 <tr>
 <td>102</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Науырзым аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Науырзым аудандық орталық ауруханасы» КМК</td>
 <td>1,530</td>
 </tr>
 <tr>
 <td>103</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Сарыкөл аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Сарыкөл аудандық орталық ауруханасы» КМК</td>
 <td>0,339</td>
 </tr>
 <tr>
 <td>104</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Таран аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Таран аудандық орталық ауруханасы» КМК</td>
 <td>0,623</td>
 </tr>
 <tr>
 <td>105</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Ұзынкөл аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Ұзынкөл аудандық орталық ауруханасы» КМК</td>
 <td>0,541</td>
 </tr>
 <tr>
 <td>106</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Федоров аудандық орталық ауруханасы» КМК</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Федоров аудандық орталық ауруханасы» КМК</td>
 <td>0,255</td>
 </tr>
 <tr>
 <td>107</td>
-<td>Қызылорда облысы денсаулық сақтау басқармасының «Қызылорда облыстық жедел медициналық жәрдем станциясы МКҚК</td>
+<td>Қызылорда облысы денсаулық сақтау басқармасының «Қызылорда облыстық медициналық жедел жәрдем стансасы» ШЖҚ КМК</td>
 <td>1,011</td>
 </tr>
 <tr>
 <td>108</td>
-<td>Маңғыстау облысы денсаулық сақтау басқармасының «Мұнайлыорталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Маңғыстау облысы денсаулық сақтау басқармасының «Мұнайлы орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>0,782</td>
 </tr>
 <tr>
@@ -192446,17 +192593,17 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>111</td>
-<td>Маңғыстау облысы денсаулық сақтау басқармасының «Қарақия орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Маңғыстау облысы денсаулық сақтау басқармасының «Қарақия орталық аудандық ауруханасы» ШЖҚ МКК</td>
 <td>0,787</td>
 </tr>
 <tr>
 <td>112</td>
-<td>Маңғыстау облысы денсаулық сақтау басқармасының «Жетыбай аудандық ауруханасы» МКҚК</td>
+<td>Маңғыстау облысы денсаулық сақтау басқармасының «Жетыбай аудандық ауруханасы» ШЖҚ МКК</td>
 <td>0,787</td>
 </tr>
 <tr>
 <td>113</td>
-<td>Маңғыстау облысы денсаулық сақтау басқармасының «Бейнеу орталық аудандық ауруханасы» МКҚК</td>
+<td>Маңғыстау облысы денсаулық сақтау басқармасының «Бейнеу орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>0,787</td>
 </tr>
 <tr>
@@ -192466,12 +192613,12 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>115</td>
-<td>«Манғыстау облыстық медициналық жедел жәрдем станциясы» МКҚК</td>
+<td>Маңғыстау облысы денсаулық сақтау басқармасының «Маңғыстау облысы кезек күттірмейтін жедел медициналық көмек станциясы» ШЖҚ КМК</td>
 <td>1,251</td>
 </tr>
 <tr>
 <td>116</td>
-<td>Павлодар облысы денсаулық сақтау басқармасының «Павлодар облыстық жедел медициналық көмек станциясы» КМК</td>
+<td>Павлодар облысы денсаулық сақтау басқармасының «Павлодар облыстық жедел медициналық көмек станциясы» ШЖҚ КМК</td>
 <td>0,999</td>
 </tr>
 <tr>
@@ -192481,172 +192628,172 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>118</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Мамлют орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Солтүстік Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Мамлют орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>0,729</td>
 </tr>
 <tr>
 <td>119</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Тимирязев орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Солтүстік Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Тимирязев орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>0,982</td>
 </tr>
 <tr>
 <td>120</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Явленка орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Солтүстік Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Явленка орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>0,397</td>
 </tr>
 <tr>
 <td>121</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Аққайың орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Солтүстік Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Аққайың орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>0,631</td>
 </tr>
 <tr>
 <td>122</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Облыстық жедел медициналық көмек орталығы» ШЖҚ КМК</td>
+<td>Солтүстік Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Облыстық жедел медициналық көмек орталығы» ШЖҚ КМК</td>
 <td>1,448</td>
 </tr>
 <tr>
 <td>123</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Жамбыл орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Солтүстік Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Жамбыл орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>0,678</td>
 </tr>
 <tr>
 <td>124</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Айыртау орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Солтүстік Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Айыртау орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>0,709</td>
 </tr>
 <tr>
 <td>125</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Ғабит Мүсірепов атындағы орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Солтүстік Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Ғабит Мүсірепов атындағы орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>0,665</td>
 </tr>
 <tr>
 <td>126</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Тайынша орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Солтүстік Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Тайынша орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>0,441</td>
 </tr>
 <tr>
 <td>127</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Уәлиханов орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Солтүстік Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Уәлиханов орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>0,975</td>
 </tr>
 <tr>
 <td>128</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Ақжар орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Солтүстік Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Ақжар орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>0,982</td>
 </tr>
 <tr>
 <td>129</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Қызылжар орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Солтүстік Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Қызылжар орталық аудандық ауруханасы» ШЖҚ КМК</td>
 <td>0,505</td>
 </tr>
 <tr>
 <td>130</td>
-<td>Солтүстік Қазақстан облысы денсаулық сақтау басқармасының «Мағжан Жұмабаев ауданының орталық аудандық ауруханасы» ШЖҚ КМК</td>
+<td>Солтүстік Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Мағжан Жұмабаев ауданының орталық аудандық ауруханасы» ШЖҚ МКК</td>
 <td>0,726</td>
 </tr>
 <tr>
 <td>131</td>
-<td>Шымкент қаласы денсаулық сақтау басқармасының «Жедел медициналық көмек стансасы» МКК ШЖҚ</td>
+<td>Шымкент қаласы денсаулық сақтау басқармасының «Жедел медициналық көмек стансасы» ШЖҚ МКК</td>
 <td>0,966</td>
 </tr>
 <tr>
 <td>132</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Арыс аудандық емханасы» МКК ШЖҚ</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Арыс аудандық емханасы» ШЖҚ МКК</td>
 <td>0,747</td>
 </tr>
 <tr>
 <td>133</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Ленгір қалалық емханасы» МКК ШЖҚ</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Ленгір қалалық емханасы» ШЖҚ МКК</td>
 <td>1,280</td>
 </tr>
 <tr>
 <td>134</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Кентау қалалық емханасы» МКК ШЖҚ</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Кентау қалалық емханасы» ШЖҚ МКК</td>
 <td>1,473</td>
 </tr>
 <tr>
 <td>135</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Облыстық жедел жәрдем беру стансасы» МКҚК</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Облыстық жедел жәрдем беру стансасы» ШЖҚ МКК</td>
 <td>0,383</td>
 </tr>
 <tr>
 <td>136</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Бәйдібек аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Бәйдібек аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>1,060</td>
 </tr>
 <tr>
 <td>137</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Қазығұрт аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Қазығұрт аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>1,409</td>
 </tr>
 <tr>
 <td>138</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Жетісай аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Жетісай аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>1,406</td>
 </tr>
 <tr>
 <td>139</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Ордабасы аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Ордабасы аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>1,095</td>
 </tr>
 <tr>
 <td>140</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Отырар аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Отырар аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>1,122</td>
 </tr>
 <tr>
 <td>141</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Сайрам аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Сайрам аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>1,112</td>
 </tr>
 <tr>
 <td>142</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Сарыағаш аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Сарыағаш аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>0,985</td>
 </tr>
 <tr>
 <td>143</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Абай «Келес аудандық ауруханасы» МКК ШЖҚ</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Абай «Келес аудандық ауруханасы» ШЖҚ МКК</td>
 <td>0,847</td>
 </tr>
 <tr>
 <td>144</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Созақ аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Созақ аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>0,489</td>
 </tr>
 <tr>
 <td>145</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Төлеби аудандық ауруханасы» МКҚК</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Төлеби аудандық ауруханасы» ШЖҚ МКК</td>
 <td>1,254</td>
 </tr>
 <tr>
 <td>146</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Түлкібас аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Түлкібас аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>1,300</td>
 </tr>
 <tr>
 <td>147</td>
-<td>Түркістан облысы денсаулық сақтау басқармасының «Шардара аудандық орталық ауруханасы» МКК ШЖҚ</td>
+<td>Түркістан облысы денсаулық сақтау басқармасының «Шардара аудандық орталық ауруханасы» ШЖҚ МКК</td>
 <td>0,802</td>
 </tr>
 <tr>
 <td>148</td>
-<td>«Доктор Орынбаевтың медициналық орталығы» ЖШС Шымкент қаласы</td>
+<td>Шымкент қаласының «Доктор Орынбаевтың медициналық орталығы» ЖШС</td>
 <td>0,759</td>
 </tr>
 <tr>
 <td>149</td>
-<td>«Шұғыл медициналық көмек» ЖШС Алматы қаласы</td>
+<td>Алматы қаласының «Шұғыл медициналық көмек» ЖШС</td>
 <td>0,317</td>
 </tr>
 <tr>
 <td>150</td>
-<td>Алматы қаласы Денсаулық сақтау басқармасының «Медициналық жедел жәрдем станциясы» МКК ШЖҚ</td>
+<td>Алматы қаласы Денсаулық сақтау басқармасының «Медициналық жедел жәрдем станциясы» ШЖҚ МКК</td>
 <td>1,091</td>
 </tr>
 <tr>
 <td>151</td>
-<td>Астана қаласының «Қалалық жедел медициналық жәрдем станциясы» МКК ШЖҚ</td>
+<td>Астана қаласының «Қалалық жедел медициналық жәрдем станциясы» ШЖҚ МКК</td>
 <td>1,026</td>
 </tr>
 </table>
@@ -192659,13 +192806,19 @@ SF-RI 1 (сурфактант)
 
 ## Шығындарын өтеу білікті мамандарды және (немесе) науқастарды санитариялық автокөлікпен тасымалдау бойынша бір шақыру үшін жүзеге асырылатын, тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік медициналық сақтандыру жүйесінде көрсетілетін медициналық қызметтерге тариф
 
-> *Ескерту. Тариф жаңа редакцияда - ҚР Денсаулық сақтау министрінің 06.11.2018 № ҚР ДСМ-31 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. Тариф жаңа редакцияда - ҚР Денсаулық сақтау министрінің 25.12.2018 № ҚР ДСМ-45 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
-<td>№ р/с</td>
+<td>
+№
+р/с
+</td>
 <td>Өңірлердің атауы</td>
-<td>Тасымалдау бойынша бір шақыруға тариф (теңге)</td>
+<td>
+Тасымалдау бойынша бір шақыруға тариф
+(теңге)
+</td>
 </tr>
 <tr>
 <td>1</td>
@@ -192695,7 +192848,7 @@ SF-RI 1 (сурфактант)
 <tr>
 <td>6</td>
 <td>Жамбыл облысы</td>
-<td>134 875,93</td>
+<td>95 113,09</td>
 </tr>
 <tr>
 <td>7</td>
@@ -192747,13 +192900,19 @@ SF-RI 1 (сурфактант)
 
 ## Шығындарын өтеу қалпына келтіру емі және оңалту бойынша бір төсек-күн үшін жүзеге асырылатын, тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік медициналық сақтандыру жүйесінде көрсетілетін медициналық қызметтерге тариф
 
-> *Ескерту. Тариф жаңа редакцияда - ҚР Денсаулық сақтау министрінің 06.11.2018 № ҚР ДСМ-31 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. Тариф жаңа редакцияда - ҚР Денсаулық сақтау министрінің 25.12.2018 № ҚР ДСМ-45 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
-<td rowspan="2">№ р/с</td>
+<td rowspan="2">
+№
+р/с
+</td>
 <td rowspan="2">Медициналық ұйымның атауы</td>
-<td colspan="2">Бір төсек-күн тарифі, тенге</td>
+<td colspan="2">
+Бір төсек-күн тарифі,
+тенге
+</td>
 </tr>
 <tr>
 <td>стационарлық көмек бойынша</td>
@@ -192779,13 +192938,13 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>3</td>
-<td>Ақтөбе облысы денсаулық сақтау басқармасының «Ақтөбе медициналық орталығы» шаруашылық жүргізу құқығындағы мемлекеттік коммуналдық кәсіпорны</td>
+<td>Ақтөбе облысының денсаулық сақтау басқармасы мемлекеттік мекемесінің «Ақтөбе медициналық орталығы» (Aktobe medical center) шаруашылық жүргізу құқығындағы мемлекеттік коммуналдық кәсіпорны</td>
 <td>7 377,84</td>
 <td></td>
 </tr>
 <tr>
 <td>4</td>
-<td>Ақтөбе облысының «Ақбөбек» оңалту орталығы жауапкершілігі шектеулі серіктестігі</td>
+<td>Ақтөбе облысының «Ақбөбек» оңалту орталығы» жауапкершілігі шектеулі серіктестігі</td>
 <td>6 716,75</td>
 <td></td>
 </tr>
@@ -192816,7 +192975,7 @@ SF-RI 1 (сурфактант)
 <tr>
 <td>9</td>
 <td>Батыс Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Ауданаралық сауықтыру ауруханасы» оңалту орталығы» шаруашылық жүргізу құқығындағы коммуналдық мемлекеттік кәсіпорны</td>
-<td>4 264,89</td>
+<td>6 293,38</td>
 <td></td>
 </tr>
 <tr>
@@ -192827,159 +192986,177 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>11</td>
-<td>Қарағанды облысы денсаулық сақтау басқармасының «Облыстық соғыс ардагерлеріне медициналық көмек көрсету орталығы» коммуналдық мемлекеттік кәсіпорны</td>
+<td>Қарағанды облысы денсаулық сақтау басқармасының «Қарағанды қаласының № 2 көпбейінді ауруханасы» коммуналдық мемлекеттік кәсіпорны</td>
 <td>7 974,63</td>
 <td>5 723,02</td>
 </tr>
 <tr>
 <td>12</td>
+<td>Қарағанды облысы денсаулық сақтау басқармасының «Облыстық кардиохирургия орталығы» коммуналдық мемлекеттік кәсіпорны</td>
+<td>7 974,63</td>
+<td>5 723,02</td>
+</tr>
+<tr>
+<td>13</td>
 <td>Қарағанды облысы денсаулық сақтау басқармасының «Үміт» Оңалту орталығы мемлекеттік коммуналдық қазынашылық кәсіпорны</td>
 <td>5 201,39</td>
 <td></td>
 </tr>
 <tr>
-<td>13</td>
-<td>Қарағанды облысы денсаулық сақтау басқармасының «Қарлыгаш соматикалық шипажайы» Жезқазған қаласы</td>
+<td>14</td>
+<td>Қарағанды облысы денсаулық сақтау басқармасының «Қарлыгаш соматикалық шипажайы» коммуналдық мемлекеттік кәсіпорны</td>
 <td>2 515,75</td>
 <td></td>
 </tr>
 <tr>
-<td>14</td>
-<td>Қостанай облысы денсаулық сақтау басқармасының «Қостанай қалалық балалар ауруханасы коммуналдық мемлекеттік кәсіпорны</td>
+<td>15</td>
+<td>Қостанай облысының әкімдігі денсаулық сақтау басқармасының «Қостанай қалалық балалар ауруханасы коммуналдық мемлекеттік кәсіпорны</td>
 <td>7 646,24</td>
 <td></td>
 </tr>
 <tr>
-<td>15</td>
+<td>16</td>
 <td>Қызылорда облысы денсаулық сақтау басқармасының «Амбулаториялық –емханалық қызметі бар Сырдария аудандық орталық ауруханасы» шаруашылық жүргізу құқығындағы мемлекеттік коммуналдық кәсіпорны</td>
 <td>14 367,82</td>
 <td></td>
 </tr>
 <tr>
-<td>16</td>
+<td>17</td>
 <td>Қызылорда облысы денсаулық сақтау басқармасының «Амбулаториялық-емханалық қызметі бар Қазалы аудандық орталық ауруханасы» шаруашылық жүргізу құқығындағы мемлекеттік коммуналдық кәсіпорны</td>
 <td>9 025,54</td>
 <td></td>
 </tr>
 <tr>
-<td>17</td>
+<td>18</td>
 <td>Қызылорда облысы денсаулық сақтау басқармасының «Амбулаториялық-емханалық қызметі бар Жаңақорған аудандық орталық ауруханасы» шаруашылық жүргізу құқығындағы мемлекеттік коммуналдық кәсіпорны</td>
 <td>9 057,97</td>
 <td></td>
 </tr>
 <tr>
-<td>18</td>
+<td>19</td>
 <td>Қызылорда облысы денсаулық сақтау басқармасының «Қызылорда қалалық ауруханасы» шаруашылық жүргізу құқығындағы мемлекеттік коммуналдық кәсіпорны</td>
 <td>9 057,97</td>
 <td></td>
 </tr>
 <tr>
-<td>19</td>
+<td>20</td>
 <td>Манғыстау облысының «Нейрон» жауапкершілігі шектеулі серіктестігі</td>
 <td>6 825,41</td>
 <td>3 329,50</td>
 </tr>
 <tr>
-<td>20</td>
+<td>21</td>
 <td>Манғыстау облысының «Ясин» жауапкершілігі шектеулі серіктестігі</td>
 <td>6 825,41</td>
 <td>3 329,50</td>
 </tr>
 <tr>
-<td>21</td>
+<td>22</td>
 <td>Шымкент қаласы денсаулық сақтау басқармасының «Мейірім» оңалту орталығы» мемлекеттік коммуналдық қазынашылық кәсіпорны</td>
 <td>5 111,54</td>
 <td></td>
 </tr>
 <tr>
-<td>22</td>
+<td>23</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Облыстық балалар оңалту орталығы» мемлекеттік коммуналдық қазынашылық кәсіпорны</td>
 <td>4 556,79</td>
 <td></td>
 </tr>
 <tr>
-<td>23</td>
+<td>24</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Сарыағаш» облыстық балалар шипажайы» мемлекеттік коммуналдық қазынашылық кәсіпорны</td>
 <td>3 670,56</td>
 <td></td>
 </tr>
 <tr>
-<td>24</td>
+<td>25</td>
 <td>Шымкент қаласы денсаулық сақтау басқармасының «№2 Оңалту орталығы» шаруашылық жүргізу құқығындағы мемлекеттік коммуналдық кәсіпорны</td>
 <td>6 844,15</td>
 <td></td>
 </tr>
 <tr>
-<td>25</td>
+<td>26</td>
 <td>Түркістан облысы денсаулық сақтау басқармасының «Түлкібас аудандық орталық ауруханасы» мемлекеттік коммуналдық қазынашылық кәсіпорны</td>
 <td>3 816,82</td>
 <td></td>
 </tr>
 <tr>
-<td>26</td>
+<td>27</td>
 <td>Шымкент қаласының «Денсаулык» жауапкершілігі шектеулі серіктестігі</td>
 <td>5 197,53</td>
 <td></td>
 </tr>
 <tr>
-<td>27</td>
+<td>28</td>
 <td>Шымкент қаласының «Эскулап –Vita» жауапкершілігі шектеулі серіктестігі</td>
 <td>5 037,24</td>
 <td></td>
 </tr>
 <tr>
-<td>28</td>
+<td>29</td>
 <td>Түркістан облысының «Ақсу-Жабағлы оңалту-сауықтыру кешені» жауапкершілігі шектеулі серіктестігі</td>
 <td>6 296,98</td>
 <td></td>
 </tr>
 <tr>
-<td>29</td>
+<td>30</td>
 <td>Түркістан облысының «Біркөлік оңалту-сауықтыру кешені» жауапкершілігі шектеулі серіктестігі</td>
 <td>6 296,98</td>
 <td></td>
 </tr>
 <tr>
-<td>30</td>
+<td>31</td>
 <td>Шымкент қаласы денсаулық сақтау басқармасының «Ана мен бала» оңалту орталығы» мемлекеттік коммуналдық қазынашылық кәсіпорны</td>
 <td>19 179,46</td>
 <td></td>
 </tr>
 <tr>
-<td>31</td>
+<td>32</td>
 <td>Шымкент қаласы денсаулық сақтау басқармасының «№ 1 оңалту орталығы» мемлекеттік коммуналдық қазынашылық кәсіпорны</td>
 <td>7 577,88</td>
 <td></td>
 </tr>
 <tr>
-<td>32</td>
+<td>33</td>
 <td>Алматы қаласы денсаулық сақтау басқармасының «№ 4 балалар шипажайы» шаруашылық жүргізу құқығындағы мемлекеттік коммуналдық кәсіпорны</td>
 <td>4 889,49</td>
 <td></td>
 </tr>
 <tr>
-<td>33</td>
+<td>34</td>
 <td>Алматы қаласы денсаулық сақтау басқармасының «Алау» № 3 балалар шипажайы» шаруашылық жүргізу құқығындағы мемлекеттік коммуналдық кәсіпорны</td>
 <td>4 982,30</td>
 <td></td>
 </tr>
 <tr>
-<td>34</td>
-<td>Алматы қаласы денсаулық сақтау басқармасының «№ 2 балалар шипажайы» шаруашылық жүргізу құқығындағы мемлекеттік коммуналдық кәсіпорны</td>
+<td>35</td>
+<td>Алматы қаласы денсаулық сақтау басқармасының шаруашылық жүргізу құқығындағы «Балдәурен» балаларды сауықтыру орталығы» коммуналдық мемлекеттік кәсіпорны</td>
 <td>3 839,58</td>
 <td></td>
 </tr>
 <tr>
-<td>35</td>
-<td>Алматы қаласы денсаулық сақтау басқармасының «Қалалық балалар оңалту орталығы» шаруашылық жүргізу құқығындағы мемлекеттік коммуналдық кәсіпорны</td>
+<td>36</td>
+<td>Алматы қаласы денсаулық сақтау басқармасының шаруашылық жүргізу құқығындағы «Алау» оңалту орталығы» мемлекеттік коммуналдық кәсіпорны</td>
 <td>8 040,94</td>
 <td></td>
 </tr>
 <tr>
-<td>36</td>
+<td>37</td>
 <td>Астана қаласындағы «Жұлдызай медициналық оңалту орталығы» жауапкершілігі шектеулі серіктестігі</td>
 <td></td>
 <td>3 329,50</td>
+</tr>
+<tr>
+<td>38</td>
+<td>Маңғыстау облысының «Маңғыстау облыстық ауруханасы» шаруашылық жүргізу құқығындағы мемлекеттік коммуналдық кәсіпорны</td>
+<td>6830,60</td>
+<td></td>
+</tr>
+<tr>
+<td>39</td>
+<td>Маңғыстау облысының «Жаңаөзен аудандық орталық ауруханасы» шаруашылық жүргізу құқығындағы мемлекеттік коммуналдық кәсіпорны</td>
+<td>6825,41</td>
+<td></td>
 </tr>
 </table>
 
@@ -193015,13 +193192,19 @@ SF-RI 1 (сурфактант)
 
 ## Шығындарын өтеу мейіргерлік күтім бойынша бір төсек-күн үшін жүзеге асырылатын, тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және міндетті әлеуметтік медициналық сақтандыру жүйесінде көрсетілетін медициналық қызметтерге тариф
 
-> *Ескерту. Тариф жаңа редакцияда - ҚР Денсаулық сақтау министрінің 06.11.2018 № ҚР ДСМ-31 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. Тариф жаңа редакцияда - ҚР Денсаулық сақтау министрінің 25.12.2018 № ҚР ДСМ-45 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
-<td>№ р/с</td>
+<td>
+№
+р/с
+</td>
 <td>Медициналық ұйымдардың атауы</td>
-<td>Бір төсек-күн тарифі, теңге</td>
+<td>
+Бір төсек-күн
+тарифі, теңге
+</td>
 </tr>
 <tr>
 <td>1</td>
@@ -193080,7 +193263,7 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>11</td>
-<td>Батыс Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Облыстық клиникалық ауруханасы» ШЖҚ МКК</td>
+<td>Батыс Қазақстан облысының әкімдігі денсаулық сақтау басқармасының «Облыстық көпбейінді ауруханасы» ШЖҚ МКК</td>
 <td>5 866,67</td>
 </tr>
 <tr>
@@ -193095,7 +193278,7 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>14</td>
-<td>Қарағанды облысы денсаулық сақтау басқармасының «Теміртау қаласының балалар ауруханасы» КМК</td>
+<td>Қарағанды облысы денсаулық сақтау басқармасының «Теміртау қаласының перзентханасы» КМК</td>
 <td>4 181,37</td>
 </tr>
 <tr>
@@ -193145,7 +193328,7 @@ SF-RI 1 (сурфактант)
 </tr>
 <tr>
 <td>24</td>
-<td>Астана қаласы денсаулық басқармасының. «Медициналық колледж» ШЖҚ МКК</td>
+<td>Алматыа қаласы денсаулық басқармасының. ШЖҚ «Жоғары медициналық колледжі» КМК</td>
 <td>5 103,29</td>
 </tr>
 </table>

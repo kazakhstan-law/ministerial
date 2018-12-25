@@ -1,5 +1,5 @@
 ---
-version_id: '124440_370874'
+version_id: '124440_384331'
 act_code: '124440'
 language: rus
 title: Об утверждении тарифов на медицинские услуги, оказываемые в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103010000000'
 approval_date: 2018-09-05
-version_date: 2018-11-06
+version_date: 2018-12-25
 registry_number: '124440'
 caused_by:
-  code: '125683'
+  code: '127507'
   title: О внесении изменений в приказ Министра здравоохранения Республики Казахстан от 5 сентября 2018 года № ҚР ДСМ-10 «Об утверждении тарифов на медицинские услуги, оказываемые в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования»
-  link: https://zan.gov.kz/client/#!/doc/125683/rus
-source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
+  link: https://zan.gov.kz/client/#!/doc/127507/rus
+source: https://zan.gov.kz/client/#!/doc/124440/rus/25.12.2018
 ---
 
 # Об утверждении тарифов на медицинские услуги, оказываемые в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования
@@ -157976,23 +157976,25 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 
 ## Тарифы на медицинские услуги, оказываемые в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования *
 
+> *Сноска. Тарифы в редакции приказа Министра здравоохранения РК от 25.12.2018 № ҚР ДСМ-45 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 <table>
 <tr>
 <td rowspan="2">№</td>
 <td rowspan="2">Полный код уcлуги</td>
 <td rowspan="2">Наименование услуги</td>
-<td rowspan="2">Стоимость **</td>
-<td colspan="3">Поправочные коэффициенты</td>
+<td rowspan="2">Стоимость**</td>
+<td colspan="4">Поправочные коэффициенты</td>
 <td colspan="3">Формы предоставления медицинской помощи</td>
-<td rowspan="2">Гарантированный объем бесплатной медицинской помощи (ГОБМП)***</td>
+<td rowspan="2">Гарантированный объем бесплатной медицинской помощи (Г О Б М П)***</td>
 <td rowspan="2">Дорогостоящие услуги</td>
 </tr>
 <tr>
 <td>услуги на дому</td>
 <td>дистанционные консультации</td>
-<td>услуги телемедицины</td>
-<td>Первичная медико-санитарная помощь (ПМСП)</td>
-<td>Консультативно-диагностическая помощь (КДП)</td>
+<td colspan="2">услуги телемедицины</td>
+<td>Первичная медико-санитарная помощь (П М С П)</td>
+<td>Консультативно-диагностическая помощь (К Д П)</td>
 <td>стационарная помощь</td>
 </tr>
 <tr>
@@ -158002,7 +158004,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>4</td>
 <td>5</td>
 <td>6</td>
-<td>7</td>
+<td colspan="2">7</td>
 <td>8</td>
 <td>9</td>
 <td>10</td>
@@ -158016,7 +158018,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -158025,20 +158027,12 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2</td>
-<td>A01. 000.000</td>
-<td>
-Прием
-на уровне
-первичной
-медицинской
-санитарной
-помощи
-(ПМСП)
-</td>
+<td>A01.000.000</td>
+<td>Прием на уровне первичной медицинской санитарной помощи (П М С П)</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -158047,15 +158041,12 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>3</td>
-<td>A01. 001.000</td>
-<td>
-Прием:
-Терапевт
-</td>
+<td>A01.001.000</td>
+<td>Прием: Терапевт</td>
 <td>679,16</td>
 <td>2</td>
 <td>0,3</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td></td>
@@ -158064,37 +158055,17 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>4</td>
-<td>A01. 002.000</td>
-<td>
-Прием:
-Педиатр
-</td>
+<td>A01.002.000</td>
+<td>Прием: Педиатр</td>
 <td>679,16</td>
 <td>2</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td></td>
 <td>1</td>
 <td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-<td>9</td>
-<td>10</td>
-<td>11</td>
-<td>12</td>
 </tr>
 <tr>
 <td>5</td>
@@ -158104,7 +158075,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,3</td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -158118,7 +158089,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -158132,7 +158103,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -158146,7 +158117,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -158160,7 +158131,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -158174,7 +158145,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -158188,7 +158159,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -158202,7 +158173,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -158216,7 +158187,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -158230,7 +158201,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -158244,7 +158215,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158258,7 +158229,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158272,7 +158243,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158286,7 +158257,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158300,7 +158271,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158314,7 +158285,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158328,7 +158299,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158342,7 +158313,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158356,7 +158327,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158370,7 +158341,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158384,7 +158355,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158398,7 +158369,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158412,7 +158383,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158426,7 +158397,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158440,7 +158411,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158454,7 +158425,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158468,7 +158439,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158482,7 +158453,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158496,7 +158467,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158510,7 +158481,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158524,7 +158495,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158538,7 +158509,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158552,7 +158523,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158566,7 +158537,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158580,7 +158551,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158594,7 +158565,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158608,7 +158579,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158622,7 +158593,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158636,7 +158607,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158650,7 +158621,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158664,7 +158635,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158678,7 +158649,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158692,7 +158663,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158706,7 +158677,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158720,7 +158691,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158734,7 +158705,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158748,7 +158719,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158762,7 +158733,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158776,7 +158747,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158790,7 +158761,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158804,7 +158775,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158818,7 +158789,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158832,7 +158803,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158846,7 +158817,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158860,7 +158831,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158874,7 +158845,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158888,7 +158859,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158902,7 +158873,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158916,7 +158887,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158930,7 +158901,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158944,7 +158915,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158958,7 +158929,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158972,7 +158943,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -158986,7 +158957,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159000,7 +158971,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159014,7 +158985,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -159028,7 +158999,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159042,7 +159013,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -159056,7 +159027,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>0</td>
@@ -159070,7 +159041,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -159084,7 +159055,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>2</td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159098,7 +159069,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159112,7 +159083,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td>√</td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159126,7 +159097,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159140,7 +159111,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td>0,5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159154,7 +159125,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -159168,7 +159139,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -159182,7 +159153,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -159196,7 +159167,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159210,7 +159181,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159224,7 +159195,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159238,7 +159209,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159252,7 +159223,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159266,7 +159237,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159280,7 +159251,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159294,7 +159265,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159308,7 +159279,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159322,7 +159293,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159336,7 +159307,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159350,7 +159321,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159364,7 +159335,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159378,7 +159349,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159392,7 +159363,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159406,7 +159377,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159420,7 +159391,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159434,7 +159405,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159448,7 +159419,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159462,7 +159433,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159476,7 +159447,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159490,7 +159461,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159504,7 +159475,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159518,7 +159489,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159532,7 +159503,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159546,7 +159517,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159560,7 +159531,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159574,7 +159545,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159588,7 +159559,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159602,7 +159573,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159616,7 +159587,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159630,7 +159601,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159644,7 +159615,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159658,7 +159629,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159672,7 +159643,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159686,7 +159657,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159700,7 +159671,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159714,7 +159685,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159728,7 +159699,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159742,7 +159713,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -159756,7 +159727,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159770,7 +159741,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159784,7 +159755,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159798,7 +159769,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159812,7 +159783,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159826,7 +159797,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159840,7 +159811,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159854,7 +159825,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159868,7 +159839,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159882,7 +159853,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159896,7 +159867,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -159910,7 +159881,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -159924,7 +159895,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159938,7 +159909,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159952,7 +159923,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159966,7 +159937,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159980,7 +159951,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -159994,7 +159965,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160008,7 +159979,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160022,7 +159993,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160036,7 +160007,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160050,7 +160021,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160064,7 +160035,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160078,7 +160049,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160092,7 +160063,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160106,7 +160077,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160120,7 +160091,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160134,7 +160105,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160148,7 +160119,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -160162,7 +160133,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160176,7 +160147,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160190,7 +160161,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160204,7 +160175,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160218,7 +160189,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160232,7 +160203,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160246,7 +160217,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -160260,7 +160231,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -160274,7 +160245,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160288,7 +160259,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160302,7 +160273,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160316,7 +160287,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160330,7 +160301,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160344,7 +160315,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160358,7 +160329,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160372,7 +160343,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160386,7 +160357,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160400,7 +160371,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160414,7 +160385,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160428,7 +160399,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160442,7 +160413,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160456,7 +160427,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160470,7 +160441,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160484,7 +160455,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160498,7 +160469,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160512,7 +160483,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160526,7 +160497,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160540,7 +160511,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160554,7 +160525,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160568,7 +160539,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160582,7 +160553,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160596,7 +160567,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160610,7 +160581,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160624,7 +160595,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160638,7 +160609,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160652,7 +160623,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160666,7 +160637,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160680,7 +160651,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160694,7 +160665,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160708,7 +160679,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160722,7 +160693,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160736,7 +160707,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160750,7 +160721,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160764,7 +160735,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160778,7 +160749,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160792,7 +160763,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160806,7 +160777,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160820,7 +160791,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160834,7 +160805,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160848,7 +160819,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160862,7 +160833,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160876,7 +160847,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160890,7 +160861,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160904,7 +160875,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160918,7 +160889,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160932,7 +160903,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160946,7 +160917,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160960,7 +160931,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160974,7 +160945,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -160988,7 +160959,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161002,7 +160973,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161016,7 +160987,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161030,7 +161001,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161044,7 +161015,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161058,7 +161029,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161072,7 +161043,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161086,7 +161057,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161100,7 +161071,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161114,7 +161085,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161128,7 +161099,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161142,7 +161113,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -161156,7 +161127,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161170,7 +161141,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161184,7 +161155,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161198,7 +161169,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161212,7 +161183,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161226,7 +161197,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161240,7 +161211,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161254,7 +161225,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161268,7 +161239,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161282,7 +161253,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161296,7 +161267,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161310,7 +161281,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161324,7 +161295,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161338,7 +161309,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161352,7 +161323,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161366,7 +161337,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161380,7 +161351,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161394,7 +161365,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161408,7 +161379,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161422,7 +161393,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161436,7 +161407,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161450,7 +161421,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161464,7 +161435,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161478,7 +161449,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161492,7 +161463,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161506,7 +161477,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161520,7 +161491,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161534,7 +161505,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161548,7 +161519,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161562,7 +161533,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161576,7 +161547,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161590,7 +161561,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161604,7 +161575,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161618,7 +161589,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161632,7 +161603,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161646,7 +161617,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161660,7 +161631,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161674,7 +161645,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161688,7 +161659,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161702,7 +161673,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161716,7 +161687,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161730,7 +161701,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161744,7 +161715,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161758,7 +161729,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161772,7 +161743,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161786,7 +161757,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161800,7 +161771,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161814,7 +161785,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161828,7 +161799,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161842,7 +161813,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161856,7 +161827,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161870,7 +161841,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161884,7 +161855,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161898,7 +161869,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161912,7 +161883,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161926,7 +161897,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161940,7 +161911,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161954,7 +161925,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161968,7 +161939,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161982,7 +161953,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -161996,7 +161967,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162010,7 +161981,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162024,7 +161995,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162038,7 +162009,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162052,7 +162023,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162066,7 +162037,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162080,7 +162051,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162094,7 +162065,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162108,7 +162079,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162122,7 +162093,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162136,7 +162107,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162150,7 +162121,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162164,7 +162135,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162178,7 +162149,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162192,7 +162163,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162206,7 +162177,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162220,7 +162191,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162234,7 +162205,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -162248,7 +162219,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -162262,7 +162233,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -162276,7 +162247,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162290,7 +162261,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162304,7 +162275,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162318,7 +162289,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162332,7 +162303,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162346,7 +162317,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162360,7 +162331,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162374,7 +162345,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162388,7 +162359,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162402,7 +162373,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162416,7 +162387,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162430,7 +162401,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162444,7 +162415,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162458,7 +162429,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162472,7 +162443,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162486,7 +162457,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162500,7 +162471,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162514,7 +162485,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162528,7 +162499,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162542,7 +162513,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162556,7 +162527,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162570,7 +162541,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162584,7 +162555,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -162598,7 +162569,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162612,7 +162583,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162626,7 +162597,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162640,7 +162611,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162654,7 +162625,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162668,7 +162639,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162682,7 +162653,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162696,7 +162667,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162710,7 +162681,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162724,7 +162695,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162738,7 +162709,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -162752,7 +162723,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -162766,7 +162737,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162780,7 +162751,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162794,7 +162765,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162808,7 +162779,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162822,7 +162793,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162836,7 +162807,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162850,7 +162821,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162864,7 +162835,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162878,7 +162849,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162892,7 +162863,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162906,7 +162877,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162920,7 +162891,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162934,7 +162905,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162948,7 +162919,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162962,7 +162933,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162976,7 +162947,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -162990,7 +162961,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163004,7 +162975,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163018,7 +162989,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163032,7 +163003,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163046,7 +163017,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163060,7 +163031,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163074,7 +163045,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163088,7 +163059,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163102,7 +163073,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163116,7 +163087,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163130,7 +163101,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163144,7 +163115,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -163158,7 +163129,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163172,7 +163143,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163186,7 +163157,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163200,7 +163171,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163214,7 +163185,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163228,7 +163199,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163242,7 +163213,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163256,7 +163227,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163270,7 +163241,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163284,7 +163255,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163298,7 +163269,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163312,7 +163283,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163326,7 +163297,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163340,7 +163311,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163354,7 +163325,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163368,7 +163339,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163382,7 +163353,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163396,7 +163367,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163410,7 +163381,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163424,7 +163395,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163438,7 +163409,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163452,7 +163423,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163466,7 +163437,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163480,7 +163451,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163494,7 +163465,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163508,7 +163479,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163522,7 +163493,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163536,7 +163507,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -163550,7 +163521,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -163564,7 +163535,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163578,7 +163549,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163592,7 +163563,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163606,7 +163577,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163620,7 +163591,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163634,7 +163605,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163648,7 +163619,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163662,7 +163633,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163676,7 +163647,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163690,7 +163661,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163704,7 +163675,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163718,7 +163689,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163732,7 +163703,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163746,7 +163717,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163760,7 +163731,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163774,7 +163745,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163788,7 +163759,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163802,7 +163773,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163816,7 +163787,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163830,7 +163801,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163844,7 +163815,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163858,7 +163829,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163872,7 +163843,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163886,7 +163857,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163900,7 +163871,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163914,7 +163885,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163928,7 +163899,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163942,7 +163913,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163956,7 +163927,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163970,7 +163941,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163984,7 +163955,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -163998,7 +163969,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164012,7 +163983,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164026,7 +163997,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164040,7 +164011,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164054,7 +164025,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164068,7 +164039,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164082,7 +164053,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164096,7 +164067,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164110,7 +164081,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164124,7 +164095,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164138,7 +164109,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164152,7 +164123,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164166,7 +164137,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164180,7 +164151,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164194,7 +164165,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164208,7 +164179,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164222,7 +164193,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164236,7 +164207,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164250,7 +164221,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164264,7 +164235,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164278,7 +164249,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164292,7 +164263,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -164306,7 +164277,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164320,7 +164291,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164334,7 +164305,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164348,7 +164319,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164362,7 +164333,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164376,7 +164347,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164390,7 +164361,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164404,7 +164375,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164418,7 +164389,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164432,7 +164403,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164446,7 +164417,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164460,7 +164431,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164474,7 +164445,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164488,7 +164459,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164502,7 +164473,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164516,7 +164487,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164530,7 +164501,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164544,7 +164515,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164558,7 +164529,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164572,7 +164543,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164586,7 +164557,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164600,7 +164571,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164614,7 +164585,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164628,7 +164599,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164642,7 +164613,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164656,7 +164627,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164670,7 +164641,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164684,7 +164655,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164698,7 +164669,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164712,7 +164683,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164726,7 +164697,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164740,7 +164711,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164754,7 +164725,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164768,7 +164739,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164782,7 +164753,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164796,7 +164767,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -164810,7 +164781,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -164824,7 +164795,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164838,7 +164809,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164852,7 +164823,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164866,7 +164837,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164880,7 +164851,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164894,7 +164865,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164908,7 +164879,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164922,7 +164893,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164936,7 +164907,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164950,7 +164921,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164964,7 +164935,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164978,7 +164949,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -164992,7 +164963,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165006,7 +164977,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165020,7 +164991,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165034,7 +165005,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165048,7 +165019,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165062,7 +165033,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165076,7 +165047,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165090,7 +165061,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165104,7 +165075,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165118,7 +165089,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165132,7 +165103,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165146,7 +165117,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165160,7 +165131,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165174,7 +165145,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165188,7 +165159,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165202,7 +165173,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165216,7 +165187,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165230,7 +165201,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165244,7 +165215,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165258,7 +165229,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165272,7 +165243,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165286,7 +165257,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165300,7 +165271,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165314,7 +165285,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165328,7 +165299,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165342,7 +165313,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165356,7 +165327,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165370,7 +165341,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165384,7 +165355,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165398,7 +165369,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165412,7 +165383,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165426,7 +165397,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165440,7 +165411,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165454,7 +165425,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165468,7 +165439,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165482,7 +165453,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165496,7 +165467,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165510,7 +165481,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165524,7 +165495,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165538,7 +165509,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165552,7 +165523,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165566,7 +165537,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165580,7 +165551,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165594,7 +165565,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165608,7 +165579,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165622,7 +165593,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165636,7 +165607,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165650,7 +165621,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165664,7 +165635,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165678,7 +165649,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165692,7 +165663,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165706,7 +165677,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165720,7 +165691,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165734,7 +165705,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165748,7 +165719,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165762,7 +165733,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165776,7 +165747,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165790,7 +165761,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165804,7 +165775,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165818,7 +165789,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165832,7 +165803,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165846,7 +165817,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165860,7 +165831,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165874,7 +165845,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165888,7 +165859,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165902,7 +165873,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165916,7 +165887,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165930,7 +165901,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165944,7 +165915,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165958,7 +165929,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165972,7 +165943,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -165986,7 +165957,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166000,7 +165971,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166014,7 +165985,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166028,7 +165999,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166042,7 +166013,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166056,7 +166027,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166070,7 +166041,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166084,7 +166055,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166098,7 +166069,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166112,7 +166083,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166126,7 +166097,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166140,7 +166111,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166154,7 +166125,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166168,7 +166139,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166182,7 +166153,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166196,7 +166167,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166210,7 +166181,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166224,7 +166195,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166238,7 +166209,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166252,7 +166223,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166266,7 +166237,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166280,7 +166251,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166294,7 +166265,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166308,7 +166279,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166322,7 +166293,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166336,7 +166307,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166350,7 +166321,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166364,7 +166335,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166378,7 +166349,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166392,7 +166363,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166406,7 +166377,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166420,7 +166391,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166434,7 +166405,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166448,7 +166419,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166462,7 +166433,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166476,7 +166447,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166490,7 +166461,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166504,7 +166475,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166518,7 +166489,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166532,7 +166503,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166546,7 +166517,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166560,7 +166531,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166574,7 +166545,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166588,7 +166559,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166602,7 +166573,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166616,7 +166587,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166630,7 +166601,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166644,7 +166615,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166658,7 +166629,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166672,7 +166643,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166686,7 +166657,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166700,7 +166671,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166714,7 +166685,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166728,7 +166699,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166742,7 +166713,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166756,7 +166727,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166770,7 +166741,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166784,7 +166755,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166798,7 +166769,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166812,7 +166783,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166826,7 +166797,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166840,7 +166811,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166854,7 +166825,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166868,7 +166839,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166882,7 +166853,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166896,7 +166867,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166910,7 +166881,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166924,7 +166895,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166938,7 +166909,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166952,7 +166923,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166966,7 +166937,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166980,7 +166951,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -166994,7 +166965,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167008,7 +166979,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167022,7 +166993,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167036,7 +167007,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167050,7 +167021,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167064,7 +167035,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167078,7 +167049,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167092,7 +167063,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167106,7 +167077,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167120,7 +167091,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167134,7 +167105,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167148,7 +167119,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167162,7 +167133,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167176,7 +167147,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167190,7 +167161,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167204,7 +167175,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167218,7 +167189,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167232,7 +167203,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167246,7 +167217,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167260,7 +167231,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167274,7 +167245,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167288,7 +167259,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167302,7 +167273,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167316,7 +167287,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167330,7 +167301,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167344,7 +167315,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167358,7 +167329,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167372,7 +167343,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167386,7 +167357,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167400,7 +167371,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167414,7 +167385,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167428,7 +167399,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167442,7 +167413,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167456,7 +167427,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167470,7 +167441,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167484,7 +167455,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167498,7 +167469,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167512,7 +167483,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167526,7 +167497,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167540,7 +167511,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167554,7 +167525,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167568,7 +167539,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167582,7 +167553,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167596,7 +167567,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167610,7 +167581,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167624,7 +167595,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167638,7 +167609,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167652,7 +167623,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167666,7 +167637,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167680,7 +167651,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167694,7 +167665,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167708,7 +167679,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167722,7 +167693,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167736,7 +167707,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167750,7 +167721,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167764,7 +167735,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167778,7 +167749,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167792,7 +167763,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167806,7 +167777,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167820,7 +167791,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167834,7 +167805,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167848,7 +167819,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167862,7 +167833,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167876,7 +167847,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167890,7 +167861,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167904,7 +167875,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167918,7 +167889,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167932,7 +167903,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167946,7 +167917,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167960,7 +167931,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167974,7 +167945,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -167988,7 +167959,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168002,7 +167973,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168016,7 +167987,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168030,7 +168001,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168044,7 +168015,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168058,7 +168029,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168072,7 +168043,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168086,7 +168057,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168100,7 +168071,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168114,7 +168085,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168128,7 +168099,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168142,7 +168113,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168156,7 +168127,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168170,7 +168141,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168184,7 +168155,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168198,7 +168169,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168212,7 +168183,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168226,7 +168197,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168240,7 +168211,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168254,7 +168225,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168268,7 +168239,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168282,7 +168253,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168296,7 +168267,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168310,7 +168281,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168324,7 +168295,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168338,7 +168309,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168352,7 +168323,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168366,7 +168337,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168380,7 +168351,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -168394,7 +168365,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168408,7 +168379,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168422,7 +168393,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168436,7 +168407,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168450,7 +168421,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168464,7 +168435,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168478,7 +168449,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168492,7 +168463,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168506,7 +168477,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168520,7 +168491,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168534,7 +168505,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168548,7 +168519,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168562,7 +168533,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168576,7 +168547,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168590,7 +168561,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168604,7 +168575,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168618,7 +168589,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168632,7 +168603,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168646,7 +168617,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168660,7 +168631,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168674,7 +168645,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168688,7 +168659,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168702,7 +168673,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168716,7 +168687,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168730,7 +168701,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168744,7 +168715,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168758,7 +168729,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168772,7 +168743,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168786,7 +168757,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168800,7 +168771,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168814,7 +168785,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168828,7 +168799,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168842,7 +168813,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168856,7 +168827,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168870,7 +168841,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168884,7 +168855,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168898,7 +168869,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168912,7 +168883,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168926,7 +168897,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168940,7 +168911,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168954,7 +168925,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168968,7 +168939,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168982,7 +168953,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -168996,7 +168967,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169010,7 +168981,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169024,7 +168995,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169038,7 +169009,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169052,7 +169023,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169066,7 +169037,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169080,7 +169051,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169094,7 +169065,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169108,7 +169079,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169122,7 +169093,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169136,7 +169107,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169150,7 +169121,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169164,7 +169135,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169178,7 +169149,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169192,7 +169163,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169206,7 +169177,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169220,7 +169191,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169234,7 +169205,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169248,7 +169219,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169262,7 +169233,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169276,7 +169247,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169290,7 +169261,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169304,7 +169275,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169318,7 +169289,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169332,7 +169303,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169346,7 +169317,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169360,7 +169331,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169374,7 +169345,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169388,7 +169359,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169402,7 +169373,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169416,7 +169387,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169430,7 +169401,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169444,7 +169415,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169458,7 +169429,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169472,7 +169443,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169486,7 +169457,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169500,7 +169471,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169514,7 +169485,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169528,7 +169499,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169542,7 +169513,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169556,7 +169527,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169570,7 +169541,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169584,7 +169555,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169598,7 +169569,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169612,7 +169583,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169626,7 +169597,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169640,7 +169611,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169654,7 +169625,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169668,7 +169639,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169682,7 +169653,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169696,7 +169667,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169710,7 +169681,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169724,7 +169695,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169738,7 +169709,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169752,7 +169723,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169766,7 +169737,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169780,7 +169751,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169794,7 +169765,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169808,7 +169779,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169822,7 +169793,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169836,7 +169807,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169850,7 +169821,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169864,7 +169835,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169878,7 +169849,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169892,7 +169863,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169906,7 +169877,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169920,7 +169891,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169934,7 +169905,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169948,7 +169919,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169962,7 +169933,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169976,7 +169947,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -169990,7 +169961,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170004,7 +169975,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170018,7 +169989,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170032,7 +170003,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170046,7 +170017,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170060,7 +170031,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170074,7 +170045,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170088,7 +170059,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170102,7 +170073,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170116,7 +170087,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170130,7 +170101,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170144,7 +170115,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170158,7 +170129,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170172,7 +170143,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170186,7 +170157,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170200,7 +170171,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170214,7 +170185,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170228,7 +170199,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170242,7 +170213,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170256,7 +170227,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170270,7 +170241,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170284,7 +170255,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170298,7 +170269,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170312,7 +170283,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170326,7 +170297,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170340,7 +170311,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170354,7 +170325,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170368,7 +170339,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170382,7 +170353,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170396,7 +170367,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170410,7 +170381,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170424,7 +170395,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170438,7 +170409,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170452,7 +170423,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170466,7 +170437,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170480,7 +170451,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170494,7 +170465,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170508,7 +170479,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170522,7 +170493,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170536,7 +170507,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170550,7 +170521,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170564,7 +170535,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -170578,7 +170549,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170592,7 +170563,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170606,7 +170577,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170620,7 +170591,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170634,7 +170605,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170648,7 +170619,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170662,7 +170633,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170676,7 +170647,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170690,7 +170661,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170704,7 +170675,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -170718,7 +170689,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -170732,7 +170703,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -170746,7 +170717,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -170760,7 +170731,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -170774,7 +170745,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -170788,7 +170759,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -170802,7 +170773,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -170816,7 +170787,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -170830,7 +170801,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -170844,7 +170815,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -170858,7 +170829,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -170872,7 +170843,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -170886,7 +170857,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -170900,7 +170871,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -170914,7 +170885,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170928,7 +170899,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170942,7 +170913,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170956,7 +170927,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -170970,7 +170941,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170984,7 +170955,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -170998,7 +170969,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171012,7 +170983,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -171026,7 +170997,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171040,7 +171011,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171054,7 +171025,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171068,7 +171039,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171082,7 +171053,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171096,7 +171067,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171110,7 +171081,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171124,7 +171095,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171138,7 +171109,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171152,7 +171123,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171166,7 +171137,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171180,7 +171151,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171194,7 +171165,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -171208,7 +171179,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171222,7 +171193,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171236,7 +171207,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171250,7 +171221,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171264,7 +171235,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171278,7 +171249,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171292,7 +171263,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171306,7 +171277,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171320,7 +171291,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171334,7 +171305,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171348,7 +171319,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171362,7 +171333,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171376,7 +171347,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171390,7 +171361,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171404,7 +171375,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171418,7 +171389,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171432,7 +171403,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171446,7 +171417,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171460,7 +171431,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171474,7 +171445,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171488,7 +171459,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171502,7 +171473,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171516,7 +171487,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171530,7 +171501,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171544,7 +171515,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171558,7 +171529,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171572,7 +171543,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171586,7 +171557,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171600,7 +171571,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171614,7 +171585,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171628,7 +171599,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171642,7 +171613,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171656,7 +171627,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171670,7 +171641,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171684,7 +171655,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171698,7 +171669,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -171712,7 +171683,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -171726,7 +171697,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171740,7 +171711,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171754,7 +171725,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171768,7 +171739,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171782,7 +171753,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171796,7 +171767,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171810,7 +171781,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171824,7 +171795,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171838,7 +171809,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171852,7 +171823,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171866,7 +171837,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171880,7 +171851,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171894,7 +171865,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171908,7 +171879,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171922,7 +171893,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171936,7 +171907,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171950,7 +171921,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -171964,7 +171935,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171978,7 +171949,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -171992,7 +171963,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172006,7 +171977,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172020,7 +171991,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172034,7 +172005,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172048,7 +172019,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172062,7 +172033,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172076,7 +172047,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172090,7 +172061,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172104,7 +172075,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172118,7 +172089,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172132,7 +172103,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -172146,7 +172117,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172160,7 +172131,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172174,7 +172145,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172188,7 +172159,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172202,7 +172173,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172216,7 +172187,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172230,7 +172201,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172244,7 +172215,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172258,7 +172229,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172272,7 +172243,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172286,7 +172257,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -172300,7 +172271,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172314,7 +172285,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172328,7 +172299,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172342,7 +172313,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172356,7 +172327,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172370,7 +172341,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172384,7 +172355,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172398,7 +172369,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172412,7 +172383,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172426,7 +172397,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172440,7 +172411,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -172449,12 +172420,12 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <tr>
 <td>1030</td>
 <td>B08.765.001</td>
-<td>Патолого-анатомическое вскрытие трупа - аутопсия</td>
-<td>19666,61</td>
+<td>Патолого-анатомическое вскрытие трупа – аутопсия 1 категории сложности</td>
+<td>48 719,41</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172462,13 +172433,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1031</td>
-<td>B08.766.001</td>
-<td>Судебно-медицинская экспертиза трупа без лабораторных методов исследования</td>
-<td>39706,58</td>
+<td>B08.767.001</td>
+<td>Патолого-анатомическое вскрытие трупа – аутопсия 2 категории сложности</td>
+<td>62 428,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172476,13 +172447,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1032</td>
-<td>B08.734.001</td>
-<td>Гистологическое исследование 1 блок-препарата операционно-биопсийного материала 1-й категории сложности</td>
-<td>1969,30</td>
+<td>B08.768.001</td>
+<td>Патолого-анатомическое вскрытие трупа – аутопсия 3 категории сложности</td>
+<td>87 726,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172490,13 +172461,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1033</td>
-<td>B08.735.001</td>
-<td>Гистологическое исследование 1 блок-препарата операционно-биопсийного 2-й категории сложности</td>
-<td>2212,72</td>
+<td>B08.769.001</td>
+<td>Патолого-анатомическое вскрытие трупа – аутопсия 4 категории сложности</td>
+<td>126 640,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172504,13 +172475,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1034</td>
-<td>B08.737.001</td>
-<td>Гистологическое исследование 1 блок-препарата операционно-биопсийного материала 3 категории сложности</td>
-<td>2424,05</td>
+<td>B08.766.001</td>
+<td>Судебно-медицинская экспертиза трупа без лабораторных методов исследования</td>
+<td>39706,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172518,13 +172489,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1035</td>
-<td>B08.764.001</td>
-<td>Гистологическое исследование 1 блок-препарата операционно-биопсийного материала 4 категории сложности</td>
-<td>3194,51</td>
+<td>B08.734.001</td>
+<td>Гистологическое исследование 1 блок-препарата операционно-биопсийного материала 1-й категории сложности</td>
+<td>1969,30</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172532,13 +172503,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1036</td>
-<td>B08.742.001</td>
-<td>Оценка степени пролиферации вагинального эпителия («гормональное зеркало»)</td>
-<td>95,72</td>
+<td>B08.735.001</td>
+<td>Гистологическое исследование 1 блок-препарата операционно-биопсийного 2-й категории сложности</td>
+<td>2212,72</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172546,13 +172517,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1037</td>
-<td>B08.743.001</td>
-<td>Риноцитограмма соскоба из слизистой оболочки носовой полости</td>
-<td>99,49</td>
+<td>B08.737.001</td>
+<td>Гистологическое исследование 1 блок-препарата операционно-биопсийного материала 3 категории сложности</td>
+<td>2424,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172560,13 +172531,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1038</td>
-<td>B08.746.001</td>
-<td>Цитологическое исследование (с окраской по Романовскому-Гимзе, Diff-Qwik, Май-Грюнвальду, Грамму, Паппенгейму)</td>
-<td>573,32</td>
+<td>B08.764.001</td>
+<td>Гистологическое исследование 1 блок-препарата операционно-биопсийного материала 4 категории сложности</td>
+<td>3194,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172574,13 +172545,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1039</td>
-<td>B08.749.001</td>
-<td>Цитологическое исследование мазка из шейки матки ПАП-тест</td>
-<td>880,46</td>
+<td>B08.742.001</td>
+<td>Оценка степени пролиферации вагинального эпителия («гормональное зеркало»)</td>
+<td>95,72</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172588,13 +172559,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1040</td>
-<td>B08.750.001</td>
-<td>Цитологическое исследование материала (интраоперационные экспресс цитологические исследования)</td>
-<td>113,74</td>
+<td>B08.743.001</td>
+<td>Риноцитограмма соскоба из слизистой оболочки носовой полости</td>
+<td>99,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172602,13 +172573,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1041</td>
-<td>B08.758.001</td>
-<td>Цитохимическое исследование биоптата с конго красным</td>
-<td>4192,72</td>
+<td>B08.746.001</td>
+<td>Цитологическое исследование (с окраской по Романовскому-Гимзе, Diff-Qwik, Май-Грюнвальду, Грамму, Паппенгейму)</td>
+<td>573,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172616,13 +172587,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1042</td>
-<td>B08.759.001</td>
-<td>Цитохимическое исследование биоптата с серебрением</td>
-<td>5292,38</td>
+<td>B08.749.001</td>
+<td>Цитологическое исследование мазка из шейки матки ПАП-тест</td>
+<td>880,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172630,13 +172601,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1043</td>
-<td>B08.760.001</td>
-<td>Цитохимическое исследование биоптата с трихромом</td>
-<td>7910,97</td>
+<td>B08.750.001</td>
+<td>Цитологическое исследование материала (интраоперационные экспресс цитологические исследования)</td>
+<td>113,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172644,13 +172615,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1044</td>
-<td>B08.761.001</td>
-<td>Цитохимическое исследование биоптата с ШИК реакцией</td>
-<td>4946,22</td>
+<td>B08.758.001</td>
+<td>Цитохимическое исследование биоптата с конго красным</td>
+<td>4192,72</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172658,13 +172629,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1045</td>
-<td>B08.851.021</td>
-<td>Исследование биологического материала методом иммунофлюоресцентной микроскопии</td>
-<td>29014,24</td>
+<td>B08.759.001</td>
+<td>Цитохимическое исследование биоптата с серебрением</td>
+<td>5292,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172672,13 +172643,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1046</td>
-<td>B08.851.022</td>
-<td>Исследование гистологического/цитологического материала методом электронной микроскопии</td>
-<td>29097,86</td>
+<td>B08.760.001</td>
+<td>Цитохимическое исследование биоптата с трихромом</td>
+<td>7910,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172686,13 +172657,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1047</td>
-<td>B08.763.001</td>
-<td>Экспресс исследование операционного и биопсийного материала (1-го блок-препарата)</td>
-<td>2362,65</td>
+<td>B08.761.001</td>
+<td>Цитохимическое исследование биоптата с ШИК реакцией</td>
+<td>4946,22</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172700,13 +172671,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1048</td>
-<td>B08.749.002</td>
-<td>Цитологическое исследование мазка из шейки матки ПАП-тест на аппарате жидкостной цитологии</td>
-<td>3703,20</td>
+<td>B08.851.021</td>
+<td>Исследование биологического материала методом иммунофлюоресцентной микроскопии</td>
+<td>29014,24</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -172714,83 +172685,83 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1049</td>
+<td>B08.851.022</td>
+<td>Исследование гистологического/цитологического материала методом электронной микроскопии</td>
+<td>29097,86</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1050</td>
+<td>B08.763.001</td>
+<td>Экспресс исследование операционного и биопсийного материала (1-го блок-препарата)</td>
+<td>2362,65</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1051</td>
+<td>B08.749.002</td>
+<td>Цитологическое исследование мазка из шейки матки ПАП-тест на аппарате жидкостной цитологии</td>
+<td>3703,20</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1052</td>
 <td>B09.000.000</td>
 <td>Молекулярная биология и молекулярная генетика</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1050</td>
+<td>1053</td>
 <td>B09.000.016</td>
 <td>Цитогенетический метод</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1051</td>
+<td>1054</td>
 <td>B09.763.016</td>
 <td>Биологическая индикация мутагенного воздействия (Хромосомные аберрации)</td>
 <td>4339,93</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1052</td>
-<td>B09.765.016</td>
-<td>Молекулярно-цитогенетическое исследование с использованием ДНК-зондов (ФИШ-метод) биологического материала (1 зонд)</td>
-<td>61930,19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1053</td>
-<td>B09.766.016</td>
-<td>Молекулярно-цитогенетическое исследование с использованием ДНК-зондов (ФИШ-метод) клеток костного мозга (1 зонд)</td>
-<td>63070,10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1054</td>
-<td>B09.767.016</td>
-<td>Молекулярно-цитогенетическое исследование с использованием ДНК-зондов (ФИШ-метод) лимфоцитов периферической крови (1 зонд)</td>
-<td>55794,30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -172798,13 +172769,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1055</td>
-<td>B09.768.016</td>
-<td>Молекулярно-цитогенетическое исследование с использованием ДНК-зондов (ФИШ-метод) некультивируемых клеток амниотической жидкости (1 зонд)</td>
-<td>37487,08</td>
+<td>B09.765.016</td>
+<td>Молекулярно-цитогенетическое исследование с использованием ДНК-зондов (ФИШ-метод) биологического материала (1 зонд)</td>
+<td>61930,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -172812,13 +172783,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1056</td>
-<td>B09.769.016</td>
-<td>Молекулярно-цитогенетическое исследование с использованием ДНК-зондов (ФИШ-метод) цитологических препаратов, гистологических срезов (1 зонд)</td>
-<td>55484,40</td>
+<td>B09.766.016</td>
+<td>Молекулярно-цитогенетическое исследование с использованием ДНК-зондов (ФИШ-метод) клеток костного мозга (1 зонд)</td>
+<td>63070,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -172826,13 +172797,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1057</td>
-<td>B09.770.016</td>
-<td>Цитогенетическое исследование клеток периферической крови (кариотип)</td>
-<td>2977,01</td>
+<td>B09.767.016</td>
+<td>Молекулярно-цитогенетическое исследование с использованием ДНК-зондов (ФИШ-метод) лимфоцитов периферической крови (1 зонд)</td>
+<td>55794,30</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -172840,13 +172811,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1058</td>
-<td>B09.771.016</td>
-<td>Цитогенетическое исследование ворсин хориона/ плаценты</td>
-<td>6036,54</td>
+<td>B09.768.016</td>
+<td>Молекулярно-цитогенетическое исследование с использованием ДНК-зондов (ФИШ-метод) некультивируемых клеток амниотической жидкости (1 зонд)</td>
+<td>37487,08</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -172854,13 +172825,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1059</td>
-<td>B09.772.016</td>
-<td>Цитогенетическое исследование клеток амниотической жидкости</td>
-<td>13022,67</td>
+<td>B09.769.016</td>
+<td>Молекулярно-цитогенетическое исследование с использованием ДНК-зондов (ФИШ-метод) цитологических препаратов, гистологических срезов (1 зонд)</td>
+<td>55484,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -172868,13 +172839,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1060</td>
-<td>B09.773.016</td>
-<td>Цитогенетическое исследование клеток костного мозга</td>
-<td>4399,43</td>
+<td>B09.770.016</td>
+<td>Цитогенетическое исследование клеток периферической крови (кариотип)</td>
+<td>2977,01</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -172882,13 +172853,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1061</td>
-<td>B09.775.016</td>
-<td>Цитогенетическое исследование клеток пуповинной крови</td>
-<td>2497,30</td>
+<td>B09.771.016</td>
+<td>Цитогенетическое исследование ворсин хориона/ плаценты</td>
+<td>6036,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -172896,27 +172867,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1062</td>
-<td>B09.000.017</td>
-<td>Молекулярно-генетический метод</td>
+<td>B09.772.016</td>
+<td>Цитогенетическое исследование клеток амниотической жидкости</td>
+<td>13022,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
 </tr>
 <tr>
 <td>1063</td>
-<td>B09.776.017</td>
-<td>Выделение ДНК из биологического материала молекулярно-генетический методом</td>
-<td>2822,07</td>
+<td>B09.773.016</td>
+<td>Цитогенетическое исследование клеток костного мозга</td>
+<td>4399,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -172924,13 +172895,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1064</td>
-<td>B09.777.017</td>
-<td>Исследование ДНК на мутации молекулярно-генетический методом</td>
-<td>14631,85</td>
+<td>B09.775.016</td>
+<td>Цитогенетическое исследование клеток пуповинной крови</td>
+<td>2497,30</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -172938,27 +172909,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1065</td>
-<td>B09.778.017</td>
-<td>Определение 17 аутосомных маркеров хромосом человека в ДНК молекулярно-генетический методом</td>
-<td>59159,00</td>
+<td>B09.000.017</td>
+<td>Молекулярно-генетический метод</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>0</td>
-<td>√</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1066</td>
-<td>B09.779.017</td>
-<td>Определение AZF фактора Y хромосомы в ДНК молекулярно-генетический методом</td>
-<td>9555,02</td>
+<td>B09.776.017</td>
+<td>Выделение ДНК из биологического материала молекулярно-генетический методом</td>
+<td>2822,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -172966,13 +172937,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1067</td>
-<td>B09.780.017</td>
-<td>Определение Y хромосомы плода в крови матери молекулярно-генетический методом</td>
-<td>18588,47</td>
+<td>B09.777.017</td>
+<td>Исследование ДНК на мутации молекулярно-генетический методом</td>
+<td>14631,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -172980,13 +172951,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1068</td>
-<td>B09.781.017</td>
-<td>Определение гаплогруппы ДНК по 17 аллелям молекулярно-генетический методом</td>
-<td>22674,01</td>
+<td>B09.778.017</td>
+<td>Определение 17 аутосомных маркеров хромосом человека в ДНК молекулярно-генетический методом</td>
+<td>59159,00</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>0</td>
@@ -172994,13 +172965,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1069</td>
-<td>B09.782.017</td>
-<td>Определение мутации F2 ДНК молекулярно-генетический методом</td>
-<td>5807,80</td>
+<td>B09.779.017</td>
+<td>Определение AZF фактора Y хромосомы в ДНК молекулярно-генетический методом</td>
+<td>9555,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173008,13 +172979,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1070</td>
-<td>B09.783.017</td>
-<td>Определение мутации F5 ДНК молекулярно-генетический методом</td>
-<td>5807,80</td>
+<td>B09.780.017</td>
+<td>Определение Y хромосомы плода в крови матери молекулярно-генетический методом</td>
+<td>18588,47</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173022,27 +172993,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1071</td>
-<td>B09.784.017</td>
-<td>Определение мутаций гена LMNB1 при лейкодистрофии в ДНК молекулярно-генетический методом</td>
-<td>42603,35</td>
+<td>B09.781.017</td>
+<td>Определение гаплогруппы ДНК по 17 аллелям молекулярно-генетический методом</td>
+<td>22674,01</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>2</td>
+<td>0</td>
 <td>√</td>
 </tr>
 <tr>
 <td>1072</td>
-<td>B09.785.017</td>
-<td>Определение мутаций гена MLD при миопатии Дюшенна в ДНК молекулярно-генетический методом</td>
-<td>48614,35</td>
+<td>B09.782.017</td>
+<td>Определение мутации F2 ДНК молекулярно-генетический методом</td>
+<td>5807,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173050,13 +173021,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1073</td>
-<td>B09.786.017</td>
-<td>Определение мутаций гена PAH при фенилкетонурии в ДНК молекулярно-генетический методом</td>
-<td>15104,85</td>
+<td>B09.783.017</td>
+<td>Определение мутации F5 ДНК молекулярно-генетический методом</td>
+<td>5807,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173064,13 +173035,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1074</td>
-<td>B09.787.017</td>
-<td>Определение мутаций гена SMN при спинальной мышечной амиотрофии в ДНК молекулярно-генетический методом</td>
-<td>42892,35</td>
+<td>B09.784.017</td>
+<td>Определение мутаций гена LMNB1 при лейкодистрофии в ДНК молекулярно-генетический методом</td>
+<td>42603,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173078,13 +173049,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1075</td>
-<td>B09.788.017</td>
-<td>Определение мутаций гена муковосцидоза в ДНК молекулярно-генетический методом</td>
-<td>9555,02</td>
+<td>B09.785.017</td>
+<td>Определение мутаций гена MLD при миопатии Дюшенна в ДНК молекулярно-генетический методом</td>
+<td>48614,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173092,13 +173063,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1076</td>
-<td>B09.789.017</td>
-<td>Определение мутаций гена при болезни Слая 7 типа в ДНК молекулярно-генетический методом</td>
-<td>42892,35</td>
+<td>B09.786.017</td>
+<td>Определение мутаций гена PAH при фенилкетонурии в ДНК молекулярно-генетический методом</td>
+<td>15104,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173106,13 +173077,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1077</td>
-<td>B09.790.017</td>
-<td>Определение мутаций гена при синдроме Гурлера 1 типа в ДНК молекулярно-генетический методом</td>
+<td>B09.787.017</td>
+<td>Определение мутаций гена SMN при спинальной мышечной амиотрофии в ДНК молекулярно-генетический методом</td>
 <td>42892,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173120,13 +173091,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1078</td>
-<td>B09.791.017</td>
-<td>Определение мутаций гена при синдроме Марото-Лами 6 типа в ДНК молекулярно-генетический методом</td>
-<td>42892,35</td>
+<td>B09.788.017</td>
+<td>Определение мутаций гена муковосцидоза в ДНК молекулярно-генетический методом</td>
+<td>9555,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173134,13 +173105,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1079</td>
-<td>B09.792.017</td>
-<td>Определение мутаций гена при синдроме Мартина -Белла в ДНК молекулярно-генетический методом</td>
+<td>B09.789.017</td>
+<td>Определение мутаций гена при болезни Слая 7 типа в ДНК молекулярно-генетический методом</td>
 <td>42892,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173148,13 +173119,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1080</td>
-<td>B09.793.017</td>
-<td>Определение мутаций гена при синдроме Моркио 4 типа в ДНК молекулярно-генетический методом</td>
+<td>B09.790.017</td>
+<td>Определение мутаций гена при синдроме Гурлера 1 типа в ДНК молекулярно-генетический методом</td>
 <td>42892,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173162,13 +173133,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1081</td>
-<td>B09.794.017</td>
-<td>Определение мутаций гена при синдроме Санфилиппо 3 типа в ДНК молекулярно-генетический методом</td>
+<td>B09.791.017</td>
+<td>Определение мутаций гена при синдроме Марото-Лами 6 типа в ДНК молекулярно-генетический методом</td>
 <td>42892,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173176,13 +173147,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1082</td>
-<td>B09.795.017</td>
-<td>Определение мутаций гена при синдроме Хантера 2 типа в ДНК молекулярно-генетический методом</td>
+<td>B09.792.017</td>
+<td>Определение мутаций гена при синдроме Мартина -Белла в ДНК молекулярно-генетический методом</td>
 <td>42892,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173190,13 +173161,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1083</td>
-<td>B09.796.017</td>
-<td>Определение мутаций при мукополисахаридозах в ДНК молекулярно-генетический методом</td>
+<td>B09.793.017</td>
+<td>Определение мутаций гена при синдроме Моркио 4 типа в ДНК молекулярно-генетический методом</td>
 <td>42892,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173204,13 +173175,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1084</td>
-<td>B09.797.017</td>
-<td>Определение полиморфизма в геноме человека молекулярно-генетический методом</td>
-<td>42188,17</td>
+<td>B09.794.017</td>
+<td>Определение мутаций гена при синдроме Санфилиппо 3 типа в ДНК молекулярно-генетический методом</td>
+<td>42892,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173218,13 +173189,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1085</td>
-<td>B09.798.017</td>
-<td>Определение резус фактора плода в крови матери молекулярно-генетический методом</td>
-<td>12064,41</td>
+<td>B09.795.017</td>
+<td>Определение мутаций гена при синдроме Хантера 2 типа в ДНК молекулярно-генетический методом</td>
+<td>42892,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173232,83 +173203,83 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1086</td>
+<td>B09.796.017</td>
+<td>Определение мутаций при мукополисахаридозах в ДНК молекулярно-генетический методом</td>
+<td>42892,35</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1087</td>
+<td>B09.797.017</td>
+<td>Определение полиморфизма в геноме человека молекулярно-генетический методом</td>
+<td>42188,17</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1088</td>
+<td>B09.798.017</td>
+<td>Определение резус фактора плода в крови матери молекулярно-генетический методом</td>
+<td>12064,41</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1089</td>
 <td>B09.799.017</td>
 <td>Проведение HLA-типирования крови 1 класса молекулярно-генетический методом</td>
 <td>46243,09</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
 <td>√</td>
 </tr>
 <tr>
-<td>1087</td>
+<td>1090</td>
 <td>B09.800.017</td>
 <td>Проведение HLA-типирования крови 2 класса молекулярно-генетический методом</td>
 <td>23287,75</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
 <td>√</td>
 </tr>
 <tr>
-<td>1088</td>
+<td>1091</td>
 <td>B09.861.017</td>
 <td>Определение лекарственной устойчивости ВИЧ-1 к антиретровирусным препаратам молекулярно-генетическим методом (методом генотипирования)</td>
 <td>114760,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1089</td>
-<td>B09.000.018</td>
-<td>Флуориметрический метод</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1090</td>
-<td>B09.801.018</td>
-<td>Диагностика орфанных заболеваний в крови флуориметрическим методом</td>
-<td>23679,57</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1091</td>
-<td>B09.802.018</td>
-<td>Лекарственный мониторинг флуориметрическим методом</td>
-<td>39183,20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173316,13 +173287,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1092</td>
-<td>B09.000.019</td>
-<td>Масс-спектрометрия</td>
+<td>B09.000.018</td>
+<td>Флуориметрический метод</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -173330,13 +173301,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1093</td>
-<td>B09.801.019</td>
-<td>Диагностика орфанных заболеваний в крови методом масс-спектрометрии</td>
-<td>33020,19</td>
+<td>B09.801.018</td>
+<td>Диагностика орфанных заболеваний в крови флуориметрическим методом</td>
+<td>23679,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173344,13 +173315,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1094</td>
-<td>B09.802.019</td>
-<td>Лекарственный мониторинг орфанных заболеваний методом масс-спектрометрии</td>
+<td>B09.802.018</td>
+<td>Лекарственный мониторинг флуориметрическим методом</td>
 <td>39183,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -173358,13 +173329,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1095</td>
-<td>B09.000.020</td>
-<td>Полимеразная цепная реакция (ПЦР)</td>
+<td>B09.000.019</td>
+<td>Масс-спектрометрия</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -173372,55 +173343,55 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1096</td>
+<td>B09.801.019</td>
+<td>Диагностика орфанных заболеваний в крови методом масс-спектрометрии</td>
+<td>33020,19</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1097</td>
+<td>B09.802.019</td>
+<td>Лекарственный мониторинг орфанных заболеваний методом масс-спектрометрии</td>
+<td>39183,20</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1098</td>
+<td>B09.000.020</td>
+<td>Полимеразная цепная реакция (ПЦР)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1099</td>
 <td>B09.806.020</td>
 <td>Молекулярно-генетический подтверждающий тест при сомнительных результатах методом ПЦР (NASBA)</td>
 <td>4852,13</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1097</td>
-<td>B09.807.020</td>
-<td>Обнаружение Brucella abortus (бруцелла абортус) в биологическом материале методом ПЦР</td>
-<td>1927,34</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1098</td>
-<td>B09.808.020</td>
-<td>Обнаружение Brucella melitensis (бруцелла мелитенсис) в биологическом материале методом ПЦР</td>
-<td>1927,34</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1099</td>
-<td>B09.809.020</td>
-<td>Обнаружение Brucella suis (бруцелла суис) в биологическом материале методом ПЦР</td>
-<td>1927,34</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173428,13 +173399,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1100</td>
-<td>B09.810.020</td>
-<td>Обнаружение Candida spp. (кандида) в биологическом материале методом ПЦР</td>
-<td>1691,34</td>
+<td>B09.807.020</td>
+<td>Обнаружение Brucella abortus (бруцелла абортус) в биологическом материале методом ПЦР</td>
+<td>1927,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173442,13 +173413,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1101</td>
-<td>B09.811.020</td>
-<td>Обнаружение Chlamydia spp. (хламидиа) в биологическом материале методом ПЦР</td>
-<td>1873,83</td>
+<td>B09.808.020</td>
+<td>Обнаружение Brucella melitensis (бруцелла мелитенсис) в биологическом материале методом ПЦР</td>
+<td>1927,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173456,13 +173427,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1102</td>
-<td>B09.812.020</td>
-<td>Обнаружение Gardnerella vaginalis (гарднерелла вагиналис) в биологическом материале методом ПЦР</td>
-<td>1691,34</td>
+<td>B09.809.020</td>
+<td>Обнаружение Brucella suis (бруцелла суис) в биологическом материале методом ПЦР</td>
+<td>1927,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173470,13 +173441,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1103</td>
-<td>B09.813.020</td>
-<td>Обнаружение Helicobacter pylori (хеликобактер пилори) в биологическом материале методом ПЦР</td>
-<td>1727,34</td>
+<td>B09.810.020</td>
+<td>Обнаружение Candida spp. (кандида) в биологическом материале методом ПЦР</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173484,13 +173455,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1104</td>
-<td>B09.814.020</td>
-<td>Обнаружение Listeria (листериа) в биологическом материале методом ПЦР</td>
-<td>1391,51</td>
+<td>B09.811.020</td>
+<td>Обнаружение Chlamydia spp. (хламидиа) в биологическом материале методом ПЦР</td>
+<td>1873,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173498,13 +173469,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1105</td>
-<td>B09.815.020</td>
-<td>Обнаружение Mycobacterium tuberculosis (микобактериум туберкулосис) в биологическом материале методом ПЦР</td>
+<td>B09.812.020</td>
+<td>Обнаружение Gardnerella vaginalis (гарднерелла вагиналис) в биологическом материале методом ПЦР</td>
 <td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173512,13 +173483,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1106</td>
-<td>B09.816.020</td>
-<td>Обнаружение Mycoplasma hominis (микоплазма хоминис) в биологическом материале методом ПЦР</td>
-<td>1535,40</td>
+<td>B09.813.020</td>
+<td>Обнаружение Helicobacter pylori (хеликобактер пилори) в биологическом материале методом ПЦР</td>
+<td>1727,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173526,13 +173497,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1107</td>
-<td>B09.817.020</td>
-<td>Обнаружение Mycoplasma pneumoniae (микоплазма пнеумониа) в биологическом материале методом ПЦР</td>
-<td>1691,34</td>
+<td>B09.814.020</td>
+<td>Обнаружение Listeria (листериа) в биологическом материале методом ПЦР</td>
+<td>1391,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173540,13 +173511,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1108</td>
-<td>B09.818.020</td>
-<td>Обнаружение Mycoplasma urealiticum (микоплазма уреалитикум) в биологическом материале методом ПЦР</td>
-<td>1788,43</td>
+<td>B09.815.020</td>
+<td>Обнаружение Mycobacterium tuberculosis (микобактериум туберкулосис) в биологическом материале методом ПЦР</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173554,13 +173525,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1109</td>
-<td>B09.852.020</td>
-<td>Обнаружение Mycoplasma genitalium (микоплазма гениталиум) в биологическом материале методом ПЦР</td>
-<td>1788,43</td>
+<td>B09.816.020</td>
+<td>Обнаружение Mycoplasma hominis (микоплазма хоминис) в биологическом материале методом ПЦР</td>
+<td>1535,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173568,13 +173539,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1110</td>
-<td>B09.819.020</td>
-<td>Обнаружение Neisseria gonorrhea (нейссериа гонореа) в биологическом материале методом ПЦР</td>
-<td>1535,40</td>
+<td>B09.817.020</td>
+<td>Обнаружение Mycoplasma pneumoniae (микоплазма пнеумониа) в биологическом материале методом ПЦР</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173582,13 +173553,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1111</td>
-<td>B09.820.020</td>
-<td>Обнаружение РНК вируса гепатита C в биологическом материале методом ПЦР качественное</td>
-<td>2548,09</td>
+<td>B09.818.020</td>
+<td>Обнаружение Mycoplasma urealiticum (микоплазма уреалитикум) в биологическом материале методом ПЦР</td>
+<td>1788,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173596,13 +173567,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1112</td>
-<td>B09.821.020</td>
-<td>Обнаружение Toxoplasma gondii (токсоплазма гондии) в биологическом материале методом ПЦР качественное</td>
-<td>1574,37</td>
+<td>B09.852.020</td>
+<td>Обнаружение Mycoplasma genitalium (микоплазма гениталиум) в биологическом материале методом ПЦР</td>
+<td>1788,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173610,13 +173581,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1113</td>
-<td>B09.822.020</td>
-<td>Обнаружение Toxoplasma gondii (токсоплазма гондии) в биологическом материале методом ПЦР количественное</td>
-<td>1731,55</td>
+<td>B09.819.020</td>
+<td>Обнаружение Neisseria gonorrhea (нейссериа гонореа) в биологическом материале методом ПЦР</td>
+<td>1535,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173624,13 +173595,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1114</td>
-<td>B09.823.020</td>
-<td>Обнаружение Treponema pallidum (трепанема паллидум) в биологическом материале методом ПЦР</td>
-<td>2127,34</td>
+<td>B09.820.020</td>
+<td>Обнаружение РНК вируса гепатита C в биологическом материале методом ПЦР качественное</td>
+<td>2548,09</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173638,13 +173609,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1115</td>
-<td>B09.824.020</td>
-<td>Обнаружение Trichomonas vaginalis (трихомонас вагиналис) в биологическом материале методом ПЦР</td>
-<td>1691,34</td>
+<td>B09.821.020</td>
+<td>Обнаружение Toxoplasma gondii (токсоплазма гондии) в биологическом материале методом ПЦР качественное</td>
+<td>1574,37</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173652,13 +173623,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1116</td>
-<td>B09.825.020</td>
-<td>Обнаружение Ureaplasma urealyticum (уреаплазма уреалитикум) в биологическом материале методом ПЦР</td>
-<td>1691,34</td>
+<td>B09.822.020</td>
+<td>Обнаружение Toxoplasma gondii (токсоплазма гондии) в биологическом материале методом ПЦР количественное</td>
+<td>1731,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173666,13 +173637,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1117</td>
-<td>B09.826.020</td>
-<td>Обнаружение аренавируса в биологическом материале методом ПЦР</td>
+<td>B09.823.020</td>
+<td>Обнаружение Treponema pallidum (трепанема паллидум) в биологическом материале методом ПЦР</td>
 <td>2127,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173680,13 +173651,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1118</td>
-<td>B09.827.020</td>
-<td>Обнаружение вирус простого герпеса 1 и 2 типов в биологическом материале методом ПЦР качественное</td>
-<td>1382,73</td>
+<td>B09.824.020</td>
+<td>Обнаружение Trichomonas vaginalis (трихомонас вагиналис) в биологическом материале методом ПЦР</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173694,13 +173665,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1119</td>
-<td>B09.828.020</td>
-<td>Обнаружение вирус простого герпеса 1 и 2 типов в биологическом материале методом ПЦР количественное</td>
-<td>2053,53</td>
+<td>B09.825.020</td>
+<td>Обнаружение Ureaplasma urealyticum (уреаплазма уреалитикум) в биологическом материале методом ПЦР</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173708,13 +173679,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1120</td>
-<td>B09.829.020</td>
-<td>Обнаружение вируса гепатита A в биологическом материале методом ПЦР</td>
-<td>1691,34</td>
+<td>B09.826.020</td>
+<td>Обнаружение аренавируса в биологическом материале методом ПЦР</td>
+<td>2127,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173722,13 +173693,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1121</td>
-<td>B09.830.020</td>
-<td>Обнаружение вируса гепатита D в биологическом материале методом ПЦР</td>
-<td>2237,48</td>
+<td>B09.827.020</td>
+<td>Обнаружение вирус простого герпеса 1 и 2 типов в биологическом материале методом ПЦР качественное</td>
+<td>1382,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173736,13 +173707,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1122</td>
-<td>B09.831.020</td>
-<td>Обнаружение вируса гепатита E в биологическом материале методом ПЦР</td>
-<td>1914,63</td>
+<td>B09.828.020</td>
+<td>Обнаружение вирус простого герпеса 1 и 2 типов в биологическом материале методом ПЦР количественное</td>
+<td>2053,53</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173750,13 +173721,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1123</td>
-<td>B09.832.020</td>
-<td>Обнаружение вируса гепатита G в биологическом материале методом ПЦР</td>
-<td>2127,34</td>
+<td>B09.829.020</td>
+<td>Обнаружение вируса гепатита A в биологическом материале методом ПЦР</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173764,13 +173735,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1124</td>
-<td>B09.833.020</td>
-<td>Обнаружение вируса герпеса 3 типа (ВПГ-III) в биологическом материале методом ПЦР</td>
-<td>1691,34</td>
+<td>B09.830.020</td>
+<td>Обнаружение вируса гепатита D в биологическом материале методом ПЦР</td>
+<td>2237,48</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173778,13 +173749,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1125</td>
-<td>B09.834.020</td>
-<td>Обнаружение вируса иммунодефицита человека (ВИЧ) в биологическом материале методом ПЦР</td>
-<td>2350,63</td>
+<td>B09.831.020</td>
+<td>Обнаружение вируса гепатита E в биологическом материале методом ПЦР</td>
+<td>1914,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173792,13 +173763,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1126</td>
-<td>B09.835.020</td>
-<td>Обнаружение вируса кори в биологическом материале методом ПЦР</td>
+<td>B09.832.020</td>
+<td>Обнаружение вируса гепатита G в биологическом материале методом ПЦР</td>
 <td>2127,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173806,13 +173777,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1127</td>
-<td>B09.836.020</td>
-<td>Обнаружение вируса папилломы человека в биологическом материале методом ПЦР количественное</td>
-<td>2152,70</td>
+<td>B09.833.020</td>
+<td>Обнаружение вируса герпеса 3 типа (ВПГ-III) в биологическом материале методом ПЦР</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173820,13 +173791,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1128</td>
-<td>B09.837.020</td>
-<td>Обнаружение вируса папилломы человека в биологическом материале методом ПЦР качественное</td>
-<td>1086,95</td>
+<td>B09.834.020</td>
+<td>Обнаружение вируса иммунодефицита человека (ВИЧ) в биологическом материале методом ПЦР</td>
+<td>2350,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173834,13 +173805,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1129</td>
-<td>B09.851.020</td>
-<td>Определение генотипа вируса папилломы человека в биологическом материале методом ПЦР</td>
-<td>893,46</td>
+<td>B09.835.020</td>
+<td>Обнаружение вируса кори в биологическом материале методом ПЦР</td>
+<td>2127,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173848,13 +173819,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1130</td>
-<td>B09.838.020</td>
-<td>Обнаружение вируса простого герпеса 6 типа в биологическом материале методом ПЦР</td>
-<td>1691,34</td>
+<td>B09.836.020</td>
+<td>Обнаружение вируса папилломы человека в биологическом материале методом ПЦР количественное</td>
+<td>2152,70</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173862,13 +173833,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1131</td>
-<td>B09.839.020</td>
-<td>Обнаружение вируса Эпштейн - Барра (ВПГ-IV) в биологическом материале методом ПЦР качественное</td>
-<td>1691,34</td>
+<td>B09.837.020</td>
+<td>Обнаружение вируса папилломы человека в биологическом материале методом ПЦР качественное</td>
+<td>1086,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173876,13 +173847,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1132</td>
-<td>B09.840.020</td>
-<td>Опеределение вируса Эпштейн - Барра (ВПГ-IV) в биологическом материале методом ПЦР количественное</td>
-<td>1927,34</td>
+<td>B09.851.020</td>
+<td>Определение генотипа вируса папилломы человека в биологическом материале методом ПЦР</td>
+<td>893,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173890,13 +173861,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1133</td>
-<td>B09.841.020</td>
-<td>Обнаружение вируса гепатита B в биологическом материале методом ПЦР качественное</td>
-<td>1852,98</td>
+<td>B09.838.020</td>
+<td>Обнаружение вируса простого герпеса 6 типа в биологическом материале методом ПЦР</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173904,13 +173875,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1134</td>
-<td>B09.842.020</td>
-<td>Обнаружение парвовируса в биологическом материале методом ПЦР</td>
+<td>B09.839.020</td>
+<td>Обнаружение вируса Эпштейн - Барра (ВПГ-IV) в биологическом материале методом ПЦР качественное</td>
 <td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173918,13 +173889,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1135</td>
-<td>B09.843.020</td>
-<td>Обнаружение риновируса в биологическом материале методом ПЦР</td>
-<td>1691,34</td>
+<td>B09.840.020</td>
+<td>Опеределение вируса Эпштейн - Барра (ВПГ-IV) в биологическом материале методом ПЦР количественное</td>
+<td>1927,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173932,13 +173903,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1136</td>
-<td>B09.844.020</td>
-<td>Обнаружение Т-лимфотропного вируса в биологическом материале методом ПЦР</td>
-<td>1691,34</td>
+<td>B09.841.020</td>
+<td>Обнаружение вируса гепатита B в биологическом материале методом ПЦР качественное</td>
+<td>1852,98</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173946,13 +173917,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1137</td>
-<td>B09.845.020</td>
-<td>Обнаружение филовируса в биологическом материале методом ПЦР</td>
+<td>B09.842.020</td>
+<td>Обнаружение парвовируса в биологическом материале методом ПЦР</td>
 <td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173960,13 +173931,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1138</td>
-<td>B09.846.020</td>
-<td>Обнаружение цитомегаловируса (ВПГ-V) в биологическом материале методом ПЦР качественное</td>
-<td>1251,10</td>
+<td>B09.843.020</td>
+<td>Обнаружение риновируса в биологическом материале методом ПЦР</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173974,13 +173945,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1139</td>
-<td>B09.847.020</td>
-<td>Обнаружение цитомегаловируса (ВПГ-V) в биологическом материале методом ПЦР количественное</td>
-<td>1591,81</td>
+<td>B09.844.020</td>
+<td>Обнаружение Т-лимфотропного вируса в биологическом материале методом ПЦР</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -173988,13 +173959,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1140</td>
-<td>B09.848.020</td>
-<td>Обнаружение энтеровируса в биологическом материале методом ПЦР</td>
-<td>3257,61</td>
+<td>B09.845.020</td>
+<td>Обнаружение филовируса в биологическом материале методом ПЦР</td>
+<td>1691,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174002,13 +173973,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1141</td>
-<td>B09.849.020</td>
-<td>Обнаружении вируса краснухи в биологическом материале методом ПЦР</td>
-<td>1086,95</td>
+<td>B09.846.020</td>
+<td>Обнаружение цитомегаловируса (ВПГ-V) в биологическом материале методом ПЦР качественное</td>
+<td>1251,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174016,13 +173987,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1142</td>
-<td>B09.675.020</td>
-<td>Определение вируса гепатита B в биологическом материале методом ПЦР количественное</td>
-<td>2481,95</td>
+<td>B09.847.020</td>
+<td>Обнаружение цитомегаловируса (ВПГ-V) в биологическом материале методом ПЦР количественное</td>
+<td>1591,81</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174030,13 +174001,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1143</td>
-<td>B09.676.020</td>
-<td>Определение вируса гепатита C в биологическом материале методом ПЦР количественное</td>
-<td>5011,64</td>
+<td>B09.848.020</td>
+<td>Обнаружение энтеровируса в биологическом материале методом ПЦР</td>
+<td>3257,61</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174044,13 +174015,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1144</td>
-<td>B09.472.020</td>
-<td>Определение генотипа вируса гепатита C методом ПЦР</td>
-<td>2697,07</td>
+<td>B09.849.020</td>
+<td>Обнаружении вируса краснухи в биологическом материале методом ПЦР</td>
+<td>1086,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174058,13 +174029,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1145</td>
-<td>B09.859.020</td>
-<td>Качественное определение провирусной ДНК ВИЧ-1 методом ПЦР</td>
-<td>11999,96</td>
+<td>B09.675.020</td>
+<td>Определение вируса гепатита B в биологическом материале методом ПЦР количественное</td>
+<td>2481,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174072,13 +174043,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1146</td>
-<td>B09.858.020</td>
-<td>Количественное определение РНК ВИЧ 1 в плазме крови методом ПЦР</td>
-<td>18327,00</td>
+<td>B09.676.020</td>
+<td>Определение вируса гепатита C в биологическом материале методом ПЦР количественное</td>
+<td>5011,64</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -174086,97 +174057,97 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1147</td>
+<td>B09.472.020</td>
+<td>Определение генотипа вируса гепатита C методом ПЦР</td>
+<td>2697,07</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1148</td>
+<td>B09.859.020</td>
+<td>Качественное определение провирусной ДНК ВИЧ-1 методом ПЦР</td>
+<td>11999,96</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1149</td>
+<td>B09.858.020</td>
+<td>Количественное определение РНК ВИЧ 1 в плазме крови методом ПЦР</td>
+<td>18327,00</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1150</td>
 <td>C</td>
 <td>ДИАГНОСТИЧЕСКИЕ ИССЛЕДОВАНИЯ</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1148</td>
+<td>1151</td>
 <td>C01.000.000</td>
 <td>Эндоскопические исследования</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1149</td>
+<td>1152</td>
 <td>C01.000.001</td>
 <td>Диагностическая эндоскопия</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1150</td>
+<td>1153</td>
 <td>C01.001.001</td>
 <td>Фиброэзофагогастродуоденоскопия</td>
 <td>1946,08</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1151</td>
-<td>C01.002.001</td>
-<td>Видеоэзофагогастродуоденоскопия</td>
-<td>3791,27</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1152</td>
-<td>C01.003.001</td>
-<td>Фиброэзофагоскопия</td>
-<td>1860,59</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1153</td>
-<td>C01.004.001</td>
-<td>Видеоэзофагоскопия</td>
-<td>2499,03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174184,13 +174155,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1154</td>
-<td>C01.032.001</td>
-<td>Ригидная бронхоскопия</td>
-<td>5609,08</td>
+<td>C01.002.001</td>
+<td>Видеоэзофагогастродуоденоскопия</td>
+<td>3791,27</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174198,13 +174169,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1155</td>
-<td>C01.009.001</td>
-<td>Фибробронхоскопия диагностическая</td>
-<td>2361,94</td>
+<td>C01.003.001</td>
+<td>Фиброэзофагоскопия</td>
+<td>1860,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174212,13 +174183,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1156</td>
-<td>C01.010.001</td>
-<td>Видеобронхоскопия диагностическая</td>
-<td>2939,22</td>
+<td>C01.004.001</td>
+<td>Видеоэзофагоскопия</td>
+<td>2499,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174226,13 +174197,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1157</td>
-<td>C01.011.001</td>
-<td>Фибротрахеоскопия</td>
-<td>1931,00</td>
+<td>C01.032.001</td>
+<td>Ригидная бронхоскопия</td>
+<td>5609,08</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174240,13 +174211,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1158</td>
-<td>C01.012.001</td>
-<td>Видеотрахеоскопия</td>
-<td>1931,00</td>
+<td>C01.009.001</td>
+<td>Фибробронхоскопия диагностическая</td>
+<td>2361,94</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174254,13 +174225,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1159</td>
-<td>C01.013.001</td>
-<td>Эндоскопическая интубация трахеи</td>
-<td>1203,50</td>
+<td>C01.010.001</td>
+<td>Видеобронхоскопия диагностическая</td>
+<td>2939,22</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174268,13 +174239,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1160</td>
-<td>C01.014.001</td>
-<td>Эндоскопический забор содержимого трахеи/бронхов для исследования</td>
-<td>141,79</td>
+<td>C01.011.001</td>
+<td>Фибротрахеоскопия</td>
+<td>1931,00</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174282,13 +174253,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1161</td>
-<td>C01.015.001</td>
-<td>Тотальная фиброколоноскопия</td>
-<td>4651,49</td>
+<td>C01.012.001</td>
+<td>Видеотрахеоскопия</td>
+<td>1931,00</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174296,13 +174267,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1162</td>
-<td>C01.016.001</td>
-<td>Тотальная видеоколоноскопия</td>
-<td>4651,49</td>
+<td>C01.013.001</td>
+<td>Эндоскопическая интубация трахеи</td>
+<td>1203,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174310,13 +174281,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1163</td>
-<td>C01.017.001</td>
-<td>Фиброректосигмоидоскопия</td>
-<td>1539,98</td>
+<td>C01.014.001</td>
+<td>Эндоскопический забор содержимого трахеи/бронхов для исследования</td>
+<td>141,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174324,13 +174295,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1164</td>
-<td>C01.018.001</td>
-<td>Видеоректосигмоидоскопия</td>
-<td>1646,18</td>
+<td>C01.015.001</td>
+<td>Тотальная фиброколоноскопия</td>
+<td>4651,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174338,13 +174309,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1165</td>
-<td>C01.020.001</td>
-<td>Эндоскопическая ретроградная холангио-панкреатография</td>
-<td>6443,76</td>
+<td>C01.016.001</td>
+<td>Тотальная видеоколоноскопия</td>
+<td>4651,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174352,13 +174323,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1166</td>
-<td>C01.021.001</td>
-<td>Суточная pH метрия эндоскопическим методом</td>
-<td>958,50</td>
+<td>C01.017.001</td>
+<td>Фиброректосигмоидоскопия</td>
+<td>1539,98</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174366,13 +174337,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1167</td>
-<td>C01.022.001</td>
-<td>Одномоментная pH метрия эндоскопическим методом</td>
-<td>716,10</td>
+<td>C01.018.001</td>
+<td>Видеоректосигмоидоскопия</td>
+<td>1646,18</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174380,13 +174351,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1168</td>
-<td>C01.023.001</td>
-<td>Эндоскопическая ультрасонография пищевода/желудка/12 перстной кишки кишки</td>
-<td>1988,34</td>
+<td>C01.020.001</td>
+<td>Эндоскопическая ретроградная холангио-панкреатография</td>
+<td>6443,76</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174394,13 +174365,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1169</td>
-<td>C01.024.001</td>
-<td>Эндоскопическая ультрасонография толстого кишечника</td>
-<td>4220,12</td>
+<td>C01.021.001</td>
+<td>Суточная pH метрия эндоскопическим методом</td>
+<td>958,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174408,13 +174379,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1170</td>
-<td>C01.025.001</td>
-<td>Фиброларингоскопия</td>
-<td>781,73</td>
+<td>C01.022.001</td>
+<td>Одномоментная pH метрия эндоскопическим методом</td>
+<td>716,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174422,13 +174393,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1171</td>
-<td>C01.026.001</td>
-<td>Фиброэпифаринголарингоскопия</td>
-<td>999,94</td>
+<td>C01.023.001</td>
+<td>Эндоскопическая ультрасонография пищевода/желудка/12 перстной кишки кишки</td>
+<td>1988,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174436,13 +174407,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1172</td>
-<td>C01.027.001</td>
-<td>Эндоскопическая щипковая биопсия</td>
-<td>280,01</td>
+<td>C01.024.001</td>
+<td>Эндоскопическая ультрасонография толстого кишечника</td>
+<td>4220,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174450,13 +174421,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1173</td>
-<td>C01.028.001</td>
-<td>Видеоэпифаринголарингоскопия</td>
-<td>1551,46</td>
+<td>C01.025.001</td>
+<td>Фиброларингоскопия</td>
+<td>781,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174464,13 +174435,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1174</td>
-<td>C01.030.001</td>
-<td>Торакоскопия диагностическая</td>
-<td>3230,04</td>
+<td>C01.026.001</td>
+<td>Фиброэпифаринголарингоскопия</td>
+<td>999,94</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174478,13 +174449,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1175</td>
-<td>C01.031.001</td>
-<td>Риноскопия диагностическая</td>
-<td>343,21</td>
+<td>C01.027.001</td>
+<td>Эндоскопическая щипковая биопсия</td>
+<td>280,01</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174492,13 +174463,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1176</td>
-<td>C01.033.001</td>
-<td>Видеоларингоскопия</td>
-<td>2176,34</td>
+<td>C01.028.001</td>
+<td>Видеоэпифаринголарингоскопия</td>
+<td>1551,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174506,13 +174477,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1177</td>
-<td>C01.034.001</td>
-<td>Видеокольпоскопия</td>
-<td>1043,78</td>
+<td>C01.030.001</td>
+<td>Торакоскопия диагностическая</td>
+<td>3230,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174520,13 +174491,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1178</td>
-<td>C01.035.001</td>
-<td>Видеоэнтероскопия</td>
-<td>5466,84</td>
+<td>C01.031.001</td>
+<td>Риноскопия диагностическая</td>
+<td>343,21</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174534,27 +174505,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1179</td>
-<td>C01.036.001</td>
-<td>Видеокапсульная эндоскопия</td>
-<td>111868,28</td>
+<td>C01.033.001</td>
+<td>Видеоларингоскопия</td>
+<td>2176,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>0</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1180</td>
-<td>C01.037.001</td>
-<td>Тотальная видеоколоноскопия скрининговая</td>
-<td>7408,87</td>
+<td>C01.034.001</td>
+<td>Видеокольпоскопия</td>
+<td>1043,78</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174562,41 +174533,41 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1181</td>
-<td>C01.000.002</td>
-<td>Лечебная эндоскопия</td>
+<td>C01.035.001</td>
+<td>Видеоэнтероскопия</td>
+<td>5466,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1182</td>
-<td>C01.001.002</td>
-<td>Бронхоскопия лечебная</td>
-<td>2948,11</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
+<td>1182</td>
+<td>C01.036.001</td>
+<td>Видеокапсульная эндоскопия</td>
+<td>111868,28</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
 <td>1183</td>
-<td>C01.002.002</td>
-<td>Эндоскопическое удаление инородного тела из ЖКТ</td>
-<td>1754,98</td>
+<td>C01.037.001</td>
+<td>Тотальная видеоколоноскопия скрининговая</td>
+<td>7408,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174604,27 +174575,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1184</td>
-<td>C01.003.002</td>
-<td>Эндоскопическая механическая экстракция конкрементов/литотрипсия</td>
-<td>8438,44</td>
+<td>C01.000.002</td>
+<td>Лечебная эндоскопия</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1185</td>
-<td>C01.004.002</td>
-<td>Эндоскопическая электрохирургическая литотрипсия</td>
-<td>5558,54</td>
+<td>C01.001.002</td>
+<td>Бронхоскопия лечебная</td>
+<td>2948,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174632,13 +174603,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1186</td>
-<td>C01.006.002</td>
-<td>Эндоскопическое удаление новообразований пищевода/желудка/12 перстной кишки</td>
-<td>2349,10</td>
+<td>C01.002.002</td>
+<td>Эндоскопическое удаление инородного тела из ЖКТ</td>
+<td>1754,98</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174646,13 +174617,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1187</td>
-<td>C01.007.002</td>
-<td>Эндоскопическое удаление новообразований толстого кишечника</td>
-<td>3925,31</td>
+<td>C01.003.002</td>
+<td>Эндоскопическая механическая экстракция конкрементов/литотрипсия</td>
+<td>8438,44</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174660,13 +174631,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1188</td>
-<td>C01.008.002</td>
-<td>Эндоскопическая установка назобилиарного дренажа</td>
-<td>47871,35</td>
+<td>C01.004.002</td>
+<td>Эндоскопическая электрохирургическая литотрипсия</td>
+<td>5558,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174674,13 +174645,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1189</td>
-<td>C01.009.002</td>
-<td>Эндоскопическое удаление новообразований трахеи/бронха</td>
-<td>3976,51</td>
+<td>C01.006.002</td>
+<td>Эндоскопическое удаление новообразований пищевода/желудка/12 перстной кишки</td>
+<td>2349,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174688,13 +174659,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1190</td>
-<td>C01.010.002</td>
-<td>Эндоскопическая резекция новообразования пищевода, желудка, тонкого, толстого кишечника</td>
-<td>35604,33</td>
+<td>C01.007.002</td>
+<td>Эндоскопическое удаление новообразований толстого кишечника</td>
+<td>3925,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174702,13 +174673,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1191</td>
-<td>C01.011.002</td>
-<td>Эндоскопическая пневмодилатация при ахалазии кардии</td>
-<td>6595,52</td>
+<td>C01.008.002</td>
+<td>Эндоскопическая установка назобилиарного дренажа</td>
+<td>47871,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174716,13 +174687,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1192</td>
-<td>C01.018.002</td>
-<td>Медиастиноскопия лечебно-диагностическая</td>
-<td>4234,21</td>
+<td>C01.009.002</td>
+<td>Эндоскопическое удаление новообразований трахеи/бронха</td>
+<td>3976,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174730,13 +174701,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1193</td>
-<td>C01.019.002</td>
-<td>Артроскопия лечебно-диагностическая</td>
-<td>3901,02</td>
+<td>C01.010.002</td>
+<td>Эндоскопическая резекция новообразования пищевода, желудка, тонкого, толстого кишечника</td>
+<td>35604,33</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174744,13 +174715,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1194</td>
-<td>C01.020.002</td>
-<td>Фистулоскопия лечебно-диагностическая</td>
-<td>3230,04</td>
+<td>C01.011.002</td>
+<td>Эндоскопическая пневмодилатация при ахалазии кардии</td>
+<td>6595,52</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174758,13 +174729,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1195</td>
-<td>C01.021.002</td>
-<td>Фистулохоледохоскопия лечебно-диагностическая</td>
-<td>3191,02</td>
+<td>C01.018.002</td>
+<td>Медиастиноскопия лечебно-диагностическая</td>
+<td>4234,21</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174772,13 +174743,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1196</td>
-<td>C01.022.002</td>
-<td>Цистоуретроскопия лечебно-диагностическая</td>
-<td>801,01</td>
+<td>C01.019.002</td>
+<td>Артроскопия лечебно-диагностическая</td>
+<td>3901,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174786,13 +174757,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1197</td>
-<td>C01.023.002</td>
-<td>Эндоскопическое удаление новообразований гортани/глотки</td>
-<td>3976,51</td>
+<td>C01.020.002</td>
+<td>Фистулоскопия лечебно-диагностическая</td>
+<td>3230,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174800,13 +174771,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1198</td>
-<td>C01.024.002</td>
-<td>Эндоскопическое удаление инородных тел из дыхательных путей</td>
-<td>2447,26</td>
+<td>C01.021.002</td>
+<td>Фистулохоледохоскопия лечебно-диагностическая</td>
+<td>3191,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174814,13 +174785,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1199</td>
-<td>C01.025.002</td>
-<td>Эндоскопическая склеротерапия варикозно-расширеных вен пищевода и желудка</td>
-<td>195564,38</td>
+<td>C01.022.002</td>
+<td>Цистоуретроскопия лечебно-диагностическая</td>
+<td>801,01</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174828,13 +174799,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1200</td>
-<td>C01.027.002</td>
-<td>Эндоскопический гемостаз инъекционный</td>
-<td>11351,90</td>
+<td>C01.023.002</td>
+<td>Эндоскопическое удаление новообразований гортани/глотки</td>
+<td>3976,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174842,13 +174813,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1201</td>
-<td>C01.028.002</td>
-<td>Эндоскопический гемостаз диатермокоагуляцией</td>
-<td>3922,33</td>
+<td>C01.024.002</td>
+<td>Эндоскопическое удаление инородных тел из дыхательных путей</td>
+<td>2447,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174856,13 +174827,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1202</td>
-<td>C01.029.002</td>
-<td>Эндоскопический гемостаз механический (лигирование, клипирование)</td>
-<td>87883,89</td>
+<td>C01.025.002</td>
+<td>Эндоскопическая склеротерапия варикозно-расширеных вен пищевода и желудка</td>
+<td>195564,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174870,13 +174841,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1203</td>
-<td>C01.030.002</td>
-<td>Эндоскопическая подслизистая диссекция</td>
-<td>64089,84</td>
+<td>C01.027.002</td>
+<td>Эндоскопический гемостаз инъекционный</td>
+<td>11351,90</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174884,13 +174855,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1204</td>
-<td>C01.031.002</td>
-<td>Эндоскопическая баллоная дилатация</td>
-<td>102371,86</td>
+<td>C01.028.002</td>
+<td>Эндоскопический гемостаз диатермокоагуляцией</td>
+<td>3922,33</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174898,13 +174869,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1205</td>
-<td>C01.032.002</td>
-<td>Бужирование пищевода по проводнику под эндоскопическим контролем</td>
-<td>3039,85</td>
+<td>C01.029.002</td>
+<td>Эндоскопический гемостаз механический (лигирование, клипирование)</td>
+<td>87883,89</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174912,13 +174883,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1206</td>
-<td>C01.012.002</td>
-<td>Стентирование верхних отделов желудочно-кишечного тракта (ЖКТ)</td>
-<td>244586,95</td>
+<td>C01.030.002</td>
+<td>Эндоскопическая подслизистая диссекция</td>
+<td>64089,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174926,13 +174897,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1207</td>
-<td>C01.015.002</td>
-<td>Эндоскопическое стентирование желчевыводящих путей</td>
-<td>244953,76</td>
+<td>C01.031.002</td>
+<td>Эндоскопическая баллоная дилатация</td>
+<td>102371,86</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174940,27 +174911,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1208</td>
-<td>C02.000.000</td>
-<td>Функциональная диагностика</td>
+<td>C01.032.002</td>
+<td>Бужирование пищевода по проводнику под эндоскопическим контролем</td>
+<td>3039,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1209</td>
-<td>C02.001.000</td>
-<td>Электрокардиографическое исследование (в 12 отведениях)</td>
-<td>462,13</td>
-<td>1,6</td>
+<td>C01.012.002</td>
+<td>Стентирование верхних отделов желудочно-кишечного тракта (ЖКТ)</td>
+<td>244586,95</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174968,13 +174939,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1210</td>
-<td>C02.002.000</td>
-<td>Электрокардиографическое исследование по Нэбу</td>
-<td>263,17</td>
+<td>C01.015.002</td>
+<td>Эндоскопическое стентирование желчевыводящих путей</td>
+<td>244953,76</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -174982,27 +174953,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1211</td>
-<td>C02.003.000</td>
-<td>Электрокардиографическое исследование по Слопаку</td>
-<td>416,21</td>
+<td>C02.000.000</td>
+<td>Функциональная диагностика</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1212</td>
-<td>C02.004.000</td>
-<td>Электрокардиографическое исследование с дозированной физической нагрузкой (тредмил, велоэргометр)</td>
-<td>1484,02</td>
+<td>C02.001.000</td>
+<td>Электрокардиографическое исследование (в 12 отведениях)</td>
+<td>462,13</td>
+<td>1,6</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175010,13 +174981,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1213</td>
-<td>C02.005.000</td>
-<td>Электрокардиографическое дополнительное исследование с фармакологическими пробами (обзидан, KCL)</td>
-<td>579,22</td>
+<td>C02.002.000</td>
+<td>Электрокардиографическое исследование по Нэбу</td>
+<td>263,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175024,13 +174995,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1214</td>
-<td>C02.006.000</td>
-<td>Чрезпищеводная кардиостимуляция (исследование аритмии)</td>
-<td>948,11</td>
+<td>C02.003.000</td>
+<td>Электрокардиографическое исследование по Слопаку</td>
+<td>416,21</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175038,13 +175009,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1215</td>
-<td>C02.007.000</td>
-<td>Чрезпищеводная кардиостимуляция (ишемический тест)</td>
-<td>1855,45</td>
+<td>C02.004.000</td>
+<td>Электрокардиографическое исследование с дозированной физической нагрузкой (тредмил, велоэргометр)</td>
+<td>1484,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175052,13 +175023,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1216</td>
-<td>C02.008.000</td>
-<td>Холтеровское мониторирование электрокардиограммы (24 часа)</td>
-<td>2294,66</td>
+<td>C02.005.000</td>
+<td>Электрокардиографическое дополнительное исследование с фармакологическими пробами (обзидан, KCL)</td>
+<td>579,22</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175066,13 +175037,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1217</td>
-<td>C02.009.000</td>
-<td>Суточное мониторирование артериального давления (24 часа)</td>
-<td>2153,33</td>
+<td>C02.006.000</td>
+<td>Чрезпищеводная кардиостимуляция (исследование аритмии)</td>
+<td>948,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175080,13 +175051,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1218</td>
-<td>C02.010.000</td>
-<td>Электрофизиологическое исследование сердца: ишемический тест (« 6 минутная ходьба»)</td>
-<td>2026,67</td>
+<td>C02.007.000</td>
+<td>Чрезпищеводная кардиостимуляция (ишемический тест)</td>
+<td>1855,45</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175094,13 +175065,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1219</td>
-<td>C02.011.000</td>
-<td>Стресс тесты: психоэмоциональные на ишемию</td>
-<td>6187,63</td>
+<td>C02.008.000</td>
+<td>Холтеровское мониторирование электрокардиограммы (24 часа)</td>
+<td>2294,66</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175108,13 +175079,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1220</td>
-<td>C02.012.000</td>
-<td>Эхокардиография</td>
-<td>1114,42</td>
+<td>C02.009.000</td>
+<td>Суточное мониторирование артериального давления (24 часа)</td>
+<td>2153,33</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175122,13 +175093,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1221</td>
-<td>C02.013.000</td>
-<td>Стресс-эхокардиография</td>
-<td>2793,18</td>
+<td>C02.010.000</td>
+<td>Электрофизиологическое исследование сердца: ишемический тест (« 6 минутная ходьба»)</td>
+<td>2026,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175136,13 +175107,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1222</td>
-<td>C02.014.000</td>
-<td>Стресс-эхокардиография с фармакологической пробой (добутамин)</td>
-<td>2441,34</td>
+<td>C02.011.000</td>
+<td>Стресс тесты: психоэмоциональные на ишемию</td>
+<td>6187,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175150,13 +175121,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1223</td>
-<td>C02.015.000</td>
-<td>Чреспищеводная эхокардиография</td>
-<td>3633,99</td>
+<td>C02.012.000</td>
+<td>Эхокардиография</td>
+<td>1114,42</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175164,13 +175135,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1224</td>
-<td>C02.016.000</td>
-<td>Кардиоинтервалография</td>
-<td>693,17</td>
+<td>C02.013.000</td>
+<td>Стресс-эхокардиография</td>
+<td>2793,18</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175178,13 +175149,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1225</td>
-<td>C02.017.000</td>
-<td>Кардиотокография плода</td>
-<td>1174,36</td>
+<td>C02.014.000</td>
+<td>Стресс-эхокардиография с фармакологической пробой (добутамин)</td>
+<td>2441,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175192,13 +175163,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1226</td>
-<td>C02.018.000</td>
-<td>Видеозапись эхокардиографии</td>
-<td>1472,20</td>
+<td>C02.015.000</td>
+<td>Чреспищеводная эхокардиография</td>
+<td>3633,99</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175206,13 +175177,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1227</td>
-<td>C02.019.000</td>
-<td>Нейросонография</td>
-<td>1672,72</td>
+<td>C02.016.000</td>
+<td>Кардиоинтервалография</td>
+<td>693,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175220,13 +175191,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1228</td>
-<td>C02.020.000</td>
-<td>Электроэнцефалография</td>
-<td>1664,66</td>
+<td>C02.017.000</td>
+<td>Кардиотокография плода</td>
+<td>1174,36</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175234,13 +175205,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1229</td>
-<td>C02.021.000</td>
-<td>Холтеровское мониторирование электроэнцефалограммы</td>
-<td>2317,65</td>
+<td>C02.018.000</td>
+<td>Видеозапись эхокардиографии</td>
+<td>1472,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175248,13 +175219,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1230</td>
-<td>C02.042.000</td>
-<td>Ночной видеомониторинг электроэнцефалограммы</td>
-<td>10534,23</td>
+<td>C02.019.000</td>
+<td>Нейросонография</td>
+<td>1672,72</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175262,13 +175233,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1231</td>
-<td>C02.043.000</td>
-<td>Видеомониториринг электроэнцефалограммы (первый час)</td>
-<td>2539,54</td>
+<td>C02.020.000</td>
+<td>Электроэнцефалография</td>
+<td>1664,66</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175276,13 +175247,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1232</td>
-<td>C02.044.000</td>
-<td>Видеомониториринг электроэнцефалограммы (последующий час)</td>
-<td>1309,23</td>
+<td>C02.021.000</td>
+<td>Холтеровское мониторирование электроэнцефалограммы</td>
+<td>2317,65</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175290,13 +175261,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1233</td>
-<td>C02.022.000</td>
-<td>Электроэнцефалография с компьютерной обработкой</td>
-<td>3004,59</td>
+<td>C02.042.000</td>
+<td>Ночной видеомониторинг электроэнцефалограммы</td>
+<td>10534,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175304,13 +175275,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1234</td>
-<td>C02.023.000</td>
-<td>Электроэнцефалографические пробы (фото-, фоностимуляция, гипервентиляция)</td>
-<td>1511,67</td>
+<td>C02.043.000</td>
+<td>Видеомониториринг электроэнцефалограммы (первый час)</td>
+<td>2539,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175318,13 +175289,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1235</td>
-<td>C02.031.000</td>
-<td>Электромиография игольчатая</td>
-<td>1208,32</td>
+<td>C02.044.000</td>
+<td>Видеомониториринг электроэнцефалограммы (последующий час)</td>
+<td>1309,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175332,13 +175303,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1236</td>
-<td>C02.032.000</td>
-<td>Электронейромиография</td>
-<td>1208,32</td>
+<td>C02.022.000</td>
+<td>Электроэнцефалография с компьютерной обработкой</td>
+<td>3004,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175346,13 +175317,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1237</td>
-<td>C02.045.000</td>
-<td>Электромиография</td>
-<td>1208,32</td>
+<td>C02.023.000</td>
+<td>Электроэнцефалографические пробы (фото-, фоностимуляция, гипервентиляция)</td>
+<td>1511,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175360,13 +175331,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1238</td>
-<td>C02.033.000</td>
-<td>Спирография при записи на автоматизированных аппаратах</td>
+<td>C02.031.000</td>
+<td>Электромиография игольчатая</td>
 <td>1208,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175374,13 +175345,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1239</td>
-<td>C02.046.000</td>
-<td>Спирография на неавтоматизированных аппаратах</td>
-<td>423,16</td>
+<td>C02.032.000</td>
+<td>Электронейромиография</td>
+<td>1208,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175388,13 +175359,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1240</td>
-<td>C02.034.000</td>
-<td>Спирография с функциональными пробами (фармакологическая, физическая нагрузка) на автоматизированных аппаратах</td>
-<td>819,12</td>
+<td>C02.045.000</td>
+<td>Электромиография</td>
+<td>1208,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175402,13 +175373,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1241</td>
-<td>C02.035.000</td>
-<td>Бодиплетизмография</td>
-<td>597,53</td>
+<td>C02.033.000</td>
+<td>Спирография при записи на автоматизированных аппаратах</td>
+<td>1208,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175416,13 +175387,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1242</td>
-<td>C02.037.000</td>
-<td>Исследование функции внешнего дыхания (спирография, бодиплетизмография)</td>
-<td>985,73</td>
+<td>C02.046.000</td>
+<td>Спирография на неавтоматизированных аппаратах</td>
+<td>423,16</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175430,13 +175401,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1243</td>
-<td>C02.039.000</td>
-<td>Паллестезиометрия</td>
-<td>155,97</td>
+<td>C02.034.000</td>
+<td>Спирография с функциональными пробами (фармакологическая, физическая нагрузка) на автоматизированных аппаратах</td>
+<td>819,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175444,13 +175415,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1244</td>
-<td>C02.040.000</td>
-<td>Исследование вегетативного статуса</td>
-<td>1173,44</td>
+<td>C02.035.000</td>
+<td>Бодиплетизмография</td>
+<td>597,53</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175458,13 +175429,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1245</td>
-<td>C02.041.000</td>
-<td>Реовазография</td>
-<td>470,88</td>
+<td>C02.037.000</td>
+<td>Исследование функции внешнего дыхания (спирография, бодиплетизмография)</td>
+<td>985,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175472,13 +175443,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1246</td>
-<td>C02.047.000</td>
-<td>Реоэнцефалография</td>
-<td>470,88</td>
+<td>C02.039.000</td>
+<td>Паллестезиометрия</td>
+<td>155,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175486,13 +175457,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1247</td>
-<td>C02.048.000</td>
-<td>Динамометрия</td>
-<td>132,63</td>
+<td>C02.040.000</td>
+<td>Исследование вегетативного статуса</td>
+<td>1173,44</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175500,13 +175471,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1248</td>
-<td>C02.049.000</td>
-<td>Полисомнография</td>
-<td>10534,23</td>
+<td>C02.041.000</td>
+<td>Реовазография</td>
+<td>470,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175514,41 +175485,41 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1249</td>
-<td>C03.000.000</td>
-<td>Лучевая диагностика и терапия</td>
+<td>C02.047.000</td>
+<td>Реоэнцефалография</td>
+<td>470,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1250</td>
-<td>C03.000.003</td>
-<td>Ультразвуковая доплерография (УЗДГ)</td>
+<td>C02.048.000</td>
+<td>Динамометрия</td>
+<td>132,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1251</td>
-<td>C03.001.003</td>
-<td>УЗДГ сосудов плода</td>
-<td>1435,02</td>
+<td>C02.049.000</td>
+<td>Полисомнография</td>
+<td>10534,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175556,41 +175527,41 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1252</td>
-<td>C03.002.003</td>
-<td>УЗДГ брахиоцефального ствола</td>
-<td>1435,02</td>
+<td>C03.000.000</td>
+<td>Лучевая диагностика и терапия</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1253</td>
-<td>C03.004.003</td>
-<td>УЗДГ сосудов головного мозга</td>
-<td>1435,02</td>
+<td>C03.000.003</td>
+<td>Ультразвуковая доплерография (УЗДГ)</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1254</td>
-<td>C03.005.003</td>
-<td>УЗДГ брюшного отдела аорты и ее ветвей</td>
+<td>C03.001.003</td>
+<td>УЗДГ сосудов плода</td>
 <td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175598,13 +175569,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1255</td>
-<td>C03.006.003</td>
-<td>УЗДГ сосудов печени</td>
+<td>C03.002.003</td>
+<td>УЗДГ брахиоцефального ствола</td>
 <td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175612,13 +175583,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1256</td>
-<td>C03.007.003</td>
-<td>УЗДГ сосудов селезенки</td>
+<td>C03.004.003</td>
+<td>УЗДГ сосудов головного мозга</td>
 <td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175626,13 +175597,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1257</td>
-<td>C03.008.003</td>
-<td>УЗДГ сосудов почек</td>
+<td>C03.005.003</td>
+<td>УЗДГ брюшного отдела аорты и ее ветвей</td>
 <td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175640,13 +175611,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1258</td>
-<td>C03.009.003</td>
-<td>УЗДГ сосудов яичка</td>
-<td>1446,02</td>
+<td>C03.006.003</td>
+<td>УЗДГ сосудов печени</td>
+<td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175654,13 +175625,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1259</td>
-<td>C03.010.003</td>
-<td>УЗДГ сосудов полового члена</td>
-<td>1446,02</td>
+<td>C03.007.003</td>
+<td>УЗДГ сосудов селезенки</td>
+<td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175668,13 +175639,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1260</td>
-<td>C03.011.003</td>
-<td>УЗДГ артерий верхних и нижних конечностей</td>
-<td>1769,25</td>
+<td>C03.008.003</td>
+<td>УЗДГ сосудов почек</td>
+<td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175682,13 +175653,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1261</td>
-<td>C03.016.003</td>
-<td>УЗДГ артерий верхних конечностей</td>
-<td>1769,25</td>
+<td>C03.009.003</td>
+<td>УЗДГ сосудов яичка</td>
+<td>1446,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175696,13 +175667,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1262</td>
-<td>C03.012.003</td>
-<td>УЗДГ артерий нижних конечностей</td>
-<td>1435,02</td>
+<td>C03.010.003</td>
+<td>УЗДГ сосудов полового члена</td>
+<td>1446,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175710,13 +175681,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1263</td>
-<td>C03.013.003</td>
-<td>УЗДГ вен нижних конечностей</td>
-<td>1435,02</td>
+<td>C03.011.003</td>
+<td>УЗДГ артерий верхних и нижних конечностей</td>
+<td>1769,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175724,13 +175695,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1264</td>
-<td>C03.014.003</td>
-<td>УЗДГ вен верхних конечностей</td>
-<td>1435,02</td>
+<td>C03.016.003</td>
+<td>УЗДГ артерий верхних конечностей</td>
+<td>1769,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175738,13 +175709,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1265</td>
-<td>C03.015.003</td>
-<td>Определение соотношения скорости кровотока на аорте и периферических артериях прибором для неинвазивного определения атеросклероза (40 мин)</td>
+<td>C03.012.003</td>
+<td>УЗДГ артерий нижних конечностей</td>
 <td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175752,27 +175723,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1266</td>
-<td>C03.000.004</td>
-<td>Ультразвуковое исследование (УЗИ)</td>
+<td>C03.013.003</td>
+<td>УЗДГ вен нижних конечностей</td>
+<td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1267</td>
-<td>C03.001.004</td>
-<td>УЗИ гепатобилиопанкреатической области (печень, желчный пузырь, поджелудочная железа, селезенка)</td>
-<td>1724,31</td>
+<td>C03.014.003</td>
+<td>УЗДГ вен верхних конечностей</td>
+<td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175780,13 +175751,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1268</td>
-<td>C03.002.004</td>
-<td>УЗИ печени</td>
-<td>1513,44</td>
+<td>C03.015.003</td>
+<td>Определение соотношения скорости кровотока на аорте и периферических артериях прибором для неинвазивного определения атеросклероза (40 мин)</td>
+<td>1435,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175794,27 +175765,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1269</td>
-<td>C03.055.004</td>
-<td>УЗИ желчного пузыря и протоков</td>
-<td>1609,49</td>
+<td>C03.000.004</td>
+<td>Ультразвуковое исследование (УЗИ)</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1270</td>
-<td>C03.003.004</td>
-<td>УЗИ желчного пузыря с определением функций</td>
-<td>1609,49</td>
+<td>C03.001.004</td>
+<td>УЗИ гепатобилиопанкреатической области (печень, желчный пузырь, поджелудочная железа, селезенка)</td>
+<td>1724,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175822,13 +175793,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1271</td>
-<td>C03.004.004</td>
-<td>УЗИ селезенки</td>
-<td>1032,66</td>
+<td>C03.002.004</td>
+<td>УЗИ печени</td>
+<td>1513,44</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175836,13 +175807,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1272</td>
-<td>C03.005.004</td>
-<td>УЗИ поджелудочной железы</td>
-<td>1366,18</td>
+<td>C03.055.004</td>
+<td>УЗИ желчного пузыря и протоков</td>
+<td>1609,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175850,13 +175821,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1273</td>
-<td>C03.006.004</td>
-<td>УЗИ почек</td>
-<td>830,49</td>
+<td>C03.003.004</td>
+<td>УЗИ желчного пузыря с определением функций</td>
+<td>1609,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175864,13 +175835,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1274</td>
-<td>C03.007.004</td>
-<td>УЗИ надпочечников</td>
-<td>697,71</td>
+<td>C03.004.004</td>
+<td>УЗИ селезенки</td>
+<td>1032,66</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175878,13 +175849,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1275</td>
-<td>C03.008.004</td>
-<td>Ультразвуковая диагностика комплексная (печень, желчный пузырь, поджелудочная железа, селезенка, почек)</td>
-<td>1950,67</td>
+<td>C03.005.004</td>
+<td>УЗИ поджелудочной железы</td>
+<td>1366,18</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175892,13 +175863,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1276</td>
-<td>C03.009.004</td>
-<td>УЗИ желудка трансабдоминальное</td>
-<td>890,51</td>
+<td>C03.006.004</td>
+<td>УЗИ почек</td>
+<td>830,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175906,13 +175877,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1277</td>
-<td>C03.010.004</td>
-<td>УЗИ органов мочеполовой системы комплексное у мужчин (почки, надпочечники, мочевой пузырь с определением остаточной мочи, предстательная железа, яички)</td>
-<td>2695,17</td>
+<td>C03.007.004</td>
+<td>УЗИ надпочечников</td>
+<td>697,71</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175920,13 +175891,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1278</td>
-<td>C03.011.004</td>
-<td>УЗИ почек, мочевого пузыря с определением остаточной мочи</td>
-<td>1543,20</td>
+<td>C03.008.004</td>
+<td>Ультразвуковая диагностика комплексная (печень, желчный пузырь, поджелудочная железа, селезенка, почек)</td>
+<td>1950,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175934,13 +175905,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1279</td>
-<td>C03.012.004</td>
-<td>УЗИ мочевого пузыря с определением остаточной мочи</td>
-<td>560,18</td>
+<td>C03.009.004</td>
+<td>УЗИ желудка трансабдоминальное</td>
+<td>890,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175948,13 +175919,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1280</td>
-<td>C03.013.004</td>
-<td>Трансабдоминальное УЗИ предстательной железы и мочевого пузыря с определением остаточной мочи</td>
-<td>1267,21</td>
+<td>C03.010.004</td>
+<td>УЗИ органов мочеполовой системы комплексное у мужчин (почки, надпочечники, мочевой пузырь с определением остаточной мочи, предстательная железа, яички)</td>
+<td>2695,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175962,13 +175933,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1281</td>
-<td>C03.014.004</td>
-<td>УЗИ трансректальное предстательной железы</td>
-<td>686,79</td>
+<td>C03.011.004</td>
+<td>УЗИ почек, мочевого пузыря с определением остаточной мочи</td>
+<td>1543,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175976,13 +175947,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1282</td>
-<td>C03.015.004</td>
-<td>УЗИ трансуретральное предстательной железы и мочевого пузыря</td>
-<td>1021,02</td>
+<td>C03.012.004</td>
+<td>УЗИ мочевого пузыря с определением остаточной мочи</td>
+<td>560,18</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -175990,13 +175961,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1283</td>
-<td>C03.016.004</td>
-<td>УЗИ органов мошонки</td>
-<td>1258,71</td>
+<td>C03.013.004</td>
+<td>Трансабдоминальное УЗИ предстательной железы и мочевого пузыря с определением остаточной мочи</td>
+<td>1267,21</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176004,13 +175975,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1284</td>
-<td>C03.017.004</td>
-<td>УЗИ щитовидной железы</td>
-<td>1397,91</td>
+<td>C03.014.004</td>
+<td>УЗИ трансректальное предстательной железы</td>
+<td>686,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176018,13 +175989,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1285</td>
-<td>C03.018.004</td>
-<td>УЗИ молочных желёз</td>
-<td>1378,88</td>
+<td>C03.015.004</td>
+<td>УЗИ трансуретральное предстательной железы и мочевого пузыря</td>
+<td>1021,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176032,13 +176003,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1286</td>
-<td>C03.019.004</td>
-<td>УЗИ поверхностных лимфатических узлов (одна анатомическая зона)</td>
-<td>1061,20</td>
+<td>C03.016.004</td>
+<td>УЗИ органов мошонки</td>
+<td>1258,71</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176046,13 +176017,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1287</td>
-<td>C03.056.004</td>
-<td>УЗИ забрюшинных лимфатических узлов</td>
-<td>1061,20</td>
+<td>C03.017.004</td>
+<td>УЗИ щитовидной железы</td>
+<td>1397,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176060,13 +176031,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1288</td>
-<td>C03.020.004</td>
-<td>Эхоэнцефалография</td>
-<td>1275,26</td>
+<td>C03.018.004</td>
+<td>УЗИ молочных желёз</td>
+<td>1378,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176074,13 +176045,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1289</td>
-<td>C03.021.004</td>
-<td>УЗИ легких</td>
-<td>726,97</td>
+<td>C03.019.004</td>
+<td>УЗИ поверхностных лимфатических узлов (одна анатомическая зона)</td>
+<td>1061,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176088,13 +176059,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1290</td>
-<td>C03.022.004</td>
-<td>УЗИ плевры и плевральной полости</td>
-<td>467,13</td>
+<td>C03.056.004</td>
+<td>УЗИ забрюшинных лимфатических узлов</td>
+<td>1061,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176102,13 +176073,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1291</td>
-<td>C03.023.004</td>
-<td>УЗИ мягких тканей</td>
-<td>467,13</td>
+<td>C03.020.004</td>
+<td>Эхоэнцефалография</td>
+<td>1275,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176116,13 +176087,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1292</td>
-<td>C03.024.004</td>
-<td>УЗИ забрюшинного пространства</td>
-<td>606,79</td>
+<td>C03.021.004</td>
+<td>УЗИ легких</td>
+<td>726,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176130,13 +176101,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1293</td>
-<td>C03.057.004</td>
-<td>УЗИ брюшной полости, малого таза (наличие жидкости)</td>
-<td>618,94</td>
+<td>C03.022.004</td>
+<td>УЗИ плевры и плевральной полости</td>
+<td>467,13</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176144,13 +176115,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1294</td>
-<td>C03.025.004</td>
-<td>УЗИ слюнных желез</td>
-<td>606,79</td>
+<td>C03.023.004</td>
+<td>УЗИ мягких тканей</td>
+<td>467,13</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176158,13 +176129,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1295</td>
-<td>C03.026.004</td>
-<td>УЗИ придаточных пазух носа</td>
-<td>773,91</td>
+<td>C03.024.004</td>
+<td>УЗИ забрюшинного пространства</td>
+<td>606,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176172,13 +176143,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1296</td>
-<td>C03.027.004</td>
-<td>УЗИ глаз</td>
-<td>801,60</td>
+<td>C03.057.004</td>
+<td>УЗИ брюшной полости, малого таза (наличие жидкости)</td>
+<td>618,94</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176186,13 +176157,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1297</td>
-<td>C03.028.004</td>
-<td>УЗИ гинекологическое (трансабдоминальное)</td>
-<td>1375,63</td>
+<td>C03.025.004</td>
+<td>УЗИ слюнных желез</td>
+<td>606,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176200,13 +176171,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1298</td>
-<td>C03.029.004</td>
-<td>УЗИ гинекологическое (трансвагинальное)</td>
-<td>1375,63</td>
+<td>C03.026.004</td>
+<td>УЗИ придаточных пазух носа</td>
+<td>773,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176214,13 +176185,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1299</td>
-<td>C03.030.004</td>
-<td>Гистеросальпингография под контролем УЗИ</td>
-<td>1275,26</td>
+<td>C03.027.004</td>
+<td>УЗИ глаз</td>
+<td>801,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176228,13 +176199,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1300</td>
-<td>C03.031.004</td>
-<td>УЗИ акушерское в 1 триместре беременности</td>
+<td>C03.028.004</td>
+<td>УЗИ гинекологическое (трансабдоминальное)</td>
 <td>1375,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176242,13 +176213,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1301</td>
-<td>C03.032.004</td>
-<td>УЗИ акушерское во 2 - 3 триместре беременности</td>
-<td>1108,14</td>
+<td>C03.029.004</td>
+<td>УЗИ гинекологическое (трансвагинальное)</td>
+<td>1375,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176256,55 +176227,55 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1302</td>
+<td>C03.030.004</td>
+<td>Гистеросальпингография под контролем УЗИ</td>
+<td>1275,26</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1303</td>
+<td>C03.031.004</td>
+<td>УЗИ акушерское в 1 триместре беременности</td>
+<td>1375,63</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1304</td>
+<td>C03.032.004</td>
+<td>УЗИ акушерское во 2 - 3 триместре беременности</td>
+<td>1108,14</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1305</td>
 <td>C03.033.004</td>
 <td>УЗИ в 3-4 D режиме</td>
 <td>1108,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1303</td>
-<td>C03.034.004</td>
-<td>Трансабдоминальная аспирация ворсин хориона под контролем УЗИ</td>
-<td>2277,95</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1304</td>
-<td>C03.035.004</td>
-<td>Трансабдоминальный кордоцентез под контролем УЗИ</td>
-<td>2277,95</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1305</td>
-<td>C03.036.004</td>
-<td>Трансабдоминальный плацентоцентез под контролем УЗИ</td>
-<td>2277,95</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -176312,55 +176283,55 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1306</td>
+<td>C03.034.004</td>
+<td>Трансабдоминальная аспирация ворсин хориона под контролем УЗИ</td>
+<td>2277,95</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1307</td>
+<td>C03.035.004</td>
+<td>Трансабдоминальный кордоцентез под контролем УЗИ</td>
+<td>2277,95</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1308</td>
+<td>C03.036.004</td>
+<td>Трансабдоминальный плацентоцентез под контролем УЗИ</td>
+<td>2277,95</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1309</td>
 <td>C03.037.004</td>
 <td>Ультразвуковое исследование одного сустава конечностей</td>
 <td>921,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1307</td>
-<td>C03.043.004</td>
-<td>УЗИ кисти</td>
-<td>1408,02</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1308</td>
-<td>C03.044.004</td>
-<td>УЗИ шейного отдела позвоночника</td>
-<td>344,78</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1309</td>
-<td>C03.045.004</td>
-<td>УЗИ поясничного отдела позвоночника</td>
-<td>1268,81</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176368,13 +176339,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1310</td>
-<td>C03.046.004</td>
-<td>Соноэластография щитовидной железы</td>
-<td>1697,60</td>
+<td>C03.043.004</td>
+<td>УЗИ кисти</td>
+<td>1408,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176382,13 +176353,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1311</td>
-<td>C03.047.004</td>
-<td>Соноэластография молочной железы</td>
-<td>1817,78</td>
+<td>C03.044.004</td>
+<td>УЗИ шейного отдела позвоночника</td>
+<td>344,78</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176396,13 +176367,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1312</td>
-<td>C03.048.004</td>
-<td>Соноэластография печени</td>
-<td>1697,60</td>
+<td>C03.045.004</td>
+<td>УЗИ поясничного отдела позвоночника</td>
+<td>1268,81</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176410,13 +176381,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1313</td>
-<td>C03.049.004</td>
-<td>Соноэластография почек</td>
-<td>1817,78</td>
+<td>C03.046.004</td>
+<td>Соноэластография щитовидной железы</td>
+<td>1697,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176424,13 +176395,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1314</td>
-<td>C03.050.004</td>
-<td>Соноэластография женских половых органов</td>
-<td>1697,60</td>
+<td>C03.047.004</td>
+<td>Соноэластография молочной железы</td>
+<td>1817,78</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176438,13 +176409,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1315</td>
-<td>C03.051.004</td>
-<td>Соноэластография предстательной железы</td>
-<td>7194,85</td>
+<td>C03.048.004</td>
+<td>Соноэластография печени</td>
+<td>1697,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176452,13 +176423,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1316</td>
-<td>C03.052.004</td>
-<td>Соноэластография периферических лимфоузлов</td>
-<td>7194,85</td>
+<td>C03.049.004</td>
+<td>Соноэластография почек</td>
+<td>1817,78</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176466,13 +176437,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1317</td>
-<td>C03.053.004</td>
-<td>Соноэластография мягких тканей</td>
-<td>7194,85</td>
+<td>C03.050.004</td>
+<td>Соноэластография женских половых органов</td>
+<td>1697,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176480,13 +176451,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1318</td>
-<td>C03.054.004</td>
-<td>Интраоперационные ультразвуковые исследования</td>
-<td>1919,84</td>
+<td>C03.051.004</td>
+<td>Соноэластография предстательной железы</td>
+<td>7194,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176494,13 +176465,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1319</td>
-<td>C03.058.004</td>
-<td>Фибросканирование печени</td>
-<td>2065,82</td>
+<td>C03.052.004</td>
+<td>Соноэластография периферических лимфоузлов</td>
+<td>7194,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176508,27 +176479,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1320</td>
-<td>C03.000.005</td>
-<td>Рентген</td>
+<td>C03.053.004</td>
+<td>Соноэластография мягких тканей</td>
+<td>7194,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1321</td>
-<td>C03.001.005</td>
-<td>Диагностическая флюорография (1 проекция)</td>
-<td>318,73</td>
+<td>C03.054.004</td>
+<td>Интраоперационные ультразвуковые исследования</td>
+<td>1919,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176536,13 +176507,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1322</td>
-<td>C03.002.005</td>
-<td>Диагностическая флюорография (2 проекции)</td>
-<td>482,74</td>
+<td>C03.058.004</td>
+<td>Фибросканирование печени</td>
+<td>2065,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176550,27 +176521,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1323</td>
-<td>C03.004.005</td>
-<td>Рентгенография черепа (2 проекции)</td>
-<td>989,08</td>
+<td>C03.000.005</td>
+<td>Рентген</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1324</td>
-<td>C03.005.005</td>
-<td>Рентгенография черепа (1 проекция)</td>
-<td>590,60</td>
+<td>C03.001.005</td>
+<td>Диагностическая флюорография (1 проекция)</td>
+<td>318,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176578,13 +176549,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1325</td>
-<td>C03.007.005</td>
-<td>Рентгенография турецкого седла</td>
-<td>507,47</td>
+<td>C03.002.005</td>
+<td>Диагностическая флюорография (2 проекции)</td>
+<td>482,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176592,13 +176563,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1326</td>
-<td>C03.009.005</td>
-<td>Рентгенография костей носа</td>
-<td>318,88</td>
+<td>C03.004.005</td>
+<td>Рентгенография черепа (2 проекции)</td>
+<td>989,08</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176606,13 +176577,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1327</td>
-<td>C03.011.005</td>
-<td>Рентгенография сосцевидных отростков</td>
-<td>725,00</td>
+<td>C03.005.005</td>
+<td>Рентгенография черепа (1 проекция)</td>
+<td>590,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176620,13 +176591,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1328</td>
-<td>C03.012.005</td>
-<td>Рентгенография челюсти (1 проекция)</td>
-<td>355,54</td>
+<td>C03.007.005</td>
+<td>Рентгенография турецкого седла</td>
+<td>507,47</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176634,13 +176605,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1329</td>
-<td>C03.013.005</td>
-<td>Рентгенография челюсти (2 проекциии)</td>
-<td>355,54</td>
+<td>C03.009.005</td>
+<td>Рентгенография костей носа</td>
+<td>318,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176648,13 +176619,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1330</td>
-<td>C03.014.005</td>
-<td>Рентгенография зуба внутриротовая</td>
-<td>349,64</td>
+<td>C03.011.005</td>
+<td>Рентгенография сосцевидных отростков</td>
+<td>725,00</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176662,13 +176633,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1331</td>
-<td>C03.094.005</td>
-<td>Рентгенография зуба внеротовая</td>
-<td>238,67</td>
+<td>C03.012.005</td>
+<td>Рентгенография челюсти (1 проекция)</td>
+<td>355,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176676,13 +176647,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1332</td>
-<td>C03.015.005</td>
-<td>Рентгенография шейного отдела позвоночника</td>
-<td>707,31</td>
+<td>C03.013.005</td>
+<td>Рентгенография челюсти (2 проекциии)</td>
+<td>355,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176690,13 +176661,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1333</td>
-<td>C03.016.005</td>
-<td>Рентгенография шейного отдела позвоночника с функциональными пробами</td>
-<td>852,51</td>
+<td>C03.014.005</td>
+<td>Рентгенография зуба внутриротовая</td>
+<td>349,64</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176704,13 +176675,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1334</td>
-<td>C03.017.005</td>
-<td>Рентгенография грудного отдела позвоночника</td>
-<td>707,31</td>
+<td>C03.094.005</td>
+<td>Рентгенография зуба внеротовая</td>
+<td>238,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176718,13 +176689,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1335</td>
-<td>C03.018.005</td>
-<td>Рентгеноскопия органов грудной клетки</td>
-<td>526,98</td>
+<td>C03.015.005</td>
+<td>Рентгенография шейного отдела позвоночника</td>
+<td>707,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176732,13 +176703,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1336</td>
-<td>C03.019.005</td>
-<td>Рентгенография обзорная органов грудной клетки (1 проекция)</td>
-<td>574,60</td>
+<td>C03.016.005</td>
+<td>Рентгенография шейного отдела позвоночника с функциональными пробами</td>
+<td>852,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176746,13 +176717,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1337</td>
-<td>C03.020.005</td>
-<td>Рентгенография органов грудной клетки (2 проекции)</td>
+<td>C03.017.005</td>
+<td>Рентгенография грудного отдела позвоночника</td>
 <td>707,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176760,13 +176731,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1338</td>
-<td>C03.022.005</td>
-<td>Рентгенография ребер</td>
-<td>1049,97</td>
+<td>C03.018.005</td>
+<td>Рентгеноскопия органов грудной клетки</td>
+<td>526,98</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176774,13 +176745,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1339</td>
-<td>C03.023.005</td>
-<td>Рентгенография грудины</td>
-<td>615,31</td>
+<td>C03.019.005</td>
+<td>Рентгенография обзорная органов грудной клетки (1 проекция)</td>
+<td>574,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176788,13 +176759,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1340</td>
-<td>C03.024.005</td>
-<td>Рентгенография ключицы</td>
-<td>615,31</td>
+<td>C03.020.005</td>
+<td>Рентгенография органов грудной клетки (2 проекции)</td>
+<td>707,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176802,13 +176773,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1341</td>
-<td>C03.095.005</td>
-<td>Рентгенография лопатки</td>
-<td>615,31</td>
+<td>C03.022.005</td>
+<td>Рентгенография ребер</td>
+<td>1049,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176816,13 +176787,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1342</td>
-<td>C03.025.005</td>
-<td>Рентгенография сердца с контрастированием пищевода</td>
-<td>1843,97</td>
+<td>C03.023.005</td>
+<td>Рентгенография грудины</td>
+<td>615,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176830,13 +176801,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1343</td>
-<td>C03.026.005</td>
-<td>Рентгенография гортани с контрастированием</td>
-<td>3232,53</td>
+<td>C03.024.005</td>
+<td>Рентгенография ключицы</td>
+<td>615,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176844,13 +176815,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1344</td>
-<td>C03.027.005</td>
-<td>Рентгеноскопия органов брюшной полости</td>
-<td>714,46</td>
+<td>C03.095.005</td>
+<td>Рентгенография лопатки</td>
+<td>615,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176858,13 +176829,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1345</td>
-<td>C03.028.005</td>
-<td>Обзорная рентгенография органов брюшной полости</td>
-<td>714,46</td>
+<td>C03.025.005</td>
+<td>Рентгенография сердца с контрастированием пищевода</td>
+<td>1843,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176872,13 +176843,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1346</td>
-<td>C03.029.005</td>
-<td>Спленопортография</td>
-<td>75064,57</td>
+<td>C03.026.005</td>
+<td>Рентгенография гортани с контрастированием</td>
+<td>3232,53</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176886,13 +176857,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1347</td>
-<td>C03.030.005</td>
-<td>Непрямая возвратная спленография</td>
-<td>33673,06</td>
+<td>C03.027.005</td>
+<td>Рентгеноскопия органов брюшной полости</td>
+<td>714,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176900,13 +176871,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1348</td>
-<td>C03.031.005</td>
-<td>Рентгеноскопическое исследование пищевода с контрастированием</td>
-<td>7267,28</td>
+<td>C03.028.005</td>
+<td>Обзорная рентгенография органов брюшной полости</td>
+<td>714,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176914,13 +176885,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1349</td>
-<td>C03.032.005</td>
-<td>Рентгеноскопическое исследование желудка с контрастированием (двойное контрастирование)</td>
-<td>3319,45</td>
+<td>C03.029.005</td>
+<td>Спленопортография</td>
+<td>75064,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176928,13 +176899,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1350</td>
-<td>C03.033.005</td>
-<td>Дуоденография</td>
-<td>1862,43</td>
+<td>C03.030.005</td>
+<td>Непрямая возвратная спленография</td>
+<td>33673,06</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176942,13 +176913,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1351</td>
-<td>C03.034.005</td>
-<td>Ирригоскопия/ирригография (двойное контрастирование)</td>
-<td>1061,20</td>
+<td>C03.031.005</td>
+<td>Рентгеноскопическое исследование пищевода с контрастированием</td>
+<td>7267,28</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176956,13 +176927,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1352</td>
-<td>C03.035.005</td>
-<td>Дуоденография с релаксацией</td>
-<td>1679,12</td>
+<td>C03.032.005</td>
+<td>Рентгеноскопическое исследование желудка с контрастированием (двойное контрастирование)</td>
+<td>3319,45</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176970,13 +176941,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1353</td>
-<td>C03.036.005</td>
-<td>Рентгеноскопия тонкой кишки с контрастированием</td>
-<td>1006,05</td>
+<td>C03.033.005</td>
+<td>Дуоденография</td>
+<td>1862,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176984,13 +176955,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1354</td>
-<td>C03.037.005</td>
-<td>Рентгенография костей плеча</td>
-<td>818,95</td>
+<td>C03.034.005</td>
+<td>Ирригоскопия/ирригография (двойное контрастирование)</td>
+<td>1061,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -176998,13 +176969,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1355</td>
-<td>C03.096.005</td>
-<td>Рентгенография костей предплечья</td>
-<td>1059,53</td>
+<td>C03.035.005</td>
+<td>Дуоденография с релаксацией</td>
+<td>1679,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177012,13 +176983,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1356</td>
-<td>C03.038.005</td>
-<td>Рентгенография локтевого сустава</td>
-<td>818,95</td>
+<td>C03.036.005</td>
+<td>Рентгеноскопия тонкой кишки с контрастированием</td>
+<td>1006,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177026,13 +176997,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1357</td>
-<td>C03.039.005</td>
-<td>Рентгенография плечевого сустава</td>
-<td>382,46</td>
+<td>C03.037.005</td>
+<td>Рентгенография костей плеча</td>
+<td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177040,13 +177011,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1358</td>
-<td>C03.040.005</td>
-<td>Рентгенография кисти с захватом лучезапястного сустава</td>
-<td>818,95</td>
+<td>C03.096.005</td>
+<td>Рентгенография костей предплечья</td>
+<td>1059,53</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177054,13 +177025,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1359</td>
-<td>C03.097.005</td>
-<td>Рентгенография кисти</td>
+<td>C03.038.005</td>
+<td>Рентгенография локтевого сустава</td>
 <td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177068,13 +177039,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1360</td>
-<td>C03.041.005</td>
-<td>Рентгенография пояснично-крестцового отдела позвоночника</td>
-<td>1073,84</td>
+<td>C03.039.005</td>
+<td>Рентгенография плечевого сустава</td>
+<td>382,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177082,13 +177053,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1361</td>
-<td>C03.042.005</td>
-<td>Рентгенография пояснично-крестцового отдела позвоночника с функциональными пробами</td>
-<td>1450,91</td>
+<td>C03.040.005</td>
+<td>Рентгенография кисти с захватом лучезапястного сустава</td>
+<td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177096,13 +177067,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1362</td>
-<td>C03.043.005</td>
-<td>Рентгенография костей таза и тазобедренных суставов</td>
-<td>730,38</td>
+<td>C03.097.005</td>
+<td>Рентгенография кисти</td>
+<td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177110,13 +177081,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1363</td>
-<td>C03.044.005</td>
-<td>Рентгенография крестцово-подвздошных сочленений</td>
-<td>404,40</td>
+<td>C03.041.005</td>
+<td>Рентгенография пояснично-крестцового отдела позвоночника</td>
+<td>1073,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177124,13 +177095,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1364</td>
-<td>C03.098.005</td>
-<td>Рентгенография крестцово-копчикового отдела</td>
-<td>1325,26</td>
+<td>C03.042.005</td>
+<td>Рентгенография пояснично-крестцового отдела позвоночника с функциональными пробами</td>
+<td>1450,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177138,13 +177109,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1365</td>
-<td>C03.099.005</td>
-<td>Рентгенография тазобедренного сустава</td>
-<td>818,95</td>
+<td>C03.043.005</td>
+<td>Рентгенография костей таза и тазобедренных суставов</td>
+<td>730,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177152,13 +177123,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1366</td>
-<td>C03.045.005</td>
-<td>Рентгенография бедренной кости</td>
-<td>818,95</td>
+<td>C03.044.005</td>
+<td>Рентгенография крестцово-подвздошных сочленений</td>
+<td>404,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177166,13 +177137,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1367</td>
-<td>C03.100.005</td>
-<td>Рентгенография коленного сустава (1 проекция)</td>
-<td>818,95</td>
+<td>C03.098.005</td>
+<td>Рентгенография крестцово-копчикового отдела</td>
+<td>1325,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177180,13 +177151,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1368</td>
-<td>C03.101.005</td>
-<td>Рентгенография коленного сустава (2 проекции)</td>
+<td>C03.099.005</td>
+<td>Рентгенография тазобедренного сустава</td>
 <td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177194,13 +177165,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1369</td>
-<td>C03.102.005</td>
-<td>Рентгенография голеностопного сустава (1 проекция)</td>
+<td>C03.045.005</td>
+<td>Рентгенография бедренной кости</td>
 <td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177208,13 +177179,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1370</td>
-<td>C03.103.005</td>
-<td>Рентгенография голеностопного сустава (2 проекции)</td>
+<td>C03.100.005</td>
+<td>Рентгенография коленного сустава (1 проекция)</td>
 <td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177222,13 +177193,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1371</td>
-<td>C03.046.005</td>
-<td>Рентгенография костей голени</td>
+<td>C03.101.005</td>
+<td>Рентгенография коленного сустава (2 проекции)</td>
 <td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177236,13 +177207,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1372</td>
-<td>C03.048.005</td>
-<td>Рентгенография пальцев кисти/стопы</td>
-<td>557,68</td>
+<td>C03.102.005</td>
+<td>Рентгенография голеностопного сустава (1 проекция)</td>
+<td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177250,13 +177221,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1373</td>
-<td>C03.049.005</td>
-<td>Рентгенография стопы</td>
-<td>655,95</td>
+<td>C03.103.005</td>
+<td>Рентгенография голеностопного сустава (2 проекции)</td>
+<td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177264,13 +177235,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1374</td>
-<td>C03.050.005</td>
-<td>Рентгенография стоп в боковой проекции</td>
-<td>655,95</td>
+<td>C03.046.005</td>
+<td>Рентгенография костей голени</td>
+<td>818,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177278,13 +177249,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1375</td>
-<td>C03.051.005</td>
-<td>Рентгеноскопический контроль репозиции и фиксации</td>
-<td>404,40</td>
+<td>C03.048.005</td>
+<td>Рентгенография пальцев кисти/стопы</td>
+<td>557,68</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177292,13 +177263,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1376</td>
-<td>C03.052.005</td>
-<td>Ортопантомография</td>
-<td>708,19</td>
+<td>C03.049.005</td>
+<td>Рентгенография стопы</td>
+<td>655,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177306,13 +177277,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1377</td>
-<td>C03.053.005</td>
-<td>Холангиохолецистография внутривенная</td>
-<td>7882,91</td>
+<td>C03.050.005</td>
+<td>Рентгенография стоп в боковой проекции</td>
+<td>655,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177320,13 +177291,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1378</td>
-<td>C03.055.005</td>
-<td>Фистулохолангиография</td>
-<td>4054,83</td>
+<td>C03.051.005</td>
+<td>Рентгеноскопический контроль репозиции и фиксации</td>
+<td>404,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177334,13 +177305,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1379</td>
-<td>C03.056.005</td>
-<td>Обзорная урография</td>
-<td>2095,89</td>
+<td>C03.052.005</td>
+<td>Ортопантомография</td>
+<td>708,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177348,13 +177319,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1380</td>
-<td>C03.058.005</td>
-<td>Урография внутривенная</td>
-<td>7225,54</td>
+<td>C03.053.005</td>
+<td>Холангиохолецистография внутривенная</td>
+<td>7882,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177362,13 +177333,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1381</td>
-<td>C03.059.005</td>
-<td>Антеградная пиелоуретерография</td>
-<td>2719,21</td>
+<td>C03.055.005</td>
+<td>Фистулохолангиография</td>
+<td>4054,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177376,13 +177347,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1382</td>
-<td>C03.060.005</td>
-<td>Ретроградная пиелоуретерография</td>
-<td>971,07</td>
+<td>C03.056.005</td>
+<td>Обзорная урография</td>
+<td>2095,89</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177390,13 +177361,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1383</td>
-<td>C03.061.005</td>
-<td>Цистография нисходящая</td>
-<td>2070,04</td>
+<td>C03.058.005</td>
+<td>Урография внутривенная</td>
+<td>7225,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177404,13 +177375,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1384</td>
-<td>C03.062.005</td>
-<td>Цистография восходящая</td>
-<td>2070,04</td>
+<td>C03.059.005</td>
+<td>Антеградная пиелоуретерография</td>
+<td>2719,21</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177418,13 +177389,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1385</td>
-<td>C03.063.005</td>
-<td>Микционная цистоуретерография</td>
-<td>1653,34</td>
+<td>C03.060.005</td>
+<td>Ретроградная пиелоуретерография</td>
+<td>971,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177432,13 +177403,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1386</td>
-<td>C03.064.005</td>
-<td>Уретрография (нисходящая, восходящая)</td>
-<td>2253,68</td>
+<td>C03.061.005</td>
+<td>Цистография нисходящая</td>
+<td>2070,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177446,13 +177417,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1387</td>
-<td>C03.065.005</td>
-<td>Пневмоперитонеум, ретропневмоперитонеум</td>
-<td>2151,25</td>
+<td>C03.062.005</td>
+<td>Цистография восходящая</td>
+<td>2070,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177460,13 +177431,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1388</td>
-<td>C03.066.005</td>
-<td>Фистулография</td>
-<td>2051,49</td>
+<td>C03.063.005</td>
+<td>Микционная цистоуретерография</td>
+<td>1653,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177474,13 +177445,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1389</td>
-<td>C03.067.005</td>
-<td>Гистеросальпингография</td>
-<td>1621,57</td>
+<td>C03.064.005</td>
+<td>Уретрография (нисходящая, восходящая)</td>
+<td>2253,68</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177488,13 +177459,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1390</td>
-<td>C03.069.005</td>
-<td>Рентгенография пазух носа</td>
-<td>924,61</td>
+<td>C03.065.005</td>
+<td>Пневмоперитонеум, ретропневмоперитонеум</td>
+<td>2151,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177502,13 +177473,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1391</td>
-<td>C03.070.005</td>
-<td>Рентгенография височных костей (по Стенверсу, Шюллеру, Майеру)</td>
-<td>973,04</td>
+<td>C03.066.005</td>
+<td>Фистулография</td>
+<td>2051,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177516,13 +177487,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1392</td>
-<td>C03.071.005</td>
-<td>Томография гортани</td>
-<td>1517,95</td>
+<td>C03.067.005</td>
+<td>Гистеросальпингография</td>
+<td>1621,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177530,13 +177501,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1393</td>
-<td>C03.072.005</td>
-<td>Томография носоглотки, пазух носа</td>
-<td>2446,93</td>
+<td>C03.069.005</td>
+<td>Рентгенография пазух носа</td>
+<td>924,61</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177544,13 +177515,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1394</td>
-<td>C03.073.005</td>
-<td>Томография черепа</td>
-<td>2939,99</td>
+<td>C03.070.005</td>
+<td>Рентгенография височных костей (по Стенверсу, Шюллеру, Майеру)</td>
+<td>973,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177558,13 +177529,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1395</td>
-<td>C03.076.005</td>
-<td>Лимфография</td>
-<td>77434,97</td>
+<td>C03.071.005</td>
+<td>Томография гортани</td>
+<td>1517,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177572,13 +177543,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1396</td>
-<td>C03.077.005</td>
-<td>Фистулоангиография под контролем ЭОП</td>
-<td>1144,05</td>
+<td>C03.072.005</td>
+<td>Томография носоглотки, пазух носа</td>
+<td>2446,93</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177586,13 +177557,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1397</td>
-<td>C03.078.005</td>
-<td>Дакриоцистография</td>
-<td>474,35</td>
+<td>C03.073.005</td>
+<td>Томография черепа</td>
+<td>2939,99</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177600,13 +177571,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1398</td>
-<td>C03.080.005</td>
-<td>Рентгенография орбит по Резе</td>
-<td>962,36</td>
+<td>C03.076.005</td>
+<td>Лимфография</td>
+<td>77434,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177614,13 +177585,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1399</td>
-<td>C03.081.005</td>
-<td>Сиалография</td>
-<td>2158,92</td>
+<td>C03.077.005</td>
+<td>Фистулоангиография под контролем ЭОП</td>
+<td>1144,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177628,13 +177599,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1400</td>
-<td>C03.082.005</td>
-<td>Маммография (4 снимка)</td>
-<td>2331,92</td>
+<td>C03.078.005</td>
+<td>Дакриоцистография</td>
+<td>474,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177642,13 +177613,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1401</td>
-<td>C03.084.005</td>
-<td>Прицельная маммография (1 проекция)</td>
-<td>2016,42</td>
+<td>C03.080.005</td>
+<td>Рентгенография орбит по Резе</td>
+<td>962,36</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177656,13 +177627,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1402</td>
-<td>C03.085.005</td>
-<td>Дуктография (контрастирование млечных протоков)</td>
-<td>2107,53</td>
+<td>C03.081.005</td>
+<td>Сиалография</td>
+<td>2158,92</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177670,13 +177641,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1403</td>
-<td>C03.086.005</td>
-<td>Пункционная/аспирационная биопсия под стереотаксическим контролем</td>
-<td>9672,29</td>
+<td>C03.082.005</td>
+<td>Маммография (4 снимка)</td>
+<td>2331,92</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177684,13 +177655,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1404</td>
-<td>C03.087.005</td>
-<td>Продольная томография органов грудной клетки</td>
-<td>1360,85</td>
+<td>C03.084.005</td>
+<td>Прицельная маммография (1 проекция)</td>
+<td>2016,42</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177698,13 +177669,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1405</td>
-<td>C03.089.005</td>
-<td>Томография костей и суставов</td>
-<td>2807,51</td>
+<td>C03.085.005</td>
+<td>Дуктография (контрастирование млечных протоков)</td>
+<td>2107,53</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177712,13 +177683,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1406</td>
-<td>C03.090.005</td>
-<td>Томография позвоночника</td>
-<td>2795,96</td>
+<td>C03.086.005</td>
+<td>Пункционная/аспирационная биопсия под стереотаксическим контролем</td>
+<td>9672,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177726,13 +177697,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1407</td>
-<td>C03.092.005</td>
-<td>Рентгеновская денситометрия всего скелета</td>
-<td>794,60</td>
+<td>C03.087.005</td>
+<td>Продольная томография органов грудной клетки</td>
+<td>1360,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177740,13 +177711,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1408</td>
-<td>C03.104.005</td>
-<td>Рентгеновская денситометрия поясничного отдела позвоночника</td>
-<td>794,60</td>
+<td>C03.089.005</td>
+<td>Томография костей и суставов</td>
+<td>2807,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177754,13 +177725,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1409</td>
-<td>C03.105.005</td>
-<td>Рентгеновская денситометрия тазобедренных суставов</td>
-<td>794,60</td>
+<td>C03.090.005</td>
+<td>Томография позвоночника</td>
+<td>2795,96</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177768,13 +177739,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1410</td>
-<td>C03.093.005</td>
-<td>Контрастная бронхография</td>
-<td>4125,03</td>
+<td>C03.092.005</td>
+<td>Рентгеновская денситометрия всего скелета</td>
+<td>794,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -177782,69 +177753,69 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1411</td>
+<td>C03.104.005</td>
+<td>Рентгеновская денситометрия поясничного отдела позвоночника</td>
+<td>794,60</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1412</td>
+<td>C03.105.005</td>
+<td>Рентгеновская денситометрия тазобедренных суставов</td>
+<td>794,60</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1413</td>
+<td>C03.093.005</td>
+<td>Контрастная бронхография</td>
+<td>4125,03</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1414</td>
 <td>C03.000.006</td>
 <td>Компьютерная томография</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1412</td>
+<td>1415</td>
 <td>C03.001.006</td>
 <td>Компьютерная томография головного мозга</td>
 <td>4030,45</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1413</td>
-<td>C03.002.006</td>
-<td>Компьютерная томография шеи</td>
-<td>1671,46</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1414</td>
-<td>C03.003.006</td>
-<td>Компьютерная томография органов грудной клетки и средостения</td>
-<td>3119,45</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>1415</td>
-<td>C03.005.006</td>
-<td>Компьютерная томография органов брюшной полости и забрюшинного пространства</td>
-<td>3078,59</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -177852,13 +177823,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1416</td>
-<td>C03.006.006</td>
-<td>Компьютерная томография органов малого таза</td>
-<td>3078,59</td>
+<td>C03.002.006</td>
+<td>Компьютерная томография шеи</td>
+<td>1671,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -177866,13 +177837,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1417</td>
-<td>C03.007.006</td>
-<td>Компьютерная томография костно-суставной системы (1 анатомическая зона)</td>
-<td>1629,75</td>
+<td>C03.003.006</td>
+<td>Компьютерная томография органов грудной клетки и средостения</td>
+<td>3119,45</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -177880,13 +177851,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1418</td>
-<td>C03.008.006</td>
-<td>Компьютерная томография придаточных пазух носа</td>
+<td>C03.005.006</td>
+<td>Компьютерная томография органов брюшной полости и забрюшинного пространства</td>
 <td>3078,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -177894,13 +177865,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1419</td>
-<td>C03.009.006</td>
-<td>Компьютерная томография пирамид височных костей</td>
-<td>2532,59</td>
+<td>C03.006.006</td>
+<td>Компьютерная томография органов малого таза</td>
+<td>3078,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -177908,13 +177879,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1420</td>
-<td>C03.010.006</td>
-<td>Компьютерная томография прочих органов</td>
-<td>2573,45</td>
+<td>C03.007.006</td>
+<td>Компьютерная томография костно-суставной системы (1 анатомическая зона)</td>
+<td>1629,75</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -177922,13 +177893,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1421</td>
-<td>C03.011.006</td>
-<td>Компьютерная томография головного мозга с контрастированием</td>
-<td>16452,58</td>
+<td>C03.008.006</td>
+<td>Компьютерная томография придаточных пазух носа</td>
+<td>3078,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -177936,13 +177907,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1422</td>
-<td>C03.012.006</td>
-<td>Компьютерная томография шеи с контрастированием</td>
-<td>16098,58</td>
+<td>C03.009.006</td>
+<td>Компьютерная томография пирамид височных костей</td>
+<td>2532,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -177950,13 +177921,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1423</td>
-<td>C03.013.006</td>
-<td>Компьютерная томография органов грудной клетки с контрастированием</td>
-<td>16452,58</td>
+<td>C03.010.006</td>
+<td>Компьютерная томография прочих органов</td>
+<td>2573,45</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -177964,13 +177935,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1424</td>
-<td>C03.014.006</td>
-<td>Компьютерная томография сердца с контрастированием</td>
-<td>16450,26</td>
+<td>C03.011.006</td>
+<td>Компьютерная томография головного мозга с контрастированием</td>
+<td>16452,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -177978,13 +177949,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1425</td>
-<td>C03.015.006</td>
-<td>Компьютерная томография органов брюшной полости и забрюшинного пространства с контрастированием</td>
-<td>16119,64</td>
+<td>C03.012.006</td>
+<td>Компьютерная томография шеи с контрастированием</td>
+<td>16098,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -177992,13 +177963,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1426</td>
-<td>C03.016.006</td>
-<td>Компьютерная томография органов малого таза с контрастированием</td>
+<td>C03.013.006</td>
+<td>Компьютерная томография органов грудной клетки с контрастированием</td>
 <td>16452,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178006,13 +177977,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1427</td>
-<td>C03.017.006</td>
-<td>Компьютерная томография прочих органов с контрастированием</td>
-<td>9180,58</td>
+<td>C03.014.006</td>
+<td>Компьютерная томография сердца с контрастированием</td>
+<td>16450,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178020,13 +177991,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1428</td>
-<td>C03.018.006</td>
-<td>Компьютерная томография толстого кишечника (виртуальная колоноскопия)</td>
-<td>60744,55</td>
+<td>C03.015.006</td>
+<td>Компьютерная томография органов брюшной полости и забрюшинного пространства с контрастированием</td>
+<td>16119,64</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178034,27 +178005,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1429</td>
-<td>C03.000.007</td>
-<td>Магниторезонансная томография (МРТ)</td>
+<td>C03.016.006</td>
+<td>Компьютерная томография органов малого таза с контрастированием</td>
+<td>16452,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
 </tr>
 <tr>
 <td>1430</td>
-<td>C03.001.007</td>
-<td>Магниторезонансная томография головного мозга</td>
-<td>6594,59</td>
+<td>C03.017.006</td>
+<td>Компьютерная томография прочих органов с контрастированием</td>
+<td>9180,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178062,13 +178033,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1431</td>
-<td>C03.002.007</td>
-<td>Магниторезонансная томография органов грудной клетки</td>
-<td>3233,47</td>
+<td>C03.018.006</td>
+<td>Компьютерная томография толстого кишечника (виртуальная колоноскопия)</td>
+<td>60744,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178076,27 +178047,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1432</td>
-<td>C03.003.007</td>
-<td>Магниторезонансная томография органов брюшной полости и забрюшинного пространства</td>
-<td>3841,07</td>
+<td>C03.000.007</td>
+<td>Магниторезонансная томография (МРТ)</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1433</td>
-<td>C03.004.007</td>
-<td>Магниторезонансная томография органов таза</td>
-<td>3094,59</td>
+<td>C03.001.007</td>
+<td>Магниторезонансная томография головного мозга</td>
+<td>6594,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178104,13 +178075,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1434</td>
-<td>C03.005.007</td>
-<td>Магниторезонансная томография костей/суставов</td>
-<td>1646,92</td>
+<td>C03.002.007</td>
+<td>Магниторезонансная томография органов грудной клетки</td>
+<td>3233,47</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178118,13 +178089,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1435</td>
-<td>C03.006.007</td>
-<td>Магниторезонансная томография позвоночника (1 анатомическая зона)</td>
-<td>4046,45</td>
+<td>C03.003.007</td>
+<td>Магниторезонансная томография органов брюшной полости и забрюшинного пространства</td>
+<td>3841,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178132,13 +178103,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1436</td>
-<td>C03.007.007</td>
-<td>Магниторезонансная томография прочих органов</td>
-<td>3233,47</td>
+<td>C03.004.007</td>
+<td>Магниторезонансная томография органов таза</td>
+<td>3094,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178146,13 +178117,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1437</td>
-<td>C03.008.007</td>
-<td>Магниторезонансная томография головного мозга с контрастированием</td>
-<td>22764,32</td>
+<td>C03.005.007</td>
+<td>Магниторезонансная томография костей/суставов</td>
+<td>1646,92</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178160,13 +178131,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1438</td>
-<td>C03.009.007</td>
-<td>Магниторезонансная томография органов средостения с контрастированием</td>
-<td>22540,25</td>
+<td>C03.006.007</td>
+<td>Магниторезонансная томография позвоночника (1 анатомическая зона)</td>
+<td>4046,45</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178174,13 +178145,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1439</td>
-<td>C03.017.007</td>
-<td>Магниторезонансная томография сердца с контрастированием</td>
-<td>22540,25</td>
+<td>C03.007.007</td>
+<td>Магниторезонансная томография прочих органов</td>
+<td>3233,47</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178188,13 +178159,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1440</td>
-<td>C03.010.007</td>
-<td>Магниторезонансная томография органов брюшной полости и забрюшинного пространства с контрастированием</td>
+<td>C03.008.007</td>
+<td>Магниторезонансная томография головного мозга с контрастированием</td>
 <td>22764,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178202,13 +178173,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1441</td>
-<td>C03.011.007</td>
-<td>Магниторезонансная томография органов таза с контрастированием</td>
-<td>19984,14</td>
+<td>C03.009.007</td>
+<td>Магниторезонансная томография органов средостения с контрастированием</td>
+<td>22540,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178216,13 +178187,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1442</td>
-<td>C03.012.007</td>
-<td>Магниторезонансная томография костей/суставов с контрастированием</td>
-<td>22764,32</td>
+<td>C03.017.007</td>
+<td>Магниторезонансная томография сердца с контрастированием</td>
+<td>22540,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178230,13 +178201,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1443</td>
-<td>C03.013.007</td>
-<td>Магниторезонансная томография позвоночника с контрастированием (1 анатомическая зона)</td>
-<td>29528,19</td>
+<td>C03.010.007</td>
+<td>Магниторезонансная томография органов брюшной полости и забрюшинного пространства с контрастированием</td>
+<td>22764,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178244,13 +178215,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1444</td>
-<td>C03.014.007</td>
-<td>Магниторезонансная томография прочих органов с контрастированием</td>
-<td>24225,30</td>
+<td>C03.011.007</td>
+<td>Магниторезонансная томография органов таза с контрастированием</td>
+<td>19984,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178258,13 +178229,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1445</td>
-<td>C03.015.007</td>
-<td>Магниторезонансная томография головного мозга с оценкой перфузии, МРТ-трактографией</td>
-<td>23137,27</td>
+<td>C03.012.007</td>
+<td>Магниторезонансная томография костей/суставов с контрастированием</td>
+<td>22764,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178272,13 +178243,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1446</td>
-<td>C03.016.007</td>
-<td>Магниторезонансная томография молочных желез с динамическим контрастным усилением</td>
-<td>25140,31</td>
+<td>C03.013.007</td>
+<td>Магниторезонансная томография позвоночника с контрастированием (1 анатомическая зона)</td>
+<td>29528,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178286,41 +178257,41 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1447</td>
-<td>C04.000.000</td>
-<td>Радиоизотопная диагностика</td>
+<td>C03.014.007</td>
+<td>Магниторезонансная томография прочих органов с контрастированием</td>
+<td>24225,30</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
 </tr>
 <tr>
 <td>1448</td>
-<td>C04.000.008</td>
-<td>Радиометрия и радиография</td>
+<td>C03.015.007</td>
+<td>Магниторезонансная томография головного мозга с оценкой перфузии, МРТ-трактографией</td>
+<td>23137,27</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
 </tr>
 <tr>
 <td>1449</td>
-<td>C04.006.008</td>
-<td>Радиометрические исследования функции щитовидной железы</td>
-<td>1735,80</td>
+<td>C03.016.007</td>
+<td>Магниторезонансная томография молочных желез с динамическим контрастным усилением</td>
+<td>25140,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178328,13 +178299,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1450</td>
-<td>C04.000.009</td>
-<td>Однофотонная эмиссионная компьютерная томография</td>
+<td>C04.000.000</td>
+<td>Радиоизотопная диагностика</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -178342,27 +178313,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1451</td>
-<td>C04.001.009</td>
-<td>Однофотонная эмиссионная компьютерная томография статическая миокарда (3 проекции)</td>
-<td>17133,20</td>
+<td>C04.000.008</td>
+<td>Радиометрия и радиография</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1452</td>
-<td>C04.002.009</td>
-<td>Однофотонная эмиссионная компьютерная томография статическая скелета (1 проекция)</td>
-<td>5345,14</td>
+<td>C04.006.008</td>
+<td>Радиометрические исследования функции щитовидной железы</td>
+<td>1735,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178370,27 +178341,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1453</td>
-<td>C04.003.009</td>
-<td>Однофотонная эмиссионная компьютерная томография динамическая скелета (1 проекция)</td>
-<td>2965,94</td>
+<td>C04.000.009</td>
+<td>Однофотонная эмиссионная компьютерная томография</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1454</td>
-<td>C04.004.009</td>
-<td>Однофотонная эмиссионная компьютерная томография статическая скелета - каждая последующая проекция</td>
-<td>5701,27</td>
+<td>C04.001.009</td>
+<td>Однофотонная эмиссионная компьютерная томография статическая миокарда (3 проекции)</td>
+<td>17133,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178398,13 +178369,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1455</td>
-<td>C04.005.009</td>
-<td>Однофотонная эмиссионная компьютерная томография динамическая легких (4 проекции)</td>
-<td>14183,92</td>
+<td>C04.002.009</td>
+<td>Однофотонная эмиссионная компьютерная томография статическая скелета (1 проекция)</td>
+<td>5345,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178412,13 +178383,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1456</td>
-<td>C04.006.009</td>
-<td>Однофотонная эмиссионная компьютерная томография статическая щитовидной железы</td>
-<td>5348,28</td>
+<td>C04.003.009</td>
+<td>Однофотонная эмиссионная компьютерная томография динамическая скелета (1 проекция)</td>
+<td>2965,94</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178426,13 +178397,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1457</td>
-<td>C04.007.009</td>
-<td>Однофотонная эмиссионная компьютерная томография статическая паращитовидных желез</td>
-<td>5348,28</td>
+<td>C04.004.009</td>
+<td>Однофотонная эмиссионная компьютерная томография статическая скелета - каждая последующая проекция</td>
+<td>5701,27</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178440,13 +178411,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1458</td>
-<td>C04.008.009</td>
-<td>Однофотонная эмиссионная компьютерная томография статическая гепатобилиарной системы</td>
-<td>11314,57</td>
+<td>C04.005.009</td>
+<td>Однофотонная эмиссионная компьютерная томография динамическая легких (4 проекции)</td>
+<td>14183,92</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178454,13 +178425,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1459</td>
-<td>C04.009.009</td>
-<td>Однофотонная эмиссионная компьютерная томография динамическая почек</td>
-<td>13264,57</td>
+<td>C04.006.009</td>
+<td>Однофотонная эмиссионная компьютерная томография статическая щитовидной железы</td>
+<td>5348,28</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178468,13 +178439,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1460</td>
-<td>C04.010.009</td>
-<td>Однофотонная эмиссионная компьютерная томография перфузионная статическая головного мозга (3 проекции)</td>
-<td>13214,57</td>
+<td>C04.007.009</td>
+<td>Однофотонная эмиссионная компьютерная томография статическая паращитовидных желез</td>
+<td>5348,28</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178482,13 +178453,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1461</td>
-<td>C04.011.009</td>
-<td>Однофотонная эмиссионная компьютерная томография перфузионная динамическая головного мозга</td>
-<td>17012,43</td>
+<td>C04.008.009</td>
+<td>Однофотонная эмиссионная компьютерная томография статическая гепатобилиарной системы</td>
+<td>11314,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178496,13 +178467,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1462</td>
-<td>C04.012.009</td>
-<td>Однофотонная эмиссионная компьютерная томография (сцинтиграфия динамическая сердца)</td>
-<td>18822,03</td>
+<td>C04.009.009</td>
+<td>Однофотонная эмиссионная компьютерная томография динамическая почек</td>
+<td>13264,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178510,13 +178481,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1463</td>
-<td>C04.013.009</td>
-<td>Однофотонная эмиссионная компьютерная томография (сцинтиграфия динамическая гепатобилиарной системы)</td>
-<td>18313,00</td>
+<td>C04.010.009</td>
+<td>Однофотонная эмиссионная компьютерная томография перфузионная статическая головного мозга (3 проекции)</td>
+<td>13214,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178524,13 +178495,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1464</td>
-<td>C04.014.009</td>
-<td>Однофотонная эмиссионная компьютерная томография (сцинтиграфия динамическая почек)</td>
-<td>16986,32</td>
+<td>C04.011.009</td>
+<td>Однофотонная эмиссионная компьютерная томография перфузионная динамическая головного мозга</td>
+<td>17012,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178538,13 +178509,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1465</td>
-<td>C04.015.009</td>
-<td>Однофотонная эмиссионная компьютерная томография (сцинтиграфия динамическая моторно-эвакуаторной функции желудка)</td>
-<td>17169,29</td>
+<td>C04.012.009</td>
+<td>Однофотонная эмиссионная компьютерная томография (сцинтиграфия динамическая сердца)</td>
+<td>18822,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178552,27 +178523,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1466</td>
-<td>C04.000.010</td>
-<td>ПЭТ</td>
+<td>C04.013.009</td>
+<td>Однофотонная эмиссионная компьютерная томография (сцинтиграфия динамическая гепатобилиарной системы)</td>
+<td>18313,00</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
 </tr>
 <tr>
 <td>1467</td>
-<td>C04.001.010</td>
-<td>Позитронно-эмиссионная томография (ПЭТ) + компьютерная томография одной анатомической зоны</td>
-<td>169394,39</td>
+<td>C04.014.009</td>
+<td>Однофотонная эмиссионная компьютерная томография (сцинтиграфия динамическая почек)</td>
+<td>16986,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178580,13 +178551,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1468</td>
-<td>C04.002.010</td>
-<td>Позитронно-эмиссионная томография (ПЭТ) + компьютерная томография всего тела</td>
-<td>174887,31</td>
+<td>C04.015.009</td>
+<td>Однофотонная эмиссионная компьютерная томография (сцинтиграфия динамическая моторно-эвакуаторной функции желудка)</td>
+<td>17169,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178594,13 +178565,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1469</td>
-<td>C05.000.000</td>
-<td>Ангиографические услуги</td>
+<td>C04.000.010</td>
+<td>ПЭТ</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -178608,27 +178579,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1470</td>
-<td>CХХ.ХХХ.011</td>
-<td>Ангиография</td>
+<td>C04.001.010</td>
+<td>Позитронно-эмиссионная томография (ПЭТ) + компьютерная томография одной анатомической зоны</td>
+<td>169394,39</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
 </tr>
 <tr>
 <td>1471</td>
-<td>C88.482.011</td>
-<td>Ретроградная артериография конечностей</td>
-<td>44888,14</td>
+<td>C04.002.010</td>
+<td>Позитронно-эмиссионная томография (ПЭТ) + компьютерная томография всего тела</td>
+<td>174887,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178636,41 +178607,41 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1472</td>
-<td>C88.490.011</td>
-<td>Селективная артериография прочих органов</td>
-<td>74508,82</td>
+<td>C05.000.000</td>
+<td>Ангиографические услуги</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1473</td>
-<td>C88.470.011</td>
-<td>Целиакография</td>
-<td>73796,30</td>
+<td>CХХ.ХХХ.011</td>
+<td>Ангиография</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1474</td>
-<td>C88.471.011</td>
-<td>Мезентерикопортография</td>
-<td>74508,82</td>
+<td>C88.482.011</td>
+<td>Ретроградная артериография конечностей</td>
+<td>44888,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178678,13 +178649,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1475</td>
-<td>C88.472.011</td>
-<td>Гепатоартериография</td>
+<td>C88.490.011</td>
+<td>Селективная артериография прочих органов</td>
 <td>74508,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178692,13 +178663,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1476</td>
-<td>C88.660.011</td>
-<td>Периферическая флебография</td>
-<td>39307,69</td>
+<td>C88.470.011</td>
+<td>Целиакография</td>
+<td>73796,30</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178706,13 +178677,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1477</td>
-<td>C88.670.011</td>
-<td>Почечная флебография</td>
-<td>44539,95</td>
+<td>C88.471.011</td>
+<td>Мезентерикопортография</td>
+<td>74508,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178720,13 +178691,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1478</td>
-<td>C88.480.011</td>
-<td>Периферическая артериография</td>
-<td>45775,98</td>
+<td>C88.472.011</td>
+<td>Гепатоартериография</td>
+<td>74508,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178734,13 +178705,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1479</td>
-<td>C88.550.011</td>
-<td>Коронарная артериография с использованием одного катетера</td>
-<td>55357,66</td>
+<td>C88.660.011</td>
+<td>Периферическая флебография</td>
+<td>39307,69</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178748,13 +178719,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1480</td>
-<td>C88.560.011</td>
-<td>Коронарная артериография с использованием двух катетеров</td>
-<td>59736,54</td>
+<td>C88.670.011</td>
+<td>Почечная флебография</td>
+<td>44539,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178762,13 +178733,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1481</td>
-<td>C88.420.011</td>
-<td>Аортография</td>
-<td>47776,52</td>
+<td>C88.480.011</td>
+<td>Периферическая артериография</td>
+<td>45775,98</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -178776,97 +178747,97 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1482</td>
+<td>C88.550.011</td>
+<td>Коронарная артериография с использованием одного катетера</td>
+<td>55357,66</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1483</td>
+<td>C88.560.011</td>
+<td>Коронарная артериография с использованием двух катетеров</td>
+<td>59736,54</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1484</td>
+<td>C88.420.011</td>
+<td>Аортография</td>
+<td>47776,52</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td>√</td>
+</tr>
+<tr>
+<td>1485</td>
 <td>D</td>
 <td>ПРОЦЕДУРЫ И МАНИПУЛЯЦИИ</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1483</td>
+<td>1486</td>
 <td>D01.000.000</td>
 <td>Клинические процедуры и манипуляции</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1484</td>
+<td>1487</td>
 <td>DХХ.ХХХ.000</td>
 <td>Общие</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1485</td>
+<td>1488</td>
 <td>D93.950.001</td>
 <td>Гипербарическая оксигенация (ГБО), 6-10 местная барокамера</td>
 <td>3507,62</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1486</td>
-<td>D93.950.002</td>
-<td>Гипербарическая оксигенация (ГБО), одноместная барокамера</td>
-<td>3580,35</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1487</td>
-<td>D93.950.003</td>
-<td>Гипербарическая оксигенация (ГБО), барокамера передвижная</td>
-<td>2033,55</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1488</td>
-<td>D99.291.004</td>
-<td>Анестезия аппликационная</td>
-<td>141,95</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178874,13 +178845,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1489</td>
-<td>D99.292.005</td>
-<td>Анестезия проводниковая</td>
-<td>648,03</td>
+<td>D93.950.002</td>
+<td>Гипербарическая оксигенация (ГБО), одноместная барокамера</td>
+<td>3580,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178888,13 +178859,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1490</td>
-<td>D99.294.006</td>
-<td>Анестезия инфильтративная</td>
-<td>1330,50</td>
+<td>D93.950.003</td>
+<td>Гипербарическая оксигенация (ГБО), барокамера передвижная</td>
+<td>2033,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178902,13 +178873,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1491</td>
-<td>D99.295.007</td>
-<td>Наркоз внутривенный</td>
-<td>1986,58</td>
+<td>D99.291.004</td>
+<td>Анестезия аппликационная</td>
+<td>141,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178916,13 +178887,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1492</td>
-<td>D96.700.027</td>
-<td>Интубационный наркоз</td>
-<td>16072,35</td>
+<td>D99.292.005</td>
+<td>Анестезия проводниковая</td>
+<td>648,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178930,13 +178901,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1493</td>
-<td>D03.901.028</td>
-<td>Регионарная анестезия</td>
-<td>2809,89</td>
+<td>D99.294.006</td>
+<td>Анестезия инфильтративная</td>
+<td>1330,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178944,13 +178915,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1494</td>
-<td>D04.820.008</td>
-<td>Новокаиновая блокада</td>
-<td>648,03</td>
+<td>D99.295.007</td>
+<td>Наркоз внутривенный</td>
+<td>1986,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178958,13 +178929,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1495</td>
-<td>D89.370.009</td>
-<td>Пикфлоуметрия</td>
-<td>151,44</td>
+<td>D96.700.027</td>
+<td>Интубационный наркоз</td>
+<td>16072,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178972,13 +178943,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1496</td>
-<td>D89.371.010</td>
-<td>Пикфлоуметрия с физической нагрузкой</td>
-<td>189,11</td>
+<td>D03.901.028</td>
+<td>Регионарная анестезия</td>
+<td>2809,89</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -178986,13 +178957,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1497</td>
-<td>D89.372.011</td>
-<td>Пикфлоуметрия, функциональная проба с лекарствами</td>
-<td>824,11</td>
+<td>D04.820.008</td>
+<td>Новокаиновая блокада</td>
+<td>648,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179000,13 +178971,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1498</td>
-<td>D99.293.012</td>
-<td>Забор крови из вены</td>
-<td>138,91</td>
-<td>2</td>
+<td>D89.370.009</td>
+<td>Пикфлоуметрия</td>
+<td>151,44</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179014,13 +178985,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1499</td>
-<td>D99.296.013</td>
-<td>Забор крови из пальца</td>
-<td>87,97</td>
-<td>2</td>
+<td>D89.371.010</td>
+<td>Пикфлоуметрия с физической нагрузкой</td>
+<td>189,11</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179028,13 +178999,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1500</td>
-<td>D91.911.013</td>
-<td>Забор материала на микробиологические исследования</td>
-<td>146,49</td>
+<td>D89.372.011</td>
+<td>Пикфлоуметрия, функциональная проба с лекарствами</td>
+<td>824,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179042,13 +179013,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1501</td>
-<td>D96.330.014</td>
-<td>Промывание желудка</td>
-<td>238,57</td>
+<td>D99.293.012</td>
+<td>Забор крови из вены</td>
+<td>138,91</td>
+<td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179056,13 +179027,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1502</td>
-<td>D96.390.015</td>
-<td>Клизма</td>
-<td>166,35</td>
+<td>D99.296.013</td>
+<td>Забор крови из пальца</td>
+<td>87,97</td>
+<td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179070,13 +179041,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1503</td>
-<td>D45.161.016</td>
-<td>Дуоденальное зондирование</td>
-<td>1160,19</td>
+<td>D91.911.013</td>
+<td>Забор материала на микробиологические исследования</td>
+<td>146,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179084,13 +179055,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1504</td>
-<td>D45.162.017</td>
-<td>Взятие желудочного сока</td>
-<td>1013,73</td>
+<td>D96.330.014</td>
+<td>Промывание желудка</td>
+<td>238,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179098,13 +179069,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1505</td>
-<td>D93.891.018</td>
-<td>Процедуры сестринского ухода за пациентом старческого возраста</td>
-<td>185,16</td>
+<td>D96.390.015</td>
+<td>Клизма</td>
+<td>166,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179112,13 +179083,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1506</td>
-<td>D99.590.019</td>
-<td>Вакцинация без стоимости препарата</td>
-<td>123,72</td>
+<td>D45.161.016</td>
+<td>Дуоденальное зондирование</td>
+<td>1160,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179126,13 +179097,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1507</td>
-<td>D89.700.020</td>
-<td>Диагностическая пункция (поверхностная)</td>
-<td>531,38</td>
+<td>D45.162.017</td>
+<td>Взятие желудочного сока</td>
+<td>1013,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179140,55 +179111,55 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1508</td>
-<td>D93.981.022</td>
-<td>Обеспечение ламинарным фильтрованным потоком воздуха палат (онкогематология)</td>
-<td>7528,11</td>
+<td>D93.891.018</td>
+<td>Процедуры сестринского ухода за пациентом старческого возраста</td>
+<td>185,16</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2">√</td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1509</td>
-<td>D92.060.023</td>
-<td>Предлучевая топометрическая подготовка-центрация</td>
-<td>1710,25</td>
+<td>D99.590.019</td>
+<td>Вакцинация без стоимости препарата</td>
+<td>123,72</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2">√</td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1510</td>
-<td>D92.320.024</td>
-<td>Дистанционная лучевая терапия</td>
-<td>5472,12</td>
+<td>D89.700.020</td>
+<td>Диагностическая пункция (поверхностная)</td>
+<td>531,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1511</td>
-<td>D92.320.025</td>
-<td>Дистанционная лучевая терапия, РОД Гр</td>
-<td>915,96</td>
+<td>D93.981.022</td>
+<td>Обеспечение ламинарным фильтрованным потоком воздуха палат (онкогематология)</td>
+<td>7528,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -179196,13 +179167,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1512</td>
-<td>D92.231.026</td>
-<td>Конформная лучевая терапия</td>
-<td>10893,06</td>
+<td>D92.060.023</td>
+<td>Предлучевая топометрическая подготовка-центрация</td>
+<td>1710,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -179210,13 +179181,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1513</td>
-<td>D92.241.026</td>
-<td>Интенсивно-модулированная лучевая терапия опухолей различных локализаций</td>
-<td>23226,02</td>
+<td>D92.320.024</td>
+<td>Дистанционная лучевая терапия</td>
+<td>5472,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -179224,13 +179195,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1514</td>
-<td>D92.242.026</td>
-<td>Интенсивно-модулированная лучевая терапия злокачественных новообразований висцеральных органов грудной клетки, брюшной полости, малого таза и лимфом</td>
-<td>32216,83</td>
+<td>D92.320.025</td>
+<td>Дистанционная лучевая терапия, РОД Гр</td>
+<td>915,96</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -179238,13 +179209,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1515</td>
-<td>D92.244.026</td>
-<td>Лучевая терапия с модуляцией (изменением) интенсивности (флюенса) внутри пучка во время облучения рака молочной железы, органов головы и шеи</td>
-<td>16435,67</td>
+<td>D92.231.026</td>
+<td>Конформная лучевая терапия</td>
+<td>10893,06</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -179252,13 +179223,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1516</td>
-<td>D92.245.026</td>
-<td>Лучевая терапия с модулированной интенсивностью при раке женских гениталий</td>
-<td>16281,62</td>
+<td>D92.241.026</td>
+<td>Интенсивно-модулированная лучевая терапия опухолей различных локализаций</td>
+<td>23226,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -179266,13 +179237,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1517</td>
-<td>D92.246.026</td>
-<td>Лучевая терапия, управляемая по изображениям для опухолей отдельных локализаций</td>
-<td>31894,16</td>
+<td>D92.242.026</td>
+<td>Интенсивно-модулированная лучевая терапия злокачественных новообразований висцеральных органов грудной клетки, брюшной полости, малого таза и лимфом</td>
+<td>32216,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -179280,13 +179251,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1518</td>
-<td>D92.201.030</td>
-<td>Высокодозная брахитерапия рака предстательной железы</td>
-<td>282697,27</td>
+<td>D92.244.026</td>
+<td>Лучевая терапия с модуляцией (изменением) интенсивности (флюенса) внутри пучка во время облучения рака молочной железы, органов головы и шеи</td>
+<td>16435,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -179294,13 +179265,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1519</td>
-<td>D92.202.030</td>
-<td>Интерстициальная лучевая терапия (брахитерапия) локализованного рака предстательной железы</td>
-<td>1775563,35</td>
+<td>D92.245.026</td>
+<td>Лучевая терапия с модулированной интенсивностью при раке женских гениталий</td>
+<td>16281,62</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -179308,55 +179279,55 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1520</td>
-<td>D92.320.041</td>
-<td>Стереотаксическая радиотерапия при акустической невриноме (Шваннома) (1 процедура)</td>
-<td>63251,90</td>
+<td>D92.246.026</td>
+<td>Лучевая терапия, управляемая по изображениям для опухолей отдельных локализаций</td>
+<td>31894,16</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1521</td>
-<td>D92.320.042</td>
-<td>Стереотаксическая радиохирургия при акустической невриноме (Шваннома)</td>
-<td>96797,84</td>
+<td>D92.201.030</td>
+<td>Высокодозная брахитерапия рака предстательной железы</td>
+<td>282697,27</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1522</td>
-<td>D92.320.043</td>
-<td>Стереотаксическая радиотерапия при опухоли назофарингиальной зоны (1 процедура)</td>
-<td>64352,52</td>
+<td>D92.202.030</td>
+<td>Интерстициальная лучевая терапия (брахитерапия) локализованного рака предстательной железы</td>
+<td>1775563,35</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1523</td>
-<td>D92.320.044</td>
-<td>Стереотаксическая радиотерапия при опухоли или MTS головного мозга (1 процедура)</td>
-<td>63236,47</td>
+<td>D92.320.041</td>
+<td>Стереотаксическая радиотерапия при акустической невриноме (Шваннома) (1 процедура)</td>
+<td>63251,90</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179364,13 +179335,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1524</td>
-<td>D92.320.045</td>
-<td>Стереотаксическая радиохирургия при опухоли или MTS головного мозга</td>
+<td>D92.320.042</td>
+<td>Стереотаксическая радиохирургия при акустической невриноме (Шваннома)</td>
 <td>96797,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179378,13 +179349,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1525</td>
-<td>D92.320.046</td>
-<td>Стереотаксическая радиотерапия при артериовенозной мальформации (AVM) (1 процедура)</td>
-<td>72775,24</td>
+<td>D92.320.043</td>
+<td>Стереотаксическая радиотерапия при опухоли назофарингиальной зоны (1 процедура)</td>
+<td>64352,52</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179392,13 +179363,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1526</td>
-<td>D92.320.047</td>
-<td>Стереотаксическая радиохирургия при артериовенозной мальформации (AVM)</td>
-<td>96833,86</td>
+<td>D92.320.044</td>
+<td>Стереотаксическая радиотерапия при опухоли или MTS головного мозга (1 процедура)</td>
+<td>63236,47</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179406,13 +179377,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1527</td>
-<td>D92.320.048</td>
-<td>Стереотаксическая радиотерапия при раке печени или MTS в печень/ раке поджелудочной железы) (1 процедура)</td>
-<td>70258,24</td>
+<td>D92.320.045</td>
+<td>Стереотаксическая радиохирургия при опухоли или MTS головного мозга</td>
+<td>96797,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179420,13 +179391,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1528</td>
-<td>D92.320.049</td>
-<td>Стереотаксическая радиотерапия при раке лёгкого или MTS в лёгкое или метастазировании (MTS) в лимфоузлы средостения (1 процедура)</td>
-<td>70273,65</td>
+<td>D92.320.046</td>
+<td>Стереотаксическая радиотерапия при артериовенозной мальформации (AVM) (1 процедура)</td>
+<td>72775,24</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179434,13 +179405,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1529</td>
-<td>D92.062.027</td>
-<td>Изготовление индивидуальной фиксирующей маски для радиотерапии</td>
-<td>6208,73</td>
+<td>D92.320.047</td>
+<td>Стереотаксическая радиохирургия при артериовенозной мальформации (AVM)</td>
+<td>96833,86</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179448,13 +179419,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1530</td>
-<td>D92.061.028</td>
-<td>Подбор индивидуального режима радиотерапии</td>
-<td>6164,63</td>
+<td>D92.320.048</td>
+<td>Стереотаксическая радиотерапия при раке печени или MTS в печень/ раке поджелудочной железы) (1 процедура)</td>
+<td>70258,24</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179462,27 +179433,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1531</td>
-<td>D92.201.029</td>
-<td>Внутриполостная гамматерапия (при раке шейки матки и прямой кишки), РОД 5Гр</td>
-<td>6208,73</td>
+<td>D92.320.049</td>
+<td>Стереотаксическая радиотерапия при раке лёгкого или MTS в лёгкое или метастазировании (MTS) в лимфоузлы средостения (1 процедура)</td>
+<td>70273,65</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1532</td>
-<td>D92.063.030</td>
-<td>Индивидуальное дозиметрическое планирование</td>
-<td>6251,98</td>
+<td>D92.062.027</td>
+<td>Изготовление индивидуальной фиксирующей маски для радиотерапии</td>
+<td>6208,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179490,13 +179461,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1533</td>
-<td>D86.190.031</td>
-<td>Открытая биопсия образования лимфоузла</td>
-<td>1414,10</td>
+<td>D92.061.028</td>
+<td>Подбор индивидуального режима радиотерапии</td>
+<td>6164,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179504,69 +179475,69 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1534</td>
-<td>D86.410.032</td>
-<td>Хирургическое удаление патологии и/или новообразований кожи/подкожной ткани</td>
-<td>1014,87</td>
+<td>D92.201.029</td>
+<td>Внутриполостная гамматерапия (при раке шейки матки и прямой кишки), РОД 5Гр</td>
+<td>6208,73</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1535</td>
-<td>D99.711.034</td>
-<td>Экстракорпоральное удаление липидов низкой плотности</td>
-<td>324973,55</td>
+<td>D92.063.030</td>
+<td>Индивидуальное дозиметрическое планирование</td>
+<td>6251,98</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1536</td>
-<td>D50.920.035</td>
-<td>Альбуминовый диализ на аппарате искусственная печень - MARS (экстракорпоральной печеночное пособие)</td>
-<td>1490156,89</td>
+<td>D86.190.031</td>
+<td>Открытая биопсия образования лимфоузла</td>
+<td>1414,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1537</td>
-<td>D99.792.036</td>
-<td>Заготовка, культивирование и криоконсервация фетальных клеток и медиаторов - 5 доз</td>
-<td>278188,83</td>
+<td>D86.410.032</td>
+<td>Хирургическое удаление патологии и/или новообразований кожи/подкожной ткани</td>
+<td>1014,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1538</td>
-<td>D99.793.037</td>
-<td>Заготовка стволовых клеток костного мозга для аутотрансплантации (ручной способ)</td>
-<td>261216,56</td>
+<td>D99.711.034</td>
+<td>Экстракорпоральное удаление липидов низкой плотности</td>
+<td>324973,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -179574,13 +179545,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1539</td>
-<td>D99.796.038</td>
-<td>Заготовка стволовых клеток костного мозга для аутотрансплантации (автоматизированный способ)</td>
-<td>400350,90</td>
+<td>D50.920.035</td>
+<td>Альбуминовый диализ на аппарате искусственная печень - MARS (экстракорпоральной печеночное пособие)</td>
+<td>1490156,89</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -179588,13 +179559,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1540</td>
-<td>D99.974.039</td>
-<td>Заготовка стволовых клеток периферической крови для аутотрансплантации</td>
-<td>211909,18</td>
+<td>D99.792.036</td>
+<td>Заготовка, культивирование и криоконсервация фетальных клеток и медиаторов - 5 доз</td>
+<td>278188,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -179602,13 +179573,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1541</td>
-<td>D99.795.040</td>
-<td>Заготовка, культивирование и криоконсервация фетальных клеточных медиаторов - 10 доз</td>
-<td>188644,31</td>
+<td>D99.793.037</td>
+<td>Заготовка стволовых клеток костного мозга для аутотрансплантации (ручной способ)</td>
+<td>261216,56</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -179616,27 +179587,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1542</td>
-<td>D88.790.001</td>
-<td>Пункционная/аспирационная биопсия под УЗИ контролем</td>
-<td>8974,50</td>
+<td>D99.796.038</td>
+<td>Заготовка стволовых клеток костного мозга для аутотрансплантации (автоматизированный способ)</td>
+<td>400350,90</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1543</td>
-<td>D92.090.001</td>
-<td>Пункционная/аспирационная биопсия под КТ контролем</td>
-<td>9747,70</td>
+<td>D99.974.039</td>
+<td>Заготовка стволовых клеток периферической крови для аутотрансплантации</td>
+<td>211909,18</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -179644,69 +179615,69 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1544</td>
-<td>D92.090.003</td>
-<td>Тонкоигольная аспирационная биопсия</td>
-<td>8526,23</td>
+<td>D99.795.040</td>
+<td>Заготовка, культивирование и криоконсервация фетальных клеточных медиаторов - 10 доз</td>
+<td>188644,31</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1545</td>
-<td>D92.090.002</td>
-<td>Лечебная пункция под КТ контролем</td>
-<td>9666,51</td>
+<td>D88.790.001</td>
+<td>Пункционная/аспирационная биопсия под УЗИ контролем</td>
+<td>8974,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1546</td>
-<td>D97.311.050</td>
-<td>Снятие швов, удаление лигатур</td>
-<td>354,34</td>
-<td>2</td>
+<td>D92.090.001</td>
+<td>Пункционная/аспирационная биопсия под КТ контролем</td>
+<td>9747,70</td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1547</td>
-<td>D93.980.051</td>
-<td>Применение монооксида азота в лечении легочной гипертензии (без учета стоимости газовой смеси)</td>
-<td>172600,34</td>
+<td>D92.090.003</td>
+<td>Тонкоигольная аспирационная биопсия</td>
+<td>8526,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1548</td>
-<td>D99.712.052</td>
-<td>Экстракорпоральный метод лечения Грамм - негативного сепсиса</td>
-<td>825232,67</td>
+<td>D92.090.002</td>
+<td>Лечебная пункция под КТ контролем</td>
+<td>9666,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -179714,83 +179685,83 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1549</td>
-<td>D00.931.053</td>
-<td>Подготовка кадавра к мультиорганному забору органов и/или тканей</td>
-<td>102787,13</td>
+<td>D97.311.050</td>
+<td>Снятие швов, удаление лигатур</td>
+<td>354,34</td>
+<td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2">√</td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1550</td>
-<td>DХХ.ХХХ.100</td>
-<td>Процедуры и манипуляции гинеколога</td>
+<td>D93.980.051</td>
+<td>Применение монооксида азота в лечении легочной гипертензии (без учета стоимости газовой смеси)</td>
+<td>172600,34</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1551</td>
-<td>D69.700.101</td>
-<td>Введение внутриматочного противозачаточного устройства</td>
-<td>594,93</td>
+<td>D99.712.052</td>
+<td>Экстракорпоральный метод лечения Грамм - негативного сепсиса</td>
+<td>825232,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
+<td colspan="2"></td>
+<td></td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1552</td>
-<td>D70.331.103</td>
-<td>Удаление кисты влагалища</td>
-<td>1580,92</td>
+<td>D00.931.053</td>
+<td>Подготовка кадавра к мультиорганному забору органов и/или тканей</td>
+<td>102787,13</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1553</td>
-<td>D91.496.105</td>
-<td>Забор мазка на онкоцитологию</td>
-<td>124,21</td>
+<td>DХХ.ХХХ.100</td>
+<td>Процедуры и манипуляции гинеколога</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1554</td>
-<td>D66.810.106</td>
-<td>Эхогидротубация</td>
-<td>1802,20</td>
+<td>D69.700.101</td>
+<td>Введение внутриматочного противозачаточного устройства</td>
+<td>594,93</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179798,13 +179769,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1555</td>
-<td>D91.494.107</td>
-<td>Проба Шуварского-Миллера</td>
-<td>512,69</td>
+<td>D70.331.103</td>
+<td>Удаление кисты влагалища</td>
+<td>1580,92</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179812,13 +179783,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1556</td>
-<td>D62.111.108</td>
-<td>Трансабдоминальная пункция яичника</td>
-<td>12286,84</td>
+<td>D91.496.105</td>
+<td>Забор мазка на онкоцитологию</td>
+<td>124,21</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179826,13 +179797,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1557</td>
-<td>D62.112.109</td>
-<td>Трансвагинальная пункция яичника</td>
-<td>17957,12</td>
+<td>D66.810.106</td>
+<td>Эхогидротубация</td>
+<td>1802,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179840,13 +179811,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1558</td>
-<td>D99.961.110</td>
-<td>Поиск ооцит-кумулюсных комплексов</td>
-<td>75057,60</td>
+<td>D91.494.107</td>
+<td>Проба Шуварского-Миллера</td>
+<td>512,69</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179854,13 +179825,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1559</td>
-<td>D99.962.111</td>
-<td>Обработка спермы: метод центрифугирование-флотация</td>
-<td>74821,91</td>
+<td>D62.111.108</td>
+<td>Трансабдоминальная пункция яичника</td>
+<td>12286,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179868,13 +179839,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1560</td>
-<td>D99.963.112</td>
-<td>Обработка спермы: метод центрифугирования в градиенте плотности</td>
-<td>76207,94</td>
+<td>D62.112.109</td>
+<td>Трансвагинальная пункция яичника</td>
+<td>17957,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179882,13 +179853,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1561</td>
-<td>D69.921.113</td>
-<td>Экстракорпоральное оплодотворение: классический метод IVF</td>
-<td>4639,50</td>
+<td>D99.961.110</td>
+<td>Поиск ооцит-кумулюсных комплексов</td>
+<td>75057,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179896,13 +179867,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1562</td>
-<td>D69.922.114</td>
-<td>Экстракорпоральное оплодотворение: инъекция сперматозоида в цитоплазму ооцита ICSI</td>
-<td>161096,42</td>
+<td>D99.962.111</td>
+<td>Обработка спермы: метод центрифугирование-флотация</td>
+<td>74821,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179910,13 +179881,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1563</td>
-<td>D69.923.115</td>
-<td>Культивирование эмбрионов</td>
-<td>91058,07</td>
+<td>D99.963.112</td>
+<td>Обработка спермы: метод центрифугирования в градиенте плотности</td>
+<td>76207,94</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179924,13 +179895,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1564</td>
-<td>D69.924.116</td>
-<td>Внутриматочное введение эмбриона</td>
-<td>103102,67</td>
+<td>D69.921.113</td>
+<td>Экстракорпоральное оплодотворение: классический метод IVF</td>
+<td>4639,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179938,13 +179909,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1565</td>
-<td>D69.925.132</td>
-<td>Индукция суперовуляции</td>
-<td>232152,83</td>
+<td>D69.922.114</td>
+<td>Экстракорпоральное оплодотворение: инъекция сперматозоида в цитоплазму ооцита ICSI</td>
+<td>161096,42</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179952,13 +179923,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1566</td>
-<td>D68.120.131</td>
-<td>Гистероскопия</td>
-<td>2245,87</td>
+<td>D69.923.115</td>
+<td>Культивирование эмбрионов</td>
+<td>91058,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179966,13 +179937,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1567</td>
-<td>D70.210.117</td>
-<td>Кольпоскопия</td>
-<td>667,80</td>
+<td>D69.924.116</td>
+<td>Внутриматочное введение эмбриона</td>
+<td>103102,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179980,13 +179951,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1568</td>
-<td>D99.961.118</td>
-<td>Инсеминация донорской спермы</td>
-<td>837,73</td>
+<td>D69.925.132</td>
+<td>Индукция суперовуляции</td>
+<td>232152,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -179994,13 +179965,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1569</td>
-<td>D68.230.120</td>
-<td>Абляция эндометрия</td>
-<td>3930,24</td>
+<td>D68.120.131</td>
+<td>Гистероскопия</td>
+<td>2245,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180008,13 +179979,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1570</td>
-<td>D71.310.122</td>
-<td>Удаление новообразований наружных половых органов и/или промежности</td>
-<td>1111,84</td>
+<td>D70.210.117</td>
+<td>Кольпоскопия</td>
+<td>667,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180022,13 +179993,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1571</td>
-<td>D68.211.123</td>
-<td>Разъединение синехий (зондом)</td>
-<td>922,71</td>
+<td>D99.961.118</td>
+<td>Инсеминация донорской спермы</td>
+<td>837,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180036,13 +180007,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1572</td>
-<td>D71.250.124</td>
-<td>Вскрытие абсцесса бартолиниевой железы</td>
-<td>1138,51</td>
+<td>D68.230.120</td>
+<td>Абляция эндометрия</td>
+<td>3930,24</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180050,13 +180021,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1573</td>
-<td>D67.320.125</td>
-<td>Коагуляция эрозии шейки матки</td>
-<td>768,87</td>
+<td>D71.310.122</td>
+<td>Удаление новообразований наружных половых органов и/или промежности</td>
+<td>1111,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180064,13 +180035,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1574</td>
-<td>D67.110.126</td>
-<td>Биопсия шейки матки</td>
-<td>749,02</td>
+<td>D68.211.123</td>
+<td>Разъединение синехий (зондом)</td>
+<td>922,71</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180078,13 +180049,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1575</td>
-<td>D67.120.127</td>
-<td>Удаление полипа цервикального канала</td>
-<td>1092,93</td>
+<td>D71.250.124</td>
+<td>Вскрытие абсцесса бартолиниевой железы</td>
+<td>1138,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180092,13 +180063,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1576</td>
-<td>D97.710.128</td>
-<td>Извлечение внутриматочного контрацептива (крючком/кюреткой)</td>
-<td>561,70</td>
+<td>D67.320.125</td>
+<td>Коагуляция эрозии шейки матки</td>
+<td>768,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180106,13 +180077,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1577</td>
-<td>D69.090.129</td>
-<td>Диагностическое выскабливание полости матки</td>
-<td>1705,29</td>
+<td>D67.110.126</td>
+<td>Биопсия шейки матки</td>
+<td>749,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180120,13 +180091,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1578</td>
-<td>D69.590.130</td>
-<td>Аспирационный кюретаж полости матки</td>
+<td>D67.120.127</td>
+<td>Удаление полипа цервикального канала</td>
 <td>1092,93</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180134,27 +180105,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1579</td>
-<td>DХХ.ХХХ.200</td>
-<td>Процедуры и манипуляции ЛОР</td>
+<td>D97.710.128</td>
+<td>Извлечение внутриматочного контрацептива (крючком/кюреткой)</td>
+<td>561,70</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1580</td>
-<td>D22.010.201</td>
-<td>Пункция пазухи носа для аспирации или лаважа</td>
-<td>1101,22</td>
+<td>D69.090.129</td>
+<td>Диагностическое выскабливание полости матки</td>
+<td>1705,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180162,13 +180133,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1581</td>
-<td>D22.020.202</td>
-<td>Аспирация или лаваж пазухи носа через естественное отверстие</td>
-<td>418,96</td>
+<td>D69.590.130</td>
+<td>Аспирационный кюретаж полости матки</td>
+<td>1092,93</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180176,27 +180147,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1582</td>
-<td>D20.800.203</td>
-<td>Манипуляции на евстахиевой трубе</td>
-<td>769,03</td>
+<td>DХХ.ХХХ.200</td>
+<td>Процедуры и манипуляции ЛОР</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1583</td>
-<td>D98.120.204</td>
-<td>Удаление внутрипросветного инородного тела из носа, без рассечения</td>
-<td>433,18</td>
+<td>D22.010.201</td>
+<td>Пункция пазухи носа для аспирации или лаважа</td>
+<td>1101,22</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180204,13 +180175,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1584</td>
-<td>D98.130.205</td>
-<td>Удаление внутрипросветного инородного тела из глотки, без рассечения</td>
-<td>311,57</td>
+<td>D22.020.202</td>
+<td>Аспирация или лаваж пазухи носа через естественное отверстие</td>
+<td>418,96</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180218,13 +180189,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1585</td>
-<td>D21.010.206</td>
-<td>Передняя тампонада носа</td>
-<td>437,68</td>
+<td>D20.800.203</td>
+<td>Манипуляции на евстахиевой трубе</td>
+<td>769,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180232,13 +180203,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1586</td>
-<td>D21.020.207</td>
-<td>Задняя тампонада носа</td>
-<td>498,85</td>
+<td>D98.120.204</td>
+<td>Удаление внутрипросветного инородного тела из носа, без рассечения</td>
+<td>433,18</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180246,13 +180217,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1587</td>
-<td>D28.000.208</td>
-<td>Вскрытие и дренирование паратонзиллярного пространства</td>
-<td>747,41</td>
+<td>D98.130.205</td>
+<td>Удаление внутрипросветного инородного тела из глотки, без рассечения</td>
+<td>311,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180260,13 +180231,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1588</td>
-<td>D21.091.210</td>
-<td>Коагуляция кровоточащего участка в полости носа (диатермическая и лазерная)</td>
-<td>1026,20</td>
+<td>D21.010.206</td>
+<td>Передняя тампонада носа</td>
+<td>437,68</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180274,13 +180245,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1589</td>
-<td>D21.321.211</td>
-<td>Анемизация слизистой ЛОР органов</td>
-<td>489,97</td>
+<td>D21.020.207</td>
+<td>Задняя тампонада носа</td>
+<td>498,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180288,13 +180259,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1590</td>
-<td>D20.091.212</td>
-<td>Удаление грануляции и полипов (ЛОР)</td>
-<td>1043,11</td>
+<td>D28.000.208</td>
+<td>Вскрытие и дренирование паратонзиллярного пространства</td>
+<td>747,41</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180302,13 +180273,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1591</td>
-<td>D95.410.213</td>
-<td>Аудиометрия игровая</td>
-<td>589,10</td>
+<td>D21.091.210</td>
+<td>Коагуляция кровоточащего участка в полости носа (диатермическая и лазерная)</td>
+<td>1026,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180316,13 +180287,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1592</td>
-<td>D95.431.214</td>
-<td>Пневмомасаж барабанной перепонки</td>
-<td>555,34</td>
+<td>D21.321.211</td>
+<td>Анемизация слизистой ЛОР органов</td>
+<td>489,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180330,13 +180301,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1593</td>
-<td>D21.330.215</td>
-<td>Конхотомия</td>
-<td>1019,19</td>
+<td>D20.091.212</td>
+<td>Удаление грануляции и полипов (ЛОР)</td>
+<td>1043,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180344,13 +180315,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1594</td>
-<td>D20.940.216</td>
-<td>Промывание барабанной полости</td>
-<td>340,83</td>
+<td>D95.410.213</td>
+<td>Аудиометрия игровая</td>
+<td>589,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180358,13 +180329,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1595</td>
-<td>D20.090.217</td>
-<td>Парацентез барабанной перепонки</td>
-<td>794,11</td>
+<td>D95.431.214</td>
+<td>Пневмомасаж барабанной перепонки</td>
+<td>555,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180372,13 +180343,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1596</td>
-<td>D86.229.218</td>
-<td>Вскрытие абсцесса/фурункула (ЛОР)</td>
-<td>844,61</td>
+<td>D21.330.215</td>
+<td>Конхотомия</td>
+<td>1019,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180386,13 +180357,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1597</td>
-<td>D86.011.219</td>
-<td>Вскрытие гематомы (ЛОР)</td>
-<td>941,86</td>
+<td>D20.940.216</td>
+<td>Промывание барабанной полости</td>
+<td>340,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180400,13 +180371,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1598</td>
-<td>D95.410.220</td>
-<td>Импедансометрия</td>
-<td>609,49</td>
+<td>D20.090.217</td>
+<td>Парацентез барабанной перепонки</td>
+<td>794,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180414,13 +180385,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1599</td>
-<td>D95.480.221</td>
-<td>Настройка сурдологом речевого процессора системы кохлярного имплантации</td>
-<td>376,88</td>
+<td>D86.229.218</td>
+<td>Вскрытие абсцесса/фурункула (ЛОР)</td>
+<td>844,61</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180428,13 +180399,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1600</td>
-<td>D95.470.222</td>
-<td>Регистрация коротколатентных слуховых вызванных потенциалов</td>
-<td>993,25</td>
+<td>D86.011.219</td>
+<td>Вскрытие гематомы (ЛОР)</td>
+<td>941,86</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180442,13 +180413,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1601</td>
-<td>D95.470.223</td>
-<td>Регистрация задержанной вызванной отоакустической эмиссии</td>
-<td>147,63</td>
+<td>D95.410.220</td>
+<td>Импедансометрия</td>
+<td>609,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180456,13 +180427,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1602</td>
-<td>D95.410.224</td>
-<td>Речевая аудиометрия</td>
-<td>883,65</td>
+<td>D95.480.221</td>
+<td>Настройка сурдологом речевого процессора системы кохлярного имплантации</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180470,13 +180441,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1603</td>
-<td>D31.010.225</td>
-<td>Внутригортанные вливания</td>
-<td>141,01</td>
+<td>D95.470.222</td>
+<td>Регистрация коротколатентных слуховых вызванных потенциалов</td>
+<td>993,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180484,13 +180455,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1604</td>
-<td>D02.071.226</td>
-<td>Занятие с логопедом</td>
-<td>376,88</td>
+<td>D95.470.223</td>
+<td>Регистрация задержанной вызванной отоакустической эмиссии</td>
+<td>147,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180498,13 +180469,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1605</td>
-<td>D02.071.227</td>
-<td>Занятие с сурдопедагогом</td>
-<td>376,88</td>
+<td>D95.410.224</td>
+<td>Речевая аудиометрия</td>
+<td>883,65</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180512,13 +180483,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1606</td>
-<td>D02.071.228</td>
-<td>Занятие с фонопедагогом</td>
-<td>376,88</td>
+<td>D31.010.225</td>
+<td>Внутригортанные вливания</td>
+<td>141,01</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180526,13 +180497,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1607</td>
-<td>D95.410.225</td>
-<td>Тональная пороговая аудиометрия</td>
-<td>441,82</td>
+<td>D02.071.226</td>
+<td>Занятие с логопедом</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180540,13 +180511,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1608</td>
-<td>D95.410.226</td>
-<td>Аудиометрия в свободном звуковом поле</td>
-<td>883,65</td>
+<td>D02.071.227</td>
+<td>Занятие с сурдопедагогом</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180554,13 +180525,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1609</td>
-<td>D95.470.224</td>
-<td>Регистрация стационарных слуховых вызванных потенциалов на модулированный тон</td>
-<td>993,25</td>
+<td>D02.071.228</td>
+<td>Занятие с фонопедагогом</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180568,13 +180539,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1610</td>
-<td>D95.470.225</td>
-<td>Регистрация отоакустической эмиссии на частоте продукта искажения</td>
-<td>524,50</td>
+<td>D95.410.225</td>
+<td>Тональная пороговая аудиометрия</td>
+<td>441,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180582,13 +180553,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1611</td>
-<td>D95.470.226</td>
-<td>Тимпанометрия</td>
-<td>418,88</td>
+<td>D95.410.226</td>
+<td>Аудиометрия в свободном звуковом поле</td>
+<td>883,65</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180596,13 +180567,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1612</td>
-<td>D95.470.227</td>
-<td>Регистрация акустического рефлекса</td>
-<td>418,88</td>
+<td>D95.470.224</td>
+<td>Регистрация стационарных слуховых вызванных потенциалов на модулированный тон</td>
+<td>993,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180610,13 +180581,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1613</td>
-<td>D95.470.228</td>
-<td>Тест распада акустического рефлекса</td>
-<td>293,25</td>
+<td>D95.470.225</td>
+<td>Регистрация отоакустической эмиссии на частоте продукта искажения</td>
+<td>524,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180624,13 +180595,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1614</td>
-<td>D95.470.229</td>
-<td>Тест функции слуховой трубы</td>
-<td>293,25</td>
+<td>D95.470.226</td>
+<td>Тимпанометрия</td>
+<td>418,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180638,13 +180609,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1615</td>
-<td>D95.470.230</td>
-<td>Промонториальное тестирование</td>
-<td>524,50</td>
+<td>D95.470.227</td>
+<td>Регистрация акустического рефлекса</td>
+<td>418,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180652,13 +180623,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1616</td>
-<td>D95.470.231</td>
-<td>Телеметрия нервного ответа слухового нерва</td>
-<td>376,88</td>
+<td>D95.470.228</td>
+<td>Тест распада акустического рефлекса</td>
+<td>293,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180666,13 +180637,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1617</td>
-<td>D95.470.232</td>
-<td>Телеметрия импеданса электродов слухового импланта</td>
-<td>125,63</td>
+<td>D95.470.229</td>
+<td>Тест функции слуховой трубы</td>
+<td>293,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180680,13 +180651,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1618</td>
-<td>D95.470.233</td>
-<td>Сурдопедагогическое обследование состояния слуха пациента</td>
-<td>502,50</td>
+<td>D95.470.230</td>
+<td>Промонториальное тестирование</td>
+<td>524,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180694,13 +180665,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1619</td>
-<td>D95.470.234</td>
-<td>Обследование сурдопедагогом настройки слуховых аппаратов</td>
-<td>502,50</td>
+<td>D95.470.231</td>
+<td>Телеметрия нервного ответа слухового нерва</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180708,13 +180679,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1620</td>
-<td>D95.470.235</td>
-<td>Обследование сурдопедагогом настройки речевого процессора системы кохлеарной имплантации</td>
-<td>502,50</td>
+<td>D95.470.232</td>
+<td>Телеметрия импеданса электродов слухового импланта</td>
+<td>125,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180722,13 +180693,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1621</td>
-<td>D95.470.236</td>
-<td>Обследование сурдопедагогом настройки аудипроцессора системы имплантации среднего уха</td>
+<td>D95.470.233</td>
+<td>Сурдопедагогическое обследование состояния слуха пациента</td>
 <td>502,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180736,13 +180707,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1622</td>
-<td>D95.470.237</td>
-<td>Обследование сурдопедагогом настройки аудипроцессора системы имплантации костной проводимости</td>
+<td>D95.470.234</td>
+<td>Обследование сурдопедагогом настройки слуховых аппаратов</td>
 <td>502,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180750,13 +180721,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1623</td>
-<td>D95.480.222</td>
-<td>Настройка сурдологом аудипроцессора системы имплантации среднего уха</td>
-<td>376,88</td>
+<td>D95.470.235</td>
+<td>Обследование сурдопедагогом настройки речевого процессора системы кохлеарной имплантации</td>
+<td>502,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180764,13 +180735,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1624</td>
-<td>D95.480.223</td>
-<td>Настройка сурдологом аудипроцессора системы имплантации костной проводимости</td>
-<td>376,88</td>
+<td>D95.470.236</td>
+<td>Обследование сурдопедагогом настройки аудипроцессора системы имплантации среднего уха</td>
+<td>502,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180778,27 +180749,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1625</td>
-<td>DХХ.ХХХ.300</td>
-<td>Процедуры и манипуляции офтальмолога</td>
+<td>D95.470.237</td>
+<td>Обследование сурдопедагогом настройки аудипроцессора системы имплантации костной проводимости</td>
+<td>502,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1626</td>
-<td>D12.230.301</td>
-<td>Гониоскопия (1 глаз)</td>
-<td>669,46</td>
+<td>D95.480.222</td>
+<td>Настройка сурдологом аудипроцессора системы имплантации среднего уха</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180806,13 +180777,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1627</td>
-<td>D16.210.302</td>
-<td>Офтальмоскопия (1 глаз)</td>
-<td>266,56</td>
+<td>D95.480.223</td>
+<td>Настройка сурдологом аудипроцессора системы имплантации костной проводимости</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180820,27 +180791,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1628</td>
-<td>D95.021.303</td>
-<td>Определение объективного и субъективного угла косоглазия (2 глаза)</td>
-<td>287,14</td>
+<td>DХХ.ХХХ.300</td>
+<td>Процедуры и манипуляции офтальмолога</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1629</td>
-<td>D95.022.304</td>
-<td>Определение фузионных резервов (2 глаза)</td>
-<td>272,13</td>
+<td>D12.230.301</td>
+<td>Гониоскопия (1 глаз)</td>
+<td>669,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180848,13 +180819,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1630</td>
-<td>D95.023.305</td>
-<td>Определение характера зрения (гетерофория) (2глаза)</td>
-<td>227,72</td>
+<td>D16.210.302</td>
+<td>Офтальмоскопия (1 глаз)</td>
+<td>266,56</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180862,13 +180833,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1631</td>
-<td>D95.024.306</td>
-<td>Определение угла девиации по Гиршбергу (1 глаз)</td>
-<td>446,33</td>
+<td>D95.021.303</td>
+<td>Определение объективного и субъективного угла косоглазия (2 глаза)</td>
+<td>287,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180876,13 +180847,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1632</td>
-<td>D95.220.307</td>
-<td>Электроокулография (1 глаз)</td>
-<td>433,49</td>
+<td>D95.022.304</td>
+<td>Определение фузионных резервов (2 глаза)</td>
+<td>272,13</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180890,13 +180861,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1633</td>
-<td>D95.020.308</td>
-<td>Биомикроскопия глаза (1 глаз)</td>
-<td>428,36</td>
+<td>D95.023.305</td>
+<td>Определение характера зрения (гетерофория) (2глаза)</td>
+<td>227,72</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180904,13 +180875,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1634</td>
-<td>D95.050.309</td>
-<td>Периметрия (1 глаз)</td>
-<td>300,04</td>
+<td>D95.024.306</td>
+<td>Определение угла девиации по Гиршбергу (1 глаз)</td>
+<td>446,33</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180918,13 +180889,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1635</td>
-<td>D12.240.310</td>
-<td>Скиаскопия (1 глаз)</td>
-<td>237,77</td>
+<td>D95.220.307</td>
+<td>Электроокулография (1 глаз)</td>
+<td>433,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180932,13 +180903,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1636</td>
-<td>D96.512.311</td>
-<td>Массаж слезного мешка/век (1 глаз)</td>
-<td>353,80</td>
+<td>D95.020.308</td>
+<td>Биомикроскопия глаза (1 глаз)</td>
+<td>428,36</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180946,13 +180917,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1637</td>
-<td>D96.511.312</td>
-<td>Промывание слезных путей (1 глаз)</td>
-<td>441,82</td>
+<td>D95.050.309</td>
+<td>Периметрия (1 глаз)</td>
+<td>300,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180960,13 +180931,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1638</td>
-<td>D97.311.314</td>
-<td>Снятие швов (окулист) (1 глаз)</td>
-<td>196,50</td>
+<td>D12.240.310</td>
+<td>Скиаскопия (1 глаз)</td>
+<td>237,77</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180974,13 +180945,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1639</td>
-<td>D95.210.315</td>
-<td>Электроретинография (1 глаз)</td>
-<td>579,87</td>
+<td>D96.512.311</td>
+<td>Массаж слезного мешка/век (1 глаз)</td>
+<td>353,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -180988,13 +180959,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1640</td>
-<td>D95.031.316</td>
-<td>Определение дефектов поверхности роговицы (1 глаз)</td>
-<td>485,32</td>
+<td>D96.511.312</td>
+<td>Промывание слезных путей (1 глаз)</td>
+<td>441,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181002,13 +180973,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1641</td>
-<td>D95.028.317</td>
-<td>Расчет размера интраокулярной линзы (ИОЛ) (1 глаз)</td>
-<td>642,27</td>
+<td>D97.311.314</td>
+<td>Снятие швов (окулист) (1 глаз)</td>
+<td>196,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181016,13 +180987,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1642</td>
-<td>D95.280.318</td>
-<td>Исследование критической частоты слияния мельканий (1 глаз)</td>
-<td>456,78</td>
+<td>D95.210.315</td>
+<td>Электроретинография (1 глаз)</td>
+<td>579,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181030,13 +181001,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1643</td>
-<td>D95.270.319</td>
-<td>Тест Ширмера (1 глаз)</td>
-<td>371,64</td>
+<td>D95.031.316</td>
+<td>Определение дефектов поверхности роговицы (1 глаз)</td>
+<td>485,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181044,13 +181015,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1644</td>
-<td>D95.251.320</td>
-<td>Регистрация вызванных зрительных потенциалов (1 глаз)</td>
-<td>1170,76</td>
+<td>D95.028.317</td>
+<td>Расчет размера интраокулярной линзы (ИОЛ) (1 глаз)</td>
+<td>642,27</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181058,13 +181029,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1645</td>
-<td>D95.025.321</td>
-<td>Измерение диаметра роговицы (1 глаз)</td>
-<td>256,82</td>
+<td>D95.280.318</td>
+<td>Исследование критической частоты слияния мельканий (1 глаз)</td>
+<td>456,78</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181072,13 +181043,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1646</td>
-<td>D95.026.322</td>
-<td>Коордиметрия (2 глаза)</td>
-<td>530,89</td>
+<td>D95.270.319</td>
+<td>Тест Ширмера (1 глаз)</td>
+<td>371,64</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181086,13 +181057,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1647</td>
-<td>D16.211.323</td>
-<td>Циклоскопия (1 глаз)</td>
-<td>580,87</td>
+<td>D95.251.320</td>
+<td>Регистрация вызванных зрительных потенциалов (1 глаз)</td>
+<td>1170,76</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181100,13 +181071,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1648</td>
-<td>D95.027.324</td>
-<td>Авторефрактометрия (1 глаз)</td>
-<td>182,00</td>
+<td>D95.025.321</td>
+<td>Измерение диаметра роговицы (1 глаз)</td>
+<td>256,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181114,13 +181085,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1649</td>
-<td>D12.871.325</td>
-<td>Изготовление имплантата из твердой мозговой оболочки для склеропластики (1 глаз)</td>
-<td>1155,05</td>
+<td>D95.026.322</td>
+<td>Коордиметрия (2 глаза)</td>
+<td>530,89</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181128,13 +181099,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1650</td>
-<td>D95.131.326</td>
-<td>Кератометрия (1 глаз)</td>
-<td>548,10</td>
+<td>D16.211.323</td>
+<td>Циклоскопия (1 глаз)</td>
+<td>580,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181142,13 +181113,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1651</td>
-<td>D95.132.326</td>
-<td>Пахиметрия (1 глаз)</td>
-<td>830,46</td>
+<td>D95.027.324</td>
+<td>Авторефрактометрия (1 глаз)</td>
+<td>182,00</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181156,13 +181127,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1652</td>
-<td>D95.170.327</td>
-<td>Кератотопография (1 глаз)</td>
-<td>778,01</td>
+<td>D12.871.325</td>
+<td>Изготовление имплантата из твердой мозговой оболочки для склеропластики (1 глаз)</td>
+<td>1155,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181170,13 +181141,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1653</td>
-<td>D16.410.328</td>
-<td>Изготовление глазного протеза (стекло) (1 глаз)</td>
-<td>10921,36</td>
+<td>D95.131.326</td>
+<td>Кератометрия (1 глаз)</td>
+<td>548,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181184,13 +181155,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1654</td>
-<td>D95.010.329</td>
-<td>Подбор очков: сложная коррекция (2 глаза)</td>
-<td>510,10</td>
+<td>D95.132.326</td>
+<td>Пахиметрия (1 глаз)</td>
+<td>830,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181198,13 +181169,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1655</td>
-<td>D95.029.330</td>
-<td>Ультразвуковая биомикроскопия (UBM) (1 глаз)</td>
-<td>824,99</td>
+<td>D95.170.327</td>
+<td>Кератотопография (1 глаз)</td>
+<td>778,01</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181212,13 +181183,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1656</td>
-<td>D89.111.331</td>
-<td>Измерение внутриглазного давления по Маклакову (1 глаз)</td>
-<td>517,17</td>
+<td>D16.410.328</td>
+<td>Изготовление глазного протеза (стекло) (1 глаз)</td>
+<td>10921,36</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181226,13 +181197,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1657</td>
-<td>D95.132.332</td>
-<td>Эндотелиальное исследование (1 глаз)</td>
-<td>345,48</td>
+<td>D95.010.329</td>
+<td>Подбор очков: сложная коррекция (2 глаза)</td>
+<td>510,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181240,13 +181211,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1658</td>
-<td>D89.110.333</td>
-<td>Электронная тонография (1 глаз)</td>
-<td>167,55</td>
+<td>D95.029.330</td>
+<td>Ультразвуковая биомикроскопия (UBM) (1 глаз)</td>
+<td>824,99</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181254,13 +181225,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1659</td>
-<td>D95.133.334</td>
-<td>Допплерографическое исследование (1 глаз)</td>
-<td>1048,59</td>
+<td>D89.111.331</td>
+<td>Измерение внутриглазного давления по Маклакову (1 глаз)</td>
+<td>517,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181268,13 +181239,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1660</td>
-<td>D95.110.336</td>
-<td>Фотографирование глазного дна (1 глаз)</td>
-<td>1546,40</td>
+<td>D95.132.332</td>
+<td>Эндотелиальное исследование (1 глаз)</td>
+<td>345,48</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181282,13 +181253,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1661</td>
-<td>D95.261.337</td>
-<td>Реоофтальмография (2 глаза)</td>
-<td>1033,69</td>
+<td>D89.110.333</td>
+<td>Электронная тонография (1 глаз)</td>
+<td>167,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181296,13 +181267,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1662</td>
-<td>D89.113.338</td>
-<td>Бесконтактная пневмотонометрия (1 глаз)</td>
-<td>281,80</td>
+<td>D95.133.334</td>
+<td>Допплерографическое исследование (1 глаз)</td>
+<td>1048,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181310,13 +181281,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1663</td>
-<td>D89.114.339</td>
-<td>Суточная тонометрия (бесконтактно) (1 глаз)</td>
-<td>152,79</td>
+<td>D95.110.336</td>
+<td>Фотографирование глазного дна (1 глаз)</td>
+<td>1546,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181324,13 +181295,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1664</td>
-<td>D95.252.340</td>
-<td>Оптическая когерентная томография (1 глаз)</td>
-<td>806,15</td>
+<td>D95.261.337</td>
+<td>Реоофтальмография (2 глаза)</td>
+<td>1033,69</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181338,13 +181309,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1665</td>
-<td>D95.253.341</td>
-<td>Инфракрасное сканирование сетчатки (HRT) (1 глаз)</td>
-<td>750,36</td>
+<td>D89.113.338</td>
+<td>Бесконтактная пневмотонометрия (1 глаз)</td>
+<td>281,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181352,13 +181323,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1666</td>
-<td>D95.134.342</td>
-<td>Аберрометрия (1 глаз)</td>
-<td>747,54</td>
+<td>D89.114.339</td>
+<td>Суточная тонометрия (бесконтактно) (1 глаз)</td>
+<td>152,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181366,13 +181337,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1667</td>
-<td>D95.221.343</td>
-<td>Паттерн-электроретинография (2 глаза)</td>
-<td>533,11</td>
+<td>D95.252.340</td>
+<td>Оптическая когерентная томография (1 глаз)</td>
+<td>806,15</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181380,13 +181351,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1668</td>
-<td>D93.761.344</td>
-<td>Занятия по Дашевскому (2 глаза)</td>
-<td>422,72</td>
+<td>D95.253.341</td>
+<td>Инфракрасное сканирование сетчатки (HRT) (1 глаз)</td>
+<td>750,36</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181394,13 +181365,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1669</td>
-<td>D93.762.345</td>
-<td>Занятия по Аветисову-Мац (2 глаза)</td>
-<td>451,28</td>
+<td>D95.134.342</td>
+<td>Аберрометрия (1 глаз)</td>
+<td>747,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181408,13 +181379,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1670</td>
-<td>D93.763.346</td>
-<td>Тренировка на мускултренере (2 глаза)</td>
-<td>258,87</td>
+<td>D95.221.343</td>
+<td>Паттерн-электроретинография (2 глаза)</td>
+<td>533,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181422,13 +181393,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1671</td>
-<td>D93.764.347</td>
-<td>Диплоптика (2 глаза)</td>
-<td>258,87</td>
+<td>D93.761.344</td>
+<td>Занятия по Дашевскому (2 глаза)</td>
+<td>422,72</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181436,13 +181407,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1672</td>
-<td>D93.768.348</td>
-<td>Тренировка методом последовательных образов (1 глаз)</td>
-<td>258,87</td>
+<td>D93.762.345</td>
+<td>Занятия по Аветисову-Мац (2 глаза)</td>
+<td>451,28</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181450,13 +181421,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1673</td>
-<td>D93.765.349</td>
-<td>Упражнение на аккомодоконвергенцтренере (2 глаза)</td>
-<td>299,65</td>
+<td>D93.763.346</td>
+<td>Тренировка на мускултренере (2 глаза)</td>
+<td>258,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181464,13 +181435,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1674</td>
-<td>D10.562.350</td>
-<td>Изготовление индивидуального пластмассового протеза (1 глаз)</td>
-<td>5938,50</td>
+<td>D93.764.347</td>
+<td>Диплоптика (2 глаза)</td>
+<td>258,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181478,13 +181449,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1675</td>
-<td>D95.111.351</td>
-<td>Фотокератография (1 глаз)</td>
-<td>1617,62</td>
+<td>D93.768.348</td>
+<td>Тренировка методом последовательных образов (1 глаз)</td>
+<td>258,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181492,13 +181463,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1676</td>
-<td>D95.311.353</td>
-<td>Определение резервов относительной аккомодации (1 глаз)</td>
-<td>274,18</td>
+<td>D93.765.349</td>
+<td>Упражнение на аккомодоконвергенцтренере (2 глаза)</td>
+<td>299,65</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181506,13 +181477,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1677</td>
-<td>D12.870.354</td>
-<td>Изготовление имплантата для кератопластики и склеропластики из oculis (1 глаз)</td>
-<td>5171,38</td>
+<td>D10.562.350</td>
+<td>Изготовление индивидуального пластмассового протеза (1 глаз)</td>
+<td>5938,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181520,13 +181491,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1678</td>
-<td>D12.873.356</td>
-<td>Изготовление имплантата для энуклеации из tes (1 глаз)</td>
-<td>1246,85</td>
+<td>D95.111.351</td>
+<td>Фотокератография (1 глаз)</td>
+<td>1617,62</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181534,13 +181505,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1679</td>
-<td>D12.874.357</td>
-<td>Изготовление имплантата для энуклеации из пяточной жировой клетки (ПЖК) (1 глаз)</td>
-<td>1292,12</td>
+<td>D95.311.353</td>
+<td>Определение резервов относительной аккомодации (1 глаз)</td>
+<td>274,18</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181548,13 +181519,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1680</td>
-<td>D12.875.358</td>
-<td>Изготовление имплантата для птеригиума (1 глаз)</td>
-<td>13496,43</td>
+<td>D12.870.354</td>
+<td>Изготовление имплантата для кератопластики и склеропластики из oculis (1 глаз)</td>
+<td>5171,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181562,13 +181533,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1681</td>
-<td>D12.876.359</td>
-<td>Изготовление имплантата для склеропластики из КМ ossis caput (оссис капут) (1 глаз)</td>
-<td>13957,43</td>
+<td>D12.873.356</td>
+<td>Изготовление имплантата для энуклеации из tes (1 глаз)</td>
+<td>1246,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181576,13 +181547,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1682</td>
-<td>D12.877.360</td>
-<td>Изготовление имплантата os caput (ос капут) (1 глаз)</td>
-<td>1636,23</td>
+<td>D12.874.357</td>
+<td>Изготовление имплантата для энуклеации из пяточной жировой клетки (ПЖК) (1 глаз)</td>
+<td>1292,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181590,13 +181561,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1683</td>
-<td>D12.878.361</td>
-<td>Изготовление имплантата трубчатых костей (1 глаз)</td>
-<td>1617,43</td>
+<td>D12.875.358</td>
+<td>Изготовление имплантата для птеригиума (1 глаз)</td>
+<td>13496,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181604,13 +181575,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1684</td>
-<td>D12.879.362</td>
-<td>Изготовление имплантата тазовой кости (1 глаз)</td>
-<td>1617,43</td>
+<td>D12.876.359</td>
+<td>Изготовление имплантата для склеропластики из КМ ossis caput (оссис капут) (1 глаз)</td>
+<td>13957,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181618,13 +181589,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1685</td>
-<td>D12.880.363</td>
-<td>Изготовление имплантата из patella (пателла) (1 глаз)</td>
-<td>1617,43</td>
+<td>D12.877.360</td>
+<td>Изготовление имплантата os caput (ос капут) (1 глаз)</td>
+<td>1636,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181632,13 +181603,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1686</td>
-<td>D12.881.364</td>
-<td>Изготовление имплантата из ребра (os coste) (ос косте) (1 глаз)</td>
-<td>1592,95</td>
+<td>D12.878.361</td>
+<td>Изготовление имплантата трубчатых костей (1 глаз)</td>
+<td>1617,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181646,13 +181617,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1687</td>
-<td>D12.882.365</td>
-<td>Изготовление имплантата из амниотической оболочки (1 глаз)</td>
-<td>1592,95</td>
+<td>D12.879.362</td>
+<td>Изготовление имплантата тазовой кости (1 глаз)</td>
+<td>1617,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181660,13 +181631,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1688</td>
-<td>D12.883.366</td>
-<td>Изготовление имплантата из хряща (1 глаз)</td>
+<td>D12.880.363</td>
+<td>Изготовление имплантата из patella (пателла) (1 глаз)</td>
 <td>1617,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181674,13 +181645,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1689</td>
-<td>D98.210.367</td>
-<td>Удаление поверхностного инородного тела с глаз, без рассечения (1 глаз)</td>
-<td>453,09</td>
+<td>D12.881.364</td>
+<td>Изготовление имплантата из ребра (os coste) (ос косте) (1 глаз)</td>
+<td>1592,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181688,13 +181659,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1690</td>
-<td>D09.420.368</td>
-<td>Проведение пробы из слезных канальцев (1 глаз)</td>
-<td>476,06</td>
+<td>D12.882.365</td>
+<td>Изготовление имплантата из амниотической оболочки (1 глаз)</td>
+<td>1592,95</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181702,13 +181673,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1691</td>
-<td>D95.260.369</td>
-<td>Разгрузочные и нагрузочные пробы при глаукоме (1 глаз)</td>
-<td>2596,07</td>
+<td>D12.883.366</td>
+<td>Изготовление имплантата из хряща (1 глаз)</td>
+<td>1617,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181716,13 +181687,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1692</td>
-<td>D95.070.370</td>
-<td>Исследование адаптации к темноте (1 глаз)</td>
-<td>216,44</td>
+<td>D98.210.367</td>
+<td>Удаление поверхностного инородного тела с глаз, без рассечения (1 глаз)</td>
+<td>453,09</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181730,13 +181701,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1693</td>
-<td>D95.060.371</td>
-<td>Исследование хроматического зрения (1 глаз)</td>
-<td>183,86</td>
+<td>D09.420.368</td>
+<td>Проведение пробы из слезных канальцев (1 глаз)</td>
+<td>476,06</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181744,13 +181715,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1694</td>
-<td>D95.120.372</td>
-<td>Флуоресцентная ангиография или ангиоскопия глаз (1 глаз)</td>
-<td>3148,61</td>
+<td>D95.260.369</td>
+<td>Разгрузочные и нагрузочные пробы при глаукоме (1 глаз)</td>
+<td>2596,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181758,13 +181729,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1695</td>
-<td>D11.390.377</td>
-<td>Удаление птеригиума (1 глаз)</td>
-<td>3196,47</td>
+<td>D95.070.370</td>
+<td>Исследование адаптации к темноте (1 глаз)</td>
+<td>216,44</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181772,13 +181743,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1696</td>
-<td>D12.790.382</td>
-<td>Лазерная гониопластика (1 глаз)</td>
-<td>2969,14</td>
+<td>D95.060.371</td>
+<td>Исследование хроматического зрения (1 глаз)</td>
+<td>183,86</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181786,13 +181757,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1697</td>
-<td>D14.240.383</td>
-<td>Лазерная коагуляция сетчатки (1 глаз)</td>
-<td>2041,40</td>
+<td>D95.120.372</td>
+<td>Флуоресцентная ангиография или ангиоскопия глаз (1 глаз)</td>
+<td>3148,61</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181800,13 +181771,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1698</td>
-<td>D12.591.384</td>
-<td>Лазерная трабекулопластика (1 глаз)</td>
-<td>3520,99</td>
+<td>D11.390.377</td>
+<td>Удаление птеригиума (1 глаз)</td>
+<td>3196,47</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181814,27 +181785,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1699</td>
-<td>DХХ.ХХХ.400</td>
-<td>Процедуры и манипуляции хирурга</td>
+<td>D12.790.382</td>
+<td>Лазерная гониопластика (1 глаз)</td>
+<td>2969,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1700</td>
-<td>D86.011.401</td>
-<td>Вскрытие гематомы</td>
-<td>1346,24</td>
+<td>D14.240.383</td>
+<td>Лазерная коагуляция сетчатки (1 глаз)</td>
+<td>2041,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181842,13 +181813,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1701</td>
-<td>D86.223.402</td>
-<td>Удаление гигромы, ганглия</td>
-<td>1885,98</td>
+<td>D12.591.384</td>
+<td>Лазерная трабекулопластика (1 глаз)</td>
+<td>3520,99</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181856,27 +181827,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1702</td>
-<td>D86.224.403</td>
-<td>Вскрытие гидроаденита</td>
-<td>1125,82</td>
+<td>DХХ.ХХХ.400</td>
+<td>Процедуры и манипуляции хирурга</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1703</td>
-<td>D86.225.404</td>
-<td>Вскрытие карбункула</td>
-<td>1401,55</td>
+<td>D86.011.401</td>
+<td>Вскрытие гематомы</td>
+<td>1346,24</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181884,13 +181855,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1704</td>
-<td>D86.226.405</td>
-<td>Удаление липомы</td>
-<td>362,91</td>
+<td>D86.223.402</td>
+<td>Удаление гигромы, ганглия</td>
+<td>1885,98</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181898,13 +181869,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1705</td>
-<td>D86.227.406</td>
-<td>Вскрытие нагноившейся мозоли</td>
-<td>1120,11</td>
+<td>D86.224.403</td>
+<td>Вскрытие гидроаденита</td>
+<td>1125,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181912,13 +181883,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1706</td>
-<td>D86.271.407</td>
-<td>Удаление / коррекция ногтевой пластинки</td>
-<td>758,86</td>
+<td>D86.225.404</td>
+<td>Вскрытие карбункула</td>
+<td>1401,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181926,13 +181897,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1707</td>
-<td>D86.272.408</td>
-<td>Вскрытие панариция</td>
-<td>541,56</td>
+<td>D86.226.405</td>
+<td>Удаление липомы</td>
+<td>362,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181940,13 +181911,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1708</td>
-<td>D86.273.409</td>
-<td>Вскрытие паронихия</td>
-<td>701,22</td>
+<td>D86.227.406</td>
+<td>Вскрытие нагноившейся мозоли</td>
+<td>1120,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181954,13 +181925,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1709</td>
-<td>D48.811.410</td>
-<td>Вскрытие парапроктита</td>
-<td>1220,64</td>
+<td>D86.271.407</td>
+<td>Удаление / коррекция ногтевой пластинки</td>
+<td>758,86</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181968,13 +181939,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1710</td>
-<td>D86.051.411</td>
-<td>Иссечение лигатурного свища</td>
-<td>654,60</td>
+<td>D86.272.408</td>
+<td>Вскрытие панариция</td>
+<td>541,56</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181982,13 +181953,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1711</td>
-<td>D81.910.412</td>
-<td>Пункция сустава</td>
-<td>1355,28</td>
+<td>D86.273.409</td>
+<td>Вскрытие паронихия</td>
+<td>701,22</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -181996,13 +181967,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1712</td>
-<td>D86.228.413</td>
-<td>Вскрытие флегмоны</td>
-<td>1537,52</td>
+<td>D48.811.410</td>
+<td>Вскрытие парапроктита</td>
+<td>1220,64</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182010,13 +181981,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1713</td>
-<td>D86.229.414</td>
-<td>Вскрытие фурункула</td>
-<td>553,88</td>
+<td>D86.051.411</td>
+<td>Иссечение лигатурного свища</td>
+<td>654,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182024,13 +181995,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1714</td>
-<td>D93.571.415</td>
-<td>Перевязка</td>
-<td>382,40</td>
+<td>D81.910.412</td>
+<td>Пункция сустава</td>
+<td>1355,28</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182038,13 +182009,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1715</td>
-<td>D48.350.431</td>
-<td>Удаление полипа анального канала</td>
-<td>2756,35</td>
+<td>D86.228.413</td>
+<td>Вскрытие флегмоны</td>
+<td>1537,52</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182052,13 +182023,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1716</td>
-<td>D96.231.417</td>
-<td>Бужирование заднего прохода</td>
-<td>724,06</td>
+<td>D86.229.414</td>
+<td>Вскрытие фурункула</td>
+<td>553,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182066,13 +182037,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1717</td>
-<td>D96.232.418</td>
-<td>Склеротерапия трещин с девульсией ануса (1 сеанс)</td>
-<td>2011,19</td>
+<td>D93.571.415</td>
+<td>Перевязка</td>
+<td>382,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182080,13 +182051,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1718</td>
-<td>D49.040.432</td>
-<td>Иссечение анальной трещины</td>
-<td>1972,11</td>
+<td>D48.350.431</td>
+<td>Удаление полипа анального канала</td>
+<td>2756,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182094,13 +182065,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1719</td>
-<td>D86.210.433</td>
-<td>Иссечение эпителиального копчикового хода</td>
-<td>4524,84</td>
+<td>D96.231.417</td>
+<td>Бужирование заднего прохода</td>
+<td>724,06</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182108,13 +182079,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1720</td>
-<td>D00.401.419</td>
-<td>Эндовазальная коагуляция</td>
-<td>48255,34</td>
+<td>D96.232.418</td>
+<td>Склеротерапия трещин с девульсией ануса (1 сеанс)</td>
+<td>2011,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182122,13 +182093,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1721</td>
-<td>D86.310.420</td>
-<td>Лазерная коагуляция патологии и/или новообразований кожи/подкожной ткани</td>
-<td>915,85</td>
+<td>D49.040.432</td>
+<td>Иссечение анальной трещины</td>
+<td>1972,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182136,13 +182107,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1722</td>
-<td>D86.310.421</td>
-<td>Диатермокоагуляция кожной патологии и новообразований</td>
-<td>867,65</td>
+<td>D86.210.433</td>
+<td>Иссечение эпителиального копчикового хода</td>
+<td>4524,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182150,13 +182121,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1723</td>
-<td>D54.960.421</td>
-<td>Наложение искусственного пневмоперитонеума</td>
-<td>2255,80</td>
+<td>D00.401.419</td>
+<td>Эндовазальная коагуляция</td>
+<td>48255,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182164,13 +182135,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1724</td>
-<td>D33.321.422</td>
-<td>Наложение искусственного пневмоторакса</td>
-<td>1688,65</td>
+<td>D86.310.420</td>
+<td>Лазерная коагуляция патологии и/или новообразований кожи/подкожной ткани</td>
+<td>915,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182178,13 +182149,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1725</td>
-<td>D03.310.423</td>
-<td>Проведение спинномозговой пункции</td>
-<td>1685,96</td>
+<td>D86.310.421</td>
+<td>Диатермокоагуляция кожной патологии и новообразований</td>
+<td>867,65</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182192,13 +182163,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1726</td>
-<td>D38.911.424</td>
-<td>Подключичная катетеризация</td>
-<td>2461,17</td>
+<td>D54.960.421</td>
+<td>Наложение искусственного пневмоперитонеума</td>
+<td>2255,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182206,13 +182177,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1727</td>
-<td>D41.311.425</td>
-<td>Стернальная пункция</td>
-<td>3404,12</td>
+<td>D33.321.422</td>
+<td>Наложение искусственного пневмоторакса</td>
+<td>1688,65</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182220,13 +182191,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1728</td>
-<td>D54.910.426</td>
-<td>Лапароцентез</td>
-<td>446,32</td>
+<td>D03.310.423</td>
+<td>Проведение спинномозговой пункции</td>
+<td>1685,96</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182234,13 +182205,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1729</td>
-<td>D41.312.427</td>
-<td>Трепанобиопсия</td>
-<td>8644,38</td>
+<td>D38.911.424</td>
+<td>Подключичная катетеризация</td>
+<td>2461,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182248,13 +182219,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1730</td>
-<td>D86.041.428</td>
-<td>Атеромотомия/эктомия</td>
-<td>1308,90</td>
+<td>D41.311.425</td>
+<td>Стернальная пункция</td>
+<td>3404,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182262,13 +182233,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1731</td>
-<td>D39.700.429</td>
-<td>Рентгеноэндоваскулярная склеротерапия</td>
-<td>89674,96</td>
+<td>D54.910.426</td>
+<td>Лапароцентез</td>
+<td>446,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182276,13 +182247,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1732</td>
-<td>D39.701.430</td>
-<td>Рентгеноэндоваскулярная эмболизация (+ электрокоагуляция)</td>
-<td>88775,10</td>
+<td>D41.312.427</td>
+<td>Трепанобиопсия</td>
+<td>8644,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182290,13 +182261,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1733</td>
-<td>D86.110.435</td>
-<td>Биопсия кожи и/или подкожной клетчатки</td>
-<td>968,13</td>
+<td>D86.041.428</td>
+<td>Атеромотомия/эктомия</td>
+<td>1308,90</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182304,13 +182275,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1734</td>
-<td>D86.111.435</td>
-<td>Биопсия кожно- мышечного лоскута</td>
-<td>1586,62</td>
+<td>D39.700.429</td>
+<td>Рентгеноэндоваскулярная склеротерапия</td>
+<td>89674,96</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182318,13 +182289,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1735</td>
-<td>D86.220.436</td>
-<td>Хирургическая обработка раны/ожога</td>
-<td>1279,55</td>
+<td>D39.701.430</td>
+<td>Рентгеноэндоваскулярная эмболизация (+ электрокоагуляция)</td>
+<td>88775,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182332,27 +182303,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1736</td>
-<td>DХХ.ХХХ.500</td>
-<td>Процедуры и манипуляции травматолога</td>
+<td>D86.110.435</td>
+<td>Биопсия кожи и/или подкожной клетчатки</td>
+<td>968,13</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1737</td>
-<td>D79.700.501</td>
-<td>Закрытое вправление вывиха, неуточненная локализация</td>
-<td>953,03</td>
+<td>D86.111.435</td>
+<td>Биопсия кожно- мышечного лоскута</td>
+<td>1586,62</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182360,13 +182331,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1738</td>
-<td>D93.541.502</td>
-<td>Наложение гипсовой повязки</td>
-<td>1015,18</td>
+<td>D86.220.436</td>
+<td>Хирургическая обработка раны/ожога</td>
+<td>1279,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182374,27 +182345,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1739</td>
-<td>D97.881.503</td>
-<td>Снятие гипсовой повязки</td>
-<td>265,38</td>
+<td>DХХ.ХХХ.500</td>
+<td>Процедуры и манипуляции травматолога</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1740</td>
-<td>D93.530.504</td>
-<td>Применение других иммобилизующих аппаратов</td>
-<td>4254,03</td>
+<td>D79.700.501</td>
+<td>Закрытое вправление вывиха, неуточненная локализация</td>
+<td>953,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182402,13 +182373,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1741</td>
-<td>D83.960.505</td>
-<td>Внутрисуставное введение лекарственных средств</td>
-<td>1588,84</td>
+<td>D93.541.502</td>
+<td>Наложение гипсовой повязки</td>
+<td>1015,18</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182416,13 +182387,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1742</td>
-<td>D79.790.506</td>
-<td>Закрытая репозиция костных отломков</td>
-<td>1052,72</td>
+<td>D97.881.503</td>
+<td>Снятие гипсовой повязки</td>
+<td>265,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182430,27 +182401,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1743</td>
-<td>DХХ.ХХХ.600</td>
-<td>Процедуры и манипуляции уролога</td>
+<td>D93.530.504</td>
+<td>Применение других иммобилизующих аппаратов</td>
+<td>4254,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1744</td>
-<td>D96.491.601</td>
-<td>Промывание мочевого пузыря</td>
-<td>463,10</td>
+<td>D83.960.505</td>
+<td>Внутрисуставное введение лекарственных средств</td>
+<td>1588,84</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182458,13 +182429,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1745</td>
-<td>D99.941.602</td>
-<td>Взятие секрета простаты</td>
-<td>362,21</td>
+<td>D79.790.506</td>
+<td>Закрытая репозиция костных отломков</td>
+<td>1052,72</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182472,27 +182443,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1746</td>
-<td>D99.940.603</td>
-<td>Массаж простаты</td>
-<td>528,93</td>
+<td>DХХ.ХХХ.600</td>
+<td>Процедуры и манипуляции уролога</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1747</td>
-<td>D57.321.604</td>
-<td>Хромоцистоскопия</td>
-<td>1314,14</td>
+<td>D96.491.601</td>
+<td>Промывание мочевого пузыря</td>
+<td>463,10</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182500,13 +182471,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1748</td>
-<td>D89.240.605</td>
-<td>Урофлоуметрия</td>
-<td>532,41</td>
+<td>D99.941.602</td>
+<td>Взятие секрета простаты</td>
+<td>362,21</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182514,13 +182485,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1749</td>
-<td>D96.492.606</td>
-<td>Инстилляция уретры</td>
-<td>259,32</td>
+<td>D99.940.603</td>
+<td>Массаж простаты</td>
+<td>528,93</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182528,13 +182499,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1750</td>
-<td>D64.010.607</td>
-<td>Вправление парафимоза</td>
-<td>589,44</td>
+<td>D57.321.604</td>
+<td>Хромоцистоскопия</td>
+<td>1314,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182542,13 +182513,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1751</td>
-<td>D64.991.608</td>
-<td>Пластика уздечки полового члена</td>
-<td>935,52</td>
+<td>D89.240.605</td>
+<td>Урофлоуметрия</td>
+<td>532,41</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182556,13 +182527,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1752</td>
-<td>D64.992.609</td>
-<td>Иссечение олеогранулемы</td>
-<td>2564,57</td>
+<td>D96.492.606</td>
+<td>Инстилляция уретры</td>
+<td>259,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182570,13 +182541,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1753</td>
-<td>D89.220.610</td>
-<td>Ретроградная цистометрия</td>
-<td>1938,87</td>
+<td>D64.010.607</td>
+<td>Вправление парафимоза</td>
+<td>589,44</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182584,13 +182555,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1754</td>
-<td>D89.220.612</td>
-<td>Комплексное уродинамическое исследование (КУДИ)</td>
-<td>4075,31</td>
+<td>D64.991.608</td>
+<td>Пластика уздечки полового члена</td>
+<td>935,52</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182598,13 +182569,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1755</td>
-<td>D63.100.613</td>
-<td>Операция Иваниссевича</td>
-<td>4920,26</td>
+<td>D64.992.609</td>
+<td>Иссечение олеогранулемы</td>
+<td>2564,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182612,13 +182583,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1756</td>
-<td>D63.101.614</td>
-<td>Операция Мармара (Субингвинальная микрохирургическая варикоцелэктомия)</td>
-<td>4920,26</td>
+<td>D89.220.610</td>
+<td>Ретроградная цистометрия</td>
+<td>1938,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182626,13 +182597,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1757</td>
-<td>D64.930.615</td>
-<td>Бужирование крайней плоти</td>
-<td>1758,29</td>
+<td>D89.220.612</td>
+<td>Комплексное уродинамическое исследование (КУДИ)</td>
+<td>4075,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182640,13 +182611,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1758</td>
-<td>D49.460.616</td>
-<td>Геморроидэктомия по Миллигану-Моргану</td>
-<td>4715,41</td>
+<td>D63.100.613</td>
+<td>Операция Иваниссевича</td>
+<td>4920,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182654,13 +182625,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1759</td>
-<td>D60.110.618</td>
-<td>Мультифокальная трансректальная биопсия простаты</td>
-<td>5141,25</td>
+<td>D63.101.614</td>
+<td>Операция Мармара (Субингвинальная микрохирургическая варикоцелэктомия)</td>
+<td>4920,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182668,13 +182639,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1760</td>
-<td>D64.001.619</td>
-<td>Циркумцизия</td>
+<td>D64.930.615</td>
+<td>Бужирование крайней плоти</td>
 <td>1758,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182682,27 +182653,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1761</td>
-<td>DХХ.ХХХ.700</td>
-<td>Процедуры и манипуляции нефролога</td>
+<td>D49.460.616</td>
+<td>Геморроидэктомия по Миллигану-Моргану</td>
+<td>4715,41</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1762</td>
-<td>D39.950.701</td>
-<td>Гемодиализ</td>
-<td>26248,62</td>
+<td>D60.110.618</td>
+<td>Мультифокальная трансректальная биопсия простаты</td>
+<td>5141,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -182710,83 +182681,83 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1763</td>
-<td>D39.955.703</td>
-<td>Гемодиализ на уровне круглосуточного стационара</td>
-<td>15785,49</td>
+<td>D64.001.619</td>
+<td>Циркумцизия</td>
+<td>1758,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1764</td>
-<td>D54.980.704</td>
-<td>Имплантация перитонеального катетера взрослым</td>
-<td>38505,19</td>
+<td>DХХ.ХХХ.700</td>
+<td>Процедуры и манипуляции нефролога</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1765</td>
-<td>D54.980.705</td>
-<td>Имплантация перитонеального катетера детям</td>
-<td>49296,17</td>
+<td>D39.950.701</td>
+<td>Гемодиализ</td>
+<td>26248,62</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1766</td>
-<td>D54.981.705</td>
-<td>Постоянный амбулаторный перитонеальный диализ с лактатным буфером (взрослые)</td>
-<td>2851,91</td>
+<td>D39.955.703</td>
+<td>Гемодиализ на уровне круглосуточного стационара</td>
+<td>15785,49</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
-<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1767</td>
-<td>D54.982.706</td>
-<td>Постоянный амбулаторный перитонеальный диализ с бикарбонатным буфером (дети)</td>
-<td>5869,20</td>
+<td>D54.980.704</td>
+<td>Имплантация перитонеального катетера взрослым</td>
+<td>38505,19</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
-<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1768</td>
-<td>D54.985.709</td>
-<td>Автоматизированный перитонеальный диализ с бикарбонатным буфером на уровне круглосуточного стационара (дети)</td>
-<td>23350,50</td>
+<td>D54.980.705</td>
+<td>Имплантация перитонеального катетера детям</td>
+<td>49296,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -182794,41 +182765,41 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1769</td>
-<td>D54.986.710</td>
-<td>Автоматизированный перитонеальный диализ с лактатным буфером на уровне круглосуточного стационара (взрослые)</td>
-<td>21264,92</td>
+<td>D54.981.705</td>
+<td>Постоянный амбулаторный перитонеальный диализ с лактатным буфером (взрослые)</td>
+<td>2851,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
+<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1770</td>
-<td>D39.952.713</td>
-<td>Гемосорбция</td>
-<td>12674,28</td>
+<td>D54.982.706</td>
+<td>Постоянный амбулаторный перитонеальный диализ с бикарбонатным буфером (дети)</td>
+<td>5869,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
+<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1771</td>
-<td>D99.710.714</td>
-<td>Плазмаферез</td>
-<td>13266,81</td>
+<td>D54.985.709</td>
+<td>Автоматизированный перитонеальный диализ с бикарбонатным буфером на уровне круглосуточного стационара (дети)</td>
+<td>23350,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -182836,13 +182807,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1772</td>
-<td>D39.952.715</td>
-<td>Гемо(диа)фильтрация</td>
-<td>21190,24</td>
+<td>D54.986.710</td>
+<td>Автоматизированный перитонеальный диализ с лактатным буфером на уровне круглосуточного стационара (взрослые)</td>
+<td>21264,92</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -182850,13 +182821,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1773</td>
-<td>D39.953.716</td>
-<td>Изолированная фильтрация</td>
-<td>10003,75</td>
+<td>D39.952.713</td>
+<td>Гемосорбция</td>
+<td>12674,28</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -182864,27 +182835,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1774</td>
-<td>D54.985.717</td>
-<td>Постоянный амбулаторный перитонеальный диализ с лактатным буфером (дети)</td>
-<td>2851,91</td>
+<td>D99.710.714</td>
+<td>Плазмаферез</td>
+<td>13266,81</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
-<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1775</td>
-<td>D54.985.718</td>
-<td>Постоянный перитонеальный диализ с лактатным буфером на уровне круглосуточного стационара (взрослые)</td>
-<td>5426,32</td>
+<td>D39.952.715</td>
+<td>Гемо(диа)фильтрация</td>
+<td>21190,24</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -182892,13 +182863,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1776</td>
-<td>D54.985.719</td>
-<td>Постоянный перитонеальный диализ с лактатным буфером на уровне круглосуточного стационара (дети)</td>
-<td>5426,32</td>
+<td>D39.953.716</td>
+<td>Изолированная фильтрация</td>
+<td>10003,75</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -182906,41 +182877,41 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1777</td>
-<td>D54.985.720</td>
-<td>Постоянный перитонеальный диализ с бикарбонатным буфером на уровне круглосуточного стационара (взрослые)</td>
-<td>7868,61</td>
+<td>D54.985.717</td>
+<td>Постоянный амбулаторный перитонеальный диализ с лактатным буфером (дети)</td>
+<td>2851,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
+<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1778</td>
-<td>D54.985.721</td>
-<td>Постоянный амбулаторный перитонеальный диализ с бикарбонатным буфером (взрослые)</td>
-<td>5869,20</td>
+<td>D54.985.718</td>
+<td>Постоянный перитонеальный диализ с лактатным буфером на уровне круглосуточного стационара (взрослые)</td>
+<td>5426,32</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
-<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1779</td>
-<td>D54.985.722</td>
-<td>Постоянный перитонеальный диализ с бикарбонатным буфером на уровне круглосуточного стационара (дети)</td>
-<td>8602,41</td>
+<td>D54.985.719</td>
+<td>Постоянный перитонеальный диализ с лактатным буфером на уровне круглосуточного стационара (дети)</td>
+<td>5426,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -182948,27 +182919,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1780</td>
-<td>D54.985.723</td>
-<td>Амбулаторный автоматизированный перитонеальный диализ с лактатным буфером (взрослые)</td>
-<td>19360,79</td>
+<td>D54.985.720</td>
+<td>Постоянный перитонеальный диализ с бикарбонатным буфером на уровне круглосуточного стационара (взрослые)</td>
+<td>7868,61</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
-<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1781</td>
-<td>D54.985.724</td>
-<td>Амбулаторный автоматизированный перитонеальный диализ с лактатным буфером (дети)</td>
-<td>15160,79</td>
+<td>D54.985.721</td>
+<td>Постоянный амбулаторный перитонеальный диализ с бикарбонатным буфером (взрослые)</td>
+<td>5869,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -182976,13 +182947,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1782</td>
-<td>D54.985.725</td>
-<td>Автоматизированный перитонеальный диализ с лактатным буфером на уровне круглосуточного стационара (дети)</td>
-<td>23350,50</td>
+<td>D54.985.722</td>
+<td>Постоянный перитонеальный диализ с бикарбонатным буфером на уровне круглосуточного стационара (дети)</td>
+<td>8602,41</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -182990,13 +182961,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1783</td>
-<td>D54.985.726</td>
-<td>Амбулаторный автоматизированный перитонеальный диализ с бикарбонатным буфером (взрослые)</td>
-<td>25712,97</td>
+<td>D54.985.723</td>
+<td>Амбулаторный автоматизированный перитонеальный диализ с лактатным буфером (взрослые)</td>
+<td>19360,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -183004,13 +182975,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1784</td>
-<td>D54.985.727</td>
-<td>Амбулаторный автоматизированный перитонеальный диализ с бикарбонатным буфером (дети)</td>
-<td>21512,97</td>
+<td>D54.985.724</td>
+<td>Амбулаторный автоматизированный перитонеальный диализ с лактатным буфером (дети)</td>
+<td>15160,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -183018,13 +182989,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1785</td>
-<td>D54.985.728</td>
-<td>Автоматизированный перитонеальный диализ с бикарбонатным буфером на уровне круглосуточного стационара (взрослые)</td>
-<td>27336,89</td>
+<td>D54.985.725</td>
+<td>Автоматизированный перитонеальный диализ с лактатным буфером на уровне круглосуточного стационара (дети)</td>
+<td>23350,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>√</td>
 <td>1</td>
@@ -183032,69 +183003,69 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1786</td>
-<td>DХХ.ХХХ.800</td>
-<td>Процедуры и манипуляции аллерголога</td>
+<td>D54.985.726</td>
+<td>Амбулаторный автоматизированный перитонеальный диализ с бикарбонатным буфером (взрослые)</td>
+<td>25712,97</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td>√</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1787</td>
-<td>D99.121.801</td>
-<td>Кожные тесты с аллергенами</td>
-<td>1465,07</td>
+<td>D54.985.727</td>
+<td>Амбулаторный автоматизированный перитонеальный диализ с бикарбонатным буфером (дети)</td>
+<td>21512,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
-<td>√</td>
+<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1788</td>
-<td>D99.122.802</td>
-<td>Кожные тесты с лекарствами</td>
-<td>4687,85</td>
+<td>D54.985.728</td>
+<td>Автоматизированный перитонеальный диализ с бикарбонатным буфером на уровне круглосуточного стационара (взрослые)</td>
+<td>27336,89</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>1789</td>
-<td>D99.123.803</td>
-<td>Провокационная проба аллергенами (конъюнктивальная, эндоназальная, эндобронхиальная, аппликационная и так далее)</td>
-<td>1644,53</td>
+<td>DХХ.ХХХ.800</td>
+<td>Процедуры и манипуляции аллерголога</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1790</td>
-<td>D99.124.804</td>
-<td>Аллергометрическое титрование (конъюнктивальная, эндоназальная, эндобронхиальная, аппликационная и так далее методики)</td>
-<td>1776,95</td>
+<td>D99.121.801</td>
+<td>Кожные тесты с аллергенами</td>
+<td>1465,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183102,13 +183073,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1791</td>
-<td>D99.125.805</td>
-<td>Сеанс специфической гипосенсибилизации</td>
-<td>207,20</td>
+<td>D99.122.802</td>
+<td>Кожные тесты с лекарствами</td>
+<td>4687,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -183116,69 +183087,69 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1792</td>
+<td>D99.123.803</td>
+<td>Провокационная проба аллергенами (конъюнктивальная, эндоназальная, эндобронхиальная, аппликационная и так далее)</td>
+<td>1644,53</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1793</td>
+<td>D99.124.804</td>
+<td>Аллергометрическое титрование (конъюнктивальная, эндоназальная, эндобронхиальная, аппликационная и так далее методики)</td>
+<td>1776,95</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1794</td>
+<td>D99.125.805</td>
+<td>Сеанс специфической гипосенсибилизации</td>
+<td>207,20</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1795</td>
 <td>DХХ.ХХХ.900</td>
 <td>Психотерапевтические процедуры и манипуляции</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1793</td>
+<td>1796</td>
 <td>D94.021.901</td>
 <td>Аутотренинг</td>
 <td>502,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>1794</td>
-<td>D94.022.902</td>
-<td>Психотерапия рациональная</td>
-<td>940,34</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>1795</td>
-<td>D94.081.903</td>
-<td>Психологическое диагностирование</td>
-<td>565,31</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>1796</td>
-<td>D94.023.904</td>
-<td>Психокорреционная работа</td>
-<td>565,31</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183186,13 +183157,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1797</td>
-<td>D94.024.905</td>
-<td>Гипноза сеанс</td>
-<td>629,76</td>
+<td>D94.022.902</td>
+<td>Психотерапия рациональная</td>
+<td>940,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183200,13 +183171,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1798</td>
-<td>D94.025.906</td>
-<td>Психотерапия по методу Телешковской Л.Е.</td>
-<td>629,76</td>
+<td>D94.081.903</td>
+<td>Психологическое диагностирование</td>
+<td>565,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183214,13 +183185,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1799</td>
-<td>D94.026.907</td>
-<td>Гештальт-терапия</td>
-<td>843,04</td>
+<td>D94.023.904</td>
+<td>Психокорреционная работа</td>
+<td>565,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183228,13 +183199,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1800</td>
-<td>D94.027.908</td>
-<td>Программирование нейролингвистическое</td>
-<td>839,14</td>
+<td>D94.024.905</td>
+<td>Гипноза сеанс</td>
+<td>629,76</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183242,13 +183213,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1801</td>
-<td>D94.028.909</td>
-<td>Холотропное дыхание</td>
-<td>650,16</td>
+<td>D94.025.906</td>
+<td>Психотерапия по методу Телешковской Л.Е.</td>
+<td>629,76</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183256,41 +183227,41 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1802</td>
-<td>D94.111.910</td>
-<td>Медицинское освидетельствование органами следствия и дознания на предмет употребления психоактивных веществ</td>
-<td>1041,02</td>
+<td>D94.026.907</td>
+<td>Гештальт-терапия</td>
+<td>843,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>1</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>1803</td>
-<td>D94.111.911</td>
-<td>Медицинское освидетельствование на факт употребления алкоголя и состояния опьянения</td>
-<td>1033,06</td>
+<td>D94.027.908</td>
+<td>Программирование нейролингвистическое</td>
+<td>839,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>1</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>1804</td>
-<td>D94.110.911</td>
-<td>Судебно-психиатрическая экспертиза</td>
-<td>56708,08</td>
+<td>D94.028.909</td>
+<td>Холотропное дыхание</td>
+<td>650,16</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183298,55 +183269,55 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1805</td>
-<td>D94.450.912</td>
-<td>Судебно-наркологическая экспертиза</td>
-<td>2032,48</td>
+<td>D94.111.910</td>
+<td>Медицинское освидетельствование органами следствия и дознания на предмет употребления психоактивных веществ</td>
+<td>1041,02</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
+</tr>
+<tr>
+<td>1806</td>
+<td>D94.111.911</td>
+<td>Медицинское освидетельствование на факт употребления алкоголя и состояния опьянения</td>
+<td>1033,06</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1807</td>
+<td>D94.110.911</td>
+<td>Судебно-психиатрическая экспертиза</td>
+<td>56708,08</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
 <td></td>
 </tr>
 <tr>
-<td>1806</td>
-<td>D02.000.000</td>
-<td>Физиопроцедуры</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1807</td>
-<td>D02.000.001</td>
-<td>Электролечение</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>1808</td>
-<td>D02.001.001</td>
-<td>Гальванизация</td>
-<td>283,66</td>
+<td>D94.450.912</td>
+<td>Судебно-наркологическая экспертиза</td>
+<td>2032,48</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183354,41 +183325,41 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1809</td>
-<td>D02.002.001</td>
-<td>Электрофорез</td>
-<td>372,43</td>
+<td>D02.000.000</td>
+<td>Физиопроцедуры</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1810</td>
-<td>D02.003.001</td>
-<td>4-х камерная электрогальваническая ванна</td>
-<td>95,59</td>
+<td>D02.000.001</td>
+<td>Электролечение</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1811</td>
-<td>D02.004.001</td>
-<td>Электрофорез с импульсными токами</td>
-<td>322,83</td>
+<td>D02.001.001</td>
+<td>Гальванизация</td>
+<td>283,66</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183396,13 +183367,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1812</td>
-<td>D02.005.001</td>
-<td>Электросон</td>
-<td>161,52</td>
+<td>D02.002.001</td>
+<td>Электрофорез</td>
+<td>372,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183410,13 +183381,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1813</td>
-<td>D02.006.001</td>
-<td>Трансцеребральная электроанальгезия</td>
-<td>382,49</td>
+<td>D02.003.001</td>
+<td>4-х камерная электрогальваническая ванна</td>
+<td>95,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183424,13 +183395,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1814</td>
-<td>D02.007.001</td>
-<td>Диадинамические токи (ДДТ)</td>
-<td>417,26</td>
+<td>D02.004.001</td>
+<td>Электрофорез с импульсными токами</td>
+<td>322,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183438,13 +183409,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1815</td>
-<td>D02.008.001</td>
-<td>Амплипульстерапия (СМТ)</td>
-<td>232,43</td>
+<td>D02.005.001</td>
+<td>Электросон</td>
+<td>161,52</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183452,13 +183423,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1816</td>
-<td>D02.009.001</td>
-<td>Флюктуоризация</td>
-<td>236,25</td>
+<td>D02.006.001</td>
+<td>Трансцеребральная электроанальгезия</td>
+<td>382,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183466,13 +183437,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1817</td>
-<td>D02.010.001</td>
-<td>Электронейростимуляция чрескожная (TENS-терапия)</td>
-<td>352,74</td>
+<td>D02.007.001</td>
+<td>Диадинамические токи (ДДТ)</td>
+<td>417,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183480,13 +183451,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1818</td>
-<td>D02.011.001</td>
-<td>Интерференцтерапия</td>
-<td>131,44</td>
+<td>D02.008.001</td>
+<td>Амплипульстерапия (СМТ)</td>
+<td>232,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183494,13 +183465,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1819</td>
-<td>D02.012.001</td>
-<td>СМВ-терапия</td>
-<td>170,04</td>
+<td>D02.009.001</td>
+<td>Флюктуоризация</td>
+<td>236,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183508,13 +183479,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1820</td>
-<td>D02.013.001</td>
-<td>Электростимуляция мышц</td>
-<td>283,53</td>
+<td>D02.010.001</td>
+<td>Электронейростимуляция чрескожная (TENS-терапия)</td>
+<td>352,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183522,13 +183493,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1821</td>
-<td>D02.014.001</td>
-<td>Дарсонвализация</td>
-<td>186,15</td>
+<td>D02.011.001</td>
+<td>Интерференцтерапия</td>
+<td>131,44</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183536,13 +183507,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1822</td>
-<td>D02.015.001</td>
-<td>Ультратонотерапия</td>
-<td>405,04</td>
+<td>D02.012.001</td>
+<td>СМВ-терапия</td>
+<td>170,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183550,13 +183521,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1823</td>
-<td>D02.016.001</td>
-<td>Франклинизация</td>
-<td>232,67</td>
+<td>D02.013.001</td>
+<td>Электростимуляция мышц</td>
+<td>283,53</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183564,13 +183535,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1824</td>
-<td>D02.017.001</td>
-<td>Индуктотермия</td>
-<td>173,34</td>
+<td>D02.014.001</td>
+<td>Дарсонвализация</td>
+<td>186,15</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183578,13 +183549,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1825</td>
-<td>D02.018.001</td>
-<td>Ультравысокочастотная терапия (УВЧ)</td>
-<td>89,37</td>
+<td>D02.015.001</td>
+<td>Ультратонотерапия</td>
+<td>405,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183592,13 +183563,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1826</td>
-<td>D02.019.001</td>
-<td>УВЧ индуктотермия</td>
-<td>282,54</td>
+<td>D02.016.001</td>
+<td>Франклинизация</td>
+<td>232,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183606,13 +183577,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1827</td>
-<td>D02.020.001</td>
-<td>Сантиметровая терапия (СМВ)</td>
-<td>376,88</td>
+<td>D02.017.001</td>
+<td>Индуктотермия</td>
+<td>173,34</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183620,13 +183591,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1828</td>
-<td>D02.021.001</td>
-<td>Дециметровая терапия (ДМВ-терапия)</td>
-<td>149,42</td>
+<td>D02.018.001</td>
+<td>Ультравысокочастотная терапия (УВЧ)</td>
+<td>89,37</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183634,13 +183605,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1829</td>
-<td>D02.022.001</td>
-<td>Миллиметровая терапия (КВЧ- терапия)</td>
-<td>258,08</td>
+<td>D02.019.001</td>
+<td>УВЧ индуктотермия</td>
+<td>282,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183648,13 +183619,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1830</td>
-<td>D02.023.001</td>
-<td>Магнитотерапия</td>
-<td>61,67</td>
+<td>D02.020.001</td>
+<td>Сантиметровая терапия (СМВ)</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183662,13 +183633,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1831</td>
-<td>D02.024.001</td>
-<td>Ультразвуковая терапия</td>
-<td>200,31</td>
+<td>D02.021.001</td>
+<td>Дециметровая терапия (ДМВ-терапия)</td>
+<td>149,42</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183676,13 +183647,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1832</td>
-<td>D02.025.001</td>
-<td>Магнитолазеротарапия</td>
-<td>234,13</td>
+<td>D02.022.001</td>
+<td>Миллиметровая терапия (КВЧ- терапия)</td>
+<td>258,08</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183690,13 +183661,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1833</td>
-<td>D02.026.001</td>
-<td>Магнитоультразвуковая терапия</td>
-<td>282,86</td>
+<td>D02.023.001</td>
+<td>Магнитотерапия</td>
+<td>61,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183704,13 +183675,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1834</td>
-<td>D02.027.001</td>
-<td>Электросон-электрофорез</td>
-<td>375,12</td>
+<td>D02.024.001</td>
+<td>Ультразвуковая терапия</td>
+<td>200,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183718,13 +183689,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1835</td>
-<td>D02.028.001</td>
-<td>Вакуум-фонофорез</td>
-<td>376,88</td>
+<td>D02.025.001</td>
+<td>Магнитолазеротарапия</td>
+<td>234,13</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183732,13 +183703,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1836</td>
-<td>D02.029.001</td>
-<td>Гальваноиндуктотермия</td>
-<td>282,54</td>
+<td>D02.026.001</td>
+<td>Магнитоультразвуковая терапия</td>
+<td>282,86</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183746,13 +183717,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1837</td>
-<td>D02.030.001</td>
-<td>Биоптрон</td>
-<td>593,58</td>
+<td>D02.027.001</td>
+<td>Электросон-электрофорез</td>
+<td>375,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183760,27 +183731,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1838</td>
-<td>D02.000.002</td>
-<td>Фотолечение (светолечение)</td>
+<td>D02.028.001</td>
+<td>Вакуум-фонофорез</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2">√</td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>1839</td>
-<td>D02.001.002</td>
-<td>Местное ультрафиолетовое облучение</td>
-<td>89,43</td>
+<td>D02.029.001</td>
+<td>Гальваноиндуктотермия</td>
+<td>282,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183788,13 +183759,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1840</td>
-<td>D02.002.002</td>
-<td>Общее ультрафиолетовое облучение</td>
-<td>70,11</td>
+<td>D02.030.001</td>
+<td>Биоптрон</td>
+<td>593,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183802,27 +183773,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1841</td>
-<td>D02.003.002</td>
-<td>Ультрафиолетовое облучение крови</td>
-<td>75,06</td>
+<td>D02.000.002</td>
+<td>Фотолечение (светолечение)</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1842</td>
-<td>D02.004.002</td>
-<td>Лазеротерапия (квантовая терапия)</td>
-<td>200,31</td>
+<td>D02.001.002</td>
+<td>Местное ультрафиолетовое облучение</td>
+<td>89,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183830,13 +183801,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1843</td>
-<td>D02.005.002</td>
-<td>Красный диапазон</td>
-<td>195,42</td>
+<td>D02.002.002</td>
+<td>Общее ультрафиолетовое облучение</td>
+<td>70,11</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183844,13 +183815,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1844</td>
-<td>D02.008.002</td>
-<td>Внутривенная лазеротерапия</td>
-<td>272,03</td>
+<td>D02.003.002</td>
+<td>Ультрафиолетовое облучение крови</td>
+<td>75,06</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183858,13 +183829,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1845</td>
-<td>D02.009.002</td>
-<td>Гидролазерный душ</td>
-<td>185,16</td>
+<td>D02.004.002</td>
+<td>Лазеротерапия (квантовая терапия)</td>
+<td>200,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183872,13 +183843,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1846</td>
-<td>D02.010.002</td>
-<td>Терапия лазерным сканирующим лучом</td>
-<td>251,76</td>
+<td>D02.005.002</td>
+<td>Красный диапазон</td>
+<td>195,42</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183886,13 +183857,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1847</td>
-<td>D02.011.002</td>
-<td>Инфракрасное излучение</td>
-<td>233,82</td>
+<td>D02.008.002</td>
+<td>Внутривенная лазеротерапия</td>
+<td>272,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183900,13 +183871,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1848</td>
-<td>D02.012.002</td>
-<td>Видимое излучение</td>
-<td>251,25</td>
+<td>D02.009.002</td>
+<td>Гидролазерный душ</td>
+<td>185,16</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183914,13 +183885,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1849</td>
-<td>D02.013.002</td>
-<td>Фототерапия белым светом на зрительный анализатор</td>
-<td>207,97</td>
+<td>D02.010.002</td>
+<td>Терапия лазерным сканирующим лучом</td>
+<td>251,76</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183928,13 +183899,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1850</td>
-<td>D02.014.002</td>
-<td>Фотохимиотерапия</td>
-<td>220,16</td>
+<td>D02.011.002</td>
+<td>Инфракрасное излучение</td>
+<td>233,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183942,27 +183913,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1851</td>
-<td>D02.000.003</td>
-<td>Ингаляционная терапия</td>
+<td>D02.012.002</td>
+<td>Видимое излучение</td>
+<td>251,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>1852</td>
-<td>D02.001.003</td>
-<td>Аэрозольтерапия</td>
-<td>204,56</td>
+<td>D02.013.002</td>
+<td>Фототерапия белым светом на зрительный анализатор</td>
+<td>207,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183970,13 +183941,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1853</td>
-<td>D02.002.003</td>
-<td>Аэрозольтерапия синглетно-кислородной смесью</td>
-<td>239,80</td>
+<td>D02.014.002</td>
+<td>Фотохимиотерапия</td>
+<td>220,16</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -183984,41 +183955,41 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1854</td>
-<td>D02.003.003</td>
-<td>Электроаэрозольтерапия</td>
-<td>156,49</td>
+<td>D02.000.003</td>
+<td>Ингаляционная терапия</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1855</td>
+<td>D02.001.003</td>
+<td>Аэрозольтерапия</td>
+<td>204,56</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
 <td></td>
 </tr>
 <tr>
-<td>1855</td>
-<td>D02.000.004</td>
-<td>Водолечение</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>1856</td>
-<td>D02.001.004</td>
-<td>Общие влажные укутывания</td>
-<td>370,32</td>
+<td>D02.002.003</td>
+<td>Аэрозольтерапия синглетно-кислородной смесью</td>
+<td>239,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184026,13 +183997,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1857</td>
-<td>D02.002.004</td>
-<td>Влажные обтирания</td>
-<td>555,49</td>
+<td>D02.003.003</td>
+<td>Электроаэрозольтерапия</td>
+<td>156,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184040,27 +184011,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1858</td>
-<td>D02.003.004</td>
-<td>Обливания</td>
-<td>555,49</td>
+<td>D02.000.004</td>
+<td>Водолечение</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1859</td>
-<td>D02.004.004</td>
-<td>Лечебные души</td>
-<td>185,16</td>
+<td>D02.001.004</td>
+<td>Общие влажные укутывания</td>
+<td>370,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184068,13 +184039,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1860</td>
-<td>D02.005.004</td>
-<td>Общие ванны по Валинскому</td>
-<td>370,32</td>
+<td>D02.002.004</td>
+<td>Влажные обтирания</td>
+<td>555,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184082,13 +184053,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1861</td>
-<td>D02.006.004</td>
-<td>Ванны по Гауффе</td>
+<td>D02.003.004</td>
+<td>Обливания</td>
 <td>555,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184096,13 +184067,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1862</td>
-<td>D02.007.004</td>
-<td>Общие контрастные ванны</td>
-<td>505,17</td>
+<td>D02.004.004</td>
+<td>Лечебные души</td>
+<td>185,16</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184110,13 +184081,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1863</td>
-<td>D02.008.004</td>
-<td>Местные контрастные ванны</td>
-<td>277,74</td>
+<td>D02.005.004</td>
+<td>Общие ванны по Валинскому</td>
+<td>370,32</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184124,13 +184095,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1864</td>
-<td>D02.009.004</td>
-<td>4-х камерная струйно-контрастная ванна</td>
-<td>309,40</td>
+<td>D02.006.004</td>
+<td>Ванны по Гауффе</td>
+<td>555,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184138,13 +184109,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1865</td>
-<td>D02.010.004</td>
-<td>Подводный душ-массаж</td>
-<td>289,38</td>
+<td>D02.007.004</td>
+<td>Общие контрастные ванны</td>
+<td>505,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184152,13 +184123,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1866</td>
-<td>D02.011.004</td>
-<td>Лечебные ванны</td>
-<td>611,89</td>
+<td>D02.008.004</td>
+<td>Местные контрастные ванны</td>
+<td>277,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184166,13 +184137,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1867</td>
-<td>D02.012.004</td>
-<td>Сочетанные методики бальнеотерапии</td>
-<td>753,74</td>
+<td>D02.009.004</td>
+<td>4-х камерная струйно-контрастная ванна</td>
+<td>309,40</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184180,13 +184151,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1868</td>
-<td>D02.013.004</td>
-<td>Сочетанные методики бальнеофизиотерапии</td>
-<td>753,74</td>
+<td>D02.010.004</td>
+<td>Подводный душ-массаж</td>
+<td>289,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184194,13 +184165,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1869</td>
-<td>D02.014.004</td>
-<td>Гидроколонотерапия</td>
-<td>1060,86</td>
+<td>D02.011.004</td>
+<td>Лечебные ванны</td>
+<td>611,89</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184208,27 +184179,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1870</td>
-<td>D02.000.005</td>
-<td>Теплолечение</td>
+<td>D02.012.004</td>
+<td>Сочетанные методики бальнеотерапии</td>
+<td>753,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>1871</td>
-<td>D02.001.005</td>
-<td>Парафинотерапия</td>
-<td>320,19</td>
+<td>D02.013.004</td>
+<td>Сочетанные методики бальнеофизиотерапии</td>
+<td>753,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184236,13 +184207,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1872</td>
-<td>D02.002.005</td>
-<td>Озокеритолечение</td>
-<td>267,07</td>
+<td>D02.014.004</td>
+<td>Гидроколонотерапия</td>
+<td>1060,86</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184250,27 +184221,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1873</td>
-<td>D02.003.005</td>
-<td>Нафталанолечение</td>
-<td>496,92</td>
+<td>D02.000.005</td>
+<td>Теплолечение</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1874</td>
-<td>D02.004.005</td>
-<td>Лечебное применение нативной грязи</td>
-<td>496,92</td>
+<td>D02.001.005</td>
+<td>Парафинотерапия</td>
+<td>320,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184278,13 +184249,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1875</td>
-<td>D02.005.005</td>
-<td>Сочетанные грязелечебные процедуры</td>
-<td>605,82</td>
+<td>D02.002.005</td>
+<td>Озокеритолечение</td>
+<td>267,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184292,13 +184263,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1876</td>
-<td>D02.006.005</td>
-<td>&quot;Соляная&quot; камера (спелеокамера)</td>
-<td>248,87</td>
+<td>D02.003.005</td>
+<td>Нафталанолечение</td>
+<td>496,92</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184306,27 +184277,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1877</td>
-<td>D02.000.006</td>
-<td>Пунктурная рефлексофизиотерапия (физиопунктура)</td>
+<td>D02.004.005</td>
+<td>Лечебное применение нативной грязи</td>
+<td>496,92</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>1878</td>
-<td>D02.001.006</td>
-<td>Многоигольчатый массаж</td>
-<td>1064,44</td>
+<td>D02.005.005</td>
+<td>Сочетанные грязелечебные процедуры</td>
+<td>605,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184334,13 +184305,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1879</td>
-<td>D02.002.006</td>
-<td>Акупунктура (иглотерапия)</td>
-<td>391,26</td>
+<td>D02.006.005</td>
+<td>&quot;Соляная&quot; камера (спелеокамера)</td>
+<td>248,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184348,27 +184319,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1880</td>
-<td>D02.003.006</td>
-<td>Су-джок терапия</td>
-<td>756,17</td>
+<td>D02.000.006</td>
+<td>Пунктурная рефлексофизиотерапия (физиопунктура)</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1881</td>
-<td>D02.004.006</td>
-<td>Акупрессура (точечный массаж)</td>
-<td>1414,53</td>
+<td>D02.001.006</td>
+<td>Многоигольчатый массаж</td>
+<td>1064,44</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184376,13 +184347,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1882</td>
-<td>D02.005.006</td>
-<td>Магнитопунктура</td>
-<td>446,71</td>
+<td>D02.002.006</td>
+<td>Акупунктура (иглотерапия)</td>
+<td>391,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184390,13 +184361,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1883</td>
-<td>D02.006.006</td>
-<td>Металлотерапия</td>
-<td>446,71</td>
+<td>D02.003.006</td>
+<td>Су-джок терапия</td>
+<td>756,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184404,13 +184375,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1884</td>
-<td>D02.007.006</td>
-<td>Ультрафонопунктура</td>
-<td>625,49</td>
+<td>D02.004.006</td>
+<td>Акупрессура (точечный массаж)</td>
+<td>1414,53</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184418,13 +184389,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1885</td>
-<td>D02.008.006</td>
-<td>Фармакопунктура с ультрафонофорезом</td>
-<td>788,74</td>
+<td>D02.005.006</td>
+<td>Магнитопунктура</td>
+<td>446,71</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184432,13 +184403,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1886</td>
-<td>D02.009.006</td>
-<td>Прижигание (прогревание полынными сигарами, моксотерапия)</td>
-<td>379,31</td>
+<td>D02.006.006</td>
+<td>Металлотерапия</td>
+<td>446,71</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184446,13 +184417,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1887</td>
-<td>D02.010.006</td>
-<td>Электропунктура и электроакупунктура</td>
-<td>756,74</td>
+<td>D02.007.006</td>
+<td>Ультрафонопунктура</td>
+<td>625,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184460,13 +184431,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1888</td>
-<td>D02.011.006</td>
-<td>Метод Фолля</td>
-<td>1165,61</td>
+<td>D02.008.006</td>
+<td>Фармакопунктура с ультрафонофорезом</td>
+<td>788,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184474,13 +184445,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1889</td>
-<td>D02.012.006</td>
-<td>Лазеропунктура</td>
+<td>D02.009.006</td>
+<td>Прижигание (прогревание полынными сигарами, моксотерапия)</td>
 <td>379,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184488,13 +184459,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1890</td>
-<td>D02.013.006</td>
-<td>КВЧ-пунктура</td>
-<td>411,88</td>
+<td>D02.010.006</td>
+<td>Электропунктура и электроакупунктура</td>
+<td>756,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184502,13 +184473,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1891</td>
-<td>D02.014.006</td>
-<td>Термопунктура</td>
-<td>788,74</td>
+<td>D02.011.006</td>
+<td>Метод Фолля</td>
+<td>1165,61</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184516,13 +184487,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1892</td>
-<td>D02.015.006</td>
-<td>Криопунктура</td>
-<td>411,19</td>
+<td>D02.012.006</td>
+<td>Лазеропунктура</td>
+<td>379,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184530,13 +184501,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1893</td>
-<td>D02.016.006</td>
-<td>Франклинизация в сочетании с иглорефлексотерапией</td>
-<td>411,19</td>
+<td>D02.013.006</td>
+<td>КВЧ-пунктура</td>
+<td>411,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184544,13 +184515,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1894</td>
-<td>D02.017.006</td>
-<td>Ультразвуковая терапия (фонофорез)</td>
-<td>314,87</td>
+<td>D02.014.006</td>
+<td>Термопунктура</td>
+<td>788,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184558,27 +184529,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1895</td>
-<td>D02.000.007</td>
-<td>Массаж</td>
+<td>D02.015.006</td>
+<td>Криопунктура</td>
+<td>411,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>1896</td>
-<td>D02.001.007</td>
-<td>Классический массаж всего тела</td>
-<td>696,42</td>
+<td>D02.016.006</td>
+<td>Франклинизация в сочетании с иглорефлексотерапией</td>
+<td>411,19</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184586,13 +184557,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1897</td>
-<td>D02.002.007</td>
-<td>Сегментарный массаж</td>
-<td>319,55</td>
+<td>D02.017.006</td>
+<td>Ультразвуковая терапия (фонофорез)</td>
+<td>314,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184600,27 +184571,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1898</td>
-<td>D02.003.007</td>
-<td>Точечный массаж</td>
-<td>460,47</td>
+<td>D02.000.007</td>
+<td>Массаж</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1899</td>
-<td>D02.004.007</td>
-<td>Вакуумный массаж</td>
-<td>324,41</td>
+<td>D02.001.007</td>
+<td>Классический массаж всего тела</td>
+<td>696,42</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184628,13 +184599,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1900</td>
-<td>D02.005.007</td>
-<td>Вибромассаж</td>
-<td>280,24</td>
+<td>D02.002.007</td>
+<td>Сегментарный массаж</td>
+<td>319,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184642,13 +184613,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1901</td>
-<td>D02.006.007</td>
-<td>Цигун-массаж</td>
-<td>1018,29</td>
+<td>D02.003.007</td>
+<td>Точечный массаж</td>
+<td>460,47</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184656,13 +184627,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1902</td>
-<td>D02.007.007</td>
-<td>Тракция позвоночника (один отдел)</td>
-<td>1510,49</td>
+<td>D02.004.007</td>
+<td>Вакуумный массаж</td>
+<td>324,41</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184670,13 +184641,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1903</td>
-<td>D02.008.007</td>
-<td>Массаж головы (лобно-височной и затылочно-теменной области)</td>
-<td>376,88</td>
+<td>D02.005.007</td>
+<td>Вибромассаж</td>
+<td>280,24</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184684,13 +184655,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1904</td>
-<td>D02.009.007</td>
-<td>Массаж волосистой части головы</td>
-<td>273,93</td>
+<td>D02.006.007</td>
+<td>Цигун-массаж</td>
+<td>1018,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184698,13 +184669,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1905</td>
-<td>D02.010.007</td>
-<td>Массаж воротниковой зоны</td>
-<td>251,25</td>
+<td>D02.007.007</td>
+<td>Тракция позвоночника (один отдел)</td>
+<td>1510,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184712,13 +184683,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1906</td>
-<td>D02.011.007</td>
-<td>Массаж шейно-грудного отдела позвоночника</td>
-<td>605,54</td>
+<td>D02.008.007</td>
+<td>Массаж головы (лобно-височной и затылочно-теменной области)</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184726,13 +184697,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1907</td>
-<td>D02.012.007</td>
-<td>Массаж шеи, воротниковой зоны и обоих плечевых суставов</td>
-<td>565,31</td>
+<td>D02.009.007</td>
+<td>Массаж волосистой части головы</td>
+<td>273,93</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184740,13 +184711,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1908</td>
-<td>D02.013.007</td>
-<td>Массаж грудного отдела позвоночника</td>
-<td>579,71</td>
+<td>D02.010.007</td>
+<td>Массаж воротниковой зоны</td>
+<td>251,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184754,13 +184725,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1909</td>
-<td>D02.014.007</td>
-<td>Массаж верхней конечностей</td>
-<td>405,61</td>
+<td>D02.011.007</td>
+<td>Массаж шейно-грудного отдела позвоночника</td>
+<td>605,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184768,13 +184739,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1910</td>
-<td>D02.015.007</td>
-<td>Массаж области грудной клетки</td>
-<td>568,31</td>
+<td>D02.012.007</td>
+<td>Массаж шеи, воротниковой зоны и обоих плечевых суставов</td>
+<td>565,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184782,13 +184753,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1911</td>
-<td>D02.016.007</td>
-<td>Массаж плечевого сустава</td>
-<td>251,25</td>
+<td>D02.013.007</td>
+<td>Массаж грудного отдела позвоночника</td>
+<td>579,71</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184796,13 +184767,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1912</td>
-<td>D02.017.007</td>
-<td>Массаж локтевого сустава</td>
-<td>280,23</td>
+<td>D02.014.007</td>
+<td>Массаж верхней конечностей</td>
+<td>405,61</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184810,13 +184781,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1913</td>
-<td>D02.018.007</td>
-<td>Массаж лучезапястного сустава</td>
-<td>280,23</td>
+<td>D02.015.007</td>
+<td>Массаж области грудной клетки</td>
+<td>568,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184824,13 +184795,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1914</td>
-<td>D02.019.007</td>
-<td>Массаж кисти и предплечья</td>
-<td>405,86</td>
+<td>D02.016.007</td>
+<td>Массаж плечевого сустава</td>
+<td>251,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184838,13 +184809,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1915</td>
-<td>D02.020.007</td>
-<td>Массаж всего позвоночника</td>
-<td>565,31</td>
+<td>D02.017.007</td>
+<td>Массаж локтевого сустава</td>
+<td>280,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184852,13 +184823,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1916</td>
-<td>D02.021.007</td>
-<td>Массаж мышц передней брюшной стенки</td>
-<td>324,47</td>
+<td>D02.018.007</td>
+<td>Массаж лучезапястного сустава</td>
+<td>280,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184866,13 +184837,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1917</td>
-<td>D02.022.007</td>
-<td>Массаж пояснично-крестцовой области</td>
-<td>423,61</td>
+<td>D02.019.007</td>
+<td>Массаж кисти и предплечья</td>
+<td>405,86</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184880,13 +184851,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1918</td>
-<td>D02.023.007</td>
-<td>Массаж тазобедренного сустава</td>
-<td>376,88</td>
+<td>D02.020.007</td>
+<td>Массаж всего позвоночника</td>
+<td>565,31</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184894,13 +184865,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1919</td>
-<td>D02.024.007</td>
-<td>Массаж тазобедренного сустава и ягодичной области (одноименной стороны)</td>
-<td>376,88</td>
+<td>D02.021.007</td>
+<td>Массаж мышц передней брюшной стенки</td>
+<td>324,47</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184908,13 +184879,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1920</td>
-<td>D02.025.007</td>
-<td>Массаж нижней конечности и поясничной области</td>
-<td>604,04</td>
+<td>D02.022.007</td>
+<td>Массаж пояснично-крестцовой области</td>
+<td>423,61</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184922,13 +184893,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1921</td>
-<td>D02.026.007</td>
-<td>Массаж нижней конечности</td>
-<td>405,61</td>
+<td>D02.023.007</td>
+<td>Массаж тазобедренного сустава</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184936,13 +184907,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1922</td>
-<td>D02.027.007</td>
-<td>Массаж коленного сустава</td>
-<td>286,23</td>
+<td>D02.024.007</td>
+<td>Массаж тазобедренного сустава и ягодичной области (одноименной стороны)</td>
+<td>376,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184950,13 +184921,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1923</td>
-<td>D02.028.007</td>
-<td>Массаж голеностопного сустава</td>
-<td>286,23</td>
+<td>D02.025.007</td>
+<td>Массаж нижней конечности и поясничной области</td>
+<td>604,04</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184964,13 +184935,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1924</td>
-<td>D02.029.007</td>
-<td>Массаж стопы и голени</td>
-<td>286,23</td>
+<td>D02.026.007</td>
+<td>Массаж нижней конечности</td>
+<td>405,61</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -184978,27 +184949,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1925</td>
-<td>D02.000.008</td>
-<td>Лечебная физическая культура (ЛФК)</td>
+<td>D02.027.007</td>
+<td>Массаж коленного сустава</td>
+<td>286,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>1926</td>
-<td>D02.001.008</td>
-<td>Дыхательная гимнастика</td>
-<td>248,27</td>
+<td>D02.028.007</td>
+<td>Массаж голеностопного сустава</td>
+<td>286,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185006,13 +184977,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1927</td>
-<td>D02.002.008</td>
-<td>ЛФК групповая</td>
-<td>251,25</td>
+<td>D02.029.007</td>
+<td>Массаж стопы и голени</td>
+<td>286,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185020,27 +184991,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1928</td>
-<td>D02.003.008</td>
-<td>ЛФК индивидуальная</td>
-<td>352,46</td>
+<td>D02.000.008</td>
+<td>Лечебная физическая культура (ЛФК)</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>1929</td>
-<td>D02.004.008</td>
-<td>Механотерапия</td>
-<td>759,77</td>
+<td>D02.001.008</td>
+<td>Дыхательная гимнастика</td>
+<td>248,27</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185048,13 +185019,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1930</td>
-<td>D02.005.008</td>
-<td>Лечение положением</td>
-<td>993,08</td>
+<td>D02.002.008</td>
+<td>ЛФК групповая</td>
+<td>251,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185062,13 +185033,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1931</td>
-<td>D02.006.008</td>
-<td>Пассивная разработка</td>
-<td>496,54</td>
+<td>D02.003.008</td>
+<td>ЛФК индивидуальная</td>
+<td>352,46</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185076,13 +185047,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1932</td>
-<td>D02.007.008</td>
-<td>Гидрокинезотерапия</td>
-<td>417,67</td>
+<td>D02.004.008</td>
+<td>Механотерапия</td>
+<td>759,77</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185090,13 +185061,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1933</td>
-<td>D02.008.008</td>
-<td>Иппотерапия</td>
-<td>898,88</td>
+<td>D02.005.008</td>
+<td>Лечение положением</td>
+<td>993,08</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185104,13 +185075,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1934</td>
-<td>D02.009.008</td>
-<td>Измерение объема движения в суставе</td>
-<td>753,74</td>
+<td>D02.006.008</td>
+<td>Пассивная разработка</td>
+<td>496,54</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185118,13 +185089,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1935</td>
-<td>D02.010.008</td>
-<td>Постурография (роботизированная) диагностическая и лечебная</td>
-<td>379,88</td>
+<td>D02.007.008</td>
+<td>Гидрокинезотерапия</td>
+<td>417,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185132,13 +185103,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1936</td>
-<td>D02.011.008</td>
-<td>Проприоцептивная коррекция: костюм «Адели», костюм «Гравистат»</td>
-<td>168,51</td>
+<td>D02.008.008</td>
+<td>Иппотерапия</td>
+<td>898,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185146,13 +185117,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1937</td>
-<td>D02.012.008</td>
-<td>Подометрия</td>
-<td>407,36</td>
+<td>D02.009.008</td>
+<td>Измерение объема движения в суставе</td>
+<td>753,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185160,13 +185131,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1938</td>
-<td>D02.013.008</td>
-<td>Занятие на аналитических тренажерах с программой биологической обратной связи (БОС)</td>
-<td>772,41</td>
+<td>D02.010.008</td>
+<td>Постурография (роботизированная) диагностическая и лечебная</td>
+<td>379,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185174,13 +185145,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1939</td>
-<td>D02.014.008</td>
-<td>Занятия по системе Монтессори</td>
-<td>1510,49</td>
+<td>D02.011.008</td>
+<td>Проприоцептивная коррекция: костюм «Адели», костюм «Гравистат»</td>
+<td>168,51</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185188,13 +185159,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1940</td>
-<td>D02.015.008</td>
-<td>Занятия по системе Бобат, Войт-терапия</td>
-<td>1507,49</td>
+<td>D02.012.008</td>
+<td>Подометрия</td>
+<td>407,36</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185202,13 +185173,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1941</td>
-<td>D02.017.008</td>
-<td>Занятие по эрготерапии</td>
-<td>790,22</td>
+<td>D02.013.008</td>
+<td>Занятие на аналитических тренажерах с программой биологической обратной связи (БОС)</td>
+<td>772,41</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185216,13 +185187,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1942</td>
-<td>D02.020.008</td>
-<td>Ударно-волновая терапия</td>
-<td>376,88</td>
+<td>D02.014.008</td>
+<td>Занятия по системе Монтессори</td>
+<td>1510,49</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2">√</td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
@@ -185230,83 +185201,83 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1943</td>
+<td>D02.015.008</td>
+<td>Занятия по системе Бобат, Войт-терапия</td>
+<td>1507,49</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>1944</td>
+<td>D02.017.008</td>
+<td>Занятие по эрготерапии</td>
+<td>790,22</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>1945</td>
+<td>D02.020.008</td>
+<td>Ударно-волновая терапия</td>
+<td>376,88</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>1946</td>
 <td>D03.000.000</td>
 <td>Стоматологические услуги</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1944</td>
+<td>1947</td>
 <td>D03.000.001</td>
 <td>Терапевтический прием</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1945</td>
+<td>1948</td>
 <td>D03.001.001</td>
 <td>Лечение пульпита однокорневого зуба завершенное пломбой из КМХО</td>
 <td>1150,26</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>1946</td>
-<td>D03.002.001</td>
-<td>Лечение пульпита первого премоляра завершенное пломбой из КМХО</td>
-<td>2372,45</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>1947</td>
-<td>D03.003.001</td>
-<td>Лечение пульпита моляра, завершенное пломбой из КМХО</td>
-<td>2928,77</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>1948</td>
-<td>D03.004.001</td>
-<td>Лечение пульпита временных зубов у дошкольников завершенное пломбой из цемента</td>
-<td>2526,66</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185314,13 +185285,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1949</td>
-<td>D03.005.001</td>
-<td>Лечение пульпита временных зубов у дошкольников завершенное пломбой из КМХО</td>
-<td>3186,02</td>
+<td>D03.002.001</td>
+<td>Лечение пульпита первого премоляра завершенное пломбой из КМХО</td>
+<td>2372,45</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185328,13 +185299,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1950</td>
-<td>D03.006.001</td>
-<td>Лечение пульпита пломбированием 1 корня постоянного зуба или методом прижизненной ампутации пульпы, завершенное пломбой из цемента</td>
-<td>2540,20</td>
+<td>D03.003.001</td>
+<td>Лечение пульпита моляра, завершенное пломбой из КМХО</td>
+<td>2928,77</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185342,13 +185313,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1951</td>
-<td>D03.007.001</td>
-<td>Лечение пульпита пломбированием 1 корня постоянного зуба или методом прижизненной ампутации пульпы, завершенное пломбой из КМХО</td>
-<td>2693,43</td>
+<td>D03.004.001</td>
+<td>Лечение пульпита временных зубов у дошкольников завершенное пломбой из цемента</td>
+<td>2526,66</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185356,13 +185327,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1952</td>
-<td>D03.008.001</td>
-<td>Лечение пульпита пломбированием двух корней постоянного зуба, завершенное пломбой из цемента</td>
-<td>1704,85</td>
+<td>D03.005.001</td>
+<td>Лечение пульпита временных зубов у дошкольников завершенное пломбой из КМХО</td>
+<td>3186,02</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185370,13 +185341,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1953</td>
-<td>D03.009.001</td>
-<td>Лечение пульпита пломбированием двух корней постоянного зуба, завершенное пломбой из КМХО</td>
-<td>2265,29</td>
+<td>D03.006.001</td>
+<td>Лечение пульпита пломбированием 1 корня постоянного зуба или методом прижизненной ампутации пульпы, завершенное пломбой из цемента</td>
+<td>2540,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185384,13 +185355,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1954</td>
-<td>D03.010.001</td>
-<td>Лечение пульпита пломбированием 3 корней постоянного зуба, завершенное пломбой из цемента</td>
-<td>2073,05</td>
+<td>D03.007.001</td>
+<td>Лечение пульпита пломбированием 1 корня постоянного зуба или методом прижизненной ампутации пульпы, завершенное пломбой из КМХО</td>
+<td>2693,43</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185398,13 +185369,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1955</td>
-<td>D03.011.001</td>
-<td>Лечение пульпита пломбированием 3 корней постоянного зуба, завершенное пломбой из КМХО</td>
-<td>2766,16</td>
+<td>D03.008.001</td>
+<td>Лечение пульпита пломбированием двух корней постоянного зуба, завершенное пломбой из цемента</td>
+<td>1704,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185412,13 +185383,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1956</td>
-<td>D03.012.001</td>
-<td>Лечение периодонтита моляра с пломбированием всех каналов, завершенное пломбой из КМХО</td>
-<td>3343,57</td>
+<td>D03.009.001</td>
+<td>Лечение пульпита пломбированием двух корней постоянного зуба, завершенное пломбой из КМХО</td>
+<td>2265,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185426,13 +185397,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1957</td>
-<td>D03.013.001</td>
-<td>Лечение периодонтита большого коренного зуба с пломбированием двух каналов, завершенное пломбой из КМХО</td>
-<td>3300,03</td>
+<td>D03.010.001</td>
+<td>Лечение пульпита пломбированием 3 корней постоянного зуба, завершенное пломбой из цемента</td>
+<td>2073,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185440,13 +185411,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1958</td>
-<td>D03.014.001</td>
-<td>Лечение периодонтита моляра с пломбированием одного канала, завершенное пломбой из КМХО</td>
-<td>3648,20</td>
+<td>D03.011.001</td>
+<td>Лечение пульпита пломбированием 3 корней постоянного зуба, завершенное пломбой из КМХО</td>
+<td>2766,16</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185454,13 +185425,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1959</td>
-<td>D03.015.001</td>
-<td>Лечение периодонтита первого премоляра верхней челюсти с пломбированием всех каналов, завершенное пломбой из КМХО</td>
-<td>3463,60</td>
+<td>D03.012.001</td>
+<td>Лечение периодонтита моляра с пломбированием всех каналов, завершенное пломбой из КМХО</td>
+<td>3343,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185468,13 +185439,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1960</td>
-<td>D03.016.001</td>
-<td>Лечение периодонтита первого премоляра верхней челюсти с пломбированием одного канала, завершенное пломбой из КМХО</td>
-<td>3555,99</td>
+<td>D03.013.001</td>
+<td>Лечение периодонтита большого коренного зуба с пломбированием двух каналов, завершенное пломбой из КМХО</td>
+<td>3300,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185482,13 +185453,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1961</td>
-<td>D03.017.001</td>
-<td>Лечение периодонтита однокорневого зуба, завершенное пломбой из цемента</td>
-<td>3216,83</td>
+<td>D03.014.001</td>
+<td>Лечение периодонтита моляра с пломбированием одного канала, завершенное пломбой из КМХО</td>
+<td>3648,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185496,13 +185467,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1962</td>
-<td>D03.018.001</td>
-<td>Лечение периодонтита однокорневого зуба, завершенное пломбой из КМХО</td>
-<td>2639,05</td>
+<td>D03.015.001</td>
+<td>Лечение периодонтита первого премоляра верхней челюсти с пломбированием всех каналов, завершенное пломбой из КМХО</td>
+<td>3463,60</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185510,13 +185481,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1963</td>
-<td>D03.019.001</td>
-<td>Лечение периодонтита временного или постоянного зуба импрегнационным методом, завершенное пломбой из цемента</td>
-<td>2974,74</td>
+<td>D03.016.001</td>
+<td>Лечение периодонтита первого премоляра верхней челюсти с пломбированием одного канала, завершенное пломбой из КМХО</td>
+<td>3555,99</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185524,13 +185495,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1964</td>
-<td>D03.020.001</td>
-<td>Лечение периодонтита временного или постоянного зуба импрегнационным методом, завершенное пломбой из КМХО</td>
-<td>3282,85</td>
+<td>D03.017.001</td>
+<td>Лечение периодонтита однокорневого зуба, завершенное пломбой из цемента</td>
+<td>3216,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185538,13 +185509,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1965</td>
-<td>D03.021.001</td>
-<td>Лечение периодонтита с пломбированием 1 корня постоянного зуба, завершенное пломбой из цемента</td>
-<td>2622,17</td>
+<td>D03.018.001</td>
+<td>Лечение периодонтита однокорневого зуба, завершенное пломбой из КМХО</td>
+<td>2639,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185552,13 +185523,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1966</td>
-<td>D03.022.001</td>
-<td>Лечение периодонтита с пломбированием 1 корня постоянного зуба, завершенное пломбой из КМХО</td>
-<td>2733,69</td>
+<td>D03.019.001</td>
+<td>Лечение периодонтита временного или постоянного зуба импрегнационным методом, завершенное пломбой из цемента</td>
+<td>2974,74</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185566,13 +185537,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1967</td>
-<td>D03.023.001</td>
-<td>Лечение периодонтита с пломбированием 2 корней постоянного зуба, завершенное пломбой из цемента</td>
-<td>3752,70</td>
+<td>D03.020.001</td>
+<td>Лечение периодонтита временного или постоянного зуба импрегнационным методом, завершенное пломбой из КМХО</td>
+<td>3282,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185580,13 +185551,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1968</td>
-<td>D03.024.001</td>
-<td>Лечение периодонтита с пломбированием 2 корней постоянного зуба, завершенное пломбой из КМХО</td>
-<td>4534,83</td>
+<td>D03.021.001</td>
+<td>Лечение периодонтита с пломбированием 1 корня постоянного зуба, завершенное пломбой из цемента</td>
+<td>2622,17</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185594,13 +185565,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1969</td>
-<td>D03.025.001</td>
-<td>Лечение периодонтита с пломбированием 3 корней постоянного зуба, завершенное пломбой из цемента</td>
-<td>4328,39</td>
+<td>D03.022.001</td>
+<td>Лечение периодонтита с пломбированием 1 корня постоянного зуба, завершенное пломбой из КМХО</td>
+<td>2733,69</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185608,13 +185579,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1970</td>
-<td>D03.026.001</td>
-<td>Лечение периодонтита с пломбированием 3 корней постоянного зуба, завершенное пломбой из КМХО</td>
-<td>5335,45</td>
+<td>D03.023.001</td>
+<td>Лечение периодонтита с пломбированием 2 корней постоянного зуба, завершенное пломбой из цемента</td>
+<td>3752,70</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185622,13 +185593,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1971</td>
-<td>D03.027.001</td>
-<td>Распломбирование корневого канала, запломбированного пастой на окись-цинковой основе</td>
-<td>1017,37</td>
+<td>D03.024.001</td>
+<td>Лечение периодонтита с пломбированием 2 корней постоянного зуба, завершенное пломбой из КМХО</td>
+<td>4534,83</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185636,13 +185607,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1972</td>
-<td>D03.028.001</td>
-<td>Распломбирование корневого канала, запломбированного пастой на резорцин-формалиновой основе</td>
-<td>1111,07</td>
+<td>D03.025.001</td>
+<td>Лечение периодонтита с пломбированием 3 корней постоянного зуба, завершенное пломбой из цемента</td>
+<td>4328,39</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185650,13 +185621,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1973</td>
-<td>D03.029.001</td>
-<td>Распломбирование корневого канала, запломбированного цементом</td>
-<td>2046,14</td>
+<td>D03.026.001</td>
+<td>Лечение периодонтита с пломбированием 3 корней постоянного зуба, завершенное пломбой из КМХО</td>
+<td>5335,45</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185664,13 +185635,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1974</td>
-<td>D03.030.001</td>
-<td>Лечение поверхностного и среднего кариеса I и II степени активности завершенное пломбой из цемента</td>
-<td>1746,05</td>
+<td>D03.027.001</td>
+<td>Распломбирование корневого канала, запломбированного пастой на окись-цинковой основе</td>
+<td>1017,37</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185678,13 +185649,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1975</td>
-<td>D03.031.001</td>
-<td>Лечение поверхностного и среднего кариеса I и II степени активности завершенное пломбой из КМХО</td>
-<td>1528,29</td>
+<td>D03.028.001</td>
+<td>Распломбирование корневого канала, запломбированного пастой на резорцин-формалиновой основе</td>
+<td>1111,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185692,13 +185663,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1976</td>
-<td>D03.032.001</td>
-<td>Лечение глубокого кариеса, завершенное пломбой из цемента</td>
-<td>792,62</td>
+<td>D03.029.001</td>
+<td>Распломбирование корневого канала, запломбированного цементом</td>
+<td>2046,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185706,13 +185677,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1977</td>
-<td>D03.033.001</td>
-<td>Лечение глубокого кариеса, завершенное пломбой из КМХО</td>
-<td>1311,15</td>
+<td>D03.030.001</td>
+<td>Лечение поверхностного и среднего кариеса I и II степени активности завершенное пломбой из цемента</td>
+<td>1746,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185720,13 +185691,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1978</td>
-<td>D03.034.001</td>
-<td>Комплексное лечение 1 зуба при неосложненном кариесе III степени активности, завершенное пломбой из цемента</td>
-<td>598,00</td>
+<td>D03.031.001</td>
+<td>Лечение поверхностного и среднего кариеса I и II степени активности завершенное пломбой из КМХО</td>
+<td>1528,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185734,13 +185705,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1979</td>
-<td>D03.035.001</td>
-<td>Комплексное лечение 1 зуба при неосложненном кариесе III степени активности, завершенное пломбой из КМХО</td>
-<td>808,55</td>
+<td>D03.032.001</td>
+<td>Лечение глубокого кариеса, завершенное пломбой из цемента</td>
+<td>792,62</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185748,13 +185719,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1980</td>
-<td>D03.036.001</td>
-<td>Ремтерапия под контролем окрашивания зуба или местная флюоризация</td>
-<td>609,07</td>
+<td>D03.033.001</td>
+<td>Лечение глубокого кариеса, завершенное пломбой из КМХО</td>
+<td>1311,15</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185762,13 +185733,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1981</td>
-<td>D03.037.001</td>
-<td>Извлечение инородного тела из канала коренного зуба</td>
-<td>1275,12</td>
+<td>D03.034.001</td>
+<td>Комплексное лечение 1 зуба при неосложненном кариесе III степени активности, завершенное пломбой из цемента</td>
+<td>598,00</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185776,13 +185747,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1982</td>
-<td>D03.038.001</td>
-<td>Извлечение инородного тела из фронтального зуба</td>
-<td>1236,15</td>
+<td>D03.035.001</td>
+<td>Комплексное лечение 1 зуба при неосложненном кариесе III степени активности, завершенное пломбой из КМХО</td>
+<td>808,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185790,13 +185761,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1983</td>
-<td>D03.039.001</td>
-<td>Удаление старой пломбы</td>
-<td>509,63</td>
+<td>D03.036.001</td>
+<td>Ремтерапия под контролем окрашивания зуба или местная флюоризация</td>
+<td>609,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185804,13 +185775,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1984</td>
-<td>D03.040.001</td>
-<td>Консервативное лечение при травматическом повреждении 1 зуба</td>
-<td>1271,15</td>
+<td>D03.037.001</td>
+<td>Извлечение инородного тела из канала коренного зуба</td>
+<td>1275,12</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185818,13 +185789,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1985</td>
-<td>D03.041.001</td>
-<td>Полное функциональное восстановление анатомической формы зуба при гипоплазии, флюорозе в 1 зубе КМХО</td>
-<td>3246,74</td>
+<td>D03.038.001</td>
+<td>Извлечение инородного тела из фронтального зуба</td>
+<td>1236,15</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -185832,55 +185803,55 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1986</td>
+<td>D03.039.001</td>
+<td>Удаление старой пломбы</td>
+<td>509,63</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>1987</td>
+<td>D03.040.001</td>
+<td>Консервативное лечение при травматическом повреждении 1 зуба</td>
+<td>1271,15</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>1988</td>
+<td>D03.041.001</td>
+<td>Полное функциональное восстановление анатомической формы зуба при гипоплазии, флюорозе в 1 зубе КМХО</td>
+<td>3246,74</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>1989</td>
 <td>D03.042.001</td>
 <td>Медикаментозная обработка пародонтальных карманов ирригации, орошения, аппликации</td>
 <td>449,68</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1987</td>
-<td>D03.043.001</td>
-<td>Медикаментозная обработка пародонтальных карманов ирригации, орошения, аппликации с наложением повязки на 2-5 зубов</td>
-<td>498,55</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1988</td>
-<td>D03.044.001</td>
-<td>Кюретаж парадонтального кармана в области 1 зуба</td>
-<td>1461,37</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>1989</td>
-<td>D03.045.001</td>
-<td>Кюретаж парадонтального кармана в области 1 зуба с использованием методик направленной регенерации костной ткани</td>
-<td>2770,59</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -185888,13 +185859,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1990</td>
-<td>D03.046.001</td>
-<td>Вскрытие парадонтального абсцесса (в области 1 зуба)</td>
-<td>433,45</td>
+<td>D03.043.001</td>
+<td>Медикаментозная обработка пародонтальных карманов ирригации, орошения, аппликации с наложением повязки на 2-5 зубов</td>
+<td>498,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -185902,13 +185873,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1991</td>
-<td>D03.047.001</td>
-<td>Лечение острых форм стоматита</td>
-<td>911,77</td>
+<td>D03.044.001</td>
+<td>Кюретаж парадонтального кармана в области 1 зуба</td>
+<td>1461,37</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -185916,13 +185887,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1992</td>
-<td>D03.048.001</td>
-<td>Избирательная пришлифовка (1-2 зуба)</td>
-<td>546,66</td>
+<td>D03.045.001</td>
+<td>Кюретаж парадонтального кармана в области 1 зуба с использованием методик направленной регенерации костной ткани</td>
+<td>2770,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -185930,55 +185901,55 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1993</td>
+<td>D03.046.001</td>
+<td>Вскрытие парадонтального абсцесса (в области 1 зуба)</td>
+<td>433,45</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1994</td>
+<td>D03.047.001</td>
+<td>Лечение острых форм стоматита</td>
+<td>911,77</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1995</td>
+<td>D03.048.001</td>
+<td>Избирательная пришлифовка (1-2 зуба)</td>
+<td>546,66</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>1996</td>
 <td>D03.049.001</td>
 <td>Лечение пульпита моляра, завершенное пломбой светоотвердевающей</td>
 <td>3844,01</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>0</td>
-<td></td>
-</tr>
-<tr>
-<td>1994</td>
-<td>D03.050.001</td>
-<td>Лечение периодонтита большого коренного зуба, завершенное пломбой светоотвердевающей</td>
-<td>3919,76</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>0</td>
-<td></td>
-</tr>
-<tr>
-<td>1995</td>
-<td>D03.051.001</td>
-<td>Лечение периодонтита фронтального зуба, завершенное пломбой светоотвердевающей</td>
-<td>3738,36</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>0</td>
-<td></td>
-</tr>
-<tr>
-<td>1996</td>
-<td>D03.052.001</td>
-<td>Лечение пульпита фронтального зуба в 1 посещение, завершенное пломб светоотвердевающей</td>
-<td>2665,64</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>0</td>
@@ -185986,13 +185957,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1997</td>
-<td>D03.053.001</td>
-<td>Лечение пульпита премоляра, завершенное пломбой светоотвердевающей</td>
-<td>2996,14</td>
+<td>D03.050.001</td>
+<td>Лечение периодонтита большого коренного зуба, завершенное пломбой светоотвердевающей</td>
+<td>3919,76</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>0</td>
@@ -186000,13 +185971,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1998</td>
-<td>D03.054.001</td>
-<td>Лечение периодонтита премоляра, завершенное пломбой светоотвердевающей</td>
-<td>3480,49</td>
+<td>D03.051.001</td>
+<td>Лечение периодонтита фронтального зуба, завершенное пломбой светоотвердевающей</td>
+<td>3738,36</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>0</td>
@@ -186014,13 +185985,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>1999</td>
-<td>D03.055.001</td>
-<td>Лечение глубокого кариеса, завершенное пломбой светоотвердевающей</td>
-<td>2376,51</td>
+<td>D03.052.001</td>
+<td>Лечение пульпита фронтального зуба в 1 посещение, завершенное пломб светоотвердевающей</td>
+<td>2665,64</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>0</td>
@@ -186028,13 +185999,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2000</td>
-<td>D03.056.001</td>
-<td>Лечение среднего кариеса, завершенное пломбой светоотвердевающей</td>
-<td>2104,98</td>
+<td>D03.053.001</td>
+<td>Лечение пульпита премоляра, завершенное пломбой светоотвердевающей</td>
+<td>2996,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>0</td>
@@ -186042,97 +186013,97 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2001</td>
+<td>D03.054.001</td>
+<td>Лечение периодонтита премоляра, завершенное пломбой светоотвердевающей</td>
+<td>3480,49</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>2002</td>
+<td>D03.055.001</td>
+<td>Лечение глубокого кариеса, завершенное пломбой светоотвердевающей</td>
+<td>2376,51</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>2003</td>
+<td>D03.056.001</td>
+<td>Лечение среднего кариеса, завершенное пломбой светоотвердевающей</td>
+<td>2104,98</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>2004</td>
 <td>D03.057.001</td>
 <td>Изготовление штифтовой вкладки (для дальнейшего протезирования)</td>
 <td>938,07</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
 <td></td>
 </tr>
 <tr>
-<td>2002</td>
+<td>2005</td>
 <td>D03.000.002</td>
 <td>Хирургический прием</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>2003</td>
+<td>2006</td>
 <td>D03.001.002</td>
 <td>Удаление постоянного зуба простое</td>
 <td>605,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
-<td>2004</td>
+<td>2007</td>
 <td>D03.002.002</td>
 <td>Удаление постоянного зуба сложное</td>
 <td>843,91</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2005</td>
-<td>D03.003.002</td>
-<td>Удаление постоянного зуба с вмешательством на альвеолярном отростке</td>
-<td>1646,55</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2006</td>
-<td>D03.004.002</td>
-<td>Вскрытие абсцесса, разрез или иссечение капюшона</td>
-<td>1011,79</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2007</td>
-<td>D03.005.002</td>
-<td>Перевязка после операции (стоматолог)</td>
-<td>391,44</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186140,13 +186111,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2008</td>
-<td>D03.006.002</td>
-<td>Перевязка гнойной раны с дренированием (стоматолог)</td>
-<td>1539,67</td>
+<td>D03.003.002</td>
+<td>Удаление постоянного зуба с вмешательством на альвеолярном отростке</td>
+<td>1646,55</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186154,13 +186125,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2009</td>
-<td>D03.007.002</td>
-<td>Удаление одонтогенной кисты в области 1-2 зубов</td>
-<td>3673,36</td>
+<td>D03.004.002</td>
+<td>Вскрытие абсцесса, разрез или иссечение капюшона</td>
+<td>1011,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186168,13 +186139,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2010</td>
-<td>D03.008.002</td>
-<td>Удаление одонтогенной кисты в области 3-4 зубов</td>
-<td>5300,59</td>
+<td>D03.005.002</td>
+<td>Перевязка после операции (стоматолог)</td>
+<td>391,44</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186182,13 +186153,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2011</td>
-<td>D03.009.002</td>
-<td>Вправление вывиха верхне-нижнечелюстного сустава</td>
-<td>1088,20</td>
+<td>D03.006.002</td>
+<td>Перевязка гнойной раны с дренированием (стоматолог)</td>
+<td>1539,67</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186196,27 +186167,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2012</td>
-<td>D03.010.002</td>
-<td>Временное шинирование зубов (6-8 зубов)</td>
-<td>1475,41</td>
+<td>D03.007.002</td>
+<td>Удаление одонтогенной кисты в области 1-2 зубов</td>
+<td>3673,36</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>2</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2013</td>
-<td>D03.011.002</td>
-<td>Шинирование при переломе челюстей единочелюстное</td>
-<td>1897,96</td>
+<td>D03.008.002</td>
+<td>Удаление одонтогенной кисты в области 3-4 зубов</td>
+<td>5300,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186224,13 +186195,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2014</td>
-<td>D03.012.002</td>
-<td>Шинирование при переломе челюстей двучелюстное</td>
-<td>2392,25</td>
+<td>D03.009.002</td>
+<td>Вправление вывиха верхне-нижнечелюстного сустава</td>
+<td>1088,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186238,27 +186209,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2015</td>
-<td>D03.013.002</td>
-<td>Лечение альвеолита</td>
-<td>1247,48</td>
+<td>D03.010.002</td>
+<td>Временное шинирование зубов (6-8 зубов)</td>
+<td>1475,41</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>1</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>2016</td>
-<td>D03.014.002</td>
-<td>Альвеолоэктомия в области 1 зуба</td>
-<td>960,03</td>
+<td>D03.011.002</td>
+<td>Шинирование при переломе челюстей единочелюстное</td>
+<td>1897,96</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186266,13 +186237,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2017</td>
-<td>D03.015.002</td>
-<td>Лечение неврита луночкового нерва</td>
-<td>2319,35</td>
+<td>D03.012.002</td>
+<td>Шинирование при переломе челюстей двучелюстное</td>
+<td>2392,25</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186280,13 +186251,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2018</td>
-<td>D03.016.002</td>
-<td>Лечение невралгии (стомалог)</td>
-<td>2352,85</td>
+<td>D03.013.002</td>
+<td>Лечение альвеолита</td>
+<td>1247,48</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186294,41 +186265,41 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2019</td>
-<td>D03.017.002</td>
-<td>Удаление временного зуба по смене прикуса</td>
-<td>1049,76</td>
+<td>D03.014.002</td>
+<td>Альвеолоэктомия в области 1 зуба</td>
+<td>960,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
-<td></td>
+<td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2020</td>
-<td>D03.018.002</td>
-<td>Удаление временного зуба по поводу осложнения кариеса</td>
-<td>1309,15</td>
+<td>D03.015.002</td>
+<td>Лечение неврита луночкового нерва</td>
+<td>2319,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
-<td></td>
+<td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2021</td>
-<td>D03.019.002</td>
-<td>Удаление постоянного зуба с компактостеотомией</td>
-<td>1885,45</td>
+<td>D03.016.002</td>
+<td>Лечение невралгии (стомалог)</td>
+<td>2352,85</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186336,27 +186307,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2022</td>
-<td>D03.020.002</td>
-<td>Операция пластики уздечки губ, языка</td>
-<td>1889,15</td>
+<td>D03.017.002</td>
+<td>Удаление временного зуба по смене прикуса</td>
+<td>1049,76</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
-<td>√</td>
+<td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2023</td>
-<td>D03.021.002</td>
-<td>Цистостомия (стоматолог)</td>
-<td>3974,04</td>
+<td>D03.018.002</td>
+<td>Удаление временного зуба по поводу осложнения кариеса</td>
+<td>1309,15</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
@@ -186364,97 +186335,97 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2024</td>
+<td>D03.019.002</td>
+<td>Удаление постоянного зуба с компактостеотомией</td>
+<td>1885,45</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2025</td>
+<td>D03.020.002</td>
+<td>Операция пластики уздечки губ, языка</td>
+<td>1889,15</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2026</td>
+<td>D03.021.002</td>
+<td>Цистостомия (стоматолог)</td>
+<td>3974,04</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2027</td>
 <td>D03.022.002</td>
 <td>Цистоэктомия (стоматолог)</td>
 <td>4143,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
-<td>2025</td>
+<td>2028</td>
 <td>D03.023.002</td>
 <td>Компактостеотомия в области 2 зубов</td>
 <td>2055,08</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
 <td></td>
 </tr>
 <tr>
-<td>2026</td>
+<td>2029</td>
 <td>D03.024.002</td>
 <td>Резекция верхушки корня зуба</td>
 <td>2615,70</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
 <td></td>
 </tr>
 <tr>
-<td>2027</td>
+<td>2030</td>
 <td>D03.025.002</td>
 <td>Иссечение мягких тканей полости рта</td>
 <td>1845,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2028</td>
-<td>D03.026.002</td>
-<td>Удаление эпулиса</td>
-<td>1845,59</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2029</td>
-<td>D03.027.002</td>
-<td>Удаление ретенционной кисты слизистой оболочки полости рта</td>
-<td>2101,97</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2030</td>
-<td>D03.028.002</td>
-<td>Удаление сверхкомплектного зуба, осложненный</td>
-<td>1983,97</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186462,27 +186433,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2031</td>
-<td>D03.029.002</td>
-<td>Удаление сверхкомплектного зуба, не осложненный</td>
-<td>1562,53</td>
+<td>D03.026.002</td>
+<td>Удаление эпулиса</td>
+<td>1845,59</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>2</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2032</td>
-<td>D03.030.002</td>
-<td>Удаление нескольких зубов в одной зоне (2-3 зуба)</td>
-<td>1838,79</td>
+<td>D03.027.002</td>
+<td>Удаление ретенционной кисты слизистой оболочки полости рта</td>
+<td>2101,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186490,13 +186461,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2033</td>
-<td>D03.031.002</td>
-<td>Удаление доброкачественных новообразований альвеолярного отростка</td>
-<td>1632,08</td>
+<td>D03.028.002</td>
+<td>Удаление сверхкомплектного зуба, осложненный</td>
+<td>1983,97</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186504,27 +186475,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2034</td>
-<td>D03.032.002</td>
-<td>Удаление новообразований мягких тканей полости рта</td>
-<td>2100,73</td>
+<td>D03.029.002</td>
+<td>Удаление сверхкомплектного зуба, не осложненный</td>
+<td>1562,53</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>1</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>2035</td>
-<td>D03.033.002</td>
-<td>Лечение заболеваний слюнных желез: зондирование протока слюнных желез</td>
-<td>770,35</td>
+<td>D03.030.002</td>
+<td>Удаление нескольких зубов в одной зоне (2-3 зуба)</td>
+<td>1838,79</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186532,13 +186503,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2036</td>
-<td>D03.034.002</td>
-<td>Первичная хирургическая обработка раны челюстно-лицевой области</td>
-<td>1469,50</td>
+<td>D03.031.002</td>
+<td>Удаление доброкачественных новообразований альвеолярного отростка</td>
+<td>1632,08</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186546,13 +186517,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2037</td>
-<td>D03.035.002</td>
-<td>Операция пластики преддверия полости рта</td>
-<td>3697,73</td>
+<td>D03.032.002</td>
+<td>Удаление новообразований мягких тканей полости рта</td>
+<td>2100,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186560,41 +186531,41 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2038</td>
-<td>D03.036.002</td>
-<td>Репозиция и фиксация зуба при его вывихе с пришлифовкой</td>
-<td>1797,82</td>
+<td>D03.033.002</td>
+<td>Лечение заболеваний слюнных желез: зондирование протока слюнных желез</td>
+<td>770,35</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>2</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2039</td>
-<td>D03.037.002</td>
-<td>Ортодонтическая помощь детям с врожденной патологией челюстно-лицевой области с использованием аппарата для устранения зубочелюстных аномалий (ортодонтическая пластика)</td>
-<td>3902,63</td>
+<td>D03.034.002</td>
+<td>Первичная хирургическая обработка раны челюстно-лицевой области</td>
+<td>1469,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
-<td></td>
+<td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2040</td>
-<td>D03.038.002</td>
-<td>Гемисекция</td>
-<td>767,41</td>
+<td>D03.035.002</td>
+<td>Операция пластики преддверия полости рта</td>
+<td>3697,73</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186602,69 +186573,69 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2041</td>
-<td>D03.000.003</td>
-<td>Профилактический прием</td>
+<td>D03.036.002</td>
+<td>Репозиция и фиксация зуба при его вывихе с пришлифовкой</td>
+<td>1797,82</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>2042</td>
-<td>D03.001.003</td>
-<td>Миотерапия (1 сеанс)</td>
-<td>854,20</td>
+<td>D03.037.002</td>
+<td>Ортодонтическая помощь детям с врожденной патологией челюстно-лицевой области с использованием аппарата для устранения зубочелюстных аномалий (ортодонтическая пластика)</td>
+<td>3902,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>2043</td>
-<td>D03.002.003</td>
-<td>Местное применение реминерализующих препаратов</td>
-<td>617,78</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td></td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>2044</td>
-<td>D03.003.003</td>
-<td>Покрытие фторлаком молочных зубов</td>
-<td>622,75</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
+<td>2043</td>
+<td>D03.038.002</td>
+<td>Гемисекция</td>
+<td>767,41</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2044</td>
+<td>D03.000.003</td>
+<td>Профилактический прием</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>2045</td>
-<td>D03.004.003</td>
-<td>Сеанс аппликации фтор-цементом в одном зубе</td>
-<td>515,93</td>
+<td>D03.001.003</td>
+<td>Миотерапия (1 сеанс)</td>
+<td>854,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186672,13 +186643,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2046</td>
-<td>D03.005.003</td>
-<td>Сошлифовывание бугров временных зубов</td>
-<td>526,90</td>
+<td>D03.002.003</td>
+<td>Местное применение реминерализующих препаратов</td>
+<td>617,78</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186686,27 +186657,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2047</td>
-<td>D03.006.003</td>
-<td>Закрытие фиссур герметиками в одном зубе</td>
-<td>598,14</td>
+<td>D03.003.003</td>
+<td>Покрытие фторлаком молочных зубов</td>
+<td>622,75</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
-<td>2</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2048</td>
-<td>D03.007.003</td>
-<td>Сепарация временных зубов</td>
-<td>576,63</td>
+<td>D03.004.003</td>
+<td>Сеанс аппликации фтор-цементом в одном зубе</td>
+<td>515,93</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td></td>
 <td>2</td>
@@ -186714,139 +186685,139 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2049</td>
+<td>D03.005.003</td>
+<td>Сошлифовывание бугров временных зубов</td>
+<td>526,90</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>2050</td>
+<td>D03.006.003</td>
+<td>Закрытие фиссур герметиками в одном зубе</td>
+<td>598,14</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>2051</td>
+<td>D03.007.003</td>
+<td>Сепарация временных зубов</td>
+<td>576,63</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>2052</td>
 <td>D03.008.003</td>
 <td>Профилактические осмотры полости рта детей в детских дошкольных образовательных организациях, учащихся средних общеобразовательных организаций, женщин, вставших на учет по беременности</td>
 <td>780,64</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2">√</td>
 <td>√</td>
-<td>√</td>
-<td></td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2050</td>
-<td>D03.009.003</td>
-<td>Обучение детей санитарно-гигиеническим навыкам по уходу за зубами и слизистой оболочкой полости рта</td>
-<td>325,71</td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td></td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2051</td>
-<td>D04.000.000</td>
-<td>Мероприятия ЗОЖ</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2052</td>
-<td>D04.001.000</td>
-<td>Обучение в профилактических кабинетах, школах оздоровления</td>
-<td>1244,18</td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td></td>
 <td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2053</td>
-<td>D04.002.000</td>
-<td>Обучение больных и членов их семей самоконтролю, само-и взаимопомощи в соответствии с программами управления хроническими заболеваниями</td>
-<td>469,90</td>
+<td>D03.009.003</td>
+<td>Обучение детей санитарно-гигиеническим навыкам по уходу за зубами и слизистой оболочкой полости рта</td>
+<td>325,71</td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2">√</td>
 <td>√</td>
-<td></td>
 <td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2054</td>
-<td>D04.003.000</td>
-<td>Консультация по телефону «Горячей линии»</td>
-<td>435,67</td>
+<td>D04.000.000</td>
+<td>Мероприятия ЗОЖ</td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2055</td>
+<td>D04.001.000</td>
+<td>Обучение в профилактических кабинетах, школах оздоровления</td>
+<td>1244,18</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">√</td>
 <td></td>
 <td></td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
-<td>2055</td>
+<td>2056</td>
+<td>D04.002.000</td>
+<td>Обучение больных и членов их семей самоконтролю, само-и взаимопомощи в соответствии с программами управления хроническими заболеваниями</td>
+<td>469,90</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">√</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2057</td>
+<td>D04.003.000</td>
+<td>Консультация по телефону «Горячей линии»</td>
+<td>435,67</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">√</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2058</td>
 <td></td>
 <td>СКРИНИНГОВЫЕ ИССЛЕДОВАНИЯ</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2056</td>
-<td></td>
-<td>Пренатальный скрининг</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2057</td>
-<td>B03.549.002</td>
-<td>Проведение пренатального скрининга в сыворотке крови и\или в сухих пятнах крови в 1 триместре беременности (двойной тест для определение плацентарного протеина, связанного с беременностью (ПАПП-А) и β-единицы хорионического гонадотропина (β-ХГЧ) на анализаторе</td>
-<td>5354,14</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>2</td>
-<td>√</td>
-</tr>
-<tr>
-<td>2058</td>
-<td></td>
-<td>Неонатальный скрининг</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -186854,41 +186825,41 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2059</td>
-<td>B03.803.002</td>
-<td>Проведение неонатального скрининга крови на врожденный гипотиреоз на анализаторе</td>
-<td>2232,29</td>
+<td></td>
+<td>Пренатальный скрининг</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>2060</td>
-<td>B03.804.002</td>
-<td>Проведение неонатального скрининга крови на фенилкетонурию на анализаторе</td>
-<td>2140,03</td>
+<td>B03.549.002</td>
+<td>Проведение пренатального скрининга в сыворотке крови и\или в сухих пятнах крови в 1 триместре беременности (двойной тест для определение плацентарного протеина, связанного с беременностью (ПАПП-А) и β-единицы хорионического гонадотропина (β-ХГЧ) на анализаторе</td>
+<td>5354,14</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
-<td>1</td>
-<td></td>
+<td>2</td>
+<td>√</td>
 </tr>
 <tr>
 <td>2061</td>
 <td></td>
-<td>Скрининг на выявление колоректального рака</td>
+<td>Неонатальный скрининг</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -186896,13 +186867,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2062</td>
-<td>B03.103.003</td>
-<td>Обнаружение скрытой крови в кале (гемокульт-тест) экспресс методом</td>
-<td>1170,57</td>
+<td>B03.803.002</td>
+<td>Проведение неонатального скрининга крови на врожденный гипотиреоз на анализаторе</td>
+<td>2232,29</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186910,13 +186881,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2063</td>
-<td>C01.037.001</td>
-<td>Тотальная видеоколоноскопия скрининговая</td>
-<td>7408,87</td>
+<td>B03.804.002</td>
+<td>Проведение неонатального скрининга крови на фенилкетонурию на анализаторе</td>
+<td>2140,03</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186924,27 +186895,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2064</td>
-<td>C01.027.001</td>
-<td>Эндоскопическая щипковая биопсия</td>
-<td>280,01</td>
+<td></td>
+<td>Скрининг на выявление колоректального рака</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>2065</td>
-<td>B08.737.001</td>
-<td>Гистологическое исследование 1 блок-препарата операционно-биопсийного материала 3 категории сложности</td>
-<td>2424,05</td>
+<td>B03.103.003</td>
+<td>Обнаружение скрытой крови в кале (гемокульт-тест) экспресс методом</td>
+<td>1170,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186952,13 +186923,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2066</td>
-<td>D99.295.007</td>
-<td>Наркоз внутривенный</td>
-<td>1986,58</td>
+<td>C01.037.001</td>
+<td>Тотальная видеоколоноскопия скрининговая</td>
+<td>7408,87</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186966,27 +186937,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2067</td>
-<td></td>
-<td>Скрининг на выявление рака шейки матки</td>
-<td></td>
-<td></td>
-<td></td>
+<td>C01.027.001</td>
+<td>Эндоскопическая щипковая биопсия</td>
+<td>280,01</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2068</td>
-<td>D91.496.105</td>
-<td>Забор мазка на онкоцитологию</td>
-<td>124,21</td>
+<td>B08.737.001</td>
+<td>Гистологическое исследование 1 блок-препарата операционно-биопсийного материала 3 категории сложности</td>
+<td>2424,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -186994,13 +186965,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2069</td>
-<td>B08.749.002</td>
-<td>Цитологическое исследование мазка из шейки матки ПАП-тест на аппарате жидкостной цитологии</td>
-<td>3703,20</td>
+<td>D99.295.007</td>
+<td>Наркоз внутривенный</td>
+<td>1986,58</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187009,12 +186980,12 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <tr>
 <td>2070</td>
 <td></td>
-<td>Скрининг на выявление гепатитов В и С (дети, взрослые)</td>
+<td>Скрининг на выявление рака шейки матки</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -187022,13 +186993,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2071</td>
-<td>D99.293.012</td>
-<td>Забор крови из вены</td>
-<td>138,91</td>
-<td>2</td>
+<td>D91.496.105</td>
+<td>Забор мазка на онкоцитологию</td>
+<td>124,21</td>
 <td></td>
 <td></td>
-<td>√</td>
+<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187036,13 +187007,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2072</td>
-<td>B06.125.005</td>
-<td>Определение HBsAg в сыворотке крови ИФА-методом</td>
-<td>411,20</td>
+<td>B08.749.002</td>
+<td>Цитологическое исследование мазка из шейки матки ПАП-тест на аппарате жидкостной цитологии</td>
+<td>3703,20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187050,111 +187021,111 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2073</td>
+<td></td>
+<td>Скрининг на выявление гепатитов В и С (дети, взрослые)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2074</td>
+<td>D99.293.012</td>
+<td>Забор крови из вены</td>
+<td>138,91</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2">√</td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2075</td>
+<td>B06.125.005</td>
+<td>Определение HBsAg в сыворотке крови ИФА-методом</td>
+<td>411,20</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2076</td>
 <td>B06.469.005</td>
 <td>Определение суммарных антител к вирусу гепатита C в сыворотке крови ИФА-методом</td>
 <td>445,23</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
-<td>2074</td>
+<td>2077</td>
 <td>B09.841.020</td>
 <td>Обнаружение вируса гепатита B в биологическом материале методом ПЦР качественное</td>
 <td>1852,98</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
 <td>√</td>
 </tr>
 <tr>
-<td>2075</td>
+<td>2078</td>
 <td>B09.820.020</td>
 <td>Обнаружение РНК вируса гепатита C в биологическом материале методом ПЦР качественное</td>
 <td>2548,09</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>2</td>
 <td>√</td>
 </tr>
 <tr>
-<td>2076</td>
+<td>2079</td>
 <td></td>
 <td>Скрининг на выявление рака молочной железы</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>2077</td>
+<td>2080</td>
 <td>C03.018.004</td>
 <td>УЗИ молочных желёз</td>
 <td>1378,88</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2078</td>
-<td>C03.084.005</td>
-<td>Прицельная маммография (1 проекция)</td>
-<td>2016,42</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2079</td>
-<td>D99.294.006</td>
-<td>Анестезия инфильтративная</td>
-<td>1330,50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
-<td>√</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>2080</td>
-<td>D41.312.427</td>
-<td>Трепанобиопсия</td>
-<td>8644,38</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187162,13 +187133,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2081</td>
-<td>B08.737.001</td>
-<td>Гистологическое исследование 1 блок-препарата операционно-биопсийного материала 3 категории сложности</td>
-<td>2424,05</td>
+<td>C03.084.005</td>
+<td>Прицельная маммография (1 проекция)</td>
+<td>2016,42</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187176,13 +187147,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2082</td>
-<td>A02.074.000</td>
-<td>Консультация (2 читка рентгенограммы): Рентгенолог</td>
-<td>305,36</td>
+<td>D99.294.006</td>
+<td>Анестезия инфильтративная</td>
+<td>1330,50</td>
 <td></td>
 <td></td>
-<td>√</td>
 <td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187190,27 +187161,27 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2083</td>
-<td></td>
-<td>Скрининг на раннее выявление Артериальной гипертензии, Ишемической болезни сердца</td>
-<td></td>
-<td></td>
-<td></td>
+<td>D41.312.427</td>
+<td>Трепанобиопсия</td>
+<td>8644,38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>2084</td>
-<td>B03.401.003</td>
-<td>Определение общего холестерина в сыворотке крови экспресс методом</td>
-<td>603,99</td>
+<td>B08.737.001</td>
+<td>Гистологическое исследование 1 блок-препарата операционно-биопсийного материала 3 категории сложности</td>
+<td>2424,05</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187218,13 +187189,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2085</td>
-<td>A02.015.000</td>
-<td>Консультация: Кардиолог</td>
-<td>885,80</td>
+<td>A02.074.000</td>
+<td>Консультация (2 читка рентгенограммы): Рентгенолог</td>
+<td>305,36</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187232,41 +187203,41 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2086</td>
-<td>C02.001.000</td>
-<td>Электрокардиографическое исследование (в 12 отведениях)</td>
-<td>462,13</td>
+<td></td>
+<td>Скрининг на раннее выявление Артериальной гипертензии, Ишемической болезни сердца</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2087</td>
+<td>B03.401.003</td>
+<td>Определение общего холестерина в сыворотке крови экспресс методом</td>
+<td>603,99</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
-<td>2087</td>
-<td></td>
-<td>Скрининг на раннее выявление сахарного диабета</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>2088</td>
-<td>A02.021.000</td>
-<td>Консультация: Эндокринолог</td>
-<td>900,30</td>
+<td>A02.015.000</td>
+<td>Консультация: Кардиолог</td>
+<td>885,80</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187274,13 +187245,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2089</td>
-<td>B03.335.003</td>
-<td>Определение глюкозы в сыворотке крови экспресс методом</td>
-<td>81,57</td>
+<td>C02.001.000</td>
+<td>Электрокардиографическое исследование (в 12 отведениях)</td>
+<td>462,13</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187289,12 +187260,12 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <tr>
 <td>2090</td>
 <td></td>
-<td>Скрининг детей раннего возраста на выявление врожденной и наследственной патологии слуха</td>
+<td>Скрининг на раннее выявление сахарного диабета</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -187302,13 +187273,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2091</td>
-<td>D95.470.223</td>
-<td>Регистрация задержанной вызванной отоакустической эмиссии</td>
-<td>147,63</td>
+<td>A02.021.000</td>
+<td>Консультация: Эндокринолог</td>
+<td>900,30</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187316,41 +187287,41 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2092</td>
-<td></td>
-<td>Скрининг на раннее выявление глаукомы</td>
-<td></td>
-<td></td>
-<td></td>
+<td>B03.335.003</td>
+<td>Определение глюкозы в сыворотке крови экспресс методом</td>
+<td>81,57</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2093</td>
-<td>D89.111.331</td>
-<td>Измерение внутриглазного давления по Маклакову</td>
-<td>517,17</td>
-<td></td>
-<td></td>
-<td></td>
-<td>√</td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
 <td></td>
 </tr>
 <tr>
+<td>2093</td>
+<td></td>
+<td>Скрининг детей раннего возраста на выявление врожденной и наследственной патологии слуха</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>2094</td>
-<td>D89.113.338</td>
-<td>Бесконтактная пневмотонометрия</td>
-<td>281,80</td>
+<td>D95.470.223</td>
+<td>Регистрация задержанной вызванной отоакустической эмиссии</td>
+<td>147,63</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187358,13 +187329,55 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>2095</td>
+<td></td>
+<td>Скрининг на раннее выявление глаукомы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2096</td>
+<td>D89.111.331</td>
+<td>Измерение внутриглазного давления по Маклакову</td>
+<td>517,17</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">√</td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2097</td>
+<td>D89.113.338</td>
+<td>Бесконтактная пневмотонометрия</td>
+<td>281,80</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>√</td>
+<td>√</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2098</td>
 <td>A02.023.000</td>
 <td>Консультация: Офтальмолог</td>
 <td>800,62</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>√</td>
 <td>√</td>
 <td>1</td>
@@ -187388,11 +187401,16 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 
 ***0 - услуга не включена в ГОБМП; 1 - услуга включена в ГОБМП; 2 - услуга включена в ГОБМП для отдельных категорий населения, определенных постановлением Правительства Республики Казахстан от 15 декабря 2009 года № 2136 «Об утверждении перечня гарантированного объема бесплатной медицинской помощи».
 
-> *Приложение 1 к Тарифам на медицинские услуги, оказываемые в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования*
+> *Приложение 1*  
+> *к Тарифам на медицинские*  
+> *услуги, оказываемые в рамках*  
+> *гарантированного объема*  
+> *бесплатной медицинской помощи*  
+> *и в системе обязательного*  
+> *социального медицинского*  
+> *страхования*
 
 ## Коэффициенты продолжительности отопительного сезона
-
-> *Сноска. Приложение 1 в редакции приказа Министра здравоохранения РК от 06.11.2018 № ҚР ДСМ-31 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -187487,15 +187505,20 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <tr>
 <td>17</td>
 <td>51</td>
-<td>г. Шымкент</td>
+<td>г.Шымкент</td>
 </tr>
 </table>
 
-> *Приложение 2 к Тарифам на медицинские услуги, оказываемые в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования*
+> *Приложение 2*  
+> *к Тарифам на медицинские*  
+> *услуги, оказываемые в рамках*  
+> *гарантированного объема*  
+> *бесплатной медицинской помощи*  
+> *и в системе обязательного*  
+> *социального медицинского*  
+> *страхования*
 
 ## Экологические коэффициенты
-
-> *Сноска. Приложение 2 в редакции приказа Министра здравоохранения РК от 06.11.2018 № ҚР ДСМ-31 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -187780,7 +187803,13 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </table>
 
 > *Приложение 3*  
-> *к тарифам на медицинские услуги, оказываемые в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования*
+> *к тарифам на медицинские*  
+> *услуги, оказываемые в рамках*  
+> *гарантированного объема*  
+> *бесплатной медицинской помощи*  
+> *и в системе обязательного*  
+> *социального медицинского*  
+> *страхования*
 
 ## Тариф для медицинских организаций, имеющих свидетельство о прохождении аккредитации по стандартам Международной объединенной комиссии (JCI, США), к тарифам на медицинские услуги в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования
 
@@ -188330,141 +188359,134 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 
 ## Тарифы на медицинские услуги, оказываемые в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования, возмещение затрат на которые осуществляется по проведению исследований компонентов крови и услуги в области иммунологического типирования тканей (HLA-исследования), референс-исследований в службе крови, выделению гемопоэтических стволовых клеток из плацентарной крови и по производству компонентов донорской крови*
 
+> *Сноска. Тарифы в редакции приказа Министра здравоохранения РК от 25.12.2018 № ҚР ДСМ-45 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 <table>
 <tr>
 <td>№ п/п</td>
-<td colspan="2">Наименование компонента крови</td>
+<td>Наименование компонента крови</td>
 <td>Единица измерения</td>
 <td>Стоимость, тенге</td>
 </tr>
 <tr>
 <td>1</td>
-<td colspan="2">2</td>
+<td>2</td>
 <td>3</td>
 <td>4</td>
 </tr>
 <tr>
 <td>1</td>
-<td colspan="2">Эритроцитная масса лейкофильтрованная</td>
+<td>Эритроцитная масса лейкофильтрованная</td>
 <td>доза</td>
 <td>26 572</td>
 </tr>
 <tr>
 <td>2</td>
-<td colspan="2">Эритроцитная взвесь лейкофильтрованная</td>
+<td>Эритроцитная взвесь лейкофильтрованная</td>
 <td>доза</td>
 <td>28 752</td>
 </tr>
 <tr>
 <td>3</td>
-<td colspan="2">Эритроцитная взвесь лейкофильтрованная с уменьшенным объемом</td>
+<td>Эритроцитная взвесь лейкофильтрованная с уменьшенным объемом</td>
 <td>доза</td>
 <td>28 806</td>
 </tr>
 <tr>
 <td>4</td>
-<td colspan="2">Эритроцитная взвесь лейкофильтрованная облученная</td>
+<td>Эритроцитная взвесь лейкофильтрованная облученная</td>
 <td>доза</td>
 <td>28 868</td>
 </tr>
 <tr>
 <td>5</td>
-<td colspan="2">Эритроцитная взвесь лейкофильтрованная облученная с уменьшенным объемом</td>
+<td>Эритроцитная взвесь лейкофильтрованная облученная с уменьшенным объемом</td>
 <td>доза</td>
 <td>28 922</td>
 </tr>
 <tr>
 <td>6</td>
-<td colspan="2">Эритроциты отмытые лейкофильтрованные</td>
+<td>Эритроциты отмытые лейкофильтрованные</td>
 <td>доза</td>
 <td>30 014</td>
 </tr>
 <tr>
 <td>7</td>
-<td colspan="2">Эритроциты отмытые лейкофильтрованные облученные</td>
+<td>Эритроциты отмытые лейкофильтрованные облученные</td>
 <td>доза</td>
 <td>30 130</td>
 </tr>
 <tr>
 <td>8</td>
-<td colspan="2">Эритроциты криоконсервированные восстановленные</td>
+<td>Эритроциты криоконсервированные восстановленные</td>
 <td>доза</td>
 <td>208 089</td>
 </tr>
 <tr>
 <td>9</td>
-<td colspan="2">Свежезамороженная плазма карантинизированная</td>
+<td>Свежезамороженная плазма карантинизированная</td>
 <td>доза</td>
 <td>33 353</td>
 </tr>
 <tr>
 <td>10</td>
-<td colspan="2">Свежезамороженная плазма лейкофильтрованная</td>
+<td>Свежезамороженная плазма лейкофильтрованная</td>
 <td>доза</td>
 <td>24 610</td>
 </tr>
 <tr>
 <td>11</td>
-<td colspan="2">Свежезамороженная плазма лейкофильтрованная карантинизированная</td>
+<td>Свежезамороженная плазма лейкофильтрованная карантинизированная</td>
 <td>доза</td>
 <td>42 863</td>
 </tr>
 <tr>
 <td>12</td>
-<td colspan="2">Свежезамороженная плазма лейкофильтрованная вирусинактивированная</td>
+<td>Свежезамороженная плазма лейкофильтрованная вирусинактивированная</td>
 <td>доза</td>
 <td>69 746</td>
 </tr>
 <tr>
 <td>13</td>
-<td colspan="2">Свежезамороженная плазма аферезная</td>
+<td>Свежезамороженная плазма аферезная</td>
 <td>доза</td>
 <td>25 008</td>
 </tr>
 <tr>
 <td>14</td>
-<td colspan="2">Свежезамороженная плазма аферезная карантинизированная</td>
+<td>Свежезамороженная плазма аферезная карантинизированная</td>
 <td>доза</td>
 <td>42 252</td>
 </tr>
 <tr>
 <td>15</td>
-<td colspan="2">Свежезамороженная плазма аферезная вирусинактивированная</td>
+<td>Свежезамороженная плазма аферезная вирусинактивированная</td>
 <td>доза</td>
 <td>61 516</td>
 </tr>
 <tr>
 <td>16</td>
-<td colspan="2">Свежезамороженная плазма аферезная карантинизированная, малая доза</td>
+<td>Свежезамороженная плазма аферезная карантинизированная, малая доза</td>
 <td>доза</td>
 <td>29 724</td>
 </tr>
 <tr>
 <td>17</td>
-<td colspan="2">Свежезамороженная плазма аферезная вирусинактивированная, малая доза</td>
+<td>Свежезамороженная плазма аферезная вирусинактивированная, малая доза</td>
 <td>доза</td>
 <td>26 535</td>
 </tr>
 <tr>
-<td colspan="2">18</td>
+<td>18</td>
 <td>Свежезамороженная плазма аферезная иммунная</td>
 <td>доза</td>
 <td>35 988</td>
 </tr>
 <tr>
-<td colspan="2">19</td>
+<td>19</td>
 <td>Свежезамороженная плазма аферезная иммунная карантинизированная</td>
 <td>доза</td>
 <td>51 328</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
 </tr>
 <tr>
 <td>20</td>
@@ -188712,6 +188734,30 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <td>услуга</td>
 <td>36 747</td>
 </tr>
+<tr>
+<td>61</td>
+<td>Пулированная свежезамороженная плазма монодонорская лейкофильтрованная, вирусинактивированная</td>
+<td>доза</td>
+<td>64 297</td>
+</tr>
+<tr>
+<td>62</td>
+<td>Пулированная свежезамороженная плазма полидонорская лейкофильтрованная, вирусинактивированная</td>
+<td>доза</td>
+<td>64 297</td>
+</tr>
+<tr>
+<td>63</td>
+<td>Пулированная свежезамороженная плазма монодонорская аферезная лейкофильтрованная, вирусинактивированная</td>
+<td>доза</td>
+<td>66 767</td>
+</tr>
+<tr>
+<td>64</td>
+<td>Пулированная свежезамороженная плазма полидонорская аферезная лейкофильтрованная, вирусинактивированная</td>
+<td>доза</td>
+<td>66 767</td>
+</tr>
 </table>
 
 Примечание:
@@ -188723,7 +188769,23 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 Коэффициент на содержание здания к стоимости компонентов крови, производимых организациями службы крови, согласно приложению 2 к настоящим тарифам на компоненты крови.
 
 > *Приложение 1*  
-> *к тарифам на медицинские услуги, оказываемые в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования, возмещение затрат на которые осуществляется по проведению исследований компонентов крови и услуги в области иммунологического типирования тканей (HLA-исследования), референс-исследований в службе крови, выделению гемопоэтических стволовых клеток из плацентарной крови и по производству компонентов донорской крови*
+> *к Тарифам на медицинские*  
+> *услуги, оказываемые в рамках*  
+> *гарантированного объема бесплатной*  
+> *медицинской помощи и в системе*  
+> *обязательного социального*  
+> *медицинского страхования,*  
+> *возмещение затрат на которые*  
+> *осуществляется по проведению*  
+> *исследований компонентов крови и*  
+> *услуги в области иммунологического*  
+> *типирования тканей*  
+> *(HLA-исследования), референс-*  
+> *исследований в службе крови,*  
+> *выделению гемопоэтических*  
+> *стволовых клеток из плацентарной*  
+> *крови и по производству*  
+> *компонентов донорской крови*
 
 ## Экологические коэффициенты к стоимости компонентов крови, производимых организациями службы крови
 
@@ -188758,7 +188820,23 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </table>
 
 > *Приложение 2*  
-> *к тарифам на медицинские услуги, оказываемые в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования, возмещение затрат на которые осуществляется по проведению исследований компонентов крови и услуги в области иммунологического типирования тканей (HLA-исследования), референс-исследований в службе крови, выделению гемопоэтических стволовых клеток из плацентарной крови и по производству компонентов донорской крови*
+> *к Тарифам на медицинские услуги,*  
+> *оказываемые в рамках*  
+> *гарантированного объема бесплатной*  
+> *медицинской помощи и в системе*  
+> *обязательного социального*  
+> *медицинского страхования,*  
+> *возмещение затрат на которые*  
+> *осуществляется по проведению*  
+> *исследований компонентов крови и*  
+> *услуги в области иммунологического*  
+> *типирования тканей*  
+> *(HLA-исследования), референс-*  
+> *исследований в службе крови,*  
+> *выделению гемопоэтических*  
+> *стволовых клеток из плацентарной*  
+> *крови и по производству*  
+> *компонентов донорской крови*
 
 ## Коэффициент на содержание здания к стоимости компонентов крови, производимых организациями службы крови
 
@@ -189009,13 +189087,19 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 
 ## Комплексный тариф на медицинские услуги, оказываемые в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования, возмещение затрат на которые осуществляется на одного больного с психическими и поведенческими расстройствами, вызванными употреблением психоактивных веществ в месяц, зарегистрированного в Регистре наркологических больных в разрезе регионов
 
-> *Сноска. Комплексный тариф в редакции приказа Министра здравоохранения РК от 06.11.2018 № ҚР ДСМ-31 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Комплексный тариф в редакции приказа Министра здравоохранения РК от 25.12.2018 № ҚР ДСМ-45 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td>№ п/п</td>
+<td>
+№
+п/п
+</td>
 <td>Наименование регионов</td>
-<td>Комплексный тариф (тенге)</td>
+<td>
+Комплексный тариф
+(тенге)
+</td>
 </tr>
 <tr>
 <td>1</td>
@@ -189065,7 +189149,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <tr>
 <td>10</td>
 <td>Кызылординская область</td>
-<td>7 522,26</td>
+<td>9 279,96</td>
 </tr>
 <tr>
 <td>11</td>
@@ -189113,9 +189197,14 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 
 ## Тариф для медицинских организаций (соисполнителей), оказывающих медицинскую помощь в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования, возмещение затрат на которые осуществляется больным с психическими и поведенческими расстройствами
 
+> *Сноска. Тариф в редакции приказа Министра здравоохранения РК от 25.12.2018 № ҚР ДСМ-45 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 <table>
 <tr>
-<td>№ п/п</td>
+<td>
+№
+п/п
+</td>
 <td>Наименование медицинских организаций</td>
 <td>Тариф за один койко-день (тенге)</td>
 </tr>
@@ -189137,60 +189226,50 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <tr>
 <td>4</td>
 <td>КГКП «Восточно-Казахстанская психиатрическая больница села Ново-Канайка» Управления здравоохранения Восточно-Казахстанской области</td>
-<td>2 941,18</td>
+<td>5 287,54</td>
 </tr>
 <tr>
 <td>5</td>
 <td>КГКП «Психиатрический диспансер города Риддер» Управления здравоохранения Восточно-Казахстанской области</td>
-<td>7 939,31</td>
+<td>6 971,82</td>
 </tr>
 <tr>
 <td>6</td>
 <td>КГКП «Психиатрический диспансер Зыряновского района» Управления здравоохранения Восточно-Казахстанской области</td>
-<td>8 871,63</td>
+<td>4 986,69</td>
 </tr>
 <tr>
 <td>7</td>
 <td>КГКП «Психиатрический диспансер города Семей» Управления здравоохранения Восточно-Казахстанской области</td>
-<td>4 795,47</td>
+<td>6 236,36</td>
 </tr>
 <tr>
 <td>8</td>
 <td>КГКП «Психиатрическая больница п.Шульбинск» Управления здравоохранения Восточно-Казахстанской области</td>
-<td>3 822,12</td>
+<td>4 356,80</td>
 </tr>
 <tr>
 <td>9</td>
-<td>КГКП «Зайсанская центральная районная больница» Управления здравоохранения Восточно-Казахстанской области</td>
-<td>2 849,37</td>
-</tr>
-<tr>
-<td>10</td>
-<td>КГКП Областной детский психоневрологический диспансер Управления здравоохранения Карагандинской области</td>
-<td>8 416,63</td>
-</tr>
-<tr>
-<td>11</td>
 <td>КГКП «Рудненская городская психиатрическая больница» Управления здравоохранения Костанайской области</td>
 <td>6 458,57</td>
 </tr>
 <tr>
-<td>12</td>
+<td>10</td>
 <td>КГКП «Аркалыкский городской психоневрологический диспансер» Управления здравоохранения Костанайской области</td>
 <td>5 781,76</td>
 </tr>
 <tr>
-<td>13</td>
+<td>11</td>
 <td>КГП «Житикаринская центральная районная больница» Управления здравоохранения Костанайской области</td>
 <td>4 091,98</td>
 </tr>
 <tr>
-<td>14</td>
+<td>12</td>
 <td>КГП на ПХВ «Шиелийская центральная районная больница с амбулаторно-поликлинической услугой» Управления здравоохранения Кызылординской области</td>
 <td>5 633,43</td>
 </tr>
 <tr>
-<td>15</td>
+<td>13</td>
 <td>КГП на ПХВ «Аральская центральная районная больница с амбулаторно-поликлинической услугой» Управления здравоохранения Кызылординской области</td>
 <td>6 859,17</td>
 </tr>
@@ -189203,17 +189282,25 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 > *от 5 сентября 2018 года*  
 > *№ ҚР ДСМ-10*
 
-Тариф для медицинских организаций (соисполнителей), оказывающих медицинскую помощь в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования, возмещение затрат на которые осуществляется больным с психическими и поведенческими расстройствами, вызванными употреблением психоактивных веществ
+## Тариф для медицинских организаций (соисполнителей), оказывающих медицинскую помощь в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования, возмещение затрат на которые осуществляется больным с психическими и поведенческими расстройствами, вызванными употреблением психоактивных веществ
+
+> *Сноска. Тариф в редакции приказа Министра здравоохранения РК от 25.12.2018 № ҚР ДСМ-45 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td>№ п/п</td>
+<td>
+№
+п/п
+</td>
 <td>Наименование медицинских организаций</td>
-<td>Тариф за один койко-день (тенге)</td>
+<td>
+Тариф за один койко-день
+(тенге)
+</td>
 </tr>
 <tr>
 <td>1</td>
-<td>ГККП «Специализированное лечебно-профилактическое предприятие» Управления здравоохранения Актюбинской области</td>
+<td>ГКП «Специализированное лечебно-профилактическое предприятие» на ПХВ государственного учреждения Управления здравоохранения Актюбинской области</td>
 <td>4 398,14</td>
 </tr>
 <tr>
@@ -189224,35 +189311,40 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <tr>
 <td>3</td>
 <td>КГКП «Наркологический диспансер города Семей» Управления здравоохранения Восточно-Казахстанской области</td>
-<td>6 069,10</td>
+<td>5 989,86</td>
 </tr>
 <tr>
 <td>4</td>
 <td>КГКП «Психиатрический диспансер города Риддер» Управления здравоохранения Восточно-Казахстанской области</td>
-<td>1 417,63</td>
+<td>13 376,73</td>
 </tr>
 <tr>
 <td>5</td>
-<td>КГКП «Психиатирческий диспансер Зыряновского района» Управления здравоохранения Восточно-Казахстанской области</td>
-<td>1 906,12</td>
+<td>КГКП «Психиатрический диспансер Зыряновского района» Управления здравоохранения Восточно-Казахстанской области</td>
+<td>17 020,59</td>
 </tr>
 <tr>
 <td>6</td>
+<td>КГКП «Восточно-Казахстанская психиатрическая больница села Ново-Канайка» Управления здравоохранения Восточно-Казахстанской области</td>
+<td>5 980,86</td>
+</tr>
+<tr>
+<td>7</td>
+<td>КГКП «Психиатрическая больница п.Шульбинск» Управления здравоохранения Восточно-Казахстанской области</td>
+<td>4 447,35</td>
+</tr>
+<tr>
+<td>8</td>
 <td>Учреждение «Наркологический психотерапевтический центр доктора Лукьяненко Ю. В.» Управления здравоохранения Жамбылской области</td>
 <td>7 974,20</td>
 </tr>
 <tr>
-<td>7</td>
-<td>КГКП «Областная наркологическая организация принудительного лечения» Управления здравоохранения Карагандинской области</td>
-<td>2 054,66</td>
-</tr>
-<tr>
-<td>8</td>
+<td>9</td>
 <td>КГКП «Рудненская городская психиатрическая больница» Управления здравоохранения Костанайской области</td>
 <td>6 379,79</td>
 </tr>
 <tr>
-<td>9</td>
+<td>10</td>
 <td>ТОО «Альтернатива KST» Костанайской области</td>
 <td>9 627,70</td>
 </tr>
@@ -189371,13 +189463,19 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 
 ## Комплексный тариф на медицинские услуги, оказываемые в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования, возмещение затрат на которые осуществляется на одного больного туберкулезом в месяц, зарегистрированного в Национальном регистре больных туберкулезом в разрезе регионов
 
-> *Сноска. Комплексный тариф в редакции приказа Министра здравоохранения РК от 06.11.2018 № ҚР ДСМ-31 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Комплексный тариф в редакции приказа Министра здравоохранения РК от 25.12.2018 № ҚР ДСМ-45 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td>№ п/п</td>
+<td>
+№
+п/п
+</td>
 <td>Наименование регионов</td>
-<td>Комплексный тариф (тенге)</td>
+<td>
+Комплексный тариф
+(тенге)
+</td>
 </tr>
 <tr>
 <td>1</td>
@@ -189447,7 +189545,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <tr>
 <td>14</td>
 <td>Туркестанская область</td>
-<td>156 400 68</td>
+<td>156 400,68</td>
 </tr>
 <tr>
 <td>15</td>
@@ -189462,7 +189560,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <tr>
 <td>17</td>
 <td>город Шымкент</td>
-<td>156 400 68</td>
+<td>156 400,68</td>
 </tr>
 </table>
 
@@ -189475,27 +189573,33 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 
 ## Тариф на медицинские услуги, оказываемые в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования, возмещение затрат на которые осуществляется медицинским организациям (соисполнителям) оказывающим медицинскую помощь больным туберкулезом
 
-> *Сноска. Тариф в редакции приказа Министра здравоохранения РК от 06.11.2018 № ҚР ДСМ-31 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Тариф в редакции приказа Министра здравоохранения РК от 25.12.2018 № ҚР ДСМ-45 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td>№ п/п</td>
+<td>
+№
+п/п
+</td>
 <td>Наименование медицинских организаций</td>
-<td>Тариф за один койко-день (тенге)</td>
+<td>
+Тариф за один койко-день
+(тенге)
+</td>
 </tr>
 <tr>
 <td>1</td>
-<td>ГККП «Специализированное лечебно-профилактическое предприятие» Управления здравоохранения Актюбинской области</td>
+<td>ГКП «Специализированное лечебно-профилактическое предприятие» на ПХВ государственного учреждения Управления здравоохранения Актюбинской области</td>
 <td>5 691,21</td>
 </tr>
 <tr>
 <td>2</td>
-<td>ГККП «Темирская районная туберкулезная больница» Управление здравоохранения Актюбинской области</td>
+<td>ГКП «Темирская районная туберкулезная больница» на ПХВ государственного учреждения Управление здравоохранения Актюбинской области</td>
 <td>10 187,43</td>
 </tr>
 <tr>
 <td>3</td>
-<td>ГККП «Айтекебийский хоспис для туберкулезных больных» Управления здравоохранения Актюбинской области</td>
+<td>ГКП «Айтекебийский хоспис для туберкулезных больных» на ПХВ государственного учреждения Управления здравоохранения Актюбинской области</td>
 <td>12 307,15</td>
 </tr>
 <tr>
@@ -189505,46 +189609,26 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>5</td>
-<td>КГП «Больница паллиативной помощи Алматинской области» государственного учреждения Управление здравоохранения Алматинской области</td>
-<td>16 246,10</td>
-</tr>
-<tr>
-<td>6</td>
 <td>КГП на ПХВ «Центральная районная больница Зыряновского района» Управления здравоохранения Восточно-Казахстанской области</td>
 <td>18 515,13</td>
 </tr>
 <tr>
-<td>7</td>
+<td>6</td>
 <td>КГКП «Детский противотуберкулезный лечебно-профилактический центр» Управления здравоохранения Восточно-Казахстанской области</td>
 <td>22 352,39</td>
 </tr>
 <tr>
-<td>8</td>
+<td>7</td>
 <td>КГКП «Региональный противотуберкулезный диспансер города Семей» Управления здравоохранения Восточно-Казахстанской области</td>
 <td>15 039,55</td>
 </tr>
 <tr>
-<td>9</td>
+<td>8</td>
 <td>КГКП «Аркалыкский региональный противотуберкулезный диспансер» Управления здравоохранения Костанайской области</td>
 <td>19 383,74</td>
 </tr>
 <tr>
-<td>10</td>
-<td>КГКП «Казалинский районный противотуберкулезный диспансер» Управления здравоохранения Кызылординской области</td>
-<td>49 476,56</td>
-</tr>
-<tr>
-<td>11</td>
-<td>КГКП «Кармакшинский районный противотуберкулезный диспансер» Управления здравоохранения Кызылординской области</td>
-<td>18 992,25</td>
-</tr>
-<tr>
-<td>12</td>
-<td>КГКП «Сырдарьинский районный противотуберкулезный диспансер» Управления здравоохранения Кызылординской области</td>
-<td>17 571,35</td>
-</tr>
-<tr>
-<td>13</td>
+<td>9</td>
 <td>ГККП «Жанаозенская межрайонная туберкулезная больница» Управления здравоохранения Мангистауской области</td>
 <td>12 141,60</td>
 </tr>
@@ -189718,928 +189802,933 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 
 ## Тариф на медицинские услуги, оказываемые в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования, возмещение затрат на которые осуществляется медицинским организациям на один пролеченный случай инфекционного профиля
 
-> *Сноска. Тариф в редакции приказа Министра здравоохранения РК от 06.11.2018 № ҚР ДСМ-31 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Тариф в редакции приказа Министра здравоохранения РК от 25.12.2018 № ҚР ДСМ-45 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td colspan="2">№</td>
-<td colspan="2">Наименование медицинской организации</td>
-<td colspan="2">Тариф на один пролеченный случай, в тенге</td>
+<td>№</td>
+<td>Наименование медицинской организации</td>
+<td>Тариф на один пролеченный случай, в тенге</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">ГКП на ПХВ «Ерейментауская центральная районная больница» при управлении здравоохранения Акмолинской области</td>
-<td colspan="2">44 260,64</td>
+<td>1</td>
+<td>ГКП на ПХВ «Ерейментауская центральная районная больница» при управлении здравоохранения Акмолинской области</td>
+<td>44 260,64</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
-<td colspan="2">ГКП на ПХВ «Астраханская центральная районная больница» при управлении здравоохранения Акмолинской области</td>
-<td colspan="2">38 076,00</td>
+<td>2</td>
+<td>ГКП на ПХВ «Астраханская центральная районная больница» при управлении здравоохранения Акмолинской области</td>
+<td>38 076,00</td>
 </tr>
 <tr>
-<td colspan="2">3</td>
-<td colspan="2">ГКП на ПХВ «Зерендинская центральная районная больница» при управлении здравоохранения Акмолинской области</td>
-<td colspan="2">51 573,33</td>
+<td>3</td>
+<td>ГКП на ПХВ «Зерендинская центральная районная больница» при управлении здравоохранения Акмолинской области</td>
+<td>51 573,33</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
-<td colspan="2">ГКП на ПХВ «Есильская центральная районная больница» при управлении здравоохранения Акмолинской области</td>
-<td colspan="2">40 127,20</td>
+<td>4</td>
+<td>ГКП на ПХВ «Есильская центральная районная больница» при управлении здравоохранения Акмолинской области</td>
+<td>40 127,20</td>
 </tr>
 <tr>
-<td colspan="2">5</td>
-<td colspan="2">ГКП на ПХВ «Кокшетауская городская многопрофильная больница» при управлении здравоохранения Акмолинской области</td>
-<td colspan="2">37 627,07</td>
+<td>5</td>
+<td>ГКП на ПХВ «Кокшетауская городская многопрофильная больница» при управлении здравоохранения Акмолинской области</td>
+<td>37 627,07</td>
 </tr>
 <tr>
-<td colspan="2">6</td>
-<td colspan="2">ГКП на ПХВ «Аршалынская центральная районная больница» при управлении здравоохранения Акмолинской области</td>
-<td colspan="2">47 712,22</td>
+<td>6</td>
+<td>ГКП на ПХВ «Аршалынская центральная районная больница» при управлении здравоохранения Акмолинской области</td>
+<td>47 712,22</td>
 </tr>
 <tr>
-<td colspan="2">7</td>
-<td colspan="2">ГКП на ПХВ «Бурабайская многопрофильная межрайонная больница» при управлении здравоохранения Акмолинской области</td>
-<td colspan="2">36 587,48</td>
+<td>7</td>
+<td>ГКП на ПХВ «Бурабайская многопрофильная межрайонная больница» при управлении здравоохранения Акмолинской области</td>
+<td>36 587,48</td>
 </tr>
 <tr>
-<td colspan="2">8</td>
-<td colspan="2">ГКП на ПХВ «Аккольская центральная районная больница» при управлении здравоохранения Акмолинской области</td>
-<td colspan="2">63 530,33</td>
+<td>8</td>
+<td>ГКП на ПХВ «Аккольская центральная районная больница» при управлении здравоохранения Акмолинской области</td>
+<td>63 530,33</td>
 </tr>
 <tr>
-<td colspan="2">9</td>
-<td colspan="2">ГКП на ПХВ «Атбасарская многопрофильная межрайонная больница» при управлении здравоохранения Акмолинской области</td>
-<td colspan="2">38 635,25</td>
+<td>9</td>
+<td>ГКП на ПХВ «Атбасарская многопрофильная межрайонная больница» при управлении здравоохранения Акмолинской области</td>
+<td>38 635,25</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
-<td colspan="2">ГКП на ПХВ «Многопрофильная областная детская больница» при управлении здравоохранения Акмолинской области</td>
-<td colspan="2">35 106,45</td>
+<td>10</td>
+<td>ГКП на ПХВ «Многопрофильная областная детская больница» при управлении здравоохранения Акмолинской области</td>
+<td>35 106,45</td>
 </tr>
 <tr>
-<td colspan="2">11</td>
-<td colspan="2">ГКП на ПХВ «Степногорская центральная городская больница» при управлении здравоохранения Акмолинской области</td>
-<td colspan="2">39 734,35</td>
+<td>11</td>
+<td>ГКП на ПХВ «Степногорская центральная городская больница» при управлении здравоохранения Акмолинской области</td>
+<td>39 734,35</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
-<td colspan="2">ГКП «Алгинская центральная районная больница» на ПХВ Государственного учреждения Управления Здравоохранения Актюбинской области</td>
-<td colspan="2">7 652,73</td>
+<td>12</td>
+<td>ГКП «Алгинская центральная районная больница» на ПХВ Государственного учреждения Управления Здравоохранения Актюбинской области</td>
+<td>7 652,73</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
-<td colspan="2">ГКП «Хромтауская центральная районная больница» на ПХВ Государственного учреждения Управления Здравоохранения Актюбинской области</td>
-<td colspan="2">7 340,50</td>
+<td>13</td>
+<td>ГКП «Хромтауская центральная районная больница» на ПХВ Государственного учреждения Управления Здравоохранения Актюбинской области</td>
+<td>7 340,50</td>
 </tr>
 <tr>
-<td colspan="2">14</td>
-<td colspan="2">ГКП «Айтекебийская центральная районная больница» на ПХВ Государственного учреждения Управления Здравоохранения Актюбинской области</td>
-<td colspan="2">5 642,34</td>
+<td>14</td>
+<td>ГКП «Айтекебийская центральная районная больница» на ПХВ Государственного учреждения Управления здравоохранения Актюбинской области</td>
+<td>5 642,34</td>
 </tr>
 <tr>
-<td colspan="2">15</td>
-<td colspan="2">ГКП «Каргалинская центральная районная больница» на ПХВ Государственного учреждения Управление Здравоохранения Актюбинской области</td>
-<td colspan="2">10 464,04</td>
+<td>15</td>
+<td>ГКП «Каргалинская центральная районная больница» на ПХВ Государственного учреждения Управление здравоохранения Актюбинской области</td>
+<td>10 464,04</td>
 </tr>
 <tr>
-<td colspan="2">16</td>
-<td colspan="2">ГКП «Мартукская центральная районная больница» на ПХВ Государственное учреждение Управления здравоохранения Актюбинской области</td>
-<td colspan="2">7 279,33</td>
+<td>16</td>
+<td>ГКП «Мартукская центральная районная больница» на ПХВ Государственное учреждение Управления здравоохранения Актюбинской области</td>
+<td>7 279,33</td>
 </tr>
 <tr>
-<td colspan="2">17</td>
-<td colspan="2">ГКП «Кобдинская центральная районная больница» на ПХВ Государственное учреждение Управление здравоохранения Актюбинской области</td>
-<td colspan="2">7 141,34</td>
+<td>17</td>
+<td>ГКП «Кобдинская центральная районная больница» на ПХВ Государственное учреждение Управление здравоохранения Актюбинской области</td>
+<td>7 141,34</td>
 </tr>
 <tr>
-<td colspan="2">18</td>
-<td colspan="2">ГКП «Шалкарская центральная районная больница» на ПХВ Государственного учреждения Управления Здравоохранения Актюбинской области</td>
-<td colspan="2">8 029,48</td>
+<td>18</td>
+<td>ГКП «Шалкарская центральная районная больница» на ПХВ Государственного учреждения Управления здравоохранения Актюбинской области</td>
+<td>8 029,48</td>
 </tr>
 <tr>
-<td colspan="2">19</td>
-<td colspan="2">«Темирская центральная районная больница» на ПХВ Государственного учреждения Управления здравоохранения Актюбинской области</td>
-<td colspan="2">6 092,40</td>
+<td>19</td>
+<td>«Темирская центральная районная больница» на ПХВ Государственного учреждения Управления здравоохранения Актюбинской области</td>
+<td>6 092,40</td>
 </tr>
 <tr>
-<td colspan="2">20</td>
-<td colspan="2">ГКП «Байганинская центральная районная больница» на ПХВ Государственного учреждения Управления Здравоохранения Актюбинской области</td>
-<td colspan="2">7 071,12</td>
+<td>20</td>
+<td>ГКП «Байганинская центральная районная больница» на ПХВ Государственного учреждения Управления здравоохранения Актюбинской области</td>
+<td>7 071,12</td>
 </tr>
 <tr>
-<td colspan="2">21</td>
-<td colspan="2">ГКП «Эмбенская районная больница» на ПХВ Государственного учреждения Управления Здравоохранения Актюбинской области</td>
-<td colspan="2">8 219,15</td>
+<td>21</td>
+<td>ГКП «Эмбенская районная больница» на ПХВ Государственного учреждения Управления Здравоохранения Актюбинской области</td>
+<td>8 219,15</td>
 </tr>
 <tr>
-<td colspan="2">22</td>
-<td colspan="2">ГКП «Уилская центральная районная больница» на ПХВ Государственного учреждения Управление здравоохранения Актюбинской области</td>
-<td colspan="2">7 536,69</td>
+<td>22</td>
+<td>ГКП «Уилская центральная районная больница» на ПХВ Государственного учреждения Управление здравоохранения Актюбинской области</td>
+<td>7 536,69</td>
 </tr>
 <tr>
-<td colspan="2">23</td>
-<td colspan="2">ГКП «Иргизская центральная районная больница» на ПХВ Государственное учреждение Управление здравоохранения Актюбинской области</td>
-<td colspan="2">8 184,17</td>
+<td>23</td>
+<td>ГКП «Иргизская центральная районная больница» на ПХВ Государственное учреждение Управление здравоохранения Актюбинской области</td>
+<td>8 184,17</td>
 </tr>
 <tr>
-<td colspan="2">24</td>
-<td colspan="2">ГКП «Мугалжарская центральная районная больница» на ПХВ Государственного учреждения Управление здравоохранения Актюбинской области</td>
-<td colspan="2">51 591,68</td>
+<td>24</td>
+<td>ГКП «Мугалжарская центральная районная больница» на ПХВ Государственного учреждения Управление здравоохранения Актюбинской области</td>
+<td>51 591,68</td>
 </tr>
 <tr>
-<td colspan="2">25</td>
-<td colspan="2">ГККП «Областная клиническая инфекционная больница» Государственного учреждения Управления Здравоохранения Актюбинской области</td>
-<td colspan="2">51 464,93</td>
+<td>25</td>
+<td>ГКП «Областная клиническая инфекционная больница» на ПХВ Государственного учреждения Управления здравоохранения Актюбинской области</td>
+<td>51 464,93</td>
 </tr>
 <tr>
-<td colspan="2">26</td>
-<td colspan="2">ГКП на ПХВ «Балхашская центральная районная больница» государственного учреждения «Управления здравоохранения Алматинской области»</td>
-<td colspan="2">88 734,83</td>
+<td>26</td>
+<td>ГКП на ПХВ «Балхашская центральная районная больница» государственного учреждения «Управления здравоохранения Алматинской области»</td>
+<td>88 734,83</td>
 </tr>
 <tr>
-<td colspan="2">27</td>
-<td colspan="2">ГКП на ПХВ «Райымбекская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
-<td colspan="2">46 717,78</td>
+<td>27</td>
+<td>ГКП на ПХВ «Райымбекская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
+<td>46 717,78</td>
 </tr>
 <tr>
-<td colspan="2">28</td>
-<td colspan="2">ГКП на ПХВ «Уйгурская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
-<td colspan="2">26 076,20</td>
+<td>28</td>
+<td>ГКП на ПХВ «Уйгурская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
+<td>26 076,20</td>
 </tr>
 <tr>
-<td colspan="2">29</td>
-<td colspan="2">ГКП на ПХВ «Районная больница» с.Кабанбай Алакольского района государственного учреждения Управление здравоохранения Алматинской области</td>
-<td colspan="2">84 071,92</td>
+<td>29</td>
+<td>ГКП на ПХВ «Районная больница» с.Кабанбай Алакольского района государственного учреждения Управление здравоохранения Алматинской области</td>
+<td>84 071,92</td>
 </tr>
 <tr>
-<td colspan="2">30</td>
-<td colspan="2">ГКП на ПХВ «Районная больница» с.Нарынкол Райымбекского района государственного учреждения «Управления здравоохранения Алматинской области»</td>
-<td colspan="2">87 222,13</td>
+<td>30</td>
+<td>ГКП на ПХВ «Районная больница» с.Нарынкол Райымбекского района государственного учреждения «Управления здравоохранения Алматинской области»</td>
+<td>87 222,13</td>
 </tr>
 <tr>
-<td colspan="2">31</td>
-<td colspan="2">ГКП на ПХВ «Капшагайская городская больница» государственного учреждения «Управление здравоохранения Алматинской области» акимата Алматинской области</td>
-<td colspan="2">45 026,73</td>
+<td>31</td>
+<td>ГКП на ПХВ «Капшагайская городская больница» государственного учреждения «Управление здравоохранения Алматинской области» акимата Алматинской области</td>
+<td>45 026,73</td>
 </tr>
 <tr>
-<td colspan="2">32</td>
-<td colspan="2">ГКП на ПХВ «Алакольская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
-<td colspan="2">70 520,86</td>
+<td>32</td>
+<td>ГКП на ПХВ «Алакольская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
+<td>70 520,86</td>
 </tr>
 <tr>
-<td colspan="2">33</td>
-<td colspan="2">ГКП на ПХВ «Кербулакская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
-<td colspan="2">91 262,29</td>
+<td>33</td>
+<td>ГКП на ПХВ «Кербулакская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
+<td>91 262,29</td>
 </tr>
 <tr>
-<td colspan="2">34</td>
-<td colspan="2">ГКП на ПХВ «Каратальская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
-<td colspan="2">81 456,14</td>
+<td>34</td>
+<td>ГКП на ПХВ «Каратальская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
+<td>81 456,14</td>
 </tr>
 <tr>
-<td colspan="2">35</td>
-<td colspan="2">ГКП на ПХВ «Коксуская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
-<td colspan="2">78 058,53</td>
+<td>35</td>
+<td>ГКП на ПХВ «Коксуская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
+<td>78 058,53</td>
 </tr>
 <tr>
-<td colspan="2">36</td>
-<td colspan="2">ГКП на ПХВ «Текелийская городская больница» Государственного учреждения «Управление здравоохранения Алматинской области»</td>
-<td colspan="2">34 491,37</td>
+<td>36</td>
+<td>ГКП на ПХВ «Текелийская городская больница» Государственного учреждения «Управление здравоохранения Алматинской области»</td>
+<td>34 491,37</td>
 </tr>
 <tr>
-<td colspan="2">37</td>
-<td colspan="2">ГКП на ПХВ «Аксуская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
-<td colspan="2">89 974,23</td>
+<td>37</td>
+<td>ГКП на ПХВ «Аксуская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
+<td>89 974,23</td>
 </tr>
 <tr>
-<td colspan="2">38</td>
-<td colspan="2">ГКП на ПХВ «Жамбылская центральная районная больница» государственного учреждения «Управление здравоохранения Алматинской области</td>
-<td colspan="2">86 814,93</td>
+<td>38</td>
+<td>ГКП на ПХВ «Жамбылская центральная районная больница» государственного учреждения «Управление здравоохранения Алматинской области</td>
+<td>86 814,93</td>
 </tr>
 <tr>
-<td colspan="2">39</td>
-<td colspan="2">ГКП на ПХВ «Саркандская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
-<td colspan="2">68 736,13</td>
+<td>39</td>
+<td>ГКП на ПХВ «Саркандская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
+<td>68 736,13</td>
 </tr>
 <tr>
-<td colspan="2">40</td>
-<td colspan="2">ГКП на ПХВ «Районная больница» с.Шелек Енбекшиказахского района государственного учреждения «Управления здравоохранения Алматинской области»</td>
-<td colspan="2">91 852,03</td>
+<td>40</td>
+<td>ГКП на ПХВ «Районная больница» с.Шелек Енбекшиказахского района государственного учреждения «Управления здравоохранения Алматинской области»</td>
+<td>91 852,03</td>
 </tr>
 <tr>
-<td colspan="2">41</td>
-<td colspan="2">ГКП на ПХВ «Панфиловская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
-<td colspan="2">72 729,25</td>
+<td>41</td>
+<td>ГКП на ПХВ «Панфиловская центральная районная больница» Государственного Учреждения «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
+<td>72 729,25</td>
 </tr>
 <tr>
-<td colspan="2">42</td>
-<td colspan="2">ГКП на ПХВ «Енбекшиказахская центральная районная больница» ГУ «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
-<td colspan="2">63 930,71</td>
+<td>42</td>
+<td>ГКП на ПХВ «Енбекшиказахская центральная районная больница» ГУ «Управления здравоохранения акима Алматинской области» акимата Алматинской области</td>
+<td>63 930,71</td>
 </tr>
 <tr>
-<td colspan="2">43</td>
-<td colspan="2">КГКП «Региональная инфекционная больница г.Талдыкорган» ГУ УЗ Алматинской области</td>
-<td colspan="2">69 259,60</td>
+<td>43</td>
+<td>КГКП «Региональная инфекционная больница г.Талдыкорган» ГУ УЗ Алматинской области</td>
+<td>69 259,60</td>
 </tr>
 <tr>
-<td colspan="2">44</td>
-<td colspan="2">КГКП «Каскеленская городская инфекционная больница» ГУ УЗ Алматинской области</td>
-<td colspan="2">58 338,00</td>
+<td>44</td>
+<td>КГКП «Каскеленская городская инфекционная больница» ГУ УЗ Алматинской области</td>
+<td>58 338,00</td>
 </tr>
 <tr>
-<td colspan="2">45</td>
-<td colspan="2">КГП на ПХВ «Исатайская центральная районная больница» Управления здравоохранения Атырауской области</td>
-<td colspan="2">47 244,09</td>
+<td>45</td>
+<td>КГП на ПХВ «Исатайская центральная районная больница» Управления здравоохранения Атырауской области</td>
+<td>47 244,09</td>
 </tr>
 <tr>
-<td colspan="2">46</td>
-<td colspan="2">КГП на ПХВ «Макатская центральная районная больница» Управления здравоохранения Атырауской области</td>
-<td colspan="2">58 631,92</td>
+<td>46</td>
+<td>КГП на ПХВ «Макатская центральная районная больница» Управления здравоохранения Атырауской области</td>
+<td>58 631,92</td>
 </tr>
 <tr>
-<td colspan="2">47</td>
-<td colspan="2">КГП на ПХВ «Махамбетская центральная районнная больница» Управления здравоохранения Атырауской области</td>
-<td colspan="2">52 959,50</td>
+<td>47</td>
+<td>КГП на ПХВ «Махамбетская центральная районнная больница» Управления здравоохранения Атырауской области</td>
+<td>52 959,50</td>
 </tr>
 <tr>
-<td colspan="2">48</td>
-<td colspan="2">КГП на ПХВ «Кызылкогинская центральная районная больница» Управления здравоохранения Атырауской области</td>
-<td colspan="2">49 723,76</td>
+<td>48</td>
+<td>КГП на ПХВ «Кызылкогинская центральная районная больница» Управления здравоохранения Атырауской области</td>
+<td>49 723,76</td>
 </tr>
 <tr>
-<td colspan="2">49</td>
-<td colspan="2">КГП на ПХВ «Курмангазинская центральная районная больница» Управления здравоохранения Атырауской области»</td>
-<td colspan="2">42 735,04</td>
+<td>49</td>
+<td>КГП на ПХВ «Курмангазинская центральная районная больница» Управления здравоохранения Атырауской области»</td>
+<td>42 735,04</td>
 </tr>
 <tr>
-<td colspan="2">50</td>
-<td colspan="2">КГП на ПХВ «Индерская центральная районнная больница» Управления здравоохранения Атырауской области</td>
-<td colspan="2">37 878,79</td>
+<td>50</td>
+<td>КГП на ПХВ «Индерская центральная районнная больница» Управления здравоохранения Атырауской области</td>
+<td>37 878,79</td>
 </tr>
 <tr>
-<td colspan="2">51</td>
-<td colspan="2">КГП на ПХВ «Жылыойская центральная районная больница» Управления здравоохранения Атырауской области</td>
-<td colspan="2">51 493,31</td>
+<td>51</td>
+<td>КГП на ПХВ «Жылыойская центральная районная больница» Управления здравоохранения Атырауской области</td>
+<td>51 493,31</td>
 </tr>
 <tr>
-<td colspan="2">52</td>
-<td colspan="2">КГП на ПХВ «Атырауская областная больница №2» Управления здравоохранения Атырауской области</td>
-<td colspan="2">66 749,55</td>
+<td>52</td>
+<td>КГП на ПХВ «Атырауская областная больница №2» Управления здравоохранения Атырауской области</td>
+<td>66 749,55</td>
 </tr>
 <tr>
-<td colspan="2">53</td>
-<td colspan="2">КГП на ПХВ «Абайская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
-<td colspan="2">38 019,80</td>
+<td>53</td>
+<td>КГП на ПХВ «Абайская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
+<td>38 019,80</td>
 </tr>
 <tr>
-<td colspan="2">54</td>
-<td colspan="2">КГП на ПХВ «Курчатовская городская больница» управления здравоохранения Восточно-Казахстанской области</td>
-<td colspan="2">38 216,22</td>
+<td>54</td>
+<td>КГП на ПХВ «Курчатовская городская больница» управления здравоохранения Восточно-Казахстанской области</td>
+<td>38 216,22</td>
 </tr>
 <tr>
-<td colspan="2">55</td>
-<td colspan="2">КГП на ПХВ «Бескарагайская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
-<td colspan="2">45 541,06</td>
+<td>55</td>
+<td>КГП на ПХВ «Бескарагайская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
+<td>45 541,06</td>
 </tr>
 <tr>
-<td colspan="2">56</td>
-<td colspan="2">КГП на ПХВ «Тарбагатайская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
-<td colspan="2">61 069,44</td>
+<td>56</td>
+<td>КГП на ПХВ «Тарбагатайская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
+<td>61 069,44</td>
 </tr>
 <tr>
-<td colspan="2">57</td>
-<td colspan="2">КГКП «Межрайонная больница Кокпектинского района» управления здравоохранения Восточно-Казахстанской области</td>
-<td colspan="2">70 857,14</td>
+<td>57</td>
+<td>КГКП «Межрайонная больница Кокпектинского района» управления здравоохранения Восточно-Казахстанской области</td>
+<td>70 857,14</td>
 </tr>
 <tr>
-<td colspan="2">58</td>
-<td colspan="2">КГП на ПХВ «Городская больница города Серебрянска Зыряновского района» управления здравоохранения Восточно-Казахстанского областного акимата</td>
-<td colspan="2">70 702,60</td>
+<td>58</td>
+<td>КГП на ПХВ «Городская больница города Серебрянска Зыряновского района» управления здравоохранения Восточно-Казахстанского областного акимата</td>
+<td>70 702,60</td>
 </tr>
 <tr>
-<td colspan="2">59</td>
-<td colspan="2">КГП на ПХВ «Жарминская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
-<td colspan="2">45 412,65</td>
+<td>59</td>
+<td>КГП на ПХВ «Жарминская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
+<td>45 412,65</td>
 </tr>
 <tr>
-<td colspan="2">60</td>
-<td colspan="2">КГП на ПХВ «Кокпектинская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
-<td colspan="2">52 355,56</td>
+<td>60</td>
+<td>КГП на ПХВ «Кокпектинская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
+<td>52 355,56</td>
 </tr>
 <tr>
-<td colspan="2">61</td>
-<td colspan="2">КГП на ПХВ «Катон-Карагайская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
-<td colspan="2">42 049,86</td>
+<td>61</td>
+<td>КГП на ПХВ «Катон-Карагайская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
+<td>42 049,86</td>
 </tr>
 <tr>
-<td colspan="2">62</td>
-<td colspan="2">КГП на ПХВ «Межрайонная больница Тарбагатайского района» управления здравоохранения Восточно-Казахстанской области</td>
-<td colspan="2">61 298,10</td>
+<td>62</td>
+<td>КГП на ПХВ «Межрайонная больница Тарбагатайского района» управления здравоохранения Восточно-Казахстанской области</td>
+<td>61 298,10</td>
 </tr>
 <tr>
-<td colspan="2">63</td>
-<td colspan="2">КГКП «Межрайонная больница Катон-Карагайского района» управления здравоохранения Восточно-Казахстанской области</td>
-<td colspan="2">47 310,95</td>
+<td>63</td>
+<td>КГКП «Межрайонная больница Катон-Карагайского района» управления здравоохранения Восточно-Казахстанской области</td>
+<td>47 310,95</td>
 </tr>
 <tr>
-<td colspan="2">64</td>
-<td colspan="2">КГП на ПХВ «Бородулихинская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
-<td colspan="2">42 570,16</td>
+<td>64</td>
+<td>КГП на ПХВ «Бородулихинская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
+<td>42 570,16</td>
 </tr>
 <tr>
-<td colspan="2">65</td>
-<td colspan="2">КГП на ПХВ «Урджарская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
-<td colspan="2">66 316,99</td>
+<td>65</td>
+<td>КГП на ПХВ «Урджарская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
+<td>66 316,99</td>
 </tr>
 <tr>
-<td colspan="2">66</td>
-<td colspan="2">КГП на ПХВ «Курчумская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
-<td colspan="2">49 677,10</td>
+<td>66</td>
+<td>КГП на ПХВ «Курчумская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
+<td>49 677,10</td>
 </tr>
 <tr>
-<td colspan="2">67</td>
-<td colspan="2">КГП на ПХВ «Зайсанская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
-<td colspan="2">61 439,42</td>
+<td>67</td>
+<td>КГП на ПХВ «Зайсанская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
+<td>61 439,42</td>
 </tr>
 <tr>
-<td colspan="2">68</td>
-<td colspan="2">КГКП «Шемонаихинская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
-<td colspan="2">52 373,35</td>
+<td>68</td>
+<td>КГКП «Шемонаихинская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
+<td>52 373,35</td>
 </tr>
 <tr>
-<td colspan="2">69</td>
-<td colspan="2">КГП на ПХВ «Аягозская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
-<td colspan="2">48 356,96</td>
+<td>69</td>
+<td>КГП на ПХВ «Аягозская центральная районная больница» управления здравоохранения Восточно-Казахстанской области</td>
+<td>48 356,96</td>
 </tr>
 <tr>
-<td colspan="2">70</td>
-<td colspan="2">КГП на ПХВ «Риддерская городская больница» управления здравоохранения Восточно-Казахстанского областного акимата</td>
-<td colspan="2">57 580,92</td>
+<td>70</td>
+<td>КГП на ПХВ «Риддерская городская больница» управления здравоохранения Восточно-Казахстанского областного акимата</td>
+<td>57 580,92</td>
 </tr>
 <tr>
-<td colspan="2">71</td>
-<td colspan="2">КГП на ПХВ «Центральная районная больница Зыряновского района» управления здравоохранения Восточно-Казахстанского областного акимата</td>
-<td colspan="2">62 139,70</td>
+<td>71</td>
+<td>КГП на ПХВ «Центральная районная больница Зыряновского района» управления здравоохранения Восточно-Казахстанского областного акимата</td>
+<td>62 139,70</td>
 </tr>
 <tr>
-<td colspan="2">72</td>
-<td colspan="2">КГП на ПХВ «Усть-Каменогорская городская больница №1» управления здравоохранения Восточно-Казахстанского областного акимата</td>
-<td colspan="2">82 378,96</td>
+<td>72</td>
+<td>КГП на ПХВ «Усть-Каменогорская городская больница №1» управления здравоохранения Восточно-Казахстанского областного акимата</td>
+<td>82 378,96</td>
 </tr>
 <tr>
-<td colspan="2">73</td>
-<td colspan="2">КГП на ПХВ «Центр матери и ребенка» управления здравоохранения Восточно-Казахстанского областного акимата</td>
-<td colspan="2">63 351,60</td>
+<td>73</td>
+<td>КГП на ПХВ «Центр матери и ребенка» управления здравоохранения Восточно-Казахстанского областного акимата</td>
+<td>63 351,60</td>
 </tr>
 <tr>
-<td colspan="2">74</td>
-<td colspan="2">КГКП «Инфекционная больница города Семей» управления здравоохранения Восточно-Казахстанской области</td>
-<td colspan="2">49 683,19</td>
+<td>74</td>
+<td>КГКП «Инфекционная больница города Семей» управления здравоохранения Восточно-Казахстанской области</td>
+<td>98 326,21</td>
 </tr>
 <tr>
-<td colspan="2">75</td>
-<td colspan="2">ГКП на ПХВ «Городская детская больница №1» Управления здравоохранения акимата Жамбылской области</td>
-<td colspan="2">94 698,74</td>
+<td>75</td>
+<td>ГКП на ПХВ «Городская детская больница №1» Управления здравоохранения акимата Жамбылской области</td>
+<td>94 698,74</td>
 </tr>
 <tr>
-<td colspan="2">76</td>
-<td colspan="2">ГКП на ПХВ «Центральная районная больница Меркенского района» Управления здравоохранения акимата Жамбылской области</td>
-<td colspan="2">61 753,42</td>
+<td>76</td>
+<td>ГКП на ПХВ «Центральная районная больница Меркенского района» Управления здравоохранения акимата Жамбылской области</td>
+<td>61 753,42</td>
 </tr>
 <tr>
-<td colspan="2">77</td>
-<td colspan="2">ГКП на ПХВ «Центральная районная больница района им. Т.Рыскулова» Управления здравоохранения акимата Жамбылской области</td>
-<td colspan="2">55 654,32</td>
+<td>77</td>
+<td>ГКП на ПХВ «Центральная районная больница района им. Т.Рыскулова» Управления здравоохранения акимата Жамбылской области</td>
+<td>55 654,32</td>
 </tr>
 <tr>
-<td colspan="2">78</td>
-<td colspan="2">КГП на ПХВ «Центральная районная больница Таласского района Управления здравоохранения акимата Жамбылской области»</td>
-<td colspan="2">41 378,52</td>
+<td>78</td>
+<td>КГП на ПХВ «Центральная районная больница Таласского района Управления здравоохранения акимата Жамбылской области»</td>
+<td>41 378,52</td>
 </tr>
 <tr>
-<td colspan="2">79</td>
-<td colspan="2">КГП на ПХВ «Центральная районная больница Жамбылского района» Управления здравоохранения акимата Жамбылской области</td>
-<td colspan="2">53 035,33</td>
+<td>79</td>
+<td>КГП на ПХВ «Центральная районная больница Жамбылского района» Управления здравоохранения акимата Жамбылской области</td>
+<td>53 035,33</td>
 </tr>
 <tr>
-<td colspan="2">80</td>
-<td colspan="2">ГКП на ПХВ «Центральная районная больница Жуалынского района» Управления здравоохранения акимата Жамбылской области</td>
-<td colspan="2">41 275,05</td>
+<td>80</td>
+<td>ГКП на ПХВ «Центральная районная больница Жуалынского района» Управления здравоохранения акимата Жамбылской области</td>
+<td>41 275,05</td>
 </tr>
 <tr>
-<td colspan="2">81</td>
-<td colspan="2">КГП на ПХВ «Центральная районная больница Мойынкумского района Управления здравоохранения акимата Жамбылской области»</td>
-<td colspan="2">42 862,83</td>
+<td>81</td>
+<td>КГП на ПХВ «Центральная районная больница Мойынкумского района Управления здравоохранения акимата Жамбылской области»</td>
+<td>42 862,83</td>
 </tr>
 <tr>
-<td colspan="2">82</td>
-<td colspan="2">ГКП на ПХВ «Центральная районная больница Байзакского Района» Управления здравоохранения акимата Жамбылской области</td>
-<td colspan="2">45 787,31</td>
+<td>82</td>
+<td>ГКП на ПХВ «Центральная районная больница Байзакского Района» Управления здравоохранения акимата Жамбылской области</td>
+<td>45 787,31</td>
 </tr>
 <tr>
-<td colspan="2">83</td>
-<td colspan="2">ГКП на ПХВ «Кордайская центральная районная больница» Управления здравоохранения акимата Жамбылской области</td>
-<td colspan="2">46 805,87</td>
+<td>83</td>
+<td>ГКП на ПХВ «Кордайская центральная районная больница» Управления здравоохранения акимата Жамбылской области</td>
+<td>46 805,87</td>
 </tr>
 <tr>
-<td colspan="2">84</td>
-<td colspan="2">ГКП на ПХВ «Шуская центральная районная больница» Управления здравоохранения акимата Жамбылской области</td>
-<td colspan="2">44 943,61</td>
+<td>84</td>
+<td>ГКП на ПХВ «Шуская центральная районная больница» Управления здравоохранения акимата Жамбылской области</td>
+<td>44 943,61</td>
 </tr>
 <tr>
-<td colspan="2">85</td>
-<td colspan="2">КГП на ПХВ «Центральная районная больница Сарысуского района» Управления здравоохранения акимата Жамбылской области</td>
-<td colspan="2">55 268,56</td>
+<td>85</td>
+<td>КГП на ПХВ «Центральная районная больница Сарысуского района» Управления здравоохранения акимата Жамбылской области</td>
+<td>55 268,56</td>
 </tr>
 <tr>
-<td colspan="2">86</td>
-<td colspan="2">КГКП «Жамбылская областная детская инфекционная больница управления здравоохранения акимата Жамбылской области»</td>
-<td colspan="2">66 903,25</td>
+<td>86</td>
+<td>КГКП «Жамбылская областная детская инфекционная больница управления здравоохранения акимата Жамбылской области»</td>
+<td>84 643,70</td>
 </tr>
 <tr>
-<td colspan="2">87</td>
-<td colspan="2">ГКП на ПХВ «Таскалинская центральная районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
-<td colspan="2">79 291,67</td>
+<td>87</td>
+<td>ГКП на ПХВ «Таскалинская центральная районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
+<td>79 291,67</td>
 </tr>
 <tr>
-<td colspan="2">88</td>
-<td colspan="2">ГКП на ПХВ «Бокейординская центральная районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
-<td colspan="2">53 243,90</td>
+<td>88</td>
+<td>ГКП на ПХВ «Бокейординская центральная районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
+<td>53 243,90</td>
 </tr>
 <tr>
-<td colspan="2">89</td>
-<td colspan="2">ГКП на ПХВ «Жанибекская центральная районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
-<td colspan="2">55 957,14</td>
+<td>89</td>
+<td>ГКП на ПХВ «Жанибекская центральная районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
+<td>55 957,14</td>
 </tr>
 <tr>
-<td colspan="2">90</td>
-<td colspan="2">ГКП на ПХВ «Казталовская районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
-<td colspan="2">71 804,60</td>
+<td>90</td>
+<td>ГКП на ПХВ «Казталовская районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
+<td>71 804,60</td>
 </tr>
 <tr>
-<td colspan="2">91</td>
-<td colspan="2">ГКП на ПХВ «Каратобинская центральная районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
-<td colspan="2">71 275,00</td>
+<td>91</td>
+<td>ГКП на ПХВ «Каратобинская центральная районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
+<td>71 275,00</td>
 </tr>
 <tr>
-<td colspan="2">92</td>
-<td colspan="2">ГКП на ПХВ «Жангалинская центральная районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
-<td colspan="2">48 033,56</td>
+<td>92</td>
+<td>ГКП на ПХВ «Жангалинская центральная районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
+<td>48 033,56</td>
 </tr>
 <tr>
-<td colspan="2">93</td>
-<td colspan="2">ГКП на ПХВ «Зеленовская районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
-<td colspan="2">60 214,29</td>
+<td>93</td>
+<td>ГКП на ПХВ «Зеленовская районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
+<td>60 214,29</td>
 </tr>
 <tr>
-<td colspan="2">94</td>
-<td colspan="2">ГКП на ПХВ «Казталовская центральная районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
-<td colspan="2">55 227,98</td>
+<td>94</td>
+<td>ГКП на ПХВ «Казталовская центральная районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
+<td>55 227,98</td>
 </tr>
 <tr>
-<td colspan="2">95</td>
-<td colspan="2">ГКП на ПХВ «Чингирлауская центральная районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
-<td colspan="2">52 476,00</td>
+<td>95</td>
+<td>ГКП на ПХВ «Чингирлауская центральная районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
+<td>52 476,00</td>
 </tr>
 <tr>
-<td colspan="2">96</td>
-<td colspan="2">ГКП на ПХВ «Бурлинская центральная районная больница» Управления здравоохранения акимата Западно-Казахстанской области</td>
-<td colspan="2">49 878,19</td>
+<td>96</td>
+<td>ГКП на ПХВ «Бурлинская центральная районная больница» Управления здравоохранения акимата Западно-Казахстанской области</td>
+<td>49 878,19</td>
 </tr>
 <tr>
-<td colspan="2">97</td>
-<td colspan="2">ГКП на ПХВ «Акжаикская центральная районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
-<td colspan="2">41 515,48</td>
+<td>97</td>
+<td>ГКП на ПХВ «Акжаикская центральная районная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
+<td>41 515,48</td>
 </tr>
 <tr>
-<td colspan="2">98</td>
-<td colspan="2">ГККП «Областная инфекционная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
-<td colspan="2">82 586,54</td>
+<td>98</td>
+<td>ГККП «Областная инфекционная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
+<td>82 586,54</td>
 </tr>
 <tr>
-<td colspan="2">99</td>
-<td colspan="2">КГП «Центральная районная больница Шетского района» управления здравоохранения Карагандинсой области</td>
-<td colspan="2">50 270,11</td>
+<td>99</td>
+<td>КГП «Центральная районная больница Шетского района» управления здравоохранения Карагандинсой области</td>
+<td>50 270,11</td>
 </tr>
 <tr>
-<td colspan="2">100</td>
-<td colspan="2">КГП «Центральная районная больница Каркаралинского района» управления здравоохранения Карагандинской области</td>
-<td colspan="2">35 804,29</td>
+<td>100</td>
+<td>КГП «Центральная районная больница Каркаралинского района» управления здравоохранения Карагандинской области</td>
+<td>35 804,29</td>
 </tr>
 <tr>
-<td colspan="2">101</td>
-<td colspan="2">КГП «Центральная районная больница Осакаровского района» управления здравоохранения Карагандинской области</td>
-<td colspan="2">45 597,64</td>
+<td>101</td>
+<td>КГП «Центральная районная больница Осакаровского района» управления здравоохранения Карагандинской области</td>
+<td>45 597,64</td>
 </tr>
 <tr>
-<td colspan="2">102</td>
-<td colspan="2">КГП «Центральная районная больница Нуринского района» управления здравоохранения Карагандинской области</td>
-<td colspan="2">54 897,34</td>
+<td>102</td>
+<td>КГП «Центральная районная больница Нуринского района» управления здравоохранения Карагандинской области</td>
+<td>54 897,34</td>
 </tr>
 <tr>
-<td colspan="2">103</td>
-<td colspan="2">КГП «Центральная районная больница ЖанаАркинского района» управления здравоохранения Карагандинской области</td>
-<td colspan="2">55 923,37</td>
+<td>103</td>
+<td>КГП «Центральная районная больница ЖанаАркинского района» управления здравоохранения Карагандинской области</td>
+<td>55 923,37</td>
 </tr>
 <tr>
-<td colspan="2">104</td>
-<td colspan="2">КГП «Центральная больница г. Каражал» управления здравоохранения Карагандинской области</td>
-<td colspan="2">56 552,58</td>
+<td>104</td>
+<td>КГП «Центральная больница г. Каражал» управления здравоохранения Карагандинской области</td>
+<td>56 552,58</td>
 </tr>
 <tr>
-<td colspan="2">105</td>
-<td colspan="2">КГП «Центральная больница г. Шахтинск» акимата Карагандинской области управления здравоохранения Карагандинской области</td>
-<td colspan="2">46 051,99</td>
+<td>105</td>
+<td>КГП «Центральная больница г. Шахтинск» акимата Карагандинской области управления здравоохранения Карагандинской области</td>
+<td>46 051,99</td>
 </tr>
 <tr>
-<td colspan="2">106</td>
-<td colspan="2">КГП «Центральная районная больница Абайского района» управления здравоохранения Карагандинской области</td>
-<td colspan="2">52 895,11</td>
+<td>106</td>
+<td>КГП «Центральная районная больница Абайского района» управления здравоохранения Карагандинской области</td>
+<td>52 895,11</td>
 </tr>
 <tr>
-<td colspan="2">107</td>
-<td colspan="2">Коммунальное государственное предприятия «Центральная больница №1 г.Сатпаев» управления здравоохранения Карагандинской области</td>
-<td colspan="2">41 101,24</td>
+<td>107</td>
+<td>Коммунальное государственное предприятия «Центральная больница №1 г.Сатпаев» управления здравоохранения Карагандинской области</td>
+<td>41 101,24</td>
 </tr>
 <tr>
-<td colspan="2">108</td>
-<td colspan="2">КГП «Центральная больница города Жезказган» управления здравоохранения Карагандинской области</td>
-<td colspan="2">47 981,70</td>
+<td>108</td>
+<td>КГП «Центральная больница города Жезказган» управления здравоохранения Карагандинской области</td>
+<td>47 981,70</td>
 </tr>
 <tr>
-<td colspan="2">109</td>
-<td colspan="2">КГП «Центральная больница г. Балхаш» управления здравоохранения Карагандинской области</td>
-<td colspan="2">55 899,29</td>
+<td>109</td>
+<td>КГП «Центральная больница г. Балхаш» управления здравоохранения Карагандинской области</td>
+<td>55 899,29</td>
 </tr>
 <tr>
-<td colspan="2">110</td>
-<td colspan="2">КГП «Центральная больница города Темиртау» управления здравоохранения Карагандинской области</td>
-<td colspan="2">48 919,95</td>
+<td>110</td>
+<td>КГП «Центральная больница города Темиртау» управления здравоохранения Карагандинской области</td>
+<td>48 919,95</td>
 </tr>
 <tr>
-<td colspan="2">111</td>
-<td colspan="2">КГКП «Областная инфекционная больница» управления здравоохранения Карагандинской области</td>
-<td colspan="2">50 613,25</td>
+<td>111</td>
+<td>КГКП «Областная инфекционная больница» управления здравоохранения Карагандинской области</td>
+<td>59 539,63</td>
 </tr>
 <tr>
-<td colspan="2">112</td>
-<td colspan="2">КГП «Наурзумская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">191 730,22</td>
+<td>112</td>
+<td>КГП «Наурзумская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
+<td>191 730,22</td>
 </tr>
 <tr>
-<td colspan="2">113</td>
-<td colspan="2">КГП «Карабалыкская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">113 236,06</td>
+<td>113</td>
+<td>КГП «Карабалыкская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
+<td>113 236,06</td>
 </tr>
 <tr>
-<td colspan="2">114</td>
-<td colspan="2">КГП «Узункольская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">74 364,78</td>
+<td>114</td>
+<td>КГП «Узункольская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
+<td>74 364,78</td>
 </tr>
 <tr>
-<td colspan="2">115</td>
-<td colspan="2">КГП «Сарыкольская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">79 774,03</td>
+<td>115</td>
+<td>КГП «Сарыкольская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
+<td>79 774,03</td>
 </tr>
 <tr>
-<td colspan="2">116</td>
-<td colspan="2">КГП «Октябрьская сельская больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">97 922,30</td>
+<td>116</td>
+<td>КГП «Октябрьская сельская больница» Управления здравоохранения акимата Костанайской области</td>
+<td>97 922,30</td>
 </tr>
 <tr>
-<td colspan="2">117</td>
-<td colspan="2">КГП «Федоровская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">199 850,67</td>
+<td>117</td>
+<td>КГП «Федоровская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
+<td>199 850,67</td>
 </tr>
 <tr>
-<td colspan="2">118</td>
-<td colspan="2">КГП «Денисовская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">96 767,35</td>
+<td>118</td>
+<td>КГП «Денисовская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
+<td>96 767,35</td>
 </tr>
 <tr>
-<td colspan="2">119</td>
-<td colspan="2">КГП «Карасуская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">180 668,65</td>
+<td>119</td>
+<td>КГП «Карасуская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
+<td>180 668,65</td>
 </tr>
 <tr>
-<td colspan="2">120</td>
-<td colspan="2">КГП «Тарановская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">95 250,97</td>
+<td>120</td>
+<td>КГП «Тарановская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
+<td>95 250,97</td>
 </tr>
 <tr>
-<td colspan="2">121</td>
-<td colspan="2">КГП «Камыстинская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">275 412,63</td>
+<td>121</td>
+<td>КГП «Камыстинская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
+<td>275 412,63</td>
 </tr>
 <tr>
-<td colspan="2">122</td>
-<td colspan="2">КГП «Амангельдинская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">111 641,71</td>
+<td>122</td>
+<td>КГП «Амангельдинская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
+<td>111 641,71</td>
 </tr>
 <tr>
-<td colspan="2">123</td>
-<td colspan="2">КГП «Аркалыкская региональная больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">35 801,32</td>
+<td>123</td>
+<td>КГП «Аркалыкская региональная больница» Управления здравоохранения акимата Костанайской области</td>
+<td>35 801,32</td>
 </tr>
 <tr>
-<td colspan="2">124</td>
-<td colspan="2">КГП «Джангельдинская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">133 579,25</td>
+<td>124</td>
+<td>КГП «Джангельдинская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
+<td>133 579,25</td>
 </tr>
 <tr>
-<td colspan="2">125</td>
-<td colspan="2">ГКП на ПХВ «Аулиекольская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">73 077,15</td>
+<td>125</td>
+<td>ГКП на ПХВ «Аулиекольская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
+<td>73 077,15</td>
 </tr>
 <tr>
-<td colspan="2">126</td>
-<td colspan="2">КГП «Мендыкаринская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">95 880,98</td>
+<td>126</td>
+<td>КГП «Мендыкаринская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
+<td>95 880,98</td>
 </tr>
 <tr>
-<td colspan="2">127</td>
-<td colspan="2">КГП «Житикаринская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">138 727,22</td>
+<td>127</td>
+<td>КГП «Житикаринская центральная районная больница» Управления здравоохранения акимата Костанайской области</td>
+<td>138 727,22</td>
 </tr>
 <tr>
-<td colspan="2">128</td>
-<td colspan="2">КГП «Костанайская областная больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">114 822,63</td>
+<td>128</td>
+<td>КГП «Костанайская областная больница» Управления здравоохранения акимата Костанайской области</td>
+<td>114 822,63</td>
 </tr>
 <tr>
-<td colspan="2">129</td>
-<td colspan="2">КГП «Лисаковская городская больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">154 489,41</td>
+<td>129</td>
+<td>КГП «Лисаковская городская больница» Управления здравоохранения акимата Костанайской области</td>
+<td>154 489,41</td>
 </tr>
 <tr>
-<td colspan="2">130</td>
-<td colspan="2">КГП «Рудненская городская детская больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">55 970,03</td>
+<td>130</td>
+<td>КГП «Рудненская городская детская больница» Управления здравоохранения акимата Костанайской области</td>
+<td>55 970,03</td>
 </tr>
 <tr>
-<td colspan="2">131</td>
-<td colspan="2">КГП «Костанайская городская детская больница» Управления здравоохранения акимата Костанайской области</td>
-<td colspan="2">91 247,94</td>
+<td>131</td>
+<td>КГП «Рудненская городская больница» Управления здравоохранения акимата Костанайской области</td>
+<td>55 970,03</td>
 </tr>
 <tr>
-<td colspan="2">132</td>
-<td colspan="2">КГП на ПХВ «Кармакшинская центральная районная больница с амбулаторно-поликлинической услугой» управления здравоохранения Кызылординской области</td>
-<td colspan="2">36 496,82</td>
+<td>132</td>
+<td>КГП «Костанайская городская детская больница» Управления здравоохранения акимата Костанайской области</td>
+<td>91 247,94</td>
 </tr>
 <tr>
-<td colspan="2">133</td>
-<td colspan="2">КГП на ПХВ «Сырдарьинская центральная районная больница с амбулаторно-поликлинической услугой» Управления здравоохранения Кызылординской области</td>
-<td colspan="2">44 364,36</td>
+<td>133</td>
+<td>КГП на ПХВ «Кармакшинская центральная районная больница с амбулаторно-поликлинической услугой» управления здравоохранения Кызылординской области</td>
+<td>36 496,82</td>
 </tr>
 <tr>
-<td colspan="2">134</td>
-<td colspan="2">КГП на ПХВ «Жалагашская центральная районная больница с амбулаторно-поликлинической услугой» Управления здравоохранения Кызылординской области</td>
-<td colspan="2">46 478,03</td>
+<td>134</td>
+<td>КГП на ПХВ «Сырдарьинская центральная районная больница с амбулаторно-поликлинической услугой» Управления здравоохранения Кызылординской области</td>
+<td>44 364,36</td>
 </tr>
 <tr>
-<td colspan="2">135</td>
-<td colspan="2">КГП на ПХВ «Казалинская центральная районная больница с амбулаторно-поликлинической услугой» управления здравоохранения Кызылординской области</td>
-<td colspan="2">51 582,68</td>
+<td>135</td>
+<td>КГП на ПХВ «Жалагашская центральная районная больница с амбулаторно-поликлинической услугой» Управления здравоохранения Кызылординской области</td>
+<td>46 478,03</td>
 </tr>
 <tr>
-<td colspan="2">136</td>
-<td colspan="2">КГП на ПХВ «Жанакорганская центральная районная больница с амбулаторно поликлинической услугой» управления здравоохранения Кызылординской области</td>
-<td colspan="2">24 717,62</td>
+<td>136</td>
+<td>КГП на ПХВ «Казалинская центральная районная больница с амбулаторно-поликлинической услугой» управления здравоохранения Кызылординской области</td>
+<td>51 582,68</td>
 </tr>
 <tr>
-<td colspan="2">137</td>
-<td colspan="2">КГП на ПХВ «Аральская центральная районная больница с амбулаторно-поликлинической услугой» управления здравоохранения Кызылординской области</td>
-<td colspan="2">42 249,39</td>
+<td>137</td>
+<td>КГП на ПХВ «Жанакорганская центральная районная больница с амбулаторно поликлинической услугой» управления здравоохранения Кызылординской области</td>
+<td>24 717,62</td>
 </tr>
 <tr>
-<td colspan="2">138</td>
-<td colspan="2">КГП на ПХВ «Шиелийская центральная районная больница с амбулаторно-поликлинической услугой» Управления здравоохранения Кызылординской области</td>
-<td colspan="2">34 154,50</td>
+<td>138</td>
+<td>КГП на ПХВ «Аральская центральная районная больница с амбулаторно-поликлинической услугой» управления здравоохранения Кызылординской области</td>
+<td>42 249,39</td>
 </tr>
 <tr>
-<td colspan="2">139</td>
-<td colspan="2">КГКП «Кызылординская областная инфекционная больница» Управления здравоохранения Кызылординской области</td>
-<td colspan="2">60 583,27</td>
+<td>139</td>
+<td>КГП на ПХВ «Шиелийская центральная районная больница с амбулаторно-поликлинической услугой» Управления здравоохранения Кызылординской области</td>
+<td>34 154,50</td>
 </tr>
 <tr>
-<td colspan="2">140</td>
-<td colspan="2">ГКП на ПХВ «Тупкараганская центральная районная больница» Управления здравоохранения Мангистауской области</td>
-<td colspan="2">55 409,36</td>
+<td>140</td>
+<td>КГП на ПХВ «Кызылординская областная инфекционная больница» Управления здравоохранения Кызылординской области</td>
+<td>60 583,27</td>
 </tr>
 <tr>
-<td colspan="2">141</td>
-<td colspan="2">ГКП на ПХВ «Жетыбайская сельская больница» Управления здравоохранения Мангистауской области</td>
-<td colspan="2">57 844,61</td>
+<td>141</td>
+<td>ГКП на ПХВ «Тупкараганская центральная районная больница» Управления здравоохранения Мангистауской области</td>
+<td>55 409,36</td>
 </tr>
 <tr>
-<td colspan="2">142</td>
-<td colspan="2">ГКП на ПХВ «Каракиянская центральная районная больница» Управления здравоохранения Мангистауской области</td>
-<td colspan="2">52 410,71</td>
+<td>142</td>
+<td>ГКП на ПХВ «Жетыбайская сельская больница» Управления здравоохранения Мангистауской области</td>
+<td>57 844,61</td>
 </tr>
 <tr>
-<td colspan="2">143</td>
-<td colspan="2">ГКП на ПХВ «Бейнеуская центральная районная больница» Управления здравоохранения Мангистауской области</td>
-<td colspan="2">73 018,87</td>
+<td>143</td>
+<td>ГКП на ПХВ «Каракиянская центральная районная больница» Управления здравоохранения Мангистауской области</td>
+<td>52 410,71</td>
 </tr>
 <tr>
-<td colspan="2">144</td>
-<td colspan="2">ГКП на ПХВ «Мангистауская центральная районная больница» Управления здравоохранения Мангистауской области</td>
-<td colspan="2">40 545,21</td>
+<td>144</td>
+<td>ГКП на ПХВ «Бейнеуская центральная районная больница» Управления здравоохранения Мангистауской области</td>
+<td>73 018,87</td>
 </tr>
 <tr>
-<td colspan="2">145</td>
-<td colspan="2">ГКП на ПХВ «Жанаозенская городская детская больница» Управления здравоохранения Мангистауской области</td>
-<td colspan="2">53 303,76</td>
+<td>145</td>
+<td>ГКП на ПХВ «Мангистауская центральная районная больница» Управления здравоохранения Мангистауской области</td>
+<td>40 545,21</td>
 </tr>
 <tr>
-<td colspan="2">146</td>
-<td colspan="2">ГКП на ПХВ «Мангистауская областная больница» Управления здравоохранеия Мангистауской области</td>
-<td colspan="2">63 738,30</td>
+<td>146</td>
+<td>ГКП на ПХВ «Жанаозенская городская детская больница» Управления здравоохранения Мангистауской области</td>
+<td>53 303,76</td>
 </tr>
 <tr>
-<td colspan="2">147</td>
-<td colspan="2">КГП на ПХВ «Павлодарская областная больница имени Г. Султанова» управления здравоохранения Павлодарской области, акимата Павлодарской области</td>
-<td colspan="2">71 550,60</td>
+<td>147</td>
+<td>ГКП на ПХВ «Мангистауская областная больница» Управления здравоохранеия Мангистауской области</td>
+<td>63 738,30</td>
 </tr>
 <tr>
-<td colspan="2">148</td>
-<td colspan="2">КГП на ПХВ «Аксуская центральная больница» управления здравоохранения Павлодарской области, акимата Павлодарской области</td>
-<td colspan="2">38 551,06</td>
+<td>148</td>
+<td>КГП на ПХВ «Павлодарская областная больница имени Г. Султанова» управления здравоохранения Павлодарской области, акимата Павлодарской области</td>
+<td>71 550,60</td>
 </tr>
 <tr>
-<td colspan="2">149</td>
-<td colspan="2">КГП на ПХВ «Павлодарская областная детская больница» управления здравоохранения Павлодарской области, акимата Павлодарской области</td>
-<td colspan="2">73 652,65</td>
+<td>149</td>
+<td>КГП на ПХВ «Аксуская центральная больница» управления здравоохранения Павлодарской области, акимата Павлодарской области</td>
+<td>38 551,06</td>
 </tr>
 <tr>
-<td colspan="2">150</td>
-<td colspan="2">КГП на ПХВ «Экибастузская городская больница» управления здравоохранения Павлодарской области, акимата Павлодарской области</td>
-<td colspan="2">36 085,01</td>
+<td>150</td>
+<td>КГП на ПХВ «Павлодарская областная детская больница» управления здравоохранения Павлодарской области, акимата Павлодарской области</td>
+<td>73 652,65</td>
 </tr>
 <tr>
-<td colspan="2">151</td>
-<td colspan="2">КГП на ПХВ «Акжарская центральная районная больница» коммунального государственного учреждения «Управление здравоохранения акимата Северо-Казахстанской области»</td>
-<td colspan="2">28 729,64</td>
+<td>151</td>
+<td>КГП на ПХВ «Экибастузская городская больница» управления здравоохранения Павлодарской области, акимата Павлодарской области</td>
+<td>36 085,01</td>
 </tr>
 <tr>
-<td colspan="2">152</td>
-<td colspan="2">КГП на ПХВ «Жамбылская центральная районная больница» коммунального государственного учреждения «Управление здравоохранения акимата Северо-Казахстанской области»</td>
-<td colspan="2">61 250,00</td>
+<td>152</td>
+<td>КГП на ПХВ «Акжарская центральная районная больница» коммунального государственного учреждения «Управление здравоохранения акимата Северо-Казахстанской области»</td>
+<td>28 729,64</td>
 </tr>
 <tr>
-<td colspan="2">153</td>
-<td colspan="2">КГП на ПХВ «Айыртауская центральная районная больница» коммунального государственного учреждения «Управление здравоохранения акимата Северо-Казахстанской области»</td>
-<td colspan="2">60 204,78</td>
+<td>153</td>
+<td>КГП на ПХВ «Жамбылская центральная районная больница» коммунального государственного учреждения «Управление здравоохранения акимата Северо-Казахстанской области»</td>
+<td>61 250,00</td>
 </tr>
 <tr>
-<td colspan="2">154</td>
-<td colspan="2">КГП на ПХВ «Центральная районная больница района Шал акына» коммунального государственного учреждения «Управление здравоохранения акимата Северо-Казахстанской области»</td>
-<td colspan="2">43 235,29</td>
+<td>154</td>
+<td>КГП на ПХВ «Айыртауская центральная районная больница» коммунального государственного учреждения «Управление здравоохранения акимата Северо-Казахстанской области»</td>
+<td>60 204,78</td>
 </tr>
 <tr>
-<td colspan="2">155</td>
-<td colspan="2">КГП на ПХВ «Центральная районная больница района Магжана Жумабаева» коммунального государственного учреждения «Управление здравоохранения акимата Северо-Казахстанской области»</td>
-<td colspan="2">32 546,13</td>
+<td>155</td>
+<td>КГП на ПХВ «Центральная районная больница района Шал акына» коммунального государственного учреждения «Управление здравоохранения акимата Северо-Казахстанской области»</td>
+<td>43 235,29</td>
 </tr>
 <tr>
-<td colspan="2">156</td>
-<td colspan="2">КГП на ПХВ «Центральная районная больница района имени Габита Мусрепова» коммунального государственного учреждения «Управление здравоохранения акимата Северо-Казахстанской области»</td>
-<td colspan="2">30 893,17</td>
+<td>156</td>
+<td>КГП на ПХВ «Центральная районная больница района Магжана Жумабаева» коммунального государственного учреждения «Управление здравоохранения акимата Северо-Казахстанской области»</td>
+<td>32 546,13</td>
 </tr>
 <tr>
-<td colspan="2">157</td>
-<td colspan="2">КГП на ПХВ «Первая городская больница» коммунального государственного учреждения «Управление здравоохранения акимата Северо-Казахстанской области»</td>
-<td colspan="2">59 528,05</td>
+<td>157</td>
+<td>КГП на ПХВ «Центральная районная больница района имени Габита Мусрепова» коммунального государственного учреждения «Управление здравоохранения акимата Северо-Казахстанской области»</td>
+<td>30 893,17</td>
 </tr>
 <tr>
-<td colspan="2">158</td>
-<td colspan="2">КГП на ПХВ «Третья городская больница» коммунального государственного учреждения «Управление здравоохранения акимата Северо-Казахстанской области»</td>
-<td colspan="2">55 216,12</td>
+<td>158</td>
+<td>КГП на ПХВ «Первая городская больница» коммунального государственного учреждения «Управление здравоохранения акимата Северо-Казахстанской области»</td>
+<td>59 528,05</td>
 </tr>
 <tr>
-<td colspan="2">159</td>
-<td colspan="2">ГКП на ПХВ «Байдибекская центральная районная больница» управления здравоохранения Туркестанской области</td>
-<td colspan="2">34 460,38</td>
+<td>159</td>
+<td>КГП на ПХВ «Третья городская больница» коммунального государственного учреждения «Управление здравоохранения акимата Северо-Казахстанской области»</td>
+<td>55 216,12</td>
 </tr>
 <tr>
-<td colspan="2">160</td>
-<td colspan="2">ГКП на ПХВ «Шардаринская центральная районная больница» управления здравоохранения Туркестанской области</td>
-<td colspan="2">35 712,24</td>
+<td>160</td>
+<td>ГКП на ПХВ «Байдибекская центральная районная больница» управления здравоохранения Туркестанской области</td>
+<td>34 460,38</td>
 </tr>
 <tr>
-<td colspan="2">161</td>
-<td colspan="2">ГКП на ПХВ «Сузакская центральная районная больница» управления здравоохранения Туркестанской области</td>
-<td colspan="2">41 085,20</td>
+<td>161</td>
+<td>ГКП на ПХВ «Шардаринская центральная районная больница» управления здравоохранения Туркестанской области</td>
+<td>35 712,24</td>
 </tr>
 <tr>
-<td colspan="2">162</td>
-<td colspan="2">ГКП на ПХВ «Мактааральская районная больница «Мырзакент» управления здравоохранения Туркестанской области</td>
-<td colspan="2">30 159,26</td>
+<td>162</td>
+<td>ГКП на ПХВ «Сузакская центральная районная больница» управления здравоохранения Туркестанской области</td>
+<td>41 085,20</td>
 </tr>
 <tr>
-<td colspan="2">163</td>
-<td colspan="2">ГКП на ПХВ «Жетысайская центральная районная больница» управления здравоохранения Туркестанской области</td>
-<td colspan="2">36 445,93</td>
+<td>163</td>
+<td>ГКП на ПХВ «Мактааральская районная больница «Мырзакент» управления здравоохранения Туркестанской области</td>
+<td>30 159,26</td>
 </tr>
 <tr>
-<td colspan="2">164</td>
-<td colspan="2">ГКП на ПХВ «Отрарская центральная районная больница» управления здравоохранения Туркестанской области</td>
-<td colspan="2">40 394,10</td>
+<td>164</td>
+<td>ГКП на ПХВ «Жетысайская центральная районная больница» управления здравоохранения Туркестанской области</td>
+<td>36 445,93</td>
 </tr>
 <tr>
-<td colspan="2">165</td>
-<td colspan="2">ГККП «Ленгерская городская больница» управления здравоохранения Туркестанской области</td>
-<td colspan="2">25 778,83</td>
+<td>165</td>
+<td>ГКП на ПХВ «Отрарская центральная районная больница» управления здравоохранения Туркестанской области</td>
+<td>40 394,10</td>
 </tr>
 <tr>
-<td colspan="2">166</td>
-<td colspan="2">ГКП на ПХВ «Келесская районная больница» Абай» управления здравоохранения Туркестанской области</td>
-<td colspan="2">26 650,90</td>
+<td>166</td>
+<td>ГККП «Ленгерская городская больница» управления здравоохранения Туркестанской области</td>
+<td>25 778,83</td>
 </tr>
 <tr>
-<td colspan="2">167</td>
-<td colspan="2">ГКП на ПХВ «Жетысайская районная больница «Асыката» управления здравоохранения Туркестанской области</td>
-<td colspan="2">28 315,36</td>
+<td>167</td>
+<td>ГКП на ПХВ «Келесская районная больница» Абай» управления здравоохранения Туркестанской области</td>
+<td>26 650,90</td>
 </tr>
 <tr>
-<td colspan="2">168</td>
-<td colspan="2">ГКП на ПХВ «Толебийская районная больница» управления здравоохранения Туркестанской области</td>
-<td colspan="2">25 976,45</td>
+<td>168</td>
+<td>ГКП на ПХВ «Жетысайская районная больница «Асыката» управления здравоохранения Туркестанской области</td>
+<td>28 315,36</td>
 </tr>
 <tr>
-<td colspan="2">169</td>
-<td colspan="2">ГКП на ПХВ «Сайрамская центральная районная больница» управления здравоохранения Туркестанской области</td>
-<td colspan="2">37 517,03</td>
+<td>169</td>
+<td>ГКП на ПХВ «Толебийская районная больница» управления здравоохранения Туркестанской области</td>
+<td>25 976,45</td>
 </tr>
 <tr>
-<td colspan="2">170</td>
-<td colspan="2">ГКП на ПХВ «Арысская центральная районная больница» управления здравоохранения Туркестанской области</td>
-<td colspan="2">23 783,06</td>
+<td>170</td>
+<td>ГКП на ПХВ «Сайрамская центральная районная больница» управления здравоохранения Туркестанской области</td>
+<td>37 517,03</td>
 </tr>
 <tr>
-<td colspan="2">171</td>
-<td colspan="2">ГКП на ПХВ «Сайрамская районная больница «Карабулак» управления здравоохранения Туркестанской области</td>
-<td colspan="2">20 630,39</td>
+<td>171</td>
+<td>ГКП на ПХВ «Арысская центральная районная больница» управления здравоохранения Туркестанской области</td>
+<td>23 783,06</td>
 </tr>
 <tr>
-<td colspan="2">172</td>
-<td colspan="2">ГКП на ПХВ «Кентауская центральная городская больница» управления здравоохранения Туркестанской области</td>
-<td colspan="2">27 871,29</td>
+<td>172</td>
+<td>ГКП на ПХВ «Сайрамская районная больница «Карабулак» управления здравоохранения Туркестанской области</td>
+<td>20 630,39</td>
 </tr>
 <tr>
-<td colspan="2">173</td>
-<td colspan="2">ГКП на ПХВ «Казыгуртская центральная районная больница» управления здравоохранения Туркестанской области</td>
-<td colspan="2">21 770,51</td>
+<td>173</td>
+<td>ГКП на ПХВ «Кентауская центральная городская больница» управления здравоохранения Туркестанской области</td>
+<td>27 871,29</td>
 </tr>
 <tr>
-<td colspan="2">174</td>
-<td colspan="2">ГКП на ПХВ «Тюлькубасская центральная районная больница» управления здравоохранения Туркестанской области</td>
-<td colspan="2">30 163,97</td>
+<td>174</td>
+<td>ГКП на ПХВ «Казыгуртская центральная районная больница» управления здравоохранения Туркестанской области</td>
+<td>21 770,51</td>
 </tr>
 <tr>
-<td colspan="2">175</td>
-<td colspan="2">ГКП на ПХВ «Туркестанская городская центральная больница» управления здравоохранения Туркестанской области</td>
-<td colspan="2">32 382,65</td>
+<td>175</td>
+<td>ГКП на ПХВ «Тюлькубасская центральная районная больница» управления здравоохранения Туркестанской области</td>
+<td>30 163,97</td>
 </tr>
 <tr>
-<td colspan="2">176</td>
-<td colspan="2">ГКП на ПХВ «Сарыагашская центральная районная больница» управления здравоохранения Туркестанской области</td>
-<td colspan="2">27 210,27</td>
+<td>176</td>
+<td>ГКП на ПХВ «Туркестанская городская центральная больница» управления здравоохранения Туркестанской области</td>
+<td>32 382,65</td>
 </tr>
 <tr>
-<td colspan="2">177</td>
-<td colspan="2">ГКП на ПХВ «Ордабасинская центральная районная больница» управления здравоохранения Туркестанской области</td>
-<td colspan="2">19 955,99</td>
+<td>177</td>
+<td>ГКП на ПХВ «Сарыагашская центральная районная больница» управления здравоохранения Туркестанской области</td>
+<td>27 210,27</td>
 </tr>
 <tr>
-<td colspan="2">178</td>
-<td colspan="2">ГККП «Городская инфекционная больница» управления здравоохранения города Шымкента</td>
-<td colspan="2">53 865,43</td>
+<td>178</td>
+<td>ГКП на ПХВ «Ордабасинская центральная районная больница» управления здравоохранения Туркестанской области</td>
+<td>19 955,99</td>
 </tr>
 <tr>
-<td colspan="2">179</td>
-<td colspan="2">ГКП на ПХВ «Городская клиническая инфекционная больница имени Изатимы Жекеновой» Управления здровоохранения города Алматы</td>
-<td colspan="2">81 602,02</td>
+<td>179</td>
+<td>ГККП «Городская инфекционная больница» управления здравоохранения города Шымкента</td>
+<td>53 865,43</td>
 </tr>
 <tr>
-<td colspan="2">180</td>
-<td colspan="2">ГКП на ПХВ «Детская городская клиническая инфекционная больница» Управления здравоохранения города Алматы</td>
-<td colspan="2">45 526,72</td>
+<td>180</td>
+<td>ГКП на ПХВ «Городская клиническая инфекционная больница имени Изатимы Жекеновой» Управления здровоохранения города Алматы</td>
+<td>81 602,02</td>
 </tr>
 <tr>
-<td colspan="2">181</td>
-<td colspan="2">ГККП «Городская инфекционная больница» акимата города Астаны</td>
-<td colspan="2">89 154,59</td>
+<td>181</td>
+<td>ГКП на ПХВ «Детская городская клиническая инфекционная больница» Управления здравоохранения города Алматы</td>
+<td>45 526,72</td>
 </tr>
 <tr>
-<td colspan="2">182</td>
-<td colspan="2">ГККП «Городская детская инфекционная больница» акимата города Астаны</td>
-<td colspan="2">95 295,00</td>
+<td>182</td>
+<td>ГККП «Городская инфекционная больница» акимата города Астаны</td>
+<td>89 154,59</td>
+</tr>
+<tr>
+<td>183</td>
+<td>ГККП «Городская детская инфекционная больница» акимата города Астаны</td>
+<td>95 295,00</td>
 </tr>
 </table>
 
@@ -190652,11 +190741,14 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 
 ## Подушевой норматив скорой помощи на одного прикрепленного человека для станции скорой медицинской помощи в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования*
 
-> *Сноска. Подушевой норматив в редакции приказа Министра здравоохранения РК от 06.11.2018 № ҚР ДСМ-31 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Подушевой норматив в редакции приказа Министра здравоохранения РК от 25.12.2018 № ҚР ДСМ-45 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td>№ п/п</td>
+<td>
+№
+п/п
+</td>
 <td>Наименование регионов</td>
 <td>Подушевой норматив (тенге)</td>
 </tr>
@@ -190755,7 +190847,15 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 
 Поправочные коэффициенты к подушевому нормативу скорой помощи на одного жителя в месяц для субъектов здравоохранения с целью корректировки тарифа в разрезе медицинских организаций согласно приложению 3 к Подушевому нормативу скорой помощи на одного прикрепленного человека для станции скорой медицинской помощи в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования
 
-> *Приложение 1 к подушевому нормативу скорой помощи на одного прикрепленного человека для станции скорой медицинской помощи в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования*
+> *Приложение 1*  
+> *к подушевому нормативу скорой*  
+> *помощи на одного прикрепленного*  
+> *человека для станции скорой*  
+> *медицинской помощи в рамках*  
+> *гарантированного объема*  
+> *бесплатной медицинской помощи и*  
+> *в системе обязательного социального*  
+> *медицинского страхования*
 
 ## Поправочные коэффициенты к подушевому нормативу скорой медицинской помощи на одного жителя в месяц
 
@@ -190763,9 +190863,18 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <tr>
 <td>№</td>
 <td>Регионы</td>
-<td>Коэффициент плотности населения</td>
-<td>Коэффициент учета надбавок за работу в сельской местности</td>
-<td>Коэффициент учета продолжительности отопительного сезона</td>
+<td>
+Коэффициент
+плотности населения
+</td>
+<td>
+Коэффициент
+учета надбавок за работу в сельской местности
+</td>
+<td>
+Коэффициент
+учета продолжительности отопительного сезона
+</td>
 </tr>
 <tr>
 <td>1</td>
@@ -190888,7 +190997,15 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 </table>
 
-> *Приложение 2 к подушевому нормативу скорой помощи на одного прикрепленного человека для станции скорой медицинской помощи в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования*
+> *Приложение 2*  
+> *к подушевому нормативу скорой*  
+> *помощи на одного прикрепленного*  
+> *человека для станции скорой*  
+> *медицинской помощи в рамках*  
+> *гарантированного объема*  
+> *бесплатной медицинской помощи и*  
+> *в системе обязательного социального*  
+> *медицинского страхования*
 
 ## Поправочные коэффициенты к подушевому нормативу скорой медицинской помощи на одного жителя в месяц для субъекта здравоохранения с целью корректировки тарифа в разрезе регионов
 
@@ -190985,13 +191102,24 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 </table>
 
-> *Приложение 3 к подушевому норматив скорой помощи на одного прикрепленного человека для станции скорой медицинской помощи в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования*
+> *Приложение 3*  
+> *к подушевому норматив скорой*  
+> *помощи на одного прикрепленного*  
+> *человека для станции скорой*  
+> *медицинской помощи в рамках*  
+> *гарантированного объема*  
+> *бесплатной медицинской помощи и*  
+> *в системе обязательного социального*  
+> *медицинского страхования*
 
 ## Поправочные коэффициенты к подушевому нормативу скорой помощи на одного жителя в месяц для субъектов здравоохранения с целью корректировки тарифа в разрезе медицинских организаций
 
 <table>
 <tr>
-<td>№ п/п</td>
+<td>
+№
+п/п
+</td>
 <td>Наименование медицинских организаций</td>
 <td>Поправочные коэффициенты</td>
 </tr>
@@ -191110,12 +191238,12 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>22</td>
-<td>ГКП на ПХВ «Районная больница» п.Боралдай Государственного Учреждения Управления здравоохранения акимата Алматинской области акимата Алматинской области</td>
+<td>ГКП на ПХВ «Районная больница» п.Боралдай Государственного Учреждения Управления здравоохранения акима Алматинской области акимата Алматинской области</td>
 <td>0,346</td>
 </tr>
 <tr>
 <td>23</td>
-<td>ГКП на ПХВ «Панфиловская центральная районная больница» Государственного Учреждения Управления здравоохранения акимата Алматинской области акимата Алматинской области</td>
+<td>ГКП на ПХВ «Панфиловская центральная районная больница» Государственного Учреждения Управления здравоохранения акима Алматинской области акимата Алматинской области</td>
 <td>0,420</td>
 </tr>
 <tr>
@@ -191181,7 +191309,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <tr>
 <td>36</td>
 <td>КГП на ПХВ «Областная станция скорой и неотложной медицинской помощи» Управление здравоохранения Алматинской области</td>
-<td>6,180</td>
+<td>0,850</td>
 </tr>
 <tr>
 <td>37</td>
@@ -191495,7 +191623,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>99</td>
-<td>КГП «Октябрьская сельская больница&quot; Управления здравоохранения акимата Костанайской области</td>
+<td>КГП «Октябрьская сельская больница» Управления здравоохранения акимата Костанайской области</td>
 <td>0,981</td>
 </tr>
 <tr>
@@ -191535,7 +191663,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>107</td>
-<td>Скорая медицинская помощи и санитарная авиация (Областная станция скорой медицинской помощи) Управления здравоохранения Кызылординской области</td>
+<td>КГП на ПХВ Кызылординская областная станция скорой медицинской помощи Управления здравоохранения Кызылординской области</td>
 <td>1,011</td>
 </tr>
 <tr>
@@ -191769,13 +191897,19 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 
 ## Тариф на медицинские услуги, оказываемые в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования, возмещение затрат на которые осуществляется за один вызов по транспортировке квалифицированных специалистов и (или) больного санитарным автотранспортом
 
-> *Сноска. Тариф в редакции приказа Министра здравоохранения РК от 06.11.2018 № ҚР ДСМ-31 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Тариф в редакции приказа Министра здравоохранения РК от 25.12.2018 № ҚР ДСМ-45 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td>№ п/п</td>
+<td>
+№
+п/п
+</td>
 <td>Наименование регионов</td>
-<td>Тариф на один вызов по транспортировке (тенге)</td>
+<td>
+Тариф на один вызов по транспортировке
+(тенге)
+</td>
 </tr>
 <tr>
 <td>1</td>
@@ -191805,7 +191939,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <tr>
 <td>6</td>
 <td>Жамбылская область</td>
-<td>134 875,93</td>
+<td>95 113,09</td>
 </tr>
 <tr>
 <td>7</td>
@@ -191858,11 +191992,14 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 
 ## Тариф на медицинские услуги, оказываемые в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования, возмещение затрат на которые осуществляется по восстановительному лечению и реабилитации за один койко-день
 
-> *Сноска. Тариф в редакции приказа Министра здравоохранения РК от 06.11.2018 № ҚР ДСМ-31 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Тариф в редакции приказа Министра здравоохранения РК от 25.12.2018 № ҚР ДСМ-45 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td rowspan="2">№ п/п</td>
+<td rowspan="2">
+№
+п/п
+</td>
 <td rowspan="2">Наименование медицинской организации</td>
 <td colspan="2">Тариф за один койко-день, в тенге</td>
 </tr>
@@ -191890,7 +192027,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>3</td>
-<td>Государственное коммунальное предприятие «Актюбинский медицинский центр» на праве хозяйственного ведения Государственного учреждения Управления Здравоохранения Актюбинской области</td>
+<td>Государственное коммунальное предприятие «Актюбинский медицинский центр» (Aktobe medical center) на праве хозяйственного ведения Государственного учреждения Управления Здравоохранения Актюбинской области</td>
 <td>7 377,84</td>
 <td></td>
 </tr>
@@ -191927,7 +192064,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 <tr>
 <td>9</td>
 <td>Государственное коммунальное предприятие на праве хозяйственного ведения «Ауданаралық сауықтыру ауруханасы» оңалту орталығы» управления здравоохранения акимата Западно-Казахстанской области</td>
-<td>4 264,89</td>
+<td>6 293,38</td>
 <td></td>
 </tr>
 <tr>
@@ -191938,156 +192075,174 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>11</td>
-<td>Коммунальное государственное предприятие «Областной центр медицинской помощи ветеранам войны» управления здравоохранения Карагандинской области</td>
+<td>Коммунальное государственное предприятие «Областной кардиохирургический центр» управления здравоохранения Карагандинской области</td>
 <td>7 974,63</td>
 <td>5 723,02</td>
 </tr>
 <tr>
 <td>12</td>
+<td>Коммунальное государственное предприятие «Многопрофильная больница №2 города Караганды» управления здравоохранения Карагандинской области</td>
+<td>7 974,63</td>
+<td>5 723,02</td>
+</tr>
+<tr>
+<td>13</td>
 <td>Коммунальное государственное казенное предприятие «Реабилитационный центр «Умит» управления здравоохранения Карагандинской области</td>
 <td>5 201,39</td>
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>14</td>
 <td>Коммунальное государственное казенное предприятие «Соматический санаторий «Карлыгаш» управления здравоохранения Карагандинской области</td>
 <td>2 515,75</td>
 <td></td>
 </tr>
 <tr>
-<td>14</td>
+<td>15</td>
 <td>Коммунальное государственное предприятие «Костанайская городская детская больница» Управления здравоохранения акимата Костанайской области</td>
 <td>7 646,24</td>
 <td></td>
 </tr>
 <tr>
-<td>15</td>
+<td>16</td>
 <td>Коммунальное государственное предприятие на праве хозяственного ведения «Сырдарьинская центральная районная больница с амбулаторно-поликлинической услугой» управления здравоохранения Кызылординской области</td>
 <td>14 367,82</td>
 <td></td>
 </tr>
 <tr>
-<td>16</td>
+<td>17</td>
 <td>Коммунальное государственное предприятие на праве хозяственного ведения «Казалинская центральная районная больница с амбулаторно-поликлинической услугой» управления здравоохранения Кызылординской области</td>
 <td>9 025,54</td>
 <td></td>
 </tr>
 <tr>
-<td>17</td>
+<td>18</td>
 <td>Коммунальное государственное предприятие на праве хозяйственного ведения «Жанакорганская центральная районная больница с амбулаторно поликлинической услугой» управления здравоохранения Кызылординской области</td>
 <td>9 057,97</td>
 <td></td>
 </tr>
 <tr>
-<td>18</td>
+<td>19</td>
 <td>Коммунальное государственное предприятие на праве хозяйственного ведения «Кызылординская городская больница» управления здравоохранения Кызылординской области»</td>
 <td>9 057,97</td>
 <td></td>
 </tr>
 <tr>
-<td>19</td>
+<td>20</td>
 <td>Товарищество с ограниченной ответственностью «Нейрон» Мангистауской области</td>
 <td>6 825,41</td>
 <td>3 329,50</td>
 </tr>
 <tr>
-<td>20</td>
+<td>21</td>
 <td>Товарищество с ограниченной ответственностью «Ясин» Мангистауской области</td>
 <td>6 825,41</td>
 <td>3 329,50</td>
 </tr>
 <tr>
-<td>21</td>
+<td>22</td>
+<td>Государственное коммунальное предприятие на праве хозяйственного ведения «Мангистауская областная больница» Мангистауской области</td>
+<td>6830,60</td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td>Государственное коммунальное предприятие на праве хозяйственного ведения «Жанаозенская городская больница» Мангистауской области</td>
+<td>6825,41</td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
 <td>Государственное коммунальное казенное предприятие «Реабилитационный центр «Мейрим» управления здравоохранения города Шымкента</td>
 <td>5 111,54</td>
 <td></td>
 </tr>
 <tr>
-<td>22</td>
+<td>25</td>
 <td>Государственное коммунальное казенное предприятие «Областной детский реабилитационный центр» управления здравоохранения Туркестанской области</td>
 <td>4 556,79</td>
 <td></td>
 </tr>
 <tr>
-<td>23</td>
+<td>26</td>
 <td>Государственное коммунальное казенное предприятие «Областной детский санаторий «Сарыагаш» управления здравоохранения Туркестанской области</td>
 <td>3 670,56</td>
 <td></td>
 </tr>
 <tr>
-<td>24</td>
+<td>27</td>
 <td>Государственное коммунальное предприятие на праве хозяйственного ведения «Реабилитационый центр №2» управления здравоохранения города Шымкента</td>
 <td>6 844,15</td>
 <td></td>
 </tr>
 <tr>
-<td>25</td>
+<td>28</td>
 <td>Государственное коммунальное предприятие на праве хозяйственного ведения «Тюлькубасская центральная районная больница» управления здравоохранения Туркестанской области</td>
 <td>3 816,82</td>
 <td></td>
 </tr>
 <tr>
-<td>26</td>
+<td>29</td>
 <td>Товарищество с ограниченной ответственностью «Денсаулык» города Шымкента</td>
 <td>5 197,53</td>
 <td></td>
 </tr>
 <tr>
-<td>27</td>
+<td>30</td>
 <td>Товарищество с ограниченной ответственностью «Эскулап –Vita» города Шымкента</td>
 <td>5 037,24</td>
 <td></td>
 </tr>
 <tr>
-<td>28</td>
+<td>31</td>
 <td>Товарищество с ограниченной ответственностью «Реабилитационно-оздоровительный комплекс «Ақсу-Жабағлы» Туркестанской области</td>
 <td>6 296,98</td>
 <td></td>
 </tr>
 <tr>
-<td>29</td>
+<td>32</td>
 <td>Товарищество с ограниченной ответственностью «Реабилитационно-оздоровительный комплекс «Бирколик» Туркестанской области</td>
 <td>6 296,98</td>
 <td></td>
 </tr>
 <tr>
-<td>30</td>
+<td>33</td>
 <td>Государственное коммунальное казенное предприятие «Реабилитационный центр «Мать и дитя» управления здравоохранения города Шымкента</td>
 <td>19 179,46</td>
 <td></td>
 </tr>
 <tr>
-<td>31</td>
+<td>34</td>
 <td>Государственное коммунальное казенное предприятие «Реабилитационный центр №1» управления здравоохранения города Шымкента</td>
 <td>7 577,88</td>
 <td></td>
 </tr>
 <tr>
-<td>32</td>
-<td>Государственное коммунальное предприятие на праве хозяйственного ведения «Детский санаторий №4» управления здравоохранения г. Алматы</td>
+<td>35</td>
+<td>Государственное коммунальное предприятие на праве хозяйственного ведения «Детский реабилитационный центр «Балдаурен» управления здравоохранения г. Алматы</td>
 <td>4 889,49</td>
 <td></td>
 </tr>
 <tr>
-<td>33</td>
-<td>Государственное коммунальное предприятие на праве хозяйственного ведения «Детский санаторий №3 «Алау» управления здравоохранения г. Алматы</td>
+<td>36</td>
+<td>Государственное коммунальное предприятие на праве хозяйственного ведения «Реабилитационный центр «Алау» управления здравоохранения г. Алматы</td>
 <td>4 982,30</td>
 <td></td>
 </tr>
 <tr>
-<td>34</td>
-<td>Государственное коммунальное предприятие на праве хозяйственного ведения «Детский санаторий №2» управления здравоохранения г. Алматы</td>
+<td>37</td>
+<td>Коммунальное государственное предприятие на праве хозяйственного ведения «Центр ранней детской реабилитации» управления здравоохранения г. Алматы</td>
 <td>3 839,58</td>
 <td></td>
 </tr>
 <tr>
-<td>35</td>
+<td>38</td>
 <td>Государственное коммунальное предприятие на праве хозяйственного ведения «Городской детский реабилитационный центр» управления здравоохранения г. Алматы</td>
 <td>8 040,94</td>
 <td></td>
 </tr>
 <tr>
-<td>36</td>
+<td>39</td>
 <td>Товарищество с ограниченной ответственностью «Медицинский реабилитационный центр Жулдызай» г.Астана</td>
 <td></td>
 <td>3 329,50</td>
@@ -192125,7 +192280,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 
 ## Тариф на медицинские услуги, оказываемые в рамках гарантированного объема бесплатной медицинской помощи и в системе обязательного социального медицинского страхования, возмещение затрат на которые осуществляется по сестринскому уходу за один койко-день
 
-> *Сноска. Тарифы в редакции приказа Министра здравоохранения РК от 06.11.2018 № ҚР ДСМ-31 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Тариф в редакции приказа Министра здравоохранения РК от 25.12.2018 № ҚР ДСМ-45 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -192190,7 +192345,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>11</td>
-<td>ГКП на ПХВ «Областная клиническая больница» управления здравоохранения акимата Западно-Казахстанской области</td>
+<td>ГКП на ПХВ «Областная многопрофильная больница» управления здравоохранения акимата Западно-Казахстанской области</td>
 <td>5 866,67</td>
 </tr>
 <tr>
@@ -192205,7 +192360,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>14</td>
-<td>КГП «Детская больница города Темиртау» управления здравоохранения Карагандинской области</td>
+<td>КГП «Родильный дом города Темиртау» управления здравоохранения Карагандинской области</td>
 <td>4 181,37</td>
 </tr>
 <tr>
@@ -192255,7 +192410,7 @@ source: https://zan.gov.kz/client/#!/doc/124440/rus/06.11.2018
 </tr>
 <tr>
 <td>24</td>
-<td>ГКП на ПХВ «Медицинский колледж» Управления здравоохранения города Алматы</td>
+<td>КГП на ПХВ «Высший медицинский колледж» Управления здравоохранения города Алматы</td>
 <td>5 103,29</td>
 </tr>
 </table>
