@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/60314/rus/29.07.2013
+source: https://zan.gov.kz/client/#!/doc/60314/rus/25.12.2018
 ---
 
 ## § 4. Предполетная подготовка на воздушном судне
