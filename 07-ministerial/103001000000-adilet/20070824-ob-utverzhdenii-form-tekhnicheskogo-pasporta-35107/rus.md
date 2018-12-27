@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/35107/rus/22.12.2016
+source: https://zan.gov.kz/client/#!/doc/35107/rus/27.12.2018
 ---
 
 # Об утверждении форм технического паспорта
