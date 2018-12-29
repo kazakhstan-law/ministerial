@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56272/rus/24.03.2017
+source: https://zan.gov.kz/client/#!/doc/56272/rus/29.12.2018
 ---
 
 ## Қабылдау бөлiмшесi дәрiгерiнiң жазбасы
