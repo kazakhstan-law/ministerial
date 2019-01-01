@@ -10,11 +10,11 @@ approved_on: 2018-05-15
 approved_by:
 - '103036000000'
 version_date:
-  kaz: 2018-12-10
-  rus: 2018-12-10
+  kaz: 2019-01-01
+  rus: 2019-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/122306/kaz/10.12.2018
-  rus: https://zan.gov.kz/client/#!/doc/122306/rus/10.12.2018
+  kaz: https://zan.gov.kz/client/#!/doc/122306/kaz/01.01.2019
+  rus: https://zan.gov.kz/client/#!/doc/122306/rus/01.01.2019
 caused_by:
   code: '126614'
   requisite: Приказ Министра энергетики Республики Казахстан от 10 декабря 2018 года № 490. Зарегистрирован в Министерстве юстиции Республики Казахстан 11 декабря 2018 года № 17910
