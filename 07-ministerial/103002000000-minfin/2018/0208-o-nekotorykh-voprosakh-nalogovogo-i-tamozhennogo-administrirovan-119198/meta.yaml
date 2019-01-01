@@ -10,11 +10,11 @@ approved_on: 2018-02-08
 approved_by:
 - '103002000000'
 version_date:
-  kaz: 2018-10-08
-  rus: 2018-10-08
+  kaz: 2019-01-01
+  rus: 2019-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/119198/kaz/08.10.2018
-  rus: https://zan.gov.kz/client/#!/doc/119198/rus/08.10.2018
+  kaz: https://zan.gov.kz/client/#!/doc/119198/kaz/01.01.2019
+  rus: https://zan.gov.kz/client/#!/doc/119198/rus/01.01.2019
 caused_by:
   code: '125408'
   requisite: Приказ Министра финансов Республики Казахстан от 8 октября 2018 года № 892. Зарегистрирован в Министерстве юстиции Республики Казахстан 25 октября 2018 года № 17607
