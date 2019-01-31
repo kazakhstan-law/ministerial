@@ -1,5 +1,5 @@
 ---
-version_id: '106397_113284'
+version_id: '106397_387473'
 act_code: '106397'
 language: rus
 title: Об утверждении лимитов водопользования в разрезе бассейнов и областей (городов республиканского значения, столицы) на 2016-2025 годы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103012000000'
 approval_date: 2016-08-19
-version_date: 2016-08-19
+version_date: 2019-01-31
 registry_number: '106397'
-source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
+caused_by:
+  code: '127800'
+  title: О внесении изменений в некоторые приказы Министра сельского хозяйства Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/127800/rus
+source: https://zan.gov.kz/client/#!/doc/106397/rus/31.01.2019
 ---
 
 # Об утверждении лимитов водопользования в разрезе бассейнов и областей (города республиканского значения, столицы) на 2016-2025 годы
@@ -42,38 +46,40 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 **А. Мырзахметов**
 
 > *Утверждены*  
-> *приказом Заместителя Премьер-*  
-> *Министра Республики Казахстан –*  
-> *Министра сельского*  
+> *приказом Заместителя*  
+> *Премьер-Министра Республики*  
+> *Казахстан – Министра сельского*  
 > *хозяйства Республики Казахстан*  
 > *от 19 августа 2016 года № 367*
 
 ## Лимиты водопользования в разрезе бассейнов и областей (города республиканского значения, столицы) на 2016-2025 годы*
 
+> *Сноска. Лимиты водопользования в редакции приказа Заместителя Премьер-Министра РК - Министра сельского хозяйства РК от 27.12.2018 № 543 (вводится в действие по истечении двадцати одного календарного дня после дня его первого официального опубликования).*
+
 <table>
 <tr>
 <td rowspan="3">№</td>
-<td rowspan="3">Наиме-нование областей</td>
-<td rowspan="3">Наимено-вание бассейнов рек</td>
-<td rowspan="3">Всего, миллион кубичес-ких метров</td>
-<td colspan="6">в том числе, миллион кубических метров</td>
+<td rowspan="3">Наименование областей</td>
+<td rowspan="3">Наименование бассейнов рек</td>
+<td rowspan="3">Всего, миллион кубических метров</td>
+<td colspan="5">в том числе, миллион кубических метров</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">Коммунально-бытовые и про-мышленные нужды</td>
+<td rowspan="2">Коммунально-бытовые и промышленные нужды</td>
 <td colspan="2">Сельское хозяйство</td>
-<td rowspan="2">Рыб-ное хозяй ство</td>
-<td rowspan="2">Эколо-гичес-кие нужды и прочие</td>
+<td rowspan="2">Рыбное хозяйство</td>
+<td rowspan="2">Экологические нужды и прочие</td>
 </tr>
 <tr>
 <td>всего</td>
-<td>из них на регу-лярное ороше-ние</td>
+<td>из них на регулярное орошение</td>
 </tr>
 <tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
-<td colspan="2">5</td>
+<td>5</td>
 <td>6</td>
 <td>7</td>
 <td>8</td>
@@ -81,22 +87,19 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 </tr>
 <tr>
 <td rowspan="5">1</td>
-<td rowspan="5">Акмолин-ская, в том числе город Астана</td>
+<td rowspan="5">Акмолинская, в том числе город Астана</td>
 <td>река Есиль</td>
 <td>115,0</td>
-<td colspan="2">82,0</td>
+<td>82,0</td>
 <td>32,0</td>
 <td>11,0</td>
 <td>1,0</td>
 <td>0</td>
 </tr>
 <tr>
-<td>
-междуречье
-Есиль-Ертис
-</td>
+<td>Междуречье Есиль-Ертис</td>
 <td>41,0</td>
-<td colspan="2">33,0</td>
+<td>33,0</td>
 <td>6,0</td>
 <td>2,0</td>
 <td>2,0</td>
@@ -105,7 +108,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td>река Чаглинка</td>
 <td>29,0</td>
-<td colspan="2">21,0</td>
+<td>21,0</td>
 <td>7,0</td>
 <td>3,0</td>
 <td>1,0</td>
@@ -114,7 +117,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td>река Нура</td>
 <td>19,5</td>
-<td colspan="2">0,3</td>
+<td>0,3</td>
 <td>19,2</td>
 <td>1,8</td>
 <td>0</td>
@@ -123,7 +126,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td>Итого</td>
 <td>204,5</td>
-<td colspan="2">136,3</td>
+<td>136,3</td>
 <td>64,2</td>
 <td>17,8</td>
 <td>4,0</td>
@@ -131,20 +134,20 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 </tr>
 <tr>
 <td rowspan="4">2</td>
-<td rowspan="4">Актюбин-ская</td>
+<td rowspan="4">Актюбинская</td>
 <td>бассейн реки Жайык (реки Орь, Илек, Хобда, левобережные притоки Жайык и Приаралье)</td>
 <td>325,0</td>
 <td>60,0</td>
-<td colspan="2">50,0</td>
+<td>50,0</td>
 <td>30,0</td>
 <td>5,0</td>
 <td>210,0</td>
 </tr>
 <tr>
-<td>реки Уил,Сагиз, Эмба и Приаралья</td>
+<td>реки Уил, Сагиз, Эмба и Приаралья</td>
 <td>75,0</td>
 <td>45,0</td>
-<td colspan="2">30,0</td>
+<td>30,0</td>
 <td>10,0</td>
 <td>0</td>
 <td>0</td>
@@ -153,7 +156,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>река Тургай (Иргиз)</td>
 <td>13,2</td>
 <td>0,7</td>
-<td colspan="2">12,5</td>
+<td>12,5</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -162,53 +165,36 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>Итого</td>
 <td>413,2</td>
 <td>105,7</td>
-<td colspan="2">92,5</td>
+<td>92,5</td>
 <td>40,0</td>
 <td>5,0</td>
 <td>210,0</td>
 </tr>
 <tr>
-<td rowspan="2">3</td>
-<td rowspan="2">Алматин- ская, в том числе</td>
+<td rowspan="4">3</td>
+<td rowspan="4">Алматинская, в том числе город Алматы</td>
 <td>река Иле</td>
 <td>3051,6</td>
 <td>385,2</td>
-<td colspan="2">2622,0</td>
+<td>2622,0</td>
 <td>2578,4</td>
 <td>34,4</td>
 <td>10,0</td>
 </tr>
 <tr>
-<td>реки Восточного и</td>
+<td>реки Восточного и Северного Прибалхашья</td>
 <td>1189,1</td>
 <td>67,2</td>
-<td colspan="2">1121,9</td>
+<td>1121,9</td>
 <td>1094,6</td>
 <td>0</td>
 <td>0</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td rowspan="3">
-город
-Алматы
-</td>
-<td>Северного Прибалхашья</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>
-озера Алаколь,
-Сасыкколь
-</td>
+<td>озера Алаколь, Сасыкколь</td>
 <td>241,0</td>
 <td>4,5</td>
-<td colspan="2">236,5</td>
+<td>236,5</td>
 <td>230,0</td>
 <td>0</td>
 <td>0</td>
@@ -217,18 +203,18 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>Итого</td>
 <td>4481,7</td>
 <td>456,9</td>
-<td colspan="2">3980,4</td>
+<td>3980,4</td>
 <td>3903,0</td>
 <td>34,4</td>
 <td>10,0</td>
 </tr>
 <tr>
 <td rowspan="5">4</td>
-<td rowspan="5">Атырау-ская</td>
+<td rowspan="5">Атырауская</td>
 <td>река Жайык</td>
 <td>302,3</td>
 <td>151,8</td>
-<td colspan="2">76,5</td>
+<td>76,5</td>
 <td>27,0</td>
 <td>4,2</td>
 <td>69,8</td>
@@ -237,16 +223,16 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>река Волга</td>
 <td>48,3</td>
 <td>39,6</td>
-<td colspan="2">4,5</td>
+<td>4,5</td>
 <td>1,2</td>
 <td>0</td>
 <td>4,2</td>
 </tr>
 <tr>
-<td>реки Уил, Сагиз,Эмба</td>
+<td>реки Уил, Сагиз, Эмба</td>
 <td>24,9</td>
 <td>0,9</td>
-<td colspan="2">24,0</td>
+<td>24,0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -255,7 +241,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>Каспийское море</td>
 <td>7,5</td>
 <td>7,5</td>
-<td colspan="2">0</td>
+<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -264,21 +250,18 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>Итого</td>
 <td>383,0</td>
 <td>199,8</td>
-<td colspan="2">105,0</td>
+<td>105,0</td>
 <td>28,2</td>
 <td>4,2</td>
 <td>74,0</td>
 </tr>
 <tr>
 <td rowspan="3">5</td>
-<td rowspan="3">Западно-Казах-станская</td>
-<td>
-реки Большой и Малый Узени, Чижа, Ащы, Узек
-Жанибекская оросительно-обводнительная система
-</td>
+<td rowspan="3">Западно-Казахстанская</td>
+<td>реки Большой и Малый Узени, Чижа, Ащы, Узек Жанибекская оросительно-обводнительная система</td>
 <td>109,0</td>
 <td>1,0</td>
-<td colspan="2">5,0</td>
+<td>5,0</td>
 <td>2,0</td>
 <td>0</td>
 <td>103,0</td>
@@ -287,7 +270,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>река Жайык</td>
 <td>669,0</td>
 <td>39,0</td>
-<td colspan="2">30,0</td>
+<td>30,0</td>
 <td>13,0</td>
 <td>0</td>
 <td>600,0</td>
@@ -296,18 +279,18 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>Итого</td>
 <td>778,0</td>
 <td>40,0</td>
-<td colspan="2">35,0</td>
+<td>35,0</td>
 <td>15,0</td>
 <td>0</td>
 <td>703,0</td>
 </tr>
 <tr>
 <td rowspan="6">6</td>
-<td rowspan="6">Жамбыл-ская</td>
+<td rowspan="6">Жамбылская</td>
 <td>река Шу</td>
 <td>1540,0</td>
 <td>24,2</td>
-<td colspan="2">1292,8</td>
+<td>1292,8</td>
 <td>1227,0</td>
 <td>23,0</td>
 <td>200,0</td>
@@ -316,7 +299,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>река Талас</td>
 <td>808,0</td>
 <td>40,0</td>
-<td colspan="2">698,0</td>
+<td>698,0</td>
 <td>678,0</td>
 <td>0</td>
 <td>70,0</td>
@@ -325,7 +308,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>река Аса</td>
 <td>455,0</td>
 <td>30,0</td>
-<td colspan="2">345,0</td>
+<td>345,0</td>
 <td>309,0</td>
 <td>0</td>
 <td>80,0</td>
@@ -334,7 +317,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>Бассейн озера Балкаш</td>
 <td>3,0</td>
 <td>2,0</td>
-<td colspan="2">1,0</td>
+<td>1,0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -343,7 +326,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>Бассейн реки Иле</td>
 <td>2,5</td>
 <td>1,0</td>
-<td colspan="2">1,5</td>
+<td>1,5</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -352,18 +335,18 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>Итого</td>
 <td>2808,5</td>
 <td>97,2</td>
-<td colspan="2">2338,3</td>
+<td>2338,3</td>
 <td>2214,0</td>
 <td>23,0</td>
 <td>350,0</td>
 </tr>
 <tr>
 <td rowspan="6">7</td>
-<td rowspan="6">Караган-динская</td>
+<td rowspan="6">Карагандинская</td>
 <td>река Нура</td>
 <td>1411,4</td>
 <td>1322,9</td>
-<td colspan="2">88,5</td>
+<td>88,5</td>
 <td>88,5</td>
 <td>0</td>
 <td>0</td>
@@ -372,7 +355,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>река Сарысу</td>
 <td>238,2</td>
 <td>229,8</td>
-<td colspan="2">8,4</td>
+<td>8,4</td>
 <td>8,4</td>
 <td>0</td>
 <td>0</td>
@@ -381,19 +364,16 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>Озеро Балхаш</td>
 <td>175,5</td>
 <td>175,5</td>
-<td colspan="2">0</td>
+<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 </tr>
 <tr>
-<td>
-Ертис (Канал имени
-Каныша Сатпаева)
-</td>
+<td>Ертис (Канал имени Каныша Сатпаева)</td>
 <td>153,3</td>
 <td>101,8</td>
-<td colspan="2">8,3</td>
+<td>8,3</td>
 <td>8,3</td>
 <td>1,2</td>
 <td>42,0</td>
@@ -402,7 +382,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>река Кумола</td>
 <td>0,1</td>
 <td>0,1</td>
-<td colspan="2">0</td>
+<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -411,18 +391,18 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>Итого</td>
 <td>1978,5</td>
 <td>1830,1</td>
-<td colspan="2">105,2</td>
+<td>105,2</td>
 <td>105,2</td>
 <td>1,2</td>
 <td>42,0</td>
 </tr>
 <tr>
 <td rowspan="3">8</td>
-<td rowspan="3">Коста-найская</td>
+<td rowspan="3">Костанайская</td>
 <td>река Тобол</td>
 <td>114,4</td>
 <td>82,1</td>
-<td colspan="2">24,4</td>
+<td>24,4</td>
 <td>21,9</td>
 <td>1,1</td>
 <td>6,8</td>
@@ -431,7 +411,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>река Торгай</td>
 <td>5,3</td>
 <td>4,7</td>
-<td colspan="2">0,6</td>
+<td>0,6</td>
 <td>0,5</td>
 <td>0</td>
 <td>0</td>
@@ -440,39 +420,38 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>Итого</td>
 <td>119,7</td>
 <td>86,8</td>
-<td colspan="2">25,0</td>
+<td>25,0</td>
 <td>22,4</td>
 <td>1,1</td>
 <td>6,8</td>
 </tr>
 <tr>
 <td rowspan="2">9</td>
-<td>Кызылор-динская</td>
+<td rowspan="2">Кызылординская</td>
 <td>река Сырдарья</td>
 <td>5429,9</td>
 <td>45,0</td>
-<td colspan="2">4174,9</td>
+<td>4174,9</td>
 <td>4159,9</td>
 <td>10,0</td>
 <td>1200,0</td>
 </tr>
 <tr>
-<td></td>
 <td>Итого</td>
 <td>5429,9</td>
 <td>45,0</td>
-<td colspan="2">4174,9</td>
+<td>4174,9</td>
 <td>4159,9</td>
 <td>10,0</td>
 <td>1200,0</td>
 </tr>
 <tr>
 <td rowspan="3">10</td>
-<td rowspan="3">Мангис-тауская</td>
+<td rowspan="3">Мангистауская</td>
 <td>Каспийское море</td>
 <td>1464,9</td>
 <td>1464,7</td>
-<td colspan="2">0,2</td>
+<td>0,2</td>
 <td>0,1</td>
 <td>0</td>
 <td>0</td>
@@ -481,7 +460,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <td>Приаралье, река Волга</td>
 <td>23,4</td>
 <td>22,9</td>
-<td colspan="2">0,5</td>
+<td>0,5</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -489,7 +468,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td>Итого</td>
 <td>1488,3</td>
-<td colspan="2">1487,6</td>
+<td>1487,6</td>
 <td>0,7</td>
 <td>0,1</td>
 <td>0</td>
@@ -497,10 +476,10 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 </tr>
 <tr>
 <td rowspan="5">11</td>
-<td rowspan="5">Южно-Казах-станская</td>
+<td rowspan="5">Туркестанская, в том числе город Шымкент</td>
 <td>река Сырдарья</td>
 <td>2418,5</td>
-<td colspan="2">11,0</td>
+<td>11,0</td>
 <td>2233,0</td>
 <td>2215,2</td>
 <td>11,0</td>
@@ -509,7 +488,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td>река Арысь</td>
 <td>2087,7</td>
-<td colspan="2">127,0</td>
+<td>127,0</td>
 <td>1703,0</td>
 <td>1616,1</td>
 <td>9,0</td>
@@ -518,7 +497,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td>река Чирчик</td>
 <td>1009,8</td>
-<td colspan="2">9,0</td>
+<td>9,0</td>
 <td>782,0</td>
 <td>750,3</td>
 <td>0</td>
@@ -527,7 +506,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td>реки Северного склона гор Каратау</td>
 <td>65,9</td>
-<td colspan="2">4,0</td>
+<td>4,0</td>
 <td>59,9</td>
 <td>51,1</td>
 <td>0</td>
@@ -536,7 +515,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td>Итого</td>
 <td>5581,9</td>
-<td colspan="2">151,0</td>
+<td>151,0</td>
 <td>4777,1</td>
 <td>4632,7</td>
 <td>20,0</td>
@@ -544,10 +523,10 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 </tr>
 <tr>
 <td rowspan="5">12</td>
-<td rowspan="5">Павло-дарская</td>
+<td rowspan="5">Павлодарская</td>
 <td>река Ертис</td>
 <td>3569,0</td>
-<td colspan="2">2399,7</td>
+<td>2399,7</td>
 <td>969,3</td>
 <td>70,0</td>
 <td>1,0</td>
@@ -556,7 +535,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td>река Шидерты</td>
 <td>6,0</td>
-<td colspan="2">0,1</td>
+<td>0,1</td>
 <td>5,9</td>
 <td>0</td>
 <td>0</td>
@@ -565,7 +544,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td>река Оленты</td>
 <td>2,0</td>
-<td colspan="2">0,1</td>
+<td>0,1</td>
 <td>1,9</td>
 <td>0</td>
 <td>0</td>
@@ -574,7 +553,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td>река Ащису, Тундык, Эспе</td>
 <td>23,0</td>
-<td colspan="2">0,1</td>
+<td>0,1</td>
 <td>22,9</td>
 <td>0</td>
 <td>0</td>
@@ -583,7 +562,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td>Итого</td>
 <td>3600,0</td>
-<td colspan="2">2400,0</td>
+<td>2400,0</td>
 <td>1000,0</td>
 <td>70,0</td>
 <td>1,0</td>
@@ -591,22 +570,19 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 </tr>
 <tr>
 <td rowspan="4">13</td>
-<td rowspan="4">Северо-Казах-станская</td>
+<td rowspan="4">Северо-Казахстанская</td>
 <td>река Есиль</td>
 <td>72,5</td>
-<td colspan="2">55,0</td>
+<td>55,0</td>
 <td>15,5</td>
 <td>3,0</td>
 <td>2,0</td>
 <td>0</td>
 </tr>
 <tr>
-<td>
-междуречье
-Есиль-Ертис
-</td>
+<td>Междуречье Есиль-Ертис</td>
 <td>5,5</td>
-<td colspan="2">1,5</td>
+<td>1,5</td>
 <td>4,0</td>
 <td>0,5</td>
 <td>0</td>
@@ -615,7 +591,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td>река Чаглинка</td>
 <td>7,0</td>
-<td colspan="2">1,0</td>
+<td>1,0</td>
 <td>6,0</td>
 <td>0,5</td>
 <td>0</td>
@@ -624,7 +600,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td>Итого</td>
 <td>85,0</td>
-<td colspan="2">57,5</td>
+<td>57,5</td>
 <td>25,5</td>
 <td>4,0</td>
 <td>2,0</td>
@@ -632,10 +608,10 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 </tr>
 <tr>
 <td rowspan="4">14</td>
-<td rowspan="4">Восточно-Казах-станская</td>
+<td rowspan="4">Восточно-Казахстанская</td>
 <td>река Ертис</td>
 <td>916,0</td>
-<td colspan="2">395,0</td>
+<td>395,0</td>
 <td>491,0</td>
 <td>270,0</td>
 <td>30,0</td>
@@ -644,7 +620,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td>озеро Балхаш</td>
 <td>40,0</td>
-<td colspan="2">5,0</td>
+<td>5,0</td>
 <td>35,0</td>
 <td>10,0</td>
 <td>0</td>
@@ -653,7 +629,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td>озера Алаколь и Сасыкколь</td>
 <td>49,5</td>
-<td colspan="2">2,5</td>
+<td>2,5</td>
 <td>47,0</td>
 <td>40,0</td>
 <td>0</td>
@@ -662,7 +638,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td>Итого</td>
 <td>1005,5</td>
-<td colspan="2">402,5</td>
+<td>402,5</td>
 <td>573,0</td>
 <td>270,0</td>
 <td>30,0</td>
@@ -671,7 +647,7 @@ source: https://zan.gov.kz/client/#!/doc/106397/rus/19.08.2016
 <tr>
 <td colspan="3">Всего по Казахстану</td>
 <td>28357,7</td>
-<td colspan="2">7496,4</td>
+<td>7496,4</td>
 <td>17297,6</td>
 <td>15532,4</td>
 <td>135,9</td>
