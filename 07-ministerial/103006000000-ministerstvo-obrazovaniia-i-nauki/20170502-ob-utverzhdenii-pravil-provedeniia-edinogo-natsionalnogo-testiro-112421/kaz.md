@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/112421/kaz/30.11.2018
+source: https://zan.gov.kz/client/#!/doc/112421/kaz/04.02.2019
 ---
 
 # Ұлттық бірыңғай тестілеуді өткізу қағидаларын бекіту туралы
