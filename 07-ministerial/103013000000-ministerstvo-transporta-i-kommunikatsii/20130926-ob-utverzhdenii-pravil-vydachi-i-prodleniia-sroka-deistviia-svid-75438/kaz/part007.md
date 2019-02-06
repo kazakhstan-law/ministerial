@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/75438/kaz/09.06.2018
+source: https://zan.gov.kz/client/#!/doc/75438/kaz/06.02.2019
 ---
 
 > *Авиация персоналы куәлiктерiн беру және*  
