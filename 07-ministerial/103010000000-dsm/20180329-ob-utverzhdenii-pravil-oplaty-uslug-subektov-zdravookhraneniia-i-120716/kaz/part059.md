@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/120716/kaz/01.01.2019
+source: https://zan.gov.kz/client/#!/doc/120716/kaz/06.03.2019
 ---
 
 > *Денсаулық сақтау*  
