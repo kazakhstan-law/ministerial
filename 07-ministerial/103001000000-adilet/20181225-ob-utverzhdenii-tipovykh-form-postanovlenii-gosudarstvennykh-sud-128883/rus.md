@@ -13,6 +13,11 @@ approval_date: 2018-12-25
 version_date: 2018-12-25
 registry_number: '128883'
 source: https://zan.gov.kz/client/#!/doc/128883/rus/25.12.2018
+repealed_on: 2019-04-24
+repealed_by:
+  code: '130285'
+  title: Об утверждении Типовых форм постановлений государственных судебных исполнителей
+  link: https://zan.gov.kz/client/#!/doc/130285/rus
 ---
 
 # Об утверждении Типовых форм постановлений государственных судебных исполнителей
