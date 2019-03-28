@@ -13,6 +13,11 @@ approval_date: 2018-12-26
 version_date: 2018-12-26
 registry_number: '128875'
 source: https://zan.gov.kz/client/#!/doc/128875/rus/26.12.2018
+repealed_on: 2019-04-24
+repealed_by:
+  code: '130529'
+  title: Об утверждении Типовых форм постановлений частных судебных исполнителей
+  link: https://zan.gov.kz/client/#!/doc/130529/rus
 ---
 
 # Об утверждении Типовых форм постановлений частных судебных исполнителей
