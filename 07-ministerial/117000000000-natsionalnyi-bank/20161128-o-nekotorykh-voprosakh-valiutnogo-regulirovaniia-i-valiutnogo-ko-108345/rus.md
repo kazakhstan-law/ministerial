@@ -13,6 +13,11 @@ approval_date: 2016-11-28
 version_date: 2016-11-28
 registry_number: '108345'
 source: https://zan.gov.kz/client/#!/doc/108345/rus/28.11.2016
+repealed_on: 2019-07-01
+repealed_by:
+  code: '130726'
+  title: Об утверждении Правил осуществления обменных операций с наличной иностранной валютой в Республике Казахстан
+  link: https://zan.gov.kz/client/#!/doc/130726/rus
 ---
 
 # О некоторых вопросах валютного регулирования и валютного контроля
