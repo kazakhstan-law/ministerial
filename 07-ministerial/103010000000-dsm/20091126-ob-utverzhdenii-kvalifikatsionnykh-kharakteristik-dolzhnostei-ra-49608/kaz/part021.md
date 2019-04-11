@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49608/kaz/19.12.2018
+source: https://zan.gov.kz/client/#!/doc/49608/kaz/11.04.2019
 ---
 
 ## 18-кіші бөлімі. Зертхана маманы
