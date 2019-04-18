@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/94020/rus/11.07.2018
+source: https://zan.gov.kz/client/#!/doc/94020/rus/18.04.2019
 ---
 
 # Об утверждении регламентов государственных услуг в области ветеринарии
