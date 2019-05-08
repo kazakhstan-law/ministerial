@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/95286/kaz/27.05.2015
+source: https://zan.gov.kz/client/#!/doc/95286/kaz/08.05.2019
 ---
 
 # Тиісті фармацевтикалық практикаларды бекіту туралы
