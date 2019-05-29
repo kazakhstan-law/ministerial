@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/123986/rus/12.07.2018
+source: https://zan.gov.kz/client/#!/doc/123986/rus/29.05.2019
 ---
 
 # Об утверждении нормативов промыслового усилия
@@ -44,18 +44,20 @@ source: https://zan.gov.kz/client/#!/doc/123986/rus/12.07.2018
 
 ## Нормативы промыслового усилия на рыбохозяйственных водоемах и (или) участках
 
+> *Сноска. Нормативы в редакции приказа Министра сельского хозяйства РК от 29.05.2019 № 215 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 <table>
 <tr>
 <td rowspan="2">№</td>
-<td colspan="3" rowspan="2">Водоемы</td>
-<td colspan="3">Количество сетей</td>
+<td rowspan="2">Водоемы</td>
+<td colspan="2">Количество сетей</td>
 <td colspan="2">Количество неводов/вентерей</td>
 <td colspan="3">Количество рыбаков</td>
 <td colspan="3">Количество судов**</td>
 <td colspan="2">Количество лодок</td>
 </tr>
 <tr>
-<td colspan="2">На один р/у*</td>
+<td>На один р/у*</td>
 <td>На все р/у</td>
 <td>На один р/у</td>
 <td>На все р/у</td>
@@ -65,28 +67,28 @@ source: https://zan.gov.kz/client/#!/doc/123986/rus/12.07.2018
 <td colspan="2">На все р/у</td>
 <td>На один р/у</td>
 <td>На все р/у</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th colspan="2">8</th>
-<th>9</th>
-<th colspan="2">10</th>
-<th>11</th>
-<th>12</th>
-</tr>
-<tr>
-<td colspan="17">Водоемы международного значения</td>
 </tr>
 <tr>
 <td>1</td>
-<td colspan="3">Река Жайык</td>
-<td colspan="2">-</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td colspan="2">8</td>
+<td>9</td>
+<td colspan="2">10</td>
+<td>11</td>
+<td>12</td>
+</tr>
+<tr>
+<td colspan="14">Водоемы международного значения</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Река Жайык</td>
+<td>-</td>
 <td>-</td>
 <td>2</td>
 <td>32</td>
@@ -99,8 +101,8 @@ source: https://zan.gov.kz/client/#!/doc/123986/rus/12.07.2018
 </tr>
 <tr>
 <td>2</td>
-<td colspan="3">Река Кигаш</td>
-<td colspan="2">-</td>
+<td>Река Кигаш</td>
+<td>-</td>
 <td>-</td>
 <td>4</td>
 <td>28</td>
@@ -113,8 +115,8 @@ source: https://zan.gov.kz/client/#!/doc/123986/rus/12.07.2018
 </tr>
 <tr>
 <td>3</td>
-<td colspan="3">Каспийское море (Морской лов)</td>
-<td colspan="2">300</td>
+<td>Каспийское море (Морской лов)</td>
+<td>300</td>
 <td>5400</td>
 <td>300</td>
 <td>5400</td>
@@ -127,41 +129,41 @@ source: https://zan.gov.kz/client/#!/doc/123986/rus/12.07.2018
 </tr>
 <tr>
 <td>4</td>
-<td colspan="3">Озеро Жайсан</td>
-<td colspan="2">200</td>
-<td>1400</td>
-<td>8</td>
-<td>56</td>
-<td>146</td>
-<td colspan="2">1022</td>
-<td>6</td>
-<td colspan="2">42</td>
-<td>12</td>
-<td>84</td>
+<td>Озеро Жайсан</td>
+<td>400</td>
+<td>2800</td>
+<td>7</td>
+<td>49</td>
+<td>118</td>
+<td colspan="2">826</td>
+<td>14</td>
+<td colspan="2">98</td>
+<td>24</td>
+<td>168</td>
 </tr>
 <tr>
 <td>5</td>
-<td colspan="3">Бухтарминское водохранилище</td>
-<td colspan="2">183</td>
-<td>2019</td>
+<td>Бухтарминское водохранилище</td>
+<td>183</td>
+<td>3477</td>
 <td>3</td>
-<td>33</td>
-<td>40</td>
-<td colspan="2">440</td>
-<td>1</td>
-<td colspan="2">11</td>
-<td>4</td>
-<td>44</td>
+<td>57</td>
+<td>50</td>
+<td colspan="2">950</td>
+<td>3</td>
+<td colspan="2">57</td>
+<td>10</td>
+<td>190</td>
 </tr>
 <tr>
 <td>6</td>
-<td colspan="3">Шульбинское водохранилище</td>
-<td colspan="2">30</td>
-<td>300</td>
+<td>Шульбинское водохранилище</td>
+<td>85</td>
+<td>850</td>
 <td>1</td>
 <td>10</td>
-<td>10</td>
-<td colspan="2">100</td>
+<td>20</td>
+<td colspan="2">200</td>
 <td>1</td>
 <td colspan="2">10</td>
 <td>4</td>
@@ -169,50 +171,36 @@ source: https://zan.gov.kz/client/#!/doc/123986/rus/12.07.2018
 </tr>
 <tr>
 <td>7</td>
-<td colspan="3">Капшагайское водохранилище</td>
-<td colspan="2">40</td>
-<td>800</td>
-<td>1</td>
-<td>20</td>
-<td>10</td>
-<td colspan="2">200</td>
-<td>1</td>
-<td colspan="2">20</td>
-<td>4</td>
-<td>80</td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="3">Шардаринское водохранилище</td>
-<td colspan="2">-</td>
+<td>Шардаринское водохранилище</td>
 <td>-</td>
-<td>2</td>
-<td>8</td>
+<td>-</td>
+<td>4</td>
 <td>16</td>
-<td colspan="2">64</td>
-<td>2</td>
-<td colspan="2">8</td>
+<td>24</td>
+<td colspan="2">96</td>
+<td>4</td>
+<td colspan="2">16</td>
 <td>4</td>
 <td>16</td>
 </tr>
 <tr>
-<td>9</td>
-<td colspan="3">Малое Аральское море</td>
-<td colspan="2">400</td>
+<td>8</td>
+<td>Малое Аральское море</td>
+<td>400</td>
 <td>7000</td>
-<td>-</td>
-<td>-</td>
+<td>2</td>
+<td>36</td>
 <td>40</td>
 <td colspan="2">720</td>
 <td>2</td>
 <td colspan="2">36</td>
-<td>6</td>
-<td>108</td>
+<td>20</td>
+<td>360</td>
 </tr>
 <tr>
-<td>10</td>
-<td colspan="3">Река Сырдарья</td>
-<td colspan="2">150</td>
+<td>9</td>
+<td>Река Сырдарья</td>
+<td>150</td>
 <td>600</td>
 <td>1</td>
 <td>4</td>
@@ -224,12 +212,31 @@ source: https://zan.gov.kz/client/#!/doc/123986/rus/12.07.2018
 <td>16</td>
 </tr>
 <tr>
-<td colspan="17">Водоемы республиканского значения</td>
+<td colspan="14">Капшагайское водохранилище</td>
+</tr>
+<tr>
+<td>№</td>
+<td>Количество сетей на одного рыбака (штук)</td>
+<td colspan="2">Количество неводов (волокуш)</td>
+<td colspan="2">Количество рыбаков на 1 (один) километр длины*** участка</td>
+<td colspan="3">Количество судов</td>
+<td colspan="5">Количество лодок на 1 (один) километр длины*** участка</td>
+</tr>
+<tr>
+<td>10</td>
+<td>15</td>
+<td colspan="2">10</td>
+<td colspan="2">2</td>
+<td colspan="3">10</td>
+<td colspan="5">2</td>
+</tr>
+<tr>
+<td colspan="14">Водоемы республиканского значения</td>
 </tr>
 <tr>
 <td>11</td>
-<td colspan="3">Озеро Алаколь</td>
-<td colspan="2">40</td>
+<td>Озеро Алаколь</td>
+<td>40</td>
 <td>360</td>
 <td>1</td>
 <td>9</td>
@@ -242,8 +249,8 @@ source: https://zan.gov.kz/client/#!/doc/123986/rus/12.07.2018
 </tr>
 <tr>
 <td>12</td>
-<td colspan="3">Озеро Сасыкколь</td>
-<td colspan="2">20</td>
+<td>Озеро Сасыкколь</td>
+<td>20</td>
 <td>300</td>
 <td>1</td>
 <td>15</td>
@@ -256,8 +263,8 @@ source: https://zan.gov.kz/client/#!/doc/123986/rus/12.07.2018
 </tr>
 <tr>
 <td>13</td>
-<td colspan="3">Озеро Кошкарколь</td>
-<td colspan="2">60</td>
+<td>Озеро Кошкарколь</td>
+<td>60</td>
 <td>60</td>
 <td>2</td>
 <td>2</td>
@@ -269,132 +276,132 @@ source: https://zan.gov.kz/client/#!/doc/123986/rus/12.07.2018
 <td>4</td>
 </tr>
 <tr>
-<td colspan="17">озера Балкаш</td>
+<td colspan="14">озеро Балкаш</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">№</td>
+<td rowspan="2">№</td>
 <td rowspan="2">Номер района</td>
-<td colspan="2" rowspan="2">Количество сетей, штук</td>
-<td colspan="3" rowspan="2">Количество неводов, штук</td>
+<td rowspan="2">Количество сетей, штук</td>
+<td colspan="2" rowspan="2">Количество неводов, штук</td>
 <td colspan="3" rowspan="2">Количество рыбаков, осуществляющих улов</td>
-<td colspan="6">Количество, едениц</td>
+<td colspan="6">Количество, единиц</td>
 </tr>
 <tr>
 <td colspan="3">Моторные лодки</td>
 <td colspan="3">Рыболовные судна</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th colspan="3">6</th>
-<th colspan="3">7</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td colspan="3">5</td>
+<td colspan="3">6</td>
+<td colspan="3">7</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
 <td>1</td>
-<td colspan="2">314</td>
-<td colspan="3">15</td>
+<td>1</td>
+<td>314</td>
+<td colspan="2">15</td>
 <td colspan="3">106</td>
 <td colspan="3">11</td>
 <td colspan="3">30</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
 <td>2</td>
-<td colspan="2">403</td>
-<td colspan="3">10</td>
+<td>2</td>
+<td>403</td>
+<td colspan="2">10</td>
 <td colspan="3">80</td>
 <td colspan="3">13</td>
 <td colspan="3">20</td>
 </tr>
 <tr>
-<td colspan="2">3</td>
 <td>3</td>
-<td colspan="2">527</td>
-<td colspan="3">11</td>
+<td>3</td>
+<td>527</td>
+<td colspan="2">11</td>
 <td colspan="3">92</td>
 <td colspan="3">17</td>
 <td colspan="3">22</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
 <td>4</td>
-<td colspan="2">431</td>
-<td colspan="3">7</td>
+<td>4</td>
+<td>431</td>
+<td colspan="2">7</td>
 <td colspan="3">64</td>
 <td colspan="3">15</td>
 <td colspan="3">14</td>
 </tr>
 <tr>
-<td colspan="2">5</td>
 <td>5</td>
-<td colspan="2">276</td>
-<td colspan="3">1</td>
+<td>5</td>
+<td>276</td>
+<td colspan="2">1</td>
 <td colspan="3">20</td>
 <td colspan="3">9</td>
 <td colspan="3">2</td>
 </tr>
 <tr>
-<td colspan="2">6</td>
 <td>6</td>
-<td colspan="2">545</td>
-<td colspan="3">5</td>
+<td>6</td>
+<td>545</td>
+<td colspan="2">5</td>
 <td colspan="3">57</td>
 <td colspan="3">18</td>
 <td colspan="3">10</td>
 </tr>
 <tr>
-<td colspan="2">7</td>
 <td>7</td>
-<td colspan="2">473</td>
-<td colspan="3">2</td>
+<td>7</td>
+<td>473</td>
+<td colspan="2">2</td>
 <td colspan="3">36</td>
 <td colspan="3">16</td>
 <td colspan="3">4</td>
 </tr>
 <tr>
-<td colspan="2">8</td>
 <td>8</td>
-<td colspan="2">201</td>
-<td colspan="3">1</td>
+<td>8</td>
+<td>201</td>
+<td colspan="2">1</td>
 <td colspan="3">16</td>
 <td colspan="3">7</td>
 <td colspan="3">2</td>
 </tr>
 <tr>
-<td colspan="2">9</td>
 <td>9</td>
-<td colspan="2">201</td>
-<td colspan="3">1</td>
+<td>9</td>
+<td>201</td>
+<td colspan="2">1</td>
 <td colspan="3">16</td>
 <td colspan="3">7</td>
 <td colspan="3">2</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
 <td>10</td>
-<td colspan="2">101</td>
-<td colspan="3">1</td>
+<td>10</td>
+<td>101</td>
+<td colspan="2">1</td>
 <td colspan="3">11</td>
 <td colspan="3">3</td>
 <td colspan="3">2</td>
 </tr>
 <tr>
-<td colspan="2">11</td>
 <td>11</td>
-<td colspan="2">128</td>
-<td colspan="3">-</td>
+<td>11</td>
+<td>128</td>
+<td colspan="2">-</td>
 <td colspan="3">6</td>
 <td colspan="3">4</td>
 <td colspan="3">-</td>
 </tr>
 <tr>
-<td colspan="3">Всего</td>
-<td colspan="2">3600</td>
-<td colspan="3">54</td>
+<td colspan="2">Всего</td>
+<td>3600</td>
+<td colspan="2">54</td>
 <td colspan="3">504</td>
 <td colspan="3">120</td>
 <td colspan="3">108</td>
@@ -405,4 +412,6 @@ source: https://zan.gov.kz/client/#!/doc/123986/rus/12.07.2018
 
 *р/у – рыбопромысловые участки;
 
-** – под судами понимаются все типы судов, используемых для промысла рыбы, за исключением маломерных.
+** – под судами понимаются все типы судов, используемых для промысла рыбы, за исключением маломерных;
+
+***–длина участка по берегу согласно паспорту рыбохозяйственного участка.
