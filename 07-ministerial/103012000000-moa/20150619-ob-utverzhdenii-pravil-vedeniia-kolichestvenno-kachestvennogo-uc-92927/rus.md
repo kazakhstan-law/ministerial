@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/92927/rus/12.07.2018
+source: https://zan.gov.kz/client/#!/doc/92927/rus/30.05.2019
 ---
 
 
@@ -41,4 +41,4 @@ source: https://zan.gov.kz/client/#!/doc/92927/rus/12.07.2018
 | Часть | Название |
 |---|---|
 | [`an000`](rus/an000.md) | Правила ведения количественно-качественного учета зерна |
-| [`an009`](rus/an009.md) | an009 |
+| [`an009`](rus/an009.md) | Акт замера для круглых силосов |

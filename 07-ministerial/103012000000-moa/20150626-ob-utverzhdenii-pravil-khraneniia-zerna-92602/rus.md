@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/92602/rus/26.06.2015
+source: https://zan.gov.kz/client/#!/doc/92602/rus/30.05.2019
 ---
 
 # Об утверждении Правил хранения зерна
