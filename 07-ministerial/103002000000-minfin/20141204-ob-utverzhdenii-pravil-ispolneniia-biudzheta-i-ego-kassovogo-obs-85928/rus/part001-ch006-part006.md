@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85928/rus/30.05.2019
+source: https://zan.gov.kz/client/#!/doc/85928/rus/03.06.2019
 ---
 
 ## Параграф 6. Формирование и выдача уведомления о регистрации договора
