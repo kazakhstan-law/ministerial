@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
+source: https://zan.gov.kz/client/#!/doc/92817/rus/25.06.2019
 ---
 
 # Об утверждении норм снабжения бытовой техникой, оборудованием и инвентарным имуществом органов национальной безопасности Республики Казахстан
@@ -28,24 +28,22 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 > *________________ Б.Султанов*  
 > *«___» __________ 2015 года*
 
-> *Утверждены приказом Председателя*  
-> *Комитета национальной безопасности*  
+> *Утверждены приказом*  
+> *Председателя Комитета*  
+> *национальной безопасности*  
 > *Республики Казахстан*  
 > *от 23 июня 2015 года № 52*
 
-# Нормы снабжения бытовой техникой, оборудованием и инвентарным имуществом органов национальной безопасности Республики Казахстан
+## Нормы снабжения бытовой техникой, оборудованием и инвентарным имуществом органов национальной безопасности Республики Казахстан
 
-> *Сноска. Нормы с изменениями, внесенными приказом Председателя Комитета национальной безопасности РК от 23.11.2017 № 109/нс (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Нормы в редакции приказа Председателя Комитета национальной безопасности РК от 25.06.2019 № 43/қе (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <td>№ п/п</td>
 <td>Наименование</td>
 <td>На какое количество кадрового состава (помещений, подразделений) рассчитано</td>
-<td>
-Единица
-измерения
-</td>
+<td>Единица измерения</td>
 <td>Количество, положенное по норме</td>
 <td>Срок службы (год)</td>
 <td>Примечание</td>
@@ -54,16 +52,16 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>1</td>
 <td>2</td>
 <td>3</td>
-<td></td>
 <td>4</td>
-<td></td>
 <td>5</td>
+<td>6</td>
+<td>7</td>
 </tr>
 <tr>
-<td colspan="7">1. Руководство</td>
+<td colspan="7">Раздел 1. Руководство</td>
 </tr>
 <tr>
-<td colspan="7">Кабинет первого руководителя и заместителей</td>
+<td colspan="7">Подраздел 1. Кабинет первого руководителя и заместителей</td>
 </tr>
 <tr>
 <td>1</td>
@@ -201,10 +199,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Комната отдыха</td>
+<td colspan="7">Подраздел 2. Комната отдыха</td>
 </tr>
 <tr>
-<td>1</td>
+<td>16</td>
 <td>Телевизор</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -213,7 +211,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>17</td>
 <td>Кондиционер</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -222,7 +220,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы кондиционирования</td>
 </tr>
 <tr>
-<td>3</td>
+<td>18</td>
 <td>Диспенсер для воды</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -231,7 +229,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>19</td>
 <td>Холодильник</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -240,7 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>20</td>
 <td>Шторы и/или жалюзи</td>
 <td>на оконный проем</td>
 <td>комплект</td>
@@ -249,7 +247,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>21</td>
 <td>Вешалка</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -258,7 +256,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>22</td>
 <td>Ковер (ковровые дорожки)</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -267,7 +265,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>23</td>
 <td>Утюг, гладильная доска</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -276,10 +274,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Приемная первого руководителя и заместителей</td>
+<td colspan="7">Подраздел 3. Приемная первого руководителя и заместителей</td>
 </tr>
 <tr>
-<td>1</td>
+<td>24</td>
 <td>Настольная лампа</td>
 <td>на рабочее место</td>
 <td>штук</td>
@@ -288,7 +286,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>25</td>
 <td>Кондиционер</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -297,7 +295,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы кондиционирования</td>
 </tr>
 <tr>
-<td>3</td>
+<td>26</td>
 <td>Обогреватель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -306,7 +304,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>27</td>
 <td>Диспенсер для воды</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -315,7 +313,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>28</td>
 <td>Часы настенные</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -324,7 +322,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>29</td>
 <td>Бумагоуничтожитель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -333,7 +331,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>30</td>
 <td>Чайный сервиз</td>
 <td>на кабинет</td>
 <td>комплект</td>
@@ -342,7 +340,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>31</td>
 <td>Сейф</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -351,7 +349,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>32</td>
 <td>Зеркало настенное</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -360,7 +358,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>33</td>
 <td>Шторы и/или жалюзи</td>
 <td>на оконный проем</td>
 <td>комплект</td>
@@ -369,7 +367,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>34</td>
 <td>Вешалка</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -378,7 +376,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>35</td>
 <td>Ковер (ковровые дорожки)</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -387,7 +385,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>36</td>
 <td>Электрический чайник</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -396,13 +394,13 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">2. Руководители*</td>
+<td colspan="7">Раздел 2. Руководители*</td>
 </tr>
 <tr>
-<td colspan="7">Кабинет руководителя</td>
+<td colspan="7">Подраздел 1. Кабинет руководителя</td>
 </tr>
 <tr>
-<td>1</td>
+<td>37</td>
 <td>Телевизор</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -411,7 +409,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>38</td>
 <td>Кондиционер</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -420,7 +418,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы кондиционирования</td>
 </tr>
 <tr>
-<td>3</td>
+<td>39</td>
 <td>Настольная лампа</td>
 <td>на рабочее место</td>
 <td>штук</td>
@@ -429,7 +427,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>40</td>
 <td>Обогреватель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -438,7 +436,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы отопления</td>
 </tr>
 <tr>
-<td>5</td>
+<td>41</td>
 <td>Часы настенные</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -447,7 +445,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>42</td>
 <td>Бумагоуничтожитель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -456,7 +454,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>43</td>
 <td>Картина</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -465,7 +463,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>44</td>
 <td>Карта Республики Казахстан</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -474,7 +472,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>45</td>
 <td>Сейф</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -483,7 +481,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>46</td>
 <td>Портрет Главы государства</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -492,7 +490,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>47</td>
 <td>Шторы или жалюзи</td>
 <td>на оконный проем</td>
 <td>комплект</td>
@@ -501,7 +499,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>48</td>
 <td>Вешалка</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -510,7 +508,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>49</td>
 <td>Ковер (ковровая дорожка)</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -519,10 +517,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Комната отдыха</td>
+<td colspan="7">Подраздел 2. Комната отдыха</td>
 </tr>
 <tr>
-<td>1</td>
+<td>50</td>
 <td>Кондиционер</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -531,7 +529,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы кондиционирования</td>
 </tr>
 <tr>
-<td>2</td>
+<td>51</td>
 <td>Диспенсер для воды</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -540,7 +538,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>52</td>
 <td>Шторы и/или жалюзи</td>
 <td>на оконный проем</td>
 <td>комплект</td>
@@ -549,7 +547,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>53</td>
 <td>Вешалка</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -558,7 +556,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>54</td>
 <td>Ковер (ковровая дорожка)</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -567,10 +565,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Приемная руководителя</td>
+<td colspan="7">Подраздел 3. Приемная руководителя</td>
 </tr>
 <tr>
-<td>1</td>
+<td>55</td>
 <td>Настольная лампа</td>
 <td>на рабочее место</td>
 <td>штук</td>
@@ -579,7 +577,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>56</td>
 <td>Кондиционер</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -588,7 +586,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы кондиционирования</td>
 </tr>
 <tr>
-<td>3</td>
+<td>57</td>
 <td>Обогреватель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -597,7 +595,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы отопления</td>
 </tr>
 <tr>
-<td>4</td>
+<td>58</td>
 <td>Диспенсер для воды</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -606,7 +604,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>59</td>
 <td>Часы настенные</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -615,7 +613,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>60</td>
 <td>Бумагоуничтожитель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -624,7 +622,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>61</td>
 <td>Чайный сервиз</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -633,7 +631,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>62</td>
 <td>Сейф</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -642,7 +640,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>63</td>
 <td>Зеркало настенное</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -651,7 +649,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>64</td>
 <td>Шторы и/или жалюзи</td>
 <td>на кабинет</td>
 <td>комплект</td>
@@ -660,7 +658,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>65</td>
 <td>Вешалка</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -669,7 +667,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>66</td>
 <td>Ковер (ковровая дорожка)</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -678,7 +676,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>67</td>
 <td>Электрический чайник</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -687,46 +685,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">3. Заместители руководителя</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Кондиционер</td>
-<td>на кабинет</td>
-<td>штук</td>
-<td>1</td>
-<td>5</td>
-<td>при отсутствии системы кондиционирования</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Настольная лампа</td>
-<td>на рабочее место</td>
-<td>штук</td>
-<td>1</td>
-<td>3</td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Обогреватель</td>
-<td>на кабинет</td>
-<td>штук</td>
-<td>1</td>
-<td>4</td>
-<td>при отсутствии системы отопления</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Часы настенные</td>
-<td>на кабинет</td>
-<td>штук</td>
-<td>1</td>
-<td>5</td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
+<td>68</td>
 <td>Холодильник</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -735,37 +694,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
-<td>Бумагоуничтожитель</td>
-<td>на кабинет</td>
-<td>штук</td>
-<td>1</td>
-<td>3</td>
-<td></td>
+<td colspan="7">Раздел 3. Заместители руководителя</td>
 </tr>
 <tr>
-<td>7</td>
-<td>Сейф</td>
-<td>на кабинет</td>
-<td>штук</td>
-<td>1</td>
-<td>10</td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Шторы и/или жалюзи</td>
-<td>на кабинет</td>
-<td>комплект</td>
-<td>1</td>
-<td>5</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="7">4. Руководитель среднего звена**</td>
-</tr>
-<tr>
-<td>1</td>
+<td>69</td>
 <td>Кондиционер</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -774,7 +706,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы кондиционирования</td>
 </tr>
 <tr>
-<td>2</td>
+<td>70</td>
 <td>Настольная лампа</td>
 <td>на рабочее место</td>
 <td>штук</td>
@@ -783,7 +715,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>71</td>
 <td>Обогреватель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -792,7 +724,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы отопления</td>
 </tr>
 <tr>
-<td>4</td>
+<td>72</td>
 <td>Часы настенные</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -801,7 +733,16 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
+<td>73</td>
+<td>Холодильник</td>
+<td>на кабинет</td>
+<td>штук</td>
+<td>1</td>
 <td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>74</td>
 <td>Бумагоуничтожитель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -810,7 +751,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>75</td>
 <td>Сейф</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -819,28 +760,37 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>76</td>
 <td>Шторы и/или жалюзи</td>
-<td>на оконный проем</td>
+<td>на кабинет</td>
 <td>комплект</td>
 <td>1</td>
 <td>5</td>
 <td></td>
 </tr>
 <tr>
-<td>8</td>
-<td>Вешалка</td>
+<td>77</td>
+<td>Диспенсер для воды</td>
 <td>на кабинет</td>
 <td>штук</td>
 <td>1</td>
-<td>5</td>
+<td>4</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">5. Сотрудник, военнослужащий и работник</td>
+<td>78</td>
+<td>Телевизор</td>
+<td>на кабинет</td>
+<td>штук</td>
+<td>1</td>
+<td>4</td>
+<td></td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="7">Раздел 4. Руководитель среднего звена**</td>
+</tr>
+<tr>
+<td>79</td>
 <td>Кондиционер</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -849,7 +799,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы кондиционирования</td>
 </tr>
 <tr>
-<td>2</td>
+<td>80</td>
 <td>Настольная лампа</td>
 <td>на рабочее место</td>
 <td>штук</td>
@@ -858,7 +808,16 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>81</td>
+<td>Обогреватель</td>
+<td>на кабинет</td>
+<td>штук</td>
+<td>1</td>
+<td>4</td>
+<td>при отсутствии системы отопления</td>
+</tr>
+<tr>
+<td>82</td>
 <td>Часы настенные</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -867,7 +826,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>83</td>
 <td>Бумагоуничтожитель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -876,25 +835,16 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>84</td>
 <td>Сейф</td>
-<td>на рабочее место</td>
+<td>на кабинет</td>
 <td>штук</td>
 <td>1</td>
 <td>10</td>
 <td></td>
 </tr>
 <tr>
-<td>6</td>
-<td>Металлический шкаф</td>
-<td>на рабочее место</td>
-<td>штук</td>
-<td>1</td>
-<td>10</td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
+<td>85</td>
 <td>Шторы и/или жалюзи</td>
 <td>на оконный проем</td>
 <td>комплект</td>
@@ -903,7 +853,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>86</td>
 <td>Вешалка</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -912,7 +862,91 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>87</td>
+<td>Диспенсер для воды</td>
+<td>на кабинет</td>
+<td>штук</td>
+<td>1</td>
+<td>4</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="7">Раздел 5. Сотрудник, военнослужащий и работник</td>
+</tr>
+<tr>
+<td>88</td>
+<td>Кондиционер</td>
+<td>на кабинет</td>
+<td>штук</td>
+<td>1</td>
+<td>5</td>
+<td>при отсутствии системы кондиционирования</td>
+</tr>
+<tr>
+<td>89</td>
+<td>Настольная лампа</td>
+<td>на рабочее место</td>
+<td>штук</td>
+<td>1</td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>90</td>
+<td>Часы настенные</td>
+<td>на кабинет</td>
+<td>штук</td>
+<td>1</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>91</td>
+<td>Бумагоуничтожитель</td>
+<td>на кабинет</td>
+<td>штук</td>
+<td>1</td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>92</td>
+<td>Сейф</td>
+<td>на рабочее место</td>
+<td>штук</td>
+<td>1</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>93</td>
+<td>Металлический шкаф</td>
+<td>на рабочее место</td>
+<td>штук</td>
+<td>1</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>94</td>
+<td>Шторы и/или жалюзи</td>
+<td>на оконный проем</td>
+<td>комплект</td>
+<td>1</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>95</td>
+<td>Вешалка</td>
+<td>на кабинет</td>
+<td>штук</td>
+<td>1</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>96</td>
 <td>Электрический чайник</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -921,10 +955,19 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">6. Подразделение материально-технического и/или хозяйственного обеспечения</td>
+<td>97</td>
+<td>Зеркало</td>
+<td>на кабинет</td>
+<td>штук</td>
+<td>1</td>
+<td>4</td>
+<td></td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="7">Раздел 6. Подразделение материально-технического и/или хозяйственного обеспечения</td>
+</tr>
+<tr>
+<td>98</td>
 <td>Станок сверлильный</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -933,7 +976,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>99</td>
 <td>Электросварочный аппарат</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -942,7 +985,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>100</td>
 <td>Станок точильный</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -951,7 +994,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>101</td>
 <td>Станок циркулярный</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -960,7 +1003,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>102</td>
 <td>Газосварочный аппарат</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -969,7 +1012,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>103</td>
 <td>Стол электромонтажный</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -978,7 +1021,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>104</td>
 <td>Инструмент кабельщика-спайщика</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -987,7 +1030,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>105</td>
 <td>Трансформатор сварочный переносной</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -996,7 +1039,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>106</td>
 <td>Тестер для проверки электрооборудования</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1005,7 +1048,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>107</td>
 <td>Насосы разные электрические</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1014,7 +1057,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>108</td>
 <td>Компрессор</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1023,7 +1066,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>109</td>
 <td>Дрель электрическая (по категории)</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1032,7 +1075,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>110</td>
 <td>Электрический рубанок</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1041,7 +1084,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>14</td>
+<td>111</td>
 <td>Обрезник по металлу</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1050,7 +1093,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>15</td>
+<td>112</td>
 <td>Перфоратор электрический (по категории)</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1059,7 +1102,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>16</td>
+<td>113</td>
 <td>Шуруповерт</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1068,7 +1111,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>17</td>
+<td>114</td>
 <td>Лобзик электрический</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1077,7 +1120,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>18</td>
+<td>115</td>
 <td>Удлинитель промышленный (катушка)</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1086,7 +1129,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>19</td>
+<td>116</td>
 <td>Стиральная машина</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1095,7 +1138,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">20</td>
+<td rowspan="2">117</td>
 <td rowspan="2">Кувалда</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1111,7 +1154,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>21</td>
+<td>118</td>
 <td>Сверла победитовые</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1120,7 +1163,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>22</td>
+<td>119</td>
 <td>Бур (все размеры)</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1129,7 +1172,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>23</td>
+<td>120</td>
 <td>Сверла по дереву</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1138,7 +1181,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>24</td>
+<td>121</td>
 <td>Сверла по металлу</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1147,7 +1190,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">25</td>
+<td rowspan="2">122</td>
 <td rowspan="2">Когти (лазы) монтажные</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1163,7 +1206,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>26</td>
+<td>123</td>
 <td>Стеклорез</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1172,7 +1215,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>27</td>
+<td>124</td>
 <td>Набор напильников</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1181,7 +1224,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>28</td>
+<td>125</td>
 <td>Гвоздодер</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1190,7 +1233,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>29</td>
+<td>126</td>
 <td>Набор слесарный</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1199,7 +1242,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>30</td>
+<td>127</td>
 <td>Набор сантехника</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1208,7 +1251,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>31</td>
+<td>128</td>
 <td>Набор маляра</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1217,7 +1260,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>32</td>
+<td>129</td>
 <td>Набор гаечных ключей</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1226,7 +1269,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>33</td>
+<td>130</td>
 <td>Набор торцевых ключей</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1235,7 +1278,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>34</td>
+<td>131</td>
 <td>Электрический паяльник</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1244,7 +1287,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>35</td>
+<td>132</td>
 <td>Набор инструмента электромонтажника</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1253,7 +1296,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>36</td>
+<td>133</td>
 <td>Электрический краскопульт</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1262,7 +1305,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">37</td>
+<td rowspan="2">134</td>
 <td rowspan="2">Ножницы по металлу</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1278,7 +1321,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>38</td>
+<td>135</td>
 <td>Ключи газовые</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1287,7 +1330,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>39</td>
+<td>136</td>
 <td>Плоскогубцы</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1296,7 +1339,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>40</td>
+<td>137</td>
 <td>Трос для очистки канализации</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1305,7 +1348,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">41</td>
+<td rowspan="2">138</td>
 <td rowspan="2">Лопата совковая</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1321,7 +1364,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">42</td>
+<td rowspan="2">139</td>
 <td rowspan="2">Лопата штыковая</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1337,7 +1380,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>43</td>
+<td>140</td>
 <td>Лопата снегоуборочная</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1346,7 +1389,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>44</td>
+<td>141</td>
 <td>Металлический шкаф для инструмента</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1355,7 +1398,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>45</td>
+<td>142</td>
 <td>Универсальный деревообрабатывающий станок</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1364,7 +1407,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>46</td>
+<td>143</td>
 <td>Углошлифовальная машина</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1373,7 +1416,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>47</td>
+<td>144</td>
 <td>Пылесос для технического обслуживания аппаратуры</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1382,7 +1425,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>48</td>
+<td>145</td>
 <td>Молоток</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1391,7 +1434,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>49</td>
+<td>146</td>
 <td>Электрический фонарь</td>
 <td>на объектовую команду гражданской обороны</td>
 <td>штук</td>
@@ -1400,7 +1443,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>50</td>
+<td>147</td>
 <td>Машина для резки арматур</td>
 <td>на объектовую команду гражданской обороны</td>
 <td>штук</td>
@@ -1409,7 +1452,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>51</td>
+<td>148</td>
 <td>Домкрат гидравлический</td>
 <td>на объектовую команду гражданской обороны</td>
 <td>штук</td>
@@ -1418,7 +1461,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>52</td>
+<td>149</td>
 <td>Грабли металлические</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1427,7 +1470,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>53</td>
+<td>150</td>
 <td>Вилы металлические</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1436,10 +1479,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">7. Автотранспортное подразделение</td>
+<td colspan="7">Раздел 7. Автотранспортное подразделение</td>
 </tr>
 <tr>
-<td>1</td>
+<td>151</td>
 <td>Газосварочный аппарат</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1448,7 +1491,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>152</td>
 <td>Токарный станок</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1457,7 +1500,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>153</td>
 <td>Фрезерный станок</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1466,7 +1509,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>154</td>
 <td>Станок шиномонтажный</td>
 <td>до 50 единиц автотранспорта</td>
 <td>комплект</td>
@@ -1475,7 +1518,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>155</td>
 <td>Дископравочный стенд</td>
 <td>до 50 единиц автотранспорта</td>
 <td>комплект</td>
@@ -1484,7 +1527,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>156</td>
 <td>Станок балансировочный</td>
 <td>до 50 единиц автотранспорта</td>
 <td>комплект</td>
@@ -1493,7 +1536,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>157</td>
 <td>Вулканизатор</td>
 <td>до 50 единиц автотранспорта</td>
 <td>комплект</td>
@@ -1502,7 +1545,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>158</td>
 <td>Подъемник автомобильный от 3 тонн и более (автоматический)</td>
 <td>до 50 единиц автотранспорта</td>
 <td>штук</td>
@@ -1511,7 +1554,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>159</td>
 <td>Аппарат для мойки автомобиля (трансбой)</td>
 <td>на мойку</td>
 <td>комплект</td>
@@ -1520,7 +1563,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>160</td>
 <td>Гидравлический пресс</td>
 <td>до 50 единиц автотранспорта</td>
 <td>штук</td>
@@ -1529,7 +1572,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>161</td>
 <td>Домкрат подкаткой от 3 тонны и более</td>
 <td>до 50 единиц автотранспорта</td>
 <td>штук</td>
@@ -1538,7 +1581,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>162</td>
 <td>Верстак слесарный (стол металлический)</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1547,7 +1590,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>163</td>
 <td>Трансформатор сварочный переносной</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1556,7 +1599,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>14</td>
+<td>164</td>
 <td>Зарядное устройство для аккумуляторной батареи</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1565,7 +1608,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>15</td>
+<td>165</td>
 <td>Набор аккумуляторщика</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1574,7 +1617,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>16</td>
+<td>166</td>
 <td>Таль для снятия двигателя и мостов</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1583,7 +1626,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>17</td>
+<td>167</td>
 <td>Комплект шансовых инструментов для автомобилей</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1592,7 +1635,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>18</td>
+<td>168</td>
 <td>Компрессоры</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1601,7 +1644,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>19</td>
+<td>169</td>
 <td>Компьютер для регулировки развала-схождения</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1610,7 +1653,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>20</td>
+<td>170</td>
 <td>Стенд компьютерной диагностики электронной системы автомобиля</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1619,7 +1662,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>21</td>
+<td>171</td>
 <td>Шкаф химический с вытяжкой</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1628,7 +1671,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>22</td>
+<td>172</td>
 <td>Металлический шкаф для инструмента</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1637,8 +1680,8 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>23</td>
-<td>Станок для проверки электро-оборудования</td>
+<td>173</td>
+<td>Станок для проверки электрооборудования</td>
 <td>на подразделение</td>
 <td>штук</td>
 <td>2</td>
@@ -1646,7 +1689,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>24</td>
+<td>174</td>
 <td>Поломоечная машина</td>
 <td>На бокс (гараж) вместимостью до 50 единиц автотранспорта</td>
 <td>штук</td>
@@ -1655,10 +1698,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">8. Кадровое подразделение</td>
+<td colspan="7">Раздел 8. Кадровое подразделение</td>
 </tr>
 <tr>
-<td>1</td>
+<td>175</td>
 <td>Фотоаппарат</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1667,7 +1710,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>176</td>
 <td>Фотовидеоштатив</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1676,7 +1719,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>177</td>
 <td>Видеокамера</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1685,7 +1728,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>178</td>
 <td>Диктофон</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1694,7 +1737,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>179</td>
 <td>Металлический шкаф</td>
 <td>на 50 личных дел</td>
 <td>штук</td>
@@ -1703,10 +1746,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">9. Подразделение секретного и несекретного делопроизводства, архива, склада и по защите государственных секретов</td>
+<td colspan="7">Раздел 9. Подразделение секретного и несекретного делопроизводства, архива, склада и по защите государственных секретов</td>
 </tr>
 <tr>
-<td>1</td>
+<td>180</td>
 <td>Кондиционер</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -1715,7 +1758,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы кондиционирования</td>
 </tr>
 <tr>
-<td>2</td>
+<td>181</td>
 <td>Настольная лампа</td>
 <td>на рабочее место</td>
 <td>штук</td>
@@ -1724,7 +1767,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>182</td>
 <td>Часы настенные</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -1733,7 +1776,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>183</td>
 <td>Бумагоуничтожитель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -1742,7 +1785,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>184</td>
 <td>Металлический шкаф</td>
 <td>на 30 номенклатурных дел</td>
 <td>штук</td>
@@ -1751,7 +1794,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>185</td>
 <td>Сейф</td>
 <td>на рабочее место</td>
 <td>штук</td>
@@ -1760,7 +1803,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>186</td>
 <td>Обогреватель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -1769,7 +1812,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы отопления</td>
 </tr>
 <tr>
-<td>8</td>
+<td>187</td>
 <td>Барьерная перегородка</td>
 <td>на помещение</td>
 <td>штук</td>
@@ -1778,7 +1821,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>188</td>
 <td>Стеллаж</td>
 <td>на помещение</td>
 <td>штук</td>
@@ -1787,10 +1830,28 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">10. Подразделение, ответственное за работу со средствами массовой информации и общественностью</td>
+<td>189</td>
+<td>Станок для подшивки номенклатурных дел</td>
+<td>на помещение</td>
+<td>штук</td>
+<td>2</td>
+<td>10</td>
+<td></td>
 </tr>
 <tr>
-<td>1</td>
+<td>190</td>
+<td>Портфель с опечатывающим устройством</td>
+<td>на подразделение</td>
+<td>штук</td>
+<td>4</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="7">Раздел 10. Подразделение, ответственное за работу со средствами массовой информации и общественностью</td>
+</tr>
+<tr>
+<td>191</td>
 <td>Видеокамера с надкамерным светом</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1799,7 +1860,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>192</td>
 <td>Чехол для видеокамеры</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1808,7 +1869,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>193</td>
 <td>Штатив с чехлом</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1817,7 +1878,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>194</td>
 <td>Фотоаппарат зеркальный со вспышкой</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1826,7 +1887,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>195</td>
 <td>Фотоаппарат оптический со вспышкой</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1835,7 +1896,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>196</td>
 <td>Телевизор</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1844,7 +1905,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>197</td>
 <td>Кондиционер</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -1853,7 +1914,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы кондиционирования</td>
 </tr>
 <tr>
-<td>8</td>
+<td>198</td>
 <td>Настольная лампа</td>
 <td>на рабочее место</td>
 <td>штук</td>
@@ -1862,7 +1923,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>199</td>
 <td>Обогреватель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -1871,7 +1932,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы отопления</td>
 </tr>
 <tr>
-<td>10</td>
+<td>200</td>
 <td>Часы настенные</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -1880,7 +1941,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>201</td>
 <td>Осветительное оборудование</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1889,7 +1950,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>202</td>
 <td>Сейф</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1898,7 +1959,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>203</td>
 <td>Проектор с экраном</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1907,7 +1968,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>14</td>
+<td>204</td>
 <td>Диктофон</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1916,7 +1977,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>15</td>
+<td>205</td>
 <td>Диспенсер для воды</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -1925,7 +1986,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>16</td>
+<td>206</td>
 <td>DVD-проигрыватель</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1934,7 +1995,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>17</td>
+<td>207</td>
 <td>Бумагоуничтожитель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -1943,7 +2004,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>18</td>
+<td>208</td>
 <td>Видеомагнитофон</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1952,7 +2013,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>19</td>
+<td>209</td>
 <td>Компактный рекордер с экраном и разъемом, совместимый с форматами HDV/DVCAM/DV</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1961,7 +2022,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>20</td>
+<td>210</td>
 <td>Микрофон</td>
 <td>на подразделение</td>
 <td>комплект</td>
@@ -1970,8 +2031,8 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>21</td>
-<td>Выносной микрофон («петличка»)</td>
+<td>211</td>
+<td>Выносной микрофон (&quot;петличка&quot;)</td>
 <td>на подразделение</td>
 <td>комплект</td>
 <td>3</td>
@@ -1979,7 +2040,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>22</td>
+<td>212</td>
 <td>Микшерный пульт</td>
 <td>на подразделение</td>
 <td>штук</td>
@@ -1988,10 +2049,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">11. Кабинет для проведения полиграфологических исследований</td>
+<td colspan="7">Раздел 11. Кабинет для проведения полиграфологических исследований</td>
 </tr>
 <tr>
-<td>1</td>
+<td>213</td>
 <td>Полиграф-аппарат</td>
 <td>на кабинет</td>
 <td>комплект</td>
@@ -2000,7 +2061,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>214</td>
 <td>Диспенсер для воды</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2009,10 +2070,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">12. Кабинет казахского языка</td>
+<td colspan="7">Раздел 12. Кабинет казахского языка</td>
 </tr>
 <tr>
-<td>1</td>
+<td>215</td>
 <td>Музыкальный центр</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2021,7 +2082,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>216</td>
 <td>Телевизор</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2030,7 +2091,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>217</td>
 <td>DVD-проигрыватель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2039,7 +2100,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>218</td>
 <td>Кондиционер</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2048,7 +2109,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы кондиционирования</td>
 </tr>
 <tr>
-<td>5</td>
+<td>219</td>
 <td>Доска маркерная</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2057,7 +2118,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>220</td>
 <td>Сейф</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2066,7 +2127,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>221</td>
 <td>Диспенсер для воды</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2075,7 +2136,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>222</td>
 <td>Проектор, экран</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2084,7 +2145,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>223</td>
 <td>Часы настенные</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2093,7 +2154,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>224</td>
 <td>Карта Республики Казахстан</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2102,10 +2163,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">13. Кабинет аттестационного тестирования</td>
+<td colspan="7">Раздел 13. Кабинет аттестационного тестирования</td>
 </tr>
 <tr>
-<td>1</td>
+<td>225</td>
 <td>Кондиционер</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2114,7 +2175,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы кондиционирования</td>
 </tr>
 <tr>
-<td>2</td>
+<td>226</td>
 <td>Интерактивная доска</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2123,7 +2184,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>227</td>
 <td>Часы настенные</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2132,7 +2193,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>228</td>
 <td>Бумагоуничтожитель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2141,7 +2202,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>229</td>
 <td>Диспенсер для воды</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2150,7 +2211,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>230</td>
 <td>Сейф</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2159,11 +2220,8 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
-<td>
-Микрофон для видео-конференц-
-связи
-</td>
+<td>231</td>
+<td>Микрофон для видеоконференцсвязи</td>
 <td>на кабинет</td>
 <td>штук</td>
 <td>1</td>
@@ -2171,7 +2229,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>232</td>
 <td>Видеокамера</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2180,11 +2238,8 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
-<td>
-Монитор с соответствующим разрешением и слотами для видео-конференц-
-связи
-</td>
+<td>233</td>
+<td>Монитор с соответствующим разрешением и слотами для видеоконференцсвязи</td>
 <td>на кабинет</td>
 <td>штук</td>
 <td>1</td>
@@ -2192,7 +2247,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>234</td>
 <td>DVD-проигрыватель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2201,7 +2256,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>235</td>
 <td>Колонки</td>
 <td>на кабинет</td>
 <td>комплект</td>
@@ -2210,7 +2265,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>236</td>
 <td>Микрофон для президиума</td>
 <td>на каждое посадочное место</td>
 <td>штук</td>
@@ -2219,10 +2274,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">14. Кабинет психофизиологических исследований Комитета национальной безопасности Республики Казахстан</td>
+<td colspan="7">Раздел 14. Кабинет психофизиологических исследований Комитета национальной безопасности Республики Казахстан</td>
 </tr>
 <tr>
-<td>1</td>
+<td>237</td>
 <td>Биоэлектронный компьютерный комплекс</td>
 <td>на кабинет</td>
 <td>комплект</td>
@@ -2231,7 +2286,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>238</td>
 <td>
 Антистрессовая психофизиологическая аудиовизуально-
 вибротактильная музыкальная система
@@ -2243,7 +2298,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>239</td>
 <td>Телевизор</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2252,7 +2307,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>240</td>
 <td>Видеокамера</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2261,7 +2316,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>241</td>
 <td>Сейф</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2270,7 +2325,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>242</td>
 <td>Кондиционер</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2279,7 +2334,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы кондиционирования</td>
 </tr>
 <tr>
-<td>7</td>
+<td>243</td>
 <td>Релаксационные очки</td>
 <td>на кабинет</td>
 <td>комплект</td>
@@ -2288,7 +2343,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>244</td>
 <td>DVD-проигрыватель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2297,7 +2352,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>245</td>
 <td>Проектор, экран</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2306,7 +2361,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>246</td>
 <td>Флипчарт (доска)</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2315,7 +2370,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>247</td>
 <td>Комплект релаксационных и стимулирующих аппаратов</td>
 <td>на кабинет</td>
 <td>комплект</td>
@@ -2324,22 +2379,19 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">15. Оружейная комната</td>
+<td colspan="7">Раздел 15. Оружейная комната</td>
 </tr>
 <tr>
-<td>1</td>
+<td>248</td>
 <td>Пирамида для хранения оружия</td>
-<td>
-на 10 единиц
-оружия
-</td>
+<td>на 10 единиц оружия</td>
 <td>штук</td>
 <td>1</td>
 <td>10</td>
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>249</td>
 <td>Шкаф для специального снаряжения</td>
 <td>на помещение</td>
 <td>штук</td>
@@ -2348,7 +2400,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>250</td>
 <td>Стеллажи</td>
 <td>на помещение</td>
 <td>штук</td>
@@ -2357,7 +2409,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>251</td>
 <td>Стол для чистки оружия</td>
 <td>на помещение</td>
 <td>штук</td>
@@ -2366,7 +2418,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>252</td>
 <td>Стенд информационный</td>
 <td>на помещение</td>
 <td>штук</td>
@@ -2375,10 +2427,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">16. Дежурная служба</td>
+<td colspan="7">Раздел 16. Дежурная служба</td>
 </tr>
 <tr>
-<td>1</td>
+<td>253</td>
 <td>Кондиционер</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2387,7 +2439,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы кондиционирования</td>
 </tr>
 <tr>
-<td>2</td>
+<td>254</td>
 <td>Настольная лампа</td>
 <td>на рабочее место</td>
 <td>штук</td>
@@ -2396,7 +2448,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>255</td>
 <td>Обогреватель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2405,7 +2457,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы отопления</td>
 </tr>
 <tr>
-<td>4</td>
+<td>256</td>
 <td>Часы настенные</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2414,7 +2466,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>257</td>
 <td>Холодильник</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2423,7 +2475,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>258</td>
 <td>Сейф</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2432,7 +2484,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>259</td>
 <td>Диспенсер для воды</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2441,7 +2493,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>260</td>
 <td>Бумагоуничтожитель</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2450,7 +2502,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>261</td>
 <td>Карта Республики Казахстан</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2459,7 +2511,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>262</td>
 <td>Электрический чайник</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2468,7 +2520,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>263</td>
 <td>Сейф для хранения пакетов с сигналами (2 ячейки)</td>
 <td>на кабинет</td>
 <td>штук</td>
@@ -2477,7 +2529,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>264</td>
 <td>Шторы и/или жалюзи</td>
 <td>на оконный проем</td>
 <td>комплект</td>
@@ -2486,7 +2538,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>265</td>
 <td>Кровать (раскладушка)</td>
 <td>на 2 сотрудника</td>
 <td>штук</td>
@@ -2495,7 +2547,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>14</td>
+<td>266</td>
 <td>Микроволновая печь</td>
 <td>на помещение</td>
 <td>штук</td>
@@ -2504,10 +2556,19 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">17. Помещение для водителей</td>
+<td>267</td>
+<td>Утюг, гладильная доска</td>
+<td>на помещение</td>
+<td>штук</td>
+<td>1</td>
+<td>5</td>
+<td></td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="7">Раздел 17. Помещение для водителей</td>
+</tr>
+<tr>
+<td>268</td>
 <td>Кондиционер</td>
 <td>на помещение</td>
 <td>штук</td>
@@ -2516,7 +2577,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы кондиционирования</td>
 </tr>
 <tr>
-<td>2</td>
+<td>269</td>
 <td>Часы настенные</td>
 <td>на помещение</td>
 <td>штук</td>
@@ -2525,7 +2586,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>270</td>
 <td>Электрический чайник</td>
 <td>на помещение</td>
 <td>штук</td>
@@ -2534,7 +2595,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>271</td>
 <td>Шторы и/или жалюзи</td>
 <td>на оконный проем</td>
 <td>комплект</td>
@@ -2543,7 +2604,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>272</td>
 <td>Холодильник</td>
 <td>на помещение</td>
 <td>штук</td>
@@ -2552,7 +2613,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>273</td>
 <td>Микроволновая печь</td>
 <td>на помещение</td>
 <td>штук</td>
@@ -2561,10 +2622,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">18. Конференц-зал, актовый зал</td>
+<td colspan="7">Раздел 18. Конференц-зал, актовый зал</td>
 </tr>
 <tr>
-<td>1</td>
+<td>274</td>
 <td>Интерактивная доска</td>
 <td>на помещение</td>
 <td>штук</td>
@@ -2573,7 +2634,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>275</td>
 <td>Телевизор</td>
 <td>на помещение</td>
 <td>штук</td>
@@ -2582,7 +2643,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>276</td>
 <td>Трибуна, стол президиума</td>
 <td>на помещение</td>
 <td>комплект</td>
@@ -2591,7 +2652,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>277</td>
 <td>Музыкальный центр</td>
 <td>на помещение</td>
 <td>штук</td>
@@ -2600,7 +2661,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>278</td>
 <td>Кондиционер</td>
 <td>на помещение</td>
 <td>штук</td>
@@ -2609,7 +2670,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы кондиционирования</td>
 </tr>
 <tr>
-<td>6</td>
+<td>279</td>
 <td>Портьерные шторы</td>
 <td>на каждый оконный проем</td>
 <td>комплект</td>
@@ -2618,7 +2679,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>280</td>
 <td>Проектор с экраном</td>
 <td>на помещение</td>
 <td>комплект</td>
@@ -2627,8 +2688,8 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
-<td>Микрофон для видео-конференц-связи</td>
+<td>281</td>
+<td>Микрофон для видеоконференцсвязи</td>
 <td>на кабинет</td>
 <td>штук</td>
 <td>1</td>
@@ -2636,7 +2697,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>282</td>
 <td>Микрофон для президиума</td>
 <td>на каждое посадочное место</td>
 <td>штук</td>
@@ -2645,10 +2706,19 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">19. Здания и сооружения</td>
+<td>283</td>
+<td>Театральное кресло ** *</td>
+<td>на каждое посадочное место</td>
+<td>штук</td>
+<td>1</td>
+<td>7</td>
+<td></td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="7">Раздел 19. Здания и сооружения</td>
+</tr>
+<tr>
+<td>284</td>
 <td>Тепловое оборудование (тепловая завеса, калорифер)</td>
 <td>на каждый вход комплекса зданий и сооружений (пост)</td>
 <td>штук</td>
@@ -2657,7 +2727,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>285</td>
 <td>Дизель-генераторная установка (источник электрической энергии)</td>
 <td>на каждый комплекс зданий и сооружений</td>
 <td>комплект</td>
@@ -2666,7 +2736,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>286</td>
 <td>Аккумулятор на дизель-генератор (резервный)</td>
 <td>на каждый комплекс зданий и сооружений</td>
 <td>штук</td>
@@ -2675,7 +2745,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>287</td>
 <td>Передвижные генераторы (источник электрической энергии)</td>
 <td>на каждый комплекс зданий и сооружений</td>
 <td>штук</td>
@@ -2684,7 +2754,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>288</td>
 <td>Пояс верхолазный монтажный</td>
 <td>на каждый комплекс зданий</td>
 <td>штук</td>
@@ -2693,7 +2763,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">6</td>
+<td rowspan="2">289</td>
 <td rowspan="2">Лестница-стремянка</td>
 <td>на объектовую команду гражданской обороны</td>
 <td>штук</td>
@@ -2709,7 +2779,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>290</td>
 <td>Газонокосилка</td>
 <td>на комплекс зданий</td>
 <td>штук</td>
@@ -2718,7 +2788,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>291</td>
 <td>Тиски</td>
 <td>для каждой мастерской</td>
 <td>штук</td>
@@ -2727,7 +2797,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>292</td>
 <td>Отвертки</td>
 <td>для оборудования мастерской</td>
 <td>комплект</td>
@@ -2736,7 +2806,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>293</td>
 <td>Штангенциркуль</td>
 <td>для каждой мастерской</td>
 <td>штук</td>
@@ -2745,7 +2815,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>294</td>
 <td>Лампа паяльная</td>
 <td>для каждой мастерской</td>
 <td>штук</td>
@@ -2754,7 +2824,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>295</td>
 <td>Лом</td>
 <td>на каждое здание</td>
 <td>штук</td>
@@ -2763,7 +2833,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">13</td>
+<td rowspan="2">296</td>
 <td rowspan="2">Тележка</td>
 <td>на объектовую команду гражданской обороны</td>
 <td>штук</td>
@@ -2779,7 +2849,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>14</td>
+<td>297</td>
 <td>Топор</td>
 <td>на каждое здание</td>
 <td>штук</td>
@@ -2788,7 +2858,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">15</td>
+<td rowspan="2">298</td>
 <td rowspan="2">Пилы поперечные</td>
 <td>на объектовую команду гражданской обороны</td>
 <td>штук</td>
@@ -2804,7 +2874,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">16</td>
+<td rowspan="2">299</td>
 <td rowspan="2">Напильник трехгранный</td>
 <td>на объектовую команду гражданской обороны</td>
 <td>штук</td>
@@ -2820,7 +2890,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>17</td>
+<td>300</td>
 <td>Киркомотыга</td>
 <td>на каждое здание</td>
 <td>штук</td>
@@ -2829,7 +2899,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">18</td>
+<td rowspan="2">301</td>
 <td rowspan="2">Ножницы для резки проволоки</td>
 <td>на объектовую команду гражданской обороны</td>
 <td>штук</td>
@@ -2845,7 +2915,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>19</td>
+<td>302</td>
 <td>Пылесос</td>
 <td>на 400 м2</td>
 <td>штук</td>
@@ -2854,7 +2924,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при площади отдельно стоящего здания менее 400 м2 – 1 пылесос</td>
 </tr>
 <tr>
-<td>20</td>
+<td>303</td>
 <td>Металлический шкаф для хранения мобильных телефонов и электронных носителей информации</td>
 <td>количество ячеек в зависимости от штатной численности сотрудников</td>
 <td>штук</td>
@@ -2863,7 +2933,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>21</td>
+<td>304</td>
 <td>Технологический кондиционер</td>
 <td>на технологическое помещение</td>
 <td>штук</td>
@@ -2872,7 +2942,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>при отсутствии системы кондиционирования</td>
 </tr>
 <tr>
-<td>22</td>
+<td>305</td>
 <td>Печь электромуфельная (для сжигания документов)</td>
 <td>на каждое здание</td>
 <td>штук</td>
@@ -2881,7 +2951,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>23</td>
+<td>306</td>
 <td>Мотопомпа</td>
 <td>на каждое здание</td>
 <td>штук</td>
@@ -2890,7 +2960,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>24</td>
+<td>307</td>
 <td>Бензопила</td>
 <td>на комплекс зданий</td>
 <td>штук</td>
@@ -2899,7 +2969,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>25</td>
+<td>308</td>
 <td>Опечатывающее устройство</td>
 <td>на каждую входную дверь, сейф</td>
 <td>штук</td>
@@ -2908,7 +2978,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>26</td>
+<td>309</td>
 <td>Урна</td>
 <td>на рабочее место</td>
 <td>штук</td>
@@ -2917,7 +2987,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>27</td>
+<td>310</td>
 <td>Емкость для хранения ГСМ</td>
 <td>на каждое здание</td>
 <td>штук</td>
@@ -2926,7 +2996,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>28</td>
+<td>311</td>
 <td>Веревка</td>
 <td>на объектовую команду гражданской обороны</td>
 <td>штук</td>
@@ -2935,7 +3005,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>29</td>
+<td>312</td>
 <td>Лебедка</td>
 <td>на объектовую команду гражданской обороны</td>
 <td>штук</td>
@@ -2944,8 +3014,8 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="3">30</td>
-<td rowspan="3">Котел отопительный водогрейный (твердо-топливный, жидко-топливный, газо-мазутный и электрический)</td>
+<td rowspan="3">313</td>
+<td rowspan="3">Котел отопительный водогрейный (твердо-топливный, жидко-топливный, газо- мазутный и электрический)</td>
 <td>на каждый комплекс зданий и сооружений военного городка пограничной заставы (поста, отделения пограничного контроля), не подключенных к центральной системе отопления</td>
 <td>штук</td>
 <td>2</td>
@@ -2967,7 +3037,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>31</td>
+<td>314</td>
 <td>Котел парообразующий для подогрева мазута</td>
 <td>на каждый комплекс мазутохранилища</td>
 <td>штук</td>
@@ -2976,7 +3046,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>32</td>
+<td>315</td>
 <td>Комплекс (установка) очистки воды</td>
 <td>на каждый комплекс зданий и сооружений, не подключенных к центральной системе водоснабжения</td>
 <td>комплект</td>
@@ -2985,7 +3055,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>По результатам лабораторных исследований проб воды</td>
 </tr>
 <tr>
-<td>33</td>
+<td>316</td>
 <td>Опреснительная установка</td>
 <td>на каждый комплекс зданий и сооружений, не подключенных к центральной системе водоснабжения и с уровнем концентрации соли выше установленной нормы</td>
 <td>комплект</td>
@@ -2994,7 +3064,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>По результатам лабораторных исследований проб воды</td>
 </tr>
 <tr>
-<td>34</td>
+<td>317</td>
 <td>Комплекс очистки сточных вод</td>
 <td>на каждый комплекс зданий и сооружений, не подключенных к центральной системе водоотведения</td>
 <td>комплект</td>
@@ -3003,7 +3073,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>35</td>
+<td>318</td>
 <td>Трансформаторная подстанция</td>
 <td>на каждый комплекс зданий и сооружений, подключенных к системе промышленного электроснабжения</td>
 <td>комплект</td>
@@ -3012,7 +3082,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>36</td>
+<td>319</td>
 <td>Приборы учета электроэнергии</td>
 <td>на каждый комплекс зданий и сооружений, подключенных к центральной системе электроснабжения</td>
 <td>комплект</td>
@@ -3021,7 +3091,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>37</td>
+<td>320</td>
 <td>Приборы учета горячей воды</td>
 <td>на каждый комплекс зданий и сооружений, подключенных к центральной системе водоснабжения горячей воды</td>
 <td>комплект</td>
@@ -3030,7 +3100,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>38</td>
+<td>321</td>
 <td>Приборы учета холодной воды</td>
 <td>на каждый комплекс зданий и сооружений, подключенных к центральной системе водоснабжения холодной воды</td>
 <td>комплект</td>
@@ -3039,7 +3109,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>39</td>
+<td>322</td>
 <td>Приборы учета газа</td>
 <td>на каждый комплекс зданий и сооружений, подключенных к центральной системе газоснабжения</td>
 <td>комплект</td>
@@ -3048,7 +3118,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>40</td>
+<td>323</td>
 <td>Приборы учета тепла</td>
 <td>на каждый комплекс зданий и сооружений, подключенных к центральной системе теплоснабжения</td>
 <td>комплект</td>
@@ -3057,11 +3127,8 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>41</td>
-<td>
-Комплекс перекачки
-(установка) для жидкого топлива (мазутонасосная станция)
-</td>
+<td>324</td>
+<td>Комплекс перекачки (установка) для жидкого топлива (мазутонасосная станция)</td>
 <td>на каждый котел на жидком топливе</td>
 <td>комплект</td>
 <td>1</td>
@@ -3069,7 +3136,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>42</td>
+<td>325</td>
 <td>Ультразвуковая (химическая) противонакипная установка</td>
 <td>на каждый котел</td>
 <td>штук</td>
@@ -3078,7 +3145,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>43</td>
+<td>326</td>
 <td>Дымосос</td>
 <td>на каждый котел</td>
 <td>штук</td>
@@ -3087,7 +3154,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>44</td>
+<td>327</td>
 <td>Хлораторная установка для обеззараживания питьевой воды</td>
 <td>на каждую насосную станцию</td>
 <td>комплект</td>
@@ -3096,7 +3163,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>45</td>
+<td>328</td>
 <td>
 Установка для
 обеззараживания питьевой воды
@@ -3109,7 +3176,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>46</td>
+<td>329</td>
 <td>Бетономешалка</td>
 <td>на воинскую часть</td>
 <td>штук</td>
@@ -3118,7 +3185,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>47</td>
+<td>330</td>
 <td>Паяльник электрический для поливинилхлоридных труб с насадками разными</td>
 <td>на воинскую часть (комендатуру)</td>
 <td>штук</td>
@@ -3126,10 +3193,72 @@ source: https://zan.gov.kz/client/#!/doc/92817/rus/23.11.2017
 <td>7</td>
 <td></td>
 </tr>
+<tr>
+<td colspan="7">Раздел 20. Помещение для ситуационного центра</td>
+</tr>
+<tr>
+<td>331</td>
+<td>Географическая карта мира</td>
+<td>на помещение</td>
+<td>штук</td>
+<td>2</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>332</td>
+<td>Карта РК</td>
+<td>на помещение</td>
+<td>штук</td>
+<td>2</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>333</td>
+<td>Диспенсер для воды</td>
+<td>на помещение</td>
+<td>штук</td>
+<td>1</td>
+<td>4</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="7">Раздел 21. Караульное помещение</td>
+</tr>
+<tr>
+<td>334</td>
+<td>Информационный стенд</td>
+<td>на комнату</td>
+<td>штук</td>
+<td>1</td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>335</td>
+<td>Аккумуляторные фонари</td>
+<td>на каждого разводящего, начальника и помощника начальника караула</td>
+<td>штук</td>
+<td>1</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>336</td>
+<td>Термометры</td>
+<td>на комнату</td>
+<td>штук</td>
+<td>2</td>
+<td>3</td>
+<td></td>
+</tr>
 </table>
 
 Примечания:
 
-* – Нормы распространяются на начальника (заместителя начальника) территориального органа, службы, ведомства, подведомственного государственного учреждения, департамента, за исключением Пограничной службы Комитета национальной безопасности;
+* нормы распространяются на начальника (заместителя начальника) территориального органа, службы, ведомства, подведомственного государственного учреждения, департамента, за исключением Пограничной службы Комитета национальной безопасности;
 
-** – начальник (заместитель начальника) управления, начальник самостоятельного отдела.
+** начальник (заместитель начальника) управления, начальник самостоятельного отдела;
+
+*** вместо театрального кресла разрешается приобретать полумягкие стулья.
