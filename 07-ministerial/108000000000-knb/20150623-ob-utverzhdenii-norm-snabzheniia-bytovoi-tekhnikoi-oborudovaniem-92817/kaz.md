@@ -1,5 +1,5 @@
 ---
-version_id: '92817_285003'
+version_id: '92817_413117'
 act_code: '92817'
 language: kaz
 title: Қазақстан Республикасы Ұлттық қауіпсіздік органдарын тұрмыстық техникамен, құрал-жабдықтармен және мүккәммал мүліктермен жабдықтаудың нормаларын бекіту туралы
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '108000000000'
 approval_date: 2015-06-23
-version_date: 2017-11-23
+version_date: 2019-06-25
 registry_number: '92817'
 caused_by:
-  code: '117798'
-  title: «Қазақстан Республикасының Ұлттық қауіпсіздік органдарын тұрмыстық техникамен, құрал-жабдықтармен және мүккәммал мүліктермен жабдықтаудың нормаларын бекіту туралы» Қазақстан Республикасы Ұлттық қауіпсіздік комитеті Төрағасының 2015 жылғы 23 маусымдағы № 52 бұйрығына толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/117798/kaz
-source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
+  code: '132820'
+  title: «Қазақстан Республикасы Ұлттық қауіпсіздік органдарын тұрмыстық техникамен, құрал-жабдықтармен және мүкәммал мүліктермен жабдықтаудың нормаларын бекіту туралы» Қазақстан Республикасы Ұлттық қауіпсіздік комитеті Төрағасының 2015 жылғы 23 маусымдағы № 52 бұйрығына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/132820/kaz
+source: https://zan.gov.kz/client/#!/doc/92817/kaz/25.06.2019
 ---
 
 # Қазақстан Республикасының Ұлттық қауіпсіздік органдарын тұрмыстық техникамен, құрал-жабдықтармен және мүккәммал мүліктермен жабдықтаудың нормаларын бекіту туралы
@@ -53,16 +53,13 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 > *№ 52 бұйрығымен*  
 > *бекітілген*
 
-# Қазақстан Республикасының ұлттық қауіпсіздік органдарын тұрмыстық техникамен, құрал-жабдықтармен және мүкәммал мүліктермен жабдықтаудың нормалары
+## Қазақстан Республикасының ұлттық қауіпсіздік органдарын тұрмыстық техникамен, құрал-жабдықтармен және мүкәммал мүліктермен жабдықтаудың нормалары
 
-> *Ескерту. Нормаларға өзгерістер енгізілді - ҚР Ұлттық қауіпсіздік комитеті төрағасының 23.11.2017 № 109/қе (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. Нормалар жаңа редакцияда - ҚР Ұлттық қауіпсіздік комитеті Төрағасының 25.06.2019 № 43/қе (алғаш ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
-<td>
-Р/с
-№
-</td>
+<td>Р/с №</td>
 <td>Атауы</td>
 <td>Кадр құрамының қанша санына (үй-жайға, бөлімшеге) есептелген</td>
 <td>Өлшем бірлігі</td>
@@ -74,16 +71,16 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>1</td>
 <td>2</td>
 <td>3</td>
-<td></td>
 <td>4</td>
-<td></td>
 <td>5</td>
+<td>6</td>
+<td>7</td>
 </tr>
 <tr>
-<td colspan="7">1. Басшылық</td>
+<td colspan="7">1-бөлім. Басшылық</td>
 </tr>
 <tr>
-<td colspan="7">Бірінші басшының және орынбасарларының кабинеті</td>
+<td colspan="7">1-кіші бөлім. Бірінші басшының және орынбасарларының кабинеті</td>
 </tr>
 <tr>
 <td>1</td>
@@ -221,10 +218,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Демалыс бөлмесі</td>
+<td colspan="7">2-кіші бөлім. Демалыс бөлмесі</td>
 </tr>
 <tr>
-<td>1</td>
+<td>16</td>
 <td>Теледидар</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -233,7 +230,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>17</td>
 <td>Ауа баптағыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -242,7 +239,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>ауа баптау жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>3</td>
+<td>18</td>
 <td>Суға арналған диспенсер</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -251,7 +248,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>19</td>
 <td>Тоңазытқыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -260,7 +257,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>20</td>
 <td>Перделер және/ немесе жалюзи</td>
 <td>әр терезе орнына</td>
 <td>жинақ</td>
@@ -269,7 +266,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>21</td>
 <td>Киім ілгіш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -278,7 +275,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>22</td>
 <td>Кілем (кілем төсеніштері)</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -287,7 +284,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>23</td>
 <td>Үтік, үтіктеу тақтасы</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -296,10 +293,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Бірінші басшының және орынбасарлырының қабылдау бөлмесі</td>
+<td colspan="7">3-кіші бөлім. Бірінші басшының және орынбасарлырының қабылдау бөлмесі</td>
 </tr>
 <tr>
-<td>1</td>
+<td>24</td>
 <td>Үстел шамы</td>
 <td>жұмыс орнына</td>
 <td>дана</td>
@@ -308,7 +305,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>25</td>
 <td>Ауа баптағыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -317,7 +314,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>ауа баптау жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>3</td>
+<td>26</td>
 <td>Жылытқыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -326,7 +323,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>27</td>
 <td>Суға арналған диспенсер</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -335,7 +332,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>28</td>
 <td>Қабырға сағаты</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -344,7 +341,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>29</td>
 <td>Қағаз жойғыш (турағыш)</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -353,7 +350,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>30</td>
 <td>Шай сервизі</td>
 <td>кабинетке</td>
 <td>жинақ</td>
@@ -362,25 +359,25 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>31</td>
 <td>Сейф</td>
 <td>кабинетке</td>
-<td></td>
+<td>дана</td>
 <td>1</td>
 <td>10</td>
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>32</td>
 <td>Қабырға айнасы</td>
 <td>кабинетке</td>
-<td></td>
+<td>дана</td>
 <td>1</td>
 <td>5</td>
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>33</td>
 <td>Перделер және/ немесе жалюзи</td>
 <td>әр терезе орнына</td>
 <td>жинақ</td>
@@ -389,7 +386,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>34</td>
 <td>Киім ілгіш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -398,7 +395,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>35</td>
 <td>Кілем (кілем төсеніштері)</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -407,7 +404,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>36</td>
 <td>Электр шәйнек</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -416,13 +413,13 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">2. Басшылар*</td>
+<td colspan="7">2-бөлім. Басшылар*</td>
 </tr>
 <tr>
-<td colspan="7">Басшының кабинеті</td>
+<td colspan="7">1-кіші бөлім. Басшының кабинеті</td>
 </tr>
 <tr>
-<td>1</td>
+<td>37</td>
 <td>Теледидар</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -431,7 +428,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>38</td>
 <td>Ауа баптағыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -440,7 +437,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>ауа баптау жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>3</td>
+<td>39</td>
 <td>Үстел шамы</td>
 <td>жұмыс орнына</td>
 <td>дана</td>
@@ -449,7 +446,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>40</td>
 <td>Жылытқыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -458,7 +455,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>жылыту жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>5</td>
+<td>41</td>
 <td>Қабырға сағаты</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -467,7 +464,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>42</td>
 <td>Қағаз жойғыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -476,7 +473,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>43</td>
 <td>Картина</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -485,7 +482,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>44</td>
 <td>Қазақстан Республикасының картасы</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -494,7 +491,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>45</td>
 <td>Сейф</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -503,7 +500,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>46</td>
 <td>Мемлекет басшысының портреті</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -512,7 +509,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>47</td>
 <td>Перделер және/ немесе жалюзи</td>
 <td>әр терезе орнына</td>
 <td>жинақ</td>
@@ -521,7 +518,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>48</td>
 <td>Киім ілгіш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -530,7 +527,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>49</td>
 <td>Кілем (кілем төсеніштері)</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -539,10 +536,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Демалыс бөлмесі</td>
+<td colspan="7">2-кіші бөлім. Демалыс бөлмесі</td>
 </tr>
 <tr>
-<td>1</td>
+<td>50</td>
 <td>Ауа баптағыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -551,7 +548,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>ауа баптау жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>2</td>
+<td>51</td>
 <td>Суға арналған диспенсер</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -560,7 +557,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>52</td>
 <td>Перделер және/ немесе жалюзи</td>
 <td>әр терезе орнына</td>
 <td>жинақ</td>
@@ -569,7 +566,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>53</td>
 <td>Киім ілгіш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -578,7 +575,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>54</td>
 <td>Кілем (кілем төсеніші)</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -587,10 +584,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Басшының қабылдау бөлмесі</td>
+<td colspan="7">3-кіші бөлім. Басшының қабылдау бөлмесі</td>
 </tr>
 <tr>
-<td>1</td>
+<td>55</td>
 <td>Үстел шамы</td>
 <td>жұмыс орнына</td>
 <td>дана</td>
@@ -599,7 +596,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>56</td>
 <td>Ауа баптағыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -608,7 +605,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>ауа баптау жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>3</td>
+<td>57</td>
 <td>Жылытқыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -617,7 +614,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>жылыту жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>4</td>
+<td>58</td>
 <td>Суға арналған диспенсер</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -626,7 +623,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>59</td>
 <td>Қабырға сағаты</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -635,7 +632,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>60</td>
 <td>Қағаз жойғыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -644,7 +641,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>61</td>
 <td>Шай сервизі</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -653,7 +650,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>62</td>
 <td>Сейф</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -662,7 +659,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>63</td>
 <td>Қабырға айнасы</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -671,7 +668,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>64</td>
 <td>Перделер және/ немесе жалюзи</td>
 <td>әр терезе орнына</td>
 <td>жинақ</td>
@@ -680,7 +677,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>65</td>
 <td>Киім ілгіш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -689,7 +686,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>66</td>
 <td>Кілем (кілем төсеніші)</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -698,7 +695,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>67</td>
 <td>Электр шәйнек</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -707,46 +704,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">3. Басшының орынбасарлары</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Ауа баптағыш</td>
-<td>кабинетке</td>
-<td>дана</td>
-<td>1</td>
-<td>5</td>
-<td>ауа баптау жүйесі болмаған жағдайда</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Үстел шамы</td>
-<td>жұмыс орнына</td>
-<td>дана</td>
-<td>1</td>
-<td>3</td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Жылытқыш</td>
-<td>кабинетке</td>
-<td>дана</td>
-<td>1</td>
-<td>4</td>
-<td>жылыту жүйесі болмаған жағдайда</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Қабырға сағаты</td>
-<td>кабинетке</td>
-<td>дана</td>
-<td>1</td>
-<td>5</td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
+<td>68</td>
 <td>Тоңазытқыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -755,37 +713,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
-<td>Қағаз жойғыш</td>
-<td>кабинетке</td>
-<td>дана</td>
-<td>1</td>
-<td>3</td>
-<td></td>
+<td colspan="7">3-бөлім. Басшының орынбасарлары</td>
 </tr>
 <tr>
-<td>7</td>
-<td>Сейф</td>
-<td>кабинетке</td>
-<td>дана</td>
-<td>1</td>
-<td>10</td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Перделер және/ немесе жалюзи</td>
-<td>әр терезе орнына</td>
-<td>жинақ</td>
-<td>1</td>
-<td>5</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="7">4. Орта буын басшысы **</td>
-</tr>
-<tr>
-<td>1</td>
+<td>69</td>
 <td>Ауа баптағыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -794,7 +725,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>ауа баптау жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>2</td>
+<td>70</td>
 <td>Үстел шамы</td>
 <td>жұмыс орнына</td>
 <td>дана</td>
@@ -803,7 +734,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>71</td>
 <td>Жылытқыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -812,7 +743,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>жылыту жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>4</td>
+<td>72</td>
 <td>Қабырға сағаты</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -821,7 +752,16 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
+<td>73</td>
+<td>Тоңазытқыш</td>
+<td>кабинетке</td>
+<td>дана</td>
+<td>1</td>
 <td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>74</td>
 <td>Қағаз жойғыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -830,7 +770,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>75</td>
 <td>Сейф</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -839,7 +779,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>76</td>
 <td>Перделер және/ немесе жалюзи</td>
 <td>әр терезе орнына</td>
 <td>жинақ</td>
@@ -848,19 +788,28 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
-<td>Киім ілгіш</td>
+<td>77</td>
+<td>Суға арналған диспенсер</td>
 <td>кабинетке</td>
 <td>дана</td>
 <td>1</td>
-<td>5</td>
+<td>4</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">5. Қызметкер, әскери қызметші және жұмыскер</td>
+<td>78</td>
+<td>Теледтдар</td>
+<td>кабинетке</td>
+<td>дана</td>
+<td>1</td>
+<td>4</td>
+<td></td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="7">4-бөлім. Орта буын басшысы **</td>
+</tr>
+<tr>
+<td>79</td>
 <td>Ауа баптағыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -869,7 +818,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>ауа баптау жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>2</td>
+<td>80</td>
 <td>Үстел шамы</td>
 <td>жұмыс орнына</td>
 <td>дана</td>
@@ -878,7 +827,16 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>81</td>
+<td>Жылытқыш</td>
+<td>кабинетке</td>
+<td>дана</td>
+<td>1</td>
+<td>4</td>
+<td>жылыту жүйесі болмаған жағдайда</td>
+</tr>
+<tr>
+<td>82</td>
 <td>Қабырға сағаты</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -887,7 +845,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>83</td>
 <td>Қағаз жойғыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -896,25 +854,16 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>84</td>
 <td>Сейф</td>
-<td>жұмыс орнына</td>
+<td>кабинетке</td>
 <td>дана</td>
 <td>1</td>
 <td>10</td>
 <td></td>
 </tr>
 <tr>
-<td>6</td>
-<td>Металды шкаф</td>
-<td>жұмыс орнына</td>
-<td>дана</td>
-<td>1</td>
-<td>10</td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
+<td>85</td>
 <td>Перделер және/ немесе жалюзи</td>
 <td>әр терезе орнына</td>
 <td>жинақ</td>
@@ -923,7 +872,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>86</td>
 <td>Киім ілгіш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -932,7 +881,91 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>87</td>
+<td>Суға арналған диспенсер</td>
+<td>кабинетке</td>
+<td>дана</td>
+<td>1</td>
+<td>4</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="7">5-бөлім. Қызметкер, әскери қызметші және жұмыскер</td>
+</tr>
+<tr>
+<td>88</td>
+<td>Ауа баптағыш</td>
+<td>кабинетке</td>
+<td>дана</td>
+<td>1</td>
+<td>5</td>
+<td>ауа баптау жүйесі болмаған жағдайда</td>
+</tr>
+<tr>
+<td>89</td>
+<td>Үстел шамы</td>
+<td>жұмыс орнына</td>
+<td>дана</td>
+<td>1</td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>90</td>
+<td>Қабырға сағаты</td>
+<td>кабинетке</td>
+<td>дана</td>
+<td>1</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>91</td>
+<td>Қағаз жойғыш</td>
+<td>кабинетке</td>
+<td>дана</td>
+<td>1</td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>92</td>
+<td>Сейф</td>
+<td>жұмыс орнына</td>
+<td>дана</td>
+<td>1</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>93</td>
+<td>Металды шкаф</td>
+<td>жұмыс орнына</td>
+<td>дана</td>
+<td>1</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>94</td>
+<td>Перделер және/ немесе жалюзи</td>
+<td>әр терезе орнына</td>
+<td>жинақ</td>
+<td>1</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>95</td>
+<td>Киім ілгіш</td>
+<td>кабинетке</td>
+<td>дана</td>
+<td>1</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>96</td>
 <td>Электр шәйнек</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -941,10 +974,19 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">6. Материалдық-техникалық және/немесе шаруашылық қамтамасыз ету бөлімшесі</td>
+<td>97</td>
+<td>Айна</td>
+<td>кабинетке</td>
+<td>дана</td>
+<td>1</td>
+<td>4</td>
+<td></td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="7">6-бөлім. Материалдық-техникалық және/немесе шаруашылық қамтамасыз ету бөлімшесі</td>
+</tr>
+<tr>
+<td>98</td>
 <td>Бұрғылау станогы</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -953,7 +995,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>99</td>
 <td>Электр дәнекерлеу аппараты</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -962,7 +1004,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>100</td>
 <td>Жону станогы</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -971,7 +1013,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>101</td>
 <td>Циркуляр станогы</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -980,7 +1022,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>102</td>
 <td>Газды дәнекерлеу аппараты</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -989,7 +1031,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>103</td>
 <td>Электрмонтаждау үстелі</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -998,7 +1040,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>104</td>
 <td>Кәбілші-дәнекерлеуші құралы</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1007,7 +1049,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>105</td>
 <td>Тасымалданатын дәнекерлеуші трансформатор</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1016,7 +1058,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>106</td>
 <td>Электржабдықты тексеруге арналған тестер</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1025,7 +1067,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>107</td>
 <td>Әртүрлі электр сорғылар</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1034,7 +1076,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>108</td>
 <td>Компрессор</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1043,7 +1085,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>109</td>
 <td>Электр бұрғы (санаты бойынша)</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1052,7 +1094,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>110</td>
 <td>Электр сүргі</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1061,7 +1103,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>14</td>
+<td>111</td>
 <td>Металл кескіш</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1070,7 +1112,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>15</td>
+<td>112</td>
 <td>Электр перфоратор (санаты бойынша)</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1079,7 +1121,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>16</td>
+<td>113</td>
 <td>Бұрама шегені бұрағыш</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1088,7 +1130,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>17</td>
+<td>114</td>
 <td>Электр лобзик</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1097,7 +1139,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>18</td>
+<td>115</td>
 <td>Өндірістік ұзартқыш (катушка)</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1106,7 +1148,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>19</td>
+<td>116</td>
 <td>Кір жуу машинасы</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1115,7 +1157,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">20</td>
+<td rowspan="2">117</td>
 <td rowspan="2">Зілбалға</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1124,14 +1166,14 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>азаматтық қорғаныс объектілік командасына</td>
+<td>азаматтық қорғаныстық объектілік командасына</td>
 <td>дана</td>
 <td>2</td>
 <td>5</td>
 <td></td>
 </tr>
 <tr>
-<td>21</td>
+<td>118</td>
 <td>Победитті бұрғылар</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1140,7 +1182,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>22</td>
+<td>119</td>
 <td>Бұрғы (барлық өлшемдер)</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1149,7 +1191,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>23</td>
+<td>120</td>
 <td>Ағашқа арналған бұрғы</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1158,7 +1200,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>24</td>
+<td>121</td>
 <td>Металға арналған бұрғы</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1167,7 +1209,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">25</td>
+<td rowspan="2">122</td>
 <td rowspan="2">Бағанға шығуға арналған (өрмелеп шығу) қысқаш</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1183,7 +1225,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>26</td>
+<td>123</td>
 <td>Шыны кескіш</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1192,7 +1234,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>27</td>
+<td>124</td>
 <td>Егеулер жинағы</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1201,7 +1243,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>28</td>
+<td>125</td>
 <td>Шеге суырғыш</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1210,7 +1252,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>29</td>
+<td>126</td>
 <td>Слесарь жиынтығы</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1219,7 +1261,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>30</td>
+<td>127</td>
 <td>Сантехник жиынтығы</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1228,7 +1270,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>31</td>
+<td>128</td>
 <td>Сырлаушы жиынтығы</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1237,7 +1279,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>32</td>
+<td>129</td>
 <td>Гайка кілтінің жиынтығы</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1246,7 +1288,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>33</td>
+<td>130</td>
 <td>Дөңгелек кілт жиынтығы</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1255,7 +1297,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>34</td>
+<td>131</td>
 <td>Электр дәнекерлеуіш</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1264,7 +1306,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>35</td>
+<td>132</td>
 <td>Электрмонтаждау құралының жинағы</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1273,7 +1315,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>36</td>
+<td>133</td>
 <td>Электр сыр шашқыш</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1282,7 +1324,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">37</td>
+<td rowspan="2">134</td>
 <td rowspan="2">Металға арналған қайшы</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1298,7 +1340,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>38</td>
+<td>135</td>
 <td>Газды кілттер</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1307,7 +1349,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>39</td>
+<td>136</td>
 <td>Тістеуік</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1316,7 +1358,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>40</td>
+<td>137</td>
 <td>Кәріз тазалауға арналған арқан</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1325,7 +1367,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">41</td>
+<td rowspan="2">138</td>
 <td rowspan="2">Жалпақ күрек</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1341,7 +1383,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">42</td>
+<td rowspan="2">139</td>
 <td rowspan="2">Үшкір күрек</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1357,7 +1399,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>43</td>
+<td>140</td>
 <td>Қар тазалайтын күрек</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1366,7 +1408,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>44</td>
+<td>141</td>
 <td>Құрал-саймандарға арналған металды шкаф</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1375,7 +1417,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>45</td>
+<td>142</td>
 <td>Әмбебап ағаш өңдегіш станок</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1384,7 +1426,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>46</td>
+<td>143</td>
 <td>Бұрышты тегістеуші машина</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1393,7 +1435,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>47</td>
+<td>144</td>
 <td>Аппаратураға техникалық қызмет көрсетуге арналған шаңсорғыш</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1402,7 +1444,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>48</td>
+<td>145</td>
 <td>Балға</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1411,7 +1453,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>49</td>
+<td>146</td>
 <td>Электр шамы</td>
 <td>азаматтық қорғаныстың объектілік командасына</td>
 <td>дана</td>
@@ -1420,7 +1462,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>50</td>
+<td>147</td>
 <td>Арматура кесуге арналған машина</td>
 <td>азаматтық қорғаныстың объектілік командасына</td>
 <td>дана</td>
@@ -1429,7 +1471,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>51</td>
+<td>148</td>
 <td>Гидравликалық домкрат</td>
 <td>азаматтық қорғаныстың объектілік командасына</td>
 <td>дана</td>
@@ -1438,7 +1480,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>52</td>
+<td>149</td>
 <td>Темір тырма</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1447,7 +1489,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>53</td>
+<td>150</td>
 <td>Темір айыр</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1456,10 +1498,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">7. Автокөліктік бөлімше</td>
+<td colspan="7">7-бөлім. Автокөлік бөлімшесі</td>
 </tr>
 <tr>
-<td>1</td>
+<td>151</td>
 <td>Газбен дәнекерлеуші аппарат</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1468,7 +1510,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>152</td>
 <td>Токарь станогы</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1477,7 +1519,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>153</td>
 <td>Фрезер станогы</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1486,52 +1528,52 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>154</td>
 <td>Дөңгелекті монтаждау станогы</td>
-<td>50 бірлік автокөлікке</td>
+<td>50 бірлік автокөлікке дейін</td>
 <td>жинақ</td>
 <td>1</td>
 <td>4</td>
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>155</td>
 <td>Диск түзеткіш стенді</td>
-<td>50 бірлік автокөлікке</td>
+<td>50 бірлік автокөлікке дейін</td>
 <td>жинақ</td>
 <td>1</td>
 <td>4</td>
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>156</td>
 <td>Теңгерімдеу станогы</td>
-<td>50 бірлік автокөлікке</td>
+<td>50 бірлік автокөлікке дейін</td>
 <td>жинақ</td>
 <td>1</td>
 <td>4</td>
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>157</td>
 <td>Вулканизатор</td>
-<td>50 бірлік автокөлікке</td>
+<td>50 бірлік автокөлікке дейін</td>
 <td>жинақ</td>
 <td>1</td>
 <td>4</td>
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>158</td>
 <td>3 тонналы және одан жоғары автокөлік көтергіш (автоматты)</td>
-<td>50 бірлік автокөлікке</td>
+<td>50 бірлік автокөлікке дейін</td>
 <td>дана</td>
 <td>1</td>
 <td>5</td>
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>159</td>
 <td>Автокөлікті жууға арналған аппарат (трансбой)</td>
 <td>жуу орнына</td>
 <td>жинақ</td>
@@ -1540,25 +1582,25 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>160</td>
 <td>Гидравликалық пресс</td>
-<td>50 бірлік автокөлікке</td>
+<td>50 бірлік автокөлікке дейін</td>
 <td>дана</td>
 <td>1</td>
 <td>5</td>
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>161</td>
 <td>3 тонналы және одан жоғары сүйретпелі домкрат</td>
-<td>50 бірлік автокөлікке</td>
+<td>50 бірлік автокөлікке дейін</td>
 <td>дана</td>
 <td>1</td>
 <td>4</td>
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>162</td>
 <td>Слесарлы верстак (металды үстел)</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1567,7 +1609,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>163</td>
 <td>Тасымалды дәнекерлеуші трансформатор</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1576,7 +1618,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>14</td>
+<td>164</td>
 <td>Аккумуляторлы батареяны зарядтау құрылғысы</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1585,7 +1627,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>15</td>
+<td>165</td>
 <td>Аккумуляторшының жинағы</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1594,7 +1636,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>16</td>
+<td>166</td>
 <td>Қозғалтқыш және көпірді шешуге арналған таль</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1603,7 +1645,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>17</td>
+<td>167</td>
 <td>Автомобильдерге арналған шансты құралдар жиынтығы</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1612,7 +1654,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>18</td>
+<td>168</td>
 <td>Компрессорлар</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1621,7 +1663,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>19</td>
+<td>169</td>
 <td>Біркелкілік бұзылуын реттеуге арналған компьютер</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1630,7 +1672,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>20</td>
+<td>170</td>
 <td>Автокөліктің электронды жүйесіне диагностика жасайтын компьютерлік стенд</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1639,7 +1681,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>21</td>
+<td>171</td>
 <td>Желдеткіші бар химиялық шкаф</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1648,7 +1690,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>22</td>
+<td>172</td>
 <td>Құрал-саймандарға арналған металды шкаф</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1657,7 +1699,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>23</td>
+<td>173</td>
 <td>Электр құралдарын тексеретін станок</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1666,19 +1708,19 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>24</td>
+<td>174</td>
 <td>Еден жуатын машина</td>
-<td>50 бірлік автокөлік сиятын боксқа (гаражға)</td>
+<td>50 бірлік автокөлікке дейін сиятын боксқа (гаражға)</td>
 <td>дана</td>
 <td>1</td>
 <td>4</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">8. Кадр бөлімшесі</td>
+<td colspan="7">8-бөлім. Кадр бөлімшесі</td>
 </tr>
 <tr>
-<td>1</td>
+<td>175</td>
 <td>Фотоаппарат</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1687,7 +1729,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>176</td>
 <td>Фотобейнештатив</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1696,7 +1738,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>177</td>
 <td>Бейнекамера</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1705,7 +1747,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>178</td>
 <td>Диктофон</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1714,7 +1756,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>179</td>
 <td>Металды шкаф</td>
 <td>50 жеке іске</td>
 <td>дана</td>
@@ -1723,10 +1765,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">9. Құпия және құпия емес іс жүргізу, мұрағат, қойма және мемлекеттік құпияны қорғау бөлімшесі</td>
+<td colspan="7">9-бөлім. Құпия және құпия емес іс жүргізу, архив, қойма және мемлекеттік құпияларды қорғау бөлімшесі</td>
 </tr>
 <tr>
-<td>1</td>
+<td>180</td>
 <td>Ауа баптағыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -1735,7 +1777,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>ауа баптау жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>2</td>
+<td>181</td>
 <td>Үстел шамы</td>
 <td>жұмыс орнына</td>
 <td>дана</td>
@@ -1744,7 +1786,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>182</td>
 <td>Қабырға сағаты</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -1753,7 +1795,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>183</td>
 <td>Қағаз жойғыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -1762,7 +1804,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>184</td>
 <td>Металл шкаф</td>
 <td>30 номенклатуралық іске</td>
 <td>дана</td>
@@ -1771,7 +1813,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>185</td>
 <td>Сейф</td>
 <td>жұмыс орнына</td>
 <td>дана</td>
@@ -1780,7 +1822,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>186</td>
 <td>Жылытқыш</td>
 <td>жұмыс бөлмеге</td>
 <td>дана</td>
@@ -1789,7 +1831,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>жылыту жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>8</td>
+<td>187</td>
 <td>Кедергі қалқа</td>
 <td>үй-жайға</td>
 <td>дана</td>
@@ -1798,7 +1840,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>188</td>
 <td>Сөре</td>
 <td>үй-жайға</td>
 <td>дана</td>
@@ -1807,10 +1849,28 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">10. Бұқаралық ақпарат құралдарымен және жұртшылықпен жұмысқа жауапты бөлімше</td>
+<td>189</td>
+<td>Номенклатуралық істі тігуге арналған станок</td>
+<td>үй-жайға</td>
+<td>дана</td>
+<td>2</td>
+<td>10</td>
+<td></td>
 </tr>
 <tr>
-<td>1</td>
+<td>190</td>
+<td>Мөр басатын құрылғысы бар портфель</td>
+<td>бөлімшеге</td>
+<td>дана</td>
+<td>4</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="7">10-бөлім. Бұқаралық ақпарат құралдарымен және жұртшылықпен жұмысқа жауапты бөлімше</td>
+</tr>
+<tr>
+<td>191</td>
 <td>Камера үсті жарығы бар бейнекамера</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1819,7 +1879,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>192</td>
 <td>Бейнекамераға арналған қаптама</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1828,7 +1888,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>193</td>
 <td>Қаптамасы бар штатив</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1837,7 +1897,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>194</td>
 <td>Жарқылдайтын айналы фотоаппарат</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1846,7 +1906,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>195</td>
 <td>Жарқылдайтын оптикалық фотоаппарат</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1855,7 +1915,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>196</td>
 <td>Теледидар</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1864,7 +1924,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>197</td>
 <td>Ауа баптағыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -1873,7 +1933,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>ауа баптау жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>8</td>
+<td>198</td>
 <td>Үстел шамы</td>
 <td>жұмыс орнына</td>
 <td>дана</td>
@@ -1882,7 +1942,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>199</td>
 <td>Жылытқыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -1891,16 +1951,16 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>жылыту жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>10</td>
+<td>200</td>
 <td>Қабырға сағаты</td>
 <td>кабинетке</td>
-<td></td>
+<td>дана</td>
 <td>1</td>
 <td>5</td>
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>201</td>
 <td>Жарық беру құралы</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1909,16 +1969,16 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>202</td>
 <td>Сейф</td>
 <td>бөлімшеге</td>
-<td></td>
+<td>дана</td>
 <td>3</td>
 <td>10</td>
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>203</td>
 <td>Экраны бар проектор</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1927,7 +1987,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>14</td>
+<td>204</td>
 <td>Диктофон</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1936,7 +1996,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>15</td>
+<td>205</td>
 <td>Суға арналған диспенсер</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -1945,7 +2005,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>16</td>
+<td>206</td>
 <td>DVD-ойнатқыш</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1954,7 +2014,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>17</td>
+<td>207</td>
 <td>Қағаз жойғыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -1963,7 +2023,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>18</td>
+<td>208</td>
 <td>Бейнемагнитофон</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -1972,7 +2032,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>19</td>
+<td>209</td>
 <td>HDV/DVCAM/DV форматымен үйлесетін экраны мен ажырағышы бар ықшамды рекордер</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1981,7 +2041,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>20</td>
+<td>210</td>
 <td>Микрофон</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
@@ -1990,8 +2050,8 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>21</td>
-<td>Тасымалды микрофон («петличка»)</td>
+<td>211</td>
+<td>Тасымалды микрофон (&quot;петличка&quot;)</td>
 <td>бөлімшеге</td>
 <td>жинақ</td>
 <td>3</td>
@@ -1999,7 +2059,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>22</td>
+<td>212</td>
 <td>Микшерлі пульт</td>
 <td>бөлімшеге</td>
 <td>дана</td>
@@ -2008,10 +2068,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">11. Полиграфологиялық зерттеулер жүргізуге арналған кабинет</td>
+<td colspan="7">11-бөлім. Полиграфологиялық зерттеулер жүргізуге арналған кабинет</td>
 </tr>
 <tr>
-<td>1</td>
+<td>213</td>
 <td>Полиграф-аппараты</td>
 <td>кабинетке</td>
 <td>жинақ</td>
@@ -2020,7 +2080,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>214</td>
 <td>Суға арналған диспенсер</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2029,10 +2089,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">12. Қазақ тілі кабинеті</td>
+<td colspan="7">12-бөлім. Қазақ тілі кабинеті</td>
 </tr>
 <tr>
-<td>1</td>
+<td>215</td>
 <td>Музыкалық орталық</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2041,7 +2101,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>216</td>
 <td>Теледидар</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2050,7 +2110,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>217</td>
 <td>DVD-ойнатқыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2059,7 +2119,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>218</td>
 <td>Ауа баптағыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2068,7 +2128,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>ауа баптау жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>5</td>
+<td>219</td>
 <td>Маркерлі тақта</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2077,7 +2137,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>220</td>
 <td>Сейф</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2086,7 +2146,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>221</td>
 <td>Суға арналған диспенсер</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2095,7 +2155,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>222</td>
 <td>Проектор, экран</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2104,7 +2164,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>223</td>
 <td>Қабырға сағаты</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2113,7 +2173,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>224</td>
 <td>Қазақстан Республикасының картасы</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2122,10 +2182,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">13. Аттестаттық тестілеу кабинеті</td>
+<td colspan="7">13-бөлім. Аттестаттық тестілеу кабинеті</td>
 </tr>
 <tr>
-<td>1</td>
+<td>225</td>
 <td>Ауа баптағыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2134,7 +2194,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>ауа баптау жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>2</td>
+<td>226</td>
 <td>Интерактивті тақта</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2143,7 +2203,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>227</td>
 <td>Қабырға сағаты</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2152,7 +2212,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>228</td>
 <td>Қағаз жойғыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2161,7 +2221,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>229</td>
 <td>Суға арналған диспенсер</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2170,7 +2230,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>230</td>
 <td>Сейф</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2179,8 +2239,8 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
-<td>Бейнеконференц-байланысқа арналған микрофон</td>
+<td>231</td>
+<td>Бейнеконференцбайланысқа арналған микрофон</td>
 <td>кабинетке</td>
 <td>дана</td>
 <td>1</td>
@@ -2188,7 +2248,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>232</td>
 <td>Бейнекамера</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2197,8 +2257,8 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
-<td>Тиісті рұқсаты және бейнеконференц-байланысқа арналған слоттары бар монитор</td>
+<td>233</td>
+<td>Тиісті рұқсаты және бейнеконференцбайланысқа арналған слоттары бар монитор</td>
 <td>кабинетке</td>
 <td>дана</td>
 <td>1</td>
@@ -2206,7 +2266,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>234</td>
 <td>DVD-ойнатқыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2215,7 +2275,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>235</td>
 <td>Колонкалар</td>
 <td>кабинетке</td>
 <td>жинақ</td>
@@ -2224,19 +2284,22 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>236</td>
 <td>Төралқаға арналған микрофон</td>
 <td>әр орынға</td>
-<td></td>
+<td>дана</td>
 <td></td>
 <td>5</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">14. Қазақстан Республикасы Ұлттық қауіпсіздік комитетінің психофизиологиялық зерттеу кабинеті</td>
+<td colspan="7">
+14-бөлім. Қазақстан Республикасы Ұлттық қауіпсіздік комитетінің психофизиологиялық
+зерттеулер кабинеті
+</td>
 </tr>
 <tr>
-<td>1</td>
+<td>237</td>
 <td>Биоэлектрлі компьютерлік кешен</td>
 <td>кабинетке</td>
 <td>жинақ</td>
@@ -2245,7 +2308,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>238</td>
 <td>Антистресті психофизиологиялық аудио-көзбен шолу-вибротактильді музыкалық жүйе</td>
 <td>кабинетке</td>
 <td>жинақ</td>
@@ -2254,7 +2317,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>239</td>
 <td>Теледидар</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2263,7 +2326,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>240</td>
 <td>Бейнекамера</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2272,7 +2335,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>241</td>
 <td>Сейф</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2281,7 +2344,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>242</td>
 <td>Ауа баптағыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2290,7 +2353,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>ауа баптау жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>7</td>
+<td>243</td>
 <td>Релаксациялық көзілдірік</td>
 <td>кабинетке</td>
 <td>жинақ</td>
@@ -2299,7 +2362,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>244</td>
 <td>DVD-ойнатқыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2308,7 +2371,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>245</td>
 <td>Проектор, экран</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2317,7 +2380,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>246</td>
 <td>Флипчарт (тақта)</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2326,7 +2389,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>247</td>
 <td>Релаксациялық және ынталандырушы аппараттар кешені</td>
 <td>кабинетке</td>
 <td>жинақ</td>
@@ -2335,10 +2398,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">15. Қару-жарақ сақтайтын бөлме</td>
+<td colspan="7">15-бөлім. Қару-жарақ сақтайтын бөлме</td>
 </tr>
 <tr>
-<td>1</td>
+<td>248</td>
 <td>Қару-жарақ сақтауға арналған пирамида</td>
 <td>10 бірлік қару-жараққа</td>
 <td>дана</td>
@@ -2347,7 +2410,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>249</td>
 <td>Арнайы саймандарға арналған шкаф</td>
 <td>үй-жайға</td>
 <td>дана</td>
@@ -2356,7 +2419,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>250</td>
 <td>Сөрелер</td>
 <td>үй-жайға</td>
 <td>дана</td>
@@ -2365,7 +2428,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>251</td>
 <td>Қару-жарақ тазалауға арналған үстел</td>
 <td>үй-жайға</td>
 <td>дана</td>
@@ -2374,7 +2437,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>252</td>
 <td>Ақпараттық стенд</td>
 <td>үй-жайға</td>
 <td>дана</td>
@@ -2383,10 +2446,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">16. Кезекші қызмет</td>
+<td colspan="7">16-бөлім. Кезекші қызмет</td>
 </tr>
 <tr>
-<td>1</td>
+<td>253</td>
 <td>Ауа баптағыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2395,16 +2458,16 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>ауа баптау жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>2</td>
+<td>254</td>
 <td>Үстел шамы</td>
-<td>жұмыс орнына</td>
+<td>әр жұмыс орнына</td>
 <td>дана</td>
 <td>1</td>
 <td>3</td>
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>255</td>
 <td>Жылытқыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2413,7 +2476,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>жылыту жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>4</td>
+<td>256</td>
 <td>Қабырға сағаты</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2422,7 +2485,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>257</td>
 <td>Тоңазытқыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2431,7 +2494,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>258</td>
 <td>Сейф</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2440,7 +2503,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>259</td>
 <td>Суға арналған диспенсер</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2449,7 +2512,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>260</td>
 <td>Қағаз жойғыш</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2458,7 +2521,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>261</td>
 <td>Қазақстан Республикасының картасы</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2467,7 +2530,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>262</td>
 <td>Электр шәйнек</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2476,7 +2539,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>263</td>
 <td>Сигнал пакеттерін сақтауға арналған сейф (екі ұяшықты)</td>
 <td>кабинетке</td>
 <td>дана</td>
@@ -2485,7 +2548,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>264</td>
 <td>Перделер және/ немесе жалюзи</td>
 <td>әр терезе орнына</td>
 <td>жинақ</td>
@@ -2494,8 +2557,8 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>13</td>
-<td>Жинамалы төсек</td>
+<td>265</td>
+<td>Керует (жинамалы төсек)</td>
 <td>2 қызметкерге</td>
 <td>дана</td>
 <td>1</td>
@@ -2503,7 +2566,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>14</td>
+<td>266</td>
 <td>Қысқатолқынды пеш</td>
 <td>үй-жайға</td>
 <td>дана</td>
@@ -2512,10 +2575,19 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">17. Жүргізушілерге арналған үй-жай</td>
+<td>267</td>
+<td>Үтік, үтіктеу тақтасы</td>
+<td>үй-жайға</td>
+<td>дана</td>
+<td>1</td>
+<td>5</td>
+<td></td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="7">17-бөлім. Жүргізушілерге арналған үй-жай</td>
+</tr>
+<tr>
+<td>268</td>
 <td>Ауа баптағыш</td>
 <td>үй-жайға</td>
 <td>дана</td>
@@ -2524,7 +2596,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>ауа баптау жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>2</td>
+<td>269</td>
 <td>Қабырға сағаты</td>
 <td>үй-жайға</td>
 <td>дана</td>
@@ -2533,7 +2605,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>270</td>
 <td>Электр шәйнек</td>
 <td>үй-жайға</td>
 <td>дана</td>
@@ -2542,7 +2614,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>271</td>
 <td>Перде және/ немесе жалюзи</td>
 <td>әр терезе орнына</td>
 <td>жинақ</td>
@@ -2551,7 +2623,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>272</td>
 <td>Тоңазытқыш</td>
 <td>үй-жайға</td>
 <td>дана</td>
@@ -2560,7 +2632,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>273</td>
 <td>Қысқа толқынды пеш</td>
 <td>үй-жайға</td>
 <td>дана</td>
@@ -2569,10 +2641,10 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">18. Конференц-зал, мәжіліс залы</td>
+<td colspan="7">18-бөлім. Конференц-зал, мәжіліс залы</td>
 </tr>
 <tr>
-<td>1</td>
+<td>274</td>
 <td>Интерактивті тақта</td>
 <td>үй-жайға</td>
 <td>дана</td>
@@ -2581,7 +2653,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>275</td>
 <td>Теледидар</td>
 <td>үй-жайға</td>
 <td>дана</td>
@@ -2590,7 +2662,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>276</td>
 <td>Мінбе, төралқа үстелі</td>
 <td>үй-жайға</td>
 <td>жинақ</td>
@@ -2599,7 +2671,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>277</td>
 <td>Музыкалық орталық</td>
 <td>үй-жайға</td>
 <td>дана</td>
@@ -2608,7 +2680,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>278</td>
 <td>Ауа баптағыш</td>
 <td>үй-жайға</td>
 <td>дана</td>
@@ -2617,7 +2689,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>ауа баптау жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>6</td>
+<td>279</td>
 <td>Портьерлі перде</td>
 <td>әр терезе орнына</td>
 <td>жинақ</td>
@@ -2626,7 +2698,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>280</td>
 <td>Экраны бар проектор</td>
 <td>үй-жайға</td>
 <td>дана</td>
@@ -2635,8 +2707,8 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
-<td>Бейне конференц-байланысқа арналған микрофон</td>
+<td>281</td>
+<td>Бейнеконференцбайланысқа арналған микрофон</td>
 <td>кабинетке</td>
 <td>дана</td>
 <td>1</td>
@@ -2644,7 +2716,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>282</td>
 <td>Төралқаға арналған микрофон</td>
 <td>әр отыратын орынға</td>
 <td>дана</td>
@@ -2653,10 +2725,19 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td colspan="7">19. Ғимараттар және құрылыстар</td>
+<td>283</td>
+<td>Театр креслосы***</td>
+<td>әр отыратын орынға</td>
+<td>дана</td>
+<td>1</td>
+<td>7</td>
+<td></td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="7">19-бөлім. Ғимараттар және құрылыстар</td>
+</tr>
+<tr>
+<td>284</td>
 <td>Жылытқыш жабдықтар (аспалы жылытқыштар, калорифер)</td>
 <td>ғимараттар мен құрылыстар кешенінің әрбір кіреберісіне (бекет)</td>
 <td>дана</td>
@@ -2665,7 +2746,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>285</td>
 <td>Дизель-генератор қондырғысы (электр қуат көзі)</td>
 <td>ғимараттар мен құрылыстардың әрбір кешеніне</td>
 <td>жинақ</td>
@@ -2674,7 +2755,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>286</td>
 <td>Дизельді генератор үшін аккумулятор (резервті)</td>
 <td>ғимараттар мен құрылыстардың әрбір кешеніне</td>
 <td>дана</td>
@@ -2683,7 +2764,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>287</td>
 <td>Жылжымалы генераторлар (электр қуат көзі)</td>
 <td>ғимараттар мен құрылыстардың әрбір кешеніне</td>
 <td>дана</td>
@@ -2692,7 +2773,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>288</td>
 <td>Монтажды жоғарыға шығу белдігі</td>
 <td>ғимараттардың әрбір кешеніне</td>
 <td>дана</td>
@@ -2701,9 +2782,9 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">6</td>
+<td rowspan="2">289</td>
 <td rowspan="2">Саты-баспалдақ</td>
-<td>азаматтық қорғаныс объектілік командасына</td>
+<td>азаматтық қорғаныстың объектілік командасына</td>
 <td>дана</td>
 <td>1</td>
 <td>5</td>
@@ -2717,7 +2798,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>290</td>
 <td>Шөп орғыш</td>
 <td>ғимараттар кешеніне</td>
 <td>дана</td>
@@ -2726,7 +2807,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>291</td>
 <td>Қысқыш</td>
 <td>әрбір шеберханаға</td>
 <td>дана</td>
@@ -2735,7 +2816,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>292</td>
 <td>Бұрауыштар</td>
 <td>шеберхананы жабдықтауға</td>
 <td>жинақ</td>
@@ -2744,7 +2825,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>293</td>
 <td>Штангенциркуль</td>
 <td>әрбір шеберханаға</td>
 <td>дана</td>
@@ -2753,7 +2834,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>294</td>
 <td>Дәнекерлейтін лампа</td>
 <td>әрбір шеберханаға</td>
 <td>дана</td>
@@ -2762,7 +2843,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>295</td>
 <td>Сүймен</td>
 <td>әрбір ғимаратқа</td>
 <td>дана</td>
@@ -2771,12 +2852,9 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">13</td>
+<td rowspan="2">296</td>
 <td rowspan="2">Арба</td>
-<td>
-азаматтық қорғаныс объектілік
-командасына
-</td>
+<td>азаматтық қорғаныстың объектілік командасына</td>
 <td>дана</td>
 <td>4</td>
 <td>5</td>
@@ -2790,7 +2868,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>14</td>
+<td>297</td>
 <td>Балта</td>
 <td>әрбір ғимаратқа</td>
 <td>дана</td>
@@ -2799,9 +2877,9 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">15</td>
+<td rowspan="2">298</td>
 <td rowspan="2">Екі қолды ара</td>
-<td>азаматтық қорғаныс объектілік командасына</td>
+<td>азаматтық қорғаныстың объектілік командасына</td>
 <td>дана</td>
 <td>4</td>
 <td>5</td>
@@ -2815,9 +2893,9 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">16</td>
+<td rowspan="2">299</td>
 <td rowspan="2">Үш бұрышты егеу</td>
-<td>азаматтық қорғаныс объектілік командасына</td>
+<td>азаматтық қорғаныстың объектілік командасына</td>
 <td>дана</td>
 <td>4</td>
 <td>5</td>
@@ -2831,7 +2909,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>17</td>
+<td>300</td>
 <td>Қайла кетпен</td>
 <td>әрбір ғимаратқа</td>
 <td>дана</td>
@@ -2840,12 +2918,9 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">18</td>
+<td rowspan="2">301</td>
 <td rowspan="2">Сым қиятын қайшы</td>
-<td>
-азаматтық қорғаныс объектілік
-командасына
-</td>
+<td>азаматтық қорғаныстың объектілік командасына</td>
 <td>дана</td>
 <td>4</td>
 <td>3</td>
@@ -2859,7 +2934,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>19</td>
+<td>302</td>
 <td>Шаңсорғыш</td>
 <td>400 м2-ге</td>
 <td>дана</td>
@@ -2872,8 +2947,8 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 </td>
 </tr>
 <tr>
-<td>20</td>
-<td>Ұялы телефондарды және электронды ақпарат тасымалдағыштарды сақтауда арналған металды шкаф</td>
+<td>303</td>
+<td>Ұялы телефондарды және электронды ақпарат тасымалдағыштарды сақтауға арналған металды шкаф</td>
 <td>ұяшықтар саны қызметкерлердің штаттық санына байланысты</td>
 <td>дана</td>
 <td>1</td>
@@ -2881,7 +2956,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>21</td>
+<td>304</td>
 <td>Технологиялық ауа баптағыш</td>
 <td>технологиялық орынжайға</td>
 <td>дана</td>
@@ -2890,8 +2965,8 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td>ауа баптау жүйесі болмаған жағдайда</td>
 </tr>
 <tr>
-<td>22</td>
-<td>Электромуфельді пеш (құжат өртеуге)</td>
+<td>305</td>
+<td>Электромуфельді пеш (құжат өртеуге арналған)</td>
 <td>әрбір ғимаратқа</td>
 <td>дана</td>
 <td>1</td>
@@ -2899,7 +2974,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>23</td>
+<td>306</td>
 <td>Мотопомпа</td>
 <td>әрбір ғимаратқа</td>
 <td>дана</td>
@@ -2908,7 +2983,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>24</td>
+<td>307</td>
 <td>Бензинді ара</td>
 <td>ғимараттардың әрбір кешеніне</td>
 <td>дана</td>
@@ -2917,7 +2992,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>25</td>
+<td>308</td>
 <td>Мөр басу құрылғысы</td>
 <td>әрбір кіру есігіне, сейфке</td>
 <td>дана</td>
@@ -2926,7 +3001,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>26</td>
+<td>309</td>
 <td>Қоқыс салғыш</td>
 <td>жұмыс орнына</td>
 <td>дана</td>
@@ -2935,7 +3010,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>27</td>
+<td>310</td>
 <td>ЖЖМ сақтауға арналған ыдыс</td>
 <td>әрбір ғимаратқа</td>
 <td>дана</td>
@@ -2944,7 +3019,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>28</td>
+<td>311</td>
 <td>Арқан</td>
 <td>азаматтық қорғаныстың объектілік командасына</td>
 <td>дана</td>
@@ -2953,7 +3028,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>29</td>
+<td>312</td>
 <td>Шығыр</td>
 <td>азаматтық қорғаныстың объектілік командасына</td>
 <td>дана</td>
@@ -2962,29 +3037,16 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td rowspan="3">30</td>
-<td rowspan="3">
-Жылыту су ысыту қазандығы
-(қатты-отынды,
-сұйық-отынды,
-газды-мазутты және
-электрлі)
-</td>
-<td>
-орталық жылыту жүйесіне қосылмаған шекара заставасы
-әскери қалашығының ғимараттары мен құрылыстарының әрбір кешеніне
-(шекаралық бақылау бекетіне, бөлімшелеріне)
-</td>
+<td rowspan="3">313</td>
+<td rowspan="3">Жылыту су ысыту қазандығы (қатты-отынды, сұйық-отынды, газды-мазутты және электрлі)</td>
+<td>орталық жылыту жүйесіне қосылмаған шекара заставасы әскери қалашығының ғимараттары мен құрылыстарының әрбір кешеніне (шекаралық бақылау бекетіне, бөлімшелеріне)</td>
 <td>дана</td>
 <td>2</td>
 <td>10</td>
 <td></td>
 </tr>
 <tr>
-<td>
-орталық жылыту жүйесіне қосылмаған шекара комендатурасы әскери қалашығының ғимараттары мен құрылыстарының әрбір кешеніне
-(шекаралық бақылау бөліміне)
-</td>
+<td>орталық жылыту жүйесіне қосылмаған шекара комендатурасы әскери қалашығының ғимараттары мен құрылыстарының әрбір кешеніне (шекаралық бақылау бөліміне)</td>
 <td>дана</td>
 <td>3</td>
 <td>10</td>
@@ -2998,11 +3060,8 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>31</td>
-<td>
-Мазутты жылыту
-үшін буқұрушы қазандық
-</td>
+<td>314</td>
+<td>Мазутты жылыту үшін буқұрушы қазандық</td>
 <td>мазут сақтау орнының әрбір кешеніне</td>
 <td>дана</td>
 <td>3</td>
@@ -3010,110 +3069,89 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>32</td>
-<td>
-Су тазалау
-(қондырғы) кешені
-</td>
-<td>орталық сумен қамтамасыз ету жүйесіне қосылмаған ғимараттары мен құрылыстарының әрбір кешеніне</td>
-<td>топтама</td>
-<td>1</td>
-<td>10</td>
-<td>
-Су сынамаларын зертханалық
-зерттеу нәтижелері бойынша
-</td>
-</tr>
-<tr>
-<td>33</td>
-<td>
-Тұшытқыш
-қондырғы
-</td>
-<td>орталық сумен қамтамасыз ету жүйесіне қосылмаған және белгіленген нормадан жоғары тұздың концентрациялық деңгейі бар ғимараттары мен құрылыстарының әрбір кешеніне</td>
+<td>315</td>
+<td>Су тазалау (қондырғы) кешені</td>
+<td>орталық сумен қамтамасыз ету жүйесіне қосылмаған ғимараттар мен құрылыстардың әрбір кешеніне</td>
 <td>топтама</td>
 <td>1</td>
 <td>10</td>
 <td>Су сынамаларын зертханалық зерттеу нәтижелері бойынша</td>
 </tr>
 <tr>
-<td>34</td>
-<td>
-Ағынды суды
-тазалау кешені
-</td>
-<td>орталық су бұру жүйесіне қосылмаған ғимараттары мен құрылыстарының әрбір кешеніне</td>
+<td>316</td>
+<td>Тұшытқыш қондырғы</td>
+<td>орталық сумен қамтамасыз ету жүйесіне қосылмаған және белгіленген нормадан жоғары тұздың концентрациялық деңгейі бар ғимараттар мен құрылыстардың әрбір кешеніне</td>
+<td>топтама</td>
+<td>1</td>
+<td>10</td>
+<td>Су сынамаларын зертханалық зерттеу нәтижелері бойынша</td>
+</tr>
+<tr>
+<td>317</td>
+<td>Ағынды суды тазалау кешені</td>
+<td>орталық су бұру жүйесіне қосылмаған ғимараттар мен құрылыстардың әрбір кешеніне</td>
 <td>топтама</td>
 <td>1</td>
 <td>10</td>
 <td></td>
 </tr>
 <tr>
-<td>35</td>
+<td>318</td>
 <td>Трансформаторлық қосалқы станция</td>
-<td>өндірістік электр энергиясымен қамтамасыз ету жүйесіне қосылған ғимараттары мен құрылыстарының әрбір кешеніне</td>
+<td>өндірістік электр энергиясымен қамтамасыз ету жүйесіне қосылған ғимараттар мен құрылыстардың әрбір кешеніне</td>
 <td>топтама</td>
 <td>1</td>
 <td>10</td>
 <td></td>
 </tr>
 <tr>
-<td>36</td>
-<td>
-Электр қуатын
-есептеу құралы
-</td>
-<td>орталық электрмен жабдықтау жүйесіне қосылған ғимараттары мен құрылыстарының әрбір кешеніне</td>
+<td>319</td>
+<td>Электр қуатын есептеу құралы</td>
+<td>орталық электрмен жабдықтау жүйесіне қосылған ғимараттар мен құрылыстардың әрбір кешеніне</td>
 <td>топтама</td>
 <td>1</td>
 <td>7</td>
 <td></td>
 </tr>
 <tr>
-<td>37</td>
+<td>320</td>
 <td>Ыстық суды есептеу құралы</td>
-<td>орталық ыстық сумен жабдықтау жүйесіне қосылған ғимараттары мен құрылыстарының әрбір кешеніне</td>
+<td>орталық ыстық сумен жабдықтау жүйесіне қосылған ғимараттар мен құрылыстардың әрбір кешеніне</td>
 <td>топтама</td>
 <td>1</td>
 <td>5</td>
 <td></td>
 </tr>
 <tr>
-<td>38</td>
-<td>
-Суық су есептеу
-құралы
-</td>
-<td>орталық салқын сумен жабдықтау жүйесіне қосылған ғимараттары мен құрылыстарының әрбір кешеніне</td>
+<td>321</td>
+<td>Суық су есептеу құралы</td>
+<td>орталық салқын сумен жабдықтау жүйесіне қосылған ғимараттар мен құрылыстардың әрбір кешеніне</td>
 <td>топтама</td>
 <td>1</td>
 <td>8</td>
 <td></td>
 </tr>
 <tr>
-<td>39</td>
+<td>322</td>
 <td>Газды есептеу құралы</td>
-<td>орталық газбен жабдықтау жүйесіне қосылған ғимараттары мен құрылыстарының әрбір кешеніне</td>
+<td>орталық газбен жабдықтау жүйесіне қосылған ғимараттар мен құрылыстардың әрбір кешеніне</td>
 <td>топтама</td>
 <td>1</td>
 <td>15</td>
 <td></td>
 </tr>
 <tr>
-<td>40</td>
+<td>323</td>
 <td>Жылу есептеу құралы</td>
-<td>орталық жылумен жабдықтау жүйесіне қосылған ғимараттары мен құрылыстарының әрбір кешеніне</td>
+<td>орталық жылумен жабдықтау жүйесіне қосылған ғимараттар мен құрылыстардың әрбір кешеніне</td>
 <td>топтама</td>
 <td>1</td>
 <td>5</td>
 <td></td>
 </tr>
 <tr>
-<td>41</td>
-<td>
-Сұйық отын үшін
-қайта құю (қондырғы) кешені (мазутты насос станциясы)
-</td>
+<td>324</td>
+<td>Сұйық отын үшін қайта құю (қондырғы) кешені (мазутты насос станциясы)</td>
 <td>сұйық отынды әрбір қазанға</td>
 <td>топтама</td>
 <td>1</td>
@@ -3121,7 +3159,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>42</td>
+<td>325</td>
 <td>Қаспаққа қарсы ультродыбыстық (химиялық) қондырғы</td>
 <td>әрбір қазанға</td>
 <td>дана</td>
@@ -3130,7 +3168,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>43</td>
+<td>326</td>
 <td>Түтін тартқыш</td>
 <td>әрбір қазанға</td>
 <td>дана</td>
@@ -3139,7 +3177,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>44</td>
+<td>327</td>
 <td>Хлормен ауыз суды зарарсыздандыруға арналған қондырғы</td>
 <td>әрбір насостық станцияға</td>
 <td>топтама</td>
@@ -3148,8 +3186,8 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>45</td>
-<td>Ультрофиолетті сәулемен ауыз суды зарарсыздандыру арналған қондырғы</td>
+<td>328</td>
+<td>Ультрофиолетті сәулемен ауыз суды зарарсыздандыруға арналған қондырғы</td>
 <td>әрбір насостық станцияға</td>
 <td>топтама</td>
 <td>3</td>
@@ -3157,7 +3195,7 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>46</td>
+<td>329</td>
 <td>Бетонды араластырғыш</td>
 <td>әскери бөлімге</td>
 <td>дана</td>
@@ -3166,24 +3204,80 @@ source: https://zan.gov.kz/client/#!/doc/92817/kaz/23.11.2017
 <td></td>
 </tr>
 <tr>
-<td>47</td>
-<td>
-Поливинилхлорид құбырының әртүрлі саптамасына
-арналған электрлі дәнекерлеуіш
-</td>
-<td>
-әскери бөлімге
-(комендатураға)
-</td>
+<td>330</td>
+<td>Поливинилхлорид құбырының әртүрлі саптамасына арналған электрлі дәнекерлеуіш</td>
+<td>әскери бөлімге (комендатураға)</td>
 <td>дана</td>
 <td>1</td>
 <td>7</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="7">20-бөлім. Ахуалдық орталық үй-жайы</td>
+</tr>
+<tr>
+<td>331</td>
+<td>Әлемдік географиялық карта</td>
+<td>үй-жайға</td>
+<td>дана</td>
+<td>2</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>332</td>
+<td>ҚР картасы</td>
+<td>үй-жайға</td>
+<td>дана</td>
+<td>2</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>333</td>
+<td>Суға арналған диспенсер</td>
+<td>үй-жайға</td>
+<td>дана</td>
+<td>1</td>
+<td>4</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="7">21-бөлім. Қарауыл үй-жайы»</td>
+</tr>
+<tr>
+<td>334</td>
+<td>Ақпараттық стенд</td>
+<td>бөлмеге</td>
+<td>дана</td>
+<td>1</td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>335</td>
+<td>Аккумуляторлы қол шам</td>
+<td>әр таратушыға, қарауыл бастығы мен қарауыл бастығының көмекшісіне</td>
+<td>дана</td>
+<td>1</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>336</td>
+<td>Термометр</td>
+<td>бөлмеге</td>
+<td>дана</td>
+<td>2</td>
+<td>3</td>
 <td></td>
 </tr>
 </table>
 
 Ескертпе:
 
-* – нормалар Ұлттық қауіпсіздік комитетінің Шекара қызметін коспағанда, аумақтық органдардың, қызметтердің, ведомстволардың, ведомстволық бағыныстағы мемлекеттік мекемелердің, департаменттердің бастығына (оның орынбасарына) қолданылады;
+* нормалар Ұлттық қауіпсіздік комитетінің Шекара қызметін коспағанда, аумақтық органдардың, қызметтердің, ведомстволардың, ведомстволық бағыныстағы мемлекеттік мекемелердің, департаменттердің бастығына (оның орынбасарына) қолданылады;
 
-** – нормалар басқарма бастығына (оның орынбасарына), дербес бөлім бастығына қолданылады.
+** басқарма бастығы (бастықтың орынбасары), дербес бөлім бастығы;
+
+*** театр креслосының орнына жартылай жұмсақ орындықтарды сатып алуға рұқсат етіледі.
