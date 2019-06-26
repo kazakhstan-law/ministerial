@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/113886/rus/26.06.2017
+source: https://zan.gov.kz/client/#!/doc/113886/rus/26.06.2019
 ---
 
 # Об утверждении Правил организации тушения пожаров
