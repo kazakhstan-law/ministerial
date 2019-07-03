@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/33891/rus/01.01.2019
+source: https://zan.gov.kz/client/#!/doc/33891/rus/03.07.2019
 ---
 
 # Об утверждении Типового плана счетов бухгалтерского учета
