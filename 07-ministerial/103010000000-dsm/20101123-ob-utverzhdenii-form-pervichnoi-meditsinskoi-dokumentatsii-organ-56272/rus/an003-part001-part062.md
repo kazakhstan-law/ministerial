@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56272/rus/29.12.2018
+source: https://zan.gov.kz/client/#!/doc/56272/rus/19.07.2019
 ---
 
 ## 1 жыл 6 айлық баланы дәрігердің тексеріп-қарауы Осмотр ребенка в возрасте в 1 года 6 месяцев врачом

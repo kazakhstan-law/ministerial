@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56272/kaz/29.12.2018
+source: https://zan.gov.kz/client/#!/doc/56272/kaz/19.07.2019
 ---
 
 Ұсыныстар (рекомендации):
