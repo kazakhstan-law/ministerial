@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/96433/rus/07.10.2015
+source: https://zan.gov.kz/client/#!/doc/96433/rus/01.08.2019
 ---
 
 # Об утверждении Правил аэродромного обеспечения в гражданской авиации
