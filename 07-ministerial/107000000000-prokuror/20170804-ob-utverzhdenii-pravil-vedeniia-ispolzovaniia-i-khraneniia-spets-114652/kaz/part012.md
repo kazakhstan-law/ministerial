@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/114652/kaz/04.08.2017
+source: https://zan.gov.kz/client/#!/doc/114652/kaz/01.08.2019
 ---
 
 > *Анықтаудан, тергеуден, соттан және жазасын өтеуден*  
