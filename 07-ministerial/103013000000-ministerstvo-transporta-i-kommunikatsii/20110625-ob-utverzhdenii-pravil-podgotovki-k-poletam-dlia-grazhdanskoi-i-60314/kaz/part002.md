@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/60314/kaz/25.12.2018
+source: https://zan.gov.kz/client/#!/doc/60314/kaz/01.08.2019
 ---
 
 > *Азаматтық және эксперименттік*  
