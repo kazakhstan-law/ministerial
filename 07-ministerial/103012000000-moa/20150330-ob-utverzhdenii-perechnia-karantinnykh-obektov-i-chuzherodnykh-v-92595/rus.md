@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/92595/rus/09.06.2017
+source: https://zan.gov.kz/client/#!/doc/92595/rus/08.08.2019
 ---
 
 # Об утверждении перечня карантинных объектов и чужеродных видов, по отношению к которым устанавливаются и осуществляются мероприятия по карантину растений, и перечня особо опасных вредных организмов
@@ -55,7 +55,7 @@ source: https://zan.gov.kz/client/#!/doc/92595/rus/09.06.2017
 
 ## Перечень карантинных объектов и чужеродных видов, по отношению к которым устанавливаются и осуществляются мероприятия по карантину растений
 
-> *Сноска. Перечень в редакции приказа Заместителя Премьер-Министра РК - Министра сельского хозяйства РК от 09.06.2017 № 234 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Перечень в редакции приказа Министра сельского хозяйства РК от 08.08.2019 № 290 (вводится в действие по истечении 10 (десяти) календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -64,14 +64,10 @@ source: https://zan.gov.kz/client/#!/doc/92595/rus/09.06.2017
 <td>Наименование на латинском языке</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Глава 1. Карантинные вредные организмы, отсутствующие на территории Республики Казахстан, имеющие карантинное значение</strong>
-</td>
+<th colspan="3">Глава 1. Карантинные вредные организмы, отсутствующие на территории Республики Казахстан, имеющие карантинное значение</th>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Параграф 1. Насекомые и клещи</strong>
-</td>
+<th colspan="3">Параграф 1. Насекомые и клещи</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -374,8 +370,6 @@ source: https://zan.gov.kz/client/#!/doc/92595/rus/09.06.2017
 <td>Rhizoecus hibisci Kawai &amp; Takagi</td>
 </tr>
 <tr>
-</tr>
-<tr>
 <td>61.</td>
 <td>Яблоневый круглоголовый усач-скрипун</td>
 <td>Saperda candida Fabricius</td>
@@ -538,10 +532,7 @@ source: https://zan.gov.kz/client/#!/doc/92595/rus/09.06.2017
 <tr>
 <td>93.</td>
 <td>Уссурийский полиграф</td>
-<td>
-Polygraphus proximus
-Blandford
-</td>
+<td>Polygraphus proximus Blandford</td>
 </tr>
 <tr>
 <td>94.</td>
@@ -569,493 +560,725 @@ Blandford
 <td>Diabrotica barberi Smith &amp; Lawrence</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Параграф 2. Нематоды</strong>
-</td>
+<td>99.</td>
+<td>Галловый клещ фуксии</td>
+<td>Aculops fuchsiae (Keifer)</td>
 </tr>
 <tr>
-<td>99.</td>
+<td>100.</td>
+<td>Колючая горная белокрылка</td>
+<td>Aleurocanthus spiniferus Quaint.</td>
+</tr>
+<tr>
+<td>101.</td>
+<td>Черная цитрусовая белокрылка</td>
+<td>Aleurocanthus woglumi Ashby</td>
+</tr>
+<tr>
+<td>102.</td>
+<td>Земляничный почкоед</td>
+<td>Anthonomus signatus Say</td>
+</tr>
+<tr>
+<td>103.</td>
+<td>Красная померанцевая щитовка</td>
+<td>Aonidiella aurantii (Maskell)</td>
+</tr>
+<tr>
+<td>104.</td>
+<td>Красношейный усач</td>
+<td>Aromia bungii (Faldermann)</td>
+</tr>
+<tr>
+<td>105.</td>
+<td>Восточная фруктовая муха</td>
+<td>Bactrocera dorsalis Hend.</td>
+</tr>
+<tr>
+<td>106.</td>
+<td>Арахисовая зерновка</td>
+<td>Caryedon gonagra Fabr.</td>
+</tr>
+<tr>
+<td>107.</td>
+<td>Большая осиновая листовертка</td>
+<td>Choristoneura conflictana Walk.</td>
+</tr>
+<tr>
+<td>108.</td>
+<td>Скошеннополосая листовертка</td>
+<td>Choristoneura rosaceana Har.</td>
+</tr>
+<tr>
+<td>109.</td>
+<td>Коричневая щитовка</td>
+<td>Chrysomphalus dictyospermi (Morgan)</td>
+</tr>
+<tr>
+<td>110.</td>
+<td>Вишневая плодожорка</td>
+<td>Cydia packardi Zell.</td>
+</tr>
+<tr>
+<td>111.</td>
+<td>Американская сливовая плодожорка</td>
+<td>Cydia prunivora Wals.</td>
+</tr>
+<tr>
+<td>112.</td>
+<td>Западный пятнистый огуречный жук</td>
+<td>Diabrotica undecimpunctata Man.</td>
+</tr>
+<tr>
+<td>113.</td>
+<td>Капюшонник многоядный</td>
+<td>Dinoderus bifoveolatus Woll.</td>
+</tr>
+<tr>
+<td>114.</td>
+<td>Восточная каштановая орехотворка</td>
+<td>Dryocosmus kuriphilus Yas.</td>
+</tr>
+<tr>
+<td>115.</td>
+<td>Жестковолосый червец</td>
+<td>Maconellicoccus hirsutus Green</td>
+</tr>
+<tr>
+<td>116.</td>
+<td>Американский коконопряд</td>
+<td>Malacosoma americanum Fabr.</td>
+</tr>
+<tr>
+<td>117.</td>
+<td>Лесной кольчатый шелкопряд</td>
+<td>Malacosoma disstria Hub.</td>
+</tr>
+<tr>
+<td>118.</td>
+<td>Американский многоядный щелкун</td>
+<td>Melanotus communis Gyll.</td>
+</tr>
+<tr>
+<td>119.</td>
+<td>Можжевельниковый паутинный клещ</td>
+<td>Oligonychus perditus Pritchard &amp; Baker</td>
+</tr>
+<tr>
+<td>120.</td>
+<td>Банановая моль</td>
+<td>Opogona sacchari Bojer</td>
+</tr>
+<tr>
+<td>121.</td>
+<td>Смолевка веймутовой сосны</td>
+<td>Pissodes strobi (Peck.)</td>
+</tr>
+<tr>
+<td>122.</td>
+<td>Сосновая верхушечная смолевка</td>
+<td>Pissodes terminalis Hopp.</td>
+</tr>
+<tr>
+<td>123.</td>
+<td>Восточная вишневая муха</td>
+<td>Rhagoletis cingulata Loew.</td>
+</tr>
+<tr>
+<td>124.</td>
+<td>Красный пальмовый долгоносик</td>
+<td>Rhynchophorus ferrugineus (Oliv.)</td>
+</tr>
+<tr>
+<td>125.</td>
+<td>Бразильская бобовая зерновка</td>
+<td>Zabrotes subfassiatus Boh.</td>
+</tr>
+<tr>
+<th colspan="3">Параграф 2. Нематоды</th>
+</tr>
+<tr>
+<td>126.</td>
 <td>Сосновая стволовая нематода</td>
 <td>Bursaphelenchus xylophilus (Steiner &amp; Buhrer) Nickle</td>
 </tr>
 <tr>
-<td>100.</td>
+<td>127.</td>
 <td>Бледная картофельная нематода</td>
 <td>Globodera pallida (Stone) Behrens</td>
 </tr>
 <tr>
-<td>101.</td>
+<td>128.</td>
 <td>Колумбийская галловая нематода</td>
 <td>Meloidogyne chitwoodi Golden, O´Bannon, Santo &amp; Finley</td>
 </tr>
 <tr>
-<td>102.</td>
+<td>129.</td>
 <td>Ложная колумбийская галловая нематода</td>
 <td>Meloidogyne fallax Karssen</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Параграф 3. Грибы</strong>
-</td>
+<td>130.</td>
+<td>Соевая нематода</td>
+<td>Heterodera glycines Ichinohe</td>
 </tr>
 <tr>
-<td>103.</td>
+<td>131.</td>
+<td>Корневая галловая нематода</td>
+<td>Meloidogyne enterolobii</td>
+</tr>
+<tr>
+<td>132.</td>
+<td>Ложная галловая нематода</td>
+<td>Nacobbus aberrans (Thorne) Thorne &amp; Allen</td>
+</tr>
+<tr>
+<td>133.</td>
+<td>Нематода-кинжал</td>
+<td>Xiphinema rivesi</td>
+</tr>
+<tr>
+<th colspan="3">Параграф 3. Грибы</th>
+</tr>
+<tr>
+<td>134.</td>
 <td>Рак (ожог) стволов и ветвей сосны</td>
 <td>Atropellis pinicola Zeller &amp; Goodding</td>
 </tr>
 <tr>
-<td>104.</td>
+<td>135.</td>
 <td>Рак (ожог) стволов и ветвей сосны</td>
 <td>Atropellis piniphilla (Weir.) Lohman &amp; Cash</td>
 </tr>
 <tr>
-<td>105.</td>
+<td>136.</td>
 <td>Сосудистый микоз дуба</td>
 <td>Ceratocystis fagacearum (Bretz.) Hunt</td>
 </tr>
 <tr>
-<td>106.</td>
+<td>137.</td>
 <td>Суховершинность ясеня</td>
-<td>
-Chalara fraxinea
-T. Kowalski
-</td>
+<td>Chalara fraxinea T. Kowalski</td>
 </tr>
 <tr>
-<td>107.</td>
+<td>138.</td>
 <td>Цветочный ожог камелий</td>
 <td>Ciborinia camelliae Koch</td>
 </tr>
 <tr>
-<td>108.</td>
+<td>139.</td>
 <td>Пятнистость листьев кукурузы</td>
 <td>Cochliobolus carbonum R.R. Nelson</td>
 </tr>
 <tr>
-<td>109.</td>
+<td>140.</td>
 <td>Вязкая гниль черники</td>
 <td>Diaporthe vaccinii Shear</td>
 </tr>
 <tr>
-<td>110.</td>
+<td>141.</td>
 <td>Антракноз хлопчатника</td>
 <td>Glomerella gossypii (South) Edgerton</td>
 </tr>
 <tr>
-<td>111.</td>
+<td>142.</td>
 <td>Бурая монилиозная гниль</td>
 <td>Monilinia fructicola (Winter) Honey</td>
 </tr>
 <tr>
-<td>112.</td>
+<td>143.</td>
 <td>Коричневый пятнистый ожог хвои сосны</td>
 <td>Mycosphaerella dearnessii M.E. Bar</td>
 </tr>
 <tr>
-<td>113.</td>
+<td>144.</td>
 <td>Техасская корневая гниль</td>
 <td>Phymatotrichopsis omnivora (Duggar) Hennebert</td>
 </tr>
 <tr>
-<td>114.</td>
+<td>145.</td>
 <td>Фитофтороз ольхи</td>
 <td>Phytophthora alni Brasier &amp; S.A. Kirk</td>
 </tr>
 <tr>
-<td>115.</td>
+<td>146.</td>
 <td>Фитофтороз декоративных и древесных культур</td>
 <td>Phytophthora kernoviae Brasier</td>
 </tr>
 <tr>
-<td>116.</td>
+<td>147.</td>
 <td>Фитофтороз древесных и кустарниковых культур</td>
 <td>Phytophthora ramorum Weres et al.</td>
 </tr>
 <tr>
-<td>117.</td>
+<td>148.</td>
 <td>Ржавчина пеларгонии</td>
 <td>Puccinia pelargonii-zonalis Doidge</td>
 </tr>
 <tr>
-<td>118.</td>
+<td>149.</td>
 <td>Головня картофеля</td>
 <td>Thecaphora solani Thirum et O'Breien</td>
 </tr>
 <tr>
-<td>119.</td>
+<td>150.</td>
 <td>Индийская (карнальская) головня пшеницы</td>
 <td>Tilletia indica Mitra</td>
 </tr>
 <tr>
-<td>120.</td>
+<td>151.</td>
 <td>Язвенное заболевание ореха</td>
 <td>Sirococcus clavigignenti-juglandacearum Nair, Kostichka &amp; Kunt</td>
 </tr>
 <tr>
-<td>121.</td>
+<td>152.</td>
 <td>Диплодиоз кукурузы</td>
 <td>Stenocarpella macrospora (Earle) Sutto</td>
 </tr>
 <tr>
-<td>122.</td>
+<td>153.</td>
 <td>Диплодиоз кукурузы</td>
 <td>Stenocarpella maydis (Berkeley) Sutton</td>
 </tr>
 <tr>
-<td>123.</td>
+<td>154.</td>
 <td>Пурпурный церкоспороз</td>
 <td>Cercospora kikuchii (T. Matsu &amp; Tomoyasu) Gardn.</td>
 </tr>
 <tr>
-<td>124.</td>
+<td>155.</td>
 <td>Антракноз земляники</td>
 <td>Colletotrichum acutatum Simmonds (= C. xanthii Halsted)</td>
 </tr>
 <tr>
-<td>125.</td>
+<td>156.</td>
 <td>Фомопсис подсолнечника</td>
-<td>
-Diaporthe helianthi
-Munt.-Cvet. et al.
-</td>
+<td>Diaporthe helianthi Munt.-Cvet. et al.</td>
 </tr>
 <tr>
-<td>126.</td>
+<td>157.</td>
 <td>Аскохитоз хризантем</td>
 <td>Didymella ligulicola (K.F. Baker, Dimock &amp; L.H. Davis) von Arx</td>
 </tr>
 <tr>
-<td>127.</td>
+<td>158.</td>
 <td>Фитофторозная корневая гниль земляники и малины</td>
 <td>Phytophthora fragariae Hickman</td>
 </tr>
 <tr>
-<td>128.</td>
+<td>159.</td>
 <td>Белая ржавчина хризантем</td>
 <td>Puccinia horiana Henn.</td>
 </tr>
 <tr>
-<td>129.</td>
+<td>160.</td>
 <td>Рак картофеля</td>
 <td>Synchytrium endobioticum (Schilbersky) Percival</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Параграф 4. Бактерии и фитоплазмы</strong>
-</td>
+<td>161.</td>
+<td>Веретеноподобная ржавчина сосны</td>
+<td>Cronartium fusiforme Hed. &amp; Hunt ex Cum.</td>
 </tr>
 <tr>
-<td>130.</td>
+<td>162.</td>
+<td>Рожковидная ржавчина буковых</td>
+<td>Cronartium quercuum (Berkeley) Miyabe ex Shirai</td>
+</tr>
+<tr>
+<td>163.</td>
+<td>Западная галлоподобная ржавчина</td>
+<td>Endocronartium harknessii (J.P. Moore) Y. Hiratsuka</td>
+</tr>
+<tr>
+<td>164.</td>
+<td>Ржавчина яблони и можжевельника</td>
+<td>Gymnosporangium yamadae Miyabe ex Yamada</td>
+</tr>
+<tr>
+<td>165.</td>
+<td>Ржавчина тополя</td>
+<td>Melampsora medusae Thümen</td>
+</tr>
+<tr>
+<td>166.</td>
+<td>Коричневый ожог хвои сосны</td>
+<td>Mycosphaerella gibsonii H.C. Evans</td>
+</tr>
+<tr>
+<td>167.</td>
+<td>Септориоз хвои японской лиственницы</td>
+<td>Mycosphaerella laricis-leptolepidis K. Ito, K. Sato &amp; M. Ota</td>
+</tr>
+<tr>
+<td>168.</td>
+<td>Фиалофоровое увядание гвоздики</td>
+<td>Phialophora cinerescens (Wollenweber) van Beyma</td>
+</tr>
+<tr>
+<td>169.</td>
+<td>Черный ожог, фомозная пятнистость листьев картофеля</td>
+<td>Phoma andigena Turkensteen</td>
+</tr>
+<tr>
+<th colspan="3">Параграф 4. Бактерии и фитоплазмы</th>
+</tr>
+<tr>
+<td>170.</td>
 <td>Бактериальная пятнистость тыквенных культур</td>
 <td>Acidovorax citrulli (Shaad et al.)</td>
 </tr>
 <tr>
-<td>131.</td>
+<td>171.</td>
 <td>Желтый слизистый бактериоз пшеницы</td>
 <td>Rathayibacter tritici (Carlson &amp; Vidaver) Zgurskaya et al.</td>
 </tr>
 <tr>
-<td>132.</td>
+<td>172.</td>
 <td>Бактериальное увядание (вилт) кукурузы</td>
 <td>Pantoea stewartii subsp. stewartii (Smith) Mergaert et al.</td>
 </tr>
 <tr>
-<td>133.</td>
+<td>173.</td>
 <td>Фитоплазма золотистого пожелтения винограда</td>
 <td>Candidatus Phytoplasma vitis</td>
 </tr>
 <tr>
-<td>134.</td>
+<td>174.</td>
 <td>Бактериальное увядание винограда</td>
 <td>Xylophilus ampelinus (Panagopoulos) Willems et al.</td>
 </tr>
 <tr>
-<td>135.</td>
+<td>175.</td>
 <td>Листовой ожог лука</td>
 <td>Xanthomonas axonopodis pv. allii (Roumagnac et al., 2004 a)</td>
 </tr>
 <tr>
-<td>136.</td>
+<td>176.</td>
 <td>Бактериальный ожог риса</td>
 <td>Xanthomonas oryzae pv. oryzae (Ishiyama) Swings et al.</td>
 </tr>
 <tr>
-<td>137.</td>
+<td>177.</td>
 <td>Бактериальная полосатость риса</td>
 <td>Xanthomonas oryzae pv. oryzicola (Fang et al.) Swings et al.</td>
 </tr>
 <tr>
-<td>138.</td>
+<td>178.</td>
 <td>Бурая гниль картофеля</td>
 <td>Ralstonia solanacearum (Smith) Yabuuchi et al.</td>
 </tr>
 <tr>
-<td>139.</td>
+<td>179.</td>
 <td>Фитоплазма пролиферации яблони</td>
 <td>Candidatus Phytoplasma mali</td>
 </tr>
 <tr>
-<td>140.</td>
+<td>180.</td>
 <td>Фитоплазма истощения груши</td>
 <td>Candidatus Phytoplasma pyri</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Параграф 5. Вирусы и вироиды</strong>
-</td>
+<td>181.</td>
+<td>Бактериальный вилт гвоздики</td>
+<td>Burkholderia caryophylli (Burkholder) Yabuuchi et al.</td>
 </tr>
 <tr>
-<td>141.</td>
+<td>182.</td>
+<td>Зебра чип</td>
+<td>Candidatus Liberibacter solanacearum (Candidatus Liberibacter psyllaurous, Zebra Chip Disease)</td>
+</tr>
+<tr>
+<td>183.</td>
+<td>Желтая болезнь гиацинта</td>
+<td>Xanthomonas campestris pv. Hyacinthi (Wakker) Dovson.</td>
+</tr>
+<tr>
+<td>184.</td>
+<td>Бактериоз винограда (болезнь Пирса)</td>
+<td>Xylella fastidiosa Wells et al.</td>
+</tr>
+<tr>
+<th colspan="3">Параграф 5. Вирусы и вироиды</th>
+</tr>
+<tr>
+<td>185.</td>
 <td>Черавирус рашпилевидности листьев черешни</td>
 <td>Cherry rasp leaf cheravirus</td>
 </tr>
 <tr>
-<td>142.</td>
+<td>186.</td>
 <td>Вироид латентной мозаики персика</td>
 <td>Peach latent mosaic viroid</td>
 </tr>
 <tr>
-<td>143.</td>
+<td>187.</td>
 <td>Неповирус розеточной мозаики персика</td>
 <td>Peach rosette mosaic nepovirus</td>
 </tr>
 <tr>
-<td>144.</td>
+<td>188.</td>
 <td>Андийский латентный тимовирус картофеля</td>
 <td>Andean potato latent tymovirus</td>
 </tr>
 <tr>
-<td>145.</td>
+<td>189.</td>
 <td>Андийский комовирус крапчатости картофеля</td>
 <td>Andean potato mottle comovirus</td>
 </tr>
 <tr>
-<td>146.</td>
-<td>Теповирус Т картофеля</td>
-<td>Potato T tepovirus</td>
+<td>190.</td>
+<td>Вирус Т картофеля</td>
+<td>Potato virus T</td>
 </tr>
 <tr>
-<td>147.</td>
+<td>191.</td>
 <td>Альфамовирус пожелтения картофеля</td>
 <td>Potato yellowing alfamovirus</td>
 </tr>
 <tr>
-<td>148.</td>
+<td>192.</td>
 <td>Бегомовирус желтой курчавости листьев томата</td>
 <td>Tomato yellow leaf curl begomovirus</td>
 </tr>
 <tr>
-<td>149.</td>
+<td>193.</td>
 <td>Бенивирус некротического пожелтения жилок свеклы</td>
 <td>Beet necrotic yellow vein benyvirus</td>
 </tr>
 <tr>
-<td>150.</td>
+<td>194.</td>
 <td>Тосповирус некротической пятнистости бальзамина</td>
 <td>Impatiens necrotic spot tospovirus</td>
 </tr>
 <tr>
-<td>151.</td>
+<td>195.</td>
 <td>Потивирус шарки (оспы) слив</td>
 <td>Plum pox potyvirus</td>
 </tr>
 <tr>
-<td>152.</td>
+<td>196.</td>
 <td>Вироид веретеновидности клубней картофеля</td>
 <td>Potato spindle tuber viroid</td>
 </tr>
 <tr>
-<td>153.</td>
+<td>197.</td>
 <td>Неповирус кольцевой пятнистости табака</td>
 <td>Tobacco ringspot nepovirus</td>
 </tr>
 <tr>
-<td>154.</td>
+<td>198.</td>
 <td>Неповирус кольцевой пятнистости томата</td>
 <td>Tomato ringspot nepovirus</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Параграф 6. Растения</strong>
-</td>
+<td>199.</td>
+<td>Тосповирус некроза побегов хризантемы</td>
+<td>Chrysanthemum stem necrosis tospovirus</td>
 </tr>
 <tr>
-<td>155.</td>
+<td>200.</td>
+<td>Вироид карликовости хризантем</td>
+<td>Chrysanthemum stunt pospoviroid</td>
+</tr>
+<tr>
+<td>201.</td>
+<td>Неповирус черной кольцевой пятнистости картофеля</td>
+<td>Potato black ringspot nepovirus</td>
+</tr>
+<tr>
+<td>202.</td>
+<td>Рабдовирус желтой карликовости картофеля</td>
+<td>Potato yellow dwarf nucleorhabdovirus</td>
+</tr>
+<tr>
+<td>203.</td>
+<td>Кринивирус пожелтения жилок картофеля</td>
+<td>Potato yellow vein crinivirus</td>
+</tr>
+<tr>
+<td>204.</td>
+<td>Неповирус кольцевой пятнистости малины</td>
+<td>Raspberry ringspot nepovirus</td>
+</tr>
+<tr>
+<th colspan="3">Параграф 6. Растения</th>
+</tr>
+<tr>
+<td>205.</td>
 <td>Череда волосистая</td>
 <td>Bidens pilosa L.</td>
 </tr>
 <tr>
-<td>156.</td>
+<td>206.</td>
 <td>Молочай зубчатый</td>
 <td>Euphorbia dentata Michx.</td>
 </tr>
 <tr>
-<td>157.</td>
+<td>207.</td>
 <td>Подсолнечник калифорнийский</td>
 <td>Helianthus californicus DC.</td>
 </tr>
 <tr>
-<td>158.</td>
+<td>208.</td>
 <td>Подсолнечник реснитчатый</td>
 <td>Helianthus ciliaris DC.</td>
 </tr>
 <tr>
-<td>159.</td>
+<td>209.</td>
 <td>Ипомея плющевидная</td>
 <td>Ipomoea hederacea L.</td>
 </tr>
 <tr>
-<td>160.</td>
+<td>210.</td>
 <td>Ипомея ямчатая</td>
 <td>Ipomoea lacunosa L.</td>
 </tr>
 <tr>
-<td>161.</td>
+<td>211.</td>
 <td>Бузинник пазушный</td>
 <td>Iva axillaris Pursh.</td>
 </tr>
 <tr>
-<td>162.</td>
+<td>212.</td>
 <td>Паслен каролинский</td>
 <td>Solanum carolinense L.</td>
 </tr>
 <tr>
-<td>163.</td>
+<td>213.</td>
 <td>Паслен линейнолистный</td>
 <td>Solanum elaeagnifolium Cav.</td>
 </tr>
 <tr>
-<td>164.</td>
+<td>214.</td>
 <td>Стриги</td>
 <td>Striga spp.</td>
 </tr>
 <tr>
-<td>165.</td>
+<td>215.</td>
 <td>Амброзия трехраздельная</td>
 <td>Ambrosia trifida L.</td>
 </tr>
 <tr>
-<td>166.</td>
+<td>216.</td>
 <td>Ценхрус длинноколючковый</td>
 <td>Cenchrus longispinus (Hack.) Fern</td>
 </tr>
 <tr>
-<td>167.</td>
+<td>217.</td>
 <td>Паслен колючий</td>
 <td>Solanum rostratum Dun.</td>
 </tr>
 <tr>
-<td>168.</td>
+<td>218.</td>
 <td>Паслен трехцветковый</td>
 <td>Solanum triflorum Nutt.</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Глава 2. Карантинные вредные организмы, ограниченно распространенные на территории Республики Казахстан</strong>
-</td>
+<td>219.</td>
+<td>Череда дважды перистая</td>
+<td>Bidens bipinnata L.</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Параграф 1. Насекомые</strong>
-</td>
+<td>220.</td>
+<td>Сициос угловатый</td>
+<td>Sicyos angulatus L.</td>
 </tr>
 <tr>
-<td>169.</td>
+<th colspan="3">Глава 2. Карантинные вредные организмы, ограниченно распространенные на территории Республики Казахстан</th>
+</tr>
+<tr>
+<th colspan="3">Параграф 1. Насекомые</th>
+</tr>
+<tr>
+<td>221.</td>
 <td>Восточная плодожорка</td>
 <td>Grapholita molesta (Busck)</td>
 </tr>
 <tr>
-<td>170.</td>
+<td>222.</td>
 <td>Американская белая бабочка</td>
 <td>Hyphantria cunea Drury</td>
 </tr>
 <tr>
-<td>171.</td>
+<td>223.</td>
 <td>Черный сосновый усач</td>
 <td>Monochamus galloprovincialis (Olivier)</td>
 </tr>
 <tr>
-<td>172.</td>
+<td>224.</td>
 <td>Дынная муха</td>
 <td>Myiopardalis pardalina (Bigot)</td>
 </tr>
 <tr>
-<td>173.</td>
+<td>225.</td>
 <td>Червец Комстока</td>
 <td>Pseudococcus comstocki (Kuwana)</td>
 </tr>
 <tr>
-<td>174.</td>
+<td>226.</td>
 <td>Калифорнийская щитовка</td>
 <td>Quadraspidiotus perniciosus Comst.</td>
 </tr>
 <tr>
-<td>175.</td>
+<td>227.</td>
 <td>Южноамериканская томатная моль</td>
 <td>Tuta absoluta (Povolny)</td>
 </tr>
 <tr>
-<td>176.</td>
+<td>228.</td>
 <td>Азиатский подвид непарного шелкопряда (Lda)</td>
 <td>Lymantria dispar asiatica Vnukovskij</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Параграф 2. Нематоды</strong>
-</td>
+<th colspan="3">Параграф 2. Нематоды</th>
 </tr>
 <tr>
-<td>177.</td>
+<td>229.</td>
 <td>Золотистая картофельная нематода</td>
 <td>Globodera rostochiensis (Wollenweber) Behrens</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Параграф 3. Бактерии и фитоплазмы</strong>
-</td>
+<th colspan="3">Параграф 3. Бактерии и фитоплазмы</th>
 </tr>
 <tr>
-<td>178.</td>
+<td>230.</td>
 <td>Бактериальный ожог плодовых культур</td>
 <td>Erwinia amylovora (Burrill) Winslow et al.</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Параграф 4. Растения</strong>
-</td>
+<th colspan="3">Параграф 4. Растения</th>
 </tr>
 <tr>
-<td>179.</td>
-<td>Горчак ползучий (ро зовый)</td>
+<td>231.</td>
+<td>Горчак ползучий (розовый)</td>
 <td>Acroptilon repens DC</td>
 </tr>
 <tr>
-<td>180.</td>
+<td>232.</td>
 <td>Амброзия полыннолистная</td>
 <td>Ambrosia artemisiifolia L.</td>
 </tr>
 <tr>
-<td>181.</td>
+<td>233.</td>
 <td>Амброзия многолетняя</td>
 <td>Ambrosia psilostachya DC.</td>
 </tr>
 <tr>
-<td>182.</td>
+<td>234.</td>
 <td>Повилики</td>
 <td>Cuscuta spp.</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Глава 3. Чужеродные виды отсутствующие на территории Республики Казахстан</strong>
-</td>
+<th colspan="3">Глава 3. Чужеродные виды отсутствующие на территории Республики Казахстан</th>
 </tr>
 <tr>
-<td>183.</td>
+<td>235.</td>
 <td>Особенный кукурузный жук</td>
 <td>Diabrotica speciosa Germer</td>
 </tr>
 <tr>
-<td>184.</td>
+<td>236.</td>
 <td>Южный кукурузный жук</td>
 <td>Diabrotica undecimpunctata howardi Barber</td>
 </tr>
