@@ -1,5 +1,5 @@
 ---
-version_id: '92595_213624'
+version_id: '92595_418465'
 act_code: '92595'
 language: kaz
 title: Өздеріне қатысты өсімдіктер карантині жөніндегі іс-шаралар белгіленетін және жүзеге асырылатын карантинді объектілер мен бөтен текті түрлердің тізбесін және аса қауiптi зиянды организмдер тiзбесiн бекiту туралы
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103012000000'
 approval_date: 2015-03-30
-version_date: 2017-06-09
+version_date: 2019-08-08
 registry_number: '92595'
 caused_by:
-  code: '113871'
+  code: '134113'
   title: «Өздеріне қатысты өсімдіктер карантині жөніндегі іс-шаралар белгіленетін және жүзеге асырылатын карантинді объектілер мен бөтен текті түрлердің тізбесін және аса қауiптi зиянды организмдер тiзбесiн бекiту туралы» Қазақстан Республикасы Ауыл шаруашылығы министрінің 2015 жылғы 30 наурыздағы № 4-4/282 бұйрығына өзгеріс енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/113871/kaz
-source: https://zan.gov.kz/client/#!/doc/92595/kaz/09.06.2017
+  link: https://zan.gov.kz/client/#!/doc/134113/kaz
+source: https://zan.gov.kz/client/#!/doc/92595/kaz/08.08.2019
 ---
 
 # Өздеріне қатысты өсімдіктер карантині жөніндегі іс-шаралар белгіленетін және жүзеге асырылатын карантинді объектілер мен бөтен текті түрлердің тізбесін және аса қауiптi зиянды организмдер тiзбесiн бекiту туралы
@@ -65,15 +65,14 @@ source: https://zan.gov.kz/client/#!/doc/92595/kaz/09.06.2017
 > *2015 жылғы 22 маусым*
 
 > *Қазақстан Республикасы*  
-> *Ауыл шаруашылығы*  
-> *министрінің*  
+> *Ауыл шаруашылығы министрінің*  
 > *2015 жылғы 30 наурыздағы*  
 > *№ 4-4/282 бұйрығына*  
 > *1-қосымша*
 
 ## Өздеріне қатысты өсімдіктер карантині жөніндегі іс-шаралар белгіленетін және жүзеге асырылатын карантинді объектілер мен бөтен текті түрлердің тізбесі
 
-> *Ескерту. Тізбе жаңа редакцияда - ҚР Премьер-Министрінің орынбасары – ҚР Ауыл шаруашылығы министрінің 09.06.2017 № 234 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. Тізбе жаңа редакцияда - ҚР Ауыл шаруашылығы министрінің 08.08.2019 № 290 (ресми жарияланған күнінен кейін күнтізбелік 10 (он) күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
@@ -82,14 +81,10 @@ source: https://zan.gov.kz/client/#!/doc/92595/kaz/09.06.2017
 <td>Латын тіліндегі атауы</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>1-тарау. Қазақстан Республикасының аумағында жоқ, карантиндік маңызы бар, карантиндік зиянды организмдер</strong>
-</td>
+<th colspan="3">1-тарау. Қазақстан Республикасының аумағында жоқ, карантиндік маңызы бар, карантиндік зиянды организмдер</th>
 </tr>
 <tr>
-<td colspan="3">
-<strong>1-параграф. Жәндіктер және кенелер</strong>
-</td>
+<th colspan="3">1-параграф. Жәндіктер және кенелер</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -554,10 +549,7 @@ source: https://zan.gov.kz/client/#!/doc/92595/kaz/09.06.2017
 <tr>
 <td>93.</td>
 <td>Уссуриялық полиграф</td>
-<td>
-Polygraphus proximus
-Blandford
-</td>
+<td>Polygraphus proximus Blandford</td>
 </tr>
 <tr>
 <td>94.</td>
@@ -585,493 +577,725 @@ Blandford
 <td>Diabrotica barberi Smith &amp; Lawrence</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>2-параграф. Жұмырқұрттар</strong>
-</td>
+<td>99.</td>
+<td>Фукси беріш кенесі</td>
+<td>Aculops fuchsiae (Keifer)</td>
 </tr>
 <tr>
-<td>99.</td>
+<td>100.</td>
+<td>Таулы тікенекті аққанат</td>
+<td>Aleurocanthus spiniferus Quaint.</td>
+</tr>
+<tr>
+<td>101.</td>
+<td>Цитрусты қара аққанат</td>
+<td>Aleurocanthus woglumi Ashby</td>
+</tr>
+<tr>
+<td>102.</td>
+<td>Бүлдірген гүлжегіш қоңызы</td>
+<td>Anthonomus sigatus Say</td>
+</tr>
+<tr>
+<td>103.</td>
+<td>Қызыл қалқаншалы сымыр</td>
+<td>Aonidiella aurantii (Maskell)</td>
+</tr>
+<tr>
+<td>104.</td>
+<td>Қызылмойынды ұзынмұршалы қоңыз</td>
+<td>Aromia bungii (Faldermann)</td>
+</tr>
+<tr>
+<td>105.</td>
+<td>Шығыс жеміс шыбыны</td>
+<td>Bactrocera dorsalis Hend.</td>
+</tr>
+<tr>
+<td>106.</td>
+<td>Жер жаңғақтың дән қоңызы</td>
+<td>Caryedon gonagra Fabr.</td>
+</tr>
+<tr>
+<td>107.</td>
+<td>Үлкен жапырақты көктеректің ширатқыш көбелегі</td>
+<td>Choristoneura conflictana Walk.</td>
+</tr>
+<tr>
+<td>108.</td>
+<td>Қиғаш сызықты жапырақ ширатқыш көбелегі</td>
+<td>Choristoneura rosaceana Har.</td>
+</tr>
+<tr>
+<td>109.</td>
+<td>Қоңыр сымыр</td>
+<td>Chrysomphalus dictyospermi (Morgan)</td>
+</tr>
+<tr>
+<td>110.</td>
+<td>Шие жемісінің жемірі</td>
+<td>Cydia packardi Zell.</td>
+</tr>
+<tr>
+<td>111.</td>
+<td>Американдық өрік жемісінің жемірі</td>
+<td>Cydia prunivora Wals.</td>
+</tr>
+<tr>
+<td>112.</td>
+<td>Батыс қиярдың шұбар қоңызы</td>
+<td>Diabrotica undecimpunctata Man.</td>
+</tr>
+<tr>
+<td>113.</td>
+<td>Көп қоректі капюшонник</td>
+<td>Dinoderus bifoveolatus Woll.</td>
+</tr>
+<tr>
+<td>114.</td>
+<td>Шығыс талшын жаңғақ бүлдіргісі</td>
+<td>Dryocosmus kuriphilus Yas.</td>
+</tr>
+<tr>
+<td>115.</td>
+<td>Қатты шашты сымыр</td>
+<td>Maconellicoccus hirsutus Green</td>
+</tr>
+<tr>
+<td>116.</td>
+<td>Американдық сақиналы жібек көбелегі</td>
+<td>Malacosoma americanum Fabr.</td>
+</tr>
+<tr>
+<td>117.</td>
+<td>Орман сақиналы жібек көбелегі</td>
+<td>Malacosoma disstria Hub.</td>
+</tr>
+<tr>
+<td>118.</td>
+<td>Американдық көп қоректі шыртылдақ</td>
+<td>Melanotus communis Gyll.</td>
+</tr>
+<tr>
+<td>119.</td>
+<td>Аршаның өрмекші кенесі</td>
+<td>Oligonychus perditus Pritchard &amp; Baker</td>
+</tr>
+<tr>
+<td>120.</td>
+<td>Бананның күйе көбелегі</td>
+<td>Opogona sacchari Bojer</td>
+</tr>
+<tr>
+<td>121.</td>
+<td>Ақ қарағай бізтұмсық қоңызы</td>
+<td>Pissodes strobi (Peck.)</td>
+</tr>
+<tr>
+<td>122.</td>
+<td>Қарағайдың төбелік бізтұмсық қоңызы</td>
+<td>Pissodes terminalis Hopp.</td>
+</tr>
+<tr>
+<td>123.</td>
+<td>Шығыс шие шыбыны</td>
+<td>Rhagoletis cingulata Loew.</td>
+</tr>
+<tr>
+<td>124.</td>
+<td>Пальмалы қызыл бізтұмсық</td>
+<td>Rhynchophorus ferrugineus (Oliv.)</td>
+</tr>
+<tr>
+<td>125.</td>
+<td>Бразилиялық бұршақ қоңызы</td>
+<td>Zabrotes subfassiatus Boh.</td>
+</tr>
+<tr>
+<th colspan="3">2-параграф. Жұмырқұрттар</th>
+</tr>
+<tr>
+<td>126.</td>
 <td>Қарағай діңінің жұмырқұрты</td>
 <td>Bursaphelenchus xylophilus (Steiner &amp; Buhrer) Nickle</td>
 </tr>
 <tr>
-<td>100.</td>
+<td>127.</td>
 <td>Картоптың бозғылт жұмырқұрты</td>
 <td>Globodera pallida (Stone) Behrens</td>
 </tr>
 <tr>
-<td>101.</td>
+<td>128.</td>
 <td>Картоптың колумбиялық бұзғынша жұмырқұрты</td>
 <td>Meloidogyne chitwoodi Golden, O´Bannon, Santo &amp; Finley</td>
 </tr>
 <tr>
-<td>102.</td>
+<td>129.</td>
 <td>Жалған колумбиялық бұзғынша жұмырқұрты</td>
 <td>Meloidogyne fallax Karssen</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>3-параграф. Саңырауқұлақтар</strong>
-</td>
+<td>130.</td>
+<td>Соя жұмырқұрты</td>
+<td>Heterodera glycines Ichinohe</td>
 </tr>
 <tr>
-<td>103.</td>
+<td>131.</td>
+<td>Тамыр берішті жұмырқұрт</td>
+<td>Meloidogyne enterolobii</td>
+</tr>
+<tr>
+<td>132.</td>
+<td>Жалған берішті жұмырқұрт</td>
+<td>Nacobbus aberrans (Thorne) Thorne &amp; Allen</td>
+</tr>
+<tr>
+<td>133.</td>
+<td>Қанжарлы жұмырқұрт</td>
+<td>Xiphinema rivesi</td>
+</tr>
+<tr>
+<th colspan="3">3-параграф. Саңырауқұлақтар</th>
+</tr>
+<tr>
+<td>134.</td>
 <td>Қарағай діңі мен бұтағының қатерлі ісігі (күйігі)</td>
 <td>Atropellis pinicola Zeller &amp; Goodding</td>
 </tr>
 <tr>
-<td>104.</td>
+<td>135.</td>
 <td>Қарағай діңі мен бұтағының қатерлі ісігі (күйігі)</td>
 <td>Atropellis piniphilla (Weir.) Lohman &amp; Cash</td>
 </tr>
 <tr>
-<td>105.</td>
+<td>136.</td>
 <td>Еменнің түтікшелі микозы</td>
 <td>Ceratocystis fagacearum (Bretz.) Hunt</td>
 </tr>
 <tr>
-<td>106.</td>
+<td>137.</td>
 <td>Шағанның төбе қурауы</td>
-<td>
-Chalara fraxinea
-T. Kowalski
-</td>
+<td>Chalara fraxinea T. Kowalski</td>
 </tr>
 <tr>
-<td>107.</td>
+<td>138.</td>
 <td>Кәмила гүлінің күйігі</td>
 <td>Ciborinia camelliae Koch</td>
 </tr>
 <tr>
-<td>108.</td>
+<td>139.</td>
 <td>Жүгері жапырақтарының теңбілі</td>
 <td>Cochliobolus carbonum R.R. Nelson</td>
 </tr>
 <tr>
-<td>109.</td>
+<td>140.</td>
 <td>Қаражидектің тұтқыр шірігі</td>
 <td>Diaporthe vaccinii Shear</td>
 </tr>
 <tr>
-<td>110.</td>
+<td>141.</td>
 <td>Мақта антракнозы</td>
 <td>Glomerella gossypii (South) Edgerton</td>
 </tr>
 <tr>
-<td>111.</td>
+<td>142.</td>
 <td>Қоңыр монилиоз шірігі</td>
 <td>Monilinia fructicola (Winter) Honey</td>
 </tr>
 <tr>
-<td>112.</td>
+<td>143.</td>
 <td>Қарағай қылқанының қоңыр дақты күйігі</td>
 <td>Mycosphaerella dearnessii M.E. Bar</td>
 </tr>
 <tr>
-<td>113.</td>
+<td>144.</td>
 <td>Техастық тамыр шірігі</td>
 <td>Phymatotrichopsis omnivora (Duggar) Hennebert</td>
 </tr>
 <tr>
-<td>114.</td>
+<td>145.</td>
 <td>Қандағаш фитофторозы</td>
 <td>Phytophthora alni Brasier &amp; S.A. Kirk</td>
 </tr>
 <tr>
-<td>115.</td>
+<td>146.</td>
 <td>Әсемдік және сүректі дақылдар фитофторозы</td>
 <td>Phytophthora kernoviae Brasier</td>
 </tr>
 <tr>
-<td>116.</td>
+<td>147.</td>
 <td>Сүректі және бұта дақылдары фитофторозы</td>
 <td>Phytophthora ramorum Weres et al.</td>
 </tr>
 <tr>
-<td>117.</td>
+<td>148.</td>
 <td>Пеларгонияның тат ауруы</td>
 <td>Puccinia pelargonii-zonalis Doidge</td>
 </tr>
 <tr>
-<td>118.</td>
+<td>149.</td>
 <td>Картоп қаракүйесі</td>
 <td>Thecaphora solani Thirum et O'Breien</td>
 </tr>
 <tr>
-<td>119.</td>
+<td>150.</td>
 <td>Бидайдың үнді (карнал) қаракүйесі</td>
 <td>Tilletia indica Mitra</td>
 </tr>
 <tr>
-<td>120.</td>
+<td>151.</td>
 <td>Жаңғақтың ойық жара ауруы</td>
 <td>Sirococcus clavigignenti-juglandacearum Nair, Kostichka &amp; Kunt</td>
 </tr>
 <tr>
-<td>121.</td>
+<td>152.</td>
 <td>Жүгерінің құрғақ шірігі</td>
 <td>Stenocarpella macrospora (Earle) Sutto</td>
 </tr>
 <tr>
-<td>122.</td>
+<td>153.</td>
 <td>Жүгерінің құрғақ шірігі</td>
 <td>Stenocarpella maydis (Berkeley) Sutton</td>
 </tr>
 <tr>
-<td>123.</td>
+<td>154.</td>
 <td>Қызыл күрең церкоспороз</td>
 <td>Cercospora kikuchii (T. Matsu &amp; Tomoyasu) Gardn.</td>
 </tr>
 <tr>
-<td>124.</td>
+<td>155.</td>
 <td>Бүлдірген антракнозы</td>
-<td>Colletotrichum acutatum Simmonds (C. xanthii Halsted)</td>
+<td>Colletotrichum acutatum Simmonds (= C. xanthii Halsted)</td>
 </tr>
 <tr>
-<td>125.</td>
+<td>156.</td>
 <td>Күнбағыс фомопсисі</td>
-<td>
-Diaporthe helianthi
-Munt.-Cvet. et al.
-</td>
+<td>Diaporthe helianthi Munt.-Cvet. et al.</td>
 </tr>
 <tr>
-<td>126.</td>
+<td>157.</td>
 <td>Бақытгүл аскохитозы</td>
 <td>Didymella ligulicola (K.F. Baker, Dimock &amp; L.H. Davis) von Arx</td>
 </tr>
 <tr>
-<td>127.</td>
+<td>158.</td>
 <td>Бүлдірген мен таңқурайдың фитофторозды тамыр шірігі</td>
 <td>Phytophthora fragariae Hickman</td>
 </tr>
 <tr>
-<td>128.</td>
+<td>159.</td>
 <td>Бақытгүлдің ақ таты</td>
 <td>Puccinia horiana Henn.</td>
 </tr>
 <tr>
-<td>129.</td>
+<td>160.</td>
 <td>Картоптың қатерлі ісігі</td>
 <td>Synchytrium endobioticum (Schilbersky) Percival</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>4-параграф. Бактериялар мен фитоплазмалар</strong>
-</td>
+<td>161.</td>
+<td>Қарағайдың ұршық тәрізді таты</td>
+<td>Cronartium fusiforme Hed. &amp; Hunt ex Cum.</td>
 </tr>
 <tr>
-<td>130.</td>
+<td>162.</td>
+<td>Шамшаттың мүйіз тәрізді таты</td>
+<td>Cronartium quercuum (Berkeley) Miyabe ex Shirai</td>
+</tr>
+<tr>
+<td>163.</td>
+<td>Беріш тәрізді батыс таты</td>
+<td>Endocronartium harknessii (J.P. Moore) Y. Hiratsuka</td>
+</tr>
+<tr>
+<td>164.</td>
+<td>Алма және арша таты</td>
+<td>Gymnosporangium yamadae Miyabe ex Yamada</td>
+</tr>
+<tr>
+<td>165.</td>
+<td>Терек таты</td>
+<td>Melampsora medusae Thümen</td>
+</tr>
+<tr>
+<td>166.</td>
+<td>Қарағай қалқанының қоңыр күйігі</td>
+<td>Mycosphaerella gibsonii H.C. Evans</td>
+</tr>
+<tr>
+<td>167.</td>
+<td>Жапондық сағызқарағай қылқанының септориозы</td>
+<td>Mycosphaerella laricis-leptolepidis K. Ito, K. Sato &amp; M. Ota</td>
+</tr>
+<tr>
+<td>168.</td>
+<td>Қалампырдың фиалофорлы солуы</td>
+<td>Phialophora cinerescens (Wollenweber) van Beyma</td>
+</tr>
+<tr>
+<td>169.</td>
+<td>Қара күйік, картоп жапырақтарының фомозды дақтары</td>
+<td>Phoma andigena Turkensteen</td>
+</tr>
+<tr>
+<th colspan="3">4-параграф. Бактериялар мен фитоплазмалар</th>
+</tr>
+<tr>
+<td>170.</td>
 <td>Асқабақ дақылдарының бактериялық теңбілденуі</td>
 <td>Acidovorax citrulli (Shaad et al.)</td>
 </tr>
 <tr>
-<td>131.</td>
+<td>171.</td>
 <td>Бидайдың сары шырышты бактериозы</td>
 <td>Rathayibacter tritici (Carlson &amp; Vidaver) Zgurskaya et al.</td>
 </tr>
 <tr>
-<td>132.</td>
+<td>172.</td>
 <td>Жүгерінің бактериялық солуы</td>
 <td>Pantoea stewartii subsp. stewartii (Smith) Mergaert et al.</td>
 </tr>
 <tr>
-<td>133.</td>
+<td>173.</td>
 <td>Жүзімнің алтындай сарғаю фитоплазмасы</td>
 <td>Candidatus Phytoplasma vitis</td>
 </tr>
 <tr>
-<td>134.</td>
+<td>174.</td>
 <td>Жүзімнің бактериялық солуы</td>
 <td>Xylophilus ampelinus (Panagopoulos) Willems et al.</td>
 </tr>
 <tr>
-<td>135.</td>
+<td>175.</td>
 <td>Пияз жапырағының күйігі</td>
 <td>Xanthomonas axonopodis pv. allii (Roumagnac et al., 2004 a)</td>
 </tr>
 <tr>
-<td>136.</td>
+<td>176.</td>
 <td>Күріштің бактериялық күйігі</td>
 <td>Xanthomonas oryzae pv. oryzae (Ishiyama) Swings et al.</td>
 </tr>
 <tr>
-<td>137.</td>
+<td>177.</td>
 <td>Күріштің бактериялық жолағы</td>
 <td>Xanthomonas oryzae pv. oryzicola (Fang et al.) Swings et al.</td>
 </tr>
 <tr>
-<td>138.</td>
+<td>178.</td>
 <td>Картоптың қоңыр шірігі</td>
 <td>Ralstonia solanacearum (Smith) Yabuuchi et al.</td>
 </tr>
 <tr>
-<td>139.</td>
+<td>179.</td>
 <td>Алма пролиферациясының фитоплазмасы</td>
 <td>Candidatus Phytoplasma mali</td>
 </tr>
 <tr>
-<td>140.</td>
+<td>180.</td>
 <td>Алмұрттың сарқылуы фитоплазмасы</td>
 <td>Candidatus Phytoplasma pyri</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>5-параграф. Вирустар мен вироидтар</strong>
-</td>
+<td>181.</td>
+<td>Қалампырдың бактериалды солуы</td>
+<td>Burkholderia caryophylli (Burkholder) Yabuuchi et al.</td>
 </tr>
 <tr>
-<td>141.</td>
+<td>182.</td>
+<td>Зебра чипы</td>
+<td>Candidatus Liberibacter solanacearum (Candidatus Liberibacter psyllaurous, Zebra Chip Disease)</td>
+</tr>
+<tr>
+<td>183.</td>
+<td>Сүмбілдің сары ауруы</td>
+<td>Xanthomonas campestris pv. Hyacinthi (Wakker) Dovson.</td>
+</tr>
+<tr>
+<td>184.</td>
+<td>Жүзімнің бактериозы (Пирс ауруы)</td>
+<td>Xylella fastidiosa Wells et al.</td>
+</tr>
+<tr>
+<th colspan="3">5-параграф. Вирустар мен вироидтар</th>
+</tr>
+<tr>
+<td>185.</td>
 <td>Қызыл шие жапырағын тілімдеуші черавирус</td>
 <td>Cherry rasp leaf cheravirus</td>
 </tr>
 <tr>
-<td>142.</td>
+<td>186.</td>
 <td>Шабдалының латентті теңбілі вироиді</td>
 <td>Peach latent mosaic viroid</td>
 </tr>
 <tr>
-<td>143.</td>
+<td>187.</td>
 <td>Шабдалының ұсақ жапырақтылық теңбілі неповирусы</td>
 <td>Peach rosette mosaic nepovirus</td>
 </tr>
 <tr>
-<td>144.</td>
+<td>188.</td>
 <td>Картоптың андылық латентті тимо-вирусы</td>
 <td>Andean potato latent tymovirus</td>
 </tr>
 <tr>
-<td>145.</td>
+<td>189.</td>
 <td>Картоп теңбілінің андылық комовирусы</td>
 <td>Andean potato mottle comovirus</td>
 </tr>
 <tr>
-<td>146.</td>
+<td>190.</td>
 <td>Картоптың Т теповирусы</td>
-<td>Potato T tepovirus</td>
+<td>Potato virus T</td>
 </tr>
 <tr>
-<td>147.</td>
+<td>191.</td>
 <td>Картоп сарғаюының альфамовирусы</td>
 <td>Potato yellowing alfamovirus</td>
 </tr>
 <tr>
-<td>148.</td>
+<td>192.</td>
 <td>Қызанақ жапырағының сарғыш бұйралану бегомовирусы</td>
 <td>Tomato yellow leaf curl begomovirus</td>
 </tr>
 <tr>
-<td>149.</td>
+<td>193.</td>
 <td>Қызылша жүйкесінің некротикалық сарғаюы бенивирусы</td>
 <td>Beet necrotic yellow vein benyvirus</td>
 </tr>
 <tr>
-<td>150.</td>
+<td>194.</td>
 <td>Қынагүлдің некротикалық теңбілдігінің тосповирусы</td>
 <td>Impatiens necrotic spot tospovirus</td>
 </tr>
 <tr>
-<td>151.</td>
+<td>195.</td>
 <td>Қараөрік шаркасының (шешегінің)потивирусы</td>
 <td>Plum pox potyvirus</td>
 </tr>
 <tr>
-<td>152.</td>
+<td>196.</td>
 <td>Картоп түйнектерінің ұршық тәріздігінің вироиді</td>
 <td>Potato spindle tuber viroid</td>
 </tr>
 <tr>
-<td>153.</td>
+<td>197.</td>
 <td>Темекінің сақиналы теңбілдігінің неповирусы</td>
 <td>Tobacco ringspot nepovirus</td>
 </tr>
 <tr>
-<td>154.</td>
+<td>198.</td>
 <td>Қызанақтың сақиналы теңбілдігінің неповирусы</td>
 <td>Tomato ringspot nepovirus</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>6-параграф. Өсімдіктер</strong>
-</td>
+<td>199.</td>
+<td>Хризантема өркенінің топсовирус некрозы</td>
+<td>Chrysanthemum stem necrosis tospovirus</td>
 </tr>
 <tr>
-<td>155.</td>
+<td>200.</td>
+<td>Хризантема ергежейлігінің вироиды</td>
+<td>Chrysanthemum stunt pospoviroid</td>
+</tr>
+<tr>
+<td>201.</td>
+<td>Картоптың сақиналы қара дақты неповирусы</td>
+<td>Potato black ringspot nepovirus</td>
+</tr>
+<tr>
+<td>202.</td>
+<td>Картоптың сары ергежейлігінің рабдовирусы</td>
+<td>Potato yellow dwarf nucleorhabdovirus</td>
+</tr>
+<tr>
+<td>203.</td>
+<td>Картоп жолақтары сарғаюының кринивирусы</td>
+<td>Potato yellow vein crinivirus</td>
+</tr>
+<tr>
+<td>204.</td>
+<td>Таңқурайдың сақина дақтарының неповирусы</td>
+<td>Raspberry ringspot nepovirus</td>
+</tr>
+<tr>
+<th colspan="3">6-параграф. Өсімдіктер</th>
+</tr>
+<tr>
+<td>205.</td>
 <td>Түкті итошаған</td>
 <td>Bidens pilosa L.</td>
 </tr>
 <tr>
-<td>156.</td>
+<td>206.</td>
 <td>Тікенекті сүттіген</td>
 <td>Euphorbia dentata Michx.</td>
 </tr>
 <tr>
-<td>157.</td>
+<td>207.</td>
 <td>Калифорния күнбағысы</td>
 <td>Helianthus californicus DC.</td>
 </tr>
 <tr>
-<td>158.</td>
+<td>208.</td>
 <td>Кірпікті күнбағыс</td>
 <td>Helianthus ciliaris DC.</td>
 </tr>
 <tr>
-<td>159.</td>
+<td>209.</td>
 <td>Масаты тектес шырмауықгүл</td>
 <td>Ipomoea hederacea L.</td>
 </tr>
 <tr>
-<td>160.</td>
+<td>210.</td>
 <td>Шұңқырлы шырмауықгүл</td>
 <td>Ipomoea lacunosa L.</td>
 </tr>
 <tr>
-<td>161.</td>
+<td>211.</td>
 <td>Қолтықты аюбадана</td>
 <td>Iva axillaris Pursh.</td>
 </tr>
 <tr>
-<td>162.</td>
+<td>212.</td>
 <td>Каролина алқасы</td>
 <td>Solanum carolinense L.</td>
 </tr>
 <tr>
-<td>163.</td>
+<td>213.</td>
 <td>Салалы жапырақты алқа</td>
 <td>Solanum elaeagnifolium Cav.</td>
 </tr>
 <tr>
-<td>164.</td>
+<td>214.</td>
 <td>Стригалар</td>
 <td>Striga spp.</td>
 </tr>
 <tr>
-<td>165.</td>
+<td>215.</td>
 <td>Үштармақ ойраншөп</td>
 <td>Ambrosia trifida L.</td>
 </tr>
 <tr>
-<td>166.</td>
+<td>216.</td>
 <td>Ұзын тікенекті ценхрус</td>
 <td>Cenchrus longispinus (Hack.) Fern</td>
 </tr>
 <tr>
-<td>167.</td>
+<td>217.</td>
 <td>Тікенекті алқа</td>
 <td>Solanum rostratum Dun.</td>
 </tr>
 <tr>
-<td>168.</td>
+<td>218.</td>
 <td>Үш гүлді алқа</td>
 <td>Solanum triflorum Nutt.</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>2-тарау. Қазақстан Республикасының аумағында шектеулі таралған карантиндік зиянды организмдер</strong>
-</td>
+<td>219.</td>
+<td>Қосқауырсынды итошаған</td>
+<td>Bidens bipinnata L.</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>1-параграф. Жәндіктер</strong>
-</td>
+<td>220.</td>
+<td>Бұрышты сициос</td>
+<td>Sicyos angulatus L.</td>
 </tr>
 <tr>
-<td>169.</td>
+<th colspan="3">2-тарау. Қазақстан Республикасының аумағында шектеулі таралған карантиндік зиянды организмдер</th>
+</tr>
+<tr>
+<th colspan="3">1-параграф. Жәндіктер</th>
+</tr>
+<tr>
+<td>221.</td>
 <td>Шығыс жеміс жемірі</td>
 <td>Grapholita molesta (Busck)</td>
 </tr>
 <tr>
-<td>170.</td>
+<td>222.</td>
 <td>Америкалық ақ көбелек</td>
 <td>Hyphantria cunea Drury</td>
 </tr>
 <tr>
-<td>171.</td>
+<td>223.</td>
 <td>Қарағайдың қара мұртты қоңызы</td>
 <td>Monochamus galloprovincialis (Olivier)</td>
 </tr>
 <tr>
-<td>172.</td>
+<td>224.</td>
 <td>Қауын шыбыны</td>
 <td>Myiopardalis pardalina (Bigot)</td>
 </tr>
 <tr>
-<td>173.</td>
+<td>225.</td>
 <td>Комсток сымыры</td>
 <td>Pseudococcus comstocki (Kuwana)</td>
 </tr>
 <tr>
-<td>174.</td>
+<td>226.</td>
 <td>Калифорниялық қалқаншалы сымыр</td>
 <td>Quadraspidiotus perniciosus Comst.</td>
 </tr>
 <tr>
-<td>175.</td>
+<td>227.</td>
 <td>Оңтүстік америкалық қызанақ күйесі</td>
 <td>Tuta absoluta (Povolny)</td>
 </tr>
 <tr>
-<td>176.</td>
+<td>228.</td>
 <td>Жұпсыз жібек көбелегінің азиялық кіші түрі (Lda)</td>
 <td>Lymantria dispar asiatica Vnukovskij</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>2-параграф. Жұмырқұрттар</strong>
-</td>
+<th colspan="3">2-параграф. Жұмырқұрттар</th>
 </tr>
 <tr>
-<td>177.</td>
+<td>229.</td>
 <td>Картоптың алтын түстес жұмырқұрты</td>
 <td>Globodera rostochiensis (Wollenweber) Behrens</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>3-параграф. Бактериялар мен фитоплазмалар</strong>
-</td>
+<th colspan="3">3-параграф. Бактериялар мен фитоплазмалар</th>
 </tr>
 <tr>
-<td>178.</td>
+<td>230.</td>
 <td>Жеміс ағаштарының бактериялық күйігі</td>
 <td>Erwinia amylovora (Burrill) Winslow et al.</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>4-параграф. Өсімдіктер</strong>
-</td>
+<th colspan="3">4-параграф. Өсімдіктер</th>
 </tr>
 <tr>
-<td>179.</td>
+<td>231.</td>
 <td>Жатаған (қызғылт) кекіре</td>
 <td>Acroptilon repens DC</td>
 </tr>
 <tr>
-<td>180.</td>
+<td>232.</td>
 <td>Жусан жапырақты ойраншөп</td>
 <td>Ambrosia artemisiifolia L.</td>
 </tr>
 <tr>
-<td>181.</td>
+<td>233.</td>
 <td>Көп жылдық ойраншөп</td>
 <td>Ambrosia psilostachya DC.</td>
 </tr>
 <tr>
-<td>182.</td>
+<td>234.</td>
 <td>Арам сояулар</td>
 <td>Cuscuta spp.</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>3-тарау. Қазақстан Республикасының аумағында жоқ бөтен текті түрлер</strong>
-</td>
+<th colspan="3">3-тарау. Қазақстан Республикасының аумағында жоқ бөтен текті түрлер</th>
 </tr>
 <tr>
-<td>183.</td>
+<td>235.</td>
 <td>Ерекше жүгері қоңызы</td>
 <td>Diabrotica speciosa Germer</td>
 </tr>
 <tr>
-<td>184.</td>
+<td>236.</td>
 <td>Оңтүстік жүгері қоңызы</td>
 <td>Diabrotica undecimpunctata howardi Barber</td>
 </tr>
