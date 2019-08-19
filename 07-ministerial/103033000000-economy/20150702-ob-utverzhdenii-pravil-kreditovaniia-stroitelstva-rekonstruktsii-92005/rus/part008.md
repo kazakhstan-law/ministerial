@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/92005/rus/05.09.2018
+source: https://zan.gov.kz/client/#!/doc/92005/rus/19.08.2019
 ---
 
 > *Приложение к форме,*  

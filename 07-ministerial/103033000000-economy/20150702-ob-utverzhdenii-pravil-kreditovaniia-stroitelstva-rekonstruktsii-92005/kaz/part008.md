@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/92005/kaz/05.09.2018
+source: https://zan.gov.kz/client/#!/doc/92005/kaz/19.08.2019
 ---
 
 > *Әкімшілік деректерді*  
