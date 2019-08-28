@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/96470/rus/15.08.2019
+source: https://zan.gov.kz/client/#!/doc/96470/rus/28.08.2019
 ---
 
 # Об утверждении Правил перевозок грузов автомобильным транспортом
