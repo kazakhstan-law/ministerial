@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/91818/rus/17.04.2019
+source: https://zan.gov.kz/client/#!/doc/91818/rus/02.09.2019
 ---
 
 # Об утверждении регламентов государственных услуг в области информации
