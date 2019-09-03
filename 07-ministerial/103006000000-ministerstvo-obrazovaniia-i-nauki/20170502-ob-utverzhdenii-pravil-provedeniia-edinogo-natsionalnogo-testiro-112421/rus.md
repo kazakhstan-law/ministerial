@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/112421/rus/30.04.2019
+source: https://zan.gov.kz/client/#!/doc/112421/rus/03.09.2019
 ---
 
 # Об утверждении Правил проведения единого национального тестирования
