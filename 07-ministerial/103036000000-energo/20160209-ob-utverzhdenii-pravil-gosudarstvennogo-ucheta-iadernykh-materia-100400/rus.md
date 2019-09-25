@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/100400/rus/16.11.2017
+source: https://zan.gov.kz/client/#!/doc/100400/rus/25.09.2019
 ---
 
 # Об утверждении Правил государственного учета ядерных материалов
