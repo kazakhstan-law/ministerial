@@ -1,5 +1,5 @@
 ---
-version_id: '126965_377763'
+version_id: '126965_425836'
 act_code: '126965'
 language: rus
 title: Об утверждении предельных тарифов на электрическую энергию
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103036000000'
 approval_date: 2018-12-14
-version_date: 2018-12-14
+version_date: 2019-10-01
 registry_number: '126965'
-source: https://zan.gov.kz/client/#!/doc/126965/rus/14.12.2018
+caused_by:
+  code: '134816'
+  title: О внесении изменения в приказ Министра энергетики Республики Казахстан от 14 декабря 2018 года № 514 «Об утверждении предельных тарифов на электрическую энергию»
+  link: https://zan.gov.kz/client/#!/doc/134816/rus
+source: https://zan.gov.kz/client/#!/doc/126965/rus/01.10.2019
 ---
 
 # Об утверждении предельных тарифов на электрическую энергию
@@ -44,24 +48,26 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/14.12.2018
 > *Утверждены*  
 > *приказом Министра энергетики*  
 > *Республики Казахстан*  
-> *от 14 декабря 2018 года*  
-> *№514*
+> *от 14 декабря 2018 года № 514*
 
 ## Предельные тарифы на электрическую энергию
+
+> *Сноска. Предельные тарифы в редакции приказа и.о. Министра энергетики РК от 23.09.2019 № 313 (вводится в действие с 01.10.2019).*
+
 
 > *тенге/кВтч*
 
 <table>
 <tr>
 <td rowspan="2">Группа энергопроизводящих организаций, реализующих электрическую энергию</td>
-<td colspan="7">Предельные тарифы на электрическую энергию по годам</td>
+<td colspan="8">Предельные тарифы на электрическую энергию по годам</td>
 </tr>
 <tr>
 <td>2019 год</td>
 <td>2020 год</td>
 <td>2021 год</td>
 <td>2022 год</td>
-<td>2023 год</td>
+<td colspan="2">2023 год</td>
 <td>2024 год</td>
 <td>2025 год</td>
 </tr>
@@ -71,39 +77,39 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/14.12.2018
 <td>5,76</td>
 <td>5,76</td>
 <td>5,76</td>
-<td>5,76</td>
+<td colspan="2">5,76</td>
 <td>5,76</td>
 <td>5,76</td>
 </tr>
 <tr>
 <td>2-группа</td>
-<td>4,05</td>
-<td>4,05</td>
-<td>4,05</td>
-<td>4,05</td>
-<td>4,05</td>
-<td>4,05</td>
-<td>4,05</td>
+<td>4,5</td>
+<td>4,5</td>
+<td>4,5</td>
+<td>4,5</td>
+<td colspan="2">4,5</td>
+<td>4,5</td>
+<td>4,5</td>
 </tr>
 <tr>
 <td>3-группа</td>
-<td>7,31</td>
-<td>7,31</td>
-<td>7,31</td>
-<td>7,31</td>
-<td>7,31</td>
-<td>7,31</td>
-<td>7,31</td>
+<td>7,73</td>
+<td>7,73</td>
+<td>7,73</td>
+<td>7,73</td>
+<td colspan="2">7,73</td>
+<td>7,73</td>
+<td>7,73</td>
 </tr>
 <tr>
 <td>4-группа</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
+<td>5,83</td>
+<td>5,83</td>
+<td>5,83</td>
+<td>5,83</td>
+<td colspan="2">5,83</td>
+<td>5,83</td>
+<td>5,83</td>
 </tr>
 <tr>
 <td>5-группа</td>
@@ -111,139 +117,139 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/14.12.2018
 <td>8,1</td>
 <td>8,1</td>
 <td>8,1</td>
-<td>8,1</td>
+<td colspan="2">8,1</td>
 <td>8,1</td>
 <td>8,1</td>
 </tr>
 <tr>
 <td>6-группа</td>
-<td>5,88</td>
-<td>5,88</td>
-<td>5,88</td>
-<td>5,88</td>
-<td>5,88</td>
-<td>5,88</td>
-<td>5,88</td>
+<td>6,7</td>
+<td>6,7</td>
+<td>6,7</td>
+<td>6,7</td>
+<td colspan="2">6,7</td>
+<td>6,7</td>
+<td>6,7</td>
 </tr>
 <tr>
 <td>7-группа</td>
-<td>5,69</td>
-<td>5,69</td>
-<td>5,69</td>
-<td>5,69</td>
-<td>5,69</td>
-<td>5,69</td>
-<td>5,69</td>
+<td>6,44</td>
+<td>6,44</td>
+<td>6,44</td>
+<td>6,44</td>
+<td colspan="2">6,44</td>
+<td>6,44</td>
+<td>6,44</td>
 </tr>
 <tr>
 <td>8-группа</td>
-<td>6,48</td>
-<td>6,48</td>
-<td>6,48</td>
-<td>6,48</td>
-<td>6,48</td>
-<td>6,48</td>
-<td>6,48</td>
+<td>6,7</td>
+<td>6,7</td>
+<td>6,7</td>
+<td>6,7</td>
+<td colspan="2">6,7</td>
+<td>6,7</td>
+<td>6,7</td>
 </tr>
 <tr>
 <td>9-группа</td>
-<td>4,87</td>
-<td>4,87</td>
-<td>4,87</td>
-<td>4,87</td>
-<td>4,87</td>
-<td>4,87</td>
-<td>4,87</td>
+<td>5,06</td>
+<td>5,06</td>
+<td>5,06</td>
+<td>5,06</td>
+<td colspan="2">5,06</td>
+<td>5,06</td>
+<td>5,06</td>
 </tr>
 <tr>
 <td>10-группа</td>
-<td>6,1</td>
-<td>6,1</td>
-<td>6,1</td>
-<td>6,1</td>
-<td>6,1</td>
-<td>6,1</td>
-<td>6,1</td>
+<td>6,6</td>
+<td>6,6</td>
+<td>6,6</td>
+<td>6,6</td>
+<td colspan="2">6,6</td>
+<td>6,6</td>
+<td>6,6</td>
 </tr>
 <tr>
 <td>11-группа</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td colspan="2">7</td>
+<td>7</td>
+<td>7</td>
 </tr>
 <tr>
 <td>12-группа</td>
-<td>3,5</td>
-<td>3,5</td>
-<td>3,5</td>
-<td>3,5</td>
-<td>3,5</td>
-<td>3,5</td>
-<td>3,5</td>
+<td>4,03</td>
+<td>4,03</td>
+<td>4,03</td>
+<td>4,03</td>
+<td colspan="2">4,03</td>
+<td>4,03</td>
+<td>4,03</td>
 </tr>
 <tr>
 <td>13-группа</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
+<td>8,42</td>
+<td>8,42</td>
+<td>8,42</td>
+<td>8,42</td>
+<td colspan="2">8,42</td>
+<td>8,42</td>
+<td>8,42</td>
 </tr>
 <tr>
 <td>14-группа</td>
-<td>6,78</td>
-<td>6,78</td>
-<td>6,78</td>
-<td>6,78</td>
-<td>6,78</td>
-<td>6,78</td>
-<td>6,78</td>
+<td>7,8</td>
+<td>7,8</td>
+<td>7,8</td>
+<td>7,8</td>
+<td colspan="2">7,8</td>
+<td>7,8</td>
+<td>7,8</td>
 </tr>
 <tr>
 <td>15-группа</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
+<td>8,2</td>
+<td>8,2</td>
+<td>8,2</td>
+<td>8,2</td>
+<td colspan="2">8,2</td>
+<td>8,2</td>
+<td>8,2</td>
 </tr>
 <tr>
 <td>16-группа</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
+<td>7,57</td>
+<td>7,57</td>
+<td>7,57</td>
+<td>7,57</td>
+<td colspan="2">7,57</td>
+<td>7,57</td>
+<td>7,57</td>
 </tr>
 <tr>
 <td>17-группа</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
+<td>10,2</td>
+<td>10,2</td>
+<td>10,2</td>
+<td>10,2</td>
+<td colspan="2">10,2</td>
+<td>10,2</td>
+<td>10,2</td>
 </tr>
 <tr>
 <td>18-группа</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td colspan="2">8</td>
+<td>8</td>
+<td>8</td>
 </tr>
 <tr>
 <td>19-группа</td>
@@ -251,39 +257,39 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/14.12.2018
 <td>6,3</td>
 <td>6,3</td>
 <td>6,3</td>
-<td>6,3</td>
+<td colspan="2">6,3</td>
 <td>6,3</td>
 <td>6,3</td>
 </tr>
 <tr>
 <td>20-группа</td>
-<td>6,06</td>
-<td>6,06</td>
-<td>6,06</td>
-<td>6,06</td>
-<td>6,06</td>
-<td>6,06</td>
-<td>6,06</td>
+<td>6,82</td>
+<td>6,82</td>
+<td>6,82</td>
+<td>6,82</td>
+<td colspan="2">6,82</td>
+<td>6,82</td>
+<td>6,82</td>
 </tr>
 <tr>
 <td>21-группа</td>
-<td>6,04</td>
-<td>6,04</td>
-<td>6,04</td>
-<td>6,04</td>
-<td>6,04</td>
-<td>6,04</td>
-<td>6,04</td>
+<td>6,54</td>
+<td>6,54</td>
+<td>6,54</td>
+<td>6,54</td>
+<td colspan="2">6,54</td>
+<td>6,54</td>
+<td>6,54</td>
 </tr>
 <tr>
 <td>22-группа</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
+<td>7,3</td>
+<td>7,3</td>
+<td>7,3</td>
+<td>7,3</td>
+<td colspan="2">7,3</td>
+<td>7,3</td>
+<td>7,3</td>
 </tr>
 <tr>
 <td>23-группа</td>
@@ -291,49 +297,49 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/14.12.2018
 <td>6,4</td>
 <td>6,4</td>
 <td>6,4</td>
-<td>6,4</td>
+<td colspan="2">6,4</td>
 <td>6,4</td>
 <td>6,4</td>
 </tr>
 <tr>
 <td>24-группа</td>
-<td>5,82</td>
-<td>5,82</td>
-<td>5,82</td>
-<td>5,82</td>
-<td>5,82</td>
-<td>5,82</td>
-<td>5,82</td>
+<td>6,33</td>
+<td>6,33</td>
+<td>6,33</td>
+<td>6,33</td>
+<td colspan="2">6,33</td>
+<td>6,33</td>
+<td>6,33</td>
 </tr>
 <tr>
 <td>25-группа</td>
-<td>5,99</td>
-<td>5,99</td>
-<td>5,99</td>
-<td>5,99</td>
-<td>5,99</td>
-<td>5,99</td>
-<td>5,99</td>
+<td>6,57</td>
+<td>6,57</td>
+<td>6,57</td>
+<td>6,57</td>
+<td colspan="2">6,57</td>
+<td>6,57</td>
+<td>6,57</td>
 </tr>
 <tr>
 <td>26-группа</td>
-<td>8,33</td>
-<td>8,33</td>
-<td>8,33</td>
-<td>8,33</td>
-<td>8,33</td>
-<td>8,33</td>
-<td>8,33</td>
+<td>8,7</td>
+<td>8,7</td>
+<td>8,7</td>
+<td>8,7</td>
+<td colspan="2">8,7</td>
+<td>8,7</td>
+<td>8,7</td>
 </tr>
 <tr>
 <td>27-группа</td>
-<td>11,64</td>
-<td>11,64</td>
-<td>11,64</td>
-<td>11,64</td>
-<td>11,64</td>
-<td>11,64</td>
-<td>11,64</td>
+<td>12,12</td>
+<td>12,12</td>
+<td>12,12</td>
+<td>12,12</td>
+<td colspan="2">12,12</td>
+<td>12,12</td>
+<td>12,12</td>
 </tr>
 <tr>
 <td>28-группа</td>
@@ -341,7 +347,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/14.12.2018
 <td>8,95</td>
 <td>8,95</td>
 <td>8,95</td>
-<td>8,95</td>
+<td colspan="2">8,95</td>
 <td>8,95</td>
 <td>8,95</td>
 </tr>
@@ -351,7 +357,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/14.12.2018
 <td>10,55</td>
 <td>10,55</td>
 <td>10,55</td>
-<td>10,55</td>
+<td colspan="2">10,55</td>
 <td>10,55</td>
 <td>10,55</td>
 </tr>
@@ -361,19 +367,19 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/14.12.2018
 <td>7,6</td>
 <td>7,6</td>
 <td>7,6</td>
-<td>7,6</td>
+<td colspan="2">7,6</td>
 <td>7,6</td>
 <td>7,6</td>
 </tr>
 <tr>
 <td>31-группа</td>
-<td>8,73</td>
-<td>8,73</td>
-<td>8,73</td>
-<td>8,73</td>
-<td>8,73</td>
-<td>8,73</td>
-<td>8,73</td>
+<td>8,94</td>
+<td>8,94</td>
+<td>8,94</td>
+<td>8,94</td>
+<td colspan="2">8,94</td>
+<td>8,94</td>
+<td>8,94</td>
 </tr>
 <tr>
 <td>32-группа</td>
@@ -381,79 +387,79 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/14.12.2018
 <td>1,1</td>
 <td>1,1</td>
 <td>1,1</td>
-<td>1,1</td>
+<td colspan="2">1,1</td>
 <td>1,1</td>
 <td>1,1</td>
 </tr>
 <tr>
 <td>33-группа</td>
-<td>2,26</td>
-<td>2,26</td>
-<td>2,26</td>
-<td>2,26</td>
-<td>2,26</td>
-<td>2,26</td>
-<td>2,26</td>
+<td>2,43</td>
+<td>2,43</td>
+<td>2,43</td>
+<td>2,43</td>
+<td colspan="2">2,43</td>
+<td>2,43</td>
+<td>2,43</td>
 </tr>
 <tr>
 <td>34-группа</td>
-<td>1,78</td>
-<td>1,78</td>
-<td>1,78</td>
-<td>1,78</td>
-<td>1,78</td>
-<td>1,78</td>
-<td>1,78</td>
+<td>1,86</td>
+<td>1,86</td>
+<td>1,86</td>
+<td>1,86</td>
+<td colspan="2">1,86</td>
+<td>1,86</td>
+<td>1,86</td>
 </tr>
 <tr>
 <td>35-группа</td>
-<td>3,25</td>
-<td>3,25</td>
-<td>3,25</td>
-<td>3,25</td>
-<td>3,25</td>
-<td>3,25</td>
-<td>3,25</td>
+<td>8,72</td>
+<td>8,72</td>
+<td>8,72</td>
+<td>8,72</td>
+<td colspan="2">8,72</td>
+<td>8,72</td>
+<td>8,72</td>
 </tr>
 <tr>
 <td>36-группа</td>
-<td>7,14</td>
-<td>7,14</td>
-<td>7,14</td>
-<td>7,14</td>
-<td>7,14</td>
-<td>7,14</td>
-<td>7,14</td>
+<td>12,02</td>
+<td>12,02</td>
+<td>12,02</td>
+<td>12,02</td>
+<td colspan="2">12,02</td>
+<td>12,02</td>
+<td>12,02</td>
 </tr>
 <tr>
 <td>37-группа</td>
-<td>7,78</td>
-<td>7,78</td>
-<td>7,78</td>
-<td>7,78</td>
-<td>7,78</td>
-<td>7,78</td>
-<td>7,78</td>
+<td>8,78</td>
+<td>8,78</td>
+<td>8,78</td>
+<td>8,78</td>
+<td colspan="2">8,78</td>
+<td>8,78</td>
+<td>8,78</td>
 </tr>
 <tr>
 <td>38-группа</td>
-<td>9,4</td>
-<td>9,4</td>
-<td>9,4</td>
-<td>9,4</td>
-<td>9,4</td>
-<td>9,4</td>
-<td>9,4</td>
+<td>13,68</td>
+<td>13,68</td>
+<td>13,68</td>
+<td>13,68</td>
+<td colspan="2">13,68</td>
+<td>13,68</td>
+<td>13,68</td>
 </tr>
 <tr>
 <td>39-группа</td>
-<td>9,89</td>
-<td>9,89</td>
-<td>9,89</td>
-<td>9,89</td>
-<td>9,89</td>
-<td>9,89</td>
-<td>9,89</td>
+<td>10,02</td>
+<td>10,02</td>
+<td>10,02</td>
+<td>10,02</td>
+<td colspan="2">10,02</td>
+<td>10,02</td>
+<td>10,02</td>
 </tr>
 <tr>
 <td>40-группа</td>
@@ -461,7 +467,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/14.12.2018
 <td>9,24</td>
 <td>9,24</td>
 <td>9,24</td>
-<td>9,24</td>
+<td colspan="2">9,24</td>
 <td>9,24</td>
 <td>9,24</td>
 </tr>
@@ -471,28 +477,38 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/14.12.2018
 <td>8,76</td>
 <td>8,76</td>
 <td>8,76</td>
-<td>8,76</td>
+<td colspan="2">8,76</td>
 <td>8,76</td>
 <td>8,76</td>
 </tr>
 <tr>
 <td>42-группа</td>
-<td>10,8</td>
-<td>10,8</td>
-<td>10,8</td>
-<td>10,8</td>
-<td>10,8</td>
-<td>10,8</td>
-<td>10,8</td>
+<td>11,38</td>
+<td>11,38</td>
+<td>11,38</td>
+<td>11,38</td>
+<td colspan="2">11,38</td>
+<td>11,38</td>
+<td>11,38</td>
 </tr>
 <tr>
 <td>43-группа</td>
-<td>7,0</td>
-<td>7,0</td>
-<td>7,0</td>
-<td>7,0</td>
-<td>7,0</td>
-<td>7,0</td>
-<td>7,0</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td colspan="2">7</td>
+<td>7</td>
+<td>7</td>
+</tr>
+<tr>
+<td>44-группа</td>
+<td>7,39</td>
+<td>7,39</td>
+<td>7,39</td>
+<td>7,39</td>
+<td colspan="2">7,39</td>
+<td>7,39</td>
+<td>7,39</td>
 </tr>
 </table>
