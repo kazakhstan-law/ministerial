@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/126965/kaz/14.12.2018
+source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.10.2019
 ---
 
 # Электр энергиясына шекті тарифтерді бекіту туралы
@@ -35,19 +35,21 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/14.12.2018
 
 ## Электр энергиясына шекті тарифтер
 
+> *Ескерту. Шекті тарифтер жаңа редакцияда - ҚР Энергетика министрінің м.а. 23.09.2019 № 313 (01.10.2019 бастап қолданысқа енгізіледі) бұйрығымен.*
+
 > *теңге/кВтсағ*
 
 <table>
 <tr>
 <td rowspan="2">Электр энергиясын сататын энергия өндіруші ұйымдар тобы</td>
-<td colspan="7">Жылдар бойынша электр энергиясына шекті тарифтер</td>
+<td colspan="8">Жылдар бойынша электр энергиясына шекті тарифтер</td>
 </tr>
 <tr>
 <td>2019 жыл</td>
 <td>2020 жыл</td>
 <td>2021 жыл</td>
 <td>2022 жыл</td>
-<td>2023 жыл</td>
+<td colspan="2">2023 жыл</td>
 <td>2024 жыл</td>
 <td>2025 жыл</td>
 </tr>
@@ -57,428 +59,438 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/14.12.2018
 <td>5,76</td>
 <td>5,76</td>
 <td>5,76</td>
+<td colspan="2">5,76</td>
 <td>5,76</td>
 <td>5,76</td>
-<td>5,76</td>
 </tr>
 <tr>
-<td>2- топ</td>
-<td>4,05</td>
-<td>4,05</td>
-<td>4,05</td>
-<td>4,05</td>
-<td>4,05</td>
-<td>4,05</td>
-<td>4,05</td>
+<td>2-топ</td>
+<td>4,5</td>
+<td>4,5</td>
+<td>4,5</td>
+<td>4,5</td>
+<td colspan="2">4,5</td>
+<td>4,5</td>
+<td>4,5</td>
 </tr>
 <tr>
-<td>3- топ</td>
-<td>7,31</td>
-<td>7,31</td>
-<td>7,31</td>
-<td>7,31</td>
-<td>7,31</td>
-<td>7,31</td>
-<td>7,31</td>
+<td>3-топ</td>
+<td>7,73</td>
+<td>7,73</td>
+<td>7,73</td>
+<td>7,73</td>
+<td colspan="2">7,73</td>
+<td>7,73</td>
+<td>7,73</td>
 </tr>
 <tr>
-<td>4- топ</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
+<td>4-топ</td>
+<td>5,83</td>
+<td>5,83</td>
+<td>5,83</td>
+<td>5,83</td>
+<td colspan="2">5,83</td>
+<td>5,83</td>
+<td>5,83</td>
 </tr>
 <tr>
-<td>5- топ</td>
+<td>5-топ</td>
 <td>8,1</td>
 <td>8,1</td>
 <td>8,1</td>
 <td>8,1</td>
+<td colspan="2">8,1</td>
 <td>8,1</td>
 <td>8,1</td>
-<td>8,1</td>
 </tr>
 <tr>
-<td>6- топ</td>
-<td>5,88</td>
-<td>5,88</td>
-<td>5,88</td>
-<td>5,88</td>
-<td>5,88</td>
-<td>5,88</td>
-<td>5,88</td>
+<td>6-топ</td>
+<td>6,7</td>
+<td>6,7</td>
+<td>6,7</td>
+<td>6,7</td>
+<td colspan="2">6,7</td>
+<td>6,7</td>
+<td>6,7</td>
 </tr>
 <tr>
-<td>7- топ</td>
-<td>5,69</td>
-<td>5,69</td>
-<td>5,69</td>
-<td>5,69</td>
-<td>5,69</td>
-<td>5,69</td>
-<td>5,69</td>
+<td>7-топ</td>
+<td>6,44</td>
+<td>6,44</td>
+<td>6,44</td>
+<td>6,44</td>
+<td colspan="2">6,44</td>
+<td>6,44</td>
+<td>6,44</td>
 </tr>
 <tr>
-<td>8- топ</td>
-<td>6,48</td>
-<td>6,48</td>
-<td>6,48</td>
-<td>6,48</td>
-<td>6,48</td>
-<td>6,48</td>
-<td>6,48</td>
+<td>8-топ</td>
+<td>6,7</td>
+<td>6,7</td>
+<td>6,7</td>
+<td>6,7</td>
+<td colspan="2">6,7</td>
+<td>6,7</td>
+<td>6,7</td>
 </tr>
 <tr>
-<td>9- топ</td>
-<td>4,87</td>
-<td>4,87</td>
-<td>4,87</td>
-<td>4,87</td>
-<td>4,87</td>
-<td>4,87</td>
-<td>4,87</td>
+<td>9-топ</td>
+<td>5,06</td>
+<td>5,06</td>
+<td>5,06</td>
+<td>5,06</td>
+<td colspan="2">5,06</td>
+<td>5,06</td>
+<td>5,06</td>
 </tr>
 <tr>
-<td>10- топ</td>
-<td>6,1</td>
-<td>6,1</td>
-<td>6,1</td>
-<td>6,1</td>
-<td>6,1</td>
-<td>6,1</td>
-<td>6,1</td>
+<td>10-топ</td>
+<td>6,6</td>
+<td>6,6</td>
+<td>6,6</td>
+<td>6,6</td>
+<td colspan="2">6,6</td>
+<td>6,6</td>
+<td>6,6</td>
 </tr>
 <tr>
-<td>11- топ</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
+<td>11-топ</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td colspan="2">7</td>
+<td>7</td>
+<td>7</td>
 </tr>
 <tr>
-<td>12- топ</td>
-<td>3,5</td>
-<td>3,5</td>
-<td>3,5</td>
-<td>3,5</td>
-<td>3,5</td>
-<td>3,5</td>
-<td>3,5</td>
+<td>12-топ</td>
+<td>4,03</td>
+<td>4,03</td>
+<td>4,03</td>
+<td>4,03</td>
+<td colspan="2">4,03</td>
+<td>4,03</td>
+<td>4,03</td>
 </tr>
 <tr>
-<td>13- топ</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
-<td>4,8</td>
+<td>13-топ</td>
+<td>8,42</td>
+<td>8,42</td>
+<td>8,42</td>
+<td>8,42</td>
+<td colspan="2">8,42</td>
+<td>8,42</td>
+<td>8,42</td>
 </tr>
 <tr>
 <td>14- топ</td>
-<td>6,78</td>
-<td>6,78</td>
-<td>6,78</td>
-<td>6,78</td>
-<td>6,78</td>
-<td>6,78</td>
-<td>6,78</td>
+<td>7,8</td>
+<td>7,8</td>
+<td>7,8</td>
+<td>7,8</td>
+<td colspan="2">7,8</td>
+<td>7,8</td>
+<td>7,8</td>
 </tr>
 <tr>
-<td>15- топ</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
+<td>15-топ</td>
+<td>8,2</td>
+<td>8,2</td>
+<td>8,2</td>
+<td>8,2</td>
+<td colspan="2">8,2</td>
+<td>8,2</td>
+<td>8,2</td>
 </tr>
 <tr>
-<td>16- топ</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
+<td>16-топ</td>
+<td>7,57</td>
+<td>7,57</td>
+<td>7,57</td>
+<td>7,57</td>
+<td colspan="2">7,57</td>
+<td>7,57</td>
+<td>7,57</td>
 </tr>
 <tr>
-<td>17- топ</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
+<td>17-топ</td>
+<td>10,2</td>
+<td>10,2</td>
+<td>10,2</td>
+<td>10,2</td>
+<td colspan="2">10,2</td>
+<td>10,2</td>
+<td>10,2</td>
 </tr>
 <tr>
-<td>18- топ</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
-<td>7,1</td>
+<td>18-топ</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td colspan="2">8</td>
+<td>8</td>
+<td>8</td>
 </tr>
 <tr>
-<td>19- топ</td>
+<td>19-топ</td>
 <td>6,3</td>
 <td>6,3</td>
 <td>6,3</td>
 <td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-</tr>
-<tr>
-<td>20- топ</td>
-<td>6,06</td>
-<td>6,06</td>
-<td>6,06</td>
-<td>6,06</td>
-<td>6,06</td>
-<td>6,06</td>
-<td>6,06</td>
-</tr>
-<tr>
-<td>21- топ</td>
-<td>6,04</td>
-<td>6,04</td>
-<td>6,04</td>
-<td>6,04</td>
-<td>6,04</td>
-<td>6,04</td>
-<td>6,04</td>
-</tr>
-<tr>
-<td>22- топ</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
-<td>6,3</td>
+<td colspan="2">6,3</td>
 <td>6,3</td>
 <td>6,3</td>
 </tr>
 <tr>
-<td>23- топ</td>
+<td>20-топ</td>
+<td>6,82</td>
+<td>6,82</td>
+<td>6,82</td>
+<td>6,82</td>
+<td colspan="2">6,82</td>
+<td>6,82</td>
+<td>6,82</td>
+</tr>
+<tr>
+<td>21-топ</td>
+<td>6,54</td>
+<td>6,54</td>
+<td>6,54</td>
+<td>6,54</td>
+<td colspan="2">6,54</td>
+<td>6,54</td>
+<td>6,54</td>
+</tr>
+<tr>
+<td>22-топ</td>
+<td>7,3</td>
+<td>7,3</td>
+<td>7,3</td>
+<td>7,3</td>
+<td colspan="2">7,3</td>
+<td>7,3</td>
+<td>7,3</td>
+</tr>
+<tr>
+<td>23-топ</td>
 <td>6,4</td>
 <td>6,4</td>
 <td>6,4</td>
 <td>6,4</td>
+<td colspan="2">6,4</td>
 <td>6,4</td>
 <td>6,4</td>
-<td>6,4</td>
 </tr>
 <tr>
-<td>24- топ</td>
-<td>5,82</td>
-<td>5,82</td>
-<td>5,82</td>
-<td>5,82</td>
-<td>5,82</td>
-<td>5,82</td>
-<td>5,82</td>
+<td>24-топ</td>
+<td>6,33</td>
+<td>6,33</td>
+<td>6,33</td>
+<td>6,33</td>
+<td colspan="2">6,33</td>
+<td>6,33</td>
+<td>6,33</td>
 </tr>
 <tr>
-<td>25- топ</td>
-<td>5,99</td>
-<td>5,99</td>
-<td>5,99</td>
-<td>5,99</td>
-<td>5,99</td>
-<td>5,99</td>
-<td>5,99</td>
+<td>25-топ</td>
+<td>6,57</td>
+<td>6,57</td>
+<td>6,57</td>
+<td>6,57</td>
+<td colspan="2">6,57</td>
+<td>6,57</td>
+<td>6,57</td>
 </tr>
 <tr>
-<td>26- топ</td>
-<td>8,33</td>
-<td>8,33</td>
-<td>8,33</td>
-<td>8,33</td>
-<td>8,33</td>
-<td>8,33</td>
-<td>8,33</td>
+<td>26-топ</td>
+<td>8,7</td>
+<td>8,7</td>
+<td>8,7</td>
+<td>8,7</td>
+<td colspan="2">8,7</td>
+<td>8,7</td>
+<td>8,7</td>
 </tr>
 <tr>
-<td>27- топ</td>
-<td>11,64</td>
-<td>11,64</td>
-<td>11,64</td>
-<td>11,64</td>
-<td>11,64</td>
-<td>11,64</td>
-<td>11,64</td>
+<td>27-топ</td>
+<td>12,12</td>
+<td>12,12</td>
+<td>12,12</td>
+<td>12,12</td>
+<td colspan="2">12,12</td>
+<td>12,12</td>
+<td>12,12</td>
 </tr>
 <tr>
-<td>28- топ</td>
+<td>28-топ</td>
 <td>8,95</td>
 <td>8,95</td>
 <td>8,95</td>
 <td>8,95</td>
+<td colspan="2">8,95</td>
 <td>8,95</td>
 <td>8,95</td>
-<td>8,95</td>
 </tr>
 <tr>
-<td>29- топ</td>
+<td>29-топ</td>
 <td>10,55</td>
 <td>10,55</td>
 <td>10,55</td>
 <td>10,55</td>
+<td colspan="2">10,55</td>
 <td>10,55</td>
 <td>10,55</td>
-<td>10,55</td>
 </tr>
 <tr>
-<td>30- топ</td>
+<td>30-топ</td>
 <td>7,6</td>
 <td>7,6</td>
 <td>7,6</td>
 <td>7,6</td>
+<td colspan="2">7,6</td>
 <td>7,6</td>
 <td>7,6</td>
-<td>7,6</td>
 </tr>
 <tr>
-<td>31- топ</td>
-<td>8,73</td>
-<td>8,73</td>
-<td>8,73</td>
-<td>8,73</td>
-<td>8,73</td>
-<td>8,73</td>
-<td>8,73</td>
+<td>31-топ</td>
+<td>8,94</td>
+<td>8,94</td>
+<td>8,94</td>
+<td>8,94</td>
+<td colspan="2">8,94</td>
+<td>8,94</td>
+<td>8,94</td>
 </tr>
 <tr>
-<td>32- топ</td>
+<td>32-топ</td>
 <td>1,1</td>
 <td>1,1</td>
 <td>1,1</td>
 <td>1,1</td>
+<td colspan="2">1,1</td>
 <td>1,1</td>
 <td>1,1</td>
-<td>1,1</td>
 </tr>
 <tr>
-<td>33- топ</td>
-<td>2,26</td>
-<td>2,26</td>
-<td>2,26</td>
-<td>2,26</td>
-<td>2,26</td>
-<td>2,26</td>
-<td>2,26</td>
+<td>33-топ</td>
+<td>2,43</td>
+<td>2,43</td>
+<td>2,43</td>
+<td>2,43</td>
+<td colspan="2">2,43</td>
+<td>2,43</td>
+<td>2,43</td>
 </tr>
 <tr>
-<td>34- топ</td>
-<td>1,78</td>
-<td>1,78</td>
-<td>1,78</td>
-<td>1,78</td>
-<td>1,78</td>
-<td>1,78</td>
-<td>1,78</td>
+<td>34-топ</td>
+<td>1,86</td>
+<td>1,86</td>
+<td>1,86</td>
+<td>1,86</td>
+<td colspan="2">1,86</td>
+<td>1,86</td>
+<td>1,86</td>
 </tr>
 <tr>
-<td>35- топ</td>
-<td>3,25</td>
-<td>3,25</td>
-<td>3,25</td>
-<td>3,25</td>
-<td>3,25</td>
-<td>3,25</td>
-<td>3,25</td>
+<td>35-топ</td>
+<td>8,72</td>
+<td>8,72</td>
+<td>8,72</td>
+<td>8,72</td>
+<td colspan="2">8,72</td>
+<td>8,72</td>
+<td>8,72</td>
 </tr>
 <tr>
-<td>36- топ</td>
-<td>7,14</td>
-<td>7,14</td>
-<td>7,14</td>
-<td>7,14</td>
-<td>7,14</td>
-<td>7,14</td>
-<td>7,14</td>
+<td>36-топ</td>
+<td>12,02</td>
+<td>12,02</td>
+<td>12,02</td>
+<td>12,02</td>
+<td colspan="2">12,02</td>
+<td>12,02</td>
+<td>12,02</td>
 </tr>
 <tr>
-<td>37- топ</td>
-<td>7,78</td>
-<td>7,78</td>
-<td>7,78</td>
-<td>7,78</td>
-<td>7,78</td>
-<td>7,78</td>
-<td>7,78</td>
+<td>37-топ</td>
+<td>8,78</td>
+<td>8,78</td>
+<td>8,78</td>
+<td>8,78</td>
+<td colspan="2">8,78</td>
+<td>8,78</td>
+<td>8,78</td>
 </tr>
 <tr>
-<td>38- топ</td>
-<td>9,4</td>
-<td>9,4</td>
-<td>9,4</td>
-<td>9,4</td>
-<td>9,4</td>
-<td>9,4</td>
-<td>9,4</td>
+<td>38-топ</td>
+<td>13,68</td>
+<td>13,68</td>
+<td>13,68</td>
+<td>13,68</td>
+<td colspan="2">13,68</td>
+<td>13,68</td>
+<td>13,68</td>
 </tr>
 <tr>
-<td>39- топ</td>
-<td>9,89</td>
-<td>9,89</td>
-<td>9,89</td>
-<td>9,89</td>
-<td>9,89</td>
-<td>9,89</td>
-<td>9,89</td>
+<td>39-топ</td>
+<td>10,02</td>
+<td>10,02</td>
+<td>10,02</td>
+<td>10,02</td>
+<td colspan="2">10,02</td>
+<td>10,02</td>
+<td>10,02</td>
 </tr>
 <tr>
-<td>40- топ</td>
+<td>40-топ</td>
 <td>9,24</td>
 <td>9,24</td>
 <td>9,24</td>
 <td>9,24</td>
-<td>9,24</td>
+<td colspan="2">9,24</td>
 <td>9,24</td>
 <td>9,24</td>
 </tr>
 <tr>
-<td>41- топ</td>
+<td>41-топ</td>
 <td>8,76</td>
 <td>8,76</td>
 <td>8,76</td>
 <td>8,76</td>
-<td>8,76</td>
+<td colspan="2">8,76</td>
 <td>8,76</td>
 <td>8,76</td>
 </tr>
 <tr>
-<td>42- топ</td>
-<td>10,8</td>
-<td>10,8</td>
-<td>10,8</td>
-<td>10,8</td>
-<td>10,8</td>
-<td>10,8</td>
-<td>10,8</td>
+<td>42-топ</td>
+<td>11,38</td>
+<td>11,38</td>
+<td>11,38</td>
+<td>11,38</td>
+<td colspan="2">11,38</td>
+<td>11,38</td>
+<td>11,38</td>
 </tr>
 <tr>
-<td>43- топ</td>
-<td>7,0</td>
-<td>7,0</td>
-<td>7,0</td>
-<td>7,0</td>
-<td>7,0</td>
-<td>7,0</td>
-<td>7,0</td>
+<td>43-топ</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td colspan="2">7</td>
+<td>7</td>
+<td>7</td>
+</tr>
+<tr>
+<td>44-топ</td>
+<td>7,39</td>
+<td>7,39</td>
+<td>7,39</td>
+<td>7,39</td>
+<td colspan="2">7,39</td>
+<td>7,39</td>
+<td>7,39</td>
 </tr>
 </table>
