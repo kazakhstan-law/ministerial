@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/108626/rus/13.12.2018
+source: https://zan.gov.kz/client/#!/doc/108626/rus/30.10.2019
 ---
 
 # Об утверждении Инструкции по проведению бюджетного мониторинга
