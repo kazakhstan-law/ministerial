@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/102109/rus/22.02.2016
+source: https://zan.gov.kz/client/#!/doc/102109/rus/11.11.2019
 ---
 
 # Об утверждении Правил транспортировки ядерных материалов

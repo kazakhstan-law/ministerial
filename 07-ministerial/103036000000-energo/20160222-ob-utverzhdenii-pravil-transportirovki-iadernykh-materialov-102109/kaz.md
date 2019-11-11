@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/102109/kaz/22.02.2016
+source: https://zan.gov.kz/client/#!/doc/102109/kaz/11.11.2019
 ---
 
 # Ядролық материалдарды тасымалдау қағидаларын бекіту туралы
