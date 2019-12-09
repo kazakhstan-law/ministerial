@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/111748/kaz/06.01.2017
+source: https://zan.gov.kz/client/#!/doc/111748/kaz/09.12.2019
 ---
 
 > *Жылу желілеріне энергетикалық*  
