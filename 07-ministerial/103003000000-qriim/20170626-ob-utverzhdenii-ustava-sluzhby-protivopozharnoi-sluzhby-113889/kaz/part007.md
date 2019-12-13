@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/113889/kaz/26.06.2017
+source: https://zan.gov.kz/client/#!/doc/113889/kaz/13.12.2019
 ---
 
 > *Өртке қарсы қызметтің жұмыс*  
