@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49608/rus/11.04.2019
+source: https://zan.gov.kz/client/#!/doc/49608/rus/19.12.2019
 ---
 
 ## Подраздел 18. Специалист лаборатории
