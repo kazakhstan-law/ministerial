@@ -11,11 +11,11 @@ approved_on: 2015-01-23
 approved_by:
 - '103035000000'
 version_date:
-  kaz: 2018-05-05
-  rus: 2018-05-05
+  kaz: 2020-01-01
+  rus: 2020-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/87667/kaz/05.05.2018
-  rus: https://zan.gov.kz/client/#!/doc/87667/rus/05.05.2018
+  kaz: https://zan.gov.kz/client/#!/doc/87667/kaz/01.01.2020
+  rus: https://zan.gov.kz/client/#!/doc/87667/rus/01.01.2020
 caused_by:
   code: '120473'
   requisite: Приказ Министра по инвестициям и развитию Республики Казахстан от 26 февраля 2018 года № 132. Зарегистрирован в Министерстве юстиции Республики Казахстан 6 апреля 2018 года № 16724
