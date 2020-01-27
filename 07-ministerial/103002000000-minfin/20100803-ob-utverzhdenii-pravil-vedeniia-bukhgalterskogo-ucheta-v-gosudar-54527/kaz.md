@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/54527/kaz/01.01.2018
+source: https://zan.gov.kz/client/#!/doc/54527/kaz/27.01.2020
 ---
 
 # Мемлекеттік мекемелерде бухгалтерлік есепке алуды жүргізу қағидалары
