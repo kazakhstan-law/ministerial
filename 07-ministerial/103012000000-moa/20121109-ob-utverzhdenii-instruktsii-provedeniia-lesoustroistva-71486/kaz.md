@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/71486/kaz/30.01.2017
+source: https://zan.gov.kz/client/#!/doc/71486/kaz/28.01.2020
 ---
 
 # Орман орналастыруды жүргізу нұсқаулығын бекіту туралы
