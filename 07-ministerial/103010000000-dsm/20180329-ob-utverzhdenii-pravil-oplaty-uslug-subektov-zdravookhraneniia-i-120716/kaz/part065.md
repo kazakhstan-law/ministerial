@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/120716/kaz/01.01.2020
+source: https://zan.gov.kz/client/#!/doc/120716/kaz/07.02.2020
 ---
 
 > *Денсаулық сақтау субъектілерінің*  
