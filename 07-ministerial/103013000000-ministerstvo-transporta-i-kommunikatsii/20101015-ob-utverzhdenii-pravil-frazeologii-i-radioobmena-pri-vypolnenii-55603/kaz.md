@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/55603/kaz/18.09.2018
+source: https://zan.gov.kz/client/#!/doc/55603/kaz/07.02.2020
 ---
 
 # Ұшуды орындау және әуе қозғалысына қызмет көрсету кезінде радиоалмасу фразеологиясының қағидаларын бекіту туралы
@@ -37,4 +37,4 @@ source: https://zan.gov.kz/client/#!/doc/55603/kaz/18.09.2018
 | [`an001-2`](kaz/an001-2.md) | an001-2 |
 | [`an001-2-t001`](kaz/an001-2-t001.md) | таблица 1 |
 | [`an001-2-part002`](kaz/an001-2-part002.md) | an001-2-part002 |
-| [`an001-2-t002`](kaz/an001-2-t002.md) | таблица 2 |
+| [`an001-2-part004`](kaz/an001-2-part004.md) | an001-2-part004 |

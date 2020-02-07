@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/55603/rus/18.09.2018
+source: https://zan.gov.kz/client/#!/doc/55603/rus/07.02.2020
 ---
 
 # Об утверждении Правил фразеологии радиообмена при выполнении полетов и обслуживании воздушного движения
@@ -37,4 +37,4 @@ source: https://zan.gov.kz/client/#!/doc/55603/rus/18.09.2018
 | [`an001-2`](rus/an001-2.md) | an001-2 |
 | [`an001-2-t001`](rus/an001-2-t001.md) | таблица 1 |
 | [`an001-2-part002`](rus/an001-2-part002.md) | an001-2-part002 |
-| [`an001-2-t002`](rus/an001-2-t002.md) | таблица 2 |
+| [`an001-2-part004`](rus/an001-2-part004.md) | an001-2-part004 |
