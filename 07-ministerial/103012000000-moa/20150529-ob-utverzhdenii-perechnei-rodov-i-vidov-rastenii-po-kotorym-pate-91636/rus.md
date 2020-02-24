@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/91636/rus/16.08.2019
+source: https://zan.gov.kz/client/#!/doc/91636/rus/24.02.2020
 ---
 
 # Об утверждении перечней родов и видов растений, по которым патентоспособность и хозяйственная полезность оцениваются по данным государственного испытания или заявителя
@@ -222,7 +222,7 @@ source: https://zan.gov.kz/client/#!/doc/91636/rus/16.08.2019
 
 # Перечень родов и видов растений, по которым патентоспособность оценивается по данным заявителя
 
-> *Сноска. Перечень с изменениями, внесенными приказом Министра сельского хозяйства РК от 16.08.2019 № 298 (вводится в действие по истечении 10 (десяти) календарных дней после дня его первого официального опубликования).*
+> *Сноска. Перечень с изменениями, внесенными приказами Министра сельского хозяйства РК от 16.08.2019 № 298 (вводится в действие по истечении 10 (десяти) календарных дней после дня его первого официального опубликования); от 24.02.2020 № 65 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -894,6 +894,11 @@ Vav. Et. Ell
 <td>Prunus cerasus S.</td>
 </tr>
 <tr>
+<td>126-1.</td>
+<td>Корневые подвои яблони</td>
+<td>Malus Mill.</td>
+</tr>
+<tr>
 <td colspan="3">Орехоплодные</td>
 </tr>
 <tr>
@@ -1046,7 +1051,7 @@ Vav. Et. Ell
 
 # Перечень родов и видов растений, по которым хозяйственная полезность оценивается по данным заявителя
 
-> *Сноска. Перечень с изменениями, внесенными приказом Министра сельского хозяйства РК от 16.08.2019 № 298 (вводится в действие по истечении 10 (десяти) календарных дней после дня его первого официального опубликования).*
+> *Сноска. Перечень с изменениями, внесенными приказами Министра сельского хозяйства РК от 16.08.2019 № 298 (вводится в действие по истечении 10 (десяти) календарных дней после дня его первого официального опубликования); от 24.02.2020 № 65 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -1078,10 +1083,7 @@ Vav. Et. Ell
 <tr>
 <td>3.</td>
 <td>Пшеница мягкая яровая</td>
-<td>
-Triticum aestivum L. emend. Fiori et
-Paol.
-</td>
+<td>Triticum aestivum L. emend. Fiori et Paol.</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -1116,10 +1118,7 @@ Paol.
 <tr>
 <td>10.</td>
 <td>Пшеница мягкая озимая</td>
-<td>
-Triticum aestivum L. Emend. Fiori et
-Paol.
-</td>
+<td>Triticum aestivum L. Emend. Fiori et Paol.</td>
 </tr>
 <tr>
 <td>11.</td>
@@ -1175,18 +1174,12 @@ Paol.
 <tr>
 <td>20.</td>
 <td>Рапс яровой</td>
-<td>
-Brassica napus L. ssp. oleifera (Metzg)
-Sinsk
-</td>
+<td>Brassica napus L. ssp. oleifera (Metzg) Sinsk</td>
 </tr>
 <tr>
 <td>21.</td>
 <td>Рапс озимый</td>
-<td>
-Brassica napus L. ssp. oleifera (Metzg)
-Sinsk
-</td>
+<td>Brassica napus L. ssp. oleifera (Metzg) Sinsk</td>
 </tr>
 <tr>
 <td>22.</td>
@@ -1206,10 +1199,7 @@ Sinsk
 <tr>
 <td>25.</td>
 <td>Лен масличный</td>
-<td>
-Linum usitatissimum L. var. intermedia
-Vav. et. Ell.
-</td>
+<td>Linum usitatissimum L. var. intermedia Vav. et. Ell.</td>
 </tr>
 <tr>
 <td>26.</td>
@@ -1222,18 +1212,12 @@ Vav. et. Ell.
 <tr>
 <td>27.</td>
 <td>Капуста белокочанная</td>
-<td>
-Brassica oleracea convar. Capitata L.
-Alef. Var.capitata
-</td>
+<td>Brassica oleracea convar. Capitata L. Alef. Var.capitata</td>
 </tr>
 <tr>
 <td>28.</td>
 <td>Петрушка</td>
-<td>
-Petroselinum crispum (Mill.) Nym. Ex.
-A.W.Hill
-</td>
+<td>Petroselinum crispum (Mill.) Nym. Ex. A.W.Hill</td>
 </tr>
 <tr>
 <td>29.</td>
@@ -1248,10 +1232,7 @@ A.W.Hill
 <tr>
 <td>31.</td>
 <td>Свекла столовая</td>
-<td>
-Beta vulgaris L. ssp. Vulgaris var.
-conditiva Alef.
-</td>
+<td>Beta vulgaris L. ssp. Vulgaris var. conditiva Alef.</td>
 </tr>
 <tr>
 <td>32.</td>
@@ -1261,18 +1242,12 @@ conditiva Alef.
 <tr>
 <td>33.</td>
 <td>Брюква столовая</td>
-<td>
-Brassica napus L. var napobrassica (L)
-Rchb
-</td>
+<td>Brassica napus L. var napobrassica (L) Rchb</td>
 </tr>
 <tr>
 <td>34.</td>
 <td>Перец острый</td>
-<td>
-Capsicum annum L. var. longum (DC)
-Sendt.
-</td>
+<td>Capsicum annum L. var. longum (DC) Sendt.</td>
 </tr>
 <tr>
 <td>35.</td>
@@ -1307,10 +1282,7 @@ Sendt.
 <tr>
 <td>41.</td>
 <td>Арбуз</td>
-<td>
-Citrullus lanatus (Thund.) Matsum. et.
-Nakai
-</td>
+<td>Citrullus lanatus (Thund.) Matsum. et. Nakai</td>
 </tr>
 <tr>
 <td>42.</td>
@@ -1375,10 +1347,7 @@ Nakai
 <tr>
 <td>54.</td>
 <td>Горчица салатная</td>
-<td>
-Brassica juncea (L.) Czern. Et Coss. In
-Czern
-</td>
+<td>Brassica juncea (L.) Czern. Et Coss. In Czern</td>
 </tr>
 <tr>
 <td>55.</td>
@@ -1398,10 +1367,7 @@ Czern
 <tr>
 <td>58.</td>
 <td>Капуста цветная</td>
-<td>
-Brassica oleracea convar botrytis (L.)
-Alef.var. botritis L.
-</td>
+<td>Brassica oleracea convar botrytis (L.) Alef.var. botritis L.</td>
 </tr>
 <tr>
 <td>59.</td>
@@ -1540,10 +1506,7 @@ var.altissima Doell
 </tr>
 <tr>
 <td>83.</td>
-<td>
-Прутняк (изень, кохия
-стелющаяся)
-</td>
+<td>Прутняк (изень, кохия стелющаяся)</td>
 <td>Kochia prostrata (L.) Schrad</td>
 </tr>
 <tr>
@@ -1569,10 +1532,7 @@ var.altissima Doell
 <tr>
 <td>88.</td>
 <td>Брюква кормовая</td>
-<td>
-Brassica napus L. var. napobrassica
-(L.) Rchb.
-</td>
+<td>Brassica napus L. var. napobrassica (L.) Rchb.</td>
 </tr>
 <tr>
 <td>89.</td>
@@ -1627,10 +1587,7 @@ Brassica napus L. var. napobrassica
 <tr>
 <td>99.</td>
 <td>Сурепица озимая</td>
-<td>
-Brassica rapa L. var. silvestris (Lam.)
-Briggs.
-</td>
+<td>Brassica rapa L. var. silvestris (Lam.) Briggs.</td>
 </tr>
 <tr>
 <td>100.</td>
@@ -2080,5 +2037,13 @@ Briggs.
 <td>186.</td>
 <td>Миндаль</td>
 <td>Prunus amugdalus Batsch</td>
+</tr>
+<tr>
+<td colspan="3">Подвои для плодово-ягодных культур</td>
+</tr>
+<tr>
+<td>187.</td>
+<td>Корневые подвои яблони</td>
+<td>Malus Mill.</td>
 </tr>
 </table>
