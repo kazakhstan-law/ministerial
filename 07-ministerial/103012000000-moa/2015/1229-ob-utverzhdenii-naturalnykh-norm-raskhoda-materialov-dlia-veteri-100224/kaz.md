@@ -33,7668 +33,5616 @@
 > *2016 жылғы 29 қаңтар*
 
 > *Қазақстан Республикасы*  
-> *Ауыл шаруашылығы*  
-> *министрінің*  
-> *2015 жылғы*  
-> *29 желтоқсандағы*  
+> *Ауыл шаруашылығы министрінің*  
+> *2015 жылғы 29 желтоқсандағы*  
 > *№ 16-04/1142 бұйрығына*  
-> *№ 1-қосымша*
+> *1-қосымша*
 
-# Жануарлар ауруларын зертханалық-диагностикалық зерттеулерге материалдар шығысының заттай нормалары
+## Жануарлар ауруларын зертханалық-диагностикалық зерттеулерге материалдар шығысының заттай нормалары
 
-<table>
-<tr>
-<td>№</td>
-<td>Материалдың атауы</td>
-<td>Өлшем бірлігі</td>
-<td>1 зерттеуге кететін шығыс нормасы</td>
-<td>
-Жарамдылық мерзімі (сақтау),
-ай
-</td>
-<td>Қолданылу саласы</td>
-<td>Таралу саласы</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ветеринария саласында, жануарлар ауруларының зертханалық-диагностика-лық зерттеулерін жүргізу үшін.</td>
-<td>ҚР АШМ ВБҚК ШЖҚ «РВЗ» РМК және оның аудандардағы, облыстардағы, республикалық маңызы бар қалалардағы, астанадағы филиалдары.</td>
-</tr>
-</table>
+> *Ескерту. Заттай нормалар жаңа редакцияда – ҚР Ауыл шаруашылығы министрінің 03.03.2020 № 73 (алғашқы ресми жарияланған күнiнен кейін күнтiзбелiк 10 (он) күн өткен соң қолданысқа енгiзiледi) бұйрығымен.*
 
 <table>
 <tr>
-<td colspan="11">1-бөлім. Жануарлардың бірнеше түрлеріне ортақ ауруларды зертханалық-диагностикалық зерттеулер бойынша</td>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3"></td>
+<th>№</th>
+<th>Материалдың атауы</th>
+<th>Өлшем бірлігі</th>
+<th colspan="2">1 зерттеуге жұмсалатын шығыс нормасы</th>
+<th colspan="2">Жарамдылық мерзімі (сақтау), ай</th>
+<th colspan="2">Қолданылу саласы</th>
+<th>Таралу саласы</th>
 </tr>
 <tr>
-<td colspan="11">1 – тарау. Құтыру</td>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3"></td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
+<th colspan="2">6</th>
+<th>7</th>
 </tr>
 <tr>
-<td colspan="11">1. ДПР</td>
 <td></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Ветеринария саласында, жануарлар ауруларына зертханалық-диагностикалық зерттеулер жүргізу үшін.</td>
+<td>ҚР АШМ ВБҚК «РВЗ» ШЖҚ РМК және оның облыстардағы, аудандардағы, республикалық маңызы бар қалалардағы және астанадағы филиалдары.</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="4">Құтыруды диагностикалауға арналған жиынтық – ДАПИ</td>
+<td colspan="10">1-бөлім. Жануарлардың бірнеше түрлеріне ортақ ауруларды зертханалық-диагностикалық зерттеулер бойынша</td>
+</tr>
+<tr>
+<td colspan="10">1-тарау. Құтыру</td>
+</tr>
+<tr>
+<td colspan="10">1-параграф. Диффузиялық преципитаттау реакциясы</td>
+</tr>
+<tr>
+<td>1.</td>
+<td>Құтыруды диагностикалауға арналған жинақ – ДҚҚПИГ</td>
 <td>доза</td>
-<td>1,5</td>
-<td>24</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">2. ИМТӘ</td>
-<td></td>
-<td colspan="3"></td>
-<td></td>
+<td colspan="10">2-параграф. Флюоресценттеуші антиденелер әдісі</td>
 </tr>
 <tr>
-<td>2</td>
-<td colspan="4">Құтыруды диагностикалауға арналған жиынтық – ДАФИ</td>
+<td>2.</td>
+<td>Құтыруды диагностикалауға арналған жинақ – ДҚҚФИГ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>3</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>3.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,00068</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,00068</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>4</td>
-<td colspan="4">Ацетон</td>
+<td>4.</td>
+<td>Ацетон</td>
 <td>кг</td>
-<td>0,08</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,08</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>5</td>
-<td colspan="4">Флуоресцерленбейтін иммерсиялық май</td>
+<td>5.</td>
+<td>Иммерсиялық флуоресценттемейтін май</td>
 <td>кг</td>
-<td>0,0004</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,0004</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">3-параграф. Иммундық хроматографиялық талдау</td>
 </tr>
 <tr>
-<td>6</td>
-<td colspan="4">ИХТ әдісімен құтырудың антигенін жылдам анықтауға арналған тест – жиынтығы</td>
+<td>6.</td>
+<td>ИХТ әдісімен құтырудың антигенін жылдам табуға арналған тест–жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">4. Вирусологиялық зерттеулер</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">4-параграф. Вирусологиялық зерттеу</td>
 </tr>
 <tr>
-<td>7</td>
-<td colspan="4">Метилен көгі</td>
+<td>7.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,0003</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00068</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>8</td>
-<td colspan="4">Негізгі фуксин</td>
-<td>кг</td>
-<td>0,00002</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>9</td>
-<td colspan="4">0,85% хлорлы натрий</td>
-<td>кг</td>
-<td>0,00068</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>10</td>
-<td colspan="4">Ацетон</td>
-<td>кг</td>
-<td>0,08</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>11</td>
-<td colspan="4">Флуоресцерленбеген иммерсиялық май</td>
-<td>кг</td>
-<td>0,0004</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>12</td>
-<td colspan="4">Стрептомицин</td>
+<td>8.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0005</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0005</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>13</td>
-<td colspan="4">Пенициллин</td>
-<td>әб</td>
-<td>500</td>
-<td>60</td>
-<td></td>
+<td>9.</td>
+<td>Пенициллин</td>
+<td>бірл.</td>
+<td colspan="2">500</td>
+<td colspan="2">60</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>14</td>
-<td colspan="4">Романовский-Гимза бояуы</td>
-<td>литр</td>
-<td>0,001</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>15</td>
-<td colspan="4">Тышқандар – төлдер</td>
+<td>10.</td>
+<td>Тышқандар (балалары)</td>
 <td>бас</td>
-<td>8</td>
-<td>-</td>
-<td></td>
+<td colspan="2">6</td>
+<td colspan="2">-</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>16</td>
-<td colspan="4">Метил спирті</td>
-<td>литр</td>
-<td>0,04</td>
-<td>6</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="10">5-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>17</td>
-<td colspan="4">Негізгі фуксин ертіндісін дайындауға арналған этил спирті</td>
-<td>литр</td>
-<td>0,004</td>
-<td>60</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">5. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>18</td>
-<td colspan="4">ИФТ әдісімен құтыру вирусының антигеніне антиденесін табуға арналған жиынтық</td>
+<td>11.</td>
+<td>ИФТ-да құтыру вирусының антигеніне антиденелерді анықтауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">6. ПТР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>19</td>
-<td colspan="4">ПТР әдісімен құтыру вирусын анықтауға арналған жиынтық</td>
+<td>12.</td>
+<td>ИФТ-да құтыру вирусына иммунитеттің қауырттылығын айқындауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="10">2 – тарау. Бруцеллез</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">6-параграф. Полимеразалық тізбек реакциясы</td>
 </tr>
 <tr>
-<td colspan="8">7. АР</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>20</td>
-<td colspan="4">Бірыңғай бруцеллездік антиген</td>
-<td>литр</td>
-<td>0,0001</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>21</td>
-<td colspan="4">0,85 % хлорлы натрий (ІҚМ, жылқылар, түйелер, иттер, терісі бағалы аңдар, теңіз шошқалары)</td>
-<td>кг</td>
-<td>0,000017</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>22</td>
-<td colspan="4">Фенол (0,5 % ертінді дайындау үшін)</td>
-<td>кг</td>
-<td>0,00001</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>23</td>
-<td colspan="4">5% хлорлы натрий (ҰҚМ, буйволдар)</td>
-<td>кг</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>24</td>
-<td colspan="4">10% хлорлы натрий (бұғылар)</td>
-<td>кг</td>
-<td>0,0002</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">8. АР қайта қою (300 сынамаға бір сынау есебімен)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>25</td>
-<td colspan="4">Бірыңғай бруцеллездік антиген</td>
-<td>литр</td>
-<td>0,0002</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>26</td>
-<td colspan="4">0,85 % хлорлы натрий (ІҚМ,жылқылар, түйелер, иттер, терісі бағалы аңдар, теңіз шошқалары)</td>
-<td>кг</td>
-<td>0,000051</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>27</td>
-<td colspan="4">5 % хлорлы натрий (ҰҚМ, буйволдар)</td>
-<td>кг</td>
-<td>0,0003</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>28</td>
-<td colspan="4">10% хлорлы натрий (бұғылар)</td>
-<td>кг</td>
-<td>0,0006</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>29</td>
-<td colspan="4">Фенол (0,5 % ертінді дайындау үшін)</td>
-<td>кг</td>
-<td>0,00003</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">9. АР бақылауы (300 сынамаға бір сынау есебімен)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>30</td>
-<td colspan="4">АР үшін бірыңғай бруцеллездік антиген</td>
-<td>литр</td>
-<td>0,0004</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>31</td>
-<td colspan="4">ІҚМ, жылқыларға арналған позитивті қан сарысуы (титрі 400 ХБ кем емес, яғни төрт крест)</td>
-<td>литр</td>
-<td>0,0001</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>32</td>
-<td colspan="4">ҰҚМ, түйелерге, буйволдарға, бұғыларға, иттерге арналған позитивті қан сарысуы (титрі 400 ХБ кем емес, яғни төрт крест)</td>
-<td>литр</td>
-<td>0,0002</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>33</td>
-<td colspan="4">ІҚМ, жылқыларға арналған негативті қан сарысуы</td>
-<td>литр</td>
-<td>0,0001</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>34</td>
-<td colspan="4">ҰҚМ, түйелерге, буйволдарға, бұғыларға, иттерге арналған негативті қан сарысуы</td>
-<td>литр</td>
-<td>0,0002</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>35</td>
-<td colspan="4">0,85 % хлорлы натрий (ІҚМ, жылқылар, түйелер, иттер, терісі бағалы аңдар, теңіз шошқалары)</td>
-<td>кг</td>
-<td>0,000102</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>36</td>
-<td colspan="4">5 % хлорлы натрий (ҰҚМ, буйволдар)</td>
-<td>кг</td>
-<td>0,0006</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>37</td>
-<td colspan="4">10% хлорлы натрий (бұғылар)</td>
-<td>кг</td>
-<td>0,0012</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>38</td>
-<td colspan="4">Фенол (0,5 % ерітінді дайындау үшін)</td>
-<td>кг</td>
-<td>0,00006</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">10. КБР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>39</td>
-<td colspan="4">КБР үшін бірыңғай бруцеллездік антиген (жұмыс титрі 1:75)</td>
-<td>литр</td>
-<td>0,0000027</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>40</td>
-<td colspan="4">Гемолизин (жұмыс титрі 1:2000)</td>
+<td>13.</td>
+<td>ПТР-да құтыру вирусын анықтауға арналған жиынтық</td>
 <td>доза</td>
-<td>2</td>
-<td>36</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>41</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
-<td>доза</td>
-<td>1</td>
-<td>36</td>
-<td></td>
+<td colspan="10">2-тарау. Бруцеллез</td>
+</tr>
+<tr>
+<td colspan="10">7-параграф. Агглютинация реакциясы</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Бірыңғай бруцеллездік антиген</td>
+<td>литр</td>
+<td colspan="2">0,0001</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>42</td>
-<td colspan="4">0,85 % хлорлы натрий</td>
+<td>15.</td>
+<td>0,85% хлорлы натрий (ІҚМ, жылқылар, түйелер, иттер, терісі бағалы аңдар, теңіз шошқалары)</td>
 <td>кг</td>
-<td>0,0000085</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,000017</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>43</td>
-<td colspan="4">Стрептомицин</td>
+<td>16.</td>
+<td>Фенол (0,5% ерітінді дайындау үшін)</td>
+<td>кг</td>
+<td colspan="2">0,00001</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>17.</td>
+<td>5% хлорлы натрий (ҰМ, енекелер)</td>
+<td>кг</td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>18.</td>
+<td>10% хлорлы натрий (бұғылар)</td>
+<td>кг</td>
+<td colspan="2">0,0002</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">8-параграф. Агглютинация реакциясын қайта қою</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>АР-ға арналған бірыңғай бруцеллездік антиген</td>
+<td>литр</td>
+<td colspan="2">0,0002</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>20.</td>
+<td>0,85% хлорлы натрий (ІҚМ, жылқылар, түйелер, иттер, терісі бағалы аңдар, теңіз шошқалары)</td>
+<td>кг</td>
+<td colspan="2">0,000051</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>21.</td>
+<td>5% хлорлы натрий (ҰМ, енекелер)</td>
+<td>кг</td>
+<td colspan="2">0,0003</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>22.</td>
+<td>10% хлорлы натрий (бұғылар)</td>
+<td>кг</td>
+<td colspan="2">0,0006</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>23.</td>
+<td>Фенол (0,5% ерітінді дайындау үшін)</td>
+<td>кг</td>
+<td colspan="2">0,00003</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">9-параграф. Агглютинация реакциясын бақылау</td>
+</tr>
+<tr>
+<td>24.</td>
+<td>АР-ға арналған бірыңғай бруцеллездік антиген</td>
+<td>литр</td>
+<td colspan="2">0,0004</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>25.</td>
+<td>ІҚМ-ға, жылқыларға, түйелер мен теңіз шошқаларына арналған позитивті қан сарысуы (титрі 400 МБ-дан кем емес, яғни, төрт крест)</td>
+<td>литр</td>
+<td colspan="2">0,0001</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>26.</td>
+<td>ҰМ-ға, жылқыларға, түйелер мен теңіз шошқаларына арналған негативті қан сарысуы</td>
+<td>литр</td>
+<td colspan="2">0,0002</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>27.</td>
+<td>ІҚМ-ға, жылқыларға арналған негативті қан сарысуы</td>
+<td>литр</td>
+<td colspan="2">0,0001</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>28.</td>
+<td>ҰМ-ға, түйелерге, енекелерге, бұғыларға, иттерге арналған негативті қан сарысуы</td>
+<td>литр</td>
+<td colspan="2">0,0002</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>29.</td>
+<td>0,85% хлорлы натрий (ІҚМ, жылқылар, түйелер, иттер, терісі бағалы аңдар, теңіз шошқалары)</td>
+<td>кг</td>
+<td colspan="2">0,000102</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>30.</td>
+<td>5% хлорлы натрий (ҰМ, енекелер)</td>
+<td>кг</td>
+<td colspan="2">0,0006</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>31.</td>
+<td>10% хлорлы натрий (бұғылар)</td>
+<td>кг</td>
+<td colspan="2">0,0012</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>32.</td>
+<td>Фенол (0,5% ерітінді дайындау үшін)</td>
+<td>кг</td>
+<td colspan="2">0,00006</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">10-параграф. Комплементті байланыстыру реакциясы</td>
+</tr>
+<tr>
+<td>33.</td>
+<td>КБР-ға арналған бірыңғай бруцеллездік антиген (жұмыс титрі 1:75)</td>
+<td>литр</td>
+<td colspan="2">0,00000267</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>34.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
+<td>доза</td>
+<td colspan="2">2</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>35.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>36.</td>
+<td>0,85 % хлорлы натрий</td>
+<td>кг</td>
+<td colspan="2">0,0000085</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>37.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">11. КБР қайта қою (300 сынамаға бір сынау есебімен)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">11-параграф. Комплементті байланыстыру реакциясын қайта қою</td>
 </tr>
 <tr>
-<td>44</td>
-<td colspan="4">КБР үшін бірыңғай бруцеллездік антиген (жұмыс титрі 1:75)</td>
+<td>38.</td>
+<td>КБР-ға арналған бірыңғай бруцеллездік антиген (жұмыс титрі 1:75)</td>
 <td>литр</td>
-<td>0,0000054</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0000054</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>45</td>
-<td colspan="4">Гемолизин (жұмыс титрі 1:2000)</td>
+<td>39.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>6</td>
-<td>36</td>
-<td></td>
+<td colspan="2">6</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>46</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
+<td>40.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12 КБР-бруцеллезден артық емес)</td>
 <td>доза</td>
-<td>3</td>
-<td>36</td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>47</td>
-<td colspan="4">0,85 % хлорлы натрий</td>
+<td>41.</td>
+<td>0,85 % хлорлы натрий</td>
 <td>кг</td>
-<td>0,0000255</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0000255</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>48</td>
-<td colspan="4">Стрептомицин</td>
+<td>42.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">12. КБР титрлеу, бақылау, антикомплементарлық, гемотоксиндік (300 сынамаға бір сынау есебімен)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">12-параграф. Комплементті байланыстыру реакциясындағы титрлеу, бақылау, антикомплементтік, қанға уыттылық</td>
 </tr>
 <tr>
-<td>49</td>
-<td colspan="4">КБР үшін бірыңғай бруцеллездік антиген (жұмыс титрі 1:75)</td>
+<td>43.</td>
+<td>КБР-ға арналған бірыңғай бруцеллездік антиген (жұмыс титрі 1:75)</td>
 <td>литр</td>
-<td>0,000075</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0000747</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>50</td>
-<td colspan="4">Гемолизин (жұмыс титрі 1:2000)</td>
+<td>44.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>96</td>
-<td>36</td>
-<td></td>
+<td colspan="2">96</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>51</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
+<td>45.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
 <td>доза</td>
-<td>61</td>
-<td>36</td>
-<td></td>
+<td colspan="2">61</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>52</td>
-<td colspan="4">Бруцеллездің позитивті қан сарысуы (титрі кемінде төрт крест)</td>
+<td>46.</td>
+<td>Бруцеллездің позитивті қан сарысуы (титрі кемінде төрт крест)</td>
 <td>литр</td>
-<td>0,0011</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0011</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>53</td>
-<td colspan="4">Бруцеллездің негативті қан сарысуы</td>
+<td>47.</td>
+<td>Бруцеллездің негативті қан сарысуы</td>
 <td>литр</td>
-<td>0,0011</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0011</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>54</td>
-<td colspan="4">0,85 % хлорлы натрий</td>
+<td>48.</td>
+<td>0,85 % хлорлы натрий</td>
 <td>кг</td>
-<td>0,000532</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,000532</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>55</td>
-<td colspan="4">Стрептомицин</td>
+<td>49.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="10">13. РБС</td>
+<td colspan="10">13-параграф. Роз бенгал сынамасы реакциясы</td>
 </tr>
 <tr>
-<td>56</td>
-<td colspan="4">ІҚМ, жылқылар, түйелер, шошқаларға арналған түсті розбенгал антигені</td>
+<td>50.</td>
+<td>ІҚМ-ға, жылқыларға, түйелерге, шошқаларға арналған түсті роз бенгал антигені</td>
 <td>литр</td>
-<td>0,00003</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,00003</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>57</td>
-<td colspan="4">ҰҚМ, буйволдарға, солтүстік бұғыларға, арналған түсті розбенгал антигені</td>
+<td>51.</td>
+<td>ҰМ-ға, енекелерге, солтүстік бұғыларына арналған түсті роз бенгал антигені</td>
 <td>литр</td>
-<td>0,000015</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,000015</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>58</td>
-<td colspan="4">3% хлорлы натрий</td>
-<td>кг</td>
-<td>0,00002</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="10">14-параграф. Роз бенгал сынамасын бақылау</td>
 </tr>
 <tr>
-<td colspan="11">14. РБС бақылауы (100 сынамаға бір сынау есебімен)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>59</td>
-<td colspan="4">ІҚМ, жылқыларға, түйелерге, шошқаларға арналған түсті розбенгал антигені</td>
+<td>52.</td>
+<td>ІҚМ-ға, жылқыларға, түйелерге, шошқаларға арналған түсті роз бенгал антигені</td>
 <td>литр</td>
-<td>0,0000006</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,00006</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>60</td>
-<td colspan="4">ҰҚМ, буйволдарға, солтүстік бұғыларына арналған түсті розбенгал антигені</td>
+<td>53.</td>
+<td>ҰМ-ға, енекелерге, солтүстік бұғыларына арналған түсті роз бенгал антигені</td>
 <td>литр</td>
-<td>0,0000003</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,00003</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>61</td>
-<td colspan="4">Бруцеллездің позитивті қан сарысуы</td>
+<td>54.</td>
+<td>Бруцеллездің позитивті қан сарысуы</td>
 <td>литр</td>
-<td>0,0000003</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00003</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>62</td>
-<td colspan="4">Бруцеллездің негативті қан сарысуы</td>
+<td>55.</td>
+<td>Бруцеллездің негативті қан сарысуы</td>
 <td>литр</td>
-<td>0,0000003</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00003</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">15. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">15-параграф. Иммундық диффузия реакциясы</td>
 </tr>
 <tr>
-<td>63</td>
-<td colspan="4">ИФТ әдісімен бруцеллезді диагностикалауға арналған жиынтық</td>
+<td>56.</td>
+<td>О-ПС антигенімен ИДР-да жануарлар бруцеллезін диагностикалауға арналған жинақ (ИДР)</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">16. ПТР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">16-параграф. Жинақтағы комплементті байланыстыру реакциясы</td>
 </tr>
 <tr>
-<td>64</td>
-<td colspan="4">ПТР бруцеллезді диагностикалауға арналған жиынтық</td>
+<td>57.</td>
+<td>КБР-ға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">17. Бактериологиялық сынау</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">17-параграф. Жинақтағы роз бенгал сынамасы</td>
 </tr>
 <tr>
-<td>65</td>
-<td colspan="4">ЕПС</td>
+<td>58.</td>
+<td>РБС-ға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">18-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>59.</td>
+<td>ИФТ-да бруцеллезді диагностикалауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">19-параграф. Полимеразалық тізбек реакциясы</td>
+</tr>
+<tr>
+<td>60.</td>
+<td>ПТР-да бруцеллезді диагностикалауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">20-параграф. Бактериологиялық сынау</td>
+</tr>
+<tr>
+<td>61.</td>
+<td>ЕПА</td>
 <td>кг</td>
-<td>0,0018</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0018</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>66</td>
-<td colspan="4">Эритрит агары</td>
+<td>62.</td>
+<td>Эритрит агары</td>
 <td>кг</td>
-<td>0,0056</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0056</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>67</td>
-<td colspan="4">Генцианвиолет</td>
+<td>63.</td>
+<td>Негізгі фуксин</td>
 <td>кг</td>
-<td>0,0000015</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00024</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>68</td>
-<td colspan="4">Негізгі фуксин</td>
-<td>кг</td>
-<td>0,00000015</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>69</td>
-<td colspan="4">Тионин</td>
-<td>кг</td>
-<td>0,00000015</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>70</td>
-<td colspan="4">Хлорлы натрий</td>
-<td>кг</td>
-<td>0,00612</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>71</td>
-<td colspan="4">Бруцелла абортусқа арналған моноспецификалық қан сарысуы</td>
+<td>64.</td>
+<td>Этил спирті (бояу дайындау үшін)</td>
 <td>литр</td>
-<td>0,00015</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00015</td>
+<td colspan="2">60</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>72</td>
-<td colspan="4">Бруцелла мелитензиске арналған моноспецификалық қан сарысуы</td>
-<td>литр</td>
-<td>0,00015</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>73</td>
-<td colspan="4">Этил спирті (бояулар дайындау үшін)</td>
-<td>литр</td>
-<td>0,000615</td>
-<td>60</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>74</td>
-<td colspan="4">Трипофлавин</td>
-<td>кг</td>
-<td>0,00000015</td>
-<td>120</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>75</td>
-<td colspan="4">Теңіз шошқасы</td>
+<td>65.</td>
+<td>Теңіз шошқалары</td>
 <td>бас</td>
-<td>3</td>
-<td>-</td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2">-</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">3 - тарау Ауески ауруы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">18. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>76</td>
-<td colspan="4">Ауески ауруын ИФТ әдісімен диагностикалауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">4 - тарау Лейкоз</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">19. ИДР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>77</td>
-<td colspan="4">Лейкозға арналған ИДР жиынтығы</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>78</td>
-<td colspan="4">0,85% хлорлы натрий</td>
-<td>кг</td>
-<td>0,0000085</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">20. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>79</td>
-<td colspan="4">Лейкозға арналған ИФТ жиынтығы</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">21. Лейкозға гематологиялық зерттеулер сынамасы</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>80</td>
-<td colspan="4">Гематологиялық анализаторға реагенттер кешені</td>
+<td>66.</td>
+<td>Грам бойынша бояу жинағы</td>
 <td>талдау</td>
-<td>1</td>
-<td>Затбелгіде көрсетілген мерзімге дейін пайдалану</td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">22.ПТР</td>
+<td>67.</td>
+<td>2% cафранин ерітіндісі</td>
+<td>кг</td>
+<td colspan="2">0,00000675</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>81</td>
-<td colspan="4">ПТР әдісімен лейкозды анықтауға арналған жинақ</td>
+<td>68.</td>
+<td>1% жасыл малахит</td>
+<td>кг</td>
+<td colspan="2">0,00000675</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>69.</td>
+<td>2% метилен көгі ерітіндісі</td>
+<td>кг</td>
+<td colspan="2">0,0000015</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>70.</td>
+<td>Сірке қышқылы</td>
+<td>кг</td>
+<td colspan="2">0,000001125</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>71.</td>
+<td>Метилен көгі</td>
+<td>кг</td>
+<td colspan="2">0,00000225</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>72.</td>
+<td>Иммерсиялық май</td>
+<td>кг</td>
+<td colspan="2">0,000225</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">3-тарау. Ауески ауруы</td>
+</tr>
+<tr>
+<td colspan="10">21-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>73.</td>
+<td>Ауески ауруын диагностикалауға арналған ИФТ жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="10">5 - тарау Лептоспироз</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">4-тарау. Лейкоз</td>
 </tr>
 <tr>
-<td colspan="11">23. МАР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">22-параграф. Иммундық диффузия реакциясы</td>
 </tr>
 <tr>
-<td>82</td>
-<td colspan="4">МАР лептоспирларды типтендіруге арналған жиынтық (15 серотипіне)</td>
+<td>74.</td>
+<td>Лейкозға арналған ИДР жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>75.</td>
+<td>0,85% хлорлы натрий</td>
+<td>кг</td>
+<td colspan="2">0,0000085</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">23-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>76.</td>
+<td>Лейкозға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">24-параграф. Лейкозға сынауға арналған гематологиялық зерттеу</td>
+</tr>
+<tr>
+<td>77.</td>
+<td>Гематологиялық талдағышқа арналған реагенттер жиынтығы</td>
+<td>талдау</td>
+<td colspan="2">1</td>
+<td colspan="2">Затбелгіде көрсетілген мерзімге дейін пайдалану</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">25-параграф. Полимеразалық тізбек реакциясы</td>
+</tr>
+<tr>
+<td>78.</td>
+<td>ПТР әдісімен лейкозды анықтауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">5-тарау. Лептоспироз</td>
+</tr>
+<tr>
+<td colspan="10">26-параграф. Микроагглютинация реакциясы</td>
+</tr>
+<tr>
+<td>79.</td>
+<td>МАР-да лептоспираларды типтендіруге арналған жинақ (15 серотипке)</td>
 <td>литр</td>
-<td>0,0001</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>83</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>80.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,000077</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,000077</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>84</td>
-<td colspan="4">1-ші алмастырушы калий фосфор қышқылы</td>
+<td>81.</td>
+<td>1-алмастырушы фосфор қышқылды калий</td>
 <td>кг</td>
-<td>0,00003</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,00003</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>85</td>
-<td colspan="4">2-ші алмастырушы натрий фосфор қышқылы</td>
+<td>82.</td>
+<td>2-алмастырушы фосфор қышқылды натрий</td>
 <td>кг</td>
-<td>0,00032</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,00032</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>86</td>
-<td colspan="4">Тұзды қышқыл</td>
+<td>83.</td>
+<td>Тұзды қышқыл</td>
 <td>кг</td>
-<td>0,00053</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,00053</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">24. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">27-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>87</td>
-<td colspan="4">Лептоспирозға арналған ИФТ жиынтығы</td>
+<td>84.</td>
+<td>Лептоспирозға арналған ИФТ жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">25. ПТР</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="10">28-параграф. Полимеразалық тізбек реакциясы</td>
 </tr>
 <tr>
-<td>88</td>
-<td colspan="4">ПТР әдісімен лептоспирозды анықтауға арналған жиынтық</td>
+<td>85.</td>
+<td>ПТР әдісімен лептоспирозды анықтауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="10">6 - тарау Листериоз</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">6-тарау. Листериоз</td>
 </tr>
 <tr>
-<td colspan="11">26. КБР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">29-параграф. Комплементті байланыстыру реакциясы</td>
 </tr>
 <tr>
-<td>89</td>
-<td colspan="4">Листериозға арналған КБР жиынтығы</td>
+<td>86.</td>
+<td>Листериозға арналған КБР жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>24</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>90</td>
-<td colspan="4">Гемолизин (жұмыс титрі 1:2000)</td>
+<td>87.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>8</td>
-<td>36</td>
-<td></td>
+<td colspan="2">8</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>91</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
+<td>88.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
 <td>доза</td>
-<td>2</td>
-<td>36</td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>92</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>89.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,000017</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,000017</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>93</td>
-<td colspan="4">Стрептомицин</td>
+<td>90.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">27. КБР титрлеу, бақылау, антикомплементарлық, гемотоксиндік (300 сынамаға бір сынау есебімен)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">30-параграф. Комплементті байланыстыру реакциясындағы титрлеу, бақылау, антикомплементтік, қанға уыттылық</td>
 </tr>
 <tr>
-<td>94</td>
-<td colspan="4">Гемолизин (жұмыс титрі 1:2000)</td>
+<td>91.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>184</td>
-<td>36</td>
-<td></td>
+<td colspan="2">184</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>95</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
+<td>92.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
 <td>доза</td>
-<td>34</td>
-<td>36</td>
-<td></td>
+<td colspan="2">34</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>96</td>
-<td colspan="4">Листериозға арналған КБР жиынтығы (1:20)</td>
+<td>93.</td>
+<td>Листериозға арналған КБР жинағы (1:20)</td>
 <td>доза</td>
-<td>26</td>
-<td>24</td>
-<td></td>
+<td colspan="2">26</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>97</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>94.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,000476</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,000476</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>98</td>
-<td colspan="4">Стрептомицин</td>
+<td>95.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">28. Бактериологиялық сынау</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">31-параграф. Бактериологиялық сынау</td>
 </tr>
 <tr>
-<td>99</td>
-<td colspan="4">ЕПА</td>
+<td>96.</td>
+<td>ЕПА</td>
 <td>кг</td>
-<td>0,0034</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0034</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>100</td>
-<td colspan="4">ЕПС</td>
+<td>97.</td>
+<td>ЕПС</td>
 <td>кг</td>
-<td>0,0018</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0018</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>101</td>
-<td colspan="4">Метилен көгі</td>
+<td>98.</td>
+<td>Иммерсиялық май</td>
 <td>кг</td>
-<td>0,0000015</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,000225</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>102</td>
-<td colspan="4">Негізгі фуксин</td>
-<td>кг</td>
-<td>0,00000015</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>103</td>
-<td colspan="4">Кристалды күлгін</td>
-<td>кг</td>
-<td>0,0000015</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>104</td>
-<td colspan="4">Йодты калий</td>
-<td>кг</td>
-<td>0,000001</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>105</td>
-<td colspan="4">Хлорлы натрий</td>
-<td>кг</td>
-<td>0,00612</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>106</td>
-<td colspan="4">Кристалды йод</td>
-<td>кг</td>
-<td>0,0000005</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>107</td>
-<td colspan="4">Глюкоза</td>
-<td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>108</td>
-<td colspan="4">Глицерин</td>
-<td>кг</td>
-<td>0,0000075</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>109</td>
-<td colspan="4">Иммерсионды май</td>
-<td>кг</td>
-<td>0,00015</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>110</td>
-<td colspan="4">Этил спирті (бояулар дайындау үшін)</td>
+<td>99.</td>
+<td>Этил спирті</td>
 <td>литр</td>
-<td>0,000615</td>
-<td>60</td>
-<td></td>
+<td colspan="2">0,00015</td>
+<td colspan="2">60</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>111</td>
-<td colspan="4">Сутегі тотығы</td>
+<td>100.</td>
+<td>Сутегі тотығы</td>
 <td>литр</td>
-<td>0,000075</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,000075</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>112</td>
-<td colspan="4">Ақ тышқандар</td>
+<td>101.</td>
+<td>Ақ тышқандар</td>
 <td>бас</td>
-<td>3</td>
-<td>-</td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2">-</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">29. Бөлінген микроағзалардың биохимиялық қасиеттеріне бактериологиялық зерттеу</td>
+<td>102.</td>
+<td>Грам бойынша бояу жинағы</td>
+<td>талдау</td>
+<td colspan="2">3</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>113</td>
-<td colspan="4">Гисс ортасы глюкозамен</td>
+<td colspan="10">32-параграф. Бөлінген микроағзалардың биохимиялық қасиеттеріне арналған бактериологиялық зерттеулер</td>
+</tr>
+<tr>
+<td>103.</td>
+<td>Глюкозасы бар Гисс ортасы</td>
 <td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>114</td>
-<td colspan="4">Гисс ортасы сахарозамен</td>
+<td>104.</td>
+<td>Раффинозасы бар Гисс ортасы</td>
 <td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>115</td>
-<td colspan="4">Гисс ортасы мальтозамен</td>
+<td>105.</td>
+<td>Сорбиті бар Гисс ортасы</td>
 <td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>116</td>
-<td colspan="4">Гисс ортасы маннитпен</td>
+<td>106.</td>
+<td>Дульциті бар Гисс ортасы</td>
 <td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>117</td>
-<td colspan="4">Гисс ортасы сорбитпен</td>
+<td>107.</td>
+<td>Рамнозасы бар Гисс ортасы</td>
 <td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>118</td>
-<td colspan="4">Гисс ортасы дульцитпен</td>
+<td>108.</td>
+<td>Салицині бар Гисс ортасы</td>
 <td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,000042</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>119</td>
-<td colspan="4">Гисс ортасы лактозамен</td>
+<td>109.</td>
+<td>Инулині бар Гисс ортасы</td>
 <td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">30. ПТР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">33-параграф. Полимеразалық тізбек реакциясы</td>
 </tr>
 <tr>
-<td>120</td>
-<td colspan="4">ПТР листериоз қоздырғышын анықтауға арналған жиынтығы</td>
+<td>110.</td>
+<td>ПТР-да листериоз қоздырғышын анықтауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="10">7 - тарау Пастереллез</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">7-тарау. Пастереллез</td>
 </tr>
 <tr>
-<td colspan="11">31. Бактериологиялық сынау</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">34-параграф. Бактериологиялық сынау</td>
 </tr>
 <tr>
-<td>121</td>
-<td colspan="4">ЕПА (36 грамды бір литрге еріткенде)</td>
+<td>111.</td>
+<td>ЕПА</td>
 <td>кг</td>
-<td>0,0034</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0034</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>122</td>
-<td colspan="4">ЕПС (18 грамды бір литрге еріткенде)</td>
+<td>112.</td>
+<td>ЕПС</td>
 <td>кг</td>
-<td>0,0018</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0018</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>123</td>
-<td colspan="4">Кристалды күлгін</td>
-<td>кг</td>
-<td>0,0000015</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>124</td>
-<td colspan="4">Романовскийский-Гимза бояуы</td>
+<td>113.</td>
+<td>Романовский-Гимза бояуы</td>
 <td>литр</td>
-<td>0,0015</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,0015</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>125</td>
-<td colspan="4">Йодты калий</td>
+<td>114.</td>
+<td>Иммерсиялық май</td>
 <td>кг</td>
-<td>0,000001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,000225</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>126</td>
-<td colspan="4">Кристалды негізгі фуксин</td>
-<td>кг</td>
-<td>0,00000015</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>127</td>
-<td colspan="4">Хлорлы натрий</td>
-<td>кг</td>
-<td>0,00612</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>128</td>
-<td colspan="4">Кристалды йод</td>
-<td>кг</td>
-<td>0,0000005</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>129</td>
-<td colspan="4">Глицерин</td>
-<td>кг</td>
-<td>0,00623</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>130</td>
-<td colspan="4">Иммерсионды май</td>
-<td>кг</td>
-<td>0,00015</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>131</td>
-<td colspan="4">Фенол</td>
-<td>кг</td>
-<td>0,0000075</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>132</td>
-<td colspan="4">Этил спирті (бояулар дайындау үшін)</td>
+<td>115.</td>
+<td>Этил спирті</td>
 <td>литр</td>
-<td>0,000615</td>
-<td>60</td>
-<td></td>
+<td colspan="2">0,00015</td>
+<td colspan="2">60</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>133</td>
-<td colspan="4">Ақ тышқандар</td>
+<td>116.</td>
+<td>Ақ тышқандар</td>
 <td>бас</td>
-<td>3</td>
-<td>-</td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2">-</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">32. Бөлінген микроағзалардың биохимиялық қасиеттеріне бактериологиялық зерттеулер</td>
+<td>117.</td>
+<td>Грам бойынша бояу жинағы</td>
+<td>талдау</td>
+<td colspan="2">3</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>134</td>
-<td colspan="4">
-Гисс ортасы глюкозамен
-(28 грамды бір литрге еріткенде)
-</td>
+<td colspan="10">35-параграф. Бөлінген микроағзалардың биохимиялық қасиеттеріне арналған бактериологиялық зерттеулер</td>
+</tr>
+<tr>
+<td>118.</td>
+<td>Глюкозасы бар Гисс ортасы (28 грамды бір литрге араластырғанда)</td>
 <td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>135</td>
-<td colspan="4">
-Гисс ортасы сахарозамен
-(28 грамды бір литрге еріткенде)
-</td>
+<td>119.</td>
+<td>Сахарозасы бар Гисс ортасы (28 грамды бір литрге араластырғанда)</td>
 <td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>136</td>
-<td colspan="4">
-Гисс ортасы мальтозамен
-(28 грамды бір литрге еріткенде)
-</td>
+<td>120.</td>
+<td>Манниті бар Гисс ортасы (28 грамды бір литрге араластырғанда)</td>
 <td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>137</td>
-<td colspan="4">
-Гисс ортасы маннитпен
-(28 грамды бір литрге еріткенде)
-</td>
+<td>121.</td>
+<td>Сорбиті бар Гисс ортасы (28 грамды бір литрге араластырғанда)</td>
 <td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>138</td>
-<td colspan="4">
-Гисс ортасы сорбитпен
-(28 грамды бір литрге еріткенде)
-</td>
+<td>122.</td>
+<td>Дульциті бар Гисс ортасы (28 грамды бір литрге араластырғанда)</td>
 <td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>139</td>
-<td colspan="4">
-Гисс ортасы дульцитпен
-(28 грамды бір литрге еріткенде)
-</td>
+<td>123.</td>
+<td>Лактозасы бар Гисс ортасы (28 грамды бір литрге араластырғанда)</td>
 <td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>140</td>
-<td colspan="4">
-Гисс ортасы лактозамен
-(28 грамды бір литрге еріткенде)
-</td>
-<td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="10">36-параграф. Бөлінген микрофлораның антибиотиктерге сезімталдығын талдау</td>
 </tr>
 <tr>
-<td colspan="11">33. Бөлінген микрофлоралардың антибиотиктерге сезімталдығын талдау</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>141</td>
-<td colspan="4">Антибиотиктердің бір түріне арналған арнайы дискілер</td>
+<td>124.</td>
+<td>Антибиотиктің бір түріне арналған арнайы дискілер</td>
 <td>дана</td>
-<td>1</td>
-<td>24</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>142</td>
-<td colspan="4">Антибиотиктердің бір түріне арналған ЕПА</td>
+<td>125.</td>
+<td>Антибиотиктің бір түріне арналған ЕПА</td>
 <td>кг</td>
-<td>0,00054</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00054</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">34.ПТР</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="10">37-параграф. Полимеразалық тізбек реакциясы</td>
 </tr>
 <tr>
-<td>143</td>
-<td colspan="4">ПТР әдісімен пастереллез қоздырғышын анықтауға арналған жиынтық</td>
+<td>126.</td>
+<td>ПТР әдісімен пастереллез қоздырғышын анықтауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="10">8 - тарау. Сібір жарасы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">8-тарау. Сібір жарасы</td>
 </tr>
 <tr>
-<td colspan="11">35. Бактериологиялық сынау</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">38-параграф. Бактериологиялық сынау</td>
 </tr>
 <tr>
-<td>144</td>
-<td colspan="4">ЕПА</td>
+<td>127.</td>
+<td>ЕПА</td>
 <td>кг</td>
-<td>0,0034</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0034</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>145</td>
-<td colspan="4">ЕПС</td>
+<td>128.</td>
+<td>ЕПС</td>
 <td>кг</td>
-<td>0,0018</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0018</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>146</td>
-<td colspan="4">Метилен көгі</td>
+<td>129.</td>
+<td>Метилен көгі</td>
 <td>кг</td>
-<td>0,0000015</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,000045</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>147</td>
-<td colspan="4">Сафранин</td>
+<td>130.</td>
+<td>Сафранин</td>
 <td>кг</td>
-<td>0,000003</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,0003</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>148</td>
-<td colspan="4">Кристалды күлгін</td>
-<td>кг</td>
-<td>0,0000015</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>149</td>
-<td colspan="4">Романовский-Гимза бояуы</td>
+<td>131.</td>
+<td>Романовский-Гимза бояуы</td>
 <td>литр</td>
-<td>0,0015</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,0015</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>150</td>
-<td colspan="4">Йодты калий</td>
+<td>132.</td>
+<td>Глицерин</td>
 <td>кг</td>
-<td>0,000001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0000075</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>151</td>
-<td colspan="4">Негізгі фуксин</td>
+<td>133.</td>
+<td>Иммерсиялық май</td>
 <td>кг</td>
-<td>0,00000015</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,000225</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>152</td>
-<td colspan="4">Хлорлы натрий</td>
+<td>134.</td>
+<td>Пенициллин</td>
+<td>бірл.</td>
+<td colspan="2">100 000</td>
+<td colspan="2">6</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>135.</td>
+<td>Фенол</td>
 <td>кг</td>
-<td>0,00612</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0000075</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>153</td>
-<td colspan="4">Кристалды йод</td>
-<td>кг</td>
-<td>0,0000005</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>154</td>
-<td colspan="4">Глюкоза</td>
-<td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>155</td>
-<td colspan="4">Глицерин</td>
-<td>кг</td>
-<td>0,0000075</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>156</td>
-<td colspan="4">Иммерсионды май</td>
-<td>кг</td>
-<td>0,00015</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>157</td>
-<td colspan="4">Пенициллин</td>
-<td>әб</td>
-<td>100 000</td>
-<td>6</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>158</td>
-<td colspan="4">Фенол</td>
-<td>кг</td>
-<td>0,0000075</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>159</td>
-<td colspan="4">Этил спирті (бояулар дайындау үшін)</td>
+<td>136.</td>
+<td>Этил спирті</td>
 <td>литр</td>
-<td>0,000615</td>
-<td>60</td>
-<td></td>
+<td colspan="2">0,000765</td>
+<td colspan="2">60</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>160</td>
-<td colspan="4">Сібір жарасының преципитерлеуші сарысуы</td>
+<td>137.</td>
+<td>Сібір жарасының преципитаттаушы қан сарысуы</td>
 <td>литр</td>
-<td>0,0003</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0003</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>161</td>
-<td colspan="4">Сібір жарасының бактериялық антигені</td>
+<td>138.</td>
+<td>Сібір жарасының бактериялық антигені</td>
 <td>литр</td>
-<td>0,0003</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0003</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>162</td>
-<td colspan="4">Ақ тышқандар</td>
+<td>139.</td>
+<td>Ақ тышқандар</td>
 <td>бас</td>
-<td>3</td>
-<td>-</td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2">-</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">36. ПТР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>163</td>
-<td colspan="4">ПТР әдісімен сібір жарасының қоздырғышын анықтауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td>140.</td>
+<td>Грам бойынша бояулар жинағы</td>
+<td>талдау</td>
+<td colspan="2">3</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">9 - тарау Туберкулез</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">37. Бактериологиялық сынау</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>164</td>
-<td colspan="4">
-Левенштейн – Йенсен ортасы
-(400 мл. дистилденген суда 35,11 г. еріткенде)
-</td>
+<td>141.</td>
+<td>Генцианвиолет</td>
 <td>кг</td>
-<td>0,007</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00075</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>165</td>
-<td colspan="4">Кристалды күлгін</td>
-<td>кг</td>
-<td>0,0000015</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>166</td>
-<td colspan="4">Йодты калий</td>
-<td>кг</td>
-<td>0,000001</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>167</td>
-<td colspan="4">Малахит жасылы</td>
-<td>кг</td>
-<td>0,000003</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>168</td>
-<td colspan="4">Негізгі фуксин</td>
-<td>кг</td>
-<td>0,00000015</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>169</td>
-<td colspan="4">Хлорлы натрий</td>
-<td>кг</td>
-<td>0,00612</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>170</td>
-<td colspan="4">Тұз қышқылы</td>
-<td>кг</td>
-<td>0,0000015</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>171</td>
-<td colspan="4">Қымыздық қышқылы</td>
-<td>кг</td>
-<td>0,01</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>172</td>
-<td colspan="4">Кристалды йод</td>
-<td>кг</td>
-<td>0,0000005</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>173</td>
-<td colspan="4">Глюкоза</td>
-<td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>174</td>
-<td colspan="4">Глицерин</td>
-<td>кг</td>
-<td>0,0000075</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>175</td>
-<td colspan="4">Иммерсионды май</td>
-<td>кг</td>
-<td>0,00015</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>176</td>
-<td colspan="4">Фенол</td>
-<td>кг</td>
-<td>0,0000075</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>177</td>
-<td colspan="4">Этил спирті (бояулар дайындау үшін)</td>
+<td>142.</td>
+<td>Формалин</td>
 <td>литр</td>
-<td>0,000315</td>
-<td>60</td>
-<td></td>
+<td colspan="2">0,006</td>
+<td colspan="2">3</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>178</td>
-<td colspan="4">Теңіз шошқалары</td>
+<td colspan="10">39-параграф. Полимеразалық тізбек реакциясы</td>
+</tr>
+<tr>
+<td>143.</td>
+<td>ПТР-да сібір жарасының қоздырғышын анықтауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">9-тарау. Туберкулез</td>
+</tr>
+<tr>
+<td colspan="10">40-параграф. Бактериологиялық сынау</td>
+</tr>
+<tr>
+<td>144.</td>
+<td>Левенштейн-Йенсен ортасы (35,11 грамды 400 мл. дистилденген суға араластырғанда)</td>
+<td>кг</td>
+<td colspan="2">0,007</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>145.</td>
+<td>Тұз қышқылы</td>
+<td>кг</td>
+<td colspan="2">0,0000015</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>146.</td>
+<td>Қымыздық қышқылы</td>
+<td>кг</td>
+<td colspan="2">0,01</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>147.</td>
+<td>Глюкоза</td>
+<td>кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>148.</td>
+<td>Глицерин</td>
+<td>кг</td>
+<td colspan="2">0,0000075</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>149.</td>
+<td>Иммерсиялық май</td>
+<td>кг</td>
+<td colspan="2">0,000225</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>150.</td>
+<td>Карбол қышқылы (Фенол)</td>
+<td>кг</td>
+<td colspan="2">0,0000075</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>151.</td>
+<td>Этил спирті</td>
+<td>литр</td>
+<td colspan="2">0,000315</td>
+<td colspan="2">60</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>152.</td>
+<td>Теңіз шошқалары</td>
 <td>бас</td>
-<td>2</td>
-<td>-</td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2">-</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">38. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="10">10 - тарау Аусыл</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">40. Иммунитеттің қауырттылығын сынауға арналған КБР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>181</td>
-<td colspan="4">Гемолизин (жұмыс титрі 1:2000)</td>
-<td>доза</td>
-<td>48</td>
-<td>36</td>
-<td></td>
+<td>153.</td>
+<td>Грам бойынша бояу жинағы</td>
+<td>талдау</td>
+<td colspan="2">3</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>182</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 2,5 – 3 % артық емес)</td>
-<td>доза</td>
-<td>12</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>183</td>
-<td colspan="4">«А» типті аусыл антигені</td>
-<td>литр</td>
-<td>0,00005</td>
-<td>18</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>184</td>
-<td colspan="4">«О» типті аусыл антигені</td>
-<td>литр</td>
-<td>0,00005</td>
-<td>18</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>185</td>
-<td colspan="4">«Азия-1» типті аусыл антигені</td>
-<td>литр</td>
-<td>0,00005</td>
-<td>18</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>186</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>154.</td>
+<td>Метилен көгі</td>
 <td>кг</td>
-<td>0,000051</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,00003</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>187</td>
-<td colspan="4">Стрептомицин</td>
+<td>155.</td>
+<td>Күйдіргіш калий</td>
+<td>кг</td>
+<td colspan="2">0,0001</td>
+<td colspan="2">мерзімсіз</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">41-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>156.</td>
+<td>ИФТ-да туберкулезді диагностикалауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">42-параграф. Полимеразалық тізбек реакциясы</td>
+</tr>
+<tr>
+<td>157.</td>
+<td>ПТР әдісімен туберкулез қоздырғышын анықтауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">10-тарау. Аусыл</td>
+</tr>
+<tr>
+<td colspan="10">43-параграф. Иммунитеттің қауырттылығын сынауға арналған комплементті байланыстыру реакциясы</td>
+</tr>
+<tr>
+<td>158.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
+<td>доза</td>
+<td colspan="2">48</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>159.</td>
+<td>Құрғақ комплемент (жұмыс титрі 2,5-3%-дан артық емес)</td>
+<td>доза</td>
+<td colspan="2">12</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>160.</td>
+<td>«А» типті аусыл антигені</td>
+<td>литр</td>
+<td colspan="2">0,00005</td>
+<td colspan="2">18</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>161.</td>
+<td>«О» типті аусыл антигені</td>
+<td>литр</td>
+<td colspan="2">0,00005</td>
+<td colspan="2">18</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>162.</td>
+<td>«Азия-1» типті аусыл антигені</td>
+<td>литр</td>
+<td colspan="2">0,00005</td>
+<td colspan="2">18</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>163.</td>
+<td>0,85% хлорлы натрий</td>
+<td>кг</td>
+<td colspan="2">0,000051</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>164.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">41. КБР әдісімен иммунитеттің қауырттылығын сынау кезіндегі титрация, бақылау (100 сынамаға 1 сынау есебінен)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">44-параграф. Комплементті байланыстыру реакциясы әдісімен иммунитеттің қауырттылығын сынау кезіндегі титрлеу, бақылау</td>
 </tr>
 <tr>
-<td>189</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 2,5 – 3 % артық емес)</td>
+<td>165.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>43</td>
-<td>36</td>
-<td></td>
+<td colspan="2">356</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>190</td>
-<td colspan="4">«А» типті аусыл қан сарысуы</td>
+<td>166.</td>
+<td>Құрғақ комплемент (жұмыс титрі 2,5-3%-дан артық емес)</td>
+<td>доза</td>
+<td colspan="2">43</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>167.</td>
+<td>«А» типті аусыл қан сарысуы</td>
 <td>литр</td>
-<td>0,0002</td>
-<td>18</td>
-<td></td>
+<td colspan="2">0,0002</td>
+<td colspan="2">18</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>191</td>
-<td colspan="4">«О» типті аусыл қан сарысуы</td>
+<td>168.</td>
+<td>«О» типті аусыл қан сарысуы</td>
 <td>литр</td>
-<td>0,0002</td>
-<td>18</td>
-<td></td>
+<td colspan="2">0,0002</td>
+<td colspan="2">18</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>192</td>
-<td colspan="4">«Азия-1» типті аусыл қан сарысуы</td>
+<td>169.</td>
+<td>«Азия-1» типті аусыл қан сарысуы</td>
 <td>литр</td>
-<td>0,0002</td>
-<td>18</td>
-<td></td>
+<td colspan="2">0,0002</td>
+<td colspan="2">18</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>193</td>
-<td colspan="4">«А» типті аусыл антигені</td>
+<td>170.</td>
+<td>«А» типті аусыл антигені</td>
 <td>литр</td>
-<td>0,00005</td>
-<td>18</td>
-<td></td>
+<td colspan="2">0,00005</td>
+<td colspan="2">18</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>194</td>
-<td colspan="4">«О» типті аусыл антигені</td>
+<td>171.</td>
+<td>«О» типті аусыл антигені</td>
 <td>литр</td>
-<td>0,00005</td>
-<td>18</td>
-<td></td>
+<td colspan="2">0,00005</td>
+<td colspan="2">18</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>195</td>
-<td colspan="4">«Азия-1» типті аусыл антигені</td>
+<td>172.</td>
+<td>«Азия-1» типті аусыл антигені</td>
 <td>литр</td>
-<td>0,00005</td>
-<td>18</td>
-<td></td>
+<td colspan="2">0,00005</td>
+<td colspan="2">18</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>196</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>173.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,0003187</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0003187</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>197</td>
-<td colspan="4">Стрептомицин</td>
+<td>174.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">42. Иммунитет қаурыттылығын сынауға арналған ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">45-параграф. Иммунитет қауырттылығын сынауға арналған иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>198</td>
-<td colspan="4">Аусыл вирусының А, О, Азия-1 типтеріне иммунитет кернеулігін анықтауға арналған жиынтық</td>
+<td>175.</td>
+<td>Бір типке ИФТ әдісімен аусыл вирусына иммунитет қауыттылығын анықтауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">43.Иммунитет қауырттылығын сынау үшін арналған ИФТ</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="10">46-параграф. Полимеразалық тізбек реакциясы</td>
 </tr>
 <tr>
-<td>199</td>
-<td colspan="4">ИФТ әдісімен аусыл вирусына иммунитет қауырттылығын анықтау үшін арналған жинақ, бір араласпада бір типке</td>
+<td>176.</td>
+<td>ПТР-да аусыл вирусын анықтауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">44. ПТР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">47-параграф. Құрылымсыз ақуыздарға сынауға арналған иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>200</td>
-<td colspan="4">Аусылдың вирусын ПТР әдісімен анықтауға арналған жиынтық</td>
+<td>177.</td>
+<td>ИФТ-да аусыл вирусының құрылымсыз ақуыздарына антиденелерді анықтауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">45. Құрылымсыз белоктарды сынауға арналған ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">11-тарау. Күл</td>
 </tr>
 <tr>
-<td>201</td>
-<td colspan="4">Аусыл вирусының құрылымсыз белоктарына антиденелерді ИФТ әдісімен анықтауға арналған жиынтық</td>
+<td colspan="10">48-параграф. Диффузиялық преципитаттау реакциясы</td>
+</tr>
+<tr>
+<td>178.</td>
+<td>ДПР-да күлді диагностикалауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="10">11 - тарау Күл</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">49-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td colspan="11">46. ДПР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>202</td>
-<td colspan="4">ДПР күлді диагностикалауға арналған жиынтық</td>
+<td>179.</td>
+<td>Күлді диагностикалауға арналған ИФТ жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>203</td>
-<td colspan="4">1% агар</td>
+<td colspan="10">50-параграф. Полимеразалық тізбек реакциясы</td>
+</tr>
+<tr>
+<td>180.</td>
+<td>ПТР-да күл вирусын диагностикалауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">12-тарау. Эхинококкоз</td>
+</tr>
+<tr>
+<td colspan="10">51-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>181.</td>
+<td>Эхинококкозды диагностикалауға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">13-тарау. Паратуберкулез</td>
+</tr>
+<tr>
+<td colspan="10">52-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>182.</td>
+<td>Паратуберкулезді диагностикалауға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">53-параграф. Полимеразалық тізбек реакциясы</td>
+</tr>
+<tr>
+<td>183.</td>
+<td>ПТР-да паратуберкулезді диагностикалауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">14-тарау. Токсоплазмоз</td>
+</tr>
+<tr>
+<td colspan="10">54-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>184.</td>
+<td>Токсоплазмозды диагностикалауға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">55-параграф. Комплементті байланыстыру реакциясы</td>
+</tr>
+<tr>
+<td>185.</td>
+<td>Токсоплазмозға арналған КБР жинағы (жұмыс титрі 1:10)</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>186.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
+<td>доза</td>
+<td colspan="2">2</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>187.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>188.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,0000044</td>
-<td>48</td>
-<td></td>
+<td colspan="2">0,0000085</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>204</td>
-<td colspan="4">Хлорлы натрий</td>
-<td>кг</td>
-<td>0,000049</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">47. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>205</td>
-<td colspan="4">Күлді диагностикалауға арналған ИФТ жиынтығы</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">48. ПТР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>206</td>
-<td colspan="4">Күлді диагностикалауға арналған ПТР жиынтығы</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">12 - тарау Эхинококкоз</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">49. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>207</td>
-<td colspan="4">
-Эхинококкозды
-диагностикалауға арналған ИФТ жиынтығы
-</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">13 - тарау Паратуберкулез</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">50. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>208</td>
-<td colspan="4">Паратуберкулезді диагностикалауға арналған ИФТ жиынтығы</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">51. ПТР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>209</td>
-<td colspan="4">Паратуберкулезді диагностикалауға арналған ПТР жиынтығы</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">14 - тарау Токсоплазмоз</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">52. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>210</td>
-<td colspan="4">Токсоплазмозды диагностикалауға арналған ИФТ жиынтығы</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">53. КБР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>211</td>
-<td colspan="4">Токсоплазмозға арналған КБР жиынтығы (1:10 жұмыс титрі)</td>
-<td>доза</td>
-<td>1</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>212</td>
-<td colspan="4">Гемолизин (1:2000 жұмыс титрі)</td>
-<td>доза</td>
-<td>2</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>213</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
-<td>доза</td>
-<td>1</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>214</td>
-<td colspan="4">0,85% хлорлы натрий</td>
-<td>кг</td>
-<td>0,0000085</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>215</td>
-<td colspan="4">Стрептомицин</td>
+<td>189.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">54. КБР титрлеу, бақылау, антикомплементарлық, гемотоксиндік (50 сынамаға бір сынау есебінен)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">56-параграф. Комплементті байланыстыру реакциясындағы титрлеу, бақылау, антикомплементтік, қанға уыттылық</td>
 </tr>
 <tr>
-<td>216</td>
-<td colspan="4">Гемолизин (жұмыс титрі 1:2000)</td>
+<td>190.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>96</td>
-<td>24</td>
-<td></td>
+<td colspan="2">96</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>217</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
+<td>191.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
 <td>доза</td>
-<td>61</td>
-<td>36</td>
-<td></td>
+<td colspan="2">61</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>218</td>
-<td colspan="4">Токсоплазмозға арналған КБР жиынтығы (1:10 жұмыс титрі)</td>
+<td>192.</td>
+<td>Токсоплазмозға арналған КБР жинағы (жұмыс титрі 1:10)</td>
 <td>доза</td>
-<td>28</td>
-<td>36</td>
-<td></td>
+<td colspan="2">28</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>219</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>193.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,000532</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,000532</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>220</td>
-<td colspan="4">Стрептомицин</td>
+<td>194.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="10">55. КБР қайта қою (50 сынамаға бір сынау есебінен)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">57-параграф. Комплементті байланыстыру реакциясын қайта қою</td>
 </tr>
 <tr>
-<td>221</td>
-<td colspan="4">Токсоплазмозға арналған КБР жиынтығы (1:10 жұмыс титрі)</td>
+<td>195.</td>
+<td>Токсоплазмозға арналған КБР жинағы (жұмыс титрі 1:10)</td>
+<td>Доза</td>
+<td colspan="2">2</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>196.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>2</td>
-<td>24</td>
-<td></td>
+<td colspan="2">6</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>222</td>
-<td colspan="4">Гемолизин (жұмыс титрі 1:2000)</td>
+<td>197.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
 <td>доза</td>
-<td>6</td>
-<td>36</td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>223</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
-<td>доза</td>
-<td>3</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>224</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>198.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,0000255</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0000255</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>225</td>
-<td colspan="4">Стрептомицин</td>
+<td>199.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">15 - тарау. Трихофития</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">15-тарау. Трихофития</td>
 </tr>
 <tr>
-<td colspan="11">56. Микроскопиялық зерттеулер</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">58-параграф. Микроскопиялық зерттеулер</td>
 </tr>
 <tr>
-<td>226</td>
-<td colspan="4">Натрий немесе калий гидрооксиді</td>
+<td>200.</td>
+<td>Натрий немесе калий гидроксиді</td>
 <td>кг</td>
-<td>0,0000225</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0000225</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">16 - тарау. Риккетсиялар</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">16-тарау. Риккетсиоздар</td>
 </tr>
 <tr>
-<td colspan="11">57. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">59-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>227</td>
-<td colspan="4">Жануарлардың риккетсияларын диагностикалауға арналған ИФТ жиынтығы</td>
+<td>201.</td>
+<td>Жануарлар риккетсиоздарын диагностикалауға арналған ИФТ жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">17 - тарау. Туляремия</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">17-тарау. Туляремия</td>
 </tr>
 <tr>
-<td colspan="11">58. Бактериологиялық зерттеулер</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">60-параграф. Бактериологиялық зерттеу</td>
 </tr>
 <tr>
-<td>228</td>
-<td colspan="4">ЕПА</td>
+<td>202.</td>
+<td>ЕПА</td>
 <td>кг</td>
-<td>0,0034</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0034</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>229</td>
-<td colspan="4">ЕПС</td>
+<td>203.</td>
+<td>ЕПС</td>
 <td>кг</td>
-<td>0,00342</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00342</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>230</td>
-<td colspan="4">Кристаллды күлгін</td>
-<td>кг</td>
-<td>0,0000015</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>231</td>
-<td colspan="4">Романовский-Гимза бояуы</td>
+<td>204.</td>
+<td>Романовский-Гимза бояуы</td>
 <td>литр</td>
-<td>0,0015</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,0015</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>232</td>
-<td colspan="4">Люголь ерітіндісі үшін йодты калий</td>
+<td>205.</td>
+<td>Иммерсиялық май</td>
 <td>кг</td>
-<td>0,000001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,000225</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>233</td>
-<td colspan="4">Негізгі фуксин</td>
+<td>206.</td>
+<td>Вазелин майы</td>
 <td>кг</td>
-<td>0,00000015</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,009</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>234</td>
-<td colspan="4">Кристалды йод</td>
+<td>207.</td>
+<td>Балғын бауыр</td>
 <td>кг</td>
-<td>0,0000005</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,03</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>235</td>
-<td colspan="4">Глицерин</td>
-<td>кг</td>
-<td>0,00623</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>236</td>
-<td colspan="4">Иммерсиондық май</td>
-<td>кг</td>
-<td>0,00015</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>237</td>
-<td colspan="4">Вазелин майы</td>
-<td>кг</td>
-<td>0,009</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>238</td>
-<td colspan="4">Карбол қышқылы немесе фенол</td>
-<td>кг</td>
-<td>0,0000075</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>239</td>
-<td colspan="4">Балғын бауыр</td>
-<td>кг</td>
-<td>0,03</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>240</td>
-<td colspan="4">Ақ тышқандар</td>
+<td>208.</td>
+<td>Ақ тышқандар</td>
 <td>бас</td>
-<td>3</td>
-<td>-</td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2">-</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>241</td>
-<td colspan="4">Этил спирті (бояулар дайындау үшін)</td>
+<td>209.</td>
+<td>Этил спирті</td>
 <td>литр</td>
-<td>0,000615</td>
-<td>60</td>
-<td></td>
+<td colspan="2">0,000615</td>
+<td colspan="2">60</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">59. ИФТ</td>
+<td>210.</td>
+<td>Грам бойынша бояу жинағы</td>
+<td>талдау</td>
+<td colspan="2">3</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>242</td>
-<td colspan="4">Туляремия қоздырғышын табуға арналған ИФТ тест-жиынтықтары</td>
+<td colspan="10">61-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>211.</td>
+<td>ИФТ-да туляремия қоздырғышын анықтауға арналған жинақ (тест-жүйе)</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">18 - тарау Везикулярлы стоматит</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">1-тарау. Везикулярлы стоматит</td>
 </tr>
 <tr>
-<td colspan="11">60. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">62-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>243</td>
-<td colspan="4">Везикулярлы стоматитті ИФТ әдісімен диагностикалауға арналған жиынтық</td>
+<td>212.</td>
+<td>Везикулярлы стоматитті диагностикалауға арналған ИФТ жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">2-бөлім. ІҚМ аурулары бойынша зерттеулер</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">2-бөлім. Ірі қара мал аурулары бойынша зерттеулер</td>
 </tr>
 <tr>
-<td colspan="8">19 - тарау. Вирустық диарея</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">19-тарау. Вирустық диарея</td>
 </tr>
 <tr>
-<td colspan="11">61. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">63-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>244</td>
-<td colspan="4">Вирустық диареяны ИФТ әдісімен диагностикалауға арналған жиынтық</td>
+<td>213.</td>
+<td>Вирустық диареяны диагностикалауға арналған ИФТ жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">62.ПТР</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="10">64-параграф. Полимеразалық тізбек реакциясы</td>
 </tr>
 <tr>
-<td>245</td>
-<td colspan="4">ПТР әдісімен вирустық диареяны анықтауға арналған жинақ</td>
+<td>214.</td>
+<td>ПТР әдісімен вирустық диареяны анықтауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">20 - тарау. Шмалленберг ауруы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">20-тарау. Шмалленберг ауруы</td>
 </tr>
 <tr>
-<td colspan="11">63. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">65-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>246</td>
-<td colspan="4">ИФТ әдісімен Шмалленберг ауруын диагностикалауға арналған жиынтық</td>
+<td>215.</td>
+<td>ИФТ әдісімен Шмалленберг ауруын диагностикалауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">64.ПТР</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="10">66-параграф. Полимеразалық тізбек реакциясы</td>
 </tr>
 <tr>
-<td>247</td>
-<td colspan="4">ПТР әдісімен Шмалленберг ауруын анықтауға арналған жинақ</td>
+<td>216.</td>
+<td>ПТР әдісімен Шмалленберг ауруын анықтауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">21 - тарау. Індетті ринотрахейт</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">21-тарау. Инфекциялық ринотрахеит</td>
 </tr>
 <tr>
-<td colspan="11">65. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">67-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>248</td>
-<td colspan="4">ИФТ әдісімен індетті ринотрахеитті диагностикалауға арналған жиынтық</td>
+<td>217.</td>
+<td>Инфекциялық ринотрахеитті диагностикалауға арналған ИФТ жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">66. ПТР</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="10">68. Полимеразалық тізбек реакциясы</td>
 </tr>
 <tr>
-<td>249</td>
-<td colspan="4">ПТР әдісімен инфекциялық ринотрахеитті анықтауға арналған жинақ</td>
+<td>218.</td>
+<td>ПТР әдісімен инфекциялық ринотрахеитті анықтауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">22 - тарау. Парагрипп-3</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">22-тарау. Парагрипп-3</td>
 </tr>
 <tr>
-<td colspan="8">67. ИФТ</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">69-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>250</td>
-<td colspan="4">ИФТ әдісімен парагрипп - 3 диагностикалауға арналған жиынтық</td>
+<td>219.</td>
+<td>Парагрипп-3-ті диагностикалауға арналған ИФТ жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="8">68.ПТР</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="10">70-параграф. Полимеразалық тізбек реакциясы</td>
 </tr>
 <tr>
-<td>251</td>
-<td colspan="4">ПТР әдісімен парагрипп-3 анықтауға арналған жиынтық</td>
+<td>220.</td>
+<td>ПТР әдісімен парагрипп-3-ті анықтауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">23 - тарау. ІҚМ обасы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">23-тарау. Ірі қара мал обасы</td>
 </tr>
 <tr>
-<td colspan="11">69. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">71-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>252</td>
-<td colspan="4">ИФТ әдісімен ІҚМ обасын диагностикалауға арналған жиынтық</td>
+<td>221.</td>
+<td>ІҚМ обасын диагностикалауға арналған ИФТ жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">24 - тарау. Қарасан</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">24-тарау. Қарасан</td>
 </tr>
 <tr>
-<td colspan="11">70. Бактериологиялық сынау</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">72-параграф. Бактериологиялық сынау</td>
 </tr>
 <tr>
-<td>253</td>
-<td colspan="4">ЕПА</td>
+<td>222.</td>
+<td>ЕПА</td>
 <td>кг</td>
-<td>0,0034</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0034</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>254</td>
-<td colspan="4">ЕПС</td>
+<td>223.</td>
+<td>ЕПС</td>
 <td>кг</td>
-<td>0,00342</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00342</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>255</td>
-<td colspan="4">Метилен көгі</td>
+<td>224.</td>
+<td>Метилен көгі</td>
 <td>кг</td>
-<td>0,0000015</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00008</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>256</td>
-<td colspan="4">Романовский-Гимза бояуы</td>
+<td>225.</td>
+<td>Романовский-Гимза бояуы</td>
 <td>литр</td>
-<td>0,0015</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,0015</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>257</td>
-<td colspan="4">Кристалды күлгін</td>
+<td>226.</td>
+<td>Негізгі фуксин</td>
 <td>кг</td>
-<td>0,0000015</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0003</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>258</td>
-<td colspan="4">Йодты калий</td>
+<td>227.</td>
+<td>Глицерин</td>
 <td>кг</td>
-<td>0,000001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,000075</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>259</td>
-<td colspan="4">Негізгі фуксин</td>
+<td>228.</td>
+<td>Иммерсиялық май</td>
 <td>кг</td>
-<td>0,00000015</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,000225</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>260</td>
-<td colspan="4">Хлорлы натрий</td>
+<td>229.</td>
+<td>Фенол</td>
 <td>кг</td>
-<td>0,00612</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0000075</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>261</td>
-<td colspan="4">Кристалды йод</td>
+<td>230.</td>
+<td>Балғын бауыр</td>
 <td>кг</td>
-<td>0,0000005</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,03</td>
+<td colspan="2">-</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>262</td>
-<td colspan="4">Глюкоза</td>
-<td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>263</td>
-<td colspan="4">Глицерин</td>
-<td>кг</td>
-<td>0,000075</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>264</td>
-<td colspan="4">Вазелин майы</td>
-<td>кг</td>
-<td>0,00945</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>265</td>
-<td colspan="4">Иммерсионды май</td>
-<td>кг</td>
-<td>0,00015</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>266</td>
-<td colspan="4">Фенол</td>
-<td>кг</td>
-<td>0,0000075</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>267</td>
-<td colspan="4">Этил спирті (бояулар дайындау үшін)</td>
-<td>литр</td>
-<td>0,000765</td>
-<td>60</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>268</td>
-<td colspan="4">Балғын бауыр</td>
-<td>кг</td>
-<td>0,03</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>269</td>
-<td colspan="4">Теңіз шошқасы</td>
+<td>231.</td>
+<td>Теңіз шошқалары</td>
 <td>бас</td>
-<td>2</td>
-<td>-</td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2">-</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">25 - тарау. Кампилобактериоз</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">71. Бактериологиялық сынау</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>270</td>
-<td colspan="4">Кампилобакагар</td>
-<td>кг</td>
-<td>0,0086</td>
-<td>24</td>
-<td></td>
+<td>232.</td>
+<td>Грам бойынша бояу жинағы</td>
+<td>талдау</td>
+<td colspan="2">3</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>271</td>
-<td colspan="4">Негізгі фуксин</td>
-<td>кг</td>
-<td>0,00000015</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>272</td>
-<td colspan="4">Этил спирті (бояулар дайындау үшін)</td>
+<td>233.</td>
+<td>Этил спирті</td>
 <td>литр</td>
-<td>0,000615</td>
-<td>60</td>
-<td></td>
+<td colspan="2">0,000765</td>
+<td colspan="2">60</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">72. ПТР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>273</td>
-<td colspan="4">ПТР - да кампилобактериоз қоздырғышын анықтауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="8">26 - тарау. Кеміктәріздес энцефалопатия</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">73. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>274</td>
-<td colspan="4">ІҚМ кеміктәріздес энцефалопатияны ИФТ диагностикалауға арналған тест – жүйе</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">27 - тарау. Нодулярлы дерматит</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">74. ПТР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>275</td>
-<td colspan="4">ПТР нодулярлы дерматит қоздырғышын анықтауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">28 - тарау. Қойдың хламидиоздық (энзоотиялық) іш тастауы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="8">75. КБР</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>276</td>
-<td colspan="4">Гемолизин (жұмыс титрі 1:2000)</td>
-<td>доза</td>
-<td>8</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>277</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
-<td>доза</td>
-<td>8</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>278</td>
-<td colspan="4">Хламидиозға арналған КБР жиынтығы (1:16)</td>
-<td>доза</td>
-<td>2</td>
-<td>18</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>279</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>234.</td>
+<td>1 % күйдіргіш калий</td>
 <td>кг</td>
-<td>0,000034</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">мерзімсіз</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>280</td>
-<td colspan="4">Стрептомицин</td>
+<td colspan="10">25-тарау. Кампилобактериоз</td>
+</tr>
+<tr>
+<td colspan="10">73-параграф. Бактериологиялық сынау</td>
+</tr>
+<tr>
+<td>235.</td>
+<td>Кампилобакагар</td>
+<td>кг</td>
+<td colspan="2">0,0086</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>236.</td>
+<td>Негізгі фуксин</td>
+<td>кг</td>
+<td colspan="2">0,00000015</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>237.</td>
+<td>Этил спирті</td>
+<td>литр</td>
+<td colspan="2">0,000765</td>
+<td colspan="2">60</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>238.</td>
+<td>Иммерсиялық май</td>
+<td>кг</td>
+<td colspan="2">0,000225</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">74-параграф. Полимеразалық тізбек реакциясы</td>
+</tr>
+<tr>
+<td>239.</td>
+<td>ПТР әдісімен кампилобактериоз қоздырғышын анықтауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">26-тарау. Кеміктәріздес энцефалопатия</td>
+</tr>
+<tr>
+<td colspan="10">75-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>240.</td>
+<td>ИФТ-да ІҚМ кеміктәріздес энцефалопатиясын диагностикалауға арналған тест-жүйе</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">27-тарау. Нодулярлы дерматит</td>
+</tr>
+<tr>
+<td colspan="10">76-параграф. Полимеразалық тізбек реакциясы</td>
+</tr>
+<tr>
+<td>241.</td>
+<td>ПТР-да нодулярлы дерматит қоздырғышын анықтауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">77-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>242.</td>
+<td>ИФА-да нодулярлы дерматитті диагностикалауға арналған тест-жүйе</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">28-тарау. Қойдың хламидиоздық (энзоотиялық) іш тастауы</td>
+</tr>
+<tr>
+<td colspan="10">78-параграф. Комплементті байланыстыру реакциясы</td>
+</tr>
+<tr>
+<td>243.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
+<td>доза</td>
+<td colspan="2">8</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>244.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
+<td>доза</td>
+<td colspan="2">8</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>245.</td>
+<td>Хламидиозды диагностикалауға арналған КБР жинағы (1:16)</td>
+<td>доза</td>
+<td colspan="2">2</td>
+<td colspan="2">18</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>246.</td>
+<td>0,85% хлорлы натрий</td>
+<td>кг</td>
+<td colspan="2">0,000034</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>247.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">76. КБР титрлеу, бақылау, антикомплементарлық, гемотоксиндік (300 сынамаға бір сынау есебінен)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">79-параграф. Комплементті байланыстыру реакциясындағы титрлеу, бақылау, антикомплементтік, қанға уыттылық</td>
 </tr>
 <tr>
-<td>281</td>
-<td colspan="4">Гемолизин (жұмыс титрі 1:2000)</td>
+<td>248.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>100</td>
-<td>36</td>
-<td></td>
+<td colspan="2">100</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>282</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
+<td>249.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
 <td>доза</td>
-<td>71</td>
-<td>36</td>
-<td></td>
+<td colspan="2">71</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>283</td>
-<td colspan="4">Хламидиозға арналған КБР жиынтығы (1:16)</td>
+<td>250.</td>
+<td>Хламидиозды диагностикалауға арналған КБР жинағы (1:16)</td>
 <td>доза</td>
-<td>28</td>
-<td>18</td>
-<td></td>
+<td colspan="2">28</td>
+<td colspan="2">18</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>284</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>251.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,00055</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,00055</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>285</td>
-<td colspan="4">Стрептомицин</td>
+<td>252.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">77. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">80-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>286</td>
-<td colspan="4">Хламидиозды ИФТ әдісімен диагностикалауға арналған жиынтық</td>
+<td>253.</td>
+<td>ИФТ әдісімен хламидиозды анықтауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">78. ПТР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">81-параграф. Полимеразалық тізбек реакциясы</td>
 </tr>
 <tr>
-<td>287</td>
-<td colspan="4">Хламидиозды ПТР әдісімен диагностикалауға арналған жиынтық</td>
+<td>254.</td>
+<td>ПТР әдісімен хламидиозды анықтауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">3-ші бөлім. Қой және ешкі аурулары бойынша зерттеулер</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">3-бөлім. Қой және ешкі аурулары бойынша зерттеулер</td>
 </tr>
 <tr>
-<td colspan="11">29 - тарау. Брадзот</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">29-тарау. Брадзот</td>
 </tr>
 <tr>
-<td colspan="11">79. Бактериологиялық сынау</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">82-параграф. Бактериологиялық сынау</td>
 </tr>
 <tr>
-<td>288</td>
-<td colspan="4">ЕПА</td>
+<td>255.</td>
+<td>ЕПА</td>
 <td>кг</td>
-<td>0,0034</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0034</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>289</td>
-<td colspan="4">ЕПС</td>
+<td>256.</td>
+<td>ЕПС</td>
 <td>кг</td>
-<td>0,00342</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00342</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>290</td>
-<td colspan="4">Метилен көгі</td>
+<td>257.</td>
+<td>Метилен көгі</td>
 <td>кг</td>
-<td>0,0000015</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00005</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>291</td>
-<td colspan="4">Романовский-Гимза бояуы</td>
+<td>258.</td>
+<td>Глицерин</td>
+<td>кг</td>
+<td colspan="2">0,000075</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>259.</td>
+<td>Иммерсиялық май</td>
+<td>кг</td>
+<td colspan="2">0,000225</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>260.</td>
+<td>Фенол</td>
+<td>кг</td>
+<td colspan="2">0,0000075</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>261.</td>
+<td>Этил спирті</td>
 <td>литр</td>
-<td>0,0015</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,000765</td>
+<td colspan="2">60</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>292</td>
-<td colspan="4">Кристалды күлгін</td>
+<td>262.</td>
+<td>Балғын бауыр</td>
 <td>кг</td>
-<td>0,0000015</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,03</td>
+<td colspan="2">-</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>293</td>
-<td colspan="4">Йодты калий</td>
-<td>кг</td>
-<td>0,000001</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>294</td>
-<td colspan="4">Негізгі фуксин</td>
-<td>кг</td>
-<td>0,00000015</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>295</td>
-<td colspan="4">Хлорлы натрий</td>
-<td>кг</td>
-<td>0,00612</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>296</td>
-<td colspan="4">Кристалды йод</td>
-<td>кг</td>
-<td>0,0000005</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>297</td>
-<td colspan="4">Глюкоза</td>
-<td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>298</td>
-<td colspan="4">Глицерин</td>
-<td>кг</td>
-<td>0,000075</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>299</td>
-<td colspan="4">Вазелин майы</td>
-<td>кг</td>
-<td>0,00945</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>300</td>
-<td colspan="4">Иммерсионды май</td>
-<td>кг</td>
-<td>0,00015</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>301</td>
-<td colspan="4">Фенол</td>
-<td>кг</td>
-<td>0,0000075</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>302</td>
-<td colspan="4">Этил спирті (бояуларды дайындау үшін)</td>
-<td>литр</td>
-<td>0,000765</td>
-<td>60</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>303</td>
-<td colspan="4">Балғын бауыр</td>
-<td>кг</td>
-<td>0,03</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>304</td>
-<td colspan="4">Теңіз шошқалары</td>
+<td>263.</td>
+<td>Теңіз шошқалары</td>
 <td>бас</td>
-<td>2</td>
-<td>-</td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2">-</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">30 - тарау. Қой мен ешкінің анаэробты энтеротоксемиясы</td>
+<td>264.</td>
+<td>Грам бойынша бояу жинағы</td>
+<td>талдау</td>
+<td colspan="2">3</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">80. Бактериологиялық сынау</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>305</td>
-<td colspan="4">ЕПА</td>
+<td>265.</td>
+<td>Цильдің негізгі фуксині</td>
 <td>кг</td>
-<td>0,0034</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0003</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>306</td>
-<td colspan="4">ЕПС</td>
+<td colspan="10">30-тарау. Қой мен ешкінің анаэробты энтеротоксемиясы</td>
+</tr>
+<tr>
+<td colspan="10">83-параграф. Бактериологиялық сынау</td>
+</tr>
+<tr>
+<td>266.</td>
+<td>ЕПА</td>
 <td>кг</td>
-<td>0,00342</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0034</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>307</td>
-<td colspan="4">Метилен көгі</td>
+<td>267.</td>
+<td>ЕПС</td>
 <td>кг</td>
-<td>0,0000015</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00342</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>308</td>
-<td colspan="4">Романовский-Гимза бояуы</td>
+<td>268.</td>
+<td>Иммерсиялық май</td>
+<td>кг</td>
+<td colspan="2">0,000225</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>269.</td>
+<td>Этил спирті</td>
 <td>литр</td>
-<td>0,0015</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,000765</td>
+<td colspan="2">60</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>309</td>
-<td colspan="4">Кристалды күлгін</td>
+<td>270.</td>
+<td>Балғын бауыр</td>
 <td>кг</td>
-<td>0,0000015</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,03</td>
+<td colspan="2">-</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>310</td>
-<td colspan="4">Йодты калий</td>
-<td>кг</td>
-<td>0,000001</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>311</td>
-<td colspan="4">Негізгі фуксин</td>
-<td>кг</td>
-<td>0,00000015</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>312</td>
-<td colspan="4">Хлорлы натрий</td>
-<td>кг</td>
-<td>0,00612</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>313</td>
-<td colspan="4">Кристалды йод</td>
-<td>кг</td>
-<td>0,0000005</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>314</td>
-<td colspan="4">Глюкоза</td>
-<td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>315</td>
-<td colspan="4">Глицерин</td>
-<td>кг</td>
-<td>0,000075</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>316</td>
-<td colspan="4">Вазелин майы</td>
-<td>кг</td>
-<td>0,00945</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>317</td>
-<td colspan="4">Иммерсионды май</td>
-<td>кг</td>
-<td>0,00015</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>318</td>
-<td colspan="4">Фенол</td>
-<td>кг</td>
-<td>0,0000075</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>319</td>
-<td colspan="4">Этил спирті (бояулар дайындау үшін)</td>
-<td>литр</td>
-<td>0,000765</td>
-<td>60</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>320</td>
-<td colspan="4">Балғын бауыр</td>
-<td>кг</td>
-<td>0,03</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>321</td>
-<td colspan="4">Клостридияны (перфрингенс) диагностикалау үшін уыттылыққа қарсы қан сарысуы</td>
+<td>271.</td>
+<td>Клостридийге (перфрингенс) арналған диагностикалық уыттылыққа қарсы қан сарысуы</td>
 <td>мл</td>
-<td>0,5</td>
-<td>12 - 24</td>
-<td></td>
+<td colspan="2">0,5</td>
+<td colspan="2">12-ден 24-ке дейін</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>322</td>
-<td colspan="4">Теңіз шошқасы</td>
+<td>272.</td>
+<td>Теңіз шошқалары</td>
 <td>бас</td>
-<td>2</td>
-<td>-</td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2">-</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">31 - тарау. Қой және ешкі күлі</td>
+<td>273.</td>
+<td>Грам бойынша бояу жинағы</td>
+<td>талдау</td>
+<td colspan="2">3</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">81. КБР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">31-тарау. Қой және ешкі күлі</td>
 </tr>
 <tr>
-<td>323</td>
-<td colspan="4">Гемолизин (жұмыс титрі 1:2000)</td>
+<td colspan="10">84-параграф. Комплементті байланыстыру реакциясы</td>
+</tr>
+<tr>
+<td>274.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>108</td>
-<td>36</td>
-<td></td>
+<td colspan="2">108</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>324</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
+<td>275.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
 <td>доза</td>
-<td>27</td>
-<td>36</td>
-<td></td>
+<td colspan="2">27</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>325</td>
-<td colspan="4">Қой күліне арналған КБР жиынтығы</td>
+<td>276.</td>
+<td>КБР әдісімен күлді диагностикалауға арналған жинақ</td>
 <td>доза</td>
-<td>9</td>
-<td>12</td>
-<td></td>
+<td colspan="2">9</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>326</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>277.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,0001853</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001853</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>327</td>
-<td colspan="4">Стрептомицин</td>
+<td>278.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">82. КБР титрлеу, бақылау, антикомплементарлық, гемотоксиндік (50 сынамаға бір сынау есебінен)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">85-параграф. Комплементті байланыстыру реакциясындағы титрлеу, қанға уыттылық, антикомплементтік</td>
 </tr>
 <tr>
-<td>328</td>
-<td colspan="4">Гемолизин (жұмыс титрі 1:2000)</td>
+<td>279.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>290</td>
-<td>36</td>
-<td></td>
+<td colspan="2">290</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>329</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
+<td>280.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
 <td>доза</td>
-<td>109</td>
-<td>36</td>
-<td></td>
+<td colspan="2">109</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>330</td>
-<td colspan="4">Қой күліне арналған КБР жиынтығы</td>
+<td>281.</td>
+<td>КБР әдісімен күлді диагностикалауға арналған жинақ</td>
 <td>доза</td>
-<td>22</td>
-<td>12</td>
-<td></td>
+<td colspan="2">22</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>331</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>282.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,0007871</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0007871</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>332</td>
-<td colspan="4">Стрептомицин</td>
+<td>283.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">32 - тарау. Тұқымдық қошқарлардың індетті эпидидимиті</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">32-тарау. Тұқымдық қошқарлардың инфекциялық эпидидимиті</td>
 </tr>
 <tr>
-<td colspan="11">83. КҰБР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">86-параграф. Комплементті ұзақ байланыстыру реакциясы</td>
 </tr>
 <tr>
-<td>333</td>
-<td colspan="4">Гемолизин (жұмыс титрі 1:2000)</td>
+<td>284.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>3</td>
-<td>36</td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>334</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
+<td>285.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
 <td>доза</td>
-<td>1</td>
-<td>36</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>335</td>
-<td colspan="4">Тұқымдық қошқарлардың індетті эпидидимитін диагностикалауға арналған КҰБР жиынтық (титр 1:100)</td>
+<td>286.</td>
+<td>КҰБР-да қошқарлардың инфекциялық эпидидимитін диагностикалауға арналған жинақ (титрі 1:100)</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>336</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>287.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,0000085</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0000085</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>337</td>
-<td colspan="4">Стрептомицин</td>
+<td>288.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">84. КҰБР титрлеу, бақылау, антикомплементарлық, гемотоксиндік (300 сынамаға бір сынау есебінен)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">87-параграф. Комплементті ұзақ байланыстыру реакциясындағы титрлеу, бақылау, антикомплементтік, қанға уыттылық</td>
 </tr>
 <tr>
-<td>338</td>
-<td colspan="4">Гемолизин (жұмыс титрі 1:2000)</td>
+<td>289.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>219</td>
-<td>36</td>
-<td></td>
+<td colspan="2">219</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>339</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
+<td>290.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
 <td>доза</td>
-<td>59</td>
-<td>36</td>
-<td></td>
+<td colspan="2">59</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>340</td>
-<td colspan="4">Тұқымдық қошқарлардың індетті эпидидимитін диагностикаулауға арналған КҰБР жиынтығы (титр 1:100)</td>
+<td>291.</td>
+<td>КҰБР-да қошқарлардың инфекциялық эпидидимитін диагностикалауға арналған жинақ (титрі 1:100)</td>
 <td>доза</td>
-<td>28</td>
-<td>12</td>
-<td></td>
+<td colspan="2">28</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>341</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>292.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,000532</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,000532</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>342</td>
-<td colspan="4">Стрептомицин</td>
+<td>293.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">85. КҰБР қайта қою (300 сынамаға бір сынау есебінен)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">88-параграф. Комплементті ұзақ байланыстыру реакциясын қайта қою</td>
 </tr>
 <tr>
-<td>343</td>
-<td colspan="4">Гемолизин (жұмыс титрі 1:2000)</td>
+<td>294.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>9</td>
-<td>36</td>
-<td></td>
+<td colspan="2">9</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>344</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
+<td>295.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
 <td>доза</td>
-<td>3</td>
-<td>36</td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>345</td>
-<td colspan="4">КҰБР тұқымдық қошқарлардың індетті эпидидимитіне арналған жиынтығы (титр 1:100)</td>
+<td>296.</td>
+<td>КҰБР-да қошқарлардың инфекциялық эпидидимитіне арналған жинақ (титрі 1:100)</td>
 <td>доза</td>
-<td>2</td>
-<td>12</td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>346</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>297.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,0000255</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0000255</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>347</td>
-<td colspan="4">Стрептомицин</td>
+<td>298.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">86. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">89-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>348</td>
-<td colspan="4">Өндіруші-қошқарлардың індетті эпидидимитін диагностикалауға арналған ИФТ жиынтығы</td>
+<td>299.</td>
+<td>ИФТ-да қошқарлардың инфекциялық эпидидимитін диагностикалауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">33 - тарау. Контагиозды пустулезді дерматит</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">33-тарау. Контагиозды пустулезді дерматит</td>
 </tr>
 <tr>
-<td colspan="11">87. ДПР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">90-параграф. Диффузиялық преципитаттау реакциясы</td>
 </tr>
 <tr>
-<td>349</td>
-<td colspan="4">Контагиозды пустулезді дерматитті диагностикалауға арналған ДПР жиынтығы</td>
+<td>300.</td>
+<td>ДПР-да контагиозды пустулезді дерматитті диагностикалауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">34 - тарау. Қой және ешкінің індетті агалактиясы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">34-тарау. Қой мен ешкінің инфекциялық агалактиясы</td>
 </tr>
 <tr>
-<td colspan="11">88. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">91-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>350</td>
-<td colspan="4">Қой және ешкі агалактикасын диагностикалауға арналған ИФТ жиынтығы</td>
+<td>301.</td>
+<td>Қой және ешкінің агалактиясын диагностикалауға арналған ИФТ жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">35 - тарау. Скрепи ауруы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">35-тарау. Қотыр ауруы</td>
 </tr>
 <tr>
-<td colspan="11">89. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">92-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>351</td>
-<td colspan="4">Скрепи ауруын диагностикалауға арналған ИФТ жиынтығы</td>
+<td>302.</td>
+<td>Қотыр ауруын диагностикалауға арналған ИФТ жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">36 - тарау. Маэди-Висна ауруы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">36-тарау. Маэди-Висна ауруы</td>
 </tr>
 <tr>
-<td colspan="11">90. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">93-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>352</td>
-<td colspan="4">Маэди-Висна ауруын диагностикалауға арналған ИФТ жиынтығы</td>
+<td>303.</td>
+<td>Маэди-Висна ауруын диагностикалауға арналған ИФТ жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">37 - тарау. Аденоматоз</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">37-тарау. Аденоматоз</td>
 </tr>
 <tr>
-<td colspan="11">91. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">94-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>353</td>
-<td colspan="4">ҰҚМ аденоматозын диагностикалауға арналған ИФТ жиынтық</td>
+<td>304.</td>
+<td>ҰМ аденоматозын диагностикалауға арналған ИФТ жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">38 - тарау. Блутанг</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">38-тарау. Індетті безгек</td>
 </tr>
 <tr>
-<td colspan="11">92. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">95-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>354</td>
-<td colspan="4">Блутангты диагностикалауға арналған ИФТ жиынтығы</td>
+<td>305.</td>
+<td>Індетті безгекті диагностикалауға арналған ИФТ жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">93. ПТР</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="10">96-параграф. Полимеразалық тізбек реакциясы</td>
 </tr>
 <tr>
-<td>355</td>
-<td colspan="4">Нақты уақыт режимінде ПТР әдісімен блутанг қоздырғышын анықтауға арналған жиынтық</td>
+<td>306.</td>
+<td>Нақты уақыт режимінде ПТР әдісімен індетті безгек қоздырғышын анықтауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">39 - тарау. Күйіс қайыратын ұсақ малдардың обасы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">39-тарау. Күйіс қайыратын ұсақ малдардың обасы</td>
 </tr>
 <tr>
-<td colspan="11">94. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">97-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>356</td>
-<td colspan="4">ҰҚМ обасын диагностикалауға арналған ИФТ жиынтық</td>
+<td>307.</td>
+<td>ҰМ обасын диагностикалауға арналған ИФТ жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">95. ПТР</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="10">98-параграф. Полимеразалық тізбек реакциясы</td>
 </tr>
 <tr>
-<td>357</td>
-<td colspan="4">ПТР әдісімен ҰКҚМО диагностикалауға арналған жиынтық</td>
+<td>308.</td>
+<td>ПТР әдісімен күйіс қайыратын ұсақ мал обасыны диагностикалауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">4-бөлім. Жылқы ауруларын зерттеу</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">4-бөлім. Жылқы аурулары бойынша зерттеулер</td>
 </tr>
 <tr>
-<td colspan="11">40 - тарау. ЖЖА</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">40-тарау. Жылқының инфекциялық анемиясы</td>
 </tr>
 <tr>
-<td colspan="11">96. ДПР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">99-параграф. Диффузиялық преципитаттау реакциясы</td>
 </tr>
 <tr>
-<td>358</td>
-<td colspan="4">ЖЖА диагностикалауға арналған ДПР жиынтық</td>
+<td>309.</td>
+<td>ДПР-да жылқының инфекциялық анемиясын диагностикалауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>24</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>359</td>
-<td colspan="4">1% агар</td>
+<td colspan="10">100-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>310.</td>
+<td>Жылқының инфекциялық анемиясына арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">41-тарау. Жылқы тұмауы</td>
+</tr>
+<tr>
+<td colspan="10">101-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>311.</td>
+<td>Тұмауға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">42-тарау. Эпизоотиялық лимфангоит</td>
+</tr>
+<tr>
+<td colspan="10">102-параграф. Комплементті ұзақ байланыстыру реакциясы</td>
+</tr>
+<tr>
+<td>312.</td>
+<td>КҰБР-да жылқылардың эпизоотиялық лимфангоитін диагностикалауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>313.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
+<td>доза</td>
+<td colspan="2">3</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>314.</td>
+<td>Құрғақ комплемент (жұмыстық араластыруда)</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>315.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,0000044</td>
-<td>48</td>
-<td></td>
+<td colspan="2">0,0000085</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>360</td>
-<td colspan="4">Натрий гидрооксиді</td>
-<td>кг</td>
-<td>0,00000009</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>361</td>
-<td colspan="4">Бор қышқылы</td>
-<td>кг</td>
-<td>0,0000004</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">97. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>362</td>
-<td colspan="4">ЖІА диагностикалауға арналған ИФТ жиынтығы</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">41 - тарау. Жылқы тұмауы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">98. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>363</td>
-<td colspan="4">Жылқы тұмауын диагностикалауға арналған ИФТ жиынтығы</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">42 - тарау. Эпизоотиялық лимфангоит</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">99. КҰБР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>364</td>
-<td colspan="4">Жылқылардың эпизоотиялық лимфангоиттін диагностикалауға арналған КҰБР жиынтығы</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>365</td>
-<td colspan="4">Гемолизин (1:2000 жұмыс титрі)</td>
-<td>доза</td>
-<td>3</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>366</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
-<td>доза</td>
-<td>1</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>367</td>
-<td colspan="4">0,85% хлорлы натрий</td>
-<td>кг</td>
-<td>0,0000085</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>368</td>
-<td colspan="4">Стрептомицин</td>
+<td>316.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">100. КҰБР титрлеу, бақылау, антикомплементарлық, гемотоксиндік (100 сынамаға бір сынау есебінен)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">103-параграф. Комплементті ұзақ байланыстыру реакциясындағы титрлеу, бақылау, антикомплементтік, қанға уыттылық</td>
 </tr>
 <tr>
-<td>369</td>
-<td colspan="4">Эпизоотиялық лимфангоитті диагностикалауға арналған КҰБР жиынтығы</td>
+<td>317.</td>
+<td>КҰБР-да жылқылардың эпизоотиялық лимфангоитін диагностикалауға арналған жинақ</td>
 <td>доза</td>
-<td>28</td>
-<td>12</td>
-<td></td>
+<td colspan="2">28</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>370</td>
-<td colspan="4">Гемолизин (1:2000 жұмыс титрі)</td>
+<td>318.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>219</td>
-<td>36</td>
-<td></td>
+<td colspan="2">219</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>371</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
+<td>319.</td>
+<td>Құрғақ комплемент (жұмыстық араластыру)</td>
 <td>доза</td>
-<td>59</td>
-<td>36</td>
-<td></td>
+<td colspan="2">59</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>372</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>320.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,000532</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,000532</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>373</td>
-<td colspan="4">Стрептомицин</td>
+<td>321.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">101. КҰБР қайта қою (100 сынамаға бір сынау есебінен)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">104-параграф. Комплементті ұзақ байланыстыру реакциясын қайта қою</td>
 </tr>
 <tr>
-<td>374</td>
-<td colspan="4">КҰБР эпизоотиялық лимфангоитін диагностикалауға арналған жиынтық</td>
+<td>322.</td>
+<td>КҰБР-да жылқылардың эпизоотиялық лимфангоитін диагностикалауға арналған жинақ</td>
 <td>доза</td>
-<td>2</td>
-<td>12</td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>375</td>
-<td colspan="4">Гемолизин (1:2000 жұмыс титрі)</td>
+<td>323.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>9</td>
-<td>36</td>
-<td></td>
+<td colspan="2">9</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>376</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
+<td>324.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
 <td>доза</td>
-<td>3</td>
-<td>36</td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>377</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>325.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,0000255</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0000255</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>378</td>
-<td colspan="4">Стрептомицин</td>
+<td>326.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">43 - тарау. Ринопневмония</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">43-тарау. Ринопневмония</td>
 </tr>
 <tr>
-<td colspan="11">102. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">105-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>379</td>
-<td colspan="4">Ринопневмонияны диагностикалауға арналған ИФТ жиынтығы</td>
+<td>327.</td>
+<td>ИФТ-да жылқылардың ринопневмониясын диагностикалауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">44 - тарау. Жылқының індетті энцефаломиелиті</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">44-тарау. Делбе</td>
 </tr>
 <tr>
-<td colspan="11">103. ДПР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">106-параграф. Диффузиялық преципитаттау реакциясы</td>
 </tr>
 <tr>
-<td>380</td>
-<td colspan="4">
-Жылқының індетті энцефаломиели-
-тін диагностикалауға арналған РДП жиынтығы
-</td>
+<td>328.</td>
+<td>ДПР-да делбені диагностикалауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">45 - тарау. Жылқы маңқасы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">45-тарау. Жылқы маңқасы</td>
 </tr>
 <tr>
-<td colspan="11">104. КБР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">107-параграф. Комплементті байланыстыру реакциясы</td>
 </tr>
 <tr>
-<td>381</td>
-<td colspan="4">Жылқы маңқасына арналған КБР жиынтығы (1:100 жұмыс титрі)</td>
+<td>329.</td>
+<td>КБР-да жылқы маңқасын диагностикалауға арналған жинақ (титрі 1:100)</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>382</td>
-<td colspan="4">Гемолизин (1:2000 жұмыс титрі)</td>
+<td>330.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>2</td>
-<td>36</td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>383</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
+<td>331.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
 <td>доза</td>
-<td>1</td>
-<td>36</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>384</td>
-<td colspan="4">0,85% хлорлы натрий</td>
+<td>332.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,0000085</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0000085</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>385</td>
-<td colspan="4">Стрептомицин</td>
+<td>333.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">105. КБР титрлеу, бақылау, антикомплементарлық, гемотоксиндік (300 сынамаға бір сынау есебінен)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">108-параграф. Комплементті байланыстыру реакциясындағы титрлеу, бақылау, антикомплементтік, қанға уыттылық</td>
 </tr>
 <tr>
-<td>386</td>
-<td colspan="4">Гемолизин (1:2000 жұмыс титрі)</td>
+<td>334.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>96</td>
-<td>36</td>
-<td></td>
+<td colspan="2">96</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>387</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
+<td>335.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
 <td>доза</td>
-<td>61</td>
-<td>36</td>
-<td></td>
+<td colspan="2">61</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>388</td>
-<td colspan="4">Жылқы маңқасына арналған КБР жиынтығы (1:100 жұмыс титрі)</td>
+<td>336.</td>
+<td>КБР-да жылқы маңқасын диагностикалауға арналған жинақ (титрі 1:100)</td>
 <td>доза</td>
-<td>28</td>
-<td>12</td>
-<td></td>
+<td colspan="2">28</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>389</td>
-<td colspan="4">Хлорлы натрий</td>
+<td>337.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,000532</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,000532</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>390</td>
-<td colspan="4">Стрептомицин</td>
+<td>338.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">106. КБР қайта қою (300 сынамаға бір сынау есебінен)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">109-параграф. Комплементті байланыстыру реакциясын қайта қою</td>
 </tr>
 <tr>
-<td>391</td>
-<td colspan="4">Гемолизин (1:2000 жұмыс титрі)</td>
+<td>339.</td>
+<td>Гемолизин (жұмыс титрі 1:2000)</td>
 <td>доза</td>
-<td>6</td>
-<td>36</td>
-<td></td>
+<td colspan="2">6</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>392</td>
-<td colspan="4">Құрғақ комплемент (жұмыс титрі 0,12 артық емес)</td>
+<td>340.</td>
+<td>Құрғақ комплемент (жұмыс титрі 0,12-ден артық емес)</td>
 <td>доза</td>
-<td>3</td>
-<td>36</td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>393</td>
-<td colspan="4">Жылқы маңқасына арналған КБР жиынтығы (1:100 жұмыс титрі)</td>
+<td>341.</td>
+<td>КБР-да жылқы маңқасын диагностикалауға арналған жинақ (титрі 1:100)</td>
 <td>доза</td>
-<td>2</td>
-<td>12</td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>394</td>
-<td colspan="4">Хлорлы натрий</td>
+<td>342.</td>
+<td>0,85% хлорлы натрий</td>
 <td>кг</td>
-<td>0,0000255</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0000255</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>395</td>
-<td colspan="4">Стрептомицин</td>
+<td>343.</td>
+<td>Стрептомицин</td>
 <td>грамм</td>
-<td>0,0001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">107. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">110-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>396</td>
-<td colspan="4">Жылқы маңқасына арналған ИФТ жиынтығы</td>
+<td>344.</td>
+<td>Жылқы маңқасын диагностикалауға арналған ИФТ жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">46- тарау. Вирустық артерит</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="10">46-тарау. Вирустық артериит</td>
 </tr>
 <tr>
-<td colspan="8">108.ИФТ</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="10">111-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>397</td>
-<td colspan="4">ИФТ әдісімен жылқылардың вирустық артериитін диагностикалауға арналған жиынтық</td>
+<td>345.</td>
+<td>ИФТ әдісімен жылқылардың вирусты артериитін диагностикалауға арналған жинақ</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">47 - тарау. Жылқының африкалық обасы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">47-тарау. Жылқының африкалық обасы</td>
 </tr>
 <tr>
-<td colspan="8">109. ИФТ</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">112-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>398</td>
-<td colspan="4">Жылқының африкалық обасына арналған ИФТ жиынтығы</td>
+<td>346.</td>
+<td>Жылқының африкалық обасын диагностикалауға арналған ИФТ жинағы</td>
 <td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">5 - бөлім. Түйе ауруларын зерттеу</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">5-бөлім. Түйе аурулары бойынша зерттеулер</td>
 </tr>
 <tr>
-<td colspan="11">48 - тарау. Түйе обасы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">48-тарау. Түйе обасы</td>
 </tr>
 <tr>
-<td colspan="11">110. Бактериологиялық сынау</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">113-параграф. Бактериологиялық сынау</td>
 </tr>
 <tr>
-<td>399</td>
-<td colspan="4">ЕПА (бір литр дистиллденген суға 36,0 грамды. еріткенде)</td>
+<td>347.</td>
+<td>ЕПА</td>
 <td>кг</td>
-<td>0,0034</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0034</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>400</td>
-<td colspan="4">ЕПС (бір литр дистиллденген суға 18,0 грамды еріткенде)</td>
+<td>348.</td>
+<td>ЕПС</td>
 <td>кг</td>
-<td>0,0018</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0018</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>401</td>
-<td colspan="4">Романовский-Гимза бояуы</td>
+<td>349.</td>
+<td>Романовский-Гимза бояуы</td>
 <td>литр</td>
-<td>0,0015</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,0015</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">6-бөлім. Шошқа ауруларын зерттеу</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">51 - тарау. Вирустық трансмиссивті гастроэнтерит</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">115. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>406</td>
-<td colspan="4">Вирустық трансмиссивті гастроэнтеритін диагностикалауға арналған ИФТ жиынтығы</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">52 - тарау. Шошқаның везикулярлы ауруы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">116. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>407</td>
-<td colspan="4">Шошқаның везикулярлы ауруын диагностикалауға арналған ИФТ жиынтығы</td>
-<td>доза</td>
-<td>1</td>
-<td>2</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">53 - тарау. Тешен ауруы (шошқаның энзоотиялық энцефаломиелиті)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">117. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>408</td>
-<td colspan="4">Тешен ауруын диагностикалауға арналған ИФТ жиынтығы</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">54 - тарау. Шошқа тұмауы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">118. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>409</td>
-<td colspan="4">Шошқа тұмауын диагностикалауға арналған ИФТ жиынтығы</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">119. ПТР</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>410</td>
-<td colspan="4">ПТР әдісімен шошқалардың тұмауын анықтауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">55 - тарау. Шошқа тілмесі</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">120. Бактериологиялық сынау</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>411</td>
-<td colspan="4">ЕПА (бір литр дистиллденген суға 36,0 грамды еріткенде)</td>
+<td>350.</td>
+<td>Иммерсиялық май</td>
 <td>кг</td>
-<td>0,0034</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,000225</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>412</td>
-<td colspan="4">ЕПС (бір литр дистиллденген суға 18,0 граммды еріткенде)</td>
+<td colspan="10">6-бөлім. Шошқа аурулары бойынша зерттеулер</td>
+</tr>
+<tr>
+<td colspan="10">49-тарау. Шошқаның кәдімгі обасы</td>
+</tr>
+<tr>
+<td colspan="10">114-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>351.</td>
+<td>Шошқаның кәдімгі обасын диагностикалауға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">115. Полимеразалық тізбек реакциясы</td>
+</tr>
+<tr>
+<td>352.</td>
+<td>ПТР әдісімен шошқаның кәдімгі обасын анықтауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">50-тарау. Шошқаның африкалық обасы</td>
+</tr>
+<tr>
+<td colspan="10">116-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>353.</td>
+<td>Шошқаның африкалық обасын диагностикалауға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">117. ПТР</td>
+</tr>
+<tr>
+<td>354.</td>
+<td>ПТР әдісімен шошқаның африкалық обасын анықтауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">51-тарау. Вирусты трансмиссивті гастроэнтерит</td>
+</tr>
+<tr>
+<td colspan="10">118-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>355.</td>
+<td>Вирусты трансмиссивті гастроэнтеритті диагностикалауға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">52-тарау. Шошқаның күлдірек ауруы</td>
+</tr>
+<tr>
+<td colspan="10">119-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>356.</td>
+<td>Шошқаның күлдірек ауруын саралап диагностикалауға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">53-тарау. Тешен ауруы (шошқаның энзоотиялық энцефаломиелиті)</td>
+</tr>
+<tr>
+<td colspan="10">120-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>357.</td>
+<td>Тешен ауруын диагностикалауға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">54-тарау. Шошқа тұмауы</td>
+</tr>
+<tr>
+<td colspan="10">121-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>358.</td>
+<td>Шошқа тұмауын диагностикалауға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">122-параграф. Полимеразалық тізбек реакциясы</td>
+</tr>
+<tr>
+<td>359.</td>
+<td>ПТР әдісімен шошқа тұмауын анықтауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">55-тарау. Шошқа тілмесі</td>
+</tr>
+<tr>
+<td colspan="10">123-параграф. Бактериологиялық сынау</td>
+</tr>
+<tr>
+<td>360.</td>
+<td>ЕПА</td>
 <td>кг</td>
-<td>0,0018</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,0034</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>413</td>
-<td colspan="4">Романовский-Гимза бояуы</td>
+<td>361.</td>
+<td>ЕПС</td>
+<td>кг</td>
+<td colspan="2">0,0018</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>362.</td>
+<td>Иммерсиялық май</td>
+<td>кг</td>
+<td colspan="2">0,000225</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>363.</td>
+<td>Этил спирті</td>
 <td>литр</td>
-<td>0,0015</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,00015</td>
+<td colspan="2">60</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>414</td>
-<td colspan="4">Кристаллды күлгін</td>
-<td>кг</td>
-<td>0,0000015</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>415</td>
-<td colspan="4">Негізгі фуксин</td>
-<td>кг</td>
-<td>0,00000015</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>416</td>
-<td colspan="4">Йодты калий</td>
-<td>кг</td>
-<td>0,000001</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>417</td>
-<td colspan="4">Хлорлы натрий</td>
-<td>кг</td>
-<td>0,00612</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>418</td>
-<td colspan="4">Кристаллды йод</td>
-<td>кг</td>
-<td>0,0000005</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>419</td>
-<td colspan="4">Глюкоза</td>
-<td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>420</td>
-<td colspan="4">Глицерин</td>
-<td>кг</td>
-<td>0,0000075</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>421</td>
-<td colspan="4">Иммерсионды май</td>
-<td>кг</td>
-<td>0,00015</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>422</td>
-<td colspan="4">Этил спирті (бояулар дайындау үшін)</td>
+<td>364.</td>
+<td>Сутегінің асқын тотығы</td>
 <td>литр</td>
-<td>0,000615</td>
-<td>60</td>
-<td></td>
+<td colspan="2">0,000075</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>423</td>
-<td colspan="4">Сутегінің асқын тотығы</td>
-<td>литр</td>
-<td>0,000075</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>424</td>
-<td colspan="4">Фенол</td>
+<td>365.</td>
+<td>Фенол</td>
 <td>кг</td>
-<td>0,0000075</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,0000075</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">121. Бөлініп алынған микроағзалардың биохимиялық қасиеттеріне бактериологиялық зерттеулер</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>425</td>
-<td colspan="4">
-Гисс ортасы глюкозамен
-(28 грамды бір литрге еріткенде)
-</td>
-<td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>426</td>
-<td colspan="4">
-Гисс ортасы сахарозамен
-(28 грамды бір литрге еріткенде)
-</td>
-<td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>427</td>
-<td colspan="4">
-Гисс ортасы мальтозамен
-(28 грамды бір литрге еріткенде)
-</td>
-<td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>428</td>
-<td colspan="4">
-Гисс ортасы маннитпен
-(28 грамды бір литрге еріткенде)
-</td>
-<td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>429</td>
-<td colspan="4">
-Гисс ортасы сорбитпен
-(28 грамды бір литрге еріткенде)
-</td>
-<td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>430</td>
-<td colspan="4">
-Гисс ортасы дульцитпен
-(28 грамды бір литрге еріткенде)
-</td>
-<td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>431</td>
-<td colspan="4">
-Гисс ортасы лактозамен
-(28 грамды бір литрге еріткенде)
-</td>
-<td>кг</td>
-<td>0,00042</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">7-бөлім. Құс ауруларын зерттеу</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">56 - тарау. Құстың індетті ларинготрахеиті</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">122. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>432</td>
-<td colspan="4">ИФТ құстың індетті ларинготрахеитін анықтауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">57 - тарау. Ньюкасл ауруы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">123. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>433</td>
-<td colspan="4">ИФТ Ньюкасл ауруын анықтауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">124. ПТР</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>434</td>
-<td colspan="4">Нақты уақыт режимінде ПТР әдісімен Ньюкасл ауруын диагностикалауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">58 - тарау. Марек ауруы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">125. ИДР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>435</td>
-<td colspan="4">ИДР Марек ауруын анықтауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">59 - тарау. Гамборо ауруы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">126. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>436</td>
-<td colspan="4">ИФТ Гамборо ауруын анықтауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">60. Құс күлі</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">127. ДПР</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>437</td>
-<td colspan="4">ДПР құс күлін анықтауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>438</td>
-<td colspan="4">1% агар</td>
-<td>кг</td>
-<td>0,0000044</td>
-<td>48</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>439</td>
-<td colspan="4">Хлорлы натрий</td>
-<td>кг</td>
-<td>0,0000085</td>
-<td>36</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">61 - тарау. Құс орнитозы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">128. Бактериологиялық зерттеулер</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>440</td>
-<td colspan="4">Романовский-Гимза бояуы</td>
-<td>литр</td>
-<td>0,0015</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>441</td>
-<td colspan="4">Фенол</td>
-<td>кг</td>
-<td>0,0000075</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>442</td>
-<td colspan="4">Сірке қышқылы</td>
-<td>литр</td>
-<td>0,000000375</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>443</td>
-<td colspan="4">Метиленді көк</td>
-<td>кг</td>
-<td>0,0000015</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>444</td>
-<td colspan="4">Ақ тышқандар</td>
+<td>366.</td>
+<td>Ақ тышқандар</td>
 <td>бас</td>
-<td>3</td>
-<td>-</td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2">-</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">62 - тарау. Респираторлы микоплазмоз (M. gallisepticum, M. synovia)</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">129. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>445</td>
-<td colspan="4">Құс микоплазма галлисептикумын ИФТ әдісімен диагностикалауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
+<td>367.</td>
+<td>Грам бойынша бояу жинағы</td>
+<td>талдау</td>
+<td colspan="2">3</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>446</td>
-<td colspan="4">Құс микоплазма синовиясын ИФТ әдісімен диагностикалауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="10">124-параграф. Бөлінген микроағзалардың биохимиялық қасиеттеріне арналған бактериологиялық зерттеулер</td>
 </tr>
 <tr>
-<td colspan="11">63 - тарау. ҚЖПТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">130. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>447</td>
-<td colspan="4">ҚЖПТ антиденелерін ИФТ әдісімен диагностикалауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">131. Сынау әдістері</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>448</td>
-<td colspan="4">Шынайы уақытта ПТР әдісімен құс тұмауының (Н5) вирусын анықтауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>449</td>
-<td colspan="4">Иммунохромато-графияда құс тұмауының (А және Н5 типін) вирусын анықтауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>450</td>
-<td colspan="4">
-Құс тұмауы вирусының
-Н1-Н15 антиденелерін анықтауға арналған моноспецифика
-лық референстік антиген
-</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>451</td>
-<td colspan="4">
-Құс тұмауы вирусының
-Н1-Н15 антиденелерін анықтауға арналған моноспецифика
-лық референстік қан сарысуы
-</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>452</td>
-<td colspan="4">
-Құс тұмауы вирусының
-N1-N9 антиденелерін анықтауға арналған моноспецифика
-лық референстік антиген
-</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>453</td>
-<td colspan="4">
-Құс тұмауы вирусының
-N1-N9 антиденелерін анықтауға арналған моноспецифика
-лық референстік қан сарысуы
-</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>454</td>
-<td colspan="4">Классикалық ПТР да құс тұмауының (Н5) вирусын анықтауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">8-бөлім. Терісі бағалы аңдар мен қояндардың ауруларын зерттеу</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">64 - тарау. Қоянның вирустық геморрагиялық ауруы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">132. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>455</td>
-<td colspan="4">Қоянның вирустық геморрагиялық ауруын анықтауға арналған ИФТ жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">65 - тарау. Миксоматоз</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">133. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>456</td>
-<td colspan="4">Қояндардағы миксоматоз ауруын анықтауға арналған ИФТ жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">9-бөлім. Ит және мысық аурулары бойынша зерттеулер</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">66 - тарау. Ет қоректілер обасы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">134. ИФТ</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>457</td>
-<td colspan="4">ИФТ ет қоректілер обасын анықтауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">135. ПТР</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>458</td>
-<td colspan="4">ПТР әдісімен етқоректілер обасын анықтауға арналған жиынтық</td>
-<td>доза</td>
-<td>1</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">10-бөлім. Балық аурулары бойынша зерттеулер</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">67 - тарау. Тұқылардың геморрагиялық септицемиясы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="11">136. Бактериялық зерттеулер</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>459</td>
-<td colspan="4">ЕПА</td>
+<td>368.</td>
+<td>Глюкозасы бар Гисс ортасы (28 грамды бір литрге араластырғанда)</td>
 <td>кг</td>
-<td>0,0034</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>460</td>
-<td colspan="4">ЕПС</td>
+<td>369.</td>
+<td>Сахарозасы бар Гисс ортасы (28 грамды бір литрге араластырғанда)</td>
 <td>кг</td>
-<td>0,0018</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>461</td>
-<td colspan="4">Қанды (қоректік) агар</td>
+<td>370.</td>
+<td>Мальтозасы бар Гисс ортасы (28 грамды бір литрге араластырғанда)</td>
 <td>кг</td>
-<td>0,00046</td>
-<td>Затбелгіде көрсетілген мерзімге дейін пайдалану</td>
-<td></td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>462</td>
-<td colspan="4">Кристаллды күлгін</td>
+<td>371.</td>
+<td>Манниті бар Гисс ортасы (28 грамды бір литрге араластырғанда)</td>
 <td>кг</td>
-<td>0,0000015</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>463</td>
-<td colspan="4">Романовский-Гимза бояуы</td>
+<td>372.</td>
+<td>Лактозасы бар Гисс ортасы (28 грамды бір литрге араластырғанда)</td>
+<td>кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>373.</td>
+<td>Галактозасы бар Гисс ортасы (28 грамды бір литрге араластырғанда)</td>
+<td>кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>374.</td>
+<td>Рамнозасы бар Гисс ортасы (28 грамды бір литрге араластырғанда)</td>
+<td>кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>375.</td>
+<td>Арабинозасы бар Гисс ортасы (28 грамды бір литрге араластырғанда)</td>
+<td>кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>376.</td>
+<td>Салицині бар Гисс ортасы (28 грамды бір литрге араластырғанда)</td>
+<td>кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">7-бөлім. Құс аурулары бойынша зерттеулер</td>
+</tr>
+<tr>
+<td colspan="10">56-тарау. Құстың инфекциялық ларинготрахеиті</td>
+</tr>
+<tr>
+<td colspan="10">125-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>377.</td>
+<td>Құстың инфекциялық ларинготрахеитін диагностикалауға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">57-тарау. Ньюкасл ауруы</td>
+</tr>
+<tr>
+<td colspan="10">126-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>378.</td>
+<td>Ньюкасл ауруын диагностикалауға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">127-параграф. Полимеразалық тізбек реакциясы</td>
+</tr>
+<tr>
+<td>379.</td>
+<td>Нақты уақыт режимінде ПТР әдісімен Ньюкасл ауруын диагностикалауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">58-тарау. Марек ауруы</td>
+</tr>
+<tr>
+<td colspan="10">128-параграф. Иммундық диффузия реакциясы</td>
+</tr>
+<tr>
+<td>380.</td>
+<td>Марек ауруын диагностикалауға арналған ИДР жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">59-тарау. Гамборо ауруы</td>
+</tr>
+<tr>
+<td colspan="10">129-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>381.</td>
+<td>Гамборо ауруын диагностикалауға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">60. Құс күлі</td>
+</tr>
+<tr>
+<td colspan="10">130-параграф. Диффузиялық преципитаттау реакциясы</td>
+</tr>
+<tr>
+<td>382.</td>
+<td>ДПР-да құс күлін диагностикалауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">61-тарау. Құс орнитозы</td>
+</tr>
+<tr>
+<td colspan="10">131-параграф. Бактериологиялық зерттеу</td>
+</tr>
+<tr>
+<td>383.</td>
+<td>Романовский-Гимза бояуы</td>
 <td>литр</td>
-<td>0,0015</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,0015</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>464</td>
-<td colspan="4">Йодты калий</td>
+<td>384.</td>
+<td>Фенол</td>
 <td>кг</td>
-<td>0,000001</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0000075</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>465</td>
-<td colspan="4">Негізгі фуксин</td>
+<td>385.</td>
+<td>Сірке қышқылы</td>
+<td>литр</td>
+<td colspan="2">0,000000375</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>386.</td>
+<td>Метилен көгі</td>
 <td>кг</td>
-<td>0,00000015</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,0000015</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>466</td>
-<td colspan="4">Кристаллды йод</td>
-<td>кг</td>
-<td>0,0000005</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>467</td>
-<td colspan="4">Глицерин</td>
-<td>кг</td>
-<td>0,00623</td>
-<td>24</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>468</td>
-<td colspan="4">Иммерсионды май</td>
-<td>кг</td>
-<td>0,00015</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>469</td>
-<td colspan="4">Фенол</td>
-<td>кг</td>
-<td>0,0000075</td>
-<td>12</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>470</td>
-<td colspan="4">Этил спирті (бояу дайындау үшін)</td>
-<td>кг</td>
-<td>0,000615</td>
-<td>60</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>471</td>
-<td colspan="4">Ақ тышқандар</td>
+<td>387.</td>
+<td>Ақ тышқандар</td>
 <td>бас</td>
-<td>3</td>
-<td>-</td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2">-</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">68 - тарау. Описторхоз</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">62-тарау. Респираторлы микоплазмоз (M. gallisepticum, M. synovia)</td>
 </tr>
 <tr>
-<td colspan="11">137. Паразитологиялық зерттеулер</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">132-параграф. Иммундық ферментті талдау</td>
 </tr>
 <tr>
-<td>472</td>
-<td colspan="4">Спирт</td>
+<td>388.</td>
+<td>Құстың галлисептикум микоплазмасын диагностикалауға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>389.</td>
+<td>Құстың синовия микоплазмасын диагностикалауға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">63-тарау. Құстың жоғары патогенді тұмауы</td>
+</tr>
+<tr>
+<td colspan="10">133-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>390.</td>
+<td>ИФТ-да құстың жоғары патогенді тұмауы антиденелерін табуға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">134-параграф. Сынау әдістері</td>
+</tr>
+<tr>
+<td>391.</td>
+<td>Шынайы уақытта ПТР-да тұмау (Н5) вирусын анықтауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>392.</td>
+<td>ИХТ-да тұмау (А және Н5 типі) вирусын анықтауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>393.</td>
+<td>Классикалық әдіспен ПТР-да тұмау (Н5 және Н7) вирусын анықтауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">8-бөлім. Терісі бағалы аңдар мен үй қояндарының аурулары бойынша зерттеулер</td>
+</tr>
+<tr>
+<td colspan="10">64-тарау. Үй қоянының вирусты геморрагиялық ауруы</td>
+</tr>
+<tr>
+<td colspan="10">135-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>394.</td>
+<td>Вирусты геморрагиялық ауруды анықтауға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">65-тарау. Миксоматоз</td>
+</tr>
+<tr>
+<td colspan="10">136-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>395.</td>
+<td>Ұй қояндарының миксоматозын диагностикалауға арналған ИФТ жинағы</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">9-бөлім. Ит және мысық аурулары бойынша зерттеулер</td>
+</tr>
+<tr>
+<td colspan="10">66-тарау. Етқоректілер обасы</td>
+</tr>
+<tr>
+<td colspan="10">137-параграф. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>396.</td>
+<td>ИФТ-да етқоректілер обасын диагностикалауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">138-параграф. Полимеразалық тізбек реакциясы</td>
+</tr>
+<tr>
+<td>397.</td>
+<td>ПТР әдісімен етқоректілер обасын анықтауға арналған жинақ</td>
+<td>доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">10-бөлім. Балық аурулары бойынша зерттеулер</td>
+</tr>
+<tr>
+<td colspan="10">67-тарау. Тұқылардың геморрагиялық септицемиясы</td>
+</tr>
+<tr>
+<td colspan="10">139-параграф. Бактериологиялық зерттеулер</td>
+</tr>
+<tr>
+<td>398.</td>
+<td>ЕПА</td>
+<td>кг</td>
+<td colspan="2">0,0034</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>399.</td>
+<td>ЕПС</td>
+<td>кг</td>
+<td colspan="2">0,0018</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>400.</td>
+<td>Қанды (қоректік) агар</td>
+<td>кг</td>
+<td colspan="2">0,00046</td>
+<td colspan="2">Затбелгіде көрсетілген мерзімге дейін пайдалану</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>401.</td>
+<td>Романовский-Гимза бояуы</td>
 <td>литр</td>
-<td>0,005</td>
-<td>60</td>
-<td></td>
+<td colspan="2">0,0015</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>473</td>
-<td colspan="4">Пепсин</td>
+<td>402.</td>
+<td>Иммерсиялық май</td>
 <td>кг</td>
-<td>0,007</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,000225</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>474</td>
-<td colspan="4">Ас тұзы</td>
+<td>403.</td>
+<td>Этил спирті</td>
 <td>кг</td>
-<td>0,009</td>
-<td>36</td>
-<td></td>
+<td colspan="2">0,00015</td>
+<td colspan="2">60</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>475</td>
-<td colspan="4">Концентрирленген тұз қышқылы</td>
-<td>кг</td>
-<td>0,001</td>
-<td>12</td>
-<td></td>
+<td>404.</td>
+<td>Ақ тышқандар</td>
+<td>бас</td>
+<td colspan="2">3</td>
+<td colspan="2">-</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">11-бөлім. Ара ауруларын зерттеу</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">68-тарау. Описторхоз</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="10">69 - тарау. Варроатоз</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">140-параграф. Паразитологиялық зерттеу</td>
 </tr>
 <tr>
-<td colspan="11">138. Паразитологиялық зерттеулер</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>476</td>
-<td colspan="4">Спирт</td>
+<td>405.</td>
+<td>Спирт</td>
 <td>литр</td>
-<td>0,005</td>
-<td>60</td>
-<td></td>
+<td colspan="2">0,005</td>
+<td colspan="2">60</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>477</td>
-<td colspan="4">Күйдіргі натрий</td>
+<td>406.</td>
+<td>Пепсин</td>
 <td>кг</td>
-<td>0,002</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,007</td>
+<td colspan="2">36</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>478</td>
-<td colspan="4">1% сабын ерітіндісі (сода немесе кір жуғыш ұнтақ)</td>
+<td>407.</td>
+<td>Ас тұзы</td>
+<td>кг</td>
+<td colspan="2">0,009</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>408.</td>
+<td>Концентрацияланған тұз қышқылы</td>
+<td>кг</td>
+<td colspan="2">0,001</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">11-бөлім. Ара аурулары бойынша зерттеулер</td>
+</tr>
+<tr>
+<td colspan="10">69-тарау. Варроатоз</td>
+</tr>
+<tr>
+<td colspan="10">141-параграф. Паразитологиялық зерттеу</td>
+</tr>
+<tr>
+<td>409.</td>
+<td>Спирт</td>
 <td>литр</td>
-<td>0,01</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,005</td>
+<td colspan="2">60</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>479</td>
-<td colspan="4">Ағартқыш</td>
+<td>410.</td>
+<td>Күйдіргіш натрий</td>
+<td>кг</td>
+<td colspan="2">0,002</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>411.</td>
+<td>1% сабын ерітіндісі (кір жуғыш ұнтақ не сода)</td>
 <td>литр</td>
-<td>0,003</td>
-<td>12</td>
-<td></td>
+<td colspan="2">0,01</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">70 - тарау. Аскофероз</td>
+<td>412.</td>
+<td>Ағартқыш</td>
+<td>литр</td>
+<td colspan="2">0,003</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="11">139. Аскоферозға микологиялық зерттеулер сынамасы</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="10">70-тарау. Аскофероз</td>
 </tr>
 <tr>
-<td>480</td>
-<td colspan="4">Сабуро ортасы</td>
+<td colspan="10">142-параграф. Аскоферозға сынауға арналған микологиялық зерттеу</td>
+</tr>
+<tr>
+<td>413.</td>
+<td>Сабуро ортасы</td>
 <td>кг</td>
-<td>0,00162</td>
-<td>24</td>
-<td></td>
+<td colspan="2">0,00162</td>
+<td colspan="2">24</td>
 <td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td>481</td>
-<td colspan="4">Глицерин</td>
+<td>414.</td>
+<td>Глицерин</td>
 <td>кг</td>
-<td>0,0000125</td>
-<td>24</td>
+<td colspan="2">0,0000125</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="10">12-бөлім. Жануарлардың энзоотиялық ауруларын зертханалық-диагностикалық зерттеу бойынша</td>
+</tr>
+<tr>
+<td colspan="10">71-тарау. Пироплазмоз, тейлериоз, нутталиоз</td>
+</tr>
+<tr>
+<td colspan="10">143-параграф. Пироплазмозды, тейлериозды, нутталиозды паразитологиялық зерттеу</td>
+</tr>
+<tr>
+<td>415.</td>
+<td>Романовский-Гимза бояуы</td>
+<td colspan="2">л</td>
+<td colspan="2">0,0015</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>416.</td>
+<td>Диэтил эфирі</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,005</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>417.</td>
+<td>Иммерсионды май</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00015</td>
+<td colspan="2">18</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>418.</td>
+<td>Этил спирті</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,005</td>
+<td colspan="2">60</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">72-тарау. Жылқы пироплазмозы</td>
+</tr>
+<tr>
+<td colspan="10">144. Иммундық ферментті талдау</td>
+</tr>
+<tr>
+<td>419.</td>
+<td>ИФТ-да Theileria obor және В. Caball антиденелерін табуға арналған бәсекелі иммундық ферментті талдау жинағы</td>
+<td colspan="2">доза</td>
+<td colspan="2">1</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">73-тарау. Некробактериоз, тұяқ шіріндісі</td>
+</tr>
+<tr>
+<td colspan="10">145-параграф. Некробактериозды, тұяқ шіріндісін бактериологиялық зерттеу</td>
+</tr>
+<tr>
+<td>420.</td>
+<td>ЕПА</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0034</td>
+<td colspan="2">60</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>421.</td>
+<td>ЕПС</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0018</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>422.</td>
+<td>Метилен көгі</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0000015</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>423.</td>
+<td>Грам әдісі бойынша бояуға арналған реагенттер жинағы</td>
+<td colspan="2">талдау</td>
+<td colspan="2">3</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>424.</td>
+<td>Йодты калий</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,000001</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>425.</td>
+<td>0,85% хлорлы натрий</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00612</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>426.</td>
+<td>Кристалды йод</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0000005</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>427.</td>
+<td>Глюкоза</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>428.</td>
+<td>Глицерин</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0000075</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>429.</td>
+<td>Вазелин майы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0045</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>430.</td>
+<td>Иммерсиялық май</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00015</td>
+<td colspan="2">18</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>431.</td>
+<td>Этил спирті (бояу дайындау үшін)</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,000765</td>
+<td colspan="2">60</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>432.</td>
+<td>Сиыр бауыры (Китт-Тароцци ортасын дайындау үшін)</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,03</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
+<td colspan="10">74 тарау. Диплококкоз</td>
+</tr>
+<tr>
+<td colspan="10">146-параграф. Диплококкозды бактериологиялық зерттеу</td>
+</tr>
+<tr>
+<td>433.</td>
+<td>ЕПА</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0034</td>
+<td colspan="2">60</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>434.</td>
+<td>ЕПС</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0018</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>435.</td>
+<td>Грам әдісі бойынша бояуға арналған реагенттер жинағы</td>
+<td colspan="2">талдау</td>
+<td colspan="2">3</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>436.</td>
+<td>Этил спирті</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,009</td>
+<td colspan="2">60</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>437.</td>
+<td>0,85% хлорлы натрий</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00085</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>438.</td>
+<td>Лактозасы бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>439.</td>
+<td>Сахарозасы бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>440.</td>
+<td>Манниті бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>441.</td>
+<td>Глюкозасы бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>442.</td>
+<td>Қанды (қоректік) агар</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00046</td>
+<td colspan="2">Көрсетілген күнге дейін пайдалану</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>443.</td>
+<td>Иммерсиялық май</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00015</td>
+<td colspan="2">18</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>444.</td>
+<td>Глюкоза</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">75-тарау. Жылқы маңқасы</td>
+</tr>
+<tr>
+<td colspan="10">147-параграф. Жылқы маңқасын бактериологиялық зерттеу</td>
+</tr>
+<tr>
+<td>445.</td>
+<td>Этил спирті</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,005</td>
+<td colspan="2">60</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>446.</td>
+<td>0,85% хлорлы натрий</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00612</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>447.</td>
+<td>Грам әдісі бойынша бояуға арналған реагенттер жинағы</td>
+<td colspan="2">талдау</td>
+<td colspan="2">3</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>448.</td>
+<td>Йодты калий</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,000001</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>449.</td>
+<td>Кристалды йод</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0000005</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>450.</td>
+<td>Диэтил эфирі</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,01</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>451.</td>
+<td>ЕПА</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0034</td>
+<td colspan="2">60</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>452.</td>
+<td>ЕПС</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0018</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>453.</td>
+<td>Глюкоза</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>454.</td>
+<td>Сахарозасы бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>455.</td>
+<td>Лактозасы бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>456.</td>
+<td>Дульциті бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>457.</td>
+<td>Мальтозасы бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>458.</td>
+<td>Глюкозасы бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>459.</td>
+<td>Манниті бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>460.</td>
+<td>Сорбиті бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00042</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>461.</td>
+<td>Сүт</td>
+<td colspan="2">л</td>
+<td colspan="2">0,005</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">76-тарау. Псороптоз, саркоптоз, арахноздар</td>
+</tr>
+<tr>
+<td colspan="10">148-параграф. Псороптозды, саркоптозды, арахнозды паразитологиялық зерттеу</td>
+</tr>
+<tr>
+<td>462.</td>
+<td>Күйдіргіш натрий</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,01</td>
+<td colspan="2">6</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>463.</td>
+<td>Глицерин</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,000125</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">77-тарау. Сальмонеллездік іш тастау</td>
+</tr>
+<tr>
+<td colspan="10">149-параграф. Жануарлардың сальмонеллездік іш тастауын бактериологиялық зерттеу</td>
+</tr>
+<tr>
+<td>464.</td>
+<td>Пептон</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0002</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>465.</td>
+<td>Магнийлі орта</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0045</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>466.</td>
+<td>Селенит сорпасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0023</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>467.</td>
+<td>Эндо ортасы немесе Левин ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0009</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>468.</td>
+<td>Висмут-сульфитті агар</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00078</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>469.</td>
+<td>Плоскирев агары</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00082</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>470.</td>
+<td>Олькеницкий ортасы (ұқсастары: темірі бар Клиглер агары, несепнәрі бар темір-глюкозалы-лактозалы агар)</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00047</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>471.</td>
+<td>Лактозасы бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00021</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>472.</td>
+<td>Сахарозасы бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00021</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>473.</td>
+<td>Манниті бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00021</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>474.</td>
+<td>Глюкозасы бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00021</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>475.</td>
+<td>Несепнәрі бар Кристенсен агары</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00014</td>
+<td colspan="2">12-ден 48-ге дейін</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>476.</td>
+<td>Хоттингер сорпасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00016</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>477.</td>
+<td>ЕПА</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0006</td>
+<td colspan="2">60</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>478.</td>
+<td>АР үшін сальмонеллездің АВСДЕ көпвалентті аглютинациялаушы абсорбциялаушы қан сарысуы</td>
+<td colspan="2">л</td>
+<td colspan="2">0,000025</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>479.</td>
+<td>Фенолды қызыл</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0005</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>480.</td>
+<td>Грам әдісі бойынша бояуға арналған раегенттер жинағы</td>
+<td colspan="2">талдау</td>
+<td colspan="2">3</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>481.</td>
+<td>А-нафтол</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00003</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>482.</td>
+<td>Калий гидрототығы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0005</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>483.</td>
+<td>Парадиметиламинобензальдегид</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,000006</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>484.</td>
+<td>2-алмастырушы фосфор қышқылды натрий</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00032</td>
+<td colspan="2">6</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>485.</td>
+<td>1-алмастырушы фосфор қышқылды калий</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00003</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>486.</td>
+<td>Иммерсиялық май</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00015</td>
+<td colspan="2">18</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>487.</td>
+<td>0,85% хлорлы натрий</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,000043</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">78-тарау. Сальмонеллез</td>
+</tr>
+<tr>
+<td colspan="10">150-параграф. Полимеразалық тізбек реакциясы</td>
+</tr>
+<tr>
+<td>488.</td>
+<td>ПТР әдісімен сальмонеллезді диагностикалауға арналған жинақ</td>
+<td colspan="2">доза</td>
+<td colspan="2">1</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">79-тарау. Диктиокаулез, стронгилоидоз, параскаридоз, аскаридоз, нематодоздар</td>
+</tr>
+<tr>
+<td colspan="10">151-параграф. Диктиокаулезді, стронгилоидозды, параскаридозды, аскаридозды, нематодоздарды Берман-Орлов әдісі бойынша паразитологиялық зерттеу</td>
+</tr>
+<tr>
+<td>489.</td>
+<td>Люголь ерітіндісі</td>
+<td colspan="2">л</td>
+<td colspan="2">0,00015</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">80-тарау. Эстроз, гастрофилез, гиподерматоз</td>
+</tr>
+<tr>
+<td colspan="10">152-параграф. Эстрозды, гастрофилезді, гиподерматозды паразитологиялық зерттеу</td>
+</tr>
+<tr>
+<td>490.</td>
+<td>Глицерин</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,000125</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">81-тарау. Гельминтоздар, нематодоздар, немотадироздар, трихоцефалездер</td>
+</tr>
+<tr>
+<td colspan="10">153-параграф. Гельминтоздарды, нематодоздарды, нематодироздарды, трихоцефалездерді Дарлинг әдіс бойынша паразитологиялық зерттеу</td>
+</tr>
+<tr>
+<td>491.</td>
+<td>Натрий хлориді</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,04</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>492.</td>
+<td>Глицерин</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,01</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">82-тарау. Трипаносомоз (су-ауру)</td>
+</tr>
+<tr>
+<td colspan="10">154-параграф. Комплементті байланыстыру реакциясы</td>
+</tr>
+<tr>
+<td>493.</td>
+<td>КБР-да трипаносомозды диагностикалауға арналған жинақ</td>
+<td colspan="2">доза</td>
+<td colspan="2">1</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>494.</td>
+<td>Гемолизин</td>
+<td colspan="2">доза</td>
+<td colspan="2">2</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>495.</td>
+<td>Комплемент</td>
+<td colspan="2">доза</td>
+<td colspan="2">1</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>496.</td>
+<td>0,85% хлорлы натрий</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0000085</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>497.</td>
+<td>Стрептомицин</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0001</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">155-параграф. Комплементті байланыстыру реакциясы әдісімен трипаносомозға сынау кезіндегі титрлеу, бақылау, антикомплементтік, қанға уыттылық</td>
+</tr>
+<tr>
+<td>498.</td>
+<td>Гемолизин</td>
+<td colspan="2">доза</td>
+<td colspan="2">96</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>499.</td>
+<td>Комплемент</td>
+<td colspan="2">доза</td>
+<td colspan="2">61</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>500.</td>
+<td>КБР-ға арналған жинақ</td>
+<td colspan="2">доза</td>
+<td colspan="2">28</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>501.</td>
+<td>0,85% хлорлы натрий</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,000532</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">156-параграф. Комплементті байланыстыру реакциясын қайта қою</td>
+</tr>
+<tr>
+<td>502.</td>
+<td>Гемолизин</td>
+<td colspan="2">доза</td>
+<td colspan="2">6</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>503.</td>
+<td>Комплемент</td>
+<td colspan="2">доза</td>
+<td colspan="2">3</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>504.</td>
+<td>КБР-ға арналған жинақ</td>
+<td colspan="2">доза</td>
+<td colspan="2">2</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>505.</td>
+<td>0,85% хлорлы натрий</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0000255</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">83-тарау. Колибактериоз</td>
+</tr>
+<tr>
+<td colspan="10">157-параграф. Колибактериозды бактериологиялық зерттеу</td>
+</tr>
+<tr>
+<td>506.</td>
+<td>Пептон</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0002</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>507.</td>
+<td>Магнийлі орта</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0045</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>508.</td>
+<td>Селенит сорпасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0023</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>509.</td>
+<td>Эндо ортасы немесе Левин ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0009</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>510.</td>
+<td>Висмут-сульфитті агар</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00078</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>511.</td>
+<td>Плоскирев агары</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00082</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>512.</td>
+<td>Жартылай сұйық агар</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0018</td>
+<td colspan="2">18</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>513.</td>
+<td>Олькеницкий ортасы (ұқсастары: темірі бар Клиглер агары, несепнәрі бар темір-глюкозалы-лактозалы агар)</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00047</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>514.</td>
+<td>Лактозасы бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00021</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>515.</td>
+<td>Сахарозасы бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00021</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>516.</td>
+<td>Манниті бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00021</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>517.</td>
+<td>Глюкозасы бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00021</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>518.</td>
+<td>Дульциті бар Гисс ортасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00021</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>519.</td>
+<td>Хоттингер сорпасы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00016</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>520.</td>
+<td>ЕПА</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0006</td>
+<td colspan="2">60</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>521.</td>
+<td>Колли-агглютинациялаушы-О қан сарысуы</td>
+<td colspan="2">л</td>
+<td colspan="2">0,000025</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>522.</td>
+<td>Фенолдық қызыл</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0005</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>523.</td>
+<td>Грам әдісі бойынша бояуға арналған жинақ</td>
+<td colspan="2">талдау</td>
+<td colspan="2">3</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>524.</td>
+<td>А-нафтол</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00003</td>
+<td colspan="2">24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>525.</td>
+<td>Калий гидрототығы</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,0005</td>
+<td colspan="2">12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>526.</td>
+<td>Парадиметиламинобензальдегид</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,000006</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>527.</td>
+<td>2-алмастырушы фосфор қышқылды натрий</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00032</td>
+<td colspan="2">6</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>528.</td>
+<td>1-алмастырушы фосфор қышқылды калий</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00003</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>529.</td>
+<td>Иммерсиялық май</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,00015</td>
+<td colspan="2">18</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>530.</td>
+<td>0,85% хлорлы натрий</td>
+<td colspan="2">кг</td>
+<td colspan="2">0,000043</td>
+<td colspan="2">36</td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
-Ескертпе:
+Ескертпелер:
 
 1. Қабылданған қысқартулар:
 
-   1\) АР – агглютинация реакциясы;
+   1) АР – агглютинация реакциясы;
 
-   2\) ӘБ – әсер ету бірлігі;
+   2) бірл. – іс-қимыл бірлігі;
 
-   3\) ДАПИ – диагностикалық антирабикалық преципитирлеуші иммуноглобулин;
+   3) ДҚҚПИГ – диагностикалық құтыруға қарсы преципитаттаушы иммундық глобулин;
 
-   4\) ДАФИ – диагностикалық антирабикалық флюорисцирусцентті иммуноглобулин;
+   4) ДҚҚФИГ – диагностикалық құтыруға қарсы флуоресценттеуші иммундық глобулин;
 
-   5\) ДПР – диффузды преципитирлеу реакциясы;
+   5) ДПР – диффузиялық преципитаттау реакциясы;
 
-   6\) ЕПА – ет-пептонды агар;
+   6) ЕПА – ет-пептонды агар;
 
-   7\) ЕПС – ет-пептонды сорпа;
+   7) ЕПС – ет-пептонды сорпа;
 
-   8\) ЖІА – жылқының індетті анемиясы;
+   8) ИДР – иммундық диффузия реакциясы;
 
-   9\) ИДР – иммунодиффуздеу реакциясы;
+   9) ИФТ – иммундық ферментті талдау;
 
-   10\) ИМТӘ – иммунды люминесценттiк микроскопияның түзу әдісі;
+   10) ИХТ – иммундық хроматографиялық талдау;
 
-   11\) ИФТ – иммуноферментті талдау;
+   11) КБР – комплементті байланыстыру реакциясы;
 
-   12\) ИХЗ – иммунохроматографиялық зерттеу;
+   12) кг – килограмм;
 
-   13\) ІҚМ – ірі қара мал;
+   13) КҰБР – комплементті ұзақ байланыстыру реакциясы;
 
-   14\) КБР – комплементті байланыстыру реакциясы;
+   14) ҚР АШМ ВБҚК «РВЗ» ШЖҚ РМК – Қазақстан Республикасы Ауыл шаруашылығы министрлігі Ветеринариялық бақылау және қадағалау комитетінің «Республикалық ветеринариялық зертхана» шаруашылық жүргізу құқығындағы республикалық мемлекеттік кәсіпорыны;
 
-   15\) КҰБР – комплементті ұзақ байланыстыру реакциясы;
+   15) МАР – микроагглютинация реакциясы;
 
-   16\) кг – килограмм;
+   16) МБ – микробтық бірлік;
 
-   17\) ҚР АШМ ВБҚК ШЖҚ «РВЗ» РМК – Қазақстан Республикасы Ауыл шаруашылығы министрлігі Ветеринарлық бақылау және қадағалау комитетінің шаруашылық жүргізу құқығындағы «Республикалық ветеринариялық зертханасы» республикалық мемлекеттік кәсіпорыны;
+   17) ПТР – полимеразалық тізбек реакциясы;
 
-   18\) КҰБР – комплементті ұзақ байланыстыру реакциясы;
+   18) РБС – роз бенгал сынамасы;
 
-   19\) ҚЖПТ – құстың жоғары патогенді тұмауы;
+   19) ҰМ – ұсақ мал;
 
-   20\) МБ – микробтық бірлік;
+   20) ІҚМ – ірі қара мал.
 
-   21\) МАР – микроагглютинация реакциясы;
-
-   22\) МЕМСТ – мемлекеттік стандарт;
-
-   23\) ПТР – полимеразды тізбектеу реакциясы;
-
-   24\) РБС – роз бенгал сынамасы;
-
-   25\) ҰКҚО – ұсақ күйіс қайырушылардың обасы;
-
-   26\) ҰММ – ұсақ мүйізді мал;
-
-   27\) ФПТ – флюоресцентті поляризациялық талдау;
-
-   29\) ШАО –шошқаның африкалық обасы;
-
-   28\) ШКО – шошқаның кәдімгі обасы;
-
-   29\) ШРРС – шошқаның репродуктивті респираторлы синдромы;
-
-   30\) ЭФ – электрофорез.
-
-2. Диагностикалық материалдарды фабрикалық өлшеп-орау, сондай-ақ оларды қолдану (яғни, құрғақ күйінде түскен диагностикумдар, оларды пайдалану үшін еріту және зертханалық ыдыстарға құю кезінде, зертханалық ыдыстардың қабырғасында қалып қояды), тасымалдау және сақтау кезіндегі күтпеген табиғи технологиялық ысыраптарды ескере отырып, диагностикумдардың жоғарыда келтірілген шығындарының нормалары 10 % шегінде ұлғаяды.
+2. Диагностикалық материалдарды фабрикалық өлшеп-орауды, сондай-ақ оларды жұмыста пайдалану, тасымалдау және сақтау кезіндегі күтпеген табиғи технологиялық ысыраптарды (себебі, құрғақ күйінде келіп түскен диагностикумдарды қолдану үшін араластырған және құйған кезде олар зертханалық ыдыс қабырғаларында қалып қояды) ескере отырып, диагностикумдардың жоғарыда келтірілген шығыс нормаларының 10 пайыз шегінде ұлғайтылуына жол беріледі.
 
 > *Қазақстан Республикасы*  
 > *Ауыл шаруашылығы министрінің*  
