@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85817/kaz/06.02.2020
+source: https://zan.gov.kz/client/#!/doc/85817/kaz/31.03.2020
 ---
 
 > *Механикалық көлік құралдарын*  
