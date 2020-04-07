@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/99857/kaz/02.02.2016
+source: https://zan.gov.kz/client/#!/doc/99857/kaz/07.04.2020
 ---
 
 # Білім беру ұйымдарын бағалау өлшемшарттарын бекіту туралы
