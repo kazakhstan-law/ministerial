@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/94881/rus/01.01.2020
+source: https://zan.gov.kz/client/#!/doc/94881/rus/07.04.2020
 ---
 
 # Об утверждении Правил оказания стационарной помощи
