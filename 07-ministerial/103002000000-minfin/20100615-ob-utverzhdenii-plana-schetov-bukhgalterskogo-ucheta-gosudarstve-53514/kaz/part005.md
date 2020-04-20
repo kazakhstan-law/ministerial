@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/53514/kaz/14.01.2019
+source: https://zan.gov.kz/client/#!/doc/53514/kaz/20.04.2020
 ---
 
 > *Мемлекеттiк мекемелердiң*  
