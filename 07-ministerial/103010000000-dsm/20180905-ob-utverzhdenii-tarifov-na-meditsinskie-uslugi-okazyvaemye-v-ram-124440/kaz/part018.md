@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/124440/kaz/02.04.2020
+source: https://zan.gov.kz/client/#!/doc/124440/kaz/24.04.2020
 ---
 
 > *Ақы төлеу акушерлік-гинекологиялық*  
