@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/90078/rus/21.11.2019
+source: https://zan.gov.kz/client/#!/doc/90078/rus/05.05.2020
 ---
 
 # Об утверждении правил оказания услуг связи
