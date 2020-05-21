@@ -14,6 +14,11 @@ approval_date: 2018-01-05
 version_date: 2018-01-05
 registry_number: '119196'
 source: https://zan.gov.kz/client/#!/doc/119196/rus/05.01.2018
+repealed_on: 2020-06-20
+repealed_by:
+  code: '143177'
+  title: О внесении изменений в некоторые приказы Министерства юстиции Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/143177/rus
 ---
 
 # Об утверждении стандартов государственных услуг в сфере судебно-экспертной деятельности
