@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/133999/rus/02.08.2019
+source: https://zan.gov.kz/client/#!/doc/133999/rus/28.05.2020
 ---
 
 # Об утверждении Правил перевозок грузов железнодорожным транспортом
