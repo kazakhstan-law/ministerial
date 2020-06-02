@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/97794/rus/11.10.2018
+source: https://zan.gov.kz/client/#!/doc/97794/rus/02.06.2020
 ---
 
 ## 8. Работникам основных специальностей в отрасли культуры
