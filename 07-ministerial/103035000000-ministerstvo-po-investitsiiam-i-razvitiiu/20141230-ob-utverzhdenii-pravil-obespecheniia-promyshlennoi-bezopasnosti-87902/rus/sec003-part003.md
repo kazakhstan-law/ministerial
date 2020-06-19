@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/87902/rus/07.11.2018
+source: https://zan.gov.kz/client/#!/doc/87902/rus/19.06.2020
 ---
 
 ## Подраздел 10-1. Маркшейдерское обеспечение открытых горных работ
