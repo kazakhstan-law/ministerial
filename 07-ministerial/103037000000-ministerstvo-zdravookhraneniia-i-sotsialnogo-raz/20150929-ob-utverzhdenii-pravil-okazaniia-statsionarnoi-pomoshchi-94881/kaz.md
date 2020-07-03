@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/94881/kaz/10.04.2020
+source: https://zan.gov.kz/client/#!/doc/94881/kaz/03.07.2020
 ---
 
 # Стационарлық көмек көрсету қағидаларын бекіту туралы
