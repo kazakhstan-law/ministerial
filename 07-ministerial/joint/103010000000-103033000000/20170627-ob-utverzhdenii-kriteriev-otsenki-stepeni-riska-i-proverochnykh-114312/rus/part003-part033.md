@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/114312/rus/31.10.2018
+source: https://zan.gov.kz/client/#!/doc/114312/rus/05.07.2020
 ---
 
 ## Радиотехнические объекты и радиоэлектронные средства
