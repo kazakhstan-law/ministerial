@@ -1,6 +1,11 @@
 ---
 part_of: ../rus.md
 source: https://zan.gov.kz/client/#!/doc/91240/rus/24.08.2019
+repealed_on: 2020-08-07
+repealed_by:
+  code: '144657'
+  title: Об утверждении правил оказания государственных услуг в сфере игорного бизнеса
+  link: https://zan.gov.kz/client/#!/doc/144657/rus
 ---
 
 > *Приложение 1*  
