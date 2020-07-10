@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49310/kaz/21.03.2020
+source: https://zan.gov.kz/client/#!/doc/49310/kaz/10.07.2020
 ---
 
 > *Дәрілік заттарға сараптама*  
