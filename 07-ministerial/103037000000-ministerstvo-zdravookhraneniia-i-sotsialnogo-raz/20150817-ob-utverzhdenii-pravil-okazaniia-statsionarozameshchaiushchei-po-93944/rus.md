@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/93944/rus/08.04.2020
+source: https://zan.gov.kz/client/#!/doc/93944/rus/17.07.2020
 ---
 
 # Об утверждении Правил оказания стационарозамещающей помощи

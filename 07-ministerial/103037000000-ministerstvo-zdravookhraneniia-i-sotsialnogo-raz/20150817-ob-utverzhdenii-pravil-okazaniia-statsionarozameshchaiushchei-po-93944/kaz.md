@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/93944/kaz/08.04.2020
+source: https://zan.gov.kz/client/#!/doc/93944/kaz/17.07.2020
 ---
 
 # Стационарды алмастыратын көмек көрсету қағидаларын бекіту туралы
