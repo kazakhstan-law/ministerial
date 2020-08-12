@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85042/rus/28.10.2014
+source: https://zan.gov.kz/client/#!/doc/85042/rus/12.08.2020
 ---
 
 ## 2. на точность приземлени Разрядные требования - мужчины и женщины
