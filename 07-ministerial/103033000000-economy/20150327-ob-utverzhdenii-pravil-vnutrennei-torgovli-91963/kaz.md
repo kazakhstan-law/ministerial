@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/91963/kaz/19.07.2019
+source: https://zan.gov.kz/client/#!/doc/91963/kaz/19.08.2020
 ---
 
 # Iшкi сауда қағидаларын бекiту туралы
