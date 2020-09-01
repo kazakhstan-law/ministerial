@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/133999/kaz/28.05.2020
+source: https://zan.gov.kz/client/#!/doc/133999/kaz/01.09.2020
 ---
 
 # Теміржол көлігімен жүктерді тасымалдау қағидалары бекіту туралы
