@@ -1,5 +1,5 @@
 ---
-version_id: '143684_478944'
+version_id: '143684_482626'
 act_code: '143684'
 language: kaz
 title: 2020 жылғы 1 шілдеден бастап 2021 жылғы 1 шілдеге дейінгі аралықта жануарлар дүниесі объектілерін алып қою лимиттерін бекіту туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103047000000'
 approval_date: 2020-06-05
-version_date: 2020-06-05
+version_date: 2020-09-17
 registry_number: '143684'
-source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
+caused_by:
+  code: '146493'
+  title: «Жануарлар дүниесі объектілерін алып қою лимиттерін 2020 жылғы 1 шілдеден бастап 2021 жылғы 1 шілдеге дейін бекіту туралы» Қазақстан Республикасы Экология, Геология және табиғи ресурстар министрінің 2020 жылғы 5 маусымдағы № 133 бұйрығына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/146493/kaz
+source: https://zan.gov.kz/client/#!/doc/143684/kaz
 ---
 
 # 2020 жылғы 1 шілдеден бастап 2021 жылғы 1 шілдеге дейінгі аралықта жануарлар дүниесі объектілерін алып қою лимиттерін бекіту туралы
@@ -42,40 +46,43 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 **М. Мирзагалиев**
 
 > *Қазақстан Республикасының*  
-> *Экология, геология және табиғи*  
-> *ресурстар министрінің*  
-> *2020 жылғы 5 маусымы № 133*  
-> *1-қосымша*
+> *Экология, геология және*  
+> *табиғи ресурстар министрінің*  
+> *2020 жылғы 17 қыркүйегі*  
+> *№ 224 Бұйрығына*  
+> *қосымша*
 
 ## 2020 жылғы 1 шілдеден бастап 2021 жылғы 1 шілдеге дейінгі аралықта балық және басқа да су жануарларын қоспағанда, жануарлар дүниесі объектілерін алып қою лимиттері
+
+> *Ескерту. Лимиттер жаңа редакцияда - ҚР Экология, геология және табиғи ресурстар министрінің 17.09.2020 № 224 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 > *(дарақпен)*
 
 <table>
 <tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Облыстардың атауы</th>
-<th colspan="7">Жануарлардың түрлері (сирек кездесетін және құрып кету қаупі төнген түрлерінен басқа)</th>
+<td rowspan="2">№</td>
+<td rowspan="2">Облыстардың атауы</td>
+<td colspan="7">Жануарлардың түрлері (сирек кездесетін және құрып кету қаупі төнген түрлерінен басқа)</td>
 </tr>
 <tr>
-<th>Бұлан</th>
-<th>Марал (аскания бұғысы)</th>
-<th>Сібір елігі</th>
-<th>Қабан</th>
-<th>Сібір тау ешкісі</th>
-<th>Қоңыр аю (Тяньшаньдікінен басқа)</th>
-<th>Кабарга</th>
+<td>Бұлан</td>
+<td>Марал (аскания бұғысы)</td>
+<td>Сібір елігі</td>
+<td>Қабан</td>
+<td>Сібір тау ешкісі</td>
+<td>Қоңыр аю (Тяньшаньдікінен басқа)</td>
+<td>Кабарга</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
 </tr>
 <tr>
 <td>1</td>
@@ -232,15 +239,15 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>572</th>
-<th>579</th>
-<th>8236</th>
-<th>11273</th>
-<th>833</th>
-<th>159</th>
-<th>25</th>
+<td>15</td>
+<td>Барлығы</td>
+<td>572</td>
+<td>579</td>
+<td>8236</td>
+<td>11273</td>
+<td>833</td>
+<td>159</td>
+<td>25</td>
 </tr>
 </table>
 
@@ -248,33 +255,33 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 
 <table>
 <tr>
-<th colspan="11">Жануарлардың түрлері (сирек кездесетін және құрып кету қаупі төнген түрлерінен басқа)</th>
+<td colspan="11">Жануарлардың түрлері (сирек кездесетін және құрып кету қаупі төнген түрлерінен басқа)</td>
 </tr>
 <tr>
-<th>Суырлар (3 түрі)</th>
-<th>Ондатр</th>
-<th>Бұлғын</th>
-<th>Өзен құндызы</th>
-<th>Кәмшат</th>
-<th>Түлкі</th>
-<th>Қарсақ</th>
-<th>Қояндар (3 түрі)</th>
-<th>Американ су күзені</th>
-<th>Жанат тәрізді ит</th>
-<th>Құну</th>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+<td>16</td>
+<td>17</td>
+<td>18</td>
+<td>19</td>
+<td>20</td>
 </tr>
 <tr>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
-<th>15</th>
-<th>16</th>
-<th>17</th>
-<th>18</th>
-<th>19</th>
-<th>20</th>
+<td>Суырлар (3 түрі)</td>
+<td>Ондатр</td>
+<td>Бұлғын</td>
+<td>Өзен құндызы</td>
+<td>Кәмшат</td>
+<td>Түлкі</td>
+<td>Қарсақ</td>
+<td>Қояндар (3 түрі)</td>
+<td>Американ су күзені</td>
+<td>Жанат тәрізді ит</td>
+<td>Құну</td>
 </tr>
 <tr>
 <td>26244</td>
@@ -459,17 +466,17 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>86 186</td>
-<td>46 098</td>
-<td>2019</td>
-<td>650</td>
-<td>-</td>
-<td>36087</td>
-<td>4886</td>
-<td>276717</td>
-<td>2519</td>
-<td>1307</td>
-<td>28</td>
+<th>86 186</th>
+<th>46 098</th>
+<th>2019</th>
+<th>650</th>
+<th>-</th>
+<th>36087</th>
+<th>4886</th>
+<th>276717</th>
+<th>2519</th>
+<th>1307</th>
+<th>28</th>
 </tr>
 </table>
 
@@ -477,29 +484,35 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 
 <table>
 <tr>
-<th colspan="9">Жануарлардың түрлері (сирек кездесетін және құрып кету қаупі төнген түрлерінен басқа)</th>
+<td colspan="12">Жануарлардың түрлері (сирек кездесетін және құрып кету қаупі төнген түрлерінен басқа)</td>
 </tr>
 <tr>
-<th>Борсық</th>
-<th>Тиін</th>
-<th>Ақкіс</th>
-<th>Сасық күзен</th>
-<th>Сары күзен</th>
-<th>Сілеусін (Түркістандікінен басқа)</th>
-<th>Сарғыш күзен</th>
-<th>Аққалақ</th>
-<th>Зорман</th>
+<td>21</td>
+<td>22</td>
+<td>23</td>
+<td>24</td>
+<td>25</td>
+<td>26</td>
+<td>27</td>
+<td>28</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
+<td>32</td>
 </tr>
 <tr>
-<th>21</th>
-<th>22</th>
-<th>23</th>
-<th>24</th>
-<th>25</th>
-<th>26</th>
-<th>27</th>
-<th>28</th>
-<th>29</th>
+<td>Борсық</td>
+<td>Тиін</td>
+<td>Ақкіс</td>
+<td>Сасық күзен</td>
+<td>Сары күзен</td>
+<td>Сілеусін (Түркістандікінен басқа)</td>
+<td>Сарғыш күзен</td>
+<td>Аққалақ</td>
+<td>Зорман</td>
+<td>Қаз</td>
+<td>Үйрек</td>
+<td>Қасқалдақ</td>
 </tr>
 <tr>
 <td>1036</td>
@@ -511,6 +524,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>67</td>
 <td>-</td>
+<td>46026</td>
+<td>120973</td>
+<td>13412</td>
 </tr>
 <tr>
 <td>462</td>
@@ -522,6 +538,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>13275</td>
+<td>35464</td>
+<td>8084</td>
 </tr>
 <tr>
 <td>753</td>
@@ -533,6 +552,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>700</td>
+<td>42685</td>
+<td>3864</td>
 </tr>
 <tr>
 <td>175</td>
@@ -544,6 +566,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>4062</td>
+<td>98176</td>
+<td>4769</td>
 </tr>
 <tr>
 <td>2727</td>
@@ -555,6 +580,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>817</td>
 <td>595</td>
 <td>-</td>
+<td>3961</td>
+<td>81901</td>
+<td>11021</td>
 </tr>
 <tr>
 <td>233</td>
@@ -566,6 +594,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>378</td>
+<td>12915</td>
+<td>4601</td>
 </tr>
 <tr>
 <td>317</td>
@@ -577,6 +608,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>998</td>
+<td>5449</td>
+<td>666</td>
 </tr>
 <tr>
 <td>4969</td>
@@ -588,6 +622,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>13087</td>
+<td>102066</td>
+<td>231509</td>
+<td>37819</td>
 </tr>
 <tr>
 <td>1489</td>
@@ -599,6 +636,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>4512</td>
+<td>22666</td>
+<td>68103</td>
+<td>8757</td>
 </tr>
 <tr>
 <td>930</td>
@@ -610,6 +650,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>4195</td>
+<td>22914</td>
+<td>15457</td>
 </tr>
 <tr>
 <td>-</td>
@@ -621,6 +664,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>792</td>
+<td>16650</td>
+<td>3293</td>
 </tr>
 <tr>
 <td>895</td>
@@ -632,6 +678,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>1902</td>
+<td>65435</td>
+<td>7087</td>
 </tr>
 <tr>
 <td>999</td>
@@ -643,6 +692,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>295</td>
 <td>-</td>
+<td>2830</td>
+<td>33641</td>
+<td>5883</td>
 </tr>
 <tr>
 <td>629</td>
@@ -654,178 +706,23 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>91</td>
-</tr>
-<tr>
-<td>15 614</td>
-<td>8710</td>
-<td>10033</td>
-<td>28280</td>
-<td>1076</td>
-<td>216</td>
-<td>817</td>
-<td>957</td>
-<td>17 690</td>
-</tr>
-</table>
-
-(Кестенің жалғасы)
-
-<table>
-<tr>
-<th colspan="7">Жануарлардың түрлері (сирек кездесетін және құрып кету қаупі төнген түрлерінен басқа)</th>
-</tr>
-<tr>
-<th>Қаз</th>
-<th>Үйрек</th>
-<th>Қасқалдақ</th>
-<th>Шалшықшы</th>
-<th>Құр</th>
-<th>Саңырау құр</th>
-<th>Сұр құр</th>
-</tr>
-<tr>
-<th>30</th>
-<th>31</th>
-<th>32</th>
-<th>33</th>
-<th>34</th>
-<th>35</th>
-<th>36</th>
-</tr>
-<tr>
-<td>46026</td>
-<td>120973</td>
-<td>13412</td>
-<td>3 481</td>
-<td>953</td>
-<td>2</td>
-<td>-</td>
-</tr>
-<tr>
-<td>13275</td>
-<td>35464</td>
-<td>8084</td>
-<td>5 220</td>
-<td>40</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>700</td>
-<td>42685</td>
-<td>3864</td>
-<td>30 889</td>
-<td>1690</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>4062</td>
-<td>98176</td>
-<td>4769</td>
-<td>422</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>3961</td>
-<td>81901</td>
-<td>11021</td>
-<td>2 728</td>
-<td>9419</td>
-<td>86</td>
-<td>614</td>
-</tr>
-<tr>
-<td>378</td>
-<td>12915</td>
-<td>4601</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-<td>-</td>
-</tr>
-<tr>
-<td>998</td>
-<td>5449</td>
-<td>666</td>
-<td>254</td>
-<td>-</td>
-<td></td>
-<td>-</td>
-</tr>
-<tr>
-<td>102066</td>
-<td>231509</td>
-<td>37819</td>
-<td>3 541</td>
-<td>3682</td>
-<td></td>
-<td>-</td>
-</tr>
-<tr>
-<td>22666</td>
-<td>68103</td>
-<td>8757</td>
-<td>2 851</td>
-<td>1334</td>
-<td></td>
-<td>-</td>
-</tr>
-<tr>
-<td>4195</td>
-<td>22914</td>
-<td>15457</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-<td>-</td>
-</tr>
-<tr>
-<td>792</td>
-<td>16650</td>
-<td>3293</td>
-<td>1 418</td>
-<td>-</td>
-<td></td>
-<td>-</td>
-</tr>
-<tr>
-<td>1902</td>
-<td>65435</td>
-<td>7087</td>
-<td>3 835</td>
-<td>1048</td>
-<td></td>
-<td>-</td>
-</tr>
-<tr>
-<td>2830</td>
-<td>33641</td>
-<td>5883</td>
-<td>2 230</td>
-<td>1164</td>
-<td></td>
-<td>-</td>
-</tr>
-<tr>
 <td>5926</td>
 <td>26365</td>
 <td>6046</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-<td>-</td>
 </tr>
 <tr>
-<td>209 777</td>
-<td>862180</td>
-<td>130759</td>
-<td>56 869</td>
-<td>19330</td>
-<td>88</td>
-<td>614</td>
+<th>15 614</th>
+<th>8710</th>
+<th>10033</th>
+<th>28280</th>
+<th>1076</th>
+<th>216</th>
+<th>817</th>
+<th>957</th>
+<th>17 690</th>
+<th>209 777</th>
+<th>862180</th>
+<th>130759</th>
 </tr>
 </table>
 
@@ -833,49 +730,73 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 
 <table>
 <tr>
-<th colspan="6">Жануарлардың түрлері (сирек кездесетін және құрып кету қаупі төнген түрлерінен басқа)</th>
+<td colspan="10">Жануарлардың түрлері (сирек кездесетін және құрып кету қаупі төнген түрлерінен басқа)</td>
 </tr>
 <tr>
-<th>Қырғауыл</th>
-<th>Ұлар</th>
-<th>Шіл (5 түрі)</th>
-<th>Кекілік</th>
-<th>Бөдене</th>
-<th>Кептер</th>
+<td>33</td>
+<td>34</td>
+<td>35</td>
+<td>36</td>
+<td>37</td>
+<td>38</td>
+<td>39</td>
+<td>40</td>
+<td>41</td>
+<td>42</td>
 </tr>
 <tr>
-<th>37</th>
-<th>38</th>
-<th>39</th>
-<th>40</th>
-<th>41</th>
-<th>42</th>
+<td>Шалшықшы</td>
+<td>Құр</td>
+<td>Саңырау құр</td>
+<td>Сұр құр</td>
+<td>Қырғауыл</td>
+<td>Ұлар</td>
+<td>Шіл (5 түрі)</td>
+<td>Кекілік</td>
+<td>Бөдене</td>
+<td>Кептер</td>
 </tr>
 <tr>
+<td>3481</td>
+<td>953</td>
+<td>2</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>4346</td>
 <td>-</td>
-<td>6 669</td>
+<td>6669</td>
 <td>-</td>
 </tr>
 <tr>
+<td>5220</td>
+<td>40</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>11012</td>
 <td>-</td>
-<td>4 977</td>
+<td>-</td>
 <td>522</td>
 </tr>
 <tr>
+<td>30889</td>
+<td>1690</td>
+<td>-</td>
+<td>-</td>
 <td>40 675</td>
 <td>955</td>
 <td>1654</td>
 <td>9 647</td>
-<td>-</td>
+<td>4977</td>
 <td>8 973</td>
 </tr>
 <tr>
+<td>422</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>259</td>
@@ -884,6 +805,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>13 328</td>
 </tr>
 <tr>
+<td>2 728</td>
+<td>9419</td>
+<td>86</td>
+<td>614</td>
 <td>391</td>
 <td>60</td>
 <td>5795</td>
@@ -892,6 +817,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>8 530</td>
 </tr>
 <tr>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>-</td>
 <td>9 626</td>
 <td>29</td>
 <td>736</td>
@@ -900,6 +829,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>4 370</td>
 </tr>
 <tr>
+<td>254</td>
+<td>-</td>
+<td></td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>1182</td>
@@ -908,6 +841,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>543</td>
 </tr>
 <tr>
+<td>3 541</td>
+<td>3682</td>
+<td></td>
+<td>-</td>
 <td>774</td>
 <td>-</td>
 <td>18594</td>
@@ -916,6 +853,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>38 289</td>
 </tr>
 <tr>
+<td>2 851</td>
+<td>1334</td>
+<td></td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>2887</td>
@@ -924,6 +865,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>7 551</td>
 </tr>
 <tr>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>-</td>
 <td>24 118</td>
 <td>-</td>
 <td>561</td>
@@ -932,6 +877,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>9 562</td>
 </tr>
 <tr>
+<td>1 418</td>
+<td>-</td>
+<td></td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>1520</td>
@@ -940,6 +889,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>4 852</td>
 </tr>
 <tr>
+<td>3 835</td>
+<td>1048</td>
+<td></td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>2340</td>
@@ -948,6 +901,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>12 842</td>
 </tr>
 <tr>
+<td>2 230</td>
+<td>1164</td>
+<td></td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>1079</td>
@@ -956,6 +913,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>2 269</td>
 </tr>
 <tr>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>-</td>
 <td>8857</td>
 <td>11</td>
 <td>3357</td>
@@ -964,32 +925,36 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>24 579</td>
 </tr>
 <tr>
-<td>84 441</td>
-<td>1055</td>
-<td>55322</td>
-<td>61 652</td>
-<td>50 648</td>
-<td>136 210</td>
+<th>56 869</th>
+<th>19330</th>
+<th>88</th>
+<th>614</th>
+<th>84 441</th>
+<th>1055</th>
+<th>55322</th>
+<th>61 652</th>
+<th>50 648</th>
+<th>136 210</th>
 </tr>
 </table>
 
-## Ғылыми мақсаттарда алып қою лимиті *
+Ғылыми мақсаттарда алып қою лимиті *
 
 <table>
 <tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Облыстар атауы</th>
-<th colspan="8">2020 жылға жабайы жануарларды алып қою жоспары (дарақтардың саны)</th>
+<td rowspan="2">№</td>
+<td rowspan="2">Облыстар атауы</td>
+<td colspan="8">2020 жылға жабайы жануарларды алып қою жоспары (дарақтардың саны)</td>
 </tr>
 <tr>
-<th>Қабан</th>
-<th>Сібір елігі</th>
-<th>Түлкі</th>
-<th>Қарсақ</th>
-<th>Борсық</th>
-<th>Қаз</th>
-<th>Үйрек</th>
-<th>Қасқалдақ</th>
+<td>Қабан</td>
+<td>Сібір елігі</td>
+<td>Түлкі</td>
+<td>Қарсак</td>
+<td>Борсық</td>
+<td>Қаз</td>
+<td>Үйрек</td>
+<td>Қасқалдақ</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1053,7 +1018,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td>6</td>
-<td>Батыс Қазақстан</td>
+<td>Жамбыл</td>
 <td>6</td>
 <td>3</td>
 <td>12</td>
@@ -1065,7 +1030,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td>7</td>
-<td>Жамбыл</td>
+<td>Батыс Қазақстан</td>
 <td>6</td>
 <td>3</td>
 <td>12</td>
@@ -1089,7 +1054,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td>9</td>
-<td>Қызылорда</td>
+<td>Қостанай</td>
 <td>6</td>
 <td>0</td>
 <td>12</td>
@@ -1101,7 +1066,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td>10</td>
-<td>Қостанай</td>
+<td>Қызылорда</td>
 <td>6</td>
 <td>8</td>
 <td>10</td>
@@ -1161,7 +1126,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <th></th>
-<th>Барлығы:</th>
+<th>Барлығы</th>
 <th>75</th>
 <th>53</th>
 <th>160</th>
@@ -1179,9 +1144,11 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 
 ## 2020 жылғы 1 шілдеден бастап 2021 жылғы 1 шілдеге дейінгі аралықта балық шаруашылығы су айдындарында балық және басқа су жануарларын аулаудың лимиттері
 
-### 1-тарау. Халықаралық және республикалық маңызы бар балық шаруашылығы су айдындары
+> *Ескерту. Лимиттер жаңа редакцияда - ҚР Экология, геология және табиғи ресурстар министрінің 17.09.2020 № 224 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
-#### 1-параграф. Жайық-Каспий бассейні
+## 1-тарау. Халықаралық және республикалық маңызы бар балық шаруашылығы су айдындары
+
+### 1-параграф. Жайық-Каспий бассейні
 
 > *(тоннамен)*
 
@@ -1902,9 +1869,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <th>Барлығы, тонна</th>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td>1</td>
@@ -2822,10 +2789,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td>8</td>
-<td>
-Құмдыкөл көлі
-(Бурабай ауданы)
-</td>
+<td>Құмдыкөл көлі (Бурабай ауданы)</td>
 <td>3,3</td>
 <td>0,3</td>
 <td>-</td>
@@ -3791,6 +3755,16 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td>21</td>
+<td>Ойсылқара су қоймасы</td>
+<td>6,8</td>
+<td>-</td>
+<td>1,2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>22</td>
 <td>Басқа да су айдындары**</td>
 <td>16,12</td>
 <td>0,03</td>
@@ -3800,11 +3774,11 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>3,9</td>
 </tr>
 <tr>
-<td>22</td>
+<td>23</td>
 <td>Жиыны*</td>
-<td>306,76</td>
+<td>313,56</td>
 <td>3,23</td>
-<td>31,17</td>
+<td>32,37</td>
 <td>31,5</td>
 <td>4,64</td>
 <td>57,6</td>
@@ -4038,6 +4012,16 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
+<td>-</td>
+<td>1,5</td>
+<td>1,6</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2,5</td>
+<td>-</td>
+</tr>
+<tr>
 <td>1,84</td>
 <td>1,14</td>
 <td>1,73</td>
@@ -4049,17 +4033,17 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td>77,44</td>
-<td>23,74</td>
-<td>18,37</td>
+<td>25,24</td>
+<td>19,97</td>
 <td>6,40</td>
 <td>2,87</td>
 <td>1,3</td>
-<td>47,4</td>
+<td>49,9</td>
 <td>1,1</td>
 </tr>
 </table>
 
-#### 3-параграф. Алматы облысы
+#### 3 -параграф. Алматы облысы
 
 <table>
 <tr>
@@ -4155,13 +4139,13 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <th>берш</th>
 </tr>
 <tr>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
 </tr>
 <tr>
 <td>0,376</td>
@@ -4219,7 +4203,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 </table>
 
-#### 4-параграф. Шығыс Қазақстан облысы
+#### 4 -параграф. Шығыс Қазақстан облысы
 
 <table>
 <tr>
@@ -4348,10 +4332,21 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td>10</td>
+<td>Аблакетка өзеніндегі су қоймасы</td>
+<td>0,265</td>
+<td>0,170</td>
+<td>0,095</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>11</td>
 <td>Жиыны*</td>
-<td>1,952</td>
-<td>0,654</td>
-<td>0,256</td>
+<td>2,217</td>
+<td>0,824</td>
+<td>0,0351</td>
 <td>0,162</td>
 <td>0,254</td>
 <td>0,236</td>
@@ -4359,7 +4354,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 </table>
 
-#### 5-параграф. Жамбыл облысы
+#### 5 -параграф. Жамбыл облысы
 
 <table>
 <tr>
@@ -4627,14 +4622,14 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 </table>
 
-#### 6-параграф. Батыс Қазақстан облысы
+#### 6 -параграф. Батыс Қазақстан облысы
 
 <table>
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Су айдындары</th>
 <th rowspan="2">Барлығы, тонна</th>
-<th colspan="7">Балық және басқа су жануарларының түрлері</th>
+<th colspan="9">Балық және басқа су жануарларының түрлері</th>
 </tr>
 <tr>
 <th>көксерке</th>
@@ -4644,6 +4639,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <th>қызылқанат</th>
 <th>табан</th>
 <th>торта</th>
+<th>Күміс түстес мөңке</th>
+<th>Алтын түстес мөңке</th>
 </tr>
 <tr>
 <th>1</th>
@@ -4656,6 +4653,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <th>8</th>
 <th>9</th>
 <th>10</th>
+<th>11</th>
+<th>12</th>
 </tr>
 <tr>
 <td>1</td>
@@ -4668,6 +4667,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td></td>
 <td>0,4</td>
 <td></td>
+<td>6,7</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4680,6 +4681,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>0,9</td>
 <td>0,16</td>
 <td>0,8</td>
+<td>-</td>
+<td>4,07</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4692,6 +4695,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>0,1</td>
+<td>-</td>
+<td>1,4</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4704,6 +4709,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>0,013</td>
 <td>0,04</td>
 <td>-</td>
+<td>-</td>
+<td>0,246</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4716,6 +4723,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>0,8</td>
 <td>0,4</td>
 <td>0,6</td>
+<td>0,7</td>
+<td></td>
 </tr>
 <tr>
 <td>6</td>
@@ -4728,6 +4737,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>1,1</td>
 <td>0,05</td>
 <td>0,15</td>
+<td>0,29</td>
+<td>0,08</td>
 </tr>
 <tr>
 <td>7</td>
@@ -4740,6 +4751,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>10,6</td>
 <td>2,4</td>
 <td>3,9</td>
+<td>-</td>
+<td>0,2</td>
 </tr>
 <tr>
 <td>8</td>
@@ -4752,6 +4765,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>4,6</td>
 <td>5,4</td>
 <td>2,8</td>
+<td>-</td>
+<td>2,4</td>
 </tr>
 <tr>
 <td>9</td>
@@ -4764,6 +4779,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
+<td>0,8</td>
 </tr>
 <tr>
 <td>10</td>
@@ -4776,6 +4793,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>0,3</td>
 <td>-</td>
 <td>0,7</td>
+<td>-</td>
+<td>0,2</td>
 </tr>
 <tr>
 <td>11</td>
@@ -4788,6 +4807,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>9</td>
 <td>4,9</td>
 <td>6,6</td>
+<td>0,9</td>
+<td>-</td>
 </tr>
 <tr>
 <td>12</td>
@@ -4800,6 +4821,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>0,3</td>
 <td>0,1</td>
+<td>1,3</td>
+<td>-</td>
 </tr>
 <tr>
 <td>13</td>
@@ -4812,6 +4835,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>0,3</td>
 <td>0,1</td>
 <td>0,1</td>
+<td>2,6</td>
+<td>-</td>
 </tr>
 <tr>
 <td>14</td>
@@ -4824,6 +4849,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>1,3</td>
 <td>0,3</td>
 <td>1</td>
+<td>0,3</td>
+<td>-</td>
 </tr>
 <tr>
 <td>15</td>
@@ -4836,6 +4863,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>17,4</td>
 <td>-</td>
 <td>2,8</td>
+<td>1,4</td>
+<td>0,17</td>
 </tr>
 <tr>
 <td>16</td>
@@ -4848,18 +4877,36 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>9,6</td>
 <td>1,4</td>
 <td>2,9</td>
+<td>2,4</td>
+<td>0,16</td>
 </tr>
 <tr>
 <td>17</td>
+<td>Солянка өзені</td>
+<td>3,344</td>
+<td>1,046</td>
+<td></td>
+<td>0,726</td>
+<td>0,141</td>
+<td>0,088</td>
+<td>0,194</td>
+<td></td>
+<td></td>
+<td>0,11</td>
+</tr>
+<tr>
+<td>18</td>
 <td>Жиыны*</td>
-<td>200,676</td>
-<td>1,05</td>
+<td>204,02</td>
+<td>2,096</td>
 <td>0,55</td>
-<td>7,832</td>
-<td>0,844</td>
-<td>55,913</td>
-<td>15,85</td>
+<td>8,558</td>
+<td>0,985</td>
+<td>56,001</td>
+<td>16,044</td>
 <td>22,55</td>
+<td>16,59</td>
+<td>12,336</td>
 </tr>
 </table>
 
@@ -4867,11 +4914,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 
 <table>
 <tr>
-<th colspan="11">Балық және басқа су жануарларының түрлері</th>
+<th colspan="9">Балық және басқа су жануарларының түрлері</th>
 </tr>
 <tr>
-<th>Күміс түстес мөңке</th>
-<th>Алтын түстес мөңке</th>
 <th>оңғақ</th>
 <th>көктыран</th>
 <th>алабұға</th>
@@ -4883,8 +4928,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <th>голавль</th>
 </tr>
 <tr>
-<th>11</th>
-<th>12</th>
 <th>13</th>
 <th>14</th>
 <th>15</th>
@@ -4896,8 +4939,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <th>21</th>
 </tr>
 <tr>
-<td>6,7</td>
-<td>2,5</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -4909,8 +4950,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td></td>
 </tr>
 <tr>
-<td>-</td>
-<td>4,07</td>
 <td>-</td>
 <td>-</td>
 <td>2,21</td>
@@ -4923,8 +4962,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td>-</td>
-<td>1,4</td>
-<td>-</td>
 <td>-</td>
 <td>0,1</td>
 <td>-</td>
@@ -4935,8 +4972,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td></td>
 </tr>
 <tr>
-<td>-</td>
-<td>0,246</td>
 <td>0,182</td>
 <td></td>
 <td>0,189</td>
@@ -4948,8 +4983,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>0,7</td>
-<td></td>
 <td></td>
 <td>0,1</td>
 <td></td>
@@ -4961,8 +4994,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>0,29</td>
-<td>0,08</td>
 <td>0,09</td>
 <td></td>
 <td>0,24</td>
@@ -4974,8 +5005,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>-</td>
-<td>0,2</td>
 <td>0,6</td>
 <td>0,1</td>
 <td>0,8</td>
@@ -4987,8 +5016,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>-</td>
-<td>2,4</td>
 <td>1,8</td>
 <td>0,1</td>
 <td>0,5</td>
@@ -5001,8 +5028,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td>-</td>
-<td>0,8</td>
-<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5013,8 +5038,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>-</td>
-<td>0,2</td>
 <td>0,03</td>
 <td></td>
 <td>0,4</td>
@@ -5026,8 +5049,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>0,9</td>
-<td>-</td>
 <td>0,6</td>
 <td>1</td>
 <td>4,7</td>
@@ -5039,8 +5060,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>1,3</td>
-<td>-</td>
 <td>-</td>
 <td></td>
 <td></td>
@@ -5052,8 +5071,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>2,6</td>
-<td>-</td>
 <td>-</td>
 <td>3,3</td>
 <td>0,5</td>
@@ -5065,8 +5082,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>0,2</td>
 </tr>
 <tr>
-<td>0,3</td>
-<td>-</td>
 <td>-</td>
 <td>0,2</td>
 <td>0,5</td>
@@ -5078,8 +5093,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>0,4</td>
 </tr>
 <tr>
-<td>1,4</td>
-<td>0,17</td>
 <td>0,3</td>
 <td></td>
 <td>2,5</td>
@@ -5091,8 +5104,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td></td>
 </tr>
 <tr>
-<td>2,4</td>
-<td>0,16</td>
 <td>0,34</td>
 <td>0,1</td>
 <td>1,6</td>
@@ -5104,13 +5115,22 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td></td>
 </tr>
 <tr>
-<td>16,59</td>
-<td>12,226</td>
+<td></td>
+<td></td>
+<td>0,533</td>
+<td></td>
+<td>0,506</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>4,942</td>
 <td>4,9</td>
-<td>14,239</td>
+<td>14,772</td>
 <td>2,75</td>
-<td>2,43</td>
+<td>2,939</td>
 <td>5,43</td>
 <td>4,5</td>
 <td>27,48</td>
@@ -5118,7 +5138,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 </table>
 
-#### 7-параграф. Қарағанды облысы
+#### 7 -параграф. Қарағанды облысы
 
 <table>
 <tr>
@@ -5410,7 +5430,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 
 <table>
 <tr>
-<th colspan="10">Балық және басқа су жануарларының түрлері</th>
+<th colspan="9">Балық және басқа су жануарларының түрлері</th>
 </tr>
 <tr>
 <th>мөңке</th>
@@ -5424,15 +5444,15 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <th>шаян</th>
 </tr>
 <tr>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
-<th>15</th>
-<th>16</th>
-<th>17</th>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+<td>16</td>
+<td>17</td>
 </tr>
 <tr>
 <td>4,4</td>
@@ -5722,7 +5742,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 </table>
 
-#### 8-параграф. Қостанай облысы
+#### 8 -параграф. Қостанай облысы
 
 <table>
 <tr>
@@ -7182,7 +7202,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 </table>
 
-#### 9-параграф. Қызылорда облысы
+#### 9 -параграф. Қызылорда облысы
 
 <table>
 <tr>
@@ -7572,7 +7592,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 </table>
 
-#### 10-параграф. Солтүстік Қазақстан облысы
+#### 10 -параграф. Солтүстік Қазақстан облысы
 
 <table>
 <tr>
@@ -7599,17 +7619,17 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>1</td>
 <td>Барчинское көлі</td>
-<td>4,50</td>
-<td>4,00</td>
+<td>4,5</td>
+<td>4,0</td>
+<td></td>
 <td>-</td>
-<td>-</td>
-<td>0,50</td>
+<td>0,5</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Баян көлі</td>
-<td>12,00</td>
-<td>12,00</td>
+<td>12,0</td>
+<td>12,0</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -7617,17 +7637,17 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>3</td>
 <td>Жақсы Жалғызтау көлі</td>
-<td>32,00</td>
-<td></td>
-<td>4,00</td>
+<td>32,0</td>
 <td>-</td>
-<td>12,00</td>
+<td>4,0</td>
+<td>-</td>
+<td>12,0</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Жетікөл көлі</td>
-<td>5,10</td>
-<td>5,10</td>
+<td>5,1</td>
+<td>5,1</td>
 <td></td>
 <td>-</td>
 <td></td>
@@ -7635,17 +7655,17 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>5</td>
 <td>Қопа көлі</td>
-<td>18,00</td>
-<td>6,00</td>
+<td>18,0</td>
+<td>6,0</td>
 <td></td>
 <td>-</td>
 <td>12,00</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Кіші Қоскөл көлі (Айыртау ауданы)</td>
-<td>25,00</td>
-<td>-</td>
+<td>Кіші Қоскөл көлі (Ай ыртау ауданы)</td>
+<td>30,0</td>
+<td>5,0</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7653,26 +7673,26 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>7</td>
 <td>Кұспек көлі</td>
-<td>3,50</td>
-<td>1,00</td>
+<td>3,5</td>
+<td>1,0</td>
 <td></td>
 <td>0,50</td>
-<td>2,00</td>
+<td>2,0</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Чебачки көлі</td>
-<td>5,60</td>
-<td>4,00</td>
+<td>5,6</td>
+<td>4,0</td>
 <td>-</td>
 <td>-</td>
-<td>0,50</td>
+<td>0,5</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Кіші балықты көлі</td>
-<td>15,00</td>
-<td>10,00</td>
+<td>15,0</td>
+<td>10,0</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -7680,29 +7700,26 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>10</td>
 <td>Долгое Большое көлі</td>
-<td>3,00</td>
-<td>3,00</td>
+<td>3,0</td>
+<td>3,0</td>
 <td>-</td>
 <td>-</td>
 <td></td>
 </tr>
 <tr>
 <td>11</td>
-<td>
-Жалтыр көлі
-(Аққайын ауданы
-</td>
-<td>3,00</td>
-<td>2,00</td>
+<td>Жалтыр көлі (Аққайын ауданы</td>
+<td>3,0</td>
+<td>2,0</td>
 <td>-</td>
 <td>-</td>
-<td>1,00</td>
+<td>1,0</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Шағлы – Теніз көлі</td>
 <td>36,35</td>
-<td>32,00</td>
+<td>32,0</td>
 <td>0,35</td>
 <td>-</td>
 <td></td>
@@ -7710,20 +7727,17 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>13</td>
 <td>Үлкен Балыкты көлі</td>
-<td>26,00</td>
-<td>15,00</td>
-<td>0,70</td>
+<td>26,0</td>
+<td>15,0</td>
+<td>0,7</td>
 <td>-</td>
-<td>1,50</td>
+<td>1,5</td>
 </tr>
 <tr>
 <td>14</td>
-<td>
-Жалтыр көлі
-(Есіл ауданы)
-</td>
-<td>4,00</td>
-<td>4,00</td>
+<td>Жалтыр көлі (Есіл ауданы)</td>
+<td>4,0</td>
+<td>4,0</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7731,115 +7745,115 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>15</td>
 <td>Қалдар көлі</td>
-<td>7,50</td>
-<td>7,00</td>
+<td>7,5</td>
+<td>7,0</td>
 <td>-</td>
 <td></td>
-<td>0,50</td>
+<td>0,5</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Камышное көлі</td>
-<td>3,30</td>
-<td>1,90</td>
+<td>3,3</td>
+<td>1,9</td>
 <td>-</td>
-<td>0,20</td>
+<td>0,2</td>
 <td>-</td>
 </tr>
 <tr>
 <td>17</td>
 <td>Кіндікті көлі</td>
-<td>14,80</td>
-<td>4,20</td>
+<td>14,8</td>
+<td>4,2</td>
 <td>-</td>
-<td>3,40</td>
+<td>3,4</td>
 <td>-</td>
 </tr>
 <tr>
 <td>18</td>
 <td>Үлкен Таранкүл көлі</td>
-<td>54,10</td>
-<td>9,00</td>
+<td>54,1</td>
+<td>9,0</td>
 <td>18,00</td>
-<td>6,00</td>
+<td>6,0</td>
 <td>-</td>
 </tr>
 <tr>
 <td>19</td>
 <td>Башкирское көлі</td>
-<td>4,00</td>
-<td>1,50</td>
+<td>4,0</td>
+<td>1,5</td>
 <td>-</td>
 <td>-</td>
-<td>2,50</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>20</td>
 <td>Великое көлі</td>
-<td>3,00</td>
-<td>2,00</td>
+<td>3,0</td>
+<td>2,0</td>
 <td>-</td>
 <td>-</td>
-<td>1,00</td>
+<td>1,0</td>
 </tr>
 <tr>
 <td>21</td>
 <td>Горькое (Большое) көлі</td>
-<td>3,50</td>
-<td>0,50</td>
+<td>3,5</td>
+<td>0,5</td>
 <td>-</td>
 <td>-</td>
-<td>3,00</td>
+<td>3,0</td>
 </tr>
 <tr>
 <td>22</td>
 <td>Горькое (Казанка) көлі</td>
-<td>3,30</td>
-<td>2,00</td>
+<td>3,3</td>
+<td>2,0</td>
 <td>-</td>
 <td>-</td>
-<td>1,00</td>
+<td>1,0</td>
 </tr>
 <tr>
 <td>23</td>
 <td>Грачи (Опельдук) көлі</td>
-<td>3,60</td>
-<td>3,00</td>
+<td>3,6</td>
+<td>3,0</td>
 <td>-</td>
 <td>0,07</td>
-<td>0,30</td>
+<td>0,3</td>
 </tr>
 <tr>
 <td>24</td>
 <td>Давыдово көлі</td>
-<td>3,70</td>
-<td>0,70</td>
+<td>3,7</td>
+<td>0,7</td>
 <td>-</td>
 <td></td>
-<td>3,00</td>
+<td>3,0</td>
 </tr>
 <tr>
 <td>25</td>
 <td>Екатериновское көлі</td>
-<td>3,20</td>
-<td>0,50</td>
+<td>3,2</td>
+<td>0,5</td>
 <td>-</td>
 <td></td>
-<td>2,50</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>26</td>
 <td>Лагерное көлі</td>
-<td>6,00</td>
-<td>3,00</td>
+<td>6,0</td>
+<td>3,0</td>
 <td>-</td>
 <td></td>
-<td>3,00</td>
+<td>3,0</td>
 </tr>
 <tr>
 <td>27</td>
 <td>Пасынки көлі</td>
-<td>15,20</td>
+<td>15,2</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -7848,8 +7862,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>28</td>
 <td>Песчаное(Песьяное) көлі</td>
-<td>4,20</td>
-<td>2,00</td>
+<td>4,2</td>
+<td>2,0</td>
 <td>-</td>
 <td></td>
 <td></td>
@@ -7857,16 +7871,16 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>29</td>
 <td>Питное(Островское) көлі</td>
-<td>5,00</td>
-<td>3,00</td>
+<td>5,0</td>
+<td>3,0</td>
 <td>-</td>
 <td></td>
-<td>2,00</td>
+<td>2,0</td>
 </tr>
 <tr>
 <td>30</td>
 <td>Питное (Пресновское) көлі</td>
-<td>44,20</td>
+<td>44,2</td>
 <td></td>
 <td>-</td>
 <td></td>
@@ -7876,15 +7890,15 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>31</td>
 <td>Питное(село Кабань) көлі</td>
 <td>3,40</td>
-<td>1,50</td>
+<td>1,5</td>
 <td>-</td>
-<td>0,70</td>
-<td>1,20</td>
+<td>0,7</td>
+<td>1,2</td>
 </tr>
 <tr>
 <td>32</td>
 <td>Семилово көлі</td>
-<td>16,10</td>
+<td>16,1</td>
 <td></td>
 <td>-</td>
 <td>-</td>
@@ -7893,7 +7907,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>33</td>
 <td>Соленое (Сенжарка) көлі</td>
-<td>14,00</td>
+<td>14,0</td>
 <td></td>
 <td>-</td>
 <td>-</td>
@@ -7902,7 +7916,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>34</td>
 <td>Соленое (Богатое) көлі</td>
-<td>19,00</td>
+<td>19,0</td>
 <td></td>
 <td>-</td>
 <td>-</td>
@@ -7911,65 +7925,62 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>35</td>
 <td>Утиное көлі</td>
-<td>3,50</td>
-<td>2,00</td>
+<td>3,5</td>
+<td>2,0</td>
 <td>-</td>
-<td>1,00</td>
+<td>1,0</td>
 <td></td>
 </tr>
 <tr>
 <td>36</td>
 <td>Чистое көлі</td>
-<td>9,00</td>
-<td>4,00</td>
+<td>9,0</td>
+<td>4,0</td>
 <td>-</td>
 <td>-</td>
-<td>5,00</td>
+<td>5,0</td>
 </tr>
 <tr>
 <td>37</td>
 <td>Питное көлі (Мағжан Жұмбаев ауданы)</td>
-<td>60,00</td>
-<td>40,00</td>
+<td>60,0</td>
+<td>40,0</td>
 <td>-</td>
 <td>-</td>
-<td>20,00</td>
+<td>20,0</td>
 </tr>
 <tr>
 <td>38</td>
 <td>Половинное көлі</td>
-<td>12,00</td>
-<td>10,00</td>
+<td>12,0</td>
+<td>10,0</td>
 <td>-</td>
 <td></td>
-<td>2,00</td>
+<td>2,0</td>
 </tr>
 <tr>
 <td>39</td>
 <td>Байсал көлі</td>
-<td>4,20</td>
-<td>4,00</td>
+<td>4,2</td>
+<td>4,0</td>
 <td>-</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>40</td>
-<td>
-Жалтыр көлі
-(Кызылжар ауданы)
-</td>
-<td>6,50</td>
-<td>2,00</td>
+<td>Жалтыр көлі (Кызылжар ауданы)</td>
+<td>6,5</td>
+<td>2,0</td>
 <td>-</td>
-<td>1,50</td>
-<td>3,00</td>
+<td>1,5</td>
+<td>3,0</td>
 </tr>
 <tr>
 <td>41</td>
 <td>Крутое көлі</td>
 <td>3,00</td>
-<td>1,20</td>
+<td>1,2</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -7978,7 +7989,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>42</td>
 <td>Лебеденок көлі</td>
 <td>5,70</td>
-<td>5,70</td>
+<td>5,7</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -7987,25 +7998,25 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>43</td>
 <td>Лебяжье көлі</td>
 <td>12,00</td>
-<td>5,00</td>
+<td>5,0</td>
 <td>-</td>
 <td>-</td>
-<td>1,00</td>
+<td>1,0</td>
 </tr>
 <tr>
 <td>44</td>
 <td>Лебяжье (Налобинское) көлі</td>
 <td>7,00</td>
-<td>3,00</td>
+<td>3,0</td>
 <td>-</td>
 <td>-</td>
-<td>4,00</td>
+<td>4,0</td>
 </tr>
 <tr>
 <td>45</td>
 <td>Метлишино көлі</td>
 <td>3,00</td>
-<td>3,00</td>
+<td>3,0</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -8014,7 +8025,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>46</td>
 <td>Никульское көлі</td>
 <td>3,00</td>
-<td>3,00</td>
+<td>3,0</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -8023,7 +8034,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>47</td>
 <td>Новое көлі</td>
 <td>3,00</td>
-<td>3,00</td>
+<td>3,0</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -8032,7 +8043,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>48</td>
 <td>Плоское көлі</td>
 <td>4,00</td>
-<td>3,00</td>
+<td>3,0</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -8041,7 +8052,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>49</td>
 <td>Плоское (Домашнее) көлі</td>
 <td>6,00</td>
-<td>6,00</td>
+<td>6,0</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -8050,19 +8061,19 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>50</td>
 <td>Полковниково көлі</td>
 <td>5,00</td>
-<td>4,00</td>
+<td>4,0</td>
 <td>-</td>
 <td>-</td>
-<td>1,00</td>
+<td>1,0</td>
 </tr>
 <tr>
 <td>51</td>
 <td>Сивково көлі</td>
 <td>10,00</td>
-<td>5,00</td>
+<td>5,0</td>
 <td>-</td>
 <td>-</td>
-<td>5,00</td>
+<td>5,0</td>
 </tr>
 <tr>
 <td>52</td>
@@ -8070,23 +8081,23 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>4,30</td>
 <td>3,30</td>
 <td>-</td>
-<td>1,00</td>
+<td>1,0</td>
 <td></td>
 </tr>
 <tr>
 <td>53</td>
 <td>Соленое (Пресновка) көлі</td>
 <td>6,50</td>
-<td>1,00</td>
+<td>1,0</td>
 <td>-</td>
 <td></td>
-<td>5,50</td>
+<td>5,5</td>
 </tr>
 <tr>
 <td>54</td>
 <td>Бескамышное көлі</td>
 <td>4,50</td>
-<td>1,50</td>
+<td>1,5</td>
 <td>-</td>
 <td>0,50</td>
 <td></td>
@@ -8095,34 +8106,34 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>55</td>
 <td>Горькое (село Дубровное) көлі</td>
 <td>3,00</td>
-<td>2,00</td>
+<td>2,0</td>
 <td>-</td>
 <td>-</td>
-<td>1,00</td>
+<td>1,0</td>
 </tr>
 <tr>
 <td>56</td>
 <td>Жаркөл көлі</td>
 <td>5,00</td>
-<td>3,00</td>
+<td>3,0</td>
 <td>-</td>
 <td>-</td>
-<td>2,00</td>
+<td>2,0</td>
 </tr>
 <tr>
 <td>57</td>
 <td>Желтое (Становое) көлі</td>
 <td>13,70</td>
-<td>1,30</td>
+<td>1,3</td>
 <td>-</td>
-<td>0,10</td>
-<td>0,10</td>
+<td>0,1</td>
+<td>0,1</td>
 </tr>
 <tr>
 <td>58</td>
 <td>Рыбное (Воскресеновка) көлі</td>
-<td>4,20</td>
-<td>4,00</td>
+<td>4,2</td>
+<td>4,0</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8139,7 +8150,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>60</td>
 <td>Биесойған көлі</td>
-<td>6,20</td>
+<td>6,2</td>
 <td>6,20</td>
 <td>-</td>
 <td></td>
@@ -8148,7 +8159,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>61</td>
 <td>Қалмақкөл көлі</td>
-<td>10,00</td>
+<td>10,0</td>
 <td>10,00</td>
 <td>-</td>
 <td></td>
@@ -8157,16 +8168,16 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>62</td>
 <td>Ұлыкөл көлі</td>
-<td>35,00</td>
+<td>35,0</td>
 <td>12,00</td>
 <td>-</td>
-<td>4,00</td>
+<td>4,0</td>
 <td>-</td>
 </tr>
 <tr>
 <td>63</td>
 <td>Қарасор көлі</td>
-<td>29,00</td>
+<td>29,0</td>
 <td>19,00</td>
 <td>-</td>
 <td></td>
@@ -8175,16 +8186,16 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>64</td>
 <td>Құмдыкөл (Тайыншы ауданы)</td>
-<td>82,00</td>
+<td>82,0</td>
 <td>10,00</td>
 <td>-</td>
-<td>2,00</td>
-<td>50,00</td>
+<td>2,0</td>
+<td>50,0</td>
 </tr>
 <tr>
 <td>65</td>
 <td>Тайынша көлі</td>
-<td>4,00</td>
+<td>4,0</td>
 <td>4,00</td>
 <td>-</td>
 <td>-</td>
@@ -8193,7 +8204,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>66</td>
 <td>Ақсуат көлі</td>
-<td>3,00</td>
+<td>3,0</td>
 <td>3,00</td>
 <td>-</td>
 <td>-</td>
@@ -8201,20 +8212,17 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td>67</td>
-<td>
-Құмдыкөл көлі
-(Тимирязев ауданы)
-</td>
-<td>8,00</td>
+<td>Құмдыкөл көлі (Тимирязев ауданы)</td>
+<td>8,0</td>
 <td>5,00</td>
 <td>-</td>
 <td>-</td>
-<td>3,00</td>
+<td>3,0</td>
 </tr>
 <tr>
 <td>68</td>
 <td>Кіші Қоскөл көлі (Шал ақын ауданы)</td>
-<td>3,50</td>
+<td>3,5</td>
 <td>2,50</td>
 <td>-</td>
 <td>-</td>
@@ -8223,7 +8231,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>69</td>
 <td>Есіл өзенінің жайылмасы</td>
-<td>43,20</td>
+<td>43,2</td>
 <td>22,30</td>
 <td>4,62</td>
 <td></td>
@@ -8232,16 +8240,16 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>70</td>
 <td>Сергеев су қоймасы</td>
-<td>3,00</td>
+<td>3,0</td>
 <td></td>
 <td></td>
-<td>1,50</td>
+<td>1,5</td>
 <td>1,50</td>
 </tr>
 <tr>
 <td>71</td>
 <td>Ақбасты көлі</td>
-<td>3,20</td>
+<td>3,2</td>
 <td>3,20</td>
 <td>-</td>
 <td>-</td>
@@ -8250,7 +8258,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <tr>
 <td>72</td>
 <td>Солонцы көлі</td>
-<td>3,20</td>
+<td>3,2</td>
 <td>3,20</td>
 <td>-</td>
 <td>-</td>
@@ -8258,21 +8266,48 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td>73</td>
+<td>Ястребиновское көлі</td>
+<td>5,0</td>
+<td>3,0</td>
+<td>-</td>
+<td>-</td>
+<td>2,0</td>
+</tr>
+<tr>
+<td>74</td>
+<td>Горькое (Островское) көлі</td>
+<td>5,0</td>
+<td>2,0</td>
+<td>-</td>
+<td>-</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td>75</td>
+<td>Үлкен Алуа көлі</td>
+<td>3,0</td>
+<td>2,80</td>
+<td>-</td>
+<td>-</td>
+<td>0,2</td>
+</tr>
+<tr>
+<td>76</td>
 <td>Басқа да су айдындары**</td>
-<td>205,90</td>
-<td>169,94</td>
+<td>218,17</td>
+<td>181,24</td>
 <td>0,16</td>
 <td>11,77</td>
 <td>12,60</td>
 </tr>
 <tr>
-<td>74</td>
+<td>77</td>
 <td>Жиыны*</td>
-<td>1064,83</td>
-<td>531,74</td>
+<td>1095,1</td>
+<td>555,84</td>
 <td>27,83</td>
 <td>34,99</td>
-<td>166,20</td>
+<td>171,4</td>
 </tr>
 </table>
 
@@ -8301,29 +8336,11 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <th>14</th>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>-</td>
 <td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>-</td>
-<td>10,00</td>
-<td>-</td>
-<td>-</td>
-<td>6,00</td>
+<td></td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -8338,6 +8355,15 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td>-</td>
+<td>10,0</td>
+<td>-</td>
+<td>-</td>
+<td>6,0</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8351,7 +8377,16 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>25,00</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>25,0</td>
 <td>-</td>
 </tr>
 <tr>
@@ -8365,7 +8400,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td>0,40</td>
-<td>0,70</td>
+<td>0,7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -8374,16 +8409,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td></td>
-<td>5,00</td>
-<td></td>
-<td></td>
-<td></td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td>5,0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -8400,8 +8426,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>2,50</td>
-<td>1,50</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8409,56 +8435,20 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>0,50</td>
-<td>8,00</td>
+<td>2,5</td>
+<td>1,5</td>
 <td></td>
 <td></td>
-<td>0,30</td>
+<td></td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
+<td>0,5</td>
+<td>8,0</td>
 <td></td>
 <td></td>
-<td></td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>0,20</td>
-<td>1,00</td>
-<td></td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>1,50</td>
-<td>4,50</td>
-<td>0,40</td>
-<td></td>
-<td>0,80</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>7,50</td>
-<td>3,00</td>
-<td>3,80</td>
-<td>4,50</td>
-<td>2,30</td>
+<td>0,3</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -8468,6 +8458,42 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,2</td>
+<td>1,0</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>1,5</td>
+<td>4,5</td>
+<td>0,4</td>
+<td></td>
+<td>0,8</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>7,5</td>
+<td>3,0</td>
+<td>3,8</td>
+<td>4,5</td>
+<td>2,3</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -8490,7 +8516,16 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>0,30</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,3</td>
 <td></td>
 <td></td>
 <td>-</td>
@@ -8517,7 +8552,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td></td>
 </tr>
 <tr>
-<td>0,20</td>
+<td>0,2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -8541,23 +8576,14 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td></td>
 <td></td>
 <td></td>
-<td>15,20</td>
+<td>15,2</td>
 </tr>
 <tr>
-<td>0,20</td>
-<td>2,00</td>
+<td>0,2</td>
+<td>2,0</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
 <td></td>
 <td></td>
 </tr>
@@ -8567,7 +8593,16 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>44,20</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>44,2</td>
 <td></td>
 </tr>
 <tr>
@@ -8586,7 +8621,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>16,10</td>
+<td>16,1</td>
 </tr>
 <tr>
 <td>-</td>
@@ -8595,7 +8630,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>14,00</td>
+<td>14,0</td>
 </tr>
 <tr>
 <td>-</td>
@@ -8604,29 +8639,11 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>19,00</td>
-</tr>
-<tr>
-<td></td>
-<td>0,50</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td>19,0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>-</td>
-<td>-</td>
+<td>0,5</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8635,15 +8652,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>0,20</td>
 <td></td>
 <td>-</td>
 <td>-</td>
@@ -8666,21 +8674,12 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>1,80</td>
-<td>-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
-<td>1,00</td>
-<td>5,00</td>
+<td>0,2</td>
+<td></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8688,8 +8687,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8702,16 +8701,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td>1,8</td>
 <td>-</td>
 </tr>
 <tr>
@@ -8724,8 +8714,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td></td>
-<td>1,00</td>
+<td>1,0</td>
+<td>5,0</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8770,6 +8760,15 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td></td>
+<td>1,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td>-</td>
 <td>-</td>
@@ -8778,11 +8777,47 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>1,00</td>
-<td>1,00</td>
 <td></td>
 <td></td>
-<td>0,50</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>1,0</td>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td>0,5</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -8806,17 +8841,17 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td>3,00</td>
-<td>6,00</td>
-<td>0,10</td>
-<td>0,10</td>
-<td>3,00</td>
+<td>6,0</td>
+<td>0,1</td>
+<td>0,1</td>
+<td>3,0</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>0,20</td>
+<td>0,2</td>
 <td></td>
 <td></td>
 <td>-</td>
@@ -8851,16 +8886,16 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td>7,00</td>
-<td>6,00</td>
+<td>6,0</td>
 <td></td>
 <td></td>
-<td>6,00</td>
+<td>6,0</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
 <td></td>
-<td>10,00</td>
+<td>10,0</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8869,7 +8904,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 <tr>
 <td></td>
-<td>20,00</td>
+<td>20,0</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8949,26 +8984,53 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>3,72</td>
-<td>4,69</td>
-<td>0,77</td>
-<td>0,15</td>
-<td>1,35</td>
-<td>0,75</td>
-<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
-<td>34,22</td>
-<td>98,90</td>
-<td>5,27</td>
-<td>4,75</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>3,92</td>
+<td>4,76</td>
+<td>0,87</td>
+<td>0,25</td>
+<td>1,35</td>
+<td>1,25</td>
+<td>-</td>
+</tr>
+<tr>
+<td>34,42</td>
+<td>98,97</td>
+<td>5,37</td>
+<td>4,85</td>
 <td>24,88</td>
-<td>71,75</td>
-<td>64,30</td>
+<td>72,25</td>
+<td>64,3</td>
 </tr>
 </table>
 
-#### 11-параграф. Павлодар облысы
+#### 11 -параграф. Павлодар облысы
 
 <table>
 <tr>
@@ -9268,7 +9330,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 
 <table>
 <tr>
-<th colspan="7">Балық және басқа су жануарларының түрлері</th>
+<td colspan="8">Балық және басқа су жануарларының түрлері</td>
 </tr>
 <tr>
 <th>алабұға</th>
@@ -9560,43 +9622,29 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 </tr>
 </table>
 
-#### 12-параграф. Түркістан облысы
+#### 12 -параграф. Түркістан облысы
 
 <table>
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Су айдындары</th>
 <th rowspan="2">Барлығы, тонна</th>
-<th colspan="11">Балық және басқа су жануарларының түрлері</th>
+<th colspan="4">Балық және басқа су жануарларының түрлері</th>
 </tr>
 <tr>
 <th>табан</th>
 <th>тұқы (сазан)</th>
 <th>көксерке</th>
 <th>ақмарқа</th>
-<th>торта</th>
-<th>жыланбас</th>
-<th>күміс түсті мөңке</th>
-<th>ақ дөңмаңдай</th>
-<th>жайын</th>
-<th>шортан</th>
-<th>ақ амур</th>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-<td>9</td>
-<td>10</td>
-<td>11</td>
-<td>12</td>
-<td>13</td>
-<td>14</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
 </tr>
 <tr>
 <td>1</td>
@@ -9606,13 +9654,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>1,3</td>
 <td>1,3</td>
 <td>0,7</td>
-<td>5,3</td>
-<td>3,2</td>
-<td>3,5</td>
-<td>1,0</td>
-<td>1,5</td>
-<td>-</td>
-<td>-</td>
 </tr>
 <tr>
 <td>2</td>
@@ -9622,13 +9663,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>0,6</td>
 <td>1,2</td>
 <td>1,0</td>
-<td>0,5</td>
-<td>-</td>
-<td>1,5</td>
-<td></td>
-<td>0,2</td>
-<td>0,8</td>
-<td>-</td>
 </tr>
 <tr>
 <td>3</td>
@@ -9638,13 +9672,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>1,8</td>
 <td>-</td>
 <td>-</td>
-<td>-</td>
-<td>-</td>
-<td>0,2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>0,8</td>
 </tr>
 <tr>
 <td>4</td>
@@ -9654,13 +9681,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>3,4</td>
 <td>-</td>
 <td>-</td>
-<td>-</td>
-<td>-</td>
-<td>1,4</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>4,2</td>
 </tr>
 <tr>
 <td>5</td>
@@ -9670,13 +9690,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>1,1</td>
 <td>0,3</td>
 <td>0,6</td>
-<td>0,2</td>
-<td></td>
-<td>0,9</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
 </tr>
 <tr>
 <td>6</td>
@@ -9686,6 +9699,79 @@ source: https://zan.gov.kz/client/#!/doc/143684/kaz/05.06.2020
 <td>8,2</td>
 <td>2,8</td>
 <td>2,3</td>
+</tr>
+</table>
+
+Кестенің жалғасы
+
+<table>
+<tr>
+<th colspan="7">Балық және басқа су жануарларының түрлері</th>
+</tr>
+<tr>
+<th>торта</th>
+<th>жыланбас</th>
+<th>күміс түсті мөңке</th>
+<th>ақ дөңмаңдай</th>
+<th>жайын</th>
+<th>шортан</th>
+<th>ақ амур</th>
+</tr>
+<tr>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+</tr>
+<tr>
+<td>5,3</td>
+<td>3,2</td>
+<td>3,5</td>
+<td>1,0</td>
+<td>1,5</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,5</td>
+<td>-</td>
+<td>1,5</td>
+<td></td>
+<td>0,2</td>
+<td>0,8</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>0,2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,8</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>1,4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>4,2</td>
+</tr>
+<tr>
+<td>0,2</td>
+<td></td>
+<td>0,9</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
 <td>6,0</td>
 <td>3,2</td>
 <td>7,5</td>

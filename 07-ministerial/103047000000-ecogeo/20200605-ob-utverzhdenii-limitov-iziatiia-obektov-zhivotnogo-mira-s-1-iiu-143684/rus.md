@@ -1,5 +1,5 @@
 ---
-version_id: '143684_473477'
+version_id: '143684_482627'
 act_code: '143684'
 language: rus
 title: Об утверждении лимитов изъятия объектов животного мира с 1 июля 2020 года по 1 июля 2021 года
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103047000000'
 approval_date: 2020-06-05
-version_date: 2020-06-05
+version_date: 2020-09-17
 registry_number: '143684'
-source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
+caused_by:
+  code: '146493'
+  title: О внесении изменений в приказ Министра экологии, геологии и природных ресурсов Республики Казахстан от 5 июня 2020 года № 133 «Об утверждении лимитов изъятия объектов животного мира с 1 июля 2020 года по 1 июля 2021 года»
+  link: https://zan.gov.kz/client/#!/doc/146493/rus
+source: https://zan.gov.kz/client/#!/doc/143684/rus
 ---
 
 # Об утверждении лимитов изъятия объектов животного мира с 1 июля 2020 года по 1 июля 2021 года
@@ -41,40 +45,44 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 
 **М. Мирзагалиев**
 
-> *Приложение 1*  
-> *Министра экологии,геологии и природных*  
-> *ресурсов Республики Казахстан*  
-> *от 5 июня 2020 года № 133*
+> *Приложение 1 к приказу*  
+> *Министра экологии, геологии*  
+> *и природных ресурсов*  
+> *Республики Казахстан*  
+> *от 5 июня 2020 года*  
+> *№ 133*
 
 ## Лимиты на изъятие объектов животного мира с 1 июля 2020 года по 1 июля 2021 года, за исключением рыб и других водных животных
+
+> *Сноска. Лимиты в редакции приказа Министра экологии, геологии и природных ресурсов РК от 17.09.2020 № 224 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 > *(в особях)*
 
 <table>
 <tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Наименование областей</th>
-<th colspan="7">Виды животных (кроме редких и находящихся под угрозой исчезновения видов)</th>
+<td rowspan="2">№ п/п</td>
+<td rowspan="2">Наименование областей</td>
+<td colspan="7">Виды животных (кроме редких и находящихся под угрозой исчезновения видов)</td>
 </tr>
 <tr>
-<th>Лось</th>
-<th>Марал (асканийский олень)</th>
-<th>Сибирская косуля</th>
-<th>Кабан</th>
-<th>Сибирский горный козел</th>
-<th>Бурый Медведь (кроме Тяньшаньского)</th>
-<th>Кабарга</th>
+<td>Лось</td>
+<td>Марал (асканийский олень)</td>
+<td>Сибирская косуля</td>
+<td>Кабан</td>
+<td>Сибирский горный козел</td>
+<td>Бурый медведь (кроме Тяньшаньского)</td>
+<td>Кабарга</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
 </tr>
 <tr>
 <td>1</td>
@@ -144,7 +152,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 </tr>
 <tr>
 <td>7</td>
-<td>ЗападноКазахстанская</td>
+<td>Западно-Казахстанская</td>
 <td>2</td>
 <td>-</td>
 <td>140</td>
@@ -210,7 +218,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 </tr>
 <tr>
 <td>13</td>
-<td>Северо-Казахстанская</td>
+<td>Севрео-Казахстанская</td>
 <td>36</td>
 <td>77</td>
 <td>1893</td>
@@ -247,33 +255,33 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 
 <table>
 <tr>
-<th colspan="11">Виды животных (кроме редких и находящихся под угрозой исчезновения видов)</th>
+<td colspan="11">Виды животных (кроме редких и находящихся под угрозой исчезновения видов)</td>
 </tr>
 <tr>
-<th>Сурки (3 вида)</th>
-<th>Ондатра</th>
-<th>Соболь</th>
-<th>Речной бобр</th>
-<th>Выдра</th>
-<th>Лисица</th>
-<th>Корсак</th>
-<th>Зайцы (3 вида)</th>
-<th>Американская норка</th>
-<th>Енотовидная собака</th>
-<th>Росомаха</th>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+<td>16</td>
+<td>17</td>
+<td>18</td>
+<td>19</td>
+<td>20</td>
 </tr>
 <tr>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
-<th>15</th>
-<th>16</th>
-<th>17</th>
-<th>18</th>
-<th>19</th>
-<th>20</th>
+<td>Сурки (3 вида)</td>
+<td>Ондатра</td>
+<td>Соболь</td>
+<td>Речной бобр</td>
+<td>Выдра</td>
+<td>Лисица</td>
+<td>Корсак</td>
+<td>Зайцы (3 вида)</td>
+<td>Американская норка</td>
+<td>Енотовидная собака</td>
+<td>Росомаха</td>
 </tr>
 <tr>
 <td>26244</td>
@@ -458,17 +466,17 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>86 186</td>
-<td>46 098</td>
-<td>2019</td>
-<td>650</td>
-<td>-</td>
-<td>36087</td>
-<td>4886</td>
-<td>276717</td>
-<td>2519</td>
-<td>1307</td>
-<td>28</td>
+<th>86 186</th>
+<th>46 098</th>
+<th>2019</th>
+<th>650</th>
+<th>-</th>
+<th>36087</th>
+<th>4886</th>
+<th>276717</th>
+<th>2519</th>
+<th>1307</th>
+<th>28</th>
 </tr>
 </table>
 
@@ -476,29 +484,35 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 
 <table>
 <tr>
-<th colspan="9">Виды животных (кроме редких и находящихся под угрозой исчезновения видов)</th>
+<td colspan="12">Виды животных (кроме редких и находящихся под угрозой исчезновения видов)</td>
 </tr>
 <tr>
-<th>Барсук</th>
-<th>Белка</th>
-<th>Горностай</th>
-<th>Степной хорек</th>
-<th>Колонок</th>
-<th>Рысь (кроме Туркестанской)</th>
-<th>Солонгой</th>
-<th>Ласка</th>
-<th>Желтый суслик</th>
+<td>21</td>
+<td>22</td>
+<td>23</td>
+<td>24</td>
+<td>25</td>
+<td>26</td>
+<td>27</td>
+<td>28</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
+<td>32</td>
 </tr>
 <tr>
-<th>21</th>
-<th>22</th>
-<th>23</th>
-<th>24</th>
-<th>25</th>
-<th>26</th>
-<th>27</th>
-<th>28</th>
-<th>29</th>
+<td>Барсук</td>
+<td>Белка</td>
+<td>Горностай</td>
+<td>Степной хорек</td>
+<td>Колонок</td>
+<td>Рысь (кроме Туркестанской)</td>
+<td>Солонгой</td>
+<td>Ласка</td>
+<td>Желтый суслик</td>
+<td>Гусь</td>
+<td>Утка</td>
+<td>Лысуха</td>
 </tr>
 <tr>
 <td>1036</td>
@@ -510,6 +524,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>67</td>
 <td>-</td>
+<td>46026</td>
+<td>120973</td>
+<td>13412</td>
 </tr>
 <tr>
 <td>462</td>
@@ -521,6 +538,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>13275</td>
+<td>35464</td>
+<td>8084</td>
 </tr>
 <tr>
 <td>753</td>
@@ -532,6 +552,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>700</td>
+<td>42685</td>
+<td>3864</td>
 </tr>
 <tr>
 <td>175</td>
@@ -543,6 +566,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>4062</td>
+<td>98176</td>
+<td>4769</td>
 </tr>
 <tr>
 <td>2727</td>
@@ -554,6 +580,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>817</td>
 <td>595</td>
 <td>-</td>
+<td>3961</td>
+<td>81901</td>
+<td>11021</td>
 </tr>
 <tr>
 <td>233</td>
@@ -565,6 +594,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>378</td>
+<td>12915</td>
+<td>4601</td>
 </tr>
 <tr>
 <td>317</td>
@@ -576,6 +608,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>998</td>
+<td>5449</td>
+<td>666</td>
 </tr>
 <tr>
 <td>4969</td>
@@ -587,6 +622,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>13087</td>
+<td>102066</td>
+<td>231509</td>
+<td>37819</td>
 </tr>
 <tr>
 <td>1489</td>
@@ -598,6 +636,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>4512</td>
+<td>22666</td>
+<td>68103</td>
+<td>8757</td>
 </tr>
 <tr>
 <td>930</td>
@@ -609,6 +650,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>4195</td>
+<td>22914</td>
+<td>15457</td>
 </tr>
 <tr>
 <td>-</td>
@@ -620,6 +664,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>792</td>
+<td>16650</td>
+<td>3293</td>
 </tr>
 <tr>
 <td>895</td>
@@ -631,6 +678,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>1902</td>
+<td>65435</td>
+<td>7087</td>
 </tr>
 <tr>
 <td>999</td>
@@ -642,6 +692,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>295</td>
 <td>-</td>
+<td>2830</td>
+<td>33641</td>
+<td>5883</td>
 </tr>
 <tr>
 <td>629</td>
@@ -653,178 +706,23 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>91</td>
-</tr>
-<tr>
-<td>15 614</td>
-<td>8710</td>
-<td>10033</td>
-<td>28280</td>
-<td>1076</td>
-<td>216</td>
-<td>817</td>
-<td>957</td>
-<td>17 690</td>
-</tr>
-</table>
-
-(Продолжение таблицы)
-
-<table>
-<tr>
-<th colspan="7">Виды животных (кроме редких и находящихся под угрозой исчезновения видов)</th>
-</tr>
-<tr>
-<th>Гусь</th>
-<th>Утка</th>
-<th>Лысуха</th>
-<th>Кулик</th>
-<th>Тетерев</th>
-<th>Глухарь</th>
-<th>Рябчик</th>
-</tr>
-<tr>
-<th>30</th>
-<th>31</th>
-<th>32</th>
-<th>33</th>
-<th>34</th>
-<th>35</th>
-<th>36</th>
-</tr>
-<tr>
-<td>46026</td>
-<td>120973</td>
-<td>13412</td>
-<td>3 481</td>
-<td>953</td>
-<td>2</td>
-<td>-</td>
-</tr>
-<tr>
-<td>13275</td>
-<td>35464</td>
-<td>8084</td>
-<td>5 220</td>
-<td>40</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>700</td>
-<td>42685</td>
-<td>3864</td>
-<td>30 889</td>
-<td>1690</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>4062</td>
-<td>98176</td>
-<td>4769</td>
-<td>422</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>3961</td>
-<td>81901</td>
-<td>11021</td>
-<td>2 728</td>
-<td>9419</td>
-<td>86</td>
-<td>614</td>
-</tr>
-<tr>
-<td>378</td>
-<td>12915</td>
-<td>4601</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-<td>-</td>
-</tr>
-<tr>
-<td>998</td>
-<td>5449</td>
-<td>666</td>
-<td>254</td>
-<td>-</td>
-<td></td>
-<td>-</td>
-</tr>
-<tr>
-<td>102066</td>
-<td>231509</td>
-<td>37819</td>
-<td>3 541</td>
-<td>3682</td>
-<td></td>
-<td>-</td>
-</tr>
-<tr>
-<td>22666</td>
-<td>68103</td>
-<td>8757</td>
-<td>2 851</td>
-<td>1334</td>
-<td></td>
-<td>-</td>
-</tr>
-<tr>
-<td>4195</td>
-<td>22914</td>
-<td>15457</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-<td>-</td>
-</tr>
-<tr>
-<td>792</td>
-<td>16650</td>
-<td>3293</td>
-<td>1 418</td>
-<td>-</td>
-<td></td>
-<td>-</td>
-</tr>
-<tr>
-<td>1902</td>
-<td>65435</td>
-<td>7087</td>
-<td>3 835</td>
-<td>1048</td>
-<td></td>
-<td>-</td>
-</tr>
-<tr>
-<td>2830</td>
-<td>33641</td>
-<td>5883</td>
-<td>2 230</td>
-<td>1164</td>
-<td></td>
-<td>-</td>
-</tr>
-<tr>
 <td>5926</td>
 <td>26365</td>
 <td>6046</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-<td>-</td>
 </tr>
 <tr>
-<td>209 777</td>
-<td>862180</td>
-<td>130759</td>
-<td>56 869</td>
-<td>19330</td>
-<td>88</td>
-<td>614</td>
+<th>15 614</th>
+<th>8710</th>
+<th>10033</th>
+<th>28280</th>
+<th>1076</th>
+<th>216</th>
+<th>817</th>
+<th>957</th>
+<th>17 690</th>
+<th>209 777</th>
+<th>862180</th>
+<th>130759</th>
 </tr>
 </table>
 
@@ -832,49 +730,73 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 
 <table>
 <tr>
-<th colspan="6">Виды животных (кроме редких и находящихся под угрозой исчезновения видов)</th>
+<td colspan="10">Виды животных (кроме редких и находящихся под угрозой исчезновения видов)</td>
 </tr>
 <tr>
-<th>Фазан</th>
-<th>Гималайский улар</th>
-<th>Куропатки (5 видов)</th>
-<th>Кеклик</th>
-<th>Перепел</th>
-<th>Голубь</th>
+<td>33</td>
+<td>34</td>
+<td>35</td>
+<td>36</td>
+<td>37</td>
+<td>38</td>
+<td>39</td>
+<td>40</td>
+<td>41</td>
+<td>42</td>
 </tr>
 <tr>
-<th>37</th>
-<th>38</th>
-<th>39</th>
-<th>40</th>
-<th>41</th>
-<th>42</th>
+<td>Кулик</td>
+<td>Тетерев</td>
+<td>Глухарь</td>
+<td>Рябчик</td>
+<td>Фазан</td>
+<td>Гималайский улар</td>
+<td>Куропатки (5 видов)</td>
+<td>Кеклик</td>
+<td>Перепел</td>
+<td>Голубь</td>
 </tr>
 <tr>
+<td>3481</td>
+<td>953</td>
+<td>2</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>4346</td>
 <td>-</td>
-<td>6 669</td>
+<td>6669</td>
 <td>-</td>
 </tr>
 <tr>
+<td>5220</td>
+<td>40</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>11012</td>
 <td>-</td>
-<td>4 977</td>
+<td>-</td>
 <td>522</td>
 </tr>
 <tr>
+<td>30889</td>
+<td>1690</td>
+<td>-</td>
+<td>-</td>
 <td>40 675</td>
 <td>955</td>
 <td>1654</td>
 <td>9 647</td>
-<td>-</td>
+<td>4977</td>
 <td>8 973</td>
 </tr>
 <tr>
+<td>422</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>259</td>
@@ -883,6 +805,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>13 328</td>
 </tr>
 <tr>
+<td>2 728</td>
+<td>9419</td>
+<td>86</td>
+<td>614</td>
 <td>391</td>
 <td>60</td>
 <td>5795</td>
@@ -891,6 +817,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>8 530</td>
 </tr>
 <tr>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>-</td>
 <td>9 626</td>
 <td>29</td>
 <td>736</td>
@@ -899,6 +829,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>4 370</td>
 </tr>
 <tr>
+<td>254</td>
+<td>-</td>
+<td></td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>1182</td>
@@ -907,6 +841,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>543</td>
 </tr>
 <tr>
+<td>3 541</td>
+<td>3682</td>
+<td></td>
+<td>-</td>
 <td>774</td>
 <td>-</td>
 <td>18594</td>
@@ -915,6 +853,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>38 289</td>
 </tr>
 <tr>
+<td>2 851</td>
+<td>1334</td>
+<td></td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>2887</td>
@@ -923,6 +865,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>7 551</td>
 </tr>
 <tr>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>-</td>
 <td>24 118</td>
 <td>-</td>
 <td>561</td>
@@ -931,6 +877,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>9 562</td>
 </tr>
 <tr>
+<td>1 418</td>
+<td>-</td>
+<td></td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>1520</td>
@@ -939,6 +889,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>4 852</td>
 </tr>
 <tr>
+<td>3 835</td>
+<td>1048</td>
+<td></td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>2340</td>
@@ -947,6 +901,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>12 842</td>
 </tr>
 <tr>
+<td>2 230</td>
+<td>1164</td>
+<td></td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>1079</td>
@@ -955,6 +913,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>2 269</td>
 </tr>
 <tr>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>-</td>
 <td>8857</td>
 <td>11</td>
 <td>3357</td>
@@ -963,32 +925,36 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>24 579</td>
 </tr>
 <tr>
-<td>84 441</td>
-<td>1055</td>
-<td>55322</td>
-<td>61 652</td>
-<td>50 648</td>
-<td>136 210</td>
+<th>56 869</th>
+<th>19330</th>
+<th>88</th>
+<th>614</th>
+<th>84 441</th>
+<th>1055</th>
+<th>55322</th>
+<th>61 652</th>
+<th>50 648</th>
+<th>136 210</th>
 </tr>
 </table>
 
-## Лимиты на изъятие в научных целях *
+Лимиты на изъятие в научных целях *
 
 <table>
 <tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Наименование областей</th>
-<th colspan="8">План изъятия диких зверей и птиц на 2020 год (количество особей)</th>
+<td rowspan="2">№ п/п</td>
+<td rowspan="2">Наименование областей</td>
+<td colspan="8">План изъятия диких зверей и птиц на 2020 год (количество особей)</td>
 </tr>
 <tr>
-<th>Кабан</th>
-<th>Косуля</th>
-<th>Лиса</th>
-<th>Корсак</th>
-<th>Борсук</th>
-<th>Гусь</th>
-<th>Утки</th>
-<th>Лысуха</th>
+<td>Кабан</td>
+<td>Косуля</td>
+<td>Лиса</td>
+<td>Корсак</td>
+<td>Борсук</td>
+<td>Гусь</td>
+<td>Утки</td>
+<td>Лысуха</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1174,9 +1140,11 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 
 *Представленные лимиты являются гарантированными для Национального референтного центра по ветеринарии и Института зоонозных инфекций; дополнительные квоты, в том числе для других организаций, могут выделяться на уровне областей также в пределах выделенных лимитов.
 
-> *Приложение 2*
+> *Приложение 2 к приказу*
 
 ## Лимиты вылова рыбы и других водных животных в рыбохозяйственных водоемах с 1 июля 2020 года по 1 июля 2021 года
+
+> *Сноска. Лимиты в редакции приказа Министра экологии, геологии и природных ресурсов РК от 17.09.2020 № 224 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 ### Глава 1. Рыбохозяйственные водоемы международного и республиканского значения
 
@@ -1971,9 +1939,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th>Всего, тонн</th>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2235,10 +2203,10 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th>В пределах Туркестанской области</th>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
 </tr>
 <tr>
 <td>1</td>
@@ -3141,7 +3109,683 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 </tr>
 </table>
 
-(Продолжение таблицы)
+Продолжение таблицы
+
+<table>
+<tr>
+<td colspan="8">Виды рыб и других водных животных</td>
+</tr>
+<tr>
+<th>окунь</th>
+<th>плотва</th>
+<th>линь</th>
+<th>судак</th>
+<th>белый амур</th>
+<th>рак</th>
+<th>гаммарус</th>
+<th>Цисты артемии</th>
+</tr>
+<tr>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,6</td>
+<td>1,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>1,4</td>
+<td>0,2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,5</td>
+<td></td>
+<td>3,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>1,0</td>
+<td>0,5</td>
+<td>1,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3,6</td>
+<td>1,7</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>2,0</td>
+<td>2,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,2</td>
+<td>0,1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>1,0</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>6,0</td>
+<td>6,0</td>
+<td>-</td>
+<td>7,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>12,0</td>
+<td></td>
+<td>-</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>2,5</td>
+<td>2,5</td>
+<td>-</td>
+<td>3,3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>37,1</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>24,7</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1,56</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>1,6</td>
+<td>1,7</td>
+<td>0,5</td>
+<td>1,1</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>3,0</td>
+<td>3,5</td>
+<td>0,5</td>
+<td>2,0</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>4,2</td>
+<td>8,9</td>
+<td>0,3</td>
+<td>6,7</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>7,0</td>
+<td>5,91</td>
+<td>0,7</td>
+<td>4,5</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,705</td>
+<td>0,443</td>
+<td></td>
+<td>8,052</td>
+<td></td>
+<td>1,54</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1,000</td>
+<td>0,600</td>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>49,1</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>11,1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>0,500</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,400</td>
+<td>0,500</td>
+<td>1,500</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>1,100</td>
+<td>0,600</td>
+<td>0,600</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>12,472</td>
+<td>8,122</td>
+<td>10,280</td>
+<td>-</td>
+<td>1,2</td>
+<td>1,2</td>
+<td>1,6</td>
+<td>2,4</td>
+</tr>
+<tr>
+<td>63,777</td>
+<td>44,275</td>
+<td>20,44</td>
+<td>32,652</td>
+<td>1,2</td>
+<td>2,74</td>
+<td>1,6</td>
+<td>124,4</td>
+</tr>
+</table>
+
+#### Параграф 2. Актюбинская область
+
+<table>
+<tr>
+<th rowspan="2">№</th>
+<th rowspan="2">Водоемы</th>
+<th rowspan="2">Всего, тонн</th>
+<th colspan="5">Виды рыб и других водных животных</th>
+</tr>
+<tr>
+<th>рак</th>
+<th>щука</th>
+<th>лещ</th>
+<th>густера</th>
+<th>карась</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Река Хобда</td>
+<td>4,7</td>
+<td>-</td>
+<td>0,8</td>
+<td>0,6</td>
+<td>0,1</td>
+<td>0,6</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Река Уил</td>
+<td>13,4</td>
+<td>-</td>
+<td>0,9</td>
+<td>-</td>
+<td>0,4</td>
+<td>1,4</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Река Орь</td>
+<td>9,1</td>
+<td>-</td>
+<td>0,3</td>
+<td>1,2</td>
+<td>0,4</td>
+<td>1,4</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Река Темир</td>
+<td>3,1</td>
+<td>-</td>
+<td>0,2</td>
+<td>0,2</td>
+<td>0,1</td>
+<td>0,3</td>
+</tr>
+<tr>
+<td>5</td>
+<td>вдхр. Актюбинское</td>
+<td>47,4</td>
+<td>1,7</td>
+<td>1,1</td>
+<td>13,5</td>
+<td></td>
+<td>17,7</td>
+</tr>
+<tr>
+<td>6</td>
+<td>вдхр. Каргалинское</td>
+<td>13,3</td>
+<td></td>
+<td>2,1</td>
+<td>2</td>
+<td>3,3</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Озеро Шалкар (Шалкарский район)</td>
+<td>12,3</td>
+<td>1,5</td>
+<td>-</td>
+<td>-</td>
+<td>0,1</td>
+<td>6,5</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Озеро Сорколь (Иргизский район)</td>
+<td>10,7</td>
+<td></td>
+<td>1,1</td>
+<td>1,3</td>
+<td>-</td>
+<td>1,7</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Озеро Большой и Малый Жаланаш</td>
+<td>13</td>
+<td></td>
+<td>1</td>
+<td>3,5</td>
+<td>-</td>
+<td>0,8</td>
+</tr>
+<tr>
+<td>10</td>
+<td>озеро Малый Караколь</td>
+<td>9,6</td>
+<td></td>
+<td>0,3</td>
+<td>1</td>
+<td>-</td>
+<td>1,9</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Озеро Тайпакколь</td>
+<td>18</td>
+<td></td>
+<td>0,8</td>
+<td>2,3</td>
+<td>-</td>
+<td>3</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Озеро Малайдар</td>
+<td>8,9</td>
+<td></td>
+<td>0,4</td>
+<td>0,4</td>
+<td>-</td>
+<td>1,9</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Озеро Асаубай</td>
+<td>3,64</td>
+<td></td>
+<td>0,1</td>
+<td>0,3</td>
+<td>-</td>
+<td>1,4</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Озеро Байтакколь</td>
+<td>51,1</td>
+<td></td>
+<td>11,3</td>
+<td>1,4</td>
+<td>-</td>
+<td>6,5</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Озеро Кармакколь</td>
+<td>26,3</td>
+<td></td>
+<td>6,9</td>
+<td>0,4</td>
+<td>-</td>
+<td>3,6</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Озеро Большой Жарколь</td>
+<td>9,1</td>
+<td></td>
+<td>0,7</td>
+<td>0,5</td>
+<td>-</td>
+<td>1,1</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Озеро Кокколь</td>
+<td>4,6</td>
+<td></td>
+<td>0,2</td>
+<td>0,8</td>
+<td>-</td>
+<td>0,4</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Озеро Бокенколь</td>
+<td>4,7</td>
+<td></td>
+<td>0,7</td>
+<td>0,5</td>
+<td>-</td>
+<td>0,5</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Озеро. Кармакколь (п. Мамыр)</td>
+<td>4,1</td>
+<td></td>
+<td>0,2</td>
+<td>0,2</td>
+<td>-</td>
+<td>0,7</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Озеро Кызылколь</td>
+<td>23,6</td>
+<td></td>
+<td>0,7</td>
+<td></td>
+<td>-</td>
+<td>2,3</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Водохранилища Ойсылкара</td>
+<td>6,8</td>
+<td>-</td>
+<td>1,2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Прочие водоемы**</td>
+<td>16,12</td>
+<td>0,03</td>
+<td>1,37</td>
+<td>1,4</td>
+<td>0,24</td>
+<td>3,9</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Итого*</td>
+<td>313,56</td>
+<td>3,23</td>
+<td>32,37</td>
+<td>31,5</td>
+<td>4,64</td>
+<td>57,6</td>
+</tr>
+</table>
+
+Продолжение таблицы
 
 <table>
 <tr>
@@ -3368,355 +4012,9 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>1,84</td>
-<td>1,14</td>
-<td>1,73</td>
-<td>0,5</td>
-<td>0,87</td>
-<td>0,1</td>
-<td>3,0</td>
 <td>-</td>
-</tr>
-<tr>
-<td>77,44</td>
-<td>23,74</td>
-<td>18,37</td>
-<td>6,40</td>
-<td>2,87</td>
-<td>1,3</td>
-<td>47,4</td>
-<td>1,1</td>
-</tr>
-</table>
-
-#### Параграф 2. Актюбинская область
-
-<table>
-<tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Водоемы</th>
-<th rowspan="2">Всего, тонн</th>
-<th colspan="5">Виды рыб и других водных животных</th>
-</tr>
-<tr>
-<th>рак</th>
-<th>щука</th>
-<th>лещ</th>
-<th>густера</th>
-<th>карась</th>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Река Хобда</td>
-<td>4,7</td>
-<td>-</td>
-<td>0,8</td>
-<td>0,6</td>
-<td>0,1</td>
-<td>0,6</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Река Уил</td>
-<td>13,4</td>
-<td>-</td>
-<td>0,9</td>
-<td>-</td>
-<td>0,4</td>
-<td>1,4</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Река Орь</td>
-<td>9,1</td>
-<td>-</td>
-<td>0,3</td>
-<td>1,2</td>
-<td>0,4</td>
-<td>1,4</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Река Темир</td>
-<td>3,1</td>
-<td>-</td>
-<td>0,2</td>
-<td>0,2</td>
-<td>0,1</td>
-<td>0,3</td>
-</tr>
-<tr>
-<td>5</td>
-<td>вдхр. Актюбинское</td>
-<td>47,4</td>
-<td>1,7</td>
-<td>1,1</td>
-<td>13,5</td>
-<td></td>
-<td>17,7</td>
-</tr>
-<tr>
-<td>6</td>
-<td>вдхр. Каргалинское</td>
-<td>13,3</td>
-<td></td>
-<td>2,1</td>
-<td>2</td>
-<td>3,3</td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Озеро Шалкар (Шалкарский район)</td>
-<td>12,3</td>
 <td>1,5</td>
-<td>-</td>
-<td>-</td>
-<td>0,1</td>
-<td>6,5</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Озеро Сорколь (Иргизский район)</td>
-<td>10,7</td>
-<td></td>
-<td>1,1</td>
-<td>1,3</td>
-<td>-</td>
-<td>1,7</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Озеро Большой и Малый Жаланаш</td>
-<td>13</td>
-<td></td>
-<td>1</td>
-<td>3,5</td>
-<td>-</td>
-<td>0,8</td>
-</tr>
-<tr>
-<td>10</td>
-<td>озеро Малый Караколь</td>
-<td>9,6</td>
-<td></td>
-<td>0,3</td>
-<td>1</td>
-<td>-</td>
-<td>1,9</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Озеро Тайпакколь</td>
-<td>18</td>
-<td></td>
-<td>0,8</td>
-<td>2,3</td>
-<td>-</td>
-<td>3</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Озеро Малайдар</td>
-<td>8,9</td>
-<td></td>
-<td>0,4</td>
-<td>0,4</td>
-<td>-</td>
-<td>1,9</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Озеро Асаубай</td>
-<td>3,64</td>
-<td></td>
-<td>0,1</td>
-<td>0,3</td>
-<td>-</td>
-<td>1,4</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Озеро Байтакколь</td>
-<td>51,1</td>
-<td></td>
-<td>11,3</td>
-<td>1,4</td>
-<td>-</td>
-<td>6,5</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Озеро Кармакколь</td>
-<td>26,3</td>
-<td></td>
-<td>6,9</td>
-<td>0,4</td>
-<td>-</td>
-<td>3,6</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Озеро Большой Жарколь</td>
-<td>9,1</td>
-<td></td>
-<td>0,7</td>
-<td>0,5</td>
-<td>-</td>
-<td>1,1</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Озеро Кокколь</td>
-<td>4,6</td>
-<td></td>
-<td>0,2</td>
-<td>0,8</td>
-<td>-</td>
-<td>0,4</td>
-</tr>
-<tr>
-<td>18</td>
-<td>Озеро Бокенколь</td>
-<td>4,7</td>
-<td></td>
-<td>0,7</td>
-<td>0,5</td>
-<td>-</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Озеро. Кармакколь (п. Мамыр)</td>
-<td>4,1</td>
-<td></td>
-<td>0,2</td>
-<td>0,2</td>
-<td>-</td>
-<td>0,7</td>
-</tr>
-<tr>
-<td>20</td>
-<td>Озеро Кызылколь</td>
-<td>23,6</td>
-<td></td>
-<td>0,7</td>
-<td></td>
-<td>-</td>
-<td>2,3</td>
-</tr>
-<tr>
-<td>21</td>
-<td>Прочие водоемы**</td>
-<td>16,12</td>
-<td>0,03</td>
-<td>1,37</td>
-<td>1,4</td>
-<td>0,24</td>
-<td>3,9</td>
-</tr>
-<tr>
-<td>22</td>
-<td>Итого*</td>
-<td>306,76</td>
-<td>3,23</td>
-<td>31,17</td>
-<td>31,5</td>
-<td>4,64</td>
-<td>57,6</td>
-</tr>
-</table>
-
-(Продолжение таблицы)
-
-<table>
-<tr>
-<th colspan="8">Виды рыб и других водных животных</th>
-</tr>
-<tr>
-<th>сазан</th>
-<th>язь</th>
-<th>плотва</th>
-<th>красноперка</th>
-<th>линь</th>
-<th>сом</th>
-<th>окунь</th>
-<th>судак</th>
-</tr>
-<tr>
-<td>9</td>
-<td>10</td>
-<td>11</td>
-<td>12</td>
-<td>13</td>
-<td>14</td>
-<td>15</td>
-<td>16</td>
-</tr>
-<tr>
-<td></td>
-<td>0,3</td>
-<td>0,4</td>
-<td>0,3</td>
-<td>0,6</td>
-<td>0,2</td>
-<td>0,8</td>
-<td>-</td>
-</tr>
-<tr>
-<td>0,4</td>
-<td>0,8</td>
-<td>2,2</td>
-<td>4,1</td>
-<td>1</td>
-<td>0,4</td>
-<td>1,8</td>
-<td>-</td>
-</tr>
-<tr>
-<td>0,7</td>
-<td>0,7</td>
 <td>1,6</td>
-<td>0,9</td>
-<td></td>
-<td>0,4</td>
-<td>1,5</td>
-<td></td>
-</tr>
-<tr>
-<td>0,4</td>
-<td>0,1</td>
-<td>0,1</td>
-<td>0,6</td>
-<td>0,3</td>
-<td>0,2</td>
-<td>0,6</td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>5</td>
-<td>2,1</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>2,2</td>
-<td>1,1</td>
-</tr>
-<tr>
-<td></td>
-<td>1,2</td>
-<td>2,2</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -3724,146 +4022,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>1,4</td>
-<td>0,7</td>
-<td>0,8</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>1,3</td>
-<td>-</td>
-</tr>
-<tr>
-<td>4,2</td>
-<td>0,7</td>
-<td>0,4</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>1,3</td>
-<td>-</td>
-</tr>
-<tr>
-<td>1,1</td>
-<td>3,5</td>
-<td>1,7</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>1,4</td>
-<td>-</td>
-</tr>
-<tr>
-<td>4,3</td>
-<td>0,2</td>
-<td>0,5</td>
-<td>-</td>
-<td>0,1</td>
-<td>-</td>
-<td>1,3</td>
-<td>-</td>
-</tr>
-<tr>
-<td>7,5</td>
-<td>3</td>
-<td>0,3</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>1,1</td>
-<td>-</td>
-</tr>
-<tr>
-<td>4,3</td>
-<td>0,2</td>
-<td>0,2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>1,5</td>
-<td>-</td>
-</tr>
-<tr>
-<td>1,2</td>
-<td>0,4</td>
-<td>0,04</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>0,2</td>
-<td>-</td>
-</tr>
-<tr>
-<td>10,1</td>
-<td>3</td>
-<td>0,9</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>17,9</td>
-<td>-</td>
-</tr>
-<tr>
-<td>10</td>
-<td>0,6</td>
-<td>2,2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>2,6</td>
-<td>-</td>
-</tr>
-<tr>
-<td>4,9</td>
-<td>0,9</td>
-<td>0,4</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>0,6</td>
-<td>-</td>
-</tr>
-<tr>
-<td>1,9</td>
-<td>0,8</td>
-<td>0,1</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>0,4</td>
-<td>-</td>
-</tr>
-<tr>
-<td>1,2</td>
-<td>0,3</td>
-<td>0,4</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>1,1</td>
-<td>-</td>
-</tr>
-<tr>
-<td>1,7</td>
-<td>0,2</td>
-<td>0,1</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>1</td>
-<td>-</td>
-</tr>
-<tr>
-<td>17,3</td>
-<td></td>
-<td></td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>3,3</td>
-<td>-</td>
-</tr>
-<tr>
 <td>1,84</td>
 <td>1,14</td>
 <td>1,73</td>
@@ -3875,12 +4033,12 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 </tr>
 <tr>
 <td>77,44</td>
-<td>23,74</td>
-<td>18,37</td>
+<td>25,24</td>
+<td>19,97</td>
 <td>6,40</td>
 <td>2,87</td>
 <td>1,3</td>
-<td>47,4</td>
+<td>49,9</td>
 <td>1,1</td>
 </tr>
 </table>
@@ -3965,7 +4123,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 </tr>
 </table>
 
-(Продолжение таблицы)
+Продолжение таблицы
 
 <table>
 <tr>
@@ -4174,10 +4332,21 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 </tr>
 <tr>
 <td>10</td>
+<td>Водохранилище на реке Аблакетка</td>
+<td>0,265</td>
+<td>0,170</td>
+<td>0,095</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>11</td>
 <td>Итого*</td>
-<td>1,952</td>
-<td>0,654</td>
-<td>0,256</td>
+<td>2,217</td>
+<td>0,824</td>
+<td>0,0351</td>
 <td>0,162</td>
 <td>0,254</td>
 <td>0,236</td>
@@ -4192,7 +4361,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th rowspan="2">№</th>
 <th rowspan="2">Водоемы</th>
 <th rowspan="2">Всего, тонн</th>
-<th colspan="5">Виды рыб и других водных животных</th>
+<th colspan="6">Виды рыб и других водных животных</th>
 </tr>
 <tr>
 <th>щука</th>
@@ -4200,6 +4369,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th>карп (сазан)</th>
 <th>судак</th>
 <th>карась</th>
+<th>плотва</th>
 </tr>
 <tr>
 <th>1</th>
@@ -4210,6 +4380,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th>6</th>
 <th>7</th>
 <th>8</th>
+<th>9</th>
 </tr>
 <tr>
 <td>1</td>
@@ -4220,6 +4391,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>5,61</td>
 <td>5,28</td>
 <td>5,91</td>
+<td>-</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4230,6 +4402,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>8,0</td>
 <td>35,2</td>
 <td>6,9</td>
+<td>4,2</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4240,19 +4413,18 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>4,5</td>
 <td>5,2</td>
 <td>12,4</td>
+<td></td>
 </tr>
 <tr>
 <td>4</td>
-<td>
-Терс-Ащибулакское
-водохранилище
-</td>
+<td>Терс-Ащибулакское водохранилище</td>
 <td>28,65</td>
 <td>-</td>
 <td>10,1</td>
 <td>1,57</td>
 <td>9,39</td>
 <td>7,59</td>
+<td>-</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4262,6 +4434,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td></td>
 <td>3,4</td>
 <td>0,09</td>
+<td>-</td>
 <td>-</td>
 </tr>
 <tr>
@@ -4273,6 +4446,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>1,1</td>
 <td></td>
 <td>0,48</td>
+<td>0,3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -4281,6 +4455,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>0,58</td>
 <td>0,63</td>
 <td>1,43</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -4293,6 +4468,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>0,9</td>
 <td>-</td>
 <td>0,75</td>
+<td>-</td>
 </tr>
 <tr>
 <td>9</td>
@@ -4303,6 +4479,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>15,502</td>
 <td>2,5</td>
 <td>15,634</td>
+<td>1,320</td>
 </tr>
 <tr>
 <td>10</td>
@@ -4313,17 +4490,17 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>42,012</td>
 <td>57,66</td>
 <td>49,664</td>
+<td>5,82</td>
 </tr>
 </table>
 
-(Продолжение таблицы)
+Продолжение таблицы
 
 <table>
 <tr>
-<th colspan="9">Виды рыб и других водных животных</th>
+<th colspan="8">Виды рыб и других водных животных</th>
 </tr>
 <tr>
-<th>плотва</th>
 <th>окунь</th>
 <th>змееголов</th>
 <th>маринка</th>
@@ -4334,7 +4511,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th>чехонь</th>
 </tr>
 <tr>
-<th>9</th>
 <th>10</th>
 <th>11</th>
 <th>12</th>
@@ -4353,10 +4529,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>-</td>
 </tr>
 <tr>
-<td>4,2</td>
 <td></td>
 <td>6,8</td>
 <td>-</td>
@@ -4367,7 +4541,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>1,3</td>
 <td>-</td>
@@ -4386,10 +4559,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>-</td>
 </tr>
 <tr>
-<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4400,7 +4571,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>0,3</td>
 <td></td>
 <td>0,51</td>
 <td>-</td>
@@ -4412,7 +4582,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 </tr>
 <tr>
 <td>-</td>
-<td>-</td>
 <td>0,76</td>
 <td>-</td>
 <td>-</td>
@@ -4423,7 +4592,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 </tr>
 <tr>
 <td>-</td>
-<td>-</td>
 <td>1,38</td>
 <td>-</td>
 <td>-</td>
@@ -4433,7 +4601,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>1,320</td>
 <td>0,06</td>
 <td>7,312</td>
 <td>0,62</td>
@@ -4444,7 +4611,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>0,58</td>
 </tr>
 <tr>
-<td>5,82</td>
 <td>0,06</td>
 <td>18,062</td>
 <td>0,62</td>
@@ -4463,7 +4629,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th rowspan="2">№</th>
 <th rowspan="2">Водоемы</th>
 <th rowspan="2">Всего, тонн</th>
-<th colspan="7">Виды рыб и других водных животных</th>
+<th colspan="9">Виды рыб и других водных животных</th>
 </tr>
 <tr>
 <th>судак</th>
@@ -4473,6 +4639,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th>красноперка</th>
 <th>лещ</th>
 <th>плотва</th>
+<th>карась серебряный</th>
+<th>Карась золотой</th>
 </tr>
 <tr>
 <th>1</th>
@@ -4485,6 +4653,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th>8</th>
 <th>9</th>
 <th>10</th>
+<th>11</th>
+<th>12</th>
 </tr>
 <tr>
 <td>1</td>
@@ -4497,6 +4667,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td></td>
 <td>0,4</td>
 <td></td>
+<td>6,7</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4509,6 +4681,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>0,9</td>
 <td>0,16</td>
 <td>0,8</td>
+<td>-</td>
+<td>4,07</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4521,6 +4695,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>0,1</td>
+<td>-</td>
+<td>1,4</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4533,6 +4709,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>0,013</td>
 <td>0,04</td>
 <td>-</td>
+<td>-</td>
+<td>0,246</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4545,6 +4723,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>0,8</td>
 <td>0,4</td>
 <td>0,6</td>
+<td>0,7</td>
+<td></td>
 </tr>
 <tr>
 <td>6</td>
@@ -4557,6 +4737,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>1,1</td>
 <td>0,05</td>
 <td>0,15</td>
+<td>0,29</td>
+<td>0,08</td>
 </tr>
 <tr>
 <td>7</td>
@@ -4569,6 +4751,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>10,6</td>
 <td>2,4</td>
 <td>3,9</td>
+<td>-</td>
+<td>0,2</td>
 </tr>
 <tr>
 <td>8</td>
@@ -4581,6 +4765,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>4,6</td>
 <td>5,4</td>
 <td>2,8</td>
+<td>-</td>
+<td>2,4</td>
 </tr>
 <tr>
 <td>9</td>
@@ -4593,6 +4779,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
+<td>0,8</td>
 </tr>
 <tr>
 <td>10</td>
@@ -4605,6 +4793,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>0,3</td>
 <td></td>
 <td>0,7</td>
+<td>-</td>
+<td>0,2</td>
 </tr>
 <tr>
 <td>11</td>
@@ -4617,6 +4807,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>9</td>
 <td>4,9</td>
 <td>6,6</td>
+<td>0,9</td>
+<td>-</td>
 </tr>
 <tr>
 <td>12</td>
@@ -4629,6 +4821,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td></td>
 <td>0,3</td>
 <td>0,1</td>
+<td>1,3</td>
+<td>-</td>
 </tr>
 <tr>
 <td>13</td>
@@ -4641,6 +4835,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>0,3</td>
 <td>0,1</td>
 <td>0,1</td>
+<td>2,6</td>
+<td>-</td>
 </tr>
 <tr>
 <td>14</td>
@@ -4653,6 +4849,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>1,3</td>
 <td>0,3</td>
 <td>1</td>
+<td>0,3</td>
+<td>-</td>
 </tr>
 <tr>
 <td>15</td>
@@ -4665,6 +4863,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>17,4</td>
 <td>-</td>
 <td>2,8</td>
+<td>1,4</td>
+<td>0,17</td>
 </tr>
 <tr>
 <td>16</td>
@@ -4677,46 +4877,57 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>9,6</td>
 <td>1,4</td>
 <td>2,9</td>
+<td>2,4</td>
+<td>0,16</td>
 </tr>
 <tr>
 <td>17</td>
+<td>река Солянка</td>
+<td>3,344</td>
+<td>1,046</td>
+<td></td>
+<td>0,726</td>
+<td>0,141</td>
+<td>0,088</td>
+<td>0,194</td>
+<td></td>
+<td></td>
+<td>0,11</td>
+</tr>
+<tr>
+<td>18</td>
 <td>Итого*</td>
-<td>200,676</td>
-<td>1,05</td>
+<td>204,02</td>
+<td>2,096</td>
 <td>0,55</td>
-<td>7,832</td>
-<td>0,844</td>
-<td>55,913</td>
-<td>15,85</td>
+<td>8,558</td>
+<td>0,985</td>
+<td>56,001</td>
+<td>16,044</td>
 <td>22,55</td>
+<td>16,59</td>
+<td>12,336</td>
 </tr>
 </table>
 
-(Продолжение таблицы)
+Продолжение таблицы
 
 <table>
 <tr>
-<th colspan="11">Виды рыб и других водных животных</th>
+<th colspan="9">Виды рыб и других водных животных</th>
 </tr>
 <tr>
-<th rowspan="2">карась серебряный</th>
-<th rowspan="2">Карась золотой</th>
-<th rowspan="2">линь</th>
-<th rowspan="2">синец</th>
-<th rowspan="2">окунь</th>
-<th rowspan="2">жерех</th>
-<th></th>
-<th rowspan="2">густера</th>
-<th rowspan="2">сом</th>
-<th rowspan="2">рак</th>
-<th rowspan="2">голавль</th>
+<th>линь</th>
+<th>синец</th>
+<th>окунь</th>
+<th>жерех</th>
+<th>карп (сазан)</th>
+<th>густера</th>
+<th>сом</th>
+<th>рак</th>
+<th>голавль</th>
 </tr>
 <tr>
-<td>карп (сазан)</td>
-</tr>
-<tr>
-<th>11</th>
-<th>12</th>
 <th>13</th>
 <th>14</th>
 <th>15</th>
@@ -4728,8 +4939,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th>21</th>
 </tr>
 <tr>
-<td>6,7</td>
-<td>2,5</td>
 <td>1</td>
 <td>-</td>
 <td>-</td>
@@ -4741,8 +4950,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td></td>
 </tr>
 <tr>
-<td>-</td>
-<td>4,07</td>
 <td>-</td>
 <td>-</td>
 <td>2,21</td>
@@ -4755,8 +4962,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 </tr>
 <tr>
 <td>-</td>
-<td>1,4</td>
-<td>-</td>
 <td>-</td>
 <td>0,1</td>
 <td>-</td>
@@ -4767,8 +4972,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>-</td>
-<td>0,246</td>
 <td>0,182</td>
 <td></td>
 <td>0,189</td>
@@ -4780,8 +4983,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>0,7</td>
-<td></td>
 <td></td>
 <td>0,1</td>
 <td></td>
@@ -4793,8 +4994,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>0,29</td>
-<td>0,08</td>
 <td>0,09</td>
 <td></td>
 <td>0,24</td>
@@ -4806,8 +5005,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>-</td>
-<td>0,2</td>
 <td>0,6</td>
 <td>0,1</td>
 <td>0,8</td>
@@ -4819,8 +5016,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>-</td>
-<td>2,4</td>
 <td>1,8</td>
 <td>0,1</td>
 <td>0,5</td>
@@ -4832,8 +5027,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>-</td>
-<td>0,8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4845,8 +5038,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>-</td>
-<td>0,2</td>
 <td>0,03</td>
 <td></td>
 <td>0,4</td>
@@ -4858,8 +5049,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>0,9</td>
-<td>-</td>
 <td>0,6</td>
 <td>1</td>
 <td>4,7</td>
@@ -4871,8 +5060,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td></td>
 </tr>
 <tr>
-<td>1,3</td>
-<td>-</td>
 <td>-</td>
 <td></td>
 <td></td>
@@ -4884,8 +5071,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td></td>
 </tr>
 <tr>
-<td>2,6</td>
-<td>-</td>
 <td>-</td>
 <td>3,3</td>
 <td>0,5</td>
@@ -4897,8 +5082,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>0,2</td>
 </tr>
 <tr>
-<td>0,3</td>
-<td>-</td>
 <td>-</td>
 <td>0,2</td>
 <td>0,5</td>
@@ -4910,8 +5093,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>0,4</td>
 </tr>
 <tr>
-<td>1,4</td>
-<td>0,17</td>
 <td>0,3</td>
 <td>-</td>
 <td>2,5</td>
@@ -4923,8 +5104,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>2,4</td>
-<td>0,16</td>
 <td>0,34</td>
 <td>0,1</td>
 <td>1,6</td>
@@ -4936,13 +5115,22 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>16,59</td>
-<td>12,226</td>
+<td></td>
+<td></td>
+<td>0,533</td>
+<td></td>
+<td>0,506</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>4,942</td>
 <td>4,9</td>
-<td>14,239</td>
+<td>14,772</td>
 <td>2,75</td>
-<td>2,43</td>
+<td>2,936</td>
 <td>5,43</td>
 <td>4,5</td>
 <td>27,48</td>
@@ -5238,7 +5426,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 </tr>
 </table>
 
-(Продолжение таблицы)
+Продолжение таблицы
 
 <table>
 <tr>
@@ -6246,11 +6434,11 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 </tr>
 </table>
 
-(Продолжение таблицы)
+Продолжение таблицы
 
 <table>
 <tr>
-<th colspan="8">Виды рыб и других водных животных</th>
+<td colspan="8">Виды рыб и других водных животных</td>
 </tr>
 <tr>
 <th>щука</th>
@@ -7021,7 +7209,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th rowspan="2">№</th>
 <th rowspan="2">Водоемы</th>
 <th rowspan="2">Всего, тонн</th>
-<th colspan="6">Виды рыб и других водных животных</th>
+<th colspan="7">Виды рыб и других водных животных</th>
 </tr>
 <tr>
 <th>плотва</th>
@@ -7030,6 +7218,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th>белый толстолобик</th>
 <th>красноперка</th>
 <th>карась</th>
+<th>карась серебряный</th>
 </tr>
 <tr>
 <th>1</th>
@@ -7041,6 +7230,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th>7</th>
 <th>8</th>
 <th>9</th>
+<th>10</th>
 </tr>
 <tr>
 <td>1</td>
@@ -7051,6 +7241,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>10,226</td>
 <td>-</td>
 <td>14,74</td>
+<td>-</td>
 <td>-</td>
 </tr>
 <tr>
@@ -7063,6 +7254,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>1,67</td>
 <td>-</td>
+<td>0,473</td>
 </tr>
 <tr>
 <td>3</td>
@@ -7074,13 +7266,11 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>0,596</td>
 <td>0,096</td>
 <td>-</td>
+<td>0,772</td>
 </tr>
 <tr>
 <td>4</td>
-<td>
-Нансай-Ханкожинская
-система озер
-</td>
+<td>Нансай-Ханкожинская система озер</td>
 <td>37,048</td>
 <td>4,665</td>
 <td>15,514</td>
@@ -7088,6 +7278,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>4,62</td>
 <td>-</td>
 <td>-</td>
+<td>4,997</td>
 </tr>
 <tr>
 <td>5</td>
@@ -7099,6 +7290,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>1,143</td>
 <td>1,28</td>
 <td>-</td>
+<td>1,543</td>
 </tr>
 <tr>
 <td>6</td>
@@ -7110,13 +7302,11 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>1,459</td>
 <td>2,955</td>
 <td>-</td>
+<td>1,877</td>
 </tr>
 <tr>
 <td>7</td>
-<td>
-Куандаринская
-система озер
-</td>
+<td>Куандаринская система озер</td>
 <td>72,817</td>
 <td>12,484</td>
 <td>23,86</td>
@@ -7124,6 +7314,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>2,551</td>
 <td>4,871</td>
 <td>-</td>
+<td>5,999</td>
 </tr>
 <tr>
 <td>8</td>
@@ -7135,6 +7326,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>1,193</td>
 <td>1,642</td>
+<td>-</td>
 </tr>
 <tr>
 <td>9</td>
@@ -7146,6 +7338,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>1,061</td>
+<td>-</td>
 </tr>
 <tr>
 <td>10</td>
@@ -7157,6 +7350,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>1,133</td>
 <td></td>
+<td>2,918</td>
 </tr>
 <tr>
 <td>11</td>
@@ -7168,6 +7362,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>7,876</td>
+<td>-</td>
 </tr>
 <tr>
 <td>12</td>
@@ -7176,6 +7371,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>1,355</td>
 <td>1,182</td>
 <td>5,530</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7190,6 +7386,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>14</td>
@@ -7201,6 +7398,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>0,798</td>
+<td>-</td>
 </tr>
 <tr>
 <td>15</td>
@@ -7212,17 +7410,17 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>10,369</td>
 <td>27,938</td>
 <td>11,377</td>
+<td>18,579</td>
 </tr>
 </table>
 
-(Продолжение таблицы)
+Продолжение таблицы
 
 <table>
 <tr>
-<th colspan="9">Виды рыб и других водных животных</th>
+<th colspan="8">Виды рыб и других водных животных</th>
 </tr>
 <tr>
-<th>карась серебряный</th>
 <th>змееголов</th>
 <th>окунь</th>
 <th>щука</th>
@@ -7233,7 +7431,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th>белый амур</th>
 </tr>
 <tr>
-<th>10</th>
 <th>11</th>
 <th>12</th>
 <th>13</th>
@@ -7244,7 +7441,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th>18</th>
 </tr>
 <tr>
-<td>-</td>
 <td>0,677</td>
 <td>4,15</td>
 <td>5,034</td>
@@ -7255,7 +7451,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>0,473</td>
 <td>0,394</td>
 <td>0,826</td>
 <td>0,631</td>
@@ -7266,7 +7461,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td></td>
 </tr>
 <tr>
-<td>0,772</td>
 <td>1,585</td>
 <td>-</td>
 <td>0,166</td>
@@ -7277,7 +7471,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>0,436</td>
 </tr>
 <tr>
-<td>4,997</td>
 <td>0,902</td>
 <td>-</td>
 <td>0,733</td>
@@ -7288,7 +7481,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>1,916</td>
 </tr>
 <tr>
-<td>1,543</td>
 <td>1,168</td>
 <td>-</td>
 <td>0,835</td>
@@ -7299,7 +7491,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>3,124</td>
 </tr>
 <tr>
-<td>1,877</td>
 <td>1,424</td>
 <td>-</td>
 <td>0,755</td>
@@ -7310,7 +7501,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>3,021</td>
 </tr>
 <tr>
-<td>5,999</td>
 <td>2,277</td>
 <td>-</td>
 <td>2,463</td>
@@ -7321,7 +7511,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>5,393</td>
 </tr>
 <tr>
-<td>-</td>
 <td>0,427</td>
 <td>-</td>
 <td>-</td>
@@ -7332,7 +7521,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>-</td>
 <td>1,239</td>
 <td>0,193</td>
 <td>1,108</td>
@@ -7343,7 +7531,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td></td>
 </tr>
 <tr>
-<td>2,918</td>
 <td>0,432</td>
 <td>1,127</td>
 <td>3,949</td>
@@ -7357,7 +7544,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>-</td>
 <td></td>
 <td>1,569</td>
 <td>3,767</td>
@@ -7368,7 +7554,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>-</td>
 <td>4,471</td>
 <td>-</td>
 <td>-</td>
@@ -7376,7 +7561,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>-</td>
 <td>0,158</td>
 <td>-</td>
 <td>0,232</td>
@@ -7387,7 +7571,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>-</td>
 <td></td>
 <td>-</td>
 <td></td>
@@ -7398,7 +7581,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>18,579</td>
 <td>10,683</td>
 <td>6,296</td>
 <td>15,906</td>
@@ -7420,8 +7602,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th colspan="4">Виды рыб и водных животных</th>
 </tr>
 <tr>
-<th>Карась</th>
-<th>Лещ</th>
+<th>карась</th>
+<th>лещ</th>
 <th>карп</th>
 <th>сиговые</th>
 </tr>
@@ -7437,53 +7619,53 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>1</td>
 <td>озеро Барчинское</td>
-<td>4,50</td>
-<td>4,00</td>
+<td>4,5</td>
+<td>4,0</td>
 <td></td>
-<td></td>
-<td>0,50</td>
+<td>-</td>
+<td>0,5</td>
 </tr>
 <tr>
 <td>2</td>
 <td>озеро Баян</td>
-<td>12,00</td>
-<td>12,00</td>
+<td>12,0</td>
+<td>12,0</td>
 <td></td>
-<td></td>
-<td></td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>3</td>
 <td>озеро Жаксы-Жалгызтау</td>
-<td>32,00</td>
-<td></td>
-<td>4,00</td>
-<td></td>
-<td>12,00</td>
+<td>32,0</td>
+<td>-</td>
+<td>4,0</td>
+<td>-</td>
+<td>12</td>
 </tr>
 <tr>
 <td>4</td>
 <td>озеро Жетыколь</td>
-<td>5,10</td>
-<td>5,10</td>
-<td></td>
-<td></td>
-<td></td>
+<td>5,1</td>
+<td>5,1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>5</td>
 <td>озеро Копа</td>
-<td>18,00</td>
-<td>6,00</td>
-<td></td>
-<td></td>
-<td>12,00</td>
+<td>18,0</td>
+<td>6,0</td>
+<td>-</td>
+<td>-</td>
+<td>12,0</td>
 </tr>
 <tr>
 <td>6</td>
 <td>озеро Косколь Малый (Айыртауский район)</td>
-<td>25,00</td>
-<td></td>
+<td>30,0</td>
+<td>5,0</td>
 <td>-</td>
 <td></td>
 <td>-</td>
@@ -7491,26 +7673,26 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>7</td>
 <td>озеро Куспек</td>
-<td>3,50</td>
-<td>1,00</td>
+<td>3,5</td>
+<td>1,0</td>
 <td>-</td>
-<td>0,50</td>
-<td>2,00</td>
+<td>0,5</td>
+<td>2,0</td>
 </tr>
 <tr>
 <td>8</td>
 <td>озеро Чебачки</td>
-<td>5,60</td>
-<td>4,00</td>
+<td>5,6</td>
+<td>4,0</td>
 <td>-</td>
 <td>-</td>
-<td>0,50</td>
+<td>0,5</td>
 </tr>
 <tr>
 <td>9</td>
 <td>озеро Балыкты Малые</td>
-<td>15,00</td>
-<td>10,00</td>
+<td>15,0</td>
+<td>10,0</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -7518,20 +7700,17 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>10</td>
 <td>озеро Долгое Большое</td>
-<td>3,00</td>
-<td>3,00</td>
+<td>3,0</td>
+<td>3,0</td>
 <td>-</td>
 <td>-</td>
 <td></td>
 </tr>
 <tr>
 <td>11</td>
-<td>
-озеро Жалтыр
-(Аккайынский район)
-</td>
-<td>3,00</td>
-<td>2,00</td>
+<td>озеро Жалтыр (Аккайынский район)</td>
+<td>3,0</td>
+<td>2,0</td>
 <td>-</td>
 <td>-</td>
 <td>1,00</td>
@@ -7540,7 +7719,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>12</td>
 <td>озеро Шаглы - Тенгиз</td>
 <td>36,35</td>
-<td>32,00</td>
+<td>32,0</td>
 <td>0,35</td>
 <td>-</td>
 <td></td>
@@ -7548,20 +7727,17 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>13</td>
 <td>озеро Балыкты Большие</td>
-<td>26,00</td>
-<td>15,00</td>
-<td>0,70</td>
+<td>26,0</td>
+<td>15,0</td>
+<td>0,7</td>
 <td>-</td>
-<td>1,50</td>
+<td>1,5</td>
 </tr>
 <tr>
 <td>14</td>
-<td>
-озеро Жалтырь
-(Есильский район)
-</td>
-<td>4,00</td>
-<td>4,00</td>
+<td>озеро Жалтырь (Есильский район)</td>
+<td>4,0</td>
+<td>4,0</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -7569,8 +7745,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>15</td>
 <td>озеро Калдарь</td>
-<td>7,50</td>
-<td>7,00</td>
+<td>7,5</td>
+<td>7,0</td>
 <td>-</td>
 <td>-</td>
 <td>0,50</td>
@@ -7578,106 +7754,106 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>16</td>
 <td>озеро Камышное</td>
-<td>3,30</td>
-<td>1,90</td>
+<td>3,3</td>
+<td>1,9</td>
 <td>-</td>
-<td>0,20</td>
+<td>0,2</td>
 <td></td>
 </tr>
 <tr>
 <td>17</td>
 <td>озеро Кендыкты</td>
-<td>14,80</td>
-<td>4,20</td>
+<td>14,8</td>
+<td>4,2</td>
 <td>-</td>
-<td>3,40</td>
+<td>3,4</td>
 <td></td>
 </tr>
 <tr>
 <td>18</td>
 <td>озеро Тарангул Большой</td>
-<td>54,10</td>
-<td>9,00</td>
-<td>18,00</td>
-<td>6,00</td>
+<td>54,1</td>
+<td>9,0</td>
+<td>18,0</td>
+<td>6,0</td>
 <td></td>
 </tr>
 <tr>
 <td>19</td>
 <td>озеро Башкирское</td>
-<td>4,00</td>
-<td>1,50</td>
+<td>4,0</td>
+<td>1,5</td>
 <td>-</td>
 <td>-</td>
-<td>2,50</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>20</td>
 <td>озеро Великое</td>
-<td>3,00</td>
-<td>2,00</td>
+<td>3,0</td>
+<td>2,0</td>
 <td>-</td>
 <td>-</td>
-<td>1,00</td>
+<td>1,0</td>
 </tr>
 <tr>
 <td>21</td>
 <td>озеро Горькое (Большое)</td>
-<td>3,50</td>
-<td>0,50</td>
+<td>3,5</td>
+<td>0,5</td>
 <td>-</td>
 <td>-</td>
-<td>3,00</td>
+<td>3,0</td>
 </tr>
 <tr>
 <td>22</td>
 <td>озеро Горькое (Казанка)</td>
-<td>3,30</td>
-<td>2,00</td>
+<td>3,3</td>
+<td>2,0</td>
 <td>-</td>
 <td>-</td>
-<td>1,00</td>
+<td>1,0</td>
 </tr>
 <tr>
 <td>23</td>
 <td>озеро Грачи (Опельдук)</td>
-<td>3,60</td>
-<td>3,00</td>
+<td>3,6</td>
+<td>3,0</td>
 <td>-</td>
 <td>0,07</td>
-<td>0,30</td>
+<td>0,3</td>
 </tr>
 <tr>
 <td>24</td>
 <td>озеро Давыдово</td>
-<td>3,70</td>
-<td>0,70</td>
+<td>3,7</td>
+<td>0,7</td>
 <td>-</td>
 <td>-</td>
-<td>3,00</td>
+<td>3,0</td>
 </tr>
 <tr>
 <td>25</td>
 <td>озеро Екатериновское</td>
-<td>3,20</td>
-<td>0,50</td>
+<td>3,2</td>
+<td>0,5</td>
 <td>-</td>
 <td>-</td>
-<td>2,50</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>26</td>
 <td>озеро Лагерное</td>
-<td>6,00</td>
-<td>3,00</td>
+<td>6,0</td>
+<td>3,0</td>
 <td>-</td>
 <td>-</td>
-<td>3,00</td>
+<td>3,0</td>
 </tr>
 <tr>
 <td>27</td>
 <td>озеро Пасынки</td>
-<td>15,20</td>
+<td>15,2</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7686,8 +7862,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>28</td>
 <td>озеро Песчаное(Песьяное)</td>
-<td>4,20</td>
-<td>2,00</td>
+<td>4,2</td>
+<td>2,0</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -7695,16 +7871,16 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>29</td>
 <td>озеро Питное(Островское)</td>
-<td>5,00</td>
-<td>3,00</td>
+<td>5,0</td>
+<td>3,0</td>
 <td>-</td>
 <td>-</td>
-<td>2,00</td>
+<td>2,0</td>
 </tr>
 <tr>
 <td>30</td>
 <td>озеро Питное (Пресновское)</td>
-<td>44,20</td>
+<td>44,2</td>
 <td></td>
 <td>-</td>
 <td>-</td>
@@ -7713,16 +7889,16 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>31</td>
 <td>озеро Питное(село Кабань)</td>
-<td>3,40</td>
-<td>1,50</td>
+<td>3,4</td>
+<td>1,5</td>
 <td>-</td>
-<td>0,70</td>
-<td>1,20</td>
+<td>0,7</td>
+<td>1,2</td>
 </tr>
 <tr>
 <td>32</td>
 <td>озеро Семилово</td>
-<td>16,10</td>
+<td>16,1</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7731,7 +7907,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>33</td>
 <td>озеро Соленое (Сенжарка)</td>
-<td>14,00</td>
+<td>14,0</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7740,7 +7916,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>34</td>
 <td>озеро Соленое (Богатое)</td>
-<td>19,00</td>
+<td>19,0</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7749,56 +7925,53 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>35</td>
 <td>озеро Утиное</td>
-<td>3,50</td>
-<td>2,00</td>
+<td>3,5</td>
+<td>2,0</td>
 <td>-</td>
-<td>1,00</td>
+<td>1,0</td>
 <td>-</td>
 </tr>
 <tr>
 <td>36</td>
 <td>озеро Чистое</td>
-<td>9,00</td>
-<td>4,00</td>
+<td>9,0</td>
+<td>4,0</td>
 <td>-</td>
 <td>-</td>
-<td>5,00</td>
+<td>5,0</td>
 </tr>
 <tr>
 <td>37</td>
 <td>озеро Питное (район имени Магжана Жумбаева)</td>
-<td>60,00</td>
-<td>40,00</td>
+<td>60,0</td>
+<td>40,0</td>
 <td>-</td>
 <td>-</td>
-<td>20,00</td>
+<td>20,0</td>
 </tr>
 <tr>
 <td>38</td>
 <td>озеро Половинное</td>
-<td>12,00</td>
-<td>10,00</td>
+<td>12,0</td>
+<td>10,0</td>
 <td>-</td>
 <td>-</td>
-<td>2,00</td>
+<td>2,0</td>
 </tr>
 <tr>
 <td>39</td>
 <td>озеро Байсал</td>
-<td>4,20</td>
-<td>4,00</td>
+<td>4,2</td>
+<td>4,0</td>
 <td>-</td>
 <td>-</td>
 <td></td>
 </tr>
 <tr>
 <td>40</td>
-<td>
-озеро Жалтырь
-(Кызылжарский район)
-</td>
-<td>6,50</td>
-<td>2,00</td>
+<td>озеро Жалтырь (Кызылжарский район)</td>
+<td>6,5</td>
+<td>2,0</td>
 <td>-</td>
 <td>1,50</td>
 <td>3,00</td>
@@ -7806,7 +7979,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>41</td>
 <td>озеро Крутое</td>
-<td>3,00</td>
+<td>3,0</td>
 <td>1,20</td>
 <td>-</td>
 <td>-</td>
@@ -7815,8 +7988,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>42</td>
 <td>озеро Лебеденок</td>
-<td>5,70</td>
-<td>5,70</td>
+<td>5,7</td>
+<td>5,7</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7824,143 +7997,143 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>43</td>
 <td>озеро Лебяжье</td>
-<td>12,00</td>
-<td>5,00</td>
+<td>12,0</td>
+<td>5,0</td>
 <td>-</td>
 <td>-</td>
-<td>1,00</td>
+<td>1,0</td>
 </tr>
 <tr>
 <td>44</td>
 <td>озеро Лебяжье (Налобинское)</td>
-<td>7,00</td>
-<td>3,00</td>
+<td>7,0</td>
+<td>3,0</td>
 <td>-</td>
 <td>-</td>
-<td>4,00</td>
+<td>4,0</td>
 </tr>
 <tr>
 <td>45</td>
 <td>озеро Метлишино</td>
-<td>3,00</td>
-<td>3,00</td>
+<td>3,0</td>
+<td>3,0</td>
 <td>-</td>
 <td>-</td>
-<td></td>
+<td>-</td>
 </tr>
 <tr>
 <td>46</td>
 <td>озеро Никульское</td>
-<td>3,00</td>
-<td>3,00</td>
+<td>3,0</td>
+<td>3,0</td>
 <td>-</td>
 <td>-</td>
-<td></td>
+<td>-</td>
 </tr>
 <tr>
 <td>47</td>
 <td>озеро Новое</td>
-<td>3,00</td>
-<td>3,00</td>
+<td>3,0</td>
+<td>3,0</td>
 <td>-</td>
 <td>-</td>
-<td></td>
+<td>-</td>
 </tr>
 <tr>
 <td>48</td>
 <td>озеро Плоское</td>
-<td>4,00</td>
-<td>3,00</td>
+<td>4,0</td>
+<td>3,0</td>
 <td>-</td>
 <td>-</td>
-<td></td>
+<td>-</td>
 </tr>
 <tr>
 <td>49</td>
 <td>озеро Плоское (Домашнее)</td>
-<td>6,00</td>
-<td>6,00</td>
+<td>6,0</td>
+<td>6,0</td>
 <td>-</td>
 <td>-</td>
-<td></td>
+<td>-</td>
 </tr>
 <tr>
 <td>50</td>
 <td>озеро Полковниково</td>
-<td>5,00</td>
-<td>4,00</td>
+<td>5,0</td>
+<td>4,0</td>
 <td>-</td>
 <td>-</td>
-<td>1,00</td>
+<td>1,0</td>
 </tr>
 <tr>
 <td>51</td>
 <td>озеро Сивково</td>
-<td>10,00</td>
-<td>5,00</td>
+<td>10,0</td>
+<td>5,0</td>
 <td>-</td>
 <td>-</td>
-<td>5,00</td>
+<td>5,0</td>
 </tr>
 <tr>
 <td>52</td>
 <td>озеро Стерхово</td>
-<td>4,30</td>
-<td>3,30</td>
+<td>4,3</td>
+<td>3,3</td>
 <td>-</td>
-<td>1,00</td>
+<td>1,0</td>
 <td></td>
 </tr>
 <tr>
 <td>53</td>
 <td>озеро Соленое (Пресновка)</td>
-<td>6,50</td>
-<td>1,00</td>
+<td>6,5</td>
+<td>1,0</td>
 <td>-</td>
 <td></td>
-<td>5,50</td>
+<td>5,5</td>
 </tr>
 <tr>
 <td>54</td>
 <td>озеро Бескамышное</td>
-<td>4,50</td>
-<td>1,50</td>
+<td>4,5</td>
+<td>1,5</td>
 <td>-</td>
-<td>0,50</td>
+<td>0,5</td>
 <td></td>
 </tr>
 <tr>
 <td>55</td>
 <td>озеро Горькое (село Дубровное)</td>
-<td>3,00</td>
-<td>2,00</td>
+<td>3,0</td>
+<td>2,0</td>
 <td>-</td>
 <td></td>
-<td>1,00</td>
+<td>1,0</td>
 </tr>
 <tr>
 <td>56</td>
 <td>озеро Жарколь</td>
-<td>5,00</td>
-<td>3,00</td>
+<td>5,0</td>
+<td>3,0</td>
 <td>-</td>
 <td></td>
-<td>2,00</td>
+<td>2,0</td>
 </tr>
 <tr>
 <td>57</td>
 <td>озеро Желтое (Становое)</td>
-<td>13,70</td>
+<td>13,7</td>
 <td>1,30</td>
 <td>-</td>
-<td>0,10</td>
-<td>0,10</td>
+<td>0,1</td>
+<td>0,1</td>
 </tr>
 <tr>
 <td>58</td>
 <td>озеро Рыбное (Воскресеновка)</td>
-<td>4,20</td>
-<td>4,00</td>
+<td>4,2</td>
+<td>4,0</td>
 <td>-</td>
 <td></td>
 <td>-</td>
@@ -7969,7 +8142,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>59</td>
 <td>озеро Шайтаново</td>
 <td>3,38</td>
-<td>1,50</td>
+<td>1,5</td>
 <td>-</td>
 <td>0,75</td>
 <td>-</td>
@@ -7977,8 +8150,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>60</td>
 <td>озеро Биесоган</td>
-<td>6,20</td>
-<td>6,20</td>
+<td>6,2</td>
+<td>6,2</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7986,8 +8159,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>61</td>
 <td>озеро Калмакколь</td>
-<td>10,00</td>
-<td>10,00</td>
+<td>10,0</td>
+<td>10,0</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7995,17 +8168,17 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>62</td>
 <td>озеро Улыколь</td>
-<td>35,00</td>
-<td>12,00</td>
+<td>35,0</td>
+<td>12,0</td>
 <td>-</td>
-<td>4,00</td>
+<td>4,0</td>
 <td>-</td>
 </tr>
 <tr>
 <td>63</td>
 <td>озеро Карасор</td>
-<td>29,00</td>
-<td>19,00</td>
+<td>29,0</td>
+<td>19,0</td>
 <td>-</td>
 <td></td>
 <td>-</td>
@@ -8013,17 +8186,17 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>64</td>
 <td>озеро Кумдыколь (Тайыншинский район)</td>
-<td>82,00</td>
-<td>10,00</td>
+<td>82,0</td>
+<td>10,0</td>
 <td>-</td>
-<td>2,00</td>
-<td>50,00</td>
+<td>2,0</td>
+<td>50,0</td>
 </tr>
 <tr>
 <td>65</td>
 <td>озеро Тайынша</td>
-<td>4,00</td>
-<td>4,00</td>
+<td>4,0</td>
+<td>4,0</td>
 <td>-</td>
 <td></td>
 <td></td>
@@ -8031,20 +8204,17 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>66</td>
 <td>озеро Аксуат</td>
-<td>3,00</td>
-<td>3,00</td>
+<td>3,0</td>
+<td>3,0</td>
 <td>-</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>67</td>
-<td>
-озеро Кумдыколь
-(Тимирязевский район)
-</td>
-<td>8,00</td>
-<td>5,00</td>
+<td>озеро Кумдыколь (Тимирязевский район)</td>
+<td>8,0</td>
+<td>5,0</td>
 <td>-</td>
 <td></td>
 <td>3,00</td>
@@ -8052,8 +8222,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>68</td>
 <td>озеро Косколь Малый (район Шал акына)</td>
-<td>3,50</td>
-<td>2,50</td>
+<td>3,5</td>
+<td>2,5</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8061,8 +8231,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>69</td>
 <td>Пойма реки Ишим</td>
-<td>43,20</td>
-<td>22,30</td>
+<td>43,2</td>
+<td>22,3</td>
 <td>4,62</td>
 <td></td>
 <td></td>
@@ -8070,17 +8240,17 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>70</td>
 <td>Сергеевское водохранилище</td>
-<td>3,00</td>
+<td>3,0</td>
 <td>-</td>
 <td>-</td>
-<td>1,50</td>
-<td>1,50</td>
+<td>1,5</td>
+<td>1,5</td>
 </tr>
 <tr>
 <td>71</td>
 <td>озеро Акбасты</td>
-<td>3,20</td>
-<td>3,20</td>
+<td>3,2</td>
+<td>3,2</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8088,37 +8258,64 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td>72</td>
 <td>озеро Солонцы</td>
-<td>3,20</td>
-<td>3,20</td>
+<td>3,2</td>
+<td>3,2</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
 <td>73</td>
+<td>озеро Ястребиновское</td>
+<td>5,0</td>
+<td>3,0</td>
+<td>-</td>
+<td>-</td>
+<td>2,0</td>
+</tr>
+<tr>
+<td>74</td>
+<td>озеро Горькое (Островское)</td>
+<td>5,0</td>
+<td>2,0</td>
+<td>-</td>
+<td>-</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td>75</td>
+<td>озеро Алуа Большая</td>
+<td>3,0</td>
+<td>2,80</td>
+<td>-</td>
+<td>-</td>
+<td>0,2</td>
+</tr>
+<tr>
+<td>76</td>
 <td>Прочие водоемы**</td>
-<td>205,90</td>
-<td>169,94</td>
+<td>218,17</td>
+<td>181,24</td>
 <td>0,16</td>
 <td>11,77</td>
 <td>12,60</td>
 </tr>
 <tr>
-<td>74</td>
+<td>77</td>
 <td>Итого*</td>
-<td>1064,83</td>
-<td>531,74</td>
+<td>1095,1</td>
+<td>555,84</td>
 <td>27,83</td>
 <td>34,99</td>
-<td>166,20</td>
+<td>171,4</td>
 </tr>
 </table>
 
-(Продолжение таблицы)
+Продолжение таблицы
 
 <table>
 <tr>
-<th colspan="7">Виды рыб и водных животных</th>
+<th colspan="8">Виды рыб и других водных животных</th>
 </tr>
 <tr>
 <th>щука</th>
@@ -8141,47 +8338,47 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <tr>
 <td></td>
 <td></td>
+<td>-</td>
+<td>-</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
+<td>-</td>
 <td></td>
+<td>-</td>
+<td>-</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
-<td></td>
-<td>10,00</td>
-<td></td>
-<td></td>
-<td>6,00</td>
-<td></td>
-<td></td>
+<td>-</td>
+<td>10,0</td>
+<td>-</td>
+<td>-</td>
+<td>6,0</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>-</td>
@@ -8202,8 +8399,8 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>0,40</td>
-<td>0,70</td>
+<td>0,4</td>
+<td>0,7</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8212,16 +8409,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 </tr>
 <tr>
 <td></td>
-<td>5,00</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td>5,0</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8238,65 +8426,74 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>2,50</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>2,5</td>
+<td>1,5</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,5</td>
+<td>8,0</td>
+<td>-</td>
+<td>-</td>
+<td>0,3</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,2</td>
+<td>1,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
 <td>1,50</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>0,50</td>
-<td>8,00</td>
-<td>-</td>
-<td>-</td>
-<td>0,30</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
+<td>4,5</td>
+<td>0,4</td>
 <td></td>
-<td></td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>0,20</td>
-<td>1,00</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>1,50</td>
-<td>4,50</td>
-<td>0,40</td>
-<td></td>
-<td>0,80</td>
+<td>0,8</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>7,50</td>
-<td>3,00</td>
-<td>3,80</td>
-<td>4,50</td>
-<td>2,30</td>
+<td>3,0</td>
+<td>3,8</td>
+<td>4,5</td>
+<td>2,3</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -8328,7 +8525,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>0,30</td>
+<td>0,3</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8355,6 +8552,132 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
+<td>0,2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>15,2</td>
+</tr>
+<tr>
+<td>0,2</td>
+<td>2,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>44,2</td>
+<td></td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>16,1</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>14,0</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>19,0</td>
+</tr>
+<tr>
+<td>-</td>
+<td>0,5</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
 <td>0,20</td>
 <td>-</td>
 <td>-</td>
@@ -8364,7 +8687,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td></td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8373,21 +8696,12 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>15,20</td>
-</tr>
-<tr>
-<td>0,20</td>
-<td>2,00</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td></td>
+<td>1,8</td>
 <td></td>
 </tr>
 <tr>
@@ -8396,57 +8710,21 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td></td>
-<td></td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
+<td>1,0</td>
+<td>5,0</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>44,20</td>
-<td></td>
 </tr>
 <tr>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-<td>16,10</td>
-</tr>
-<tr>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-<td>14,00</td>
-</tr>
-<tr>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-<td>19,00</td>
-</tr>
-<tr>
-<td>-</td>
-<td>0,50</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8481,7 +8759,16 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>0,20</td>
+<td>-</td>
+<td>1,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8504,21 +8791,12 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>1,80</td>
-<td></td>
-</tr>
-<tr>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
-<td>1,00</td>
-<td>5,00</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8535,11 +8813,11 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>1,0</td>
+<td>1,0</td>
 <td>-</td>
 <td>-</td>
-<td>-</td>
+<td>0,5</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -8562,92 +8840,11 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td></td>
-<td>1,00</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>1,00</td>
-<td>1,00</td>
-<td>-</td>
-<td>-</td>
-<td>0,50</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>3,00</td>
-<td>6,00</td>
-<td>0,10</td>
-<td>0,10</td>
-<td>3,00</td>
+<td>3,0</td>
+<td>6,0</td>
+<td>0,1</td>
+<td>0,1</td>
+<td>3,0</td>
 <td></td>
 <td></td>
 </tr>
@@ -8657,7 +8854,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>0,20</td>
 <td></td>
 <td></td>
-<td>м</td>
+<td>-</td>
 <td></td>
 </tr>
 <tr>
@@ -8689,25 +8886,16 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 </tr>
 <tr>
 <td>7,00</td>
-<td>6,00</td>
+<td>6,0</td>
 <td>-</td>
 <td>-</td>
-<td>6,00</td>
+<td>6,0</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>10,00</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>20,00</td>
+<td>10,0</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -8716,7 +8904,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 </tr>
 <tr>
 <td></td>
-<td>-</td>
+<td>20,0</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -8737,12 +8925,21 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1,00</td>
+<td>1,0</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -8787,22 +8984,49 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>-</td>
 </tr>
 <tr>
-<td>3,72</td>
-<td>4,69</td>
-<td>0,77</td>
-<td>0,15</td>
-<td>1,35</td>
-<td>0,75</td>
-<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
-<td>34,22</td>
-<td>98,90</td>
-<td>5,27</td>
-<td>4,75</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>3,92</td>
+<td>4,76</td>
+<td>0,87</td>
+<td>0,25</td>
+<td>1,35</td>
+<td>1,25</td>
+<td>-</td>
+</tr>
+<tr>
+<td>34,42</td>
+<td>98,97</td>
+<td>5,37</td>
+<td>4,85</td>
 <td>24,88</td>
-<td>71,75</td>
-<td>64,30</td>
+<td>72,25</td>
+<td>64,3</td>
 </tr>
 </table>
 
@@ -9102,7 +9326,7 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 </tr>
 </table>
 
-(Продолжение таблицы)
+Продолжение таблицы
 
 <table>
 <tr>
@@ -9405,20 +9629,13 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th rowspan="2">№</th>
 <th rowspan="2">Водоемы</th>
 <th rowspan="2">Всего, тонн</th>
-<th colspan="11">Виды рыб и других водных животных</th>
+<th colspan="4">Виды рыб и других водных животных</th>
 </tr>
 <tr>
 <th>лещ</th>
 <th>карп (сазан)</th>
 <th>судак</th>
 <th>жерех</th>
-<th>плотва</th>
-<th>змееголов</th>
-<th>карась</th>
-<th>белый толстолобик</th>
-<th>сом</th>
-<th>щука</th>
-<th>белый амур</th>
 </tr>
 <tr>
 <th>1</th>
@@ -9428,13 +9645,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <th>5</th>
 <th>6</th>
 <th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
 </tr>
 <tr>
 <td>1</td>
@@ -9444,13 +9654,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>1,3</td>
 <td>1,3</td>
 <td>0,7</td>
-<td>5,3</td>
-<td>3,2</td>
-<td>3,5</td>
-<td>1,0</td>
-<td>1,5</td>
-<td>-</td>
-<td>-</td>
 </tr>
 <tr>
 <td>2</td>
@@ -9460,13 +9663,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>0,6</td>
 <td>1,2</td>
 <td>1,0</td>
-<td>0,5</td>
-<td>-</td>
-<td>1,5</td>
-<td></td>
-<td>0,2</td>
-<td>0,8</td>
-<td>-</td>
 </tr>
 <tr>
 <td>3</td>
@@ -9476,13 +9672,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>1,8</td>
 <td>-</td>
 <td>-</td>
-<td>-</td>
-<td>-</td>
-<td>0,2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>0,8</td>
 </tr>
 <tr>
 <td>4</td>
@@ -9492,13 +9681,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>3,4</td>
 <td>-</td>
 <td>-</td>
-<td>-</td>
-<td>-</td>
-<td>1,4</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>4,2</td>
 </tr>
 <tr>
 <td>5</td>
@@ -9508,13 +9690,6 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>1,1</td>
 <td>0,3</td>
 <td>0,6</td>
-<td>0,2</td>
-<td></td>
-<td>0,9</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
 </tr>
 <tr>
 <td>6</td>
@@ -9524,6 +9699,79 @@ source: https://zan.gov.kz/client/#!/doc/143684/rus/05.06.2020
 <td>8,2</td>
 <td>2,8</td>
 <td>2,3</td>
+</tr>
+</table>
+
+Продолжение таблицы
+
+<table>
+<tr>
+<th colspan="7">Виды рыб и других водных животных</th>
+</tr>
+<tr>
+<th>плотва</th>
+<th>змееголов</th>
+<th>карась</th>
+<th>белый толстолобик</th>
+<th>сом</th>
+<th>щука</th>
+<th>белый амур</th>
+</tr>
+<tr>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+</tr>
+<tr>
+<td>5,3</td>
+<td>3,2</td>
+<td>3,5</td>
+<td>1,0</td>
+<td>1,5</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,5</td>
+<td>-</td>
+<td>1,5</td>
+<td></td>
+<td>0,2</td>
+<td>0,8</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>0,2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,8</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>1,4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>4,2</td>
+</tr>
+<tr>
+<td>0,2</td>
+<td></td>
+<td>0,9</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
 <td>6,0</td>
 <td>3,2</td>
 <td>7,5</td>
