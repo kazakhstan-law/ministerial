@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/107568/rus/05.05.2020
+source: https://zan.gov.kz/client/#!/doc/107568/rus/23.09.2020
 ---
 
 # Об утверждении Правил предоставления услуг почтовой связи
