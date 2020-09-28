@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/131472/rus/16.07.2020
+source: https://zan.gov.kz/client/#!/doc/131472/rus/28.09.2020
 ---
 
 # Об утверждении Правил проведения комплексного тестирования
