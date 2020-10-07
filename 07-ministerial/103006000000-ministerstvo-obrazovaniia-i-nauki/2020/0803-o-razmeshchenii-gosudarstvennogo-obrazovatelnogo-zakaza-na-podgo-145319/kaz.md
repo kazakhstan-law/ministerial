@@ -46,6 +46,7 @@
 <tr>
 <td colspan="2">
 <strong>2020 - 2021 оқу жылына білім беру бағдарламаларының топтары бойынша магистрлерді даярлауға арналған мемлекеттік білім беру тапсырысы орналастырылатын жоғары және (немесе) жоғары оқу орнынан кейінгі білім беру ұйымдарының тізбесі</strong>
+Ескерту. Тізбеге өзгерістер енгізілді - ҚР Білім және ғылым министрінің 07.10.2020 № 428 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.
 </td>
 </tr>
 <tr>
@@ -1429,6 +1430,38 @@
 <tr>
 <td>8</td>
 <td>«Оңтүстік Қазақстан мемлекеттік педагогикалық университеті» коммерциялық емес акционерлік қоғамы</td>
+</tr>
+<tr>
+<th></th>
+<th>M028 - Режиссура</th>
+</tr>
+<tr>
+<th>№</th>
+<th>Жоғары және (немесе) жоғары оқу орнынан кейінгі білім беру ұйымдарының атауы</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Қазақстан Республикасы Мәдениет және спорт министрлігінің «Т.Қ. Жүргенов атындағы Қазақ ұлттық өнер академиясы» республикалық мемлекеттік мекемесі</td>
+</tr>
+<tr>
+<td>2</td>
+<td>«Тұран» университеті» мекемесі</td>
+</tr>
+<tr>
+<th></th>
+<th>M032 - Аудиовизуалды өнер және медиа өндіріс</th>
+</tr>
+<tr>
+<th>№</th>
+<th>Жоғары және (немесе) жоғары оқу орнынан кейінгі білім беру ұйымдарының атауы</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Қазақстан Республикасы Мәдениет және спорт министрлігінің «Т.Қ. Жүргенов атындағы Қазақ ұлттық өнер академиясы» республикалық мемлекеттік мекемесі</td>
+</tr>
+<tr>
+<td>2</td>
+<td>«Тұран» университеті» мекемесі</td>
 </tr>
 <tr>
 <td></td>
@@ -5862,235 +5895,191 @@
 
 > *Қазақстан Республикасы*  
 > *Білім және ғылым министрінің*  
-> *2020 жылғы 3 тамызы*  
-> *№ 329 бұйрығына*  
-> *2-қосымша*
+> *2020 жылғы 3 тамыздағы*  
+> *№ 329 бұйрығына 2-қосымша*
 
 ## 2020 - 2021 оқу жылына білім беру бағдарламаларының топтары бойынша магистрлерді квота бойынша даярлауға арналған мемлекеттік білім беру тапсырысы орналастырылатын жоғары және (немесе) жоғары оқу орнынан кейінгі білім беру ұйымдарының тізбесі
 
+> *Ескерту. 2-қосымша жаңа редакцияда - ҚР Білім және ғылым министрінің 07.10.2020 № 428 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
+
 <table>
 <tr>
-<td></td>
+<td>№</td>
 <td>Білім беру бағдарламалары тобының атауы</td>
 <td>Барлығы</td>
+<td>«Ш. Есенов атындағы Каспий технологиялар және инжиниринг университеті» коммерциялық емес акционерлік қоғамы</td>
 <td>«Қ. Жұбанов атындағы Ақтөбе өңірлік университетi» коммерциялық емес акционерлік қоғамы</td>
-<td>«Халел Досмұхамедов атындағы Атырау университеті» коммерциялық емес акционерлік қоғамы</td>
 <td>«Сафи Өтебаев атындағы Атырау мұнай және газ университеті» коммерциялық емес акционерлік қоғамы</td>
-<td>«Д. Серiкбаев атындағы Шығыс Қазақстан техникалық университетi» коммерциялық емес акционерлік қоғамы</td>
+<td>«Халел Досмұхамедов атындағы Атырау университеті» коммерциялық емес акционерлік қоғамы</td>
 <td>«Сәрсен Аманжолов атындағы Шығыс Қазақстан университетi» коммерциялық емес акционерлік қоғамы</td>
-<td>«Семей қаласының Шәкәрім атындағы университеті» коммерциялық емес акционерлік қоғамы</td>
+<td>«Д. Серiкбаев атындағы Шығыс Қазақстан техникалық университетi» коммерциялық емес акционерлік қоғамы</td>
 <td>«І. Жансүгіров атындағы Жетісу университеті» коммерциялық емес акционерлік қоғамы</td>
-<td>«Жәңгір хан атындағы Батыс Қазақстан аграрлық-техникалық университеті» коммерциялық емес акционерлік қоғамы</td>
-<td>«Махамбет Өтемісов атындағы Батыс Қазақстан университеті» коммерциялық емес акционерлік қоғамы</td>
-<td>«Қарағанды индустриялық университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
 <tr>
 <td>1</td>
 <td>M001 - Педагогика және психология</td>
-<td>95</td>
-<td>2</td>
+<td>117</td>
+<td>3</td>
 <td>3</td>
 <td></td>
+<td>6</td>
+<td>4</td>
 <td></td>
-<td>3</td>
-<td>5</td>
-<td>3</td>
-<td></td>
-<td>5</td>
-<td></td>
+<td>10</td>
 </tr>
 <tr>
 <td>2</td>
 <td>M002 - Мектепке дейінгі оқыту және тәрбиелеу</td>
-<td>26</td>
+<td>17</td>
+<td>0</td>
 <td>2</td>
 <td></td>
-<td></td>
-<td></td>
+<td>0</td>
 <td>3</td>
-<td>4</td>
-<td>2</td>
 <td></td>
-<td></td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td>3</td>
 <td>M003 - Пәндік мамандандырылмаған педагогтерді даярлау</td>
-<td>40</td>
+<td>34</td>
+<td>0</td>
 <td>2</td>
+<td></td>
+<td>1</td>
 <td>3</td>
 <td></td>
-<td></td>
-<td>3</td>
-<td>4</td>
-<td>4</td>
-<td></td>
-<td>5</td>
-<td></td>
+<td>2</td>
 </tr>
 <tr>
 <td>4</td>
 <td>M010 - Математика педагогтерін даярлау</td>
 <td>64</td>
+<td>1</td>
 <td>4</td>
+<td></td>
 <td>3</td>
-<td></td>
-<td></td>
 <td>2</td>
-<td>4</td>
-<td>4</td>
 <td></td>
-<td>10</td>
-<td></td>
+<td>4</td>
 </tr>
 <tr>
 <td>5</td>
 <td>M011 - Физика педагогтерін даярлау (қазақ, орыс, ағылшын тілі)</td>
-<td>50</td>
+<td>44</td>
+<td>1</td>
 <td>4</td>
-<td>3</td>
 <td></td>
-<td></td>
+<td>0</td>
 <td>2</td>
-<td>2</td>
-<td>4</td>
 <td></td>
 <td>4</td>
-<td></td>
 </tr>
 <tr>
 <td>6</td>
 <td>M012 - Информатика педагогтерін даярлау (қазақ, орыс, ағылшын тілі)</td>
-<td>51</td>
-<td>2</td>
-<td>3</td>
-<td></td>
+<td>50</td>
 <td></td>
 <td>2</td>
+<td></td>
 <td>2</td>
 <td>2</td>
 <td></td>
-<td></td>
-<td></td>
+<td>2</td>
 </tr>
 <tr>
 <td>7</td>
 <td>M013 - Химия педагогтерін даярлау (қазақ, орыс, ағылшын тілі)</td>
-<td>39</td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td>2</td>
-<td>3</td>
-<td></td>
+<td>34</td>
 <td></td>
 <td>3</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>8</td>
 <td>M014 - Биология педагогтерін даярлау (қазақ, орыс, ағылшын тілі)</td>
 <td>33</td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
+<td>2</td>
 <td></td>
-<td>2</td>
-<td>2</td>
 <td>5</td>
-<td></td>
-<td>4</td>
-<td></td>
 </tr>
 <tr>
 <td>9</td>
 <td>M015 - География педагогтерін даярлау</td>
-<td>21</td>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
+<td>18</td>
 <td></td>
 <td>2</td>
 <td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>1</td>
 </tr>
 <tr>
 <td>10</td>
 <td>M016 - Тарих педагогтерін даярлау</td>
-<td>28</td>
-<td>2</td>
-<td>3</td>
-<td></td>
-<td></td>
-<td>2</td>
-<td>3</td>
-<td>5</td>
+<td>20</td>
 <td></td>
 <td>2</td>
 <td></td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td>11</td>
 <td>M017 - Қазақ тілі мен әдебиетінің педагогтерін даярлау</td>
-<td>36</td>
-<td>2</td>
-<td>2</td>
-<td></td>
-<td></td>
-<td>2</td>
-<td>2</td>
-<td>5</td>
+<td>34</td>
 <td></td>
 <td>2</td>
 <td></td>
+<td>1</td>
+<td>3</td>
+<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td>12</td>
 <td>M018 - Орыс тілі мен әдебиетінің педагогтерін даярлау</td>
-<td>28</td>
-<td>2</td>
-<td>2</td>
-<td></td>
+<td>23</td>
 <td></td>
 <td>2</td>
 <td></td>
 <td>2</td>
+<td>4</td>
 <td></td>
-<td>2</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td>13</td>
 <td>M019 - Шет тілдері педагогтерін даярлау</td>
-<td>54</td>
+<td>58</td>
+<td></td>
 <td>2</td>
+<td></td>
 <td>3</td>
+<td>6</td>
 <td></td>
-<td></td>
-<td>5</td>
-<td>2</td>
-<td></td>
-<td></td>
-<td>4</td>
 <td></td>
 </tr>
 <tr>
 <td>14</td>
 <td>M020 - Әлеуметік педагогика және өзін-өзі тану мамандарын даярлау</td>
-<td>5</td>
+<td>4</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1</td>
 <td></td>
 <td></td>
 </tr>
@@ -6098,54 +6087,42 @@
 <td>15</td>
 <td>M021 - Арнайы педагогика</td>
 <td>15</td>
-<td>2</td>
 <td></td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>3</td>
 <td></td>
 <td>5</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>16</td>
 <td>M053 - Тарих және археология</td>
-<td>43</td>
-<td>2</td>
-<td>2</td>
+<td>9</td>
 <td></td>
+<td>0</td>
 <td></td>
-<td>2</td>
-<td>2</td>
+<td>1</td>
+<td>0</td>
 <td></td>
-<td></td>
-<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>17</td>
 <td>M060 - Филология</td>
-<td>40</td>
-<td>2</td>
-<td>2</td>
+<td>50</td>
 <td></td>
+<td>3</td>
 <td></td>
-<td>2</td>
-<td>2</td>
+<td>0</td>
+<td>3</td>
 <td></td>
-<td></td>
-<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>18</td>
 <td>M063 - Саясаттану және конфликтология</td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
+<td>3</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6157,105 +6134,84 @@
 <tr>
 <td>19</td>
 <td>M066 - Психология</td>
-<td>28</td>
-<td>2</td>
-<td></td>
-<td></td>
+<td>22</td>
 <td></td>
 <td>2</td>
-<td>4</td>
 <td></td>
 <td></td>
 <td>2</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>20</td>
 <td>M080 - Биология</td>
-<td>40</td>
+<td>35</td>
+<td></td>
+<td>2</td>
+<td></td>
 <td>2</td>
 <td>2</td>
 <td></td>
-<td></td>
-<td>2</td>
-<td>2</td>
-<td></td>
-<td></td>
-<td>2</td>
 <td></td>
 </tr>
 <tr>
 <td>21</td>
 <td>M082 - Биотехнология</td>
-<td>24</td>
+<td>18</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>2</td>
-<td></td>
-<td>2</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>22</td>
 <td>M087 - Қоршаған ортаны қорғау технологиясы</td>
-<td>36</td>
-<td>2</td>
-<td>1</td>
-<td></td>
-<td></td>
+<td>59</td>
 <td>1</td>
 <td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
 <td></td>
+<td>3</td>
+<td>5</td>
+<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td>23</td>
 <td>M089 – Химия</td>
-<td>35</td>
+<td>24</td>
+<td></td>
+<td></td>
 <td></td>
 <td>3</td>
-<td></td>
-<td></td>
 <td>2</td>
-<td>2</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>24</td>
 <td>M090 - Физика</td>
-<td>53</td>
-<td>2</td>
+<td>57</td>
+<td></td>
 <td>3</td>
 <td></td>
-<td>10</td>
-<td>2</td>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
+<td>3</td>
+<td>3</td>
+<td>11</td>
 <td></td>
 </tr>
 <tr>
 <td>25</td>
 <td>M092 - Математика және статистика</td>
-<td>40</td>
-<td>2</td>
+<td>27</td>
+<td></td>
+<td>1</td>
+<td></td>
 <td>3</td>
-<td></td>
-<td>5</td>
-<td>2</td>
-<td>2</td>
-<td></td>
-<td></td>
+<td>1</td>
 <td>2</td>
 <td></td>
 </tr>
@@ -6263,136 +6219,109 @@
 <td>26</td>
 <td>M094 - Ақпараттық технологиялар</td>
 <td>168</td>
-<td>4</td>
+<td>3</td>
 <td>4</td>
 <td></td>
-<td>20</td>
 <td>4</td>
-<td>2</td>
-<td></td>
-<td>2</td>
-<td></td>
+<td>4</td>
+<td>23</td>
 <td></td>
 </tr>
 <tr>
 <td>27</td>
 <td>M097 - Химиялық инженерия және процестер</td>
-<td>127</td>
+<td>76</td>
+<td>3</td>
 <td>2</td>
-<td></td>
 <td>5</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>2</td>
-<td></td>
-<td>3</td>
 </tr>
 <tr>
 <td>28</td>
 <td>M098 - Жылу энергетикасы</td>
-<td>50</td>
-<td></td>
-<td></td>
-<td></td>
 <td>15</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>2</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
 <td>29</td>
 <td>M099 - Энергетика және электр техникасы</td>
-<td>78</td>
+<td>70</td>
+<td></td>
+<td></td>
+<td>4</td>
 <td></td>
 <td></td>
 <td>5</td>
-<td>10</td>
 <td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td>2</td>
 </tr>
 <tr>
 <td>30</td>
 <td>M100 - Автоматтандыру және басқару</td>
-<td>57</td>
+<td>46</td>
 <td></td>
 <td></td>
 <td></td>
-<td>8</td>
-<td></td>
-<td>2</td>
 <td></td>
 <td></td>
+<td>5</td>
 <td></td>
-<td>3</td>
 </tr>
 <tr>
 <td>31</td>
 <td>M101 - Материалтану және жаңа материалдар технологиясы</td>
-<td>24</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>32</td>
+<td>M102 - Роботты техника және мехатроника</td>
+<td>11</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>4</td>
-</tr>
-<tr>
-<td>32</td>
-<td>M102 - Роботты техника және мехатроника</td>
-<td>21</td>
-<td></td>
-<td></td>
-<td></td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
 <td>33</td>
 <td>M103 - Механика және металл өңдеу</td>
-<td>125</td>
+<td>90</td>
+<td>4</td>
 <td></td>
-<td></td>
-<td></td>
-<td>20</td>
-<td></td>
-<td>3</td>
 <td></td>
 <td></td>
 <td></td>
 <td>10</td>
+<td></td>
 </tr>
 <tr>
 <td>34</td>
 <td>M104 - Көлік, көліктік техника және технология</td>
-<td>56</td>
+<td>35</td>
 <td></td>
 <td></td>
 <td></td>
-<td>5</td>
 <td></td>
 <td></td>
+<td>3</td>
 <td></td>
-<td>1</td>
-<td></td>
-<td>2</td>
 </tr>
 <tr>
 <td>35</td>
@@ -6405,18 +6334,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>36</td>
 <td>M110 - Теңіз техникасы және технологиясы</td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6427,30 +6350,24 @@
 <tr>
 <td>37</td>
 <td>M111 - Тамақ өнімдерін өндіру</td>
-<td>34</td>
+<td>26</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>4</td>
-<td></td>
-<td>1</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>38</td>
 <td>M115 - Мұнай инженериясы</td>
-<td>22</td>
-<td>2</td>
-<td></td>
-<td>5</td>
-<td></td>
-<td></td>
+<td>48</td>
+<td>11</td>
+<td>7</td>
+<td>9</td>
 <td></td>
 <td></td>
-<td>2</td>
 <td></td>
 <td></td>
 </tr>
@@ -6458,31 +6375,25 @@
 <td>39</td>
 <td>M116 - Тау-кен инженериясы</td>
 <td>42</td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
+<td></td>
 <td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
 <td>40</td>
 <td>M117 - Металлургиялық инженерия</td>
-<td>50</td>
+<td>31</td>
+<td></td>
 <td>2</td>
+<td></td>
 <td></td>
 <td></td>
 <td>8</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>2</td>
 </tr>
 <tr>
 <td>41</td>
@@ -6495,113 +6406,89 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>42</td>
 <td>M121 - Геология</td>
-<td>36</td>
+<td>17</td>
+<td>3</td>
+<td></td>
+<td>2</td>
 <td></td>
 <td></td>
-<td>5</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>4</td>
 <td></td>
 </tr>
 <tr>
 <td>43</td>
 <td>M123 - Геодезия</td>
-<td>28</td>
+<td>15</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
 <td>44</td>
 <td>M124 - Құрылыс</td>
-<td>60</td>
+<td>91</td>
 <td></td>
 <td></td>
 <td></td>
-<td>10</td>
 <td></td>
 <td></td>
+<td>14</td>
 <td></td>
-<td>1</td>
-<td></td>
-<td>2</td>
 </tr>
 <tr>
 <td>45</td>
 <td>M125 - Құрылыс материалдарының, бұйымдарының және құрастырылымдарының өндірісі</td>
-<td>37</td>
+<td>25</td>
 <td></td>
 <td></td>
-<td></td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>46</td>
-<td>M126 - Көлік құрылысы</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>47</td>
-<td>M128 - Жерге орналастыру</td>
-<td>19</td>
 <td></td>
 <td></td>
 <td></td>
 <td>4</td>
 <td></td>
+</tr>
+<tr>
+<td>46</td>
+<td>M126 - Көлік құрылысы</td>
+<td>4</td>
 <td></td>
 <td></td>
-<td>2</td>
 <td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>47</td>
+<td>M128 - Жерге орналастыру</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>6</td>
 <td></td>
 </tr>
 <tr>
 <td>48</td>
 <td>M130 - Стандарттау, сертификаттау және метрология (сала бойынша)</td>
-<td>33</td>
+<td>26</td>
 <td></td>
 <td></td>
 <td></td>
-<td>5</td>
-<td></td>
-<td>1</td>
 <td></td>
 <td></td>
-<td></td>
+<td>3</td>
 <td></td>
 </tr>
 <tr>
@@ -6613,9 +6500,6 @@
 <td></td>
 <td></td>
 <td></td>
-<td>2</td>
-<td></td>
-<td>4</td>
 <td></td>
 <td></td>
 </tr>
@@ -6628,9 +6512,6 @@
 <td></td>
 <td></td>
 <td></td>
-<td>2</td>
-<td></td>
-<td>3</td>
 <td></td>
 <td></td>
 </tr>
@@ -6645,9 +6526,6 @@
 <td></td>
 <td></td>
 <td></td>
-<td>2</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>52</td>
@@ -6658,40 +6536,31 @@
 <td></td>
 <td></td>
 <td></td>
-<td>2</td>
-<td></td>
-<td>5</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>53</td>
 <td>M150 - Санитарлық-профилактикалық іс-шаралар</td>
-<td>42</td>
+<td>21</td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td>1</td>
 <td>3</td>
-<td>2</td>
 <td></td>
-<td></td>
-<td>2</td>
-<td></td>
-<td>2</td>
 </tr>
 <tr>
 <td>54</td>
 <td>M151 - Көлік қызметтері</td>
-<td>13</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
-<td>3</td>
 <td></td>
 <td></td>
-<td></td>
-<td>2</td>
-<td></td>
+<td>1</td>
 <td></td>
 </tr>
 </table>
@@ -6700,254 +6569,235 @@
 
 <table>
 <tr>
-<td>«Қарағанды техникалық университетi» коммерциялық емес акционерлік қоғамы</td>
+<td>«Махамбет Өтемісов атындағы Батыс Қазақстан университеті» коммерциялық емес акционерлік қоғамы</td>
 <td>«Академик Е.А. Бөкетов атындағы Қарағанды университетi» коммерциялық емес акционерлік қоғамы</td>
-<td>«Ш. Есенов атындағы Каспий технологиялар және инжиниринг университеті» коммерциялық емес акционерлік қоғамы</td>
-<td>«Ш. Уәлиханов атындағы Көкшетау университетi» коммерциялық емес акционерлік қоғамы</td>
-<td>«Өмірзақ Сұлтанғазин атындағы Қостанай педагогикалық университеті» коммерциялық емес акционерлік қоғамы</td>
-<td>«А. Байтұрсынов атындағы Қостанай өңірлік университеті» коммерциялық емес акционерлік қоғамы</td>
+<td>«Қарағанды техникалық университетi» коммерциялық емес акционерлік қоғамы</td>
+<td>«Қарағанды индустриялық университеті» коммерциялық емес акционерлік қоғамы</td>
 <td>«Қорқыт Ата атындағы Қызылорда университеті» коммерциялық емес акционерлік қоғамы</td>
-<td>«Павлодар педагогикалық университеті» коммерциялық емес акционерлік қоғамы</td>
+<td>«Ш. Уәлиханов атындағы Көкшетау университетi» коммерциялық емес акционерлік қоғамы</td>
+<td>«А. Байтұрсынов атындағы Қостанай өңірлік университеті» коммерциялық емес акционерлік қоғамы</td>
+<td>«Торайғыров университеті» коммерциялық емес акционерлік қоғамы</td>
+<td>«Манаш Қозыбаев атындағы Солтүстік Қазақстан университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
 <tr>
-<td></td>
-<td>5</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>6</td>
-<td>5</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td>5</td>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td>3</td>
-<td></td>
-<td>5</td>
-<td></td>
-<td></td>
-<td>5</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
 <td>7</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
+<td>11</td>
 <td></td>
-<td>5</td>
-<td>2</td>
+<td></td>
+<td>8</td>
+<td>10</td>
+<td>6</td>
+<td>20</td>
+<td>7</td>
 </tr>
 <tr>
-<td></td>
+<td>0</td>
 <td>5</td>
-<td>1</td>
 <td></td>
-<td>1</td>
 <td></td>
-<td>5</td>
-<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>5</td>
-<td></td>
 <td>3</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td>5</td>
 <td>2</td>
 <td></td>
-<td>3</td>
-<td>1</td>
-</tr>
-<tr>
 <td></td>
 <td>5</td>
-<td></td>
-<td>3</td>
-<td>1</td>
-<td></td>
-<td>5</td>
-<td>1</td>
 </tr>
 <tr>
-<td></td>
-<td>5</td>
-<td></td>
-<td>3</td>
-<td>1</td>
-<td></td>
-<td>5</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td>2</td>
-<td></td>
-<td>2</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
-<td>1</td>
+<td>5</td>
+<td></td>
+<td></td>
 <td></td>
 <td>3</td>
-<td>1</td>
 </tr>
 <tr>
 <td></td>
 <td>5</td>
 <td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td>5</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td>5</td>
 <td></td>
 <td>3</td>
-<td></td>
-<td></td>
-<td>5</td>
-<td>1</td>
-</tr>
-<tr>
+<td>3</td>
 <td></td>
 <td>10</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>2</td>
+<td></td>
+<td></td>
 <td></td>
 <td>2</td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>7</td>
+<td>4</td>
+<td></td>
 <td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>2</td>
+<td></td>
+<td>17</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
 <td>1</td>
-</tr>
-<tr>
-<td></td>
 <td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>2</td>
-<td></td>
-<td>5</td>
-<td></td>
-<td>6</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>3</td>
-<td></td>
 <td>3</td>
 <td>2</td>
-<td></td>
 </tr>
 <tr>
+<td>3</td>
 <td></td>
+<td></td>
+<td></td>
+<td>2</td>
 <td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>4</td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>3</td>
 <td></td>
-<td>3</td>
-<td></td>
+</tr>
+<tr>
 <td>1</td>
-</tr>
-<tr>
-<td></td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>3</td>
-<td>2</td>
-<td>3</td>
-<td></td>
-<td>3</td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>4</td>
-<td></td>
-<td>3</td>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>4</td>
-<td></td>
-<td>3</td>
-<td></td>
 <td>7</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>6</td>
+<td></td>
+</tr>
+<tr>
+<td>0</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>3</td>
+<td>5</td>
+<td>2</td>
 </tr>
 <tr>
 <td></td>
@@ -6955,64 +6805,115 @@
 <td></td>
 <td></td>
 <td></td>
-<td>2</td>
 <td></td>
+<td></td>
+<td>5</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>11</td>
+<td>2</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3</td>
+<td>3</td>
+<td>13</td>
+<td>5</td>
+</tr>
+<tr>
+<td>0</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>6</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td>25</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>5</td>
+<td>5</td>
+<td>14</td>
+<td>20</td>
+<td>10</td>
+</tr>
+<tr>
+<td></td>
+<td>7</td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td></td>
 <td></td>
 <td>17</td>
 <td>5</td>
+</tr>
+<tr>
+<td></td>
+<td>4</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>4</td>
 <td></td>
 </tr>
 <tr>
-<td>35</td>
-<td>15</td>
-<td>3</td>
-<td></td>
-<td></td>
 <td></td>
 <td>2</td>
+<td>16</td>
+<td>1</td>
 <td></td>
-</tr>
-<tr>
-<td>20</td>
-<td>5</td>
+<td></td>
+<td>9</td>
+<td>14</td>
 <td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>25</td>
-<td>5</td>
 <td></td>
 <td></td>
-<td></td>
-<td>10</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>25</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>15</td>
+<td>2</td>
 <td></td>
 <td></td>
+<td></td>
+<td>9</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>7</td>
+<td>0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7020,76 +6921,85 @@
 <td></td>
 </tr>
 <tr>
-<td>10</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>40</td>
 <td></td>
 <td>6</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>29</td>
+<td>5</td>
+<td>2</td>
+<td></td>
+<td>3</td>
+<td>15</td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
 <td>10</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>7</td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>2</td>
 <td></td>
 </tr>
 <tr>
-<td>20</td>
-<td>5</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>5</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>9</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>30</td>
 <td></td>
 <td></td>
@@ -7097,91 +7007,22 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td>30</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20</td>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>5</td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>11</td>
 <td>2</td>
 <td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>5</td>
 <td></td>
 </tr>
 <tr>
-<td>10</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td></td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7191,23 +7032,102 @@
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>20</td>
+<td>3</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td>12</td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td>6</td>
 <td></td>
-<td>17</td>
-<td>2</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td>5</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>6</td>
+<td>17</td>
+<td>10</td>
+<td>4</td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>11</td>
-<td></td>
-<td></td>
+<td>5</td>
+<td>2</td>
 </tr>
 <tr>
 <td></td>
@@ -7218,8 +7138,10 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7230,18 +7152,20 @@
 <td></td>
 </tr>
 <tr>
-<td>15</td>
 <td></td>
 <td></td>
-<td>3</td>
-<td></td>
-<td></td>
+<td>4</td>
+<td>0</td>
 <td>2</td>
+<td>1</td>
+<td></td>
+<td>5</td>
 <td></td>
 </tr>
 <tr>
-<td>5</td>
 <td></td>
+<td></td>
+<td>3</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7255,284 +7179,364 @@
 
 <table>
 <tr>
-<td>«Торайғыров университеті» коммерциялық емес акционерлік қоғамы</td>
-<td>«Манаш Қозыбаев атындағы Солтүстік Қазақстан университеті» коммерциялық емес акционерлік қоғамы</td>
-<td>«Тараз педагогикалық университеті» коммерциялық емес акционерлік қоғамы</td>
+<td>«Семей қаласының Шәкәрім атындағы университеті» коммерциялық емес акционерлік қоғамы</td>
 <td>«М.Х. Дулати атындағы Тараз өңірлік университеті» коммерциялық емес акционерлік қоғамы</td>
-<td>«Оңтүстік Қазақстан мемлекеттік педагогикалық университеті» коммерциялық емес акционерлік қоғамы</td>
 <td>«М. Әуезов атындағы Оңтүстiк Қазақстан университетi» коммерциялық емес акционерлік қоғамы</td>
+<td>«Оңтүстік Қазақстан мемлекеттік педагогикалық университеті» коммерциялық емес акционерлік қоғамы</td>
+<td>«Жәңгір хан атындағы Батыс Қазақстан аграрлық-техникалық университеті» коммерциялық емес акционерлік қоғамы</td>
+<td>«Тараз педагогикалық университеті» коммерциялық емес акционерлік қоғамы</td>
+<td>«Өмірзақ Сұлтанғазин атындағы Қостанай педагогикалық университеті» коммерциялық емес акционерлік қоғамы</td>
+<td>«Павлодар педагогикалық университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
 <tr>
-<td>35</td>
-<td>5</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>9</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td>5</td>
-<td>1</td>
-<td></td>
-<td>2</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td>5</td>
-<td>1</td>
-<td></td>
-<td>2</td>
-<td>10</td>
-</tr>
-<tr>
-<td>12</td>
-<td>4</td>
-<td>1</td>
-<td></td>
-<td>1</td>
-<td>8</td>
-</tr>
-<tr>
-<td></td>
 <td>3</td>
 <td></td>
+<td>14</td>
+<td>0</td>
 <td></td>
 <td>1</td>
-<td>9</td>
+<td>2</td>
+<td>2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>1</td>
-<td></td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td></td>
-<td>1</td>
-<td></td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td>2</td>
 <td>1</td>
 <td></td>
+<td>0</td>
+<td>0</td>
 <td>1</td>
-<td></td>
 </tr>
 <tr>
-<td>15</td>
-<td>3</td>
-<td>1</td>
-<td></td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>2</td>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
 <td>4</td>
 <td></td>
-<td>3</td>
+<td>5</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td>10</td>
+<td>2</td>
+<td></td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td>10</td>
+<td>1</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
 <td></td>
 <td>8</td>
-</tr>
-<tr>
-<td>5</td>
 <td>2</td>
 <td></td>
-<td>10</td>
-<td></td>
-<td>5</td>
-</tr>
-<tr>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>5</td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td>4</td>
-<td></td>
-<td>5</td>
-</tr>
-<tr>
-<td>5</td>
 <td>2</td>
-<td></td>
 <td>2</td>
 <td>1</td>
-<td>9</td>
 </tr>
 <tr>
-<td>5</td>
 <td>2</td>
-<td></td>
-<td></td>
 <td></td>
 <td>9</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>2</td>
-<td>2</td>
 <td></td>
-<td>2</td>
 <td></td>
-<td>5</td>
+<td>1</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td>10</td>
-<td></td>
-<td></td>
-<td>5</td>
+<td>2</td>
 <td></td>
 <td>3</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
 </tr>
 <tr>
-<td>10</td>
-<td>5</td>
+<td>3</td>
 <td></td>
 <td></td>
+<td>1</td>
 <td></td>
-<td>5</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td>10</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>3</td>
 <td></td>
-<td>5</td>
+<td>2</td>
+<td></td>
+<td>1</td>
 </tr>
 <tr>
-<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>5</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>2</td>
+<td>8</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>0</td>
+<td></td>
+<td>5</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>2</td>
 <td>10</td>
 <td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>5</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1</td>
+<td>3</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
 <td>17</td>
-<td></td>
 <td>30</td>
-</tr>
-<tr>
-<td>20</td>
-<td>5</td>
 <td></td>
-<td>5</td>
-<td></td>
-<td>30</td>
-</tr>
-<tr>
-<td>5</td>
-<td></td>
-<td></td>
+<td>2</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>4</td>
-<td>3</td>
+<td></td>
+<td>5</td>
+<td>23</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td>7</td>
-<td></td>
 <td>6</td>
-</tr>
-<tr>
-<td>5</td>
-<td></td>
-<td></td>
-<td>7</td>
-<td></td>
-<td>7</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td>3</td>
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>7</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td>15</td>
-<td>5</td>
 <td></td>
-<td>5</td>
+<td>3</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>5</td>
 <td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>10</td>
-<td>5</td>
 <td></td>
 <td>3</td>
-<td></td>
 <td>5</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -7541,131 +7545,145 @@
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>10</td>
-<td></td>
-<td></td>
 <td>4</td>
-<td></td>
+<td>4</td>
 <td>15</td>
-</tr>
-<tr>
-<td>5</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
+<td>1</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td></td>
-<td></td>
-<td>5</td>
 <td></td>
 <td>7</td>
+<td></td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
 <td>5</td>
+<td>21</td>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>4</td>
+<td>5</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1</td>
+<td>5</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
 <td></td>
 <td></td>
 <td>4</td>
 <td></td>
-<td>5</td>
-</tr>
-<tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>2</td>
-<td></td>
-<td>5</td>
-<td></td>
-<td>5</td>
-</tr>
-<tr>
-<td>10</td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
 <td>2</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
+<td>3</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7675,22 +7693,38 @@
 <td></td>
 <td></td>
 <td></td>
+<td>2</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td></td>
-<td>5</td>
 <td></td>
-<td>3</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td>0</td>
 <td>3</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -8189,17 +8223,18 @@
 
 > *Қазақстан Республикасы*  
 > *Білім және ғылым министрінің*  
-> *2020 жылғы 3 тамызы*  
-> *№ 329 бұйрығына*  
-> *4-қосымша*
+> *2020 жылғы 3 тамыздағы*  
+> *№ 329 бұйрығына 4-қосымша*
 
-## 2020 - 2021 оқу жылына жоғары және (немесе) жоғары оқу орнынан кейінгі білім беру ұйымдарында PhD докторларын даярлауға арналған мемлекеттік білім беру тапсырысы
+## Жоғары және (немесе) жоғары оқу орнынан кейінгі білім беру ұйымдарында PhD докторларын даярлауға 2020-2021 оқу жылына арналған мемлекеттік білім беру тапсырысы
+
+> *Ескерту. 4-қосымша жаңа редакцияда - ҚР Білім және ғылым министрінің 07.10.2020 № 428 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
 <th>№</th>
 <th>ЖЖОКБҰ атауы</th>
-<th>Білім беру бағдарламасы тобының нөмірі мен атауы</th>
+<th>Білім беру бағдарламасы тобының коды мен атауы</th>
 <th>Орын саны</th>
 <th>Оның ішінде мақсатты орын саны</th>
 <th>Ұйымның атауы</th>
@@ -8222,7 +8257,7 @@
 <td rowspan="7">2</td>
 <td rowspan="7">«Қ. Жұбанов атындағы Ақтөбе өңірлік университетi» коммерциялық емес акционерлік қоғамы</td>
 <td>D003 - Пәнсіз мамандандырылған педагогтерді даярлау</td>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 </tr>
@@ -8234,7 +8269,7 @@
 </tr>
 <tr>
 <td>D060 - Филология</td>
-<td>3</td>
+<td>6</td>
 <td>1</td>
 <td>«Махамбет Өтемісов атындағы Батыс Қазақстан университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -8246,7 +8281,7 @@
 </tr>
 <tr>
 <td>D090 - Физика</td>
-<td>2</td>
+<td>1</td>
 <td></td>
 <td></td>
 </tr>
@@ -8258,13 +8293,13 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>15</th>
+<th>18</th>
 <th>1</th>
 <th></th>
 </tr>
 <tr>
-<td rowspan="4">3</td>
-<td rowspan="4">«Алматы технологиялық университеті» акционерлік қоғамы</td>
+<td rowspan="5">3</td>
+<td rowspan="5">«Алматы технологиялық университеті» акционерлік қоғамы</td>
 <td>D082 - Биотехнология</td>
 <td>10</td>
 <td></td>
@@ -8272,19 +8307,25 @@
 </tr>
 <tr>
 <td>D097 - Химиялық инженерия және процесстер</td>
-<td>7</td>
+<td>4</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>D103 - Механика және металл өңдеу</td>
+<td>D111 - Тамақ өнімдерін өндіру</td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>D114 - Тоқыма: киім, аяқ-киім және былғары бұйымдар</td>
 <td>2</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>19</th>
+<th>17</th>
 <th></th>
 <th></th>
 </tr>
@@ -8304,9 +8345,9 @@
 </tr>
 <tr>
 <td>D099 - Энергетика және электр техникасы</td>
-<td>6</td>
-<td>1</td>
-<td>«Қожа Ахмет Ясауи атындағы Халықаралық қазақ-түрік университеті» мекемесі</td>
+<td>5</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>D100 - Автоматтандыру және басқару</td>
@@ -8328,15 +8369,15 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>28</th>
-<th>2</th>
+<th>27</th>
+<th>1</th>
 <th></th>
 </tr>
 <tr>
 <td rowspan="4">5</td>
 <td rowspan="4">«Алматы Менеджмент Университеті» білім беру мекемесі</td>
 <td>D072 - Менеджмент және басқару</td>
-<td>2</td>
+<td>4</td>
 <td></td>
 <td></td>
 </tr>
@@ -8354,7 +8395,7 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>5</th>
+<th>7</th>
 <th></th>
 <th></th>
 </tr>
@@ -8409,8 +8450,8 @@
 <th></th>
 </tr>
 <tr>
-<td rowspan="10">7</td>
-<td rowspan="10">«Сәрсен Аманжолов атындағы Шығыс Қазақстан университетi» коммерциялық емес акционерлік қоғамы</td>
+<td rowspan="11">7</td>
+<td rowspan="11">«Сәрсен Аманжолов атындағы Шығыс Қазақстан университетi» коммерциялық емес акционерлік қоғамы</td>
 <td>D011 - Физика педагогтерін даярлау</td>
 <td>1</td>
 <td></td>
@@ -8418,7 +8459,7 @@
 </tr>
 <tr>
 <td>D012 - Информатика педагогтерін даярлау</td>
-<td>1</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
@@ -8460,14 +8501,20 @@
 </tr>
 <tr>
 <td>D089 - Химия</td>
-<td>2</td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>D070 - Экономика</td>
+<td>1</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>13</th>
-<th></th>
+<th>14</th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
@@ -8492,7 +8539,7 @@
 </tr>
 <tr>
 <td>D103 - Механика және металл өңдеу</td>
-<td>4</td>
+<td>3</td>
 <td></td>
 <td></td>
 </tr>
@@ -8504,15 +8551,15 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>15</th>
+<th>14</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
-<td rowspan="69">9</td>
-<td rowspan="69">«Л.Н. Гумилев атындағы Еуразия ұлттық университеті» коммерциялық емес акционерлік қоғамы</td>
+<td rowspan="70">9</td>
+<td rowspan="70">«Л.Н. Гумилев атындағы Еуразия ұлттық университеті» коммерциялық емес акционерлік қоғамы</td>
 <td rowspan="3">D001 - Педагогика және психология</td>
-<td rowspan="3">6</td>
+<td rowspan="3">9</td>
 <td>1</td>
 <td>«М.Х. Дулати атындағы Тараз өңірлік университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -8532,7 +8579,7 @@
 </tr>
 <tr>
 <td rowspan="2">D017 - Қазақ тілі мен әдебиетінің педагогтерін даярлау</td>
-<td rowspan="2">17</td>
+<td rowspan="2">20</td>
 <td>1</td>
 <td>«Ш. Уәлиханов атындағы Көкшетау университетi» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -8543,16 +8590,16 @@
 <tr>
 <td rowspan="2">D019 - Шет тілдері педагогтерін даярлау</td>
 <td rowspan="2">5</td>
-<td>1</td>
-<td>«Академик Е.А. Бөкетов атындағы Қарағанды университетi» коммерциялық емес акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>1</td>
-<td>«Оңтүстік Қазақстан мемлекеттік педагогикалық университеті» коммерциялық емес акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td rowspan="2">D020 - Әлеуметтік педагогика және өзін-өзі тану бойынша кадрларын даярлау</td>
-<td rowspan="2">9</td>
+<td rowspan="2">12</td>
 <td>1</td>
 <td>«Манаш Қозыбаев атындағы Солтүстік Қазақстан университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -8562,13 +8609,13 @@
 </tr>
 <tr>
 <td>D050 - Философия және әдеп</td>
-<td>10</td>
+<td>11</td>
 <td>1</td>
 <td>«Торайғыров университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
 <tr>
 <td rowspan="2">D051 - Дінтану және теология</td>
-<td rowspan="2">3</td>
+<td rowspan="2">4</td>
 <td>1</td>
 <td>«Академик Е.А. Бөкетов атындағы Қарағанды университетi» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -8578,7 +8625,7 @@
 </tr>
 <tr>
 <td rowspan="6">D053 - Тарих және археология</td>
-<td rowspan="6">19</td>
+<td rowspan="6">23</td>
 <td>1</td>
 <td>«Манаш Қозыбаев атындағы Солтүстік Қазақстан университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -8604,13 +8651,13 @@
 </tr>
 <tr>
 <td>D054 - Түркітану</td>
-<td>3</td>
+<td>5</td>
 <td>1</td>
 <td>«А. Байтұрсынов атындағы Тiл бiлiмi институты» республикалық мемлекеттік қазыналық кәсіпорны</td>
 </tr>
 <tr>
 <td>D056 - Аударма ісі, ілеспе аударма</td>
-<td>2</td>
+<td>4</td>
 <td></td>
 <td></td>
 </tr>
@@ -8622,7 +8669,7 @@
 </tr>
 <tr>
 <td rowspan="2">D059 - Шетел филологиясы</td>
-<td rowspan="2">3</td>
+<td rowspan="2">5</td>
 <td></td>
 <td></td>
 </tr>
@@ -8632,7 +8679,7 @@
 </tr>
 <tr>
 <td rowspan="4">D060 - Филология</td>
-<td rowspan="4">20</td>
+<td rowspan="4">23</td>
 <td>1</td>
 <td>«Ш. Уәлиханов атындағы Көкшетау университетi» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -8650,7 +8697,7 @@
 </tr>
 <tr>
 <td rowspan="2">D061 - Әлеуметтану</td>
-<td rowspan="2">10</td>
+<td rowspan="2">13</td>
 <td>1</td>
 <td>«Қарағанды техникалық университетi» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -8660,13 +8707,13 @@
 </tr>
 <tr>
 <td>D062 - Мәдениеттану</td>
-<td>5</td>
+<td>6</td>
 <td>1</td>
 <td>«Торайғыров университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
 <tr>
 <td rowspan="3">D063 - Саясаттану және конфликтология</td>
-<td rowspan="3">20</td>
+<td rowspan="3">22</td>
 <td>1</td>
 <td>«Манаш Қозыбаев атындағы Солтүстік Қазақстан университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -8680,31 +8727,31 @@
 </tr>
 <tr>
 <td>D064 - Халықаралық қатынастар</td>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D065 - Аймақтану</td>
-<td>6</td>
+<td>9</td>
 <td>1</td>
 <td>Қытай Халық Республикасы</td>
 </tr>
 <tr>
 <td>D066 - Психология</td>
-<td>4</td>
+<td>6</td>
 <td>1</td>
 <td>«А. Байтұрсынов атындағы Қостанай өңірлік университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
 <tr>
 <td>D067 - Журналистика және репортер ісі</td>
-<td>2</td>
+<td>4</td>
 <td>1</td>
 <td>«М.Х. Дулати атындағы Тараз өңірлік университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
 <tr>
 <td rowspan="4">D070 - Экономика</td>
-<td rowspan="4">10</td>
+<td rowspan="4">13</td>
 <td>1</td>
 <td>«Ө.А. Байқоңыров атындағы Жезқазған университеті» акционерлік қоғамы</td>
 </tr>
@@ -8722,13 +8769,13 @@
 </tr>
 <tr>
 <td>D072 - Менеджмент және басқару</td>
-<td>2</td>
+<td>3</td>
 <td>1</td>
 <td>«Махамбет Өтемісов атындағы Батыс Қазақстан университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
 <tr>
 <td rowspan="2">D073 - Аудит және салық салу</td>
-<td rowspan="2">3</td>
+<td rowspan="2">4</td>
 <td>1</td>
 <td>«Экономика институты» республикалық мемлекеттік қазыналық кәсіпорны</td>
 </tr>
@@ -8738,13 +8785,13 @@
 </tr>
 <tr>
 <td>D074 - Қаржы, банктік және сақтандыру ісі</td>
-<td>1</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td rowspan="2">D078 - Құқық</td>
-<td rowspan="2">4</td>
+<td rowspan="2">8</td>
 <td>1</td>
 <td>«М.Х. Дулати атындағы Тараз өңірлік университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -8755,18 +8802,18 @@
 <tr>
 <td rowspan="2">D080 - Биология</td>
 <td rowspan="2">9</td>
-<td>2</td>
+<td>1</td>
 <td>«Ұлттық биотехнология орталығы» республикалық мемлекеттік қазыналық кәсіпорны</td>
 </tr>
 <tr>
-<td>2</td>
-<td>«Микроорганизмдердің республикалық коллекциясы» шаруашылық жүргізу құқығындағы республикалық мемлекеттік кәсіпорны</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td rowspan="2">D084 - География</td>
 <td rowspan="2">5</td>
-<td>2</td>
-<td>«География және су қауіпсіздігі институты» акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -8775,18 +8822,18 @@
 <tr>
 <td>D087 - Қоршаған ортаны қорғау технологиясы</td>
 <td>3</td>
-<td>1</td>
-<td>«Микроорганизмдердің республикалық коллекциясы» шаруашылық жүргізу құқығындағы республикалық мемлекеттік кәсіпорны</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>D089 - Химия</td>
-<td>20</td>
+<td>19</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D090 - Физика</td>
-<td>25</td>
+<td>27</td>
 <td>1</td>
 <td>«Семей қаласының Шәкәрім атындағы университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -8802,7 +8849,7 @@
 </tr>
 <tr>
 <td rowspan="5">D094 - Ақпараттық технологиялар</td>
-<td rowspan="5">28</td>
+<td rowspan="5">26</td>
 <td>1</td>
 <td>«Академик Е.А. Бөкетов атындағы Қарағанды университетi» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -8819,8 +8866,14 @@
 <td>«Astana IT University» жауапкершілігі шектеулі серіктестігі</td>
 </tr>
 <tr>
-<td>4</td>
+<td>2</td>
 <td>«Ақпараттық және есептеуіш технологиялар институты» шаруашылық жүргізу құқығындағы республикалық мемлекеттік кәсіпорны</td>
+</tr>
+<tr>
+<td>D095 - Ақпараттық қауіпсіздік</td>
+<td>2</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>D098 - Жылу энергетикасы</td>
@@ -8835,7 +8888,7 @@
 <td>«Махамбет Өтемісов атындағы Батыс Қазақстан университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
 <tr>
-<td>2</td>
+<td>1</td>
 <td>«Ақпараттық және есептеуіш технологиялар институты» шаруашылық жүргізу құқығындағы республикалық мемлекеттік кәсіпорны</td>
 </tr>
 <tr>
@@ -8858,8 +8911,8 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>335</th>
-<th>75</th>
+<th>384</th>
+<th>64</th>
 <th></th>
 </tr>
 <tr>
@@ -8872,13 +8925,13 @@
 </tr>
 <tr>
 <td>D052 - Исламтану</td>
-<td>3</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>8</th>
+<th>7</th>
 <th></th>
 <th></th>
 </tr>
@@ -8886,19 +8939,19 @@
 <td rowspan="6">11</td>
 <td rowspan="6">«І. Жансүгіров атындағы Жетісу университеті» коммерциялық емес акционерлік қоғамы</td>
 <td>D001 - Педагогика және психология</td>
-<td>1</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D003 - Пәнсіз мамандандырылған педагогтерді даярлау</td>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D010 - Математика педагогтерін даярлау</td>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 </tr>
@@ -8916,8 +8969,8 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>16</th>
-<th></th>
+<th>19</th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
@@ -8930,7 +8983,7 @@
 </tr>
 <tr>
 <td>D132 - Мал шаруашылығы</td>
-<td>2</td>
+<td>1</td>
 <td></td>
 <td></td>
 </tr>
@@ -8942,8 +8995,8 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>6</th>
-<th></th>
+<th>5</th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
@@ -8957,13 +9010,13 @@
 <tr>
 <td>D143 - Туризм</td>
 <td>3</td>
-<td>1</td>
-<td>«Абылай хан атындағы Қазақ халықаралық қатынастар және әлем тілдері университеті» акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <th>Барлығы</th>
 <th>6</th>
-<th>2</th>
+<th>1</th>
 <th></th>
 </tr>
 <tr>
@@ -9008,13 +9061,13 @@
 </tr>
 <tr>
 <td>D098 - Жылу энергетикасы</td>
-<td>3</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D099 - Энергетика және электр техникасы</td>
-<td>4</td>
+<td>3</td>
 <td></td>
 <td></td>
 </tr>
@@ -9038,7 +9091,7 @@
 </tr>
 <tr>
 <td>D111 - Тамақ өнімдерін өндіру</td>
-<td>8</td>
+<td>10</td>
 <td></td>
 <td></td>
 </tr>
@@ -9072,19 +9125,19 @@
 </tr>
 <tr>
 <td>D131 - Өсімдік шаруашылығы</td>
-<td>11</td>
+<td>12</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D132 - Мал шаруашылығы</td>
-<td>3</td>
+<td>4</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D133 - Орман шаруашылығы</td>
-<td>2</td>
+<td>3</td>
 <td></td>
 <td></td>
 </tr>
@@ -9108,7 +9161,7 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>69</th>
+<th>72</th>
 <th>4</th>
 <th></th>
 </tr>
@@ -9153,7 +9206,7 @@
 <tr>
 <th>Барлығы</th>
 <th>8</th>
-<th></th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
@@ -9237,7 +9290,7 @@
 <tr>
 <th>Барлығы</th>
 <th>78</th>
-<th>12</th>
+<th>13</th>
 <th></th>
 </tr>
 <tr>
@@ -9250,7 +9303,7 @@
 </tr>
 <tr>
 <td>D011 - Физика педагогтерін даярлау</td>
-<td>3</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
@@ -9262,7 +9315,7 @@
 </tr>
 <tr>
 <td>D013 - Химия педагогтерін даярлау</td>
-<td>3</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
@@ -9304,33 +9357,33 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>23</th>
-<th></th>
+<th>21</th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
 <td rowspan="23">19</td>
 <td rowspan="23">«Қ.И. Сәтбаев атындағы Қазақ ұлттық техникалық зерттеу университеті» коммерциялық емес акционерлік қоғамы</td>
 <td>D072 - Менеджмент және басқару</td>
-<td>2</td>
+<td>3</td>
 <td>1</td>
 <td>«Экономика институты» республикалық мемлекеттік қазыналық кәсіпорны</td>
 </tr>
 <tr>
 <td>D087 - Қоршаған ортаны қорғау технологиясы</td>
-<td>2</td>
+<td>3</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D094 - Ақпараттық технологиялар</td>
-<td>10</td>
+<td>11</td>
 <td>1</td>
 <td>«Ақпараттық және есептеуіш технологиялар институты» шаруашылық жүргізу құқығындағы республикалық мемлекеттік кәсіпорны</td>
 </tr>
 <tr>
 <td>D096 - Коммуникация және коммуникациялық технологиялар</td>
-<td>3</td>
+<td>1</td>
 <td></td>
 <td></td>
 </tr>
@@ -9342,33 +9395,33 @@
 </tr>
 <tr>
 <td>D099 - Энергетика және электр техникасы</td>
-<td>3</td>
+<td>2</td>
 <td>1</td>
 <td>«Ө.А. Байқоңыров атындағы Жезқазған университеті» акционерлік қоғамы</td>
 </tr>
 <tr>
 <td>D100 - Автоматтандыру және басқару</td>
-<td>3</td>
+<td>4</td>
 <td>1</td>
 <td>«Қожа Ахмет Ясауи атындағы Халықаралық қазақ-түрік университеті» мекемесі</td>
 </tr>
 <tr>
 <td>D101 - Материалтану және жаңа материалдар технологиясы</td>
-<td>2</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>D102 - Роботты техника және мехатроника</td>
 <td>3</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td>D102 - Роботты техника және мехатроника</td>
+<td>5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td rowspan="2">D103 - Механика және металл өңдеу</td>
-<td rowspan="2">8</td>
-<td>1</td>
-<td>«М.Х. Дулати атындағы Тараз өңірлік университеті» коммерциялық емес акционерлік қоғамы</td>
+<td rowspan="2">10</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -9376,19 +9429,19 @@
 </tr>
 <tr>
 <td>D109 - Мұнай және кен геофизикасы</td>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td rowspan="2">D115 - Мұнай инженериясы</td>
-<td rowspan="2">10</td>
-<td>1</td>
-<td>«Жәңгір хан атындағы Батыс Қазақстан аграрлық-техникалық университеті» коммерциялық емес акционерлік қоғамы</td>
+<td rowspan="2">9</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>1</td>
-<td>«Сафи Өтебаев атындағы Атырау мұнай және газ университеті» коммерциялық емес акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>D116 - Тау-кен инженериясы</td>
@@ -9398,7 +9451,7 @@
 </tr>
 <tr>
 <td rowspan="2">D117 - Металлургиялық инженерия</td>
-<td rowspan="2">5</td>
+<td rowspan="2">6</td>
 <td>1</td>
 <td>«Ө.А. Байқоңыров атындағы Жезқазған университеті» акционерлік қоғамы</td>
 </tr>
@@ -9408,15 +9461,15 @@
 </tr>
 <tr>
 <td>D121 - Геология</td>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D122 - Сәулет</td>
 <td>5</td>
-<td>1</td>
-<td>«М. Әуезов атындағы Оңтүстiк Қазақстан университетi» коммерциялық емес акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>D123 - Геодезия</td>
@@ -9426,7 +9479,7 @@
 </tr>
 <tr>
 <td>D124 - Құрылыс</td>
-<td>3</td>
+<td>2</td>
 <td>1</td>
 <td>«Халықаралық білім беру корпорациясы» акционерлік қоғамы</td>
 </tr>
@@ -9438,8 +9491,8 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>89</th>
-<th>12</th>
+<th>96</th>
+<th>8</th>
 <th></th>
 </tr>
 <tr>
@@ -9466,7 +9519,7 @@
 </tr>
 <tr>
 <td>D002 - Мектепке дейінгі оқыту және тәрбиелеу</td>
-<td>5</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
@@ -9477,41 +9530,41 @@
 </tr>
 <tr>
 <td>D010 - Математика педагогтерін даярлау</td>
-<td>4</td>
+<td>3</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D011 - Физика педагогтерін даярлау</td>
-<td>2</td>
+<td>1</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td rowspan="2">D012 - Информатика педагогтерін даярлау</td>
-<td rowspan="2">3</td>
+<td rowspan="2">2</td>
 <td>1</td>
 <td>«Қазақ ұлттық қыздар педагогикалық университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>«Семей қаласының Шәкәрім атындағы университеті» коммерциялық емес акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>D013 - Химия педагогтерін даярлау</td>
-<td>11</td>
+<td>7</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D014 - Биология педагогтерін даярлау</td>
-<td>11</td>
-<td>1</td>
-<td>«Ө.А. Байқоңыров атындағы Жезқазған университеті» акционерлік қоғамы</td>
+<td>5</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>D015 - География педагогтерін даярлау</td>
-<td>8</td>
+<td>7</td>
 <td>1</td>
 <td>«Ы. Алтынсарин атындағы Арқалық педагогикалық институты» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -9535,13 +9588,13 @@
 </tr>
 <tr>
 <td rowspan="3">D021 - Арнайы педагогика</td>
-<td rowspan="3">30</td>
+<td rowspan="3">27</td>
 <td>1</td>
 <td>«І. Жансүгіров атындағы Жетісу университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>«Қазақ ұлттық қыздар педагогикалық университеті» коммерциялық емес акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -9595,15 +9648,15 @@
 </tr>
 <tr>
 <td>D080 - Биология</td>
-<td>10</td>
+<td>5</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D084 - География</td>
 <td>3</td>
-<td>1</td>
-<td>«География және су қауіпсіздігі институты» акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>D087 - Қоршаған ортаны қорғау технологиясы</td>
@@ -9613,21 +9666,21 @@
 </tr>
 <tr>
 <td>D089 - Химия</td>
-<td>16</td>
+<td>4</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D090 - Физика</td>
-<td>10</td>
+<td>5</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td rowspan="2">D092 - Математика және статистика</td>
-<td rowspan="2">5</td>
-<td>1</td>
-<td>«М. Тынышпаев атындағы Қазақ көлік және коммуникациялар академиясы» акционерлік қоғамы</td>
+<td rowspan="2">3</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -9635,33 +9688,33 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>150</th>
-<th>14</th>
+<th>105</th>
+<th>9</th>
 <th></th>
 </tr>
 <tr>
 <td rowspan="82">22</td>
 <td rowspan="82">«Әл-Фараби атындағы Қазақ ұлттық университетi» коммерциялық емес акционерлік қоғамы</td>
 <td>D001 - Педагогика және психология</td>
-<td>3</td>
+<td>4</td>
 <td>2</td>
 <td>Қытай Халық Республикасы</td>
 </tr>
 <tr>
 <td>D005 - Дене шынықтыру педагогтерін даярлау</td>
-<td>2</td>
+<td>1</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D011 - Физика педагогтерін даярлау</td>
-<td>10</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td rowspan="2">D012 - Информатика педагогтерін даярлау</td>
-<td rowspan="2">4</td>
+<td rowspan="2">3</td>
 <td>1</td>
 <td>«Торайғыров университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -9695,7 +9748,7 @@
 </tr>
 <tr>
 <td>D050 - Философия және әдеп</td>
-<td>5</td>
+<td>6</td>
 <td>1</td>
 <td>«Философия, саясаттану және дінтану институты» республикалық мемлекеттік қазыналық кәсіпорны</td>
 </tr>
@@ -9713,19 +9766,19 @@
 </tr>
 <tr>
 <td>D053 - Тарих және археология</td>
-<td>3</td>
+<td>5</td>
 <td>1</td>
 <td>«Астана» халықаралық университеті» жауапкершілігі шектеулі серіктестігі</td>
 </tr>
 <tr>
 <td rowspan="4">D055 - Шығыстану</td>
-<td rowspan="4">9</td>
+<td rowspan="4">12</td>
 <td>1</td>
 <td>«Абылай хан атындағы Қазақ халықаралық қатынастар және әлем тілдері университеті» акционерлік қоғамы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>«Тұран» университеті» мекемесі</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -9737,13 +9790,13 @@
 </tr>
 <tr>
 <td>D057 - Лингвистика</td>
-<td>7</td>
+<td>9</td>
 <td>2</td>
 <td>«А. Байтұрсынов атындағы Тiл бiлiмi институты» республикалық мемлекеттік қазыналық кәсіпорны</td>
 </tr>
 <tr>
 <td rowspan="2">D058 - Әдебиет</td>
-<td rowspan="2">10</td>
+<td rowspan="2">12</td>
 <td>3</td>
 <td>«М.О. Әуезов атындағы Әдебиет және өнер институты» республикалық мемлекеттік қазыналық кәсіпорны</td>
 </tr>
@@ -9753,15 +9806,15 @@
 </tr>
 <tr>
 <td>D059 - Шетел филологиясы</td>
-<td>2</td>
+<td>3</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td rowspan="2">D060 - Филология</td>
 <td rowspan="2">6</td>
-<td>1</td>
-<td>«Тұран» университеті» мекемесі</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>2</td>
@@ -9769,7 +9822,7 @@
 </tr>
 <tr>
 <td rowspan="2">D061 - Әлеуметтану</td>
-<td rowspan="2">10</td>
+<td rowspan="2">12</td>
 <td>1</td>
 <td>«Қазақ ұлттық қыздар педагогикалық университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -9779,13 +9832,13 @@
 </tr>
 <tr>
 <td>D062 - Мәдениеттану</td>
-<td>3</td>
+<td>5</td>
 <td>1</td>
 <td>«М. Тынышпаев атындағы Қазақ көлік және коммуникациялар академиясы» акционерлік қоғамы</td>
 </tr>
 <tr>
 <td rowspan="2">D063 - Саясаттану және конфликтология</td>
-<td rowspan="2">10</td>
+<td rowspan="2">12</td>
 <td>1</td>
 <td>«Философия, саясаттану және дінтану институты» республикалық мемлекеттік қазыналық кәсіпорны</td>
 </tr>
@@ -9801,19 +9854,19 @@
 </tr>
 <tr>
 <td>D065 - Аймақтану</td>
-<td>2</td>
+<td>3</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D066 - Психология</td>
-<td>1</td>
+<td>3</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D067 - Журналистика және репортер ісі</td>
-<td>2</td>
+<td>3</td>
 <td>1</td>
 <td>«Абылай хан атындағы Қазақ халықаралық қатынастар және әлем тілдері университеті» акционерлік қоғамы</td>
 </tr>
@@ -9831,25 +9884,25 @@
 </tr>
 <tr>
 <td>D071 - Мемлекеттік және жергілікті басқару</td>
-<td>8</td>
+<td>10</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D074 - Қаржы, банктік және сақтандыру ісі</td>
-<td>2</td>
+<td>3</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D075 - Маркетинг және жарнама</td>
-<td>2</td>
+<td>4</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td rowspan="4">D078 - Құқық</td>
-<td rowspan="4">5</td>
+<td rowspan="4">7</td>
 <td>1</td>
 <td>«Махамбет Өтемісов атындағы Батыс Қазақстан университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -9867,7 +9920,7 @@
 </tr>
 <tr>
 <td rowspan="5">D080 - Биология</td>
-<td rowspan="5">15</td>
+<td rowspan="5">17</td>
 <td>1</td>
 <td>«Жалпы генетика және цитология институты» шаруашылық жүргізу құқығындағы республикалық мемлекеттік кәсіпорны</td>
 </tr>
@@ -9889,13 +9942,13 @@
 </tr>
 <tr>
 <td>D081 - Генетика</td>
-<td>3</td>
+<td>4</td>
 <td>2</td>
 <td>«Жалпы генетика және цитология институты» шаруашылық жүргізу құқығындағы республикалық мемлекеттік кәсіпорны</td>
 </tr>
 <tr>
 <td>D082 - Биотехнология</td>
-<td>15</td>
+<td>13</td>
 <td>2</td>
 <td>«Жалпы генетика және цитология институты» шаруашылық жүргізу құқығындағы республикалық мемлекеттік кәсіпорны</td>
 </tr>
@@ -9917,7 +9970,7 @@
 </tr>
 <tr>
 <td>D085 - Гидрология</td>
-<td>10</td>
+<td>11</td>
 <td></td>
 <td></td>
 </tr>
@@ -9929,25 +9982,25 @@
 </tr>
 <tr>
 <td>D089 - Химия</td>
-<td>20</td>
+<td>19</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D090 - Физика</td>
-<td>40</td>
-<td>1</td>
-<td>«Алматы технологиялық университеті» акционерлік қоғамы</td>
+<td>16</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td rowspan="3">D092 - Математика және статистика</td>
-<td rowspan="3">13</td>
+<td rowspan="3">11</td>
 <td>1</td>
 <td>«Алматы технологиялық университеті» акционерлік қоғамы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>«Халықаралық бизнес университеті» жауапкершілігі шектеулі серіктестігі</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>4</td>
@@ -9955,7 +10008,7 @@
 </tr>
 <tr>
 <td rowspan="2">D093 - Механика</td>
-<td rowspan="2">10</td>
+<td rowspan="2">11</td>
 <td>1</td>
 <td>«Академик Е.А. Бөкетов атындағы Қарағанды университетi» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -9965,9 +10018,9 @@
 </tr>
 <tr>
 <td rowspan="3">D094 - Ақпараттық технологиялар</td>
-<td rowspan="3">8</td>
-<td>1</td>
-<td>«Халықаралық бизнес университеті» жауапкершілігі шектеулі серіктестігі</td>
+<td rowspan="3">9</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -9979,33 +10032,33 @@
 </tr>
 <tr>
 <td>D095 - Ақпараттық қауіпсіздік</td>
-<td>20</td>
+<td>23</td>
 <td>4</td>
 <td>«Ақпараттық және есептеуіш технологиялар институты» шаруашылық жүргізу құқығындағы республикалық мемлекеттік кәсіпорны</td>
 </tr>
 <tr>
 <td>D096 - Коммуникация және коммуникациялық технологиялар</td>
-<td>8</td>
+<td>7</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td rowspan="4">D097 - Химиялық инженерия және процесстер</td>
-<td rowspan="4">40</td>
-<td>1</td>
-<td>«М.Х. Дулати атындағы Тараз өңірлік университеті» коммерциялық емес акционерлік қоғамы</td>
+<td rowspan="4">27</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>1</td>
-<td>«Сафи Өтебаев атындағы Атырау мұнай және газ университеті» коммерциялық емес акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
 <td>«Жалын» ғылыми өндірістік-технологиялық орталығы» жауапкершілігі шектеулі серіктестігі</td>
 </tr>
 <tr>
-<td>1</td>
-<td>«Жану проблемалары институты» шаруашылық жүргізу құқығындағы республикалық мемлекеттік кәсіпорны</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>D098 - Жылу энергетикасы</td>
@@ -10015,7 +10068,7 @@
 </tr>
 <tr>
 <td>D099 - Энергетика және электр техникасы</td>
-<td>5</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
@@ -10027,43 +10080,43 @@
 </tr>
 <tr>
 <td>D101 - Материалтану және жаңа материалдар технологиясы</td>
-<td>10</td>
+<td>4</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D102 - Роботты техника және мехатроника</td>
-<td>20</td>
+<td>23</td>
 <td>8</td>
 <td>«Ө.А. Жолдасбеков атындағы Механика және машинатану институты» шаруашылық жүргізу құқығындағы республикалық мемлекеттік кәсіпорны</td>
 </tr>
 <tr>
 <td>D107 - Ғарыштық инженерия</td>
-<td>5</td>
-<td>1</td>
-<td>«Ө.А. Жолдасбеков атындағы Механика және машинатану институты» шаруашылық жүргізу құқығындағы республикалық мемлекеттік кәсіпорны</td>
+<td>4</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>D108 - Наноматериалдар және нанотехнологиялар (сала бойынша)</td>
-<td>2</td>
+<td>3</td>
 <td>1</td>
 <td>«Жалын» ғылыми өндірістік-технологиялық орталығы» жауапкершілігі шектеулі серіктестігі</td>
 </tr>
 <tr>
 <td>D123 - Геодезия</td>
-<td>6</td>
+<td>5</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D134 - Балық шаруашылығы</td>
 <td>3</td>
-<td>1</td>
-<td>«Қазақ ұлттық аграрлық университеті» коммерциялық емес акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>D142- Әлеуметтік жұмыс</td>
-<td>5</td>
+<td>6</td>
 <td>1</td>
 <td>«Қазақ ұлттық қыздар педагогикалық университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -10081,8 +10134,8 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>434</th>
-<th>88</th>
+<th>413</th>
+<th>78</th>
 <th></th>
 </tr>
 <tr>
@@ -10098,16 +10151,16 @@
 <td>«Қазақ спорт және туризм академиясы» коммерциялық емес акционерлік қоғамы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>«М. Әуезов атындағы Оңтүстiк Қазақстан университетi» коммерциялық емес акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
 <td>«Халықаралық ақпараттық технологиялар университеті» акционерлік қоғамы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>«М.Х. Дулати атындағы Тараз өңірлік университеті» коммерциялық емес акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>D056 - Аударма ісі, ілеспе аударма</td>
@@ -10138,7 +10191,7 @@
 <tr>
 <th>Барлығы</th>
 <th>18</th>
-<th>9</th>
+<th>7</th>
 <th></th>
 </tr>
 <tr>
@@ -10158,39 +10211,45 @@
 <tr>
 <th>Барлығы</th>
 <th>2</th>
-<th></th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
-<td rowspan="5">25</td>
-<td rowspan="5">«Қазақстан-Британ техникалық университеті» акционерлік қоғамы</td>
+<td rowspan="6">25</td>
+<td rowspan="6">«Қазақстан-Британ техникалық университеті» акционерлік қоғамы</td>
 <td>D094 - Ақпараттық технологиялар</td>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D097 - Химиялық инженерия және процесстер</td>
-<td>5</td>
+<td>3</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D108 - Наноматериалдар және нанотехнологиялар</td>
-<td>3</td>
+<td>5</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D115 - Мұнай инженериясы</td>
-<td>3</td>
+<td>4</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>D101 - Материалтану және жаңа материалдар технологиясы</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>16</th>
-<th></th>
+<th>20</th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
@@ -10210,22 +10269,22 @@
 <tr>
 <th>Барлығы</th>
 <th>5</th>
-<th></th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
 <td rowspan="9">27</td>
 <td rowspan="9">«Қарағанды техникалық университетi» коммерциялық емес акционерлік қоғамы</td>
 <td>D099 - Энергетика және электр техникасы</td>
-<td>5</td>
+<td>4</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D103 - Механика және металл өңдеу</td>
 <td>5</td>
-<td>1</td>
-<td>«Ө.А. Байқоңыров атындағы Жезқазған университеті» акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>D104 - Көлік, көліктік техника және технология</td>
@@ -10235,7 +10294,7 @@
 </tr>
 <tr>
 <td>D116 - Тау-кен инженериясы</td>
-<td>15</td>
+<td>12</td>
 <td>1</td>
 <td>«Ө.А. Байқоңыров атындағы Жезқазған университеті» акционерлік қоғамы</td>
 </tr>
@@ -10247,15 +10306,15 @@
 </tr>
 <tr>
 <td>D121 - Геология</td>
-<td>10</td>
+<td>9</td>
 <td>1</td>
 <td>«Ө.А. Байқоңыров атындағы Жезқазған университеті» акционерлік қоғамы</td>
 </tr>
 <tr>
 <td>D124 - Құрылыс</td>
-<td>2</td>
 <td>1</td>
-<td>«Қарағанды индустриялық университеті» коммерциялық емес акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>D125 - Құрылыс материалдарының, бұйымдарының және құрастырылымдарының өндірісі</td>
@@ -10265,15 +10324,15 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>47</th>
-<th>4</th>
+<th>41</th>
+<th>2</th>
 <th></th>
 </tr>
 <tr>
 <td rowspan="14">28</td>
 <td rowspan="14">«Академик Е.А. Бөкетов атындағы Қарағанды университетi» коммерциялық емес акционерлік қоғамы</td>
 <td>D001 - Педагогика және психология</td>
-<td>2</td>
+<td>3</td>
 <td>1</td>
 <td>«Қарағанды индустриялық университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
@@ -10285,29 +10344,29 @@
 </tr>
 <tr>
 <td>D017 - Қазақ тілі мен әдебиетінің педагогтерін даярлау</td>
-<td>3</td>
+<td>2</td>
 <td>1</td>
 <td>«Қарағанды медицина университеті» коммерциялық емес акционерлік қоғамы</td>
 </tr>
 <tr>
 <td>D019 - Шет тілдері педагогтерін даярлау</td>
-<td>2</td>
+<td>4</td>
 <td>1</td>
 <td>«Қарағанды техникалық университетi» коммерциялық емес акционерлік қоғамы</td>
 </tr>
 <tr>
 <td rowspan="2">D050 - Философия және әдеп</td>
-<td rowspan="2">3</td>
-<td>1</td>
-<td>«Қорқыт Ата атындағы Қызылорда университеті» коммерциялық емес акционерлік қоғамы</td>
+<td rowspan="2">2</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>1</td>
-<td>«Ө.А. Байқоңыров атындағы Жезқазған университеті» акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>D053 - Тарих және археология</td>
-<td>3</td>
+<td>4</td>
 <td>1</td>
 <td>«Ө.А. Байқоңыров атындағы Жезқазған университеті» акционерлік қоғамы</td>
 </tr>
@@ -10319,7 +10378,7 @@
 </tr>
 <tr>
 <td>D070 - Экономика</td>
-<td>2</td>
+<td>1</td>
 <td></td>
 <td></td>
 </tr>
@@ -10338,8 +10397,8 @@
 <tr>
 <td>D090 - Физика</td>
 <td>6</td>
-<td>1</td>
-<td>«Қарағанды техникалық университетi» коммерциялық емес акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>D092 - Математика және статистика</td>
@@ -10349,8 +10408,8 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>57</th>
-<th>8</th>
+<th>58</th>
+<th>5</th>
 <th></th>
 </tr>
 <tr>
@@ -10370,7 +10429,7 @@
 <tr>
 <th>Барлығы</th>
 <th>11</th>
-<th></th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
@@ -10383,7 +10442,7 @@
 </tr>
 <tr>
 <td>D087 - Қоршаған ортаны қорғау технологиясы</td>
-<td>2</td>
+<td>1</td>
 <td></td>
 <td></td>
 </tr>
@@ -10401,8 +10460,8 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>13</th>
-<th></th>
+<th>12</th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
@@ -10421,7 +10480,7 @@
 </tr>
 <tr>
 <td>D053 - Тарих және археология</td>
-<td>1</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
@@ -10433,20 +10492,20 @@
 </tr>
 <tr>
 <td>D087 - Қоршаған ортаны қорғау технологиясы</td>
-<td>1</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D131 - Өсімдік шаруашылығы</td>
-<td>1</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>8</th>
-<th></th>
+<th>11</th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
@@ -10483,7 +10542,7 @@
 </tr>
 <tr>
 <td>D103 - Механика және металл өңдеу</td>
-<td>2</td>
+<td>3</td>
 <td></td>
 <td></td>
 </tr>
@@ -10495,7 +10554,7 @@
 </tr>
 <tr>
 <td>D132 - Мал шаруашылығы</td>
-<td>1</td>
+<td>3</td>
 <td></td>
 <td></td>
 </tr>
@@ -10513,8 +10572,8 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>15</th>
-<th></th>
+<th>18</th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
@@ -10576,20 +10635,20 @@
 <tr>
 <th>Барлығы</th>
 <th>11</th>
-<th></th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
 <td rowspan="2">34</td>
 <td rowspan="2">«Астана медицина университеті» коммерциялық емес акционерлік қоғамы</td>
 <td>D080 - Биология</td>
-<td>5</td>
+<td>4</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>5</th>
+<th>4</th>
 <th></th>
 <th></th>
 </tr>
@@ -10631,7 +10690,7 @@
 </tr>
 <tr>
 <td>D010 - Математика педагогтерін даярлау</td>
-<td>3</td>
+<td>1</td>
 <td></td>
 <td></td>
 </tr>
@@ -10643,7 +10702,7 @@
 </tr>
 <tr>
 <td>D016 - Тарих педагогтерін даярлау</td>
-<td>3</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
@@ -10655,20 +10714,20 @@
 </tr>
 <tr>
 <td>D071 - Мемлекеттік және жергілікті басқару</td>
-<td>3</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D094 - Ақпараттық технологиялар</td>
-<td>3</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>18</th>
-<th></th>
+<th>13</th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
@@ -10700,20 +10759,20 @@
 <tr>
 <th>Барлығы</th>
 <th>10</th>
-<th></th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
 <td rowspan="7">39</td>
 <td rowspan="7">«Халықаралық ақпараттық технологиялар университеті» акционерлік қоғамы</td>
 <td rowspan="6">D094 - Ақпараттық технологиялар</td>
-<td rowspan="6">19</td>
+<td rowspan="6">13</td>
 <td>2</td>
 <td>«Astana IT University» жауапкершілігі шектеулі серіктестігі</td>
 </tr>
 <tr>
-<td>1</td>
-<td>«Қазақ ұлттық аграрлық университеті» коммерциялық емес акционерлік қоғамы</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -10724,8 +10783,8 @@
 <td>«Алматы технологиялық университеті» акционерлік қоғамы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>«Халықаралық бизнес университеті» жауапкершілігі шектеулі серіктестігі</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>2</td>
@@ -10733,21 +10792,21 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>19</th>
-<th>8</th>
+<th>13</th>
+<th>6</th>
 <th></th>
 </tr>
 <tr>
 <td rowspan="5">40</td>
 <td rowspan="5">«Павлодар педагогикалық университеті» коммерциялық емес акционерлік қоғамы</td>
 <td>D011 - Физика педагогтерін даярлау</td>
-<td>3</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D013 - Химия педагогтерін даярлау</td>
-<td>3</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
@@ -10759,33 +10818,33 @@
 </tr>
 <tr>
 <td>D016 - Тарих педагогтерін даярлау</td>
-<td>6</td>
+<td>5</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>13</th>
-<th></th>
+<th>10</th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
-<td rowspan="9">41</td>
-<td rowspan="9">«Торайғыров университеті» коммерциялық емес акционерлік қоғамы</td>
+<td rowspan="11">41</td>
+<td rowspan="11">«Торайғыров университеті» коммерциялық емес акционерлік қоғамы</td>
 <td>D001 - Педагогика және психология</td>
-<td>2</td>
+<td>3</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D060 - Филология</td>
-<td>2</td>
+<td>3</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D070 - Экономика</td>
-<td>1</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
@@ -10814,6 +10873,18 @@
 <td></td>
 </tr>
 <tr>
+<td>D056 - Аударма ісі, ілеспе аударма</td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>D058 - Әдебиет</td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>D117 - Металлургиялық инженерия</td>
 <td>3</td>
 <td></td>
@@ -10821,15 +10892,15 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>16</th>
-<th></th>
+<th>21</th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
 <td rowspan="7">42</td>
 <td rowspan="7">«Манаш Қозыбаев атындағы Солтүстік Қазақстан университеті» коммерциялық емес акционерлік қоғамы</td>
 <td>D070 - Экономика</td>
-<td>1</td>
+<td>2</td>
 <td></td>
 <td></td>
 </tr>
@@ -10847,7 +10918,7 @@
 </tr>
 <tr>
 <td>D097 - Химиялық инженерия және процесстер</td>
-<td>6</td>
+<td>4</td>
 <td></td>
 <td></td>
 </tr>
@@ -10865,8 +10936,8 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>14</th>
-<th></th>
+<th>13</th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
@@ -10898,7 +10969,7 @@
 <tr>
 <th>Барлығы</th>
 <th>4</th>
-<th></th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
@@ -10936,39 +11007,45 @@
 <tr>
 <th>Барлығы</th>
 <th>13</th>
-<th></th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
-<td rowspan="5">45</td>
-<td rowspan="5">«Тұран» университеті» мекемесі</td>
+<td rowspan="6">45</td>
+<td rowspan="6">«Тұран» университеті» мекемесі</td>
 <td>D066 - Психология</td>
-<td>5</td>
-<td>1</td>
-<td>«Халықаралық білім беру корпорациясы» акционерлік қоғамы</td>
+<td>8</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>D070 - Экономика</td>
-<td>5</td>
+<td>6</td>
 <td>1</td>
 <td>«Халықаралық білім беру корпорациясы» акционерлік қоғамы</td>
 </tr>
 <tr>
 <td>D074 - Қаржы, банктік және сақтандыру ісі</td>
-<td>3</td>
+<td>4</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D078 - Құқық</td>
-<td>2</td>
+<td>6</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>D072 - Менеджмент және басқару</td>
+<td>1</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>15</th>
-<th>2</th>
+<th>25</th>
+<th>1</th>
 <th></th>
 </tr>
 <tr>
@@ -10982,7 +11059,7 @@
 <tr>
 <th>Барлығы</th>
 <th>2</th>
-<th></th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
@@ -11014,12 +11091,12 @@
 <tr>
 <th>Барлығы</th>
 <th>17</th>
-<th></th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
 <td rowspan="2">48</td>
-<td rowspan="2">«М.С.Нарикбаев атындағы КазГЮУ» акционерлік қоғамы</td>
+<td rowspan="2">«М.С.Нәрікбаев атындағы КазГЮУ» акционерлік қоғамы</td>
 <td>D078 - Құқық</td>
 <td>6</td>
 <td></td>
@@ -11035,25 +11112,25 @@
 <td rowspan="6">49</td>
 <td rowspan="6">«Халықаралық бизнес университеті» жауапкершілігі шектеулі серіктестігі</td>
 <td>D070 - Экономика</td>
-<td>5</td>
+<td>1</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D072 - Менеджмент және басқару</td>
-<td>2</td>
+<td>1</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D073 - Аудит және салық салу</td>
-<td>1</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D074 - Қаржы, банктік және сақтандыру ісі</td>
-<td>1</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -11065,8 +11142,8 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>11</th>
-<th></th>
+<th>4</th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
@@ -11079,7 +11156,7 @@
 </tr>
 <tr>
 <td>D071 - Мемлекеттік және жергілікті басқару</td>
-<td>9</td>
+<td>10</td>
 <td></td>
 <td></td>
 </tr>
@@ -11103,15 +11180,15 @@
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>13</th>
-<th></th>
+<th>14</th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
 <td rowspan="8">51</td>
 <td rowspan="8">«Оңтүстік Қазақстан мемлекеттік педагогикалық университеті» коммерциялық емес акционерлік қоғамы</td>
 <td>D010 - Математика педагогтерін даярлау</td>
-<td>1</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -11135,7 +11212,7 @@
 </tr>
 <tr>
 <td>D016 - Тарих педагогтерін даярлау</td>
-<td>2</td>
+<td>3</td>
 <td></td>
 <td></td>
 </tr>
@@ -11154,14 +11231,14 @@
 <tr>
 <th>Барлығы</th>
 <th>11</th>
-<th></th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
-<td rowspan="15">52</td>
-<td rowspan="15">«М. Әуезов атындағы Оңтүстiк Қазақстан университетi» коммерциялық емес акционерлік қоғамы</td>
+<td rowspan="16">52</td>
+<td rowspan="16">«М. Әуезов атындағы Оңтүстiк Қазақстан университетi» коммерциялық емес акционерлік қоғамы</td>
 <td>D001 - Педагогика және психология</td>
-<td>2</td>
+<td>4</td>
 <td></td>
 <td></td>
 </tr>
@@ -11179,13 +11256,13 @@
 </tr>
 <tr>
 <td>D060 - Филология</td>
-<td>2</td>
+<td>3</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D070 - Экономика</td>
-<td>2</td>
+<td>7</td>
 <td></td>
 <td></td>
 </tr>
@@ -11197,13 +11274,19 @@
 </tr>
 <tr>
 <td>D087 - Қоршаған ортаны қорғау технологиясы</td>
-<td>4</td>
+<td>6</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>D092 - Математика және статистика</td>
 <td>5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>D097 - Химиялық инженерия және процесстер</td>
+<td>1</td>
 <td></td>
 <td></td>
 </tr>
@@ -11221,7 +11304,7 @@
 </tr>
 <tr>
 <td>D117 - Металлургиялық инженерия</td>
-<td>4</td>
+<td>3</td>
 <td></td>
 <td></td>
 </tr>
@@ -11239,14 +11322,14 @@
 </tr>
 <tr>
 <td>D146 - Санитарлық-профилактикалық іс-шаралар</td>
-<td>5</td>
+<td>4</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <th>Барлығы</th>
-<th>56</th>
-<th></th>
+<th>65</th>
+<th>0</th>
 <th></th>
 </tr>
 <tr>
@@ -11254,7 +11337,7 @@
 <th></th>
 <th>Жиыны</th>
 <th>1815</th>
-<th>244</th>
+<th>203</th>
 <th></th>
 </tr>
 </table>
