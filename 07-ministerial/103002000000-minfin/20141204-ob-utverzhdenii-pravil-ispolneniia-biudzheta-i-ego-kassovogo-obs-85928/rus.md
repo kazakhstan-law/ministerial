@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85928/rus/07.09.2020
+source: https://zan.gov.kz/client/#!/doc/85928/rus/12.10.2020
 ---
 
 # Об утверждении Правил исполнения бюджета и его кассового обслуживания
