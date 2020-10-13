@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
+source: https://zan.gov.kz/client/#!/doc/123986/kaz/13.10.2020
 ---
 
 # Кәсіпшілік күш-жігер нормативтерін бекіту туралы
@@ -35,22 +35,23 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 > *2018 жылғы 13 шілде*
 
 > *Қазақстан Республикасы*  
-> *Премьер-Министрінің орынбасары –*  
+> *Премьер-Министрінің*  
+> *орынбасары –*  
 > *Қазақстан Республикасының*  
-> *Ауыл шаруашылығы министрінің*  
-> *2018 жылғы 12 шілдедегі*  
-> *№ 298 бұйрығына*  
-> *қосымша*
+> *Ауыл шаруашылығы*  
+> *министрінің 2018 жылғы*  
+> *12 шілдедегі № 298*  
+> *бұйрығына қосымша*
 
-## Балық шаруашылығы су айдындары және (немесе) учаскелерінің кәсіпшілік күш жігері нормативтері
+## Балық шаруашылығы су айдындарындағы және (немесе) учаскелеріндегі кәсіпшілік күш жігер нормативтері
 
-> *Ескерту. Нормативтер жаңа редакцияда - ҚР Ауыл шаруашылығы министрінің 29.05.2019 № 215 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. Нормативтер жаңа редакцияда - ҚР Ауыл шаруашылығы министрінің 29.05.2019 № 215 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); ҚР Экология, геология және табиғи ресурстар министрінің 13.10.2020 № 257 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.*
 
 <table>
 <tr>
-<td rowspan="2">№</td>
+<td rowspan="2"></td>
 <td rowspan="2">Су айдындары</td>
-<td colspan="3">Аулардың саны</td>
+<td colspan="2">Аулардың саны</td>
 <td colspan="2">Жылымдардың/қабадалардың саны</td>
 <td colspan="3">Балықшылардың саны</td>
 <td colspan="3">Кемелердің саны**</td>
@@ -58,7 +59,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 </tr>
 <tr>
 <td>Бір к/у*</td>
-<td colspan="2">Барлық к/у</td>
+<td>Барлық к/у</td>
 <td>Бір к/у</td>
 <td>Барлық к/у</td>
 <td>Бір к/у</td>
@@ -72,7 +73,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <td>1</td>
 <td>2</td>
 <td>3</td>
-<td colspan="2">4</td>
+<td>4</td>
 <td>5</td>
 <td>6</td>
 <td>7</td>
@@ -83,13 +84,13 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <td>12</td>
 </tr>
 <tr>
-<td colspan="15">Халықаралық маңызы бар су айдындары</td>
+<td colspan="14">Халықаралық маңызы бар су айдындары</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Жайық өзені</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>2</td>
 <td>32</td>
 <td>20</td>
@@ -103,7 +104,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <td>2</td>
 <td>Қиғаш өзені</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>4</td>
 <td>28</td>
 <td>20</td>
@@ -117,7 +118,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <td>3</td>
 <td>Каспий теңізі (Теңізде аулау)</td>
 <td>300</td>
-<td colspan="2">5400</td>
+<td>5400</td>
 <td>300</td>
 <td>5400</td>
 <td>30</td>
@@ -131,7 +132,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <td>4</td>
 <td>Жайсан көлі</td>
 <td>400</td>
-<td colspan="2">2800</td>
+<td>2800</td>
 <td>7</td>
 <td>49</td>
 <td>118</td>
@@ -145,7 +146,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <td>5</td>
 <td>Бұқтырма су қоймасы</td>
 <td>183</td>
-<td colspan="2">3477</td>
+<td>3477</td>
 <td>3</td>
 <td>57</td>
 <td>50</td>
@@ -159,7 +160,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <td>6</td>
 <td>Шүлбі су қоймасы</td>
 <td>85</td>
-<td colspan="2">850</td>
+<td>850</td>
 <td>1</td>
 <td>10</td>
 <td>20</td>
@@ -172,22 +173,22 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <tr>
 <td>7</td>
 <td>Шардара су қоймасы</td>
-<td>-</td>
-<td colspan="2">-</td>
-<td>4</td>
+<td>115</td>
+<td>460</td>
+<td>5</td>
+<td>20</td>
+<td>42</td>
+<td colspan="2">168</td>
+<td>5</td>
+<td colspan="2">20</td>
 <td>16</td>
-<td>24</td>
-<td colspan="2">96</td>
-<td>4</td>
-<td colspan="2">16</td>
-<td>4</td>
-<td>16</td>
+<td>64</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Кіші Арал теңізі</td>
 <td>400</td>
-<td colspan="2">7000</td>
+<td>7000</td>
 <td>2</td>
 <td>36</td>
 <td>40</td>
@@ -201,7 +202,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <td>9</td>
 <td>Сырдария өзені</td>
 <td>150</td>
-<td colspan="2">600</td>
+<td>600</td>
 <td>1</td>
 <td>4</td>
 <td>15</td>
@@ -212,32 +213,32 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <td>16</td>
 </tr>
 <tr>
-<td colspan="15">Қапшағай су қоймасы</td>
+<td colspan="14">Қапшағай су қоймасы</td>
 </tr>
 <tr>
 <td>№</td>
 <td>Бір балықшыға аулардың саны, дана</td>
-<td colspan="4">Керме аулардың (сүйретпелердің) саны</td>
+<td colspan="2">Керме аулардың (сүйретпелердің) саны</td>
 <td colspan="2">1 шақырым учаскенің ұзындығына балықшылардың саны ***</td>
 <td colspan="3">Кемелердің саны</td>
-<td colspan="4">1 шақырым учаскенің ұзындығына кемелердің саны ***</td>
+<td colspan="5">1 шақырым учаскенің ұзындығына кемелердің саны ***</td>
 </tr>
 <tr>
 <td>10</td>
 <td>15</td>
-<td colspan="4">10</td>
+<td colspan="2">10</td>
 <td colspan="2">2</td>
 <td colspan="3">10</td>
-<td colspan="4">2</td>
+<td colspan="5">2</td>
 </tr>
 <tr>
-<td colspan="15">Республикалық маңызы бар су айдындары</td>
+<td colspan="14">Республикалық маңызы бар су айдындары</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Алакөл көлі</td>
 <td>40</td>
-<td colspan="2">360</td>
+<td>360</td>
 <td>1</td>
 <td>9</td>
 <td>10</td>
@@ -251,7 +252,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <td>12</td>
 <td>Сасықкөл көлі</td>
 <td>20</td>
-<td colspan="2">300</td>
+<td>300</td>
 <td>1</td>
 <td>15</td>
 <td>10</td>
@@ -265,7 +266,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <td>13</td>
 <td>Қошқаркөл көлі</td>
 <td>60</td>
-<td colspan="2">60</td>
+<td>60</td>
 <td>2</td>
 <td>2</td>
 <td>20</td>
@@ -276,14 +277,14 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <td>4</td>
 </tr>
 <tr>
-<td colspan="15">Балқаш көлі</td>
+<td colspan="14">Балқаш көлі</td>
 </tr>
 <tr>
-<td rowspan="2">№</td>
-<td rowspan="2">Аудан нөмірі</td>
-<td colspan="2" rowspan="2">Аулардың саны, дана</td>
-<td colspan="2" rowspan="2">Керме аулар саны, дана</td>
-<td colspan="3" rowspan="2">Балық аулаумен айналысатын балықшылар саны</td>
+<td>№</td>
+<td>Аудан нөмірі</td>
+<td>Аулардың саны, дана</td>
+<td colspan="2">Керме аулар саны, дана</td>
+<td colspan="3">Балық аулаумен айналысатын балықшылар саны</td>
 <td colspan="6">Саны, бірлік</td>
 </tr>
 <tr>
@@ -293,7 +294,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <tr>
 <td>1</td>
 <td>2</td>
-<td colspan="2">3</td>
+<td>3</td>
 <td colspan="2">4</td>
 <td colspan="3">5</td>
 <td colspan="3">6</td>
@@ -302,7 +303,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <tr>
 <td>1</td>
 <td>1</td>
-<td colspan="2">314</td>
+<td>314</td>
 <td colspan="2">15</td>
 <td colspan="3">106</td>
 <td colspan="3">11</td>
@@ -311,7 +312,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <tr>
 <td>2</td>
 <td>2</td>
-<td colspan="2">403</td>
+<td>403</td>
 <td colspan="2">10</td>
 <td colspan="3">80</td>
 <td colspan="3">13</td>
@@ -320,7 +321,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <tr>
 <td>3</td>
 <td>3</td>
-<td colspan="2">527</td>
+<td>527</td>
 <td colspan="2">11</td>
 <td colspan="3">92</td>
 <td colspan="3">17</td>
@@ -329,7 +330,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <tr>
 <td>4</td>
 <td>4</td>
-<td colspan="2">431</td>
+<td>431</td>
 <td colspan="2">7</td>
 <td colspan="3">64</td>
 <td colspan="3">15</td>
@@ -338,7 +339,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <tr>
 <td>5</td>
 <td>5</td>
-<td colspan="2">276</td>
+<td>276</td>
 <td colspan="2">1</td>
 <td colspan="3">20</td>
 <td colspan="3">9</td>
@@ -347,7 +348,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <tr>
 <td>6</td>
 <td>6</td>
-<td colspan="2">545</td>
+<td>545</td>
 <td colspan="2">5</td>
 <td colspan="3">57</td>
 <td colspan="3">18</td>
@@ -356,7 +357,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <tr>
 <td>7</td>
 <td>7</td>
-<td colspan="2">473</td>
+<td>473</td>
 <td colspan="2">2</td>
 <td colspan="3">36</td>
 <td colspan="3">16</td>
@@ -365,7 +366,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <tr>
 <td>8</td>
 <td>8</td>
-<td colspan="2">201</td>
+<td>201</td>
 <td colspan="2">1</td>
 <td colspan="3">16</td>
 <td colspan="3">7</td>
@@ -374,7 +375,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <tr>
 <td>9</td>
 <td>9</td>
-<td colspan="2">201</td>
+<td>201</td>
 <td colspan="2">1</td>
 <td colspan="3">16</td>
 <td colspan="3">7</td>
@@ -383,7 +384,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <tr>
 <td>10</td>
 <td>10</td>
-<td colspan="2">101</td>
+<td>101</td>
 <td colspan="2">1</td>
 <td colspan="3">11</td>
 <td colspan="3">3</td>
@@ -392,7 +393,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 <tr>
 <td>11</td>
 <td>11</td>
-<td colspan="2">128</td>
+<td>128</td>
 <td colspan="2">-</td>
 <td colspan="3">6</td>
 <td colspan="3">4</td>
@@ -400,7 +401,7 @@ source: https://zan.gov.kz/client/#!/doc/123986/kaz/29.05.2019
 </tr>
 <tr>
 <td colspan="2">Барлығы</td>
-<td colspan="2">3600</td>
+<td>3600</td>
 <td colspan="2">54</td>
 <td colspan="3">504</td>
 <td colspan="3">120</td>
