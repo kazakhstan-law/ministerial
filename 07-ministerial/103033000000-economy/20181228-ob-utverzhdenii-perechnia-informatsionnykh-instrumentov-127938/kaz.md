@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/127938/kaz/28.12.2018
+source: https://zan.gov.kz/client/#!/doc/127938/kaz/20.10.2020
 ---
 
 # Ақпараттық құралдар тізбесін бекіту туралы
