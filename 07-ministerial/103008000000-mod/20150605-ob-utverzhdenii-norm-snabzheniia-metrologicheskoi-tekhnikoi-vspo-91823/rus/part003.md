@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/91823/rus/05.06.2015
+source: https://zan.gov.kz/client/#!/doc/91823/rus/27.10.2020
 ---
 
 Примечание: основные сокращения, используемые в Нормах снабжения:

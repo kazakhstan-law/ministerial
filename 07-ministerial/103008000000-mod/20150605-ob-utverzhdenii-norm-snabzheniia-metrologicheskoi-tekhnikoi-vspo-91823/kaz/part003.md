@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/91823/kaz/05.06.2015
+source: https://zan.gov.kz/client/#!/doc/91823/kaz/27.10.2020
 ---
 
 Ескерту: Жабдықтау нормаларында пайдаланылатын негізгі қысқартулар:
