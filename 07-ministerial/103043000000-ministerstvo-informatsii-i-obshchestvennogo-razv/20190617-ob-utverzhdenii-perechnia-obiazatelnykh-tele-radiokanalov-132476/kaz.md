@@ -1,5 +1,5 @@
 ---
-version_id: '132476_411184'
+version_id: '132476_488664'
 act_code: '132476'
 language: kaz
 title: Міндетті теле-, радиоарналар тізбесін бекіту туралы
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '103043000000'
 approval_date: 2019-06-17
-version_date: 2019-06-17
+version_date: 2020-10-28
 registry_number: '132476'
-source: https://zan.gov.kz/client/#!/doc/132476/kaz/17.06.2019
+caused_by:
+  code: '147980'
+  title: Қазақстан Республикасы Ақпарат және қоғамдық даму министрінің кейбір бұйрықтарына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/147980/kaz
+source: https://zan.gov.kz/client/#!/doc/132476/kaz/28.10.2020
 ---
 
 # Міндетті теле-, радиоарналар тізбесін бекіту туралы
@@ -50,6 +54,8 @@ source: https://zan.gov.kz/client/#!/doc/132476/kaz/17.06.2019
 > *бекітілген*
 
 ## Міндетті теле-, радиоарналар тізбесі
+
+> *Ескерту. Тізбеге өзгерістер енгізілді - ҚР Ақпарат және қоғамдық даму министрінің 28.10.2020 № 354 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
@@ -89,11 +95,11 @@ source: https://zan.gov.kz/client/#!/doc/132476/kaz/17.06.2019
 </tr>
 <tr>
 <td>7.</td>
-<td>«Kazakh TV»</td>
+<td>«МИР»</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>«TamashaTV»</td>
+<td>«ABAI TV»</td>
 </tr>
 <tr>
 <td>9.</td>
