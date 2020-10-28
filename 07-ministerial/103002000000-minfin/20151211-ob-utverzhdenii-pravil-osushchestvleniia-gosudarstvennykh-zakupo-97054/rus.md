@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/97054/rus/01.10.2020
+source: https://zan.gov.kz/client/#!/doc/97054/rus/28.10.2020
 ---
 
 # Об утверждении Правил осуществления государственных закупок
