@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/132474/rus/17.06.2019
+source: https://zan.gov.kz/client/#!/doc/132474/rus/28.10.2020
 ---
 
 # Об утверждении перечня теле-, радиоканалов свободного доступа, распространяемых национальным оператором
@@ -25,5057 +25,3898 @@ source: https://zan.gov.kz/client/#!/doc/132474/rus/17.06.2019
 5. Настоящий приказ вводится в действие после дня его первого официального опубликования.
 
 > *Утвержден*  
-> *приказом Министра информации и*  
-> *общественного развития*  
+> *приказом Министра*  
+> *информации*  
+> *и общественного развития*  
 > *Республики Казахстан*  
-> *от «____»___________ 2019 года*  
-> *№____*
+> *от 17 июня 2019 года*  
+> *№ 172*
 
 ## Перечень теле-, радиоканалов свободного доступа, распространяемых национальным оператором телерадиовещания
 
+> *Сноска. Перечень в редакции приказа Министра информации и общественного развития РК от 28.10.2020 № 354 (вводится в действие после дня его первого официального опубликования).*
+
 <table>
 <tr>
-<td colspan="2">№</td>
-<td>Наименование теле-, радиоканалов свободного доступа, распространяемых национальным оператором</td>
-<td>Административная территориальная единица, на которой осуществляется вещание</td>
+<th>№</th>
+<th colspan="3">Наименование теле-, радиоканалов свободного доступа, распространяемых национальным оператором</th>
+<th colspan="3">Административная территориальная единица, на которой осуществляется вещание</th>
 </tr>
 <tr>
 <td>1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<th colspan="7">1. Теле-, радиоканалы, распространяемые посредством цифрового эфирного телерадиовещания</th>
+</tr>
+<tr>
+<th colspan="7">г. Нур-Султан</th>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="26">г. Нур-Султан</td>
+</tr>
+<tr>
 <td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
 <td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
 <td>4</td>
+<td colspan="3">«BALAPAN»</td>
 </tr>
 <tr>
-<td colspan="4">1. Теле-, радиоканалы, распространяемые посредством цифрового эфирного телерадиовещания</td>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
 </tr>
 <tr>
-<td colspan="4">г. Нур-Султан</td>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
 </tr>
 <tr>
-<td>1.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="30">г. Нур-Султан</td>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
 </tr>
 <tr>
-<td>2.</td>
-<td>2.</td>
-<td>«Хабар»</td>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
 </tr>
 <tr>
-<td>3.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
+<td>9</td>
+<td colspan="3">«Астана»</td>
 </tr>
 <tr>
-<td>4.</td>
-<td>4.</td>
-<td>«Balapan»</td>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
 </tr>
 <tr>
-<td>5.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
+<td>11</td>
+<td colspan="3">«МИР»</td>
 </tr>
 <tr>
-<td>6.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
+<td>12</td>
+<td colspan="3">«КТК»</td>
 </tr>
 <tr>
-<td>7.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
+<td>13</td>
+<td colspan="3">«НТК»</td>
 </tr>
 <tr>
-<td>8.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
+<td>14</td>
+<td colspan="3">«Седьмой канал»</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>9.</td>
-<td>«Астана»</td>
+<td>15</td>
+<td colspan="3">«31 канал»</td>
 </tr>
 <tr>
-<td>10.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
+<td>16</td>
+<td colspan="3">«СТВ»</td>
 </tr>
 <tr>
-<td>11.</td>
-<td>11.</td>
+<td>17</td>
+<td colspan="3">«Almaty»</td>
 </tr>
 <tr>
-<td>12.</td>
-<td>12.</td>
+<td>18</td>
+<td colspan="3">«Асыл Арна»</td>
 </tr>
 <tr>
-<td>13.</td>
-<td>13.</td>
-<td>«QAZSPORT»</td>
+<td>19</td>
+<td colspan="3">«ATAMEKEN BUSINESS»</td>
 </tr>
 <tr>
-<td>14.</td>
-<td>14.</td>
-<td>«Мир»</td>
+<td>20</td>
+<td colspan="3">«Тұран ТВ»</td>
 </tr>
 <tr>
-<td>15.</td>
-<td>15.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
+<td>21</td>
+<td colspan="3">«ТАН» («ON TV»)</td>
 </tr>
 <tr>
-<td>16.</td>
-<td>16.</td>
-<td>«Независимый Телевизионный канал»</td>
+<td>22</td>
+<td colspan="3">«Hit TV»</td>
 </tr>
 <tr>
-<td>17.</td>
-<td>17.</td>
-<td>«Седьмой канал»</td>
+<td>23</td>
+<td colspan="3">«Gakku Media»</td>
 </tr>
 <tr>
-<td>18.</td>
-<td>18.</td>
-<td>«31 канал»</td>
+<td>24</td>
+<td colspan="3">«MUZLIFE»</td>
 </tr>
 <tr>
-<td>19.</td>
-<td>19.</td>
-<td>«СТВ»</td>
+<td>25</td>
+<td colspan="3">«Той думан»</td>
 </tr>
 <tr>
-<td>20.</td>
-<td>20.</td>
-<td>«Almaty»</td>
+<td>26</td>
+<td colspan="3">«Новое телевидение»</td>
 </tr>
 <tr>
-<td>21.</td>
-<td>21.</td>
-<td>«Асыл Арна»</td>
+<th colspan="7">г. Алматы</th>
 </tr>
 <tr>
-<td>22.</td>
-<td>22.</td>
-<td>«MuzLife»</td>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="26">г. Алматы</td>
 </tr>
 <tr>
-<td>23.</td>
-<td>23.</td>
-<td>«MUZZONE TV»</td>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
 </tr>
 <tr>
-<td>24.</td>
-<td>24.</td>
-<td>«Gakku Media»</td>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
 </tr>
 <tr>
-<td>25.</td>
-<td>25.</td>
-<td>«ОҢ ТВ»</td>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
 </tr>
 <tr>
-<td>26.</td>
-<td>26.</td>
-<td>«Магия кухни»</td>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
 </tr>
 <tr>
-<td>27.</td>
-<td>27.</td>
-<td>«Новое телевидение»</td>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
 </tr>
 <tr>
-<td>28.</td>
-<td>28.</td>
-<td>«Халық арна»</td>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
 </tr>
 <tr>
-<td>29.</td>
-<td>29.</td>
-<td>«Той Думан»</td>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
 </tr>
 <tr>
-<td>30.</td>
-<td>30.</td>
-<td>«Zhuldyz TV»</td>
+<td>9</td>
+<td colspan="3">«Almaty»</td>
 </tr>
 <tr>
-<td colspan="4">г. Алматы</td>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
 </tr>
 <tr>
-<td>31.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="30">г. Алматы</td>
+<td>11</td>
+<td colspan="3">«МИР»</td>
 </tr>
 <tr>
-<td>32.</td>
-<td>2.</td>
-<td>«Хабар»</td>
+<td>12</td>
+<td colspan="3">«Астана»</td>
 </tr>
 <tr>
-<td>33.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
+<td>13</td>
+<td colspan="3">«КТК»</td>
 </tr>
 <tr>
-<td>34.</td>
-<td>4.</td>
-<td>«Balapan»</td>
+<td>14</td>
+<td colspan="3">«НТК»</td>
 </tr>
 <tr>
-<td>35.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
+<td>15</td>
+<td colspan="3">«Седьмой канал»</td>
 </tr>
 <tr>
-<td>36.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
+<td>16</td>
+<td colspan="3">«31 канал»</td>
 </tr>
 <tr>
-<td>37.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
+<td>17</td>
+<td colspan="3">«СТВ»</td>
 </tr>
 <tr>
-<td>38.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
+<td>18</td>
+<td colspan="3">«Асыл Арна»</td>
 </tr>
 <tr>
-<td>39.</td>
-<td>9.</td>
-<td>«Жетысу»</td>
+<td>19</td>
+<td colspan="3">«ATAMEKEN BUSINESS»</td>
 </tr>
 <tr>
-<td>40.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
+<td>20</td>
+<td colspan="3">«Тұран ТВ»</td>
 </tr>
 <tr>
-<td>41.</td>
-<td>11.</td>
+<td>21</td>
+<td colspan="3">«ТАН» («ON TV»)</td>
 </tr>
 <tr>
-<td>42.</td>
-<td>12.</td>
+<td>22</td>
+<td colspan="3">«Hit TV»</td>
 </tr>
 <tr>
-<td>43.</td>
-<td>13.</td>
-<td>«QAZSPORT»</td>
+<td>23</td>
+<td colspan="3">«Gakku Media»</td>
 </tr>
 <tr>
-<td>44.</td>
-<td>14.</td>
-<td>«Мир»</td>
+<td>24</td>
+<td colspan="3">«MUZLIFE»</td>
 </tr>
 <tr>
-<td>45.</td>
-<td>15.</td>
-<td>«Almaty»</td>
+<td>25</td>
+<td colspan="3">«MUZZONE TV»</td>
 </tr>
 <tr>
-<td>46.</td>
-<td>16.</td>
-<td>«Астана»</td>
+<td>26</td>
+<td colspan="3">«Той Думан»</td>
 </tr>
 <tr>
-<td>47.</td>
-<td>17.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
+<th colspan="7">г. Шымкент</th>
 </tr>
 <tr>
-<td>48.</td>
-<td>18.</td>
-<td>«Независимый Телевизионный канал»</td>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="25">г. Шымкент</td>
 </tr>
 <tr>
-<td>49.</td>
-<td>19.</td>
-<td>«Седьмой канал»</td>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
 </tr>
 <tr>
-<td>50.</td>
-<td>20.</td>
-<td>«31 канал»</td>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
 </tr>
 <tr>
-<td>51.</td>
-<td>21.</td>
-<td>«СТВ»</td>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
 </tr>
 <tr>
-<td>52.</td>
-<td>22.</td>
-<td>«Асыл Арна»</td>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
 </tr>
 <tr>
-<td>53.</td>
-<td>23.</td>
-<td>«MuzLife»</td>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
 </tr>
 <tr>
-<td>54.</td>
-<td>24.</td>
-<td>«Gakku Media»</td>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
 </tr>
 <tr>
-<td>55.</td>
-<td>25.</td>
-<td>«ОҢ ТВ»</td>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
 </tr>
 <tr>
-<td>56.</td>
-<td>26.</td>
-<td>«Тұран ТВ»</td>
+<td>9</td>
+<td colspan="3">«OŃTÚSTIK»</td>
 </tr>
 <tr>
-<td>57.</td>
-<td>27.</td>
-<td>«Магия кухни»</td>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
 </tr>
 <tr>
-<td>58.</td>
-<td>28.</td>
-<td>«Халық арна»</td>
+<td>11</td>
+<td colspan="3">«МИР»</td>
 </tr>
 <tr>
-<td>59.</td>
-<td>29.</td>
-<td>«Той Думан»</td>
+<td>12</td>
+<td colspan="3">«Астана»</td>
 </tr>
 <tr>
-<td>60.</td>
-<td>30.</td>
-<td>«Zhuldyz TV»</td>
+<td>13</td>
+<td colspan="3">«КТК»</td>
 </tr>
 <tr>
-<td colspan="4">г. Шымкент</td>
+<td>14</td>
+<td colspan="3">«НТК»</td>
 </tr>
 <tr>
-<td>61.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="30">г. Шымкент</td>
+<td>15</td>
+<td colspan="3">«Седьмой канал»</td>
 </tr>
 <tr>
-<td>62.</td>
-<td>2.</td>
-<td>«Хабар»</td>
+<td>16</td>
+<td colspan="3">«31 канал»</td>
 </tr>
 <tr>
-<td>63.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
+<td>17</td>
+<td colspan="3">«СТВ»</td>
 </tr>
 <tr>
-<td>64.</td>
-<td>4.</td>
-<td>«Balapan»</td>
+<td>18</td>
+<td colspan="3">«Almaty»</td>
 </tr>
 <tr>
-<td>65.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
+<td>19</td>
+<td colspan="3">«Асыл Арна»</td>
 </tr>
 <tr>
-<td>66.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
+<td>20</td>
+<td colspan="3">«ATAMEKEN BUSINESS»</td>
 </tr>
 <tr>
-<td>67.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
+<td>21</td>
+<td colspan="3">«Тұран ТВ»</td>
 </tr>
 <tr>
-<td>68.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
+<td>22</td>
+<td colspan="3">«Turkistan Media»</td>
 </tr>
 <tr>
-<td>69.</td>
-<td>9.</td>
-<td>«ON’TU’STIK»</td>
+<td>23</td>
+<td colspan="3">«MUZLIFE»</td>
 </tr>
 <tr>
-<td>70.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
+<td>24</td>
+<td colspan="3">«Айгак ТВ»</td>
 </tr>
 <tr>
-<td>71.</td>
-<td>11.</td>
+<td>25</td>
+<td colspan="3">«Отырар ТВ»</td>
 </tr>
 <tr>
-<td>72.</td>
-<td>12.</td>
+<th colspan="7">Акмолинская область</th>
 </tr>
 <tr>
-<td>73.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="26">г. Кокшетау</td>
 </tr>
 <tr>
-<td>74.</td>
-<td>14.</td>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
 </tr>
 <tr>
-<td>75.</td>
-<td>15.</td>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
 </tr>
 <tr>
-<td>76.</td>
-<td>16.</td>
-<td>«Мир»</td>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
 </tr>
 <tr>
-<td>77.</td>
-<td>17.</td>
-<td>«Астана»</td>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
 </tr>
 <tr>
-<td>78.</td>
-<td>18.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
 </tr>
 <tr>
-<td>79.</td>
-<td>19.</td>
-<td>«Независимый Телевизионный канал»</td>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
 </tr>
 <tr>
-<td>80.</td>
-<td>20.</td>
-<td>«Седьмой канал»</td>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
 </tr>
 <tr>
-<td>81.</td>
-<td>21.</td>
-<td>«31 канал»</td>
+<td>9</td>
+<td colspan="3">«KÓKSHE»</td>
 </tr>
 <tr>
-<td>82.</td>
-<td>22.</td>
-<td>«СТВ»</td>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
 </tr>
 <tr>
-<td>83.</td>
-<td>23.</td>
-<td>«Almaty»</td>
+<td>11</td>
+<td colspan="3">«МИР»</td>
 </tr>
 <tr>
-<td>84.</td>
-<td>24.</td>
-<td>«Асыл Арна»</td>
+<td>12</td>
+<td colspan="3">«Астана»</td>
 </tr>
 <tr>
-<td>85.</td>
-<td>25.</td>
-<td>«MUZZONE TV»</td>
+<td>13</td>
+<td colspan="3">«КТК»</td>
 </tr>
 <tr>
-<td>86.</td>
-<td>26.</td>
-<td>«Агро ТВ»</td>
+<td>14</td>
+<td colspan="3">«НТК»</td>
 </tr>
 <tr>
-<td>87.</td>
-<td>27.</td>
-<td>«Айғақ»</td>
+<td>15</td>
+<td colspan="3">«Седьмой канал»</td>
 </tr>
 <tr>
-<td>88.</td>
-<td>28.</td>
-<td>«Отырар TV»</td>
+<td>16</td>
+<td colspan="3">«31 канал»</td>
 </tr>
 <tr>
-<td>89.</td>
-<td>29.</td>
-<td>«NAR TV»</td>
+<td>17</td>
+<td colspan="3">«СТВ»</td>
 </tr>
 <tr>
-<td>90.</td>
-<td>30.</td>
-<td>«ELNUR TV»</td>
+<td>18</td>
+<td colspan="3">«Almaty»</td>
 </tr>
 <tr>
-<td colspan="4">Акмолинская область</td>
+<td>19</td>
+<td colspan="3">«Асыл Арна»</td>
 </tr>
 <tr>
-<td>91.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="30">г. Кокшетау</td>
+<td>20</td>
+<td colspan="3">«ATAMEKEN BUSINESS»</td>
 </tr>
 <tr>
-<td>92.</td>
-<td>2.</td>
-<td>«Хабар»</td>
+<td>21</td>
+<td colspan="3">«Тұран ТВ»</td>
 </tr>
 <tr>
-<td>93.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
+<td>22</td>
+<td colspan="3">«Hit TV»</td>
 </tr>
 <tr>
-<td>94.</td>
-<td>4.</td>
-<td>«Balapan»</td>
+<td>23</td>
+<td colspan="3">«Gakku Media»</td>
 </tr>
 <tr>
-<td>95.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
+<td>24</td>
+<td colspan="3">«MUZLIFE»</td>
 </tr>
 <tr>
-<td>96.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
+<td>25</td>
+<td colspan="3">«ТАН» («ON TV»)</td>
 </tr>
 <tr>
-<td>97.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
+<td>26</td>
+<td colspan="3">«Новое телевидение»</td>
 </tr>
 <tr>
-<td>98.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>99.</td>
-<td>9.</td>
-<td>«KO’KS’E»</td>
-</tr>
-<tr>
-<td>100.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>101.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>102.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>103.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>104.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>105.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td>106.</td>
-<td>16.</td>
-<td>«Мир»</td>
-</tr>
-<tr>
-<td>107.</td>
-<td>17.</td>
-<td>«Астана»</td>
-</tr>
-<tr>
-<td>108.</td>
-<td>18.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
-</tr>
-<tr>
-<td>109.</td>
-<td>19.</td>
-<td>«Независимый Телевизионный канал»</td>
-</tr>
-<tr>
-<td>110.</td>
-<td>20.</td>
-<td>«Седьмой канал»</td>
-</tr>
-<tr>
-<td>111.</td>
-<td>21.</td>
-<td>«31 канал»</td>
-</tr>
-<tr>
-<td>112.</td>
-<td>22.</td>
-<td>«СТВ»</td>
-</tr>
-<tr>
-<td>113.</td>
-<td>23.</td>
-<td>«Almaty»</td>
-</tr>
-<tr>
-<td>114.</td>
-<td>24.</td>
-<td>«Асыл Арна»</td>
-</tr>
-<tr>
-<td>115.</td>
-<td>25.</td>
-<td>«MuzLife»</td>
-</tr>
-<tr>
-<td>116.</td>
-<td>26.</td>
-<td>«Gakku Media»</td>
-</tr>
-<tr>
-<td>117.</td>
-<td>27.</td>
-<td>«ОҢ ТВ»</td>
-</tr>
-<tr>
-<td>118.</td>
-<td>28.</td>
-<td>«Агро ТВ»</td>
-</tr>
-<tr>
-<td>119.</td>
-<td>29.</td>
-<td>«Тұран ТВ»</td>
-</tr>
-<tr>
-<td>120.</td>
-<td>30.</td>
-<td>«TDQ 42»</td>
-</tr>
-<tr>
-<td>121.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="14">
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">
 Жаркаинский район
 г. Державинск
 </td>
 </tr>
 <tr>
-<td>122.</td>
-<td>2.</td>
-<td>«Хабар»</td>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
 </tr>
 <tr>
-<td>123.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
 </tr>
 <tr>
-<td>124.</td>
-<td>4.</td>
-<td>«Balapan»</td>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
 </tr>
 <tr>
-<td>125.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
 </tr>
 <tr>
-<td>126.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
 </tr>
 <tr>
-<td>127.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
 </tr>
 <tr>
-<td>128.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
 </tr>
 <tr>
-<td>129.</td>
-<td>9.</td>
-<td>«KO’KS’E»</td>
+<td>9</td>
+<td colspan="3">«KÓKSHE»</td>
 </tr>
 <tr>
-<td>130.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
 </tr>
 <tr>
-<td>131.</td>
-<td>11.</td>
+<td>11</td>
+<td colspan="3">«Сарыарка ТВ»</td>
 </tr>
 <tr>
-<td>132.</td>
-<td>12.</td>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">г. Степногорск</td>
 </tr>
 <tr>
-<td>133.</td>
-<td>13.</td>
-<td>«QAZSPORT»</td>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
 </tr>
 <tr>
-<td>134.</td>
-<td>14.</td>
-<td>«Сарыарка-tv»</td>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
 </tr>
 <tr>
-<td>135.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">
-Аккольский район, г.Акколь, с.Урюпинка,
-Аршалынский район, п.Аршалы,
-Астраханский район, с.Астраханка, с.Петровка,
-Атбасарский район, г.Атбасар,
-Бурабайский район, с.Зеленый Бор, с.Кызылагаш, с.Николаевка, с.Урумкай, г.Щучинск,
-район Биржан сала, с.Заозерное, с.Макинка, с.Степняк,
-Буландынский район, с.Журавлевка, с.Капитоновка, г.Макинск, с.Никольское, с.Новобратское, а.Токтамыс,
-Егиндыкольский район, с.Егиндыколь,
-Ерейментауский район, г.Ерейментау, с.Новомарковка, с.Селетинское,
-Есильский район, с.Ейское, г.Есиль, с.Заречное,
-Жаксынский район, с.Жаксы, с.Киима, с.Перекатное, с.Ишимское,
-Зерендинский район, с.Викторовка, с.Жылымды, с.Зеренда, с.Караозек,
-Сандыктауский район, с.Каменка, с.Балкашино, с.Богородка,
-Коргалжынский район, с.Коргалжын,
-Целиноградский район, с.Жалгызкудук,
-Шортандинский район, п.Жолымбет, с.Петровка, п.Шортанды, г.Степногорск, с.Бестобе, с.Шантобе
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«KÓKSHE»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">г. Степняк, г. Атбасар, г. Есиль, г. Ерейментау, с. Коргалжын, п. Шантобе, г. Щучинск, с. Балкашино, п. Бестобе, с. Жаксы, с. Зеленый Бор, с. Киима, г. Макинск, с. Новобратское, п. Аршалы, с. Астраханка, с. Егиндыколь, с. Жангызкудук, п. Жолымбет, с. Петровка, с. Петровка, с. Перекатное, с. Селетинское, с. Жылымды, с. Караозек, с. Кызылагаш, с. Урумкай, с. Богородка, с. Hиколаевка, с. Викторовка, с. Макинка, с. Ишимское, с. Ейское, с. Токтамыс, с. Капитоновка, с. Hикольское, с. Урюпинка, с. Новомарковка, с. Журавлевка, с. Заозерное, с. Заречное, с. Каменка, с. Зеренда</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«KÓKSHE»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">г. Акколь, п. Шортанды</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«KÓKSHE»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«Tay City Media»</td>
+</tr>
+<tr>
+<th colspan="7">Актюбинская область</th>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="25">г. Актобе</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«AQTÓBE»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Астана»</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«КТК»</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="3">«НТК»</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="3">«Седьмой канал»</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3">«31 канал»</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">«СТВ»</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="3">«Almaty»</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="3">«Асыл Арна»</td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="3">«ATAMEKEN BUSINESS»</td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="3">«Тұран ТВ»</td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="3">«ТАН» («ON TV»)</td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="3">«Gakku Media»</td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="3">«MUZLIFE»</td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="3">«TDQ-42»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">г. Кандыагаш, г. Хромтау, г. Шалкар, с. Карауылкелды, с. Иргиз, с. Карабутак, г. Темир, г. Эмба, с. Акеспе, с. Копа, с. Акраб, с. Кызылжар, с. Байжанкол, с. Бадамша, с. Биршогыр, с. Бозой, с. Кенкияк, с. Комсомольское, с. Кызылжар, с. Мартук, с. Тамды, с. Уил, с. Яйсан, с. Кумкудук, г. Алга, п. Шубаркудук, с. Айке, с. Аккемер, с. Аккум, с. Алтыкарасу, с. Бегалы, с. Булак, с. Жамбыл, с. Жанаталап, с. Акай, с. Акжар, с. Кемер, с. Кос-Истек, с. Мугалжар, с. Жанажол, с. Теренсай, с. Кобда, с. Хазретовка, с. Шанды, с. Дмитриевка, с. Аккемер, с. Булакты, с. Карагандысай, с. Нура, с. Актасты, с. Алимбет, с. Бозтобе, с. Болгарка, с. Велиховка, с. Ащылысай, с. Жаркамыс, с. Караой, с. Карахобда, с. Коптогай, с. Отек, с. Байнассай, с. Сарат, с. Сарбулак, с. Талдысай, с. Толыбай, с. Тымабулак, с. Ушкатты, с. Акжайык, с. Шыгырлы, с. Аккайын, с. Бегимбет, с. Талдысай, с. Ортак, с. Полтавка, с. Жагабулак, с. Канбакты, с. Енбек, с. Самбай, с. Аксу, с. Шибулак, с. Табантал, с. Карабутак, с. Караганда, с. Талдык, с. Аксай</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«AQTÓBE»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<th colspan="7">Алматинская область</th>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">с. Толкын, с. Тасашы (Шольадыр), с. Баканас, г. Жаркент, г. Сарканд, п. Улькен, г. Ушарал, с. Жаланаш, с. Жанашар, с. Капал, с. Коныролен, с. Лепсинск, п. Лепсы, с. Койлык, с. Сапак, с. Кокшокы (Алма-Арасан), с. Шыбышы, г. Текели, с. Актерек, Ферма 1 Шилису, с. Кызылсок, с. Жанакурылыс, с. Ашим, с. Умбеталы Карибаева, с. Аксенгир, с. Акши, с. Ынтымак, с. Косагаш, с. Екпенди, с. Унгуртас, с. Алмалы, с. Лесновка, с. Талдыбулак, с. Сырымбет, с. Жайдакбулак, с. Кокдала, п. Балпык, г. Текели (2 кордон), с. Чимбулак, с. Ащису, с. Архарлы, с. Суыксай, с. Сумбе, с. Суранши батыр, с. Таутургень, с. Токжайлау, с. Тополевка, с. им. М.Тулебаева, п. Туюк, с. Узынбулак, с. Ушбулак, с. Хоргос, с. Ащыбулак, с. Шатырбай, с. Алмалы, с. Балатопар, с. Баскунши, с. Басши, с. Бериктас, п. Достык, с. Екиаша, г. Есик, с. Жумахан Балапанов, с. Жалаулы, с. Желторангы, с. Какпак, с. Карабулак, с. Каргалы, с. Кастек, с. Кокжар, с. Куйган, с. Курмети, с. Кызылагаш, уч. Кызылуш, с. Акын Сара, с. Алгабас, с. Аманбоктер, с. Сарыбастау, с. Сарытобе, с. Саты,с. Копалы, с. Жалгызагаш, с. Сагакурес, с. Самсы, с. Карабастау, с. Дегерес, с. Нурлы, с. Кайнар, с. Рыскулово</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">«Хабар HD»</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«Жетысу»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="26">Коксуйский район с. Актекше (г. Большой Шаган)</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«Жетысу»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Астана»</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«КТК»</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="3">«НТК»</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="3">«Седьмой канал»</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3">«31 канал»</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">«СТВ»</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="3">«Almaty»</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="3">«Асыл Арна»</td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="3">«ATAMEKEN BUSINESS»</td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="3">«Тұран ТВ»</td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="3">«Hit TV»</td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="3">«Gakku Media»</td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="3">«Той Думан»</td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="3">«Новое телевидение»</td>
+</tr>
+<tr>
+<td>26</td>
+<td colspan="3">«TDQ-42»</td>
+</tr>
+<tr>
+<th colspan="7">Атырауская область</th>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="26">г. Атырау</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«ATYRAÝ»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Астана»</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«КТК»</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="3">«НТК»</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="3">«Седьмой канал»</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3">«31 канал»</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">«СТВ»</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="3">«Almaty»</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="3">«Асыл Арна»</td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="3">«ATAMEKEN BUSINESS»</td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="3">«Тұран ТВ»</td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="3">«MUZLIFE»</td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="3">«Gakku Media»</td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="3">«TDQ-42»</td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="3">«Caspian News»</td>
+</tr>
+<tr>
+<td>26</td>
+<td colspan="3">«Той Думан»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">г. Кульсары, с. Коктогай, п. Индерборский, п. Макат, с. Ганюшкино, с. Аккистау, с. Караколь, с. Махамбет, с. Миялы, с. Мукур, с. Сагиз, с. Асан, с. Балкудук, с. Батырбек, с. Жалгызапан, с. Зинеден, с. Сафоновка</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«ATYRAÝ»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«Caspian News»</td>
+</tr>
+<tr>
+<th colspan="7">Восточно-Казахстанская область</th>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="26">г. Усть-Каменогорск</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«ALTAI»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Астана»</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«КТК»</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="3">«НТК»</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="3">«Седьмой канал»</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3">«31 канал»</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">«СТВ»</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="3">«Almaty»</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="3">«Асыл Арна»</td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="3">«ATAMEKEN BUSINESS»</td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="3">«Тұран ТВ»</td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="3">«ТАН» («ON TV»)</td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="3">«Gakku Media»</td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="3">«Hit TV»</td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="3">«TDQ-42»</td>
+</tr>
+<tr>
+<td>26</td>
+<td colspan="3">«Новое телевидение»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="12">г. Семей</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">«Хабар SD»</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«ALTAI»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«SEMEI»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="10">г. Алтай, п. Октябрьский, г. Серебрянск</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«ALTAI»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">район Алтай - с. Баяновск, с. Березовка, с. Богатырево, с. Бородино, с. Быково, с. Ермакова, с. Зубовка, с. Кремнюха, с. Никольск, с. Октябрьский, п. Прибрежный, с. Средигорное, с. Феклистовка, с. Чиркаин, с. Путинцево, Д.О.Голубой залив</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«ALTAI»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="10">г. Аягоз, с. Баршатас, с. Карааул, с. Кокпекты, с. Маканчи, с. Самарское, с. Коянбай, п. Жангизтобе, с. Секисовка, с. Семеновка, с. Hовополяковка, с. Таскескен, с. Аршалы, с. Тишинский, п. Асубулак, с.Урджар, г. Шар, п. Ауэзов, г. Шемонаиха, с. Бескарагай, с. Байтогас, с. Бозанбай, с. Бородулиха, п. Верхнеберезовка, с. Акжар, с. Барлык, с. Сулусары, с. Каскабулак, с. Коростели, с. Караой, с. Курчум, п. Актогай, с. Hовая Шульба, п. Первомайский, г. Риддер, с. Сарыжал, с. Батпакты, с. Айгыз, с. Жазаба, с. Жарык, с. Выдриха, п. Жарма, с. Каменка, с. Вознесеновка, с. Уштобе, с. Подгорное, с. 8 Марта, с. Конырбиик, с. Топкаин, с. Укиликыз, с. Акши, с. Сарыарка, с. Салкынтобе, с. Енбек, с. Новостройка, с. Тарханка, с. Капанбулак, с. Каратобе, с. Кызылагаш, с. Кызылбулак, с. Каменный Карьер, с. Барлыкарасан, с. Былкылдак, п. Карагужиха, с. Hекрасовка, с. Алгабас, с. Амангельды, с. Бугубай, п. Жезкент, с. Архат, с. Тарбагатай, с. Аршаты, с. Таргын, с. Тарлаулы, с. Тассай, с. Теректы, с. Тоскаин, с. Урыль, п. Чаган, с. Черемшанка, с. Аккайнар, с. Шиликты, п. Шульбинск, с. Ай, с. Бахты, с. Аксу, с. Берель, с. Бесюй, с. Буран, с. Буркотово, с. Бурабай, с. Бутаково, с. Быструха, с. Верхние Таинты, с. Верх-Уба, с. Веселовка, с. Жайма, с. Акбулак, с. Жанаауыл, с. Жанаталап, с. Кабанбай, с. Кабанбай, с. Кайнар, с. Карабуйрат, с. Каракол, с. Каратогай, с. Кенюхово, с. Киндикты, с. Кокбай, с. Кокжыра, с. Коробиха, с. Кызылкесек, с. Курчумкистауы, с. Лайбулак, с. Киши Карасу, с. Малороссийка, с. Маралды, с. Мариногорка, п. Огневка, с. Акшокы, с. Палатцы, с. Пантелеймоновка, с. Поперечное, с. Привольное, с. Рулиха, с. Алтыншокы, с. Сегизбай, с. Миролюбовка, с. Бигаш, с. Убинка, с. Акжайлау, с. Ушбулак, с. Алексеевка, с. Кентарлау, с. Северное, с. Малай, г. Курчатов, с. Hовоандреевка, с. Токтамыс, с. Журекадыр, с. Благодатное, с. Баяш Утепов, , с. Бозтал, с. Изгутты Айтыков, с. Раздольное, с. Кандыковка, с. Белтерек, с. Койтас, с. Зимовье, с. Ерназар (с. Сосновка), с. Канонерка, с. Урунхайка, с. Оркен, с. Абралы, с. Кайнарлы, г. Зайсан, с. Коктерек, с. Белкарагай, с. Знаменка, с. Ивановка, с. Кабырга, с. Березовка</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«ALTAI»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<th colspan="7">Западно-Казахстанская область</th>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="26">г. Уральск</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«AQJAIYQ»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Астана»</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«КТК»</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="3">«НТК»</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="3">«Седьмой канал»</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3">«31 канал»</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">«СТВ»</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="3">«Almaty»</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="3">«Асыл Арна»</td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="3">«ATAMEKEN BUSINESS»</td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="3">«Тұран ТВ»</td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="3">«Hit TV»</td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="3">«Gakku Media»</td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="3">«MUZLIFE»</td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="3">«ТАН» («ON TV»)</td>
+</tr>
+<tr>
+<td>26</td>
+<td colspan="3">«TDQ-42»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">с. Чапаев, с. Жымпиты, с. Жалпактал, г. Аксай, с. Тасмола, с. Базартобе, с. Бисен, с. Борли, с. Жангала, с. Жанибек, с. Жаксыбай, с. Тау, с. Каратобе, с. Карауылтобе, с. Косколь, с. Лубенка, с. Жанаказан, с. Шалгай, с. Пятимар, с. Алмазное, с. Сайхин, с. Шынгырлау, с. Амангельды, с. Саралжын, с. Покатиловка, с. Онеге, с. Таловка, с. Таскала, с. Тонкерис, с. Ушана, с. Егиндибулак, с. Чесноково, с. Чижа 2, с. Янайкино, с. Белогорка, с. Болашак, с. Коктерек, с. Долинное, с. Егендыколь, с. Ерсары, с. Жанакуш, с. Казталовка, с. Аккудык, с. Коныр, с. Аксуат, с. Кошанколь, с. Красноармейское, с. Мерей, с. Мереке, с. Hурсай, с. Оян, с. Переметное, с. Полтавка, с. Достык, с. Уштобе, с. Хан Ордасы, с. Чинарево, с. Жігер, с. Погодаево, с. Тайпак</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«AQJAIYQ»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<th colspan="7">Жамбылская область</th>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="25">г. Тараз</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«JAMBYL»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Астана»</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«КТК»</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="3">«НТК»</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="3">«Седьмой канал»</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3">«31 канал»</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">«СТВ»</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="3">«Almaty»</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="3">«Асыл Арна»</td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="3">«ATAMEKEN BUSINESS»</td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="3">«Тұран ТВ»</td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="3">«Hit TV»</td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="3">«MUZLIFE»</td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="3">«77ТВ»</td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="3">«QARATAU TV»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">г. Шу, с. Мойынкум, ст. Шакпак, с. им.Рысбека батыра, с. Керу, с. Ойык, с. Улкенсулутор, ст. Шокпар, с. Жайлауколь, с. Узакбай Сыздыкбаева, с. Уланбель, с. Есей би, с. Терсащибулак, с. Кокжелек (с. Кушаман), ст. Бурубайтал, п. Аксуек, п. Мирный, с. Акколь, с. Актасты, с. Актогай, рзд. Бель, с. Кошек батыра, с. Кольтоган, с. Кордай (Чумыш), с. Куренбель, с. Кызтоган, с. Кайынды, с. Сарыозек, с. Ашира Буркитбаева, с. Кайнар, с. Караой, с. Алга, с. Каскабулак, с. Буденное, с. Кошкарата, с. Абдыкадыр, с. Масанчи, с. Западная, с. им. Карасай батыра, с. Кенен</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«JAMBYL»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">г. Жанатас, г. Каратау</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«JAMBYL»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«QARATAU TV»</td>
+</tr>
+<tr>
+<th colspan="7">Карагандинская область</th>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="26">г. Караганды</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«SARYARQA»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Астана»</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«КТК»</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="3">«НТК»</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="3">«Седьмой канал»</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3">«31 канал»</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">«СТВ»</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="3">«Almaty»</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="3">«Асыл Арна»</td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="3">«ATAMEKEN BUSINESS»</td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="3">«Gakku Media»</td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="3">«Первый Карагандинский»</td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="3">«5 канал»</td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="3">«Новое телевидение»</td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="3">«Твоё телевидение»</td>
+</tr>
+<tr>
+<td>26</td>
+<td colspan="3">«Жастар»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">г. Жезказган</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«SARYARQA»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«Дидар»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">с. Атасу, г. Балхаш, п. С. Сейфуллин, п. Акжал, с. Талды, п. Карагайлы, г. Каражал, с. Карамурун, г. Приозерск, п. Агадырь, с. Аксу-Аюлы, п. Молодежный, с. Актогай, п. Осакаровка, с. Жезды, с. Шешенкара, с. Кантай, с. Тогускен, с. Кошкарбай, с. Сункар, п. Карсакпай, с. Улытау, с. Егиндыбулак, с. Ералиево, с. Жарлы, с. Коктас, п. Мойынты, с. Жыланды, с. Пионерское, п. Саяк, с. Аппаз, с. Бесоба, с. Карим Мынбаев</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«SARYARQA»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<th colspan="7">Костанайская область</th>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="26">г. Костанай</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«QOSTANAI'»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Астана»</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«КТК»</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="3">«НТК»</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="3">«Седьмой канал»</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3">«31 канал»</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">«СТВ»</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="3">«Almaty»</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="3">«Асыл Арна»</td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="3">«ATAMEKEN BUSINESS»</td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="3">«Тұран ТВ»</td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="3">«MUZLIFE»</td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="3">«Gakku Media»</td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="3">«Алау ТВ»</td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="3">«TDQ-42»</td>
+</tr>
+<tr>
+<td>26</td>
+<td colspan="3">«Новое телевидение»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">г. Лисаковск</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«QOSTANAI'»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«Акцент»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="10">г. Рудный</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«QOSTANAI'»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">с. Узунколь, с. Шубалан, г. Житикара, п. Карабалык, п. Кушмурун, с. Амангельды, с. Уркаш, с. Федоровка, с. Адаевка, с. Боровской, с. Введенка, с. Владимировка, с. Денисовка, с. Караменды, с. Карасу, с. Майское, с. Hовонежинка, с. Октябрьское, с. Силантьевка, с. Каскат, с. Аулиеколь, с. Аятское, с. Буревестник, с. Милысай, с. Тарановское, с. Тимофеевка, с. Троебратский, с. Узынагаш, с. Дружба, с. Шили, с. Белояровка, с. Вишневое, с. Волгоградское, с. Диевка, с. Докучаевка, с. Збан, с. им.Кабидолла Тургумбае, с. Кенарал, с. Камысты, с. Коктал, с. Коктерек, с. Комсомольское, с. Воскресеновка, с. Лермонтово, с. Hовоселовка, с. Акшиганак, с. Пресногорьковка, с. Приречное, с. Раздольное, с. Алтынсарино, с. Аралколь, п. Сарыколь, с. Аккарга, п. Качар, с. Георгиевка</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«QOSTANAI'»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">г. Аркалык</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«QOSTANAI'»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«АРКА»</td>
+</tr>
+<tr>
+<th colspan="7">Кызылординская область</th>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="26">г. Кызылорда</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«QYZYLORDA»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Астана»</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«КТК»</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="3">«НТК»</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="3">«Седьмой канал»</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">«31 канал»</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">«СТВ»</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="3">«Almaty»</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="3">«Асыл Арна»</td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="3">«ATAMEKEN BUSINESS»</td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="3">«Тұран ТВ»</td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="3">«Hit TV»</td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="3">«Gakku Media»</td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="3">«MUZLIFE»</td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="3">«Той Думан»</td>
+</tr>
+<tr>
+<td>26</td>
+<td colspan="3">«Когам ТВ»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="13">Казалинский район - с. Айтике би</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">«Хабар SD»</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«QYZYLORDA»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Серик ТВ»</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«Когам ТВ»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">Казалинский район - с. Бекарыстан би, с. Тасарык, с. Шиели, г. Аральск, с. Жосалы, с. Актобе, ст. Камыстыбас, с. Карашалан, с. Саксаульский, с. Турмаганбет, с. Тастубек, с. Куланды, с. Бесарык, ст. Бекбауыл, с. Бирлик, с. Айдарлы, с. Акбасты, с. Жалагаш, с. Жанакурылыс, с. Макпалколь, с. Кандоз, с. Аккум, с. Абай, с. Косуйенки, с. Жанакала (Куандариа), с. Кызылжар, с. Еримбетжага</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«QYZYLORDA»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«Когам ТВ»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="13">с. Шалкия (Огизмуйиз)</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">«Хабар SD»</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«QYZYLORDA»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Когам ТВ»</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«Туран-Туркестан»</td>
+</tr>
+<tr>
+<th colspan="7">Мангистауская область</th>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="26">г. Актау</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«MAŃǴYSTAÝ»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Астана»</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«КТК»</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="3">«НТК»</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="3">«Седьмой канал»</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3">«31 канал»</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">«СТВ»</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="3">«Almaty»</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="3">«Асыл Арна»</td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="3">«ATAMEKEN BUSINESS»</td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="3">«Тұран ТВ»</td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="3">«Hit TV»</td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="3">«Gakku Media»</td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="3">«MUZLIFE»</td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="3">«AQTAU»</td>
+</tr>
+<tr>
+<td>26</td>
+<td colspan="3">«TDQ-42»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">г. Жанаозен</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«MAŃǴYSTAÝ»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«AQTAU»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">п. Жетыбай, г. Форт-Шевченко, с. Шайыр, с. Шетпе, с. Кызан, с. Боранкуль, с. Сайотес, с. Тущыкудук, с. Акжигит, с. Жармыш, с. Курык, с. Онды, с. Таушык, с. Сенек, с. Уштаган, с. Жынгылды, с. Кызылозен, п. Каражанбас, с. Бейнеу</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«MAŃǴYSTAÝ»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«AQTAU»</td>
+</tr>
+<tr>
+<th colspan="7">Павлодарская область</th>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="26">г. Павлодар</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«ERTIS»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Астана»</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«КТК»</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="3">«НТК»</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="3">«Седьмой канал»</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3">«31 канал»</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">«СТВ»</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="3">«Almaty»</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="3">«Асыл Арна»</td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="3">«ATAMEKEN BUSINESS»</td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="3">«Тұран ТВ»</td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="3">«MUZLIFE»</td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="3">«Gakku Media»</td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="3">«Ирбис ТВ»</td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="3">«TDQ-42»</td>
+</tr>
+<tr>
+<td>26</td>
+<td colspan="3">«Новое телевидение»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="13">г. Экибастуз</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">«Хабар SD»</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«ERTIS»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Экибастузская городская телекомпания»</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«Ирбис ТВ»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="10">с. Баянаул, с. Акку, с. Октябрьское, с. Голубовка, с. Успенка, с. Тендик, с. Михайловка, с. Арбигень, с. Тай, с. Чигириновка, с. Шалдай, с. Шоктал, с. Жанааул, с. Жанакурлыс, с. Жолболды, с. Ленино, с. Лозовое, с. Майконыр, с. Майское, с. Коныр Озек, с. Озерное, с. Орловка, с. Алаколь, с. Алексеевка, с. Северное, с. Акколь, с. Ивановка</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«ERTIS»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<th colspan="7">Северо-Казахстанская область</th>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="4">«QAZAQSTAN»</td>
+<td colspan="2" rowspan="26">г. Петропавловск</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="4">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="4">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="4">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="4">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="4">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="4">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="4">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="4">«QYZYLJAR»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="4">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="4">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="4">«Астана»</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="4">«КТК»</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="4">«НТК»</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="4">«Седьмой канал»</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="4">«31 канал»</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="4">«СТВ»</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="4">«Almaty»</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="4">«Асыл Арна»</td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="4">«ATAMEKEN BUSINESS»</td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="4">«Тұран ТВ»</td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="4">«Hit TV»</td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="4">«Gakku Media»</td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="4">«Новое телевидение»</td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="4">«МТРК»</td>
+</tr>
+<tr>
+<td>26</td>
+<td colspan="4">«Первый Северный»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="4">«QAZAQSTAN»</td>
+<td colspan="2" rowspan="11">с. Узунколь, с. Кишкенеколь, с. Hиколаевка, с. Рузаевка, с. Ленинградское, с. Тахтаброд, с. Тимирязево, с. Украинское, с. Мерген, с. Чистополье, с. Чкалово, г. Булаево, с. Есиль, с. Киялы, с. Сухорабовка, с. Пресновка, с. Рощинское, с. Светлое, с. Кулыколь, с. Афанасьевка, с. Горьковское, с. Узынжар, с. Лобаново, с. Агынтай батыра, с. Сырымбет, с. Арыкбалык, с. Благовещенка, с. Имантау, с. Кайрат, с. Каратерек, с. Лавровка, с. Михайловка, с. Hикольско-Бурлукское, с. Hовопокровка, с. Саумалколь, с. Кырымбет, с. Уялы, с. Киевское, с. Заградовка, с. Константиновка</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="4">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="4">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="4">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="4">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="4">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="4">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="4">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="4">«QYZYLJAR»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="4">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="4">«МТРК»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="4">«QAZAQSTAN»</td>
+<td colspan="2" rowspan="13">г. Тайынша</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="4">«Хабар SD»</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="4">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="4">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="4">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="4">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="4">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="4">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="4">«QYZYLJAR»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="4">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="4">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="4">«МТРК»</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="4">«Tay City Media»</td>
+</tr>
+<tr>
+<th colspan="7">Туркестанская область</th>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="26">г. Туркестан</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«OŃTÚSTIK»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Астана»</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«КТК»</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="3">«НТК»</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="3">«Седьмой канал»</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3">«31 канал»</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">«СТВ»</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="3">«Almaty»</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="3">«Асыл Арна»</td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="3">«ATAMEKEN BUSINESS»</td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="3">«Тұран ТВ»</td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="3">«Turkistan Media»</td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="3">«Туран-Туркестан»</td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="3">«Айгак ТВ»</td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="3">«Отырар ТВ»</td>
+</tr>
+<tr>
+<td>26</td>
+<td colspan="3">«ART TV»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">с. Шаульдер</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«OŃTÚSTIK»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«ART TV»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">г. Кентау</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«OŃTÚSTIK»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«Туран-Туркестан»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="12">Сайрамский район с. Манкент</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">«Хабар SD»</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«OŃTÚSTIK»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«МИР»</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Shymgala TV»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">г. Сарыагаш, с. Абай, с. Дербисек, с. Кызыласкер</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«OŃTÚSTIK»</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«СӘТ»</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">
+с. Монтайтас,
+Ордабасинский район - с. Бугунь
 </td>
 </tr>
 <tr>
-<td>136.</td>
-<td>2.</td>
-<td>«Хабар»</td>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
 </tr>
 <tr>
-<td>137.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
 </tr>
 <tr>
-<td>138.</td>
-<td>4.</td>
-<td>«Balapan»</td>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
 </tr>
 <tr>
-<td>139.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
 </tr>
 <tr>
-<td>140.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
 </tr>
 <tr>
-<td>141.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
 </tr>
 <tr>
-<td>142.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
 </tr>
 <tr>
-<td>143.</td>
-<td>9.</td>
-<td>«KO’KS’E»</td>
+<td>9</td>
+<td colspan="3">«OŃTÚSTIK»</td>
 </tr>
 <tr>
-<td>144.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
 </tr>
 <tr>
-<td>145.</td>
-<td>11.</td>
+<td>11</td>
+<td colspan="3">«МИР»</td>
 </tr>
 <tr>
-<td>146.</td>
-<td>12.</td>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">г. Арыс</td>
 </tr>
 <tr>
-<td>147.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
 </tr>
 <tr>
-<td>148.</td>
-<td>14.</td>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
 </tr>
 <tr>
-<td>149.</td>
-<td>15.</td>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
 </tr>
 <tr>
-<td colspan="4">Актюбинская область</td>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
 </tr>
 <tr>
-<td>150.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="30">г. Актобе</td>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
 </tr>
 <tr>
-<td>151.</td>
-<td>2.</td>
-<td>«Хабар»</td>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
 </tr>
 <tr>
-<td>152.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
 </tr>
 <tr>
-<td>153.</td>
-<td>4.</td>
-<td>«Balapan»</td>
+<td>9</td>
+<td colspan="3">«OŃTÚSTIK»</td>
 </tr>
 <tr>
-<td>154.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
 </tr>
 <tr>
-<td>155.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
+<td>11</td>
+<td colspan="3">«ART TV»</td>
 </tr>
 <tr>
-<td>156.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="13">Мактааральский район - г. Жетысай</td>
 </tr>
 <tr>
-<td>157.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
+<td>2</td>
+<td colspan="3">«Хабар SD»</td>
 </tr>
 <tr>
-<td>158.</td>
-<td>9.</td>
-<td>«AQTO’BE»</td>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
 </tr>
 <tr>
-<td>159.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
 </tr>
 <tr>
-<td>160.</td>
-<td>11.</td>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
 </tr>
 <tr>
-<td>161.</td>
-<td>12.</td>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
 </tr>
 <tr>
-<td>162.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
 </tr>
 <tr>
-<td>163.</td>
-<td>14.</td>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
 </tr>
 <tr>
-<td>164.</td>
-<td>15.</td>
+<td>9</td>
+<td colspan="3">«OŃTÚSTIK»</td>
 </tr>
 <tr>
-<td>165.</td>
-<td>16.</td>
-<td>«Мир»</td>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
 </tr>
 <tr>
-<td>166.</td>
-<td>17.</td>
-<td>«Астана»</td>
+<td>11</td>
+<td colspan="3">«МИР»</td>
 </tr>
 <tr>
-<td>167.</td>
-<td>18.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
+<td>12</td>
+<td colspan="3">«Айгак ТВ»</td>
 </tr>
 <tr>
-<td>168.</td>
-<td>19.</td>
-<td>«Независимый Телевизионный канал»</td>
+<td>13</td>
+<td colspan="3">«SANUR TV»</td>
 </tr>
 <tr>
-<td>169.</td>
-<td>20.</td>
-<td>«Седьмой канал»</td>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">Шардаринский район г. Шардара</td>
 </tr>
 <tr>
-<td>170.</td>
-<td>21.</td>
-<td>«31 канал»</td>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
 </tr>
 <tr>
-<td>171.</td>
-<td>22.</td>
-<td>«СТВ»</td>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
 </tr>
 <tr>
-<td>172.</td>
-<td>23.</td>
-<td>«Almaty»</td>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
 </tr>
 <tr>
-<td>173.</td>
-<td>24.</td>
-<td>«Асыл Арна»</td>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
 </tr>
 <tr>
-<td>174.</td>
-<td>25.</td>
-<td>«MuzLife»</td>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
 </tr>
 <tr>
-<td>175.</td>
-<td>26.</td>
-<td>«Gakku Media»</td>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
 </tr>
 <tr>
-<td>176.</td>
-<td>27.</td>
-<td>«ОҢ ТВ»</td>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
 </tr>
 <tr>
-<td>177.</td>
-<td>28.</td>
-<td>«Агро ТВ»</td>
+<td>9</td>
+<td colspan="3">«OŃTÚSTIK»</td>
 </tr>
 <tr>
-<td>178.</td>
-<td>29.</td>
-<td>«TDQ 42»</td>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
 </tr>
 <tr>
-<td>179.</td>
-<td>30.</td>
-<td>«РИКА-ТВ»</td>
+<td>11</td>
+<td colspan="3">«SANUR TV»</td>
 </tr>
 <tr>
-<td>180.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">
-г.Алга, г.Кандыагаш, г.Хромтау, с.Шалкар,
-Айтекебийский р-он, с.Айке, с.Аккум, с.Актасты, с.Байжанкол, с.Жамбыл, с.Карабутак, с.Комсомольское, с.Сарат, с.Талдык, с.Теренсай, с.Толыбай, с.Тымабулак, с.Ушкатты,
-Алгинский район, с.Акай, с.Болгарка, с.Карагандысай, с.Карахобда, с.Самбай,
-Байганинский район, с.Жаркамыс, с.Карауылкелды,
-Иргизский район, г. Иргиз, п. Нура,
-Каргалинский район, с. Акжайык, с.Алимбет, с.Ащылысай, с.Бадамша, с.Бозтобе, с.Велиховка, с.Карабутак, с.Кос-Истек,
-Маркутский район, с.Аккайын, с.Байнассай, с.Дмитриевка, с.Жанажол, с.Кызылжар, с.Мартук, с.Полтавка, с.Хазретовка, с.Шанды, с.Яйсан,
-Мугалжарский район, с.Аккемер, с.Аксу, с.Булакты, с.Енбек, с.Жагабулак, с. Кумсай, с.Мугалжар, с.Талдысай, с.Эмба,
-Темирский район, с.Аксай, с.Алтыкарасу, с.Кенкияк, с.Копа, с.Темир, с.Шибулак, с.Шубаркудук, с.Шыгырлы,
-Уилский район, с.Акжар (Кайинды), с.Аккемер, с.Караой, с.Кемер, с.Коптогай, с.Уил,
-Хобдинский район, с.Акраб, с.Бегалы, с.Булак, с.Жанаталап, с. Караганда, с.Кобда, с.Кызылжар, с.Ортак, с.Отек, с.Сарбулак, с.Талдысай,
-Хромтауский район, с.Табантал, с.Тамды,
-Шалкарский район, с.Акеспе, с.Бегимбет, с.Биршогыр, с.Бозой, с.Канбакты
-</td>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">с. Агибет, с. Акбулак, с. Байдибеката, с. Бестогай, с. Казыгурт, с. Тасты, с. Шакпак, с. Чаян, с. Чулаккурган, с. Карла Маркса, с. Козмолдак, п. Састобе, с. Жарыкбас, с. Ченгельды, с. Шымырбай, с. Бозай, с. Боралдай, с. Енбекши, с. Жанатиршилик, с. Жанабазар, c. Жанаталап, с. Жанажол, с. Жанаталап, с. Кызылбулак (Женис), с. Жиынбая, с. Каратас, с. Аккум, с. Кенес, с. Кумкент, с. Кызылата, с. Ибата, с. Жанауйым, с. Кенсай, с. Жыланды, с. Абай, с. Даубаба, с. Тесиктобе, с. Турбат, с. Бабаата, с. Жыныс (Женис), с. Балдыберек, с. Карабау, с. Каракур, с. Каржан, с. Конесарык, с. Косагаш, с. Аксумбе, п. Кыземшек, с. Алимтау, с. Кенестобе, с. Ызабулак, с. Бакабулак, с. Кызыласу, с. Жилга, с. Жузумдик, с. Жыланды, с. Кожакорган, с. Дарбаза, с. Коксарай, с. Достык, с. Коксу, с. Узыната,</td>
 </tr>
 <tr>
-<td>181.</td>
-<td>2.</td>
-<td>«Хабар»</td>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
 </tr>
 <tr>
-<td>182.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
 </tr>
 <tr>
-<td>183.</td>
-<td>4.</td>
-<td>«Balapan»</td>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
 </tr>
 <tr>
-<td>184.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
 </tr>
 <tr>
-<td>185.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
 </tr>
 <tr>
-<td>186.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
 </tr>
 <tr>
-<td>187.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
 </tr>
 <tr>
-<td>188.</td>
-<td>9.</td>
-<td>«AQTO’BE»</td>
+<td>9</td>
+<td colspan="3">«OŃTÚSTIK»</td>
 </tr>
 <tr>
-<td>189.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
 </tr>
 <tr>
-<td>190.</td>
-<td>11.</td>
+<td>11</td>
+<td colspan="3">«МИР»</td>
 </tr>
 <tr>
-<td>191.</td>
-<td>12.</td>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="11">с. им.Турара Рыскулова</td>
 </tr>
 <tr>
-<td>192.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
+<td>2</td>
+<td colspan="3">Хабар HD</td>
 </tr>
 <tr>
-<td>193.</td>
-<td>14.</td>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
 </tr>
 <tr>
-<td>194.</td>
-<td>15.</td>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
 </tr>
 <tr>
-<td colspan="4">Алматинская область</td>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
 </tr>
 <tr>
-<td>195.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="30">
-Коксуский район
-с.Актекше (гора Большой Шаган)
-</td>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
 </tr>
 <tr>
-<td>196.</td>
-<td>2.</td>
-<td>«Хабар»</td>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
 </tr>
 <tr>
-<td>197.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
 </tr>
 <tr>
-<td>198.</td>
-<td>4.</td>
-<td>«Balapan»</td>
+<td>9</td>
+<td colspan="3">«OŃTÚSTIK»</td>
 </tr>
 <tr>
-<td>199.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
 </tr>
 <tr>
-<td>200.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
+<td>11</td>
+<td colspan="3">«Shymgala TV»</td>
 </tr>
 <tr>
-<td>201.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="13">с. Ачисай, с. Баялдыр, с. Кантаги</td>
 </tr>
 <tr>
-<td>202.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
+<td>2</td>
+<td colspan="3">«Хабар SD»</td>
 </tr>
 <tr>
-<td>203.</td>
-<td>9.</td>
-<td>«Жетысу»</td>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
 </tr>
 <tr>
-<td>204.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
 </tr>
 <tr>
-<td>205.</td>
-<td>11.</td>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
 </tr>
 <tr>
-<td>206.</td>
-<td>12.</td>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
 </tr>
 <tr>
-<td>207.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
 </tr>
 <tr>
-<td>208.</td>
-<td>14.</td>
+<td>8</td>
+<td colspan="3">«Первый канал Евразия»</td>
 </tr>
 <tr>
-<td>209.</td>
-<td>15.</td>
+<td>9</td>
+<td colspan="3">«Turkistan Media»</td>
 </tr>
 <tr>
-<td>210.</td>
-<td>16.</td>
-<td>«Мир»</td>
+<td>10</td>
+<td colspan="3">«QAZSPORT HD»</td>
 </tr>
 <tr>
-<td>211.</td>
-<td>17.</td>
-<td>«Астана»</td>
+<td>11</td>
+<td colspan="3">«МИР»</td>
 </tr>
 <tr>
-<td>212.</td>
-<td>18.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
+<td>12</td>
+<td colspan="3">«Turkistan Media»</td>
 </tr>
 <tr>
-<td>213.</td>
-<td>19.</td>
-<td>«Независимый Телевизионный канал»</td>
+<td>13</td>
+<td colspan="3">«Туран-Туркестан»</td>
 </tr>
 <tr>
-<td>214.</td>
-<td>20.</td>
-<td>«Седьмой канал»</td>
+<th colspan="7">2. Теле-, радиоканалы, распространяемые посредством цифрового спутникового телерадиовещания</th>
 </tr>
 <tr>
-<td>215.</td>
-<td>21.</td>
-<td>«31 канал»</td>
+<td>1</td>
+<td colspan="3">«QAZAQSTAN»</td>
+<td colspan="3" rowspan="39">Республика Казахстан</td>
 </tr>
 <tr>
-<td>216.</td>
-<td>22.</td>
-<td>«СТВ»</td>
+<td>2</td>
+<td colspan="3">«Хабар»</td>
 </tr>
 <tr>
-<td>217.</td>
-<td>23.</td>
-<td>«Almaty»</td>
+<td>3</td>
+<td colspan="3">«Хабар 24»</td>
 </tr>
 <tr>
-<td>218.</td>
-<td>24.</td>
-<td>«Асыл Арна»</td>
+<td>4</td>
+<td colspan="3">«BALAPAN»</td>
 </tr>
 <tr>
-<td>219.</td>
-<td>25.</td>
-<td>«MuzLife»</td>
+<td>5</td>
+<td colspan="3">«ЕЛ АРНА»</td>
 </tr>
 <tr>
-<td>220.</td>
-<td>26.</td>
-<td>«Gakku Media»</td>
+<td>6</td>
+<td colspan="3">«Kazakh TV»</td>
 </tr>
 <tr>
-<td>221.</td>
-<td>27.</td>
-<td>«ОҢ ТВ»</td>
+<td>7</td>
+<td colspan="3">«ABAI TV»</td>
 </tr>
 <tr>
-<td>222.</td>
-<td>28.</td>
-<td>«Агро ТВ»</td>
+<td>8</td>
+<td colspan="3">«QAZSPORT»</td>
 </tr>
 <tr>
-<td>223.</td>
-<td>29.</td>
-<td>«Тұран ТВ»</td>
+<td>9</td>
+<td colspan="3">«Первый канал Евразия»</td>
 </tr>
 <tr>
-<td>224.</td>
-<td>30.</td>
-<td>«Магия кухни»</td>
+<td>10</td>
+<td colspan="3">«МИР»</td>
 </tr>
 <tr>
-<td>225.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">
-г.Есик, г.Жаркент, г.Текели, г.Текели (2 кордон), г.Ушарал,
-Аксуский район - с.Ащыбулак, с.Капал, с.Копалы, с.Кызылагаш, с.Сагакурес, с.Суыксай,
-Алакольский район- с.Архарлы, п.Достык, с.Ашим, с.Жумахан Бaлaпaнов, с.Кокжар, с.Лепсинск, с.Сапак, с.Токжайлау, с.Ушбулак, с.Чимбулак,
-Балхашский район- с.Баканас, с.Балатопар, с.Желторангы, с.Куйган,
-Енбекшиказахский район - с.Алмалы, с.Жанашар, с.Таутургень, с.Толкын, с.Нурлы,
-Ескельдинский район - с.Акын Сара, с.Екпенди, с.Жалгызагаш, а.Сырымбет,
-Жамбыльский район - с. Аксенгир, с.Актерек, с.Ащису, с.Бериктас, .с.Дегерес, с.Жанакурылыс, с.Карабастау, с.Кастек, с.Кокдала, с.Кызылсок, с.Самсы, с.Суранши батыр, с.Улькен, с.Умбеталы Карибаева, с.Унгуртас, с.Ынтымак,
-Илийский район - с.Акши,
-Кербулакский район - с.Басши, с.Косагаш, Ферма 1 Шилису,
-Коксуский район - с.Балпык,
-Карасайский район - с.Алма-Арасан,
-Каратальский район - с.Алмалы, с.Кайнар,
-Кегенский район - с.Алгабас, с.Жайдакбулак, с.Жаланаш, с.Жалаулы, с.Карабулак, с.Курмети, с.Саты, с.Тасашы (Шольадыр), с.Туюк, с.Узынбулак, с.Шыбышы, Панфиловский район- с.Баскунши, с.Коныролен, с.Лесновка, с.Сарытобе, с.Хоргос,
-Райымбекский район -с.Какпак, с.Сарыбастау, с.Сумбе, уч.Кызылуш, Саркандский район - с.Аманбоктер, с.Екиаша, с.М.Тулебаева, с.Каргалы, с.Койлык, с.Лепсы, г.Сарканд, с.Тополевка, с.Шатырбай,
-Талгарский район, с.Рыскулово, с.Талдыбулак
-</td>
+<td>11</td>
+<td colspan="3">«Астана»</td>
 </tr>
 <tr>
-<td>226.</td>
-<td>2.</td>
-<td>«Хабар»</td>
+<td>12</td>
+<td colspan="3">«КТК»</td>
 </tr>
 <tr>
-<td>227.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
+<td>13</td>
+<td colspan="3">«НТК»</td>
 </tr>
 <tr>
-<td>228.</td>
-<td>4.</td>
-<td>«Balapan»</td>
+<td>14</td>
+<td colspan="3">«Седьмой канал»</td>
 </tr>
 <tr>
-<td>229.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
+<td>15</td>
+<td colspan="3">«31 канал»</td>
 </tr>
 <tr>
-<td>230.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
+<td>16</td>
+<td colspan="3">«СТВ»</td>
 </tr>
 <tr>
-<td>231.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
+<td>17</td>
+<td colspan="3">«ATAMEKEN BUSINESS»</td>
 </tr>
 <tr>
-<td>232.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
+<td>18</td>
+<td colspan="3">«Hit TV»</td>
 </tr>
 <tr>
-<td>233.</td>
-<td>9.</td>
-<td>«Жетысу»</td>
+<td>19</td>
+<td colspan="3">«Асыл Арна»</td>
 </tr>
 <tr>
-<td>234.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
+<td>20</td>
+<td colspan="3">«MuzLife»</td>
 </tr>
 <tr>
-<td>235.</td>
-<td>11.</td>
+<td>21</td>
+<td colspan="3">«Gakku Media»</td>
 </tr>
 <tr>
-<td>236.</td>
-<td>12.</td>
+<td>22</td>
+<td colspan="3">«Almaty»</td>
 </tr>
 <tr>
-<td>237.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
+<td>23</td>
+<td colspan="3">«TDQ 42»</td>
 </tr>
 <tr>
-<td>238.</td>
-<td>14.</td>
+<td>24</td>
+<td colspan="3">«Тұран ТВ»</td>
 </tr>
 <tr>
-<td>239.</td>
-<td>15.</td>
+<td>25</td>
+<td colspan="3">«ALTAI’»</td>
 </tr>
 <tr>
-<td colspan="4">Атырауская область</td>
+<td>26</td>
+<td colspan="3">«AQJAI’YQ»</td>
 </tr>
 <tr>
-<td>240.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="30">г. Атырау</td>
+<td>27</td>
+<td colspan="3">«AQTO’BE»</td>
 </tr>
 <tr>
-<td>241.</td>
-<td>2.</td>
-<td>«Хабар»</td>
+<td>28</td>
+<td colspan="3">«ATYRAY’»</td>
 </tr>
 <tr>
-<td>242.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
+<td>29</td>
+<td colspan="3">«ERTIS»</td>
 </tr>
 <tr>
-<td>243.</td>
-<td>4.</td>
-<td>«Balapan»</td>
+<td>30</td>
+<td colspan="3">«JAMBYL»</td>
 </tr>
 <tr>
-<td>244.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
+<td>31</td>
+<td colspan="3">«KO’KS’E»</td>
 </tr>
 <tr>
-<td>245.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
+<td>32</td>
+<td colspan="3">«MAN’G’YSTAY’»</td>
 </tr>
 <tr>
-<td>246.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
+<td>33</td>
+<td colspan="3">«ON’TU’STIK»</td>
 </tr>
 <tr>
-<td>247.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
+<td>34</td>
+<td colspan="3">«QOSTANAI’»</td>
 </tr>
 <tr>
-<td>248.</td>
-<td>9.</td>
-<td>«ATYRAY’»</td>
+<td>35</td>
+<td colspan="3">«QYZYLJAR»</td>
 </tr>
 <tr>
-<td>249.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
+<td>36</td>
+<td colspan="3">«QYZYLORDA»</td>
 </tr>
 <tr>
-<td>250.</td>
-<td>11.</td>
+<td>37</td>
+<td colspan="3">«SARYARQA»</td>
 </tr>
 <tr>
-<td>251.</td>
-<td>12.</td>
+<td>38</td>
+<td colspan="3">«Жетысу»</td>
 </tr>
 <tr>
-<td>252.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
+<td>39</td>
+<td colspan="3">«Turkistan Media»</td>
 </tr>
 <tr>
-<td>253.</td>
-<td>14.</td>
+<td>1</td>
+<td colspan="3">«Хабар» HD</td>
+<td colspan="3" rowspan="4">Республика Казахстан</td>
 </tr>
 <tr>
-<td>254.</td>
-<td>15.</td>
+<td>2</td>
+<td colspan="3">«Хабар 24» HD</td>
 </tr>
 <tr>
-<td>255.</td>
-<td>16.</td>
-<td>«Мир»</td>
+<td>3</td>
+<td colspan="3">«QAZAQSTAN» HD</td>
 </tr>
 <tr>
-<td>256.</td>
-<td>17.</td>
-<td>«Астана»</td>
+<td>4</td>
+<td colspan="3">«QAZSPORT» HD</td>
 </tr>
 <tr>
-<td>257.</td>
-<td>18.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
+<td>1</td>
+<td colspan="3">радиоканал «Казахское радио»</td>
+<td colspan="3" rowspan="5">Республика Казахстан</td>
 </tr>
 <tr>
-<td>258.</td>
-<td>19.</td>
-<td>«Независимый Телевизионный канал»</td>
+<td>2</td>
+<td colspan="3">радиоканал «Шалқар»</td>
 </tr>
 <tr>
-<td>259.</td>
-<td>20.</td>
-<td>«Седьмой канал»</td>
+<td>3</td>
+<td colspan="3">радиоканал «Астана»</td>
 </tr>
 <tr>
-<td>260.</td>
-<td>21.</td>
-<td>«31 канал»</td>
+<td>4</td>
+<td colspan="3">радиоканал «Classic»</td>
 </tr>
 <tr>
-<td>261.</td>
-<td>22.</td>
-<td>«СТВ»</td>
-</tr>
-<tr>
-<td>262.</td>
-<td>23.</td>
-<td>«Almaty»</td>
-</tr>
-<tr>
-<td>263.</td>
-<td>24.</td>
-<td>«Асыл Арна»</td>
-</tr>
-<tr>
-<td>264.</td>
-<td>25.</td>
-<td>«MuzLife»</td>
-</tr>
-<tr>
-<td>265.</td>
-<td>26.</td>
-<td>«Gakku Media»</td>
-</tr>
-<tr>
-<td>266.</td>
-<td>27.</td>
-<td>«Агро ТВ»</td>
-</tr>
-<tr>
-<td>267.</td>
-<td>28.</td>
-<td>«Тұран ТВ»</td>
-</tr>
-<tr>
-<td>268.</td>
-<td>29.</td>
-<td>«Caspian News»</td>
-</tr>
-<tr>
-<td>269.</td>
-<td>30.</td>
-<td>«TDQ 42»</td>
-</tr>
-<tr>
-<td>270.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">
-г.Кульсары,
-Индерский район, п.Индерборский, с.Коктогай,
-Исатайский район, с.Аккистау, с.Зинеден,
-Курмангазинский район, с.Асан, с.Балкудук, с.Батырбек, с.Ганюшкино, с.Жалгызапан, с.Жанааул (Сафоновка),
-Кзылкогинский район, с. Караколь, с.Миялы, с.Мукур, с.Сагиз,
-Макатский район, с.Макат,
-Махамбетский район, с. Махамбет
-</td>
-</tr>
-<tr>
-<td>271.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>272.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>273.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>274.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>275.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>276.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>277.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>278.</td>
-<td>9.</td>
-<td>«ATYRAY’»</td>
-</tr>
-<tr>
-<td>279.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>280.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>281.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>282.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>283.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>284.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td colspan="4">Западно-Казахстанская область</td>
-</tr>
-<tr>
-<td>285.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="30">г. Уральск</td>
-</tr>
-<tr>
-<td>286.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>287.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>288.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>289.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>290.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>291.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>292.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>293.</td>
-<td>9.</td>
-<td>«AQJAI’YQ»</td>
-</tr>
-<tr>
-<td>294.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>295.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>296.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>297.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>298.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>299.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td>300.</td>
-<td>16.</td>
-<td>«Мир»</td>
-</tr>
-<tr>
-<td>301.</td>
-<td>17.</td>
-<td>«Астана»</td>
-</tr>
-<tr>
-<td>302.</td>
-<td>18.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
-</tr>
-<tr>
-<td>303.</td>
-<td>19.</td>
-<td>«Независимый Телевизионный канал»</td>
-</tr>
-<tr>
-<td>304.</td>
-<td>20.</td>
-<td>«Седьмой канал»</td>
-</tr>
-<tr>
-<td>305.</td>
-<td>21.</td>
-<td>«31 канал»</td>
-</tr>
-<tr>
-<td>306.</td>
-<td>22.</td>
-<td>«СТВ»</td>
-</tr>
-<tr>
-<td>307.</td>
-<td>23.</td>
-<td>«Almaty»</td>
-</tr>
-<tr>
-<td>308.</td>
-<td>24.</td>
-<td>«Асыл Арна»</td>
-</tr>
-<tr>
-<td>309.</td>
-<td>25.</td>
-<td>«MuzLife»</td>
-</tr>
-<tr>
-<td>310.</td>
-<td>26.</td>
-<td>«Gakku Media»</td>
-</tr>
-<tr>
-<td>311.</td>
-<td>27.</td>
-<td>«ОҢ ТВ»</td>
-</tr>
-<tr>
-<td>312.</td>
-<td>28.</td>
-<td>«Тұран ТВ»</td>
-</tr>
-<tr>
-<td>313.</td>
-<td>29.</td>
-<td>«Магия кухни»</td>
-</tr>
-<tr>
-<td>314.</td>
-<td>30.</td>
-<td>«TDQ 42»</td>
-</tr>
-<tr>
-<td>315.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">
-Акжаикский район, с.Базартобе, с.Карауылтобе, с.Тайпак, с.Уштобе, с.Чапаев, Бокейординский район, с.Бисен, с.Борли, с.Коктерек, с.Сайхин, с.Саралжын, с.Хан Ордасы,
-Жангалинский район, с.Жанаказан, с.Жангала, с.Пятимар,
-Жанибекский район, с.Жаксыбай, с.Жанибек, с.Онеге, с.Таловка, с.Тау, Зеленовский район, с.Егиндибулак, с.Красноармейское, с.Переметное, с.Погодаево, с.Сулыколь (Чесноково), с.Чинарево, с.Шалгай, с.Янайкино,
-Казталовский район, с.Болашак, с.Жалпактал, с.Казталовка, с.Кошанколь, с.Нурсай,
-Каратобинский район, с.Егендыколь, с.Каратобе, с.Косколь, с.Ушана, Сырымский район, с.Жымпиты, с.Коныр,
-Таскалинский район,с.Амангельды, с.Достык, с.Жігер, с.Мерей, с.Мереке, с.Оян, с.Таскала, с.Шежин (Чижа 2),
-Теректинский район, с.Долинное, с.Ерсары, с.Покатиловка, с.Тонкерис, Чингирлауский район, с.Аккудык, с.Аксуат, с.Алмазное, с.Белогорка, с.Жанакуш, с.Лубенка, с.Полтавка, с.Тасмола, с.Шынгырлау,
-Бурлинский район, с.Аксай
-</td>
-</tr>
-<tr>
-<td>316.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>317.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>318.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>319.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>320.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>321.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>322.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>323.</td>
-<td>9.</td>
-<td>«AQJAI’YQ»</td>
-</tr>
-<tr>
-<td>324.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>325.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>326.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>327.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>328.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>329.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td colspan="4">Жамбылская область</td>
-</tr>
-<tr>
-<td>330.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="30">г. Тараз</td>
-</tr>
-<tr>
-<td>331.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>332.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>333.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>334.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>335.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>336.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>337.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>338.</td>
-<td>9.</td>
-<td>«JAMBYL»</td>
-</tr>
-<tr>
-<td>339.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>340.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>341.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>342.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>343.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>344.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td>345.</td>
-<td>16.</td>
-<td>«Мир»</td>
-</tr>
-<tr>
-<td>346.</td>
-<td>17.</td>
-<td>«Астана»</td>
-</tr>
-<tr>
-<td>347.</td>
-<td>18.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
-</tr>
-<tr>
-<td>348.</td>
-<td>19.</td>
-<td>«Независимый Телевизионный канал»</td>
-</tr>
-<tr>
-<td>349.</td>
-<td>20.</td>
-<td>«Седьмой канал»</td>
-</tr>
-<tr>
-<td>350.</td>
-<td>21.</td>
-<td>«31 канал»</td>
-</tr>
-<tr>
-<td>351.</td>
-<td>22.</td>
-<td>«СТВ»</td>
-</tr>
-<tr>
-<td>352.</td>
-<td>23.</td>
-<td>«Almaty»</td>
-</tr>
-<tr>
-<td>353.</td>
-<td>24.</td>
-<td>«Hit TV»</td>
-</tr>
-<tr>
-<td>354.</td>
-<td>25.</td>
-<td>«Асыл Арна»</td>
-</tr>
-<tr>
-<td>355.</td>
-<td>26.</td>
-<td>«MUZZONE TV»</td>
-</tr>
-<tr>
-<td>356.</td>
-<td>27.</td>
-<td>«Агро ТВ»</td>
-</tr>
-<tr>
-<td>357.</td>
-<td>28.</td>
-<td>«Тұран ТВ»</td>
-</tr>
-<tr>
-<td>358.</td>
-<td>29.</td>
-<td>«77TV»</td>
-</tr>
-<tr>
-<td>359.</td>
-<td>30.</td>
-<td>«Айғақ»</td>
-</tr>
-<tr>
-<td>360.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">
-г.Шу,
-Жуалынский район - с.Абдыкадыр, с.Актасты, с.Рысбека батыра, с.Кольтоган, с.Кошкарата, с.Куренбель, с.Кызтоган, ст.Шакпак, с.Терсащибулак,
-Кордайский район- с.Алга, с.Карасай батыра, с.Кайнар, с.Кенен, с.Керу, с.Кордай(Чумыш), с.Масанчи, рзд.Бель, с.Улкенсулутор,
-Мойынкумский район- с.Аксуек, с.Кушаман (Кокжелек), с.Мирный, с.Мойынкум, с.Сарыозек, ст.Бурубайтал, с.Уланбель,
-Сарысуский район - с.Актогай, с.Ашира Буркитбаева, с.Буденное, с.Жайлауколь, с.Жанатас, с.Узакбай Сыздыкбаева,
-Таласский район - с.Акколь, с.Есей би, с.Караой, с.Каратау, с.Каскабулак, с.Кошек батыра, с.Ойык,
-район Турара Рыскулова - с.Западная, с.Кайынды,
-Шуский район - ст.Шокпар
-</td>
-</tr>
-<tr>
-<td>361.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>362.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>363.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>364.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>365.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>366.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>367.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>368.</td>
-<td>9.</td>
-<td>«JAMBYL»</td>
-</tr>
-<tr>
-<td>369.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>370.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>371.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>372.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>373.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>374.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td colspan="4">Карагандинская область</td>
-</tr>
-<tr>
-<td>375.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="30">г. Караганда</td>
-</tr>
-<tr>
-<td>376.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>377.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>378.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>379.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>380.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>381.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>382.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>383.</td>
-<td>9.</td>
-<td>«SARYARQA»</td>
-</tr>
-<tr>
-<td>384.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>385.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>386.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>387.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>388.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>389.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td>390.</td>
-<td>16.</td>
-<td>«Мир»</td>
-</tr>
-<tr>
-<td>391.</td>
-<td>17.</td>
-<td>«Астана»</td>
-</tr>
-<tr>
-<td>392.</td>
-<td>18.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
-</tr>
-<tr>
-<td>393.</td>
-<td>19.</td>
-<td>«Независимый Телевизионный канал»</td>
-</tr>
-<tr>
-<td>394.</td>
-<td>20.</td>
-<td>«Седьмой канал»</td>
-</tr>
-<tr>
-<td>395.</td>
-<td>21.</td>
-<td>«31 канал»</td>
-</tr>
-<tr>
-<td>396.</td>
-<td>22.</td>
-<td>«СТВ»</td>
-</tr>
-<tr>
-<td>397.</td>
-<td>23.</td>
-<td>«Almaty»</td>
-</tr>
-<tr>
-<td>398.</td>
-<td>24.</td>
-<td>«Асыл Арна»</td>
-</tr>
-<tr>
-<td>399.</td>
-<td>25.</td>
-<td>«Gakku Media»</td>
-</tr>
-<tr>
-<td>400.</td>
-<td>26.</td>
-<td>«Новое телевидение»</td>
-</tr>
-<tr>
-<td>401.</td>
-<td>27.</td>
-<td>«Первый Карагандинский»</td>
-</tr>
-<tr>
-<td>402.</td>
-<td>28.</td>
-<td>«5 канал»</td>
-</tr>
-<tr>
-<td>403.</td>
-<td>29.</td>
-<td>«Твоё телевидение (ТВОЁ ТВ)»</td>
-</tr>
-<tr>
-<td>404.</td>
-<td>30.</td>
-<td>«Жастар Караганда»</td>
-</tr>
-<tr>
-<td>405.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="14">г. Жезказган</td>
-</tr>
-<tr>
-<td>406.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>407.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>408.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>409.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>410.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>411.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>412.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>413.</td>
-<td>9.</td>
-<td>«SARYARQA»</td>
-</tr>
-<tr>
-<td>414.</td>
-<td>10.</td>
-<td>«QAZSPORT»</td>
-</tr>
-<tr>
-<td>415.</td>
-<td>11.</td>
-<td>«AQSHAM»</td>
-</tr>
-<tr>
-<td>416.</td>
-<td>12.</td>
-<td>«Жезказган ТВ»</td>
-</tr>
-<tr>
-<td>417.</td>
-<td>13.</td>
-<td>«СКБ-Видео»</td>
-</tr>
-<tr>
-<td>418.</td>
-<td>14.</td>
-<td>«Жезказганская городская дирекция телерадиовещания Дидар»</td>
-</tr>
-<tr>
-<td>419.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">
-Балхаш, Каражал, Приозерск, Саяк,
-Актогайский район, с.Актогай,
-Жанааркинский район, с.Атасу, с.Ералиево, с.Тогускен,
-Hуринский район, с.Кантай, с.Карим Мынбаев,
-Осакаровский район, с.Молодежный, с.Осакаровка, с.Пионерское, с.Сункар, Улытауский район, с.Жезды, с.Жыланды, с.Карсакпай, с.Улытау,
-Шетский район, с.Агадырь, с.Акжал, с.Аксу-Аюлы, с.Карамурун, с.Кошкарбай, с.Мойынты, с.Сейфуллин, с.Талды,
-Бухар-Жырауский район, с.Шешенкара,
-Каркаралинский р-н, с. Аппаз, с.Бесоба, с.Егиндыбулак, с.Карагайлы, с.Коктас
-</td>
-</tr>
-<tr>
-<td>420.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>421.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>422.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>423.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>424.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>425.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>426.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>427.</td>
-<td>9.</td>
-<td>«SARYARQA»</td>
-</tr>
-<tr>
-<td>428.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>429.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>430.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>431.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>432.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>433.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td colspan="4">Костанайская область</td>
-</tr>
-<tr>
-<td>434.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="30">г. Костанай</td>
-</tr>
-<tr>
-<td>435.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>436.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>437.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>438.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>439.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>440.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>441.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>442.</td>
-<td>9.</td>
-<td>«QOSTANAI’»</td>
-</tr>
-<tr>
-<td>443.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>444.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>445.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>446.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>447.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>448.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td>449.</td>
-<td>16.</td>
-<td>«Мир»</td>
-</tr>
-<tr>
-<td>450.</td>
-<td>17.</td>
-<td>«Астана»</td>
-</tr>
-<tr>
-<td>451.</td>
-<td>18.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
-</tr>
-<tr>
-<td>452.</td>
-<td>19.</td>
-<td>«Независимый Телевизионный канал»</td>
-</tr>
-<tr>
-<td>453.</td>
-<td>20.</td>
-<td>«Седьмой канал»</td>
-</tr>
-<tr>
-<td>454.</td>
-<td>21.</td>
-<td>«31 канал»</td>
-</tr>
-<tr>
-<td>455.</td>
-<td>22.</td>
-<td>«СТВ»</td>
-</tr>
-<tr>
-<td>456.</td>
-<td>23.</td>
-<td>«Almaty»</td>
-</tr>
-<tr>
-<td>457.</td>
-<td>24.</td>
-<td>«Асыл Арна»</td>
-</tr>
-<tr>
-<td>458.</td>
-<td>25.</td>
-<td>«MuzLife»</td>
-</tr>
-<tr>
-<td>459.</td>
-<td>26.</td>
-<td>«Gakku Media»</td>
-</tr>
-<tr>
-<td>460.</td>
-<td>27.</td>
-<td>«Агро ТВ»</td>
-</tr>
-<tr>
-<td>461.</td>
-<td>28.</td>
-<td>«Тұран ТВ»</td>
-</tr>
-<tr>
-<td>462.</td>
-<td>29.</td>
-<td>«Магия кухни»</td>
-</tr>
-<tr>
-<td>463.</td>
-<td>30.</td>
-<td>«Алау»</td>
-</tr>
-<tr>
-<td>464.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="14">г. Лисаковск</td>
-</tr>
-<tr>
-<td>465.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>466.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>467.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>468.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>469.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>470.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>471.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>472.</td>
-<td>9.</td>
-<td>«QOSTANAI’»</td>
-</tr>
-<tr>
-<td>473.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>474.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>475.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>476.</td>
-<td>13.</td>
-<td>«QAZSPORT»</td>
-</tr>
-<tr>
-<td>477.</td>
-<td>14.</td>
-<td>«Телестудия «Лисаковское телевидение «Акцент»</td>
-</tr>
-<tr>
-<td>478.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="14">г. Рудный</td>
-</tr>
-<tr>
-<td>479.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>480.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>481.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>482.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>483.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>484.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>485.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>486.</td>
-<td>9.</td>
-<td>«QOSTANAI’»</td>
-</tr>
-<tr>
-<td>487.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>488.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>489.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>490.</td>
-<td>13.</td>
-<td>«QAZSPORT»</td>
-</tr>
-<tr>
-<td>491.</td>
-<td>14.</td>
-<td>«ТВС» (Соколовско-Сарбайское горно-обогатительное производственное объединение)</td>
-</tr>
-<tr>
-<td>492.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">
-г. Аркалык, с.Качар,
-Алтынсаринский район - с.Докучаевка, с.Лермонтово, с.Силантьевка, Аулиекольский район, с.Аулиеколь, с.Диевка, с.Кабидолла, с.Тургумбаева, с.Коктал, с.Кушмурун, с.Новонежинка, с.Тимофеевка,
-Денисовский район, с.Аятское, с.Георгиевка, с.Денисовка,
-Джангельдинский район, с.Акшиганак, с.Акколь (Збан), с.Милысай, с.Шили, с.Шубалан,
-Житикаринский район, с.Аккарга, с.Волгоградское, с.Житикара,
-Камыстинский район, с.Адаевка, с.Алтынсарино, с.Аралколь, с.Дружба, с.Камысты, с.Уркаш,
-Карабалыкский район, с.Карабалык, с.Приречное,
-Карасуский район, с.Карасу, с.Майское, с.Новоселовка, с.Октябрьское,
-Костанайский район, с.Владимировка, с.Воскресеновка,
-Мендыкаринский район, с.Боровской, с.Введенка, с.Каскат, с.Коктерек, с.Узынагаш,
-Hаурзумский район, с.Буревестник, с.Караменды, с.Раздольное,
-Сарыкольский район, с.Комсомольское, с.Сарыколь,
-Тарановский район, с.Тарановское,
-Узункольский район, с.Пресногорьковка, с.Троебратский, с.Узунколь, Федоровский район, с.Белояровка, с.Вишневое, с.Кенарал, с.Федоровка, Амангельдинский район, с.Амангельды
-</td>
-</tr>
-<tr>
-<td>493.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>494.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>495.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>496.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>497.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>498.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>499.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>500.</td>
-<td>9.</td>
-<td>«QOSTANAI’»</td>
-</tr>
-<tr>
-<td>501.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>502.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>503.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>504.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>505.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>506.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td colspan="4">Кызылординская область</td>
-</tr>
-<tr>
-<td>507.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="30">г. Кызылорда</td>
-</tr>
-<tr>
-<td>508.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>509.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>510.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>511.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>512.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>513.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>514.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>515.</td>
-<td>9.</td>
-<td>«QYZYLORDA»</td>
-</tr>
-<tr>
-<td>516.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>517.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>518.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>519.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>520.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>521.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td>522.</td>
-<td>16.</td>
-<td>«Мир»</td>
-</tr>
-<tr>
-<td>523.</td>
-<td>17.</td>
-<td>«Астана»</td>
-</tr>
-<tr>
-<td>524.</td>
-<td>18.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
-</tr>
-<tr>
-<td>525.</td>
-<td>19.</td>
-<td>«Независимый Телевизионный канал»</td>
-</tr>
-<tr>
-<td>526.</td>
-<td>20.</td>
-<td>«Седьмой канал»</td>
-</tr>
-<tr>
-<td>527.</td>
-<td>21.</td>
-<td>«31 канал»</td>
-</tr>
-<tr>
-<td>528.</td>
-<td>22.</td>
-<td>«СТВ»</td>
-</tr>
-<tr>
-<td>529.</td>
-<td>23.</td>
-<td>«Almaty»</td>
-</tr>
-<tr>
-<td>530.</td>
-<td>24.</td>
-<td>«Асыл Арна»</td>
-</tr>
-<tr>
-<td>531.</td>
-<td>25.</td>
-<td>«MuzLife»</td>
-</tr>
-<tr>
-<td>532.</td>
-<td>26.</td>
-<td>«MUZZONE TV»</td>
-</tr>
-<tr>
-<td>533.</td>
-<td>27.</td>
-<td>«Gakku Media»</td>
-</tr>
-<tr>
-<td>534.</td>
-<td>28.</td>
-<td>«Агро ТВ»</td>
-</tr>
-<tr>
-<td>535.</td>
-<td>29.</td>
-<td>«Тұран ТВ»</td>
-</tr>
-<tr>
-<td>536.</td>
-<td>30.</td>
-<td>«Коғам ТВ»</td>
-</tr>
-<tr>
-<td>537.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="14">
-Казалинский район, с.Айтеке би,
-с.Бекарыстан би, с.Тасарык
-</td>
-</tr>
-<tr>
-<td>538.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>539.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>540.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>541.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>542.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>543.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>544.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>545.</td>
-<td>9.</td>
-<td>«QYZYLORDA»</td>
-</tr>
-<tr>
-<td>546.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>547.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>548.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>549.</td>
-<td>13.</td>
-<td>«Серік ТВ»</td>
-</tr>
-<tr>
-<td>550.</td>
-<td>14.</td>
-<td>«Коғам ТВ»</td>
-</tr>
-<tr>
-<td>551.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">
-Аральский район, с.Абай, с.Акбасты, с.Еримбетжага, с.Жанакурылыс, с.Карашалан, с.Куланды (Тубебулак), с.Кызылжар, с.Саксаульский, ст.Бекбауыл, ст.Камыстыбас, с.Тастубек, г.Аральск,
-Жалагашский район, с.Аккум, с.Жалагаш, с.Макпалколь,
-Жанакорганский район, с.Бесарык, с.Бирлик, с.Кандоз, с.Косуйенки, с.Шалкия (Огизмуйиз),
-Кармакшинский район, с.Актобе, с.Жосалы, с.Комекбаева (Жанакала), с.Турмаганбет,
-Казалинский район, с.Айтеке би, с.Бекарыстан би, с.Тасарык, Кармакшинский район, с.Актобе, с.Жосалы, с.Комекбаева(Жанакала), с.Турмаганбет,
-Сырдарьинский район, с.Айдарлы,
-Чиилийский район, с.Шиели
-</td>
-</tr>
-<tr>
-<td>552.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>553.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>554.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>555.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>556.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>557.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>558.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>559.</td>
-<td>9.</td>
-<td>«QYZYLORDA»</td>
-</tr>
-<tr>
-<td>560.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>561.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>562.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>563.</td>
-<td>13.</td>
-<td>«Той Думан»</td>
-</tr>
-<tr>
-<td>564.</td>
-<td>14.</td>
-<td>«Халық арна»</td>
-</tr>
-<tr>
-<td>565.</td>
-<td>15.</td>
-<td>«Коғам ТВ»</td>
-</tr>
-<tr>
-<td colspan="4">Мангистауская область</td>
-</tr>
-<tr>
-<td>566.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="30">г. Актау</td>
-</tr>
-<tr>
-<td>567.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>568.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>569.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>570.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>571.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>572.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>573.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>574.</td>
-<td>9.</td>
-<td>«MAN’G’YSTAY’»</td>
-</tr>
-<tr>
-<td>575.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>576.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>577.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>578.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>579.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>580.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td>581.</td>
-<td>16.</td>
-<td>«Мир»</td>
-</tr>
-<tr>
-<td>582.</td>
-<td>17.</td>
-<td>«Астана»</td>
-</tr>
-<tr>
-<td>583.</td>
-<td>18.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
-</tr>
-<tr>
-<td>584.</td>
-<td>19.</td>
-<td>«Независимый Телевизионный канал»</td>
-</tr>
-<tr>
-<td>585.</td>
-<td>20.</td>
-<td>«Седьмой канал»</td>
-</tr>
-<tr>
-<td>586.</td>
-<td>21.</td>
-<td>«31 канал»</td>
-</tr>
-<tr>
-<td>587.</td>
-<td>22.</td>
-<td>«СТВ»</td>
-</tr>
-<tr>
-<td>588.</td>
-<td>23.</td>
-<td>«Almaty»</td>
-</tr>
-<tr>
-<td>589.</td>
-<td>24.</td>
-<td>«Hit TV»</td>
-</tr>
-<tr>
-<td>590.</td>
-<td>25.</td>
-<td>«Асыл Арна»</td>
-</tr>
-<tr>
-<td>591.</td>
-<td>26.</td>
-<td>«MUZZONE TV»</td>
-</tr>
-<tr>
-<td>592.</td>
-<td>27.</td>
-<td>«Gakku Media»</td>
-</tr>
-<tr>
-<td>593.</td>
-<td>28.</td>
-<td>«Агро ТВ»</td>
-</tr>
-<tr>
-<td>594.</td>
-<td>29.</td>
-<td>«Тұран ТВ»</td>
-</tr>
-<tr>
-<td>595.</td>
-<td>30.</td>
-<td>«TDQ 42»</td>
-</tr>
-<tr>
-<td>596.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">
-г. Жанаозен,
-Бейнеуский район, с.Акжигит, с.Бейнеу, с.Боранкуль,
-Каракиянский район, с.Жетыбай, с.Курык, с.Сенек,
-Мангистауский район, с.Жармыш, с.Жынгылды, с.Кызан, с.Онды, с.Отес (Сайотес), с.Тущыкудук, с.Уштаган, с.Шайыр, с.Шетпе,
-Тупкараганский район, с.Каражанбас, с.Кызылозен, с.Таушык, г.Форт-Шевченко
-</td>
-</tr>
-<tr>
-<td>597.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>598.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>599.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>600.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>601.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>602.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>603.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>604.</td>
-<td>9.</td>
-<td>«MAN’G’YSTAY’»</td>
-</tr>
-<tr>
-<td>605.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>606.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>607.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>608.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>609.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>610.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td colspan="4">Павлодарская область</td>
-</tr>
-<tr>
-<td>611.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="30">г. Павлодар</td>
-</tr>
-<tr>
-<td>612.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>613.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>614.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>615.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>616.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>617.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>618.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>619.</td>
-<td>9.</td>
-<td>«ERTIS»</td>
-</tr>
-<tr>
-<td>620.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>621.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>622.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>623.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>624.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>625.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td>626.</td>
-<td>16.</td>
-<td>«Мир»</td>
-</tr>
-<tr>
-<td>627.</td>
-<td>17.</td>
-<td>«Астана»</td>
-</tr>
-<tr>
-<td>628.</td>
-<td>18.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
-</tr>
-<tr>
-<td>629.</td>
-<td>19.</td>
-<td>«Независимый Телевизионный канал»</td>
-</tr>
-<tr>
-<td>630.</td>
-<td>20.</td>
-<td>«Седьмой канал»</td>
-</tr>
-<tr>
-<td>631.</td>
-<td>21.</td>
-<td>«31 канал»</td>
-</tr>
-<tr>
-<td>632.</td>
-<td>22.</td>
-<td>«СТВ»</td>
-</tr>
-<tr>
-<td>633.</td>
-<td>23.</td>
-<td>«Almaty»</td>
-</tr>
-<tr>
-<td>634.</td>
-<td>24.</td>
-<td>«Асыл Арна»</td>
-</tr>
-<tr>
-<td>635.</td>
-<td>25.</td>
-<td>«MuzLife»</td>
-</tr>
-<tr>
-<td>636.</td>
-<td>26.</td>
-<td>«Gakku Media»</td>
-</tr>
-<tr>
-<td>637.</td>
-<td>27.</td>
-<td>«Агро ТВ»</td>
-</tr>
-<tr>
-<td>638.</td>
-<td>28.</td>
-<td>«Магия кухни»</td>
-</tr>
-<tr>
-<td>639.</td>
-<td>29.</td>
-<td>«Ирбис ТВ»</td>
-</tr>
-<tr>
-<td>640.</td>
-<td>30.</td>
-<td>«КТК 7»</td>
-</tr>
-<tr>
-<td>641.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">г. Экибастуз</td>
-</tr>
-<tr>
-<td>642.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>643.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>644.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>645.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>646.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>647.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>648.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>649.</td>
-<td>9.</td>
-<td>«ERTIS»</td>
-</tr>
-<tr>
-<td>650.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>651.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>652.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>653.</td>
-<td>13.</td>
-<td>«QAZSPORT»</td>
-</tr>
-<tr>
-<td>654.</td>
-<td>14.</td>
-<td>«Экибастузская городская телекомпания»</td>
-</tr>
-<tr>
-<td>655.</td>
-<td>15.</td>
-<td>«Ирбис ТВ»</td>
-</tr>
-<tr>
-<td>656.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">
-г.Акколь, с.Тай,
-Аккулинский район, с.Акку, с.Шоктал,
-Актогайский район, с.Жолболды, с.Жалаулы (Ивановка),
-Баянаульский район, с.Баянаул, с.Муса Шорманов (Тендик),
-Иртышский район, с. Голубовка, с.Ленино, с.Майконыр, с.Северное, Железинский район, с.Алаколь, с.Михайловка, с.Озерное, Теренкольский (Качирский) район, с.Жанакурлыс, с.Октябрьское,
-Майский район, с.Майское,
-Щербактинский район, с.Алексеевка, с.Арбигень, с.Жанааул, с.Орловка, с.Чигириновка, с. Шалдай,
-Успенский район, с. Коныр Озек, с.Лозовое, с.Успенка
-</td>
-</tr>
-<tr>
-<td>657.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>658.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>659.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>660.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>661.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>662.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>663.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>664.</td>
-<td>9.</td>
-<td>«ERTIS»</td>
-</tr>
-<tr>
-<td>665.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>666.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>667.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>668.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>669.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>670.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td colspan="4">Северо-Казахстанская область</td>
-</tr>
-<tr>
-<td>671.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="30">г. Петропавловск</td>
-</tr>
-<tr>
-<td>672.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>673.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>674.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>675.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>676.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>677.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>678.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>679.</td>
-<td>9.</td>
-<td>«QYZYLJAR»</td>
-</tr>
-<tr>
-<td>680.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>681.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>682.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>683.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>684.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>685.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td>686.</td>
-<td>16.</td>
-<td>«Мир»</td>
-</tr>
-<tr>
-<td>687.</td>
-<td>17.</td>
-<td>«Астана»</td>
-</tr>
-<tr>
-<td>688.</td>
-<td>18.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
-</tr>
-<tr>
-<td>689.</td>
-<td>19.</td>
-<td>«Независимый Телевизионный канал»</td>
-</tr>
-<tr>
-<td>690.</td>
-<td>20.</td>
-<td>«Седьмой канал»</td>
-</tr>
-<tr>
-<td>691.</td>
-<td>21.</td>
-<td>«31 канал»</td>
-</tr>
-<tr>
-<td>692.</td>
-<td>22.</td>
-<td>«СТВ»</td>
-</tr>
-<tr>
-<td>693.</td>
-<td>23.</td>
-<td>«Almaty»</td>
-</tr>
-<tr>
-<td>694.</td>
-<td>24.</td>
-<td>«Асыл Арна»</td>
-</tr>
-<tr>
-<td>695.</td>
-<td>25.</td>
-<td>«MuzLife»</td>
-</tr>
-<tr>
-<td>696.</td>
-<td>26.</td>
-<td>«Gakku Media»</td>
-</tr>
-<tr>
-<td>697.</td>
-<td>27.</td>
-<td>«Агро ТВ»</td>
-</tr>
-<tr>
-<td>698.</td>
-<td>28.</td>
-<td>«Тұран ТВ»</td>
-</tr>
-<tr>
-<td>699.</td>
-<td>29.</td>
-<td>«Муниципальный телерадиоканал»</td>
-</tr>
-<tr>
-<td>700.</td>
-<td>30.</td>
-<td>«Первый Северный»</td>
-</tr>
-<tr>
-<td>701.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">
-Тайынша,
-Айыртауский район, с.Агынтай батыра (Златогорка), с.Арыкбалык, с.Имантау, с.Константиновка, с.Лавровка, с.Лобаново, с.Никольско-Бурлукское, с.Саумалколь, с.Сырымбет,
-Акжарский район, с.Горьковское, с.Киевское, с.Ленинградское, с.Уялы,
-Аккайынский район, с.Киялы,
-Есильский район, с.Заградовка, с.Николаевка,
-район им.Г. Мусрепова, Кырымбет, Рузаевка, Тахтаброд, Чистополье, Жамбылский район, с.Благовещенка с.Пресновка, с.Светлое, с.Украинское,
-район Магжана Жумабаева, Булаево, с.Узунколь,
-Мамлютский район, с.Михайловка,
-Тайыншинский район, с.Рощинское, с.Чкалово,
-Тимирязевский район, г.Есиль, с.Тимирязево,
-Уалихановский район, с.Кайрат, с.Каратерек, с.Кишкенеколь, с.Кулыколь,
-район Шал акына, с.Афанасьевка, с.Мерген, с.Новопокровка, с.Сухорабовка, с.Узынжар
-</td>
-</tr>
-<tr>
-<td>702.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>703.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>704.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>705.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>706.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>707.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>708.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>709.</td>
-<td>9.</td>
-<td>«QYZYLJAR»</td>
-</tr>
-<tr>
-<td>710.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>711.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>712.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>713.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>714.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>715.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td colspan="4">Туркестанская область</td>
-</tr>
-<tr>
-<td>716.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="30">г. Туркестан</td>
-</tr>
-<tr>
-<td>717.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>718.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>719.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>720.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>721.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>722.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>723.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>724.</td>
-<td>9.</td>
-<td>«ON’TU’STIK»</td>
-</tr>
-<tr>
-<td>725.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>726.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>727.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>728.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>729.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>730.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td>731.</td>
-<td>16.</td>
-<td>«Астана»</td>
-</tr>
-<tr>
-<td>732.</td>
-<td>17.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
-</tr>
-<tr>
-<td>733.</td>
-<td>18.</td>
-<td>«Независимый Телевизионный канал»</td>
-</tr>
-<tr>
-<td>734.</td>
-<td>19.</td>
-<td>«31 канал»</td>
-</tr>
-<tr>
-<td>735.</td>
-<td>20.</td>
-<td>«Almaty»</td>
-</tr>
-<tr>
-<td>736.</td>
-<td>21.</td>
-<td>«Hit TV»</td>
-</tr>
-<tr>
-<td>737.</td>
-<td>22.</td>
-<td>«Асыл Арна»</td>
-</tr>
-<tr>
-<td>738.</td>
-<td>23.</td>
-<td>«Агро ТВ»</td>
-</tr>
-<tr>
-<td>739.</td>
-<td>24.</td>
-<td>«Тұран ТВ»</td>
-</tr>
-<tr>
-<td>740.</td>
-<td>25.</td>
-<td>«Магия кухни»</td>
-</tr>
-<tr>
-<td>741.</td>
-<td>26.</td>
-<td>«NAR TV»</td>
-</tr>
-<tr>
-<td>742.</td>
-<td>27.</td>
-<td>«J1 (JASTAR1)»</td>
-</tr>
-<tr>
-<td>743.</td>
-<td>28.</td>
-<td>«Айғақ»</td>
-</tr>
-<tr>
-<td>744.</td>
-<td>29.</td>
-<td>«Отырар TV»</td>
-</tr>
-<tr>
-<td>745.</td>
-<td>30.</td>
-<td>«Тұран-Түркістан»</td>
-</tr>
-<tr>
-<td>746.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">г. Арыс, Монтайтас, Ордабасинский район, с.Бугунь</td>
-</tr>
-<tr>
-<td>747.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>748.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>749.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>750.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>751.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>752.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>753.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>754.</td>
-<td>9.</td>
-<td>«ON’TU’STIK»</td>
-</tr>
-<tr>
-<td>755.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>756.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>757.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>758.</td>
-<td>13.</td>
-<td>«QAZSPORT»</td>
-</tr>
-<tr>
-<td>759.</td>
-<td>14.</td>
-<td>«Арыс толқындары»</td>
-</tr>
-<tr>
-<td>760.</td>
-<td>15.</td>
-<td>«Той Думан»</td>
-</tr>
-<tr>
-<td>761.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">г.Кентау</td>
-</tr>
-<tr>
-<td>762.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>763.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>764.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>765.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>766.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>767.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>768.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>769.</td>
-<td>9.</td>
-<td>«ON’TU’STIK»</td>
-</tr>
-<tr>
-<td>770.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>771.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>772.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>773.</td>
-<td>13.</td>
-<td>«QAZSPORT»</td>
-</tr>
-<tr>
-<td>774.</td>
-<td>14.</td>
-<td>«Икар»</td>
-</tr>
-<tr>
-<td>775.</td>
-<td>15.</td>
-<td>«Тұран-Түркістан»</td>
-</tr>
-<tr>
-<td>776.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="14">Сайрамский район, с.Манкент</td>
-</tr>
-<tr>
-<td>777.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>778.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>779.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>780.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>781.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>782.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>783.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>784.</td>
-<td>9.</td>
-<td>«ON’TU’STIK»</td>
-</tr>
-<tr>
-<td>785.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>786.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>787.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>788.</td>
-<td>13.</td>
-<td>«QAZSPORT»</td>
-</tr>
-<tr>
-<td>789.</td>
-<td>14.</td>
-<td>«ELNUR TV»</td>
-</tr>
-<tr>
-<td>790.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="14">г. Сарыагаш, с. Абай, с. Дербисек, с. Кызыласкер</td>
-</tr>
-<tr>
-<td>791.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>792.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>793.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>794.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>795.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>796.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>797.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>798.</td>
-<td>9.</td>
-<td>«ON’TU’STIK»</td>
-</tr>
-<tr>
-<td>799.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>800.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>801.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>802.</td>
-<td>13.</td>
-<td>«QAZSPORT»</td>
-</tr>
-<tr>
-<td>803.</td>
-<td>14.</td>
-<td>«СӘТ»</td>
-</tr>
-<tr>
-<td>804.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">г.Жетысай</td>
-</tr>
-<tr>
-<td>805.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>806.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>807.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>808.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>809.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>810.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>811.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>812.</td>
-<td>9.</td>
-<td>«ON’TU’STIK»</td>
-</tr>
-<tr>
-<td>813.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>814.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>815.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>816.</td>
-<td>13.</td>
-<td>«QAZSPORT»</td>
-</tr>
-<tr>
-<td>817.</td>
-<td>14.</td>
-<td>«Айғақ»</td>
-</tr>
-<tr>
-<td>818.</td>
-<td>15.</td>
-<td>«SANUR TV»</td>
-</tr>
-<tr>
-<td>819.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="14">
-Шардаринский район
-г.Шардара
-</td>
-</tr>
-<tr>
-<td>820.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>821.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>822.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>823.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>824.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>825.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>826.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>827.</td>
-<td>9.</td>
-<td>«ON’TU’STIK»</td>
-</tr>
-<tr>
-<td>828.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>829.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>830.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>831.</td>
-<td>13.</td>
-<td>«QAZSPORT»</td>
-</tr>
-<tr>
-<td>832.</td>
-<td>14.</td>
-<td>«SANUR TV»</td>
-</tr>
-<tr>
-<td>833.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">
-Байдибекский район, с.Агибет, с.Акбулак, с.Байдибеката, с.Бестогай, с.Боралдай, с.Жанаталап, с.Жарыкбас, с.Жузумдик, с.Жыланды, с.Каратас, с.Кенес, с.Кенестобе, с.Кенсай, с.Чаян, с.Шакпак,
-Казыгуртский район, с.Аккум, с.Бакабулак, с.Енбекши, с.Жанабазар, с.Жанаталап, с. Казыгурт, с.Карабау, с. Каржан, с. Косагаш, с.Кызылата, с.Кызылбулак (Женис), с.Тесиктобе, с.Турбат, с.Ызабулак,
-Ордабасынский район, с.Бугунь,
-Сайрамский район, с.Кожакорган, с.Манкент,
-Сузакский район, с.Аксумбе, с.Бабаата, с.Жыныс (Женис) , с.Каракур, с.Козмолдак, с.Кумкент, с.Кыземшек, с.Чулаккурган,
-Толебийский район, с.Балдыберек, с.Жанажол, с.Жанауйым, с.Конесарык, Тюлькубасский район, с.Абай, с.Даубаба, с.Жиынбая, с.Жыланды, с.Турара Рыскулова, с. Састобе,
-Сарыагашский р-н, с.Алимтау, с.Абай (Бескубыр) , с.Бозай, с.Дербисек , с.Жанатиршилик, с.Жилга, с.Карла Маркса, с.Кызыласкер (Лесбек Батыр), с.Кызыласу, с.Сарыагаш, с.Ченгельды, с.Шымырбай
-</td>
-</tr>
-<tr>
-<td>834.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>835.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>836.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>837.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>838.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>839.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>840.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>841.</td>
-<td>9.</td>
-<td>«ON’TU’STIK»</td>
-</tr>
-<tr>
-<td>842.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>843.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>844.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>845.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>846.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>847.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td colspan="4">Восточно-Казахстанская область</td>
-</tr>
-<tr>
-<td>848.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="30">г. Усть-Каменогорск</td>
-</tr>
-<tr>
-<td>849.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>850.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>851.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>852.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>853.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>854.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>855.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>856.</td>
-<td>9.</td>
-<td>«ALTAI’»</td>
-</tr>
-<tr>
-<td>857.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>858.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>859.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>860.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>861.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>862.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td>863.</td>
-<td>16.</td>
-<td>«Мир»</td>
-</tr>
-<tr>
-<td>864.</td>
-<td>17.</td>
-<td>«Астана»</td>
-</tr>
-<tr>
-<td>865.</td>
-<td>18.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
-</tr>
-<tr>
-<td>866.</td>
-<td>19.</td>
-<td>«Независимый Телевизионный канал»</td>
-</tr>
-<tr>
-<td>867.</td>
-<td>20.</td>
-<td>«Седьмой канал»</td>
-</tr>
-<tr>
-<td>868.</td>
-<td>21.</td>
-<td>«31 канал»</td>
-</tr>
-<tr>
-<td>869.</td>
-<td>22.</td>
-<td>«СТВ»</td>
-</tr>
-<tr>
-<td>870.</td>
-<td>23.</td>
-<td>«Almaty»</td>
-</tr>
-<tr>
-<td>871.</td>
-<td>24.</td>
-<td>«Асыл Арна»</td>
-</tr>
-<tr>
-<td>872.</td>
-<td>25.</td>
-<td>«MuzLife»</td>
-</tr>
-<tr>
-<td>873.</td>
-<td>26.</td>
-<td>«Gakku Media»</td>
-</tr>
-<tr>
-<td>874.</td>
-<td>27.</td>
-<td>«ОҢ ТВ»</td>
-</tr>
-<tr>
-<td>875.</td>
-<td>28.</td>
-<td>«Агро ТВ»</td>
-</tr>
-<tr>
-<td>876.</td>
-<td>29.</td>
-<td>«Тұран ТВ»</td>
-</tr>
-<tr>
-<td>877.</td>
-<td>30.</td>
-<td>«Новое телевидение»</td>
-</tr>
-<tr>
-<td>878.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">г.Семей</td>
-</tr>
-<tr>
-<td>879.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>880.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>881.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>882.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>883.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>884.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>885.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>886.</td>
-<td>9.</td>
-<td>«ALTAI’»</td>
-</tr>
-<tr>
-<td>887.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>888.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>889.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>890.</td>
-<td>13.</td>
-<td>«QAZSPORT»</td>
-</tr>
-<tr>
-<td>891.</td>
-<td>14.</td>
-<td>«ТВК-6»</td>
-</tr>
-<tr>
-<td>892.</td>
-<td>15.</td>
-<td>«SEMEI’»</td>
-</tr>
-<tr>
-<td>893.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="14">г.Зыряновск, п.Октябрьский, г.Серебрянск</td>
-</tr>
-<tr>
-<td>894.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>895.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>896.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>897.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>898.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>899.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>900.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>901.</td>
-<td>9.</td>
-<td>«ALTAI’»</td>
-</tr>
-<tr>
-<td>902.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>903.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>904.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>905.</td>
-<td>13.</td>
-<td>«QAZSPORT»</td>
-</tr>
-<tr>
-<td>906.</td>
-<td>14.</td>
-<td>«Алва ТВ»</td>
-</tr>
-<tr>
-<td>907.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">Зыряновский район, с.Баяновск, с.Березовка, с.Богатырево, с.Бородино, с.Быково, Д.О.Голубой залив, с.Ермаковка, с.Зубовка, с.Кремнюха, с.Никольск, с.Октябрьский, с.Прибрежный, с.Путинцево, с.Северное, с.Серебрянск, с.Средигорное, с.Феклистовка, с.Чиркаин</td>
-</tr>
-<tr>
-<td>908.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>909.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>910.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>911.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>912.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>913.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>914.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>915.</td>
-<td>9.</td>
-<td>«ALTAI’»</td>
-</tr>
-<tr>
-<td>916.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>917.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>918.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>919.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>920.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>921.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td>922.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="15">
-Абайский район, с.Айнабулак, с.Архат, с.Токтамыс (Бестамак), с.Журекадыр, с.Карааул, с.Каскабулак, с.Кокбай, с.Сарыжал,
-Бескарагайский район, с.Бескарагай, с.Бозтал, с.Канонерка, с.Коянбай, с.Семеновка, с.Сосновка,
-Бородулихинский район, с.Алексеевка, с.Бородулиха, с.Буркотово, с.Вознесеновка, с.Жезкент, с.Ивановка, с.Коростели, с.Новая Шульба,
-Глубоковский район, с. Березовка, с.Быструха, с.Верхнеберезовка, с.Веселовка, с.Зимовье, с.Каменный, с.Карьер, с.Карагужиха, с.Секисовка, с.Тарханка, с.Черемшанка,
-Жарминский район, с.8 Марта, с.Аршалы, с.Ауэзов, с.Белтерек, с.Былкылдак, с. Жайма, с.Жангизтобе, с.Жарма, с.Жарык, с.Капанбулак, с.Каратобе, с.Кентарлау, с.Киши, с.Карасу, с.Конырбиик,с. Кызылагаш, с.Малай, с.Салкынтобе, с.Сулусары, г.Шар, г.Зайсан, Зайсанский район, с. Шиликты,
-Кокпектинский район, с.Бигаш, с.Кокпекты, с.Малороссийка, с.Мариногорка, с.Миролюбовка, с.Новостройка, с.Палатцы, с.Пантелеймоновка, с.Подгорное, с.Раздольное, с.Самарское, с.Тассай, с.Укиликыз, г.Курчатов,
-Курчумский район, с.Акбулак, с.Акжайлау, с.Бурабай, с.Буран, с.Кайнарлы, с.Караой, с.Каратогай, с.Койтас, с.Курчум, с.Курчумкистауы, с.Маралды, с.Теректы, с.Тоскаин, с.Урунхайка, с.Ушбулак,
-Тарбагатайский район, с.Акжар, с.Байтогас, с.Жанаауыл, с.Жанаталап, с.Кабанбай, с.Киндикты, с.Кокжыра, с.Кызылкесик, с.Уштобе,
-Урджарский район, с.Акшокы, с.Алтыншокы, с.Амангельды, с.Барлыкарасан, с.Батпакты, с.Бахты, с.Благодатное, с.Бугубай, с.Кабанбай, с.Карабуйрат, с.Каракол, с. Кызылбулак, с.Лайбулак, с.Маканчи, с.Некрасовка, с. Новоандреевка, с.Сегизбай, с.Таскескен, с.Урджар,
-Уланский район, с.Асубулак, с.Баяш, с. Утепов, с.Бозанбай, с.Верхние Таинты, с.Изгутты Айтыков, с.Каменка, с.Огневка, с.Привольное, с.Таргын, г.Шемонаиха, Шемонаихинский район, с.Верх-Уба, с.Выдриха, с.Кандыковка, с.Кенюхово, с.Первомайский, с.Рулиха, с.Убинка
-</td>
-</tr>
-<tr>
-<td>923.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>924.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>925.</td>
-<td>4.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>926.</td>
-<td>5.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>927.</td>
-<td>6.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>928.</td>
-<td>7.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>929.</td>
-<td>8.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>930.</td>
-<td>9.</td>
-<td>«ALTAI’»</td>
-</tr>
-<tr>
-<td>931.</td>
-<td>10.</td>
-<td rowspan="3">«QAZSPORT HD»</td>
-</tr>
-<tr>
-<td>932.</td>
-<td>11.</td>
-</tr>
-<tr>
-<td>933.</td>
-<td>12.</td>
-</tr>
-<tr>
-<td>934.</td>
-<td>13.</td>
-<td rowspan="3">«Хабар HD»</td>
-</tr>
-<tr>
-<td>935.</td>
-<td>14.</td>
-</tr>
-<tr>
-<td>936.</td>
-<td>15.</td>
-</tr>
-<tr>
-<td colspan="4">2. Теле-, радиоканалы, распространяемые посредством цифрового спутникового телерадиовещания</td>
-</tr>
-<tr>
-<td>937.</td>
-<td>1.</td>
-<td>«QAZAQSTAN»</td>
-<td rowspan="36">Республика Казахстан</td>
-</tr>
-<tr>
-<td>938.</td>
-<td>2.</td>
-<td>«Хабар»</td>
-</tr>
-<tr>
-<td>939.</td>
-<td>3.</td>
-<td>«Хабар 24»</td>
-</tr>
-<tr>
-<td>940.</td>
-<td>4.</td>
-<td>«QAZSPORT»</td>
-</tr>
-<tr>
-<td>941.</td>
-<td>5.</td>
-<td>«Balapan»</td>
-</tr>
-<tr>
-<td>942.</td>
-<td>6.</td>
-<td>«Ел арна»</td>
-</tr>
-<tr>
-<td>943.</td>
-<td>7.</td>
-<td>«Kazakh TV»</td>
-</tr>
-<tr>
-<td>944.</td>
-<td>8.</td>
-<td>«TamashaTV»</td>
-</tr>
-<tr>
-<td>945.</td>
-<td>9.</td>
-<td>«Первый канал Евразия»</td>
-</tr>
-<tr>
-<td>946.</td>
-<td>10.</td>
-<td>«Мир»</td>
-</tr>
-<tr>
-<td>947.</td>
-<td>11.</td>
-<td>«Астана»</td>
-</tr>
-<tr>
-<td>948.</td>
-<td>12.</td>
-<td>«Коммерческий Телевизионный Канал»</td>
-</tr>
-<tr>
-<td>949.</td>
-<td>13.</td>
-<td>«Независимый Телевизионный канал»</td>
-</tr>
-<tr>
-<td>950.</td>
-<td>14.</td>
-<td>«Седьмой канал»</td>
-</tr>
-<tr>
-<td>951.</td>
-<td>15.</td>
-<td>«31 канал»</td>
-</tr>
-<tr>
-<td>952.</td>
-<td>16.</td>
-<td>«СТВ»</td>
-</tr>
-<tr>
-<td>953.</td>
-<td>17.</td>
-<td>«Almaty»</td>
-</tr>
-<tr>
-<td>954.</td>
-<td>18.</td>
-<td>«Hit TV»</td>
-</tr>
-<tr>
-<td>955.</td>
-<td>19.</td>
-<td>«Асыл Арна»</td>
-</tr>
-<tr>
-<td>956.</td>
-<td>20.</td>
-<td>«MuzLife»</td>
-</tr>
-<tr>
-<td>957.</td>
-<td>21.</td>
-<td>«Gakku Media»</td>
-</tr>
-<tr>
-<td>958.</td>
-<td>22.</td>
-<td>«TDQ 42»</td>
-</tr>
-<tr>
-<td>959.</td>
-<td>23.</td>
-<td>«Жетысу»</td>
-</tr>
-<tr>
-<td>960.</td>
-<td>24.</td>
-<td>«KO’KS’E»</td>
-</tr>
-<tr>
-<td>961.</td>
-<td>25.</td>
-<td>«AQTO’BE»</td>
-</tr>
-<tr>
-<td>962.</td>
-<td>26.</td>
-<td>«ATYRAY’»</td>
-</tr>
-<tr>
-<td>963.</td>
-<td>27.</td>
-<td>«AQJAI’YQ»</td>
-</tr>
-<tr>
-<td>964.</td>
-<td>28.</td>
-<td>«JAMBYL»</td>
-</tr>
-<tr>
-<td>965.</td>
-<td>29.</td>
-<td>«ALTAI’»</td>
-</tr>
-<tr>
-<td>966.</td>
-<td>30.</td>
-<td>«SARYARQA»</td>
-</tr>
-<tr>
-<td>967.</td>
-<td>31.</td>
-<td>«QOSTANAI’»</td>
-</tr>
-<tr>
-<td>968.</td>
-<td>32.</td>
-<td>«QYZYLORDA»</td>
-</tr>
-<tr>
-<td>969.</td>
-<td>33.</td>
-<td>«MAN’G’YSTAY’»</td>
-</tr>
-<tr>
-<td>970.</td>
-<td>34.</td>
-<td>«QYZYLJAR»</td>
-</tr>
-<tr>
-<td>971.</td>
-<td>35.</td>
-<td>«ON’TU’STIK»</td>
-</tr>
-<tr>
-<td>972.</td>
-<td>36.</td>
-<td>«ERTIS»</td>
-</tr>
-<tr>
-<td>973.</td>
-<td>1.</td>
-<td>«Хабар» HD</td>
-<td rowspan="5">Республика Казахстан</td>
-</tr>
-<tr>
-<td>974.</td>
-<td>2.</td>
-<td>«Хабар 24» HD</td>
-</tr>
-<tr>
-<td>975.</td>
-<td>3.</td>
-<td>«QAZAQSTAN» HD</td>
-</tr>
-<tr>
-<td>976.</td>
-<td>4.</td>
-<td>«QAZSPORT» HD</td>
-</tr>
-<tr>
-<td>977.</td>
-<td>5.</td>
-<td>«Balapan»HD</td>
-</tr>
-<tr>
-<td>978.</td>
-<td>1.</td>
-<td>радиоканал «Казахское радио»</td>
-<td rowspan="5">Республика Казахстан</td>
-</tr>
-<tr>
-<td>979.</td>
-<td>2.</td>
-<td>радиоканал «Шалқар»</td>
-</tr>
-<tr>
-<td>980.</td>
-<td>3.</td>
-<td>радиоканал «Астана»</td>
-</tr>
-<tr>
-<td>981.</td>
-<td>4.</td>
-<td>радиоканал «Classic»</td>
-</tr>
-<tr>
-<td>982.</td>
-<td>5.</td>
-<td>радио «ORDA FM»</td>
+<td>5</td>
+<td colspan="3">радио «ORDA FM»</td>
 </tr>
 </table>
 
