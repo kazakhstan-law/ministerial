@@ -2,772 +2,1398 @@
 
 > *Приложение*  
 > *к Типовой учебной программе*  
-> *по предмету «Познание мира»*  
+> *по предмету «Английский язык»*  
 > *для 1-4 классов уровня*  
 > *начального образования*
 
-## Долгосрочный план по реализации Типовой учебной программы по предмету «Познание мира» для 1-4 классов уровня начального образования
+## Долгосрочный план по реализации Типовой учебной программы по предмету «Английский язык» для 1-4 классов уровня начального образования
 
-1\) 1 класс:
+1) grade 1:
 
 <table>
 <tr>
-<td>Сквозная тема</td>
-<td colspan="2">Подразделы программы</td>
-<td>Цели обучения</td>
+<td>Cross curricular units</td>
+<td>Topics</td>
+<td>Learning objectives</td>
 </tr>
 <tr>
-<td colspan="4">1 четверть</td>
+<td colspan="3">Term 1</td>
 </tr>
 <tr>
-<td rowspan="2">1 Все обо мне</td>
-<td colspan="2">1.2 Школа и школьное сообщество</td>
-<td>1.1.2.6 характеризовать себя в качестве школьника и члена коллектива класса</td>
-</tr>
-<tr>
-<td colspan="2">
-1.1
-Я и моя семья
-</td>
+<td rowspan="3">All about me</td>
+<td>Greetings and names</td>
 <td>
-1.1.1.5 определять структуру своих потребностей в предметах потребления и источники их поступления;
-1.1.2.4 объяснять важность соблюдения режима дня и составлять примерный режим одного дня;
-1.1.2.5 применять названия времени суток и дней недели;
-1.1.1.3 объяснять важность заботливого отношения между членами семьи и приводить примеры
+1.1.3.1 recognise with support common names and names of places, recognise the spoken form of a limited range of everyday and classroom words;
+1.2.1.1 make basic personal statements about people, objects and classroom routines
 </td>
 </tr>
 <tr>
-<td>2. Моя школа</td>
-<td colspan="2">1.2 Школа и школьное сообщество</td>
+<td>Colours</td>
 <td>
-1.1.2.1 объяснять важность школы в жизни людей;
-1.1.2.6 характеризовать себя в качестве школьника и члена коллектива класса;
-1.1.4.4 объяснять правила поведения на дороге, значение дорожных знаков, регулирующих пешеходное движение;
-1.1.4.5 составлять план безопасного маршрута от дома до школы;
-1.1.2.2 определять местонахождение функциональных зон школы;
-1.1.2.3 объяснять важность соблюдения правил поведения в школе
+1.1.3.1 recognise with support common names and names of places, recognise the spoken form of a limited range of everyday and classroom words;
+1.1.9.1 recognise the names of letters of the alphabet;
+1.2.3.1 pronounce familiar words and expressions intelligibly;
+1.5.3.1 use basic adjectives to describe people and things;
+1.5.6.1 use demonstrative pronouns this, these that, those to indicate things
 </td>
 </tr>
 <tr>
-<td colspan="4">2 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">Моя семья и друзья</td>
-<td colspan="2">1.1 Я и моя семья</td>
+<td>1 – 20</td>
 <td>
-1.1.1.1 понимать и объяснять значение понятия «семья» на основе исследования различных источников;
-1.1.1.2 определять свое место в системе родственных связей относительно других членов семьи;
-1.1.6.1 описывать один из семейных праздников;
-1.1.1.3 объяснять важность заботливого отношения между членами семьи и приводить примеры;
-1.1.4.3 объяснять правила безопасного поведения дома
+1.1.1.1 recognise short basic instructions for a limited range of classroom routines spoken slowly and distinctly;
+1.2.3.1 pronounce familiar words and expressions intelligibly;
+1.5.2.1 use cardinal numbers 1 – 20 to count
 </td>
 </tr>
 <tr>
-<td colspan="2">1.3 Моя малая Родина</td>
-<td>1.1.3.1 называть свой адрес и описывать географическое положение своего населенного пункта</td>
-</tr>
-<tr>
-<td colspan="2">1.1 Я и моя семья</td>
-<td>1.1.1.5 определять структуру своих потребностей в предметах потребления и источники их поступления</td>
-</tr>
-<tr>
-<td rowspan="4">4 Мир вокруг нас</td>
-<td colspan="2">2.1 Ориентирование на местности</td>
-<td>1.2.1.1 определять стороны горизонта по местным признакам</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">1.3 Моя малая Родина</td>
+<td rowspan="3">My school</td>
+<td>Classroom objects</td>
 <td>
-1.1.3.1 называть свой адрес и описывать географическое положение своего населенного пункта;
-1.1.3.2 описывать главную улицу, здания и достопримечательности своего населенного пункта
+1.1.1.1 recognise short basic instructions for a limited range of classroom routines spoken slowly and distinctly;
+1.1.3.1 recognise with support common names and names of places, recognise the spoken form of a limited range of everyday and classroom words;
+1.1.9.1 recognise the names of letters of the alphabet;
+1.2.3.1 pronounce familiar words and expressions intelligibly;
+1.5.1.1 use singular nouns, plural nouns – to talk about people and places;
+1.5.4.1 use determiners a, an, some, the, this, these to indicate what/where something is;
+1.5.6.1 use demonstrative pronouns this, these that, those to indicate things;
+1.5.14.1 use basic prepositions of location and position example given in, at, next to, near, on, to describe where people and things are, use basic prepositions of time, on to talk about days
+</td>
+</tr>
+<tr>
+<td>Classroom routines</td>
+<td>
+1.1.1.1 recognise short basic instructions for a limited range of classroom routines spoken slowly and distinctly;
+1.1.3.1 recognise with support common names and names of places, recognise the spoken form of a limited range of everyday and classroom words;
+1.2.3.1 pronounce familiar words and expressions intelligibly;
+1.5.8.1 use simple imperative forms [positive] for basic commands or instructions;
+1.5.13.1 use can/can’t to describe ability
+</td>
+</tr>
+<tr>
+<td>Describing things</td>
+<td>
+1.2.1.1 make basic personal statements about people, objects and classroom routines;
+1.2.2.1 ask questions in basic exchanges about people, objects and classroom routines;
+1.2.6.1 make introductions and requests in basic interactions with others;
+1.5.3.1 use basic adjectives to describe people and things
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 2</td>
+</tr>
+<tr>
+<td rowspan="3">My family and friends</td>
+<td>Family and friends</td>
+<td>
+1.1.3.1 recognise with support common names and names of places, recognise the spoken form of a limited range of everyday and classroom words;
+1.2.2.1 ask questions in basic exchanges about people, objects and classroom routines;
+1.2.4.1 respond to basic supported questions about people, objects and classroom routines;
+1.5.1.1 use singular nouns, plural nouns – to talk about people and places;
+1.5.4.1 use determiners a, an, some, the, this, these to indicate what/where something is;
+1.5.7.1 use personal subject and object pronouns to give basic personal information
+</td>
+</tr>
+<tr>
+<td>In my house</td>
+<td>
+1.1.9.1 recognise the names of letters of the alphabet;
+1.5.3.1 use basic adjectives to describe people and things;
+1.5.11.1 use there is/there are to make short statements and ask questions;
+1.5.14.1 use basic prepositions of location and position example given in, at, next to, near, on, to describe where people and things are, use basic prepositions of time: on to talk about days
+</td>
+</tr>
+<tr>
+<td>Days of the week</td>
+<td>
+1.1.3.1 recognise with support common names and names of places, recognise the spoken form of a limited range of everyday and classroom words;
+1.2.1.1 make basic personal statements about people, objects and classroom routines;
+1.2.3.1 pronounce familiar words and expressions intelligibly;
+1.3.2.1 recognise initial letters in names and places
+</td>
+</tr>
+<tr>
+<td rowspan="3">The world around us</td>
+<td>Animals</td>
+<td>
+1.1.1.1 recognise short basic instructions for a limited range of classroom routines spoken slowly and distinctly;
+1.1.3.1 recognise with support common names and names of places, recognise the spoken form of a limited range of everyday and classroom words;
+1.2.3.1 pronounce familiar words and expressions intelligibly;
+1.2.5.1 use words in short exchanges;
+1.3.1.1 recognise sound and name the letters of the alphabet;
+1.5.2.1 use cardinal numbers 1 – 20 to count;
+1.5.13.1 use can/can’t to describe ability
+</td>
+</tr>
+<tr>
+<td>Hot and cold</td>
+<td>
+1.1.3.1 recognise with support common names and names of places, recognise the spoken form of a limited range of everyday and classroom words;
+1.2.5.1 use words in short exchanges;
+1.5.3.1 use basic adjectives to describe people and things;
+1.5.7.1 use personal subject and object pronouns to give basic personal information
+</td>
+</tr>
+<tr>
+<td>In Kazakhstan</td>
+<td>
+1.1.4.1 recognise with support short basic questions about what something is;
+1.2.1.1 make basic personal statements about people, objects and classroom routines;
+1.2.3.1 pronounce familiar words and expressions intelligibly;
+1.3.1.1 recognise sound and name the letters of the alphabet;
+1.3.2.1 recognise initial letters in names and places;
+1.3.4.1 use the alphabet to place the first letters of word in alphabetical order;
+1.5.11.1 use there is/there are to make short statements and ask questions;
+1.5.14.1 use basic prepositions of location and position example given in, at, next to, near, on, to describe where people and things are, use basic prepositions of time: on to talk about days
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 3</td>
+</tr>
+<tr>
+<td rowspan="4">Travel</td>
+<td>Getting to school</td>
+<td>
+1.1.2.1 recognise with support a limited range of basic common personal questions spoken slowly and distinctly;
+1.1.4.1 recognise with support short basic questions about what something is;
+1.2.5.1 use words in short exchanges;
+1.5.5.1 use interrogative pronouns which, what, where, how to ask basic questions;
+1.5.9.1 use common present simple forms [positive, negative and question] to give basic personal information
+</td>
+</tr>
+<tr>
+<td>This is the way...</td>
+<td>
+1.1.2.1 recognise with support a limited range of basic common personal questions spoken slowly and distinctly;
+1.5.9.1 use common present simple forms [positive, negative and question] to give basic personal information; 1.2.5.1 use words in short exchanges;
+1.3.4.1 use the alphabet to place the first letters of word in alphabetical order
+</td>
+</tr>
+<tr>
+<td>Where is it?</td>
+<td>
+1.1.3.1 recognise with support common names and names of places, recognise the spoken form of a limited range of everyday and classroom words;
+1.2.3.1 pronounce familiar words and expressions intelligibly;
+1.5.5.1 use interrogative pronouns which, what, where, how to ask basic questions;
+1.5.8.1 use simple imperative forms [positive] for basic commands or instructions;
+1.5.14.1 use basic prepositions of location and position example given in, at, next to, near, on, to describe where people and things are, use basic prepositions of time: on to talk about days
+</td>
+</tr>
+<tr>
+<td>The big red bus</td>
+<td>
+1.1.1.1 recognise short basic instructions for a limited range of classroom routines spoken slowly and distinctly;
+1.1.5.1 recognise the sounds of phonemes and phoneme blends;
+1.2.5.1 use words in short exchanges;
+1.5.6.1 use demonstrative pronouns this, these that, those to indicate things
+</td>
+</tr>
+<tr>
+<td rowspan="4">Traditions and folklore</td>
+<td>Happy Birthday</td>
+<td>
+1.1.1.1 recognise short basic instructions for a limited range of classroom routines spoken slowly and distinctly;
+1.2.6.1 make introductions and requests in basic interactions with others;
+1.3.3.1 recognise and identify some familiar sight words from local environment;
+1.5.2.1 use cardinal numbers 1 – 20 to count;
+1.5.5.1 use interrogative pronouns which, what, where, how to ask basic questions
+</td>
+</tr>
+<tr>
+<td>Springtime in Kazakhstan</td>
+<td>
+1.1.3.1 recognise with support common names and names of places, recognise the spoken form of a limited range of everyday and classroom words;
+1.2.3.1 pronounce familiar words and expressions intelligibly
+</td>
+</tr>
+<tr>
+<td>Hats and masks</td>
+<td>
+1.1.1.1 recognise short basic instructions for a limited range of classroom routines spoken slowly and distinctly;
+1.2.6.1 make introductions and requests in basic interactions with others;
+1.5.11.1 use there is/there are to make short statements and ask questions
+</td>
+</tr>
+<tr>
+<td>Story time</td>
+<td>
+1.1.3.1 recognise with support common names and names of places, recognise the spoken form of a limited range of everyday and classroom words;
+1.2.5.1 use words in short exchanges;
+1.2.4.1 respond to basic supported questions about people, objects and classroom routines
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 4</td>
+</tr>
+<tr>
+<td rowspan="4">Food and drink</td>
+<td>Things I like</td>
+<td>
+1.1.4.1 recognise with support short basic questions about what something is;
+1.2.1.1 make basic personal statements about people, objects and classroom routines;
+1.2.2.1 ask questions in basic exchanges about people, objects and classroom routines;
+1.2.5.1 use words in short exchanges;
+1.3.4.1 use the alphabet to place the first letters of word in alphabetical order
+</td>
+</tr>
+<tr>
+<td>Hot or cold</td>
+<td>
+1.2.5.1 use words in short exchanges;
+1.5.7.1 use personal subject and object pronouns to give basic personal information;
+1.5.9.1 use common present simple forms [positive, negative and question] to give basic personal information
+</td>
+</tr>
+<tr>
+<td>Animals like</td>
+<td>
+1.1.3.1 recognise with support common names and names of places, recognise the spoken form of a limited range of everyday and classroom words;
+1.2.5.1 use words in short exchanges ;
+1.5.9.1 use common present simple forms [positive, negative and question] to give basic personal information
+</td>
+</tr>
+<tr>
+<td>Nice or nasty</td>
+<td>
+1.1.2.1 recognise with support a limited range of basic common personal questions spoken slowly and distinctly;
+1.2.3.1 pronounce familiar words and expressions intelligibly;
+1.5.5.1 use interrogative pronouns which, what, where, how to ask basic questions
+</td>
+</tr>
+<tr>
+<td rowspan="4">Health and body</td>
+<td>Hands and Head</td>
+<td>
+1.2.1.1 make basic personal statements about people, objects and classroom routines;
+1.5.1.1 use singular nouns, plural nouns – to talk about people and places;
+1.5.9.1 use common present simple forms [positive, negative and question] to give basic personal information
+</td>
+</tr>
+<tr>
+<td>Let’s move</td>
+<td>
+1.1.1.1 recognise short basic instructions for a limited range of classroom routines spoken slowly and distinctly;
+1.2.4.1 respond to basic supported questions about people, objects and classroom routines;
+1.3.3.1 recognise and identify some familiar sight words from local environment;
+1.5.8.1 use simple imperative forms [positive] for basic commands or instructions;
+1.5.14.1 use basic prepositions of location and position example given in, at, next to, near, on, to describe where people and things are, use basic prepositions of time: on to talk about days
+</td>
+</tr>
+<tr>
+<td>Making a puppet</td>
+<td>
+1.1.5.1 recognise the sounds of phonemes and phoneme blends;
+1.2.2.1 ask questions in basic exchanges about people, objects and classroom routines;
+1.5.4.1 use determiners a, an, some, the, this, these to indicate what/where something is;
+1.5.8.1 use simple imperative forms [positive] for basic commands or instructions
+</td>
+</tr>
+<tr>
+<td>A special dance</td>
+<td>
+1.1.4.1 recognise with support short basic questions about what something is;
+1.2.5.1 use words in short exchanges;
+1.5.6.1 use demonstrative pronouns this, these that, those to indicate things
+</td>
+</tr>
+</table>
+
+2) grade 2:
+
+<table>
+<tr>
+<td>Cross curricular units</td>
+<td>Topics</td>
+<td>Learning objectives</td>
+</tr>
+<tr>
+<td colspan="3">Term 1</td>
+</tr>
+<tr>
+<td rowspan="3">All about me</td>
+<td>Hello again</td>
+<td>
+2.1.2.1 recognise with considerable support an increasing range of common personal questions;
+2.2.6.1 use short answers appropriately in short, basic exchanges and take turns when speaking with others in a limited range of short, basic exchanges;
+2.3.2.1 identify, remember and sound out high-frequency sound and letter patterns;
+2.4.5.1 write letters and familiar high frequency words when read aloud or spelt out for learners;
+2.4.6.1 use with support upper and lower case letters accurately when writing familiar high frequency words
+</td>
+</tr>
+<tr>
+<td>I can...</td>
+<td>
+2.1.1.1 understand a range of short basic supported classroom instructions;
+2.1.2.1 recognise with considerable support an increasing range of common personal questions;
+2.2.2.1 ask questions in order to satisfy basic needs and find information on familiar topics and classroom routines;
+2.2.4.1 respond to basic supported questions giving personal and factual information;
+2.2.8.1 give simple instructions for others to follow;
+2.5.13.1 use can to talk about ability and to make requests and offers, use can/can’t to talk about permission
+</td>
+</tr>
+<tr>
+<td>My clothes and things</td>
+<td>
+2.1.1.1 understand a range of short basic supported classroom instructions;
+2.2.1.1 make basic statements related to personal information, people and objects on familiar topics and classroom routines;
+2.5.1.1 use singular nouns, plural nouns – including some common irregular plural forms in giving simple descriptions;
+2.5.3.1 use common adjectives in descriptions and to talk about simple feelings
+</td>
+</tr>
+<tr>
+<td rowspan="3">My family and friends</td>
+<td>Friends’ names</td>
+<td>
+2.1.3.1 understand the main points of short, slow and carefully articulated talk on routine and familiar topics features such as colour and number;
+2.3.1.1 read and spell out words for others;
+2.4.2.1 write letters and familiar high frequency words when read aloud or spelt
+</td>
+</tr>
+<tr>
+<td>Helping hands</td>
+<td>
+2.1.1.1 understand a range of short basic supported classroom instructions;
+2.2.3.1 use a limited range of basic words, phrases and short sentences to describe objects, activities and classroom routines;
+2.2.5.1 begin to articulate clearly the difference between various sounds;
+2.2.6.1 use short answers appropriately in short, basic exchanges and take turns when speaking with others in a limited range of short, basic exchanges;
+2.3.1.1 read and spell out words for others;
+2.4.1.1 write with support short responses at phrase level to questions and other prompts;
+2.5.6.1 use demonstrative pronouns this, these, that, those to make and respond to requests for information;
+2.5.13.1 use can to talk about ability and to make requests and offers, use can/can’t to talk about permission
+</td>
+</tr>
+<tr>
+<td>People I know</td>
+<td>
+2.1.3.1 understand the main points of short, slow and carefully articulated talk on routine and familiar topics features such as colour and number;
+2.2.1.1 make basic statements related to personal information, people and objects on familiar topics and classroom routines;
+2.2.3.1 use a limited range of basic words, phrases and short sentences to describe objects, activities and classroom routines;
+2.5.3.1 use common adjectives in descriptions and to talk about simple feelings;
+2.5.13.1 use can to talk about ability and to make requests and offers, use can/can’t to talk about permission
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 2</td>
+</tr>
+<tr>
+<td rowspan="4">My school</td>
+<td>Counting and Measuring</td>
+<td>
+2.1.1.1 understand a range of short basic supported classroom instructions;
+2.1.3.1 understand the main points of short, slow and carefully articulated talk on routine and familiar topics features such as colour and number;
+2.1.5.1 identify missing phonemes in incomplete words;
+2.2.4.1 respond to basic supported questions giving personal and factual information;
+2.3.4.1 begin to use with support a simple picture dictionary;
+2.5.2.1 use cardinal numbers 1 – 50 to count;
+2.5.11.1 use have got + noun to describe and ask about possessions
+</td>
+</tr>
+<tr>
+<td>Around school</td>
+<td>
+2.1.4.1 recognise with support short basic questions relating to features such as colour and number;
+2.1.5.1 identify missing phonemes in incomplete words;
+2.2.3.1 use a limited range of basic words, phrases and short sentences to describe objects, activities and classroom routines;
+2.4.3.1 write short phrases to identify people, places and objects;
+2.5.14.1 use basic prepositions of location and position: at, behind, between, in, in front of, near, next to, on, to to describe where people and things are, use prepositions of time: on, in, at to talk about days and times
+</td>
+</tr>
+<tr>
+<td>School days</td>
+<td>
+2.1.2.1 recognise with considerable support an increasing range of common personal questions;
+2.1.3.1 understand the main points of short, slow and carefully articulated talk on routine and familiar topics features such as colour and number;
+2.2.3.1 use a limited range of basic words, phrases and short sentences to describe objects, activities and classroom routines;
+2.3.2.1 identify, remember and sound out high-frequency sound and letter patterns;
+2.4.7.1 spell some familiar high-frequency words accurately during guided writing activities
+</td>
+</tr>
+<tr>
+<td>Class Photos</td>
+<td>
+2.2.2.1 ask questions in order to satisfy basic needs and find information on familiar topics and classroom routines;
+2.2.4.1 respond to basic supported questions giving personal and factual information;
+2.3.2.1 identify, remember and sound out high-frequency sound and letter patterns;
+2.5.7.1 use personal subject and object pronouns to describe people and things
+</td>
+</tr>
+<tr>
+<td rowspan="4">The world around us</td>
+<td>Different Places</td>
+<td>
+2.1.3.1 understand the main points of short, slow and carefully articulated talk on routine and familiar topics features such as colour and number;
+2.1.5.1 identify missing phonemes in incomplete words;
+2.2.3.1 use a limited range of basic words, phrases and short sentences to describe objects, activities and classroom routines;
+2.2.4.1 respond to basic supported questions giving personal and factual information;
+2.5.5.1 use interrogative pronouns including which, what, where, whose to ask who people are and what they are doing;
+2.5.12.1 use basic adverbs of place here/there to say where things are
+</td>
+</tr>
+<tr>
+<td>Reading Signs</td>
+<td>
+2.2.1.1 make basic statements related to personal information, people and objects on familiar topics and classroom routines;
+2.2.2.1 ask questions in order to satisfy basic needs and find information on familiar topics and classroom routines;
+2.2.7.1 place stress correctly on familiar polysyllabic words;
+2.3.3.1 read and follow with considerable support simple, words, phrases and sentences on familiar topics;
+2.3.5.1 understand the main points of simple sentences on familiar topics by using contextual clues;
+2.5.8.1 use simple imperative forms [positive and negative] for basic commands and instructions;
+2.5.13.1 use can to talk about ability and to make requests and offers, use can/can’t to talk about permission
+</td>
+</tr>
+<tr>
+<td>Where’s it from?</td>
+<td>
+2.1.3.1 understand the main points of short, slow and carefully articulated talk on routine and familiar topics features such as colour and number;
+2.1.5.1 identify missing phonemes in incomplete words;
+2.2.3.1 use a limited range of basic words, phrases and short sentences to describe objects, activities and classroom routines;
+2.3.3.1 read and follow with considerable support simple, words, phrases and sentences on familiar topics
+</td>
+</tr>
+<tr>
+<td>Days Out</td>
+<td>
+2.1.5.1 identify missing phonemes in incomplete words;
+2.2.2.1 ask questions in order to satisfy basic needs and find information on familiar topics and classroom routines;
+2.3.3.1 read and follow with considerable support simple, words, phrases and sentences on familiar topics;
+2.5.4.1 use determiners a, an, the, some, any, this, these, that, those to identify things
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 3</td>
+</tr>
+<tr>
+<td rowspan="4">Health and body</td>
+<td>Our body</td>
+<td>
+2.2.3.1 use a limited range of basic words, phrases and short sentences to describe objects, activities and classroom routines;
+2.3.1.1 read and spell out words for others;
+2.3.6.1 understand with considerable and particularly visual support, some specific information in short, simple texts on familiar topics;
+2.5.6.1 use demonstrative pronouns this, these, that, those to make and respond to requests for information
+</td>
+</tr>
+<tr>
+<td>Let’s measure</td>
+<td>
+2.1.1.1 understand a range of short basic supported classroom instructions;
+2.1.4.1 recognise with support short basic questions relating to features such as colour and number;
+2.5.2.1 use cardinal numbers 1 – 50 to count
+</td>
+</tr>
+<tr>
+<td>Hats and Bats</td>
+<td>
+2.1.4.1 recognise with support short basic questions relating to features such as colour and number;
+2.2.8.1 give simple instructions for others to follow give simple instructions for others to follow;
+2.3.1.1 read and spell out words for others;
+2.3.4.1 begin to use with support a simple picture dictionary
+</td>
+</tr>
+<tr>
+<td>Reading time</td>
+<td>
+2.1.5.1 identify missing phonemes in incomplete words;
+2.2.4.1 respond to basic supported questions giving personal and factual information;
+2.3.3.1 read and follow with considerable support simple, words, phrases and sentences on familiar topics;
+2.4.3.1 write short phrases to identify people, places and objects;
+2.5.13.1 use can to talk about ability and to make requests and offers, use can/can’t to talk about permission
+</td>
+</tr>
+<tr>
+<td rowspan="3">Traditions and customs</td>
+<td>Special Days</td>
+<td>
+2.1.1.1 understand a range of short basic supported classroom instructions;
+2.2.4.1 respond to basic supported questions giving personal and factual information;
+2.5.8.1 use simple imperative forms [positive and negative] for basic commands and instructions;
+2.5.9.1 use common present simple forms [positive, negative, question] and contractions to talk about what you want and like and habits and facts
+</td>
+</tr>
+<tr>
+<td>Home cooking</td>
+<td>
+2.1.7.1 use contextual clues to predict content in short, supported talk on routine and familiar topics;
+2.1.9.1 recognise the spoken form of familiar words and expressions;
+2.2.3.1 use a limited range of basic words, phrases and short sentences to describe objects, activities and classroom routines;
+2.3.1.1 read and spell out words for others
+</td>
+</tr>
+<tr>
+<td>What’s it for?</td>
+<td>
+2.1.3.1 understand the main points of short, slow and carefully articulated talk on routine and familiar topics features such as colour and number;
+2.1.6.1 understand some specific information in short, slow, carefully articulated talk on routine and familiar topics;
+2.2.4.1 respond to basic supported questions giving personal and factual information;
+2.4.7.1 spell some familiar high-frequency words accurately during guided writing activities;
+2.4.8.1 include a full stop when writing very high-frequency short sentences in guided writing activity
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 4</td>
+</tr>
+<tr>
+<td rowspan="4">The natural environment</td>
+<td>The weather</td>
+<td>
+2.1.8.1 understand short narratives spoken slowly and distinctly on routine and familiar topics;
+2.2.3.1 use a limited range of basic words, phrases and short sentences to describe objects, activities and classroom routines;
+2.5.3.1 use common adjectives in descriptions and to talk about simple feelings
+</td>
+</tr>
+<tr>
+<td>Changing seasons</td>
+<td>
+2.1.4.1 recognise with support short basic questions relating to features such as colour and number;
+2.2.7.1 place stress correctly on familiar polysyllabic words;
+2.3.3.1 read and follow with considerable support simple, words, phrases and sentences on familiar topics;
+2.3.6.1 understand with considerable and particularly visual support, some specific information in short, simple texts on familiar topics;
+2.5.9.1 use common present simple forms [positive, negative, question] and contractions to talk about what you want and like and habits and facts
+</td>
+</tr>
+<tr>
+<td>What can animals do?</td>
+<td>
+2.1.4.1 recognise with support short basic questions relating to features such as colour and number;
+2.5.10.1 use common present continuous forms [positive, negative, question];
+2.5.13.1 use can to talk about ability and to make requests and offers, use can/can’t to talk about permission;
+2.5.16.1 use conjunctions and, or, but to link words and phrases;
+2.5.17.1 use me, too to give short answers
+</td>
+</tr>
+<tr>
+<td>Sea Adventures</td>
+<td>
+2.1.3.1 understand the main points of short, slow and carefully articulated talk on routine and familiar topics features such as colour and number;
+2.2.3.1 use a limited range of basic words, phrases and short sentences to describe objects, activities and classroom routines;
+2.3.1.1 read and spell out words for others;
+2.4.5.1 write letters and familiar high frequency words when read aloud or spelt out for learners
+</td>
+</tr>
+<tr>
+<td rowspan="5">Travel</td>
+<td>A to B</td>
+<td>
+2.2.3.1 use a limited range of basic words, phrases and short sentences to describe objects, activities and classroom routines;
+2.5.9.1 use common present simple forms [positive, negative, question] and contractions to talk about what you want and like and habits and facts;
+2.5.14.1 use basic prepositions of location and position: at, behind, between, in, in front of, near, next to, on, to to describe where people and things are, use prepositions of time: on, in, at to talk about days and times
+</td>
+</tr>
+<tr>
+<td>Types of vehicle</td>
+<td>
+2.2.4.1 respond to basic supported questions giving personal and factual information;
+2.3.3.1 read and follow with considerable support simple, words, phrases and sentences on familiar topics;
+2.5.13.1 use can to talk about ability and to make requests and offers, use can/can’t to talk about permission
+</td>
+</tr>
+<tr>
+<td>My plane</td>
+<td>
+2.2.1.1 make basic statements related to personal information, people and objects on familiar topics and classroom routines;
+2.5.11.1 use have got + noun to describe and ask about possessions
+</td>
+</tr>
+<tr>
+<td>Bike Story</td>
+<td>
+2.1.8.1 understand short narratives spoken slowly and distinctly on routine and familiar topics;
+2.5.10.1 use common present continuous forms [positive, negative, question]
+</td>
+</tr>
+<tr>
+<td>Altogether Now</td>
+<td>
+2.2.4.1 respond to basic supported questions giving personal and factual information;
+2.3.3.1 read and follow with considerable support simple, words, phrases and sentences on familiar topics;
+2.4.8.1 include a full stop when writing very high-frequency short sentences in guided writing activity
+</td>
+</tr>
+</table>
+
+3) grade 3:
+
+<table>
+<tr>
+<td>Cross curricular units</td>
+<td>Topics</td>
+<td>Learning objectives</td>
+</tr>
+<tr>
+<td colspan="3">Term 1</td>
+</tr>
+<tr>
+<td rowspan="4">Animals</td>
+<td>Animal types</td>
+<td>
+3.1.5.1 distinguish between phonemically distinct words;
+3.2.1.1 make basic statements which provide personal information on a limited range of general topics;
+3.5.5.1 use interrogative pronouns including: which, what, where, whose, how many, what kind of … on a limited range of familiar topics;
+3.5.14.1 use prepositions of location and position: at, behind, between, in, in front of, near, next to, on, under, above to describe where people and things are, use prepositions of time: on, in, at to talk about days and times and no preposition last week
+</td>
+</tr>
+<tr>
+<td>Body parts</td>
+<td>
+3.1.6.1 understand some specific information and detail of short, supported information or talk on a limited range of general and some curricular topics;
+3.2.1.1 make basic statements which provide personal information on a limited range of general topics;
+3.3.1.1 recognise, identify and sound with support a limited range of familiar words in simple sentences
+</td>
+</tr>
+<tr>
+<td>Animal Song and Dance</td>
+<td>
+3.1.2.1 understand a limited range of short supported questions which ask for personal information;
+3.1.9.1 recognise short basic words that are spelt out;
+3.4.1.1 plan, write and check short sentences with considerable support on a limited range of personal, general and some curricular topics;
+3.5.4.1 use determiners a, an, the, some, any, this, these, that, those to refer to things on a limited range general and some curricular topics;
+3.5.10.1 use common present continuous forms, including short answers and contractions, to talk about what is happening now
+</td>
+</tr>
+<tr>
+<td>Craft project</td>
+<td>
+3.1.1.1 understand short supported classroom instructions in an increasing range of classroom routines;
+3.2.6.1 take turns when speaking with others in a limited range of short, basic exchanges
+</td>
+</tr>
+<tr>
+<td rowspan="2">Light &amp; Dark</td>
+<td>Day &amp; Night</td>
+<td>
+3.1.6.1 understand some specific information and detail of short, supported information or talk on a limited range of general and some curricular topics;
+3.1.7.1 use contextual clues to predict content in short, supported talk on a limited range of general and some curricular topics;
+3.2.4.1 respond to questions on a limited range of general and some curricular topics;
+3.3.5.1 understand the main points of short simple texts on a limited range of familiar general and some curricular topics by using contextual clues
+</td>
+</tr>
+<tr>
+<td>Sources of light</td>
+<td>
+3.1.6.1 understand some specific information and detail of short, supported information or talk on a limited range of general and some curricular topics;
+3.2.1.1 make basic statements which provide personal information on a limited range of general topics;
+3.3.3.1 begin to read with rereading and usual support very short simple fiction and non-fiction texts on a limited range of general and curricular topics;
+3.5.3.1 use adjectives, including possessive adjectives, on a limited range of general and some curricular topics to describe things, use simple one-syllable and some two-syllable adjectives [comparative form] to make comparisons;
+3.5.13.1 use can to make requests and ask permission, use must/mustn’t/have to to talk about obligation
 </td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
-<td colspan="2">2.2 Погода и климат</td>
+<td>Out at night</td>
 <td>
-1.2.2.1 определять влияние погоды на жизнь и деятельность людей;
-1.2.3.1 определять возможности занятий на природе различными видами досуговой деятельности в зависимости от времени года
+3.1.5.1 distinguish between phonemically distinct words;
+3.1.8.1 understand short, narratives on a limited range of general and some curricular topics;
+3.2.3.1 give short, basic description of people and objects, begin to describe past experiences on a limited range of general and some curricular topics;
+3.2.6.1 take turns when speaking with others in a limited range of short, basic exchanges;
+3.4.5.1 link with support words or phrases using basic coordinating connectors ;
+3.4.7.1 spell a growing number of familiar high-frequency words accurately during guided writing activities
 </td>
 </tr>
 <tr>
-<td colspan="4">3 четверть</td>
+<td colspan="3">Term 2</td>
 </tr>
 <tr>
-<td rowspan="4">5 Путешествия</td>
-<td colspan="2">3.1 Древние культуры и цивилизации</td>
-<td>1.3.1.1 рассказывать о жизни древних людей на основе изучения наглядных материалов</td>
-</tr>
-<tr>
-<td colspan="2">3.2 Исторические корни Казахстана</td>
+<td rowspan="3">Time</td>
+<td>Times of my day</td>
 <td>
-1.3.2.1 описывать на основе наглядных материалов образ жизни саков;
-1.3.4.1 на основе изучения источников рассказывать о Томирис
+3.1.8.1 understand short, narratives on a limited range of general and some curricular topics;
+3.2.1.1 make basic statements which provide personal information on a limited range of general topics;
+3.2.2.1 ask questions to find out about present experiences on a limited range of general and some curricular topics;
+3.2.4.1 respond to questions on a limited range of general and some curricular topics;
+3.4.1.1 plan, write and check short sentences with considerable support on a limited range of personal, general and some curricular topics;
+3.5.2.1 use cardinal numbers 1 – 100 to count and ordinal numbers 1 – 10;
+3.5.14.1 use prepositions of location and position: at, behind, between, in, in front of, near, next to, on, under, above to describe where people and things are, use prepositions of time: on, in, at to talk about days and times and no preposition last week
 </td>
 </tr>
 <tr>
-<td colspan="2">2.4 Туризм</td>
+<td>Days of the week</td>
 <td>
-1.2.4.1 определять значение туризма;
-1.2.4.2 определять основные цели туриста
+3.1.7.1 use contextual clues to predict content in short, supported talk on a limited range of general and some curricular topics;
+3.2.2.1 ask questions to find out about present experiences on a limited range of general and some curricular topics;
+3.2.6.1 take turns when speaking with others in a limited range of short, basic exchanges;
+3.3.1.1 recognise, identify and sound with support a limited range of familiar words in simple sentences;
+3.4.4.1 write with support short basic sentences with appropriate spaces between words;
+3.4.6.1 use upper and lower case letters accurately when writing names, places and short sentences during guided writing activities;
+3.5.2.1 use cardinal numbers 1 – 100 to count and ordinal numbers 1 – 10;
+3.5.9.1 use common present simple forms [positive, negative, question] and contractions to talk about what you want and like, habits and facts, simple future timetabled events, use common past simple forms to describe actions and feelings;
+3.5.17.1 use me, too and I don’t to give short answers
 </td>
 </tr>
 <tr>
-<td colspan="2">3.5 История Казахстана: независимость, государственность и патриотизм</td>
-<td>1.3.5.3 представлять творческие работы о столице Казахстана</td>
-</tr>
-<tr>
-<td rowspan="5">6 Традиции и фольклор</td>
-<td colspan="2">3.2 Исторические корни Казахстана</td>
-<td>1.3.2.1 описывать на основе наглядных материалов образ жизни саков</td>
-</tr>
-<tr>
-<td colspan="2">3.5 История Казахстана: независимость, государственность и патриотизм</td>
+<td>At the right time</td>
 <td>
-1.3.5.2 рассказывать об основных признаках независимого государства;
-1.3.5.1 отличать государственные символы Республики Казахстан от символов других стран
+3.1.7.1 use contextual clues to predict content in short, supported talk on a limited range of general and some curricular topics;
+3.1.8.1 understand short, narratives on a limited range of general and some curricular topics;
+3.1.9.1 recognise short basic words that are spelt out;
+3.2.6.1 take turns when speaking with others in a limited range of short, basic exchanges;
+3.3.3.1 begin to read with rereading and usual support very short simple fiction and non-fiction texts on a limited range of general and curricular topics;
+3.3.6.1 understand with considerable support, some specific information and detail in short, simple texts on a limited range of general and some curricular topics;
+3.5.2.1 use cardinal numbers 1 – 100 to count and ordinal numbers 1 – 10;
+3.5.14.1 use prepositions of location and position: at, behind, between, in, in front of, near, next to, on, under, above to describe where people and things are, use prepositions of time: on, in, at to talk about days and times and no preposition last week
 </td>
 </tr>
 <tr>
-<td colspan="2">3.3 Важные события в истории Казахстана</td>
+<td rowspan="3">Buildings</td>
+<td>Four walls</td>
 <td>
-1.3.3.1 рассказывать о древней письменности на территории Казахстана;
-1.3.3.2 изображать древние письмена, используя различные материалы, способы и средства
+3.1.1.1 understand short supported classroom instructions in an increasing range of classroom routines;
+3.1.6.1 understand some specific information and detail of short, supported information or talk on a limited range of general and some curricular topics;
+3.2.3.1 give short, basic description of people and objects, begin to describe past experiences on a limited range of general and some curricular topics;
+3.3.4.1 use with some support a simple picture dictionary;
+3.3.5.1 understand the main points of short simple texts on a limited range of familiar general and some curricular topics by using contextual clues;
+3.5.11.1 use has got/have got there is/are statement and question forms including short answers and contractions
 </td>
 </tr>
 <tr>
-<td colspan="2">3.1 Древние культуры и цивилизации</td>
-<td>1.3.1.2 рассказывать о наиболее известных исторических памятниках/экспонатах древности</td>
-</tr>
-<tr>
-<td colspan="2">3.5 История Казахстана: независимость, государственность и патриотизм</td>
-<td>1.3.5.3 представлять творческие работы о столице Казахстана</td>
-</tr>
-<tr>
-<td colspan="4">4 четверть</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="4">7 Еда и напитки</td>
-<td>1.4 Здоровье и безопасность</td>
-<td>1.1.4.2 объяснять необходимость соблюдения режима питания</td>
-</tr>
-<tr>
-<td>3.1 Древние культуры и цивилизации</td>
-<td>1.3.1.1 рассказывать о жизни древних людей на основе изучения наглядных материалов</td>
-</tr>
-<tr>
-<td>1.4 Здоровье и безопасность</td>
+<td>Our town</td>
 <td>
-1.1.4.1 объяснять важность соблюдения личной гигиены;
-1.1.4.2 объяснять необходимость соблюдения режима питания
+3.4.7.1 spell a growing number of familiar high-frequency words accurately during guided writing activities;
+3.5.1.1 use singular nouns, plural nouns – including some common irregular plural forms, use possessive forms ‘s/s’ with proper names and nouns to talk about ownership;
+3.5.3.1 use adjectives, including possessive adjectives, on a limited range of general and some curricular topics to describe things, use simple one-syllable and some two-syllable adjectives [comparative form] to make comparisons;
+3.5.9.1 use common present simple forms [positive, negative, question] and contractions to talk about what you want and like, habits and facts, simple future timetabled events, use common past simple forms to describe actions and feelings;
+3.5.14.1 use prepositions of location and position: at, behind, between, in, in front of, near, next to, on, under, above to describe where people and things are, use prepositions of time: on, in, at to talk about days and times and no preposition last week
 </td>
 </tr>
 <tr>
-<td>1.1 Я и моя семья</td>
+<td>Around the house</td>
 <td>
-1.1.1.4 объяснять простые формы товарно-денежных отношений;
-1.1.1.5 определять структуру своих потребностей в предметах потребления и источники их поступления
+3.1.4.1 understand a limited range of short supported questions on general and some curricular;
+3.2.2.1 ask questions to find out about present experiences on a limited range of general and some curricular topics;
+3.3.3.1 begin to read with rereading and usual support very short simple fiction and non-fiction texts on a limited range of general and curricular topics;
+3.4.1.1 plan, write and check short sentences with considerable support on a limited range of personal, general and some curricular topics;
+3.4.4.1 write with support short basic sentences with appropriate spaces between words ;
+3.5.4.1 use determiners a, an, the, some, any, this, these, that, those to refer to things on a limited range general and some curricular topics
 </td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">8 В здоровом теле – здоровый дух!</td>
-<td>1.4 Здоровье и безопасность</td>
+<td colspan="3">Term 3</td>
+</tr>
+<tr>
+<td rowspan="4">Art &amp; Music</td>
+<td>Musical instruments</td>
 <td>
-1.1.4.1 объяснять важность соблюдения личной гигиены;
-1.1.4.3 объяснять правила безопасного поведения дома;
-1.1.4.6 называть службы экстренной помощи и определять ситуации для обращения к ним
+3.1.8.1 understand short, narratives on a limited range of general and some curricular topics;
+3.2.3.1 give short, basic description of people and objects, begin to describe past experiences on a limited range of general and some curricular topics;
+3.2.5.1 pronounce familiar words and short phrases intelligibly when reading aloud;
+3.2.7.1 contribute a limited range of suitable words, phrases, and sentences including giving opinions during short pair, group and whole class exchanges;
+3.2.8.1 recount very short, basic stories and events on a limited range of general and some curricular topics;
+3.3.1.1 recognise, identify and sound with support a limited range of familiar words in simple sentences;
+3.3.2.1 read and follow with limited support familiar instructions for classroom activities;
+3.5.12.1 use adverbs of time and frequency: sometimes, often, always, never to indicate when and how often, begin to use simple adverbs of manner example given well, badly
 </td>
 </tr>
 <tr>
-<td>2.1 Ориентирование на местности</td>
-<td>1.2.1.2 объяснять необходимость соблюдения правил поведения на природе</td>
+<td>Drawing chairs</td>
+<td>
+3.1.1.1 understand short supported classroom instructions in an increasing range of classroom routines;
+3.1.3.1 understand the main points of short, slow, carefully articulated talk on a limited range of general and some curricular topics;
+3.3.4.1 use with some support a simple picture dictionary;
+3.5.11.1 use has got/have got there is/are statement and question forms including short answers and contractions
+</td>
+</tr>
+<tr>
+<td>My music</td>
+<td>
+3.1.5.1 distinguish between phonemically distinct words;
+3.2.4.1 respond to questions on a limited range of general and some curricular topics;
+3.4.3.1 write short phrases to identify people, places and objects;
+3.4.5.1 link with support words or phrases using basic coordinating connectors;
+3.5.17.1 use me, too and I don’t to give short answers
+</td>
+</tr>
+<tr>
+<td>Shadow puppet show</td>
+<td>
+3.1.8.1 understand short, narratives on a limited range of general and some curricular topics;
+3.4.1.1 plan, write and check short sentences with considerable support on a limited range of personal, general and some curricular topics;
+3.4.6.1 use upper and lower case letters accurately when writing names, places and short sentences during guided writing activities;
+3.4.8.1 include appropriate use of a full stop during guided writing of short, familiar sentences
+</td>
+</tr>
+<tr>
+<td rowspan="4">Explorers &amp; Inventors</td>
+<td>Exploring space</td>
+<td>
+3.1.2.1 understand a limited range of short supported questions which ask for personal information;
+3.1.8.1 understand short, narratives on a limited range of general and some curricular topics;
+3.2.8.1 recount very short, basic stories and events on a limited range of general and some curricular topics;
+3.3.5.1 understand the main points of short simple texts on a limited range of familiar general and some curricular topics by using contextual clues;
+3.3.6.1 understand with considerable support, some specific information and detail in short, simple texts on a limited range of general and some curricular topics;
+3.4.1.1 plan, write and check short sentences with considerable support on a limited range of personal, general and some curricular topics;
+3.4.2.1 write words and phrases of regular size and shape;
+3.5.9.1 use common present simple forms [positive, negative, question] and contractions to talk about what you want and like, habits and facts, simple future timetabled events, use common past simple forms to describe actions and feelings
+</td>
+</tr>
+<tr>
+<td>Marco Polo</td>
+<td>
+3.1.6.1 understand some specific information and detail of short, supported information or talk on a limited range of general and some curricular topics;
+3.2.3.1 give short, basic description of people and objects, begin to describe past experiences on a limited range of general and some curricular topics;
+3.2.4.1 respond to questions on a limited range of general and some curricular topics;
+3.2.5.1 pronounce familiar words and short phrases intelligibly when reading aloud;
+3.2.7.1 contribute a limited range of suitable words, phrases, and sentences including giving opinions during short pair, group and whole class exchanges;
+3.3.6.1 understand with considerable support, some specific information and detail in short, simple texts on a limited range of general and some curricular topics;
+3.4.2.1 write words and phrases of regular size and shape;
+3.4.3.1 write short phrases to identify people, places and objects;
+3.4.6.1 use upper and lower case letters accurately when writing names, places and short sentences during guided writing activities;
+3.5.15.1 use would you like to to invite and use appropriate responses yes please, no thanks, use let’s + verb, verbs go enjoy like + verb + ing
+</td>
+</tr>
+<tr>
+<td>Bright ideas</td>
+<td>
+3.1.9.1 recognise short basic words that are spelt out;
+3.2.2.1 ask questions to find out about present experiences on a limited range of general and some curricular topics;
+3.5.3.1 use adjectives, including possessive adjectives, on a limited range of general and some curricular topics to describe things, use simple one-syllable and some two-syllable adjectives [comparative form] to make comparisons;
+3.5.6.1 use demonstrative pronouns this, these, that, those in open and closed questions;
+3.5.7.1 use personal object pronouns [indirect] in conjunction with direct object nouns to describe actions and events
+</td>
+</tr>
+<tr>
+<td>Inventions in Kazakhstan</td>
+<td>
+3.1.7.1 use contextual clues to predict content in short, supported talk on a limited range of general and some curricular topics;
+3.1.8.1 understand short, narratives on a limited range of general and some curricular topics;
+3.2.2.1 ask questions to find out about present experiences on a limited range of general and some curricular topics;
+3.4.5.1 link with support words or phrases using basic coordinating connectors
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 4</td>
+</tr>
+<tr>
+<td rowspan="3">Water, water everywhere</td>
+<td>Rain, rain</td>
+<td>
+3.2.5.1 pronounce familiar words and short phrases intelligibly when reading aloud;
+3.3.1.1 recognise, identify and sound with support a limited range of familiar words in simple sentences;
+3.3.2.1 read and follow with limited support familiar instructions for classroom activities
+</td>
+</tr>
+<tr>
+<td>By the sea</td>
+<td>
+3.1.4.1 understand a limited range of short supported questions on general and some curricular;
+3.1.5.1 distinguish between phonemically distinct words;
+3.4.7.1 spell a growing number of familiar high-frequency words accurately during guided writing activities;
+3.5.10.1 use common present continuous forms, including short answers and contractions, to talk about what is happening now
+</td>
+</tr>
+<tr>
+<td>A beach story</td>
+<td>
+3.1.1.1 understand short supported classroom instructions in an increasing range of classroom routines;
+3.3.2.1 read and follow with limited support familiar instructions for classroom activities;
+3.3.5.1 understand the main points of short simple texts on a limited range of familiar general and some curricular topics by using contextual clues;
+3.3.6.1 understand with considerable support, some specific information and detail in short, simple texts on a limited range of general and some curricular topics;
+3.4.8.1 include appropriate use of a full stop during guided writing of short, familiar sentences;
+3.5.15.1 use would you like to to invite and use appropriate responses yes please, no thanks, use let’s + verb, verbs go enjoy like + verb + ing
+</td>
+</tr>
+<tr>
+<td rowspan="3">Having fun</td>
+<td>Fun places</td>
+<td>
+3.1.7.1 use contextual clues to predict content in short, supported talk on a limited range of general and some curricular topics;
+3.2.8.1 recount very short, basic stories and events on a limited range of general and some curricular topics;
+3.3.3.1 begin to read with rereading and usual support very short simple fiction and non-fiction texts on a limited range of general and curricular topics;
+3.3.5.1 understand the main points of short simple texts on a limited range of familiar general and some curricular topics by using contextual clues;
+3.3.6.1 understand with considerable support, some specific information and detail in short, simple texts on a limited range of general and some curricular topics;
+3.4.7.1 spell a growing number of familiar high-frequency words accurately during guided writing activities;
+3.5.9.1 use common present simple forms [positive, negative, question] and contractions to talk about what you want and like, habits and facts, simple future timetabled events, use common past simple forms to describe actions and feelings;
+3.5.17.1 use me, too and I don’t to give short answers
+</td>
+</tr>
+<tr>
+<td>Number games</td>
+<td>
+3.1.1.1 understand short supported classroom instructions in an increasing range of classroom routines;
+3.3.6.1 understand with considerable support, some specific information and detail in short, simple texts on a limited range of general and some curricular topics;
+3.5.2.1 use cardinal numbers 1 – 100 to count and ordinal numbers 1 – 10;
+3.5.8.1 use imperative forms [positive and negative] to give short instructions on limited range of familiar topics;
+3.5.11.1 use has got/have got there is/are statement and question forms including short answers and contractions
+</td>
+</tr>
+<tr>
+<td>Flying kites</td>
+<td>
+3.1.6.1 understand some specific information and detail of short, supported information or talk on a limited range of general and some curricular topics;
+3.2.4.1 respond to questions on a limited range of general and some curricular topics;
+3.3.4.1 use with some support a simple picture dictionary;
+3.5.3.1 use adjectives, including possessive adjectives, on a limited range of general and some curricular topics to describe things, use simple one-syllable and some two-syllable adjectives [comparative form] to make comparisons;
+3.5.8.1 use imperative forms [positive and negative] to give short instructions on limited range of familiar topics;
+3.5.10.1 use common present continuous forms, including short answers and contractions, to talk about what is happening now;
+3.5.16.1 use conjunctions and, or, but to link words and phrases
+</td>
 </tr>
 </table>
 
-2\) 2 класс:
+4) grade 4:
 
 <table>
 <tr>
-<td>Сквозная тема</td>
-<td>Подраздел программы</td>
-<td>Цели обучения</td>
+<td>Cross curricular units</td>
+<td>Topics</td>
+<td>Learning objectives</td>
 </tr>
 <tr>
-<td colspan="3">1 четверть</td>
+<td colspan="3">Term 1</td>
 </tr>
 <tr>
-<td>1 Все обо мне</td>
-<td>1.1 Я и моя семья</td>
+<td rowspan="5">
+Kazakhstan in the
+World of Sport
+</td>
+<td>Children’s games 1</td>
 <td>
-2.1.1.1 составлять словесный портрет членов семьи на основе материалов семейного архива;
-2.1.1.2 объяснять этические нормы своей семьи на основе примеров;
-2.1.1.3 определять общественные этические нормы на основе изучения различных источников;
-2.1.1.4 определять структуру семейных потребностей в предметах потребления и источники их поступления на основе наблюдений и опроса
+4.1.2.1 understand an increasing range of supported questions which ask for personal information;
+4.2.4.1 respond to questions on an increasing range of general and some curricular topics;
+4.4.4.1 write with support a sequence of short sentences in a paragraph to give basic personal information;
+4.5.12.1 use adverbs of time and frequency: sometimes, often, always, never to indicate when and how often, begin to use simple adverbs of manner example given well, badly, use common -ly manner adverbs to describe actions example given slowly, quickly;
+4.5.17.1 use me, too and I don’t to give short answers, use when clauses to describe simple present and past actions on personal and familiar topics
 </td>
 </tr>
 <tr>
-<td rowspan="3">2 Моя семья и друзья</td>
-<td rowspan="2">1.5 Права и обязанности</td>
-<td>2.1.5.1 на основе примеров из своей жизни различать права, обязанности и ответственность;</td>
-</tr>
-<tr>
-<td>2.1.5.2 объяснять значимость служения обществу</td>
-</tr>
-<tr>
-<td>3.5 История Казахстана: независимость, государственность и патриотизм</td>
-<td>2.3.5.3 объяснять значение дружбы народов Казахстана</td>
-</tr>
-<tr>
-<td colspan="3">2 четверть</td>
-</tr>
-<tr>
-<td>3 Моя школа</td>
-<td>1.2 Школа и школьное сообщество</td>
+<td>Children’s games 2</td>
 <td>
-2.1.2.1 объяснять виды и функции учебной и внеучебной деятельности в школе;
-2.1.2.2 определять структуру и функции членов школьного сообщества;
-2.1.2.3 объяснять коллективные, групповые и межличностные нормы поведения в школьном сообществе;
-2.1.2.4 давать характеристику своему классу
+4.2.4.1 respond to questions on an increasing range of general and some curricular topics;
+4.3.2.1 ask questions to find out about present and possibly past experiences on an increasing range of general and some curricular topics;
+4.4.3.1 write with support short sentences which describe people, places and objects;
+4.5.5.1 use interrogative pronouns who, what and where, how many, how much, how often, how big, what kind of to ask questions on growing range of familiar topics;
+4.5.8.1 use imperative forms [positive and negative] to give short instructions on a growing range of familiar topics
 </td>
 </tr>
 <tr>
-<td rowspan="3">4 Мой родной край</td>
-<td>1.3 Моя малая Родина</td>
+<td>Olympic Games</td>
 <td>
-2.1.3.1 описывать и изображать достопримечательности своей местности на основе собственных исследований;
-2.1.3.2 показывать на карте Казахстана крупные реки и озера, города, дороги, свою область
+4.1.4.1 understand an increasing range of short supported questions on general and some curricular topics;
+4.2.4.1 respond to questions on an increasing range of general and some curricular topics;
+4.4.1.1 plan, write and check sentences with support on a range of basic personal, general and some curricular topics;
+4.4.4.1 write with support a sequence of short sentences in a paragraph to give basic personal information;
+4.5.5.1 use interrogative pronouns who, what and where, how many, how much, how often, how big, what kind of to ask questions on growing range of familiar topics
 </td>
 </tr>
 <tr>
-<td>1.4 Здоровье и безопасность</td>
+<td>Aesop’s Fables 1</td>
 <td>
-2.1.4.3 различать виды транспорта и знать об их назначении;
-2.1.4.4 объяснять правила поведения в общественном транспорте
+4.1.8.1 understand short, supported narratives on an increasing range of general and some curricular topics;
+4.2.5.1 pronounce an increasing range of words, short phrases and simple sentences intelligibly;
+4.3.3.1 recognise basic opinions in short, simple texts on an increasing range of general range of general and some curricular topics;
+4.5.12.1 use adverbs of time and frequency: sometimes, often, always, never to indicate when and how often, begin to use simple adverbs of manner example given well, badly, use common -ly manner adverbs to describe actions example given slowly, quickly
 </td>
 </tr>
 <tr>
-<td>3.5 История Казахстана: независимость, государственность и патриотизм</td>
+<td>Aesop’s Fables 2</td>
 <td>
-2.3.5.1 объяснять значение государственных символов Республики Казахстан;
-2.3.5.2 на основе наблюдений определять сферу применения государственных символов Республики Казахстан
+4.1.3.1 understand the main points of short supported talk on an increasing range of general and some curricular topics;
+4.1.8.1 understand short, supported narratives on an increasing range of general and some curricular topics;
+4.2.8.1 express basic likes and dislikes, recount short, basic stories and events on a limited range of general and some curricular topics;
+4.5.3.1 use adjectives, including possessive adjectives, on a growing range of general and some curricular topics to describe things, use simple one-syllable and some two-syllable adjectives [comparative and superlative] to make comparisons;
+4.5.12.1 use adverbs of time and frequency: sometimes, often, always, never to indicate when and how often, begin to use simple adverbs of manner example given well, badly, use common -ly manner adverbs to describe actions example given slowly, quickly
 </td>
 </tr>
 <tr>
-<td colspan="3">3 четверть</td>
-</tr>
-<tr>
-<td rowspan="2">5 В здоровом теле – здоровый дух!</td>
-<td>1.2 Школа и школьное сообщество</td>
-<td>2.1.2.1 объяснять виды и функции учебной и внеучебной деятельности в школе</td>
-</tr>
-<tr>
-<td>1.4 Здоровье и безопасность</td>
+<td rowspan="5">
+Values in
+Myths and
+Legends
+</td>
+<td>Traditional stories 1</td>
 <td>
-2.1.4.1 определять различия между здоровой и нездоровой пищей на основе различных источников;
-2.1.4.2 объяснять правила безопасного поведения в повседневных ситуациях в общественных местах
+4.1.4.1 understand an increasing range of short supported questions on general and some curricular topics;
+4.2.2.1 ask questions to find out about present and possibly past experiences on an increasing range of general and some curricular topics;
+4.4.7.1 spell most familiar high-frequency words accurately when writing independently;
+4.5.15.1 use would you like to to invite and use appropriate responses yes please, no thanks, use let’s + verb, verbs go enjoy like + verb + ing, begin use infinitive of purpose to describe simple actions and verbs want, start + infinitive, use declarative what [a/an] + adjective + noun to show feelings
 </td>
 </tr>
 <tr>
-<td rowspan="5">6 Традиции и фольклор</td>
-<td>1.6 Праздники</td>
+<td>Traditional stories 2</td>
 <td>
-2.1.6.1 объяснять значение национальных и государственных праздников Республики Казахстан по выбору;
-2.3.1.2 описывать древние города и памятники на основе изучения различных источников
+4.1.8.1 understand short, supported narratives on an increasing range of general and some curricular topics;
+4.2.3.1 give short, basic description of people and objects, begin to describe past experiences on an increasing range of general and some curricular topics;
+4.2.4.1 respond to questions on an increasing range of general and some curricular topics;
+4.4.1.1 plan, write and check sentences with support on a range of basic personal, general and some curricular topics;
+4.5.3.1 use adjectives, including possessive adjectives, on a growing range of general and some curricular topics to describe things, use simple one-syllable and some two-syllable adjectives [comparative and superlative] to make comparisons;
+4.5.7.1 use personal subject and object pronouns, including indirect object pronouns and use possessive pronouns mine, yours to give personal information and describe actions and events
 </td>
 </tr>
 <tr>
-<td>3.2 Исторические корни Казахстана</td>
-<td>2.3.2.1 на основе изучения наглядных материалов описывать образ жизни гуннов</td>
-</tr>
-<tr>
-<td>3.1 Древние культуры и цивилизации</td>
-<td>2.3.1.1 определять разницу между присваивающим и производящим хозяйством на основе наглядного материала</td>
-</tr>
-<tr>
-<td>3.4 Выдающиеся исторические личности и деятели культуры</td>
-<td>2.3.4.1 рассказывать о вкладе аль-Фараби в развитие науки</td>
-</tr>
-<tr>
-<td>3.3 Важные события в истории Казахстана</td>
-<td>2.3.3.1 описывать особенности Ботайской культуры</td>
-</tr>
-<tr>
-<td colspan="3">4 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">7 Окружающая среда</td>
-<td>2.1 риентирование на местности</td>
-<td>2.2.1.1 определять стороны горизонта по компасу</td>
-</tr>
-<tr>
-<td>2.2 Климат и погода</td>
-<td>2.2.2.1 анализировать положительные и отрицательные характеристики погоды для жизни и хозяйственной деятельности людей</td>
-</tr>
-<tr>
-<td>2.3 Природные условия и их значение (влияние)</td>
+<td>People and places</td>
 <td>
-2.2.3.1определять хозяйственное значение крупных природных объектов (гор, равнин, озер и рек);
-2.2.3.2 анализировать положительные и отрицательные стороны природных условий своей местности (рельеф, климат, растительный и животный мир, водные объекты);
-2.2.3.3 классифицировать неблагоприятные и опасные явления природы
+4.1.5.1 identify initial, middle and final phonemes and blends;
+4.3.5.1 understand the main points of short simple texts on a growing range general and some curricular topics by using contextual clues;
+4.4.2.1 begin to use joined-up handwriting in a limited range of written work;
+4.5.3.1 use adjectives, including possessive adjectives, on a growing range of general and some curricular topics to describe things, use simple one-syllable and some two-syllable adjectives [comparative and superlative] to make comparisons
 </td>
 </tr>
 <tr>
-<td rowspan="3">8 Путешествия</td>
-<td>1.3 Моя малая Родина</td>
-<td>2.1.3.1 описывать и изображать достопримечательности своей местности на основе собственных исследований</td>
-</tr>
-<tr>
-<td>2.4 Туризм</td>
 <td>
-2.2.4.1 различать основные виды туризма по целям;
-2.2.4.2 на основе исследования определять объекты для развития различных видов туризма в Казахстане;
-2.2.4.3 описывать особенности туристских объектов
+Dragons and
+creatures 1
+</td>
+<td>
+4.4.7.1 spell most familiar high-frequency words accurately when writing independently;
+4.5.1.1 use singular nouns, plural nouns – including some common irregular plural – and uncountable nouns, possessive ‘s/s’ to name, describe and label things;
+4.5.15.1 use would you like to to invite and use appropriate responses yes please, no thanks, use let’s + verb, verbs go enjoy like + verb + ing, begin use infinitive of purpose to describe simple actions and verbs want, start + infinitive, use declarative what [a/an] + adjective + noun to show feelings;
+4.5.16.1 use conjunctions and, or, but, because to link words and phrases
 </td>
 </tr>
 <tr>
-<td>3.1 Древние культуры и цивилизации</td>
-<td>2.3.1.2 описывать древние города и памятники на основе изучения различных источников</td>
-</tr>
-</table>
-
-3) 3 класс:
-
-<table>
-<tr>
-<td>Сквозная тема</td>
-<td>Подраздел</td>
-<td>Цели обучения</td>
-</tr>
-<tr>
-<td colspan="3">1 четверть</td>
-</tr>
-<tr>
-<td rowspan="6">1 Живая природа</td>
-<td>2.2 Климат и погода</td>
-<td>3.2.2.1 определять характеристики основных типов климата на Земле</td>
-</tr>
-<tr>
-<td>2.3 Природные условия и их значение (влияние)</td>
-<td>3.2.3.1 анализировать расселение людей в зависимости от природных условий (рельеф, климат, растительный и животный мир, водные объекты)</td>
-</tr>
-<tr>
-<td>2.2 Климат и погода</td>
-<td>3.2.2.2 составлять правила поведения при неблагоприятных погодно-климатических условиях</td>
-</tr>
-<tr>
-<td>2.3 Природные условия и их значение (влияние)</td>
-<td>3.2.3.2 составлять правила поведения в случае возникновения геологических и природно-климатических катаклизмов</td>
-</tr>
-<tr>
-<td rowspan="2">1.4 Здоровье и безопасность</td>
-<td>3.1.4.3 на основе различных источников выявлять и оценивать риски и опасности в естественной среде</td>
-</tr>
-<tr>
-<td>3.1.4.4 планировать свою безопасность в естественной среде</td>
-</tr>
-<tr>
-<td rowspan="6">2 Что такое хорошо и что такое плохо?</td>
-<td>1.1 Я и моя семья</td>
-<td>3.1.1.3 определять ценности своей семьи</td>
-</tr>
-<tr>
-<td>3.5 История Казахстана: независимость, государственность и патриотизм</td>
-<td>3.3.5.2 объяснять роль труда в развитии личности, семьи, общества и государства</td>
-</tr>
-<tr>
-<td rowspan="2">1.1 Я и моя семья</td>
-<td>3.1.1.4 планировать и обосновывать собственные расходы</td>
-</tr>
-<tr>
-<td>3.1.1.5 предлагать пути оптимизации собственных расходов</td>
-</tr>
-<tr>
-<td>1.2 Школа и школьное сообщество</td>
 <td>
-3.1.2.3 объяснять этические нормы поведения, принятые в обществе;
-3.1.2.4 доказывать важность дружбы между людьми на примерах из собственного опыта;
-3.1.2.1 объяснять правила самоуправления в классе и предлагать свою модель;
-3.1.2.2 объяснять пути принятия коллективных решений в классе в условиях существования различных точек зрения
+Dragons and
+creatures 2
+</td>
+<td>
+4.2.4.1 respond to questions on an increasing range of general and some curricular topics;
+4.2.6.1 take turns when speaking with others in a growing range of short, basic exchanges;
+4.3.3.1 recognise basic opinions in short, simple texts on an increasing range of general range of general and some curricular topics;
+4.4.3.1 write with support short sentences which describe people, places and objects;
+4.5.12.1 use adverbs of time and frequency: sometimes, often, always, never to indicate when and how often, begin to use simple adverbs of manner example given well, badly, use common -ly manner adverbs to describe actions example given slowly, quickly;
+4.5.15.1 use would you like to to invite and use appropriate responses yes please, no thanks, use let’s + verb, verbs go enjoy like + verb + ing, begin use infinitive of purpose to describe simple actions and verbs want, start + infinitive, use declarative what [a/an] + adjective + noun to show feelings
 </td>
 </tr>
 <tr>
-<td>1.5 Права и обязанности</td>
-<td>3.1.5.1 объяснять значимость Конституции Республики Казахстан</td>
+<td colspan="3">Term 2</td>
 </tr>
 <tr>
-<td colspan="3">2 четверть</td>
-</tr>
-<tr>
-<td rowspan="6">3 Время</td>
-<td>1.1 Я и моя семья</td>
+<td rowspan="6">
+Treasure and
+Heritage
+</td>
+<td>Treasure maps1</td>
 <td>
-3.1.1.1 объяснять степень родства между членами семьи;
-3.1.1.2 составлять свою родословную
+4.2.3.1 give short, basic description of people and objects, begin to describe past experiences on an increasing range of general and some curricular topics;
+4.2.6.1 take turns when speaking with others in a growing range of short, basic exchanges;
+4.3.4.1 find with support books, worksheets and other print materials in a class or school library according to classification;
+4.5.1.1 use singular nouns, plural nouns – including some common irregular plural – and uncountable nouns, possessive ‘s/s’ to name, describe and label things;
+4.5.4.1 use determiners a, an, the, zero article, some, any, this, these, that, those to refer to things on a growing range of general and some curricular topics;
+4.5.8.1 use imperative forms [positive and negative] to give short instructions on a growing range of familiar topics
 </td>
 </tr>
 <tr>
-<td>1.4 Здоровье и безопасность</td>
-<td>3.1.4.2 группировать виды спорта, определять базовые и свои данные для занятия тем или иным видом спорта</td>
-</tr>
-<tr>
-<td>1.6 Праздники</td>
-<td>3.1.6.1 на основе исследований творчески представлять значение праздников народов Казахстана</td>
-</tr>
-<tr>
-<td>2.2 Климат и погода</td>
-<td>3.2.2.2 составлять правила поведения при неблагоприятных погодно-климатических условиях</td>
-</tr>
-<tr>
-<td>3.1 Древние культуры и цивилизации</td>
+<td>Treasure map 2</td>
 <td>
-3.3.1.1 объяснять особенности кочевого и оседлого образа жизни;
-3.3.1.2 объяснять важность сохранения памятников истории и культуры
+4.1.3.1 understand the main points of short supported talk on an increasing range of general and some curricular topics;
+4.2.4.1 respond to questions on an increasing range of general and some curricular topics;
+4.4.1.1 plan, write and check sentences with support on a range of basic personal, general and some curricular topics;
+4.5.8.1 use imperative forms [positive and negative] to give short instructions on a growing range of familiar topics;
+4.5.11.1 use has got/have got there is/are statement, negative, question forms including short and full answers and contractions;
+4.5.14.1 use prepositions of location, position and direction, at, in, on, behind, between, in front of, near, next to, opposite, above, up, down, on the right, on the left, use prepositions of time, in, on, at, before, after , use with/without to indicate accompaniment with for instrument and for to indicate recipient
 </td>
 </tr>
 <tr>
-<td>3.2 Исторические корни Казахстана</td>
-<td>3.3.2.1 на основе изучения различных материалов определять образ жизни тюрков</td>
-</tr>
-<tr>
-<td rowspan="4">4 Архитектура</td>
-<td>2.3 Природные условия и их значение (влияние)</td>
-<td>3.2.3.1 анализировать расселение людей в зависимости от природных условий (рельеф, климат, растительный и животный мир, водные объекты)</td>
-</tr>
-<tr>
-<td>1.3 Моя малая Родина</td>
-<td>3.1.3.1 различать населенные пункты по различным признакам (тип, размер, функции)</td>
-</tr>
-<tr>
-<td>2.4 Туризм</td>
+<td>Treasure and numbers1</td>
 <td>
-3.1.3.2 исследовать связь города и села, приводить примеры;
-3.2.4.1 составлять рейтинг наиболее привлекательных туристских объектов Казахстана
+4.3.3.1 recognise basic opinions in short, simple texts on an increasing range of general range of general and some curricular topics;
+4.4.1.1 plan, write and check sentences with support on a range of basic personal, general and some curricular topics;
+4.5.2.1 use cardinal numbers 1 – 1000 and ordinal numbers 1 – 100
 </td>
 </tr>
 <tr>
-<td>2.1 Ориентирование на местности</td>
+<td>Treasure and numbers 2</td>
 <td>
-3.2.1.2 составлять план местности, соблюдая масштаб и используя условные знаки;
-3.2.1.1 определять стороны горизонта по астрономическим признакам
+4.1.4.1 understand an increasing range of short supported questions on general and some curricular topics;
+4.2.5.1 pronounce an increasing range of words, short phrases and simple sentences intelligibly;
+4.4.2.1 begin to use joined-up handwriting in a limited range of written work;
+4.5.5.1 use interrogative pronouns who, what and where, how many, how much, how often, how big, what kind of to ask questions on growing range of familiar topics
 </td>
 </tr>
 <tr>
-<td colspan="3">3 четверть</td>
-</tr>
-<tr>
-<td rowspan="5">5 Искусство</td>
-<td>1.1 Я и моя семья</td>
-<td>3.1.1.3 определять ценности своей семьи</td>
-</tr>
-<tr>
-<td>1.4 Здоровье и безопасность</td>
-<td>3.1.4.1 графически представлять правила пользования бытовыми приборами</td>
-</tr>
-<tr>
-<td>3.5 История Казахстана: независимость, государственность и патриотизм</td>
-<td>3.3.5.1 объяснять значение неофициальных символов Казахстана (монументы «Алтын адам», «Байтерек», Триумфальная арка «Мәңгілік ел»)</td>
-</tr>
-<tr>
-<td>3.2 Исторические корни Казахстана</td>
-<td>3.3.2.1 на основе изучения различных материалов определять образ жизни тюрков</td>
-</tr>
-<tr>
-<td>3.1 Древние культуры и цивилизации</td>
-<td>3.3.1.2 объяснять важность сохранения памятников истории и культуры</td>
-</tr>
-<tr>
-<td rowspan="3">6 Выдающиеся личности</td>
-<td>3.2 Исторические корни Казахстана</td>
-<td>3.3.2.1 на основе изучения различных материалов определять образ жизни тюрков</td>
-</tr>
-<tr>
-<td>3.3 Важные события в истории Казахстана</td>
-<td>3.3.3.1 объяснять причины образования Казахского ханства</td>
-</tr>
-<tr>
-<td>3.4 Выдающиеся исторические личности и деятели культуры</td>
+<td>Our planet’s treasure 1</td>
 <td>
-3.3.4.1 на исторических примерах объяснять роль ханов, батыров, биев;
-3.3.4.2 на исторических примерах представлять в творческой форме роль борцов за независимость казахского народа
+4.1.3.1 understand the main points of short supported talk on an increasing range of general and some curricular topics;
+4.2.3.1 give short, basic description of people and objects, begin to describe past experiences on an increasing range of general and some curricular topics;
+4.3.3.1 recognise basic opinions in short, simple texts on an increasing range of general range of general and some curricular topics;
+4.4.4.1 write with support a sequence of short sentences in a paragraph to give basic personal information
 </td>
 </tr>
 <tr>
-<td colspan="3">4 четверть</td>
-</tr>
-<tr>
-<td rowspan="6">7 Вода – источник жизни</td>
-<td>2.2 Климат и погода</td>
-<td>3.2.2.1 определять характеристики основных типов климата на Земле</td>
-</tr>
-<tr>
-<td>2.3 Природные условия и их значение (влияние)</td>
-<td>3.2.3.1 анализировать расселение людей в зависимости от природных условий (рельеф, климат, растительный и животный мир, водные объекты)</td>
-</tr>
-<tr>
-<td>2.4 Туризм</td>
-<td>3.2.4.1 составлять рейтинг наиболее привлекательных туристских объектов Казахстана</td>
-</tr>
-<tr>
-<td>2.2 Климат и погода</td>
-<td>3.2.2.2 составлять правила поведения при неблагоприятных погодно-климатических условиях</td>
-</tr>
-<tr>
-<td>2.3 Природные условия и их значение (влияние)</td>
-<td>3.2.3.2 составлять правила поведения в случае возникновения геологических и природно-климатических катаклизмов</td>
-</tr>
-<tr>
-<td>1.4 Здоровье и безопасность</td>
+<td>Our planet’s treasure 2</td>
 <td>
-3.1.4.3 на основе различных источников выявлять и оценивать риски и опасности в естественной среде;
-3.1.4.4 планировать свою безопасность в естественной среде
+4.1.8.1 understand short, supported narratives on an increasing range of general and some curricular topics;
+4.2.6.1 take turns when speaking with others in a growing range of short, basic exchanges;
+4.2.8.1 express basic likes and dislikes, recount short, basic stories and events on a limited range of general and some curricular topics;
+4.3.5.1 understand the main points of short simple texts on a growing range general and some curricular topics by using contextual clues
 </td>
 </tr>
 <tr>
-<td rowspan="6">8 Культура отдыха. Праздники</td>
-<td>1.1 Я и моя семья</td>
-<td>3.1.1.3 определять ценности своей семьи</td>
-</tr>
-<tr>
-<td>1.2 Школа и школьное сообщество</td>
-<td>3.1.2.3 объяснять этические нормы поведения, принятые в обществе</td>
-</tr>
-<tr>
-<td>1.6 Праздники</td>
-<td>3.1.6.1 на основе исследований творчески представлять значение праздников народов Казахстана</td>
-</tr>
-<tr>
-<td>3.1 Древние культуры и цивилизации</td>
-<td>3.3.1.2 объяснять важность сохранения памятников истории и культуры</td>
-</tr>
-<tr>
-<td>1.1 Я и моя семья</td>
+<td rowspan="3">Professions and ways of Communication</td>
+<td>Body language</td>
 <td>
-3.1.1.4 планировать и обосновывать собственные расходы;
-3.1.1.5 предлагать пути оптимизации собственных расходов
+4.1.1.1 understand an increasing range of classroom instructions;
+4.2.1.1 make basic statements which provide information on an increasing range of general and some curricular topics;
+4.3.1.1 recognise, identify and sound with support a growing range of language at text level;
+4.4.2.1 begin to use joined-up handwriting in a limited range of written work;
+4.5.1.1 use singular nouns, plural nouns – including some common irregular plural – and uncountable nouns, possessive ‘s/s’ to name, describe and label things;
+4.5.6.1 use demonstrative pronouns this, these, that, those and object pronouns in short statements, questions and responses
 </td>
 </tr>
 <tr>
-<td>1.4 Здоровье и безопасность</td>
-<td>3.1.4.2 группировать виды спорта, определять базовые и свои данные для занятия тем или иным видом спорта</td>
-</tr>
-</table>
-
-4\) 4 класс:
-
-<table>
-<tr>
-<td>Сквозная тема</td>
-<td>Подраздел</td>
-<td>Цели обучения</td>
-</tr>
-<tr>
-<td colspan="3">1 четверть</td>
-</tr>
-<tr>
-<td rowspan="2">1 Моя Родина – Казахстан!</td>
-<td>1.3 Моя малая Родина</td>
+<td>Communicating around the world</td>
 <td>
-4.1.3.1 различать административно-территориальные единицы различного ранга (округ, район, область);
-4.1.3.2 основываясь на различных источниках, давать описание субъектов экономической деятельности своего края
+4.1.1.1 understand an increasing range of classroom instructions;
+4.1.3.1 understand the main points of short supported talk on an increasing range of general and some curricular topics;
+4.1.10.1 recognise words similar to words in student native language;
+4.2.1.1 make basic statements which provide information on an increasing range of general and some curricular topics;
+4.3.1.1 recognise, identify and sound with support a growing range of language at text level;
+4.4.6.1 use upper and lower case letters accurately when writing names, places and short sentences when writing independently
 </td>
 </tr>
 <tr>
-<td>2.3 Природные условия и их значение (влияние)</td>
-<td>4.2.3.1 анализировать хозяйственную деятельность людей своей местности и регионов Казахстана в зависимости от природных условий (рельеф, климат, растительный и животный мир, водные объекты)</td>
-</tr>
-<tr>
-<td rowspan="2">2 Ценности</td>
-<td>1.1 Я и моя семья</td>
+<td>Technology</td>
 <td>
-4.1.1.1 доказывать значимость семьи в жизни общества;
-4.1.1.2 анализировать функциональную роль членов семьи;
-4.1.1.3 анализировать доход и расход семейного бюджета;
-4.1.1.4 предлагать пути оптимизации семейного бюджета
+4.1.2.1 understand an increasing range of supported questions which ask for personal information;
+4.2.3.1 give short, basic description of people and objects, begin to describe past experiences on an increasing range of general and some curricular topics;
+4.4.4.1 write with support a sequence of short sentences in a paragraph to give basic personal information;
+4.5.3.1 use adjectives, including possessive adjectives, on a growing range of general and some curricular topics to describe things, use simple one-syllable and some two-syllable adjectives [comparative and superlative] to make comparisons;
+4.5.11.1 use has got/have got there is/are statement, negative, question forms including short and full answers and contractions
 </td>
 </tr>
 <tr>
-<td>1.5 Права и обязанности</td>
+<td colspan="3">Term 3</td>
+</tr>
+<tr>
+<td rowspan="4">Hot and Cold</td>
+<td>Weather 1</td>
 <td>
-4.1.2.1 объяснять пути вступления в состав школьного самоуправления;
-4.1.2.2 определять личностные качества лидера;
-4.1.5.1 делать выводы о значении Конституции в жизни общества;
-4.1.5.2 приводить примеры демократических прав и свобод, обязанностей в качестве гражданина Республики Казахстан
+4.1.9.1 recognise words that are spelt out from a limited range of general and curriculum topics;
+4.2.1.1 make basic statements which provide information on an increasing range of general and some curricular topics;
+4.3.5.1 understand the main points of short simple texts on a growing range general and some curricular topics by using contextual clues;
+4.4.5.1 link with some support sentences using basic coordinating connectors;
+4.4.7.1 spell most familiar high-frequency words accurately when writing independently;
+4.5.10.1 use common present continuous forms, including short answers and contractions, to talk about what is happening now and future arrangements on a limited range of personal and familiar topics, use -ing forms swimming, spelling as nouns to describe familiar and classroom activities;
+4.5.16.1 use conjunctions and, or, but, because to link words and phrases
 </td>
 </tr>
 <tr>
-<td colspan="3">2 четверть</td>
-</tr>
-<tr>
-<td rowspan="5">3 Культурное наследие</td>
-<td>3.2 Исторические корни Казахстана</td>
+<td>Weather 2</td>
 <td>
-4.3.2.1 на основе различных источников объяснять происхождение казахского народа;
-4.3.2.2 графически отображать связь между саками, гуннами, тюрками и казахами
+4.1.4.1 understand an increasing range of short supported questions on general and some curricular topics;
+4.2.2.1 ask questions to find out about present and possibly past experiences on an increasing range of general and some curricular topics;
+4.2.4.1 respond to questions on an increasing range of general and some curricular topics;
+4.2.7.1 contribute a growing range of suitable words, phrases, and sentences during short pair, group and whole class exchanges;
+4.3.6.1 understand with some support some specific information and detail in short, simple texts on a growing range of general and some curricular topics;
+4.4.7.1 spell most familiar high-frequency words accurately when writing independently;
+4.4.8.1 to include appropriate use of full stops and question marks, at sentence level with some accuracy when writing independently
 </td>
 </tr>
 <tr>
-<td>3.1 Древние культуры и цивилизации</td>
-<td>4.3.1.1 на основе различных источников определять технологический прогресс в исторические периоды</td>
-</tr>
-<tr>
-<td>3.3 Важные события в истории Казахстана</td>
-<td>4.3.3.1 объяснять достижения Казахстана в ХХ-XXI веках (культура, наука, образование, экономика)</td>
-</tr>
-<tr>
-<td>3.4 Выдающиеся исторические личности и деятели культуры</td>
-<td>4.3.4.1 основываясь на биографических данных выдающихся деятелях творческих и трудовых профессий, сообщать об их вкладе в развитие страны</td>
-</tr>
-<tr>
-<td>3.1 Древние культуры и цивилизации</td>
+<td>Volcanoes</td>
 <td>
-4.3.1.2 объяснять назначение исторических музеев;
-4.3.1.3 предлагать собственный проект музея
+4.1.3.1 understand the main points of short supported talk on an increasing range of general and some curricular topics;
+4.1.6.1 understand some specific information and detail of short, supported talk on an increasing range of general and some curricular topics;
+4.1.7.1 use contextual clues to predict content and meaning in short supported talk on an increasing range of general and some curricular topics;
+4.2.6.1 take turns when speaking with others in a growing range of short, basic exchanges;
+4.3.3.1 recognise basic opinions in short, simple texts on an increasing range of general range of general and some curricular topics;
+4.3.5.1 understand the main points of short simple texts on a growing range general and some curricular topics by using contextual clues;
+4.4.2.1 begin to use joined-up handwriting in a limited range of written work
 </td>
 </tr>
 <tr>
-<td rowspan="8">4 Мир профессий</td>
-<td>1.1 Я и моя семья</td>
-<td>4.1.1.2 анализировать функциональную роль членов семьи</td>
-</tr>
-<tr>
-<td>1.6 Праздники</td>
-<td>4.1.6.1 на основе исследований творчески представлять историю профессиональных праздников</td>
-</tr>
-<tr>
-<td>2.3 Природные условия и их значение (влияние)</td>
-<td>4.2.3.1 анализировать хозяйственную деятельность людей своей местности и регионов Казахстана в зависимости от природных условий (рельеф, климат, растительный и животный мир, водные объекты)</td>
-</tr>
-<tr>
-<td>1.3 Моя малая Родина</td>
-<td>4.1.3.2 основываясь на различных источниках, давать описание субъектов экономической деятельности своего края</td>
-</tr>
-<tr>
-<td>3.4 Выдающиеся исторические личности и деятели культуры</td>
-<td>4.3.4.1 основываясь на биографических данных выдающихся деятелей творческих и трудовых профессий, сообщать об их вкладе в развитие страны</td>
-</tr>
-<tr>
-<td>3.1 Древние культуры и цивилизации</td>
-<td>4.3.1.1 на основе различных источников определять технологический прогресс в исторические периоды</td>
-</tr>
-<tr>
-<td>3.3 Важные события в истории Казахстана</td>
-<td>4.3.3.1 объяснять достижения Казахстана в ХХ-XXI веках (культура, наука, образование, экономика)</td>
-</tr>
-<tr>
-<td>1.4 Здоровье и безопасность</td>
+<td>Snow and ice</td>
 <td>
-4.1.4.1 исследовать причины травматизма в различных видах спорта;
-4.1.4.2 предлагать меры по профилактике и способы снижения травмоопасности при занятиях различными видами спорта
+4.3.6.1 understand with some support some specific information and detail in short, simple texts on a growing range of general and some curricular topics;
+4.5.13.1 use can to make requests and ask permission, use must/mustn’t/have to to talk about obligation, use have + object + infinitive to talk about obligations;
+4.5.14.1 use prepositions of location, position and direction: at, in, on, behind, between, in front of, near, next to, opposite, above, up, down, on the right, on the left, use prepositions of time : in, on, at, before, after, use with/without to indicate accompaniment with for instrument and for to indicate recipient;
+4.5.16.1 use conjunctions and, or, but, because to link words and phrases
 </td>
 </tr>
 <tr>
-<td colspan="3">3 четверть</td>
-</tr>
-<tr>
-<td rowspan="4">5 Природные явления</td>
-<td>2.2 Климат и погода</td>
-<td>4.2.2.1 анализировать влияние климата на развитие человечества</td>
-</tr>
-<tr>
-<td>2.3 Природные условия и их значение (влияние)</td>
+<td rowspan="5">Healthy World</td>
+<td>Healthy bodies 1</td>
 <td>
-4.2.3.1 анализировать хозяйственную деятельность людей своей местности и регионов Казахстана в зависимости от природных условий (рельеф, климат, растительный и животный мир, водные объекты);
-4.2.3.2 на основе исследования прогнозировать вероятность возникновения природных катаклизмов в своем регионе
+4.2.5.1 pronounce an increasing range of words, short phrases and simple sentences intelligibly;
+4.4.7.1 spell most familiar high-frequency words accurately when writing independently;
+4.5.9.1 use common simple present forms, including short answer forms and contractions, to give personal information and talk about habitual actions, facts and future timetabled events continue to use common past simple forms [regular and irregular] to describe actions and feelings and narrate simple events including short answer forms and contractions;
+4.5.12.1 use adverbs of time and frequency: sometimes, often, always, never to indicate when and how often, begin to use simple adverbs of manner example given well, badly, use common -ly manner adverbs to describe actions example given slowly, quickly
 </td>
 </tr>
 <tr>
-<td>1.4 Здоровье и безопасность</td>
+<td>Healthy bodies 2</td>
 <td>
-4.1.4.3 на основе различных источников выявлять и оценивать риски и опасности в искусственной среде;
-4.1.4.4 планировать свою безопасность в искусственной среде
+4.1.10.1 recognise words similar to words in student native language;
+4.2.6.1 take turns when speaking with others in a growing range of short, basic exchanges;
+4.4.2.1 begin to use joined-up handwriting in a limited range of written work;
+4.4.7.1 spell most familiar high-frequency words accurately when writing independently;
+4.5.3.1 use adjectives, including possessive adjectives, on a growing range of general and some curricular topics to describe things, use simple one-syllable and some two-syllable adjectives [comparative and superlative] to make comparisons;
+4.5.10.1 use common present continuous forms, including short answers and contractions, to talk about what is happening now and future arrangements on a limited range of personal and familiar topics, use -ing forms swimming, spelling as nouns to describe familiar and classroom activities
 </td>
 </tr>
 <tr>
-<td>2.1 Ориентирование на местности</td>
-<td>4.2.1.1 определять местоположение объекта по отношению к другим</td>
-</tr>
-<tr>
-<td rowspan="3">6 Охрана окружающей среды</td>
-<td>2.2 Климат и погода</td>
-<td>4.2.2.1 анализировать влияние климата на развитие человечества</td>
-</tr>
-<tr>
-<td>2.3 Природные условия и их значение</td>
+<td>Save our animals 1</td>
 <td>
-4.2.3.1 анализировать хозяйственную деятельность людей своей местности и регионов Казахстана в зависимости от природных условий (рельеф, климат, растительный и животный мир, водные объекты);
-4.2.3.2 на основе исследования прогнозировать вероятность возникновения природных катаклизмов в своем регионе
+4.2.7.1 contribute a growing range of suitable words, phrases, and sentences including giving opinions during short pair, group and whole class exchanges;
+4.4.1.1 plan, write and check sentences with support on a range of basic personal, general and some curricular topics;
+4.4.2.1 begin to use joined-up handwriting in a limited range of written work;
+4.5.1.1 use singular nouns, plural nouns – including some common irregular plural – and uncountable nouns, possessive ‘s/s’ to name, describe and label things;
+4.5.5.1 use interrogative pronouns who, what and where, how many, how much, how often, how big, what kind of to ask questions on growing range of familiar topics
 </td>
 </tr>
 <tr>
-<td>2.1 Ориентирование на местности</td>
+<td>Save our animals 2</td>
 <td>
-4.2.1.1 определять местоположение объекта по отношению к другим;
-4.2.1.2 объяснять назначение глобуса и карт, показывать на них основные объекты;
-4.2.1.3 показывать на глобусе и картах параллели, меридианы, экватор
+4.1.3.1 understand the main points of short supported talk on an increasing range of general and some curricular topics;
+4.2.3.1 give short, basic description of people and objects, begin to describe past experiences on an increasing range of general and some curricular topics;
+4.3.2.1 read and understand with some support short simple fiction and non-fiction texts;
+4.4.5.1 link with some support sentences using basic coordinating connectors
 </td>
 </tr>
 <tr>
-<td colspan="3">4 четверть</td>
-</tr>
-<tr>
-<td rowspan="5">7 Путешествие в Космос</td>
-<td>1.6 Праздники</td>
-<td>4.1.6.1 на основе исследований творчески представлять историю профессиональных праздников</td>
-</tr>
-<tr>
-<td>3.3 Важные события в истории Казахстана</td>
-<td>4.3.3.1 объяснять достижения Казахстана в ХХ-XXI веках (культура, наука, образование, экономика)</td>
-</tr>
-<tr>
-<td>3.4 Выдающиеся исторические личности и деятели культуры</td>
-<td>4.3.4.1 основываясь на биографических данных выдающихся деятелей творческих и трудовых профессий, сообщать об их вкладе в развитие страны</td>
-</tr>
-<tr>
-<td>3.5 История Казахстана: независимость, государственность и патриотизм</td>
+<td>Help the planet 1</td>
 <td>
-4.3.5.2 определять роль Казахстана на мировой арене;
-4.1.5.2 приводить примеры демократических прав и свобод, обязанностей в качестве гражданина Республики Казахстан
+4.1.3.1 understand the main points of short supported talk on an increasing range of general and some curricular topics;
+4.1.4.1 understand an increasing range of short supported questions on general and some curricular topics;
+4.2.6.1 take turns when speaking with others in a growing range of short, basic exchanges;
+4.3.2.1 read and understand with some support short simple fiction and non-fiction texts;
+4.5.12.1 use adverbs of time and frequency: sometimes, often, always, never to indicate when and how often, begin to use simple adverbs of manner example given well, badly, use common -ly manner adverbs to describe actions example given slowly, quickly
 </td>
 </tr>
 <tr>
-<td>1.4 Здоровье и безопасность</td>
+<td></td>
+<td>Help the planet 2</td>
 <td>
-4.1.4.3 на основе различных источников выявлять и оценивать риски и опасности в искусственной среде;
-4.1.4.4 планировать свою безопасность в искусственной среде
+4.1.5.1 identify initial, middle and final phonemes and blends;
+4.2.4.1 respond to questions on an increasing range of general and some curricular topics;
+4.2.8.1 express basic likes and dislikes, recount short, basic stories and events on a limited range of general and some curricular topics;
+4.3.5.1 understand the main points of short simple texts on a growing range general and some curricular topics by using contextual clues;
+4.5.8.1 use imperative forms [positive and negative] to give short instructions on a growing range of familiar topics
 </td>
 </tr>
 <tr>
-<td rowspan="6">8. Путешествие в будущее</td>
-<td>1.3 Моя малая Родина</td>
-<td>4.1.3.2 основываясь на различных источниках, давать описание субъектов экономической деятельности своего края</td>
+<td colspan="3">Term 4</td>
 </tr>
 <tr>
-<td>2.4 Туризм</td>
-<td>4.2.4.1 создавать туристский маршрут по Казахстану и по Астане, используя доступные источники информации (интернет, книги)</td>
-</tr>
-<tr>
-<td>3.1 Древние культуры и цивилизации</td>
-<td>4.3.1.1 на основе различных источников определять технологический прогресс в исторические периоды</td>
-</tr>
-<tr>
-<td>3.5 История Казахстана: независимость, государственность и патриотизм</td>
-<td>4.3.5.1 на основе исследований предлагать ряд смысловых ассоциаций, связанных с названием «Казахстан» (национальный бренд)</td>
-</tr>
-<tr>
-<td>1.6 Праздники</td>
-<td>4.1.6.1 на основе исследований творчески представлять историю профессиональных праздников</td>
-</tr>
-<tr>
-<td>1.5 Права и обязанности</td>
+<td rowspan="6">Journey into Space</td>
+<td>Into Space 1</td>
 <td>
-4.1.5.1 делать выводы о значении Конституции в жизни общества;
-4.1.5.2 приводить примеры демократических прав и свобод, обязанностей в качестве гражданина Республики Казахстан
+4.1.5.1 identify initial, middle and final phonemes and blends;
+4.3.3.1 recognise basic opinions in short, simple texts on an increasing range of general range of general and some curricular topics;
+4.4.7.1 spell most familiar high-frequency words accurately when writing independently;
+4.5.3.1 use adjectives, including possessive adjectives, on a growing range of general and some curricular topics to describe things, use simple one-syllable and some two-syllable adjectives [comparative and superlative] to make comparisons;
+4.5.5.1 use interrogative pronouns who, what and where, how many, how much, how often, how big, what kind of to ask questions on growing range of familiar topics;
+4.5.13.1 use can to make requests and ask permission, use must/mustn’t/have to to talk about obligation, use have + object + infinitive to talk about obligations
+</td>
+</tr>
+<tr>
+<td>Into Space 2</td>
+<td>
+4.2.6.1 take turns when speaking with others in a growing range of short, basic exchanges;
+4.3.6.1 understand with some support some specific information and detail in short, simple texts on a growing range of general and some curricular topics;
+4.4.4.1 write with support a sequence of short sentences in a paragraph to give basic personal information
+</td>
+</tr>
+<tr>
+<td>Planets 1</td>
+<td>
+4.1.6.1 understand an increasing range of short supported questions on general and some curricular topics;
+4.3.1.1 recognise, identify and sound with support a growing range of language at text level;
+4.3.4.1 find with support books, worksheets and other print materials in a class or school library according to classification;
+4.4.4.1 write with support a sequence of short sentences in a paragraph to give basic personal information;
+4.5.2.1 use cardinal numbers 1 – 1000 and ordinal numbers 1 – 100;
+4.5.17.1 use me, too and I don’t to give short answers, use when clauses to describe simple present and past actions on personal and familiar topics
+</td>
+</tr>
+<tr>
+<td>Planets 2</td>
+<td>
+4.1.4.1 understand an increasing range of short supported questions on general and some curricular topics;
+4.2.4.1 respond to questions on an increasing range of general and some curricular topics;
+4.3.5.1 understand the main points of short simple texts on a growing range general and some curricular topics by using contextual clues;
+4.4.2.1 begin to use joined-up handwriting in a limited range of written work;
+4.5.1.1 use singular nouns, plural nouns – including some common irregular plural – and uncountable nouns, possessive ‘s/s’ to name, describe and label things
+4.5.2.1 use cardinal numbers 1 – 1000 and ordinal numbers 1 – 100;
+4.5.3.1 use adjectives, including possessive adjectives, on a growing range of general and some curricular topics to describe things, use simple one-syllable and some two-syllable adjectives [comparative and superlative] to make comparisons
+</td>
+</tr>
+<tr>
+<td>Aliens 1</td>
+<td>
+4.1.5.1 identify initial, middle and final phonemes and blends;
+4.1.8.1 understand short, supported narratives on an increasing range of general and some curricular topics;
+4.2.4.1 respond to questions on an increasing range of general and some curricular topics;
+4.3.6.1 understand with some support some specific information and detail in short, simple texts on a growing range of general and some curricular topics;
+4.4.7.1 spell most familiar high-frequency words accurately when writing independently;
+4.5.3.1 use adjectives, including possessive adjectives, on a growing range of general and some curricular topics to describe things, use simple one-syllable and some two-syllable adjectives [comparative and superlative] to make comparisons;
+4.5.4.1 use determiners a, an, the, zero article, some, any, this, these, that, those to refer to things on a growing range of general and some curricular topics;
+4.5.16.1 use conjunctions and, or, but, because to link words and phrases
+</td>
+</tr>
+<tr>
+<td>Aliens 2</td>
+<td>
+4.3.5.1 understand the main points of short simple texts on a growing range general and some curricular topics by using contextual clues;
+4.4.1.1 plan, write and check sentences with support on a range of basic personal, general and some curricular topics;
+4.4.5.1 link with some support sentences using basic coordinating connectors;
+4.5.9.1 use common simple present forms, including short answer forms and contractions, to give personal information and talk about habitual actions, facts and future timetabled events continue to use common past simple forms [regular and irregular] to describe actions and feelings and narrate simple events including short answer forms and contractions
+</td>
+</tr>
+<tr>
+<td rowspan="6">Machines</td>
+<td>Slow machines 1</td>
+<td>
+4.1.6.1 understand some specific information and detail of short, supported talk on an increasing range of general and some curricular topics;
+4.2.3.1 give short, basic description of people and objects, begin to describe past experiences on an increasing range of general and some curricular topics;
+4.3.3.1 recognise basic opinions in short, simple texts on an increasing range of general range of general and some curricular topics;
+4.4.1.1 plan, write and check sentences with support on a range of basic personal, general and some curricular topics;
+4.4.7.1 spell most familiar high-frequency words accurately when writing independently;
+4.5.5.1 use interrogative pronouns who, what and where, how many, how much, how often, how big, what kind of to ask questions on growing range of familiar topics;
+4.5.12.1 use adverbs of time and frequency: sometimes, often, always, never to indicate when and how often, begin to use simple adverbs of manner example given well, badly, use common -ly manner adverbs to describe actions example given slowly, quickly
+</td>
+</tr>
+<tr>
+<td>Slow machines 2</td>
+<td>
+4.1.6.1 understand some specific information and detail of short, supported talk on an increasing range of general and some curricular topics;
+4.2.1.1 make basic statements which provide information on an increasing range of general and some curricular topics;
+4.3.2.1 read and understand with some support short simple fiction and non-fiction texts;
+4.4.5.1 link with some support sentences using basic coordinating connectors;
+4.5.1.1 use singular nouns, plural nouns – including some common irregular plural – and uncountable nouns, possessive ‘s/s’ to name, describe and label things;
+4.5.6.1 use demonstrative pronouns this, these, that, those and object pronouns in short statements, questions and responses
+</td>
+</tr>
+<tr>
+<td>Fast machines 1</td>
+<td>
+4.1.5.1 identify initial, middle and final phonemes and blends;
+4.2.4.1 respond to questions on an increasing range of general and some curricular topics;
+4.2.7.1 contribute a growing range of suitable words, phrases, and sentences including giving opinions during short pair, group and whole class exchanges;
+4.3.1.1 recognise, identify and sound with support a growing range of language at text level;
+4.4.2.1 begin to use joined-up handwriting in a limited range of written work;
+4.5.3.1 use adjectives, including possessive adjectives, on a growing range of general and some curricular topics to describe things, use simple one-syllable and some two-syllable adjectives [comparative and superlative] to make comparisons;
+4.5.14.1 use prepositions of location, position and direction: at, in, on, behind, between, in front of, near, next to, opposite, above, up, down, on the right, on the left, use prepositions of time : in, on, at, before, after,
+use with/without to indicate accompaniment with for instrument and for to indicate recipient
+</td>
+</tr>
+<tr>
+<td>Fast machines 2</td>
+<td>
+4.2.4.1 respond to questions on an increasing range of general and some curricular topics;
+4.2.6.1 take turns when speaking with others in a growing range of short, basic exchanges;
+4.4.4.1 write with support a sequence of short sentences in a paragraph to give basic personal information;
+4.4.7.1 spell most familiar high-frequency words accurately when writing independently;
+4.5.3.1 use adjectives, including possessive adjectives, on a growing range of general and some curricular topics to describe things, use simple one-syllable and some two-syllable adjectives [comparative and superlative] to make comparisons;
+4.5.13.1 use can to make requests and ask permission, use must/mustn’t/have to to talk about obligation, use have + object + infinitive to talk about obligations;
+4.5.16.1 use conjunctions and, or, but, because to link words and phrases
+</td>
+</tr>
+<tr>
+<td>Robots 1</td>
+<td>
+4.1.8.1 understand short, supported narratives on an increasing range of general and some curricular topics;
+4.4.8.1 to include appropriate use of full stops and question marks, at sentence level with some accuracy when writing independently;
+4.5.4.1 use determiners a, an, the, zero article, some, any, this, these, that, those to refer to things on a growing range of general and some curricular topics;
+4.5.11.1 use has got/have got there is/are statement, negative, question forms including short and full answers and contractions;
+4.5.14.1 use prepositions of location, position and direction: at, in, on, behind, between, in front of, near, next to, opposite, above, up, down, on the right, on the left, use prepositions of time: in, on, at, before, after, use with/without to indicate accompaniment with for instrument and for to indicate recipient
+</td>
+</tr>
+<tr>
+<td>Robots 2</td>
+<td>
+4.1.8.1 understand short, supported narratives on an increasing range of general and some curricular topics;
+4.3.2.1 read and understand with some support short simple fiction and non-fiction texts;
+4.3.4.1 find with support books, worksheets and other print materials in a class or school library according to classification;
+4.3.6.1 understand with some support some specific information and detail in short, simple texts on a growing range of general and some curricular topics;
+4.4.5.1 link with some support sentences using basic coordinating connectors;
+4.5.13.1 use can to make requests and ask permission, use must/mustn’t/have to to talk about obligation, use have + object + infinitive to talk about obligations;
+4.5.15.1 use would you like to to invite and use appropriate responses yes please, no thanks, use let’s + verb, verbs go enjoy like + verb + ing, begin use infinitive of purpose to describe simple actions and verbs want, start + infinitive, use declarative what [a/an] + adjective + noun to show feelings
 </td>
 </tr>
 </table>
-
-Примечание:
-
-в одной четверти цели обучения интегрируются со сквозными темами, исходя из расчета – 2 сквозные темы на четверть.
