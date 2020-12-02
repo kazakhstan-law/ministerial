@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/33892/rus/11.03.2020
+source: https://zan.gov.kz/client/#!/doc/33892/rus/02.12.2020
 ---
 
 # Об утверждении Классификатора отходов
