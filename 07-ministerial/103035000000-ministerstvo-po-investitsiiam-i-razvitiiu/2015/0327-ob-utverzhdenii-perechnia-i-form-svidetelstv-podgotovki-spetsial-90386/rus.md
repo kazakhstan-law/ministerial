@@ -54,7 +54,7 @@
 
 ## Перечень свидетельств подготовки специалистов морского транспорта в соответствии с требованиями международных договоров Республики Казахстан в области торгового мореплавания
 
-> *Сноска. Приложение 1 в редакции приказа Министра по инвестициям и развитию РК от 19.06.2018 № 458 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение 1 в редакции приказов Министра по инвестициям и развитию РК от 19.06.2018 № 458 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра индустрии и инфраструктурного развития РК от 21.12.2020 № 666 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 1) «Начальная подготовка»;
 
@@ -90,7 +90,7 @@
 
 17) «Начальная подготовка для работы на судах, подпадающих под действие Международного кодекса по безопасности для судов, использующих газы или иные виды топлива с низкой температурой вспышки»;
 
-18) «Подготовка по расширенной программе для работы на судах, подпадающих под действие Международного кодекса по безопасности для судов, использующих газы или иные виды топлива с низкой температурой вспышки»;
+18) «Подготовка по расширенной программе для работы на судах, подпадаю» их под действие Международного кодекса по безопасности для судов, использующих газы или иные виды топлива с низкой температурой вспышки»;
 
 19) «Начальная подготовка для судов, эксплуатирующихся в полярных водах»;
 
@@ -114,7 +114,11 @@
 
 29) «Моторист первого класса»;
 
-30) «Электрик».
+30) «Электрик»;
+
+31) «Подготовка по вопросам безопасности для персонала, осуществляющего непосредственное обслуживание пассажиров в помещениях для пассажиров»;
+
+32) «Подготовка по управлению неорганизованными массами людей на пассажирских судах».
 
 > *Приложение 2*  
 > *к приказу исполняющего*  
@@ -123,7 +127,7 @@
 > *Республики Казахстан*  
 > *от 27 марта 2015 года № 362*
 
-> *Сноска. Приложение 2 в редакции приказа Министра по инвестициям и развитию РК от 19.06.2018 № 458 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение 2 в редакции приказов Министра по инвестициям и развитию РК от 19.06.2018 № 458 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра индустрии и инфраструктурного развития РК от 21.12.2020 № 666 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 > *Форма 1*
 
@@ -133,33 +137,43 @@
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Начальная подготовка» № ХХХХХХХХ
 
-## «Начальная подготовка»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и Правилом VI/1 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
-___________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
-Дата рождения владельца свидетельства __________________
-Подпись владельца свидетельства ________________________
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+Правилом VI/1 приложения к Международной конвенции о подготовке и дипломировании моряков и
+несении вахты, 1978 года, с поправками
+__________________________________________________________________________________________________
+   (наименование, адрес, контактные данные организации образования (морского учебно-тренажерного центра),
+                                                                                проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+М.П. (при наличии)
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -172,32 +186,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
-
-## «Basic training»
-
-## № XXXXXXXX
+## CERTIFICATE OF PROFICIENCY «Basic training» № XXXXXXXX
 
 ## This is to confirm, that
 
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-      ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if given)   _____________________________
-                              full name (if given) (signature)
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017
+ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid
+down in Regulation VI/1 of the Annex to the International Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers 1978, as amended
+          __________________________________________________________________________________________
+                                           (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+__________________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
 Date of birth of the holder of the certificate	________________
 Signature of the holder of the certificate	________________
 ```
@@ -214,33 +243,50 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Специалист по спасательным шлюпкам и плотам и дежурным шлюпкам, не являющимся скоростными дежурными шлюпками» № ХХХХХХХХ
 
-## «Специалист по спасательным шлюпкам и плотам и дежурным шлюпкам,
-
-## не являющимся скоростными дежурными шлюпками»№ ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 1 Правила VI/2 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+признан надлежащим образом квалифицированным в соответствии с пунктом 1 Правила VI/2 приложения
+к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года,
+с поправками
 ___________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
-Дата рождения владельца свидетельства __________________
-Подпись владельца свидетельства ________________________
+(наименование, адрес, контактные данные организации образования (морского
+                 учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -253,30 +299,46 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY«Proficiency in Survival Craft and Rescue Boats (other than fast rescue boats)»
+## CERTIFICATE OF PROFICIENCY «Proficiency in Survival Craft and Rescue Boats (other than fast rescue boats)» № XXXXXXXX
 
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/2 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-      ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if given)   _____________________________
-                              full name (if given) (signature)
+has successfully completed a program of training in accordance with Regulations on the certification of
+the seafarers approved by the order of Minister of Investment and Development of the Republic of
+Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory
+ acts ref. # 15577) and found duly qualified in accordance with provisions of regulation VI/2, paragraph 1 of
+the Аnnex to the International Convention on Standards of Training, Certification and Watchkeeping for
+Seafarers 1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
 Date of birth of the holder of the certificate	________________
 Signature of the holder of the certificate	________________
 ```
@@ -293,31 +355,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Специалист по скоростным дежурным шлюпкам» № ХХХХХХХХ
 
-## «Специалист по скоростным дежурным шлюпкам»№ ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 2 Правила VI/2 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и признан
+надлежащим образом квалифицированным в соответствии с пунктом 2 Правила VI/2 приложения к
+Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
 ___________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
-Дата рождения владельца свидетельства __________________
-Подпись владельца свидетельства ________________________
+(наименование, адрес, контактные данные организации образования (морского
+учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -330,34 +410,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Proficiency in Fast Rescue Boats» № XXXXXXXX
 
-## «Proficiency in Fast Rescue Boats»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/2 paragraph 2 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-      ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the
+seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan
+dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577)
+and found duly qualified in accordance with provisions of Regulation VI/2, paragraph 2 of the Аnnex to the
+International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+             (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -372,31 +465,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Борьба с пожаром по расширенной программе» № ХХХХХХХХ
 
-## «Борьба с пожаром по расширенной программе»№ ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 2 Правила VI/3 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+пунктом 1 Правила VI/3 приложения к Международной конвенции о подготовке и дипломировании
+моряков и несении вахты, 1978 года, с поправками
 ___________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
-Дата рождения владельца свидетельства __________________
-Подпись владельца свидетельства ________________________
+(наименование, адрес, контактные данные организации образования (морского
+                 учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -409,34 +520,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Advanced Fire Fighting » № XXXXXXXX
 
-## «Advanced Fire Fighting »
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/3 paragraph 2 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-      ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification
+of the seafarers approved by the order of Minister of Investment and Development of the Republic of
+Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory
+acts ref. # 15577) and the requirements laid down in Regulation VI/3, paragraph 1 of the Annex to the
+International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+______________________________________________________
+   (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -451,31 +575,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Оказание первой медицинской помощи» № ХХХХХХХХ
 
-## «Оказание первой медицинской помощи»№ ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 1 Правила VI/4 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+пунктом 1 Правила VI/4 приложения к Международной конвенции о подготовке и дипломировании
+моряков и несении вахты, 1978 года, с поправками
 ___________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
-Дата рождения владельца свидетельства __________________
-Подпись владельца свидетельства ________________________
+(наименование, адрес, контактные данные организации образования (морского
+              учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -488,34 +630,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Medical First Aid» № XXXXXXXX
 
-## «Medical First Aid»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/4 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-    ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in
+Regulation VI/4, paragraph 1 of the Annex to the International Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -530,31 +685,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Медицинский уход» № ХХХХХХХХ
 
-## «Медицинский уход»№ ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 2 Правила VI/4 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+пунктом 2 Правила VI/4 приложения к Международной конвенции о подготовке и дипломировании
+моряков и несении вахты, 1978 года, с поправками
 ___________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
-Дата рождения владельца свидетельства __________________
-Подпись владельца свидетельства ________________________
+(наименование, адрес, контактные данные организации образования (морского
+учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -567,32 +740,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY«Medical Care»
+## CERTIFICATE OF PROFICIENCY «Medical Care» № XXXXXXXX
 
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/4 paragraph 2 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (in given)
 
 ```
-    ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in
+Regulation VI/4, paragraph 2 of the Annex to the International Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -607,31 +795,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Подготовка лиц командного состава судна, ответственных за охрану» № ХХХХХХХХ
 
-## «Подготовка лиц командного состава судна, ответственных за охрану»№ ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и Правилом VI/5 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+признан надлежащим образом квалифицированным в соответствии с пунктом 1 Правила VI/5 приложения
+к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
 ___________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
-Дата рождения владельца свидетельства __________________
-Подпись владельца свидетельства ________________________
+(наименование, адрес, контактные данные организации образования (морского
+               учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -644,34 +850,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Ship Security Officer» № XXXXXXXX
 
-## «Ship Security Officer»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/5 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-  ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the
+seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan
+dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577)
+and found duly qualified in accordance with provisions of Regulation VI/5, paragraph 1 of the Аnnex to the
+International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+           (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -686,31 +905,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Подготовка в области осведомленности об охране судна» № ХХХХХХХХ
 
-## «Подготовка в области осведомленности об охране судна»№ ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 1 Правила VI/6 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+пунктом 1 Правила VI/6 приложения к Международной конвенции о подготовке и дипломировании моряков
+и несении вахты, 1978 года, с поправками
 ___________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
-Дата рождения владельца свидетельства __________________
-Подпись владельца свидетельства ________________________
+(наименование, адрес, контактные данные организации образования (морского
+              учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -723,34 +960,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Security Awareness Training» № XXXXXXXX
 
-## «Security Awareness Training»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/6 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-  ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the
+seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan
+dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577)
+and the requirements laid down in Regulation VI/6, paragraph 1 of the Annex to the International Convention
+on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -765,29 +1015,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Подготовка в области назначенных обязанностей по вопросам охраны» № ХХХХХХХХ
 
-## «Подготовка в области назначенных обязанностей по вопросам охраны»№ ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 4 Правила VI/6 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+пунктом 4 Правила VI/6 приложения к Международной конвенции о подготовке и дипломировании
+моряков и несении вахты, 1978 года, с поправками
 ___________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+(наименование, адрес, контактные данные организации образования (морского
+                   учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -800,34 +1070,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Security Training for Seafarers with Designated Security Duties» № XXXXXXXX
 
-## «Security Training for Seafarers with Designated Security Duties»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/6 paragraph 4 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-  ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in
+Regulation VI/6, paragraph 4 of the Annex to the International Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -842,33 +1125,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Начальная подготовка для проведения грузовых операций на нефтяных танкерах и танкерах-химовозах» № ХХХХХХХХ
 
-## «Начальная подготовка для проведения грузовых операций
-
-## на нефтяных танкерах и танкерах-химовозах»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 1 Правила V/1-1 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+пунктом 2 Правила V/1-1 приложения к Международной конвенции о подготовке и дипломировании
+моряков и несении вахты, 1978 года, с поправками
 ___________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+(наименование, адрес, контактные данные организации образования (морского
+учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -881,34 +1180,45 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «Basic Training for Oil and Chemical Tanker Cargo Operations» № XXXXXXXX
 
-## «Basic Training for Oil and Chemical Tanker Cargo Operations»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/1-1 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-  ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in
+Regulation V/1-1, paragraph 2 of the Annex to the International Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td></td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -923,33 +1233,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Подготовка для проведения грузовых операций на нефтяных танкерах по расширенной программе» № ХХХХХХХХ
 
-## «Подготовка для проведения грузовых операций
-
-## на нефтяных танкерах по расширенной программе»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 3 Правила V/1-1 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+пунктом 4 Правила V/1-1 приложения к Международной конвенции о подготовке и дипломировании моряков
+и несении вахты, 1978 года, с поправками
 ___________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+(наименование, адрес, контактные данные организации образования (морского
+учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -962,34 +1288,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «Advanced Training for Oil Tanker Cargo Operations» № XXXXXXXX
 
-## «Advanced Training for Oil Tanker Cargo Operations»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/1-1 paragraph 3 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-  ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in
+Regulation V/1-1, paragraph 4 of the Annex to the International Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1004,33 +1343,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Подготовка для проведения грузовых операций на танкерах-химовозах по расширенной программе» № ХХХХХХХХ
 
-## «Подготовка для проведения грузовых операций
-
-## на танкерах-химовозах по расширенной программе»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 5 Правила V/1-1 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+пунктом 6 Правила V/1-1 приложения к Международной конвенции о подготовке и дипломировании
+моряков и несении вахты, 1978 года, с поправками
 ___________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+(наименование, адрес, контактные данные организации образования (морского
+учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -1043,34 +1398,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «Advanced Training for Chemical Tanker Cargo Operations» № XXXXXXXX
 
-## «Advanced Training for Chemical Tanker Cargo Operations»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/1-1 paragraph 5 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-  ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the
+seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan
+dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577)
+and the requirements laid down in Regulation V/1-1, paragraph 6 of the Annex to the International Convention
+on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+              (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1085,33 +1453,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Начальная подготовка для проведения грузовых операций на газовозах» № ХХХХХХХХ
 
-## «Начальная подготовка для проведения
-
-## грузовых операций на газовозах»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 1 Правила V/1-2 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+пунктом 2 Правила V/1-2 приложения к Международной конвенции о подготовке и дипломировании моряков и
+несении вахты, 1978 года, с поправками
 ___________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+(наименование, адрес, контактные данные организации образования (морского
+учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -1124,34 +1508,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «Basic Training for Liquefied Gas Tanker Cargo Operations» № XXXXXXXX
 
-## «Basic Training for Liquefied Gas Tanker Cargo Operations»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/1-2 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
- ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the
+seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated
+July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the
+requirements laid down in Regulation V/1-2, paragraph 2 of the Annex to the International Convention on Standards
+of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+             (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1166,33 +1563,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Подготовка для проведения грузовых операций на газовозах по расширенной программе» № ХХХХХХХХ
 
-## «Подготовка для проведения грузовых операций
-
-## на газовозах по расширенной программе»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 3 Правила V/1-2 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом
+Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в
+ Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 4 Правила
+V/1-2 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты,
+1978 года, с поправками
 ___________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+(наименование, адрес, контактные данные организации образования (морского
+учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -1205,32 +1618,45 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «Advanced Training for Liquefied Gas Tanker Cargo Operations» № XXXXXXXX
 
-## «Advanced Training for Liquefied Gas Tanker Cargo Operations»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/1-2 paragraph 3 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
- ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down
+ in Regulation V/1-2, paragraph 4 of the Annex to the International Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
 Date of birth of the holder of the certificate	________________
 Signature of the holder of the certificate	________________
 ```
@@ -1247,31 +1673,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Управление и поведение человека в критических ситуациях» № ХХХХХХХХ
 
-## «Управление и поведение человека в критических ситуациях»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 8 Правила V/2 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+пунктом 8 Правила V/2 приложения к Международной конвенции о подготовке и дипломировании
+моряков и несении вахты, 1978 года, с поправками
 ___________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+(наименование, адрес, контактные данные организации образования (морского
+      учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -1284,34 +1728,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Crisis Management and Human Behaviour» № XXXXXXXX
 
-## «Crisis Management and Human Behaviour»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/2 paragraph 8 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
- ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+ # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in
+Regulation V/2, paragraph 8 of the Annex to the International Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1326,31 +1783,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Безопасность пассажиров и груза, а также водонепроницаемость корпуса» № ХХХХХХХХ
 
-## «Безопасность пассажиров и груза, а также водонепроницаемость корпуса»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 9 Правила V/2 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+пунктом 9 Правила V/2 приложения к Международной конвенции о подготовке и дипломировании
+моряков и несении вахты, 1978 года, с поправками
 ___________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+(наименование, адрес, контактные данные организации образования (морского
+             учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -1363,34 +1838,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Passenger Safety, Cargo Safety and Hull Integrity» № XXXXXXXX
 
-## «Passenger Safety, Cargo Safety and Hull Integrity»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/2 paragraph 9 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
- ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the
+seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated
+July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the
+requirements laid down in Regulation V/2, paragraph 9 of the Annex to the International Convention on Standards
+of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+             (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1405,31 +1893,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Начальная подготовка для работы на судах, подпадающих под действие Международного кодекса по безопасности для судов, использующих газы или иные виды топлива с низкой температурой вспышки» № ХХХХХХХХ
 
-## «Начальная подготовка для работы на судах, подпадающих под действие Международного кодекса по безопасности для судов, использующих газы или иные виды топлива с низкой температурой вспышки»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 5 Правила V/3 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+пунктом 5 Правила V/3 приложения к Международной конвенции о подготовке и дипломировании
+моряков и несении вахты, 1978 года, с поправками
 ___________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+(наименование, адрес, контактные данные организации образования (морского
+учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -1442,34 +1948,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Basic Training for service on vessels subject to the IGF Code» № XXXXXXXX
 
-## «Basic Training for service on vessels subject to the IGF Code»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/3 paragraph 5 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
- ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the
+seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated
+July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the
+requirements laid down in Regulation V/3, paragraph 5 of the Annex to the International Convention on Standards
+of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1484,31 +2003,50 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Подготовка по расширенной программе для работы на судах, подпадающих под действие Международного кодекса по безопасности для судов, использующих газы или иные виды топлива с низкой температурой вспышки» № ХХХХХХХХ
 
-## «Подготовка по расширенной программе для работы на судах, подпадающих под действие Международного кодекса по безопасности для судов, использующих газы или иные виды топлива с низкой температурой вспышки»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 7 Правила V/3 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
-____________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+признан надлежащим образом квалифицированным в соответствии с пунктом 8 Правила V/3
+приложения к Международной конвенции о подготовке и дипломировании моряков и несении
+вахты, 1978 года, с поправками
+___________________________________________________________________
+(наименование, адрес, контактные данные организации образования (морского
+         учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -1521,34 +2059,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Advanced Training for service on vessels subject to the IGF Code» № XXXXXXXX
 
-## «Advanced Training for service on vessels subject to the IGF Code»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/3 paragraph 7 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
- ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and found duly qualified in
+accordance with provisions of Regulation V/3, paragraph 8 of the Annex to the International Convention on Standards of
+Training, Certification and Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1563,31 +2114,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Начальная подготовка для судов, эксплуатирующихся в полярных водах» № ХХХХХХХХ
 
-## «Начальная подготовка для судов, эксплуатирующихся в полярных водах»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 1 Правила V/4 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
-____________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+пунктом 2 Правила V/4 приложения к Международной конвенции о подготовке и дипломировании
+моряков и несении вахты, 1978 года, с поправками
+___________________________________________________________________
+(наименование, адрес, контактные данные организации образования (морского
+     учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -1600,34 +2169,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Basic Training for Ships operating in Polar Waters» № XXXXXXXX
 
-## «Basic Training for Ships operating in Polar Waters»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/4 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in
+Regulation V/4, paragraph 2 of the Annex to the International Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1642,31 +2224,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Подготовка по расширенной программе для судов, эксплуатирующихся в полярных водах» № ХХХХХХХХ
 
-## «Подготовка по расширенной программе для судов, эксплуатирующихся в полярных водах»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 3 Правила V/4 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
-____________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и признан
+надлежащим образом квалифицированным в соответствии с пунктом 4 Правила V/4 приложения к Международной
+конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+___________________________________________________________________
+(наименование, адрес, контактные данные организации образования (морского
+           учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -1679,34 +2279,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Аdvanced Training for Ships operating in Polar Waters» № XXXXXXXX
 
-## «Аdvanced Training for Ships operating in Polar Waters»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/4 paragraph 3 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the
+seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated
+July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and found
+duly qualified in accordance with provisions of Regulation V/4, paragraph 4 of the Annex to the International
+Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+             (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1721,31 +2334,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Радиооператор Глобальной морской системы связи при бедствии и для обеспечения безопасности ограниченного района плавания» № ХХХХХХХХ
 
-## «Радиооператор Глобальной морской системы связи при бедствии и для обеспечения безопасности ограниченного района плавания»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 2.2 Правила IV/2 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
-____________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+пунктом 2.2 Правила IV/2 приложения к Международной конвенции о подготовке и дипломировании
+моряков и несении вахты, 1978 года, с поправками
+___________________________________________________________________
+(наименование, адрес, контактные данные организации образования (морского
+          учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -1758,34 +2389,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «GMDSS Restricted Radio Operator» № XXXXXXXX
 
-## «GMDSS Restricted Radio Operator»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation IV/2 paragraph 2.2 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in
+Regulation IV/2, paragraph 2.2 of the Annex to the International Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+             (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1800,31 +2444,49 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Радиооператор Глобальной морской системы связи при бедствии и для обеспечения безопасности» № ХХХХХХХХ
 
-## «Радиооператор Глобальной морской системы связи при бедствии и для обеспечения безопасности»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 2.2 Правила IV/2 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
-____________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+пунктом 2.2 Правила IV/2 приложения к Международной конвенции о подготовке и дипломировании
+моряков и несении вахты, 1978 года, с поправками
+___________________________________________________________________
+(наименование, адрес, контактные данные организации образования (морского
+учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -1837,34 +2499,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «GMDSS General Radio Operator» № XXXXXXXX
 
-## «GMDSS General Radio Operator»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation IV/2 paragraph 2.2 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the
+seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated
+July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the
+requirements laid down in Regulation IV/2, paragraph 2.2 of the Annex to the International Convention on Standards
+of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1879,35 +2554,51 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Управление высокоскоростным судном» № ХХХХХХХХ
 
-## «Управление высокоскоростным судном»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и Главой 18 Кодекса высокоскоростных судов, Главой X Международной конвенции по охране человеческой жизни на море 1978 г.
-
-Тип и модель судна ___________________________________________________
-
-Маршрут действия ____________________________________________________
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
-____________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+Главой 18 Кодекса высокоскоростных судов, Главой X Международной конвенции по охране человеческой
+жизни на море 1978 года, с поправками
+Тип и модель судна ___________________________________________________
+Маршрут действия ____________________________________________________
+___________________________________________________________________
+(наименование, адрес, контактные данные организации образования (морского
+          учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -1920,38 +2611,48 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## TYPE RATING CERTIFICATE
+## TYPE RATING CERTIFICATE «High Speed Craft Operations» № XXXXXXXX
 
-## «High Speed Craft Operations»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Chapter 18 of the High Speed Craft Code under Chapter X of the 1974 SOLAS Convention
-
-Type and model of craft _________________________________________________
-
-Route of operation _____________________________________________________
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in
+Chapter 18 of the High Speed Craft Code under Chapter X of the 1974 SOLAS Convention, as amended
+Type and model of craft _________________________________________________
+Route of operation _____________________________________________________
+          ______________________________________________________
+             (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1966,33 +2667,48 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Управление судном – судовождение» № ХХХХХХХХ
 
-## «Управление судном – судовождение»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с пунктом 40 Правил дипломирования моряков, утвержденных приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577)
-
-Ограничения по валовой вместимости и/или району плавания _______________
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
-____________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+успешно прошел курс подготовки в соответствии с пунктом 40 Правил дипломирования моряков, утвержденных
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577)
+Ограничения по валовой вместимости и/или району плавания _______________
+___________________________________________________________________
+(наименование, адрес, контактные данные организации образования (морского
+          учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -2005,36 +2721,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «Ship Management Navigation» № XXXXXXXX
 
-## «Ship Management Navigation»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in paragraph 40 of the Regulations on Certification of Seafarers of the Republic of Kazakhstan
-
-Limitations as to GT and/or Sailing Area: ___________________________________
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with the requirements laid down in paragraph 40 of
+Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of
+the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the
+regulatory acts ref. # 15577)
+Limitations as to GT and/or Sailing Area: ___________________________________
+          ______________________________________________________
+           (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -2049,33 +2776,48 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Управление судном – судомеханика» № ХХХХХХХХ
 
-## «Управление судном – судомеханика»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с пунктом 41 Правил дипломирования моряков, утвержденных приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577)
-
-Ограничения к мощности двигательной установки (кВт) ____________________
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
-____________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+успешно прошел курс подготовки в соответствии с пунктом 41 Правил дипломирования моряков, утвержденных
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577)
+Ограничения к мощности двигательной установки (кВт) ____________________
+___________________________________________________________________
+(наименование, адрес, контактные данные организации образования (морского
+          учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -2088,36 +2830,47 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «Ship Management Engineering» № XXXXXXXX
 
-## «Ship Management Engineering»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in paragraph 41 of the Regulations on Certification of Seafarers of the Republic of Kazakhstan
-
-Limitations as to kW propulsion power: ____________________________________
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with the requirements laid down in paragraph
+41 of the Regulations on the certification of the seafarers approved by the order of Minister of Investment and
+Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state
+registration of the regulatory acts ref. # 15577)
+Limitations as to kW propulsion power: ____________________________________
+          ______________________________________________________
+           (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -2132,31 +2885,50 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Матрос в составе навигационной вахты» № ХХХХХХХХ
 
-## «Матрос в составе навигационной вахты»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 1 Правила II/4 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
-____________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+признан надлежащим образом квалифицированным в соответствии с пунктом 2 Правила II/4 приложения к
+Международной конвенции о подготовке и дипломировании моряков и несении вахты,
+1978 года, с поправками
+___________________________________________________________________
+(наименование, адрес, контактные данные организации образования (морского
+          учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -2169,34 +2941,48 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF ASSESSMENT
+## CERTIFICATE OF PROFICIENCY «Rating Watchkeeping Deck» № XXXXXXXX
 
-## «Rating Watchkeeping Deck»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation II/4 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification
+of the seafarers approved by the order of Minister of Investment and Development of the Republic of
+Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory
+acts ref. # 15577) and found duly qualified in accordance with provisions of Regulation II/4, paragraph 2 of the
+Аnnex to the International Convention on Standards of Training, Certification and Watchkeeping for
+Seafarers 1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -2211,31 +2997,50 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Матрос первого класса» № ХХХХХХХХ
 
-## «Матрос первого класса»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 1 Правила II/5 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
-____________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+признан надлежащим образом квалифицированным в соответствии с пунктом 2 Правила II/5 приложения
+к Международной конвенции о подготовке и дипломировании моряков и несении вахты,
+1978 года, с поправками
+___________________________________________________________________
+(наименование, адрес, контактные данные организации образования (морского
+          учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -2248,34 +3053,48 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF ASSESSMENT
+## CERTIFICATE OF PROFICIENCY «Able Seafarer Deck» № XXXXXXXX
 
-## «Able Seafarer Deck»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation II/5 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the
+seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan
+dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577)
+and found duly qualified in accordance with provisions of Regulation II/5, paragraph 2 of the Аnnex to the
+International Convention on Standards of Training, Certification and Watchkeeping for Seafarers
+1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -2290,31 +3109,50 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Моторист в составе машинной вахты» № ХХХХХХХХ
 
-## «Моторист в составе машинной вахты»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 1 Правила III/4 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
-____________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+признан надлежащим образом квалифицированным в соответствии с пунктом 2 Правила III/4 приложения
+к Международной конвенции о подготовке и дипломировании моряков и несении вахты,
+1978 года, с поправками
+___________________________________________________________________
+(наименование, адрес, контактные данные организации образования (морского
+          учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -2327,34 +3165,48 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF ASSESSMENT
+## CERTIFICATE OF PROFICIENCY «Rating Watchkeeping Engine» № XXXXXXXX
 
-## «Rating Watchkeeping Engine»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation III/4 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification
+of the seafarers approved by the order of Minister of Investment and Development of the Republic of
+Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory
+acts ref. # 15577) and found duly qualified in accordance with provisions of Regulation III/4, paragraph 2
+of the Аnnex to the International Convention on Standards of Training, Certification and Watchkeeping
+for Seafarers 1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -2369,31 +3221,50 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Моторист первого класса» № ХХХХХХХХ
 
-## «Моторист первого класса»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 1 Правила III/5 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
-____________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+признан надлежащим образом квалифицированным в соответствии с пунктом 2 Правила III/5 приложения к
+Международной конвенции о подготовке и дипломировании моряков и несении вахты,
+1978 года, с поправками
+___________________________________________________________________
+(наименование, адрес, контактные данные организации образования (морского
+          учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -2406,34 +3277,48 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF ASSESSMENT
+## CERTIFICATE OF PROFICIENCY «Able Seafarer Engine» № XXXXXXXX
 
-## «Able Seafarer Engine»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation III/5 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of
+the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan
+dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577)
+and found duly qualified in accordance with provisions of Regulation III/5, paragraph 2 of the Аnnex to the
+International Convention on Standards of Training, Certification and Watchkeeping for Seafarers
+1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -2448,31 +3333,50 @@ Signature of the holder of the certificate	________________
 
 ## Герб Республики Казахстан
 
-## СВИДЕТЕЛЬСТВО
+## СВИДЕТЕЛЬСТВО «Электрик» № ХХХХХХХХ
 
-## «Электрик»
-
-## № ХХХХХХХХ
-
-## ____________________________________________________
-
-## (фамилия, имя, отчество (при наличии)
-
-успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504 (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и пунктом 1 Правила III/7 приложения к Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
 
 ```
-____________________________________________________________________
-(наименование, адрес, контактные данные организации образования
-(морского учебно-тренажерного центра), проводившего подготовку)
-_________________
-|               |          Дата выдачи «___» ____________ 20 __ г.
-|   Фотография  |          Действителен до «___» ________ 20 __ г.
-|   владельца   |
-| свидетельства |
-|_______________|          Руководитель организации образования
-   М.П. (при наличии)      (морского учебно-тренажерного центра)
-                              ________________________________
-                               Ф.И.О. (при наличии) (подпись)
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+признан надлежащим образом квалифицированным в соответствии с пунктом 2 Правила III/7 приложения
+к Международной конвенции о подготовке и дипломировании моряков и несении вахты,
+1978 года, с поправками
+___________________________________________________________________
+(наименование, адрес, контактные данные организации образования (морского
+          учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
 ```
 
 ## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
@@ -2485,34 +3389,270 @@ _________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF ASSESSMENT
+## CERTIFICATE OF PROFICIENCY «Electro-Technical Rating» № XXXXXXXX
 
-## «Electro-Technical Rating»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation III/7 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of
+the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan
+dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577)
+and found duly qualified in accordance with provisions of Regulation III/7, paragraph 2 of the Аnnex to the
+International Convention on Standards of Training, Certification and Watchkeeping for Seafarers
+1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
+```
+
+## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
+
+## Inquiries concerning this certificate should be addressed to the issuing authority at the address above
+
+> *Форма 31*
+
+> *Лицевая сторона*
+
+## РЕСПУБЛИКА КАЗАХСТАН
+
+## Герб Республики Казахстан
+
+## СВИДЕТЕЛЬСТВО «Подготовка по вопросам безопасности для персонала, осуществляющего непосредственное обслуживание пассажиров в помещениях для пассажиров» № ХХХХХХХХ
+
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
+
+```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+пунктом 6 Правила V/2 приложения к Международной конвенции о подготовке и дипломировании
+моряков и несении вахты, 1978 года, с поправками
+___________________________________________________________________
+(наименование, адрес, контактные данные организации образования (морского
+          учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
+```
+
+## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
+
+## Вопросы касательно данного свидетельства направляются в орган выдачи по вышеуказанному адресу
+
+> *Оборотная сторона*
+
+## THE REPUBLIC OF KAZAKHSTAN
+
+## National emblem of the Republic of Kazakhstan
+
+## CERTIFICATE OF PROFICIENCY «Safety training for personnel providing direct service to passengers in passenger spaces» № XXXXXXXX
+
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
+
+```
+has successfully completed a program of training in accordance with Regulations on the certification of
+the seafarers approved by the order of Minister of Investment and Development of the Republic of
+Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory
+acts ref. # 15577) and the requirements laid down in Regulation V/2, paragraph 6 of the Аnnex to the
+International Convention on Standards of Training, Certification and Watchkeeping for
+Seafarers 1978, as amended
+          ______________________________________________________
+             (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
+```
+
+## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
+
+## Inquiries concerning this certificate should be addressed to the issuing authority at the address above
+
+> *Форма 32*
+
+> *Лицевая сторона*
+
+## РЕСПУБЛИКА КАЗАХСТАН
+
+## Герб Республики Казахстан
+
+## СВИДЕТЕЛЬСТВО «Подготовка по управлению неорганизованными массами людей на пассажирских судах» № ХХХХХХХХ
+
+## ____________________________________________________ (фамилия, имя, отчество (при его наличии)
+
+```
+успешно прошел курс подготовки в соответствии с Правилами дипломирования моряков, утвержденными
+приказом Министра по инвестициям и развитию Республики Казахстан от 26 июля 2017 года № 504
+(зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 15577) и
+пунктом 7 Правила V/2 приложения к Международной конвенции о подготовке и дипломировании
+моряков и несении вахты, 1978 года, с поправками
+___________________________________________________________________
+(наименование, адрес, контактные данные организации образования (морского
+           учебно-тренажерного центра), проводившего подготовку)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Дата выдачи «___» ____________ 20 __ г.
+Действителен до «___» _________ 20 __ г.
+</pre>
+</td>
+</tr>
+<tr>
+<td>М.П. (при наличии)</td>
+<td>
+<pre>
+Руководитель организации образования
+(морского учебно-тренажерного центра)
+____________________________
+Ф.И.О. (при его наличии) (подпись)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Дата рождения владельца свидетельства ______________
+Подпись владельца свидетельства ___________________
+```
+
+## Подлинник настоящего свидетельства должен, в соответствии с пунктом 11 Правила I/2 вышеуказанной Конвенции, находиться на судне, пока на нем работает его владелец
+
+## Вопросы касательно данного свидетельства направляются в орган выдачи по вышеуказанному адресу
+
+> *Оборотная сторона*
+
+## THE REPUBLIC OF KAZAKHSTAN
+
+## National emblem of the Republic of Kazakhstan
+
+## CERTIFICATE OF PROFICIENCY «Passenger Ship crowd management training» № XXXXXXXX
+
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
+
+```
+has successfully completed a program of training in accordance with Regulations on the certification of
+the seafarers approved by the order of Minister of Investment and Development of the Republic of
+Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory
+acts ref. # 15577) and the requirements laid down in Regulation V/2, paragraph 7 of the Аnnex to the
+International Convention on Standards of Training, Certification and Watchkeeping for
+Seafarers 1978, as amended
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
