@@ -67,7 +67,9 @@
 
    Дәрігерді тағайындау немесе оны ауыстыру туралы бұйрық (себебін көрсете отырып) оны бекіткен күннен бастап бес жұмыс күні ішінде сауда мақсатында теңізде жүзу саласындағы уәкілетті органға жіберіледі.
 
-   Сауда мақсатында теңізде жүзу саласындағы уәкілетті орган Дәрігерлердің тізімін құрайды және өзінің: www.mid.gov.kz интернет ресурсында жариялайды.
+   Сауда мақсатында теңізде жүзу саласындағы уәкілетті орган дәрігерлердің тізбесін құрайды және оны өзінің интернет ресурсында жариялайды.
+
+> *Ескерту. 4-тармаққа өзгеріс енгізілді - ҚР Индустрия және инфрақұрылымдық даму министрінің 21.12.2020 № 666 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 5. Медициналық қарап-тексеру осы Қағидаларға сәйкес жүргізіледі.
 
@@ -1340,76 +1342,65 @@ IV/2
 7. CIE 1, 2 немесе 3 түрлі түсті көру стандарты.
 
 > *Қазақстан Республикасы*  
-> *Инвестициялар және даму министрінің*  
+> *Инвестициялар және даму*  
+> *Министрінің*  
 > *міндетін атқарушының*  
-> *2015 жылғы 27 наурыздағы*  
+> *2015 жылдың 27 наурыздағы*  
 > *№ 364 бұйрығына*  
 > *3-қосымша*
 
-> *Ескерту. Нысан жаңа редакцияда - ҚР Инвестициялар және даму министрінің 14.09.2018 № 646 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. Нысан жаңа редакцияда - ҚР Инвестициялар және даму министрінің 14.09.2018 № 646 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); ҚР Индустрия және инфрақұрылымдық даму министрінің 21.12.2020 № 666 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.*
 
 > *Нысан*
 
 > *Оң жағы*
 
-## Seafarer medical fitness certification Медициналық қорытынды
+## Seafarer medical fitness certification Медициналық қорытынды # XXXXX
 
-Осы куәлік Қазақстан Республикасының атынан теңізшілерді медициналық тексеріп қарау қағидалары және түзетілген, 1978 жылғы Теңізшілерді даярлау, диплом беру және вахтаны атқару туралы халықаралық конвенциясына (бұдан әрі ДДВА Конвенциясы) сәйкес беріледі.
+Осы куәлік Қазақстан Республикасының атынан Теңізшілерді медициналық тексеріп қарау қағидалары және түзетілген 1978 жылғы Теңізшілерді даярлау, диплом беру және вахтаны атқару туралы халықаралық конвенциясына (бұдан әрі ДДВА Конвенциясы) және 2006 жылғы Теңіз кеме қатынасындағы еңбек туралы жиынтық конвенциясына сәйкес беріледі.
 
-This certificate is issued on behalf of the Government of the Republic of Kazakhstan in compliance with the requirements of the Regulations on Medical Examination of Seafarers and the International Convention on Standards of Training 6 Certification and Watchkeeping for Seafarers6 1978, as amended (STCW Convention), and the Maritime Labour Convention, 2006
+This certificate is issued on behalf of the Government of the Republic of Kazakhstan in compliance with the requirements of the Regulations on Medical Examination of Seafarers and the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended (STCW Convention), and the Maritime Labour Convention, 2006
 
 1. ТЕҢІЗШІ ТУРАЛЫ АҚПАРАТ / DATA OF SEAFARER
 
 <table>
 <tr>
 <td>Тегі, аты / Full name</td>
-<td colspan="4"></td>
+<td colspan="3"></td>
 <td rowspan="3">Фото / Photo</td>
 </tr>
 <tr>
-<td>
-Туған күні (дд/мм/гггг)/
-Date of birth (day/month/year)
-</td>
-<td colspan="4"></td>
+<td>Туған күні (дд/мм/гггг)/ Date of birth (day/month/year)</td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>Азаматтығы / Nationality</td>
-<td colspan="4"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>Жынысы / Gender:</td>
 <td>☐</td>
 <td>Ер / Male</td>
 <td>☐</td>
-<td colspan="2">Әйел / Female</td>
+<td>Әйел / Female</td>
 </tr>
 <tr>
-<td>
-Жеке басын куәландыратын құжат /
-Identification document
-</td>
+<td>Жеке басын куәландыратын құжат / Identification document</td>
 <td colspan="2">Түрі / Type</td>
-<td colspan="3">Нөмірі / Number</td>
+<td colspan="2">Нөмірі / Number</td>
 </tr>
 <tr>
 <td rowspan="2">Міндеттемелері / Occupation</td>
 <td>☐</td>
 <td>Мінбеде бақылау және вахтаны атқару / look out and watch duties on the bridge</td>
 <td>☐</td>
-<td colspan="2">Машиналық бөлімшеде вахтаны атқару/ watch duties in the engine room</td>
+<td>Машиналық бөлімшеде вахтаны атқару/ watch duties in the engine room</td>
 </tr>
 <tr>
 <td>☐</td>
-<td>
-Күзет және қауіпсіздік міндеттерімен бақылаусыз вахтаны атқару /
-without look-out or watch duties but with safety and/or security duties
-</td>
+<td>Күзет және қауіпсіздік міндеттерімен бақылаусыз вахтаны атқару / without look-out or watch duties but with safety and/or security duties</td>
 <td>☐</td>
-<td colspan="2">
-Жоғарыда аталған міндеттердің ешбіреуінсіз /
-without any of the aforementioned duties
-</td>
+<td>Жоғарыда аталған міндеттердің ешбіреуінсіз / without any of the aforementioned duties</td>
 </tr>
 </table>
 
@@ -1431,9 +1422,7 @@ without any of the aforementioned duties
 </tr>
 </table>
 
-3. ДДВА КОНВЕНЦИЯСЫНА СӘЙКЕС ДЕНЕ ЖАРАМДЫЛЫҒЫН АНЫҚТАУ /
-
-JUDGEMENT MEDICAL FITNESS SEAFARER UNDER STCW CODE
+3. ДДВА КОНВЕНЦИЯСЫНА СӘЙКЕС ДЕНЕ ЖАРАМДЫЛЫҒЫН АНЫҚТАУ / JUDGEMENT MEDICAL FITNESS SEAFARER UNDER STCW CODE
 
 <table>
 <tr>
@@ -1499,15 +1488,12 @@ JUDGEMENT MEDICAL FITNESS SEAFARER UNDER STCW CODE
 
 > *Теріс жағы*
 
-2.ТЕҢІЗШІНІҢ ДЕКЛАРАЦИЯСЫ / DECLARATION OF THE SEAFARER
+4.ТЕҢІЗШІНІҢ ДЕКЛАРАЦИЯСЫ / DECLARATION OF THE SEAFARER
 
 <table>
 <tr>
-<td rowspan="2">Теңізші куәліктің мазмұнымен таныс және кеме экипажы мүшелерін медициналық тексеріп қарау қағидаларына сәйкес қарастыруға құқылы екені туралы мәлімдейді / The seafarer declares to be informed of the content of the certificate and the right to a review in accordance with paragraph 6 of section A-I/9 of the STCW Code</td>
+<td>Теңізші куәліктің мазмұнымен таныс және Кеме экипажы мүшелерін медициналық тексеріп қарау қағидаларының 19-тармағына сәйкес қарастыруға құқылы екені туралы мәлімдейді / The seafarer declares to be informed of the content of the certificate and the right to a review in accordance with paragraph 19 of Regulations on medical examination of ship crew members</td>
 <td>Теңізшінің қолы / Signature of the seafarer:</td>
-</tr>
-<tr>
-<td></td>
 </tr>
 </table>
 
@@ -1516,28 +1502,33 @@ JUDGEMENT MEDICAL FITNESS SEAFARER UNDER STCW CODE
 <table>
 <tr>
 <td>Қол қоюшы белгіленген дәрігер мәлімдейді / The signing medical practitioner declares</td>
-<td rowspan="2">
-ол Қазақстан Республикасында тіркелген теңіз кемесіндегі жұмысқа жарамдылығы туралы медициналық тексеріп қарауды жүргізуге және медициналық қорытынды беруге жатады / To be recognized by the Government of the Republic of Kazakhstan as a medical practitioner to conduct medical examinations and to issue medical certificates of fitness for the service on board seagoing vessels registered in Kazakhstan;
-тексеріп қарау кезінде теңізшінің жеке басы тексерілді / that he/she checked the seafarer identity at the point of the examination;
-теңізші Кеме экипажы мүшелерінің денсаулық жағдайы және дене жарамдылығы талаптарына сай, теңіздегі жұмыс кезінде ушығатын немесе ондай жұмысқа жарамсыздыққа әкеп соқтыратын немесе кеме бортындағы басқа адамдардың денсаулығына қауіп төндіретін қандай да бір аурумен ауырмайды / that the seafarer complies to the latest medical criteria of the Regulations on medical examination of seafarers of the RK and that the seafarer is not suffering from any medical condition likely to be aggravated by service at sea or to render him/her unfit for such service or to endanger the health of other persons on board.
+<td>
+☐ ол Қазақстан Республикасында тіркелген теңіз кемесіндегі жұмысқа жарамдылығы туралы медициналық тексеріп қарауды жүргізуге және медициналық қорытынды беруге жатады / To be recognized by the Government of the Republic of Kazakhstan as a medical practitioner to conduct medical examinations and to issue medical certificates of fitness for the service on board seagoing vessels registered in Kazakhstan;
+☐ тексеріп қарау кезінде теңізшінің жеке басы тексерілді / that he/she checked the seafarer identity at the point of the examination;
+☐ теңізші Кеме экипажы мүшелерінің денсаулық жағдайы және дене жарамдылығы талаптарына сай, теңіздегі жұмыс кезінде ушығатын немесе ондай жұмысқа жарамсыздыққа әкеп соқтыратын немесе кеме бортындағы басқа адамдардың денсаулығына қауіп төндіретін қандай да бір аурумен ауырмайды / that the seafarer complies to the latest medical criteria of the Regulations on medical examination of seafarers of the RK and that the seafarer is not suffering from any medical condition likely to be aggravated by service at sea or to render him/her unfit for such service or to endanger the health of other persons on board.
 </td>
 </tr>
 </table>
 
-6. КУӘЛІКТІ БЕРУ ЖӘНЕ ОНЫҢ ЖАРАМДЫЛЫҚ МЕРЗІМІНІҢ АЯҚТАЛУЫ /
-
-ISSUE AND EXPIRY DATE OF CERTIFICATE
+6. КУӘЛІКТІ БЕРУ ЖӘНЕ ОНЫҢ ЖАРАМДЫЛЫҚ МЕРЗІМІНІҢ АЯҚТАЛУЫ / ISSUE AND EXPIRY DATE OF CERTIFICATE
 
 <table>
 <tr>
 <td>
+<pre>
 Берілген күні: (кк/аа/жжжж) /
 Issue date (day/month/year)
+</pre>
 </td>
 <td></td>
 </tr>
 <tr>
-<td>Жарамдылық мерзімінің аяқталуы: (кк/аа/жжжж)/ Expiry date (day/month/year)</td>
+<td>
+<pre>
+Жарамдылық мерзімінің аяқталуы: (кк/аа/жжжж)/
+Expiry date (day/month/year)
+</pre>
+</td>
 <td></td>
 </tr>
 </table>
@@ -1547,33 +1538,16 @@ Issue date (day/month/year)
 <table>
 <tr>
 <td>
+<pre>
 Дәрігердің жеке мөрі /
 Name stamp of medical practitioner
-</td>
-<td colspan="2">
-_____________________
-Дәрігердің қолы /
-Signature of medical practitioner
-</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>
-Медициналық ұйым
-мөрінің орны
+</pre>
 </td>
 <td>
-_____________
-Дәрігердің қолы/
-Signature of medical
-Practitioner
-</td>
-<td>
-___________________
-Медициналық ұйым басшысының тегі, аты-жөні
+<pre>
+________________________________________
+Дәрігердің қолы / Signature of medical practitioner
+</pre>
 </td>
 </tr>
 </table>
