@@ -54,7 +54,8 @@
 > *2015 жылғы 15 сәуір*
 
 > *Қазақстан Республикасы*  
-> *Инвестициялар және даму министрінің*  
+> *Инвестициялар және даму*  
+> *Министрінің*  
 > *міндетін атқарушының*  
 > *2015 жылдың 27 наурыздағы*  
 > *№ 362 бұйрығына*  
@@ -62,7 +63,7 @@
 
 ## Қазақстан Республикасының сауда мақсатында теңізде жүзу саласындағы халықаралық шарттарының талаптарына сәйкес теңіз көлігі мамандарын даярлау куәліктерінің тізбесі
 
-> *Ескерту. 1-қосымша жаңа редакцияда - ҚР Инвестициялар және даму министрінің 19.06.2018 № 458 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - ҚР Инвестициялар және даму министрінің 19.06.2018 № 458 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); ҚР Индустрия және инфрақұрылымдық даму министрінің 21.12.2020 № 666 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.*
 
 1) «Бастапқы даярлау»;
 
@@ -122,16 +123,21 @@
 
 29) «Бірінші сыныпты моторист»;
 
-30) «Электрик».
+30) «Электрик»;
+
+31) «Жолаушыларға арналған үй-жайларда жолаушыларға тікелей қызмет көрсетуді жүзеге асыратын персонал үшін қауіпсіздік мәселелері бойынша даярлау»;
+
+32) «Жолаушылар кемелерінде ұйымдастырылмаған көптеген адамдар басқару бойынша даярлау».
 
 > *Қазақстан Республикасы*  
-> *Инвестициялар және даму министрінің*  
+> *Инвестициялар және даму*  
+> *Министрінің*  
 > *міндетін атқарушының*  
 > *2015 жылдың 27 наурыздағы*  
 > *№ 362 бұйрығына*  
 > *2-қосымша*
 
-> *Ескерту. 2-қосымша жаңа редакцияда - ҚР Инвестициялар және даму министрінің 19.06.2018 № 458 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. 2-қосымша жаңа редакцияда - ҚР Инвестициялар және даму министрінің 19.06.2018 № 458 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); ҚР Индустрия және инфрақұрылымдық даму министрінің 21.12.2020 № 666 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.*
 
 > *1-нысан*
 
@@ -141,38 +147,49 @@
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
-
-## «Бастапқы даярлау»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның VI/1 ережесіне сәйкес даярлау курсын сәтті аяқтады
+## КУӘЛІК «Бастапқы даярлау» № ХХХХХХХХ
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+___________________________________________________________________________________
+                                                        (тегі, аты, әкесінің аты (ол болған жағдайда)
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы  26 шілдедегі
+№ 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577
+болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978
+жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық
+конвенцияға қосымшаның VI/1 ережесіне сәйкес даярлау курсын сәтті аяқтады
+____________________________________________________________________________________
+                    (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                                                     атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
 
-## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+                                              Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның
+                                                  I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің
+                                                         жұмыс барысында кеменің бортында болуы тиіс
+                                                  Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген
+                                                    мекенжай бойынша берілген органға жіберіледі
+```
 
 > *Артқы жағы*
 
@@ -180,80 +197,104 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
-
-## «Basic training»
-
-## № XXXXXXXX
+## CERTIFICATE OF PROFICIENCY «Basic training» № XXXXXXXX
 
 ## This is to confirm, that
 
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-       ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if given)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of
+the seafarers approved by the order of Minister of Investment and Development of the Republic of
+Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the
+regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/1 of the Annex to the
+International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978,
+as amended
+____________________________________________________________________
+              (name, address, contact details of the training institute (center)
 ```
 
-## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+__________________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
 
-## Inquiries concerning this certificate should be addressed to the issuing authority at the address above
+Date of birth of the holder of the certificate ________________
+
+Signature of the holder of the certificate ________________
+
+The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
+
+Inquiries concerning this certificate should be addressed to the issuing authority at the address above
 
 > *2-нысан*
 
 > *Беткі жағы*
 
-## ҚАЗАҚСТАН РЕСПУБЛИКАСЫ
+## ҚАЗАҚСТАН РЕСПУБЛИКАСЫ Қазақстан Республикасының Елтаңбасы
 
-## Қазақстан Республикасының Елтаңбасы
+## КУӘЛІК «Шапшаң кезекші қайықшалар болып табылмайтын, құтқару қайықшалары мен салдар және кезекші қайықшалар бойынша маман» № ХХХХХХХХ
 
-## КУӘЛІК
-
-## «Шапшаң кезекші қайықшалар болып табылмайтын, құтқару қайықшалары мен салдар және кезекші қайықшалар бойынша маман»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның VI/2 ережесінінің 1-тармағына сәйкес даярлау курсын сәтті аяқтады
+## ___________________________________________________ (тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген
+Теңізшілерге диплом беру қағидаларына сәйкес даярлау курсын сәтті аяқтады және түзетулермен 1978 жылғы
+Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның
+VI/2 ережесінінің 1-тармағына сәйкес тиісті түрде білікті деп танылды
+________________________________________________________________________________________
+                    (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                                                   атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
 
-## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+                                                  Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның
+                                                        I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің
+                                                               жұмыс барысында кеменің бортында болуы тиіс
+                                                        Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген
+                                                            мекенжай бойынша берілген органға жіберіледі
+```
 
 > *Артқы жағы*
 
@@ -261,39 +302,52 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Proficiency in Survival Craft and Rescue Boats (other than fast rescue boats)» № XXXXXXXX
 
-## «Proficiency in Survival Craft and Rescue Boats (other than fast rescue boats)»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/2 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-       ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if given)   _____________________________
-                              full name (if given) (signature)
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017
+ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and found duly qualified in
+accordance with provisions of regulation VI/2, paragraph 1 of the Аnnex to the International Convention on Standards
+of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+_________________________________________________________________________________
+                            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+             Head of the training institute (center)
+                        _______________________
+                      full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
 Date of birth of the holder of the certificate	________________
 Signature of the holder of the certificate	________________
+          The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the
+                                                        STCW’78 Convention as amended while serving on a ship
+                                            Inquiries concerning this certificate should be addressed to the issuing
+                                                                               authority at the address above
 ```
-
-## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
-
-## Inquiries concerning this certificate should be addressed to the issuing authority at the address above
 
 > *3-нысан*
 
@@ -303,36 +357,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Шапшаң кезекші қайықшалар бойынша маман» № ХХХХХХХХ
 
-## «Шапшаң кезекші қайықшалар бойынша маман»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның VI/2 ережесінінің 2-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _______________________________________________________ (тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына сәйкес даярлау курсын сәтті аяқтады және түзетулермен 1978 жылғы Теңізшілерді
+даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның VI/2
+ережесінінің 2-тармағына сәйкес тиісті түрде білікті деп танылды
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                             атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -342,34 +406,49 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
-
-## «Proficiency in Fast Rescue Boats»
-
-## № XXXXXXXX
+## CERTIFICATE OF PROFICIENCY «Proficiency in Fast Rescue Boats» № XXXXXXXX
 
 ## This is to confirm, that
 
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/2 paragraph 2 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-       ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if given)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the
+seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan
+dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577)
+and found duly qualified in accordance with provisions of Regulation VI/2, paragraph 2 of the Аnnex to the
+International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+____________________________________________________________________
+                  (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -384,36 +463,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Кеңейтілген бағдарлама бойынша өртпен күрес» № ХХХХХХХХ
 
-## «Кеңейтілген бағдарлама бойынша өртпен күрес»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның VI/3 ережесінінің 2-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _______________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы  26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік  тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом  беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және
+вахта атқару туралы халықаралық конвенцияға қосымшаның VI/3 ережесінінің 1-тармағына сәйкес даярлау
+курсын сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                     атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -423,32 +512,45 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Advanced Fire Fighting » № XXXXXXXX
 
-## «Advanced Fire Fighting »
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/3 paragraph 2 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-       ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if given)   _____________________________
-                              full name (if given) (signature)
+has successfully completed a program of training in accordance with Regulations on the certification of the
+ seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated
+July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the
+requirements laid down in Regulation VI/3, paragraph 1 of the Annex to the International Convention on Standards
+of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+____________________________________________________________________
+                 (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
 Date of birth of the holder of the certificate	________________
 Signature of the holder of the certificate	________________
 ```
@@ -465,36 +567,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Алғашқы медициналық көмек көрсету» № ХХХХХХХХ
 
-## «Алғашқы медициналық көмек көрсету»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның VI/4 ережесінінің 1-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы  26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік  тіркеу тізілімінде № 15577 болып тіркелген) бекітілген
+Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар
+беру және вахта атқару туралы халықаралық конвенцияға қосымшаның VI/4 ережесінінің 1-тармағына сәйкес
+даярлау курсын сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                         атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -504,32 +616,45 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Medical First Aid» № XXXXXXXX
 
-## «Medical First Aid»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/4 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-      ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if given)   _____________________________
-                              full name (if given) (signature)
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26,
+2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements
+laid down in Regulation VI/4, paragraph 1 of the Annex to the International Convention on Standards of Training,
+Certification and Watchkeeping for Seafarers 1978, as amended
+____________________________________________________________________
+                  (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
 Date of birth of the holder of the certificate	________________
 Signature of the holder of the certificate	________________
 ```
@@ -546,36 +671,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Медициналық күтім» № ХХХХХХХХ
 
-## «Медициналық күтім»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның VI/4 ережесінінің 2-тармағына сәйкес даярлау курсын сәтті аяқтады
+## ________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және
+вахта атқару туралы халықаралық конвенцияға қосымшаның VI/4 ережесінінің 2-тармағына сәйкес даярлау
+курсын сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                            атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -585,32 +720,45 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Medical Care» № XXXXXXXX
 
-## «Medical Care»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/4 paragraph 2 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-      ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if given)   _____________________________
-                              full name (if given) (signature)
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in
+Regulation VI/4, paragraph 2 of the Annex to the International Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers 1978, as amended
+____________________________________________________________________
+                 (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
 Date of birth of the holder of the certificate	________________
 Signature of the holder of the certificate	________________
 ```
@@ -627,36 +775,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Кеменің басқару құрамының қорғауға жауапты адамдарын даярлау» № ХХХХХХХХ
 
-## «Кеменің басқару құрамының қорғауға жауапты адамдарын даярлау»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның VI/5 ережесіне сәйкес даярлау курсын сәтті аяқтады
+## ________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы  26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына сәйкес даярлау курсын сәтті аяқтады және түзетулермен 1978 жылғы Теңізшілерді
+даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның VI/5
+ережесінінің 1-тармағына сәйкес тиісті түрде білікті деп танылды
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                          атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -666,32 +824,45 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Ship Security Officer» № XXXXXXXX
 
-## «Ship Security Officer»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/5 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-      ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if given)   _____________________________
-                              full name (if given) (signature)
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and found duly qualified in
+accordance with provisions of Regulation VI/5, paragraph 1 of the Аnnex to the International Convention on Standards of
+Training, Certification and Watchkeeping for Seafarers 1978, as amended
+____________________________________________________________________
+                (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
 Date of birth of the holder of the certificate	________________
 Signature of the holder of the certificate	________________
 ```
@@ -708,36 +879,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Кемені күзету туралы хабардарлық саласындағы даярлау» № ХХХХХХХХ
 
-## «Кемені күзету туралы хабардарлық саласындағы даярлау»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның VI/6 ережесінінің 1-тармағына сәйкес даярлау курсын сәтті аяқтады
+## __________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы  26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және
+вахта атқару туралы халықаралық конвенцияға қосымшаның VI/6 ережесінінің 1-тармағына сәйкес даярлау
+курсын сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                                 атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -747,34 +928,45 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Security Awareness Training» № XXXXXXXX
 
-## «Security Awareness Training»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/6 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-      ______________________________________________________
+has successfully completed a program of training in accordance with Regulations on the certification of the
+seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan
+dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577)
+and the requirements laid down in Regulation VI/6, paragraph 1 of the Annex to the International Convention
+on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+______________________________________________________
 (name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+```
+
+<table>
+<tr>
+<td></td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -789,36 +981,45 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Күзет мәселелері бойынша тағайындалған міндеттер саласындағы даярлау» № ХХХХХХХХ
 
-## «Күзет мәселелері бойынша тағайындалған міндеттер саласындағы даярлау»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның VI/6 ережесінінің 4-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _________________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және
+вахта атқару туралы халықаралық конвенцияға қосымшаның VI/6 ережесінінің 4-тармағына сәйкес даярлау
+курсын сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                              атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+
+Куәлік иесінің қолы ___________________________________________________
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -828,34 +1029,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Security Training for Seafarers with Designated Security Duties» № XXXXXXXX
 
-## «Security Training for Seafarers with Designated Security Duties»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation VI/6 paragraph 4 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-      ______________________________________________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017
+ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid
+down in Regulation VI/6, paragraph 4 of the Annex to the International Convention on Standards of Training,
+Certification and Watchkeeping for Seafarers 1978, as amended
+______________________________________________________
 (name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -870,36 +1084,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Мұнай танкерлері мен химиялық заттарды тасымалдайтын танкерлерде жүк операцияларын жүргізу үшін бастапқы даярлау» № ХХХХХХХХ
 
-## «Мұнай танкерлері мен химиялық заттарды тасымалдайтын танкерлерде жүк операцияларын жүргізу үшін бастапқы даярлау»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның V/1-1 ережесінінің 1-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _______________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және
+вахта атқару туралы халықаралық конвенцияға қосымшаның V/1-1 ережесінінің 2-тармағына сәйкес даярлау
+курсын сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                     атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -909,34 +1133,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «Basic Training for Oil and Chemical Tanker Cargo Operations» № XXXXXXXX
 
-## «Basic Training for Oil and Chemical Tanker Cargo Operations»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/1-1 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-      ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in
+Regulation V/1-1, paragraph 2 of the Annex to the International Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers 1978, as amended
+____________________________________________________________________
+               (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -951,36 +1188,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Мұнай танкерлерінде жүк операцияларын жүргізу үшін кеңейтілген бағдарлама бойынша даярлау» № ХХХХХХХХ
 
-## «Мұнай танкерлерінде жүк операцияларын жүргізу үшін кеңейтілген бағдарлама бойынша даярлау»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның V/1-1 ережесінінің 3-тармағына сәйкес даярлау курсын сәтті аяқтады
+## ________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және
+вахта атқару туралы халықаралық конвенцияға қосымшаның V/1-1 ережесінінің 4-тармағына сәйкес даярлау
+курсын сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                             атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -990,34 +1237,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «Advanced Training for Oil Tanker Cargo Operations» № XXXXXXXX
 
-## «Advanced Training for Oil Tanker Cargo Operations»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/1-1 paragraph 3 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-      ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the
+seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan
+dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577)
+and the requirements laid down in Regulation V/1-1, paragraph 4 of the Annex to the International Convention
+on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+____________________________________________________________________
+                 (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1032,36 +1292,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Химиялық заттарды тасымалдайтын танкерлерде жүк операцияларын жүргізу үшін кеңейтілген бағдарлама бойынша даярлау» № ХХХХХХХХ
 
-## «Химиялық заттарды тасымалдайтын танкерлерде жүк операцияларын жүргізу үшін кеңейтілген бағдарлама бойынша даярлау»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның V/1-1 ережесінінің 5-тармағына сәйкес даярлау курсын сәтті аяқтады
+## __________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және
+вахта атқару туралы халықаралық конвенцияға қосымшаның V/1-1 ережесінінің 6-тармағына сәйкес даярлау
+курсын сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                              атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -1071,34 +1341,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «Advanced Training for Chemical Tanker Cargo Operations» № XXXXXXXX
 
-## «Advanced Training for Chemical Tanker Cargo Operations»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/1-1 paragraph 5 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-     ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017
+ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid
+down in Regulation V/1-1, paragraph 6 of the Annex to the International Convention on Standards of Training,
+Certification and Watchkeeping for Seafarers 1978, as amended
+______________________________________________________
+  (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1113,38 +1396,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Газ тасымалдаушыларында жүк операцияларын жүргізу үшін бастапқы даярлау» № ХХХХХХХХ
 
-## «Газ тасымалдаушыларында жүк операцияларын
-
-## жүргізу үшін бастапқы даярлау»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның V/1-2 ережесінінің 1-тармағына сәйкес даярлау курсын сәтті аяқтады
+## __________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген
+Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар
+беру және вахта атқару туралы халықаралық конвенцияға қосымшаның V/1-2 ережесінінің 2-тармағына сәйкес
+даярлау курсын сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                           атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -1154,34 +1445,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «Basic Training for Liquefied Gas Tanker Cargo Operations» № XXXXXXXX
 
-## «Basic Training for Liquefied Gas Tanker Cargo Operations»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/1-2 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-     ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the
+seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan
+dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577)
+and the requirements laid down in Regulation V/1-2, paragraph 2 of the Annex to the International Convention
+on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+____________________________________________________________________
+             (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1196,36 +1500,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Газ тасымалдаушыларында жүк операцияларын жүргізу үшін кеңейтілген бағдарлама бойынша даярлау» № ХХХХХХХХ
 
-## «Газ тасымалдаушыларында жүк операцияларын жүргізу үшін кеңейтілген бағдарлама бойынша даярлау»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның V/1-2 ережесінінің 3-тармағына сәйкес даярлау курсын сәтті аяқтады
+## __________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген
+Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар
+беру және вахта атқару туралы халықаралық конвенцияға қосымшаның V/1-2 ережесінінің 4-тармағына сәйкес
+даярлау курсын сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                                атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -1235,34 +1549,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «Advanced Training for Liquefied Gas Tanker Cargo Operations» № XXXXXXXX
 
-## «Advanced Training for Liquefied Gas Tanker Cargo Operations»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/1-2 paragraph 3 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-     ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in
+Regulation V/1-2, paragraph 4 of the Annex to the International Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers 1978, as amended
+______________________________________________________
+   (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1277,36 +1604,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Қауіпті жағдайларда басқару және адамның мінез-құлқы» № ХХХХХХХХ
 
-## «Қауіпті жағдайларда басқару және адамның мінез-құлқы»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның V/2 ережесінінің 8-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және
+вахта атқару туралы халықаралық конвенцияға қосымшаның V/2 ережесінінің 8-тармағына сәйкес даярлау курсын
+сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                                  атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -1316,34 +1653,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Crisis Management and Human Behaviour» № XXXXXXXX
 
-## «Crisis Management and Human Behaviour»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/2 paragraph 8 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-    ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017
+ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid
+down in Regulation V/2, paragraph 8 of the Annex to the International Convention on Standards of Training,
+Certification and Watchkeeping for Seafarers 1978, as amended
+______________________________________________________
+   (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1358,36 +1708,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Жолаушылар мен жүктің қауіпсіздігі, сондай-ақ корпустың су өткізбеушілігі» № ХХХХХХХХ
 
-## «Жолаушылар мен жүктің қауіпсіздігі, сондай-ақ корпустың су өткізбеушілігі»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның V/2 ережесінінің 9-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _________________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және
+вахта атқару туралы халықаралық конвенцияға қосымшаның V/2 ережесінінің 9-тармағына сәйкес даярлау
+курсын сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                             атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -1397,34 +1757,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Passenger Safety, Cargo Safety and Hull Integrity» № XXXXXXXX
 
-## «Passenger Safety, Cargo Safety and Hull Integrity»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/2 paragraph 9 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-    ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+ # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in
+Regulation V/2, paragraph 9 of the Annex to the International Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers 1978, as amended
+___________________________________________________________________
+               (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1439,36 +1812,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Газдарды немесе тұтанудың төмен температуралы отынның өзге де түрлерін пайдаланатын кемелер үшін қауіпсіздік жөніндегі халықаралық кодекстің қолданысына жататын кемелердегі жұмыс үшін бастапқы даярлау» № ХХХХХХХХ
 
-## «Газдарды немесе тұтанудың төмен температуралы отынның өзге де түрлерін пайдаланатын кемелер үшін қауіпсіздік жөніндегі халықаралық кодекстің қолданысына жататын кемелердегі жұмыс үшін бастапқы даярлау»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның V/3 ережесінінің 5-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _________________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және
+вахта атқару туралы халықаралық конвенцияға қосымшаның V/3 ережесінінің 5-тармағына сәйкес даярлау
+курсын сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                            атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -1478,34 +1861,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Basic Training for service on vessels subject to the IGF Code» № XXXXXXXX
 
-## «Basic Training for service on vessels subject to the IGF Code»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/3 paragraph 5 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-    ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26,
+2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements
+laid down in Regulation V/3, paragraph 5 of the Annex to the International Convention on Standards of Training,
+Certification and Watchkeeping for Seafarers 1978, as amended
+______________________________________________________
+    (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1520,36 +1916,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Газдарды немесе тұтанудың төмен температуралы отынның өзге де түрлерін пайдаланатын кемелер үшін қауіпсіздік жөніндегі халықаралық кодекстің қолданысына жататын кемелердегі жұмыс үшін кеңейтілген бағдарлама бойынша даярлау» № ХХХХХХХХ
 
-## «Газдарды немесе тұтанудың төмен температуралы отынның өзге де түрлерін пайдаланатын кемелер үшін қауіпсіздік жөніндегі халықаралық кодекстің қолданысына жататын кемелердегі жұмыс үшін кеңейтілген бағдарлама бойынша даярлау»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның V/3 ережесінінің 7-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _____________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына сәйкес даярлау курсын сәтті аяқтады және түзетулермен 1978 жылғы Теңізшілерді
+даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның V/3
+ережесінінің 8-тармағына сәйкес тиісті түрде білікті деп танылды
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                               атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -1559,34 +1965,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Advanced Training for service on vessels subject to the IGF Code» № XXXXXXXX
 
-## «Advanced Training for service on vessels subject to the IGF Code»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/3 paragraph 7 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-    ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the
+seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan
+dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577)
+and found duly qualified in accordance with provisions of Regulation V/3, paragraph 8 of the Annex to the
+International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+______________________________________________________
+  (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1601,38 +2020,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Полярлық суларда қолданылатын кемелерде жұмыс істеу үшін бастапқы даярлау» № ХХХХХХХХ
 
-## «Полярлық суларда қолданылатын кемелерде
-
-## жұмыс істеу үшін бастапқы даярлау»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның V/4 ережесінінің 1-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _________________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және
+вахта атқару туралы халықаралық конвенцияға қосымшаның V/4 ережесінінің 2-тармағына сәйкес даярлау
+курсын сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                              атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -1642,34 +2069,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Basic Training for Ships operating in Polar Waters» № XXXXXXXX
 
-## «Basic Training for Ships operating in Polar Waters»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/4 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-    ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in
+Regulation V/4, paragraph 2 of the Annex to the International Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers 1978, as amended
+______________________________________________________
+  (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1684,38 +2124,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Полярлық суларда пайдаланатын кемелер үшін кеңейтілген бағдарлама бойынша даярлау» № ХХХХХХХХ
 
-## «Полярлық суларда пайдаланатын кемелер үшін
-
-## кеңейтілген бағдарлама бойынша даярлау»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның V/4 ережесінінің 3-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _________________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген
+Теңізшілерге диплом беру қағидаларына сәйкес даярлау курсын сәтті аяқтады және түзетулермен 1978 жылғы
+Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның
+V/4 ережесінінің 4-тармағына сәйкес тиісті түрде білікті деп танылды
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                                    атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -1725,34 +2173,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF PROFICIENCY
+## CERTIFICATE OF PROFICIENCY «Аdvanced Training for Ships operating in Polar Waters» № XXXXXXXX
 
-## «Аdvanced Training for Ships operating in Polar Waters»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation V/4 paragraph 3 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-    ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and found duly qualified in
+accordance with provisions of Regulation V/4, paragraph 4 of the Annex to the International Convention on Standards of
+Training, Certification and Watchkeeping for Seafarers 1978, as amended
+______________________________________________________
+   (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1767,36 +2228,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Апат кезінде және қауіпсіздікті қамтамасыз ету үшін байланыстың жаһандық теңіз жүйесінің жүзуі шектелген ауданның радиооператоры» № ХХХХХХХХ
 
-## «Апат кезінде және қауіпсіздікті қамтамасыз ету үшін байланыстың жаһандық теңіз жүйесінің жүзуі шектелген ауданның радиооператоры»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның IV/2 ережесінінің 2.2-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _________________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және
+вахта атқару туралы халықаралық конвенцияға қосымшаның IV/2 ережесінінің 2.2-тармағына сәйкес даярлау
+курсын сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                               атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -1806,34 +2277,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «GMDSS Restricted Radio Operator» № XXXXXXXX
 
-## «GMDSS Restricted Radio Operator»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation IV/2 paragraph 2.2 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-    ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of
+the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan
+dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577)
+and the requirements laid down in Regulation IV/2, paragraph 2.2 of the Annex to the International Convention
+on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+______________________________________________________
+  (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1848,36 +2332,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Апат кезінде және қауіпсіздікті қамтамасыз ету үшін байланыстың жаһандық теңіз жүйесінің радиооператоры» № ХХХХХХХХ
 
-## «Апат кезінде және қауіпсіздікті қамтамасыз ету үшін байланыстың жаһандық теңіз жүйесінің радиооператоры»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның IV/2 ережесінінің 2.2-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _____________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және
+вахта атқару туралы халықаралық конвенцияға қосымшаның IV/2 ережесінінің 2.2-тармағына сәйкес даярлау
+курсын сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                          атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -1887,34 +2381,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «GMDSS General Radio Operator» № XXXXXXXX
 
-## «GMDSS General Radio Operator»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation IV/2 paragraph 2.2 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-    ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the
+seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated
+July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the
+requirements laid down in Regulation IV/2, paragraph 2.2 of the Annex to the International Convention on Standards of
+Training, Certification and Watchkeeping for Seafarers 1978, as amended
+___________________________________________________________________
+               (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -1929,40 +2436,48 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Жоғары жылдамдықтағы кемені басқару» № ХХХХХХХХ
 
-## «Жоғары жылдамдықтағы кемені басқару»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және Теңіздегі адам өмірін қорғау туралы 1978 жылғы халықаралық конвенцияның X тарауына, Жоғары жылдамдықты кемелердің кодексінің 18-тарауына сәйкес даярлау курсын сәтті аяқтады
-
-Кеменің түрі мен моделі_____________________________________
-
-Жүру бағыты______________________________________________
+## __________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген
+Теңізшілерге диплом беру қағидаларына және Теңіздегі адам өмірін қорғау туралы 1978 жылғы халықаралық
+конвенцияның X тарауына, Жоғары жылдамдықты кемелердің кодексінің 18-тарауына сәйкес даярлау курсын
+сәтті аяқтады
+Кеменің түрі мен моделі_______________________________________________
+Жүру бағыты_________________________________________________________
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                           атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I / 2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -1972,38 +2487,48 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## TYPE RATING CERTIFICATE
+## TYPE RATING CERTIFICATE «High Speed Craft Operations» № XXXXXXXX
 
-## «High Speed Craft Operations»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Chapter 18 of the High Speed Craft Code under Chapter X of the 1974 SOLAS Convention
-
-Type and model of craft _________________________________________________
-
-Route of operation _____________________________________________________
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-    ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in
+Chapter 18 of the High Speed Craft Code under Chapter X of the 1974 SOLAS Convention, as amended
+Type and model of craft _________________________________________________
+Route of operation _____________________________________________________
+          ______________________________________________________
+            (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -2018,40 +2543,45 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Кемені басқару – кемені жүргізу» № ХХХХХХХХ
 
-## «Кемені басқару – кемені жүргізу»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен бекітілген (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 тіркелген) Теңізшілерге диплом беру қағидаларының 40-тармағына сәйкес даярлау курсын сәтті аяқтады
-
-Жалпы сыйымдылық және /немесе жүзу аймағы бойынша шектеулер_______
+## _________________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+бекітілген (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 тіркелген) Теңізшілерге
+диплом беру қағидаларының 40-тармағына сәйкес даярлау курсын сәтті аяқтады.
+Жалпы сыйымдылық және /немесе жүзу аймағы бойынша
+шектеулер___________________________________________________________
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                                атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I / 2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
 
-## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+
+Куәлік иесінің қолы ___________________________________________________
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
 > *Артқы жағы*
 
@@ -2059,36 +2589,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «Ship Management Navigation» № XXXXXXXX
 
-## «Ship Management Navigation»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in paragraph 40 of the Regulations on Certification of Seafarers of the Republic of Kazakhstan
-
-Limitations as to GT and/or Sailing Area: ___________________________________
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-   ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with the requirements laid down in paragraph 40 of
+Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development
+of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the
+regulatory acts ref. # 15577)
+Limitations as to GT and/or Sailing Area: ___________________________________
+____________________________________________________________________
+             (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -2103,37 +2644,45 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Кемені басқару – кеме механикасы» № ХХХХХХХХ
 
-## «Кемені басқару – кеме механикасы»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен бекітілген (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 тіркелген) Теңізшілерге диплом беру қағидаларының 41-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _________________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+бекітілген (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 тіркелген) Теңізшілерге
+диплом беру қағидаларының 41-тармағына сәйкес даярлау курсын сәтті аяқтады
 Қозғалтқыш жүйесінің қуатын шектеу(кВт)______________________________
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                                    атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I / 2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -2143,35 +2692,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF COMPLETION
+## CERTIFICATE OF COMPLETION «Ship Management Engineering» № XXXXXXXX
 
-## «Ship Management Engineering»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in paragraph 41 of the Regulations on Certification of Seafarers of the Republic of Kazakhstan
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
+has successfully completed a program of training in accordance with the requirements laid down in paragraph 41
+of the Regulations on the certification of the seafarers approved by the order of Minister of Investment and
+Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state
+registration of the regulatory acts ref. # 15577)
 Limitations as to kW propulsion power: ____________________________________
-   ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+____________________________________________________________________
+           (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -2186,36 +2747,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Навигациялық вахта құрамындағы матрос» № ХХХХХХХХ
 
-## «Навигациялық вахта құрамындағы матрос»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның II/4 ережесінінің 1-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _________________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген
+Теңізшілерге диплом беру қағидаларына сәйкес даярлау курсын сәтті аяқтады және түзетулермен 1978 жылғы
+Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға
+қосымшаның II/4 ережесінінің 2-тармағына сәйкес тиісті түрде білікті деп танылды
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                        атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -2225,34 +2796,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF ASSESSMENT
+## CERTIFICATE OF PROFICIENCY «Rating Watchkeeping Deck» № XXXXXXXX
 
-## «Rating Watchkeeping Deck»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation II/4 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
- ______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and found duly qualified in
+accordance with provisions of Regulation II/4, paragraph 2 of the Аnnex to the International Convention on Standards
+of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+______________________________________________________
+  (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -2267,36 +2851,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Бірінші сыныпты матрос» № ХХХХХХХХ
 
-## «Бірінші сыныпты матрос»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның II/5 ережесінінің 1-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _________________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына сәйкес даярлау курсын сәтті аяқтады және түзетулермен 1978 жылғы Теңізшілерді
+даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның II/5
+ережесінінің 2-тармағына сәйкес тиісті түрде білікті деп танылды
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                       атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -2306,34 +2900,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF ASSESSMENT
+## CERTIFICATE OF PROFICIENCY «Able Seafarer Deck» № XXXXXXXX
 
-## «Able Seafarer Deck»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation II/5 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and found duly qualified in
+accordance with provisions of Regulation II/5, paragraph 2 of the Аnnex to the International Convention on Standards of
+Training, Certification and Watchkeeping for Seafarers 1978, as amended
+____________________________________________________________________
+                 (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -2348,36 +2955,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Машиналық вахта құрамындағы моторист» № ХХХХХХХХ
 
-## «Машиналық вахта құрамындағы моторист»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның III/4 ережесінінің 1-тармағына сәйкес даярлау курсын сәтті аяқтады
+## ______________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына сәйкес даярлау курсын сәтті аяқтады және түзетулермен 1978 жылғы Теңізшілерді
+даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның III/4
+ережесінінің 2-тармағына сәйкес тиісті түрде білікті деп танылды
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                           атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -2387,34 +3004,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF ASSESSMENT
+## CERTIFICATE OF PROFICIENCY «Rating Watchkeeping Engine» № XXXXXXXX
 
-## «Rating Watchkeeping Engine»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation III/4 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of
+the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan
+dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577)
+and found duly qualified in accordance with provisions of Regulation III/4, paragraph 2 of the Аnnex to the International
+Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+___________________________________________________________________
+                    (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -2429,36 +3059,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Бірінші сыныпты моторист» № ХХХХХХХХ
 
-## «Бірінші сыныпты моторист»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның III/5 ережесінінің 1-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _________________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген
+Теңізшілерге диплом беру қағидаларына сәйкес даярлау курсын сәтті аяқтады және түзетулермен 1978 жылғы
+Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияғақосымшаның
+III/5 ережесінінің 2-тармағына сәйкес тиісті түрде білікті деп танылды
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                        атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -2468,34 +3108,47 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF ASSESSMENT
+## CERTIFICATE OF PROFICIENCY «Able Seafarer Engine» № XXXXXXXX
 
-## «Able Seafarer Engine»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name) (if given)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation III/5 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-______________________________________________________
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and found duly qualified in
+accordance with provisions of Regulation III/5, paragraph 2 of the Аnnex to the International Convention on Standards of
+Training, Certification and Watchkeeping for Seafarers 1978, as amended
+____________________________________________________________________
 (name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
@@ -2510,36 +3163,46 @@ Signature of the holder of the certificate	________________
 
 ## Қазақстан Республикасының Елтаңбасы
 
-## КУӘЛІК
+## КУӘЛІК «Электрик» № ХХХХХХХХ
 
-## «Электрик»
-
-## № ХХХХХХХХ
-
-## _________________________________________________________________
-
-## (Тегі, аты, әкесінің аты (бар болса)
-
-Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның III/7 ережесінінің 1-тармағына сәйкес даярлау курсын сәтті аяқтады
+## _________________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
 
 ```
-_____________________________________________________________________
-   (даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер
-        орталығының) атауы, мекенжайы, байланыс мәліметтері)
-__________________
-|                |           Берілген күні 20__ жылғы «___» _________
-| Куәлік иесінің |           20__ жылғы «___» _________ дейін жарамды
-|     суреті     |  М.О.
-|                |  (бар болса)
-|                |           Білім беру ұйымының (теңіз оқу-тренажер
-|                |                   орталығының) басшысы
-|                |            _______________________________________
-|________________|                     Т.А.Ә. (бар болса) (қолы)
-Куәлік иесінің туған күні, айы, жылы _____________________
-Куәлік иесінің қолы  _____________________________________
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген Теңізшілерге
+диплом беру қағидаларына сәйкес даярлау курсын сәтті аяқтады және түзетулермен 1978 жылғы Теңізшілерді
+даярлау, оларға дипломдар беру және вахта атқару туралы халықаралық конвенцияға қосымшаның III/7
+ережесінінің 2-тармағына сәйкес тиісті түрде білікті деп танылды
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                                атауы, мекенжайы, байланыс мәліметтері)
 ```
 
-## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 ережесінің 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+ _______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
 
 ## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
 
@@ -2549,34 +3212,255 @@ __________________
 
 ## National emblem of the Republic of Kazakhstan
 
-## CERTIFICATE OF ASSESSMENT
+## CERTIFICATE OF PROFICIENCY «Electro-Technical Rating» № XXXXXXXX
 
-## «Electro-Technical Rating»
-
-## № XXXXXXXX
-
-## This is to confirm, that
-
-## _____________________________________________
-
-## (Family Name, First Name, Middle Name)
-
-has successfully completed a program of training in accordance with Regulations on the certification of the seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in Regulation III/7 paragraph 1 of the annex to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
 
 ```
-______________________________________________________
-(name, address, contact details of the training institute (center)
-__________________
-|                |
-|                |       Date of issue «____» _________ 20___
-| Photograph of  |       Date of expiry «____» ________ 20___
-| the  holder of |
-| the certificate|
-|________________|       Head of the training institute (center)
-     Official Seal (if any)   _____________________________
-                              full name (if given) (signature)
-Date of birth of the holder of the certificate	________________
-Signature of the holder of the certificate	________________
+has successfully completed a program of training in accordance with Regulations on the certification of the
+seafarers approved by the order of Minister of Investment and Development of the Republic of Kazakhstan
+dated July 26, 2017 ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577)
+and found duly qualified in accordance with provisions of Regulation III/7, paragraph 2 of the Аnnex to the
+International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended
+____________________________________________________________________
+                 (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
+```
+
+## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
+
+## Inquiries concerning this certificate should be addressed to the issuing authority at the address above
+
+> *31-нысан*
+
+> *Беткі жағы*
+
+## ҚАЗАҚСТАН РЕСПУБЛИКАСЫ
+
+## Қазақстан Республикасының Елтаңбасы
+
+## КУӘЛІК «Жолаушыларға арналған үй-жайларда жолаушыларға тікелей қызмет көрсетуді жүзеге асыратын персонал үшін қауіпсіздік мәселелері бойынша даярлау» № ХХХХХХХХ
+
+## ______________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
+
+```
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген
+Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар
+беру және вахта атқару туралы халықаралық конвенцияға қосымшаның V/2 ережесінінің 6-тармағына сәйкес
+даярлау курсын сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                      атауы, мекенжайы, байланыс мәліметтері)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+
+## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
+
+> *Артқы жағы*
+
+## THE REPUBLIC OF KAZAKHSTAN
+
+## National emblem of the Republic of Kazakhstan
+
+## CERTIFICATE OF PROFICIENCY « Safety training for personnel providing direct service to passengers in passenger spaces » № XXXXXXXX
+
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
+
+```
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017
+ref. # 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid
+down in Regulation V/2, paragraph 6 of the Аnnex to the International Convention on Standards of Training,
+Certification and Watchkeeping for Seafarers 1978, as amended
+___________________________________________________________________
+             (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
+```
+
+## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
+
+## Inquiries concerning this certificate should be addressed to the issuing authority at the address above
+
+> *32-нысан*
+
+> *Беткі жағы*
+
+## ҚАЗАҚСТАН РЕСПУБЛИКАСЫ
+
+## Қазақстан Республикасының Елтаңбасы
+
+## КУӘЛІК «Жолаушылар кемелерінде ұйымдастырылмаған көптеген адамдар басқару бойынша даярлау» № ХХХХХХХХ
+
+## ________________________________________________________ (Тегі, аты, әкесінің аты (ол болған жағдайда)
+
+```
+Қазақстан Республикасы Инвестициялар және даму министрінің 2017 жылғы 26 шілдедегі № 504 бұйрығымен
+(Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде № 15577 болып тіркелген) бекітілген
+Теңізшілерге диплом беру қағидаларына және түзетулермен 1978 жылғы Теңізшілерді даярлау, оларға дипломдар
+беру және вахта атқару туралы халықаралық конвенцияға қосымшаның V/2 ережесінінің 7-тармағына
+сәйкес даярлау курсын сәтті аяқтады
+____________________________________________________________________
+(даярлауды өткізген білім беру ұйымының (теңіз оқу-тренажер орталығының)
+                           атауы, мекенжайы, байланыс мәліметтері)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>Берілген күні 20__ жылғы «___» __________ 20__ жылғы «___» _________ дейін жарамды</td>
+</tr>
+<tr>
+<td>М.О. (бар болса)</td>
+<td>
+<pre>
+Білім беру ұйымының (теңіз оқу-тренажер орталығының) басшысы
+_______________________________________________
+Т.А.Ә. (ол болған жағдайда) (қолы)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Куәлік иесінің туған күні, айы, жылы ____________________________________
+Куәлік иесінің қолы ___________________________________________________
+```
+
+## Осы куәліктің түпнұсқасы жоғарыда аталған Конвенцияның I/2 қағидаларының 11-тармағына сәйкес куәлік иесінің жұмыс барысында кеменің бортында болуы тиіс
+
+## Бұл куәлікке қатысты сұрақтар жоғарыда көрсетілген мекенжай бойынша берілген органға жіберіледі
+
+> *Артқы жағы*
+
+## THE REPUBLIC OF KAZAKHSTAN
+
+## National emblem of the Republic of Kazakhstan
+
+## CERTIFICATE OF PROFICIENCY « Passenger Ship crowd management training » № XXXXXXXX
+
+## This is to confirm, that _____________________________________________ (Family Name, First Name, Middle Name) (if given)
+
+```
+has successfully completed a program of training in accordance with Regulations on the certification of the seafarers
+approved by the order of Minister of Investment and Development of the Republic of Kazakhstan dated July 26, 2017 ref.
+# 504 (enlisted in the Register on state registration of the regulatory acts ref. # 15577) and the requirements laid down in
+Regulation V/2, paragraph 7 of the Аnnex to the International Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers 1978, as amended
+___________________________________________________________________
+                 (name, address, contact details of the training institute (center)
+```
+
+<table>
+<tr>
+<td>
+<em>[Image]</em>
+</td>
+<td>
+<pre>
+Date of issue «____» _________ 20___
+Date of expiry «____» ________ 20___
+</pre>
+</td>
+</tr>
+<tr>
+<td>Official Seal (if any)</td>
+<td>
+<pre>
+Head of the training institute (center)
+_______________________
+full name (if given) (signature)
+</pre>
+</td>
+</tr>
+</table>
+
+```
+Date of birth of the holder of the certificate ________________
+Signature of the holder of the certificate ________________
 ```
 
 ## The original of this certificate must be kept available in accordance with Regulation I/2 paragraph 11 of the STCW’78 Convention as amended while serving on a ship
