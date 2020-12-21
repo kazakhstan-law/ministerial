@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/93363/rus/14.09.2018
+source: https://zan.gov.kz/client/#!/doc/93363/rus/21.12.2020
 ---
 
 # Об утверждении Правил медицинского осмотра членов экипажа судна, требований к состоянию их здоровья и физической пригодности, а также формы медицинского заключения
@@ -71,7 +71,9 @@ source: https://zan.gov.kz/client/#!/doc/93363/rus/14.09.2018
 
    Копия приказа о назначении Врача или его замене (с указанием причины) в течение пяти рабочих дней со дня его утверждения направляется в уполномоченный орган в области торгового мореплавания.
 
-   Уполномоченный орган в области торгового мореплавания составляет перечень Врачей и размещает на своем интернет-ресурсе: www.mid.gov.kz..
+   Уполномоченный орган в области торгового мореплавания составляет перечень врачей и размещает его на своем интернет-ресурсе.
+
+> *Сноска. Пункт 4 с изменением, внесенным приказом Министра индустрии и инфраструктурного развития РК от 21.12.2020 № 666 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 5. Медицинский осмотр проводится согласно настоящих Правил.
 
@@ -1424,7 +1426,7 @@ IV/2
 > *Республики Казахстан*  
 > *от 27 марта 2015 года № 364*
 
-> *Сноска. Форма в редакции приказа Министра по инвестициям и развитию РК от 14.09.2018 № 646 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Форма в редакции приказов Министра по инвестициям и развитию РК от 14.09.2018 № 646 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра индустрии и инфраструктурного развития РК от 21.12.2020 № 666 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 > *Форма*
 
@@ -1432,9 +1434,11 @@ IV/2
 
 ## Seafarer medical fitness certificate Медицинское заключение # XXXXX
 
+Настоящее свидетельство выдается от имени Республики Казахстан в соответствии с требованиями Правил медицинского осмотра членов экипажа судна и Международной конвенции о подготовке и дипломировании моряков и несении вахты, 1978 года, с поправками (далее-Конвенция ПДНВ) и Сводной конвенции о труде в морском судоходстве 2006 года
+
 This certificate is issued on behalf of the Government of the Republic of Kazakhstan in compliance with the requirements of the Regulations on Medical Examination of Seafarers and the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978 as amended (STCW Convention), and the Maritime Labour Convention, 2006
 
-1\. ИНФОРМАЦИЯ О МОРЯКЕ / DATA OF SEAFARER
+1. ИНФОРМАЦИЯ О МОРЯКЕ / DATA OF SEAFARER
 
 <table>
 <tr>
@@ -1443,10 +1447,7 @@ This certificate is issued on behalf of the Government of the Republic of Kazakh
 <td rowspan="3">Фото / Photo</td>
 </tr>
 <tr>
-<td>
-Дата рождения (дд/мм/гггг)/
-Date of birth (day/month/year)
-</td>
+<td>Дата рождения (дд/мм/гггг) / Date of birth (day/month/year)</td>
 <td colspan="4"></td>
 </tr>
 <tr>
@@ -1461,10 +1462,7 @@ Date of birth (day/month/year)
 <td colspan="2">Жен. / Female</td>
 </tr>
 <tr>
-<td>
-Документ, удостоверяющий личность /
-Identification document
-</td>
+<td>Документ, удостоверяющий личность / Identification document</td>
 <td colspan="2">Тип / Type</td>
 <td colspan="3">Номер / Number</td>
 </tr>
@@ -1477,28 +1475,17 @@ Identification document
 </tr>
 <tr>
 <td>☐</td>
-<td>
-без наблюдения
-и несения вахты,
-с обязанностями охраны и безопасности /
-without look-out or watch duties but with safety and/or security duties
-</td>
+<td>без наблюдения и несения вахты, с обязанностями охраны и безопасности / without look-out or watch duties but with safety and/or security duties</td>
 <td>☐</td>
-<td colspan="2">
-без каких-либо вышеперечисленных обязанностей /
-without any of the aforementioned duties
-</td>
+<td colspan="2">без каких-либо вышеперечисленных обязанностей / without any of the aforementioned duties</td>
 </tr>
 </table>
 
-2\. ОГРАНИЧЕНИЯ / LIMITATIONS
+2. ОГРАНИЧЕНИЯ / LIMITATIONS
 
 <table>
 <tr>
-<td rowspan="2">
-Район плавания/
-Validity area
-</td>
+<td rowspan="2">Район плавания / Validity area</td>
 <td>☐</td>
 <td>По всему миру / Worldwide</td>
 </tr>
@@ -1507,17 +1494,12 @@ Validity area
 <td>Ограниченная территория / Limited area:</td>
 </tr>
 <tr>
-<td>
-Ограничения по пригодности /
-Limitations on fitness
-</td>
+<td>Ограничения по пригодности / Limitations on fitness</td>
 <td colspan="2"></td>
 </tr>
 </table>
 
-3\. ОПРЕДЕЛЕНИЕ ФИЗИЧЕСКОЙ ПРИГОДНОСТИ СОГЛАСНО КОНВЕНЦИИ ПДНВ /
-
-JUDGEMENT MEDICAL FITNESS SEAFARER UNDER STCW CODE
+3. ОПРЕДЕЛЕНИЕ ФИЗИЧЕСКОЙ ПРИГОДНОСТИ СОГЛАСНО КОДЕКСА ПДНВ / JUDGEMENT MEDICAL FITNESS SEAFARER UNDER STCW CODE
 
 <table>
 <tr>
@@ -1555,7 +1537,7 @@ JUDGEMENT MEDICAL FITNESS SEAFARER UNDER STCW CODE
 <td colspan="6"></td>
 </tr>
 <tr>
-<td>Подходит для функций наблюдения / Fit for lookout duties</td>
+<td>Подходит для функций наблюдения / Fit for look-out duties</td>
 <td>☐</td>
 <td colspan="3">Да / Yes</td>
 <td>☐</td>
@@ -1583,15 +1565,12 @@ JUDGEMENT MEDICAL FITNESS SEAFARER UNDER STCW CODE
 
 > *Оборотная сторона*
 
-2\. ДЕКЛАРАЦИЯ МОРЯКА / DECLARATION OF THE SEAFARER
+4. ДЕКЛАРАЦИЯ МОРЯКА / DECLARATION OF THE SEAFARER
 
 <table>
 <tr>
-<td rowspan="2">Моряк заявляет, что проинформирован о содержании свидетельства и праве на рассмотрение в соответствии с Правилами медицинского осмотра членов экипажа судна / The seafarer declares to be informed of the content of the certificate and the right to a review in accordance with paragraph 6 of section A-I/9 of the STCW Code</td>
-<td>
-Подпись моряка /
-Signature of the seafarer:
-</td>
+<td rowspan="2">Моряк заявляет, что проинформирован о содержании свидетельства и праве на рассмотрение в соответствии с пунктом 19 Правил медицинского осмотра членов экипажа судна/ The seafarer declares to be informed of the content of the certificate and the right to a review in accordance with paragraph 19 of Regulations on medical examination of ship crew members</td>
+<td>Подпись моряка / Signature of the seafarer:</td>
 </tr>
 <tr>
 <td></td>
@@ -1604,9 +1583,9 @@ Signature of the seafarer:
 <tr>
 <td>Подписывающий назначенный врач заявляет, что / The signing recognized medical practitioner declares</td>
 <td rowspan="2">
-он признан для проведения медицинского осмотра и выдачи медицинского заключения о годности для работы на борту морского судна, зарегистрированного в Республике Казахстан / To be recognized by the Government of the Republic of Kazakhstan as a medical practitioner to conduct medical examinations and to issue medical certificates of fitness for the service on board seagoing vessels registered in Kazakhstan;
- проверил(а) личность моряка на момент проведения осмотра / that he/she checked the seafarer identity at the point of the examination;
-моряк соответствует Требованиям к состоянию здоровья и физической пригодности членов экипажей судна, моряк не страдает каким-либо заболеванием, которое может усилиться из-за работы в море или может привести к непригодности для такой работы или поставить под угрозу здоровье других людей на борту / that the seafarer complies to the latest medical criteria of the Regulations on medical examination of seafarers of the RK and that the seafarer is not suffering from any medical condition likely to be aggravated by service at sea or to render him/her unfit for such service or to endanger the health of other persons on board.
+☐ он признан для проведения медицинского осмотра и выдачи медицинского заключения о годности для работы на борту морского судна, зарегистрированного в Республике Казахстан / To be recognized by the Government of the Republic of Kazakhstan as a medical practitioner to conduct medical examinations and to issue medical certificates of fitness for the service on board seagoing vessels registered in Kazakhstan;
+☐ проверил(а) личность моряка на момент проведения осмотра / that he/she checked the seafarer identity at the point of the examination;
+☐ моряк соответствует Требованиям к состоянию здоровья и физической пригодности членов экипажей судна, моряк не страдает каким-либо заболеванием, которое может усилиться из-за работы в море или может привести к непригодности для такой работы или поставить под угрозу здоровье других людей на борту / that the seafarer complies to the latest medical criteria of the Regulations on medical examination of seafarers of the RK and that the seafarer is not suffering from any medical condition likely to be aggravated by service at sea or to render him/her unfit for such service or to endanger the health of other persons on board.
 </td>
 </tr>
 <tr>
@@ -1614,16 +1593,14 @@ Signature of the seafarer:
 </tr>
 </table>
 
+```
 6. ВЫДАЧА И ОКОНЧАНИЕ СРОКА ДЕЙСТВИЯ СВИДЕТЕЛЬСТВА /
-
 ISSUE AND EXPIRY DATE OF CERTIFICATE
+```
 
 <table>
 <tr>
-<td>
-Дата выдачи: (дд/мм/гггг) /
-Issue date (day/month/year)
-</td>
+<td>Дата выдачи: (дд/мм/гггг) / Issue date (day/month/year)</td>
 <td></td>
 </tr>
 <tr>
@@ -1636,15 +1613,17 @@ Issue date (day/month/year)
 
 <table>
 <tr>
+<td>Именная печать врача / Name stamp of medical practitioner</td>
 <td>
-Именная печать врача /
-Name stamp of medical practitioner
+<pre>
+___________________________________
+Подпись врача / Signature of medical practitioner
+</pre>
 </td>
-<td>
-_____________________
-подпись врача /
-Signature of medical practitioner
-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 </tr>
 </table>
 
