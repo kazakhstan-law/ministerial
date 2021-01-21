@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/113886/kaz/26.06.2019
+source: https://zan.gov.kz/client/#!/doc/113886/kaz/21.01.2021
 ---
 
 # Өрт сөндіруді ұйымдастыру қағидаларын бекіту туралы
