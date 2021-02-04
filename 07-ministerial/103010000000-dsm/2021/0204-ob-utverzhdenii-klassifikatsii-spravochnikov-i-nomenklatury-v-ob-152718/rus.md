@@ -1,0 +1,8579 @@
+# Об утверждении справочников в области цифрового здравоохранения
+
+В соответствии с подпунктом 87) статьи 7 Кодекса Республики Казахстан от 7 июля 2020 года «О здоровье народа и системе здравоохранения» ПРИКАЗЫВАЮ:
+
+1. Утвердить справочники в области цифрового здравоохранения согласно приложению к настоящему приказу.
+
+2. Руководителям местных органов государственного управления здравоохранением областей, городов республиканского значения и столицы, руководителям организаций здравоохранения республиканского значения обеспечить внедрение и использование справочников.
+
+3. Департаменту развития электронного здравоохранения Министерства здравоохранения Республики Казахстан обеспечить:
+
+   1) государственную регистрацию настоящего приказа в Министерстве юстиции Республики Казахстан;
+
+   2) размещение настоящего приказа на интернет-ресурсе Министерства здравоохранения Республики Казахстан после его официального опубликования;
+
+   3) в течение десяти рабочих дней после государственной регистрации настоящего приказа в Министерстве юстиции Республики Казахстан представление в Юридический департамент Министерства здравоохранения Республики Казахстан сведений об исполнении мероприятий, предусмотренных подпунктами 1) и 2) настоящего пункта.
+
+4. Контроль за исполнением настоящего приказа возложить на курирующего вице-министра здравоохранения Республики Казахстан.
+
+5. Настоящий приказ вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования.
+
+**Исполняющий обязанности Министра здравоохранения Республики Казахстан**
+
+**М. Шоранов**
+
+> *«СОГЛАСОВАНО»*  
+> *Министерство труда и социальной защиты*  
+> *населения Республики Казахстан*
+
+> *«СОГЛАСОВАНО»*  
+> *Министерство цифрового развития,*  
+> *инноваций и аэрокосмической*  
+> *промышленности*  
+> *Республики Казахстан*
+
+> *Приложение к приказу*  
+> *Исполняющий обязанности*  
+> *Министра здравоохранения*  
+> *Республики Казахстан*  
+> *от 4 февраля 2021 года*  
+> *№ ҚР-ДСМ-14*
+
+## Cправочники в области цифрового здравоохранения
+
+<table>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Антикоагулянт»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>372862008</td>
+<td colspan="2">Антикоагулянт</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>372877000</td>
+<td colspan="2">гепарин</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>108983001</td>
+<td colspan="2">клексан</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>698278006</td>
+<td colspan="2">фраксипарин</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Метод подтверждения диагноза»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>385414009</td>
+<td colspan="2">Вариантность</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>33419001</td>
+<td colspan="2">Lx</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>44649003</td>
+<td colspan="2">L 0</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>74139005</td>
+<td colspan="2">L 1</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>72632003</td>
+<td colspan="2">L 2</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>30893008</td>
+<td colspan="2">M 0</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>55440008</td>
+<td colspan="2">M 1</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>258297005</td>
+<td colspan="2">M 2</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>258298000</td>
+<td colspan="2">M 3</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>258299008</td>
+<td colspan="2">M 4</td>
+</tr>
+<tr>
+<td>1.10</td>
+<td>27167007</td>
+<td colspan="2">MX</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Вид лечения онкологического больного»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>360270004</td>
+<td colspan="2">Вид лечения онкологического больного</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>83578000</td>
+<td colspan="2">хирургическое</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>419815003</td>
+<td colspan="2">лучевое</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>385786002</td>
+<td colspan="2">химиотерапевтическое</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>169334008</td>
+<td colspan="2">комбинированное (хирургическое+лучевое)</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>394935005</td>
+<td colspan="2">комплексное (хирургическое+химиотерапия, хирургическое+химиотерапия+лучевое)</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>703423002</td>
+<td colspan="2">химиолучевое</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>264931009</td>
+<td colspan="2">симптоматическое</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>64644003</td>
+<td colspan="2">иммунотерапия</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Вид лучевой терапии»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>385798007</td>
+<td colspan="2">Вид лучевой терапии:</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>246505006</td>
+<td colspan="2">фотонная</td>
+</tr>
+<tr>
+<td>1.1.1</td>
+<td>169297002</td>
+<td colspan="2">рентгеновская близкофокусная</td>
+</tr>
+<tr>
+<td>1.1.2</td>
+<td>169295005</td>
+<td colspan="2">рентгеновская глубокая</td>
+</tr>
+<tr>
+<td>1.1.3</td>
+<td>703620007</td>
+<td colspan="2">фотонно-тормозное излучение глубоких энергий</td>
+</tr>
+<tr>
+<td>1.1.4</td>
+<td>169301006</td>
+<td colspan="2">тормозное излучение высоких энергий</td>
+</tr>
+<tr>
+<td>1.1.5</td>
+<td>169303009</td>
+<td colspan="2">бетта-терапия</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>113117004</td>
+<td colspan="2">корпускулярная</td>
+</tr>
+<tr>
+<td>1.2.1</td>
+<td>45643008</td>
+<td colspan="2">электроны</td>
+</tr>
+<tr>
+<td>1.2.2</td>
+<td>312248006</td>
+<td colspan="2">терапия тяжелыми заряженными частицами</td>
+</tr>
+<tr>
+<td>1.2.3</td>
+<td>80347004</td>
+<td colspan="2">корпускулярная терапия нейтронами</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>169319002</td>
+<td colspan="2">сочетанная</td>
+</tr>
+<tr>
+<td>1.3.1</td>
+<td>290006006</td>
+<td colspan="2">фотонная+электроны</td>
+</tr>
+<tr>
+<td>1.3.2</td>
+<td>89177007</td>
+<td colspan="2">протоны + гамма</td>
+</tr>
+<tr>
+<td>1.3.3</td>
+<td>76772003</td>
+<td colspan="2">нейтроны + гамма</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>65952009</td>
+<td colspan="2">гамматерапия</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Вид смерти (ребенка) по отношению к родам»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>276507005</td>
+<td colspan="2">Вид смерти (ребенка) по отношению к родам</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>237361005</td>
+<td colspan="2">до родов (антенатально)</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>237362003</td>
+<td colspan="2">во время родов (интранатально)</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>276506001</td>
+<td colspan="2">после родов:</td>
+</tr>
+<tr>
+<td>1.3.1</td>
+<td>391181005</td>
+<td colspan="2">ранняя неонатальная</td>
+</tr>
+<tr>
+<td>1.3.2</td>
+<td>276505002</td>
+<td colspan="2">поздняя неонатальная</td>
+</tr>
+<tr>
+<td>1.3.3</td>
+<td>391100008</td>
+<td colspan="2">постнеонатальная</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Виды употребляемых наркотических средств, психотропных веществ и прекурсоров»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>229753003</td>
+<td colspan="2">Вид употребляемых наркотических средств, психотропных веществ и их прекурсоров:</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>398705004</td>
+<td colspan="2">каннабис</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>387341002</td>
+<td colspan="2">героин</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>21919007</td>
+<td colspan="2">опий</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>387358007</td>
+<td colspan="2">эфедрон</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>412035000</td>
+<td colspan="2">вещества амфетаминового ряда (экстази, метамфетамин, амфетамин)</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>387085005</td>
+<td colspan="2">кокаин</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>372798009</td>
+<td colspan="2">барбитураты</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>255654008</td>
+<td colspan="2">все галлюциногены</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>15698006</td>
+<td colspan="2">Диэтиламид d-лизергиновой кислоты</td>
+</tr>
+<tr>
+<td>1.10</td>
+<td>732997007</td>
+<td colspan="2">летучие вещества и ингалянты</td>
+</tr>
+<tr>
+<td>1.11</td>
+<td>788540007</td>
+<td colspan="2">1S – синтетические каннабиноиды</td>
+</tr>
+<tr>
+<td>1.12</td>
+<td>288459003</td>
+<td colspan="2">7S – синтетические стимуляторы</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Вид химиотерапии»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>410657003</td>
+<td colspan="2">Вид химиотерапии</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>373808002</td>
+<td colspan="2">лечебная</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>373846009</td>
+<td colspan="2">адъювантная профилактическая</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>373847000</td>
+<td colspan="2">неадъювантная</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Виды искусственного прерывания беременности»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>386639001</td>
+<td colspan="2">Виды искусственного прерывания беременности</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>17369002</td>
+<td colspan="2">самопроизвольный аборт (выкидыш)</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>285409006</td>
+<td colspan="2">медикаментозный аборт</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>302375005</td>
+<td colspan="2">хирургический аборт:</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>391897002</td>
+<td colspan="2">мини-аборт (вакуумная аспирация)</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>29682007</td>
+<td colspan="2">дилатация и кюретаж (выскабливание)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Виды транспортировки»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>424483007</td>
+<td colspan="2">Виды транспортировки</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>58715004</td>
+<td colspan="2">на каталке</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>302271003</td>
+<td colspan="2">на кресле</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>282144007</td>
+<td colspan="2">может идти</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Выявление туберкулеза»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>415760001</td>
+<td colspan="2">Выявление туберкулеза</td>
+</tr>
+<tr>
+<td>2</td>
+<td>270427003</td>
+<td colspan="2">Обращение</td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>707085002</td>
+<td colspan="2">группа риска</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>385436007</td>
+<td colspan="2">обязательный контингент</td>
+</tr>
+<tr>
+<td>3</td>
+<td>429060002</td>
+<td colspan="2">Профосмотр</td>
+</tr>
+<tr>
+<td>3.1</td>
+<td>707085002</td>
+<td colspan="2">группа риска</td>
+</tr>
+<tr>
+<td>3.2</td>
+<td>385436007</td>
+<td colspan="2">обязательный контингент</td>
+</tr>
+<tr>
+<td>4</td>
+<td>371758005</td>
+<td colspan="2">Посмертное</td>
+</tr>
+<tr>
+<td>4.1</td>
+<td>707085002</td>
+<td colspan="2">группа риска</td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>385436007</td>
+<td colspan="2">обязательный контингент</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Группа инвалидности»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>21134002</td>
+<td colspan="2">Группа инвалидности</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>133936005</td>
+<td colspan="2">первая</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>133936006</td>
+<td colspan="2">вторая</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>133936007</td>
+<td colspan="2">третья</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>67822003</td>
+<td colspan="2">ребенок-инвалид</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>67822004</td>
+<td colspan="2">ребенок-инвалид первой группы</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>67822005</td>
+<td colspan="2">ребенок-инвалид второй группы</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>67822006</td>
+<td colspan="2">ребенок-инвалид третьей группы</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>67822007</td>
+<td colspan="2">инвалидность не установлена</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Группа крови»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>365636006</td>
+<td colspan="2">Группа крови</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>58460004</td>
+<td colspan="2">О (I)</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>112144000</td>
+<td colspan="2">А (II)</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>112149005</td>
+<td colspan="2">В (III)</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>165743006</td>
+<td colspan="2">АВ (IV)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Место проживания»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>365508006</td>
+<td colspan="2">Житель</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>78153003</td>
+<td colspan="2">города</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>5794003</td>
+<td colspan="2">села</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Национальность»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>186034007</td>
+<td colspan="2">Национальность</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>1</td>
+<td colspan="2">Русский</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>2</td>
+<td colspan="2">Украинец</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>3</td>
+<td colspan="2">Белорус</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>4</td>
+<td colspan="2">Узбек</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>5</td>
+<td colspan="2">Казах</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>6</td>
+<td colspan="2">Грузин</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>7</td>
+<td colspan="2">Азербайджанец</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>8</td>
+<td colspan="2">Литовец</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>9</td>
+<td colspan="2">Молдаванин</td>
+</tr>
+<tr>
+<td>1.10</td>
+<td>10</td>
+<td colspan="2">Латыш</td>
+</tr>
+<tr>
+<td>1.11</td>
+<td>11</td>
+<td colspan="2">Киргиз</td>
+</tr>
+<tr>
+<td>1.12</td>
+<td>12</td>
+<td colspan="2">Таджик</td>
+</tr>
+<tr>
+<td>1.13</td>
+<td>13</td>
+<td colspan="2">Армянин</td>
+</tr>
+<tr>
+<td>1.14</td>
+<td>14</td>
+<td colspan="2">Туркмен</td>
+</tr>
+<tr>
+<td>1.15</td>
+<td>15</td>
+<td colspan="2">Эстонец</td>
+</tr>
+<tr>
+<td>1.16</td>
+<td>16</td>
+<td colspan="2">Абхаз</td>
+</tr>
+<tr>
+<td>1.17</td>
+<td>17</td>
+<td colspan="2">Балкарец</td>
+</tr>
+<tr>
+<td>1.18</td>
+<td>18</td>
+<td colspan="2">Башкир</td>
+</tr>
+<tr>
+<td>1.19</td>
+<td>19</td>
+<td colspan="2">Бурят</td>
+</tr>
+<tr>
+<td>1.20</td>
+<td>21</td>
+<td colspan="2">Аварец</td>
+</tr>
+<tr>
+<td>1.21</td>
+<td>22</td>
+<td colspan="2">Агул</td>
+</tr>
+<tr>
+<td>1.22</td>
+<td>23</td>
+<td colspan="2">Даргинец</td>
+</tr>
+<tr>
+<td>1.23</td>
+<td>24</td>
+<td colspan="2">Кумык</td>
+</tr>
+<tr>
+<td>1.24</td>
+<td>25</td>
+<td colspan="2">Лак</td>
+</tr>
+<tr>
+<td>1.25</td>
+<td>26</td>
+<td colspan="2">Лезгин</td>
+</tr>
+<tr>
+<td>1.26</td>
+<td>27</td>
+<td colspan="2">Ногаец</td>
+</tr>
+<tr>
+<td>1.27</td>
+<td>28</td>
+<td colspan="2">Рутулец</td>
+</tr>
+<tr>
+<td>1.28</td>
+<td>29</td>
+<td colspan="2">Табасаран</td>
+</tr>
+<tr>
+<td>1.29</td>
+<td>30</td>
+<td colspan="2">Цахур</td>
+</tr>
+<tr>
+<td>1.30</td>
+<td>40</td>
+<td colspan="2">Ингуш</td>
+</tr>
+<tr>
+<td>1.31</td>
+<td>41</td>
+<td colspan="2">Кабардинец</td>
+</tr>
+<tr>
+<td>1.32</td>
+<td>42</td>
+<td colspan="2">Калмык</td>
+</tr>
+<tr>
+<td>1.33</td>
+<td>43</td>
+<td colspan="2">Каракалпак</td>
+</tr>
+<tr>
+<td>1.34</td>
+<td>44</td>
+<td colspan="2">Карел</td>
+</tr>
+<tr>
+<td>1.35</td>
+<td>45</td>
+<td colspan="2">Коми</td>
+</tr>
+<tr>
+<td>1.36</td>
+<td>46</td>
+<td colspan="2">Мариец</td>
+</tr>
+<tr>
+<td>1.37</td>
+<td>47</td>
+<td colspan="2">Мордвин</td>
+</tr>
+<tr>
+<td>1.38</td>
+<td>48</td>
+<td colspan="2">Осетин</td>
+</tr>
+<tr>
+<td>1.39</td>
+<td>49</td>
+<td colspan="2">Татарин</td>
+</tr>
+<tr>
+<td>1.40</td>
+<td>50</td>
+<td colspan="2">Тувинец</td>
+</tr>
+<tr>
+<td>1.41</td>
+<td>51</td>
+<td colspan="2">Удмурт</td>
+</tr>
+<tr>
+<td>1.42</td>
+<td>52</td>
+<td colspan="2">Чеченец</td>
+</tr>
+<tr>
+<td>1.43</td>
+<td>53</td>
+<td colspan="2">Чуваш</td>
+</tr>
+<tr>
+<td>1.44</td>
+<td>54</td>
+<td colspan="2">Якут</td>
+</tr>
+<tr>
+<td>1.45</td>
+<td>55</td>
+<td colspan="2">Адыгеец</td>
+</tr>
+<tr>
+<td>1.46</td>
+<td>56</td>
+<td colspan="2">Алтаец</td>
+</tr>
+<tr>
+<td>1.47</td>
+<td>57</td>
+<td colspan="2">Еврей</td>
+</tr>
+<tr>
+<td>1.48</td>
+<td>58</td>
+<td colspan="2">Карачаевец</td>
+</tr>
+<tr>
+<td>1.49</td>
+<td>59</td>
+<td colspan="2">Ххакас</td>
+</tr>
+<tr>
+<td>1.50</td>
+<td>60</td>
+<td colspan="2">Черкес</td>
+</tr>
+<tr>
+<td>1.51</td>
+<td>61</td>
+<td colspan="2">Коми-Пермяк</td>
+</tr>
+<tr>
+<td>1.52</td>
+<td>62</td>
+<td colspan="2">Лив</td>
+</tr>
+<tr>
+<td>1.53</td>
+<td>63</td>
+<td colspan="2">Талыш</td>
+</tr>
+<tr>
+<td>1.54</td>
+<td>71</td>
+<td colspan="2">Долган</td>
+</tr>
+<tr>
+<td>1.55</td>
+<td>72</td>
+<td colspan="2">Коряк</td>
+</tr>
+<tr>
+<td>1.56</td>
+<td>73</td>
+<td colspan="2">Манси</td>
+</tr>
+<tr>
+<td>1.57</td>
+<td>74</td>
+<td colspan="2">Ненец</td>
+</tr>
+<tr>
+<td>1.58</td>
+<td>75</td>
+<td colspan="2">Ханты</td>
+</tr>
+<tr>
+<td>1.59</td>
+<td>76</td>
+<td colspan="2">Чукча</td>
+</tr>
+<tr>
+<td>1.60</td>
+<td>77</td>
+<td colspan="2">Эвенк</td>
+</tr>
+<tr>
+<td>1.61</td>
+<td>78</td>
+<td colspan="2">Алеут</td>
+</tr>
+<tr>
+<td>1.62</td>
+<td>79</td>
+<td colspan="2">Ительмен</td>
+</tr>
+<tr>
+<td>1.63</td>
+<td>80</td>
+<td colspan="2">Кет</td>
+</tr>
+<tr>
+<td>1.64</td>
+<td>81</td>
+<td colspan="2">Нанаец</td>
+</tr>
+<tr>
+<td>1.65</td>
+<td>82</td>
+<td colspan="2">Нганасан</td>
+</tr>
+<tr>
+<td>1.66</td>
+<td>83</td>
+<td colspan="2">Негидалец</td>
+</tr>
+<tr>
+<td>1.67</td>
+<td>84</td>
+<td colspan="2">Нивх</td>
+</tr>
+<tr>
+<td>1.68</td>
+<td>85</td>
+<td colspan="2">Орок</td>
+</tr>
+<tr>
+<td>1.69</td>
+<td>86</td>
+<td colspan="2">Ороч</td>
+</tr>
+<tr>
+<td>1.70</td>
+<td>87</td>
+<td colspan="2">Саами</td>
+</tr>
+<tr>
+<td>1.71</td>
+<td>88</td>
+<td colspan="2">Селькуп</td>
+</tr>
+<tr>
+<td>1.72</td>
+<td>89</td>
+<td colspan="2">Тофалар</td>
+</tr>
+<tr>
+<td>1.73</td>
+<td>90</td>
+<td colspan="2">Удэгеец</td>
+</tr>
+<tr>
+<td>1.74</td>
+<td>91</td>
+<td colspan="2">Ульч</td>
+</tr>
+<tr>
+<td>1.75</td>
+<td>92</td>
+<td colspan="2">Чуванец</td>
+</tr>
+<tr>
+<td>1.76</td>
+<td>93</td>
+<td colspan="2">Эвен</td>
+</tr>
+<tr>
+<td>1.77</td>
+<td>94</td>
+<td colspan="2">Энец</td>
+</tr>
+<tr>
+<td>1.78</td>
+<td>95</td>
+<td colspan="2">Эскимос</td>
+</tr>
+<tr>
+<td>1.79</td>
+<td>96</td>
+<td colspan="2">Юкагир</td>
+</tr>
+<tr>
+<td>1.80</td>
+<td>100</td>
+<td colspan="2">Абазин</td>
+</tr>
+<tr>
+<td>1.81</td>
+<td>101</td>
+<td colspan="2">Вепс</td>
+</tr>
+<tr>
+<td>1.82</td>
+<td>102</td>
+<td colspan="2">Гагауз</td>
+</tr>
+<tr>
+<td>1.83</td>
+<td>103</td>
+<td colspan="2">Еврей горский</td>
+</tr>
+<tr>
+<td>1.84</td>
+<td>104</td>
+<td colspan="2">Еврей грузинский</td>
+</tr>
+<tr>
+<td>1.85</td>
+<td>105</td>
+<td colspan="2">Еврей среднеазиатский</td>
+</tr>
+<tr>
+<td>1.86</td>
+<td>106</td>
+<td colspan="2">Ижорец</td>
+</tr>
+<tr>
+<td>1.87</td>
+<td>107</td>
+<td colspan="2">Караим</td>
+</tr>
+<tr>
+<td>1.88</td>
+<td>108</td>
+<td colspan="2">Крымчак</td>
+</tr>
+<tr>
+<td>1.89</td>
+<td>109</td>
+<td colspan="2">Татарин крымский</td>
+</tr>
+<tr>
+<td>1.90</td>
+<td>110</td>
+<td colspan="2">Тат</td>
+</tr>
+<tr>
+<td>1.91</td>
+<td>112</td>
+<td colspan="2">Удин</td>
+</tr>
+<tr>
+<td>1.92</td>
+<td>113</td>
+<td colspan="2">Цыган</td>
+</tr>
+<tr>
+<td>1.93</td>
+<td>114</td>
+<td colspan="2">Шорец</td>
+</tr>
+<tr>
+<td>1.94</td>
+<td>150</td>
+<td colspan="2">Австриец</td>
+</tr>
+<tr>
+<td>1.95</td>
+<td>151</td>
+<td colspan="2">Албанец</td>
+</tr>
+<tr>
+<td>1.96</td>
+<td>152</td>
+<td colspan="2">Американец</td>
+</tr>
+<tr>
+<td>1.97</td>
+<td>153</td>
+<td colspan="2">Англичанин</td>
+</tr>
+<tr>
+<td>1.98</td>
+<td>154</td>
+<td colspan="2">Араб</td>
+</tr>
+<tr>
+<td>1.99</td>
+<td>155</td>
+<td colspan="2">Ассириец</td>
+</tr>
+<tr>
+<td>1.100</td>
+<td>156</td>
+<td colspan="2">Афганец</td>
+</tr>
+<tr>
+<td>1.101</td>
+<td>157</td>
+<td colspan="2">Белудж</td>
+</tr>
+<tr>
+<td>1.102</td>
+<td>158</td>
+<td colspan="2">Болгарин</td>
+</tr>
+<tr>
+<td>1.103</td>
+<td>159</td>
+<td colspan="2">Венгр</td>
+</tr>
+<tr>
+<td>1.104</td>
+<td>160</td>
+<td colspan="2">Вьетнамец</td>
+</tr>
+<tr>
+<td>1.105</td>
+<td>161</td>
+<td colspan="2">Голландец</td>
+</tr>
+<tr>
+<td>1.106</td>
+<td>162</td>
+<td colspan="2">Грек</td>
+</tr>
+<tr>
+<td>1.107</td>
+<td>163</td>
+<td colspan="2">Дунганин</td>
+</tr>
+<tr>
+<td>1.108</td>
+<td>164</td>
+<td colspan="2">Народы Индии и Пакистана</td>
+</tr>
+<tr>
+<td>1.109</td>
+<td>165</td>
+<td colspan="2">Испанец</td>
+</tr>
+<tr>
+<td>1.110</td>
+<td>166</td>
+<td colspan="2">Итальянец</td>
+</tr>
+<tr>
+<td>1.111</td>
+<td>167</td>
+<td colspan="2">Китаец</td>
+</tr>
+<tr>
+<td>1.112</td>
+<td>168</td>
+<td colspan="2">Кореец</td>
+</tr>
+<tr>
+<td>1.113</td>
+<td>169</td>
+<td colspan="2">Кубинец</td>
+</tr>
+<tr>
+<td>1.114</td>
+<td>170</td>
+<td colspan="2">Курд</td>
+</tr>
+<tr>
+<td>1.115</td>
+<td>171</td>
+<td colspan="2">Немец</td>
+</tr>
+<tr>
+<td>1.116</td>
+<td>172</td>
+<td colspan="2">Перс</td>
+</tr>
+<tr>
+<td>1.117</td>
+<td>173</td>
+<td colspan="2">Поляк</td>
+</tr>
+<tr>
+<td>1.118</td>
+<td>174</td>
+<td colspan="2">Румын</td>
+</tr>
+<tr>
+<td>1.119</td>
+<td>175</td>
+<td colspan="2">Серб</td>
+</tr>
+<tr>
+<td>1.120</td>
+<td>176</td>
+<td colspan="2">Словак</td>
+</tr>
+<tr>
+<td>1.121</td>
+<td>177</td>
+<td colspan="2">Турок</td>
+</tr>
+<tr>
+<td>1.122</td>
+<td>178</td>
+<td colspan="2">Уйгур</td>
+</tr>
+<tr>
+<td>1.123</td>
+<td>179</td>
+<td colspan="2">Финн</td>
+</tr>
+<tr>
+<td>1.124</td>
+<td>180</td>
+<td colspan="2">Француз</td>
+</tr>
+<tr>
+<td>1.125</td>
+<td>181</td>
+<td colspan="2">Халха-Монгол</td>
+</tr>
+<tr>
+<td>1.126</td>
+<td>182</td>
+<td colspan="2">Хорват</td>
+</tr>
+<tr>
+<td>1.127</td>
+<td>183</td>
+<td colspan="2">Чех</td>
+</tr>
+<tr>
+<td>1.128</td>
+<td>184</td>
+<td colspan="2">Японец</td>
+</tr>
+<tr>
+<td>1.129</td>
+<td>199</td>
+<td colspan="2">Другие национальности</td>
+</tr>
+<tr>
+<td>1.130</td>
+<td>224</td>
+<td colspan="2">Бразилец</td>
+</tr>
+<tr>
+<td>1.131</td>
+<td>240</td>
+<td colspan="2">Датчанин</td>
+</tr>
+<tr>
+<td>1.132</td>
+<td>251</td>
+<td colspan="2">Ирландец</td>
+</tr>
+<tr>
+<td>1.133</td>
+<td>257</td>
+<td colspan="2">Кашмирец</td>
+</tr>
+<tr>
+<td>1.134</td>
+<td>267</td>
+<td colspan="2">Кхмер</td>
+</tr>
+<tr>
+<td>1.135</td>
+<td>272</td>
+<td colspan="2">Македонец</td>
+</tr>
+<tr>
+<td>1.136</td>
+<td>283</td>
+<td colspan="2">Норвежец</td>
+</tr>
+<tr>
+<td>1.137</td>
+<td>303</td>
+<td colspan="2">Таз</td>
+</tr>
+<tr>
+<td>1.138</td>
+<td>322</td>
+<td colspan="2">Швед</td>
+</tr>
+<tr>
+<td>1.139</td>
+<td>500</td>
+<td colspan="2">Дагестанец</td>
+</tr>
+<tr>
+<td>1.140</td>
+<td>501</td>
+<td colspan="2">Лаз</td>
+</tr>
+<tr>
+<td>1.141</td>
+<td>502</td>
+<td colspan="2">Монгол</td>
+</tr>
+<tr>
+<td>1.142</td>
+<td>503</td>
+<td colspan="2">Мадьяр</td>
+</tr>
+<tr>
+<td>1.143</td>
+<td>504</td>
+<td colspan="2">Езди</td>
+</tr>
+<tr>
+<td>1.144</td>
+<td>505</td>
+<td colspan="2">Шибо</td>
+</tr>
+<tr>
+<td>1.145</td>
+<td>506</td>
+<td colspan="2">Шибинец</td>
+</tr>
+<tr>
+<td>1.146</td>
+<td>507</td>
+<td colspan="2">Езид</td>
+</tr>
+<tr>
+<td>1.147</td>
+<td>508</td>
+<td colspan="2">Швейцарец</td>
+</tr>
+<tr>
+<td>1.148</td>
+<td>509</td>
+<td colspan="2">Телеут</td>
+</tr>
+<tr>
+<td>1.149</td>
+<td>510</td>
+<td colspan="2">Догур</td>
+</tr>
+<tr>
+<td>1.150</td>
+<td>511</td>
+<td colspan="2">Эрзя</td>
+</tr>
+<tr>
+<td>1.151</td>
+<td>512</td>
+<td colspan="2">Иранец</td>
+</tr>
+<tr>
+<td>1.152</td>
+<td>513</td>
+<td colspan="2">Мельхи</td>
+</tr>
+<tr>
+<td>1.153</td>
+<td>514</td>
+<td colspan="2">Фарс</td>
+</tr>
+<tr>
+<td>1.154</td>
+<td>515</td>
+<td colspan="2">Канадец</td>
+</tr>
+<tr>
+<td>1.155</td>
+<td>516</td>
+<td colspan="2">Австралиец</td>
+</tr>
+<tr>
+<td>1.156</td>
+<td>517</td>
+<td colspan="2">Ламут</td>
+</tr>
+<tr>
+<td>1.157</td>
+<td>518</td>
+<td colspan="2">Аджарец</td>
+</tr>
+<tr>
+<td>1.158</td>
+<td>519</td>
+<td colspan="2">Кистинец</td>
+</tr>
+<tr>
+<td>1.159</td>
+<td>520</td>
+<td colspan="2">Кумандинец</td>
+</tr>
+<tr>
+<td>1.160</td>
+<td>521</td>
+<td colspan="2">Кашкар</td>
+</tr>
+<tr>
+<td>1.161</td>
+<td>522</td>
+<td colspan="2">Лакец</td>
+</tr>
+<tr>
+<td>1.162</td>
+<td>523</td>
+<td colspan="2">Латгалец</td>
+</tr>
+<tr>
+<td>1.163</td>
+<td>524</td>
+<td colspan="2">Нагайбак</td>
+</tr>
+<tr>
+<td>1.164</td>
+<td>525</td>
+<td colspan="2">Тавлин</td>
+</tr>
+<tr>
+<td>1.165</td>
+<td>526</td>
+<td colspan="2">Таулин</td>
+</tr>
+<tr>
+<td>1.166</td>
+<td>527</td>
+<td colspan="2">Луховец</td>
+</tr>
+<tr>
+<td>1.167</td>
+<td>528</td>
+<td colspan="2">Карагасс</td>
+</tr>
+<tr>
+<td>1.168</td>
+<td>529</td>
+<td colspan="2">Бессараб</td>
+</tr>
+<tr>
+<td>1.169</td>
+<td>530</td>
+<td colspan="2">Камчадал</td>
+</tr>
+<tr>
+<td>1.170</td>
+<td>531</td>
+<td colspan="2">Зырянин</td>
+</tr>
+<tr>
+<td>1.171</td>
+<td>532</td>
+<td colspan="2">Себе</td>
+</tr>
+<tr>
+<td>1.172</td>
+<td>533</td>
+<td colspan="2">Мокша</td>
+</tr>
+<tr>
+<td>1.173</td>
+<td>534</td>
+<td colspan="2">Серохалдей</td>
+</tr>
+<tr>
+<td>1.174</td>
+<td>535</td>
+<td colspan="2">Черкеш</td>
+</tr>
+<tr>
+<td>1.175</td>
+<td>536</td>
+<td colspan="2">Цахорец</td>
+</tr>
+<tr>
+<td>1.176</td>
+<td>537</td>
+<td colspan="2">Хемшили</td>
+</tr>
+<tr>
+<td>1.177</td>
+<td>538</td>
+<td colspan="2">Тоголезец</td>
+</tr>
+<tr>
+<td>1.178</td>
+<td>539</td>
+<td colspan="2">Хемшин</td>
+</tr>
+<tr>
+<td>1.179</td>
+<td>540</td>
+<td colspan="2">Пуштун</td>
+</tr>
+<tr>
+<td>1.180</td>
+<td>541</td>
+<td colspan="2">Караногаец</td>
+</tr>
+<tr>
+<td>1.181</td>
+<td>542</td>
+<td colspan="2">Тунгус</td>
+</tr>
+<tr>
+<td>1.182</td>
+<td>543</td>
+<td colspan="2">Ойрот</td>
+</tr>
+<tr>
+<td>1.183</td>
+<td>544</td>
+<td colspan="2">Сибо</td>
+</tr>
+<tr>
+<td>1.184</td>
+<td>545</td>
+<td colspan="2">Карелофинн</td>
+</tr>
+<tr>
+<td>1.185</td>
+<td>546</td>
+<td colspan="2">Коми-Зырянин</td>
+</tr>
+<tr>
+<td>1.186</td>
+<td>547</td>
+<td colspan="2">Остяк</td>
+</tr>
+<tr>
+<td>1.187</td>
+<td>548</td>
+<td colspan="2">Нымыллан</td>
+</tr>
+<tr>
+<td>1.188</td>
+<td>549</td>
+<td colspan="2">Мелхистинец</td>
+</tr>
+<tr>
+<td>1.189</td>
+<td>550</td>
+<td colspan="2">Солон</td>
+</tr>
+<tr>
+<td>1.190</td>
+<td>551</td>
+<td colspan="2">Таймен</td>
+</tr>
+<tr>
+<td>1.191</td>
+<td>552</td>
+<td colspan="2">Лаосец</td>
+</tr>
+<tr>
+<td>1.192</td>
+<td>553</td>
+<td colspan="2">Друз</td>
+</tr>
+<tr>
+<td>1.193</td>
+<td>554</td>
+<td colspan="2">Ганиец</td>
+</tr>
+<tr>
+<td>1.194</td>
+<td>555</td>
+<td colspan="2">Пакистанец</td>
+</tr>
+<tr>
+<td>1.195</td>
+<td>556</td>
+<td colspan="2">Хазарец</td>
+</tr>
+<tr>
+<td>1.196</td>
+<td>557</td>
+<td colspan="2">Индус</td>
+</tr>
+<tr>
+<td>1.197</td>
+<td>558</td>
+<td colspan="2">Бельгиец</td>
+</tr>
+<tr>
+<td>1.198</td>
+<td>559</td>
+<td colspan="2">Патан</td>
+</tr>
+<tr>
+<td>1.199</td>
+<td>560</td>
+<td colspan="2">Аргентинец</td>
+</tr>
+<tr>
+<td>1.200</td>
+<td>561</td>
+<td colspan="2">Палестинец</td>
+</tr>
+<tr>
+<td>1.201</td>
+<td>562</td>
+<td colspan="2">Алжирец</td>
+</tr>
+<tr>
+<td>1.202</td>
+<td>563</td>
+<td colspan="2">Даур</td>
+</tr>
+<tr>
+<td>1.203</td>
+<td>564</td>
+<td colspan="2">Чадиец</td>
+</tr>
+<tr>
+<td>1.204</td>
+<td>565</td>
+<td colspan="2">Бухар</td>
+</tr>
+<tr>
+<td>1.205</td>
+<td>566</td>
+<td colspan="2">Сибинец</td>
+</tr>
+<tr>
+<td>1.206</td>
+<td>567</td>
+<td colspan="2">Тюрк</td>
+</tr>
+<tr>
+<td>1.207</td>
+<td>568</td>
+<td colspan="2">Угор</td>
+</tr>
+<tr>
+<td>1.208</td>
+<td>569</td>
+<td colspan="2">Сириец</td>
+</tr>
+<tr>
+<td>1.209</td>
+<td>570</td>
+<td colspan="2">Торанчинец</td>
+</tr>
+<tr>
+<td>1.210</td>
+<td>571</td>
+<td colspan="2">Нигериец</td>
+</tr>
+<tr>
+<td>1.211</td>
+<td>572</td>
+<td colspan="2">Египтянин</td>
+</tr>
+<tr>
+<td>1.212</td>
+<td>573</td>
+<td colspan="2">Шотландец</td>
+</tr>
+<tr>
+<td>1.213</td>
+<td>574</td>
+<td colspan="2">Индиец</td>
+</tr>
+<tr>
+<td>1.214</td>
+<td>575</td>
+<td colspan="2">Малагасиец</td>
+</tr>
+<tr>
+<td>1.215</td>
+<td>577</td>
+<td colspan="2">Ганец</td>
+</tr>
+<tr>
+<td>1.216</td>
+<td>578</td>
+<td colspan="2">Португалец</td>
+</tr>
+<tr>
+<td>1.217</td>
+<td>579</td>
+<td colspan="2">Непалец</td>
+</tr>
+<tr>
+<td>1.218</td>
+<td>600</td>
+<td colspan="2">Австралия</td>
+</tr>
+<tr>
+<td>1.219</td>
+<td>602</td>
+<td colspan="2">Австрия</td>
+</tr>
+<tr>
+<td>1.220</td>
+<td>604</td>
+<td colspan="2">Азербайджан</td>
+</tr>
+<tr>
+<td>1.221</td>
+<td>606</td>
+<td colspan="2">Албания</td>
+</tr>
+<tr>
+<td>1.222</td>
+<td>608</td>
+<td colspan="2">Алжир</td>
+</tr>
+<tr>
+<td>1.223</td>
+<td>612</td>
+<td colspan="2">Ангола</td>
+</tr>
+<tr>
+<td>1.224</td>
+<td>618</td>
+<td colspan="2">Аргентина</td>
+</tr>
+<tr>
+<td>1.225</td>
+<td>620</td>
+<td colspan="2">Армения</td>
+</tr>
+<tr>
+<td>1.226</td>
+<td>624</td>
+<td colspan="2">Афганистан</td>
+</tr>
+<tr>
+<td>1.227</td>
+<td>626</td>
+<td colspan="2">Бангладеш</td>
+</tr>
+<tr>
+<td>1.228</td>
+<td>630</td>
+<td colspan="2">Беларусь</td>
+</tr>
+<tr>
+<td>1.229</td>
+<td>634</td>
+<td colspan="2">Бельгия</td>
+</tr>
+<tr>
+<td>1.230</td>
+<td>640</td>
+<td colspan="2">Болгария</td>
+</tr>
+<tr>
+<td>1.231</td>
+<td>660</td>
+<td colspan="2">Великобритания</td>
+</tr>
+<tr>
+<td>1.232</td>
+<td>662</td>
+<td colspan="2">Венгрия</td>
+</tr>
+<tr>
+<td>1.233</td>
+<td>670</td>
+<td colspan="2">Вьетнам</td>
+</tr>
+<tr>
+<td>1.234</td>
+<td>680</td>
+<td colspan="2">Гана</td>
+</tr>
+<tr>
+<td>1.235</td>
+<td>686</td>
+<td colspan="2">Германия</td>
+</tr>
+<tr>
+<td>1.236</td>
+<td>692</td>
+<td colspan="2">Гонконг</td>
+</tr>
+<tr>
+<td>1.237</td>
+<td>696</td>
+<td colspan="2">Греция</td>
+</tr>
+<tr>
+<td>1.238</td>
+<td>698</td>
+<td colspan="2">Грузия</td>
+</tr>
+<tr>
+<td>1.239</td>
+<td>700</td>
+<td colspan="2">Дания</td>
+</tr>
+<tr>
+<td>1.240</td>
+<td>710</td>
+<td colspan="2">Египет</td>
+</tr>
+<tr>
+<td>1.241</td>
+<td>720</td>
+<td colspan="2">Израиль</td>
+</tr>
+<tr>
+<td>1.242</td>
+<td>722</td>
+<td colspan="2">Индия</td>
+</tr>
+<tr>
+<td>1.243</td>
+<td>724</td>
+<td colspan="2">Иордания</td>
+</tr>
+<tr>
+<td>1.244</td>
+<td>726</td>
+<td colspan="2">Ирак</td>
+</tr>
+<tr>
+<td>1.245</td>
+<td>728</td>
+<td colspan="2">Иран</td>
+</tr>
+<tr>
+<td>1.246</td>
+<td>734</td>
+<td colspan="2">Испания</td>
+</tr>
+<tr>
+<td>1.247</td>
+<td>736</td>
+<td colspan="2">Италия</td>
+</tr>
+<tr>
+<td>1.248</td>
+<td>738</td>
+<td colspan="2">Йемен</td>
+</tr>
+<tr>
+<td>1.249</td>
+<td>744</td>
+<td colspan="2">Камбоджа</td>
+</tr>
+<tr>
+<td>1.250</td>
+<td>748</td>
+<td colspan="2">Канада</td>
+</tr>
+<tr>
+<td>1.251</td>
+<td>750</td>
+<td colspan="2">КНДР</td>
+</tr>
+<tr>
+<td>1.252</td>
+<td>752</td>
+<td colspan="2">КНР</td>
+</tr>
+<tr>
+<td>1.253</td>
+<td>756</td>
+<td colspan="2">Конго</td>
+</tr>
+<tr>
+<td>1.254</td>
+<td>762</td>
+<td colspan="2">Куба</td>
+</tr>
+<tr>
+<td>1.255</td>
+<td>766</td>
+<td colspan="2">Кыргызстан</td>
+</tr>
+<tr>
+<td>1.256</td>
+<td>768</td>
+<td colspan="2">Лаос</td>
+</tr>
+<tr>
+<td>1.257</td>
+<td>770</td>
+<td colspan="2">Латвия</td>
+</tr>
+<tr>
+<td>1.258</td>
+<td>774</td>
+<td colspan="2">Ливан</td>
+</tr>
+<tr>
+<td>1.259</td>
+<td>776</td>
+<td colspan="2">Ливия</td>
+</tr>
+<tr>
+<td>1.260</td>
+<td>778</td>
+<td colspan="2">Литва</td>
+</tr>
+<tr>
+<td>1.261</td>
+<td>786</td>
+<td colspan="2">Мадаскар</td>
+</tr>
+<tr>
+<td>1.262</td>
+<td>790</td>
+<td colspan="2">Мали</td>
+</tr>
+<tr>
+<td>1.263</td>
+<td>795</td>
+<td colspan="2">Марокко</td>
+</tr>
+<tr>
+<td>1.264</td>
+<td>798</td>
+<td colspan="2">Мексика</td>
+</tr>
+<tr>
+<td>1.265</td>
+<td>806</td>
+<td colspan="2">Молдова</td>
+</tr>
+<tr>
+<td>1.266</td>
+<td>810</td>
+<td colspan="2">Монголия</td>
+</tr>
+<tr>
+<td>1.267</td>
+<td>818</td>
+<td colspan="2">Нигерия</td>
+</tr>
+<tr>
+<td>1.268</td>
+<td>820</td>
+<td colspan="2">Нидерланды</td>
+</tr>
+<tr>
+<td>1.269</td>
+<td>830</td>
+<td colspan="2">ОАЭ</td>
+</tr>
+<tr>
+<td>1.270</td>
+<td>834</td>
+<td colspan="2">Пакистан</td>
+</tr>
+<tr>
+<td>1.271</td>
+<td>835</td>
+<td colspan="2">Палестина</td>
+</tr>
+<tr>
+<td>1.272</td>
+<td>840</td>
+<td colspan="2">Перу</td>
+</tr>
+<tr>
+<td>1.273</td>
+<td>842</td>
+<td colspan="2">Польша</td>
+</tr>
+<tr>
+<td>1.274</td>
+<td>850</td>
+<td colspan="2">Россия</td>
+</tr>
+<tr>
+<td>1.275</td>
+<td>852</td>
+<td colspan="2">Румыния</td>
+</tr>
+<tr>
+<td>1.276</td>
+<td>866</td>
+<td colspan="2">Сирия</td>
+</tr>
+<tr>
+<td>1.277</td>
+<td>870</td>
+<td colspan="2">Сомали</td>
+</tr>
+<tr>
+<td>1.278</td>
+<td>872</td>
+<td colspan="2">Судан</td>
+</tr>
+<tr>
+<td>1.279</td>
+<td>874</td>
+<td colspan="2">США</td>
+</tr>
+<tr>
+<td>1.280</td>
+<td>876</td>
+<td colspan="2">Сьерра-Леоне</td>
+</tr>
+<tr>
+<td>1.281</td>
+<td>878</td>
+<td colspan="2">Таджикистан</td>
+</tr>
+<tr>
+<td>1.282</td>
+<td>880</td>
+<td colspan="2">Таиланд</td>
+</tr>
+<tr>
+<td>1.283</td>
+<td>892</td>
+<td colspan="2">Туркменистан</td>
+</tr>
+<tr>
+<td>1.284</td>
+<td>894</td>
+<td colspan="2">Турция</td>
+</tr>
+<tr>
+<td>1.285</td>
+<td>896</td>
+<td colspan="2">Узбекистан</td>
+</tr>
+<tr>
+<td>1.286</td>
+<td>898</td>
+<td colspan="2">Украина</td>
+</tr>
+<tr>
+<td>1.287</td>
+<td>900</td>
+<td colspan="2">Филиппины</td>
+</tr>
+<tr>
+<td>1.288</td>
+<td>908</td>
+<td colspan="2">Франция</td>
+</tr>
+<tr>
+<td>1.289</td>
+<td>914</td>
+<td colspan="2">Хорватия</td>
+</tr>
+<tr>
+<td>1.290</td>
+<td>916</td>
+<td colspan="2">Чад</td>
+</tr>
+<tr>
+<td>1.291</td>
+<td>918</td>
+<td colspan="2">Чехия</td>
+</tr>
+<tr>
+<td>1.292</td>
+<td>923</td>
+<td colspan="2">Эфиопия</td>
+</tr>
+<tr>
+<td>1.293</td>
+<td>925</td>
+<td colspan="2">Македония</td>
+</tr>
+<tr>
+<td>1.294</td>
+<td>928</td>
+<td colspan="2">Югославия</td>
+</tr>
+<tr>
+<td>1.295</td>
+<td>930</td>
+<td colspan="2">Южная корея</td>
+</tr>
+<tr>
+<td>1.296</td>
+<td>936</td>
+<td colspan="2">Япония</td>
+</tr>
+<tr>
+<td>1.297</td>
+<td>999</td>
+<td colspan="2">Не указана</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Гражданство»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>370159000</td>
+<td colspan="2">Гражданство</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>385432009</td>
+<td colspan="2">не указано</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>223621005</td>
+<td colspan="2">Австралия</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>223635007</td>
+<td colspan="2">Австрия</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>223646005</td>
+<td colspan="2">Азербайджан</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>223644008</td>
+<td colspan="2">Албания</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>223510005</td>
+<td colspan="2">Алжир</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>224001000</td>
+<td colspan="2">Американское Самоа</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>223356001</td>
+<td colspan="2">Ангилья</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>223544003</td>
+<td colspan="2">Ангола</td>
+</tr>
+<tr>
+<td>1.10</td>
+<td>223659002</td>
+<td colspan="2">Андорра</td>
+</tr>
+<tr>
+<td>1.11</td>
+<td>441670006</td>
+<td colspan="2">Сербия</td>
+</tr>
+<tr>
+<td>1.12</td>
+<td>223698007</td>
+<td colspan="2">Антигуа и Барбуда</td>
+</tr>
+<tr>
+<td>1.13</td>
+<td>223713009</td>
+<td colspan="2">Аргентина</td>
+</tr>
+<tr>
+<td>1.14</td>
+<td>223645009</td>
+<td colspan="2">Армения</td>
+</tr>
+<tr>
+<td>1.15</td>
+<td>223358000</td>
+<td colspan="2">Аруба</td>
+</tr>
+<tr>
+<td>1.16</td>
+<td>223597009</td>
+<td colspan="2">Афганистан</td>
+</tr>
+<tr>
+<td>1.17</td>
+<td>223699004</td>
+<td colspan="2">Багамы</td>
+</tr>
+<tr>
+<td>1.18</td>
+<td>223598004</td>
+<td colspan="2">Бангладеш</td>
+</tr>
+<tr>
+<td>1.19</td>
+<td>223700003</td>
+<td colspan="2">Барбадос</td>
+</tr>
+<tr>
+<td>1.20</td>
+<td>223606004</td>
+<td colspan="2">Бахрейн</td>
+</tr>
+<tr>
+<td>1.21</td>
+<td>223647001</td>
+<td colspan="2">Беларусь</td>
+</tr>
+<tr>
+<td>1.22</td>
+<td>223690000</td>
+<td colspan="2">Белиз</td>
+</tr>
+<tr>
+<td>1.23</td>
+<td>223660007</td>
+<td colspan="2">Бельгия</td>
+</tr>
+<tr>
+<td>1.24</td>
+<td>223553005</td>
+<td colspan="2">Бенин</td>
+</tr>
+<tr>
+<td>1.25</td>
+<td>223360003</td>
+<td colspan="2">Бермуда</td>
+</tr>
+<tr>
+<td>1.26</td>
+<td>223648006</td>
+<td colspan="2">Болгария</td>
+</tr>
+<tr>
+<td>1.27</td>
+<td>223714003</td>
+<td colspan="2">Боливия</td>
+</tr>
+<tr>
+<td>1.28</td>
+<td>223661006</td>
+<td colspan="2">Босния и Герцеговина</td>
+</tr>
+<tr>
+<td>1.29</td>
+<td>223547005</td>
+<td colspan="2">Ботсвана</td>
+</tr>
+<tr>
+<td>1.30</td>
+<td>223715002</td>
+<td colspan="2">Бразилия</td>
+</tr>
+<tr>
+<td>1.31</td>
+<td>223389001</td>
+<td colspan="2">Антильские острова</td>
+</tr>
+<tr>
+<td>1.32</td>
+<td>223586009</td>
+<td colspan="2">Бруней Дар-эс-Салам</td>
+</tr>
+<tr>
+<td>1.33</td>
+<td>223554004</td>
+<td colspan="2">Буркина Фасо</td>
+</tr>
+<tr>
+<td>1.34</td>
+<td>223520000</td>
+<td colspan="2">Бурунди</td>
+</tr>
+<tr>
+<td>1.35</td>
+<td>223599007</td>
+<td colspan="2">Бутан</td>
+</tr>
+<tr>
+<td>1.36</td>
+<td>223630002</td>
+<td colspan="2">Вануату</td>
+</tr>
+<tr>
+<td>1.37</td>
+<td>223682000</td>
+<td colspan="2">Ватикан</td>
+</tr>
+<tr>
+<td>1.38</td>
+<td>223860005</td>
+<td colspan="2">Великобритания</td>
+</tr>
+<tr>
+<td>1.39</td>
+<td>223638009</td>
+<td colspan="2">Венгрия</td>
+</tr>
+<tr>
+<td>1.40</td>
+<td>223724006</td>
+<td colspan="2">Венесуэла</td>
+</tr>
+<tr>
+<td>1.41</td>
+<td>223363001</td>
+<td colspan="2">Виргинские острова (Британия)</td>
+</tr>
+<tr>
+<td>1.42</td>
+<td>224004008</td>
+<td colspan="2">Виргинские острова (США)</td>
+</tr>
+<tr>
+<td>1.43</td>
+<td>223746003</td>
+<td colspan="2">Восточный Тимор</td>
+</tr>
+<tr>
+<td>1.44</td>
+<td>223595001</td>
+<td colspan="2">Вьетнам</td>
+</tr>
+<tr>
+<td>1.45</td>
+<td>223525005</td>
+<td colspan="2">Габон</td>
+</tr>
+<tr>
+<td>1.46</td>
+<td>223705008</td>
+<td colspan="2">Гаити</td>
+</tr>
+<tr>
+<td>1.47</td>
+<td>223719008</td>
+<td colspan="2">Гайана</td>
+</tr>
+<tr>
+<td>1.48</td>
+<td>223569003</td>
+<td colspan="2">Гамбия</td>
+</tr>
+<tr>
+<td>1.49</td>
+<td>223557006</td>
+<td colspan="2">Гана</td>
+</tr>
+<tr>
+<td>1.50</td>
+<td>223379000</td>
+<td colspan="2">Гваделупа</td>
+</tr>
+<tr>
+<td>1.51</td>
+<td>223693003</td>
+<td colspan="2">Гватемала</td>
+</tr>
+<tr>
+<td>1.52</td>
+<td>223558001</td>
+<td colspan="2">Гвинея</td>
+</tr>
+<tr>
+<td>1.53</td>
+<td>223560004</td>
+<td colspan="2">Гвинея-Бисау</td>
+</tr>
+<tr>
+<td>1.54</td>
+<td>223637004</td>
+<td colspan="2">Германия</td>
+</tr>
+<tr>
+<td>1.55</td>
+<td>441648008</td>
+<td colspan="2">Гибралтар</td>
+</tr>
+<tr>
+<td>1.56</td>
+<td>223382005</td>
+<td colspan="2">Гонг Конг</td>
+</tr>
+<tr>
+<td>1.57</td>
+<td>223694009</td>
+<td colspan="2">Гондурас</td>
+</tr>
+<tr>
+<td>1.58</td>
+<td>223704007</td>
+<td colspan="2">Гренада</td>
+</tr>
+<tr>
+<td>1.59</td>
+<td>228904004</td>
+<td colspan="2">Гренландия</td>
+</tr>
+<tr>
+<td>1.60</td>
+<td>223651004</td>
+<td colspan="2">Греция</td>
+</tr>
+<tr>
+<td>1.61</td>
+<td>223375006</td>
+<td colspan="2">Грузия</td>
+</tr>
+<tr>
+<td>1.62</td>
+<td>224009003</td>
+<td colspan="2">Гуам</td>
+</tr>
+<tr>
+<td>1.63</td>
+<td>223663009</td>
+<td colspan="2">Дания</td>
+</tr>
+<tr>
+<td>1.64</td>
+<td>223516004</td>
+<td colspan="2">Джибути</td>
+</tr>
+<tr>
+<td>1.65</td>
+<td>223702006</td>
+<td colspan="2">Доминика</td>
+</tr>
+<tr>
+<td>1.66</td>
+<td>223703001</td>
+<td colspan="2">Доминиканская республика</td>
+</tr>
+<tr>
+<td>1.67</td>
+<td>223511009</td>
+<td colspan="2">Египет</td>
+</tr>
+<tr>
+<td>1.68</td>
+<td>223529004</td>
+<td colspan="2">Заир</td>
+</tr>
+<tr>
+<td>1.69</td>
+<td>223531008</td>
+<td colspan="2">Замбия</td>
+</tr>
+<tr>
+<td>1.70</td>
+<td>409988000</td>
+<td colspan="2">Западная Сахара</td>
+</tr>
+<tr>
+<td>1.71</td>
+<td>223551007</td>
+<td colspan="2">Зимбабве</td>
+</tr>
+<tr>
+<td>1.72</td>
+<td>223609006</td>
+<td colspan="2">Израиль</td>
+</tr>
+<tr>
+<td>1.73</td>
+<td>223600005</td>
+<td colspan="2">Индия</td>
+</tr>
+<tr>
+<td>1.74</td>
+<td>223589002</td>
+<td colspan="2">Индонезия</td>
+</tr>
+<tr>
+<td>1.75</td>
+<td>223610001</td>
+<td colspan="2">Иордания</td>
+</tr>
+<tr>
+<td>1.76</td>
+<td>223608003</td>
+<td colspan="2">Ирак</td>
+</tr>
+<tr>
+<td>1.77</td>
+<td>223607008</td>
+<td colspan="2">Иран</td>
+</tr>
+<tr>
+<td>1.78</td>
+<td>223676003</td>
+<td colspan="2">Ирландия</td>
+</tr>
+<tr>
+<td>1.79</td>
+<td>223667005</td>
+<td colspan="2">Исландия</td>
+</tr>
+<tr>
+<td>1.80</td>
+<td>223680008</td>
+<td colspan="2">Испания</td>
+</tr>
+<tr>
+<td>1.81</td>
+<td>223668000</td>
+<td colspan="2">Италия</td>
+</tr>
+<tr>
+<td>1.82</td>
+<td>223619000</td>
+<td colspan="2">Йемен</td>
+</tr>
+<tr>
+<td>1.83</td>
+<td>223555003</td>
+<td colspan="2">Кабо Верде</td>
+</tr>
+<tr>
+<td>1.84</td>
+<td>223573000</td>
+<td colspan="2">Казахстан</td>
+</tr>
+<tr>
+<td>1.85</td>
+<td>223588005</td>
+<td colspan="2">Камбоджа</td>
+</tr>
+<tr>
+<td>1.86</td>
+<td>223521001</td>
+<td colspan="2">Камерун</td>
+</tr>
+<tr>
+<td>1.87</td>
+<td>223686002</td>
+<td colspan="2">Канада</td>
+</tr>
+<tr>
+<td>1.88</td>
+<td>223615006</td>
+<td colspan="2">Катар</td>
+</tr>
+<tr>
+<td>1.89</td>
+<td>223534000</td>
+<td colspan="2">Кения</td>
+</tr>
+<tr>
+<td>1.90</td>
+<td>223649003</td>
+<td colspan="2">Кипр</td>
+</tr>
+<tr>
+<td>1.91</td>
+<td>223623008</td>
+<td colspan="2">Кирибати</td>
+</tr>
+<tr>
+<td>1.92</td>
+<td>223581004</td>
+<td colspan="2">Китай</td>
+</tr>
+<tr>
+<td>1.93</td>
+<td>223717005</td>
+<td colspan="2">Колумбия</td>
+</tr>
+<tr>
+<td>1.94</td>
+<td>223533006</td>
+<td colspan="2">Коморы</td>
+</tr>
+<tr>
+<td>1.95</td>
+<td>223524009</td>
+<td colspan="2">Конго</td>
+</tr>
+<tr>
+<td>1.96</td>
+<td>223582006</td>
+<td colspan="2">Корея, Демократическая Народная Республика</td>
+</tr>
+<tr>
+<td>1.97</td>
+<td>223584007</td>
+<td colspan="2">Корея, республика</td>
+</tr>
+<tr>
+<td>1.98</td>
+<td>223691001</td>
+<td colspan="2">Коста-Рика</td>
+</tr>
+<tr>
+<td>1.99</td>
+<td>223561000</td>
+<td colspan="2">Кот-д’Ивуар</td>
+</tr>
+<tr>
+<td>1.100</td>
+<td>223701004</td>
+<td colspan="2">Куба</td>
+</tr>
+<tr>
+<td>1.101</td>
+<td>223611002</td>
+<td colspan="2">Кувейт</td>
+</tr>
+<tr>
+<td>1.102</td>
+<td>223574006</td>
+<td colspan="2">Кыргызстан</td>
+</tr>
+<tr>
+<td>1.103</td>
+<td>223590006</td>
+<td colspan="2">Лаос, народная демократическая республика</td>
+</tr>
+<tr>
+<td>1.104</td>
+<td>223652006</td>
+<td colspan="2">Латвия</td>
+</tr>
+<tr>
+<td>1.105</td>
+<td>223548000</td>
+<td colspan="2">Лесото</td>
+</tr>
+<tr>
+<td>1.106</td>
+<td>223562007</td>
+<td colspan="2">Либерия</td>
+</tr>
+<tr>
+<td>1.107</td>
+<td>223612009</td>
+<td colspan="2">Ливан</td>
+</tr>
+<tr>
+<td>1.108</td>
+<td>223512002</td>
+<td colspan="2">Ливийская Арабская Джамахирия</td>
+</tr>
+<tr>
+<td>1.109</td>
+<td>223653001</td>
+<td colspan="2">Литва</td>
+</tr>
+<tr>
+<td>1.110</td>
+<td>223639001</td>
+<td colspan="2">Лихтенштейн</td>
+</tr>
+<tr>
+<td>1.111</td>
+<td>223669008</td>
+<td colspan="2">Люксембург</td>
+</tr>
+<tr>
+<td>1.112</td>
+<td>223541006</td>
+<td colspan="2">Маврикий</td>
+</tr>
+<tr>
+<td>1.113</td>
+<td>223564008</td>
+<td colspan="2">Мавритания</td>
+</tr>
+<tr>
+<td>1.114</td>
+<td>223535004</td>
+<td colspan="2">Мадагаскар</td>
+</tr>
+<tr>
+<td>1.115</td>
+<td>704603002</td>
+<td colspan="2">Макао</td>
+</tr>
+<tr>
+<td>1.116</td>
+<td>439341006</td>
+<td colspan="2">Македония, бывшая Югославская Республика</td>
+</tr>
+<tr>
+<td>1.117</td>
+<td>223540007</td>
+<td colspan="2">Малави</td>
+</tr>
+<tr>
+<td>1.118</td>
+<td>223591005</td>
+<td colspan="2">Малайзия</td>
+</tr>
+<tr>
+<td>1.119</td>
+<td>223563002</td>
+<td colspan="2">Мали</td>
+</tr>
+<tr>
+<td>1.120</td>
+<td>223601009</td>
+<td colspan="2">Мальдивы</td>
+</tr>
+<tr>
+<td>1.121</td>
+<td>223670009</td>
+<td colspan="2">Мальта</td>
+</tr>
+<tr>
+<td>1.122</td>
+<td>223513007</td>
+<td colspan="2">Марокко</td>
+</tr>
+<tr>
+<td>1.123</td>
+<td>223390005</td>
+<td colspan="2">Мартиника</td>
+</tr>
+<tr>
+<td>1.124</td>
+<td>441608000</td>
+<td colspan="2">Маршалловы острова</td>
+</tr>
+<tr>
+<td>1.125</td>
+<td>223687006</td>
+<td colspan="2">Мексика</td>
+</tr>
+<tr>
+<td>1.126</td>
+<td>441580000</td>
+<td colspan="2">Микронезия, Федерация Штатов</td>
+</tr>
+<tr>
+<td>1.127</td>
+<td>223542004</td>
+<td colspan="2">Мозамбик</td>
+</tr>
+<tr>
+<td>1.128</td>
+<td>704564001</td>
+<td colspan="2">Молдова, Республика</td>
+</tr>
+<tr>
+<td>1.129</td>
+<td>223671008</td>
+<td colspan="2">Монако</td>
+</tr>
+<tr>
+<td>1.130</td>
+<td>223575007</td>
+<td colspan="2">Монголия</td>
+</tr>
+<tr>
+<td>1.131</td>
+<td>223391009</td>
+<td colspan="2">Монтсеррат</td>
+</tr>
+<tr>
+<td>1.132</td>
+<td>223587000</td>
+<td colspan="2">Мьянма (Бурма)</td>
+</tr>
+<tr>
+<td>1.133</td>
+<td>223545002</td>
+<td colspan="2">Намибия</td>
+</tr>
+<tr>
+<td>1.134</td>
+<td>223624002</td>
+<td colspan="2">Науру</td>
+</tr>
+<tr>
+<td>1.135</td>
+<td>223602002</td>
+<td colspan="2">Непал</td>
+</tr>
+<tr>
+<td>1.136</td>
+<td>223526006</td>
+<td colspan="2">Нигер</td>
+</tr>
+<tr>
+<td>1.137</td>
+<td>223565009</td>
+<td colspan="2">Нигерия</td>
+</tr>
+<tr>
+<td>1.138</td>
+<td>442522008</td>
+<td colspan="2">Черногория</td>
+</tr>
+<tr>
+<td>1.139</td>
+<td>223672001</td>
+<td colspan="2">Нидерланды</td>
+</tr>
+<tr>
+<td>1.140</td>
+<td>223695005</td>
+<td colspan="2">Никарагуа</td>
+</tr>
+<tr>
+<td>1.141</td>
+<td>297604005</td>
+<td colspan="2">Ниуэ</td>
+</tr>
+<tr>
+<td>1.142</td>
+<td>223625001</td>
+<td colspan="2">Новая Зеландия</td>
+</tr>
+<tr>
+<td>1.143</td>
+<td>223393007</td>
+<td colspan="2">Новая Каледония</td>
+</tr>
+<tr>
+<td>1.144</td>
+<td>223673006</td>
+<td colspan="2">Норвегия</td>
+</tr>
+<tr>
+<td>1.145</td>
+<td>223891004</td>
+<td colspan="2">Норфолк, остров</td>
+</tr>
+<tr>
+<td>1.146</td>
+<td>223618008</td>
+<td colspan="2">Объединённые Арабские Эмираты</td>
+</tr>
+<tr>
+<td>1.147</td>
+<td>223613004</td>
+<td colspan="2">Оман</td>
+</tr>
+<tr>
+<td>1.148</td>
+<td>223603007</td>
+<td colspan="2">Пакистан</td>
+</tr>
+<tr>
+<td>1.149</td>
+<td>315497008</td>
+<td colspan="2">Палестина</td>
+</tr>
+<tr>
+<td>1.150</td>
+<td>223696006</td>
+<td colspan="2">Панама</td>
+</tr>
+<tr>
+<td>1.151</td>
+<td>223626000</td>
+<td colspan="2">Папуа Новая Гвинея</td>
+</tr>
+<tr>
+<td>1.152</td>
+<td>223720002</td>
+<td colspan="2">Парагвай</td>
+</tr>
+<tr>
+<td>1.153</td>
+<td>223721003</td>
+<td colspan="2">Перу</td>
+</tr>
+<tr>
+<td>1.154</td>
+<td>223640004</td>
+<td colspan="2">Польша</td>
+</tr>
+<tr>
+<td>1.155</td>
+<td>223675004</td>
+<td colspan="2">Португалия</td>
+</tr>
+<tr>
+<td>1.156</td>
+<td>223707000</td>
+<td colspan="2">Пуэрто Рико</td>
+</tr>
+<tr>
+<td>1.157</td>
+<td>223397008</td>
+<td colspan="2">Реюньон</td>
+</tr>
+<tr>
+<td>1.158</td>
+<td>223656009</td>
+<td colspan="2">Российская Федерация</td>
+</tr>
+<tr>
+<td>1.159</td>
+<td>223527002</td>
+<td colspan="2">Руанда</td>
+</tr>
+<tr>
+<td>1.160</td>
+<td>223655008</td>
+<td colspan="2">Румыния</td>
+</tr>
+<tr>
+<td>1.161</td>
+<td>224001000</td>
+<td colspan="2">Самоа</td>
+</tr>
+<tr>
+<td>1.162</td>
+<td>223677007</td>
+<td colspan="2">Сан Марино</td>
+</tr>
+<tr>
+<td>1.163</td>
+<td>223566005</td>
+<td colspan="2">Сан-Томе и Принсипе</td>
+</tr>
+<tr>
+<td>1.164</td>
+<td>223616007</td>
+<td colspan="2">Саудовская Аравия</td>
+</tr>
+<tr>
+<td>1.165</td>
+<td>223550008</td>
+<td colspan="2">Свазиленд</td>
+</tr>
+<tr>
+<td>1.166</td>
+<td>223536003</td>
+<td colspan="2">Сейшелы</td>
+</tr>
+<tr>
+<td>1.167</td>
+<td>223567001</td>
+<td colspan="2">Сенегал</td>
+</tr>
+<tr>
+<td>1.168</td>
+<td>223567001</td>
+<td colspan="2">Сент-Винсент и Гренадины</td>
+</tr>
+<tr>
+<td>1.169</td>
+<td>223708005</td>
+<td colspan="2">Сент-Кит и Нэвис</td>
+</tr>
+<tr>
+<td>1.170</td>
+<td>223709002</td>
+<td colspan="2">Сент-Люсия</td>
+</tr>
+<tr>
+<td>1.171</td>
+<td>223593008</td>
+<td colspan="2">Сингапур</td>
+</tr>
+<tr>
+<td>1.172</td>
+<td>223617003</td>
+<td colspan="2">Сирия</td>
+</tr>
+<tr>
+<td>1.173</td>
+<td>223641000</td>
+<td colspan="2">Словакия</td>
+</tr>
+<tr>
+<td>1.174</td>
+<td>223679005</td>
+<td colspan="2">Словения</td>
+</tr>
+<tr>
+<td>1.175</td>
+<td>223688001</td>
+<td colspan="2">Соединённые Штаты Америки</td>
+</tr>
+<tr>
+<td>1.176</td>
+<td>439767004</td>
+<td colspan="2">Питкэрн</td>
+</tr>
+<tr>
+<td>1.177</td>
+<td>223627009</td>
+<td colspan="2">Соломоновы острова</td>
+</tr>
+<tr>
+<td>1.178</td>
+<td>223528007</td>
+<td colspan="2">Сомали</td>
+</tr>
+<tr>
+<td>1.179</td>
+<td>223518003</td>
+<td colspan="2">Судан</td>
+</tr>
+<tr>
+<td>1.180</td>
+<td>223722005</td>
+<td colspan="2">Суринам</td>
+</tr>
+<tr>
+<td>1.181</td>
+<td>223568006</td>
+<td colspan="2">Сьерра Леоне</td>
+</tr>
+<tr>
+<td>1.182</td>
+<td>223577004</td>
+<td colspan="2">Таджикистан</td>
+</tr>
+<tr>
+<td>1.183</td>
+<td>223594002</td>
+<td colspan="2">Таиланд</td>
+</tr>
+<tr>
+<td>1.184</td>
+<td>186040000</td>
+<td colspan="2">Кука, остров</td>
+</tr>
+<tr>
+<td>1.185</td>
+<td>223537007</td>
+<td colspan="2">Танзания</td>
+</tr>
+<tr>
+<td>1.186</td>
+<td>223996008</td>
+<td colspan="2">Теркс и Кайкос, острова</td>
+</tr>
+<tr>
+<td>1.187</td>
+<td>223570002</td>
+<td colspan="2">Того</td>
+</tr>
+<tr>
+<td>1.188</td>
+<td>186042008</td>
+<td colspan="2">Токелау</td>
+</tr>
+<tr>
+<td>1.189</td>
+<td>223628004</td>
+<td colspan="2">Тонга</td>
+</tr>
+<tr>
+<td>1.190</td>
+<td>223711006</td>
+<td colspan="2">Тринидад и Тобаго</td>
+</tr>
+<tr>
+<td>1.191</td>
+<td>223629007</td>
+<td colspan="2">Тувалу</td>
+</tr>
+<tr>
+<td>1.192</td>
+<td>223514001</td>
+<td colspan="2">Тунис</td>
+</tr>
+<tr>
+<td>1.193</td>
+<td>223578009</td>
+<td colspan="2">Туркменистан</td>
+</tr>
+<tr>
+<td>1.194</td>
+<td>278900006</td>
+<td colspan="2">Турция</td>
+</tr>
+<tr>
+<td>1.195</td>
+<td>223538002</td>
+<td colspan="2">Уганда</td>
+</tr>
+<tr>
+<td>1.196</td>
+<td>223579001</td>
+<td colspan="2">Узбекистан</td>
+</tr>
+<tr>
+<td>1.197</td>
+<td>223657000</td>
+<td colspan="2">Украина</td>
+</tr>
+<tr>
+<td>1.198</td>
+<td>223410008</td>
+<td colspan="2">Уоллис и Футуна, острова</td>
+</tr>
+<tr>
+<td>1.199</td>
+<td>223723000</td>
+<td colspan="2">Уругвай</td>
+</tr>
+<tr>
+<td>1.200</td>
+<td>297480005</td>
+<td colspan="2">Фарерские острова</td>
+</tr>
+<tr>
+<td>1.201</td>
+<td>223622003</td>
+<td colspan="2">Фиджи</td>
+</tr>
+<tr>
+<td>1.202</td>
+<td>223592003</td>
+<td colspan="2">Филиппины</td>
+</tr>
+<tr>
+<td>1.203</td>
+<td>223665002</td>
+<td colspan="2">Финляндия</td>
+</tr>
+<tr>
+<td>1.204</td>
+<td>223992005</td>
+<td colspan="2">Фолклендские (Мальвинские) острова</td>
+</tr>
+<tr>
+<td>1.205</td>
+<td>223666001</td>
+<td colspan="2">Франция</td>
+</tr>
+<tr>
+<td>1.206</td>
+<td>223853004</td>
+<td colspan="2">Французская Гвиана</td>
+</tr>
+<tr>
+<td>1.207</td>
+<td>223372009</td>
+<td colspan="2">Французская Полинезия</td>
+</tr>
+<tr>
+<td>1.208</td>
+<td>297571008</td>
+<td colspan="2">Острова Сев. Марианны</td>
+</tr>
+<tr>
+<td>1.209</td>
+<td>223662004</td>
+<td colspan="2">Хорватия</td>
+</tr>
+<tr>
+<td>1.210</td>
+<td>223519006</td>
+<td colspan="2">Центрально-Африканская Республика</td>
+</tr>
+<tr>
+<td>1.211</td>
+<td>223523003</td>
+<td colspan="2">Чад</td>
+</tr>
+<tr>
+<td>1.212</td>
+<td>223636008</td>
+<td colspan="2">Чешская республика</td>
+</tr>
+<tr>
+<td>1.213</td>
+<td>223716001</td>
+<td colspan="2">Чили</td>
+</tr>
+<tr>
+<td>1.214</td>
+<td>223642007</td>
+<td colspan="2">Швейцария</td>
+</tr>
+<tr>
+<td>1.215</td>
+<td>223681007</td>
+<td colspan="2">Швеция</td>
+</tr>
+<tr>
+<td>1.216</td>
+<td>223604001</td>
+<td colspan="2">Шри-Ланка</td>
+</tr>
+<tr>
+<td>1.217</td>
+<td>223718000</td>
+<td colspan="2">Эквадор</td>
+</tr>
+<tr>
+<td>1.218</td>
+<td>223556002</td>
+<td colspan="2">Экваториальная Гвинея</td>
+</tr>
+<tr>
+<td>1.219</td>
+<td>223692008</td>
+<td colspan="2">Сальвадор</td>
+</tr>
+<tr>
+<td>1.220</td>
+<td>223623008</td>
+<td colspan="2">остров Рождества</td>
+</tr>
+<tr>
+<td>1.221</td>
+<td>223650003</td>
+<td colspan="2">Эстония</td>
+</tr>
+<tr>
+<td>1.222</td>
+<td>223517008</td>
+<td colspan="2">Эфиопия</td>
+</tr>
+<tr>
+<td>1.223</td>
+<td>223684004</td>
+<td colspan="2">Югославия</td>
+</tr>
+<tr>
+<td>1.224</td>
+<td>223549008</td>
+<td colspan="2">Южно Африканская Республика</td>
+</tr>
+<tr>
+<td>1.225</td>
+<td>223778006</td>
+<td colspan="2">Кокосовые, острова</td>
+</tr>
+<tr>
+<td>1.226</td>
+<td>223706009</td>
+<td colspan="2">Ямайка</td>
+</tr>
+<tr>
+<td>1.227</td>
+<td>223583001</td>
+<td colspan="2">Япония</td>
+</tr>
+<tr>
+<td>1.228</td>
+<td>223367000</td>
+<td colspan="2">Чаннел, острова</td>
+</tr>
+<tr>
+<td>1.229</td>
+<td>223912006</td>
+<td colspan="2">Мэн, остров</td>
+</tr>
+<tr>
+<td>1.230</td>
+<td>224010008</td>
+<td colspan="2">Уэйк, остров</td>
+</tr>
+<tr>
+<td>1.231</td>
+<td>136</td>
+<td colspan="2">Кайманские острова</td>
+</tr>
+<tr>
+<td>1.232</td>
+<td>274</td>
+<td colspan="2">Сектор Газа</td>
+</tr>
+<tr>
+<td>1.233</td>
+<td>396</td>
+<td colspan="2">Джонстон, остров</td>
+</tr>
+<tr>
+<td>1.234</td>
+<td>488</td>
+<td colspan="2">Мидуэй</td>
+</tr>
+<tr>
+<td>1.235</td>
+<td>585</td>
+<td colspan="2">Тихоокеанские острова</td>
+</tr>
+<tr>
+<td>1.236</td>
+<td>654</td>
+<td colspan="2">Св. Елены, остров</td>
+</tr>
+<tr>
+<td>1.237</td>
+<td>666</td>
+<td colspan="2">Сен-Пьер и Микелон</td>
+</tr>
+<tr>
+<td>1.238</td>
+<td>744</td>
+<td colspan="2">Свальбард</td>
+</tr>
+<tr>
+<td>1.239</td>
+<td>998</td>
+<td colspan="2">Казахская ССР</td>
+</tr>
+<tr>
+<td>1.240</td>
+<td>990</td>
+<td colspan="2">Лицо без гражданства</td>
+</tr>
+<tr>
+<td>1.241</td>
+<td>414361006</td>
+<td colspan="2">Заграница</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Заключение о годности к управлению транспортом»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>397745006</td>
+<td colspan="2">Заключение противопоказания</td>
+</tr>
+<tr>
+<td rowspan="2">1.1</td>
+<td>371150009</td>
+<td>годен</td>
+<td rowspan="2">к управлению троллейбусами и трамваями</td>
+</tr>
+<tr>
+<td>300635000</td>
+<td>не годен</td>
+</tr>
+<tr>
+<td rowspan="2">1.2</td>
+<td>371150009</td>
+<td>годен</td>
+<td rowspan="2">к управлению автомобилями без ограничения максимального веса и автобусами без ограничения вместимости пассажиров «А», «В», «С», «D», «ВЕ», «СЕ», «DЕ», подкатегорий «А1, В1, С1, D1, С1Е и D1Е», а также трамваями и троллейбусами</td>
+</tr>
+<tr>
+<td>300635000</td>
+<td>не годен</td>
+</tr>
+<tr>
+<td rowspan="2">1.3</td>
+<td>371150009</td>
+<td>годен</td>
+<td rowspan="2">к управлению индивидуальным автомобилем категории «В» без права работы по найму</td>
+</tr>
+<tr>
+<td>300635000</td>
+<td>не годен</td>
+</tr>
+<tr>
+<td rowspan="2">1.4</td>
+<td>371150009</td>
+<td>годен</td>
+<td rowspan="2">к управлению автомобилем с ручным управлением</td>
+</tr>
+<tr>
+<td>300635000</td>
+<td>не годен</td>
+</tr>
+<tr>
+<td rowspan="2">1.5</td>
+<td>371150009</td>
+<td>годен</td>
+<td rowspan="2">к управлению мотоциклом, мотороллером (категории «А»)</td>
+</tr>
+<tr>
+<td>300635000</td>
+<td>не годен</td>
+</tr>
+<tr>
+<td rowspan="2">1.6</td>
+<td>371150009</td>
+<td>годен</td>
+<td rowspan="2">к управлению мотоколяской</td>
+</tr>
+<tr>
+<td>300635000</td>
+<td>не годен</td>
+</tr>
+<tr>
+<td rowspan="2">1.7</td>
+<td>300640008</td>
+<td>годен</td>
+<td rowspan="2">к управлению мопедом</td>
+</tr>
+<tr>
+<td>300641007</td>
+<td>не годен</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Виды идентификационных бейджов»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>372039005</td>
+<td colspan="2">Идентификационный бейдж</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>54662009</td>
+<td colspan="2">зеленый</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>371244009</td>
+<td colspan="2">желтый</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>386713009</td>
+<td colspan="2">красный</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Использование радиомодификаторов»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>1111111</td>
+<td colspan="2">Использование радиомодификаторов</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>18678000</td>
+<td colspan="2">радиомодификатор- гипербарическая оксигенация</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>45643008</td>
+<td colspan="2">радиомодификатор - электроноакцепторное соединение</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>266694003</td>
+<td colspan="2">радиомодификатор-гипертермия</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>2222222</td>
+<td colspan="2">радиомодификатор-гипоксия</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>386329003</td>
+<td colspan="2">радиомодификатор-гипотермия</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>18629005</td>
+<td colspan="2">радиомодификатор-лекарственные препараты</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>734544007</td>
+<td colspan="2">радиомодификатор-иммуномодуляторы</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>349358000</td>
+<td colspan="2">радиофармпрепараты</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>226275003</td>
+<td colspan="2">Антиоксидантный комплекс</td>
+</tr>
+<tr>
+<td>1.10</td>
+<td>169299004</td>
+<td colspan="2">сочетание радиомодификаторов</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Исход лечения пациента»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>182985004</td>
+<td colspan="2">Исход лечения пациента</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>371001000</td>
+<td colspan="2">выздоровление</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>268910001</td>
+<td colspan="2">улучшение</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>359748005</td>
+<td colspan="2">без перемен</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>271299001</td>
+<td colspan="2">ухудшение</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>397709008</td>
+<td colspan="2">умер</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Исход лечения больного туберкулезом»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>385676005</td>
+<td colspan="2">Исход лечения больного туберкулезом</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>371001000</td>
+<td colspan="2">выздоровление</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>182992009</td>
+<td colspan="2">лечение завершено</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>266721009</td>
+<td colspan="2">неудача лечения</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>129836000</td>
+<td colspan="2">нарушения режима лечения</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>107724000</td>
+<td colspan="2">переведен</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>263703002</td>
+<td colspan="2">переведен в категорию IV</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>397709008</td>
+<td colspan="2">умер</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Исход обращения»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>385676005</td>
+<td colspan="2">Исход обращения</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>371001000</td>
+<td colspan="2">выздоровление</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>359748005</td>
+<td colspan="2">без перемен</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>268910001</td>
+<td colspan="2">улучшение</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>32485007</td>
+<td colspan="2">госпитализация</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>307378001</td>
+<td colspan="2">направлен на медико-социальную экспертизу</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>397709008</td>
+<td colspan="2">умер</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>105480006</td>
+<td colspan="2">отказ больного</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>184081006</td>
+<td colspan="2">выезд</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>713404003</td>
+<td colspan="2">привит</td>
+</tr>
+<tr>
+<td>1.10</td>
+<td>266714009</td>
+<td colspan="2">продолжение случая поликлинического обращения</td>
+</tr>
+<tr>
+<td>1.11</td>
+<td>306228005</td>
+<td colspan="2">направлен в консультативно-диагностическую помощь</td>
+</tr>
+<tr>
+<td>2</td>
+<td>3457005</td>
+<td colspan="2">из них направлены</td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>306228005</td>
+<td colspan="2">консультативно-диагностическая помощь</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>8888800</td>
+<td colspan="2">в противотуберкулезную организацию</td>
+</tr>
+<tr>
+<td>2.3</td>
+<td>183529009</td>
+<td colspan="2">к онкологу</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Исход пребывания новорожденного»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>364587008</td>
+<td colspan="2">Исход пребывания новорожденного:</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>391181005</td>
+<td colspan="2">умер в родильном отделении</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>713202001</td>
+<td colspan="2">мертворожденный антенатальный период</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>237362003</td>
+<td colspan="2">мертворожденный интранатальный период</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Исход пребывания пациента»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>129274004</td>
+<td colspan="2">Исход пребывания пациента</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>308283009</td>
+<td colspan="2">выписан</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>184297005</td>
+<td colspan="2">умер</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>37729005</td>
+<td colspan="2">переведен из регистра медицинской организации</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>306560001</td>
+<td colspan="2">самовольный уход</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Локализация и форма туберкулеза»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>257880008</td>
+<td colspan="2">Локализация и форма туберкулеза</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>154283005</td>
+<td colspan="2">легочный</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>154283005</td>
+<td colspan="2">сочетанный с внелегочной</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>423997002</td>
+<td colspan="2">внелегочный</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Место родов»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>169812000</td>
+<td colspan="2">Место родов</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>394573001</td>
+<td colspan="2">в стационаре (родильный дом)</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>169813005</td>
+<td colspan="2">на дому</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>74964007</td>
+<td colspan="2">в другом месте</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Место смерти»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>313384009</td>
+<td colspan="2">Место смерти</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>183676005</td>
+<td colspan="2">в стационаре</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>184298000</td>
+<td colspan="2">вне стационара</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>700215003</td>
+<td colspan="2">на дому</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Метод подтверждения диагноза»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>59156000</td>
+<td colspan="2">Метод подтверждения диагноза</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>703529000</td>
+<td colspan="2">морфологический</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>24508002</td>
+<td colspan="2">цитологический</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>25163005</td>
+<td colspan="2">рентгенологический</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>373205008</td>
+<td colspan="2">изотопный</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>363687006</td>
+<td colspan="2">эндоскопический</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>16310003</td>
+<td colspan="2">ультразвуковое исследование</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>77477000</td>
+<td colspan="2">компьютерная томография</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>39154008</td>
+<td colspan="2">только клинический</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>29240004</td>
+<td colspan="2">вскрытие</td>
+</tr>
+<tr>
+<td>1.10</td>
+<td>367401004</td>
+<td colspan="2">миелограмма</td>
+</tr>
+<tr>
+<td>1.11</td>
+<td>414466002</td>
+<td colspan="2">иммунофенотипирование</td>
+</tr>
+<tr>
+<td>1.12</td>
+<td>702664007</td>
+<td colspan="2">иммунологический</td>
+</tr>
+<tr>
+<td>1.13</td>
+<td>708178001</td>
+<td colspan="2">цитогенетика</td>
+</tr>
+<tr>
+<td>1.14</td>
+<td>52744009</td>
+<td colspan="2">цитохимия</td>
+</tr>
+<tr>
+<td>1.15</td>
+<td>250724005</td>
+<td colspan="2">лабораторная диагностика (онкомаркеры)</td>
+</tr>
+<tr>
+<td>1.16</td>
+<td>450436003</td>
+<td colspan="2">позитронно-эмиссионная компьютерная томография</td>
+</tr>
+<tr>
+<td>1.17</td>
+<td>405825005</td>
+<td colspan="2">молекулярно-генетическое исследование</td>
+</tr>
+<tr>
+<td>1.18</td>
+<td>117617002</td>
+<td colspan="2">иммуногистохимическое исследование</td>
+</tr>
+<tr>
+<td>1.19</td>
+<td>252376000</td>
+<td colspan="2">М-градиент в крови и (или) моче</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Методы лучевой терапии»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>385798007</td>
+<td colspan="2">Методы лучевой терапии:</td>
+</tr>
+<tr>
+<td>2</td>
+<td>6666660</td>
+<td colspan="2">Непрерывная</td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>399180008</td>
+<td colspan="2">внутритканевая</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>169298007</td>
+<td colspan="2">внутриполостная</td>
+</tr>
+<tr>
+<td>2.3</td>
+<td>228698009</td>
+<td colspan="2">I131</td>
+</tr>
+<tr>
+<td>2.4</td>
+<td>228702008</td>
+<td colspan="2">Au198</td>
+</tr>
+<tr>
+<td>3</td>
+<td>7777770</td>
+<td colspan="2">Фракционирование</td>
+</tr>
+<tr>
+<td>3.1</td>
+<td>8888880</td>
+<td colspan="2">традиционное</td>
+</tr>
+<tr>
+<td>3.2</td>
+<td>9999990</td>
+<td colspan="2">со сквозным курсом</td>
+</tr>
+<tr>
+<td>3.3</td>
+<td>1111100</td>
+<td colspan="2">с расщепленным курсом</td>
+</tr>
+<tr>
+<td>4</td>
+<td>2222200</td>
+<td colspan="2">Фракционирование нетрадиционное</td>
+</tr>
+<tr>
+<td>4.1</td>
+<td>3333300</td>
+<td colspan="2">дневное дробление дозы</td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>4444400</td>
+<td colspan="2">укрупненное</td>
+</tr>
+<tr>
+<td>4.3</td>
+<td>5555500</td>
+<td colspan="2">динамическое</td>
+</tr>
+<tr>
+<td>4.4</td>
+<td>6666600</td>
+<td colspan="2">фракцирование лучевой терапии – крупное (&gt;5ГР</td>
+</tr>
+<tr>
+<td>5</td>
+<td>169291001</td>
+<td colspan="2">Лучевая терапия:</td>
+</tr>
+<tr>
+<td>5.1</td>
+<td>47479005</td>
+<td colspan="2">тотальная</td>
+</tr>
+<tr>
+<td>5.2</td>
+<td>39646005</td>
+<td colspan="2">субтотальная</td>
+</tr>
+<tr>
+<td>5.3</td>
+<td>7777700</td>
+<td colspan="2">с неравномерным облучением мишени</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Направление»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>721927009</td>
+<td colspan="2">Направление</td>
+</tr>
+<tr>
+<td>2</td>
+<td>302199004</td>
+<td colspan="2">Обследование (если необходимо)</td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>63161005</td>
+<td colspan="2">первичное</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>769410007</td>
+<td colspan="2">повторное</td>
+</tr>
+<tr>
+<td>3</td>
+<td>721963009</td>
+<td colspan="2">Заказ на исследование (если необходимо)</td>
+</tr>
+<tr>
+<td>3.1</td>
+<td>397943006</td>
+<td colspan="2">плановое</td>
+</tr>
+<tr>
+<td>3.2</td>
+<td>25876001</td>
+<td colspan="2">экстренное</td>
+</tr>
+<tr>
+<td>4</td>
+<td>309050000</td>
+<td colspan="2">Материал (для лабораторных услуг)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Метод типирования (применимо при трансфузии)»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>272395006</td>
+<td colspan="2">Метод типирования (применимо при трансфузии)</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>5857002</td>
+<td colspan="2">микролимфоцитотоксический тест</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>446272009</td>
+<td colspan="2">гепаринизированная кровь</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>708049000</td>
+<td colspan="2">кровь с этилендиаминтетрауксусной кислотой</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>258113000</td>
+<td colspan="2">SSP</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>726448002</td>
+<td colspan="2">SBT</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>258112005</td>
+<td colspan="2">SSО</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Показания к обследованию (применимо для микробиологических исследований)»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>432678004</td>
+<td colspan="2">Показания к обследованию (применимо для микробиологических исследований)</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>39104002</td>
+<td colspan="2">больной</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>161414005</td>
+<td colspan="2">переболевший</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>105499002</td>
+<td colspan="2">реконвалесцент</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>29679002</td>
+<td colspan="2">бактерионоситель</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>428792000</td>
+<td colspan="2">контактный</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>302805002</td>
+<td colspan="2">профилактическое обследование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Биопсия»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>86273004</td>
+<td colspan="2">Биопсия</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>63161005</td>
+<td colspan="2">первичная</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>769410007</td>
+<td colspan="2">повторная</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Локализация (бактериологического исследования патологического материала на туберкулез)»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>257880008</td>
+<td colspan="2">Локализация (бактериологического исследования патологического материала на туберкулез)</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>154283005</td>
+<td colspan="2">легочный</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>423997002</td>
+<td colspan="2">внелегочный</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">Причина для исследования (бактериологического исследования патологического материала на туберкулез)</th>
+</tr>
+<tr>
+<td>1</td>
+<td>363675004</td>
+<td colspan="2">Причина для исследования (бактериологического исследования патологического материала на туберкулез)</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>261004008</td>
+<td colspan="2">диагностика</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>183651009</td>
+<td colspan="2">контроль химиотерапии</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Категория (бактериологического исследования патологического материала на туберкулез)»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>61594008</td>
+<td colspan="2">Категория (бактериологического исследования патологического материала на туберкулез)</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>63309002</td>
+<td colspan="2">I (первая) категория</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>11999007</td>
+<td colspan="2">IV (четвертая) категория</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>710106005</td>
+<td colspan="2">стандартный туберкулез с множественной лекарственной устойчивостью</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Сведения о новорожденном»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>57891003</td>
+<td colspan="2">Новорожденный родился:</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>57891003</td>
+<td colspan="2">доношенный</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>12312009</td>
+<td colspan="2">недоношенный</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>16207008</td>
+<td colspan="2">переношенный</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Образование»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>276031006</td>
+<td colspan="2">Образование</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>410602000</td>
+<td colspan="2">дошкольное</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>224308001</td>
+<td colspan="2">среднее</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>722465008</td>
+<td colspan="2">техническое и (или) профессиональное (среднее-специальное)</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>224300008</td>
+<td colspan="2">высшее</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>426769009</td>
+<td colspan="2">послевузовское</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Осложнения лучевого лечения»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>212904005</td>
+<td colspan="2">Осложнения лучевого лечения</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>255470001</td>
+<td colspan="2">местные</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>732085009</td>
+<td colspan="2">на региональные лимфоузлы</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>60132005</td>
+<td colspan="2">общие</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>230133006</td>
+<td colspan="2">без осложнений</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Медико-социальная экспертиза»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>710824005</td>
+<td colspan="2">Основание направления на медико-социальную экспертизу</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>81078003</td>
+<td colspan="2">установление инвалидности</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>304555003</td>
+<td colspan="2">переосвидетельствование</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>3333333</td>
+<td colspan="2">досрочное переосвидетельствование</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>4444444</td>
+<td colspan="2">установление степени утраты общей трудоспособности первично</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>5555555</td>
+<td colspan="2">установление степени утраты общей трудоспособности повторно</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>6666666</td>
+<td colspan="2">установление степени утраты профессиональной трудоспособности первично</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>7777777</td>
+<td colspan="2">установление степени утраты профессиональной трудоспособности повторно</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>8888888</td>
+<td colspan="2">изменение причины инвалидности</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>266742006</td>
+<td colspan="2">формирование или коррекция индивидуальной программы реабилитации</td>
+</tr>
+<tr>
+<td>1.10</td>
+<td>1111110</td>
+<td colspan="2">необходимость выдачи заключения о нуждаемости пострадавшего работника в дополнительных видах помощи и уходе</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Освидетельствование»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>386053000</td>
+<td colspan="2">Освидетельствование</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>63161005</td>
+<td colspan="2">первичное</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>769410007</td>
+<td colspan="2">повторное</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Кем направлен пациент»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>397663001</td>
+<td colspan="2">Пациент направлен</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>394777002</td>
+<td colspan="2">медицинской организацией (из регистра медицинской организации)</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>306098008</td>
+<td colspan="2">самообращение</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>773568002</td>
+<td colspan="2">скорой медицинской помощью</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>264368004</td>
+<td colspan="2">военкоматом</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>257592000</td>
+<td colspan="2">судебные органы</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>284354002</td>
+<td colspan="2">правоохранительными органами</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Повод обращения»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>305058001</td>
+<td colspan="2">Повод обращения</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>2704003</td>
+<td colspan="2">острое заболевание (состояние)</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>417163006</td>
+<td colspan="2">травма</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>255212004</td>
+<td colspan="2">обострение хронического заболевания</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>169443000</td>
+<td colspan="2">обращение с профилактической целью взрослых</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>169443000</td>
+<td colspan="2">обращение с профилактической целью детей</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>185467006</td>
+<td colspan="2">вызов на дом с острым заболеванием</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>185468001</td>
+<td colspan="2">вызов на дом с обострением хронического заболевания</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>103735009</td>
+<td colspan="2">вызов на дом (паллиативная помощь)</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>444813003</td>
+<td colspan="2">иммунопрофилактика взрослых</td>
+</tr>
+<tr>
+<td>1.10</td>
+<td>444813003</td>
+<td colspan="2">иммунопрофилактика детей</td>
+</tr>
+<tr>
+<td>1.11</td>
+<td>171302002</td>
+<td colspan="2">скрининг взрослых</td>
+</tr>
+<tr>
+<td>1.12</td>
+<td>710075007</td>
+<td colspan="2">скрининг детей</td>
+</tr>
+<tr>
+<td>1.13</td>
+<td>410290005</td>
+<td colspan="2">услуги по вопросам планирования семьи, безопасного прерывания беременности, охране репродуктивного здоровья</td>
+</tr>
+<tr>
+<td>1.14</td>
+<td>401173007</td>
+<td colspan="2">посещение по программе управления заболеваниями</td>
+</tr>
+<tr>
+<td>1.15</td>
+<td>170549007</td>
+<td colspan="2">динамическое наблюдение с хроническими заболеваниями взрослых</td>
+</tr>
+<tr>
+<td>1.16</td>
+<td>170549007</td>
+<td colspan="2">динамическое наблюдение с хроническими заболеваниями детей</td>
+</tr>
+<tr>
+<td>1.17</td>
+<td>424525001</td>
+<td colspan="2">антенатальное наблюдение</td>
+</tr>
+<tr>
+<td>1.18</td>
+<td>133906008</td>
+<td colspan="2">постнатальное наблюдение</td>
+</tr>
+<tr>
+<td>1.19</td>
+<td>33633005</td>
+<td colspan="2">выписка рецептов</td>
+</tr>
+<tr>
+<td>1.20</td>
+<td>315042007</td>
+<td colspan="2">медико-социальные услуги</td>
+</tr>
+<tr>
+<td>1.21</td>
+<td>133921002</td>
+<td colspan="2">психологическая поддержка</td>
+</tr>
+<tr>
+<td>1.22</td>
+<td>40791000</td>
+<td colspan="2">оформление документов на медико-социальную экспертизу</td>
+</tr>
+<tr>
+<td>1.23</td>
+<td>171416008</td>
+<td colspan="2">услуги по охране здоровья обучающихся (школьная медицина)</td>
+</tr>
+<tr>
+<td>1.24</td>
+<td>410314003</td>
+<td colspan="2">мероприятия по здоровому образу жизни</td>
+</tr>
+<tr>
+<td>1.25</td>
+<td>445142003</td>
+<td colspan="2">консультирование дистанционное по поводу заболевания</td>
+</tr>
+<tr>
+<td>1.26</td>
+<td>410279000</td>
+<td colspan="2">консультирование дистанционное по поводу ухода за тяжелобольным</td>
+</tr>
+<tr>
+<td>1.27</td>
+<td>439708006</td>
+<td colspan="2">обслуживание на дому</td>
+</tr>
+<tr>
+<td>1.28</td>
+<td>440068009</td>
+<td colspan="2">патронаж новорожденного</td>
+</tr>
+<tr>
+<td>1.29</td>
+<td>50357006</td>
+<td colspan="2">патронаж детей</td>
+</tr>
+<tr>
+<td>1.30</td>
+<td>50357006</td>
+<td colspan="2">патронаж беременной</td>
+</tr>
+<tr>
+<td>1.31</td>
+<td>440085006</td>
+<td colspan="2">патронаж родильницы</td>
+</tr>
+<tr>
+<td>1.32</td>
+<td>424880000</td>
+<td colspan="2">обучение навыкам ухода за больным</td>
+</tr>
+<tr>
+<td>1.33</td>
+<td>108327007</td>
+<td colspan="2">услуги по уходу на дому</td>
+</tr>
+<tr>
+<td>1.34</td>
+<td>52052004</td>
+<td colspan="2">медицинская реабилитация</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Пол ребенка»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>302081005</td>
+<td colspan="2">Пол ребенка</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>169838000</td>
+<td colspan="2">мужской</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>169839008</td>
+<td colspan="2">женский</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Пол»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>734000001</td>
+<td colspan="2">Пол</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>10052007</td>
+<td colspan="2">мужской</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>1086007</td>
+<td colspan="2">женский</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>37791004</td>
+<td colspan="2">не определён</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Сведения о больном туберкулезом категории IV»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>309037001</td>
+<td colspan="2">Причина перевода в категорию IV</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>772170009</td>
+<td colspan="2">подозрение на туберкулез с множественной лекарственной устойчивостью</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>710106005</td>
+<td colspan="2">подтвержден туберкулез с множественной лекарственной устойчивостью</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>772170009</td>
+<td colspan="2">подозрение на туберкулез с широкой лекарственной устойчивостью</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>422481005</td>
+<td colspan="2">подтвержден туберкулез с широкой лекарственной устойчивость</td>
+</tr>
+<tr>
+<td>2</td>
+<td>722091001</td>
+<td colspan="2">Заключение при туберкулезе с широкой лекарственной устойчивостью</td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>708257005</td>
+<td colspan="2">начать лечение препаратами третьего ряда</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>270459005</td>
+<td colspan="2">ожидают лечение</td>
+</tr>
+<tr>
+<td>2.3</td>
+<td>183964008</td>
+<td colspan="2">не назначено лечение препаратами третьего ряда</td>
+</tr>
+<tr>
+<td>3</td>
+<td>351000124102</td>
+<td colspan="2">причина не назначения</td>
+</tr>
+<tr>
+<td>3.1</td>
+<td>242990004</td>
+<td colspan="2">недостаток препаратов</td>
+</tr>
+<tr>
+<td>3.2</td>
+<td>105480006</td>
+<td colspan="2">отказ от лечения</td>
+</tr>
+<tr>
+<td>3.3</td>
+<td>397709008</td>
+<td colspan="2">умер</td>
+</tr>
+<tr>
+<td>3.4</td>
+<td>423986002</td>
+<td colspan="2">нарушение режима</td>
+</tr>
+<tr>
+<td>3.5</td>
+<td>398192003</td>
+<td colspan="2">тяжелые сопутствующие заболевания</td>
+</tr>
+<tr>
+<td>3.6</td>
+<td>59037007</td>
+<td colspan="2">непереносимость противотуберкулезных препаратов</td>
+</tr>
+<tr>
+<td>3.7</td>
+<td>162608008</td>
+<td colspan="2">терминальная стадия туберкулеза и (или) туберкулез и (или) вирус иммунодефицита человека</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Причина прекращения лечения гемодиализом»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>446048008</td>
+<td colspan="2">Причина прекращения лечения гемодиализом</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>77465005</td>
+<td colspan="2">перевод на трансплантацию</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>107724000</td>
+<td colspan="2">перевод в другие отделения гемодиализа</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>184081006</td>
+<td colspan="2">выезд</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>397709008</td>
+<td colspan="2">умер</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Профиль ультрафильтрации»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>182750009</td>
+<td colspan="2">Профиль ультрафильтрации</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>118565006</td>
+<td colspan="2">изолированная ультрафильтрация</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>2222220</td>
+<td colspan="2">ультрафильтрация</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>39972003</td>
+<td colspan="2">Натрий</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Сведения о ребенке»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>281050002</td>
+<td colspan="2">Ребенок родился</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>281050002</td>
+<td colspan="2">живой</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>237364002</td>
+<td colspan="2">мертвый</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Резус-фактор»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>278155008</td>
+<td colspan="2">Резус-фактор</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>165747007</td>
+<td colspan="2">положительный</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>165746003</td>
+<td colspan="2">отрицательный</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Физическая активность»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>68130003</td>
+<td colspan="2">Физическая активность, ежедневная физическая нагрузка</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>22205004</td>
+<td colspan="2">зарядка</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>129006008</td>
+<td colspan="2">пешие прогулки</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>257703003</td>
+<td colspan="2">посещение спортивных секций</td>
+</tr>
+<tr>
+<td>2</td>
+<td>301331008</td>
+<td colspan="2">Индекс Кетле</td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>412768003</td>
+<td colspan="2">до 25</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>162863004</td>
+<td colspan="2">25-30</td>
+</tr>
+<tr>
+<td>2.3</td>
+<td>162864005</td>
+<td colspan="2">от 30 и выше</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Случай поликлинического обращения»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>445042000</td>
+<td colspan="2">Случай поликлинического обращения</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>183666007</td>
+<td colspan="2">завершен</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>737492002</td>
+<td colspan="2">не завершен</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Сортировка по триаж-системе»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>225390008</td>
+<td colspan="2">Сортировка по триаж-системе</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>54662009</td>
+<td colspan="2">первая группа (зеленая зона)</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>371244009</td>
+<td colspan="2">вторая группа (желтая зона)</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>386713009</td>
+<td colspan="2">третья группа (красная зона)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Сосудистый доступ»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>278812006</td>
+<td colspan="2">Сосудистый доступ</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>128617001</td>
+<td colspan="2">артериовенозная фистула</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>175777002</td>
+<td colspan="2">протез</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>86572008</td>
+<td colspan="2">катетер</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Социальный статус»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>365564006</td>
+<td colspan="2">Социальный статус</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>410599005</td>
+<td colspan="2">дети</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>73438004</td>
+<td colspan="2">лица, зарегистрированные в качестве безработных</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>255409004</td>
+<td colspan="2">неработающие беременные женщины</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>281577004</td>
+<td colspan="2">неработающее лицо (один из законных представителей ребенка), воспитывающее ребенка (детей) до достижения им (ими) возраста трех лет, за исключением лиц, предусмотренных подпунктом 1.5 настоящего справочника</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>224451003</td>
+<td colspan="2">лица, находящиеся в отпусках в связи с беременностью и родами, усыновлением (удочерением) новорожденного ребенка (детей), по уходу за ребенком (детьми) до достижения им (ими) возраста трех лет</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>183428003</td>
+<td colspan="2">неработающие лица, осуществляющие уход за ребенком-инвалидом</td>
+</tr>
+<tr>
+<td>1.6.1</td>
+<td>183428003</td>
+<td colspan="2">неработающие лица, осуществляющие уход за инвалидом первой группы с детства</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>160994009</td>
+<td colspan="2">получатели пенсионных выплат</td>
+</tr>
+<tr>
+<td>1.7.1</td>
+<td>308619006</td>
+<td colspan="2">ветераны Великой Отечественной войны</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>105568001</td>
+<td colspan="2">лица, отбывающие наказание по приговору суда в учреждениях уголовно-исполнительной (пенитенциарной) системы (за исключением учреждений минимальной безопасности)</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>160832006</td>
+<td colspan="2">лица, содержащиеся в следственных изоляторах</td>
+</tr>
+<tr>
+<td>1.10</td>
+<td>224619008</td>
+<td colspan="2">неработающие оралманы</td>
+</tr>
+<tr>
+<td>1.11</td>
+<td>161060003</td>
+<td colspan="2">многодетные матери, награжденные подвесками «Алтын алқа», «Күміс алқа» или получившие ранее звание «Мать-героиня», а также награжденные орденами «Материнская слава» I и II степени</td>
+</tr>
+<tr>
+<td>1.12</td>
+<td>161048004</td>
+<td colspan="2">инвалиды</td>
+</tr>
+<tr>
+<td>1.13</td>
+<td>413327003</td>
+<td colspan="2">лица, обучающиеся по очной форме обучения в организациях среднего, технического и профессионального, послесреднего, высшего образования, а также послевузовского образования</td>
+</tr>
+<tr>
+<td>1.14</td>
+<td>315042007</td>
+<td colspan="2">неработающие получатели государственной адресной социальной помощи</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Социально-профессиональный статус»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>160481000</td>
+<td colspan="2">Социально-профессиональный статус</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>224363007</td>
+<td colspan="2">рабочий</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>224528001</td>
+<td colspan="2">служащий</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>73438004</td>
+<td colspan="2">безработный</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>105493001</td>
+<td colspan="2">пенсионер</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>410602000</td>
+<td colspan="2">дошкольник</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>160498000</td>
+<td colspan="2">школьник</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>65853000</td>
+<td colspan="2">студент</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>160906004</td>
+<td colspan="2">самозанятый</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>224340002</td>
+<td colspan="2">осужденный</td>
+</tr>
+<tr>
+<td>1.10</td>
+<td>276092001</td>
+<td colspan="2">следственно-арестованный</td>
+</tr>
+<tr>
+<td>1.11</td>
+<td>158965000</td>
+<td colspan="2">медработник общей лечебной сети</td>
+</tr>
+<tr>
+<td>1.12</td>
+<td>223366009</td>
+<td colspan="2">медработник противотуберкулезной организации</td>
+</tr>
+<tr>
+<td>1.13</td>
+<td>71970000</td>
+<td colspan="2">персонал пенитенциарной системы</td>
+</tr>
+<tr>
+<td>1.14</td>
+<td>224619008</td>
+<td colspan="2">мигрант (внешний, внутренний, трудовой)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Способ (гемодиализа)»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>260686004</td>
+<td colspan="2">Способ (гемодиализа)</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>60132005</td>
+<td colspan="2">общая</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>8212001</td>
+<td colspan="2">дозированная</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>410674003</td>
+<td colspan="2">регинональная</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Способ применения (препарата)»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>246379000</td>
+<td colspan="2">Способ применения (препарата)</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>34206005</td>
+<td colspan="2">подкожно</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>448598008</td>
+<td colspan="2">накожно</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>260617000</td>
+<td colspan="2">интраназально</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>386350007</td>
+<td colspan="2">ушной</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>431952007</td>
+<td colspan="2">буккальный</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>372449004</td>
+<td colspan="2">дентальный</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>372450004</td>
+<td colspan="2">эндоцервикальный</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>419231003</td>
+<td colspan="2">внутрисинусный</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>372452007</td>
+<td colspan="2">эндотрахеопульмональный</td>
+</tr>
+<tr>
+<td>1.10</td>
+<td>386352004</td>
+<td colspan="2">эпидуральный</td>
+</tr>
+<tr>
+<td>1.11</td>
+<td>302497006</td>
+<td colspan="2">гемодиализ</td>
+</tr>
+<tr>
+<td>1.12</td>
+<td>15415002</td>
+<td colspan="2">интраамниотический</td>
+</tr>
+<tr>
+<td>1.13</td>
+<td>58100008</td>
+<td colspan="2">внутриартериальный</td>
+</tr>
+<tr>
+<td>1.14</td>
+<td>439792001</td>
+<td colspan="2">внутрисуставный</td>
+</tr>
+<tr>
+<td>1.15</td>
+<td>62226000</td>
+<td colspan="2">внутриматочный</td>
+</tr>
+<tr>
+<td>1.16</td>
+<td>372460008</td>
+<td colspan="2">интракардиальный</td>
+</tr>
+<tr>
+<td>1.17</td>
+<td>432021006</td>
+<td colspan="2">интракавернозный</td>
+</tr>
+<tr>
+<td>1.18</td>
+<td>446540005</td>
+<td colspan="2">интрацеребральный</td>
+</tr>
+<tr>
+<td>1.19</td>
+<td>372462000</td>
+<td colspan="2">интрацервикальный</td>
+</tr>
+<tr>
+<td>1.20</td>
+<td>418892005</td>
+<td colspan="2">интрацистернальный</td>
+</tr>
+<tr>
+<td>1.21</td>
+<td>372463005</td>
+<td colspan="2">интракоронарный</td>
+</tr>
+<tr>
+<td>1.22</td>
+<td>386355002</td>
+<td colspan="2">внутрикожный</td>
+</tr>
+<tr>
+<td>1.23</td>
+<td>372465003</td>
+<td colspan="2">интрадискальный</td>
+</tr>
+<tr>
+<td>1.24</td>
+<td>372467006</td>
+<td colspan="2">внутрилимфатический</td>
+</tr>
+<tr>
+<td>1.25</td>
+<td>386356001</td>
+<td colspan="2">внутримышечный</td>
+</tr>
+<tr>
+<td>1.26</td>
+<td>372468001</td>
+<td colspan="2">интраокулярный</td>
+</tr>
+<tr>
+<td>1.27</td>
+<td>445771006</td>
+<td colspan="2">интраперикардиальный</td>
+</tr>
+<tr>
+<td>1.28</td>
+<td>38239002</td>
+<td colspan="2">интраперитонеальный</td>
+</tr>
+<tr>
+<td>1.29</td>
+<td>433205004</td>
+<td colspan="2">внутриплевральный</td>
+</tr>
+<tr>
+<td>1.30</td>
+<td>447122006</td>
+<td colspan="2">внутриопухолевый</td>
+</tr>
+<tr>
+<td>1.31</td>
+<td>406188003</td>
+<td colspan="2">интратекальный</td>
+</tr>
+<tr>
+<td>1.32</td>
+<td>386358000</td>
+<td colspan="2">внутривенный</td>
+</tr>
+<tr>
+<td>1.33</td>
+<td>431464005</td>
+<td colspan="2">внутрипузырный</td>
+</tr>
+<tr>
+<td>1.34</td>
+<td>406172003</td>
+<td colspan="2">назальный</td>
+</tr>
+<tr>
+<td>1.35</td>
+<td>386359008</td>
+<td colspan="2">для приема внутрь</td>
+</tr>
+<tr>
+<td>1.36</td>
+<td>418664002</td>
+<td colspan="2">орофарингеальный</td>
+</tr>
+<tr>
+<td>1.37</td>
+<td>372474001</td>
+<td colspan="2">периартикулярный</td>
+</tr>
+<tr>
+<td>1.38</td>
+<td>372475000</td>
+<td colspan="2">периневральный</td>
+</tr>
+<tr>
+<td>1.39</td>
+<td>386360003</td>
+<td colspan="2">ректальный</td>
+</tr>
+<tr>
+<td>1.40</td>
+<td>418321004</td>
+<td colspan="2">ретробульбарный</td>
+</tr>
+<tr>
+<td>1.41</td>
+<td>372476004</td>
+<td colspan="2">субконъюнктивальный</td>
+</tr>
+<tr>
+<td>1.42</td>
+<td>433066006</td>
+<td colspan="2">подъязычный</td>
+</tr>
+<tr>
+<td>1.43</td>
+<td>431224009</td>
+<td colspan="2">трансдермальный</td>
+</tr>
+<tr>
+<td>1.44</td>
+<td>432907007</td>
+<td colspan="2">уретральный</td>
+</tr>
+<tr>
+<td>1.45</td>
+<td>386363001</td>
+<td colspan="2">вагинальный</td>
+</tr>
+<tr>
+<td>1.46</td>
+<td>372472002</td>
+<td colspan="2">окулярный</td>
+</tr>
+<tr>
+<td>1.47</td>
+<td>372473007</td>
+<td colspan="2">оромукозный</td>
+</tr>
+<tr>
+<td>1.48</td>
+<td>860693006</td>
+<td colspan="2">гастроэнтеральный</td>
+</tr>
+<tr>
+<td>1.49</td>
+<td>432844008</td>
+<td colspan="2">гингивальный</td>
+</tr>
+<tr>
+<td>1.50</td>
+<td>372459003</td>
+<td colspan="2">интрабурсальный</td>
+</tr>
+<tr>
+<td>1.51</td>
+<td>372470005</td>
+<td colspan="2">интрастернальный</td>
+</tr>
+<tr>
+<td>1.52</td>
+<td>182904002</td>
+<td colspan="2">путь введения не определен</td>
+</tr>
+<tr>
+<td>1.53</td>
+<td>447694001</td>
+<td colspan="2">ингаляционный</td>
+</tr>
+<tr>
+<td>1.54</td>
+<td>418401004</td>
+<td colspan="2">интравитреальный</td>
+</tr>
+<tr>
+<td>1.55</td>
+<td>420185003</td>
+<td colspan="2">ларингофарингеальный</td>
+</tr>
+<tr>
+<td>1.56</td>
+<td>418331006</td>
+<td colspan="2">внутрихрящевой</td>
+</tr>
+<tr>
+<td>1.57</td>
+<td>448077001</td>
+<td colspan="2">внутриэпидермальный</td>
+</tr>
+<tr>
+<td>1.58</td>
+<td>443960000</td>
+<td colspan="2">внутрь очага повреждения</td>
+</tr>
+<tr>
+<td>1.59</td>
+<td>419810008</td>
+<td colspan="2">интрапростатический</td>
+</tr>
+<tr>
+<td>1.60</td>
+<td>127490009</td>
+<td colspan="2">гастральный</td>
+</tr>
+<tr>
+<td>1.61</td>
+<td>447052000</td>
+<td colspan="2">периодонтальный</td>
+</tr>
+<tr>
+<td>1.62</td>
+<td>419874009</td>
+<td colspan="2">субмукозный</td>
+</tr>
+<tr>
+<td>1.63</td>
+<td>129336009</td>
+<td colspan="2">имплантация</td>
+</tr>
+<tr>
+<td>1.64</td>
+<td>718329006</td>
+<td colspan="2">инфильтрация</td>
+</tr>
+<tr>
+<td>1.65</td>
+<td>386357005</td>
+<td colspan="2">внутрикостный</td>
+</tr>
+<tr>
+<td>1.66</td>
+<td>420047004</td>
+<td colspan="2">периостальный</td>
+</tr>
+<tr>
+<td>1.67</td>
+<td>714743009</td>
+<td colspan="2">экстракорпоральный</td>
+</tr>
+<tr>
+<td>1.68</td>
+<td>450679007</td>
+<td colspan="2">экстраамниотический</td>
+</tr>
+<tr>
+<td>1.69</td>
+<td>58731000052100</td>
+<td colspan="2">интестинальный</td>
+</tr>
+<tr>
+<td>1.70</td>
+<td>418821007</td>
+<td colspan="2">в переднюю камеру глаза</td>
+</tr>
+<tr>
+<td>1.71</td>
+<td>91480001</td>
+<td colspan="2">ионофорез</td>
+</tr>
+<tr>
+<td>1.72</td>
+<td>58821000052106</td>
+<td colspan="2">задний юкстасклеральный</td>
+</tr>
+<tr>
+<td>1.73</td>
+<td>16646002</td>
+<td colspan="2">кожная скарификация</td>
+</tr>
+<tr>
+<td>1.74</td>
+<td>58761000052107</td>
+<td colspan="2">интрахолангиопанкреатический</td>
+</tr>
+<tr>
+<td>1.75</td>
+<td>420287000</td>
+<td colspan="2">интравентрикулярный</td>
+</tr>
+<tr>
+<td>1.76</td>
+<td>58811000052103</td>
+<td colspan="2">околоопухолевый</td>
+</tr>
+<tr>
+<td>1.77</td>
+<td>58771000052103</td>
+<td colspan="2">интрапортальный</td>
+</tr>
+<tr>
+<td>1.78</td>
+<td>58751000052109</td>
+<td colspan="2">интрагландулярный</td>
+</tr>
+<tr>
+<td>1.79</td>
+<td>420719007</td>
+<td colspan="2">интрацеребровентрикулярный</td>
+</tr>
+<tr>
+<td>1.80</td>
+<td>58831000052108</td>
+<td colspan="2">субретинальный</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Способ употребления наркотика»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>361055000</td>
+<td colspan="2">Способ употребления</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>226034001</td>
+<td colspan="2">инъекции</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>228377000</td>
+<td colspan="2">курение</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>228375008</td>
+<td colspan="2">перорально</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>228381000</td>
+<td colspan="2">путем вдыхания</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Способы облучения»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>53438000</td>
+<td colspan="2">Способы облучения</td>
+</tr>
+<tr>
+<td>2</td>
+<td>33195004</td>
+<td colspan="2">Облучение внешнее:</td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>261007001</td>
+<td colspan="2">дистанционное</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>373863008</td>
+<td colspan="2">внутриполостное</td>
+</tr>
+<tr>
+<td>3</td>
+<td>399315003</td>
+<td colspan="2">Облучение внутритканевое</td>
+</tr>
+<tr>
+<td>4</td>
+<td>169331000</td>
+<td colspan="2">Облучение сочетанное:</td>
+</tr>
+<tr>
+<td>4.1</td>
+<td>261007001</td>
+<td colspan="2">дистанционное + внутриполостное</td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>261007001</td>
+<td colspan="2">дистанционное + внутритканевое</td>
+</tr>
+<tr>
+<td>4.3</td>
+<td>448294009</td>
+<td colspan="2">внешнее аппликационное облучение</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Срок беременности на момент прерывания беременности, родов или смерти, недель»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>366323009</td>
+<td colspan="2">Срок беременности на момент прерывания беременности, родов или смерти, недель</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>57630001</td>
+<td colspan="2">Первый триместр (1-13 неделя)</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>59466002</td>
+<td colspan="2">Второй триместр (14-27 недель)</td>
+</tr>
+<tr>
+<td>1.3.1</td>
+<td>429240000</td>
+<td colspan="2">Третий триместр (28-35 недель)</td>
+</tr>
+<tr>
+<td>1.3.2</td>
+<td>41587001</td>
+<td colspan="2">Третий триместр (36-42 недель)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Стадия опухолевого процесса»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>395154003</td>
+<td colspan="2">Стадия опухолевого процесса</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>261646003</td>
+<td colspan="2">І а</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>261649005</td>
+<td colspan="2">І б</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>261650005</td>
+<td colspan="2">І с</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>23351008</td>
+<td colspan="2">І стадия</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>261651009</td>
+<td colspan="2">ІІ а</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>261652002</td>
+<td colspan="2">ІІ б</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>261653007</td>
+<td colspan="2">ІІ с</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>67673008</td>
+<td colspan="2">ІІ стадия</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>261654001</td>
+<td colspan="2">ІІІ а</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>261655000</td>
+<td colspan="2">ІІІ б</td>
+</tr>
+<tr>
+<td>1.11</td>
+<td>261658003</td>
+<td colspan="2">ІІІ с</td>
+</tr>
+<tr>
+<td>1.12</td>
+<td>14410001</td>
+<td colspan="2">ІІІ стадия</td>
+</tr>
+<tr>
+<td>1.13</td>
+<td>261659006</td>
+<td colspan="2">ІV а</td>
+</tr>
+<tr>
+<td>1.14</td>
+<td>261660001</td>
+<td colspan="2">ІV б</td>
+</tr>
+<tr>
+<td>1.15</td>
+<td>261661002</td>
+<td colspan="2">ІV с</td>
+</tr>
+<tr>
+<td>1.16</td>
+<td>65565005</td>
+<td colspan="2">ІV стадия</td>
+</tr>
+<tr>
+<td>1.17</td>
+<td>58790005</td>
+<td colspan="2">in situ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Стадия по системе TNM»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>385356007</td>
+<td colspan="2">Стадия по системе TNM</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>58790005</td>
+<td colspan="2">Т 0</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>23351008</td>
+<td colspan="2">Т 1</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>67673008</td>
+<td colspan="2">Т 2</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>14410001</td>
+<td colspan="2">Т 3</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>65565005</td>
+<td colspan="2">Т 4</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>62455006</td>
+<td colspan="2">N 0</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>53623008</td>
+<td colspan="2">N 1</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>46059003</td>
+<td colspan="2">N 2</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>5856006</td>
+<td colspan="2">N 3</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>22079002</td>
+<td colspan="2">N 4</td>
+</tr>
+<tr>
+<td>1.11</td>
+<td>79420006</td>
+<td colspan="2">N Х</td>
+</tr>
+<tr>
+<td>1.12</td>
+<td>30893008</td>
+<td colspan="2">М 0</td>
+</tr>
+<tr>
+<td>1.13</td>
+<td>55440008</td>
+<td colspan="2">М 1</td>
+</tr>
+<tr>
+<td>1.14</td>
+<td>27167007</td>
+<td colspan="2">М Х</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Осанка»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>298341003</td>
+<td colspan="2">Осанка</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>230023000</td>
+<td colspan="2">норма</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>428862002</td>
+<td colspan="2">плоская спина</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>230009002</td>
+<td colspan="2">сутуловатость</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>268040001</td>
+<td colspan="2">круглая спина</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>249858009</td>
+<td colspan="2">вялая осанка</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Лицо»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>301310005</td>
+<td colspan="2">Лицо</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>8212001</td>
+<td colspan="2">пропорциональное</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>248172007</td>
+<td colspan="2">симметричное</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>15253005</td>
+<td colspan="2">асимметричное</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>109549008</td>
+<td colspan="2">имеются пороки развития губ</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>128336000</td>
+<td colspan="2">имеются пороки развития неба</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>126632002</td>
+<td colspan="2">новообразования</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Вредные привычки ребенка»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>365941000</td>
+<td colspan="2">Вредные привычки ребенка</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>55644006</td>
+<td colspan="2">сосание пальцев</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>284526005</td>
+<td colspan="2">сосание языка</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>90485000</td>
+<td colspan="2">сосание предметов</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>196575007</td>
+<td colspan="2">прикусывание губ</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>284710007</td>
+<td colspan="2">прикусывание щек</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>365930002</td>
+<td colspan="2">подкладывание кулачка под щеку во время сна, бодрствования</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Дыхание»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>366141005</td>
+<td colspan="2">Дыхание</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>313293007</td>
+<td colspan="2">носовое</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>77329001</td>
+<td colspan="2">ротовое</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>309155007</td>
+<td colspan="2">смешанное</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Жевание»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>278431005</td>
+<td colspan="2">Жевание</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>288921003</td>
+<td colspan="2">активное</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>288922005</td>
+<td colspan="2">пассивное</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>162020001</td>
+<td colspan="2">затруднено</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Глотание»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>258149004</td>
+<td colspan="2">Глотание</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>162023004</td>
+<td colspan="2">свободное</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>249483000</td>
+<td colspan="2">инфантильное</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>288939007</td>
+<td colspan="2">затруднено</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Речь»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>365041002</td>
+<td colspan="2">Речь</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>162293002</td>
+<td colspan="2">ясная</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>162294008</td>
+<td colspan="2">затрудненная</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>289195008</td>
+<td colspan="2">спотыкание при произношении звуков</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Смыкание губ»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>364955003</td>
+<td colspan="2">Смыкание губ</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>285493003</td>
+<td colspan="2">сомкнуты</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>285494009</td>
+<td colspan="2">не сомкнуты</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Регионарные лимфоузлы»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>89524008</td>
+<td colspan="2">Регионарные лимфоузлы</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>53461003</td>
+<td colspan="2">не увеличены</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>164159007</td>
+<td colspan="2">подвижны</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>301360004</td>
+<td colspan="2">болезненны</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>274744005</td>
+<td colspan="2">увеличены</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>164157009</td>
+<td colspan="2">спаяны</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Приротовая область»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>364951007</td>
+<td colspan="2">Приротовая область</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>285474000</td>
+<td colspan="2">губы подвижны</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>304699004</td>
+<td colspan="2">мало подвижны</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Предверие полости рта»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>34810001</td>
+<td colspan="2">Предверие полости рта</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>418755004</td>
+<td colspan="2">мелкое (до 5мм)</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>255508009</td>
+<td colspan="2">среднее (5-10мм)</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>795002</td>
+<td colspan="2">глубокое (более 10мм)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Уздечка и губы»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>7652006</td>
+<td colspan="2">Уздечка и губы</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>17621005</td>
+<td colspan="2">нормальная</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>65476007</td>
+<td colspan="2">аномалии размеров</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>109551007</td>
+<td colspan="2">аномалии прикрепления</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Уздечка языка»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>249387000</td>
+<td colspan="2">Уздечка языка</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>17621005</td>
+<td colspan="2">нормальная</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>249388005</td>
+<td colspan="2">аномалии размеров</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>109556002</td>
+<td colspan="2">аномалии прикрепления</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Слизистая полости рта»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>249400000</td>
+<td colspan="2">Слизистая полости рта</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>276398005</td>
+<td colspan="2">влажная</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>366230001</td>
+<td colspan="2">розовая</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>30098003</td>
+<td colspan="2">гиперемированная</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Десневой край»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>52268002</td>
+<td colspan="2">Десневой край</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>109739007</td>
+<td colspan="2">плотно прилегает</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>245768000</td>
+<td colspan="2">отходят от шеек зубов</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>30098003</td>
+<td colspan="2">гиперемирована</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>66383009</td>
+<td colspan="2">разрыхлен</td>
+</tr>
+<tr>
+<td>19.5</td>
+<td>28977008</td>
+<td colspan="2">розовый</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Язык»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>249378009</td>
+<td colspan="2">Язык</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>762647001</td>
+<td colspan="2">розовый</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>300248006</td>
+<td colspan="2">влажный</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>52368004</td>
+<td colspan="2">складчатый</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>9491003</td>
+<td colspan="2">гладкий</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>698193000</td>
+<td colspan="2">обложен</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>109536003</td>
+<td colspan="2">очаги десквамации эпителия</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Состояние челюстей»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>661005</td>
+<td colspan="2">Состояние челюстей</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>17621005</td>
+<td colspan="2">норма</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>734009000</td>
+<td colspan="2">диастема в челюсти</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>697955008</td>
+<td colspan="2">наличие трем</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>699353000</td>
+<td colspan="2">отсутствие трем</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>72855002</td>
+<td colspan="2">протрузия</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>699654002</td>
+<td colspan="2">ретрузия</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>12351004</td>
+<td colspan="2">сужение зубных рядов, скученность зубов</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Соотношение челюстей»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>196380002</td>
+<td colspan="2">Соотношение челюстей</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>17621005</td>
+<td colspan="2">ортогнатический</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>60476005</td>
+<td colspan="2">глубокий</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>235096000</td>
+<td colspan="2">прогения</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>70305005</td>
+<td colspan="2">прогнатия</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>109495004</td>
+<td colspan="2">перекрестный</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Состояние зубов»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>163151002</td>
+<td colspan="2">Состояние зубов</td>
+</tr>
+<tr>
+<td>2</td>
+<td>300233000</td>
+<td colspan="2">Форма зубного ряда</td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>60301000</td>
+<td colspan="2">полукруглая</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>49608001</td>
+<td colspan="2">трапециевидная</td>
+</tr>
+<tr>
+<td>2.3</td>
+<td>84360004</td>
+<td colspan="2">эллипсовидная</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81256000</td>
+<td colspan="2">Аномальное положение зубов</td>
+</tr>
+<tr>
+<td>3.1</td>
+<td>163151002</td>
+<td colspan="2">отсутствие</td>
+</tr>
+<tr>
+<td>3.2</td>
+<td>234958007</td>
+<td colspan="2">вестибулярное</td>
+</tr>
+<tr>
+<td>3.3</td>
+<td>245731003</td>
+<td colspan="2">небное</td>
+</tr>
+<tr>
+<td>3.4</td>
+<td>109499005</td>
+<td colspan="2">язычное</td>
+</tr>
+<tr>
+<td>4</td>
+<td>397797004</td>
+<td colspan="2">Прорезывание зубов</td>
+</tr>
+<tr>
+<td>4.1</td>
+<td>163151002</td>
+<td colspan="2">норма</td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>16000003</td>
+<td colspan="2">преждевременное</td>
+</tr>
+<tr>
+<td>4.3</td>
+<td>5639000</td>
+<td colspan="2">запоздалое</td>
+</tr>
+<tr>
+<td>5</td>
+<td>366229006</td>
+<td colspan="2">Состояние тканей зуба, цвет</td>
+</tr>
+<tr>
+<td>5.1</td>
+<td>24249001</td>
+<td colspan="2">белый</td>
+</tr>
+<tr>
+<td>5.2</td>
+<td>90998002</td>
+<td colspan="2">желтый</td>
+</tr>
+<tr>
+<td>5.3</td>
+<td>89042005</td>
+<td colspan="2">серый</td>
+</tr>
+<tr>
+<td>6</td>
+<td>710006007</td>
+<td colspan="2">Форма зуба</td>
+</tr>
+<tr>
+<td>6.1</td>
+<td>110332001</td>
+<td colspan="2">правильная</td>
+</tr>
+<tr>
+<td>6.2</td>
+<td>110333006</td>
+<td colspan="2">измененная</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Прикус»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>25272006</td>
+<td colspan="2">Прикус</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>278683009</td>
+<td colspan="2">правильный</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>12264001</td>
+<td colspan="2">мезиальный</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>49827005</td>
+<td colspan="2">дистальный</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>110320000</td>
+<td colspan="2">глубокий</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>109495004</td>
+<td colspan="2">перекрестный</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>47944004</td>
+<td colspan="2">открытый</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Некариозные поражения»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>717062009</td>
+<td colspan="2">Некариозные поражения</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>708577002</td>
+<td colspan="2">отсутствуют</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>707681007</td>
+<td colspan="2">гипоплазия</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>88554008</td>
+<td colspan="2">гипоплазия, осложненная кариесом</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>109566005</td>
+<td colspan="2">гипоплазия в сочетании с кариесом</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>45486003</td>
+<td colspan="2">аплазия</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>30265004</td>
+<td colspan="2">флюороз</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Очаги деминерализации»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>716305005</td>
+<td colspan="2">Очаги деминерализации</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>716305005</td>
+<td colspan="2">выявлены</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>128418004</td>
+<td colspan="2">отсутствуют</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Интенсивность кариеса»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>80967001</td>
+<td colspan="2">Интенсивность кариеса</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>278651003</td>
+<td colspan="2">нет кариеса</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>708574009</td>
+<td colspan="2">кариес в стадии потемнения эмали</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>708573003</td>
+<td colspan="2">поверхностный</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>46678004</td>
+<td colspan="2">средний</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>25840002</td>
+<td colspan="2">глубокий</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th colspan="4">«Гигиеническое состояние полости рта»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>110298001</td>
+<td colspan="2">Гигиеническое состояние полости рта</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>278543008</td>
+<td colspan="2">удовлетворительно</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>110299009</td>
+<td colspan="2">неудовлетворительно</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Тип больного туберкулезом»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>184216000</td>
+<td colspan="2">Тип больного туберкулезом</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>288527008</td>
+<td colspan="2">новый случай</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>263855007</td>
+<td colspan="2">рецидив</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>266721009</td>
+<td colspan="2">неудача лечения</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>266714009</td>
+<td colspan="2">лечение после перерыва</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>266751003</td>
+<td colspan="2">переведен</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>263855007</td>
+<td colspan="2">рецидив микобактерии туберкулеза (-)</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>266714009</td>
+<td colspan="2">лечение после перерыва микобактерии туберкулеза (-)</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>314705003</td>
+<td colspan="2">неудача лечения микобактерии туберкулеза (-)</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>263855007</td>
+<td colspan="2">рецидив внелегочного туберкулеза</td>
+</tr>
+<tr>
+<td>1.10</td>
+<td>266714009</td>
+<td colspan="2">лечение после перерыва внелегочного туберкулеза</td>
+</tr>
+<tr>
+<td>1.11</td>
+<td>314705003</td>
+<td colspan="2">неудача лечения внелегочного туберкулеза</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Источник финансирования (тип возмещений)»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>100</td>
+<td colspan="2">Источник финансирования (тип возмещений)</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>200</td>
+<td colspan="2">Государственный</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>300</td>
+<td colspan="2">Иной источник</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>600</td>
+<td colspan="2">Спонсорская помощь</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>700</td>
+<td colspan="2">Платные услуги</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>800</td>
+<td colspan="2">Иные поступления</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>1100</td>
+<td colspan="2">Средства добровольного страхования</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>1200</td>
+<td colspan="2">Средства по договору с работодателями</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>4400</td>
+<td colspan="2">Республиканский (БП 067, ПП 100) онкология</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>4500</td>
+<td colspan="2">Республиканский (БП 067, ПП 100) село</td>
+</tr>
+<tr>
+<td>1.10</td>
+<td>4600</td>
+<td colspan="2">Республиканский (БП 067, ПП 100) АПП</td>
+</tr>
+<tr>
+<td>1.11</td>
+<td>4700</td>
+<td colspan="2">Республиканский (БП 067, ПП 100) Наркология</td>
+</tr>
+<tr>
+<td>1.12</td>
+<td>4800</td>
+<td colspan="2">Республиканский (БП 067, ПП 100) Психиатрия</td>
+</tr>
+<tr>
+<td>1.13</td>
+<td>4900</td>
+<td colspan="2">Республиканский (БП 067, ПП 100) Туберкулез</td>
+</tr>
+<tr>
+<td>1.14</td>
+<td>5000</td>
+<td colspan="2">Республиканский (БП 067, ПП 100) «Трансферты Фонда социального медицинского страхования на оплату ГОБМП»</td>
+</tr>
+<tr>
+<td>1.15</td>
+<td>5100</td>
+<td colspan="2">Республиканский (БП 067, ПП 105) «Медпомощь с применением ИМТ и лечение за рубежом»</td>
+</tr>
+<tr>
+<td>1.16</td>
+<td>5200</td>
+<td colspan="2">Лизинг</td>
+</tr>
+<tr>
+<td>1.17</td>
+<td>5300</td>
+<td colspan="2">Хозрасчет</td>
+</tr>
+<tr>
+<td>1.18</td>
+<td>5400</td>
+<td colspan="2">Грант</td>
+</tr>
+<tr>
+<td>1.19</td>
+<td>5500</td>
+<td colspan="2">Прочее</td>
+</tr>
+<tr>
+<td>1.20</td>
+<td>6900</td>
+<td colspan="2">Активы Фонда на ОСМС</td>
+</tr>
+<tr>
+<td>1.21</td>
+<td>7000</td>
+<td colspan="2">Активы Фонда на ОСМС (parent)</td>
+</tr>
+<tr>
+<td>1.22</td>
+<td>7100</td>
+<td colspan="2">Платно для незастрахованных</td>
+</tr>
+<tr>
+<td>1.23</td>
+<td>7200</td>
+<td colspan="2">Платно для незастрахованных (parent)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Тип госпитализации»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>32485007</td>
+<td colspan="2">Тип госпитализации</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>183452005</td>
+<td colspan="2">экстренная</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>8715000</td>
+<td colspan="2">плановая</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Тип диализатора»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>705490008</td>
+<td colspan="2">Тип диализатора</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>701122009</td>
+<td colspan="2">низко поточный</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>701131009</td>
+<td colspan="2">высоко поточный</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Тип операции»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>257556004</td>
+<td colspan="2">Тип операции</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>183976008</td>
+<td colspan="2">плановое</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>73994005</td>
+<td colspan="2">экстренное</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Тип травмы»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>246240008</td>
+<td colspan="2">Тип травмы</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>257630004</td>
+<td colspan="2">бытовая</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>257710009</td>
+<td colspan="2">уличная</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>415577004</td>
+<td colspan="2">спортивная</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>257698009</td>
+<td colspan="2">школьная</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>161116001</td>
+<td colspan="2">дошкольная</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>40785002</td>
+<td colspan="2">дорожно-транспортная</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>17542004</td>
+<td colspan="2">производственная</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>75414001</td>
+<td colspan="2">строительная</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Факторы риска»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>80943009</td>
+<td colspan="2">Факторы риска</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>56717001</td>
+<td colspan="2">туберкулез</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>423092005</td>
+<td colspan="2">туберкулез с множественной лекарственной устойчивостью – при наличии туберкулеза с множественной лекарственной устойчивостью</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>710106005</td>
+<td colspan="2">туберкулез с широкой лекарственной устойчивостью – при наличии туберкулеза с множественной лекарственной устойчивостью</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>73211009</td>
+<td colspan="2">сахарный диабет</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>9769006</td>
+<td colspan="2">наркомания</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>7200002</td>
+<td colspan="2">злоупотребление алкоголем</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>278838006</td>
+<td colspan="2">нахождение в местах лишения свободы за последние 2 года</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>19030005</td>
+<td colspan="2">Вирус иммунодефицита человека</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>289908002</td>
+<td colspan="2">беременность</td>
+</tr>
+<tr>
+<td>1.10</td>
+<td>90351000119108</td>
+<td colspan="2">не вакцинирован БЦЖ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Характер проведенного лечения»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>395077000</td>
+<td colspan="2">Характер проведенного лечения</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>255612005</td>
+<td colspan="2">радикальный</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>363676003</td>
+<td colspan="2">паллиативный</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>264931009</td>
+<td colspan="2">симптоматический</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Характер родов»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>118215003</td>
+<td colspan="2">Характер родов</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>48782003</td>
+<td colspan="2">физиологические</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>274127000</td>
+<td colspan="2">патологические</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th>№</th>
+<th>Код</th>
+<th colspan="2">Наименование</th>
+</tr>
+<tr>
+<th colspan="4">«Частота потребления наркотика»</th>
+</tr>
+<tr>
+<td>1</td>
+<td>7389001</td>
+<td colspan="2">Частота потребления:</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>228428007</td>
+<td colspan="2">ежедневно</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>225751007</td>
+<td colspan="2">2-3 раза в неделю</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>396113003</td>
+<td colspan="2">3-4 раза в неделю</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>307446005</td>
+<td colspan="2">5 раз в неделю</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>307447001</td>
+<td colspan="2">6 раз в неделю</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>225769003</td>
+<td colspan="2">1 раз в неделю и меньше</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>258706009</td>
+<td colspan="2">не употреблял последние 30 дней</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th colspan="5">Алгоритм кодирования медицинской услуги</th>
+</tr>
+<tr>
+<th>Раздел медицинской услуги</th>
+<th>Тип медицинской услуги</th>
+<th>Класс медицинской услуги (анатомо-функциональная область и (или) перечень медицинских специальностей)</th>
+<th>Медицинская услуга с законченным диагностическим или лечебным значением</th>
+<th>Подвид медицинской услуги</th>
+</tr>
+<tr>
+<td>A</td>
+<td>01-03</td>
+<td>01-76 (перечень медицинских специальностей)</td>
+<td>001-999</td>
+<td>001-999</td>
+</tr>
+<tr>
+<td>В</td>
+<td>01-23</td>
+<td>01-30 (анатомо-функциональная область)</td>
+<td>001-999</td>
+<td>001-999</td>
+</tr>
+</table>
+
+Примечание (к алгоритму кодирования медицинской услуги):
+
+Код услуги состоит из буквенно-цифрового шифра от 8 до 11 знаков. Медицинские услуги распределены на два раздела «А» и «В», построенных по иерархическому принципу.
+
+Раздел «А» включает консультации специалистов, медицинские услуги по профилактике – вакцинацию, скрининг, школы здоровья, а также медицинские услуги по направлениям классов раздела «А», неклассифицированные в разделе «B» (например, анестезии, медицинские экспертизы).
+
+Раздел «А» (от 01 до 03) включает следующие типы медицинских услуг:
+
+01 – прием врача-специалиста (осмотр, консультация);
+
+02 – медицинские услуги по профилактике, включающие вакцинацию, скрининг и школы здоровья;
+
+03 – медицинские услуги, не относящиеся к вышеперечисленным типам;
+
+Раздел «В» включает медицинские услуги, представляющие собой определенные виды медицинских вмешательств, направленные на профилактику, диагностику и лечение заболеваний, медицинскую реабилитацию.
+
+Цифровое значение медицинской услуги состоящая из трех чисел (от 001 до 099) обозначает медицинские услуги, имеющие законченное профилактическое, диагностическое или лечебное значение. Медицинские услуги могут содержать подвиды в зависимости от наличия спецификации услуги.
+
+Цифровое значение подвида медицинской услуги состоящая из трех чисел (от 001 до 999) представляет спецификацию медицинской услуги. Часть медицинских услуг может не содержать подвиды услуг.
+
+<table>
+<tr>
+<th colspan="3">Классификатор медицинских услуг (раздел А)</th>
+</tr>
+<tr>
+<th>№ п/п</th>
+<th>Цифровое значение</th>
+<th>Медицинские специальности</th>
+</tr>
+<tr>
+<td>1</td>
+<td>01</td>
+<td>Акушерство-гинекология</td>
+</tr>
+<tr>
+<td>2</td>
+<td>02</td>
+<td>Аллергология и иммунология</td>
+</tr>
+<tr>
+<td>3</td>
+<td>03</td>
+<td>Аллергология и иммунология детская</td>
+</tr>
+<tr>
+<td>4</td>
+<td>04</td>
+<td>Ангиохирургия (взрослая, детская)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>05</td>
+<td>Анестезиология и реаниматология</td>
+</tr>
+<tr>
+<td>6</td>
+<td>06</td>
+<td>Анестезиология и реаниматология детская</td>
+</tr>
+<tr>
+<td>7</td>
+<td>07</td>
+<td>Гастроэнтерология</td>
+</tr>
+<tr>
+<td>8</td>
+<td>08</td>
+<td>Гастроэнтерология детская</td>
+</tr>
+<tr>
+<td>9</td>
+<td>09</td>
+<td>Гематология</td>
+</tr>
+<tr>
+<td>10</td>
+<td>10</td>
+<td>Гематология детская</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11</td>
+<td>Гериатрия</td>
+</tr>
+<tr>
+<td>12</td>
+<td>12</td>
+<td>Дерматовенерология</td>
+</tr>
+<tr>
+<td>13</td>
+<td>13</td>
+<td>Дерматовенерология детская</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14</td>
+<td>Детская хирургия</td>
+</tr>
+<tr>
+<td>15</td>
+<td>15</td>
+<td>Инфекционные болезни</td>
+</tr>
+<tr>
+<td>16</td>
+<td>16</td>
+<td>Инфекционные болезни детские</td>
+</tr>
+<tr>
+<td>17</td>
+<td>17</td>
+<td>Кардиология</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18</td>
+<td>Кардиология детская</td>
+</tr>
+<tr>
+<td>19</td>
+<td>19</td>
+<td>Кардиохирургия</td>
+</tr>
+<tr>
+<td>20</td>
+<td>20</td>
+<td>Кардиохирургия детская</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21</td>
+<td>Клиническая лабораторная диагностика</td>
+</tr>
+<tr>
+<td>22</td>
+<td>22</td>
+<td>Клиническая фармакология</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23</td>
+<td>Медико-профилактическое дело</td>
+</tr>
+<tr>
+<td>24</td>
+<td>24</td>
+<td>Медицинская генетика</td>
+</tr>
+<tr>
+<td>25</td>
+<td>25</td>
+<td>Неврология</td>
+</tr>
+<tr>
+<td>26</td>
+<td>26</td>
+<td>Неврология детская</td>
+</tr>
+<tr>
+<td>27</td>
+<td>27</td>
+<td>Нейрохирургия</td>
+</tr>
+<tr>
+<td>28</td>
+<td>28</td>
+<td>Нейрохирургия детская</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29</td>
+<td>Неонатология</td>
+</tr>
+<tr>
+<td>30</td>
+<td>30</td>
+<td>Неотложная медицина взрослая</td>
+</tr>
+<tr>
+<td>31</td>
+<td>31</td>
+<td>Неотложная медицина детская</td>
+</tr>
+<tr>
+<td>32</td>
+<td>32</td>
+<td>Нефрология</td>
+</tr>
+<tr>
+<td>33</td>
+<td>33</td>
+<td>Нефрология детская</td>
+</tr>
+<tr>
+<td>34</td>
+<td>34</td>
+<td>Общая врачебная практика</td>
+</tr>
+<tr>
+<td>35</td>
+<td>35</td>
+<td>Общая хирургия</td>
+</tr>
+<tr>
+<td>36</td>
+<td>36</td>
+<td>Онкология</td>
+</tr>
+<tr>
+<td>37</td>
+<td>37</td>
+<td>Онкология детская</td>
+</tr>
+<tr>
+<td>38</td>
+<td>38</td>
+<td>Ортодонтия</td>
+</tr>
+<tr>
+<td>39</td>
+<td>39</td>
+<td>Оториноларингология</td>
+</tr>
+<tr>
+<td>40</td>
+<td>40</td>
+<td>Оториноларингология детская</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41</td>
+<td>Офтальмология</td>
+</tr>
+<tr>
+<td>42</td>
+<td>42</td>
+<td>Офтальмология детская</td>
+</tr>
+<tr>
+<td>43</td>
+<td>43</td>
+<td>Патологическая анатомия</td>
+</tr>
+<tr>
+<td>44</td>
+<td>44</td>
+<td>Педиатрия</td>
+</tr>
+<tr>
+<td>45</td>
+<td>45</td>
+<td>Психиатрия</td>
+</tr>
+<tr>
+<td>46</td>
+<td>46</td>
+<td>Психиатрия детская</td>
+</tr>
+<tr>
+<td>47</td>
+<td>47</td>
+<td>Пульмонология</td>
+</tr>
+<tr>
+<td>48</td>
+<td>48</td>
+<td>Пульмонология детская</td>
+</tr>
+<tr>
+<td>49</td>
+<td>49</td>
+<td>Радиология</td>
+</tr>
+<tr>
+<td>50</td>
+<td>50</td>
+<td>Ревматология</td>
+</tr>
+<tr>
+<td>51</td>
+<td>51</td>
+<td>Ревматология детская</td>
+</tr>
+<tr>
+<td>52</td>
+<td>52</td>
+<td>Семейная медицина</td>
+</tr>
+<tr>
+<td>53</td>
+<td>53</td>
+<td>Спортивная медицина</td>
+</tr>
+<tr>
+<td>54</td>
+<td>54</td>
+<td>Стоматология</td>
+</tr>
+<tr>
+<td>55</td>
+<td>55</td>
+<td>Стоматология детского возраста</td>
+</tr>
+<tr>
+<td>56</td>
+<td>56</td>
+<td>Стоматология ортопедическая</td>
+</tr>
+<tr>
+<td>57</td>
+<td>57</td>
+<td>Стоматология терапевтическая</td>
+</tr>
+<tr>
+<td>58</td>
+<td>58</td>
+<td>Стоматология хирургическая</td>
+</tr>
+<tr>
+<td>59</td>
+<td>59</td>
+<td>Судебно-медицинская экспертиза</td>
+</tr>
+<tr>
+<td>60</td>
+<td>60</td>
+<td>Терапия</td>
+</tr>
+<tr>
+<td>61</td>
+<td>61</td>
+<td>Токсикология</td>
+</tr>
+<tr>
+<td>62</td>
+<td>62</td>
+<td>Токсикология детская</td>
+</tr>
+<tr>
+<td>63</td>
+<td>63</td>
+<td>Травматология-ортопедия</td>
+</tr>
+<tr>
+<td>64</td>
+<td>64</td>
+<td>Травматология-ортопедия детская</td>
+</tr>
+<tr>
+<td>65</td>
+<td>65</td>
+<td>Трансфузиология</td>
+</tr>
+<tr>
+<td>66</td>
+<td>66</td>
+<td>Урология</td>
+</tr>
+<tr>
+<td>67</td>
+<td>67</td>
+<td>Урология детская</td>
+</tr>
+<tr>
+<td>68</td>
+<td>68</td>
+<td>Физическая медицина и реабилитация</td>
+</tr>
+<tr>
+<td>69</td>
+<td>69</td>
+<td>Фтизиатрия</td>
+</tr>
+<tr>
+<td>70</td>
+<td>70</td>
+<td>Фтизиатрия детская</td>
+</tr>
+<tr>
+<td>71</td>
+<td>71</td>
+<td>Функциональная диагностика</td>
+</tr>
+<tr>
+<td>72</td>
+<td>72</td>
+<td>Челюстно-лицевая хирургия</td>
+</tr>
+<tr>
+<td>73</td>
+<td>73</td>
+<td>Челюстно-лицевая хирургия детская</td>
+</tr>
+<tr>
+<td>74</td>
+<td>74</td>
+<td>Эндокринология</td>
+</tr>
+<tr>
+<td>75</td>
+<td>75</td>
+<td>Эндокринология детская</td>
+</tr>
+<tr>
+<td>76</td>
+<td>76</td>
+<td>Медицинские услуги, не относящиеся к вышеперечисленным классам</td>
+</tr>
+</table>
+
+Примечание (к классификатору медицинских услуг раздел А):
+
+Классы раздела «А» (от 01 до 76) обозначают медицинские специальности.
+
+Класс идентичен во всех типовых разделах. Если для класса в определенном типовом разделе не выделяется конкретная услуга, то этот класс не прописывается, при этом за ним сохранен его порядковый номер.
+
+Класс «Медицинские услуги, не относящиеся к вышеперечисленным классам» включает в себя медицинские специальности неклассифицированные в номенклатуре медицинских специальностей (например, торакальная хирургия, колопроктология).
+
+<table>
+<tr>
+<th colspan="3">Классификатор медицинских услуг (раздел В часть 1)</th>
+</tr>
+<tr>
+<th>№</th>
+<th>Цифровое значение</th>
+<th>Тип медицинской услуги</th>
+</tr>
+<tr>
+<td>1</td>
+<td>01</td>
+<td>функциональные методы диагностики с использованием простых приспособлений и приборов</td>
+</tr>
+<tr>
+<td>2</td>
+<td>02</td>
+<td>визуальная диагностика, требующая специальных приборов</td>
+</tr>
+<tr>
+<td>3</td>
+<td>03</td>
+<td>методы регистрации звуковых сигналов, издаваемых или отражающихся органами или тканями, расшифровка и описание</td>
+</tr>
+<tr>
+<td>4</td>
+<td>04</td>
+<td>методы регистрации электромагнитных сигналов, испускаемых или потенцированных в органах и тканях, расшифровка и описание</td>
+</tr>
+<tr>
+<td>5</td>
+<td>05</td>
+<td>рентгенологические методы диагностики и рентгенотерапия</td>
+</tr>
+<tr>
+<td>6</td>
+<td>06</td>
+<td>радионуклидная диагностика и методы радиационной терапии</td>
+</tr>
+<tr>
+<td>7</td>
+<td>07</td>
+<td>методы получения исследуемых образцов, доступа и введения</td>
+</tr>
+<tr>
+<td>8</td>
+<td>08</td>
+<td>исследования функции органов или тканей с использованием специальных процедур, приспособлений и методик, не обозначенных в других рубриках, направленных на прямое исследование функции органов или тканей</td>
+</tr>
+<tr>
+<td>9</td>
+<td>09</td>
+<td>исследования биологических материалов, с помощью которых исследуются концентрации веществ и активность ферментов</td>
+</tr>
+<tr>
+<td>10</td>
+<td>10</td>
+<td>микробиологические исследования</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11</td>
+<td>морфологические исследования тканей</td>
+</tr>
+<tr>
+<td>12</td>
+<td>12</td>
+<td>генетические исследования</td>
+</tr>
+<tr>
+<td>13</td>
+<td>13</td>
+<td>исследования и воздействия на сознание и психическую сферу</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14</td>
+<td>лечение с помощью простых физических воздействий на пациента (массаж, иглорефлексотерапия, мануальная терапия, остеопатия)</td>
+</tr>
+<tr>
+<td>15</td>
+<td>15</td>
+<td>лечебная физкультура, применяемая при заболеваниях определенных органов и систем</td>
+</tr>
+<tr>
+<td>16</td>
+<td>16</td>
+<td>лечение климатическими воздействиями</td>
+</tr>
+<tr>
+<td>17</td>
+<td>17</td>
+<td>диагностика и лечение, основанные на тепловых эффектах</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18</td>
+<td>лечение с помощью лучевого (звукового, светового, ультрафиолетового, лазерного) воздействия</td>
+</tr>
+<tr>
+<td>19</td>
+<td>19</td>
+<td>электромагнитное лечебное воздействие на органы и ткани</td>
+</tr>
+<tr>
+<td>20</td>
+<td>20</td>
+<td>экстракорпоральное воздействие на кровь и трансфузиологические пособия</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21</td>
+<td>хирургическое лечение</td>
+</tr>
+<tr>
+<td>22</td>
+<td>22</td>
+<td>десмургия, иммобилизация, бандажи, ортопедические пособия</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23</td>
+<td>уход за больными или отдельными анатомо-физиологическими элементами организма и (или) сестринский уход</td>
+</tr>
+</table>
+
+Примечание (к классификатору медицинских услуг раздел В часть 1):
+
+Раздел «B» (от 01 до 23) включает типы медицинских услуг, представленные в таблице.
+
+<table>
+<tr>
+<th colspan="3">Классификатор медицинских услуг (раздел В часть 2)</th>
+</tr>
+<tr>
+<th>№</th>
+<th>Цифровое значение</th>
+<th>Анатомо-функциональная область</th>
+</tr>
+<tr>
+<td>1</td>
+<td>01</td>
+<td>кожа, подкожно-жировая клетчатка, придатки кожи</td>
+</tr>
+<tr>
+<td>2</td>
+<td>02</td>
+<td>мышечная система</td>
+</tr>
+<tr>
+<td>3</td>
+<td>03</td>
+<td>костная система</td>
+</tr>
+<tr>
+<td>4</td>
+<td>04</td>
+<td>суставы</td>
+</tr>
+<tr>
+<td>5</td>
+<td>05</td>
+<td>система органов кроветворения и кровь</td>
+</tr>
+<tr>
+<td>6</td>
+<td>06</td>
+<td>иммунная система</td>
+</tr>
+<tr>
+<td>7</td>
+<td>07</td>
+<td>полость рта и зубы</td>
+</tr>
+<tr>
+<td>8</td>
+<td>08</td>
+<td>верхние дыхательные пути</td>
+</tr>
+<tr>
+<td>9</td>
+<td>09</td>
+<td>нижние дыхательные пути и легочная ткань</td>
+</tr>
+<tr>
+<td>10</td>
+<td>10</td>
+<td>сердце и перикард</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11</td>
+<td>средостение</td>
+</tr>
+<tr>
+<td>12</td>
+<td>12</td>
+<td>крупные кровеносные сосуды</td>
+</tr>
+<tr>
+<td>13</td>
+<td>13</td>
+<td>система микроциркуляции</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14</td>
+<td>печень и желчевыводящие пути</td>
+</tr>
+<tr>
+<td>15</td>
+<td>15</td>
+<td>поджелудочная железа</td>
+</tr>
+<tr>
+<td>16</td>
+<td>16</td>
+<td>пищевод, желудок, двенадцатиперстная кишка</td>
+</tr>
+<tr>
+<td>17</td>
+<td>17</td>
+<td>тонкая кишка</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18</td>
+<td>толстая кишка</td>
+</tr>
+<tr>
+<td>19</td>
+<td>19</td>
+<td>сигмовидная и прямая кишка</td>
+</tr>
+<tr>
+<td>20</td>
+<td>20</td>
+<td>женские половые органы</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21</td>
+<td>мужские половые органы</td>
+</tr>
+<tr>
+<td>22</td>
+<td>22</td>
+<td>железы внутренней секреции</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23</td>
+<td>центральная нервная система и головной мозг</td>
+</tr>
+<tr>
+<td>24</td>
+<td>24</td>
+<td>периферическая нервная система</td>
+</tr>
+<tr>
+<td>25</td>
+<td>25</td>
+<td>орган слуха</td>
+</tr>
+<tr>
+<td>26</td>
+<td>26</td>
+<td>орган зрения</td>
+</tr>
+<tr>
+<td>27</td>
+<td>27</td>
+<td>орган обоняния</td>
+</tr>
+<tr>
+<td>28</td>
+<td>28</td>
+<td>почки и мочевыделительная система</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29</td>
+<td>психическая сфера</td>
+</tr>
+<tr>
+<td>30</td>
+<td>30</td>
+<td>анатомо-функциональные области, не относящиеся к вышеперечисленным классам</td>
+</tr>
+</table>
+
+Примечание (к классификатору медицинских услуг раздел В часть 2):
+
+Класс раздела «B» (от 01 до 30) обозначает анатомо-функциональную область.
+
+Класс медицинской услуги идентичен во всех типовых разделах. Если для класса в определенном типовом разделе не ААвыделяется конкретная услуга, то этот класс не прописывается, при этом за ним сохраняется его порядковый номер.
+
+Класс «Анатомо-функциональные области, не относящиеся к вышеперечисленным классам» включает медицинские услуги, которые не могут быть классифицированы в представленных анатомо-функциональных подразделах, либо охватывают несколько анатомо-функциональных областей.
