@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/95301/rus/08.10.2015
+source: https://zan.gov.kz/client/#!/doc/95301/rus/10.02.2021
 ---
 
 ## Отдельные объекты жилой зоны военного городка
