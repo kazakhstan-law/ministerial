@@ -14,6 +14,11 @@ approval_date: 2015-10-28
 version_date: 2015-10-28
 registry_number: '96056'
 source: https://zan.gov.kz/client/#!/doc/96056/kaz/28.10.2015
+repealed_on: 2022-01-01
+repealed_by:
+  code: '152958'
+  title: Қазақстан Республикасы Ауыл шаруашылығы министрлігінің кейбір бұйрықтарының күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/152958/kaz
 ---
 
 # Мақтаны сандық-сапалық есепке алуды жүргізу қағидаларын бекіту туралы
