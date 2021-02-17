@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85823/kaz/14.05.2020
+source: https://zan.gov.kz/client/#!/doc/85823/kaz/17.02.2021
 ---
 
 > *Спорт резервін және жоғары дәрежелі*  
