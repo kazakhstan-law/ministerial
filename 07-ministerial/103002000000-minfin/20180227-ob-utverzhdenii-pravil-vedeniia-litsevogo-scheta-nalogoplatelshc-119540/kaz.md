@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/119540/kaz/17.06.2020
+source: https://zan.gov.kz/client/#!/doc/119540/kaz/19.02.2021
 ---
 
 # Жеке шоттарын жүргізу қағидаларын бекіту туралы
