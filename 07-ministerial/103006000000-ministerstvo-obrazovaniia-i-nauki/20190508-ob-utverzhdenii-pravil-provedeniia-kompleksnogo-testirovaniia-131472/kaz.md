@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/131472/kaz/28.09.2020
+source: https://zan.gov.kz/client/#!/doc/131472/kaz/25.02.2021
 ---
 
 # Кешенді тестілеуді өткізу қағидаларын бекіту туралы
