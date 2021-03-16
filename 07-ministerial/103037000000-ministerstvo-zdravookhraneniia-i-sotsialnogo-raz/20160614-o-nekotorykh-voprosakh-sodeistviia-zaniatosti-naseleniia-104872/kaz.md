@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104872/kaz/12.06.2020
+source: https://zan.gov.kz/client/#!/doc/104872/kaz/16.03.2021
 ---
 
 # Халықты жұмыспен қамтуға жәрдемдесудің кейбір мәселелері туралы
