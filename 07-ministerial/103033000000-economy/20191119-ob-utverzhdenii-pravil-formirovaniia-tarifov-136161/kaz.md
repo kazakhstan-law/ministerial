@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/136161/kaz/16.11.2020
+source: https://zan.gov.kz/client/#!/doc/136161/kaz/25.03.2021
 ---
 
 # Тарифтерді қалыптастыру қағидаларын бекіту туралы
