@@ -14,6 +14,11 @@ approval_date: 2021-03-25
 version_date: 2021-03-25
 registry_number: '153812'
 source: https://zan.gov.kz/client/#!/doc/153812/kaz/25.03.2021
+repealed_on: 2022-01-01
+repealed_by:
+  code: '153812'
+  title: Уақытша теңгерімдеу төлемақысын есептеу және төлеу қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/153812/kaz
 ---
 
 # Уақытша теңгерімдеу төлемақысын есептеу және төлеу қағидаларын бекіту туралы

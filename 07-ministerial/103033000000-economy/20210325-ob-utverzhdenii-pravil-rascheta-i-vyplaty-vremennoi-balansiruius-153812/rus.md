@@ -14,6 +14,11 @@ approval_date: 2021-03-25
 version_date: 2021-03-25
 registry_number: '153812'
 source: https://zan.gov.kz/client/#!/doc/153812/rus/25.03.2021
+repealed_on: 2022-01-01
+repealed_by:
+  code: '153812'
+  title: Об утверждении Правил расчета и выплаты временной балансирующей платы
+  link: https://zan.gov.kz/client/#!/doc/153812/rus
 ---
 
 # Об утверждении Правил расчета и выплаты временной балансирующей платы
