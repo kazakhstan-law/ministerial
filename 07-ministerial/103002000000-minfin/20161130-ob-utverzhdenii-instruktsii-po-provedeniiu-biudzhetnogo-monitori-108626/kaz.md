@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/108626/kaz/20.02.2020
+source: https://zan.gov.kz/client/#!/doc/108626/kaz/26.03.2021
 ---
 
 # Бюджеттік мониторинг жүргізу нұсқаулығын бекіту туралы
